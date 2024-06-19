@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: diese Person
-Notiz: ''
 Beispielsatz: この方を知りませんでした。
 Beispielsatz-Lesung: この 方[ほう]を 知[し]りませんでした。
 Beispielsatz-Übersetzung: Ich kannte diese Person nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

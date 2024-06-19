@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwanzig Jahre alt
-Notiz: ''
 Beispielsatz: この8月で二十歳になる。
 Beispielsatz-Lesung: この8 月[つき]で 二十歳[はたち]になる。
 Beispielsatz-Übersetzung: Ich werde diesen August zwanzig Jahre alt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

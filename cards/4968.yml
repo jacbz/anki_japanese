@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gebärdensprache
-Notiz: ''
 Beispielsatz: 手話を習いたい。
 Beispielsatz-Lesung: 手話[しゅわ]を 習[なら]いたい。
 Beispielsatz-Übersetzung: Ich möchte Gebärdensprache lernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

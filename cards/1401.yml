@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übernehmen, nachfolgen
-Notiz: ''
 Beispielsatz: 彼はお父さんの後を継いで社長になる予定だ。
 Beispielsatz-Lesung: 彼[かれ]はお 父[とう]さんの 後[のち]を 継[つ]いで 社長[しゃちょう]になる 予定[よてい]だ。
 Beispielsatz-Übersetzung: Er wird seinen Vater als Firmenpräsidenten nachfolgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

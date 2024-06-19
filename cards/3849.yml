@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Merkmal, Eigenschaft
-Notiz: ''
 Beispielsatz: この点がこの大学の最大の特色である。
 Beispielsatz-Lesung: この 点[てん]がこの 大学[だいがく]の 最大[さいだい]の 特色[とくしょく]である。
 Beispielsatz-Übersetzung: Dies ist das Hauptmerkmal der Universität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

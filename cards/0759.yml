@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hinuntergehen; herunterkommen
-Notiz: ''
 Beispielsatz: 階段を下りた。
 Beispielsatz-Lesung: 階段[かいだん]を 下[お]りた。
 Beispielsatz-Übersetzung: Ich bin die Treppe hinuntergegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

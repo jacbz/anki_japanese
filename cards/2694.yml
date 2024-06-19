@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mitbringsel, Souvenir
-Notiz: ''
 Beispielsatz: 旅行先で家族へのお土産を買った。
 Beispielsatz-Lesung: 旅行先[りょこうさき]で 家族[かぞく]へのお 土産[みやげ]を 買[か]った。
 Beispielsatz-Übersetzung: Ich habe während meiner Reise Souvenirs für meine Familie
   gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

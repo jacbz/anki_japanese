@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verhältnis, Anteil
-Notiz: ''
 Beispielsatz: この事務所の男女の比率が逆転した。
 Beispielsatz-Lesung: この 事務所[じむしょ]の 男女[だんじょ]の 比率[ひりつ]が 逆転[ぎゃくてん]した。
 Beispielsatz-Übersetzung: Das Verhältnis von Männern und Frauen in diesem Büro hat
   sich umgekehrt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dreißig Jahre
-Notiz: ''
 Beispielsatz: 私達は三十年間お互いのことを知っている。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は三十 年間[ねんかん]お 互[たが]いのことを 知[し]っている。
 Beispielsatz-Übersetzung: Wir kennen uns schon seit dreißig Jahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

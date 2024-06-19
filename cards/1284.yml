@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: eins, Stück
-Notiz: ''
 Beispielsatz: 一個いくらですか。
 Beispielsatz-Lesung: 一 個[こ]いくらですか。
 Beispielsatz-Übersetzung: Wie viel für einen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

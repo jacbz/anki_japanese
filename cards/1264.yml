@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: so viel wie möglich, wenn möglich
-Notiz: ''
 Beispielsatz: なるべく多くの情報を集めてください。
 Beispielsatz-Lesung: なるべく 多[おお]くの 情報[じょうほう]を 集[あつ]めてください。
 Beispielsatz-Übersetzung: Sie sollten so viele Informationen wie möglich sammeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. n.
 Definition: besser; Anstieg
-Notiz: ''
 Beispielsatz: 貯金は少ないが、ないよりはましだ。
 Beispielsatz-Lesung: 貯金[ちょきん]は 少[すく]ないが、ないよりはましだ。
 Beispielsatz-Übersetzung: Meine Ersparnisse sind gering, aber es ist besser als nichts.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

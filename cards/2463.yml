@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Weisheit
-Notiz: ''
 Beispielsatz: お年寄りの知恵は尊重すべきだ。
 Beispielsatz-Lesung: お 年寄[としよ]りの 知恵[ちえ]は 尊重[そんちょう]すべきだ。
 Beispielsatz-Übersetzung: Die Weisheit älterer Menschen sollte respektiert werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

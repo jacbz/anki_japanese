@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ball
-Notiz: ''
 Beispielsatz: ゴールに向けてボールを蹴った。
 Beispielsatz-Lesung: ゴールに 向[む]けてボールを 蹴[け]った。
 Beispielsatz-Übersetzung: Ich habe den Ball in Richtung Tor geschossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

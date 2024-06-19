@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eindruck, Meinung
-Notiz: ''
 Beispielsatz: この本の感想はどうですか？
 Beispielsatz-Lesung: この 本[ほん]の 感想[かんそう]はどうですか？
 Beispielsatz-Übersetzung: Wie ist dein Eindruck von diesem Buch?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

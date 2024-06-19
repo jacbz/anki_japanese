@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: sechzig
-Notiz: ''
 Beispielsatz: 節分に豆を六十食べた。
 Beispielsatz-Lesung: 節分[せつぶん]に 豆[まめ]を六十 食[た]べた。
 Beispielsatz-Übersetzung: Ich habe am Setsubun (Fest zum Ende des Winters und zum
   Beginn des Frühlings) sechzig Bohnen gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

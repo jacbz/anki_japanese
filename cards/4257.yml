@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anhalten, stoppen
-Notiz: ''
 Beispielsatz: 彼はたばこを吸うために立ち止まった。
 Beispielsatz-Lesung: 彼[かれ]はたばこを 吸[す]うために 立[た]ち 止[ど]まった。
 Beispielsatz-Übersetzung: Er hielt an, um zu rauchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. v.
 Definition: Fortschritt
-Notiz: ''
 Beispielsatz: 結婚式の進行について確認する。
 Beispielsatz-Lesung: 結婚式[けっこんしき]の 進行[しんこう]について 確認[かくにん]する。
 Beispielsatz-Übersetzung: Sie überprüfen den Fortgang der Hochzeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: extrem
-Notiz: ''
 Beispielsatz: それは極端すぎる。
 Beispielsatz-Lesung: それは 極端[きょくたん]すぎる。
 Beispielsatz-Übersetzung: Das geht zu weit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

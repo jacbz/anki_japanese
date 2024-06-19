@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tiefe
-Notiz: ''
 Beispielsatz: その湖の深さは5メートルです。
 Beispielsatz-Lesung: その 湖[みずうみ]の 深[ふか]さは5メートルです。
 Beispielsatz-Übersetzung: Der See ist fünf Meter tief.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

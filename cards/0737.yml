@@ -7,7 +7,9 @@ Alternative: |2-
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erscheinen
-Notiz: ''
 Beispielsatz: 歌手が舞台に現れた。
 Beispielsatz-Lesung: 歌手[かしゅ]が 舞台[ぶたい]に 現[あらわ]れた。
 Beispielsatz-Übersetzung: Der Sänger erschien auf der Bühne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

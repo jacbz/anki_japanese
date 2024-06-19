@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Müdigkeit, Erschöpfung, Ermüdung
-Notiz: ''
 Beispielsatz: 最近疲れがたまっている。
 Beispielsatz-Lesung: 最近[さいきん] 疲[つか]れがたまっている。
 Beispielsatz-Übersetzung: In letzter Zeit bin ich sehr müde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

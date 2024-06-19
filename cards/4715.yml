@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verwelken, sterben
-Notiz: ''
 Beispielsatz: 雨不足で植物が枯れた。
 Beispielsatz-Lesung: 雨[あめ] 不足[ふそく]で 植物[しょくぶつ]が 枯[か]れた。
 Beispielsatz-Übersetzung: Die Pflanzen sind aufgrund von Wassermangel verwelkt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

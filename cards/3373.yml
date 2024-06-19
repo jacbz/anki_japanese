@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wohnsiedlung
-Notiz: ''
 Beispielsatz: この団地は1980年代につくられた。
 Beispielsatz-Lesung: この 団地[だんち]は1980 年代[ねんだい]につくられた。
 Beispielsatz-Übersetzung: Diese Wohnsiedlung wurde in den 1980er Jahren gebaut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

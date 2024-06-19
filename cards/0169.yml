@@ -5,7 +5,9 @@ Alternative: 眼
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Auge
-Notiz: ''
 Beispielsatz: 彼女は目が大きい。
 Beispielsatz-Lesung: 彼女[かのじょ]は 目[め]が 大[おお]きい。
 Beispielsatz-Übersetzung: Sie hat große Augen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

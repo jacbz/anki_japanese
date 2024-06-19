@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ding
-Notiz: ''
 Beispielsatz: 今年はいろいろな事があった。
 Beispielsatz-Lesung: 今年[ことし]はいろいろな 事[こと]があった。
 Beispielsatz-Übersetzung: Dieses Jahr gab es allerlei Dinge.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kindererziehung
-Notiz: ''
 Beispielsatz: 子育ては長くて大変な仕事だ。
 Beispielsatz-Lesung: 子育[こそだ]ては 長[なが]くて 大変[たいへん]な 仕事[しごと]だ。
 Beispielsatz-Übersetzung: Kindererziehung ist eine lange und harte Arbeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: König, Monarch
-Notiz: ''
 Beispielsatz: あの国の王様に会う。
 Beispielsatz-Lesung: あの 国[くに]の 王様[おうさま]に 会[あ]う。
 Beispielsatz-Übersetzung: Wir werden den König jenes Landes treffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

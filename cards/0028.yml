@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: werden
-Notiz: ''
 Beispielsatz: 彼は金持ちになるでしょう。
 Beispielsatz-Lesung: 彼[かれ]は 金持[かねも]ちになるでしょう。
 Beispielsatz-Übersetzung: Er wird reich werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

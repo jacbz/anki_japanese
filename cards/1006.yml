@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Luft
-Notiz: ''
 Beispielsatz: 空には雲が一つもない。
 Beispielsatz-Lesung: 空[そら]には 雲[くも]が 一[ひと]つもない。
 Beispielsatz-Übersetzung: Es gibt keine einzige Wolke am Himmel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

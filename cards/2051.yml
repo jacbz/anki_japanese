@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mitarbeiter
-Notiz: ''
 Beispielsatz: この市役所には英語が話せる職員が二名おります。
 Beispielsatz-Lesung: この 市役所[しやくしょ]には 英語[えいご]が 話[はな]せる 職員[しょくいん]が二 名[めい]おります。
 Beispielsatz-Übersetzung: In diesem Rathaus gibt es zwei Mitarbeiter, die Englisch
   sprechen können.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

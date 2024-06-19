@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich verstecken, verbergen
-Notiz: ''
 Beispielsatz: 彼は茂みの陰に隠れた。
 Beispielsatz-Lesung: 彼[かれ]は 茂[しげ]みの 陰[かげ]に 隠[かく]れた。
 Beispielsatz-Übersetzung: Er hat sich hinter den Sträuchern versteckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

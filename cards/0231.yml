@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gefühl
-Notiz: ''
 Beispielsatz: 風呂は気持ちがいい。
 Beispielsatz-Lesung: 風呂[ふろ]は 気持[きも]ちがいい。
 Beispielsatz-Übersetzung: Es fühlt sich gut an, ein Bad zu nehmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

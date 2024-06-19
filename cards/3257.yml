@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gelb
-Notiz: ''
 Beispielsatz: 好きな色は黄色です。
 Beispielsatz-Lesung: 好[す]きな 色[いろ]は 黄色[きいろ]です。
 Beispielsatz-Übersetzung: Meine Lieblingsfarbe ist gelb.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

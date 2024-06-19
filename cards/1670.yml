@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Art, Sorte
-Notiz: ''
 Beispielsatz: 私はこの種の仕事に慣れていない。
 Beispielsatz-Lesung: 私[わたし]はこの 種[しゅ]の 仕事[しごと]に 慣[な]れていない。
 Beispielsatz-Übersetzung: Ich bin nicht an diese Art von Arbeit gewöhnt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

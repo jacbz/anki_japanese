@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünfter (Tag); fünf Tage
-Notiz: ''
 Beispielsatz: 五月五日はこどもの日だ。
 Beispielsatz-Lesung: 五月[ごがつ] 五日[いつか]はこどもの 日[ひ]だ。
 Beispielsatz-Übersetzung: Der 5. Mai ist der Tag der Kinder.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

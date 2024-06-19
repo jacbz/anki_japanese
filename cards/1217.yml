@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: führen; kommunizieren, verstehen
-Notiz: ''
 Beispielsatz: 駅へ通じる道はいつも混雑している。
 Beispielsatz-Lesung: 駅[えき]へ 通[つう]じる 道[みち]はいつも 混雑[こんざつ]している。
 Beispielsatz-Übersetzung: Die Straße, die zum Bahnhof führt, ist immer überfüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

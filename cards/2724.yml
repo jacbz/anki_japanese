@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ganzer Körper, der gesamte Körper
-Notiz: ''
 Beispielsatz: 雨で全身が濡れてしまった。
 Beispielsatz-Lesung: 雨[あめ]で 全身[ぜんしん]が 濡[ぬ]れてしまった。
 Beispielsatz-Übersetzung: Ich wurde vom Regen von Kopf bis Fuß nass.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

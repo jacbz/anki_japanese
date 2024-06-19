@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: reichlich, vollständig; Fülle
-Notiz: ''
 Beispielsatz: このスープは野菜がたっぷり入っている。
 Beispielsatz-Lesung: このスープは 野菜[やさい]がたっぷり 入[はい]っている。
 Beispielsatz-Übersetzung: Diese Suppe ist reich an Gemüse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ältere Schwester
-Notiz: ''
 Beispielsatz: 姉はもう結婚しています。
 Beispielsatz-Lesung: 姉[あね]はもう 結婚[けっこん]しています。
 Beispielsatz-Übersetzung: Meine ältere Schwester ist bereits verheiratet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

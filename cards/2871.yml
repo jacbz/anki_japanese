@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: See
-Notiz: ''
 Beispielsatz: 私たちは湖で釣りをしている。
 Beispielsatz-Lesung: 私[わたし]たちは 湖[みずうみ]で 釣[つ]りをしている。
 Beispielsatz-Übersetzung: Wir sind zum Angeln auf dem See.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

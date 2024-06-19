@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ruhig
-Notiz: ''
 Beispielsatz: 焦ると冷静な判断ができなくなる。
 Beispielsatz-Lesung: 焦[あせ]ると 冷静[れいせい]な 判断[はんだん]ができなくなる。
 Beispielsatz-Übersetzung: Ist nicht möglich, eine ruhige Beurteilung zu treffen, wenn
   ich in Eile bin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

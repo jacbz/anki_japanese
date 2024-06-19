@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: tagsüber
-Notiz: ''
 Beispielsatz: 日中は外に出ない。
 Beispielsatz-Lesung: 日中[にっちゅう]は 外[そと]に 出[で]ない。
 Beispielsatz-Übersetzung: Ich werde tagsüber nicht rausgehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

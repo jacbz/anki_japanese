@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stand der Dinge, Umstände
-Notiz: ''
 Beispielsatz: 困難な状況の中で、救助活動が続けられている。
 Beispielsatz-Lesung: 困難[こんなん]な 状況[じょうきょう]の 中[なか]で、 救助[きゅうじょ] 活動[かつどう]が 続[つづ]けられている。
 Beispielsatz-Übersetzung: Die Rettungsarbeiten werden unter schwierigen Umständen
   fortgesetzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

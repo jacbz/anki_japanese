@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: angemessen, passend, geeignet; unverantwortlich, launisch
-Notiz: ''
 Beispielsatz: サーモンは適当な大きさに切ってください。
 Beispielsatz-Lesung: サーモンは 適当[てきとう]な 大[おお]きさに 切[き]ってください。
 Beispielsatz-Übersetzung: Schneiden Sie den Lachs in Stücke von angemessener Größe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

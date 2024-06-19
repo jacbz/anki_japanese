@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zurückholen, zurückerobern
-Notiz: ''
 Beispielsatz: 彼はやっと自信を取り戻した。
 Beispielsatz-Lesung: 彼[かれ]はやっと 自信[じしん]を 取[と]り 戻[もど]した。
 Beispielsatz-Übersetzung: Er hat endlich sein Selbstvertrauen zurückgewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

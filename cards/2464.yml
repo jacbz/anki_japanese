@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tradition
-Notiz: ''
 Beispielsatz: 伝統を守るのは大切だ。
 Beispielsatz-Lesung: 伝統[でんとう]を 守[まも]るのは 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Es ist wichtig, Traditionen zu bewahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

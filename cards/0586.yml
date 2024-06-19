@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hinübergehen, überqueren
-Notiz: ''
 Beispielsatz: 彼らは山を越えて旅をした。
 Beispielsatz-Lesung: 彼[かれ]らは 山[やま]を 越[こ]えて 旅[たび]をした。
 Beispielsatz-Übersetzung: Sie reisten über die Berge hinweg.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

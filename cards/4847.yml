@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rindfleisch
-Notiz: ''
 Beispielsatz: 鶏肉と牛肉とどちらになさいますか。
 Beispielsatz-Lesung: 鶏肉[けいにく]と 牛肉[ぎゅうにく]とどちらになさいますか。
 Beispielsatz-Übersetzung: Möchten Sie Hähnchen oder Rindfleisch?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

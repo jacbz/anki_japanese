@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünf
-Notiz: ''
 Beispielsatz: リンゴを五つ買った。
 Beispielsatz-Lesung: リンゴを 五[いつ]つ 買[か]った。
 Beispielsatz-Übersetzung: Ich habe fünf Äpfel gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

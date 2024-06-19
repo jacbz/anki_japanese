@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: letzte/r/s, Ende
-Notiz: ''
 Beispielsatz: これが最後のチャンスだ。
 Beispielsatz-Lesung: これが 最後[さいご]のチャンスだ。
 Beispielsatz-Übersetzung: Das ist die letzte Chance.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Blickwinkel, Betrachtungsweise
-Notiz: ''
 Beispielsatz: 人によって、ものの見方は違う。
 Beispielsatz-Lesung: 人によって、ものの 見方[みかた]は 違[ちが]う。
 Beispielsatz-Übersetzung: Jeder Mensch hat einen anderen Blickwinkel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

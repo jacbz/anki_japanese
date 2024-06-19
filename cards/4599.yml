@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menschen
-Notiz: ''
 Beispielsatz: そこに住んでいる者達は工事に反対した。
 Beispielsatz-Lesung: そこに 住[す]んでいる 者[もの] 達[たち]は 工事[こうじ]に 反対[はんたい]した。
 Beispielsatz-Übersetzung: Diejenigen, die dort leben, waren gegen die Bauarbeiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

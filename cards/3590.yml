@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: neunzehn
-Notiz: ''
 Beispielsatz: 彼女は十九で結婚した。
 Beispielsatz-Lesung: 彼女[かのじょ]は十九で 結婚[けっこん]した。
 Beispielsatz-Übersetzung: Sie hat geheiratet, als sie neunzehn war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

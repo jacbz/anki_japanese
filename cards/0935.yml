@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Februar
-Notiz: ''
 Beispielsatz: 二月が一年も最も寒い月です。
 Beispielsatz-Lesung: 二月[にがつ]が一 年[ねん]も 最[もっと]も 寒[さむ]い 月[つき]です。
 Beispielsatz-Übersetzung: Februar ist der kälteste Monat des Jahres.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

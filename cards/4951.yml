@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gewürz
-Notiz: ''
 Beispielsatz: 足りない調味料を買ってくる。
 Beispielsatz-Lesung: 足[た]りない 調味料[ちょうみりょう]を 買[か]ってくる。
 Beispielsatz-Übersetzung: Ich werde die fehlenden Gewürze kaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

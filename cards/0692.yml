@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: im Falle von, bei
-Notiz: ''
 Beispielsatz: 京都に来た際にはぜひお電話ください。
 Beispielsatz-Lesung: 京都[きょうと]に 来[き]た 際[さい]にはぜひお 電話[でんわ]ください。
 Beispielsatz-Übersetzung: Bitte rufen Sie mich an, wenn Sie nach Kyoto kommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

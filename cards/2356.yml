@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: jetzt, bereits; nicht mehr
-Notiz: ''
 Beispielsatz: もはや増税は避けられないだろう。
 Beispielsatz-Lesung: もはや 増税[ぞうぜい]は 避[さ]けられないだろう。
 Beispielsatz-Übersetzung: Eine Steuererhöhung wird nicht mehr vermeidbar sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

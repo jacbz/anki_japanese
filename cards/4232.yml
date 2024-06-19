@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Süßwasserfisch, Ayu
-Notiz: ''
 Beispielsatz: 夏休みに川で鮎を釣った。
 Beispielsatz-Lesung: 夏休[なつやす]みに 川[かわ]で 鮎[あゆ]を 釣[つ]った。
 Beispielsatz-Übersetzung: Ich habe während der Sommerferien Ayu im Fluss gefischt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

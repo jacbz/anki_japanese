@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sehen
-Notiz: ''
 Beispielsatz: 通りを渡る前に左右を見た。
 Beispielsatz-Lesung: 通[とお]りを 渡[わた]る 前[まえ]に 左右[さゆう]を 見[み]た。
 Beispielsatz-Übersetzung: Ich habe links und rechts geschaut, bevor ich die Straße
   überquert habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

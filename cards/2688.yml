@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tasche, Sack, Beutel
-Notiz: ''
 Beispielsatz: 袋いっぱいのジャガイモを使った。
 Beispielsatz-Lesung: 袋[ふくろ]いっぱいのジャガイモを 使[つか]った。
 Beispielsatz-Übersetzung: Ich habe einen Sack Kartoffeln verwendet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

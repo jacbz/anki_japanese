@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eisen, Stahl
-Notiz: ''
 Beispielsatz: 鉄は熱いうちに打て。
 Beispielsatz-Lesung: 鉄[てつ]は 熱[あつ]いうちに 打[う]て。
 Beispielsatz-Übersetzung: Man soll das Eisen schmieden, solange es heiß ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

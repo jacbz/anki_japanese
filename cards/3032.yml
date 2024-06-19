@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Chinese
-Notiz: ''
 Beispielsatz: 彼は中国人だ。
 Beispielsatz-Lesung: 彼[かれ]は 中国人[ちゅうごくじん]だ。
 Beispielsatz-Übersetzung: Er ist Chinese.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

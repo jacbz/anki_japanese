@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: IT
-Notiz: ''
 Beispielsatz: 彼はIT関連企業に就職する。
 Beispielsatz-Lesung: 彼[かれ]はIT 関連企業[かんれんきぎょう]に 就職[しゅうしょく]する。
 Beispielsatz-Übersetzung: Er wird bei einem IT-Unternehmen beschäftigt sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

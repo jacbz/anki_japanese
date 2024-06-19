@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei Arten
-Notiz: ''
 Beispielsatz: 大きく二種類に分類した。
 Beispielsatz-Lesung: 大[おお]きく二 種類[しゅるい]に 分類[ぶんるい]した。
 Beispielsatz-Übersetzung: Wir haben sie grob in zwei Gruppen eingeteilt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

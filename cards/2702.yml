@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Band
-Notiz: ''
 Beispielsatz: テープを再生してください。
 Beispielsatz-Lesung: テープを 再生[さいせい]してください。
 Beispielsatz-Übersetzung: Bitte spielen Sie das Band zurück.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

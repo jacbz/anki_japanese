@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menschen
-Notiz: ''
 Beispielsatz: 不景気のため、多くの人々が職を失った。
 Beispielsatz-Lesung: 不景気[ふけいき]のため、 多[おお]くの 人々[ひとびと]が 職[しょく]を 失[うしな]った。
 Beispielsatz-Übersetzung: Viele Menschen haben aufgrund der Rezession ihren Arbeitsplatz
   verloren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

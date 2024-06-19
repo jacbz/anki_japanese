@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einatmen; aufsaugen
-Notiz: ''
 Beispielsatz: 私達は新鮮な山の空気を吸い込んだ。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は 新鮮[しんせん]な 山[やま]の 空気[くうき]を 吸[す]い 込[こ]んだ。
 Beispielsatz-Übersetzung: Wir haben frische Bergluft eingeatmet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

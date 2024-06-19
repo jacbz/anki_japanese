@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Woo!, Oooh!
-Notiz: ''
 Beispielsatz: うー、寒い。
 Beispielsatz-Lesung: うー、 寒[さむ]い。
 Beispielsatz-Übersetzung: Oh, ist das kalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

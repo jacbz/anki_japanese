@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufgrund, zurückzuführen auf
-Notiz: ''
 Beispielsatz: 事故は彼の不注意によるものだった。
 Beispielsatz-Lesung: 事故[じこ]は 彼[かれ]の 不注意[ふちゅうい]によるものだった。
 Beispielsatz-Übersetzung: Der Unfall war auf seine Unachtsamkeit zurückzuführen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

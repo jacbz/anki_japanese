@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Flamme
-Notiz: ''
 Beispielsatz: ろうそくの炎が消えた。
 Beispielsatz-Lesung: ろうそくの 炎[ほのお]が 消[き]えた。
 Beispielsatz-Übersetzung: Die Kerzenflamme erlosch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

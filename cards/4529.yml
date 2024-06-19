@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: sechsundzwanzig
-Notiz: ''
 Beispielsatz: アルファベットは二十六文字ある。
 Beispielsatz-Lesung: アルファベットは二十六 文字[もじ]ある。
 Beispielsatz-Übersetzung: Es gibt sechsundzwanzig Buchstaben im Alphabet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

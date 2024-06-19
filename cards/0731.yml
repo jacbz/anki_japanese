@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ursprung; Anfang
-Notiz: ''
 Beispielsatz: 元の原稿を見せてください。
 Beispielsatz-Lesung: 元[もと]の 原稿[げんこう]を 見[み]せてください。
 Beispielsatz-Übersetzung: Könnten Sie mir das Ursprungsmanuskript zeigen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

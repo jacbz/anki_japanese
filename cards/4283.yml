@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in letzter Zeit, kürzlich
-Notiz: ''
 Beispielsatz: 彼女は近頃太ってきた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 近頃[ちかごろ] 太[ふと]ってきた。
 Beispielsatz-Übersetzung: Sie hat in letzter Zeit zugenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

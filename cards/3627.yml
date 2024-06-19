@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anfänger, Amateur
-Notiz: ''
 Beispielsatz: 僕はゴルフに関しては素人だ。
 Beispielsatz-Lesung: 僕[ぼく]はゴルフに 関[かん]しては 素人[しろうと]だ。
 Beispielsatz-Übersetzung: Ich bin ein Anfänger im Golf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: enden, beenden
-Notiz: ''
 Beispielsatz: 仕事が終わったら飲みに行きましょう。
 Beispielsatz-Lesung: 仕事[しごと]が 終[お]わったら 飲[の]みに 行[い]きましょう。
 Beispielsatz-Übersetzung: Lass uns nach der Arbeit etwas trinken gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

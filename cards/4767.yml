@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Treffen, Versammlung, Gruppe
-Notiz: ''
 Beispielsatz: 趣味の集まりに参加した。
 Beispielsatz-Lesung: 趣味[しゅみ]の 集[あつ]まりに 参加[さんか]した。
 Beispielsatz-Übersetzung: Ich habe an einer Hobbygruppe teilgenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

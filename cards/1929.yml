@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Maßnahme
-Notiz: ''
 Beispielsatz: 何か対策を考えなければならない。
 Beispielsatz-Lesung: 何[なに]か 対策[たいさく]を 考[かんが]えなければならない。
 Beispielsatz-Übersetzung: Wir müssen einige Maßnahmen in Betracht ziehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

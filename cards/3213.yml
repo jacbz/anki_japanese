@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vereinigtes Königreich, Großbritannien
-Notiz: ''
 Beispielsatz: 英国式の庭園を散策した。
 Beispielsatz-Lesung: 英国[えいこく] 式[しき]の 庭園[ていえん]を 散策[さんさく]した。
 Beispielsatz-Übersetzung: Ich habe einen Spaziergang in einem britischen Garten gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

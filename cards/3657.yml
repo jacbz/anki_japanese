@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Armee, Truppen
-Notiz: ''
 Beispielsatz: テロ活動を阻止するため軍隊が送られた。
 Beispielsatz-Lesung: テロ 活動[かつどう]を 阻止[そし]するため 軍隊[ぐんたい]が 送[おく]られた。
 Beispielsatz-Übersetzung: Es wurden Truppen entsandt, um die terroristischen Aktivitäten
   zu unterbinden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

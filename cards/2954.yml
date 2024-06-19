@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: größtenteils, überwiegend
-Notiz: ''
 Beispielsatz: 猫は一日の大半を寝て過ごす。
 Beispielsatz-Lesung: 猫[ねこ]は一 日[にち]の 大半[たいはん]を 寝[ね]て 過[す]ごす。
 Beispielsatz-Übersetzung: Die Katze verbringt den größten Teil des Tages schlafend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

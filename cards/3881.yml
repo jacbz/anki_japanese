@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausnahme
-Notiz: ''
 Beispielsatz: 例外は認められない。
 Beispielsatz-Lesung: 例外[れいがい]は 認[みと]められない。
 Beispielsatz-Übersetzung: Keine Ausnahme sollte gemacht werden。
+
+# Notizen können HTML enthalten.            
+Notiz: ''

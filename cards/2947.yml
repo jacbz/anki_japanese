@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fangen, verhaften
-Notiz: ''
 Beispielsatz: 警察が犯人を捕まえた。
 Beispielsatz-Lesung: 警察[けいさつ]が 犯人[はんにん]を 捕[つか]まえた。
 Beispielsatz-Übersetzung: Die Polizei hat einen Kriminellen verhaftet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

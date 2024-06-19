@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: für den Fall
-Notiz: ''
 Beispielsatz: 万が一の場合は電話ください。
 Beispielsatz-Lesung: 万[まん]が 一[いち]の 場合[ばあい]は 電話[でんわ]ください。
 Beispielsatz-Übersetzung: Bitte rufen Sie mich im Notfall an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

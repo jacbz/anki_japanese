@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zerreißen; brechen; schlagen
-Notiz: ''
 Beispielsatz: 不要な書類を破って捨てた。
 Beispielsatz-Lesung: 不要[ふよう]な 書類[しょるい]を 破[やぶ]って 捨[す]てた。
 Beispielsatz-Übersetzung: Ich habe die unnötigen Dokumente zerrissen und weggeworfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

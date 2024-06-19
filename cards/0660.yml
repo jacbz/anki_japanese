@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fisch
-Notiz: ''
 Beispielsatz: 魚を焼く。
 Beispielsatz-Lesung: 魚[さかな]を 焼[や]く。
 Beispielsatz-Übersetzung: Ich grille einen Fisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

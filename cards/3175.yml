@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: stricken, flechten
-Notiz: ''
 Beispielsatz: 母がセーターを編んでくれた。
 Beispielsatz-Lesung: 母[はは]がセーターを 編[あ]んでくれた。
 Beispielsatz-Übersetzung: Meine Mutter hat mir einen Pullover gestrickt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: anfangen; gewesen sein; gehen und kommen (bescheiden)
-Notiz: ''
 Beispielsatz: 店長を呼んでまいりますので少々お待ちください。
 Beispielsatz-Lesung: 店長[てんちょう]を 呼[よ]んでまいりますので 少々[しょうしょう]お 待[ま]ちください。
 Beispielsatz-Übersetzung: Einen Moment bitte, ich werde gehen und unseren Manager
   holen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

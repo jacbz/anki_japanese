@@ -5,8 +5,10 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Beratung
-Notiz: ''
 Beispielsatz: その件は全員で相談しましょう。
 Beispielsatz-Lesung: その 件[けん]は 全員[ぜんいん]で 相談[そうだん]しましょう。
 Beispielsatz-Übersetzung: Lassen Sie uns die Angelegenheit in Beratung mit allen Mitgliedern
   entscheiden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

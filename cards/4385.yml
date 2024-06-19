@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kimono-Gürtel, Gurt
-Notiz: ''
 Beispielsatz: 着物の帯を固く締めた。
 Beispielsatz-Lesung: 着物[きもの]の 帯[おび]を 固[かた]く 締[し]めた。
 Beispielsatz-Übersetzung: Ich band die Kimonoschärpe fest.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

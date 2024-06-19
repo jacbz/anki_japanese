@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stolz, Ehre
-Notiz: ''
 Beispielsatz: 息子を誇りに思う。
 Beispielsatz-Lesung: 息子[むすこ]を 誇[ほこ]りに 思[おも]う。
 Beispielsatz-Übersetzung: Ich bin stolz auf meinen Sohn.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

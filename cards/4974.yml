@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vergleichen
-Notiz: ''
 Beispielsatz: 人生はよく旅に例えられる。
 Beispielsatz-Lesung: 人生[じんせい]はよく 旅[たび]に 例[たと]えられる。
 Beispielsatz-Übersetzung: Unser Leben wird oft mit einer Reise verglichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: ANREIZ
-Notiz: ''
 Beispielsatz: 一緒にDVDを見よう。
 Beispielsatz-Lesung: 一緒[いっしょ]にDVDを 見[み]よう。
 Beispielsatz-Übersetzung: Lass uns zusammen eine DVD schauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

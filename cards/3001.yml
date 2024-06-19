@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haar
-Notiz: ''
 Beispielsatz: 床に髪の毛が落ちている。
 Beispielsatz-Lesung: 床[ゆか]に 髪[かみ]の 毛[け]が 落[お]ちている。
 Beispielsatz-Übersetzung: Haare sind auf den Boden gefallen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

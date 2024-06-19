@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mann, männlich
-Notiz: ''
 Beispielsatz: 彼は男の中の男だ。
 Beispielsatz-Lesung: 彼[かれ]は 男[おとこ]の 中[なか]の 男[おとこ]だ。
 Beispielsatz-Übersetzung: Er ist ein echter Mann unter den Männern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

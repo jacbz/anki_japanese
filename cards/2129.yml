@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kehle; Stimme
-Notiz: ''
 Beispielsatz: 喉が痛い。
 Beispielsatz-Lesung: 喉[のど]が 痛[いた]い。
 Beispielsatz-Übersetzung: Ich habe Halsschmerzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwanzig Jahre
-Notiz: ''
 Beispielsatz: 私たちが結婚して二十年になる。
 Beispielsatz-Lesung: 私[わたし]たちが 結婚[けっこん]して二十 年[ねん]になる。
 Beispielsatz-Übersetzung: Es sind zwanzig Jahre vergangen, seit wir geheiratet haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

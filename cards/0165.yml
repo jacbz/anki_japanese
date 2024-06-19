@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nächste, folgende, kommende
-Notiz: ''
 Beispielsatz: 次の日曜日、うちに来ませんか。
 Beispielsatz-Lesung: 次[つぎ]の 日曜日[にちようび]、うちに 来[き]ませんか。
 Beispielsatz-Übersetzung: Wie wäre es, am nächsten Sonntag zu uns nach Hause zu kommen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

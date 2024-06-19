@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erster Tag
-Notiz: ''
 Beispielsatz: 連休の初日はどこも道が込んでいる。
 Beispielsatz-Lesung: 連休[れんきゅう]の 初日[しょにち]はどこも 道[みち]が 込[こ]んでいる。
 Beispielsatz-Übersetzung: Am ersten Tag eines langen Feiertags herrscht überall reger
   Verkehr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

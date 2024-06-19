@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: voll sein; aufgehen
-Notiz: ''
 Beispielsatz: この町は活気に満ちている。
 Beispielsatz-Lesung: この 町[まち]は 活気[かっき]に 満[み]ちている。
 Beispielsatz-Übersetzung: Diese Stadt ist voller Energie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

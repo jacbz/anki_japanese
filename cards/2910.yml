@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Sieh mal!
-Notiz: ''
 Beispielsatz: ほら、あそこにあるよ。
 Beispielsatz-Lesung: ほら、あそこにあるよ。
 Beispielsatz-Übersetzung: Sieh mal, da drüben ist es.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

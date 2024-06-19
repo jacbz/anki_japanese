@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schrein
-Notiz: ''
 Beispielsatz: お正月に神社へ行く。
 Beispielsatz-Lesung: お 正月[しょうがつ]に 神社[じんじゃ]へ 行[い]く。
 Beispielsatz-Übersetzung: An Neujahr gehen wir zu Schreinen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

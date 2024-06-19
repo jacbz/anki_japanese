@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fertigkeit, Technik, Trick
-Notiz: ''
 Beispielsatz: これは職人の巧みな技によって作り出された。
 Beispielsatz-Lesung: これは 職人[しょくにん]の 巧[たく]みな 技[わざ]によって 作[つく]り 出[だ]された。
 Beispielsatz-Übersetzung: Dies wurde durch das wunderbare Geschick des Handwerkers
   geschaffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

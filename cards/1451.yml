@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: verlegen, peinlich berührt
-Notiz: ''
 Beispielsatz: 道で転んだ時、恥ずかしかった。
 Beispielsatz-Lesung: 道[みち]で 転[ころ]んだ 時[とき]、 恥[は]ずかしかった。
 Beispielsatz-Übersetzung: Ich war verlegen, als ich auf der Straße gestolpert bin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

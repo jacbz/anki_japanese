@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Thema
-Notiz: ''
 Beispielsatz: 論文のテーマは何ですか。
 Beispielsatz-Lesung: 論文[ろんぶん]のテーマは 何[なに]ですか。
 Beispielsatz-Übersetzung: Was ist das Thema Ihrer Arbeit?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

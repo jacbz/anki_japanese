@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schweben lassen; zeigen; sich vorstellen
-Notiz: ''
 Beispielsatz: 子供達が池に船を浮かべて遊んでいる。
 Beispielsatz-Lesung: 子供達[こどもたち]が 池[いけ]に 船[ふね]を 浮[う]かべて 遊[あそ]んでいる。
 Beispielsatz-Übersetzung: Kinder spielen und lassen ein Boot auf dem Teich schweben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

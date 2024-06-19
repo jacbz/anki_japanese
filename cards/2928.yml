@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ernsthaft
-Notiz: ''
 Beispielsatz: 事態は深刻だ。
 Beispielsatz-Lesung: 事態[じたい]は 深刻[しんこく]だ。
 Beispielsatz-Übersetzung: Die Situation ist ernsthaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

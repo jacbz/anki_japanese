@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: T-Shirt
-Notiz: ''
 Beispielsatz: 私はいつもTシャツで寝ている。
 Beispielsatz-Lesung: 私[わたし]はいつもTシャツで 寝[ね]ている。
 Beispielsatz-Übersetzung: Ich schlafe immer in einem T-Shirt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

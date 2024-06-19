@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Journalist, Reporter
-Notiz: ''
 Beispielsatz: 私は政治記者になりたい。
 Beispielsatz-Lesung: 私[わたし]は 政治[せいじ] 記者[きしゃ]になりたい。
 Beispielsatz-Übersetzung: Ich möchte ein politischer Journalist werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: zweiundzwanzig
-Notiz: ''
 Beispielsatz: 普通二十二で大学を卒業する。
 Beispielsatz-Lesung: 普通[ふつう]二十二で 大学[だいがく]を 卒業[そつぎょう]する。
 Beispielsatz-Übersetzung: Sie schließen normalerweise ihr Studium im Alter von zweiundzwanzig
   Jahren ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schicksal
-Notiz: ''
 Beispielsatz: 私たちは二度と会えない運命かもしれない。
 Beispielsatz-Lesung: 私[わたし]たちは 二度[にど]と 会[あ]えない 運命[うんめい]かもしれない。
 Beispielsatz-Übersetzung: Vielleicht ist es uns nicht bestimmt, uns wiederzusehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

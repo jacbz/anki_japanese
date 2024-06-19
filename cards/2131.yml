@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünfzehn Minuten
-Notiz: ''
 Beispielsatz: 15分電車が遅れた。
 Beispielsatz-Lesung: 15 分[ふん] 電車[でんしゃ]が 遅[おく]れた。
 Beispielsatz-Übersetzung: Der Zug hatte fünfzehn Minuten Verspätung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

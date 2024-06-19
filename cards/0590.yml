@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: klar, eindeutig
-Notiz: ''
 Beispielsatz: はっきり覚えています。
 Beispielsatz-Lesung: はっきり 覚[おぼ]えています。
 Beispielsatz-Übersetzung: Ich erinnere mich eindeutig daran.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: Frieden; friedlich
-Notiz: ''
 Beispielsatz: 日本は平和な国だ。
 Beispielsatz-Lesung: 日本[にっぽん]は 平和[へいわ]な 国[くに]だ。
 Beispielsatz-Übersetzung: Japan ist ein friedliches Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

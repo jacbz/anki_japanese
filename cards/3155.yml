@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aussteller
-Notiz: ''
 Beispielsatz: この展覧会は出品者が多い。
 Beispielsatz-Lesung: この 展覧会[てんらんかい]は 出品者[しゅっぴんしゃ]が 多[おお]い。
 Beispielsatz-Übersetzung: Es gibt viele Aussteller auf dieser Messe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

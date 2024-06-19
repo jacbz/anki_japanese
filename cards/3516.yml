@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: arm
-Notiz: ''
 Beispielsatz: 彼は貧しい人々を救済する活動をしている。
 Beispielsatz-Lesung: 彼[かれ]は 貧[まず]しい 人々[ひとびと]を 救済[きゅうさい]する 活動[かつどう]をしている。
 Beispielsatz-Übersetzung: Er engagiert sich aktiv für die Hilfe von Menschen in Armut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

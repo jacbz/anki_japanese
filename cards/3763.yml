@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vorbeigehen, vorübergehen
-Notiz: ''
 Beispielsatz: 目の前をものすごいスピードで自転車が通り過ぎていった。
 Beispielsatz-Lesung: 目[め]の 前[まえ]をものすごいスピードで 自転車[じてんしゃ]が 通[とお]り 過[す]ぎていった。
 Beispielsatz-Übersetzung: Ein Fahrrad fuhr mit einer unglaublichen Geschwindigkeit
   direkt an mir vorbei.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

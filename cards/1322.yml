@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Atem
-Notiz: ''
 Beispielsatz: 駅まで走ったら息が切れてしまった。
 Beispielsatz-Lesung: 駅[えき]まで 走[はし]ったら 息[いき]が 切[き]れてしまった。
 Beispielsatz-Übersetzung: Ich war außer Atem, nachdem ich zum Bahnhof gerannt war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

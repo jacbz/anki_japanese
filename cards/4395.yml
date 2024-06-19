@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kendo
-Notiz: ''
 Beispielsatz: 彼女は剣道を習っている。
 Beispielsatz-Lesung: 彼女[かのじょ]は 剣道[けんどう]を 習[なら]っている。
 Beispielsatz-Übersetzung: Sie lernt Kendo.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

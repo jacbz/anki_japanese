@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: kleine und mittelständische Unternehmen
-Notiz: ''
 Beispielsatz: 中小企業の倒産が相次いだ。
 Beispielsatz-Lesung: 中小企業[ちゅうしょうきぎょう]の 倒産[とうさん]が 相次[あいつ]いだ。
 Beispielsatz-Übersetzung: Kleine und mittelständische Unternehmen gingen nacheinander
   bankrott.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

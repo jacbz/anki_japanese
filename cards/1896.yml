@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Indien
-Notiz: ''
 Beispielsatz: 日本はインドから紅茶を輸入している。
 Beispielsatz-Lesung: 日本[にっぽん]はインドから 紅茶[こうちゃ]を 輸入[ゆにゅう]している。
 Beispielsatz-Übersetzung: Japan importiert Tee aus Indien.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

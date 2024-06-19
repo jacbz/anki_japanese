@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: geben, tun, anwenden, hinzufügen
-Notiz: ''
 Beispielsatz: 城の室内は豪華な装飾が施されていた。
 Beispielsatz-Lesung: 城[しろ]の 室内[しつない]は 豪華[ごうか]な 装飾[そうしょく]が 施[ほどこ]されていた。
 Beispielsatz-Übersetzung: Der Innenraum des Schlosses war aufwendig dekoriert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

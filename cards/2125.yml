@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: während; zwischen
-Notiz: ''
 Beispielsatz: このバスは東京、大阪間を走っている。
 Beispielsatz-Lesung: このバスは 東京[とうきょう]、 大阪[おおさか] 間[かん]を 走[はし]っている。
 Beispielsatz-Übersetzung: Dieser Bus verkehrt zwischen Tokio und Osaka.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

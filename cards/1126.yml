@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entkommen, fliehen
-Notiz: ''
 Beispielsatz: 犯人はお金を持って逃げた。
 Beispielsatz-Lesung: 犯人[はんにん]はお 金[かね]を 持[も]って 逃[に]げた。
 Beispielsatz-Übersetzung: Die Verbrecher sind mit dem Geld entkommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

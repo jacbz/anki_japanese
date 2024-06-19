@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: sogar
-Notiz: ''
 Beispielsatz: 彼は自分の名前すら書けない。
 Beispielsatz-Lesung: 彼[かれ]は 自分[じぶん]の 名前[なまえ]すら 書[か]けない。
 Beispielsatz-Übersetzung: Er kann nicht einmal seinen eigenen Namen schreiben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

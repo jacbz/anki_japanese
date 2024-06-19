@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schulden, Verpflichtung
-Notiz: ''
 Beispielsatz: 彼は債務を返済する義務があります。
 Beispielsatz-Lesung: 彼[かれ]は 債務[さいむ]を 返済[へんさい]する 義務[ぎむ]があります。
 Beispielsatz-Übersetzung: Er hat die Verpflichtung, seine Schulden zurückzuzahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

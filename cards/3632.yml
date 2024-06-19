@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: vorübergehend
-Notiz: ''
 Beispielsatz: この薬を飲めば一時的に症状は緩和する。
 Beispielsatz-Lesung: この 薬[くすり]を 飲[の]めば 一時[いちじ] 的[てき]に 症状[しょうじょう]は 緩和[かんわ]する。
 Beispielsatz-Übersetzung: Wenn Sie dieses Medikament einnehmen, werden die Symptome
   vorübergehend gelindert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

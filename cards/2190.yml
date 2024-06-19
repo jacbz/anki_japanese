@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ich (von älteren Männern verwendet)
-Notiz: ''
 Beispielsatz: わしは若い頃漁師じゃった。
 Beispielsatz-Lesung: わしは 若[わか]い 頃[ころ] 漁師[りょうし]じゃった。
 Beispielsatz-Übersetzung: Als ich jung war, war ich Fischer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

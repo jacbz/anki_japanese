@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich unterscheiden
-Notiz: ''
 Beispielsatz: 私の意見はあなたの意見と異なります。
 Beispielsatz-Lesung: 私[わたし]の 意見[いけん]はあなたの 意見[いけん]と 異[こと]なります。
 Beispielsatz-Übersetzung: Meine Meinung unterscheidet sich von deiner Meinung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

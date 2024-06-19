@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: gründlich, vollständig
-Notiz: ''
 Beispielsatz: 部屋を徹底的に掃除した。
 Beispielsatz-Lesung: 部屋[へや]を 徹底的[てっていてき]に 掃除[そうじ]した。
 Beispielsatz-Übersetzung: Ich habe ein Zimmer gründlich gereinigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

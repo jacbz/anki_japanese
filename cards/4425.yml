@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tasse
-Notiz: ''
 Beispielsatz: 朝食用のカップを二つ買った。
 Beispielsatz-Lesung: 朝食[ちょうしょく] 用[よう]のカップを 二[ふた]つ 買[か]った。
 Beispielsatz-Übersetzung: Ich habe zwei Frühstückstassen gekauft。
+
+# Notizen können HTML enthalten.            
+Notiz: ''

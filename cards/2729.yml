@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fehlen; absplittern
-Notiz: ''
 Beispielsatz: グラスの端が欠けた。
 Beispielsatz-Lesung: グラスの 端[はじ]が 欠[か]けた。
 Beispielsatz-Übersetzung: Die Kante des Glases ist abgesplittert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

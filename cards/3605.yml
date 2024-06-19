@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Technik, Methode
-Notiz: ''
 Beispielsatz: この布は伝統的な手法で染められている。
 Beispielsatz-Lesung: この 布[ぬの]は 伝統的[でんとうてき]な 手法[しゅほう]で 染[そ]められている。
 Beispielsatz-Übersetzung: Dieser Stoff wird mit einer traditionellen Methode gefärbt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

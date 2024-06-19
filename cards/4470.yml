@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Macht, Einfluss, Stärke
-Notiz: ''
 Beispielsatz: 彼はテレビ業界での勢力が大きい。
 Beispielsatz-Lesung: 彼[かれ]はテレビ 業界[ぎょうかい]での 勢力[せいりょく]が 大[おお]きい。
 Beispielsatz-Übersetzung: Er hat großen Einfluss in der Fernsehindustrie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

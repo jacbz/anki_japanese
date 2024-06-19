@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haus, Wohnsitz
-Notiz: ''
 Beispielsatz: 郊外に住まいを構えた。
 Beispielsatz-Lesung: 郊外[こうがい]に 住[す]まいを 構[かま]えた。
 Beispielsatz-Übersetzung: Ich habe ein Haus in den Vororten bezogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

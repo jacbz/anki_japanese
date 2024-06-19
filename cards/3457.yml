@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anleitung, Verfahren, Plan
-Notiz: ''
 Beispielsatz: 手順に従って、組み立ててください。
 Beispielsatz-Lesung: 手順[てじゅん]に 従[したが]って、 組[く]み 立[た]ててください。
 Beispielsatz-Übersetzung: Bitte gemäß den Anweisungen zusammenbauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Knochen
-Notiz: ''
 Beispielsatz: 足の骨が折れている。
 Beispielsatz-Lesung: 足[あし]の 骨[ほね]が 折[お]れている。
 Beispielsatz-Übersetzung: Ein Knochen in meinem Fuß ist gebrochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

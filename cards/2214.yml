@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verein
-Notiz: ''
 Beispielsatz: 放課後は部活があるので、息子はいつも五時ごろ帰ってきます。
 Beispielsatz-Lesung: 放課後[ほうかご]は 部活[ぶかつ]があるので、 息子[むすこ]はいつも五 時[じ]ごろ 帰[かえ]ってきます。
 Beispielsatz-Übersetzung: Mein Sohn kommt normalerweise gegen 17 Uhr nach Hause, weil
   er nach der Schule an Vereinsaktivitäten teilnimmt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

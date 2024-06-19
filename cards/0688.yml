@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grenze
-Notiz: ''
 Beispielsatz: 人にできることには限りがある。
 Beispielsatz-Lesung: 人にできることには 限[かぎ]りがある。
 Beispielsatz-Übersetzung: Es gibt eine Grenze dafür, was Menschen tun können.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

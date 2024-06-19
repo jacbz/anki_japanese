@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kleidung, Anzug, Kleid
-Notiz: ''
 Beispielsatz: その洋服を着ると素敵に見えますよ。
 Beispielsatz-Lesung: その 洋服[ようふく]を 着[き]ると 素敵[すてき]に 見[み]えますよ。
 Beispielsatz-Übersetzung: Du siehst großartig in dem Kleid aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

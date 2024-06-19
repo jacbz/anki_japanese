@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Olympische Spiele
-Notiz: ''
 Beispielsatz: 東京は次のオリンピックの開催地に立候補する。
 Beispielsatz-Lesung: 東京[とうきょう]は 次[つぎ]のオリンピックの 開催地[かいさいち]に 立候補[りっこうほ]する。
 Beispielsatz-Übersetzung: Tokio bewirbt sich um den Austragungsort für die nächsten
   Olympischen Spiele.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

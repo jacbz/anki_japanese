@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Chance
-Notiz: ''
 Beispielsatz: もう一度チャンスをください。
 Beispielsatz-Lesung: もう 一度[いちど]チャンスをください。
 Beispielsatz-Übersetzung: Bitte gib mir eine weitere Chance.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

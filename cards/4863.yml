@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: klar, lebhaft
-Notiz: ''
 Beispielsatz: テレビの映像は以前より鮮明だ。
 Beispielsatz-Lesung: テレビの 映像[えいぞう]は 以前[いぜん]より 鮮明[せんめい]だ。
 Beispielsatz-Übersetzung: Die Fernsehbilder sind viel klarer als früher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

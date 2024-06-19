@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: Unruhe, Sorge
-Notiz: ''
 Beispielsatz: 世界経済への不安が高まっている。
 Beispielsatz-Lesung: 世界経済[せかいけいざい]への 不安[ふあん]が 高[たか]まっている。
 Beispielsatz-Übersetzung: Die Weltwirtschaft gibt zunehmend Anlass zur Sorge.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

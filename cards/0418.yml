@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: arbeiten
-Notiz: ''
 Beispielsatz: 兄は自動車工場で働いている。
 Beispielsatz-Lesung: 兄[あに]は 自動車[じどうしゃ] 工場[こうじょう]で 働[はたら]いている。
 Beispielsatz-Übersetzung: Mein Bruder arbeitet in einer Automobilfabrik.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

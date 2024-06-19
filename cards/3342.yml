@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: unverzichtbar
-Notiz: ''
 Beispielsatz: もう行かなくてはならない。
 Beispielsatz-Lesung: もう 行[い]かなくてはならない。
 Beispielsatz-Übersetzung: Ich muss jetzt gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

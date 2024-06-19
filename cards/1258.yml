@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufgreifen, übernehmen; wegnehmen
-Notiz: ''
 Beispielsatz: その番組ではある話題を取り上げて議論する。
 Beispielsatz-Lesung: その 番組[ばんぐみ]ではある 話題[わだい]を 取[と]り 上[あ]げて 議論[ぎろん]する。
 Beispielsatz-Übersetzung: Sie greifen ein Thema auf und diskutieren es in der Sendung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

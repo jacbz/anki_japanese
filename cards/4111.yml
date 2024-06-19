@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Typen, Kerle
-Notiz: ''
 Beispielsatz: 悪い奴らと遊ぶな。
 Beispielsatz-Lesung: 悪[わる]い 奴[やつ]らと 遊[あそ]ぶな。
 Beispielsatz-Übersetzung: Spiel nicht mit bösen Kerlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

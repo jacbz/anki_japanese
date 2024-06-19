@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entkommen, vermeiden
-Notiz: ''
 Beispielsatz: 最悪の事態は免れた。
 Beispielsatz-Lesung: 最悪[さいあく]の 事態[じたい]は 免[まぬか]れた。
 Beispielsatz-Übersetzung: Wir sind der schlimmsten Situation entkommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

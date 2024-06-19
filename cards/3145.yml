@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: beide, die beiden
-Notiz: ''
 Beispielsatz: 両者の違いははっきりしている。
 Beispielsatz-Lesung: 両者[りょうしゃ]の 違[ちが]いははっきりしている。
 Beispielsatz-Übersetzung: Der Unterschied zwischen beiden ist klar.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

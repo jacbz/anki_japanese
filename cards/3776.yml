@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: tatsächlich, in der Tat
-Notiz: ''
 Beispielsatz: 現に汚染は隣接県まで拡大している。
 Beispielsatz-Lesung: 現[げん]に 汚染[おせん]は 隣接県[りんせつけん]まで 拡大[かくだい]している。
 Beispielsatz-Übersetzung: Tatsächlich hat sich die Verschmutzung auf benachbarte Präfekturen
   ausgebreitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

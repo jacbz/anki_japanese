@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: basieren auf
-Notiz: ''
 Beispielsatz: この分析結果を踏まえて結論を出します。
 Beispielsatz-Lesung: この 分析[ぶんせき] 結果[けっか]を 踏[ふ]まえて 結論[けつろん]を 出[だ]します。
 Beispielsatz-Übersetzung: Ich ziehe aufgrund der Ergebnisse der Analyse eine Schlussfolgerung,
   die auf ihnen basiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

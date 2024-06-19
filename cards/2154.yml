@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: auspressen
-Notiz: ''
 Beispielsatz: このレモンを絞ってください。
 Beispielsatz-Lesung: このレモンを 絞[しぼ]ってください。
 Beispielsatz-Übersetzung: Bitte den Saft aus dieser Zitrone auspressen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

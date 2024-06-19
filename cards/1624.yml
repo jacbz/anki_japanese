@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 10 Minuten
-Notiz: ''
 Beispielsatz: 学校までバスで十分かかる。
 Beispielsatz-Lesung: 学校[がっこう]までバスで 十分[じゅうぶん]かかる。
 Beispielsatz-Übersetzung: Mit dem Bus dauert es zehn Minuten bis zur Schule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

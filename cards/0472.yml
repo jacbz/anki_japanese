@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verlangen, anfordern, fordern
-Notiz: ''
 Beispielsatz: 私たちはその件について彼に説明を求めた。
 Beispielsatz-Lesung: 私[わたし]たちはその 件[けん]について 彼[かれ]に 説明[せつめい]を 求[もと]めた。
 Beispielsatz-Übersetzung: Wir haben von ihm eine Erklärung zu der Angelegenheit verlangt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

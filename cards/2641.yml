@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: glänzen, funkeln, strahlen
-Notiz: ''
 Beispielsatz: 星が光っている。
 Beispielsatz-Lesung: 星[ほし]が 光[ひか]っている。
 Beispielsatz-Übersetzung: Die Sterne strahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

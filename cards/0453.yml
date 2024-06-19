@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: berühmt, bekannt
-Notiz: ''
 Beispielsatz: 彼はとても有名な作家です。
 Beispielsatz-Lesung: 彼[かれ]はとても 有名[ゆうめい]な 作家[さっか]です。
 Beispielsatz-Übersetzung: Er ist ein sehr bekannter Schriftsteller.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

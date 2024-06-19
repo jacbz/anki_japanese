@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: nur, lediglich, nicht mehr als
-Notiz: ''
 Beispielsatz: 砂糖は少ししか残っていない。
 Beispielsatz-Lesung: 砂糖[さとう]は 少[すこ]ししか 残[のこ]っていない。
 Beispielsatz-Übersetzung: Es ist nur noch ein bisschen Zucker übrig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

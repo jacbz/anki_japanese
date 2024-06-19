@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: umsehen, herumschauen
-Notiz: ''
 Beispielsatz: 彼は忘れ物がないかあたりを見回した。
 Beispielsatz-Lesung: 彼[かれ]は 忘[わす]れ 物[もの]がないかあたりを 見回[みまわ]した。
 Beispielsatz-Übersetzung: Er sah sich um, um zu sehen, ob er etwas zurückgelassen
   hatte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

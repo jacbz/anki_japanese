@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Marke
-Notiz: ''
 Beispielsatz: 会社のマークを箱に印刷した。
 Beispielsatz-Lesung: 会社[かいしゃ]のマークを 箱[はこ]に 印刷[いんさつ]した。
 Beispielsatz-Übersetzung: Die Marke des Unternehmens ist auf der Schachtel aufgedruckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

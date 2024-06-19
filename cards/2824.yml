@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Preis
-Notiz: ''
 Beispielsatz: 野菜の値段が上がっている。
 Beispielsatz-Lesung: 野菜[やさい]の 値段[ねだん]が 上[あ]がっている。
 Beispielsatz-Übersetzung: Die Gemüsepreise steigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

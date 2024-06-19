@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nacht, Abend
-Notiz: ''
 Beispielsatz: 昨日の夜、どこにいたんですか。
 Beispielsatz-Lesung: 昨日[きのう]の 夜[よる]、どこにいたんですか。
 Beispielsatz-Übersetzung: Wo waren Sie gestern Abend?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

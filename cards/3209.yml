@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einzelheiten, Prozess
-Notiz: ''
 Beispielsatz: どんな経緯があったかは知らない。
 Beispielsatz-Lesung: どんな 経緯[けいい]があったかは 知[し]らない。
 Beispielsatz-Übersetzung: Ich weiß nicht, welche Art von Prozess es gab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

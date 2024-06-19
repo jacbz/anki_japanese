@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: also, nun
-Notiz: ''
 Beispielsatz: では、明日、またお電話します。
 Beispielsatz-Lesung: では、 明日[あした]、またお 電話[でんわ]します。
 Beispielsatz-Übersetzung: Also, ich werde Sie morgen zurückrufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

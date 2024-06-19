@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nummer
-Notiz: ''
 Beispielsatz: 彼に教えてもらった番号は間違っていた。
 Beispielsatz-Lesung: 彼[かれ]に 教[おし]えてもらった 番号[ばんごう]は 間違[まちが]っていた。
 Beispielsatz-Übersetzung: Die Nummer, die er mir gesagt hatte, war falsch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

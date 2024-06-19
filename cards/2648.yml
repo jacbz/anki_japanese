@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (rechtzeitig) schaffen
-Notiz: ''
 Beispielsatz: 電車に間に合った。
 Beispielsatz-Lesung: 電車[でんしゃ]に 間[ま]に 合[あ]った。
 Beispielsatz-Übersetzung: Ich habe es rechtzeitig in den Zug geschafft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

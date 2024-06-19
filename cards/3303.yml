@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: männliches Tier
-Notiz: ''
 Beispielsatz: この犬は雄です。
 Beispielsatz-Lesung: この 犬[いぬ]は 雄[ゆう]です。
 Beispielsatz-Übersetzung: Dieser Hund ist männlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

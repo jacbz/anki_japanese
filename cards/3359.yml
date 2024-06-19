@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sechs (Personen)
-Notiz: ''
 Beispielsatz: 六人のグループを作ってください。
 Beispielsatz-Lesung: 六人のグループを 作[つく]ってください。
 Beispielsatz-Übersetzung: Bitte bilden Sie Gruppen von sechs Personen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

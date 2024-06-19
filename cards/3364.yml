@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stock, Stange, Stab
-Notiz: ''
 Beispielsatz: 子どもが棒で犬を叩いている。
 Beispielsatz-Lesung: 子[こ]どもが 棒[ぼう]で 犬[いぬ]を 叩[たた]いている。
 Beispielsatz-Übersetzung: Ein Kind schlägt einen Hund mit einem Stock.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

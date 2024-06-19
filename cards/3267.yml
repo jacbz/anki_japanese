@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: welche Art von, irgendeine
-Notiz: ''
 Beispielsatz: いかなる理由があろうと、許されない。
 Beispielsatz-Lesung: いかなる 理由[りゆう]があろうと、 許[ゆる]されない。
 Beispielsatz-Übersetzung: Es ist aus irgendeinem Grund nicht erlaubt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

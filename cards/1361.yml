@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: bisher, herkömmlich, traditionell
-Notiz: ''
 Beispielsatz: これは従来の方法よりも効果的だろう。
 Beispielsatz-Lesung: これは 従来[じゅうらい]の 方法[ほうほう]よりも 効果的[こうかてき]だろう。
 Beispielsatz-Übersetzung: Es wird effektiver sein als herkömmliche Methoden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: sich mit etwas befassen, sich auf etwas beziehen
-Notiz: ''
 Beispielsatz: これは宗教に関する本です。
 Beispielsatz-Lesung: これは 宗教[しゅうきょう]に 関[かん]する 本[ほん]です。
 Beispielsatz-Übersetzung: Dies ist ein Buch über Religion.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

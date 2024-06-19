@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Preise
-Notiz: ''
 Beispielsatz: 今月は物価が上がった。
 Beispielsatz-Lesung: 今月[こんげつ]は 物価[ぶっか]が 上[あ]がった。
 Beispielsatz-Übersetzung: Diesen Monat sind die Preise gestiegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: umgehen mit, behandeln, handhaben
-Notiz: ''
 Beispielsatz: それは丁寧に扱ってください。
 Beispielsatz-Lesung: それは 丁寧[ていねい]に 扱[あつか]ってください。
 Beispielsatz-Übersetzung: Bitte behandeln Sie es sorgfältig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

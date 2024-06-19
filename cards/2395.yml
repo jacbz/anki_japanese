@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geheimnis
-Notiz: ''
 Beispielsatz: 秘密は守ります。
 Beispielsatz-Lesung: 秘密[ひみつ]は 守[まも]ります。
 Beispielsatz-Übersetzung: Ich werde dein Geheimnis bewahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

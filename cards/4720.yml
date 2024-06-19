@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beschuldigen, die Schuld geben
-Notiz: ''
 Beispielsatz: 彼は彼女の不注意を責めた。
 Beispielsatz-Lesung: 彼[かれ]は 彼女[かのじょ]の 不注意[ふちゅうい]を 責[せ]めた。
 Beispielsatz-Übersetzung: Er gab ihrer Unachtsamkeit die Schuld.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

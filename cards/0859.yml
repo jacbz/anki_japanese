@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bilden, darstellen
-Notiz: ''
 Beispielsatz: 彼らは会社の中核を成している。
 Beispielsatz-Lesung: 彼[かれ]らは 会社[かいしゃ]の 中核[ちゅうかく]を 成[な]している。
 Beispielsatz-Übersetzung: Sie bilden das Herzstück des Unternehmens.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

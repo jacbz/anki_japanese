@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: (um die) Zeit; etwa
-Notiz: ''
 Beispielsatz: 子供の頃、その町に住んでいた。
 Beispielsatz-Lesung: 子供[こども]の 頃[ころ]、その 町[まち]に 住[す]んでいた。
 Beispielsatz-Übersetzung: Ich habe in der Stadt gelebt, als ich ein Kind war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

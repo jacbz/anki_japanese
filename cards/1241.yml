@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Salz
-Notiz: ''
 Beispielsatz: 塩取ってくれる？
 Beispielsatz-Lesung: 塩[しお] 取[と]ってくれる？
 Beispielsatz-Übersetzung: Kannst du mir das Salz reichen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

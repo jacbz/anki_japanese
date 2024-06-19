@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahrheit; Fakt
-Notiz: ''
 Beispielsatz: それは真か。
 Beispielsatz-Lesung: それは 真[しん]か。
 Beispielsatz-Übersetzung: Ist das die Wahrheit?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

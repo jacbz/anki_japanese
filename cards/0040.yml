@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: was
-Notiz: ''
 Beispielsatz: 何を考えているんですか？
 Beispielsatz-Lesung: 何[なに]を 考[かんが]えているんですか？
 Beispielsatz-Übersetzung: Was denken Sie?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

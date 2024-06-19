@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: unter; herunter
-Notiz: ''
 Beispielsatz: セーターの下にシャツを着ている。
 Beispielsatz-Lesung: セーターの 下[した]にシャツを 着[き]ている。
 Beispielsatz-Übersetzung: Ich trage ein Hemd unter meinem Pullover.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

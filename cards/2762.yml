@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zugang
-Notiz: ''
 Beispielsatz: カフェでアクセスポイントを探した。
 Beispielsatz-Lesung: カフェでアクセスポイントを 探[さが]した。
 Beispielsatz-Übersetzung: Ich habe im Café nach einem Zugangspunkt gesucht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

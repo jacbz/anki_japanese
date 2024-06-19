@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: suffix
 Definition: und so weiter
-Notiz: ''
 Beispielsatz: 氏名、所属、住所、等をお知らせください。
 Beispielsatz-Lesung: 氏名[しめい]、 所属[しょぞく]、 住所[じゅうしょ]、 等[ひとし]をお 知[し]らせください。
 Beispielsatz-Übersetzung: Bitte teilen Sie uns Ihren Namen, Ihre Zugehörigkeit, Ihre
   Adresse usw. mit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

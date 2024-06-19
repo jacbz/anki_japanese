@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei Wochen
-Notiz: ''
 Beispielsatz: 車を二週間借りた。
 Beispielsatz-Lesung: 車[くるま]を二 週間[しゅうかん] 借[か]りた。
 Beispielsatz-Übersetzung: Ich habe für zwei Wochen ein Auto gemietet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

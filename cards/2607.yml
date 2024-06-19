@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pflicht, Verpflichtung
-Notiz: ''
 Beispielsatz: 親には子供を育てる義務がある。
 Beispielsatz-Lesung: 親[おや]には 子供[こども]を 育[そだ]てる 義務[ぎむ]がある。
 Beispielsatz-Übersetzung: Eltern haben die Pflicht, ihre Kinder aufzuziehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

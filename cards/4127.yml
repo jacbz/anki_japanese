@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Route
-Notiz: ''
 Beispielsatz: 山頂に登る新しいルートを登った。
 Beispielsatz-Lesung: 山頂[さんちょう]に 登[のぼ]る 新[あたら]しいルートを 登[のぼ]った。
 Beispielsatz-Übersetzung: Ich habe eine neue Route zum Gipfel des Berges erklommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

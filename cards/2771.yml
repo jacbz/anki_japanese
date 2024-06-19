@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Name
-Notiz: ''
 Beispielsatz: 台湾の正式名称は何ですか。
 Beispielsatz-Lesung: 台湾[たいわん]の 正式名称[せいしきめいしょう]は 何[なに]ですか。
 Beispielsatz-Übersetzung: Wie lautet der offizielle Name von Taiwan?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

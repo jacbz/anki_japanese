@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: prosperieren, blühen
-Notiz: ''
 Beispielsatz: ギリシャでは古代文明が栄えた。
 Beispielsatz-Lesung: ギリシャでは 古代文明[こだいぶんめい]が 栄[さか]えた。
 Beispielsatz-Übersetzung: Die antike Zivilisation blühte in Griechenland.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

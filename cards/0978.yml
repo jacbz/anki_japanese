@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: hell; fröhlich
-Notiz: ''
 Beispielsatz: 明るい未来に目を向ける。
 Beispielsatz-Lesung: 明[あか]るい 未来[みらい]に 目[め]を 向[む]ける。
 Beispielsatz-Übersetzung: Ich schaue auf eine helle Zukunft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

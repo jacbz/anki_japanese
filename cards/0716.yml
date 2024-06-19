@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vergnügen, Freude
-Notiz: ''
 Beispielsatz: 私にとって写真を撮ることは楽しみです。
 Beispielsatz-Lesung: 私[わたし]にとって 写真[しゃしん]を 撮[と]ることは 楽[たの]しみです。
 Beispielsatz-Übersetzung: Fotografieren ist für mich ein Hobby.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich beeilen; ungeduldig sein; eifrig sein
-Notiz: ''
 Beispielsatz: そんなに焦らなくてもいいだろう。
 Beispielsatz-Lesung: そんなに 焦[あせ]らなくてもいいだろう。
 Beispielsatz-Übersetzung: Du musst nicht so ungeduldig sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

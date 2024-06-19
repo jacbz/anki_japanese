@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jüngerer Kollege / jüngere Kollegin
-Notiz: ''
 Beispielsatz: 仕事の帰りに、会社の後輩と飲みに行った。
 Beispielsatz-Lesung: 仕事[しごと]の 帰[かえ]りに、 会社[かいしゃ]の 後輩[こうはい]と 飲[の]みに 行[い]った。
 Beispielsatz-Übersetzung: Ich bin nach der Arbeit mit meinem jüngeren Kollegen / meiner
   jüngeren Kollegin etwas trinken gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

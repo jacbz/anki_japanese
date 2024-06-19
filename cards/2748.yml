@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Seele, Geist
-Notiz: ''
 Beispielsatz: もっと魂を入れて仕事をしなさい。
 Beispielsatz-Lesung: もっと 魂[たましい]を 入[い]れて 仕事[しごと]をしなさい。
 Beispielsatz-Übersetzung: Arbeiten Sie mit ganzem Herzen und ganzer Seele.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

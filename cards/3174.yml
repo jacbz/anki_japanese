@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nationalversammlung, Diät
-Notiz: ''
 Beispielsatz: この問題は国会でたびたび取り上げられている。
 Beispielsatz-Lesung: この 問題[もんだい]は 国会[こっかい]でたびたび 取[と]り 上[あ]げられている。
 Beispielsatz-Übersetzung: Dieses Thema wird oft in der Diät behandelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

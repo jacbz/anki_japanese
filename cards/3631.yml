@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: konkurrieren
-Notiz: ''
 Beispielsatz: 去年もこの二チームが優勝を争った。
 Beispielsatz-Lesung: 去年[きょねん]もこの二チームが 優勝[ゆうしょう]を 争[あらそ]った。
 Beispielsatz-Übersetzung: Diese beiden Teams konkurrierten auch letztes Jahr um die
   Meisterschaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

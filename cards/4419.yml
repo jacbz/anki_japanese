@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Klang; Echo
-Notiz: ''
 Beispielsatz: そのホールはピアノの響きがすばらしかった。
 Beispielsatz-Lesung: そのホールはピアノの 響[ひび]きがすばらしかった。
 Beispielsatz-Übersetzung: Der Klang des Klaviers im Saal war fantastisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

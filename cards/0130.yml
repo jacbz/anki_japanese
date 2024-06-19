@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geist, Herz
-Notiz: ''
 Beispielsatz: 彼女は気が強い。
 Beispielsatz-Lesung: 彼女[かのじょ]は 気[き]が 強[つよ]い。
 Beispielsatz-Übersetzung: Sie hat einen starken Willen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

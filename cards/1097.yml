@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wissen, Information
-Notiz: ''
 Beispielsatz: コンピューターに関する知識が全くない。
 Beispielsatz-Lesung: コンピューターに 関[かん]する 知識[ちしき]が 全[まった]くない。
 Beispielsatz-Übersetzung: Ich habe kein Wissen über Computer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Affe
-Notiz: ''
 Beispielsatz: 猿も木から落ちる。
 Beispielsatz-Lesung: 猿[さる]も 木[き]から 落[お]ちる。
 Beispielsatz-Übersetzung: Auch Affen fallen manchmal vom Baum.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

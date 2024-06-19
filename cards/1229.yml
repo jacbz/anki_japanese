@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: waschen
-Notiz: ''
 Beispielsatz: 食べる前に必ず手を洗ってね。
 Beispielsatz-Lesung: 食[た]べる 前[まえ]に 必[かなら]ず 手[て]を 洗[あら]ってね。
 Beispielsatz-Übersetzung: Vergewissere dich, dass du deine Hände wäschst, bevor du
   isst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

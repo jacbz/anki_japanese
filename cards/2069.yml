@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufsetzen, bedecken
-Notiz: ''
 Beispielsatz: 外に出るなら帽子をかぶりなさい。
 Beispielsatz-Lesung: 外[そと]に 出[で]るなら 帽子[ぼうし]をかぶりなさい。
 Beispielsatz-Übersetzung: Setze deine Mütze auf, wenn du nach draußen gehst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

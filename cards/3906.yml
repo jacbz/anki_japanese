@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Neujahrskarte
-Notiz: ''
 Beispielsatz: 忙しくて、まだ年賀状を書いていない。
 Beispielsatz-Lesung: 忙[いそが]しくて、まだ 年賀状[ねんがじょう]を 書[か]いていない。
 Beispielsatz-Übersetzung: Ich war beschäftigt, deshalb habe ich noch keine Neujahrskarten
   geschrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

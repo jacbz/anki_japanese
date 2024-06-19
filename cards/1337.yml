@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: sich entscheiden, beschließen
-Notiz: ''
 Beispielsatz: 家を買うことにした。
 Beispielsatz-Lesung: 家[いえ]を 買[か]うことにした。
 Beispielsatz-Übersetzung: Ich habe beschlossen, ein Haus zu kaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

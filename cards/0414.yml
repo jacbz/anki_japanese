@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Meer, Ozean
-Notiz: ''
 Beispielsatz: そのホテルの部屋は海に面している。
 Beispielsatz-Lesung: そのホテルの 部屋[へや]は 海[うみ]に 面[めん]している。
 Beispielsatz-Übersetzung: Das Hotelzimmer liegt zum Meer hin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

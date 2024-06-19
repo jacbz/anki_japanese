@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschäft
-Notiz: ''
 Beispielsatz: 何かビジネスを始めようと思っています。
 Beispielsatz-Lesung: 何[なに]かビジネスを 始[はじ]めようと 思[おも]っています。
 Beispielsatz-Übersetzung: Ich denke daran, irgendeine Art von Geschäft zu gründen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

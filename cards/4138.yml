@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Paar
-Notiz: ''
 Beispielsatz: 彼らはお似合いのカップルだ。
 Beispielsatz-Lesung: 彼[かれ]らはお 似合[にあ]いのカップルだ。
 Beispielsatz-Übersetzung: Sie sind ein gutes Paar.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

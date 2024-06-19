@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Herkunft; Alma Mater
-Notiz: ''
 Beispielsatz: ご出身はどちらですか。
 Beispielsatz-Lesung: ご 出身[しゅっしん]はどちらですか。
 Beispielsatz-Übersetzung: Woher kommst du?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

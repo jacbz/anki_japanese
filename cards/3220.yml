@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pupille; Auge
-Notiz: ''
 Beispielsatz: 少女はつぶらな瞳で私を見つめた。
 Beispielsatz-Lesung: 少女[しょうじょ]はつぶらな 瞳[ひとみ]で 私[わたし]を 見[み]つめた。
 Beispielsatz-Übersetzung: Das Mädchen starrte mich mit süßen runden Augen an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

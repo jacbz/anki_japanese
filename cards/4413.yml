@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gefahr
-Notiz: ''
 Beispielsatz: 医者は喫煙の危険性について警告した。
 Beispielsatz-Lesung: 医者[いしゃ]は 喫煙[きつえん]の 危険性[きけんせい]について 警告[けいこく]した。
 Beispielsatz-Übersetzung: Der Arzt hat mich vor den Gefahren des Rauchens gewarnt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

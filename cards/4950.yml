@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stille, ohne zu sprechen
-Notiz: ''
 Beispielsatz: 彼女は無言のままうなずいた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 無言[むごん]のままうなずいた。
 Beispielsatz-Übersetzung: Sie nickte schweigend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

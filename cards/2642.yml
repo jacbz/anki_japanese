@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mt Fuji
-Notiz: ''
 Beispielsatz: 私たちは昨年夏に富士山に登った。
 Beispielsatz-Lesung: 私[わたし]たちは 昨年夏[さくねんなつ]に 富士山[ふじさん]に 登[のぼ]った。
 Beispielsatz-Übersetzung: Wir sind letzten Sommer auf den Mt. Fuji geklettert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

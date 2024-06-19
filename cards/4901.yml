@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: gleich, identisch
-Notiz: ''
 Beispielsatz: それは私が失くした時計と同一の物だ。
 Beispielsatz-Lesung: それは 私[わたし]が 失[しつ]くした 時計[とけい]と 同一[どういつ]の 物[もの]だ。
 Beispielsatz-Übersetzung: Das ist die gleiche Uhr wie die, die ich verloren habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

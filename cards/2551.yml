@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: vor allem, hauptsächlich, mehr als alles andere
-Notiz: ''
 Beispielsatz: 彼は何よりもビールが好きだ。
 Beispielsatz-Lesung: 彼[かれ]は 何[なに]よりもビールが 好[す]きだ。
 Beispielsatz-Übersetzung: Er liebt Bier mehr als alles andere.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

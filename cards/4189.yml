@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Darbietung
-Notiz: ''
 Beispielsatz: 彼女のスケートの演技はすばらしかった。
 Beispielsatz-Lesung: 彼女[かのじょ]のスケートの 演技[えんぎ]はすばらしかった。
 Beispielsatz-Übersetzung: Ihre Schlittschuh-Darbietung war brillant.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

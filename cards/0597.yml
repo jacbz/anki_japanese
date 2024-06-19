@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ursache
-Notiz: ''
 Beispielsatz: 警察は事故の原因を調査した。
 Beispielsatz-Lesung: 警察[けいさつ]は 事故[じこ]の 原因[げんいん]を 調査[ちょうさ]した。
 Beispielsatz-Übersetzung: Die Polizei untersuchte die Ursache des Unfalls.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

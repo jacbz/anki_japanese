@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufstapeln, anhäufen; erwerben, anhäufen
-Notiz: ''
 Beispielsatz: 失敗しても経験を積むことは大切だ。
 Beispielsatz-Lesung: 失敗[しっぱい]しても 経験[けいけん]を 積[つ]むことは 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Es ist wichtig, auch wenn man scheitert, etwas Erfahrung
   zu sammeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

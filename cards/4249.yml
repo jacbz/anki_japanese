@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erstere
-Notiz: ''
 Beispielsatz: この二つの案のうち、私は前者より後者の方がいい。
 Beispielsatz-Lesung: この 二[ふた]つの 案[あん]のうち、 私[わたし]は 前者[ぜんしゃ]より 後者[こうしゃ]の 方[ほう]がいい。
 Beispielsatz-Übersetzung: Von diesen beiden Plänen bevorzuge ich den letzteren gegenüber
   dem erstern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

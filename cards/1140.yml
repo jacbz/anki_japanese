@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rücken, unterer Rücken, Taille, Hüfte
-Notiz: ''
 Beispielsatz: 腰をひねって左足を上げて。
 Beispielsatz-Lesung: 腰[こし]をひねって 左足[ひだりあし]を 上[あ]げて。
 Beispielsatz-Übersetzung: Verdrehe deine Taille und hebe dein linkes Bein an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

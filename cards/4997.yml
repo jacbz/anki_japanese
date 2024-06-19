@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich häufen
-Notiz: ''
 Beispielsatz: 不可解な事件が相次いでいる。
 Beispielsatz-Lesung: 不可解[ふかかい]な 事件[じけん]が 相次[あいつ]いでいる。
 Beispielsatz-Übersetzung: Mysteriöse Vorfälle häufen sich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

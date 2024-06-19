@@ -5,7 +5,9 @@ Alternative: とっても
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sehr
-Notiz: ''
 Beispielsatz: 今日はとても忙しかった。
 Beispielsatz-Lesung: 今日[きょう]はとても 忙[いそが]しかった。
 Beispielsatz-Übersetzung: Ich war heute sehr beschäftigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

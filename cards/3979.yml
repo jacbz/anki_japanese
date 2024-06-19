@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ein schiefes Lächeln zeigen
-Notiz: ''
 Beispielsatz: 彼はそれを聞いて苦笑した。
 Beispielsatz-Lesung: 彼[かれ]はそれを 聞[き]いて 苦笑[くしょう]した。
 Beispielsatz-Übersetzung: Als er das hörte, zeigte er ein schiefes Lächeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

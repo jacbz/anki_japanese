@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kurs, Linie; Politik, Plan; Prinzip
-Notiz: ''
 Beispielsatz: 会社は方針を発表した。
 Beispielsatz-Lesung: 会社[かいしゃ]は 方針[ほうしん]を 発表[はっぴょう]した。
 Beispielsatz-Übersetzung: Das Unternehmen hat seinen Plan bekannt gegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

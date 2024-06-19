@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einwickeln
-Notiz: ''
 Beispielsatz: プレゼント用に包んでもらえますか。
 Beispielsatz-Lesung: プレゼント 用[よう]に 包[つつ]んでもらえますか。
 Beispielsatz-Übersetzung: Können Sie sie als Geschenk einwickeln?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

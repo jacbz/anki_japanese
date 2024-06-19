@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: elfter (Tag); elf Tage
-Notiz: ''
 Beispielsatz: 十一日から学校が始まる。
 Beispielsatz-Lesung: 十一 日[にち]から 学校[がっこう]が 始[はじ]まる。
 Beispielsatz-Übersetzung: Die Schule beginnt am elften.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: '[Kontraste oder Koordinationen anzeigen]'
-Notiz: ''
 Beispielsatz: 走者達は抜きつ抜かれつ先頭を争っている。
 Beispielsatz-Lesung: 走者[そうしゃ] 達[たち]は 抜[ぬ]きつ 抜[ぬ]かれつ 先頭[せんとう]を 争[あらそ]っている。
 Beispielsatz-Übersetzung: Die Läufer kämpfen abwechselnd um die Führung und werden
   überholt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Philippinen
-Notiz: ''
 Beispielsatz: 私達はフィリピンのセブ島で挙式した。
 Beispielsatz-Lesung: 私[わたし] 達[たち]はフィリピンのセブ 島[とう]で 挙式[きょしき]した。
 Beispielsatz-Übersetzung: Wir hatten eine Hochzeitsfeier auf der Insel Cebu auf den
   Philippinen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

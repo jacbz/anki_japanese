@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Westen
-Notiz: ''
 Beispielsatz: その町は東京の西にある。
 Beispielsatz-Lesung: その 町[まち]は 東京[とうきょう]の 西[にし]にある。
 Beispielsatz-Übersetzung: Die Stadt befindet sich im Westen von Tokio.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

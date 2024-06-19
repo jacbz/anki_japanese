@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beschwerde; Reklamation
-Notiz: ''
 Beispielsatz: 彼は一言も文句を言わない。
 Beispielsatz-Lesung: 彼[かれ]は 一言[ひとこと]も 文句[もんく]を 言[い]わない。
 Beispielsatz-Übersetzung: Er macht niemals Beschwerden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

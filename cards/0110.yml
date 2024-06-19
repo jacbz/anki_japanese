@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: machen, erstellen
-Notiz: ''
 Beispielsatz: 彼女は朝食に目玉焼きを作った。
 Beispielsatz-Lesung: 彼女[かのじょ]は 朝食[ちょうしょく]に 目玉焼[めだまや]きを 作[つく]った。
 Beispielsatz-Übersetzung: Sie hat ein Spiegelei zum Frühstück gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

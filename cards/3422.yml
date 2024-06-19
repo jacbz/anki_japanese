@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: nach wie vor, immer noch
-Notiz: ''
 Beispielsatz: 依然として赤字が続いている。
 Beispielsatz-Lesung: 依然[いぜん]として 赤字[あかじ]が 続[つず]いている。
 Beispielsatz-Übersetzung: Das Defizit hält nach wie vor an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

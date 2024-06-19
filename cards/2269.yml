@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschäft
-Notiz: ''
 Beispielsatz: 新しい商売を始める準備をする。
 Beispielsatz-Lesung: 新[あたら]しい 商売[しょうばい]を 始[はじ]める 準備[じゅんび]をする。
 Beispielsatz-Übersetzung: Wir haben uns auf ein neues Unternehmen vorbereitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

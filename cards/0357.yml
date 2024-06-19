@@ -5,7 +5,9 @@ Alternative: 上手い
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: lecker, schmackhaft; geschickt
-Notiz: ''
 Beispielsatz: この酒はうまい。
 Beispielsatz-Lesung: この 酒[さけ]はうまい。
 Beispielsatz-Übersetzung: Dieser Sake ist lecker.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

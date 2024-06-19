@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gold
-Notiz: ''
 Beispielsatz: この指輪は金でできている。
 Beispielsatz-Lesung: この 指輪[ゆびわ]は 金[きん]でできている。
 Beispielsatz-Übersetzung: Dieser Ring ist aus Gold gefertigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Name
-Notiz: ''
 Beispielsatz: 父の名は利行、母の名は愛子です。
 Beispielsatz-Lesung: 父[ちち]の 名[な]は 利行[としゆき]、 母[はは]の 名[な]は 愛子[あいこ]です。
 Beispielsatz-Übersetzung: Der Name meines Vaters ist Toshiyuki und der Name meiner
   Mutter ist Aiko.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

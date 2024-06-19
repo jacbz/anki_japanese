@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: unnötig
-Notiz: ''
 Beispielsatz: その重要性をいまさら語るまでもないだろう。
 Beispielsatz-Lesung: その 重要性[じゅうようせい]をいまさら 語[かた]るまでもないだろう。
 Beispielsatz-Übersetzung: Es ist in diesem Stadium unnötig, seine Bedeutung zu erwähnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

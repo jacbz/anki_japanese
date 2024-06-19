@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: drehen, rotieren, sich drehen
-Notiz: ''
 Beispielsatz: 彼女は静かにノブを回してドアを開けた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 静[しず]かにノブを 回[まわ]してドアを 開[あ]けた。
 Beispielsatz-Übersetzung: Sie drehte den Knopf leise und öffnete die Tür.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

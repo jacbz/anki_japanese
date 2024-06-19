@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: leicht, einfach, schlicht
-Notiz: ''
 Beispielsatz: 私はあっさりした料理が好きだ。
 Beispielsatz-Lesung: 私[わたし]はあっさりした 料理[りょうり]が 好[す]きだ。
 Beispielsatz-Übersetzung: Ich bevorzuge schlichtes Essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

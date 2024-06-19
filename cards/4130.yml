@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: größtenteils, hauptsächlich, im Allgemeinen
-Notiz: ''
 Beispielsatz: 私の勘は概ね当たっている。
 Beispielsatz-Lesung: 私[わたし]の 勘[かん]は 概[おおむ]ね 当[あ]たっている。
 Beispielsatz-Übersetzung: Meine Vermutung hat sich im Wesentlichen bestätigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

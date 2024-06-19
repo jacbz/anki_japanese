@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: leer werden
-Notiz: ''
 Beispielsatz: お腹が空いた。
 Beispielsatz-Lesung: お 腹[なか]が 空[あ]いた。
 Beispielsatz-Übersetzung: Ich habe Hunger.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

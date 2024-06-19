@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gliedmaßen
-Notiz: ''
 Beispielsatz: 彼は手足が大きい。
 Beispielsatz-Lesung: 彼[かれ]は 手足[てあし]が 大[おお]きい。
 Beispielsatz-Übersetzung: Er hat große Gliedmaßen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

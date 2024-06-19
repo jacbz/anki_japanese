@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mutter
-Notiz: ''
 Beispielsatz: お母さん、話があるのだけど。
 Beispielsatz-Lesung: お 母[かあ]さん、 話[はなし]があるのだけど。
 Beispielsatz-Übersetzung: Mutter, ich möchte dir etwas sagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

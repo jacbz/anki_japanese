@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: was
-Notiz: ''
 Beispielsatz: 何事ですか？
 Beispielsatz-Lesung: 何事[なにごと]ですか？
 Beispielsatz-Übersetzung: Was ist los?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

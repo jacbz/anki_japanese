@@ -5,7 +5,9 @@ Alternative: 色々
 Extra: '' # nur bei する-Verben
 Wortart: adv., na-adj.
 Definition: verschieden
-Notiz: ''
 Beispielsatz: その国立公園ではいろいろな動物が見られる。
 Beispielsatz-Lesung: その 国立公園[こくりつこうえん]ではいろいろな 動物[どうぶつ]が 見[み]られる。
 Beispielsatz-Übersetzung: Man kann verschiedene Tiere im Nationalpark sehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

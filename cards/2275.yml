@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: steil, groß, scharf
-Notiz: ''
 Beispielsatz: 経営について大幅な見直しをする。
 Beispielsatz-Lesung: 経営[けいえい]について 大幅[おおはば]な 見直[みなお]しをする。
 Beispielsatz-Übersetzung: Sie werden eine drastische Überprüfung des Managements durchführen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

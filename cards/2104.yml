@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Frage; Problem
-Notiz: ''
 Beispielsatz: テストで一問だけ間違えてしまった。
 Beispielsatz-Lesung: テストで一 問[もん]だけ 間違[まちが]えてしまった。
 Beispielsatz-Übersetzung: Ich muss über dieses Problem nachdenken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verbrechen, Straftat
-Notiz: ''
 Beispielsatz: 最近、少年犯罪が増えている。
 Beispielsatz-Lesung: 最近[さいきん]、 少年犯罪[しょうねんはんざい]が 増[ふ]えている。
 Beispielsatz-Übersetzung: In letzter Zeit nimmt die Jugendkriminalität zu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

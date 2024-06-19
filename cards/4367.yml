@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einführen, einstecken; hineinkommen, hineinscheinen
-Notiz: ''
 Beispielsatz: 電話のプラグをコンセントに差し込んだ。
 Beispielsatz-Lesung: 電話[でんわ]のプラグをコンセントに 差[さ]し 込[こ]んだ。
 Beispielsatz-Übersetzung: Ich habe den Telefonstecker in die Steckdose gesteckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

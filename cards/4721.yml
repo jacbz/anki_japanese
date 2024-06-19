@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teilnahmegebühr
-Notiz: ''
 Beispielsatz: 遠足の参加費はいくらですか。
 Beispielsatz-Lesung: 遠足[えんそく]の 参加費[さんかひ]はいくらですか。
 Beispielsatz-Übersetzung: Wie hoch ist die Teilnahmegebühr für den Ausflug?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

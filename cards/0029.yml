@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. disc.
 Definition: FRAGE
-Notiz: ''
 Beispielsatz: コーヒーか紅茶はいかがですか。
 Beispielsatz-Lesung: コーヒーか 紅茶[こうちゃ]はいかがですか。
 Beispielsatz-Übersetzung: Möchten Sie eine Tasse Kaffee oder Tee?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

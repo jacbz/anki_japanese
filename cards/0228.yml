@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: hoch; teuer
-Notiz: ''
 Beispielsatz: 彼は背が高い。
 Beispielsatz-Lesung: 彼[かれ]は 背[せ]が 高[たか]い。
 Beispielsatz-Übersetzung: Er ist groß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

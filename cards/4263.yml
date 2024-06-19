@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: deshalb, folglich
-Notiz: ''
 Beispielsatz: 地震が起こった。それゆえに多くの人が帰宅できなかった。
 Beispielsatz-Lesung: 地震[じしん]が 起[お]こった。それゆえに 多[おお]くの人が 帰宅[きたく]できなかった。
 Beispielsatz-Übersetzung: Es gab ein Erdbeben. Folglich konnten viele Menschen nicht
   nach Hause zurückkehren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

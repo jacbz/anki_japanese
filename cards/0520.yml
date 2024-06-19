@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: günstig, billig
-Notiz: ''
 Beispielsatz: 安い宿に泊まる。
 Beispielsatz-Lesung: 安[やす]い 宿[やど]に 泊[と]まる。
 Beispielsatz-Übersetzung: Ich übernachte in günstiger Unterkunft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

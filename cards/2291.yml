@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Shibuya (Ortsname)
-Notiz: ''
 Beispielsatz: 渋谷で友達とよく買い物をする。
 Beispielsatz-Lesung: 渋谷[しぶや]で 友達[ともだち]とよく 買[か]い 物[もの]をする。
 Beispielsatz-Übersetzung: Ich gehe oft mit Freunden in Shibuya einkaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

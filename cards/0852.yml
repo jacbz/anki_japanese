@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: plötzlich
-Notiz: ''
 Beispielsatz: 電車が突然止まった。
 Beispielsatz-Lesung: 電車[でんしゃ]が 突然[とつぜん] 止[と]まった。
 Beispielsatz-Übersetzung: Der Zug hielt plötzlich an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

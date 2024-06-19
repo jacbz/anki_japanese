@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sonntag
-Notiz: ''
 Beispielsatz: 毎週日曜だけ料理をする。
 Beispielsatz-Lesung: 毎週[まいしゅう] 日曜[にちよう]だけ 料理[りょうり]をする。
 Beispielsatz-Übersetzung: Ich koche nur jeden Sonntag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

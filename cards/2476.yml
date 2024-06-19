@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vorher
-Notiz: ''
 Beispielsatz: 事前に準備することがとても大切だ。
 Beispielsatz-Lesung: 事前[じぜん]に 準備[じゅんび]することがとても 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Eine Vorbereitung im Voraus ist sehr wichtig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

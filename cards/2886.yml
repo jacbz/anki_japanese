@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Seite, Facette
-Notiz: ''
 Beispielsatz: 物事の一面だけをみて、判断してはいけない。
 Beispielsatz-Lesung: 物事[ものごと]の一 面[めん]だけをみて、 判断[はんだん]してはいけない。
 Beispielsatz-Übersetzung: Treffen Sie keine Entscheidung, die nur auf einer Seite
   der Dinge beruht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

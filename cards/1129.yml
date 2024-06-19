@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: bald, demnächst, schließlich
-Notiz: ''
 Beispielsatz: やがて雨が降り始めました。
 Beispielsatz-Lesung: やがて 雨[あめ]が 降[ふ]り 始[はじ]めました。
 Beispielsatz-Übersetzung: Bald begann es zu regnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeit, Periode, Jahreszeit
-Notiz: ''
 Beispielsatz: この時期はいつも雪が降る。
 Beispielsatz-Lesung: この 時期[じき]はいつも 雪[ゆき]が 降[ふ]る。
 Beispielsatz-Übersetzung: Es schneit immer zu dieser Jahreszeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

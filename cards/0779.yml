@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: etwas für jemanden/etwas tun
-Notiz: ''
 Beispielsatz: 彼女は孫にコートを買ってやった。
 Beispielsatz-Lesung: 彼女[かのじょ]は 孫[まご]にコートを 買[か]ってやった。
 Beispielsatz-Übersetzung: Sie kaufte ihrem Enkel einen Mantel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

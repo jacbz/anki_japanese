@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zug
-Notiz: ''
 Beispielsatz: 駅に列車が入ってきた。
 Beispielsatz-Lesung: 駅[えき]に 列車[れっしゃ]が 入[はい]ってきた。
 Beispielsatz-Übersetzung: Ein Zug fährt in den Bahnhof ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: selbst wenn
-Notiz: ''
 Beispielsatz: 故意じゃないしにしろ、罪は罪だ。
 Beispielsatz-Lesung: 故意[こい]じゃないしにしろ、 罪[つみ]は 罪[つみ]だ。
 Beispielsatz-Übersetzung: Ein Verbrechen ist ein Verbrechen, selbst wenn man es unbeabsichtigt
   begangen hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

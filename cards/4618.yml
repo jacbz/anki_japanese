@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sportfest
-Notiz: ''
 Beispielsatz: 私達は運動会のリレーで優勝した。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は 運動会[うんどうかい]のリレーで 優勝[ゆうしょう]した。
 Beispielsatz-Übersetzung: Wir haben den Staffellauf beim Sportfest gewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

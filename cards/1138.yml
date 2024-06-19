@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: klein, fein; unbedeutend; empfindlich
-Notiz: ''
 Beispielsatz: まずは玉ねぎを細かく切ってください。
 Beispielsatz-Lesung: まずは 玉[たま]ねぎを 細[こま]かく 切[き]ってください。
 Beispielsatz-Übersetzung: Zuerst die Zwiebel fein hacken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Esslöffel
-Notiz: ''
 Beispielsatz: カップ一杯の牛乳に大さじ一杯の酢を加えてください。
 Beispielsatz-Lesung: カップ一 杯[はい]の 牛乳[ぎゅうにゅう]に 大[おお]さじ一 杯[はい]の 酢[す]を 加[くわ]えてください。
 Beispielsatz-Übersetzung: Einen Esslöffel Essig auf eine Tasse Milch geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Landschaft
-Notiz: ''
 Beispielsatz: 私は窓から風景を見ていた。
 Beispielsatz-Lesung: 私[わたし]は 窓[まど]から 風景[ふうけい]を 見[み]ていた。
 Beispielsatz-Übersetzung: Ich habe die Landschaft aus dem Fenster betrachtet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

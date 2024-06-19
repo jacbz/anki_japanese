@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mitternacht
-Notiz: ''
 Beispielsatz: パーティーは深夜まで続いた。
 Beispielsatz-Lesung: パーティーは 深夜[しんや]まで 続[つず]いた。
 Beispielsatz-Übersetzung: Die Party dauerte bis Mitternacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

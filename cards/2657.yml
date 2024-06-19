@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übertreffen, übersteigen
-Notiz: ''
 Beispielsatz: 去年は、出生率が死亡率を上回った。
 Beispielsatz-Lesung: 去年[きょねん]は、 出生率[しゅっしょうりつ]が 死亡率[しぼうりつ]を 上回[うわまわ]った。
 Beispielsatz-Übersetzung: Letztes Jahr überstieg die Geburtenrate die Sterberate.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

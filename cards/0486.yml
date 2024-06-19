@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: wie zum Beispiel
-Notiz: ''
 Beispielsatz: この地域ではリンゴやモモといった果物の栽培が盛んだ。
 Beispielsatz-Lesung: この 地域[ちいき]ではリンゴやモモといった 果物[くだもの]の 栽培[さいばい]が 盛[さか]んだ。
 Beispielsatz-Übersetzung: In dieser Region werden viele Früchte angebaut, wie zum
   Beispiel Äpfel und Pfirsiche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

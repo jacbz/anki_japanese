@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: detailliert, gut kennen
-Notiz: ''
 Beispielsatz: 彼女は事情を詳しく説明した。
 Beispielsatz-Lesung: 彼女[かのじょ]は 事情[じじょう]を 詳[くわ]しく 説明[せつめい]した。
 Beispielsatz-Übersetzung: Sie erklärte die Gründe im Detail.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. na-adj.
 Definition: ziemlich; beträchtlich
-Notiz: ''
 Beispielsatz: 東京の冬は結構寒い。
 Beispielsatz-Lesung: 東京[とうきょう]の 冬[ふゆ]は 結構[けっこう] 寒[さむ]い。
 Beispielsatz-Übersetzung: Der Winter in Tokio ist ziemlich kalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

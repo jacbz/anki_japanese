@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erfolgreicher Bieter
-Notiz: ''
 Beispielsatz: アメリカの落札者がその絵を買った。
 Beispielsatz-Lesung: アメリカの 落札者[らくさつしゃ]がその 絵[え]を 買[か]った。
 Beispielsatz-Übersetzung: Der erfolgreiche amerikanische Bieter kaufte das Bild.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

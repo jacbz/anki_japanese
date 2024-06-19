@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: machen; tun; geben
-Notiz: ''
 Beispielsatz: 今すぐやります。
 Beispielsatz-Lesung: 今[いま]すぐやります。
 Beispielsatz-Übersetzung: Ich werde das jetzt machen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

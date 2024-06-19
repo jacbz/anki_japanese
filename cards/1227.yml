@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: n letztes Jahr
-Notiz: ''
 Beispielsatz: 昨年この地域で大地震がありました。
 Beispielsatz-Lesung: 昨年[さくねん]この 地域[ちいき]で 大地震[おおじしん]がありました。
 Beispielsatz-Übersetzung: Es gab letztes Jahr einen großen Erdbeben in dieser Gegend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

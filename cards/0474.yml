@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bekommen
-Notiz: ''
 Beispielsatz: 友達にすてきな絵をもらった。
 Beispielsatz-Lesung: 友達[ともだち]にすてきな 絵[え]をもらった。
 Beispielsatz-Übersetzung: Ein Freund hat mir ein schönes Bild gegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

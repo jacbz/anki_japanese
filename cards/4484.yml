@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: neun Jahre
-Notiz: ''
 Beispielsatz: 日本の義務教育は九年だ。
 Beispielsatz-Lesung: 日本[にっぽん]の 義務教育[ぎむきょういく]は九 年[ねん]だ。
 Beispielsatz-Übersetzung: Die Schulpflicht in Japan dauert neun Jahre.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

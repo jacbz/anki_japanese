@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Balance
-Notiz: ''
 Beispielsatz: 栄養のバランスを考えて食べましょう。
 Beispielsatz-Lesung: 栄養[えいよう]のバランスを 考[かんが]えて 食[た]べましょう。
 Beispielsatz-Übersetzung: Essen Sie unter Berücksichtigung einer ausgewogenen Ernährung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fall
-Notiz: ''
 Beispielsatz: 過去の事例を調べる。
 Beispielsatz-Lesung: 過去[かこ]の 事例[じれい]を 調[しら]べる。
 Beispielsatz-Übersetzung: Ich werde vergangene Fälle untersuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

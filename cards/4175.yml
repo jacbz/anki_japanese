@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Identifikation, Ausweis
-Notiz: ''
 Beispielsatz: IDカードを見せてください。
 Beispielsatz-Lesung: IDカードを 見[み]せてください。
 Beispielsatz-Übersetzung: Bitte zeigen Sie mir Ihren Ausweis.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

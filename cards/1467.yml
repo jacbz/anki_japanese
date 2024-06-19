@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: teilen, spalten, trennen
-Notiz: ''
 Beispielsatz: その問題については意見が分かれると思う。
 Beispielsatz-Lesung: その 問題[もんだい]については 意見[いけん]が 分[わ]かれると 思[おも]う。
 Beispielsatz-Übersetzung: Ich denke, dass Meinungen zu diesem Thema geteilt sein werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

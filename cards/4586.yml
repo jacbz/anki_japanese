@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachteil
-Notiz: ''
 Beispielsatz: 田舎での生活はデメリットが多いと思う。
 Beispielsatz-Lesung: 田舎[いなか]での 生活[せいかつ]はデメリットが 多[おお]いと 思[おも]う。
 Beispielsatz-Übersetzung: Ich denke, dass das Leben auf dem Land viele Nachteile hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

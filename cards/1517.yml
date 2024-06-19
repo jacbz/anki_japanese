@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: heißes Wasser
-Notiz: ''
 Beispielsatz: 鍋で湯を沸かしてください。
 Beispielsatz-Lesung: 鍋[なべ]で 湯[ゆ]を 沸[わ]かしてください。
 Beispielsatz-Übersetzung: Bitte kochen Sie Wasser in einem Topf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

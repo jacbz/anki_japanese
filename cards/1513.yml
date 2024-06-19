@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Höhe
-Notiz: ''
 Beispielsatz: このテーブルはちょうどいい高さだ。
 Beispielsatz-Lesung: このテーブルはちょうどいい 高[たか]さだ。
 Beispielsatz-Übersetzung: Dieser Tisch hat genau die richtige Höhe für mich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

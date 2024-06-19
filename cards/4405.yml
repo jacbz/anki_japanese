@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rohstoff, Zutat
-Notiz: ''
 Beispielsatz: チョコレートの原料はカカオです。
 Beispielsatz-Lesung: チョコレートの 原料[げんりょう]はカカオです。
 Beispielsatz-Übersetzung: Der Rohstoff für Schokolade ist Kakao.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

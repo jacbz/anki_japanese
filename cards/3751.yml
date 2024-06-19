@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei (Stücke, Dinge)
-Notiz: ''
 Beispielsatz: ケーキを二個食べた。
 Beispielsatz-Lesung: ケーキを二 個[こ] 食[た]べた。
 Beispielsatz-Übersetzung: Ich habe zwei Stücke Kuchen gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

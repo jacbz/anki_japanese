@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: gesund, lebhaft
-Notiz: ''
 Beispielsatz: 元気な高齢者が増えた。
 Beispielsatz-Lesung: 元気[げんき]な 高齢者[こうれいしゃ]が 増[ふ]えた。
 Beispielsatz-Übersetzung: Die Anzahl der gesunden Senioren ist gestiegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Massenmedien, Massenkommunikation
-Notiz: ''
 Beispielsatz: 将来マスコミの仕事をしたい。
 Beispielsatz-Lesung: 将来[しょうらい]マスコミの 仕事[しごと]をしたい。
 Beispielsatz-Übersetzung: In Zukunft möchte ich im Bereich der Massenkommunikation
   arbeiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

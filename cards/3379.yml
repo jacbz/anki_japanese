@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: historisch
-Notiz: ''
 Beispielsatz: 彼は歴史的偉業を成し遂げた。
 Beispielsatz-Lesung: 彼[かれ]は 歴史的[れきしてき] 偉業[いぎょう]を 成[な]し 遂[と]げた。
 Beispielsatz-Übersetzung: Er hat eine historische Leistung vollbracht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

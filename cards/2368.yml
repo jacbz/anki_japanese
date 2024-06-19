@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hineingeraten
-Notiz: ''
 Beispielsatz: あの会社は経営危機に陥っている。
 Beispielsatz-Lesung: あの 会社[かいしゃ]は 経営[けいえい] 危機[きき]に 陥[おちい]っている。
 Beispielsatz-Übersetzung: Dieses Unternehmen ist in eine Krise geraten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

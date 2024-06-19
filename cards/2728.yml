@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verbindung, Beziehung
-Notiz: ''
 Beispielsatz: 彼とは血のつながりがある。
 Beispielsatz-Lesung: 彼[かれ]とは 血[ち]のつながりがある。
 Beispielsatz-Übersetzung: Ich bin mit ihm durch Blutsverwandtschaft verbunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

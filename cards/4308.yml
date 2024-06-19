@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kalt werden, sich kalt anfühlen
-Notiz: ''
 Beispielsatz: 今朝はだいぶ冷えますね。
 Beispielsatz-Lesung: 今朝[けさ]はだいぶ 冷[ひ]えますね。
 Beispielsatz-Übersetzung: Es ist ziemlich kalt heute Morgen, nicht wahr?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

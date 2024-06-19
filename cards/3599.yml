@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Blutgefäß
-Notiz: ''
 Beispielsatz: 彼女の腕は細く、血管が透けて見える。
 Beispielsatz-Lesung: 彼女[かのじょ]の 腕[うで]は 細[ほそ]く、 血管[けっかん]が 透[す]けて 見[み]える。
 Beispielsatz-Übersetzung: Ihr Arm ist so dünn, dass man Blutgefäße sehen kann.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

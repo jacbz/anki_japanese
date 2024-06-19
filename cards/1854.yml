@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: versuchen, probieren
-Notiz: ''
 Beispielsatz: いろいろな方法を試してみたが、全部だめだった。
 Beispielsatz-Lesung: いろいろな 方法[ほうほう]を 試[ため]してみたが、 全部[ぜんぶ]だめだった。
 Beispielsatz-Übersetzung: Ich habe viele Methoden ausprobiert, aber nichts hat funktioniert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Restaurant
-Notiz: ''
 Beispielsatz: そのビルの中にいくつかレストランがある。
 Beispielsatz-Lesung: そのビルの 中[なか]にいくつかレストランがある。
 Beispielsatz-Übersetzung: Es gibt mehrere Restaurants in dem Gebäude.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

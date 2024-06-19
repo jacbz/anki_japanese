@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Oger, Teufel, Dämon
-Notiz: ''
 Beispielsatz: 野球のコーチは鬼の形相で叫んだ。
 Beispielsatz-Lesung: 野球[やきゅう]のコーチは 鬼[おに]の 形相[きょうそう]で 叫[さけ]んだ。
 Beispielsatz-Übersetzung: Mein Baseballtrainer schrie mit einem Gesicht wie Donner.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

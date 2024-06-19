@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: doppelt
-Notiz: ''
 Beispielsatz: その箱は二重に包んであった。
 Beispielsatz-Lesung: その 箱[はこ]は二 重[じゅう]に 包[つつ]んであった。
 Beispielsatz-Übersetzung: Die Box war in einer doppelten Schicht Papier eingewickelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

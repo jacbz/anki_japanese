@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schnur; Spitze
-Notiz: ''
 Beispielsatz: 靴の紐を結びなおした。
 Beispielsatz-Lesung: 靴[くつ]の 紐[ひも]を 結[むす]びなおした。
 Beispielsatz-Übersetzung: Ich habe meine Schuhe neu gebunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

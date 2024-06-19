@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: freundlich
-Notiz: ''
 Beispielsatz: 彼女は誰とでもすぐに仲良くなる。
 Beispielsatz-Lesung: 彼女[かのじょ]は 誰[だれ]とでもすぐに 仲良[なかよ]くなる。
 Beispielsatz-Übersetzung: Sie baut sofort freundliche Beziehungen zu jedem auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

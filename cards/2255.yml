@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ende, Spitze, Kante
-Notiz: ''
 Beispielsatz: きれの両端を持って伸ばす。
 Beispielsatz-Lesung: きれの 両端[りょうたん]を 持[も]って 伸[の]ばす。
 Beispielsatz-Übersetzung: Ich spanne den Stoff und halte die Enden fest.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. disc.
 Definition: BEHAUPTUNG, ERINNERUNG (informell)
-Notiz: ''
 Beispielsatz: また来るよ。
 Beispielsatz-Lesung: また 来[く]るよ。
 Beispielsatz-Übersetzung: Ich werde wieder kommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

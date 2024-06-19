@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hose
-Notiz: ''
 Beispielsatz: 今日は寒いのでスボンを履いた。
 Beispielsatz-Lesung: 今日[きょう]は 寒[さむ]いのでスボンを 履[は]いた。
 Beispielsatz-Übersetzung: Da es heute kalt ist, habe ich eine Hose angezogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

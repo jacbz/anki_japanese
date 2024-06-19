@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bank
-Notiz: ''
 Beispielsatz: 彼は酔って公園のベンチで寝てしまった。
 Beispielsatz-Lesung: 彼[かれ]は 酔[よ]って 公園[こうえん]のベンチで 寝[ね]てしまった。
 Beispielsatz-Übersetzung: Er hat sich betrunken und auf einer Bank im Park geschlafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

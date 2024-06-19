@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reis
-Notiz: ''
 Beispielsatz: 同じ釜の飯を食べた仲間だ。
 Beispielsatz-Lesung: 同[おな]じ 釜[かま]の 飯[めし]を 食[た]べた 仲間[なかま]だ。
 Beispielsatz-Übersetzung: Wir essen am selben Tisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

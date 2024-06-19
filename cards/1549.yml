@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Religion
-Notiz: ''
 Beispielsatz: 宗教を信じない人もいる。
 Beispielsatz-Lesung: 宗教[しゅうきょう]を 信[しん]じない人もいる。
 Beispielsatz-Übersetzung: Es gibt auch Menschen, die an keiner Religion glauben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

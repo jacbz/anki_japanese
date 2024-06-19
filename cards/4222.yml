@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ware, Artikel
-Notiz: ''
 Beispielsatz: この店では色々な品を売っています。
 Beispielsatz-Lesung: この 店[みせ]では 色々[いろいろ]な 品[しな]を 売[う]っています。
 Beispielsatz-Übersetzung: In diesem Geschäft werden Waren aller Art verkauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dezember
-Notiz: ''
 Beispielsatz: 十二月はお歳暮の季節です。
 Beispielsatz-Lesung: 十二月[じゅうにがつ]はお 歳暮[せいぼ]の 季節[きせつ]です。
 Beispielsatz-Übersetzung: Dezember ist in Japan die Jahreszeit der Jahresendgeschenke.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

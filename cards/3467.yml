@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kollege/Kollegin
-Notiz: ''
 Beispielsatz: 職場の同僚と食事に行った。
 Beispielsatz-Lesung: 職場[しょくば]の 同僚[どうりょう]と 食事[しょくじ]に 行[い]った。
 Beispielsatz-Übersetzung: Ich bin mit einem Arbeitskollegen essen gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

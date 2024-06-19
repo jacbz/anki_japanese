@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Methode, Art und Weise
-Notiz: ''
 Beispielsatz: いい方法を思いつきました。
 Beispielsatz-Lesung: いい 方法[ほうほう]を 思[おも]いつきました。
 Beispielsatz-Übersetzung: Ich habe eine gute Methode erfunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

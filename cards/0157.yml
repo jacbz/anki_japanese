@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jeder
-Notiz: ''
 Beispielsatz: 皆、彼女の意見に賛成だ。
 Beispielsatz-Lesung: 皆[みな]、 彼女[かのじょ]の 意見[いけん]に 賛成[さんせい]だ。
 Beispielsatz-Übersetzung: Jeder stimmt ihrer Meinung zu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

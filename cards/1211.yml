@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadt
-Notiz: ''
 Beispielsatz: 市は新しい学校を建設することを決定した。
 Beispielsatz-Lesung: 市[し]は 新[あたら]しい 学校[がっこう]を 建設[けんせつ]することを 決定[けってい]した。
 Beispielsatz-Übersetzung: Die Stadt hat beschlossen, eine neue Schule zu bauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Behörde
-Notiz: ''
 Beispielsatz: 父は役所に勤めています。
 Beispielsatz-Lesung: 父[ちち]は 役所[やくしょ]に 勤[つと]めています。
 Beispielsatz-Übersetzung: Mein Vater arbeitet bei einer staatlichen Behörde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

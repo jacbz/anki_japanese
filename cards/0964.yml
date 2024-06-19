@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: begegnen
-Notiz: ''
 Beispielsatz: その時に彼女はご主人と出会った。
 Beispielsatz-Lesung: その 時[とき]に 彼女[かのじょ]はご 主人[しゅじん]と 出会[であ]った。
 Beispielsatz-Übersetzung: Das war, als sie ihrem Ehemann begegnete.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

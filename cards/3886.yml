@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angelegenheit
-Notiz: ''
 Beispielsatz: 彼は用事で呼び出された。
 Beispielsatz-Lesung: 彼[かれ]は 用事[ようじ]で 呼[よ]び 出[だ]された。
 Beispielsatz-Übersetzung: Er wurde wegen einer Angelegenheit weggerufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: '[eine Gefälligkeit erhalten (bescheiden)]'
-Notiz: ''
 Beispielsatz: すみません、ちょっと教えていただけますか。
 Beispielsatz-Lesung: すみません、ちょっと 教[おし]えていただけますか。
 Beispielsatz-Übersetzung: Entschuldigung, könnten Sie mir bitte etwas beibringen?
   (Ich habe eine Frage)
+
+# Notizen können HTML enthalten.            
+Notiz: ''

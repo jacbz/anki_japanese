@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: befehlen
-Notiz: ''
 Beispielsatz: 自衛隊の出動を命じた。
 Beispielsatz-Lesung: 自衛隊[じえいたい]の 出動[しゅつどう]を 命[めい]じた。
 Beispielsatz-Übersetzung: Er hat den Einsatz der Selbstverteidigungsstreitkräfte befohlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

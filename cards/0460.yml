@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grad, Niveau, Grenze
-Notiz: ''
 Beispielsatz: そのテキストは中級程度の日本語学習者向けです。
 Beispielsatz-Lesung: そのテキストは 中級[ちゅうきゅう] 程度[ていど]の 日本語[にほんご] 学習者[がくしゅうしゃ] 向[む]けです。
 Beispielsatz-Übersetzung: Das Lehrbuch wurde für Lernende auf mittlerem Niveau des
   Japanischen geschrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

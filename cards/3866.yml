@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sofa
-Notiz: ''
 Beispielsatz: 私はソファーに座った。
 Beispielsatz-Lesung: 私[わたし]はソファーに 座[すわ]った。
 Beispielsatz-Übersetzung: Ich saß auf einem Sofa.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

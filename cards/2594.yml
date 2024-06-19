@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich spiegeln
-Notiz: ''
 Beispielsatz: ひまわりが水に映っている。
 Beispielsatz-Lesung: ひまわりが 水[みず]に 映[うつ]っている。
 Beispielsatz-Übersetzung: Die Sonnenblumen spiegeln sich im Wasser.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

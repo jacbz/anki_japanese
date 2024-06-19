@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Straße
-Notiz: ''
 Beispielsatz: 言われた通りにやりなさい。
 Beispielsatz-Lesung: 言[い]われた 通[とお]りにやりなさい。
 Beispielsatz-Übersetzung: Tu, was man dir sagt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

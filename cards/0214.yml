@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: wohnen
-Notiz: ''
 Beispielsatz: 私は東京に住んでいる。
 Beispielsatz-Lesung: 私[わたし]は 東京[とうきょう]に 住[す]んでいる。
 Beispielsatz-Übersetzung: Ich wohne in Tokio.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

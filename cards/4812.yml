@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 1999 (Jahr)
-Notiz: ''
 Beispielsatz: 1999年はいろいろなことがあった。
 Beispielsatz-Lesung: 1999 年[ねん]はいろいろなことがあった。
 Beispielsatz-Übersetzung: Im Jahr 1999 sind so viele Dinge passiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

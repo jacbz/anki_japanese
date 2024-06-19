@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Adel, Adelsgeschlecht
-Notiz: ''
 Beispielsatz: 彼は貴族として生まれた。
 Beispielsatz-Lesung: 彼[かれ]は 貴族[きぞく]として 生[う]まれた。
 Beispielsatz-Übersetzung: Er wurde als Adliger geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

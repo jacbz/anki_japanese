@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich verlassen auf, sich wenden an, vertrauen
-Notiz: ''
 Beispielsatz: 彼以外に頼れる友人は一人もいない。
 Beispielsatz-Lesung: 彼[かれ] 以外[いがい]に 頼[たよ]れる 友人[ゆうじん]は一人もいない。
 Beispielsatz-Übersetzung: Ich habe keine Freunde, auf die ich mich verlassen kann,
   außer ihm.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

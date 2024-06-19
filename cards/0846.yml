@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: halten
-Notiz: ''
 Beispielsatz: この電車は次の駅は止まらない。
 Beispielsatz-Lesung: この 電車[でんしゃ]は 次[つぎ]の 駅[えき]は 止[と]まらない。
 Beispielsatz-Übersetzung: Dieser Zug hält nicht an der nächsten Station.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mädchen
-Notiz: ''
 Beispielsatz: あのピアノを弾いている少女はまだ八歳だ。
 Beispielsatz-Lesung: あのピアノを 弾[ひ]いている 少女[しょうじょ]はまだ八 歳[さい]だ。
 Beispielsatz-Übersetzung: Das Mädchen, das auf dem Klavier spielt, ist erst acht Jahre
   alt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

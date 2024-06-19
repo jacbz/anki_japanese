@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lachen
-Notiz: ''
 Beispielsatz: 笑いをこらえることができなかった。
 Beispielsatz-Lesung: 笑[わら]いをこらえることができなかった。
 Beispielsatz-Übersetzung: Ich konnte nicht aufhören zu lachen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

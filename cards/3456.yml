@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verkehrsunfall
-Notiz: ''
 Beispielsatz: 今朝、交通事故に遭った。
 Beispielsatz-Lesung: 今朝[けさ]、 交通事故[こうつうじこ]に 遭[あ]った。
 Beispielsatz-Übersetzung: Ich hatte heute Morgen einen Verkehrsunfall.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

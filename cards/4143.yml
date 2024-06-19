@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stromversorgung
-Notiz: ''
 Beispielsatz: コンピューターの電源を入れた。
 Beispielsatz-Lesung: コンピューターの 電源[でんげん]を 入[い]れた。
 Beispielsatz-Übersetzung: Ich habe die Stromversorgung des Computers eingeschaltet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

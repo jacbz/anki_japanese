@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: stark, kraftvoll
-Notiz: ''
 Beispielsatz: 両親から力強いメッセージを受け取った。
 Beispielsatz-Lesung: 両親[りょうしん]から 力強[ちからづよ]いメッセージを 受[う]け 取[と]った。
 Beispielsatz-Übersetzung: Ich habe eine starke Botschaft von meinen Eltern erhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

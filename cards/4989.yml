@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dichter
-Notiz: ''
 Beispielsatz: 彼は有名な詩人だ。
 Beispielsatz-Lesung: 彼[かれ]は 有名[ゆうめい]な 詩人[しじん]だ。
 Beispielsatz-Übersetzung: Er ist ein berühmter Dichter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

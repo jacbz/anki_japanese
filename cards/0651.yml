@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vergehen, überschreiten
-Notiz: ''
 Beispielsatz: 春が過ぎ、夏になった。
 Beispielsatz-Lesung: 春[はる]が 過[す]ぎ、 夏[なつ]になった。
 Beispielsatz-Übersetzung: Der Frühling verging und es wurde Sommer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

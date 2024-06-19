@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: mit
-Notiz: ''
 Beispielsatz: 人口の増加につれて、様々な問題が出てきた。
 Beispielsatz-Lesung: 人口[じんこう]の 増加[ぞうか]につれて、 様々[さまざま]な 問題[もんだい]が 出[で]てきた。
 Beispielsatz-Übersetzung: Als die Bevölkerung wuchs, traten verschiedene Probleme
   auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

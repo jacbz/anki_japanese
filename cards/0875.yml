@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ein weiterer
-Notiz: ''
 Beispielsatz: 彼は新たな課題に取り組んでいる。
 Beispielsatz-Lesung: 彼[かれ]は 新[あら]たな 課題[かだい]に 取[と]り 組[く]んでいる。
 Beispielsatz-Übersetzung: Er geht eine weitere Herausforderung an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

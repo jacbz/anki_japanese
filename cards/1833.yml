@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: bedauernswert, bemitleidenswert
-Notiz: ''
 Beispielsatz: 彼女がかわいそうだ。
 Beispielsatz-Lesung: 彼女[かのじょ]がかわいそうだ。
 Beispielsatz-Übersetzung: Ich fühle mit ihr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

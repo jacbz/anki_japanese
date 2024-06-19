@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teehaus, Café
-Notiz: ''
 Beispielsatz: 喫茶店でコーヒーを飲んだ。
 Beispielsatz-Lesung: 喫茶店[きっさてん]でコーヒーを 飲[の]んだ。
 Beispielsatz-Übersetzung: Ich habe in einem Café Kaffee getrunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

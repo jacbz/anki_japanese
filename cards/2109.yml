@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Größe
-Notiz: ''
 Beispielsatz: もっと大きいサイズがありますか。
 Beispielsatz-Lesung: もっと 大[おお]きいサイズがありますか。
 Beispielsatz-Übersetzung: Haben Sie eine größere Größe?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

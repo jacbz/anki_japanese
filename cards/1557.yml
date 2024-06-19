@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: irgendwelche
-Notiz: ''
 Beispielsatz: この計画はなんら問題はない。
 Beispielsatz-Lesung: この 計画[けいかく]はなんら 問題[もんだい]はない。
 Beispielsatz-Übersetzung: Es könnte irgendwelche Probleme mit diesem Plan geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

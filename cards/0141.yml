@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: hier
-Notiz: ''
 Beispielsatz: ここから彼の家まで一時間かかる。
 Beispielsatz-Lesung: ここから 彼[かれ]の 家[いえ]まで 一時[いちじ] 間[ま]かかる。
 Beispielsatz-Übersetzung: Es dauert eine Stunde von hier bis zu seinem Haus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

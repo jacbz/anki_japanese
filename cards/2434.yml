@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wasser, Feuchtigkeit
-Notiz: ''
 Beispielsatz: 暑い日はこまめに水を飲んで、水分を補給してください。
 Beispielsatz-Lesung: 暑[あつ]い 日[ひ]はこまめに 水[みず]を 飲[の]んで、 水分[すいぶん]を 補給[ほきゅう]してください。
 Beispielsatz-Übersetzung: Bitte trinken Sie an heißen Tagen viel Wasser und halten
   Sie sich hydriert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

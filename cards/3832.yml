@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: innen
-Notiz: ''
 Beispielsatz: 隣の家では、室内で犬を飼っている。
 Beispielsatz-Lesung: 隣[となり]の 家[いえ]では、 室内[しつない]で 犬[いぬ]を 飼[か]っている。
 Beispielsatz-Übersetzung: Unser Nachbar hält einen Hund drinnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

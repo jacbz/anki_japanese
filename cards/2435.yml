@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kaiser
-Notiz: ''
 Beispielsatz: 彼女は天皇の即位式を見に行った。
 Beispielsatz-Lesung: 彼女[かのじょ]は 天皇[てんのう]の 即位式[そくいしき]を 見[み]に 行[い]った。
 Beispielsatz-Übersetzung: Sie besuchte die Zeremonie der Inthronisierung des Kaisers.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

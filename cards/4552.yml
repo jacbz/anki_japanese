@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nebel
-Notiz: ''
 Beispielsatz: ロンドンは濃い霧が一面に立ちこめていた。
 Beispielsatz-Lesung: ロンドンは 濃[こ]い 霧[きり]が一 面[めん]に 立[た]ちこめていた。
 Beispielsatz-Übersetzung: London war völlig in dichten Nebel gehüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

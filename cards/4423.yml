@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mexiko
-Notiz: ''
 Beispielsatz: メキシコではスペイン語を話します。
 Beispielsatz-Lesung: メキシコではスペイン 語[ご]を 話[はな]します。
 Beispielsatz-Übersetzung: Die Menschen in Mexiko sprechen Spanisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Suppe
-Notiz: ''
 Beispielsatz: 母がスープを作っている。
 Beispielsatz-Lesung: 母[はは]がスープを 作[つく]っている。
 Beispielsatz-Übersetzung: Meine Mutter macht Suppe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

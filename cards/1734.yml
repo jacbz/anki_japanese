@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: beliebt; aktiv; wohlhabend
-Notiz: ''
 Beispielsatz: この国ではサッカーが大変盛んだ。
 Beispielsatz-Lesung: この 国[くに]ではサッカーが 大変[たいへん] 盛[さか]んだ。
 Beispielsatz-Übersetzung: Fußball ist in diesem Land sehr beliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sauce; Quelle
-Notiz: ''
 Beispielsatz: このステーキのソースがおいしい。
 Beispielsatz-Lesung: このステーキのソースが 美味[おい]しい。
 Beispielsatz-Übersetzung: Die Sauce auf diesem Steak ist köstlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Freitag
-Notiz: ''
 Beispielsatz: 彼女は毎週金曜日に買い物へ行きます。
 Beispielsatz-Lesung: 彼女[かのじょ]は 毎週[まいしゅう] 金曜日[きんようび]に 買[か]い 物[もの]へ 行[い]きます。
 Beispielsatz-Übersetzung: Sie geht jeden Freitag einkaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

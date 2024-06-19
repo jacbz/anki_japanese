@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bär
-Notiz: ''
 Beispielsatz: 村に熊が出て、人を襲った。
 Beispielsatz-Lesung: 村[むら]に 熊[くま]が 出[で]て、人を 襲[おそ]った。
 Beispielsatz-Übersetzung: Ein Bär erschien in einem Dorf und griff jemanden an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

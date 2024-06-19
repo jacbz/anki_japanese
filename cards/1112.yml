@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen
-Notiz: ''
 Beispielsatz: 雪が静かに降り続いている。
 Beispielsatz-Lesung: 雪[ゆき]が 静[しず]かに 降[ふ]り 続[つず]いている。
 Beispielsatz-Übersetzung: Der Schnee fällt weiterhin lautlos.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

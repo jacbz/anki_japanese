@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: liefern; senden; berichten
-Notiz: ''
 Beispielsatz: 落し物を交番に届けた。
 Beispielsatz-Lesung: 落[おと]し 物[もの]を 交番[こうばん]に 届[とど]けた。
 Beispielsatz-Übersetzung: Ich habe verlorene Gegenstände an die Polizeiwache gemeldet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

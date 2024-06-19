@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Öl
-Notiz: ''
 Beispielsatz: フライパンに油をひいてください。
 Beispielsatz-Lesung: フライパンに 油[あぶら]をひいてください。
 Beispielsatz-Übersetzung: Geben Sie Öl in eine Pfanne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

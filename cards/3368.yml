@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: überwältigend
-Notiz: ''
 Beispielsatz: 反対する人のほうが圧倒的に多かった。
 Beispielsatz-Lesung: 反対[はんたい]する人のほうが 圧倒的[あっとうてき]に 多[おお]かった。
 Beispielsatz-Übersetzung: Es gab eine überwältigend große Zahl von Menschen, die sich
   dagegen aussprachen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

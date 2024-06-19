@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pflegeversicherung
-Notiz: ''
 Beispielsatz: 四十歳以上は介護保険料を払う義務がある。
 Beispielsatz-Lesung: 四十 歳[さい] 以上[いじょう]は 介護保険[かいごほけん] 料[りょう]を 払[はら]う 義務[ぎむ]がある。
 Beispielsatz-Übersetzung: Menschen über vierzig sind verpflichtet, für die Pflegeversicherung
   zu zahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

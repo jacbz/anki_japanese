@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: beide
-Notiz: ''
 Beispielsatz: 犬も猫も両方好きだ。
 Beispielsatz-Lesung: 犬[いぬ]も 猫[ねこ]も 両方[りょうほう] 好[す]きだ。
 Beispielsatz-Übersetzung: Ich mag sowohl Hunde als auch Katzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

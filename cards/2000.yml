@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünf Uhr
-Notiz: ''
 Beispielsatz: 彼は五時ごろ戻ります。
 Beispielsatz-Lesung: 彼[かれ]は五 時[じ]ごろ 戻[もど]ります。
 Beispielsatz-Übersetzung: Er wird gegen fünf Uhr zurück sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

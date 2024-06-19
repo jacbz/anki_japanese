@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Glocke, Klang
-Notiz: ''
 Beispielsatz: 教会で結婚式の鐘が鳴っています。
 Beispielsatz-Lesung: 教会[きょうかい]で 結婚式[けっこんしき]の 鐘[かね]が 鳴[な]っています。
 Beispielsatz-Übersetzung: In der Kirche läuten die Hochzeitsglocken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

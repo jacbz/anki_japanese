@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dusche
-Notiz: ''
 Beispielsatz: 出かける前にシャワーを浴びる。
 Beispielsatz-Lesung: 出[で]かける 前[まえ]にシャワーを 浴[あ]びる。
 Beispielsatz-Übersetzung: Bevor ich ausgehe, dusche ich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

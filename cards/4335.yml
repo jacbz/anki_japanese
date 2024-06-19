@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gelände, Grundstück
-Notiz: ''
 Beispielsatz: ここは大学の敷地だ。
 Beispielsatz-Lesung: ここは 大学[だいがく]の 敷地[しきち]だ。
 Beispielsatz-Übersetzung: Dies ist das Gelände der Universität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

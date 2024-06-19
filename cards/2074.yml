@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Flughafen
-Notiz: ''
 Beispielsatz: 空港に友達を見送りに行った。
 Beispielsatz-Lesung: 空港[くうこう]に 友達[ともだち]を 見送[みおく]りに 行[い]った。
 Beispielsatz-Übersetzung: Ich fuhr zum Flughafen, um meinen Freund zu verabschieden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

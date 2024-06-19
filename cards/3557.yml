@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schutzperson
-Notiz: ''
 Beispielsatz: 未成年者の参加には、保護者の同意が必要である。
 Beispielsatz-Lesung: 未成年者[みせいねんしゃ]の 参加[さんか]には、 保護者[ほごしゃ]の 同意[どうい]が 必要[ひつよう]である。
 Beispielsatz-Übersetzung: Für die Teilnahme von Minderjährigen ist die Zustimmung
   der Eltern erforderlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

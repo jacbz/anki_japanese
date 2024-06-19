@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hausfrau
-Notiz: ''
 Beispielsatz: 母は主婦です。
 Beispielsatz-Lesung: 母[はは]は 主婦[しゅふ]です。
 Beispielsatz-Übersetzung: Meine Mutter ist eine Hausfrau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

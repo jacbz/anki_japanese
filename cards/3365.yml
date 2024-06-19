@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: es wurde beschlossen, dass
-Notiz: ''
 Beispielsatz: 来週出張に行くこととなった。
 Beispielsatz-Lesung: 来週[らいしゅう] 出張[しゅっちょう]に 行[い]くこととなった。
 Beispielsatz-Übersetzung: Es wurde beschlossen, dass ich nächste Woche auf eine Geschäftsreise
   gehen werde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

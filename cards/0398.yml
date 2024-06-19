@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grund
-Notiz: ''
 Beispielsatz: 彼女が独身でいるのには理由がある。
 Beispielsatz-Lesung: 彼女[かのじょ]が 独身[どくしん]でいるのには 理由[りゆう]がある。
 Beispielsatz-Übersetzung: Es gibt einen Grund, warum sie sich dafür entscheidet, Single
   zu bleiben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

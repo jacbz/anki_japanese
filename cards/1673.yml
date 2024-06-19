@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: binden; festziehen
-Notiz: ''
 Beispielsatz: 私は毎日ネクタイを締める。
 Beispielsatz-Lesung: 私[わたし]は 毎日[まいにち]ネクタイを 締[し]める。
 Beispielsatz-Übersetzung: Ich trage jeden Tag eine Krawatte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: trinken
-Notiz: ''
 Beispielsatz: 昨日の夜は飲みすぎてしまった。
 Beispielsatz-Lesung: 昨日[きのう]の 夜[よる]は 飲[の]みすぎてしまった。
 Beispielsatz-Übersetzung: Ich habe gestern Abend zu viel Alkohol getrunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

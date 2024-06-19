@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fabrik
-Notiz: ''
 Beispielsatz: 彼は工場で働いている。
 Beispielsatz-Lesung: 彼[かれ]は 工場[こうじょう]で 働[はたら]いている。
 Beispielsatz-Übersetzung: Er arbeitet in einer Fabrik.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

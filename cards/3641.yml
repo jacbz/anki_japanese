@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mahlzeit, Ernährung
-Notiz: ''
 Beispielsatz: 彼女は食が細い。
 Beispielsatz-Lesung: 彼女[かのじょ]は 食[しょく]が 細[ほそ]い。
 Beispielsatz-Übersetzung: Sie isst sehr wenig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

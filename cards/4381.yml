@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: eine Spur von etw haben, getönt sein mit
-Notiz: ''
 Beispielsatz: トマトは赤みを帯びてきた。
 Beispielsatz-Lesung: トマトは 赤[あか]みを 帯[お]びてきた。
 Beispielsatz-Übersetzung: Die Tomaten waren rot gefärbt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

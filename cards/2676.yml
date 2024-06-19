@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Präfektur Saitama
-Notiz: ''
 Beispielsatz: 埼玉県は東京都の隣だ。
 Beispielsatz-Lesung: 埼玉[さいたま] 県[けん]は 東京都[とうきょうと]の 隣[となり]だ。
 Beispielsatz-Übersetzung: Die Präfektur Saitama liegt neben der Präfektur Tokio.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

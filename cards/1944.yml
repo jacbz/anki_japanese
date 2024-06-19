@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beliebt sein
-Notiz: ''
 Beispielsatz: モテて、モテて、困ってしまう。
 Beispielsatz-Lesung: モテて、モテて、 困[こま]ってしまう。
 Beispielsatz-Übersetzung: Ich bin bei Mädchen so beliebt, dass es ein bisschen peinlich
   ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

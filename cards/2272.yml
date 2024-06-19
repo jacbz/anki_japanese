@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Idee, Konzeption
-Notiz: ''
 Beispielsatz: 柔軟な発想が求められる。
 Beispielsatz-Lesung: 柔軟[じゅうなん]な 発想[はっそう]が 求[もと]められる。
 Beispielsatz-Übersetzung: Flexible Ideen sind gefragt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Osten
-Notiz: ''
 Beispielsatz: 太陽は東から昇る。
 Beispielsatz-Lesung: 太陽[たいよう]は 東[ひがし]から 昇[のぼ]る。
 Beispielsatz-Übersetzung: Die Sonne geht im Osten auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

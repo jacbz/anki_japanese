@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeichnung, Figur, Diagramm
-Notiz: ''
 Beispielsatz: 先生は図を書いて説明した。
 Beispielsatz-Lesung: 先生[せんせい]は 図[ず]を 書[か]いて 説明[せつめい]した。
 Beispielsatz-Übersetzung: Der Lehrer hat die Figur gezeichnet und erklärt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Werkzeug, Instrument
-Notiz: ''
 Beispielsatz: この道具は使い方によって危険なこともあります。
 Beispielsatz-Lesung: この 道具[どうぐ]は 使[つか]い 方[かた]によって 危険[きけん]なこともあります。
 Beispielsatz-Übersetzung: Dieses Werkzeug kann gefährlich sein, je nachdem, wie es
   eingesetzt wird.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

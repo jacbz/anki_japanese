@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fortsetzen; folgen
-Notiz: ''
 Beispielsatz: 今年も引き続きご支援をお願いいたします。
 Beispielsatz-Lesung: 今年[ことし]も 引[ひ]き 続[つづ]きご 支援[しえん]をお 願[ねが]いいたします。
 Beispielsatz-Übersetzung: Wir würden uns freuen, wenn Sie uns auch in diesem Jahr
   unterstützen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

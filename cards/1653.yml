@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufgeben, aufhören
-Notiz: ''
 Beispielsatz: 途中であきらめないで。
 Beispielsatz-Lesung: 途中[とちゅう]であきらめないで。
 Beispielsatz-Übersetzung: Gib nicht halbwegs auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

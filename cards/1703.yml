@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Qualifikation; Fähigkeit
-Notiz: ''
 Beispielsatz: 彼は1992年に弁護士の資格を取った。
 Beispielsatz-Lesung: 彼[かれ]は1992 年[ねん]に 弁護士[べんごし]の 資格[しかく]を 取[と]った。
 Beispielsatz-Übersetzung: Er erwarb 1992 die Qualifikation als Anwalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

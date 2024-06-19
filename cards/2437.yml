@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Biologie
-Notiz: ''
 Beispielsatz: 生物に関する本を読む。
 Beispielsatz-Lesung: 生物[せいぶつ]に 関[かん]する 本[ほん]を 読[よ]む。
 Beispielsatz-Übersetzung: Ich nehme an einem Biologieunterricht teil.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

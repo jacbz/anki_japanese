@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ablehnen, ableugnen, zurückweisen; um Erlaubnis bitten; kündigen
-Notiz: ''
 Beispielsatz: デートを断られてしまった。
 Beispielsatz-Lesung: デートを 断[ことわ]られてしまった。
 Beispielsatz-Übersetzung: Ich wurde für ein Date abgelehnt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

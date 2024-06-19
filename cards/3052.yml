@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Präfekturen
-Notiz: ''
 Beispielsatz: 日本には都道府県が四十七ある。
 Beispielsatz-Lesung: 日本[にっぽん]には 都道府県[とどうふけん]が四十七ある。
 Beispielsatz-Übersetzung: Es gibt 47 Präfekturen in Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

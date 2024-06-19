@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erreichen
-Notiz: ''
 Beispielsatz: この会社は数年で急速な成長を遂げた。
 Beispielsatz-Lesung: この 会社[かいしゃ]は 数[すう] 年[ねん]で 急速[きゅうそく]な 成長[せいちょう]を 遂[と]げた。
 Beispielsatz-Übersetzung: Das Unternehmen hat in den letzten Jahren ein schnelles
   Wachstum erreicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

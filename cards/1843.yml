@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: beide Hände, beide Arme
-Notiz: ''
 Beispielsatz: 両手でしっかり持って。
 Beispielsatz-Lesung: 両手[りょうて]でしっかり 持[も]って。
 Beispielsatz-Übersetzung: Halte es fest mit beiden Händen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

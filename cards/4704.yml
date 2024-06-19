@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tofu, Sojabohnenquark
-Notiz: ''
 Beispielsatz: 豆腐は体にいいので毎日食べています。
 Beispielsatz-Lesung: 豆腐[とうふ]は 体[からだ]にいいので 毎日[まいにち] 食[た]べています。
 Beispielsatz-Übersetzung: Tofu ist gut für die Gesundheit, deshalb esse ich es jeden
   Tag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

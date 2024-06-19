@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: unheimlich; zweifelhaft
-Notiz: ''
 Beispielsatz: 店内は怪しい雰囲気があった。
 Beispielsatz-Lesung: 店内[てんない]は 怪[あや]しい 雰囲気[ふんいき]があった。
 Beispielsatz-Übersetzung: Im Laden herrschte eine unheimliche Atmosphäre.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: brechen; knacken
-Notiz: ''
 Beispielsatz: 窓ガラスをうっかり割ってしまった。
 Beispielsatz-Lesung: 窓[まど]ガラスをうっかり 割[わ]ってしまった。
 Beispielsatz-Übersetzung: Ich habe aus Versehen das Fenster gebrochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

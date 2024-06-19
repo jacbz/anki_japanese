@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: privat
-Notiz: ''
 Beispielsatz: 私は子どもを私立の学校に入れたい。
 Beispielsatz-Lesung: 私[わたし]は 子[こ]どもを 私立[しりつ]の 学校[がっこう]に 入[い]れたい。
 Beispielsatz-Übersetzung: Ich möchte mein Kind auf eine Privatschule schicken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

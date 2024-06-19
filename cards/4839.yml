@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fein gehackt, in kleine Stücke geschnitten
-Notiz: ''
 Beispielsatz: たまねぎをみじん切りにする。
 Beispielsatz-Lesung: たまねぎをみじん 切[ぎ]りにする。
 Beispielsatz-Übersetzung: Die Zwiebeln fein hacken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

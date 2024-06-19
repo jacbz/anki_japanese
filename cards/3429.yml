@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schallplatte
-Notiz: ''
 Beispielsatz: 私の趣味は古いレコードを集めることだ。
 Beispielsatz-Lesung: 私[わたし]の 趣味[しゅみ]は 古[ふる]いレコードを 集[あつ]めることだ。
 Beispielsatz-Übersetzung: Mein Hobby ist das Sammeln alter Schallplatten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

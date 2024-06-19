@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kleidung, Bekleidung
-Notiz: ''
 Beispielsatz: カジュアルな服装で構いません。
 Beispielsatz-Lesung: カジュアルな 服装[ふくそう]で 構[かま]いません。
 Beispielsatz-Übersetzung: Sie können sich leger kleiden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kriechen, krabbeln
-Notiz: ''
 Beispielsatz: 毛虫が壁を這っています。
 Beispielsatz-Lesung: 毛虫[けむし]が 壁[かべ]を 這[は]っています。
 Beispielsatz-Übersetzung: Eine Raupe kriecht an der Wand entlang.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: empfindlich
-Notiz: ''
 Beispielsatz: 私は暑さ寒さに敏感だ。
 Beispielsatz-Lesung: 私[わたし]は 暑[あつ]さ 寒[さむ]さに 敏感[びんかん]だ。
 Beispielsatz-Übersetzung: Ich bin empfindlich gegenüber Hitze und Kälte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

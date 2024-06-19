@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: wiederbeleben, zurückkehren
-Notiz: ''
 Beispielsatz: この写真で記憶がよみがえってきた。
 Beispielsatz-Lesung: この 写真[しゃしん]で 記憶[きおく]がよみがえってきた。
 Beispielsatz-Übersetzung: Die Erinnerungen kamen zurück, als ich dieses Foto ansah.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

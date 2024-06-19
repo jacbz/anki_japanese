@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: heftig, intensiv, schwerwiegend
-Notiz: ''
 Beispielsatz: 背中に激しい痛みを感じた。
 Beispielsatz-Lesung: 背中[せなか]に 激[はげ]しい 痛[いた]みを 感[かん]じた。
 Beispielsatz-Übersetzung: Ich spürte eine heftige Schmerzen in meinem Rücken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

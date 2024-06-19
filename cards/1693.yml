@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wirtschaft
-Notiz: ''
 Beispielsatz: 今その国は経済の状態が悪い。
 Beispielsatz-Lesung: 今[いま]その 国[くに]は 経済[けいざい]の 状態[じょうたい]が 悪[わる]い。
 Beispielsatz-Übersetzung: Das Land befindet sich derzeit in einer schlechten wirtschaftlichen
   Lage.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

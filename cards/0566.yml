@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich bewegen; funktionieren (Maschine)
-Notiz: ''
 Beispielsatz: 動くな。
 Beispielsatz-Lesung: 動[うご]くな。
 Beispielsatz-Übersetzung: Bewege dich nicht!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

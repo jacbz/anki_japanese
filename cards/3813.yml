@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schenken, senden
-Notiz: ''
 Beispielsatz: 定年退職した母にプレゼントを贈った。
 Beispielsatz-Lesung: 定年退職[ていねんたいしょく]した 母[はは]にプレゼントを 贈[おく]った。
 Beispielsatz-Übersetzung: Ich habe ein Geschenk an meine Mutter geschickt, die in
   Rente gegangen ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

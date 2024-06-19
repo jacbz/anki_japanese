@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angelegenheit, Sache, Thema
-Notiz: ''
 Beispielsatz: あの件について、家族で話し合った。
 Beispielsatz-Lesung: あの 件[けん]について、 家族[かぞく]で 話[はな]し 合[あ]った。
 Beispielsatz-Übersetzung: Wir haben in unserer Familie über diese Angelegenheit diskutiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

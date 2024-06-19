@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vergleichen
-Notiz: ''
 Beispielsatz: いろいろな店で値段を比べた。
 Beispielsatz-Lesung: いろいろな 店[みせ]で 値段[ねだん]を 比[くら]べた。
 Beispielsatz-Übersetzung: Ich habe die Preise in verschiedenen Geschäften verglichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

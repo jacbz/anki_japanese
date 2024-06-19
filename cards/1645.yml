@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: ein Moment, ein Augenblick
-Notiz: ''
 Beispielsatz: 君なら一瞬でわかってしまうだろう。
 Beispielsatz-Lesung: 君[きみ]なら 一瞬[いっしゅん]でわかってしまうだろう。
 Beispielsatz-Übersetzung: Sie würden es sofort verstehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

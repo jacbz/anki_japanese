@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein Wort, einzelnes Wort, kurzer Kommentar
-Notiz: ''
 Beispielsatz: 彼はいつも一言多い。
 Beispielsatz-Lesung: 彼[かれ]はいつも 一言[ひとこと] 多[おお]い。
 Beispielsatz-Übersetzung: Er sagt immer ein Wort zu viel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

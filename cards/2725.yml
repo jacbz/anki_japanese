@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: älterer Bruder
-Notiz: ''
 Beispielsatz: 兄さんは頼りがいがある。
 Beispielsatz-Lesung: 兄[にい]さんは 頼[たよ]りがいがある。
 Beispielsatz-Übersetzung: Mein älterer Bruder ist ein Mann, auf den man sich verlassen
   kann.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

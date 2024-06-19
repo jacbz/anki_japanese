@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fest
-Notiz: ''
 Beispielsatz: 娘と近所の祭りに出かけた。
 Beispielsatz-Lesung: 娘[むすめ]と 近所[きんじょ]の 祭[まつ]りに 出[で]かけた。
 Beispielsatz-Übersetzung: Ich bin mit meiner Tochter zu einem Nachbarschaftsfest gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

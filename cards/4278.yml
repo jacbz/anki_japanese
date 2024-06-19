@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Holzkohle
-Notiz: ''
 Beispielsatz: 彼は山で竹を焼いて炭を作った。
 Beispielsatz-Lesung: 彼[かれ]は 山[やま]で 竹[たけ]を 焼[や]いて 炭[すみ]を 作[つく]った。
 Beispielsatz-Übersetzung: Er verbrannte Bambus, um Holzkohle in den Bergen herzustellen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

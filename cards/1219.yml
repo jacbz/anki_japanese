@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Toilette, Badezimmer
-Notiz: ''
 Beispielsatz: トイレはどちらでしょうか。
 Beispielsatz-Lesung: トイレはどちらでしょうか。
 Beispielsatz-Übersetzung: Könnten Sie mir sagen, wo das Badezimmer ist?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

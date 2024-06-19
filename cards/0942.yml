@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei Jahre
-Notiz: ''
 Beispielsatz: コンクールは二年に一度開催される。
 Beispielsatz-Lesung: コンクールは二 年[ねん]に 一度[いちど] 開催[かいさい]される。
 Beispielsatz-Übersetzung: Der Wettbewerb findet alle zwei Jahre statt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

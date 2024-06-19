@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kiefer
-Notiz: ''
 Beispielsatz: 海岸に沿って、松の林が続いている。
 Beispielsatz-Lesung: 海岸[かいがん]に 沿[そ]って、 松[まつ]の 林[はやし]が 続[つず]いている。
 Beispielsatz-Übersetzung: Entlang der Küste erstreckt sich ein Kiefernwald.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

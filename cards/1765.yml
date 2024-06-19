@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich nicht entscheiden können; sich verirren
-Notiz: ''
 Beispielsatz: それを買うかどうか迷っている。
 Beispielsatz-Lesung: それを 買[か]うかどうか 迷[まよ]っている。
 Beispielsatz-Übersetzung: Ich kann mich nicht entscheiden, ob ich es kaufen soll oder
   nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

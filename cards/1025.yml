@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: spät; langsam
-Notiz: ''
 Beispielsatz: 父はいつも帰りが遅い。
 Beispielsatz-Lesung: 父[ちち]はいつも 帰[かえ]りが 遅[おそ]い。
 Beispielsatz-Übersetzung: Mein Vater kommt immer spät nach Hause.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

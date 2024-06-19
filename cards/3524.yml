@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gewalt
-Notiz: ''
 Beispielsatz: 彼は酒に酔って暴力を振るい、警察に捕まった。
 Beispielsatz-Lesung: 彼[かれ]は 酒[さけ]に 酔[よ]って 暴力[ぼうりょく]を 振[ふ]るい、 警察[けいさつ]に 捕[つか]まった。
 Beispielsatz-Übersetzung: Er war betrunken und wurde wegen Gewalttätigkeit verhaftet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ding, Objekt, Zeug
-Notiz: ''
 Beispielsatz: そんなに高い物は買えません。
 Beispielsatz-Lesung: そんなに 高[たか]い 物[もの]は 買[か]えません。
 Beispielsatz-Übersetzung: Ich kann mir solch teure Dinge nicht leisten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

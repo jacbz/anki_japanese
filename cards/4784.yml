@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gegenseitig
-Notiz: ''
 Beispielsatz: 私達は相互の理解を深めるためにもっと話し合うべきだ。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は 相互[そうご]の 理解[りかい]を 深[ふか]めるためにもっと 話[はな]し 合[あ]うべきだ。
 Beispielsatz-Übersetzung: Wir sollten mehr diskutieren, um unser gegenseitiges Verständnis
   zu vertiefen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

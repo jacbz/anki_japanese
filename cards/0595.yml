@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: über, bezüglich, betreffend
-Notiz: ''
 Beispielsatz: その件に関して情報を得たい。
 Beispielsatz-Lesung: その 件[けん]に 関[かん]して 情報[じょうほう]を 得[え]たい。
 Beispielsatz-Übersetzung: Ich möchte Informationen über die Angelegenheit erhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

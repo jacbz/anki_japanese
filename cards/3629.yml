@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teil von
-Notiz: ''
 Beispielsatz: このプロジェクトは政策の一環として行われる。
 Beispielsatz-Lesung: このプロジェクトは 政策[せいさく]の 一環[いっかん]として 行[おこな]われる。
 Beispielsatz-Übersetzung: Dieses Projekt wird im Rahmen der Politik durchgeführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erfüllen, befriedigen, treffen
-Notiz: ''
 Beispielsatz: 応募者は次の条件を満たしていることが必要です。
 Beispielsatz-Lesung: 応募者[おうぼしゃ]は 次[つぎ]の 条件[じょうけん]を 満[み]たしていることが 必要[ひつよう]です。
 Beispielsatz-Übersetzung: Der Bewerber muss die folgenden Anforderungen erfüllen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

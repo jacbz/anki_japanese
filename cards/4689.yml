@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: annehmen
-Notiz: ''
 Beispielsatz: 願書は十一月から受け付けます。
 Beispielsatz-Lesung: 願書[がんしょ]は 十一月[じゅういちがつ]から 受[う]け 付[つ]けます。
 Beispielsatz-Übersetzung: Die Bewerbungen werden ab November angenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Shamisen
-Notiz: ''
 Beispielsatz: 私の弟は三味線を習っています。
 Beispielsatz-Lesung: 私[わたし]の 弟[おとうと]は 三味線[しゃみせん]を 習[なら]っています。
 Beispielsatz-Übersetzung: Mein jüngerer Bruder lernt Shamisen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

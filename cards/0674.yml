@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fließen
-Notiz: ''
 Beispielsatz: 利根川は関東平野を流れている。
 Beispielsatz-Lesung: 利根川[とねがわ]は 関東平野[かんとうへいや]を 流[なが]れている。
 Beispielsatz-Übersetzung: Der Tone-Fluss fließt durch die Kanto-Ebene.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

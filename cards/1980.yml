@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: leicht, ein bisschen, einige
-Notiz: ''
 Beispielsatz: 人口が若干増加した。
 Beispielsatz-Lesung: 人口[じんこう]が 若干[じゃっかん] 増加[ぞうか]した。
 Beispielsatz-Übersetzung: Die Bevölkerung der Stadt hat sich leicht erhöht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

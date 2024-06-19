@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: ängstlich, beängstigend
-Notiz: ''
 Beispielsatz: 蛇が怖い。
 Beispielsatz-Lesung: 蛇[へび]が 怖[こわ]い。
 Beispielsatz-Übersetzung: Ich habe Angst vor Schlangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

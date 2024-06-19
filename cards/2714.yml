@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünfundzwanzigster (Tag); fünfundzwanzig Tage
-Notiz: ''
 Beispielsatz: 今月の二十五日に子供が生まれた。
 Beispielsatz-Lesung: 今月[こんげつ]の二十五 日[にち]に 子供[こども]が 生[う]まれた。
 Beispielsatz-Übersetzung: Dieses Kind wurde am fünfundzwanzigsten dieses Monats geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

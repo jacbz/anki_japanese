@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadtbezirk, Stadtteil
-Notiz: ''
 Beispielsatz: この区には外国人が多く住んでいる。
 Beispielsatz-Lesung: この 区[く]には 外国人[がいこくじん]が 多[おお]く 住[す]んでいる。
 Beispielsatz-Übersetzung: In diesem Bezirk leben viele Ausländer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

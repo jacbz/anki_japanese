@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: stoßen; werfen
-Notiz: ''
 Beispielsatz: 彼は車を塀にぶつけてしまった。
 Beispielsatz-Lesung: 彼[かれ]は 車[くるま]を 塀[へい]にぶつけてしまった。
 Beispielsatz-Übersetzung: Er hat sein Auto gegen den Zaun gestoßen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

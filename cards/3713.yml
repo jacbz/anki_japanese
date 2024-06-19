@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: verglichen mit
-Notiz: ''
 Beispielsatz: 五十年前に比べて、人々の生活は豊かになった。
 Beispielsatz-Lesung: 五十 年[ねん] 前[まえ]に 比[くら]べて、 人々[ひとびと]の 生活[せいかつ]は 豊[ゆた]かになった。
 Beispielsatz-Übersetzung: Verglichen mit vor fünfzig Jahren haben die Menschen heute
   ein wohlhabendes Leben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

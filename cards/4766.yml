@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: junge Leute
-Notiz: ''
 Beispielsatz: 多くの若者達がボランティア活動に参加しています。
 Beispielsatz-Lesung: 多[おお]くの 若者[わかもの] 達[たち]がボランティア 活動[かつどう]に 参加[さんか]しています。
 Beispielsatz-Übersetzung: Viele junge Leute sind an Freiwilligenarbeit beteiligt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

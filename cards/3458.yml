@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kosten
-Notiz: ''
 Beispielsatz: この計画はコストがかかりすぎる。
 Beispielsatz-Lesung: この 計画[けいかく]はコストがかかりすぎる。
 Beispielsatz-Übersetzung: Dieser Plan verursacht zu hohe Kosten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

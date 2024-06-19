@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Herr, Meister
-Notiz: ''
 Beispielsatz: この家の主は今出かけています。
 Beispielsatz-Lesung: この 家[いえ]の 主[あるじ]は 今[いま] 出[で]かけています。
 Beispielsatz-Übersetzung: Der Besitzer des Hauses ist verreist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

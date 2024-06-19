@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Berührung, Kontakt
-Notiz: ''
 Beispielsatz: この動物園では動物との触れ合いを楽しむことができる。
 Beispielsatz-Lesung: この 動物園[どうぶつえん]では 動物[どうぶつ]との 触[ふ]れ 合[あ]いを 楽[たの]しむことができる。
 Beispielsatz-Übersetzung: In diesem Zoo kann man den Kontakt mit Tieren genießen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

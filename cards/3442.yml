@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: unverantwortlich, haltlos
-Notiz: ''
 Beispielsatz: いい加減なことを言わないでください。
 Beispielsatz-Lesung: いい 加減[かげん]なことを 言[い]わないでください。
 Beispielsatz-Übersetzung: Sprechen Sie nicht haltlos.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

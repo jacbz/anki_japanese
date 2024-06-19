@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: reich (an etwas sein); wachsen
-Notiz: ''
 Beispielsatz: この野菜はビタミンCに富んでいる。
 Beispielsatz-Lesung: この 野菜[やさい]はビタミンCに 富[と]んでいる。
 Beispielsatz-Übersetzung: Dieses Gemüse ist reich an Vitamin C.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

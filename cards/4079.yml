@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Küchenmesser
-Notiz: ''
 Beispielsatz: この包丁はよく切れる。
 Beispielsatz-Lesung: この 包丁[ほうちょう]はよく 切[き]れる。
 Beispielsatz-Übersetzung: Dieses Küchenmesser kann sehr gut schneiden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

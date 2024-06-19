@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einladen
-Notiz: ''
 Beispielsatz: このままでは最悪の事態を招くだろう。
 Beispielsatz-Lesung: このままでは 最悪[さいあく]の 事態[じたい]を 招[まね]くだろう。
 Beispielsatz-Übersetzung: Wenn nichts unternommen wird, wird dies die schlimmste Situation
   verursachen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

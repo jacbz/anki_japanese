@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: sehr, äußerst; Notfall
-Notiz: ''
 Beispielsatz: その国は非常に物価が高い。
 Beispielsatz-Lesung: その 国[くに]は 非常[ひじょう]に 物価[ぶっか]が 高[たか]い。
 Beispielsatz-Übersetzung: Die Preise in diesem Land sind äußerst hoch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

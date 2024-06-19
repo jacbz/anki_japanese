@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Knie
-Notiz: ''
 Beispielsatz: 転んでひざをけがしてしまった。
 Beispielsatz-Lesung: 転[ころ]んでひざをけがしてしまった。
 Beispielsatz-Übersetzung: Ich bin gestürzt und habe mich am Knie verletzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

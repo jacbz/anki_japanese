@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufwachen
-Notiz: ''
 Beispielsatz: 真夜中に目が覚めた。
 Beispielsatz-Lesung: 真夜中[まよなか]に 目[め]が 覚[さ]めた。
 Beispielsatz-Übersetzung: Ich bin mitten in der Nacht aufgewacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

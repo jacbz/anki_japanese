@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahrscheinlichkeit
-Notiz: ''
 Beispielsatz: たんに確率の問題だ。
 Beispielsatz-Lesung: たんに 確率[かくりつ]の 問題[もんだい]だ。
 Beispielsatz-Übersetzung: Es ist einfach eine Frage der Wahrscheinlichkeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

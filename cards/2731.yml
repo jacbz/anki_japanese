@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Versicherungsprämie
-Notiz: ''
 Beispielsatz: 保険料を支払わないといけない。
 Beispielsatz-Lesung: 保険料[ほけんりょう]を 支払[しはら]わないといけない。
 Beispielsatz-Übersetzung: Ich muss Versicherungsgebühren zahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachspeise
-Notiz: ''
 Beispielsatz: 食事の最後に素晴らしいデザートが出た。
 Beispielsatz-Lesung: 食事[しょくじ]の 最後[さいご]に 素晴[すば]らしいデザートが 出[で]た。
 Beispielsatz-Übersetzung: Eine feine Nachspeise wurde nach dem Essen serviert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

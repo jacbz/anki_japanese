@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vorfall, Ereignis
-Notiz: ''
 Beispielsatz: 恐ろしい事件が起きた。
 Beispielsatz-Lesung: 恐[おそ]ろしい 事件[じけん]が 起[お]きた。
 Beispielsatz-Übersetzung: Es ereignete sich ein schrecklicher Vorfall.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

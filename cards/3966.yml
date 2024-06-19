@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schwein
-Notiz: ''
 Beispielsatz: 彼は豚を飼っている。
 Beispielsatz-Lesung: 彼[かれ]は 豚[ぶた]を 飼[か]っている。
 Beispielsatz-Übersetzung: Er züchtet Schweine.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

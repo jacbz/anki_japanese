@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: rauben, gewaltsam nehmen; faszinieren
-Notiz: ''
 Beispielsatz: 彼らは自由と権利をうばわれた。
 Beispielsatz-Lesung: 彼[かれ]らは 自由[じゆう]と 権利[けんり]をうばわれた。
 Beispielsatz-Übersetzung: Sie wurden ihrer Rechte und Freiheit beraubt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

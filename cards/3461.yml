@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: sowie, und auch
-Notiz: ''
 Beispielsatz: これは第四条ならびに第五条に規定されている。
 Beispielsatz-Lesung: これは 第[だい]四 条[じょう]ならびに 第[だい]五 条[じょう]に 規定[きてい]されている。
 Beispielsatz-Übersetzung: Dies ist in den Artikeln 4 und 5 vorgeschrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

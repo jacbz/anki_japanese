@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: neben
-Notiz: ''
 Beispielsatz: 彼女は娘の横に寝ている。
 Beispielsatz-Lesung: 彼女[かのじょ]は 娘[むすめ]の 横[よこ]に 寝[ね]ている。
 Beispielsatz-Übersetzung: Sie schläft neben ihrer Tochter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

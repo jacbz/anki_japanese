@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Braut
-Notiz: ''
 Beispielsatz: 新婦が着たドレスはとても美しかった。
 Beispielsatz-Lesung: 新婦[しんぷ]が 着[き]たドレスはとても 美[うつく]しかった。
 Beispielsatz-Übersetzung: Das Kleid, das die Braut trug, war sehr schön.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein halbes Jahr
-Notiz: ''
 Beispielsatz: 妹はイギリスに半年住んでいた。
 Beispielsatz-Lesung: 妹[いもうと]はイギリスに 半年[はんとし] 住[す]んでいた。
 Beispielsatz-Übersetzung: Meine jüngere Schwester lebte sechs Monate lang in England.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

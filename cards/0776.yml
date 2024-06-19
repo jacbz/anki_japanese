@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schmerzhaft, wehtun
-Notiz: ''
 Beispielsatz: どこが痛いですか。
 Beispielsatz-Lesung: どこが 痛[いた]いですか。
 Beispielsatz-Übersetzung: Wo tut es weh?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

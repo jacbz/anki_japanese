@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: behinderter Mensch, behinderte Person
-Notiz: ''
 Beispielsatz: 障害者のための学校を始めた。
 Beispielsatz-Lesung: 障害者[しょうがいしゃ]のための 学校[がっこう]を 始[はじ]めた。
 Beispielsatz-Übersetzung: Ich habe eine Schule für behinderte Menschen gegründet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

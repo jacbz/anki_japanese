@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wissenschaft
-Notiz: ''
 Beispielsatz: この問題は現代科学では解明されていない。
 Beispielsatz-Lesung: この 問題[もんだい]は 現代科学[げんだいかがく]では 解明[かいめい]されていない。
 Beispielsatz-Übersetzung: Dieses Problem wird von der modernen Wissenschaft nicht
   gelöst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

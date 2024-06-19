@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: spannen, aufhängen
-Notiz: ''
 Beispielsatz: 彼は木の間にロープを張った。
 Beispielsatz-Lesung: 彼[かれ]は 木[こ]の 間[ま]にロープを 張[は]った。
 Beispielsatz-Übersetzung: Er spannte ein Seil zwischen den Bäumen auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

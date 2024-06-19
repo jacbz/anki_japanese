@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erdgeschoss
-Notiz: ''
 Beispielsatz: 山田さんはこのアパートの一階に住んでいる。
 Beispielsatz-Lesung: 山田[やまだ]さんはこのアパートの一 階[かい]に 住[す]んでいる。
 Beispielsatz-Übersetzung: Herr Yamada wohnt im Erdgeschoss dieses Apartmentblocks.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

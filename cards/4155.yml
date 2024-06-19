@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (eine Lüge) erzählen; seufzen
-Notiz: ''
 Beispielsatz: 彼女は深いため息を吐いた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 深[ふか]いため 息[いき]を 吐[は]いた。
 Beispielsatz-Übersetzung: Sie stieß einen tiefen Seufzer aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

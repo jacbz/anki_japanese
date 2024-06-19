@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ressource
-Notiz: ''
 Beispielsatz: オーストラリアは天然資源に恵まれている。
 Beispielsatz-Lesung: オーストラリアは 天然資源[てんねんしげん]に 恵[めぐ]まれている。
 Beispielsatz-Übersetzung: Australien ist reich an natürlichen Ressourcen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

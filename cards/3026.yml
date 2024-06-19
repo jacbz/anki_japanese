@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ruinen, Überreste
-Notiz: ''
 Beispielsatz: 父は古代の遺跡を訪ねるのが好きだ。
 Beispielsatz-Lesung: 父[ちち]は 古代[こだい]の 遺跡[いせき]を 訪[たず]ねるのが 好[す]きだ。
 Beispielsatz-Übersetzung: Mein Vater besucht gerne alte Ruinen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fuß; Bein
-Notiz: ''
 Beispielsatz: ハイヒールを履くと足が痛む。
 Beispielsatz-Lesung: ハイヒールを 履[は]くと 足[あし]が 痛[いた]む。
 Beispielsatz-Übersetzung: Meine Beine schmerzen, wenn ich hohe Absätze trage.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

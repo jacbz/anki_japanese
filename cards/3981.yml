@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kantine, Speisesaal
-Notiz: ''
 Beispielsatz: 食堂はどこですか。
 Beispielsatz-Lesung: 食堂[しょくどう]はどこですか。
 Beispielsatz-Übersetzung: Wo ist der Speisesaal?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

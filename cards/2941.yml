@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dieser Kerl; diese Sache
-Notiz: ''
 Beispielsatz: あいつには負けたくない。
 Beispielsatz-Lesung: あいつには 負[ま]けたくない。
 Beispielsatz-Übersetzung: Ich möchte nicht von diesem Kerl geschlagen werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

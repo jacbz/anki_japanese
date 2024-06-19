@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ernsthaft, schrecklich; schwierig
-Notiz: ''
 Beispielsatz: 大きな家を掃除するのは大変だ。
 Beispielsatz-Lesung: 大[おお]きな 家[いえ]を 掃除[そうじ]するのは 大変[たいへん]だ。
 Beispielsatz-Übersetzung: Es ist harte Arbeit, ein großes Haus zu putzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

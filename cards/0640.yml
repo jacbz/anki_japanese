@@ -7,7 +7,9 @@ Alternative: |2-
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: wie viele, wie alt
-Notiz: ''
 Beispielsatz: リンゴはいくつありますか。
 Beispielsatz-Lesung: リンゴはいくつありますか。
 Beispielsatz-Übersetzung: Wie viele Äpfel gibt es?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

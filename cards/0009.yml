@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: und; oder; mit; wenn
-Notiz: ''
 Beispielsatz: 彼とレストランへ行った。
 Beispielsatz-Lesung: 彼[かれ]とレストランへ 行[い]った。
 Beispielsatz-Übersetzung: Ich ging mit meinem Freund in ein Restaurant.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

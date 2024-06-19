@@ -5,7 +5,9 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Kommentar
-Notiz: ''
 Beispielsatz: その件については今はコメントできません。
 Beispielsatz-Lesung: その 件[けん]については 今[いま]はコメントできません。
 Beispielsatz-Übersetzung: Ich kann dazu im Moment keinen Kommentar abgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

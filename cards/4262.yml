@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: überhaupt nicht; vollständig
-Notiz: ''
 Beispielsatz: この薬を飲んだが一向に効かなかった。
 Beispielsatz-Lesung: この 薬[くすり]を 飲[の]んだが 一向[いっこう]に 効[き]かなかった。
 Beispielsatz-Übersetzung: Ich habe das Medikament genommen, aber es hat überhaupt
   nicht gewirkt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

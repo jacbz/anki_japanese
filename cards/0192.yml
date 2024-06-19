@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kaufen
-Notiz: ''
 Beispielsatz: 彼は車を買った。
 Beispielsatz-Lesung: 彼[かれ]は 車[くるま]を 買[か]った。
 Beispielsatz-Übersetzung: Er kaufte ein Auto.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

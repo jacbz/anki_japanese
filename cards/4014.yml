@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gestern Abend
-Notiz: ''
 Beispielsatz: 昨夜はほとんど眠れなかった。
 Beispielsatz-Lesung: 昨夜[さくや]はほとんど 眠[ねむ]れなかった。
 Beispielsatz-Übersetzung: Ich habe gestern Abend sehr wenig geschlafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

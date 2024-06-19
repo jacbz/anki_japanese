@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Seite
-Notiz: ''
 Beispielsatz: 教科書の五ページを開けてください。
 Beispielsatz-Lesung: 教科書[きょうかしょ]の五ページを 開[あ]けてください。
 Beispielsatz-Übersetzung: Schlagen Sie Ihr Lehrbuch auf Seite fünf auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

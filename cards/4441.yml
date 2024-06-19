@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grenzlinie, Grenze
-Notiz: ''
 Beispielsatz: この道路が両国の境になっています。
 Beispielsatz-Lesung: この 道路[どうろ]が 両国[りょうこく]の 境[さかい]になっています。
 Beispielsatz-Übersetzung: Diese Straße bildet die Grenzlinie zwischen den beiden Ländern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: luxuriös, prächtig
-Notiz: ''
 Beispielsatz: ハワイで豪華なホテルに泊まった。
 Beispielsatz-Lesung: ハワイで 豪華[ごうか]なホテルに 泊[と]まった。
 Beispielsatz-Übersetzung: Ich habe in einem luxuriösen Hotel in Hawaii übernachtet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

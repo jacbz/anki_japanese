@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünfzehnter (Tag); fünfzehn Tage
-Notiz: ''
 Beispielsatz: 両親は三月十五日まで日本にいた。
 Beispielsatz-Lesung: 両親[りょうしん]は 三月[さんがつ]十五 日[にち]まで 日本[にっぽん]にいた。
 Beispielsatz-Übersetzung: Meine Eltern blieben bis zum 15. März in Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

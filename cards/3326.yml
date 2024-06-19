@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schlafsack
-Notiz: ''
 Beispielsatz: キャンプでは、テントを張って、寝袋で寝た。
 Beispielsatz-Lesung: キャンプでは、テントを 張[は]って、 寝袋[ねぶくろ]で 寝[ね]た。
 Beispielsatz-Übersetzung: Im Lager schlugen wir ein Zelt auf und schliefen in Schlafsäcken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

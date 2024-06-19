@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sinn für Humor
-Notiz: ''
 Beispielsatz: 彼は笑いのセンスがある。
 Beispielsatz-Lesung: 彼[かれ]は 笑[わら]いのセンスがある。
 Beispielsatz-Übersetzung: Er hat einen Sinn für Humor.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

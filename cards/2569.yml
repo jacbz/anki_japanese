@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sparen, aufbewahren, anhäufen
-Notiz: ''
 Beispielsatz: 若いうちに知識をためておきなさい。
 Beispielsatz-Lesung: 若[わか]いうちに 知識[ちしき]をためておきなさい。
 Beispielsatz-Übersetzung: Sparen Sie Wissen, während Sie jung sind.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

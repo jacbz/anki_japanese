@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Film
-Notiz: ''
 Beispielsatz: フィルムを現像しに行きます。
 Beispielsatz-Lesung: フィルムを 現像[げんぞう]しに 行[い]きます。
 Beispielsatz-Übersetzung: Ich werde gehen und den Film entwickeln lassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

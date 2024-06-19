@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Größe
-Notiz: ''
 Beispielsatz: 会社の規模を拡大する。
 Beispielsatz-Lesung: 会社[かいしゃ]の 規模[きぼ]を 拡大[かくだい]する。
 Beispielsatz-Übersetzung: Er hat die Größe des Unternehmens erweitert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

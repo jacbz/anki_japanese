@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bäume
-Notiz: ''
 Beispielsatz: 公園には木々が生い茂っている。
 Beispielsatz-Lesung: 公園[こうえん]には 木々[きぎ]が 生[お]い 茂[しげ]っている。
 Beispielsatz-Übersetzung: Bäume wachsen üppig im Park.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

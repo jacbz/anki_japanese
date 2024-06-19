@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: ein (gewisser)
-Notiz: ''
 Beispielsatz: 私は去年、あるプロジェクトに関わった。
 Beispielsatz-Lesung: 私[わたし]は 去年[きょねん]、あるプロジェクトに 関[かか]わった。
 Beispielsatz-Übersetzung: Letztes Jahr war ich an einem gewissen Projekt beteiligt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: lernen
-Notiz: ''
 Beispielsatz: 友達に日本語を教わる。
 Beispielsatz-Lesung: 友達[ともだち]に 日本語[にほんご]を 教[おそ]わる。
 Beispielsatz-Übersetzung: Ich lerne Japanisch von meinem Freund.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

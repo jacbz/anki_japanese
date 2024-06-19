@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Land
-Notiz: ''
 Beispielsatz: 私の国では雪が全く降らない。
 Beispielsatz-Lesung: 私[わたし]の 国[くに]では 雪[ゆき]が 全[まった]く 降[ふ]らない。
 Beispielsatz-Übersetzung: In meinem Land schneit es nie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

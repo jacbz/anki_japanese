@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stoff
-Notiz: ''
 Beispielsatz: 市場で布を買う。
 Beispielsatz-Lesung: 市場[しじょう]で 布[ぬの]を 買[か]う。
 Beispielsatz-Übersetzung: Ich kaufe Stoff auf dem Markt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

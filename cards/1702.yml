@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Länge
-Notiz: ''
 Beispielsatz: その川の長さは367キロメートルだ。
 Beispielsatz-Lesung: その 川[かわ]の 長[なが]さは367キロメートルだ。
 Beispielsatz-Übersetzung: Der Fluss hat eine Länge von 367 Kilometern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

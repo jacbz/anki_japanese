@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: klein
-Notiz: ''
 Beispielsatz: このおもちゃは小さい子供向けです。
 Beispielsatz-Lesung: このおもちゃは 小[ちい]さい 子供[こども] 向[む]けです。
 Beispielsatz-Übersetzung: Dieses Spielzeug ist für kleine Kinder geeignet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

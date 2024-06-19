@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gefangen genommen werden, verhaftet werden; halten
-Notiz: ''
 Beispielsatz: 犯人がついに捕まった。
 Beispielsatz-Lesung: 犯人[はんにん]がついに 捕[つか]まった。
 Beispielsatz-Übersetzung: Der Verbrecher wurde schließlich verhaftet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Allgemeinwissen, gesunder Menschenverstand
-Notiz: ''
 Beispielsatz: 彼は常識が全くない。
 Beispielsatz-Lesung: 彼[かれ]は 常識[じょうしき]が 全[まった]くない。
 Beispielsatz-Übersetzung: Er hat überhaupt keinen gesunden Menschenverstand.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

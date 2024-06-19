@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Büro
-Notiz: ''
 Beispielsatz: 彼は昨年東京に事務所を開いた。
 Beispielsatz-Lesung: 彼[かれ]は 昨年[さくねん] 東京[とうきょう]に 事務所[じむしょ]を 開[ひら]いた。
 Beispielsatz-Übersetzung: Er hat letztes Jahr ein Büro in Tokio eröffnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

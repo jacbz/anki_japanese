@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hongkong
-Notiz: ''
 Beispielsatz: 香港へ観光に行く。
 Beispielsatz-Lesung: 香港[ほんこん]へ 観光[かんこう]に 行[い]く。
 Beispielsatz-Übersetzung: Ich werde nach Hongkong reisen, um mir die Sehenswürdigkeiten
   anzuschauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

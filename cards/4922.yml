@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: generell
-Notiz: ''
 Beispielsatz: 大概郵便は十時頃くる。
 Beispielsatz-Lesung: 大概[たいがい] 郵便[ゆうびん]は十 時[じ] 頃[ころ]くる。
 Beispielsatz-Übersetzung: Generell wird die Post gegen 10 Uhr zugestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

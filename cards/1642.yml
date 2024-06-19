@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbreiten; malen
-Notiz: ''
 Beispielsatz: パンにバターを塗った。
 Beispielsatz-Lesung: パンにバターを 塗[ぬ]った。
 Beispielsatz-Übersetzung: Ich habe die Butter auf das Brot gestrichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

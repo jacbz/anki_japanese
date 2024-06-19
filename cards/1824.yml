@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: durchschauen, hinunterschauen; vorbeischauen
-Notiz: ''
 Beispielsatz: 彼女は窓から中をのぞいた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 窓[まど]から 中[なか]をのぞいた。
 Beispielsatz-Übersetzung: Sie schaute durch das Fenster hinein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

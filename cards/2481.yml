@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Veranstaltung
-Notiz: ''
 Beispielsatz: お正月は日本で一番大きな行事だ。
 Beispielsatz-Lesung: お 正月[しょうがつ]は 日本[にっぽん]で 一番[いちばん] 大[おお]きな 行事[ぎょうじ]だ。
 Beispielsatz-Übersetzung: Das Neujahrsfest ist das größte Ereignis in Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

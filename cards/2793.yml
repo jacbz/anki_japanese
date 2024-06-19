@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich verbinden, in Verbindung stehen mit
-Notiz: ''
 Beispielsatz: 逮捕に結びつく重要な情報だ。
 Beispielsatz-Lesung: 逮捕[たいほ]に 結[むす]びつく 重要[じゅうよう]な 情報[じょうほう]だ。
 Beispielsatz-Übersetzung: Das ist sehr wichtige Information, die mit der Verhaftung
   der Person in Verbindung steht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

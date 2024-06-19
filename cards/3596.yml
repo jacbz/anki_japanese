@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schalter, Fenster
-Notiz: ''
 Beispielsatz: お支払いはあちらの窓口でお願いいたします。
 Beispielsatz-Lesung: お 支払[しはら]いはあちらの 窓口[まどぐち]でお 願[ねが]いいたします。
 Beispielsatz-Übersetzung: Bitte gehen Sie zum Schalter dort drüben für die Bezahlung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Elektrizität; elektrisches Licht
-Notiz: ''
 Beispielsatz: 電気を消すのを忘れないでね。
 Beispielsatz-Lesung: 電気[でんき]を 消[け]すのを 忘[わす]れないでね。
 Beispielsatz-Übersetzung: Vergiss nicht, das Licht auszuschalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

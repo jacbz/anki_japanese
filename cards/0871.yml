@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: hinten
-Notiz: ''
 Beispielsatz: 男の子は母親の後ろに隠れた。
 Beispielsatz-Lesung: 男[おとこ]の 子[こ]は 母親[ははおや]の 後[うし]ろに 隠[かく]れた。
 Beispielsatz-Übersetzung: Der Junge versteckte sich hinter seiner Mutter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

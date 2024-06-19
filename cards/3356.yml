@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erklären; predigen; überzeugen
-Notiz: ''
 Beispielsatz: 彼は教会で聖書の教えを説いている。
 Beispielsatz-Lesung: 彼[かれ]は 教会[きょうかい]で 聖書[せいしょ]の 教[おし]えを 説[と]いている。
 Beispielsatz-Übersetzung: Er predigt die Lehren der Bibel in der Kirche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

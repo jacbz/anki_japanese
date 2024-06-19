@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bambus
-Notiz: ''
 Beispielsatz: 竹でおもちゃを作った。
 Beispielsatz-Lesung: 竹[たけ]でおもちゃを 作[つく]った。
 Beispielsatz-Übersetzung: Wir haben ein Spielzeug aus Bambus gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

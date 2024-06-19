@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: viele
-Notiz: ''
 Beispielsatz: 反省すべき点が多々ある。
 Beispielsatz-Lesung: 反省[はんせい]すべき 点[てん]が 多々[たた]ある。
 Beispielsatz-Übersetzung: Es gibt viele Punkte, die überdacht werden müssen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

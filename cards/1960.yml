@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: sicherlich nicht, kann unmöglich; das Schlimmste
-Notiz: ''
 Beispielsatz: まさか彼がやったんじゃないよね？
 Beispielsatz-Lesung: まさか 彼[かれ]がやったんじゃないよね？
 Beispielsatz-Übersetzung: Keine Chance. Hat er das wirklich getan?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

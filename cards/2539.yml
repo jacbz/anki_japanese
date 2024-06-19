@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vorjahr
-Notiz: ''
 Beispielsatz: 今年の売り上げは前年を上回った。
 Beispielsatz-Lesung: 今年[ことし]の 売[う]り 上[あ]げは 前年[ぜんねん]を 上回[うわまわ]った。
 Beispielsatz-Übersetzung: Der Umsatz dieses Jahres hat das Vorjahr übertroffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

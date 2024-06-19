@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tokio, Tokioter Präfektur, Tokioter Metropolregion
-Notiz: ''
 Beispielsatz: 東京都が交通事故に関する調査を行いました。
 Beispielsatz-Lesung: 東京都[とうきょうと]が 交通事故[こうつうじこ]に 関[かん]する 調査[ちょうさ]を 行[おこな]いました。
 Beispielsatz-Übersetzung: Die Tokioter Präfektur hat eine Umfrage zu Verkehrsunfällen
   durchgeführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

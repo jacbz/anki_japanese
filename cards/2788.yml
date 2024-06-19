@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sechzehnter (Datum); sechzehn Tage
-Notiz: ''
 Beispielsatz: 今月の十六日は彼の誕生日だ。
 Beispielsatz-Lesung: 今月[こんげつ]の十六 日[にち]は 彼[かれ]の 誕生日[たんじょうび]だ。
 Beispielsatz-Übersetzung: Der 16. dieses Monats ist sein Geburtstag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

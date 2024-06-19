@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in der Nähe
-Notiz: ''
 Beispielsatz: いつも近くの店で買い物をする。
 Beispielsatz-Lesung: いつも 近[ちか]くの 店[みせ]で 買[か]い 物[もの]をする。
 Beispielsatz-Übersetzung: Ich kaufe immer in einem Geschäft in der Nähe ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

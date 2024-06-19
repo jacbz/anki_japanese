@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gitarre
-Notiz: ''
 Beispielsatz: 私の趣味はギターを弾くことです。
 Beispielsatz-Lesung: 私[わたし]の 趣味[しゅみ]はギターを 弾[ひ]くことです。
 Beispielsatz-Übersetzung: Mein Hobby ist Gitarre spielen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

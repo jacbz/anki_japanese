@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: morgen
-Notiz: ''
 Beispielsatz: 明日から学校が始まる。
 Beispielsatz-Lesung: 明日[あした]から 学校[がっこう]が 始[はじ]まる。
 Beispielsatz-Übersetzung: Morgen beginnt die Schule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

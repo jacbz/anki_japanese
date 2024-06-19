@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zweifel, Verdacht
-Notiz: ''
 Beispielsatz: 彼の行為は法律違反の疑いがある。
 Beispielsatz-Lesung: 彼[かれ]の 行為[こうい]は 法律違反[ほうりついはん]の 疑[うたが]いがある。
 Beispielsatz-Übersetzung: Sein Verhalten steht unter dem Verdacht, gegen das Gesetz
   zu verstoßen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

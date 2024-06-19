@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gewinn, Nutzen, Vorteil
-Notiz: ''
 Beispielsatz: 株で利益を上げた。
 Beispielsatz-Lesung: 株[かぶ]で 利益[りえき]を 上[あ]げた。
 Beispielsatz-Übersetzung: Wir haben an der Börse einen Gewinn erzielt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

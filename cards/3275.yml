@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: gerade noch
-Notiz: ''
 Beispielsatz: 終電にぎりぎり間に合った。
 Beispielsatz-Lesung: 終電[しゅうでん]にぎりぎり 間[ま]に 合[あ]った。
 Beispielsatz-Übersetzung: Ich war gerade noch rechtzeitig für den letzten Zug.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

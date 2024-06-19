@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zehn Personen
-Notiz: ''
 Beispielsatz: クラスには生徒が10人いる。
 Beispielsatz-Lesung: クラスには 生徒[せいと]が10人いる。
 Beispielsatz-Übersetzung: Es gibt zehn Schüler in der Klasse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Innenseite, Inneres
-Notiz: ''
 Beispielsatz: 内側を見せてください。
 Beispielsatz-Lesung: 内側[うちがわ]を 見[み]せてください。
 Beispielsatz-Übersetzung: Zeigen Sie mir die Innenseite.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

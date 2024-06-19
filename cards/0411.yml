@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Punkt
-Notiz: ''
 Beispielsatz: 不明な点があれば、私に聞いてください。
 Beispielsatz-Lesung: 不明[ふめい]な 点[てん]があれば、 私[わたし]に 聞[き]いてください。
 Beispielsatz-Übersetzung: Ich möchte eine höhere Punktzahl erreichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

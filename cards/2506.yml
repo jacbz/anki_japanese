@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: begehen; verletzen
-Notiz: ''
 Beispielsatz: あの人は十年前に罪を犯した。
 Beispielsatz-Lesung: あの 人[ひと]は十 年[ねん] 前[まえ]に 罪[つみ]を 犯[おか]した。
 Beispielsatz-Übersetzung: Diese Person hat vor zehn Jahren ein Verbrechen begangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

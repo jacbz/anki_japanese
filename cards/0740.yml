@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vergangenheit
-Notiz: ''
 Beispielsatz: 過去を振り返るのはいやだ。
 Beispielsatz-Lesung: 過去[かこ]を 振[ふ]り 返[かえ]るのはいやだ。
 Beispielsatz-Übersetzung: Ich hasse es, auf die Vergangenheit zurückzublicken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

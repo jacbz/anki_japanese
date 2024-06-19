@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sich selbst (Pronomen der ersten Person)
-Notiz: ''
 Beispielsatz: 己に負けるな。
 Beispielsatz-Lesung: 己[おのれ]に 負[ま]けるな。
 Beispielsatz-Übersetzung: Gib deiner Schwäche nicht nach.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

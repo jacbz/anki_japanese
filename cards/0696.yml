@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj. adv.
 Definition: furchtbar
-Notiz: ''
 Beispielsatz: 今、ものすごく忙しい。
 Beispielsatz-Lesung: 今[いま]、ものすごく 忙[いそが]しい。
 Beispielsatz-Übersetzung: Ich bin jetzt furchtbar beschäftigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

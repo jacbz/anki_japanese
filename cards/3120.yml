@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: gewaltsam, gegen den Willen
-Notiz: ''
 Beispielsatz: 欲しくもないものを無理矢理買わされた。
 Beispielsatz-Lesung: 欲[ほ]しくもないものを 無理矢理[むりやり] 買[か]わされた。
 Beispielsatz-Übersetzung: Ich wurde gegen meinen Willen gezwungen, etwas zu kaufen,
   was ich nicht wollte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

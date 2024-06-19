@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hain, Wald
-Notiz: ''
 Beispielsatz: この山には杉の林が広がっている。
 Beispielsatz-Lesung: この 山[やま]には 杉[すぎ]の 林[はやし]が 広[ひろ]がっている。
 Beispielsatz-Übersetzung: Ein Zedernwald bedeckt diesen Berg.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

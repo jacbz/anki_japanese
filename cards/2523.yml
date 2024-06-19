@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erklärung; Beschreibung
-Notiz: ''
 Beispielsatz: 人々はそれについて異なる説を唱えている。
 Beispielsatz-Lesung: 人々[ひとびと]はそれについて 異[こと]なる 説[せつ]を 唱[とな]えている。
 Beispielsatz-Übersetzung: Menschen geben unterschiedliche Erklärungen dazu ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

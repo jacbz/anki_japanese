@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Struktur
-Notiz: ''
 Beispielsatz: この建物は構造が複雑だ。
 Beispielsatz-Lesung: この 建物[たてもの]は 構造[こうぞう]が 複雑[ふくざつ]だ。
 Beispielsatz-Übersetzung: Die Struktur dieses Gebäudes ist komplex.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

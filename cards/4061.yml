@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tor
-Notiz: ''
 Beispielsatz: 選手はゴールを決めた。
 Beispielsatz-Lesung: 選手[せんしゅ]はゴールを 決[き]めた。
 Beispielsatz-Übersetzung: Der Spieler hat ein Tor geschossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

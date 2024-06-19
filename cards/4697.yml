@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Literatur
-Notiz: ''
 Beispielsatz: 日本語に関する文献を調べた。
 Beispielsatz-Lesung: 日本語[にほんご]に 関[かん]する 文献[ぶんけん]を 調[しら]べた。
 Beispielsatz-Übersetzung: Ich habe mich auf die Literatur zur japanischen Sprache
   bezogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: enttäuschend, bedauerlich
-Notiz: ''
 Beispielsatz: 私にとって残念な結果だった。
 Beispielsatz-Lesung: 私[わたし]にとって 残念[ざんねん]な 結果[けっか]だった。
 Beispielsatz-Übersetzung: Das Ergebnis war für mich enttäuschend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

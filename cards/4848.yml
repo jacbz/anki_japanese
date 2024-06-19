@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rahmen, Rahmenbedingungen
-Notiz: ''
 Beispielsatz: 新たな法的枠組みを作るつもりだ。
 Beispielsatz-Lesung: 新[あら]たな 法的[ほうてき] 枠組[わくぐ]みを 作[つく]るつもりだ。
 Beispielsatz-Übersetzung: Wir werden einen neuen Rechtsrahmen schaffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

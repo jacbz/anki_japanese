@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wange
-Notiz: ''
 Beispielsatz: 涙が彼女の頬を伝った。
 Beispielsatz-Lesung: 涙[なみだ]が 彼女[かのじょ]の 頬[ほお]を 伝[つた]った。
 Beispielsatz-Übersetzung: Tränen liefen über ihre Wangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

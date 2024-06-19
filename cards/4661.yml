@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Skulptur, Schnitzerei
-Notiz: ''
 Beispielsatz: その美術館にはブロンズの彫刻がある。
 Beispielsatz-Lesung: その 美術館[びじゅつかん]にはブロンズの 彫刻[ちょうこく]がある。
 Beispielsatz-Übersetzung: Es gibt eine Bronze-Skulptur im Museum.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

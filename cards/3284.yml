@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schreien, singen
-Notiz: ''
 Beispielsatz: 遠くで鳥が鳴いている。
 Beispielsatz-Lesung: 遠[とお]くで 鳥[とり]が 鳴[な]いている。
 Beispielsatz-Übersetzung: Vögel singen in der Ferne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

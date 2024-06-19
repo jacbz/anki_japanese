@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aktienkurse
-Notiz: ''
 Beispielsatz: 株価が下がった。
 Beispielsatz-Lesung: 株価[かぶか]が 下[さ]がった。
 Beispielsatz-Übersetzung: Die Aktienkurse sanken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

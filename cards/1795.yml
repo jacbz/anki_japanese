@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: nur
-Notiz: ''
 Beispielsatz: 最近は食べることが唯一の楽しみだ。
 Beispielsatz-Lesung: 最近[さいきん]は 食[た]べることが 唯一[ゆいいつ]の 楽[たの]しみだ。
 Beispielsatz-Übersetzung: Essen ist in letzter Zeit meine einzige Freude.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

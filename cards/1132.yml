@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Müll
-Notiz: ''
 Beispielsatz: ごみはごみ箱に捨ててください。
 Beispielsatz-Lesung: ごみはごみ 箱[ばこ]に 捨[す]ててください。
 Beispielsatz-Übersetzung: Bitte werfen Sie den Müll in den Abfalleimer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

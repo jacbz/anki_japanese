@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hindernis
-Notiz: ''
 Beispielsatz: 校長の考えはよい教育の支障となっている。
 Beispielsatz-Lesung: 校長[こうちょう]の 考[かんが]えはよい 教育[きょういく]の 支障[ししょう]となっている。
 Beispielsatz-Übersetzung: Starke Regenfälle haben die Wasserversorgung der Stadt behindert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

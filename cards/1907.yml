@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadtbewohner, Bürger
-Notiz: ''
 Beispielsatz: 市民は図書館の資料が無料で借りられる。
 Beispielsatz-Lesung: 市民[しみん]は 図書館[としょかん]の 資料[しりょう]が 無料[むりょう]で 借[か]りられる。
 Beispielsatz-Übersetzung: Stadtbewohner können Bücher aus der Bibliothek kostenlos
   ausleihen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

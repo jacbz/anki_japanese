@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rückseite, Hinterseite
-Notiz: ''
 Beispielsatz: 写真の裏に日付を書いた。
 Beispielsatz-Lesung: 写真[しゃしん]の 裏[うら]に 日付[ひずけ]を 書[か]いた。
 Beispielsatz-Übersetzung: Ich habe das Datum auf die Rückseite des Fotos geschrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwischenmenschliche Beziehung
-Notiz: ''
 Beispielsatz: いい人間関係を作るには信頼が大切だ。
 Beispielsatz-Lesung: いい 人間関係[にんげんかんけい]を 作[つく]るには 信頼[しんらい]が 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Trust ist unerlässlich, um eine gute Beziehung aufzubauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

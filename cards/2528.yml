@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sehr, stark
-Notiz: ''
 Beispielsatz: 彼はよほど怒っているらしい。
 Beispielsatz-Lesung: 彼[かれ]はよほど 怒[おこ]っているらしい。
 Beispielsatz-Übersetzung: Er scheint sehr wütend zu sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

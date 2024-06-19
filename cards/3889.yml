@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: aber, jedoch
-Notiz: ''
 Beispielsatz: 行きたくなかった。だけど行ってよかった。
 Beispielsatz-Lesung: 行[い]きたくなかった。だけど 行[おこな]ってよかった。
 Beispielsatz-Übersetzung: Ich wollte nicht gehen. Aber ich bin froh, dass ich es getan
   habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zug
-Notiz: ''
 Beispielsatz: 電車に乗った。
 Beispielsatz-Lesung: 電車[でんしゃ]に 乗[の]った。
 Beispielsatz-Übersetzung: Ich bin in den Zug gestiegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

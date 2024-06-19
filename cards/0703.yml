@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: aufgrund, wegen (negatives Ergebnis)
-Notiz: ''
 Beispielsatz: 事故のせいで遅刻した。
 Beispielsatz-Lesung: 事故[じこ]のせいで 遅刻[ちこく]した。
 Beispielsatz-Übersetzung: Ich war wegen eines Verkehrsunfalls zu spät.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

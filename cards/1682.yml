@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: umgeben
-Notiz: ''
 Beispielsatz: その町は山に囲まれている。
 Beispielsatz-Lesung: その 町[まち]は 山[やま]に 囲[かこ]まれている。
 Beispielsatz-Übersetzung: Die Stadt ist von Bergen umgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. n.
 Definition: mühsam adj umständlich, lästig
-Notiz: ''
 Beispielsatz: この天気では外に出るのが面倒だ。
 Beispielsatz-Lesung: この 天気[てんき]では 外[そと]に 出[で]るのが 面倒[めんどう]だ。
 Beispielsatz-Übersetzung: Es ist zu mühsam, bei diesem Wetter rauszugehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

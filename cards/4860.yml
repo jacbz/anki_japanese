@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ledig, unverheiratet
-Notiz: ''
 Beispielsatz: しばらくは独身でいたい。
 Beispielsatz-Lesung: しばらくは 独身[どくしん]でいたい。
 Beispielsatz-Übersetzung: Ich möchte eine Weile ledig bleiben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

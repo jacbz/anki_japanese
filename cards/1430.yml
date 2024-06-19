@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bad
-Notiz: ''
 Beispielsatz: お風呂に入った。
 Beispielsatz-Lesung: お 風呂[ふろ]に 入[はい]った。
 Beispielsatz-Übersetzung: Ich habe gebadet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

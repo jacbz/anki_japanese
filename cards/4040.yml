@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ministerium für Wohlfahrt
-Notiz: ''
 Beispielsatz: 厚生省は在宅ケアを推進した。
 Beispielsatz-Lesung: 厚生省[こうせいしょう]は 在宅[ざいたく]ケアを 推進[すいしん]した。
 Beispielsatz-Übersetzung: Das Ministerium für Wohlfahrt hat die häusliche Pflege gefördert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

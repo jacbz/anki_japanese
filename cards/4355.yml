@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: früher Morgen
-Notiz: ''
 Beispielsatz: 彼は早朝の始発の電車に乗った。
 Beispielsatz-Lesung: 彼[かれ]は 早朝[そうちょう]の 始発[しはつ]の 電車[でんしゃ]に 乗[の]った。
 Beispielsatz-Übersetzung: Er nahm den ersten Zug am frühen Morgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

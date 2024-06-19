@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Platz, Spielplatz, Sportplatz
-Notiz: ''
 Beispielsatz: 放課後はたいていグラウンドで野球をします。
 Beispielsatz-Lesung: 放課後[ほうかご]はたいていグラウンドで 野球[やきゅう]をします。
 Beispielsatz-Übersetzung: Ich spiele normalerweise nach der Schule Baseball auf dem
   Sportplatz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

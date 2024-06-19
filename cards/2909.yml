@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: einundzwanzigster (Tag); einundzwanzig Tage
-Notiz: ''
 Beispielsatz: 二十一日にもう一度来てください。
 Beispielsatz-Lesung: 二十一 日[にち]にもう 一度[いちど] 来[き]てください。
 Beispielsatz-Übersetzung: Kommen Sie am einundzwanzigsten wieder.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

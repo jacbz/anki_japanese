@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zentrum
-Notiz: ''
 Beispielsatz: ここは町の中心です。
 Beispielsatz-Lesung: ここは 町[まち]の 中心[ちゅうしん]です。
 Beispielsatz-Übersetzung: Dies ist das Zentrum der Stadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

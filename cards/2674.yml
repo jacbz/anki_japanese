@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schälen, abschälen
-Notiz: ''
 Beispielsatz: リンゴの皮をむく。
 Beispielsatz-Lesung: リンゴの 皮[かわ]をむく。
 Beispielsatz-Übersetzung: Ich schäle Äpfel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

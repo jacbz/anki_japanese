@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dach
-Notiz: ''
 Beispielsatz: 屋根の上に猫がいる。
 Beispielsatz-Lesung: 屋根[やね]の 上[うえ]に 猫[ねこ]がいる。
 Beispielsatz-Übersetzung: Es ist eine Katze auf dem Dach.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

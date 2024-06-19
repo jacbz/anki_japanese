@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: innerer Teil, Rückseite; Boden
-Notiz: ''
 Beispielsatz: 奥に詰めてもらえますか。
 Beispielsatz-Lesung: 奥[おく]に 詰[つ]めてもらえますか。
 Beispielsatz-Übersetzung: Könnten Sie sich bitte nach hinten begeben?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

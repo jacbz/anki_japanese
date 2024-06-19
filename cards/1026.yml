@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dokument, Material, Daten
-Notiz: ''
 Beispielsatz: 論文を書くための資料を集めている。
 Beispielsatz-Lesung: 論文[ろんぶん]を 書[か]くための 資料[しりょう]を 集[あつ]めている。
 Beispielsatz-Übersetzung: Ich sammle Material für meine Doktorarbeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

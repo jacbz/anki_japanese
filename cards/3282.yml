@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ältere Menschen, Senioren
-Notiz: ''
 Beispielsatz: お年寄りに席を譲りましょう。
 Beispielsatz-Lesung: お 年寄[としよ]りに 席[せき]を 譲[ゆず]りましょう。
 Beispielsatz-Übersetzung: Bitte geben Sie älteren Menschen diese Sitze auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

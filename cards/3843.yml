@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Führungskraft
-Notiz: ''
 Beispielsatz: このことは幹部社員しか知らなかった。
 Beispielsatz-Lesung: このことは 幹部[かんぶ] 社員[しゃいん]しか 知[し]らなかった。
 Beispielsatz-Übersetzung: Nur die Führungskräfte kannten diese Information.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

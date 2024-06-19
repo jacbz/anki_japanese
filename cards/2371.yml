@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Parkplatz, Parkhaus
-Notiz: ''
 Beispielsatz: 駅前の駐車場を探している。
 Beispielsatz-Lesung: 駅前[えきまえ]の 駐車場[ちゅうしゃじょう]を 探[さが]している。
 Beispielsatz-Übersetzung: Ich suche nach einem Parkplatz in der Nähe des Bahnhofs.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

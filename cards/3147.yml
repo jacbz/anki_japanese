@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übernehmen
-Notiz: ''
 Beispielsatz: この仕事は彼が引き受けてくれた。
 Beispielsatz-Lesung: この 仕事[しごと]は 彼[かれ]が 引[ひ]き 受[う]けてくれた。
 Beispielsatz-Übersetzung: Er hat diese Arbeit übernommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

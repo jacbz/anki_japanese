@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: und, sowie
-Notiz: ''
 Beispielsatz: その会社は東京及び埼玉で事業を展開している。
 Beispielsatz-Lesung: その 会社[かいしゃ]は 東京[とうきょう] 及[およ]び 埼玉[さいたま]で 事業[じぎょう]を 展開[てんかい]している。
 Beispielsatz-Übersetzung: Dieses Unternehmen betreibt Geschäfte in Tokio sowie in
   Saitama.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

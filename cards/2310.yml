@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: hier und da
-Notiz: ''
 Beispielsatz: いなくなった愛犬を、あちらこちら探し回った。
 Beispielsatz-Lesung: いなくなった 愛犬[あいけん]を、あちらこちら 探[さが]し 回[まわ]った。
 Beispielsatz-Übersetzung: Ich habe überall nach meinem vermissten Hund gesucht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

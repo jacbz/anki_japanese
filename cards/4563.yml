@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: betrügen, täuschen
-Notiz: ''
 Beispielsatz: あの会社は税金をごまかした。
 Beispielsatz-Lesung: あの 会社[かいしゃ]は 税金[ぜいきん]をごまかした。
 Beispielsatz-Übersetzung: Dieses Unternehmen hat bei seinen Steuern betrogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

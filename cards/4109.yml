@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Leistung
-Notiz: ''
 Beispielsatz: 今年彼は素晴らしい実績をあげている。
 Beispielsatz-Lesung: 今年[ことし] 彼[かれ]は 素晴[すば]らしい 実績[じっせき]をあげている。
 Beispielsatz-Übersetzung: Er hat in diesem Jahr eine beeindruckende Leistung erbracht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

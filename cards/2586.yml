@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich etwas ausdenken, erraten, konzipieren
-Notiz: ''
 Beispielsatz: 名案を思いついた。
 Beispielsatz-Lesung: 名案[めいあん]を 思[おも]いついた。
 Beispielsatz-Übersetzung: Ich habe eine gute Idee ausgedacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

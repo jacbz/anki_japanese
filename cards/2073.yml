@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: aha, verstehe, gewiss
-Notiz: ''
 Beispielsatz: なるほど。それで彼のことが嫌いなんだ。
 Beispielsatz-Lesung: なるほど。それで 彼[かれ]のことが 嫌[きら]いなんだ。
 Beispielsatz-Übersetzung: Aha. Deshalb magst du ihn nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

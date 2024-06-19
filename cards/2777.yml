@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ungefähr, etwa
-Notiz: ''
 Beispielsatz: 彼はおよそ五年間海外で生活した。
 Beispielsatz-Lesung: 彼[かれ]はおよそ五 年間[ねんかん] 海外[かいがい]で 生活[せいかつ]した。
 Beispielsatz-Übersetzung: Er hat ungefähr fünf Jahre im Ausland verbracht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

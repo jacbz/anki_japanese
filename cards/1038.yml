@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: teilen, verteilen; klassifizieren
-Notiz: ''
 Beispielsatz: クラスを二つのグループに分けた。
 Beispielsatz-Lesung: クラスを 二[ふた]つのグループに 分[わ]けた。
 Beispielsatz-Übersetzung: Sie haben die Klasse in zwei Gruppen aufgeteilt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

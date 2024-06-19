@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: bedeutend
-Notiz: ''
 Beispielsatz: あの会社の成長は著しい。
 Beispielsatz-Lesung: あの 会社[かいしゃ]の 成長[せいちょう]は 著[いちじる]しい。
 Beispielsatz-Übersetzung: Das Wachstum dieses Unternehmens ist bedeutend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

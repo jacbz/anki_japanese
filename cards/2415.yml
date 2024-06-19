@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grenze, Begrenzung
-Notiz: ''
 Beispielsatz: 自分の限界に挑戦したい。
 Beispielsatz-Lesung: 自分[じぶん]の 限界[げんかい]に 挑戦[ちょうせん]したい。
 Beispielsatz-Übersetzung: Ich möchte die Grenzen meiner Fähigkeiten herausfordern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

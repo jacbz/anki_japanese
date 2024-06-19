@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Situation
-Notiz: ''
 Beispielsatz: これは深刻な事態だ。
 Beispielsatz-Lesung: これは 深刻[しんこく]な 事態[じたい]だ。
 Beispielsatz-Übersetzung: Dies ist eine ernste Situation.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

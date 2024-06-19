@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: bequem, nützlich
-Notiz: ''
 Beispielsatz: これは便利な道具だ。
 Beispielsatz-Lesung: これは 便利[べんり]な 道具[どうぐ]だ。
 Beispielsatz-Übersetzung: Dies ist ein nützliches Werkzeug.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

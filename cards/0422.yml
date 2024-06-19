@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zusammen
-Notiz: ''
 Beispielsatz: 妻と共に田舎で農業を始めた。
 Beispielsatz-Lesung: 妻[つま]と 共[とも]に 田舎[いなか]で 農業[のうぎょう]を 始[はじ]めた。
 Beispielsatz-Übersetzung: Ich habe mit meiner Frau zusammen auf dem Land mit der Landwirtschaft
   angefangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

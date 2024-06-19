@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gegenseitig, einander
-Notiz: ''
 Beispielsatz: 互いのことを良く知ろう。
 Beispielsatz-Lesung: 互[たが]いのことを 良[よ]く 知[し]ろう。
 Beispielsatz-Übersetzung: Lassen Sie uns einander gut kennen lernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

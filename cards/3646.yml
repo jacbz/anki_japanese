@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: nicht besonders viel
-Notiz: ''
 Beispielsatz: あのレストランは有名だが、料理はたいしておいしくない。
 Beispielsatz-Lesung: あのレストランは 有名[ゆうめい]だが、 料理[りょうり]はたいしておいしくない。
 Beispielsatz-Übersetzung: Das Restaurant ist berühmt, aber das Essen ist nicht besonders
   gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

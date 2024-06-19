@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Konsistenz
-Notiz: ''
 Beispielsatz: 彼女の考えは一貫している。
 Beispielsatz-Lesung: 彼女[かのじょ]の 考[かんが]えは 一貫[いっかん]している。
 Beispielsatz-Übersetzung: Sie ist konsequent in ihren Ansichten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

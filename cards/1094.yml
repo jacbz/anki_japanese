@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: zehn
-Notiz: ''
 Beispielsatz: 彼女には十に一つの可能性しかない。
 Beispielsatz-Lesung: 彼女[かのじょ]には十に 一[ひと]つの 可能性[かのうせい]しかない。
 Beispielsatz-Übersetzung: Sie hat nur eine Chance von zehn.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

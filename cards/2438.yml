@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wurzel
-Notiz: ''
 Beispielsatz: 木を根から掘り起こす。
 Beispielsatz-Lesung: 木[き]を 根[ね]から 掘[ほ]り 起[お]こす。
 Beispielsatz-Übersetzung: Ich grabe einen Baum an den Wurzeln aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

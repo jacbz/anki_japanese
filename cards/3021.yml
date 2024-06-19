@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausrüstung, Einrichtungen
-Notiz: ''
 Beispielsatz: あの病院は設備が整っている。
 Beispielsatz-Lesung: あの 病院[びょういん]は 設備[せつび]が 整[ととの]っている。
 Beispielsatz-Übersetzung: Dieses Krankenhaus ist gut ausgestattet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

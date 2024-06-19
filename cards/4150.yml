@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Charakter
-Notiz: ''
 Beispielsatz: この漫画のキャラクターは子供たちに人気があります。
 Beispielsatz-Lesung: この 漫画[まんが]のキャラクターは 子供[こども]たちに 人気[にんき]があります。
 Beispielsatz-Übersetzung: Dieser Cartoon-Charakter ist bei Kindern beliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

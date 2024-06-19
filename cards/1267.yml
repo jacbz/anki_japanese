@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erde, Boden, Land, Ort
-Notiz: ''
 Beispielsatz: 彼らは新しい定住の地を見つけなければならなかった。
 Beispielsatz-Lesung: 彼[かれ]らは 新[あたら]しい 定住[ていじゅう]の 地[ち]を 見[み]つけなければならなかった。
 Beispielsatz-Übersetzung: Sie mussten einen neuen Ort finden, um sich niederzulassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

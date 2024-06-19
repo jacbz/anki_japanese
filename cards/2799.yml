@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gesäß
-Notiz: ''
 Beispielsatz: 彼女はお尻の形がきれいに見えるズボンを履いている。
 Beispielsatz-Lesung: 彼女[かのじょ]はお 尻[しり]の 形[かたち]がきれいに 見[み]えるズボンを 履[は]いている。
 Beispielsatz-Übersetzung: Sie trägt Hosen, die ihr Gesäß gut aussehen lassen。
+
+# Notizen können HTML enthalten.            
+Notiz: ''

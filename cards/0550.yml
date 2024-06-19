@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mutter (Elternteil)
-Notiz: ''
 Beispielsatz: 子供が母親を探している。
 Beispielsatz-Lesung: 子供[こども]が 母親[ははおや]を 探[さが]している。
 Beispielsatz-Übersetzung: Ein Kind sucht nach seiner Mutter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nadel; Stich
-Notiz: ''
 Beispielsatz: 針で指を刺した。
 Beispielsatz-Lesung: 針[はり]で 指[ゆび]を 刺[さ]した。
 Beispielsatz-Übersetzung: Ich habe mir mit einer Nadel in den Finger gestochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

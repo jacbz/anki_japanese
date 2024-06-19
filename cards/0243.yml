@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lehrer/in
-Notiz: ''
 Beispielsatz: 先生に質問した。
 Beispielsatz-Lesung: 先生[せんせい]に 質問[しつもん]した。
 Beispielsatz-Übersetzung: Ich habe dem Lehrer eine Frage gestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

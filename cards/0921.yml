@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. disc.
 Definition: ich frage mich (fem.)
-Notiz: ''
 Beispielsatz: その話本当かしら。
 Beispielsatz-Lesung: その 話[はなし] 本当[ほんとう]かしら。
 Beispielsatz-Übersetzung: Ich frage mich, ob die Geschichte wahr ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gemeinde
-Notiz: ''
 Beispielsatz: 市町村合併について会議を開く。
 Beispielsatz-Lesung: 市[し] 町村合併[ちょうそんがっぺい]について 会議[かいぎ]を 開[ひら]く。
 Beispielsatz-Übersetzung: Wir haben ein Treffen zum Thema Gemeindezusammenlegung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

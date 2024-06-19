@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vater
-Notiz: ''
 Beispielsatz: 父はガンで亡くなった。
 Beispielsatz-Lesung: 父[ちち]はガンで 亡[な]くなった。
 Beispielsatz-Übersetzung: Mein Vater ist an Krebs gestorben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

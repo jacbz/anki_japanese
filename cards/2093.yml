@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: helfen
-Notiz: ''
 Beispielsatz: 宿題を手伝ってくれませんか。
 Beispielsatz-Lesung: 宿題[しゅくだい]を 手伝[てつだ]ってくれませんか。
 Beispielsatz-Übersetzung: Kannst du mir bei meinen Hausaufgaben helfen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

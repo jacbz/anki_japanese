@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: wischen, trocknen
-Notiz: ''
 Beispielsatz: 母が布巾でお皿を拭いている。
 Beispielsatz-Lesung: 母[はは]が 布巾[ふきん]でお 皿[さら]を 拭[ふ]いている。
 Beispielsatz-Übersetzung: Meine Mutter trocknet Geschirr mit einem Tuch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

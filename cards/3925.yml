@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Balkon, Veranda
-Notiz: ''
 Beispielsatz: ベランダのいすに座って、本を読んだ。
 Beispielsatz-Lesung: ベランダのいすに 座[すわ]って、 本[ほん]を 読[よ]んだ。
 Beispielsatz-Übersetzung: Ich saß auf einem Stuhl auf dem Balkon und las ein Buch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

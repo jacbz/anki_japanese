@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: zweitausend
-Notiz: ''
 Beispielsatz: 二千を超えるファンが空港に集まった。
 Beispielsatz-Lesung: 二 千[せん]を 超[こ]えるファンが 空港[くうこう]に 集[あつ]まった。
 Beispielsatz-Übersetzung: Mehr als zweitausend Fans versammelten sich auf dem Flughafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zutat, Lebensmittel
-Notiz: ''
 Beispielsatz: この料理は新鮮な食材を使っている。
 Beispielsatz-Lesung: この 料理[りょうり]は 新鮮[しんせん]な 食材[しょくざい]を 使[つか]っている。
 Beispielsatz-Übersetzung: Dieses Gericht wurde mit frischen Zutaten zubereitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: unbewohnte Insel
-Notiz: ''
 Beispielsatz: あれは無人島です。
 Beispielsatz-Lesung: あれは 無人島[むじんとう]です。
 Beispielsatz-Übersetzung: Das ist eine unbewohnte Insel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

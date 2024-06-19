@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: März
-Notiz: ''
 Beispielsatz: 三月は卒業の月だ。
 Beispielsatz-Lesung: 三月[さんがつ]は 卒業[そつぎょう]の 月[つき]だ。
 Beispielsatz-Übersetzung: März ist der Monat der Abschlussfeiern in Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: lustig, amüsant
-Notiz: ''
 Beispielsatz: 何がそんなにおかしいの。
 Beispielsatz-Lesung: 何[なに]がそんなにおかしいの。
 Beispielsatz-Übersetzung: Was ist so lustig?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

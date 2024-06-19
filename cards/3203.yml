@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bratpfanne
-Notiz: ''
 Beispielsatz: フライパンで焼いてください。
 Beispielsatz-Lesung: フライパンで 焼[や]いてください。
 Beispielsatz-Übersetzung: Brate es in einer Bratpfanne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

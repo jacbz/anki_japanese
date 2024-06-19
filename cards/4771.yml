@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausgaben, Zahlung, Aufwand, Ausgabe
-Notiz: ''
 Beispielsatz: 彼は年末の支出を計算した。
 Beispielsatz-Lesung: 彼[かれ]は 年末[ねんまつ]の 支出[ししゅつ]を 計算[けいさん]した。
 Beispielsatz-Übersetzung: Er hat die Ausgaben am Ende des Jahres berechnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

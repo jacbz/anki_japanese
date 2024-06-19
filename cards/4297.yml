@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Esstisch
-Notiz: ''
 Beispielsatz: 食卓にごちそうが並べてあった。
 Beispielsatz-Lesung: 食卓[しょくたく]にごちそうが 並[なら]べてあった。
 Beispielsatz-Übersetzung: Der Esstisch war mit einem Festmahl gedeckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

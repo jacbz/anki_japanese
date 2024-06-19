@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wirklich; genau wie man dachte
-Notiz: ''
 Beispielsatz: 彼らが言うことが果たして本当なのかわからない。
 Beispielsatz-Lesung: 彼[かれ]らが 言[い]うことが 果[は]たして 本当[ほんとう]なのかわからない。
 Beispielsatz-Übersetzung: Ich weiß nicht, ob das, was sie sagen, wirklich wahr ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

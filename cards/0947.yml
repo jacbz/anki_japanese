@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erste
-Notiz: ''
 Beispielsatz: 健康が第一だ。
 Beispielsatz-Lesung: 健康[けんこう]が 第[だい]一だ。
 Beispielsatz-Übersetzung: Nichts ist wichtiger als die Gesundheit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

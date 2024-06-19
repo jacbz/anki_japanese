@@ -5,7 +5,9 @@ Alternative: 掛ける
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (Zeit) verbringen; (Geld) ausgeben; aufhängen
-Notiz: transitiv
 Beispielsatz: 壁に絵を掛けた。
 Beispielsatz-Lesung: 壁[かべ]に 絵[え]を 掛[か]けた。
 Beispielsatz-Übersetzung: Ich habe das Bild an der Wand aufgehängt.
+
+# Notizen können HTML enthalten.            
+Notiz: transitiv

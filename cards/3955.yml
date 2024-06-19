@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rathaus
-Notiz: ''
 Beispielsatz: 今日市役所に行かなければならない。
 Beispielsatz-Lesung: 今日[きょう] 市役所[しやくしょ]に 行[い]かなければならない。
 Beispielsatz-Übersetzung: Ich muss heute zum Rathaus gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

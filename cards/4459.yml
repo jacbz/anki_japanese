@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erste Mal
-Notiz: ''
 Beispielsatz: 彼女はパイロットになった初の女性です。
 Beispielsatz-Lesung: 彼女[かのじょ]はパイロットになった 初[はつ]の 女性[じょせい]です。
 Beispielsatz-Übersetzung: Sie war die erste Frau, die Pilotin wurde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

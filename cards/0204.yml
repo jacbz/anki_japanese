@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anbringen; befestigen; auftragen
-Notiz: ''
 Beispielsatz: 私のパンにジャムを付けてくれますか。
 Beispielsatz-Lesung: 私[わたし]のパンにジャムを 付[つ]けてくれますか。
 Beispielsatz-Übersetzung: Kannst du etwas Marmelade auf mein Brot auftragen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

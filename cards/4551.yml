@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: das Ende
-Notiz: ''
 Beispielsatz: 世界の果てまで彼について行くと決めた。
 Beispielsatz-Lesung: 世界[せかい]の 果[は]てまで 彼[かれ]について 行[い]くと 決[き]めた。
 Beispielsatz-Übersetzung: Ich beschloss, ihm bis ans Ende der Welt zu folgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

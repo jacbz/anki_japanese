@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadt
-Notiz: ''
 Beispielsatz: 都会より田舎のほうが好きだ。
 Beispielsatz-Lesung: 都会[とかい]より 田舎[いなか]のほうが 好[す]きだ。
 Beispielsatz-Übersetzung: Ich bin lieber auf dem Land als in der Stadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

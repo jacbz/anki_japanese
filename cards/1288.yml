@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: halten, tragen, beschäftigen
-Notiz: ''
 Beispielsatz: 母親は赤ちゃんを両腕に抱えていた。
 Beispielsatz-Lesung: 母親[ははおや]は 赤[あか]ちゃんを 両[りょう] 腕[うで]に 抱[かか]えていた。
 Beispielsatz-Übersetzung: Die Mutter hielt ihr Baby in ihren Armen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

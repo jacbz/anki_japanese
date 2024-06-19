@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einsamkeit
-Notiz: ''
 Beispielsatz: お酒で寂しさを紛らわした。
 Beispielsatz-Lesung: お 酒[さけ]で 寂[さび]しさを 紛[まぎ]らわした。
 Beispielsatz-Übersetzung: Ich trank meine Einsamkeit weg.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

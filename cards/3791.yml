@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bleistift
-Notiz: ''
 Beispielsatz: 鉛筆で書いてください。
 Beispielsatz-Lesung: 鉛筆[えんぴつ]で 書[か]いてください。
 Beispielsatz-Übersetzung: Bitte schreiben Sie mit einem Bleistift.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

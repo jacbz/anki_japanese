@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Injektion
-Notiz: ''
 Beispielsatz: この注射はあまり痛くない。
 Beispielsatz-Lesung: この 注射[ちゅうしゃ]はあまり 痛[いた]くない。
 Beispielsatz-Übersetzung: Diese Injektion wird nicht viel wehtun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

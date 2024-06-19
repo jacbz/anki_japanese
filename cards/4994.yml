@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: gemütlich, locker, unbeschwert
-Notiz: ''
 Beispielsatz: 彼女は気楽に話ができる友達だ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 気楽[きらく]に 話[はなし]ができる 友達[ともだち]だ。
 Beispielsatz-Übersetzung: Sie ist eine Freundin, mit der ich unbeschwert reden kann.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

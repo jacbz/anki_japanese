@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eingang
-Notiz: ''
 Beispielsatz: ビルの入り口の前で待っていてください。
 Beispielsatz-Lesung: ビルの 入[い]り 口[くち]の 前[まえ]で 待[ま]っていてください。
 Beispielsatz-Übersetzung: Bitte warten Sie am Eingang des Gebäudes auf mich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

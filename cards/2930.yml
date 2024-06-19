@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beteiligte Person
-Notiz: ''
 Beispielsatz: 関係者以外は立入禁止である。
 Beispielsatz-Lesung: 関係者[かんけいしゃ] 以外[いがい]は 立入禁止[たちいりきんし]である。
 Beispielsatz-Übersetzung: Unbefugtes Betreten verboten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

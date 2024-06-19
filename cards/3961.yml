@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beruf
-Notiz: ''
 Beispielsatz: 去年から新しい職に就いている。
 Beispielsatz-Lesung: 去年[きょねん]から 新[あたら]しい 職[しょく]に 就[つ]いている。
 Beispielsatz-Übersetzung: Ich habe seit letztem Jahr einen neuen Beruf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

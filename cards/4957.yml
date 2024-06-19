@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erstaunt sein, angewidert sein
-Notiz: ''
 Beispielsatz: 彼の非常識な行為にあきれてしまった。
 Beispielsatz-Lesung: 彼[かれ]の 非常識[ひじょうしき]な 行為[こうい]にあきれてしまった。
 Beispielsatz-Übersetzung: Ich war angewidert von seinem sinnlosen Verhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

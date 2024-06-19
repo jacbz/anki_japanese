@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: normal, gewöhnlich
-Notiz: ''
 Beispielsatz: 彼女は普通じゃない。
 Beispielsatz-Lesung: 彼女[かのじょ]は 普通[ふつう]じゃない。
 Beispielsatz-Übersetzung: Sie ist nicht normal.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

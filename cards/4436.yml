@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dreihundert Yen
-Notiz: ''
 Beispielsatz: 入館料は一人三百円です。
 Beispielsatz-Lesung: 入館料[にゅうかんりょう]は一人三 百[ひゃく] 円[えん]です。
 Beispielsatz-Übersetzung: Die Eintrittsgebühr beträgt dreihundert Yen pro Person.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

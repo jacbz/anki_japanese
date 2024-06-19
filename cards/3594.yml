@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einsteigen, betreten
-Notiz: ''
 Beispielsatz: 突然乗り込んできた男が、バスをハイジャックした。
 Beispielsatz-Lesung: 突然[とつぜん] 乗[の]り 込[こ]んできた 男[おとこ]が、バスをハイジャックした。
 Beispielsatz-Übersetzung: Der Mann, der plötzlich eingebrochen war, hat den Bus entführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stil, Spezifikation, Methode
-Notiz: ''
 Beispielsatz: この車は日本の仕様に合わせて作られた。
 Beispielsatz-Lesung: この 車[くるま]は 日本[にっぽん]の 仕様[しよう]に 合[あ]わせて 作[つく]られた。
 Beispielsatz-Übersetzung: Dieses Auto wurde nach japanischen Spezifikationen hergestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

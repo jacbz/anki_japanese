@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ende, Letzte/-r/-s
-Notiz: ''
 Beispielsatz: 先月の末からずっと寒さが続いている。
 Beispielsatz-Lesung: 先月[せんげつ]の 末[すえ]からずっと 寒[さむ]さが 続[つづ]いている。
 Beispielsatz-Übersetzung: Seit Ende letzten Monats ist es sehr kalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

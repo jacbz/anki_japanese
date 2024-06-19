@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: ungefähr, etwa
-Notiz: ''
 Beispielsatz: 彼女は二十歳ぐらいに見える。
 Beispielsatz-Lesung: 彼女[かのじょ]は 二十歳[はたち]ぐらいに 見[み]える。
 Beispielsatz-Übersetzung: Sie sieht ungefähr zwanzig Jahre alt aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

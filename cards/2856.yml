@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Witz
-Notiz: ''
 Beispielsatz: 彼は冗談ばかり言っている。
 Beispielsatz-Lesung: 彼[かれ]は 冗談[じょうだん]ばかり 言[い]っている。
 Beispielsatz-Übersetzung: Er macht immer Witze.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

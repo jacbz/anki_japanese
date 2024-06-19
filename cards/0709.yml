@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tier
-Notiz: ''
 Beispielsatz: 動物に食べ物を与えないでください。
 Beispielsatz-Lesung: 動物[どうぶつ]に 食[た]べ 物[もの]を 与[あた]えないでください。
 Beispielsatz-Übersetzung: Bitte füttern Sie die Tiere nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

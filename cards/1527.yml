@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umgebung
-Notiz: ''
 Beispielsatz: その家は周囲を森に囲まれていた。
 Beispielsatz-Lesung: その 家[いえ]は 周囲[しゅうい]を 森[もり]に 囲[かこ]まれていた。
 Beispielsatz-Übersetzung: Das Haus war von Wald umgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

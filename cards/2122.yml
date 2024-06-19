@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schmeckt nicht gut; unbeholfen
-Notiz: ''
 Beispielsatz: まずい！また遅刻だ。
 Beispielsatz-Lesung: まずい！また 遅刻[ちこく]だ。
 Beispielsatz-Übersetzung: Oh nein! Ich bin wieder spät dran.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

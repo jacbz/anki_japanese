@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hinterlassen, überprüfen, einzahlen
-Notiz: ''
 Beispielsatz: ホテルのクロークに所持品を預けた。
 Beispielsatz-Lesung: ホテルのクロークに 所持品[しょじひん]を 預[あず]けた。
 Beispielsatz-Übersetzung: Ich habe meine Sachen im Garderobenschrank im Hotel hinterlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

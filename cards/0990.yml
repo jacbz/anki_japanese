@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: Teil, Anteil, Portion
-Notiz: ''
 Beispielsatz: 私の分は自分で払います。
 Beispielsatz-Lesung: 私[わたし]の 分[ぶん]は 自分[じぶん]で 払[はら]います。
 Beispielsatz-Übersetzung: Ich werde meinen Anteil bezahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: einige Tage
-Notiz: ''
 Beispielsatz: 完成まで数日かかるだろう。
 Beispielsatz-Lesung: 完成[かんせい]まで 数[すう] 日[にち]かかるだろう。
 Beispielsatz-Übersetzung: Es wird einige Tage dauern, bis sie abgeschlossen ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

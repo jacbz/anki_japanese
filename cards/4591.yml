@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Handel, Handelsverkehr
-Notiz: ''
 Beispielsatz: 日本は外国貿易に頼っている。
 Beispielsatz-Lesung: 日本[にっぽん]は 外国[がいこく] 貿易[ぼうえき]に 頼[たよ]っている。
 Beispielsatz-Übersetzung: Japan ist auf den Außenhandel angewiesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

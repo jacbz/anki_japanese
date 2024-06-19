@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Episode, Anekdote
-Notiz: ''
 Beispielsatz: 彼には面白いエピソードがたくさんある。
 Beispielsatz-Lesung: 彼[かれ]には 面白[おもしろ]いエピソードがたくさんある。
 Beispielsatz-Übersetzung: Er hat viele interessante Anekdoten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

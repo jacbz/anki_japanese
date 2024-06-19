@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einfüllen, hineingießen
-Notiz: ''
 Beispielsatz: 彼は感情を込めて歌を歌った。
 Beispielsatz-Lesung: 彼[かれ]は 感情[かんじょう]を 込[こ]めて 歌[うた]を 歌[うた]った。
 Beispielsatz-Übersetzung: Er goss Emotionen in seinen Gesang.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

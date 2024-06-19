@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. adv.
 Definition: gerade, direkt; ehrlich
-Notiz: ''
 Beispielsatz: まっすぐ歩けないほど彼は酔っ払った。
 Beispielsatz-Lesung: まっすぐ 歩[ある]けないほど 彼[かれ]は 酔[よ]っ 払[ぱら]った。
 Beispielsatz-Übersetzung: Er war so betrunken, dass er nicht mehr geradeaus laufen
   konnte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

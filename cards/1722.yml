@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: heiß
-Notiz: ''
 Beispielsatz: このお茶はとても熱い。
 Beispielsatz-Lesung: このお 茶[ちゃ]はとても 熱[あつ]い。
 Beispielsatz-Übersetzung: Dieser Tee ist sehr heiß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

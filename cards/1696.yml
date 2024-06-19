@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erhöhen, hinzufügen
-Notiz: ''
 Beispielsatz: 友達をもっと増やしたい。
 Beispielsatz-Lesung: 友達[ともだち]をもっと 増[ふ]やしたい。
 Beispielsatz-Übersetzung: Ich möchte mehr Freunde haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

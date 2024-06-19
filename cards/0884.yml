@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: England
-Notiz: ''
 Beispielsatz: イギリスと日本は海に囲まれた島国だ。
 Beispielsatz-Lesung: イギリスと 日本[にっぽん]は 海[うみ]に 囲[かこ]まれた 島国[しまぐに]だ。
 Beispielsatz-Übersetzung: Das Vereinigte Königreich und Japan sind Inselnationen,
   die vom Meer umgeben sind.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

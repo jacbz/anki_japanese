@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Platz, Platzanlage
-Notiz: ''
 Beispielsatz: その広場に鳩がたくさんいる。
 Beispielsatz-Lesung: その 広場[ひろば]に 鳩[はと]がたくさんいる。
 Beispielsatz-Übersetzung: Es gibt viele Tauben auf dem Platz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

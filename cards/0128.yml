@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kind
-Notiz: ''
 Beispielsatz: 私は子供が三人いる。
 Beispielsatz-Lesung: 私[わたし]は 子供[こども]が三人いる。
 Beispielsatz-Übersetzung: Ich habe drei Kinder.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

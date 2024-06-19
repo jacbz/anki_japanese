@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umweltproblem
-Notiz: ''
 Beispielsatz: 私達は環境問題にもっと関心を持つべきです。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は 環境問題[かんきょうもんだい]にもっと 関心[かんしん]を 持[も]つべきです。
 Beispielsatz-Übersetzung: Wir sollten uns mehr für Umweltprobleme interessieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

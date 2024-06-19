@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schulter
-Notiz: ''
 Beispielsatz: 肩が凝ってきた。
 Beispielsatz-Lesung: 肩[かた]が 凝[こ]ってきた。
 Beispielsatz-Übersetzung: Meine Schultern werden steif.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

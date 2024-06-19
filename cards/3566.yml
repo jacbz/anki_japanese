@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Motiv
-Notiz: ''
 Beispielsatz: 警察は犯行の動機を調べている。
 Beispielsatz-Lesung: 警察[けいさつ]は 犯行[はんこう]の 動機[どうき]を 調[しら]べている。
 Beispielsatz-Übersetzung: Die Polizei ermittelt das Motiv für die Tat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

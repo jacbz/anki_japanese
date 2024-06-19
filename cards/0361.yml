@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fortsetzen, andauern
-Notiz: ''
 Beispielsatz: この不景気は数年間続いている。
 Beispielsatz-Lesung: この 不景気[ふけいき]は 数年間[すうねんかん] 続[つず]いている。
 Beispielsatz-Übersetzung: Die Rezession dauert seit mehreren Jahren an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

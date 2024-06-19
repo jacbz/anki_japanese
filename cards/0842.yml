@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gebäude
-Notiz: ''
 Beispielsatz: この建物は修理が必要だ。
 Beispielsatz-Lesung: この 建物[たてもの]は 修理[しゅうり]が 必要[ひつよう]だ。
 Beispielsatz-Übersetzung: Dieses Gebäude muss repariert werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

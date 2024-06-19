@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: mehrere Personen
-Notiz: ''
 Beispielsatz: 今日は数人の学生が欠席した。
 Beispielsatz-Lesung: 今日[きょう]は 数[すう]人の 学生[がくせい]が 欠席[けっせき]した。
 Beispielsatz-Übersetzung: Heute waren mehrere Schüler abwesend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

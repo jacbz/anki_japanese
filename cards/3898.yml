@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: den ganzen Tag
-Notiz: ''
 Beispielsatz: 一日中雨が降り続いた。
 Beispielsatz-Lesung: 一 日[にち] 中[ちゅう] 雨[あめ]が 降[ふ]り 続[つづ]いた。
 Beispielsatz-Übersetzung: Es hat den ganzen Tag geregnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: neun Uhr
-Notiz: ''
 Beispielsatz: 九時のバスに乗らなくちゃいけない。
 Beispielsatz-Lesung: 九 時[じ]のバスに 乗[の]らなくちゃいけない。
 Beispielsatz-Übersetzung: Ich muss den Bus nehmen, der um neun Uhr abfährt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

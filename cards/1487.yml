@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj., n.
 Definition: frei; Freizeit
-Notiz: ''
 Beispielsatz: 今晩暇ですか。
 Beispielsatz-Lesung: 今晩[こんばん] 暇[ひま]ですか。
 Beispielsatz-Übersetzung: Bist du heute Abend frei?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

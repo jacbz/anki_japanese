@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Firmenpräsident
-Notiz: ''
 Beispielsatz: 彼は旅行会社の社長だ。
 Beispielsatz-Lesung: 彼[かれ]は 旅行会社[りょこうがいしゃ]の 社長[しゃちょう]だ。
 Beispielsatz-Übersetzung: Er ist der Präsident eines Reiseunternehmens.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

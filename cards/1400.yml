@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fragen, befragen; anklagen
-Notiz: ''
 Beispielsatz: これは人生の意味を問う映画だ。
 Beispielsatz-Lesung: これは 人生[じんせい]の 意味[いみ]を 問[と]う 映画[えいが]だ。
 Beispielsatz-Übersetzung: Es ist ein Film, der nach der Bedeutung des Lebens fragt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

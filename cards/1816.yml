@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vier Jahre
-Notiz: ''
 Beispielsatz: 私たちが結婚して四年になる。
 Beispielsatz-Lesung: 私[わたし]たちが 結婚[けっこん]して四 年[ねん]になる。
 Beispielsatz-Übersetzung: Wir sind seit vier Jahren verheiratet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

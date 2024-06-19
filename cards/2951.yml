@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: scharf, spitz
-Notiz: ''
 Beispielsatz: このナイフは刃が鋭い。
 Beispielsatz-Lesung: このナイフは 刃[は]が 鋭[するど]い。
 Beispielsatz-Übersetzung: Dieses Messer hat eine scharfe Klinge.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

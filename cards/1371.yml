@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Baby, Säugling
-Notiz: ''
 Beispielsatz: 彼女には五か月の赤ちゃんがいる。
 Beispielsatz-Lesung: 彼女[かのじょ]には五か 月[げつ]の 赤[あか]ちゃんがいる。
 Beispielsatz-Übersetzung: Sie hat ein fünf Monate altes Baby.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

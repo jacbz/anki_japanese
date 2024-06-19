@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: gemäß, laut, sagen
-Notiz: ''
 Beispielsatz: 天気予報によれば、明日は晴れるだろう。
 Beispielsatz-Lesung: 天気予報[てんきよほう]によれば、 明日[あした]は 晴[は]れるだろう。
 Beispielsatz-Übersetzung: Gemäß der Wettervorhersage wird es morgen sonnig sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

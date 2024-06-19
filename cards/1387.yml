@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grundlage, Basis, Grundlegendes
-Notiz: ''
 Beispielsatz: 料理の基本を学びたい。
 Beispielsatz-Lesung: 料理[りょうり]の 基本[きほん]を 学[まな]びたい。
 Beispielsatz-Übersetzung: Ich möchte die Grundlagen des Kochens lernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

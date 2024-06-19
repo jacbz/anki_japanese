@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erinnerung
-Notiz: ''
 Beispielsatz: そんなことを言った覚えはない。
 Beispielsatz-Lesung: そんなことを 言[い]った 覚[おぼ]えはない。
 Beispielsatz-Übersetzung: Ich habe keine Erinnerung daran, dass ich so etwas gesagt
   habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

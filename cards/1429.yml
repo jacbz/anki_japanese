@@ -5,7 +5,9 @@ Alternative: しょうがない
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: es kann nichts getan werden
-Notiz: ''
 Beispielsatz: 人がミスをするのはしようがない。
 Beispielsatz-Lesung: 人[ひと]がミスをするのはしようがない。
 Beispielsatz-Übersetzung: Es kann nicht geholfen werden, dass Menschen Fehler machen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: angreifen, schlagen; ergreifen
-Notiz: ''
 Beispielsatz: 昨夜女性が三人の男に襲われた。
 Beispielsatz-Lesung: 昨夜[さくや] 女性[じょせい]が三人の 男[おとこ]に 襲[おそ]われた。
 Beispielsatz-Übersetzung: Eine Frau wurde gestern Nacht von drei Männern angegriffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

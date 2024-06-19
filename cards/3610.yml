@@ -5,9 +5,11 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Beratung, Diskussion; beraten, diskutieren
-Notiz: ''
 Beispielsatz: この点については、関係機関と協議の上、決定したいと思います。
 Beispielsatz-Lesung: この 点[てん]については、 関係[かんけい] 機関[きかん]と 協議[きょうぎ]の 上[うえ]、 決定[けってい]したいと
   思[おも]います。
 Beispielsatz-Übersetzung: In Bezug auf diese Angelegenheit werden wir nach Beratung
   mit den relevanten Institutionen eine Entscheidung treffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

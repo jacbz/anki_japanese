@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wetter
-Notiz: ''
 Beispielsatz: 天気がよければ富士山が見える。
 Beispielsatz-Lesung: 天気[てんき]がよければ 富士山[ふじさん]が 見[み]える。
 Beispielsatz-Übersetzung: Wenn das Wetter gut ist, kann man den Mt. Fuji sehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

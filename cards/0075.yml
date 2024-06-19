@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wie erwartet, trotzdem
-Notiz: ''
 Beispielsatz: 彼女はやはり遅れた。
 Beispielsatz-Lesung: 彼女[かのじょ]はやはり 遅[おく]れた。
 Beispielsatz-Übersetzung: Sie war wie erwartet zu spät zum Treffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

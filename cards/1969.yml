@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: hier; dies; ich; wir
-Notiz: ''
 Beispielsatz: こっちに来て手伝って。
 Beispielsatz-Lesung: こっちに 来[き]て 手伝[てつだ]って。
 Beispielsatz-Übersetzung: Komm her und hilf mir.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

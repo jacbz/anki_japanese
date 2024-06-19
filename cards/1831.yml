@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschäft, Arbeit
-Notiz: ''
 Beispielsatz: これも私たちにとって重要な業務である。
 Beispielsatz-Lesung: これも 私[わたし]たちにとって 重要[じゅうよう]な 業務[ぎょうむ]である。
 Beispielsatz-Übersetzung: Dies ist auch ein wichtiges Geschäft für uns.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

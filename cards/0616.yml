@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. pron.
 Definition: irgendwann, früher oder später
-Notiz: ''
 Beispielsatz: 真実はいずれわかるだろう。
 Beispielsatz-Lesung: 真実[しんじつ]はいずれわかるだろう。
 Beispielsatz-Übersetzung: Die Wahrheit wird früher oder später sowieso ans Licht kommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

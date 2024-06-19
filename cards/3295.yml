@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verletzen; beschädigen
-Notiz: ''
 Beispielsatz: 車を傷付けられた。
 Beispielsatz-Lesung: 車[くるま]を 傷付[きずつ]けられた。
 Beispielsatz-Übersetzung: Mein Auto wurde beschädigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

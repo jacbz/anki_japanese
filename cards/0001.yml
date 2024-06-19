@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: von; für; aus; in; auf
-Notiz: ''
 Beispielsatz: 彼はこの大学の学生だ。
 Beispielsatz-Lesung: 彼[かれ]はこの 大学[だいがく]の 学生[がくせい]だ。
 Beispielsatz-Übersetzung: Er ist Student an dieser Universität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

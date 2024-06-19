@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausländer
-Notiz: ''
 Beispielsatz: 最近外国人のお客さんの数が多くなっている。
 Beispielsatz-Lesung: 最近[さいきん] 外国人[がいこくじん]のお 客[きゃく]さんの 数[かず]が 多[おお]くなっている。
 Beispielsatz-Übersetzung: In letzter Zeit nimmt die Anzahl ausländischer Kunden zu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

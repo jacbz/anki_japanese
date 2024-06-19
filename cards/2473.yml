@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: herumgehen
-Notiz: ''
 Beispielsatz: 世界遺産をめぐるのが好きだ。
 Beispielsatz-Lesung: 世界遺産[せかいいさん]をめぐるのが 好[す]きだ。
 Beispielsatz-Übersetzung: Ich besuche gerne Weltkulturerbestätten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: jedenfalls, sowieso
-Notiz: ''
 Beispielsatz: とにかく、すぐに来てください。
 Beispielsatz-Lesung: とにかく、すぐに 来[き]てください。
 Beispielsatz-Übersetzung: Jedenfalls, bitte kommen Sie so schnell wie möglich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahrheit
-Notiz: ''
 Beispielsatz: 実を言うと、朝から何も食べていないんです。
 Beispielsatz-Lesung: 実[じつ]を 言[い]うと、 朝[あさ]から 何[なに]も 食[た]べていないんです。
 Beispielsatz-Übersetzung: Um die Wahrheit zu sagen, habe ich seit heute Morgen nichts
   mehr gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

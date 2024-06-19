@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: schöne Frau, Schönheit
-Notiz: ''
 Beispielsatz: 彼女は本当に美人だ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 本当[ほんとう]に 美人[びじん]だ。
 Beispielsatz-Übersetzung: Sie ist wirklich schön.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Entschuldigung, Verzeihung, [ablehnen]
-Notiz: ''
 Beispielsatz: 人前で歌うなんてご免だ。
 Beispielsatz-Lesung: 人前[ひとまえ]で 歌[うた]うなんてご 免[めん]だ。
 Beispielsatz-Übersetzung: Ich werde definitiv nicht in der Öffentlichkeit singen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

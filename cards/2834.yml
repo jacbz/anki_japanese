@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: heute Morgen
-Notiz: ''
 Beispielsatz: 今朝から雨が降っている。
 Beispielsatz-Lesung: 今朝[けさ]から 雨[あめ]が 降[ふ]っている。
 Beispielsatz-Übersetzung: Es regnet seit heute Morgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

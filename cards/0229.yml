@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: '[drückt Geringschätzung aus]'
-Notiz: ''
 Beispielsatz: 彼女がタバコをやめたなんて信じられない。
 Beispielsatz-Lesung: 彼女[かのじょ]がタバコをやめたなんて 信[しん]じられない。
 Beispielsatz-Übersetzung: Ich kann nicht glauben, dass sie mit dem Rauchen aufgehört
   hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

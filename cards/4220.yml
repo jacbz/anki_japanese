@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: beteiligte Parteien
-Notiz: ''
 Beispielsatz: 彼はその事件の当事者として法廷に立った。
 Beispielsatz-Lesung: 彼[かれ]はその 事件[じけん]の 当事者[とうじしゃ]として 法廷[ほうてい]に 立[た]った。
 Beispielsatz-Übersetzung: Er stand als eine beteiligte Partei in dem Gerichtsverfahren
   bezüglich des Vorfalls auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

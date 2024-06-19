@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Materie, Material
-Notiz: ''
 Beispielsatz: 彼は物質の変化について実験する。
 Beispielsatz-Lesung: 彼[かれ]は 物質[ぶっしつ]の 変化[へんか]について 実験[じっけん]する。
 Beispielsatz-Übersetzung: Er führt Experimente zu Veränderungen in der Materie durch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

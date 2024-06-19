@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Samen
-Notiz: ''
 Beispielsatz: 母は庭に野菜の種をまく。
 Beispielsatz-Lesung: 母[はは]は 庭[にわ]に 野菜[やさい]の 種[たね]をまく。
 Beispielsatz-Übersetzung: Meine Mutter sät Gemüsesamen im Garten aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

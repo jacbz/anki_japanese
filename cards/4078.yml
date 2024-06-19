@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grenze
-Notiz: ''
 Beispielsatz: 国境を越えた。
 Beispielsatz-Lesung: 国境[こっきょう]を 越[こ]えた。
 Beispielsatz-Übersetzung: Ich habe die Grenze überschritten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

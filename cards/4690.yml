@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kneten, drücken, bearbeiten
-Notiz: ''
 Beispielsatz: 子供が粘土をこねて遊んでいた。
 Beispielsatz-Lesung: 子供[こども]が 粘土[ねんど]をこねて 遊[あそ]んでいた。
 Beispielsatz-Übersetzung: Ein Kind hatte Spaß daran, mit Ton zu kneten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

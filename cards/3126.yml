@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wochentag
-Notiz: ''
 Beispielsatz: 平日の昼間はうちにいないことが多い。
 Beispielsatz-Lesung: 平日[へいじつ]の 昼間[ひるま]はうちにいないことが 多[おお]い。
 Beispielsatz-Übersetzung: Ich bin an Wochentagen tagsüber oft nicht zu Hause.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

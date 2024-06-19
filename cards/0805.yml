@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zuhause, Haushalt, Familie
-Notiz: ''
 Beispielsatz: 結婚したら温かい家庭を作りたい。
 Beispielsatz-Lesung: 結婚[けっこん]したら 温[あたた]かい 家庭[かてい]を 作[つく]りたい。
 Beispielsatz-Übersetzung: Wenn ich heirate, möchte ich ein liebevolles Zuhause schaffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: politisch
-Notiz: ''
 Beispielsatz: 彼はテレビでその議論の政治的な解決を説明した。
 Beispielsatz-Lesung: 彼[かれ]はテレビでその 議論[ぎろん]の 政治[せいじ] 的[てき]な 解決[かいけつ]を 説明[せつめい]した。
 Beispielsatz-Übersetzung: Er erläuterte die politische Lösung des Streits im Fernsehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

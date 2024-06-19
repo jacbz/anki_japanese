@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fähigkeit, Kapazität, Macht; Kompetenz
-Notiz: ''
 Beispielsatz: 子どもたちは新しい環境に適応する能力が高い。
 Beispielsatz-Lesung: 子[こ]どもたちは 新[あたら]しい 環境[かんきょう]に 適応[てきおう]する 能力[のうりょく]が 高[たか]い。
 Beispielsatz-Übersetzung: Kinder haben eine große Kapazität, sich an neue Umgebungen
   anzupassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

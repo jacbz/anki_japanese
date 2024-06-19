@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: durch, wegen; abhängig von, je nachdem
-Notiz: ''
 Beispielsatz: 価格は需要と供給のバランスによって決まる。
 Beispielsatz-Lesung: 価格[かかく]は 需要[じゅよう]と 供給[きょうきゅう]のバランスによって 決[き]まる。
 Beispielsatz-Übersetzung: Der Preis hängt vom Gleichgewicht von Angebot und Nachfrage
   ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

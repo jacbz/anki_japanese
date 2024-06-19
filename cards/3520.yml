@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Regierungsverordnung
-Notiz: ''
 Beispielsatz: このことは政令で定められている。
 Beispielsatz-Lesung: このことは 政令[せいれい]で 定[さだ]められている。
 Beispielsatz-Übersetzung: Dies wird durch eine Regierungsverordnung geregelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

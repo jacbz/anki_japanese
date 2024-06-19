@@ -5,7 +5,9 @@ Alternative: 生む
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gebären; produzieren
-Notiz: ''
 Beispielsatz: 彼女は男の子を産んだ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 男[おとこ]の 子[こ]を 産[う]んだ。
 Beispielsatz-Übersetzung: Sie hat einen Jungen geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

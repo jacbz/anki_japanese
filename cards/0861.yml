@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verlieren
-Notiz: Formeller als なくす. Nicht für kleine belanglose Gegenstände wie Regenschirm,
-  Schlüssel etc
 Beispielsatz: 妻を事故で失った。
 Beispielsatz-Lesung: 妻[つま]を 事故[じこ]で 失[うしな]った。
 Beispielsatz-Übersetzung: Ich habe meine Frau bei einem Verkehrsunfall verloren.
+
+# Notizen können HTML enthalten.            
+Notiz: Formeller als なくす. Nicht für kleine belanglose Gegenstände wie Regenschirm,
+  Schlüssel etc

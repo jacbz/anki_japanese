@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ende
-Notiz: ''
 Beispielsatz: あと三日で今年も終わりになる。
 Beispielsatz-Lesung: あと三 日[にち]で 今年[ことし]も 終[お]わりになる。
 Beispielsatz-Übersetzung: Dieses Jahr wird in drei Tagen zu Ende gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

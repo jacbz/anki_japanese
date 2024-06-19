@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachricht
-Notiz: ''
 Beispielsatz: 彼の携帯にメッセージをおくった。
 Beispielsatz-Lesung: 彼[かれ]の 携帯[けいたい]にメッセージをおくった。
 Beispielsatz-Übersetzung: Ich habe eine Nachricht an sein Handy geschickt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

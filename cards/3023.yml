@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: etwas zu tun; Verwendung
-Notiz: ''
 Beispielsatz: 用があって、行けないんです。
 Beispielsatz-Lesung: 用[よう]があって、 行[い]けないんです。
 Beispielsatz-Übersetzung: Ich kann nicht gehen, weil ich etwas zu tun habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Taifun
-Notiz: ''
 Beispielsatz: 島は台風に襲われた。
 Beispielsatz-Lesung: 島[しま]は 台風[たいふう]に 襲[おそ]われた。
 Beispielsatz-Übersetzung: Die Insel wurde von einem Taifun getroffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

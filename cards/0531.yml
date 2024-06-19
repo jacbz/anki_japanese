@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Farbe
-Notiz: ''
 Beispielsatz: 彼女はきれいな色のセーターを着ている。
 Beispielsatz-Lesung: 彼女[かのじょ]はきれいな 色[いろ]のセーターを 着[き]ている。
 Beispielsatz-Übersetzung: Sie trägt einen Pullover in einer schönen Farbe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

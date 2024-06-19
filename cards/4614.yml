@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menschenrechte
-Notiz: ''
 Beispielsatz: 私は人権の侵害に反対だ。
 Beispielsatz-Lesung: 私[わたし]は 人権[じんけん]の 侵害[しんがい]に 反対[はんたい]だ。
 Beispielsatz-Übersetzung: Ich bin gegen die Verletzung der Menschenrechte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

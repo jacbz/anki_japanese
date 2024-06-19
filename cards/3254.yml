@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: Luxus
-Notiz: ''
 Beispielsatz: 贅沢な暮らしがしたい。
 Beispielsatz-Lesung: 贅沢[ぜいたく]な 暮[く]らしがしたい。
 Beispielsatz-Übersetzung: Ich möchte gerne im Luxus leben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

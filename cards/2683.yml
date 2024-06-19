@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: nur, bloß
-Notiz: ''
 Beispielsatz: ほんの憶測にすぎない。
 Beispielsatz-Lesung: ほんの 憶測[おくそく]にすぎない。
 Beispielsatz-Übersetzung: Es ist nur eine Vermutung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

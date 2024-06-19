@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schaden, Schädigung
-Notiz: ''
 Beispielsatz: たばこは健康に害があるので気をつけましょう。
 Beispielsatz-Lesung: たばこは 健康[けんこう]に 害[がい]があるので 気[き]をつけましょう。
 Beispielsatz-Übersetzung: Bitte seien Sie vorsichtig, denn Rauchen schadet Ihrer Gesundheit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

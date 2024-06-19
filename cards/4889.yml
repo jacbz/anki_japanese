@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vorurteil, Voreingenommenheit
-Notiz: ''
 Beispielsatz: 彼は若者に偏見を持っているようだ。
 Beispielsatz-Lesung: 彼[かれ]は 若者[わかもの]に 偏見[へんけん]を 持[も]っているようだ。
 Beispielsatz-Übersetzung: Er scheint Vorurteile gegenüber jungen Menschen zu haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

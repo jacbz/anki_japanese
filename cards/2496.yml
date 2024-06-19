@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rauch, Dämpfe; Nebel
-Notiz: ''
 Beispielsatz: 彼らは台所から煙が出ているのを見つけた。
 Beispielsatz-Lesung: 彼[かれ]らは 台所[だいどころ]から 煙[けむり]が 出[で]ているのを 見[み]つけた。
 Beispielsatz-Übersetzung: Er fand heraus, dass der Rauch aus der Küche kam.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbinden, binden
-Notiz: ''
 Beispielsatz: 二つの証拠を結び付けて考えることができない。
 Beispielsatz-Lesung: 二[ふた]つの 証拠[しょうこ]を 結[むす]び 付[つ]けて 考[かんが]えることができない。
 Beispielsatz-Übersetzung: Ich kann diese beiden Beweisstücke nicht miteinander verbinden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: nein; nee
-Notiz: ''
 Beispielsatz: 「食べる？」「ううん、食べない。」
 Beispielsatz-Lesung: 「 食[た]べる？」「ううん、 食[た]べない。」
 Beispielsatz-Übersetzung: „Möchtest du probieren?“ „Nein, danke.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

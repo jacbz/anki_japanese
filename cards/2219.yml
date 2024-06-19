@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bestätigen, sicherstellen
-Notiz: ''
 Beispielsatz: ドアに鍵をかけたか確かめましたか。
 Beispielsatz-Lesung: ドアに 鍵[かぎ]をかけたか 確[たし]かめましたか。
 Beispielsatz-Übersetzung: Hast du sichergestellt, dass du die Tür abgeschlossen hast?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

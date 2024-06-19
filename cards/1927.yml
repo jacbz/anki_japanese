@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Muskel
-Notiz: ''
 Beispielsatz: 筋肉をつけるためにトレーニングをしている。
 Beispielsatz-Lesung: 筋肉[きんにく]をつけるためにトレーニングをしている。
 Beispielsatz-Übersetzung: Ich habe trainiert, um meine Muskeln aufzubauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

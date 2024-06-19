@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zivilisation
-Notiz: ''
 Beispielsatz: ここに高度な文明を持つ国が存在した。
 Beispielsatz-Lesung: ここに 高度[こうど]な 文明[ぶんめい]を 持[も]つ 国[くに]が 存在[そんざい]した。
 Beispielsatz-Übersetzung: Hier existierte ein Land mit einer fortgeschrittenen Zivilisation.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

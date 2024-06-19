@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haustier
-Notiz: ''
 Beispielsatz: ペットを飼おうと思っている。
 Beispielsatz-Lesung: ペットを 飼[か]おうと 思[おも]っている。
 Beispielsatz-Übersetzung: Ich glaube, ich werde mir ein Haustier zulegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

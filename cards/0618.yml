@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Objekt, Ziel, Thema
-Notiz: ''
 Beispielsatz: 彼の研究の対象は何ですか。
 Beispielsatz-Lesung: 彼[かれ]の 研究[けんきゅう]の 対象[たいしょう]は 何[なん]ですか。
 Beispielsatz-Übersetzung: Was ist das Thema seiner Forschung?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

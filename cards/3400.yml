@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: einsam
-Notiz: ''
 Beispielsatz: 彼女は見知らぬ土地で孤独だった。
 Beispielsatz-Lesung: 彼女[かのじょ]は 見知[みし]らぬ 土地[とち]で 孤独[こどく]だった。
 Beispielsatz-Übersetzung: Sie war einsam in einer fremden Stadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

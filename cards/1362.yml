@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: nicht mögen, hassen
-Notiz: ''
 Beispielsatz: 何か嫌いな食べ物がありますか。
 Beispielsatz-Lesung: 何[なに]か 嫌[きら]いな 食[た]べ 物[もの]がありますか。
 Beispielsatz-Übersetzung: Gibt es irgendein Essen, das du nicht magst?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schreien
-Notiz: ''
 Beispielsatz: 彼は助けを求めて叫んだ。
 Beispielsatz-Lesung: 彼[かれ]は 助[たす]けを 求[もと]めて 叫[さけ]んだ。
 Beispielsatz-Übersetzung: Er schrie um Hilfe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

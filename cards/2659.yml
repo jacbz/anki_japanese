@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Experte, Fachmann
-Notiz: ''
 Beispielsatz: 専門家に意見を聞いた。
 Beispielsatz-Lesung: 専門家[せんもんか]に 意見[いけん]を 聞[き]いた。
 Beispielsatz-Übersetzung: Ich habe den Fachmann um Rat gefragt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

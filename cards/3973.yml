@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aufzug
-Notiz: ''
 Beispielsatz: 三階までエレベーターに乗った。
 Beispielsatz-Lesung: 三 階[かい]までエレベーターに 乗[の]った。
 Beispielsatz-Übersetzung: Ich bin mit dem Aufzug bis zum dritten Stock gefahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

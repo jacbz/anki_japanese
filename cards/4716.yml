@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bindung, Verbindung
-Notiz: ''
 Beispielsatz: 彼らには友情の絆があった。
 Beispielsatz-Lesung: 彼[かれ]らには 友情[ゆうじょう]の 絆[きずな]があった。
 Beispielsatz-Übersetzung: Es gab eine Bindung der Freundschaft zwischen ihnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

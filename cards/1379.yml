@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fertiggestellt werden, beendet werden, bereit sein
-Notiz: ''
 Beispielsatz: 晩ご飯が出来上がりましたよ。
 Beispielsatz-Lesung: 晩[ばん]ご 飯[はん]が 出来上[できあ]がりましたよ。
 Beispielsatz-Übersetzung: Das Abendessen ist fertig!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wie immer, wie üblich, das Gleiche wie zuvor [immer]
-Notiz: ''
 Beispielsatz: 相変わらず彼は元気だ。
 Beispielsatz-Lesung: 相変[あいか]わらず 彼[かれ]は 元気[げんき]だ。
 Beispielsatz-Übersetzung: Er ist wie immer in Ordnung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

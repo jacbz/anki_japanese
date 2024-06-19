@@ -5,9 +5,11 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei Jahre
-Notiz: ''
 Beispielsatz: 石の上にも三年。
 Beispielsatz-Lesung: 石[いし]の 上[うえ]にも 三年[さんねん]。
 Beispielsatz-Übersetzung: 'Drei Jahre auf einem Stein. <div><br></div><div><i>(Die
   Beharrlichkeit siegt: Selbst der kälteste Stein wird warm, wenn man drei Jahre lang
   auf ihm sitzt.)</i></div>'
+
+# Notizen können HTML enthalten.            
+Notiz: ''

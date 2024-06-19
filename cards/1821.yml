@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beziehungen, Verhältnisse
-Notiz: ''
 Beispielsatz: 彼女はクラスのほとんどの人と仲がいい。
 Beispielsatz-Lesung: 彼女[かのじょ]はクラスのほとんどの人と 仲[なか]がいい。
 Beispielsatz-Übersetzung: Sie hat mit den meisten ihrer Klassenkameraden ein gutes
   Verhältnis.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

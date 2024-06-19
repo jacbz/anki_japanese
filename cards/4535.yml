@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ein bisschen, leicht, eher
-Notiz: ''
 Beispielsatz: 祖父はいささか気難しい。
 Beispielsatz-Lesung: 祖父[そふ]はいささか 気難[きむずか]しい。
 Beispielsatz-Übersetzung: Mein Großvater ist eher schwierig zufriedenzustellen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

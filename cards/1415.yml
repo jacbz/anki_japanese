@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kyoto
-Notiz: ''
 Beispielsatz: 京都にはたくさんの神社やお寺がある。
 Beispielsatz-Lesung: 京都[きょうと]にはたくさんの 神社[じんじゃ]やお 寺[てら]がある。
 Beispielsatz-Übersetzung: In Kyoto gibt es viele Schreine und Tempel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

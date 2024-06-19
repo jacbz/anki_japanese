@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Natur, Wesen
-Notiz: ''
 Beispielsatz: 本質をついた質問だ。
 Beispielsatz-Lesung: 本質[ほんしつ]をついた 質問[しつもん]だ。
 Beispielsatz-Übersetzung: Das ist eine wichtige Frage.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

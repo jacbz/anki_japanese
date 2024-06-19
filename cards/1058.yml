@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Alter
-Notiz: ''
 Beispielsatz: 彼女は年齢より若く見える。
 Beispielsatz-Lesung: 彼女[かのじょ]は 年齢[ねんれい]より 若[わか]く 見[み]える。
 Beispielsatz-Übersetzung: Sie sieht jünger aus als ihr Alter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

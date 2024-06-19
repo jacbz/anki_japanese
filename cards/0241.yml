@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: fast, beinahe
-Notiz: ''
 Beispielsatz: ほとんどの人は彼の話を信じた。
 Beispielsatz-Lesung: ほとんどの人は 彼[かれ]の 話[はなし]を 信[しん]じた。
 Beispielsatz-Übersetzung: Fast alle Menschen glaubten seine Geschichte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

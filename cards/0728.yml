@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Denkweise, Einstellung
-Notiz: ''
 Beispielsatz: 考え方が違う。
 Beispielsatz-Lesung: 考[かんが]え 方[かた]が 違[ちが]う。
 Beispielsatz-Übersetzung: Es gibt Unterschiede in den Denkweisen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

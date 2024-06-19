@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: neunter (Tag); neun Tage
-Notiz: ''
 Beispielsatz: 九日は私の誕生日だった。
 Beispielsatz-Lesung: 九 日[にち]は 私[わたし]の 誕生日[たんじょうび]だった。
 Beispielsatz-Übersetzung: Der neunte war mein Geburtstag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

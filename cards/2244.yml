@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gesegnet sein
-Notiz: ''
 Beispielsatz: 恵まれない子供達のために寄付した。
 Beispielsatz-Lesung: 恵[めぐ]まれない 子供達[こどもたち]のために 寄付[きふ]した。
 Beispielsatz-Übersetzung: Ich habe eine Spende für unglückliche Kinder gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

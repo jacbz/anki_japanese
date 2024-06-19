@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fachschule, Berufsschule
-Notiz: ''
 Beispielsatz: 弟は専門学校で美術を専攻している。
 Beispielsatz-Lesung: 弟[おとうと]は 専門学校[せんもんがっこう]で 美術[びじゅつ]を 専攻[せんこう]している。
 Beispielsatz-Übersetzung: Mein jüngerer Bruder studiert Kunst an der Universität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

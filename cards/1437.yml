@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umgang, Bekanntschaft
-Notiz: ''
 Beispielsatz: 私は近所の人と付き合いがない。
 Beispielsatz-Lesung: 私[わたし]は 近所[きんじょ]の人と 付[つ]き 合[あ]いがない。
 Beispielsatz-Übersetzung: Ich habe nichts mit meinen Nachbarn zu tun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

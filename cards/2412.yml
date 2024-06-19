@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ältere Schwester
-Notiz: ''
 Beispielsatz: あなたのお姉さんと友達になりたい。
 Beispielsatz-Lesung: あなたのお 姉[ねえ]さんと 友達[ともだち]になりたい。
 Beispielsatz-Übersetzung: Ich möchte mich mit deiner Schwester anfreunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

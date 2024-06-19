@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: lieblich
-Notiz: ''
 Beispielsatz: 可愛らしい子がテレビでダンスを踊っている。
 Beispielsatz-Lesung: 可愛[かわい]らしい 子[こ]がテレビでダンスを 踊[おど]っている。
 Beispielsatz-Übersetzung: Eine liebliche Mädchen tanzt im Fernsehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

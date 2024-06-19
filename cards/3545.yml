@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: übertreiben
-Notiz: ''
 Beispielsatz: 彼は小さな傷に大げさに騒いでいる。
 Beispielsatz-Lesung: 彼[かれ]は 小[ちい]さな 傷[きず]に 大[おお]げさに 騒[さわ]いでいる。
 Beispielsatz-Übersetzung: Er macht zu viel Aufhebens um eine kleine Narbe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

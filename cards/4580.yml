@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nordost, Tohoku-Region
-Notiz: ''
 Beispielsatz: 東北の沿岸に津波警報が出た。
 Beispielsatz-Lesung: 東北[とうほく]の 沿岸[えんがん]に 津波警報[つなみけいほう]が 出[で]た。
 Beispielsatz-Übersetzung: Eine Tsunami-Warnung wurde für die Tohoku-Küste ausgegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

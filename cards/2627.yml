@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: weich, zart
-Notiz: ''
 Beispielsatz: やわらかいクッションを買った。
 Beispielsatz-Lesung: やわらかいクッションを 買[か]った。
 Beispielsatz-Übersetzung: Ich habe ein weiches Kissen gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

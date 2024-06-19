@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: etwas getan haben; es gibt manchmal
-Notiz: ''
 Beispielsatz: 北海道に行ったことがある。
 Beispielsatz-Lesung: 北海道[ほっかいどう]に 行[い]ったことがある。
 Beispielsatz-Übersetzung: Ich war schon in Hokkaido.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

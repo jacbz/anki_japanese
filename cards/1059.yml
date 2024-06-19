@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Frankreich
-Notiz: ''
 Beispielsatz: それはフランスに行った時に撮った写真です。
 Beispielsatz-Lesung: それはフランスに 行[い]った 時[とき]に 撮[と]った 写真[しゃしん]です。
 Beispielsatz-Übersetzung: Das ist ein Bild, das ich gemacht habe, als ich nach Frankreich
   gereist bin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

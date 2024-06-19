@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Frage
-Notiz: ''
 Beispielsatz: この問いに答えられる者はいなかった。
 Beispielsatz-Lesung: この 問[と]いに 答[こた]えられる 者[もの]はいなかった。
 Beispielsatz-Übersetzung: Es gab niemanden, der diese Frage beantworten konnte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

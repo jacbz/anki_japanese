@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: selbst wenn
-Notiz: ''
 Beispielsatz: たとえ両親が反対しても私は行く。
 Beispielsatz-Lesung: たとえ 両親[りょうしん]が 反対[はんたい]しても 私[わたし]は 行[い]く。
 Beispielsatz-Übersetzung: Ich werde gehen, selbst wenn meine Eltern dagegen sind.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

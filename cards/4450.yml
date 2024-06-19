@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: entscheidend, endgültig
-Notiz: ''
 Beispielsatz: 被告に有利な決定的証拠がない。
 Beispielsatz-Lesung: 被告[ひこく]に 有利[ゆうり]な 決定[けってい] 的[てき] 証拠[しょうこ]がない。
 Beispielsatz-Übersetzung: Es gibt keine schlüssigen Beweise zugunsten der Beklagten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anführen, leiten, befehlen
-Notiz: ''
 Beispielsatz: 私は学生を率いて博物館へ行った。
 Beispielsatz-Lesung: 私[わたし]は 学生[がくせい]を 率[ひき]いて 博物館[はくぶつかん]へ 行[い]った。
 Beispielsatz-Übersetzung: Ich führte meine Schüler ins Museum.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

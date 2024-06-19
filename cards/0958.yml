@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Artikel
-Notiz: ''
 Beispielsatz: 新聞の記事でそのニュースを知った。
 Beispielsatz-Lesung: 新聞[しんぶん]の 記事[きじ]でそのニュースを 知[し]った。
 Beispielsatz-Übersetzung: Ich habe von den Neuigkeiten aus einem Zeitungsartikel erfahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

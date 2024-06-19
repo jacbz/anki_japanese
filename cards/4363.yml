@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Linse
-Notiz: ''
 Beispielsatz: カメラのレンズを磨いた。
 Beispielsatz-Lesung: カメラのレンズを 磨[みが]いた。
 Beispielsatz-Übersetzung: Ich habe das Kameraobjektiv poliert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

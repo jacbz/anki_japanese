@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: oder
-Notiz: ''
 Beispielsatz: 彼の考えに賛成ですか、それとも反対ですか。
 Beispielsatz-Lesung: 彼[かれ]の 考[かんが]えに 賛成[さんせい]ですか、それとも 反対[はんたい]ですか。
 Beispielsatz-Übersetzung: Bist du für oder gegen seine Idee?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

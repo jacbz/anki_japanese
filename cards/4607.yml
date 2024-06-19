@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Besessenheit, Fixierung
-Notiz: ''
 Beispielsatz: そんな重要じゃない細かいことにこだわりがありません。
 Beispielsatz-Lesung: そんな 重要[じゅうよう]じゃない 細[こま]かいことにこだわりがありません。
 Beispielsatz-Übersetzung: Ich habe keine Fixierung auf solche unwichtigen Details.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

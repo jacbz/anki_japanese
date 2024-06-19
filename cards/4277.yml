@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Herausforderung
-Notiz: ''
 Beispielsatz: オリンピック選手は世界記録にチャレンジした。
 Beispielsatz-Lesung: オリンピック 選手[せんしゅ]は 世界記録[せかいきろく]にチャレンジした。
 Beispielsatz-Übersetzung: Der olympische Athlet hat den Weltrekord herausgefordert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

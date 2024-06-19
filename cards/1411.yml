@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Supermarkt
-Notiz: ''
 Beispielsatz: 毎日同じスーパーで買い物している。
 Beispielsatz-Lesung: 毎日[まいにち] 同[おな]じスーパーで 買[か]い 物[もの]している。
 Beispielsatz-Übersetzung: Ich kaufe jeden Tag im selben Supermarkt ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

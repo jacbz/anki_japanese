@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: hassen
-Notiz: ''
 Beispielsatz: 私はゴキブリが大嫌いだ。
 Beispielsatz-Lesung: 私[わたし]はゴキブリが 大嫌[だいきら]いだ。
 Beispielsatz-Übersetzung: Ich hasse Kakerlaken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

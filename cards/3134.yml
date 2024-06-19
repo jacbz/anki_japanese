@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbrennen; geröstet werden; Sonnenbrand bekommen
-Notiz: ''
 Beispielsatz: 火事で家が焼けた。
 Beispielsatz-Lesung: 火事[かじ]で 家[いえ]が 焼[や]けた。
 Beispielsatz-Übersetzung: Mein Haus wurde durch das Feuer verbrannt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

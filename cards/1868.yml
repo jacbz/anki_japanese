@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Werbung
-Notiz: ''
 Beispielsatz: このCM面白いと思わない？
 Beispielsatz-Lesung: このCM 面白[おもしろ]いと 思[おも]わない？
 Beispielsatz-Übersetzung: Finden Sie diesen Werbespot nicht auch lustig?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

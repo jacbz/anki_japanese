@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: landesweit, das ganze Land, national
-Notiz: ''
 Beispielsatz: インフルエンザが全国に広がった。
 Beispielsatz-Lesung: インフルエンザが 全国[ぜんこく]に 広[ひろ]がった。
 Beispielsatz-Übersetzung: Die Grippe hat sich landesweit ausgebreitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

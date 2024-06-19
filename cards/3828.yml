@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dolmetscher
-Notiz: ''
 Beispielsatz: 通訳なしでは会議が行えない。
 Beispielsatz-Lesung: 通訳[つうやく]なしでは 会議[かいぎ]が 行[おこな]えない。
 Beispielsatz-Übersetzung: Ohne Dolmetscher können wir keine Meetings abhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ideal, Traum
-Notiz: ''
 Beispielsatz: 彼らはみんなから理想の夫婦と呼ばれている。
 Beispielsatz-Lesung: 彼[かれ]らはみんなから 理想[りそう]の 夫婦[ふうふ]と 呼[よ]ばれている。
 Beispielsatz-Übersetzung: Alle nennen sie ein ideales Paar.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

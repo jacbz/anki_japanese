@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: privat, nichtstaatlich
-Notiz: ''
 Beispielsatz: 政府はそのプロジェクトに民間の投資を望んでいる。
 Beispielsatz-Lesung: 政府[せいふ]はそのプロジェクトに 民間[みんかん]の 投資[とうし]を 望[のぞ]んでいる。
 Beispielsatz-Übersetzung: Die Regierung hofft, dass der private Sektor in das Projekt
   investiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: nun, jetzt
-Notiz: ''
 Beispielsatz: さて次は何をしようかな。
 Beispielsatz-Lesung: さて 次[つぎ]は 何[なに]をしようかな。
 Beispielsatz-Übersetzung: Nun, was sollte ich als nächstes tun?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

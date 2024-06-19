@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schlagsahne
-Notiz: ''
 Beispielsatz: ケーキに苺と生クリームをのせた。
 Beispielsatz-Lesung: ケーキに 苺[いちご]と 生[なま]クリームをのせた。
 Beispielsatz-Übersetzung: Ich habe Erdbeeren und Schlagsahne auf den Kuchen gelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

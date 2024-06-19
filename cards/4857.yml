@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Setagaya (Ortsname)
-Notiz: ''
 Beispielsatz: 彼女は世田谷に住んでいます。
 Beispielsatz-Lesung: 彼女[かのじょ]は 世田谷[せたがや]に 住[す]んでいます。
 Beispielsatz-Übersetzung: Sie lebt in Setagaya.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

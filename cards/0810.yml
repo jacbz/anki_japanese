@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: September
-Notiz: ''
 Beispielsatz: 九月は残暑が厳しい。
 Beispielsatz-Lesung: 九月[くがつ]は 残暑[ざんしょ]が 厳[きび]しい。
 Beispielsatz-Übersetzung: Im September ist die spätsommerliche Hitze stark.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

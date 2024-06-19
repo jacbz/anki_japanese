@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: prefix
 Definition: HÖFLICHKEIT
-Notiz: ''
 Beispielsatz: お食事はいかがですか。
 Beispielsatz-Lesung: お 食事[しょくじ]はいかがですか。
 Beispielsatz-Übersetzung: Möchten Sie etwas zu essen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

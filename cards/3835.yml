@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kostüm
-Notiz: ''
 Beispielsatz: パレードの参加者は色とりどりの衣装を身にまとっていた。
 Beispielsatz-Lesung: パレードの 参加者[さんかしゃ]は 色[いろ]とりどりの 衣装[いしょう]を 身[み]にまとっていた。
 Beispielsatz-Übersetzung: Die Teilnehmer des Umzugs trugen bunte Kostüme.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

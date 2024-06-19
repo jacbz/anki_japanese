@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Student, Schüler
-Notiz: ''
 Beispielsatz: 学生たちはよくこのレストランに来る。
 Beispielsatz-Lesung: 学生[がくせい]たちはよくこのレストランに 来[く]る。
 Beispielsatz-Übersetzung: Studenten kommen oft in dieses Restaurant.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

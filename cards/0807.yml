@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bezahlen
-Notiz: ''
 Beispielsatz: 私が払います。
 Beispielsatz-Lesung: 私[わたし]が 払[はら]います。
 Beispielsatz-Übersetzung: Ich werde die Rechnung bezahlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

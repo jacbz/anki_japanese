@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Betrag; Rahmen
-Notiz: ''
 Beispielsatz: 詳しい額は請求書にかいてあります。
 Beispielsatz-Lesung: 詳[くわ]しい 額[がく]は 請求書[せいきゅうしょ]にかいてあります。
 Beispielsatz-Übersetzung: Der genaue Betrag stand auf der Rechnung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

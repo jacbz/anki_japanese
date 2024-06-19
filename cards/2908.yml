@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Auktion
-Notiz: ''
 Beispielsatz: オークションで一億円で落札された。
 Beispielsatz-Lesung: オークションで一 億[おく] 円[えん]で 落札[らくさつ]された。
 Beispielsatz-Übersetzung: Bei einer Auktion wurde es für 100 Millionen Yen zugeschlagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

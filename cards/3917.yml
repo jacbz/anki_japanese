@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Alkohol
-Notiz: ''
 Beispielsatz: 彼女はアルコールが全然飲めない。
 Beispielsatz-Lesung: 彼女[かのじょ]はアルコールが 全然[ぜんぜん] 飲[の]めない。
 Beispielsatz-Übersetzung: Sie kann überhaupt keinen Alkohol trinken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

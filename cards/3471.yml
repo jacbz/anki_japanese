@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: in einem Augenblick, sofort; plötzlich
-Notiz: ''
 Beispielsatz: 彼女の顔はたちまち赤くなった。
 Beispielsatz-Lesung: 彼女[かのじょ]の 顔[かお]はたちまち 赤[あか]くなった。
 Beispielsatz-Übersetzung: Ihr Gesicht wurde plötzlich rot.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

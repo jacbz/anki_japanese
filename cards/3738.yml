@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gleichzeitig
-Notiz: ''
 Beispielsatz: 観客は一斉に拍手した。
 Beispielsatz-Lesung: 観客[かんきゃく]は 一斉[いっせい]に 拍手[はくしゅ]した。
 Beispielsatz-Übersetzung: Das Publikum hat gleichzeitig applaudiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

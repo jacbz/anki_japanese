@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sportverein, Fitnessstudio
-Notiz: ''
 Beispielsatz: スポーツクラブに通っている。
 Beispielsatz-Lesung: スポーツクラブに 通[かよ]っている。
 Beispielsatz-Übersetzung: Ich gehe in einen Sportverein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

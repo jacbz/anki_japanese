@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wirklich, tatsächlich, geradezu
-Notiz: ''
 Beispielsatz: 彼はいかにも高そうなスーツを着ていた。
 Beispielsatz-Lesung: 彼[かれ]はいかにも 高[たか]そうなスーツを 着[き]ていた。
 Beispielsatz-Übersetzung: Er trug einen Anzug, der wirklich teuer aussah.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

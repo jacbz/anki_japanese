@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dritte
-Notiz: ''
 Beispielsatz: 三つ目の交差点を左に曲がってください。
 Beispielsatz-Lesung: 三[みっ]つ 目[め]の 交差点[こうさてん]を 左[ひだり]に 曲[ま]がってください。
 Beispielsatz-Übersetzung: Biegen Sie an der dritten Kreuzung links ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

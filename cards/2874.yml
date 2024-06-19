@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahrheit, Realität
-Notiz: ''
 Beispielsatz: 真実を話します。
 Beispielsatz-Lesung: 真実[しんじつ]を 話[はな]します。
 Beispielsatz-Übersetzung: Ich werde dir die Wahrheit sagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

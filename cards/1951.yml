@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Art, Sorte, Spezies
-Notiz: ''
 Beispielsatz: それは一種の差別だ。
 Beispielsatz-Lesung: それは 一種[いっしゅ]の 差別[さべつ]だ。
 Beispielsatz-Übersetzung: Das ist eine Art von Diskriminierung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

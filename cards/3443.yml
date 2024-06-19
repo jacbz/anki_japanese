@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Letzteres
-Notiz: ''
 Beispielsatz: 私なら後者を選ぶ。
 Beispielsatz-Lesung: 私[わたし]なら 後者[こうしゃ]を 選[えら]ぶ。
 Beispielsatz-Übersetzung: Ich würde Letzteres wählen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

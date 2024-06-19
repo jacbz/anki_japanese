@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Herangehensweise; Ansatz
-Notiz: ''
 Beispielsatz: 仕事への取り組み方が評価された。
 Beispielsatz-Lesung: 仕事[しごと]への 取[と]り 組[く]み 方[かた]が 評価[ひょうか]された。
 Beispielsatz-Übersetzung: Mein Ansatz zur Arbeit wurde hoch bewertet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

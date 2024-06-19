@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ort, Stelle, Position
-Notiz: ''
 Beispielsatz: ソファーを置く場所を変えましょう。
 Beispielsatz-Lesung: ソファーを 置[お]く 場所[ばしょ]を 変[か]えましょう。
 Beispielsatz-Übersetzung: Lass uns die Position des Sofas ändern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

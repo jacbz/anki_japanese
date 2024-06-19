@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: obwohl, trotzdem; um zu
-Notiz: ''
 Beispielsatz: 明日が試験なのに、彼女は遊んでいる。
 Beispielsatz-Lesung: 明日[あした]が 試験[しけん]なのに、 彼女[かのじょ]は 遊[あそ]んでいる。
 Beispielsatz-Übersetzung: Obwohl morgen die Prüfungen sind, faulenzt sie nur herum.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

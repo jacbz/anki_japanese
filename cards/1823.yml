@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Italien
-Notiz: ''
 Beispielsatz: イタリアの首都はローマだ。
 Beispielsatz-Lesung: イタリアの 首都[しゅと]はローマだ。
 Beispielsatz-Übersetzung: Die Hauptstadt von Italien ist Rom.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

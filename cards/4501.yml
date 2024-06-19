@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Feier
-Notiz: ''
 Beispielsatz: 母の八十歳のお祝いをした。
 Beispielsatz-Lesung: 母[はは]の八十 歳[さい]のお 祝[いわ]いをした。
 Beispielsatz-Übersetzung: Wir haben eine Feier zum achtzigsten Geburtstag unserer
   Mutter gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

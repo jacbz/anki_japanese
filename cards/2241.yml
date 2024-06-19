@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Muster
-Notiz: ''
 Beispielsatz: 彼の小説のストーリーはいつも同じパターンの繰り返しだ。
 Beispielsatz-Lesung: 彼[かれ]の 小説[しょうせつ]のストーリーはいつも 同[おな]じパターンの 繰[く]り 返[かえ]しだ。
 Beispielsatz-Übersetzung: Die Geschichten seiner Romane folgen alle dem gleichen Muster.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

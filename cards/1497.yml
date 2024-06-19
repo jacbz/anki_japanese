@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sitzplatz
-Notiz: ''
 Beispielsatz: 自分の席に戻りなさい。
 Beispielsatz-Lesung: 自分[じぶん]の 席[せき]に 戻[もど]りなさい。
 Beispielsatz-Übersetzung: Geh zurück zu deinem Sitzplatz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

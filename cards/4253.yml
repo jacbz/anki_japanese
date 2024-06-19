@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ogikubo (Ortsname)
-Notiz: ''
 Beispielsatz: 荻窪で有名なラーメン店に行って食べた。
 Beispielsatz-Lesung: 荻窪[おぎくぼ]で 有名[ゆうめい]なラーメン 店[てん]に 行[い]って 食[た]べた。
 Beispielsatz-Übersetzung: Wir gingen in Ogikubo zu einem berühmten Nudelrestaurant
   essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

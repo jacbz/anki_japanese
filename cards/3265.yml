@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schmerz
-Notiz: ''
 Beispielsatz: この治療法は激しい苦痛を伴う。
 Beispielsatz-Lesung: この 治療法[ちりょうほう]は 激[はげ]しい 苦痛[くつう]を 伴[ともな]う。
 Beispielsatz-Übersetzung: Diese Heilung geht mit intensiven Schmerzen einher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

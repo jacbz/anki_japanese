@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schneidwerkzeug, Messer
-Notiz: ''
 Beispielsatz: 刃物を振り回すのは危ない。
 Beispielsatz-Lesung: 刃物[はもの]を 振[ふ]り 回[まわ]すのは 危[あぶ]ない。
 Beispielsatz-Übersetzung: Es ist gefährlich, ein Messer herumzuwedeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

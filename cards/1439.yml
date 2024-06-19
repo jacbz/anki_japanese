@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schaden, Verletzung
-Notiz: ''
 Beispielsatz: 建物には何も被害がなかった。
 Beispielsatz-Lesung: 建物[たてもの]には 何[なに]も 被害[ひがい]がなかった。
 Beispielsatz-Übersetzung: Es wurde kein Schaden an einem der Gebäude verursacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

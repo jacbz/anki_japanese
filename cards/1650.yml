@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einkaufsstraße
-Notiz: ''
 Beispielsatz: 近くに商店街がある。
 Beispielsatz-Lesung: 近[ちか]くに 商店街[しょうてんがい]がある。
 Beispielsatz-Übersetzung: In der Nähe gibt es eine Einkaufsstraße.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

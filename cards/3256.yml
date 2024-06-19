@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 100 Yen
-Notiz: ''
 Beispielsatz: 百円足りないので、貸してくれませんか。
 Beispielsatz-Lesung: 百[ひゃく] 円[えん] 足[た]りないので、 貸[か]してくれませんか。
 Beispielsatz-Übersetzung: Mir fehlen 100 Yen, können Sie es mir leihen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

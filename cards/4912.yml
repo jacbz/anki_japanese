@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: öffnen
-Notiz: ''
 Beispielsatz: 眠くてなかなか目が明かない。
 Beispielsatz-Lesung: 眠[ねむ]くてなかなか 目[め]が 明[あ]かない。
 Beispielsatz-Übersetzung: Ich bin so müde, dass ich meine Augen nicht öffnen kann.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

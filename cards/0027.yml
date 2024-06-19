@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: nicht
-Notiz: ''
 Beispielsatz: 彼は朝ごはんを食べない。
 Beispielsatz-Lesung: 彼[かれ]は 朝[あさ]ごはんを 食[た]べない。
 Beispielsatz-Übersetzung: Er frühstückt nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

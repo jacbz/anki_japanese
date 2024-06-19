@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: öffnen
-Notiz: ''
 Beispielsatz: 彼女はドアを開けた。
 Beispielsatz-Lesung: 彼女[かのじょ]はドアを 開[あ]けた。
 Beispielsatz-Übersetzung: Sie hat die Tür geöffnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: London
-Notiz: ''
 Beispielsatz: 来月、ロンドンに留学する。
 Beispielsatz-Lesung: 来月[らいげつ]、ロンドンに 留学[りゅうがく]する。
 Beispielsatz-Übersetzung: Ab nächsten Monat werde ich in London studieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

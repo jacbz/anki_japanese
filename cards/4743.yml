@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ergänzen, ausgleichen
-Notiz: ''
 Beispielsatz: ダイエットにはビタミンを補うほうがいい。
 Beispielsatz-Lesung: ダイエットにはビタミンを 補[おぎな]うほうがいい。
 Beispielsatz-Übersetzung: Es ist besser, Ihre Ernährung mit Vitaminen zu ergänzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: mehr als; über
-Notiz: ''
 Beispielsatz: 七十歳以上の高齢者が毎年増加している。
 Beispielsatz-Lesung: 七十 歳[さい] 以上[いじょう]の 高齢者[こうれいしゃ]が 毎年[まいとし] 増加[ぞうか]している。
 Beispielsatz-Übersetzung: Die Zahl der über siebzigjährigen Menschen nimmt jedes Jahr
   zu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

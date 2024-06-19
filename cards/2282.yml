@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kanada
-Notiz: ''
 Beispielsatz: カナダへ語学留学へ行く。
 Beispielsatz-Lesung: カナダへ 語学[ごがく] 留学[りゅうがく]へ 行[い]く。
 Beispielsatz-Übersetzung: Ich werde nach Kanada reisen, um Englisch zu studieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

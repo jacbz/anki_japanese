@@ -5,7 +5,9 @@ Alternative: 聴く
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hören
-Notiz: ''
 Beispielsatz: 彼女は母親の言うことを聞かなかった。
 Beispielsatz-Lesung: 彼女[かのじょ]は 母親[ははおや]の 言[い]うことを 聞[き]かなかった。
 Beispielsatz-Übersetzung: Sie hat nicht auf ihre Mutter gehört.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

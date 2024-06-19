@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hauptstadt
-Notiz: ''
 Beispielsatz: パリはファッションの都だ。
 Beispielsatz-Lesung: パリはファッションの 都[と]だ。
 Beispielsatz-Übersetzung: Paris ist die Modehauptstadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Edo
-Notiz: ''
 Beispielsatz: 東京は昔、江戸と呼ばれていた。
 Beispielsatz-Lesung: 東京[とうきょう]は 昔[むかし]、 江戸[えど]と 呼[よ]ばれていた。
 Beispielsatz-Übersetzung: In der Vergangenheit hieß Tokio Edo.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

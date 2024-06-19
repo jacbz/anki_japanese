@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sehr, stark
-Notiz: ''
 Beispielsatz: この勉強法は大いに役に立つだろう。
 Beispielsatz-Lesung: この 勉強[べんきょう] 法[ほう]は 大[おお]いに 役[やく]に 立[た]つだろう。
 Beispielsatz-Übersetzung: Diese Lernfähigkeit wird Ihnen sehr hilfreich sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

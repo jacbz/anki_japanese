@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dokument
-Notiz: ''
 Beispielsatz: 必要書類を用意しなさい。
 Beispielsatz-Lesung: 必要書類[ひつようしょるい]を 用意[ようい]しなさい。
 Beispielsatz-Übersetzung: Bereiten Sie die erforderlichen Dokumente vor.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

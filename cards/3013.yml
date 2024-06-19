@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Benutzer
-Notiz: ''
 Beispielsatz: このサービスの利用者は毎年増えている。
 Beispielsatz-Lesung: このサービスの 利用者[りようしゃ]は 毎年[まいとし] 増[ふ]えている。
 Beispielsatz-Übersetzung: Die Zahl der Nutzer dieses Dienstes steigt von Jahr zu Jahr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

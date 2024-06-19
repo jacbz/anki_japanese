@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: täglich
-Notiz: ''
 Beispielsatz: 彼は日頃から走っている。
 Beispielsatz-Lesung: 彼[かれ]は 日頃[ひごろ]から 走[はし]っている。
 Beispielsatz-Übersetzung: Er läuft regelmäßig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

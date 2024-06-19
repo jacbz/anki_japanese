@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hauptbestandteil; Subjekt
-Notiz: ''
 Beispielsatz: この活動の主体は学生だ。
 Beispielsatz-Lesung: この 活動[かつどう]の 主体[しゅたい]は 学生[がくせい]だ。
 Beispielsatz-Übersetzung: Die Hauptakteure dieser Aktivität sind Studenten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

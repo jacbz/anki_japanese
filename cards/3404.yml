@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: cool, gut aussehend
-Notiz: ''
 Beispielsatz: 友達のお兄さんは格好良い。
 Beispielsatz-Lesung: 友達[ともだち]のお 兄[にい]さんは 格好[かっこう] 良[よ]い。
 Beispielsatz-Übersetzung: Der ältere Bruder meines Freundes ist gut aussehend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

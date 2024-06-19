@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Inhalt
-Notiz: ''
 Beispielsatz: あなたが送る荷物の内容は何ですか。
 Beispielsatz-Lesung: あなたが 送[おく]る 荷物[にもつ]の 内容[ないよう]は 何[なに]ですか。
 Beispielsatz-Übersetzung: Was ist der Inhalt des Pakets, das Sie versenden?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

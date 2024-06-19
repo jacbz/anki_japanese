@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich irren, einen Fehler machen
-Notiz: ''
 Beispielsatz: 彼の意見は間違っている。
 Beispielsatz-Lesung: 彼[かれ]の 意見[いけん]は 間違[まちが]っている。
 Beispielsatz-Übersetzung: Seine Meinung ist falsch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

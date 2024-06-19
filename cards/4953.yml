@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: wie viele Stunden
-Notiz: ''
 Beispielsatz: 何時間待てばいいのだろうか。
 Beispielsatz-Lesung: 何[なん] 時間[じかん] 待[ま]てばいいのだろうか。
 Beispielsatz-Übersetzung: Ich frage mich, wie viele Stunden ich warten muss.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

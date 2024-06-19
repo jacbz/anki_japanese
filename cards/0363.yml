@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: Ich (männl.)
-Notiz: ''
 Beispielsatz: 彼は「俺について来い」と言った。
 Beispielsatz-Lesung: 彼[かれ]は「 俺[おれ]について 来[こ]い」と 言[い]った。
 Beispielsatz-Übersetzung: 'Er sagte: "Folge mir."'
+
+# Notizen können HTML enthalten.            
+Notiz: ''

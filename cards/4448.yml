@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Datum
-Notiz: ''
 Beispielsatz: 彼の出国の時間と日付けを教えてください。
 Beispielsatz-Lesung: 彼[かれ]の 出国[しゅっこく]の 時間[じかん]と 日付[ひづ]けを 教[おし]えてください。
 Beispielsatz-Übersetzung: Bitte sagen Sie mir die Uhrzeit und das Datum seiner Abreise
   aus dem Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

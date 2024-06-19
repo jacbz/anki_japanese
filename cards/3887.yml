@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Effizienz
-Notiz: ''
 Beispielsatz: 仕事の効率を上げる必要がある。
 Beispielsatz-Lesung: 仕事[しごと]の 効率[こうりつ]を 上[あ]げる 必要[ひつよう]がある。
 Beispielsatz-Übersetzung: Wir müssen die Arbeitseffizienz steigern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

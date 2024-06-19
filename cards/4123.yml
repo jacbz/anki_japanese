@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: auflösen; schmelzen
-Notiz: ''
 Beispielsatz: フライパンにバターを溶かした。
 Beispielsatz-Lesung: フライパンにバターを 溶[と]かした。
 Beispielsatz-Übersetzung: Ich habe Butter in einer Pfanne geschmolzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ergebnis
-Notiz: ''
 Beispielsatz: 調査の結果を報告します。
 Beispielsatz-Lesung: 調査[ちょうさ]の 結果[けっか]を 報告[ほうこく]します。
 Beispielsatz-Übersetzung: Ich werde über die Ergebnisse der Untersuchung berichten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

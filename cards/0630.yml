@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beschreiben
-Notiz: ''
 Beispielsatz: このことについて意見を述べたいと思います。
 Beispielsatz-Lesung: このことについて 意見[いけん]を 述[の]べたいと 思[おも]います。
 Beispielsatz-Übersetzung: Ich möchte meine Beobachtungen zu diesem Thema beschreiben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Adresse
-Notiz: ''
 Beispielsatz: 住所をいただけますか？
 Beispielsatz-Lesung: 住所[じゅうしょ]をいただけますか？
 Beispielsatz-Übersetzung: Könnten Sie uns Ihre Adresse geben?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

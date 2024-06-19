@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ofen
-Notiz: ''
 Beispielsatz: オーブンでケーキを焼いた。
 Beispielsatz-Lesung: オーブンでケーキを 焼[や]いた。
 Beispielsatz-Übersetzung: Ich habe einen Kuchen im Ofen gebacken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

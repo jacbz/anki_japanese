@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: beide
-Notiz: ''
 Beispielsatz: 二人とも高校の時の同級生だ。
 Beispielsatz-Lesung: 二人とも 高校[こうこう]の 時[とき]の 同級生[どうきゅうせい]だ。
 Beispielsatz-Übersetzung: Beide waren meine Klassenkameraden in der High School.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

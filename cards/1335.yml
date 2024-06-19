@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Jahreszeit
-Notiz: ''
 Beispielsatz: 秋は食べ物がおいしい季節です。
 Beispielsatz-Lesung: 秋[あき]は 食[た]べ 物[もの]がおいしい 季節[きせつ]です。
 Beispielsatz-Übersetzung: Herbst ist die Jahreszeit für gutes Essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

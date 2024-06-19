@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeremonie, Ritual
-Notiz: ''
 Beispielsatz: 息子は生まれてすぐ洗礼の儀式をした。
 Beispielsatz-Lesung: 息子[むすこ]は 生[う]まれてすぐ 洗礼[せんれい]の 儀式[ぎしき]をした。
 Beispielsatz-Übersetzung: Mein Sohn wurde gleich nach seiner Geburt getauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

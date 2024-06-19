@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschwindigkeit
-Notiz: ''
 Beispielsatz: この車、どのくらいスピードが出るの。
 Beispielsatz-Lesung: この 車[くるま]、どのくらいスピードが 出[で]るの。
 Beispielsatz-Übersetzung: Wie schnell fährt dieses Auto?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

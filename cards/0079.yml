@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sein, existieren; bleiben
-Notiz: ''
 Beispielsatz: 「どこにいるの。」「ここだよ。」
 Beispielsatz-Lesung: 「どこにいるの。」「ここだよ。」
 Beispielsatz-Übersetzung: „Wo bist du?“ „Ich bin hier.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

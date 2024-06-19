@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Englisch
-Notiz: ''
 Beispielsatz: 英語が話せますか。
 Beispielsatz-Lesung: 英語[えいご]が 話[はな]せますか。
 Beispielsatz-Übersetzung: Können Sie Englisch sprechen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Feind, Gegner
-Notiz: ''
 Beispielsatz: 敵をたくさん作ってしまった。
 Beispielsatz-Lesung: 敵[てき]をたくさん 作[つく]ってしまった。
 Beispielsatz-Übersetzung: Ich habe so viele Feinde gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

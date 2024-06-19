@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übersetzen
-Notiz: ''
 Beispielsatz: 英語を日本語に訳した。
 Beispielsatz-Lesung: 英語[えいご]を 日本語[にほんご]に 訳[やく]した。
 Beispielsatz-Übersetzung: Ich habe Englisch ins Japanische übersetzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

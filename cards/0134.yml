@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: wissen
-Notiz: ''
 Beispielsatz: 私は何も知りません。
 Beispielsatz-Lesung: 私[わたし]は 何[なに]も 知[し]りません。
 Beispielsatz-Übersetzung: Ich weiß nichts darüber.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

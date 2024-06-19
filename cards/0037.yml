@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: aber
-Notiz: ''
 Beispielsatz: いい天気だが、風が冷たい。
 Beispielsatz-Lesung: いい 天気[てんき]だが、 風[かぜ]が 冷[つめ]たい。
 Beispielsatz-Übersetzung: Das Wetter ist gut, aber der Wind ist kalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

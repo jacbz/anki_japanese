@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: rennen
-Notiz: ''
 Beispielsatz: 駅まで走りましょう。間に合うかもしれません。
 Beispielsatz-Lesung: 駅[えき]まで 走[はし]りましょう。 間[ま]に 合[あ]うかもしれません。
 Beispielsatz-Übersetzung: Lass uns zum Bahnhof rennen. Wir könnten es schaffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

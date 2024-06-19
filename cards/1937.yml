@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dreimal
-Notiz: ''
 Beispielsatz: 私は富士山に三回登りました。
 Beispielsatz-Lesung: 私[わたし]は 富士山[ふじさん]に三 回[かい] 登[のぼ]りました。
 Beispielsatz-Übersetzung: Ich bin drei Mal auf den Mount Fuji geklettert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

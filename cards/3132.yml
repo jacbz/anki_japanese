@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anfänger
-Notiz: ''
 Beispielsatz: これは初心者向けのクラスです。
 Beispielsatz-Lesung: これは 初心者[しょしんしゃ] 向[む]けのクラスです。
 Beispielsatz-Übersetzung: Dies ist ein Kurs für Anfänger.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

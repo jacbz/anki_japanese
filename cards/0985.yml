@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: genau
-Notiz: ''
 Beispielsatz: それがまさに聞きたかったことなんです。
 Beispielsatz-Lesung: それがまさに 聞[き]きたかったことなんです。
 Beispielsatz-Übersetzung: Das ist genau das, was ich dich fragen wollte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

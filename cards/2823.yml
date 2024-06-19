@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Diskussion, Besprechung
-Notiz: ''
 Beispielsatz: 話し合いを2時間した。
 Beispielsatz-Lesung: 話[はな]し 合[あ]いを2 時[じ] 間[ま]した。
 Beispielsatz-Übersetzung: Wir hatten ein zweistündiges Treffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ersatz, Ersatzteil, Alternative
-Notiz: ''
 Beispielsatz: 肉の代わりに豆腐を使うこともできます。
 Beispielsatz-Lesung: 肉[にく]の 代[か]わりに 豆腐[とうふ]を 使[つか]うこともできます。
 Beispielsatz-Übersetzung: Anstelle von Fleisch können Sie auch Tofu verwenden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

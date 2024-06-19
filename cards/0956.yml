@@ -7,7 +7,9 @@ Alternative: |2-
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: seitlich, nahe
-Notiz: ''
 Beispielsatz: 女の子が母親のすぐ側に座っている。
 Beispielsatz-Lesung: 女[おんな]の 子[こ]が 母親[ははおや]のすぐ 側[そば]に 座[すわ]っている。
 Beispielsatz-Übersetzung: Ein Mädchen sitzt direkt neben ihrer Mutter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

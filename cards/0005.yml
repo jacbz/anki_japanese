@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: AKKUSATIV
-Notiz: ''
 Beispielsatz: 彼は毎晩ビールを飲む。
 Beispielsatz-Lesung: 彼[かれ]は 毎晩[まいばん]ビールを 飲[の]む。
 Beispielsatz-Übersetzung: Er trinkt jeden Abend Bier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

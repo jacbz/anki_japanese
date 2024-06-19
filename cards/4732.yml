@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ordnung, System
-Notiz: ''
 Beispielsatz: クラスの秩序を乱さないでください。
 Beispielsatz-Lesung: クラスの 秩序[ちつじょ]を 乱[みだ]さないでください。
 Beispielsatz-Übersetzung: Bitte stören Sie den Unterricht nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

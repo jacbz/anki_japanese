@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: diesen Monat
-Notiz: ''
 Beispielsatz: 今月、新しい家に引っ越す。
 Beispielsatz-Lesung: 今月[こんげつ]、 新[あたら]しい 家[いえ]に 引[ひ]っ 越[こ]す。
 Beispielsatz-Übersetzung: Ich ziehe diesen Monat in ein neues Haus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

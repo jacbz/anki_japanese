@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Linie
-Notiz: ''
 Beispielsatz: 紙に鉛筆で一本線を引いてください。
 Beispielsatz-Lesung: 紙[かみ]に 鉛筆[えんぴつ]で一 本線[ほんせん]を 引[ひ]いてください。
 Beispielsatz-Übersetzung: Zeichne mit einem Bleistift eine Linie auf das Papier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

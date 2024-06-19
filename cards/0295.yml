@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schule
-Notiz: ''
 Beispielsatz: 私は歩いて学校へ通っている。
 Beispielsatz-Lesung: 私[わたし]は 歩[ある]いて 学校[がっこう]へ 通[とお]っている。
 Beispielsatz-Übersetzung: Ich gehe zu Fuß zur Schule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

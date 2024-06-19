@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünf Jahre
-Notiz: ''
 Beispielsatz: 私はフランス語を五年勉強した。
 Beispielsatz-Lesung: 私[わたし]はフランス 語[ご]を五 年[ねん] 勉強[べんきょう]した。
 Beispielsatz-Übersetzung: Ich habe fünf Jahre lang Französisch studiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

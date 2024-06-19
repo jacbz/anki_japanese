@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jedes Einzelne, jedes Individuum
-Notiz: ''
 Beispielsatz: 個々の事例について調べる必要がある。
 Beispielsatz-Lesung: 個々[ここ]の 事例[じれい]について 調[しら]べる 必要[ひつよう]がある。
 Beispielsatz-Übersetzung: Wir müssen jedes Einzelne untersuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

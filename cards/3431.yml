@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: rücksichtslos, unüberlegt; selten
-Notiz: ''
 Beispielsatz: こんなチャンスは滅多にない。
 Beispielsatz-Lesung: こんなチャンスは 滅多[めった]にない。
 Beispielsatz-Übersetzung: Eine solche Chance kommt selten vor.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

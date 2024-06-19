@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Überprüfung, Neubewertung
-Notiz: ''
 Beispielsatz: 現行の制度の大幅な見直しが行われた。
 Beispielsatz-Lesung: 現行[げんこう]の 制度[せいど]の 大幅[おおはば]な 見直[みなお]しが 行[おこな]われた。
 Beispielsatz-Übersetzung: Eine umfassende Überprüfung des aktuellen Systems wurde
   durchgeführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: mögen, gern haben, lieben, sich kümmern
-Notiz: ''
 Beispielsatz: 辛い料理を好んでいる。
 Beispielsatz-Lesung: 辛[つら]い 料理[りょうり]を 好[この]んでいる。
 Beispielsatz-Übersetzung: Er mag scharfes Essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

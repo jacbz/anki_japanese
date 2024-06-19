@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jeder
-Notiz: ''
 Beispielsatz: 各々でお昼ご飯は持ってきてください。
 Beispielsatz-Lesung: 各々[おのおの]でお 昼[ひる]ご 飯[はん]は 持[も]ってきてください。
 Beispielsatz-Übersetzung: Bitte jeder bringt sein eigenes Mittagessen mit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

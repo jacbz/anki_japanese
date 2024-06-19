@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: wissenschaftlich
-Notiz: ''
 Beispielsatz: その理論は科学的に証明されている。
 Beispielsatz-Lesung: その 理論[りろん]は 科学的[かがくてき]に 証明[しょうめい]されている。
 Beispielsatz-Übersetzung: Diese Theorie wurde wissenschaftlich bewiesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: größte, größter
-Notiz: ''
 Beispielsatz: 結婚は人生で最大のイベントと言われている。
 Beispielsatz-Lesung: 結婚[けっこん]は 人生[じんせい]で 最大[さいだい]のイベントと 言[い]われている。
 Beispielsatz-Übersetzung: Die Heirat gilt als das größte Ereignis im Leben eines Menschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

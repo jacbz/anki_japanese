@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Heimatstadt
-Notiz: 'Onyomi: こきょう (formeller)<br>Kunyomi: ふるさと'
 Beispielsatz: 故郷を離れて十年になる。
 Beispielsatz-Lesung: 故郷[こきょう]を 離[はな]れて十 年[ねん]になる。
 Beispielsatz-Übersetzung: Es sind zehn Jahre vergangen, seit ich meine Heimatstadt
   verlassen habe.
+
+# Notizen können HTML enthalten.            
+Notiz: 'Onyomi: こきょう (formeller)<br>Kunyomi: ふるさと'

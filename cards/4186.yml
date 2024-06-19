@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: seinen Namen angeben
-Notiz: ''
 Beispielsatz: 彼はどうして偽名を名乗ったのだろうか。
 Beispielsatz-Lesung: 彼[かれ]はどうして 偽名[ぎめい]を 名乗[なの]ったのだろうか。
 Beispielsatz-Übersetzung: Ich frage mich, warum er einen falschen Namen angegeben
   hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

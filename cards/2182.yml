@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: modisch, schick
-Notiz: ''
 Beispielsatz: おしゃれなレストランで夕食を食べる。
 Beispielsatz-Lesung: おしゃれなレストランで 夕食[ゆうしょく]を 食[た]べる。
 Beispielsatz-Übersetzung: Wir essen in einem schicken Restaurant zu Abend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Wow!
-Notiz: ''
 Beispielsatz: わー、きれい！
 Beispielsatz-Lesung: わー、 綺麗[きれい]！
 Beispielsatz-Übersetzung: Wow! Wie schön!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

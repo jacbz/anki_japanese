@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Projekt
-Notiz: ''
 Beispielsatz: 新しいプロジェクトが開始した。
 Beispielsatz-Lesung: 新[あたら]しいプロジェクトが 開始[かいし]した。
 Beispielsatz-Übersetzung: Ein neues Projekt wurde gestartet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

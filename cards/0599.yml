@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schützen, bewahren, gehorchen
-Notiz: ''
 Beispielsatz: 彼女は約束を守った。
 Beispielsatz-Lesung: 彼女[かのじょ]は 約束[やくそく]を 守[まも]った。
 Beispielsatz-Übersetzung: Sie hat ihr Versprechen gehalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

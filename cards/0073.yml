@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: äh, mm, nun
-Notiz: ''
 Beispielsatz: ん、何かがおかしいな。
 Beispielsatz-Lesung: ん、 何[なに]かがおかしいな。
 Beispielsatz-Übersetzung: Äh, etwas stimmt nicht …
+
+# Notizen können HTML enthalten.            
+Notiz: ''

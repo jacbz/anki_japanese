@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: oder
-Notiz: ''
 Beispielsatz: これに塩またはしょうゆを付けて食べてください。
 Beispielsatz-Lesung: これに 塩[しお]またはしょうゆを 付[つ]けて 食[た]べてください。
 Beispielsatz-Übersetzung: Bitte essen Sie dies mit etwas Salz oder Sojasauce dazu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: mehr
-Notiz: ''
 Beispielsatz: もっといい方法があるはずだ。
 Beispielsatz-Lesung: もっといい 方法[ほうほう]があるはずだ。
 Beispielsatz-Übersetzung: Es muss einen besseren Weg geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

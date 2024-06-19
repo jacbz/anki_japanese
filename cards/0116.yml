@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gespräch, Geschichte
-Notiz: ''
 Beispielsatz: 話があります。
 Beispielsatz-Lesung: 話[はなし]があります。
 Beispielsatz-Übersetzung: Ich muss etwas sagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

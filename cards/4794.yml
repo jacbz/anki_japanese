@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschäft
-Notiz: ''
 Beispielsatz: 最近、新しいコーヒーショップがオープンした。
 Beispielsatz-Lesung: 最近[さいきん]、 新[あたら]しいコーヒーショップがオープンした。
 Beispielsatz-Übersetzung: Ein neues Kaffee-Geschäft hat kürzlich eröffnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

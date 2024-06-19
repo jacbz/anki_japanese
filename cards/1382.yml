@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schweiß
-Notiz: ''
 Beispielsatz: 彼は顔の汗をぬぐった。
 Beispielsatz-Lesung: 彼[かれ]は 顔[かお]の 汗[あせ]をぬぐった。
 Beispielsatz-Übersetzung: Er wischte sich den Schweiß vom Gesicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

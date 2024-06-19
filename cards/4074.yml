@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: als nächstes, danach
-Notiz: ''
 Beispielsatz: アマゾン川はナイル川に次いで長い川だ。
 Beispielsatz-Lesung: アマゾン 川[がわ]はナイル 川[がわ]に 次[つ]いで 長[なが]い 川[かわ]だ。
 Beispielsatz-Übersetzung: Der Amazonas ist nach dem Nil der längste Fluss der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

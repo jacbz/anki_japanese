@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei Minuten
-Notiz: ''
 Beispielsatz: カップにお湯を注いだ後、食べるまで三分待ってください。
 Beispielsatz-Lesung: カップにお 湯[ゆ]を 注[そそ]いだ 後[のち]、 食[た]べるまで三 分[ふん] 待[ま]ってください。
 Beispielsatz-Übersetzung: Nachdem Sie das kochende Wasser in die Tasse gegossen haben,
   warten Sie bitte drei Minuten, bevor Sie essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

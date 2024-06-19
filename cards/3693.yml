@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gegenüberliegende Seite
-Notiz: ''
 Beispielsatz: そのホテルは道を挟んで反対側にある。
 Beispielsatz-Lesung: そのホテルは 道[みち]を 挟[はさ]んで 反対側[はんたいがわ]にある。
 Beispielsatz-Übersetzung: Das Hotel befindet sich auf der anderen Straßenseite.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

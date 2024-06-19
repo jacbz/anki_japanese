@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gras, Unkraut
-Notiz: ''
 Beispielsatz: 彼は庭の草むしりをしている。
 Beispielsatz-Lesung: 彼[かれ]は 庭[にわ]の 草[くさ]むしりをしている。
 Beispielsatz-Übersetzung: Er jähtet den Garten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

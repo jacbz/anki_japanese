@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dieses Jahr
-Notiz: ''
 Beispielsatz: 今年の夏は暑い。
 Beispielsatz-Lesung: 今年[ことし]の 夏[なつ]は 暑[あつ]い。
 Beispielsatz-Übersetzung: Es ist heiß in diesem Sommer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

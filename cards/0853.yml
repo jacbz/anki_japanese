@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hals, Kopf
-Notiz: ''
 Beispielsatz: 彼女の首は細い。
 Beispielsatz-Lesung: 彼女[かのじょ]の 首[くび]は 細[ほそ]い。
 Beispielsatz-Übersetzung: Sie hat einen schlanken Hals.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

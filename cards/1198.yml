@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wie
-Notiz: ''
 Beispielsatz: 人間はいかに生きるべきだろうか。
 Beispielsatz-Lesung: 人間[にんげん]はいかに 生[い]きるべきだろうか。
 Beispielsatz-Übersetzung: Wie können wir dieses Problem lösen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

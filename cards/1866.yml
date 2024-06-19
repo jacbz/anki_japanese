@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sehr
-Notiz: ''
 Beispielsatz: 私はごく普通の家庭で育った。
 Beispielsatz-Lesung: 私[わたし]はごく 普通[ふつう]の 家庭[かてい]で 育[そだ]った。
 Beispielsatz-Übersetzung: Ich bin in einer sehr durchschnittlichen Familie aufgewachsen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

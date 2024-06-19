@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Modell
-Notiz: ''
 Beispielsatz: この携帯電話は最新モデルです。
 Beispielsatz-Lesung: この 携帯電話[けいたいでんわ]は 最新[さいしん]モデルです。
 Beispielsatz-Übersetzung: Dieses Telefon ist das neueste Modell.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

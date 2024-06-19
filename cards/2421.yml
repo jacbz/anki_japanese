@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Convenience Store
-Notiz: ''
 Beispielsatz: コンビニで夕食を買う。
 Beispielsatz-Lesung: コンビニで 夕食[ゆうしょく]を 買[か]う。
 Beispielsatz-Übersetzung: Ich kaufe im Kombini etwas zu essen für das Abendessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

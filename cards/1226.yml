@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fangen, greifen, ergreifen, verhaften
-Notiz: ''
 Beispielsatz: 警察は犯人を捕らえるためにわなをしかけた。
 Beispielsatz-Lesung: 警察[けいさつ]は 犯人[はんにん]を 捕[と]らえるためにわなをしかけた。
 Beispielsatz-Übersetzung: Die Polizei stellte eine Falle auf, um den Verbrecher zu
   fangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: jede Woche
-Notiz: ''
 Beispielsatz: 毎週月曜日にミーティングがある。
 Beispielsatz-Lesung: 毎週[まいしゅう] 月曜日[げつようび]にミーティングがある。
 Beispielsatz-Übersetzung: Wir haben jeden Montag eine Besprechung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

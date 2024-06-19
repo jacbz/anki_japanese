@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kompatibilität
-Notiz: ''
 Beispielsatz: あの夫婦の性格はお互い相性がいい。
 Beispielsatz-Lesung: あの 夫婦[ふうふ]の 性格[せいかく]はお 互[たが]い 相性[あいしょう]がいい。
 Beispielsatz-Übersetzung: Die Charaktere dieses Paares sind kompatibel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aufführung
-Notiz: ''
 Beispielsatz: 来週その演劇は大阪で公演します。
 Beispielsatz-Lesung: 来週[らいしゅう]その 演劇[えんげき]は 大阪[おおさか]で 公演[こうえん]します。
 Beispielsatz-Übersetzung: Das Theater spielt nächste Woche in Osaka.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

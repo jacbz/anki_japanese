@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich trennen; sich scheiden lassen; Schluss machen
-Notiz: ''
 Beispielsatz: 彼らは先月別れてしまった。
 Beispielsatz-Lesung: 彼[かれ]らは 先月[せんげつ] 別[わか]れてしまった。
 Beispielsatz-Übersetzung: Sie haben letzten Monat Schluss gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

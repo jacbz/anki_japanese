@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich gegenüberstehen
-Notiz: ''
 Beispielsatz: この町は海に面している。
 Beispielsatz-Lesung: この 町[まち]は 海[うみ]に 面[めん]している。
 Beispielsatz-Übersetzung: Diese Stadt steht dem Meer gegenüber.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

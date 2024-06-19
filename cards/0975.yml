@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Interesse
-Notiz: ''
 Beispielsatz: 温暖化についての関心が高まっている。
 Beispielsatz-Lesung: 温暖化[おんだんか]についての 関心[かんしん]が 高[たか]まっている。
 Beispielsatz-Übersetzung: Das Interesse der Menschen an der globalen Erwärmung nimmt
   zu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

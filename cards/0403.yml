@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dieses Mal
-Notiz: ''
 Beispielsatz: 今回、彼女は大統領に選ばれなかった。
 Beispielsatz-Lesung: 今回[こんかい]、 彼女[かのじょ]は 大統領[だいとうりょう]に 選[えら]ばれなかった。
 Beispielsatz-Übersetzung: Dieses Mal wurde sie nicht als Präsidentin gewählt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

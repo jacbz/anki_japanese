@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Süden
-Notiz: ''
 Beispielsatz: 私は東京の南にある小さい町に住んでいます。
 Beispielsatz-Lesung: 私[わたし]は 東京[とうきょう]の 南[みなみ]にある 小[ちい]さい 町[まち]に 住[す]んでいます。
 Beispielsatz-Übersetzung: Ich lebe in einer kleinen Stadt im Süden von Tokyo.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

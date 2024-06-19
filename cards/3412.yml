@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ein Geschäft führen; sich beteiligen; eine Zeremonie abhalten
-Notiz: ''
 Beispielsatz: この村は農業を営んでいる人が多い。
 Beispielsatz-Lesung: この 村[むら]は 農業[のうぎょう]を 営[いとな]んでいる人が 多[おお]い。
 Beispielsatz-Übersetzung: In diesem Dorf beteiligen sich viele Menschen an der Landwirtschaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

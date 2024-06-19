@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Unterschied, Lücke, Abstand
-Notiz: ''
 Beispielsatz: たくさん練習する人としない人の間には差がつく。
 Beispielsatz-Lesung: たくさん 練習[れんしゅう]する人としない人の 間[ま]には 差[さ]がつく。
 Beispielsatz-Übersetzung: Es wird eine große Kluft geben zwischen Menschen, die viel
   üben, und solchen, die das nicht tun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: weich
-Notiz: ''
 Beispielsatz: このパンはとてもやわらかい。
 Beispielsatz-Lesung: このパンはとても 柔[やわ]らかい。
 Beispielsatz-Übersetzung: Dieses Brot ist sehr weich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: einfach
-Notiz: ''
 Beispielsatz: インスタントラーメンを作るのは簡単だ。
 Beispielsatz-Lesung: インスタントラーメンを 作[つく]るのは 簡単[かんたん]だ。
 Beispielsatz-Übersetzung: Instantnudeln sind leicht zu kochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

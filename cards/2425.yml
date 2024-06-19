@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: echt, authentisch
-Notiz: ''
 Beispielsatz: 彼女に本物のダイヤをプレゼントした。
 Beispielsatz-Lesung: 彼女[かのじょ]に 本物[ほんもの]のダイヤをプレゼントした。
 Beispielsatz-Übersetzung: Ich schenkte ihr einen echten Diamantring.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

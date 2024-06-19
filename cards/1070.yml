@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Patient, Fall
-Notiz: ''
 Beispielsatz: 医者は患者に適切な情報を与えるべきだ。
 Beispielsatz-Lesung: 医者[いしゃ]は 患者[かんじゃ]に 適切[てきせつ]な 情報[じょうほう]を 与[あた]えるべきだ。
 Beispielsatz-Übersetzung: Ärzte sollten dem Patienten angemessene Informationen geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

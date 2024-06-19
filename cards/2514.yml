@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: seitdem
-Notiz: ''
 Beispielsatz: あの地震以来、一人で寝るのが怖い。
 Beispielsatz-Lesung: あの 地震[じしん] 以来[いらい]、一人で 寝[ね]るのが 怖[こわ]い。
 Beispielsatz-Übersetzung: Seit diesem Erdbeben habe ich Angst davor, allein zu schlafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

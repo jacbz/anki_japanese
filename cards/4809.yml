@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ausarbeiten, entwickeln; verkünden
-Notiz: ''
 Beispielsatz: 政府は年金制度の新しい政策を打ち出した。
 Beispielsatz-Lesung: 政府[せいふ]は 年金制度[ねんきんせいど]の 新[あたら]しい 政策[せいさく]を 打[う]ち 出[だ]した。
 Beispielsatz-Übersetzung: Die Regierung hat eine neue Politik für das Rentensystem
   ausgearbeitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

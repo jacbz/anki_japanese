@@ -7,7 +7,9 @@ Alternative: |2-
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schwer, hart
-Notiz: ''
 Beispielsatz: 彼は仕事のストレスで辛い思いをしている。
 Beispielsatz-Lesung: 彼[かれ]は 仕事[しごと]のストレスで 辛[つら]い 思[おも]いをしている。
 Beispielsatz-Übersetzung: Er hat aufgrund von Arbeitsstress eine schwere Zeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einatmen, rauchen
-Notiz: ''
 Beispielsatz: 深く息を吸ってください。
 Beispielsatz-Lesung: 深[ふか]く 息[いき]を 吸[す]ってください。
 Beispielsatz-Übersetzung: Bitte atme tief ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

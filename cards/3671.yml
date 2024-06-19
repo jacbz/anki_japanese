@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rezession
-Notiz: ''
 Beispielsatz: この不況を乗り切るために、わが社は何をするべきだろうか。
 Beispielsatz-Lesung: この 不況[ふきょう]を 乗[の]り 切[き]るために、わが 社[しゃ]は 何[なに]をするべきだろうか。
 Beispielsatz-Übersetzung: Was muss unser Unternehmen tun, um die aktuelle Rezession
   zu überstehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

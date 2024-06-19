@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Werk
-Notiz: ''
 Beispielsatz: この作家の作品は素晴らしい。
 Beispielsatz-Lesung: この 作家[さっか]の 作品[さくひん]は 素晴[すば]らしい。
 Beispielsatz-Übersetzung: Die Werke dieses Schriftstellers sind wunderbar.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

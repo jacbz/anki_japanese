@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: großartig, bedeutend
-Notiz: ''
 Beispielsatz: いつもお母さんのお手伝いをして偉いね。
 Beispielsatz-Lesung: いつもお 母[かあ]さんのお 手伝[てつだ]いをして 偉[えら]いね。
 Beispielsatz-Übersetzung: Es ist großartig, dass du deiner Mutter immer hilfst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

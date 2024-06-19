@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nächstes Mal
-Notiz: ''
 Beispielsatz: 今度の日曜日、映画を見に行きませんか。
 Beispielsatz-Lesung: 今度[こんど]の 日曜日[にちようび]、 映画[えいが]を 見[み]に 行[い]きませんか。
 Beispielsatz-Übersetzung: Möchten Sie nächsten Sonntag ins Kino gehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

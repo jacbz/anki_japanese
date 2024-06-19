@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rente, Pension
-Notiz: ''
 Beispielsatz: 彼は年金で暮らしている。
 Beispielsatz-Lesung: 彼[かれ]は 年金[ねんきん]で 暮[く]らしている。
 Beispielsatz-Übersetzung: Er lebt von einer Rente.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

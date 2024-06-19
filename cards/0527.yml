@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: wir
-Notiz: ''
 Beispielsatz: それは国民としての我々の義務だ。
 Beispielsatz-Lesung: それは 国民[こくみん]としての 我々[われわれ]の 義務[ぎむ]だ。
 Beispielsatz-Übersetzung: Es ist unsere Pflicht als Bürger.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kinder
-Notiz: ''
 Beispielsatz: 公園で子供たちが遊んでいる。
 Beispielsatz-Lesung: 公園[こうえん]で 子供[こども]たちが 遊[あそ]んでいる。
 Beispielsatz-Übersetzung: Kinder spielen im Park.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

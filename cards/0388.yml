@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anfangen, beginnen
-Notiz: ''
 Beispielsatz: いつ日本語の勉強を始めたんですか。
 Beispielsatz-Lesung: いつ 日本語[にほんご]の 勉強[べんきょう]を 始[はじ]めたんですか。
 Beispielsatz-Übersetzung: Wann hast du angefangen, Japanisch zu lernen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

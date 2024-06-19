@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Neuseeland
-Notiz: ''
 Beispielsatz: ニュージーランドの首都はウェリントンです。
 Beispielsatz-Lesung: ニュージーランドの 首都[しゅと]はウェリントンです。
 Beispielsatz-Übersetzung: Die Hauptstadt von Neuseeland ist Wellington.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

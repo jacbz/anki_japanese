@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: (es gibt) kein
-Notiz: ''
 Beispielsatz: 今、お金が無いんです。
 Beispielsatz-Lesung: 今[いま]、お 金[かね]が 無[な]いんです。
 Beispielsatz-Übersetzung: Ich habe jetzt kein Geld.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

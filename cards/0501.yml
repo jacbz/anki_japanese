@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: nein, nun ja
-Notiz: bei Überraschung und Gefühlsbewegung
 Beispielsatz: 「私のせいだというんですか」「いや、そういうことではないんです」
 Beispielsatz-Lesung: 「 私[わたし]のせいだというんですか」「いや、そういうことではないんです」
 Beispielsatz-Übersetzung: „Sagst du, dass das meine Schuld ist?“ „Nein, das meine
   ich nicht.“
+
+# Notizen können HTML enthalten.            
+Notiz: bei Überraschung und Gefühlsbewegung

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kühlen
-Notiz: ''
 Beispielsatz: 冷蔵庫でジュースを冷やしておく。
 Beispielsatz-Lesung: 冷蔵庫[れいぞうこ]でジュースを 冷[ひ]やしておく。
 Beispielsatz-Übersetzung: Ich kühle den Saft im Kühlschrank.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

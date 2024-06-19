@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: nicht sehr; der Rest
-Notiz: ''
 Beispielsatz: うちの息子はあまり野菜が好きじゃない。
 Beispielsatz-Lesung: うちの 息子[むすこ]はあまり 野菜[やさい]が 好[す]きじゃない。
 Beispielsatz-Übersetzung: Mein Sohn mag Gemüse nicht so sehr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: florieren, gedeihen
-Notiz: ''
 Beispielsatz: インフルエンザが猛威を振るっている。
 Beispielsatz-Lesung: インフルエンザが 猛威[もうい]を 振[ふ]るっている。
 Beispielsatz-Übersetzung: Die Influenza breitet sich wie ein Lauffeuer aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

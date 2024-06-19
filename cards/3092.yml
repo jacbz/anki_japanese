@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Behälter
-Notiz: ''
 Beispielsatz: 余った料理を器に入れて持って帰った。
 Beispielsatz-Lesung: 余[あま]った 料理[りょうり]を 器[うつわ]に 入[い]れて 持[も]って 帰[かえ]った。
 Beispielsatz-Übersetzung: Ich habe die Reste in einen Behälter gegeben und mit nach
   Hause genommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

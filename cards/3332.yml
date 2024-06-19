@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pachinko, japanisches Flippern
-Notiz: ''
 Beispielsatz: 暇なときにパチンコをやる。
 Beispielsatz-Lesung: 暇[ひま]なときにパチンコをやる。
 Beispielsatz-Übersetzung: Ich spiele Pachinko, wenn ich Zeit habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

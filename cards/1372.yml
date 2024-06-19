@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: n Anfang, Ursprung
-Notiz: ''
 Beispielsatz: 毎回授業の始めに小テストがある。
 Beispielsatz-Lesung: 毎回[まいかい] 授業[じゅぎょう]の 始[はじ]めに 小[しょう]テストがある。
 Beispielsatz-Übersetzung: Wir haben am Anfang jeder Lektion einen Test.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

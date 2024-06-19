@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Trennung, Abschied
-Notiz: ''
 Beispielsatz: 彼女に別れを告げた。
 Beispielsatz-Lesung: 彼女[かのじょ]に 別[わか]れを 告[つ]げた。
 Beispielsatz-Übersetzung: Ich habe mich von meiner Freundin verabschiedet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

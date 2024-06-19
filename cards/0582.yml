@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: in Zukunft, von nun an
-Notiz: ''
 Beispielsatz: 今後、国際化が進むだろう。
 Beispielsatz-Lesung: 今後[こんご]、 国際化[こくさいか]が 進[すす]むだろう。
 Beispielsatz-Übersetzung: In Zukunft wird die Internationalisierung weiter voranschreiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

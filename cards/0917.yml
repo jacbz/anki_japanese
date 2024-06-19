@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein (langer/zylindrischer Gegenstand)
-Notiz: ''
 Beispielsatz: それ一本ください。
 Beispielsatz-Lesung: それ一 本[ほん]ください。
 Beispielsatz-Übersetzung: Geben Sie mir bitte einen davon.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

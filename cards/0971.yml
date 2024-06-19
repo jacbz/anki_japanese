@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hälfte
-Notiz: ''
 Beispielsatz: 彼女はケーキを半分に切った。
 Beispielsatz-Lesung: 彼女[かのじょ]はケーキを 半分[はんぶん]に 切[き]った。
 Beispielsatz-Übersetzung: Sie hat den Kuchen in Hälften geschnitten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

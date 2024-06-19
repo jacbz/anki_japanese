@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Chinesische Nudeln
-Notiz: ''
 Beispielsatz: おいしいラーメンを食べました。
 Beispielsatz-Lesung: おいしいラーメンを 食[た]べました。
 Beispielsatz-Übersetzung: Ich habe leckere chinesische Nudeln gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich ansammeln, aufbauen
-Notiz: ''
 Beispielsatz: 彼はストレスがたまると怒りっぽくなる。
 Beispielsatz-Lesung: 彼[かれ]はストレスがたまると 怒[いか]りっぽくなる。
 Beispielsatz-Übersetzung: Er neigt dazu, schnell wütend zu werden, wenn sich der Stress
   aufbaut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

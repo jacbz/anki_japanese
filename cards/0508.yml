@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Region, Gebiet
-Notiz: ''
 Beispielsatz: 地域の住民はお互いに助け合った。
 Beispielsatz-Lesung: 地域[ちいき]の 住民[じゅうみん]はお 互[たが]いに 助[たす]け 合[あ]った。
 Beispielsatz-Übersetzung: Die Bewohner der Region haben sich gegenseitig geholfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

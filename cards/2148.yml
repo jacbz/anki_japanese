@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweite
-Notiz: ''
 Beispielsatz: 大阪は日本で二番目に大きい都市です。
 Beispielsatz-Lesung: 大阪[おおさか]は 日本[にっぽん]で二 番[ばん] 目[め]に 大[おお]きい 都市[とし]です。
 Beispielsatz-Übersetzung: Osaka ist die zweitgrößte Stadt Japans.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

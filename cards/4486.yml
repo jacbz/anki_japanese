@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bericht
-Notiz: ''
 Beispielsatz: 彼は報告書のデータを集めるのに忙しかった。
 Beispielsatz-Lesung: 彼[かれ]は 報告書[ほうこくしょ]のデータを 集[あつ]めるのに 忙[いそが]しかった。
 Beispielsatz-Übersetzung: Er war damit beschäftigt, Daten für seinen Bericht zu sammeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

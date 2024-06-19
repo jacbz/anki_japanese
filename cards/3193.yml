@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein (Buch)
-Notiz: ''
 Beispielsatz: 週に一冊本を読む。
 Beispielsatz-Lesung: 週[しゅう]に一 冊[さつ] 本[ほん]を 読[よ]む。
 Beispielsatz-Übersetzung: Ich lese eine Buch pro Woche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

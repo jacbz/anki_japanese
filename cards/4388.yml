@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erste Hälfte
-Notiz: ''
 Beispielsatz: サッカーの前半は勝っていた。
 Beispielsatz-Lesung: サッカーの 前半[ぜんはん]は 勝[か]っていた。
 Beispielsatz-Übersetzung: In der ersten Hälfte des Fußballspiels haben wir gewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

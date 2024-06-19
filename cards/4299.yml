@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tragödie
-Notiz: ''
 Beispielsatz: シェイクスピアのマクベスは悲劇です。
 Beispielsatz-Lesung: シェイクスピアのマクベスは 悲劇[ひげき]です。
 Beispielsatz-Übersetzung: Macbeth von Shakespeare ist eine Tragödie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

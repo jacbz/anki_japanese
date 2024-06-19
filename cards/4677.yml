@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ellbogen
-Notiz: ''
 Beispielsatz: テーブルに肘をついて食べないでください。
 Beispielsatz-Lesung: テーブルに 肘[ひじ]をついて 食[た]べないでください。
 Beispielsatz-Übersetzung: Bitte essen Sie nicht mit den Ellbogen auf dem Tisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

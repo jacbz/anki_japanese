@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fall; Gelegenheit
-Notiz: ''
 Beispielsatz: 雨の場合、お祭りは中止です。
 Beispielsatz-Lesung: 雨[あめ]の 場合[ばあい]、お 祭[まつ]りは 中止[ちゅうし]です。
 Beispielsatz-Übersetzung: Im Falle von Regen wird das Festival abgesagt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vorgehensweise
-Notiz: ''
 Beispielsatz: やり方を変えるべきだ。
 Beispielsatz-Lesung: やり 方[かた]を 変[か]えるべきだ。
 Beispielsatz-Übersetzung: Du solltest deine Vorgehensweise ändern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

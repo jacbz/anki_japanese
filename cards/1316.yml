@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: fern, entfernt; Entfernung
-Notiz: ''
 Beispielsatz: 老人は遠くを見つめながら座っていた。
 Beispielsatz-Lesung: 老人[ろうじん]は 遠[とお]くを 見[み]つめながら 座[すわ]っていた。
 Beispielsatz-Übersetzung: Der alte Mann saß auf einer Bank und schaute in die Ferne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

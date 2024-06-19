@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ohnehin
-Notiz: ''
 Beispielsatz: どうせだめだ。
 Beispielsatz-Lesung: どうせダメだ。
 Beispielsatz-Übersetzung: Es ist ohnehin unmöglich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

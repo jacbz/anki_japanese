@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vier
-Notiz: ''
 Beispielsatz: 日本では四という数字は不吉と考えられている。
 Beispielsatz-Lesung: 日本[にっぽん]では四という 数字[すうじ]は 不吉[ふきつ]と 考[かんが]えられている。
 Beispielsatz-Übersetzung: Die Zahl vier gilt in Japan als Unglückszahl.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

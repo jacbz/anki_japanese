@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: hier und da, überall
-Notiz: ''
 Beispielsatz: 最近、あちこちでこの店を見かける。
 Beispielsatz-Lesung: 最近[さいきん]、あちこちでこの 店[みせ]を 見[み]かける。
 Beispielsatz-Übersetzung: In letzter Zeit sehe ich diesen Laden hier und da.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

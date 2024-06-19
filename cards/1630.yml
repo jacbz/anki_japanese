@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Okay
-Notiz: ''
 Beispielsatz: 「五時ごろに来て。」「オーケー。じゃ、五時に。」
 Beispielsatz-Lesung: 「五 時[じ]ごろに 来[き]て。」「オーケー。じゃ、五 時[じ]に。」
 Beispielsatz-Übersetzung: „Komm gegen 5 Uhr.“ „OK. Bis dann.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

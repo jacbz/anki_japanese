@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kreis, Ring; Schleife
-Notiz: ''
 Beispielsatz: 輪になって座りましょう。
 Beispielsatz-Lesung: 輪[わ]になって 座[すわ]りましょう。
 Beispielsatz-Übersetzung: Lasst uns in einem Kreis sitzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ei
-Notiz: ''
 Beispielsatz: 卵を割ってボウルに入れてね。
 Beispielsatz-Lesung: 卵[たまご]を 割[わ]ってボウルに 入[い]れてね。
 Beispielsatz-Übersetzung: Schlage einige Eier in die Schüssel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

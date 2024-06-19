@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menge, Volumen, Betrag
-Notiz: ''
 Beispielsatz: 最近ごみの量が増えた。
 Beispielsatz-Lesung: 最近[さいきん]ごみの 量[りょう]が 増[ふ]えた。
 Beispielsatz-Übersetzung: Die Menge an Müll hat in letzter Zeit zugenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

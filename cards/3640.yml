@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in Reichweite, bei sich
-Notiz: ''
 Beispielsatz: お手元の資料をご覧ください。
 Beispielsatz-Lesung: お 手元[てもと]の 資料[しりょう]をご 覧[らん]ください。
 Beispielsatz-Übersetzung: Bitte schauen Sie sich Ihre Unterlagen an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

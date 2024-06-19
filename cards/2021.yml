@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: im Gegenteil, eher
-Notiz: ''
 Beispielsatz: タクシーで行ったらかえって時間がかかってしまった。
 Beispielsatz-Lesung: タクシーで 行[おこな]ったらかえって 時間[じかん]がかかってしまった。
 Beispielsatz-Übersetzung: Ich bin mit dem Taxi gefahren, aber im Gegenteil hat es
   länger gedauert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

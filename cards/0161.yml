@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: etwa; Ausmaß
-Notiz: ''
 Beispielsatz: 一時間ほどで戻ります。
 Beispielsatz-Lesung: 一時[いちじ] 間[ま]ほどで 戻[もど]ります。
 Beispielsatz-Übersetzung: Ich bin in einer Stunde oder so wieder da.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

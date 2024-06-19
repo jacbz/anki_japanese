@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mathematik
-Notiz: ''
 Beispielsatz: 私は数学が苦手です。
 Beispielsatz-Lesung: 私[わたし]は 数学[すうがく]が 苦手[にがて]です。
 Beispielsatz-Übersetzung: Ich bin sehr schlecht in Mathematik.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

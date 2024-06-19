@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geldbetrag
-Notiz: ''
 Beispielsatz: 金額を確認してここにサインしてください。
 Beispielsatz-Lesung: 金額[きんがく]を 確認[かくにん]してここにサインしてください。
 Beispielsatz-Übersetzung: Bitte überprüfen Sie den Geldbetrag und unterschreiben Sie
   hier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

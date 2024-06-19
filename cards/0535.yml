@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei
-Notiz: ''
 Beispielsatz: オレンジが三つあります。
 Beispielsatz-Lesung: オレンジが 三[みっ]つあります。
 Beispielsatz-Übersetzung: Es gibt drei Orangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zu dieser Zeit
-Notiz: ''
 Beispielsatz: 桜は毎年今頃咲く。
 Beispielsatz-Lesung: 桜[さくら]は 毎年[まいとし] 今頃[いまごろ] 咲[さ]く。
 Beispielsatz-Übersetzung: Die Kirschblüten blühen jedes Jahr um diese Zeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

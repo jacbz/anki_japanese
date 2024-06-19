@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein Monat
-Notiz: ''
 Beispielsatz: 一ヶ月で外国語を習得するのは不可能だ。
 Beispielsatz-Lesung: 一ヶ月[いっかげつ]で 外国語[がいこくご]を 習得[しゅうとく]するのは 不可能[ふかのう]だ。
 Beispielsatz-Übersetzung: Es ist unmöglich, in einem Monat eine Fremdsprache zu beherrschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

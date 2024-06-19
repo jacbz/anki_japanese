@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Theatergruppe
-Notiz: ''
 Beispielsatz: 私は劇団に所属している。
 Beispielsatz-Lesung: 私[わたし]は 劇団[げきだん]に 所属[しょぞく]している。
 Beispielsatz-Übersetzung: Ich bin Mitglied der Theatergruppe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

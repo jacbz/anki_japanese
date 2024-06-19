@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rahmen
-Notiz: ''
 Beispielsatz: この家の窓枠は白く塗ってある。
 Beispielsatz-Lesung: この 家[いえ]の 窓[まど] 枠[わく]は 白[しろ]く 塗[ぬ]ってある。
 Beispielsatz-Übersetzung: Die Fensterrahmen dieses Hauses sind weiß gestrichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

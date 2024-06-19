@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: System
-Notiz: ''
 Beispielsatz: 多くの会社がその新しいシステムを導入している。
 Beispielsatz-Lesung: 多[おお]くの 会社[かいしゃ]がその 新[あたら]しいシステムを 導入[どうにゅう]している。
 Beispielsatz-Übersetzung: Viele Unternehmen haben das neue System eingeführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

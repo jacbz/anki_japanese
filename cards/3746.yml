@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: rechte Seite
-Notiz: ''
 Beispielsatz: この国では、車は右側を走る。
 Beispielsatz-Lesung: この 国[くに]では、 車[くるま]は 右側[みぎがわ]を 走[はし]る。
 Beispielsatz-Übersetzung: Fahrzeuge fahren in diesem Land auf der rechten Seite.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

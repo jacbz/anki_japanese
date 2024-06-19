@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Prinzip
-Notiz: ''
 Beispielsatz: 彼はてこの原理を使って石を動かした。
 Beispielsatz-Lesung: 彼[かれ]はてこの 原理[げんり]を 使[つか]って 石[いし]を 動[うご]かした。
 Beispielsatz-Übersetzung: Er bewegte den Stein mit Hilfe des Hebels nach dem Prinzip.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

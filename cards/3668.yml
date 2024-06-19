@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schwert
-Notiz: ''
 Beispielsatz: ペンは剣よりも強し。
 Beispielsatz-Lesung: ペンは 剣[けん]よりも 強[つよ]し。
 Beispielsatz-Übersetzung: Der Stift ist mächtiger als das Schwert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

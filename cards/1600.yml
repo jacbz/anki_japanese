@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Standard
-Notiz: ''
 Beispielsatz: この建物は安全基準を満たしている。
 Beispielsatz-Lesung: この 建物[たてもの]は 安全基準[あんぜんきじゅん]を 満[み]たしている。
 Beispielsatz-Übersetzung: Dieses Gebäude erfüllt die Sicherheitsstandards.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

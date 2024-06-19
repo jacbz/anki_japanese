@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: tatsächliche Situation
-Notiz: ''
 Beispielsatz: その機関の実態を知ったら、驚くだろう。
 Beispielsatz-Lesung: その 機関[きかん]の 実態[じったい]を 知[し]ったら、 驚[おどろ]くだろう。
 Beispielsatz-Übersetzung: Du würdest überrascht sein, wenn du die tatsächliche Situation
   der Organisation kennen würdest.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Unterricht
-Notiz: ''
 Beispielsatz: 授業は九時から始まる。
 Beispielsatz-Lesung: 授業[じゅぎょう]は 九時[くじ]から 始[はじ]まる。
 Beispielsatz-Übersetzung: Der Unterricht beginnt um 9 Uhr morgens.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

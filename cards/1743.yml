@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lehrer/in
-Notiz: ''
 Beispielsatz: 母は小学校の教師です。
 Beispielsatz-Lesung: 母[はは]は 小学校[しょうがっこう]の 教師[きょうし]です。
 Beispielsatz-Übersetzung: Meine Mutter ist Grundschullehrerin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

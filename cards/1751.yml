@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Musikinstrument
-Notiz: ''
 Beispielsatz: 何か楽器をやってる？
 Beispielsatz-Lesung: 何[なに]か 楽器[がっき]をやってる？
 Beispielsatz-Übersetzung: Spielst du ein Instrument?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

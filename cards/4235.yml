@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: im Körper
-Notiz: ''
 Beispielsatz: マラソン選手は体内にエネルギーを蓄えている。
 Beispielsatz-Lesung: マラソン 選手[せんしゅ]は 体内[たいない]にエネルギーを 蓄[たくわ]えている。
 Beispielsatz-Übersetzung: Die Marathonläufer speichern Energie im Körper.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

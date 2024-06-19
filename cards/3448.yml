@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sapporo (Ortsname)
-Notiz: ''
 Beispielsatz: 来月、札幌へ雪まつりを見に行くつもりだ。
 Beispielsatz-Lesung: 来月[らいげつ]、 札幌[さっぽろ]へ 雪[ゆき]まつりを 見[み]に 行[い]くつもりだ。
 Beispielsatz-Übersetzung: Ich werde nächsten Monat nach Sapporo fahren, um das Schneefestival
   zu besuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

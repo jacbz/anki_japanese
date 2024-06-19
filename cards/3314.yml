@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Idee
-Notiz: ''
 Beispielsatz: いいアイデアがなかなか浮かばない。
 Beispielsatz-Lesung: いいアイデアがなかなか 浮[う]かばない。
 Beispielsatz-Übersetzung: Mir fällt nicht so leicht eine gute Idee ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

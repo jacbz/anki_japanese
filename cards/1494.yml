@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dritter (Datum); drei Tage
-Notiz: ''
 Beispielsatz: 三日続けて雨が降った。
 Beispielsatz-Lesung: 三 日[にち] 続[つづ]けて 雨[あめ]が 降[ふ]った。
 Beispielsatz-Übersetzung: Es hat drei Tage lang ununterbrochen geregnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

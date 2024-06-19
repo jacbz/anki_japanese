@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufhängen; fischen
-Notiz: ''
 Beispielsatz: 彼は首をつって自殺した。
 Beispielsatz-Lesung: 彼[かれ]は 首[くび]をつって 自殺[じさつ]した。
 Beispielsatz-Übersetzung: Er hat sich aufgehängt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

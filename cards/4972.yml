@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zivilrecht
-Notiz: ''
 Beispielsatz: 民法を学ぶ。
 Beispielsatz-Lesung: 民法[みんぽう]を 学[まな]ぶ。
 Beispielsatz-Übersetzung: Ich studiere Zivilrecht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

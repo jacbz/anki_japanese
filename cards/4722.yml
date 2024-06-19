@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Brunnen
-Notiz: ''
 Beispielsatz: 井戸の水を汲んできてください。
 Beispielsatz-Lesung: 井戸[いど]の 水[みず]を 汲[く]んできてください。
 Beispielsatz-Übersetzung: Bitte komm und hol Wasser aus dem Brunnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

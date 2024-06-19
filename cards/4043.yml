@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: hauptsächlich, wesentlich, wichtig
-Notiz: ''
 Beispielsatz: 肝心なことはすぐにそれを実行することだ。
 Beispielsatz-Lesung: 肝心[かんじん]なことはすぐにそれを 実行[じっこう]することだ。
 Beispielsatz-Übersetzung: Das Wichtigste ist, dass du es sofort tust.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

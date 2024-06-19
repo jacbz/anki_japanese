@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erwärmen
-Notiz: ''
 Beispielsatz: 彼の夕食をレンジであたためた。
 Beispielsatz-Lesung: 彼[かれ]の 夕食[ゆうしょく]をレンジであたためた。
 Beispielsatz-Übersetzung: Ich habe sein Abendessen in der Mikrowelle erwärmt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

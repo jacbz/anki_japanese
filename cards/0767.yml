@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bewegung, Aktion
-Notiz: ''
 Beispielsatz: 星の動きを観察するのが仕事です。
 Beispielsatz-Lesung: 星[ほし]の 動[うご]きを 観察[かんさつ]するのが 仕事[しごと]です。
 Beispielsatz-Übersetzung: Meine Aufgabe ist es, die Bewegung der Sterne zu beobachten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

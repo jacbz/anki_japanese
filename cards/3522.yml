@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: brechen
-Notiz: ''
 Beispielsatz: 転んで足の骨が折れた。
 Beispielsatz-Lesung: 転[ころ]んで 足[あし]の 骨[ほね]が 折[お]れた。
 Beispielsatz-Übersetzung: Ich bin gestürzt und habe mir das Bein gebrochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

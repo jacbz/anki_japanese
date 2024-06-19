@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: elf Uhr
-Notiz: ''
 Beispielsatz: 十一時までに家に帰る必要がある。
 Beispielsatz-Lesung: 十一 時[じ]までに 家[いえ]に 帰[かえ]る 必要[ひつよう]がある。
 Beispielsatz-Übersetzung: Ich muss um elf Uhr zu Hause sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

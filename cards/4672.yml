@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Notlage, Schwierigkeit
-Notiz: ''
 Beispielsatz: 彼は入院する羽目になった。
 Beispielsatz-Lesung: 彼[かれ]は 入院[にゅういん]する 羽目[はめ]になった。
 Beispielsatz-Übersetzung: Er landete im Krankenhaus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lagerhaus, Speicher
-Notiz: ''
 Beispielsatz: 米は倉庫に貯蔵してある。
 Beispielsatz-Lesung: 米[べい]は 倉庫[そうこ]に 貯蔵[ちょぞう]してある。
 Beispielsatz-Übersetzung: Der Reis wird in Lagern aufbewahrt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

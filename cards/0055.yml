@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. disc.
 Definition: VERBOT
-Notiz: ''
 Beispielsatz: 動くな、手を挙げろ。
 Beispielsatz-Lesung: 動[うご]くな、 手[て]を 挙[あ]げろ。
 Beispielsatz-Übersetzung: Beweg dich nicht! Hände hoch!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

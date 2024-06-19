@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Krieger, Samurai
-Notiz: ''
 Beispielsatz: 彼は武士のような魂の持ち主だ。
 Beispielsatz-Lesung: 彼[かれ]は 武士[ぶし]のような 魂[たましい]の 持[も]ち 主[ぬし]だ。
 Beispielsatz-Übersetzung: Er hat einen Geist wie ein Samurai-Krieger.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zeigen
-Notiz: ''
 Beispielsatz: 大使はその大臣の提案に興味を示した。
 Beispielsatz-Lesung: 大使[たいし]はその 大臣[だいじん]の 提案[ていあん]に 興味[きょうみ]を 示[しめ]した。
 Beispielsatz-Übersetzung: Der Botschafter zeigte Interesse an dem Vorschlag des Ministers.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

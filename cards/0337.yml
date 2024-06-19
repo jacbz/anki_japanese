@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Name
-Notiz: ''
 Beispielsatz: 彼の名前が思い出せない。
 Beispielsatz-Lesung: 彼[かれ]の 名前[なまえ]が 思[おも]い 出[だ]せない。
 Beispielsatz-Übersetzung: Ich kann mich nicht an seinen Namen erinnern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

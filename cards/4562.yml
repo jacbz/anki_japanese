@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 2003 (Jahr)
-Notiz: ''
 Beispielsatz: 二千三年に大学を卒業した。
 Beispielsatz-Lesung: 二 千[せん]三 年[ねん]に 大学[だいがく]を 卒業[そつぎょう]した。
 Beispielsatz-Übersetzung: Ich habe im Jahr 2003 das Studium an der Universität abgeschlossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

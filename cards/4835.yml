@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweite Mal
-Notiz: ''
 Beispielsatz: 我々の訪英は二度目であった。
 Beispielsatz-Lesung: 我々[われわれ]の 訪英[ほうえい]は二 度目[どめ]であった。
 Beispielsatz-Übersetzung: Das war das zweite Mal, dass wir das Vereinigte Königreich
   besucht haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

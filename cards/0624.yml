@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Meinung, Idee
-Notiz: ''
 Beispielsatz: 自分の意見を言う。
 Beispielsatz-Lesung: 自分[じぶん]の 意見[いけん]を 言[い]う。
 Beispielsatz-Übersetzung: Ich äußere meine Meinung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

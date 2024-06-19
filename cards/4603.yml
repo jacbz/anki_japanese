@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: andere, andere Personen
-Notiz: ''
 Beispielsatz: 彼はいつも他者への心遣いを見せる。
 Beispielsatz-Lesung: 彼[かれ]はいつも 他者[たしゃ]への 心遣[こころずか]いを 見[み]せる。
 Beispielsatz-Übersetzung: Er zeigt immer Rücksichtnahme für andere.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

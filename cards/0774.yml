@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeit, Intervall; Raum
-Notiz: ''
 Beispielsatz: 約束の時間まで少し間がある。
 Beispielsatz-Lesung: 約束[やくそく]の 時間[じかん]まで 少[すこ]し 間[ま]がある。
 Beispielsatz-Übersetzung: Bis zum Termin ist noch ein wenig Zeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

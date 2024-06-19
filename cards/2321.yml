@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anordnen, vorbereiten
-Notiz: ''
 Beispielsatz: 生活必需品をそろえる。
 Beispielsatz-Lesung: 生活必需品[せいかつひつじゅひん]をそろえる。
 Beispielsatz-Übersetzung: Wir stellen tägliche Notwendigkeiten zur Verfügung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

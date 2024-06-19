@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Taxi
-Notiz: ''
 Beispielsatz: タクシーで病院に行った。
 Beispielsatz-Lesung: タクシーで 病院[びょういん]に 行[い]った。
 Beispielsatz-Übersetzung: Ich bin mit dem Taxi ins Krankenhaus gefahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

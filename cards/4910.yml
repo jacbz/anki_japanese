@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bowling
-Notiz: ''
 Beispielsatz: 日曜日にボーリングに行こう。
 Beispielsatz-Lesung: 日曜日[にちようび]にボーリングに 行[い]こう。
 Beispielsatz-Übersetzung: Lass uns am Sonntag Bowling spielen gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

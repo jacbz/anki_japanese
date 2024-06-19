@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Führung; Führer, Schild
-Notiz: ''
 Beispielsatz: 案内がわかりにくい。
 Beispielsatz-Lesung: 案内[あんない]がわかりにくい。
 Beispielsatz-Übersetzung: Die Führung ist nicht klar.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wille, Willenskraft
-Notiz: ''
 Beispielsatz: 彼は強い意志を持っている。
 Beispielsatz-Lesung: 彼[かれ]は 強[つよ]い 意志[いし]を 持[も]っている。
 Beispielsatz-Übersetzung: Er hat einen starken Willen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein Jahr
-Notiz: ''
 Beispielsatz: 一年が過ぎた。
 Beispielsatz-Lesung: 一 年[ねん]が 過[す]ぎた。
 Beispielsatz-Übersetzung: Ein Jahr ist vergangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

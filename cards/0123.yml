@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vor
-Notiz: ''
 Beispielsatz: 子供の前でそんな話はするべきではない。
 Beispielsatz-Lesung: 子供[こども]の 前[まえ]でそんな 話[はなし]はするべきではない。
 Beispielsatz-Übersetzung: Wir sollten vor Kindern nicht über solche Dinge sprechen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hindernis, Behinderung
-Notiz: ''
 Beispielsatz: 彼は障害を乗り越えて、夢を実現した。
 Beispielsatz-Lesung: 彼[かれ]は 障害[しょうがい]を 乗[の]り 越[こ]えて、 夢[ゆめ]を 実現[じつげん]した。
 Beispielsatz-Übersetzung: Er hat Schwierigkeiten überwunden und seinen Traum verwirklicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

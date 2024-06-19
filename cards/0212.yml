@@ -5,7 +5,9 @@ Alternative: 掛かる
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: es dauert; es kostet
-Notiz: intransitiv
 Beispielsatz: 子どもを育てるのにはお金がかかる。
 Beispielsatz-Lesung: 子[こ]どもを 育[そだ]てるのにはお 金[かね]がかかる。
 Beispielsatz-Übersetzung: Es kostet viel, Kinder aufzuziehen.
+
+# Notizen können HTML enthalten.            
+Notiz: intransitiv

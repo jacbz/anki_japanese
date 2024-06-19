@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadtzentrum, Innenstadt
-Notiz: ''
 Beispielsatz: 都心は家賃が高い。
 Beispielsatz-Lesung: 都心[としん]は 家賃[やちん]が 高[たか]い。
 Beispielsatz-Übersetzung: Die Mieten sind im Stadtzentrum teuer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

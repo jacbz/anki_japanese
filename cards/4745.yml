@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kampf, Streit, Wettbewerb
-Notiz: ''
 Beispielsatz: 二国間は経済問題で争いがあった。
 Beispielsatz-Lesung: 二国間[にこくかん]は 経済問題[けいざいもんだい]で 争[あらそ]いがあった。
 Beispielsatz-Übersetzung: Die beiden Nationen kämpften um wirtschaftliche Angelegenheiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

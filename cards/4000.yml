@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verraten
-Notiz: ''
 Beispielsatz: 彼女は彼の秘密を漏らした。
 Beispielsatz-Lesung: 彼女[かのじょ]は 彼[かれ]の 秘密[ひみつ]を 漏[も]らした。
 Beispielsatz-Übersetzung: Sie hat sein Geheimnis verraten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

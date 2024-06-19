@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kino
-Notiz: ''
 Beispielsatz: 映画館で新作映画を見た。
 Beispielsatz-Lesung: 映画館[えいがかん]で 新作[しんさく] 映画[えいが]を 見[み]た。
 Beispielsatz-Übersetzung: Ich habe im Kino einen neuen Film gesehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

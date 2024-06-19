@@ -5,7 +5,9 @@ Alternative: 頂く
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erhalten (bescheiden)
-Notiz: ''
 Beispielsatz: 読者から手紙を頂いた。
 Beispielsatz-Lesung: 読者[どくしゃ]から 手紙[てがみ]を 頂[いただ]いた。
 Beispielsatz-Übersetzung: Ich habe einen Brief von einem Leser erhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

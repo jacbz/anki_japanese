@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dritte
-Notiz: ''
 Beispielsatz: 三番目の兄は両親と一緒に住んでいる。
 Beispielsatz-Lesung: 三 番[ばん] 目[め]の 兄[あに]は 両親[りょうしん]と 一緒[いっしょ]に 住[す]んでいる。
 Beispielsatz-Übersetzung: Mein dritter älterer Bruder lebt mit meinen Eltern zusammen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

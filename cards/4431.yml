@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweiter Platz
-Notiz: ''
 Beispielsatz: 彼はマラソンで二位だった。
 Beispielsatz-Lesung: 彼[かれ]はマラソンで二 位[い]だった。
 Beispielsatz-Übersetzung: Er kam beim Marathon auf den zweiten Platz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

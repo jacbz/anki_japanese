@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: selbst wenn, auch wenn
-Notiz: ''
 Beispielsatz: 冗談にしてもそれはひどすぎる。
 Beispielsatz-Lesung: 冗談[じょうだん]にしてもそれはひどすぎる。
 Beispielsatz-Übersetzung: Selbst wenn es ein Witz ist, ist es zu viel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

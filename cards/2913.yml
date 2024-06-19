@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in der Stadt
-Notiz: ''
 Beispielsatz: 都内を散策する。
 Beispielsatz-Lesung: 都内[とない]を 散策[さんさく]する。
 Beispielsatz-Übersetzung: Wir spazieren durch die Stadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

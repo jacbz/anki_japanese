@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: so wie es ist
-Notiz: ''
 Beispielsatz: 眼鏡をかけたまま眠ってしまった。
 Beispielsatz-Lesung: 眼鏡[めがね]をかけたまま 眠[ねむ]ってしまった。
 Beispielsatz-Übersetzung: Ich habe mit meiner Brille geschlafen, ohne sie abzunehmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

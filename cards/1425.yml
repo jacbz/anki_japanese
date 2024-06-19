@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (ein Musikinstrument) spielen
-Notiz: ''
 Beispielsatz: 私はときどきピアノを弾く。
 Beispielsatz-Lesung: 私[わたし]はときどきピアノを 弾[ひ]く。
 Beispielsatz-Übersetzung: Ich spiele manchmal Klavier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

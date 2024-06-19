@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schloss
-Notiz: ''
 Beispielsatz: この城は江戸時代に築かれた。
 Beispielsatz-Lesung: この 城[しろ]は 江戸時代[えどじだい]に 築[きず]かれた。
 Beispielsatz-Übersetzung: Dieses Schloss wurde in der Edo-Zeit gebaut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

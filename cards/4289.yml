@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verbesserung
-Notiz: ''
 Beispielsatz: この機械は日々いろいろと改良されている。
 Beispielsatz-Lesung: この 機械[きかい]は 日々[ひび]いろいろと 改良[かいりょう]されている。
 Beispielsatz-Übersetzung: Diese Maschinen werden von Tag zu Tag auf verschiedene Weise
   verbessert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

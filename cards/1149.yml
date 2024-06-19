@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verlängern, ausdehnen; verschieben
-Notiz: ''
 Beispielsatz: 教師たちは生徒の個性を伸ばそうと努力している。
 Beispielsatz-Lesung: 教師[きょうし]たちは 生徒[せいと]の 個性[こせい]を 伸[の]ばそうと 努力[どりょく]している。
 Beispielsatz-Übersetzung: Die Lehrer bemühen sich, die Individualität ihrer Schüler
   zu fördern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

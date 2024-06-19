@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: viermal
-Notiz: ''
 Beispielsatz: 私は富士山に四回登った。
 Beispielsatz-Lesung: 私[わたし]は 富士山[ふじさん]に四 回[かい] 登[のぼ]った。
 Beispielsatz-Übersetzung: Ich bin viermal auf den Mount Fuji gestiegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

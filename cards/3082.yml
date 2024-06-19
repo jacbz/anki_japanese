@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Demokratische Volksrepublik Korea, Nordkorea
-Notiz: ''
 Beispielsatz: A氏は北朝鮮で生まれた。
 Beispielsatz-Lesung: A 氏[し]は 北朝鮮[きたちょうせん]で 生[う]まれた。
 Beispielsatz-Übersetzung: Herr A wurde in Nordkorea geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

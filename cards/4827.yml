@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: auch sein
-Notiz: ''
 Beispielsatz: 彼女は二児の母親でもある。
 Beispielsatz-Lesung: 彼女[かのじょ]は二 児[じ]の 母親[ははおや]でもある。
 Beispielsatz-Übersetzung: Sie ist auch Mutter von zwei Kindern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

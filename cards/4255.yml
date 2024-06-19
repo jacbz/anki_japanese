@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Versuch
-Notiz: ''
 Beispielsatz: 彼は三度目の試みで試験に合格した。
 Beispielsatz-Lesung: 彼[かれ]は三 度目[どめ]の 試[こころ]みで 試験[しけん]に 合格[ごうかく]した。
 Beispielsatz-Übersetzung: Er hat die Prüfung beim dritten Versuch bestanden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

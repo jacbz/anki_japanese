@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: auslaufen, entweichen; ausgelassen werden
-Notiz: ''
 Beispielsatz: おわんの底から水が漏れている。
 Beispielsatz-Lesung: おわんの 底[そこ]から 水[みず]が 漏[も]れている。
 Beispielsatz-Übersetzung: Wasser läuft aus dem Boden der Suppenschüssel aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei Monate
-Notiz: ''
 Beispielsatz: 日本に来てから三ヶ月が過ぎた。
 Beispielsatz-Lesung: 日本[にっぽん]に 来[き]てから三 ヶ月[かげつ]が 過[す]ぎた。
 Beispielsatz-Übersetzung: Drei Monate sind vergangen, seit ich nach Japan gekommen
   bin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Küche
-Notiz: ''
 Beispielsatz: 母は台所にいます。
 Beispielsatz-Lesung: 母[はは]は 台所[だいどころ]にいます。
 Beispielsatz-Übersetzung: Meine Mutter ist in der Küche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

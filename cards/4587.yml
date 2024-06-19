@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nationalstraße
-Notiz: ''
 Beispielsatz: 国道沿いに大型スーパーが出店した。
 Beispielsatz-Lesung: 国道[こくどう] 沿[ぞ]いに 大型[おおがた]スーパーが 出店[しゅってん]した。
 Beispielsatz-Übersetzung: Entlang der Nationalstraßen haben große Supermärkte eröffnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

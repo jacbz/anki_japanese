@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schinken
-Notiz: ''
 Beispielsatz: ハムのサラダを作った。
 Beispielsatz-Lesung: ハムのサラダを 作[つく]った。
 Beispielsatz-Übersetzung: Ich habe einen Schinkensalat gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

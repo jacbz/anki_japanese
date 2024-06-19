@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dieses
-Notiz: ''
 Beispielsatz: これをください。(レストランや店で）
 Beispielsatz-Lesung: これをください。(レストランや 店[みせ]で）
 Beispielsatz-Übersetzung: Ich werde dieses nehmen. (in einem Restaurant oder Geschäft)
+
+# Notizen können HTML enthalten.            
+Notiz: ''

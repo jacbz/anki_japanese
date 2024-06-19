@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., na-adj.
 Definition: verrückt nach, besessen von
-Notiz: ''
 Beispielsatz: 彼は今日本のアニメに夢中だ。
 Beispielsatz-Lesung: 彼[かれ]は 今[こん] 日本[にっぽん]のアニメに 夢中[むちゅう]だ。
 Beispielsatz-Übersetzung: Jetzt ist er verrückt nach japanischer Animation.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

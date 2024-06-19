@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Handlung
-Notiz: ''
 Beispielsatz: この映画のストーリーを簡単に教えてください。
 Beispielsatz-Lesung: この 映画[えいが]のストーリーを 簡単[かんたん]に 教[おし]えてください。
 Beispielsatz-Übersetzung: Erzählen Sie mir kurz die Geschichte dieses Films.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

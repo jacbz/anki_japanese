@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeitpunkt, Stand
-Notiz: ''
 Beispielsatz: 今年三月の時点でこれが世界で最も高い建物です。
 Beispielsatz-Lesung: 今年[ことし] 三月[さんがつ]の 時点[じてん]でこれが 世界[せかい]で 最[もっと]も 高[たか]い 建物[たてもの]です。
 Beispielsatz-Übersetzung: Seit März dieses Jahres ist es das höchste Gebäude der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

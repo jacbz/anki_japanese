@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ich selbst, mein eigenes
-Notiz: ''
 Beispielsatz: これは私自身の問題です。
 Beispielsatz-Lesung: これは 私自身[わたくしじしん]の 問題[もんだい]です。
 Beispielsatz-Übersetzung: Das ist mein eigenes Problem.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

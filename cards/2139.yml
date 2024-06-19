@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lippe
-Notiz: ''
 Beispielsatz: 寒くて唇が青くなった。
 Beispielsatz-Lesung: 寒[さむ]くて 唇[くちびる]が 青[あお]くなった。
 Beispielsatz-Übersetzung: Es war so kalt, dass meine Lippen blau wurden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

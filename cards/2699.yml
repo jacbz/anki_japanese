@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überprüfen, noch einmal durchsehen
-Notiz: ''
 Beispielsatz: もう一度丁寧に見直してください。
 Beispielsatz-Lesung: もう 一度[いちど] 丁寧[ていねい]に 見直[みなお]してください。
 Beispielsatz-Übersetzung: Bitte überprüfen Sie es noch einmal sorgfältig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

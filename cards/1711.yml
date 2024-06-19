@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überlegen sein
-Notiz: ''
 Beispielsatz: 肉体的強さという点で男性は女性より優れている。
 Beispielsatz-Lesung: 肉体的[にくたいてき] 強[つよ]さという 点[てん]で 男性[だんせい]は 女性[じょせい]より 優[すぐ]れている。
 Beispielsatz-Übersetzung: Männer sind Frauen in Bezug auf ihre Körperkraft überlegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nächster Tag
-Notiz: ''
 Beispielsatz: カメラを買ったが、その翌日になくしてしまった。
 Beispielsatz-Lesung: カメラを 買[か]ったが、その 翌日[よくじつ]になくしてしまった。
 Beispielsatz-Übersetzung: Ich habe eine Kamera gekauft, die ich aber am nächsten Tag
   verloren habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

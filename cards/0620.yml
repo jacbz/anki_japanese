@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: früher, ehemals
-Notiz: ''
 Beispielsatz: 以前、ここに来たことがあります。
 Beispielsatz-Lesung: 以前[いぜん]、ここに 来[き]たことがあります。
 Beispielsatz-Übersetzung: Ich war früher schon einmal hier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

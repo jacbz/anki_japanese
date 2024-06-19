@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweiter Sohn
-Notiz: ''
 Beispielsatz: 彼は次男だ。
 Beispielsatz-Lesung: 彼[かれ]は 次男[じなん]だ。
 Beispielsatz-Übersetzung: Er ist der zweite Sohn der Familie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

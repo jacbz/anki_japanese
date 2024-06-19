@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: unvernünftig, unmöglich
-Notiz: ''
 Beispielsatz: 全ての仕事を一人でするのは無理だ。
 Beispielsatz-Lesung: 全[すべ]ての 仕事[しごと]を一人でするのは 無理[むり]だ。
 Beispielsatz-Übersetzung: Es ist unmöglich, alle Arbeit alleine zu erledigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

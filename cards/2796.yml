@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Spielen
-Notiz: ''
 Beispielsatz: 彼の素晴らしいプレーで、チームは優勝した。
 Beispielsatz-Lesung: 彼[かれ]の 素晴[すば]らしいプレーで、チームは 優勝[ゆうしょう]した。
 Beispielsatz-Übersetzung: Dank seines großartigen Spielens gewann sein Team die Meisterschaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zweck, Absicht, Punkt
-Notiz: ''
 Beispielsatz: 趣旨がよくわからなかった。
 Beispielsatz-Lesung: 趣旨[しゅし]がよくわからなかった。
 Beispielsatz-Übersetzung: Ich habe den Punkt nicht verstanden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

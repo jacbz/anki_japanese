@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. adv.
 Definition: ähnlich, ganz genauso; insgesamt
-Notiz: ''
 Beispielsatz: 彼女は母親にそっくりだ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 母親[ははおや]にそっくりだ。
 Beispielsatz-Übersetzung: Sie sieht ihrer Mutter ganz ähnlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

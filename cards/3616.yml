@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: das Beste; die Weste
-Notiz: ''
 Beispielsatz: 選手たちは皆ベストを尽くして戦った。
 Beispielsatz-Lesung: 選手[せんしゅ]たちは 皆[みな]ベストを 尽[つ]くして 戦[たたか]った。
 Beispielsatz-Übersetzung: Alle Athleten kämpften und gaben ihr Bestes.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

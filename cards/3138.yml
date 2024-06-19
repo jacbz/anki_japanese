@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ausziehen
-Notiz: ''
 Beispielsatz: ここで靴を脱いでください。
 Beispielsatz-Lesung: ここで 靴[くつ]を 脱[ぬ]いでください。
 Beispielsatz-Übersetzung: Bitte ziehen Sie hier Ihre Schuhe aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

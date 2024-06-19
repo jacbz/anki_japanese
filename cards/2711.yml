@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dort; jener Ort, da; jener
-Notiz: ''
 Beispielsatz: あちらの門へ行って下さい。
 Beispielsatz-Lesung: あちらの 門[もん]へ 行[い]って 下[くだ]さい。
 Beispielsatz-Übersetzung: Bitte gehen Sie zu jenem Tor.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

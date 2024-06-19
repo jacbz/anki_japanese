@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reihenfolge
-Notiz: ''
 Beispielsatz: 先着順にプレゼントがもらえる。
 Beispielsatz-Lesung: 先着順[せんちゃくじゅん]にプレゼントがもらえる。
 Beispielsatz-Übersetzung: Diese Geschenke werden in der Reihenfolge des Eingangs der
   Anträge vergeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

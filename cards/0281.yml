@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bleiben
-Notiz: intransitiv
 Beispielsatz: 仕事を終えるために一人でオフィスに残った。
 Beispielsatz-Lesung: 仕事[しごと]を 終[お]えるために一人でオフィスに 残[のこ]った。
 Beispielsatz-Übersetzung: Ich blieb allein im Büro, um die Arbeit zu beenden.
+
+# Notizen können HTML enthalten.            
+Notiz: intransitiv

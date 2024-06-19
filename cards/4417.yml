@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gleich
-Notiz: ''
 Beispielsatz: 実力ナンバーワンとチャンピオンはイコールではない。
 Beispielsatz-Lesung: 実力[じつりょく]ナンバーワンとチャンピオンはイコールではない。
 Beispielsatz-Übersetzung: Der beste Spieler zu sein bedeutet nicht immer, ein Champion
   zu sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

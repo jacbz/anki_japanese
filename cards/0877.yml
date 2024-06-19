@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: alte Dame; Großmutter
-Notiz: ''
 Beispielsatz: 困っているお婆さんを助けた。
 Beispielsatz-Lesung: 困[こま]っているお 婆[ばあ]さんを 助[たす]けた。
 Beispielsatz-Übersetzung: Ich habe einer alten Dame geholfen, die in Schwierigkeiten
   war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

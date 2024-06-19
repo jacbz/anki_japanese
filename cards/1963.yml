@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reis
-Notiz: ''
 Beispielsatz: この地方のお米はおいしい。
 Beispielsatz-Lesung: この 地方[ちほう]のお 米[こめ]はおいしい。
 Beispielsatz-Übersetzung: Der Reis aus dieser Region schmeckt großartig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: eine Weile
-Notiz: ''
 Beispielsatz: しばらく彼を待った。
 Beispielsatz-Lesung: しばらく 彼[かれ]を 待[ま]った。
 Beispielsatz-Übersetzung: Ich habe eine Weile auf ihn gewartet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

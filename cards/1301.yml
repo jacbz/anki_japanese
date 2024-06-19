@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: dünn, leicht, schwach
-Notiz: ''
 Beispielsatz: このコンピューターは雑誌のように薄い。
 Beispielsatz-Lesung: このコンピューターは 雑誌[ざっし]のように 薄[うす]い。
 Beispielsatz-Übersetzung: Dieser Computer ist so schlank wie eine Zeitschrift.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

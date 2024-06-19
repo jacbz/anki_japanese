@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hobby
-Notiz: ''
 Beispielsatz: 趣味で絵を描いています。
 Beispielsatz-Lesung: 趣味[しゅみ]で 絵[え]を 描[か]いています。
 Beispielsatz-Übersetzung: Ich male als Hobby.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

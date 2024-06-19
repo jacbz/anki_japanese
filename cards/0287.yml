@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: wir
-Notiz: ''
 Beispielsatz: 私達、結婚しました。
 Beispielsatz-Lesung: 私[わたし] 達[たち]、 結婚[けっこん]しました。
 Beispielsatz-Übersetzung: Wir haben geheiratet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: instabil, unsicher
-Notiz: ''
 Beispielsatz: 日本の経済は不安定な状態になった。
 Beispielsatz-Lesung: 日本[にっぽん]の 経済[けいざい]は 不安定[ふあんてい]な 状態[じょうたい]になった。
 Beispielsatz-Übersetzung: Die japanische Wirtschaft wurde instabil.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

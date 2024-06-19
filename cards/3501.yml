@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Protein
-Notiz: ''
 Beispielsatz: 良質なたんぱく質を摂りましょう。
 Beispielsatz-Lesung: 良質[りょうしつ]なたんぱく 質[しつ]を 摂[と]りましょう。
 Beispielsatz-Übersetzung: Nehmen Sie hochwertiges Protein zu sich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

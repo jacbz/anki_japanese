@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: japanisches Bett
-Notiz: ''
 Beispielsatz: 布団に寝るのは心地好い。
 Beispielsatz-Lesung: 布団[ふとん]に 寝[ね]るのは 心地好[ここちよ]い。
 Beispielsatz-Übersetzung: Es ist angenehm, auf einem Futon zu schlafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

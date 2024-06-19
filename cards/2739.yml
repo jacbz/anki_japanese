@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gen
-Notiz: ''
 Beispielsatz: 彼は遺伝子交換について調べている。
 Beispielsatz-Lesung: 彼[かれ]は 遺伝子[いでんし] 交換[こうかん]について 調[しら]べている。
 Beispielsatz-Übersetzung: Er erforscht den Genaustausch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

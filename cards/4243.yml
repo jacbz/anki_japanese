@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Alter
-Notiz: ''
 Beispielsatz: 老後は気楽に過ごしたいです。
 Beispielsatz-Lesung: 老後[ろうご]は 気楽[きらく]に 過[す]ごしたいです。
 Beispielsatz-Übersetzung: Ich möchte im Alter bequem leben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

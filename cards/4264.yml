@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Saft
-Notiz: ''
 Beispielsatz: そのジュースは少し酸っぱいです。
 Beispielsatz-Lesung: そのジュースは 少[すこ]し 酸[す]っぱいです。
 Beispielsatz-Übersetzung: Dieser Saft schmeckt ein wenig sauer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

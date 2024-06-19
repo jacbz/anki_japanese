@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: außerdem, darüber hinaus
-Notiz: ''
 Beispielsatz: その店の料理はおいしいし、しかも、安い。
 Beispielsatz-Lesung: その 店[みせ]の 料理[りょうり]はおいしいし、しかも、 安[やす]い。
 Beispielsatz-Übersetzung: Das Essen im Restaurant ist lecker; außerdem ist es günstig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

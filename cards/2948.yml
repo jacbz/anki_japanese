@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dieser Typ; dieses Ding
-Notiz: ''
 Beispielsatz: こいつは駄目だ。
 Beispielsatz-Lesung: こいつは 駄目[だめ]だ。
 Beispielsatz-Übersetzung: Dieser Kerl ist nicht gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

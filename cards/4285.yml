@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünftausend Yen
-Notiz: ''
 Beispielsatz: 友達の誕生日に五千円のプレゼントを買った。
 Beispielsatz-Lesung: 友達[ともだち]の 誕生日[たんじょうび]に五 千[せん] 円[えん]のプレゼントを 買[か]った。
 Beispielsatz-Übersetzung: Ich habe für den Geburtstag meines Freundes ein Geschenk
   für fünftausend Yen gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

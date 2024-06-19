@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mord
-Notiz: ''
 Beispielsatz: 彼は殺人の罪で起訴された。
 Beispielsatz-Lesung: 彼[かれ]は 殺人[さつじん]の 罪[つみ]で 起訴[きそ]された。
 Beispielsatz-Übersetzung: Er wurde wegen Mordes angeklagt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: berühren
-Notiz: ''
 Beispielsatz: 絵に触らないでください。
 Beispielsatz-Lesung: 絵[え]に 触[さわ]らないでください。
 Beispielsatz-Übersetzung: Bitte berühren Sie die Gemälde nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

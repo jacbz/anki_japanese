@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: und so weiter, etc.
-Notiz: ''
 Beispielsatz: 警察官は私の名前や年齢などを尋ねた。
 Beispielsatz-Lesung: 警察官[けいさつかん]は 私[わたし]の 名前[なまえ]や 年齢[ねんれい]などを 尋[たず]ねた。
 Beispielsatz-Übersetzung: Der Polizist fragte mich nach meinem Namen, Alter und so
   weiter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

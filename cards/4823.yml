@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: NEGATION (Dialekt)
-Notiz: ''
 Beispielsatz: お好み焼き食べへん。
 Beispielsatz-Lesung: お 好[この]み 焼[や]き 食[た]べへん。
 Beispielsatz-Übersetzung: Ich werde kein Okonomiyaki essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

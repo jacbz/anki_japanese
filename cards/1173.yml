@@ -5,7 +5,9 @@ Alternative: 嘘
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lüge, Falschheit
-Notiz: ''
 Beispielsatz: 彼女は両親にうそをついて出かけた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 両親[りょうしん]にうそをついて 出[で]かけた。
 Beispielsatz-Übersetzung: Sie hat ihre Eltern angelogen und ist ausgegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: rot
-Notiz: ''
 Beispielsatz: 彼女は寝不足で赤い目をしていた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 寝不足[ねぶそく]で 赤[あか]い 目[め]をしていた。
 Beispielsatz-Übersetzung: Sie hatte aufgrund von Schlafmangel rote Augen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

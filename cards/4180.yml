@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gegenwärtig, aktuell; vorübergehend
-Notiz: ''
 Beispielsatz: 当面の問題は失業についてです。
 Beispielsatz-Lesung: 当面[とうめん]の 問題[もんだい]は 失業[しつぎょう]についてです。
 Beispielsatz-Übersetzung: Das aktuelle Problem betrifft die Arbeitslosigkeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

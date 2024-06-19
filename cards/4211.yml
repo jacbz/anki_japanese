@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nummer
-Notiz: ''
 Beispielsatz: ひき逃げの車のナンバーを書き留めた。
 Beispielsatz-Lesung: ひき 逃[に]げの 車[くるま]のナンバーを 書[か]き 留[と]めた。
 Beispielsatz-Übersetzung: Ich habe die Nummer des Wagens des flüchtigen Fahrers notiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

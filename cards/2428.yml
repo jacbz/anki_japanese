@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Camping
-Notiz: ''
 Beispielsatz: キャンプ場でバーベキューをする。
 Beispielsatz-Lesung: キャンプ 場[じょう]でバーベキューをする。
 Beispielsatz-Übersetzung: Wir werden auf einem Campingplatz grillen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

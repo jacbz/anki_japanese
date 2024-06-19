@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: flach
-Notiz: ''
 Beispielsatz: 平らな道を自転車で走った。
 Beispielsatz-Lesung: 平[たい]らな 道[みち]を 自転車[じてんしゃ]で 走[はし]った。
 Beispielsatz-Übersetzung: Ich bin auf einer flachen Straße Fahrrad gefahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

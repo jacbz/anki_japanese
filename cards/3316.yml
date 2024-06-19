@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vietnam
-Notiz: ''
 Beispielsatz: おいしいベトナム料理を食べました。
 Beispielsatz-Lesung: おいしいベトナム 料理[りょうり]を 食[た]べました。
 Beispielsatz-Übersetzung: Ich habe leckeres vietnamesisches Essen gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: mehr, besser
-Notiz: ''
 Beispielsatz: より充実した人生を送りたい。
 Beispielsatz-Lesung: より 充実[じゅうじつ]した 人生[じんせい]を 送[おく]りたい。
 Beispielsatz-Übersetzung: Ich möchte das Leben mehr auskosten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

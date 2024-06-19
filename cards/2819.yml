@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: Ernsthaftigkeit, Ernst; ernsthaft, ernst
-Notiz: ''
 Beispielsatz: 私は本気です。
 Beispielsatz-Lesung: 私[わたし]は 本気[ほんき]です。
 Beispielsatz-Übersetzung: Ich bin ernst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

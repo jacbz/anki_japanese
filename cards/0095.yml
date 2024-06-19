@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wie, was
-Notiz: ''
 Beispielsatz: 彼をどう思いますか。
 Beispielsatz-Lesung: 彼[かれ]をどう 思[おも]いますか。
 Beispielsatz-Übersetzung: Wie denken Sie über ihn?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

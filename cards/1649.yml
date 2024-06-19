@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: weglegen
-Notiz: ''
 Beispielsatz: お皿を食器棚にしまった。
 Beispielsatz-Lesung: お 皿[さら]を 食器棚[しょっきだな]にしまった。
 Beispielsatz-Übersetzung: Ich habe die Teller im Schrank weggelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

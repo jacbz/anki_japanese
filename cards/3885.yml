@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Veränderung
-Notiz: ''
 Beispielsatz: 「お変わりありませんね」
 Beispielsatz-Lesung: 「お 変[か]わりありませんね」
 Beispielsatz-Übersetzung: 'Mir wurde gesagt: „Du hast dich nicht viel verändert.“'
+
+# Notizen können HTML enthalten.            
+Notiz: ''

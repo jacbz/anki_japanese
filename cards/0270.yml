@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: zu, gegenüber; für; gegen
-Notiz: ''
 Beispielsatz: 彼は誰に対しても優しい。
 Beispielsatz-Lesung: 彼[かれ]は 誰[だれ]に 対[たい]しても 優[やさ]しい。
 Beispielsatz-Übersetzung: Er ist zu jedem freundlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

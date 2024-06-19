@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: August
-Notiz: ''
 Beispielsatz: お盆は八月十三日から十六日までです。
 Beispielsatz-Lesung: お 盆[ぼん]は 八月[はちがつ]十三 日[にち]から十六 日[にち]までです。
 Beispielsatz-Übersetzung: Das Bon-Fest findet vom 13. bis 16. August statt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

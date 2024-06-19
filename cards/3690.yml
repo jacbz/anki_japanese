@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: wichtige Angelegenheit; Anforderung
-Notiz: ''
 Beispielsatz: 次の要件を満たした方のみ、応募できます。
 Beispielsatz-Lesung: 次[つぎ]の 要件[ようけん]を 満[み]たした 方[ほう]のみ、 応募[おうぼ]できます。
 Beispielsatz-Übersetzung: Nur wer die folgenden Voraussetzungen erfüllt, kann sich
   bewerben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

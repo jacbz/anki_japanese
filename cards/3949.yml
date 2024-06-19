@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verlangen, Leidenschaft
-Notiz: ''
 Beispielsatz: 彼は欲望をコントロールすることができなかった。
 Beispielsatz-Lesung: 彼[かれ]は 欲望[よくぼう]をコントロールすることができなかった。
 Beispielsatz-Übersetzung: Er konnte seine Leidenschaft nicht kontrollieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

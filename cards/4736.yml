@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schweinefleisch
-Notiz: ''
 Beispielsatz: 豚肉より鶏肉が好きです。
 Beispielsatz-Lesung: 豚肉[ぶたにく]より 鶏肉[けいにく]が 好[す]きです。
 Beispielsatz-Übersetzung: Ich mag Schweinefleisch lieber als Hühnchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

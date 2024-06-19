@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: so ein(e)
-Notiz: ''
 Beispielsatz: 私もあんな車がほしいなあ。
 Beispielsatz-Lesung: 私[わたし]もあんな 車[くるま]がほしいなあ。
 Beispielsatz-Übersetzung: Ich möchte auch so ein Auto haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

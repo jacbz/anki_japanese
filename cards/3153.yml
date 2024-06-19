@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: hundert Prozent
-Notiz: ''
 Beispielsatz: 果汁100パーセントのジュースを飲む。
 Beispielsatz-Lesung: 果汁[かじゅう]100パーセントのジュースを 飲[の]む。
 Beispielsatz-Übersetzung: Ich trinke 100 Prozent Fruchtsaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

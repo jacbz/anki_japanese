@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: frühzeitig
-Notiz: ''
 Beispielsatz: 少し早めに夕食の準備をした。
 Beispielsatz-Lesung: 少[すこ]し 早[はや]めに 夕食[ゆうしょく]の 準備[じゅんび]をした。
 Beispielsatz-Übersetzung: Ich habe das Abendessen etwas früher als gewöhnlich vorbereitet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

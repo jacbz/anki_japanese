@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ingwer
-Notiz: ''
 Beispielsatz: 紅茶に生姜を入れて飲んだ。
 Beispielsatz-Lesung: 紅茶[こうちゃ]に 生姜[しょうが]を 入[い]れて 飲[の]んだ。
 Beispielsatz-Übersetzung: Ich habe Tee mit Ingwer getrunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

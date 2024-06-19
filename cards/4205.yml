@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zentrum
-Notiz: ''
 Beispielsatz: 私は今、国際交流のセンターで働いています。
 Beispielsatz-Lesung: 私[わたし]は 今[いま]、 国際交流[こくさいこうりゅう]のセンターで 働[はたら]いています。
 Beispielsatz-Übersetzung: Ich arbeite jetzt im Zentrum für internationalen Austausch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

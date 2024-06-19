@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gleise, Eisenbahn
-Notiz: ''
 Beispielsatz: 線路に入るな。
 Beispielsatz-Lesung: 線路[せんろ]に 入[はい]るな。
 Beispielsatz-Übersetzung: Betreten Sie die Gleise nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

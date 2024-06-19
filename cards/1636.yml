@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Besprechung, Versammlung
-Notiz: ''
 Beispielsatz: 彼女はその会に出席した。
 Beispielsatz-Lesung: 彼女[かのじょ]はその 会[かい]に 出席[しゅっせき]した。
 Beispielsatz-Übersetzung: Sie nahm an der Besprechung teil.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

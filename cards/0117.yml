@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: während
-Notiz: ''
 Beispielsatz: コーヒーでも飲みながら話しましょう。
 Beispielsatz-Lesung: コーヒーでも 飲[の]みながら 話[はな]しましょう。
 Beispielsatz-Übersetzung: Lass uns während einer Tasse Kaffee reden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reisfeld
-Notiz: ''
 Beispielsatz: うちは田んぼに囲まれている。
 Beispielsatz-Lesung: うちは 田[た]んぼに 囲[かこ]まれている。
 Beispielsatz-Übersetzung: Mein Haus ist von Reisfeldern umgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

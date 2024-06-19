@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: eigen, selbstständig
-Notiz: ''
 Beispielsatz: 独自の方法で英語を勉強する。
 Beispielsatz-Lesung: 独自[どくじ]の 方法[ほうほう]で 英語[えいご]を 勉強[べんきょう]する。
 Beispielsatz-Übersetzung: Ich lerne Englisch auf meine eigene Art und Weise.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

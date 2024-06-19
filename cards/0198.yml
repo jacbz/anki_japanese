@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: '[eine Gefälligkeit erhalten]'
-Notiz: ''
 Beispielsatz: 知り合いに仕事を紹介してもらった。
 Beispielsatz-Lesung: 知[し]り 合[あ]いに 仕事[しごと]を 紹介[しょうかい]してもらった。
 Beispielsatz-Übersetzung: Mein Freund hat mir von dem Job erzählt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

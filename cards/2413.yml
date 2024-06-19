@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Programm
-Notiz: ''
 Beispielsatz: 新しいプログラムをダウンロードした。
 Beispielsatz-Lesung: 新[あたら]しいプログラムをダウンロードした。
 Beispielsatz-Übersetzung: Ich habe ein neues Programm heruntergeladen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

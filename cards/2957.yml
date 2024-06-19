@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bezeichnen; vorgeben
-Notiz: ''
 Beispielsatz: 彼は関係者と称して、立入禁止区域に入っていった。
 Beispielsatz-Lesung: 彼[かれ]は 関係者[かんけいしゃ]と 称[しょう]して、 立入禁止[たちいりきんし] 区域[くいき]に 入[はい]っていった。
 Beispielsatz-Übersetzung: Er gab vor, ein Mitarbeiter zu sein und gelangte in den
   gesperrten Bereich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

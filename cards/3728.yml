@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wohlfahrt
-Notiz: ''
 Beispielsatz: 長引く不況のため福祉の予算が削減された。
 Beispielsatz-Lesung: 長引[ながび]く 不況[ふきょう]のため 福祉[ふくし]の 予算[よさん]が 削減[さくげん]された。
 Beispielsatz-Übersetzung: Die Mittel für die Sozialhilfe wurden aufgrund der anhaltenden
   Rezession gekürzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

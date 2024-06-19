@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: repräsentativ, typisch
-Notiz: ''
 Beispielsatz: トマトは代表的な夏野菜だ。
 Beispielsatz-Lesung: トマトは 代表的[だいひょうてき]な 夏[なつ] 野菜[やさい]だ。
 Beispielsatz-Übersetzung: Tomaten sind typische Sommergemüse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

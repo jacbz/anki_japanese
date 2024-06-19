@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Politik
-Notiz: ''
 Beispielsatz: 彼は政治に興味がなかった。
 Beispielsatz-Lesung: 彼[かれ]は 政治[せいじ]に 興味[きょうみ]がなかった。
 Beispielsatz-Übersetzung: Politik hat ihn nicht interessiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

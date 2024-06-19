@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: genießen
-Notiz: ''
 Beispielsatz: 休暇を楽しむつもりだ。
 Beispielsatz-Lesung: 休暇[きゅうか]を 楽[たの]しむつもりだ。
 Beispielsatz-Übersetzung: Ich werde meinen Urlaub genießen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hängen bleiben; erwischt werden
-Notiz: ''
 Beispielsatz: 彼はよく詐欺にひっかかる。
 Beispielsatz-Lesung: 彼[かれ]はよく 詐欺[さぎ]にひっかかる。
 Beispielsatz-Übersetzung: Er wird oft beim Betrug erwischt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

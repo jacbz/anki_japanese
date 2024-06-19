@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eingang, Haustür
-Notiz: ''
 Beispielsatz: 玄関の鍵がかかっている。
 Beispielsatz-Lesung: 玄関[げんかん]の 鍵[かぎ]がかかっている。
 Beispielsatz-Übersetzung: Die Haustür war verschlossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

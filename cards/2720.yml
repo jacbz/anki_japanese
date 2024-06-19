@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: obwohl
-Notiz: ''
 Beispielsatz: 祝日といっても、特に特別なことはない。
 Beispielsatz-Lesung: 祝日[しゅくじつ]といっても、 特[とく]に 特別[とくべつ]なことはない。
 Beispielsatz-Übersetzung: Obwohl es ein Feiertag ist, gibt es nichts Besonderes.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

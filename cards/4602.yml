@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: neueste, aktuellste
-Notiz: ''
 Beispielsatz: これが最新の髪型です。
 Beispielsatz-Lesung: これが 最新[さいしん]の 髪型[かみがた]です。
 Beispielsatz-Übersetzung: Das ist die neueste Frisur.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

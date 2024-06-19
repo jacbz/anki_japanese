@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich verspäten
-Notiz: ''
 Beispielsatz: 彼はよく学校に遅れる。
 Beispielsatz-Lesung: 彼[かれ]はよく 学校[がっこう]に 遅[おく]れる。
 Beispielsatz-Übersetzung: Er kommt oft zu spät zur Schule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

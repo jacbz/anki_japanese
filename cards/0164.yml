@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hineintun
-Notiz: ''
 Beispielsatz: カバンに財布を入れるのを忘れてしまった。
 Beispielsatz-Lesung: カバンに 財布[さいふ]を 入[い]れるのを 忘[わす]れてしまった。
 Beispielsatz-Übersetzung: Ich habe vergessen, meine Brieftasche in meine Tasche zu
   legen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

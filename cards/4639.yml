@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschäft, Laden
-Notiz: ''
 Beispielsatz: そのすし店は全国に店舗がある。
 Beispielsatz-Lesung: そのすし 店[てん]は 全国[ぜんこく]に 店舗[てんぽ]がある。
 Beispielsatz-Übersetzung: Dieses Sushi-Restaurant hat Filialen im ganzen Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

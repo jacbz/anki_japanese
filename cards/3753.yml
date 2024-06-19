@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Buddhismus
-Notiz: ''
 Beispielsatz: 日本に仏教が伝来したのは六世紀のことだ。
 Beispielsatz-Lesung: 日本[にっぽん]に 仏教[ぶっきょう]が 伝来[でんらい]したのは六 世紀[せいき]のことだ。
 Beispielsatz-Übersetzung: Im sechsten Jahrhundert wurde der Buddhismus in Japan eingeführt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

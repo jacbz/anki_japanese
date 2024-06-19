@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kombinieren; beide dienen
-Notiz: ''
 Beispielsatz: 趣味と実益を兼ねて、中国語を習っている。
 Beispielsatz-Lesung: 趣味[しゅみ]と 実益[じつえき]を 兼[か]ねて、 中国語[ちゅうごくご]を 習[なら]っている。
 Beispielsatz-Übersetzung: Ich lerne Chinesisch, weil es mir Spaß macht und gleichzeitig
   nützlich ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

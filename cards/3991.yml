@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hauptstrom
-Notiz: ''
 Beispielsatz: 高校では制服が主流だ。
 Beispielsatz-Lesung: 高校[こうこう]では 制服[せいふく]が 主流[しゅりゅう]だ。
 Beispielsatz-Übersetzung: In der High School ist die Schuluniform der Hauptstrom.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

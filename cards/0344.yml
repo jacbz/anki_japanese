@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: für
-Notiz: ''
 Beispielsatz: 健康のために野菜をたくさん食べています。
 Beispielsatz-Lesung: 健康[けんこう]のために 野菜[やさい]をたくさん 食[た]べています。
 Beispielsatz-Übersetzung: Ich esse viele Gemüse für meine Gesundheit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. adv.
 Definition: in alten Zeiten; antik
-Notiz: ''
 Beispielsatz: この寺は古くからここにある。
 Beispielsatz-Lesung: この 寺[てら]は 古[ふる]くからここにある。
 Beispielsatz-Übersetzung: Dieser Tempel war in antiken Zeiten hier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

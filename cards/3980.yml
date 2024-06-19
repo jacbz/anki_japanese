@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Chinesische Teigtasche
-Notiz: ''
 Beispielsatz: 家で餃子を作った。
 Beispielsatz-Lesung: 家[いえ]で 餃子[ぎょうざ]を 作[つく]った。
 Beispielsatz-Übersetzung: Ich habe zu Hause chinesische Teigtaschen gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

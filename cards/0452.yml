@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Straße
-Notiz: ''
 Beispielsatz: 道を間違えてしまった。
 Beispielsatz-Lesung: 道[みち]を 間違[まちが]えてしまった。
 Beispielsatz-Übersetzung: Ich bin in die falsche Richtung gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: auf dem Weg; in der Mitte von
-Notiz: ''
 Beispielsatz: 途中で友達に会った。
 Beispielsatz-Lesung: 途中[とちゅう]で 友達[ともだち]に 会[あ]った。
 Beispielsatz-Übersetzung: Ich traf meine Freunde auf dem Weg.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

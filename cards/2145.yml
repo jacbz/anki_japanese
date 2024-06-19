@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Konvention, Massenversammlung, Turnier
-Notiz: ''
 Beispielsatz: 彼女は昨年五つの大会で優勝した。
 Beispielsatz-Lesung: 彼女[かのじょ]は 昨年[さくねん] 五[いつ]つの 大会[たいかい]で 優勝[ゆうしょう]した。
 Beispielsatz-Übersetzung: Sie hat letztes Jahr fünf Turniere gewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

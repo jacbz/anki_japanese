@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kamerad, Gefährte, Gruppe
-Notiz: ''
 Beispielsatz: 彼は仕事の仲間に人気がある。
 Beispielsatz-Lesung: 彼[かれ]は 仕事[しごと]の 仲間[なかま]に 人気[にんき]がある。
 Beispielsatz-Übersetzung: Er ist bei seinen Arbeitskollegen beliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Handy
-Notiz: ''
 Beispielsatz: あとで私の携帯電話に電話してください。
 Beispielsatz-Lesung: あとで 私[わたし]の 携帯電話[けいたいでんわ]に 電話[でんわ]してください。
 Beispielsatz-Übersetzung: Ruf mich später auf meinem Handy an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

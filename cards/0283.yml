@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Auto
-Notiz: ''
 Beispielsatz: 彼女は車で買い物に出かけた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 車[くるま]で 買[か]い 物[もの]に 出[で]かけた。
 Beispielsatz-Übersetzung: Sie ist mit dem Auto einkaufen gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

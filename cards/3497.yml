@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: gründlich, tiefgehend, sorgfältig
-Notiz: ''
 Beispielsatz: 家族のありがたみをつくづく感じる。
 Beispielsatz-Lesung: 家族[かぞく]のありがたみをつくづく 感[かん]じる。
 Beispielsatz-Übersetzung: Ich fühle die Wichtigkeit der Familie gründlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

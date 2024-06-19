@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Büro
-Notiz: ''
 Beispielsatz: オフィスの中は禁煙です。
 Beispielsatz-Lesung: オフィスの 中[なか]は 禁煙[きんえん]です。
 Beispielsatz-Übersetzung: Im Büro ist das Rauchen verboten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

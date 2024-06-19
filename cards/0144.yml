@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: eins
-Notiz: ''
 Beispielsatz: 一からやる。
 Beispielsatz-Lesung: 一[いち]からやる。
 Beispielsatz-Übersetzung: Von vorne anfangen. (Von Anfang an beginnen.)
+
+# Notizen können HTML enthalten.            
+Notiz: ''

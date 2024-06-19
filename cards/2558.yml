@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: öffnen
-Notiz: ''
 Beispielsatz: 突然、ドアが開いた。
 Beispielsatz-Lesung: 突然[とつぜん]、ドアが 開[ひら]いた。
 Beispielsatz-Übersetzung: Plötzlich öffnete sich die Tür.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

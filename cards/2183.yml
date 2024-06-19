@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wohnhaus, Wohnsitz
-Notiz: ''
 Beispielsatz: 住宅を購入するお金がない。
 Beispielsatz-Lesung: 住宅[じゅうたく]を 購入[こうにゅう]するお 金[かね]がない。
 Beispielsatz-Übersetzung: Ich habe nicht genug Geld, um ein Wohnhaus zu kaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: alles; nichts; alles
-Notiz: ''
 Beispielsatz: ここには何でもある。
 Beispielsatz-Lesung: ここには 何[なん]でもある。
 Beispielsatz-Übersetzung: Dieser Ort hat alles.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

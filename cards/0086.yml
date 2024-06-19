@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: gehen und zurückkommen
-Notiz: ''
 Beispielsatz: スーパーへ行ってきます。
 Beispielsatz-Lesung: スーパーへ 行[い]ってきます。
 Beispielsatz-Übersetzung: Ich gehe zum Supermarkt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

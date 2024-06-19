@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kaki
-Notiz: ''
 Beispielsatz: 柿を食べた。
 Beispielsatz-Lesung: 柿[かき]を 食[た]べた。
 Beispielsatz-Übersetzung: Ich habe Kaki gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

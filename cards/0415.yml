@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: auf den ersten Blick; im Allgemeinen; für alle Fälle
-Notiz: ''
 Beispielsatz: 必要かどうか分かりませんが、一応、その書類を持ってきてください。
 Beispielsatz-Lesung: 必要[ひつよう]かどうか 分[わ]かりませんが、 一応[いちおう]、その 書類[しょるい]を 持[も]ってきてください。
 Beispielsatz-Übersetzung: Ich bin mir nicht sicher, ob die Papiere benötigt werden,
   aber bitte nehmen Sie sie mit, nur für den Fall.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

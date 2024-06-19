@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. v.
 Definition: Heirat
-Notiz: ''
 Beispielsatz: 彼女は来月結婚する。
 Beispielsatz-Lesung: 彼女[かのじょ]は 来月[らいげつ] 結婚[けっこん]する。
 Beispielsatz-Übersetzung: Sie wird nächsten Monat heiraten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: diese Seite
-Notiz: ''
 Beispielsatz: 手前の机にあります。
 Beispielsatz-Lesung: 手前[てまえ]の 机[つくえ]にあります。
 Beispielsatz-Übersetzung: Es ist auf dem Schreibtisch auf dieser Seite.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

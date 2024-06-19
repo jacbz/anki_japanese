@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: oder, andernfalls
-Notiz: ''
 Beispielsatz: 砂糖の代わりに蜂蜜、ないし果物を入れてください。
 Beispielsatz-Lesung: 砂糖[さとう]の 代[か]わりに 蜂蜜[はちみつ]、ないし 果物[くだもの]を 入[い]れてください。
 Beispielsatz-Übersetzung: Bitte fügen Sie Honig oder Früchte anstelle von Zucker hinzu.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

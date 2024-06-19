@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: sieben
-Notiz: ''
 Beispielsatz: 七は完全数です。
 Beispielsatz-Lesung: 七は 完全数[かんぜんすう]です。
 Beispielsatz-Übersetzung: Sieben ist die perfekte Zahl.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

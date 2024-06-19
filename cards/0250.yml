@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geld
-Notiz: ''
 Beispielsatz: 金がすべてではない。
 Beispielsatz-Lesung: 金[きむ]がすべてではない。
 Beispielsatz-Übersetzung: Geld ist nicht alles.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein (Blatt)
-Notiz: ''
 Beispielsatz: 一枚ずつ紙を取ってください。
 Beispielsatz-Lesung: 一 枚[まい]ずつ 紙[かみ]を 取[と]ってください。
 Beispielsatz-Übersetzung: Nehmen Sie bitte jeweils ein Blatt Papier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

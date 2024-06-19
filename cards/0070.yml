@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: gut
-Notiz: ''
 Beispielsatz: 彼は良い人だ。
 Beispielsatz-Lesung: 彼[かれ]は 良[よ]い人だ。
 Beispielsatz-Übersetzung: Er ist ein guter Mann.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kürbis
-Notiz: ''
 Beispielsatz: ハロウィーンでカボチャのスープを作った。
 Beispielsatz-Lesung: ハロウィーンでカボチャのスープを 作[つく]った。
 Beispielsatz-Übersetzung: Ich habe Kürbissuppe für Halloween gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

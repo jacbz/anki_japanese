@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Begegnung
-Notiz: ''
 Beispielsatz: 最近出会いがない。
 Beispielsatz-Lesung: 最近[さいきん] 出会[であ]いがない。
 Beispielsatz-Übersetzung: Ich hatte in letzter Zeit keine Gelegenheit, neue Leute
   kennenzulernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

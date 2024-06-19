@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gebiet
-Notiz: ''
 Beispielsatz: 市のスポーツ大会に、この地区の代表として出場する。
 Beispielsatz-Lesung: 市[し]のスポーツ 大会[たいかい]に、この 地区[ちく]の 代表[だいひょう]として 出場[しゅつじょう]する。
 Beispielsatz-Übersetzung: Ich nehme als lokaler Vertreter am Sportwettbewerb der Stadt
   teil.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

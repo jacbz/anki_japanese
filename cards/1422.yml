@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Computer
-Notiz: ''
 Beispielsatz: コンピューターの電源を切った。
 Beispielsatz-Lesung: コンピューターの 電源[でんげん]を 切[き]った。
 Beispielsatz-Übersetzung: Ich habe den Computer ausgeschaltet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

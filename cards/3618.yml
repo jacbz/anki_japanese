@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: etwas auf dem Rücken tragen
-Notiz: ''
 Beispielsatz: あのリュックを背負っている人が山田さんです。
 Beispielsatz-Lesung: あのリュックを 背負[せお]っている人が 山田[やまだ]さんです。
 Beispielsatz-Übersetzung: Der Mann mit dem Rucksack ist Herr Yamada.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., na-adj
 Definition: am besten, höchsten
-Notiz: ''
 Beispielsatz: 私共は世界で最高の技術を使っています。
 Beispielsatz-Lesung: 私共[わたくしども]は 世界[せかい]で 最高[さいこう]の 技術[ぎじゅつ]を 使[つか]っています。
 Beispielsatz-Übersetzung: Wir verwenden die beste Technologie der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

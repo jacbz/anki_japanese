@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: streichen
-Notiz: ''
 Beispielsatz: 子猫は撫でられるのが好きだ。
 Beispielsatz-Lesung: 子猫[こねこ]は 撫[な]でられるのが 好[す]きだ。
 Beispielsatz-Übersetzung: Das Kätzchen liebt es gestreichelt zu werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

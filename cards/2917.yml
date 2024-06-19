@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: nicht besonders
-Notiz: ''
 Beispielsatz: 別に構いません。
 Beispielsatz-Lesung: 別[べつ]に 構[かま]いません。
 Beispielsatz-Übersetzung: Es macht mir nichts aus, besonders.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

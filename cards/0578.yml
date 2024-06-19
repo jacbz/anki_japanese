@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: kurz gesagt, zusammenfassend
-Notiz: ''
 Beispielsatz: 要するに、計画は失敗だった。
 Beispielsatz-Lesung: 要[よう]するに、 計画[けいかく]は 失敗[しっぱい]だった。
 Beispielsatz-Übersetzung: Kurz gesagt, unser Plan ist gescheitert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

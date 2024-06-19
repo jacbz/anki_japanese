@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verkaufen
-Notiz: ''
 Beispielsatz: 彼は古着をフリーマーケットで売った。
 Beispielsatz-Lesung: 彼[かれ]は 古着[ふるぎ]をフリーマーケットで 売[う]った。
 Beispielsatz-Übersetzung: Er hat seine gebrauchte Kleidung auf Flohmärkten verkauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

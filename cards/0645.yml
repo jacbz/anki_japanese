@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lied
-Notiz: ''
 Beispielsatz: 素敵な歌です。
 Beispielsatz-Lesung: 素敵[すてき]な 歌[うた]です。
 Beispielsatz-Übersetzung: Es ist ein schönes Lied.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

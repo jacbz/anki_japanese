@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wille, Motivation
-Notiz: ''
 Beispielsatz: この生徒は学ぶ意欲がないようだ。
 Beispielsatz-Lesung: この 生徒[せいと]は 学[まな]ぶ 意欲[いよく]がないようだ。
 Beispielsatz-Übersetzung: Dieser Schüler scheint keine Motivation zum Lernen zu haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

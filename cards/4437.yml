@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Flugblatt, Handzettel
-Notiz: ''
 Beispielsatz: 先生は学園祭のチラシを配った。
 Beispielsatz-Lesung: 先生[せんせい]は 学園祭[がくえんさい]のチラシを 配[くば]った。
 Beispielsatz-Übersetzung: Der Lehrer verteilte die Flugblätter des Schulfestivals.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

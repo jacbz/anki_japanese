@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rest, Übriges
-Notiz: ''
 Beispielsatz: 宿題の残りをやりなさい。
 Beispielsatz-Lesung: 宿題[しゅくだい]の 残[のこ]りをやりなさい。
 Beispielsatz-Übersetzung: Machen Sie den Rest Ihrer Hausaufgaben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zunehmen, steigen
-Notiz: ''
 Beispielsatz: 体重が3キロ増えた。
 Beispielsatz-Lesung: 体重[たいじゅう]が3キロ 増[ふ]えた。
 Beispielsatz-Übersetzung: Ich habe drei Kilogramm zugenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

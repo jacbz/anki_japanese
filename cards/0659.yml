@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wie viel
-Notiz: ''
 Beispielsatz: いくらですか。
 Beispielsatz-Lesung: いくらですか。
 Beispielsatz-Übersetzung: Wie viel kostet das?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

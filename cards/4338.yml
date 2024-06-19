@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: entwickeltes Land
-Notiz: ''
 Beispielsatz: 先進国は発展途上国を援助しなければならない。
 Beispielsatz-Lesung: 先進国[せんしんこく]は 発展途上国[はってんとじょうこく]を 援助[えんじょ]しなければならない。
 Beispielsatz-Übersetzung: Die Industrieländer müssen den Entwicklungsländern helfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

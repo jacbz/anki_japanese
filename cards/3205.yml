@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: überhaupt nicht
-Notiz: ''
 Beispielsatz: さっぱり理解できない。
 Beispielsatz-Lesung: さっぱり 理解[りかい]できない。
 Beispielsatz-Übersetzung: Ich kann es überhaupt nicht verstehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

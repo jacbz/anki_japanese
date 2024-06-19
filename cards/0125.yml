@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: es ist nicht so, dass
-Notiz: ''
 Beispielsatz: あなただけが悪いのではない。
 Beispielsatz-Lesung: あなただけが 悪[わる]いのではない。
 Beispielsatz-Übersetzung: Es ist nicht nur deine Schuld.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

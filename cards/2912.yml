@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Waffe
-Notiz: ''
 Beispielsatz: 兵士は武器を構えた。
 Beispielsatz-Lesung: 兵士[へいし]は 武器[ぶき]を 構[かま]えた。
 Beispielsatz-Übersetzung: Die Soldaten hielten die Waffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

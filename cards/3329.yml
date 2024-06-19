@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gelegenheit
-Notiz: ''
 Beispielsatz: 彼には折を見て連絡しよう。
 Beispielsatz-Lesung: 彼[かれ]には 折[おり]を 見[み]て 連絡[れんらく]しよう。
 Beispielsatz-Übersetzung: Wir müssen sicherstellen, dass wir diese Gelegenheit nicht
   verpassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

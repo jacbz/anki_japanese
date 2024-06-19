@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Versand per Post
-Notiz: ''
 Beispielsatz: 履歴書を月末までに郵送してください。
 Beispielsatz-Lesung: 履歴書[りれきしょ]を 月末[げつまつ]までに 郵送[ゆうそう]してください。
 Beispielsatz-Übersetzung: Bitte senden Sie Ihren Lebenslauf bis Ende des Monats per
   Post.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

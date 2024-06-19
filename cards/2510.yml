@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Frau, Mädchen
-Notiz: ''
 Beispielsatz: 女子サッカーで日本が優勝した。
 Beispielsatz-Lesung: 女子[じょし]サッカーで 日本[にっぽん]が 優勝[ゆうしょう]した。
 Beispielsatz-Übersetzung: Die japanische Mannschaft hat das Fußballturnier der Frauen
   gewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

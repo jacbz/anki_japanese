@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: sie; Freundin
-Notiz: ''
 Beispielsatz: 彼女を両親に紹介した。
 Beispielsatz-Lesung: 彼女[かのじょ]を 両親[りょうしん]に 紹介[しょうかい]した。
 Beispielsatz-Übersetzung: Ich habe meine Freundin meinen Eltern vorgestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

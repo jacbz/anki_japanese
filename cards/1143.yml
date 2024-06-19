@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich nähern, näher kommen
-Notiz: ''
 Beispielsatz: 今まさに春が近付いてきている。
 Beispielsatz-Lesung: 今[いま]まさに 春[はる]が 近付[ちかづ]いてきている。
 Beispielsatz-Übersetzung: Jetzt nähert sich der Frühling.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

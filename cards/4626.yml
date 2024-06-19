@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Melodie
-Notiz: ''
 Beispielsatz: このメロディーは多くの日本人に親しまれている。
 Beispielsatz-Lesung: このメロディーは 多[おお]くの 日本人[にっぽんじん]に 親[した]しまれている。
 Beispielsatz-Übersetzung: Diese Melodie ist vielen Japanern bekannt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

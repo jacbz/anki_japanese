@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. n.
 Definition: unempfindlich, in Ordnung; Ruhe
-Notiz: ''
 Beispielsatz: 平気なふりをした。
 Beispielsatz-Lesung: 平気[へいき]なふりをした。
 Beispielsatz-Übersetzung: Ich tat so, als ginge es mir gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

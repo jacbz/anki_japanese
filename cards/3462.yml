@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Männer
-Notiz: ''
 Beispielsatz: 男達は楽しそうに酒を飲んでいた。
 Beispielsatz-Lesung: 男達[おとこだて]は 楽[たの]しそうに 酒[さけ]を 飲[の]んでいた。
 Beispielsatz-Übersetzung: Die Männer tranken fröhlich Alkohol.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

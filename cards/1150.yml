@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tür
-Notiz: ''
 Beispielsatz: ドアを閉めて鍵をかけた。
 Beispielsatz-Lesung: ドアを 閉[し]めて 鍵[かぎ]をかけた。
 Beispielsatz-Übersetzung: Ich schloss die Tür und verriegelte sie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

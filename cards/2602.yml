@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschenk
-Notiz: ''
 Beispielsatz: 私は彼に誕生日プレゼントを渡す。
 Beispielsatz-Lesung: 私[わたし]は 彼[かれ]に 誕生日[たんじょうび]プレゼントを 渡[わた]す。
 Beispielsatz-Übersetzung: Ich werde ihm ein Geburtstagsgeschenk geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

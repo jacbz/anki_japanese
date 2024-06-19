@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: plötzlich, unerwartet
-Notiz: ''
 Beispielsatz: 彼女はいきなり会社をクビになった。
 Beispielsatz-Lesung: 彼女[かのじょ]はいきなり 会社[かいしゃ]をクビになった。
 Beispielsatz-Übersetzung: Sie wurde plötzlich ohne Vorwarnung entlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

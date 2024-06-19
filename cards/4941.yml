@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Udon, dicke weiße Nudeln
-Notiz: ''
 Beispielsatz: うどんが好きだ。
 Beispielsatz-Lesung: うどんが 好[す]きだ。
 Beispielsatz-Übersetzung: Ich liebe Udon.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

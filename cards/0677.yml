@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: weitermachen, vorwärts bewegen
-Notiz: ''
 Beispielsatz: 彼は計画を進めた。
 Beispielsatz-Lesung: 彼[かれ]は 計画[けいかく]を 進[すす]めた。
 Beispielsatz-Übersetzung: Er hat mit dem Plan weitergemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

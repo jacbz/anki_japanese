@@ -5,8 +5,10 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Klassifikation
-Notiz: ''
 Beispielsatz: 本の細かい分類については、司書に聞いてください。
 Beispielsatz-Lesung: 本[ほん]の 細[こま]かい 分類[ぶんるい]については、 司書[ししょ]に 聞[き]いてください。
 Beispielsatz-Übersetzung: Bitte fragen Sie eine Bibliothekarin oder einen Bibliothekar
   nach der genauen Klassifizierung der Bücher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

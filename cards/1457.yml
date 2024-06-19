@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ausreichen
-Notiz: ''
 Beispielsatz: 十ドルで足りるはずだ。
 Beispielsatz-Lesung: 十ドルで 足[た]りるはずだ。
 Beispielsatz-Übersetzung: Zehn Dollar sollten ausreichend sein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

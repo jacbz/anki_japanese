@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: angenehm, glücklich, unterhaltsam
-Notiz: ''
 Beispielsatz: とても楽しかったです。
 Beispielsatz-Lesung: とても 楽[たの]しかったです。
 Beispielsatz-Übersetzung: Ich hatte eine sehr gute Zeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

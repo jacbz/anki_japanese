@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweiter Tag
-Notiz: ''
 Beispielsatz: プログラムの二日目は大変よかった。
 Beispielsatz-Lesung: プログラムの二 日[にち] 目[め]は 大変[たいへん]よかった。
 Beispielsatz-Übersetzung: Der zweite Tag des Programms war sehr gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

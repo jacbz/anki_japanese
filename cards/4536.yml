@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Spitze, Führung
-Notiz: ''
 Beispielsatz: 私は列の先頭に立った。
 Beispielsatz-Lesung: 私[わたし]は 列[れつ]の 先頭[せんとう]に 立[た]った。
 Beispielsatz-Übersetzung: Ich stand an der Spitze der Schlange.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

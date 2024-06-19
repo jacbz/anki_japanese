@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überwinden
-Notiz: ''
 Beispielsatz: 塀を乗り越えて、彼はその家に侵入した。
 Beispielsatz-Lesung: 塀[へい]を 乗[の]り 越[こ]えて、 彼[かれ]はその 家[いえ]に 侵入[しんにゅう]した。
 Beispielsatz-Übersetzung: Er kletterte über die Mauer und brach in das Haus ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fünfzigerjahre
-Notiz: ''
 Beispielsatz: 彼女は五十代に見える。
 Beispielsatz-Lesung: 彼女[かのじょ]は五十 代[だい]に 見[み]える。
 Beispielsatz-Übersetzung: Sie sieht aus, als wäre sie in ihren Fünfzigern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

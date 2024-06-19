@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fangen, aufnehmen
-Notiz: ''
 Beispielsatz: 彼はボールを片手で受け止めた。
 Beispielsatz-Lesung: 彼[かれ]はボールを 片手[かたて]で 受[う]け 止[と]めた。
 Beispielsatz-Übersetzung: Er fing den Ball mit einer Hand auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

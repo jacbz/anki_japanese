@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geist, Seele
-Notiz: ''
 Beispielsatz: 死者の霊を慰めるために手を合わせた。
 Beispielsatz-Lesung: 死者[ししゃ]の 霊[れい]を 慰[なぐさ]めるために 手[て]を 合[あ]わせた。
 Beispielsatz-Übersetzung: Ich lege meine Hände zusammen, um die Seelen der Toten zu
   besänftigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

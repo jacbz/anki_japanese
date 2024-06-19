@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bier
-Notiz: ''
 Beispielsatz: 彼はビールを二本飲んだ。
 Beispielsatz-Lesung: 彼[かれ]はビールを二 本[ほん] 飲[の]んだ。
 Beispielsatz-Übersetzung: Er trank zwei Flaschen Bier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

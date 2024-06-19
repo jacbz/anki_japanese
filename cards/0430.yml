@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: warten
-Notiz: ''
 Beispielsatz: ちょっとお待ちください。
 Beispielsatz-Lesung: ちょっとお 待[ま]ちください。
 Beispielsatz-Übersetzung: Bitte warten Sie einen Moment.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

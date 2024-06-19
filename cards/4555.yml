@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: eng
-Notiz: ''
 Beispielsatz: 両国の関係はますます密接になった。
 Beispielsatz-Lesung: 両国[りょうこく]の 関係[かんけい]はますます 密接[みっせつ]になった。
 Beispielsatz-Übersetzung: Die beiden Länder sind sich immer näher gekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

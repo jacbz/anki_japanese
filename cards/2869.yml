@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fliegen lassen, loslassen
-Notiz: ''
 Beispielsatz: その蛍は美しい光を放っている。
 Beispielsatz-Lesung: その 蛍[ほたる]は 美[うつく]しい 光[ひかり]を 放[はな]っている。
 Beispielsatz-Übersetzung: Die Glühwürmchen strahlen ein wunderschönes Licht aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verwickeln, verstricken; einen Streit anfangen
-Notiz: ''
 Beispielsatz: さまざまな問題が複雑に絡んでいる。
 Beispielsatz-Lesung: さまざまな 問題[もんだい]が 複雑[ふくざつ]に 絡[から]んでいる。
 Beispielsatz-Übersetzung: Es wird durch verschiedene Probleme kompliziert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

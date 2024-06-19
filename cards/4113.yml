@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zuweisen, belasten, auferlegen
-Notiz: ''
 Beispielsatz: あの会社は社員にとても厳しいノルマを課しているそうだ。
 Beispielsatz-Lesung: あの 会社[かいしゃ]は 社員[しゃいん]にとても 厳[きび]しいノルマを 課[か]しているそうだ。
 Beispielsatz-Übersetzung: Es scheint, dass das Unternehmen den Mitarbeitern eine sehr
   strenge Quote auferlegt hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

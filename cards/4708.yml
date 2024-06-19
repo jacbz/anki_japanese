@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grillplatte, Eisenplatte
-Notiz: ''
 Beispielsatz: 鉄板でステーキや野菜を焼いた。
 Beispielsatz-Lesung: 鉄板[てっぱん]でステーキや 野菜[やさい]を 焼[や]いた。
 Beispielsatz-Übersetzung: Ich habe Steak und Gemüse auf einer heißen Platte gebraten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

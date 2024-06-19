@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umstrukturierung, Personalabbau
-Notiz: ''
 Beispielsatz: 我が社は不況のためリストラしなければならない。
 Beispielsatz-Lesung: 我[わ]が 社[しゃ]は 不況[ふきょう]のためリストラしなければならない。
 Beispielsatz-Übersetzung: Unser Unternehmen muss wegen der Rezession Personal abbauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Konzert
-Notiz: ''
 Beispielsatz: 一緒にクラシックのコンサートに行かない？
 Beispielsatz-Lesung: 一緒[いっしょ]にクラシックのコンサートに 行[い]かない？
 Beispielsatz-Übersetzung: Möchtest du mit mir zu einem klassischen Konzert gehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

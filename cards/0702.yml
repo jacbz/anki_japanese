@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tatsache, Wahrheit
-Notiz: ''
 Beispielsatz: 事実は小説より奇なり。
 Beispielsatz-Lesung: 事実[じじつ]は 小説[しょうせつ]より 奇[き]なり。
 Beispielsatz-Übersetzung: Die Wahrheit ist seltsamer als die Fiktion.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

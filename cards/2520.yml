@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei Jahre
-Notiz: ''
 Beispielsatz: 三年間海外で生活した。
 Beispielsatz-Lesung: 三 年間[ねんかん] 海外[かいがい]で 生活[せいかつ]した。
 Beispielsatz-Übersetzung: Ich habe drei Jahre im Ausland gelebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

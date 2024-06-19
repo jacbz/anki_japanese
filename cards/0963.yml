@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: oder, andernfalls
-Notiz: ''
 Beispielsatz: 注文はメール、もしくはファックスで送ってください。
 Beispielsatz-Lesung: 注文[ちゅうもん]はメール、もしくはファックスで 送[おく]ってください。
 Beispielsatz-Übersetzung: Bitte senden Sie Ihre Bestellung per E-Mail oder Fax.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

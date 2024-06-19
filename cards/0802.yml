@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eltern
-Notiz: ''
 Beispielsatz: 両親を尊敬している。
 Beispielsatz-Lesung: 両親[りょうしん]を 尊敬[そんけい]している。
 Beispielsatz-Übersetzung: Ich respektiere meine Eltern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

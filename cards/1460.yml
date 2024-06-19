@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen, sinken, zurücktreten
-Notiz: ''
 Beispielsatz: 気温が下がっている。
 Beispielsatz-Lesung: 気温[きおん]が 下[さ]がっている。
 Beispielsatz-Übersetzung: Die Temperatur fällt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

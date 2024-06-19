@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fußball
-Notiz: ''
 Beispielsatz: 私の国ではサッカーはテニスより人気がある。
 Beispielsatz-Lesung: 私[わたし]の 国[くに]ではサッカーはテニスより 人気[にんき]がある。
 Beispielsatz-Übersetzung: Fußball ist in meinem Land beliebter als Tennis.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bildungsministerium
-Notiz: ''
 Beispielsatz: 文部省は日本の大学のレベルをもっと宣伝するべきだ。
 Beispielsatz-Lesung: 文部省[もんぶしょう]は 日本[にっぽん]の 大学[だいがく]のレベルをもっと 宣伝[せんでん]するべきだ。
 Beispielsatz-Übersetzung: Das Ministerium für Bildung, Kultur, Sport, Wissenschaft
   und Technologie sollte die Standards japanischer Universitäten stärker bewerben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

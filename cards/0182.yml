@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: '[sehr höfliche Form von である]'
-Notiz: ''
 Beispielsatz: ありがとうございます。
 Beispielsatz-Lesung: ありがとうございます。
 Beispielsatz-Übersetzung: Ich danke Ihnen vielmals.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

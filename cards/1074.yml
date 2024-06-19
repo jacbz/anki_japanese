@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. v.
 Definition: Opposition, Kontrast, Einwand; widersprechen
-Notiz: ''
 Beispielsatz: 彼らの結婚には多くの反対があった。
 Beispielsatz-Lesung: 彼[かれ]らの 結婚[けっこん]には 多[おお]くの 反対[はんたい]があった。
 Beispielsatz-Übersetzung: Es gab viel Widerspruch gegen ihre Ehe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

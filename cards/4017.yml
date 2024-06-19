@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei Tage
-Notiz: ''
 Beispielsatz: 三日間晴れが続いた。
 Beispielsatz-Lesung: 三 日[にち] 間[ま] 晴[は]れが 続[つづ]いた。
 Beispielsatz-Übersetzung: Das Wetter blieb drei Tage lang schön.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

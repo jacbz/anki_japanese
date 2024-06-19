@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: das (da)
-Notiz: ''
 Beispielsatz: それは明子さんのカバンですか。
 Beispielsatz-Lesung: それは 明子[あきこ]さんのカバンですか。
 Beispielsatz-Übersetzung: Ist das die Tasche von Akiko?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

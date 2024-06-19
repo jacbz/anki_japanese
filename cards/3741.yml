@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: etwas übrig haben
-Notiz: ''
 Beispielsatz: 今は旅行に行くだけの経済的ゆとりがない。
 Beispielsatz-Lesung: 今[いま]は 旅行[りょこう]に 行[い]くだけの 経済[けいざい] 的[てき]ゆとりがない。
 Beispielsatz-Übersetzung: Ich habe im Moment kein Geld für Reisen übrig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

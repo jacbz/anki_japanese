@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schmelzen, auftauen; auflösen
-Notiz: ''
 Beispielsatz: 暖かくなって、湖の氷が溶け始めた。
 Beispielsatz-Lesung: 暖[あたた]かくなって、 湖[みずうみ]の 氷[こおり]が 溶[と]け 始[はじ]めた。
 Beispielsatz-Übersetzung: Es wurde warm, also hat das Eis auf dem See begonnen zu
   schmelzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

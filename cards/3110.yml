@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nagasaki
-Notiz: ''
 Beispielsatz: 長崎は坂が多い町だ。
 Beispielsatz-Lesung: 長崎[ながさき]は 坂[さか]が 多[おお]い 町[まち]だ。
 Beispielsatz-Übersetzung: Nagasaki ist eine Stadt mit vielen Hügeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

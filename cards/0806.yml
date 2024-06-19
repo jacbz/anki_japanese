@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: leicht
-Notiz: ''
 Beispielsatz: この荷物は軽い。
 Beispielsatz-Lesung: この 荷物[にもつ]は 軽[かる]い。
 Beispielsatz-Übersetzung: Dieses Gepäck ist leicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

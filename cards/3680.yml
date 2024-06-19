@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: genügen; verdienen
-Notiz: ''
 Beispielsatz: 彼は信頼に足る人物だ。
 Beispielsatz-Lesung: 彼[かれ]は 信頼[しんらい]に 足[た]る 人物[じんぶつ]だ。
 Beispielsatz-Übersetzung: Er verdient dein Vertrauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anstellen, einstellen
-Notiz: ''
 Beispielsatz: 新しいアルバイトを雇うことにした。
 Beispielsatz-Lesung: 新[あたら]しいアルバイトを 雇[やと]うことにした。
 Beispielsatz-Übersetzung: Ich habe mich entschieden, einen neuen Teilzeitmitarbeiter
   einzustellen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Immobilien, Eigentum
-Notiz: ''
 Beispielsatz: 最近不動産の価値が高くなった。
 Beispielsatz-Lesung: 最近[さいきん] 不動産[ふどうさん]の 価値[かち]が 高[たか]くなった。
 Beispielsatz-Übersetzung: Der Wert von Immobilien hat in letzter Zeit zugenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

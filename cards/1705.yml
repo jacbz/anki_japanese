@@ -5,8 +5,10 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Registrierungseintrag; aufzeichnen, notieren
-Notiz: ''
 Beispielsatz: パスポートの記載どおりにローマ字氏名を入力してください。
 Beispielsatz-Lesung: パスポートの 記載[きさい]どおりにローマ 字[じ] 氏名[しめい]を 入力[にゅうりょく]してください。
 Beispielsatz-Übersetzung: Geben Sie Ihren Namen so ein, wie er in Ihrem Reisepass
   gedruckt ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

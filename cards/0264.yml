@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: früher, in der Vergangenheit, einst
-Notiz: ''
 Beispielsatz: 昔、ここに寺があった。
 Beispielsatz-Lesung: 昔[むかし]、ここに 寺[てら]があった。
 Beispielsatz-Übersetzung: Früher stand hier ein Tempel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

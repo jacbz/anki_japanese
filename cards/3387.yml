@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zehntausend Yen
-Notiz: ''
 Beispielsatz: 今では一万円でデジタルカメラが買える。
 Beispielsatz-Lesung: 今[いま]では一 万[まん] 円[えん]でデジタルカメラが 買[か]える。
 Beispielsatz-Übersetzung: Man kann jetzt eine Digitalkamera für 10.000 Yen kaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

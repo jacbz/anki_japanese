@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Salzgehalt
-Notiz: ''
 Beispielsatz: 塩分をとりすぎると体に悪い。
 Beispielsatz-Lesung: 塩分[えんぶん]をとりすぎると 体[からだ]に 悪[わる]い。
 Beispielsatz-Übersetzung: Wenn man zu viel salzhaltiges Essen isst, ist das schlecht
   für die Gesundheit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

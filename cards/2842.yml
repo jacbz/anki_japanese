@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ginza (Ortsname)
-Notiz: ''
 Beispielsatz: 銀座へ出かける。
 Beispielsatz-Lesung: 銀座[ぎんざ]へ 出[で]かける。
 Beispielsatz-Übersetzung: Wir gehen raus nach Ginza.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dort
-Notiz: ''
 Beispielsatz: 彼はよくそこでタバコを吸っている。
 Beispielsatz-Lesung: 彼[かれ]はよくそこでタバコを 吸[す]っている。
 Beispielsatz-Übersetzung: Er raucht dort oft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

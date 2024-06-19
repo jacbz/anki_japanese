@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mitglied
-Notiz: ''
 Beispielsatz: 会員になると、割引などのサービスが受けられる。
 Beispielsatz-Lesung: 会員[かいいん]になると、 割引[わりびき]などのサービスが 受[う]けられる。
 Beispielsatz-Übersetzung: Sie haben das Privileg, Angebote und Rabatte zu erhalten,
   wenn Sie Mitglied werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

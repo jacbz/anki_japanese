@@ -5,7 +5,9 @@ Alternative: 人達
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menschen
-Notiz: ''
 Beispielsatz: 若い人達に教えられた。
 Beispielsatz-Lesung: 若[わか]い 人達[ひとたち]に 教[おし]えられた。
 Beispielsatz-Übersetzung: Ich habe von jungen Menschen gelernt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Versicherung
-Notiz: ''
 Beispielsatz: レンタカーを借りる時はいつも保険に入る。
 Beispielsatz-Lesung: レンタカーを 借[か]りる 時[とき]はいつも 保険[ほけん]に 入[はい]る。
 Beispielsatz-Übersetzung: Ich schließe immer eine Versicherung ab, wenn ich ein Auto
   miete.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Richtung; Weg
-Notiz: ''
 Beispielsatz: この部屋は午後になると西の方から日が差す。
 Beispielsatz-Lesung: この 部屋[へや]は 午後[ごご]になると 西[にし]の 方[ほう]から 日[ひ]が 差[さ]す。
 Beispielsatz-Übersetzung: Dieses Zimmer bekommt am Nachmittag die Sonne von Westen
   her.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

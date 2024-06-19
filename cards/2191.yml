@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dienstag; Feuer
-Notiz: ''
 Beispielsatz: 毎週火、水、木は大学へ行く。
 Beispielsatz-Lesung: 毎週[まいしゅう] 火[ひ]、 水[みず]、 木[き]は 大学[だいがく]へ 行[い]く。
 Beispielsatz-Übersetzung: Jeden Dienstag, Mittwoch und Donnerstag gehe ich zur Universität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Blick
-Notiz: ''
 Beispielsatz: 私は一目で彼女だとわかった。
 Beispielsatz-Lesung: 私[わたし]は 一目[いちもく]で 彼女[かのじょ]だとわかった。
 Beispielsatz-Übersetzung: Ich erkannte sie auf den ersten Blick.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

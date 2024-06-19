@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Unannehmlichkeit; Behinderung
-Notiz: ''
 Beispielsatz: 水が不足すると不自由します。
 Beispielsatz-Lesung: 水[みず]が 不足[ふそく]すると 不自由[ふじゆう]します。
 Beispielsatz-Übersetzung: Wassermangel verursacht Unannehmlichkeiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

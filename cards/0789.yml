@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: (eigene) Ehefrau
-Notiz: ''
 Beispielsatz: こちらは私の妻です。
 Beispielsatz-Lesung: こちらは 私[わたし]の 妻[つま]です。
 Beispielsatz-Übersetzung: Das ist meine Ehefrau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

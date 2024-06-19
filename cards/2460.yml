@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: oft, immer
-Notiz: ''
 Beispielsatz: 彼はしょっちゅう遅刻する。
 Beispielsatz-Lesung: 彼[かれ]はしょっちゅう 遅刻[ちこく]する。
 Beispielsatz-Übersetzung: Er kommt immer zu spät.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

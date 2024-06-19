@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: aufdringlich; zu reichhaltig (Essen)
-Notiz: ''
 Beispielsatz: セールスマンにしつこく勧誘された。
 Beispielsatz-Lesung: セールスマンにしつこく 勧誘[かんゆう]された。
 Beispielsatz-Übersetzung: Der Verkäufer hat mich hartnäckig überredet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

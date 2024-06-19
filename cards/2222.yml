@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: obwohl, obgleich
-Notiz: ''
 Beispielsatz: もっとも彼の言うことは正しいが、私は賛成できない。
 Beispielsatz-Lesung: もっとも 彼[かれ]の 言[い]うことは 正[ただ]しいが、 私[わたし]は 賛成[さんせい]できない。
 Beispielsatz-Übersetzung: Obwohl das, was er sagte, richtig ist, kann ich nicht zustimmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

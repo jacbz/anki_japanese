@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wohngebiet; Wohnviertel
-Notiz: ''
 Beispielsatz: 住宅街にすむ。
 Beispielsatz-Lesung: 住宅街[じゅうたくがい]にすむ。
 Beispielsatz-Übersetzung: Er wohnt in einem Wohngebiet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kommen
-Notiz: ''
 Beispielsatz: ここに来てください。
 Beispielsatz-Lesung: ここに 来[き]てください。
 Beispielsatz-Übersetzung: Komm bitte hierher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

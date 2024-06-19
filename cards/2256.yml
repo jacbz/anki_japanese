@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zunehmen, hinzufügen; beitreten
-Notiz: ''
 Beispielsatz: クラスに新しい生徒が加わる。
 Beispielsatz-Lesung: クラスに 新[あたら]しい 生徒[せいと]が 加[くわ]わる。
 Beispielsatz-Übersetzung: Ein neues Mitglied tritt unserer Klasse bei.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

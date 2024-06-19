@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nachher, später; Nachfolger
-Notiz: ''
 Beispielsatz: 後で電話します。
 Beispielsatz-Lesung: 後[あと]で 電話[でんわ]します。
 Beispielsatz-Übersetzung: Ich rufe dich später an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

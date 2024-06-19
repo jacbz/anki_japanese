@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eltern und Kinder
-Notiz: ''
 Beispielsatz: 親子で公園に出かける。
 Beispielsatz-Lesung: 親子[おやこ]で 公園[こうえん]に 出[で]かける。
 Beispielsatz-Übersetzung: Die Eltern und Kinder werden in den Park gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

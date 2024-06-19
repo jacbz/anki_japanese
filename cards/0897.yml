@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. n.
 Definition: Glück; Wohlstand
-Notiz: ''
 Beispielsatz: お二人の幸せを祈ります。
 Beispielsatz-Lesung: お二人の 幸[しあわ]せを 祈[いの]ります。
 Beispielsatz-Übersetzung: Ich wünsche euch beiden alles Glück der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vater; alter Mann; Chef
-Notiz: ''
 Beispielsatz: 彼は彼の親父さんにそっくりだ。
 Beispielsatz-Lesung: 彼[かれ]は 彼[かれ]の 親父[おやじ]さんにそっくりだ。
 Beispielsatz-Übersetzung: Er sieht seinem Vater sehr ähnlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

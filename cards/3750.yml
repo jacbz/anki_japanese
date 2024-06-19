@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kunstgalerie, Kunstmuseum
-Notiz: ''
 Beispielsatz: 先週末、上野の美術館に行った。
 Beispielsatz-Lesung: 先週[せんしゅう] 末[まつ]、 上野[うえの]の 美術館[びじゅつかん]に 行[い]った。
 Beispielsatz-Übersetzung: Ich bin am letzten Wochenende zu einer Kunstgalerie in Ueno
   gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

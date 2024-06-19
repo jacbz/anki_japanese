@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anzeichen, Signal
-Notiz: ''
 Beispielsatz: 人の気配を感じて、振り返った。
 Beispielsatz-Lesung: 人の 気配[けはい]を 感[かん]じて、 振[ふ]り 返[かえ]った。
 Beispielsatz-Übersetzung: Ich spürte, dass jemand hinter mir war, und schaute zurück.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

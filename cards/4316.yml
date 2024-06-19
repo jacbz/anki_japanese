@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: herausnehmen, mitnehmen
-Notiz: ''
 Beispielsatz: こっそりお金を持ち出すところを見られた。
 Beispielsatz-Lesung: こっそりお 金[かね]を 持[も]ち 出[だ]すところを 見[み]られた。
 Beispielsatz-Übersetzung: Ich wurde dabei erwischt, wie ich heimlich das Geld herausgenommen
   habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

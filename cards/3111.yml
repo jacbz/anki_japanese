@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bereit machen, vorbereiten; aufstellen
-Notiz: ''
 Beispielsatz: 記者たちは一斉にカメラを構えた。
 Beispielsatz-Lesung: 記者[きしゃ]たちは 一斉[いっせい]にカメラを 構[かま]えた。
 Beispielsatz-Übersetzung: Die Reporter hielten auf einmal Kameras hoch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

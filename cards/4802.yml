@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lauchzwiebel
-Notiz: ''
 Beispielsatz: 私は葱が苦手だ。
 Beispielsatz-Lesung: 私[わたし]は 葱[ねぎ]が 苦手[にがて]だ。
 Beispielsatz-Übersetzung: Ich mag keine Lauchzwiebeln.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

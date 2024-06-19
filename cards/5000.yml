@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. adv.
 Definition: mäßig, so lala
-Notiz: ''
 Beispielsatz: レポートの出来はまあまあだった。
 Beispielsatz-Lesung: レポートの 出来[でき]はまあまあだった。
 Beispielsatz-Übersetzung: Der Bericht war mittelmäßig bis gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

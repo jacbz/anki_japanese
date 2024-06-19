@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ordentlich, genau
-Notiz: ''
 Beispielsatz: ちゃんと手を洗いましたか。
 Beispielsatz-Lesung: ちゃんと 手[て]を 洗[あら]いましたか。
 Beispielsatz-Übersetzung: Hast du deine Hände ordentlich gewaschen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

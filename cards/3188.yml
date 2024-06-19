@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: trennen, teilen; auseinanderhalten
-Notiz: ''
 Beispielsatz: 貴重品は体から離さないでください。
 Beispielsatz-Lesung: 貴重品[きちょうひん]は 体[からだ]から 離[はな]さないでください。
 Beispielsatz-Übersetzung: Bitte lassen Sie Ihre Wertsachen nicht unbeaufsichtigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

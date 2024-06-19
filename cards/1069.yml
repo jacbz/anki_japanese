@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überqueren, hinübergehen
-Notiz: ''
 Beispielsatz: 通りを渡るときは注意しなさい。
 Beispielsatz-Lesung: 通[とお]りを 渡[わた]るときは 注意[ちゅうい]しなさい。
 Beispielsatz-Übersetzung: Du musst vorsichtig sein, wenn du die Straße überquerst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

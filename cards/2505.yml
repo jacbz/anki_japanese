@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Erstklässler, erstes Jahr
-Notiz: ''
 Beispielsatz: 彼の子供は小学一年生だ。
 Beispielsatz-Lesung: 彼[かれ]の 子供[こども]は 小学[しょうがく] 一年生[いちねんせい]だ。
 Beispielsatz-Übersetzung: Sein Kind ist in der ersten Klasse der Grundschule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sänger
-Notiz: ''
 Beispielsatz: 彼は美しい声の歌手だ。
 Beispielsatz-Lesung: 彼[かれ]は 美[うつく]しい 声[こえ]の 歌手[かしゅ]だ。
 Beispielsatz-Übersetzung: Er ist ein Sänger mit einer schönen Stimme.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

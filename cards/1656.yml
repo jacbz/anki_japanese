@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: etwas, leicht
-Notiz: ''
 Beispielsatz: 彼は標準よりやや背が高い。
 Beispielsatz-Lesung: 彼[かれ]は 標準[ひょうじゅん]よりやや 背[せ]が 高[たか]い。
 Beispielsatz-Übersetzung: Er ist etwas größer als der Durchschnitt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

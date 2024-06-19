@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: natürlich, üblich, gemeinsam, gewöhnlich
-Notiz: ''
 Beispielsatz: これは日本では当たり前のことだ。
 Beispielsatz-Lesung: これは 日本[にっぽん]では 当[あ]たり 前[まえ]のことだ。
 Beispielsatz-Übersetzung: Das ist in Japan etwas Natürliches.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

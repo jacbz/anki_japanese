@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Knoblauch
-Notiz: ''
 Beispielsatz: 料理ににんにくを使う。
 Beispielsatz-Lesung: 料理[りょうり]ににんにくを 使[つか]う。
 Beispielsatz-Übersetzung: Wir verwenden Knoblauch zum Kochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

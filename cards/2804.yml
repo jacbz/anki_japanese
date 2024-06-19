@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Überraschung, Erstaunen
-Notiz: ''
 Beispielsatz: 彼が独身だったなんて驚きだ。
 Beispielsatz-Lesung: 彼[かれ]が 独身[どくしん]だったなんて 驚[おどろ]きだ。
 Beispielsatz-Übersetzung: Es war eine Überraschung zu erfahren, dass er immer noch
   Single war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

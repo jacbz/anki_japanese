@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: sanft; ruhig, friedlich
-Notiz: ''
 Beispielsatz: 彼は穏やかな口調で話をする。
 Beispielsatz-Lesung: 彼[かれ]は 穏[おだ]やかな 口調[くちょう]で 話[はなし]をする。
 Beispielsatz-Übersetzung: Er spricht in einem ruhigen Tonfall.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

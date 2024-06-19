@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (sich) drehen
-Notiz: ''
 Beispielsatz: 扇風機が回っていた。
 Beispielsatz-Lesung: 扇風機[せんぷうき]が 回[まわ]っていた。
 Beispielsatz-Übersetzung: Der Ventilator drehte sich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

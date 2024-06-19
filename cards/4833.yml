@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schwören, geloben
-Notiz: ''
 Beispielsatz: 彼は彼女に永遠の愛を誓った。
 Beispielsatz-Lesung: 彼[かれ]は 彼女[かのじょ]に 永遠[えいえん]の 愛[あい]を 誓[ちか]った。
 Beispielsatz-Übersetzung: Er schwor, sie für immer zu lieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

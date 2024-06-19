@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: endlich, schließlich, allmählich
-Notiz: ''
 Beispielsatz: ようやく全て終わった。
 Beispielsatz-Lesung: ようやく 全[すべ]て 終[お]わった。
 Beispielsatz-Übersetzung: Es ist endlich alles vorbei.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

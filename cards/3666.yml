@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Möbel
-Notiz: ''
 Beispielsatz: 新居の家具を買いそろえた。
 Beispielsatz-Lesung: 新居[しんきょ]の 家具[かぐ]を 買[か]いそろえた。
 Beispielsatz-Übersetzung: Wir haben Möbel für unser neues Zuhause gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

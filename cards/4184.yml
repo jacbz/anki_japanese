@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pappe
-Notiz: ''
 Beispielsatz: この部屋に積み上げられたダンボールの山がある。
 Beispielsatz-Lesung: この 部屋[へや]に 積[つ]み 上[あ]げられたダンボールの 山[やま]がある。
 Beispielsatz-Übersetzung: Es gibt Stapel von Pappe in diesem Raum.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

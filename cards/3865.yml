@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reihe
-Notiz: ''
 Beispielsatz: 列に並んでください。
 Beispielsatz-Lesung: 列[れつ]に 並[なら]んでください。
 Beispielsatz-Übersetzung: Bitte stellen Sie sich in der Schlange an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

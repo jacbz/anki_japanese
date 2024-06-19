@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haut
-Notiz: ''
 Beispielsatz: 目の周りは皮膚が薄い。
 Beispielsatz-Lesung: 目[め]の 周[まわ]りは 皮膚[ひふ]が 薄[うす]い。
 Beispielsatz-Übersetzung: Die Haut um die Augen herum ist dünn.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

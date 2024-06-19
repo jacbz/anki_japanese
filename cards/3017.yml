@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eisenbahn
-Notiz: ''
 Beispielsatz: 開通したばかりの鉄道を利用した。
 Beispielsatz-Lesung: 開通[かいつう]したばかりの 鉄道[てつどう]を 利用[りよう]した。
 Beispielsatz-Übersetzung: Ich habe die Eisenbahn benutzt, die gerade eröffnet worden
   war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

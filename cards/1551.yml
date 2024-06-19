@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umfang, Bereich
-Notiz: ''
 Beispielsatz: 次の試験の範囲はどこですか。
 Beispielsatz-Lesung: 次[つぎ]の 試験[しけん]の 範囲[はんい]はどこですか。
 Beispielsatz-Übersetzung: Was wird in der nächsten Prüfung vorkommen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schmutzig; unfair; vulgär
-Notiz: ''
 Beispielsatz: 汚いから、触ったらいけません。
 Beispielsatz-Lesung: 汚[きたな]いから、 触[さわ]ったらいけません。
 Beispielsatz-Übersetzung: Es ist schmutzig, berühre es nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

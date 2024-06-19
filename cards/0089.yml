@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: 'es ist nicht der Fall, dass '
-Notiz: ''
 Beispielsatz: 私は日本人ではない。
 Beispielsatz-Lesung: 私[わたし]は 日本人[にっぽんじん]ではない。
 Beispielsatz-Übersetzung: Ich bin kein Japaner.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

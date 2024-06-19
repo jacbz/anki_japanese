@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbinden, binden
-Notiz: ''
 Beispielsatz: 犬を庭の木につないだ。
 Beispielsatz-Lesung: 犬[いぬ]を 庭[にわ]の 木[き]につないだ。
 Beispielsatz-Übersetzung: Ich habe meinen Hund an den Baum im Garten gebunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

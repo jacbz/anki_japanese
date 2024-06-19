@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anvisieren
-Notiz: ''
 Beispielsatz: 彼は優勝を狙っている。
 Beispielsatz-Lesung: 彼[かれ]は 優勝[ゆうしょう]を 狙[ねら]っている。
 Beispielsatz-Übersetzung: Er visiert an, die Meisterschaft zu gewinnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

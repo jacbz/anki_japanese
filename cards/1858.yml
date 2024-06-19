@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Arzt
-Notiz: ''
 Beispielsatz: その場合は直ちに医師の診断を受けてください。
 Beispielsatz-Lesung: その 場合[ばあい]は 直[ただ]ちに 医師[いし]の 診断[しんだん]を 受[う]けてください。
 Beispielsatz-Übersetzung: In solchen Fällen sollten Sie sofort einen Arzt aufsuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

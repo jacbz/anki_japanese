@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erster Versuch
-Notiz: ''
 Beispielsatz: 一回目は失敗した。
 Beispielsatz-Lesung: 一 回[かい] 目[め]は 失敗[しっぱい]した。
 Beispielsatz-Übersetzung: Das erste Mal war ein Fehlschlag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

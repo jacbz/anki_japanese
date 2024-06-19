@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: nach dem Krieg
-Notiz: ''
 Beispielsatz: この国は戦後大きく変化した。
 Beispielsatz-Lesung: この 国[くに]は 戦後[せんご] 大[おお]きく 変化[へんか]した。
 Beispielsatz-Übersetzung: Dieses Land hat sich seit dem Krieg stark verändert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

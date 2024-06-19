@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hoffen
-Notiz: ''
 Beispielsatz: 世界中の人が平和を望んでいる。
 Beispielsatz-Lesung: 世界[せかい] 中[なか]の 人[ひと]が 平和[へいわ]を 望[のぞ]んでいる。
 Beispielsatz-Übersetzung: Menschen auf der ganzen Welt hoffen auf Frieden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

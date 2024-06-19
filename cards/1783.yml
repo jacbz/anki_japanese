@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Standpunkt, Perspektive
-Notiz: ''
 Beispielsatz: この問題を別の観点から見てみましょう。
 Beispielsatz-Lesung: この 問題[もんだい]を 別[べつ]の 観点[かんてん]から 見[み]てみましょう。
 Beispielsatz-Übersetzung: Betrachten wir das Thema aus einem anderen Blickwinkel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

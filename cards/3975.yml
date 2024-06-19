@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Abdeckung
-Notiz: ''
 Beispielsatz: 車にカバーをかぶせた。
 Beispielsatz-Lesung: 車[くるま]にカバーをかぶせた。
 Beispielsatz-Übersetzung: Ich habe eine Plane über mein Auto gezogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

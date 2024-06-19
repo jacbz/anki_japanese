@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hineingehen; hereinkommen
-Notiz: ''
 Beispielsatz: 冷たい空気が部屋に入り込んでくる。
 Beispielsatz-Lesung: 冷[つめ]たい 空気[くうき]が 部屋[へや]に 入[はい]り 込[こ]んでくる。
 Beispielsatz-Übersetzung: Kalte Luft kommt ins Zimmer hinein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einrichtung, Institution, Anlage
-Notiz: ''
 Beispielsatz: 会員だけがこの施設を使える。
 Beispielsatz-Lesung: 会員[かいいん]だけがこの 施設[しせつ]を 使[つか]える。
 Beispielsatz-Übersetzung: Diese Einrichtung ist nur für Mitglieder zugänglich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

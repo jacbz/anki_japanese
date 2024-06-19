@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: ABSICHT DER VERNEINUNG
-Notiz: ''
 Beispielsatz: 彼女には何も言うまいと思った。
 Beispielsatz-Lesung: 彼女[かのじょ]には 何[なに]も 言[い]うまいと 思[おも]った。
 Beispielsatz-Übersetzung: Ich denke, ich werde ihr nichts sagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

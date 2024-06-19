@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schwanz
-Notiz: ''
 Beispielsatz: 犬がしっぽを振った。
 Beispielsatz-Lesung: 犬[いぬ]がしっぽを 振[ふ]った。
 Beispielsatz-Übersetzung: Der Hund wedelte mit dem Schwanz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

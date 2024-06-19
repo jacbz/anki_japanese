@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kleben, nah beieinander bleiben; ausgehen
-Notiz: ''
 Beispielsatz: 靴にガムがべったりくっ付いている。
 Beispielsatz-Lesung: 靴[くつ]にガムがべったりくっ 付[つ]いている。
 Beispielsatz-Übersetzung: Einige Kaugummis kleben fest an meinem Schuh.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

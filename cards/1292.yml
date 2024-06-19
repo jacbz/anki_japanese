@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: Dies und das, so und so
-Notiz: ''
 Beispielsatz: 「何々が好きだ」と彼に答えた。
 Beispielsatz-Lesung: 「 何[なに]々が 好[す]きだ」と 彼[かれ]に 答[こた]えた。
 Beispielsatz-Übersetzung: 'Ich antwortete ihm: „Ich mag dies und das“.'
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: System, Institution
-Notiz: ''
 Beispielsatz: 今の制度を変えるのは簡単ではない。
 Beispielsatz-Lesung: 今[いま]の 制度[せいど]を 変[か]えるのは 簡単[かんたん]ではない。
 Beispielsatz-Übersetzung: Es ist nicht einfach, das derzeitige System zu ändern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

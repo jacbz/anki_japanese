@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: neu, frisch
-Notiz: ''
 Beispielsatz: 新しいテレビを買った。
 Beispielsatz-Lesung: 新[あたら]しいテレビを 買[か]った。
 Beispielsatz-Übersetzung: Ich habe einen neuen Fernseher gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

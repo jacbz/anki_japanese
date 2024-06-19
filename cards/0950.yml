@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: drücken
-Notiz: ''
 Beispielsatz: 押さないでください。
 Beispielsatz-Lesung: 押[お]さないでください。
 Beispielsatz-Übersetzung: Bitte nicht drücken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

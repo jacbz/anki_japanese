@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Salat
-Notiz: ''
 Beispielsatz: もう少しサラダはいかがですか。
 Beispielsatz-Lesung: もう 少[すこ]しサラダはいかがですか。
 Beispielsatz-Übersetzung: Möchten Sie noch etwas Salat?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

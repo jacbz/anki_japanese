@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anfang
-Notiz: ''
 Beispielsatz: 彼は会見の冒頭で謝罪した。
 Beispielsatz-Lesung: 彼[かれ]は 会見[かいけん]の 冒頭[ぼうとう]で 謝罪[しゃざい]した。
 Beispielsatz-Übersetzung: Er entschuldigte sich am Anfang des Interviews.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

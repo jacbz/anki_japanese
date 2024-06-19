@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: lebhaft, lebendig; geschickt
-Notiz: ''
 Beispielsatz: 今日は鮮やかな赤い服を着ていた。
 Beispielsatz-Lesung: 今日[きょう]は 鮮[あざ]やかな 赤[あか]い 服[ふく]を 着[き]ていた。
 Beispielsatz-Übersetzung: Sie trug heute lebhaft rote Kleidung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: viele, eine Anzahl von
-Notiz: ''
 Beispielsatz: この町には歴史的な建造物が数多く残っている。
 Beispielsatz-Lesung: この 町[まち]には 歴史的[れきしてき]な 建造物[けんぞうぶつ]が 数多[かずおお]く 残[のこ]っている。
 Beispielsatz-Übersetzung: Es gibt viele historische Gebäude in dieser Stadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Begleiter; Partner
-Notiz: ''
 Beispielsatz: 結婚したくても相手がいません。
 Beispielsatz-Lesung: 結婚[けっこん]したくても 相手[あいて]がいません。
 Beispielsatz-Übersetzung: Ich möchte gerne heiraten, aber ich finde keinen Partner.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

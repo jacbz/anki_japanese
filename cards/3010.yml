@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vortäuschung
-Notiz: ''
 Beispielsatz: 私は知らない振りをした。
 Beispielsatz-Lesung: 私[わたし]は 知[し]らない 振[ふ]りをした。
 Beispielsatz-Übersetzung: Ich tat so, als ob ich es nicht wüsste.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

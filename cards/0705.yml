@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: wie, was, warum, wer
-Notiz: ''
 Beispielsatz: 一体どういうことですか。
 Beispielsatz-Lesung: 一体[いったい]どういうことですか。
 Beispielsatz-Übersetzung: Was ist denn hier los?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

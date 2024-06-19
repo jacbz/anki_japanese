@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aussehen, Erscheinungsbild
-Notiz: ''
 Beispielsatz: 人を見た目で判断するな。
 Beispielsatz-Lesung: 人を 見[み]た 目[め]で 判断[はんだん]するな。
 Beispielsatz-Übersetzung: Beurteile eine Person nicht nach ihrem Aussehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

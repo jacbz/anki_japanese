@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Austausch
-Notiz: ''
 Beispielsatz: メールでやり取りをする。
 Beispielsatz-Lesung: メールでやり 取[と]りをする。
 Beispielsatz-Übersetzung: Wir tauschen E-Mails aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

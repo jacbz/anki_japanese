@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wagen
-Notiz: ''
 Beispielsatz: 私はその時あえて何も言わなかった。
 Beispielsatz-Lesung: 私[わたし]はその 時[とき]あえて 何[なに]も 言[い]わなかった。
 Beispielsatz-Übersetzung: Ich wagte es zu dieser Zeit nicht, etwas zu sagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

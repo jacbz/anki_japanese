@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: seltsam, merkwürdig
-Notiz: ''
 Beispielsatz: 妙なうわさを耳にした。
 Beispielsatz-Lesung: 妙[みょう]なうわさを 耳[みみ]にした。
 Beispielsatz-Übersetzung: Ich habe ein seltsames Gerücht gehört.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

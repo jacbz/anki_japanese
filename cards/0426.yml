@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: wichtig
-Notiz: ''
 Beispielsatz: 継続的に努力することが大切だ。
 Beispielsatz-Lesung: 継続的[けいぞくてき]に 努力[どりょく]することが 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Es ist wichtig, kontinuierlich Anstrengungen zu unternehmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

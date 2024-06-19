@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: abschneiden, abreißen
-Notiz: ''
 Beispielsatz: 新聞記事をはさみで切り取った。
 Beispielsatz-Lesung: 新聞記事[しんぶんきじ]をはさみで 切[き]り 取[と]った。
 Beispielsatz-Übersetzung: Ich habe den Zeitungsartikel mit einer Schere ausgeschnitten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

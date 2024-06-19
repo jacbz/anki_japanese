@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: elf
-Notiz: ''
 Beispielsatz: その町まで十一キロある。
 Beispielsatz-Lesung: その 町[まち]まで十一キロある。
 Beispielsatz-Übersetzung: Bis zur Stadt sind es elf Kilometer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

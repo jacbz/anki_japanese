@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: '[etwas (mir) als Gefallen tun]'
-Notiz: ''
 Beispielsatz: 父が空港まで車で迎えに来てくれた。
 Beispielsatz-Lesung: 父[ちち]が 空港[くうこう]まで 車[くるま]で 迎[むか]えに 来[き]てくれた。
 Beispielsatz-Übersetzung: Mein Vater kam mit dem Auto zum Flughafen, um mich abzuholen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachmittag
-Notiz: ''
 Beispielsatz: 午後、会議がある。
 Beispielsatz-Lesung: 午後[ごご]、 会議[かいぎ]がある。
 Beispielsatz-Übersetzung: Es gibt am Nachmittag eine Besprechung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

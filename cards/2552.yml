@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lehrbuch
-Notiz: ''
 Beispielsatz: 教科書を机の上に出してください。
 Beispielsatz-Lesung: 教科書[きょうかしょ]を 机[つくえ]の 上[うえ]に 出[だ]してください。
 Beispielsatz-Übersetzung: Bitte legen Sie Ihr Lehrbuch auf den Schreibtisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

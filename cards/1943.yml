@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übernehmen; annehmen; ernten
-Notiz: ''
 Beispielsatz: 日本は西洋の習慣や文化を取り入れた。
 Beispielsatz-Lesung: 日本[にっぽん]は 西洋[せいよう]の 習慣[しゅうかん]や 文化[ぶんか]を 取[と]り 入[い]れた。
 Beispielsatz-Übersetzung: Japan hat westliche Bräuche und Kultur übernommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

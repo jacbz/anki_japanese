@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bett
-Notiz: ''
 Beispielsatz: 犬が私のベッドで寝ている。
 Beispielsatz-Lesung: 犬[いぬ]が 私[わたし]のベッドで 寝[ね]ている。
 Beispielsatz-Übersetzung: Mein Hund schläft in meinem Bett.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

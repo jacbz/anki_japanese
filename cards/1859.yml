@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Band; Gürtel
-Notiz: ''
 Beispielsatz: このバンドは日本でとても人気がある。
 Beispielsatz-Lesung: このバンドは 日本[にっぽん]でとても 人気[にんき]がある。
 Beispielsatz-Übersetzung: Diese Band ist in Japan sehr beliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: muss sein
-Notiz: ''
 Beispielsatz: 彼女が彼の娘であることは間違いない。
 Beispielsatz-Lesung: 彼女[かのじょ]が 彼[かれ]の 娘[むすめ]であることは 間違[まちが]いない。
 Beispielsatz-Übersetzung: Es besteht kein Zweifel, dass sie seine Tochter ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

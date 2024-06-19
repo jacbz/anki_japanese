@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich bemühen, widmen; erschöpfen
-Notiz: ''
 Beispielsatz: 勝つために全力を尽くすつもりだ。
 Beispielsatz-Lesung: 勝[か]つために 全力[ぜんりょく]を 尽[つ]くすつもりだ。
 Beispielsatz-Übersetzung: Ich werde mein Bestes geben, um zu gewinnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

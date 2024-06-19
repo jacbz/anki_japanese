@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ziehen
-Notiz: ''
 Beispielsatz: この紐を引くとベルが鳴る。
 Beispielsatz-Lesung: この 紐[ひも]を 引[ひ]くとベルが 鳴[な]る。
 Beispielsatz-Übersetzung: Wenn man an diesem Seil zieht, läutet die Glocke.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

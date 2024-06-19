@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lebensstil
-Notiz: ''
 Beispielsatz: いろいろな生き方がある。
 Beispielsatz-Lesung: いろいろな 生[い]き 方[かた]がある。
 Beispielsatz-Übersetzung: Es gibt viele Lebensstile.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

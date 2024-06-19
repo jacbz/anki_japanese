@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwölfter (Tag), zwölf Tage
-Notiz: ''
 Beispielsatz: 十二日の便で国に帰ります。
 Beispielsatz-Lesung: 十二 日[にち]の 便[びん]で 国[くに]に 帰[かえ]ります。
 Beispielsatz-Übersetzung: Ich werde mit dem Flug am zwölften Tag in mein Land zurückkehren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

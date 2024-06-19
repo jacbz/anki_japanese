@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grundlage, Basis
-Notiz: ''
 Beispielsatz: 地震によって多くの人々が生活の基盤を失った。
 Beispielsatz-Lesung: 地震[じしん]によって 多[おお]くの 人々[ひとびと]が 生活[せいかつ]の 基盤[きばん]を 失[うしな]った。
 Beispielsatz-Übersetzung: Viele Menschen verloren durch das Erdbeben die Grundlagen
   ihres Lebens.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

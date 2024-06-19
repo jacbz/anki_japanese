@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zerbrechen; brechen
-Notiz: ''
 Beispielsatz: 強風で窓ガラスが割れた。
 Beispielsatz-Lesung: 強風[きょうふう]で 窓[まど]ガラスが 割[わ]れた。
 Beispielsatz-Übersetzung: Das Fenster wurde von einem starken Wind zerbrochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

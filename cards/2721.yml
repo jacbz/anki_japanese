@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Brille
-Notiz: ''
 Beispielsatz: 新しい眼鏡が必要だ。
 Beispielsatz-Lesung: 新[あたら]しい 眼鏡[めがね]が 必要[ひつよう]だ。
 Beispielsatz-Übersetzung: Ich brauche ein neues Paar Brille.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

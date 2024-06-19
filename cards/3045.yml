@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Form
-Notiz: ''
 Beispielsatz: 現代はさまざまな雇用形態がある。
 Beispielsatz-Lesung: 現代[げんだい]はさまざまな 雇用[こよう] 形態[けいたい]がある。
 Beispielsatz-Übersetzung: Es gibt verschiedene Formen der Beschäftigung in der heutigen
   Zeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

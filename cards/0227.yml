@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: derzeit; Gegenwart
-Notiz: ''
 Beispielsatz: 現在、気温は0度です。
 Beispielsatz-Lesung: 現在[げんざい]、 気温[きおん]は0 度[ど]です。
 Beispielsatz-Übersetzung: Die Temperatur beträgt derzeit null Grad.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

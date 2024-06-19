@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: natürlich
-Notiz: ''
 Beispielsatz: そう考えるのも当然だ。
 Beispielsatz-Lesung: そう 考[かんが]えるのも 当然[とうぜん]だ。
 Beispielsatz-Übersetzung: Es ist natürlich, dass Sie so denken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

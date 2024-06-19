@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: enthalten, einschließen
-Notiz: ''
 Beispielsatz: みかんにはビタミンが含まれている。
 Beispielsatz-Lesung: みかんにはビタミンが 含[ふく]まれている。
 Beispielsatz-Übersetzung: Mandarinen enthalten Vitamine.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

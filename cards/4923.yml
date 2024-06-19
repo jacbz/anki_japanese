@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erhitzen
-Notiz: ''
 Beispielsatz: フライパンを十分熱してから肉を焼いてください。
 Beispielsatz-Lesung: フライパンを 十分[じゅうぶん] 熱[ねっ]してから 肉[にく]を 焼[や]いてください。
 Beispielsatz-Übersetzung: Braten Sie das Fleisch an, nachdem Sie die Bratpfanne gut
   erhitzt haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

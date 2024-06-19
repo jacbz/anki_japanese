@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erhalten, bekommen
-Notiz: ''
 Beispielsatz: 多くの人の協力を得ることができた。
 Beispielsatz-Lesung: 多[おお]くの人の 協力[きょうりょく]を 得[え]ることができた。
 Beispielsatz-Übersetzung: Ich habe Hilfe von vielen Menschen bekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

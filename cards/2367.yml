@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: herausspringen; herausstürzen
-Notiz: ''
 Beispielsatz: 目の前に急に子供が飛び出してきた。
 Beispielsatz-Lesung: 目[め]の 前[まえ]に 急[きゅう]に 子供[こども]が 飛[と]び 出[だ]してきた。
 Beispielsatz-Übersetzung: Ein Kind sprang plötzlich direkt vor mir heraus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

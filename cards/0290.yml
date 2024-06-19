@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: rufen
-Notiz: ''
 Beispielsatz: タクシーを呼んでください。
 Beispielsatz-Lesung: タクシーを 呼[よ]んでください。
 Beispielsatz-Übersetzung: Bitte rufen Sie ein Taxi für mich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

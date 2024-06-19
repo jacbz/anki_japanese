@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wert
-Notiz: ''
 Beispielsatz: 円の価値が上昇した。
 Beispielsatz-Lesung: 円[えん]の 価値[かち]が 上昇[じょうしょう]した。
 Beispielsatz-Übersetzung: Der Wert des Yen ist gestiegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

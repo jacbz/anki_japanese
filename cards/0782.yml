@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fahrrad
-Notiz: ''
 Beispielsatz: ほとんどの学生は自転車で通学している。
 Beispielsatz-Lesung: ほとんどの 学生[がくせい]は 自転車[じてんしゃ]で 通学[つうがく]している。
 Beispielsatz-Übersetzung: Die meisten Schüler fahren mit dem Fahrrad zur Schule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

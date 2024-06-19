@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Glas
-Notiz: ''
 Beispielsatz: グラスにワインを注いだ。
 Beispielsatz-Lesung: グラスにワインを 注[そそ]いだ。
 Beispielsatz-Übersetzung: Ich habe Wein in ein Glas gegossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

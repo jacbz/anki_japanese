@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: begleiten, beinhalten
-Notiz: ''
 Beispielsatz: 台風には大雨が伴う。
 Beispielsatz-Lesung: 台風[たいふう]には 大雨[おおあめ]が 伴[ともな]う。
 Beispielsatz-Übersetzung: Ein Taifun beinhaltet starken Regen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

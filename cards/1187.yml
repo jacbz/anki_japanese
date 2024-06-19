@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Handlung; Bewegung; Verhalten
-Notiz: ''
 Beispielsatz: 自分の行為には責任がある。
 Beispielsatz-Lesung: 自分[じぶん]の 行為[こうい]には 責任[せきにん]がある。
 Beispielsatz-Übersetzung: Du bist für deine eigenen Handlungen verantwortlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

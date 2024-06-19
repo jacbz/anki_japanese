@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anlass
-Notiz: ''
 Beispielsatz: これがきっかけで彼女と会った。
 Beispielsatz-Lesung: これがきっかけで 彼女[かのじょ]と 会[あ]った。
 Beispielsatz-Übersetzung: Dank diesem Anlass habe ich sie kennengelernt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

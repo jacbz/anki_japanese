@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: legen, stellen; zurücklassen
-Notiz: ''
 Beispielsatz: 部屋に荷物を置いた。
 Beispielsatz-Lesung: 部屋[へや]に 荷物[にもつ]を 置[お]いた。
 Beispielsatz-Übersetzung: Ich habe meine Tasche im Zimmer abgelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

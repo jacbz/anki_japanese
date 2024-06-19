@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., na-adj.
 Definition: große Menge, viel
-Notiz: ''
 Beispielsatz: 日本は大量の魚を消費する。
 Beispielsatz-Lesung: 日本[にっぽん]は 大量[たいりょう]の 魚[さかな]を 消費[しょうひ]する。
 Beispielsatz-Übersetzung: Japan konsumiert eine große Menge an Fisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

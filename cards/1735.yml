@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich beeilen
-Notiz: ''
 Beispielsatz: 電車に乗ろうと急いだ。
 Beispielsatz-Lesung: 電車[でんしゃ]に 乗[の]ろうと 急[いそ]いだ。
 Beispielsatz-Übersetzung: Ich habe mich beeilt, um den Zug zu erwischen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

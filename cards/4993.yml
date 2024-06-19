@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nächste Woche
-Notiz: ''
 Beispielsatz: 来週から学校が始まる。
 Beispielsatz-Lesung: 来週[らいしゅう]から 学校[がっこう]が 始[はじ]まる。
 Beispielsatz-Übersetzung: Die Schule beginnt nächste Woche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

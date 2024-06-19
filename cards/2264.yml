@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Liebe (romantisch)
-Notiz: ''
 Beispielsatz: 彼女は今恋をしている。
 Beispielsatz-Lesung: 彼女[かのじょ]は 今[こん] 恋[こい]をしている。
 Beispielsatz-Übersetzung: Sie ist jetzt in jemanden verliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

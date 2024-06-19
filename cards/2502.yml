@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lastwagen
-Notiz: ''
 Beispielsatz: あのトラックは私の父のだ。
 Beispielsatz-Lesung: あのトラックは 私[わたし]の 父[ちち]のだ。
 Beispielsatz-Übersetzung: Dieser Lastwagen gehört meinem Vater.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

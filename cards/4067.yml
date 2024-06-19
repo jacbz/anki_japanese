@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: normal
-Notiz: ''
 Beispielsatz: 体温は正常です。
 Beispielsatz-Lesung: 体温[たいおん]は 正常[せいじょう]です。
 Beispielsatz-Übersetzung: Die Körpertemperatur ist normal.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

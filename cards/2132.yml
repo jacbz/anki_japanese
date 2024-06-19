@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Universum, Weltraum
-Notiz: ''
 Beispielsatz: 宇宙には何百万もの星がある。
 Beispielsatz-Lesung: 宇宙[うちゅう]には 何[なん] 百[ひゃく] 万[まん]もの 星[ほし]がある。
 Beispielsatz-Übersetzung: Im Universum gibt es Millionen von Sternen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

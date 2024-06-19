@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teil
-Notiz: ''
 Beispielsatz: 計画の一部を変更した。
 Beispielsatz-Lesung: 計画[けいかく]の 一部[いちぶ]を 変更[へんこう]した。
 Beispielsatz-Übersetzung: Wir haben einen Teil des Plans geändert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

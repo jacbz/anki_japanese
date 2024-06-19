@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen, hinunterfallen
-Notiz: ''
 Beispielsatz: 彼ははしごから落ちた。
 Beispielsatz-Lesung: 彼[かれ]ははしごから 落[お]ちた。
 Beispielsatz-Übersetzung: Er ist von einer Leiter gefallen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

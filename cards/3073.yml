@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Talent, Fähigkeit
-Notiz: ''
 Beispielsatz: このピアニストは素晴らしい才能を持っている。
 Beispielsatz-Lesung: このピアニストは 素晴[すば]らしい 才能[さいのう]を 持[も]っている。
 Beispielsatz-Übersetzung: Dieser Pianist hat ein herrliches Talent.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

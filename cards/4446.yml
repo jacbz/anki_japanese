@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Hallo, Guten Tag
-Notiz: ''
 Beispielsatz: 小さい子が私に「こんにちは」と言った。
 Beispielsatz-Lesung: 小[ちい]さい 子[こ]が 私[わたし]に「こんにちは」と 言[い]った。
 Beispielsatz-Übersetzung: Das kleine Kind hat mir Hallo gesagt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

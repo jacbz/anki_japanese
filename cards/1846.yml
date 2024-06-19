@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Insekt, Käfer; Wurm
-Notiz: ''
 Beispielsatz: 母は本当に虫が嫌いだ。
 Beispielsatz-Lesung: 母[はは]は 本当[ほんとう]に 虫[むし]が 嫌[きら]いだ。
 Beispielsatz-Übersetzung: Meine Mutter mag eigentlich keine Insekten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: Augenblick, Moment
-Notiz: ''
 Beispielsatz: 彼女は私を見た瞬間ほほえんだ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 私[わたし]を 見[み]た 瞬間[しゅんかん]ほほえんだ。
 Beispielsatz-Übersetzung: In dem Moment, als sie mich sah, lächelte sie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

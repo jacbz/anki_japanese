@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Shogunat
-Notiz: ''
 Beispielsatz: 徳川幕府は本拠地を江戸（東京）に置いた。
 Beispielsatz-Lesung: 徳川幕府[とくがわばくふ]は 本拠地[ほんきょち]を 江戸[えど]（ 東京[とうきょう]）に 置[お]いた。
 Beispielsatz-Übersetzung: Das Tokugawa-Shogunat hatte seinen Sitz in Edo (Tokio).
+
+# Notizen können HTML enthalten.            
+Notiz: ''

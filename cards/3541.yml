@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: bester Freund, enger Freund
-Notiz: ''
 Beispielsatz: 二十年来の親友の結婚式に出席した。
 Beispielsatz-Lesung: 二十 年来[ねんらい]の 親友[しんゆう]の 結婚式[けっこんしき]に 出席[しゅっせき]した。
 Beispielsatz-Übersetzung: Ich war auf der Hochzeit meines besten Freundes, den ich
   seit zwanzig Jahren kenne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

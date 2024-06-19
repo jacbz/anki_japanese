@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: messen; wiegen
-Notiz: ''
 Beispielsatz: その人は家の高さを測っている。
 Beispielsatz-Lesung: その人は 家[いえ]の 高[たか]さを 測[はか]っている。
 Beispielsatz-Übersetzung: Die Person misst die Höhe eines Hauses.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

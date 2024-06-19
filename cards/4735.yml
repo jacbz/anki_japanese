@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beilage, Essen
-Notiz: ''
 Beispielsatz: おかずばかりでなくご飯も食べなさい。
 Beispielsatz-Lesung: おかずばかりでなくご 飯[はん]も 食[た]べなさい。
 Beispielsatz-Übersetzung: Iss nicht nur Beilagen, sondern auch Reis.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

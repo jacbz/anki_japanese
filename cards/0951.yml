@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verantwortung
-Notiz: ''
 Beispielsatz: 責任は私にあります。
 Beispielsatz-Lesung: 責任[せきにん]は 私[わたし]にあります。
 Beispielsatz-Übersetzung: Die Verantwortung liegt bei mir.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

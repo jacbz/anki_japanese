@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schlucken
-Notiz: ''
 Beispielsatz: 私は急いで飴を飲み込んだ。
 Beispielsatz-Lesung: 私[わたし]は 急[いそ]いで 飴[あめ]を 飲[の]み 込[こ]んだ。
 Beispielsatz-Übersetzung: Ich habe hastig ein Bonbon geschluckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hotel
-Notiz: ''
 Beispielsatz: 高級なホテルに泊まった。
 Beispielsatz-Lesung: 高級[こうきゅう]なホテルに 泊[と]まった。
 Beispielsatz-Übersetzung: Wir wohnten in einem Hotel der Spitzenklasse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

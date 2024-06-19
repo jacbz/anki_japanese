@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: abholen; zurücknehmen
-Notiz: ''
 Beispielsatz: フロントへ預けた荷物を引き取りに行く。
 Beispielsatz-Lesung: フロントへ 預[あず]けた 荷物[にもつ]を 引[ひ]き 取[と]りに 行[い]く。
 Beispielsatz-Übersetzung: Ich werde zum Empfang gehen, um das Gepäck abzuholen, das
   ich dort gelassen habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

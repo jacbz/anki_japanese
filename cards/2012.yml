@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einkommen
-Notiz: ''
 Beispielsatz: 私より妻のほうが収入が多い。
 Beispielsatz-Lesung: 私[わたし]より 妻[つま]のほうが 収入[しゅうにゅう]が 多[おお]い。
 Beispielsatz-Übersetzung: Das Einkommen meiner Frau ist höher als meins.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

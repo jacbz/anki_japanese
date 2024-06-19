@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Freude, Vergnügen
-Notiz: ''
 Beispielsatz: 皆さまをお迎えできるのは何よりの喜びです。
 Beispielsatz-Lesung: 皆[みな]さまをお 迎[むか]えできるのは 何[なに]よりの 喜[よろこ]びです。
 Beispielsatz-Übersetzung: Es ist mir eine große Freude, Sie alle willkommen zu heißen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

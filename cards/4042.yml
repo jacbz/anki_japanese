@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verlust, Schaden
-Notiz: ''
 Beispielsatz: もし今買わなかったら大変な損になるでしょう。
 Beispielsatz-Lesung: もし 今[いま] 買[か]わなかったら 大変[たいへん]な 損[そん]になるでしょう。
 Beispielsatz-Übersetzung: Wenn Sie es jetzt nicht kaufen, ist das ein großer Verlust.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

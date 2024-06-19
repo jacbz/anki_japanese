@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: so
-Notiz: ''
 Beispielsatz: ああいう服が着たいなあ。
 Beispielsatz-Lesung: ああいう 服[ふく]が 着[き]たいなあ。
 Beispielsatz-Übersetzung: Ich wünschte, ich könnte so etwas tragen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: durchführen, abhalten
-Notiz: ''
 Beispielsatz: 明日、会議が行う予定だ。
 Beispielsatz-Lesung: 明日[あした]、 会議[かいぎ]が 行[おこな]う 予定[よてい]だ。
 Beispielsatz-Übersetzung: Morgen werden wir eine Besprechung abhalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

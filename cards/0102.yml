@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: nachdenken
-Notiz: ''
 Beispielsatz: よく考えてから話しなさい。
 Beispielsatz-Lesung: よく 考[かんが]えてから 話[はな]しなさい。
 Beispielsatz-Übersetzung: Denken Sie nach, bevor Sie sprechen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

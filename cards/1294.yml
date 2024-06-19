@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schmerz
-Notiz: ''
 Beispielsatz: これは痛みを和らげるための薬です。
 Beispielsatz-Lesung: これは 痛[いた]みを 和[やわ]らげるための 薬[くすり]です。
 Beispielsatz-Übersetzung: Dies ist ein Medikament zur Linderung von Schmerzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

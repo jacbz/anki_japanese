@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Küche
-Notiz: ''
 Beispielsatz: キッチンからいいにおいがした。
 Beispielsatz-Lesung: キッチンからいい 匂[にお]いがした。
 Beispielsatz-Übersetzung: Ein guter Geruch kam aus der Küche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

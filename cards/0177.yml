@@ -5,7 +5,9 @@ Alternative: 陽
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tag; Sonne
-Notiz: ''
 Beispielsatz: この部屋は日が良く当たって、とても暑くなる。
 Beispielsatz-Lesung: この 部屋[へや]は 日[ひ]が 良[よ]く 当[あ]たって、とても 暑[あつ]くなる。
 Beispielsatz-Übersetzung: Dieses Zimmer bekommt viel Sonnenlicht und wird sehr heiß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

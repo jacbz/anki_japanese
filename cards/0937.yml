@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Monat; Mond
-Notiz: ''
 Beispielsatz: 月が出た。
 Beispielsatz-Lesung: 月[つき]が 出[で]た。
 Beispielsatz-Übersetzung: Der Mond ist aufgegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

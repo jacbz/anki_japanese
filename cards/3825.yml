@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: oft
-Notiz: ''
 Beispielsatz: 度々お電話してすみません。
 Beispielsatz-Lesung: 度々[たびたび]お 電話[でんわ]してすみません。
 Beispielsatz-Übersetzung: Es tut mir leid, dass ich dich oft anrufe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

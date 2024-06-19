@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: bald; in Kürze
-Notiz: ''
 Beispielsatz: そろそろ行かないと。
 Beispielsatz-Lesung: そろそろ 行[い]かないと。
 Beispielsatz-Übersetzung: Ich muss bald gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

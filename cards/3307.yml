@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. adv.
 Definition: Hälfte, Mitte; teilweise
-Notiz: ''
 Beispielsatz: 彼は1980年代半ばに日本に来た。
 Beispielsatz-Lesung: 彼[かれ]は1980 年代[ねんだい] 半[なか]ばに 日本[にっぽん]に 来[き]た。
 Beispielsatz-Übersetzung: Er kam Mitte der 1980er Jahre nach Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

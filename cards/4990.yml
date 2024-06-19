@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: tief empfunden, von Herzen
-Notiz: ''
 Beispielsatz: 彼女の親切さをしみじみと感じた。
 Beispielsatz-Lesung: 彼女[かのじょ]の 親切[しんせつ]さをしみじみと 感[かん]じた。
 Beispielsatz-Übersetzung: Ich habe tief empfunden, wie freundlich sie war.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

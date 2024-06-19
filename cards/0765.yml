@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ohr
-Notiz: ''
 Beispielsatz: 彼は耳をかいた。
 Beispielsatz-Lesung: 彼[かれ]は 耳[みみ]をかいた。
 Beispielsatz-Übersetzung: Er kratzte sich am Ohr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

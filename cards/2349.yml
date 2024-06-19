@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kind (von jemand anderem)
-Notiz: ''
 Beispielsatz: お子さんは今、いくつですか。
 Beispielsatz-Lesung: お 子[こ]さんは 今[いま]、いくつですか。
 Beispielsatz-Übersetzung: Wie alt sind deine Kinder?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

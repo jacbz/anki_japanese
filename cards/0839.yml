@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich ärgern
-Notiz: ''
 Beispielsatz: 彼女は昨夜のことをまだ怒っている。
 Beispielsatz-Lesung: 彼女[かのじょ]は 昨夜[さくや]のことをまだ 怒[おこ]っている。
 Beispielsatz-Übersetzung: Sie ärgert sich immer noch über letzte Nacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

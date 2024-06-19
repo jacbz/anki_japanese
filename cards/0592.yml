@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beispiel
-Notiz: ''
 Beispielsatz: 例を挙げていただけますか。
 Beispielsatz-Lesung: 例[れい]を 挙[あ]げていただけますか。
 Beispielsatz-Übersetzung: Können Sie mir ein Beispiel nennen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jemandes Haus, jemandes Familie, jemandes Zuhause
-Notiz: ''
 Beispielsatz: 私は友人を我が家に招待した。
 Beispielsatz-Lesung: 私[わたし]は 友人[ゆうじん]を 我[わ]が 家[や]に 招待[しょうたい]した。
 Beispielsatz-Übersetzung: Ich habe meinen Freund zu unserem Haus eingeladen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

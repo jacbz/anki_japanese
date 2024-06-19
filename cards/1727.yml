@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: halten, greifen, umfassen
-Notiz: ''
 Beispielsatz: ハンドルを両手でしっかり握ってください。
 Beispielsatz-Lesung: ハンドルを 両手[りょうて]でしっかり 握[にぎ]ってください。
 Beispielsatz-Übersetzung: Bitte halten Sie das Lenkrad fest mit beiden Händen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

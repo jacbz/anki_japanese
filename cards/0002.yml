@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: an; auf; in; zu; für
-Notiz: ''
 Beispielsatz: 私は大阪に住んでいます。
 Beispielsatz-Lesung: 私[わたし]は 大阪[おおさか]に 住[す]んでいます。
 Beispielsatz-Übersetzung: Ich wohne in Osaka.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

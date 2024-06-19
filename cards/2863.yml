@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schlagen, hauen
-Notiz: ''
 Beispielsatz: 彼は友達の顔を殴った。
 Beispielsatz-Lesung: 彼[かれ]は 友達[ともだち]の 顔[かお]を 殴[なぐ]った。
 Beispielsatz-Übersetzung: Er hat das Gesicht seines Freundes geschlagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

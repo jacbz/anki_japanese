@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: KOPULA (höflich)
-Notiz: ''
 Beispielsatz: 彼は独身です。
 Beispielsatz-Lesung: 彼[かれ]は 独身[どくしん]です。
 Beispielsatz-Übersetzung: Er ist ledig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

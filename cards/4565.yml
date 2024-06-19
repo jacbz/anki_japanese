@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schritt
-Notiz: ''
 Beispielsatz: バスのステップを踏み外して恥ずかしかった。
 Beispielsatz-Lesung: バスのステップを 踏[ふ]み 外[はず]して 恥[は]ずかしかった。
 Beispielsatz-Übersetzung: Es war mir peinlich, dass ich den Einstieg in den Bus verpasst
   hatte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

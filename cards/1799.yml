@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: mit; durch; als
-Notiz: ''
 Beispielsatz: 本日をもって退職いたします。
 Beispielsatz-Lesung: 本日[ほんじつ]をもって 退職[たいしょく]いたします。
 Beispielsatz-Übersetzung: Ich werde das Unternehmen ab heute verlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

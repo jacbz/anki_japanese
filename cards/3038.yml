@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: heilen, kurieren, sich erholen von
-Notiz: ''
 Beispielsatz: ゆっくり休んで、仕事のストレスを癒した。
 Beispielsatz-Lesung: ゆっくり 休[やす]んで、 仕事[しごと]のストレスを 癒[いや]した。
 Beispielsatz-Übersetzung: Ich habe mich gut ausgeruht und mich von arbeitsbedingtem
   Stress erholt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

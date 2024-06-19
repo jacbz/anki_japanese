@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: prächtig, großartig, herrlich
-Notiz: ''
 Beispielsatz: その学校には立派なプールがある。
 Beispielsatz-Lesung: その 学校[がっこう]には 立派[りっぱ]なプールがある。
 Beispielsatz-Übersetzung: Die Schule hat einen prächtigen Swimmingpool.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

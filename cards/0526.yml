@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: geschehen, stattfinden
-Notiz: ''
 Beispielsatz: 近所で恐ろしい事件が起こった。
 Beispielsatz-Lesung: 近所[きんじょ]で 恐[おそ]ろしい 事件[じけん]が 起[お]こった。
 Beispielsatz-Übersetzung: In meiner Nachbarschaft hat sich ein schrecklicher Vorfall
   ereignet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

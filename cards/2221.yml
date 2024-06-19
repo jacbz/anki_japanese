@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Held, Heldin
-Notiz: ''
 Beispielsatz: この映画の主人公は誰ですか。
 Beispielsatz-Lesung: この 映画[えいが]の 主人公[しゅじんこう]は 誰[だれ]ですか。
 Beispielsatz-Übersetzung: Wer ist der Held dieses Films?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

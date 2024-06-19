@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kaninchen
-Notiz: ''
 Beispielsatz: 彼女はウサギを飼っている。
 Beispielsatz-Lesung: 彼女[かのじょ]はウサギを 飼[か]っている。
 Beispielsatz-Übersetzung: Sie hält ein Kaninchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

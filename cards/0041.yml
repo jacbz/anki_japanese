@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: wenn; mit
-Notiz: ''
 Beispielsatz: お酒を飲みすぎると、眠くなってしまう。
 Beispielsatz-Lesung: お 酒[さけ]を 飲[の]みすぎると、 眠[ねむ]くなってしまう。
 Beispielsatz-Übersetzung: Wenn ich zu viel trinke, werde ich schläfrig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

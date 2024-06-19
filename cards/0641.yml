@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. disc.
 Definition: BETONUNG
-Notiz: ''
 Beispielsatz: とうとう日本に来たぞ。
 Beispielsatz-Lesung: とうとう 日本[にっぽん]に 来[き]たぞ。
 Beispielsatz-Übersetzung: Wir sind endlich in Japan angekommen!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

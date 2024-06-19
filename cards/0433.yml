@@ -5,7 +5,9 @@ Alternative: 段々
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: allmählich, immer (mehr/weniger)
-Notiz: ''
 Beispielsatz: だんだん寒くなってきた。
 Beispielsatz-Lesung: だんだん 寒[さむ]くなってきた。
 Beispielsatz-Übersetzung: Es wird immer kälter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

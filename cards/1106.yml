@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wohnung, Eigentumswohnung, Apartment
-Notiz: ''
 Beispielsatz: 彼は高層マンションに住んでいる。
 Beispielsatz-Lesung: 彼[かれ]は 高層[こうそう]マンションに 住[す]んでいる。
 Beispielsatz-Übersetzung: Er lebt in einer Hochhauswohnung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

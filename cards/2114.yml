@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: in Ordnung, verstanden, einverstanden
-Notiz: ''
 Beispielsatz: ひとつお願いしてもよろしいですか。
 Beispielsatz-Lesung: ひとつお 願[ねが]いしてもよろしいですか。
 Beispielsatz-Übersetzung: Darf ich Sie um einen Gefallen bitten?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

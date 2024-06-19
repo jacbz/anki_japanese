@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: der Westen
-Notiz: ''
 Beispielsatz: 日本は西洋の多大な影響を受けた。
 Beispielsatz-Lesung: 日本[にっぽん]は 西洋[せいよう]の 多大[ただい]な 影響[えいきょう]を 受[う]けた。
 Beispielsatz-Übersetzung: Japan wurde stark vom Westen beeinflusst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

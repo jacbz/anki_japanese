@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: umschalten, wechseln
-Notiz: ''
 Beispielsatz: 明かりを赤から緑に切り替えた。
 Beispielsatz-Lesung: 明[あ]かりを 赤[あか]から 緑[みどり]に 切[き]り 替[か]えた。
 Beispielsatz-Übersetzung: Die Lichter wechselten von Rot auf Grün.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

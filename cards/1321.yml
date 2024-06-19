@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zehn Uhr
-Notiz: ''
 Beispielsatz: 十時にお客様と会う約束があります。
 Beispielsatz-Lesung: 十 時[じ]にお 客様[きゃくさま]と 会[あ]う 約束[やくそく]があります。
 Beispielsatz-Übersetzung: Ich habe um zehn Uhr einen Termin mit einem Kunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

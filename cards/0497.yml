@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: voranschreiten
-Notiz: ''
 Beispielsatz: 計画は予定通り進んでいる。
 Beispielsatz-Lesung: 計画[けいかく]は 予定通[よていどお]り 進[すす]んでいる。
 Beispielsatz-Übersetzung: Der Plan schreitet planmäßig voran.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

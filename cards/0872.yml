@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Juni
-Notiz: ''
 Beispielsatz: 日本では六月上旬から梅雨です。
 Beispielsatz-Lesung: 日本[にっぽん]では 六月[ろくがつ] 上旬[じょうじゅん]から 梅雨[つゆ]です。
 Beispielsatz-Übersetzung: Ab Anfang Juni ist in Japan Regenzeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

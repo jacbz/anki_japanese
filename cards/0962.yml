@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich an etwas gewöhnen
-Notiz: ''
 Beispielsatz: 大阪の生活に慣れてきた。
 Beispielsatz-Lesung: 大阪[おおさか]の 生活[せいかつ]に 慣[な]れてきた。
 Beispielsatz-Übersetzung: Ich gewöhne mich langsam an das Leben in Osaka.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

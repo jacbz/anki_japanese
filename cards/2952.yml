@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: quälen, mobben, ärgern
-Notiz: ''
 Beispielsatz: 動物をいじめてはいけない。
 Beispielsatz-Lesung: 動物[どうぶつ]をいじめてはいけない。
 Beispielsatz-Übersetzung: Man darf Tiere nicht quälen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

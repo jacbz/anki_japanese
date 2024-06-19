@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: durchführen, erreichen, erfüllen
-Notiz: ''
 Beispielsatz: 自分の責任は果たしたと思っている。
 Beispielsatz-Lesung: 自分[じぶん]の 責任[せきにん]は 果[は]たしたと 思[おも]っている。
 Beispielsatz-Übersetzung: Ich glaube, ich habe meine Verantwortung erfüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

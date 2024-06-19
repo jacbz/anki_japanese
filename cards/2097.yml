@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entlanggehen; in Übereinstimmung mit, entsprechend, treffen
-Notiz: ''
 Beispielsatz: 私達は川に沿って歩いた。
 Beispielsatz-Lesung: 私[わたし] 達[たち]は 川[かわ]に 沿[そ]って 歩[ある]いた。
 Beispielsatz-Übersetzung: Wir sind entlang des Flusses gelaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: bis
-Notiz: ''
 Beispielsatz: 休暇は明日から来週の水曜日までです。
 Beispielsatz-Lesung: 休暇[きゅうか]は 明日[あした]から 来週[らいしゅう]の 水曜日[すいようび]までです。
 Beispielsatz-Übersetzung: Mein Urlaub geht von morgen bis nächsten Mittwoch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beenden, fertigstellen
-Notiz: ''
 Beispielsatz: 仕事が済んだ。
 Beispielsatz-Lesung: 仕事[しごと]が 済[す]んだ。
 Beispielsatz-Übersetzung: Ich habe meine Arbeit beendet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

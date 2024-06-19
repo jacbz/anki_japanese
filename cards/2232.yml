@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vermögen; Eigentum
-Notiz: ''
 Beispielsatz: 彼女の財産はどのくらいあるんだろう。
 Beispielsatz-Lesung: 彼女[かのじょ]の 財産[ざいさん]はどのくらいあるんだろう。
 Beispielsatz-Übersetzung: Wie hoch ist der Wert ihres Vermögens?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

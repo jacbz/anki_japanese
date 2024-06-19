@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufhören, aufgeben
-Notiz: ''
 Beispielsatz: 彼は煙草をやめた。
 Beispielsatz-Lesung: 彼[かれ]は 煙草[たばこ]をやめた。
 Beispielsatz-Übersetzung: Er hat das Rauchen aufgegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

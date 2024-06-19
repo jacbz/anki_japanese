@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: ja
-Notiz: ''
 Beispielsatz: 「宿題やったの」「うん」
 Beispielsatz-Lesung: 「 宿題[しゅくだい]やったの」「うん」
 Beispielsatz-Übersetzung: „Hast du deine Hausaufgaben gemacht?“ „Ja.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

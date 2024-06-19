@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: alt
-Notiz: Nicht für Personen
 Beispielsatz: 市は古い建物を取り壊した。
 Beispielsatz-Lesung: 市[し]は 古[ふる]い 建物[たてもの]を 取[と]り 壊[こわ]した。
 Beispielsatz-Übersetzung: Die Stadt hat die alten Gebäude abgerissen.
+
+# Notizen können HTML enthalten.            
+Notiz: Nicht für Personen

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: letzte Woche
-Notiz: ''
 Beispielsatz: 先週から風邪でずっと寝込んでいます。
 Beispielsatz-Lesung: 先週[せんしゅう]から 風邪[かぜ]でずっと 寝込[ねこ]んでいます。
 Beispielsatz-Übersetzung: Ich habe letzte Woche eine Erkältung erwischt und bin seitdem
   im Bett.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

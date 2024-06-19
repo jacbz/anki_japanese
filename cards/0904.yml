@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: übrigens, nebenbei
-Notiz: ''
 Beispielsatz: ちなみに、彼はまだ独身です。
 Beispielsatz-Lesung: ちなみに、 彼[かれ]はまだ 独身[どくしん]です。
 Beispielsatz-Übersetzung: Übrigens, er ist immer noch Single.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

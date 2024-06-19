@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: du (inf.)
-Notiz: ''
 Beispielsatz: 君の言うとおりにした。
 Beispielsatz-Lesung: 君[きみ]の 言[い]うとおりにした。
 Beispielsatz-Übersetzung: Ich habe getan, was du mir gesagt hast.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

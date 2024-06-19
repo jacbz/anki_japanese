@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beliebtheit
-Notiz: ''
 Beispielsatz: その歌手は若い女性の間で人気が高まっている。
 Beispielsatz-Lesung: その 歌手[かしゅ]は 若[わか]い 女性[じょせい]の 間[ま]で 人気[にんき]が 高[たか]まっている。
 Beispielsatz-Übersetzung: Dieser Sänger hat an Beliebtheit unter jungen Frauen gewonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

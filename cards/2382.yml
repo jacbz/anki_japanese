@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei Monate
-Notiz: ''
 Beispielsatz: 二ヶ月間出張に出かける。
 Beispielsatz-Lesung: 二ヶ月[にかげつ] 間[かん] 出張[しゅっちょう]に 出[で]かける。
 Beispielsatz-Übersetzung: Ich werde für zwei Monate auf Geschäftsreise gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

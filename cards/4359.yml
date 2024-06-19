@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeitplan, Reiseroute
-Notiz: ''
 Beispielsatz: 旅行の日程を来週に変更した。
 Beispielsatz-Lesung: 旅行[りょこう]の 日程[にってい]を 来週[らいしゅう]に 変更[へんこう]した。
 Beispielsatz-Übersetzung: Ich habe den Zeitplan meiner Reise auf nächste Woche geändert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

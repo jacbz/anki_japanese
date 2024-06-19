@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ein bisschen, eine Minute
-Notiz: ''
 Beispielsatz: 少々お待ちいただけますか。
 Beispielsatz-Lesung: 少々[しょうしょう]お 待[ま]ちいただけますか。
 Beispielsatz-Übersetzung: Könnten Sie bitte eine Minute warten?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

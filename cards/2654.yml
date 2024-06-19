@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Spanien
-Notiz: ''
 Beispielsatz: スペイン料理が好きです。
 Beispielsatz-Lesung: スペイン 料理[りょうり]が 好[す]きです。
 Beispielsatz-Übersetzung: Ich mag spanisches Essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

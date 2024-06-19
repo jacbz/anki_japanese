@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angelegenheit, Thema
-Notiz: ''
 Beispielsatz: このページには、特に重要な事柄についてまとめてあります。
 Beispielsatz-Lesung: このページには、 特[とく]に 重要[じゅうよう]な 事柄[ことがら]についてまとめてあります。
 Beispielsatz-Übersetzung: Auf dieser Seite wird auf besonders wichtige Themen hingewiesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

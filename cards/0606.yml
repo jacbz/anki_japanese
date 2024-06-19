@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: untersuchen; nachschlagen
-Notiz: ''
 Beispielsatz: 彼は辞書で単語を調べている。
 Beispielsatz-Lesung: 彼[かれ]は 辞書[じしょ]で 単語[たんご]を 調[しら]べている。
 Beispielsatz-Übersetzung: Er schlägt ein Wort im Wörterbuch nach.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verursachen; hervorrufen
-Notiz: ''
 Beispielsatz: 不注意で事故を起こした。
 Beispielsatz-Lesung: 不注意[ふちゅうい]で 事故[じこ]を 起[お]こした。
 Beispielsatz-Übersetzung: Meine Unachtsamkeit hat einen Unfall verursacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

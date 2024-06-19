@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lehre, Unterricht
-Notiz: ''
 Beispielsatz: 先人の教えには従うものだ。
 Beispielsatz-Lesung: 先人[せんじん]の 教[おし]えには 従[したが]うものだ。
 Beispielsatz-Übersetzung: Wir sollten der Lehre unserer Vorgänger folgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: über, betreffend
-Notiz: ''
 Beispielsatz: 新しい制度をめぐる議論が活発だ。
 Beispielsatz-Lesung: 新[あたら]しい 制度[せいど]をめぐる 議論[ぎろん]が 活発[かっぱつ]だ。
 Beispielsatz-Übersetzung: Es gibt eine lebhafte Debatte über ein neues System.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

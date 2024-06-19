@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gehorchen, folgen
-Notiz: ''
 Beispielsatz: 法律には従わなければならない。
 Beispielsatz-Lesung: 法律[ほうりつ]には 従[したが]わなければならない。
 Beispielsatz-Übersetzung: Man muss dem Gesetz gehorchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

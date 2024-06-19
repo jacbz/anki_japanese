@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: vergleichsweise, eher
-Notiz: ''
 Beispielsatz: 今日は割とあたたかい。
 Beispielsatz-Lesung: 今日[きょう]は 割[わり]とあたたかい。
 Beispielsatz-Übersetzung: Es ist heute eher warm.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

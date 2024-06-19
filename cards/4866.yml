@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Immobilie, Objekt
-Notiz: ''
 Beispielsatz: 彼は手頃な物件を探している。
 Beispielsatz-Lesung: 彼[かれ]は 手頃[てごろ]な 物件[ぶっけん]を 探[さが]している。
 Beispielsatz-Übersetzung: Er sucht nach einer erschwinglichen Immobilie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

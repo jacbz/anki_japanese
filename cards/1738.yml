@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fieber
-Notiz: ''
 Beispielsatz: 少し熱があるみたい。
 Beispielsatz-Lesung: 少[すこ]し 熱[ねつ]があるみたい。
 Beispielsatz-Übersetzung: Ich scheine ein leichtes Fieber zu haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

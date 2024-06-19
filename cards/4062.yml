@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: drei (lange/zylindrische Objekte)
-Notiz: ''
 Beispielsatz: 鉛筆を三本ください。
 Beispielsatz-Lesung: 鉛筆[えんぴつ]を三 本[ほん]ください。
 Beispielsatz-Übersetzung: Bitte gib mir drei Bleistifte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

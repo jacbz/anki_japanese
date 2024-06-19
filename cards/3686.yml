@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lebenserwartung
-Notiz: ''
 Beispielsatz: 男性より女性のほうが寿命が長い。
 Beispielsatz-Lesung: 男性[だんせい]より 女性[じょせい]のほうが 寿命[じゅみょう]が 長[なが]い。
 Beispielsatz-Übersetzung: Die Lebenserwartung von Frauen ist höher als die von Männern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

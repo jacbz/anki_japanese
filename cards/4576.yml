@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Behälter, Gefäß
-Notiz: ''
 Beispielsatz: お昼の残り物は容器に入れましょう。
 Beispielsatz-Lesung: お 昼[ひる]の 残[のこ]り 物[もの]は 容器[ようき]に 入[い]れましょう。
 Beispielsatz-Übersetzung: Ich werde die Reste vom Mittagessen in ein Gefäß geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

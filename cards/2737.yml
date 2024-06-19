@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: viele Tage; wie viele Tage
-Notiz: ''
 Beispielsatz: 彼は何日も待っていた。
 Beispielsatz-Lesung: 彼[かれ]は 何日[なんにち]も 待[ま]っていた。
 Beispielsatz-Übersetzung: Er hatte viele Tage lang gewartet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschmack
-Notiz: ''
 Beispielsatz: このスープは味が濃い。
 Beispielsatz-Lesung: このスープは 味[あじ]が 濃[こ]い。
 Beispielsatz-Übersetzung: Diese Suppe hat einen starken Geschmack.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

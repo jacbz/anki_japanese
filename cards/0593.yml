@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bild, Gemälde
-Notiz: ''
 Beispielsatz: 絵を描くことが好きです。
 Beispielsatz-Lesung: 絵[え]を 描[えが]くことが 好[す]きです。
 Beispielsatz-Übersetzung: Ich mag es, Bilder zu malen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

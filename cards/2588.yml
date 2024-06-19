@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dritte
-Notiz: ''
 Beispielsatz: 第三者からの意見は貴重だ。
 Beispielsatz-Lesung: 第三者[だいさんしゃ]からの 意見[いけん]は 貴重[きちょう]だ。
 Beispielsatz-Übersetzung: Kommentare von Dritten sind wichtig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

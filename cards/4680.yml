@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anziehen
-Notiz: ''
 Beispielsatz: そのお寺は世界中から観光客を引き付けています。
 Beispielsatz-Lesung: そのお 寺[てら]は 世界中[せかいじゅう]から 観光客[かんこうきゃく]を 引[ひ]き 付[つ]けています。
 Beispielsatz-Übersetzung: Der Tempel zieht Besucher aus der ganzen Welt an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

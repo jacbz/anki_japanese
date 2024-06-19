@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: prächtig
-Notiz: ''
 Beispielsatz: 華やかな衣装を着た歌手がステージに登場した。
 Beispielsatz-Lesung: 華[はな]やかな 衣装[いしょう]を 着[き]た 歌手[かしゅ]がステージに 登場[とうじょう]した。
 Beispielsatz-Übersetzung: Eine Sängerin in einem prächtigen Kostüm betrat die Bühne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

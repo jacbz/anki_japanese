@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rätsel, Geheimnis
-Notiz: ''
 Beispielsatz: ついに事件の謎が解けた。
 Beispielsatz-Lesung: ついに 事件[じけん]の 謎[なぞ]が 解[と]けた。
 Beispielsatz-Übersetzung: Das Rätsel des Mordes wurde endlich gelöst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

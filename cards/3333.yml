@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: leiten, führen
-Notiz: ''
 Beispielsatz: 何が彼を成功に導いたのだろうか。
 Beispielsatz-Lesung: 何[なに]が 彼[かれ]を 成功[せいこう]に 導[みちび]いたのだろうか。
 Beispielsatz-Übersetzung: Was hat ihn zum Erfolg geführt?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

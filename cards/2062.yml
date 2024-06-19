@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verletzung; Kratzer; Bluterguss; Fehler; Fleck
-Notiz: ''
 Beispielsatz: この車は傷がある。
 Beispielsatz-Lesung: この 車[くるま]は 傷[きず]がある。
 Beispielsatz-Übersetzung: Dieses Auto hat einen Kratzer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dokument; Schreiben
-Notiz: ''
 Beispielsatz: 結果は文書でお知らせします。
 Beispielsatz-Lesung: 結果[けっか]は 文書[ぶんしょ]でお 知[し]らせします。
 Beispielsatz-Übersetzung: Wir werden Ihnen das Ergebnis schriftlich mitteilen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

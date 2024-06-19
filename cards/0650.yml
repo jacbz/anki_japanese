@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: fest
-Notiz: ''
 Beispielsatz: 電車のつり革にしっかりつかまった。
 Beispielsatz-Lesung: 電車[でんしゃ]のつり 革[かわ]にしっかりつかまった。
 Beispielsatz-Übersetzung: Ich hielt mich fest an einem Griff in der Bahn.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

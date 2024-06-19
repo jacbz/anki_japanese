@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Speisekarte
-Notiz: ''
 Beispielsatz: メニューを見せてください。
 Beispielsatz-Lesung: メニューを 見[み]せてください。
 Beispielsatz-Übersetzung: Kann ich die Speisekarte sehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

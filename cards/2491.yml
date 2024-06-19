@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: stoßen, stecken; eintauchen; schieben
-Notiz: ''
 Beispielsatz: 彼はポケットに手を突っ込んだ。
 Beispielsatz-Lesung: 彼[かれ]はポケットに 手[て]を 突[つ]っ 込[こ]んだ。
 Beispielsatz-Übersetzung: Er steckte seine Hände in seine Taschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

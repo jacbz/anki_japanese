@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: durch, über, während
-Notiz: ''
 Beispielsatz: 私たちは共通の友人を通じて知り合いました。
 Beispielsatz-Lesung: 私[わたし]たちは 共通[きょうつう]の 友人[ゆうじん]を 通[つう]じて 知[し]り 合[あ]いました。
 Beispielsatz-Übersetzung: Wir haben uns durch gemeinsame Freunde kennengelernt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wille, Absicht
-Notiz: ''
 Beispielsatz: 彼らは意思の疎通がうまくいっていない。
 Beispielsatz-Lesung: 彼[かれ]らは 意思[いし]の 疎通[そつう]がうまくいっていない。
 Beispielsatz-Übersetzung: Sie verstehen sich nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

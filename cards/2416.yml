@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rang, Position
-Notiz: ''
 Beispielsatz: 地位と名誉があっても、幸せとは限らない。
 Beispielsatz-Lesung: 地位[ちい]と 名誉[めいよ]があっても、 幸[しあわ]せとは 限[かぎ]らない。
 Beispielsatz-Übersetzung: Menschen mit Status und Ansehen sind nicht unbedingt glücklich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

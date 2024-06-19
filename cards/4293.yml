@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Leidenschaft
-Notiz: ''
 Beispielsatz: 彼の仕事への情熱は貪欲だ。
 Beispielsatz-Lesung: 彼[かれ]の 仕事[しごと]への 情熱[じょうねつ]は 貪欲[どんよく]だ。
 Beispielsatz-Übersetzung: Seine Leidenschaft für die Arbeit ist unersättlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

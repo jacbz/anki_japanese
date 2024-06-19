@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Pflanze
-Notiz: ''
 Beispielsatz: 植物は水がなければ枯れてしまう。
 Beispielsatz-Lesung: 植物[しょくぶつ]は 水[みず]がなければ 枯[か]れてしまう。
 Beispielsatz-Übersetzung: Pflanzen sterben ohne Wasser.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

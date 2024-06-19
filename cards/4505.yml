@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: unterlegen sein
-Notiz: ''
 Beispielsatz: 彼の演技は姉のよりも劣っていた。
 Beispielsatz-Lesung: 彼[かれ]の 演技[えんぎ]は 姉[あね]のよりも 劣[おと]っていた。
 Beispielsatz-Übersetzung: Seine Leistung war seiner Schwester unterlegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: glänzen, funkeln, leuchten
-Notiz: ''
 Beispielsatz: たくさんの星が空に輝いている。
 Beispielsatz-Lesung: たくさんの 星[ほし]が 空[そら]に 輝[かがや]いている。
 Beispielsatz-Übersetzung: Viele Sterne leuchten am Himmel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

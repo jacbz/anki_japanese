@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschwindigkeit; Kraft; Energie
-Notiz: ''
 Beispielsatz: その会社はすごい勢いで成長している。
 Beispielsatz-Lesung: その 会社[かいしゃ]はすごい 勢[いきお]いで 成長[せいちょう]している。
 Beispielsatz-Übersetzung: Das Unternehmen wächst mit großer Geschwindigkeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

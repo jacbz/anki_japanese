@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: 'gehen und '
-Notiz: ''
 Beispielsatz: 明日の夕食会にはどんな服を着ていったらいいですか。
 Beispielsatz-Lesung: 明日[あした]の 夕食[ゆうしょく] 会[かい]にはどんな 服[ふく]を 着[き]ていったらいいですか。
 Beispielsatz-Übersetzung: Was soll ich für das morgige Abendessen anziehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

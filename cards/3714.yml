@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kantō-Region
-Notiz: ''
 Beispielsatz: この味付けは関東風だ。
 Beispielsatz-Lesung: この 味付[あじつ]けは 関東[かんとう] 風[ふう]だ。
 Beispielsatz-Übersetzung: Dieses Aroma ist im Kantō-Stil.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

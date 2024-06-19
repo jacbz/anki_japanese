@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verhalten, Geste
-Notiz: ''
 Beispielsatz: 私は彼の落ち着かない仕草が好きじゃない。
 Beispielsatz-Lesung: 私[わたし]は 彼[かれ]の 落[お]ち 着[つ]かない 仕草[しぐさ]が 好[す]きじゃない。
 Beispielsatz-Übersetzung: Ich mag seine ungeduldigen Gesten nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

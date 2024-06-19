@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ichidan-Konjugation
-Notiz: ''
 Beispielsatz: 本堂は一段高い場所にある。
 Beispielsatz-Lesung: 本堂[ほんどう]は 一段[いちだん] 高[たか]い 場所[ばしょ]にある。
 Beispielsatz-Übersetzung: Das Hauptgebäude befindet sich eine Etage höher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

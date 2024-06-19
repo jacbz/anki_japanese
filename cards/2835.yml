@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ganzheitlich, integriert, umfassend
-Notiz: ''
 Beispielsatz: 統合的なスキルを身につけるべきだ。
 Beispielsatz-Lesung: 統合[とうごう] 的[てき]なスキルを 身[み]につけるべきだ。
 Beispielsatz-Übersetzung: Sie sollten integrierte Fähigkeiten erwerben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

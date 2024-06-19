@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: gut, in Ordnung
-Notiz: ''
 Beispielsatz: よし，これでおしまい。
 Beispielsatz-Lesung: よし，これでお 仕舞[しま]い。
 Beispielsatz-Übersetzung: OK, das ist es.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

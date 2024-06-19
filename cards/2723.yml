@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: mitbringen, importieren
-Notiz: ''
 Beispielsatz: このレストランには、自分でワインを持ち込むことができる。
 Beispielsatz-Lesung: このレストランには、 自分[じぶん]でワインを 持[も]ち 込[こ]むことができる。
 Beispielsatz-Übersetzung: Wir können unseren eigenen Wein in dieses Restaurant mitbringen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

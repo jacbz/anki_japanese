@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fehlen; abbrechen
-Notiz: ''
 Beispielsatz: 彼の態度は礼儀を欠く行為だ。
 Beispielsatz-Lesung: 彼[かれ]の 態度[たいど]は 礼儀[れいぎ]を 欠[か]く 行為[こうい]だ。
 Beispielsatz-Übersetzung: Sein Verhalten ist eine Handlung ohne Höflichkeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

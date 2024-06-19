@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tomate
-Notiz: ''
 Beispielsatz: トマトのサラダを食べた。
 Beispielsatz-Lesung: トマトのサラダを 食[た]べた。
 Beispielsatz-Übersetzung: Ich habe einen Tomatensalat gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

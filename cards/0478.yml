@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vor Kurzem
-Notiz: ''
 Beispielsatz: 先程、田中様からお電話がありました。
 Beispielsatz-Lesung: 先程[さきほど]、 田中[たなか] 様[さま]からお 電話[でんわ]がありました。
 Beispielsatz-Übersetzung: Herr Tanaka hat vor Kurzem angerufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

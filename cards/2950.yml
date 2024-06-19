@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: der siebzehnte Tag; siebzehn Tage
-Notiz: ''
 Beispielsatz: 十七日に予約した。
 Beispielsatz-Lesung: 十七 日[にち]に 予約[よやく]した。
 Beispielsatz-Übersetzung: Ich habe für den siebzehnten Tag eine Reservierung gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

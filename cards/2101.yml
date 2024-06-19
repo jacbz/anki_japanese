@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Welt, Öffentlichkeit; Alter, Herrschaft
-Notiz: ''
 Beispielsatz: その大学は十一万人以上の卒業生を世に送り出した。
 Beispielsatz-Lesung: その 大学[だいがく]は十一 万[まん]人 以上[いじょう]の 卒業生[そつぎょうせい]を 世[よ]に 送[おく]り 出[だ]した。
 Beispielsatz-Übersetzung: Die Universität hat über 110.000 Absolventen hervorgebracht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

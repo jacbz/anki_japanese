@@ -5,8 +5,10 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Veröffentlichung
-Notiz: ''
 Beispielsatz: 彼の書いた記事が新聞に掲載された。
 Beispielsatz-Lesung: 彼[かれ]の 書[か]いた 記事[きじ]が 新聞[しんぶん]に 掲載[けいさい]された。
 Beispielsatz-Übersetzung: Der Artikel, den er geschrieben hat, wurde in der Zeitung
   veröffentlicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

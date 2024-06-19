@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: also, deshalb, daher, weil
-Notiz: ''
 Beispielsatz: 娘はまだ小さいので手がかかります。
 Beispielsatz-Lesung: 娘[むすめ]はまだ 小[ちい]さいので 手[て]がかかります。
 Beispielsatz-Übersetzung: Also meine Tochter ist noch sehr jung, deshalb muss ich
   mich um sie kümmern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

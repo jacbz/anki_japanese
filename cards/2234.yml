@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: Ich; sich selbst
-Notiz: ''
 Beispielsatz: 金もうけに我を忘れてしまった。
 Beispielsatz-Lesung: 金[かね]もうけに 我[わが]を 忘[わす]れてしまった。
 Beispielsatz-Übersetzung: Ich habe mich beim Geldverdienen mitreißen lassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

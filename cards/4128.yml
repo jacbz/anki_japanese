@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: erste
-Notiz: ''
 Beispielsatz: 第一号の受賞者だ。
 Beispielsatz-Lesung: 第[だい]一 号[ごう]の 受賞者[じゅしょうしゃ]だ。
 Beispielsatz-Übersetzung: Du bist der erste Empfänger des Preises.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

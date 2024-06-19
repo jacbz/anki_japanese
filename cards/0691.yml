@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: süß, nett, lieblich
-Notiz: ''
 Beispielsatz: 小さい子供は可愛いものだ。
 Beispielsatz-Lesung: 小[ちい]さい 子供[こども]は 可愛[かわい]いものだ。
 Beispielsatz-Übersetzung: Kleine Kinder sind süß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

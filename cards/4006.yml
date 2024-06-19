@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lesen
-Notiz: ''
 Beispielsatz: 読書の秋です。
 Beispielsatz-Lesung: 読書[どくしょ]の 秋[あき]です。
 Beispielsatz-Übersetzung: Herbst ist die beste Jahreszeit zum Lesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: also, dann
-Notiz: ''
 Beispielsatz: で、あの話はどうなりましたか？
 Beispielsatz-Lesung: で、あの 話[はなし]はどうなりましたか？
 Beispielsatz-Übersetzung: Also, was ist mit der Geschichte passiert, über die du gesprochen
   hast?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: fünf Personen
-Notiz: ''
 Beispielsatz: 私の学校には外国人の先生が五人いる。
 Beispielsatz-Lesung: 私[わたし]の 学校[がっこう]には 外国人[がいこくじん]の 先生[せんせい]が五人いる。
 Beispielsatz-Übersetzung: An meiner Schule gibt es fünf ausländische Lehrer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

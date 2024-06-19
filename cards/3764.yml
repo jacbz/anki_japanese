@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anzug
-Notiz: ''
 Beispielsatz: あの黒いスーツを着ている人が山田さんです。
 Beispielsatz-Lesung: あの 黒[くろ]いスーツを 着[き]ている人が 山田[やまだ]さんです。
 Beispielsatz-Übersetzung: Der Mann in einem schwarzen Anzug ist Herr Yamada.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

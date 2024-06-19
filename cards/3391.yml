@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: gemütlich; ruhig; locker
-Notiz: ''
 Beispielsatz: 祖父はソファーにゆったりと座っていた。
 Beispielsatz-Lesung: 祖父[そふ]はソファーにゆったりと 座[すわ]っていた。
 Beispielsatz-Übersetzung: Mein Großvater saß gemütlich auf einem Sofa.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

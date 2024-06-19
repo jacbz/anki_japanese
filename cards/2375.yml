@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Deckel
-Notiz: ''
 Beispielsatz: 鍋に蓋をしなさい。
 Beispielsatz-Lesung: 鍋[なべ]に 蓋[ふた]をしなさい。
 Beispielsatz-Übersetzung: Decken Sie die Pfanne mit einem Deckel ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

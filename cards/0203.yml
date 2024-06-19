@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: verschiedene
-Notiz: ''
 Beispielsatz: そのパーティーではいろんな料理が出された。
 Beispielsatz-Lesung: そのパーティーではいろんな 料理[りょうり]が 出[だ]された。
 Beispielsatz-Übersetzung: Bei der Party wurden verschiedene Gerichte serviert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei (lange/zylindrische Objekte)
-Notiz: ''
 Beispielsatz: ビールを二本飲む。
 Beispielsatz-Lesung: ビールを二 本[ほん] 飲[の]む。
 Beispielsatz-Übersetzung: Ich trinke zwei Flaschen Bier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verleihen, vermieten
-Notiz: ''
 Beispielsatz: ペンを貸していただけますか。
 Beispielsatz-Lesung: ペンを 貸[か]していただけますか。
 Beispielsatz-Übersetzung: Könnten Sie mir bitte Ihren Stift leihen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

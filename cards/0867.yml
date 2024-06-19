@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schön
-Notiz: ''
 Beispielsatz: 美しい自然に囲まれている。
 Beispielsatz-Lesung: 美[うつく]しい 自然[しぜん]に 囲[かこ]まれている。
 Beispielsatz-Übersetzung: Es ist von schöner Natur umgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

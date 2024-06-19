@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: werfen; aufgeben
-Notiz: ''
 Beispielsatz: 彼はボールを投げて窓を割った。
 Beispielsatz-Lesung: 彼[かれ]はボールを 投[な]げて 窓[まど]を 割[わ]った。
 Beispielsatz-Übersetzung: Er hat das Fenster kaputt gemacht, indem er einen Ball geworfen
   hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: etwas; ein bisschen
-Notiz: ''
 Beispielsatz: 私はスペイン語を多少知っています。
 Beispielsatz-Lesung: 私[わたし]はスペイン 語[ご]を 多少[たしょう] 知[し]っています。
 Beispielsatz-Übersetzung: Ich kenne ein bisschen Spanisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

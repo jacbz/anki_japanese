@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Musical
-Notiz: ''
 Beispielsatz: ニューヨークでミュージカルを見た。
 Beispielsatz-Lesung: ニューヨークでミュージカルを 見[み]た。
 Beispielsatz-Übersetzung: Ich habe ein Musical in New York gesehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

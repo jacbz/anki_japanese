@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Volk, Rasse, Nation
-Notiz: ''
 Beispielsatz: その地域の民族は、違う言葉を話す。
 Beispielsatz-Lesung: その 地域[ちいき]の 民族[みんぞく]は、 違[ちが]う 言葉[ことば]を 話[はな]す。
 Beispielsatz-Übersetzung: Die Menschen in diesem Gebiet sprechen verschiedene Sprachen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

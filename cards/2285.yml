@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sprechen, diskutieren
-Notiz: ''
 Beispielsatz: 大切なことはみんなで話し合おう。
 Beispielsatz-Lesung: 大切[たいせつ]なことはみんなで 話[はな]し 合[あ]おう。
 Beispielsatz-Übersetzung: Lass uns wichtige Themen mit allen besprechen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

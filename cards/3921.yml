@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fett
-Notiz: ''
 Beispielsatz: 脂肪の取りすぎに注意しなさい。
 Beispielsatz-Lesung: 脂肪[しぼう]の 取[と]りすぎに 注意[ちゅうい]しなさい。
 Beispielsatz-Übersetzung: Achten Sie darauf, nicht zu viel Fett zu sich zu nehmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

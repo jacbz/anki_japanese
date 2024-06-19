@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ziel, Zweck
-Notiz: ''
 Beispielsatz: この論文の狙いはいい。
 Beispielsatz-Lesung: この 論文[ろんぶん]の 狙[ねら]いはいい。
 Beispielsatz-Übersetzung: Das Ziel dieses Aufsatzes ist gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

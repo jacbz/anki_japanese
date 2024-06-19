@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tunnel
-Notiz: ''
 Beispielsatz: トンネルを通過すると海が見えてきます。
 Beispielsatz-Lesung: トンネルを 通過[つうか]すると 海[うみ]が 見[み]えてきます。
 Beispielsatz-Übersetzung: Wenn man durch den Tunnel fährt, kann man das Meer sehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

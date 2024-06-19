@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vor dem Bahnhof
-Notiz: ''
 Beispielsatz: 昨日の晩は駅前のホテルに泊まった。
 Beispielsatz-Lesung: 昨日[きのう]の 晩[ばん]は 駅前[えきまえ]のホテルに 泊[と]まった。
 Beispielsatz-Übersetzung: Ich habe gestern Abend in einem Hotel vor dem Bahnhof übernachtet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

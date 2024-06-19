@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweite, sekundäre; ein weiterer
-Notiz: ''
 Beispielsatz: ここはこの国第二の都市です。
 Beispielsatz-Lesung: ここはこの 国[くに] 第[だい]二の 都市[とし]です。
 Beispielsatz-Übersetzung: Dies ist die zweitgrößte Stadt im Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

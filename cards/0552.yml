@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: jedoch
-Notiz: ''
 Beispielsatz: ところが計画はうまくいかなかった。
 Beispielsatz-Lesung: ところが 計画[けいかく]はうまくいかなかった。
 Beispielsatz-Übersetzung: Der Plan war jedoch nicht von Erfolg gekrönt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

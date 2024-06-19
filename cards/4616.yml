@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reiskuchen
-Notiz: ''
 Beispielsatz: お正月にお餅をついた。
 Beispielsatz-Lesung: お 正月[しょうがつ]にお 餅[もち]をついた。
 Beispielsatz-Übersetzung: Ich habe gedämpften Reis zu Kuchen für das Neujahrsfest
   gestampft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

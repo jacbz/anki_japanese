@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: BETONT
-Notiz: ''
 Beispielsatz: 今年こそ試験に合格したい。
 Beispielsatz-Lesung: 今年[ことし]こそ 試験[しけん]に 合格[ごうかく]したい。
 Beispielsatz-Übersetzung: Ich möchte dieses Jahr unbedingt die Prüfung bestehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

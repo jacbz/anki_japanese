@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bauer
-Notiz: ''
 Beispielsatz: この町は農家が多い。
 Beispielsatz-Lesung: この 町[まち]は 農家[のうか]が 多[おお]い。
 Beispielsatz-Übersetzung: In dieser Stadt gibt es viele Bauern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

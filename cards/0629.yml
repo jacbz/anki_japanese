@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Möglichkeit
-Notiz: ''
 Beispielsatz: 問題が起きる可能性がある。
 Beispielsatz-Lesung: 問題[もんだい]が 起[お]きる 可能性[かのうせい]がある。
 Beispielsatz-Übersetzung: Es besteht die Möglichkeit, dass Probleme auftreten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

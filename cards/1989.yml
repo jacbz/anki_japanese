@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schwimmen
-Notiz: ''
 Beispielsatz: 海で泳ぎたいなあ。
 Beispielsatz-Lesung: 海[うみ]で 泳[およ]ぎたいなあ。
 Beispielsatz-Übersetzung: Ich möchte im Meer schwimmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

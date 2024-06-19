@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Halle; Ort
-Notiz: ''
 Beispielsatz: 会場は人でいっぱいだ。
 Beispielsatz-Lesung: 会場[かいじょう]は人でいっぱいだ。
 Beispielsatz-Übersetzung: Die Halle ist voller Menschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grundschüler
-Notiz: ''
 Beispielsatz: 私の息子は小学生だ。
 Beispielsatz-Lesung: 私[わたし]の 息子[むすこ]は 小学生[しょうがくせい]だ。
 Beispielsatz-Übersetzung: Mein Sohn ist in der Grundschule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

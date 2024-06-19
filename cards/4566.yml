@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aufgabe, Auftrag, Mission, Rolle
-Notiz: ''
 Beispielsatz: 作業員は困難な任務を遂行しています。
 Beispielsatz-Lesung: 作業員[さぎょういん]は 困難[こんなん]な 任務[にんむ]を 遂行[すいこう]しています。
 Beispielsatz-Übersetzung: Die Arbeiter haben eine schwierige Aufgabe zu bewältigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

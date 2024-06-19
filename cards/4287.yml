@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: diagonal
-Notiz: ''
 Beispielsatz: 斜めに線をひいた。
 Beispielsatz-Lesung: 斜[なな]めに 線[せん]をひいた。
 Beispielsatz-Übersetzung: Ich habe eine diagonale Linie gezeichnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

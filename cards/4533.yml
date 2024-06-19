@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Preis, Auszeichnung
-Notiz: ''
 Beispielsatz: 彼女はこの小説で賞をもらった。
 Beispielsatz-Lesung: 彼女[かのじょ]はこの 小説[しょうせつ]で 賞[しょう]をもらった。
 Beispielsatz-Übersetzung: Sie erhielt den Preis für diesen Roman.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

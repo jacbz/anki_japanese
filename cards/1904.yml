@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: passen; fallen; süchtig sein nach
-Notiz: ''
 Beispielsatz: 鍵がはまらない。
 Beispielsatz-Lesung: 鍵[かぎ]がはまらない。
 Beispielsatz-Übersetzung: Der Schlüssel passt nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

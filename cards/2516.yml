@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: jedoch, aber
-Notiz: ''
 Beispielsatz: 彼の能力はまだまだだ。しかしながら，可能性は感じられる。
 Beispielsatz-Lesung: 彼[かれ]の 能力[のうりょく]はまだまだだ。しかしながら， 可能性[かのうせい]は 感[かん]じられる。
 Beispielsatz-Übersetzung: Seine Fähigkeiten sind noch nicht ausreichend. Jedoch zeigt
   er Potenzial.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

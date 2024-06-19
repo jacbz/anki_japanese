@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schlüssel
-Notiz: ''
 Beispielsatz: 彼は車のキーを回した。
 Beispielsatz-Lesung: 彼[かれ]は 車[くるま]のキーを 回[まわ]した。
 Beispielsatz-Übersetzung: Er drehte den Schlüssel um.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

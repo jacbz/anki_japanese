@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: du (umgangssprachlich)
-Notiz: ''
 Beispielsatz: お前に関係ない。
 Beispielsatz-Lesung: お 前[まえ]に 関係[かんけい]ない。
 Beispielsatz-Übersetzung: Das geht dich nichts an!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

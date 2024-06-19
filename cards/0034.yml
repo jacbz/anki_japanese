@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: denken, glauben
-Notiz: ''
 Beispielsatz: 私はそう思いません。
 Beispielsatz-Lesung: 私[わたし]はそう 思[おも]いません。
 Beispielsatz-Übersetzung: Ich denke nicht so.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

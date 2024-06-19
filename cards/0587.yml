@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: versuchen; planen
-Notiz: ''
 Beispielsatz: 事態の改善を図らなければならない。
 Beispielsatz-Lesung: 事態[じたい]の 改善[かいぜん]を 図[はか]らなければならない。
 Beispielsatz-Übersetzung: Wir müssen versuchen, die Situation zu verbessern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

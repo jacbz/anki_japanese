@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich Sorgen machen, leiden
-Notiz: ''
 Beispielsatz: 一人で悩まないでください。
 Beispielsatz-Lesung: 一人で 悩[なや]まないでください。
 Beispielsatz-Übersetzung: Bitte leiden Sie nicht allein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

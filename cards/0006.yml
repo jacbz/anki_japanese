@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: KOPULA
-Notiz: ''
 Beispielsatz: 僕は英語が苦手だ。
 Beispielsatz-Lesung: 僕[ぼく]は 英語[えいご]が 苦手[にがて]だ。
 Beispielsatz-Übersetzung: Ich bin nicht gut in Englisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

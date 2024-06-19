@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Künstler, Maler
-Notiz: ''
 Beispielsatz: この絵を描いた画家を知っていますか。
 Beispielsatz-Lesung: この 絵[え]を 描[えが]いた 画家[がか]を 知[し]っていますか。
 Beispielsatz-Übersetzung: Kennst du den Künstler, der dieses Bild gemalt hat?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aushalten, ertragen, erdulden
-Notiz: ''
 Beispielsatz: 彼女と別れるなんて耐えられない。
 Beispielsatz-Lesung: 彼女[かのじょ]と 別[わか]れるなんて 耐[た]えられない。
 Beispielsatz-Übersetzung: Ich kann es nicht ertragen, sie zu verlieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

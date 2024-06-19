@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: gestern
-Notiz: ''
 Beispielsatz: 昨日はとても忙しかった。
 Beispielsatz-Lesung: 昨日[きのう]はとても 忙[いそが]しかった。
 Beispielsatz-Übersetzung: Ich war gestern sehr beschäftigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

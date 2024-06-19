@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: auch
-Notiz: ''
 Beispielsatz: 彼が行くなら、私も行きます。
 Beispielsatz-Lesung: 彼[かれ]が 行[い]くなら、 私[わたし]も 行[い]きます。
 Beispielsatz-Übersetzung: Wenn er geht, werde ich auch gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: 多分
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: wahrscheinlich, vielleicht
-Notiz: ''
 Beispielsatz: 彼女はたぶん来ないでしょう。
 Beispielsatz-Lesung: 彼女[かのじょ]はたぶん 来[こ]ないでしょう。
 Beispielsatz-Übersetzung: Sie wird wahrscheinlich nicht kommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bauch, Magen
-Notiz: ''
 Beispielsatz: 腹にパンチをしてみろ。
 Beispielsatz-Lesung: 腹[はら]にパンチをしてみろ。
 Beispielsatz-Übersetzung: Schlag mir in den Magen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

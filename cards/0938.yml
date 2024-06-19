@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Welt, Gesellschaft
-Notiz: ''
 Beispielsatz: 世の中にはいろいろな人がいる。
 Beispielsatz-Lesung: 世[よ]の 中[なか]にはいろいろな人がいる。
 Beispielsatz-Übersetzung: Es braucht alle Arten von Menschen, um eine Welt zu machen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ältere Person, der/die Ältere
-Notiz: ''
 Beispielsatz: 老人には運動が必要だ。
 Beispielsatz-Lesung: 老人[ろうじん]には 運動[うんどう]が 必要[ひつよう]だ。
 Beispielsatz-Übersetzung: Ältere Menschen brauchen Bewegung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

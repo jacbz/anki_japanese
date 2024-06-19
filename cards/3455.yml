@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: die andere Seite
-Notiz: ''
 Beispielsatz: 一方は成功し、他方は失敗した。
 Beispielsatz-Lesung: 一方[いっぽう]は 成功[せいこう]し、 他方[たほう]は 失敗[しっぱい]した。
 Beispielsatz-Übersetzung: Eine Seite hatte Erfolg, die andere Seite scheiterte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anfangen, beginnen; einstellen
-Notiz: ''
 Beispielsatz: 私はここに罠を仕掛けた。
 Beispielsatz-Lesung: 私[わたし]はここに 罠[わな]を 仕掛[しか]けた。
 Beispielsatz-Übersetzung: Ich habe hier die Falle eingestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

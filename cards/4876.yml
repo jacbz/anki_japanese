@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mikrofon
-Notiz: ''
 Beispielsatz: アナウンサーはマイクに向かって話し続けた。
 Beispielsatz-Lesung: アナウンサーはマイクに 向[む]かって 話[はな]し 続[つず]けた。
 Beispielsatz-Übersetzung: Der Ansager sprach weiter in das Mikrofon.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

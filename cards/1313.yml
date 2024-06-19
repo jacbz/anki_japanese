@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Reiz, Anziehungskraft, Attraktivität
-Notiz: ''
 Beispielsatz: この町の魅力は親切な人々です。
 Beispielsatz-Lesung: この 町[まち]の 魅力[みりょく]は 親切[しんせつ]な 人々[ひとびと]です。
 Beispielsatz-Übersetzung: Der Charme dieser Stadt liegt in den freundlichen Menschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

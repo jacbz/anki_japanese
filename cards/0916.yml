@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachbarschaft
-Notiz: ''
 Beispielsatz: 近所に大きなスーパーマーケットがある。
 Beispielsatz-Lesung: 近所[きんじょ]に 大[おお]きなスーパーマーケットがある。
 Beispielsatz-Übersetzung: In meiner Nachbarschaft gibt es einen großen Supermarkt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

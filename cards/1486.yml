@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schock
-Notiz: ''
 Beispielsatz: 彼はそのニュースを聞いてショックを受けた。
 Beispielsatz-Lesung: 彼[かれ]はそのニュースを 聞[き]いてショックを 受[う]けた。
 Beispielsatz-Übersetzung: Er war schockiert von der Nachricht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

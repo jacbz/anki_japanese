@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: tun (ehrfürchtig)
-Notiz: ''
 Beispielsatz: デザートは何になさいますか。
 Beispielsatz-Lesung: デザートは 何[なに]になさいますか。
 Beispielsatz-Übersetzung: Was möchten Sie als Nachtisch?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

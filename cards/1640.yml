@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Entschuldigung; danke; es tut mir leid
-Notiz: ''
 Beispielsatz: すみません、トイレはどこですか。
 Beispielsatz-Lesung: すみません、トイレはどこですか。
 Beispielsatz-Übersetzung: Entschuldigung, wo ist die Toilette?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

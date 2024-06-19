@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: irgendwann
-Notiz: ''
 Beispielsatz: いつか真実が分かるだろう。
 Beispielsatz-Lesung: いつか 真実[しんじつ]が 分[わ]かるだろう。
 Beispielsatz-Übersetzung: Du wirst irgendwann die Wahrheit kennen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

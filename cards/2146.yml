@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: finden
-Notiz: ''
 Beispielsatz: 駐車場で誰かの財布を拾った。
 Beispielsatz-Lesung: 駐車場[ちゅうしゃじょう]で 誰[だれ]かの 財布[さいふ]を 拾[ひろ]った。
 Beispielsatz-Übersetzung: Ich habe eine Brieftasche von jemandem auf dem Parkplatz
   gefunden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

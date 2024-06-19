@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aufgabe, Rolle
-Notiz: ''
 Beispielsatz: しつけは親の役目だ。
 Beispielsatz-Lesung: しつけは 親[おや]の 役目[やくめ]だ。
 Beispielsatz-Übersetzung: Die Erziehung der Kinder ist die Aufgabe der Eltern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

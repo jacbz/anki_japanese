@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachhilfeschule zur Vorbereitung auf die Universitätsaufnahmeprüfungen
-Notiz: ''
 Beispielsatz: 高校卒業後、一年間予備校に通った。
 Beispielsatz-Lesung: 高校[こうこう] 卒業後[そつぎょうご]、 一年間[いちねんかん] 予備校[よびこう]に 通[とお]った。
 Beispielsatz-Übersetzung: Nach dem Abitur besuchte ich ein Jahr lang eine private
   Vorbereitungsschule mit Hochschulzugang.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

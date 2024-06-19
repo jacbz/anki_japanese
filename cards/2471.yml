@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: retten
-Notiz: ''
 Beispielsatz: 彼は私を救った。
 Beispielsatz-Lesung: 彼[かれ]は 私[わたし]を 救[すく]った。
 Beispielsatz-Übersetzung: Er hat mich gerettet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

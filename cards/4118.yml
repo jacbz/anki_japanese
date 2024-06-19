@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teile, Komponenten
-Notiz: ''
 Beispielsatz: この会社は自動車の部品を作っている。
 Beispielsatz-Lesung: この 会社[かいしゃ]は 自動車[じどうしゃ]の 部品[ぶひん]を 作[つく]っている。
 Beispielsatz-Übersetzung: Dieses Unternehmen stellt Komponenten für Automobile her.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

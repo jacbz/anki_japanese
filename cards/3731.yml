@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: eintragen, notieren
-Notiz: ''
 Beispielsatz: カレンダーに予定を書き込んでおく。
 Beispielsatz-Lesung: カレンダーに 予定[よてい]を 書[か]き 込[こ]んでおく。
 Beispielsatz-Übersetzung: Ich werde den Zeitplan im Kalender notieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

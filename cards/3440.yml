@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vorkriegszeit
-Notiz: ''
 Beispielsatz: この店は戦前から続く名店だ。
 Beispielsatz-Lesung: この 店[みせ]は 戦前[せんぜん]から 続[つづ]く 名店[めいてん]だ。
 Beispielsatz-Übersetzung: Dies ist ein bekanntes Restaurant, das seit der Vorkriegszeit
   in Betrieb ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

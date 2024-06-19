@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stadt
-Notiz: ''
 Beispielsatz: 東京は日本最大の都市である。
 Beispielsatz-Lesung: 東京[とうきょう]は 日本[にっぽん] 最大[さいだい]の 都市[とし]である。
 Beispielsatz-Übersetzung: Tokio ist die größte Stadt Japans.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: überwiegend
-Notiz: ''
 Beispielsatz: 彼らは結婚するというもっぱらのうわさだ。
 Beispielsatz-Lesung: 彼[かれ]らは 結婚[けっこん]するというもっぱらのうわさだ。
 Beispielsatz-Übersetzung: Überwiegend wird gesagt, dass sie heiraten werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

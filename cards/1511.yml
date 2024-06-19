@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ablaufen, auslaufen
-Notiz: ''
 Beispielsatz: 運転免許証の期限が来週で切れる。
 Beispielsatz-Lesung: 運転免許証[うんてんめんきょしょう]の 期限[きげん]が 来週[らいしゅう]で 切[き]れる。
 Beispielsatz-Übersetzung: Mein Führerschein läuft nächste Woche aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

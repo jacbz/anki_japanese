@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: tragen, auf den Schultern tragen
-Notiz: ''
 Beispielsatz: リュックサックを担いで山に登った。
 Beispielsatz-Lesung: リュックサックを 担[かつ]いで 山[やま]に 登[のぼ]った。
 Beispielsatz-Übersetzung: Ich trug einen Rucksack auf den Schultern und stieg den
   Berg hinauf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Winter
-Notiz: ''
 Beispielsatz: 今年の冬は雪が少ない。
 Beispielsatz-Lesung: 今年[ことし]の 冬[ふゆ]は 雪[ゆき]が 少[すく]ない。
 Beispielsatz-Übersetzung: Es hat diesen Winter nicht viel Schnee gegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

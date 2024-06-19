@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Amerikaner/in
-Notiz: ''
 Beispielsatz: 彼はアメリカ人です。
 Beispielsatz-Lesung: 彼[かれ]はアメリカ 人[じん]です。
 Beispielsatz-Übersetzung: Er ist ein Amerikaner.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

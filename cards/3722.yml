@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bargeld
-Notiz: ''
 Beispielsatz: 多額の現金を持ち歩くのは危ない。
 Beispielsatz-Lesung: 多額[たがく]の 現金[げんきん]を 持[も]ち 歩[ある]くのは 危[あぶ]ない。
 Beispielsatz-Übersetzung: Es ist nicht sicher, eine große Menge Bargeld mit sich zu
   führen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

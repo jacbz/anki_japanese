@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mitglied
-Notiz: ''
 Beispielsatz: クラブにはメンバーが100人以上います。
 Beispielsatz-Lesung: クラブにはメンバーが 100人[ひゃくにん] 以上[いじょう]います。
 Beispielsatz-Übersetzung: Es gibt mehr als hundert Mitglieder im Club.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

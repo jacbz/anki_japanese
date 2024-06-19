@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: präzise, ordentlich
-Notiz: ''
 Beispielsatz: 彼の部屋はきちんと片付けられている。
 Beispielsatz-Lesung: 彼[かれ]の 部屋[へや]はきちんと 片付[かたづ]けられている。
 Beispielsatz-Übersetzung: Sein Zimmer ist ordentlich arrangiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

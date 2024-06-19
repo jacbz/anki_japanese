@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: hauptsächlich, wichtigste/r/s
-Notiz: ''
 Beispielsatz: その事故の主な原因はまだわかっていない。
 Beispielsatz-Lesung: その 事故[じこ]の 主[おも]な 原因[げんいん]はまだわかっていない。
 Beispielsatz-Übersetzung: Die wichtigste Ursache des Unfalls ist noch unbekannt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

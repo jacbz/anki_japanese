@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fliegen
-Notiz: ''
 Beispielsatz: 鳥が飛んでいる。
 Beispielsatz-Lesung: 鳥[とり]が 飛[と]んでいる。
 Beispielsatz-Übersetzung: Die Vögel fliegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

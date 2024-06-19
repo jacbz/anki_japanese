@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: nur, lediglich
-Notiz: ''
 Beispielsatz: たった今彼は帰りました。
 Beispielsatz-Lesung: たった 今[いま] 彼[かれ]は 帰[かえ]りました。
 Beispielsatz-Übersetzung: Er ist gerade eben nach Hause gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

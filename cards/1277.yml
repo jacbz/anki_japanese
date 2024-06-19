@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Umstände, Situation, Grund
-Notiz: ''
 Beispielsatz: 事情があって仕事をやめなければならなかった。
 Beispielsatz-Lesung: 事情[じじょう]があって 仕事[しごと]をやめなければならなかった。
 Beispielsatz-Übersetzung: Ich musste meinen Job aufgrund von Umständen aufgeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

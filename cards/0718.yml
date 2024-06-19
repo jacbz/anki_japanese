@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: glauben, vertrauen
-Notiz: ''
 Beispielsatz: 彼のことを信じている。
 Beispielsatz-Lesung: 彼[かれ]のことを 信[しん]じている。
 Beispielsatz-Übersetzung: Ich vertraue ihm.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

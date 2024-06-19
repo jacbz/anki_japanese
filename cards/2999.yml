@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Katastrophe, Unglück
-Notiz: ''
 Beispielsatz: いつ大きな災害が起きるかわからない。
 Beispielsatz-Lesung: いつ 大[おお]きな 災害[さいがい]が 起[お]きるかわからない。
 Beispielsatz-Übersetzung: Niemand weiß, wann eine große Katastrophe passieren wird.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

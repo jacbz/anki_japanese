@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: Schmerzen empfinden, leiden
-Notiz: ''
 Beispielsatz: 食糧不足に苦しんでいる人を助けたい。
 Beispielsatz-Lesung: 食糧不足[しょくりょうふそく]に 苦[くる]しんでいる人を 助[たす]けたい。
 Beispielsatz-Übersetzung: Ich möchte Menschen helfen, die unter Nahrungsmittelknappheit
   leiden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

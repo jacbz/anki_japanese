@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: unvollständig, halb erledigt
-Notiz: ''
 Beispielsatz: 中途半端にするな。
 Beispielsatz-Lesung: 中途半端[ちゅうとはんぱ]にするな。
 Beispielsatz-Übersetzung: Lass die Dinge nicht halb erledigt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hand
-Notiz: ''
 Beispielsatz: 父の手は大きい。
 Beispielsatz-Lesung: 父[ちち]の 手[て]は 大[おお]きい。
 Beispielsatz-Übersetzung: Mein Vater hat große Hände.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

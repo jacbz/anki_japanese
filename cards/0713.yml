@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sitzen
-Notiz: ''
 Beispielsatz: 彼は椅子に座った。
 Beispielsatz-Lesung: 彼[かれ]は 椅子[いす]に 座[すわ]った。
 Beispielsatz-Übersetzung: Er saß auf einem Stuhl.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

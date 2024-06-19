@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sinken, untergehen
-Notiz: ''
 Beispielsatz: その船は海の底に沈んだ。
 Beispielsatz-Lesung: その 船[ふね]は 海[うみ]の 底[そこ]に 沈[しず]んだ。
 Beispielsatz-Übersetzung: Das Schiff sank auf den Grund des Meeres.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

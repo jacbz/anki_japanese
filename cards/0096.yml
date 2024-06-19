@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. conj.
 Definition: und, außerdem (Gründe auflisten)
-Notiz: ''
 Beispielsatz: 彼はハンサムだし背が高い。
 Beispielsatz-Lesung: 彼[かれ]はハンサムだし 背[せ]が 高[たか]い。
 Beispielsatz-Übersetzung: Er ist gutaussehend und groß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

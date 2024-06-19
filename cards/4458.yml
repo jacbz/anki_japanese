@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zutat, Bestandteil, Komponente
-Notiz: ''
 Beispielsatz: 血液の成分は何ですか。
 Beispielsatz-Lesung: 血液[けつえき]の 成分[せいぶん]は 何[なに]ですか。
 Beispielsatz-Übersetzung: Was sind die Bestandteile des Blutes?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

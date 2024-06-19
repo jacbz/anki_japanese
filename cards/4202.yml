@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vier Jahreszeiten
-Notiz: ''
 Beispielsatz: 日本は四季がはっきりしています。
 Beispielsatz-Lesung: 日本[にっぽん]は 四季[しき]がはっきりしています。
 Beispielsatz-Übersetzung: Die vier Jahreszeiten sind in Japan klar definiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überleben
-Notiz: ''
 Beispielsatz: 私はその事故で生き残った。
 Beispielsatz-Lesung: 私[わたし]はその 事故[じこ]で 生[い]き 残[のこ]った。
 Beispielsatz-Übersetzung: Ich habe den Unfall überlebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

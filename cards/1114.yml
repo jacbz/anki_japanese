@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sich selbst
-Notiz: ''
 Beispielsatz: 結婚相手は自分自身で決めなさい。
 Beispielsatz-Lesung: 結婚相手[けっこんあいて]は 自分自身[じぶんじしん]で 決[き]めなさい。
 Beispielsatz-Übersetzung: Sie müssen Ihren Ehepartner selbst auswählen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

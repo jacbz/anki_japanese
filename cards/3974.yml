@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: flach
-Notiz: ''
 Beispielsatz: プールの浅いところへ行った。
 Beispielsatz-Lesung: プールの 浅[あさ]いところへ 行[い]った。
 Beispielsatz-Übersetzung: Ich bin zum flachen Ende des Pools gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wasserversorgung
-Notiz: ''
 Beispielsatz: 水道が止まった。
 Beispielsatz-Lesung: 水道[すいどう]が 止[と]まった。
 Beispielsatz-Übersetzung: Unsere Wasserversorgung wurde unterbrochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

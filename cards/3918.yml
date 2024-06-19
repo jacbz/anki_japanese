@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Freundlichkeit
-Notiz: ''
 Beispielsatz: 彼の優しさを忘れないだろう。
 Beispielsatz-Lesung: 彼[かれ]の 優[やさ]しさを 忘[わす]れないだろう。
 Beispielsatz-Übersetzung: Ich werde seine Freundlichkeit nicht vergessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

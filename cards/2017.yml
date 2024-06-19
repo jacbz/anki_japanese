@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sommerferien
-Notiz: ''
 Beispielsatz: 息子は夏休みを楽しみにしている。
 Beispielsatz-Lesung: 息子[むすこ]は 夏休[なつやす]みを 楽[たの]しみにしている。
 Beispielsatz-Übersetzung: Mein Sohn freut sich auf die Sommerferien.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

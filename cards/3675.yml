@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: vierzig
-Notiz: ''
 Beispielsatz: 四十を越えると肉体的に弱さを覚える。
 Beispielsatz-Lesung: 四十を 越[こ]えると 肉体的[にくたいてき]に 弱[よわ]さを 覚[おぼ]える。
 Beispielsatz-Übersetzung: Wenn man über vierzig ist, beginnt man, sich körperlich
   schwach zu fühlen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

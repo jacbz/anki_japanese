@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Großvater
-Notiz: ''
 Beispielsatz: おじいさんは年のわりに元気です。
 Beispielsatz-Lesung: おじいさんは 年[とし]のわりに 元気[げんき]です。
 Beispielsatz-Übersetzung: Mein Großvater ist für sein Alter lebhaft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

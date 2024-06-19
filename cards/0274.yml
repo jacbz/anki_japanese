@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: damals, zu jener Zeit
-Notiz: ''
 Beispielsatz: 当時、日本の物価はもっと高かった。
 Beispielsatz-Lesung: 当時[とうじ]、 日本[にっぽん]の 物価[ぶっか]はもっと 高[たか]かった。
 Beispielsatz-Übersetzung: Die Preise in Japan waren damals höher.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

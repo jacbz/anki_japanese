@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: noch (mehr)
-Notiz: ''
 Beispielsatz: まだまだやることがたくさんある。
 Beispielsatz-Lesung: まだまだやることがたくさんある。
 Beispielsatz-Übersetzung: Es gibt noch viel mehr Dinge zu tun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

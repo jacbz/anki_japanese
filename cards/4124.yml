@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rasse
-Notiz: ''
 Beispielsatz: アメリカには様々な人種がいます。
 Beispielsatz-Lesung: アメリカには 様々[さまざま]な 人種[じんしゅ]がいます。
 Beispielsatz-Übersetzung: Es gibt verschiedene Rassen in den Vereinigten Staaten von
   Amerika.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

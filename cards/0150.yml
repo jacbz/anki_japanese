@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: zunächst; zuerst
-Notiz: ''
 Beispielsatz: まず、玉ねぎを炒め、次に肉を入れてください。
 Beispielsatz-Lesung: まず、 玉[たま]ねぎを 炒[いた]め、 次[つぎ]に 肉[にく]を 入[い]れてください。
 Beispielsatz-Übersetzung: Zunächst die Zwiebeln anbraten und dann das Fleisch hinzufügen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

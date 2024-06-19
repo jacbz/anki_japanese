@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: oft, häufig
-Notiz: ''
 Beispielsatz: 祖母は記憶をなくすことがしばしばある。
 Beispielsatz-Lesung: 祖母[そぼ]は 記憶[きおく]をなくすことがしばしばある。
 Beispielsatz-Übersetzung: Meine Großmutter verliert sehr oft ihr Gedächtnis.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

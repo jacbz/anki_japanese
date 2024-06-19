@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schnell
-Notiz: ''
 Beispielsatz: 政府の対応は素早かった。
 Beispielsatz-Lesung: 政府[せいふ]の 対応[たいおう]は 素早[すばや]かった。
 Beispielsatz-Übersetzung: Die Regierung hat schnell reagiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

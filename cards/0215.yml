@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in letzter Zeit
-Notiz: ''
 Beispielsatz: 私は最近忙しい。
 Beispielsatz-Lesung: 私[わたし]は 最近[さいきん] 忙[いそが]しい。
 Beispielsatz-Übersetzung: Ich bin in letzter Zeit beschäftigt gewesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

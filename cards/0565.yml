@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nach&nbsp;…;&nbsp;später als&nbsp;…;&nbsp;seit&nbsp;….
-Notiz: ''
 Beispielsatz: その後、彼女には会っていない。
 Beispielsatz-Lesung: その 後[ご]、 彼女[かのじょ]には 会[あ]っていない。
 Beispielsatz-Übersetzung: Seitdem habe ich sie nicht mehr gesehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

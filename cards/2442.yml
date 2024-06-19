@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gedanke, Idee
-Notiz: ''
 Beispielsatz: 政治思想について話し合う。
 Beispielsatz-Lesung: 政治思想[せいじしそう]について 話[はな]し 合[あ]う。
 Beispielsatz-Übersetzung: Wir diskutieren hier über politische Ideen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

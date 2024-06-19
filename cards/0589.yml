@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Typ, Kerl
-Notiz: ''
 Beispielsatz: 彼はおもしろい奴です。
 Beispielsatz-Lesung: 彼[かれ]はおもしろい 奴[やっこ]です。
 Beispielsatz-Übersetzung: Er ist ein interessanter Kerl.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

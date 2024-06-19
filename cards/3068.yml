@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gut organisiert sein; vereint sein; sich beruhigen
-Notiz: ''
 Beispielsatz: みんなの意見がなかなかまとまらない。
 Beispielsatz-Lesung: みんなの 意見[いけん]がなかなかまとまらない。
 Beispielsatz-Übersetzung: Die Meinungen aller sind nicht leicht zu vereinen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

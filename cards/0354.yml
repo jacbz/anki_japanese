@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeit, Ära
-Notiz: ''
 Beispielsatz: 内戦後、平和な時代になった。
 Beispielsatz-Lesung: 内戦[ないせん] 後[ご]、 平和[へいわ]な 時代[じだい]になった。
 Beispielsatz-Übersetzung: Nach dem Bürgerkrieg ist Frieden eingekehrt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

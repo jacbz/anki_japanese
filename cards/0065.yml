@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: äh, mm
-Notiz: ''
 Beispielsatz: 「どうして授業を休んだの。」「それは、その...。」
 Beispielsatz-Lesung: 「どうして 授業[じゅぎょう]を 休[やす]んだの。」「それは、その...。」
 Beispielsatz-Übersetzung: „Warum hast du den Unterricht verpasst?“ „Nun ja, das war
   so...“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

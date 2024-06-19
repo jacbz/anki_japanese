@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Flur
-Notiz: ''
 Beispielsatz: 廊下を走ると危ないです。
 Beispielsatz-Lesung: 廊下[ろうか]を 走[はし]ると 危[あぶ]ないです。
 Beispielsatz-Übersetzung: Es ist gefährlich, den Flur entlang zu rennen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

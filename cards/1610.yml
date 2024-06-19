@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Comics, Cartoon
-Notiz: ''
 Beispielsatz: 彼はいつもマンガを読んでいる。
 Beispielsatz-Lesung: 彼[かれ]はいつもマンガを 読[よ]んでいる。
 Beispielsatz-Übersetzung: Er liest immer Comics.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

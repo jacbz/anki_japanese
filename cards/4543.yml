@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: grün
-Notiz: ''
 Beispielsatz: 父は塀を緑色に塗った。
 Beispielsatz-Lesung: 父[ちち]は 塀[へい]を 緑色[りょくしょく]に 塗[ぬ]った。
 Beispielsatz-Übersetzung: Mein Vater hat den Zaun grün gestrichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

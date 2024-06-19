@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jeder (einzelne)
-Notiz: ''
 Beispielsatz: 人にはそれぞれ良い時と悪い時がある。
 Beispielsatz-Lesung: 人にはそれぞれいい 時[とき]と 悪[わる]い 時[とき]がある。
 Beispielsatz-Übersetzung: Jeder von uns hat Höhen und Tiefen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

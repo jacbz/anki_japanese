@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entfernen
-Notiz: ''
 Beispielsatz: 私は魚の骨を取り除くのが苦手だ。
 Beispielsatz-Lesung: 私[わたし]は 魚[さかな]の 骨[ほね]を 取[と]り 除[のぞ]くのが 苦手[にがて]だ。
 Beispielsatz-Übersetzung: Ich bin nicht gut darin, Fischgräten zu entfernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

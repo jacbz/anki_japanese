@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kälte
-Notiz: ''
 Beispielsatz: 今年の冬は寒さが厳しい。
 Beispielsatz-Lesung: 今年[ことし]の 冬[ふゆ]は 寒[さむ]さが 厳[きび]しい。
 Beispielsatz-Übersetzung: Dieser Winter ist sehr kalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

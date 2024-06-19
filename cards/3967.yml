@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kapital
-Notiz: ''
 Beispielsatz: このプロジェクトはさらなる資本を産み出す。
 Beispielsatz-Lesung: このプロジェクトはさらなる 資本[しほん]を 産[う]み 出[だ]す。
 Beispielsatz-Übersetzung: Dieses Projekt wird mehr Kapital schaffen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

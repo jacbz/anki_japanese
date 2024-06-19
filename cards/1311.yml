@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: wie viele Personen
-Notiz: ''
 Beispielsatz: ご家族は何人ですか。
 Beispielsatz-Lesung: ご 家族[かぞく]は 何[なん]人ですか。
 Beispielsatz-Übersetzung: Wie viele Personen gibt es in Ihrer Familie?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

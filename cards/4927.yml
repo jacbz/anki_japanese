@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: eine Runde
-Notiz: ''
 Beispielsatz: このコースは一周5キロです。
 Beispielsatz-Lesung: このコースは 一周[いっしゅう]5キロです。
 Beispielsatz-Übersetzung: Die Strecke ist vom Start bis zum Ziel fünf Kilometer lang.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

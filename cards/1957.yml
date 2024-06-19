@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kochen; in Aufruhr sein
-Notiz: ''
 Beispielsatz: お湯が沸いた。
 Beispielsatz-Lesung: お 湯[ゆ]が 沸[わ]いた。
 Beispielsatz-Übersetzung: Das Wasser kocht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

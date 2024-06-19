@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahrheit
-Notiz: ''
 Beispielsatz: それは本当かな。
 Beispielsatz-Lesung: それは 本当[ほんとう]かな。
 Beispielsatz-Übersetzung: Ich frage mich, ob es wahr ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

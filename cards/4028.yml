@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Muster, Charakter
-Notiz: ''
 Beispielsatz: 彼女は花柄のドレスを着ている。
 Beispielsatz-Lesung: 彼女[かのじょ]は 花[はな] 柄[がら]のドレスを 着[き]ている。
 Beispielsatz-Übersetzung: Sie trägt ein Blumenmusterkleid.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

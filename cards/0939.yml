@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Internet
-Notiz: ''
 Beispielsatz: 多くの人はインターネットで情報を探す。
 Beispielsatz-Lesung: 多[おお]くの人はインターネットで 情報[じょうほう]を 探[さが]す。
 Beispielsatz-Übersetzung: Viele Menschen suchen im Internet nach Informationen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verteilen, ausliefern
-Notiz: ''
 Beispielsatz: 彼は駅前でチラシを配った。
 Beispielsatz-Lesung: 彼[かれ]は 駅前[えきまえ]でチラシを 配[くば]った。
 Beispielsatz-Übersetzung: Er verteilte Flyer vor dem Bahnhof.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

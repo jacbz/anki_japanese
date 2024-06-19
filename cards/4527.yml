@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: flüstern
-Notiz: ''
 Beispielsatz: 彼女は彼の耳元でささやいた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 彼[かれ]の 耳元[みみもと]でささやいた。
 Beispielsatz-Übersetzung: Sie flüsterte ihrem Freund ins Ohr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

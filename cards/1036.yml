@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: wie oft
-Notiz: ''
 Beispielsatz: 何回その映画を見たの？
 Beispielsatz-Lesung: 何[なん] 回[かい]その 映画[えいが]を 見[み]たの？
 Beispielsatz-Übersetzung: Wie oft hast du den Film gesehen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

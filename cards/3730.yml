@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schmutz
-Notiz: ''
 Beispielsatz: 何度洗っても汚れが取れない。
 Beispielsatz-Lesung: 何[なん] 度[ど] 洗[あら]っても 汚[よご]れが 取[と]れない。
 Beispielsatz-Übersetzung: Ich kann den Schmutz nicht loswerden, egal wie oft ich es
   wasche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

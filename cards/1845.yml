@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hochzeitszeremonie
-Notiz: ''
 Beispielsatz: 私は先月結婚式を挙げました。
 Beispielsatz-Lesung: 私[わたし]は 先月[せんげつ] 結婚式[けっこんしき]を 挙[あ]げました。
 Beispielsatz-Übersetzung: Ich habe letzten Monat geheiratet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vater
-Notiz: ''
 Beispielsatz: お父さん、話があるんだけど。
 Beispielsatz-Lesung: お 父[とう]さん、 話[はなし]があるんだけど。
 Beispielsatz-Übersetzung: Papa, ich muss mit dir reden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: etwas ungewollt tun
-Notiz: ''
 Beispielsatz: ダイエット中なのに、つい、甘いものを食べてしまう。
 Beispielsatz-Lesung: ダイエット 中[ちゅう]なのに、つい、 甘[あま]いものを 食[た]べてしまう。
 Beispielsatz-Übersetzung: Ich bin auf Diät, aber ich kann nicht aufhören, Süßigkeiten
   zu essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

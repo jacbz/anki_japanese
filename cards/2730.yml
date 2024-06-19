@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hassen, verabscheuen
-Notiz: ''
 Beispielsatz: 彼は変化を嫌う。
 Beispielsatz-Lesung: 彼[かれ]は 変化[へんか]を 嫌[きら]う。
 Beispielsatz-Übersetzung: Er verabscheut Veränderungen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fokus
-Notiz: ''
 Beispielsatz: カメラの焦点を合わせた。
 Beispielsatz-Lesung: カメラの 焦点[しょうてん]を 合[あ]わせた。
 Beispielsatz-Übersetzung: Ich stellte die Kamera scharf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

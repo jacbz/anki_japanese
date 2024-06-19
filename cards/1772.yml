@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwölf
-Notiz: ''
 Beispielsatz: 十と十一と十二の合計は三十三だ。
 Beispielsatz-Lesung: 十と十一と十二の 合計[ごうけい]は三十三だ。
 Beispielsatz-Übersetzung: Die Summe von zehn, elf und zwölf ist dreiunddreißig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

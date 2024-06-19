@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Raum, Platz
-Notiz: ''
 Beispielsatz: 疑う余地はない。
 Beispielsatz-Lesung: 疑[うたが]う 余地[よち]はない。
 Beispielsatz-Übersetzung: Es gibt keinen Raum für Zweifel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

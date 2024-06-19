@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Feuchtigkeit
-Notiz: ''
 Beispielsatz: 豆腐の水気を切った。
 Beispielsatz-Lesung: 豆腐[とうふ]の 水気[みずけ]を 切[き]った。
 Beispielsatz-Übersetzung: Ich habe das Wasser aus dem Tofu abgelassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

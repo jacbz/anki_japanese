@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Oh, Junge, Oh je
-Notiz: ''
 Beispielsatz: はー、今日も疲れた。
 Beispielsatz-Lesung: はー、 今日[きょう]も 疲[つか]れた。
 Beispielsatz-Übersetzung: Oh je, ich bin heute so müde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

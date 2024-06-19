@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verbrecher, Täter
-Notiz: ''
 Beispielsatz: 犯人がつかまった。
 Beispielsatz-Lesung: 犯人[はんにん]がつかまった。
 Beispielsatz-Übersetzung: Der Verbrecher wurde verhaftet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

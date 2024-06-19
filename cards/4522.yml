@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: letztendlich, schließlich
-Notiz: ''
 Beispielsatz: 彼は刑務所から逃亡した挙げ句捕まった。
 Beispielsatz-Lesung: 彼[かれ]は 刑務所[けいむしょ]から 逃亡[とうぼう]した 挙[あ]げ 句[く] 捕[つか]まった。
 Beispielsatz-Übersetzung: Letztendlich wurde er nach seiner Flucht aus dem Gefängnis
   festgenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

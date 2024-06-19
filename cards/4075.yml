@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Richtung, Aspekt; geeignet
-Notiz: ''
 Beispielsatz: この家は南向きだ。
 Beispielsatz-Lesung: この 家[いえ]は 南向[みなみむ]きだ。
 Beispielsatz-Übersetzung: Dieses Haus hat eine südliche Ausrichtung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

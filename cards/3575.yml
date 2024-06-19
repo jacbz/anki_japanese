@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: gelb
-Notiz: ''
 Beispielsatz: 一面に黄色い花が咲いていた。
 Beispielsatz-Lesung: 一 面[めん]に 黄色[きいろ]い 花[はな]が 咲[さ]いていた。
 Beispielsatz-Übersetzung: Überall blühten gelbe Blumen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

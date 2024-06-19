@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausdrucksweise
-Notiz: ''
 Beispielsatz: もっと自然な言い方がありますか。
 Beispielsatz-Lesung: もっと 自然[しぜん]な 言[い]い 方[かた]がありますか。
 Beispielsatz-Übersetzung: Gibt es eine natürlichere Ausdrucksweise?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

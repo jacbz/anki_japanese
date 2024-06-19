@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: siebzehn
-Notiz: ''
 Beispielsatz: 十七は恋多き年だ。
 Beispielsatz-Lesung: 十七は 恋[こい] 多[おお]き 年[とし]だ。
 Beispielsatz-Übersetzung: Siebzehn ist ein Alter voller Romantik.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

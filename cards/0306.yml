@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: überhaupt nicht
-Notiz: ''
 Beispielsatz: その新しいテレビドラマは全然面白くない。
 Beispielsatz-Lesung: その 新[あたら]しいテレビドラマは 全然[ぜんぜん] 面白[おもしろ]くない。
 Beispielsatz-Übersetzung: Die neue TV-Drama-Serie ist überhaupt nicht interessant.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

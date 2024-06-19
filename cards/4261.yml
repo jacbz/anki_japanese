@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausgangspunkt, Ursprung
-Notiz: ''
 Beispielsatz: 迷った時は原点に立ち返らなければならない。
 Beispielsatz-Lesung: 迷[まよ]った 時[とき]は 原点[げんてん]に 立[た]ち 返[かえ]らなければならない。
 Beispielsatz-Übersetzung: Wenn du dich nicht entscheiden kannst, musst du zum Ausgangspunkt
   zurückkehren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: abnehmen, weniger werden
-Notiz: ''
 Beispielsatz: 人口が減っている。
 Beispielsatz-Lesung: 人口[じんこう]が 減[へ]っている。
 Beispielsatz-Übersetzung: Die Bevölkerung nimmt ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

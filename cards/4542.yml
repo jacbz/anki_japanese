@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gasse, Weg
-Notiz: ''
 Beispielsatz: 野良猫が路地をうろついている。
 Beispielsatz-Lesung: 野良猫[のらねこ]が 路地[ろじ]をうろついている。
 Beispielsatz-Übersetzung: Herrenlose Katzen streifen durch die Gassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Korea
-Notiz: ''
 Beispielsatz: 朝鮮は南北に分かれている。
 Beispielsatz-Lesung: 朝鮮[ちょうせん]は 南北[なんぼく]に 分[わ]かれている。
 Beispielsatz-Übersetzung: Korea ist in Nord- und Südkorea geteilt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

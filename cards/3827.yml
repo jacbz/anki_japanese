@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: dreiundzwanzig
-Notiz: ''
 Beispielsatz: 東京には二十三の区がある。
 Beispielsatz-Lesung: 東京[とうきょう]には二十三の 区[く]がある。
 Beispielsatz-Übersetzung: In Tokio gibt es dreiundzwanzig Bezirke.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: zufällig
-Notiz: ''
 Beispielsatz: 彼らはたまたまそこにいた。
 Beispielsatz-Lesung: 彼[かれ]らはたまたまそこにいた。
 Beispielsatz-Übersetzung: Sie waren dort zufällig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Grad, Stufe, Schritt
-Notiz: ''
 Beispielsatz: それはまだ準備の段階にある。
 Beispielsatz-Lesung: それはまだ 準備[じゅんび]の 段階[だんかい]にある。
 Beispielsatz-Übersetzung: Es befindet sich jetzt in der Vorbereitungsphase.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

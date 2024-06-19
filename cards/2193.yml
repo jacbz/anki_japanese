@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: weil, aber
-Notiz: ''
 Beispielsatz: 「どうして食べないの」「だって、ダイエット中なんだもん」
 Beispielsatz-Lesung: 「どうして 食[た]べないの」「だって、ダイエット 中[ちゅう]なんだもん」
 Beispielsatz-Übersetzung: „Warum isst du es nicht?“ „Weil ich auf Diät bin.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

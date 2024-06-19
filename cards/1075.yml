@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Fremder, Unbekannter, Außenstehender
-Notiz: ''
 Beispielsatz: 他人のことは気にしないで。
 Beispielsatz-Lesung: 他人[たにん]のことは 気[き]にしないで。
 Beispielsatz-Übersetzung: Mach dir keine Sorgen um Fremde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

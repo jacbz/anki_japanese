@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übrig bleiben; zu viele sein
-Notiz: ''
 Beispielsatz: パーティーで余った料理をもらって帰った。
 Beispielsatz-Lesung: パーティーで 余[あま]った 料理[りょうり]をもらって 帰[かえ]った。
 Beispielsatz-Übersetzung: Ich habe das übrig gebliebene Essen von der Party mit nach
   Hause genommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: färben
-Notiz: ''
 Beispielsatz: 私の母は白髪を黒く染めた。
 Beispielsatz-Lesung: 私[わたし]の 母[はは]は 白髪[はくはつ]を 黒[くろ]く 染[そ]めた。
 Beispielsatz-Übersetzung: Meine Mutter hat ihre weißen Haare schwarz gefärbt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

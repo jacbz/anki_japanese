@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ernsthaft, wichtig
-Notiz: ''
 Beispielsatz: この事件は国際関係に重大な影響を及ぼす。
 Beispielsatz-Lesung: この 事件[じけん]は 国際関係[こくさいかんけい]に 重大[じゅうだい]な 影響[えいきょう]を 及[およ]ぼす。
 Beispielsatz-Übersetzung: Dieser Fall hat ernsthafte Auswirkungen auf die internationalen
   Beziehungen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

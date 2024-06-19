@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Samstag und Sonntag
-Notiz: ''
 Beispielsatz: 今度の土日はどちらも空いている。
 Beispielsatz-Lesung: 今度[こんど]の 土日[どにち]はどちらも 空[あ]いている。
 Beispielsatz-Übersetzung: Ich bin an diesem Samstag und Sonntag frei.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

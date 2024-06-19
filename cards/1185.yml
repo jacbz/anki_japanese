@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: n normalerweise, gewöhnlich, regulär
-Notiz: ''
 Beispielsatz: 通常届くのに一週間かかります。
 Beispielsatz-Lesung: 通常[つうじょう] 届[とど]くのに 一週間[いっしゅうかん]かかります。
 Beispielsatz-Übersetzung: Normalerweise dauert es eine Woche, um anzukommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

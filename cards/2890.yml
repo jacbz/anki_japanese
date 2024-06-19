@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Taiwan
-Notiz: ''
 Beispielsatz: 私は今週台湾へ行く。
 Beispielsatz-Lesung: 私[わたし]は 今週[こんしゅう] 台湾[たいわん]へ 行[い]く。
 Beispielsatz-Übersetzung: Ich werde diese Woche nach Taiwan reisen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Achse; Welle; Stiel
-Notiz: ''
 Beispielsatz: 地球は軸を中心に回転します。
 Beispielsatz-Lesung: 地球[ちきゅう]は 軸[じく]を 中心[ちゅうしん]に 回転[かいてん]します。
 Beispielsatz-Übersetzung: Die Erde dreht sich um ihre Achse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

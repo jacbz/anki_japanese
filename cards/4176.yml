@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Metall
-Notiz: ''
 Beispielsatz: 金属バットは重いです。
 Beispielsatz-Lesung: 金属[きんぞく]バットは 重[おも]いです。
 Beispielsatz-Übersetzung: Ein Metall-Baseballschläger ist schwer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

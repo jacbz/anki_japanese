@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: öffentlich
-Notiz: ''
 Beispielsatz: 公共の場はきれいにしておきましょう。
 Beispielsatz-Lesung: 公共[こうきょう]の 場[ば]はきれいにしておきましょう。
 Beispielsatz-Übersetzung: Wir sollten öffentliche Plätze sauber halten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

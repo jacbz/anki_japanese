@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: so, auf diese Weise
-Notiz: ''
 Beispielsatz: 粉と水を混ぜ、こうしてよくこねてください。
 Beispielsatz-Lesung: 粉[こな]と 水[みず]を 混[ま]ぜ、こうしてよくこねてください。
 Beispielsatz-Übersetzung: Mischen Sie Mehl und Wasser zusammen und kneten Sie den
   Teig auf diese Weise gut durch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

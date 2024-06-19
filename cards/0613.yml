@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entschieden werden
-Notiz: ''
 Beispielsatz: それは会議で決まった。
 Beispielsatz-Lesung: それは 会議[かいぎ]で 決[き]まった。
 Beispielsatz-Übersetzung: Es wurde bei einer Sitzung entschieden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

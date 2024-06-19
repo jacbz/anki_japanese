@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angeln
-Notiz: ''
 Beispielsatz: 先週近くの川に釣りに行った。
 Beispielsatz-Lesung: 先週[せんしゅう] 近[ちか]くの 川[かわ]に 釣[つ]りに 行[い]った。
 Beispielsatz-Übersetzung: Ich bin letzte Woche zum Angeln an einen nahegelegenen Fluss
   gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

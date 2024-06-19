@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Garten
-Notiz: ''
 Beispielsatz: 庭の手入れをするのが趣味です。
 Beispielsatz-Lesung: 庭[にわ]の 手入[てい]れをするのが 趣味[しゅみ]です。
 Beispielsatz-Übersetzung: Mein Hobby ist es, meinen Garten zu pflegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

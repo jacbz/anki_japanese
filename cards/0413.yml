@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geräusch
-Notiz: ''
 Beispielsatz: 車のエンジンの音が聞こえた。
 Beispielsatz-Lesung: 車[くるま]のエンジンの 音[おと]が 聞[き]こえた。
 Beispielsatz-Übersetzung: Ich hörte das Geräusch des Automotors.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

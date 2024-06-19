@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: froh, glücklich
-Notiz: ''
 Beispielsatz: 試験に合格して嬉しい。
 Beispielsatz-Lesung: 試験[しけん]に 合格[ごうかく]して 嬉[うれ]しい。
 Beispielsatz-Übersetzung: Ich bin froh, dass ich die Prüfung bestanden habe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

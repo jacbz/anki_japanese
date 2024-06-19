@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gesamt-, ganz-, vollständig
-Notiz: ''
 Beispielsatz: 戦争は世界全体に影響を与えた。
 Beispielsatz-Lesung: 戦争[せんそう]は 世界[せかい] 全体[ぜんたい]に 影響[えいきょう]を 与[あた]えた。
 Beispielsatz-Übersetzung: Der Krieg hatte Auswirkungen auf die Welt als Ganzes.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

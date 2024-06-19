@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kunst
-Notiz: ''
 Beispielsatz: 彼は芸術に造詣が深い。
 Beispielsatz-Lesung: 彼[かれ]は 芸術[げいじゅつ]に 造詣[ぞうけい]が 深[ふか]い。
 Beispielsatz-Übersetzung: Er hat ein tiefes Wissen über Kunst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

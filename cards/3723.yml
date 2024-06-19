@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sie (weiblich)
-Notiz: ''
 Beispielsatz: 彼女達は自分たちの可能性を知らない。
 Beispielsatz-Lesung: 彼女[かのじょ] 達[たち]は 自分[じぶん]たちの 可能性[かのうせい]を 知[し]らない。
 Beispielsatz-Übersetzung: Diese Mädchen kennen ihr Potenzial nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

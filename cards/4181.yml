@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ersparnisse, Einzahlung
-Notiz: ''
 Beispielsatz: 彼女の貯金は少ない。
 Beispielsatz-Lesung: 彼女[かのじょ]の 貯金[ちょきん]は 少[すく]ない。
 Beispielsatz-Übersetzung: Sie hat wenige Ersparnisse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

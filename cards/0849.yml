@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: seltsam, ungewöhnlich
-Notiz: ''
 Beispielsatz: 変な音が聞こえる。
 Beispielsatz-Lesung: 変[へん]な 音[おと]が 聞[き]こえる。
 Beispielsatz-Übersetzung: Ich höre ein seltsames Geräusch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

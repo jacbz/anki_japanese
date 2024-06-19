@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fürchten, Angst haben
-Notiz: ''
 Beispielsatz: 彼は奥さんを恐れている。
 Beispielsatz-Lesung: 彼[かれ]は 奥[おく]さんを 恐[おそ]れている。
 Beispielsatz-Übersetzung: Er hat Angst vor seiner Frau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anvertrauen, überlassen
-Notiz: ''
 Beispielsatz: それは私に任せて。
 Beispielsatz-Lesung: それは 私[わたし]に 任[まか]せて。
 Beispielsatz-Übersetzung: Überlass es mir.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

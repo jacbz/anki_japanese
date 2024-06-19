@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bräutigam
-Notiz: ''
 Beispielsatz: 結婚式は新郎の挨拶から始まった。
 Beispielsatz-Lesung: 結婚式[けっこんしき]は 新郎[しんろう]の 挨拶[あいさつ]から 始[はじ]まった。
 Beispielsatz-Übersetzung: Die Hochzeitsfeier begann mit der Rede des Bräutigams.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

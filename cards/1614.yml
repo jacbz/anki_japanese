@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj. n.
 Definition: nutzlos; Verschwendung
-Notiz: ''
 Beispielsatz: 彼に頼んでも無駄だ。
 Beispielsatz-Lesung: 彼[かれ]に 頼[たの]んでも 無駄[むだ]だ。
 Beispielsatz-Übersetzung: Es ist vergeblich, ihn zu bitten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

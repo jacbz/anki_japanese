@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Behandlung
-Notiz: ''
 Beispielsatz: 日本で親切な扱いを受けた。
 Beispielsatz-Lesung: 日本[にっぽん]で 親切[しんせつ]な 扱[あつか]いを 受[う]けた。
 Beispielsatz-Übersetzung: Als ich in Japan war, wurde ich sehr freundlich behandelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

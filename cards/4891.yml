@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Momentum; Gelegenheit, Chance
-Notiz: ''
 Beispielsatz: 父は退職を契機に料理を始めた。
 Beispielsatz-Lesung: 父[ちち]は 退職[たいしょく]を 契機[けいき]に 料理[りょうり]を 始[はじ]めた。
 Beispielsatz-Übersetzung: Mein Vater hat die Gelegenheit des Ruhestands genutzt, um
   mit dem Kochen zu beginnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

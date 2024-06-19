@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich umgeben mit, ausgehen mit
-Notiz: ''
 Beispielsatz: 私は若い人たちと付き合うのが好きだ。
 Beispielsatz-Lesung: 私[わたし]は 若[わか]い 人[ひと]たちと 付[つ]き 合[あ]うのが 好[す]きだ。
 Beispielsatz-Übersetzung: Ich umgebe mich gerne mit jungen Leuten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

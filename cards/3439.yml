@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. adv.
 Definition: Mehrheit; meistens
-Notiz: ''
 Beispielsatz: 日本の国土の大部分を山が占めている。
 Beispielsatz-Lesung: 日本[にっぽん]の 国土[こくど]の 大部分[だいぶぶん]を 山[やま]が 占[し]めている。
 Beispielsatz-Übersetzung: Berge machen den größten Teil des japanischen Landes aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

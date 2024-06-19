@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zitrone
-Notiz: ''
 Beispielsatz: 彼女は紅茶にレモンをしぼった。
 Beispielsatz-Lesung: 彼女[かのじょ]は 紅茶[こうちゃ]にレモンをしぼった。
 Beispielsatz-Übersetzung: Sie hat eine Zitrone für den Tee ausgepresst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

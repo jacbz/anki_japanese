@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: dunkel; deprimiert
-Notiz: ''
 Beispielsatz: 母はまだ暗いうちに起きる。
 Beispielsatz-Lesung: 母[はは]はまだ 暗[くら]いうちに 起[お]きる。
 Beispielsatz-Übersetzung: Meine Mutter steht auf, während es noch dunkel ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

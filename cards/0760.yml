@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: E-Mail
-Notiz: ''
 Beispielsatz: メールをありがとうございます。
 Beispielsatz-Lesung: メールをありがとうございます。
 Beispielsatz-Übersetzung: Vielen Dank für Ihre E-Mail.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

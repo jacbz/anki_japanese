@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: erwarten, vertrauen
-Notiz: ''
 Beispielsatz: この天候で電車が遅れるだろうと見込んでいる。
 Beispielsatz-Lesung: この 天候[てんこう]で 電車[でんしゃ]が 遅[おく]れるだろうと 見込[みこ]んでいる。
 Beispielsatz-Übersetzung: Ich erwarte, dass der Zug aufgrund dieses Wetters verspätet
   sein wird.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

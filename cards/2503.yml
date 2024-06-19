@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausschussmitglied; Ratsherr
-Notiz: ''
 Beispielsatz: みんな彼を委員に選んだ。
 Beispielsatz-Lesung: みんな 彼[かれ]を 委員[いいん]に 選[えら]んだ。
 Beispielsatz-Übersetzung: Jeder hat ihn als Ausschussmitglied ausgewählt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

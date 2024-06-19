@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bedecken, begraben
-Notiz: ''
 Beispielsatz: 車は雪に埋まってしまった。
 Beispielsatz-Lesung: 車[くるま]は 雪[ゆき]に 埋[う]まってしまった。
 Beispielsatz-Übersetzung: Die Autos wurden im Schnee begraben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

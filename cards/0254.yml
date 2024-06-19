@@ -5,7 +5,9 @@ Alternative: 更に
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: weiterhin, noch mehr, außerdem
-Notiz: ''
 Beispielsatz: その会社はさらに成長するだろう。
 Beispielsatz-Lesung: その 会社[かいしゃ]はさらに 成長[せいちょう]するだろう。
 Beispielsatz-Übersetzung: Das Unternehmen wird voraussichtlich weiter wachsen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

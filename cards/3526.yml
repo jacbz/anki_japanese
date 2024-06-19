@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Klassenlehrer/in
-Notiz: ''
 Beispielsatz: 昨日、小学校のときの担任の先生に偶然会った。
 Beispielsatz-Lesung: 昨日[きのう]、 小学校[しょうがっこう]のときの 担任[たんにん]の 先生[せんせい]に 偶然[ぐうぜん] 会[あ]った。
 Beispielsatz-Übersetzung: Ich bin gestern zufällig auf meinen Klassenlehrer aus der
   Grundschule gestoßen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

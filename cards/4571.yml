@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Shanghai
-Notiz: ''
 Beispielsatz: 上海は世界の大都市の一つです。
 Beispielsatz-Lesung: 上海[しゃんはい]は 世界[せかい]の 大都市[だいとし]の 一[ひと]つです。
 Beispielsatz-Übersetzung: Shanghai ist eine der größten Städte der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Präfektur Gunma
-Notiz: ''
 Beispielsatz: 私の母は群馬県出身です。
 Beispielsatz-Lesung: 私[わたし]の 母[はは]は 群馬県[ぐんまけん] 出身[しゅっしん]です。
 Beispielsatz-Übersetzung: Meine Mutter stammt aus der Präfektur Gunma.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

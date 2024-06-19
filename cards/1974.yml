@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Inhalt; Substanz
-Notiz: ''
 Beispielsatz: この箱の中身は何だろう。
 Beispielsatz-Lesung: この 箱[はこ]の 中身[なかみ]は 何[なん]だろう。
 Beispielsatz-Übersetzung: Was ist in dieser Box?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

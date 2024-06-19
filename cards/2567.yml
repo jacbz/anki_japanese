@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: Lärm machen, Aufhebens machen
-Notiz: ''
 Beispielsatz: 隣の人が大声で騒いでいる。
 Beispielsatz-Lesung: 隣[となり]の人が 大声[おおごえ]で 騒[さわ]いでいる。
 Beispielsatz-Übersetzung: Die Nachbarn machen einen lauten Lärm.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

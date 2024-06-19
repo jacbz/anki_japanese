@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: übergeben, überreichen
-Notiz: ''
 Beispielsatz: 私は姉にタオルを渡した。
 Beispielsatz-Lesung: 私[わたし]は 姉[あね]にタオルを 渡[わた]した。
 Beispielsatz-Übersetzung: Ich habe meiner Schwester das Handtuch übergeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vierziger
-Notiz: ''
 Beispielsatz: 夫は四十代半ばです。
 Beispielsatz-Lesung: 夫[おっと]は四十 代[だい] 半[なか]ばです。
 Beispielsatz-Übersetzung: Mein Ehemann ist Mitte Vierziger.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

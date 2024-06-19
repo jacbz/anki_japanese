@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Süßigkeiten, Snack
-Notiz: ''
 Beispielsatz: この店にはいろいろなお菓子がある。
 Beispielsatz-Lesung: この 店[みせ]にはいろいろなお 菓子[かし]がある。
 Beispielsatz-Übersetzung: In diesem Geschäft gibt es verschiedene Arten von Süßigkeiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

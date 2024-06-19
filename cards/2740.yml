@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Buchhandlung
-Notiz: ''
 Beispielsatz: 時間があったので本屋に立ち寄った。
 Beispielsatz-Lesung: 時間[じかん]があったので 本屋[ほんや]に 立[た]ち 寄[よ]った。
 Beispielsatz-Übersetzung: Ich hatte noch Zeit, also bin ich in einer Buchhandlung
   vorbeigegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

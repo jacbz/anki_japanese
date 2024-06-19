@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vereinte Nationen
-Notiz: ''
 Beispielsatz: その提案は国連に提出された。
 Beispielsatz-Lesung: その 提案[ていあん]は 国連[こくれん]に 提出[ていしゅつ]された。
 Beispielsatz-Übersetzung: Der Vorschlag wurde bei den Vereinten Nationen eingereicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

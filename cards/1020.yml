@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bauch, Magen
-Notiz: ''
 Beispielsatz: ちょっとおなかが痛いんです。
 Beispielsatz-Lesung: ちょっとおなかが 痛[いた]いんです。
 Beispielsatz-Übersetzung: Ich habe ein bisschen Schmerzen im Bauch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

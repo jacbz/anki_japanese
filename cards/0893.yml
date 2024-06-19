@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dein Platz; dort; du
-Notiz: ''
 Beispielsatz: そちらの天気はどうですか。
 Beispielsatz-Lesung: そちらの 天気[てんき]はどうですか。
 Beispielsatz-Übersetzung: Wie ist das Wetter dort oben?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sorge, Problem
-Notiz: ''
 Beispielsatz: 悩みを友人に相談する。
 Beispielsatz-Lesung: 悩[なや]みを 友人[ゆうじん]に 相談[そうだん]する。
 Beispielsatz-Übersetzung: Ich werde mit meinem Freund über meine Sorgen sprechen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

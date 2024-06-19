@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: charmant, attraktiv
-Notiz: ''
 Beispielsatz: 彼女は魅力的だ。
 Beispielsatz-Lesung: 彼女[かのじょ]は 魅力的[みりょくてき]だ。
 Beispielsatz-Übersetzung: Sie ist eine charmante und attraktive Frau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

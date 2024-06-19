@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wort
-Notiz: ''
 Beispielsatz: 毎日十個ずつ単語を覚える。
 Beispielsatz-Lesung: 毎日[まいにち]十 個[こ]ずつ 単語[たんご]を 覚[おぼ]える。
 Beispielsatz-Übersetzung: Ich lerne jeden Tag zehn Wörter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

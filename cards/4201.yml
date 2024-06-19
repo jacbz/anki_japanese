@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tote
-Notiz: ''
 Beispielsatz: この事故で死者と行方不明者が多数出た。
 Beispielsatz-Lesung: この 事故[じこ]で 死者[ししゃ]と 行方不明者[ゆくえふめいしゃ]が 多数[たすう] 出[で]た。
 Beispielsatz-Übersetzung: Es gab viele Tote und Vermisste als Folge des Unfalls.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

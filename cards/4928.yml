@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: seltsam
-Notiz: ''
 Beispielsatz: 異様な光景だった。
 Beispielsatz-Lesung: 異様[いよう]な 光景[こうけい]だった。
 Beispielsatz-Übersetzung: Es war ein seltsamer Anblick.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

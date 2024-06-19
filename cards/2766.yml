@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schnitt
-Notiz: ''
 Beispielsatz: 私は髪の毛をカットしてもらった。
 Beispielsatz-Lesung: 私[わたし]は 髪[かみ]の 毛[け]をカットしてもらった。
 Beispielsatz-Übersetzung: Ich habe mir die Haare schneiden lassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

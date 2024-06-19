@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Spur, Pfad; Zeichen, Abdruck
-Notiz: ''
 Beispielsatz: タイヤの跡が残っている。
 Beispielsatz-Lesung: タイヤの 跡[あと]が 残[のこ]っている。
 Beispielsatz-Übersetzung: Es sind Reifenspuren zurückgeblieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

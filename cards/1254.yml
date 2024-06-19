@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Frage, Problem, Zweifel
-Notiz: ''
 Beispielsatz: いくつかの疑問が解決されないまま残っている。
 Beispielsatz-Lesung: いくつかの 疑問[ぎもん]が 解決[かいけつ]されないまま 残[のこ]っている。
 Beispielsatz-Übersetzung: Einige Fragen bleiben unbeantwortet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

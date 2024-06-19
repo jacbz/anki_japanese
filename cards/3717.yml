@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeitplan
-Notiz: ''
 Beispielsatz: 来週のスケジュールを立てた。
 Beispielsatz-Lesung: 来週[らいしゅう]のスケジュールを 立[た]てた。
 Beispielsatz-Übersetzung: Ich habe den Zeitplan für nächste Woche erstellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

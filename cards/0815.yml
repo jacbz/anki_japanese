@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: wunderbar, seltsam
-Notiz: ''
 Beispielsatz: 不思議な経験をした。
 Beispielsatz-Lesung: 不思議[ふしぎ]な 経験[けいけん]をした。
 Beispielsatz-Übersetzung: Ich hatte eine wunderbare Erfahrung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

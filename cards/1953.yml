@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: zur Zeit von
-Notiz: ''
 Beispielsatz: 登録にあたって料金のお支払方法をお選びいただきます。
 Beispielsatz-Lesung: 登録[とうろく]にあたって 料金[りょうきん]のお 支払[しはらい] 方法[ほうほう]をお 選[えら]びいただきます。
 Beispielsatz-Übersetzung: Zur Zeit der Registrierung müssen Sie eine Zahlungsmethode
   auswählen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

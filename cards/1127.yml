@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: abhängen von; sobald wie möglich; Reihenfolge
-Notiz: ''
 Beispielsatz: 結論が出次第ご連絡します。
 Beispielsatz-Lesung: 結論[けつろん]が 出[で] 次第[しだい]ご 連絡[れんらく]します。
 Beispielsatz-Übersetzung: Wir werden Sie kontaktieren, sobald eine Entscheidung getroffen
   wurde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

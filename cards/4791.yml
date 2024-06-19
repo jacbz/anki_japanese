@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geist und Körper
-Notiz: ''
 Beispielsatz: 徹夜で心身ともに疲れていた。
 Beispielsatz-Lesung: 徹夜[てつや]で 心身[しんしん]ともに 疲[つか]れていた。
 Beispielsatz-Übersetzung: Nachdem er die ganze Nacht aufgeblieben war, war er sowohl
   geistig als auch körperlich erschöpft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: dieser Ort, hier; auf diese Weise; dieses
-Notiz: ''
 Beispielsatz: こちらへ来てください。
 Beispielsatz-Lesung: こちらへ 来[き]てください。
 Beispielsatz-Übersetzung: Bitte kommen Sie auf diese Weise.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

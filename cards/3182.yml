@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wald
-Notiz: ''
 Beispielsatz: そこには広大な森林が広がっていた。
 Beispielsatz-Lesung: そこには 広大[こうだい]な 森林[しんりん]が 広[ひろ]がっていた。
 Beispielsatz-Übersetzung: Ein ausgedehnter Wald erstreckte sich dort.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

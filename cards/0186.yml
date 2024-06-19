@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: anders sein; falsch sein
-Notiz: ''
 Beispielsatz: 彼の意見は私のと違う。
 Beispielsatz-Lesung: 彼[かれ]の 意見[いけん]は 私[わたし]のと 違[ちが]う。
 Beispielsatz-Übersetzung: Seine Meinung ist anders als meine.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

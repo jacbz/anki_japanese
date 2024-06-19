@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tisch
-Notiz: ''
 Beispielsatz: テーブルの上にお皿がある。
 Beispielsatz-Lesung: テーブルの 上[うえ]にお 皿[さら]がある。
 Beispielsatz-Übersetzung: Auf dem Tisch steht ein Teller.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

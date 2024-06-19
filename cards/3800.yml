@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwanzig Personen
-Notiz: ''
 Beispielsatz: 夕べの飲み会には二十人ぐらい集まった。
 Beispielsatz-Lesung: 夕[ゆう]べの 飲[の]み 会[かい]には二十人ぐらい 集[あつ]まった。
 Beispielsatz-Übersetzung: Wir hatten gestern Abend etwa zwanzig Personen auf der Party.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

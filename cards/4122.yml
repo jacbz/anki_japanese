@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tanz
-Notiz: ''
 Beispielsatz: 彼はダンスに夢中だ。
 Beispielsatz-Lesung: 彼[かれ]はダンスに 夢中[むちゅう]だ。
 Beispielsatz-Übersetzung: Er ist verrückt nach Tanzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

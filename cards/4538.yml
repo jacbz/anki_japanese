@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: schnell; leise; geradeaus
-Notiz: ''
 Beispielsatz: 彼女はすっと立ち教室から出て行った。
 Beispielsatz-Lesung: 彼女[かのじょ]はすっと 立[た]ち 教室[きょうしつ]から 出[で]て 行[い]った。
 Beispielsatz-Übersetzung: Sie stand gerade auf und ging aus dem Klassenzimmer heraus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

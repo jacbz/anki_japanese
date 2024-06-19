@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gebiet, Bezirk, Landschaft
-Notiz: ''
 Beispielsatz: 多くの労働者が地方から都市へ出てくる。
 Beispielsatz-Lesung: 多[おお]くの 労働者[ろうどうしゃ]が 地方[ちほう]から 都市[とし]へ 出[で]てくる。
 Beispielsatz-Übersetzung: Viele Arbeiter kommen aus ländlichen Gebieten in die Städte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

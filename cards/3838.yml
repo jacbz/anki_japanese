@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Irak
-Notiz: ''
 Beispielsatz: イラクは石油産出国だ。
 Beispielsatz-Lesung: イラクは 石油[せきゆ] 産出[さんしゅつ] 国[こく]だ。
 Beispielsatz-Übersetzung: Der Irak ist ein Ölproduzent.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

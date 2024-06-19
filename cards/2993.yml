@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ikebukuro (Ortsname)
-Notiz: ''
 Beispielsatz: 池袋のデパートで買い物をした。
 Beispielsatz-Lesung: 池袋[いけぶくろ]のデパートで 買[か]い 物[もの]をした。
 Beispielsatz-Übersetzung: Ich habe im Kaufhaus in Ikebukuro eingekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

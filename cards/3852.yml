@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: nein
-Notiz: ''
 Beispielsatz: 「コーヒーはいかがですか」「いいえ、けっこうです」
 Beispielsatz-Lesung: 「コーヒーは 如何[いかが]ですか」「いいえ、 結構[けっこう]です」
 Beispielsatz-Übersetzung: „Möchten Sie etwas Kaffee?“ „Nein, danke.“
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beitragen
-Notiz: ''
 Beispielsatz: その発明はあのビジネスに大きく資することになるだろう。
 Beispielsatz-Lesung: その 発明[はつめい]はあのビジネスに 大[おお]きく 資[し]することになるだろう。
 Beispielsatz-Übersetzung: Die Erfindung wird einen großen Beitrag zur Entwicklung
   dieses Geschäfts leisten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

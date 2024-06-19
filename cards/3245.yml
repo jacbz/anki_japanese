@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Insel
-Notiz: ''
 Beispielsatz: ハワイ島のホテルに一週間滞在した。
 Beispielsatz-Lesung: ハワイ 島[とう]のホテルに 一週間[いっしゅうかん] 滞在[たいざい]した。
 Beispielsatz-Übersetzung: Ich habe eine Woche lang in einem Hotel auf der Insel Hawaii
   übernachtet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

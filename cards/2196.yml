@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: nostalgisch
-Notiz: ''
 Beispielsatz: 故郷が懐かしい。
 Beispielsatz-Lesung: 故郷[こきょう]が 懐[なつ]かしい。
 Beispielsatz-Übersetzung: Ich denke nostalgisch an meine Heimatstadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

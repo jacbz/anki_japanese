@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ungefähr, fast, nahezu
-Notiz: ''
 Beispielsatz: 私は毎日ほぼ同じ時間に起きます。
 Beispielsatz-Lesung: 私[わたし]は 毎日[まいにち]ほぼ 同[おな]じ 時間[じかん]に 起[お]きます。
 Beispielsatz-Übersetzung: Ich stehe fast jeden Morgen um die gleiche Zeit auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: acht Uhr
-Notiz: ''
 Beispielsatz: 授業は八時に始まる。
 Beispielsatz-Lesung: 授業[じゅぎょう]は八 時[じ]に 始[はじ]まる。
 Beispielsatz-Übersetzung: Der Unterricht beginnt um acht Uhr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

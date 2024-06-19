@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Radio
-Notiz: ''
 Beispielsatz: 毎晩ラジオを聞いている。
 Beispielsatz-Lesung: 毎晩[まいばん]ラジオを 聞[き]いている。
 Beispielsatz-Übersetzung: Ich höre jeden Abend Radio.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

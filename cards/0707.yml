@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zeichnen
-Notiz: ''
 Beispielsatz: 風景を描くのが好きだ。
 Beispielsatz-Lesung: 風景[ふうけい]を 描[えが]くのが 好[す]きだ。
 Beispielsatz-Übersetzung: Ich zeichne gerne Landschaften.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

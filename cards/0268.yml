@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kind
-Notiz: ''
 Beispielsatz: うちの子は5歳です。
 Beispielsatz-Lesung: うちの 子[こ]は5 歳[さい]です。
 Beispielsatz-Übersetzung: Mein Kind ist fünf Jahre alt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

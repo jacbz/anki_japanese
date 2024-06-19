@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: auf eigene Weise
-Notiz: ''
 Beispielsatz: 自分なりにやってみます。
 Beispielsatz-Lesung: 自分[じぶん]なりにやってみます。
 Beispielsatz-Übersetzung: Ich werde es auf meine eigene Weise versuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

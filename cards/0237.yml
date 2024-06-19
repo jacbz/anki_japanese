@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: oder; vielleicht (Auflistung von Möglichkeiten)
-Notiz: ''
 Beispielsatz: 日本からアフリカへは、ヨーロッパ、あるいは中東経由で行ける。
 Beispielsatz-Lesung: 日本[にっぽん]からアフリカへは、ヨーロッパ、あるいは 中東[ちゅうとう] 経由[けいゆ]で 行[い]ける。
 Beispielsatz-Übersetzung: Man kann von Japan aus nach Afrika über Europa oder den
   Nahen Osten reisen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wolke
-Notiz: ''
 Beispielsatz: 今日は雲がひとつもない。
 Beispielsatz-Lesung: 今日[きょう]は 雲[くも]がひとつもない。
 Beispielsatz-Übersetzung: Heute gibt es keine Wolken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

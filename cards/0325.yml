@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: lang
-Notiz: ''
 Beispielsatz: 彼女は髪が長い。
 Beispielsatz-Lesung: 彼女[かのじょ]は 髪[かみ]が 長[なが]い。
 Beispielsatz-Übersetzung: Ihr Haar ist lang.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

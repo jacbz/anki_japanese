@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kann schmecken, kann genießen
-Notiz: ''
 Beispielsatz: このレストランは南国の雰囲気が味わえます。
 Beispielsatz-Lesung: このレストランは 南国[なんごく]の 雰囲気[ふんいき]が 味[あじ]わえます。
 Beispielsatz-Übersetzung: Man kann in diesem Restaurant eine tropische Atmosphäre
   genießen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

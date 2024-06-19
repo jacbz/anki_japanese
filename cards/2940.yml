@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: komfortabel
-Notiz: ''
 Beispielsatz: そのホテルは清潔で快適だった。
 Beispielsatz-Lesung: そのホテルは 清潔[せいけつ]で 快適[かいてき]だった。
 Beispielsatz-Übersetzung: Das Hotel war sauber und komfortabel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

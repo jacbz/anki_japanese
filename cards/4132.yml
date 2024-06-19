@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ursprung
-Notiz: ''
 Beispielsatz: この言葉の起源はドイツ語だ。
 Beispielsatz-Lesung: この 言葉[ことば]の 起源[きげん]はドイツ 語[ご]だ。
 Beispielsatz-Übersetzung: Dieses Wort ist deutschen Ursprungs.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Set
-Notiz: ''
 Beispielsatz: ハンバーガーセットを注文する。
 Beispielsatz-Lesung: ハンバーガーセットを 注文[ちゅうもん]する。
 Beispielsatz-Übersetzung: Wir haben ein Hamburger-Menü bestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

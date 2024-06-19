@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv., n.
 Definition: letztens, vor kurzem
-Notiz: ''
 Beispielsatz: 先日はありがとうございました。
 Beispielsatz-Lesung: 先日[せんじつ]はありがとうございました。
 Beispielsatz-Übersetzung: Vielen Dank für letztens.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweite(r)
-Notiz: ''
 Beispielsatz: 二つ目の角を曲がって。
 Beispielsatz-Lesung: 二[ふた]つ 目[め]の 角[かど]を 曲[ま]がって。
 Beispielsatz-Übersetzung: Bitte biegen Sie an der zweiten Ecke ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

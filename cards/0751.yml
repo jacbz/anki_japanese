@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ähneln
-Notiz: ''
 Beispielsatz: 君はお父さんに似ている。
 Beispielsatz-Lesung: 君[きみ]はお 父[とう]さんに 似[に]ている。
 Beispielsatz-Übersetzung: Du siehst deinem Vater ähnlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Abteilungsleiter, Manager
-Notiz: ''
 Beispielsatz: 部長は今席を外しております。
 Beispielsatz-Lesung: 部長[ぶちょう]は 今[こん] 席[せき]を 外[はず]しております。
 Beispielsatz-Übersetzung: Der Manager ist gerade kurz weg.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

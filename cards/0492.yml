@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschichte
-Notiz: ''
 Beispielsatz: 歴史は繰り返す。
 Beispielsatz-Lesung: 歴史[れきし]は 繰[く]り 返[かえ]す。
 Beispielsatz-Übersetzung: Geschichte wiederholt sich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

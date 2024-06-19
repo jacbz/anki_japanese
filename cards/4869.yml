@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Farbe
-Notiz: ''
 Beispielsatz: 私が小さい頃はカラーの写真はなかった。
 Beispielsatz-Lesung: 私[わたし]が 小[ちい]さい 頃[ころ]はカラーの 写真[しゃしん]はなかった。
 Beispielsatz-Übersetzung: Als ich klein war, hatten wir keine Farbfotos.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: dankbar, willkommen
-Notiz: ''
 Beispielsatz: ありがたいことに雨が止んだ。
 Beispielsatz-Lesung: ありがたいことに 雨[あめ]が 止[や]んだ。
 Beispielsatz-Übersetzung: Dankenswerterweise hat der Regen aufgehört.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: danke
-Notiz: ''
 Beispielsatz: ご親切にありがとうございます。
 Beispielsatz-Lesung: ご 親切[しんせつ]にありがとうございます。
 Beispielsatz-Übersetzung: Ich danke Ihnen für Ihre Freundlichkeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

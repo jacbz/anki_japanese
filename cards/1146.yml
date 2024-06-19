@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ankommen
-Notiz: ''
 Beispielsatz: 荷物は時間通りに届いた。
 Beispielsatz-Lesung: 荷物[にもつ]は 時間通[じかんどお]りに 届[とど]いた。
 Beispielsatz-Übersetzung: Das Paket ist pünktlich angekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: weltweit, global
-Notiz: ''
 Beispielsatz: 世界的に有名なピアニストのコンサートへ行く。
 Beispielsatz-Lesung: 世界的[せかいてき]に 有名[ゆうめい]なピアニストのコンサートへ 行[い]く。
 Beispielsatz-Übersetzung: Ich werde zu einem Konzert eines weltberühmten Pianisten
   gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

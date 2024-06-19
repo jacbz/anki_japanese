@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ertragen, aushalten
-Notiz: ''
 Beispielsatz: 負けてたまるか。
 Beispielsatz-Lesung: 負[ま]けてたまるか。
 Beispielsatz-Übersetzung: Ich werde den Wettbewerb auf keinen Fall verlieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

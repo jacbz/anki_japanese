@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: zusätzlich, extra
-Notiz: ''
 Beispielsatz: その本に余計にお金を払ってしまった。
 Beispielsatz-Lesung: その 本[ほん]に 余計[よけい]にお 金[かね]を 払[はら]ってしまった。
 Beispielsatz-Übersetzung: Ich habe mehr als genug für das Buch bezahlt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

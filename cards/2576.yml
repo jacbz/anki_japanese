@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gehalt
-Notiz: ''
 Beispielsatz: 今日給料をもらう。
 Beispielsatz-Lesung: 今日[きょう] 給料[きゅうりょう]をもらう。
 Beispielsatz-Übersetzung: Ich werde heute mein Gehalt bekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nudeln
-Notiz: ''
 Beispielsatz: 麺は一分だけゆでてください。
 Beispielsatz-Lesung: 麺[めん]は一 分[ふん]だけゆでてください。
 Beispielsatz-Übersetzung: Bitte die Nudeln nur eine Minute lang kochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

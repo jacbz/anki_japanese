@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: Gewinn machen, profitieren
-Notiz: ''
 Beispielsatz: この商売は儲からない。
 Beispielsatz-Lesung: この 商売[しょうばい]は 儲[もう]からない。
 Beispielsatz-Übersetzung: Dieses Geschäft ist nicht profitabel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

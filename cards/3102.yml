@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ansicht, Meinung
-Notiz: ''
 Beispielsatz: 両者の間には見解の相違があるようだ。
 Beispielsatz-Lesung: 両者[りょうしゃ]の 間[ま]には 見解[けんかい]の 相違[そうい]があるようだ。
 Beispielsatz-Übersetzung: Es scheint eine Meinungsverschiedenheit zwischen den beiden
   zu geben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

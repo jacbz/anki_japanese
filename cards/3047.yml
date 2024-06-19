@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Untergebener
-Notiz: ''
 Beispielsatz: この仕事は部下に任せよう。
 Beispielsatz-Lesung: この 仕事[しごと]は 部下[ぶか]に 任[まか]せよう。
 Beispielsatz-Übersetzung: Ich werde diesen Job meinem Untergebenen anvertrauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

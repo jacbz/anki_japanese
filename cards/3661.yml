@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Einkommen
-Notiz: ''
 Beispielsatz: その国は国民一人当たりの所得が低い。
 Beispielsatz-Lesung: その 国[くに]は 国民[こくみん]一人 当[あ]たりの 所得[しょとく]が 低[ひく]い。
 Beispielsatz-Übersetzung: Das Pro-Kopf-Einkommen dieses Landes ist niedrig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

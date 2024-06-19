@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Teil, Abschnitt
-Notiz: ''
 Beispielsatz: 間違えた部分を修正してください。
 Beispielsatz-Lesung: 間違[まちが]えた 部分[ぶぶん]を 修正[しゅうせい]してください。
 Beispielsatz-Übersetzung: Bitte korrigieren Sie die Teile, in denen Sie Fehler gemacht
   haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

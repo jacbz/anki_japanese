@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sagen; übermitteln; weitergeben
-Notiz: ''
 Beispielsatz: 電話があったことを彼に伝えます。
 Beispielsatz-Lesung: 電話[でんわ]があったことを 彼[かれ]に 伝[つた]えます。
 Beispielsatz-Übersetzung: Ich werde ihm ausrichten, dass du angerufen hast.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

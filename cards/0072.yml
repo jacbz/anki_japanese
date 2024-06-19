@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sich selbst
-Notiz: ''
 Beispielsatz: 彼は九十歳だが何でも自分でできる。
 Beispielsatz-Lesung: 彼[かれ]は九十 歳[さい]だが 何[なん]でも 自分[じぶん]でできる。
 Beispielsatz-Übersetzung: Er ist neunzig Jahre alt, aber er kann alles selbst machen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: auf dem Weg, unterwegs
-Notiz: ''
 Beispielsatz: ついでに、友達のうちへ寄った。
 Beispielsatz-Lesung: ついでに、 友達[ともだち]のうちへ 寄[よ]った。
 Beispielsatz-Übersetzung: Ich bin auf dem Weg bei einem Freund vorbeigekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

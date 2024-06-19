@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Entfernung; Zeitraum
-Notiz: ''
 Beispielsatz: 彼女とは長い間会っていない。
 Beispielsatz-Lesung: 彼女[かのじょ]とは 長[なが]い 間[あいだ] 会[あ]っていない。
 Beispielsatz-Übersetzung: Ich habe sie schon lange nicht mehr gesehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

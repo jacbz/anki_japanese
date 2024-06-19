@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: (Japanisches Gedicht mit siebzehn Silben)
-Notiz: ''
 Beispielsatz: 祖父の趣味は俳句を詠むことだ。
 Beispielsatz-Lesung: 祖父[そふ]の 趣味[しゅみ]は 俳句[はいく]を 詠[よ]むことだ。
 Beispielsatz-Übersetzung: Das Hobby meines Großvaters ist das Verfassen von Haiku.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

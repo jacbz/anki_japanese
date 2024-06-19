@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hochziehen; erhöhen, anheben
-Notiz: ''
 Beispielsatz: 政府は消費税を5パーセント引き上げる。
 Beispielsatz-Lesung: 政府[せいふ]は 消費税[しょうひぜい]を5パーセント 引[ひ]き 上[あ]げる。
 Beispielsatz-Übersetzung: Die Regierung wird die Verbrauchssteuer um 5 Prozent erhöhen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

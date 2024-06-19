@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Begriff, Idee, Konzept
-Notiz: ''
 Beispielsatz: 彼らはこの事業の中心概念を理解する。
 Beispielsatz-Lesung: 彼[かれ]らはこの 事業[じぎょう]の 中心[ちゅうしん] 概念[がいねん]を 理解[りかい]する。
 Beispielsatz-Übersetzung: Sie verstehen das Hauptkonzept dieser Veranstaltung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

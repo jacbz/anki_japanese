@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vier Jahre alt
-Notiz: ''
 Beispielsatz: 私のペットは四歳になりました。
 Beispielsatz-Lesung: 私[わたし]のペットは四 歳[さい]になりました。
 Beispielsatz-Übersetzung: Mein Haustier ist vier Jahre alt geworden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

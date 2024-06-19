@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ohne nachzudenken, unbeabsichtigt
-Notiz: ''
 Beispielsatz: つい、笑ってしまった。
 Beispielsatz-Lesung: つい、 笑[わら]ってしまった。
 Beispielsatz-Übersetzung: Ich habe trotz mir selbst gelacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: als
-Notiz: ''
 Beispielsatz: 東京より大阪のほうが好きです。
 Beispielsatz-Lesung: 東京[とうきょう]より 大阪[おおさか]のほうが 好[す]きです。
 Beispielsatz-Übersetzung: Ich mag Osaka lieber als Tokio.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

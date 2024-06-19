@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schwarz
-Notiz: ''
 Beispielsatz: 黒いのはありますか。
 Beispielsatz-Lesung: 黒[くろ]いのはありますか。
 Beispielsatz-Übersetzung: Haben Sie ein schwarzes?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

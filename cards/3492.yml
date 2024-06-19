@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Café
-Notiz: ''
 Beispielsatz: 友達とカフェでコーヒーを飲んだ。
 Beispielsatz-Lesung: 友達[ともだち]とカフェでコーヒーを 飲[の]んだ。
 Beispielsatz-Übersetzung: Ich habe mit einem Freund in einem Café Kaffee getrunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

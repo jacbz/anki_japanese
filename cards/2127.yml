@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: reichlich, reichhaltig
-Notiz: ''
 Beispielsatz: 彼は経験が豊富だ。
 Beispielsatz-Lesung: 彼[かれ]は 経験[けいけん]が 豊富[ほうふ]だ。
 Beispielsatz-Übersetzung: Er hat viel Erfahrung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

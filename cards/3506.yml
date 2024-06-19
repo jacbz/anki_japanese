@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Taisho-Zeit
-Notiz: ''
 Beispielsatz: 祖父は大正生まれだ。
 Beispielsatz-Lesung: 祖父[そふ]は 大正[たいしょう] 生[う]まれだ。
 Beispielsatz-Übersetzung: Mein Großvater wurde in der Taisho-Ära geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

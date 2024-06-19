@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schokolade
-Notiz: ''
 Beispielsatz: バレンタインに彼にチョコレートを渡した。
 Beispielsatz-Lesung: バレンタインに 彼[かれ]にチョコレートを 渡[わた]した。
 Beispielsatz-Übersetzung: Ich habe ihm am Valentinstag Schokolade gegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

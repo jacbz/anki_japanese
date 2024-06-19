@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Spiel, Wettkampf
-Notiz: ''
 Beispielsatz: 試合は六時に始まります。
 Beispielsatz-Lesung: 試合[しあい]は 六時[ろくじ]に 始[はじ]まります。
 Beispielsatz-Übersetzung: Das Spiel beginnt um sechs Uhr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

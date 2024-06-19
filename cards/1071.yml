@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wand, Mauer
-Notiz: ''
 Beispielsatz: その絵を壁に掛けてくれませんか。
 Beispielsatz-Lesung: その 絵[え]を 壁[かべ]に 掛[か]けてくれませんか。
 Beispielsatz-Übersetzung: Könntest du das Gemälde für mich an die Wand hängen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

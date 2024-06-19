@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Amerika
-Notiz: ''
 Beispielsatz: アメリカは大きい。
 Beispielsatz-Lesung: アメリカは 大[おお]きい。
 Beispielsatz-Übersetzung: Amerika ist groß.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

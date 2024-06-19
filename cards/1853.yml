@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: müssen
-Notiz: ''
 Beispielsatz: 毎日学校に行かなくてはいけない。
 Beispielsatz-Lesung: 毎日[まいにち] 学校[がっこう]に 行[い]かなくてはいけない。
 Beispielsatz-Übersetzung: Ich muss jeden Tag lernen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

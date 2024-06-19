@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Außenseite
-Notiz: ''
 Beispielsatz: 窓の外側が汚れている。
 Beispielsatz-Lesung: 窓[まど]の 外側[そとがわ]が 汚[よご]れている。
 Beispielsatz-Übersetzung: Die Außenseite des Fensters ist schmutzig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

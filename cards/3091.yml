@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dieses Buch
-Notiz: ''
 Beispielsatz: その答えは本書を読めばわかる。
 Beispielsatz-Lesung: その 答[こた]えは 本書[ほんしょ]を 読[よ]めばわかる。
 Beispielsatz-Übersetzung: Sie werden die Antwort verstehen, wenn Sie dieses Buch lesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

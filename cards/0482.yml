@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: eröffnen; blühen; halten
-Notiz: ''
 Beispielsatz: 会議は来週開かれる。
 Beispielsatz-Lesung: 会議[かいぎ]は 来週[らいしゅう] 開[ひら]かれる。
 Beispielsatz-Übersetzung: Das Treffen wird nächste Woche abgehalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

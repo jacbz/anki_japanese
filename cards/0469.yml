@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Krankenhaus
-Notiz: ''
 Beispielsatz: 具合が悪かったので病院へ行った。
 Beispielsatz-Lesung: 具合[ぐあい]が 悪[わる]かったので 病院[びょういん]へ 行[い]った。
 Beispielsatz-Übersetzung: Ich bin ins Krankenhaus gegangen, weil es mir schlecht ging.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

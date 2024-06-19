@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: letztes Jahr
-Notiz: ''
 Beispielsatz: 私は去年日本に来ました。
 Beispielsatz-Lesung: 私[わたし]は 去年[きょねん] 日本[にっぽん]に 来[き]ました。
 Beispielsatz-Übersetzung: Ich bin letztes Jahr nach Japan gekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

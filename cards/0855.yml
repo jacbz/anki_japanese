@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: langsam, gemütlich; viel Zeit
-Notiz: ''
 Beispielsatz: もう少しゆっくり話してください。
 Beispielsatz-Lesung: もう 少[すこ]しゆっくり 話[はな]してください。
 Beispielsatz-Übersetzung: Könnten Sie bitte etwas langsamer sprechen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

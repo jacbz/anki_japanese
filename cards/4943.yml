@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: mäßig
-Notiz: ''
 Beispielsatz: あの食べ物は適度な温度で保つことが大切だ。
 Beispielsatz-Lesung: あの 食[た]べ 物[もの]は 適度[てきど]な 温度[おんど]で 保[たも]つことが 大切[たいせつ]だ。
 Beispielsatz-Übersetzung: Es ist wichtig, dieses Essen bei mäßiger Temperatur zu halten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

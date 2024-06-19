@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: helfen, retten
-Notiz: ''
 Beispielsatz: 売り上げの一部は難民を助けるために使われます。
 Beispielsatz-Lesung: 売[う]り 上[あ]げの 一部[いちぶ]は 難民[なんみん]を 助[たす]けるために 使[つか]われます。
 Beispielsatz-Übersetzung: Ein Teil unseres Umsatzes wird verwendet, um Flüchtlingen
   zu helfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

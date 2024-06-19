@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Produkt
-Notiz: ''
 Beispielsatz: 日本には外国の製品がたくさんある。
 Beispielsatz-Lesung: 日本[にっぽん]には 外国[がいこく]の 製品[せいひん]がたくさんある。
 Beispielsatz-Übersetzung: Es gibt viele ausländische Produkte in Japan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

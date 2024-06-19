@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Körper
-Notiz: ''
 Beispielsatz: 昨日フルマラソンに出たので体が痛い。
 Beispielsatz-Lesung: 昨日[きのう]フルマラソンに 出[で]たので 体[からだ]が 痛[いた]い。
 Beispielsatz-Übersetzung: Mein Körper schmerzt vom gestrigen Marathonlauf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

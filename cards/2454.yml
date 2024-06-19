@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: plötzlich
-Notiz: ''
 Beispielsatz: 面白いアイディアがぱっと思いついた。
 Beispielsatz-Lesung: 面白[おもしろ]いアイディアがぱっと 思[おも]いついた。
 Beispielsatz-Übersetzung: Mir ist plötzlich eine interessante Idee gekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

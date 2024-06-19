@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: gleich
-Notiz: ''
 Beispielsatz: 私たちは同じ飛行機で大阪まで行った。
 Beispielsatz-Lesung: 私[わたし]たちは 同[おな]じ 飛行機[ひこうき]で 大阪[おおさか]まで 行[い]った。
 Beispielsatz-Übersetzung: Wir sind mit dem gleichen Flugzeug nach Osaka geflogen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

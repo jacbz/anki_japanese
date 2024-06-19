@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: chinesische Schriftzeichen
-Notiz: ''
 Beispielsatz: 私は漢字が苦手です。
 Beispielsatz-Lesung: 私[わたし]は 漢字[かんじ]が 苦手[にがて]です。
 Beispielsatz-Übersetzung: Ich bin nicht gut in chinesischen Schriftzeichen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

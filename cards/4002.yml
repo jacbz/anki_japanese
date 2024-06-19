@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Heimatstadt
-Notiz: ''
 Beispielsatz: 故郷を離れるのは寂しい。
 Beispielsatz-Lesung: 故郷[こきょう]を 離[はな]れるのは 寂[さび]しい。
 Beispielsatz-Übersetzung: Ich bin traurig, meine Heimatstadt zu verlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

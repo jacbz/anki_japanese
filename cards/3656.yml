@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: spähen, Ausschau halten; auf eine Gelegenheit warten
-Notiz: ''
 Beispielsatz: ドアの隙間から中の様子をうかがった。
 Beispielsatz-Lesung: ドアの 隙間[すきま]から 中[なか]の 様子[ようす]をうかがった。
 Beispielsatz-Übersetzung: Ich spähte durch die Tür nach drinnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

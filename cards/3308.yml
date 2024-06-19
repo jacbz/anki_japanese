@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: beeindruckend
-Notiz: ''
 Beispielsatz: それは印象的な光景だった。
 Beispielsatz-Lesung: それは 印象的[いんしょうてき]な 光景[こうけい]だった。
 Beispielsatz-Übersetzung: Es war eine beeindruckende Aussicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

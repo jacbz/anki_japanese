@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Platz, Raum, Lücke
-Notiz: ''
 Beispielsatz: 二人の間に他人が入り込む隙はない。
 Beispielsatz-Lesung: 二人の 間[ま]に 他人[たにん]が 入[はい]り 込[こ]む 隙[ひま]はない。
 Beispielsatz-Übersetzung: Es gibt keinen Platz für jemand anderen, um zwischen die
   beiden zu treten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

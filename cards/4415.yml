@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Jahresende
-Notiz: ''
 Beispielsatz: 年末はやらなければならないことがたくさんある。
 Beispielsatz-Lesung: 年末[ねんまつ]はやらなければならないことがたくさんある。
 Beispielsatz-Übersetzung: Ich habe am Jahresende viele Dinge zu erledigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

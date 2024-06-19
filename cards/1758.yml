@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: angemessen, passend
-Notiz: ''
 Beispielsatz: 適切な食事と適切な運動が重要だ。
 Beispielsatz-Lesung: 適切[てきせつ]な 食事[しょくじ]と 適切[てきせつ]な 運動[うんどう]が 重要[じゅうよう]だ。
 Beispielsatz-Übersetzung: Eine angemessene Ernährung und passende Bewegung sind wichtig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

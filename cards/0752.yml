@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: traurig
-Notiz: ''
 Beispielsatz: なんと悲しい話だろう。
 Beispielsatz-Lesung: なんと 悲[かな]しい 話[はなし]だろう。
 Beispielsatz-Übersetzung: Was für eine traurige Geschichte!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

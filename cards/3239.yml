@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Muskel; Muskelgewebe; Muskelstrang
-Notiz: ''
 Beispielsatz: 彼の話は筋が通っていない。
 Beispielsatz-Lesung: 彼[かれ]の 話[はなし]は 筋[すじ]が 通[かよ]っていない。
 Beispielsatz-Übersetzung: Was er sagt, ist unlogisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

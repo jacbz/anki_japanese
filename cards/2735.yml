@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweite Hälfte
-Notiz: ''
 Beispielsatz: ゲームの後半戦が始まった。
 Beispielsatz-Lesung: ゲームの 後半戦[こうはんせん]が 始[はじ]まった。
 Beispielsatz-Übersetzung: Die zweite Hälfte des Spiels hat begonnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

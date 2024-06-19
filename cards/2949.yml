@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Eis
-Notiz: ''
 Beispielsatz: ジュースに氷を入れますか。
 Beispielsatz-Lesung: ジュースに 氷[こおり]を 入[い]れますか。
 Beispielsatz-Übersetzung: Geben Sie Eis in den Saft?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

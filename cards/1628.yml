@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Australien
-Notiz: ''
 Beispielsatz: 私はオーストラリアから来ました。
 Beispielsatz-Lesung: 私[わたし]はオーストラリアから 来[き]ました。
 Beispielsatz-Übersetzung: Ich komme aus Australien.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

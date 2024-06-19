@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: bei; in; auf
-Notiz: ''
 Beispielsatz: 日本において国際会議が開かれた。
 Beispielsatz-Lesung: 日本[にっぽん]において 国際[こくさい] 会議[かいぎ]が 開[ひら]かれた。
 Beispielsatz-Übersetzung: In Japan fand eine internationale Konferenz statt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., v.
 Definition: Versand; senden, versenden, verschicken
-Notiz: ''
 Beispielsatz: 結婚式の招待状を昨日発送しました。
 Beispielsatz-Lesung: 結婚式[けっこんしき]の 招待状[しょうたいじょう]を 昨日[きのう] 発送[はっそう]しました。
 Beispielsatz-Übersetzung: Ich habe gestern die Hochzeitseinladungen verschickt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

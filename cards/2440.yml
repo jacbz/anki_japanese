@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Russland
-Notiz: ''
 Beispielsatz: ロシア文学を読む。
 Beispielsatz-Lesung: ロシア 文学[ぶんがく]を 読[よ]む。
 Beispielsatz-Übersetzung: Ich lese russische Literatur.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

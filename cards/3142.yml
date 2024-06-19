@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Liberaldemokratische Partei
-Notiz: ''
 Beispielsatz: 当時は自民党の天下だった。
 Beispielsatz-Lesung: 当時[とうじ]は 自民党[じみんとう]の 天下[てんか]だった。
 Beispielsatz-Übersetzung: Zu dieser Zeit hatte die Liberaldemokratische Partei die
   Kontrolle.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

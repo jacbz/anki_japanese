@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: weil, da
-Notiz: ''
 Beispielsatz: 彼はまだ高校生なので、お酒を飲ませてはいけない。
 Beispielsatz-Lesung: 彼[かれ]はまだ 高校生[こうこうせい]なので、お 酒[さけ]を 飲[の]ませてはいけない。
 Beispielsatz-Übersetzung: Wir sollten ihm kein Alkohol geben, weil er noch ein Schüler
   ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

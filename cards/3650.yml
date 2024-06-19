@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gewicht
-Notiz: ''
 Beispielsatz: この鞄の重さは20キロ以上ある。
 Beispielsatz-Lesung: この 鞄[かばん]の 重[おも]さは20キロ 以上[いじょう]ある。
 Beispielsatz-Übersetzung: Das Gewicht der Tasche beträgt über zwanzig Kilo.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

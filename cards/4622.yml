@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anschlagtafel, Pinnwand
-Notiz: ''
 Beispielsatz: 掲示板にアルバイトの募集を出した。
 Beispielsatz-Lesung: 掲示板[けいじばん]にアルバイトの 募集[ぼしゅう]を 出[だ]した。
 Beispielsatz-Übersetzung: Ich habe eine Stellenausschreibung für einen Teilzeitjob
   an der Anschlagtafel ausgehängt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

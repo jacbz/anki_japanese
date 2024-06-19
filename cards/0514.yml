@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ein Tag, neulich, eines Tages
-Notiz: ''
 Beispielsatz: 一日30分走っています。
 Beispielsatz-Lesung: 一 日[にち]30 分[ふん] 走[はし]っています。
 Beispielsatz-Übersetzung: Ich laufe jeden Tag eine halbe Stunde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angst, Gefahr
-Notiz: ''
 Beispielsatz: 今晩は激しい雨が降るおそれがあります。
 Beispielsatz-Lesung: 今晩[こんばん]は 激[はげ]しい 雨[あめ]が 降[ふ]るおそれがあります。
 Beispielsatz-Übersetzung: Heute Abend besteht die Gefahr von starkem Regen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

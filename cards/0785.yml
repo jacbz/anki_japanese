@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verwenden, anwenden
-Notiz: ''
 Beispielsatz: この製品は最新の技術が用いられている。
 Beispielsatz-Lesung: この 製品[せいひん]は 最新[さいしん]の 技術[ぎじゅつ]が 用[もち]いられている。
 Beispielsatz-Übersetzung: Für dieses Produkt wird eine neue Technologie verwendet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

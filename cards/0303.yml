@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zustand
-Notiz: ''
 Beispielsatz: 患者は危険な状態だ。
 Beispielsatz-Lesung: 患者[かんじゃ]は 危険[きけん]な 状態[じょうたい]だ。
 Beispielsatz-Übersetzung: Der Patient befindet sich in einem kritischen Zustand.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

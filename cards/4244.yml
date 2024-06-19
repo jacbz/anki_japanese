@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: gelten
-Notiz: ''
 Beispielsatz: 彼が言ったことは学生にも当てはまる。
 Beispielsatz-Lesung: 彼[かれ]が 言[い]ったことは 学生[がくせい]にも 当[あ]てはまる。
 Beispielsatz-Übersetzung: Was er gesagt hat, gilt auch für den Studenten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

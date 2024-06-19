@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zweiter Tag; zwei Tage
-Notiz: ''
 Beispielsatz: 私は1972年の一月二日に生まれた。
 Beispielsatz-Lesung: 私[わたし]は1972 年[ねん]の 一月[いちがつ]二 日[にち]に 生[う]まれた。
 Beispielsatz-Übersetzung: Ich wurde am 2. Januar 1972 geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sprechen, erzählen
-Notiz: ''
 Beispielsatz: 日本語が話せますか。
 Beispielsatz-Lesung: 日本語[にほんご]が 話[はな]せますか。
 Beispielsatz-Übersetzung: Können Sie Japanisch sprechen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dreißigster (Tag); dreißig Tage
-Notiz: ''
 Beispielsatz: 三十日に家へ帰る。
 Beispielsatz-Lesung: 三十 日[にち]に 家[いえ]へ 帰[かえ]る。
 Beispielsatz-Übersetzung: Ich gehe am 30. zurück in meine Heimatstadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

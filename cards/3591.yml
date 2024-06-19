@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Präfektur Kanagawa
-Notiz: ''
 Beispielsatz: 伯母は神奈川県に住んでいる。
 Beispielsatz-Lesung: 伯母[おば]は 神奈川県[かながわけん]に 住[す]んでいる。
 Beispielsatz-Übersetzung: Meine Tante lebt in Kanagawa.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

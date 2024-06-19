@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Familie
-Notiz: ''
 Beispielsatz: クリスマスは毎年家族で過ごします。
 Beispielsatz-Lesung: クリスマスは 毎年[まいとし] 家族[かぞく]で 過[す]ごします。
 Beispielsatz-Übersetzung: Ich verbringe jedes Jahr Weihnachten mit meiner Familie.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: reinweiß
-Notiz: ''
 Beispielsatz: 窓の外は一面真っ白な雪景色だった。
 Beispielsatz-Lesung: 窓[まど]の 外[そと]は一 面[めん] 真[ま]っ 白[しろ]な 雪景色[ゆきげしき]だった。
 Beispielsatz-Übersetzung: Draußen vor dem Fenster war alles komplett mit reinweißem
   Schnee bedeckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

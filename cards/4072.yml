@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: unangenehmes Gefühl
-Notiz: ''
 Beispielsatz: 右腕に違和感を感じた。
 Beispielsatz-Lesung: 右腕[うわん]に 違和感[いわかん]を 感[かん]じた。
 Beispielsatz-Übersetzung: Ich spürte Unbehagen in meinem rechten Arm.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

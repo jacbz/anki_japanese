@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jeder Ort
-Notiz: ''
 Beispielsatz: 各地で名産を食べる。
 Beispielsatz-Lesung: 各地[かくち]で 名産[めいさん]を 食[た]べる。
 Beispielsatz-Übersetzung: An jedem Ort esse ich das dort berühmte Essen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

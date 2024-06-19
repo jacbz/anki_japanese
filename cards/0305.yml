@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: falls, wenn
-Notiz: ''
 Beispielsatz: もしお金があったら、海外旅行がしたい。
 Beispielsatz-Lesung: もしお 金[かね]があったら、 海外旅行[かいがいりょこう]がしたい。
 Beispielsatz-Übersetzung: Falls ich genug Geld hätte, würde ich ins Ausland reisen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

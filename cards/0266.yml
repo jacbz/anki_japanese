@@ -5,7 +5,9 @@ Alternative: 全て
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: alles
-Notiz: ''
 Beispielsatz: これらの本は全て読みました。
 Beispielsatz-Lesung: これらの 本[ほん]は 全[すべ]て 読[よ]みました。
 Beispielsatz-Übersetzung: Ich habe alle diese Bücher gelesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

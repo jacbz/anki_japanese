@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Art, Sorte, Vielfalt
-Notiz: ''
 Beispielsatz: 庭には多くの種類の花が植えられている。
 Beispielsatz-Lesung: 庭[にわ]には 多[おお]くの 種類[しゅるい]の 花[はな]が 植[う]えられている。
 Beispielsatz-Übersetzung: Im Garten sind viele Arten von Blumen gepflanzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

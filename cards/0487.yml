@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: treffen, stoßen
-Notiz: ''
 Beispielsatz: ボールが頭に当たった。
 Beispielsatz-Lesung: ボールが 頭[あたま]に 当[あ]たった。
 Beispielsatz-Übersetzung: Der Ball traf meinen Kopf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

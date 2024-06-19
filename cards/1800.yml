@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Annahme, Voraussetzung
-Notiz: ''
 Beispielsatz: 全ての講義は予習を前提に進めます。
 Beispielsatz-Lesung: 全[すべ]ての 講義[こうぎ]は 予習[よしゅう]を 前提[ぜんてい]に 進[すす]めます。
 Beispielsatz-Übersetzung: Alle Vorlesungen gehen von der Annahme aus, dass Sie sich
   im Voraus vorbereitet haben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

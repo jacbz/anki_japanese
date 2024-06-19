@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: hohe Position
-Notiz: ''
 Beispielsatz: 彼女は上位のテニスプレーヤーです。
 Beispielsatz-Lesung: 彼女[かのじょ]は 上位[じょうい]のテニスプレーヤーです。
 Beispielsatz-Übersetzung: Sie ist eine hochrangige Tennisspielerin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verhaftet werden, gefangen genommen werden, kleben bleiben
-Notiz: ''
 Beispielsatz: 彼は詐欺をして捕らわれた。
 Beispielsatz-Lesung: 彼[かれ]は 詐欺[さぎ]をして 捕[と]らわれた。
 Beispielsatz-Übersetzung: Er wurde wegen Betrugs verhaftet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

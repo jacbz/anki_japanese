@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: acht
-Notiz: ''
 Beispielsatz: 表八を見なさい。
 Beispielsatz-Lesung: 表[ひょう]八を 見[み]なさい。
 Beispielsatz-Übersetzung: Sehen Sie sich Tabelle 8 an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

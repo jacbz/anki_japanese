@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gemütszustand
-Notiz: ''
 Beispielsatz: 彼の心境は変化した。
 Beispielsatz-Lesung: 彼[かれ]の 心境[しんきょう]は 変化[へんか]した。
 Beispielsatz-Übersetzung: Sein Gemütszustand hat sich verändert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

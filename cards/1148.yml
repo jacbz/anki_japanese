@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stress
-Notiz: ''
 Beispielsatz: どうやってストレスを解消していますか。
 Beispielsatz-Lesung: どうやってストレスを 解消[かいしょう]していますか。
 Beispielsatz-Übersetzung: Wie reduzieren Sie Ihren Stress?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

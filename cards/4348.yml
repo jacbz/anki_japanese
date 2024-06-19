@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: sechzig Jahre alt
-Notiz: ''
 Beispielsatz: 彼は六十歳で定年を迎えた。
 Beispielsatz-Lesung: 彼[かれ]は六十 歳[さい]で 定年[ていねん]を 迎[むか]えた。
 Beispielsatz-Übersetzung: Er ging mit sechzig Jahren in Rente.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

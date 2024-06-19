@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anmerkung, Kommentar
-Notiz: ''
 Beispielsatz: 注は文書の最後に付けて下さい。
 Beispielsatz-Lesung: 注[ちゅう]は 文書[ぶんしょ]の 最後[さいご]に 付[つ]けて 下[くだ]さい。
 Beispielsatz-Übersetzung: Annotations sollten am Ende des Textes stehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

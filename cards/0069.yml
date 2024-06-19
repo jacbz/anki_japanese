@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jetzt
-Notiz: ''
 Beispielsatz: 今、何時ですか。
 Beispielsatz-Lesung: 今[いま]、 何[なん] 時[じ]ですか。
 Beispielsatz-Übersetzung: Wie spät ist es jetzt?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

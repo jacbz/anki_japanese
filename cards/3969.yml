@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Aussicht, Ausblick
-Notiz: ''
 Beispielsatz: 将来の国の見通しは明るい。
 Beispielsatz-Lesung: 将来[しょうらい]の 国[くに]の 見通[みとお]しは 明[あか]るい。
 Beispielsatz-Übersetzung: Die Aussicht für die Zukunft des Landes ist hell.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

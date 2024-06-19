@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: plötzlich
-Notiz: ''
 Beispielsatz: 彼がふっと現れたのでびっくりした。
 Beispielsatz-Lesung: 彼[かれ]がふっと 現[あらわ]れたのでびっくりした。
 Beispielsatz-Übersetzung: Ich war überrascht, dass er plötzlich erschien.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

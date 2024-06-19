@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schwach, zart, leicht
-Notiz: ''
 Beispielsatz: うちの息子は意志が弱い。
 Beispielsatz-Lesung: うちの 息子[むすこ]は 意志[いし]が 弱[よわ]い。
 Beispielsatz-Übersetzung: Mein Sohn ist willensschwach.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

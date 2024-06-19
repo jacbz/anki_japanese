@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: (Ehe)frau
-Notiz: Ehefrau von jemand anderem
 Beispielsatz: 彼女はよい奥さんになるだろう。
 Beispielsatz-Lesung: 彼女[かのじょ]はよい 奥[おく]さんになるだろう。
 Beispielsatz-Übersetzung: Sie wird eine gute Ehefrau sein.
+
+# Notizen können HTML enthalten.            
+Notiz: Ehefrau von jemand anderem

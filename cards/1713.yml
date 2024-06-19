@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Arbeitsplatz
-Notiz: ''
 Beispielsatz: 今度の職場は家の近くだ。
 Beispielsatz-Lesung: 今度[こんど]の 職場[しょくば]は 家[いえ]の 近[ちか]くだ。
 Beispielsatz-Übersetzung: Mein neuer Arbeitsplatz ist in der Nähe meines Hauses.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

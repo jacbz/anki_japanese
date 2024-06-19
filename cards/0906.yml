@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: niemals, keineswegs
-Notiz: ''
 Beispielsatz: 決してあきらめないでください。
 Beispielsatz-Lesung: 決[けっ]してあきらめないでください。
 Beispielsatz-Übersetzung: Gib niemals auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

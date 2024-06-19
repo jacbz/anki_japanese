@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: so viel wie möglich
-Notiz: ''
 Beispielsatz: そのレストランでは極力地元の食材を使用している。
 Beispielsatz-Lesung: そのレストランでは 極力[きょくりょく] 地元[じもと]の 食材[しょくざい]を 使用[しよう]している。
 Beispielsatz-Übersetzung: Das Restaurant verwendet so viel wie möglich lokale Produkte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

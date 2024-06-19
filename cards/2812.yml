@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gerichtsgebäude, Gericht
-Notiz: ''
 Beispielsatz: これは裁判所が課した罰金です。
 Beispielsatz-Lesung: これは 裁判所[さいばんしょ]が 課[か]した 罰金[ばっきん]です。
 Beispielsatz-Übersetzung: Dies ist die von Gericht auferlegte Geldstrafe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

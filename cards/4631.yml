@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stelle, Punkt, Teil
-Notiz: ''
 Beispielsatz: 間違った箇所を直さなければいけません。
 Beispielsatz-Lesung: 間違[まちが]った 箇所[かしょ]を 直[なお]さなければいけません。
 Beispielsatz-Übersetzung: Ich muss die Teile korrigieren, die Fehler enthalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

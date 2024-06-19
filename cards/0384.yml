@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zurückkehren
-Notiz: ''
 Beispielsatz: 一時までに学校へ戻らなければならない。
 Beispielsatz-Lesung: 一時[いちじ]までに 学校[がっこう]へ 戻[もど]らなければならない。
 Beispielsatz-Übersetzung: Ich muss bis 13 Uhr zur Schule zurückkehren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

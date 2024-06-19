@@ -5,7 +5,9 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Verkauf
-Notiz: ''
 Beispielsatz: チケットは本日九時から販売いたします。
 Beispielsatz-Lesung: チケットは 本日[ほんじつ] 九時[くじ]から 販売[はんばい]いたします。
 Beispielsatz-Übersetzung: Die Tickets werden heute um 9 Uhr verkauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: VERB-SUFFIX (vulgär)
-Notiz: ''
 Beispielsatz: 彼は馬鹿なことを言いやがる。
 Beispielsatz-Lesung: 彼[かれ]は 馬鹿[ばか]なことを 言[げん]いやがる。
 Beispielsatz-Übersetzung: Er sagt dumme Dinge.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

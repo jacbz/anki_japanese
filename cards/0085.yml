@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: ein bisschen, ein wenig
-Notiz: ''
 Beispielsatz: 最近、ちょっと太ってしまった。
 Beispielsatz-Lesung: 最近[さいきん]、ちょっと 太[ふと]ってしまった。
 Beispielsatz-Übersetzung: Ich habe in letzter Zeit ein bisschen zugenommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

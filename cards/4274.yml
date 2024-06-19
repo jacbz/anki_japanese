@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: beide Parteien
-Notiz: ''
 Beispielsatz: この問題は双方との話し合いによって解決しなければならない。
 Beispielsatz-Lesung: この 問題[もんだい]は 双方[そうほう]との 話[はな]し 合[あ]いによって 解決[かいけつ]しなければならない。
 Beispielsatz-Übersetzung: Dieses Problem muss durch Gespräche mit beiden Seiten gelöst
   werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

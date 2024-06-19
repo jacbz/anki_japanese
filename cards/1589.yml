@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: dünn, schmal, schlank
-Notiz: ''
 Beispielsatz: 彼女は足が細い。
 Beispielsatz-Lesung: 彼女[かのじょ]は 足[あし]が 細[ほそ]い。
 Beispielsatz-Übersetzung: Sie hat schlanke Beine.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

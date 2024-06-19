@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: etwas vollständig tun
-Notiz: ''
 Beispielsatz: やる気がないなら、やめちまえ！
 Beispielsatz-Lesung: やる 気[き]がないなら、やめちまえ！
 Beispielsatz-Übersetzung: Wenn du keine Lust hast, dann höre einfach auf!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

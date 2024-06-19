@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Strömung, Fluss
-Notiz: ''
 Beispielsatz: 時代の流れに乗ったほうがいい。
 Beispielsatz-Lesung: 時代[じだい]の 流[なが]れに 乗[の]ったほうがいい。
 Beispielsatz-Übersetzung: Sie sollten mit dem Strom der Zeit gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

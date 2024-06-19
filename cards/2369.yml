@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: näher bringen; setzen; abhängig sein von
-Notiz: ''
 Beispielsatz: 彼女はあの人に大きな信頼を寄せている。
 Beispielsatz-Lesung: 彼女[かのじょ]はあの 人[ひと]に 大[おお]きな 信頼[しんらい]を 寄[よ]せている。
 Beispielsatz-Übersetzung: Sie setzt ihm gegenüber ein großes Vertrauen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: halten
-Notiz: ''
 Beispielsatz: 雨が止んだ。
 Beispielsatz-Lesung: 雨[あめ]が 止[や]んだ。
 Beispielsatz-Übersetzung: Es hat aufgehört zu regnen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

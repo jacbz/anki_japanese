@@ -5,7 +5,9 @@ Alternative: ''
 Extra: （する）
 Wortart: n. v.
 Definition: Einfügung; einfügen
-Notiz: ''
 Beispielsatz: ここにカードを挿入してください。
 Beispielsatz-Lesung: ここにカードを 挿入[そうにゅう]してください。
 Beispielsatz-Übersetzung: Bitte fügen Sie die Karte hier ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

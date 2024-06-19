@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: lieben, mit Zuneigung behandeln
-Notiz: ''
 Beispielsatz: 祖母は私たちを可愛がってくれた。
 Beispielsatz-Lesung: 祖母[そぼ]は 私[わたし]たちを 可愛[かわい]がってくれた。
 Beispielsatz-Übersetzung: Meine Großmutter hat uns geliebt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

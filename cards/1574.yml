@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: nicht nur
-Notiz: ''
 Beispielsatz: 肉だけでなく、野菜も食べなさい。
 Beispielsatz-Lesung: 肉[にく]だけでなく、 野菜[やさい]も 食[た]べなさい。
 Beispielsatz-Übersetzung: Iss nicht nur Fleisch, sondern auch Gemüse.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

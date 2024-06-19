@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: jeden Tag
-Notiz: ''
 Beispielsatz: 毎日コーヒーを飲みます。
 Beispielsatz-Lesung: 毎日[まいにち]コーヒーを 飲[の]みます。
 Beispielsatz-Übersetzung: Ich trinke jeden Tag Kaffee.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

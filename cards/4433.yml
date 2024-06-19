@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beschwerde
-Notiz: ''
 Beispielsatz: 店員の対応の悪さについて苦情を言った。
 Beispielsatz-Lesung: 店員[てんいん]の 対応[たいおう]の 悪[わる]さについて 苦情[くじょう]を 言[い]った。
 Beispielsatz-Übersetzung: Er beschwerte sich über die schlechte Haltung des Verkäufers.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

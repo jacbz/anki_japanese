@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: ungezwungen, frei fühlen
-Notiz: ''
 Beispielsatz: 困った時は、気軽に連絡してください。
 Beispielsatz-Lesung: 困[こま]った 時[とき]は、 気軽[きがる]に 連絡[れんらく]してください。
 Beispielsatz-Übersetzung: Wenn Sie ein Problem haben, können Sie mich gerne kontaktieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

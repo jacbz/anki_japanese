@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Preis, Wert, Kosten
-Notiz: ''
 Beispielsatz: 手ごろな値段でおいしい料理が味わえる。
 Beispielsatz-Lesung: 手[て]ごろな 値段[ねだん]でおいしい 料理[りょうり]が 味[あじ]わえる。
 Beispielsatz-Übersetzung: Sie können köstliche Speisen zu einem günstigen Preis genießen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: viel, zahlreich
-Notiz: ''
 Beispielsatz: 今年は雨が多い。
 Beispielsatz-Lesung: 今年[ことし]は 雨[あめ]が 多[おお]い。
 Beispielsatz-Übersetzung: Es hat in diesem Jahr viel geregnet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

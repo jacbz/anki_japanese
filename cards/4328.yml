@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Familie
-Notiz: ''
 Beispielsatz: 母は一家を切り盛りしている。
 Beispielsatz-Lesung: 母[はは]は 一家[いっか]を 切[き]り 盛[も]りしている。
 Beispielsatz-Übersetzung: Meine Mutter führt den Haushalt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

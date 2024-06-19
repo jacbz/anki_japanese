@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: außer
-Notiz: ''
 Beispielsatz: 土曜と日曜以外は毎朝四時に起きている。
 Beispielsatz-Lesung: 土曜[どよう]と 日曜[にちよう] 以外[いがい]は 毎朝[まいあさ]四 時[じ]に 起[お]きている。
 Beispielsatz-Übersetzung: Ich stehe jeden Tag außer samstags und sonntags um 4 Uhr
   morgens auf.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

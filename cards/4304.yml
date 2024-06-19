@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: wechseln, verschieben
-Notiz: ''
 Beispielsatz: 責任を私に転ずるのはやめてください。
 Beispielsatz-Lesung: 責任[せきにん]を 私[わたし]に 転[てん]ずるのはやめてください。
 Beispielsatz-Übersetzung: Hören Sie auf, die Verantwortung auf mich zu verschieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

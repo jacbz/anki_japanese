@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Alkohol, Sake, Reiswein
-Notiz: ''
 Beispielsatz: 酒を飲むのをやめようと決めた。
 Beispielsatz-Lesung: 酒[さけ]を 飲[の]むのをやめようと 決[き]めた。
 Beispielsatz-Übersetzung: Ich habe beschlossen, das Trinken von Alkohol aufzugeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

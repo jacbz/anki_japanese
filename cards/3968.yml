@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rücksichtnahme
-Notiz: ''
 Beispielsatz: みんなにもっと思いやりの気持ちを持ちなさい。
 Beispielsatz-Lesung: みんなにもっと 思[おも]いやりの 気持[きも]ちを 持[も]ちなさい。
 Beispielsatz-Übersetzung: Nehmen Sie mehr Rücksicht auf alle.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

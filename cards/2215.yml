@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Angestellter, Büroangestellter
-Notiz: ''
 Beispielsatz: 父はサラリーマンです。
 Beispielsatz-Lesung: 父[ちち]はサラリーマンです。
 Beispielsatz-Übersetzung: Mein Vater ist ein Büroangestellter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

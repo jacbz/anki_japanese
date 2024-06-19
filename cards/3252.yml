@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: In Ordnung!, Gut!
-Notiz: ''
 Beispielsatz: よし、行くぞ。
 Beispielsatz-Lesung: よし、 行[い]くぞ。
 Beispielsatz-Übersetzung: In Ordnung. Los geht's!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen lassen, verlieren, ablehnen
-Notiz: ''
 Beispielsatz: コップを落とさないように気をつけなさい。
 Beispielsatz-Lesung: コップを 落[お]とさないように 気[き]をつけなさい。
 Beispielsatz-Übersetzung: Pass auf, dass du dein Glas nicht fallen lässt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

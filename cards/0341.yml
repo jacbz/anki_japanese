@@ -5,7 +5,9 @@ Alternative: 綺麗
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: schön, hübsch; sauber
-Notiz: ''
 Beispielsatz: 彼の家はいつもきれいだ。
 Beispielsatz-Lesung: 彼[かれ]の 家[いえ]はいつもきれいだ。
 Beispielsatz-Übersetzung: Sein Haus ist immer sauber.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

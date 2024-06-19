@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Äh, was?; Nun, ja
-Notiz: ''
 Beispielsatz: あの人は、えー、ちょっと名前が思い出せません。
 Beispielsatz-Lesung: あの 人[ひと]は、えー、ちょっと 名前[なまえ]が 思[おも]い 出[だ]せません。
 Beispielsatz-Übersetzung: Richtig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

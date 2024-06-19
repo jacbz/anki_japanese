@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Regelung, Vorschrift
-Notiz: ''
 Beispielsatz: 規則を守ってください。
 Beispielsatz-Lesung: 規則[きそく]を 守[まも]ってください。
 Beispielsatz-Übersetzung: Bitte beachten Sie die Vorschriften.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

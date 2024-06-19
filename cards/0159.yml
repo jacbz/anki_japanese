@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Person
-Notiz: ''
 Beispielsatz: この方は山田さんです。
 Beispielsatz-Lesung: この 方[ほう]は 山田[やまだ]さんです。
 Beispielsatz-Übersetzung: Diese Person ist Herr Yamada.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

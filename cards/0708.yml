@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: überrascht sein
-Notiz: ''
 Beispielsatz: そのニュースを聞いて驚いた。
 Beispielsatz-Lesung: そのニュースを 聞[き]いて 驚[おどろ]いた。
 Beispielsatz-Übersetzung: Ich war überrascht, die Nachrichten zu hören.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

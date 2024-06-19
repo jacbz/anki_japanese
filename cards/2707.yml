@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vorherige Seite
-Notiz: ''
 Beispielsatz: 条件については前項で述べている。
 Beispielsatz-Lesung: 条件[じょうけん]については 前項[ぜんこう]で 述[の]べている。
 Beispielsatz-Übersetzung: Die Bedingungen sind auf der vorherigen Seite beschrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

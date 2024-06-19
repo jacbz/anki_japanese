@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gesetzesentwurf
-Notiz: ''
 Beispielsatz: 法案は国会を通過した。
 Beispielsatz-Lesung: 法案[ほうあん]は 国会[こっかい]を 通過[つうか]した。
 Beispielsatz-Übersetzung: Der Gesetzesentwurf wurde vom Parlament verabschiedet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

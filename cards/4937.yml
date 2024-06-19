@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: mal
-Notiz: ''
 Beispielsatz: 二の二倍は四だ。
 Beispielsatz-Lesung: 二の二 倍[ばい]は四だ。
 Beispielsatz-Übersetzung: Zwei mal zwei ist vier.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

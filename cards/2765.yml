@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich auf etw beschränken; auf etw achten
-Notiz: ''
 Beispielsatz: 彼は細部にこだわる。
 Beispielsatz-Lesung: 彼[かれ]は 細部[さいぶ]にこだわる。
 Beispielsatz-Übersetzung: Er ist akribisch darin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

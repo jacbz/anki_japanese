@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Premierminister
-Notiz: ''
 Beispielsatz: 首相が会見を行った。
 Beispielsatz-Lesung: 首相[しゅしょう]が 会見[かいけん]を 行[おこな]った。
 Beispielsatz-Übersetzung: Der Premierminister hielt eine Pressekonferenz ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ehefrau
-Notiz: ''
 Beispielsatz: うちの女房は倹約家だ。
 Beispielsatz-Lesung: うちの 女房[にょうぼう]は 倹約家[けんやくか]だ。
 Beispielsatz-Übersetzung: Meine Ehefrau ist sparsam.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

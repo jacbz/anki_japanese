@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeitzone, Tageszeit
-Notiz: ''
 Beispielsatz: 今は電車が一番混む時間帯だ。
 Beispielsatz-Lesung: 今[いま]は 電車[でんしゃ]が 一番[いちばん] 混[こ]む 時間帯[じかんたい]だ。
 Beispielsatz-Übersetzung: Zu dieser Tageszeit sind Züge am meisten überfüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

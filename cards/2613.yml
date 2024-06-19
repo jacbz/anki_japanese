@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nihon Hōsō Kyōkai (Japanische Rundfunkgesellschaft)
-Notiz: ''
 Beispielsatz: 七時のＮＨＫのニュースをいつも見てます。
 Beispielsatz-Lesung: 七 時[じ]のＮＨＫのニュースをいつも 見[み]てます。
 Beispielsatz-Übersetzung: Ich schaue immer um sieben Uhr die NHK-Nachrichten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

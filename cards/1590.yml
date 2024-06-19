@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: reparieren; korrigieren; besser werden
-Notiz: ''
 Beispielsatz: 車がやっと直った。
 Beispielsatz-Lesung: 車[くるま]がやっと 直[なお]った。
 Beispielsatz-Übersetzung: Das Auto ist endlich repariert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

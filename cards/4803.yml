@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: legen, stellen
-Notiz: ''
 Beispielsatz: この件については腰を据えて議論するべきだ。
 Beispielsatz-Lesung: この 件[けん]については 腰[こし]を 据[す]えて 議論[ぎろん]するべきだ。
 Beispielsatz-Übersetzung: Wir sollten uns Zeit nehmen, um über diese Angelegenheit
   nachzudenken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

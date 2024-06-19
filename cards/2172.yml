@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verbrechen; Schuld
-Notiz: ''
 Beispielsatz: 彼は罪を認めた。
 Beispielsatz-Lesung: 彼[かれ]は 罪[つみ]を 認[みと]めた。
 Beispielsatz-Übersetzung: Er hat sich schuldig bekannt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

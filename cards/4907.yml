@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Netz
-Notiz: ''
 Beispielsatz: たくさんの魚が網にかかった。
 Beispielsatz-Lesung: たくさんの 魚[さかな]が 網[あみ]にかかった。
 Beispielsatz-Übersetzung: Viele Fische wurden im Netz gefangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: conj.
 Definition: dann, danach
-Notiz: ''
 Beispielsatz: 昨日は９時ごろ帰宅しました。それから、テレビを見ました。
 Beispielsatz-Lesung: 昨日[きのう]は９ 時[じ]ごろ 帰宅[きたく]しました。それから、テレビを 見[み]ました。
 Beispielsatz-Übersetzung: Ich bin gestern gegen neun nach Hause gekommen und habe
   dann ferngesehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

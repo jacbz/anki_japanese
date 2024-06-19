@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich erheben; aufleben
-Notiz: ''
 Beispielsatz: 今年の同窓会は、盛り上がった。
 Beispielsatz-Lesung: 今年[ことし]の 同窓会[どうそうかい]は、 盛[も]り 上[あ]がった。
 Beispielsatz-Übersetzung: Das diesjährige Klassentreffen war erfolgreich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Realität, Wirklichkeit
-Notiz: ''
 Beispielsatz: 理想は現実とは違う。
 Beispielsatz-Lesung: 理想[りそう]は 現実[げんじつ]とは 違[ちが]う。
 Beispielsatz-Übersetzung: Es gibt einen Unterschied zwischen Ideal und Realität.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

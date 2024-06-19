@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bleiben
-Notiz: ''
 Beispielsatz: その場所に一週間とどまった。
 Beispielsatz-Lesung: その 場[ば] 所[しょ]に一 週間[しゅうかん]とどまった。
 Beispielsatz-Übersetzung: Ich blieb eine Woche an diesem Ort.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

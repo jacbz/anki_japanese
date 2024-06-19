@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Alltag
-Notiz: ''
 Beispielsatz: 日常生活を楽しんでいる。
 Beispielsatz-Lesung: 日常生活[にちじょうせいかつ]を 楽[たの]しんでいる。
 Beispielsatz-Übersetzung: Sie genießt ihr tägliches Leben in vollen Zügen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

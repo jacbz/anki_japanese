@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: (mir) geben
-Notiz: ''
 Beispielsatz: これは祖父がくれた時計です。
 Beispielsatz-Lesung: これは 祖父[そふ]がくれた 時計[とけい]です。
 Beispielsatz-Übersetzung: Das ist die Uhr, die mir mein Großvater gegeben hat.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

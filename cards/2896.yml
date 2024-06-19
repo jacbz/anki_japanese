@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Feuerwerk
-Notiz: ''
 Beispielsatz: 花火を見に行く。
 Beispielsatz-Lesung: 花火[はなび]を 見[み]に 行[い]く。
 Beispielsatz-Übersetzung: Ich werde Feuerwerk anschauen gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

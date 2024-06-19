@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: beteiligen, engagieren
-Notiz: ''
 Beispielsatz: 彼は新しいシステムの開発に携わっている。
 Beispielsatz-Lesung: 彼[かれ]は 新[あたら]しいシステムの 開発[かいはつ]に 携[たずさ]わっている。
 Beispielsatz-Übersetzung: Er beteiligt sich an der Entwicklung des neuen Systems.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

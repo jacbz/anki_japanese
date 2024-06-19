@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: eine Woche
-Notiz: ''
 Beispielsatz: 来月一週間休みを取るつもりです。
 Beispielsatz-Lesung: 来月[らいげつ]一 週間[しゅうかん] 休[やす]みを 取[と]るつもりです。
 Beispielsatz-Übersetzung: Ich werde nächsten Monat eine Woche frei nehmen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

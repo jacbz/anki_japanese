@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: inländisch, heimisch
-Notiz: ''
 Beispielsatz: 彼の国内政策は批判されている。
 Beispielsatz-Lesung: 彼[か]の 国[くに] 内[ない] 政策[せいさく]は 批判[ひはん]されている。
 Beispielsatz-Übersetzung: Seine Innenpolitik steht in der Kritik.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

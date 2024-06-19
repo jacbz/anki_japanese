@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Körper
-Notiz: ''
 Beispielsatz: 人間の身体の約60パーセントから70パーセントは水分である。
 Beispielsatz-Lesung: 人間[にんげん]の 身体[しんたい]の 約[やく]60パーセントから70パーセントは 水分[すいぶん]である。
 Beispielsatz-Übersetzung: Man muss gut auf seinen Körper achten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

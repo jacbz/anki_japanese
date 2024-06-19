@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verdächtigen, bezweifeln
-Notiz: ''
 Beispielsatz: 私たちは彼の発言を疑う。
 Beispielsatz-Lesung: 私[わたし]たちは 彼[かれ]の 発言[はつげん]を 疑[うたが]う。
 Beispielsatz-Übersetzung: Wir bezweifeln seine Worte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

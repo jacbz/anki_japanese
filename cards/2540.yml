@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: müde werden, sich langweilen, genug haben von
-Notiz: ''
 Beispielsatz: そのゲームにも飽きてきた。
 Beispielsatz-Lesung: そのゲームにも 飽[あ]きてきた。
 Beispielsatz-Übersetzung: Ich langweile mich mit diesem Spiel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

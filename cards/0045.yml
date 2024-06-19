@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: und, oder (so)
-Notiz: ''
 Beispielsatz: ケーキとかチョコレートばかり食べるから、君は太るんだ。
 Beispielsatz-Lesung: ケーキとかチョコレートばかり 食[た]べるから、 君[きみ]は 太[ふと]るんだ。
 Beispielsatz-Übersetzung: Du nimmst zu, weil du immer Kuchen und Schokolade isst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

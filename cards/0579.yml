@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich trennen; entfernt sein von
-Notiz: ''
 Beispielsatz: 学校は街の中心から1キロ離れている。
 Beispielsatz-Lesung: 学校[がっこう]は 街[まち]の 中心[ちゅうしん]から1キロ 離[はな]れている。
 Beispielsatz-Übersetzung: Die Schule ist einen Kilometer vom Stadtzentrum entfernt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

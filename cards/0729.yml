@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachrichten
-Notiz: ''
 Beispielsatz: テレビでニュースを聞いた。
 Beispielsatz-Lesung: テレビでニュースを 聞[き]いた。
 Beispielsatz-Übersetzung: Ich habe die Nachrichten im Fernsehen gehört.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

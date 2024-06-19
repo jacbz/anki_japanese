@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fühlen
-Notiz: ''
 Beispielsatz: 空腹を感じる。
 Beispielsatz-Lesung: 空腹[くうふく]を 感[かん]じる。
 Beispielsatz-Übersetzung: Ich fühle mich hungrig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

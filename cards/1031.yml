@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entfernen; außer; loswerden
-Notiz: ''
 Beispielsatz: 彼の作文は多少の間違いを除いてすばらしかった。
 Beispielsatz-Lesung: 彼[かれ]の 作文[さくぶん]は 多少[たしょう]の 間違[まちが]いを 除[のぞ]いてすばらしかった。
 Beispielsatz-Übersetzung: Seine Komposition war ausgezeichnet, abgesehen von ein paar
   Fehlern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

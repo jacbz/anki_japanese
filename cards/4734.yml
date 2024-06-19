@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sashimi
-Notiz: ''
 Beispielsatz: 私の好きな日本食は刺し身です。
 Beispielsatz-Lesung: 私[わたし]の 好[す]きな 日本食[にほんしょく]は 刺[さ]し 身[み]です。
 Beispielsatz-Übersetzung: Mein Lieblingsessen in Japan ist Sashimi.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

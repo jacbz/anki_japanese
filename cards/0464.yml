@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Showa-Ära
-Notiz: ''
 Beispielsatz: 私は昭和の生まれです。
 Beispielsatz-Lesung: 私[わたし]は 昭和[しょうわ]の 生[う]まれです。
 Beispielsatz-Übersetzung: Ich wurde in der Showa-Ära geboren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

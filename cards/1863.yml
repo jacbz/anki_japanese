@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: ältester Sohn
-Notiz: ''
 Beispielsatz: 長男はフランスで芸術を学んでいる。
 Beispielsatz-Lesung: 長男[ちょうなん]はフランスで 芸術[げいじゅつ]を 学[まな]んでいる。
 Beispielsatz-Übersetzung: Der älteste Sohn studiert Kunst in Frankreich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

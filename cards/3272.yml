@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hafen
-Notiz: ''
 Beispielsatz: 船が港に着いた。
 Beispielsatz-Lesung: 船[ふね]が 港[みなと]に 着[つ]いた。
 Beispielsatz-Übersetzung: Das Schiff ist im Hafen angekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

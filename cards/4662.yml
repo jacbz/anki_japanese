@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schlaf
-Notiz: ''
 Beispielsatz: 昨夜は眠りが足りなかった。
 Beispielsatz-Lesung: 昨夜[さくや]は 眠[ねむ]りが 足[た]りなかった。
 Beispielsatz-Übersetzung: Ich habe letzte Nacht nicht genug geschlafen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

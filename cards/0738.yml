@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hören (können)
-Notiz: ''
 Beispielsatz: 友達が私を呼んでいるのが聞こえた。
 Beispielsatz-Lesung: 友達[ともだち]が 私[わたし]を 呼[よ]んでいるのが 聞[き]こえた。
 Beispielsatz-Übersetzung: Ich hörte meinen Freund mich rufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

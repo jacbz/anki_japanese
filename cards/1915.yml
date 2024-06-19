@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Anfrage
-Notiz: ''
 Beispielsatz: お問い合わせ、ありがとうございます。
 Beispielsatz-Lesung: お 問[と]い 合[あ]わせ、ありがとうございます。
 Beispielsatz-Übersetzung: Vielen Dank für Ihre Anfrage.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: erbärmlich
-Notiz: ''
 Beispielsatz: 情けない姿をしているね。
 Beispielsatz-Lesung: 情[なさ]けない 姿[すがた]をしているね。
 Beispielsatz-Übersetzung: Du siehst so erbärmlich aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

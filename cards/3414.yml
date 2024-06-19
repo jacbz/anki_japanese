@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Handfläche
-Notiz: ''
 Beispielsatz: 掌に載るくらい小さい子犬をもらった。
 Beispielsatz-Lesung: 掌[てのひら]に 載[の]るくらい 小[ちい]さい 子犬[こいぬ]をもらった。
 Beispielsatz-Übersetzung: Ich habe einen Welpen bekommen, der so klein ist, dass er
   auf meine Handfläche passt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

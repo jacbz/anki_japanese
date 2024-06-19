@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vermieter, Eigentümer
-Notiz: ''
 Beispielsatz: 大家さんは家賃を上げたいそうだ。
 Beispielsatz-Lesung: 大家[おおや]さんは 家賃[やちん]を 上[あ]げたいそうだ。
 Beispielsatz-Übersetzung: Der Vermieter sagt, dass er die Miete erhöhen möchte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

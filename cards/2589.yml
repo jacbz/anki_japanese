@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zählen
-Notiz: ''
 Beispielsatz: 小銭の数を数えなさい。
 Beispielsatz-Lesung: 小銭[こぜに]の 数[かず]を 数[かぞ]えなさい。
 Beispielsatz-Übersetzung: Zähle die Anzahl der Münzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

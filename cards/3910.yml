@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Literatur
-Notiz: ''
 Beispielsatz: 私は英文学について研究している。
 Beispielsatz-Lesung: 私[わたし]は 英文学[えいぶんがく]について 研究[けんきゅう]している。
 Beispielsatz-Übersetzung: Ich studiere englische Literatur.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

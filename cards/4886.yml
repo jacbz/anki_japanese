@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Freizeitpark
-Notiz: ''
 Beispielsatz: 家族と一緒に遊園地に行った。
 Beispielsatz-Lesung: 家族[かぞく]と 一緒[いっしょ]に 遊園地[ゆうえんち]に 行[い]った。
 Beispielsatz-Übersetzung: Ich bin mit meiner Familie in einen Freizeitpark gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

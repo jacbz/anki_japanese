@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p. case
 Definition: ZIEL
-Notiz: ''
 Beispielsatz: 明日、大阪へ行きます。
 Beispielsatz-Lesung: 明日[あした]、 大阪[おおさか]へ 行[い]きます。
 Beispielsatz-Übersetzung: Ich werde morgen nach Osaka gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

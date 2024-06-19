@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: wann
-Notiz: ''
 Beispielsatz: いつ日本へ来ますか。
 Beispielsatz-Lesung: いつ 日本[にっぽん]へ 来[き]ますか。
 Beispielsatz-Übersetzung: Wann kommen Sie nach Japan?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

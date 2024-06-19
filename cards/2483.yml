@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haupt-
-Notiz: ''
 Beispielsatz: メイン料理はこれからだ。
 Beispielsatz-Lesung: メイン 料理[りょうり]はこれからだ。
 Beispielsatz-Übersetzung: Das Hauptgericht kommt bald.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

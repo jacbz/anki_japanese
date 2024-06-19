@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Hose, Hose; Shorts, Unterhose
-Notiz: ''
 Beispielsatz: 今日の彼女はパンツとジャケットで出社した。
 Beispielsatz-Lesung: 今日[きょう]の 彼女[かのじょ]はパンツとジャケットで 出社[しゅっしゃ]した。
 Beispielsatz-Übersetzung: Sie kam heute mit Hose und Jacke ins Büro.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

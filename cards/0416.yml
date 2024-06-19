@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: geben, schenken
-Notiz: ''
 Beispielsatz: 私は彼女の両親に良い印象を与えようと努めた。
 Beispielsatz-Lesung: 私[わたし]は 彼女[かのじょ]の 両親[りょうしん]に 良[よ]い 印象[いんしょう]を 与[あた]えようと 努[つと]めた。
 Beispielsatz-Übersetzung: Ich habe versucht, bei ihren Eltern einen guten Eindruck
   zu hinterlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

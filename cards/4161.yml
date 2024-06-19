@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Krankheit
-Notiz: ''
 Beispielsatz: その病の原因は何ですか。
 Beispielsatz-Lesung: その 病[やまい]の 原因[げんいん]は 何[なに]ですか。
 Beispielsatz-Übersetzung: Was ist die Ursache für diese Krankheit?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

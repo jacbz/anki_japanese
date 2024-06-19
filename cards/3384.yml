@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 2001 (Jahr)
-Notiz: ''
 Beispielsatz: 2001年から二十一世紀が始まる。
 Beispielsatz-Lesung: 2001 年[ねん]から二十 一世紀[いっせいき]が 始[はじ]まる。
 Beispielsatz-Übersetzung: Das 21. Jahrhundert beginnt im Jahr 2001.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

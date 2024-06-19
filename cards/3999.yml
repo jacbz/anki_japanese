@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fotografieren
-Notiz: ''
 Beispielsatz: 彼女はきれいに写っていた。
 Beispielsatz-Lesung: 彼女[かのじょ]はきれいに 写[うつ]っていた。
 Beispielsatz-Übersetzung: Sie hat sehr gut fotografiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

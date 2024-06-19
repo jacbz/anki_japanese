@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Standard, Kriterium
-Notiz: ''
 Beispielsatz: 何を目安に大学を選びますか。
 Beispielsatz-Lesung: 何[なに]を 目安[めやす]に 大学[だいがく]を 選[えら]びますか。
 Beispielsatz-Übersetzung: Nach welchen Kriterien wirst du die Universität auswählen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

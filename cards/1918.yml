@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Prozess
-Notiz: ''
 Beispielsatz: 彼はチョコレートを作る過程を説明した。
 Beispielsatz-Lesung: 彼[かれ]はチョコレートを 作[つく]る 過程[かてい]を 説明[せつめい]した。
 Beispielsatz-Übersetzung: Er erklärte den Prozess der Schokoladenherstellung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

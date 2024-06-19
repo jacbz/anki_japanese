@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Preis
-Notiz: ''
 Beispielsatz: 輸入品の価格が下がっている。
 Beispielsatz-Lesung: 輸入品[ゆにゅうひん]の 価格[かかく]が 下[さ]がっている。
 Beispielsatz-Übersetzung: Die Preise für importierte Waren sind gesunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

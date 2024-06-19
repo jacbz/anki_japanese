@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Politik
-Notiz: ''
 Beispielsatz: 日本の教育政策についての記事を読む。
 Beispielsatz-Lesung: 日本[にっぽん]の 教育[きょういく] 政策[せいさく]についての 記事[きじ]を 読[よ]む。
 Beispielsatz-Übersetzung: Ich habe einen Artikel über die japanische Bildungspolitik
   gelesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

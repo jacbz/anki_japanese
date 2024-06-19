@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: abwesend; trüb
-Notiz: ''
 Beispielsatz: 彼女は窓の外をぼおっと見ていた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 窓[まど]の 外[そと]をぼおっと 見[み]ていた。
 Beispielsatz-Übersetzung: Sie schaute abwesend aus dem Fenster.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

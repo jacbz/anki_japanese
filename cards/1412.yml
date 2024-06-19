@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Profi, Profi-
-Notiz: ''
 Beispielsatz: 彼は小さいときにダンスを始めてプロになった。
 Beispielsatz-Lesung: 彼[かれ]は 小[ちい]さいときにダンスを 始[はじ]めてプロになった。
 Beispielsatz-Übersetzung: Er begann schon als Kind zu tanzen und wurde Profi.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

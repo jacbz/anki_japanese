@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Obst
-Notiz: ''
 Beispielsatz: スーパーで果物を買ってきて。
 Beispielsatz-Lesung: スーパーで 果物[くだもの]を 買[か]ってきて。
 Beispielsatz-Übersetzung: Holen Sie sich im Supermarkt ein paar Früchte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

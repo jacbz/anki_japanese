@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Krankenwagen
-Notiz: ''
 Beispielsatz: 救急車を呼んでください。
 Beispielsatz-Lesung: 救急車[きゅうきゅうしゃ]を 呼[よ]んでください。
 Beispielsatz-Übersetzung: Bitte rufen Sie einen Krankenwagen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

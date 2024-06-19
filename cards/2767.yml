@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: trocknen
-Notiz: ''
 Beispielsatz: この生地は乾くのが早い。
 Beispielsatz-Lesung: この 生地[きじ]は 乾[かわ]くのが 早[はや]い。
 Beispielsatz-Übersetzung: Dieser Stoff trocknet schnell.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

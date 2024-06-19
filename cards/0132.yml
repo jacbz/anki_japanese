@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: nehmen
-Notiz: ''
 Beispielsatz: 塩をとってくれませんか。
 Beispielsatz-Lesung: 塩[しお]をとってくれませんか。
 Beispielsatz-Übersetzung: Könntest du mir bitte das Salz geben?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

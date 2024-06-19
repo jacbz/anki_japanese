@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: einsteigen, fahren
-Notiz: ''
 Beispielsatz: 私は東京駅から電車に乗った。
 Beispielsatz-Lesung: 私[わたし]は 東京[とうきょう] 駅[えき]から 電車[でんしゃ]に 乗[の]った。
 Beispielsatz-Übersetzung: Ich bin vom Bahnhof Tokyo aus mit dem Zug gefahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bohne, Erbse
-Notiz: ''
 Beispielsatz: 豆から豆腐を作った。
 Beispielsatz-Lesung: 豆[まめ]から 豆腐[とうふ]を 作[つく]った。
 Beispielsatz-Übersetzung: Ich habe Tofu aus Sojabohnen gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

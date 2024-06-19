@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Opfer
-Notiz: ''
 Beispielsatz: あの事件の被害者は、六十歳の女性だった。
 Beispielsatz-Lesung: あの 事件[じけん]の 被害者[ひがいしゃ]は、六十 歳[さい]の 女性[じょせい]だった。
 Beispielsatz-Übersetzung: Das Opfer dieses Vorfalls war eine sechzig Jahre alte Frau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

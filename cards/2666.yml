@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tagebuch
-Notiz: ''
 Beispielsatz: 毎日日記を書く。
 Beispielsatz-Lesung: 毎日[まいにち] 日記[にっき]を 書[か]く。
 Beispielsatz-Übersetzung: Ich führe jeden Tag ein Tagebuch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

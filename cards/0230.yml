@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schlecht
-Notiz: ''
 Beispielsatz: 気分が悪い。
 Beispielsatz-Lesung: 気分[きぶん]が 悪[わる]い。
 Beispielsatz-Übersetzung: Mir ist schlecht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

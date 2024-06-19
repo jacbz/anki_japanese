@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Geschwindigkeit
-Notiz: ''
 Beispielsatz: その車はカーブの手前で速度を落とした。
 Beispielsatz-Lesung: その 車[くるま]はカーブの 手前[てまえ]で 速度[そくど]を 落[お]とした。
 Beispielsatz-Übersetzung: Das Auto reduzierte seine Geschwindigkeit vor der Kurve.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

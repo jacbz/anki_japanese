@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: diese (pl.)
-Notiz: ''
 Beispielsatz: これらの製品は外国へ輸出されます。
 Beispielsatz-Lesung: これらの 製品[せいひん]は 外国[がいこく]へ 輸出[ゆしゅつ]されます。
 Beispielsatz-Übersetzung: Diese Produkte sollen in andere Länder exportiert werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

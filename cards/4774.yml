@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schaden, Verlust
-Notiz: ''
 Beispielsatz: 火事で我が家は大きな損害を受けた。
 Beispielsatz-Lesung: 火事[かじ]で 我[わ]が 家[や]は 大[おお]きな 損害[そんがい]を 受[う]けた。
 Beispielsatz-Übersetzung: Das Feuer hat unserem Haus großen Schaden zugefügt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zins
-Notiz: ''
 Beispielsatz: 銀行は金利を上げた。
 Beispielsatz-Lesung: 銀行[ぎんこう]は 金利[きんり]を 上[あ]げた。
 Beispielsatz-Übersetzung: Die Bank erhöhte den Zinssatz.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

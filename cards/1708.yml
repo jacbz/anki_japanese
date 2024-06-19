@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Symptom
-Notiz: ''
 Beispielsatz: どのような症状がありますか。
 Beispielsatz-Lesung: どのような 症状[しょうじょう]がありますか。
 Beispielsatz-Übersetzung: Welche Symptome haben Sie?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

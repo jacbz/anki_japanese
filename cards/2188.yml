@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v., n.
 Definition: v existieren; leben
-Notiz: ''
 Beispielsatz: 異議あり！
 Beispielsatz-Lesung: 異議[いぎ]あり！
 Beispielsatz-Übersetzung: Einspruch!
+
+# Notizen können HTML enthalten.            
+Notiz: ''

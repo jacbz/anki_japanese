@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sommer
-Notiz: ''
 Beispielsatz: 日本の夏は蒸し暑い。
 Beispielsatz-Lesung: 日本[にっぽん]の 夏[なつ]は 蒸[む]し 暑[あつ]い。
 Beispielsatz-Übersetzung: Der Sommer in Japan ist feucht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

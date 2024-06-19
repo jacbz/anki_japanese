@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: berühren; erleben
-Notiz: ''
 Beispielsatz: 展示品に手を触れるな。
 Beispielsatz-Lesung: 展示品[てんじひん]に 手[て]を 触[ふ]れるな。
 Beispielsatz-Übersetzung: Berühre nicht die Ausstellungsstücke.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

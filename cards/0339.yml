@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: alle, jeder
-Notiz: ''
 Beispielsatz: 皆さん、こんばんは。
 Beispielsatz-Lesung: 皆[みな]さん、こんばんは。
 Beispielsatz-Übersetzung: Guten Abend, alle zusammen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

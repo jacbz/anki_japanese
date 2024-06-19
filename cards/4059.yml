@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: lächeln
-Notiz: ''
 Beispielsatz: 母は優しく微笑んだ。
 Beispielsatz-Lesung: 母[はは]は 優[やさ]しく 微笑[ほほえ]んだ。
 Beispielsatz-Übersetzung: Mutter lächelte freundlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

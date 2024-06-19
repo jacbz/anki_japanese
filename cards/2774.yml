@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: linke Hand; auf der linken Seite
-Notiz: ''
 Beispielsatz: 新幹線から富士山が左手に見える。
 Beispielsatz-Lesung: 新幹線[しんかんせん]から 富士山[ふじさん]が 左手[ひだりて]に 見[み]える。
 Beispielsatz-Übersetzung: Wir können den Berg Fuji von links aus dem Shinkansen sehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schimpfen, tadeln
-Notiz: ''
 Beispielsatz: 遅刻してしかられた。
 Beispielsatz-Lesung: 遅刻[ちこく]してしかられた。
 Beispielsatz-Übersetzung: Ich wurde getadelt, weil ich zu spät gekommen bin.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

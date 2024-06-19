@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: China
-Notiz: ''
 Beispielsatz: 中国は長い歴史を持っている。
 Beispielsatz-Lesung: 中国[ちゅうごく]は 長[なが]い 歴史[れきし]を 持[も]っている。
 Beispielsatz-Übersetzung: China hat eine lange Geschichte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

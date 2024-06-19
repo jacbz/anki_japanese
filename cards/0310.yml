@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: früh, bald
-Notiz: ''
 Beispielsatz: 諦めるのはまだ早い。
 Beispielsatz-Lesung: 諦[あきら]めるのはまだ 早[はや]い。
 Beispielsatz-Übersetzung: Es ist zu früh, um aufzugeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

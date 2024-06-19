@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Auseinandersetzung, Konflikt, Streit
-Notiz: ''
 Beispielsatz: そのNPOは紛争を解決する努力を続けている。
 Beispielsatz-Lesung: そのNPOは 紛争[ふんそう]を 解決[かいけつ]する 努力[どりょく]を 続[つづ]けている。
 Beispielsatz-Übersetzung: Die NPO arbeitet weiter daran, den Konflikt beizulegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

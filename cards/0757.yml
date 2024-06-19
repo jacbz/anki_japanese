@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: grausam, schrecklich
-Notiz: ''
 Beispielsatz: ひどい頭痛がする。
 Beispielsatz-Lesung: ひどい 頭痛[ずつう]がする。
 Beispielsatz-Übersetzung: Ich habe schreckliche Kopfschmerzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

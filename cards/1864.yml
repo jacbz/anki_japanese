@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: 'null'
-Notiz: ''
 Beispielsatz: テストで０点をとった。
 Beispielsatz-Lesung: テストで０ 点[てん]をとった。
 Beispielsatz-Übersetzung: Ich habe in diesem Test eine Null bekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

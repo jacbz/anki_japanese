@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Jahreszeit
-Notiz: ''
 Beispielsatz: 桜のシーズンはたくさんの人で賑わいます。
 Beispielsatz-Lesung: 桜[さくら]のシーズンはたくさんの人で 賑[にぎ]わいます。
 Beispielsatz-Übersetzung: In der Kirschblütenzeit ist viel los.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

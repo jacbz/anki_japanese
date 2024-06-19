@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ware, Artikel
-Notiz: ''
 Beispielsatz: 商品を注文した。
 Beispielsatz-Lesung: 商品[しょうひん]を 注文[ちゅうもん]した。
 Beispielsatz-Übersetzung: Ich habe Waren bestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

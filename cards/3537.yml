@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: System, Struktur
-Notiz: ''
 Beispielsatz: その会社は経営の体制を立て直した。
 Beispielsatz-Lesung: その 会社[かいしゃ]は 経営[けいえい]の 体制[たいせい]を 立[た]て 直[なお]した。
 Beispielsatz-Übersetzung: Das Unternehmen hat seine Managementstruktur neu organisiert.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

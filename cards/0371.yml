@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: müssen
-Notiz: ''
 Beispielsatz: もっと勉強しなければいけないと思った。
 Beispielsatz-Lesung: もっと 勉強[べんきょう]しなければいけないと 思[おも]った。
 Beispielsatz-Übersetzung: Ich dachte, dass ich mehr lernen muss.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

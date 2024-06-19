@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich aussprechen; gestehen
-Notiz: ''
 Beispielsatz: 彼は私に秘密を打ち明けてくれた。
 Beispielsatz-Lesung: 彼[かれ]は 私[わたし]に 秘密[ひみつ]を 打[う]ち 明[あ]けてくれた。
 Beispielsatz-Übersetzung: Er hat mir sein Geheimnis gestanden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

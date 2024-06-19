@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: dreitausend Yen
-Notiz: ''
 Beispielsatz: このシャツは三千円です。
 Beispielsatz-Lesung: このシャツは三 千[せん] 円[えん]です。
 Beispielsatz-Übersetzung: Dieses Hemd kostet dreitausend Yen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

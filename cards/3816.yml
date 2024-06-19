@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbrennen
-Notiz: ''
 Beispielsatz: 薪を燃やして暖をとった。
 Beispielsatz-Lesung: 薪[たきぎ]を 燃[も]やして 暖[だん]をとった。
 Beispielsatz-Übersetzung: Wir haben Holz verbrannt und uns warm gehalten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

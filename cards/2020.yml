@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vorläufig, provisorisch; angenommen
-Notiz: ''
 Beispielsatz: これは仮のタイトルです。
 Beispielsatz-Lesung: これは 仮[かり]のタイトルです。
 Beispielsatz-Übersetzung: Das ist ein vorläufiger Titel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

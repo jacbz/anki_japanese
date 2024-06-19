@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Empfindung, Gefühl
-Notiz: ''
 Beispielsatz: 彼は幸せ感でいっぱいになった。
 Beispielsatz-Lesung: 彼[かれ]は 幸[しあわ]せ 感[かん]でいっぱいになった。
 Beispielsatz-Übersetzung: Er war von einem Gefühl des Glücks erfüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

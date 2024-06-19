@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: unverzüglich, direkt
-Notiz: ''
 Beispielsatz: このような行為は直ちにやめるべきだ。
 Beispielsatz-Lesung: このような 行為[こうい]は 直[ただ]ちにやめるべきだ。
 Beispielsatz-Übersetzung: Du musst sofort damit aufhören.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

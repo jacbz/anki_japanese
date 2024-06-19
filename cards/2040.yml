@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Nachhilfeschule
-Notiz: ''
 Beispielsatz: 彼は一週間に四日塾に通っている。
 Beispielsatz-Lesung: 彼[かれ]は 一週間[いっしゅうかん]に 四日[よっか] 塾[じゅく]に 通[かよ]っている。
 Beispielsatz-Übersetzung: Er geht vier Tage in der Woche zur Nachhilfeschule.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

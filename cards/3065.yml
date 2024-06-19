@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bühne
-Notiz: ''
 Beispielsatz: ステージに上がってください。
 Beispielsatz-Lesung: ステージに 上[あ]がってください。
 Beispielsatz-Übersetzung: Bitte kommen Sie auf die Bühne.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

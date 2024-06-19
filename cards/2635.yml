@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bewunderung
-Notiz: ''
 Beispielsatz: 木田先生は私たちの憧れのまとでした。
 Beispielsatz-Lesung: 木田[きだ] 先生[せんせい]は 私[わたし]たちの 憧[あこが]れのまとでした。
 Beispielsatz-Übersetzung: Frau Kida war das Objekt der Bewunderung für uns alle.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

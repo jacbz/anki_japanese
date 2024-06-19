@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Menschenmenge, Öffentlichkeit
-Notiz: ''
 Beispielsatz: 彼は通りの民衆に向かってスピーチをした。
 Beispielsatz-Lesung: 彼[かれ]は 通[とお]りの 民衆[みんしゅう]に 向[む]かってスピーチをした。
 Beispielsatz-Übersetzung: Er hielt eine Rede vor den Menschen auf der Straße.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: lachen, lächeln
-Notiz: ''
 Beispielsatz: みな大声で笑った。
 Beispielsatz-Lesung: みな 大声[おおごえ]で 笑[わら]った。
 Beispielsatz-Übersetzung: Sie lachten laut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

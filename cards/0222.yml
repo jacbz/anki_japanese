@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zusammen, gemeinsam
-Notiz: ''
 Beispielsatz: 友達と一緒に買い物に行った。
 Beispielsatz-Lesung: 友達[ともだち]と 一緒[いっしょ]に 買[か]い 物[もの]に 行[い]った。
 Beispielsatz-Übersetzung: Ich bin mit meinen Freunden einkaufen gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

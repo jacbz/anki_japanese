@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Entschuldigung
-Notiz: ''
 Beispielsatz: まことに申し訳ありません。
 Beispielsatz-Lesung: まことに 申[もう]し 訳[わけ]ありません。
 Beispielsatz-Übersetzung: Es tut mir aufrichtig leid.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

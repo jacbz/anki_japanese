@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: innen, in
-Notiz: ''
 Beispielsatz: 太郎は部屋の中に入った。
 Beispielsatz-Lesung: 太郎[たろう]は 部屋[へや]の 中[なか]に 入[はい]った。
 Beispielsatz-Übersetzung: Taro ist in das Zimmer hineingekommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

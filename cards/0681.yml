@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: streng, hart
-Notiz: ''
 Beispielsatz: 彼は厳しい先生です。
 Beispielsatz-Lesung: 彼[かれ]は 厳[きび]しい 先生[せんせい]です。
 Beispielsatz-Übersetzung: Er ist ein strenger Lehrer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

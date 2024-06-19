@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: genau wie, ziemlich
-Notiz: ''
 Beispielsatz: まるで映画の話のようですね。
 Beispielsatz-Lesung: まるで 映画[えいが]の 話[はなし]のようですね。
 Beispielsatz-Übersetzung: Es ist genau wie eine Filmgeschichte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

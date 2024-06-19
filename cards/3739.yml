@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Obon-Fest
-Notiz: ''
 Beispielsatz: 毎年八月のお盆の期間中は駅がたくさんの人で混雑する。
 Beispielsatz-Lesung: 毎年[まいとし] 八月[はちがつ]のお 盆[ぼん]の 期間中[きかんちゅう]は 駅[えき]がたくさんの人で 混雑[こんざつ]する。
 Beispielsatz-Übersetzung: Jedes Jahr zu Obon im August sind die Bahnhöfe überfüllt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

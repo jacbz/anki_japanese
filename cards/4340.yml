@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Behandlung, Handhabung
-Notiz: ''
 Beispielsatz: その花瓶の取り扱いに注意してください。
 Beispielsatz-Lesung: その 花瓶[かびん]の 取[と]り 扱[あつか]いに 注意[ちゅうい]してください。
 Beispielsatz-Übersetzung: Bitte achten Sie darauf, wie Sie diese Vase handhaben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

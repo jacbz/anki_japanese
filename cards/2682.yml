@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Blog
-Notiz: ''
 Beispielsatz: ブログに写真を投稿する。
 Beispielsatz-Lesung: ブログに 写真[しゃしん]を 投稿[とうこう]する。
 Beispielsatz-Übersetzung: Ich habe Fotos in einem Blog veröffentlicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

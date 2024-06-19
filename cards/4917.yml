@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Brühe
-Notiz: ''
 Beispielsatz: このカニの出しはおいしい。
 Beispielsatz-Lesung: このカニの 出[だ]しはおいしい。
 Beispielsatz-Übersetzung: Die Krabbenbrühe ist lecker.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

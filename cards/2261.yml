@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Regel
-Notiz: ''
 Beispielsatz: クラブのルールをみんなで決める。
 Beispielsatz-Lesung: クラブのルールをみんなで 決[き]める。
 Beispielsatz-Übersetzung: Die Regeln des Clubs werden von allen Mitgliedern aufgestellt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

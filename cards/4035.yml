@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Innenstadt
-Notiz: ''
 Beispielsatz: 町中に住んでいます。
 Beispielsatz-Lesung: 町中[まちなか]に 住[す]んでいます。
 Beispielsatz-Übersetzung: Ich lebe in der Innenstadt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

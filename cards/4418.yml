@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: wesentlich; substantiell
-Notiz: ''
 Beispielsatz: 税金は実質的に値上がりするでしょう。
 Beispielsatz-Lesung: 税金[ぜいきん]は 実質的[じっしつてき]に 値上[ねあ]がりするでしょう。
 Beispielsatz-Übersetzung: Die Steuer wird wesentlich erhöht werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: werfen; etwas unerledigt lassen
-Notiz: ''
 Beispielsatz: ボールを壁に放り投げた。
 Beispielsatz-Lesung: ボールを 壁[かべ]に 放[ほう]り 投[な]げた。
 Beispielsatz-Übersetzung: Ich habe einen Ball gegen die Wand geworfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

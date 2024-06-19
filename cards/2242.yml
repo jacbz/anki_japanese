@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Szene
-Notiz: ''
 Beispielsatz: 映画のこのシーンが好きです。
 Beispielsatz-Lesung: 映画[えいが]のこのシーンが 好[す]きです。
 Beispielsatz-Übersetzung: Ich mag diese Szene im Film.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

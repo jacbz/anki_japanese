@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: perfekt
-Notiz: ''
 Beispielsatz: 彼女の演奏は完璧だった。
 Beispielsatz-Lesung: 彼女[かのじょ]の 演奏[えんそう]は 完璧[かんぺき]だった。
 Beispielsatz-Übersetzung: Ihre Aufführung war perfekt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

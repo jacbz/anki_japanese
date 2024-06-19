@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: auslegen, legen
-Notiz: ''
 Beispielsatz: 床にカーペットを敷いた。
 Beispielsatz-Lesung: 床[ゆか]にカーペットを 敷[し]いた。
 Beispielsatz-Übersetzung: Ich habe einen Teppich auf den Boden gelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

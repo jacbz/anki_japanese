@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: essen, konsumieren
-Notiz: ''
 Beispielsatz: あの車はかなりガソリンを食う。
 Beispielsatz-Lesung: あの 車[くるま]はかなりガソリンを 食[く]う。
 Beispielsatz-Übersetzung: Dieses Auto verbraucht viel Benzin beim Fahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

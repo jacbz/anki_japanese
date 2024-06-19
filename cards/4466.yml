@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: einseitig
-Notiz: ''
 Beispielsatz: 彼とけんかして一方的に電話を切られた。
 Beispielsatz-Lesung: 彼[かれ]とけんかして 一方[いっぽう] 的[てき]に 電話[でんわ]を 切[き]られた。
 Beispielsatz-Übersetzung: Ich hatte einen Streit mit ihm und er hat einfach aufgelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

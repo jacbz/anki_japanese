@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Blume
-Notiz: ''
 Beispielsatz: 公園に花が咲いている。
 Beispielsatz-Lesung: 公園[こうえん]に 花[はな]が 咲[さ]いている。
 Beispielsatz-Übersetzung: Die Blumen blühen im Park.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

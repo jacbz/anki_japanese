@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: pron.
 Definition: wer
-Notiz: ''
 Beispielsatz: 誰を待っているんですか。
 Beispielsatz-Lesung: 誰[だれ]を 待[ま]っているんですか。
 Beispielsatz-Übersetzung: Wen wartest du?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wahl
-Notiz: ''
 Beispielsatz: 次の選挙は来年行われる。
 Beispielsatz-Lesung: 次[つぎ]の 選挙[せんきょ]は 来年[らいねん] 行[おこな]われる。
 Beispielsatz-Übersetzung: Die nächste Wahl findet im nächsten Jahr statt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

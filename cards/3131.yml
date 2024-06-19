@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bereit sein; gut reguliert sein
-Notiz: ''
 Beispielsatz: 準備が整うまで少々お待ちください。
 Beispielsatz-Lesung: 準備[じゅんび]が 整[ととの]うまで 少々[しょうしょう]お 待[ま]ちください。
 Beispielsatz-Übersetzung: Bitte warten Sie einen Moment, bis die Vorbereitungen abgeschlossen
   sind.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

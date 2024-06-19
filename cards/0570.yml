@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: entfernen, abgehen
-Notiz: ''
 Beispielsatz: コートのボタンが取れた。
 Beispielsatz-Lesung: コートのボタンが 取[と]れた。
 Beispielsatz-Übersetzung: Der Knopf ist von meinem Mantel abgegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

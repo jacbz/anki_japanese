@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: roh; frisch; lebendig
-Notiz: ''
 Beispielsatz: その魚は生で食べられる。
 Beispielsatz-Lesung: その 魚[さかな]は 生[なま]で 食[た]べられる。
 Beispielsatz-Übersetzung: Der Fisch kann roh gegessen werden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

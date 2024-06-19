@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: und, oder
-Notiz: ''
 Beispielsatz: 掃除やら洗濯やらやることが多い。
 Beispielsatz-Lesung: 掃除[そうじ]やら 洗濯[せんたく]やらやることが 多[おお]い。
 Beispielsatz-Übersetzung: Ich habe viele Dinge zu tun, wie zum Beispiel das Haus zu
   putzen und die Wäsche zu waschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

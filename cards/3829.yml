@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haustierbesitzer
-Notiz: ''
 Beispielsatz: ペットの面倒を見ることは、飼い主の義務だ。
 Beispielsatz-Lesung: ペットの 面倒[めんどう]を 見[み]ることは、 飼[か]い 主[ぬし]の 義務[ぎむ]だ。
 Beispielsatz-Übersetzung: Es ist die Pflicht des Haustierbesitzers, sich um seine
   Haustiere zu kümmern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zimmer
-Notiz: ''
 Beispielsatz: 自分の部屋に戻った。
 Beispielsatz-Lesung: 自分[じぶん]の 部屋[へや]に 戻[もど]った。
 Beispielsatz-Übersetzung: Ich bin zurück in mein Zimmer gegangen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

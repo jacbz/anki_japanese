@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: schrecklich, furchtbar, erstaunlich, schlimm
-Notiz: ''
 Beispielsatz: がんは恐ろしい病気だ。
 Beispielsatz-Lesung: がんは 恐[おそ]ろしい 病気[びょうき]だ。
 Beispielsatz-Übersetzung: Krebs ist eine schreckliche Krankheit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

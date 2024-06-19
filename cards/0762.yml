@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich freuen
-Notiz: ''
 Beispielsatz: 私たちはニュースを聞いて喜んだ。
 Beispielsatz-Lesung: 私[わたし]たちはニュースを 聞[き]いて 喜[よろこ]んだ。
 Beispielsatz-Übersetzung: Wir haben uns gefreut, die Nachrichten zu hören.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

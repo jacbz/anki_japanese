@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vier Uhr
-Notiz: ''
 Beispielsatz: 四時に仕事が終わる。
 Beispielsatz-Lesung: 四 時[じ]に 仕事[しごと]が 終[お]わる。
 Beispielsatz-Übersetzung: Die Arbeit endet um vier Uhr.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

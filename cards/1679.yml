@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rücken
-Notiz: ''
 Beispielsatz: 時々背中が痛い。
 Beispielsatz-Lesung: 時々[ときどき] 背中[せなか]が 痛[いた]い。
 Beispielsatz-Übersetzung: Manchmal habe ich Schmerzen im Rücken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

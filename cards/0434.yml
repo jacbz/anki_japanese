@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei
-Notiz: ''
 Beispielsatz: リンゴを二つ買った。
 Beispielsatz-Lesung: リンゴを 二[ふた]つ 買[か]った。
 Beispielsatz-Übersetzung: Ich habe zwei Äpfel gekauft.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

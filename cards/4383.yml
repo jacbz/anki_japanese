@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: in letzter Zeit
-Notiz: ''
 Beispielsatz: 昨今物価が非常に高い。
 Beispielsatz-Lesung: 昨今[さっこん] 物価[ぶっか]が 非常[ひじょう]に 高[たか]い。
 Beispielsatz-Übersetzung: In letzter Zeit ist das Wetter nicht gut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gesicht
-Notiz: ''
 Beispielsatz: 毎朝、顔を洗う。
 Beispielsatz-Lesung: 毎朝[まいあさ]、 顔[かお]を 洗[あら]う。
 Beispielsatz-Übersetzung: Ich wasche mein Gesicht jeden Morgen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

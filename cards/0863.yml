@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich anstellen, Schlange stehen
-Notiz: ''
 Beispielsatz: 彼は有名人を見ようと通りに並んだ。
 Beispielsatz-Lesung: 彼[かれ]は 有名人[ゆうめいじん]を 見[み]ようと 通[とお]りに 並[なら]んだ。
 Beispielsatz-Übersetzung: Er stellte sich auf der Straße an, um die Prominenten zu
   sehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

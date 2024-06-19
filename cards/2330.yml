@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: eng, vertraut
-Notiz: ''
 Beispielsatz: 親しい友人と一緒に食事をした。
 Beispielsatz-Lesung: 親[した]しい 友人[ゆうじん]と 一緒[いっしょ]に 食事[しょくじ]をした。
 Beispielsatz-Übersetzung: Ich habe mit engen Freunden zu Abend gegessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

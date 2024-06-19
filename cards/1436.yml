@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: kostenlos, gebührenfrei
-Notiz: ''
 Beispielsatz: 六歳以下の子供は入場料が無料です。
 Beispielsatz-Lesung: 六 歳[さい] 以下[いか]の 子供[こども]は 入場料[にゅうじょうりょう]が 無料[むりょう]です。
 Beispielsatz-Übersetzung: Der Eintritt ist für Kinder unter sechs Jahren kostenlos.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

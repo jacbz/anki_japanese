@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Ausland, fremd
-Notiz: ''
 Beispielsatz: 家族で休暇を海外で過ごした。
 Beispielsatz-Lesung: 家族[かぞく]で 休暇[きゅうか]を 海外[かいがい]で 過[す]ごした。
 Beispielsatz-Übersetzung: Ich habe mit meiner Familie einen Urlaub im Ausland gemacht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

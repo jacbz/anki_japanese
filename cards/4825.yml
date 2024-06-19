@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: überraschenderweise
-Notiz: ''
 Beispielsatz: テストは案外難しかった。
 Beispielsatz-Lesung: テストは 案外[あんがい] 難[むずか]しかった。
 Beispielsatz-Übersetzung: Die Prüfung war schwieriger als ich erwartet hatte.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

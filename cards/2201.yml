@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schreibtisch
-Notiz: ''
 Beispielsatz: 机に向かって仕事をしなければならない。
 Beispielsatz-Lesung: 机[つくえ]に 向[む]かって 仕事[しごと]をしなければならない。
 Beispielsatz-Übersetzung: Ich muss an meinem Schreibtisch sitzen und arbeiten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gebühr, Preis, Tarif
-Notiz: ''
 Beispielsatz: 料金は着いてから払ってください。
 Beispielsatz-Lesung: 料金[りょうきん]は 着[つ]いてから 払[はら]ってください。
 Beispielsatz-Übersetzung: Bezahlen Sie Ihre Gebühr, wenn Sie dort ankommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

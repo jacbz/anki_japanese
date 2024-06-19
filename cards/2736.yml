@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: verbrennen
-Notiz: ''
 Beispielsatz: 母は毎日線香をたく。
 Beispielsatz-Lesung: 母[はは]は 毎日[まいにち] 線香[せんこう]をたく。
 Beispielsatz-Übersetzung: Meine Mutter verbrennt jeden Tag Räucherstäbchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

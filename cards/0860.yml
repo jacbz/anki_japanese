@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sammeln
-Notiz: ''
 Beispielsatz: 彼は切手を集めている。
 Beispielsatz-Lesung: 彼[かれ]は 切手[きって]を 集[あつ]めている。
 Beispielsatz-Übersetzung: Er sammelt Briefmarken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

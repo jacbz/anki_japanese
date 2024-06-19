@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: hinzufügen
-Notiz: ''
 Beispielsatz: 何か付け加えることはありませんか。
 Beispielsatz-Lesung: 何[なに]か 付[つ]け 加[くわ]えることはありませんか。
 Beispielsatz-Übersetzung: Möchten Sie etwas hinzufügen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

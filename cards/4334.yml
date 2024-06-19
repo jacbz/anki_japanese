@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Position, Status
-Notiz: ''
 Beispielsatz: 身分が違うので彼女と結婚できない。
 Beispielsatz-Lesung: 身分[みぶん]が 違[ちが]うので 彼女[かのじょ]と 結婚[けっこん]できない。
 Beispielsatz-Übersetzung: Ich kann sie aufgrund des Unterschieds im sozialen Status
   nicht heiraten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

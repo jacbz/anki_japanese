@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Idee, Gedanke
-Notiz: ''
 Beispielsatz: 考えがあります。
 Beispielsatz-Lesung: 考[かんが]えがあります。
 Beispielsatz-Übersetzung: Ich habe eine Idee.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

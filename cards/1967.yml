@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: nächstes Jahr
-Notiz: ''
 Beispielsatz: 私は来年大学を卒業する。
 Beispielsatz-Lesung: 私[わたし]は 来年[らいねん] 大学[だいがく]を 卒業[そつぎょう]する。
 Beispielsatz-Übersetzung: Ich werde nächstes Jahr von der Universität absolvieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Universitätszeit
-Notiz: ''
 Beispielsatz: 大学時代にラグビーをやっていました。
 Beispielsatz-Lesung: 大学[だいがく] 時代[じだい]にラグビーをやっていました。
 Beispielsatz-Übersetzung: Ich habe Rugby während meiner Universitätszeit gespielt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

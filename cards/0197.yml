@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zurückkehren (in Ursprungszustand)
-Notiz: Bedeutet, dass etwas an seinen ursprünglichen Ort zurückkehrt.<br><br>ハサミが机の上に返っている。<br><i>Die
-  Schere liegt wieder auf dem Schreibtisch.</i>
 Beispielsatz: 私の本を返してくれませんか。
 Beispielsatz-Lesung: 私[わたし]の 本[ほん]を 返[かえ]してくれませんか。
 Beispielsatz-Übersetzung: Kannst du mir mein Buch zurückgeben?
+
+# Notizen können HTML enthalten.            
+Notiz: Bedeutet, dass etwas an seinen ursprünglichen Ort zurückkehrt.<br><br>ハサミが机の上に返っている。<br><i>Die
+  Schere liegt wieder auf dem Schreibtisch.</i>

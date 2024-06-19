@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Klage, Prozess
-Notiz: ''
 Beispielsatz: 訴訟の弁護を友人の弁護士に頼んだ。
 Beispielsatz-Lesung: 訴訟[そしょう]の 弁護[べんご]を 友人[ゆうじん]の 弁護士[べんごし]に 頼[たの]んだ。
 Beispielsatz-Übersetzung: Ich habe einen befreundeten Anwalt gebeten, mich in der
   Klage zu verteidigen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

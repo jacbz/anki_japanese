@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: durchlaufen, erleben
-Notiz: ''
 Beispielsatz: 彼女はつらい体験を経て精神的に強くなった。
 Beispielsatz-Lesung: 彼女[かのじょ]はつらい 体験[たいけん]を 経[へ]て 精神的[せいしんてき]に 強[つよ]くなった。
 Beispielsatz-Übersetzung: Sie wurde nach dem Durchlaufen von Schwierigkeiten mental
   stark.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

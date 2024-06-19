@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Firma, Menge; diese Typen
-Notiz: ''
 Beispielsatz: 彼は悪い連中と付き合っている。
 Beispielsatz-Lesung: 彼[かれ]は 悪[わる]い 連中[れんちゅう]と 付[つ]き 合[あ]っている。
 Beispielsatz-Übersetzung: Er hat mit schlechten Typen zu tun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fängt an, beginnt
-Notiz: intransitiv
 Beispielsatz: 日本では新学期は四月に始まる。
 Beispielsatz-Lesung: 日本[にっぽん]では 新学期[しんがっき]は 四月[しがつ]に 始[はじ]まる。
 Beispielsatz-Übersetzung: Das neue Schuljahr beginnt in Japan im April.
+
+# Notizen können HTML enthalten.            
+Notiz: intransitiv

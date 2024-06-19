@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich bemühen, sich anstrengen
-Notiz: ''
 Beispielsatz: 息子は日々学業に励んでいる。
 Beispielsatz-Lesung: 息子[むすこ]は 日々[ひび] 学業[がくぎょう]に 励[はげ]んでいる。
 Beispielsatz-Übersetzung: Mein Sohn bemüht sich jeden Tag hart zu studieren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

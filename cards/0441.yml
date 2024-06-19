@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vergessen
-Notiz: ''
 Beispielsatz: 忘れないでください。
 Beispielsatz-Lesung: 忘[わす]れないでください。
 Beispielsatz-Übersetzung: Vergiss nicht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

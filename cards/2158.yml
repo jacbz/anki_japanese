@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: zwanzig
-Notiz: ''
 Beispielsatz: この容器は20リットル入る。
 Beispielsatz-Lesung: この 容器[ようき]は20リットル 入[はい]る。
 Beispielsatz-Übersetzung: Dieser Behälter fasst zwanzig Liter.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

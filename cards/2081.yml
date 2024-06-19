@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mama
-Notiz: ''
 Beispielsatz: おやすみなさい、ママ。
 Beispielsatz-Lesung: おやすみなさい、ママ。
 Beispielsatz-Übersetzung: Gute Nacht, Mama.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

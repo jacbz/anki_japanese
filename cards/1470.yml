@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ausfallen; locker werden; ausgelassen werden; verlassen werden
-Notiz: ''
 Beispielsatz: ストレスのせいで髪が抜けてしまった。
 Beispielsatz-Lesung: ストレスのせいで 髪[かみ]が 抜[ぬ]けてしまった。
 Beispielsatz-Übersetzung: Der Stress hat dazu geführt, dass mir die Haare ausgefallen
   sind.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

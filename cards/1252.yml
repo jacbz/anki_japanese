@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Niveau
-Notiz: ''
 Beispielsatz: この教科書は中級のレベルの学習者向けです。
 Beispielsatz-Lesung: この 教科書[きょうかしょ]は 中級[ちゅうきゅう]のレベルの 学習者[がくしゅうしゃ] 向[む]けです。
 Beispielsatz-Übersetzung: Dieses Lehrbuch richtet sich an Lernende der Mittelstufe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

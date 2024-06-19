@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: noch
-Notiz: ''
 Beispielsatz: まだ雨が降っている。
 Beispielsatz-Lesung: まだ 雨[あめ]が 降[ふ]っている。
 Beispielsatz-Übersetzung: Es regnet noch immer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

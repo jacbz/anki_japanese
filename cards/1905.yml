@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sofort, ohne Zeit zu verlieren
-Notiz: ''
 Beispielsatz: 彼は職場に来ると早速仕事を始めた。
 Beispielsatz-Lesung: 彼[かれ]は 職場[しょくば]に 来[く]ると 早速[さっそく] 仕事[しごと]を 始[はじ]めた。
 Beispielsatz-Übersetzung: Er begann sofort zu arbeiten, als er im Büro ankam.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

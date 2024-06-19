@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schwert
-Notiz: ''
 Beispielsatz: 侍は刀をさやに納めた。
 Beispielsatz-Lesung: 侍[さむらい]は 刀[かたな]をさやに 納[おさ]めた。
 Beispielsatz-Übersetzung: Der Samurai steckte sein Schwert in die Scheide.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

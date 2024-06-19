@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Rolle, Aufgabe, Pflicht
-Notiz: ''
 Beispielsatz: その芝居では男性が女性の役を演じる。
 Beispielsatz-Lesung: その 芝居[しばい]では 男性[だんせい]が 女性[じょせい]の 役[やく]を 演[えん]じる。
 Beispielsatz-Übersetzung: Männer spielen Frauenrollen im Theaterstück.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

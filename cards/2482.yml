@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Männer und Frauen
-Notiz: ''
 Beispielsatz: この学校は男女共学だ。
 Beispielsatz-Lesung: この 学校[がっこう]は 男女共学[だんじょきょうがく]だ。
 Beispielsatz-Übersetzung: Diese Schule ist für Männer und Frauen offen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

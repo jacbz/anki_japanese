@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Land, ländliche Gegend
-Notiz: ''
 Beispielsatz: 私は田舎で育ちました。
 Beispielsatz-Lesung: 私[わたし]は 田舎[いなか]で 育[そだ]ちました。
 Beispielsatz-Übersetzung: Ich bin auf dem Land aufgewachsen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

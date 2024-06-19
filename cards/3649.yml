@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: vererben
-Notiz: ''
 Beispielsatz: この伝統は脈々と受け継がれてきた。
 Beispielsatz-Lesung: この 伝統[でんとう]は 脈々[みゃくみゃく]と 受[う]け 継[つ]がれてきた。
 Beispielsatz-Übersetzung: Die Tradition wurde von Generation zu Generation vererbt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

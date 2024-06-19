@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Verkehr; Transport
-Notiz: ''
 Beispielsatz: ここは交通の便が悪い。
 Beispielsatz-Lesung: ここは 交通[こうつう]の 便[べん]が 悪[わる]い。
 Beispielsatz-Übersetzung: Der öffentliche Verkehr ist in diesem Bereich sehr schlecht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

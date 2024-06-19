@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: eintreten, hineingehen
-Notiz: ''
 Beispielsatz: どうぞお入りください。
 Beispielsatz-Lesung: どうぞお 入[はい]りください。
 Beispielsatz-Übersetzung: Bitte treten Sie ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

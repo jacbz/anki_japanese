@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: unbewohnt, leer
-Notiz: ''
 Beispielsatz: その駅は、無人だった。
 Beispielsatz-Lesung: その 駅[えき]は、 無人[むじん]だった。
 Beispielsatz-Übersetzung: Der Bahnhof war verlassen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: die Niederlande, Holland
-Notiz: ''
 Beispielsatz: 江戸時代に日本はオランダと交易を行っていた。
 Beispielsatz-Lesung: 江戸時代[えどじだい]に 日本[にっぽん]はオランダと 交易[こうえき]を 行[おこな]っていた。
 Beispielsatz-Übersetzung: Japan hat im Edo-Zeitalter Handel mit den Niederlanden betrieben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

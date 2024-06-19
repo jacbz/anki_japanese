@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen, zusammenbrechen
-Notiz: ''
 Beispielsatz: その木は台風で倒れてしまった。
 Beispielsatz-Lesung: その 木[き]は 台風[たいふう]で 倒[たお]れてしまった。
 Beispielsatz-Übersetzung: Der Baum fiel in einem Taifun um.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

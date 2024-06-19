@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: geben (ehrfüchtig)
-Notiz: ''
 Beispielsatz: 先生が本をくださいました。
 Beispielsatz-Lesung: 先生[せんせい]が 本[ほん]をくださいました。
 Beispielsatz-Übersetzung: Der Lehrer hat mir ein Buch gegeben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

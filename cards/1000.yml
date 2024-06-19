@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: darf nicht, sollte nicht
-Notiz: ''
 Beispielsatz: 約束を忘れてはいけない。
 Beispielsatz-Lesung: 約束[やくそく]を 忘[わす]れてはいけない。
 Beispielsatz-Übersetzung: Du darfst dein Versprechen nicht vergessen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

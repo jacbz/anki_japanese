@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: zwei Uhr
-Notiz: ''
 Beispielsatz: 二時にうちに帰る。
 Beispielsatz-Lesung: 二 時[じ]にうちに 帰[かえ]る。
 Beispielsatz-Übersetzung: Ich gehe um zwei Uhr nach Hause.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

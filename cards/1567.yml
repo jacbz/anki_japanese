@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kompakt-Disk
-Notiz: ''
 Beispielsatz: このＣＤを借りてもいいですか。
 Beispielsatz-Lesung: このＣＤを 借[か]りてもいいですか。
 Beispielsatz-Übersetzung: Kann ich diese CD ausleihen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

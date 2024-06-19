@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: auf und ab
-Notiz: ''
 Beispielsatz: 船が激しく上下に揺れている。
 Beispielsatz-Lesung: 船[ふね]が 激[はげ]しく 上下[じょうげ]に 揺[ゆ]れている。
 Beispielsatz-Übersetzung: Das Schiff wird heftig hin- und hergeschüttelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schönheit
-Notiz: ''
 Beispielsatz: 彼女の美しさは比類がない。
 Beispielsatz-Lesung: 彼女[かのじょ]の 美[うつく]しさは 比類[ひるい]がない。
 Beispielsatz-Übersetzung: Ihre Schönheit ist unvergleichlich.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

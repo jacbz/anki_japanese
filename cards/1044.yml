@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Sport
-Notiz: ''
 Beispielsatz: どんなスポーツをしますか。
 Beispielsatz-Lesung: どんなスポーツをしますか。
 Beispielsatz-Übersetzung: Welche Art von Sport treibst du?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

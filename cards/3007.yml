@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: reibungslos, zufriedenstellend, günstig
-Notiz: ''
 Beispielsatz: 新事業は順調なスタートを切った。
 Beispielsatz-Lesung: 新[しん] 事業[じぎょう]は 順調[じゅんちょう]なスタートを 切[き]った。
 Beispielsatz-Übersetzung: Das neue Geschäft hat einen günstigen Start hingelegt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

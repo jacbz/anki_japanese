@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: gut, ordentlich, herzliche Grüße
-Notiz: ''
 Beispielsatz: 彼によろしくお伝えください。
 Beispielsatz-Lesung: 彼[かれ]によろしくお 伝[つた]えください。
 Beispielsatz-Übersetzung: Bitte grüßen Sie ihn herzlich von mir.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

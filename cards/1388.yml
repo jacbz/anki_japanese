@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: heiß, warm
-Notiz: ''
 Beispielsatz: 今日は特に暑いですね。
 Beispielsatz-Lesung: 今日[きょう]は 特[とく]に 暑[あつ]いですね。
 Beispielsatz-Übersetzung: Es ist heute besonders heiß, nicht wahr?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lebenszeit, Lebensdauer; Karriere
-Notiz: ''
 Beispielsatz: 彼は幸せな生涯を送った。
 Beispielsatz-Lesung: 彼[かれ]は 幸[しあわ]せな 生涯[しょうがい]を 送[おく]った。
 Beispielsatz-Übersetzung: Er lebte ein glückliches Leben.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Dialekt
-Notiz: ''
 Beispielsatz: 家族と話すときは方言を使う。
 Beispielsatz-Lesung: 家族[かぞく]と 話[はな]すときは 方言[ほうげん]を 使[つか]う。
 Beispielsatz-Übersetzung: Ich spreche im lokalen Dialekt, wenn ich mit meinen Familienmitgliedern
   spreche.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

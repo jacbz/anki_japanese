@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Interesse, Spaß
-Notiz: ''
 Beispielsatz: あの小説の面白さがわからない。
 Beispielsatz-Lesung: あの 小説[しょうせつ]の 面白[おもしろ]さがわからない。
 Beispielsatz-Übersetzung: Ich verstehe nicht, was an diesem Roman interessant ist.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Beton
-Notiz: ''
 Beispielsatz: 土台はコンクリートで固められています。
 Beispielsatz-Lesung: 土台[どだい]はコンクリートで 固[かた]められています。
 Beispielsatz-Übersetzung: Das Fundament ist in Beton eingebettet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

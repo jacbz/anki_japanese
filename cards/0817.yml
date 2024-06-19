@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: direkt
-Notiz: ''
 Beispielsatz: 彼女に直接頼むつもりだ。
 Beispielsatz-Lesung: 彼女[かのじょ]に 直接[ちょくせつ] 頼[たの]むつもりだ。
 Beispielsatz-Übersetzung: Ich werde sie direkt fragen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

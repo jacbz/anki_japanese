@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: ausbreiten, erweitern
-Notiz: ''
 Beispielsatz: 彼女は机に新聞を広げた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 机[つくえ]に 新聞[しんぶん]を 広[ひろ]げた。
 Beispielsatz-Übersetzung: Sie breitete eine Zeitung auf dem Schreibtisch aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

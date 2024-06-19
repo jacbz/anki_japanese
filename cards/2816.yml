@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lebewesen, Kreatur
-Notiz: ''
 Beispielsatz: あらゆる生き物を大切にしなさい。
 Beispielsatz-Lesung: あらゆる 生[い]き 物[もの]を 大切[たいせつ]にしなさい。
 Beispielsatz-Übersetzung: Achte auf alle Lebewesen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

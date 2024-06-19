@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: nähen
-Notiz: ''
 Beispielsatz: 母は私にドレスを縫ってくれた。
 Beispielsatz-Lesung: 母[はは]は 私[わたし]にドレスを 縫[ぬ]ってくれた。
 Beispielsatz-Übersetzung: Meine Mutter hat mir ein Kleid genäht.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

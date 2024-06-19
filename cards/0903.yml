@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufwachsen
-Notiz: ''
 Beispielsatz: 私は京都で育った。
 Beispielsatz-Lesung: 私[わたし]は 京都[きょうと]で 育[そだ]った。
 Beispielsatz-Übersetzung: Ich bin in Kyoto aufgewachsen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

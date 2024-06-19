@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: jährlich; Jahres-
-Notiz: ''
 Beispielsatz: これが年間計画です。
 Beispielsatz-Lesung: これが 年間計画[ねんかんけいかく]です。
 Beispielsatz-Übersetzung: Dies ist der Jahresplan.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Hm?
-Notiz: ''
 Beispielsatz: あれ？髪の毛切った？
 Beispielsatz-Lesung: あれ？ 髪[かみ]の 毛[け] 切[き]った？
 Beispielsatz-Übersetzung: Hm? Hast du dir die Haare geschnitten?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

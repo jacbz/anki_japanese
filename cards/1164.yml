@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: bei; in; auf
-Notiz: ''
 Beispielsatz: この会場において国際会議が行われる。
 Beispielsatz-Lesung: この 会場[かいじょう]において 国際[こくさい] 会議[かいぎ]が 行[おこな]われる。
 Beispielsatz-Übersetzung: An diesem Ort wird eine internationale Konferenz stattfinden.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

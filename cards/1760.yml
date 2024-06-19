@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Boden; Sohle
-Notiz: ''
 Beispielsatz: 心の底から彼女を愛している。
 Beispielsatz-Lesung: 心[こころ]の 底[そこ]から 彼女[かのじょ]を 愛[あい]している。
 Beispielsatz-Übersetzung: Ich liebe sie aus tiefstem Herzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

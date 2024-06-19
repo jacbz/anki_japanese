@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Tür
-Notiz: ''
 Beispielsatz: 扉を開けると、冷たい風が入ってきた。
 Beispielsatz-Lesung: 扉[とびら]を 開[あ]けると、 冷[つめ]たい 風[かぜ]が 入[はい]ってきた。
 Beispielsatz-Übersetzung: Als ich die Tür öffnete, kam kalter Wind herein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

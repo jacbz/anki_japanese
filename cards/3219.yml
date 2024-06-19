@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Maßnahme, Politik
-Notiz: ''
 Beispielsatz: 新たな施策を講じる必要がある。
 Beispielsatz-Lesung: 新[あら]たな 施策[しさく]を 講[こう]じる 必要[ひつよう]がある。
 Beispielsatz-Übersetzung: Es ist notwendig, neue Maßnahmen zu ergreifen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Bahnhof
-Notiz: ''
 Beispielsatz: 次の駅で電車を降ります。
 Beispielsatz-Lesung: 次[つぎ]の 駅[えき]で 電車[でんしゃ]を 降[お]ります。
 Beispielsatz-Übersetzung: Ich steige am nächsten Bahnhof aus dem Zug aus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

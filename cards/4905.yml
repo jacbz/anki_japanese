@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Staub
-Notiz: ''
 Beispielsatz: 埃だらけになった。
 Beispielsatz-Lesung: 埃[ほこり]だらけになった。
 Beispielsatz-Übersetzung: Ich war von Kopf bis Fuß mit Staub bedeckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

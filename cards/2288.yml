@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: baden
-Notiz: ''
 Beispielsatz: シャワーを浴びるね。
 Beispielsatz-Lesung: シャワーを 浴[あ]びるね。
 Beispielsatz-Übersetzung: Ich werde duschen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

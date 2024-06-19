@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Schrei
-Notiz: ''
 Beispielsatz: 深夜悲鳴を聞いて駆け付けた。
 Beispielsatz-Lesung: 深夜[しんや] 悲鳴[ひめい]を 聞[き]いて 駆[か]け 付[つ]けた。
 Beispielsatz-Übersetzung: Ich hörte spät in der Nacht einen Schrei und rannte zu Hilfe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: zeigen, ausdrücken, symbolisieren
-Notiz: ''
 Beispielsatz: この言葉は私の気持ちをよく表している。
 Beispielsatz-Lesung: この 言葉[ことば]は 私[わたし]の 気持[きも]ちをよく 表[あらわ]している。
 Beispielsatz-Übersetzung: Diese Worte zeigen wirklich meine Gefühle.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

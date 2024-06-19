@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: PC
-Notiz: ''
 Beispielsatz: 新しいパソコンを買いたい。
 Beispielsatz-Lesung: 新[あたら]しいパソコンを 買[か]いたい。
 Beispielsatz-Übersetzung: Ich möchte einen neuen Personalcomputer kaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

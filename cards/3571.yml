@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: groß, riesig
-Notiz: ''
 Beispielsatz: あいつは体がでかい。
 Beispielsatz-Lesung: あいつは 体[からだ]がでかい。
 Beispielsatz-Übersetzung: Er ist riesig.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

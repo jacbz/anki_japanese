@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: angehen, sich befassen mit
-Notiz: ''
 Beispielsatz: 彼は十年以上環境問題に取り組んできた。
 Beispielsatz-Lesung: 彼[かれ]は十 年[ねん] 以上[いじょう] 環境問題[かんきょうもんだい]に 取[と]り 組[く]んできた。
 Beispielsatz-Übersetzung: Er hat sich seit über zehn Jahren mit Umweltproblemen auseinandergesetzt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

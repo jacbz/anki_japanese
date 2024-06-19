@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Methode, Art und Weise
-Notiz: ''
 Beispielsatz: クレジットカードは人々の買い物の仕方を変えた。
 Beispielsatz-Lesung: クレジットカードは 人々[ひとびと]の 買[か]い 物[もの]の 仕方[しかた]を 変[か]えた。
 Beispielsatz-Übersetzung: Kreditkarten haben die Art und Weise verändert, wie Menschen
   einkaufen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

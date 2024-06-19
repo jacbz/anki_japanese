@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zeitraum, Dauer, Frist
-Notiz: ''
 Beispielsatz: 契約の期間を延長したいです。
 Beispielsatz-Lesung: 契約[けいやく]の 期間[きかん]を 延長[えんちょう]したいです。
 Beispielsatz-Übersetzung: Ich möchte die Dauer des Vertrags verlängern.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

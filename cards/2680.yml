@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Magen
-Notiz: ''
 Beispielsatz: 胃が痛い。
 Beispielsatz-Lesung: 胃[い]が 痛[いた]い。
 Beispielsatz-Übersetzung: Ich habe Magenschmerzen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

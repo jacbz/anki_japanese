@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: kratzen; paddeln; schaufeln
-Notiz: ''
 Beispielsatz: かゆくてもかいてはいけない。
 Beispielsatz-Lesung: 痒[かゆ]くてもかいてはいけない。
 Beispielsatz-Übersetzung: Du darfst nicht kratzen, auch wenn es juckt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

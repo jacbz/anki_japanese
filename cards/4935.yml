@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: i-adj.
 Definition: wenig, knapp
-Notiz: ''
 Beispielsatz: この国は資源が乏しい。
 Beispielsatz-Lesung: この 国[くに]は 資源[しげん]が 乏[とぼ]しい。
 Beispielsatz-Übersetzung: Dieses Land hat wenig natürliche Ressourcen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Händler, Agent, Betreiber
-Notiz: ''
 Beispielsatz: この部屋の掃除は業者に頼んである。
 Beispielsatz-Lesung: この 部屋[へや]の 掃除[そうじ]は 業者[ぎょうしゃ]に 頼[たの]んである。
 Beispielsatz-Übersetzung: Ich habe die Reinigung dieses Zimmers von einem Unternehmen
   beauftragt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Luft, Atmosphäre
-Notiz: ''
 Beispielsatz: 山の中は空気がきれいだ。
 Beispielsatz-Lesung: 山[やま]の 中[なか]は 空気[くうき]がきれいだ。
 Beispielsatz-Übersetzung: Die Luft in den Bergen ist sauber.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: p.
 Definition: wie zum Beispiel, wie etwa
-Notiz: ''
 Beispielsatz: 彼なんかにできるはずがない。
 Beispielsatz-Lesung: 彼[かれ]なんかにできるはずがない。
 Beispielsatz-Übersetzung: Jemand wie er könnte es niemals tun.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

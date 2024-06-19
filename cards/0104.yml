@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: aux.
 Definition: AUFFORDERUNG
-Notiz: ''
 Beispielsatz: さあ、行こう。
 Beispielsatz-Lesung: さあ、 行[い]こう。
 Beispielsatz-Übersetzung: Lass uns gehen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Körper
-Notiz: ''
 Beispielsatz: 彼は強じんな肉体の持ち主だ。
 Beispielsatz-Lesung: 彼[かれ]は 強[きょう]じんな 肉体[にくたい]の 持[も]ち 主[ぬし]だ。
 Beispielsatz-Übersetzung: Er hat einen starken Körper.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: rechts
-Notiz: ''
 Beispielsatz: 次の角を右に曲がってください。
 Beispielsatz-Lesung: 次[つぎ]の 角[かく]を 右[みぎ]に 曲[ま]がってください。
 Beispielsatz-Übersetzung: An der nächsten Ecke biegen Sie bitte rechts ab.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: fallen, ausrutschen
-Notiz: ''
 Beispielsatz: 雪が降っているので転ばないように気をつけてください。
 Beispielsatz-Lesung: 雪[ゆき]が 降[ふ]っているので 転[ころ]ばないように 気[き]をつけてください。
 Beispielsatz-Übersetzung: Es schneit, also pass bitte auf, dass du nicht fällst.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

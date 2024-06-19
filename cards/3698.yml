@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Chinesisch
-Notiz: ''
 Beispielsatz: 中国語を習っている。
 Beispielsatz-Lesung: 中国語[ちゅうごくご]を 習[なら]っている。
 Beispielsatz-Übersetzung: Ich lerne Chinesisch.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

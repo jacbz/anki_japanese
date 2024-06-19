@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mittag; Tageszeit
-Notiz: ''
 Beispielsatz: 夫は仕事に行っていて昼は家にいません。
 Beispielsatz-Lesung: 夫[おっと]は 仕事[しごと]に 行[い]っていて 昼[ひる]は 家[いえ]にいません。
 Beispielsatz-Übersetzung: Mein Mann geht tagsüber arbeiten und ist nicht zu Hause.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

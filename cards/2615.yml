@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: tauchen, springen
-Notiz: ''
 Beispielsatz: プールに飛び込むのは危険です。
 Beispielsatz-Lesung: プールに 飛[と]び 込[こ]むのは 危険[きけん]です。
 Beispielsatz-Übersetzung: Es ist gefährlich, in den Pool zu springen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

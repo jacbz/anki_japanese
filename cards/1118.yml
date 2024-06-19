@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv. n.
 Definition: Verhältnis, Prozentsatz
-Notiz: ''
 Beispielsatz: 世界の人口は一日に約百人の割合で増加している。
 Beispielsatz-Lesung: 世界[せかい]の 人口[じんこう]は一 日[にち]に 約[やく] 百[ひゃく]人の 割合[わりあい]で 増加[ぞうか]している。
 Beispielsatz-Übersetzung: Die Weltbevölkerung wächst mit einer Rate von etwa hundert
   Menschen pro Tag.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

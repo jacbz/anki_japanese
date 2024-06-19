@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Milch
-Notiz: ''
 Beispielsatz: 床にミルクをこぼした。
 Beispielsatz-Lesung: 床[ゆか]にミルクをこぼした。
 Beispielsatz-Übersetzung: Ich habe Milch auf den Boden verschüttet.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

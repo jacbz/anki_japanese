@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Oberfläche, Außenseite, Erscheinungsbild
-Notiz: ''
 Beispielsatz: この紙の表面はざらざらしている。
 Beispielsatz-Lesung: この 紙[かみ]の 表面[ひょうめん]はざらざらしている。
 Beispielsatz-Übersetzung: Die Oberfläche dieses Papiers ist rau.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

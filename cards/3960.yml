@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: konfrontieren
-Notiz: ''
 Beispielsatz: そのホテルは海を臨んでいる。
 Beispielsatz-Lesung: そのホテルは 海[うみ]を 臨[のぞ]んでいる。
 Beispielsatz-Übersetzung: Das Hotel liegt direkt am Meer.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

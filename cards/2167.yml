@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: alltäglich, täglich, gewöhnlich
-Notiz: ''
 Beispielsatz: それが彼の日常の仕事だ。
 Beispielsatz-Lesung: それが 彼[かれ]の 日常[にちじょう]の 仕事[しごと]だ。
 Beispielsatz-Übersetzung: Das ist seine tägliche Arbeit.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

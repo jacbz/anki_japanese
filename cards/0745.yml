@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Land, Grundstück
-Notiz: ''
 Beispielsatz: 彼はたくさんの土地を所有している。
 Beispielsatz-Lesung: 彼[かれ]はたくさんの 土地[とち]を 所有[しょゆう]している。
 Beispielsatz-Übersetzung: Er besitzt viel Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

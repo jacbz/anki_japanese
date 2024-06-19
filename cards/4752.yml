@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Finanzministerium
-Notiz: ''
 Beispielsatz: 大蔵省がこの国の財産を管理している。
 Beispielsatz-Lesung: 大蔵省[おおくらしょう]がこの 国[くに]の 財産[ざいさん]を 管理[かんり]している。
 Beispielsatz-Übersetzung: Das Finanzministerium verwaltet das nationale Vermögen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

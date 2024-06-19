@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Heimatgebiet, lokale Gegend
-Notiz: ''
 Beispielsatz: これは地元で一番にぎやかな通りです。
 Beispielsatz-Lesung: これは 地元[じもと]で 一番[いちばん]にぎやかな 通[とお]りです。
 Beispielsatz-Übersetzung: Dies ist die belebteste Straße in der lokalen Gegend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

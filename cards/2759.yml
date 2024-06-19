@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n. na-adj.
 Definition: unbequem
-Notiz: ''
 Beispielsatz: 家が不便なところにある。
 Beispielsatz-Lesung: 家[いえ]が 不便[ふべん]なところにある。
 Beispielsatz-Übersetzung: Das Haus ist unpraktisch gelegen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

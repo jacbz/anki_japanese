@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Lebensmittel, Proviant
-Notiz: ''
 Beispielsatz: 私はキャンプのとき、たくさん食料を持って行く。
 Beispielsatz-Lesung: 私[わたし]はキャンプのとき、たくさん 食料[しょくりょう]を 持[も]って 行[い]く。
 Beispielsatz-Übersetzung: Ich nehme viel Proviant mit, wenn ich campen gehe.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

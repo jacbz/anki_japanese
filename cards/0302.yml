@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Welt
-Notiz: ''
 Beispielsatz: これは世界で一番高いビルです。
 Beispielsatz-Lesung: これは 世界[せかい]で 一番[いちばん] 高[たか]いビルです。
 Beispielsatz-Übersetzung: Dies ist das höchste Gebäude der Welt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

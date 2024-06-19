@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Stuhl
-Notiz: ''
 Beispielsatz: 椅子を三列に並べてもらえますか。
 Beispielsatz-Lesung: 椅子[いす]を三 列[れつ]に 並[なら]べてもらえますか。
 Beispielsatz-Übersetzung: Willst du die Stühle in drei Reihen anordnen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

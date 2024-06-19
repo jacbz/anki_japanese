@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: cp.
 Definition: manchmal, kann sein
-Notiz: ''
 Beispielsatz: ここは雪がたくさん降ることもあります。
 Beispielsatz-Lesung: ここは 雪[ゆき]がたくさん 降[ふ]ることもあります。
 Beispielsatz-Übersetzung: Es schneit hier manchmal viel.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

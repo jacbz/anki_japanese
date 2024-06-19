@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufpassen, vorsichtig sein
-Notiz: ''
 Beispielsatz: 安全運転を心がける。
 Beispielsatz-Lesung: 安全運転[あんぜんうんてん]を 心[こころ]がける。
 Beispielsatz-Übersetzung: Ich achte immer darauf, sicher zu fahren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

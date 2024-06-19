@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mittelschule
-Notiz: ''
 Beispielsatz: 息子は来年から中学に行きます。
 Beispielsatz-Lesung: 息子[むすこ]は 来年[らいねん]から 中学[ちゅうがく]に 行[い]きます。
 Beispielsatz-Übersetzung: Mein Sohn wird nächstes Jahr die Mittelschule besuchen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

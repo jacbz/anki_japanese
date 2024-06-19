@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: unmittelbar danach, gleich danach
-Notiz: ''
 Beispielsatz: 彼は病院に運ばれた直後に亡くなったそうだ。
 Beispielsatz-Lesung: 彼[かれ]は 病院[びょういん]に 運[はこ]ばれた 直後[ちょくご]に 亡[な]くなったそうだ。
 Beispielsatz-Übersetzung: Er starb kurz nachdem er ins Krankenhaus gebracht wurde.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

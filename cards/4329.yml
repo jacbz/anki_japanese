@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: schreien
-Notiz: ''
 Beispielsatz: 私に怒鳴らないでください。
 Beispielsatz-Lesung: 私[わたし]に 怒鳴[どな]らないでください。
 Beispielsatz-Übersetzung: Bitte schreien Sie mich nicht an.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

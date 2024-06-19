@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Haut
-Notiz: ''
 Beispielsatz: タバコは肌によくないですよ。
 Beispielsatz-Lesung: タバコは 肌[はだ]によくないですよ。
 Beispielsatz-Übersetzung: Rauchen ist nicht gut für die Haut.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

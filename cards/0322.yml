@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adn.
 Definition: was für ein
-Notiz: ''
 Beispielsatz: 明子さんのご主人はどんな人ですか。
 Beispielsatz-Lesung: 明子[あきこ]さんのご 主人[しゅじん]はどんな人ですか。
 Beispielsatz-Übersetzung: Wie ist Akikos Ehemann?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

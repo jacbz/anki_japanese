@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Energie, Kraft
-Notiz: ''
 Beispielsatz: エネルギーに関する問題を解決するためには何が必要だろうか。
 Beispielsatz-Lesung: エネルギーに 関[かん]する 問題[もんだい]を 解決[かいけつ]するためには 何[なに]が 必要[ひつよう]だろうか。
 Beispielsatz-Übersetzung: Was muss getan werden, um die Energieprobleme zu lösen?
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Guten Morgen
-Notiz: ''
 Beispielsatz: 「皆さん、おはよう」と先生が言った。
 Beispielsatz-Lesung: 「 皆[みな]さん、おはよう」と 先生[せんせい]が 言[い]った。
 Beispielsatz-Übersetzung: 'Der Lehrer sagte: „Guten Morgen, alle zusammen“.'
+
+# Notizen können HTML enthalten.            
+Notiz: ''

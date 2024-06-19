@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: aufziehen, halten, unterstützen
-Notiz: ''
 Beispielsatz: 彼は大家族を養っている。
 Beispielsatz-Lesung: 彼[かれ]は 大家族[だいかぞく]を 養[やしな]っている。
 Beispielsatz-Übersetzung: Er hat eine große Familie zu unterstützen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

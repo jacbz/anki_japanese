@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: num.
 Definition: einundzwanzig
-Notiz: ''
 Beispielsatz: このお祭りは21回目です。
 Beispielsatz-Lesung: このお 祭[まつ]りは21 回[かい] 目[め]です。
 Beispielsatz-Übersetzung: Dieses Festival fand bereits zum einundzwanzigsten Mal statt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: elend
-Notiz: ''
 Beispielsatz: 彼は晩年悲惨な生活を送った。
 Beispielsatz-Lesung: 彼[かれ]は 晩年[ばんねん] 悲惨[ひさん]な 生活[せいかつ]を 送[おく]った。
 Beispielsatz-Übersetzung: Er lebte in seinen späteren Jahren in Elend.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

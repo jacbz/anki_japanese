@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: am selben Tag
-Notiz: ''
 Beispielsatz: 試験の当日に病気になってしまった。
 Beispielsatz-Lesung: 試験[しけん]の 当日[とうじつ]に 病気[びょうき]になってしまった。
 Beispielsatz-Übersetzung: Ich wurde am selben Tag der Prüfung krank.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

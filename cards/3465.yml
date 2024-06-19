@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: große Unternehmen
-Notiz: ''
 Beispielsatz: 彼は大手の出版社に勤めている。
 Beispielsatz-Lesung: 彼[かれ]は 大手[おおて]の 出版社[しゅっぱんしゃ]に 勤[つと]めている。
 Beispielsatz-Übersetzung: Er arbeitet für ein großes Verlagshaus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

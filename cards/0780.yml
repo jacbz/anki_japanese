@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Zukunft
-Notiz: ''
 Beispielsatz: 彼は将来のことを考え始めた。
 Beispielsatz-Lesung: 彼[かれ]は 将来[しょうらい]のことを 考[かんが]え 始[はじ]めた。
 Beispielsatz-Übersetzung: Er begann über seine Zukunft nachzudenken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

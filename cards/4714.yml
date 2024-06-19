@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Wirkung
-Notiz: ''
 Beispielsatz: その薬はすぐ効力があった。
 Beispielsatz-Lesung: その 薬[くすり]はすぐ 効力[こうりょく]があった。
 Beispielsatz-Übersetzung: Das Medikament hatte eine sofortige Wirkung.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

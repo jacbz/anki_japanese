@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Gesichtsausdruck, Miene
-Notiz: ''
 Beispielsatz: 彼女は悲しそうな表情をしていた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 悲[かな]しそうな 表情[ひょうじょう]をしていた。
 Beispielsatz-Übersetzung: Sie hatte einen traurigen Gesichtsausdruck.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Mücke
-Notiz: ''
 Beispielsatz: 昨日の夜はたくさん蚊に刺された。
 Beispielsatz-Lesung: 昨日[きのう]の 夜[よる]はたくさん 蚊[か]に 刺[さ]された。
 Beispielsatz-Übersetzung: Ich wurde letzte Nacht von vielen Mücken gestochen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

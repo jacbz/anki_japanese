@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Party
-Notiz: ''
 Beispielsatz: 昨日のパーティーは楽しかった。
 Beispielsatz-Lesung: 昨日[きのう]のパーティーは 楽[たの]しかった。
 Beispielsatz-Übersetzung: Ich habe die Party gestern genossen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

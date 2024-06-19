@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: sicherlich, bestimmt
-Notiz: ''
 Beispielsatz: 彼女はきっと来ます。
 Beispielsatz-Lesung: 彼女[かのじょ]はきっと 来[き]ます。
 Beispielsatz-Übersetzung: Sie wird sicherlich kommen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

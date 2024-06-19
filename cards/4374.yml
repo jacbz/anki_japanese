@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Kern
-Notiz: ''
 Beispielsatz: 我が国は核の持ち込みを禁止しています。
 Beispielsatz-Lesung: 我[わ]が 国[くに]は 核[かく]の 持[も]ち 込[こ]みを 禁止[きんし]しています。
 Beispielsatz-Übersetzung: Die Einfuhr von Atomwaffen in unser Land ist verboten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Atombombe
-Notiz: ''
 Beispielsatz: 原爆が広島に落とされた。
 Beispielsatz-Lesung: 原爆[げんばく]が 広島[ひろしま]に 落[お]とされた。
 Beispielsatz-Übersetzung: Die Atombombe wurde auf Hiroshima abgeworfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Vertrautheit
-Notiz: ''
 Beispielsatz: なじみの店で買い物をする。
 Beispielsatz-Lesung: なじみの 店[みせ]で 買[か]い 物[もの]をする。
 Beispielsatz-Übersetzung: Ich kaufe in vertrauten Geschäften ein.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

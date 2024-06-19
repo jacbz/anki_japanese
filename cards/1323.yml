@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: v.
 Definition: sich verbreiten, absteigen, reisen
-Notiz: ''
 Beispielsatz: 彼女の死のニュースはすぐに国中に伝わった。
 Beispielsatz-Lesung: 彼女[かのじょ]の 死[し]のニュースはすぐに 国[くに] 中[ちゅう]に 伝[つた]わった。
 Beispielsatz-Übersetzung: Die Nachricht von ihrem Tod verbreitete sich sofort im ganzen
   Land.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

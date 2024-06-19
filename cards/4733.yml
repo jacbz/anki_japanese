@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: adv.
 Definition: streng, wiederholt
-Notiz: ''
 Beispielsatz: 私は遅く帰ってきて親に散々叱られた。
 Beispielsatz-Lesung: 私[わたし]は 遅[おそ]く 帰[かえ]ってきて 親[おや]に 散々[さんざん] 叱[しか]られた。
 Beispielsatz-Übersetzung: Ich kam zu spät nach Hause und wurde von meinen Eltern streng
   gescholten.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: einunddreißigster (Tag); einunddreißig Tage
-Notiz: ''
 Beispielsatz: 十二月三十一日は、大晦日だ。
 Beispielsatz-Lesung: 十二月[じゅうにがつ]三十一 日[にち]は、 大晦日[おおみそか]だ。
 Beispielsatz-Übersetzung: Der 31. Dezember ist Silvester.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

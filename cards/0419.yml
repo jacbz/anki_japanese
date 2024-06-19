@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n., adv.
 Definition: (ein Glas) voll
-Notiz: ''
 Beispielsatz: ワインを一杯飲んだ。
 Beispielsatz-Lesung: ワインを 一杯[いっぱい] 飲[の]んだ。
 Beispielsatz-Übersetzung: Ich habe ein Glas Wein getrunken.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

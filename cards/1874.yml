@@ -5,8 +5,10 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: kurz gesagt
-Notiz: ''
 Beispielsatz: 行きたくないわけではない。要はお金の問題だ。
 Beispielsatz-Lesung: 行[い]きたくないわけではない。 要[よう]はお 金[かね]の 問題[もんだい]だ。
 Beispielsatz-Übersetzung: Das heißt nicht, dass ich nicht hingehen möchte. Kurz gesagt,
   es ist eine Frage des Geldes.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

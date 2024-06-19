@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: interj.
 Definition: Oh!, Wow!
-Notiz: ''
 Beispielsatz: おー、これは立派な家だね。
 Beispielsatz-Lesung: おー、これは 立派[りっぱ]な 家[いえ]だね。
 Beispielsatz-Übersetzung: Wow! Das ist ein schönes Haus.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

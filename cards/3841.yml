@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: vorheriges Jahr
-Notiz: ''
 Beispielsatz: 前年度に比べて、売り上げが倍増した。
 Beispielsatz-Lesung: 前年度[ぜんねんど]に 比[くら]べて、 売[う]り 上[あ]げが 倍増[ばいぞう]した。
 Beispielsatz-Übersetzung: Der Umsatz hat sich seit dem vorherigen Jahr verdoppelt.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

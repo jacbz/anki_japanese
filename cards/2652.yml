@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: na-adj.
 Definition: speziell
-Notiz: ''
 Beispielsatz: この部屋は特殊な目的のために作られた。
 Beispielsatz-Lesung: この 部屋[へや]は 特殊[とくしゅ]な 目的[もくてき]のために 作[つく]られた。
 Beispielsatz-Übersetzung: Dieses Zimmer wurde für einen speziellen Zweck entworfen.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

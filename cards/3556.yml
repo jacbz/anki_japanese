@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Huhn; Küken
-Notiz: ''
 Beispielsatz: 隣のうちは鶏を飼っている。
 Beispielsatz-Lesung: 隣[となり]のうちは 鶏[にわとり]を 飼[か]っている。
 Beispielsatz-Übersetzung: Mein Nachbar hält Hühner.
+
+# Notizen können HTML enthalten.            
+Notiz: ''

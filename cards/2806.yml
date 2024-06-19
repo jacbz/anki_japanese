@@ -5,7 +5,9 @@ Alternative: ''
 Extra: '' # nur bei する-Verben
 Wortart: n.
 Definition: Trauer, Kummer
-Notiz: ''
 Beispielsatz: 彼女は毎日悲しみにくれていた。
 Beispielsatz-Lesung: 彼女[かのじょ]は 毎日[まいにち] 悲[かな]しみにくれていた。
 Beispielsatz-Übersetzung: Sie verbrachte jeden Tag in ihrer Trauer verloren.
+
+# Notizen können HTML enthalten.            
+Notiz: ''
