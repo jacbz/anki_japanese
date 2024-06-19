@@ -1180,7 +1180,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1150 | ドア |  | Tür |  | [Bearbeiten](cards/1150.yml) |
 | 1151 | 森 | もり | Wald, Forst, Hain |  | [Bearbeiten](cards/1151.yml) |
 | 1152 | 目標 | もくひょう | Ziel, Zielsetzung, Zielvorgabe |  | [Bearbeiten](cards/1152.yml) |
-| 1153 | 本来 | ほんらい | adv ursprünglich, wesentlich, von Natur aus, angemessen |  | [Bearbeiten](cards/1153.yml) |
+| 1153 | 本来 | ほんらい | ursprünglich, wesentlich, von Natur aus, angemessen |  | [Bearbeiten](cards/1153.yml) |
 | 1154 | 重い | おもい | schwer |  | [Bearbeiten](cards/1154.yml) |
 | 1155 | 変更（する） | へんこう | Änderung, Veränderung |  | [Bearbeiten](cards/1155.yml) |
 | 1156 | 感謝（する） | かんしゃ | Dankbarkeit, Wertschätzung |  | [Bearbeiten](cards/1156.yml) |
@@ -1212,7 +1212,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1182 | データ |  | Daten |  | [Bearbeiten](cards/1182.yml) |
 | 1183 | 役 | やく | Rolle, Aufgabe, Pflicht |  | [Bearbeiten](cards/1183.yml) |
 | 1184 | 伸びる | のびる | wachsen, sich strecken, sich ausdehnen |  | [Bearbeiten](cards/1184.yml) |
-| 1185 | 通常 | つうじょう | n normalerweise, gewöhnlich, regulär |  | [Bearbeiten](cards/1185.yml) |
+| 1185 | 通常 | つうじょう | normalerweise, gewöhnlich, regulär |  | [Bearbeiten](cards/1185.yml) |
 | 1186 | ピアノ |  | Klavier |  | [Bearbeiten](cards/1186.yml) |
 | 1187 | 行為 | こうい | Handlung; Bewegung; Verhalten |  | [Bearbeiten](cards/1187.yml) |
 | 1188 | 悩む | なやむ | sich Sorgen machen, leiden |  | [Bearbeiten](cards/1188.yml) |
@@ -1254,7 +1254,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1224 | 穴 | あな | Loch, Grube |  | [Bearbeiten](cards/1224.yml) |
 | 1225 | クリック（する） |  | Klick |  | [Bearbeiten](cards/1225.yml) |
 | 1226 | 捕らえる | とらえる | fangen, greifen, ergreifen, verhaften |  | [Bearbeiten](cards/1226.yml) |
-| 1227 | 昨年 | さくねん | n letztes Jahr |  | [Bearbeiten](cards/1227.yml) |
+| 1227 | 昨年 | さくねん | letztes Jahr |  | [Bearbeiten](cards/1227.yml) |
 | 1228 | 減少（する） | げんしょう | Abnahme, Rückgang |  | [Bearbeiten](cards/1228.yml) |
 | 1229 | 洗う | あらう | waschen |  | [Bearbeiten](cards/1229.yml) |
 | 1230 | 左 | ひだり | links |  | [Bearbeiten](cards/1230.yml) |
@@ -1299,7 +1299,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1269 | 答え | こたえ | Antwort, Lösung |  | [Bearbeiten](cards/1269.yml) |
 | 1270 | 世話（する） | せわ | sich kümmern um, betreuen |  | [Bearbeiten](cards/1270.yml) |
 | 1271 | 差 | さ | Unterschied, Lücke, Abstand |  | [Bearbeiten](cards/1271.yml) |
-| 1272 | 一切 | いっさい | n alles, vollständig, überhaupt nicht |  | [Bearbeiten](cards/1272.yml) |
+| 1272 | 一切 | いっさい | alles, vollständig, überhaupt nicht |  | [Bearbeiten](cards/1272.yml) |
 | 1273 | 食う | くう | essen, konsumieren |  | [Bearbeiten](cards/1273.yml) |
 | 1274 | 文章 | ぶんしょう | Satz; Schreiben, Text |  | [Bearbeiten](cards/1274.yml) |
 | 1275 | 背景 | はいけい | Hintergrund, Kontext, Umgebung |  | [Bearbeiten](cards/1275.yml) |
@@ -1368,7 +1368,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1338 | 一枚 | いちまい | ein (Blatt) |  | [Bearbeiten](cards/1338.yml) |
 | 1339 | い |  | FRAGE |  | [Bearbeiten](cards/1339.yml) |
 | 1340 | 先輩 | せんぱい | älterer Schüler, Vorgesetzter |  | [Bearbeiten](cards/1340.yml) |
-| 1341 | 全員 | ぜんいん | n alle Mitglieder, jeder |  | [Bearbeiten](cards/1341.yml) |
+| 1341 | 全員 | ぜんいん | alle Mitglieder, jeder |  | [Bearbeiten](cards/1341.yml) |
 | 1342 | にしても |  | selbst wenn, auch wenn |  | [Bearbeiten](cards/1342.yml) |
 | 1343 | 四人 | よーにん | vier Personen |  | [Bearbeiten](cards/1343.yml) |
 | 1344 | 人物 | じんぶつ | Person, Charakter |  | [Bearbeiten](cards/1344.yml) |
@@ -1399,7 +1399,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1369 | 卵 | たまご | Ei |  | [Bearbeiten](cards/1369.yml) |
 | 1370 | 服 | ふく | Kleidung |  | [Bearbeiten](cards/1370.yml) |
 | 1371 | 赤ちゃん | あかちゃん | Baby, Säugling |  | [Bearbeiten](cards/1371.yml) |
-| 1372 | 始め | はじめ | n Anfang, Ursprung |  | [Bearbeiten](cards/1372.yml) |
+| 1372 | 始め | はじめ | Anfang, Ursprung |  | [Bearbeiten](cards/1372.yml) |
 | 1373 | 要求（する） | ようきゅう | fordern, anfordern, beanspruchen |  | [Bearbeiten](cards/1373.yml) |
 | 1374 | 紙 | かみ | Papier |  | [Bearbeiten](cards/1374.yml) |
 | 1375 | 妹 | いもうと | jüngere Schwester |  | [Bearbeiten](cards/1375.yml) |
@@ -1486,7 +1486,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1456 | 白 | しろ | weiß; Unschuld |  | [Bearbeiten](cards/1456.yml) |
 | 1457 | 足りる | たりる | ausreichen |  | [Bearbeiten](cards/1457.yml) |
 | 1458 | 代表（する） | だいひょう | Vertreter; für etw. stehen |  | [Bearbeiten](cards/1458.yml) |
-| 1459 | 夕方 | ゆうがた | n Abend |  | [Bearbeiten](cards/1459.yml) |
+| 1459 | 夕方 | ゆうがた | Abend |  | [Bearbeiten](cards/1459.yml) |
 | 1460 | 下がる | さがる | fallen, sinken, zurücktreten |  | [Bearbeiten](cards/1460.yml) |
 | 1461 | 実感（する） | じっかん | tatsächlich fühlen, empfinden |  | [Bearbeiten](cards/1461.yml) |
 | 1462 | 有する | ゆうする | haben |  | [Bearbeiten](cards/1462.yml) |
@@ -1545,7 +1545,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1515 | 会場 | かいじょう | Halle; Ort |  | [Bearbeiten](cards/1515.yml) |
 | 1516 | 素敵 | すてき | schön, hübsch, wunderbar |  | [Bearbeiten](cards/1516.yml) |
 | 1517 | 湯 | ゆ | heißes Wasser |  | [Bearbeiten](cards/1517.yml) |
-| 1518 | そもそも |  | adv überhaupt erst einmal |  | [Bearbeiten](cards/1518.yml) |
+| 1518 | そもそも |  | überhaupt erst einmal |  | [Bearbeiten](cards/1518.yml) |
 | 1519 | 約束（する） | やくそく | Versprechen, Termin |  | [Bearbeiten](cards/1519.yml) |
 | 1520 | ワイン |  | Wein |  | [Bearbeiten](cards/1520.yml) |
 | 1521 | 高校生 | こうこうせい | Oberschüler |  | [Bearbeiten](cards/1521.yml) |
@@ -1603,7 +1603,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1573 | さあ |  | los, nun, gut |  | [Bearbeiten](cards/1573.yml) |
 | 1574 | だけでなく |  | nicht nur |  | [Bearbeiten](cards/1574.yml) |
 | 1575 | 予想（する） | よそう | Erwartung |  | [Bearbeiten](cards/1575.yml) |
-| 1576 | 一層 | いっそう | adv mehr |  | [Bearbeiten](cards/1576.yml) |
+| 1576 | 一層 | いっそう | mehr |  | [Bearbeiten](cards/1576.yml) |
 | 1577 | 旦那 | だんな | Ehemann |  | [Bearbeiten](cards/1577.yml) |
 | 1578 | 経る | へる | durchlaufen, erleben |  | [Bearbeiten](cards/1578.yml) |
 | 1579 | 揃う | そろう | vollständig werden; gleich sein |  | [Bearbeiten](cards/1579.yml) |
@@ -1845,7 +1845,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1815 | ふと |  | plötzlich; unerwartet |  | [Bearbeiten](cards/1815.yml) |
 | 1816 | 四年 | よねん | vier Jahre |  | [Bearbeiten](cards/1816.yml) |
 | 1817 | 無視（する） | むし | ignorieren, vernachlässigen |  | [Bearbeiten](cards/1817.yml) |
-| 1818 | 一気 | いっき | adv auf einmal, in einem Zug |  | [Bearbeiten](cards/1818.yml) |
+| 1818 | 一気 | いっき | auf einmal, in einem Zug |  | [Bearbeiten](cards/1818.yml) |
 | 1819 | 手続き | てつづき | Verfahren, Formalitäten |  | [Bearbeiten](cards/1819.yml) |
 | 1820 | 波 | なみ | Welle |  | [Bearbeiten](cards/1820.yml) |
 | 1821 | 仲 | なか | Beziehungen, Verhältnisse |  | [Bearbeiten](cards/1821.yml) |
@@ -1892,7 +1892,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 1862 | ソフト |  | Software; weich |  | [Bearbeiten](cards/1862.yml) |
 | 1863 | 長男 | ちょうなん | ältester Sohn |  | [Bearbeiten](cards/1863.yml) |
 | 1864 | 0 | れい | null |  | [Bearbeiten](cards/1864.yml) |
-| 1865 | さっき |  | Adv vorhin |  | [Bearbeiten](cards/1865.yml) |
+| 1865 | さっき |  | vorhin |  | [Bearbeiten](cards/1865.yml) |
 | 1866 | ごく |  | sehr |  | [Bearbeiten](cards/1866.yml) |
 | 1867 | 入力（する） | にゅうりょく | Eingabe |  | [Bearbeiten](cards/1867.yml) |
 | 1868 | CM | しーえむ | Werbung |  | [Bearbeiten](cards/1868.yml) |
@@ -2215,7 +2215,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 2185 | 働き | はたらき | Arbeit |  | [Bearbeiten](cards/2185.yml) |
 | 2186 | 踏む | ふむ | treten, betreten |  | [Bearbeiten](cards/2186.yml) |
 | 2187 | ファイル |  | Datei |  | [Bearbeiten](cards/2187.yml) |
-| 2188 | 有り | あり | v existieren; leben |  | [Bearbeiten](cards/2188.yml) |
+| 2188 | 有り | あり | existieren; leben |  | [Bearbeiten](cards/2188.yml) |
 | 2189 | 要因 | よういん | Faktor, Hauptursache |  | [Bearbeiten](cards/2189.yml) |
 | 2190 | わし |  | Ich (von älteren Männern verwendet) |  | [Bearbeiten](cards/2190.yml) |
 | 2191 | 火 | か | Dienstag; Feuer |  | [Bearbeiten](cards/2191.yml) |
@@ -3743,7 +3743,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 3713 | に比べて | にくらべて | verglichen mit |  | [Bearbeiten](cards/3713.yml) |
 | 3714 | 関東 | かんとう | Kantō-Region |  | [Bearbeiten](cards/3714.yml) |
 | 3715 | なめる |  | lecken; saugen |  | [Bearbeiten](cards/3715.yml) |
-| 3716 | 不明 | ふめい | n unbekannt, nicht identifiziert |  | [Bearbeiten](cards/3716.yml) |
+| 3716 | 不明 | ふめい | unbekannt, nicht identifiziert |  | [Bearbeiten](cards/3716.yml) |
 | 3717 | スケジュール |  | Zeitplan |  | [Bearbeiten](cards/3717.yml) |
 | 3718 | 差し出す | さしだす | ausstrecken |  | [Bearbeiten](cards/3718.yml) |
 | 3719 | 外部 | がいぶ | Außen |  | [Bearbeiten](cards/3719.yml) |
@@ -3935,7 +3935,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 3905 | よみがえる |  | wiederbeleben, zurückkehren |  | [Bearbeiten](cards/3905.yml) |
 | 3906 | 年賀状 | ねんがじょう | Neujahrskarte |  | [Bearbeiten](cards/3906.yml) |
 | 3907 | バブル |  | Blase |  | [Bearbeiten](cards/3907.yml) |
-| 3908 | 毎朝 | まいあさ | adv jeden Morgen |  | [Bearbeiten](cards/3908.yml) |
+| 3908 | 毎朝 | まいあさ | jeden Morgen |  | [Bearbeiten](cards/3908.yml) |
 | 3909 | 地味 | じみ | schlicht |  | [Bearbeiten](cards/3909.yml) |
 | 3910 | 文学 | ぶんがく | Literatur |  | [Bearbeiten](cards/3910.yml) |
 | 3911 | Tシャツ |  | T-Shirt |  | [Bearbeiten](cards/3911.yml) |
@@ -4740,7 +4740,7 @@ Insgesamt gibt es 5000 Karten. 20 Karten haben eine Notiz.
 | 4710 | 反論（する） | はんろん | Argument, Einwand; argumentieren, einwenden |  | [Bearbeiten](cards/4710.yml) |
 | 4711 | 引っ繰り返す | ひっくりかえす | umkippen, umstürzen, umdrehen |  | [Bearbeiten](cards/4711.yml) |
 | 4712 | 儲かる | もうかる | Gewinn machen, profitieren |  | [Bearbeiten](cards/4712.yml) |
-| 4713 | 久々 | ひさびさ | Adv zum ersten Mal seit langer Zeit |  | [Bearbeiten](cards/4713.yml) |
+| 4713 | 久々 | ひさびさ | zum ersten Mal seit langer Zeit |  | [Bearbeiten](cards/4713.yml) |
 | 4714 | 効力 | こうりょく | Wirkung |  | [Bearbeiten](cards/4714.yml) |
 | 4715 | 枯れる | かれる | verwelken, sterben |  | [Bearbeiten](cards/4715.yml) |
 | 4716 | 絆 | きずな | Bindung, Verbindung |  | [Bearbeiten](cards/4716.yml) |
