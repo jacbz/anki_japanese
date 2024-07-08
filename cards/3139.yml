@@ -1,13 +1,24 @@
 Rang: 3139
 Lemma: 八年
 Lesung: はちねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: acht Jahre
-Beispielsatz: その本を書くのに八年かかった。
-Beispielsatz-Lesung: その 本[ほん]を 書[か]くのに八 年[ねん]かかった。
-Beispielsatz-Übersetzung: Es hat mich acht Jahre gedauert, um das Buch zu schreiben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その本を書くのに八年かかった。
+  その 本[ほん]を 書[か]くのに八 年[ねん]かかった。
+  Es hat mich acht Jahre gedauert, um das Buch zu schreiben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

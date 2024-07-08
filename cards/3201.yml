@@ -1,13 +1,28 @@
 Rang: 3201
 Lemma: 転勤
 Lesung: てんきん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Versetzung (haben); versetzt werden
 Extra: （する）
 Wortart: n. v.
-Definition: Versetzung (haben); versetzt werden
-Beispielsatz: 夫が大阪に転勤になった。
-Beispielsatz-Lesung: 夫[おっと]が 大阪[おおさか]に 転勤[てんきん]になった。
-Beispielsatz-Übersetzung: Mein Mann wurde nach Osaka versetzt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  夫が大阪に転勤になった。
+  夫[おっと]が 大阪[おおさか]に 転勤[てんきん]になった。
+  Mein Mann wurde nach Osaka versetzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

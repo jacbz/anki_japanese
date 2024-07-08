@@ -1,13 +1,24 @@
 Rang: 320
 Lemma: たぶん
-Lesung: たぶん
-Alternative: 多分
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: 多分
 Definition: wahrscheinlich, vielleicht
-Beispielsatz: 彼女はたぶん来ないでしょう。
-Beispielsatz-Lesung: 彼女[かのじょ]はたぶん 来[こ]ないでしょう。
-Beispielsatz-Übersetzung: Sie wird wahrscheinlich nicht kommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はたぶん来ないでしょう。
+  彼女[かのじょ]はたぶん 来[こ]ないでしょう。
+  Sie wird wahrscheinlich nicht kommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

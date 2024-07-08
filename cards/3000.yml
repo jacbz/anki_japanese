@@ -1,13 +1,24 @@
 Rang: 3000
 Lemma: 国際的
 Lesung: こくさいてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: international
-Beispielsatz: 解決には国際的な協力が必要だ。
-Beispielsatz-Lesung: 解決[かいけつ]には 国際的[こくさいてき]な 協力[きょうりょく]が 必要[ひつよう]だ。
-Beispielsatz-Übersetzung: Für die Lösung ist eine internationale Zusammenarbeit erforderlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  解決には国際的な協力が必要だ。
+  解決[かいけつ]には 国際的[こくさいてき]な 協力[きょうりょく]が 必要[ひつよう]だ。
+  Für die Lösung ist eine internationale Zusammenarbeit erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3538
 Lemma: セックス
-Lesung: セックス
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Sex haben;
 Extra: （する）
 Wortart: n. v.
-Definition: Sex haben;
-Beispielsatz: お互い合意の上でないセックスは犯罪だ。
-Beispielsatz-Lesung: お 互[たが]い 合意[ごうい]の 上[うえ]でないセックスは 犯罪[はんざい]だ。
-Beispielsatz-Übersetzung: Sex ohne gegenseitige Zustimmung ist ein Verbrechen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お互い合意の上でないセックスは犯罪だ。
+  お 互[たが]い 合意[ごうい]の 上[うえ]でないセックスは 犯罪[はんざい]だ。
+  Sex ohne gegenseitige Zustimmung ist ein Verbrechen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 172
 Lemma: てくださる
-Lesung: てくださる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[etwas als Gefälligkeit tun (höflich)]'
-Beispielsatz: お手伝いしてくださるボランティアの方を募集しています。
-Beispielsatz-Lesung: お 手伝[てつだ]いしてくださるボランティアの 方[ほう]を 募集[ぼしゅう]しています。
-Beispielsatz-Übersetzung: Wir suchen Freiwillige, die uns helfen könnten.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お手伝いしてくださるボランティアの方を募集しています。
+  お 手伝[てつだ]いしてくださるボランティアの 方[ほう]を 募集[ぼしゅう]しています。
+  Wir suchen Freiwillige, die uns helfen könnten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 1647
 Lemma: 開始
 Lesung: かいし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Beginn, Anfang
 Extra: （する）
 Wortart: n. v.
-Definition: Beginn, Anfang
-Beispielsatz: 試合は午後一時に開始される。
-Beispielsatz-Lesung: 試合[しあい]は 午後[ごご] 一時[いちじ]に 開始[かいし]される。
-Beispielsatz-Übersetzung: Das Spiel beginnt um 13 Uhr.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  試合は午後一時に開始される。
+  試合[しあい]は 午後[ごご] 一時[いちじ]に 開始[かいし]される。
+  Das Spiel beginnt um 13 Uhr.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

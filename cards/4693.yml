@@ -1,13 +1,28 @@
 Rang: 4693
 Lemma: 捧げる
 Lesung: ささげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: opfern, widmen, darbringen
-Beispielsatz: 彼は国のために命を捧げた。
-Beispielsatz-Lesung: 彼[かれ]は 国[くに]のために 命[いのち]を 捧[ささ]げた。
-Beispielsatz-Übersetzung: Er hat sein Leben für sein Land geopfert.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は国のために命を捧げた。
+  彼[かれ]は 国[くに]のために 命[いのち]を 捧[ささ]げた。
+  Er hat sein Leben für sein Land geopfert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

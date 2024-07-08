@@ -1,14 +1,29 @@
 Rang: 3771
 Lemma: 研究者
 Lesung: けんきゅうしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Forscher
-Beispielsatz: A大学の研究者らが最新の研究成果を発表した。
-Beispielsatz-Lesung: A 大学[だいがく]の 研究者[けんきゅうしゃ]らが 最新[さいしん]の 研究成果[けんきゅうせいか]を 発表[はっぴょう]した。
-Beispielsatz-Übersetzung: Forscher der Universität A haben ihre neuesten Ergebnisse
-  veröffentlicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">き</span><span class="char">ゅ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  A大学の研究者らが最新の研究成果を発表した。
+  A 大学[だいがく]の 研究者[けんきゅうしゃ]らが 最新[さいしん]の 研究成果[けんきゅうせいか]を 発表[はっぴょう]した。
+  Forscher der Universität A haben ihre neuesten Ergebnisse veröffentlicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

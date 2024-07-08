@@ -1,13 +1,24 @@
 Rang: 536
 Lemma: てほしい
-Lesung: てほしい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wollen/jemanden bitten, etwas zu tun
-Beispielsatz: 私と結婚してほしい。
-Beispielsatz-Lesung: 私[わたし]と 結婚[けっこん]してほしい。
-Beispielsatz-Übersetzung: Ich möchte, dass du mich heiratest.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私と結婚してほしい。
+  私[わたし]と 結婚[けっこん]してほしい。
+  Ich möchte, dass du mich heiratest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

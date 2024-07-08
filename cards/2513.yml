@@ -1,13 +1,24 @@
 Rang: 2513
 Lemma: とる
-Lesung: とる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[verkürzte Form von „teoru“]'
-Beispielsatz: わしは何も悪いことはしとらん。
-Beispielsatz-Lesung: わしは 何[なに]も 悪[わる]いことはしとらん。
-Beispielsatz-Übersetzung: Ich mache nichts Falsches.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  わしは何も悪いことはしとらん。
+  わしは 何[なに]も 悪[わる]いことはしとらん。
+  Ich mache nichts Falsches.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

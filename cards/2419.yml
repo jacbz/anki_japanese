@@ -1,13 +1,24 @@
 Rang: 2419
 Lemma: 何と
 Lesung: なんと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: wie, was
-Beispielsatz: なんと素晴らしい歌だろう。
-Beispielsatz-Lesung: なんと 素晴[すば]らしい 歌[うた]だろう。
-Beispielsatz-Übersetzung: Was für ein schönes Lied!
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  なんと素晴らしい歌だろう。
+  なんと 素晴[すば]らしい 歌[うた]だろう。
+  Was für ein schönes Lied!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

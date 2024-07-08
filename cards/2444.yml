@@ -1,13 +1,26 @@
 Rang: 2444
 Lemma: 種
 Lesung: たね
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Samen
-Beispielsatz: 母は庭に野菜の種をまく。
-Beispielsatz-Lesung: 母[はは]は 庭[にわ]に 野菜[やさい]の 種[たね]をまく。
-Beispielsatz-Übersetzung: Meine Mutter sät Gemüsesamen im Garten aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">た</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ね</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母は庭に野菜の種をまく。
+  母[はは]は 庭[にわ]に 野菜[やさい]の 種[たね]をまく。
+  Meine Mutter sät Gemüsesamen im Garten aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

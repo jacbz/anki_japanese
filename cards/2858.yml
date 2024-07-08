@@ -1,13 +1,24 @@
 Rang: 2858
 Lemma: 進展
 Lesung: しんてん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Fortschritt, Entwicklung, Evolution
 Extra: （する）
 Wortart: n. v.
-Definition: Fortschritt, Entwicklung, Evolution
-Beispielsatz: 私たちは自分たちのビジネスを進展させる必要がある。
-Beispielsatz-Lesung: 私[わたし]たちは 自分[じぶん]たちのビジネスを 進展[しんてん]させる 必要[ひつよう]がある。
-Beispielsatz-Übersetzung: Wir müssen unser Geschäft entwickeln.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは自分たちのビジネスを進展させる必要がある。
+  私[わたし]たちは 自分[じぶん]たちのビジネスを 進展[しんてん]させる 必要[ひつよう]がある。
+  Wir müssen unser Geschäft entwickeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 149
 Lemma: 同じ
 Lesung: おなじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Alternativschreibweisen: ''
 Definition: gleich
-Beispielsatz: 私たちは同じ飛行機で大阪まで行った。
-Beispielsatz-Lesung: 私[わたし]たちは 同[おな]じ 飛行機[ひこうき]で 大阪[おおさか]まで 行[い]った。
-Beispielsatz-Übersetzung: Wir sind mit dem gleichen Flugzeug nach Osaka geflogen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは同じ飛行機で大阪まで行った。
+  私[わたし]たちは 同[おな]じ 飛行機[ひこうき]で 大阪[おおさか]まで 行[い]った。
+  Wir sind mit dem gleichen Flugzeug nach Osaka geflogen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

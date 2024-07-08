@@ -1,13 +1,24 @@
 Rang: 3924
 Lemma: キーワード
-Lesung: キーワード
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Schlüsselwort
-Beispielsatz: キーワードを使って質問に答えなさい。
-Beispielsatz-Lesung: キーワードを 使[つか]って 質問[しつもん]に 答[こた]えなさい。
-Beispielsatz-Übersetzung: Beantworten Sie die Fragen anhand der Schlüsselwörter.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  キーワードを使って質問に答えなさい。
+  キーワードを 使[つか]って 質問[しつもん]に 答[こた]えなさい。
+  Beantworten Sie die Fragen anhand der Schlüsselwörter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

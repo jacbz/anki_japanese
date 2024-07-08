@@ -1,13 +1,24 @@
 Rang: 3224
 Lemma: 展示
 Lesung: てんじ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: ausstellen, Ausstellung; ausstellen, ausstellen
 Extra: （する）
 Wortart: n. v.
-Definition: ausstellen, Ausstellung; ausstellen, ausstellen
-Beispielsatz: 博物館で興味深い展示を見た。
-Beispielsatz-Lesung: 博物館[はくぶつかん]で 興味深[きょうみぶか]い 展示[てんじ]を 見[み]た。
-Beispielsatz-Übersetzung: Ich habe eine interessante Ausstellung im Museum gesehen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  博物館で興味深い展示を見た。
+  博物館[はくぶつかん]で 興味深[きょうみぶか]い 展示[てんじ]を 見[み]た。
+  Ich habe eine interessante Ausstellung im Museum gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

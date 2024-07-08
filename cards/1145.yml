@@ -1,13 +1,27 @@
 Rang: 1145
 Lemma: 暗い
 Lesung: くらい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: dunkel; deprimiert
-Beispielsatz: 母はまだ暗いうちに起きる。
-Beispielsatz-Lesung: 母[はは]はまだ 暗[くら]いうちに 起[お]きる。
-Beispielsatz-Übersetzung: Meine Mutter steht auf, während es noch dunkel ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母はまだ暗いうちに起きる。
+  母[はは]はまだ 暗[くら]いうちに 起[お]きる。
+  Meine Mutter steht auf, während es noch dunkel ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2556
 Lemma: 講ずる
 Lesung: こうずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ergreifen
-Beispielsatz: 早急に措置を講ずる必要がある。
-Beispielsatz-Lesung: 早急[そうきゅう]に 措置[そち]を 講[こう]ずる 必要[ひつよう]がある。
-Beispielsatz-Übersetzung: Es ist notwendig, sofort Maßnahmen zu ergreifen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ↗Verwaltungssprache
+Dispersion: '26'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  早急に措置を講ずる必要がある。
+  早急[そうきゅう]に 措置[そち]を 講[こう]ずる 必要[ひつよう]がある。
+  Es ist notwendig, sofort Maßnahmen zu ergreifen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

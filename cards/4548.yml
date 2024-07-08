@@ -1,14 +1,27 @@
 Rang: 4548
 Lemma: 担ぐ
 Lesung: かつぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: tragen, auf den Schultern tragen
-Beispielsatz: リュックサックを担いで山に登った。
-Beispielsatz-Lesung: リュックサックを 担[かつ]いで 山[やま]に 登[のぼ]った。
-Beispielsatz-Übersetzung: Ich trug einen Rucksack auf den Schultern und stieg den
-  Berg hinauf.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ぐ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  リュックサックを担いで山に登った。
+  リュックサックを 担[かつ]いで 山[やま]に 登[のぼ]った。
+  Ich trug einen Rucksack auf den Schultern und stieg den Berg hinauf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

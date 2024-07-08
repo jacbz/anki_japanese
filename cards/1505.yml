@@ -1,14 +1,26 @@
 Rang: 1505
 Lemma: 無事
 Lesung: ぶじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv. n.
+Alternativschreibweisen: ''
 Definition: sicher adj Sicherheit; unverletzt
-Beispielsatz: 大地震が起きたが、家族は皆無事だった。
-Beispielsatz-Lesung: 大地震[おおじしん]が 起[お]きたが、 家族[かぞく]は 皆[みな] 無事[ぶじ]だった。
-Beispielsatz-Übersetzung: Es gab ein großes Erdbeben, aber meine ganze Familie war
-  in Sicherheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大地震が起きたが、家族は皆無事だった。
+  大地震[おおじしん]が 起[お]きたが、 家族[かぞく]は 皆[みな] 無事[ぶじ]だった。
+  Es gab ein großes Erdbeben, aber meine ganze Familie war in Sicherheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

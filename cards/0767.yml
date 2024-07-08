@@ -1,13 +1,27 @@
 Rang: 767
 Lemma: 動き
 Lesung: うごき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bewegung, Aktion
-Beispielsatz: 星の動きを観察するのが仕事です。
-Beispielsatz-Lesung: 星[ほし]の 動[うご]きを 観察[かんさつ]するのが 仕事[しごと]です。
-Beispielsatz-Übersetzung: Meine Aufgabe ist es, die Bewegung der Sterne zu beobachten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ご</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  星の動きを観察するのが仕事です。
+  星[ほし]の 動[うご]きを 観察[かんさつ]するのが 仕事[しごと]です。
+  Meine Aufgabe ist es, die Bewegung der Sterne zu beobachten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

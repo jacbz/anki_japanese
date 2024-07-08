@@ -1,13 +1,27 @@
 Rang: 1527
 Lemma: 周囲
 Lesung: しゅうい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Umgebung
-Beispielsatz: その家は周囲を森に囲まれていた。
-Beispielsatz-Lesung: その 家[いえ]は 周囲[しゅうい]を 森[もり]に 囲[かこ]まれていた。
-Beispielsatz-Übersetzung: Das Haus war von Wald umgeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span><span class="char">ゅ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その家は周囲を森に囲まれていた。
+  その 家[いえ]は 周囲[しゅうい]を 森[もり]に 囲[かこ]まれていた。
+  Das Haus war von Wald umgeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

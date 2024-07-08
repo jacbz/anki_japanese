@@ -1,13 +1,27 @@
 Rang: 962
 Lemma: 慣れる
 Lesung: なれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sich an etwas gewöhnen
-Beispielsatz: 大阪の生活に慣れてきた。
-Beispielsatz-Lesung: 大阪[おおさか]の 生活[せいかつ]に 慣[な]れてきた。
-Beispielsatz-Übersetzung: Ich gewöhne mich langsam an das Leben in Osaka.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大阪の生活に慣れてきた。
+  大阪[おおさか]の 生活[せいかつ]に 慣[な]れてきた。
+  Ich gewöhne mich langsam an das Leben in Osaka.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

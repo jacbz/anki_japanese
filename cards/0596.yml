@@ -1,13 +1,24 @@
 Rang: 596
 Lemma: 酒
 Lesung: さけ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Alkohol, Sake, Reiswein
-Beispielsatz: 酒を飲むのをやめようと決めた。
-Beispielsatz-Lesung: 酒[さけ]を 飲[の]むのをやめようと 決[き]めた。
-Beispielsatz-Übersetzung: Ich habe beschlossen, das Trinken von Alkohol aufzugeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  酒を飲むのをやめようと決めた。
+  酒[さけ]を 飲[の]むのをやめようと 決[き]めた。
+  Ich habe beschlossen, das Trinken von Alkohol aufzugeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

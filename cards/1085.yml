@@ -1,13 +1,28 @@
 Rang: 1085
 Lemma: 購入
 Lesung: こうにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einkauf, Ankauf
 Extra: （する）
 Wortart: n. v.
-Definition: Einkauf, Ankauf
-Beispielsatz: 去年、自宅を購入しました。
-Beispielsatz-Lesung: 去年[きょねん]、 自宅[じたく]を 購入[こうにゅう]しました。
-Beispielsatz-Übersetzung: Ich habe letztes Jahr das Haus gekauft.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">に</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ↗</>Internet
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  去年、自宅を購入しました。
+  去年[きょねん]、 自宅[じたく]を 購入[こうにゅう]しました。
+  Ich habe letztes Jahr das Haus gekauft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

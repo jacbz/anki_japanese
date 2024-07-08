@@ -1,13 +1,24 @@
 Rang: 3611
 Lemma: 重要性
 Lesung: じゅうようせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bedeutung
-Beispielsatz: 彼はチャレンジすることの重要性を説いた。
-Beispielsatz-Lesung: 彼[かれ]はチャレンジすることの 重要性[じゅうようせい]を 説[と]いた。
-Beispielsatz-Übersetzung: Er betonte die Bedeutung, Dinge auszuprobieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はチャレンジすることの重要性を説いた。
+  彼[かれ]はチャレンジすることの 重要性[じゅうようせい]を 説[と]いた。
+  Er betonte die Bedeutung, Dinge auszuprobieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

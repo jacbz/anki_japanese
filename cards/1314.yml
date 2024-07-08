@@ -1,14 +1,27 @@
 Rang: 1314
 Lemma: 現場
 Lesung: げんば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ort des Geschehens, Einsatzort
-Beispielsatz: 自動車事故の現場を見てしまった。
-Beispielsatz-Lesung: 自動車事故[じどうしゃじこ]の 現場[げんば]を 見[み]てしまった。
-Beispielsatz-Übersetzung: Ich habe zufällig den Ort des Geschehens eines Autounfalls
-  gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ば</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  自動車事故の現場を見てしまった。
+  自動車事故[じどうしゃじこ]の 現場[げんば]を 見[み]てしまった。
+  Ich habe zufällig den Ort des Geschehens eines Autounfalls gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

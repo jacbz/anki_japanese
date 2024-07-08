@@ -1,13 +1,24 @@
 Rang: 1560
 Lemma: パリ
-Lesung: パリ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Paris
-Beispielsatz: 彼は今パリにいる。
-Beispielsatz-Lesung: 彼[かれ]は 今[こん]パリにいる。
-Beispielsatz-Übersetzung: Er ist jetzt in Paris.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は今パリにいる。
+  彼[かれ]は 今[こん]パリにいる。
+  Er ist jetzt in Paris.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

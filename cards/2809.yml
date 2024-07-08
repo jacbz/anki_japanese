@@ -1,13 +1,24 @@
 Rang: 2809
 Lemma: 十六
 Lesung: じゅうろく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: sechzehn
-Beispielsatz: 彼女の十六歳の誕生日を祝う。
-Beispielsatz-Lesung: 彼女[かのじょ]の十六 歳[さい]の 誕生日[たんじょうび]を 祝[いわ]う。
-Beispielsatz-Übersetzung: Wir werden ihren sechzehnten Geburtstag feiern.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の十六歳の誕生日を祝う。
+  彼女[かのじょ]の十六 歳[さい]の 誕生日[たんじょうび]を 祝[いわ]う。
+  Wir werden ihren sechzehnten Geburtstag feiern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

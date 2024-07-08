@@ -1,13 +1,24 @@
 Rang: 3267
 Lemma: いかなる
-Lesung: いかなる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: welche Art von, irgendeine
-Beispielsatz: いかなる理由があろうと、許されない。
-Beispielsatz-Lesung: いかなる 理由[りゆう]があろうと、 許[ゆる]されない。
-Beispielsatz-Übersetzung: Es ist aus irgendeinem Grund nicht erlaubt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いかなる理由があろうと、許されない。
+  いかなる 理由[りゆう]があろうと、 許[ゆる]されない。
+  Es ist aus irgendeinem Grund nicht erlaubt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

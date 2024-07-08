@@ -1,13 +1,24 @@
 Rang: 1259
 Lemma: 主に
 Lesung: おもに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: hauptsächlich, größtenteils, vorwiegend
-Beispielsatz: この店は主に輸入品を扱っている。
-Beispielsatz-Lesung: この 店[みせ]は 主[おも]に 輸入品[ゆにゅうひん]を 扱[あつか]っている。
-Beispielsatz-Übersetzung: Dieser Laden handelt hauptsächlich mit importierten Waren.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この店は主に輸入品を扱っている。
+  この 店[みせ]は 主[おも]に 輸入品[ゆにゅうひん]を 扱[あつか]っている。
+  Dieser Laden handelt hauptsächlich mit importierten Waren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

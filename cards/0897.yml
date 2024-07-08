@@ -1,13 +1,28 @@
 Rang: 897
 Lemma: 幸せ
 Lesung: しあわせ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n.
+Alternativschreibweisen: ''
 Definition: Glück; Wohlstand
-Beispielsatz: お二人の幸せを祈ります。
-Beispielsatz-Lesung: お二人の 幸[しあわ]せを 祈[いの]ります。
-Beispielsatz-Übersetzung: Ich wünsche euch beiden alles Glück der Welt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">せ</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お二人の幸せを祈ります。
+  お二人の 幸[しあわ]せを 祈[いの]ります。
+  Ich wünsche euch beiden alles Glück der Welt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

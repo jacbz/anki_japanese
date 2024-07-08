@@ -1,13 +1,27 @@
 Rang: 634
 Lemma: 料理
 Lesung: りょうり
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Kochen
 Extra: （する）
 Wortart: n. v.
-Definition: Kochen
-Beispielsatz: 父は料理が上手だ。
-Beispielsatz-Lesung: 父[ちち]は 料理[りょうり]が 上手[じょうず]だ。
-Beispielsatz-Übersetzung: Mein Vater ist gut im Kochen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">り</span><span class="char">ょ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父は料理が上手だ。
+  父[ちち]は 料理[りょうり]が 上手[じょうず]だ。
+  Mein Vater ist gut im Kochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

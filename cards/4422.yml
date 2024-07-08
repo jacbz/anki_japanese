@@ -1,14 +1,24 @@
 Rang: 4422
 Lemma: グラウンド
-Lesung: グラウンド
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Platz, Spielplatz, Sportplatz
-Beispielsatz: 放課後はたいていグラウンドで野球をします。
-Beispielsatz-Lesung: 放課後[ほうかご]はたいていグラウンドで 野球[やきゅう]をします。
-Beispielsatz-Übersetzung: Ich spiele normalerweise nach der Schule Baseball auf dem
-  Sportplatz.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  放課後はたいていグラウンドで野球をします。
+  放課後[ほうかご]はたいていグラウンドで 野球[やきゅう]をします。
+  Ich spiele normalerweise nach der Schule Baseball auf dem Sportplatz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

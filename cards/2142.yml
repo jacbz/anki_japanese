@@ -1,13 +1,28 @@
 Rang: 2142
 Lemma: 駅前
 Lesung: えきまえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vor dem Bahnhof
-Beispielsatz: 昨日の晩は駅前のホテルに泊まった。
-Beispielsatz-Lesung: 昨日[きのう]の 晩[ばん]は 駅前[えきまえ]のホテルに 泊[と]まった。
-Beispielsatz-Übersetzung: Ich habe gestern Abend in einem Hotel vor dem Bahnhof übernachtet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">え</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨日の晩は駅前のホテルに泊まった。
+  昨日[きのう]の 晩[ばん]は 駅前[えきまえ]のホテルに 泊[と]まった。
+  Ich habe gestern Abend in einem Hotel vor dem Bahnhof übernachtet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

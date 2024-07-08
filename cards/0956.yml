@@ -1,15 +1,26 @@
 Rang: 956
 Lemma: そば
-Lesung: そば
-Alternative: |2-
+Lesung: ''
+Alternativschreibweisen: |2-
 
   側
-Extra: '' # nur bei する-Verben
-Wortart: n.
 Definition: seitlich, nahe
-Beispielsatz: 女の子が母親のすぐ側に座っている。
-Beispielsatz-Lesung: 女[おんな]の 子[こ]が 母親[ははおや]のすぐ 側[そば]に 座[すわ]っている。
-Beispielsatz-Übersetzung: Ein Mädchen sitzt direkt neben ihrer Mutter.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  女の子が母親のすぐ側に座っている。
+  女[おんな]の 子[こ]が 母親[ははおや]のすぐ 側[そば]に 座[すわ]っている。
+  Ein Mädchen sitzt direkt neben ihrer Mutter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

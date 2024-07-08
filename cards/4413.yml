@@ -1,13 +1,24 @@
 Rang: 4413
 Lemma: 危険性
 Lesung: きけんせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gefahr
-Beispielsatz: 医者は喫煙の危険性について警告した。
-Beispielsatz-Lesung: 医者[いしゃ]は 喫煙[きつえん]の 危険性[きけんせい]について 警告[けいこく]した。
-Beispielsatz-Übersetzung: Der Arzt hat mich vor den Gefahren des Rauchens gewarnt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  医者は喫煙の危険性について警告した。
+  医者[いしゃ]は 喫煙[きつえん]の 危険性[きけんせい]について 警告[けいこく]した。
+  Der Arzt hat mich vor den Gefahren des Rauchens gewarnt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

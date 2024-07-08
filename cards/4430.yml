@@ -1,14 +1,27 @@
 Rang: 4430
 Lemma: 赤字
 Lesung: あかじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Defizit, Verlust, (im) Minus
-Beispielsatz: 今月の家計は赤字なので節約しなければならない。
-Beispielsatz-Lesung: 今月[こんげつ]の 家計[かけい]は 赤字[あかじ]なので 節約[せつやく]しなければならない。
-Beispielsatz-Übersetzung: Wir müssen sparen, weil der Haushaltsplan diesen Monat im
-  Minus ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月の家計は赤字なので節約しなければならない。
+  今月[こんげつ]の 家計[かけい]は 赤字[あかじ]なので 節約[せつやく]しなければならない。
+  Wir müssen sparen, weil der Haushaltsplan diesen Monat im Minus ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4511
 Lemma: キャベツ
-Lesung: キャベツ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Kohl
-Beispielsatz: サラダを作るためにキャベツを千切りにした。
-Beispielsatz-Lesung: サラダを 作[つく]るためにキャベツを 千切[せんぎ]りにした。
-Beispielsatz-Übersetzung: Ich habe den Kohl für den Salat zerkleinert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  サラダを作るためにキャベツを千切りにした。
+  サラダを 作[つく]るためにキャベツを 千切[せんぎ]りにした。
+  Ich habe den Kohl für den Salat zerkleinert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

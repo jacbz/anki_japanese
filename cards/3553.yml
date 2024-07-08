@@ -1,13 +1,27 @@
 Rang: 3553
 Lemma: 修理
 Lesung: しゅうり
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Reparatur
 Extra: （する）
 Wortart: n. v.
-Definition: Reparatur
-Beispielsatz: そのパソコンは修理が必要だ。
-Beispielsatz-Lesung: そのパソコンは 修理[しゅうり]が 必要[ひつよう]だ。
-Beispielsatz-Übersetzung: Der PC muss repariert werden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span><span class="char">ゅ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのパソコンは修理が必要だ。
+  そのパソコンは 修理[しゅうり]が 必要[ひつよう]だ。
+  Der PC muss repariert werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

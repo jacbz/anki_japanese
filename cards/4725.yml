@@ -1,14 +1,24 @@
 Rang: 4725
 Lemma: 寄与
 Lesung: きよ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: beitragen; beitragen zu
 Extra: （する）
 Wortart: n. v.
-Definition: beitragen; beitragen zu
-Beispielsatz: 彼は文化の発展に大いに寄与した。
-Beispielsatz-Lesung: 彼[かれ]は 文化[ぶんか]の 発展[はってん]に 大[おお]いに 寄与[きよ]した。
-Beispielsatz-Übersetzung: Er hat einen großen Beitrag zur kulturellen Entwicklung
-  geleistet.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は文化の発展に大いに寄与した。
+  彼[かれ]は 文化[ぶんか]の 発展[はってん]に 大[おお]いに 寄与[きよ]した。
+  Er hat einen großen Beitrag zur kulturellen Entwicklung geleistet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

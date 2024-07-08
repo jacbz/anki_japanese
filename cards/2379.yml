@@ -1,14 +1,24 @@
 Rang: 2379
 Lemma: 十三
 Lesung: じゅうさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: dreizehn
-Beispielsatz: 十三は不吉な数字だと思う人もいる。
-Beispielsatz-Lesung: 十三は 不吉[ふきつ]な 数字[すうじ]だと 思[おも]う人もいる。
-Beispielsatz-Übersetzung: Es gibt Menschen, die glauben, dass dreizehn eine Unglückszahl
-  ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十三は不吉な数字だと思う人もいる。
+  十三は 不吉[ふきつ]な 数字[すうじ]だと 思[おも]う人もいる。
+  Es gibt Menschen, die glauben, dass dreizehn eine Unglückszahl ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

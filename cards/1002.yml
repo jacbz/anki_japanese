@@ -1,13 +1,24 @@
 Rang: 1002
 Lemma: ほぼ
-Lesung: ほぼ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ungefähr, fast, nahezu
-Beispielsatz: 私は毎日ほぼ同じ時間に起きます。
-Beispielsatz-Lesung: 私[わたし]は 毎日[まいにち]ほぼ 同[おな]じ 時間[じかん]に 起[お]きます。
-Beispielsatz-Übersetzung: Ich stehe fast jeden Morgen um die gleiche Zeit auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は毎日ほぼ同じ時間に起きます。
+  私[わたし]は 毎日[まいにち]ほぼ 同[おな]じ 時間[じかん]に 起[お]きます。
+  Ich stehe fast jeden Morgen um die gleiche Zeit auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

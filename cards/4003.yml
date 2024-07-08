@@ -1,13 +1,27 @@
 Rang: 4003
 Lemma: 行使
 Lesung: こうし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: ausüben
 Extra: （する）
 Wortart: n.
-Definition: ausüben
-Beispielsatz: 投票権を行使した。
-Beispielsatz-Lesung: 投票権[とうひょうけん]を 行使[こうし]した。
-Beispielsatz-Übersetzung: Sie haben das Recht zu wählen ausgeübt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  投票権を行使した。
+  投票権[とうひょうけん]を 行使[こうし]した。
+  Sie haben das Recht zu wählen ausgeübt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

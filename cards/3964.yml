@@ -1,13 +1,24 @@
 Rang: 3964
 Lemma: 三分の一
 Lesung: さんーぶんのいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: ein Drittel
-Beispielsatz: 国土の三分の一は海に囲まれている。
-Beispielsatz-Lesung: 国土[こくど]の 三分[さんぶん]の 一[いち]は 海[うみ]に 囲[かこ]まれている。
-Beispielsatz-Übersetzung: Etwa ein Drittel des Landes ist vom Meer umgeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国土の三分の一は海に囲まれている。
+  国土[こくど]の 三分[さんぶん]の 一[いち]は 海[うみ]に 囲[かこ]まれている。
+  Etwa ein Drittel des Landes ist vom Meer umgeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 3624
 Lemma: 尊重
 Lesung: そんちょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Respektieren; Etwas ernsthaft in Betracht ziehen
 Extra: （する）
 Wortart: n. v.
-Definition: Respektieren; Etwas ernsthaft in Betracht ziehen
-Beispielsatz: 第三者の意見も尊重されるべきだ。
-Beispielsatz-Lesung: 第三者[だいさんしゃ]の 意見[いけん]も 尊重[そんちょう]されるべきだ。
-Beispielsatz-Übersetzung: Die Meinungen Dritter sollten auch ernsthaft in Betracht
-  gezogen werden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  第三者の意見も尊重されるべきだ。
+  第三者[だいさんしゃ]の 意見[いけん]も 尊重[そんちょう]されるべきだ。
+  Die Meinungen Dritter sollten auch ernsthaft in Betracht gezogen werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

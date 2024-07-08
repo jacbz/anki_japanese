@@ -1,13 +1,27 @@
 Rang: 4776
 Lemma: 正義
 Lesung: せいぎ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gerechtigkeit
-Beispielsatz: 裁判で正義のために戦う。
-Beispielsatz-Lesung: 裁判[さいばん]で 正義[せいぎ]のために 戦[たたか]う。
-Beispielsatz-Übersetzung: Ich kämpfe vor Gericht für Gerechtigkeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">せ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ぎ</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  裁判で正義のために戦う。
+  裁判[さいばん]で 正義[せいぎ]のために 戦[たたか]う。
+  Ich kämpfe vor Gericht für Gerechtigkeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

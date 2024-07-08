@@ -1,13 +1,29 @@
 Rang: 4824
 Lemma: 組み立てる
 Lesung: くみたてる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zusammenbauen
-Beispielsatz: 彼はその複雑な機械を三分間で組み立てることができる。
-Beispielsatz-Lesung: 彼[かれ]はその 複雑[ふくざつ]な 機械[きかい]を三 分間[ふんかん]で 組[く]み 立[た]てることができる。
-Beispielsatz-Übersetzung: Er kann diese komplizierte Maschine in drei Minuten zusammenbauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はその複雑な機械を三分間で組み立てることができる。
+  彼[かれ]はその 複雑[ふくざつ]な 機械[きかい]を三 分間[ふんかん]で 組[く]み 立[た]てることができる。
+  Er kann diese komplizierte Maschine in drei Minuten zusammenbauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

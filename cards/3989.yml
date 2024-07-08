@@ -1,13 +1,28 @@
 Rang: 3989
 Lemma: 脱出
 Lesung: だっしゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: entkommen; entkommen, ausbrechen
 Extra: （する）
 Wortart: n. v.
-Definition: entkommen; entkommen, ausbrechen
-Beispielsatz: 彼は刑務所から脱出した。
-Beispielsatz-Lesung: 彼[かれ]は 刑務所[けいむしょ]から 脱出[だっしゅつ]した。
-Beispielsatz-Übersetzung: Er ist aus dem Gefängnis ausgebrochen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は刑務所から脱出した。
+  彼[かれ]は 刑務所[けいむしょ]から 脱出[だっしゅつ]した。
+  Er ist aus dem Gefängnis ausgebrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

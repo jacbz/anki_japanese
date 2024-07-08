@@ -1,14 +1,24 @@
 Rang: 461
 Lemma: でない
-Lesung: でない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: KOPULA (NEGATIV)
-Beispielsatz: その店には日本産でない製品がたくさんある。
-Beispielsatz-Lesung: その 店[みせ]には 日本[にっぽん] 産[さん]でない 製品[せいひん]がたくさんある。
-Beispielsatz-Übersetzung: Es gibt viele Produkte in dem Geschäft, die nicht in Japan
-  hergestellt wurden.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その店には日本産でない製品がたくさんある。
+  その 店[みせ]には 日本[にっぽん] 産[さん]でない 製品[せいひん]がたくさんある。
+  Es gibt viele Produkte in dem Geschäft, die nicht in Japan hergestellt wurden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

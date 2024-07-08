@@ -1,13 +1,24 @@
 Rang: 4788
 Lemma: この方
 Lesung: このかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: diese Person
-Beispielsatz: この方を知りませんでした。
-Beispielsatz-Lesung: この 方[ほう]を 知[し]りませんでした。
-Beispielsatz-Übersetzung: Ich kannte diese Person nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この方を知りませんでした。
+  この 方[ほう]を 知[し]りませんでした。
+  Ich kannte diese Person nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

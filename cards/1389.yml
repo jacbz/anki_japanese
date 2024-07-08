@@ -1,13 +1,26 @@
 Rang: 1389
 Lemma: 向く
 Lesung: むく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sich wenden, sich drehen, schauen
-Beispielsatz: 彼女は私のほうを向いて泣き出した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 私[わたし]のほうを 向[む]いて 泣[な]き 出[だ]した。
-Beispielsatz-Übersetzung: Sie hat sich zu mir gewendet und angefangen zu weinen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は私のほうを向いて泣き出した。
+  彼女[かのじょ]は 私[わたし]のほうを 向[む]いて 泣[な]き 出[だ]した。
+  Sie hat sich zu mir gewendet und angefangen zu weinen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 4255
 Lemma: 試み
 Lesung: こころみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Versuch
-Beispielsatz: 彼は三度目の試みで試験に合格した。
-Beispielsatz-Lesung: 彼[かれ]は三 度目[どめ]の 試[こころ]みで 試験[しけん]に 合格[ごうかく]した。
-Beispielsatz-Übersetzung: Er hat die Prüfung beim dritten Versuch bestanden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は三度目の試みで試験に合格した。
+  彼[かれ]は三 度目[どめ]の 試[こころ]みで 試験[しけん]に 合格[ごうかく]した。
+  Er hat die Prüfung beim dritten Versuch bestanden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

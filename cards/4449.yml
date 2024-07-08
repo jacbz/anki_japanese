@@ -1,14 +1,27 @@
 Rang: 4449
 Lemma: 相違
 Lesung: そうい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Unterschied, Meinungsverschiedenheit
-Beispielsatz: 私達の間に意見の相違があるようだ。
-Beispielsatz-Lesung: 私[わたし] 達[たち]の 間[ま]に 意見[いけん]の 相違[そうい]があるようだ。
-Beispielsatz-Übersetzung: Es scheint eine Meinungsverschiedenheit zwischen uns zu
-  geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達の間に意見の相違があるようだ。
+  私[わたし] 達[たち]の 間[ま]に 意見[いけん]の 相違[そうい]があるようだ。
+  Es scheint eine Meinungsverschiedenheit zwischen uns zu geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

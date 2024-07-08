@@ -1,13 +1,26 @@
 Rang: 51
 Lemma: これ
-Lesung: これ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dieses
-Beispielsatz: これをください。(レストランや店で）
-Beispielsatz-Lesung: これをください。(レストランや 店[みせ]で）
-Beispielsatz-Übersetzung: Ich werde dieses nehmen. (in einem Restaurant oder Geschäft)
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これをください。(レストランや店で）
+  これをください。(レストランや 店[みせ]で）
+  Ich werde dieses nehmen. (in einem Restaurant oder Geschäft)
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

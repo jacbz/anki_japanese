@@ -1,13 +1,24 @@
 Rang: 1856
 Lemma: 遥か
 Lesung: はるか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: weit entfernt, fern
-Beispielsatz: 遥か昔のことのようだ。
-Beispielsatz-Lesung: 遥[はる]か 昔[むかし]のことのようだ。
-Beispielsatz-Übersetzung: Es scheint wie vor langer Zeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  遥か昔のことのようだ。
+  遥[はる]か 昔[むかし]のことのようだ。
+  Es scheint wie vor langer Zeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

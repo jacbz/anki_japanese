@@ -1,13 +1,27 @@
 Rang: 226
-Lemma: あなた<br>あんた
+Lemma: あなた
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: あんた
 Definition: du, Sie
-Beispielsatz: あなたの協力が必要です。
-Beispielsatz-Lesung: あなたの 協力[きょうりょく]が 必要[ひつよう]です。
-Beispielsatz-Übersetzung: Deine Hilfe wird benötigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">た</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あなたの協力が必要です。
+  あなたの 協力[きょうりょく]が 必要[ひつよう]です。
+  Deine Hilfe wird benötigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

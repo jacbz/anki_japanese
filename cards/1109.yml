@@ -1,13 +1,24 @@
 Rang: 1109
 Lemma: 時々
 Lesung: ときどき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: manchmal, gelegentlich
-Beispielsatz: 息子は時々私に会いに来てくれる。
-Beispielsatz-Lesung: 息子[むすこ]は 時々[ときどき] 私[わたし]に 会[あ]いに 来[き]てくれる。
-Beispielsatz-Übersetzung: Mein Sohn kommt gelegentlich, um mich zu besuchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  息子は時々私に会いに来てくれる。
+  息子[むすこ]は 時々[ときどき] 私[わたし]に 会[あ]いに 来[き]てくれる。
+  Mein Sohn kommt gelegentlich, um mich zu besuchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

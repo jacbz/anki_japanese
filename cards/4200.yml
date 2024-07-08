@@ -1,14 +1,24 @@
 Rang: 4200
 Lemma: ぼんやり
-Lesung: ぼんやり
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: zerstreut sein, abwesend sein; unklar sein, verschwommen sein
 Extra: （する）
 Wortart: adv. v.
-Definition: zerstreut sein, abwesend sein; unklar sein, verschwommen sein
-Beispielsatz: 彼女は授業中ぼんやり窓の外を見ていた。
-Beispielsatz-Lesung: 彼女[かのじょ]は 授業中[じゅぎょうちゅう]ぼんやり 窓[まど]の 外[そと]を 見[み]ていた。
-Beispielsatz-Übersetzung: Sie schaute während des Unterrichts gedankenverloren aus
-  dem Fenster.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は授業中ぼんやり窓の外を見ていた。
+  彼女[かのじょ]は 授業中[じゅぎょうちゅう]ぼんやり 窓[まど]の 外[そと]を 見[み]ていた。
+  Sie schaute während des Unterrichts gedankenverloren aus dem Fenster.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

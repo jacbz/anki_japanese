@@ -1,13 +1,27 @@
 Rang: 1098
 Lemma: 多少
 Lesung: たしょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: etwas; ein bisschen
-Beispielsatz: 私はスペイン語を多少知っています。
-Beispielsatz-Lesung: 私[わたし]はスペイン 語[ご]を 多少[たしょう] 知[し]っています。
-Beispielsatz-Übersetzung: Ich kenne ein bisschen Spanisch.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はスペイン語を多少知っています。
+  私[わたし]はスペイン 語[ご]を 多少[たしょう] 知[し]っています。
+  Ich kenne ein bisschen Spanisch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

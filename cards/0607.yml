@@ -1,13 +1,24 @@
 Rang: 607
 Lemma: のぼる
-Lesung: のぼる
-Alternative: 上る
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: 上る
 Definition: hinaufgehen, steigen; erreichen
-Beispielsatz: 被災者の数は5000人に上った。
-Beispielsatz-Lesung: 被災者[ひさいしゃ]の 数[かず]は5000人に 上[のぼ]った。
-Beispielsatz-Übersetzung: Die Anzahl der Opfer erreichte 5.000.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  被災者の数は5000人に上った。
+  被災者[ひさいしゃ]の 数[かず]は5000人に 上[のぼ]った。
+  Die Anzahl der Opfer erreichte 5.000.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

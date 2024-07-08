@@ -1,13 +1,28 @@
 Rang: 39
 Lemma: そう
-Lesung: そう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
-Definition: so, solch
-Beispielsatz: 私もそう思います。
-Beispielsatz-Lesung: 私[わたし]もそう 思[おも]います。
-Beispielsatz-Übersetzung: Ich stimme zu.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: so, solch; kurz davor sein
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n., na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私もそう思います。
+  私[わたし]もそう 思[おも]います。
+  Ich stimme zu.
+
+  彼女は今にも泣きそうだった。
+  彼女[かのじょ]は 今[いま]にも 泣[な]きそうだった。
+  Sie war kurz davor zu weinen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2588
 Lemma: 第三
 Lesung: だいさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dritte
-Beispielsatz: 第三者からの意見は貴重だ。
-Beispielsatz-Lesung: 第三者[だいさんしゃ]からの 意見[いけん]は 貴重[きちょう]だ。
-Beispielsatz-Übersetzung: Kommentare von Dritten sind wichtig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  第三者からの意見は貴重だ。
+  第三者[だいさんしゃ]からの 意見[いけん]は 貴重[きちょう]だ。
+  Kommentare von Dritten sind wichtig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

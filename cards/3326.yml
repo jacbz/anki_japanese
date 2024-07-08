@@ -1,13 +1,24 @@
 Rang: 3326
 Lemma: 寝袋
 Lesung: ねぶくろ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schlafsack
-Beispielsatz: キャンプでは、テントを張って、寝袋で寝た。
-Beispielsatz-Lesung: キャンプでは、テントを 張[は]って、 寝袋[ねぶくろ]で 寝[ね]た。
-Beispielsatz-Übersetzung: Im Lager schlugen wir ein Zelt auf und schliefen in Schlafsäcken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '30'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  キャンプでは、テントを張って、寝袋で寝た。
+  キャンプでは、テントを 張[は]って、 寝袋[ねぶくろ]で 寝[ね]た。
+  Im Lager schlugen wir ein Zelt auf und schliefen in Schlafsäcken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

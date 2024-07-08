@@ -1,13 +1,26 @@
 Rang: 1487
 Lemma: 暇
 Lesung: ひま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj., n.
+Alternativschreibweisen: ''
 Definition: frei; Freizeit
-Beispielsatz: 今晩暇ですか。
-Beispielsatz-Lesung: 今晩[こんばん] 暇[ひま]ですか。
-Beispielsatz-Übersetzung: Bist du heute Abend frei?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今晩暇ですか。
+  今晩[こんばん] 暇[ひま]ですか。
+  Bist du heute Abend frei?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

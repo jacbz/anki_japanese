@@ -1,13 +1,24 @@
 Rang: 14
 Lemma: です
-Lesung: です
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: KOPULA (höflich)
-Beispielsatz: 彼は独身です。
-Beispielsatz-Lesung: 彼[かれ]は 独身[どくしん]です。
-Beispielsatz-Übersetzung: Er ist ledig.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は独身です。
+  彼[かれ]は 独身[どくしん]です。
+  Er ist ledig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

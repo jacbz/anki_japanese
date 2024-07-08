@@ -1,13 +1,24 @@
 Rang: 1999
 Lemma: 攻撃
 Lesung: こうげき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Angriff
 Extra: （する）
 Wortart: n. v.
-Definition: Angriff
-Beispielsatz: 彼らは敵を攻撃した。
-Beispielsatz-Lesung: 彼[かれ]らは 敵[てき]を 攻撃[こうげき]した。
-Beispielsatz-Übersetzung: Sie griffen den Feind an.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは敵を攻撃した。
+  彼[かれ]らは 敵[てき]を 攻撃[こうげき]した。
+  Sie griffen den Feind an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 352
 Lemma: じゃ
-Lesung: じゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: also, nun, dann
-Beispielsatz: じゃ、また明日。
-Beispielsatz-Lesung: じゃ、また 明日[あした]。
-Beispielsatz-Übersetzung: Also, bis morgen.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj., aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  じゃ、また明日。
+  じゃ、また 明日[あした]。
+  Also, bis morgen.
+
+  なんじゃ、こりゃ。
+  なんじゃ、こりゃ。
+  Was zum Teufel ist das?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

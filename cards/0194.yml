@@ -1,13 +1,25 @@
 Rang: 194
 Lemma: 手
 Lesung: て
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hand
-Beispielsatz: 父の手は大きい。
-Beispielsatz-Lesung: 父[ちち]の 手[て]は 大[おお]きい。
-Beispielsatz-Übersetzung: Mein Vater hat große Hände.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">て</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父の手は大きい。
+  父[ちち]の 手[て]は 大[おお]きい。
+  Mein Vater hat große Hände.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

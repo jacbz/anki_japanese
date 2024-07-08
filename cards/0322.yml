@@ -1,13 +1,24 @@
 Rang: 322
 Lemma: どんな
-Lesung: どんな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: was für ein
-Beispielsatz: 明子さんのご主人はどんな人ですか。
-Beispielsatz-Lesung: 明子[あきこ]さんのご 主人[しゅじん]はどんな人ですか。
-Beispielsatz-Übersetzung: Wie ist Akikos Ehemann?
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明子さんのご主人はどんな人ですか。
+  明子[あきこ]さんのご 主人[しゅじん]はどんな人ですか。
+  Wie ist Akikos Ehemann?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

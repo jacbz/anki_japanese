@@ -1,13 +1,27 @@
 Rang: 4988
 Lemma: 署名
 Lesung: しょめい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Unterschrift; unterschreiben
 Extra: （する）
 Wortart: n. v.
-Definition: Unterschrift; unterschreiben
-Beispielsatz: 千人の署名を集めた。
-Beispielsatz-Lesung: 千[せん]人の 署名[しょめい]を 集[あつ]めた。
-Beispielsatz-Übersetzung: Wir haben die Unterschriften von 1.000 Personen gesammelt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">め</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  千人の署名を集めた。
+  千[せん]人の 署名[しょめい]を 集[あつ]めた。
+  Wir haben die Unterschriften von 1.000 Personen gesammelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

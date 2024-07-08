@@ -1,13 +1,27 @@
 Rang: 4667
 Lemma: 装置
 Lesung: そうち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Gerät, Ausrüstung; ausstatten mit
 Extra: （する）
 Wortart: n. v.
-Definition: Gerät, Ausrüstung; ausstatten mit
-Beispielsatz: 実験室には最新式のシステムが装置してある。
-Beispielsatz-Lesung: 実験室[じっけんしつ]には 最新式[さいしんしき]のシステムが 装置[そうち]してある。
-Beispielsatz-Übersetzung: Das Labor ist mit dem neuesten System ausgestattet.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">そ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  実験室には最新式のシステムが装置してある。
+  実験室[じっけんしつ]には 最新式[さいしんしき]のシステムが 装置[そうち]してある。
+  Das Labor ist mit dem neuesten System ausgestattet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1816
 Lemma: 四年
 Lesung: よねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vier Jahre
-Beispielsatz: 私たちが結婚して四年になる。
-Beispielsatz-Lesung: 私[わたし]たちが 結婚[けっこん]して四 年[ねん]になる。
-Beispielsatz-Übersetzung: Wir sind seit vier Jahren verheiratet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちが結婚して四年になる。
+  私[わたし]たちが 結婚[けっこん]して四 年[ねん]になる。
+  Wir sind seit vier Jahren verheiratet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

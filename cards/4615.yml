@@ -1,13 +1,28 @@
 Rang: 4615
 Lemma: 両側
 Lesung: りょうがわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: beide Seiten
-Beispielsatz: 通りの両側にホテルがあります。
-Beispielsatz-Lesung: 通[とお]りの 両側[りょうがわ]にホテルがあります。
-Beispielsatz-Übersetzung: Es gibt Hotels auf beiden Seiten der Straße.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">が</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  通りの両側にホテルがあります。
+  通[とお]りの 両側[りょうがわ]にホテルがあります。
+  Es gibt Hotels auf beiden Seiten der Straße.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4319
 Lemma: テキスト
-Lesung: テキスト
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Lehrbuch
-Beispielsatz: 授業が始まる前にテキストを買ってください。
-Beispielsatz-Lesung: 授業[じゅぎょう]が 始[はじ]まる 前[まえ]にテキストを 買[か]ってください。
-Beispielsatz-Übersetzung: Bitte kaufen Sie das Lehrbuch bevor der Unterricht beginnt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  授業が始まる前にテキストを買ってください。
+  授業[じゅぎょう]が 始[はじ]まる 前[まえ]にテキストを 買[か]ってください。
+  Bitte kaufen Sie das Lehrbuch bevor der Unterricht beginnt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

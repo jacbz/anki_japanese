@@ -1,13 +1,24 @@
 Rang: 3041
 Lemma: コンサート
-Lesung: コンサート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Konzert
-Beispielsatz: 一緒にクラシックのコンサートに行かない？
-Beispielsatz-Lesung: 一緒[いっしょ]にクラシックのコンサートに 行[い]かない？
-Beispielsatz-Übersetzung: Möchtest du mit mir zu einem klassischen Konzert gehen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一緒にクラシックのコンサートに行かない？
+  一緒[いっしょ]にクラシックのコンサートに 行[い]かない？
+  Möchtest du mit mir zu einem klassischen Konzert gehen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

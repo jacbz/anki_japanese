@@ -1,13 +1,24 @@
 Rang: 348
 Lemma: に対する
 Lesung: にたいする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: zu; für; gegenüber
-Beispielsatz: 政府に対する抗議デモが行われる。
-Beispielsatz-Lesung: 政府[せいふ]に 対[たい]する 抗議[こうぎ]デモが 行[おこな]われる。
-Beispielsatz-Übersetzung: Eine Demonstration gegenüber der Regierung wird stattfinden.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府に対する抗議デモが行われる。
+  政府[せいふ]に 対[たい]する 抗議[こうぎ]デモが 行[おこな]われる。
+  Eine Demonstration gegenüber der Regierung wird stattfinden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

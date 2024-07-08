@@ -1,13 +1,28 @@
 Rang: 2497
 Lemma: 参照
 Lesung: さんしょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Referenz; konsultieren
 Extra: （する）
 Wortart: n. v.
-Definition: Referenz; konsultieren
-Beispielsatz: 辞書を参照しなさい。
-Beispielsatz-Lesung: 辞書[じしょ]を 参照[さんしょう]しなさい。
-Beispielsatz-Übersetzung: Konsultiere ein Wörterbuch.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  辞書を参照しなさい。
+  辞書[じしょ]を 参照[さんしょう]しなさい。
+  Konsultiere ein Wörterbuch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

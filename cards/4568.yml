@@ -1,13 +1,24 @@
 Rang: 4568
 Lemma: ロープ
-Lesung: ロープ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Seil
-Beispielsatz: 洗濯物をロープにかけて干した。
-Beispielsatz-Lesung: 洗濯物[せんたくもの]をロープにかけて 干[ほ]した。
-Beispielsatz-Übersetzung: Ich hängte die Wäsche zum Trocknen auf die Leine.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  洗濯物をロープにかけて干した。
+  洗濯物[せんたくもの]をロープにかけて 干[ほ]した。
+  Ich hängte die Wäsche zum Trocknen auf die Leine.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

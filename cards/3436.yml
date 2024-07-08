@@ -1,13 +1,28 @@
 Rang: 3436
 Lemma: 下町
 Lesung: したまち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Shitamachi (Ortsname); traditionelles Arbeiterquartier
-Beispielsatz: A氏は東京の下町で生まれ育った。
-Beispielsatz-Lesung: A 氏[し]は 東京[とうきょう]の 下町[したまち]で 生[う]まれ 育[そだ]った。
-Beispielsatz-Übersetzung: Herr A wurde in Shitamachi in Tokio geboren und aufgewachsen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  A氏は東京の下町で生まれ育った。
+  A 氏[し]は 東京[とうきょう]の 下町[したまち]で 生[う]まれ 育[そだ]った。
+  Herr A wurde in Shitamachi in Tokio geboren und aufgewachsen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

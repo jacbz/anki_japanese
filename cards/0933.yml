@@ -1,13 +1,24 @@
 Rang: 933
 Lemma: だけれど
-Lesung: だけれど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedoch, aber
-Beispielsatz: 退屈だけれど読まないといけない。
-Beispielsatz-Lesung: 退屈[たいくつ]だけれど 読[よ]まないといけない。
-Beispielsatz-Übersetzung: Ich muss es lesen, obwohl es langweilig ist, aber.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  退屈だけれど読まないといけない。
+  退屈[たいくつ]だけれど 読[よ]まないといけない。
+  Ich muss es lesen, obwohl es langweilig ist, aber.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2882
 Lemma: 限定
 Lesung: げんてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: beschränken, begrenzen
 Extra: （する）
 Wortart: n. v.
-Definition: beschränken, begrenzen
-Beispielsatz: 訪問時間は三十分に限定されている。
-Beispielsatz-Lesung: 訪問[ほうもん] 時間[じかん]は三十 分[ふん]に 限定[げんてい]されている。
-Beispielsatz-Übersetzung: Die Besuchszeit ist auf dreißig Minuten beschränkt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  訪問時間は三十分に限定されている。
+  訪問[ほうもん] 時間[じかん]は三十 分[ふん]に 限定[げんてい]されている。
+  Die Besuchszeit ist auf dreißig Minuten beschränkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 4245
 Lemma: 害
 Lesung: がい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schaden, Schädigung
-Beispielsatz: たばこは健康に害があるので気をつけましょう。
-Beispielsatz-Lesung: たばこは 健康[けんこう]に 害[がい]があるので 気[き]をつけましょう。
-Beispielsatz-Übersetzung: Bitte seien Sie vorsichtig, denn Rauchen schadet Ihrer Gesundheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">が</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たばこは健康に害があるので気をつけましょう。
+  たばこは 健康[けんこう]に 害[がい]があるので 気[き]をつけましょう。
+  Bitte seien Sie vorsichtig, denn Rauchen schadet Ihrer Gesundheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

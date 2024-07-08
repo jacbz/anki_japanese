@@ -1,13 +1,27 @@
 Rang: 3886
 Lemma: 用事
 Lesung: ようじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Angelegenheit
-Beispielsatz: 彼は用事で呼び出された。
-Beispielsatz-Lesung: 彼[かれ]は 用事[ようじ]で 呼[よ]び 出[だ]された。
-Beispielsatz-Übersetzung: Er wurde wegen einer Angelegenheit weggerufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は用事で呼び出された。
+  彼[かれ]は 用事[ようじ]で 呼[よ]び 出[だ]された。
+  Er wurde wegen einer Angelegenheit weggerufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

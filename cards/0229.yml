@@ -1,14 +1,24 @@
 Rang: 229
 Lemma: なんて
-Lesung: なんて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[drückt Geringschätzung aus]'
-Beispielsatz: 彼女がタバコをやめたなんて信じられない。
-Beispielsatz-Lesung: 彼女[かのじょ]がタバコをやめたなんて 信[しん]じられない。
-Beispielsatz-Übersetzung: Ich kann nicht glauben, dass sie mit dem Rauchen aufgehört
-  hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女がタバコをやめたなんて信じられない。
+  彼女[かのじょ]がタバコをやめたなんて 信[しん]じられない。
+  Ich kann nicht glauben, dass sie mit dem Rauchen aufgehört hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

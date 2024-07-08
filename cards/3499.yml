@@ -1,13 +1,27 @@
 Rang: 3499
 Lemma: 汚染
 Lesung: おせん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Verschmutzung; verschmutzen
 Extra: （する）
 Wortart: n. v.
-Definition: Verschmutzung; verschmutzen
-Beispielsatz: この川の水は汚染されている。
-Beispielsatz-Lesung: この 川[かわ]の 水[みず]は 汚染[おせん]されている。
-Beispielsatz-Übersetzung: Dieser Fluss ist verschmutzt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この川の水は汚染されている。
+  この 川[かわ]の 水[みず]は 汚染[おせん]されている。
+  Dieser Fluss ist verschmutzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

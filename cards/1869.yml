@@ -1,13 +1,24 @@
 Rang: 1869
 Lemma: 十一
 Lesung: じゅういち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: elf
-Beispielsatz: その町まで十一キロある。
-Beispielsatz-Lesung: その 町[まち]まで十一キロある。
-Beispielsatz-Übersetzung: Bis zur Stadt sind es elf Kilometer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その町まで十一キロある。
+  その 町[まち]まで十一キロある。
+  Bis zur Stadt sind es elf Kilometer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

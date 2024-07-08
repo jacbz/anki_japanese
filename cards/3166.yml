@@ -1,13 +1,28 @@
 Rang: 3166
 Lemma: 食材
 Lesung: しょくざい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zutat, Lebensmittel
-Beispielsatz: この料理は新鮮な食材を使っている。
-Beispielsatz-Lesung: この 料理[りょうり]は 新鮮[しんせん]な 食材[しょくざい]を 使[つか]っている。
-Beispielsatz-Übersetzung: Dieses Gericht wurde mit frischen Zutaten zubereitet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ざ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この料理は新鮮な食材を使っている。
+  この 料理[りょうり]は 新鮮[しんせん]な 食材[しょくざい]を 使[つか]っている。
+  Dieses Gericht wurde mit frischen Zutaten zubereitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

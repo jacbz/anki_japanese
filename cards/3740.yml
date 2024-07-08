@@ -1,13 +1,27 @@
 Rang: 3740
 Lemma: 審査
 Lesung: しんさ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Prüfung; prüfen
 Extra: （する）
 Wortart: n. v.
-Definition: Prüfung; prüfen
-Beispielsatz: 空港で入国審査を受ける。
-Beispielsatz-Lesung: 空港[くうこう]で 入国審査[にゅうこくしんさ]を 受[う]ける。
-Beispielsatz-Übersetzung: Menschen durchlaufen am Flughafen eine Visa-Inspektion.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">さ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  空港で入国審査を受ける。
+  空港[くうこう]で 入国審査[にゅうこくしんさ]を 受[う]ける。
+  Menschen durchlaufen am Flughafen eine Visa-Inspektion.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

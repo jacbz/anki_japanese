@@ -1,13 +1,27 @@
 Rang: 2708
 Lemma: 選挙
 Lesung: せんきょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wahl
-Beispielsatz: 次の選挙は来年行われる。
-Beispielsatz-Lesung: 次[つぎ]の 選挙[せんきょ]は 来年[らいねん] 行[おこな]われる。
-Beispielsatz-Übersetzung: Die nächste Wahl findet im nächsten Jahr statt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">せ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  次の選挙は来年行われる。
+  次[つぎ]の 選挙[せんきょ]は 来年[らいねん] 行[おこな]われる。
+  Die nächste Wahl findet im nächsten Jahr statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

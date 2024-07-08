@@ -1,13 +1,24 @@
 Rang: 4960
 Lemma: イスラエル
-Lesung: イスラエル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Israel
-Beispielsatz: 初めてイスラエルを訪問した。
-Beispielsatz-Lesung: 初[はじ]めてイスラエルを 訪問[ほうもん]した。
-Beispielsatz-Übersetzung: Ich habe Israel zum ersten Mal besucht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  初めてイスラエルを訪問した。
+  初[はじ]めてイスラエルを 訪問[ほうもん]した。
+  Ich habe Israel zum ersten Mal besucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4814
 Lemma: 千九百九十年
 Lesung: せんきゅうひゃくきゅうじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 1990 (Jahr)
-Beispielsatz: それは1990年に始まりました。
-Beispielsatz-Lesung: それは1990 年[ねん]に 始[はじ]まりました。
-Beispielsatz-Übersetzung: Es begann im Jahr 1990.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは1990年に始まりました。
+  それは1990 年[ねん]に 始[はじ]まりました。
+  Es begann im Jahr 1990.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

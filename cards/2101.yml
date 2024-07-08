@@ -1,13 +1,25 @@
 Rang: 2101
 Lemma: 世
 Lesung: よ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Welt, Öffentlichkeit; Alter, Herrschaft
-Beispielsatz: その大学は十一万人以上の卒業生を世に送り出した。
-Beispielsatz-Lesung: その 大学[だいがく]は十一 万[まん]人 以上[いじょう]の 卒業生[そつぎょうせい]を 世[よ]に 送[おく]り 出[だ]した。
-Beispielsatz-Übersetzung: Die Universität hat über 110.000 Absolventen hervorgebracht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">よ</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その大学は十一万人以上の卒業生を世に送り出した。
+  その 大学[だいがく]は十一 万[まん]人 以上[いじょう]の 卒業生[そつぎょうせい]を 世[よ]に 送[おく]り 出[だ]した。
+  Die Universität hat über 110.000 Absolventen hervorgebracht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

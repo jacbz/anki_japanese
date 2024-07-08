@@ -1,13 +1,26 @@
 Rang: 438
 Lemma: 寝る
 Lesung: ねる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schlafen
-Beispielsatz: 昨夜は十一時に寝た。
-Beispielsatz-Lesung: 昨夜[さくや]は十一 時[じ]に 寝[ね]た。
-Beispielsatz-Übersetzung: Ich bin gestern Abend um 23 Uhr ins Bett gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ね</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨夜は十一時に寝た。
+  昨夜[さくや]は十一 時[じ]に 寝[ね]た。
+  Ich bin gestern Abend um 23 Uhr ins Bett gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

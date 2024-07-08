@@ -1,14 +1,27 @@
 Rang: 3432
 Lemma: 機関
 Lesung: きかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Maschine; Organisation; Einrichtungen
-Beispielsatz: 将来は国際的な機関で働きたい。
-Beispielsatz-Lesung: 将来[しょうらい]は 国際的[こくさいてき]な 機関[きかん]で 働[はたら]きたい。
-Beispielsatz-Übersetzung: Ich möchte in Zukunft in einer internationalen Organisation
-  arbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  将来は国際的な機関で働きたい。
+  将来[しょうらい]は 国際的[こくさいてき]な 機関[きかん]で 働[はたら]きたい。
+  Ich möchte in Zukunft in einer internationalen Organisation arbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 1343
 Lemma: 四人
 Lesung: よーにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vier Personen
-Beispielsatz: 家族は二人の息子と妻と私の四人です。
-Beispielsatz-Lesung: 家族[かぞく]は二人の 息子[むすこ]と 妻[つま]と 私[わたし]の四人です。
-Beispielsatz-Übersetzung: Zu meiner Familie gehören vier Personen, zwei Söhne, meine
-  Frau und ich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家族は二人の息子と妻と私の四人です。
+  家族[かぞく]は二人の 息子[むすこ]と 妻[つま]と 私[わたし]の四人です。
+  Zu meiner Familie gehören vier Personen, zwei Söhne, meine Frau und ich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

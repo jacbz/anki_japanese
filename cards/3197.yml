@@ -1,14 +1,24 @@
 Rang: 3197
 Lemma: ミス
-Lesung: ミス
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Fehler machen; einen Fehler machen
 Extra: （する）
 Wortart: n. v.
-Definition: Fehler machen; einen Fehler machen
-Beispielsatz: 敗因はミスが多かったことだ。
-Beispielsatz-Lesung: 敗因[はいいん]はミスが 多[おお]かったことだ。
-Beispielsatz-Übersetzung: Die Ursache unserer Niederlage ist, dass es viele Fehler
-  gab.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  敗因はミスが多かったことだ。
+  敗因[はいいん]はミスが 多[おお]かったことだ。
+  Die Ursache unserer Niederlage ist, dass es viele Fehler gab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

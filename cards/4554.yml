@@ -1,14 +1,29 @@
 Rang: 4554
 Lemma: 選択肢
 Lesung: せんたくし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Optionen, Alternativen
-Beispielsatz: 学生はいくつかの選択肢の中から授業が選べます。
-Beispielsatz-Lesung: 学生[がくせい]はいくつかの 選択肢[せんたくし]の 中[なか]から 授業[じゅぎょう]が 選[えら]べます。
-Beispielsatz-Übersetzung: Der Student kann aus mehreren Alternativen den Unterricht
-  wählen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  学生はいくつかの選択肢の中から授業が選べます。
+  学生[がくせい]はいくつかの 選択肢[せんたくし]の 中[なか]から 授業[じゅぎょう]が 選[えら]べます。
+  Der Student kann aus mehreren Alternativen den Unterricht wählen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

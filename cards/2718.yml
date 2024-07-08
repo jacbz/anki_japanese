@@ -1,13 +1,24 @@
 Rang: 2718
 Lemma: 口調
 Lesung: くちょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ton, Stimme
-Beispielsatz: 彼女は丁寧な口調で話す。
-Beispielsatz-Lesung: 彼女[かのじょ]は 丁寧[ていねい]な 口調[くちょう]で 話[はな]す。
-Beispielsatz-Übersetzung: Sie spricht in höflichem Ton.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は丁寧な口調で話す。
+  彼女[かのじょ]は 丁寧[ていねい]な 口調[くちょう]で 話[はな]す。
+  Sie spricht in höflichem Ton.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

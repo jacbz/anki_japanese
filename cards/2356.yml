@@ -1,13 +1,24 @@
 Rang: 2356
 Lemma: もはや
-Lesung: もはや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jetzt, bereits; nicht mehr
-Beispielsatz: もはや増税は避けられないだろう。
-Beispielsatz-Lesung: もはや 増税[ぞうぜい]は 避[さ]けられないだろう。
-Beispielsatz-Übersetzung: Eine Steuererhöhung wird nicht mehr vermeidbar sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もはや増税は避けられないだろう。
+  もはや 増税[ぞうぜい]は 避[さ]けられないだろう。
+  Eine Steuererhöhung wird nicht mehr vermeidbar sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

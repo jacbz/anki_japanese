@@ -1,13 +1,28 @@
 Rang: 2628
 Lemma: 物事
 Lesung: ものごと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dinge
-Beispielsatz: 彼は物事を苦にしない。
-Beispielsatz-Lesung: 彼[かれ]は 物事[ものごと]を 苦[く]にしない。
-Beispielsatz-Übersetzung: Er nimmt Dinge nicht zu ernst.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">の</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ご</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">と</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は物事を苦にしない。
+  彼[かれ]は 物事[ものごと]を 苦[く]にしない。
+  Er nimmt Dinge nicht zu ernst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

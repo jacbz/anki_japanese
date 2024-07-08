@@ -1,13 +1,24 @@
 Rang: 2687
 Lemma: 六年
 Lesung: ろくねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sechs Jahre
-Beispielsatz: 六年間、小学校に通う。
-Beispielsatz-Lesung: 六 年間[ねんかん]、 小学校[しょうがっこう]に 通[かよ]う。
-Beispielsatz-Übersetzung: Wir gehen sechs Jahre lang in die Grundschule.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  六年間、小学校に通う。
+  六 年間[ねんかん]、 小学校[しょうがっこう]に 通[かよ]う。
+  Wir gehen sechs Jahre lang in die Grundschule.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

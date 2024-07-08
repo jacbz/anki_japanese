@@ -1,13 +1,24 @@
 Rang: 125
-Lemma: のではない<br>んではない
+Lemma: のではない
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: んではない
 Definition: es ist nicht so, dass
-Beispielsatz: あなただけが悪いのではない。
-Beispielsatz-Lesung: あなただけが 悪[わる]いのではない。
-Beispielsatz-Übersetzung: Es ist nicht nur deine Schuld.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あなただけが悪いのではない。
+  あなただけが 悪[わる]いのではない。
+  Es ist nicht nur deine Schuld.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

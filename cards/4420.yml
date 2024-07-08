@@ -1,13 +1,24 @@
 Rang: 4420
 Lemma: 六ヶ月
 Lesung: ろっかげつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sechs Monate
-Beispielsatz: 彼女は妊娠六ヶ月だ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 妊娠[にんしん]六 ヶ月[かげつ]だ。
-Beispielsatz-Übersetzung: Sie ist sechs Monate schwanger.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は妊娠六ヶ月だ。
+  彼女[かのじょ]は 妊娠[にんしん]六 ヶ月[かげつ]だ。
+  Sie ist sechs Monate schwanger.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

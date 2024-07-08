@@ -1,13 +1,28 @@
 Rang: 3300
 Lemma: 信仰
 Lesung: しんこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: religiöser Glaube; glauben
 Extra: （する）
 Wortart: n. v.
-Definition: religiöser Glaube; glauben
-Beispielsatz: 私たちは信仰の自由が認められている。
-Beispielsatz-Lesung: 私[わたし]たちは 信仰[しんこう]の 自由[じゆう]が 認[みと]められている。
-Beispielsatz-Übersetzung: Wir haben das Recht auf Religionsfreiheit.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは信仰の自由が認められている。
+  私[わたし]たちは 信仰[しんこう]の 自由[じゆう]が 認[みと]められている。
+  Wir haben das Recht auf Religionsfreiheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

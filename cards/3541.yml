@@ -1,14 +1,28 @@
 Rang: 3541
 Lemma: 親友
 Lesung: しんゆう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: bester Freund, enger Freund
-Beispielsatz: 二十年来の親友の結婚式に出席した。
-Beispielsatz-Lesung: 二十 年来[ねんらい]の 親友[しんゆう]の 結婚式[けっこんしき]に 出席[しゅっせき]した。
-Beispielsatz-Übersetzung: Ich war auf der Hochzeit meines besten Freundes, den ich
-  seit zwanzig Jahren kenne.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二十年来の親友の結婚式に出席した。
+  二十 年来[ねんらい]の 親友[しんゆう]の 結婚式[けっこんしき]に 出席[しゅっせき]した。
+  Ich war auf der Hochzeit meines besten Freundes, den ich seit zwanzig Jahren kenne.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

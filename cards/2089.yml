@@ -1,13 +1,24 @@
 Rang: 2089
 Lemma: 派遣
 Lesung: はけん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: entsenden, schicken
 Extra: （する）
 Wortart: n., v.
-Definition: entsenden, schicken
-Beispielsatz: 多くの国が日本に救助隊を派遣した。
-Beispielsatz-Lesung: 多[おお]くの 国[くに]が 日本[にっぽん]に 救助隊[きゅうじょたい]を 派遣[はけん]した。
-Beispielsatz-Übersetzung: Viele Länder haben Rettungsteams nach Japan entsandt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くの国が日本に救助隊を派遣した。
+  多[おお]くの 国[くに]が 日本[にっぽん]に 救助隊[きゅうじょたい]を 派遣[はけん]した。
+  Viele Länder haben Rettungsteams nach Japan entsandt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

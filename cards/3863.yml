@@ -1,13 +1,24 @@
 Rang: 3863
 Lemma: 好奇心
 Lesung: こうきしん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Neugierde
-Beispielsatz: この子は好奇心が旺盛だ。
-Beispielsatz-Lesung: この 子[こ]は 好奇心[こうきしん]が 旺盛[おうせい]だ。
-Beispielsatz-Übersetzung: Sie ist voller Neugierde.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この子は好奇心が旺盛だ。
+  この 子[こ]は 好奇心[こうきしん]が 旺盛[おうせい]だ。
+  Sie ist voller Neugierde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 2903
 Lemma: 感激
 Lesung: かんげき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: tief bewegt sein; beeindruckt sein
 Extra: （する）
 Wortart: n. v.
-Definition: tief bewegt sein; beeindruckt sein
-Beispielsatz: その日感激したことについて日記を書いた。
-Beispielsatz-Lesung: その 日[ひ] 感激[かんげき]したことについて 日記[にっき]を 書[か]いた。
-Beispielsatz-Übersetzung: Ich schrieb in meinem Tagebuch über Dinge, die mich an diesem
-  Tag beeindruckt haben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その日感激したことについて日記を書いた。
+  その 日[ひ] 感激[かんげき]したことについて 日記[にっき]を 書[か]いた。
+  Ich schrieb in meinem Tagebuch über Dinge, die mich an diesem Tag beeindruckt haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

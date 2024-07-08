@@ -1,13 +1,24 @@
 Rang: 4192
 Lemma: ドイツ語
 Lesung: ドイツゴ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Deutsch (Sprache)
-Beispielsatz: ドイツ語を話すのは苦手だ。
-Beispielsatz-Lesung: ドイツ 語[ご]を 話[はな]すのは 苦手[にがて]だ。
-Beispielsatz-Übersetzung: Ich kann schlecht Deutsch sprechen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドイツ語を話すのは苦手だ。
+  ドイツ 語[ご]を 話[はな]すのは 苦手[にがて]だ。
+  Ich kann schlecht Deutsch sprechen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

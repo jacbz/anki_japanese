@@ -1,13 +1,29 @@
 Rang: 3445
 Lemma: 入り込む
 Lesung: はいりこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hineingehen; hereinkommen
-Beispielsatz: 冷たい空気が部屋に入り込んでくる。
-Beispielsatz-Lesung: 冷[つめ]たい 空気[くうき]が 部屋[へや]に 入[はい]り 込[こ]んでくる。
-Beispielsatz-Übersetzung: Kalte Luft kommt ins Zimmer hinein.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  冷たい空気が部屋に入り込んでくる。
+  冷[つめ]たい 空気[くうき]が 部屋[へや]に 入[はい]り 込[こ]んでくる。
+  Kalte Luft kommt ins Zimmer hinein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2700
 Lemma: 無人
 Lesung: むじん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: unbewohnt, leer
-Beispielsatz: その駅は、無人だった。
-Beispielsatz-Lesung: その 駅[えき]は、 無人[むじん]だった。
-Beispielsatz-Übersetzung: Der Bahnhof war verlassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '37'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その駅は、無人だった。
+  その 駅[えき]は、 無人[むじん]だった。
+  Der Bahnhof war verlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

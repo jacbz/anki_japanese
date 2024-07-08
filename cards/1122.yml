@@ -1,14 +1,24 @@
 Rang: 1122
-Lemma: 応ずる<br>応じる
+Lemma: 応ずる
 Lesung: おうずる<br>おうじる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: 応じる
 Definition: antworten, reagieren, akzeptieren
-Beispielsatz: そんな要求に応ずる必要はない。
-Beispielsatz-Lesung: そんな 要求[ようきゅう]に 応[おう]ずる 必要[ひつよう]はない。
-Beispielsatz-Übersetzung: Du bist nicht verpflichtet, auf eine solche Forderung zu
-  reagieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そんな要求に応ずる必要はない。
+  そんな 要求[ようきゅう]に 応[おう]ずる 必要[ひつよう]はない。
+  Du bist nicht verpflichtet, auf eine solche Forderung zu reagieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

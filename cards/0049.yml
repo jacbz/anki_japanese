@@ -1,13 +1,24 @@
 Rang: 49
-Lemma: のだ<br>んだ
+Lemma: のだ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: んだ
 Definition: BEHAUPTUNG
-Beispielsatz: 彼女は何も知らないのだ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 何[なに]も 知[し]らないのだ。
-Beispielsatz-Übersetzung: Sie weiß nichts.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は何も知らないのだ。
+  彼女[かのじょ]は 何[なに]も 知[し]らないのだ。
+  Sie weiß nichts.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

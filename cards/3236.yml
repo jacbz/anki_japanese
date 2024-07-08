@@ -1,13 +1,27 @@
 Rang: 3236
 Lemma: 気温
 Lesung: きおん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Temperatur
-Beispielsatz: 明日は気温が下がるそうだ。
-Beispielsatz-Lesung: 明日[あした]は 気温[きおん]が 下[さ]がるそうだ。
-Beispielsatz-Übersetzung: Ich habe gehört, dass die Temperatur morgen sinken wird.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日は気温が下がるそうだ。
+  明日[あした]は 気温[きおん]が 下[さ]がるそうだ。
+  Ich habe gehört, dass die Temperatur morgen sinken wird.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

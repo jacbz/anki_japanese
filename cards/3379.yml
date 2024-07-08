@@ -1,13 +1,24 @@
 Rang: 3379
 Lemma: 歴史的
 Lesung: れきしてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: historisch
-Beispielsatz: 彼は歴史的偉業を成し遂げた。
-Beispielsatz-Lesung: 彼[かれ]は 歴史的[れきしてき] 偉業[いぎょう]を 成[な]し 遂[と]げた。
-Beispielsatz-Übersetzung: Er hat eine historische Leistung vollbracht.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は歴史的偉業を成し遂げた。
+  彼[かれ]は 歴史的[れきしてき] 偉業[いぎょう]を 成[な]し 遂[と]げた。
+  Er hat eine historische Leistung vollbracht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

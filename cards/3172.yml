@@ -1,14 +1,24 @@
 Rang: 3172
 Lemma: 二年生
 Lesung: にねんせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zweite Klasse, zweites Jahr
-Beispielsatz: 小学二年生のときから、ピアノを習っている。
-Beispielsatz-Lesung: 小学[しょうがく]二 年生[ねんせい]のときから、ピアノを 習[なら]っている。
-Beispielsatz-Übersetzung: Ich lerne seit der zweiten Klasse der Grundschule Klavier
-  zu spielen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  小学二年生のときから、ピアノを習っている。
+  小学[しょうがく]二 年生[ねんせい]のときから、ピアノを 習[なら]っている。
+  Ich lerne seit der zweiten Klasse der Grundschule Klavier zu spielen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

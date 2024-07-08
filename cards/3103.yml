@@ -1,13 +1,24 @@
 Rang: 3103
 Lemma: 承認
 Lesung: しょうにん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: genehmigen; genehmigen
 Extra: （する）
 Wortart: n. v.
-Definition: genehmigen; genehmigen
-Beispielsatz: 議会の承認を得なければならない。
-Beispielsatz-Lesung: 議会[ぎかい]の 承認[しょうにん]を 得[え]なければならない。
-Beispielsatz-Übersetzung: Die Genehmigung der Versammlung ist erforderlich.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  議会の承認を得なければならない。
+  議会[ぎかい]の 承認[しょうにん]を 得[え]なければならない。
+  Die Genehmigung der Versammlung ist erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

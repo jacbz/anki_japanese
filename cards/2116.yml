@@ -1,13 +1,24 @@
 Rang: 2116
 Lemma: モデル
-Lesung: モデル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Modell
-Beispielsatz: この携帯電話は最新モデルです。
-Beispielsatz-Lesung: この 携帯電話[けいたいでんわ]は 最新[さいしん]モデルです。
-Beispielsatz-Übersetzung: Dieses Telefon ist das neueste Modell.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この携帯電話は最新モデルです。
+  この 携帯電話[けいたいでんわ]は 最新[さいしん]モデルです。
+  Dieses Telefon ist das neueste Modell.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

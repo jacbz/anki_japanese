@@ -1,13 +1,24 @@
 Rang: 562
 Lemma: イメージ
-Lesung: イメージ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Bild, Vorstellung
 Extra: （する）
 Wortart: n. v.
-Definition: Bild, Vorstellung
-Beispielsatz: このデザインは春をイメージしている。
-Beispielsatz-Lesung: このデザインは 春[はる]をイメージしている。
-Beispielsatz-Übersetzung: Dieses Design soll den Eindruck von Frühling vermitteln.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このデザインは春をイメージしている。
+  このデザインは 春[はる]をイメージしている。
+  Dieses Design soll den Eindruck von Frühling vermitteln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

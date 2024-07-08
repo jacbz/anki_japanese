@@ -1,13 +1,29 @@
 Rang: 4611
 Lemma: 二三日
 Lesung: にさんにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwei oder drei Tage
-Beispielsatz: この論文を2,3日貸していただけますか。
-Beispielsatz-Lesung: この 論文[ろんぶん]を2,3 日[にち] 貸[か]していただけますか。
-Beispielsatz-Übersetzung: Kann ich diesen Aufsatz für zwei oder drei Tage ausleihen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_top mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">に</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '46'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この論文を2,3日貸していただけますか。
+  この 論文[ろんぶん]を2,3 日[にち] 貸[か]していただけますか。
+  Kann ich diesen Aufsatz für zwei oder drei Tage ausleihen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

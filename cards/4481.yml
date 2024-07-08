@@ -1,13 +1,27 @@
 Rang: 4481
 Lemma: 歩道
 Lesung: ほどう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gehweg, Bürgersteig
-Beispielsatz: 歩道にお金が落ちていた。
-Beispielsatz-Lesung: 歩道[ほどう]にお 金[かね]が 落[お]ちていた。
-Beispielsatz-Übersetzung: Ich habe eine Münze auf dem Gehweg gefunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  歩道にお金が落ちていた。
+  歩道[ほどう]にお 金[かね]が 落[お]ちていた。
+  Ich habe eine Münze auf dem Gehweg gefunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

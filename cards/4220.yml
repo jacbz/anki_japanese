@@ -1,14 +1,24 @@
 Rang: 4220
 Lemma: 当事者
 Lesung: とうじしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: beteiligte Parteien
-Beispielsatz: 彼はその事件の当事者として法廷に立った。
-Beispielsatz-Lesung: 彼[かれ]はその 事件[じけん]の 当事者[とうじしゃ]として 法廷[ほうてい]に 立[た]った。
-Beispielsatz-Übersetzung: Er stand als eine beteiligte Partei in dem Gerichtsverfahren
-  bezüglich des Vorfalls auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はその事件の当事者として法廷に立った。
+  彼[かれ]はその 事件[じけん]の 当事者[とうじしゃ]として 法廷[ほうてい]に 立[た]った。
+  Er stand als eine beteiligte Partei in dem Gerichtsverfahren bezüglich des Vorfalls auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

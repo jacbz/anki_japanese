@@ -1,13 +1,24 @@
 Rang: 1942
 Lemma: いったん
-Lesung: いったん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: einmal; für einen Moment
-Beispielsatz: 彼女はいったん話し始めると止まらない。
-Beispielsatz-Lesung: 彼女[かのじょ]はいったん 話[はな]し 始[はじ]めると 止[と]まらない。
-Beispielsatz-Übersetzung: Sobald sie anfängt zu reden, hört sie nicht auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はいったん話し始めると止まらない。
+  彼女[かのじょ]はいったん 話[はな]し 始[はじ]めると 止[と]まらない。
+  Sobald sie anfängt zu reden, hört sie nicht auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

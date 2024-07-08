@@ -1,13 +1,28 @@
 Rang: 4588
 Lemma: 浸透
 Lesung: しんとう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Eindringen, Durchdringen; eindringen, durchdringen
 Extra: （する）
 Wortart: n. v.
-Definition: Eindringen, Durchdringen; eindringen, durchdringen
-Beispielsatz: この服は水の浸透を妨げます。
-Beispielsatz-Lesung: この 服[ふく]は 水[みず]の 浸透[しんとう]を 妨[さまた]げます。
-Beispielsatz-Übersetzung: Diese Kleidung verhindert das Eindringen von Wasser.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この服は水の浸透を妨げます。
+  この 服[ふく]は 水[みず]の 浸透[しんとう]を 妨[さまた]げます。
+  Diese Kleidung verhindert das Eindringen von Wasser.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

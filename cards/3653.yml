@@ -1,13 +1,24 @@
 Rang: 3653
 Lemma: 顧客
 Lesung: こきゃく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kunde
-Beispielsatz: 顧客を獲得するため、キャンペーンを行う。
-Beispielsatz-Lesung: 顧客[こきゃく]を 獲得[かくとく]するため、キャンペーンを 行[おこな]う。
-Beispielsatz-Übersetzung: Wir werden eine Kampagne starten, um neue Kunden zu gewinnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  顧客を獲得するため、キャンペーンを行う。
+  顧客[こきゃく]を 獲得[かくとく]するため、キャンペーンを 行[おこな]う。
+  Wir werden eine Kampagne starten, um neue Kunden zu gewinnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

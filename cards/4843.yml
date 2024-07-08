@@ -1,14 +1,28 @@
 Rang: 4843
 Lemma: 十代
 Lesung: じゅうだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Teenagerjahre, Jugendliche
-Beispielsatz: 彼女は十代で家を出た。
-Beispielsatz-Lesung: 彼女[かのじょ]は十 代[だい]で 家[いえ]を 出[で]た。
-Beispielsatz-Übersetzung: Sie verließ ihr Zuhause, als sie in ihren Teenagerjahren
-  war.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">だ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は十代で家を出た。
+  彼女[かのじょ]は十 代[だい]で 家[いえ]を 出[で]た。
+  Sie verließ ihr Zuhause, als sie in ihren Teenagerjahren war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

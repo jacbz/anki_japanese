@@ -1,14 +1,28 @@
 Rang: 484
 Lemma: 続ける
 Lesung: つづける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: etw. fortsetzen, weitermachen
-Beispielsatz: 彼女は結婚しても仕事を続けるつもりだ。
-Beispielsatz-Lesung: '彼女[かのじょ]は 結婚[けっこん]しても 仕事[しごと]を 続[つ<span style="white-space:
-  nowrap;">づ</span>]けるつもりだ。'
-Beispielsatz-Übersetzung: Sie wird auch nach ihrer Hochzeit weiterarbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">づ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は結婚しても仕事を続けるつもりだ。
+  彼女[かのじょ]は 結婚[けっこん]しても 仕事[しごと]を 続[つ<span style="white-space: nowrap;">づ</span>]けるつもりだ。
+  Sie wird auch nach ihrer Hochzeit weiterarbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: transitiv

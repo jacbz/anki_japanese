@@ -1,13 +1,29 @@
 Rang: 3635
 Lemma: 魅力的
 Lesung: みりょくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: charmant, attraktiv
-Beispielsatz: 彼女は魅力的だ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 魅力的[みりょくてき]だ。
-Beispielsatz-Übersetzung: Sie ist eine charmante und attraktive Frau.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">て</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は魅力的だ。
+  彼女[かのじょ]は 魅力的[みりょくてき]だ。
+  Sie ist eine charmante und attraktive Frau.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

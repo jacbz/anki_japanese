@@ -1,13 +1,26 @@
 Rang: 4025
 Lemma: 様
 Lesung: さま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Herr/Frau
-Beispielsatz: スミス様、フロントまでお越し下さい。
-Beispielsatz-Lesung: スミス 様[さま]、フロントまでお 越[こ]し 下[くだ]さい。
-Beispielsatz-Übersetzung: Herr/Frau Smith, bitte kommen Sie zur Rezeption.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  スミス様、フロントまでお越し下さい。
+  スミス 様[さま]、フロントまでお 越[こ]し 下[くだ]さい。
+  Herr/Frau Smith, bitte kommen Sie zur Rezeption.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

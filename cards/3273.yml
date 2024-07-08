@@ -1,13 +1,24 @@
 Rang: 3273
 Lemma: 片方
 Lesung: かたほう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: eine Seite; die andere Seite
-Beispielsatz: 靴下が片方なくなった。
-Beispielsatz-Lesung: 靴下[くつした]が 片方[かたほう]なくなった。
-Beispielsatz-Übersetzung: Ich habe eine meiner Socken verloren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  靴下が片方なくなった。
+  靴下[くつした]が 片方[かたほう]なくなった。
+  Ich habe eine meiner Socken verloren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 4001
 Lemma: 上達
 Lesung: じょうたつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Verbesserung; verbessern, Fortschritt
 Extra: （する）
 Wortart: n. v.
-Definition: Verbesserung; verbessern, Fortschritt
-Beispielsatz: 彼女は中国語が上達している。
-Beispielsatz-Lesung: 彼女[かのじょ]は 中国語[ちゅうごくご]が 上達[じょうたつ]している。
-Beispielsatz-Übersetzung: Sie verbessert sich in Chinesisch.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">た</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は中国語が上達している。
+  彼女[かのじょ]は 中国語[ちゅうごくご]が 上達[じょうたつ]している。
+  Sie verbessert sich in Chinesisch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

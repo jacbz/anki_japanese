@@ -1,13 +1,27 @@
 Rang: 2263
 Lemma: 告げる
 Lesung: つげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sagen, mitteilen
-Beispielsatz: 医者は彼女の病気について家族に告げた。
-Beispielsatz-Lesung: 医者[いしゃ]は 彼女[かのじょ]の 病気[びょうき]について 家族[かぞく]に 告[つ]げた。
-Beispielsatz-Übersetzung: Der Arzt hat ihrer Familie von ihrer Krankheit erzählt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  医者は彼女の病気について家族に告げた。
+  医者[いしゃ]は 彼女[かのじょ]の 病気[びょうき]について 家族[かぞく]に 告[つ]げた。
+  Der Arzt hat ihrer Familie von ihrer Krankheit erzählt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

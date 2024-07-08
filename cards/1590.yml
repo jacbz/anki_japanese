@@ -1,13 +1,27 @@
 Rang: 1590
 Lemma: 直る
 Lesung: なおる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: reparieren; korrigieren; besser werden
-Beispielsatz: 車がやっと直った。
-Beispielsatz-Lesung: 車[くるま]がやっと 直[なお]った。
-Beispielsatz-Übersetzung: Das Auto ist endlich repariert.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">お</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  車がやっと直った。
+  車[くるま]がやっと 直[なお]った。
+  Das Auto ist endlich repariert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

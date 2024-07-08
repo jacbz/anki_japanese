@@ -1,14 +1,25 @@
 Rang: 1271
 Lemma: 差
 Lesung: さ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Unterschied, Lücke, Abstand
-Beispielsatz: たくさん練習する人としない人の間には差がつく。
-Beispielsatz-Lesung: たくさん 練習[れんしゅう]する人としない人の 間[ま]には 差[さ]がつく。
-Beispielsatz-Übersetzung: Es wird eine große Kluft geben zwischen Menschen, die viel
-  üben, und solchen, die das nicht tun.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-1"><span class="inner"><span
+  class="char">さ</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たくさん練習する人としない人の間には差がつく。
+  たくさん 練習[れんしゅう]する人としない人の 間[ま]には 差[さ]がつく。
+  Es wird eine große Kluft geben zwischen Menschen, die viel üben, und solchen, die das nicht tun.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

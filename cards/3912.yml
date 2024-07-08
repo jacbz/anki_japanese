@@ -1,13 +1,27 @@
 Rang: 3912
 Lemma: 放る
 Lesung: ほうる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: werfen; etwas unerledigt lassen
-Beispielsatz: ボールを壁に放り投げた。
-Beispielsatz-Lesung: ボールを 壁[かべ]に 放[ほう]り 投[な]げた。
-Beispielsatz-Übersetzung: Ich habe einen Ball gegen die Wand geworfen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ボールを壁に放り投げた。
+  ボールを 壁[かべ]に 放[ほう]り 投[な]げた。
+  Ich habe einen Ball gegen die Wand geworfen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

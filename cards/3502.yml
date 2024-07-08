@@ -1,13 +1,24 @@
 Rang: 3502
 Lemma: Eメール
 Lesung: イーメール
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: E-Mail
-Beispielsatz: 友達にEメールを送った。
-Beispielsatz-Lesung: 友達[ともだち]にEメールを 送[おく]った。
-Beispielsatz-Übersetzung: Ich habe eine E-Mail an meinen Freund geschickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '57'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達にEメールを送った。
+  友達[ともだち]にEメールを 送[おく]った。
+  Ich habe eine E-Mail an meinen Freund geschickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

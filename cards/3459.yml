@@ -1,14 +1,27 @@
 Rang: 3459
 Lemma: 余る
 Lesung: あまる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: übrig bleiben; zu viele sein
-Beispielsatz: パーティーで余った料理をもらって帰った。
-Beispielsatz-Lesung: パーティーで 余[あま]った 料理[りょうり]をもらって 帰[かえ]った。
-Beispielsatz-Übersetzung: Ich habe das übrig gebliebene Essen von der Party mit nach
-  Hause genommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パーティーで余った料理をもらって帰った。
+  パーティーで 余[あま]った 料理[りょうり]をもらって 帰[かえ]った。
+  Ich habe das übrig gebliebene Essen von der Party mit nach Hause genommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

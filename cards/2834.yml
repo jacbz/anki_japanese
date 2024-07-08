@@ -1,13 +1,26 @@
 Rang: 2834
 Lemma: 今朝
 Lesung: けさ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: heute Morgen
-Beispielsatz: 今朝から雨が降っている。
-Beispielsatz-Lesung: 今朝[けさ]から 雨[あめ]が 降[ふ]っている。
-Beispielsatz-Übersetzung: Es regnet seit heute Morgen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">け</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">さ</span></span></span></span>
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今朝から雨が降っている。
+  今朝[けさ]から 雨[あめ]が 降[ふ]っている。
+  Es regnet seit heute Morgen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

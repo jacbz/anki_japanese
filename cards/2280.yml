@@ -1,13 +1,24 @@
 Rang: 2280
 Lemma: 発行
 Lesung: はっこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Veröffentlichung, Ausgabe
 Extra: （する）
 Wortart: n. v.
-Definition: Veröffentlichung, Ausgabe
-Beispielsatz: 新しい問題集が出版社から発行される。
-Beispielsatz-Lesung: 新[あたら]しい 問題集[もんだいしゅう]が 出版社[しゅっぱんしゃ]から 発行[はっこう]される。
-Beispielsatz-Übersetzung: Eine neue Ausgabe des Übungsbuchs wird vom Verlag veröffentlicht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい問題集が出版社から発行される。
+  新[あたら]しい 問題集[もんだいしゅう]が 出版社[しゅっぱんしゃ]から 発行[はっこう]される。
+  Eine neue Ausgabe des Übungsbuchs wird vom Verlag veröffentlicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 2912
 Lemma: 武器
 Lesung: ぶき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Waffe
-Beispielsatz: 兵士は武器を構えた。
-Beispielsatz-Lesung: 兵士[へいし]は 武器[ぶき]を 構[かま]えた。
-Beispielsatz-Übersetzung: Die Soldaten hielten die Waffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ぶ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  兵士は武器を構えた。
+  兵士[へいし]は 武器[ぶき]を 構[かま]えた。
+  Die Soldaten hielten die Waffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

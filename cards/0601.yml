@@ -1,13 +1,27 @@
 Rang: 601
 Lemma: 回る
 Lesung: まわる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: (sich) drehen
-Beispielsatz: 扇風機が回っていた。
-Beispielsatz-Lesung: 扇風機[せんぷうき]が 回[まわ]っていた。
-Beispielsatz-Übersetzung: Der Ventilator drehte sich.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  扇風機が回っていた。
+  扇風機[せんぷうき]が 回[まわ]っていた。
+  Der Ventilator drehte sich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3687
 Lemma: 根本的
 Lesung: こんぽんてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: grundlegend, fundamental
-Beispielsatz: 彼の言っていることは根本的に間違っている。
-Beispielsatz-Lesung: 彼[かれ]の 言[い]っていることは 根本的[こんぽんてき]に 間違[まちが]っている。
-Beispielsatz-Übersetzung: Was er sagt, ist im Grunde falsch.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の言っていることは根本的に間違っている。
+  彼[かれ]の 言[い]っていることは 根本的[こんぽんてき]に 間違[まちが]っている。
+  Was er sagt, ist im Grunde falsch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4879
 Lemma: 典型的
 Lesung: てんけいてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: typisch
-Beispielsatz: これが典型的な日本の住宅です。
-Beispielsatz-Lesung: これが 典型的[てんけいてき]な 日本[にっぽん]の 住宅[じゅうたく]です。
-Beispielsatz-Übersetzung: Dies ist ein typisches japanisches Haus.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これが典型的な日本の住宅です。
+  これが 典型的[てんけいてき]な 日本[にっぽん]の 住宅[じゅうたく]です。
+  Dies ist ein typisches japanisches Haus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

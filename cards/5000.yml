@@ -1,13 +1,18 @@
 Rang: 5000
 Lemma: まあまあ
-Lesung: まあまあ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mäßig, so lala
-Beispielsatz: レポートの出来はまあまあだった。
-Beispielsatz-Lesung: レポートの 出来[でき]はまあまあだった。
-Beispielsatz-Übersetzung: Der Bericht war mittelmäßig bis gut.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
+Beispielsätze: レポートの出来はまあまあだった。
 
-# Notizen können HTML enthalten.            
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

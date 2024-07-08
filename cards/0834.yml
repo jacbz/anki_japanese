@@ -1,13 +1,26 @@
 Rang: 834
 Lemma: 神
 Lesung: かみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gott
-Beispielsatz: 人々が平和を神に祈る。
-Beispielsatz-Lesung: 人々[ひとびと]が 平和[へいわ]を 神[かみ]に 祈[いの]る。
-Beispielsatz-Übersetzung: Viele Menschen beten zu Gott um Frieden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">み</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人々が平和を神に祈る。
+  人々[ひとびと]が 平和[へいわ]を 神[かみ]に 祈[いの]る。
+  Viele Menschen beten zu Gott um Frieden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 3186
 Lemma: オープン
-Lesung: オープン
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Eröffnung
 Extra: （する）
 Wortart: n., v.
-Definition: Eröffnung
-Beispielsatz: 駅前に新しくオープンしたお店に行った。
-Beispielsatz-Lesung: 駅前[えきまえ]に 新[あたら]しくオープンしたお 店[たな]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin zu dem neu eröffneten Geschäft am Bahnhofsplatz
-  gegangen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  駅前に新しくオープンしたお店に行った。
+  駅前[えきまえ]に 新[あたら]しくオープンしたお 店[たな]に 行[い]った。
+  Ich bin zu dem neu eröffneten Geschäft am Bahnhofsplatz gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

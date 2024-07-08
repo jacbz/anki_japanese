@@ -1,14 +1,24 @@
 Rang: 1155
 Lemma: 変更
 Lesung: へんこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Änderung, Veränderung
 Extra: （する）
 Wortart: n. v.
-Definition: Änderung, Veränderung
-Beispielsatz: もし予定に変更があればできるだけ早く知らせてください。
-Beispielsatz-Lesung: もし 予定[よてい]に 変更[へんこう]があればできるだけ 早[はや]く 知[し]らせてください。
-Beispielsatz-Übersetzung: Wenn sich Ihre Pläne ändern, benachrichtigen Sie uns bitte
-  so schnell wie möglich.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もし予定に変更があればできるだけ早く知らせてください。
+  もし 予定[よてい]に 変更[へんこう]があればできるだけ 早[はや]く 知[し]らせてください。
+  Wenn sich Ihre Pläne ändern, benachrichtigen Sie uns bitte so schnell wie möglich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

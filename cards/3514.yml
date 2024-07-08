@@ -1,13 +1,24 @@
 Rang: 3514
 Lemma: 特性
 Lesung: とくせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Eigenschaft
-Beispielsatz: この薬品には油を溶かす特性がある。
-Beispielsatz-Lesung: この 薬品[やくひん]には 油[あぶら]を 溶[と]かす 特性[とくせい]がある。
-Beispielsatz-Übersetzung: Dieses Chemikalie hat die Eigenschaft, Öl aufzulösen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この薬品には油を溶かす特性がある。
+  この 薬品[やくひん]には 油[あぶら]を 溶[と]かす 特性[とくせい]がある。
+  Dieses Chemikalie hat die Eigenschaft, Öl aufzulösen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

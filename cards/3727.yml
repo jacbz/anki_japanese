@@ -1,13 +1,24 @@
 Rang: 3727
 Lemma: しも
-Lesung: しも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: BETONUNG (Klassisch)
-Beispielsatz: 誰しも一つや二つは秘密がある。
-Beispielsatz-Lesung: 誰[だれ]しも 一[ひと]つや 二[ふた]つは 秘密[ひみつ]がある。
-Beispielsatz-Übersetzung: Jeder hat ein oder zwei Geheimnisse.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  誰しも一つや二つは秘密がある。
+  誰[だれ]しも 一[ひと]つや 二[ふた]つは 秘密[ひみつ]がある。
+  Jeder hat ein oder zwei Geheimnisse.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

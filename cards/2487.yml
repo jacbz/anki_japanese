@@ -1,13 +1,27 @@
 Rang: 2487
 Lemma: 重視
 Lesung: じゅうし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: etw. ernst nehmen
 Extra: （する）
 Wortart: n. v.
-Definition: etw. ernst nehmen
-Beispielsatz: 仕事を選ぶ時、彼はいつも給料を重視する。
-Beispielsatz-Lesung: 仕事[しごと]を 選[えら]ぶ 時[とき]、 彼[かれ]はいつも 給料[きゅうりょう]を 重視[じゅうし]する。
-Beispielsatz-Übersetzung: Wenn er einen Job wählt, hält er das Gehalt immer für wichtig.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  仕事を選ぶ時、彼はいつも給料を重視する。
+  仕事[しごと]を 選[えら]ぶ 時[とき]、 彼[かれ]はいつも 給料[きゅうりょう]を 重視[じゅうし]する。
+  Wenn er einen Job wählt, hält er das Gehalt immer für wichtig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

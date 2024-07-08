@@ -1,13 +1,24 @@
 Rang: 683
 Lemma: パソコン
-Lesung: パソコン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: PC
-Beispielsatz: 新しいパソコンを買いたい。
-Beispielsatz-Lesung: 新[あたら]しいパソコンを 買[か]いたい。
-Beispielsatz-Übersetzung: Ich möchte einen neuen Personalcomputer kaufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しいパソコンを買いたい。
+  新[あたら]しいパソコンを 買[か]いたい。
+  Ich möchte einen neuen Personalcomputer kaufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 82
 Lemma: として
-Lesung: として
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: als
-Beispielsatz: 彼女は女優としてはものにならなかった。
-Beispielsatz-Lesung: 彼女[かのじょ]は 女優[じょゆう]としてはものにならなかった。
-Beispielsatz-Übersetzung: Als Schauspielerin hatte sie keinen Erfolg.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は女優としてはものにならなかった。
+  彼女[かのじょ]は 女優[じょゆう]としてはものにならなかった。
+  Als Schauspielerin hatte sie keinen Erfolg.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

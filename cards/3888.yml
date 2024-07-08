@@ -1,13 +1,24 @@
 Rang: 3888
 Lemma: クリア
-Lesung: クリア
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: klären, Klärung, geklärt Adj, V klären
 Extra: （する）
 Wortart: n. na-adj. v.
-Definition: klären, Klärung, geklärt Adj, V klären
-Beispielsatz: 難しい問題をクリアした。
-Beispielsatz-Lesung: 難[むずか]しい 問題[もんだい]をクリアした。
-Beispielsatz-Übersetzung: Ich habe ein schwieriges Problem gelöst.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  難しい問題をクリアした。
+  難[むずか]しい 問題[もんだい]をクリアした。
+  Ich habe ein schwieriges Problem gelöst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

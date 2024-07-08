@@ -1,14 +1,27 @@
 Rang: 3675
 Lemma: 四十
 Lesung: しじゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: vierzig
-Beispielsatz: 四十を越えると肉体的に弱さを覚える。
-Beispielsatz-Lesung: 四十を 越[こ]えると 肉体的[にくたいてき]に 弱[よわ]さを 覚[おぼ]える。
-Beispielsatz-Übersetzung: Wenn man über vierzig ist, beginnt man, sich körperlich
-  schwach zu fühlen.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  四十を越えると肉体的に弱さを覚える。
+  四十を 越[こ]えると 肉体的[にくたいてき]に 弱[よわ]さを 覚[おぼ]える。
+  Wenn man über vierzig ist, beginnt man, sich körperlich schwach zu fühlen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

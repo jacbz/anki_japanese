@@ -1,13 +1,24 @@
 Rang: 143
 Lemma: いろいろ
-Lesung: いろいろ
-Alternative: 色々
-Extra: '' # nur bei する-Verben
-Wortart: adv., na-adj.
+Lesung: ''
+Alternativschreibweisen: 色々
 Definition: verschieden
-Beispielsatz: その国立公園ではいろいろな動物が見られる。
-Beispielsatz-Lesung: その 国立公園[こくりつこうえん]ではいろいろな 動物[どうぶつ]が 見[み]られる。
-Beispielsatz-Übersetzung: Man kann verschiedene Tiere im Nationalpark sehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その国立公園ではいろいろな動物が見られる。
+  その 国立公園[こくりつこうえん]ではいろいろな 動物[どうぶつ]が 見[み]られる。
+  Man kann verschiedene Tiere im Nationalpark sehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

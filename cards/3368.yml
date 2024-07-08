@@ -1,14 +1,24 @@
 Rang: 3368
 Lemma: 圧倒的
 Lesung: あっとうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: überwältigend
-Beispielsatz: 反対する人のほうが圧倒的に多かった。
-Beispielsatz-Lesung: 反対[はんたい]する人のほうが 圧倒的[あっとうてき]に 多[おお]かった。
-Beispielsatz-Übersetzung: Es gab eine überwältigend große Zahl von Menschen, die sich
-  dagegen aussprachen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  反対する人のほうが圧倒的に多かった。
+  反対[はんたい]する人のほうが 圧倒的[あっとうてき]に 多[おお]かった。
+  Es gab eine überwältigend große Zahl von Menschen, die sich dagegen aussprachen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

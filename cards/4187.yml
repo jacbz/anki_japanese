@@ -1,13 +1,29 @@
 Rang: 4187
 Lemma: 金曜日
 Lesung: きんようび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Freitag
-Beispielsatz: 彼女は毎週金曜日に買い物へ行きます。
-Beispielsatz-Lesung: 彼女[かのじょ]は 毎週[まいしゅう] 金曜日[きんようび]に 買[か]い 物[もの]へ 行[い]きます。
-Beispielsatz-Übersetzung: Sie geht jeden Freitag einkaufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は毎週金曜日に買い物へ行きます。
+  彼女[かのじょ]は 毎週[まいしゅう] 金曜日[きんようび]に 買[か]い 物[もの]へ 行[い]きます。
+  Sie geht jeden Freitag einkaufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

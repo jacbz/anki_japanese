@@ -1,13 +1,24 @@
 Rang: 4638
 Lemma: いやあ
-Lesung: いやあ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nun, es tut mir leid
-Beispielsatz: 「いやあ遅れてごめん」と彼は言った。
-Beispielsatz-Lesung: 「いやあ 遅[おく]れてごめん」と 彼[かれ]は 言[い]った。
-Beispielsatz-Übersetzung: 'Er sagte: "Oh, tut mir leid, dass ich zu spät komme."'
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '48'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「いやあ遅れてごめん」と彼は言った。
+  「いやあ 遅[おく]れてごめん」と 彼[かれ]は 言[い]った。
+  Er sagte: "Oh, tut mir leid, dass ich zu spät komme."
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

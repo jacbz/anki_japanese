@@ -1,13 +1,24 @@
 Rang: 4414
 Lemma: 創設
 Lesung: そうせつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Gründung, Schaffung; gründen, schaffen
 Extra: （する）
 Wortart: n. v.
-Definition: Gründung, Schaffung; gründen, schaffen
-Beispielsatz: 彼がこの学校を創設した人です。
-Beispielsatz-Lesung: 彼[かれ]がこの 学校[がっこう]を 創設[そうせつ]した人です。
-Beispielsatz-Übersetzung: Er ist derjenige, der diese Schule gegründet hat.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼がこの学校を創設した人です。
+  彼[かれ]がこの 学校[がっこう]を 創設[そうせつ]した人です。
+  Er ist derjenige, der diese Schule gegründet hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

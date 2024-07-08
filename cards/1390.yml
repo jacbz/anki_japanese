@@ -1,13 +1,24 @@
 Rang: 1390
 Lemma: ますます
-Lesung: ますます
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: immer mehr, zunehmend
-Beispielsatz: ますます多くの人が室内でペットを飼っている。
-Beispielsatz-Lesung: ますます 多[おお]くの人が 室内[しつない]でペットを 飼[か]っている。
-Beispielsatz-Übersetzung: Immer mehr Menschen halten Haustiere drinnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ますます多くの人が室内でペットを飼っている。
+  ますます 多[おお]くの人が 室内[しつない]でペットを 飼[か]っている。
+  Immer mehr Menschen halten Haustiere drinnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

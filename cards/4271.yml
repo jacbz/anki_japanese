@@ -1,14 +1,24 @@
 Rang: 4271
 Lemma: 二千八年
 Lesung: にせんはちねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 2008 (Jahr)
-Beispielsatz: 二千八年に世界金融危機に直面した。
-Beispielsatz-Lesung: 二 千[せん]八 年[ねん]に 世界金融危機[せかいきんゆうきき]に 直面[ちょくめん]した。
-Beispielsatz-Übersetzung: Im Jahr 2008 waren wir mit einer weltweiten Finanzkrise
-  konfrontiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '29'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二千八年に世界金融危機に直面した。
+  二 千[せん]八 年[ねん]に 世界金融危機[せかいきんゆうきき]に 直面[ちょくめん]した。
+  Im Jahr 2008 waren wir mit einer weltweiten Finanzkrise konfrontiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

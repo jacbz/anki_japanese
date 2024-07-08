@@ -1,13 +1,27 @@
 Rang: 1239
 Lemma: 期間
 Lesung: きかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zeitraum, Dauer, Frist
-Beispielsatz: 契約の期間を延長したいです。
-Beispielsatz-Lesung: 契約[けいやく]の 期間[きかん]を 延長[えんちょう]したいです。
-Beispielsatz-Übersetzung: Ich möchte die Dauer des Vertrags verlängern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  契約の期間を延長したいです。
+  契約[けいやく]の 期間[きかん]を 延長[えんちょう]したいです。
+  Ich möchte die Dauer des Vertrags verlängern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

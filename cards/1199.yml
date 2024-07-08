@@ -1,13 +1,24 @@
 Rang: 1199
 Lemma: 設置
 Lesung: せっち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Installation
 Extra: （する）
 Wortart: n. v.
-Definition: Installation
-Beispielsatz: この店にはビデオカメラが設置されています。
-Beispielsatz-Lesung: この 店[みせ]にはビデオカメラが 設置[せっち]されています。
-Beispielsatz-Übersetzung: Eine Videokamera ist im Geschäft installiert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この店にはビデオカメラが設置されています。
+  この 店[みせ]にはビデオカメラが 設置[せっち]されています。
+  Eine Videokamera ist im Geschäft installiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

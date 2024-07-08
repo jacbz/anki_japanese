@@ -1,13 +1,26 @@
 Rang: 1452
 Lemma: 金
 Lesung: きん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gold
-Beispielsatz: この指輪は金でできている。
-Beispielsatz-Lesung: この 指輪[ゆびわ]は 金[きん]でできている。
-Beispielsatz-Übersetzung: Dieser Ring ist aus Gold gefertigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ↗Zeitungen
+Dispersion: '26'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この指輪は金でできている。
+  この 指輪[ゆびわ]は 金[きん]でできている。
+  Dieser Ring ist aus Gold gefertigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 3014
 Lemma: 多様
 Lesung: たよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: verschieden
-Beispielsatz: 多様なニーズに応える努力をする。
-Beispielsatz-Lesung: 多様[たよう]なニーズに 応[こた]える 努力[どりょく]をする。
-Beispielsatz-Übersetzung: Ich bemühe mich, verschiedenen Bedürfnissen gerecht zu werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '64'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多様なニーズに応える努力をする。
+  多様[たよう]なニーズに 応[こた]える 努力[どりょく]をする。
+  Ich bemühe mich, verschiedenen Bedürfnissen gerecht zu werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,30 @@
 Rang: 4228
 Lemma: 興味深い
 Lesung: きょうみぶかい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: interessant
-Beispielsatz: 美術館に興味深い絵画が展示されています。
-Beispielsatz-Lesung: 美術館[びじゅつかん]に 興味深[きょうみぶか]い 絵画[かいが]が 展示[てんじ]されています。
-Beispielsatz-Übersetzung: Im Kunstmuseum gibt es interessante Ausstellungsstücke.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">き</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-5"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-4"><span class="inner"><span class="char">み</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">ぶ</span></span></span><span class="accent_top
+  mola_-2"><span class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  美術館に興味深い絵画が展示されています。
+  美術館[びじゅつかん]に 興味深[きょうみぶか]い 絵画[かいが]が 展示[てんじ]されています。
+  Im Kunstmuseum gibt es interessante Ausstellungsstücke.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

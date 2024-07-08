@@ -1,14 +1,24 @@
 Rang: 3248
 Lemma: メディア
-Lesung: メディア
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Medien
-Beispielsatz: メディアを通して、世界中の出来事を知ることができる。
-Beispielsatz-Lesung: メディアを 通[とお]して、 世界中[せかいじゅう]の 出来事[できごと]を 知[し]ることができる。
-Beispielsatz-Übersetzung: Durch die Medien erfahren wir von Ereignissen, die sich
-  überall auf der Welt ereignet haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  メディアを通して、世界中の出来事を知ることができる。
+  メディアを 通[とお]して、 世界中[せかいじゅう]の 出来事[できごと]を 知[し]ることができる。
+  Durch die Medien erfahren wir von Ereignissen, die sich überall auf der Welt ereignet haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

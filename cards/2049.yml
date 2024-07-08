@@ -1,13 +1,27 @@
 Rang: 2049
 Lemma: 整理
 Lesung: せいり
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ordnung
 Extra: （する）
 Wortart: n. v.
-Definition: Ordnung
-Beispielsatz: 今日自分の本棚を整理した。
-Beispielsatz-Lesung: 今日[きょう] 自分[じぶん]の 本棚[ほんだな]を 整理[せいり]した。
-Beispielsatz-Übersetzung: Ich habe heute mein Bücherregal aufgeräumt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">せ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日自分の本棚を整理した。
+  今日[きょう] 自分[じぶん]の 本棚[ほんだな]を 整理[せいり]した。
+  Ich habe heute mein Bücherregal aufgeräumt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

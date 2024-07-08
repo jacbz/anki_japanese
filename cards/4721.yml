@@ -1,13 +1,24 @@
 Rang: 4721
 Lemma: 参加費
 Lesung: さんかひ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Teilnahmegebühr
-Beispielsatz: 遠足の参加費はいくらですか。
-Beispielsatz-Lesung: 遠足[えんそく]の 参加費[さんかひ]はいくらですか。
-Beispielsatz-Übersetzung: Wie hoch ist die Teilnahmegebühr für den Ausflug?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '4'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  遠足の参加費はいくらですか。
+  遠足[えんそく]の 参加費[さんかひ]はいくらですか。
+  Wie hoch ist die Teilnahmegebühr für den Ausflug?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

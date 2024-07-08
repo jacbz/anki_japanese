@@ -1,13 +1,24 @@
 Rang: 3124
 Lemma: 三番目
-Lesung: さんばんーめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: さんばんめ
+Alternativschreibweisen: ''
 Definition: dritte
-Beispielsatz: 三番目の兄は両親と一緒に住んでいる。
-Beispielsatz-Lesung: 三 番[ばん] 目[め]の 兄[あに]は 両親[りょうしん]と 一緒[いっしょ]に 住[す]んでいる。
-Beispielsatz-Übersetzung: Mein dritter älterer Bruder lebt mit meinen Eltern zusammen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  三番目の兄は両親と一緒に住んでいる。
+  三 番[ばん] 目[め]の 兄[あに]は 両親[りょうしん]と 一緒[いっしょ]に 住[す]んでいる。
+  Mein dritter älterer Bruder lebt mit meinen Eltern zusammen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

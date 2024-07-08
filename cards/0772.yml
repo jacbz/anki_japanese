@@ -1,13 +1,27 @@
 Rang: 772
 Lemma: 立場
 Lesung: たちば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Position, Standpunkt, Situation
-Beispielsatz: お互いの立場を尊重する。
-Beispielsatz-Lesung: お 互[たが]いの 立場[たちば]を 尊重[そんちょう]する。
-Beispielsatz-Übersetzung: Wir respektieren die Positionen der anderen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ば</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お互いの立場を尊重する。
+  お 互[たが]いの 立場[たちば]を 尊重[そんちょう]する。
+  Wir respektieren die Positionen der anderen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

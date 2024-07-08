@@ -1,13 +1,24 @@
 Rang: 4555
 Lemma: 密接
 Lesung: みっせつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: eng
-Beispielsatz: 両国の関係はますます密接になった。
-Beispielsatz-Lesung: 両国[りょうこく]の 関係[かんけい]はますます 密接[みっせつ]になった。
-Beispielsatz-Übersetzung: Die beiden Länder sind sich immer näher gekommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  両国の関係はますます密接になった。
+  両国[りょうこく]の 関係[かんけい]はますます 密接[みっせつ]になった。
+  Die beiden Länder sind sich immer näher gekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

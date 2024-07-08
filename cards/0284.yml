@@ -1,13 +1,28 @@
 Rang: 284
 Lemma: 初めて
 Lesung: はじめて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: zum ersten Mal
-Beispielsatz: 彼と初めて会ったのは去年の夏です。
-Beispielsatz-Lesung: 彼[かれ]と 初[はじ]めて 会[あ]ったのは 去年[きょねん]の 夏[なつ]です。
-Beispielsatz-Übersetzung: Ich habe ihn letzten Sommer zum ersten Mal getroffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">て</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼と初めて会ったのは去年の夏です。
+  彼[かれ]と 初[はじ]めて 会[あ]ったのは 去年[きょねん]の 夏[なつ]です。
+  Ich habe ihn letzten Sommer zum ersten Mal getroffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

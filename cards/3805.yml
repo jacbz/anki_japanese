@@ -1,14 +1,29 @@
 Rang: 3805
 Lemma: 運転手
 Lesung: うんてんしゅ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fahrer
-Beispielsatz: タクシーの運転手においしいお店を教えてもらった。
-Beispielsatz-Lesung: タクシーの 運転手[うんてんしゅ]においしいお 店[たな]を 教[おし]えてもらった。
-Beispielsatz-Übersetzung: Wir haben den Taxifahrer gebeten, uns den Namen eines guten
-  Restaurants zu geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">て</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  タクシーの運転手においしいお店を教えてもらった。
+  タクシーの 運転手[うんてんしゅ]においしいお 店[たな]を 教[おし]えてもらった。
+  Wir haben den Taxifahrer gebeten, uns den Namen eines guten Restaurants zu geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

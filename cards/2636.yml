@@ -1,13 +1,28 @@
 Rang: 2636
 Lemma: 内側
 Lesung: うちがわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Innenseite, Inneres
-Beispielsatz: 内側を見せてください。
-Beispielsatz-Lesung: 内側[うちがわ]を 見[み]せてください。
-Beispielsatz-Übersetzung: Zeigen Sie mir die Innenseite.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  内側を見せてください。
+  内側[うちがわ]を 見[み]せてください。
+  Zeigen Sie mir die Innenseite.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

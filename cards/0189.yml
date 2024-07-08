@@ -1,13 +1,24 @@
 Rang: 189
 Lemma: なんか
-Lesung: なんか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wie zum Beispiel, wie etwa
-Beispielsatz: 彼なんかにできるはずがない。
-Beispielsatz-Lesung: 彼[かれ]なんかにできるはずがない。
-Beispielsatz-Übersetzung: Jemand wie er könnte es niemals tun.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼なんかにできるはずがない。
+  彼[かれ]なんかにできるはずがない。
+  Jemand wie er könnte es niemals tun.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

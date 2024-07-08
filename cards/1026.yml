@@ -1,13 +1,27 @@
 Rang: 1026
 Lemma: 資料
 Lesung: しりょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dokument, Material, Daten
-Beispielsatz: 論文を書くための資料を集めている。
-Beispielsatz-Lesung: 論文[ろんぶん]を 書[か]くための 資料[しりょう]を 集[あつ]めている。
-Beispielsatz-Übersetzung: Ich sammle Material für meine Doktorarbeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">り</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  論文を書くための資料を集めている。
+  論文[ろんぶん]を 書[か]くための 資料[しりょう]を 集[あつ]めている。
+  Ich sammle Material für meine Doktorarbeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

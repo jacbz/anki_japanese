@@ -1,13 +1,26 @@
 Rang: 4907
 Lemma: 網
 Lesung: あみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Netz
-Beispielsatz: たくさんの魚が網にかかった。
-Beispielsatz-Lesung: たくさんの 魚[さかな]が 網[あみ]にかかった。
-Beispielsatz-Übersetzung: Viele Fische wurden im Netz gefangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たくさんの魚が網にかかった。
+  たくさんの 魚[さかな]が 網[あみ]にかかった。
+  Viele Fische wurden im Netz gefangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,29 @@
 Rang: 3121
 Lemma: 五百円
 Lesung: ごひゃくえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: fünfhundert Yen
-Beispielsatz: 今日は五百円の弁当を買って食べた。
-Beispielsatz-Lesung: 今日[きょう]は五 百[ひゃく] 円[えん]の 弁当[べんとう]を 買[か]って 食[た]べた。
-Beispielsatz-Übersetzung: Heute habe ich eine fünfhundert Yen Bento-Box gekauft und
-  gegessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">ご</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ひ</span><span class="char">ゃ</span></span></span><span class="accent_top
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">え</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日は五百円の弁当を買って食べた。
+  今日[きょう]は五 百[ひゃく] 円[えん]の 弁当[べんとう]を 買[か]って 食[た]べた。
+  Heute habe ich eine fünfhundert Yen Bento-Box gekauft und gegessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

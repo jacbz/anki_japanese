@@ -1,13 +1,24 @@
 Rang: 2835
 Lemma: 総合的
 Lesung: そうごうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: ganzheitlich, integriert, umfassend
-Beispielsatz: 統合的なスキルを身につけるべきだ。
-Beispielsatz-Lesung: 統合[とうごう] 的[てき]なスキルを 身[み]につけるべきだ。
-Beispielsatz-Übersetzung: Sie sollten integrierte Fähigkeiten erwerben.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ↗Verwaltungssprache
+Dispersion: '44'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  統合的なスキルを身につけるべきだ。
+  統合[とうごう] 的[てき]なスキルを 身[み]につけるべきだ。
+  Sie sollten integrierte Fähigkeiten erwerben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

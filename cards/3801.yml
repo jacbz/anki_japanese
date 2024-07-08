@@ -1,13 +1,24 @@
 Rang: 3801
 Lemma: タオル
-Lesung: タオル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Handtuch
-Beispielsatz: 手を洗ってタオルで拭いた。
-Beispielsatz-Lesung: 手[て]を 洗[あら]ってタオルで 拭[ふ]いた。
-Beispielsatz-Übersetzung: Ich habe meine Hände gewaschen und mit einem Handtuch abgetrocknet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  手を洗ってタオルで拭いた。
+  手[て]を 洗[あら]ってタオルで 拭[ふ]いた。
+  Ich habe meine Hände gewaschen und mit einem Handtuch abgetrocknet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

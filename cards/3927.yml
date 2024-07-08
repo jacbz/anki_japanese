@@ -1,13 +1,24 @@
 Rang: 3927
 Lemma: 交付
 Lesung: こうふ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: ausgeben, herausgeben
 Extra: （する）
 Wortart: n. v.
-Definition: ausgeben, herausgeben
-Beispielsatz: パスポートが交付された。
-Beispielsatz-Lesung: パスポートが 交付[こうふ]された。
-Beispielsatz-Übersetzung: Mein Reisepass wurde ausgestellt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '59'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パスポートが交付された。
+  パスポートが 交付[こうふ]された。
+  Mein Reisepass wurde ausgestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

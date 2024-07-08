@@ -1,13 +1,24 @@
 Rang: 1406
 Lemma: (お)じいさん
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Großvater
-Beispielsatz: おじいさんは年のわりに元気です。
-Beispielsatz-Lesung: おじいさんは 年[とし]のわりに 元気[げんき]です。
-Beispielsatz-Übersetzung: Mein Großvater ist für sein Alter lebhaft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  おじいさんは年のわりに元気です。
+  おじいさんは 年[とし]のわりに 元気[げんき]です。
+  Mein Großvater ist für sein Alter lebhaft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

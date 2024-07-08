@@ -1,13 +1,24 @@
 Rang: 3579
 Lemma: スムーズ
-Lesung: スムーズ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: reibungslos
-Beispielsatz: 新システムへの移行はスムーズに進んだ。
-Beispielsatz-Lesung: 新[しん]システムへの 移行[いこう]はスムーズに 進[すす]んだ。
-Beispielsatz-Übersetzung: Der Übergang zum neuen System verlief reibungslos.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新システムへの移行はスムーズに進んだ。
+  新[しん]システムへの 移行[いこう]はスムーズに 進[すす]んだ。
+  Der Übergang zum neuen System verlief reibungslos.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

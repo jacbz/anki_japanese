@@ -1,15 +1,24 @@
 Rang: 3610
 Lemma: 協議
 Lesung: きょうぎ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Beratung, Diskussion; beraten, diskutieren
 Extra: （する）
 Wortart: n. v.
-Definition: Beratung, Diskussion; beraten, diskutieren
-Beispielsatz: この点については、関係機関と協議の上、決定したいと思います。
-Beispielsatz-Lesung: この 点[てん]については、 関係[かんけい] 機関[きかん]と 協議[きょうぎ]の 上[うえ]、 決定[けってい]したいと
-  思[おも]います。
-Beispielsatz-Übersetzung: In Bezug auf diese Angelegenheit werden wir nach Beratung
-  mit den relevanten Institutionen eine Entscheidung treffen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この点については、関係機関と協議の上、決定したいと思います。
+  この 点[てん]については、 関係[かんけい] 機関[きかん]と 協議[きょうぎ]の 上[うえ]、 決定[けってい]したいと 思[おも]います。
+  In Bezug auf diese Angelegenheit werden wir nach Beratung mit den relevanten Institutionen eine Entscheidung treffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

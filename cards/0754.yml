@@ -1,13 +1,24 @@
 Rang: 754
 Lemma: 自分達
 Lesung: じぶんたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sich selbst; uns selbst
-Beispielsatz: 自分たちのことはすべて自分たちでする。
-Beispielsatz-Lesung: 自分[じぶん]たちのことはすべて 自分[じぶん]たちでする。
-Beispielsatz-Übersetzung: Wir machen alles selbst.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  自分たちのことはすべて自分たちでする。
+  自分[じぶん]たちのことはすべて 自分[じぶん]たちでする。
+  Wir machen alles selbst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

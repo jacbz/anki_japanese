@@ -1,13 +1,24 @@
 Rang: 4446
 Lemma: こんにちは
-Lesung: こんにちは
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Hallo, Guten Tag
-Beispielsatz: 小さい子が私に「こんにちは」と言った。
-Beispielsatz-Lesung: 小[ちい]さい 子[こ]が 私[わたし]に「こんにちは」と 言[い]った。
-Beispielsatz-Übersetzung: Das kleine Kind hat mir Hallo gesagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  小さい子が私に「こんにちは」と言った。
+  小[ちい]さい 子[こ]が 私[わたし]に「こんにちは」と 言[い]った。
+  Das kleine Kind hat mir Hallo gesagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

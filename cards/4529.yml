@@ -1,13 +1,24 @@
 Rang: 4529
 Lemma: 二十六
 Lesung: にじゅうろく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: sechsundzwanzig
-Beispielsatz: アルファベットは二十六文字ある。
-Beispielsatz-Lesung: アルファベットは二十六 文字[もじ]ある。
-Beispielsatz-Übersetzung: Es gibt sechsundzwanzig Buchstaben im Alphabet.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  アルファベットは二十六文字ある。
+  アルファベットは二十六 文字[もじ]ある。
+  Es gibt sechsundzwanzig Buchstaben im Alphabet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

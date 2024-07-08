@@ -1,13 +1,27 @@
 Rang: 3715
 Lemma: なめる
-Lesung: なめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: lecken; saugen
-Beispielsatz: 喉の調子が悪いので、あめをなめている。
-Beispielsatz-Lesung: 喉[のど]の 調子[ちょうし]が 悪[わる]いので、あめをなめている。
-Beispielsatz-Übersetzung: Ich lutsche ein Bonbon, da ich Halsschmerzen habe.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  喉の調子が悪いので、あめをなめている。
+  喉[のど]の 調子[ちょうし]が 悪[わる]いので、あめをなめている。
+  Ich lutsche ein Bonbon, da ich Halsschmerzen habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 4777
 Lemma: 一目
 Lesung: ひとめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Blick
-Beispielsatz: 私は一目で彼女だとわかった。
-Beispielsatz-Lesung: 私[わたし]は 一目[いちもく]で 彼女[かのじょ]だとわかった。
-Beispielsatz-Übersetzung: Ich erkannte sie auf den ersten Blick.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">め</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は一目で彼女だとわかった。
+  私[わたし]は 一目[いちもく]で 彼女[かのじょ]だとわかった。
+  Ich erkannte sie auf den ersten Blick.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2143
 Lemma: つつある
-Lesung: つつある
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sich in einem Prozess befinden, gerade tun
-Beispielsatz: 日本では子供の数が減りつつある。
-Beispielsatz-Lesung: 日本[にっぽん]では 子供[こども]の 数[かず]が 減[へ]りつつある。
-Beispielsatz-Übersetzung: In Japan nimmt die Anzahl der Kinder ab.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本では子供の数が減りつつある。
+  日本[にっぽん]では 子供[こども]の 数[かず]が 減[へ]りつつある。
+  In Japan nimmt die Anzahl der Kinder ab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

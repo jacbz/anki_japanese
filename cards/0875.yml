@@ -1,13 +1,27 @@
 Rang: 875
 Lemma: 新た
 Lesung: あらた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: ein weiterer
-Beispielsatz: 彼は新たな課題に取り組んでいる。
-Beispielsatz-Lesung: 彼[かれ]は 新[あら]たな 課題[かだい]に 取[と]り 組[く]んでいる。
-Beispielsatz-Übersetzung: Er geht eine weitere Herausforderung an.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">あ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ら</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">た</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は新たな課題に取り組んでいる。
+  彼[かれ]は 新[あら]たな 課題[かだい]に 取[と]り 組[く]んでいる。
+  Er geht eine weitere Herausforderung an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

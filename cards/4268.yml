@@ -1,13 +1,24 @@
 Rang: 4268
 Lemma: 落札者
 Lesung: らくさつしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Erfolgreicher Bieter
-Beispielsatz: アメリカの落札者がその絵を買った。
-Beispielsatz-Lesung: アメリカの 落札者[らくさつしゃ]がその 絵[え]を 買[か]った。
-Beispielsatz-Übersetzung: Der erfolgreiche amerikanische Bieter kaufte das Bild.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '3'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  アメリカの落札者がその絵を買った。
+  アメリカの 落札者[らくさつしゃ]がその 絵[え]を 買[か]った。
+  Der erfolgreiche amerikanische Bieter kaufte das Bild.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

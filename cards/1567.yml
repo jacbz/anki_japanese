@@ -1,13 +1,24 @@
 Rang: 1567
 Lemma: ＣＤ
 Lesung: シー・ディー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kompakt-Disk
-Beispielsatz: このＣＤを借りてもいいですか。
-Beispielsatz-Lesung: このＣＤを 借[か]りてもいいですか。
-Beispielsatz-Übersetzung: Kann ich diese CD ausleihen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このＣＤを借りてもいいですか。
+  このＣＤを 借[か]りてもいいですか。
+  Kann ich diese CD ausleihen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 425
 Lemma: 日本人
 Lesung: にほんーじん<br>にっぽんーじん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Japaner/in
-Beispielsatz: 日本人は勤勉だと思います。
-Beispielsatz-Lesung: 日本人[にっぽんじん]は 勤勉[きんべん]だと 思[おも]います。
-Beispielsatz-Übersetzung: Ich denke, dass Japaner fleißig sind.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本人は勤勉だと思います。
+  日本人[にっぽんじん]は 勤勉[きんべん]だと 思[おも]います。
+  Ich denke, dass Japaner fleißig sind.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

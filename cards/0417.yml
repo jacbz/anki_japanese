@@ -1,13 +1,24 @@
 Rang: 417
 Lemma: 利用
 Lesung: りよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Nutzung, Verwendung
 Extra: （する）
 Wortart: n. v.
-Definition: Nutzung, Verwendung
-Beispielsatz: 私は時々図書館を利用する。
-Beispielsatz-Lesung: 私[わたし]は 時々[ときどき] 図書館[としょかん]を 利用[りよう]する。
-Beispielsatz-Übersetzung: Ich nutze manchmal die Bibliothek.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は時々図書館を利用する。
+  私[わたし]は 時々[ときどき] 図書館[としょかん]を 利用[りよう]する。
+  Ich nutze manchmal die Bibliothek.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

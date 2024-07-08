@@ -1,13 +1,24 @@
 Rang: 26
 Lemma: ね
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. disc.
+Alternativschreibweisen: ''
 Definition: nicht wahr?, oder?
-Beispielsatz: いい天気ですね。
-Beispielsatz-Lesung: いい 天気[てんき]ですね。
-Beispielsatz-Übersetzung: Es ist ein schöner Tag, nicht wahr?
+Extra: '' # Nur bei suru-Verben
+Wortart: p. disc.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いい天気ですね。
+  いい 天気[てんき]ですね。
+  Es ist ein schöner Tag, nicht wahr?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 4385
 Lemma: 帯
 Lesung: おび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kimono-Gürtel, Gurt
-Beispielsatz: 着物の帯を固く締めた。
-Beispielsatz-Lesung: 着物[きもの]の 帯[おび]を 固[かた]く 締[し]めた。
-Beispielsatz-Übersetzung: Ich band die Kimonoschärpe fest.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">お</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  着物の帯を固く締めた。
+  着物[きもの]の 帯[おび]を 固[かた]く 締[し]めた。
+  Ich band die Kimonoschärpe fest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

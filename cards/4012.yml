@@ -1,13 +1,24 @@
 Rang: 4012
 Lemma: 大規模
 Lesung: だいきぼ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: groß angelegt
-Beispielsatz: 大規模に店を経営している。
-Beispielsatz-Lesung: 大規模[だいきぼ]に 店[みせ]を 経営[けいえい]している。
-Beispielsatz-Übersetzung: Er macht Geschäfte im großen Stil.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大規模に店を経営している。
+  大規模[だいきぼ]に 店[みせ]を 経営[けいえい]している。
+  Er macht Geschäfte im großen Stil.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

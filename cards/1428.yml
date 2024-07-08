@@ -1,13 +1,28 @@
 Rang: 1428
 Lemma: 喜び
 Lesung: よろこび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Freude, Vergnügen
-Beispielsatz: 皆さまをお迎えできるのは何よりの喜びです。
-Beispielsatz-Lesung: 皆[みな]さまをお 迎[むか]えできるのは 何[なに]よりの 喜[よろこ]びです。
-Beispielsatz-Übersetzung: Es ist mir eine große Freude, Sie alle willkommen zu heißen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  皆さまをお迎えできるのは何よりの喜びです。
+  皆[みな]さまをお 迎[むか]えできるのは 何[なに]よりの 喜[よろこ]びです。
+  Es ist mir eine große Freude, Sie alle willkommen zu heißen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

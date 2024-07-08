@@ -1,13 +1,28 @@
 Rang: 854
 Lemma: 設定
 Lesung: せってい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einrichtung; festlegen
 Extra: （する）
 Wortart: n. v.
-Definition: Einrichtung; festlegen
-Beispielsatz: エアコンを28度に設定する。
-Beispielsatz-Lesung: エアコンを28 度[ど]に 設定[せってい]する。
-Beispielsatz-Übersetzung: Ich werde die Klimaanlage auf 28 Grad einstellen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  エアコンを28度に設定する。
+  エアコンを28 度[ど]に 設定[せってい]する。
+  Ich werde die Klimaanlage auf 28 Grad einstellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

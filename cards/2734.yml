@@ -1,13 +1,24 @@
 Rang: 2734
 Lemma: 三十年
 Lesung: さんじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreißig Jahre
-Beispielsatz: 私達は三十年間お互いのことを知っている。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は三十 年間[ねんかん]お 互[たが]いのことを 知[し]っている。
-Beispielsatz-Übersetzung: Wir kennen uns schon seit dreißig Jahren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は三十年間お互いのことを知っている。
+  私[わたし] 達[たち]は三十 年間[ねんかん]お 互[たが]いのことを 知[し]っている。
+  Wir kennen uns schon seit dreißig Jahren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 906
 Lemma: 決して
 Lesung: けっして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: niemals, keineswegs
-Beispielsatz: 決してあきらめないでください。
-Beispielsatz-Lesung: 決[けっ]してあきらめないでください。
-Beispielsatz-Übersetzung: Gib niemals auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  決してあきらめないでください。
+  決[けっ]してあきらめないでください。
+  Gib niemals auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

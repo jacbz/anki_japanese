@@ -1,13 +1,24 @@
 Rang: 1853
 Lemma: なくてはいけない
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: müssen
-Beispielsatz: 毎日学校に行かなくてはいけない。
-Beispielsatz-Lesung: 毎日[まいにち] 学校[がっこう]に 行[い]かなくてはいけない。
-Beispielsatz-Übersetzung: Ich muss jeden Tag lernen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎日学校に行かなくてはいけない。
+  毎日[まいにち] 学校[がっこう]に 行[い]かなくてはいけない。
+  Ich muss jeden Tag lernen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

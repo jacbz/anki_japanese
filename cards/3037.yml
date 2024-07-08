@@ -1,13 +1,24 @@
 Rang: 3037
 Lemma: ど
-Lesung: ど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedoch (klassisch)
-Beispielsatz: 声は聞こえど姿は見えない。
-Beispielsatz-Lesung: 声[こえ]は 聞[き]こえど 姿[すがた]は 見[み]えない。
-Beispielsatz-Übersetzung: Ich kann eine Stimme hören, jedoch kann ich niemanden sehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  声は聞こえど姿は見えない。
+  声[こえ]は 聞[き]こえど 姿[すがた]は 見[み]えない。
+  Ich kann eine Stimme hören, jedoch kann ich niemanden sehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

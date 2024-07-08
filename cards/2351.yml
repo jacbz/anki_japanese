@@ -1,13 +1,24 @@
 Rang: 2351
 Lemma: によれば
-Lesung: によれば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gemäß, laut, sagen
-Beispielsatz: 天気予報によれば、明日は晴れるだろう。
-Beispielsatz-Lesung: 天気予報[てんきよほう]によれば、 明日[あした]は 晴[は]れるだろう。
-Beispielsatz-Übersetzung: Gemäß der Wettervorhersage wird es morgen sonnig sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  天気予報によれば、明日は晴れるだろう。
+  天気予報[てんきよほう]によれば、 明日[あした]は 晴[は]れるだろう。
+  Gemäß der Wettervorhersage wird es morgen sonnig sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

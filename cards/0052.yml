@@ -1,13 +1,24 @@
 Rang: 52
 Lemma: もう
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: schon; bald; wieder
-Beispielsatz: もう寝ます。
-Beispielsatz-Lesung: もう 寝[ね]ます。
-Beispielsatz-Übersetzung: Ich gehe bald schlafen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もう寝ます。
+  もう 寝[ね]ます。
+  Ich gehe bald schlafen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

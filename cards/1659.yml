@@ -1,13 +1,24 @@
 Rang: 1659
 Lemma: 上手
 Lesung: じょうず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: gut, geschickt
-Beispielsatz: 彼女は絵が上手だ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 絵[え]が 上手[じょうず]だ。
-Beispielsatz-Übersetzung: Sie ist gut im Zeichnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は絵が上手だ。
+  彼女[かのじょ]は 絵[え]が 上手[じょうず]だ。
+  Sie ist gut im Zeichnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

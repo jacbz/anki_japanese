@@ -1,15 +1,26 @@
 Rang: 551
 Lemma: とりあえず
-Lesung: とりあえず
-Alternative: |2-
+Lesung: ''
+Alternativschreibweisen: |2-
 
   取り敢えず
-Extra: '' # nur bei する-Verben
-Wortart: adv.
 Definition: vorläufig; erstmal
-Beispielsatz: とりあえずお知らせします。
-Beispielsatz-Lesung: とりあえずお 知[し]らせします。
-Beispielsatz-Übersetzung: Ich werde es vorläufig mitteilen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  とりあえずお知らせします。
+  とりあえずお 知[し]らせします。
+  Ich werde es vorläufig mitteilen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

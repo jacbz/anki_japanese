@@ -1,13 +1,28 @@
 Rang: 4145
 Lemma: 縮小
 Lesung: しゅくしょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: verkleinern; verkleinern
 Extra: （する）
 Wortart: n. v.
-Definition: verkleinern; verkleinern
-Beispielsatz: 画像を縮小して送ってください。
-Beispielsatz-Lesung: 画像[がぞう]を 縮小[しゅくしょう]して 送[おく]ってください。
-Beispielsatz-Übersetzung: Bitte verkleinern Sie die Bildgröße, bevor Sie sie senden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">し</span><span class="char">ょ</span></span></span><span
+  class="accent_plain mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  画像を縮小して送ってください。
+  画像[がぞう]を 縮小[しゅくしょう]して 送[おく]ってください。
+  Bitte verkleinern Sie die Bildgröße, bevor Sie sie senden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

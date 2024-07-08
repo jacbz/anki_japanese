@@ -1,13 +1,28 @@
 Rang: 2359
 Lemma: 達成
 Lesung: たっせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Errungenschaft, Erreichen
 Extra: （する）
 Wortart: n. v.
-Definition: Errungenschaft, Erreichen
-Beispielsatz: 目標を達成するために一生懸命働く。
-Beispielsatz-Lesung: 目標[もくひょう]を 達成[たっせい]するために 一生懸命[いっしょうけんめい] 働[はたら]く。
-Beispielsatz-Übersetzung: Ich arbeite sehr hart, um meine Ziele zu erreichen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  目標を達成するために一生懸命働く。
+  目標[もくひょう]を 達成[たっせい]するために 一生懸命[いっしょうけんめい] 働[はたら]く。
+  Ich arbeite sehr hart, um meine Ziele zu erreichen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

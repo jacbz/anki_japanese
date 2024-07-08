@@ -1,13 +1,24 @@
 Rang: 4337
 Lemma: ブルー
-Lesung: ブルー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: blau
-Beispielsatz: この赤ちゃんの目はブルーだ。
-Beispielsatz-Lesung: この 赤[あか]ちゃんの 目[め]はブルーだ。
-Beispielsatz-Übersetzung: Dieses Baby hat blaue Augen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この赤ちゃんの目はブルーだ。
+  この 赤[あか]ちゃんの 目[め]はブルーだ。
+  Dieses Baby hat blaue Augen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

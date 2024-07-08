@@ -1,14 +1,24 @@
 Rang: 1944
 Lemma: モテる
 Lesung: もてる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beliebt sein
-Beispielsatz: モテて、モテて、困ってしまう。
-Beispielsatz-Lesung: モテて、モテて、 困[こま]ってしまう。
-Beispielsatz-Übersetzung: Ich bin bei Mädchen so beliebt, dass es ein bisschen peinlich
-  ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  モテて、モテて、困ってしまう。
+  モテて、モテて、 困[こま]ってしまう。
+  Ich bin bei Mädchen so beliebt, dass es ein bisschen peinlich ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

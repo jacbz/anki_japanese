@@ -1,13 +1,24 @@
 Rang: 203
 Lemma: いろんな
-Lesung: いろんな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: verschiedene
-Beispielsatz: そのパーティーではいろんな料理が出された。
-Beispielsatz-Lesung: そのパーティーではいろんな 料理[りょうり]が 出[だ]された。
-Beispielsatz-Übersetzung: Bei der Party wurden verschiedene Gerichte serviert.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのパーティーではいろんな料理が出された。
+  そのパーティーではいろんな 料理[りょうり]が 出[だ]された。
+  Bei der Party wurden verschiedene Gerichte serviert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

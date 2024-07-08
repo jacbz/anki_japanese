@@ -1,13 +1,24 @@
 Rang: 137
 Lemma: うー
-Lesung: うー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Woo!, Oooh!
-Beispielsatz: うー、寒い。
-Beispielsatz-Lesung: うー、 寒[さむ]い。
-Beispielsatz-Übersetzung: Oh, ist das kalt.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '22'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  うー、寒い。
+  うー、 寒[さむ]い。
+  Oh, ist das kalt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

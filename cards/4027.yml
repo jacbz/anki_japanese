@@ -1,13 +1,24 @@
 Rang: 4027
 Lemma: スカート
-Lesung: スカート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Rock
-Beispielsatz: 彼女は今日ロングスカートをはいている。
-Beispielsatz-Lesung: 彼女[かのじょ]は 今日[きょう]ロングスカートをはいている。
-Beispielsatz-Übersetzung: Sie trägt heute einen langen Rock.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '64'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は今日ロングスカートをはいている。
+  彼女[かのじょ]は 今日[きょう]ロングスカートをはいている。
+  Sie trägt heute einen langen Rock.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

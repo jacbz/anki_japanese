@@ -1,13 +1,24 @@
 Rang: 4115
 Lemma: 別々
 Lesung: べつべつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: getrennt, einzeln
-Beispielsatz: 別々に払います。
-Beispielsatz-Lesung: 別々[べつべつ]に 払[はら]います。
-Beispielsatz-Übersetzung: Wir werden getrennt bezahlen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  別々に払います。
+  別々[べつべつ]に 払[はら]います。
+  Wir werden getrennt bezahlen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

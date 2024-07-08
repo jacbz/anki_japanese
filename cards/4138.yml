@@ -1,13 +1,24 @@
 Rang: 4138
 Lemma: カップル
-Lesung: カップル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Paar
-Beispielsatz: 彼らはお似合いのカップルだ。
-Beispielsatz-Lesung: 彼[かれ]らはお 似合[にあ]いのカップルだ。
-Beispielsatz-Übersetzung: Sie sind ein gutes Paar.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らはお似合いのカップルだ。
+  彼[かれ]らはお 似合[にあ]いのカップルだ。
+  Sie sind ein gutes Paar.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

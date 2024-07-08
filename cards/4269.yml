@@ -1,13 +1,27 @@
 Rang: 4269
 Lemma: 融資
 Lesung: ゆうし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Darlehen; leihen
 Extra: （する）
 Wortart: n. v.
-Definition: Darlehen; leihen
-Beispielsatz: 銀行から融資を受けた。
-Beispielsatz-Lesung: 銀行[ぎんこう]から 融資[ゆうし]を 受[う]けた。
-Beispielsatz-Übersetzung: Ich habe ein Darlehen von der Bank bekommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ゆ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  銀行から融資を受けた。
+  銀行[ぎんこう]から 融資[ゆうし]を 受[う]けた。
+  Ich habe ein Darlehen von der Bank bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3404
 Lemma: 格好良い
 Lesung: かっこうよい<br>かっこいい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: cool, gut aussehend
-Beispielsatz: 友達のお兄さんは格好良い。
-Beispielsatz-Lesung: 友達[ともだち]のお 兄[にい]さんは 格好[かっこう] 良[よ]い。
-Beispielsatz-Übersetzung: Der ältere Bruder meines Freundes ist gut aussehend.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達のお兄さんは格好良い。
+  友達[ともだち]のお 兄[にい]さんは 格好[かっこう] 良[よ]い。
+  Der ältere Bruder meines Freundes ist gut aussehend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

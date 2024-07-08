@@ -1,13 +1,24 @@
 Rang: 4254
 Lemma: スイッチ
-Lesung: スイッチ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Schalter
-Beispielsatz: このスイッチを押せばカーテンが開きます。
-Beispielsatz-Lesung: このスイッチを 押[お]せばカーテンが 開[ひら]きます。
-Beispielsatz-Übersetzung: Wenn Sie diesen Schalter drücken, werden die Vorhänge geöffnet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このスイッチを押せばカーテンが開きます。
+  このスイッチを 押[お]せばカーテンが 開[ひら]きます。
+  Wenn Sie diesen Schalter drücken, werden die Vorhänge geöffnet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

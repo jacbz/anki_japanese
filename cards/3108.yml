@@ -1,13 +1,27 @@
 Rang: 3108
 Lemma: 絡む
 Lesung: からむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verwickeln, verstricken; einen Streit anfangen
-Beispielsatz: さまざまな問題が複雑に絡んでいる。
-Beispielsatz-Lesung: さまざまな 問題[もんだい]が 複雑[ふくざつ]に 絡[から]んでいる。
-Beispielsatz-Übersetzung: Es wird durch verschiedene Probleme kompliziert.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さまざまな問題が複雑に絡んでいる。
+  さまざまな 問題[もんだい]が 複雑[ふくざつ]に 絡[から]んでいる。
+  Es wird durch verschiedene Probleme kompliziert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

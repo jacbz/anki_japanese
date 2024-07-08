@@ -1,13 +1,24 @@
 Rang: 2191
 Lemma: 火
 Lesung: か
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dienstag; Feuer
-Beispielsatz: 毎週火、水、木は大学へ行く。
-Beispielsatz-Lesung: 毎週[まいしゅう] 火[ひ]、 水[みず]、 木[き]は 大学[だいがく]へ 行[い]く。
-Beispielsatz-Übersetzung: Jeden Dienstag, Mittwoch und Donnerstag gehe ich zur Universität.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Zeitungen
+Dispersion: '15'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎週火、水、木は大学へ行く。
+  毎週[まいしゅう] 火[ひ]、 水[みず]、 木[き]は 大学[だいがく]へ 行[い]く。
+  Jeden Dienstag, Mittwoch und Donnerstag gehe ich zur Universität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

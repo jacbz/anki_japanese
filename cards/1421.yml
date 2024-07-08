@@ -1,14 +1,24 @@
 Rang: 1421
 Lemma: 提出
 Lesung: ていしゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: einreichen
 Extra: （する）
 Wortart: n. v.
-Definition: einreichen
-Beispielsatz: 至急履歴書を提出してください。
-Beispielsatz-Lesung: 至急[しきゅう] 履歴書[りれきしょ]を 提出[ていしゅつ]してください。
-Beispielsatz-Übersetzung: Bitte reichen Sie Ihren Lebenslauf so schnell wie möglich
-  ein.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  至急履歴書を提出してください。
+  至急[しきゅう] 履歴書[りれきしょ]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie Ihren Lebenslauf so schnell wie möglich ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

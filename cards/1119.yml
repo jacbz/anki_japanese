@@ -1,13 +1,24 @@
 Rang: 1119
 Lemma: 移動
 Lesung: いどう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bewegung, Übertragung
 Extra: （する）
 Wortart: n. v.
-Definition: Bewegung, Übertragung
-Beispielsatz: その鳥は日本から東南アジアまで移動する。
-Beispielsatz-Lesung: その 鳥[とり]は 日本[にっぽん]から 東南[とうなん]アジアまで 移動[いどう]する。
-Beispielsatz-Übersetzung: Die Vögel migrieren von Japan nach Südostasien.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その鳥は日本から東南アジアまで移動する。
+  その 鳥[とり]は 日本[にっぽん]から 東南[とうなん]アジアまで 移動[いどう]する。
+  Die Vögel migrieren von Japan nach Südostasien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

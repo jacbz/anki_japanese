@@ -1,13 +1,24 @@
 Rang: 3438
 Lemma: 優先
 Lesung: ゆうせん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Priorität haben
 Extra: （する）
 Wortart: n. v.
-Definition: Priorität haben
-Beispielsatz: 人命を何よりも優先する。
-Beispielsatz-Lesung: 人命[じんめい]を 何[なに]よりも 優先[ゆうせん]する。
-Beispielsatz-Übersetzung: Menschliches Leben hat Vorrang vor allem anderen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人命を何よりも優先する。
+  人命[じんめい]を 何[なに]よりも 優先[ゆうせん]する。
+  Menschliches Leben hat Vorrang vor allem anderen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

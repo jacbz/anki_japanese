@@ -1,13 +1,27 @@
 Rang: 3938
 Lemma: 化粧
 Lesung: けしょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: sich schminken; Make-up auftragen
 Extra: （する）
 Wortart: n. v.
-Definition: sich schminken; Make-up auftragen
-Beispielsatz: 寝る前に化粧を落としなさい。
-Beispielsatz-Lesung: 寝[ね]る 前[まえ]に 化粧[けしょう]を 落[お]としなさい。
-Beispielsatz-Übersetzung: Entferne dein Make-up, bevor du schlafen gehst.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  寝る前に化粧を落としなさい。
+  寝[ね]る 前[まえ]に 化粧[けしょう]を 落[お]としなさい。
+  Entferne dein Make-up, bevor du schlafen gehst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

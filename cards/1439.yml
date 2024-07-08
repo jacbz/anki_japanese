@@ -1,13 +1,27 @@
 Rang: 1439
 Lemma: 被害
 Lesung: ひがい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schaden, Verletzung
-Beispielsatz: 建物には何も被害がなかった。
-Beispielsatz-Lesung: 建物[たてもの]には 何[なに]も 被害[ひがい]がなかった。
-Beispielsatz-Übersetzung: Es wurde kein Schaden an einem der Gebäude verursacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ひ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">が</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  建物には何も被害がなかった。
+  建物[たてもの]には 何[なに]も 被害[ひがい]がなかった。
+  Es wurde kein Schaden an einem der Gebäude verursacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

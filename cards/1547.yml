@@ -1,13 +1,27 @@
 Rang: 1547
 Lemma: 望む
 Lesung: のぞむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hoffen
-Beispielsatz: 世界中の人が平和を望んでいる。
-Beispielsatz-Lesung: 世界[せかい] 中[なか]の 人[ひと]が 平和[へいわ]を 望[のぞ]んでいる。
-Beispielsatz-Übersetzung: Menschen auf der ganzen Welt hoffen auf Frieden.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界中の人が平和を望んでいる。
+  世界[せかい] 中[なか]の 人[ひと]が 平和[へいわ]を 望[のぞ]んでいる。
+  Menschen auf der ganzen Welt hoffen auf Frieden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3316
 Lemma: ベトナム
-Lesung: ベトナム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Vietnam
-Beispielsatz: おいしいベトナム料理を食べました。
-Beispielsatz-Lesung: おいしいベトナム 料理[りょうり]を 食[た]べました。
-Beispielsatz-Übersetzung: Ich habe leckeres vietnamesisches Essen gegessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  おいしいベトナム料理を食べました。
+  おいしいベトナム 料理[りょうり]を 食[た]べました。
+  Ich habe leckeres vietnamesisches Essen gegessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

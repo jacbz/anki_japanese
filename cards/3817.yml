@@ -1,13 +1,26 @@
 Rang: 3817
 Lemma: 枠
 Lesung: わく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Rahmen
-Beispielsatz: この家の窓枠は白く塗ってある。
-Beispielsatz-Lesung: この 家[いえ]の 窓[まど] 枠[わく]は 白[しろ]く 塗[ぬ]ってある。
-Beispielsatz-Übersetzung: Die Fensterrahmen dieses Hauses sind weiß gestrichen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この家の窓枠は白く塗ってある。
+  この 家[いえ]の 窓[まど] 枠[わく]は 白[しろ]く 塗[ぬ]ってある。
+  Die Fensterrahmen dieses Hauses sind weiß gestrichen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

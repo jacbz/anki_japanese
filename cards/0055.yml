@@ -1,13 +1,24 @@
 Rang: 55
 Lemma: な
-Lesung: な
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. disc.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: VERBOT
-Beispielsatz: 動くな、手を挙げろ。
-Beispielsatz-Lesung: 動[うご]くな、 手[て]を 挙[あ]げろ。
-Beispielsatz-Übersetzung: Beweg dich nicht! Hände hoch!
+Extra: '' # Nur bei suru-Verben
+Wortart: p. disc.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  動くな、手を挙げろ。
+  動[うご]くな、 手[て]を 挙[あ]げろ。
+  Beweg dich nicht! Hände hoch!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

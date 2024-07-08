@@ -1,13 +1,24 @@
 Rang: 3330
 Lemma: 印刷
 Lesung: いんさつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: drucken; drucken
 Extra: （する）
 Wortart: n. v.
-Definition: drucken; drucken
-Beispielsatz: 招待状の印刷はもう済んでいる。
-Beispielsatz-Lesung: 招待状[しょうたいじょう]の 印刷[いんさつ]はもう 済[す]んでいる。
-Beispielsatz-Übersetzung: Der Druck des Einladungsschreibens ist bereits abgeschlossen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  招待状の印刷はもう済んでいる。
+  招待状[しょうたいじょう]の 印刷[いんさつ]はもう 済[す]んでいる。
+  Der Druck des Einladungsschreibens ist bereits abgeschlossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

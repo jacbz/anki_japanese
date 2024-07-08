@@ -1,13 +1,24 @@
 Rang: 3407
 Lemma: パーティー
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Party
-Beispielsatz: 昨日のパーティーは楽しかった。
-Beispielsatz-Lesung: 昨日[きのう]のパーティーは 楽[たの]しかった。
-Beispielsatz-Übersetzung: Ich habe die Party gestern genossen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨日のパーティーは楽しかった。
+  昨日[きのう]のパーティーは 楽[たの]しかった。
+  Ich habe die Party gestern genossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

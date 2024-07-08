@@ -1,13 +1,24 @@
 Rang: 3406
 Lemma: 伝統的
 Lesung: でんとうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: traditionell
-Beispielsatz: これは日本の伝統的な遊びです。
-Beispielsatz-Lesung: これは 日本[にっぽん]の 伝統的[でんとうてき]な 遊[あそ]びです。
-Beispielsatz-Übersetzung: Dies ist ein traditionelles Spiel in Japan.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは日本の伝統的な遊びです。
+  これは 日本[にっぽん]の 伝統的[でんとうてき]な 遊[あそ]びです。
+  Dies ist ein traditionelles Spiel in Japan.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

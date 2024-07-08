@@ -1,13 +1,24 @@
 Rang: 4752
 Lemma: 大蔵省
 Lesung: おおくらしょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Finanzministerium
-Beispielsatz: 大蔵省がこの国の財産を管理している。
-Beispielsatz-Lesung: 大蔵省[おおくらしょう]がこの 国[くに]の 財産[ざいさん]を 管理[かんり]している。
-Beispielsatz-Übersetzung: Das Finanzministerium verwaltet das nationale Vermögen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '26'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大蔵省がこの国の財産を管理している。
+  大蔵省[おおくらしょう]がこの 国[くに]の 財産[ざいさん]を 管理[かんり]している。
+  Das Finanzministerium verwaltet das nationale Vermögen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 4705
 Lemma: 司会
 Lesung: しかい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Moderieren, Moderator (m)
 Extra: （する）
 Wortart: n. v.
-Definition: Moderieren, Moderator (m)
-Beispielsatz: 彼はそのテレビのショーの司会を何年もした。
-Beispielsatz-Lesung: 彼[かれ]はそのテレビのショーの 司会[しかい]を 何[なん] 年[ねん]もした。
-Beispielsatz-Übersetzung: Er moderierte diese TV-Show jahrelang.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はそのテレビのショーの司会を何年もした。
+  彼[かれ]はそのテレビのショーの 司会[しかい]を 何[なん] 年[ねん]もした。
+  Er moderierte diese TV-Show jahrelang.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

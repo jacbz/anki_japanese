@@ -1,14 +1,24 @@
 Rang: 2953
 Lemma: 業者
 Lesung: ぎょうしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Händler, Agent, Betreiber
-Beispielsatz: この部屋の掃除は業者に頼んである。
-Beispielsatz-Lesung: この 部屋[へや]の 掃除[そうじ]は 業者[ぎょうしゃ]に 頼[たの]んである。
-Beispielsatz-Übersetzung: Ich habe die Reinigung dieses Zimmers von einem Unternehmen
-  beauftragt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この部屋の掃除は業者に頼んである。
+  この 部屋[へや]の 掃除[そうじ]は 業者[ぎょうしゃ]に 頼[たの]んである。
+  Ich habe die Reinigung dieses Zimmers von einem Unternehmen beauftragt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

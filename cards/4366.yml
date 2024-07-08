@@ -1,13 +1,24 @@
 Rang: 4366
 Lemma: パスタ
-Lesung: パスタ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nudeln
-Beispielsatz: この店のパスタとピザはおいしい。
-Beispielsatz-Lesung: この 店[みせ]のパスタとピザはおいしい。
-Beispielsatz-Übersetzung: Die Nudeln und Pizza in diesem Geschäft sind lecker.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この店のパスタとピザはおいしい。
+  この 店[みせ]のパスタとピザはおいしい。
+  Die Nudeln und Pizza in diesem Geschäft sind lecker.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

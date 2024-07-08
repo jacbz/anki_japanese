@@ -1,13 +1,27 @@
 Rang: 3053
 Lemma: 誤解
 Lesung: ごかい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Missverständnis; missverstehen
 Extra: （する）
 Wortart: n. v.
-Definition: Missverständnis; missverstehen
-Beispielsatz: あいまいな言い方は誤解を招く。
-Beispielsatz-Lesung: あいまいな 言[い]い 方[かた]は 誤解[ごかい]を 招[まね]く。
-Beispielsatz-Übersetzung: Vage Ausdrücke führen zu Missverständnissen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ご</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あいまいな言い方は誤解を招く。
+  あいまいな 言[い]い 方[かた]は 誤解[ごかい]を 招[まね]く。
+  Vage Ausdrücke führen zu Missverständnissen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

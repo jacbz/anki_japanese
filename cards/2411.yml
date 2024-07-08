@@ -1,14 +1,24 @@
 Rang: 2411
 Lemma: 要請
 Lesung: ようせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Anfrage
-Beispielsatz: お客からの要請にはできるだけ早く対応する。
-Beispielsatz-Lesung: お 客[きゃく]からの 要請[ようせい]にはできるだけ 早[はや]く 対応[たいおう]する。
-Beispielsatz-Übersetzung: Wir reagieren so schnell wie möglich auf die Anfragen unserer
-  Kunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お客からの要請にはできるだけ早く対応する。
+  お 客[きゃく]からの 要請[ようせい]にはできるだけ 早[はや]く 対応[たいおう]する。
+  Wir reagieren so schnell wie möglich auf die Anfragen unserer Kunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

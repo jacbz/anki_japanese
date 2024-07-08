@@ -1,13 +1,27 @@
 Rang: 3485
 Lemma: 教え
 Lesung: おしえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Lehre, Unterricht
-Beispielsatz: 先人の教えには従うものだ。
-Beispielsatz-Lesung: 先人[せんじん]の 教[おし]えには 従[したが]うものだ。
-Beispielsatz-Übersetzung: Wir sollten der Lehre unserer Vorgänger folgen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">え</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  先人の教えには従うものだ。
+  先人[せんじん]の 教[おし]えには 従[したが]うものだ。
+  Wir sollten der Lehre unserer Vorgänger folgen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

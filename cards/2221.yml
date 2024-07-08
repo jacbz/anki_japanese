@@ -1,13 +1,29 @@
 Rang: 2221
 Lemma: 主人公
 Lesung: しゅじんこう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Held, Heldin
-Beispielsatz: この映画の主人公は誰ですか。
-Beispielsatz-Lesung: この 映画[えいが]の 主人公[しゅじんこう]は 誰[だれ]ですか。
-Beispielsatz-Übersetzung: Wer ist der Held dieses Films?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_top
+  mola_-4"><span class="inner"><span class="char">じ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この映画の主人公は誰ですか。
+  この 映画[えいが]の 主人公[しゅじんこう]は 誰[だれ]ですか。
+  Wer ist der Held dieses Films?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

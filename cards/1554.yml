@@ -1,13 +1,24 @@
 Rang: 1554
 Lemma: すっかり
-Lesung: すっかり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: vollständig, komplett
-Beispielsatz: 彼女の誕生日をすっかり忘れていた。
-Beispielsatz-Lesung: 彼女[かのじょ]の 誕生日[たんじょうび]をすっかり 忘[わす]れていた。
-Beispielsatz-Übersetzung: Ich hatte ihren Geburtstag vollständig vergessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の誕生日をすっかり忘れていた。
+  彼女[かのじょ]の 誕生日[たんじょうび]をすっかり 忘[わす]れていた。
+  Ich hatte ihren Geburtstag vollständig vergessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

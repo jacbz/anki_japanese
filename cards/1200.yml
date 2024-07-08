@@ -1,13 +1,24 @@
 Rang: 1200
 Lemma: 極めて
 Lesung: きわめて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: sehr, äußerst
-Beispielsatz: この犬はこの物語の中で極めて重要な役割を果たしている。
-Beispielsatz-Lesung: この 犬[いぬ]はこの 物語[ものがたり]の 中[なか]で 極[きわ]めて 重要[じゅうよう]な 役割[やくわり]を 果[は]たしている。
-Beispielsatz-Übersetzung: Dieser Hund spielt eine äußerst wichtige Rolle in der Geschichte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この犬はこの物語の中で極めて重要な役割を果たしている。
+  この 犬[いぬ]はこの 物語[ものがたり]の 中[なか]で 極[きわ]めて 重要[じゅうよう]な 役割[やくわり]を 果[は]たしている。
+  Dieser Hund spielt eine äußerst wichtige Rolle in der Geschichte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

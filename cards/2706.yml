@@ -1,13 +1,24 @@
 Rang: 2706
 Lemma: 自慢
 Lesung: じまん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Stolz, prahlen; prahlen, angeben
 Extra: （する）
 Wortart: n. v.
-Definition: Stolz, prahlen; prahlen, angeben
-Beispielsatz: これは彼の自慢の車です。
-Beispielsatz-Lesung: これは 彼[かれ]の 自慢[じまん]の 車[くるま]です。
-Beispielsatz-Übersetzung: Das ist ein Auto, auf das er stolz ist.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは彼の自慢の車です。
+  これは 彼[かれ]の 自慢[じまん]の 車[くるま]です。
+  Das ist ein Auto, auf das er stolz ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

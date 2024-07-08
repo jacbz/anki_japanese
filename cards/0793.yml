@@ -1,13 +1,24 @@
 Rang: 793
 Lemma: 発生
 Lesung: はっせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Auftreten
 Extra: （する）
 Wortart: n. v.
-Definition: Auftreten
-Beispielsatz: 交通事故が発生した。
-Beispielsatz-Lesung: 交通事故[こうつうじこ]が 発生[はっせい]した。
-Beispielsatz-Übersetzung: Es ist ein Verkehrsunfall aufgetreten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  交通事故が発生した。
+  交通事故[こうつうじこ]が 発生[はっせい]した。
+  Es ist ein Verkehrsunfall aufgetreten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

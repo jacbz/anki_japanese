@@ -1,13 +1,24 @@
 Rang: 3431
 Lemma: 滅多
 Lesung: めった
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: rücksichtslos, unüberlegt; selten
-Beispielsatz: こんなチャンスは滅多にない。
-Beispielsatz-Lesung: こんなチャンスは 滅多[めった]にない。
-Beispielsatz-Übersetzung: Eine solche Chance kommt selten vor.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こんなチャンスは滅多にない。
+  こんなチャンスは 滅多[めった]にない。
+  Eine solche Chance kommt selten vor.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

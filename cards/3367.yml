@@ -1,13 +1,24 @@
 Rang: 3367
 Lemma: 告白
 Lesung: こくはく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Geständnis machen; gestehen
 Extra: （する）
 Wortart: n. v.
-Definition: Geständnis machen; gestehen
-Beispielsatz: ずっと好きだった人に告白した。
-Beispielsatz-Lesung: ずっと 好[す]きだった人に 告白[こくはく]した。
-Beispielsatz-Übersetzung: Ich habe meinem langjährigen Schwarm meine Liebe gestanden.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ずっと好きだった人に告白した。
+  ずっと 好[す]きだった人に 告白[こくはく]した。
+  Ich habe meinem langjährigen Schwarm meine Liebe gestanden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

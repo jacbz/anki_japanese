@@ -1,14 +1,29 @@
 Rang: 3750
 Lemma: 美術館
 Lesung: びじゅつかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kunstgalerie, Kunstmuseum
-Beispielsatz: 先週末、上野の美術館に行った。
-Beispielsatz-Lesung: 先週[せんしゅう] 末[まつ]、 上野[うえの]の 美術館[びじゅつかん]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin am letzten Wochenende zu einer Kunstgalerie in Ueno
-  gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">び</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_top
+  mola_-3"><span class="inner"><span class="char">つ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  先週末、上野の美術館に行った。
+  先週[せんしゅう] 末[まつ]、 上野[うえの]の 美術館[びじゅつかん]に 行[い]った。
+  Ich bin am letzten Wochenende zu einer Kunstgalerie in Ueno gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

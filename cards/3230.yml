@@ -1,13 +1,24 @@
 Rang: 3230
 Lemma: こしょう
-Lesung: こしょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Pfeffer
-Beispielsatz: 塩とこしょうを振ってから焼いてください。
-Beispielsatz-Lesung: 塩[しお]とこしょうを 振[ふ]ってから 焼[や]いてください。
-Beispielsatz-Übersetzung: Grillen Sie, nachdem Sie mit Salz und Pfeffer bestreut haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  塩とこしょうを振ってから焼いてください。
+  塩[しお]とこしょうを 振[ふ]ってから 焼[や]いてください。
+  Grillen Sie, nachdem Sie mit Salz und Pfeffer bestreut haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

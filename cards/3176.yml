@@ -1,13 +1,27 @@
 Rang: 3176
 Lemma: 破る
 Lesung: やぶる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zerreißen; brechen; schlagen
-Beispielsatz: 不要な書類を破って捨てた。
-Beispielsatz-Lesung: 不要[ふよう]な 書類[しょるい]を 破[やぶ]って 捨[す]てた。
-Beispielsatz-Übersetzung: Ich habe die unnötigen Dokumente zerrissen und weggeworfen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  不要な書類を破って捨てた。
+  不要[ふよう]な 書類[しょるい]を 破[やぶ]って 捨[す]てた。
+  Ich habe die unnötigen Dokumente zerrissen und weggeworfen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

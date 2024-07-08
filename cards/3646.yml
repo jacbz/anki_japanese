@@ -1,14 +1,24 @@
 Rang: 3646
 Lemma: たいして
-Lesung: たいして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nicht besonders viel
-Beispielsatz: あのレストランは有名だが、料理はたいしておいしくない。
-Beispielsatz-Lesung: あのレストランは 有名[ゆうめい]だが、 料理[りょうり]はたいしておいしくない。
-Beispielsatz-Übersetzung: Das Restaurant ist berühmt, aber das Essen ist nicht besonders
-  gut.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あのレストランは有名だが、料理はたいしておいしくない。
+  あのレストランは 有名[ゆうめい]だが、 料理[りょうり]はたいしておいしくない。
+  Das Restaurant ist berühmt, aber das Essen ist nicht besonders gut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

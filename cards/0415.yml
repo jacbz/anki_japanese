@@ -1,14 +1,24 @@
 Rang: 415
 Lemma: 一応
 Lesung: いちおう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: auf den ersten Blick; im Allgemeinen; für alle Fälle
-Beispielsatz: 必要かどうか分かりませんが、一応、その書類を持ってきてください。
-Beispielsatz-Lesung: 必要[ひつよう]かどうか 分[わ]かりませんが、 一応[いちおう]、その 書類[しょるい]を 持[も]ってきてください。
-Beispielsatz-Übersetzung: Ich bin mir nicht sicher, ob die Papiere benötigt werden,
-  aber bitte nehmen Sie sie mit, nur für den Fall.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  必要かどうか分かりませんが、一応、その書類を持ってきてください。
+  必要[ひつよう]かどうか 分[わ]かりませんが、 一応[いちおう]、その 書類[しょるい]を 持[も]ってきてください。
+  Ich bin mir nicht sicher, ob die Papiere benötigt werden, aber bitte nehmen Sie sie mit, nur für den Fall.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

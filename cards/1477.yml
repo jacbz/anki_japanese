@@ -1,14 +1,24 @@
 Rang: 1477
 Lemma: でもって
-Lesung: でもって
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mit, durch, mittels
-Beispielsatz: 彼らは残り物を新聞紙でもって包んで家に持って帰った。
-Beispielsatz-Lesung: 彼[かれ]らは 残[のこ]り 物[もの]を 新聞紙[しんぶんし]でもって 包[つつ]んで 家[いえ]に 持[も]って 帰[かえ]った。
-Beispielsatz-Übersetzung: Sie wickelten die Reste in Zeitungspapier ein und nahmen
-  sie mit nach Hause.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは残り物を新聞紙でもって包んで家に持って帰った。
+  彼[かれ]らは 残[のこ]り 物[もの]を 新聞紙[しんぶんし]でもって 包[つつ]んで 家[いえ]に 持[も]って 帰[かえ]った。
+  Sie wickelten die Reste in Zeitungspapier ein und nahmen sie mit nach Hause.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

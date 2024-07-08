@@ -1,13 +1,27 @@
 Rang: 3039
 Lemma: 磨く
 Lesung: みがく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: polieren, bürsten; verbessern
-Beispielsatz: 寝る前に歯を磨く。
-Beispielsatz-Lesung: 寝[ね]る 前[まえ]に 歯[は]を 磨[みが]く。
-Beispielsatz-Übersetzung: Ich putze meine Zähne, bevor ich ins Bett gehe.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  寝る前に歯を磨く。
+  寝[ね]る 前[まえ]に 歯[は]を 磨[みが]く。
+  Ich putze meine Zähne, bevor ich ins Bett gehe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

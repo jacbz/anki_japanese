@@ -1,13 +1,27 @@
 Rang: 2759
 Lemma: 不便
 Lesung: ふべん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: unbequem
-Beispielsatz: 家が不便なところにある。
-Beispielsatz-Lesung: 家[いえ]が 不便[ふべん]なところにある。
-Beispielsatz-Übersetzung: Das Haus ist unpraktisch gelegen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ふ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">べ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家が不便なところにある。
+  家[いえ]が 不便[ふべん]なところにある。
+  Das Haus ist unpraktisch gelegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

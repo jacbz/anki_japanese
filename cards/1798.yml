@@ -1,13 +1,24 @@
 Rang: 1798
 Lemma: 終了
 Lesung: しゅうりょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ende, Schluss
 Extra: （する）
 Wortart: n. v.
-Definition: Ende, Schluss
-Beispielsatz: 会議はもう終了いたしました。
-Beispielsatz-Lesung: 会議[かいぎ]はもう 終了[しゅうりょう]いたしました。
-Beispielsatz-Übersetzung: Die Sitzung ist bereits vorbei.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  会議はもう終了いたしました。
+  会議[かいぎ]はもう 終了[しゅうりょう]いたしました。
+  Die Sitzung ist bereits vorbei.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2241
 Lemma: パターン
-Lesung: パターン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Muster
-Beispielsatz: 彼の小説のストーリーはいつも同じパターンの繰り返しだ。
-Beispielsatz-Lesung: 彼[かれ]の 小説[しょうせつ]のストーリーはいつも 同[おな]じパターンの 繰[く]り 返[かえ]しだ。
-Beispielsatz-Übersetzung: Die Geschichten seiner Romane folgen alle dem gleichen Muster.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の小説のストーリーはいつも同じパターンの繰り返しだ。
+  彼[かれ]の 小説[しょうせつ]のストーリーはいつも 同[おな]じパターンの 繰[く]り 返[かえ]しだ。
+  Die Geschichten seiner Romane folgen alle dem gleichen Muster.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

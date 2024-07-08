@@ -1,13 +1,24 @@
 Rang: 1106
 Lemma: マンション
-Lesung: マンション
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Wohnung, Eigentumswohnung, Apartment
-Beispielsatz: 彼は高層マンションに住んでいる。
-Beispielsatz-Lesung: 彼[かれ]は 高層[こうそう]マンションに 住[す]んでいる。
-Beispielsatz-Übersetzung: Er lebt in einer Hochhauswohnung.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は高層マンションに住んでいる。
+  彼[かれ]は 高層[こうそう]マンションに 住[す]んでいる。
+  Er lebt in einer Hochhauswohnung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

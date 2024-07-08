@@ -1,13 +1,24 @@
 Rang: 3462
 Lemma: 男達
 Lesung: おとこたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Männer
-Beispielsatz: 男達は楽しそうに酒を飲んでいた。
-Beispielsatz-Lesung: 男達[おとこだて]は 楽[たの]しそうに 酒[さけ]を 飲[の]んでいた。
-Beispielsatz-Übersetzung: Die Männer tranken fröhlich Alkohol.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  男達は楽しそうに酒を飲んでいた。
+  男達[おとこだて]は 楽[たの]しそうに 酒[さけ]を 飲[の]んでいた。
+  Die Männer tranken fröhlich Alkohol.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,27 @@
 Rang: 4881
 Lemma: 回避
 Lesung: かいひ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: vermeiden; vermeiden
 Extra: （する）
 Wortart: n. v.
-Definition: vermeiden; vermeiden
-Beispielsatz: パイロットたちは事故を回避するためにあらゆる手段をとった。
-Beispielsatz-Lesung: パイロットたちは 事故[じこ]を 回避[かいひ]するためにあらゆる 手段[しゅだん]をとった。
-Beispielsatz-Übersetzung: Die Piloten haben alle Mittel genutzt, um einen Unfall zu
-  vermeiden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ひ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パイロットたちは事故を回避するためにあらゆる手段をとった。
+  パイロットたちは 事故[じこ]を 回避[かいひ]するためにあらゆる 手段[しゅだん]をとった。
+  Die Piloten haben alle Mittel genutzt, um einen Unfall zu vermeiden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

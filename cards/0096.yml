@@ -1,13 +1,24 @@
 Rang: 96
 Lemma: し
-Lesung: し
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: und, außerdem (Gründe auflisten)
-Beispielsatz: 彼はハンサムだし背が高い。
-Beispielsatz-Lesung: 彼[かれ]はハンサムだし 背[せ]が 高[たか]い。
-Beispielsatz-Übersetzung: Er ist gutaussehend und groß.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はハンサムだし背が高い。
+  彼[かれ]はハンサムだし 背[せ]が 高[たか]い。
+  Er ist gutaussehend und groß.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

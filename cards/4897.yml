@@ -1,13 +1,24 @@
 Rang: 4897
 Lemma: 極力
 Lesung: きょくりょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: so viel wie möglich
-Beispielsatz: そのレストランでは極力地元の食材を使用している。
-Beispielsatz-Lesung: そのレストランでは 極力[きょくりょく] 地元[じもと]の 食材[しょくざい]を 使用[しよう]している。
-Beispielsatz-Übersetzung: Das Restaurant verwendet so viel wie möglich lokale Produkte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのレストランでは極力地元の食材を使用している。
+  そのレストランでは 極力[きょくりょく] 地元[じもと]の 食材[しょくざい]を 使用[しよう]している。
+  Das Restaurant verwendet so viel wie möglich lokale Produkte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

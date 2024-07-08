@@ -1,13 +1,28 @@
 Rang: 4275
 Lemma: 原爆
 Lesung: げんばく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Atombombe
-Beispielsatz: 原爆が広島に落とされた。
-Beispielsatz-Lesung: 原爆[げんばく]が 広島[ひろしま]に 落[お]とされた。
-Beispielsatz-Übersetzung: Die Atombombe wurde auf Hiroshima abgeworfen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ば</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  原爆が広島に落とされた。
+  原爆[げんばく]が 広島[ひろしま]に 落[お]とされた。
+  Die Atombombe wurde auf Hiroshima abgeworfen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

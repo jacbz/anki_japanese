@@ -1,13 +1,24 @@
 Rang: 2683
 Lemma: にすぎない
-Lesung: にすぎない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nur, bloß
-Beispielsatz: ほんの憶測にすぎない。
-Beispielsatz-Lesung: ほんの 憶測[おくそく]にすぎない。
-Beispielsatz-Übersetzung: Es ist nur eine Vermutung.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ほんの憶測にすぎない。
+  ほんの 憶測[おくそく]にすぎない。
+  Es ist nur eine Vermutung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

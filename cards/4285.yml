@@ -1,14 +1,24 @@
 Rang: 4285
 Lemma: 五千円
 Lesung: ごせんえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: fünftausend Yen
-Beispielsatz: 友達の誕生日に五千円のプレゼントを買った。
-Beispielsatz-Lesung: 友達[ともだち]の 誕生日[たんじょうび]に五 千[せん] 円[えん]のプレゼントを 買[か]った。
-Beispielsatz-Übersetzung: Ich habe für den Geburtstag meines Freundes ein Geschenk
-  für fünftausend Yen gekauft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達の誕生日に五千円のプレゼントを買った。
+  友達[ともだち]の 誕生日[たんじょうび]に五 千[せん] 円[えん]のプレゼントを 買[か]った。
+  Ich habe für den Geburtstag meines Freundes ein Geschenk für fünftausend Yen gekauft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

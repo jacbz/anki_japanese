@@ -1,13 +1,24 @@
 Rang: 3219
 Lemma: 施策
 Lesung: しさく<br>せさく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Maßnahme, Politik
-Beispielsatz: 新たな施策を講じる必要がある。
-Beispielsatz-Lesung: 新[あら]たな 施策[しさく]を 講[こう]じる 必要[ひつよう]がある。
-Beispielsatz-Übersetzung: Es ist notwendig, neue Maßnahmen zu ergreifen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '38'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新たな施策を講じる必要がある。
+  新[あら]たな 施策[しさく]を 講[こう]じる 必要[ひつよう]がある。
+  Es ist notwendig, neue Maßnahmen zu ergreifen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2750
 Lemma: 連携
 Lesung: れんけい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zusammenarbeit; zusammenarbeiten mit
 Extra: （する）
 Wortart: n. v.
-Definition: Zusammenarbeit; zusammenarbeiten mit
-Beispielsatz: 周囲との連携が不可欠だ。
-Beispielsatz-Lesung: 周囲[しゅうい]との 連携[れんけい]が 不可欠[ふかけつ]だ。
-Beispielsatz-Übersetzung: Es ist wichtig, mit den Menschen um Sie herum zusammenzuarbeiten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  周囲との連携が不可欠だ。
+  周囲[しゅうい]との 連携[れんけい]が 不可欠[ふかけつ]だ。
+  Es ist wichtig, mit den Menschen um Sie herum zusammenzuarbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

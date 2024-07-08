@@ -1,13 +1,24 @@
 Rang: 62
 Lemma: ば
-Lesung: ば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wenn
-Beispielsatz: 雨がふれば、試合は中止だ。
-Beispielsatz-Lesung: 雨[あめ]がふれば、 試合[しあい]は 中止[ちゅうし]だ。
-Beispielsatz-Übersetzung: Wenn es regnet, wird das Spiel abgesagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雨がふれば、試合は中止だ。
+  雨[あめ]がふれば、 試合[しあい]は 中止[ちゅうし]だ。
+  Wenn es regnet, wird das Spiel abgesagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3585
 Lemma: ブランド
-Lesung: ブランド
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Marke
-Beispielsatz: あれは有名なブランドのバッグらしい。
-Beispielsatz-Lesung: あれは 有名[ゆうめい]なブランドのバッグらしい。
-Beispielsatz-Übersetzung: Das sieht aus wie eine berühmte Markentasche.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あれは有名なブランドのバッグらしい。
+  あれは 有名[ゆうめい]なブランドのバッグらしい。
+  Das sieht aus wie eine berühmte Markentasche.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 2851
 Lemma: 伸び
 Lesung: のび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wachstum
-Beispielsatz: この木は驚くほど伸びが速い。
-Beispielsatz-Lesung: この 木[き]は 驚[おどろ]くほど 伸[の]びが 速[はや]い。
-Beispielsatz-Übersetzung: Dieser Baum wächst erstaunlich schnell.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">び</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '35'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この木は驚くほど伸びが速い。
+  この 木[き]は 驚[おどろ]くほど 伸[の]びが 速[はや]い。
+  Dieser Baum wächst erstaunlich schnell.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

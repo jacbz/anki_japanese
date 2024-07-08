@@ -1,13 +1,28 @@
 Rang: 3011
 Lemma: 売り上げ
 Lesung: うりあげ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Umsatz
-Beispielsatz: 売り上げが20パーセント伸びた。
-Beispielsatz-Lesung: 売[う]り 上[あ]げが20パーセント 伸[の]びた。
-Beispielsatz-Übersetzung: Der Umsatz stieg um 20 Prozent.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">げ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  売り上げが20パーセント伸びた。
+  売[う]り 上[あ]げが20パーセント 伸[の]びた。
+  Der Umsatz stieg um 20 Prozent.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

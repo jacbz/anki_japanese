@@ -1,13 +1,24 @@
 Rang: 73
 Lemma: ん
-Lesung: ん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: äh, mm, nun
-Beispielsatz: ん、何かがおかしいな。
-Beispielsatz-Lesung: ん、 何[なに]かがおかしいな。
-Beispielsatz-Übersetzung: Äh, etwas stimmt nicht …
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '16'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ん、何かがおかしいな。
+  ん、 何[なに]かがおかしいな。
+  Äh, etwas stimmt nicht …
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

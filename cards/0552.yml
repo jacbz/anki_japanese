@@ -1,13 +1,24 @@
 Rang: 552
 Lemma: ところが
-Lesung: ところが
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedoch
-Beispielsatz: ところが計画はうまくいかなかった。
-Beispielsatz-Lesung: ところが 計画[けいかく]はうまくいかなかった。
-Beispielsatz-Übersetzung: Der Plan war jedoch nicht von Erfolg gekrönt.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ところが計画はうまくいかなかった。
+  ところが 計画[けいかく]はうまくいかなかった。
+  Der Plan war jedoch nicht von Erfolg gekrönt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

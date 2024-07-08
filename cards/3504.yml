@@ -1,13 +1,24 @@
 Rang: 3504
 Lemma: 頬
 Lesung: ほお
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wange
-Beispielsatz: 涙が彼女の頬を伝った。
-Beispielsatz-Lesung: 涙[なみだ]が 彼女[かのじょ]の 頬[ほお]を 伝[つた]った。
-Beispielsatz-Übersetzung: Tränen liefen über ihre Wangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  涙が彼女の頬を伝った。
+  涙[なみだ]が 彼女[かのじょ]の 頬[ほお]を 伝[つた]った。
+  Tränen liefen über ihre Wangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

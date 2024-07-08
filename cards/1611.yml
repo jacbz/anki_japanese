@@ -1,13 +1,24 @@
 Rang: 1611
 Lemma: ドラマ
-Lesung: ドラマ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Fernsehdrama, Drama
-Beispielsatz: 日本のドラマを見た。
-Beispielsatz-Lesung: 日本[にっぽん]のドラマを 見[み]た。
-Beispielsatz-Übersetzung: Ich habe ein japanisches Fernsehdrama gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本のドラマを見た。
+  日本[にっぽん]のドラマを 見[み]た。
+  Ich habe ein japanisches Fernsehdrama gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

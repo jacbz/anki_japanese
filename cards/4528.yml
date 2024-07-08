@@ -1,13 +1,24 @@
 Rang: 4528
 Lemma: 調達
 Lesung: ちょうたつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Beschaffung; beschaffen
 Extra: （する）
 Wortart: n. v.
-Definition: Beschaffung; beschaffen
-Beispielsatz: 当時は食料の調達が難しかった。
-Beispielsatz-Lesung: 当時[とうじ]は 食料[しょくりょう]の 調達[ちょうたつ]が 難[むずか]しかった。
-Beispielsatz-Übersetzung: Es war damals schwierig, Nahrungsmittel zu beschaffen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  当時は食料の調達が難しかった。
+  当時[とうじ]は 食料[しょくりょう]の 調達[ちょうたつ]が 難[むずか]しかった。
+  Es war damals schwierig, Nahrungsmittel zu beschaffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

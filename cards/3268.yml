@@ -1,13 +1,28 @@
 Rang: 3268
 Lemma: あちこち
-Lesung: あちこち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: hier und da, überall
-Beispielsatz: 最近、あちこちでこの店を見かける。
-Beispielsatz-Lesung: 最近[さいきん]、あちこちでこの 店[みせ]を 見[み]かける。
-Beispielsatz-Übersetzung: In letzter Zeit sehe ich diesen Laden hier und da.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近、あちこちでこの店を見かける。
+  最近[さいきん]、あちこちでこの 店[みせ]を 見[み]かける。
+  In letzter Zeit sehe ich diesen Laden hier und da.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 1539
 Lemma: 完成
 Lesung: かんせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Fertigstellung
 Extra: （する）
 Wortart: n. v.
-Definition: Fertigstellung
-Beispielsatz: その橋は完成までに約三年かかるだろう。
-Beispielsatz-Lesung: その 橋[はし]は 完成[かんせい]までに 約[やく]三 年[ねん]かかるだろう。
-Beispielsatz-Übersetzung: Es wird etwa drei Jahre dauern, um die Brücke fertigzustellen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その橋は完成までに約三年かかるだろう。
+  その 橋[はし]は 完成[かんせい]までに 約[やく]三 年[ねん]かかるだろう。
+  Es wird etwa drei Jahre dauern, um die Brücke fertigzustellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

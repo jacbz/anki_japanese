@@ -1,13 +1,24 @@
 Rang: 4755
 Lemma: 覗き込む
 Lesung: のぞきこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hineinschauen
-Beispielsatz: 歯医者は患者の口の中を覗き込んだ。
-Beispielsatz-Lesung: 歯医者[はいしゃ]は 患者[かんじゃ]の 口[くち]の 中[なか]を 覗[のぞ]き 込[こ]んだ。
-Beispielsatz-Übersetzung: Der Zahnarzt schaute in den Mund des Patienten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  歯医者は患者の口の中を覗き込んだ。
+  歯医者[はいしゃ]は 患者[かんじゃ]の 口[くち]の 中[なか]を 覗[のぞ]き 込[こ]んだ。
+  Der Zahnarzt schaute in den Mund des Patienten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

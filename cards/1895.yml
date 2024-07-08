@@ -1,13 +1,27 @@
 Rang: 1895
 Lemma: 当初
 Lesung: とうしょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. adv.
+Alternativschreibweisen: ''
 Definition: Anfang, ursprünglich; zuerst
-Beispielsatz: 留学の当初の目的は法律を勉強することだった。
-Beispielsatz-Lesung: 留学[りゅうがく]の 当初[とうしょ]の 目的[もくてき]は 法律[ほうりつ]を 勉強[べんきょう]することだった。
-Beispielsatz-Übersetzung: Mein ursprüngliches Ziel war es, im Ausland Jura zu studieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">と</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  留学の当初の目的は法律を勉強することだった。
+  留学[りゅうがく]の 当初[とうしょ]の 目的[もくてき]は 法律[ほうりつ]を 勉強[べんきょう]することだった。
+  Mein ursprüngliches Ziel war es, im Ausland Jura zu studieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

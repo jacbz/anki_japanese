@@ -1,14 +1,28 @@
 Rang: 3589
 Lemma: 不可欠
 Lesung: ふかけつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: unverzichtbar
-Beispielsatz: この活動の成功には、地域住民の協力が不可欠だ。
-Beispielsatz-Lesung: この 活動[かつどう]の 成功[せいこう]には、 地域[ちいき] 住民[じゅうみん]の 協力[きょうりょく]が 不可欠[ふかけつ]だ。
-Beispielsatz-Übersetzung: Um die Aktivität erfolgreich zu gestalten, ist die Unterstützung
-  der örtlichen Bewohner unverzichtbar.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この活動の成功には、地域住民の協力が不可欠だ。
+  この 活動[かつどう]の 成功[せいこう]には、 地域[ちいき] 住民[じゅうみん]の 協力[きょうりょく]が 不可欠[ふかけつ]だ。
+  Um die Aktivität erfolgreich zu gestalten, ist die Unterstützung der örtlichen Bewohner unverzichtbar.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2539
 Lemma: 前年
 Lesung: ぜんねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorjahr
-Beispielsatz: 今年の売り上げは前年を上回った。
-Beispielsatz-Lesung: 今年[ことし]の 売[う]り 上[あ]げは 前年[ぜんねん]を 上回[うわまわ]った。
-Beispielsatz-Übersetzung: Der Umsatz dieses Jahres hat das Vorjahr übertroffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Verwaltungssprache
+Dispersion: '35'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今年の売り上げは前年を上回った。
+  今年[ことし]の 売[う]り 上[あ]げは 前年[ぜんねん]を 上回[うわまわ]った。
+  Der Umsatz dieses Jahres hat das Vorjahr übertroffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

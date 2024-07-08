@@ -1,14 +1,24 @@
 Rang: 3365
 Lemma: こととなる
-Lesung: こととなる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: es wurde beschlossen, dass
-Beispielsatz: 来週出張に行くこととなった。
-Beispielsatz-Lesung: 来週[らいしゅう] 出張[しゅっちょう]に 行[い]くこととなった。
-Beispielsatz-Übersetzung: Es wurde beschlossen, dass ich nächste Woche auf eine Geschäftsreise
-  gehen werde.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '48'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  来週出張に行くこととなった。
+  来週[らいしゅう] 出張[しゅっちょう]に 行[い]くこととなった。
+  Es wurde beschlossen, dass ich nächste Woche auf eine Geschäftsreise gehen werde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

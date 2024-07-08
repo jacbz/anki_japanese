@@ -1,13 +1,24 @@
 Rang: 655
 Lemma: 基本的
 Lesung: きほんてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: grundlegend, elementar
-Beispielsatz: 基本的な問題だ。
-Beispielsatz-Lesung: 基本的[きほんてき]な 問題[もんだい]だ。
-Beispielsatz-Übersetzung: Das ist ein grundlegendes Problem.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  基本的な問題だ。
+  基本的[きほんてき]な 問題[もんだい]だ。
+  Das ist ein grundlegendes Problem.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

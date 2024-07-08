@@ -1,13 +1,24 @@
 Rang: 3281
 Lemma: キリスト教
 Lesung: キリストキョウ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Christentum
-Beispielsatz: 彼はキリスト教の教えを忠実に守っている。
-Beispielsatz-Lesung: 彼[かれ]はキリスト 教[きょう]の 教[おし]えを 忠実[ちゅうじつ]に 守[まも]っている。
-Beispielsatz-Übersetzung: Er folgt treu den Lehren des Christentums.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はキリスト教の教えを忠実に守っている。
+  彼[かれ]はキリスト 教[きょう]の 教[おし]えを 忠実[ちゅうじつ]に 守[まも]っている。
+  Er folgt treu den Lehren des Christentums.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 565
 Lemma: 後
 Lesung: ご
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: nach&nbsp;…;&nbsp;später als&nbsp;…;&nbsp;seit&nbsp;….
-Beispielsatz: その後、彼女には会っていない。
-Beispielsatz-Lesung: その 後[ご]、 彼女[かのじょ]には 会[あ]っていない。
-Beispielsatz-Übersetzung: Seitdem habe ich sie nicht mehr gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その後、彼女には会っていない。
+  その 後[ご]、 彼女[かのじょ]には 会[あ]っていない。
+  Seitdem habe ich sie nicht mehr gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

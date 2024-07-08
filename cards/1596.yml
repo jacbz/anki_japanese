@@ -1,13 +1,24 @@
 Rang: 1596
 Lemma: ファン
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fan
-Beispielsatz: 昔から彼のファンです。
-Beispielsatz-Lesung: 昔[むかし]から 彼[かれ]のファンです。
-Beispielsatz-Übersetzung: Ich bin schon seit langem ein Fan von ihm.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昔から彼のファンです。
+  昔[むかし]から 彼[かれ]のファンです。
+  Ich bin schon seit langem ein Fan von ihm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

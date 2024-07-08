@@ -1,13 +1,27 @@
 Rang: 2481
 Lemma: 行事
 Lesung: ぎょうじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Veranstaltung
-Beispielsatz: お正月は日本で一番大きな行事だ。
-Beispielsatz-Lesung: お 正月[しょうがつ]は 日本[にっぽん]で 一番[いちばん] 大[おお]きな 行事[ぎょうじ]だ。
-Beispielsatz-Übersetzung: Das Neujahrsfest ist das größte Ereignis in Japan.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ぎ</span><span class="char">ょ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お正月は日本で一番大きな行事だ。
+  お 正月[しょうがつ]は 日本[にっぽん]で 一番[いちばん] 大[おお]きな 行事[ぎょうじ]だ。
+  Das Neujahrsfest ist das größte Ereignis in Japan.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

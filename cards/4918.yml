@@ -1,13 +1,24 @@
 Rang: 4918
 Lemma: 六十年
 Lesung: ろくじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sechzig Jahre
-Beispielsatz: この町に住んで六十年だ。
-Beispielsatz-Lesung: この 町[まち]に 住[す]んで六十 年[ねん]だ。
-Beispielsatz-Übersetzung: Ich lebe seit sechzig Jahren in dieser Stadt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この町に住んで六十年だ。
+  この 町[まち]に 住[す]んで六十 年[ねん]だ。
+  Ich lebe seit sechzig Jahren in dieser Stadt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

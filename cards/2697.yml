@@ -1,13 +1,24 @@
 Rang: 2697
 Lemma: にもかかわらず
-Lesung: にもかかわらず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: trotz, obwohl, trotzdem
-Beispielsatz: 病気にもかかわらず、会議に出席した。
-Beispielsatz-Lesung: 病気[びょうき]にもかかわらず、 会議[かいぎ]に 出席[しゅっせき]した。
-Beispielsatz-Übersetzung: Er nahm trotz seiner Krankheit an der Sitzung teil.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  病気にもかかわらず、会議に出席した。
+  病気[びょうき]にもかかわらず、 会議[かいぎ]に 出席[しゅっせき]した。
+  Er nahm trotz seiner Krankheit an der Sitzung teil.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

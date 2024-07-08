@@ -1,13 +1,24 @@
 Rang: 4021
 Lemma: 仮定
 Lesung: かてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Annahme, Vermutung; annehmen, vermuten
 Extra: （する）
 Wortart: n. v.
-Definition: Annahme, Vermutung; annehmen, vermuten
-Beispielsatz: その話が本当だと仮定しよう。
-Beispielsatz-Lesung: その 話[はなし]が 本当[ほんとう]だと 仮定[かてい]しよう。
-Beispielsatz-Übersetzung: Lass uns annehmen, dass die Geschichte wahr ist.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その話が本当だと仮定しよう。
+  その 話[はなし]が 本当[ほんとう]だと 仮定[かてい]しよう。
+  Lass uns annehmen, dass die Geschichte wahr ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

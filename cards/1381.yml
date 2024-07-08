@@ -1,14 +1,29 @@
 Rang: 1381
 Lemma: 訪れる
 Lesung: おとずれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: besuchen, aufsuchen, ankommen
-Beispielsatz: この国を訪れるのに一番いい季節は春だと思う。
-Beispielsatz-Lesung: この 国[くに]を 訪[おとず]れるのに 一番[いちばん]いい 季節[きせつ]は 春[はる]だと 思[おも]う。
-Beispielsatz-Übersetzung: Ich denke, dass der Frühling die beste Jahreszeit ist, um
-  das Land zu besuchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この国を訪れるのに一番いい季節は春だと思う。
+  この 国[くに]を 訪[おとず]れるのに 一番[いちばん]いい 季節[きせつ]は 春[はる]だと 思[おも]う。
+  Ich denke, dass der Frühling die beste Jahreszeit ist, um das Land zu besuchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

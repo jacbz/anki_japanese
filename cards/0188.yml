@@ -1,14 +1,27 @@
 Rang: 188
 Lemma: 言葉
 Lesung: ことば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wort; Sprache
-Beispielsatz: 外国での生活は言葉や習慣が違うので大変だ。
-Beispielsatz-Lesung: 外国[がいこく]での 生活[せいかつ]は 言葉[ことば]や 習慣[しゅうかん]が 違[ちが]うので 大変[たいへん]だ。
-Beispielsatz-Übersetzung: Das Leben in einem fremden Land ist wegen der unterschiedlichen
-  Sitten und der Sprache schwierig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ば</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  外国での生活は言葉や習慣が違うので大変だ。
+  外国[がいこく]での 生活[せいかつ]は 言葉[ことば]や 習慣[しゅうかん]が 違[ちが]うので 大変[たいへん]だ。
+  Das Leben in einem fremden Land ist wegen der unterschiedlichen Sitten und der Sprache schwierig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

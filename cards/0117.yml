@@ -1,13 +1,24 @@
 Rang: 117
 Lemma: ながら
-Lesung: ながら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: während
-Beispielsatz: コーヒーでも飲みながら話しましょう。
-Beispielsatz-Lesung: コーヒーでも 飲[の]みながら 話[はな]しましょう。
-Beispielsatz-Übersetzung: Lass uns während einer Tasse Kaffee reden.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コーヒーでも飲みながら話しましょう。
+  コーヒーでも 飲[の]みながら 話[はな]しましょう。
+  Lass uns während einer Tasse Kaffee reden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

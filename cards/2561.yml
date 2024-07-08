@@ -1,13 +1,27 @@
 Rang: 2561
 Lemma: 独自
 Lesung: どくじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: eigen, selbstständig
-Beispielsatz: 独自の方法で英語を勉強する。
-Beispielsatz-Lesung: 独自[どくじ]の 方法[ほうほう]で 英語[えいご]を 勉強[べんきょう]する。
-Beispielsatz-Übersetzung: Ich lerne Englisch auf meine eigene Art und Weise.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ど</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  独自の方法で英語を勉強する。
+  独自[どくじ]の 方法[ほうほう]で 英語[えいご]を 勉強[べんきょう]する。
+  Ich lerne Englisch auf meine eigene Art und Weise.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

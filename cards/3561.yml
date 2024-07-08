@@ -1,13 +1,24 @@
 Rang: 3561
 Lemma: かすか
-Lesung: かすか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ein paar, ein bisschen
-Beispielsatz: そのことはかすかに覚えている。
-Beispielsatz-Lesung: そのことはかすかに 覚[おぼ]えている。
-Beispielsatz-Übersetzung: Ich erinnere mich vage daran.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのことはかすかに覚えている。
+  そのことはかすかに 覚[おぼ]えている。
+  Ich erinnere mich vage daran.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

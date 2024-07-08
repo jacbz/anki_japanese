@@ -1,13 +1,24 @@
 Rang: 1319
 Lemma: システム
-Lesung: システム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: System
-Beispielsatz: 多くの会社がその新しいシステムを導入している。
-Beispielsatz-Lesung: 多[おお]くの 会社[かいしゃ]がその 新[あたら]しいシステムを 導入[どうにゅう]している。
-Beispielsatz-Übersetzung: Viele Unternehmen haben das neue System eingeführt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くの会社がその新しいシステムを導入している。
+  多[おお]くの 会社[かいしゃ]がその 新[あたら]しいシステムを 導入[どうにゅう]している。
+  Viele Unternehmen haben das neue System eingeführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

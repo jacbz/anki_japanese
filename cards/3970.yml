@@ -1,13 +1,24 @@
 Rang: 3970
 Lemma: 十二年
 Lesung: じゅうにねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwölf Jahre
-Beispielsatz: 日本の義務教育は十二年だ。
-Beispielsatz-Lesung: 日本[にっぽん]の 義務教育[ぎむきょういく]は十二 年[ねん]だ。
-Beispielsatz-Übersetzung: Die Schulpflicht in Japan dauert zwölf Jahre.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本の義務教育は十二年だ。
+  日本[にっぽん]の 義務教育[ぎむきょういく]は十二 年[ねん]だ。
+  Die Schulpflicht in Japan dauert zwölf Jahre.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

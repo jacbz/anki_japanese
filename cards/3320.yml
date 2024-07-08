@@ -1,13 +1,24 @@
 Rang: 3320
 Lemma: 片付ける
 Lesung: かたずける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ordnen, aufräumen; beseitigen; beenden
-Beispielsatz: 部屋を片付けなさい。
-Beispielsatz-Lesung: 部屋[へや]を 片付[かたづ]けなさい。
-Beispielsatz-Übersetzung: Bitte räumen Sie Ihr Zimmer auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  部屋を片付けなさい。
+  部屋[へや]を 片付[かたづ]けなさい。
+  Bitte räumen Sie Ihr Zimmer auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

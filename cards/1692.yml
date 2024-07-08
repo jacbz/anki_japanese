@@ -1,13 +1,28 @@
 Rang: 1692
 Lemma: 確実
 Lesung: かくじつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: sicher, gewiss
-Beispielsatz: 彼が試験に合格するのは確実だ。
-Beispielsatz-Lesung: 彼[かれ]が 試験[しけん]に 合格[ごうかく]するのは 確実[かくじつ]だ。
-Beispielsatz-Übersetzung: Es ist sicher, dass er die Prüfung bestehen wird.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼が試験に合格するのは確実だ。
+  彼[かれ]が 試験[しけん]に 合格[ごうかく]するのは 確実[かくじつ]だ。
+  Es ist sicher, dass er die Prüfung bestehen wird.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

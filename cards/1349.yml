@@ -1,14 +1,24 @@
 Rang: 1349
 Lemma: コミュニケーション
-Lesung: コミュニケーション
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Kommunikation
 Extra: （する）
 Wortart: n.
-Definition: Kommunikation
-Beispielsatz: 同僚との間にコミュニケーションの問題を感じている。
-Beispielsatz-Lesung: 同僚[どうりょう]との 間[ま]にコミュニケーションの 問題[もんだい]を 感[かん]じている。
-Beispielsatz-Übersetzung: Ich fühle, dass ich ein Kommunikationsproblem mit meinen
-  Kollegen habe.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  同僚との間にコミュニケーションの問題を感じている。
+  同僚[どうりょう]との 間[ま]にコミュニケーションの 問題[もんだい]を 感[かん]じている。
+  Ich fühle, dass ich ein Kommunikationsproblem mit meinen Kollegen habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

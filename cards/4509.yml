@@ -1,14 +1,24 @@
 Rang: 4509
 Lemma: マッチ
-Lesung: マッチ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: übereinstimmen
 Extra: （する）
 Wortart: n., v.
-Definition: übereinstimmen
-Beispielsatz: 客の条件にマッチしたアパートを見つけた。
-Beispielsatz-Lesung: 客[きゃく]の 条件[じょうけん]にマッチしたアパートを 見[み]つけた。
-Beispielsatz-Übersetzung: Ich fand eine Wohnung, die den Anforderungen des Kunden
-  entsprach.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  客の条件にマッチしたアパートを見つけた。
+  客[きゃく]の 条件[じょうけん]にマッチしたアパートを 見[み]つけた。
+  Ich fand eine Wohnung, die den Anforderungen des Kunden entsprach.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

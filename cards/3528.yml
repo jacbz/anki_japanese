@@ -1,13 +1,28 @@
 Rang: 3528
 Lemma: 革命
 Lesung: かくめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Revolution
-Beispielsatz: その国では去年革命が起こった。
-Beispielsatz-Lesung: その 国[くに]では 去年[きょねん] 革命[かくめい]が 起[お]こった。
-Beispielsatz-Übersetzung: Im vergangenen Jahr gab es in dem Land eine Revolution.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その国では去年革命が起こった。
+  その 国[くに]では 去年[きょねん] 革命[かくめい]が 起[お]こった。
+  Im vergangenen Jahr gab es in dem Land eine Revolution.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3444
 Lemma: 五十
 Lesung: ごじゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: fünfzig
-Beispielsatz: 今年、五十になった。
-Beispielsatz-Lesung: 今年[ことし]、五十になった。
-Beispielsatz-Übersetzung: Ich bin dieses Jahr fünfzig geworden.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今年、五十になった。
+  今年[ことし]、五十になった。
+  Ich bin dieses Jahr fünfzig geworden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

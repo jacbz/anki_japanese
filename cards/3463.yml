@@ -1,13 +1,27 @@
 Rang: 3463
 Lemma: 地名
 Lesung: ちめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ortsname
-Beispielsatz: この地名の由来を知っていますか。
-Beispielsatz-Lesung: この 地名[ちめい]の 由来[ゆらい]を 知[し]っていますか。
-Beispielsatz-Übersetzung: Kennen Sie den Ursprung dieses Ortsnamens?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この地名の由来を知っていますか。
+  この 地名[ちめい]の 由来[ゆらい]を 知[し]っていますか。
+  Kennen Sie den Ursprung dieses Ortsnamens?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 1410
 Lemma: 黒
 Lesung: くろ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: schwarz
-Beispielsatz: あの画家は良く黒を使う。
-Beispielsatz-Lesung: あの 画家[がか]は 良[よ]く 黒[くろ]を 使[つか]う。
-Beispielsatz-Übersetzung: Dieser Maler verwendet viel Schwarz.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ろ</span></span></span></span>
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの画家は良く黒を使う。
+  あの 画家[がか]は 良[よ]く 黒[くろ]を 使[つか]う。
+  Dieser Maler verwendet viel Schwarz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

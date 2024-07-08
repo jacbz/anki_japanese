@@ -1,13 +1,27 @@
 Rang: 2284
 Lemma: 企画
 Lesung: きかく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Planung
 Extra: （する）
 Wortart: n. v.
-Definition: Planung
-Beispielsatz: 彼らは、新入社員を歓迎する企画を準備している。
-Beispielsatz-Lesung: 彼[かれ]らは、 新入社員[しんにゅうしゃいん]を 歓迎[かんげい]する 企画[きかく]を 準備[じゅんび]している。
-Beispielsatz-Übersetzung: Sie planen eine Willkommensveranstaltung für neue Mitarbeiter.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは、新入社員を歓迎する企画を準備している。
+  彼[かれ]らは、 新入社員[しんにゅうしゃいん]を 歓迎[かんげい]する 企画[きかく]を 準備[じゅんび]している。
+  Sie planen eine Willkommensveranstaltung für neue Mitarbeiter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

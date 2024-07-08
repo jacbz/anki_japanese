@@ -1,13 +1,24 @@
 Rang: 3019
 Lemma: 五十年
 Lesung: ごじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: fünfzig Jahre
-Beispielsatz: この問題の解決までに五十年かかった。
-Beispielsatz-Lesung: この 問題[もんだい]の 解決[かいけつ]までに五十 年[ねん]かかった。
-Beispielsatz-Übersetzung: Es hat fünfzig Jahre gedauert, um dieses Problem zu lösen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '60'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この問題の解決までに五十年かかった。
+  この 問題[もんだい]の 解決[かいけつ]までに五十 年[ねん]かかった。
+  Es hat fünfzig Jahre gedauert, um dieses Problem zu lösen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

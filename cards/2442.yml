@@ -1,13 +1,27 @@
 Rang: 2442
 Lemma: 思想
 Lesung: しそう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gedanke, Idee
-Beispielsatz: 政治思想について話し合う。
-Beispielsatz-Lesung: 政治思想[せいじしそう]について 話[はな]し 合[あ]う。
-Beispielsatz-Übersetzung: Wir diskutieren hier über politische Ideen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政治思想について話し合う。
+  政治思想[せいじしそう]について 話[はな]し 合[あ]う。
+  Wir diskutieren hier über politische Ideen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

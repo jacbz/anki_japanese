@@ -1,13 +1,27 @@
 Rang: 3786
 Lemma: 照らす
 Lesung: てらす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beleuchten
-Beispielsatz: 海が太陽の光に照らされて輝いている。
-Beispielsatz-Lesung: 海[うみ]が 太陽[たいよう]の 光[ひかり]に 照[て]らされて 輝[かがや]いている。
-Beispielsatz-Übersetzung: Das Meer glitzert, beleuchtet von der Sonne.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  海が太陽の光に照らされて輝いている。
+  海[うみ]が 太陽[たいよう]の 光[ひかり]に 照[て]らされて 輝[かがや]いている。
+  Das Meer glitzert, beleuchtet von der Sonne.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

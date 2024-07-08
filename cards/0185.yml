@@ -1,14 +1,24 @@
 Rang: 185
 Lemma: だから
-Lesung: だから
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: also, deshalb, weil
-Beispielsatz: 彼はハンサムで金持ちだ。だから、女性にもてる。
-Beispielsatz-Lesung: 彼[かれ]はハンサムで 金持[かねも]ちだ。だから、 女性[じょせい]にもてる。
-Beispielsatz-Übersetzung: Er ist bei Frauen beliebt, weil er gutaussehend und reich
-  ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はハンサムで金持ちだ。だから、女性にもてる。
+  彼[かれ]はハンサムで 金持[かねも]ちだ。だから、 女性[じょせい]にもてる。
+  Er ist bei Frauen beliebt, weil er gutaussehend und reich ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

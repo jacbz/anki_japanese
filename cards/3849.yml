@@ -1,13 +1,28 @@
 Rang: 3849
 Lemma: 特色
 Lesung: とくしょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Merkmal, Eigenschaft
-Beispielsatz: この点がこの大学の最大の特色である。
-Beispielsatz-Lesung: この 点[てん]がこの 大学[だいがく]の 最大[さいだい]の 特色[とくしょく]である。
-Beispielsatz-Übersetzung: Dies ist das Hauptmerkmal der Universität.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この点がこの大学の最大の特色である。
+  この 点[てん]がこの 大学[だいがく]の 最大[さいだい]の 特色[とくしょく]である。
+  Dies ist das Hauptmerkmal der Universität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

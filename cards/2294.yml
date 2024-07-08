@@ -1,13 +1,24 @@
 Rang: 2294
 Lemma: てはならない
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: darf nicht, sollte nicht
-Beispielsatz: お酒を飲んだら、車を運転してはならない。
-Beispielsatz-Lesung: お 酒[さけ]を 飲[の]んだら、 車[くるま]を 運転[うんてん]してはならない。
-Beispielsatz-Übersetzung: Man darf nicht Auto fahren, wenn man Alkohol getrunken hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お酒を飲んだら、車を運転してはならない。
+  お 酒[さけ]を 飲[の]んだら、 車[くるま]を 運転[うんてん]してはならない。
+  Man darf nicht Auto fahren, wenn man Alkohol getrunken hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

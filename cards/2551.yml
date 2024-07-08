@@ -1,13 +1,24 @@
 Rang: 2551
 Lemma: なにより
-Lesung: なにより
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: vor allem, hauptsächlich, mehr als alles andere
-Beispielsatz: 彼は何よりもビールが好きだ。
-Beispielsatz-Lesung: 彼[かれ]は 何[なに]よりもビールが 好[す]きだ。
-Beispielsatz-Übersetzung: Er liebt Bier mehr als alles andere.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は何よりもビールが好きだ。
+  彼[かれ]は 何[なに]よりもビールが 好[す]きだ。
+  Er liebt Bier mehr als alles andere.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

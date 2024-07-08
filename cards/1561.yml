@@ -1,13 +1,24 @@
 Rang: 1561
 Lemma: にて
-Lesung: にて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: durch; in; bei
-Beispielsatz: メールにて結果をお知らせください。
-Beispielsatz-Lesung: メールにて 結果[けっか]をお 知[し]らせください。
-Beispielsatz-Übersetzung: Bitte teilen Sie mir die Ergebnisse per E-Mail mit.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  メールにて結果をお知らせください。
+  メールにて 結果[けっか]をお 知[し]らせください。
+  Bitte teilen Sie mir die Ergebnisse per E-Mail mit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

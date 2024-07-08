@@ -1,13 +1,24 @@
 Rang: 4532
 Lemma: パンフレット
-Lesung: パンフレット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Broschüre
-Beispielsatz: 旅行のパンフレットに目を通した。
-Beispielsatz-Lesung: 旅行[りょこう]のパンフレットに 目[め]を 通[とお]した。
-Beispielsatz-Übersetzung: Ich habe die Reisebroschüren durchgesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  旅行のパンフレットに目を通した。
+  旅行[りょこう]のパンフレットに 目[め]を 通[とお]した。
+  Ich habe die Reisebroschüren durchgesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

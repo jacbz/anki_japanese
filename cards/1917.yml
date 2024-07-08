@@ -1,13 +1,24 @@
 Rang: 1917
 Lemma: 何だか
 Lesung: なんだか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: irgendwie; einigermaßen
-Beispielsatz: なんだか今日は気分が悪い。
-Beispielsatz-Lesung: なんだか 今日[きょう]は 気分[きぶん]が 悪[わる]い。
-Beispielsatz-Übersetzung: Aus irgendeinem Grund fühle ich mich heute schlecht.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '60'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  なんだか今日は気分が悪い。
+  なんだか 今日[きょう]は 気分[きぶん]が 悪[わる]い。
+  Aus irgendeinem Grund fühle ich mich heute schlecht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

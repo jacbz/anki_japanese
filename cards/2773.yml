@@ -1,13 +1,30 @@
 Rang: 2773
 Lemma: 大学生
 Lesung: だいがくせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Student(in) an einer Universität
-Beispielsatz: 彼は来年大学生になる。
-Beispielsatz-Lesung: 彼[かれ]は 来年[らいねん] 大学生[だいがくせい]になる。
-Beispielsatz-Übersetzung: Sie werden nächstes Jahr Studenten an einer Universität.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_top mola_-4"><span class="inner"><span
+  class="char">が</span></span></span><span class="mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は来年大学生になる。
+  彼[かれ]は 来年[らいねん] 大学生[だいがくせい]になる。
+  Sie werden nächstes Jahr Studenten an einer Universität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

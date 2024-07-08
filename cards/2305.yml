@@ -1,13 +1,24 @@
 Rang: 2305
 Lemma: 対処
 Lesung: たいしょ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Umgang, Bewältigung
 Extra: （する）
 Wortart: n. v.
-Definition: Umgang, Bewältigung
-Beispielsatz: 緊急時の対処法について学ぶ。
-Beispielsatz-Lesung: 緊急時[きんきゅうじ]の 対処法[たいしょほう]について 学[まな]ぶ。
-Beispielsatz-Übersetzung: Wir lernen, wie man mit Notfällen umgeht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  緊急時の対処法について学ぶ。
+  緊急時[きんきゅうじ]の 対処法[たいしょほう]について 学[まな]ぶ。
+  Wir lernen, wie man mit Notfällen umgeht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 369
 Lemma: はず
-Lesung: はず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sollte
-Beispielsatz: 彼女は今頃そこへ着いているはずだ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 今頃[いまごろ]そこへ 着[つ]いているはずだ。
-Beispielsatz-Übersetzung: Sie sollte dort jetzt angekommen sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ず</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は今頃そこへ着いているはずだ。
+  彼女[かのじょ]は 今頃[いまごろ]そこへ 着[つ]いているはずだ。
+  Sie sollte dort jetzt angekommen sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

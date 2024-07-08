@@ -1,13 +1,24 @@
 Rang: 1864
 Lemma: '0'
 Lesung: れい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 'null'
-Beispielsatz: テストで０点をとった。
-Beispielsatz-Lesung: テストで０ 点[てん]をとった。
-Beispielsatz-Übersetzung: Ich habe in diesem Test eine Null bekommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  テストで０点をとった。
+  テストで０ 点[てん]をとった。
+  Ich habe in diesem Test eine Null bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

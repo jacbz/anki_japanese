@@ -1,13 +1,24 @@
 Rang: 1339
 Lemma: い
-Lesung: い
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. disc.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: FRAGE
-Beispielsatz: 本当に大丈夫かい。
-Beispielsatz-Lesung: 本当[ほんとう]に 大丈夫[だいじょうぶ]かい。
-Beispielsatz-Übersetzung: Bist du wirklich in Ordnung?
+Extra: '' # Nur bei suru-Verben
+Wortart: p. disc.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本当に大丈夫かい。
+  本当[ほんとう]に 大丈夫[だいじょうぶ]かい。
+  Bist du wirklich in Ordnung?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

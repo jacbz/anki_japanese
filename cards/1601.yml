@@ -1,13 +1,28 @@
 Rang: 1601
 Lemma: 植物
 Lesung: しょくぶつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pflanze
-Beispielsatz: 植物は水がなければ枯れてしまう。
-Beispielsatz-Lesung: 植物[しょくぶつ]は 水[みず]がなければ 枯[か]れてしまう。
-Beispielsatz-Übersetzung: Pflanzen sterben ohne Wasser.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_top
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ぶ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  植物は水がなければ枯れてしまう。
+  植物[しょくぶつ]は 水[みず]がなければ 枯[か]れてしまう。
+  Pflanzen sterben ohne Wasser.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

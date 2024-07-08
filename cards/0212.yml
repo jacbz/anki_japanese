@@ -1,13 +1,27 @@
 Rang: 212
 Lemma: かかる
-Lesung: かかる
-Alternative: 掛かる
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: 掛かる
 Definition: es dauert; es kostet
-Beispielsatz: 子どもを育てるのにはお金がかかる。
-Beispielsatz-Lesung: 子[こ]どもを 育[そだ]てるのにはお 金[かね]がかかる。
-Beispielsatz-Übersetzung: Es kostet viel, Kinder aufzuziehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子どもを育てるのにはお金がかかる。
+  子[こ]どもを 育[そだ]てるのにはお 金[かね]がかかる。
+  Es kostet viel, Kinder aufzuziehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: intransitiv

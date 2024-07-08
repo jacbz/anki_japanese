@@ -1,13 +1,28 @@
 Rang: 573
 Lemma: 比べる
 Lesung: くらべる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: vergleichen
-Beispielsatz: いろいろな店で値段を比べた。
-Beispielsatz-Lesung: いろいろな 店[みせ]で 値段[ねだん]を 比[くら]べた。
-Beispielsatz-Übersetzung: Ich habe die Preise in verschiedenen Geschäften verglichen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">べ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いろいろな店で値段を比べた。
+  いろいろな 店[みせ]で 値段[ねだん]を 比[くら]べた。
+  Ich habe die Preise in verschiedenen Geschäften verglichen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

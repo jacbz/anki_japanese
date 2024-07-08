@@ -1,13 +1,24 @@
 Rang: 4750
 Lemma: 四年間
 Lesung: よねんかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vier Jahre
-Beispielsatz: 大学で四年間医学の勉強をした。
-Beispielsatz-Lesung: 大学[だいがく]で四 年間[ねんかん] 医学[いがく]の 勉強[べんきょう]をした。
-Beispielsatz-Übersetzung: Ich habe vier Jahre lang Medizin an der Universität studiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Gesprochen
+Dispersion: '19'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大学で四年間医学の勉強をした。
+  大学[だいがく]で四 年間[ねんかん] 医学[いがく]の 勉強[べんきょう]をした。
+  Ich habe vier Jahre lang Medizin an der Universität studiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

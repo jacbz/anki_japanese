@@ -1,13 +1,24 @@
 Rang: 4073
 Lemma: ジャズ
-Lesung: ジャズ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Jazz
-Beispielsatz: 彼はジャズに夢中だ。
-Beispielsatz-Lesung: 彼[かれ]はジャズに 夢中[むちゅう]だ。
-Beispielsatz-Übersetzung: Er ist begeistert von Jazz.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はジャズに夢中だ。
+  彼[かれ]はジャズに 夢中[むちゅう]だ。
+  Er ist begeistert von Jazz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

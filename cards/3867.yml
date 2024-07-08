@@ -1,14 +1,24 @@
 Rang: 3867
 Lemma: 初日
 Lesung: しょにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: erster Tag
-Beispielsatz: 連休の初日はどこも道が込んでいる。
-Beispielsatz-Lesung: 連休[れんきゅう]の 初日[しょにち]はどこも 道[みち]が 込[こ]んでいる。
-Beispielsatz-Übersetzung: Am ersten Tag eines langen Feiertags herrscht überall reger
-  Verkehr.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  連休の初日はどこも道が込んでいる。
+  連休[れんきゅう]の 初日[しょにち]はどこも 道[みち]が 込[こ]んでいる。
+  Am ersten Tag eines langen Feiertags herrscht überall reger Verkehr.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

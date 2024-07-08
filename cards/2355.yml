@@ -1,13 +1,27 @@
 Rang: 2355
 Lemma: 依頼
 Lesung: いらい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Anfrage
 Extra: （する）
 Wortart: n. v.
-Definition: Anfrage
-Beispielsatz: 出版者は新しい本の出版を彼女に依頼した。
-Beispielsatz-Lesung: 出版者[しゅっぱんしゃ]は 新[あたら]しい 本[ほん]の 出版[しゅっぱん]を 彼女[かのじょ]に 依頼[いらい]した。
-Beispielsatz-Übersetzung: Ein Verlag bat sie um ein neues Buch.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  出版者は新しい本の出版を彼女に依頼した。
+  出版者[しゅっぱんしゃ]は 新[あたら]しい 本[ほん]の 出版[しゅっぱん]を 彼女[かのじょ]に 依頼[いらい]した。
+  Ein Verlag bat sie um ein neues Buch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

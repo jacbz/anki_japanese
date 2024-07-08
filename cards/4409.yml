@@ -1,13 +1,28 @@
 Rang: 4409
 Lemma: 転がる
 Lesung: ころがる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: rollen
-Beispielsatz: ボールが道路の向こう側に転がっていった。
-Beispielsatz-Lesung: ボールが 道路[どうろ]の 向[む]こう 側[がわ]に 転[ころ]がっていった。
-Beispielsatz-Übersetzung: Der Ball rollte über die Straße.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ボールが道路の向こう側に転がっていった。
+  ボールが 道路[どうろ]の 向[む]こう 側[がわ]に 転[ころ]がっていった。
+  Der Ball rollte über die Straße.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

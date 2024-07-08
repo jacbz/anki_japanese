@@ -1,14 +1,28 @@
 Rang: 1651
 Lemma: 原則
 Lesung: げんそく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Grundsatz
-Beispielsatz: 原則として、短期滞在ビザからほかのビザには変更できない。
-Beispielsatz-Lesung: 原則[げんそく]として、 短期[たんき] 滞在[たいざい]ビザからほかのビザには 変更[へんこう]できない。
-Beispielsatz-Übersetzung: Kurzzeitvisa können im Prinzip nicht in Visa mit anderem
-  Status umgewandelt werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  原則として、短期滞在ビザからほかのビザには変更できない。
+  原則[げんそく]として、 短期[たんき] 滞在[たいざい]ビザからほかのビザには 変更[へんこう]できない。
+  Kurzzeitvisa können im Prinzip nicht in Visa mit anderem Status umgewandelt werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

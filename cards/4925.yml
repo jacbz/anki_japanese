@@ -1,13 +1,24 @@
 Rang: 4925
 Lemma: 中途半端
 Lesung: ちゅうとはんぱ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: unvollständig, halb erledigt
-Beispielsatz: 中途半端にするな。
-Beispielsatz-Lesung: 中途半端[ちゅうとはんぱ]にするな。
-Beispielsatz-Übersetzung: Lass die Dinge nicht halb erledigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  中途半端にするな。
+  中途半端[ちゅうとはんぱ]にするな。
+  Lass die Dinge nicht halb erledigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3308
 Lemma: 印象的
 Lesung: いんしょうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: beeindruckend
-Beispielsatz: それは印象的な光景だった。
-Beispielsatz-Lesung: それは 印象的[いんしょうてき]な 光景[こうけい]だった。
-Beispielsatz-Übersetzung: Es war eine beeindruckende Aussicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは印象的な光景だった。
+  それは 印象的[いんしょうてき]な 光景[こうけい]だった。
+  Es war eine beeindruckende Aussicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

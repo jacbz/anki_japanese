@@ -1,13 +1,26 @@
 Rang: 4624
 Lemma: 亀
 Lesung: かめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schildkröte
-Beispielsatz: 亀が卵を産み、海に帰って行った。
-Beispielsatz-Lesung: 亀[かめ]が 卵[たまご]を 産[う]み、 海[うみ]に 帰[かえ]って 行[い]った。
-Beispielsatz-Übersetzung: Die Schildkröte legte ihre Eier und kehrte zum Meer zurück.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">め</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  亀が卵を産み、海に帰って行った。
+  亀[かめ]が 卵[たまご]を 産[う]み、 海[うみ]に 帰[かえ]って 行[い]った。
+  Die Schildkröte legte ihre Eier und kehrte zum Meer zurück.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

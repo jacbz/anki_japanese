@@ -1,13 +1,26 @@
 Rang: 265
 Lemma: うん
-Lesung: うん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ja
-Beispielsatz: 「宿題やったの」「うん」
-Beispielsatz-Lesung: 「 宿題[しゅくだい]やったの」「うん」
-Beispielsatz-Übersetzung: „Hast du deine Hausaufgaben gemacht?“ „Ja.“
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '46'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「宿題やったの」「うん」
+  「 宿題[しゅくだい]やったの」「うん」
+  „Hast du deine Hausaufgaben gemacht?“ „Ja.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

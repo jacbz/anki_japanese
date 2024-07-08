@@ -1,13 +1,24 @@
 Rang: 376
 Lemma: ですから
-Lesung: ですから
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: also, daher
-Beispielsatz: これは重要なことですから、覚えておいてください。
-Beispielsatz-Lesung: これは 重要[じゅうよう]なことですから、 覚[おぼ]えておいてください。
-Beispielsatz-Übersetzung: Bitte merken Sie sich das, denn es ist sehr wichtig.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは重要なことですから、覚えておいてください。
+  これは 重要[じゅうよう]なことですから、 覚[おぼ]えておいてください。
+  Bitte merken Sie sich das, denn es ist sehr wichtig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

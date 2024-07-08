@@ -1,13 +1,28 @@
 Rang: 1825
 Lemma: 誕生
 Lesung: たんじょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Geburt
 Extra: （する）
 Wortart: n. v.
-Definition: Geburt
-Beispielsatz: 地球が誕生したの四十五億年前だ。
-Beispielsatz-Lesung: 地球[ちきゅう]が 誕生[たんじょう]したの四十五 億[おく] 年[ねん] 前[まえ]だ。
-Beispielsatz-Übersetzung: Die Erde wurde vor 4,5 Milliarden Jahren geboren.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地球が誕生したの四十五億年前だ。
+  地球[ちきゅう]が 誕生[たんじょう]したの四十五 億[おく] 年[ねん] 前[まえ]だ。
+  Die Erde wurde vor 4,5 Milliarden Jahren geboren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 90
 Lemma: えーと
 Lesung: ええと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Alternativschreibweisen: ''
 Definition: ähm, also
-Beispielsatz: えーと、会議は何時からだっけ。
-Beispielsatz-Lesung: えーと、 会議[かいぎ]は 何[なん] 時[じ]からだっけ。
-Beispielsatz-Übersetzung: Ähm, wie sagt man dieses Wort auf Deutsch?
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '1'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  えーと、会議は何時からだっけ。
+  えーと、 会議[かいぎ]は 何[なん] 時[じ]からだっけ。
+  Ähm, wie sagt man dieses Wort auf Deutsch?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

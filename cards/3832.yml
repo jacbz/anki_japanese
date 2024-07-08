@@ -1,13 +1,24 @@
 Rang: 3832
 Lemma: 室内
 Lesung: しつない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: innen
-Beispielsatz: 隣の家では、室内で犬を飼っている。
-Beispielsatz-Lesung: 隣[となり]の 家[いえ]では、 室内[しつない]で 犬[いぬ]を 飼[か]っている。
-Beispielsatz-Übersetzung: Unser Nachbar hält einen Hund drinnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  隣の家では、室内で犬を飼っている。
+  隣[となり]の 家[いえ]では、 室内[しつない]で 犬[いぬ]を 飼[か]っている。
+  Unser Nachbar hält einen Hund drinnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

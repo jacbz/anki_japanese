@@ -1,13 +1,24 @@
 Rang: 1050
 Lemma: 再び
 Lesung: ふたたび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: wieder, erneut
-Beispielsatz: 彼は再び仕事を始めた。
-Beispielsatz-Lesung: 彼[かれ]は 再[ふたた]び 仕事[しごと]を 始[はじ]めた。
-Beispielsatz-Übersetzung: Er hat wieder angefangen zu arbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は再び仕事を始めた。
+  彼[かれ]は 再[ふたた]び 仕事[しごと]を 始[はじ]めた。
+  Er hat wieder angefangen zu arbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

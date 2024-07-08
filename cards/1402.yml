@@ -1,13 +1,30 @@
 Rang: 1402
 Lemma: 北海道
 Lesung: ほっかいどう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hokkaido
-Beispielsatz: 北海道は雪がたくさん降る。
-Beispielsatz-Lesung: 北海道[ほっかいどう]は 雪[ゆき]がたくさん 降[ふ]る。
-Beispielsatz-Übersetzung: Es schneit viel in Hokkaido.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_top mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  北海道は雪がたくさん降る。
+  北海道[ほっかいどう]は 雪[ゆき]がたくさん 降[ふ]る。
+  Es schneit viel in Hokkaido.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

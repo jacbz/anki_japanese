@@ -1,14 +1,27 @@
 Rang: 4707
 Lemma: 緩和
 Lesung: かんわ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Entspannung, Erleichterung; erleichtern
 Extra: （する）
 Wortart: n. v.
-Definition: Entspannung, Erleichterung; erleichtern
-Beispielsatz: その薬を飲めば痛みが緩和します。
-Beispielsatz-Lesung: その 薬[くすり]を 飲[の]めば 痛[いた]みが 緩和[かんわ]します。
-Beispielsatz-Übersetzung: Wenn du das Medikament nimmst, wirst du Erleichterung von
-  dem Schmerz bekommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その薬を飲めば痛みが緩和します。
+  その 薬[くすり]を 飲[の]めば 痛[いた]みが 緩和[かんわ]します。
+  Wenn du das Medikament nimmst, wirst du Erleichterung von dem Schmerz bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

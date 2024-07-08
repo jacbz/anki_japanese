@@ -1,13 +1,24 @@
 Rang: 4664
 Lemma: 爽やか
 Lesung: さわやか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: frisch, erfrischend
-Beispielsatz: 早朝の爽やかな時にジョギングをしています。
-Beispielsatz-Lesung: 早朝[そうちょう]の 爽[さわ]やかな 時[とき]にジョギングをしています。
-Beispielsatz-Übersetzung: Ich gehe frühmorgens joggen, wenn es noch frisch ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  早朝の爽やかな時にジョギングをしています。
+  早朝[そうちょう]の 爽[さわ]やかな 時[とき]にジョギングをしています。
+  Ich gehe frühmorgens joggen, wenn es noch frisch ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

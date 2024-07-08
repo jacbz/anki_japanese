@@ -1,13 +1,24 @@
 Rang: 2033
 Lemma: 下手
 Lesung: へた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: nicht gut in, schlecht, ungeschickt
-Beispielsatz: 彼は野球が下手だ。
-Beispielsatz-Lesung: 彼[かれ]は 野球[やきゅう]が 下手[へた]だ。
-Beispielsatz-Übersetzung: Er ist nicht gut im Baseball.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は野球が下手だ。
+  彼[かれ]は 野球[やきゅう]が 下手[へた]だ。
+  Er ist nicht gut im Baseball.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

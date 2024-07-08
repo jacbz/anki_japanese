@@ -1,13 +1,27 @@
 Rang: 3116
 Lemma: 住まい
 Lesung: すまい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Haus, Wohnsitz
-Beispielsatz: 郊外に住まいを構えた。
-Beispielsatz-Lesung: 郊外[こうがい]に 住[す]まいを 構[かま]えた。
-Beispielsatz-Übersetzung: Ich habe ein Haus in den Vororten bezogen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">す</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ま</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  郊外に住まいを構えた。
+  郊外[こうがい]に 住[す]まいを 構[かま]えた。
+  Ich habe ein Haus in den Vororten bezogen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

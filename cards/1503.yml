@@ -1,13 +1,25 @@
 Rang: 1503
 Lemma: 歯
 Lesung: は
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zahn
-Beispielsatz: 私は一日にニ回歯を磨く。
-Beispielsatz-Lesung: 私[わたし]は一 日[にち]にニ 回[かい] 歯[は]を 磨[みが]く。
-Beispielsatz-Übersetzung: Ich putze meine Zähne zweimal am Tag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">は</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は一日にニ回歯を磨く。
+  私[わたし]は一 日[にち]にニ 回[かい] 歯[は]を 磨[みが]く。
+  Ich putze meine Zähne zweimal am Tag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

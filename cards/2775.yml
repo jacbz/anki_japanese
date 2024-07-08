@@ -1,13 +1,28 @@
 Rang: 2775
 Lemma: 乾燥
 Lesung: かんそう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Trockenheit; trocken
 Extra: （する）
 Wortart: n. v.
-Definition: Trockenheit; trocken
-Beispielsatz: 肌が乾燥して困る。
-Beispielsatz-Lesung: 肌[はだ]が 乾燥[かんそう]して 困[こま]る。
-Beispielsatz-Übersetzung: Ich habe ein Problem mit meiner trockenen Haut.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  肌が乾燥して困る。
+  肌[はだ]が 乾燥[かんそう]して 困[こま]る。
+  Ich habe ein Problem mit meiner trockenen Haut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

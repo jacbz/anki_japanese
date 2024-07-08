@@ -1,13 +1,27 @@
 Rang: 1212
 Lemma: 眠る
 Lesung: ねむる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schlafen
-Beispielsatz: 昨日の夜、全然眠れなかった。
-Beispielsatz-Lesung: 昨日[きのう]の 夜[よる]、 全然[ぜんぜん] 眠[ねむ]れなかった。
-Beispielsatz-Übersetzung: Ich konnte letzte Nacht überhaupt nicht schlafen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ね</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨日の夜、全然眠れなかった。
+  昨日[きのう]の 夜[よる]、 全然[ぜんぜん] 眠[ねむ]れなかった。
+  Ich konnte letzte Nacht überhaupt nicht schlafen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

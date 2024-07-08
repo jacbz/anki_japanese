@@ -1,14 +1,24 @@
 Rang: 4573
 Lemma: 生まれ育つ
 Lesung: うまれそだつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: geboren und aufgewachsen sein
-Beispielsatz: 彼の両親は日本人だがアメリカで生まれ育った。
-Beispielsatz-Lesung: 彼[かれ]の 両親[りょうしん]は 日本人[にっぽんじん]だがアメリカで 生[う]まれ 育[そだ]った。
-Beispielsatz-Übersetzung: Seine Eltern sind Japaner, aber er wurde in Amerika geboren
-  und aufgewachsen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の両親は日本人だがアメリカで生まれ育った。
+  彼[かれ]の 両親[りょうしん]は 日本人[にっぽんじん]だがアメリカで 生[う]まれ 育[そだ]った。
+  Seine Eltern sind Japaner, aber er wurde in Amerika geboren und aufgewachsen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 1679
 Lemma: 背中
 Lesung: せなか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Rücken
-Beispielsatz: 時々背中が痛い。
-Beispielsatz-Lesung: 時々[ときどき] 背中[せなか]が 痛[いた]い。
-Beispielsatz-Übersetzung: Manchmal habe ich Schmerzen im Rücken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  時々背中が痛い。
+  時々[ときどき] 背中[せなか]が 痛[いた]い。
+  Manchmal habe ich Schmerzen im Rücken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

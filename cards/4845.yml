@@ -1,13 +1,27 @@
 Rang: 4845
 Lemma: ふさぐ
-Lesung: ふさぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: bedecken; stoppen; blockieren
-Beispielsatz: 彼は両手で耳をふさいだ。
-Beispielsatz-Lesung: 彼[かれ]は 両手[りょうて]で 耳[みみ]をふさいだ。
-Beispielsatz-Übersetzung: Er bedeckte seine Ohren mit beiden Händen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぐ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は両手で耳をふさいだ。
+  彼[かれ]は 両手[りょうて]で 耳[みみ]をふさいだ。
+  Er bedeckte seine Ohren mit beiden Händen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

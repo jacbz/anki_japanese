@@ -1,13 +1,26 @@
 Rang: 2308
 Lemma: 橋
 Lesung: はし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Brücke
-Beispielsatz: 橋の上で花火を見た。
-Beispielsatz-Lesung: 橋[はし]の 上[うえ]で 花火[はなび]を 見[み]た。
-Beispielsatz-Übersetzung: Wir haben das Feuerwerk von der Brücke aus beobachtet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  橋の上で花火を見た。
+  橋[はし]の 上[うえ]で 花火[はなび]を 見[み]た。
+  Wir haben das Feuerwerk von der Brücke aus beobachtet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

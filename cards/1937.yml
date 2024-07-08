@@ -1,13 +1,24 @@
 Rang: 1937
 Lemma: 三回
 Lesung: さんかい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreimal
-Beispielsatz: 私は富士山に三回登りました。
-Beispielsatz-Lesung: 私[わたし]は 富士山[ふじさん]に三 回[かい] 登[のぼ]りました。
-Beispielsatz-Übersetzung: Ich bin drei Mal auf den Mount Fuji geklettert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は富士山に三回登りました。
+  私[わたし]は 富士山[ふじさん]に三 回[かい] 登[のぼ]りました。
+  Ich bin drei Mal auf den Mount Fuji geklettert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

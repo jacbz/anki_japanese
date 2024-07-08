@@ -1,13 +1,24 @@
 Rang: 3679
 Lemma: デビュー
-Lesung: デビュー
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: debütieren; sein Debüt geben
 Extra: （する）
 Wortart: n. v.
-Definition: debütieren; sein Debüt geben
-Beispielsatz: その歌手は昨年デビューしたばかりだ。
-Beispielsatz-Lesung: その 歌手[かしゅ]は 昨年[さくねん]デビューしたばかりだ。
-Beispielsatz-Übersetzung: Der Sänger hat erst letztes Jahr sein Debüt gegeben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その歌手は昨年デビューしたばかりだ。
+  その 歌手[かしゅ]は 昨年[さくねん]デビューしたばかりだ。
+  Der Sänger hat erst letztes Jahr sein Debüt gegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

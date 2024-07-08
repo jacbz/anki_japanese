@@ -1,13 +1,28 @@
 Rang: 2349
 Lemma: お子さん
 Lesung: おこさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kind (von jemand anderem)
-Beispielsatz: お子さんは今、いくつですか。
-Beispielsatz-Lesung: お 子[こ]さんは 今[いま]、いくつですか。
-Beispielsatz-Übersetzung: Wie alt sind deine Kinder?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お子さんは今、いくつですか。
+  お 子[こ]さんは 今[いま]、いくつですか。
+  Wie alt sind deine Kinder?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

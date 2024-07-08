@@ -1,13 +1,28 @@
 Rang: 1753
 Lemma: 自動車
 Lesung: じどうしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Auto
-Beispielsatz: この工場では月に三万台の車を生産している。
-Beispielsatz-Lesung: この 工場[こうじょう]では 月[つき]に三 万[まん] 台[たい]の 車[くるま]を 生産[せいさん]している。
-Beispielsatz-Übersetzung: Diese Fabrik produziert 30.000 Autos pro Monat.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">ど</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この工場では月に三万台の車を生産している。
+  この 工場[こうじょう]では 月[つき]に三 万[まん] 台[たい]の 車[くるま]を 生産[せいさん]している。
+  Diese Fabrik produziert 30.000 Autos pro Monat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

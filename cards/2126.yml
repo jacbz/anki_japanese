@@ -1,13 +1,28 @@
 Rang: 2126
 Lemma: 属する
 Lesung: ぞくする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: angehören, Mitglied sein von
-Beispielsatz: 彼はサッカーチームに属している。
-Beispielsatz-Lesung: 彼[かれ]はサッカーチームに 属[ぞく]している。
-Beispielsatz-Übersetzung: Er ist Mitglied eines Fußballteams.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はサッカーチームに属している。
+  彼[かれ]はサッカーチームに 属[ぞく]している。
+  Er ist Mitglied eines Fußballteams.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 4559
 Lemma: 乗り物
 Lesung: のりもの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fahrzeug; (Freizeitpark-) Fahrt
-Beispielsatz: 目的地まで飛行機ではなく他の乗り物で行くことができますか。
-Beispielsatz-Lesung: 目的地[もくてきち]まで 飛行機[ひこうき]ではなく 他[ほか]の 乗[の]り 物[もの]で 行[い]くことができますか。
-Beispielsatz-Übersetzung: Ist es möglich, den Zielort mit einem anderen Verkehrsmittel
-  als dem Flugzeug zu erreichen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">の</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  目的地まで飛行機ではなく他の乗り物で行くことができますか。
+  目的地[もくてきち]まで 飛行機[ひこうき]ではなく 他[ほか]の 乗[の]り 物[もの]で 行[い]くことができますか。
+  Ist es möglich, den Zielort mit einem anderen Verkehrsmittel als dem Flugzeug zu erreichen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

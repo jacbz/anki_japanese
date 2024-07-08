@@ -1,13 +1,27 @@
 Rang: 2220
 Lemma: 東
 Lesung: ひがし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Osten
-Beispielsatz: 太陽は東から昇る。
-Beispielsatz-Lesung: 太陽[たいよう]は 東[ひがし]から 昇[のぼ]る。
-Beispielsatz-Übersetzung: Die Sonne geht im Osten auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  太陽は東から昇る。
+  太陽[たいよう]は 東[ひがし]から 昇[のぼ]る。
+  Die Sonne geht im Osten auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

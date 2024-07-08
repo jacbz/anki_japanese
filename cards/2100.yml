@@ -1,13 +1,24 @@
 Rang: 2100
 Lemma: ペット
-Lesung: ペット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Haustier
-Beispielsatz: ペットを飼おうと思っている。
-Beispielsatz-Lesung: ペットを 飼[か]おうと 思[おも]っている。
-Beispielsatz-Übersetzung: Ich glaube, ich werde mir ein Haustier zulegen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ペットを飼おうと思っている。
+  ペットを 飼[か]おうと 思[おも]っている。
+  Ich glaube, ich werde mir ein Haustier zulegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

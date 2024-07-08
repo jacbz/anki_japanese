@@ -1,13 +1,26 @@
 Rang: 1675
 Lemma: 入る
 Lesung: いる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hineinkommen
-Beispielsatz: 郷に入れば郷に従え。
-Beispielsatz-Lesung: 郷[さと]に 入[はい]れば 郷[さと]に 従[したが]え。
-Beispielsatz-Übersetzung: Andere Länder, andere Sitten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ↗Gesprochen
+Dispersion: '23'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  郷に入れば郷に従え。
+  郷[さと]に 入[はい]れば 郷[さと]に 従[したが]え。
+  Andere Länder, andere Sitten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

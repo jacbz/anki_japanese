@@ -1,13 +1,24 @@
 Rang: 2534
 Lemma: 三十一日
 Lesung: さんじゅういちにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: einunddreißigster (Tag); einunddreißig Tage
-Beispielsatz: 十二月三十一日は、大晦日だ。
-Beispielsatz-Lesung: 十二月[じゅうにがつ]三十一 日[にち]は、 大晦日[おおみそか]だ。
-Beispielsatz-Übersetzung: Der 31. Dezember ist Silvester.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十二月三十一日は、大晦日だ。
+  十二月[じゅうにがつ]三十一 日[にち]は、 大晦日[おおみそか]だ。
+  Der 31. Dezember ist Silvester.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

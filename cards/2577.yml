@@ -1,14 +1,24 @@
 Rang: 2577
 Lemma: マスコミ
-Lesung: マスコミ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Massenmedien, Massenkommunikation
-Beispielsatz: 将来マスコミの仕事をしたい。
-Beispielsatz-Lesung: 将来[しょうらい]マスコミの 仕事[しごと]をしたい。
-Beispielsatz-Übersetzung: In Zukunft möchte ich im Bereich der Massenkommunikation
-  arbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  将来マスコミの仕事をしたい。
+  将来[しょうらい]マスコミの 仕事[しごと]をしたい。
+  In Zukunft möchte ich im Bereich der Massenkommunikation arbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

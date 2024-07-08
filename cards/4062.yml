@@ -1,13 +1,24 @@
 Rang: 4062
 Lemma: 三本
 Lesung: さんぼん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: drei (lange/zylindrische Objekte)
-Beispielsatz: 鉛筆を三本ください。
-Beispielsatz-Lesung: 鉛筆[えんぴつ]を三 本[ほん]ください。
-Beispielsatz-Übersetzung: Bitte gib mir drei Bleistifte.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  鉛筆を三本ください。
+  鉛筆[えんぴつ]を三 本[ほん]ください。
+  Bitte gib mir drei Bleistifte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

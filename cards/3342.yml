@@ -1,13 +1,24 @@
 Rang: 3342
 Lemma: なくてはならない
 Lesung: なくてわならない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: unverzichtbar
-Beispielsatz: もう行かなくてはならない。
-Beispielsatz-Lesung: もう 行[い]かなくてはならない。
-Beispielsatz-Übersetzung: Ich muss jetzt gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もう行かなくてはならない。
+  もう 行[い]かなくてはならない。
+  Ich muss jetzt gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

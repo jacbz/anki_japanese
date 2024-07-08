@@ -1,14 +1,27 @@
 Rang: 2740
 Lemma: 本屋
 Lesung: ほんや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Buchhandlung
-Beispielsatz: 時間があったので本屋に立ち寄った。
-Beispielsatz-Lesung: 時間[じかん]があったので 本屋[ほんや]に 立[た]ち 寄[よ]った。
-Beispielsatz-Übersetzung: Ich hatte noch Zeit, also bin ich in einer Buchhandlung
-  vorbeigegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ほ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">や</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  時間があったので本屋に立ち寄った。
+  時間[じかん]があったので 本屋[ほんや]に 立[た]ち 寄[よ]った。
+  Ich hatte noch Zeit, also bin ich in einer Buchhandlung vorbeigegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 325
 Lemma: 長い
 Lesung: ながい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: lang
-Beispielsatz: 彼女は髪が長い。
-Beispielsatz-Lesung: 彼女[かのじょ]は 髪[かみ]が 長[なが]い。
-Beispielsatz-Übersetzung: Ihr Haar ist lang.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は髪が長い。
+  彼女[かのじょ]は 髪[かみ]が 長[なが]い。
+  Ihr Haar ist lang.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

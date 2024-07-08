@@ -1,13 +1,28 @@
 Rang: 215
 Lemma: 最近
 Lesung: さいきん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: in letzter Zeit
-Beispielsatz: 私は最近忙しい。
-Beispielsatz-Lesung: 私[わたし]は 最近[さいきん] 忙[いそが]しい。
-Beispielsatz-Übersetzung: Ich bin in letzter Zeit beschäftigt gewesen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は最近忙しい。
+  私[わたし]は 最近[さいきん] 忙[いそが]しい。
+  Ich bin in letzter Zeit beschäftigt gewesen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

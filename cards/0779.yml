@@ -1,13 +1,24 @@
 Rang: 779
 Lemma: てやる
-Lesung: てやる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwas für jemanden/etwas tun
-Beispielsatz: 彼女は孫にコートを買ってやった。
-Beispielsatz-Lesung: 彼女[かのじょ]は 孫[まご]にコートを 買[か]ってやった。
-Beispielsatz-Übersetzung: Sie kaufte ihrem Enkel einen Mantel.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は孫にコートを買ってやった。
+  彼女[かのじょ]は 孫[まご]にコートを 買[か]ってやった。
+  Sie kaufte ihrem Enkel einen Mantel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

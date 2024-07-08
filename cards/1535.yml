@@ -1,13 +1,24 @@
 Rang: 1535
 Lemma: 言い方
 Lesung: いいかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ausdrucksweise
-Beispielsatz: もっと自然な言い方がありますか。
-Beispielsatz-Lesung: もっと 自然[しぜん]な 言[い]い 方[かた]がありますか。
-Beispielsatz-Übersetzung: Gibt es eine natürlichere Ausdrucksweise?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もっと自然な言い方がありますか。
+  もっと 自然[しぜん]な 言[い]い 方[かた]がありますか。
+  Gibt es eine natürlichere Ausdrucksweise?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

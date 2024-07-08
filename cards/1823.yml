@@ -1,13 +1,24 @@
 Rang: 1823
 Lemma: イタリア
-Lesung: イタリア
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Italien
-Beispielsatz: イタリアの首都はローマだ。
-Beispielsatz-Lesung: イタリアの 首都[しゅと]はローマだ。
-Beispielsatz-Übersetzung: Die Hauptstadt von Italien ist Rom.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  イタリアの首都はローマだ。
+  イタリアの 首都[しゅと]はローマだ。
+  Die Hauptstadt von Italien ist Rom.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

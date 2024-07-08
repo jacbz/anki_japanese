@@ -1,13 +1,24 @@
 Rang: 2731
 Lemma: 保険料
 Lesung: ほけんりょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Versicherungsprämie
-Beispielsatz: 保険料を支払わないといけない。
-Beispielsatz-Lesung: 保険料[ほけんりょう]を 支払[しはら]わないといけない。
-Beispielsatz-Übersetzung: Ich muss Versicherungsgebühren zahlen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  保険料を支払わないといけない。
+  保険料[ほけんりょう]を 支払[しはら]わないといけない。
+  Ich muss Versicherungsgebühren zahlen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

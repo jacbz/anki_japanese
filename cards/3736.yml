@@ -1,13 +1,24 @@
 Rang: 3736
 Lemma: 三十代
 Lesung: さんじゅうだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreißiger Jahre
-Beispielsatz: 彼は三十代半ばだろう。
-Beispielsatz-Lesung: 彼[かれ]は三十 代[だい] 半[なか]ばだろう。
-Beispielsatz-Übersetzung: Er ist wahrscheinlich Mitte dreißig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は三十代半ばだろう。
+  彼[かれ]は三十 代[だい] 半[なか]ばだろう。
+  Er ist wahrscheinlich Mitte dreißig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

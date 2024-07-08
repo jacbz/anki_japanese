@@ -1,13 +1,24 @@
 Rang: 2670
 Lemma: 一匹
 Lesung: いっぴき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: eines (Tier)
-Beispielsatz: 犬を一匹飼っている。
-Beispielsatz-Lesung: 犬[いぬ]を一 匹[ひき] 飼[か]っている。
-Beispielsatz-Übersetzung: Ich habe einen Hund als Haustier.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  犬を一匹飼っている。
+  犬[いぬ]を一 匹[ひき] 飼[か]っている。
+  Ich habe einen Hund als Haustier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

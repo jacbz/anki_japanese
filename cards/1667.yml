@@ -1,14 +1,24 @@
 Rang: 1667
 Lemma: わざわざ
-Lesung: わざわざ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sich die Mühe machen, besonders
-Beispielsatz: 今日はわざわざ会ってくれてありがとう。
-Beispielsatz-Lesung: 今日[きょう]はわざわざ 会[あ]ってくれてありがとう。
-Beispielsatz-Übersetzung: Danke, dass du dir heute die Mühe gemacht hast, mich zu
-  treffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日はわざわざ会ってくれてありがとう。
+  今日[きょう]はわざわざ 会[あ]ってくれてありがとう。
+  Danke, dass du dir heute die Mühe gemacht hast, mich zu treffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

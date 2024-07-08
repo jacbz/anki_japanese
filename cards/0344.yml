@@ -1,13 +1,24 @@
 Rang: 344
 Lemma: ために
-Lesung: ために
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: für
-Beispielsatz: 健康のために野菜をたくさん食べています。
-Beispielsatz-Lesung: 健康[けんこう]のために 野菜[やさい]をたくさん 食[た]べています。
-Beispielsatz-Übersetzung: Ich esse viele Gemüse für meine Gesundheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  健康のために野菜をたくさん食べています。
+  健康[けんこう]のために 野菜[やさい]をたくさん 食[た]べています。
+  Ich esse viele Gemüse für meine Gesundheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

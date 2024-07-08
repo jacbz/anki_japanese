@@ -1,13 +1,26 @@
 Rang: 987
 Lemma: 以下
 Lesung: いか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: unten, folgend
-Beispielsatz: 以下の質問にお答えください。
-Beispielsatz-Lesung: 以下[いか]の 質問[しつもん]にお 答[こた]えください。
-Beispielsatz-Übersetzung: Wir möchten, dass Sie die folgenden Fragen beantworten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  以下の質問にお答えください。
+  以下[いか]の 質問[しつもん]にお 答[こた]えください。
+  Wir möchten, dass Sie die folgenden Fragen beantworten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

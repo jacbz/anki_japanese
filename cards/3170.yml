@@ -1,13 +1,27 @@
 Rang: 3170
 Lemma: 台詞
 Lesung: せりふ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dialog, Text
-Beispielsatz: 主人公の最後の台詞が印象的だった。
-Beispielsatz-Lesung: 主人公[しゅじんこう]の 最後[さいご]の 台詞[だいし]が 印象的[いんしょうてき]だった。
-Beispielsatz-Übersetzung: Die letzten Zeilen des Helden waren beeindruckend.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ふ</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  主人公の最後の台詞が印象的だった。
+  主人公[しゅじんこう]の 最後[さいご]の 台詞[だいし]が 印象的[いんしょうてき]だった。
+  Die letzten Zeilen des Helden waren beeindruckend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

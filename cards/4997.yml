@@ -1,13 +1,24 @@
 Rang: 4997
 Lemma: 相次ぐ
-Lesung: あいつぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sich häufen
-Beispielsatz: 不可解な事件が相次いでいる。
-Beispielsatz-Lesung: 不可解[ふかかい]な 事件[じけん]が 相次[あいつ]いでいる。
-Beispielsatz-Übersetzung: Mysteriöse Vorfälle häufen sich.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  不可解な事件が相次いでいる。
+  不可解[ふかかい]な 事件[じけん]が 相次[あいつ]いでいる。
+  Mysteriöse Vorfälle häufen sich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

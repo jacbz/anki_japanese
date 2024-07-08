@@ -1,13 +1,24 @@
 Rang: 2915
 Lemma: すっきり
-Lesung: すっきり
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: sich erfrischt fühlen
 Extra: （する）
 Wortart: adv., v.
-Definition: sich erfrischt fühlen
-Beispielsatz: 新鮮な空気を吸うとすっきりする。
-Beispielsatz-Lesung: 新鮮[しんせん]な 空気[くうき]を 吸[す]うとすっきりする。
-Beispielsatz-Übersetzung: Ein Atemzug frischer Luft lässt mich mich erfrischt fühlen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新鮮な空気を吸うとすっきりする。
+  新鮮[しんせん]な 空気[くうき]を 吸[す]うとすっきりする。
+  Ein Atemzug frischer Luft lässt mich mich erfrischt fühlen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

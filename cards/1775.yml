@@ -1,13 +1,28 @@
 Rang: 1775
 Lemma: 応援
 Lesung: おうえん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Unterstützung
 Extra: （する）
 Wortart: n. v.
-Definition: Unterstützung
-Beispielsatz: 私たちは大声で自分たちのチームを応援した。
-Beispielsatz-Lesung: 私[わたし]たちは 大声[おおごえ]で 自分[じぶん]たちのチームを 応援[おうえん]した。
-Beispielsatz-Übersetzung: Wir haben laut für unser Team gejubelt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは大声で自分たちのチームを応援した。
+  私[わたし]たちは 大声[おおごえ]で 自分[じぶん]たちのチームを 応援[おうえん]した。
+  Wir haben laut für unser Team gejubelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

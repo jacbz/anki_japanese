@@ -1,13 +1,24 @@
 Rang: 1104
 Lemma: いきなり
-Lesung: いきなり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: plötzlich, unerwartet
-Beispielsatz: 彼女はいきなり会社をクビになった。
-Beispielsatz-Lesung: 彼女[かのじょ]はいきなり 会社[かいしゃ]をクビになった。
-Beispielsatz-Übersetzung: Sie wurde plötzlich ohne Vorwarnung entlassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はいきなり会社をクビになった。
+  彼女[かのじょ]はいきなり 会社[かいしゃ]をクビになった。
+  Sie wurde plötzlich ohne Vorwarnung entlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

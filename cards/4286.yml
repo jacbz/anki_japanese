@@ -1,13 +1,28 @@
 Rang: 4286
 Lemma: 圧力
 Lesung: あつりょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Druck, Stress
-Beispielsatz: 本当の事を話すように彼に圧力をかけた。
-Beispielsatz-Lesung: 本当[ほんとう]の 事[こと]を 話[はな]すように 彼[かれ]に 圧力[あつりょく]をかけた。
-Beispielsatz-Übersetzung: Ich habe ihm Druck gemacht, damit er die Wahrheit sagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本当の事を話すように彼に圧力をかけた。
+  本当[ほんとう]の 事[こと]を 話[はな]すように 彼[かれ]に 圧力[あつりょく]をかけた。
+  Ich habe ihm Druck gemacht, damit er die Wahrheit sagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

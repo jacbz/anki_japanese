@@ -1,13 +1,24 @@
 Rang: 3479
 Lemma: なおかつ
-Lesung: なおかつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: außerdem, und dennoch
-Beispielsatz: この店の料理はおいしくて、なおかつ安い。
-Beispielsatz-Lesung: この 店[みせ]の 料理[りょうり]はおいしくて、なおかつ 安[やす]い。
-Beispielsatz-Übersetzung: Das Essen in diesem Restaurant ist lecker und dennoch günstig.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この店の料理はおいしくて、なおかつ安い。
+  この 店[みせ]の 料理[りょうり]はおいしくて、なおかつ 安[やす]い。
+  Das Essen in diesem Restaurant ist lecker und dennoch günstig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

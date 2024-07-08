@@ -1,13 +1,28 @@
 Rang: 2296
 Lemma: 玉ねぎ
 Lesung: たまねぎ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zwiebel
-Beispielsatz: 玉ねぎを切ってフライパンで炒めてください。
-Beispielsatz-Lesung: 玉[たま]ねぎを 切[き]ってフライパンで 炒[いた]めてください。
-Beispielsatz-Übersetzung: Schneide eine Zwiebel und brate sie in einer Pfanne.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ね</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ぎ</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  玉ねぎを切ってフライパンで炒めてください。
+  玉[たま]ねぎを 切[き]ってフライパンで 炒[いた]めてください。
+  Schneide eine Zwiebel und brate sie in einer Pfanne.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2275
 Lemma: 大幅
 Lesung: おおはば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: steil, groß, scharf
-Beispielsatz: 経営について大幅な見直しをする。
-Beispielsatz-Lesung: 経営[けいえい]について 大幅[おおはば]な 見直[みなお]しをする。
-Beispielsatz-Übersetzung: Sie werden eine drastische Überprüfung des Managements durchführen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  経営について大幅な見直しをする。
+  経営[けいえい]について 大幅[おおはば]な 見直[みなお]しをする。
+  Sie werden eine drastische Überprüfung des Managements durchführen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

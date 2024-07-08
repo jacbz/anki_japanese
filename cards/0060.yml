@@ -1,14 +1,24 @@
 Rang: 60
 Lemma: こう
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: so, auf diese Weise
-Beispielsatz: 粉と水を混ぜ、こうしてよくこねてください。
-Beispielsatz-Lesung: 粉[こな]と 水[みず]を 混[ま]ぜ、こうしてよくこねてください。
-Beispielsatz-Übersetzung: Mischen Sie Mehl und Wasser zusammen und kneten Sie den
-  Teig auf diese Weise gut durch.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  粉と水を混ぜ、こうしてよくこねてください。
+  粉[こな]と 水[みず]を 混[ま]ぜ、こうしてよくこねてください。
+  Mischen Sie Mehl und Wasser zusammen und kneten Sie den Teig auf diese Weise gut durch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

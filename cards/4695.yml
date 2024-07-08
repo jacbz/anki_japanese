@@ -1,13 +1,28 @@
 Rang: 4695
 Lemma: 見下ろす
 Lesung: みおろす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: überblicken, von oben betrachten
-Beispielsatz: ホテルから町を見下ろすことができます。
-Beispielsatz-Lesung: ホテルから 町[まち]を 見下[みお]ろすことができます。
-Beispielsatz-Übersetzung: Vom Hotel aus kann man die Stadt überblicken.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ホテルから町を見下ろすことができます。
+  ホテルから 町[まち]を 見下[みお]ろすことができます。
+  Vom Hotel aus kann man die Stadt überblicken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

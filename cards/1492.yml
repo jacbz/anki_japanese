@@ -1,13 +1,24 @@
 Rang: 1492
 Lemma: それとも
-Lesung: それとも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: oder
-Beispielsatz: 彼の考えに賛成ですか、それとも反対ですか。
-Beispielsatz-Lesung: 彼[かれ]の 考[かんが]えに 賛成[さんせい]ですか、それとも 反対[はんたい]ですか。
-Beispielsatz-Übersetzung: Bist du für oder gegen seine Idee?
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の考えに賛成ですか、それとも反対ですか。
+  彼[かれ]の 考[かんが]えに 賛成[さんせい]ですか、それとも 反対[はんたい]ですか。
+  Bist du für oder gegen seine Idee?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

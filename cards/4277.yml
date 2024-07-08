@@ -1,13 +1,24 @@
 Rang: 4277
 Lemma: チャレンジ
-Lesung: チャレンジ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Herausforderung
-Beispielsatz: オリンピック選手は世界記録にチャレンジした。
-Beispielsatz-Lesung: オリンピック 選手[せんしゅ]は 世界記録[せかいきろく]にチャレンジした。
-Beispielsatz-Übersetzung: Der olympische Athlet hat den Weltrekord herausgefordert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  オリンピック選手は世界記録にチャレンジした。
+  オリンピック 選手[せんしゅ]は 世界記録[せかいきろく]にチャレンジした。
+  Der olympische Athlet hat den Weltrekord herausgefordert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

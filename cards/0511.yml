@@ -1,13 +1,24 @@
 Rang: 511
 Lemma: のに
-Lesung: のに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: obwohl, trotzdem; um zu
-Beispielsatz: 明日が試験なのに、彼女は遊んでいる。
-Beispielsatz-Lesung: 明日[あした]が 試験[しけん]なのに、 彼女[かのじょ]は 遊[あそ]んでいる。
-Beispielsatz-Übersetzung: Obwohl morgen die Prüfungen sind, faulenzt sie nur herum.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日が試験なのに、彼女は遊んでいる。
+  明日[あした]が 試験[しけん]なのに、 彼女[かのじょ]は 遊[あそ]んでいる。
+  Obwohl morgen die Prüfungen sind, faulenzt sie nur herum.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

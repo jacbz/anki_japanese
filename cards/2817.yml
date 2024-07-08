@@ -1,13 +1,24 @@
 Rang: 2817
 Lemma: 演出
 Lesung: えんしゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Regie; inszenieren
 Extra: （する）
 Wortart: n., v.
-Definition: Regie; inszenieren
-Beispielsatz: 彼が演出を担当します。
-Beispielsatz-Lesung: 彼[かれ]が 演出[えんしゅつ]を 担当[たんとう]します。
-Beispielsatz-Übersetzung: Er ist für die Regie verantwortlich.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼が演出を担当します。
+  彼[かれ]が 演出[えんしゅつ]を 担当[たんとう]します。
+  Er ist für die Regie verantwortlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

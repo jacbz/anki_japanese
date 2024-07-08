@@ -1,13 +1,28 @@
 Rang: 3807
 Lemma: 録音
 Lesung: ろくおん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Aufnahme
 Extra: （する）
 Wortart: n., v.
-Definition: Aufnahme
-Beispielsatz: 会議を録音しておいた。
-Beispielsatz-Lesung: 会議[かいぎ]を 録音[ろくおん]しておいた。
-Beispielsatz-Übersetzung: Wir haben die Sitzung aufgenommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  会議を録音しておいた。
+  会議[かいぎ]を 録音[ろくおん]しておいた。
+  Wir haben die Sitzung aufgenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

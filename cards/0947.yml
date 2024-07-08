@@ -1,13 +1,24 @@
 Rang: 947
 Lemma: 第一
 Lesung: だいいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: erste
-Beispielsatz: 健康が第一だ。
-Beispielsatz-Lesung: 健康[けんこう]が 第[だい]一だ。
-Beispielsatz-Übersetzung: Nichts ist wichtiger als die Gesundheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  健康が第一だ。
+  健康[けんこう]が 第[だい]一だ。
+  Nichts ist wichtiger als die Gesundheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

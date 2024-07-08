@@ -1,13 +1,24 @@
 Rang: 1257
 Lemma: ドイツ
-Lesung: ドイツ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Deutschland
-Beispielsatz: 私はドイツで三年間働いていた。
-Beispielsatz-Lesung: 私[わたし]はドイツで三 年間[ねんかん] 働[はたら]いていた。
-Beispielsatz-Übersetzung: Ich habe drei Jahre lang in Deutschland gearbeitet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はドイツで三年間働いていた。
+  私[わたし]はドイツで三 年間[ねんかん] 働[はたら]いていた。
+  Ich habe drei Jahre lang in Deutschland gearbeitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

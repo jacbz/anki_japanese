@@ -1,13 +1,28 @@
 Rang: 2840
 Lemma: 留学
 Lesung: りゅうがく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: im Ausland studieren
 Extra: （する）
 Wortart: n., v.
-Definition: im Ausland studieren
-Beispielsatz: 留学を決めた。
-Beispielsatz-Lesung: 留学[りゅうがく]を 決[き]めた。
-Beispielsatz-Übersetzung: Ich habe beschlossen, im Ausland zu studieren.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">り</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">が</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  留学を決めた。
+  留学[りゅうがく]を 決[き]めた。
+  Ich habe beschlossen, im Ausland zu studieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

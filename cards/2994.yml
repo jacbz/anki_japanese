@@ -1,13 +1,24 @@
 Rang: 2994
 Lemma: せめて
-Lesung: せめて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wenigstens, höchstens
-Beispielsatz: 次のテストではせめて七十点は取りたい。
-Beispielsatz-Lesung: 次[つぎ]のテストではせめて七十 点[てん]は 取[と]りたい。
-Beispielsatz-Übersetzung: Ich möchte im nächsten Test wenigstens 70 Punkte erreichen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  次のテストではせめて七十点は取りたい。
+  次[つぎ]のテストではせめて七十 点[てん]は 取[と]りたい。
+  Ich möchte im nächsten Test wenigstens 70 Punkte erreichen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

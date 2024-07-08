@@ -1,13 +1,28 @@
 Rang: 3298
 Lemma: 紅葉
 Lesung: こうよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Herbstlaub färben
 Extra: （する）
 Wortart: n. v.
-Definition: Herbstlaub färben
-Beispielsatz: 山に紅葉を見に行った。
-Beispielsatz-Lesung: 山[やま]に 紅葉[こうよう]を 見[み]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin in die Berge gegangen, um das Herbstlaub zu sehen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  山に紅葉を見に行った。
+  山[やま]に 紅葉[こうよう]を 見[み]に 行[い]った。
+  Ich bin in die Berge gegangen, um das Herbstlaub zu sehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

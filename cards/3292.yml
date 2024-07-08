@@ -1,14 +1,31 @@
 Rang: 3292
 Lemma: 中小企業
 Lesung: ちゅうしょうきぎょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: kleine und mittelständische Unternehmen
-Beispielsatz: 中小企業の倒産が相次いだ。
-Beispielsatz-Lesung: 中小企業[ちゅうしょうきぎょう]の 倒産[とうさん]が 相次[あいつ]いだ。
-Beispielsatz-Übersetzung: Kleine und mittelständische Unternehmen gingen nacheinander
-  bankrott.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-7"><span class="inner"><span
+  class="char">ち</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-6"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-5"><span class="inner"><span class="char">し</span><span class="char">ょ</span></span></span><span
+  class="accent_plain mola_-4"><span class="inner"><span class="char">う</span></span></span><span
+  class="accent_top mola_-3"><span class="inner"><span class="char">き</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">ぎ</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '45'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  中小企業の倒産が相次いだ。
+  中小企業[ちゅうしょうきぎょう]の 倒産[とうさん]が 相次[あいつ]いだ。
+  Kleine und mittelständische Unternehmen gingen nacheinander bankrott.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

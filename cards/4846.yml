@@ -1,13 +1,24 @@
 Rang: 4846
 Lemma: ごと
-Lesung: ごと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: suffix
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedes Mal
-Beispielsatz: オリンピックは四年ごとに開催される。
-Beispielsatz-Lesung: オリンピックは四 年[ねん]ごとに 開催[かいさい]される。
-Beispielsatz-Übersetzung: Die Olympischen Spiele finden alle vier Jahre statt.
+Extra: '' # Nur bei suru-Verben
+Wortart: suffix
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  オリンピックは四年ごとに開催される。
+  オリンピックは四 年[ねん]ごとに 開催[かいさい]される。
+  Die Olympischen Spiele finden alle vier Jahre statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

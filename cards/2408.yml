@@ -1,13 +1,24 @@
 Rang: 2408
 Lemma: 僕達
 Lesung: ぼくたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: wir (von männlichen Sprechern verwendet)
-Beispielsatz: 僕達はみんな野球をやっている。
-Beispielsatz-Lesung: 僕達[ぼくたち]はみんな 野球[やきゅう]をやっている。
-Beispielsatz-Übersetzung: Wir spielen alle Baseball.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  僕達はみんな野球をやっている。
+  僕達[ぼくたち]はみんな 野球[やきゅう]をやっている。
+  Wir spielen alle Baseball.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

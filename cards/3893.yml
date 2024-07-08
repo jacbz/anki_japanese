@@ -1,13 +1,24 @@
 Rang: 3893
 Lemma: 己
 Lesung: おのれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sich selbst (Pronomen der ersten Person)
-Beispielsatz: 己に負けるな。
-Beispielsatz-Lesung: 己[おのれ]に 負[ま]けるな。
-Beispielsatz-Übersetzung: Gib deiner Schwäche nicht nach.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  己に負けるな。
+  己[おのれ]に 負[ま]けるな。
+  Gib deiner Schwäche nicht nach.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

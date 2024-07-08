@@ -1,13 +1,24 @@
 Rang: 3241
 Lemma: 同意
 Lesung: どうい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zustimmung, Einwilligung; zustimmen
 Extra: （する）
 Wortart: n. v.
-Definition: Zustimmung, Einwilligung; zustimmen
-Beispielsatz: 本人の同意を得なければできない。
-Beispielsatz-Lesung: 本人[ほんにん]の 同意[どうい]を 得[え]なければできない。
-Beispielsatz-Übersetzung: Ohne seine Zustimmung kannst du es nicht tun.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本人の同意を得なければできない。
+  本人[ほんにん]の 同意[どうい]を 得[え]なければできない。
+  Ohne seine Zustimmung kannst du es nicht tun.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

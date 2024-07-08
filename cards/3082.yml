@@ -1,13 +1,24 @@
 Rang: 3082
 Lemma: 北朝鮮
 Lesung: きたちょうせん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Demokratische Volksrepublik Korea, Nordkorea
-Beispielsatz: A氏は北朝鮮で生まれた。
-Beispielsatz-Lesung: A 氏[し]は 北朝鮮[きたちょうせん]で 生[う]まれた。
-Beispielsatz-Übersetzung: Herr A wurde in Nordkorea geboren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  A氏は北朝鮮で生まれた。
+  A 氏[し]は 北朝鮮[きたちょうせん]で 生[う]まれた。
+  Herr A wurde in Nordkorea geboren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

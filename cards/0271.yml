@@ -1,13 +1,24 @@
 Rang: 271
 Lemma: ばかり
-Lesung: ばかり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gerade erst
-Beispielsatz: 今朝、着いたばかりです。
-Beispielsatz-Lesung: 今朝[けさ]、 着[つ]いたばかりです。
-Beispielsatz-Übersetzung: Ich bin heute Morgen gerade erst angekommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今朝、着いたばかりです。
+  今朝[けさ]、 着[つ]いたばかりです。
+  Ich bin heute Morgen gerade erst angekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,31 @@
 Rang: 1531
 Lemma: たまる
-Lesung: たまる
-Alternative: ''
-Extra: '' # nur bei する-Verben
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: sich ansammeln, aufbauen; ertragen, aushalten
+Extra: '' # Nur bei suru-Verben
 Wortart: v.
-Definition: sich ansammeln, aufbauen
-Beispielsatz: 彼はストレスがたまると怒りっぽくなる。
-Beispielsatz-Lesung: 彼[かれ]はストレスがたまると 怒[いか]りっぽくなる。
-Beispielsatz-Übersetzung: Er neigt dazu, schnell wütend zu werden, wenn sich der Stress
-  aufbaut.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はストレスがたまると怒りっぽくなる。
+  彼[かれ]はストレスがたまると 怒[いか]りっぽくなる。
+  Er neigt dazu, schnell wütend zu werden, wenn sich der Stress aufbaut.
+
+  負けてたまるか。
+  負[ま]けてたまるか。
+  Ich werde den Wettbewerb auf keinen Fall verlieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

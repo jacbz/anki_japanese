@@ -1,13 +1,32 @@
 Rang: 3774
 Lemma: 就職活動
 Lesung: しゅうしょくかつどう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Arbeitssuche; nach einem Job suchen
 Extra: （する）
 Wortart: n. v.
-Definition: Arbeitssuche; nach einem Job suchen
-Beispielsatz: 彼は就職活動中だ。
-Beispielsatz-Lesung: 彼[かれ]は 就職活動[しゅうしょくかつどう] 中[ちゅう]だ。
-Beispielsatz-Übersetzung: Er ist auf Jobsuche.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-8"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-7"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-6"><span class="inner"><span class="char">し</span><span class="char">ょ</span></span></span><span
+  class="accent_plain mola_-5"><span class="inner"><span class="char">く</span></span></span><span
+  class="accent_top mola_-4"><span class="inner"><span class="char">か</span></span></span><span
+  class="mola_-3"><span class="inner"><span class="char">つ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">ど</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は就職活動中だ。
+  彼[かれ]は 就職活動[しゅうしょくかつどう] 中[ちゅう]だ。
+  Er ist auf Jobsuche.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

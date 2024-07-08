@@ -1,13 +1,24 @@
 Rang: 3424
 Lemma: そこらへん
-Lesung: そこらへん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: in der Nähe; so eine Angelegenheit
-Beispielsatz: 「ハサミ、どこ？」「そこらへんにない？」
-Beispielsatz-Lesung: 「ハサミ、どこ？」「そこらへんにない？」
-Beispielsatz-Übersetzung: „Wo ist die Schere?“ „Ich denke, sie ist in der Nähe.“
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '59'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「ハサミ、どこ？」「そこらへんにない？」
+  「ハサミ、どこ？」「そこらへんにない？」
+  „Wo ist die Schere?“ „Ich denke, sie ist in der Nähe.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

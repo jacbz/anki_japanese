@@ -1,13 +1,26 @@
 Rang: 4940
 Lemma: 汽車
 Lesung: きしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zug
-Beispielsatz: 汽車で旅行に行く。
-Beispielsatz-Lesung: 汽車[きしゃ]で 旅行[りょこう]に 行[い]く。
-Beispielsatz-Übersetzung: Wir werden mit dem Zug auf eine Reise gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  汽車で旅行に行く。
+  汽車[きしゃ]で 旅行[りょこう]に 行[い]く。
+  Wir werden mit dem Zug auf eine Reise gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

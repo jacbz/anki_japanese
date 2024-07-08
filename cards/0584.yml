@@ -1,13 +1,28 @@
 Rang: 584
 Lemma: 練習
 Lesung: れんしゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Training; üben, trainieren
 Extra: （する）
 Wortart: n. v.
-Definition: Training; üben, trainieren
-Beispielsatz: 毎日、ピアノの練習をする。
-Beispielsatz-Lesung: 毎日[まいにち]、ピアノの 練習[れんしゅう]をする。
-Beispielsatz-Übersetzung: Ich übe jeden Tag Klavier.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">れ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎日、ピアノの練習をする。
+  毎日[まいにち]、ピアノの 練習[れんしゅう]をする。
+  Ich übe jeden Tag Klavier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

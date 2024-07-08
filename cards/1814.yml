@@ -1,13 +1,27 @@
 Rang: 1814
 Lemma: 主な
 Lesung: おもな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Alternativschreibweisen: ''
 Definition: hauptsächlich, wichtigste/r/s
-Beispielsatz: その事故の主な原因はまだわかっていない。
-Beispielsatz-Lesung: その 事故[じこ]の 主[おも]な 原因[げんいん]はまだわかっていない。
-Beispielsatz-Übersetzung: Die wichtigste Ursache des Unfalls ist noch unbekannt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">お</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">も</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">な</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その事故の主な原因はまだわかっていない。
+  その 事故[じこ]の 主[おも]な 原因[げんいん]はまだわかっていない。
+  Die wichtigste Ursache des Unfalls ist noch unbekannt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

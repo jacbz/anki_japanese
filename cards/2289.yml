@@ -1,13 +1,26 @@
 Rang: 2289
 Lemma: 縁
 Lesung: えん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schicksal, Fügung
-Beispielsatz: 私はお金に縁がない。
-Beispielsatz-Lesung: 私[わたし]はお 金[かね]に 縁[えん]がない。
-Beispielsatz-Übersetzung: Ich bin hoffnungslos, wenn es darum geht, Geld zu verdienen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">え</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はお金に縁がない。
+  私[わたし]はお 金[かね]に 縁[えん]がない。
+  Ich bin hoffnungslos, wenn es darum geht, Geld zu verdienen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

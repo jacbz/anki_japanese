@@ -1,13 +1,24 @@
 Rang: 1202
 Lemma: 積極的
 Lesung: せっきょくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: aktiv, positiv, aggressiv
-Beispielsatz: このクラスでは積極的な参加が求められます。
-Beispielsatz-Lesung: このクラスでは 積極的[せっきょくてき]な 参加[さんか]が 求[もと]められます。
-Beispielsatz-Übersetzung: Deine aktive Teilnahme ist in diesem Kurs erforderlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このクラスでは積極的な参加が求められます。
+  このクラスでは 積極的[せっきょくてき]な 参加[さんか]が 求[もと]められます。
+  Deine aktive Teilnahme ist in diesem Kurs erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

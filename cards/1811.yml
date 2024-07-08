@@ -1,13 +1,28 @@
 Rang: 1811
 Lemma: 国内
 Lesung: こくない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: inländisch, heimisch
-Beispielsatz: 彼の国内政策は批判されている。
-Beispielsatz-Lesung: 彼[か]の 国[くに] 内[ない] 政策[せいさく]は 批判[ひはん]されている。
-Beispielsatz-Übersetzung: Seine Innenpolitik steht in der Kritik.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の国内政策は批判されている。
+  彼[か]の 国[くに] 内[ない] 政策[せいさく]は 批判[ひはん]されている。
+  Seine Innenpolitik steht in der Kritik.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

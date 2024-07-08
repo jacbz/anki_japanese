@@ -1,13 +1,24 @@
 Rang: 4620
 Lemma: 分離
 Lesung: ぶんり
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Trennung, Ablösung; trennen, ablösen
 Extra: （する）
 Wortart: n. v.
-Definition: Trennung, Ablösung; trennen, ablösen
-Beispielsatz: ドレッシングの油は分離します。
-Beispielsatz-Lesung: ドレッシングの 油[あぶら]は 分離[ぶんり]します。
-Beispielsatz-Übersetzung: Das Öl im Salatdressing trennt sich von den anderen Zutaten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドレッシングの油は分離します。
+  ドレッシングの 油[あぶら]は 分離[ぶんり]します。
+  Das Öl im Salatdressing trennt sich von den anderen Zutaten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

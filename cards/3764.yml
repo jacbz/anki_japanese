@@ -1,13 +1,24 @@
 Rang: 3764
 Lemma: スーツ
-Lesung: スーツ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Anzug
-Beispielsatz: あの黒いスーツを着ている人が山田さんです。
-Beispielsatz-Lesung: あの 黒[くろ]いスーツを 着[き]ている人が 山田[やまだ]さんです。
-Beispielsatz-Übersetzung: Der Mann in einem schwarzen Anzug ist Herr Yamada.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの黒いスーツを着ている人が山田さんです。
+  あの 黒[くろ]いスーツを 着[き]ている人が 山田[やまだ]さんです。
+  Der Mann in einem schwarzen Anzug ist Herr Yamada.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

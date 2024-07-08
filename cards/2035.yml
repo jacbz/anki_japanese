@@ -1,13 +1,24 @@
 Rang: 2035
 Lemma: 経過
 Lesung: けいか
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Verlauf; fortschreiten
 Extra: （する）
 Wortart: n. v.
-Definition: Verlauf; fortschreiten
-Beispielsatz: 試合開始から十分が経過しました。
-Beispielsatz-Lesung: 試合開始[しあいかいし]から十 分[ふん]が 経過[けいか]しました。
-Beispielsatz-Übersetzung: Zehn Minuten sind seit Beginn des Spiels vergangen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  試合開始から十分が経過しました。
+  試合開始[しあいかいし]から十 分[ふん]が 経過[けいか]しました。
+  Zehn Minuten sind seit Beginn des Spiels vergangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

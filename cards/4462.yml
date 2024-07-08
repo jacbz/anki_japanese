@@ -1,13 +1,27 @@
 Rang: 4462
 Lemma: 遠慮
 Lesung: えんりょ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: zurückhalten, zögern
 Extra: （する）
 Wortart: n. v.
-Definition: zurückhalten, zögern
-Beispielsatz: 何かあったら遠慮せずに電話してください。
-Beispielsatz-Lesung: 何[なに]かあったら 遠慮[えんりょ]せずに 電話[でんわ]してください。
-Beispielsatz-Übersetzung: Zögern Sie nicht, mich anzurufen, wenn Sie Probleme haben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何かあったら遠慮せずに電話してください。
+  何[なに]かあったら 遠慮[えんりょ]せずに 電話[でんわ]してください。
+  Zögern Sie nicht, mich anzurufen, wenn Sie Probleme haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

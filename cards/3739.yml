@@ -1,13 +1,24 @@
 Rang: 3739
 Lemma: お盆
 Lesung: (お)ーぼん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Obon-Fest
-Beispielsatz: 毎年八月のお盆の期間中は駅がたくさんの人で混雑する。
-Beispielsatz-Lesung: 毎年[まいとし] 八月[はちがつ]のお 盆[ぼん]の 期間中[きかんちゅう]は 駅[えき]がたくさんの人で 混雑[こんざつ]する。
-Beispielsatz-Übersetzung: Jedes Jahr zu Obon im August sind die Bahnhöfe überfüllt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎年八月のお盆の期間中は駅がたくさんの人で混雑する。
+  毎年[まいとし] 八月[はちがつ]のお 盆[ぼん]の 期間中[きかんちゅう]は 駅[えき]がたくさんの人で 混雑[こんざつ]する。
+  Jedes Jahr zu Obon im August sind die Bahnhöfe überfüllt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

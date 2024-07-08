@@ -1,13 +1,24 @@
 Rang: 3314
 Lemma: アイデア
-Lesung: アイデア
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Idee
-Beispielsatz: いいアイデアがなかなか浮かばない。
-Beispielsatz-Lesung: いいアイデアがなかなか 浮[う]かばない。
-Beispielsatz-Übersetzung: Mir fällt nicht so leicht eine gute Idee ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いいアイデアがなかなか浮かばない。
+  いいアイデアがなかなか 浮[う]かばない。
+  Mir fällt nicht so leicht eine gute Idee ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

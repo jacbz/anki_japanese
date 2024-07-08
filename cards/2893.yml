@@ -1,13 +1,24 @@
 Rang: 2893
 Lemma: レース
-Lesung: レース
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Rennen
-Beispielsatz: マラソンレースに参加する。
-Beispielsatz-Lesung: マラソンレースに 参加[さんか]する。
-Beispielsatz-Übersetzung: Ich werde an einem Marathonlauf teilnehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  マラソンレースに参加する。
+  マラソンレースに 参加[さんか]する。
+  Ich werde an einem Marathonlauf teilnehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

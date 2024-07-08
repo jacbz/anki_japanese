@@ -1,13 +1,27 @@
 Rang: 209
 Lemma: 間
 Lesung: あいだ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Entfernung; Zeitraum
-Beispielsatz: 彼女とは長い間会っていない。
-Beispielsatz-Lesung: 彼女[かのじょ]とは 長[なが]い 間[あいだ] 会[あ]っていない。
-Beispielsatz-Übersetzung: Ich habe sie schon lange nicht mehr gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">だ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女とは長い間会っていない。
+  彼女[かのじょ]とは 長[なが]い 間[あいだ] 会[あ]っていない。
+  Ich habe sie schon lange nicht mehr gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

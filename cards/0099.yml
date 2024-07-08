@@ -1,13 +1,26 @@
 Rang: 99
 Lemma: 出る
 Lesung: でる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: herausgehen
-Beispielsatz: 私は部屋から出た。
-Beispielsatz-Lesung: 私[わたし]は 部屋[へや]から 出[で]た。
-Beispielsatz-Übersetzung: Ich bin aus dem Zimmer herausgegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">で</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は部屋から出た。
+  私[わたし]は 部屋[へや]から 出[で]た。
+  Ich bin aus dem Zimmer herausgegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: intransitiv

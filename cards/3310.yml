@@ -1,13 +1,24 @@
 Rang: 3310
 Lemma: 拒否
 Lesung: きょひ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ablehnung; ablehnen, zurückweisen
 Extra: （する）
 Wortart: n. v.
-Definition: Ablehnung; ablehnen, zurückweisen
-Beispielsatz: 彼はその申し出を強く拒否した。
-Beispielsatz-Lesung: 彼[かれ]はその 申[もう]し 出[で]を 強[つよ]く 拒否[きょひ]した。
-Beispielsatz-Übersetzung: Er hat den Vorschlag energisch abgelehnt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はその申し出を強く拒否した。
+  彼[かれ]はその 申[もう]し 出[で]を 強[つよ]く 拒否[きょひ]した。
+  Er hat den Vorschlag energisch abgelehnt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2432
 Lemma: 発する
 Lesung: はっする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ausstoßen, freisetzen
-Beispielsatz: 地震速報が発せられた。
-Beispielsatz-Lesung: 地震[じしん] 速報[そくほう]が 発[はっ]せられた。
-Beispielsatz-Übersetzung: Eine Erdbebenwarnung wurde ausgestellt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地震速報が発せられた。
+  地震[じしん] 速報[そくほう]が 発[はっ]せられた。
+  Eine Erdbebenwarnung wurde ausgestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

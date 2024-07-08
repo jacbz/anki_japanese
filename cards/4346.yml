@@ -1,13 +1,28 @@
 Rang: 4346
 Lemma: 克服
 Lesung: こくふく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: überwinden, besiegen
 Extra: （する）
 Wortart: n. v.
-Definition: überwinden, besiegen
-Beispielsatz: 彼女は食べ物の好き嫌いを克服した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 食[た]べ 物[もの]の 好[す]き 嫌[きら]いを 克服[こくふく]した。
-Beispielsatz-Übersetzung: Sie hat ihre Vorlieben und Abneigungen gegenüber Essen überwunden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は食べ物の好き嫌いを克服した。
+  彼女[かのじょ]は 食[た]べ 物[もの]の 好[す]き 嫌[きら]いを 克服[こくふく]した。
+  Sie hat ihre Vorlieben und Abneigungen gegenüber Essen überwunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

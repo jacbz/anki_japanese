@@ -1,13 +1,24 @@
 Rang: 4698
 Lemma: やがる
-Lesung: やがる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: VERB-SUFFIX (vulgär)
-Beispielsatz: 彼は馬鹿なことを言いやがる。
-Beispielsatz-Lesung: 彼[かれ]は 馬鹿[ばか]なことを 言[げん]いやがる。
-Beispielsatz-Übersetzung: Er sagt dumme Dinge.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '60'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は馬鹿なことを言いやがる。
+  彼[かれ]は 馬鹿[ばか]なことを 言[げん]いやがる。
+  Er sagt dumme Dinge.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

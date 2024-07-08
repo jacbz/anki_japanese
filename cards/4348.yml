@@ -1,13 +1,24 @@
 Rang: 4348
 Lemma: 六十歳
 Lesung: ろくじゅっさい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sechzig Jahre alt
-Beispielsatz: 彼は六十歳で定年を迎えた。
-Beispielsatz-Lesung: 彼[かれ]は六十 歳[さい]で 定年[ていねん]を 迎[むか]えた。
-Beispielsatz-Übersetzung: Er ging mit sechzig Jahren in Rente.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は六十歳で定年を迎えた。
+  彼[かれ]は六十 歳[さい]で 定年[ていねん]を 迎[むか]えた。
+  Er ging mit sechzig Jahren in Rente.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

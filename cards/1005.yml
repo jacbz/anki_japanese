@@ -1,13 +1,26 @@
 Rang: 1005
 Lemma: 文字
 Lesung: もじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Buchstabe, Zeichen, Schrift
-Beispielsatz: 世界には文字を持たない言語も多くある。
-Beispielsatz-Lesung: 世界[せかい]には 文字[もじ]を 持[も]たない 言語[げんご]も 多[おお]くある。
-Beispielsatz-Übersetzung: Es gibt viele Sprachen auf der Welt, die keine Schrift haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">も</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界には文字を持たない言語も多くある。
+  世界[せかい]には 文字[もじ]を 持[も]たない 言語[げんご]も 多[おお]くある。
+  Es gibt viele Sprachen auf der Welt, die keine Schrift haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

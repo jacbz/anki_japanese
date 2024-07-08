@@ -1,13 +1,24 @@
 Rang: 2948
 Lemma: こいつ
-Lesung: こいつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dieser Typ; dieses Ding
-Beispielsatz: こいつは駄目だ。
-Beispielsatz-Lesung: こいつは 駄目[だめ]だ。
-Beispielsatz-Übersetzung: Dieser Kerl ist nicht gut.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こいつは駄目だ。
+  こいつは 駄目[だめ]だ。
+  Dieser Kerl ist nicht gut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

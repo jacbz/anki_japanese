@@ -1,13 +1,26 @@
 Rang: 2038
 Lemma: 西
 Lesung: にし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Westen
-Beispielsatz: その町は東京の西にある。
-Beispielsatz-Lesung: その 町[まち]は 東京[とうきょう]の 西[にし]にある。
-Beispielsatz-Übersetzung: Die Stadt befindet sich im Westen von Tokio.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その町は東京の西にある。
+  その 町[まち]は 東京[とうきょう]の 西[にし]にある。
+  Die Stadt befindet sich im Westen von Tokio.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

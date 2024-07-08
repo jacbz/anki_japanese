@@ -1,13 +1,24 @@
 Rang: 4621
 Lemma: 日常的
 Lesung: にちじょうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: alltäglich
-Beispielsatz: これは日常的に飲まれるお茶です。
-Beispielsatz-Lesung: これは 日常的[にちじょうてき]に 飲[の]まれるお 茶[ちゃ]です。
-Beispielsatz-Übersetzung: Dies ist ein alltäglich getrunkener Tee.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは日常的に飲まれるお茶です。
+  これは 日常的[にちじょうてき]に 飲[の]まれるお 茶[ちゃ]です。
+  Dies ist ein alltäglich getrunkener Tee.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

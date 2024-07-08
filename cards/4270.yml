@@ -1,13 +1,24 @@
 Rang: 4270
 Lemma: 破綻
 Lesung: はたん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bankrott, Zusammenbruch; scheitern, bankrott gehen
 Extra: （する）
 Wortart: n. v.
-Definition: Bankrott, Zusammenbruch; scheitern, bankrott gehen
-Beispielsatz: 国の財政は破綻寸前である。
-Beispielsatz-Lesung: 国[くに]の 財政[ざいせい]は 破綻[はたん] 寸前[すんぜん]である。
-Beispielsatz-Übersetzung: Die Finanzen des Landes stehen kurz vor dem Zusammenbruch.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国の財政は破綻寸前である。
+  国[くに]の 財政[ざいせい]は 破綻[はたん] 寸前[すんぜん]である。
+  Die Finanzen des Landes stehen kurz vor dem Zusammenbruch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

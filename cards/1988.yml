@@ -1,13 +1,27 @@
 Rang: 1988
 Lemma: 要素
 Lesung: ようそ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Element, Faktor
-Beispielsatz: 睡眠は健康のための重要な要素である。
-Beispielsatz-Lesung: 睡眠[すいみん]は 健康[けんこう]のための 重要[じゅうよう]な 要素[ようそ]である。
-Beispielsatz-Übersetzung: Schlafen ist ein wichtiger Faktor für die Gesundheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">よ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">そ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  睡眠は健康のための重要な要素である。
+  睡眠[すいみん]は 健康[けんこう]のための 重要[じゅうよう]な 要素[ようそ]である。
+  Schlafen ist ein wichtiger Faktor für die Gesundheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

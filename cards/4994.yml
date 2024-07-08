@@ -1,13 +1,24 @@
 Rang: 4994
 Lemma: 気楽
 Lesung: きらく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: gemütlich, locker, unbeschwert
-Beispielsatz: 彼女は気楽に話ができる友達だ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 気楽[きらく]に 話[はなし]ができる 友達[ともだち]だ。
-Beispielsatz-Übersetzung: Sie ist eine Freundin, mit der ich unbeschwert reden kann.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は気楽に話ができる友達だ。
+  彼女[かのじょ]は 気楽[きらく]に 話[はなし]ができる 友達[ともだち]だ。
+  Sie ist eine Freundin, mit der ich unbeschwert reden kann.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

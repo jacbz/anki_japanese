@@ -1,13 +1,24 @@
 Rang: 1311
 Lemma: 何人
 Lesung: なんーにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wie viele Personen
-Beispielsatz: ご家族は何人ですか。
-Beispielsatz-Lesung: ご 家族[かぞく]は 何[なん]人ですか。
-Beispielsatz-Übersetzung: Wie viele Personen gibt es in Ihrer Familie?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ご家族は何人ですか。
+  ご 家族[かぞく]は 何[なん]人ですか。
+  Wie viele Personen gibt es in Ihrer Familie?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

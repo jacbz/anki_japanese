@@ -1,14 +1,24 @@
 Rang: 3592
 Lemma: 二十二
 Lesung: にじゅうに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: zweiundzwanzig
-Beispielsatz: 普通二十二で大学を卒業する。
-Beispielsatz-Lesung: 普通[ふつう]二十二で 大学[だいがく]を 卒業[そつぎょう]する。
-Beispielsatz-Übersetzung: Sie schließen normalerweise ihr Studium im Alter von zweiundzwanzig
-  Jahren ab.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  普通二十二で大学を卒業する。
+  普通[ふつう]二十二で 大学[だいがく]を 卒業[そつぎょう]する。
+  Sie schließen normalerweise ihr Studium im Alter von zweiundzwanzig Jahren ab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4535
 Lemma: いささか
-Lesung: いささか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ein bisschen, leicht, eher
-Beispielsatz: 祖父はいささか気難しい。
-Beispielsatz-Lesung: 祖父[そふ]はいささか 気難[きむずか]しい。
-Beispielsatz-Übersetzung: Mein Großvater ist eher schwierig zufriedenzustellen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祖父はいささか気難しい。
+  祖父[そふ]はいささか 気難[きむずか]しい。
+  Mein Großvater ist eher schwierig zufriedenzustellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

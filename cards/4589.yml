@@ -1,13 +1,24 @@
 Rang: 4589
 Lemma: 合図
 Lesung: あいず
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Signal geben, Zeichen geben; signalisieren, zeichnen
 Extra: （する）
 Wortart: n. v.
-Definition: Signal geben, Zeichen geben; signalisieren, zeichnen
-Beispielsatz: 彼女は学生に手を上げろと合図した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 学生[がくせい]に 手[て]を 上[あ]げろと 合図[あいず]した。
-Beispielsatz-Übersetzung: Sie gab den Schülern ein Zeichen, ihre Hände zu heben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は学生に手を上げろと合図した。
+  彼女[かのじょ]は 学生[がくせい]に 手[て]を 上[あ]げろと 合図[あいず]した。
+  Sie gab den Schülern ein Zeichen, ihre Hände zu heben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

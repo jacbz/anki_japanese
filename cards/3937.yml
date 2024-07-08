@@ -1,13 +1,26 @@
 Rang: 3937
 Lemma: 円
 Lesung: えん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Yen
-Beispielsatz: 空港で円をドルに替えた。
-Beispielsatz-Lesung: 空港[くうこう]で 円[えん]をドルに 替[か]えた。
-Beispielsatz-Übersetzung: Ich habe am Flughafen Yen in Dollar umgetauscht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">え</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  空港で円をドルに替えた。
+  空港[くうこう]で 円[えん]をドルに 替[か]えた。
+  Ich habe am Flughafen Yen in Dollar umgetauscht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

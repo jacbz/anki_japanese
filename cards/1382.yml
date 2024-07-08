@@ -1,13 +1,26 @@
 Rang: 1382
 Lemma: 汗
 Lesung: あせ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schweiß
-Beispielsatz: 彼は顔の汗をぬぐった。
-Beispielsatz-Lesung: 彼[かれ]は 顔[かお]の 汗[あせ]をぬぐった。
-Beispielsatz-Übersetzung: Er wischte sich den Schweiß vom Gesicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">あ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">せ</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は顔の汗をぬぐった。
+  彼[かれ]は 顔[かお]の 汗[あせ]をぬぐった。
+  Er wischte sich den Schweiß vom Gesicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

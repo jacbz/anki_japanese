@@ -1,13 +1,28 @@
 Rang: 1467
 Lemma: 分かれる
 Lesung: わかれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: teilen, spalten, trennen
-Beispielsatz: その問題については意見が分かれると思う。
-Beispielsatz-Lesung: その 問題[もんだい]については 意見[いけん]が 分[わ]かれると 思[おも]う。
-Beispielsatz-Übersetzung: Ich denke, dass Meinungen zu diesem Thema geteilt sein werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その問題については意見が分かれると思う。
+  その 問題[もんだい]については 意見[いけん]が 分[わ]かれると 思[おも]う。
+  Ich denke, dass Meinungen zu diesem Thema geteilt sein werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

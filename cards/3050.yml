@@ -1,13 +1,27 @@
 Rang: 3050
 Lemma: 勤務
 Lesung: きんむ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Dienst leisten, arbeiten; arbeiten, dienen
 Extra: （する）
 Wortart: n. v.
-Definition: Dienst leisten, arbeiten; arbeiten, dienen
-Beispielsatz: 父は勤務中に倒れた。
-Beispielsatz-Lesung: 父[ちち]は 勤務中[きんむちゅう]に 倒[たお]れた。
-Beispielsatz-Übersetzung: Mein Vater ist während seiner Arbeit zusammengebrochen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父は勤務中に倒れた。
+  父[ちち]は 勤務中[きんむちゅう]に 倒[たお]れた。
+  Mein Vater ist während seiner Arbeit zusammengebrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

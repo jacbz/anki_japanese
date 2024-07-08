@@ -1,14 +1,24 @@
 Rang: 969
 Lemma: たび
-Lesung: たび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedes Mal
-Beispielsatz: この写真を見るたびにあなたを思い出す。
-Beispielsatz-Lesung: この 写真[しゃしん]を 見[み]るたびにあなたを 思[おも]い 出[だ]す。
-Beispielsatz-Übersetzung: Jedes Mal, wenn ich dieses Foto anschaue, werde ich an dich
-  denken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この写真を見るたびにあなたを思い出す。
+  この 写真[しゃしん]を 見[み]るたびにあなたを 思[おも]い 出[だ]す。
+  Jedes Mal, wenn ich dieses Foto anschaue, werde ich an dich denken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

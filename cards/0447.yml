@@ -1,14 +1,26 @@
 Rang: 447
 Lemma: 逆
 Lesung: ぎゃく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., na-adj.
+Alternativschreibweisen: ''
 Definition: entgegengesetzt, gegenüberliegend
-Beispielsatz: 予想とは逆の結果が出た。
-Beispielsatz-Lesung: 予想[よそう]とは 逆[ぎゃく]の 結果[けっか]が 出[で]た。
-Beispielsatz-Übersetzung: Das Ergebnis war das Gegenteil von dem, was wir erwartet
-  hatten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ぎ</span><span class="char">ゃ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  予想とは逆の結果が出た。
+  予想[よそう]とは 逆[ぎゃく]の 結果[けっか]が 出[で]た。
+  Das Ergebnis war das Gegenteil von dem, was wir erwartet hatten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

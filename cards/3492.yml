@@ -1,13 +1,24 @@
 Rang: 3492
 Lemma: カフェ
-Lesung: カフェ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Café
-Beispielsatz: 友達とカフェでコーヒーを飲んだ。
-Beispielsatz-Lesung: 友達[ともだち]とカフェでコーヒーを 飲[の]んだ。
-Beispielsatz-Übersetzung: Ich habe mit einem Freund in einem Café Kaffee getrunken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達とカフェでコーヒーを飲んだ。
+  友達[ともだち]とカフェでコーヒーを 飲[の]んだ。
+  Ich habe mit einem Freund in einem Café Kaffee getrunken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

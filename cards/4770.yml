@@ -1,13 +1,24 @@
 Rang: 4770
 Lemma: 川崎
 Lesung: かわさき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kawasaki
-Beispielsatz: 川崎には工場が多い。
-Beispielsatz-Lesung: 川崎[かわさき]には 工場[こうじょう]が 多[おお]い。
-Beispielsatz-Übersetzung: Es gibt viele Fabriken in Kawasaki.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  川崎には工場が多い。
+  川崎[かわさき]には 工場[こうじょう]が 多[おお]い。
+  Es gibt viele Fabriken in Kawasaki.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

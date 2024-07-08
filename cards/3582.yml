@@ -1,13 +1,24 @@
 Rang: 3582
 Lemma: 千葉
 Lesung: ちば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Chiba
-Beispielsatz: 東京ディズニーランドは千葉にある。
-Beispielsatz-Lesung: 東京[とうきょう]ディズニーランドは 千葉[ちば]にある。
-Beispielsatz-Übersetzung: Tokyo Disneyland befindet sich in Chiba.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東京ディズニーランドは千葉にある。
+  東京[とうきょう]ディズニーランドは 千葉[ちば]にある。
+  Tokyo Disneyland befindet sich in Chiba.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

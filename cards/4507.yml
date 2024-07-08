@@ -1,13 +1,28 @@
 Rang: 4507
 Lemma: 条約
 Lesung: じょうやく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vertrag, Abkommen
-Beispielsatz: 我が国は隣国と条約を結んだ。
-Beispielsatz-Lesung: 我[わ]が 国[くに]は 隣国[りんごく]と 条約[じょうやく]を 結[むす]んだ。
-Beispielsatz-Übersetzung: Unser Land hat einen Vertrag mit dem Nachbarland geschlossen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">や</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我が国は隣国と条約を結んだ。
+  我[わ]が 国[くに]は 隣国[りんごく]と 条約[じょうやく]を 結[むす]んだ。
+  Unser Land hat einen Vertrag mit dem Nachbarland geschlossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

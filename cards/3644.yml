@@ -1,13 +1,24 @@
 Rang: 3644
 Lemma: お仕舞い
 Lesung: おしまい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ende, Abschluss
-Beispielsatz: 彼はもうお仕舞いだ。
-Beispielsatz-Lesung: 彼[かれ]はもうお 仕舞[しま]いだ。
-Beispielsatz-Übersetzung: Es ist jetzt alles vorbei mit ihm.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はもうお仕舞いだ。
+  彼[かれ]はもうお 仕舞[しま]いだ。
+  Es ist jetzt alles vorbei mit ihm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

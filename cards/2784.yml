@@ -1,13 +1,24 @@
 Rang: 2784
 Lemma: 陰
 Lesung: かげ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schatten; hinter jemandes Rücken
-Beispielsatz: 陰で悪口を言うな。
-Beispielsatz-Lesung: 陰[かげ]で 悪口[わるぐち]を 言[い]うな。
-Beispielsatz-Übersetzung: Sprich nicht schlecht über andere hinter ihrem Rücken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  陰で悪口を言うな。
+  陰[かげ]で 悪口[わるぐち]を 言[い]うな。
+  Sprich nicht schlecht über andere hinter ihrem Rücken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3164
 Lemma: 十九日
 Lesung: じゅうくにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: der neunzehnte (Tag); neunzehn Tage
-Beispielsatz: 出産予定は今月の19日です。
-Beispielsatz-Lesung: 出産[しゅっさん] 予定[よてい]は 今月[こんげつ]の19 日[にち]です。
-Beispielsatz-Übersetzung: Der geplante Tag ist der neunzehnte dieses Monats.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '44'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  出産予定は今月の19日です。
+  出産[しゅっさん] 予定[よてい]は 今月[こんげつ]の19 日[にち]です。
+  Der geplante Tag ist der neunzehnte dieses Monats.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

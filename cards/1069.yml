@@ -1,13 +1,27 @@
 Rang: 1069
 Lemma: 渡る
 Lesung: わたる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: überqueren, hinübergehen
-Beispielsatz: 通りを渡るときは注意しなさい。
-Beispielsatz-Lesung: 通[とお]りを 渡[わた]るときは 注意[ちゅうい]しなさい。
-Beispielsatz-Übersetzung: Du musst vorsichtig sein, wenn du die Straße überquerst.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  通りを渡るときは注意しなさい。
+  通[とお]りを 渡[わた]るときは 注意[ちゅうい]しなさい。
+  Du musst vorsichtig sein, wenn du die Straße überquerst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

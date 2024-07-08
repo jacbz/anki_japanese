@@ -1,13 +1,28 @@
 Rang: 3534
 Lemma: 概要
 Lesung: がいよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Überblick, Zusammenfassung
-Beispielsatz: 新制度の概要をご説明します。
-Beispielsatz-Lesung: 新制度[しんせいど]の 概要[がいよう]をご 説明[せつめい]します。
-Beispielsatz-Übersetzung: Ich werde einen Überblick über das neue Programm geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新制度の概要をご説明します。
+  新制度[しんせいど]の 概要[がいよう]をご 説明[せつめい]します。
+  Ich werde einen Überblick über das neue Programm geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

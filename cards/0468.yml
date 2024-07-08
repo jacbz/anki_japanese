@@ -1,13 +1,28 @@
 Rang: 468
 Lemma: 影響
 Lesung: えいきょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einfluss; beeinflussen
 Extra: （する）
 Wortart: n. v.
-Definition: Einfluss; beeinflussen
-Beispielsatz: 彼の作品はピカソの影響を強く受けている。
-Beispielsatz-Lesung: 彼[かれ]の 作品[さくひん]はピカソの 影響[えいきょう]を 強[つよ]く 受[う]けている。
-Beispielsatz-Übersetzung: Seine Werke sind stark von Picasso beeinflusst.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の作品はピカソの影響を強く受けている。
+  彼[かれ]の 作品[さくひん]はピカソの 影響[えいきょう]を 強[つよ]く 受[う]けている。
+  Seine Werke sind stark von Picasso beeinflusst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

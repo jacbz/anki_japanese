@@ -1,13 +1,24 @@
 Rang: 2150
 Lemma: たって
-Lesung: たって
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: selbst wenn
-Beispielsatz: 走ったって間に合わない。
-Beispielsatz-Lesung: 走[はし]ったって 間[ま]に 合[あ]わない。
-Beispielsatz-Übersetzung: Selbst wenn du rennst, wirst du es nicht schaffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  走ったって間に合わない。
+  走[はし]ったって 間[ま]に 合[あ]わない。
+  Selbst wenn du rennst, wirst du es nicht schaffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

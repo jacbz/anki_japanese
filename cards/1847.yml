@@ -1,13 +1,24 @@
 Rang: 1847
 Lemma: バイク
-Lesung: バイク
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Motorrad
-Beispielsatz: 私はバイクに乗れない。
-Beispielsatz-Lesung: 私[わたし]はバイクに 乗[の]れない。
-Beispielsatz-Übersetzung: Ich kann kein Motorrad fahren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はバイクに乗れない。
+  私[わたし]はバイクに 乗[の]れない。
+  Ich kann kein Motorrad fahren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

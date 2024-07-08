@@ -1,13 +1,27 @@
 Rang: 2213
 Lemma: 削る
 Lesung: けずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sparen; schärfen, hobeln
-Beispielsatz: 鉛筆を削ってください。
-Beispielsatz-Lesung: 鉛筆[えんぴつ]を 削[けず]ってください。
-Beispielsatz-Übersetzung: Bitte spitze mir einen Bleistift an.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  鉛筆を削ってください。
+  鉛筆[えんぴつ]を 削[けず]ってください。
+  Bitte spitze mir einen Bleistift an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

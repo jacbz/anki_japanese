@@ -1,13 +1,24 @@
 Rang: 4866
 Lemma: 物件
 Lesung: ぶっけん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Immobilie, Objekt
-Beispielsatz: 彼は手頃な物件を探している。
-Beispielsatz-Lesung: 彼[かれ]は 手頃[てごろ]な 物件[ぶっけん]を 探[さが]している。
-Beispielsatz-Übersetzung: Er sucht nach einer erschwinglichen Immobilie.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は手頃な物件を探している。
+  彼[かれ]は 手頃[てごろ]な 物件[ぶっけん]を 探[さが]している。
+  Er sucht nach einer erschwinglichen Immobilie.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

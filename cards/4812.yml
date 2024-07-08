@@ -1,13 +1,24 @@
 Rang: 4812
 Lemma: 千九百九十九年
 Lesung: せんきゅうはyくきゅうじゅうきゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 1999 (Jahr)
-Beispielsatz: 1999年はいろいろなことがあった。
-Beispielsatz-Lesung: 1999 年[ねん]はいろいろなことがあった。
-Beispielsatz-Übersetzung: Im Jahr 1999 sind so viele Dinge passiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  1999年はいろいろなことがあった。
+  1999 年[ねん]はいろいろなことがあった。
+  Im Jahr 1999 sind so viele Dinge passiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 3207
 Lemma: 演劇
 Lesung: えんげき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Theaterstück, Drama
-Beispielsatz: 今週末、演劇を見に行く。
-Beispielsatz-Lesung: 今週末[こんしゅうまつ]、 演劇[えんげき]を 見[み]に 行[い]く。
-Beispielsatz-Übersetzung: Ich werde dieses Wochenende ein Theaterstück sehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今週末、演劇を見に行く。
+  今週末[こんしゅうまつ]、 演劇[えんげき]を 見[み]に 行[い]く。
+  Ich werde dieses Wochenende ein Theaterstück sehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

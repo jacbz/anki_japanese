@@ -1,13 +1,27 @@
 Rang: 2069
 Lemma: かぶる
-Lesung: かぶる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: aufsetzen, bedecken
-Beispielsatz: 外に出るなら帽子をかぶりなさい。
-Beispielsatz-Lesung: 外[そと]に 出[で]るなら 帽子[ぼうし]をかぶりなさい。
-Beispielsatz-Übersetzung: Setze deine Mütze auf, wenn du nach draußen gehst.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  外に出るなら帽子をかぶりなさい。
+  外[そと]に 出[で]るなら 帽子[ぼうし]をかぶりなさい。
+  Setze deine Mütze auf, wenn du nach draußen gehst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

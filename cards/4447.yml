@@ -1,13 +1,24 @@
 Rang: 4447
 Lemma: ふっと
-Lesung: ふっと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: plötzlich
-Beispielsatz: 彼がふっと現れたのでびっくりした。
-Beispielsatz-Lesung: 彼[かれ]がふっと 現[あらわ]れたのでびっくりした。
-Beispielsatz-Übersetzung: Ich war überrascht, dass er plötzlich erschien.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼がふっと現れたのでびっくりした。
+  彼[かれ]がふっと 現[あらわ]れたのでびっくりした。
+  Ich war überrascht, dass er plötzlich erschien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

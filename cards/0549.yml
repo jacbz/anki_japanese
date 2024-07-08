@@ -1,13 +1,24 @@
 Rang: 549
 Lemma: ずつ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Alternativschreibweisen: ''
 Definition: 'jeweils, pro '
-Beispielsatz: 母親は子供にキャンディを一つずつあげた。
-Beispielsatz-Lesung: 母親[ははおや]は 子供[こども]にキャンディを 一[ひと]つずつあげた。
-Beispielsatz-Übersetzung: Die Mutter gab ihren Kindern jeweils eine Süßigkeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母親は子供にキャンディを一つずつあげた。
+  母親[ははおや]は 子供[こども]にキャンディを 一[ひと]つずつあげた。
+  Die Mutter gab ihren Kindern jeweils eine Süßigkeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

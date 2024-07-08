@@ -1,13 +1,24 @@
 Rang: 1331
 Lemma: あらゆる
-Lesung: あらゆる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jeder, alle, irgendein
-Beispielsatz: 兄と僕はあらゆる点で違う。
-Beispielsatz-Lesung: 兄[あに]と 僕[ぼく]はあらゆる 点[てん]で 違[ちが]う。
-Beispielsatz-Übersetzung: Mein älterer Bruder und ich unterscheiden uns in jeder Hinsicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  兄と僕はあらゆる点で違う。
+  兄[あに]と 僕[ぼく]はあらゆる 点[てん]で 違[ちが]う。
+  Mein älterer Bruder und ich unterscheiden uns in jeder Hinsicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

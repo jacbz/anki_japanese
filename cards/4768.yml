@@ -1,13 +1,24 @@
 Rang: 4768
 Lemma: 変換
 Lesung: へんかん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: umwandeln, konvertieren
 Extra: （する）
 Wortart: n. v.
-Definition: umwandeln, konvertieren
-Beispielsatz: 仮名を漢字に変換した。
-Beispielsatz-Lesung: 仮名[かめい]を 漢字[かんじ]に 変換[へんかん]した。
-Beispielsatz-Übersetzung: Ich habe Kana-Zeichen in Kanji-Zeichen umgewandelt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  仮名を漢字に変換した。
+  仮名[かめい]を 漢字[かんじ]に 変換[へんかん]した。
+  Ich habe Kana-Zeichen in Kanji-Zeichen umgewandelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

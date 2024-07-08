@@ -1,14 +1,24 @@
 Rang: 3946
 Lemma: プレッシャー
-Lesung: プレッシャー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Druck
-Beispielsatz: 正直に話すようにプレッシャーをかけた。
-Beispielsatz-Lesung: 正直[しょうじき]に 話[はな]すようにプレッシャーをかけた。
-Beispielsatz-Übersetzung: Ich habe ihn unter Druck gesetzt, damit er die Wahrheit
-  sagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  正直に話すようにプレッシャーをかけた。
+  正直[しょうじき]に 話[はな]すようにプレッシャーをかけた。
+  Ich habe ihn unter Druck gesetzt, damit er die Wahrheit sagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

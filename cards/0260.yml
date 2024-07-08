@@ -1,13 +1,24 @@
 Rang: 260
 Lemma: もちろん
-Lesung: もちろん
-Alternative: 勿論
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: 勿論
 Definition: selbstverständlich
-Beispielsatz: 喫煙が体に悪いことはもちろん知っています。
-Beispielsatz-Lesung: 喫煙[きつえん]が 体[からだ]に 悪[わる]いことはもちろん 知[し]っています。
-Beispielsatz-Übersetzung: Natürlich weiß ich, dass Rauchen ungesund ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  喫煙が体に悪いことはもちろん知っています。
+  喫煙[きつえん]が 体[からだ]に 悪[わる]いことはもちろん 知[し]っています。
+  Natürlich weiß ich, dass Rauchen ungesund ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4378
 Lemma: ライター
-Lesung: ライター
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Feuerzeug
-Beispielsatz: ライターを持っていますか。
-Beispielsatz-Lesung: ライターを 持[も]っていますか。
-Beispielsatz-Übersetzung: Hast du ein Feuerzeug?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ライターを持っていますか。
+  ライターを 持[も]っていますか。
+  Hast du ein Feuerzeug?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

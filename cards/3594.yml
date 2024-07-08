@@ -1,13 +1,28 @@
 Rang: 3594
 Lemma: 乗り込む
 Lesung: のりこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: einsteigen, betreten
-Beispielsatz: 突然乗り込んできた男が、バスをハイジャックした。
-Beispielsatz-Lesung: 突然[とつぜん] 乗[の]り 込[こ]んできた 男[おとこ]が、バスをハイジャックした。
-Beispielsatz-Übersetzung: Der Mann, der plötzlich eingebrochen war, hat den Bus entführt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  突然乗り込んできた男が、バスをハイジャックした。
+  突然[とつぜん] 乗[の]り 込[こ]んできた 男[おとこ]が、バスをハイジャックした。
+  Der Mann, der plötzlich eingebrochen war, hat den Bus entführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

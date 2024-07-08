@@ -1,13 +1,28 @@
 Rang: 992
 Lemma: 発表
 Lesung: はっぴょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ankündigung, Veröffentlichung
 Extra: （する）
 Wortart: n. v.
-Definition: Ankündigung, Veröffentlichung
-Beispielsatz: 先ほど選挙の結果が発表されました。
-Beispielsatz-Lesung: 先[さき]ほど 選挙[せんきょ]の 結果[けっか]が 発表[はっぴょう]されました。
-Beispielsatz-Übersetzung: Das Ergebnis der Wahl wurde gerade bekannt gegeben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぴ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  先ほど選挙の結果が発表されました。
+  先[さき]ほど 選挙[せんきょ]の 結果[けっか]が 発表[はっぴょう]されました。
+  Das Ergebnis der Wahl wurde gerade bekannt gegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

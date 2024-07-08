@@ -1,14 +1,24 @@
 Rang: 3643
 Lemma: 急激
 Lesung: きゅうげき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: plötzlich; drastisch
-Beispielsatz: 環境の急激な変化でストレスを感じる。
-Beispielsatz-Lesung: 環境[かんきょう]の 急激[きゅうげき]な 変化[へんか]でストレスを 感[かん]じる。
-Beispielsatz-Übersetzung: Ich fühle mich durch den plötzlichen Wechsel der Umgebung
-  gestresst.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  環境の急激な変化でストレスを感じる。
+  環境[かんきょう]の 急激[きゅうげき]な 変化[へんか]でストレスを 感[かん]じる。
+  Ich fühle mich durch den plötzlichen Wechsel der Umgebung gestresst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

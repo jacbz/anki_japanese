@@ -1,13 +1,28 @@
 Rang: 135
 Lemma: より
-Lesung: より
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
-Definition: als
-Beispielsatz: 東京より大阪のほうが好きです。
-Beispielsatz-Lesung: 東京[とうきょう]より 大阪[おおさか]のほうが 好[す]きです。
-Beispielsatz-Übersetzung: Ich mag Osaka lieber als Tokio.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: als; mehr, besser
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case, adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東京より大阪のほうが好きです。
+  東京[とうきょう]より 大阪[おおさか]のほうが 好[す]きです。
+  Ich mag Osaka lieber als Tokio.
+
+  より充実した人生を送りたい。
+  より 充実[じゅうじつ]した 人生[じんせい]を 送[おく]りたい。
+  Ich möchte das Leben mehr auskosten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

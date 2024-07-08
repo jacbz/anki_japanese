@@ -1,13 +1,29 @@
 Rang: 689
 Lemma: いらっしゃる
-Lesung: いらっしゃる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: kommen, gehen, sein (respektvoll)
-Beispielsatz: 高橋さんがいらっしゃいました。
-Beispielsatz-Lesung: 高橋[たかはし]さんがいらっしゃいました。
-Beispielsatz-Übersetzung: Herr Takahashi ist hier.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゃ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  高橋さんがいらっしゃいました。
+  高橋[たかはし]さんがいらっしゃいました。
+  Herr Takahashi ist hier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

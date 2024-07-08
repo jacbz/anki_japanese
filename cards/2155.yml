@@ -1,13 +1,24 @@
 Rang: 2155
 Lemma: ところで
-Lesung: ところで
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: übrigens, nebenbei
-Beispielsatz: ところで、明日は何か予定がありますか。
-Beispielsatz-Lesung: ところで、 明日[あした]は 何[なに]か 予定[よてい]がありますか。
-Beispielsatz-Übersetzung: Übrigens, hast du morgen irgendwelche Pläne?
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ところで、明日は何か予定がありますか。
+  ところで、 明日[あした]は 何[なに]か 予定[よてい]がありますか。
+  Übrigens, hast du morgen irgendwelche Pläne?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

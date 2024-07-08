@@ -1,14 +1,28 @@
 Rang: 3371
 Lemma: 引き取る
 Lesung: ひきとる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: abholen; zurücknehmen
-Beispielsatz: フロントへ預けた荷物を引き取りに行く。
-Beispielsatz-Lesung: フロントへ 預[あず]けた 荷物[にもつ]を 引[ひ]き 取[と]りに 行[い]く。
-Beispielsatz-Übersetzung: Ich werde zum Empfang gehen, um das Gepäck abzuholen, das
-  ich dort gelassen habe.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  フロントへ預けた荷物を引き取りに行く。
+  フロントへ 預[あず]けた 荷物[にもつ]を 引[ひ]き 取[と]りに 行[い]く。
+  Ich werde zum Empfang gehen, um das Gepäck abzuholen, das ich dort gelassen habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 4820
 Lemma: 仕掛ける
 Lesung: しかける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anfangen, beginnen; einstellen
-Beispielsatz: 私はここに罠を仕掛けた。
-Beispielsatz-Lesung: 私[わたし]はここに 罠[わな]を 仕掛[しか]けた。
-Beispielsatz-Übersetzung: Ich habe hier die Falle eingestellt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はここに罠を仕掛けた。
+  私[わたし]はここに 罠[わな]を 仕掛[しか]けた。
+  Ich habe hier die Falle eingestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

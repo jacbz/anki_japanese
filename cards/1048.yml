@@ -1,13 +1,27 @@
 Rang: 1048
 Lemma: さすが
-Lesung: さすが
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wie erwartet, wie man es erwarten würde
-Beispielsatz: さすが彼は会社のことは何でも知っている。
-Beispielsatz-Lesung: さすが 彼[かれ]は 会社[かいしゃ]のことは 何[なん]でも 知[し]っている。
-Beispielsatz-Übersetzung: Wie erwartet, weiß er alles über das Unternehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">が</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さすが彼は会社のことは何でも知っている。
+  さすが 彼[かれ]は 会社[かいしゃ]のことは 何[なん]でも 知[し]っている。
+  Wie erwartet, weiß er alles über das Unternehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 458
 Lemma: 彼ら
 Lesung: かれら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: sie (pl.)
-Beispielsatz: 彼らは会社の同僚です。
-Beispielsatz-Lesung: 彼[かれ]らは 会社[かいしゃ]の 同僚[どうりょう]です。
-Beispielsatz-Übersetzung: Sie sind Kollegen in meiner Firma.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">れ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ら</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは会社の同僚です。
+  彼[かれ]らは 会社[かいしゃ]の 同僚[どうりょう]です。
+  Sie sind Kollegen in meiner Firma.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

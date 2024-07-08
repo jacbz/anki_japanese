@@ -1,14 +1,24 @@
 Rang: 4030
 Lemma: ユーザー
-Lesung: ユーザー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Benutzer
-Beispielsatz: ここにユーザーのフルネームを入れてください。
-Beispielsatz-Lesung: ここにユーザーのフルネームを 入[い]れてください。
-Beispielsatz-Übersetzung: Bitte geben Sie hier den vollständigen Namen des Benutzers
-  ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここにユーザーのフルネームを入れてください。
+  ここにユーザーのフルネームを 入[い]れてください。
+  Bitte geben Sie hier den vollständigen Namen des Benutzers ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 4747
 Lemma: ハード
-Lesung: ハード
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: hart, straff
-Beispielsatz: 明日からの出張はハードな日程だ。
-Beispielsatz-Lesung: 明日[あした]からの 出張[しゅっちょう]はハードな 日程[にってい]だ。
-Beispielsatz-Übersetzung: Die Geschäftsreise ab morgen wird ein straffer Zeitplan
-  sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日からの出張はハードな日程だ。
+  明日[あした]からの 出張[しゅっちょう]はハードな 日程[にってい]だ。
+  Die Geschäftsreise ab morgen wird ein straffer Zeitplan sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

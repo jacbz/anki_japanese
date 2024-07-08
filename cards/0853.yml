@@ -1,13 +1,26 @@
 Rang: 853
 Lemma: 首
 Lesung: くび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hals, Kopf
-Beispielsatz: 彼女の首は細い。
-Beispielsatz-Lesung: 彼女[かのじょ]の 首[くび]は 細[ほそ]い。
-Beispielsatz-Übersetzung: Sie hat einen schlanken Hals.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の首は細い。
+  彼女[かのじょ]の 首[くび]は 細[ほそ]い。
+  Sie hat einen schlanken Hals.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

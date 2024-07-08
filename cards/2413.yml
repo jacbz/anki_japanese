@@ -1,13 +1,24 @@
 Rang: 2413
 Lemma: プログラム
-Lesung: プログラム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Programm
-Beispielsatz: 新しいプログラムをダウンロードした。
-Beispielsatz-Lesung: 新[あたら]しいプログラムをダウンロードした。
-Beispielsatz-Übersetzung: Ich habe ein neues Programm heruntergeladen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しいプログラムをダウンロードした。
+  新[あたら]しいプログラムをダウンロードした。
+  Ich habe ein neues Programm heruntergeladen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 1142
 Lemma: 瞬間
 Lesung: しゅんかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: Augenblick, Moment
-Beispielsatz: 彼女は私を見た瞬間ほほえんだ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 私[わたし]を 見[み]た 瞬間[しゅんかん]ほほえんだ。
-Beispielsatz-Übersetzung: In dem Moment, als sie mich sah, lächelte sie.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">ん</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">か</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は私を見た瞬間ほほえんだ。
+  彼女[かのじょ]は 私[わたし]を 見[み]た 瞬間[しゅんかん]ほほえんだ。
+  In dem Moment, als sie mich sah, lächelte sie.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

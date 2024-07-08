@@ -1,13 +1,27 @@
 Rang: 1101
 Lemma: 狭い
 Lesung: せまい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: eng, klein
-Beispielsatz: どうやったら狭い部屋を広く見せられるだろう。
-Beispielsatz-Lesung: どうやったら 狭[せま]い 部屋[へや]を 広[ひろ]く 見[み]せられるだろう。
-Beispielsatz-Übersetzung: Wie kann ich mein kleines Zimmer größer aussehen lassen?
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どうやったら狭い部屋を広く見せられるだろう。
+  どうやったら 狭[せま]い 部屋[へや]を 広[ひろ]く 見[み]せられるだろう。
+  Wie kann ich mein kleines Zimmer größer aussehen lassen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

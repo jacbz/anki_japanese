@@ -1,13 +1,26 @@
 Rang: 4488
 Lemma: 壷
 Lesung: つぼ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Topf, Vase
-Beispielsatz: 彼はとても値打ちのある壼を飾っていた。
-Beispielsatz-Lesung: 彼[かれ]はとても 値打[ねう]ちのある 壼[つふ]を 飾[かざ]っていた。
-Beispielsatz-Übersetzung: Er hatte eine sehr wertvolle Vase ausgestellt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぼ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はとても値打ちのある壼を飾っていた。
+  彼[かれ]はとても 値打[ねう]ちのある 壼[つふ]を 飾[かざ]っていた。
+  Er hatte eine sehr wertvolle Vase ausgestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

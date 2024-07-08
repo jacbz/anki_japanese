@@ -1,13 +1,24 @@
 Rang: 3844
 Lemma: シェア
 Lesung: ''
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Marktanteil
 Extra: （する）
 Wortart: n., v.
-Definition: Marktanteil
-Beispielsatz: わが社の製品は市場の80％のシェアを占めている。
-Beispielsatz-Lesung: わが 社[しゃ]の 製品[せいひん]は 市場[しじょう]の80％のシェアを 占[し]めている。
-Beispielsatz-Übersetzung: Unser Produkt hat einen Marktanteil von 80 Prozent.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  わが社の製品は市場の80％のシェアを占めている。
+  わが 社[しゃ]の 製品[せいひん]は 市場[しじょう]の80％のシェアを 占[し]めている。
+  Unser Produkt hat einen Marktanteil von 80 Prozent.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

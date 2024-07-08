@@ -1,13 +1,25 @@
 Rang: 912
 Lemma: 死
 Lesung: し
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Tod
-Beispielsatz: 人々は彼女の死を悲しんだ。
-Beispielsatz-Lesung: 人々[ひとびと]は 彼女[かのじょ]の 死[し]を 悲[かな]しんだ。
-Beispielsatz-Übersetzung: Die Menschen betrauerten ihren Tod.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人々は彼女の死を悲しんだ。
+  人々[ひとびと]は 彼女[かのじょ]の 死[し]を 悲[かな]しんだ。
+  Die Menschen betrauerten ihren Tod.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3301
 Lemma: ねた
 Lesung: ネタ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zutat; Material
-Beispielsatz: このすし屋は新鮮なねたを使っている。
-Beispielsatz-Lesung: このすし 屋[や]は 新鮮[しんせん]なねたを 使[つか]っている。
-Beispielsatz-Übersetzung: Dieses Sushi-Restaurant verwendet frische Zutaten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このすし屋は新鮮なねたを使っている。
+  このすし 屋[や]は 新鮮[しんせん]なねたを 使[つか]っている。
+  Dieses Sushi-Restaurant verwendet frische Zutaten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

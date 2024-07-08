@@ -1,13 +1,24 @@
 Rang: 2297
 Lemma: しかない
-Lesung: しかない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: unvermeidlich, es gibt keine andere Wahl
-Beispielsatz: 今やるしかない。
-Beispielsatz-Lesung: 今[いま]やるしかない。
-Beispielsatz-Übersetzung: Es gibt keine andere Wahl als jetzt zu handeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今やるしかない。
+  今[いま]やるしかない。
+  Es gibt keine andere Wahl als jetzt zu handeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

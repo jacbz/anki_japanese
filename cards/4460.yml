@@ -1,13 +1,24 @@
 Rang: 4460
 Lemma: ドライバー
-Lesung: ドライバー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Fahrer
-Beispielsatz: ドライバーは交通規則を守らなければならない。
-Beispielsatz-Lesung: ドライバーは 交通規則[こうつうきそく]を 守[まも]らなければならない。
-Beispielsatz-Übersetzung: Jeder Fahrer muss sich an die Verkehrsregeln halten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドライバーは交通規則を守らなければならない。
+  ドライバーは 交通規則[こうつうきそく]を 守[まも]らなければならない。
+  Jeder Fahrer muss sich an die Verkehrsregeln halten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

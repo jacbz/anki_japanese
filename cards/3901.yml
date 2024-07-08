@@ -1,13 +1,27 @@
 Rang: 3901
 Lemma: 不要
 Lesung: ふよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: nicht erforderlich
-Beispielsatz: 予約は不要だ。
-Beispielsatz-Lesung: 予約[よやく]は 不要[ふよう]だ。
-Beispielsatz-Übersetzung: Reservierungen sind nicht erforderlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  予約は不要だ。
+  予約[よやく]は 不要[ふよう]だ。
+  Reservierungen sind nicht erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,30 @@
 Rang: 2996
 Lemma: 従業員
 Lesung: じゅうぎょういん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Angestellte/r, Arbeiter/in
-Beispielsatz: このホテルの従業員はみんな若い。
-Beispielsatz-Lesung: このホテルの 従業員[じゅうぎょういん]はみんな 若[わか]い。
-Beispielsatz-Übersetzung: Alle Angestellten in diesem Hotel sind jung.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-5"><span class="inner"><span class="char">う</span></span></span><span class="accent_top
+  mola_-4"><span class="inner"><span class="char">ぎ</span><span class="char">ょ</span></span></span><span
+  class="mola_-3"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">い</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このホテルの従業員はみんな若い。
+  このホテルの 従業員[じゅうぎょういん]はみんな 若[わか]い。
+  Alle Angestellten in diesem Hotel sind jung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

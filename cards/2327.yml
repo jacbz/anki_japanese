@@ -1,13 +1,24 @@
 Rang: 2327
 Lemma: 恐怖
 Lesung: きょうふ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Angst, Schrecken
-Beispielsatz: 恐怖でからだが震えた。
-Beispielsatz-Lesung: 恐怖[きょうふ]でからだが 震[ふる]えた。
-Beispielsatz-Übersetzung: Mein Körper zitterte vor Angst.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  恐怖でからだが震えた。
+  恐怖[きょうふ]でからだが 震[ふる]えた。
+  Mein Körper zitterte vor Angst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

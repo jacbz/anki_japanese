@@ -1,14 +1,28 @@
 Rang: 3792
 Lemma: 判決
 Lesung: はんけつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Urteil; urteilen
 Extra: （する）
 Wortart: n. v.
-Definition: Urteil; urteilen
-Beispielsatz: 最高裁は無罪判決を言い渡した。
-Beispielsatz-Lesung: 最高裁[さいこうさい]は 無罪判決[むざいはんけつ]を 言[い]い 渡[わた]した。
-Beispielsatz-Übersetzung: Der Oberste Gerichtshof verkündete ein Urteil von „nicht
-  schuldig“.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最高裁は無罪判決を言い渡した。
+  最高裁[さいこうさい]は 無罪判決[むざいはんけつ]を 言[い]い 渡[わた]した。
+  Der Oberste Gerichtshof verkündete ein Urteil von „nicht schuldig“.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

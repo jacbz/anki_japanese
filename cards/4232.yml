@@ -1,13 +1,24 @@
 Rang: 4232
 Lemma: 鮎
 Lesung: あゆ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Süßwasserfisch, Ayu
-Beispielsatz: 夏休みに川で鮎を釣った。
-Beispielsatz-Lesung: 夏休[なつやす]みに 川[かわ]で 鮎[あゆ]を 釣[つ]った。
-Beispielsatz-Übersetzung: Ich habe während der Sommerferien Ayu im Fluss gefischt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  夏休みに川で鮎を釣った。
+  夏休[なつやす]みに 川[かわ]で 鮎[あゆ]を 釣[つ]った。
+  Ich habe während der Sommerferien Ayu im Fluss gefischt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4675
 Lemma: 将軍
 Lesung: しょうぐん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: General, Shogun
-Beispielsatz: 将軍は敵を攻撃するように命じた。
-Beispielsatz-Lesung: 将軍[しょうぐん]は 敵[てき]を 攻撃[こうげき]するように 命[めい]じた。
-Beispielsatz-Übersetzung: Der General befahl ihnen, den Feind anzugreifen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  将軍は敵を攻撃するように命じた。
+  将軍[しょうぐん]は 敵[てき]を 攻撃[こうげき]するように 命[めい]じた。
+  Der General befahl ihnen, den Feind anzugreifen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

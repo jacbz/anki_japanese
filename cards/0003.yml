@@ -1,13 +1,24 @@
 Rang: 3
 Lemma: は
-Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: わ
+Alternativschreibweisen: ''
 Definition: THEMA
-Beispielsatz: 好きなスポーツはテニスです。
-Beispielsatz-Lesung: 好[す]きなスポーツはテニスです。
-Beispielsatz-Übersetzung: Mein Lieblingssport ist Tennis.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  好きなスポーツはテニスです。
+  好[す]きなスポーツはテニスです。
+  Mein Lieblingssport ist Tennis.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

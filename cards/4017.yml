@@ -1,13 +1,24 @@
 Rang: 4017
 Lemma: 三日間
 Lesung: みっかかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: drei Tage
-Beispielsatz: 三日間晴れが続いた。
-Beispielsatz-Lesung: 三 日[にち] 間[ま] 晴[は]れが 続[つづ]いた。
-Beispielsatz-Übersetzung: Das Wetter blieb drei Tage lang schön.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  三日間晴れが続いた。
+  三 日[にち] 間[ま] 晴[は]れが 続[つづ]いた。
+  Das Wetter blieb drei Tage lang schön.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

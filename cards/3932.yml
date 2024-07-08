@@ -1,13 +1,28 @@
 Rang: 3932
 Lemma: 方式
 Lesung: ほうしき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Methode
-Beispielsatz: 新しい方式が病院に導入された。
-Beispielsatz-Lesung: 新[あたら]しい 方式[ほうしき]が 病院[びょういん]に 導入[どうにゅう]された。
-Beispielsatz-Übersetzung: Im Krankenhaus wurden neue Methoden eingeführt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい方式が病院に導入された。
+  新[あたら]しい 方式[ほうしき]が 病院[びょういん]に 導入[どうにゅう]された。
+  Im Krankenhaus wurden neue Methoden eingeführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

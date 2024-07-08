@@ -1,14 +1,28 @@
 Rang: 2084
 Lemma: まっすぐ
-Lesung: まっすぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gerade, direkt; ehrlich
-Beispielsatz: まっすぐ歩けないほど彼は酔っ払った。
-Beispielsatz-Lesung: まっすぐ 歩[ある]けないほど 彼[かれ]は 酔[よ]っ 払[ぱら]った。
-Beispielsatz-Übersetzung: Er war so betrunken, dass er nicht mehr geradeaus laufen
-  konnte.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ぐ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まっすぐ歩けないほど彼は酔っ払った。
+  まっすぐ 歩[ある]けないほど 彼[かれ]は 酔[よ]っ 払[ぱら]った。
+  Er war so betrunken, dass er nicht mehr geradeaus laufen konnte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

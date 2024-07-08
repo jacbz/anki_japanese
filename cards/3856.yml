@@ -1,13 +1,24 @@
 Rang: 3856
 Lemma: 高価
 Lesung: こうか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: teuer
-Beispielsatz: こんな高価なものをいただくわけにはいきません。
-Beispielsatz-Lesung: こんな 高価[こうか]なものをいただくわけにはいきません。
-Beispielsatz-Übersetzung: Ich kann kein so teures Geschenk annehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こんな高価なものをいただくわけにはいきません。
+  こんな 高価[こうか]なものをいただくわけにはいきません。
+  Ich kann kein so teures Geschenk annehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

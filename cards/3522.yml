@@ -1,13 +1,27 @@
 Rang: 3522
 Lemma: 折れる
 Lesung: おれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: brechen
-Beispielsatz: 転んで足の骨が折れた。
-Beispielsatz-Lesung: 転[ころ]んで 足[あし]の 骨[ほね]が 折[お]れた。
-Beispielsatz-Übersetzung: Ich bin gestürzt und habe mir das Bein gebrochen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  転んで足の骨が折れた。
+  転[ころ]んで 足[あし]の 骨[ほね]が 折[お]れた。
+  Ich bin gestürzt und habe mir das Bein gebrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

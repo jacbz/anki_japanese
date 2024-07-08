@@ -1,13 +1,28 @@
 Rang: 1437
 Lemma: 付き合い
 Lesung: つきあい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Umgang, Bekanntschaft
-Beispielsatz: 私は近所の人と付き合いがない。
-Beispielsatz-Lesung: 私[わたし]は 近所[きんじょ]の人と 付[つ]き 合[あ]いがない。
-Beispielsatz-Übersetzung: Ich habe nichts mit meinen Nachbarn zu tun.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は近所の人と付き合いがない。
+  私[わたし]は 近所[きんじょ]の人と 付[つ]き 合[あ]いがない。
+  Ich habe nichts mit meinen Nachbarn zu tun.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

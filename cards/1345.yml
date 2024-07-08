@@ -1,14 +1,26 @@
 Rang: 1345
 Lemma: 距離
 Lesung: きょり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Entfernung
-Beispielsatz: ２つの町の距離はだいたい10キロです。
-Beispielsatz-Lesung: ２[ふた]つの 町[まち]の 距離[きょり]はだいたい10キロです。
-Beispielsatz-Übersetzung: Die Entfernung zwischen den beiden Städten beträgt etwa
-  10 Kilometer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">き</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ２つの町の距離はだいたい10キロです。
+  ２[ふた]つの 町[まち]の 距離[きょり]はだいたい10キロです。
+  Die Entfernung zwischen den beiden Städten beträgt etwa 10 Kilometer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4418
 Lemma: 実質的
 Lesung: じっしつてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: wesentlich; substantiell
-Beispielsatz: 税金は実質的に値上がりするでしょう。
-Beispielsatz-Lesung: 税金[ぜいきん]は 実質的[じっしつてき]に 値上[ねあ]がりするでしょう。
-Beispielsatz-Übersetzung: Die Steuer wird wesentlich erhöht werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  税金は実質的に値上がりするでしょう。
+  税金[ぜいきん]は 実質的[じっしつてき]に 値上[ねあ]がりするでしょう。
+  Die Steuer wird wesentlich erhöht werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

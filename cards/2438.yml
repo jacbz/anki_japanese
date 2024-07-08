@@ -1,13 +1,25 @@
 Rang: 2438
 Lemma: 根
 Lesung: ね
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wurzel
-Beispielsatz: 木を根から掘り起こす。
-Beispielsatz-Lesung: 木[き]を 根[ね]から 掘[ほ]り 起[お]こす。
-Beispielsatz-Übersetzung: Ich grabe einen Baum an den Wurzeln aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">ね</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  木を根から掘り起こす。
+  木[き]を 根[ね]から 掘[ほ]り 起[お]こす。
+  Ich grabe einen Baum an den Wurzeln aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

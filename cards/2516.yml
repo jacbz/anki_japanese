@@ -1,14 +1,24 @@
 Rang: 2516
 Lemma: しかしながら
-Lesung: しかしながら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedoch, aber
-Beispielsatz: 彼の能力はまだまだだ。しかしながら，可能性は感じられる。
-Beispielsatz-Lesung: 彼[かれ]の 能力[のうりょく]はまだまだだ。しかしながら， 可能性[かのうせい]は 感[かん]じられる。
-Beispielsatz-Übersetzung: Seine Fähigkeiten sind noch nicht ausreichend. Jedoch zeigt
-  er Potenzial.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の能力はまだまだだ。しかしながら，可能性は感じられる。
+  彼[かれ]の 能力[のうりょく]はまだまだだ。しかしながら， 可能性[かのうせい]は 感[かん]じられる。
+  Seine Fähigkeiten sind noch nicht ausreichend. Jedoch zeigt er Potenzial.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3673
 Lemma: 停止
 Lesung: ていし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: anhalten, Unterbrechung; anhalten, unterbrechen
 Extra: （する）
 Wortart: n. v.
-Definition: anhalten, Unterbrechung; anhalten, unterbrechen
-Beispielsatz: そのレストランは営業の停止を命じられた。
-Beispielsatz-Lesung: そのレストランは 営業[えいぎょう]の 停止[ていし]を 命[めい]じられた。
-Beispielsatz-Übersetzung: Das Restaurant wurde angewiesen, den Betrieb einzustellen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのレストランは営業の停止を命じられた。
+  そのレストランは 営業[えいぎょう]の 停止[ていし]を 命[めい]じられた。
+  Das Restaurant wurde angewiesen, den Betrieb einzustellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

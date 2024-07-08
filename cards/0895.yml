@@ -1,13 +1,28 @@
 Rang: 895
 Lemma: 運動
 Lesung: うんどう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Sport treiben
 Extra: （する）
 Wortart: n. v.
-Definition: Sport treiben
-Beispielsatz: 運動する必要がある。
-Beispielsatz-Lesung: 運動[うんどう]する 必要[ひつよう]がある。
-Beispielsatz-Übersetzung: Ich muss Sport treiben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  運動する必要がある。
+  運動[うんどう]する 必要[ひつよう]がある。
+  Ich muss Sport treiben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

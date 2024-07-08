@@ -1,13 +1,24 @@
 Rang: 2796
 Lemma: プレー
-Lesung: プレー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Spielen
-Beispielsatz: 彼の素晴らしいプレーで、チームは優勝した。
-Beispielsatz-Lesung: 彼[かれ]の 素晴[すば]らしいプレーで、チームは 優勝[ゆうしょう]した。
-Beispielsatz-Übersetzung: Dank seines großartigen Spielens gewann sein Team die Meisterschaft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の素晴らしいプレーで、チームは優勝した。
+  彼[かれ]の 素晴[すば]らしいプレーで、チームは 優勝[ゆうしょう]した。
+  Dank seines großartigen Spielens gewann sein Team die Meisterschaft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

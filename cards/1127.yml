@@ -1,14 +1,27 @@
 Rang: 1127
 Lemma: 次第
 Lesung: しだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv. n.
+Alternativschreibweisen: ''
 Definition: abhängen von; sobald wie möglich; Reihenfolge
-Beispielsatz: 結論が出次第ご連絡します。
-Beispielsatz-Lesung: 結論[けつろん]が 出[で] 次第[しだい]ご 連絡[れんらく]します。
-Beispielsatz-Übersetzung: Wir werden Sie kontaktieren, sobald eine Entscheidung getroffen
-  wurde.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結論が出次第ご連絡します。
+  結論[けつろん]が 出[で] 次第[しだい]ご 連絡[れんらく]します。
+  Wir werden Sie kontaktieren, sobald eine Entscheidung getroffen wurde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

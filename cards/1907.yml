@@ -1,14 +1,27 @@
 Rang: 1907
 Lemma: 市民
 Lesung: しみん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Stadtbewohner, Bürger
-Beispielsatz: 市民は図書館の資料が無料で借りられる。
-Beispielsatz-Lesung: 市民[しみん]は 図書館[としょかん]の 資料[しりょう]が 無料[むりょう]で 借[か]りられる。
-Beispielsatz-Übersetzung: Stadtbewohner können Bücher aus der Bibliothek kostenlos
-  ausleihen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">み</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  市民は図書館の資料が無料で借りられる。
+  市民[しみん]は 図書館[としょかん]の 資料[しりょう]が 無料[むりょう]で 借[か]りられる。
+  Stadtbewohner können Bücher aus der Bibliothek kostenlos ausleihen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

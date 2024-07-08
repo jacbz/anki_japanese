@@ -1,13 +1,24 @@
 Rang: 2674
 Lemma: むく
-Lesung: むく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: schälen, abschälen
-Beispielsatz: リンゴの皮をむく。
-Beispielsatz-Lesung: リンゴの 皮[かわ]をむく。
-Beispielsatz-Übersetzung: Ich schäle Äpfel.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  リンゴの皮をむく。
+  リンゴの 皮[かわ]をむく。
+  Ich schäle Äpfel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

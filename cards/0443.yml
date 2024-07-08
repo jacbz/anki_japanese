@@ -1,13 +1,27 @@
 Rang: 443
 Lemma: 送る
 Lesung: おくる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: senden
-Beispielsatz: 母に感謝の手紙を送る。
-Beispielsatz-Lesung: 母[はは]に 感謝[かんしゃ]の 手紙[てがみ]を 送[おく]る。
-Beispielsatz-Übersetzung: Ich werde meiner Mutter einen Dankesbrief senden.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母に感謝の手紙を送る。
+  母[はは]に 感謝[かんしゃ]の 手紙[てがみ]を 送[おく]る。
+  Ich werde meiner Mutter einen Dankesbrief senden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

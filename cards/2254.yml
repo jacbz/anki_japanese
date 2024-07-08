@@ -1,13 +1,24 @@
 Rang: 2254
 Lemma: ロンドン
-Lesung: ロンドン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: London
-Beispielsatz: 来月、ロンドンに留学する。
-Beispielsatz-Lesung: 来月[らいげつ]、ロンドンに 留学[りゅうがく]する。
-Beispielsatz-Übersetzung: Ab nächsten Monat werde ich in London studieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  来月、ロンドンに留学する。
+  来月[らいげつ]、ロンドンに 留学[りゅうがく]する。
+  Ab nächsten Monat werde ich in London studieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

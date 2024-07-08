@@ -1,14 +1,28 @@
 Rang: 4798
 Lemma: 追い込む
 Lesung: おいこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zwingen
-Beispielsatz: 不正が明らかになり、社長は辞職に追い込まれた。
-Beispielsatz-Lesung: 不正[ふせい]が 明[あき]らかになり、 社長[しゃちょう]は 辞職[じしょく]に 追[お]い 込[こ]まれた。
-Beispielsatz-Übersetzung: Offenbarungen von Fehlverhalten zwangen den Präsidenten
-  des Unternehmens zum Rücktritt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  不正が明らかになり、社長は辞職に追い込まれた。
+  不正[ふせい]が 明[あき]らかになり、 社長[しゃちょう]は 辞職[じしょく]に 追[お]い 込[こ]まれた。
+  Offenbarungen von Fehlverhalten zwangen den Präsidenten des Unternehmens zum Rücktritt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

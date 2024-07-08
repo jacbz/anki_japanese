@@ -1,13 +1,28 @@
 Rang: 2211
 Lemma: 表面
 Lesung: ひょうめん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Oberfläche, Außenseite, Erscheinungsbild
-Beispielsatz: この紙の表面はざらざらしている。
-Beispielsatz-Lesung: この 紙[かみ]の 表面[ひょうめん]はざらざらしている。
-Beispielsatz-Übersetzung: Die Oberfläche dieses Papiers ist rau.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_top
+  mola_-2"><span class="inner"><span class="char">め</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この紙の表面はざらざらしている。
+  この 紙[かみ]の 表面[ひょうめん]はざらざらしている。
+  Die Oberfläche dieses Papiers ist rau.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

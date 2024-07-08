@@ -1,13 +1,24 @@
 Rang: 3914
 Lemma: 位置付ける
 Lesung: いちずける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: bewerten; einschätzen
-Beispielsatz: この研究をどう位置付けますか。
-Beispielsatz-Lesung: この 研究[けんきゅう]をどう 位置付[いちづ]けますか。
-Beispielsatz-Übersetzung: Wie würden Sie diese Forschung einschätzen?
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この研究をどう位置付けますか。
+  この 研究[けんきゅう]をどう 位置付[いちづ]けますか。
+  Wie würden Sie diese Forschung einschätzen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

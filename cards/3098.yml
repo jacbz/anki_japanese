@@ -1,13 +1,28 @@
 Rang: 3098
 Lemma: 小麦粉
 Lesung: こむぎこ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mehl
-Beispielsatz: 鶏肉に小麦粉をまぶして、油で揚げた。
-Beispielsatz-Lesung: 鶏肉[けいにく]に 小麦粉[こむぎこ]をまぶして、 油[あぶら]で 揚[あ]げた。
-Beispielsatz-Übersetzung: Ich habe das Huhn in Mehl gewälzt und dann gebraten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぎ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">こ</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  鶏肉に小麦粉をまぶして、油で揚げた。
+  鶏肉[けいにく]に 小麦粉[こむぎこ]をまぶして、 油[あぶら]で 揚[あ]げた。
+  Ich habe das Huhn in Mehl gewälzt und dann gebraten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

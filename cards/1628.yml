@@ -1,13 +1,24 @@
 Rang: 1628
 Lemma: オーストラリア
-Lesung: オーストラリア
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Australien
-Beispielsatz: 私はオーストラリアから来ました。
-Beispielsatz-Lesung: 私[わたし]はオーストラリアから 来[き]ました。
-Beispielsatz-Übersetzung: Ich komme aus Australien.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はオーストラリアから来ました。
+  私[わたし]はオーストラリアから 来[き]ました。
+  Ich komme aus Australien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

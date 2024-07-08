@@ -1,13 +1,24 @@
 Rang: 1114
 Lemma: 自分自身
 Lesung: じぶんじしん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sich selbst
-Beispielsatz: 結婚相手は自分自身で決めなさい。
-Beispielsatz-Lesung: 結婚相手[けっこんあいて]は 自分自身[じぶんじしん]で 決[き]めなさい。
-Beispielsatz-Übersetzung: Sie müssen Ihren Ehepartner selbst auswählen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結婚相手は自分自身で決めなさい。
+  結婚相手[けっこんあいて]は 自分自身[じぶんじしん]で 決[き]めなさい。
+  Sie müssen Ihren Ehepartner selbst auswählen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

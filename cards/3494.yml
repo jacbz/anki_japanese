@@ -1,13 +1,27 @@
 Rang: 3494
 Lemma: 規則
 Lesung: きそく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Regelung, Vorschrift
-Beispielsatz: 規則を守ってください。
-Beispielsatz-Lesung: 規則[きそく]を 守[まも]ってください。
-Beispielsatz-Übersetzung: Bitte beachten Sie die Vorschriften.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">そ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  規則を守ってください。
+  規則[きそく]を 守[まも]ってください。
+  Bitte beachten Sie die Vorschriften.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

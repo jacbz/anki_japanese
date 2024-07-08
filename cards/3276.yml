@@ -1,13 +1,24 @@
 Rang: 3276
 Lemma: 二十九日
 Lesung: にじゅうくにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: neunundzwanzigster (Tag); neunundzwanzig Tage
-Beispielsatz: 今月29日は祝日だ。
-Beispielsatz-Lesung: 今月[こんげつ]29 日[にち]は 祝日[しゅくじつ]だ。
-Beispielsatz-Übersetzung: Wir haben diesen Monat am 29. einen nationalen Feiertag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月29日は祝日だ。
+  今月[こんげつ]29 日[にち]は 祝日[しゅくじつ]だ。
+  Wir haben diesen Monat am 29. einen nationalen Feiertag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

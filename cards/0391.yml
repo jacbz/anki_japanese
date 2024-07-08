@@ -1,13 +1,24 @@
 Rang: 391
 Lemma: 必ず
 Lesung: かならず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: immer, sicherlich
-Beispielsatz: 彼は必ず成功するに違いない。
-Beispielsatz-Lesung: 彼[かれ]は 必[かなら]ず 成功[せいこう]するに 違[ちが]いない。
-Beispielsatz-Übersetzung: Er wird sicherlich erfolgreich sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は必ず成功するに違いない。
+  彼[かれ]は 必[かなら]ず 成功[せいこう]するに 違[ちが]いない。
+  Er wird sicherlich erfolgreich sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

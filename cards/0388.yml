@@ -1,13 +1,28 @@
 Rang: 388
 Lemma: 始める
 Lesung: はじめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anfangen, beginnen
-Beispielsatz: いつ日本語の勉強を始めたんですか。
-Beispielsatz-Lesung: いつ 日本語[にほんご]の 勉強[べんきょう]を 始[はじ]めたんですか。
-Beispielsatz-Übersetzung: Wann hast du angefangen, Japanisch zu lernen?
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いつ日本語の勉強を始めたんですか。
+  いつ 日本語[にほんご]の 勉強[べんきょう]を 始[はじ]めたんですか。
+  Wann hast du angefangen, Japanisch zu lernen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

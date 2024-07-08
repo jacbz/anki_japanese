@@ -1,13 +1,24 @@
 Rang: 248
 Lemma: らしい
-Lesung: らしい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: scheinen, aussehen
-Beispielsatz: あの女はまだ生きているらしい。
-Beispielsatz-Lesung: あの 女[おんな]はまだ 生[い]きているらしい。
-Beispielsatz-Übersetzung: Es scheint, dass diese Frau noch am Leben ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの女はまだ生きているらしい。
+  あの 女[おんな]はまだ 生[い]きているらしい。
+  Es scheint, dass diese Frau noch am Leben ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

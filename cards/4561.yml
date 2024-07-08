@@ -1,13 +1,24 @@
 Rang: 4561
 Lemma: 隣接
 Lesung: りんせつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Nachbarschaft; angrenzen
 Extra: （する）
 Wortart: n. v.
-Definition: Nachbarschaft; angrenzen
-Beispielsatz: フランスはスペインに隣接している。
-Beispielsatz-Lesung: フランスはスペインに 隣接[りんせつ]している。
-Beispielsatz-Übersetzung: Frankreich grenzt an Spanien.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  フランスはスペインに隣接している。
+  フランスはスペインに 隣接[りんせつ]している。
+  Frankreich grenzt an Spanien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

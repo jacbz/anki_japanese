@@ -1,13 +1,24 @@
 Rang: 2421
 Lemma: コンビニ
-Lesung: コンビニ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Convenience Store
-Beispielsatz: コンビニで夕食を買う。
-Beispielsatz-Lesung: コンビニで 夕食[ゆうしょく]を 買[か]う。
-Beispielsatz-Übersetzung: Ich kaufe im Kombini etwas zu essen für das Abendessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンビニで夕食を買う。
+  コンビニで 夕食[ゆうしょく]を 買[か]う。
+  Ich kaufe im Kombini etwas zu essen für das Abendessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

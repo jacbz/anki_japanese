@@ -1,13 +1,24 @@
 Rang: 743
 Lemma: 明らか
 Lesung: あきらか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: klar, offensichtlich
-Beispielsatz: 彼の死因は明らかではない。
-Beispielsatz-Lesung: 彼[かれ]の 死因[しいん]は 明[あき]らかではない。
-Beispielsatz-Übersetzung: Die Ursache für seinen Tod ist unklar.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の死因は明らかではない。
+  彼[かれ]の 死因[しいん]は 明[あき]らかではない。
+  Die Ursache für seinen Tod ist unklar.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

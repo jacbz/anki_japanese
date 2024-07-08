@@ -1,13 +1,24 @@
 Rang: 1772
 Lemma: 十二
 Lesung: じゅうに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwölf
-Beispielsatz: 十と十一と十二の合計は三十三だ。
-Beispielsatz-Lesung: 十と十一と十二の 合計[ごうけい]は三十三だ。
-Beispielsatz-Übersetzung: Die Summe von zehn, elf und zwölf ist dreiunddreißig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十と十一と十二の合計は三十三だ。
+  十と十一と十二の 合計[ごうけい]は三十三だ。
+  Die Summe von zehn, elf und zwölf ist dreiunddreißig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

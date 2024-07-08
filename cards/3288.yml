@@ -1,13 +1,24 @@
 Rang: 3288
 Lemma: 延長
 Lesung: えんちょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: verlängern; verlängern
 Extra: （する）
 Wortart: n. v.
-Definition: verlängern; verlängern
-Beispielsatz: 申し込み期間が一週間延長した。
-Beispielsatz-Lesung: 申[もう]し 込[こ]み 期間[きかん]が 一週間[いっしゅうかん] 延長[えんちょう]した。
-Beispielsatz-Übersetzung: Die Bewerbungsfrist wurde um eine weitere Woche verlängert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  申し込み期間が一週間延長した。
+  申[もう]し 込[こ]み 期間[きかん]が 一週間[いっしゅうかん] 延長[えんちょう]した。
+  Die Bewerbungsfrist wurde um eine weitere Woche verlängert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

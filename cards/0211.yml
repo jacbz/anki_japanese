@@ -1,13 +1,24 @@
 Rang: 211
 Lemma: しか
-Lesung: しか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nur, lediglich, nicht mehr als
-Beispielsatz: 砂糖は少ししか残っていない。
-Beispielsatz-Lesung: 砂糖[さとう]は 少[すこ]ししか 残[のこ]っていない。
-Beispielsatz-Übersetzung: Es ist nur noch ein bisschen Zucker übrig.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  砂糖は少ししか残っていない。
+  砂糖[さとう]は 少[すこ]ししか 残[のこ]っていない。
+  Es ist nur noch ein bisschen Zucker übrig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

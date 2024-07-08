@@ -1,13 +1,24 @@
 Rang: 3171
 Lemma: コート
-Lesung: コート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Mantel; Gericht
-Beispielsatz: 毛皮のコートを着た女性が見えますか。
-Beispielsatz-Lesung: 毛皮[けがわ]のコートを 着[き]た 女性[じょせい]が 見[み]えますか。
-Beispielsatz-Übersetzung: Kannst du eine Frau in einem Pelzmantel sehen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毛皮のコートを着た女性が見えますか。
+  毛皮[けがわ]のコートを 着[き]た 女性[じょせい]が 見[み]えますか。
+  Kannst du eine Frau in einem Pelzmantel sehen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

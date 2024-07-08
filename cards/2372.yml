@@ -1,13 +1,24 @@
 Rang: 2372
 Lemma: 彼氏
 Lesung: かれし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Freund
-Beispielsatz: 彼氏を親に紹介する。
-Beispielsatz-Lesung: 彼氏[かれし]を 親[おや]に 紹介[しょうかい]する。
-Beispielsatz-Übersetzung: Ich werde meinen Freund meinen Eltern vorstellen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '42'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼氏を親に紹介する。
+  彼氏[かれし]を 親[おや]に 紹介[しょうかい]する。
+  Ich werde meinen Freund meinen Eltern vorstellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

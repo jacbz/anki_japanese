@@ -1,13 +1,24 @@
 Rang: 1880
 Lemma: メーカー
-Lesung: メーカー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Hersteller, Produzent
-Beispielsatz: この会社は日本のカメラのメーカーだ。
-Beispielsatz-Lesung: この 会社[かいしゃ]は 日本[にっぽん]のカメラのメーカーだ。
-Beispielsatz-Übersetzung: Dieses Unternehmen ist ein japanischer Kamerahersteller.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この会社は日本のカメラのメーカーだ。
+  この 会社[かいしゃ]は 日本[にっぽん]のカメラのメーカーだ。
+  Dieses Unternehmen ist ein japanischer Kamerahersteller.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

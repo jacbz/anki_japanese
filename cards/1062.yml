@@ -1,13 +1,24 @@
 Rang: 1062
 Lemma: さて
-Lesung: さて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nun, jetzt
-Beispielsatz: さて次は何をしようかな。
-Beispielsatz-Lesung: さて 次[つぎ]は 何[なに]をしようかな。
-Beispielsatz-Übersetzung: Nun, was sollte ich als nächstes tun?
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さて次は何をしようかな。
+  さて 次[つぎ]は 何[なに]をしようかな。
+  Nun, was sollte ich als nächstes tun?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 826
 Lemma: やり方
 Lesung: やりかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorgehensweise
-Beispielsatz: やり方を変えるべきだ。
-Beispielsatz-Lesung: やり 方[かた]を 変[か]えるべきだ。
-Beispielsatz-Übersetzung: Du solltest deine Vorgehensweise ändern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  やり方を変えるべきだ。
+  やり 方[かた]を 変[か]えるべきだ。
+  Du solltest deine Vorgehensweise ändern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

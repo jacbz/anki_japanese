@@ -1,14 +1,28 @@
 Rang: 4491
 Lemma: 行列
 Lesung: ぎょうれつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Prozession, Reihe, Parade; sich anstellen, Schlange stehen
 Extra: （する）
 Wortart: n. v.
-Definition: Prozession, Reihe, Parade; sich anstellen, Schlange stehen
-Beispielsatz: 駅に切符を買う長い行列ができていた。
-Beispielsatz-Lesung: 駅[えき]に 切符[きっぷ]を 買[か]う 長[なが]い 行列[ぎょうれつ]ができていた。
-Beispielsatz-Übersetzung: Eine lange Schlange von Menschen, die Tickets kaufen, hatte
-  sich am Bahnhof gebildet.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ぎ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">れ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  駅に切符を買う長い行列ができていた。
+  駅[えき]に 切符[きっぷ]を 買[か]う 長[なが]い 行列[ぎょうれつ]ができていた。
+  Eine lange Schlange von Menschen, die Tickets kaufen, hatte sich am Bahnhof gebildet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

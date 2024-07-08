@@ -1,13 +1,24 @@
 Rang: 4598
 Lemma: 対抗
 Lesung: たいこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Konkurrenz, Rivalität; sich widersetzen, konkurrieren
 Extra: （する）
 Wortart: n. v.
-Definition: Konkurrenz, Rivalität; sich widersetzen, konkurrieren
-Beispielsatz: 腕相撲で彼に対抗できる者はいない。
-Beispielsatz-Lesung: 腕相撲[うでずもう]で 彼[かれ]に 対抗[たいこう]できる 者[もの]はいない。
-Beispielsatz-Übersetzung: Er hat keine Konkurrenz im Armdrücken.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  腕相撲で彼に対抗できる者はいない。
+  腕相撲[うでずもう]で 彼[かれ]に 対抗[たいこう]できる 者[もの]はいない。
+  Er hat keine Konkurrenz im Armdrücken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3183
 Lemma: マイナス
-Lesung: マイナス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: minus
-Beispielsatz: 今日の気温はマイナスになる予想だ。
-Beispielsatz-Lesung: 今日[きょう]の 気温[きおん]はマイナスになる 予想[よそう]だ。
-Beispielsatz-Übersetzung: Für den heutigen Tag werden Temperaturen unter Null erwartet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日の気温はマイナスになる予想だ。
+  今日[きょう]の 気温[きおん]はマイナスになる 予想[よそう]だ。
+  Für den heutigen Tag werden Temperaturen unter Null erwartet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

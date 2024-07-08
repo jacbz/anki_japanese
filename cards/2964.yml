@@ -1,13 +1,24 @@
 Rang: 2964
 Lemma: エピソード
-Lesung: エピソード
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Episode, Anekdote
-Beispielsatz: 彼には面白いエピソードがたくさんある。
-Beispielsatz-Lesung: 彼[かれ]には 面白[おもしろ]いエピソードがたくさんある。
-Beispielsatz-Übersetzung: Er hat viele interessante Anekdoten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼には面白いエピソードがたくさんある。
+  彼[かれ]には 面白[おもしろ]いエピソードがたくさんある。
+  Er hat viele interessante Anekdoten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

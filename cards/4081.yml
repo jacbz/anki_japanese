@@ -1,13 +1,24 @@
 Rang: 4081
 Lemma: どきどき
-Lesung: どきどき
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: klopfen, schnell schlagen
 Extra: （する）
 Wortart: v.
-Definition: klopfen, schnell schlagen
-Beispielsatz: 階段を上っただけで、心臓がどきどきした。
-Beispielsatz-Lesung: 階段[かいだん]を 上[のぼ]っただけで、 心臓[しんぞう]がどきどきした。
-Beispielsatz-Übersetzung: Mein Herz schlug einfach nur, weil ich die Treppe hochging.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  階段を上っただけで、心臓がどきどきした。
+  階段[かいだん]を 上[のぼ]っただけで、 心臓[しんぞう]がどきどきした。
+  Mein Herz schlug einfach nur, weil ich die Treppe hochging.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 4300
 Lemma: 長女
 Lesung: ちょうじょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Älteste Tochter
-Beispielsatz: 去年、長女が誕生した。
-Beispielsatz-Lesung: 去年[きょねん]、 長女[ちょうじょ]が 誕生[たんじょう]した。
-Beispielsatz-Übersetzung: Die älteste Tochter wurde letztes Jahr geboren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ち</span><span class="char">ょ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">じ</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  去年、長女が誕生した。
+  去年[きょねん]、 長女[ちょうじょ]が 誕生[たんじょう]した。
+  Die älteste Tochter wurde letztes Jahr geboren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

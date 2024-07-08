@@ -1,13 +1,32 @@
 Rang: 32
 Lemma: から
-Lesung: から
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
-Definition: von
-Beispielsatz: ここからその店までは遠い。
-Beispielsatz-Lesung: ここからその 店[みせ]までは 遠[とお]い。
-Beispielsatz-Übersetzung: Es ist weit von hier bis zu dem Geschäft.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: von; weil, da
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case, p. conj., conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここからその店までは遠い。
+  ここからその 店[みせ]までは 遠[とお]い。
+  Es ist weit von hier bis zu dem Geschäft.
+
+  雨が降っているから、出かけるのはやめます。
+  雨[あめ]が 降[ふ]っているから、 出[で]かけるのはやめます。
+  Es regnet, also gehe ich nicht raus.
+
+  今日は何も食べていないからおなかが空いている。
+  今日[きょう]は 何[なに]も 食[た]べていないからおなかが 空[す]いている。
+  Ich bin hungrig, weil ich heute noch nichts gegessen habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 1979
 Lemma: 踏まえる
 Lesung: ふまえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: basieren auf
-Beispielsatz: この分析結果を踏まえて結論を出します。
-Beispielsatz-Lesung: この 分析[ぶんせき] 結果[けっか]を 踏[ふ]まえて 結論[けつろん]を 出[だ]します。
-Beispielsatz-Übersetzung: Ich ziehe aufgrund der Ergebnisse der Analyse eine Schlussfolgerung,
-  die auf ihnen basiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ↗&lt;&gt;Verwaltungssprache
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この分析結果を踏まえて結論を出します。
+  この 分析[ぶんせき] 結果[けっか]を 踏[ふ]まえて 結論[けつろん]を 出[だ]します。
+  Ich ziehe aufgrund der Ergebnisse der Analyse eine Schlussfolgerung, die auf ihnen basiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

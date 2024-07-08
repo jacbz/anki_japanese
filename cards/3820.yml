@@ -1,13 +1,24 @@
 Rang: 3820
 Lemma: さっと
-Lesung: さっと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: schnell
-Beispielsatz: さっとシャワーを浴びて、家を出た。
-Beispielsatz-Lesung: さっとシャワーを 浴[あ]びて、 家[いえ]を 出[で]た。
-Beispielsatz-Übersetzung: Ich habe schnell geduscht und bin rausgegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さっとシャワーを浴びて、家を出た。
+  さっとシャワーを 浴[あ]びて、 家[いえ]を 出[で]た。
+  Ich habe schnell geduscht und bin rausgegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2656
 Lemma: はあ
-Lesung: はあ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Oh, Junge, Oh je
-Beispielsatz: はー、今日も疲れた。
-Beispielsatz-Lesung: はー、 今日[きょう]も 疲[つか]れた。
-Beispielsatz-Übersetzung: Oh je, ich bin heute so müde.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  はー、今日も疲れた。
+  はー、 今日[きょう]も 疲[つか]れた。
+  Oh je, ich bin heute so müde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

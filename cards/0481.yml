@@ -1,13 +1,24 @@
 Rang: 481
 Lemma: 小さな
 Lesung: ちいさな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Alternativschreibweisen: ''
 Definition: klein, winzig
-Beispielsatz: 彼女には小さな子供が二人いる。
-Beispielsatz-Lesung: 彼女[かのじょ]には 小[ちい]さな 子供[こども]が二人いる。
-Beispielsatz-Übersetzung: Sie hat zwei kleine Kinder.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女には小さな子供が二人いる。
+  彼女[かのじょ]には 小[ちい]さな 子供[こども]が二人いる。
+  Sie hat zwei kleine Kinder.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

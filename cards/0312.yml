@@ -1,13 +1,24 @@
 Rang: 312
 Lemma: アメリカ
-Lesung: アメリカ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Amerika
-Beispielsatz: アメリカは大きい。
-Beispielsatz-Lesung: アメリカは 大[おお]きい。
-Beispielsatz-Übersetzung: Amerika ist groß.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  アメリカは大きい。
+  アメリカは 大[おお]きい。
+  Amerika ist groß.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

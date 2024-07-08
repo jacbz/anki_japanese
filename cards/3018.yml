@@ -1,13 +1,29 @@
 Rang: 3018
 Lemma: 誕生日
 Lesung: たんじょうび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Geburtstag
-Beispielsatz: 今日は弟の誕生日だ。
-Beispielsatz-Lesung: 今日[きょう]は 弟[おとうと]の 誕生日[たんじょうび]だ。
-Beispielsatz-Übersetzung: Heute ist der Geburtstag von meinem kleinen Bruder.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日は弟の誕生日だ。
+  今日[きょう]は 弟[おとうと]の 誕生日[たんじょうび]だ。
+  Heute ist der Geburtstag von meinem kleinen Bruder.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

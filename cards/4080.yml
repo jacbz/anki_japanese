@@ -1,13 +1,24 @@
 Rang: 4080
 Lemma: キー
-Lesung: キー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Schlüssel
-Beispielsatz: 彼は車のキーを回した。
-Beispielsatz-Lesung: 彼[かれ]は 車[くるま]のキーを 回[まわ]した。
-Beispielsatz-Übersetzung: Er drehte den Schlüssel um.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は車のキーを回した。
+  彼[かれ]は 車[くるま]のキーを 回[まわ]した。
+  Er drehte den Schlüssel um.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

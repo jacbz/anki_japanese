@@ -1,13 +1,26 @@
 Rang: 3195
 Lemma: 紐
 Lesung: ひも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schnur; Spitze
-Beispielsatz: 靴の紐を結びなおした。
-Beispielsatz-Lesung: 靴[くつ]の 紐[ひも]を 結[むす]びなおした。
-Beispielsatz-Übersetzung: Ich habe meine Schuhe neu gebunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">も</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  靴の紐を結びなおした。
+  靴[くつ]の 紐[ひも]を 結[むす]びなおした。
+  Ich habe meine Schuhe neu gebunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

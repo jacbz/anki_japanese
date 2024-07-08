@@ -1,13 +1,24 @@
 Rang: 161
 Lemma: ほど
-Lesung: ほど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwa; Ausmaß
-Beispielsatz: 一時間ほどで戻ります。
-Beispielsatz-Lesung: 一時[いちじ] 間[ま]ほどで 戻[もど]ります。
-Beispielsatz-Übersetzung: Ich bin in einer Stunde oder so wieder da.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一時間ほどで戻ります。
+  一時[いちじ] 間[ま]ほどで 戻[もど]ります。
+  Ich bin in einer Stunde oder so wieder da.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

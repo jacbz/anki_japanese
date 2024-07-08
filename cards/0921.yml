@@ -1,13 +1,27 @@
 Rang: 921
 Lemma: かしら
-Lesung: かしら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. disc.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ich frage mich (fem.)
-Beispielsatz: その話本当かしら。
-Beispielsatz-Lesung: その 話[はなし] 本当[ほんとう]かしら。
-Beispielsatz-Übersetzung: Ich frage mich, ob die Geschichte wahr ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. disc.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その話本当かしら。
+  その 話[はなし] 本当[ほんとう]かしら。
+  Ich frage mich, ob die Geschichte wahr ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

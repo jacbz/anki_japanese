@@ -1,13 +1,27 @@
 Rang: 3134
 Lemma: 焼ける
 Lesung: やける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verbrennen; geröstet werden; Sonnenbrand bekommen
-Beispielsatz: 火事で家が焼けた。
-Beispielsatz-Lesung: 火事[かじ]で 家[いえ]が 焼[や]けた。
-Beispielsatz-Übersetzung: Mein Haus wurde durch das Feuer verbrannt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  火事で家が焼けた。
+  火事[かじ]で 家[いえ]が 焼[や]けた。
+  Mein Haus wurde durch das Feuer verbrannt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

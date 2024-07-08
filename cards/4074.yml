@@ -1,13 +1,24 @@
 Rang: 4074
 Lemma: 次いで
 Lesung: ついで
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: als nächstes, danach
-Beispielsatz: アマゾン川はナイル川に次いで長い川だ。
-Beispielsatz-Lesung: アマゾン 川[がわ]はナイル 川[がわ]に 次[つ]いで 長[なが]い 川[かわ]だ。
-Beispielsatz-Übersetzung: Der Amazonas ist nach dem Nil der längste Fluss der Welt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  アマゾン川はナイル川に次いで長い川だ。
+  アマゾン 川[がわ]はナイル 川[がわ]に 次[つ]いで 長[なが]い 川[かわ]だ。
+  Der Amazonas ist nach dem Nil der längste Fluss der Welt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

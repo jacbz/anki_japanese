@@ -1,13 +1,24 @@
 Rang: 3360
 Lemma: 中野
 Lesung: なかの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Nakano (Ortsname)
-Beispielsatz: 以前、中野区に住んでいた。
-Beispielsatz-Lesung: 以前[いぜん]、 中野[なかの] 区[く]に 住[す]んでいた。
-Beispielsatz-Übersetzung: Ich habe früher in Nakano Ward gewohnt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  以前、中野区に住んでいた。
+  以前[いぜん]、 中野[なかの] 区[く]に 住[す]んでいた。
+  Ich habe früher in Nakano Ward gewohnt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

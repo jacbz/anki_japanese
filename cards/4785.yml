@@ -1,14 +1,24 @@
 Rang: 4785
 Lemma: 二十七
 Lesung: にじゅうなな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: siebenundzwanzig
-Beispielsatz: ここに二十七の国の留学生が在籍しています。
-Beispielsatz-Lesung: ここに二十七の 国[くに]の 留学生[りゅうがくせい]が 在籍[ざいせき]しています。
-Beispielsatz-Übersetzung: Internationale Studenten aus siebenundzwanzig Ländern sind
-  hier eingeschrieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここに二十七の国の留学生が在籍しています。
+  ここに二十七の 国[くに]の 留学生[りゅうがくせい]が 在籍[ざいせき]しています。
+  Internationale Studenten aus siebenundzwanzig Ländern sind hier eingeschrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

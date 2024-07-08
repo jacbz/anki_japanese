@@ -1,13 +1,28 @@
 Rang: 1015
 Lemma: 激しい
 Lesung: はげしい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: heftig, intensiv, schwerwiegend
-Beispielsatz: 背中に激しい痛みを感じた。
-Beispielsatz-Lesung: 背中[せなか]に 激[はげ]しい 痛[いた]みを 感[かん]じた。
-Beispielsatz-Übersetzung: Ich spürte eine heftige Schmerzen in meinem Rücken.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  背中に激しい痛みを感じた。
+  背中[せなか]に 激[はげ]しい 痛[いた]みを 感[かん]じた。
+  Ich spürte eine heftige Schmerzen in meinem Rücken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

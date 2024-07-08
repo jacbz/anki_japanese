@@ -1,13 +1,28 @@
 Rang: 2389
 Lemma: 人数
 Lesung: にんずう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Anzahl der Personen
-Beispielsatz: 彼はグループの人数を数える。
-Beispielsatz-Lesung: 彼[かれ]はグループの 人数[にんずう]を 数[かぞ]える。
-Beispielsatz-Übersetzung: Er zählt die Anzahl der Personen in der Gruppe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">に</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ず</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はグループの人数を数える。
+  彼[かれ]はグループの 人数[にんずう]を 数[かぞ]える。
+  Er zählt die Anzahl der Personen in der Gruppe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 2655
 Lemma: 裁判
 Lesung: さいばん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gerichtsverfahren; Urteil; Gerechtigkeit
-Beispielsatz: 裁判が開かれる。
-Beispielsatz-Lesung: 裁判[さいばん]が 開[ひら]かれる。
-Beispielsatz-Übersetzung: Das Gericht ist in Sitzung.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ば</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  裁判が開かれる。
+  裁判[さいばん]が 開[ひら]かれる。
+  Das Gericht ist in Sitzung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

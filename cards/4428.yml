@@ -1,14 +1,24 @@
 Rang: 4428
 Lemma: 郵送
 Lesung: ゆうそう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Versand per Post
-Beispielsatz: 履歴書を月末までに郵送してください。
-Beispielsatz-Lesung: 履歴書[りれきしょ]を 月末[げつまつ]までに 郵送[ゆうそう]してください。
-Beispielsatz-Übersetzung: Bitte senden Sie Ihren Lebenslauf bis Ende des Monats per
-  Post.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '30'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  履歴書を月末までに郵送してください。
+  履歴書[りれきしょ]を 月末[げつまつ]までに 郵送[ゆうそう]してください。
+  Bitte senden Sie Ihren Lebenslauf bis Ende des Monats per Post.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

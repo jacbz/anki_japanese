@@ -1,13 +1,24 @@
 Rang: 1022
 Lemma: ボール
-Lesung: ボール
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Ball
-Beispielsatz: ゴールに向けてボールを蹴った。
-Beispielsatz-Lesung: ゴールに 向[む]けてボールを 蹴[け]った。
-Beispielsatz-Übersetzung: Ich habe den Ball in Richtung Tor geschossen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ゴールに向けてボールを蹴った。
+  ゴールに 向[む]けてボールを 蹴[け]った。
+  Ich habe den Ball in Richtung Tor geschossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2609
 Lemma: 十人
 Lesung: じゅうにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zehn Personen
-Beispielsatz: クラスには生徒が10人いる。
-Beispielsatz-Lesung: クラスには 生徒[せいと]が10人いる。
-Beispielsatz-Übersetzung: Es gibt zehn Schüler in der Klasse.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  クラスには生徒が10人いる。
+  クラスには 生徒[せいと]が10人いる。
+  Es gibt zehn Schüler in der Klasse.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

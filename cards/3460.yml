@@ -1,13 +1,25 @@
 Rang: 3460
 Lemma: 輪
 Lesung: わ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kreis, Ring; Schleife
-Beispielsatz: 輪になって座りましょう。
-Beispielsatz-Lesung: 輪[わ]になって 座[すわ]りましょう。
-Beispielsatz-Übersetzung: Lasst uns in einem Kreis sitzen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  輪になって座りましょう。
+  輪[わ]になって 座[すわ]りましょう。
+  Lasst uns in einem Kreis sitzen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

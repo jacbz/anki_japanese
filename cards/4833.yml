@@ -1,13 +1,27 @@
 Rang: 4833
 Lemma: 誓う
 Lesung: ちかう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schwören, geloben
-Beispielsatz: 彼は彼女に永遠の愛を誓った。
-Beispielsatz-Lesung: 彼[かれ]は 彼女[かのじょ]に 永遠[えいえん]の 愛[あい]を 誓[ちか]った。
-Beispielsatz-Übersetzung: Er schwor, sie für immer zu lieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は彼女に永遠の愛を誓った。
+  彼[かれ]は 彼女[かのじょ]に 永遠[えいえん]の 愛[あい]を 誓[ちか]った。
+  Er schwor, sie für immer zu lieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

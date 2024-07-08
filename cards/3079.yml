@@ -1,13 +1,28 @@
 Rang: 3079
 Lemma: 強力
 Lesung: きょうりょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: stark, mächtig
-Beispielsatz: 彼は強力なリーダーシップを持っている。
-Beispielsatz-Lesung: 彼[かれ]は 強力[きょうりょく]なリーダーシップを 持[も]っている。
-Beispielsatz-Übersetzung: Er hat eine starke Führungskraft.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">き</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">り</span><span class="char">ょ</span></span></span><span
+  class="accent_plain mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は強力なリーダーシップを持っている。
+  彼[かれ]は 強力[きょうりょく]なリーダーシップを 持[も]っている。
+  Er hat eine starke Führungskraft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

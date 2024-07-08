@@ -1,13 +1,24 @@
 Rang: 4182
 Lemma: 技術的
 Lesung: ぎじゅつてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: technisch, praktisch
-Beispielsatz: この作業は技術的に不可能だ。
-Beispielsatz-Lesung: この 作業[さぎょう]は 技術的[ぎじゅつてき]に 不可能[ふかのう]だ。
-Beispielsatz-Übersetzung: Diese Operation ist technisch unmöglich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この作業は技術的に不可能だ。
+  この 作業[さぎょう]は 技術的[ぎじゅつてき]に 不可能[ふかのう]だ。
+  Diese Operation ist technisch unmöglich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

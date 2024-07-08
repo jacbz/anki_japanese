@@ -1,13 +1,27 @@
 Rang: 3027
 Lemma: 消費
 Lesung: しょうひ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Verbrauch; verbrauchen
 Extra: （する）
 Wortart: n. v.
-Definition: Verbrauch; verbrauchen
-Beispielsatz: この村の人々は魚を多く消費する。
-Beispielsatz-Lesung: この 村[むら]の 人々[ひとびと]は 魚[さかな]を 多[おお]く 消費[しょうひ]する。
-Beispielsatz-Übersetzung: Die Menschen in diesem Dorf verbrauchen viel Fisch.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ひ</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この村の人々は魚を多く消費する。
+  この 村[むら]の 人々[ひとびと]は 魚[さかな]を 多[おお]く 消費[しょうひ]する。
+  Die Menschen in diesem Dorf verbrauchen viel Fisch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

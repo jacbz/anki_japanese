@@ -1,13 +1,27 @@
 Rang: 1559
 Lemma: 余裕
 Lesung: よゆう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Spielraum
-Beispielsatz: 予算に余裕がある。
-Beispielsatz-Lesung: 予算[よさん]に 余裕[よゆう]がある。
-Beispielsatz-Übersetzung: Ich habe Spielraum in meinem Budget.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  予算に余裕がある。
+  予算[よさん]に 余裕[よゆう]がある。
+  Ich habe Spielraum in meinem Budget.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

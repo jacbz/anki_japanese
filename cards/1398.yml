@@ -1,13 +1,28 @@
 Rang: 1398
 Lemma: もたらす
-Lesung: もたらす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: bringen, verursachen
-Beispielsatz: 天候の変化が農業に深刻な被害をもたらしている。
-Beispielsatz-Lesung: 天候[てんこう]の 変化[へんか]が 農業[のうぎょう]に 深刻[しんこく]な 被害[ひがい]をもたらしている。
-Beispielsatz-Übersetzung: Der Klimawandel verursacht ernsthafte Schäden in der Landwirtschaft.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  天候の変化が農業に深刻な被害をもたらしている。
+  天候[てんこう]の 変化[へんか]が 農業[のうぎょう]に 深刻[しんこく]な 被害[ひがい]をもたらしている。
+  Der Klimawandel verursacht ernsthafte Schäden in der Landwirtschaft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

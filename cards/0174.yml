@@ -1,13 +1,26 @@
 Rang: 174
 Lemma: いつ
-Lesung: いつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wann
-Beispielsatz: いつ日本へ来ますか。
-Beispielsatz-Lesung: いつ 日本[にっぽん]へ 来[き]ますか。
-Beispielsatz-Übersetzung: Wann kommen Sie nach Japan?
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いつ日本へ来ますか。
+  いつ 日本[にっぽん]へ 来[き]ますか。
+  Wann kommen Sie nach Japan?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

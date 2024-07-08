@@ -1,13 +1,24 @@
 Rang: 3978
 Lemma: 現実的
 Lesung: げんじつてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: realistisch
-Beispielsatz: 彼の夢がより現実的になった。
-Beispielsatz-Lesung: 彼[かれ]の 夢[ゆめ]がより 現実的[げんじつてき]になった。
-Beispielsatz-Übersetzung: Sein Traum wurde realistischer.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の夢がより現実的になった。
+  彼[かれ]の 夢[ゆめ]がより 現実的[げんじつてき]になった。
+  Sein Traum wurde realistischer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

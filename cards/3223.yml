@@ -1,13 +1,24 @@
 Rang: 3223
 Lemma: 十七
 Lesung: じゅうなな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: siebzehn
-Beispielsatz: 十七は恋多き年だ。
-Beispielsatz-Lesung: 十七は 恋[こい] 多[おお]き 年[とし]だ。
-Beispielsatz-Übersetzung: Siebzehn ist ein Alter voller Romantik.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十七は恋多き年だ。
+  十七は 恋[こい] 多[おお]き 年[とし]だ。
+  Siebzehn ist ein Alter voller Romantik.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

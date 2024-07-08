@@ -1,13 +1,24 @@
 Rang: 4899
 Lemma: 明記
 Lesung: めいき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: klar schreiben
 Extra: （する）
 Wortart: n. v.
-Definition: klar schreiben
-Beispielsatz: 名前と住所を明記してください。
-Beispielsatz-Lesung: 名前[なまえ]と 住所[じゅうしょ]を 明記[めいき]してください。
-Beispielsatz-Übersetzung: Bitte schreiben Sie Ihren Namen und Ihre Adresse klar.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  名前と住所を明記してください。
+  名前[なまえ]と 住所[じゅうしょ]を 明記[めいき]してください。
+  Bitte schreiben Sie Ihren Namen und Ihre Adresse klar.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

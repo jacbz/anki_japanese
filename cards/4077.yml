@@ -1,13 +1,24 @@
 Rang: 4077
 Lemma: 安全性
 Lesung: あんぜんせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sicherheit
-Beispielsatz: コンピューターの安全性を高めなければならない。
-Beispielsatz-Lesung: コンピューターの 安全性[あんぜんせい]を 高[たか]めなければならない。
-Beispielsatz-Übersetzung: Ich muss die Sicherheit meines Computers verbessern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンピューターの安全性を高めなければならない。
+  コンピューターの 安全性[あんぜんせい]を 高[たか]めなければならない。
+  Ich muss die Sicherheit meines Computers verbessern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

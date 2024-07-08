@@ -1,13 +1,27 @@
 Rang: 4092
 Lemma: 屋敷
 Lesung: やしき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Herrenhaus, Wohnsitz, Anwesen
-Beispielsatz: なんて素敵なお屋敷なんでしょう！
-Beispielsatz-Lesung: なんて 素敵[すてき]なお 屋敷[やしき]なんでしょう！
-Beispielsatz-Übersetzung: Was für ein wunderbares Anwesen Sie haben!
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  なんて素敵なお屋敷なんでしょう！
+  なんて 素敵[すてき]なお 屋敷[やしき]なんでしょう！
+  Was für ein wunderbares Anwesen Sie haben!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

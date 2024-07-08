@@ -1,13 +1,24 @@
 Rang: 433
 Lemma: だんだん
-Lesung: だんだん
-Alternative: 段々
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: 段々
 Definition: allmählich, immer (mehr/weniger)
-Beispielsatz: だんだん寒くなってきた。
-Beispielsatz-Lesung: だんだん 寒[さむ]くなってきた。
-Beispielsatz-Übersetzung: Es wird immer kälter.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  だんだん寒くなってきた。
+  だんだん 寒[さむ]くなってきた。
+  Es wird immer kälter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

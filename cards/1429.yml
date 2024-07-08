@@ -1,13 +1,24 @@
 Rang: 1429
 Lemma: しようがない
 Lesung: ''
-Alternative: しょうがない
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: しょうがない
 Definition: es kann nichts getan werden
-Beispielsatz: 人がミスをするのはしようがない。
-Beispielsatz-Lesung: 人[ひと]がミスをするのはしようがない。
-Beispielsatz-Übersetzung: Es kann nicht geholfen werden, dass Menschen Fehler machen.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人がミスをするのはしようがない。
+  人[ひと]がミスをするのはしようがない。
+  Es kann nicht geholfen werden, dass Menschen Fehler machen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

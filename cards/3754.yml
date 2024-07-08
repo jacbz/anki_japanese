@@ -1,14 +1,24 @@
 Rang: 3754
 Lemma: 接触
 Lesung: せっしょく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: berühren, Kontakt haben; touch
 Extra: （する）
 Wortart: n. v.
-Definition: berühren, Kontakt haben; touch
-Beispielsatz: 電源が入らないのは接触が悪いせいかもしれない。
-Beispielsatz-Lesung: 電源[でんげん]が 入[はい]らないのは 接触[せっしょく]が 悪[わる]いせいかもしれない。
-Beispielsatz-Übersetzung: Vielleicht kommt der Strom nicht durch, weil der Kontakt
-  schlecht ist.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電源が入らないのは接触が悪いせいかもしれない。
+  電源[でんげん]が 入[はい]らないのは 接触[せっしょく]が 悪[わる]いせいかもしれない。
+  Vielleicht kommt der Strom nicht durch, weil der Kontakt schlecht ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

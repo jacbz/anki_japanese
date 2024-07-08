@@ -1,13 +1,28 @@
 Rang: 1462
 Lemma: 有する
 Lesung: ゆうする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: haben
-Beispielsatz: すべての人は対等の権利を有する。
-Beispielsatz-Lesung: すべての人は 対等[たいとう]の 権利[けんり]を 有[ゆう]する。
-Beispielsatz-Übersetzung: Alle Menschen haben gleiche Rechte.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  すべての人は対等の権利を有する。
+  すべての人は 対等[たいとう]の 権利[けんり]を 有[ゆう]する。
+  Alle Menschen haben gleiche Rechte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

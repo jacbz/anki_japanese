@@ -1,13 +1,24 @@
 Rang: 4410
 Lemma: おはよう
-Lesung: おはよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Guten Morgen
-Beispielsatz: 「皆さん、おはよう」と先生が言った。
-Beispielsatz-Lesung: 「 皆[みな]さん、おはよう」と 先生[せんせい]が 言[い]った。
-Beispielsatz-Übersetzung: 'Der Lehrer sagte: „Guten Morgen, alle zusammen“.'
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「皆さん、おはよう」と先生が言った。
+  「 皆[みな]さん、おはよう」と 先生[せんせい]が 言[い]った。
+  Der Lehrer sagte: „Guten Morgen, alle zusammen“.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

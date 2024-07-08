@@ -1,13 +1,24 @@
 Rang: 3189
 Lemma: 数値
 Lesung: すうち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: numerischer Wert; Punktzahl, Zählung
-Beispielsatz: 白血球が高い数値を示している。
-Beispielsatz-Lesung: 白血球[はっけっきゅう]が 高[たか]い 数値[すうち]を 示[しめ]している。
-Beispielsatz-Übersetzung: Die Anzahl der weißen Blutkörperchen ist hoch.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  白血球が高い数値を示している。
+  白血球[はっけっきゅう]が 高[たか]い 数値[すうち]を 示[しめ]している。
+  Die Anzahl der weißen Blutkörperchen ist hoch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

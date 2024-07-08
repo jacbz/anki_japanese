@@ -1,13 +1,28 @@
 Rang: 2800
 Lemma: 汚れる
 Lesung: よごれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schmutzig werden, verschmutzen
-Beispielsatz: 彼はいつも穴の空いた汚れたジーンズをはいている。
-Beispielsatz-Lesung: 彼[かれ]はいつも 穴[あな]の 空[あ]いた 汚[よご]れたジーンズをはいている。
-Beispielsatz-Übersetzung: Er trägt immer zerrissene, schmutzige Jeans.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ご</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はいつも穴の空いた汚れたジーンズをはいている。
+  彼[かれ]はいつも 穴[あな]の 空[あ]いた 汚[よご]れたジーンズをはいている。
+  Er trägt immer zerrissene, schmutzige Jeans.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

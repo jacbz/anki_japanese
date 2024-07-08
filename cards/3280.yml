@@ -1,13 +1,24 @@
 Rang: 3280
 Lemma: サイン
-Lesung: サイン
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Unterschrift, Autogramm; unterschreiben
 Extra: （する）
 Wortart: n. v.
-Definition: Unterschrift, Autogramm; unterschreiben
-Beispielsatz: 手紙の最後にサインを書いた。
-Beispielsatz-Lesung: 手紙[てがみ]の 最後[さいご]にサインを 書[か]いた。
-Beispielsatz-Übersetzung: Ich habe meine Unterschrift am Ende des Briefes geschrieben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  手紙の最後にサインを書いた。
+  手紙[てがみ]の 最後[さいご]にサインを 書[か]いた。
+  Ich habe meine Unterschrift am Ende des Briefes geschrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2799
 Lemma: （お）尻
 Lesung: （お）しり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gesäß
-Beispielsatz: 彼女はお尻の形がきれいに見えるズボンを履いている。
-Beispielsatz-Lesung: 彼女[かのじょ]はお 尻[しり]の 形[かたち]がきれいに 見[み]えるズボンを 履[は]いている。
-Beispielsatz-Übersetzung: Sie trägt Hosen, die ihr Gesäß gut aussehen lassen。
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はお尻の形がきれいに見えるズボンを履いている。
+  彼女[かのじょ]はお 尻[しり]の 形[かたち]がきれいに 見[み]えるズボンを 履[は]いている。
+  Sie trägt Hosen, die ihr Gesäß gut aussehen lassen。
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

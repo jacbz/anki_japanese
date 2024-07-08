@@ -1,13 +1,24 @@
 Rang: 1803
 Lemma: 僕ら
 Lesung: ぼくら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: wir
-Beispielsatz: 僕らはおばあちゃんが大好き。
-Beispielsatz-Lesung: 僕[ぼく]らはおばあちゃんが 大好[だいす]き。
-Beispielsatz-Übersetzung: Wir lieben unsere Großmutter.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  僕らはおばあちゃんが大好き。
+  僕[ぼく]らはおばあちゃんが 大好[だいす]き。
+  Wir lieben unsere Großmutter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

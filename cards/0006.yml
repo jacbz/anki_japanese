@@ -1,13 +1,24 @@
 Rang: 6
 Lemma: だ
-Lesung: だ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: KOPULA
-Beispielsatz: 僕は英語が苦手だ。
-Beispielsatz-Lesung: 僕[ぼく]は 英語[えいご]が 苦手[にがて]だ。
-Beispielsatz-Übersetzung: Ich bin nicht gut in Englisch.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  僕は英語が苦手だ。
+  僕[ぼく]は 英語[えいご]が 苦手[にがて]だ。
+  Ich bin nicht gut in Englisch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

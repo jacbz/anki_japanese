@@ -1,13 +1,28 @@
 Rang: 1356
 Lemma: 挨拶
 Lesung: あいさつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Gruß
 Extra: （する）
 Wortart: n. v.
-Definition: Gruß
-Beispielsatz: 私たちは新年の挨拶を交わした。
-Beispielsatz-Lesung: 私[わたし]たちは 新年[しんねん]の 挨拶[あいさつ]を 交[か]わした。
-Beispielsatz-Übersetzung: Wir haben uns zum Neujahr begrüßt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">あ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは新年の挨拶を交わした。
+  私[わたし]たちは 新年[しんねん]の 挨拶[あいさつ]を 交[か]わした。
+  Wir haben uns zum Neujahr begrüßt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

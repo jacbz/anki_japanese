@@ -1,13 +1,24 @@
 Rang: 1806
 Lemma: 推移
 Lesung: すいい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Übergang, Veränderung
 Extra: （する）
 Wortart: n. v.
-Definition: Übergang, Veränderung
-Beispielsatz: 図9は人口の推移を表したものである。
-Beispielsatz-Lesung: 図[ず]9は 人口[じんこう]の 推移[すいい]を 表[あらわ]したものである。
-Beispielsatz-Übersetzung: Abbildung 9 zeigt die Veränderungen in der Bevölkerung.
+Lesung mit Tonhöhe: ''
+Register: ↗Verwaltungssprache
+Dispersion: '24'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  図9は人口の推移を表したものである。
+  図[ず]9は 人口[じんこう]の 推移[すいい]を 表[あらわ]したものである。
+  Abbildung 9 zeigt die Veränderungen in der Bevölkerung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

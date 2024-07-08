@@ -1,13 +1,26 @@
 Rang: 4471
 Lemma: 梅
 Lesung: うめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pflaume, japanische Aprikose
-Beispielsatz: 梅の花が咲く季節がやってきます。
-Beispielsatz-Lesung: 梅[うめ]の 花[はな]が 咲[さ]く 季節[きせつ]がやってきます。
-Beispielsatz-Übersetzung: Die Zeit der Pflaumenblüte kommt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">め</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  梅の花が咲く季節がやってきます。
+  梅[うめ]の 花[はな]が 咲[さ]く 季節[きせつ]がやってきます。
+  Die Zeit der Pflaumenblüte kommt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 804
 Lemma: おそらく
-Lesung: おそらく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wahrscheinlich
-Beispielsatz: おそらく彼はそのことを知らないのだろう。
-Beispielsatz-Lesung: おそらく 彼[かれ]はそのことを 知[し]らないのだろう。
-Beispielsatz-Übersetzung: Er weiß wahrscheinlich nichts darüber.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  おそらく彼はそのことを知らないのだろう。
+  おそらく 彼[かれ]はそのことを 知[し]らないのだろう。
+  Er weiß wahrscheinlich nichts darüber.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

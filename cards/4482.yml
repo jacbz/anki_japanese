@@ -1,13 +1,24 @@
 Rang: 4482
 Lemma: 二千
 Lesung: にせん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: zweitausend
-Beispielsatz: 二千を超えるファンが空港に集まった。
-Beispielsatz-Lesung: 二 千[せん]を 超[こ]えるファンが 空港[くうこう]に 集[あつ]まった。
-Beispielsatz-Übersetzung: Mehr als zweitausend Fans versammelten sich auf dem Flughafen.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二千を超えるファンが空港に集まった。
+  二 千[せん]を 超[こ]えるファンが 空港[くうこう]に 集[あつ]まった。
+  Mehr als zweitausend Fans versammelten sich auf dem Flughafen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

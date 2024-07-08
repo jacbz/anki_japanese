@@ -1,13 +1,28 @@
 Rang: 4359
 Lemma: 日程
 Lesung: にってい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zeitplan, Reiseroute
-Beispielsatz: 旅行の日程を来週に変更した。
-Beispielsatz-Lesung: 旅行[りょこう]の 日程[にってい]を 来週[らいしゅう]に 変更[へんこう]した。
-Beispielsatz-Übersetzung: Ich habe den Zeitplan meiner Reise auf nächste Woche geändert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  旅行の日程を来週に変更した。
+  旅行[りょこう]の 日程[にってい]を 来週[らいしゅう]に 変更[へんこう]した。
+  Ich habe den Zeitplan meiner Reise auf nächste Woche geändert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

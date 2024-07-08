@@ -1,13 +1,27 @@
 Rang: 1449
 Lemma: 身近
 Lesung: みぢか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: vertraut, nah
-Beispielsatz: 日本人にとって米は最も身近な食べ物だ。
-Beispielsatz-Lesung: 日本人[にっぽんじん]にとって 米[べい]は 最[もっと]も 身近[みぢか]な 食[た]べ 物[もの]だ。
-Beispielsatz-Übersetzung: Reis ist für Japaner das bekannteste Nahrungsmittel.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぢ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本人にとって米は最も身近な食べ物だ。
+  日本人[にっぽんじん]にとって 米[べい]は 最[もっと]も 身近[みぢか]な 食[た]べ 物[もの]だ。
+  Reis ist für Japaner das bekannteste Nahrungsmittel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

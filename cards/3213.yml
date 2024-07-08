@@ -1,13 +1,24 @@
 Rang: 3213
 Lemma: 英国
 Lesung: えいこく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vereinigtes Königreich, Großbritannien
-Beispielsatz: 英国式の庭園を散策した。
-Beispielsatz-Lesung: 英国[えいこく] 式[しき]の 庭園[ていえん]を 散策[さんさく]した。
-Beispielsatz-Übersetzung: Ich habe einen Spaziergang in einem britischen Garten gemacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  英国式の庭園を散策した。
+  英国[えいこく] 式[しき]の 庭園[ていえん]を 散策[さんさく]した。
+  Ich habe einen Spaziergang in einem britischen Garten gemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 299
 Lemma: もっと
-Lesung: もっと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mehr
-Beispielsatz: もっといい方法があるはずだ。
-Beispielsatz-Lesung: もっといい 方法[ほうほう]があるはずだ。
-Beispielsatz-Übersetzung: Es muss einen besseren Weg geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もっといい方法があるはずだ。
+  もっといい 方法[ほうほう]があるはずだ。
+  Es muss einen besseren Weg geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

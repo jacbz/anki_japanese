@@ -1,13 +1,26 @@
 Rang: 4631
 Lemma: 箇所
 Lesung: かしょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Stelle, Punkt, Teil
-Beispielsatz: 間違った箇所を直さなければいけません。
-Beispielsatz-Lesung: 間違[まちが]った 箇所[かしょ]を 直[なお]さなければいけません。
-Beispielsatz-Übersetzung: Ich muss die Teile korrigieren, die Fehler enthalten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  間違った箇所を直さなければいけません。
+  間違[まちが]った 箇所[かしょ]を 直[なお]さなければいけません。
+  Ich muss die Teile korrigieren, die Fehler enthalten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

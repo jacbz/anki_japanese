@@ -1,13 +1,26 @@
 Rang: 1401
 Lemma: 継ぐ
 Lesung: つぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: übernehmen, nachfolgen
-Beispielsatz: 彼はお父さんの後を継いで社長になる予定だ。
-Beispielsatz-Lesung: 彼[かれ]はお 父[とう]さんの 後[のち]を 継[つ]いで 社長[しゃちょう]になる 予定[よてい]だ。
-Beispielsatz-Übersetzung: Er wird seinen Vater als Firmenpräsidenten nachfolgen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぐ</span></span></span></span>
+Register: ↗</>Zeitungen
+Dispersion: '20'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はお父さんの後を継いで社長になる予定だ。
+  彼[かれ]はお 父[とう]さんの 後[のち]を 継[つ]いで 社長[しゃちょう]になる 予定[よてい]だ。
+  Er wird seinen Vater als Firmenpräsidenten nachfolgen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

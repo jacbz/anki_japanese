@@ -1,13 +1,24 @@
 Rang: 4856
 Lemma: 着実
 Lesung: ちゃくじつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: stetig
-Beispielsatz: その国は着実な発展をしている。
-Beispielsatz-Lesung: その 国[くに]は 着実[ちゃくじつ]な 発展[はってん]をしている。
-Beispielsatz-Übersetzung: Das Land erreicht eine stetige Entwicklung.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '57'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その国は着実な発展をしている。
+  その 国[くに]は 着実[ちゃくじつ]な 発展[はってん]をしている。
+  Das Land erreicht eine stetige Entwicklung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

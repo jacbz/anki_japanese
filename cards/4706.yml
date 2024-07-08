@@ -1,13 +1,28 @@
 Rang: 4706
 Lemma: 幸運
 Lesung: こううん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Glück, Wohlstand; glücklich, wohlhabend
-Beispielsatz: 彼女の幸運を祈っています。
-Beispielsatz-Lesung: 彼女[かのじょ]の 幸運[こううん]を 祈[いの]っています。
-Beispielsatz-Übersetzung: Ich wünsche ihr viel Glück.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の幸運を祈っています。
+  彼女[かのじょ]の 幸運[こううん]を 祈[いの]っています。
+  Ich wünsche ihr viel Glück.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

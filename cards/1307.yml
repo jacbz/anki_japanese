@@ -1,14 +1,24 @@
 Rang: 1307
 Lemma: せっかく
-Lesung: せっかく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mit Anstrengung, sich die Mühe machen zu
-Beispielsatz: せっかく外国に来たのだからそこの文化を知る努力をしよう。
-Beispielsatz-Lesung: せっかく 外国[がいこく]に 来[き]たのだからそこの 文化[ぶんか]を 知[し]る 努力[どりょく]をしよう。
-Beispielsatz-Übersetzung: Da ich mir die Mühe gemacht habe, bis in ein fremdes Land
-  zu kommen, sollte ich versuchen, ihre Kultur zu verstehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  せっかく外国に来たのだからそこの文化を知る努力をしよう。
+  せっかく 外国[がいこく]に 来[き]たのだからそこの 文化[ぶんか]を 知[し]る 努力[どりょく]をしよう。
+  Da ich mir die Mühe gemacht habe, bis in ein fremdes Land zu kommen, sollte ich versuchen, ihre Kultur zu verstehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,27 @@
 Rang: 4098
 Lemma: 講義
 Lesung: こうぎ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorlesung
-Beispielsatz: 有名な教授の講義を書き留めた。
-Beispielsatz-Lesung: 有名[ゆうめい]な 教授[きょうじゅ]の 講義[こうぎ]を 書[か]き 留[と]めた。
-Beispielsatz-Übersetzung: Ich habe mir Notizen zu der Vorlesung des berühmten Professors
-  gemacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ぎ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  有名な教授の講義を書き留めた。
+  有名[ゆうめい]な 教授[きょうじゅ]の 講義[こうぎ]を 書[か]き 留[と]めた。
+  Ich habe mir Notizen zu der Vorlesung des berühmten Professors gemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

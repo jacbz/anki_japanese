@@ -1,13 +1,24 @@
 Rang: 4652
 Lemma: 保険会社
 Lesung: ほけんがいしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Versicherungsgesellschaft
-Beispielsatz: 彼は保険会社にその事故を報告した。
-Beispielsatz-Lesung: 彼[かれ]は 保険会社[ほけんがいしゃ]にその 事故[じこ]を 報告[ほうこく]した。
-Beispielsatz-Übersetzung: Er meldete den Unfall seiner Versicherungsgesellschaft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は保険会社にその事故を報告した。
+  彼[かれ]は 保険会社[ほけんがいしゃ]にその 事故[じこ]を 報告[ほうこく]した。
+  Er meldete den Unfall seiner Versicherungsgesellschaft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 2000
 Lemma: 五時
 Lesung: ごじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: fünf Uhr
-Beispielsatz: 彼は五時ごろ戻ります。
-Beispielsatz-Lesung: 彼[かれ]は五 時[じ]ごろ 戻[もど]ります。
-Beispielsatz-Übersetzung: Er wird gegen fünf Uhr zurück sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ご</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ↗Zeitungen
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は五時ごろ戻ります。
+  彼[かれ]は五 時[じ]ごろ 戻[もど]ります。
+  Er wird gegen fünf Uhr zurück sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

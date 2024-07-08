@@ -1,13 +1,24 @@
 Rang: 3277
 Lemma: 市販
 Lesung: しはん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: auf dem Markt (bringen)
 Extra: （する）
 Wortart: n. v.
-Definition: auf dem Markt (bringen)
-Beispielsatz: この薬は市販されている。
-Beispielsatz-Lesung: この 薬[くすり]は 市販[しはん]されている。
-Beispielsatz-Übersetzung: Dieses Medikament wird auf dem Markt angeboten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この薬は市販されている。
+  この 薬[くすり]は 市販[しはん]されている。
+  Dieses Medikament wird auf dem Markt angeboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

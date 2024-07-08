@@ -1,13 +1,24 @@
 Rang: 2147
 Lemma: いざ
-Lesung: いざ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wenn man zu Bewusstsein kommt, wenn man gezwungen ist
-Beispielsatz: いざというときのためにお金を貯めている。
-Beispielsatz-Lesung: いざというときのためにお 金[かね]を 貯[た]めている。
-Beispielsatz-Übersetzung: Ich lege etwas Geld beiseite, für den Fall eines Notfalls.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いざというときのためにお金を貯めている。
+  いざというときのためにお 金[かね]を 貯[た]めている。
+  Ich lege etwas Geld beiseite, für den Fall eines Notfalls.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

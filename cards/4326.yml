@@ -1,13 +1,24 @@
 Rang: 4326
 Lemma: 語
 Lesung: ご
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wort; Sprache
-Beispielsatz: この語はどういう意味ですか。
-Beispielsatz-Lesung: この 語[かたり]はどういう 意味[いみ]ですか。
-Beispielsatz-Übersetzung: Was bedeutet dieses Wort?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この語はどういう意味ですか。
+  この 語[かたり]はどういう 意味[いみ]ですか。
+  Was bedeutet dieses Wort?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,32 @@
 Rang: 756
 Lemma: 二十一世紀
 Lesung: にじゅういっせいき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 21. Jahrhundert
-Beispielsatz: 21世紀は混沌としている。
-Beispielsatz-Lesung: 21 世紀[せいき]は 混沌[こんとん]としている。
-Beispielsatz-Übersetzung: Das 21. Jahrhundert sieht chaotisch aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-8"><span
+  class="inner"><span class="char">に</span></span></span><span class="mola_-7"><span
+  class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-6"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-5"><span class="inner"><span class="char">い</span></span></span><span
+  class="mola_-4"><span class="inner"><span class="char">っ</span></span></span><span
+  class="mola_-3"><span class="inner"><span class="char">せ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">い</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  21世紀は混沌としている。
+  21 世紀[せいき]は 混沌[こんとん]としている。
+  Das 21. Jahrhundert sieht chaotisch aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

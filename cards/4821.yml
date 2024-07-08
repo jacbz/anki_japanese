@@ -1,13 +1,24 @@
 Rang: 4821
 Lemma: 一年半
 Lesung: いちねんはん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: eineinhalb Jahre
-Beispielsatz: そこに1年半滞在しました。
-Beispielsatz-Lesung: そこに1 年[ねん] 半[はん] 滞在[たいざい]しました。
-Beispielsatz-Übersetzung: Ich blieb eineinhalb Jahre dort.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そこに1年半滞在しました。
+  そこに1 年[ねん] 半[はん] 滞在[たいざい]しました。
+  Ich blieb eineinhalb Jahre dort.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

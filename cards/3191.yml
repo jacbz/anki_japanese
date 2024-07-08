@@ -1,14 +1,28 @@
 Rang: 3191
 Lemma: 見直し
 Lesung: みなおし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Überprüfung, Neubewertung
-Beispielsatz: 現行の制度の大幅な見直しが行われた。
-Beispielsatz-Lesung: 現行[げんこう]の 制度[せいど]の 大幅[おおはば]な 見直[みなお]しが 行[おこな]われた。
-Beispielsatz-Übersetzung: Eine umfassende Überprüfung des aktuellen Systems wurde
-  durchgeführt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  現行の制度の大幅な見直しが行われた。
+  現行[げんこう]の 制度[せいど]の 大幅[おおはば]な 見直[みなお]しが 行[おこな]われた。
+  Eine umfassende Überprüfung des aktuellen Systems wurde durchgeführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

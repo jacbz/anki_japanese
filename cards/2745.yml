@@ -1,14 +1,24 @@
 Rang: 2745
 Lemma: ゆえ
-Lesung: ゆえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Grund; deshalb
-Beispielsatz: 彼の作品はその斬新さゆえに批判されることもあった。
-Beispielsatz-Lesung: 彼[かれ]の 作品[さくひん]はその 斬新[ざんしん]さゆえに 批判[ひはん]されることもあった。
-Beispielsatz-Übersetzung: Seine Kunstwerke wurden manchmal aufgrund ihrer Neuheit
-  kritisiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の作品はその斬新さゆえに批判されることもあった。
+  彼[かれ]の 作品[さくひん]はその 斬新[ざんしん]さゆえに 批判[ひはん]されることもあった。
+  Seine Kunstwerke wurden manchmal aufgrund ihrer Neuheit kritisiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

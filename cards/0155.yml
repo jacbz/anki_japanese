@@ -1,13 +1,24 @@
 Rang: 155
 Lemma: かもしれない
-Lesung: かもしれない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: vielleicht
-Beispielsatz: これは毒キノコかもしれない。
-Beispielsatz-Lesung: これは 毒[どく]キノコかもしれない。
-Beispielsatz-Übersetzung: Vielleicht ist das ein giftiger Pilz.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは毒キノコかもしれない。
+  これは 毒[どく]キノコかもしれない。
+  Vielleicht ist das ein giftiger Pilz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2918
 Lemma: 十八日
 Lesung: じゅうはちにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: der achtzehnte (Tag); achtzehn Tage
-Beispielsatz: 次の会議は十八日です。
-Beispielsatz-Lesung: 次[つぎ]の 会議[かいぎ]は十八 日[にち]です。
-Beispielsatz-Übersetzung: Unser nächstes Treffen ist am achtzehnten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  次の会議は十八日です。
+  次[つぎ]の 会議[かいぎ]は十八 日[にち]です。
+  Unser nächstes Treffen ist am achtzehnten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

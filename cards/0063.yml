@@ -1,13 +1,28 @@
 Rang: 63
 Lemma: や
-Lesung: や
-Alternative: ''
-Extra: '' # nur bei する-Verben
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: und; oder (Auflistung); COPULA (Dialekt)
+Extra: '' # Nur bei suru-Verben
 Wortart: p.
-Definition: und; oder (Auflistung)
-Beispielsatz: 結婚式に家族や友人を招待した。
-Beispielsatz-Lesung: 結婚式[けっこんしき]に 家族[かぞく]や 友人[ゆうじん]を 招待[しょうたい]した。
-Beispielsatz-Übersetzung: Wir haben unsere Familie und Freunde zur Hochzeit eingeladen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結婚式に家族や友人を招待した。
+  結婚式[けっこんしき]に 家族[かぞく]や 友人[ゆうじん]を 招待[しょうたい]した。
+  Wir haben unsere Familie und Freunde zur Hochzeit eingeladen.
+
+  それなんや？たこ焼きや。
+  それなんや？たこ 焼[や]きや。
+  Was ist das? Takoyaki.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

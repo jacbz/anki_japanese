@@ -1,13 +1,29 @@
 Rang: 746
 Lemma: 振り返る
 Lesung: ふりかえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zurückblicken
-Beispielsatz: 時々、過去を振り返るべきだ。
-Beispielsatz-Lesung: 時々[ときどき]、 過去[かこ]を 振[ふ]り 返[かえ]るべきだ。
-Beispielsatz-Übersetzung: Manchmal sollte man auf die Vergangenheit zurückblicken.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  時々、過去を振り返るべきだ。
+  時々[ときどき]、 過去[かこ]を 振[ふ]り 返[かえ]るべきだ。
+  Manchmal sollte man auf die Vergangenheit zurückblicken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

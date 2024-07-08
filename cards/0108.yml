@@ -1,13 +1,24 @@
 Rang: 108
 Lemma: それで
-Lesung: それで
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: und dann; daher
-Beispielsatz: それで、彼は何と言ったの。
-Beispielsatz-Lesung: それで、 彼[かれ]は 何[なに]と 言[い]ったの。
-Beispielsatz-Übersetzung: Und dann, was hat er gesagt?
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '30'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それで、彼は何と言ったの。
+  それで、 彼[かれ]は 何[なに]と 言[い]ったの。
+  Und dann, was hat er gesagt?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

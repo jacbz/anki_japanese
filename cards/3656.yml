@@ -1,13 +1,28 @@
 Rang: 3656
 Lemma: うかがう
-Lesung: うかがう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: spähen, Ausschau halten; auf eine Gelegenheit warten
-Beispielsatz: ドアの隙間から中の様子をうかがった。
-Beispielsatz-Lesung: ドアの 隙間[すきま]から 中[なか]の 様子[ようす]をうかがった。
-Beispielsatz-Übersetzung: Ich spähte durch die Tür nach drinnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドアの隙間から中の様子をうかがった。
+  ドアの 隙間[すきま]から 中[なか]の 様子[ようす]をうかがった。
+  Ich spähte durch die Tür nach drinnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

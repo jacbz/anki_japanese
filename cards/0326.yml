@@ -1,13 +1,24 @@
 Rang: 326
 Lemma: ことになる
-Lesung: ことになる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: es kommt dazu, dass; es wird beschlossen, dass
-Beispielsatz: 来月、神戸へ転勤することになりました。
-Beispielsatz-Lesung: 来月[らいげつ]、 神戸[こうべ]へ 転勤[てんきん]することになりました。
-Beispielsatz-Übersetzung: Es wurde beschlossen, mich nächsten Monat nach Kobe zu versetzen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  来月、神戸へ転勤することになりました。
+  来月[らいげつ]、 神戸[こうべ]へ 転勤[てんきん]することになりました。
+  Es wurde beschlossen, mich nächsten Monat nach Kobe zu versetzen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

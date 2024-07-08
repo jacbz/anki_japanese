@@ -1,13 +1,27 @@
 Rang: 1918
 Lemma: 過程
 Lesung: かてい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Prozess
-Beispielsatz: 彼はチョコレートを作る過程を説明した。
-Beispielsatz-Lesung: 彼[かれ]はチョコレートを 作[つく]る 過程[かてい]を 説明[せつめい]した。
-Beispielsatz-Übersetzung: Er erklärte den Prozess der Schokoladenherstellung.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はチョコレートを作る過程を説明した。
+  彼[かれ]はチョコレートを 作[つく]る 過程[かてい]を 説明[せつめい]した。
+  Er erklärte den Prozess der Schokoladenherstellung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

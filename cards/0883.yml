@@ -1,13 +1,28 @@
 Rang: 883
 Lemma: 生じる
 Lesung: しょうじる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hervorrufen, verursachen, entstehen
-Beispielsatz: これが原因で多くの問題が生じた。
-Beispielsatz-Lesung: これが 原因[げんいん]で 多[おお]くの 問題[もんだい]が 生[しょう]じた。
-Beispielsatz-Übersetzung: Dadurch entstanden viele Probleme.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">じ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これが原因で多くの問題が生じた。
+  これが 原因[げんいん]で 多[おお]くの 問題[もんだい]が 生[しょう]じた。
+  Dadurch entstanden viele Probleme.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

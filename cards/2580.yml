@@ -1,13 +1,24 @@
 Rang: 2580
 Lemma: クリスマス
-Lesung: クリスマス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Weihnachten
-Beispielsatz: 私たちはクリスマスの歌を歌う。
-Beispielsatz-Lesung: 私[わたし]たちはクリスマスの 歌[うた]を 歌[うた]う。
-Beispielsatz-Übersetzung: Wir werden ein Weihnachtslied singen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちはクリスマスの歌を歌う。
+  私[わたし]たちはクリスマスの 歌[うた]を 歌[うた]う。
+  Wir werden ein Weihnachtslied singen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

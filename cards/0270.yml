@@ -1,13 +1,24 @@
 Rang: 270
 Lemma: に対して
 Lesung: にたいして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: zu, gegenüber; für; gegen
-Beispielsatz: 彼は誰に対しても優しい。
-Beispielsatz-Lesung: 彼[かれ]は 誰[だれ]に 対[たい]しても 優[やさ]しい。
-Beispielsatz-Übersetzung: Er ist zu jedem freundlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は誰に対しても優しい。
+  彼[かれ]は 誰[だれ]に 対[たい]しても 優[やさ]しい。
+  Er ist zu jedem freundlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

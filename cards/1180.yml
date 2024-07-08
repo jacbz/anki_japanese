@@ -1,13 +1,24 @@
 Rang: 1180
 Lemma: 展開
 Lesung: てんかい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Entwicklung, Entfaltung
 Extra: （する）
 Wortart: n. v.
-Definition: Entwicklung, Entfaltung
-Beispielsatz: 今後の展開を楽しみにしています。
-Beispielsatz-Lesung: 今後[こんご]の 展開[てんかい]を 楽[たの]しみにしています。
-Beispielsatz-Übersetzung: Wir freuen uns auf zukünftige Entwicklungen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今後の展開を楽しみにしています。
+  今後[こんご]の 展開[てんかい]を 楽[たの]しみにしています。
+  Wir freuen uns auf zukünftige Entwicklungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

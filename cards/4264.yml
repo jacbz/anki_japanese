@@ -1,13 +1,24 @@
 Rang: 4264
 Lemma: ジュース
-Lesung: ジュース
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Saft
-Beispielsatz: そのジュースは少し酸っぱいです。
-Beispielsatz-Lesung: そのジュースは 少[すこ]し 酸[す]っぱいです。
-Beispielsatz-Übersetzung: Dieser Saft schmeckt ein wenig sauer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのジュースは少し酸っぱいです。
+  そのジュースは 少[すこ]し 酸[す]っぱいです。
+  Dieser Saft schmeckt ein wenig sauer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

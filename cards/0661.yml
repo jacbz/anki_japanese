@@ -1,13 +1,27 @@
 Rang: 661
 Lemma: 旅行
 Lesung: りょこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Reise
 Extra: （する）
 Wortart: n. v.
-Definition: Reise
-Beispielsatz: 世界中を旅行したい。
-Beispielsatz-Lesung: 世界中[せかいじゅう]を 旅行[りょこう]したい。
-Beispielsatz-Übersetzung: Ich möchte um die Welt reisen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">こ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界中を旅行したい。
+  世界中[せかいじゅう]を 旅行[りょこう]したい。
+  Ich möchte um die Welt reisen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

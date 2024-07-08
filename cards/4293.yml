@@ -1,13 +1,28 @@
 Rang: 4293
 Lemma: 情熱
 Lesung: じょうねつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Leidenschaft
-Beispielsatz: 彼の仕事への情熱は貪欲だ。
-Beispielsatz-Lesung: 彼[かれ]の 仕事[しごと]への 情熱[じょうねつ]は 貪欲[どんよく]だ。
-Beispielsatz-Übersetzung: Seine Leidenschaft für die Arbeit ist unersättlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ね</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の仕事への情熱は貪欲だ。
+  彼[かれ]の 仕事[しごと]への 情熱[じょうねつ]は 貪欲[どんよく]だ。
+  Seine Leidenschaft für die Arbeit ist unersättlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

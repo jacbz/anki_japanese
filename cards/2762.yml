@@ -1,13 +1,24 @@
 Rang: 2762
 Lemma: アクセス
-Lesung: アクセス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Zugang
-Beispielsatz: カフェでアクセスポイントを探した。
-Beispielsatz-Lesung: カフェでアクセスポイントを 探[さが]した。
-Beispielsatz-Übersetzung: Ich habe im Café nach einem Zugangspunkt gesucht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カフェでアクセスポイントを探した。
+  カフェでアクセスポイントを 探[さが]した。
+  Ich habe im Café nach einem Zugangspunkt gesucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

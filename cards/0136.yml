@@ -1,14 +1,24 @@
 Rang: 136
 Lemma: それから
-Lesung: それから
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dann, danach
-Beispielsatz: 昨日は９時ごろ帰宅しました。それから、テレビを見ました。
-Beispielsatz-Lesung: 昨日[きのう]は９ 時[じ]ごろ 帰宅[きたく]しました。それから、テレビを 見[み]ました。
-Beispielsatz-Übersetzung: Ich bin gestern gegen neun nach Hause gekommen und habe
-  dann ferngesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨日は９時ごろ帰宅しました。それから、テレビを見ました。
+  昨日[きのう]は９ 時[じ]ごろ 帰宅[きたく]しました。それから、テレビを 見[み]ました。
+  Ich bin gestern gegen neun nach Hause gekommen und habe dann ferngesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

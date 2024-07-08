@@ -1,13 +1,24 @@
 Rang: 2632
 Lemma: ホーム
-Lesung: ホーム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Bahnsteig
-Beispielsatz: 駅のホームで人を待っている。
-Beispielsatz-Lesung: 駅[えき]のホームで人を 待[ま]っている。
-Beispielsatz-Übersetzung: Ich warte auf jemanden auf dem Bahnsteig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  駅のホームで人を待っている。
+  駅[えき]のホームで人を 待[ま]っている。
+  Ich warte auf jemanden auf dem Bahnsteig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

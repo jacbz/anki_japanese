@@ -1,13 +1,24 @@
 Rang: 1912
 Lemma: 果たして
 Lesung: はたして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: wirklich; genau wie man dachte
-Beispielsatz: 彼らが言うことが果たして本当なのかわからない。
-Beispielsatz-Lesung: 彼[かれ]らが 言[い]うことが 果[は]たして 本当[ほんとう]なのかわからない。
-Beispielsatz-Übersetzung: Ich weiß nicht, ob das, was sie sagen, wirklich wahr ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らが言うことが果たして本当なのかわからない。
+  彼[かれ]らが 言[い]うことが 果[は]たして 本当[ほんとう]なのかわからない。
+  Ich weiß nicht, ob das, was sie sagen, wirklich wahr ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

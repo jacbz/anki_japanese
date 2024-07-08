@@ -1,13 +1,24 @@
 Rang: 684
 Lemma: おる
-Lesung: おる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sein, existieren (bescheiden)
-Beispielsatz: 現在、オフィスにおります。
-Beispielsatz-Lesung: 現在[げんざい]、オフィスにおります。
-Beispielsatz-Übersetzung: Im Moment bin ich in meinem Büro.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  現在、オフィスにおります。
+  現在[げんざい]、オフィスにおります。
+  Im Moment bin ich in meinem Büro.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

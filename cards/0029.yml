@@ -1,13 +1,28 @@
 Rang: 29
 Lemma: か
-Lesung: か
-Alternative: ''
-Extra: '' # nur bei する-Verben
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: FRAGE; wenn; oder
+Extra: '' # Nur bei suru-Verben
 Wortart: p. disc.
-Definition: FRAGE
-Beispielsatz: コーヒーか紅茶はいかがですか。
-Beispielsatz-Lesung: コーヒーか 紅茶[こうちゃ]はいかがですか。
-Beispielsatz-Übersetzung: Möchten Sie eine Tasse Kaffee oder Tee?
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コーヒーか紅茶はいかがですか。
+  コーヒーか 紅茶[こうちゃ]はいかがですか。
+  Möchten Sie eine Tasse Kaffee oder Tee?
+
+  誰か来たようだ。
+  誰[だれ]か 来[き]たようだ。
+  Es scheint, dass jemand gekommen ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2776
 Lemma: たった
-Lesung: たった
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nur, lediglich
-Beispielsatz: たった今彼は帰りました。
-Beispielsatz-Lesung: たった 今[いま] 彼[かれ]は 帰[かえ]りました。
-Beispielsatz-Übersetzung: Er ist gerade eben nach Hause gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たった今彼は帰りました。
+  たった 今[いま] 彼[かれ]は 帰[かえ]りました。
+  Er ist gerade eben nach Hause gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1264
 Lemma: なるべく
-Lesung: なるべく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: so viel wie möglich, wenn möglich
-Beispielsatz: なるべく多くの情報を集めてください。
-Beispielsatz-Lesung: なるべく 多[おお]くの 情報[じょうほう]を 集[あつ]めてください。
-Beispielsatz-Übersetzung: Sie sollten so viele Informationen wie möglich sammeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  なるべく多くの情報を集めてください。
+  なるべく 多[おお]くの 情報[じょうほう]を 集[あつ]めてください。
+  Sie sollten so viele Informationen wie möglich sammeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

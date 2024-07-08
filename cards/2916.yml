@@ -1,13 +1,24 @@
 Rang: 2916
 Lemma: 十二日
 Lesung: じゅうににち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwölfter (Tag), zwölf Tage
-Beispielsatz: 十二日の便で国に帰ります。
-Beispielsatz-Lesung: 十二 日[にち]の 便[びん]で 国[くに]に 帰[かえ]ります。
-Beispielsatz-Übersetzung: Ich werde mit dem Flug am zwölften Tag in mein Land zurückkehren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Zeitungen
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十二日の便で国に帰ります。
+  十二 日[にち]の 便[びん]で 国[くに]に 帰[かえ]ります。
+  Ich werde mit dem Flug am zwölften Tag in mein Land zurückkehren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 1598
 Lemma: 後
 Lesung: のち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., adv.
+Alternativschreibweisen: ''
 Definition: nachher, später
-Beispielsatz: 明日は晴れのち曇りでしょう。
-Beispielsatz-Lesung: 明日[あした]は 晴[は]れのち 曇[くも]りでしょう。
-Beispielsatz-Übersetzung: Morgen ist es erst sonnig und dann bewölkt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日は晴れのち曇りでしょう。
+  明日[あした]は 晴[は]れのち 曇[くも]りでしょう。
+  Morgen ist es erst sonnig und dann bewölkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

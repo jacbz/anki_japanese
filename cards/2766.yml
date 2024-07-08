@@ -1,13 +1,24 @@
 Rang: 2766
 Lemma: カット
-Lesung: カット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Schnitt
-Beispielsatz: 私は髪の毛をカットしてもらった。
-Beispielsatz-Lesung: 私[わたし]は 髪[かみ]の 毛[け]をカットしてもらった。
-Beispielsatz-Übersetzung: Ich habe mir die Haare schneiden lassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は髪の毛をカットしてもらった。
+  私[わたし]は 髪[かみ]の 毛[け]をカットしてもらった。
+  Ich habe mir die Haare schneiden lassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

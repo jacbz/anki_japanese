@@ -1,13 +1,27 @@
 Rang: 3405
 Lemma: 交わす
 Lesung: かわす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: austauschen
-Beispielsatz: 彼とは挨拶を交わす程度の関係だ。
-Beispielsatz-Lesung: 彼[かれ]とは 挨拶[あいさつ]を 交[か]わす 程度[ていど]の 関係[かんけい]だ。
-Beispielsatz-Übersetzung: Ich kenne ihn nur gut genug, um Grüße auszutauschen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼とは挨拶を交わす程度の関係だ。
+  彼[かれ]とは 挨拶[あいさつ]を 交[か]わす 程度[ていど]の 関係[かんけい]だ。
+  Ich kenne ihn nur gut genug, um Grüße auszutauschen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

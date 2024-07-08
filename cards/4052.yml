@@ -1,13 +1,28 @@
 Rang: 4052
 Lemma: 決断
 Lesung: けつだん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: decision; entscheiden
 Extra: （する）
 Wortart: n. v.
-Definition: decision; entscheiden
-Beispielsatz: それはいい決断だ。
-Beispielsatz-Lesung: それはいい 決断[けつだん]だ。
-Beispielsatz-Übersetzung: Sie haben eine gute Entscheidung getroffen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それはいい決断だ。
+  それはいい 決断[けつだん]だ。
+  Sie haben eine gute Entscheidung getroffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

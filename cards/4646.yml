@@ -1,13 +1,24 @@
 Rang: 4646
 Lemma: おめでとう
-Lesung: おめでとう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Herzlichen Glückwunsch
-Beispielsatz: 「卒業おめでとう！」「ありがとう。」
-Beispielsatz-Lesung: 「 卒業[そつぎょう]おめでとう！」「ありがとう。」
-Beispielsatz-Übersetzung: „Herzlichen Glückwunsch zum Abschluss!“ „Danke.“
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「卒業おめでとう！」「ありがとう。」
+  「 卒業[そつぎょう]おめでとう！」「ありがとう。」
+  „Herzlichen Glückwunsch zum Abschluss!“ „Danke.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 2050
 Lemma: 耐える
 Lesung: たえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aushalten, ertragen, erdulden
-Beispielsatz: 彼女と別れるなんて耐えられない。
-Beispielsatz-Lesung: 彼女[かのじょ]と 別[わか]れるなんて 耐[た]えられない。
-Beispielsatz-Übersetzung: Ich kann es nicht ertragen, sie zu verlieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女と別れるなんて耐えられない。
+  彼女[かのじょ]と 別[わか]れるなんて 耐[た]えられない。
+  Ich kann es nicht ertragen, sie zu verlieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

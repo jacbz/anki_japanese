@@ -1,13 +1,28 @@
 Rang: 1361
 Lemma: 従来
 Lesung: じゅうらい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: bisher, herkömmlich, traditionell
-Beispielsatz: これは従来の方法よりも効果的だろう。
-Beispielsatz-Lesung: これは 従来[じゅうらい]の 方法[ほうほう]よりも 効果的[こうかてき]だろう。
-Beispielsatz-Übersetzung: Es wird effektiver sein als herkömmliche Methoden.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-3"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">ら</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは従来の方法よりも効果的だろう。
+  これは 従来[じゅうらい]の 方法[ほうほう]よりも 効果的[こうかてき]だろう。
+  Es wird effektiver sein als herkömmliche Methoden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

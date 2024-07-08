@@ -1,13 +1,24 @@
 Rang: 4184
 Lemma: ダンボール
-Lesung: ダンボール
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Pappe
-Beispielsatz: この部屋に積み上げられたダンボールの山がある。
-Beispielsatz-Lesung: この 部屋[へや]に 積[つ]み 上[あ]げられたダンボールの 山[やま]がある。
-Beispielsatz-Übersetzung: Es gibt Stapel von Pappe in diesem Raum.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この部屋に積み上げられたダンボールの山がある。
+  この 部屋[へや]に 積[つ]み 上[あ]げられたダンボールの 山[やま]がある。
+  Es gibt Stapel von Pappe in diesem Raum.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

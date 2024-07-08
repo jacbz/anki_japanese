@@ -1,13 +1,28 @@
 Rang: 2030
 Lemma: 訪ねる
 Lesung: たずねる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: besuchen, aufsuchen
-Beispielsatz: このツアーでは、京都のお寺や神社を訪ねます。
-Beispielsatz-Lesung: このツアーでは、 京都[きょうと]のお 寺[てら]や 神社[じんじゃ]を 訪[たず]ねます。
-Beispielsatz-Übersetzung: Auf dieser Tour besuchen Sie Tempel und Schreine in Kyoto.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ね</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このツアーでは、京都のお寺や神社を訪ねます。
+  このツアーでは、 京都[きょうと]のお 寺[てら]や 神社[じんじゃ]を 訪[たず]ねます。
+  Auf dieser Tour besuchen Sie Tempel und Schreine in Kyoto.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

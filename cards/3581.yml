@@ -1,13 +1,24 @@
 Rang: 3581
 Lemma: 適正
 Lesung: てきせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: angemessen, passend, geeignet
-Beispielsatz: この評価は適正だと思う。
-Beispielsatz-Lesung: この 評価[ひょうか]は 適正[てきせい]だと 思[おも]う。
-Beispielsatz-Übersetzung: Ich denke, dass diese Bewertung angemessen ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '47'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この評価は適正だと思う。
+  この 評価[ひょうか]は 適正[てきせい]だと 思[おも]う。
+  Ich denke, dass diese Bewertung angemessen ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4390
 Lemma: 研究所
 Lesung: けんきゅうーじょ<br>けんきゅうーしょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Forschungsinstitut, Labor
-Beispielsatz: 研究所は家の隣にある。
-Beispielsatz-Lesung: 研究所[けんきゅうじょ]は 家[いえ]の 隣[となり]にある。
-Beispielsatz-Übersetzung: Das Laboratorium befindet sich neben meinem Haus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  研究所は家の隣にある。
+  研究所[けんきゅうじょ]は 家[いえ]の 隣[となり]にある。
+  Das Laboratorium befindet sich neben meinem Haus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

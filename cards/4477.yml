@@ -1,13 +1,27 @@
 Rang: 4477
 Lemma: 北京
 Lesung: ぺきん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Peking
-Beispielsatz: 2008年に北京でオリンピックが開催された。
-Beispielsatz-Lesung: 2008 年[ねん]に 北京[ぺきん]でオリンピックが 開催[かいさい]された。
-Beispielsatz-Übersetzung: Die Olympischen Spiele fanden 2008 in Peking statt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ぺ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  2008年に北京でオリンピックが開催された。
+  2008 年[ねん]に 北京[ぺきん]でオリンピックが 開催[かいさい]された。
+  Die Olympischen Spiele fanden 2008 in Peking statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

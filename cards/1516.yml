@@ -1,13 +1,24 @@
 Rang: 1516
 Lemma: 素敵
 Lesung: すてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: schön, hübsch, wunderbar
-Beispielsatz: 素敵な指輪ですね。
-Beispielsatz-Lesung: 素敵[すてき]な 指輪[ゆびわ]ですね。
-Beispielsatz-Übersetzung: Das ist ein schöner Ring.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  素敵な指輪ですね。
+  素敵[すてき]な 指輪[ゆびわ]ですね。
+  Das ist ein schöner Ring.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

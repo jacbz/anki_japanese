@@ -1,13 +1,24 @@
 Rang: 3761
 Lemma: 定期的
 Lesung: ていきてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: regelmäßig
-Beispielsatz: 定期的に健康診断を受けている。
-Beispielsatz-Lesung: 定期的[ていきてき]に 健康診断[けんこうしんだん]を 受[う]けている。
-Beispielsatz-Übersetzung: Ich habe regelmäßig medizinische Untersuchungen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  定期的に健康診断を受けている。
+  定期的[ていきてき]に 健康診断[けんこうしんだん]を 受[う]けている。
+  Ich habe regelmäßig medizinische Untersuchungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

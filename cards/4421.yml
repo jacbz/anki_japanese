@@ -1,13 +1,24 @@
 Rang: 4421
 Lemma: プラン
-Lesung: プラン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Plan
-Beispielsatz: 旅行のプランはもう立てましたか。
-Beispielsatz-Lesung: 旅行[りょこう]のプランはもう 立[た]てましたか。
-Beispielsatz-Übersetzung: Haben Sie schon irgendwelche Pläne für Ihre Reise gemacht?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  旅行のプランはもう立てましたか。
+  旅行[りょこう]のプランはもう 立[た]てましたか。
+  Haben Sie schon irgendwelche Pläne für Ihre Reise gemacht?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

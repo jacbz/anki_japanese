@@ -1,13 +1,28 @@
 Rang: 4580
 Lemma: 東北
 Lesung: とうほく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Nordost, Tohoku-Region
-Beispielsatz: 東北の沿岸に津波警報が出た。
-Beispielsatz-Lesung: 東北[とうほく]の 沿岸[えんがん]に 津波警報[つなみけいほう]が 出[で]た。
-Beispielsatz-Übersetzung: Eine Tsunami-Warnung wurde für die Tohoku-Küste ausgegeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東北の沿岸に津波警報が出た。
+  東北[とうほく]の 沿岸[えんがん]に 津波警報[つなみけいほう]が 出[で]た。
+  Eine Tsunami-Warnung wurde für die Tohoku-Küste ausgegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

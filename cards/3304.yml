@@ -1,14 +1,28 @@
 Rang: 3304
 Lemma: 欧米
 Lesung: おうべい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Europa und Amerika
-Beispielsatz: この会には欧米の研究者が多く集まった。
-Beispielsatz-Lesung: この 会[かい]には 欧米[おうべい]の 研究者[けんきゅうしゃ]が 多[おお]く 集[あつ]まった。
-Beispielsatz-Übersetzung: Viele europäische und amerikanische Forscher versammelten
-  sich bei diesem Treffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">べ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この会には欧米の研究者が多く集まった。
+  この 会[かい]には 欧米[おうべい]の 研究者[けんきゅうしゃ]が 多[おお]く 集[あつ]まった。
+  Viele europäische und amerikanische Forscher versammelten sich bei diesem Treffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

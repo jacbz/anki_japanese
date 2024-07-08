@@ -1,13 +1,28 @@
 Rang: 1045
 Lemma: 感覚
 Lesung: かんかく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sinn; Empfindung
-Beispielsatz: 彼女は色に対する感覚が鋭い。
-Beispielsatz-Lesung: 彼女[かのじょ]は 色[いろ]に 対[たい]する 感覚[かんかく]が 鋭[するど]い。
-Beispielsatz-Übersetzung: Sie hat einen scharfen Sinn für Farbe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は色に対する感覚が鋭い。
+  彼女[かのじょ]は 色[いろ]に 対[たい]する 感覚[かんかく]が 鋭[するど]い。
+  Sie hat einen scharfen Sinn für Farbe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 300
 Lemma: ことができる
-Lesung: ことができる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: können, in der Lage sein
-Beispielsatz: この図書館は誰でも利用することができる。
-Beispielsatz-Lesung: この 図書館[としょかん]は 誰[だれ]でも 利用[りよう]することができる。
-Beispielsatz-Übersetzung: Jeder kann diese Bibliothek nutzen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この図書館は誰でも利用することができる。
+  この 図書館[としょかん]は 誰[だれ]でも 利用[りよう]することができる。
+  Jeder kann diese Bibliothek nutzen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

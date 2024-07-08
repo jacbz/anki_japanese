@@ -1,13 +1,27 @@
 Rang: 2286
 Lemma: 注ぐ
 Lesung: そそぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: gießen; einschenken
-Beispielsatz: ビールをコップに注ぐ。
-Beispielsatz-Lesung: ビールをコップに 注[そそ]ぐ。
-Beispielsatz-Übersetzung: Er gießt Bier in ein Glas.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぐ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ビールをコップに注ぐ。
+  ビールをコップに 注[そそ]ぐ。
+  Er gießt Bier in ein Glas.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

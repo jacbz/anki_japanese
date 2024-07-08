@@ -1,13 +1,24 @@
 Rang: 366
 Lemma: 確か
 Lesung: たしか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj., adv.
+Alternativschreibweisen: ''
 Definition: sicher, zuverlässig
-Beispielsatz: 彼の技術は確かだ。
-Beispielsatz-Lesung: 彼[かれ]の 技術[ぎじゅつ]は 確[たし]かだ。
-Beispielsatz-Übersetzung: Seine Technik ist zuverlässig.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj., adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の技術は確かだ。
+  彼[かれ]の 技術[ぎじゅつ]は 確[たし]かだ。
+  Seine Technik ist zuverlässig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

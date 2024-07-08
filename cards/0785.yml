@@ -1,13 +1,28 @@
 Rang: 785
 Lemma: 用いる
 Lesung: もちいる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verwenden, anwenden
-Beispielsatz: この製品は最新の技術が用いられている。
-Beispielsatz-Lesung: この 製品[せいひん]は 最新[さいしん]の 技術[ぎじゅつ]が 用[もち]いられている。
-Beispielsatz-Übersetzung: Für dieses Produkt wird eine neue Technologie verwendet.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この製品は最新の技術が用いられている。
+  この 製品[せいひん]は 最新[さいしん]の 技術[ぎじゅつ]が 用[もち]いられている。
+  Für dieses Produkt wird eine neue Technologie verwendet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

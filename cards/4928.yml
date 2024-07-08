@@ -1,13 +1,24 @@
 Rang: 4928
 Lemma: 異様
 Lesung: いよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: seltsam
-Beispielsatz: 異様な光景だった。
-Beispielsatz-Lesung: 異様[いよう]な 光景[こうけい]だった。
-Beispielsatz-Übersetzung: Es war ein seltsamer Anblick.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  異様な光景だった。
+  異様[いよう]な 光景[こうけい]だった。
+  Es war ein seltsamer Anblick.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

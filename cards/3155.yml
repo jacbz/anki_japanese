@@ -1,13 +1,24 @@
 Rang: 3155
 Lemma: 出品者
 Lesung: しゅっぴんしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Aussteller
-Beispielsatz: この展覧会は出品者が多い。
-Beispielsatz-Lesung: この 展覧会[てんらんかい]は 出品者[しゅっぴんしゃ]が 多[おお]い。
-Beispielsatz-Übersetzung: Es gibt viele Aussteller auf dieser Messe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '11'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この展覧会は出品者が多い。
+  この 展覧会[てんらんかい]は 出品者[しゅっぴんしゃ]が 多[おお]い。
+  Es gibt viele Aussteller auf dieser Messe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

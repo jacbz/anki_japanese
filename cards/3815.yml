@@ -1,14 +1,24 @@
 Rang: 3815
 Lemma: 懸念
 Lesung: けねん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: befürchten; befürchten
 Extra: （する）
 Wortart: n. v.
-Definition: befürchten; befürchten
-Beispielsatz: 円高の輸出産業に与える影響が懸念されている。
-Beispielsatz-Lesung: 円[えん] 高[だか]の 輸出[ゆしゅつ] 産業[さんぎょう]に 与[あた]える 影響[えいきょう]が 懸念[けねん]されている。
-Beispielsatz-Übersetzung: Die Auswirkungen des starken Yen auf den Exportmarkt geben
-  Anlass zur Sorge.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  円高の輸出産業に与える影響が懸念されている。
+  円[えん] 高[だか]の 輸出[ゆしゅつ] 産業[さんぎょう]に 与[あた]える 影響[えいきょう]が 懸念[けねん]されている。
+  Die Auswirkungen des starken Yen auf den Exportmarkt geben Anlass zur Sorge.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

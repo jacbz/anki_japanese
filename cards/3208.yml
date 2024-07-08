@@ -1,13 +1,27 @@
 Rang: 3208
 Lemma: 疲れ
 Lesung: つかれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Müdigkeit, Erschöpfung, Ermüdung
-Beispielsatz: 最近疲れがたまっている。
-Beispielsatz-Lesung: 最近[さいきん] 疲[つか]れがたまっている。
-Beispielsatz-Übersetzung: In letzter Zeit bin ich sehr müde.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近疲れがたまっている。
+  最近[さいきん] 疲[つか]れがたまっている。
+  In letzter Zeit bin ich sehr müde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

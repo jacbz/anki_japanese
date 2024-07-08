@@ -1,13 +1,26 @@
 Rang: 4700
 Lemma: 象
 Lesung: ぞう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Elefant
-Beispielsatz: 象は鼻が長い。
-Beispielsatz-Lesung: 象[ぞう]は 鼻[はな]が 長[なが]い。
-Beispielsatz-Übersetzung: Ein Elefant hat einen langen Rüssel.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ぞ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  象は鼻が長い。
+  象[ぞう]は 鼻[はな]が 長[なが]い。
+  Ein Elefant hat einen langen Rüssel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

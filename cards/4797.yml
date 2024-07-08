@@ -1,13 +1,24 @@
 Rang: 4797
 Lemma: シート
-Lesung: シート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Sitz; Blatt
-Beispielsatz: 子供達は車の後ろのシートに座った。
-Beispielsatz-Lesung: 子供達[こどもたち]は 車[くるま]の 後[うし]ろのシートに 座[すわ]った。
-Beispielsatz-Übersetzung: Die Kinder saßen auf dem Rücksitz des Autos.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供達は車の後ろのシートに座った。
+  子供達[こどもたち]は 車[くるま]の 後[うし]ろのシートに 座[すわ]った。
+  Die Kinder saßen auf dem Rücksitz des Autos.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

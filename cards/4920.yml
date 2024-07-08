@@ -1,13 +1,28 @@
 Rang: 4920
 Lemma: 執行
 Lesung: しっこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: vollstrecken, durchführen
 Extra: （する）
 Wortart: n. v.
-Definition: vollstrecken, durchführen
-Beispielsatz: 政府は刑の執行を延期した。
-Beispielsatz-Lesung: 政府[せいふ]は 刑[けい]の 執行[しっこう]を 延期[えんき]した。
-Beispielsatz-Übersetzung: Die Regierung hat die Vollstreckung des Urteils verschoben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府は刑の執行を延期した。
+  政府[せいふ]は 刑[けい]の 執行[しっこう]を 延期[えんき]した。
+  Die Regierung hat die Vollstreckung des Urteils verschoben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4635
 Lemma: 体育館
 Lesung: たいいくーかん<br>たいkーかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Turnhalle
-Beispielsatz: 放課後体育館に集合してください。
-Beispielsatz-Lesung: 放課後[ほうかご] 体育館[たいいくかん]に 集合[しゅうごう]してください。
-Beispielsatz-Übersetzung: Bitte versammelt euch nach der Schule in der Turnhalle.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  放課後体育館に集合してください。
+  放課後[ほうかご] 体育館[たいいくかん]に 集合[しゅうごう]してください。
+  Bitte versammelt euch nach der Schule in der Turnhalle.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 1021
 Lemma: 機能
 Lesung: きのう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Funktion
 Extra: （する）
 Wortart: n. v.
-Definition: Funktion
-Beispielsatz: この新しいモデルのほうが機能が多い。
-Beispielsatz-Lesung: この 新[あたら]しいモデルのほうが 機能[きのう]が 多[おお]い。
-Beispielsatz-Übersetzung: Dieses neue Modell hat mehr Eigenschaften.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">の</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この新しいモデルのほうが機能が多い。
+  この 新[あたら]しいモデルのほうが 機能[きのう]が 多[おお]い。
+  Dieses neue Modell hat mehr Eigenschaften.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

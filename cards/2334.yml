@@ -1,13 +1,24 @@
 Rang: 2334
 Lemma: 本格的
 Lesung: ほんかくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: authentisch, echt; in vollem Umfang
-Beispielsatz: やっと本格的に動き始めた。
-Beispielsatz-Lesung: やっと 本格的[ほんかくてき]に 動[うご]き 始[はじ]めた。
-Beispielsatz-Übersetzung: Sie haben endlich ernsthaft begonnen zu handeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  やっと本格的に動き始めた。
+  やっと 本格的[ほんかくてき]に 動[うご]き 始[はじ]めた。
+  Sie haben endlich ernsthaft begonnen zu handeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3258
 Lemma: 制定
 Lesung: せいてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: erlassen; erlassen
 Extra: （する）
 Wortart: n. v.
-Definition: erlassen; erlassen
-Beispielsatz: この法律は1964年に制定された。
-Beispielsatz-Lesung: この 法律[ほうりつ]は1964 年[ねん]に 制定[せいてい]された。
-Beispielsatz-Übersetzung: Dieses Gesetz wurde 1964 erlassen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この法律は1964年に制定された。
+  この 法律[ほうりつ]は1964 年[ねん]に 制定[せいてい]された。
+  Dieses Gesetz wurde 1964 erlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

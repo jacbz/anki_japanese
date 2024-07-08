@@ -1,13 +1,24 @@
 Rang: 2188
 Lemma: 有り
 Lesung: あり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v., n.
+Alternativschreibweisen: ''
 Definition: existieren; leben
-Beispielsatz: 異議あり！
-Beispielsatz-Lesung: 異議[いぎ]あり！
-Beispielsatz-Übersetzung: Einspruch!
+Extra: '' # Nur bei suru-Verben
+Wortart: v., n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  異議あり！
+  異議[いぎ]あり！
+  Einspruch!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

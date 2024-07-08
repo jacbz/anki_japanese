@@ -1,13 +1,24 @@
 Rang: 4851
 Lemma: 多様化
 Lesung: たようか
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Diversifizierung; diversifizieren
 Extra: （する）
 Wortart: n. v.
-Definition: Diversifizierung; diversifizieren
-Beispielsatz: 人々の生活様式が多様化している。
-Beispielsatz-Lesung: 人々[ひとびと]の 生活様式[せいかつようしき]が 多様化[たようか]している。
-Beispielsatz-Übersetzung: Die Lebensstile der Menschen haben sich diversifiziert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人々の生活様式が多様化している。
+  人々[ひとびと]の 生活様式[せいかつようしき]が 多様化[たようか]している。
+  Die Lebensstile der Menschen haben sich diversifiziert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 917
 Lemma: 一本
 Lesung: いっぽん
-Alternative: ''
-Extra: '' # nur bei する-Verben
+Alternativschreibweisen: ''
+Definition: ein [langer/zylindrischer Gegenstand]
+Extra: '' # Nur bei suru-Verben
 Wortart: n.
-Definition: ein (langer/zylindrischer Gegenstand)
-Beispielsatz: それ一本ください。
-Beispielsatz-Lesung: それ一 本[ほん]ください。
-Beispielsatz-Übersetzung: Geben Sie mir bitte einen davon.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それ一本ください。
+  それ一 本[ほん]ください。
+  Geben Sie mir bitte einen davon.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

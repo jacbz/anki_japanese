@@ -1,14 +1,27 @@
 Rang: 2738
 Lemma: 防止
 Lesung: ぼうし
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Vorbeugung; vorbeugen
 Extra: （する）
 Wortart: n. v.
-Definition: Vorbeugung; vorbeugen
-Beispielsatz: 交通事故の防止について努力しなければならない。
-Beispielsatz-Lesung: 交通事故[こうつうじこ]の 防止[ぼうし]について 努力[どりょく]しなければならない。
-Beispielsatz-Übersetzung: Wir sollten Anstrengungen unternehmen, um Verkehrsunfälle
-  zu vermeiden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  交通事故の防止について努力しなければならない。
+  交通事故[こうつうじこ]の 防止[ぼうし]について 努力[どりょく]しなければならない。
+  Wir sollten Anstrengungen unternehmen, um Verkehrsunfälle zu vermeiden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3738
 Lemma: 一斉
 Lesung: いっせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: gleichzeitig
-Beispielsatz: 観客は一斉に拍手した。
-Beispielsatz-Lesung: 観客[かんきゃく]は 一斉[いっせい]に 拍手[はくしゅ]した。
-Beispielsatz-Übersetzung: Das Publikum hat gleichzeitig applaudiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  観客は一斉に拍手した。
+  観客[かんきゃく]は 一斉[いっせい]に 拍手[はくしゅ]した。
+  Das Publikum hat gleichzeitig applaudiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

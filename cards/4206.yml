@@ -1,13 +1,24 @@
 Rang: 4206
 Lemma: 保全
 Lesung: ほぜん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Erhaltung, Wartung; erhalten, warten
 Extra: （する）
 Wortart: n. v.
-Definition: Erhaltung, Wartung; erhalten, warten
-Beispielsatz: 彼はこの島で環境の保全のために働いている。
-Beispielsatz-Lesung: 彼[かれ]はこの 島[しま]で 環境[かんきょう]の 保全[ほぜん]のために 働[はたら]いている。
-Beispielsatz-Übersetzung: Er arbeitet auf dieser Insel, um die Umwelt zu erhalten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '48'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はこの島で環境の保全のために働いている。
+  彼[かれ]はこの 島[しま]で 環境[かんきょう]の 保全[ほぜん]のために 働[はたら]いている。
+  Er arbeitet auf dieser Insel, um die Umwelt zu erhalten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

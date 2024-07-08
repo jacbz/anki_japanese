@@ -1,13 +1,27 @@
 Rang: 2566
 Lemma: 所属
 Lesung: しょぞく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zugehörigkeit
 Extra: （する）
 Wortart: n. v.
-Definition: Zugehörigkeit
-Beispielsatz: 広報課の所属になった。
-Beispielsatz-Lesung: 広報課[こうほうか]の 所属[しょぞく]になった。
-Beispielsatz-Übersetzung: Ich wurde der Abteilung für Öffentlichkeitsarbeit zugeteilt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ぞ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  広報課の所属になった。
+  広報課[こうほうか]の 所属[しょぞく]になった。
+  Ich wurde der Abteilung für Öffentlichkeitsarbeit zugeteilt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

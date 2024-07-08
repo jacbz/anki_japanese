@@ -1,13 +1,30 @@
 Rang: 4584
 Lemma: DNA
 Lesung: でぃーえぬえー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: DNA, Desoxyribonukleinsäure
-Beispielsatz: 警察はDNAの検査の結果を待ちました。
-Beispielsatz-Lesung: 警察[けいさつ]はDNAの 検査[けんさ]の 結果[けっか]を 待[ま]ちました。
-Beispielsatz-Übersetzung: Die Polizei wartete auf die Ergebnisse der DNA-Tests.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">で</span><span class="char">ぃ</span></span></span><span class="accent_plain
+  mola_-5"><span class="inner"><span class="char">ー</span></span></span><span class="accent_plain
+  mola_-4"><span class="inner"><span class="char">え</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">ぬ</span></span></span><span class="accent_top
+  mola_-2"><span class="inner"><span class="char">え</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ー</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  警察はDNAの検査の結果を待ちました。
+  警察[けいさつ]はDNAの 検査[けんさ]の 結果[けっか]を 待[ま]ちました。
+  Die Polizei wartete auf die Ergebnisse der DNA-Tests.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

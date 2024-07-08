@@ -1,14 +1,24 @@
 Rang: 4487
 Lemma: 近づける
 Lesung: ちかずける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: näher bringen
-Beispielsatz: 本を目に近づけて読まない方がいい。
-Beispielsatz-Lesung: 本[ほん]を 目[め]に 近[ちか]づけて 読[よ]まない 方[ほう]がいい。
-Beispielsatz-Übersetzung: Es ist besser, das Buch nicht nah an die Augen zu halten,
-  wenn man liest.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本を目に近づけて読まない方がいい。
+  本[ほん]を 目[め]に 近[ちか]づけて 読[よ]まない 方[ほう]がいい。
+  Es ist besser, das Buch nicht nah an die Augen zu halten, wenn man liest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

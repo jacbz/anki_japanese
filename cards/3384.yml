@@ -1,13 +1,24 @@
 Rang: 3384
 Lemma: 二千一年
 Lesung: にせんいちねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 2001 (Jahr)
-Beispielsatz: 2001年から二十一世紀が始まる。
-Beispielsatz-Lesung: 2001 年[ねん]から二十 一世紀[いっせいき]が 始[はじ]まる。
-Beispielsatz-Übersetzung: Das 21. Jahrhundert beginnt im Jahr 2001.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  2001年から二十一世紀が始まる。
+  2001 年[ねん]から二十 一世紀[いっせいき]が 始[はじ]まる。
+  Das 21. Jahrhundert beginnt im Jahr 2001.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

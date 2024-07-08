@@ -1,13 +1,27 @@
 Rang: 1419
 Lemma: 現地
 Lesung: げんち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vor Ort, örtlich
-Beispielsatz: 現地の言葉を知っていたら旅行はもっと楽しくなる。
-Beispielsatz-Lesung: 現地[げんち]の 言葉[ことば]を 知[し]っていたら 旅行[りょこう]はもっと 楽[たの]しくなる。
-Beispielsatz-Übersetzung: Reisen macht mehr Spaß, wenn man die Landessprache kennt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">げ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  現地の言葉を知っていたら旅行はもっと楽しくなる。
+  現地[げんち]の 言葉[ことば]を 知[し]っていたら 旅行[りょこう]はもっと 楽[たの]しくなる。
+  Reisen macht mehr Spaß, wenn man die Landessprache kennt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

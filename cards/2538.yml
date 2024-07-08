@@ -1,13 +1,24 @@
 Rang: 2538
 Lemma: ては
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p., conj.
+Alternativschreibweisen: ''
 Definition: 'Konj abwechselnd tun und '
-Beispielsatz: 彼女は彼の写真を見ては溜息をついた。
-Beispielsatz-Lesung: 彼女[かのじょ]は 彼[かれ]の 写真[しゃしん]を 見[み]ては 溜息[ためいき]をついた。
-Beispielsatz-Übersetzung: Sie seufzte jedes Mal, wenn sie sein Foto sah.
+Extra: '' # Nur bei suru-Verben
+Wortart: p., conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '1'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は彼の写真を見ては溜息をついた。
+  彼女[かのじょ]は 彼[かれ]の 写真[しゃしん]を 見[み]ては 溜息[ためいき]をついた。
+  Sie seufzte jedes Mal, wenn sie sein Foto sah.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

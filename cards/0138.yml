@@ -1,13 +1,27 @@
 Rang: 138
 Lemma: 感じ
 Lesung: かんじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gefühl, Eindruck; Atmosphäre
-Beispielsatz: 日本的な感じの部屋ですね。
-Beispielsatz-Lesung: 日本的[にほんてき]な 感[かん]じの 部屋[へや]ですね。
-Beispielsatz-Übersetzung: Dieses Zimmer hat eine japanische Atmosphäre.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本的な感じの部屋ですね。
+  日本的[にほんてき]な 感[かん]じの 部屋[へや]ですね。
+  Dieses Zimmer hat eine japanische Atmosphäre.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

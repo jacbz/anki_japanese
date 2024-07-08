@@ -1,13 +1,26 @@
 Rang: 4048
 Lemma: 凝る
 Lesung: こる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sich vertiefen, sich widmen; steif werden
-Beispielsatz: 彼が何か始めると凝る性質だ。
-Beispielsatz-Lesung: 彼[かれ]が 何[なに]か 始[はじ]めると 凝[こ]る 性質[せいしつ]だ。
-Beispielsatz-Übersetzung: Wenn er etwas beginnt, vertieft er sich darin.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼が何か始めると凝る性質だ。
+  彼[かれ]が 何[なに]か 始[はじ]めると 凝[こ]る 性質[せいしつ]だ。
+  Wenn er etwas beginnt, vertieft er sich darin.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

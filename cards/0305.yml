@@ -1,13 +1,24 @@
 Rang: 305
 Lemma: もし
-Lesung: もし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: falls, wenn
-Beispielsatz: もしお金があったら、海外旅行がしたい。
-Beispielsatz-Lesung: もしお 金[かね]があったら、 海外旅行[かいがいりょこう]がしたい。
-Beispielsatz-Übersetzung: Falls ich genug Geld hätte, würde ich ins Ausland reisen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もしお金があったら、海外旅行がしたい。
+  もしお 金[かね]があったら、 海外旅行[かいがいりょこう]がしたい。
+  Falls ich genug Geld hätte, würde ich ins Ausland reisen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

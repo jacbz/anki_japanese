@@ -1,13 +1,24 @@
 Rang: 3838
 Lemma: イラク
-Lesung: イラク
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Irak
-Beispielsatz: イラクは石油産出国だ。
-Beispielsatz-Lesung: イラクは 石油[せきゆ] 産出[さんしゅつ] 国[こく]だ。
-Beispielsatz-Übersetzung: Der Irak ist ein Ölproduzent.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  イラクは石油産出国だ。
+  イラクは 石油[せきゆ] 産出[さんしゅつ] 国[こく]だ。
+  Der Irak ist ein Ölproduzent.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

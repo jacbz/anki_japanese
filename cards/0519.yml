@@ -1,13 +1,28 @@
 Rang: 519
 Lemma: 合わせる
 Lesung: あわせる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zusammenfügen; anpassen
-Beispielsatz: 彼らは手を合わせて祈った。
-Beispielsatz-Lesung: 彼[かれ]らは 手[て]を 合[あ]わせて 祈[いの]った。
-Beispielsatz-Übersetzung: Sie falteten ihre Hände zum Gebet zusammen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは手を合わせて祈った。
+  彼[かれ]らは 手[て]を 合[あ]わせて 祈[いの]った。
+  Sie falteten ihre Hände zum Gebet zusammen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

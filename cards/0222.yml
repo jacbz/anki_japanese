@@ -1,13 +1,27 @@
 Rang: 222
 Lemma: 一緒
 Lesung: いっしょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zusammen, gemeinsam
-Beispielsatz: 友達と一緒に買い物に行った。
-Beispielsatz-Lesung: 友達[ともだち]と 一緒[いっしょ]に 買[か]い 物[もの]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin mit meinen Freunden einkaufen gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達と一緒に買い物に行った。
+  友達[ともだち]と 一緒[いっしょ]に 買[か]い 物[もの]に 行[い]った。
+  Ich bin mit meinen Freunden einkaufen gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

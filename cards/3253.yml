@@ -1,14 +1,24 @@
 Rang: 3253
 Lemma: いまや
-Lesung: いまや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jetzt
-Beispielsatz: 先生に怒られてばかりいた彼が、いまや大企業の社長だ。
-Beispielsatz-Lesung: 先生[せんせい]に 怒[おこ]られてばかりいた 彼[かれ]が、いまや 大企業[だいきぎょう]の 社長[しゃちょう]だ。
-Beispielsatz-Übersetzung: Derjenige, der die Lehrer oft verärgert hat, ist jetzt der
-  Präsident eines großen Unternehmens.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  先生に怒られてばかりいた彼が、いまや大企業の社長だ。
+  先生[せんせい]に 怒[おこ]られてばかりいた 彼[かれ]が、いまや 大企業[だいきぎょう]の 社長[しゃちょう]だ。
+  Derjenige, der die Lehrer oft verärgert hat, ist jetzt der Präsident eines großen Unternehmens.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

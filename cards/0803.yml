@@ -1,13 +1,24 @@
 Rang: 803
 Lemma: 残念
 Lesung: ざんねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: enttäuschend, bedauerlich
-Beispielsatz: 私にとって残念な結果だった。
-Beispielsatz-Lesung: 私[わたし]にとって 残念[ざんねん]な 結果[けっか]だった。
-Beispielsatz-Übersetzung: Das Ergebnis war für mich enttäuschend.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私にとって残念な結果だった。
+  私[わたし]にとって 残念[ざんねん]な 結果[けっか]だった。
+  Das Ergebnis war für mich enttäuschend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

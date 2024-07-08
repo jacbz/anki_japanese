@@ -1,13 +1,24 @@
 Rang: 4353
 Lemma: 筆記用具
 Lesung: ひっきようぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schreibwaren, Schreibmaterialien
-Beispielsatz: 就職試験に筆記用具を持ってきてください。
-Beispielsatz-Lesung: 就職[しゅうしょく] 試験[しけん]に 筆記用具[ひっきようぐ]を 持[も]ってきてください。
-Beispielsatz-Übersetzung: Bitte bringen Sie Schreibmaterial zur Prüfung mit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  就職試験に筆記用具を持ってきてください。
+  就職[しゅうしょく] 試験[しけん]に 筆記用具[ひっきようぐ]を 持[も]ってきてください。
+  Bitte bringen Sie Schreibmaterial zur Prüfung mit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

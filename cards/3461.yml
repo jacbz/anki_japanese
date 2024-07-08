@@ -1,13 +1,24 @@
 Rang: 3461
 Lemma: ならびに
-Lesung: ならびに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sowie, und auch
-Beispielsatz: これは第四条ならびに第五条に規定されている。
-Beispielsatz-Lesung: これは 第[だい]四 条[じょう]ならびに 第[だい]五 条[じょう]に 規定[きてい]されている。
-Beispielsatz-Übersetzung: Dies ist in den Artikeln 4 und 5 vorgeschrieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '31'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは第四条ならびに第五条に規定されている。
+  これは 第[だい]四 条[じょう]ならびに 第[だい]五 条[じょう]に 規定[きてい]されている。
+  Dies ist in den Artikeln 4 und 5 vorgeschrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

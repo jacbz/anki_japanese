@@ -1,13 +1,27 @@
 Rang: 1191
 Lemma: 記録
 Lesung: きろく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Aufzeichnung
 Extra: （する）
 Wortart: n. v.
-Definition: Aufzeichnung
-Beispielsatz: 彼は100メートル走で世界記録を出した。
-Beispielsatz-Lesung: 彼[かれ]は100メートル 走[はし]で 世界記録[せかいきろく]を 出[だ]した。
-Beispielsatz-Übersetzung: Er stellte einen Weltrekord im 100-Meter-Lauf auf.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は100メートル走で世界記録を出した。
+  彼[かれ]は100メートル 走[はし]で 世界記録[せかいきろく]を 出[だ]した。
+  Er stellte einen Weltrekord im 100-Meter-Lauf auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

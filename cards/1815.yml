@@ -1,13 +1,24 @@
 Rang: 1815
 Lemma: ふと
-Lesung: ふと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: plötzlich; unerwartet
-Beispielsatz: 家に帰る途中でふと約束を思い出した。
-Beispielsatz-Lesung: 家[いえ]に 帰[かえ]る 途中[とちゅう]でふと 約束[やくそく]を 思[おも]い 出[だ]した。
-Beispielsatz-Übersetzung: Ich erinnerte mich plötzlich an den Termin auf dem Heimweg.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家に帰る途中でふと約束を思い出した。
+  家[いえ]に 帰[かえ]る 途中[とちゅう]でふと 約束[やくそく]を 思[おも]い 出[だ]した。
+  Ich erinnerte mich plötzlich an den Termin auf dem Heimweg.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

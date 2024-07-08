@@ -1,13 +1,24 @@
 Rang: 3841
 Lemma: 前年度
 Lesung: ぜんねんど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vorheriges Jahr
-Beispielsatz: 前年度に比べて、売り上げが倍増した。
-Beispielsatz-Lesung: 前年度[ぜんねんど]に 比[くら]べて、 売[う]り 上[あ]げが 倍増[ばいぞう]した。
-Beispielsatz-Übersetzung: Der Umsatz hat sich seit dem vorherigen Jahr verdoppelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '26'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  前年度に比べて、売り上げが倍増した。
+  前年度[ぜんねんど]に 比[くら]べて、 売[う]り 上[あ]げが 倍増[ばいぞう]した。
+  Der Umsatz hat sich seit dem vorherigen Jahr verdoppelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

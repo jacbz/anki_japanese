@@ -1,13 +1,24 @@
 Rang: 942
 Lemma: 二年
 Lesung: にねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwei Jahre
-Beispielsatz: コンクールは二年に一度開催される。
-Beispielsatz-Lesung: コンクールは二 年[ねん]に 一度[いちど] 開催[かいさい]される。
-Beispielsatz-Übersetzung: Der Wettbewerb findet alle zwei Jahre statt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンクールは二年に一度開催される。
+  コンクールは二 年[ねん]に 一度[いちど] 開催[かいさい]される。
+  Der Wettbewerb findet alle zwei Jahre statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

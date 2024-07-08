@@ -1,13 +1,24 @@
 Rang: 4151
 Lemma: 大地
 Lesung: だいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Erde, Boden
-Beispielsatz: 雪が大地を覆った。
-Beispielsatz-Lesung: 雪[ゆき]が 大地[だいち]を 覆[おお]った。
-Beispielsatz-Übersetzung: Schnee bedeckte den Boden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雪が大地を覆った。
+  雪[ゆき]が 大地[だいち]を 覆[おお]った。
+  Schnee bedeckte den Boden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4497
 Lemma: 発足
 Lesung: ほっそく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: gründen; gründen
 Extra: （する）
 Wortart: n. v.
-Definition: gründen; gründen
-Beispielsatz: 新しい言語学会が十月から発足する。
-Beispielsatz-Lesung: 新[あたら]しい 言語[げんご] 学会[がっかい]が 十月[じゅうがつ]から 発足[ほっそく]する。
-Beispielsatz-Übersetzung: Die neue Linguistische Gesellschaft wird im Oktober gegründet.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい言語学会が十月から発足する。
+  新[あたら]しい 言語[げんご] 学会[がっかい]が 十月[じゅうがつ]から 発足[ほっそく]する。
+  Die neue Linguistische Gesellschaft wird im Oktober gegründet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

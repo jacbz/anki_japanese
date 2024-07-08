@@ -1,13 +1,24 @@
 Rang: 2218
 Lemma: ニューヨーク
-Lesung: ニューヨーク
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: New York
-Beispielsatz: 田中さんはニューヨークへ出張しています。
-Beispielsatz-Lesung: 田中[たなか]さんはニューヨークへ 出張[しゅっちょう]しています。
-Beispielsatz-Übersetzung: Herr Tanaka ist geschäftlich in New York.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  田中さんはニューヨークへ出張しています。
+  田中[たなか]さんはニューヨークへ 出張[しゅっちょう]しています。
+  Herr Tanaka ist geschäftlich in New York.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

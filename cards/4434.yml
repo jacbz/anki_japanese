@@ -1,14 +1,27 @@
 Rang: 4434
 Lemma: 入社
 Lesung: にゅうしゃ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Eintritt in ein Unternehmen; einen Job bekommen
 Extra: （する）
 Wortart: n. v.
-Definition: Eintritt in ein Unternehmen; einen Job bekommen
-Beispielsatz: 彼は大学を卒業した後新聞社に入社した。
-Beispielsatz-Lesung: 彼[かれ]は 大学[だいがく]を 卒業[そつぎょう]した 後[のち] 新聞社[しんぶんしゃ]に 入社[にゅうしゃ]した。
-Beispielsatz-Übersetzung: Er hat nach dem Abschluss an der Universität einen Job in
-  einer Zeitungsfirma bekommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">に</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は大学を卒業した後新聞社に入社した。
+  彼[かれ]は 大学[だいがく]を 卒業[そつぎょう]した 後[のち] 新聞社[しんぶんしゃ]に 入社[にゅうしゃ]した。
+  Er hat nach dem Abschluss an der Universität einen Job in einer Zeitungsfirma bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

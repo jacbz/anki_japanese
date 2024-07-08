@@ -1,13 +1,24 @@
 Rang: 4822
 Lemma: こっそり
-Lesung: こっそり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: heimlich, im Geheimen
-Beispielsatz: 恋人の携帯電話をこっそりみたことがある。
-Beispielsatz-Lesung: 恋人[こいびと]の 携帯電話[けいたいでんわ]をこっそりみたことがある。
-Beispielsatz-Übersetzung: Ich habe heimlich das Mobiltelefon meines Partners überprüft.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  恋人の携帯電話をこっそりみたことがある。
+  恋人[こいびと]の 携帯電話[けいたいでんわ]をこっそりみたことがある。
+  Ich habe heimlich das Mobiltelefon meines Partners überprüft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

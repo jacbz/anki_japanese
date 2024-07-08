@@ -1,13 +1,28 @@
 Rang: 3821
 Lemma: 定年
 Lesung: ていねん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: in den Ruhestand gehen; in den Ruhestand treten
 Extra: （する）
 Wortart: n. v.
-Definition: in den Ruhestand gehen; in den Ruhestand treten
-Beispielsatz: 今月父は定年を迎えた。
-Beispielsatz-Lesung: 今月[こんげつ] 父[ちち]は 定年[ていねん]を 迎[むか]えた。
-Beispielsatz-Übersetzung: Mein Vater hat diesen Monat das Rentenalter erreicht.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ね</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月父は定年を迎えた。
+  今月[こんげつ] 父[ちち]は 定年[ていねん]を 迎[むか]えた。
+  Mein Vater hat diesen Monat das Rentenalter erreicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

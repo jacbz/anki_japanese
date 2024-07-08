@@ -1,14 +1,24 @@
 Rang: 168
 Lemma: 例えば
 Lesung: たとえば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: zum Beispiel
-Beispielsatz: この畑では野菜、例えばジャガイモやトマトを作っています。
-Beispielsatz-Lesung: この 畑[はたけ]では 野菜[やさい]、 例[たと]えばジャガイモやトマトを 作[つく]っています。
-Beispielsatz-Übersetzung: Auf diesem Feld werden Gemüse wie Kartoffeln und Tomaten
-  angebaut.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この畑では野菜、例えばジャガイモやトマトを作っています。
+  この 畑[はたけ]では 野菜[やさい]、 例[たと]えばジャガイモやトマトを 作[つく]っています。
+  Auf diesem Feld werden Gemüse wie Kartoffeln und Tomaten angebaut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

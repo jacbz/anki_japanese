@@ -1,13 +1,26 @@
 Rang: 1203
 Lemma: 事故
 Lesung: じこ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Unfall, Vorfall, Problem
-Beispielsatz: 事故は真夜中に起きた。
-Beispielsatz-Lesung: 事故[じこ]は 真夜中[まよなか]に 起[お]きた。
-Beispielsatz-Übersetzung: Der Unfall ereignete sich um Mitternacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">じ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">こ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  事故は真夜中に起きた。
+  事故[じこ]は 真夜中[まよなか]に 起[お]きた。
+  Der Unfall ereignete sich um Mitternacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

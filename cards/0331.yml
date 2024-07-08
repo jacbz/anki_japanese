@@ -1,13 +1,24 @@
 Rang: 331
 Lemma: わ
-Lesung: わ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. disc.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: AUSRUF
-Beispielsatz: まあ、きれいだわ。
-Beispielsatz-Lesung: まあ、 綺麗[きれい]だわ。
-Beispielsatz-Übersetzung: Wie schön es ist!
+Extra: '' # Nur bei suru-Verben
+Wortart: p. disc.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まあ、きれいだわ。
+  まあ、 綺麗[きれい]だわ。
+  Wie schön es ist!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3847
 Lemma: 強烈
 Lesung: きょうれつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: stark, intensiv
-Beispielsatz: その言葉は私に強烈な印象を残した。
-Beispielsatz-Lesung: その 言葉[ことば]は 私[わたし]に 強烈[きょうれつ]な 印象[いんしょう]を 残[のこ]した。
-Beispielsatz-Übersetzung: Die Worte haben bei mir einen starken Eindruck hinterlassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その言葉は私に強烈な印象を残した。
+  その 言葉[ことば]は 私[わたし]に 強烈[きょうれつ]な 印象[いんしょう]を 残[のこ]した。
+  Die Worte haben bei mir einen starken Eindruck hinterlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

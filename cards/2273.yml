@@ -1,14 +1,27 @@
 Rang: 2273
 Lemma: 見なす
 Lesung: みなす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: betrachten, ansehen
-Beispielsatz: 入金した日を契約初日とみなします。
-Beispielsatz-Lesung: 入金[にゅうきん]した 日[ひ]を 契約[けいやく] 初日[しょにち]とみなします。
-Beispielsatz-Übersetzung: Der Tag, an dem die Zahlung erfolgt, wird als erster Tag
-  des Vertrags betrachtet.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  入金した日を契約初日とみなします。
+  入金[にゅうきん]した 日[ひ]を 契約[けいやく] 初日[しょにち]とみなします。
+  Der Tag, an dem die Zahlung erfolgt, wird als erster Tag des Vertrags betrachtet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

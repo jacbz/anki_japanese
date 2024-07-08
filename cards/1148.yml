@@ -1,13 +1,24 @@
 Rang: 1148
 Lemma: ストレス
-Lesung: ストレス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Stress
-Beispielsatz: どうやってストレスを解消していますか。
-Beispielsatz-Lesung: どうやってストレスを 解消[かいしょう]していますか。
-Beispielsatz-Übersetzung: Wie reduzieren Sie Ihren Stress?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どうやってストレスを解消していますか。
+  どうやってストレスを 解消[かいしょう]していますか。
+  Wie reduzieren Sie Ihren Stress?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

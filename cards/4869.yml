@@ -1,13 +1,24 @@
 Rang: 4869
 Lemma: カラー
-Lesung: カラー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Farbe
-Beispielsatz: 私が小さい頃はカラーの写真はなかった。
-Beispielsatz-Lesung: 私[わたし]が 小[ちい]さい 頃[ころ]はカラーの 写真[しゃしん]はなかった。
-Beispielsatz-Übersetzung: Als ich klein war, hatten wir keine Farbfotos.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私が小さい頃はカラーの写真はなかった。
+  私[わたし]が 小[ちい]さい 頃[ころ]はカラーの 写真[しゃしん]はなかった。
+  Als ich klein war, hatten wir keine Farbfotos.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

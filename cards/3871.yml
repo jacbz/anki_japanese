@@ -1,13 +1,27 @@
 Rang: 3871
 Lemma: 痛む
 Lesung: いたむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schmerzen, wehtun
-Beispielsatz: 歯が痛む。
-Beispielsatz-Lesung: 歯[は]が 痛[いた]む。
-Beispielsatz-Übersetzung: Mein Zahn tut weh.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  歯が痛む。
+  歯[は]が 痛[いた]む。
+  Mein Zahn tut weh.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

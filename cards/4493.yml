@@ -1,13 +1,24 @@
 Rang: 4493
 Lemma: 受診
 Lesung: じゅしん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: (medizinische) Untersuchung (durchführen)
 Extra: （する）
 Wortart: n. v.
-Definition: (medizinische) Untersuchung (durchführen)
-Beispielsatz: 午前中に健康診断を受診するつもりだ。
-Beispielsatz-Lesung: 午前中[ごぜんちゅう]に 健康診断[けんこうしんだん]を 受診[じゅしん]するつもりだ。
-Beispielsatz-Übersetzung: Ich werde am Morgen eine medizinische Untersuchung haben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  午前中に健康診断を受診するつもりだ。
+  午前中[ごぜんちゅう]に 健康診断[けんこうしんだん]を 受診[じゅしん]するつもりだ。
+  Ich werde am Morgen eine medizinische Untersuchung haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

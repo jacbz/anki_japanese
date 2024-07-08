@@ -1,14 +1,24 @@
 Rang: 1921
 Lemma: ざるを得ない
 Lesung: ざるおえない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: gezwungen sein, etwas zu tun
-Beispielsatz: その会社は生産を縮小せざるをえないだろう。
-Beispielsatz-Lesung: その 会社[かいしゃ]は 生産[せいさん]を 縮小[しゅくしょう]せざるをえないだろう。
-Beispielsatz-Übersetzung: Das Unternehmen wird gezwungen sein, seine Produktion zu
-  reduzieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その会社は生産を縮小せざるをえないだろう。
+  その 会社[かいしゃ]は 生産[せいさん]を 縮小[しゅくしょう]せざるをえないだろう。
+  Das Unternehmen wird gezwungen sein, seine Produktion zu reduzieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

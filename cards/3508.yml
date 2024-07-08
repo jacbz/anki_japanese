@@ -1,14 +1,28 @@
 Rang: 3508
 Lemma: 反する
 Lesung: はんする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: gegen etw sein, im Widerspruch stehen
-Beispielsatz: この報道には事実に反する部分がある。
-Beispielsatz-Lesung: この 報道[ほうどう]には 事実[じじつ]に 反[はん]する 部分[ぶぶん]がある。
-Beispielsatz-Übersetzung: Es gibt Teile dieses Nachrichtenberichts, die den Tatsachen
-  widersprechen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この報道には事実に反する部分がある。
+  この 報道[ほうどう]には 事実[じじつ]に 反[はん]する 部分[ぶぶん]がある。
+  Es gibt Teile dieses Nachrichtenberichts, die den Tatsachen widersprechen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

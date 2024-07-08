@@ -1,13 +1,24 @@
 Rang: 4862
 Lemma: 高齢化
 Lesung: こうれいか
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Alterung; Zunahme des Alters
 Extra: （する）
 Wortart: n.
-Definition: Alterung; Zunahme des Alters
-Beispielsatz: 高齢化社会に対応しなければならない。
-Beispielsatz-Lesung: 高齢化社会[こうれいかしゃかい]に 対応[たいおう]しなければならない。
-Beispielsatz-Übersetzung: Wir müssen uns auf die Alterung der Gesellschaft vorbereiten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  高齢化社会に対応しなければならない。
+  高齢化社会[こうれいかしゃかい]に 対応[たいおう]しなければならない。
+  Wir müssen uns auf die Alterung der Gesellschaft vorbereiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

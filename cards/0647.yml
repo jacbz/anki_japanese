@@ -1,13 +1,27 @@
 Rang: 647
 Lemma: 互い
 Lesung: たがい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: gegenseitig, einander
-Beispielsatz: 互いのことを良く知ろう。
-Beispielsatz-Lesung: 互[たが]いのことを 良[よ]く 知[し]ろう。
-Beispielsatz-Übersetzung: Lassen Sie uns einander gut kennen lernen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  互いのことを良く知ろう。
+  互[たが]いのことを 良[よ]く 知[し]ろう。
+  Lassen Sie uns einander gut kennen lernen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

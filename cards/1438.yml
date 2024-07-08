@@ -1,13 +1,30 @@
 Rang: 1438
 Lemma: 私共
 Lesung: わたくしども
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: wir
-Beispielsatz: 私共は世界中にサービスを提供しております。
-Beispielsatz-Lesung: 私共[わたくしども]は 世界中[せかいじゅう]にサービスを 提供[ていきょう]しております。
-Beispielsatz-Übersetzung: Wir bieten weltweit Dienstleistungen an.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">も</span></span></span></span>
+Register: ↗Verwaltungssprache
+Dispersion: '26'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私共は世界中にサービスを提供しております。
+  私共[わたくしども]は 世界中[せかいじゅう]にサービスを 提供[ていきょう]しております。
+  Wir bieten weltweit Dienstleistungen an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

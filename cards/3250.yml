@@ -1,13 +1,24 @@
 Rang: 3250
 Lemma: 翌年
 Lesung: よくねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: das nächste Jahr, das folgende Jahr
-Beispielsatz: 知り合った翌年に二人は結婚した。
-Beispielsatz-Lesung: 知[し]り 合[あ]った 翌年[よくねん]に二人は 結婚[けっこん]した。
-Beispielsatz-Übersetzung: Sie heirateten im Jahr nachdem sie sich kennengelernt hatten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  知り合った翌年に二人は結婚した。
+  知[し]り 合[あ]った 翌年[よくねん]に二人は 結婚[けっこん]した。
+  Sie heirateten im Jahr nachdem sie sich kennengelernt hatten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

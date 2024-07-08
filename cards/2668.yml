@@ -1,13 +1,27 @@
 Rang: 2668
 Lemma: 揺れる
 Lesung: ゆれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schütteln, winken, schwingen
-Beispielsatz: 子供が枝にぶらさがって揺れている。
-Beispielsatz-Lesung: 子供[こども]が 枝[えだ]にぶらさがって 揺[ゆ]れている。
-Beispielsatz-Übersetzung: Das Kind schaukelte an einem Ast.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供が枝にぶらさがって揺れている。
+  子供[こども]が 枝[えだ]にぶらさがって 揺[ゆ]れている。
+  Das Kind schaukelte an einem Ast.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4872
 Lemma: フルーツ
-Lesung: フルーツ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Obst
-Beispielsatz: フルーツケーキを食べた。
-Beispielsatz-Lesung: フルーツケーキを 食[た]べた。
-Beispielsatz-Übersetzung: Ich habe Obsttorte gegessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  フルーツケーキを食べた。
+  フルーツケーキを 食[た]べた。
+  Ich habe Obsttorte gegessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

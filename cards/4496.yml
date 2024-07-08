@@ -1,13 +1,24 @@
 Rang: 4496
 Lemma: パートナー
-Lesung: パートナー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Partner
-Beispielsatz: 私はテニスで彼女とパートナーを組んだ。
-Beispielsatz-Lesung: 私[わたし]はテニスで 彼女[かのじょ]とパートナーを 組[く]んだ。
-Beispielsatz-Übersetzung: Ich hatte sie als meinen Partner in einem Tennis-Match.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はテニスで彼女とパートナーを組んだ。
+  私[わたし]はテニスで 彼女[かのじょ]とパートナーを 組[く]んだ。
+  Ich hatte sie als meinen Partner in einem Tennis-Match.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

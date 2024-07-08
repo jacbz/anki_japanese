@@ -1,13 +1,27 @@
 Rang: 2780
 Lemma: 添える
 Lesung: そえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anfügen, hinzufügen
-Beispielsatz: 申込書には写真を添えて下さい。
-Beispielsatz-Lesung: 申込書[もうしこみしょ]には 写真[しゃしん]を 添[そ]えて 下[くだ]さい。
-Beispielsatz-Übersetzung: Fügen Sie das Foto Ihrem Antragsformular hinzu.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  申込書には写真を添えて下さい。
+  申込書[もうしこみしょ]には 写真[しゃしん]を 添[そ]えて 下[くだ]さい。
+  Fügen Sie das Foto Ihrem Antragsformular hinzu.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

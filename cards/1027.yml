@@ -1,13 +1,24 @@
 Rang: 1027
 Lemma: タイプ
-Lesung: タイプ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Typ
 Extra: （する）
 Wortart: n. v.
-Definition: Typ
-Beispielsatz: あの子は僕のタイプじゃないよ。
-Beispielsatz-Lesung: あの 子[こ]は 僕[ぼく]のタイプじゃないよ。
-Beispielsatz-Übersetzung: Sie ist nicht mein Typ.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの子は僕のタイプじゃないよ。
+  あの 子[こ]は 僕[ぼく]のタイプじゃないよ。
+  Sie ist nicht mein Typ.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

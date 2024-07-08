@@ -1,13 +1,24 @@
 Rang: 3063
 Lemma: 二十二日
 Lesung: にじゅうににち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zweiundzwanzigster (Datum); zweiundzwanzig Tage
-Beispielsatz: 彼の帰国日は22日です。
-Beispielsatz-Lesung: 彼[かれ]の 帰国[きこく] 日[び]は22 日[にち]です。
-Beispielsatz-Übersetzung: Er wird am zweiundzwanzigsten zurückkehren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の帰国日は22日です。
+  彼[かれ]の 帰国[きこく] 日[び]は22 日[にち]です。
+  Er wird am zweiundzwanzigsten zurückkehren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

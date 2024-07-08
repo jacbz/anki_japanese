@@ -1,13 +1,24 @@
 Rang: 4818
 Lemma: 住居
 Lesung: jukyo
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wohnung/Haus
-Beispielsatz: 被災地では住居が不足している。
-Beispielsatz-Lesung: 被災地[ひさいち]では 住居[じゅうきょ]が 不足[ふそく]している。
-Beispielsatz-Übersetzung: In der Katastrophenregion herrscht Wohnungsnot.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  被災地では住居が不足している。
+  被災地[ひさいち]では 住居[じゅうきょ]が 不足[ふそく]している。
+  In der Katastrophenregion herrscht Wohnungsnot.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

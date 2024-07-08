@@ -1,13 +1,24 @@
 Rang: 1530
 Lemma: 二十年
 Lesung: にじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwanzig Jahre
-Beispielsatz: 私たちが結婚して二十年になる。
-Beispielsatz-Lesung: 私[わたし]たちが 結婚[けっこん]して二十 年[ねん]になる。
-Beispielsatz-Übersetzung: Es sind zwanzig Jahre vergangen, seit wir geheiratet haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちが結婚して二十年になる。
+  私[わたし]たちが 結婚[けっこん]して二十 年[ねん]になる。
+  Es sind zwanzig Jahre vergangen, seit wir geheiratet haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 4199
 Lemma: 都度
 Lesung: つど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: jedes Mal
-Beispielsatz: 彼は上京の都度お土産を持って来てくれる。
-Beispielsatz-Lesung: 彼[かれ]は 上京[じょうきょう]の 都度[つど]お 土産[みやげ]を 持[も]って 来[き]てくれる。
-Beispielsatz-Übersetzung: Jedes Mal, wenn er nach Tokio kommt, bringt er uns ein Souvenir
-  mit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は上京の都度お土産を持って来てくれる。
+  彼[かれ]は 上京[じょうきょう]の 都度[つど]お 土産[みやげ]を 持[も]って 来[き]てくれる。
+  Jedes Mal, wenn er nach Tokio kommt, bringt er uns ein Souvenir mit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

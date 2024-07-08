@@ -1,13 +1,24 @@
 Rang: 4973
 Lemma: 返済
 Lesung: へんさい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Rückzahlung; zurückzahlen
 Extra: （する）
 Wortart: n. v.
-Definition: Rückzahlung; zurückzahlen
-Beispielsatz: 借金を返済した。
-Beispielsatz-Lesung: 借金[しゃっきん]を 返済[へんさい]した。
-Beispielsatz-Übersetzung: Ich habe meine Schulden zurückgezahlt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  借金を返済した。
+  借金[しゃっきん]を 返済[へんさい]した。
+  Ich habe meine Schulden zurückgezahlt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

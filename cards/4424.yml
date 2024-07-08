@@ -1,13 +1,24 @@
 Rang: 4424
 Lemma: バー
-Lesung: バー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Bar
-Beispielsatz: よくバーへワインを飲みに行きます。
-Beispielsatz-Lesung: よくバーへワインを 飲[の]みに 行[い]きます。
-Beispielsatz-Übersetzung: Ich gehe oft in eine Bar, um Wein zu trinken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  よくバーへワインを飲みに行きます。
+  よくバーへワインを 飲[の]みに 行[い]きます。
+  Ich gehe oft in eine Bar, um Wein zu trinken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3595
 Lemma: 欠かせる
 Lesung: かかせる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: unverzichtbar machen
-Beispielsatz: これは日本料理には欠かせない食材です。
-Beispielsatz-Lesung: これは 日本料理[にほんりょうり]には 欠[か]かせない 食材[しょくざい]です。
-Beispielsatz-Übersetzung: Diese Zutat ist für die japanische Küche unverzichtbar.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは日本料理には欠かせない食材です。
+  これは 日本料理[にほんりょうり]には 欠[か]かせない 食材[しょくざい]です。
+  Diese Zutat ist für die japanische Küche unverzichtbar.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

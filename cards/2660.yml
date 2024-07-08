@@ -1,13 +1,27 @@
 Rang: 2660
 Lemma: 内部
 Lesung: ないぶ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Innen-, Inneres
-Beispielsatz: 内部のものの仕業に違いない。
-Beispielsatz-Lesung: 内部[ないぶ]のものの 仕業[しわざ]に 違[ちが]いない。
-Beispielsatz-Übersetzung: Das muss von jemandem im Inneren gemacht worden sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">な</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ぶ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  内部のものの仕業に違いない。
+  内部[ないぶ]のものの 仕業[しわざ]に 違[ちが]いない。
+  Das muss von jemandem im Inneren gemacht worden sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

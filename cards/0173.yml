@@ -1,13 +1,30 @@
 Rang: 173
 Lemma: 他
 Lesung: ほか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: andere, ein anderer
-Beispielsatz: 他に質問はありませんか。
-Beispielsatz-Lesung: 他[た]に 質問[しつもん]はありませんか。
-Beispielsatz-Übersetzung: Haben Sie noch weitere Fragen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  他に質問はありませんか。
+  他[た]に 質問[しつもん]はありませんか。
+  Haben Sie noch weitere Fragen?
+
+  その国は他の国に比べて資源が豊かだ。
+  その 国[くに]は 他[た]の 国[くに]に 比[くら]べて 資源[しげん]が 豊[ゆた]かだ。
+  Das Land ist im Vergleich zu anderen Ländern reich an natürlichen Ressourcen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

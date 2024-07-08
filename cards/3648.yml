@@ -1,14 +1,24 @@
 Rang: 3648
 Lemma: 同級生
 Lesung: どうきゅうせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Klassenkamerad/in
-Beispielsatz: 久しぶりに高校時代の同級生が集まった。
-Beispielsatz-Lesung: 久[ひさ]しぶりに 高校時代[こうこうじだい]の 同級生[どうきゅうせい]が 集[あつ]まった。
-Beispielsatz-Übersetzung: Es gab ein Treffen meiner Klassenkameraden aus der High
-  School nach langer Zeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  久しぶりに高校時代の同級生が集まった。
+  久[ひさ]しぶりに 高校時代[こうこうじだい]の 同級生[どうきゅうせい]が 集[あつ]まった。
+  Es gab ein Treffen meiner Klassenkameraden aus der High School nach langer Zeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

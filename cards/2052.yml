@@ -1,13 +1,24 @@
 Rang: 2052
 Lemma: コメント
-Lesung: コメント
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Kommentar
 Extra: （する）
 Wortart: n. v.
-Definition: Kommentar
-Beispielsatz: その件については今はコメントできません。
-Beispielsatz-Lesung: その 件[けん]については 今[いま]はコメントできません。
-Beispielsatz-Übersetzung: Ich kann dazu im Moment keinen Kommentar abgeben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その件については今はコメントできません。
+  その 件[けん]については 今[いま]はコメントできません。
+  Ich kann dazu im Moment keinen Kommentar abgeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

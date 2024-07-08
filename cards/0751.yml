@@ -1,13 +1,26 @@
 Rang: 751
 Lemma: 似る
 Lesung: にる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ähneln
-Beispielsatz: 君はお父さんに似ている。
-Beispielsatz-Lesung: 君[きみ]はお 父[とう]さんに 似[に]ている。
-Beispielsatz-Übersetzung: Du siehst deinem Vater ähnlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  君はお父さんに似ている。
+  君[きみ]はお 父[とう]さんに 似[に]ている。
+  Du siehst deinem Vater ähnlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

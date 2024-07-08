@@ -1,13 +1,29 @@
 Rang: 1159
 Lemma: 当たり前
 Lesung: あたりまえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: natürlich, üblich, gemeinsam, gewöhnlich
-Beispielsatz: これは日本では当たり前のことだ。
-Beispielsatz-Lesung: これは 日本[にっぽん]では 当[あ]たり 前[まえ]のことだ。
-Beispielsatz-Übersetzung: Das ist in Japan etwas Natürliches.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">え</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは日本では当たり前のことだ。
+  これは 日本[にっぽん]では 当[あ]たり 前[まえ]のことだ。
+  Das ist in Japan etwas Natürliches.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

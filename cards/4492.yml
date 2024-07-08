@@ -1,13 +1,24 @@
 Rang: 4492
 Lemma: 計上
 Lesung: けいじょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: verbuchen, einplanen
 Extra: （する）
 Wortart: n. v.
-Definition: verbuchen, einplanen
-Beispielsatz: 震災のための予算が計上された。
-Beispielsatz-Lesung: 震災[しんさい]のための 予算[よさん]が 計上[けいじょう]された。
-Beispielsatz-Übersetzung: Das Budget wurde für das Erdbeben-Desaster verbucht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '59'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  震災のための予算が計上された。
+  震災[しんさい]のための 予算[よさん]が 計上[けいじょう]された。
+  Das Budget wurde für das Erdbeben-Desaster verbucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

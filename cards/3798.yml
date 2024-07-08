@@ -1,14 +1,24 @@
 Rang: 3798
 Lemma: 関与
 Lesung: かんよ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Beteiligung; beteiligen
 Extra: （する）
 Wortart: n. v.
-Definition: Beteiligung; beteiligen
-Beispielsatz: A氏がこの事件に関与している疑いが強まった。
-Beispielsatz-Lesung: A 氏[し]がこの 事件[じけん]に 関与[かんよ]している 疑[うたが]いが 強[つよ]まった。
-Beispielsatz-Übersetzung: Der Verdacht über die Beteiligung von Herrn A an diesem
-  Fall hat zugenommen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  A氏がこの事件に関与している疑いが強まった。
+  A 氏[し]がこの 事件[じけん]に 関与[かんよ]している 疑[うたが]いが 強[つよ]まった。
+  Der Verdacht über die Beteiligung von Herrn A an diesem Fall hat zugenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

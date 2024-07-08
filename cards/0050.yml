@@ -1,13 +1,24 @@
 Rang: 50
 Lemma: せる
-Lesung: せる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: KAUSATIV
-Beispielsatz: 子供にピアノを習わせたい。
-Beispielsatz-Lesung: 子供[こども]にピアノを 習[なら]わせたい。
-Beispielsatz-Übersetzung: Ich möchte, dass mein Kind lernt, wie man Klavier spielt.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供にピアノを習わせたい。
+  子供[こども]にピアノを 習[なら]わせたい。
+  Ich möchte, dass mein Kind lernt, wie man Klavier spielt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 1386
 Lemma: 咲く
 Lesung: さく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: blühen
-Beispielsatz: この公園にはさまざまな花が咲く。
-Beispielsatz-Lesung: この 公園[こうえん]にはさまざまな 花[はな]が 咲[さ]く。
-Beispielsatz-Übersetzung: Viele verschiedene Blumen blühen in diesem Park.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この公園にはさまざまな花が咲く。
+  この 公園[こうえん]にはさまざまな 花[はな]が 咲[さ]く。
+  Viele verschiedene Blumen blühen in diesem Park.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

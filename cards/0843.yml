@@ -1,13 +1,28 @@
 Rang: 843
 Lemma: 発見
 Lesung: はっけん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Entdeckung
 Extra: （する）
 Wortart: n. v.
-Definition: Entdeckung
-Beispielsatz: アメリカ大陸はコロンブスによって発見された。
-Beispielsatz-Lesung: アメリカ 大陸[たいりく]はコロンブスによって 発見[はっけん]された。
-Beispielsatz-Übersetzung: Amerika wurde von Kolumbus entdeckt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  アメリカ大陸はコロンブスによって発見された。
+  アメリカ 大陸[たいりく]はコロンブスによって 発見[はっけん]された。
+  Amerika wurde von Kolumbus entdeckt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

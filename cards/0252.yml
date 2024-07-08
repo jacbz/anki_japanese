@@ -1,14 +1,24 @@
 Rang: 252
 Lemma: ていただく
-Lesung: ていただく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[eine Gefälligkeit erhalten (bescheiden)]'
-Beispielsatz: すみません、ちょっと教えていただけますか。
-Beispielsatz-Lesung: すみません、ちょっと 教[おし]えていただけますか。
-Beispielsatz-Übersetzung: Entschuldigung, könnten Sie mir bitte etwas beibringen?
-  (Ich habe eine Frage)
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  すみません、ちょっと教えていただけますか。
+  すみません、ちょっと 教[おし]えていただけますか。
+  Entschuldigung, könnten Sie mir bitte etwas beibringen? (Ich habe eine Frage)
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

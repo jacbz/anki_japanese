@@ -1,13 +1,24 @@
 Rang: 3535
 Lemma: ローマ
-Lesung: ローマ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Rom
-Beispielsatz: ローマはイタリアの首都だ。
-Beispielsatz-Lesung: ローマはイタリアの 首都[しゅと]だ。
-Beispielsatz-Übersetzung: Rom ist die Hauptstadt von Italien.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ローマはイタリアの首都だ。
+  ローマはイタリアの 首都[しゅと]だ。
+  Rom ist die Hauptstadt von Italien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

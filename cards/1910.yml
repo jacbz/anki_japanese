@@ -1,13 +1,24 @@
 Rang: 1910
 Lemma: 分かりやすい
 Lesung: わかりやすい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: leicht verständlich
-Beispielsatz: この辞書の例はわかりやすい。
-Beispielsatz-Lesung: この 辞書[じしょ]の 例[れい]はわかりやすい。
-Beispielsatz-Übersetzung: Die Beispiele in diesem Wörterbuch sind leicht verständlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この辞書の例はわかりやすい。
+  この 辞書[じしょ]の 例[れい]はわかりやすい。
+  Die Beispiele in diesem Wörterbuch sind leicht verständlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

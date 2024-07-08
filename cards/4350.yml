@@ -1,13 +1,24 @@
 Rang: 4350
 Lemma: スタジオ
-Lesung: スタジオ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Studio
-Beispielsatz: 今日私達はスタジオで雑誌の撮影だ。
-Beispielsatz-Lesung: 今日[きょう] 私[わたし] 達[たち]はスタジオで 雑誌[ざっし]の 撮影[さつえい]だ。
-Beispielsatz-Übersetzung: Heute werden wir in einem Studio Zeitschriftenfotos machen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日私達はスタジオで雑誌の撮影だ。
+  今日[きょう] 私[わたし] 達[たち]はスタジオで 雑誌[ざっし]の 撮影[さつえい]だ。
+  Heute werden wir in einem Studio Zeitschriftenfotos machen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

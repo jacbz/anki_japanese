@@ -1,13 +1,24 @@
 Rang: 4130
 Lemma: 概ね
 Lesung: おおむね
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: größtenteils, hauptsächlich, im Allgemeinen
-Beispielsatz: 私の勘は概ね当たっている。
-Beispielsatz-Lesung: 私[わたし]の 勘[かん]は 概[おおむ]ね 当[あ]たっている。
-Beispielsatz-Übersetzung: Meine Vermutung hat sich im Wesentlichen bestätigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の勘は概ね当たっている。
+  私[わたし]の 勘[かん]は 概[おおむ]ね 当[あ]たっている。
+  Meine Vermutung hat sich im Wesentlichen bestätigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

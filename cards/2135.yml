@@ -1,14 +1,29 @@
 Rang: 2135
 Lemma: しかたない
-Lesung: しかたない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: es hat keinen Sinn
-Beispielsatz: この問題についてこれ以上考えてもしかたない。
-Beispielsatz-Lesung: この 問題[もんだい]についてこれ 以上[いじょう] 考[かんが]えてもしかたない。
-Beispielsatz-Übersetzung: Es hat keinen Sinn, sich weiter mit dieser Angelegenheit
-  zu beschäftigen.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この問題についてこれ以上考えてもしかたない。
+  この 問題[もんだい]についてこれ 以上[いじょう] 考[かんが]えてもしかたない。
+  Es hat keinen Sinn, sich weiter mit dieser Angelegenheit zu beschäftigen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

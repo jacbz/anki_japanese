@@ -1,13 +1,28 @@
 Rang: 2096
 Lemma: 信頼
 Lesung: しんらい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Vertrauen; auf jmd. verlassen
 Extra: （する）
 Wortart: n., v.
-Definition: Vertrauen; auf jmd. verlassen
-Beispielsatz: 彼は上司から信頼されている。
-Beispielsatz-Lesung: 彼[かれ]は 上司[じょうし]から 信頼[しんらい]されている。
-Beispielsatz-Übersetzung: Er wird von seinem Chef vertraut.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は上司から信頼されている。
+  彼[かれ]は 上司[じょうし]から 信頼[しんらい]されている。
+  Er wird von seinem Chef vertraut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

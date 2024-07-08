@@ -1,13 +1,24 @@
 Rang: 4701
 Lemma: 共感
 Lesung: きょうかん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Mitgefühl; mitfühlen
 Extra: （する）
 Wortart: n. v.
-Definition: Mitgefühl; mitfühlen
-Beispielsatz: 彼のスピーチは聴衆の共感を得た。
-Beispielsatz-Lesung: 彼[かれ]のスピーチは 聴衆[ちょうしゅう]の 共感[きょうかん]を 得[え]た。
-Beispielsatz-Übersetzung: Seine Rede erhielt das Mitgefühl des Publikums.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼のスピーチは聴衆の共感を得た。
+  彼[かれ]のスピーチは 聴衆[ちょうしゅう]の 共感[きょうかん]を 得[え]た。
+  Seine Rede erhielt das Mitgefühl des Publikums.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 237
 Lemma: あるいは
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Alternativschreibweisen: ''
 Definition: oder; vielleicht (Auflistung von Möglichkeiten)
-Beispielsatz: 日本からアフリカへは、ヨーロッパ、あるいは中東経由で行ける。
-Beispielsatz-Lesung: 日本[にっぽん]からアフリカへは、ヨーロッパ、あるいは 中東[ちゅうとう] 経由[けいゆ]で 行[い]ける。
-Beispielsatz-Übersetzung: Man kann von Japan aus nach Afrika über Europa oder den
-  Nahen Osten reisen.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本からアフリカへは、ヨーロッパ、あるいは中東経由で行ける。
+  日本[にっぽん]からアフリカへは、ヨーロッパ、あるいは 中東[ちゅうとう] 経由[けいゆ]で 行[い]ける。
+  Man kann von Japan aus nach Afrika über Europa oder den Nahen Osten reisen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

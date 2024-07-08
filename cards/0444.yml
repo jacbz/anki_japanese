@@ -1,13 +1,27 @@
 Rang: 444
 Lemma: 姿
 Lesung: すがた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gestalt, Form, Erscheinungsbild
-Beispielsatz: 最近彼の姿を見ない。
-Beispielsatz-Lesung: 最近[さいきん] 彼[かれ]の 姿[すがた]を 見[み]ない。
-Beispielsatz-Übersetzung: Ich habe ihn in letzter Zeit nicht gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">す</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">が</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">た</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近彼の姿を見ない。
+  最近[さいきん] 彼[かれ]の 姿[すがた]を 見[み]ない。
+  Ich habe ihn in letzter Zeit nicht gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

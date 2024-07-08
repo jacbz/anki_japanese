@@ -1,13 +1,28 @@
 Rang: 2920
 Lemma: 交通
 Lesung: こうつう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Verkehr; Transport
-Beispielsatz: ここは交通の便が悪い。
-Beispielsatz-Lesung: ここは 交通[こうつう]の 便[べん]が 悪[わる]い。
-Beispielsatz-Übersetzung: Der öffentliche Verkehr ist in diesem Bereich sehr schlecht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここは交通の便が悪い。
+  ここは 交通[こうつう]の 便[べん]が 悪[わる]い。
+  Der öffentliche Verkehr ist in diesem Bereich sehr schlecht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

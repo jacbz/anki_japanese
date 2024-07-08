@@ -1,13 +1,24 @@
 Rang: 3900
 Lemma: HP
 Lesung: ホームページ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Homepage
-Beispielsatz: 毎日ホームページを更新している。
-Beispielsatz-Lesung: 毎日[まいにち]ホームページを 更新[こうしん]している。
-Beispielsatz-Übersetzung: Ich aktualisiere meine Homepage jeden Tag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '43'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎日ホームページを更新している。
+  毎日[まいにち]ホームページを 更新[こうしん]している。
+  Ich aktualisiere meine Homepage jeden Tag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

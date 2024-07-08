@@ -1,14 +1,27 @@
 Rang: 4198
 Lemma: 本社
 Lesung: ほんしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hauptgeschäftsstelle
-Beispielsatz: 彼は本社から九州支社に転勤になった。
-Beispielsatz-Lesung: 彼[かれ]は 本社[ほんしゃ]から 九州[きゅうしゅう] 支社[ししゃ]に 転勤[てんきん]になった。
-Beispielsatz-Übersetzung: Er wurde von der Hauptgeschäftsstelle in eine Niederlassung
-  in Kyushu versetzt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ほ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は本社から九州支社に転勤になった。
+  彼[かれ]は 本社[ほんしゃ]から 九州[きゅうしゅう] 支社[ししゃ]に 転勤[てんきん]になった。
+  Er wurde von der Hauptgeschäftsstelle in eine Niederlassung in Kyushu versetzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

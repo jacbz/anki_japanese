@@ -1,13 +1,24 @@
 Rang: 4106
 Lemma: ホール
-Lesung: ホール
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Halle
-Beispielsatz: このホールは500人収容できる。
-Beispielsatz-Lesung: このホールは500人 収容[しゅうよう]できる。
-Beispielsatz-Übersetzung: Dieser Saal bietet Platz für 500 Personen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このホールは500人収容できる。
+  このホールは500人 収容[しゅうよう]できる。
+  Dieser Saal bietet Platz für 500 Personen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1975
 Lemma: スピード
-Lesung: スピード
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Geschwindigkeit
-Beispielsatz: この車、どのくらいスピードが出るの。
-Beispielsatz-Lesung: この 車[くるま]、どのくらいスピードが 出[で]るの。
-Beispielsatz-Übersetzung: Wie schnell fährt dieses Auto?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この車、どのくらいスピードが出るの。
+  この 車[くるま]、どのくらいスピードが 出[で]るの。
+  Wie schnell fährt dieses Auto?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

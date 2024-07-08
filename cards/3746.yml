@@ -1,13 +1,28 @@
 Rang: 3746
 Lemma: 右側
 Lesung: みぎがわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: rechte Seite
-Beispielsatz: この国では、車は右側を走る。
-Beispielsatz-Lesung: この 国[くに]では、 車[くるま]は 右側[みぎがわ]を 走[はし]る。
-Beispielsatz-Übersetzung: Fahrzeuge fahren in diesem Land auf der rechten Seite.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ぎ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この国では、車は右側を走る。
+  この 国[くに]では、 車[くるま]は 右側[みぎがわ]を 走[はし]る。
+  Fahrzeuge fahren in diesem Land auf der rechten Seite.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

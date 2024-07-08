@@ -1,14 +1,24 @@
 Rang: 3628
 Lemma: 十七歳
 Lesung: じゅうななーさい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: siebzehn Jahre alt
-Beispielsatz: 十七歳のとき、初めて海外旅行をした。
-Beispielsatz-Lesung: 十七 歳[さい]のとき、 初[はじ]めて 海外旅行[かいがいりょこう]をした。
-Beispielsatz-Übersetzung: Ich bin zum ersten Mal ins Ausland gereist, als ich siebzehn
-  Jahre alt war.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十七歳のとき、初めて海外旅行をした。
+  十七 歳[さい]のとき、 初[はじ]めて 海外旅行[かいがいりょこう]をした。
+  Ich bin zum ersten Mal ins Ausland gereist, als ich siebzehn Jahre alt war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

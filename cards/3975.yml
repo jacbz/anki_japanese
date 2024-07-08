@@ -1,13 +1,24 @@
 Rang: 3975
 Lemma: カバー
-Lesung: カバー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Abdeckung
-Beispielsatz: 車にカバーをかぶせた。
-Beispielsatz-Lesung: 車[くるま]にカバーをかぶせた。
-Beispielsatz-Übersetzung: Ich habe eine Plane über mein Auto gezogen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  車にカバーをかぶせた。
+  車[くるま]にカバーをかぶせた。
+  Ich habe eine Plane über mein Auto gezogen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

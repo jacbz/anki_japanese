@@ -1,14 +1,27 @@
 Rang: 1229
 Lemma: 洗う
 Lesung: あらう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: waschen
-Beispielsatz: 食べる前に必ず手を洗ってね。
-Beispielsatz-Lesung: 食[た]べる 前[まえ]に 必[かなら]ず 手[て]を 洗[あら]ってね。
-Beispielsatz-Übersetzung: Vergewissere dich, dass du deine Hände wäschst, bevor du
-  isst.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  食べる前に必ず手を洗ってね。
+  食[た]べる 前[まえ]に 必[かなら]ず 手[て]を 洗[あら]ってね。
+  Vergewissere dich, dass du deine Hände wäschst, bevor du isst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4811
 Lemma: 科学的
 Lesung: かがくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: wissenschaftlich
-Beispielsatz: その理論は科学的に証明されている。
-Beispielsatz-Lesung: その 理論[りろん]は 科学的[かがくてき]に 証明[しょうめい]されている。
-Beispielsatz-Übersetzung: Diese Theorie wurde wissenschaftlich bewiesen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その理論は科学的に証明されている。
+  その 理論[りろん]は 科学的[かがくてき]に 証明[しょうめい]されている。
+  Diese Theorie wurde wissenschaftlich bewiesen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

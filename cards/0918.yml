@@ -1,13 +1,24 @@
 Rang: 918
 Lemma: 張る
 Lesung: はる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: spannen, aufhängen
-Beispielsatz: 彼は木の間にロープを張った。
-Beispielsatz-Lesung: 彼[かれ]は 木[こ]の 間[ま]にロープを 張[は]った。
-Beispielsatz-Übersetzung: Er spannte ein Seil zwischen den Bäumen auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は木の間にロープを張った。
+  彼[かれ]は 木[こ]の 間[ま]にロープを 張[は]った。
+  Er spannte ein Seil zwischen den Bäumen auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

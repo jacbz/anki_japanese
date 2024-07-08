@@ -1,13 +1,29 @@
 Rang: 4521
 Lemma: 万が一
 Lesung: まんがいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: für den Fall
-Beispielsatz: 万が一の場合は電話ください。
-Beispielsatz-Lesung: 万[まん]が 一[いち]の 場合[ばあい]は 電話[でんわ]ください。
-Beispielsatz-Übersetzung: Bitte rufen Sie mich im Notfall an.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-5"><span
+  class="inner"><span class="char">ま</span></span></span><span class="mola_-4"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">が</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  万が一の場合は電話ください。
+  万[まん]が 一[いち]の 場合[ばあい]は 電話[でんわ]ください。
+  Bitte rufen Sie mich im Notfall an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

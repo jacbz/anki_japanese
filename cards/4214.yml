@@ -1,13 +1,27 @@
 Rang: 4214
 Lemma: 夕日
 Lesung: ゆうひ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Abendsonne, Sonnenuntergang
-Beispielsatz: 私は今までこんなきれいな夕日を見たことがない。
-Beispielsatz-Lesung: 私[わたし]は 今[いま]までこんなきれいな 夕日[ゆうひ]を 見[み]たことがない。
-Beispielsatz-Übersetzung: Ich habe noch nie einen so schönen Sonnenuntergang gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ひ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は今までこんなきれいな夕日を見たことがない。
+  私[わたし]は 今[いま]までこんなきれいな 夕日[ゆうひ]を 見[み]たことがない。
+  Ich habe noch nie einen so schönen Sonnenuntergang gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

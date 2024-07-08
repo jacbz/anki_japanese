@@ -1,13 +1,24 @@
 Rang: 2788
 Lemma: 十六日
 Lesung: じゅうろくにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sechzehnter (Datum); sechzehn Tage
-Beispielsatz: 今月の十六日は彼の誕生日だ。
-Beispielsatz-Lesung: 今月[こんげつ]の十六 日[にち]は 彼[かれ]の 誕生日[たんじょうび]だ。
-Beispielsatz-Übersetzung: Der 16. dieses Monats ist sein Geburtstag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '45'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月の十六日は彼の誕生日だ。
+  今月[こんげつ]の十六 日[にち]は 彼[かれ]の 誕生日[たんじょうび]だ。
+  Der 16. dieses Monats ist sein Geburtstag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

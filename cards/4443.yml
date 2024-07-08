@@ -1,13 +1,24 @@
 Rang: 4443
 Lemma: 三十人
 Lesung: さんじゅうにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreißig Personen
-Beispielsatz: 私のクラスに三十人の学生が登録した。
-Beispielsatz-Lesung: 私[わたし]のクラスに三十人の 学生[がくせい]が 登録[とうろく]した。
-Beispielsatz-Übersetzung: In meiner Klasse haben sich dreißig Schüler angemeldet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '47'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私のクラスに三十人の学生が登録した。
+  私[わたし]のクラスに三十人の 学生[がくせい]が 登録[とうろく]した。
+  In meiner Klasse haben sich dreißig Schüler angemeldet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

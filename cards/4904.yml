@@ -1,14 +1,24 @@
 Rang: 4904
 Lemma: 資する
 Lesung: しする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beitragen
-Beispielsatz: その発明はあのビジネスに大きく資することになるだろう。
-Beispielsatz-Lesung: その 発明[はつめい]はあのビジネスに 大[おお]きく 資[し]することになるだろう。
-Beispielsatz-Übersetzung: Die Erfindung wird einen großen Beitrag zur Entwicklung
-  dieses Geschäfts leisten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '14'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その発明はあのビジネスに大きく資することになるだろう。
+  その 発明[はつめい]はあのビジネスに 大[おお]きく 資[し]することになるだろう。
+  Die Erfindung wird einen großen Beitrag zur Entwicklung dieses Geschäfts leisten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

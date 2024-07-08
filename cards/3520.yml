@@ -1,13 +1,24 @@
 Rang: 3520
 Lemma: 政令
 Lesung: せいれい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Regierungsverordnung
-Beispielsatz: このことは政令で定められている。
-Beispielsatz-Lesung: このことは 政令[せいれい]で 定[さだ]められている。
-Beispielsatz-Übersetzung: Dies wird durch eine Regierungsverordnung geregelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '14'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このことは政令で定められている。
+  このことは 政令[せいれい]で 定[さだ]められている。
+  Dies wird durch eine Regierungsverordnung geregelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

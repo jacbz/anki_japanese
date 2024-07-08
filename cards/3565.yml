@@ -1,14 +1,24 @@
 Rang: 3565
 Lemma: 移転
 Lesung: いてん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Umzug
 Extra: （する）
 Wortart: n., v.
-Definition: Umzug
-Beispielsatz: 事務所が隣のビルに移転することになった。
-Beispielsatz-Lesung: 事務所[じむしょ]が 隣[となり]のビルに 移転[いてん]することになった。
-Beispielsatz-Übersetzung: Sie haben beschlossen, das Büro in das benachbarte Gebäude
-  umzuziehen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  事務所が隣のビルに移転することになった。
+  事務所[じむしょ]が 隣[となり]のビルに 移転[いてん]することになった。
+  Sie haben beschlossen, das Büro in das benachbarte Gebäude umzuziehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

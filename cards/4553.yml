@@ -1,13 +1,27 @@
 Rang: 4553
 Lemma: 主催
 Lesung: しゅさい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Gastgeber; veranstalten, organisieren
 Extra: （する）
 Wortart: n. v.
-Definition: Gastgeber; veranstalten, organisieren
-Beispielsatz: このパーティーは学生が主催した。
-Beispielsatz-Lesung: このパーティーは 学生[がくせい]が 主催[しゅさい]した。
-Beispielsatz-Übersetzung: Diese Party wurde von den Studenten organisiert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">さ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このパーティーは学生が主催した。
+  このパーティーは 学生[がくせい]が 主催[しゅさい]した。
+  Diese Party wurde von den Studenten organisiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4518
 Lemma: マスター
-Lesung: マスター
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: meistern
 Extra: （する）
 Wortart: n., v.
-Definition: meistern
-Beispielsatz: 中国語の発音をマスターするのは難しい。
-Beispielsatz-Lesung: 中国語[ちゅうごくご]の 発音[はつおん]をマスターするのは 難[むずか]しい。
-Beispielsatz-Übersetzung: Die chinesische Aussprache ist schwer zu beherrschen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  中国語の発音をマスターするのは難しい。
+  中国語[ちゅうごくご]の 発音[はつおん]をマスターするのは 難[むずか]しい。
+  Die chinesische Aussprache ist schwer zu beherrschen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

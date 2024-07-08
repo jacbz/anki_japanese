@@ -1,13 +1,24 @@
 Rang: 3312
 Lemma: ビジネス
-Lesung: ビジネス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Geschäft
-Beispielsatz: 何かビジネスを始めようと思っています。
-Beispielsatz-Lesung: 何[なに]かビジネスを 始[はじ]めようと 思[おも]っています。
-Beispielsatz-Übersetzung: Ich denke daran, irgendeine Art von Geschäft zu gründen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何かビジネスを始めようと思っています。
+  何[なに]かビジネスを 始[はじ]めようと 思[おも]っています。
+  Ich denke daran, irgendeine Art von Geschäft zu gründen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

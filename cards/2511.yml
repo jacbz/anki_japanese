@@ -1,13 +1,24 @@
 Rang: 2511
 Lemma: ＪＲ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Japanische Eisenbahnen (JR)
-Beispielsatz: いつもＪＲを使って会社へ行く。
-Beispielsatz-Lesung: いつもＪＲを 使[つか]って 会社[かいしゃ]へ 行[い]く。
-Beispielsatz-Übersetzung: Ich benutze JR immer, um ins Büro zu gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いつもＪＲを使って会社へ行く。
+  いつもＪＲを 使[つか]って 会社[かいしゃ]へ 行[い]く。
+  Ich benutze JR immer, um ins Büro zu gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 2145
 Lemma: 大会
 Lesung: たいかい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Konvention, Massenversammlung, Turnier
-Beispielsatz: 彼女は昨年五つの大会で優勝した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 昨年[さくねん] 五[いつ]つの 大会[たいかい]で 優勝[ゆうしょう]した。
-Beispielsatz-Übersetzung: Sie hat letztes Jahr fünf Turniere gewonnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は昨年五つの大会で優勝した。
+  彼女[かのじょ]は 昨年[さくねん] 五[いつ]つの 大会[たいかい]で 優勝[ゆうしょう]した。
+  Sie hat letztes Jahr fünf Turniere gewonnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

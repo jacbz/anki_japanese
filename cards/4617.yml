@@ -1,13 +1,24 @@
 Rang: 4617
 Lemma: 鎌倉
 Lesung: かまくら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kamakura (Ortsname)
-Beispielsatz: 鎌倉の有名な神社を観光した。
-Beispielsatz-Lesung: 鎌倉[かまくら]の 有名[ゆうめい]な 神社[じんじゃ]を 観光[かんこう]した。
-Beispielsatz-Übersetzung: Ich habe die berühmte Schrein in Kamakura besichtigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  鎌倉の有名な神社を観光した。
+  鎌倉[かまくら]の 有名[ゆうめい]な 神社[じんじゃ]を 観光[かんこう]した。
+  Ich habe die berühmte Schrein in Kamakura besichtigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

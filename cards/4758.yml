@@ -1,13 +1,28 @@
 Rang: 4758
 Lemma: 転職
 Lesung: てんしょく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Jobwechsel; den Job wechseln
 Extra: （する）
 Wortart: n. v.
-Definition: Jobwechsel; den Job wechseln
-Beispielsatz: 彼は転職後、収入が増えた。
-Beispielsatz-Lesung: 彼[かれ]は 転職[てんしょく] 後[ご]、 収入[しゅうにゅう]が 増[ふ]えた。
-Beispielsatz-Übersetzung: Sein Einkommen stieg, nachdem er seinen Job gewechselt hatte.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は転職後、収入が増えた。
+  彼[かれ]は 転職[てんしょく] 後[ご]、 収入[しゅうにゅう]が 増[ふ]えた。
+  Sein Einkommen stieg, nachdem er seinen Job gewechselt hatte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

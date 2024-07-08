@@ -1,14 +1,26 @@
 Rang: 2245
 Lemma: 煮る
 Lesung: にる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: kochen, sieden
-Beispielsatz: 水を加えて十分ぐらい煮てください。
-Beispielsatz-Lesung: 水[みず]を 加[くわ]えて十 分[ふん]ぐらい 煮[に]てください。
-Beispielsatz-Übersetzung: Fügen Sie etwas Wasser hinzu und kochen Sie es für zehn
-  Minuten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  水を加えて十分ぐらい煮てください。
+  水[みず]を 加[くわ]えて十 分[ふん]ぐらい 煮[に]てください。
+  Fügen Sie etwas Wasser hinzu und kochen Sie es für zehn Minuten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1788
 Lemma: プラス
-Lesung: プラス
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Plus, Vorteil
 Extra: （する）
 Wortart: n. v.
-Definition: Plus, Vorteil
-Beispielsatz: この経験は自分の将来にプラスになるだろう。
-Beispielsatz-Lesung: この 経験[けいけん]は 自分[じぶん]の 将来[しょうらい]にプラスになるだろう。
-Beispielsatz-Übersetzung: Diese Erfahrung wird deiner Zukunft zugute kommen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この経験は自分の将来にプラスになるだろう。
+  この 経験[けいけん]は 自分[じぶん]の 将来[しょうらい]にプラスになるだろう。
+  Diese Erfahrung wird deiner Zukunft zugute kommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

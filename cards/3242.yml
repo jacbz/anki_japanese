@@ -1,13 +1,24 @@
 Rang: 3242
 Lemma: 土日
 Lesung: どにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Samstag und Sonntag
-Beispielsatz: 今度の土日はどちらも空いている。
-Beispielsatz-Lesung: 今度[こんど]の 土日[どにち]はどちらも 空[あ]いている。
-Beispielsatz-Übersetzung: Ich bin an diesem Samstag und Sonntag frei.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今度の土日はどちらも空いている。
+  今度[こんど]の 土日[どにち]はどちらも 空[あ]いている。
+  Ich bin an diesem Samstag und Sonntag frei.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

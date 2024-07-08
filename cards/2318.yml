@@ -1,13 +1,24 @@
 Rang: 2318
 Lemma: しばしば
-Lesung: しばしば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: oft, häufig
-Beispielsatz: 祖母は記憶をなくすことがしばしばある。
-Beispielsatz-Lesung: 祖母[そぼ]は 記憶[きおく]をなくすことがしばしばある。
-Beispielsatz-Übersetzung: Meine Großmutter verliert sehr oft ihr Gedächtnis.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祖母は記憶をなくすことがしばしばある。
+  祖母[そぼ]は 記憶[きおく]をなくすことがしばしばある。
+  Meine Großmutter verliert sehr oft ihr Gedächtnis.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

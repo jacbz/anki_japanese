@@ -1,13 +1,27 @@
 Rang: 324
 Lemma: 電話
 Lesung: でんわ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Telefon; anrufen
 Extra: （する）
 Wortart: n. v.
-Definition: Telefon; anrufen
-Beispielsatz: 電話をお借りしてもいいですか。
-Beispielsatz-Lesung: 電話[でんわ]をお 借[か]りしてもいいですか。
-Beispielsatz-Übersetzung: Kann ich dein Telefon benutzen?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">で</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電話をお借りしてもいいですか。
+  電話[でんわ]をお 借[か]りしてもいいですか。
+  Kann ich dein Telefon benutzen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

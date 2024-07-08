@@ -1,13 +1,24 @@
 Rang: 3689
 Lemma: 苦しみ
 Lesung: くるしみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Leiden, Schmerz
-Beispielsatz: 彼は家族を失う苦しみを味わった。
-Beispielsatz-Lesung: 彼[かれ]は 家族[かぞく]を 失[うしな]う 苦[くる]しみを 味[あじ]わった。
-Beispielsatz-Übersetzung: Er hat das Leiden des Verlusts seiner Familie durchgemacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は家族を失う苦しみを味わった。
+  彼[かれ]は 家族[かぞく]を 失[うしな]う 苦[くる]しみを 味[あじ]わった。
+  Er hat das Leiden des Verlusts seiner Familie durchgemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

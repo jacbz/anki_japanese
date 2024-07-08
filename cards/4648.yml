@@ -1,13 +1,28 @@
 Rang: 4648
 Lemma: 進学
 Lesung: しんがく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: den nächsten Bildungsabschnitt erreichen
 Extra: （する）
 Wortart: n. v.
-Definition: den nächsten Bildungsabschnitt erreichen
-Beispielsatz: 大学に進学しないのですか。
-Beispielsatz-Lesung: 大学[だいがく]に 進学[しんがく]しないのですか。
-Beispielsatz-Übersetzung: Willst du nicht weiter studieren?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大学に進学しないのですか。
+  大学[だいがく]に 進学[しんがく]しないのですか。
+  Willst du nicht weiter studieren?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

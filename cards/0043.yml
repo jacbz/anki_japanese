@@ -1,14 +1,24 @@
 Rang: 43
 Lemma: てしまう
-Lesung: てしまう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwas ungewollt tun
-Beispielsatz: ダイエット中なのに、つい、甘いものを食べてしまう。
-Beispielsatz-Lesung: ダイエット 中[ちゅう]なのに、つい、 甘[あま]いものを 食[た]べてしまう。
-Beispielsatz-Übersetzung: Ich bin auf Diät, aber ich kann nicht aufhören, Süßigkeiten
-  zu essen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ダイエット中なのに、つい、甘いものを食べてしまう。
+  ダイエット 中[ちゅう]なのに、つい、 甘[あま]いものを 食[た]べてしまう。
+  Ich bin auf Diät, aber ich kann nicht aufhören, Süßigkeiten zu essen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

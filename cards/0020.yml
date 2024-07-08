@@ -1,13 +1,24 @@
 Rang: 20
-Lemma: のです<br>んです
+Lemma: のです
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: んです
 Definition: BEHAUPTUNG (höflich)
-Beispielsatz: どうしたんですか。
-Beispielsatz-Lesung: どうしたんですか。
-Beispielsatz-Übersetzung: Was ist passiert?
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どうしたんですか。
+  どうしたんですか。
+  Was ist passiert?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

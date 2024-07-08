@@ -1,13 +1,27 @@
 Rang: 3762
 Lemma: しめる
-Lesung: しめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: (klassisch)
-Beispielsatz: その失敗が彼を死に至らしめた。
-Beispielsatz-Lesung: その 失敗[しっぱい]が 彼[かれ]を 死[し]に 至[いた]らしめた。
-Beispielsatz-Übersetzung: Der Misserfolg führte ihn in den Tod.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その失敗が彼を死に至らしめた。
+  その 失敗[しっぱい]が 彼[かれ]を 死[し]に 至[いた]らしめた。
+  Der Misserfolg führte ihn in den Tod.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 2743
 Lemma: 独特
 Lesung: どくじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: eigenartig, einzigartig; persönlich
-Beispielsatz: それは私の独自の意見です。
-Beispielsatz-Lesung: それは 私[わたし]の 独自[どくじ]の 意見[いけん]です。
-Beispielsatz-Übersetzung: Das ist meine persönliche Meinung.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ど</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは私の独自の意見です。
+  それは 私[わたし]の 独自[どくじ]の 意見[いけん]です。
+  Das ist meine persönliche Meinung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

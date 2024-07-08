@@ -1,13 +1,24 @@
 Rang: 710
 Lemma: 何度
 Lesung: なんど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wie oft
-Beispielsatz: この映画は何度も見た。
-Beispielsatz-Lesung: この 映画[えいが]は 何度[なんど]も 見[み]た。
-Beispielsatz-Übersetzung: Ich habe diesen Film schon viele Male gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この映画は何度も見た。
+  この 映画[えいが]は 何度[なんど]も 見[み]た。
+  Ich habe diesen Film schon viele Male gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

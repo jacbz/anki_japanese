@@ -1,13 +1,27 @@
 Rang: 2028
 Lemma: 平気
 Lesung: へいき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n.
+Alternativschreibweisen: ''
 Definition: unempfindlich, in Ordnung; Ruhe
-Beispielsatz: 平気なふりをした。
-Beispielsatz-Lesung: 平気[へいき]なふりをした。
-Beispielsatz-Übersetzung: Ich tat so, als ginge es mir gut.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">へ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  平気なふりをした。
+  平気[へいき]なふりをした。
+  Ich tat so, als ginge es mir gut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2869
 Lemma: 放つ
 Lesung: はなつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: fliegen lassen, loslassen
-Beispielsatz: その蛍は美しい光を放っている。
-Beispielsatz-Lesung: その 蛍[ほたる]は 美[うつく]しい 光[ひかり]を 放[はな]っている。
-Beispielsatz-Übersetzung: Die Glühwürmchen strahlen ein wunderschönes Licht aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その蛍は美しい光を放っている。
+  その 蛍[ほたる]は 美[うつく]しい 光[ひかり]を 放[はな]っている。
+  Die Glühwürmchen strahlen ein wunderschönes Licht aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2454
 Lemma: ぱっと
-Lesung: ぱっと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: plötzlich
-Beispielsatz: 面白いアイディアがぱっと思いついた。
-Beispielsatz-Lesung: 面白[おもしろ]いアイディアがぱっと 思[おも]いついた。
-Beispielsatz-Übersetzung: Mir ist plötzlich eine interessante Idee gekommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  面白いアイディアがぱっと思いついた。
+  面白[おもしろ]いアイディアがぱっと 思[おも]いついた。
+  Mir ist plötzlich eine interessante Idee gekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

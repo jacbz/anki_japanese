@@ -1,13 +1,24 @@
 Rang: 1770
 Lemma: 把握
 Lesung: はあく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ergreifen, Begreifen
 Extra: （する）
 Wortart: n. v.
-Definition: Ergreifen, Begreifen
-Beispielsatz: まだ状況が把握できていない。
-Beispielsatz-Lesung: まだ 状況[じょうきょう]が 把握[はあく]できていない。
-Beispielsatz-Übersetzung: Ich habe die Situation noch nicht begriffen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まだ状況が把握できていない。
+  まだ 状況[じょうきょう]が 把握[はあく]できていない。
+  Ich habe die Situation noch nicht begriffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

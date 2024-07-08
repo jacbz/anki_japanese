@@ -1,13 +1,28 @@
 Rang: 2999
 Lemma: 災害
 Lesung: さいがい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Katastrophe, Unglück
-Beispielsatz: いつ大きな災害が起きるかわからない。
-Beispielsatz-Lesung: いつ 大[おお]きな 災害[さいがい]が 起[お]きるかわからない。
-Beispielsatz-Übersetzung: Niemand weiß, wann eine große Katastrophe passieren wird.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いつ大きな災害が起きるかわからない。
+  いつ 大[おお]きな 災害[さいがい]が 起[お]きるかわからない。
+  Niemand weiß, wann eine große Katastrophe passieren wird.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

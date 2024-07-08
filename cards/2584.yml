@@ -1,13 +1,27 @@
 Rang: 2584
 Lemma: 進化
 Lesung: しんか
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Evolution; entwickeln
 Extra: （する）
 Wortart: n. v.
-Definition: Evolution; entwickeln
-Beispielsatz: 人間の進化について学ぶ。
-Beispielsatz-Lesung: 人間[にんげん]の 進化[しんか]について 学[まな]ぶ。
-Beispielsatz-Übersetzung: Ich studiere die menschliche Evolution.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人間の進化について学ぶ。
+  人間[にんげん]の 進化[しんか]について 学[まな]ぶ。
+  Ich studiere die menschliche Evolution.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

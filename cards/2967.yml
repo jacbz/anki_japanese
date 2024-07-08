@@ -1,14 +1,24 @@
 Rang: 2967
 Lemma: スピーチ
-Lesung: スピーチ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Rede
-Beispielsatz: 友人に結婚式のスピーチを頼んだ。
-Beispielsatz-Lesung: 友人[ゆうじん]に 結婚式[けっこんしき]のスピーチを 頼[たの]んだ。
-Beispielsatz-Übersetzung: Ich habe meinen Freund gebeten, bei der Hochzeitsfeier eine
-  Rede zu halten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友人に結婚式のスピーチを頼んだ。
+  友人[ゆうじん]に 結婚式[けっこんしき]のスピーチを 頼[たの]んだ。
+  Ich habe meinen Freund gebeten, bei der Hochzeitsfeier eine Rede zu halten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

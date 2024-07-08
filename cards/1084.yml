@@ -1,13 +1,24 @@
 Rang: 1084
 Lemma: ありがとう
-Lesung: ありがとう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: danke
-Beispielsatz: ご親切にありがとうございます。
-Beispielsatz-Lesung: ご 親切[しんせつ]にありがとうございます。
-Beispielsatz-Übersetzung: Ich danke Ihnen für Ihre Freundlichkeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ご親切にありがとうございます。
+  ご 親切[しんせつ]にありがとうございます。
+  Ich danke Ihnen für Ihre Freundlichkeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

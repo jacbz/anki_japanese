@@ -1,13 +1,27 @@
 Rang: 2182
 Lemma: おしゃれ
-Lesung: おしゃれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: modisch, schick
-Beispielsatz: おしゃれなレストランで夕食を食べる。
-Beispielsatz-Lesung: おしゃれなレストランで 夕食[ゆうしょく]を 食[た]べる。
-Beispielsatz-Übersetzung: Wir essen in einem schicken Restaurant zu Abend.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゃ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  おしゃれなレストランで夕食を食べる。
+  おしゃれなレストランで 夕食[ゆうしょく]を 食[た]べる。
+  Wir essen in einem schicken Restaurant zu Abend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

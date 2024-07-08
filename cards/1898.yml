@@ -1,13 +1,27 @@
 Rang: 1898
 Lemma: 電気
 Lesung: でんき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Elektrizität; elektrisches Licht
-Beispielsatz: 電気を消すのを忘れないでね。
-Beispielsatz-Lesung: 電気[でんき]を 消[け]すのを 忘[わす]れないでね。
-Beispielsatz-Übersetzung: Vergiss nicht, das Licht auszuschalten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">で</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電気を消すのを忘れないでね。
+  電気[でんき]を 消[け]すのを 忘[わす]れないでね。
+  Vergiss nicht, das Licht auszuschalten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

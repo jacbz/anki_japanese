@@ -1,13 +1,24 @@
 Rang: 4
 Lemma: た
-Lesung: た
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: VERGANGENHEIT
-Beispielsatz: 昨日、彼を見ましたか。
-Beispielsatz-Lesung: 昨日[きのう]、 彼[かれ]を 見[み]ましたか。
-Beispielsatz-Übersetzung: Hast du ihn gestern gesehen?
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨日、彼を見ましたか。
+  昨日[きのう]、 彼[かれ]を 見[み]ましたか。
+  Hast du ihn gestern gesehen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

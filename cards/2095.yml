@@ -1,13 +1,24 @@
 Rang: 2095
 Lemma: 月
 Lesung: げつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Montag
-Beispielsatz: ごみの日は月・木です。
-Beispielsatz-Lesung: ごみの 日[ひ]は 月[げつ]・ 木[もく]です。
-Beispielsatz-Übersetzung: Die Müllabfuhrtage sind Montag und Donnerstag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Zeitungen
+Dispersion: '15'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ごみの日は月・木です。
+  ごみの 日[ひ]は 月[げつ]・ 木[もく]です。
+  Die Müllabfuhrtage sind Montag und Donnerstag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

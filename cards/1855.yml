@@ -1,13 +1,27 @@
 Rang: 1855
 Lemma: 終える
 Lesung: おえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beenden, enden
-Beispielsatz: 彼は高校を終えて大学に進んだ。
-Beispielsatz-Lesung: 彼[かれ]は 高校[こうこう]を 終[お]えて 大学[だいがく]に 進[すす]んだ。
-Beispielsatz-Übersetzung: Er beendete die High School und ging zur Universität.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は高校を終えて大学に進んだ。
+  彼[かれ]は 高校[こうこう]を 終[お]えて 大学[だいがく]に 進[すす]んだ。
+  Er beendete die High School und ging zur Universität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

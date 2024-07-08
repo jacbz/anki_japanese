@@ -1,14 +1,28 @@
 Rang: 2542
 Lemma: 分類
 Lesung: ぶんるい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Klassifikation
 Extra: （する）
 Wortart: n. v.
-Definition: Klassifikation
-Beispielsatz: 本の細かい分類については、司書に聞いてください。
-Beispielsatz-Lesung: 本[ほん]の 細[こま]かい 分類[ぶんるい]については、 司書[ししょ]に 聞[き]いてください。
-Beispielsatz-Übersetzung: Bitte fragen Sie eine Bibliothekarin oder einen Bibliothekar
-  nach der genauen Klassifizierung der Bücher.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">る</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本の細かい分類については、司書に聞いてください。
+  本[ほん]の 細[こま]かい 分類[ぶんるい]については、 司書[ししょ]に 聞[き]いてください。
+  Bitte fragen Sie eine Bibliothekarin oder einen Bibliothekar nach der genauen Klassifizierung der Bücher.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

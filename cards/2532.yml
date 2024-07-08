@@ -1,13 +1,24 @@
 Rang: 2532
 Lemma: アップ
-Lesung: アップ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Erhöhung
 Extra: （する）
 Wortart: n. v.
-Definition: Erhöhung
-Beispielsatz: 今月から給料がアップした。
-Beispielsatz-Lesung: 今月[こんげつ]から 給料[きゅうりょう]がアップした。
-Beispielsatz-Übersetzung: Die Gehälter sind ab diesem Monat gestiegen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月から給料がアップした。
+  今月[こんげつ]から 給料[きゅうりょう]がアップした。
+  Die Gehälter sind ab diesem Monat gestiegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

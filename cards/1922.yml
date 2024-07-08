@@ -1,13 +1,26 @@
 Rang: 1922
 Lemma: 措置
 Lesung: そち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Maßnahme
 Extra: （する）
 Wortart: n. v.
-Definition: Maßnahme
-Beispielsatz: 政府は適切な措置を取らなかった。
-Beispielsatz-Lesung: 政府[せいふ]は 適切[てきせつ]な 措置[そち]を 取[と]らなかった。
-Beispielsatz-Übersetzung: Die Regierung hat keine angemessenen Maßnahmen ergriffen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">そ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ち</span></span></span></span>
+Register: ↗Verwaltungssprache
+Dispersion: '32'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府は適切な措置を取らなかった。
+  政府[せいふ]は 適切[てきせつ]な 措置[そち]を 取[と]らなかった。
+  Die Regierung hat keine angemessenen Maßnahmen ergriffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

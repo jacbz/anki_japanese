@@ -1,13 +1,24 @@
 Rang: 1710
 Lemma: すると
-Lesung: すると
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dann, wenn dem so ist
-Beispielsatz: 彼は穴の中を見た。すると、かわいいねずみが出てきた。
-Beispielsatz-Lesung: 彼[かれ]は 穴[あな]の 中[なか]を 見[み]た。すると、かわいいねずみが 出[で]てきた。
-Beispielsatz-Übersetzung: Er schaute in das Loch. Dann kam eine süße Maus heraus.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は穴の中を見た。すると、かわいいねずみが出てきた。
+  彼[かれ]は 穴[あな]の 中[なか]を 見[み]た。すると、かわいいねずみが 出[で]てきた。
+  Er schaute in das Loch. Dann kam eine süße Maus heraus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4020
 Lemma: わくわく
-Lesung: わくわく
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: aufgeregt sein; sprudeln
 Extra: （する）
 Wortart: v.
-Definition: aufgeregt sein; sprudeln
-Beispielsatz: 明日は遠足なのでわくわくする。
-Beispielsatz-Lesung: 明日[あした]は 遠足[えんそく]なのでわくわくする。
-Beispielsatz-Übersetzung: Ich bin aufgeregt wegen des morgigen Ausflugs.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日は遠足なのでわくわくする。
+  明日[あした]は 遠足[えんそく]なのでわくわくする。
+  Ich bin aufgeregt wegen des morgigen Ausflugs.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

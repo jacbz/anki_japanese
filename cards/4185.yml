@@ -1,13 +1,24 @@
 Rang: 4185
 Lemma: 生クリーム
 Lesung: ナマクリーム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schlagsahne
-Beispielsatz: ケーキに苺と生クリームをのせた。
-Beispielsatz-Lesung: ケーキに 苺[いちご]と 生[なま]クリームをのせた。
-Beispielsatz-Übersetzung: Ich habe Erdbeeren und Schlagsahne auf den Kuchen gelegt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ケーキに苺と生クリームをのせた。
+  ケーキに 苺[いちご]と 生[なま]クリームをのせた。
+  Ich habe Erdbeeren und Schlagsahne auf den Kuchen gelegt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 3544
 Lemma: 進出
 Lesung: しんしゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: expandieren; sich auf den Markt begeben
 Extra: （する）
 Wortart: n. v.
-Definition: expandieren; sich auf den Markt begeben
-Beispielsatz: A社は世界二十か国に進出している。
-Beispielsatz-Lesung: A 社[しゃ]は 世界[せかい]二十か 国[こく]に 進出[しんしゅつ]している。
-Beispielsatz-Übersetzung: Firma A hat ihr Geschäft in zwanzig Ländern auf den Markt
-  gebracht.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  A社は世界二十か国に進出している。
+  A 社[しゃ]は 世界[せかい]二十か 国[こく]に 進出[しんしゅつ]している。
+  Firma A hat ihr Geschäft in zwanzig Ländern auf den Markt gebracht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

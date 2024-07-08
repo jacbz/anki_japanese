@@ -1,13 +1,24 @@
 Rang: 3497
 Lemma: つくづく
-Lesung: つくづく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gründlich, tiefgehend, sorgfältig
-Beispielsatz: 家族のありがたみをつくづく感じる。
-Beispielsatz-Lesung: 家族[かぞく]のありがたみをつくづく 感[かん]じる。
-Beispielsatz-Übersetzung: Ich fühle die Wichtigkeit der Familie gründlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家族のありがたみをつくづく感じる。
+  家族[かぞく]のありがたみをつくづく 感[かん]じる。
+  Ich fühle die Wichtigkeit der Familie gründlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

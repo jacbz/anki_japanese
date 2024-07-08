@@ -1,13 +1,24 @@
 Rang: 3868
 Lemma: プロセス
-Lesung: プロセス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Prozess
-Beispielsatz: 基本的なプロセスは次の通りだ。
-Beispielsatz-Lesung: 基本的[きほんてき]なプロセスは 次[つぎ]の 通[とお]りだ。
-Beispielsatz-Übersetzung: Das grundlegende Verfahren ist wie folgt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  基本的なプロセスは次の通りだ。
+  基本的[きほんてき]なプロセスは 次[つぎ]の 通[とお]りだ。
+  Das grundlegende Verfahren ist wie folgt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 4432
 Lemma: 刃物
 Lesung: はもの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schneidwerkzeug, Messer
-Beispielsatz: 刃物を振り回すのは危ない。
-Beispielsatz-Lesung: 刃物[はもの]を 振[ふ]り 回[まわ]すのは 危[あぶ]ない。
-Beispielsatz-Übersetzung: Es ist gefährlich, ein Messer herumzuwedeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">は</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">も</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">の</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  刃物を振り回すのは危ない。
+  刃物[はもの]を 振[ふ]り 回[まわ]すのは 危[あぶ]ない。
+  Es ist gefährlich, ein Messer herumzuwedeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

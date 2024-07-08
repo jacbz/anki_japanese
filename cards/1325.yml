@@ -1,14 +1,27 @@
 Rang: 1325
 Lemma: 指導
 Lesung: しどう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Anleitung; coachen
 Extra: （する）
 Wortart: n. v.
-Definition: Anleitung; coachen
-Beispielsatz: 彼から指導を受けるためにこの学校に入った。
-Beispielsatz-Lesung: 彼[かれ]から 指導[しどう]を 受[う]けるためにこの 学校[がっこう]に 入[はい]った。
-Beispielsatz-Übersetzung: Ich bin in diese Schule gegangen, um von ihm angeleitet
-  zu werden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼から指導を受けるためにこの学校に入った。
+  彼[かれ]から 指導[しどう]を 受[う]けるためにこの 学校[がっこう]に 入[はい]った。
+  Ich bin in diese Schule gegangen, um von ihm angeleitet zu werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,15 +1,27 @@
 Rang: 4808
 Lemma: 天下
 Lesung: てんか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: die ganze Welt
-Beispielsatz: その短距離選手は100メートル走の世界記録を破り、天下に名をとどろかせた。
-Beispielsatz-Lesung: その 短距離[たんきょり] 選手[せんしゅ]は100メートル 走[はし]の 世界記録[せかいきろく]を 破[やぶ]り、 天下[てんか]に
-  名[な]をとどろかせた。
-Beispielsatz-Übersetzung: Der Sprinter wurde weltberühmt, indem er den Weltrekord
-  im 100-Meter-Lauf brach.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">て</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その短距離選手は100メートル走の世界記録を破り、天下に名をとどろかせた。
+  その 短距離[たんきょり] 選手[せんしゅ]は100メートル 走[はし]の 世界記録[せかいきろく]を 破[やぶ]り、 天下[てんか]に 名[な]をとどろかせた。
+  Der Sprinter wurde weltberühmt, indem er den Weltrekord im 100-Meter-Lauf brach.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

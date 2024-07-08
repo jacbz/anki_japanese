@@ -1,14 +1,28 @@
 Rang: 1526
 Lemma: 米国
 Lesung: べいこく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vereinigte Staaten von Amerika
-Beispielsatz: 米国大統領が来日中だ。
-Beispielsatz-Lesung: 米国[べいこく] 大統領[だいとうりょう]が 来日[らいにち] 中[ちゅう]だ。
-Beispielsatz-Übersetzung: Der Präsident der Vereinigten Staaten von Amerika ist in
-  Japan.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">べ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  米国大統領が来日中だ。
+  米国[べいこく] 大統領[だいとうりょう]が 来日[らいにち] 中[ちゅう]だ。
+  Der Präsident der Vereinigten Staaten von Amerika ist in Japan.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

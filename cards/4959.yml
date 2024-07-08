@@ -1,13 +1,28 @@
 Rang: 4959
 Lemma: 信念
 Lesung: しんねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Überzeugung, Glaube
-Beispielsatz: あの人は強い信念を持っている。
-Beispielsatz-Lesung: あの 人[ひと]は 強[つよ]い 信念[しんねん]を 持[も]っている。
-Beispielsatz-Übersetzung: Diese Person hat einen starken Glauben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ね</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの人は強い信念を持っている。
+  あの 人[ひと]は 強[つよ]い 信念[しんねん]を 持[も]っている。
+  Diese Person hat einen starken Glauben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

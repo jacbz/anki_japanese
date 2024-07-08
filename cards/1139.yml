@@ -1,13 +1,24 @@
 Rang: 1139
 Lemma: 静か
 Lesung: しずか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: ruhig, still
-Beispielsatz: もう少し静かにしてくれませんか。
-Beispielsatz-Lesung: もう 少[すこ]し 静[しず]かにしてくれませんか。
-Beispielsatz-Übersetzung: Würden Sie bitte etwas leiser sein?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もう少し静かにしてくれませんか。
+  もう 少[すこ]し 静[しず]かにしてくれませんか。
+  Würden Sie bitte etwas leiser sein?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

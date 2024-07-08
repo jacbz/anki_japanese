@@ -1,13 +1,24 @@
 Rang: 4903
 Lemma: 何せ
 Lesung: なにせ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: jedenfalls, sowieso, auf jeden Fall
-Beispielsatz: 何せ朝から晩まで働いて疲れきっているんだ。
-Beispielsatz-Lesung: 何[なに]せ 朝[あさ]から 晩[ばん]まで 働[はたら]いて 疲[つか]れきっているんだ。
-Beispielsatz-Übersetzung: Jedenfalls bin ich müde von der Arbeit von morgens bis abends.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何せ朝から晩まで働いて疲れきっているんだ。
+  何[なに]せ 朝[あさ]から 晩[ばん]まで 働[はたら]いて 疲[つか]れきっているんだ。
+  Jedenfalls bin ich müde von der Arbeit von morgens bis abends.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

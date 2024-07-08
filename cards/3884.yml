@@ -1,13 +1,24 @@
 Rang: 3884
 Lemma: まさしく
-Lesung: まさしく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sicherlich, genau
-Beispielsatz: それはまさしく私が言おうとしていたことです。
-Beispielsatz-Lesung: それはまさしく 私[わたし]が 言[い]おうとしていたことです。
-Beispielsatz-Übersetzung: Das ist genau das, was ich sagen wollte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それはまさしく私が言おうとしていたことです。
+  それはまさしく 私[わたし]が 言[い]おうとしていたことです。
+  Das ist genau das, was ich sagen wollte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

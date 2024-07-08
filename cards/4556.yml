@@ -1,14 +1,27 @@
 Rang: 4556
 Lemma: 煮込む
 Lesung: にこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: schmoren
-Beispielsatz: 肉と野菜を煮込んでスープを作った。
-Beispielsatz-Lesung: 肉[にく]と 野菜[やさい]を 煮込[にこ]んでスープを 作[つく]った。
-Beispielsatz-Übersetzung: Ich habe eine Suppe gemacht, indem ich das Fleisch und Gemüse
-  geschmort habe.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">に</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  肉と野菜を煮込んでスープを作った。
+  肉[にく]と 野菜[やさい]を 煮込[にこ]んでスープを 作[つく]った。
+  Ich habe eine Suppe gemacht, indem ich das Fleisch und Gemüse geschmort habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

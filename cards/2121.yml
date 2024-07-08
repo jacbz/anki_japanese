@@ -1,13 +1,27 @@
 Rang: 2121
 Lemma: りんご
-Lesung: りんご
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Apfel
-Beispielsatz: 果物でりんごが一番好き。
-Beispielsatz-Lesung: 果物[くだもの]でりんごが 一番[いちばん] 好[す]き。
-Beispielsatz-Übersetzung: Ich mag Äpfel am liebsten von allen Früchten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ご</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  果物でりんごが一番好き。
+  果物[くだもの]でりんごが 一番[いちばん] 好[す]き。
+  Ich mag Äpfel am liebsten von allen Früchten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

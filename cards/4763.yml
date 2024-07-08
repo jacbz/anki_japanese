@@ -1,14 +1,24 @@
 Rang: 4763
 Lemma: 避難
 Lesung: ひなん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Evakuierung, Zuflucht; sich retten
 Extra: （する）
 Wortart: n. v.
-Definition: Evakuierung, Zuflucht; sich retten
-Beispielsatz: 地震の後、安全な場所に避難してください。
-Beispielsatz-Lesung: 地震[じしん]の 後[のち]、 安全[あんぜん]な 場所[ばしょ]に 避難[ひなん]してください。
-Beispielsatz-Übersetzung: Bitte evakuieren Sie nach einem Erdbeben an einen sicheren
-  Ort.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地震の後、安全な場所に避難してください。
+  地震[じしん]の 後[のち]、 安全[あんぜん]な 場所[ばしょ]に 避難[ひなん]してください。
+  Bitte evakuieren Sie nach einem Erdbeben an einen sicheren Ort.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

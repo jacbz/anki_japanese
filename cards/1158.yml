@@ -1,14 +1,27 @@
 Rang: 1158
 Lemma: 手術
 Lesung: しゅじゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Operation
 Extra: （する）
 Wortart: n. v.
-Definition: Operation
-Beispielsatz: 祖父は手術を受けるために入院した。
-Beispielsatz-Lesung: 祖父[そふ]は 手術[しゅじゅつ]を 受[う]けるために 入院[にゅういん]した。
-Beispielsatz-Übersetzung: Mein Großvater wurde für eine Operation ins Krankenhaus
-  eingeliefert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span><span class="char">ゅ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祖父は手術を受けるために入院した。
+  祖父[そふ]は 手術[しゅじゅつ]を 受[う]けるために 入院[にゅういん]した。
+  Mein Großvater wurde für eine Operation ins Krankenhaus eingeliefert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

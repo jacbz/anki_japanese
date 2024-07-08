@@ -1,13 +1,27 @@
 Rang: 916
 Lemma: 近所
 Lesung: きんじょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Nachbarschaft
-Beispielsatz: 近所に大きなスーパーマーケットがある。
-Beispielsatz-Lesung: 近所[きんじょ]に 大[おお]きなスーパーマーケットがある。
-Beispielsatz-Übersetzung: In meiner Nachbarschaft gibt es einen großen Supermarkt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  近所に大きなスーパーマーケットがある。
+  近所[きんじょ]に 大[おお]きなスーパーマーケットがある。
+  In meiner Nachbarschaft gibt es einen großen Supermarkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

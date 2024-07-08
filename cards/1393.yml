@@ -1,13 +1,27 @@
 Rang: 1393
 Lemma: 我慢
 Lesung: がまん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Geduld, Ausdauer
 Extra: （する）
 Wortart: n. v.
-Definition: Geduld, Ausdauer
-Beispielsatz: 彼の失礼な態度にはもう我慢ができない。
-Beispielsatz-Lesung: 彼[かれ]の 失礼[しつれい]な 態度[たいど]にはもう 我慢[がまん]ができない。
-Beispielsatz-Übersetzung: Ich habe meine Geduld mit seiner unhöflichen Haltung verloren.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">が</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ま</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の失礼な態度にはもう我慢ができない。
+  彼[かれ]の 失礼[しつれい]な 態度[たいど]にはもう 我慢[がまん]ができない。
+  Ich habe meine Geduld mit seiner unhöflichen Haltung verloren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

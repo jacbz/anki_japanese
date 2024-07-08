@@ -1,13 +1,24 @@
 Rang: 3784
 Lemma: 数多く
 Lesung: かずおおく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: viele, eine Anzahl von
-Beispielsatz: この町には歴史的な建造物が数多く残っている。
-Beispielsatz-Lesung: この 町[まち]には 歴史的[れきしてき]な 建造物[けんぞうぶつ]が 数多[かずおお]く 残[のこ]っている。
-Beispielsatz-Übersetzung: Es gibt viele historische Gebäude in dieser Stadt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この町には歴史的な建造物が数多く残っている。
+  この 町[まち]には 歴史的[れきしてき]な 建造物[けんぞうぶつ]が 数多[かずおお]く 残[のこ]っている。
+  Es gibt viele historische Gebäude in dieser Stadt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

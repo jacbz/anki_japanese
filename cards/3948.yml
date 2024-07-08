@@ -1,13 +1,29 @@
 Rang: 3948
 Lemma: 打ち合わせ
 Lesung: うちあわせ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Besprechung
-Beispielsatz: 十時から打ち合わせが入っています。
-Beispielsatz-Lesung: 十 時[じ]から 打[う]ち 合[あ]わせが 入[はい]っています。
-Beispielsatz-Übersetzung: Ich habe eine Besprechung ab zehn Uhr.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">せ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十時から打ち合わせが入っています。
+  十 時[じ]から 打[う]ち 合[あ]わせが 入[はい]っています。
+  Ich habe eine Besprechung ab zehn Uhr.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

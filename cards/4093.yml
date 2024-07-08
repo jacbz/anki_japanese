@@ -1,14 +1,24 @@
 Rang: 4093
 Lemma: 専門的
 Lesung: せんもんてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: fachlich, akademisch
-Beispielsatz: 専門的な経験がない人は雇えません。
-Beispielsatz-Lesung: 専門的[せんもんてき]な 経験[けいけん]がない人は 雇[やと]えません。
-Beispielsatz-Übersetzung: Wir können niemanden einstellen, dem es an technischer Erfahrung
-  mangelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  専門的な経験がない人は雇えません。
+  専門的[せんもんてき]な 経験[けいけん]がない人は 雇[やと]えません。
+  Wir können niemanden einstellen, dem es an technischer Erfahrung mangelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

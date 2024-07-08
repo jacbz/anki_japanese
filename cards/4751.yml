@@ -1,13 +1,24 @@
 Rang: 4751
 Lemma: リンク
-Lesung: リンク
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Link
 Extra: （する）
 Wortart: n., v.
-Definition: Link
-Beispielsatz: このウェブページは自由にリンクしていいですよ。
-Beispielsatz-Lesung: このウェブページは 自由[じゆう]にリンクしていいですよ。
-Beispielsatz-Übersetzung: Du darfst diese Webseite frei verlinken.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このウェブページは自由にリンクしていいですよ。
+  このウェブページは 自由[じゆう]にリンクしていいですよ。
+  Du darfst diese Webseite frei verlinken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

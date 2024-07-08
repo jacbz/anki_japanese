@@ -1,14 +1,24 @@
 Rang: 76
 Lemma: たい
-Lesung: たい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: möchten, gerne tun
-Beispielsatz: コーヒーが飲みたいな、ちょっと休もう。
-Beispielsatz-Lesung: コーヒーが 飲[の]みたいな、ちょっと 休[やす]もう。
-Beispielsatz-Übersetzung: Ich möchte eine Tasse Kaffee trinken. Lass uns eine Pause
-  machen.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コーヒーが飲みたいな、ちょっと休もう。
+  コーヒーが 飲[の]みたいな、ちょっと 休[やす]もう。
+  Ich möchte eine Tasse Kaffee trinken. Lass uns eine Pause machen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

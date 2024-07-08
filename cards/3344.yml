@@ -1,13 +1,28 @@
 Rang: 3344
 Lemma: 説得
 Lesung: せっとく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Überredung; überreden
 Extra: （する）
 Wortart: n. v.
-Definition: Überredung; überreden
-Beispielsatz: こんな説明では彼を説得できないだろう。
-Beispielsatz-Lesung: こんな 説明[せつめい]では 彼[かれ]を 説得[せっとく]できないだろう。
-Beispielsatz-Übersetzung: Wir können ihn mit einer solchen Erklärung nicht überreden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こんな説明では彼を説得できないだろう。
+  こんな 説明[せつめい]では 彼[かれ]を 説得[せっとく]できないだろう。
+  Wir können ihn mit einer solchen Erklärung nicht überreden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

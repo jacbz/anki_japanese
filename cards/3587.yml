@@ -1,14 +1,28 @@
 Rang: 3587
 Lemma: 共同
 Lesung: きょうどう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zusammenarbeit; gemeinsam
-Beispielsatz: 共同トイレが嫌で寮を出た。
-Beispielsatz-Lesung: 共同[きょうどう]トイレが 嫌[いや]で 寮[りょう]を 出[で]た。
-Beispielsatz-Übersetzung: Ich hasste die gemeinsamen Toiletten und zog aus dem Wohnheim
-  aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">き</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ど</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  共同トイレが嫌で寮を出た。
+  共同[きょうどう]トイレが 嫌[いや]で 寮[りょう]を 出[で]た。
+  Ich hasste die gemeinsamen Toiletten und zog aus dem Wohnheim aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

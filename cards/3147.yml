@@ -1,13 +1,29 @@
 Rang: 3147
 Lemma: 引き受ける
 Lesung: ひきうける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: übernehmen
-Beispielsatz: この仕事は彼が引き受けてくれた。
-Beispielsatz-Lesung: この 仕事[しごと]は 彼[かれ]が 引[ひ]き 受[う]けてくれた。
-Beispielsatz-Übersetzung: Er hat diese Arbeit übernommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この仕事は彼が引き受けてくれた。
+  この 仕事[しごと]は 彼[かれ]が 引[ひ]き 受[う]けてくれた。
+  Er hat diese Arbeit übernommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

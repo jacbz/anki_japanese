@@ -1,13 +1,24 @@
 Rang: 2312
 Lemma: スタイル
-Lesung: スタイル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Stil, Körper, Figur
-Beispielsatz: 彼女はスタイルがいい。
-Beispielsatz-Lesung: 彼女[かのじょ]はスタイルがいい。
-Beispielsatz-Übersetzung: Sie hat eine großartige Figur.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はスタイルがいい。
+  彼女[かのじょ]はスタイルがいい。
+  Sie hat eine großartige Figur.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

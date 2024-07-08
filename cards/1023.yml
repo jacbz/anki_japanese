@@ -1,14 +1,28 @@
 Rang: 1023
 Lemma: 少年
 Lesung: しょうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Junge, Jugendlicher
-Beispielsatz: 野球は日本の少年に最も人気のあるスポーツの１つだ。
-Beispielsatz-Lesung: 野球[やきゅう]は 日本[にっぽん]の 少年[しょうねん]に 最[もっと]も 人気[にんき]のあるスポーツの １[ひと]つだ。
-Beispielsatz-Übersetzung: Baseball ist eine der beliebtesten Sportarten für Jungen
-  in Japan.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ね</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  野球は日本の少年に最も人気のあるスポーツの１つだ。
+  野球[やきゅう]は 日本[にっぽん]の 少年[しょうねん]に 最[もっと]も 人気[にんき]のあるスポーツの １[ひと]つだ。
+  Baseball ist eine der beliebtesten Sportarten für Jungen in Japan.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1189
 Lemma: 第二
 Lesung: だいに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zweite, sekundäre; ein weiterer
-Beispielsatz: ここはこの国第二の都市です。
-Beispielsatz-Lesung: ここはこの 国[くに] 第[だい]二の 都市[とし]です。
-Beispielsatz-Übersetzung: Dies ist die zweitgrößte Stadt im Land.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '47'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここはこの国第二の都市です。
+  ここはこの 国[くに] 第[だい]二の 都市[とし]です。
+  Dies ist die zweitgrößte Stadt im Land.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

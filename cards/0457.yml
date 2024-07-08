@@ -1,13 +1,29 @@
 Rang: 457
 Lemma: 難しい
 Lesung: むずかしい<br>むつかしい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: schwierig
-Beispielsatz: その問題の解決は難しい。
-Beispielsatz-Lesung: その 問題[もんだい]の 解決[かいけつ]は 難[むずか]しい。
-Beispielsatz-Übersetzung: Die Lösung des Problems ist schwierig.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その問題の解決は難しい。
+  その 問題[もんだい]の 解決[かいけつ]は 難[むずか]しい。
+  Die Lösung des Problems ist schwierig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 4101
 Lemma: 富む
 Lesung: とむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: reich (an etwas sein); wachsen
-Beispielsatz: この野菜はビタミンCに富んでいる。
-Beispielsatz-Lesung: この 野菜[やさい]はビタミンCに 富[と]んでいる。
-Beispielsatz-Übersetzung: Dieses Gemüse ist reich an Vitamin C.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">と</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この野菜はビタミンCに富んでいる。
+  この 野菜[やさい]はビタミンCに 富[と]んでいる。
+  Dieses Gemüse ist reich an Vitamin C.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

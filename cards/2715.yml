@@ -1,13 +1,27 @@
 Rang: 2715
 Lemma: 根拠
 Lesung: こんきょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Grundlage, Beweis
-Beispielsatz: その話は何の根拠もない。
-Beispielsatz-Lesung: その 話[はなし]は 何[なん]の 根拠[こんきょ]もない。
-Beispielsatz-Übersetzung: Die Geschichte hat keine Grundlage.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その話は何の根拠もない。
+  その 話[はなし]は 何[なん]の 根拠[こんきょ]もない。
+  Die Geschichte hat keine Grundlage.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,28 @@
 Rang: 3474
 Lemma: 再生
 Lesung: さいせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: wiederbeleben; regenerieren
 Extra: （する）
 Wortart: n. v.
-Definition: wiederbeleben; regenerieren
-Beispielsatz: わが国の経済の再生には何が必要か。
-Beispielsatz-Lesung: わが 国[くに]の 経済[けいざい]の 再生[さいせい]には 何[なに]が 必要[ひつよう]か。
-Beispielsatz-Übersetzung: Was ist für die Wiederbelebung der Wirtschaft unseres Landes
-  notwendig?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  わが国の経済の再生には何が必要か。
+  わが 国[くに]の 経済[けいざい]の 再生[さいせい]には 何[なに]が 必要[ひつよう]か。
+  Was ist für die Wiederbelebung der Wirtschaft unseres Landes notwendig?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

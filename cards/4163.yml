@@ -1,13 +1,24 @@
 Rang: 4163
 Lemma: 消滅
 Lesung: しょうめつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Verschwinden; verschwinden
 Extra: （する）
 Wortart: n. v.
-Definition: Verschwinden; verschwinden
-Beispielsatz: 酸素がなかったら生き物は消滅していただろう。
-Beispielsatz-Lesung: 酸素[さんそ]がなかったら 生[い]き 物[もの]は 消滅[しょうめつ]していただろう。
-Beispielsatz-Übersetzung: Ohne Sauerstoff wären die Lebewesen verschwunden.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  酸素がなかったら生き物は消滅していただろう。
+  酸素[さんそ]がなかったら 生[い]き 物[もの]は 消滅[しょうめつ]していただろう。
+  Ohne Sauerstoff wären die Lebewesen verschwunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

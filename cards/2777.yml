@@ -1,13 +1,24 @@
 Rang: 2777
 Lemma: およそ
-Lesung: およそ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ungefähr, etwa
-Beispielsatz: 彼はおよそ五年間海外で生活した。
-Beispielsatz-Lesung: 彼[かれ]はおよそ五 年間[ねんかん] 海外[かいがい]で 生活[せいかつ]した。
-Beispielsatz-Übersetzung: Er hat ungefähr fünf Jahre im Ausland verbracht.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はおよそ五年間海外で生活した。
+  彼[かれ]はおよそ五 年間[ねんかん] 海外[かいがい]で 生活[せいかつ]した。
+  Er hat ungefähr fünf Jahre im Ausland verbracht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

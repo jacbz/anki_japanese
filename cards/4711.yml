@@ -1,13 +1,31 @@
 Rang: 4711
 Lemma: 引っ繰り返す
 Lesung: ひっくりかえす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: umkippen, umstürzen, umdrehen
-Beispielsatz: 私は茶碗を引っ繰り返してしまった。
-Beispielsatz-Lesung: 私[わたし]は 茶碗[ちゃわん]を 引[ひ]っ 繰[く]り 返[かえ]してしまった。
-Beispielsatz-Übersetzung: Ich habe die Reisschüssel umgestoßen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-7"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-6"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は茶碗を引っ繰り返してしまった。
+  私[わたし]は 茶碗[ちゃわん]を 引[ひ]っ 繰[く]り 返[かえ]してしまった。
+  Ich habe die Reisschüssel umgestoßen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

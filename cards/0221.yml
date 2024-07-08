@@ -1,13 +1,24 @@
 Rang: 221
 Lemma: すぐ
-Lesung: すぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: bald
-Beispielsatz: 彼はすぐ帰ってきますよ。
-Beispielsatz-Lesung: 彼[かれ]はすぐ 帰[かえ]ってきますよ。
-Beispielsatz-Übersetzung: Er wird bald zurückkommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はすぐ帰ってきますよ。
+  彼[かれ]はすぐ 帰[かえ]ってきますよ。
+  Er wird bald zurückkommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

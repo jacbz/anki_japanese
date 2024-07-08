@@ -1,13 +1,27 @@
 Rang: 491
 Lemma: これら
-Lesung: これら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: diese (pl.)
-Beispielsatz: これらの製品は外国へ輸出されます。
-Beispielsatz-Lesung: これらの 製品[せいひん]は 外国[がいこく]へ 輸出[ゆしゅつ]されます。
-Beispielsatz-Übersetzung: Diese Produkte sollen in andere Länder exportiert werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これらの製品は外国へ輸出されます。
+  これらの 製品[せいひん]は 外国[がいこく]へ 輸出[ゆしゅつ]されます。
+  Diese Produkte sollen in andere Länder exportiert werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

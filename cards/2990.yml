@@ -1,13 +1,28 @@
 Rang: 2990
 Lemma: 評判
 Lesung: ひょうばん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ruf; Beliebtheit
-Beispielsatz: 評判どおりあの店の料理はおいしかった。
-Beispielsatz-Lesung: 評判[ひょうばん]どおりあの 店[みせ]の 料理[りょうり]はおいしかった。
-Beispielsatz-Übersetzung: Das Essen in diesem Restaurant war so lecker wie sein Ruf.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ば</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  評判どおりあの店の料理はおいしかった。
+  評判[ひょうばん]どおりあの 店[みせ]の 料理[りょうり]はおいしかった。
+  Das Essen in diesem Restaurant war so lecker wie sein Ruf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

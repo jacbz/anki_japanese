@@ -1,13 +1,27 @@
 Rang: 1888
 Lemma: 左右
 Lesung: さゆう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: links und rechts; Beeinflussung
 Extra: （する）
 Wortart: n. v.
-Definition: links und rechts; Beeinflussung
-Beispielsatz: この試験の結果が私の将来を左右する。
-Beispielsatz-Lesung: この 試験[しけん]の 結果[けっか]が 私[わたし]の 将来[しょうらい]を 左右[さゆう]する。
-Beispielsatz-Übersetzung: Dieses Prüfungsergebnis wird meine Zukunft bestimmen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ゆ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この試験の結果が私の将来を左右する。
+  この 試験[しけん]の 結果[けっか]が 私[わたし]の 将来[しょうらい]を 左右[さゆう]する。
+  Dieses Prüfungsergebnis wird meine Zukunft bestimmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

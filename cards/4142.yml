@@ -1,14 +1,24 @@
 Rang: 4142
 Lemma: 味わえる
 Lesung: あじわえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: kann schmecken, kann genießen
-Beispielsatz: このレストランは南国の雰囲気が味わえます。
-Beispielsatz-Lesung: このレストランは 南国[なんごく]の 雰囲気[ふんいき]が 味[あじ]わえます。
-Beispielsatz-Übersetzung: Man kann in diesem Restaurant eine tropische Atmosphäre
-  genießen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このレストランは南国の雰囲気が味わえます。
+  このレストランは 南国[なんごく]の 雰囲気[ふんいき]が 味[あじ]わえます。
+  Man kann in diesem Restaurant eine tropische Atmosphäre genießen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

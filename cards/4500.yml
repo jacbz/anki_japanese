@@ -1,13 +1,24 @@
 Rang: 4500
 Lemma: 考察
 Lesung: こうさつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Überlegung, Untersuchung; überlegen, untersuchen
 Extra: （する）
 Wortart: n. v.
-Definition: Überlegung, Untersuchung; überlegen, untersuchen
-Beispielsatz: この論文は研究の動機について考察されていない。
-Beispielsatz-Lesung: この 論文[ろんぶん]は 研究[けんきゅう]の 動機[どうき]について 考察[こうさつ]されていない。
-Beispielsatz-Übersetzung: Die Forschungsmotive werden in diesem Papier nicht untersucht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この論文は研究の動機について考察されていない。
+  この 論文[ろんぶん]は 研究[けんきゅう]の 動機[どうき]について 考察[こうさつ]されていない。
+  Die Forschungsmotive werden in diesem Papier nicht untersucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 4733
 Lemma: 散々
 Lesung: さんざん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: streng, wiederholt
-Beispielsatz: 私は遅く帰ってきて親に散々叱られた。
-Beispielsatz-Lesung: 私[わたし]は 遅[おそ]く 帰[かえ]ってきて 親[おや]に 散々[さんざん] 叱[しか]られた。
-Beispielsatz-Übersetzung: Ich kam zu spät nach Hause und wurde von meinen Eltern streng
-  gescholten.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は遅く帰ってきて親に散々叱られた。
+  私[わたし]は 遅[おそ]く 帰[かえ]ってきて 親[おや]に 散々[さんざん] 叱[しか]られた。
+  Ich kam zu spät nach Hause und wurde von meinen Eltern streng gescholten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

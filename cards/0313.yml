@@ -1,13 +1,30 @@
 Rang: 313
 Lemma: あれ
-Lesung: あれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
-Definition: das (da)
-Beispielsatz: あれは誰の車ですか。
-Beispielsatz-Lesung: あれは 誰[だれ]の 車[くるま]ですか。
-Beispielsatz-Übersetzung: Wessen Auto ist das?
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: das (da); Hm?
+Extra: '' # Nur bei suru-Verben
+Wortart: pron., interj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あれは誰の車ですか。
+  あれは 誰[だれ]の 車[くるま]ですか。
+  Wessen Auto ist das?
+
+  あれ？髪の毛切った？
+  あれ？ 髪[かみ]の 毛[け] 切[き]った？
+  Hm? Hast du dir die Haare geschnitten?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

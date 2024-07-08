@@ -1,13 +1,24 @@
 Rang: 11
 Lemma: も
-Lesung: も
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: auch
-Beispielsatz: 彼が行くなら、私も行きます。
-Beispielsatz-Lesung: 彼[かれ]が 行[い]くなら、 私[わたし]も 行[い]きます。
-Beispielsatz-Übersetzung: Wenn er geht, werde ich auch gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼が行くなら、私も行きます。
+  彼[かれ]が 行[い]くなら、 私[わたし]も 行[い]きます。
+  Wenn er geht, werde ich auch gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

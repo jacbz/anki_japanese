@@ -1,13 +1,27 @@
 Rang: 115
 Lemma: 場合
 Lesung: ばあい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fall; Gelegenheit
-Beispielsatz: 雨の場合、お祭りは中止です。
-Beispielsatz-Lesung: 雨[あめ]の 場合[ばあい]、お 祭[まつ]りは 中止[ちゅうし]です。
-Beispielsatz-Übersetzung: Im Falle von Regen wird das Festival abgesagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ば</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雨の場合、お祭りは中止です。
+  雨[あめ]の 場合[ばあい]、お 祭[まつ]りは 中止[ちゅうし]です。
+  Im Falle von Regen wird das Festival abgesagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

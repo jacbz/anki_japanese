@@ -1,13 +1,27 @@
 Rang: 482
 Lemma: 開く
 Lesung: ひらく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: eröffnen; blühen; halten
-Beispielsatz: 会議は来週開かれる。
-Beispielsatz-Lesung: 会議[かいぎ]は 来週[らいしゅう] 開[ひら]かれる。
-Beispielsatz-Übersetzung: Das Treffen wird nächste Woche abgehalten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  会議は来週開かれる。
+  会議[かいぎ]は 来週[らいしゅう] 開[ひら]かれる。
+  Das Treffen wird nächste Woche abgehalten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

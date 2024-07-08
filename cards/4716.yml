@@ -1,13 +1,24 @@
 Rang: 4716
 Lemma: 絆
 Lesung: きずな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bindung, Verbindung
-Beispielsatz: 彼らには友情の絆があった。
-Beispielsatz-Lesung: 彼[かれ]らには 友情[ゆうじょう]の 絆[きずな]があった。
-Beispielsatz-Übersetzung: Es gab eine Bindung der Freundschaft zwischen ihnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らには友情の絆があった。
+  彼[かれ]らには 友情[ゆうじょう]の 絆[きずな]があった。
+  Es gab eine Bindung der Freundschaft zwischen ihnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

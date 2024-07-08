@@ -1,14 +1,27 @@
 Rang: 4249
 Lemma: 前者
 Lesung: ぜんしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: erstere
-Beispielsatz: この二つの案のうち、私は前者より後者の方がいい。
-Beispielsatz-Lesung: この 二[ふた]つの 案[あん]のうち、 私[わたし]は 前者[ぜんしゃ]より 後者[こうしゃ]の 方[ほう]がいい。
-Beispielsatz-Übersetzung: Von diesen beiden Plänen bevorzuge ich den letzteren gegenüber
-  dem erstern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ぜ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この二つの案のうち、私は前者より後者の方がいい。
+  この 二[ふた]つの 案[あん]のうち、 私[わたし]は 前者[ぜんしゃ]より 後者[こうしゃ]の 方[ほう]がいい。
+  Von diesen beiden Plänen bevorzuge ich den letzteren gegenüber dem erstern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

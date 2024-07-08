@@ -1,13 +1,24 @@
 Rang: 3003
 Lemma: 加入
 Lesung: かにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: beitreten, beitreten; join
 Extra: （する）
 Wortart: n. v.
-Definition: beitreten, beitreten; join
-Beispielsatz: 健康保険に加入する。
-Beispielsatz-Lesung: 健康保険[けんこうほけん]に 加入[かにゅう]する。
-Beispielsatz-Übersetzung: Ich werde der Krankenversicherung beitreten.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  健康保険に加入する。
+  健康保険[けんこうほけん]に 加入[かにゅう]する。
+  Ich werde der Krankenversicherung beitreten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

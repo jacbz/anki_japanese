@@ -1,13 +1,24 @@
 Rang: 4690
 Lemma: こねる
-Lesung: こねる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: kneten, drücken, bearbeiten
-Beispielsatz: 子供が粘土をこねて遊んでいた。
-Beispielsatz-Lesung: 子供[こども]が 粘土[ねんど]をこねて 遊[あそ]んでいた。
-Beispielsatz-Übersetzung: Ein Kind hatte Spaß daran, mit Ton zu kneten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供が粘土をこねて遊んでいた。
+  子供[こども]が 粘土[ねんど]をこねて 遊[あそ]んでいた。
+  Ein Kind hatte Spaß daran, mit Ton zu kneten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

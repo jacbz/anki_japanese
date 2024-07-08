@@ -1,14 +1,24 @@
 Rang: 4885
 Lemma: 範囲内
 Lesung: はんいない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: im Bereich, innerhalb der Grenzen
-Beispielsatz: 費用は予算の範囲内に収めなければならない。
-Beispielsatz-Lesung: 費用[ひよう]は 予算[よさん]の 範囲内[はんいない]に 収[おさ]めなければならない。
-Beispielsatz-Übersetzung: Wir sollten die Ausgaben innerhalb der Grenzen des Haushaltsplans
-  halten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  費用は予算の範囲内に収めなければならない。
+  費用[ひよう]は 予算[よさん]の 範囲内[はんいない]に 収[おさ]めなければならない。
+  Wir sollten die Ausgaben innerhalb der Grenzen des Haushaltsplans halten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

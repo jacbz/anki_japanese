@@ -1,13 +1,24 @@
 Rang: 453
 Lemma: 有名
 Lesung: ゆうめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: berühmt, bekannt
-Beispielsatz: 彼はとても有名な作家です。
-Beispielsatz-Lesung: 彼[かれ]はとても 有名[ゆうめい]な 作家[さっか]です。
-Beispielsatz-Übersetzung: Er ist ein sehr bekannter Schriftsteller.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はとても有名な作家です。
+  彼[かれ]はとても 有名[ゆうめい]な 作家[さっか]です。
+  Er ist ein sehr bekannter Schriftsteller.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

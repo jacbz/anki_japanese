@@ -1,13 +1,24 @@
 Rang: 4341
 Lemma: フィルム
-Lesung: フィルム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Film
-Beispielsatz: フィルムを現像しに行きます。
-Beispielsatz-Lesung: フィルムを 現像[げんぞう]しに 行[い]きます。
-Beispielsatz-Übersetzung: Ich werde gehen und den Film entwickeln lassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  フィルムを現像しに行きます。
+  フィルムを 現像[げんぞう]しに 行[い]きます。
+  Ich werde gehen und den Film entwickeln lassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

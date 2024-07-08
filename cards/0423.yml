@@ -1,13 +1,28 @@
 Rang: 423
 Lemma: 存在
 Lesung: そんざい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Existenz
 Extra: （する）
 Wortart: n. v.
-Definition: Existenz
-Beispielsatz: 幽霊の存在を信じますか。
-Beispielsatz-Lesung: 幽霊[ゆうれい]の 存在[そんざい]を 信[しん]じますか。
-Beispielsatz-Übersetzung: Glaubst du an Gespenster?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ざ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ↗</>Bücher
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  幽霊の存在を信じますか。
+  幽霊[ゆうれい]の 存在[そんざい]を 信[しん]じますか。
+  Glaubst du an Gespenster?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

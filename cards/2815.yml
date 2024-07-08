@@ -1,13 +1,24 @@
 Rang: 2815
 Lemma: 葉っぱ
 Lesung: はっぱ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Blatt
-Beispielsatz: 葉っぱが全て落ちてしまった。
-Beispielsatz-Lesung: 葉[は]っぱが 全[すべ]て 落[お]ちてしまった。
-Beispielsatz-Übersetzung: Alle Blätter sind gefallen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  葉っぱが全て落ちてしまった。
+  葉[は]っぱが 全[すべ]て 落[お]ちてしまった。
+  Alle Blätter sind gefallen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

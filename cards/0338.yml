@@ -1,13 +1,27 @@
 Rang: 338
 Lemma: 全部
 Lesung: ぜんぶ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: alles, ganz, gesamt
-Beispielsatz: 料理が多すぎて全部食べられなかった。
-Beispielsatz-Lesung: 料理[りょうり]が 多[おお]すぎて 全部[ぜんぶ] 食[た]べられなかった。
-Beispielsatz-Übersetzung: Es gab zu viel Essen und ich konnte nicht alles essen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ぜ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ぶ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  料理が多すぎて全部食べられなかった。
+  料理[りょうり]が 多[おお]すぎて 全部[ぜんぶ] 食[た]べられなかった。
+  Es gab zu viel Essen und ich konnte nicht alles essen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

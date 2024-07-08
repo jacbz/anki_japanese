@@ -1,13 +1,26 @@
 Rang: 789
 Lemma: 妻
 Lesung: つま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: (eigene) Ehefrau
-Beispielsatz: こちらは私の妻です。
-Beispielsatz-Lesung: こちらは 私[わたし]の 妻[つま]です。
-Beispielsatz-Übersetzung: Das ist meine Ehefrau.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">つ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こちらは私の妻です。
+  こちらは 私[わたし]の 妻[つま]です。
+  Das ist meine Ehefrau.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

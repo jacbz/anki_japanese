@@ -1,13 +1,24 @@
 Rang: 1518
 Lemma: そもそも
-Lesung: そもそも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: überhaupt erst einmal
-Beispielsatz: そもそもそんなことをするべきではなかった。
-Beispielsatz-Lesung: そもそもそんなことをするべきではなかった。
-Beispielsatz-Übersetzung: Du hättest das überhaupt erst einmal nicht tun sollen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そもそもそんなことをするべきではなかった。
+  そもそもそんなことをするべきではなかった。
+  Du hättest das überhaupt erst einmal nicht tun sollen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

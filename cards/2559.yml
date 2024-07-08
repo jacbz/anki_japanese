@@ -1,13 +1,28 @@
 Rang: 2559
 Lemma: 及ぼす
 Lesung: およぼす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beeinflussen, Auswirkungen haben auf
-Beispielsatz: 二酸化炭素ガスは地球温暖化に重大な影響を及ぼす。
-Beispielsatz-Lesung: 二 酸化炭素[さんかたんそ]ガスは 地球温暖化[ちきゅうおんだんか]に 重大[じゅうだい]な 影響[えいきょう]を 及[およ]ぼす。
-Beispielsatz-Übersetzung: CO2-Gas hat einen erheblichen Einfluss auf die globale Erwärmung.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二酸化炭素ガスは地球温暖化に重大な影響を及ぼす。
+  二 酸化炭素[さんかたんそ]ガスは 地球温暖化[ちきゅうおんだんか]に 重大[じゅうだい]な 影響[えいきょう]を 及[およ]ぼす。
+  CO2-Gas hat einen erheblichen Einfluss auf die globale Erwärmung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 328
 Lemma: どの
-Lesung: どの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: welches
-Beispielsatz: どの人が田中さんですか。
-Beispielsatz-Lesung: どの人が 田中[たなか]さんですか。
-Beispielsatz-Übersetzung: Welches magst du am meisten?
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どの人が田中さんですか。
+  どの人が 田中[たなか]さんですか。
+  Welches magst du am meisten?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

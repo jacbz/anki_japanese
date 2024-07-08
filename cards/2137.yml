@@ -1,13 +1,24 @@
 Rang: 2137
 Lemma: デパート
-Lesung: デパート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Warenhaus
-Beispielsatz: デパートに買い物に行った。
-Beispielsatz-Lesung: デパートに 買[か]い 物[もの]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin zum Warenhaus gegangen, um einzukaufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  デパートに買い物に行った。
+  デパートに 買[か]い 物[もの]に 行[い]った。
+  Ich bin zum Warenhaus gegangen, um einzukaufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

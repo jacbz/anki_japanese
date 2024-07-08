@@ -1,14 +1,24 @@
 Rang: 3614
 Lemma: 入札
 Lesung: にゅうさつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Angebot (abgeben), Ausschreibung (machen); bieten, ausschreiben
 Extra: （する）
 Wortart: n. v.
-Definition: Angebot (abgeben), Ausschreibung (machen); bieten, ausschreiben
-Beispielsatz: 入札の結果、A社が工事を請け負うことになった。
-Beispielsatz-Lesung: 入札[にゅうさつ]の 結果[けっか]、A 社[しゃ]が 工事[こうじ]を 請[う]け 負[お]うことになった。
-Beispielsatz-Übersetzung: Das Unternehmen A erhielt den Auftrag für den Bau durch
-  eine Ausschreibung.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '48'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  入札の結果、A社が工事を請け負うことになった。
+  入札[にゅうさつ]の 結果[けっか]、A 社[しゃ]が 工事[こうじ]を 請[う]け 負[お]うことになった。
+  Das Unternehmen A erhielt den Auftrag für den Bau durch eine Ausschreibung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

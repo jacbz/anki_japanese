@@ -1,13 +1,24 @@
 Rang: 3985
 Lemma: そうこう
-Lesung: そうこう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: in der Zwischenzeit
-Beispielsatz: そうこうするうちに、日が暮れてしまった。
-Beispielsatz-Lesung: そうこうするうちに、 日[ひ]が 暮[く]れてしまった。
-Beispielsatz-Übersetzung: In der Zwischenzeit wurde es dunkel.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そうこうするうちに、日が暮れてしまった。
+  そうこうするうちに、 日[ひ]が 暮[く]れてしまった。
+  In der Zwischenzeit wurde es dunkel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4626
 Lemma: メロディー
-Lesung: メロディー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Melodie
-Beispielsatz: このメロディーは多くの日本人に親しまれている。
-Beispielsatz-Lesung: このメロディーは 多[おお]くの 日本人[にっぽんじん]に 親[した]しまれている。
-Beispielsatz-Übersetzung: Diese Melodie ist vielen Japanern bekannt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このメロディーは多くの日本人に親しまれている。
+  このメロディーは 多[おお]くの 日本人[にっぽんじん]に 親[した]しまれている。
+  Diese Melodie ist vielen Japanern bekannt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

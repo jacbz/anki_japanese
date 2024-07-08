@@ -1,13 +1,24 @@
 Rang: 4586
 Lemma: デメリット
-Lesung: デメリット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nachteil
-Beispielsatz: 田舎での生活はデメリットが多いと思う。
-Beispielsatz-Lesung: 田舎[いなか]での 生活[せいかつ]はデメリットが 多[おお]いと 思[おも]う。
-Beispielsatz-Übersetzung: Ich denke, dass das Leben auf dem Land viele Nachteile hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  田舎での生活はデメリットが多いと思う。
+  田舎[いなか]での 生活[せいかつ]はデメリットが 多[おお]いと 思[おも]う。
+  Ich denke, dass das Leben auf dem Land viele Nachteile hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

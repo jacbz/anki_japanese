@@ -1,13 +1,24 @@
 Rang: 2357
 Lemma: 真
 Lesung: しん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wahrheit; Realität
-Beispielsatz: 真の自由を手に入れるために、努力を続ける。
-Beispielsatz-Lesung: 真[しん]の 自由[じゆう]を 手[て]に 入[い]れるために、 努力[どりょく]を 続[つづ]ける。
-Beispielsatz-Übersetzung: Sie streben nach wie vor nach wahrer Freiheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  真の自由を手に入れるために、努力を続ける。
+  真[しん]の 自由[じゆう]を 手[て]に 入[い]れるために、 努力[どりょく]を 続[つづ]ける。
+  Sie streben nach wie vor nach wahrer Freiheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

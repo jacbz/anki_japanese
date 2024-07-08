@@ -1,14 +1,24 @@
 Rang: 4565
 Lemma: ステップ
-Lesung: ステップ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Schritt
-Beispielsatz: バスのステップを踏み外して恥ずかしかった。
-Beispielsatz-Lesung: バスのステップを 踏[ふ]み 外[はず]して 恥[は]ずかしかった。
-Beispielsatz-Übersetzung: Es war mir peinlich, dass ich den Einstieg in den Bus verpasst
-  hatte.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  バスのステップを踏み外して恥ずかしかった。
+  バスのステップを 踏[ふ]み 外[はず]して 恥[は]ずかしかった。
+  Es war mir peinlich, dass ich den Einstieg in den Bus verpasst hatte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1520
 Lemma: ワイン
-Lesung: ワイン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Wein
-Beispielsatz: パーティーでワインを飲んだ。
-Beispielsatz-Lesung: パーティーでワインを 飲[の]んだ。
-Beispielsatz-Übersetzung: Ich habe auf der Party Wein getrunken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パーティーでワインを飲んだ。
+  パーティーでワインを 飲[の]んだ。
+  Ich habe auf der Party Wein getrunken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

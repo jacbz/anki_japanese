@@ -1,13 +1,24 @@
 Rang: 3062
 Lemma: ソース
-Lesung: ソース
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Sauce; Quelle
-Beispielsatz: このステーキのソースがおいしい。
-Beispielsatz-Lesung: このステーキのソースが 美味[おい]しい。
-Beispielsatz-Übersetzung: Die Sauce auf diesem Steak ist köstlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このステーキのソースがおいしい。
+  このステーキのソースが 美味[おい]しい。
+  Die Sauce auf diesem Steak ist köstlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

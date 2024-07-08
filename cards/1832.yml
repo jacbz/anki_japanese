@@ -1,14 +1,24 @@
 Rang: 1832
 Lemma: 幸い
 Lesung: さいわい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n. adv.
+Alternativschreibweisen: ''
 Definition: glücklich, glücklicherweise; Glück; glücklicherweise
-Beispielsatz: 兄は交通事故に遭ったが、幸いなことに、軽いけがで済んだ。
-Beispielsatz-Lesung: 兄[あに]は 交通事故[こうつうじこ]に 遭[あ]ったが、 幸[さいわ]いなことに、 軽[かる]いけがで 済[す]んだ。
-Beispielsatz-Übersetzung: Mein Bruder hatte einen Autounfall, aber glücklicherweise
-  wurde er nur leicht verletzt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  兄は交通事故に遭ったが、幸いなことに、軽いけがで済んだ。
+  兄[あに]は 交通事故[こうつうじこ]に 遭[あ]ったが、 幸[さいわ]いなことに、 軽[かる]いけがで 済[す]んだ。
+  Mein Bruder hatte einen Autounfall, aber glücklicherweise wurde er nur leicht verletzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

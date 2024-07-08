@@ -1,13 +1,28 @@
 Rang: 675
 Lemma: 男性
 Lesung: だんせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mann
-Beispielsatz: この製品は二十代の男性を対象にしている。
-Beispielsatz-Lesung: この 製品[せいひん]は 二十代[にじゅうだい]の 男性[だんせい]を 対象[たいしょう]にしている。
-Beispielsatz-Übersetzung: Das Produkt richtet sich an Männer in ihren Zwanzigern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この製品は二十代の男性を対象にしている。
+  この 製品[せいひん]は 二十代[にじゅうだい]の 男性[だんせい]を 対象[たいしょう]にしている。
+  Das Produkt richtet sich an Männer in ihren Zwanzigern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 3515
 Lemma: 解散
 Lesung: かいさん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Auflösung; auflösen, aufbrechen
 Extra: （する）
 Wortart: n. v.
-Definition: Auflösung; auflösen, aufbrechen
-Beispielsatz: 議会が解散し、選挙が行われることになった。
-Beispielsatz-Lesung: 議会[ぎかい]が 解散[かいさん]し、 選挙[せんきょ]が 行[おこな]われることになった。
-Beispielsatz-Übersetzung: Sie beschlossen, das Parlament aufzulösen, und es wird eine
-  weitere Wahl stattfinden.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  議会が解散し、選挙が行われることになった。
+  議会[ぎかい]が 解散[かいさん]し、 選挙[せんきょ]が 行[おこな]われることになった。
+  Sie beschlossen, das Parlament aufzulösen, und es wird eine weitere Wahl stattfinden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

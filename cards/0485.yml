@@ -1,13 +1,28 @@
 Rang: 485
 Lemma: 重要
 Lesung: じゅうよう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: wichtig, essenziell
-Beispielsatz: 彼は重要な役割を果たした。
-Beispielsatz-Lesung: 彼[かれ]は 重要[じゅうよう]な 役割[やくわり]を 果[は]たした。
-Beispielsatz-Übersetzung: Er spielte eine wichtige Rolle.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">よ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は重要な役割を果たした。
+  彼[かれ]は 重要[じゅうよう]な 役割[やくわり]を 果[は]たした。
+  Er spielte eine wichtige Rolle.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

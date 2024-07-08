@@ -1,13 +1,24 @@
 Rang: 3976
 Lemma: 交代
 Lesung: こうたい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Wechseln, abwechseln; sich abwechseln
 Extra: （する）
 Wortart: n. v.
-Definition: Wechseln, abwechseln; sich abwechseln
-Beispielsatz: 私達は交代で運転した。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は 交代[こうたい]で 運転[うんてん]した。
-Beispielsatz-Übersetzung: Wir haben uns beim Fahren abgewechselt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は交代で運転した。
+  私[わたし] 達[たち]は 交代[こうたい]で 運転[うんてん]した。
+  Wir haben uns beim Fahren abgewechselt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

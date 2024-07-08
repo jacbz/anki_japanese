@@ -1,13 +1,24 @@
 Rang: 892
 Lemma: きちんと
-Lesung: きちんと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: präzise, ordentlich
-Beispielsatz: 彼の部屋はきちんと片付けられている。
-Beispielsatz-Lesung: 彼[かれ]の 部屋[へや]はきちんと 片付[かたづ]けられている。
-Beispielsatz-Übersetzung: Sein Zimmer ist ordentlich arrangiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の部屋はきちんと片付けられている。
+  彼[かれ]の 部屋[へや]はきちんと 片付[かたづ]けられている。
+  Sein Zimmer ist ordentlich arrangiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

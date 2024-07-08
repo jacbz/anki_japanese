@@ -1,13 +1,28 @@
 Rang: 2226
 Lemma: 満足
 Lesung: まんぞく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zufriedenheit
 Extra: （する）
 Wortart: n. v.
-Definition: Zufriedenheit
-Beispielsatz: 私は今の生活に満足している。
-Beispielsatz-Lesung: 私[わたし]は 今[いま]の 生活[せいかつ]に 満足[まんぞく]している。
-Beispielsatz-Übersetzung: Ich bin mit meinem Leben jetzt zufrieden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">ま</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ぞ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は今の生活に満足している。
+  私[わたし]は 今[いま]の 生活[せいかつ]に 満足[まんぞく]している。
+  Ich bin mit meinem Leben jetzt zufrieden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

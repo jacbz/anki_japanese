@@ -1,13 +1,27 @@
 Rang: 3289
 Lemma: 眠い
 Lesung: ねむい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: müde, schläfrig
-Beispielsatz: 徹夜明けなので、とても眠い。
-Beispielsatz-Lesung: 徹夜[てつや] 明[あ]けなので、とても 眠[ねむ]い。
-Beispielsatz-Übersetzung: Ich bin sehr schläfrig, weil ich die ganze Nacht wach war.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ね</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ↗</>Internet
+Dispersion: '40'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  徹夜明けなので、とても眠い。
+  徹夜[てつや] 明[あ]けなので、とても 眠[ねむ]い。
+  Ich bin sehr schläfrig, weil ich die ganze Nacht wach war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

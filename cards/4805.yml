@@ -1,13 +1,27 @@
 Rang: 4805
 Lemma: 起動
 Lesung: きどう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: starten; start
 Extra: （する）
 Wortart: n. v.
-Definition: starten; start
-Beispielsatz: コンピューターを起動させてください。
-Beispielsatz-Lesung: コンピューターを 起動[きどう]させてください。
-Beispielsatz-Übersetzung: Starten Sie Ihren Computer.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンピューターを起動させてください。
+  コンピューターを 起動[きどう]させてください。
+  Starten Sie Ihren Computer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

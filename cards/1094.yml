@@ -1,13 +1,26 @@
 Rang: 1094
 Lemma: 十
 Lesung: じゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: zehn
-Beispielsatz: 彼女には十に一つの可能性しかない。
-Beispielsatz-Lesung: 彼女[かのじょ]には十に 一[ひと]つの 可能性[かのうせい]しかない。
-Beispielsatz-Übersetzung: Sie hat nur eine Chance von zehn.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">じ</span><span class="char">ゅ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女には十に一つの可能性しかない。
+  彼女[かのじょ]には十に 一[ひと]つの 可能性[かのうせい]しかない。
+  Sie hat nur eine Chance von zehn.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

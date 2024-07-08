@@ -1,13 +1,27 @@
 Rang: 3022
 Lemma: 悪化
 Lesung: あっか
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: sich verschlechtern; verschlimmern
 Extra: （する）
 Wortart: n. v.
-Definition: sich verschlechtern; verschlimmern
-Beispielsatz: 治安が悪化している。
-Beispielsatz-Lesung: 治安[ちあん]が 悪化[あっか]している。
-Beispielsatz-Übersetzung: Die öffentliche Sicherheit verschlechtert sich.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  治安が悪化している。
+  治安[ちあん]が 悪化[あっか]している。
+  Die öffentliche Sicherheit verschlechtert sich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

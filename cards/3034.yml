@@ -1,13 +1,27 @@
 Rang: 3034
 Lemma: 聖書
 Lesung: せいしょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bibel
-Beispielsatz: 毎日聖書を読む。
-Beispielsatz-Lesung: 毎日[まいにち] 聖書[せいしょ]を 読[よ]む。
-Beispielsatz-Übersetzung: Ich lese jeden Tag die Bibel.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">せ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎日聖書を読む。
+  毎日[まいにち] 聖書[せいしょ]を 読[よ]む。
+  Ich lese jeden Tag die Bibel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

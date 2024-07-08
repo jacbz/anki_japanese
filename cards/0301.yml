@@ -1,13 +1,24 @@
 Rang: 301
 Lemma: テーマ
-Lesung: テーマ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Thema
-Beispielsatz: 論文のテーマは何ですか。
-Beispielsatz-Lesung: 論文[ろんぶん]のテーマは 何[なに]ですか。
-Beispielsatz-Übersetzung: Was ist das Thema Ihrer Arbeit?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  論文のテーマは何ですか。
+  論文[ろんぶん]のテーマは 何[なに]ですか。
+  Was ist das Thema Ihrer Arbeit?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

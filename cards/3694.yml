@@ -1,13 +1,24 @@
 Rang: 3694
 Lemma: プロジェクト
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Projekt
-Beispielsatz: 新しいプロジェクトが開始した。
-Beispielsatz-Lesung: 新[あたら]しいプロジェクトが 開始[かいし]した。
-Beispielsatz-Übersetzung: Ein neues Projekt wurde gestartet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しいプロジェクトが開始した。
+  新[あたら]しいプロジェクトが 開始[かいし]した。
+  Ein neues Projekt wurde gestartet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

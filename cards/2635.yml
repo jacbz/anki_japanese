@@ -1,13 +1,28 @@
 Rang: 2635
 Lemma: 憧れ
 Lesung: あこがれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bewunderung
-Beispielsatz: 木田先生は私たちの憧れのまとでした。
-Beispielsatz-Lesung: 木田[きだ] 先生[せんせい]は 私[わたし]たちの 憧[あこが]れのまとでした。
-Beispielsatz-Übersetzung: Frau Kida war das Objekt der Bewunderung für uns alle.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  木田先生は私たちの憧れのまとでした。
+  木田[きだ] 先生[せんせい]は 私[わたし]たちの 憧[あこが]れのまとでした。
+  Frau Kida war das Objekt der Bewunderung für uns alle.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

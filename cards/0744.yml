@@ -1,14 +1,26 @@
 Rang: 744
 Lemma: つつ
-Lesung: つつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: währenddessen; obwohl
-Beispielsatz: 煙草は健康に悪いと知りつつ、吸い続けている。
-Beispielsatz-Lesung: 煙草[たばこ]は 健康[けんこう]に 悪[わる]いと 知[し]りつつ、 吸[す]い 続[つづ]けている。
-Beispielsatz-Übersetzung: Ich kann nicht aufhören zu rauchen, obwohl ich weiß, dass
-  es schlecht für meine Gesundheit ist.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  煙草は健康に悪いと知りつつ、吸い続けている。
+  煙草[たばこ]は 健康[けんこう]に 悪[わる]いと 知[し]りつつ、 吸[す]い 続[つづ]けている。
+  Ich kann nicht aufhören zu rauchen, obwohl ich weiß, dass es schlecht für meine Gesundheit ist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

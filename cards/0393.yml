@@ -1,13 +1,24 @@
 Rang: 393
 Lemma: 大事
 Lesung: だいじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: wichtig, bedeutsam
-Beispielsatz: 明日は大事な会議がある。
-Beispielsatz-Lesung: 明日[あした]は 大事[だいじ]な 会議[かいぎ]がある。
-Beispielsatz-Übersetzung: Ich habe morgen ein wichtiges Meeting.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日は大事な会議がある。
+  明日[あした]は 大事[だいじ]な 会議[かいぎ]がある。
+  Ich habe morgen ein wichtiges Meeting.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

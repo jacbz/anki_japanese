@@ -1,13 +1,24 @@
 Rang: 4211
 Lemma: ナンバー
-Lesung: ナンバー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nummer
-Beispielsatz: ひき逃げの車のナンバーを書き留めた。
-Beispielsatz-Lesung: ひき 逃[に]げの 車[くるま]のナンバーを 書[か]き 留[と]めた。
-Beispielsatz-Übersetzung: Ich habe die Nummer des Wagens des flüchtigen Fahrers notiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ひき逃げの車のナンバーを書き留めた。
+  ひき 逃[に]げの 車[くるま]のナンバーを 書[か]き 留[と]めた。
+  Ich habe die Nummer des Wagens des flüchtigen Fahrers notiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

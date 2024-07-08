@@ -1,13 +1,24 @@
 Rang: 3987
 Lemma: 収集
 Lesung: しゅうしゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: sammeln
 Extra: （する）
 Wortart: n. v.
-Definition: sammeln
-Beispielsatz: ゴミの収集は毎週火曜日です。
-Beispielsatz-Lesung: ゴミの 収集[しゅうしゅう]は 毎週[まいしゅう] 火曜日[かようび]です。
-Beispielsatz-Übersetzung: Die Müllabfuhr findet jeden Dienstag statt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ゴミの収集は毎週火曜日です。
+  ゴミの 収集[しゅうしゅう]は 毎週[まいしゅう] 火曜日[かようび]です。
+  Die Müllabfuhr findet jeden Dienstag statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

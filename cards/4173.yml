@@ -1,13 +1,27 @@
 Rang: 4173
 Lemma: 原理
 Lesung: げんり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Prinzip
-Beispielsatz: 彼はてこの原理を使って石を動かした。
-Beispielsatz-Lesung: 彼[かれ]はてこの 原理[げんり]を 使[つか]って 石[いし]を 動[うご]かした。
-Beispielsatz-Übersetzung: Er bewegte den Stein mit Hilfe des Hebels nach dem Prinzip.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">げ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はてこの原理を使って石を動かした。
+  彼[かれ]はてこの 原理[げんり]を 使[つか]って 石[いし]を 動[うご]かした。
+  Er bewegte den Stein mit Hilfe des Hebels nach dem Prinzip.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

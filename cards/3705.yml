@@ -1,13 +1,24 @@
 Rang: 3705
 Lemma: 大学時代
 Lesung: だいがくじだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Universitätszeit
-Beispielsatz: 大学時代にラグビーをやっていました。
-Beispielsatz-Lesung: 大学[だいがく] 時代[じだい]にラグビーをやっていました。
-Beispielsatz-Übersetzung: Ich habe Rugby während meiner Universitätszeit gespielt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大学時代にラグビーをやっていました。
+  大学[だいがく] 時代[じだい]にラグビーをやっていました。
+  Ich habe Rugby während meiner Universitätszeit gespielt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

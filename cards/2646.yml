@@ -1,13 +1,24 @@
 Rang: 2646
 Lemma: 出演
 Lesung: しゅつえん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Auftritt, Übertragung
 Extra: （する）
 Wortart: n. v.
-Definition: Auftritt, Übertragung
-Beispielsatz: 彼はよくテレビに出演する。
-Beispielsatz-Lesung: 彼[かれ]はよくテレビに 出演[しゅつえん]する。
-Beispielsatz-Übersetzung: Er tritt oft im Fernsehen auf.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はよくテレビに出演する。
+  彼[かれ]はよくテレビに 出演[しゅつえん]する。
+  Er tritt oft im Fernsehen auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

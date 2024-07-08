@@ -1,13 +1,24 @@
 Rang: 2177
 Lemma: 承知
 Lesung: しょうち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zustimmung
 Extra: （する）
 Wortart: n. v.
-Definition: Zustimmung
-Beispielsatz: 承知しました。
-Beispielsatz-Lesung: 承知[しょうち]しました。
-Beispielsatz-Übersetzung: Ich verstehe.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  承知しました。
+  承知[しょうち]しました。
+  Ich verstehe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

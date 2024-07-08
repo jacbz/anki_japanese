@@ -1,14 +1,24 @@
 Rang: 3519
 Lemma: いちいち
-Lesung: いちいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: eins nach dem anderen; alles
-Beispielsatz: 英語の発音をいちいち直されて、嫌な気分になった。
-Beispielsatz-Lesung: 英語[えいご]の 発音[はつおん]をいちいち 直[なお]されて、 嫌[いや]な 気分[きぶん]になった。
-Beispielsatz-Übersetzung: Ich war verärgert, weil er alles an meiner englischen Aussprache
-  korrigierte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  英語の発音をいちいち直されて、嫌な気分になった。
+  英語[えいご]の 発音[はつおん]をいちいち 直[なお]されて、 嫌[いや]な 気分[きぶん]になった。
+  Ich war verärgert, weil er alles an meiner englischen Aussprache korrigierte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

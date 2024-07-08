@@ -1,13 +1,24 @@
 Rang: 3240
 Lemma: ガラス
-Lesung: ガラス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Glas
-Beispielsatz: ボールで窓ガラスを割ってしまった。
-Beispielsatz-Lesung: ボールで 窓[まど]ガラスを 割[わ]ってしまった。
-Beispielsatz-Übersetzung: Ich habe mit einem Ball eine Glasscheibe zerbrochen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ボールで窓ガラスを割ってしまった。
+  ボールで 窓[まど]ガラスを 割[わ]ってしまった。
+  Ich habe mit einem Ball eine Glasscheibe zerbrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

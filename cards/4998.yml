@@ -1,13 +1,24 @@
 Rang: 4998
 Lemma: 一段
-Lesung: いちだん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Ichidan-Konjugation
-Beispielsatz: 本堂は一段高い場所にある。
-Beispielsatz-Lesung: 本堂[ほんどう]は 一段[いちだん] 高[たか]い 場所[ばしょ]にある。
-Beispielsatz-Übersetzung: Das Hauptgebäude befindet sich eine Etage höher.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本堂は一段高い場所にある。
+  本堂[ほんどう]は 一段[いちだん] 高[たか]い 場所[ばしょ]にある。
+  Das Hauptgebäude befindet sich eine Etage höher.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

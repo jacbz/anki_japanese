@@ -1,13 +1,24 @@
 Rang: 4205
 Lemma: センター
-Lesung: センター
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Zentrum
-Beispielsatz: 私は今、国際交流のセンターで働いています。
-Beispielsatz-Lesung: 私[わたし]は 今[いま]、 国際交流[こくさいこうりゅう]のセンターで 働[はたら]いています。
-Beispielsatz-Übersetzung: Ich arbeite jetzt im Zentrum für internationalen Austausch.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は今、国際交流のセンターで働いています。
+  私[わたし]は 今[いま]、 国際交流[こくさいこうりゅう]のセンターで 働[はたら]いています。
+  Ich arbeite jetzt im Zentrum für internationalen Austausch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

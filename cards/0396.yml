@@ -1,13 +1,27 @@
 Rang: 396
 Lemma: 遊ぶ
 Lesung: あそぶ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: spielen
-Beispielsatz: コンピューターゲームで遊ぶのが好きだ。
-Beispielsatz-Lesung: コンピューターゲームで 遊[あそ]ぶのが 好[す]きだ。
-Beispielsatz-Übersetzung: Ich spiele gerne Computerspiele.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぶ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンピューターゲームで遊ぶのが好きだ。
+  コンピューターゲームで 遊[あそ]ぶのが 好[す]きだ。
+  Ich spiele gerne Computerspiele.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

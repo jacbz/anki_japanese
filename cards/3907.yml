@@ -1,13 +1,24 @@
 Rang: 3907
 Lemma: バブル
-Lesung: バブル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Blase
-Beispielsatz: バブルの崩壊が起こった。
-Beispielsatz-Lesung: バブルの 崩壊[ほうかい]が 起[お]こった。
-Beispielsatz-Übersetzung: Der Zusammenbruch der Blasenwirtschaft trat ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  バブルの崩壊が起こった。
+  バブルの 崩壊[ほうかい]が 起[お]こった。
+  Der Zusammenbruch der Blasenwirtschaft trat ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3963
 Lemma: アピール
-Lesung: アピール
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: sich präsentieren
 Extra: （する）
 Wortart: n. v.
-Definition: sich präsentieren
-Beispielsatz: もっと自分をアピールした方がいい。
-Beispielsatz-Lesung: もっと 自分[じぶん]をアピールした 方[ほう]がいい。
-Beispielsatz-Übersetzung: Du solltest dich mehr präsentieren.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もっと自分をアピールした方がいい。
+  もっと 自分[じぶん]をアピールした 方[ほう]がいい。
+  Du solltest dich mehr präsentieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

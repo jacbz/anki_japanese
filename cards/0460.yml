@@ -1,14 +1,27 @@
 Rang: 460
 Lemma: 程度
 Lesung: ていど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Grad, Niveau, Grenze
-Beispielsatz: そのテキストは中級程度の日本語学習者向けです。
-Beispielsatz-Lesung: そのテキストは 中級[ちゅうきゅう] 程度[ていど]の 日本語[にほんご] 学習者[がくしゅうしゃ] 向[む]けです。
-Beispielsatz-Übersetzung: Das Lehrbuch wurde für Lernende auf mittlerem Niveau des
-  Japanischen geschrieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">て</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ど</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのテキストは中級程度の日本語学習者向けです。
+  そのテキストは 中級[ちゅうきゅう] 程度[ていど]の 日本語[にほんご] 学習者[がくしゅうしゃ] 向[む]けです。
+  Das Lehrbuch wurde für Lernende auf mittlerem Niveau des Japanischen geschrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

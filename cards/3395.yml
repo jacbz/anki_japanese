@@ -1,13 +1,24 @@
 Rang: 3395
 Lemma: あら
-Lesung: あら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Oh! (von weiblichen Sprechern verwendet)
-Beispielsatz: あら、ここにいたの。
-Beispielsatz-Lesung: あら、ここに 居[い]たの。
-Beispielsatz-Übersetzung: Oh, du bist hier.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あら、ここにいたの。
+  あら、ここに 居[い]たの。
+  Oh, du bist hier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

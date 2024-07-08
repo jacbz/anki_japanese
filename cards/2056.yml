@@ -1,13 +1,27 @@
 Rang: 2056
 Lemma: 芝居
 Lesung: しばい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Theaterstück, Drama
-Beispielsatz: 友達と芝居を見に行った。
-Beispielsatz-Lesung: 友達[ともだち]と 芝居[しばい]を 見[み]に 行[い]った。
-Beispielsatz-Übersetzung: Ich habe mir mit meinem Freund ein Theaterstück angesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ば</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達と芝居を見に行った。
+  友達[ともだち]と 芝居[しばい]を 見[み]に 行[い]った。
+  Ich habe mir mit meinem Freund ein Theaterstück angesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

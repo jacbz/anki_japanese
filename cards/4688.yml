@@ -1,14 +1,28 @@
 Rang: 4688
 Lemma: いたずら
-Lesung: いたずら
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Streich, Scherz machen; schelmisch sein, einen Streich spielen
 Extra: （する）
 Wortart: n. v.
-Definition: Streich, Scherz machen; schelmisch sein, einen Streich spielen
-Beispielsatz: 父は弟のいたずらを怒った。
-Beispielsatz-Lesung: 父[ちち]は 弟[おとうと]のいたずらを 怒[おこ]った。
-Beispielsatz-Übersetzung: Mein Vater war über den Streich meines jüngeren Bruders
-  verärgert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父は弟のいたずらを怒った。
+  父[ちち]は 弟[おとうと]のいたずらを 怒[おこ]った。
+  Mein Vater war über den Streich meines jüngeren Bruders verärgert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

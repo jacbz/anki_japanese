@@ -1,13 +1,24 @@
 Rang: 827
 Lemma: ずいぶん
-Lesung: ずいぶん
-Alternative: 随分
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: 随分
 Definition: ziemlich, recht
-Beispielsatz: 今日はずいぶん暖かい。
-Beispielsatz-Lesung: 今日[きょう]はずいぶん 暖[あたた]かい。
-Beispielsatz-Übersetzung: Es ist heute ziemlich warm.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日はずいぶん暖かい。
+  今日[きょう]はずいぶん 暖[あたた]かい。
+  Es ist heute ziemlich warm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

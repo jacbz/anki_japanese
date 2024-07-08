@@ -1,13 +1,24 @@
 Rang: 2382
 Lemma: 二ヶ月
 Lesung: にかげつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwei Monate
-Beispielsatz: 二ヶ月間出張に出かける。
-Beispielsatz-Lesung: 二ヶ月[にかげつ] 間[かん] 出張[しゅっちょう]に 出[で]かける。
-Beispielsatz-Übersetzung: Ich werde für zwei Monate auf Geschäftsreise gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二ヶ月間出張に出かける。
+  二ヶ月[にかげつ] 間[かん] 出張[しゅっちょう]に 出[で]かける。
+  Ich werde für zwei Monate auf Geschäftsreise gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

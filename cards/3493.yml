@@ -1,13 +1,24 @@
 Rang: 3493
 Lemma: シンプル
-Lesung: シンプル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: einfach
-Beispielsatz: シンプルなデザインの家具を買った。
-Beispielsatz-Lesung: シンプルなデザインの 家具[かぐ]を 買[か]った。
-Beispielsatz-Übersetzung: Ich habe Möbel mit einem einfachen Design gekauft.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  シンプルなデザインの家具を買った。
+  シンプルなデザインの 家具[かぐ]を 買[か]った。
+  Ich habe Möbel mit einem einfachen Design gekauft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 1741
 Lemma: 出発
 Lesung: しゅっぱつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: abfahren; losgehen
 Extra: （する）
 Wortart: n. v.
-Definition: abfahren; losgehen
-Beispielsatz: このバスは何時に出発するんですか。
-Beispielsatz-Lesung: このバスは 何[なん] 時[じ]に 出発[しゅっぱつ]するんですか。
-Beispielsatz-Übersetzung: Um wie viel Uhr fährt dieser Bus ab?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">っ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ぱ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このバスは何時に出発するんですか。
+  このバスは 何[なん] 時[じ]に 出発[しゅっぱつ]するんですか。
+  Um wie viel Uhr fährt dieser Bus ab?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

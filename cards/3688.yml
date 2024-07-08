@@ -1,13 +1,24 @@
 Rang: 3688
 Lemma: 幕府
 Lesung: ばくふ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Shogunat
-Beispielsatz: 徳川幕府は本拠地を江戸（東京）に置いた。
-Beispielsatz-Lesung: 徳川幕府[とくがわばくふ]は 本拠地[ほんきょち]を 江戸[えど]（ 東京[とうきょう]）に 置[お]いた。
-Beispielsatz-Übersetzung: Das Tokugawa-Shogunat hatte seinen Sitz in Edo (Tokio).
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  徳川幕府は本拠地を江戸（東京）に置いた。
+  徳川幕府[とくがわばくふ]は 本拠地[ほんきょち]を 江戸[えど]（ 東京[とうきょう]）に 置[お]いた。
+  Das Tokugawa-Shogunat hatte seinen Sitz in Edo (Tokio).
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

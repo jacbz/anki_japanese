@@ -1,13 +1,24 @@
 Rang: 4730
 Lemma: くわえる
-Lesung: くわえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: halten, greifen
-Beispielsatz: 彼はタバコをくわえながら新聞を読んでいた。
-Beispielsatz-Lesung: 彼[かれ]はタバコをくわえながら 新聞[しんぶん]を 読[よ]んでいた。
-Beispielsatz-Übersetzung: Er hielt eine Zigarette und las eine Zeitung.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はタバコをくわえながら新聞を読んでいた。
+  彼[かれ]はタバコをくわえながら 新聞[しんぶん]を 読[よ]んでいた。
+  Er hielt eine Zigarette und las eine Zeitung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

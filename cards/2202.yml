@@ -1,13 +1,24 @@
 Rang: 2202
 Lemma: 使い方
 Lesung: つかいかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Verwendungsweise
-Beispielsatz: 新しい携帯電話の使い方がわからない。
-Beispielsatz-Lesung: 新[あたら]しい 携帯電話[けいたいでんわ]の 使[つか]い 方[かた]がわからない。
-Beispielsatz-Übersetzung: Ich weiß nicht, wie ich mein neues Handy verwenden soll.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい携帯電話の使い方がわからない。
+  新[あたら]しい 携帯電話[けいたいでんわ]の 使[つか]い 方[かた]がわからない。
+  Ich weiß nicht, wie ich mein neues Handy verwenden soll.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

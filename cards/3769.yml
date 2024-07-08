@@ -1,13 +1,24 @@
 Rang: 3769
 Lemma: にぎやか
-Lesung: にぎやか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: lebhaft, belebt
-Beispielsatz: ここは町で一番にぎやかな通りだ。
-Beispielsatz-Lesung: ここは 町[まち]で 一番[いちばん]にぎやかな 通[とお]りだ。
-Beispielsatz-Übersetzung: Dies ist die belebteste Straße in der Stadt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここは町で一番にぎやかな通りだ。
+  ここは 町[まち]で 一番[いちばん]にぎやかな 通[とお]りだ。
+  Dies ist die belebteste Straße in der Stadt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

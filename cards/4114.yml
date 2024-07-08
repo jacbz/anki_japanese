@@ -1,13 +1,28 @@
 Rang: 4114
 Lemma: 養う
 Lesung: やしなう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aufziehen, halten, unterstützen
-Beispielsatz: 彼は大家族を養っている。
-Beispielsatz-Lesung: 彼[かれ]は 大家族[だいかぞく]を 養[やしな]っている。
-Beispielsatz-Übersetzung: Er hat eine große Familie zu unterstützen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は大家族を養っている。
+  彼[かれ]は 大家族[だいかぞく]を 養[やしな]っている。
+  Er hat eine große Familie zu unterstützen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

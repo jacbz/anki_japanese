@@ -1,13 +1,28 @@
 Rang: 1152
 Lemma: 目標
 Lesung: もくひょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ziel, Zielsetzung, Zielvorgabe
-Beispielsatz: 毎年正月にその年の目標を決める。
-Beispielsatz-Lesung: 毎年[まいとし] 正月[しょうがつ]にその 年[とし]の 目標[もくひょう]を 決[き]める。
-Beispielsatz-Übersetzung: Ich setze mir jedes Jahr zu Neujahr Ziele für das neue Jahr.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ひ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎年正月にその年の目標を決める。
+  毎年[まいとし] 正月[しょうがつ]にその 年[とし]の 目標[もくひょう]を 決[き]める。
+  Ich setze mir jedes Jahr zu Neujahr Ziele für das neue Jahr.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

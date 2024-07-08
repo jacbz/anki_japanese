@@ -1,13 +1,26 @@
 Rang: 1489
 Lemma: 土
 Lesung: つち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Boden
-Beispielsatz: 植木鉢に新しい土を入れた。
-Beispielsatz-Lesung: 植木鉢[うえきばち]に 新[あたら]しい 土[ど]を 入[い]れた。
-Beispielsatz-Übersetzung: Ich habe neue Erde in den Blumentopf gegeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  植木鉢に新しい土を入れた。
+  植木鉢[うえきばち]に 新[あたら]しい 土[ど]を 入[い]れた。
+  Ich habe neue Erde in den Blumentopf gegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

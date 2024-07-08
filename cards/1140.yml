@@ -1,13 +1,26 @@
 Rang: 1140
 Lemma: 腰
 Lesung: こし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Rücken, unterer Rücken, Taille, Hüfte
-Beispielsatz: 腰をひねって左足を上げて。
-Beispielsatz-Lesung: 腰[こし]をひねって 左足[ひだりあし]を 上[あ]げて。
-Beispielsatz-Übersetzung: Verdrehe deine Taille und hebe dein linkes Bein an.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  腰をひねって左足を上げて。
+  腰[こし]をひねって 左足[ひだりあし]を 上[あ]げて。
+  Verdrehe deine Taille und hebe dein linkes Bein an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

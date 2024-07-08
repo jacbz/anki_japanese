@@ -1,13 +1,24 @@
 Rang: 1405
 Lemma: ナイフ
-Lesung: ナイフ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Messer
-Beispielsatz: 男性がナイフで刺されました。
-Beispielsatz-Lesung: 男性[だんせい]がナイフで 刺[さ]されました。
-Beispielsatz-Übersetzung: Ein Mann wurde mit einem Messer erstochen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  男性がナイフで刺されました。
+  男性[だんせい]がナイフで 刺[さ]されました。
+  Ein Mann wurde mit einem Messer erstochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

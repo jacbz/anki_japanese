@@ -1,13 +1,24 @@
 Rang: 2930
 Lemma: 関係者
 Lesung: かんけいしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Beteiligte Person
-Beispielsatz: 関係者以外は立入禁止である。
-Beispielsatz-Lesung: 関係者[かんけいしゃ] 以外[いがい]は 立入禁止[たちいりきんし]である。
-Beispielsatz-Übersetzung: Unbefugtes Betreten verboten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  関係者以外は立入禁止である。
+  関係者[かんけいしゃ] 以外[いがい]は 立入禁止[たちいりきんし]である。
+  Unbefugtes Betreten verboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

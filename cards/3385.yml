@@ -1,13 +1,24 @@
 Rang: 3385
 Lemma: 古く
 Lesung: ふるく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. adv.
+Alternativschreibweisen: ''
 Definition: in alten Zeiten; antik
-Beispielsatz: この寺は古くからここにある。
-Beispielsatz-Lesung: この 寺[てら]は 古[ふる]くからここにある。
-Beispielsatz-Übersetzung: Dieser Tempel war in antiken Zeiten hier.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この寺は古くからここにある。
+  この 寺[てら]は 古[ふる]くからここにある。
+  Dieser Tempel war in antiken Zeiten hier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

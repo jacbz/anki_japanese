@@ -1,13 +1,26 @@
 Rang: 1614
 Lemma: 無駄
 Lesung: むだ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n.
+Alternativschreibweisen: ''
 Definition: nutzlos; Verschwendung
-Beispielsatz: 彼に頼んでも無駄だ。
-Beispielsatz-Lesung: 彼[かれ]に 頼[たの]んでも 無駄[むだ]だ。
-Beispielsatz-Übersetzung: Es ist vergeblich, ihn zu bitten.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">だ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼に頼んでも無駄だ。
+  彼[かれ]に 頼[たの]んでも 無駄[むだ]だ。
+  Es ist vergeblich, ihn zu bitten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

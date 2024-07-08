@@ -1,13 +1,24 @@
 Rang: 791
 Lemma: 具体的
 Lesung: ぐたいてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: konkret
-Beispielsatz: 彼は具体的な例を挙げた。
-Beispielsatz-Lesung: 彼[かれ]は 具体的[ぐたいてき]な 例[れい]を 挙[あ]げた。
-Beispielsatz-Übersetzung: Er gab ein konkretes Beispiel.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は具体的な例を挙げた。
+  彼[かれ]は 具体的[ぐたいてき]な 例[れい]を 挙[あ]げた。
+  Er gab ein konkretes Beispiel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4702
 Lemma: ズボン
-Lesung: ズボン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Hose
-Beispielsatz: 今日は寒いのでスボンを履いた。
-Beispielsatz-Lesung: 今日[きょう]は 寒[さむ]いのでスボンを 履[は]いた。
-Beispielsatz-Übersetzung: Da es heute kalt ist, habe ich eine Hose angezogen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日は寒いのでスボンを履いた。
+  今日[きょう]は 寒[さむ]いのでスボンを 履[は]いた。
+  Da es heute kalt ist, habe ich eine Hose angezogen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

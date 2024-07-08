@@ -1,13 +1,27 @@
 Rang: 2362
 Lemma: 親子
 Lesung: おやこ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Eltern und Kinder
-Beispielsatz: 親子で公園に出かける。
-Beispielsatz-Lesung: 親子[おやこ]で 公園[こうえん]に 出[で]かける。
-Beispielsatz-Übersetzung: Die Eltern und Kinder werden in den Park gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">お</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">や</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">こ</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  親子で公園に出かける。
+  親子[おやこ]で 公園[こうえん]に 出[で]かける。
+  Die Eltern und Kinder werden in den Park gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

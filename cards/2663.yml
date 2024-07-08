@@ -1,13 +1,24 @@
 Rang: 2663
 Lemma: 結果的
 Lesung: けっかてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: Ergebnis
-Beispielsatz: 結果的に、みんなその案に賛成した。
-Beispielsatz-Lesung: 結果的[けっかてき]に、みんなその 案[あん]に 賛成[さんせい]した。
-Beispielsatz-Übersetzung: Als Ergebnis stimmten alle dem Vorschlag zu.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結果的に、みんなその案に賛成した。
+  結果的[けっかてき]に、みんなその 案[あん]に 賛成[さんせい]した。
+  Als Ergebnis stimmten alle dem Vorschlag zu.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

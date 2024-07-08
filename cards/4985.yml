@@ -1,13 +1,24 @@
 Rang: 4985
 Lemma: 二日目
 Lesung: ふつかめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zweiter Tag
-Beispielsatz: プログラムの二日目は大変よかった。
-Beispielsatz-Lesung: プログラムの二 日[にち] 目[め]は 大変[たいへん]よかった。
-Beispielsatz-Übersetzung: Der zweite Tag des Programms war sehr gut.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  プログラムの二日目は大変よかった。
+  プログラムの二 日[にち] 目[め]は 大変[たいへん]よかった。
+  Der zweite Tag des Programms war sehr gut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

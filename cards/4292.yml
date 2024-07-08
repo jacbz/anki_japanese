@@ -1,13 +1,24 @@
 Rang: 4292
 Lemma: 効率的
 Lesung: こうりつてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: effizient
-Beispielsatz: 勉強は効率的にしなければならない。
-Beispielsatz-Lesung: 勉強[べんきょう]は 効率的[こうりつてき]にしなければならない。
-Beispielsatz-Übersetzung: Sie sollten auf effiziente Weise lernen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '59'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  勉強は効率的にしなければならない。
+  勉強[べんきょう]は 効率的[こうりつてき]にしなければならない。
+  Sie sollten auf effiziente Weise lernen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

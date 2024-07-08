@@ -1,13 +1,24 @@
 Rang: 4097
 Lemma: ヒント
-Lesung: ヒント
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Hinweis
-Beispielsatz: 彼にヒントを与えた。
-Beispielsatz-Lesung: 彼[かれ]にヒントを 与[あた]えた。
-Beispielsatz-Übersetzung: Ich gab ihm einen Hinweis.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼にヒントを与えた。
+  彼[かれ]にヒントを 与[あた]えた。
+  Ich gab ihm einen Hinweis.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

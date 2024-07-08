@@ -1,13 +1,27 @@
 Rang: 2161
 Lemma: 作家
 Lesung: さっか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schriftsteller/in
-Beispielsatz: 彼女は有名な作家です。
-Beispielsatz-Lesung: 彼女[かのじょ]は 有名[ゆうめい]な 作家[さっか]です。
-Beispielsatz-Übersetzung: Sie ist eine berühmte Schriftstellerin.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は有名な作家です。
+  彼女[かのじょ]は 有名[ゆうめい]な 作家[さっか]です。
+  Sie ist eine berühmte Schriftstellerin.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

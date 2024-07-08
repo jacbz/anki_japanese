@@ -1,13 +1,24 @@
 Rang: 4278
 Lemma: 炭
 Lesung: すみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Holzkohle
-Beispielsatz: 彼は山で竹を焼いて炭を作った。
-Beispielsatz-Lesung: 彼[かれ]は 山[やま]で 竹[たけ]を 焼[や]いて 炭[すみ]を 作[つく]った。
-Beispielsatz-Übersetzung: Er verbrannte Bambus, um Holzkohle in den Bergen herzustellen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は山で竹を焼いて炭を作った。
+  彼[かれ]は 山[やま]で 竹[たけ]を 焼[や]いて 炭[すみ]を 作[つく]った。
+  Er verbrannte Bambus, um Holzkohle in den Bergen herzustellen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

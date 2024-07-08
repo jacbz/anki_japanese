@@ -1,13 +1,26 @@
 Rang: 3641
 Lemma: 食
 Lesung: しょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mahlzeit, Ernährung
-Beispielsatz: 彼女は食が細い。
-Beispielsatz-Lesung: 彼女[かのじょ]は 食[しょく]が 細[ほそ]い。
-Beispielsatz-Übersetzung: Sie isst sehr wenig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は食が細い。
+  彼女[かのじょ]は 食[しょく]が 細[ほそ]い。
+  Sie isst sehr wenig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

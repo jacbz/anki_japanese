@@ -1,13 +1,27 @@
 Rang: 4024
 Lemma: 依存
 Lesung: いぞん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Abhängigkeit, Verlässlichkeit; abhängen, sich verlassen auf
 Extra: （する）
 Wortart: n. v.
-Definition: Abhängigkeit, Verlässlichkeit; abhängen, sich verlassen auf
-Beispielsatz: 彼女の助けに依存できない。
-Beispielsatz-Lesung: 彼女[かのじょ]の 助[たす]けに 依存[いぞん]できない。
-Beispielsatz-Übersetzung: Man kann sich nicht auf ihre Hilfe verlassen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の助けに依存できない。
+  彼女[かのじょ]の 助[たす]けに 依存[いぞん]できない。
+  Man kann sich nicht auf ihre Hilfe verlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

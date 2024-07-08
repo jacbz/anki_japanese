@@ -1,13 +1,27 @@
 Rang: 2493
 Lemma: 鏡
 Lesung: かがみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Spiegel
-Beispielsatz: 彼女は毎日鏡を見る。
-Beispielsatz-Lesung: 彼女[かのじょ]は 毎日[まいにち] 鏡[きょう]を 見[み]る。
-Beispielsatz-Übersetzung: Sie schaut jeden Tag in den Spiegel.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は毎日鏡を見る。
+  彼女[かのじょ]は 毎日[まいにち] 鏡[きょう]を 見[み]る。
+  Sie schaut jeden Tag in den Spiegel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

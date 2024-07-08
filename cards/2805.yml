@@ -1,13 +1,24 @@
 Rang: 2805
 Lemma: ソ連
 Lesung: それん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sowjetunion
-Beispielsatz: ソ連の崩壊に皆驚いた。
-Beispielsatz-Lesung: ソ 連[れん]の 崩壊[ほうかい]に 皆[みな] 驚[おどろ]いた。
-Beispielsatz-Übersetzung: Jeder war überrascht über den Zusammenbruch der Sowjetunion.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '64'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ソ連の崩壊に皆驚いた。
+  ソ 連[れん]の 崩壊[ほうかい]に 皆[みな] 驚[おどろ]いた。
+  Jeder war überrascht über den Zusammenbruch der Sowjetunion.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

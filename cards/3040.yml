@@ -1,13 +1,27 @@
 Rang: 3040
 Lemma: 動作
 Lesung: どうさ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bewegung, Betrieb; betreiben
 Extra: （する）
 Wortart: n. v.
-Definition: Bewegung, Betrieb; betreiben
-Beispielsatz: パソコンの動作が遅くなった。
-Beispielsatz-Lesung: パソコンの 動作[どうさ]が 遅[おそ]くなった。
-Beispielsatz-Übersetzung: Der PC lief langsam.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ど</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">さ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パソコンの動作が遅くなった。
+  パソコンの 動作[どうさ]が 遅[おそ]くなった。
+  Der PC lief langsam.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

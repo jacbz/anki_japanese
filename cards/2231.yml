@@ -1,14 +1,24 @@
 Rang: 2231
 Lemma: あらかじめ
-Lesung: あらかじめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: im Voraus
-Beispielsatz: そのイベントに参加する場合は、あらかじめ私に知らせてください。
-Beispielsatz-Lesung: そのイベントに 参加[さんか]する 場合[ばあい]は、あらかじめ 私[わたし]に 知[し]らせてください。
-Beispielsatz-Übersetzung: Bitte lassen Sie es mich im Voraus wissen, wenn Sie an der
-  Veranstaltung teilnehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのイベントに参加する場合は、あらかじめ私に知らせてください。
+  そのイベントに 参加[さんか]する 場合[ばあい]は、あらかじめ 私[わたし]に 知[し]らせてください。
+  Bitte lassen Sie es mich im Voraus wissen, wenn Sie an der Veranstaltung teilnehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

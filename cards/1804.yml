@@ -1,13 +1,29 @@
 Rang: 1804
 Lemma: 立ち上がる
 Lesung: たちあがる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aufstehen, sich erheben
-Beispielsatz: 彼女は突然立ち上がって行ってしまった。
-Beispielsatz-Lesung: 彼女[かのじょ]は 突然[とつぜん] 立[た]ち 上[あ]がって 行[い]ってしまった。
-Beispielsatz-Übersetzung: Sie stand plötzlich auf und ging weg.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は突然立ち上がって行ってしまった。
+  彼女[かのじょ]は 突然[とつぜん] 立[た]ち 上[あ]がって 行[い]ってしまった。
+  Sie stand plötzlich auf und ging weg.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

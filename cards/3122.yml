@@ -1,13 +1,24 @@
 Rang: 3122
 Lemma: 出品
 Lesung: しゅっぴん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: ausstellen / einreichen
 Extra: （する）
 Wortart: n. v.
-Definition: ausstellen / einreichen
-Beispielsatz: 私の絵がコンテストに出品されることになった。
-Beispielsatz-Lesung: 私[わたし]の 絵[え]がコンテストに 出品[しゅっぴん]されることになった。
-Beispielsatz-Übersetzung: Mein Gemälde wird beim Wettbewerb eingereicht.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '28'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の絵がコンテストに出品されることになった。
+  私[わたし]の 絵[え]がコンテストに 出品[しゅっぴん]されることになった。
+  Mein Gemälde wird beim Wettbewerb eingereicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4307
 Lemma: 三度
 Lesung: さんど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreimal
-Beispielsatz: 一日に三度の食事は大切だ。
-Beispielsatz-Lesung: 一 日[にち]に 三度[さんど]の 食事[しょくじ]は 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Es ist wichtig, drei Mahlzeiten am Tag einzunehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一日に三度の食事は大切だ。
+  一 日[にち]に 三度[さんど]の 食事[しょくじ]は 大切[たいせつ]だ。
+  Es ist wichtig, drei Mahlzeiten am Tag einzunehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4330
 Lemma: 二十一年
 Lesung: にじゅういちねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: einundzwanzig Jahre
-Beispielsatz: この家は築二十一年です。
-Beispielsatz-Lesung: この 家[いえ]は 築[ちく]二十一 年[ねん]です。
-Beispielsatz-Übersetzung: Dieses Haus ist einundzwanzig Jahre alt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '23'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この家は築二十一年です。
+  この 家[いえ]は 築[ちく]二十一 年[ねん]です。
+  Dieses Haus ist einundzwanzig Jahre alt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

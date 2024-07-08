@@ -1,13 +1,24 @@
 Rang: 360
 Lemma: てある
-Lesung: てある
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[beschreibt einen Zustand, der aus der Handlung einer Person resultiert]'
-Beispielsatz: このページに説明が書いてあります。
-Beispielsatz-Lesung: このページに 説明[せつめい]が 書[か]いてあります。
-Beispielsatz-Übersetzung: Die Erklärung ist auf dieser Seite geschrieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このページに説明が書いてあります。
+  このページに 説明[せつめい]が 書[か]いてあります。
+  Die Erklärung ist auf dieser Seite geschrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

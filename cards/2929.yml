@@ -1,13 +1,24 @@
 Rang: 2929
 Lemma: 十八
 Lesung: じゅうはち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: achtzehn
-Beispielsatz: 十八の国から参加者が集まった。
-Beispielsatz-Lesung: 十八の 国[くに]から 参加者[さんかしゃ]が 集[あつ]まった。
-Beispielsatz-Übersetzung: Die Teilnehmer kamen aus achtzehn Ländern zusammen.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十八の国から参加者が集まった。
+  十八の 国[くに]から 参加者[さんかしゃ]が 集[あつ]まった。
+  Die Teilnehmer kamen aus achtzehn Ländern zusammen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

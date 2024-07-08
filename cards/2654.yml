@@ -1,13 +1,24 @@
 Rang: 2654
 Lemma: スペイン
-Lesung: スペイン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Spanien
-Beispielsatz: スペイン料理が好きです。
-Beispielsatz-Lesung: スペイン 料理[りょうり]が 好[す]きです。
-Beispielsatz-Übersetzung: Ich mag spanisches Essen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  スペイン料理が好きです。
+  スペイン 料理[りょうり]が 好[す]きです。
+  Ich mag spanisches Essen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

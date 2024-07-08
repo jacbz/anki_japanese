@@ -1,13 +1,24 @@
 Rang: 150
 Lemma: まず
-Lesung: まず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: zunächst; zuerst
-Beispielsatz: まず、玉ねぎを炒め、次に肉を入れてください。
-Beispielsatz-Lesung: まず、 玉[たま]ねぎを 炒[いた]め、 次[つぎ]に 肉[にく]を 入[い]れてください。
-Beispielsatz-Übersetzung: Zunächst die Zwiebeln anbraten und dann das Fleisch hinzufügen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まず、玉ねぎを炒め、次に肉を入れてください。
+  まず、 玉[たま]ねぎを 炒[いた]め、 次[つぎ]に 肉[にく]を 入[い]れてください。
+  Zunächst die Zwiebeln anbraten und dann das Fleisch hinzufügen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

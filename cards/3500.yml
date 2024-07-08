@@ -1,13 +1,24 @@
 Rang: 3500
 Lemma: 転換
 Lesung: てんかん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Umwandlung; umwandeln, ändern
 Extra: （する）
 Wortart: n. v.
-Definition: Umwandlung; umwandeln, ändern
-Beispielsatz: その車は方向を転換した。
-Beispielsatz-Lesung: その 車[くるま]は 方向[ほうこう]を 転換[てんかん]した。
-Beispielsatz-Übersetzung: Das Auto hat die Richtung geändert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その車は方向を転換した。
+  その 車[くるま]は 方向[ほうこう]を 転換[てんかん]した。
+  Das Auto hat die Richtung geändert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

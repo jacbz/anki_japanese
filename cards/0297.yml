@@ -1,13 +1,24 @@
 Rang: 297
 Lemma: なかなか
-Lesung: なかなか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ziemlich, recht; (nicht) leicht
-Beispielsatz: 彼はなかなかテニスが上手い。
-Beispielsatz-Lesung: 彼[かれ]はなかなかテニスが 上手[うま]い。
-Beispielsatz-Übersetzung: Er spielt ziemlich gut Tennis.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はなかなかテニスが上手い。
+  彼[かれ]はなかなかテニスが 上手[うま]い。
+  Er spielt ziemlich gut Tennis.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4072
 Lemma: 違和感
 Lesung: いわかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: unangenehmes Gefühl
-Beispielsatz: 右腕に違和感を感じた。
-Beispielsatz-Lesung: 右腕[うわん]に 違和感[いわかん]を 感[かん]じた。
-Beispielsatz-Übersetzung: Ich spürte Unbehagen in meinem rechten Arm.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  右腕に違和感を感じた。
+  右腕[うわん]に 違和感[いわかん]を 感[かん]じた。
+  Ich spürte Unbehagen in meinem rechten Arm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

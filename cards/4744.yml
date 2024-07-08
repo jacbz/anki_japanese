@@ -1,14 +1,24 @@
 Rang: 4744
 Lemma: 投入
 Lesung: とうにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einwurf, Investition; werfen, investieren
 Extra: （する）
 Wortart: n. v.
-Definition: Einwurf, Investition; werfen, investieren
-Beispielsatz: 失点のために新しい投手が投入された。
-Beispielsatz-Lesung: 失点[しってん]のために 新[あたら]しい 投手[とうしゅ]が 投入[とうにゅう]された。
-Beispielsatz-Übersetzung: Ein neuer Werfer wurde eingesetzt, weil der vorherige dem
-  gegnerischen Team Punkte geschenkt hat.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  失点のために新しい投手が投入された。
+  失点[しってん]のために 新[あたら]しい 投手[とうしゅ]が 投入[とうにゅう]された。
+  Ein neuer Werfer wurde eingesetzt, weil der vorherige dem gegnerischen Team Punkte geschenkt hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

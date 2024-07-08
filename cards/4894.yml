@@ -1,14 +1,24 @@
 Rang: 4894
 Lemma: 魔法
 Lesung: まほう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Magie
-Beispielsatz: この化粧品を使うと、魔法のようにきれいになれます。
-Beispielsatz-Lesung: この 化粧品[けしょうひん]を 使[つか]うと、 魔法[まほう]のようにきれいになれます。
-Beispielsatz-Übersetzung: Wenn Sie diese Kosmetika verwenden, können Sie wie von Zauberhand
-  schön werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この化粧品を使うと、魔法のようにきれいになれます。
+  この 化粧品[けしょうひん]を 使[つか]うと、 魔法[まほう]のようにきれいになれます。
+  Wenn Sie diese Kosmetika verwenden, können Sie wie von Zauberhand schön werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

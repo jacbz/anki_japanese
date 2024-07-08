@@ -1,13 +1,26 @@
 Rang: 3175
 Lemma: 編む
 Lesung: あむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: stricken, flechten
-Beispielsatz: 母がセーターを編んでくれた。
-Beispielsatz-Lesung: 母[はは]がセーターを 編[あ]んでくれた。
-Beispielsatz-Übersetzung: Meine Mutter hat mir einen Pullover gestrickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">あ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">む</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母がセーターを編んでくれた。
+  母[はは]がセーターを 編[あ]んでくれた。
+  Meine Mutter hat mir einen Pullover gestrickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

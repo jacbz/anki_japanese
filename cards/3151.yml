@@ -1,14 +1,28 @@
 Rang: 3151
 Lemma: 論文
 Lesung: ろんぶん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Aufsatz, These, Papier, Dissertation
-Beispielsatz: 年内にこの論文を書き上げたい。
-Beispielsatz-Lesung: 年内[ねんない]にこの 論文[ろんぶん]を 書[か]き 上[あ]げたい。
-Beispielsatz-Übersetzung: Ich möchte bis zum Ende des Jahres dieses Papier fertig
-  schreiben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  年内にこの論文を書き上げたい。
+  年内[ねんない]にこの 論文[ろんぶん]を 書[か]き 上[あ]げたい。
+  Ich möchte bis zum Ende des Jahres dieses Papier fertig schreiben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

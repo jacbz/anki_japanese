@@ -1,13 +1,28 @@
 Rang: 1849
 Lemma: 到着
 Lesung: とうちゃく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Ankunft
 Extra: （する）
 Wortart: n. v.
-Definition: Ankunft
-Beispielsatz: 飛行機は時間通りに到着した。
-Beispielsatz-Lesung: 飛行機[ひこうき]は 時間通[じかんどお]りに 到着[とうちゃく]した。
-Beispielsatz-Übersetzung: Das Flugzeug ist pünktlich angekommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span><span class="char">ゃ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  飛行機は時間通りに到着した。
+  飛行機[ひこうき]は 時間通[じかんどお]りに 到着[とうちゃく]した。
+  Das Flugzeug ist pünktlich angekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

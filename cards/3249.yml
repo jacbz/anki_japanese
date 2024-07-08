@@ -1,14 +1,24 @@
 Rang: 3249
 Lemma: 一台
 Lesung: いちだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: eine (Maschine/Fahrzeug)
-Beispielsatz: 田舎では一人一台車を持っていることも珍しくない。
-Beispielsatz-Lesung: 田舎[いなか]では一人一 台車[だいしゃ]を 持[も]っていることも 珍[めずら]しくない。
-Beispielsatz-Übersetzung: Auf dem Lande ist es nicht ungewöhnlich, dass jeder ein
-  Auto hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  田舎では一人一台車を持っていることも珍しくない。
+  田舎[いなか]では一人一 台車[だいしゃ]を 持[も]っていることも 珍[めずら]しくない。
+  Auf dem Lande ist es nicht ungewöhnlich, dass jeder ein Auto hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

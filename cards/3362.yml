@@ -1,13 +1,24 @@
 Rang: 3362
 Lemma: ラッキー
-Lesung: ラッキー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: glücklich
-Beispielsatz: 雨が降らなかったのはラッキーだった。
-Beispielsatz-Lesung: 雨[あめ]が 降[ふ]らなかったのはラッキーだった。
-Beispielsatz-Übersetzung: Es war glücklich, dass es nicht geregnet hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雨が降らなかったのはラッキーだった。
+  雨[あめ]が 降[ふ]らなかったのはラッキーだった。
+  Es war glücklich, dass es nicht geregnet hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

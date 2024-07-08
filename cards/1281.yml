@@ -1,13 +1,24 @@
 Rang: 1281
 Lemma: 豊か
 Lesung: ゆたか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: reichlich, reich, üppig
-Beispielsatz: 私の故郷は緑の豊かな所です。
-Beispielsatz-Lesung: 私[わたし]の 故郷[こきょう]は 緑[みどり]の 豊[ゆた]かな 所[ところ]です。
-Beispielsatz-Übersetzung: Meine Heimatstadt ist reich an Grün.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の故郷は緑の豊かな所です。
+  私[わたし]の 故郷[こきょう]は 緑[みどり]の 豊[ゆた]かな 所[ところ]です。
+  Meine Heimatstadt ist reich an Grün.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

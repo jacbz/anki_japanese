@@ -1,13 +1,24 @@
 Rang: 3349
 Lemma: アーティスト
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Künstler
-Beispielsatz: これは著名なアーティストの作品だ。
-Beispielsatz-Lesung: これは 著名[ちょめい]なアーティストの 作品[さくひん]だ。
-Beispielsatz-Übersetzung: Dies ist ein Werk eines bekannten Künstlers.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは著名なアーティストの作品だ。
+  これは 著名[ちょめい]なアーティストの 作品[さくひん]だ。
+  Dies ist ein Werk eines bekannten Künstlers.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3369
 Lemma: 策定
 Lesung: さくてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: festlegen; festlegen
 Extra: （する）
 Wortart: n. v.
-Definition: festlegen; festlegen
-Beispielsatz: 現在、基本計画の策定を進めている。
-Beispielsatz-Lesung: 現在[げんざい]、 基本計画[きほんけいかく]の 策定[さくてい]を 進[すす]めている。
-Beispielsatz-Übersetzung: Wir legen jetzt den Grundplan fest.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  現在、基本計画の策定を進めている。
+  現在[げんざい]、 基本計画[きほんけいかく]の 策定[さくてい]を 進[すす]めている。
+  Wir legen jetzt den Grundplan fest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

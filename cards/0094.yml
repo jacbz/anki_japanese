@@ -1,13 +1,24 @@
 Rang: 94
 Lemma: へ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
+Alternativschreibweisen: ''
 Definition: ZIEL
-Beispielsatz: 明日、大阪へ行きます。
-Beispielsatz-Lesung: 明日[あした]、 大阪[おおさか]へ 行[い]きます。
-Beispielsatz-Übersetzung: Ich werde morgen nach Osaka gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日、大阪へ行きます。
+  明日[あした]、 大阪[おおさか]へ 行[い]きます。
+  Ich werde morgen nach Osaka gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

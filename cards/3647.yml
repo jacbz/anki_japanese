@@ -1,13 +1,24 @@
 Rang: 3647
 Lemma: インタビュー
-Lesung: インタビュー
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Interview
 Extra: （する）
 Wortart: n., v.
-Definition: Interview
-Beispielsatz: 大統領が記者のインタビューに答えた。
-Beispielsatz-Lesung: 大統領[だいとうりょう]が 記者[きしゃ]のインタビューに 答[こた]えた。
-Beispielsatz-Übersetzung: Der Präsident beantwortete Fragen in einem Presseinterview.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大統領が記者のインタビューに答えた。
+  大統領[だいとうりょう]が 記者[きしゃ]のインタビューに 答[こた]えた。
+  Der Präsident beantwortete Fragen in einem Presseinterview.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

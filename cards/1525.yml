@@ -1,13 +1,24 @@
 Rang: 1525
 Lemma: 少なくとも
 Lesung: すくなくとも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: mindestens
-Beispielsatz: 少なくとも毎月一冊は本を読む。
-Beispielsatz-Lesung: 少[すく]なくとも 毎月[まいつき]一 冊[さつ]は 本[ほん]を 読[よ]む。
-Beispielsatz-Übersetzung: Ich lese mindestens ein Buch pro Monat.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  少なくとも毎月一冊は本を読む。
+  少[すく]なくとも 毎月[まいつき]一 冊[さつ]は 本[ほん]を 読[よ]む。
+  Ich lese mindestens ein Buch pro Monat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1885
 Lemma: 規制
 Lesung: きせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Regulierung
 Extra: （する）
 Wortart: n. v.
-Definition: Regulierung
-Beispielsatz: マラソン大会のため、交通が規制される。
-Beispielsatz-Lesung: マラソン 大会[たいかい]のため、 交通[こうつう]が 規制[きせい]される。
-Beispielsatz-Übersetzung: Traffic wird aufgrund des Marathons eingeschränkt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  マラソン大会のため、交通が規制される。
+  マラソン 大会[たいかい]のため、 交通[こうつう]が 規制[きせい]される。
+  Traffic wird aufgrund des Marathons eingeschränkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

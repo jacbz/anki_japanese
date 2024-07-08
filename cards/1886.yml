@@ -1,14 +1,26 @@
 Rang: 1886
 Lemma: もの
-Lesung: もの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: weil
-Beispielsatz: 「どうしてパーティーに行かないの。」「だって、忙しいもの。」
-Beispielsatz-Lesung: 「どうしてパーティーに 行[い]かないの。」「だって、 忙[いそが]しいもの。」
-Beispielsatz-Übersetzung: „Wieso gehst du nicht zur Party?“ „Naja, ich habe viel zu
-  tun.“
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">の</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「どうしてパーティーに行かないの。」「だって、忙しいもの。」
+  「どうしてパーティーに 行[い]かないの。」「だって、 忙[いそが]しいもの。」
+  „Wieso gehst du nicht zur Party?“ „Naja, ich habe viel zu tun.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

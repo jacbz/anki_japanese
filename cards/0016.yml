@@ -1,13 +1,24 @@
 Rang: 16
-Lemma: という<br>つう
+Lemma: という
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: つう
 Definition: namens
-Beispielsatz: 太郎という男の子を知っていますか。
-Beispielsatz-Lesung: 太郎[たろう]という 男[おとこ]の 子[こ]を 知[し]っていますか。
-Beispielsatz-Übersetzung: Kennst du einen Jungen namens Taro?
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  太郎という男の子を知っていますか。
+  太郎[たろう]という 男[おとこ]の 子[こ]を 知[し]っていますか。
+  Kennst du einen Jungen namens Taro?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

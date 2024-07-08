@@ -1,13 +1,26 @@
 Rang: 3067
 Lemma: 越す
 Lesung: こす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: überqueren, passieren
-Beispielsatz: この鳥は毎年この地方で冬を越す。
-Beispielsatz-Lesung: この 鳥[とり]は 毎年[まいとし]この 地方[ちほう]で 冬[ふゆ]を 越[こ]す。
-Beispielsatz-Übersetzung: Diese Vögel überqueren jedes Jahr den Winter in diesem Bezirk.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この鳥は毎年この地方で冬を越す。
+  この 鳥[とり]は 毎年[まいとし]この 地方[ちほう]で 冬[ふゆ]を 越[こ]す。
+  Diese Vögel überqueren jedes Jahr den Winter in diesem Bezirk.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

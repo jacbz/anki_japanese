@@ -1,13 +1,28 @@
 Rang: 833
 Lemma: 特徴
 Lesung: とくちょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Merkmal, Eigenschaft
-Beispielsatz: この大学にはいくつかの特徴がある。
-Beispielsatz-Lesung: この 大学[だいがく]にはいくつかの 特徴[とくちょう]がある。
-Beispielsatz-Übersetzung: Diese Universität hat mehrere markante Merkmale.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この大学にはいくつかの特徴がある。
+  この 大学[だいがく]にはいくつかの 特徴[とくちょう]がある。
+  Diese Universität hat mehrere markante Merkmale.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

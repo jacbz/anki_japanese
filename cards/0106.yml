@@ -1,13 +1,24 @@
 Rang: 106
 Lemma: ておる
-Lesung: ておる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: FORTSETZUNG (höflich)
-Beispielsatz: お返事をお待ちしております。
-Beispielsatz-Lesung: お 返事[へんじ]をお 待[ま]ちしております。
-Beispielsatz-Übersetzung: Ich freue mich darauf, bald von Ihnen zu hören.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Verwaltungssprache
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お返事をお待ちしております。
+  お 返事[へんじ]をお 待[ま]ちしております。
+  Ich freue mich darauf, bald von Ihnen zu hören.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

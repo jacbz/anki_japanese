@@ -1,13 +1,24 @@
 Rang: 2927
 Lemma: 実践
 Lesung: じっせん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Praxis
 Extra: （する）
 Wortart: n., v.
-Definition: Praxis
-Beispielsatz: 実践を通して技術を学んだ。
-Beispielsatz-Lesung: 実践[じっせん]を 通[とお]して 技術[ぎじゅつ]を 学[まな]んだ。
-Beispielsatz-Übersetzung: Ich habe die Technik durch Praxis gelernt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  実践を通して技術を学んだ。
+  実践[じっせん]を 通[とお]して 技術[ぎじゅつ]を 学[まな]んだ。
+  Ich habe die Technik durch Praxis gelernt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

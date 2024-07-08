@@ -1,13 +1,24 @@
 Rang: 4425
 Lemma: カップ
-Lesung: カップ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Tasse
-Beispielsatz: 朝食用のカップを二つ買った。
-Beispielsatz-Lesung: 朝食[ちょうしょく] 用[よう]のカップを 二[ふた]つ 買[か]った。
-Beispielsatz-Übersetzung: Ich habe zwei Frühstückstassen gekauft。
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  朝食用のカップを二つ買った。
+  朝食[ちょうしょく] 用[よう]のカップを 二[ふた]つ 買[か]った。
+  Ich habe zwei Frühstückstassen gekauft。
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

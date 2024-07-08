@@ -1,14 +1,24 @@
 Rang: 3557
 Lemma: 保護者
 Lesung: ほごしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schutzperson
-Beispielsatz: 未成年者の参加には、保護者の同意が必要である。
-Beispielsatz-Lesung: 未成年者[みせいねんしゃ]の 参加[さんか]には、 保護者[ほごしゃ]の 同意[どうい]が 必要[ひつよう]である。
-Beispielsatz-Übersetzung: Für die Teilnahme von Minderjährigen ist die Zustimmung
-  der Eltern erforderlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '45'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  未成年者の参加には、保護者の同意が必要である。
+  未成年者[みせいねんしゃ]の 参加[さんか]には、 保護者[ほごしゃ]の 同意[どうい]が 必要[ひつよう]である。
+  Für die Teilnahme von Minderjährigen ist die Zustimmung der Eltern erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

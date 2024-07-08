@@ -1,13 +1,27 @@
 Rang: 2503
 Lemma: 委員
 Lesung: いいん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ausschussmitglied; Ratsherr
-Beispielsatz: みんな彼を委員に選んだ。
-Beispielsatz-Lesung: みんな 彼[かれ]を 委員[いいん]に 選[えら]んだ。
-Beispielsatz-Übersetzung: Jeder hat ihn als Ausschussmitglied ausgewählt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ↗Verwaltungssprache
+Dispersion: '28'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  みんな彼を委員に選んだ。
+  みんな 彼[かれ]を 委員[いいん]に 選[えら]んだ。
+  Jeder hat ihn als Ausschussmitglied ausgewählt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 3347
 Lemma: 放置
 Lesung: ほうち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: etwas unberührt lassen, vernachlässigen
 Extra: （する）
 Wortart: n. v.
-Definition: etwas unberührt lassen, vernachlässigen
-Beispielsatz: 治療しないでそのまま放置した。
-Beispielsatz-Lesung: 治療[ちりょう]しないでそのまま 放置[ほうち]した。
-Beispielsatz-Übersetzung: Ich habe keine medizinische Behandlung durchgeführt und
-  die Dinge ihrem Lauf überlassen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  治療しないでそのまま放置した。
+  治療[ちりょう]しないでそのまま 放置[ほうち]した。
+  Ich habe keine medizinische Behandlung durchgeführt und die Dinge ihrem Lauf überlassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

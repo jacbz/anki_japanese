@@ -1,13 +1,24 @@
 Rang: 216
 Lemma: 特に
 Lesung: とくに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: besonders, insbesondere
-Beispielsatz: コーヒーの中でも特に濃いコーヒーが好きです。
-Beispielsatz-Lesung: コーヒーの 中[なか]でも 特[とく]に 濃[こ]いコーヒーが 好[す]きです。
-Beispielsatz-Übersetzung: Ich mag Kaffee, besonders starken Kaffee.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コーヒーの中でも特に濃いコーヒーが好きです。
+  コーヒーの 中[なか]でも 特[とく]に 濃[こ]いコーヒーが 好[す]きです。
+  Ich mag Kaffee, besonders starken Kaffee.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

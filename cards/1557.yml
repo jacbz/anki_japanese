@@ -1,13 +1,24 @@
 Rang: 1557
 Lemma: なんら
-Lesung: なんら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: irgendwelche
-Beispielsatz: この計画はなんら問題はない。
-Beispielsatz-Lesung: この 計画[けいかく]はなんら 問題[もんだい]はない。
-Beispielsatz-Übersetzung: Es könnte irgendwelche Probleme mit diesem Plan geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この計画はなんら問題はない。
+  この 計画[けいかく]はなんら 問題[もんだい]はない。
+  Es könnte irgendwelche Probleme mit diesem Plan geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

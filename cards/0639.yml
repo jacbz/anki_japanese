@@ -1,14 +1,24 @@
 Rang: 639
 Lemma: なお
-Lesung: なお
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mehr, noch
-Beispielsatz: この国の産業はなお発展の余地がある。
-Beispielsatz-Lesung: この 国[くに]の 産業[さんぎょう]はなお 発展[はってん]の 余地[よち]がある。
-Beispielsatz-Übersetzung: Es gibt noch Potenzial für die Entwicklung der Industrie
-  in diesem Land.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この国の産業はなお発展の余地がある。
+  この 国[くに]の 産業[さんぎょう]はなお 発展[はってん]の 余地[よち]がある。
+  Es gibt noch Potenzial für die Entwicklung der Industrie in diesem Land.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 4160
 Lemma: 法案
 Lesung: ほうあん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gesetzesentwurf
-Beispielsatz: 法案は国会を通過した。
-Beispielsatz-Lesung: 法案[ほうあん]は 国会[こっかい]を 通過[つうか]した。
-Beispielsatz-Übersetzung: Der Gesetzesentwurf wurde vom Parlament verabschiedet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '37'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  法案は国会を通過した。
+  法案[ほうあん]は 国会[こっかい]を 通過[つうか]した。
+  Der Gesetzesentwurf wurde vom Parlament verabschiedet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

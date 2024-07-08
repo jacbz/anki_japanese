@@ -1,13 +1,24 @@
 Rang: 2023
 Lemma: 輸入
 Lesung: ゆにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Import
 Extra: （する）
 Wortart: n., v.
-Definition: Import
-Beispielsatz: 日本はブラジルからコーヒーを輸入している。
-Beispielsatz-Lesung: 日本[にっぽん]はブラジルからコーヒーを 輸入[ゆにゅう]している。
-Beispielsatz-Übersetzung: Japan importiert Kaffee aus Brasilien.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本はブラジルからコーヒーを輸入している。
+  日本[にっぽん]はブラジルからコーヒーを 輸入[ゆにゅう]している。
+  Japan importiert Kaffee aus Brasilien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

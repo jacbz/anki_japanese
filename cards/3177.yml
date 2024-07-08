@@ -1,13 +1,24 @@
 Rang: 3177
 Lemma: 真っ赤
 Lesung: まっか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: knallrot; glühend
-Beispielsatz: 彼の顔が真っ赤になった。
-Beispielsatz-Lesung: 彼[かれ]の 顔[かお]が 真[ま]っ 赤[か]になった。
-Beispielsatz-Übersetzung: Sein Gesicht wurde knallrot.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の顔が真っ赤になった。
+  彼[かれ]の 顔[かお]が 真[ま]っ 赤[か]になった。
+  Sein Gesicht wurde knallrot.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 2080
 Lemma: 貸す
 Lesung: かす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verleihen, vermieten
-Beispielsatz: ペンを貸していただけますか。
-Beispielsatz-Lesung: ペンを 貸[か]していただけますか。
-Beispielsatz-Übersetzung: Könnten Sie mir bitte Ihren Stift leihen?
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ペンを貸していただけますか。
+  ペンを 貸[か]していただけますか。
+  Könnten Sie mir bitte Ihren Stift leihen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

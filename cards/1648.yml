@@ -1,14 +1,28 @@
 Rang: 1648
 Lemma: 翌日
 Lesung: よくじつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: nächster Tag
-Beispielsatz: カメラを買ったが、その翌日になくしてしまった。
-Beispielsatz-Lesung: カメラを 買[か]ったが、その 翌日[よくじつ]になくしてしまった。
-Beispielsatz-Übersetzung: Ich habe eine Kamera gekauft, die ich aber am nächsten Tag
-  verloren habe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カメラを買ったが、その翌日になくしてしまった。
+  カメラを 買[か]ったが、その 翌日[よくじつ]になくしてしまった。
+  Ich habe eine Kamera gekauft, die ich aber am nächsten Tag verloren habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

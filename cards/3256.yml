@@ -1,13 +1,28 @@
 Rang: 3256
 Lemma: 百円
 Lesung: ひゃくえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: 100 Yen
-Beispielsatz: 百円足りないので、貸してくれませんか。
-Beispielsatz-Lesung: 百[ひゃく] 円[えん] 足[た]りないので、 貸[か]してくれませんか。
-Beispielsatz-Übersetzung: Mir fehlen 100 Yen, können Sie es mir leihen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span><span class="char">ゃ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">え</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  百円足りないので、貸してくれませんか。
+  百[ひゃく] 円[えん] 足[た]りないので、 貸[か]してくれませんか。
+  Mir fehlen 100 Yen, können Sie es mir leihen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 616
 Lemma: いずれ
-Lesung: いずれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv. pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: irgendwann, früher oder später
-Beispielsatz: 真実はいずれわかるだろう。
-Beispielsatz-Lesung: 真実[しんじつ]はいずれわかるだろう。
-Beispielsatz-Übersetzung: Die Wahrheit wird früher oder später sowieso ans Licht kommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv. pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  真実はいずれわかるだろう。
+  真実[しんじつ]はいずれわかるだろう。
+  Die Wahrheit wird früher oder später sowieso ans Licht kommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4154
 Lemma: 寂しさ
 Lesung: さびしさ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Einsamkeit
-Beispielsatz: お酒で寂しさを紛らわした。
-Beispielsatz-Lesung: お 酒[さけ]で 寂[さび]しさを 紛[まぎ]らわした。
-Beispielsatz-Übersetzung: Ich trank meine Einsamkeit weg.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お酒で寂しさを紛らわした。
+  お 酒[さけ]で 寂[さび]しさを 紛[まぎ]らわした。
+  Ich trank meine Einsamkeit weg.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

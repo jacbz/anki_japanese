@@ -1,13 +1,24 @@
 Rang: 3048
 Lemma: 二十世紀
 Lesung: にじっせいき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwanzigstes Jahrhundert
-Beispielsatz: この戦争は二十世紀の初めに起きた。
-Beispielsatz-Lesung: この 戦争[せんそう]は 二十世紀[にじっせいき]の 初[はじ]めに 起[お]きた。
-Beispielsatz-Übersetzung: Dieser Krieg ereignete sich zu Beginn des zwanzigsten Jahrhunderts.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この戦争は二十世紀の初めに起きた。
+  この 戦争[せんそう]は 二十世紀[にじっせいき]の 初[はじ]めに 起[お]きた。
+  Dieser Krieg ereignete sich zu Beginn des zwanzigsten Jahrhunderts.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

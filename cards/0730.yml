@@ -1,13 +1,27 @@
 Rang: 730
 Lemma: 意識
 Lesung: いしき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bewusstsein
 Extra: （する）
 Wortart: n. v.
-Definition: Bewusstsein
-Beispielsatz: 人々の意識が変わった。
-Beispielsatz-Lesung: 人々[ひとびと]の 意識[いしき]が 変[か]わった。
-Beispielsatz-Übersetzung: Das Bewusstsein der Menschen hat sich verändert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人々の意識が変わった。
+  人々[ひとびと]の 意識[いしき]が 変[か]わった。
+  Das Bewusstsein der Menschen hat sich verändert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

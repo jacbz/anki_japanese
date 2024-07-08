@@ -1,13 +1,24 @@
 Rang: 2469
 Lemma: カレー
-Lesung: カレー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Curry
-Beispielsatz: カレーは私の好物だ。
-Beispielsatz-Lesung: カレーは 私[わたし]の 好物[こうぶつ]だ。
-Beispielsatz-Übersetzung: Curry ist mein Lieblingsessen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カレーは私の好物だ。
+  カレーは 私[わたし]の 好物[こうぶつ]だ。
+  Curry ist mein Lieblingsessen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

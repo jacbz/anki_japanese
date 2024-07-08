@@ -1,13 +1,27 @@
 Rang: 832
 Lemma: 殺す
 Lesung: ころす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: töten
-Beispielsatz: 多くの人々がテロリストによって殺された。
-Beispielsatz-Lesung: 多[おお]くの 人々[ひとびと]がテロリストによって 殺[ころ]された。
-Beispielsatz-Übersetzung: Viele Menschen wurden von einem Terroristen getötet.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くの人々がテロリストによって殺された。
+  多[おお]くの 人々[ひとびと]がテロリストによって 殺[ころ]された。
+  Viele Menschen wurden von einem Terroristen getötet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

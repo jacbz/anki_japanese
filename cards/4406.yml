@@ -1,13 +1,26 @@
 Rang: 4406
 Lemma: 群れ
 Lesung: むれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gruppe; Herde
-Beispielsatz: 牛の群れが牧場で草を食べていた。
-Beispielsatz-Lesung: 牛[うし]の 群[む]れが 牧場[ぼくじょう]で 草[くさ]を 食[た]べていた。
-Beispielsatz-Übersetzung: Eine Herde Kühe graste auf der Wiese.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  牛の群れが牧場で草を食べていた。
+  牛[うし]の 群[む]れが 牧場[ぼくじょう]で 草[くさ]を 食[た]べていた。
+  Eine Herde Kühe graste auf der Wiese.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

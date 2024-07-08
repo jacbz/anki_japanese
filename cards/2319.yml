@@ -1,13 +1,24 @@
 Rang: 2319
 Lemma: のんびり
-Lesung: のんびり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ruhig, gemütlich, gelassen
-Beispielsatz: のんびり休日を過ごした。
-Beispielsatz-Lesung: のんびり 休日[きゅうじつ]を 過[す]ごした。
-Beispielsatz-Übersetzung: Ich habe meinen Urlaub auf gemütliche Weise verbracht.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  のんびり休日を過ごした。
+  のんびり 休日[きゅうじつ]を 過[す]ごした。
+  Ich habe meinen Urlaub auf gemütliche Weise verbracht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

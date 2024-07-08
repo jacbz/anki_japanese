@@ -1,13 +1,24 @@
 Rang: 456
 Lemma: しかも
-Lesung: しかも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: außerdem, darüber hinaus
-Beispielsatz: その店の料理はおいしいし、しかも、安い。
-Beispielsatz-Lesung: その 店[みせ]の 料理[りょうり]はおいしいし、しかも、 安[やす]い。
-Beispielsatz-Übersetzung: Das Essen im Restaurant ist lecker; außerdem ist es günstig.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その店の料理はおいしいし、しかも、安い。
+  その 店[みせ]の 料理[りょうり]はおいしいし、しかも、 安[やす]い。
+  Das Essen im Restaurant ist lecker; außerdem ist es günstig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

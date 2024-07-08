@@ -1,13 +1,28 @@
 Rang: 404
 Lemma: に関する
 Lesung: にかんする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: sich mit etwas befassen, sich auf etwas beziehen
-Beispielsatz: これは宗教に関する本です。
-Beispielsatz-Lesung: これは 宗教[しゅうきょう]に 関[かん]する 本[ほん]です。
-Beispielsatz-Übersetzung: Dies ist ein Buch über Religion.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは宗教に関する本です。
+  これは 宗教[しゅうきょう]に 関[かん]する 本[ほん]です。
+  Dies ist ein Buch über Religion.
+
+  当社の製品に関するお問い合わせはメールにて受け付けております。
+  当社[とうしゃ]の 製品[せいひん]に 関[かん]するお 問[と]い 合[あ]わせはメールにて 受[う]け 付[つ]けております。
+  Für alle Fragen bezüglich unserer Produkte können Sie uns gerne per E-Mail kontaktieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

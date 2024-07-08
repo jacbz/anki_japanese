@@ -1,13 +1,24 @@
 Rang: 2090
 Lemma: カード
-Lesung: カード
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Karte
-Beispielsatz: カードで払ってもいいですか。
-Beispielsatz-Lesung: カードで 払[はら]ってもいいですか。
-Beispielsatz-Übersetzung: Kann ich mit Kreditkarte bezahlen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カードで払ってもいいですか。
+  カードで 払[はら]ってもいいですか。
+  Kann ich mit Kreditkarte bezahlen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

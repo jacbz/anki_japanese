@@ -1,13 +1,24 @@
 Rang: 3283
 Lemma: 気軽
 Lesung: きがる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: ungezwungen, frei fühlen
-Beispielsatz: 困った時は、気軽に連絡してください。
-Beispielsatz-Lesung: 困[こま]った 時[とき]は、 気軽[きがる]に 連絡[れんらく]してください。
-Beispielsatz-Übersetzung: Wenn Sie ein Problem haben, können Sie mich gerne kontaktieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  困った時は、気軽に連絡してください。
+  困[こま]った 時[とき]は、 気軽[きがる]に 連絡[れんらく]してください。
+  Wenn Sie ein Problem haben, können Sie mich gerne kontaktieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

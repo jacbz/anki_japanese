@@ -1,13 +1,32 @@
 Rang: 847
 Lemma: 一生懸命
 Lesung: いっしょうけんめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: hart, mit aller Kraft
-Beispielsatz: 彼は一生懸命働いている。
-Beispielsatz-Lesung: 彼[かれ]は 一生懸命[いっしょうけんめい] 働[はたら]いている。
-Beispielsatz-Übersetzung: Er arbeitet hart.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-8"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-7"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-6"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-5"><span class="inner"><span class="char">う</span></span></span><span class="accent_top
+  mola_-4"><span class="inner"><span class="char">け</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">め</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は一生懸命働いている。
+  彼[かれ]は 一生懸命[いっしょうけんめい] 働[はたら]いている。
+  Er arbeitet hart.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

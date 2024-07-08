@@ -1,13 +1,24 @@
 Rang: 1411
 Lemma: スーパー
-Lesung: スーパー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Supermarkt
-Beispielsatz: 毎日同じスーパーで買い物している。
-Beispielsatz-Lesung: 毎日[まいにち] 同[おな]じスーパーで 買[か]い 物[もの]している。
-Beispielsatz-Übersetzung: Ich kaufe jeden Tag im selben Supermarkt ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎日同じスーパーで買い物している。
+  毎日[まいにち] 同[おな]じスーパーで 買[か]い 物[もの]している。
+  Ich kaufe jeden Tag im selben Supermarkt ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

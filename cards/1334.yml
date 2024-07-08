@@ -1,13 +1,24 @@
 Rang: 1334
 Lemma: 成立
 Lesung: せいりつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Abschluss, Entstehung
 Extra: （する）
 Wortart: n. v.
-Definition: Abschluss, Entstehung
-Beispielsatz: 何年もの交渉の末、二人の離婚は成立した。
-Beispielsatz-Lesung: 何[なん] 年[ねん]もの 交渉[こうしょう]の 末[すえ]、二人の 離婚[りこん]は 成立[せいりつ]した。
-Beispielsatz-Übersetzung: Ihre Scheidung wurde nach jahrelangen Verhandlungen abgeschlossen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何年もの交渉の末、二人の離婚は成立した。
+  何[なん] 年[ねん]もの 交渉[こうしょう]の 末[すえ]、二人の 離婚[りこん]は 成立[せいりつ]した。
+  Ihre Scheidung wurde nach jahrelangen Verhandlungen abgeschlossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

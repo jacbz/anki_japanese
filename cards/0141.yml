@@ -1,13 +1,26 @@
 Rang: 141
 Lemma: ここ
-Lesung: ここ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: hier
-Beispielsatz: ここから彼の家まで一時間かかる。
-Beispielsatz-Lesung: ここから 彼[かれ]の 家[いえ]まで 一時[いちじ] 間[ま]かかる。
-Beispielsatz-Übersetzung: Es dauert eine Stunde von hier bis zu seinem Haus.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">こ</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここから彼の家まで一時間かかる。
+  ここから 彼[かれ]の 家[いえ]まで 一時[いちじ] 間[ま]かかる。
+  Es dauert eine Stunde von hier bis zu seinem Haus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

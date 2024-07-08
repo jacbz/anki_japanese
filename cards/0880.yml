@@ -1,13 +1,28 @@
 Rang: 880
 Lemma: 育てる
 Lesung: そだてる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aufziehen, trainieren, entwickeln
-Beispielsatz: 私は祖母に育てられました。
-Beispielsatz-Lesung: 私[わたし]は 祖母[そぼ]に 育[そだ]てられました。
-Beispielsatz-Übersetzung: Ich wurde von meiner Großmutter aufgezogen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は祖母に育てられました。
+  私[わたし]は 祖母[そぼ]に 育[そだ]てられました。
+  Ich wurde von meiner Großmutter aufgezogen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

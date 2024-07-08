@@ -1,13 +1,24 @@
 Rang: 4212
 Lemma: 持ち主
 Lesung: もちぬし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Besitzer
-Beispielsatz: この別荘の持ち主は誰ですか。
-Beispielsatz-Lesung: この 別荘[べっそう]の 持[も]ち 主[ぬし]は 誰[だれ]ですか。
-Beispielsatz-Übersetzung: Wer ist der Besitzer dieser Hütte?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この別荘の持ち主は誰ですか。
+  この 別荘[べっそう]の 持[も]ち 主[ぬし]は 誰[だれ]ですか。
+  Wer ist der Besitzer dieser Hütte?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 3251
 Lemma: 酸素
 Lesung: さんそ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sauerstoff
-Beispielsatz: 有酸素運動は体にいい。
-Beispielsatz-Lesung: 有酸素運動[ゆうさんそうんどう]は 体[からだ]にいい。
-Beispielsatz-Übersetzung: Aerobic-Übungen sind gut für die Gesundheit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">そ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  有酸素運動は体にいい。
+  有酸素運動[ゆうさんそうんどう]は 体[からだ]にいい。
+  Aerobic-Übungen sind gut für die Gesundheit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

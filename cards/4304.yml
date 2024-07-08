@@ -1,13 +1,24 @@
 Rang: 4304
 Lemma: 転ずる
 Lesung: てんずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: wechseln, verschieben
-Beispielsatz: 責任を私に転ずるのはやめてください。
-Beispielsatz-Lesung: 責任[せきにん]を 私[わたし]に 転[てん]ずるのはやめてください。
-Beispielsatz-Übersetzung: Hören Sie auf, die Verantwortung auf mich zu verschieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  責任を私に転ずるのはやめてください。
+  責任[せきにん]を 私[わたし]に 転[てん]ずるのはやめてください。
+  Hören Sie auf, die Verantwortung auf mich zu verschieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

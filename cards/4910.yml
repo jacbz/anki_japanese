@@ -1,13 +1,24 @@
 Rang: 4910
 Lemma: ボーリング
-Lesung: ボーリング
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Bowling
-Beispielsatz: 日曜日にボーリングに行こう。
-Beispielsatz-Lesung: 日曜日[にちようび]にボーリングに 行[い]こう。
-Beispielsatz-Übersetzung: Lass uns am Sonntag Bowling spielen gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日曜日にボーリングに行こう。
+  日曜日[にちようび]にボーリングに 行[い]こう。
+  Lass uns am Sonntag Bowling spielen gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

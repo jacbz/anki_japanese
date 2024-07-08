@@ -1,13 +1,24 @@
 Rang: 4047
 Lemma: 余談
 Lesung: よだん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Abschweifung
-Beispielsatz: 余談だが、彼の名前は長い。
-Beispielsatz-Lesung: 余談[よだん]だが、 彼[かれ]の 名前[なまえ]は 長[なが]い。
-Beispielsatz-Übersetzung: Übrigens, er hat einen langen Namen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  余談だが、彼の名前は長い。
+  余談[よだん]だが、 彼[かれ]の 名前[なまえ]は 長[なが]い。
+  Übrigens, er hat einen langen Namen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

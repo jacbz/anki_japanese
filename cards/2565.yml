@@ -1,14 +1,24 @@
 Rang: 2565
 Lemma: 世界的
 Lesung: せかいてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: weltweit, global
-Beispielsatz: 世界的に有名なピアニストのコンサートへ行く。
-Beispielsatz-Lesung: 世界的[せかいてき]に 有名[ゆうめい]なピアニストのコンサートへ 行[い]く。
-Beispielsatz-Übersetzung: Ich werde zu einem Konzert eines weltberühmten Pianisten
-  gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界的に有名なピアニストのコンサートへ行く。
+  世界的[せかいてき]に 有名[ゆうめい]なピアニストのコンサートへ 行[い]く。
+  Ich werde zu einem Konzert eines weltberühmten Pianisten gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

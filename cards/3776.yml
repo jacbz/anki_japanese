@@ -1,14 +1,24 @@
 Rang: 3776
 Lemma: 現に
 Lesung: げんに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: tatsächlich, in der Tat
-Beispielsatz: 現に汚染は隣接県まで拡大している。
-Beispielsatz-Lesung: 現[げん]に 汚染[おせん]は 隣接県[りんせつけん]まで 拡大[かくだい]している。
-Beispielsatz-Übersetzung: Tatsächlich hat sich die Verschmutzung auf benachbarte Präfekturen
-  ausgebreitet.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  現に汚染は隣接県まで拡大している。
+  現[げん]に 汚染[おせん]は 隣接県[りんせつけん]まで 拡大[かくだい]している。
+  Tatsächlich hat sich die Verschmutzung auf benachbarte Präfekturen ausgebreitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2720
 Lemma: といっても
-Lesung: といっても
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: obwohl
-Beispielsatz: 祝日といっても、特に特別なことはない。
-Beispielsatz-Lesung: 祝日[しゅくじつ]といっても、 特[とく]に 特別[とくべつ]なことはない。
-Beispielsatz-Übersetzung: Obwohl es ein Feiertag ist, gibt es nichts Besonderes.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祝日といっても、特に特別なことはない。
+  祝日[しゅくじつ]といっても、 特[とく]に 特別[とくべつ]なことはない。
+  Obwohl es ein Feiertag ist, gibt es nichts Besonderes.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

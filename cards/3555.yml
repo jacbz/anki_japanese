@@ -1,14 +1,27 @@
 Rang: 3555
 Lemma: 加工
 Lesung: かこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: verarbeiten; Verarbeitung
 Extra: （する）
 Wortart: n. v.
-Definition: verarbeiten; Verarbeitung
-Beispielsatz: この製品は特殊な加工が施されている。
-Beispielsatz-Lesung: この 製品[せいひん]は 特殊[とくしゅ]な 加工[かこう]が 施[ほどこ]されている。
-Beispielsatz-Übersetzung: Dieses Produkt wird durch einen einzigartigen Verarbeitungsprozess
-  hergestellt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この製品は特殊な加工が施されている。
+  この 製品[せいひん]は 特殊[とくしゅ]な 加工[かこう]が 施[ほどこ]されている。
+  Dieses Produkt wird durch einen einzigartigen Verarbeitungsprozess hergestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

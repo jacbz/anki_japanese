@@ -1,13 +1,27 @@
 Rang: 294
 Lemma: 女性
 Lesung: じょせい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Frau; weiblich
-Beispielsatz: 男性より女性のほうが長生きする。
-Beispielsatz-Lesung: 男性[だんせい]より 女性[じょせい]のほうが 長生[ながい]きする。
-Beispielsatz-Übersetzung: Frauen leben länger als Männer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">じ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">せ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  男性より女性のほうが長生きする。
+  男性[だんせい]より 女性[じょせい]のほうが 長生[ながい]きする。
+  Frauen leben länger als Männer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

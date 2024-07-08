@@ -1,13 +1,24 @@
 Rang: 4662
 Lemma: 眠り
 Lesung: ねむり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schlaf
-Beispielsatz: 昨夜は眠りが足りなかった。
-Beispielsatz-Lesung: 昨夜[さくや]は 眠[ねむ]りが 足[た]りなかった。
-Beispielsatz-Übersetzung: Ich habe letzte Nacht nicht genug geschlafen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨夜は眠りが足りなかった。
+  昨夜[さくや]は 眠[ねむ]りが 足[た]りなかった。
+  Ich habe letzte Nacht nicht genug geschlafen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

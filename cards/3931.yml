@@ -1,13 +1,28 @@
 Rang: 3931
 Lemma: 解明
 Lesung: かいめい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Aufklärung / Klärung; lösen
 Extra: （する）
 Wortart: n. v.
-Definition: Aufklärung / Klärung; lösen
-Beispielsatz: 私達は謎を解明しなければならない。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は 謎[なぞ]を 解明[かいめい]しなければならない。
-Beispielsatz-Übersetzung: Wir müssen ein Rätsel lösen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は謎を解明しなければならない。
+  私[わたし] 達[たち]は 謎[なぞ]を 解明[かいめい]しなければならない。
+  Wir müssen ein Rätsel lösen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

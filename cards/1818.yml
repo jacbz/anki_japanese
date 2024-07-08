@@ -1,13 +1,27 @@
 Rang: 1818
 Lemma: 一気
 Lesung: いっき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: auf einmal, in einem Zug
-Beispielsatz: 彼女は水を一気に飲み干した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 水[みず]を 一気[いっき]に 飲[の]み 干[ほ]した。
-Beispielsatz-Übersetzung: Sie trank ein Glas Wasser auf einmal aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">っ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は水を一気に飲み干した。
+  彼女[かのじょ]は 水[みず]を 一気[いっき]に 飲[の]み 干[ほ]した。
+  Sie trank ein Glas Wasser auf einmal aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

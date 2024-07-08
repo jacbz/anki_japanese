@@ -1,13 +1,28 @@
 Rang: 2861
 Lemma: 細胞
 Lesung: さいぼう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zelle
-Beispielsatz: 人間の体はたくさんの細胞でできている。
-Beispielsatz-Lesung: 人間[にんげん]の 体[からだ]はたくさんの 細胞[さいぼう]でできている。
-Beispielsatz-Übersetzung: Der menschliche Körper setzt sich aus vielen Zellen zusammen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人間の体はたくさんの細胞でできている。
+  人間[にんげん]の 体[からだ]はたくさんの 細胞[さいぼう]でできている。
+  Der menschliche Körper setzt sich aus vielen Zellen zusammen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

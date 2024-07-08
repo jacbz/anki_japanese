@@ -1,13 +1,24 @@
 Rang: 1961
 Lemma: ごめんなさい
-Lesung: ごめんなさい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Es tut mir leid, Entschuldigung
-Beispielsatz: 遅くなってごめんなさい。
-Beispielsatz-Lesung: 遅[おそ]くなってごめんなさい。
-Beispielsatz-Übersetzung: Es tut mir leid, dass ich zu spät bin.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  遅くなってごめんなさい。
+  遅[おそ]くなってごめんなさい。
+  Es tut mir leid, dass ich zu spät bin.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

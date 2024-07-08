@@ -1,14 +1,24 @@
 Rang: 206
 Lemma: かなり
-Lesung: かなり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: beträchtlich, ziemlich
-Beispielsatz: 今度の彼の作品は、前回のものとかなり違う。
-Beispielsatz-Lesung: 今度[こんど]の 彼[かれ]の 作品[さくひん]は、 前回[ぜんかい]のものとかなり 違[ちが]う。
-Beispielsatz-Übersetzung: Sein Werk dieses Mal unterscheidet sich ziemlich von dem
-  letzten Mal.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今度の彼の作品は、前回のものとかなり違う。
+  今度[こんど]の 彼[かれ]の 作品[さくひん]は、 前回[ぜんかい]のものとかなり 違[ちが]う。
+  Sein Werk dieses Mal unterscheidet sich ziemlich von dem letzten Mal.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

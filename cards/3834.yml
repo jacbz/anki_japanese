@@ -1,13 +1,27 @@
 Rang: 3834
 Lemma: 思考
 Lesung: しこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: denken
 Extra: （する）
 Wortart: n. v.
-Definition: denken
-Beispielsatz: 彼は柔軟な思考の持ち主だ。
-Beispielsatz-Lesung: 彼[かれ]は 柔軟[じゅうなん]な 思考[しこう]の 持[も]ち 主[ぬし]だ。
-Beispielsatz-Übersetzung: Er hat flexible Ideen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は柔軟な思考の持ち主だ。
+  彼[かれ]は 柔軟[じゅうなん]な 思考[しこう]の 持[も]ち 主[ぬし]だ。
+  Er hat flexible Ideen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3030
 Lemma: パパ
-Lesung: パパ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Papa, Vater
-Beispielsatz: うちのパパは優しい。
-Beispielsatz-Lesung: うちのパパは 優[やさ]しい。
-Beispielsatz-Übersetzung: Mein Vater ist freundlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  うちのパパは優しい。
+  うちのパパは 優[やさ]しい。
+  Mein Vater ist freundlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

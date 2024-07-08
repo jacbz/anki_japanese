@@ -1,13 +1,26 @@
 Rang: 4362
 Lemma: 眉
 Lesung: まゆ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Augenbraue
-Beispielsatz: 彼は眉をしかめて考えた。
-Beispielsatz-Lesung: 彼[かれ]は 眉[まゆ]をしかめて 考[かんが]えた。
-Beispielsatz-Übersetzung: Er runzelte die Stirn und dachte nach.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ま</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ゆ</span></span></span></span>
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は眉をしかめて考えた。
+  彼[かれ]は 眉[まゆ]をしかめて 考[かんが]えた。
+  Er runzelte die Stirn und dachte nach.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

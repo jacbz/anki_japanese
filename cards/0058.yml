@@ -1,13 +1,26 @@
 Rang: 58
 Lemma: 人
 Lesung: ひと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Person, Mensch
-Beispielsatz: その歌手は若い人に人気がある。
-Beispielsatz-Lesung: その 歌手[かしゅ]は 若[わか]い人に 人気[にんき]がある。
-Beispielsatz-Übersetzung: Dieser Sänger ist bei jungen Menschen beliebt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">と</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その歌手は若い人に人気がある。
+  その 歌手[かしゅ]は 若[わか]い人に 人気[にんき]がある。
+  Dieser Sänger ist bei jungen Menschen beliebt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

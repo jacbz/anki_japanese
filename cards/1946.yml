@@ -1,13 +1,24 @@
 Rang: 1946
 Lemma: 大量
 Lesung: たいりょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., na-adj.
+Alternativschreibweisen: ''
 Definition: große Menge, viel
-Beispielsatz: 日本は大量の魚を消費する。
-Beispielsatz-Lesung: 日本[にっぽん]は 大量[たいりょう]の 魚[さかな]を 消費[しょうひ]する。
-Beispielsatz-Übersetzung: Japan konsumiert eine große Menge an Fisch.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本は大量の魚を消費する。
+  日本[にっぽん]は 大量[たいりょう]の 魚[さかな]を 消費[しょうひ]する。
+  Japan konsumiert eine große Menge an Fisch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

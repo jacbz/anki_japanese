@@ -1,13 +1,24 @@
 Rang: 1177
 Lemma: チェック
-Lesung: チェック
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Kontrolle, Überprüfung
 Extra: （する）
 Wortart: n., v.
-Definition: Kontrolle, Überprüfung
-Beispielsatz: リストの中の自分の名前をチェックしてください。
-Beispielsatz-Lesung: リストの 中[なか]の 自分[じぶん]の 名前[なまえ]をチェックしてください。
-Beispielsatz-Übersetzung: Bitte überprüfen Sie Ihren Namen auf der Liste.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  リストの中の自分の名前をチェックしてください。
+  リストの 中[なか]の 自分[じぶん]の 名前[なまえ]をチェックしてください。
+  Bitte überprüfen Sie Ihren Namen auf der Liste.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

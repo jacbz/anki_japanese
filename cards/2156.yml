@@ -1,13 +1,26 @@
 Rang: 2156
 Lemma: 江戸
 Lesung: えど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Edo
-Beispielsatz: 東京は昔、江戸と呼ばれていた。
-Beispielsatz-Lesung: 東京[とうきょう]は 昔[むかし]、 江戸[えど]と 呼[よ]ばれていた。
-Beispielsatz-Übersetzung: In der Vergangenheit hieß Tokio Edo.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ど</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東京は昔、江戸と呼ばれていた。
+  東京[とうきょう]は 昔[むかし]、 江戸[えど]と 呼[よ]ばれていた。
+  In der Vergangenheit hieß Tokio Edo.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

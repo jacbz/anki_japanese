@@ -1,13 +1,24 @@
 Rang: 3920
 Lemma: 偉大
 Lesung: いだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: großartig, bedeutend
-Beispielsatz: 彼は偉大な音楽家だ。
-Beispielsatz-Lesung: 彼[かれ]は 偉大[いだい]な 音楽家[おんがくか]だ。
-Beispielsatz-Übersetzung: Er ist ein bedeutender Musiker.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は偉大な音楽家だ。
+  彼[かれ]は 偉大[いだい]な 音楽家[おんがくか]だ。
+  Er ist ein bedeutender Musiker.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

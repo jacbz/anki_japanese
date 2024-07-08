@@ -1,13 +1,29 @@
 Rang: 4094
 Lemma: 切り替える
 Lesung: きりかえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: umschalten, wechseln
-Beispielsatz: 明かりを赤から緑に切り替えた。
-Beispielsatz-Lesung: 明[あ]かりを 赤[あか]から 緑[みどり]に 切[き]り 替[か]えた。
-Beispielsatz-Übersetzung: Die Lichter wechselten von Rot auf Grün.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明かりを赤から緑に切り替えた。
+  明[あ]かりを 赤[あか]から 緑[みどり]に 切[き]り 替[か]えた。
+  Die Lichter wechselten von Rot auf Grün.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

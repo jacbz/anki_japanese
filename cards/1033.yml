@@ -1,14 +1,28 @@
 Rang: 1033
 Lemma: ご存じ
 Lesung: ごぞんじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wissen (ehrfürchtig)
-Beispielsatz: ご存じのように日本語には文字が三種類あります。
-Beispielsatz-Lesung: ご 存[ぞん]じのように 日本語[にほんご]には 文字[もじ]が三 種類[しゅるい]あります。
-Beispielsatz-Übersetzung: Wie Sie vielleicht wissen, gibt es drei verschiedene Arten
-  von japanischen Schriftzeichen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ご</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ご存じのように日本語には文字が三種類あります。
+  ご 存[ぞん]じのように 日本語[にほんご]には 文字[もじ]が三 種類[しゅるい]あります。
+  Wie Sie vielleicht wissen, gibt es drei verschiedene Arten von japanischen Schriftzeichen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

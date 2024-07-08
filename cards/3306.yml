@@ -1,13 +1,25 @@
 Rang: 3306
 Lemma: 酢
 Lesung: す
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Essig
-Beispielsatz: この料理には酢が少し入っている。
-Beispielsatz-Lesung: この 料理[りょうり]には 酢[す]が 少[すこ]し 入[はい]っている。
-Beispielsatz-Übersetzung: In diesem Gericht ist ein wenig Essig enthalten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この料理には酢が少し入っている。
+  この 料理[りょうり]には 酢[す]が 少[すこ]し 入[はい]っている。
+  In diesem Gericht ist ein wenig Essig enthalten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

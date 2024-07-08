@@ -1,13 +1,28 @@
 Rang: 2061
 Lemma: 注文
 Lesung: ちゅうもん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bestellung
 Extra: （する）
 Wortart: n. v.
-Definition: Bestellung
-Beispielsatz: 私はコーヒーを三つ注文した。
-Beispielsatz-Lesung: 私[わたし]はコーヒーを 三[みっ]つ 注文[ちゅうもん]した。
-Beispielsatz-Übersetzung: Ich habe drei Kaffees bestellt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ち</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">も</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はコーヒーを三つ注文した。
+  私[わたし]はコーヒーを 三[みっ]つ 注文[ちゅうもん]した。
+  Ich habe drei Kaffees bestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

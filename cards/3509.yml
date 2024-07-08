@@ -1,13 +1,24 @@
 Rang: 3509
 Lemma: 振るう
 Lesung: ふるう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: florieren, gedeihen
-Beispielsatz: インフルエンザが猛威を振るっている。
-Beispielsatz-Lesung: インフルエンザが 猛威[もうい]を 振[ふ]るっている。
-Beispielsatz-Übersetzung: Die Influenza breitet sich wie ein Lauffeuer aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  インフルエンザが猛威を振るっている。
+  インフルエンザが 猛威[もうい]を 振[ふ]るっている。
+  Die Influenza breitet sich wie ein Lauffeuer aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

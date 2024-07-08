@@ -1,13 +1,28 @@
 Rang: 1542
 Lemma: 広げる
 Lesung: ひろげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ausbreiten, erweitern
-Beispielsatz: 彼女は机に新聞を広げた。
-Beispielsatz-Lesung: 彼女[かのじょ]は 机[つくえ]に 新聞[しんぶん]を 広[ひろ]げた。
-Beispielsatz-Übersetzung: Sie breitete eine Zeitung auf dem Schreibtisch aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は机に新聞を広げた。
+  彼女[かのじょ]は 机[つくえ]に 新聞[しんぶん]を 広[ひろ]げた。
+  Sie breitete eine Zeitung auf dem Schreibtisch aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

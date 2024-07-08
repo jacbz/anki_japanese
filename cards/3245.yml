@@ -1,14 +1,24 @@
 Rang: 3245
 Lemma: 島
 Lesung: とう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Insel
-Beispielsatz: ハワイ島のホテルに一週間滞在した。
-Beispielsatz-Lesung: ハワイ 島[とう]のホテルに 一週間[いっしゅうかん] 滞在[たいざい]した。
-Beispielsatz-Übersetzung: Ich habe eine Woche lang in einem Hotel auf der Insel Hawaii
-  übernachtet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ハワイ島のホテルに一週間滞在した。
+  ハワイ 島[とう]のホテルに 一週間[いっしゅうかん] 滞在[たいざい]した。
+  Ich habe eine Woche lang in einem Hotel auf der Insel Hawaii übernachtet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

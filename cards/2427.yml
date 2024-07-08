@@ -1,13 +1,28 @@
 Rang: 2427
 Lemma: 解消
 Lesung: かいしょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Stornierung, Annullierung
 Extra: （する）
 Wortart: n.
-Definition: Stornierung, Annullierung
-Beispielsatz: ストレスを解消するには、スポーツするのが効果的だ。
-Beispielsatz-Lesung: ストレスを 解消[かいしょう]するには、スポーツするのが 効果的[こうかてき]だ。
-Beispielsatz-Übersetzung: Sport treiben ist eine effektive Methode, um Stress abzubauen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ストレスを解消するには、スポーツするのが効果的だ。
+  ストレスを 解消[かいしょう]するには、スポーツするのが 効果的[こうかてき]だ。
+  Sport treiben ist eine effektive Methode, um Stress abzubauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

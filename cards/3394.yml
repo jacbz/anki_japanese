@@ -1,13 +1,24 @@
 Rang: 3394
 Lemma: 前述
 Lesung: ぜんじゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: obenerwähnt
 Extra: （する）
 Wortart: n., v.
-Definition: obenerwähnt
-Beispielsatz: その原因は前述の通りだ。
-Beispielsatz-Lesung: その 原因[げんいん]は 前述[ぜんじゅつ]の 通[とお]りだ。
-Beispielsatz-Übersetzung: Die Ursache ist wie oben erwähnt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その原因は前述の通りだ。
+  その 原因[げんいん]は 前述[ぜんじゅつ]の 通[とお]りだ。
+  Die Ursache ist wie oben erwähnt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

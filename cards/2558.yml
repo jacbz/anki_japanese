@@ -1,13 +1,26 @@
 Rang: 2558
 Lemma: 開く
 Lesung: あく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: öffnen
-Beispielsatz: 突然、ドアが開いた。
-Beispielsatz-Lesung: 突然[とつぜん]、ドアが 開[ひら]いた。
-Beispielsatz-Übersetzung: Plötzlich öffnete sich die Tür.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ↗Gesprochen
+Dispersion: '18'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  突然、ドアが開いた。
+  突然[とつぜん]、ドアが 開[ひら]いた。
+  Plötzlich öffnete sich die Tür.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

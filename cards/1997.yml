@@ -1,13 +1,24 @@
 Rang: 1997
 Lemma: タクシー
-Lesung: タクシー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Taxi
-Beispielsatz: タクシーで病院に行った。
-Beispielsatz-Lesung: タクシーで 病院[びょういん]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin mit dem Taxi ins Krankenhaus gefahren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  タクシーで病院に行った。
+  タクシーで 病院[びょういん]に 行[い]った。
+  Ich bin mit dem Taxi ins Krankenhaus gefahren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

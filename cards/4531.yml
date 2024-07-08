@@ -1,13 +1,24 @@
 Rang: 4531
 Lemma: オーブン
-Lesung: オーブン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Ofen
-Beispielsatz: オーブンでケーキを焼いた。
-Beispielsatz-Lesung: オーブンでケーキを 焼[や]いた。
-Beispielsatz-Übersetzung: Ich habe einen Kuchen im Ofen gebacken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  オーブンでケーキを焼いた。
+  オーブンでケーキを 焼[や]いた。
+  Ich habe einen Kuchen im Ofen gebacken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

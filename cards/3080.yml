@@ -1,13 +1,27 @@
 Rang: 3080
 Lemma: 神戸
 Lesung: こうべ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kobe
-Beispielsatz: 小さい頃、神戸に住んでいた。
-Beispielsatz-Lesung: 小[ちい]さい 頃[ころ]、 神戸[こうべ]に 住[す]んでいた。
-Beispielsatz-Übersetzung: Als ich ein Kind war, lebte ich in Kobe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">べ</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  小さい頃、神戸に住んでいた。
+  小[ちい]さい 頃[ころ]、 神戸[こうべ]に 住[す]んでいた。
+  Als ich ein Kind war, lebte ich in Kobe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

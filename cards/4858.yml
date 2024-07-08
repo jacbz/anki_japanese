@@ -1,13 +1,24 @@
 Rang: 4858
 Lemma: 里
 Lesung: さと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dorf, Landschaft, Elternhaus
-Beispielsatz: 妻は里に帰っている。
-Beispielsatz-Lesung: 妻[つま]は 里[さと]に 帰[かえ]っている。
-Beispielsatz-Übersetzung: Meine Frau ist bei ihren Eltern zu Hause.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  妻は里に帰っている。
+  妻[つま]は 里[さと]に 帰[かえ]っている。
+  Meine Frau ist bei ihren Eltern zu Hause.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

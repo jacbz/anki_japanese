@@ -1,13 +1,26 @@
 Rang: 4374
 Lemma: 核
 Lesung: かく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kern
-Beispielsatz: 我が国は核の持ち込みを禁止しています。
-Beispielsatz-Lesung: 我[わ]が 国[くに]は 核[かく]の 持[も]ち 込[こ]みを 禁止[きんし]しています。
-Beispielsatz-Übersetzung: Die Einfuhr von Atomwaffen in unser Land ist verboten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我が国は核の持ち込みを禁止しています。
+  我[わ]が 国[くに]は 核[かく]の 持[も]ち 込[こ]みを 禁止[きんし]しています。
+  Die Einfuhr von Atomwaffen in unser Land ist verboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

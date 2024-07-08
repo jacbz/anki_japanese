@@ -1,14 +1,27 @@
 Rang: 4891
 Lemma: 契機
 Lesung: けいき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Momentum; Gelegenheit, Chance
-Beispielsatz: 父は退職を契機に料理を始めた。
-Beispielsatz-Lesung: 父[ちち]は 退職[たいしょく]を 契機[けいき]に 料理[りょうり]を 始[はじ]めた。
-Beispielsatz-Übersetzung: Mein Vater hat die Gelegenheit des Ruhestands genutzt, um
-  mit dem Kochen zu beginnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">け</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父は退職を契機に料理を始めた。
+  父[ちち]は 退職[たいしょく]を 契機[けいき]に 料理[りょうり]を 始[はじ]めた。
+  Mein Vater hat die Gelegenheit des Ruhestands genutzt, um mit dem Kochen zu beginnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

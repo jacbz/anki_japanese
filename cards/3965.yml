@@ -1,13 +1,24 @@
 Rang: 3965
 Lemma: 全国的
 Lesung: ぜんこくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: landesweit
-Beispielsatz: そのニュースは全国的に放送された。
-Beispielsatz-Lesung: そのニュースは 全国的[ぜんこくてき]に 放送[ほうそう]された。
-Beispielsatz-Übersetzung: Die Nachricht wurde landesweit ausgestrahlt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのニュースは全国的に放送された。
+  そのニュースは 全国的[ぜんこくてき]に 放送[ほうそう]された。
+  Die Nachricht wurde landesweit ausgestrahlt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

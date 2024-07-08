@@ -1,13 +1,24 @@
 Rang: 3529
 Lemma: 合宿
 Lesung: がっしゅく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Trainingslager; gemeinsam in einem Lager bleiben
 Extra: （する）
 Wortart: n. v.
-Definition: Trainingslager; gemeinsam in einem Lager bleiben
-Beispielsatz: この夏はクラブの合宿に参加する予定だ。
-Beispielsatz-Lesung: この 夏[なつ]はクラブの 合宿[がっしゅく]に 参加[さんか]する 予定[よてい]だ。
-Beispielsatz-Übersetzung: Ich plane, diesen Sommer am Trainingslager des Clubs teilzunehmen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この夏はクラブの合宿に参加する予定だ。
+  この 夏[なつ]はクラブの 合宿[がっしゅく]に 参加[さんか]する 予定[よてい]だ。
+  Ich plane, diesen Sommer am Trainingslager des Clubs teilzunehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

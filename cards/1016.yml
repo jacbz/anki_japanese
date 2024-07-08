@@ -1,13 +1,28 @@
 Rang: 1016
 Lemma: 短い
 Lesung: みじかい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: kurz
-Beispielsatz: あの髪の短い女の子が私の娘です。
-Beispielsatz-Lesung: あの 髪[かみ]の 短[みじか]い 女[おんな]の 子[こ]が 私[わたし]の 娘[むすめ]です。
-Beispielsatz-Übersetzung: Das Mädchen mit den kurzen Haaren ist meine Tochter.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの髪の短い女の子が私の娘です。
+  あの 髪[かみ]の 短[みじか]い 女[おんな]の 子[こ]が 私[わたし]の 娘[むすめ]です。
+  Das Mädchen mit den kurzen Haaren ist meine Tochter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

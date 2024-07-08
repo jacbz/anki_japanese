@@ -1,13 +1,24 @@
 Rang: 3782
 Lemma: まれ
-Lesung: まれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: selten
-Beispielsatz: これは極めてまれなケースだ。
-Beispielsatz-Lesung: これは 極[きわ]めてまれなケースだ。
-Beispielsatz-Übersetzung: Dies ist ein sehr seltener Fall.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは極めてまれなケースだ。
+  これは 極[きわ]めてまれなケースだ。
+  Dies ist ein sehr seltener Fall.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

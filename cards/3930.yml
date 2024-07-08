@@ -1,13 +1,24 @@
 Rang: 3930
 Lemma: 鮮やか
 Lesung: あざやか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: lebhaft, lebendig; geschickt
-Beispielsatz: 今日は鮮やかな赤い服を着ていた。
-Beispielsatz-Lesung: 今日[きょう]は 鮮[あざ]やかな 赤[あか]い 服[ふく]を 着[き]ていた。
-Beispielsatz-Übersetzung: Sie trug heute lebhaft rote Kleidung.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日は鮮やかな赤い服を着ていた。
+  今日[きょう]は 鮮[あざ]やかな 赤[あか]い 服[ふく]を 着[き]ていた。
+  Sie trug heute lebhaft rote Kleidung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,27 @@
 Rang: 1031
 Lemma: 除く
 Lesung: のぞく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: entfernen; außer; loswerden
-Beispielsatz: 彼の作文は多少の間違いを除いてすばらしかった。
-Beispielsatz-Lesung: 彼[かれ]の 作文[さくぶん]は 多少[たしょう]の 間違[まちが]いを 除[のぞ]いてすばらしかった。
-Beispielsatz-Übersetzung: Seine Komposition war ausgezeichnet, abgesehen von ein paar
-  Fehlern.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の作文は多少の間違いを除いてすばらしかった。
+  彼[かれ]の 作文[さくぶん]は 多少[たしょう]の 間違[まちが]いを 除[のぞ]いてすばらしかった。
+  Seine Komposition war ausgezeichnet, abgesehen von ein paar Fehlern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

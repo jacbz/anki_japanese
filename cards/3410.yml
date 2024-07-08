@@ -1,13 +1,28 @@
 Rang: 3410
 Lemma: 要望
 Lesung: ようぼう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Forderung stellen; Forderungen stellen
 Extra: （する）
 Wortart: n. v.
-Definition: Forderung stellen; Forderungen stellen
-Beispielsatz: 客からの要望に応えた。
-Beispielsatz-Lesung: 客[きゃく]からの 要望[ようぼう]に 応[こた]えた。
-Beispielsatz-Übersetzung: Wir sind auf die Forderungen der Kunden eingegangen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  客からの要望に応えた。
+  客[きゃく]からの 要望[ようぼう]に 応[こた]えた。
+  Wir sind auf die Forderungen der Kunden eingegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

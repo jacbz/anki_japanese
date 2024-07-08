@@ -1,13 +1,24 @@
 Rang: 3800
 Lemma: 二十人
 Lesung: にじゅうにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwanzig Personen
-Beispielsatz: 夕べの飲み会には二十人ぐらい集まった。
-Beispielsatz-Lesung: 夕[ゆう]べの 飲[の]み 会[かい]には二十人ぐらい 集[あつ]まった。
-Beispielsatz-Übersetzung: Wir hatten gestern Abend etwa zwanzig Personen auf der Party.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '43'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  夕べの飲み会には二十人ぐらい集まった。
+  夕[ゆう]べの 飲[の]み 会[かい]には二十人ぐらい 集[あつ]まった。
+  Wir hatten gestern Abend etwa zwanzig Personen auf der Party.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

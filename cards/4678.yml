@@ -1,13 +1,24 @@
 Rang: 4678
 Lemma: 延々
 Lesung: えんえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: endlos, unendlich
-Beispielsatz: その会議は延々五時間続いた。
-Beispielsatz-Lesung: その 会議[かいぎ]は 延[のべ]々五 時[じ] 間[ま] 続[つづ]いた。
-Beispielsatz-Übersetzung: Die Sitzung zog sich endlos fünf Stunden lang hin.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その会議は延々五時間続いた。
+  その 会議[かいぎ]は 延[のべ]々五 時[じ] 間[ま] 続[つづ]いた。
+  Die Sitzung zog sich endlos fünf Stunden lang hin.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

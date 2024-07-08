@@ -1,14 +1,24 @@
 Rang: 4522
 Lemma: 挙げ句
 Lesung: あげく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: letztendlich, schließlich
-Beispielsatz: 彼は刑務所から逃亡した挙げ句捕まった。
-Beispielsatz-Lesung: 彼[かれ]は 刑務所[けいむしょ]から 逃亡[とうぼう]した 挙[あ]げ 句[く] 捕[つか]まった。
-Beispielsatz-Übersetzung: Letztendlich wurde er nach seiner Flucht aus dem Gefängnis
-  festgenommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は刑務所から逃亡した挙げ句捕まった。
+  彼[かれ]は 刑務所[けいむしょ]から 逃亡[とうぼう]した 挙[あ]げ 句[く] 捕[つか]まった。
+  Letztendlich wurde er nach seiner Flucht aus dem Gefängnis festgenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

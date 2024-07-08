@@ -1,13 +1,28 @@
 Rang: 1228
 Lemma: 減少
 Lesung: げんしょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Abnahme, Rückgang
 Extra: （する）
 Wortart: n. v.
-Definition: Abnahme, Rückgang
-Beispielsatz: この町では犯罪が40パーセント減少した。
-Beispielsatz-Lesung: この 町[まち]では 犯罪[はんざい]が40パーセント 減少[げんしょう]した。
-Beispielsatz-Übersetzung: Die Kriminalität hat in dieser Stadt um 40 Prozent abgenommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この町では犯罪が40パーセント減少した。
+  この 町[まち]では 犯罪[はんざい]が40パーセント 減少[げんしょう]した。
+  Die Kriminalität hat in dieser Stadt um 40 Prozent abgenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

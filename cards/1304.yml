@@ -1,13 +1,27 @@
 Rang: 1304
 Lemma: 治療
 Lesung: ちりょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Heilung, Behandlung, Therapie
 Extra: （する）
 Wortart: n. v.
-Definition: Heilung, Behandlung, Therapie
-Beispielsatz: 今がんの治療を受けている。
-Beispielsatz-Lesung: 今[こん]がんの 治療[ちりょう]を 受[う]けている。
-Beispielsatz-Übersetzung: Ich erhalte derzeit eine Behandlung gegen Krebs.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">り</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今がんの治療を受けている。
+  今[こん]がんの 治療[ちりょう]を 受[う]けている。
+  Ich erhalte derzeit eine Behandlung gegen Krebs.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

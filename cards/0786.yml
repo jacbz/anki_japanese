@@ -1,13 +1,27 @@
 Rang: 786
 Lemma: 隣り
 Lesung: となり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: nebenan
-Beispielsatz: 隣の部屋から男の人が出てきた。
-Beispielsatz-Lesung: 隣[となり]の 部屋[へや]から 男[おとこ]の 人[ひと]が 出[で]てきた。
-Beispielsatz-Übersetzung: Ein Mann kam aus dem Nebenzimmer heraus.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  隣の部屋から男の人が出てきた。
+  隣[となり]の 部屋[へや]から 男[おとこ]の 人[ひと]が 出[で]てきた。
+  Ein Mann kam aus dem Nebenzimmer heraus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

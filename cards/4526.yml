@@ -1,13 +1,24 @@
 Rang: 4526
 Lemma: 一発
 Lesung: いっぱつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schuss, Schlag
-Beispielsatz: 右頬に一発パンチをくらった。
-Beispielsatz-Lesung: 右[みぎ] 頬[ほお]に一 発[はつ]パンチをくらった。
-Beispielsatz-Übersetzung: Ich habe einen Schlag auf die rechte Wange bekommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  右頬に一発パンチをくらった。
+  右[みぎ] 頬[ほお]に一 発[はつ]パンチをくらった。
+  Ich habe einen Schlag auf die rechte Wange bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

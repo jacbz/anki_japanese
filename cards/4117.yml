@@ -1,13 +1,27 @@
 Rang: 4117
 Lemma: 物価
 Lesung: ぶっか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Preise
-Beispielsatz: 今月は物価が上がった。
-Beispielsatz-Lesung: 今月[こんげつ]は 物価[ぶっか]が 上[あ]がった。
-Beispielsatz-Übersetzung: Diesen Monat sind die Preise gestiegen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ぶ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今月は物価が上がった。
+  今月[こんげつ]は 物価[ぶっか]が 上[あ]がった。
+  Diesen Monat sind die Preise gestiegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

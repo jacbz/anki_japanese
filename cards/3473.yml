@@ -1,13 +1,28 @@
 Rang: 3473
 Lemma: 回収
 Lesung: かいしゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: sammeln; sammeln
 Extra: （する）
 Wortart: n. v.
-Definition: sammeln; sammeln
-Beispielsatz: 今日はごみの回収はない。
-Beispielsatz-Lesung: 今日[きょう]はごみの 回収[かいしゅう]はない。
-Beispielsatz-Übersetzung: Der Müll wird heute nicht abgeholt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日はごみの回収はない。
+  今日[きょう]はごみの 回収[かいしゅう]はない。
+  Der Müll wird heute nicht abgeholt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

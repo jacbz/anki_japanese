@@ -1,14 +1,28 @@
 Rang: 3530
 Lemma: 後輩
 Lesung: こうはい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: jüngerer Kollege / jüngere Kollegin
-Beispielsatz: 仕事の帰りに、会社の後輩と飲みに行った。
-Beispielsatz-Lesung: 仕事[しごと]の 帰[かえ]りに、 会社[かいしゃ]の 後輩[こうはい]と 飲[の]みに 行[い]った。
-Beispielsatz-Übersetzung: Ich bin nach der Arbeit mit meinem jüngeren Kollegen / meiner
-  jüngeren Kollegin etwas trinken gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  仕事の帰りに、会社の後輩と飲みに行った。
+  仕事[しごと]の 帰[かえ]りに、 会社[かいしゃ]の 後輩[こうはい]と 飲[の]みに 行[い]った。
+  Ich bin nach der Arbeit mit meinem jüngeren Kollegen / meiner jüngeren Kollegin etwas trinken gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

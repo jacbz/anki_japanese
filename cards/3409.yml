@@ -1,14 +1,24 @@
 Rang: 3409
 Lemma: 通知
 Lesung: つうち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: benachrichtigen, Mitteilung machen
 Extra: （する）
 Wortart: n. v.
-Definition: benachrichtigen, Mitteilung machen
-Beispielsatz: 大学から合格の通知が届いた。
-Beispielsatz-Lesung: 大学[だいがく]から 合格[ごうかく]の 通知[つうち]が 届[とど]いた。
-Beispielsatz-Übersetzung: Ich habe eine Benachrichtigung erhalten, dass ich die Prüfung
-  an der Universität bestanden habe.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大学から合格の通知が届いた。
+  大学[だいがく]から 合格[ごうかく]の 通知[つうち]が 届[とど]いた。
+  Ich habe eine Benachrichtigung erhalten, dass ich die Prüfung an der Universität bestanden habe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

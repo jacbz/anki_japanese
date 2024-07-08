@@ -1,13 +1,26 @@
 Rang: 3811
 Lemma: 熊
 Lesung: くま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bär
-Beispielsatz: 村に熊が出て、人を襲った。
-Beispielsatz-Lesung: 村[むら]に 熊[くま]が 出[で]て、人を 襲[おそ]った。
-Beispielsatz-Übersetzung: Ein Bär erschien in einem Dorf und griff jemanden an.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  村に熊が出て、人を襲った。
+  村[むら]に 熊[くま]が 出[で]て、人を 襲[おそ]った。
+  Ein Bär erschien in einem Dorf und griff jemanden an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

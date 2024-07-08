@@ -1,13 +1,24 @@
 Rang: 3854
 Lemma: オランダ
-Lesung: オランダ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: die Niederlande, Holland
-Beispielsatz: 江戸時代に日本はオランダと交易を行っていた。
-Beispielsatz-Lesung: 江戸時代[えどじだい]に 日本[にっぽん]はオランダと 交易[こうえき]を 行[おこな]っていた。
-Beispielsatz-Übersetzung: Japan hat im Edo-Zeitalter Handel mit den Niederlanden betrieben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  江戸時代に日本はオランダと交易を行っていた。
+  江戸時代[えどじだい]に 日本[にっぽん]はオランダと 交易[こうえき]を 行[おこな]っていた。
+  Japan hat im Edo-Zeitalter Handel mit den Niederlanden betrieben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

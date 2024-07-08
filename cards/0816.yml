@@ -1,13 +1,25 @@
 Rang: 816
 Lemma: 茶
 Lesung: ちゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Tee
-Beispielsatz: これは濃い茶だ。
-Beispielsatz-Lesung: これは 濃[こ]い 茶[ちゃ]だ。
-Beispielsatz-Übersetzung: Das ist starker Tee.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span><span class="char">ゃ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは濃い茶だ。
+  これは 濃[こ]い 茶[ちゃ]だ。
+  Das ist starker Tee.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

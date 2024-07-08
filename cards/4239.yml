@@ -1,14 +1,26 @@
 Rang: 4239
 Lemma: 酔う
 Lesung: よう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: betrunken werden, sich unwohl fühlen
-Beispielsatz: 彼は酔っても態度が変わらない。
-Beispielsatz-Lesung: 彼[かれ]は 酔[よ]っても 態度[たいど]が 変[か]わらない。
-Beispielsatz-Übersetzung: Sein Verhalten ändert sich nicht einmal, wenn er getrunken
-  hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">よ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は酔っても態度が変わらない。
+  彼[かれ]は 酔[よ]っても 態度[たいど]が 変[か]わらない。
+  Sein Verhalten ändert sich nicht einmal, wenn er getrunken hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

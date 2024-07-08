@@ -1,14 +1,27 @@
 Rang: 1949
 Lemma: 投げる
 Lesung: なげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: werfen; aufgeben
-Beispielsatz: 彼はボールを投げて窓を割った。
-Beispielsatz-Lesung: 彼[かれ]はボールを 投[な]げて 窓[まど]を 割[わ]った。
-Beispielsatz-Übersetzung: Er hat das Fenster kaputt gemacht, indem er einen Ball geworfen
-  hat.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はボールを投げて窓を割った。
+  彼[かれ]はボールを 投[な]げて 窓[まど]を 割[わ]った。
+  Er hat das Fenster kaputt gemacht, indem er einen Ball geworfen hat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

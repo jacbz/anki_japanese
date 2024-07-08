@@ -1,13 +1,24 @@
 Rang: 3996
 Lemma: 地球上
 Lesung: ちきゅうじょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: auf der Erde
-Beispielsatz: 地球上には七つの大陸がある。
-Beispielsatz-Lesung: 地球上[ちきゅうじょう]には 七[なな]つの 大陸[たいりく]がある。
-Beispielsatz-Übersetzung: Es gibt sieben Kontinente auf der Erde.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地球上には七つの大陸がある。
+  地球上[ちきゅうじょう]には 七[なな]つの 大陸[たいりく]がある。
+  Es gibt sieben Kontinente auf der Erde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

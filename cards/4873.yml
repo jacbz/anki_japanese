@@ -1,14 +1,24 @@
 Rang: 4873
 Lemma: グラフ
-Lesung: グラフ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Diagramm
-Beispielsatz: グラフを使って気温の変化を説明した。
-Beispielsatz-Lesung: グラフを 使[つか]って 気温[きおん]の 変化[へんか]を 説明[せつめい]した。
-Beispielsatz-Übersetzung: Ich habe Veränderungen der Temperatur mit einem Diagramm
-  erklärt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  グラフを使って気温の変化を説明した。
+  グラフを 使[つか]って 気温[きおん]の 変化[へんか]を 説明[せつめい]した。
+  Ich habe Veränderungen der Temperatur mit einem Diagramm erklärt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

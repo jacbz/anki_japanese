@@ -1,13 +1,24 @@
 Rang: 4149
 Lemma: 十三年
 Lesung: じゅうさんねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: dreizehn Jahre
-Beispielsatz: 日本へ来て十三年経ちます。
-Beispielsatz-Lesung: 日本[にっぽん]へ 来[き]て十三 年[ねん] 経[た]ちます。
-Beispielsatz-Übersetzung: Es ist dreizehn Jahre her, dass ich nach Japan kam.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本へ来て十三年経ちます。
+  日本[にっぽん]へ 来[き]て十三 年[ねん] 経[た]ちます。
+  Es ist dreizehn Jahre her, dass ich nach Japan kam.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

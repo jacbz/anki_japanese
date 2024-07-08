@@ -1,13 +1,24 @@
 Rang: 4483
 Lemma: 政治的
 Lesung: せいじてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: politisch
-Beispielsatz: 彼はテレビでその議論の政治的な解決を説明した。
-Beispielsatz-Lesung: 彼[かれ]はテレビでその 議論[ぎろん]の 政治[せいじ] 的[てき]な 解決[かいけつ]を 説明[せつめい]した。
-Beispielsatz-Übersetzung: Er erläuterte die politische Lösung des Streits im Fernsehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はテレビでその議論の政治的な解決を説明した。
+  彼[かれ]はテレビでその 議論[ぎろん]の 政治[せいじ] 的[てき]な 解決[かいけつ]を 説明[せつめい]した。
+  Er erläuterte die politische Lösung des Streits im Fernsehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

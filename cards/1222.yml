@@ -1,13 +1,28 @@
 Rang: 1222
 Lemma: お勧め
 Lesung: おすすめ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Empfehlung
 Extra: （する）
 Wortart: n. v.
-Definition: Empfehlung
-Beispielsatz: お勧めのものはありますか。
-Beispielsatz-Lesung: お 勧[すす]めのものはありますか。
-Beispielsatz-Übersetzung: Haben Sie irgendwelche Empfehlungen?
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">め</span></span></span></span>
+Register: ↗</>Internet
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お勧めのものはありますか。
+  お 勧[すす]めのものはありますか。
+  Haben Sie irgendwelche Empfehlungen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

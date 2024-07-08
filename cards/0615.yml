@@ -1,13 +1,25 @@
 Rang: 615
 Lemma: 場
 Lesung: ば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ort; Platz; Stelle
-Beispielsatz: 作品を発表する場がほしい。
-Beispielsatz-Lesung: 作品[さくひん]を 発表[はっぴょう]する 場[ば]がほしい。
-Beispielsatz-Übersetzung: Ich möchte einen Ort haben, um meine Arbeit zu präsentieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-1"><span class="inner"><span
+  class="char">ば</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  作品を発表する場がほしい。
+  作品[さくひん]を 発表[はっぴょう]する 場[ば]がほしい。
+  Ich möchte einen Ort haben, um meine Arbeit zu präsentieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

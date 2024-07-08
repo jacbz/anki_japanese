@@ -1,13 +1,24 @@
 Rang: 4210
 Lemma: ぐるぐる
-Lesung: ぐるぐる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: rundherum
-Beispielsatz: 犬は庭をぐるぐる駆け回った。
-Beispielsatz-Lesung: 犬[いぬ]は 庭[にわ]をぐるぐる 駆[か]け 回[まわ]った。
-Beispielsatz-Übersetzung: Der Hund rannte rundherum im Garten.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  犬は庭をぐるぐる駆け回った。
+  犬[いぬ]は 庭[にわ]をぐるぐる 駆[か]け 回[まわ]った。
+  Der Hund rannte rundherum im Garten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

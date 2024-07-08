@@ -1,13 +1,24 @@
 Rang: 4466
 Lemma: 一方的
 Lesung: いっぽうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: einseitig
-Beispielsatz: 彼とけんかして一方的に電話を切られた。
-Beispielsatz-Lesung: 彼[かれ]とけんかして 一方[いっぽう] 的[てき]に 電話[でんわ]を 切[き]られた。
-Beispielsatz-Übersetzung: Ich hatte einen Streit mit ihm und er hat einfach aufgelegt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼とけんかして一方的に電話を切られた。
+  彼[かれ]とけんかして 一方[いっぽう] 的[てき]に 電話[でんわ]を 切[き]られた。
+  Ich hatte einen Streit mit ihm und er hat einfach aufgelegt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

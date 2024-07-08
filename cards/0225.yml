@@ -1,13 +1,27 @@
 Rang: 225
 Lemma: あげる
-Lesung: あげる
-Alternative: 上げる<br>挙げる
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: 上げる<br>挙げる
 Definition: geben; heben
-Beispielsatz: 質問があれば手をあげてください。
-Beispielsatz-Lesung: 質問[しつもん]があれば 手[て]をあげてください。
-Beispielsatz-Übersetzung: Bitte heben Sie die Hand, wenn Sie eine Frage haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  質問があれば手をあげてください。
+  質問[しつもん]があれば 手[て]をあげてください。
+  Bitte heben Sie die Hand, wenn Sie eine Frage haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

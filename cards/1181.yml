@@ -1,14 +1,27 @@
 Rang: 1181
 Lemma: 事業
 Lesung: じぎょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Geschäft, Unternehmen, Projekt
-Beispielsatz: 私は友人と事業を始めることにした。
-Beispielsatz-Lesung: 私[わたし]は 友人[ゆうじん]と 事業[じぎょう]を 始[はじ]めることにした。
-Beispielsatz-Übersetzung: Ich habe beschlossen, mit einem Freund von mir ein Geschäft
-  zu gründen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">じ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ぎ</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は友人と事業を始めることにした。
+  私[わたし]は 友人[ゆうじん]と 事業[じぎょう]を 始[はじ]めることにした。
+  Ich habe beschlossen, mit einem Freund von mir ein Geschäft zu gründen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

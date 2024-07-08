@@ -1,13 +1,24 @@
 Rang: 3382
 Lemma: ウイルス
-Lesung: ウイルス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Virus
-Beispielsatz: この病気はウイルスの感染によって起こる。
-Beispielsatz-Lesung: この 病気[びょうき]はウイルスの 感染[かんせん]によって 起[お]こる。
-Beispielsatz-Übersetzung: Diese Krankheit wird durch eine virale Infektion verursacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この病気はウイルスの感染によって起こる。
+  この 病気[びょうき]はウイルスの 感染[かんせん]によって 起[お]こる。
+  Diese Krankheit wird durch eine virale Infektion verursacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

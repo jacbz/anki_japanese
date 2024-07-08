@@ -1,13 +1,29 @@
 Rang: 287
 Lemma: 私達
 Lesung: わたしたち<br>わたくしたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: wir
-Beispielsatz: 私達、結婚しました。
-Beispielsatz-Lesung: 私[わたし] 達[たち]、 結婚[けっこん]しました。
-Beispielsatz-Übersetzung: Wir haben geheiratet.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達、結婚しました。
+  私[わたし] 達[たち]、 結婚[けっこん]しました。
+  Wir haben geheiratet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

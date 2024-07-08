@@ -1,13 +1,24 @@
 Rang: 3350
 Lemma: 子達
 Lesung: こたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kinder
-Beispielsatz: この子達は誰ですか。
-Beispielsatz-Lesung: この 子達[こたち]は 誰[だれ]ですか。
-Beispielsatz-Übersetzung: Wer sind diese Kinder?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この子達は誰ですか。
+  この 子達[こたち]は 誰[だれ]ですか。
+  Wer sind diese Kinder?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

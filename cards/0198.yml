@@ -1,13 +1,24 @@
 Rang: 198
 Lemma: てもらう
-Lesung: てもらう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: '[eine Gefälligkeit erhalten]'
-Beispielsatz: 知り合いに仕事を紹介してもらった。
-Beispielsatz-Lesung: 知[し]り 合[あ]いに 仕事[しごと]を 紹介[しょうかい]してもらった。
-Beispielsatz-Übersetzung: Mein Freund hat mir von dem Job erzählt.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  知り合いに仕事を紹介してもらった。
+  知[し]り 合[あ]いに 仕事[しごと]を 紹介[しょうかい]してもらった。
+  Mein Freund hat mir von dem Job erzählt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

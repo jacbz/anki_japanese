@@ -1,13 +1,28 @@
 Rang: 2279
 Lemma: 中央
 Lesung: ちゅうおう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zentrum, Mitte adj zentral
-Beispielsatz: あの公園の中央に像がある。
-Beispielsatz-Lesung: あの 公園[こうえん]の 中央[ちゅうおう]に 像[ぞう]がある。
-Beispielsatz-Übersetzung: In der Mitte jenes Parks steht eine Statue.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ち</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_top
+  mola_-2"><span class="inner"><span class="char">お</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの公園の中央に像がある。
+  あの 公園[こうえん]の 中央[ちゅうおう]に 像[ぞう]がある。
+  In der Mitte jenes Parks steht eine Statue.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 3669
 Lemma: 介護保険
 Lesung: かいごほけん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pflegeversicherung
-Beispielsatz: 四十歳以上は介護保険料を払う義務がある。
-Beispielsatz-Lesung: 四十 歳[さい] 以上[いじょう]は 介護保険[かいごほけん] 料[りょう]を 払[はら]う 義務[ぎむ]がある。
-Beispielsatz-Übersetzung: Menschen über vierzig sind verpflichtet, für die Pflegeversicherung
-  zu zahlen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  四十歳以上は介護保険料を払う義務がある。
+  四十 歳[さい] 以上[いじょう]は 介護保険[かいごほけん] 料[りょう]を 払[はら]う 義務[ぎむ]がある。
+  Menschen über vierzig sind verpflichtet, für die Pflegeversicherung zu zahlen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

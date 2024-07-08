@@ -1,13 +1,26 @@
 Rang: 4146
 Lemma: 練る
 Lesung: ねる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: kneten; polieren; ausarbeiten
-Beispielsatz: 私達は計画を細かく練る必要があります。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は 計画[けいかく]を 細[こま]かく 練[ね]る 必要[ひつよう]があります。
-Beispielsatz-Übersetzung: Wir müssen den Plan im Detail ausarbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ね</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は計画を細かく練る必要があります。
+  私[わたし] 達[たち]は 計画[けいかく]を 細[こま]かく 練[ね]る 必要[ひつよう]があります。
+  Wir müssen den Plan im Detail ausarbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

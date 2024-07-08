@@ -1,13 +1,24 @@
 Rang: 2044
 Lemma: 改めて
 Lesung: あらためて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: noch einmal; zu einem anderen Zeitpunkt
-Beispielsatz: 後ほど改めてお電話いたします。
-Beispielsatz-Lesung: 後[のち]ほど 改[あらた]めてお 電話[でんわ]いたします。
-Beispielsatz-Übersetzung: Ich werde später noch einmal anrufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  後ほど改めてお電話いたします。
+  後[のち]ほど 改[あらた]めてお 電話[でんわ]いたします。
+  Ich werde später noch einmal anrufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

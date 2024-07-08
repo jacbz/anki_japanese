@@ -1,14 +1,24 @@
 Rang: 4775
 Lemma: のみならず
-Lesung: のみならず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: darüber hinaus, außerdem; nicht nur, sondern
-Beispielsatz: 彼は日本のみならず、海外でも有名な学者だ。
-Beispielsatz-Lesung: 彼[かれ]は 日本[にっぽん]のみならず、 海外[かいがい]でも 有名[ゆうめい]な 学者[がくしゃ]だ。
-Beispielsatz-Übersetzung: Er ist ein berühmter Gelehrter nicht nur in Japan, sondern
-  auch im Ausland.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は日本のみならず、海外でも有名な学者だ。
+  彼[かれ]は 日本[にっぽん]のみならず、 海外[かいがい]でも 有名[ゆうめい]な 学者[がくしゃ]だ。
+  Er ist ein berühmter Gelehrter nicht nur in Japan, sondern auch im Ausland.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

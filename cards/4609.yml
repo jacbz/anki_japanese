@@ -1,13 +1,24 @@
 Rang: 4609
 Lemma: キリスト
-Lesung: キリスト
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Christus
-Beispielsatz: 彼女はキリストの精神を信じている。
-Beispielsatz-Lesung: 彼女[かのじょ]はキリストの 精神[せいしん]を 信[しん]じている。
-Beispielsatz-Übersetzung: Sie glaubt an den christlichen Geist.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はキリストの精神を信じている。
+  彼女[かのじょ]はキリストの 精神[せいしん]を 信[しん]じている。
+  Sie glaubt an den christlichen Geist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

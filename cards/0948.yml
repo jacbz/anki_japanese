@@ -1,15 +1,24 @@
 Rang: 948
 Lemma: 三年
 Lesung: さんねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: drei Jahre
-Beispielsatz: 石の上にも三年。
-Beispielsatz-Lesung: 石[いし]の 上[うえ]にも 三年[さんねん]。
-Beispielsatz-Übersetzung: 'Drei Jahre auf einem Stein. <div><br></div><div><i>(Die
-  Beharrlichkeit siegt: Selbst der kälteste Stein wird warm, wenn man drei Jahre lang
-  auf ihm sitzt.)</i></div>'
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  石の上にも三年。
+  石[いし]の 上[うえ]にも 三年[さんねん]。
+  Drei Jahre auf einem Stein. <div><br></div><div><i>(Die Beharrlichkeit siegt: Selbst der kälteste Stein wird warm, wenn man drei Jahre lang auf ihm sitzt.)</i></div>
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2941
 Lemma: あいつ
-Lesung: あいつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dieser Kerl; diese Sache
-Beispielsatz: あいつには負けたくない。
-Beispielsatz-Lesung: あいつには 負[ま]けたくない。
-Beispielsatz-Übersetzung: Ich möchte nicht von diesem Kerl geschlagen werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あいつには負けたくない。
+  あいつには 負[ま]けたくない。
+  Ich möchte nicht von diesem Kerl geschlagen werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

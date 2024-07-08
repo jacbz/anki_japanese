@@ -1,13 +1,24 @@
 Rang: 2498
 Lemma: 価値観
 Lesung: かちかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wertvorstellung
-Beispielsatz: 価値観は人によって違う。
-Beispielsatz-Lesung: 価値観[かちかん]は人によって 違[ちが]う。
-Beispielsatz-Übersetzung: Wertvorstellungen variieren von Person zu Person.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  価値観は人によって違う。
+  価値観[かちかん]は人によって 違[ちが]う。
+  Wertvorstellungen variieren von Person zu Person.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

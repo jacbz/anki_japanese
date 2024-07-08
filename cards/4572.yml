@@ -1,13 +1,24 @@
 Rang: 4572
 Lemma: 顕著
 Lesung: けんちょ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: bemerkenswert, auffällig
-Beispielsatz: 医学は顕著な進歩を遂げた。
-Beispielsatz-Lesung: 医学[いがく]は 顕著[けんちょ]な 進歩[しんぽ]を 遂[と]げた。
-Beispielsatz-Übersetzung: Die Medizin hat bemerkenswerte Fortschritte gemacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  医学は顕著な進歩を遂げた。
+  医学[いがく]は 顕著[けんちょ]な 進歩[しんぽ]を 遂[と]げた。
+  Die Medizin hat bemerkenswerte Fortschritte gemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3699
 Lemma: までもない
-Lesung: までもない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: unnötig
-Beispielsatz: その重要性をいまさら語るまでもないだろう。
-Beispielsatz-Lesung: その 重要性[じゅうようせい]をいまさら 語[かた]るまでもないだろう。
-Beispielsatz-Übersetzung: Es ist in diesem Stadium unnötig, seine Bedeutung zu erwähnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その重要性をいまさら語るまでもないだろう。
+  その 重要性[じゅうようせい]をいまさら 語[かた]るまでもないだろう。
+  Es ist in diesem Stadium unnötig, seine Bedeutung zu erwähnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

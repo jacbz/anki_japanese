@@ -1,14 +1,28 @@
 Rang: 3054
 Lemma: 直前
 Lesung: ちょくぜん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: gerade vorher
-Beispielsatz: 出発の直前まで、行くかどうか悩んだ。
-Beispielsatz-Lesung: 出発[しゅっぱつ]の 直前[ちょくぜん]まで、 行[い]くかどうか 悩[なや]んだ。
-Beispielsatz-Übersetzung: Ich habe bis kurz vor der Abfahrt darüber nachgedacht, ob
-  ich gehen soll oder nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ち</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ぜ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  出発の直前まで、行くかどうか悩んだ。
+  出発[しゅっぱつ]の 直前[ちょくぜん]まで、 行[い]くかどうか 悩[なや]んだ。
+  Ich habe bis kurz vor der Abfahrt darüber nachgedacht, ob ich gehen soll oder nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

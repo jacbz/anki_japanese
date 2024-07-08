@@ -1,13 +1,27 @@
 Rang: 3780
 Lemma: 速度
 Lesung: そくど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Geschwindigkeit
-Beispielsatz: その車はカーブの手前で速度を落とした。
-Beispielsatz-Lesung: その 車[くるま]はカーブの 手前[てまえ]で 速度[そくど]を 落[お]とした。
-Beispielsatz-Übersetzung: Das Auto reduzierte seine Geschwindigkeit vor der Kurve.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">そ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ど</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その車はカーブの手前で速度を落とした。
+  その 車[くるま]はカーブの 手前[てまえ]で 速度[そくど]を 落[お]とした。
+  Das Auto reduzierte seine Geschwindigkeit vor der Kurve.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

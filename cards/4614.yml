@@ -1,13 +1,28 @@
 Rang: 4614
 Lemma: 人権
 Lesung: じんけん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Menschenrechte
-Beispielsatz: 私は人権の侵害に反対だ。
-Beispielsatz-Lesung: 私[わたし]は 人権[じんけん]の 侵害[しんがい]に 反対[はんたい]だ。
-Beispielsatz-Übersetzung: Ich bin gegen die Verletzung der Menschenrechte.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は人権の侵害に反対だ。
+  私[わたし]は 人権[じんけん]の 侵害[しんがい]に 反対[はんたい]だ。
+  Ich bin gegen die Verletzung der Menschenrechte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 2337
 Lemma: 援助
 Lesung: えんじょ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Unterstützung, Hilfe, Beistand
 Extra: （する）
 Wortart: n. v.
-Definition: Unterstützung, Hilfe, Beistand
-Beispielsatz: さまざまな国から援助を受ける。
-Beispielsatz-Lesung: さまざまな 国[くに]から 援助[えんじょ]を 受[う]ける。
-Beispielsatz-Übersetzung: Sie erhalten Hilfe aus verschiedenen Ländern.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">え</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span><span class="char">ょ</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さまざまな国から援助を受ける。
+  さまざまな 国[くに]から 援助[えんじょ]を 受[う]ける。
+  Sie erhalten Hilfe aus verschiedenen Ländern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

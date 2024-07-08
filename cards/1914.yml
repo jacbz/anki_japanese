@@ -1,13 +1,24 @@
 Rang: 1914
 Lemma: 二週間
 Lesung: にしゅうかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwei Wochen
-Beispielsatz: 車を二週間借りた。
-Beispielsatz-Lesung: 車[くるま]を二 週間[しゅうかん] 借[か]りた。
-Beispielsatz-Übersetzung: Ich habe für zwei Wochen ein Auto gemietet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  車を二週間借りた。
+  車[くるま]を二 週間[しゅうかん] 借[か]りた。
+  Ich habe für zwei Wochen ein Auto gemietet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

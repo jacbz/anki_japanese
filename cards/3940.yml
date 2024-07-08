@@ -1,13 +1,28 @@
 Rang: 3940
 Lemma: 数々
 Lesung: かずかず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: viele, zahlreiche
-Beispielsatz: 不平不満は数々ある。
-Beispielsatz-Lesung: 不平不満[ふへいふまん]は 数々[かずかず]ある。
-Beispielsatz-Übersetzung: Es gibt viele Beschwerden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ず</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ず</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  不平不満は数々ある。
+  不平不満[ふへいふまん]は 数々[かずかず]ある。
+  Es gibt viele Beschwerden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

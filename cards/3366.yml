@@ -1,13 +1,24 @@
 Rang: 3366
 Lemma: 固定
 Lesung: こてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: befestigen; befestigen
 Extra: （する）
 Wortart: n. v.
-Definition: befestigen; befestigen
-Beispielsatz: 地震に備えて、家具を固定しておく。
-Beispielsatz-Lesung: 地震[じしん]に 備[そな]えて、 家具[かぐ]を 固定[こてい]しておく。
-Beispielsatz-Übersetzung: Ich werde die Möbel für den Fall eines Erdbebens sichern.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地震に備えて、家具を固定しておく。
+  地震[じしん]に 備[そな]えて、 家具[かぐ]を 固定[こてい]しておく。
+  Ich werde die Möbel für den Fall eines Erdbebens sichern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

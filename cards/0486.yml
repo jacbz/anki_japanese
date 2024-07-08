@@ -1,14 +1,24 @@
 Rang: 486
 Lemma: といった
-Lesung: といった
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: wie zum Beispiel
-Beispielsatz: この地域ではリンゴやモモといった果物の栽培が盛んだ。
-Beispielsatz-Lesung: この 地域[ちいき]ではリンゴやモモといった 果物[くだもの]の 栽培[さいばい]が 盛[さか]んだ。
-Beispielsatz-Übersetzung: In dieser Region werden viele Früchte angebaut, wie zum
-  Beispiel Äpfel und Pfirsiche.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この地域ではリンゴやモモといった果物の栽培が盛んだ。
+  この 地域[ちいき]ではリンゴやモモといった 果物[くだもの]の 栽培[さいばい]が 盛[さか]んだ。
+  In dieser Region werden viele Früchte angebaut, wie zum Beispiel Äpfel und Pfirsiche.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

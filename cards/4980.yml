@@ -1,13 +1,24 @@
 Rang: 4980
 Lemma: 放出
 Lesung: ほうしゅつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Emission; ausstoßen
 Extra: （する）
 Wortart: n. v.
-Definition: Emission; ausstoßen
-Beispielsatz: 大気中に二酸化炭素を放出する。
-Beispielsatz-Lesung: 大気[たいき] 中[ちゅう]に二 酸化炭素[さんかたんそ]を 放出[ほうしゅつ]する。
-Beispielsatz-Übersetzung: Er gibt Kohlendioxid an die Atmosphäre ab.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大気中に二酸化炭素を放出する。
+  大気[たいき] 中[ちゅう]に二 酸化炭素[さんかたんそ]を 放出[ほうしゅつ]する。
+  Er gibt Kohlendioxid an die Atmosphäre ab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 3696
 Lemma: 存ずる
 Lesung: ぞんずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: wissen
-Beispielsatz: 詳しいことは存じておりません。
-Beispielsatz-Lesung: 詳[くわ]しいことは 存[ぞん]じておりません。
-Beispielsatz-Übersetzung: Ich bin mir nicht sicher über die Details.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ぞ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ず</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '40'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  詳しいことは存じておりません。
+  詳[くわ]しいことは 存[ぞん]じておりません。
+  Ich bin mir nicht sicher über die Details.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

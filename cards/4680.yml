@@ -1,13 +1,24 @@
 Rang: 4680
 Lemma: 引き付ける
 Lesung: ひきつける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anziehen
-Beispielsatz: そのお寺は世界中から観光客を引き付けています。
-Beispielsatz-Lesung: そのお 寺[てら]は 世界中[せかいじゅう]から 観光客[かんこうきゃく]を 引[ひ]き 付[つ]けています。
-Beispielsatz-Übersetzung: Der Tempel zieht Besucher aus der ganzen Welt an.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのお寺は世界中から観光客を引き付けています。
+  そのお 寺[てら]は 世界中[せかいじゅう]から 観光客[かんこうきゃく]を 引[ひ]き 付[つ]けています。
+  Der Tempel zieht Besucher aus der ganzen Welt an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1252
 Lemma: レベル
-Lesung: レベル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Niveau
-Beispielsatz: この教科書は中級のレベルの学習者向けです。
-Beispielsatz-Lesung: この 教科書[きょうかしょ]は 中級[ちゅうきゅう]のレベルの 学習者[がくしゅうしゃ] 向[む]けです。
-Beispielsatz-Übersetzung: Dieses Lehrbuch richtet sich an Lernende der Mittelstufe.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この教科書は中級のレベルの学習者向けです。
+  この 教科書[きょうかしょ]は 中級[ちゅうきゅう]のレベルの 学習者[がくしゅうしゃ] 向[む]けです。
+  Dieses Lehrbuch richtet sich an Lernende der Mittelstufe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

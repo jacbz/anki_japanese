@@ -1,13 +1,28 @@
 Rang: 4208
 Lemma: 発送
 Lesung: はっそう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., v.
+Alternativschreibweisen: ''
 Definition: Versand; senden, versenden, verschicken
-Beispielsatz: 結婚式の招待状を昨日発送しました。
-Beispielsatz-Lesung: 結婚式[けっこんしき]の 招待状[しょうたいじょう]を 昨日[きのう] 発送[はっそう]しました。
-Beispielsatz-Übersetzung: Ich habe gestern die Hochzeitseinladungen verschickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結婚式の招待状を昨日発送しました。
+  結婚式[けっこんしき]の 招待状[しょうたいじょう]を 昨日[きのう] 発送[はっそう]しました。
+  Ich habe gestern die Hochzeitseinladungen verschickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

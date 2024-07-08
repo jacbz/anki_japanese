@@ -1,13 +1,27 @@
 Rang: 4370
 Lemma: 刀
 Lesung: かたな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schwert
-Beispielsatz: 侍は刀をさやに納めた。
-Beispielsatz-Lesung: 侍[さむらい]は 刀[かたな]をさやに 納[おさ]めた。
-Beispielsatz-Übersetzung: Der Samurai steckte sein Schwert in die Scheide.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">な</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  侍は刀をさやに納めた。
+  侍[さむらい]は 刀[かたな]をさやに 納[おさ]めた。
+  Der Samurai steckte sein Schwert in die Scheide.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

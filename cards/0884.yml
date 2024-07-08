@@ -1,14 +1,24 @@
 Rang: 884
 Lemma: イギリス
-Lesung: イギリス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: England
-Beispielsatz: イギリスと日本は海に囲まれた島国だ。
-Beispielsatz-Lesung: イギリスと 日本[にっぽん]は 海[うみ]に 囲[かこ]まれた 島国[しまぐに]だ。
-Beispielsatz-Übersetzung: Das Vereinigte Königreich und Japan sind Inselnationen,
-  die vom Meer umgeben sind.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  イギリスと日本は海に囲まれた島国だ。
+  イギリスと 日本[にっぽん]は 海[うみ]に 囲[かこ]まれた 島国[しまぐに]だ。
+  Das Vereinigte Königreich und Japan sind Inselnationen, die vom Meer umgeben sind.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

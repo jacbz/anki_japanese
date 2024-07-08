@@ -1,14 +1,24 @@
 Rang: 4878
 Lemma: 計画的
 Lesung: けいかくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: geplant, absichtlich, vorsätzlich
-Beispielsatz: それは計画的な犯行だったことがわかった。
-Beispielsatz-Lesung: それは 計画的[けいかくてき]な 犯行[はんこう]だったことがわかった。
-Beispielsatz-Übersetzung: Es stellte sich heraus, dass es sich um eine vorsätzliche
-  Tat handelte.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは計画的な犯行だったことがわかった。
+  それは 計画的[けいかくてき]な 犯行[はんこう]だったことがわかった。
+  Es stellte sich heraus, dass es sich um eine vorsätzliche Tat handelte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

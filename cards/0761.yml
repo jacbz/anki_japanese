@@ -1,13 +1,24 @@
 Rang: 761
 Lemma: まあ
-Lesung: まあ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nun ja, also
-Beispielsatz: まあ、いいか。
-Beispielsatz-Lesung: まあ、いいか。
-Beispielsatz-Übersetzung: Nun ja, ich denke es ist in Ordnung.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まあ、いいか。
+  まあ、いいか。
+  Nun ja, ich denke es ist in Ordnung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

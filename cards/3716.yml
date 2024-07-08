@@ -1,13 +1,27 @@
 Rang: 3716
 Lemma: 不明
 Lesung: ふめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj., n.
+Alternativschreibweisen: ''
 Definition: unbekannt, nicht identifiziert
-Beispielsatz: 昨夜の列車事故の原因は不明だった。
-Beispielsatz-Lesung: 昨夜[さくや]の 列車[れっしゃ] 事故[じこ]の 原因[げんいん]は 不明[ふめい]だった。
-Beispielsatz-Übersetzung: Die Ursache des Zugunglücks gestern Abend war nicht bekannt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昨夜の列車事故の原因は不明だった。
+  昨夜[さくや]の 列車[れっしゃ] 事故[じこ]の 原因[げんいん]は 不明[ふめい]だった。
+  Die Ursache des Zugunglücks gestern Abend war nicht bekannt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

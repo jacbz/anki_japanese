@@ -1,13 +1,24 @@
 Rang: 3748
 Lemma: ライン
-Lesung: ライン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Linie
-Beispielsatz: ラインの後ろでお待ちください。
-Beispielsatz-Lesung: ラインの 後[うし]ろでお 待[ま]ちください。
-Beispielsatz-Übersetzung: Bitte warten Sie hinter der Linie.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ラインの後ろでお待ちください。
+  ラインの 後[うし]ろでお 待[ま]ちください。
+  Bitte warten Sie hinter der Linie.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

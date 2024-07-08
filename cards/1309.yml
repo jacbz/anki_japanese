@@ -1,14 +1,24 @@
 Rang: 1309
 Lemma: 比較的
 Lesung: ひかくてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: vergleichsweise, relativ
-Beispielsatz: 郊外の家賃はほかの地域に比べると比較的高い。
-Beispielsatz-Lesung: 郊外[こうがい]の 家賃[やちん]はほかの 地域[ちいき]に 比[くら]べると 比較的[ひかくてき] 高[たか]い。
-Beispielsatz-Übersetzung: Die Mieten in den Vororten sind im Vergleich zu anderen
-  Gebieten relativ hoch.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  郊外の家賃はほかの地域に比べると比較的高い。
+  郊外[こうがい]の 家賃[やちん]はほかの 地域[ちいき]に 比[くら]べると 比較的[ひかくてき] 高[たか]い。
+  Die Mieten in den Vororten sind im Vergleich zu anderen Gebieten relativ hoch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

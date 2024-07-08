@@ -1,13 +1,24 @@
 Rang: 4376
 Lemma: コンクリート
-Lesung: コンクリート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Beton
-Beispielsatz: 土台はコンクリートで固められています。
-Beispielsatz-Lesung: 土台[どだい]はコンクリートで 固[かた]められています。
-Beispielsatz-Übersetzung: Das Fundament ist in Beton eingebettet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  土台はコンクリートで固められています。
+  土台[どだい]はコンクリートで 固[かた]められています。
+  Das Fundament ist in Beton eingebettet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

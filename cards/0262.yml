@@ -1,13 +1,28 @@
 Rang: 262
 Lemma: 人たち
 Lesung: ひとたち
-Alternative: 人達
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: 人達
 Definition: Menschen
-Beispielsatz: 若い人達に教えられた。
-Beispielsatz-Lesung: 若[わか]い 人達[ひとたち]に 教[おし]えられた。
-Beispielsatz-Übersetzung: Ich habe von jungen Menschen gelernt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">と</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  若い人達に教えられた。
+  若[わか]い 人達[ひとたち]に 教[おし]えられた。
+  Ich habe von jungen Menschen gelernt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

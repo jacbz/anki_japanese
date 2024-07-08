@@ -1,13 +1,24 @@
 Rang: 993
 Lemma: むしろ
-Lesung: むしろ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: eher, wenn überhaupt
-Beispielsatz: 量よりむしろ質のほうが大切だ。
-Beispielsatz-Lesung: 量[りょう]よりむしろ 質[しつ]のほうが 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Qualität ist wichtiger, eher als Quantität.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  量よりむしろ質のほうが大切だ。
+  量[りょう]よりむしろ 質[しつ]のほうが 大切[たいせつ]だ。
+  Qualität ist wichtiger, eher als Quantität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

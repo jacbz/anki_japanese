@@ -1,13 +1,24 @@
 Rang: 4645
 Lemma: ビタミン
-Lesung: ビタミン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Vitamin
-Beispielsatz: ビタミンの豊富な野菜を食べてください。
-Beispielsatz-Lesung: ビタミンの 豊富[ほうふ]な 野菜[やさい]を 食[た]べてください。
-Beispielsatz-Übersetzung: Bitte essen Sie vitaminreiches Gemüse.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ビタミンの豊富な野菜を食べてください。
+  ビタミンの 豊富[ほうふ]な 野菜[やさい]を 食[た]べてください。
+  Bitte essen Sie vitaminreiches Gemüse.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 961
 Lemma: たまに
-Lesung: たまに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gelegentlich, ab und zu
-Beispielsatz: たまに居酒屋でお酒を飲む。
-Beispielsatz-Lesung: たまに 居酒屋[いざかや]でお 酒[さけ]を 飲[の]む。
-Beispielsatz-Übersetzung: Ich trinke ab und zu in einer Kneipe.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たまに居酒屋でお酒を飲む。
+  たまに 居酒屋[いざかや]でお 酒[さけ]を 飲[の]む。
+  Ich trinke ab und zu in einer Kneipe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

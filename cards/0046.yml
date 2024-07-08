@@ -1,13 +1,24 @@
 Rang: 46
 Lemma: この
-Lesung: この
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dieses
-Beispielsatz: この本をもう読みましたか。
-Beispielsatz-Lesung: この 本[ほん]をもう 読[よ]みましたか。
-Beispielsatz-Übersetzung: Hast du dieses Buch schon gelesen?
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この本をもう読みましたか。
+  この 本[ほん]をもう 読[よ]みましたか。
+  Hast du dieses Buch schon gelesen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

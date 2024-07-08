@@ -1,14 +1,28 @@
 Rang: 3652
 Lemma: 削減
 Lesung: さくげん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: kürzen, reduzieren; kürzen, senken
 Extra: （する）
 Wortart: n. v.
-Definition: kürzen, reduzieren; kürzen, senken
-Beispielsatz: 機械化により、生産コストの削減を目指す。
-Beispielsatz-Lesung: 機械化[きかいか]により、 生産[せいさん]コストの 削減[さくげん]を 目指[めざ]す。
-Beispielsatz-Übersetzung: Ihr Ziel ist es, die Produktionskosten durch Mechanisierung
-  zu senken.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  機械化により、生産コストの削減を目指す。
+  機械化[きかいか]により、 生産[せいさん]コストの 削減[さくげん]を 目指[めざ]す。
+  Ihr Ziel ist es, die Produktionskosten durch Mechanisierung zu senken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

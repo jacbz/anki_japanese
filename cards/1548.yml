@@ -1,13 +1,24 @@
 Rang: 1548
 Lemma: 適用
 Lesung: てきよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Anwendung
 Extra: （する）
 Wortart: n. v.
-Definition: Anwendung
-Beispielsatz: その規則はこの場合には適用されない。
-Beispielsatz-Lesung: その 規則[きそく]はこの 場合[ばあい]には 適用[てきよう]されない。
-Beispielsatz-Übersetzung: Die Regel gilt in diesem Fall nicht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その規則はこの場合には適用されない。
+  その 規則[きそく]はこの 場合[ばあい]には 適用[てきよう]されない。
+  Die Regel gilt in diesem Fall nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

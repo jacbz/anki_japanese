@@ -1,13 +1,27 @@
 Rang: 781
 Lemma: 乗せる
 Lesung: のせる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aufnehmen, mitnehmen
-Beispielsatz: タクシーは駅で客を乗せた。
-Beispielsatz-Lesung: タクシーは 駅[えき]で 客[きゃく]を 乗[の]せた。
-Beispielsatz-Übersetzung: Das Taxi nahm am Bahnhof einen Kunden mit.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  タクシーは駅で客を乗せた。
+  タクシーは 駅[えき]で 客[きゃく]を 乗[の]せた。
+  Das Taxi nahm am Bahnhof einen Kunden mit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

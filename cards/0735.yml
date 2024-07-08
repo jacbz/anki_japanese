@@ -1,13 +1,24 @@
 Rang: 735
 Lemma: 作り方
 Lesung: つくりかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wie man macht
-Beispielsatz: 母がケーキの作り方を教えてくれた。
-Beispielsatz-Lesung: 母[はは]がケーキの 作[つく]り 方[かた]を 教[おし]えてくれた。
-Beispielsatz-Übersetzung: Meine Mutter hat mir beigebracht, wie man Kuchen macht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母がケーキの作り方を教えてくれた。
+  母[はは]がケーキの 作[つく]り 方[かた]を 教[おし]えてくれた。
+  Meine Mutter hat mir beigebracht, wie man Kuchen macht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3097
 Lemma: とりわけ
-Lesung: とりわけ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: besonders
-Beispielsatz: この地域の夏はとりわけ暑い。
-Beispielsatz-Lesung: この 地域[ちいき]の 夏[なつ]はとりわけ 暑[あつ]い。
-Beispielsatz-Übersetzung: Es ist besonders heiß in diesem Gebiet im Sommer.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この地域の夏はとりわけ暑い。
+  この 地域[ちいき]の 夏[なつ]はとりわけ 暑[あつ]い。
+  Es ist besonders heiß in diesem Gebiet im Sommer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

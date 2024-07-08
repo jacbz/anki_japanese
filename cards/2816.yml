@@ -1,13 +1,28 @@
 Rang: 2816
 Lemma: 生き物
 Lesung: いきもの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Lebewesen, Kreatur
-Beispielsatz: あらゆる生き物を大切にしなさい。
-Beispielsatz-Lesung: あらゆる 生[い]き 物[もの]を 大切[たいせつ]にしなさい。
-Beispielsatz-Übersetzung: Achte auf alle Lebewesen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">も</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">の</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あらゆる生き物を大切にしなさい。
+  あらゆる 生[い]き 物[もの]を 大切[たいせつ]にしなさい。
+  Achte auf alle Lebewesen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

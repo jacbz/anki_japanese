@@ -1,13 +1,24 @@
 Rang: 5
 Lemma: を
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
+Alternativschreibweisen: ''
 Definition: AKKUSATIV
-Beispielsatz: 彼は毎晩ビールを飲む。
-Beispielsatz-Lesung: 彼[かれ]は 毎晩[まいばん]ビールを 飲[の]む。
-Beispielsatz-Übersetzung: Er trinkt jeden Abend Bier.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は毎晩ビールを飲む。
+  彼[かれ]は 毎晩[まいばん]ビールを 飲[の]む。
+  Er trinkt jeden Abend Bier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

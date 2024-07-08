@@ -1,13 +1,24 @@
 Rang: 3971
 Lemma: きっちり
-Lesung: きっちり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: fest
-Beispielsatz: 彼女はドアをきっちり閉めた。
-Beispielsatz-Lesung: 彼女[かのじょ]はドアをきっちり 閉[し]めた。
-Beispielsatz-Übersetzung: Sie schloss die Tür fest.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はドアをきっちり閉めた。
+  彼女[かのじょ]はドアをきっちり 閉[し]めた。
+  Sie schloss die Tür fest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

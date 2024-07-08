@@ -1,13 +1,24 @@
 Rang: 1225
 Lemma: クリック
-Lesung: クリック
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Klick
 Extra: （する）
 Wortart: n., v.
-Definition: Klick
-Beispielsatz: ここをクリックしてファイルを開いてください。
-Beispielsatz-Lesung: ここをクリックしてファイルを 開[ひら]いてください。
-Beispielsatz-Übersetzung: Klicken Sie hier, um die Datei zu öffnen.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ここをクリックしてファイルを開いてください。
+  ここをクリックしてファイルを 開[ひら]いてください。
+  Klicken Sie hier, um die Datei zu öffnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

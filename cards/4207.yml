@@ -1,13 +1,24 @@
 Rang: 4207
 Lemma: 結合
 Lesung: けつごう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Kombination; kombinieren, verbinden
 Extra: （する）
 Wortart: n. v.
-Definition: Kombination; kombinieren, verbinden
-Beispielsatz: ロープウェイで二つの島を結合させた。
-Beispielsatz-Lesung: ロープウェイで 二[ふた]つの 島[しま]を 結合[けつごう]させた。
-Beispielsatz-Übersetzung: Die beiden Inseln waren mit einer Seilbahn verbunden.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ロープウェイで二つの島を結合させた。
+  ロープウェイで 二[ふた]つの 島[しま]を 結合[けつごう]させた。
+  Die beiden Inseln waren mit einer Seilbahn verbunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 733
 Lemma: 低い
 Lesung: ひくい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: niedrig, kurz
-Beispielsatz: この食事はカロリーが低い。
-Beispielsatz-Lesung: この 食事[しょくじ]はカロリーが 低[ひく]い。
-Beispielsatz-Übersetzung: Diese Mahlzeit hat wenige Kalorien.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この食事はカロリーが低い。
+  この 食事[しょくじ]はカロリーが 低[ひく]い。
+  Diese Mahlzeit hat wenige Kalorien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

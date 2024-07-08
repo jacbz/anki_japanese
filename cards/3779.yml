@@ -1,13 +1,24 @@
 Rang: 3779
 Lemma: 早く
 Lesung: はやく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: früh, bald
-Beispielsatz: 父は毎日朝早くから夜遅くまで働いている。
-Beispielsatz-Lesung: 父[ちち]は 毎日[まいにち] 朝早[あさはや]くから 夜遅[よるおそ]くまで 働[はたら]いている。
-Beispielsatz-Übersetzung: Mein Vater arbeitet jeden Tag von frühmorgens bis spätabends.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父は毎日朝早くから夜遅くまで働いている。
+  父[ちち]は 毎日[まいにち] 朝早[あさはや]くから 夜遅[よるおそ]くまで 働[はたら]いている。
+  Mein Vater arbeitet jeden Tag von frühmorgens bis spätabends.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

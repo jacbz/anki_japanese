@@ -1,13 +1,24 @@
 Rang: 4168
 Lemma: 保有
 Lesung: ほゆう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: besitzen; halten, besitzen
 Extra: （する）
 Wortart: n. v.
-Definition: besitzen; halten, besitzen
-Beispielsatz: 自分の会社の株を保有しています。
-Beispielsatz-Lesung: 自分[じぶん]の 会社[かいしゃ]の 株[かぶ]を 保有[ほゆう]しています。
-Beispielsatz-Übersetzung: Ich besitze Aktien in meinem eigenen Unternehmen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  自分の会社の株を保有しています。
+  自分[じぶん]の 会社[かいしゃ]の 株[かぶ]を 保有[ほゆう]しています。
+  Ich besitze Aktien in meinem eigenen Unternehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 3423
 Lemma: 素早い
 Lesung: すばやい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: schnell
-Beispielsatz: 政府の対応は素早かった。
-Beispielsatz-Lesung: 政府[せいふ]の 対応[たいおう]は 素早[すばや]かった。
-Beispielsatz-Übersetzung: Die Regierung hat schnell reagiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ば</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">や</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府の対応は素早かった。
+  政府[せいふ]の 対応[たいおう]は 素早[すばや]かった。
+  Die Regierung hat schnell reagiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

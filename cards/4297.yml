@@ -1,13 +1,28 @@
 Rang: 4297
 Lemma: 食卓
 Lesung: しょくたく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Esstisch
-Beispielsatz: 食卓にごちそうが並べてあった。
-Beispielsatz-Lesung: 食卓[しょくたく]にごちそうが 並[なら]べてあった。
-Beispielsatz-Übersetzung: Der Esstisch war mit einem Festmahl gedeckt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">た</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  食卓にごちそうが並べてあった。
+  食卓[しょくたく]にごちそうが 並[なら]べてあった。
+  Der Esstisch war mit einem Festmahl gedeckt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

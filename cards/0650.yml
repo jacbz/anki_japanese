@@ -1,13 +1,24 @@
 Rang: 650
 Lemma: しっかり
-Lesung: しっかり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: fest
-Beispielsatz: 電車のつり革にしっかりつかまった。
-Beispielsatz-Lesung: 電車[でんしゃ]のつり 革[かわ]にしっかりつかまった。
-Beispielsatz-Übersetzung: Ich hielt mich fest an einem Griff in der Bahn.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電車のつり革にしっかりつかまった。
+  電車[でんしゃ]のつり 革[かわ]にしっかりつかまった。
+  Ich hielt mich fest an einem Griff in der Bahn.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

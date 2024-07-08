@@ -1,13 +1,28 @@
 Rang: 966
 Lemma: 自ら
 Lesung: みずから
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: persönlich, selbst
-Beispielsatz: 彼女自らが失敗を招いた。
-Beispielsatz-Lesung: 彼女[かのじょ] 自[みずか]らが 失敗[しっぱい]を 招[まね]いた。
-Beispielsatz-Übersetzung: Sie hat diesen Misserfolg selbst verursacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">み</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ず</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女自らが失敗を招いた。
+  彼女[かのじょ] 自[みずか]らが 失敗[しっぱい]を 招[まね]いた。
+  Sie hat diesen Misserfolg selbst verursacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

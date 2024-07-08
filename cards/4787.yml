@@ -1,14 +1,24 @@
 Rang: 4787
 Lemma: OB
 Lesung: おーびー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: (alter Junge), Absolvent
-Beispielsatz: 就職活動のためOBを訪問した。
-Beispielsatz-Lesung: 就職活動[しゅうしょくかつどう]のためOBを 訪問[ほうもん]した。
-Beispielsatz-Übersetzung: Ich besuchte einen alten Knaben im Zusammenhang mit der
-  Arbeitssuche.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  就職活動のためOBを訪問した。
+  就職活動[しゅうしょくかつどう]のためOBを 訪問[ほうもん]した。
+  Ich besuchte einen alten Knaben im Zusammenhang mit der Arbeitssuche.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

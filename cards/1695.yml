@@ -1,13 +1,24 @@
 Rang: 1695
 Lemma: 演奏
 Lesung: えんそう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: (musikalische) Aufführung; aufführen, spielen
 Extra: （する）
 Wortart: n. v.
-Definition: (musikalische) Aufführung; aufführen, spielen
-Beispielsatz: 素晴らしい演奏だった。
-Beispielsatz-Lesung: 素晴[すば]らしい 演奏[えんそう]だった。
-Beispielsatz-Übersetzung: Es war eine wunderbare Aufführung.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  素晴らしい演奏だった。
+  素晴[すば]らしい 演奏[えんそう]だった。
+  Es war eine wunderbare Aufführung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

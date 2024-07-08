@@ -1,13 +1,24 @@
 Rang: 4583
 Lemma: 注意点
 Lesung: ちゅういてん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wichtiger Punkt
-Beispielsatz: 明日の試合の注意点を練習した。
-Beispielsatz-Lesung: 明日[あした]の 試合[しあい]の 注意点[ちゅういてん]を 練習[れんしゅう]した。
-Beispielsatz-Übersetzung: Ich habe die wichtigen Punkte für das morgige Spiel geübt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日の試合の注意点を練習した。
+  明日[あした]の 試合[しあい]の 注意点[ちゅういてん]を 練習[れんしゅう]した。
+  Ich habe die wichtigen Punkte für das morgige Spiel geübt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

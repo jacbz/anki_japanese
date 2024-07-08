@@ -1,13 +1,24 @@
 Rang: 2853
 Lemma: 事例
 Lesung: じれい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fall
-Beispielsatz: 過去の事例を調べる。
-Beispielsatz-Lesung: 過去[かこ]の 事例[じれい]を 調[しら]べる。
-Beispielsatz-Übersetzung: Ich werde vergangene Fälle untersuchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  過去の事例を調べる。
+  過去[かこ]の 事例[じれい]を 調[しら]べる。
+  Ich werde vergangene Fälle untersuchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

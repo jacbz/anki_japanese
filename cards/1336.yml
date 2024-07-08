@@ -1,13 +1,28 @@
 Rang: 1336
 Lemma: 導入
 Lesung: どうにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einführung
 Extra: （する）
 Wortart: n. v.
-Definition: Einführung
-Beispielsatz: その国は新しい税金を導入した。
-Beispielsatz-Lesung: その 国[くに]は 新[あたら]しい 税金[ぜいきん]を 導入[どうにゅう]した。
-Beispielsatz-Übersetzung: Das Land hat eine neue Steuer eingeführt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">に</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その国は新しい税金を導入した。
+  その 国[くに]は 新[あたら]しい 税金[ぜいきん]を 導入[どうにゅう]した。
+  Das Land hat eine neue Steuer eingeführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

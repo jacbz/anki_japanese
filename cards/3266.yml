@@ -1,13 +1,24 @@
 Rang: 3266
 Lemma: パワー
-Lesung: パワー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Kraft
-Beispielsatz: あの歌手の歌にはパワーを感じる。
-Beispielsatz-Lesung: あの 歌手[かしゅ]の 歌[うた]にはパワーを 感[かん]じる。
-Beispielsatz-Übersetzung: Ich spüre die Kraft in dem Gesang des Sängers.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの歌手の歌にはパワーを感じる。
+  あの 歌手[かしゅ]の 歌[うた]にはパワーを 感[かん]じる。
+  Ich spüre die Kraft in dem Gesang des Sängers.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 1995
 Lemma: 踊る
 Lesung: おどる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: tanzen
-Beispielsatz: 一晩中カラオケを歌ったり踊ったりした。
-Beispielsatz-Lesung: 一晩中[ひとばんじゅう]カラオケを 歌[うた]ったり 踊[おど]ったりした。
-Beispielsatz-Übersetzung: Ich habe die ganze Nacht getanzt und Karaoke gesungen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一晩中カラオケを歌ったり踊ったりした。
+  一晩中[ひとばんじゅう]カラオケを 歌[うた]ったり 踊[おど]ったりした。
+  Ich habe die ganze Nacht getanzt und Karaoke gesungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

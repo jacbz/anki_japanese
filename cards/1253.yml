@@ -1,13 +1,24 @@
 Rang: 1253
 Lemma: よろしく
-Lesung: よろしく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gut, ordentlich, herzliche Grüße
-Beispielsatz: 彼によろしくお伝えください。
-Beispielsatz-Lesung: 彼[かれ]によろしくお 伝[つた]えください。
-Beispielsatz-Übersetzung: Bitte grüßen Sie ihn herzlich von mir.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼によろしくお伝えください。
+  彼[かれ]によろしくお 伝[つた]えください。
+  Bitte grüßen Sie ihn herzlich von mir.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

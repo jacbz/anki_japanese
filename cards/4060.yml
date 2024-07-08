@@ -1,13 +1,24 @@
 Rang: 4060
 Lemma: 駆け付ける
 Lesung: かけつける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: rennen, eilen
-Beispielsatz: 警察は現場に駆け付けた。
-Beispielsatz-Lesung: 警察[けいさつ]は 現場[げんば]に 駆[か]け 付[つ]けた。
-Beispielsatz-Übersetzung: Die Polizei eilte zum Tatort.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  警察は現場に駆け付けた。
+  警察[けいさつ]は 現場[げんば]に 駆[か]け 付[つ]けた。
+  Die Polizei eilte zum Tatort.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

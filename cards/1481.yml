@@ -1,13 +1,28 @@
 Rang: 1481
 Lemma: 困難
 Lesung: こんなん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Schwierigkeit, Schwierigkeiten
-Beispielsatz: 彼らはこれまで多くの困難を乗り越えてきた。
-Beispielsatz-Lesung: 彼[かれ]らはこれまで 多[おお]くの 困難[こんなん]を 乗[の]り 越[こ]えてきた。
-Beispielsatz-Übersetzung: Sie haben viele Schwierigkeiten überwunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">な</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らはこれまで多くの困難を乗り越えてきた。
+  彼[かれ]らはこれまで 多[おお]くの 困難[こんなん]を 乗[の]り 越[こ]えてきた。
+  Sie haben viele Schwierigkeiten überwunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

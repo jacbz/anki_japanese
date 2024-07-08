@@ -1,13 +1,24 @@
 Rang: 3979
 Lemma: 苦笑
 Lesung: くしょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ein schiefes Lächeln zeigen
-Beispielsatz: 彼はそれを聞いて苦笑した。
-Beispielsatz-Lesung: 彼[かれ]はそれを 聞[き]いて 苦笑[くしょう]した。
-Beispielsatz-Übersetzung: Als er das hörte, zeigte er ein schiefes Lächeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はそれを聞いて苦笑した。
+  彼[かれ]はそれを 聞[き]いて 苦笑[くしょう]した。
+  Als er das hörte, zeigte er ein schiefes Lächeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 4835
 Lemma: 二度目
-Lesung: にどーめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: にどめ
+Alternativschreibweisen: ''
 Definition: zweite Mal
-Beispielsatz: 我々の訪英は二度目であった。
-Beispielsatz-Lesung: 我々[われわれ]の 訪英[ほうえい]は二 度目[どめ]であった。
-Beispielsatz-Übersetzung: Das war das zweite Mal, dass wir das Vereinigte Königreich
-  besucht haben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我々の訪英は二度目であった。
+  我々[われわれ]の 訪英[ほうえい]は二 度目[どめ]であった。
+  Das war das zweite Mal, dass wir das Vereinigte Königreich besucht haben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

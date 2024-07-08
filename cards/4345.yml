@@ -1,14 +1,24 @@
 Rang: 4345
 Lemma: 即
 Lesung: そく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: sofort
-Beispielsatz: そのサッカー選手はレッドカードで即退場させられた。
-Beispielsatz-Lesung: そのサッカー 選手[せんしゅ]はレッドカードで 即[そく] 退場[たいじょう]させられた。
-Beispielsatz-Übersetzung: Der Fußballspieler wurde sofort mit einer roten Karte vom
-  Platz geschickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのサッカー選手はレッドカードで即退場させられた。
+  そのサッカー 選手[せんしゅ]はレッドカードで 即[そく] 退場[たいじょう]させられた。
+  Der Fußballspieler wurde sofort mit einer roten Karte vom Platz geschickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

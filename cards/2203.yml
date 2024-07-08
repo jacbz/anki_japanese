@@ -1,13 +1,24 @@
 Rang: 2203
 Lemma: ハワイ
-Lesung: ハワイ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Hawaii
-Beispielsatz: 休みはハワイに行く。
-Beispielsatz-Lesung: 休[やす]みはハワイに 行[い]く。
-Beispielsatz-Übersetzung: Ich werde für den Urlaub nach Hawaii gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  休みはハワイに行く。
+  休[やす]みはハワイに 行[い]く。
+  Ich werde für den Urlaub nach Hawaii gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

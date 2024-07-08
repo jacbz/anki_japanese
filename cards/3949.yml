@@ -1,13 +1,28 @@
 Rang: 3949
 Lemma: 欲望
 Lesung: よくぼう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Verlangen, Leidenschaft
-Beispielsatz: 彼は欲望をコントロールすることができなかった。
-Beispielsatz-Lesung: 彼[かれ]は 欲望[よくぼう]をコントロールすることができなかった。
-Beispielsatz-Übersetzung: Er konnte seine Leidenschaft nicht kontrollieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は欲望をコントロールすることができなかった。
+  彼[かれ]は 欲望[よくぼう]をコントロールすることができなかった。
+  Er konnte seine Leidenschaft nicht kontrollieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 707
 Lemma: 描く
 Lesung: えがく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zeichnen
-Beispielsatz: 風景を描くのが好きだ。
-Beispielsatz-Lesung: 風景[ふうけい]を 描[えが]くのが 好[す]きだ。
-Beispielsatz-Übersetzung: Ich zeichne gerne Landschaften.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  風景を描くのが好きだ。
+  風景[ふうけい]を 描[えが]くのが 好[す]きだ。
+  Ich zeichne gerne Landschaften.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

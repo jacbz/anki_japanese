@@ -1,13 +1,27 @@
 Rang: 2228
 Lemma: 微妙
 Lesung: びみょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: fein, subtil
-Beispielsatz: それは微妙な問題だ。
-Beispielsatz-Lesung: それは 微妙[びみょう]な 問題[もんだい]だ。
-Beispielsatz-Übersetzung: Das ist ein feines Problem.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">び</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">み</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは微妙な問題だ。
+  それは 微妙[びみょう]な 問題[もんだい]だ。
+  Das ist ein feines Problem.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

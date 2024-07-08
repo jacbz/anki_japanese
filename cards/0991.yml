@@ -1,13 +1,27 @@
 Rang: 991
 Lemma: 実家
 Lesung: じっか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Elternhaus
-Beispielsatz: ずいぶん長い間実家に戻っていない。
-Beispielsatz-Lesung: ずいぶん 長[なが]い 間[あいだ] 実家[じっか]に 戻[もど]っていない。
-Beispielsatz-Übersetzung: Ich habe meine Eltern seit Ewigkeiten nicht besucht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">か</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ずいぶん長い間実家に戻っていない。
+  ずいぶん 長[なが]い 間[あいだ] 実家[じっか]に 戻[もど]っていない。
+  Ich habe meine Eltern seit Ewigkeiten nicht besucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

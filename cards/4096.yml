@@ -1,13 +1,24 @@
 Rang: 4096
 Lemma: スキー場
 Lesung: すきいじょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Skigebiet, Skiort
-Beispielsatz: 私達はスキー場で偶然会いました。
-Beispielsatz-Lesung: 私[わたし] 達[たち]はスキー 場[じょー]で 偶然[ぐうぜん] 会[あ]いました。
-Beispielsatz-Übersetzung: Wir haben uns zufällig in einem Skigebiet getroffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達はスキー場で偶然会いました。
+  私[わたし] 達[たち]はスキー 場[じょー]で 偶然[ぐうぜん] 会[あ]いました。
+  Wir haben uns zufällig in einem Skigebiet getroffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

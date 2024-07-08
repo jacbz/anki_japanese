@@ -1,14 +1,26 @@
 Rang: 3836
 Lemma: 足す
 Lesung: たす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hinzufügen
-Beispielsatz: 味が薄いから、もう少ししょう油を足したほうがいい。
-Beispielsatz-Lesung: 味[あじ]が 薄[うす]いから、もう 少[すこ]ししょう 油[ゆ]を 足[た]したほうがいい。
-Beispielsatz-Übersetzung: Da es etwas fade schmeckt, solltest du ein bisschen mehr
-  Sojasauce hinzufügen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  味が薄いから、もう少ししょう油を足したほうがいい。
+  味[あじ]が 薄[うす]いから、もう 少[すこ]ししょう 油[ゆ]を 足[た]したほうがいい。
+  Da es etwas fade schmeckt, solltest du ein bisschen mehr Sojasauce hinzufügen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

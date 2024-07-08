@@ -1,13 +1,24 @@
 Rang: 4023
 Lemma: バラバラ
 Lesung: ばらばら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: getrennt
-Beispielsatz: 私は家族とバラバラに住んでいる。
-Beispielsatz-Lesung: 私[わたし]は 家族[かぞく]とバラバラに 住[す]んでいる。
-Beispielsatz-Übersetzung: Ich lebe getrennt von meiner Familie.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は家族とバラバラに住んでいる。
+  私[わたし]は 家族[かぞく]とバラバラに 住[す]んでいる。
+  Ich lebe getrennt von meiner Familie.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

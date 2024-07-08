@@ -1,13 +1,24 @@
 Rang: 4451
 Lemma: 無意識
 Lesung: むいしき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Unbewusstheit; unbewusst
-Beispielsatz: 私達は無意識に人を傷つけることがある。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は 無意識[むいしき]に人を 傷[きず]つけることがある。
-Beispielsatz-Übersetzung: Manchmal verletzen wir die Gefühle anderer Menschen unbewusst.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は無意識に人を傷つけることがある。
+  私[わたし] 達[たち]は 無意識[むいしき]に人を 傷[きず]つけることがある。
+  Manchmal verletzen wir die Gefühle anderer Menschen unbewusst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

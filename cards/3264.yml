@@ -1,13 +1,24 @@
 Rang: 3264
 Lemma: 俺達
 Lesung: おれたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: wir (von männlichen Sprechern verwendet)
-Beispielsatz: 俺達も知らない。
-Beispielsatz-Lesung: 俺[おれ] 達[たち]も 知[し]らない。
-Beispielsatz-Übersetzung: Wir wissen es auch nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  俺達も知らない。
+  俺[おれ] 達[たち]も 知[し]らない。
+  Wir wissen es auch nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

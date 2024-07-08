@@ -1,13 +1,24 @@
 Rang: 2908
 Lemma: オークション
-Lesung: オークション
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Auktion
-Beispielsatz: オークションで一億円で落札された。
-Beispielsatz-Lesung: オークションで一 億[おく] 円[えん]で 落札[らくさつ]された。
-Beispielsatz-Übersetzung: Bei einer Auktion wurde es für 100 Millionen Yen zugeschlagen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '34'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  オークションで一億円で落札された。
+  オークションで一 億[おく] 円[えん]で 落札[らくさつ]された。
+  Bei einer Auktion wurde es für 100 Millionen Yen zugeschlagen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

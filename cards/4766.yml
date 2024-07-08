@@ -1,13 +1,24 @@
 Rang: 4766
 Lemma: 若者達
 Lesung: わかものたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: junge Leute
-Beispielsatz: 多くの若者達がボランティア活動に参加しています。
-Beispielsatz-Lesung: 多[おお]くの 若者[わかもの] 達[たち]がボランティア 活動[かつどう]に 参加[さんか]しています。
-Beispielsatz-Übersetzung: Viele junge Leute sind an Freiwilligenarbeit beteiligt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くの若者達がボランティア活動に参加しています。
+  多[おお]くの 若者[わかもの] 達[たち]がボランティア 活動[かつどう]に 参加[さんか]しています。
+  Viele junge Leute sind an Freiwilligenarbeit beteiligt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3760
 Lemma: 多々
 Lesung: たた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: viele
-Beispielsatz: 反省すべき点が多々ある。
-Beispielsatz-Lesung: 反省[はんせい]すべき 点[てん]が 多々[たた]ある。
-Beispielsatz-Übersetzung: Es gibt viele Punkte, die überdacht werden müssen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  反省すべき点が多々ある。
+  反省[はんせい]すべき 点[てん]が 多々[たた]ある。
+  Es gibt viele Punkte, die überdacht werden müssen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

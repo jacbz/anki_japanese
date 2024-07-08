@@ -1,13 +1,25 @@
 Rang: 517
 Lemma: 図
 Lesung: ず
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zeichnung, Figur, Diagramm
-Beispielsatz: 先生は図を書いて説明した。
-Beispielsatz-Lesung: 先生[せんせい]は 図[ず]を 書[か]いて 説明[せつめい]した。
-Beispielsatz-Übersetzung: Der Lehrer hat die Figur gezeichnet und erklärt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-1"><span class="inner"><span
+  class="char">ず</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  先生は図を書いて説明した。
+  先生[せんせい]は 図[ず]を 書[か]いて 説明[せつめい]した。
+  Der Lehrer hat die Figur gezeichnet und erklärt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

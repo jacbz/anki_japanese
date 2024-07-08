@@ -1,13 +1,26 @@
 Rang: 4551
 Lemma: 果て
 Lesung: はて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: das Ende
-Beispielsatz: 世界の果てまで彼について行くと決めた。
-Beispielsatz-Lesung: 世界[せかい]の 果[は]てまで 彼[かれ]について 行[い]くと 決[き]めた。
-Beispielsatz-Übersetzung: Ich beschloss, ihm bis ans Ende der Welt zu folgen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">て</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界の果てまで彼について行くと決めた。
+  世界[せかい]の 果[は]てまで 彼[かれ]について 行[い]くと 決[き]めた。
+  Ich beschloss, ihm bis ans Ende der Welt zu folgen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

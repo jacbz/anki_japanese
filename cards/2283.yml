@@ -1,13 +1,28 @@
 Rang: 2283
 Lemma: 請求
 Lesung: せいきゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Forderung, Antrag
 Extra: （する）
 Wortart: n. v.
-Definition: Forderung, Antrag
-Beispielsatz: 代金を請求する。
-Beispielsatz-Lesung: 代金[だいきん]を 請求[せいきゅう]する。
-Beispielsatz-Übersetzung: Eine Zahlungsaufforderung wurde gestellt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  代金を請求する。
+  代金[だいきん]を 請求[せいきゅう]する。
+  Eine Zahlungsaufforderung wurde gestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

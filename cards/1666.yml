@@ -1,13 +1,24 @@
 Rang: 1666
 Lemma: デザイン
-Lesung: デザイン
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: gestalten; gestalten
 Extra: （する）
 Wortart: n. v.
-Definition: gestalten; gestalten
-Beispielsatz: このデザインは女性によく合う。
-Beispielsatz-Lesung: このデザインは 女性[じょせい]によく 合[あ]う。
-Beispielsatz-Übersetzung: Dieses Design passt gut zu Frauen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このデザインは女性によく合う。
+  このデザインは 女性[じょせい]によく 合[あ]う。
+  Dieses Design passt gut zu Frauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

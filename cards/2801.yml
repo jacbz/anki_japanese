@@ -1,13 +1,28 @@
 Rang: 2801
 Lemma: 産業
 Lesung: さんぎょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Industrie
-Beispielsatz: 多くのアフリカの国では産業が発達していない。
-Beispielsatz-Lesung: 多[おお]くのアフリカの 国[くに]では 産業[さんぎょう]が 発達[はったつ]していない。
-Beispielsatz-Übersetzung: In vielen afrikanischen Ländern ist die Industrie unterentwickelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぎ</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くのアフリカの国では産業が発達していない。
+  多[おお]くのアフリカの 国[くに]では 産業[さんぎょう]が 発達[はったつ]していない。
+  In vielen afrikanischen Ländern ist die Industrie unterentwickelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

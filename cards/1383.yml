@@ -1,13 +1,28 @@
 Rang: 1383
 Lemma: 特別
 Lesung: とくべつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: besonders, speziell
-Beispielsatz: この仕事に特別な技術は必要ありません。
-Beispielsatz-Lesung: この 仕事[しごと]に 特別[とくべつ]な 技術[ぎじゅつ]は 必要[ひつよう]ありません。
-Beispielsatz-Übersetzung: Für diese Arbeit sind keine besonderen Fähigkeiten erforderlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">べ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この仕事に特別な技術は必要ありません。
+  この 仕事[しごと]に 特別[とくべつ]な 技術[ぎじゅつ]は 必要[ひつよう]ありません。
+  Für diese Arbeit sind keine besonderen Fähigkeiten erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,27 @@
 Rang: 3552
 Lemma: 譲る
 Lesung: ゆずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: geben; verkaufen; anbieten
-Beispielsatz: 電車でお年寄りに席を譲った。
-Beispielsatz-Lesung: 電車[でんしゃ]でお 年寄[としよ]りに 席[せき]を 譲[ゆず]った。
-Beispielsatz-Übersetzung: Ich habe einem älteren Menschen im Zug meinen Sitzplatz
-  angeboten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ず</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電車でお年寄りに席を譲った。
+  電車[でんしゃ]でお 年寄[としよ]りに 席[せき]を 譲[ゆず]った。
+  Ich habe einem älteren Menschen im Zug meinen Sitzplatz angeboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

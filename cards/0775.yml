@@ -1,13 +1,24 @@
 Rang: 775
 Lemma: ことがある
-Lesung: ことがある
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwas getan haben; es gibt manchmal
-Beispielsatz: 北海道に行ったことがある。
-Beispielsatz-Lesung: 北海道[ほっかいどう]に 行[い]ったことがある。
-Beispielsatz-Übersetzung: Ich war schon in Hokkaido.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  北海道に行ったことがある。
+  北海道[ほっかいどう]に 行[い]ったことがある。
+  Ich war schon in Hokkaido.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

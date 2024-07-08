@@ -1,13 +1,27 @@
 Rang: 1294
 Lemma: 痛み
 Lesung: いたみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schmerz
-Beispielsatz: これは痛みを和らげるための薬です。
-Beispielsatz-Lesung: これは 痛[いた]みを 和[やわ]らげるための 薬[くすり]です。
-Beispielsatz-Übersetzung: Dies ist ein Medikament zur Linderung von Schmerzen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは痛みを和らげるための薬です。
+  これは 痛[いた]みを 和[やわ]らげるための 薬[くすり]です。
+  Dies ist ein Medikament zur Linderung von Schmerzen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

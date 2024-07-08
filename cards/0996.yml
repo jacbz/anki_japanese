@@ -1,13 +1,27 @@
 Rang: 996
 Lemma: 確保
 Lesung: かくほ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Sicherstellung
 Extra: （する）
 Wortart: n. v.
-Definition: Sicherstellung
-Beispielsatz: 政府は国民の安全を確保しなければならない。
-Beispielsatz-Lesung: 政府[せいふ]は 国民[こくみん]の 安全[あんぜん]を 確保[かくほ]しなければならない。
-Beispielsatz-Übersetzung: Die Regierung muss die Sicherheit der Menschen gewährleisten.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ほ</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府は国民の安全を確保しなければならない。
+  政府[せいふ]は 国民[こくみん]の 安全[あんぜん]を 確保[かくほ]しなければならない。
+  Die Regierung muss die Sicherheit der Menschen gewährleisten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

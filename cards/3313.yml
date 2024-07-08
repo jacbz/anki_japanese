@@ -1,13 +1,29 @@
 Rang: 3313
 Lemma: 幅広い
 Lesung: はばひろい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: weitreichend, umfassend
-Beispielsatz: この商品は幅広い年齢層で人気がある。
-Beispielsatz-Lesung: この 商品[しょうひん]は 幅広[はばひろ]い 年齢層[ねんれいそう]で 人気[にんき]がある。
-Beispielsatz-Übersetzung: Dieses Produkt ist bei einer breiten Altersgruppe beliebt.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ば</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この商品は幅広い年齢層で人気がある。
+  この 商品[しょうひん]は 幅広[はばひろ]い 年齢層[ねんれいそう]で 人気[にんき]がある。
+  Dieses Produkt ist bei einer breiten Altersgruppe beliebt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

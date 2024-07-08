@@ -1,14 +1,24 @@
 Rang: 3939
 Lemma: 二十四
 Lesung: にじゅうし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: num.
+Alternativschreibweisen: ''
 Definition: vierundzwanzig
-Beispielsatz: 彼は二十四で大学院修士課程を修了した。
-Beispielsatz-Lesung: 彼[かれ]は二十四で 大学院[だいがくいん] 修士課程[しゅうしかてい]を 修了[しゅうりょう]した。
-Beispielsatz-Übersetzung: Er hat seinen Master-Abschluss mit vierundzwanzig Jahren
-  abgeschlossen.
+Extra: '' # Nur bei suru-Verben
+Wortart: num.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は二十四で大学院修士課程を修了した。
+  彼[かれ]は二十四で 大学院[だいがくいん] 修士課程[しゅうしかてい]を 修了[しゅうりょう]した。
+  Er hat seinen Master-Abschluss mit vierundzwanzig Jahren abgeschlossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

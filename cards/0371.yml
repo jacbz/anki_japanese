@@ -1,13 +1,24 @@
 Rang: 371
 Lemma: なければいけない
-Lesung: なければいけない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: müssen
-Beispielsatz: もっと勉強しなければいけないと思った。
-Beispielsatz-Lesung: もっと 勉強[べんきょう]しなければいけないと 思[おも]った。
-Beispielsatz-Übersetzung: Ich dachte, dass ich mehr lernen muss.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もっと勉強しなければいけないと思った。
+  もっと 勉強[べんきょう]しなければいけないと 思[おも]った。
+  Ich dachte, dass ich mehr lernen muss.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

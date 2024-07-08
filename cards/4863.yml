@@ -1,13 +1,24 @@
 Rang: 4863
 Lemma: 鮮明
 Lesung: せんめい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: klar, lebhaft
-Beispielsatz: テレビの映像は以前より鮮明だ。
-Beispielsatz-Lesung: テレビの 映像[えいぞう]は 以前[いぜん]より 鮮明[せんめい]だ。
-Beispielsatz-Übersetzung: Die Fernsehbilder sind viel klarer als früher.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  テレビの映像は以前より鮮明だ。
+  テレビの 映像[えいぞう]は 以前[いぜん]より 鮮明[せんめい]だ。
+  Die Fernsehbilder sind viel klarer als früher.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

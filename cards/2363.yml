@@ -1,13 +1,28 @@
 Rang: 2363
 Lemma: 取り組み
 Lesung: とりくみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Herangehensweise; Ansatz
-Beispielsatz: 仕事への取り組み方が評価された。
-Beispielsatz-Lesung: 仕事[しごと]への 取[と]り 組[く]み 方[かた]が 評価[ひょうか]された。
-Beispielsatz-Übersetzung: Mein Ansatz zur Arbeit wurde hoch bewertet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  仕事への取り組み方が評価された。
+  仕事[しごと]への 取[と]り 組[く]み 方[かた]が 評価[ひょうか]された。
+  Mein Ansatz zur Arbeit wurde hoch bewertet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

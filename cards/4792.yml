@@ -1,14 +1,24 @@
 Rang: 4792
 Lemma: 債権者
 Lesung: さいけんしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gläubiger
-Beispielsatz: 彼は債権者に会社の負債について報告しなければならない。
-Beispielsatz-Lesung: 彼[かれ]は 債権者[さいけんしゃ]に 会社[かいしゃ]の 負債[ふさい]について 報告[ほうこく]しなければならない。
-Beispielsatz-Übersetzung: Er muss den Gläubigern über die Schulden des Unternehmens
-  berichten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は債権者に会社の負債について報告しなければならない。
+  彼[かれ]は 債権者[さいけんしゃ]に 会社[かいしゃ]の 負債[ふさい]について 報告[ほうこく]しなければならない。
+  Er muss den Gläubigern über die Schulden des Unternehmens berichten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

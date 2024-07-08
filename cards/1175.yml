@@ -1,14 +1,27 @@
 Rang: 1175
 Lemma: 主張
 Lesung: しゅちょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Argument, Behauptung
 Extra: （する）
 Wortart: n. v.
-Definition: Argument, Behauptung
-Beispielsatz: 大臣は政治改革が必要だと主張した。
-Beispielsatz-Lesung: 大臣[だいじん]は 政治改革[せいじかいかく]が 必要[ひつよう]だと 主張[しゅちょう]した。
-Beispielsatz-Übersetzung: Der Minister argumentierte, dass politische Reformen notwendig
-  seien.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ち</span><span class="char">ょ</span></span></span><span
+  class="accent_plain mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大臣は政治改革が必要だと主張した。
+  大臣[だいじん]は 政治改革[せいじかいかく]が 必要[ひつよう]だと 主張[しゅちょう]した。
+  Der Minister argumentierte, dass politische Reformen notwendig seien.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

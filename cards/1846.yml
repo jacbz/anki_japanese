@@ -1,13 +1,26 @@
 Rang: 1846
 Lemma: 虫
 Lesung: むし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Insekt, Käfer; Wurm
-Beispielsatz: 母は本当に虫が嫌いだ。
-Beispielsatz-Lesung: 母[はは]は 本当[ほんとう]に 虫[むし]が 嫌[きら]いだ。
-Beispielsatz-Übersetzung: Meine Mutter mag eigentlich keine Insekten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母は本当に虫が嫌いだ。
+  母[はは]は 本当[ほんとう]に 虫[むし]が 嫌[きら]いだ。
+  Meine Mutter mag eigentlich keine Insekten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

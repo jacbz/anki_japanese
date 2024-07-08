@@ -1,13 +1,24 @@
 Rang: 632
 Lemma: さえ
-Lesung: さえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sogar; außerdem; wenn nur
-Beispielsatz: それは子供でさえわかる。
-Beispielsatz-Lesung: それは 子供[こども]でさえわかる。
-Beispielsatz-Übersetzung: Sogar Kinder können es verstehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それは子供でさえわかる。
+  それは 子供[こども]でさえわかる。
+  Sogar Kinder können es verstehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

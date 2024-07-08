@@ -1,13 +1,24 @@
 Rang: 88
-Lemma: くらい<br>ぐらい
+Lemma: くらい
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Alternativschreibweisen: ぐらい
 Definition: ungefähr, etwa
-Beispielsatz: 彼女は二十歳ぐらいに見える。
-Beispielsatz-Lesung: 彼女[かのじょ]は 二十歳[はたち]ぐらいに 見[み]える。
-Beispielsatz-Übersetzung: Sie sieht ungefähr zwanzig Jahre alt aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は二十歳ぐらいに見える。
+  彼女[かのじょ]は 二十歳[はたち]ぐらいに 見[み]える。
+  Sie sieht ungefähr zwanzig Jahre alt aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

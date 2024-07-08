@@ -1,14 +1,24 @@
 Rang: 2769
 Lemma: をはじめ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Alternativschreibweisen: ''
 Definition: beginnend mit, einschließlich
-Beispielsatz: 校長をはじめとして、学校全体がその案に賛成した。
-Beispielsatz-Lesung: 校長[こうちょう]をはじめとして、 学校[がっこう] 全体[ぜんたい]がその 案[あん]に 賛成[さんせい]した。
-Beispielsatz-Übersetzung: Die gesamte Schule, einschließlich des Schulleiters, stimmte
-  dieser Idee zu.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  校長をはじめとして、学校全体がその案に賛成した。
+  校長[こうちょう]をはじめとして、 学校[がっこう] 全体[ぜんたい]がその 案[あん]に 賛成[さんせい]した。
+  Die gesamte Schule, einschließlich des Schulleiters, stimmte dieser Idee zu.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

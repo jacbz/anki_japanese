@@ -1,14 +1,28 @@
 Rang: 1193
 Lemma: 出来事
 Lesung: できごと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ereignis, Angelegenheit, Geschehen
-Beispielsatz: その歴史的出来事についてはほとんど記録がない。
-Beispielsatz-Lesung: その 歴史的[れきしてき] 出来事[できごと]についてはほとんど 記録[きろく]がない。
-Beispielsatz-Übersetzung: Es gibt sehr wenige Aufzeichnungen über das historische
-  Ereignis.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">で</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ご</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">と</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その歴史的出来事についてはほとんど記録がない。
+  その 歴史的[れきしてき] 出来事[できごと]についてはほとんど 記録[きろく]がない。
+  Es gibt sehr wenige Aufzeichnungen über das historische Ereignis.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

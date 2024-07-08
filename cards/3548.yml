@@ -1,13 +1,24 @@
 Rang: 3548
 Lemma: 論ずる
 Lesung: ろんずる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: argumentieren, diskutieren
-Beispielsatz: 国の習慣について論ずるのは難しい。
-Beispielsatz-Lesung: 国[くに]の 習慣[しゅうかん]について 論[ろん]ずるのは 難[むずか]しい。
-Beispielsatz-Übersetzung: Es ist schwierig, die Bräuche des Landes zu diskutieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国の習慣について論ずるのは難しい。
+  国[くに]の 習慣[しゅうかん]について 論[ろん]ずるのは 難[むずか]しい。
+  Es ist schwierig, die Bräuche des Landes zu diskutieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

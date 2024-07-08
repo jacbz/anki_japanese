@@ -1,13 +1,28 @@
 Rang: 2477
 Lemma: 進行
 Lesung: しんこう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. v.
+Alternativschreibweisen: ''
 Definition: Fortschritt
-Beispielsatz: 結婚式の進行について確認する。
-Beispielsatz-Lesung: 結婚式[けっこんしき]の 進行[しんこう]について 確認[かくにん]する。
-Beispielsatz-Übersetzung: Sie überprüfen den Fortgang der Hochzeit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  結婚式の進行について確認する。
+  結婚式[けっこんしき]の 進行[しんこう]について 確認[かくにん]する。
+  Sie überprüfen den Fortgang der Hochzeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 196
 Lemma: 好き
 Lesung: すき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: mögen, lieben; Lieblings-
-Beispielsatz: 好きな食べ物は何ですか？
-Beispielsatz-Lesung: 好[す]きな 食[た]べ 物[もの]は 何[な]ですか？
-Beispielsatz-Übersetzung: Was ist dein Lieblingsessen?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  好きな食べ物は何ですか？
+  好[す]きな 食[た]べ 物[もの]は 何[な]ですか？
+  Was ist dein Lieblingsessen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

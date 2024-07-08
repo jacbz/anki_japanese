@@ -1,13 +1,24 @@
 Rang: 4896
 Lemma: 触れ合い
 Lesung: ふれあい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Berührung, Kontakt
-Beispielsatz: この動物園では動物との触れ合いを楽しむことができる。
-Beispielsatz-Lesung: この 動物園[どうぶつえん]では 動物[どうぶつ]との 触[ふ]れ 合[あ]いを 楽[たの]しむことができる。
-Beispielsatz-Übersetzung: In diesem Zoo kann man den Kontakt mit Tieren genießen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この動物園では動物との触れ合いを楽しむことができる。
+  この 動物園[どうぶつえん]では 動物[どうぶつ]との 触[ふ]れ 合[あ]いを 楽[たの]しむことができる。
+  In diesem Zoo kann man den Kontakt mit Tieren genießen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

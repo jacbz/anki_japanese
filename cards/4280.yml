@@ -1,13 +1,24 @@
 Rang: 4280
 Lemma: リサイクル
-Lesung: リサイクル
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: recyceln; recyceln
 Extra: （する）
 Wortart: n. v.
-Definition: recyceln; recyceln
-Beispielsatz: 空き缶をリサイクルします。
-Beispielsatz-Lesung: 空[あ]き 缶[かん]をリサイクルします。
-Beispielsatz-Übersetzung: Wir recyceln Mülltonnen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  空き缶をリサイクルします。
+  空[あ]き 缶[かん]をリサイクルします。
+  Wir recyceln Mülltonnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

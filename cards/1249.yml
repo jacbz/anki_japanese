@@ -1,14 +1,28 @@
 Rang: 1249
 Lemma: 傾向
 Lesung: けいこう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Tendenz, Trend, Neigung
-Beispielsatz: 日本人には他の人と同じことをしていると安心する傾向がある。
-Beispielsatz-Lesung: 日本人[にっぽんじん]には 他[た]の人と 同[おな]じことをしていると 安心[あんしん]する 傾向[けいこう]がある。
-Beispielsatz-Übersetzung: Japaner haben die Tendenz, sich wohl zu fühlen, wenn sie
-  dasselbe tun wie alle anderen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本人には他の人と同じことをしていると安心する傾向がある。
+  日本人[にっぽんじん]には 他[た]の人と 同[おな]じことをしていると 安心[あんしん]する 傾向[けいこう]がある。
+  Japaner haben die Tendenz, sich wohl zu fühlen, wenn sie dasselbe tun wie alle anderen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

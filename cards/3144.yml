@@ -1,13 +1,24 @@
 Rang: 3144
 Lemma: 構築
 Lesung: こうちく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: konstruieren, aufbauen
 Extra: （する）
 Wortart: n. v.
-Definition: konstruieren, aufbauen
-Beispielsatz: 完全なシステムの構築を目指します。
-Beispielsatz-Lesung: 完全[かんぜん]なシステムの 構築[こうちく]を 目指[めざ]します。
-Beispielsatz-Übersetzung: Ich strebe den Aufbau eines vollständigen Systems an.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  完全なシステムの構築を目指します。
+  完全[かんぜん]なシステムの 構築[こうちく]を 目指[めざ]します。
+  Ich strebe den Aufbau eines vollständigen Systems an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

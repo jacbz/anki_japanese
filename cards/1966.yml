@@ -1,14 +1,27 @@
 Rang: 1966
 Lemma: 日時
 Lesung: にちじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Datum und Uhrzeit
-Beispielsatz: 次の会議の日時は郵便でお知らせします。
-Beispielsatz-Lesung: 次[つぎ]の 会議[かいぎ]の 日時[にちじ]は 郵便[ゆうびん]でお 知[し]らせします。
-Beispielsatz-Übersetzung: Sie werden per Post über das Datum und die Uhrzeit des nächsten
-  Meetings informiert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">に</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ち</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ↗</>Zeitungen
+Dispersion: '10'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  次の会議の日時は郵便でお知らせします。
+  次[つぎ]の 会議[かいぎ]の 日時[にちじ]は 郵便[ゆうびん]でお 知[し]らせします。
+  Sie werden per Post über das Datum und die Uhrzeit des nächsten Meetings informiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

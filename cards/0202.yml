@@ -1,13 +1,24 @@
 Rang: 202
 Lemma: のである
-Lesung: のである
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: BEHAUPTUNG (formell)
-Beispielsatz: 認めたくはないが、それが現実なのである。
-Beispielsatz-Lesung: 認[みと]めたくはないが、それが 現実[げんじつ]なのである。
-Beispielsatz-Übersetzung: Ist schwer zu akzeptieren, aber es ist eine Realität.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  認めたくはないが、それが現実なのである。
+  認[みと]めたくはないが、それが 現実[げんじつ]なのである。
+  Ist schwer zu akzeptieren, aber es ist eine Realität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

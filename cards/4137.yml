@@ -1,13 +1,24 @@
 Rang: 4137
 Lemma: TV
 Lesung: テレビ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Fernseher
-Beispielsatz: テレビで野球の試合を見た。
-Beispielsatz-Lesung: テレビで 野球[やきゅう]の 試合[しあい]を 見[み]た。
-Beispielsatz-Übersetzung: Ich habe ein Baseballspiel im Fernsehen gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '39'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  テレビで野球の試合を見た。
+  テレビで 野球[やきゅう]の 試合[しあい]を 見[み]た。
+  Ich habe ein Baseballspiel im Fernsehen gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 4612
 Lemma: 講演
 Lesung: こうえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vortrag, Rede
-Beispielsatz: 彼らは講演をじっくり聞いていた。
-Beispielsatz-Lesung: 彼[かれ]らは 講演[こうえん]をじっくり 聞[き]いていた。
-Beispielsatz-Übersetzung: Sie hörten aufmerksam dem Vortrag zu.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">え</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは講演をじっくり聞いていた。
+  彼[かれ]らは 講演[こうえん]をじっくり 聞[き]いていた。
+  Sie hörten aufmerksam dem Vortrag zu.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

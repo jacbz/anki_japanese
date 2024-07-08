@@ -1,13 +1,24 @@
 Rang: 75
-Lemma: やはり<br>やっぱり
+Lemma: やはり
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: やっぱり
 Definition: wie erwartet, trotzdem
-Beispielsatz: 彼女はやはり遅れた。
-Beispielsatz-Lesung: 彼女[かのじょ]はやはり 遅[おく]れた。
-Beispielsatz-Übersetzung: Sie war wie erwartet zu spät zum Treffen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はやはり遅れた。
+  彼女[かのじょ]はやはり 遅[おく]れた。
+  Sie war wie erwartet zu spät zum Treffen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 578
 Lemma: 要するに
 Lesung: ようするに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Alternativschreibweisen: ''
 Definition: kurz gesagt, zusammenfassend
-Beispielsatz: 要するに、計画は失敗だった。
-Beispielsatz-Lesung: 要[よう]するに、 計画[けいかく]は 失敗[しっぱい]だった。
-Beispielsatz-Übersetzung: Kurz gesagt, unser Plan ist gescheitert.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  要するに、計画は失敗だった。
+  要[よう]するに、 計画[けいかく]は 失敗[しっぱい]だった。
+  Kurz gesagt, unser Plan ist gescheitert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

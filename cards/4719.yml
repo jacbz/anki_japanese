@@ -1,13 +1,24 @@
 Rang: 4719
 Lemma: 砂浜
 Lesung: すなはま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Strand, Sandstrand
-Beispielsatz: 子供達が砂浜で遊んでいます。
-Beispielsatz-Lesung: 子供達[こどもたち]が 砂浜[すなはま]で 遊[あそ]んでいます。
-Beispielsatz-Übersetzung: Kinder spielen am Sandstrand.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供達が砂浜で遊んでいます。
+  子供達[こどもたち]が 砂浜[すなはま]で 遊[あそ]んでいます。
+  Kinder spielen am Sandstrand.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

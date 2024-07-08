@@ -1,13 +1,24 @@
 Rang: 965
 Lemma: 推進
 Lesung: すいしん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: antreiben, fördern
 Extra: （する）
 Wortart: n. v.
-Definition: antreiben, fördern
-Beispielsatz: 我が社は省エネを推進している。
-Beispielsatz-Lesung: 我[わ]が 社[しゃ]は 省[しょう]エネを 推進[すいしん]している。
-Beispielsatz-Übersetzung: Unser Unternehmen fördert Energieeinsparungen.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '36'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我が社は省エネを推進している。
+  我[わ]が 社[しゃ]は 省[しょう]エネを 推進[すいしん]している。
+  Unser Unternehmen fördert Energieeinsparungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

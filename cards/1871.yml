@@ -1,13 +1,28 @@
 Rang: 1871
 Lemma: 別れる
 Lesung: わかれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sich trennen; sich scheiden lassen; Schluss machen
-Beispielsatz: 彼らは先月別れてしまった。
-Beispielsatz-Lesung: 彼[かれ]らは 先月[せんげつ] 別[わか]れてしまった。
-Beispielsatz-Übersetzung: Sie haben letzten Monat Schluss gemacht.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは先月別れてしまった。
+  彼[かれ]らは 先月[せんげつ] 別[わか]れてしまった。
+  Sie haben letzten Monat Schluss gemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

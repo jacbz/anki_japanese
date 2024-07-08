@@ -1,13 +1,28 @@
 Rang: 2388
 Lemma: 成り立つ
 Lesung: なりたつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: bestehen aus; abgeschlossen werden
-Beispielsatz: この企画は、たくさんの人の努力で成り立っています。
-Beispielsatz-Lesung: この 企画[きかく]は、たくさんの人の 努力[どりょく]で 成[な]り 立[た]っています。
-Beispielsatz-Übersetzung: Dieses Ereignis basiert auf den Bemühungen vieler Menschen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この企画は、たくさんの人の努力で成り立っています。
+  この 企画[きかく]は、たくさんの人の 努力[どりょく]で 成[な]り 立[た]っています。
+  Dieses Ereignis basiert auf den Bemühungen vieler Menschen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

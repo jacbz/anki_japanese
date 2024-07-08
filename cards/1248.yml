@@ -1,13 +1,24 @@
 Rang: 1248
 Lemma: ケース
-Lesung: ケース
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Fall
-Beispielsatz: それはかなり珍しいケースだ。
-Beispielsatz-Lesung: それはかなり 珍[めずら]しいケースだ。
-Beispielsatz-Übersetzung: Das ist ein ziemlich ungewöhnlicher Fall.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それはかなり珍しいケースだ。
+  それはかなり 珍[めずら]しいケースだ。
+  Das ist ein ziemlich ungewöhnlicher Fall.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

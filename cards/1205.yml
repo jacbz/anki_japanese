@@ -1,13 +1,24 @@
 Rang: 1205
 Lemma: としても
-Lesung: としても
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: selbst wenn
-Beispielsatz: それが本当だとしても言い訳にはならない。
-Beispielsatz-Lesung: それが 本当[ほんとう]だとしても 言[い]い 訳[わけ]にはならない。
-Beispielsatz-Übersetzung: Selbst wenn es wahr ist, ist es keine Entschuldigung.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  それが本当だとしても言い訳にはならない。
+  それが 本当[ほんとう]だとしても 言[い]い 訳[わけ]にはならない。
+  Selbst wenn es wahr ist, ist es keine Entschuldigung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

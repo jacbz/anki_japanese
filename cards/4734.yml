@@ -1,13 +1,27 @@
 Rang: 4734
 Lemma: 刺し身
 Lesung: さしみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sashimi
-Beispielsatz: 私の好きな日本食は刺し身です。
-Beispielsatz-Lesung: 私[わたし]の 好[す]きな 日本食[にほんしょく]は 刺[さ]し 身[み]です。
-Beispielsatz-Übersetzung: Mein Lieblingsessen in Japan ist Sashimi.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の好きな日本食は刺し身です。
+  私[わたし]の 好[す]きな 日本食[にほんしょく]は 刺[さ]し 身[み]です。
+  Mein Lieblingsessen in Japan ist Sashimi.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2418
 Lemma: 何しろ
 Lesung: なにしろ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: jedenfalls, sowieso
-Beispielsatz: 何しろ、この仕事は今日中に終わらせなければならない。
-Beispielsatz-Lesung: 何[なに]しろ、この 仕事[しごと]は 今日中[きょうじゅう]に 終[お]わらせなければならない。
-Beispielsatz-Übersetzung: Ich muss diese Arbeit heute sowieso beenden.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何しろ、この仕事は今日中に終わらせなければならない。
+  何[なに]しろ、この 仕事[しごと]は 今日中[きょうじゅう]に 終[お]わらせなければならない。
+  Ich muss diese Arbeit heute sowieso beenden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

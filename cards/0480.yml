@@ -1,13 +1,24 @@
 Rang: 480
 Lemma: 十分
 Lesung: じゅうぶん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. adv.
+Alternativschreibweisen: ''
 Definition: genug; vollständig
-Beispielsatz: 留学するのに十分なお金を貯めた。
-Beispielsatz-Lesung: 留学[りゅうがく]するのに 十分[じゅうぶん]なお 金[かね]を 貯[た]めた。
-Beispielsatz-Übersetzung: Ich habe genug Geld gespart, um im Ausland zu studieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  留学するのに十分なお金を貯めた。
+  留学[りゅうがく]するのに 十分[じゅうぶん]なお 金[かね]を 貯[た]めた。
+  Ich habe genug Geld gespart, um im Ausland zu studieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

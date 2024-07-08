@@ -1,13 +1,27 @@
 Rang: 1730
 Lemma: 上司
 Lesung: じょうし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Chef/in
-Beispielsatz: その件については上司に相談しなければなりません。
-Beispielsatz-Lesung: その 件[けん]については 上司[じょうし]に 相談[そうだん]しなければなりません。
-Beispielsatz-Übersetzung: Ich muss mit meinem Chef darüber sprechen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">じ</span><span class="char">ょ</span></span></span><span
+  class="mola_-2"><span class="inner"><span class="char">う</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その件については上司に相談しなければなりません。
+  その 件[けん]については 上司[じょうし]に 相談[そうだん]しなければなりません。
+  Ich muss mit meinem Chef darüber sprechen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

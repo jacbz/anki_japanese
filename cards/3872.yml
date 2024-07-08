@@ -1,13 +1,24 @@
 Rang: 3872
 Lemma: 自衛隊
 Lesung: じえいたい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Selbstverteidigungsstreitkräfte
-Beispielsatz: 政府は自衛隊を送り込んだ。
-Beispielsatz-Lesung: 政府[せいふ]は 自衛隊[じえいたい]を 送[おく]り 込[こ]んだ。
-Beispielsatz-Übersetzung: Die Regierung hat die Selbstverteidigungsstreitkräfte geschickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府は自衛隊を送り込んだ。
+  政府[せいふ]は 自衛隊[じえいたい]を 送[おく]り 込[こ]んだ。
+  Die Regierung hat die Selbstverteidigungsstreitkräfte geschickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

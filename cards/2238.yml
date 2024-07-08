@@ -1,13 +1,24 @@
 Rang: 2238
 Lemma: サークル
-Lesung: サークル
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Kreis, Verein
-Beispielsatz: 私はテニスのサークルに入りたい。
-Beispielsatz-Lesung: 私[わたし]はテニスのサークルに 入[はい]りたい。
-Beispielsatz-Übersetzung: Ich möchte einem Tennisverein beitreten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はテニスのサークルに入りたい。
+  私[わたし]はテニスのサークルに 入[はい]りたい。
+  Ich möchte einem Tennisverein beitreten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

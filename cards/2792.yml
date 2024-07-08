@@ -1,13 +1,24 @@
 Rang: 2792
 Lemma: 穏やか
 Lesung: おだやか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: sanft; ruhig, friedlich
-Beispielsatz: 彼は穏やかな口調で話をする。
-Beispielsatz-Lesung: 彼[かれ]は 穏[おだ]やかな 口調[くちょう]で 話[はなし]をする。
-Beispielsatz-Übersetzung: Er spricht in einem ruhigen Tonfall.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は穏やかな口調で話をする。
+  彼[かれ]は 穏[おだ]やかな 口調[くちょう]で 話[はなし]をする。
+  Er spricht in einem ruhigen Tonfall.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

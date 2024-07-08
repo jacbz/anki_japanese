@@ -1,13 +1,28 @@
 Rang: 769
 Lemma: では
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
-Definition: also, nun
-Beispielsatz: では、明日、またお電話します。
-Beispielsatz-Lesung: では、 明日[あした]、またお 電話[でんわ]します。
-Beispielsatz-Übersetzung: Also, ich werde Sie morgen zurückrufen.
+Alternativschreibweisen: ''
+Definition: also, nun; in ..., bei ..., im Fall von ...
+Extra: '' # Nur bei suru-Verben
+Wortart: conj., p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  では、明日、またお電話します。
+  では、 明日[あした]、またお 電話[でんわ]します。
+  Also, ich werde Sie morgen zurückrufen.
+
+  デザインではこの車が一番いい。
+  デザインではこの 車[くるま]が 一番[いちばん]いい。
+  Dieses Auto hat das beste Design.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

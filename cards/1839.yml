@@ -1,13 +1,27 @@
 Rang: 1839
 Lemma: 事態
 Lesung: じたい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Situation
-Beispielsatz: これは深刻な事態だ。
-Beispielsatz-Lesung: これは 深刻[しんこく]な 事態[じたい]だ。
-Beispielsatz-Übersetzung: Dies ist eine ernste Situation.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">じ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">た</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは深刻な事態だ。
+  これは 深刻[しんこく]な 事態[じたい]だ。
+  Dies ist eine ernste Situation.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

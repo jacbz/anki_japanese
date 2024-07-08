@@ -1,13 +1,27 @@
 Rang: 3386
 Lemma: 潜る
 Lesung: もぐる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: tauchen; untertauchen
-Beispielsatz: 海に潜って、きれいな魚を見た。
-Beispielsatz-Lesung: 海[うみ]に 潜[もぐ]って、きれいな 魚[さかな]を 見[み]た。
-Beispielsatz-Übersetzung: Ich bin im Meer getaucht und habe schöne Fische gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ぐ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  海に潜って、きれいな魚を見た。
+  海[うみ]に 潜[もぐ]って、きれいな 魚[さかな]を 見[み]た。
+  Ich bin im Meer getaucht und habe schöne Fische gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

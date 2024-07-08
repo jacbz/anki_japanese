@@ -1,14 +1,24 @@
 Rang: 3875
 Lemma: 手軽
 Lesung: てがる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: leicht; einfach; vernünftig
-Beispielsatz: このコンピューターは手軽な値段で気に入った。
-Beispielsatz-Lesung: このコンピューターは 手軽[てがる]な 値段[ねだん]で 気[き]に 入[い]った。
-Beispielsatz-Übersetzung: Dieser Computer hat mir aufgrund seines vernünftigen Preises
-  gefallen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このコンピューターは手軽な値段で気に入った。
+  このコンピューターは 手軽[てがる]な 値段[ねだん]で 気[き]に 入[い]った。
+  Dieser Computer hat mir aufgrund seines vernünftigen Preises gefallen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

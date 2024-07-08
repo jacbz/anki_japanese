@@ -1,13 +1,24 @@
 Rang: 4943
 Lemma: 適度
 Lesung: てきど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: mäßig
-Beispielsatz: あの食べ物は適度な温度で保つことが大切だ。
-Beispielsatz-Lesung: あの 食[た]べ 物[もの]は 適度[てきど]な 温度[おんど]で 保[たも]つことが 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Es ist wichtig, dieses Essen bei mäßiger Temperatur zu halten.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの食べ物は適度な温度で保つことが大切だ。
+  あの 食[た]べ 物[もの]は 適度[てきど]な 温度[おんど]で 保[たも]つことが 大切[たいせつ]だ。
+  Es ist wichtig, dieses Essen bei mäßiger Temperatur zu halten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 3120
 Lemma: 無理矢理
 Lesung: むりやり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: gewaltsam, gegen den Willen
-Beispielsatz: 欲しくもないものを無理矢理買わされた。
-Beispielsatz-Lesung: 欲[ほ]しくもないものを 無理矢理[むりやり] 買[か]わされた。
-Beispielsatz-Übersetzung: Ich wurde gegen meinen Willen gezwungen, etwas zu kaufen,
-  was ich nicht wollte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  欲しくもないものを無理矢理買わされた。
+  欲[ほ]しくもないものを 無理矢理[むりやり] 買[か]わされた。
+  Ich wurde gegen meinen Willen gezwungen, etwas zu kaufen, was ich nicht wollte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

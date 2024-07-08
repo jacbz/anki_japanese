@@ -1,13 +1,24 @@
 Rang: 1632
 Lemma: 適当
 Lesung: てきとう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: angemessen, passend, geeignet; unverantwortlich, launisch
-Beispielsatz: サーモンは適当な大きさに切ってください。
-Beispielsatz-Lesung: サーモンは 適当[てきとう]な 大[おお]きさに 切[き]ってください。
-Beispielsatz-Übersetzung: Schneiden Sie den Lachs in Stücke von angemessener Größe.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  サーモンは適当な大きさに切ってください。
+  サーモンは 適当[てきとう]な 大[おお]きさに 切[き]ってください。
+  Schneiden Sie den Lachs in Stücke von angemessener Größe.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

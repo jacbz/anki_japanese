@@ -1,13 +1,24 @@
 Rang: 4864
 Lemma: エアコン
-Lesung: エアコン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Klimaanlage
-Beispielsatz: 彼はエアコンをつけた。
-Beispielsatz-Lesung: 彼[かれ]はエアコンをつけた。
-Beispielsatz-Übersetzung: Er hat die Klimaanlage eingeschaltet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はエアコンをつけた。
+  彼[かれ]はエアコンをつけた。
+  Er hat die Klimaanlage eingeschaltet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

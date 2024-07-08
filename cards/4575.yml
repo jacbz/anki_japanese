@@ -1,13 +1,24 @@
 Rang: 4575
 Lemma: 緊張感
 Lesung: きんちょうかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Spannung
-Beispielsatz: 試合前の緊張感がテレビから伝わった。
-Beispielsatz-Lesung: 試合[しあい] 前[まえ]の 緊張感[きんちょうかん]がテレビから 伝[つた]わった。
-Beispielsatz-Übersetzung: Ich habe die Spannung vor dem Spiel vor dem Fernseher gespürt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  試合前の緊張感がテレビから伝わった。
+  試合[しあい] 前[まえ]の 緊張感[きんちょうかん]がテレビから 伝[つた]わった。
+  Ich habe die Spannung vor dem Spiel vor dem Fernseher gespürt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,26 @@
 Rang: 2398
 Lemma: 基礎
 Lesung: きそ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Grundlage, Basis, Fundament
-Beispielsatz: 中学校で英語の基礎を学ぶ。
-Beispielsatz-Lesung: 中学校[ちゅうがっこう]で 英語[えいご]の 基礎[きそ]を 学[まな]ぶ。
-Beispielsatz-Übersetzung: In der Junior High School lernen wir die Grundlagen der
-  englischen Sprache.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">き</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">そ</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  中学校で英語の基礎を学ぶ。
+  中学校[ちゅうがっこう]で 英語[えいご]の 基礎[きそ]を 学[まな]ぶ。
+  In der Junior High School lernen wir die Grundlagen der englischen Sprache.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

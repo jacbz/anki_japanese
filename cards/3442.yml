@@ -1,13 +1,24 @@
 Rang: 3442
 Lemma: いい加減
 Lesung: いいかげん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: unverantwortlich, haltlos
-Beispielsatz: いい加減なことを言わないでください。
-Beispielsatz-Lesung: いい 加減[かげん]なことを 言[い]わないでください。
-Beispielsatz-Übersetzung: Sprechen Sie nicht haltlos.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いい加減なことを言わないでください。
+  いい 加減[かげん]なことを 言[い]わないでください。
+  Sprechen Sie nicht haltlos.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

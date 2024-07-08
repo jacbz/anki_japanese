@@ -1,13 +1,24 @@
 Rang: 3616
 Lemma: ベスト
-Lesung: ベスト
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: das Beste; die Weste
-Beispielsatz: 選手たちは皆ベストを尽くして戦った。
-Beispielsatz-Lesung: 選手[せんしゅ]たちは 皆[みな]ベストを 尽[つ]くして 戦[たたか]った。
-Beispielsatz-Übersetzung: Alle Athleten kämpften und gaben ihr Bestes.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  選手たちは皆ベストを尽くして戦った。
+  選手[せんしゅ]たちは 皆[みな]ベストを 尽[つ]くして 戦[たたか]った。
+  Alle Athleten kämpften und gaben ihr Bestes.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

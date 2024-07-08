@@ -1,13 +1,29 @@
 Rang: 682
 Lemma: 女の子
 Lesung: おんなのこ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mädchen
-Beispielsatz: 公園で女の子が遊んでいる。
-Beispielsatz-Lesung: 公園[こうえん]で 女[おんな]の 子[こ]が 遊[あそ]んでいる。
-Beispielsatz-Übersetzung: Ein Mädchen spielt im Park.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">の</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">こ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  公園で女の子が遊んでいる。
+  公園[こうえん]で 女[おんな]の 子[こ]が 遊[あそ]んでいる。
+  Ein Mädchen spielt im Park.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

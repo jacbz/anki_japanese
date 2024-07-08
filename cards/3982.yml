@@ -1,13 +1,24 @@
 Rang: 3982
 Lemma: もっぱら
-Lesung: もっぱら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: überwiegend
-Beispielsatz: 彼らは結婚するというもっぱらのうわさだ。
-Beispielsatz-Lesung: 彼[かれ]らは 結婚[けっこん]するというもっぱらのうわさだ。
-Beispielsatz-Übersetzung: Überwiegend wird gesagt, dass sie heiraten werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは結婚するというもっぱらのうわさだ。
+  彼[かれ]らは 結婚[けっこん]するというもっぱらのうわさだ。
+  Überwiegend wird gesagt, dass sie heiraten werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

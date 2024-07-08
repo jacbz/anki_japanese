@@ -1,13 +1,24 @@
 Rang: 86
 Lemma: てくる
-Lesung: てくる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gehen und zurückkommen
-Beispielsatz: スーパーへ行ってきます。
-Beispielsatz-Lesung: スーパーへ 行[い]ってきます。
-Beispielsatz-Übersetzung: Ich gehe zum Supermarkt.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  スーパーへ行ってきます。
+  スーパーへ 行[い]ってきます。
+  Ich gehe zum Supermarkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

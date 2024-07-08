@@ -1,13 +1,27 @@
 Rang: 3084
 Lemma: 誇り
 Lesung: ほこり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Stolz, Ehre
-Beispielsatz: 息子を誇りに思う。
-Beispielsatz-Lesung: 息子[むすこ]を 誇[ほこ]りに 思[おも]う。
-Beispielsatz-Übersetzung: Ich bin stolz auf meinen Sohn.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  息子を誇りに思う。
+  息子[むすこ]を 誇[ほこ]りに 思[おも]う。
+  Ich bin stolz auf meinen Sohn.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

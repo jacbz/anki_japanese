@@ -1,13 +1,26 @@
 Rang: 1828
 Lemma: 履く
 Lesung: はく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anziehen, tragen
-Beispielsatz: 彼女はいつもジーンズを履いている。
-Beispielsatz-Lesung: 彼女[かのじょ]はいつもジーンズを 履[は]いている。
-Beispielsatz-Übersetzung: Sie trägt immer Jeans.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はいつもジーンズを履いている。
+  彼女[かのじょ]はいつもジーンズを 履[は]いている。
+  Sie trägt immer Jeans.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

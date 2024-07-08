@@ -1,14 +1,24 @@
 Rang: 3142
 Lemma: 自民党
 Lesung: じみんとう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Liberaldemokratische Partei
-Beispielsatz: 当時は自民党の天下だった。
-Beispielsatz-Lesung: 当時[とうじ]は 自民党[じみんとう]の 天下[てんか]だった。
-Beispielsatz-Übersetzung: Zu dieser Zeit hatte die Liberaldemokratische Partei die
-  Kontrolle.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  当時は自民党の天下だった。
+  当時[とうじ]は 自民党[じみんとう]の 天下[てんか]だった。
+  Zu dieser Zeit hatte die Liberaldemokratische Partei die Kontrolle.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

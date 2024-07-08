@@ -1,13 +1,27 @@
 Rang: 3323
 Lemma: 雇用
 Lesung: こよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Beschäftigung; beschäftigen
 Extra: （する）
 Wortart: n. v.
-Definition: Beschäftigung; beschäftigen
-Beispielsatz: 雇用を創出するための対策が必要だ。
-Beispielsatz-Lesung: 雇用[こよう]を 創出[そうしゅつ]するための 対策[たいさく]が 必要[ひつよう]だ。
-Beispielsatz-Übersetzung: Maßnahmen zur Schaffung von Beschäftigung sind erforderlich.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雇用を創出するための対策が必要だ。
+  雇用[こよう]を 創出[そうしゅつ]するための 対策[たいさく]が 必要[ひつよう]だ。
+  Maßnahmen zur Schaffung von Beschäftigung sind erforderlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

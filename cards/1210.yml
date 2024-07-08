@@ -1,13 +1,24 @@
 Rang: 1210
 Lemma: 何とか
 Lesung: なんとか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv. n.
+Alternativschreibweisen: ''
 Definition: irgendwie; etwas
-Beispielsatz: 何とかして時間までに行きます。
-Beispielsatz-Lesung: 何[なん]とかして 時間[じかん]までに 行[い]きます。
-Beispielsatz-Übersetzung: Ich werde irgendwie rechtzeitig dort ankommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv. n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何とかして時間までに行きます。
+  何[なん]とかして 時間[じかん]までに 行[い]きます。
+  Ich werde irgendwie rechtzeitig dort ankommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4826
 Lemma: 譲渡
 Lesung: じょうと
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: übertragen; übergeben
 Extra: （する）
 Wortart: n. v.
-Definition: übertragen; übergeben
-Beispielsatz: 彼は娘に全ての株式を譲渡した。
-Beispielsatz-Lesung: 彼[かれ]は 娘[むすめ]に 全[すべ]ての 株式[かぶしき]を 譲渡[じょうと]した。
-Beispielsatz-Übersetzung: Er hat alle seine Aktien an seine Tochter übergeben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は娘に全ての株式を譲渡した。
+  彼[かれ]は 娘[むすめ]に 全[すべ]ての 株式[かぶしき]を 譲渡[じょうと]した。
+  Er hat alle seine Aktien an seine Tochter übergeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

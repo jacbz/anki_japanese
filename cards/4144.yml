@@ -1,13 +1,24 @@
 Rang: 4144
 Lemma: 分割
 Lesung: ぶんかつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Teilung; teilen
 Extra: （する）
 Wortart: n. v.
-Definition: Teilung; teilen
-Beispielsatz: 分割払いでお願いします。
-Beispielsatz-Lesung: 分割払[ぶんかつばら]いでお 願[ねが]いします。
-Beispielsatz-Übersetzung: Bitte zahlen Sie in Ratenzahlung.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  分割払いでお願いします。
+  分割払[ぶんかつばら]いでお 願[ねが]いします。
+  Bitte zahlen Sie in Ratenzahlung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 2531
 Lemma: 検索
 Lesung: けんさく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Suche
 Extra: （する）
 Wortart: n. v.
-Definition: Suche
-Beispielsatz: インターネット検索で、レストランを見つける。
-Beispielsatz-Lesung: インターネット 検索[けんさく]で、レストランを 見[み]つける。
-Beispielsatz-Übersetzung: Ich habe ein Restaurant durch eine Internetsuche gefunden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  インターネット検索で、レストランを見つける。
+  インターネット 検索[けんさく]で、レストランを 見[み]つける。
+  Ich habe ein Restaurant durch eine Internetsuche gefunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

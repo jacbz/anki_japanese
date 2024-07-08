@@ -1,13 +1,29 @@
 Rang: 2219
 Lemma: 確かめる
 Lesung: たしかめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: bestätigen, sicherstellen
-Beispielsatz: ドアに鍵をかけたか確かめましたか。
-Beispielsatz-Lesung: ドアに 鍵[かぎ]をかけたか 確[たし]かめましたか。
-Beispielsatz-Übersetzung: Hast du sichergestellt, dass du die Tür abgeschlossen hast?
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドアに鍵をかけたか確かめましたか。
+  ドアに 鍵[かぎ]をかけたか 確[たし]かめましたか。
+  Hast du sichergestellt, dass du die Tür abgeschlossen hast?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

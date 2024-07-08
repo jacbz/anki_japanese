@@ -1,13 +1,24 @@
 Rang: 3254
 Lemma: 贅沢
 Lesung: ぜいたく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Luxus
-Beispielsatz: 贅沢な暮らしがしたい。
-Beispielsatz-Lesung: 贅沢[ぜいたく]な 暮[く]らしがしたい。
-Beispielsatz-Übersetzung: Ich möchte gerne im Luxus leben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  贅沢な暮らしがしたい。
+  贅沢[ぜいたく]な 暮[く]らしがしたい。
+  Ich möchte gerne im Luxus leben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

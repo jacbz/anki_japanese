@@ -1,13 +1,24 @@
 Rang: 3745
 Lemma: 準用
 Lesung: じゅんよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: entsprechend anwenden
 Extra: （する）
 Wortart: n., v.
-Definition: entsprechend anwenden
-Beispielsatz: 規則を準用してよろしい。
-Beispielsatz-Lesung: 規則[きそく]を 準用[じゅんよう]してよろしい。
-Beispielsatz-Übersetzung: Sie können die Regel mit Änderungen anwenden.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '11'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  規則を準用してよろしい。
+  規則[きそく]を 準用[じゅんよう]してよろしい。
+  Sie können die Regel mit Änderungen anwenden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

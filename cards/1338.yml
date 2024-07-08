@@ -1,13 +1,24 @@
 Rang: 1338
 Lemma: 一枚
 Lesung: いちまい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: ein (Blatt)
-Beispielsatz: 一枚ずつ紙を取ってください。
-Beispielsatz-Lesung: 一 枚[まい]ずつ 紙[かみ]を 取[と]ってください。
-Beispielsatz-Übersetzung: Nehmen Sie bitte jeweils ein Blatt Papier.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一枚ずつ紙を取ってください。
+  一 枚[まい]ずつ 紙[かみ]を 取[と]ってください。
+  Nehmen Sie bitte jeweils ein Blatt Papier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

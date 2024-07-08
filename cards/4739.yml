@@ -1,13 +1,24 @@
 Rang: 4739
 Lemma: サミット
-Lesung: サミット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Gipfeltreffen
-Beispielsatz: 世界中がサミットに注目しています。
-Beispielsatz-Lesung: 世界中[せかいじゅう]がサミットに 注目[ちゅうもく]しています。
-Beispielsatz-Übersetzung: Die ganze Welt richtet ihre Aufmerksamkeit auf die Gipfelkonferenz.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  世界中がサミットに注目しています。
+  世界中[せかいじゅう]がサミットに 注目[ちゅうもく]しています。
+  Die ganze Welt richtet ihre Aufmerksamkeit auf die Gipfelkonferenz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

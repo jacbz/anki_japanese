@@ -1,13 +1,24 @@
 Rang: 4250
 Lemma: 数人
 Lesung: すうにん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: mehrere Personen
-Beispielsatz: 今日は数人の学生が欠席した。
-Beispielsatz-Lesung: 今日[きょう]は 数[すう]人の 学生[がくせい]が 欠席[けっせき]した。
-Beispielsatz-Übersetzung: Heute waren mehrere Schüler abwesend.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今日は数人の学生が欠席した。
+  今日[きょう]は 数[すう]人の 学生[がくせい]が 欠席[けっせき]した。
+  Heute waren mehrere Schüler abwesend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

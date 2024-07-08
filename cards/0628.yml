@@ -1,13 +1,30 @@
 Rang: 628
 Lemma: 申し上げる
 Lesung: もうしあげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sagen (bescheiden)
-Beispielsatz: 心からの感謝を申し上げます。
-Beispielsatz-Lesung: 心[こころ]からの 感謝[かんしゃ]を 申[もう]し 上[あ]げます。
-Beispielsatz-Übersetzung: Ich möchte meinen aufrichtigen Dank ausdrücken.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '42'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  心からの感謝を申し上げます。
+  心[こころ]からの 感謝[かんしゃ]を 申[もう]し 上[あ]げます。
+  Ich möchte meinen aufrichtigen Dank ausdrücken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

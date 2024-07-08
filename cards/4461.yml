@@ -1,13 +1,28 @@
 Rang: 4461
 Lemma: 渋滞
 Lesung: じゅうたい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Stau, Verzögerung; sich verzögern
 Extra: （する）
 Wortart: n. v.
-Definition: Stau, Verzögerung; sich verzögern
-Beispielsatz: 私は渋滞に巻き込まれてイベントに遅れた。
-Beispielsatz-Lesung: 私[わたし]は 渋滞[じゅうたい]に 巻[ま]き 込[こ]まれてイベントに 遅[おく]れた。
-Beispielsatz-Übersetzung: Ich war wegen eines Staus zu spät für die Veranstaltung.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">た</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は渋滞に巻き込まれてイベントに遅れた。
+  私[わたし]は 渋滞[じゅうたい]に 巻[ま]き 込[こ]まれてイベントに 遅[おく]れた。
+  Ich war wegen eines Staus zu spät für die Veranstaltung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

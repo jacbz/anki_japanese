@@ -1,13 +1,28 @@
 Rang: 1468
 Lemma: 見つめる
 Lesung: みつめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: starren, anstarren
-Beispielsatz: 男はただ子供たちを見つめていた。
-Beispielsatz-Lesung: 男[おとこ]はただ 子供[こども]たちを 見[み]つめていた。
-Beispielsatz-Übersetzung: Der Mann starrte einfach auf die Kinder.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  男はただ子供たちを見つめていた。
+  男[おとこ]はただ 子供[こども]たちを 見[み]つめていた。
+  Der Mann starrte einfach auf die Kinder.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

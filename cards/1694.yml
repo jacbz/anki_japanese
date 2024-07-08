@@ -1,14 +1,24 @@
 Rang: 1694
 Lemma: 等
 Lesung: とう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: suffix
+Alternativschreibweisen: ''
 Definition: und so weiter
-Beispielsatz: 氏名、所属、住所、等をお知らせください。
-Beispielsatz-Lesung: 氏名[しめい]、 所属[しょぞく]、 住所[じゅうしょ]、 等[ひとし]をお 知[し]らせください。
-Beispielsatz-Übersetzung: Bitte teilen Sie uns Ihren Namen, Ihre Zugehörigkeit, Ihre
-  Adresse usw. mit.
+Extra: '' # Nur bei suru-Verben
+Wortart: suffix
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  氏名、所属、住所、等をお知らせください。
+  氏名[しめい]、 所属[しょぞく]、 住所[じゅうしょ]、 等[ひとし]をお 知[し]らせください。
+  Bitte teilen Sie uns Ihren Namen, Ihre Zugehörigkeit, Ihre Adresse usw. mit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

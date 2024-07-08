@@ -1,13 +1,24 @@
 Rang: 4427
 Lemma: 流通
 Lesung: りゅうつう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Umlauf, Vertrieb; umlaufen, verteilen
 Extra: （する）
 Wortart: n. v.
-Definition: Umlauf, Vertrieb; umlaufen, verteilen
-Beispielsatz: このお酒は一般に流通していない。
-Beispielsatz-Lesung: このお 酒[さけ]は 一般[いっぱん]に 流通[りゅうつう]していない。
-Beispielsatz-Übersetzung: Dieser Alkohol wird nicht weit verbreitet.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このお酒は一般に流通していない。
+  このお 酒[さけ]は 一般[いっぱん]に 流通[りゅうつう]していない。
+  Dieser Alkohol wird nicht weit verbreitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

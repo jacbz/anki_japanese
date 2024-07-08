@@ -1,13 +1,24 @@
 Rang: 4599
 Lemma: 者達
 Lesung: ものたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Menschen
-Beispielsatz: そこに住んでいる者達は工事に反対した。
-Beispielsatz-Lesung: そこに 住[す]んでいる 者[もの] 達[たち]は 工事[こうじ]に 反対[はんたい]した。
-Beispielsatz-Übersetzung: Diejenigen, die dort leben, waren gegen die Bauarbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '56'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そこに住んでいる者達は工事に反対した。
+  そこに 住[す]んでいる 者[もの] 達[たち]は 工事[こうじ]に 反対[はんたい]した。
+  Diejenigen, die dort leben, waren gegen die Bauarbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

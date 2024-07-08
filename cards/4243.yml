@@ -1,13 +1,27 @@
 Rang: 4243
 Lemma: 老後
 Lesung: ろうご
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Alter
-Beispielsatz: 老後は気楽に過ごしたいです。
-Beispielsatz-Lesung: 老後[ろうご]は 気楽[きらく]に 過[す]ごしたいです。
-Beispielsatz-Übersetzung: Ich möchte im Alter bequem leben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ろ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ご</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  老後は気楽に過ごしたいです。
+  老後[ろうご]は 気楽[きらく]に 過[す]ごしたいです。
+  Ich möchte im Alter bequem leben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

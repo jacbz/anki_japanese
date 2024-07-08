@@ -1,14 +1,24 @@
 Rang: 154
 Lemma: によって
-Lesung: によって
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: durch, wegen; abhängig von, je nachdem
-Beispielsatz: 価格は需要と供給のバランスによって決まる。
-Beispielsatz-Lesung: 価格[かかく]は 需要[じゅよう]と 供給[きょうきゅう]のバランスによって 決[き]まる。
-Beispielsatz-Übersetzung: Der Preis hängt vom Gleichgewicht von Angebot und Nachfrage
-  ab.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  価格は需要と供給のバランスによって決まる。
+  価格[かかく]は 需要[じゅよう]と 供給[きょうきゅう]のバランスによって 決[き]まる。
+  Der Preis hängt vom Gleichgewicht von Angebot und Nachfrage ab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

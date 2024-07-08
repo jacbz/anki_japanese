@@ -1,13 +1,24 @@
 Rang: 4193
 Lemma: 仕方が無い
 Lesung: しかたがない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: es kann nicht geholfen werden, nutzlos
-Beispielsatz: そこへ行っても仕方がない。
-Beispielsatz-Lesung: そこへ 行[い]っても 仕方[しかた]がない。
-Beispielsatz-Übersetzung: Es hat keinen Nutzen, dorthin zu gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そこへ行っても仕方がない。
+  そこへ 行[い]っても 仕方[しかた]がない。
+  Es hat keinen Nutzen, dorthin zu gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

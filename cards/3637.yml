@@ -1,14 +1,24 @@
 Rang: 3637
 Lemma: 勘違い
 Lesung: かんちがい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: missverstehen, Fehler machen
 Extra: （する）
 Wortart: v.
-Definition: missverstehen, Fehler machen
-Beispielsatz: 約束の時間を勘違いして、遅刻してしまった。
-Beispielsatz-Lesung: 約束[やくそく]の 時間[じかん]を 勘違[かんちが]いして、 遅刻[ちこく]してしまった。
-Beispielsatz-Übersetzung: Ich hatte die Zeit des Termins falsch verstanden und kam
-  deshalb zu spät.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  約束の時間を勘違いして、遅刻してしまった。
+  約束[やくそく]の 時間[じかん]を 勘違[かんちが]いして、 遅刻[ちこく]してしまった。
+  Ich hatte die Zeit des Termins falsch verstanden und kam deshalb zu spät.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

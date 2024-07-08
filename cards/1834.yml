@@ -1,14 +1,24 @@
 Rang: 1834
 Lemma: 画像
 Lesung: がぞう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Bild
-Beispielsatz: 画像をクリックすると次のページに進みます。
-Beispielsatz-Lesung: 画像[がぞう]をクリックすると 次[つぎ]のページに 進[すす]みます。
-Beispielsatz-Übersetzung: Klicken Sie auf ein beliebiges Bild, um zur nächsten Seite
-  zu gelangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  画像をクリックすると次のページに進みます。
+  画像[がぞう]をクリックすると 次[つぎ]のページに 進[すす]みます。
+  Klicken Sie auf ein beliebiges Bild, um zur nächsten Seite zu gelangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

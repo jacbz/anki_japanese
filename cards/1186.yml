@@ -1,13 +1,24 @@
 Rang: 1186
 Lemma: ピアノ
-Lesung: ピアノ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Klavier
-Beispielsatz: 昔ピアノを習っていた。
-Beispielsatz-Lesung: 昔[むかし]ピアノを 習[なら]っていた。
-Beispielsatz-Übersetzung: Früher habe ich Klavierunterricht genommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  昔ピアノを習っていた。
+  昔[むかし]ピアノを 習[なら]っていた。
+  Früher habe ich Klavierunterricht genommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

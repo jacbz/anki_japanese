@@ -1,13 +1,24 @@
 Rang: 2906
 Lemma: リスク
-Lesung: リスク
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Risiko
-Beispielsatz: リスクを最小限に抑える。
-Beispielsatz-Lesung: リスクを 最小限[さいしょうげん]に 抑[おさ]える。
-Beispielsatz-Übersetzung: Ich werde das Risiko minimieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  リスクを最小限に抑える。
+  リスクを 最小限[さいしょうげん]に 抑[おさ]える。
+  Ich werde das Risiko minimieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

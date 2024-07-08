@@ -1,13 +1,27 @@
 Rang: 1577
 Lemma: 旦那
 Lesung: だんな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ehemann
-Beispielsatz: 私のだんなは優しい。
-Beispielsatz-Lesung: 私[わたし]のだんなは 優[やさ]しい。
-Beispielsatz-Übersetzung: Mein Ehemann ist freundlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">だ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">な</span></span></span></span>
+Register: ↗Internet
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私のだんなは優しい。
+  私[わたし]のだんなは 優[やさ]しい。
+  Mein Ehemann ist freundlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

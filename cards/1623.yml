@@ -1,13 +1,24 @@
 Rang: 1623
 Lemma: バイト
-Lesung: バイト
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Teilzeitjob
-Beispielsatz: いいバイトを見つけた。
-Beispielsatz-Lesung: いいバイトを 見[み]つけた。
-Beispielsatz-Übersetzung: Ich habe einen guten Teilzeitjob gefunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いいバイトを見つけた。
+  いいバイトを 見[み]つけた。
+  Ich habe einen guten Teilzeitjob gefunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

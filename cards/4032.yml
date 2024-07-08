@@ -1,13 +1,26 @@
 Rang: 4032
 Lemma: 筆
 Lesung: ふで
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pinsel
-Beispielsatz: カンバスに筆を走らせた。
-Beispielsatz-Lesung: カンバスに 筆[ふで]を 走[はし]らせた。
-Beispielsatz-Übersetzung: Ich strich mit dem Pinsel über die Leinwand.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">で</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カンバスに筆を走らせた。
+  カンバスに 筆[ふで]を 走[はし]らせた。
+  Ich strich mit dem Pinsel über die Leinwand.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

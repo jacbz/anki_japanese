@@ -1,13 +1,27 @@
 Rang: 4898
 Lemma: 私立
 Lesung: しりつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: privat
-Beispielsatz: 私は子どもを私立の学校に入れたい。
-Beispielsatz-Lesung: 私[わたし]は 子[こ]どもを 私立[しりつ]の 学校[がっこう]に 入[い]れたい。
-Beispielsatz-Übersetzung: Ich möchte mein Kind auf eine Privatschule schicken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">り</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は子どもを私立の学校に入れたい。
+  私[わたし]は 子[こ]どもを 私立[しりつ]の 学校[がっこう]に 入[い]れたい。
+  Ich möchte mein Kind auf eine Privatschule schicken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2249
 Lemma: 人間関係
 Lesung: にんげんかんけい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zwischenmenschliche Beziehung
-Beispielsatz: いい人間関係を作るには信頼が大切だ。
-Beispielsatz-Lesung: いい 人間関係[にんげんかんけい]を 作[つく]るには 信頼[しんらい]が 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Trust ist unerlässlich, um eine gute Beziehung aufzubauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いい人間関係を作るには信頼が大切だ。
+  いい 人間関係[にんげんかんけい]を 作[つく]るには 信頼[しんらい]が 大切[たいせつ]だ。
+  Trust ist unerlässlich, um eine gute Beziehung aufzubauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2277
 Lemma: ダイエット
-Lesung: ダイエット
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Diät
 Extra: （する）
 Wortart: n. v.
-Definition: Diät
-Beispielsatz: 今年こそダイエットをする。
-Beispielsatz-Lesung: 今年[ことし]こそダイエットをする。
-Beispielsatz-Übersetzung: Ich werde dieses Jahr eine Diät machen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今年こそダイエットをする。
+  今年[ことし]こそダイエットをする。
+  Ich werde dieses Jahr eine Diät machen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

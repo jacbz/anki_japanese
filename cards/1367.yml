@@ -1,13 +1,28 @@
 Rang: 1367
 Lemma: 最高
 Lesung: さいこう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., na-adj
+Alternativschreibweisen: ''
 Definition: am besten, höchsten
-Beispielsatz: 私共は世界で最高の技術を使っています。
-Beispielsatz-Lesung: 私共[わたくしども]は 世界[せかい]で 最高[さいこう]の 技術[ぎじゅつ]を 使[つか]っています。
-Beispielsatz-Übersetzung: Wir verwenden die beste Technologie der Welt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., na-adj
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">さ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私共は世界で最高の技術を使っています。
+  私共[わたくしども]は 世界[せかい]で 最高[さいこう]の 技術[ぎじゅつ]を 使[つか]っています。
+  Wir verwenden die beste Technologie der Welt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1496
 Lemma: 単に
 Lesung: たんに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: einfach, nur
-Beispielsatz: この料理は単においしいだけでなく体にもいい。
-Beispielsatz-Lesung: この 料理[りょうり]は 単[たん]においしいだけでなく 体[からだ]にもいい。
-Beispielsatz-Übersetzung: Dieses Gericht ist nicht nur lecker, sondern auch gesund.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この料理は単においしいだけでなく体にもいい。
+  この 料理[りょうり]は 単[たん]においしいだけでなく 体[からだ]にもいい。
+  Dieses Gericht ist nicht nur lecker, sondern auch gesund.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

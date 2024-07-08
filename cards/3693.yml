@@ -1,13 +1,30 @@
 Rang: 3693
 Lemma: 反対側
 Lesung: はんたいがわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: gegenüberliegende Seite
-Beispielsatz: そのホテルは道を挟んで反対側にある。
-Beispielsatz-Lesung: そのホテルは 道[みち]を 挟[はさ]んで 反対側[はんたいがわ]にある。
-Beispielsatz-Übersetzung: Das Hotel befindet sich auf der anderen Straßenseite.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">は</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのホテルは道を挟んで反対側にある。
+  そのホテルは 道[みち]を 挟[はさ]んで 反対側[はんたいがわ]にある。
+  Das Hotel befindet sich auf der anderen Straßenseite.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

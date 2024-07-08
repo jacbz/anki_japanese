@@ -1,13 +1,28 @@
 Rang: 2758
 Lemma: 見守る
 Lesung: みまもる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beobachten, überwachen
-Beispielsatz: 母は子供を絶えず見守る。
-Beispielsatz-Lesung: 母[はは]は 子供[こども]を 絶[た]えず 見守[みまも]る。
-Beispielsatz-Übersetzung: Die Mutter überwacht ihre Kinder ständig.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母は子供を絶えず見守る。
+  母[はは]は 子供[こども]を 絶[た]えず 見守[みまも]る。
+  Die Mutter überwacht ihre Kinder ständig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4649
 Lemma: タイヤ
-Lesung: タイヤ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Reifen
-Beispielsatz: 自転車のタイヤに空気を入れた。
-Beispielsatz-Lesung: 自転車[じてんしゃ]のタイヤに 空気[くうき]を 入[い]れた。
-Beispielsatz-Übersetzung: Ich habe Luft in den Fahrradreifen gepumpt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  自転車のタイヤに空気を入れた。
+  自転車[じてんしゃ]のタイヤに 空気[くうき]を 入[い]れた。
+  Ich habe Luft in den Fahrradreifen gepumpt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

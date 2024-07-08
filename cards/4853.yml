@@ -1,13 +1,24 @@
 Rang: 4853
 Lemma: インストール
-Lesung: インストール
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Installation; installieren
 Extra: （する）
 Wortart: n. v.
-Definition: Installation; installieren
-Beispielsatz: 新しいソフトをインストールした。
-Beispielsatz-Lesung: 新[あたら]しいソフトをインストールした。
-Beispielsatz-Übersetzung: Ich habe neue Software installiert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しいソフトをインストールした。
+  新[あたら]しいソフトをインストールした。
+  Ich habe neue Software installiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

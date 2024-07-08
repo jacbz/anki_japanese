@@ -1,13 +1,24 @@
 Rang: 4991
 Lemma: 示唆
 Lesung: しさ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Anregung geben; anregen
 Extra: （する）
 Wortart: n. v.
-Definition: Anregung geben; anregen
-Beispielsatz: 彼の発言は示唆に富んでいた。
-Beispielsatz-Lesung: 彼[かれ]の 発言[はつげん]は 示唆[しさ]に 富[と]んでいた。
-Beispielsatz-Übersetzung: Seine Bemerkungen waren voller Anregungen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の発言は示唆に富んでいた。
+  彼[かれ]の 発言[はつげん]は 示唆[しさ]に 富[と]んでいた。
+  Seine Bemerkungen waren voller Anregungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

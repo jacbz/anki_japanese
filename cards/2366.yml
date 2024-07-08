@@ -1,13 +1,24 @@
 Rang: 2366
 Lemma: 政治家
 Lesung: せいじか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Politiker
-Beispielsatz: 彼の夢は政治家になることだ。
-Beispielsatz-Lesung: 彼[かれ]の 夢[ゆめ]は 政治家[せいじか]になることだ。
-Beispielsatz-Übersetzung: Sein Traum ist es, Politiker zu werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の夢は政治家になることだ。
+  彼[かれ]の 夢[ゆめ]は 政治家[せいじか]になることだ。
+  Sein Traum ist es, Politiker zu werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

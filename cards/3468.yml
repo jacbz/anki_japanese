@@ -1,13 +1,24 @@
 Rang: 3468
 Lemma: 楽しさ
 Lesung: たのしさ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vergnügen, Charme
-Beispielsatz: これも旅の楽しさだ。
-Beispielsatz-Lesung: これも 旅[たび]の 楽[たの]しさだ。
-Beispielsatz-Übersetzung: Das ist auch der Reiz des Reisens.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これも旅の楽しさだ。
+  これも 旅[たび]の 楽[たの]しさだ。
+  Das ist auch der Reiz des Reisens.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

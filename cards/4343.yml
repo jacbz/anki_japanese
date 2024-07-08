@@ -1,13 +1,24 @@
 Rang: 4343
 Lemma: WWW
 Lesung: ダブリュウダブリュウダブリュウ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: World Wide Web
-Beispielsatz: WWWサーバーにアクセスする。
-Beispielsatz-Lesung: WWWサーバーにアクセスする。
-Beispielsatz-Übersetzung: Wir werden auf den WWW-Server zugreifen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '38'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  WWWサーバーにアクセスする。
+  WWWサーバーにアクセスする。
+  Wir werden auf den WWW-Server zugreifen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

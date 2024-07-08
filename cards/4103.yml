@@ -1,13 +1,24 @@
 Rang: 4103
 Lemma: ブーム
-Lesung: ブーム
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Boom
-Beispielsatz: 今は世界的な健康ブームだ。
-Beispielsatz-Lesung: 今[いま]は 世界的[せかいてき]な 健康[けんこう]ブームだ。
-Beispielsatz-Übersetzung: Heutzutage gibt es einen weltweiten Gesundheitsboom.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今は世界的な健康ブームだ。
+  今[いま]は 世界的[せかいてき]な 健康[けんこう]ブームだ。
+  Heutzutage gibt es einen weltweiten Gesundheitsboom.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

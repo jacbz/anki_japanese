@@ -1,13 +1,26 @@
 Rang: 2959
 Lemma: 支持
 Lesung: しじ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: unterstützen; unterstützen
 Extra: （する）
 Wortart: n. v.
-Definition: unterstützen; unterstützen
-Beispielsatz: この大統領は絶大な支持を受けている。
-Beispielsatz-Lesung: この 大統領[だいとうりょう]は 絶大[ぜつだい]な 支持[しじ]を 受[う]けている。
-Beispielsatz-Übersetzung: Dieser Präsident erhält große Unterstützung.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">じ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この大統領は絶大な支持を受けている。
+  この 大統領[だいとうりょう]は 絶大[ぜつだい]な 支持[しじ]を 受[う]けている。
+  Dieser Präsident erhält große Unterstützung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

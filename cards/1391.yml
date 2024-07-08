@@ -1,13 +1,24 @@
 Rang: 1391
 Lemma: 最終的
 Lesung: さいしゅうてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: endgültig, letzte, ultimativ
-Beispielsatz: 最終的な目標は何ですか。
-Beispielsatz-Lesung: 最終的[さいしゅうてき]な 目標[もくひょう]は 何[なに]ですか。
-Beispielsatz-Übersetzung: Was ist dein ultimatives Ziel?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最終的な目標は何ですか。
+  最終的[さいしゅうてき]な 目標[もくひょう]は 何[なに]ですか。
+  Was ist dein ultimatives Ziel?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

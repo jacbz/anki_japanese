@@ -1,14 +1,24 @@
 Rang: 2461
 Lemma: オリンピック
-Lesung: オリンピック
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Olympische Spiele
-Beispielsatz: 東京は次のオリンピックの開催地に立候補する。
-Beispielsatz-Lesung: 東京[とうきょう]は 次[つぎ]のオリンピックの 開催地[かいさいち]に 立候補[りっこうほ]する。
-Beispielsatz-Übersetzung: Tokio bewirbt sich um den Austragungsort für die nächsten
-  Olympischen Spiele.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東京は次のオリンピックの開催地に立候補する。
+  東京[とうきょう]は 次[つぎ]のオリンピックの 開催地[かいさいち]に 立候補[りっこうほ]する。
+  Tokio bewirbt sich um den Austragungsort für die nächsten Olympischen Spiele.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

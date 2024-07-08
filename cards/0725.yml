@@ -1,13 +1,24 @@
 Rang: 725
 Lemma: 常
 Lesung: つね
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. adv.
+Alternativschreibweisen: ''
 Definition: immer, normalerweise
-Beispielsatz: 常にパスポートを携帯しなければならない。
-Beispielsatz-Lesung: 常[つね]にパスポートを 携帯[けいたい]しなければならない。
-Beispielsatz-Übersetzung: Du musst immer deinen Reisepass bei dir tragen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  常にパスポートを携帯しなければならない。
+  常[つね]にパスポートを 携帯[けいたい]しなければならない。
+  Du musst immer deinen Reisepass bei dir tragen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

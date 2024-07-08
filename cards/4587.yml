@@ -1,13 +1,24 @@
 Rang: 4587
 Lemma: 国道
 Lesung: こくどう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Nationalstraße
-Beispielsatz: 国道沿いに大型スーパーが出店した。
-Beispielsatz-Lesung: 国道[こくどう] 沿[ぞ]いに 大型[おおがた]スーパーが 出店[しゅってん]した。
-Beispielsatz-Übersetzung: Entlang der Nationalstraßen haben große Supermärkte eröffnet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国道沿いに大型スーパーが出店した。
+  国道[こくどう] 沿[ぞ]いに 大型[おおがた]スーパーが 出店[しゅってん]した。
+  Entlang der Nationalstraßen haben große Supermärkte eröffnet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

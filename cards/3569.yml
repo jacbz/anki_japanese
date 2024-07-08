@@ -1,13 +1,27 @@
 Rang: 3569
 Lemma: 自立
 Lesung: じりつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Unabhängigkeit erlangen; unabhängig sein
 Extra: （する）
 Wortart: n. v.
-Definition: Unabhängigkeit erlangen; unabhängig sein
-Beispielsatz: 早く自立したいと思っている。
-Beispielsatz-Lesung: 早[はや]く 自立[じりつ]したいと 思[おも]っている。
-Beispielsatz-Übersetzung: Ich möchte so schnell wie möglich unabhängig sein.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  早く自立したいと思っている。
+  早[はや]く 自立[じりつ]したいと 思[おも]っている。
+  Ich möchte so schnell wie möglich unabhängig sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

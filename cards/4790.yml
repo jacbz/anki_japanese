@@ -1,13 +1,24 @@
 Rang: 4790
 Lemma: リード
-Lesung: リード
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Führung; eine Führung übernehmen
 Extra: （する）
 Wortart: n. v.
-Definition: Führung; eine Führung übernehmen
-Beispielsatz: 我がサッカーチームが一点リードしていた。
-Beispielsatz-Lesung: 我[わ]がサッカーチームが一 点[てん]リードしていた。
-Beispielsatz-Übersetzung: Unser Fußballteam hatte eine Führung von einem Punkt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我がサッカーチームが一点リードしていた。
+  我[わ]がサッカーチームが一 点[てん]リードしていた。
+  Unser Fußballteam hatte eine Führung von einem Punkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

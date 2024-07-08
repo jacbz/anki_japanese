@@ -1,13 +1,24 @@
 Rang: 3061
 Lemma: ぼおっと
-Lesung: ぼおっと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: abwesend; trüb
-Beispielsatz: 彼女は窓の外をぼおっと見ていた。
-Beispielsatz-Lesung: 彼女[かのじょ]は 窓[まど]の 外[そと]をぼおっと 見[み]ていた。
-Beispielsatz-Übersetzung: Sie schaute abwesend aus dem Fenster.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は窓の外をぼおっと見ていた。
+  彼女[かのじょ]は 窓[まど]の 外[そと]をぼおっと 見[み]ていた。
+  Sie schaute abwesend aus dem Fenster.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

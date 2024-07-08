@@ -1,13 +1,24 @@
 Rang: 841
 Lemma: んと
-Lesung: んと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: also
-Beispielsatz: 「何をしていたの。」「んと、家でごろごろしてた」
-Beispielsatz-Lesung: 「 何[なに]をしていたの。」「んと、 家[いえ]でごろごろしてた」
-Beispielsatz-Übersetzung: „Was hast du gemacht?“ „Hmm, ich habe zu Hause herumgelungert.“
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '14'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「何をしていたの。」「んと、家でごろごろしてた」
+  「 何[なに]をしていたの。」「んと、 家[いえ]でごろごろしてた」
+  „Was hast du gemacht?“ „Hmm, ich habe zu Hause herumgelungert.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

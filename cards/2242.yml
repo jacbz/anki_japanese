@@ -1,13 +1,24 @@
 Rang: 2242
 Lemma: シーン
-Lesung: シーン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Szene
-Beispielsatz: 映画のこのシーンが好きです。
-Beispielsatz-Lesung: 映画[えいが]のこのシーンが 好[す]きです。
-Beispielsatz-Übersetzung: Ich mag diese Szene im Film.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  映画のこのシーンが好きです。
+  映画[えいが]のこのシーンが 好[す]きです。
+  Ich mag diese Szene im Film.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

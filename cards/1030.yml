@@ -1,13 +1,24 @@
 Rang: 1030
 Lemma: ヨーロッパ
-Lesung: ヨーロッパ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Europa
-Beispielsatz: 友達に会いにヨーロッパへ行った。
-Beispielsatz-Lesung: 友達[ともだち]に 会[あ]いにヨーロッパへ 行[い]った。
-Beispielsatz-Übersetzung: Ich bin nach Europa gereist, um einige Freunde zu besuchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達に会いにヨーロッパへ行った。
+  友達[ともだち]に 会[あ]いにヨーロッパへ 行[い]った。
+  Ich bin nach Europa gereist, um einige Freunde zu besuchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

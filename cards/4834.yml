@@ -1,13 +1,24 @@
 Rang: 4834
 Lemma: マッサージ
-Lesung: マッサージ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Massage; massieren
 Extra: （する）
 Wortart: n. v.
-Definition: Massage; massieren
-Beispielsatz: マッサージをしてもらった。
-Beispielsatz-Lesung: マッサージをしてもらった。
-Beispielsatz-Übersetzung: Ich habe eine Massage bekommen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  マッサージをしてもらった。
+  マッサージをしてもらった。
+  Ich habe eine Massage bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

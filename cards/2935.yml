@@ -1,13 +1,28 @@
 Rang: 2935
 Lemma: 頻繁
 Lesung: ひんぱん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: häufig
-Beispielsatz: この交差点では事故が頻繁に起こる。
-Beispielsatz-Lesung: この 交差点[こうさてん]では 事故[じこ]が 頻繁[ひんぱん]に 起[お]こる。
-Beispielsatz-Übersetzung: An diesem Kreuzungspunkt kommt es häufig zu Verkehrsunfällen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぱ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この交差点では事故が頻繁に起こる。
+  この 交差点[こうさてん]では 事故[じこ]が 頻繁[ひんぱん]に 起[お]こる。
+  An diesem Kreuzungspunkt kommt es häufig zu Verkehrsunfällen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

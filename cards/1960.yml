@@ -1,13 +1,24 @@
 Rang: 1960
 Lemma: まさか
-Lesung: まさか
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv. n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sicherlich nicht, kann unmöglich; das Schlimmste
-Beispielsatz: まさか彼がやったんじゃないよね？
-Beispielsatz-Lesung: まさか 彼[かれ]がやったんじゃないよね？
-Beispielsatz-Übersetzung: Keine Chance. Hat er das wirklich getan?
+Extra: '' # Nur bei suru-Verben
+Wortart: adv. n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まさか彼がやったんじゃないよね？
+  まさか 彼[かれ]がやったんじゃないよね？
+  Keine Chance. Hat er das wirklich getan?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

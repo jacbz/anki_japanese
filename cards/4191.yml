@@ -1,13 +1,24 @@
 Rang: 4191
 Lemma: 体質
 Lesung: たいしつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Körperkonstitution
-Beispielsatz: 湿気の多い気候は彼の体質に合わなかった。
-Beispielsatz-Lesung: 湿気[しっけ]の 多[おお]い 気候[きこう]は 彼[かれ]の 体質[たいしつ]に 合[あ]わなかった。
-Beispielsatz-Übersetzung: Das feuchte Klima passte nicht zu seiner Konstitution.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  湿気の多い気候は彼の体質に合わなかった。
+  湿気[しっけ]の 多[おお]い 気候[きこう]は 彼[かれ]の 体質[たいしつ]に 合[あ]わなかった。
+  Das feuchte Klima passte nicht zu seiner Konstitution.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

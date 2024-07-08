@@ -1,13 +1,24 @@
 Rang: 1900
 Lemma: たいした
-Lesung: たいした
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nicht groß, nicht viel; großartig, ziemlich
-Beispielsatz: たいしたことじゃないよ。
-Beispielsatz-Lesung: 大[たい]した 事[こと]じゃないよ。
-Beispielsatz-Übersetzung: Es ist nicht so ein großes Problem.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  たいしたことじゃないよ。
+  大[たい]した 事[こと]じゃないよ。
+  Es ist nicht so ein großes Problem.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

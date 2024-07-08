@@ -1,14 +1,27 @@
 Rang: 4384
 Lemma: 対話
 Lesung: たいわ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Dialog, Gespräch; sich unterhalten, diskutieren
 Extra: （する）
 Wortart: n. v.
-Definition: Dialog, Gespräch; sich unterhalten, diskutieren
-Beispielsatz: 親は子供ときちんと対話する事が大切だ。
-Beispielsatz-Lesung: 親[おや]は 子供[こども]ときちんと 対話[たいわ]する 事[こと]が 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Es ist wichtig, dass Eltern angemessen mit ihren Kindern
-  interagieren.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  親は子供ときちんと対話する事が大切だ。
+  親[おや]は 子供[こども]ときちんと 対話[たいわ]する 事[こと]が 大切[たいせつ]だ。
+  Es ist wichtig, dass Eltern angemessen mit ihren Kindern interagieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

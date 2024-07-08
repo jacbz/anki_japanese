@@ -1,13 +1,24 @@
 Rang: 3218
 Lemma: リラックス
-Lesung: リラックス
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Entspannung
 Extra: （する）
 Wortart: n., v.
-Definition: Entspannung
-Beispielsatz: お茶を飲んで、リラックスする。
-Beispielsatz-Lesung: お 茶[ちゃ]を 飲[の]んで、リラックスする。
-Beispielsatz-Übersetzung: Ich entspanne mich beim Teetrinken.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お茶を飲んで、リラックスする。
+  お 茶[ちゃ]を 飲[の]んで、リラックスする。
+  Ich entspanne mich beim Teetrinken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

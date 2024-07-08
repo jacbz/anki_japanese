@@ -1,13 +1,27 @@
 Rang: 3100
 Lemma: 理論
 Lesung: りろん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Theorie
-Beispielsatz: 彼は独自の理論を打ち立てた。
-Beispielsatz-Lesung: 彼[かれ]は 独自[どくじ]の 理論[りろん]を 打[う]ち 立[た]てた。
-Beispielsatz-Übersetzung: Er hat eine originelle Theorie aufgestellt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">り</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ろ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は独自の理論を打ち立てた。
+  彼[かれ]は 独自[どくじ]の 理論[りろん]を 打[う]ち 立[た]てた。
+  Er hat eine originelle Theorie aufgestellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

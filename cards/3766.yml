@@ -1,14 +1,24 @@
 Rang: 3766
 Lemma: ピンク
-Lesung: ピンク
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: rosa
-Beispielsatz: 桜が咲いて、河川敷が一面ピンクに染まった。
-Beispielsatz-Lesung: 桜[さくら]が 咲[さ]いて、 河川敷[かせんしき]が一 面[めん]ピンクに 染[そ]まった。
-Beispielsatz-Übersetzung: Als die Kirschbäume in voller Blüte standen, war das ganze
-  Flussufer rosa gefärbt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  桜が咲いて、河川敷が一面ピンクに染まった。
+  桜[さくら]が 咲[さ]いて、 河川敷[かせんしき]が一 面[めん]ピンクに 染[そ]まった。
+  Als die Kirschbäume in voller Blüte standen, war das ganze Flussufer rosa gefärbt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

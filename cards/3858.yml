@@ -1,13 +1,27 @@
 Rang: 3858
 Lemma: 誇る
 Lesung: ほこる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: sich rühmen, prahlen
-Beispielsatz: 日本車は世界に誇る製品の一つだ。
-Beispielsatz-Lesung: 日本車[にほんしゃ]は 世界[せかい]に 誇[ほこ]る 製品[せいひん]の 一[ひと]つだ。
-Beispielsatz-Übersetzung: Japanische Autos sind eines unserer erstklassigen Produkte.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本車は世界に誇る製品の一つだ。
+  日本車[にほんしゃ]は 世界[せかい]に 誇[ほこ]る 製品[せいひん]の 一[ひと]つだ。
+  Japanische Autos sind eines unserer erstklassigen Produkte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

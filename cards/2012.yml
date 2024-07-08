@@ -1,13 +1,28 @@
 Rang: 2012
 Lemma: 収入
 Lesung: しゅうにゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Einkommen
-Beispielsatz: 私より妻のほうが収入が多い。
-Beispielsatz-Lesung: 私[わたし]より 妻[つま]のほうが 収入[しゅうにゅう]が 多[おお]い。
-Beispielsatz-Übersetzung: Das Einkommen meiner Frau ist höher als meins.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">に</span><span class="char">ゅ</span></span></span><span
+  class="accent_plain mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私より妻のほうが収入が多い。
+  私[わたし]より 妻[つま]のほうが 収入[しゅうにゅう]が 多[おお]い。
+  Das Einkommen meiner Frau ist höher als meins.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

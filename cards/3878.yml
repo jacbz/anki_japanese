@@ -1,13 +1,24 @@
 Rang: 3878
 Lemma: ちまう
-Lesung: ちまう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwas vollständig tun
-Beispielsatz: やる気がないなら、やめちまえ！
-Beispielsatz-Lesung: やる 気[き]がないなら、やめちまえ！
-Beispielsatz-Übersetzung: Wenn du keine Lust hast, dann höre einfach auf!
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  やる気がないなら、やめちまえ！
+  やる 気[き]がないなら、やめちまえ！
+  Wenn du keine Lust hast, dann höre einfach auf!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

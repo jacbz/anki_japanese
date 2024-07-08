@@ -1,14 +1,28 @@
 Rang: 318
 Lemma: 関係
 Lesung: かんけい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Beziehung, Verbindung
-Beispielsatz: 我が社は取引先とよい関係を築いている。
-Beispielsatz-Lesung: 我[わ]が 社[しゃ]は 取引先[とりひきさき]とよい 関係[かんけい]を 築[きず]いている。
-Beispielsatz-Übersetzung: Unser Unternehmen hat eine gute Geschäftsbeziehung zum Kunden
-  aufgebaut.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我が社は取引先とよい関係を築いている。
+  我[わ]が 社[しゃ]は 取引先[とりひきさき]とよい 関係[かんけい]を 築[きず]いている。
+  Unser Unternehmen hat eine gute Geschäftsbeziehung zum Kunden aufgebaut.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

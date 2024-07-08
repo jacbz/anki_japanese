@@ -1,13 +1,28 @@
 Rang: 1795
 Lemma: 唯一
 Lesung: ゆいいつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., adv.
+Alternativschreibweisen: ''
 Definition: nur
-Beispielsatz: 最近は食べることが唯一の楽しみだ。
-Beispielsatz-Lesung: 最近[さいきん]は 食[た]べることが 唯一[ゆいいつ]の 楽[たの]しみだ。
-Beispielsatz-Übersetzung: Essen ist in letzter Zeit meine einzige Freude.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">ゆ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近は食べることが唯一の楽しみだ。
+  最近[さいきん]は 食[た]べることが 唯一[ゆいいつ]の 楽[たの]しみだ。
+  Essen ist in letzter Zeit meine einzige Freude.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4468
 Lemma: アニメ
-Lesung: アニメ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Animation
-Beispielsatz: あのアニメが映画化されると聞いた。
-Beispielsatz-Lesung: あのアニメが 映画[えいが] 化[か]されると 聞[き]いた。
-Beispielsatz-Übersetzung: Ich habe gehört, dass die Animation verfilmt werden soll.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あのアニメが映画化されると聞いた。
+  あのアニメが 映画[えいが] 化[か]されると 聞[き]いた。
+  Ich habe gehört, dass die Animation verfilmt werden soll.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

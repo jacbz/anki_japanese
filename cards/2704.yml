@@ -1,13 +1,28 @@
 Rang: 2704
 Lemma: 二つ目
 Lesung: ふたつめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zweite(r)
-Beispielsatz: 二つ目の角を曲がって。
-Beispielsatz-Lesung: 二[ふた]つ 目[め]の 角[かど]を 曲[ま]がって。
-Beispielsatz-Übersetzung: Bitte biegen Sie an der zweiten Ecke ab.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">め</span></span></span></span>
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二つ目の角を曲がって。
+  二[ふた]つ 目[め]の 角[かど]を 曲[ま]がって。
+  Bitte biegen Sie an der zweiten Ecke ab.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

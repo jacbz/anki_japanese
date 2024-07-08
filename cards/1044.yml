@@ -1,13 +1,24 @@
 Rang: 1044
 Lemma: スポーツ
-Lesung: スポーツ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Sport
-Beispielsatz: どんなスポーツをしますか。
-Beispielsatz-Lesung: どんなスポーツをしますか。
-Beispielsatz-Übersetzung: Welche Art von Sport treibst du?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どんなスポーツをしますか。
+  どんなスポーツをしますか。
+  Welche Art von Sport treibst du?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

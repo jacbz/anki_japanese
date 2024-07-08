@@ -1,13 +1,24 @@
 Rang: 1573
 Lemma: さあ
-Lesung: さあ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: los, nun, gut
-Beispielsatz: さあ、もう寝なさい。
-Beispielsatz-Lesung: さあ、もう 寝[ね]なさい。
-Beispielsatz-Übersetzung: Jetzt ist es Zeit ins Bett zu gehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  さあ、もう寝なさい。
+  さあ、もう 寝[ね]なさい。
+  Jetzt ist es Zeit ins Bett zu gehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

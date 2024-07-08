@@ -1,13 +1,27 @@
 Rang: 266
 Lemma: すべて
-Lesung: すべて
-Alternative: 全て
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: 全て
 Definition: alles
-Beispielsatz: これらの本は全て読みました。
-Beispielsatz-Lesung: これらの 本[ほん]は 全[すべ]て 読[よ]みました。
-Beispielsatz-Übersetzung: Ich habe alle diese Bücher gelesen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">す</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">べ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">て</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これらの本は全て読みました。
+  これらの 本[ほん]は 全[すべ]て 読[よ]みました。
+  Ich habe alle diese Bücher gelesen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2394
 Lemma: ひたすら
-Lesung: ひたすら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: entschlossen, ernsthaft
-Beispielsatz: ひたすら前だけを見て頑張った。
-Beispielsatz-Lesung: ひたすら 前[まえ]だけを 見[み]て 頑張[がんば]った。
-Beispielsatz-Übersetzung: Ich sah entschlossen nach vorne und hielt durch.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ひたすら前だけを見て頑張った。
+  ひたすら 前[まえ]だけを 見[み]て 頑張[がんば]った。
+  Ich sah entschlossen nach vorne und hielt durch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

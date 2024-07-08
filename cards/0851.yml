@@ -1,13 +1,27 @@
 Rang: 851
 Lemma: 学ぶ
 Lesung: まなぶ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: lernen
-Beispielsatz: 両親から多くのことを学んだ。
-Beispielsatz-Lesung: 両親[りょうしん]から 多[おお]くのことを 学[まな]んだ。
-Beispielsatz-Übersetzung: Ich habe viel von meinen Eltern gelernt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぶ</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  両親から多くのことを学んだ。
+  両親[りょうしん]から 多[おお]くのことを 学[まな]んだ。
+  Ich habe viel von meinen Eltern gelernt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

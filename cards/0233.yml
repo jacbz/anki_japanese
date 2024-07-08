@@ -1,13 +1,24 @@
 Rang: 233
 Lemma: において
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: bei; in; auf
-Beispielsatz: 日本において国際会議が開かれた。
-Beispielsatz-Lesung: 日本[にっぽん]において 国際[こくさい] 会議[かいぎ]が 開[ひら]かれた。
-Beispielsatz-Übersetzung: In Japan fand eine internationale Konferenz statt.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '43'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本において国際会議が開かれた。
+  日本[にっぽん]において 国際[こくさい] 会議[かいぎ]が 開[ひら]かれた。
+  In Japan fand eine internationale Konferenz statt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

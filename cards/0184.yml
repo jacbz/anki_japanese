@@ -1,13 +1,30 @@
 Rang: 184
 Lemma: ただ
-Lesung: ただ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj. adv.
-Definition: bloß
-Beispielsatz: 彼女は美人だ。ただ、わがままだ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 美人[びじん]だ。ただ、わがままだ。
-Beispielsatz-Übersetzung: Sie ist schön, bloß egoistisch.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: nur, bloß, lediglich
+Extra: '' # Nur bei suru-Verben
+Wortart: conj. adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">た</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">だ</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は美人だ。ただ、わがままだ。
+  彼女[かのじょ]は 美人[びじん]だ。ただ、わがままだ。
+  Sie ist schön, bloß egoistisch.
+
+  私たちはただの友達です。
+  私[わたし]たちはただの 友達[ともだち]です。
+  Wir sind nur Freunde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

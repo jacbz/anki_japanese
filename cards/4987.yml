@@ -1,13 +1,24 @@
 Rang: 4987
 Lemma: 給付
 Lesung: きゅうふ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Lieferung, Bereitstellung; zur Verfügung stellen
 Extra: （する）
 Wortart: n. v.
-Definition: Lieferung, Bereitstellung; zur Verfügung stellen
-Beispielsatz: 失業保険の給付を受けた。
-Beispielsatz-Lesung: 失業保険[しつぎょうほけん]の 給付[きゅうふ]を 受[う]けた。
-Beispielsatz-Übersetzung: Ich erhielt eine Bereitstellung von Arbeitslosenversicherung.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '68'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  失業保険の給付を受けた。
+  失業保険[しつぎょうほけん]の 給付[きゅうふ]を 受[う]けた。
+  Ich erhielt eine Bereitstellung von Arbeitslosenversicherung.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 381
 Lemma: とにかく
-Lesung: とにかく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jedenfalls, sowieso
-Beispielsatz: とにかく、すぐに来てください。
-Beispielsatz-Lesung: とにかく、すぐに 来[き]てください。
-Beispielsatz-Übersetzung: Jedenfalls, bitte kommen Sie so schnell wie möglich.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  とにかく、すぐに来てください。
+  とにかく、すぐに 来[き]てください。
+  Jedenfalls, bitte kommen Sie so schnell wie möglich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 1789
 Lemma: 大抵
 Lesung: たいてい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: gewöhnlich
-Beispielsatz: 朝ごはんはたいてい七時に食べる。
-Beispielsatz-Lesung: 朝[あさ]ごはんはたいてい七 時[じ]に 食[た]べる。
-Beispielsatz-Übersetzung: Ich esse gewöhnlich um sieben Uhr Frühstück.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  朝ごはんはたいてい七時に食べる。
+  朝[あさ]ごはんはたいてい七 時[じ]に 食[た]べる。
+  Ich esse gewöhnlich um sieben Uhr Frühstück.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

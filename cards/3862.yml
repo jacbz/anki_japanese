@@ -1,13 +1,24 @@
 Rang: 3862
 Lemma: 抑制
 Lesung: よくせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: kontrollieren, zurückhalten
 Extra: （する）
 Wortart: n. v.
-Definition: kontrollieren, zurückhalten
-Beispielsatz: 彼は怒りを抑制した。
-Beispielsatz-Lesung: 彼[かれ]は 怒[いか]りを 抑制[よくせい]した。
-Beispielsatz-Übersetzung: Er hat seine Wut kontrolliert.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は怒りを抑制した。
+  彼[かれ]は 怒[いか]りを 抑制[よくせい]した。
+  Er hat seine Wut kontrolliert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 1802
 Lemma: 未来
 Lesung: みらい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zukunft
-Beispielsatz: 君には明るい未来がある。
-Beispielsatz-Lesung: 君[きみ]には 明[あか]るい 未来[みらい]がある。
-Beispielsatz-Übersetzung: Du hast eine helle Zukunft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">み</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ら</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  君には明るい未来がある。
+  君[きみ]には 明[あか]るい 未来[みらい]がある。
+  Du hast eine helle Zukunft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

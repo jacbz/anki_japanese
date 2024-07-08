@@ -1,13 +1,32 @@
 Rang: 7
 Lemma: が
-Lesung: が
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
-Definition: NOMINATIV
-Beispielsatz: こちらが私の妻です。
-Beispielsatz-Lesung: こちらが 私[わたし]の 妻[つま]です。
-Beispielsatz-Übersetzung: Das ist meine Frau.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: NOMINATIV; aber
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case, p. conj., conj.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  こちらが私の妻です。
+  こちらが 私[わたし]の 妻[つま]です。
+  Das ist meine Frau.
+
+  いい天気だが、風が冷たい。
+  いい 天気[てんき]だが、 風[かぜ]が 冷[つめ]たい。
+  Das Wetter ist gut, aber der Wind ist kalt.
+
+  旅行に行きたい。が、時間がない。
+  旅行[りょこう]に 行[い]きたい。が、 時間[じかん]がない。
+  Ich möchte reisen, aber ich habe keine Zeit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 340
 Lemma: により
-Lesung: により
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: durch; mit; je nach
-Beispielsatz: 二十歳未満の若者の飲酒は、法律により禁止されています。
-Beispielsatz-Lesung: 二十歳[はたち] 未満[みまん]の 若者[わかもの]の 飲酒[いんしゅ]は、 法律[ほうりつ]により 禁止[きんし]されています。
-Beispielsatz-Übersetzung: Der Genuss von Alkohol ist für Personen unter zwanzig Jahren
-  verboten.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二十歳未満の若者の飲酒は、法律により禁止されています。
+  二十歳[はたち] 未満[みまん]の 若者[わかもの]の 飲酒[いんしゅ]は、 法律[ほうりつ]により 禁止[きんし]されています。
+  Der Genuss von Alkohol ist für Personen unter zwanzig Jahren verboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

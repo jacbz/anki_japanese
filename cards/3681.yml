@@ -1,13 +1,24 @@
 Rang: 3681
 Lemma: 四十年
 Lesung: よんじゅうねん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vierzig Jahre
-Beispielsatz: この家は築四十年だ。
-Beispielsatz-Lesung: この 家[いえ]は 築[ちく]四十 年[ねん]だ。
-Beispielsatz-Übersetzung: Dieses Haus ist vierzig Jahre alt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この家は築四十年だ。
+  この 家[いえ]は 築[ちく]四十 年[ねん]だ。
+  Dieses Haus ist vierzig Jahre alt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

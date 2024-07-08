@@ -1,13 +1,28 @@
 Rang: 2175
 Lemma: 詳細
 Lesung: しょうさい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Details; detailliert
-Beispielsatz: 彼はその出来事について詳細に説明した。
-Beispielsatz-Lesung: 彼[かれ]はその 出来事[できごと]について 詳細[しょうさい]に 説明[せつめい]した。
-Beispielsatz-Übersetzung: Er erklärte ausführlich, was los war.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">さ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はその出来事について詳細に説明した。
+  彼[かれ]はその 出来事[できごと]について 詳細[しょうさい]に 説明[せつめい]した。
+  Er erklärte ausführlich, was los war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

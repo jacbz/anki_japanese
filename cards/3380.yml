@@ -1,14 +1,30 @@
 Rang: 3380
 Lemma: 羨ましい
 Lesung: うらやましい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: i-adj.
+Alternativschreibweisen: ''
 Definition: neidisch; beneidenswert
-Beispielsatz: 毎年海外旅行ができる友人が羨ましい。
-Beispielsatz-Lesung: 毎年[まいとし] 海外旅行[かいがいりょこう]ができる 友人[ゆうじん]が 羨[うらや]ましい。
-Beispielsatz-Übersetzung: Ich beneide den Freund, der jedes Jahr ins Ausland reisen
-  kann.
+Extra: '' # Nur bei suru-Verben
+Wortart: i-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  毎年海外旅行ができる友人が羨ましい。
+  毎年[まいとし] 海外旅行[かいがいりょこう]ができる 友人[ゆうじん]が 羨[うらや]ましい。
+  Ich beneide den Freund, der jedes Jahr ins Ausland reisen kann.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

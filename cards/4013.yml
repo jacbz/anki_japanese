@@ -1,13 +1,29 @@
 Rang: 4013
 Lemma: 大家さん
 Lesung: おおやさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vermieter, Eigentümer
-Beispielsatz: 大家さんは家賃を上げたいそうだ。
-Beispielsatz-Lesung: 大家[おおや]さんは 家賃[やちん]を 上[あ]げたいそうだ。
-Beispielsatz-Übersetzung: Der Vermieter sagt, dass er die Miete erhöhen möchte.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-5"><span
+  class="inner"><span class="char">お</span></span></span><span class="mola_-4"><span
+  class="inner"><span class="char">お</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">や</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大家さんは家賃を上げたいそうだ。
+  大家[おおや]さんは 家賃[やちん]を 上[あ]げたいそうだ。
+  Der Vermieter sagt, dass er die Miete erhöhen möchte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

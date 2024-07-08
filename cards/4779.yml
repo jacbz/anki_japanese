@@ -1,13 +1,24 @@
 Rang: 4779
 Lemma: ガイド
-Lesung: ガイド
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Führer; führen
 Extra: （する）
 Wortart: n. v.
-Definition: Führer; führen
-Beispielsatz: ガイドが私達を博物館へ案内してくれた。
-Beispielsatz-Lesung: ガイドが 私[わたし] 達[たち]を 博物館[はくぶつかん]へ 案内[あんない]してくれた。
-Beispielsatz-Übersetzung: Der Führer hat uns zum Museum geführt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ガイドが私達を博物館へ案内してくれた。
+  ガイドが 私[わたし] 達[たち]を 博物館[はくぶつかん]へ 案内[あんない]してくれた。
+  Der Führer hat uns zum Museum geführt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

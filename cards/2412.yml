@@ -1,13 +1,24 @@
 Rang: 2412
 Lemma: （お）姉さん
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: ältere Schwester
-Beispielsatz: あなたのお姉さんと友達になりたい。
-Beispielsatz-Lesung: あなたのお 姉[ねえ]さんと 友達[ともだち]になりたい。
-Beispielsatz-Übersetzung: Ich möchte mich mit deiner Schwester anfreunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '59'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あなたのお姉さんと友達になりたい。
+  あなたのお 姉[ねえ]さんと 友達[ともだち]になりたい。
+  Ich möchte mich mit deiner Schwester anfreunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

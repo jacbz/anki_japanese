@@ -1,13 +1,30 @@
 Rang: 4386
 Lemma: お好み焼き
 Lesung: おこのみやき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Okonomiyaki
-Beispielsatz: お好み焼きは広島と大阪が有名だ。
-Beispielsatz-Lesung: お 好[この]み 焼[や]きは 広島[ひろしま]と 大阪[おおさか]が 有名[ゆうめい]だ。
-Beispielsatz-Übersetzung: Hiroshima und Osaka sind für ihr Okonomiyaki berühmt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">み</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '66'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お好み焼きは広島と大阪が有名だ。
+  お 好[この]み 焼[や]きは 広島[ひろしま]と 大阪[おおさか]が 有名[ゆうめい]だ。
+  Hiroshima und Osaka sind für ihr Okonomiyaki berühmt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1916
 Lemma: あっ
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Alternativschreibweisen: ''
 Definition: Ach!
-Beispielsatz: あっ、電話だ。
-Beispielsatz-Lesung: あっ、 電話[でんわ]だ。
-Beispielsatz-Übersetzung: Oh, das Telefon klingelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あっ、電話だ。
+  あっ、 電話[でんわ]だ。
+  Oh, das Telefon klingelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

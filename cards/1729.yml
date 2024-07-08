@@ -1,13 +1,28 @@
 Rang: 1729
 Lemma: 体重
 Lesung: たいじゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gewicht
-Beispielsatz: 体重が全然減らなかった。
-Beispielsatz-Lesung: 体重[たいじゅう]が 全然[ぜんぜん] 減[へ]らなかった。
-Beispielsatz-Übersetzung: Ich habe überhaupt kein Gewicht verloren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  体重が全然減らなかった。
+  体重[たいじゅう]が 全然[ぜんぜん] 減[へ]らなかった。
+  Ich habe überhaupt kein Gewicht verloren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

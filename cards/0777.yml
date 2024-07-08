@@ -1,13 +1,24 @@
 Rang: 777
 Lemma: (お)父さん
 Lesung: (お)とうさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vater
-Beispielsatz: お父さん、話があるんだけど。
-Beispielsatz-Lesung: お 父[とう]さん、 話[はなし]があるんだけど。
-Beispielsatz-Übersetzung: Papa, ich muss mit dir reden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お父さん、話があるんだけど。
+  お 父[とう]さん、 話[はなし]があるんだけど。
+  Papa, ich muss mit dir reden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

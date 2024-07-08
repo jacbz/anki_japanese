@@ -1,13 +1,24 @@
 Rang: 4404
 Lemma: 我ら
 Lesung: われら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Alternativschreibweisen: ''
 Definition: wir
-Beispielsatz: 我らの罪を許したまえ。
-Beispielsatz-Lesung: 我[われ]らの 罪[つみ]を 許[ゆる]したまえ。
-Beispielsatz-Übersetzung: Vergib uns unsere Verfehlungen.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '58'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我らの罪を許したまえ。
+  我[われ]らの 罪[つみ]を 許[ゆる]したまえ。
+  Vergib uns unsere Verfehlungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

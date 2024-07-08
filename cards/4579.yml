@@ -1,13 +1,24 @@
 Rang: 4579
 Lemma: まし
-Lesung: まし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: besser; Anstieg
-Beispielsatz: 貯金は少ないが、ないよりはましだ。
-Beispielsatz-Lesung: 貯金[ちょきん]は 少[すく]ないが、ないよりはましだ。
-Beispielsatz-Übersetzung: Meine Ersparnisse sind gering, aber es ist besser als nichts.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  貯金は少ないが、ないよりはましだ。
+  貯金[ちょきん]は 少[すく]ないが、ないよりはましだ。
+  Meine Ersparnisse sind gering, aber es ist besser als nichts.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

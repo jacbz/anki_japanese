@@ -1,13 +1,24 @@
 Rang: 2742
 Lemma: 早め
 Lesung: はやめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: frühzeitig
-Beispielsatz: 少し早めに夕食の準備をした。
-Beispielsatz-Lesung: 少[すこ]し 早[はや]めに 夕食[ゆうしょく]の 準備[じゅんび]をした。
-Beispielsatz-Übersetzung: Ich habe das Abendessen etwas früher als gewöhnlich vorbereitet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  少し早めに夕食の準備をした。
+  少[すこ]し 早[はや]めに 夕食[ゆうしょく]の 準備[じゅんび]をした。
+  Ich habe das Abendessen etwas früher als gewöhnlich vorbereitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4564
 Lemma: テクニック
-Lesung: テクニック
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Technik
-Beispielsatz: 彼女のピアノのテクニックは素晴らしい。
-Beispielsatz-Lesung: 彼女[かのじょ]のピアノのテクニックは 素晴[すば]らしい。
-Beispielsatz-Übersetzung: Ihre Klaviertechnik ist hervorragend.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女のピアノのテクニックは素晴らしい。
+  彼女[かのじょ]のピアノのテクニックは 素晴[すば]らしい。
+  Ihre Klaviertechnik ist hervorragend.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

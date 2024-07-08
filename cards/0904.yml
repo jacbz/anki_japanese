@@ -1,13 +1,24 @@
 Rang: 904
 Lemma: ちなみに
-Lesung: ちなみに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: übrigens, nebenbei
-Beispielsatz: ちなみに、彼はまだ独身です。
-Beispielsatz-Lesung: ちなみに、 彼[かれ]はまだ 独身[どくしん]です。
-Beispielsatz-Übersetzung: Übrigens, er ist immer noch Single.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ちなみに、彼はまだ独身です。
+  ちなみに、 彼[かれ]はまだ 独身[どくしん]です。
+  Übrigens, er ist immer noch Single.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

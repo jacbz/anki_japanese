@@ -1,13 +1,24 @@
 Rang: 4323
 Lemma: ヒット
-Lesung: ヒット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Treffer
-Beispielsatz: 彼はヒットを放った。
-Beispielsatz-Lesung: 彼[かれ]はヒットを 放[はな]った。
-Beispielsatz-Übersetzung: Er hat einen Treffer erzielt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はヒットを放った。
+  彼[かれ]はヒットを 放[はな]った。
+  Er hat einen Treffer erzielt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

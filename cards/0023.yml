@@ -1,13 +1,24 @@
 Rang: 23
-Lemma: まー<br>まあ
+Lemma: まー
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Alternativschreibweisen: まあ
 Definition: Wow!, Oh mein Gott!
-Beispielsatz: まー、なんて素晴らしいんでしょう。
-Beispielsatz-Lesung: まー、なんて 素晴[すば]らしいんでしょう。
-Beispielsatz-Übersetzung: Wow! Das ist erstaunlich!
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '4'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  まー、なんて素晴らしいんでしょう。
+  まー、なんて 素晴[すば]らしいんでしょう。
+  Wow! Das ist erstaunlich!
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4641
 Lemma: 日本一
 Lesung: にほんいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: am meisten in Japan
-Beispielsatz: 富士山は日本一高い山です。
-Beispielsatz-Lesung: 富士山[ふじさん]は 日本一[にっぽんいち] 高[たか]い 山[やま]です。
-Beispielsatz-Übersetzung: Der Berg Fuji ist der höchste Berg in Japan.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  富士山は日本一高い山です。
+  富士山[ふじさん]は 日本一[にっぽんいち] 高[たか]い 山[やま]です。
+  Der Berg Fuji ist der höchste Berg in Japan.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

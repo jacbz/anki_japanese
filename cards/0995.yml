@@ -1,14 +1,25 @@
 Rang: 995
 Lemma: 名
 Lesung: な
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Name
-Beispielsatz: 父の名は利行、母の名は愛子です。
-Beispielsatz-Lesung: 父[ちち]の 名[な]は 利行[としゆき]、 母[はは]の 名[な]は 愛子[あいこ]です。
-Beispielsatz-Übersetzung: Der Name meines Vaters ist Toshiyuki und der Name meiner
-  Mutter ist Aiko.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-1"><span class="inner"><span
+  class="char">な</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父の名は利行、母の名は愛子です。
+  父[ちち]の 名[な]は 利行[としゆき]、 母[はは]の 名[な]は 愛子[あいこ]です。
+  Der Name meines Vaters ist Toshiyuki und der Name meiner Mutter ist Aiko.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

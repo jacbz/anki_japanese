@@ -1,13 +1,24 @@
 Rang: 4019
 Lemma: 金利
 Lesung: きんり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zins
-Beispielsatz: 銀行は金利を上げた。
-Beispielsatz-Lesung: 銀行[ぎんこう]は 金利[きんり]を 上[あ]げた。
-Beispielsatz-Übersetzung: Die Bank erhöhte den Zinssatz.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  銀行は金利を上げた。
+  銀行[ぎんこう]は 金利[きんり]を 上[あ]げた。
+  Die Bank erhöhte den Zinssatz.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

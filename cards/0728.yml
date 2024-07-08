@@ -1,13 +1,24 @@
 Rang: 728
 Lemma: 考え方
 Lesung: かんがえかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Denkweise, Einstellung
-Beispielsatz: 考え方が違う。
-Beispielsatz-Lesung: 考[かんが]え 方[かた]が 違[ちが]う。
-Beispielsatz-Übersetzung: Es gibt Unterschiede in den Denkweisen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  考え方が違う。
+  考[かんが]え 方[かた]が 違[ちが]う。
+  Es gibt Unterschiede in den Denkweisen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

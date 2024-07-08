@@ -1,13 +1,26 @@
 Rang: 666
 Lemma: 無理
 Lesung: むり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: unvernünftig, unmöglich
-Beispielsatz: 全ての仕事を一人でするのは無理だ。
-Beispielsatz-Lesung: 全[すべ]ての 仕事[しごと]を一人でするのは 無理[むり]だ。
-Beispielsatz-Übersetzung: Es ist unmöglich, alle Arbeit alleine zu erledigen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">む</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  全ての仕事を一人でするのは無理だ。
+  全[すべ]ての 仕事[しごと]を一人でするのは 無理[むり]だ。
+  Es ist unmöglich, alle Arbeit alleine zu erledigen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

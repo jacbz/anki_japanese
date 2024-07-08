@@ -1,13 +1,24 @@
 Rang: 4517
 Lemma: 仕草
 Lesung: しぐさ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Verhalten, Geste
-Beispielsatz: 私は彼の落ち着かない仕草が好きじゃない。
-Beispielsatz-Lesung: 私[わたし]は 彼[かれ]の 落[お]ち 着[つ]かない 仕草[しぐさ]が 好[す]きじゃない。
-Beispielsatz-Übersetzung: Ich mag seine ungeduldigen Gesten nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は彼の落ち着かない仕草が好きじゃない。
+  私[わたし]は 彼[かれ]の 落[お]ち 着[つ]かない 仕草[しぐさ]が 好[す]きじゃない。
+  Ich mag seine ungeduldigen Gesten nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

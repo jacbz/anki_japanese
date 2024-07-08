@@ -1,13 +1,24 @@
 Rang: 4990
 Lemma: しみじみ
-Lesung: しみじみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: tief empfunden, von Herzen
-Beispielsatz: 彼女の親切さをしみじみと感じた。
-Beispielsatz-Lesung: 彼女[かのじょ]の 親切[しんせつ]さをしみじみと 感[かん]じた。
-Beispielsatz-Übersetzung: Ich habe tief empfunden, wie freundlich sie war.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の親切さをしみじみと感じた。
+  彼女[かのじょ]の 親切[しんせつ]さをしみじみと 感[かん]じた。
+  Ich habe tief empfunden, wie freundlich sie war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

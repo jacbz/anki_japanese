@@ -1,14 +1,26 @@
 Rang: 3733
 Lemma: 視野
 Lesung: しや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Perspektive, Sicht
-Beispielsatz: 留学の経験が彼の視野を広げた。
-Beispielsatz-Lesung: 留学[りゅうがく]の 経験[けいけん]が 彼[かれ]の 視野[しや]を 広[ひろ]げた。
-Beispielsatz-Übersetzung: Die Erfahrung des Auslandsstudiums hat seine Perspektive
-  erweitert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">や</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  留学の経験が彼の視野を広げた。
+  留学[りゅうがく]の 経験[けいけん]が 彼[かれ]の 視野[しや]を 広[ひろ]げた。
+  Die Erfahrung des Auslandsstudiums hat seine Perspektive erweitert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

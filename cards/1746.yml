@@ -1,13 +1,24 @@
 Rang: 1746
 Lemma: レストラン
-Lesung: レストラン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Restaurant
-Beispielsatz: そのビルの中にいくつかレストランがある。
-Beispielsatz-Lesung: そのビルの 中[なか]にいくつかレストランがある。
-Beispielsatz-Übersetzung: Es gibt mehrere Restaurants in dem Gebäude.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  そのビルの中にいくつかレストランがある。
+  そのビルの 中[なか]にいくつかレストランがある。
+  Es gibt mehrere Restaurants in dem Gebäude.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

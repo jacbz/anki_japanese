@@ -1,13 +1,24 @@
 Rang: 3411
 Lemma: をめぐる
 Lesung: おめぐる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: über, betreffend
-Beispielsatz: 新しい制度をめぐる議論が活発だ。
-Beispielsatz-Lesung: 新[あたら]しい 制度[せいど]をめぐる 議論[ぎろん]が 活発[かっぱつ]だ。
-Beispielsatz-Übersetzung: Es gibt eine lebhafte Debatte über ein neues System.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい制度をめぐる議論が活発だ。
+  新[あたら]しい 制度[せいど]をめぐる 議論[ぎろん]が 活発[かっぱつ]だ。
+  Es gibt eine lebhafte Debatte über ein neues System.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

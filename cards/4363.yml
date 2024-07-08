@@ -1,13 +1,24 @@
 Rang: 4363
 Lemma: レンズ
-Lesung: レンズ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Linse
-Beispielsatz: カメラのレンズを磨いた。
-Beispielsatz-Lesung: カメラのレンズを 磨[みが]いた。
-Beispielsatz-Übersetzung: Ich habe das Kameraobjektiv poliert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カメラのレンズを磨いた。
+  カメラのレンズを 磨[みが]いた。
+  Ich habe das Kameraobjektiv poliert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

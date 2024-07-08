@@ -1,13 +1,24 @@
 Rang: 3237
 Lemma: 由来
 Lesung: ゆらい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Herkunft haben, stammen
 Extra: （する）
 Wortart: n. v.
-Definition: Herkunft haben, stammen
-Beispielsatz: 私の名前の由来を聞かれた。
-Beispielsatz-Lesung: 私[わたし]の 名前[なまえ]の 由来[ゆらい]を 聞[き]かれた。
-Beispielsatz-Übersetzung: Mir wurde nach der Herkunft meines Namens gefragt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の名前の由来を聞かれた。
+  私[わたし]の 名前[なまえ]の 由来[ゆらい]を 聞[き]かれた。
+  Mir wurde nach der Herkunft meines Namens gefragt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

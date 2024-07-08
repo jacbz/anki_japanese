@@ -1,13 +1,27 @@
 Rang: 1713
 Lemma: 職場
 Lesung: しょくば
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Arbeitsplatz
-Beispielsatz: 今度の職場は家の近くだ。
-Beispielsatz-Lesung: 今度[こんど]の 職場[しょくば]は 家[いえ]の 近[ちか]くだ。
-Beispielsatz-Übersetzung: Mein neuer Arbeitsplatz ist in der Nähe meines Hauses.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">く</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ば</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今度の職場は家の近くだ。
+  今度[こんど]の 職場[しょくば]は 家[いえ]の 近[ちか]くだ。
+  Mein neuer Arbeitsplatz ist in der Nähe meines Hauses.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

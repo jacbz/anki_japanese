@@ -1,14 +1,24 @@
 Rang: 2246
 Lemma: 旨
 Lesung: むね
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Wirkung; Prinzip
-Beispielsatz: 学校はその生徒に退学になる旨を警告した。
-Beispielsatz-Lesung: 学校[がっこう]はその 生徒[せいと]に 退学[たいがく]になる 旨[むね]を 警告[けいこく]した。
-Beispielsatz-Übersetzung: Die Schule warnte den Schüler, dass er von der Schule verwiesen
-  werden würde.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '55'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  学校はその生徒に退学になる旨を警告した。
+  学校[がっこう]はその 生徒[せいと]に 退学[たいがく]になる 旨[むね]を 警告[けいこく]した。
+  Die Schule warnte den Schüler, dass er von der Schule verwiesen werden würde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

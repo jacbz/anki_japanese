@@ -1,14 +1,27 @@
 Rang: 3799
 Lemma: 遂げる
 Lesung: とげる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: erreichen
-Beispielsatz: この会社は数年で急速な成長を遂げた。
-Beispielsatz-Lesung: この 会社[かいしゃ]は 数[すう] 年[ねん]で 急速[きゅうそく]な 成長[せいちょう]を 遂[と]げた。
-Beispielsatz-Übersetzung: Das Unternehmen hat in den letzten Jahren ein schnelles
-  Wachstum erreicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">げ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この会社は数年で急速な成長を遂げた。
+  この 会社[かいしゃ]は 数[すう] 年[ねん]で 急速[きゅうそく]な 成長[せいちょう]を 遂[と]げた。
+  Das Unternehmen hat in den letzten Jahren ein schnelles Wachstum erreicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

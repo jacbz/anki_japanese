@@ -1,14 +1,24 @@
 Rang: 1522
 Lemma: イベント
-Lesung: イベント
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Veranstaltung
-Beispielsatz: お祭りの期間中、様々なイベントが行われる。
-Beispielsatz-Lesung: お 祭[まつ]りの 期間中[きかんちゅう]、 様々[さまざま]なイベントが 行[おこな]われる。
-Beispielsatz-Übersetzung: Während des Festivals wird eine Vielzahl von Veranstaltungen
-  angeboten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お祭りの期間中、様々なイベントが行われる。
+  お 祭[まつ]りの 期間中[きかんちゅう]、 様々[さまざま]なイベントが 行[おこな]われる。
+  Während des Festivals wird eine Vielzahl von Veranstaltungen angeboten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

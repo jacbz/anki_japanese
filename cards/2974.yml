@@ -1,13 +1,24 @@
 Rang: 2974
 Lemma: 二十三日
 Lesung: にじゅうさんにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Dreiundzwanzigster (Datum); dreiundzwanzig Tage
-Beispielsatz: 二十三日は空いていますか。
-Beispielsatz-Lesung: 二十三 日[にち]は 空[あ]いていますか。
-Beispielsatz-Übersetzung: Bist du am dreiundzwanzigsten frei?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  二十三日は空いていますか。
+  二十三 日[にち]は 空[あ]いていますか。
+  Bist du am dreiundzwanzigsten frei?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

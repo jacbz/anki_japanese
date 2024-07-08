@@ -1,13 +1,27 @@
 Rang: 1346
 Lemma: 泊まる
 Lesung: とまる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: übernachten
-Beispielsatz: 友達の家に泊まる予定です。
-Beispielsatz-Lesung: 友達[ともだち]の 家[いえ]に 泊[と]まる 予定[よてい]です。
-Beispielsatz-Übersetzung: Ich werde bei meinem Freund zu Hause übernachten.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  友達の家に泊まる予定です。
+  友達[ともだち]の 家[いえ]に 泊[と]まる 予定[よてい]です。
+  Ich werde bei meinem Freund zu Hause übernachten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4728
 Lemma: 委員長
 Lesung: いいんちょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorsitzende/r
-Beispielsatz: 彼女は委員会の委員長に任命された。
-Beispielsatz-Lesung: 彼女[かのじょ]は 委員会[いいんかい]の 委員長[いいんちょう]に 任命[にんめい]された。
-Beispielsatz-Übersetzung: Sie wurde zur Vorsitzenden des Ausschusses ernannt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '30'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は委員会の委員長に任命された。
+  彼女[かのじょ]は 委員会[いいんかい]の 委員長[いいんちょう]に 任命[にんめい]された。
+  Sie wurde zur Vorsitzenden des Ausschusses ernannt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

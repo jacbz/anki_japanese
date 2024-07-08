@@ -1,13 +1,27 @@
 Rang: 1008
 Lemma: 明日
-Lesung: あす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Lesung: あした
+Alternativschreibweisen: ''
 Definition: morgen
-Beispielsatz: 明日は晴れるでしょう。
-Beispielsatz-Lesung: 明日[あした]は 晴[は]れるでしょう。
-Beispielsatz-Übersetzung: Es wird morgen schön sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">た</span></span></span></span>
+Register: ''
+Dispersion: '49'
 
-# Notizen können HTML enthalten.            
-Notiz: あす (sehr höflich)<br>あした (normal)
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日は晴れるでしょう。
+  明日[あした]は 晴[は]れるでしょう。
+  Es wird morgen schön sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
+Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3391
 Lemma: ゆったり
-Lesung: ゆったり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: gemütlich; ruhig; locker
-Beispielsatz: 祖父はソファーにゆったりと座っていた。
-Beispielsatz-Lesung: 祖父[そふ]はソファーにゆったりと 座[すわ]っていた。
-Beispielsatz-Übersetzung: Mein Großvater saß gemütlich auf einem Sofa.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祖父はソファーにゆったりと座っていた。
+  祖父[そふ]はソファーにゆったりと 座[すわ]っていた。
+  Mein Großvater saß gemütlich auf einem Sofa.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

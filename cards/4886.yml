@@ -1,13 +1,29 @@
 Rang: 4886
 Lemma: 遊園地
 Lesung: ゆうえんち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Freizeitpark
-Beispielsatz: 家族と一緒に遊園地に行った。
-Beispielsatz-Lesung: 家族[かぞく]と 一緒[いっしょ]に 遊園地[ゆうえんち]に 行[い]った。
-Beispielsatz-Übersetzung: Ich bin mit meiner Familie in einen Freizeitpark gegangen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">え</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ん</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家族と一緒に遊園地に行った。
+  家族[かぞく]と 一緒[いっしょ]に 遊園地[ゆうえんち]に 行[い]った。
+  Ich bin mit meiner Familie in einen Freizeitpark gegangen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

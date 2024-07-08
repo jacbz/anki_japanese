@@ -1,13 +1,27 @@
 Rang: 4955
 Lemma: 花粉
 Lesung: かふん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pollen
-Beispielsatz: 今年は花粉の量が多い。
-Beispielsatz-Lesung: 今年[ことし]は 花粉[かふん]の 量[りょう]が 多[おお]い。
-Beispielsatz-Übersetzung: Die Pollenbelastung ist in diesem Jahr hoch.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今年は花粉の量が多い。
+  今年[ことし]は 花粉[かふん]の 量[りょう]が 多[おお]い。
+  Die Pollenbelastung ist in diesem Jahr hoch.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

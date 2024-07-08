@@ -1,13 +1,27 @@
 Rang: 3496
 Lemma: 帰宅
 Lesung: きたく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: nach Hause kommen; heimkehren
 Extra: （する）
 Wortart: n. v.
-Definition: nach Hause kommen; heimkehren
-Beispielsatz: 仕事で帰宅が遅くなってしまった。
-Beispielsatz-Lesung: 仕事[しごと]で 帰宅[きたく]が 遅[おそ]くなってしまった。
-Beispielsatz-Übersetzung: Ich bin aufgrund der Arbeit spät nach Hause gekommen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  仕事で帰宅が遅くなってしまった。
+  仕事[しごと]で 帰宅[きたく]が 遅[おそ]くなってしまった。
+  Ich bin aufgrund der Arbeit spät nach Hause gekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

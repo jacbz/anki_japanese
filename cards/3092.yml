@@ -1,14 +1,27 @@
 Rang: 3092
 Lemma: 器
 Lesung: うつわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Behälter
-Beispielsatz: 余った料理を器に入れて持って帰った。
-Beispielsatz-Lesung: 余[あま]った 料理[りょうり]を 器[うつわ]に 入[い]れて 持[も]って 帰[かえ]った。
-Beispielsatz-Übersetzung: Ich habe die Reste in einen Behälter gegeben und mit nach
-  Hause genommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  余った料理を器に入れて持って帰った。
+  余[あま]った 料理[りょうり]を 器[うつわ]に 入[い]れて 持[も]って 帰[かえ]った。
+  Ich habe die Reste in einen Behälter gegeben und mit nach Hause genommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1850
 Lemma: かく
-Lesung: かく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: kratzen; paddeln; schaufeln
-Beispielsatz: かゆくてもかいてはいけない。
-Beispielsatz-Lesung: 痒[かゆ]くてもかいてはいけない。
-Beispielsatz-Übersetzung: Du darfst nicht kratzen, auch wenn es juckt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  かゆくてもかいてはいけない。
+  痒[かゆ]くてもかいてはいけない。
+  Du darfst nicht kratzen, auch wenn es juckt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 4240
 Lemma: 最低限
 Lesung: さいていげん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Minimum
-Beispielsatz: 来月の出費は最低限に抑えなければならない。
-Beispielsatz-Lesung: 来月[らいげつ]の 出費[しゅっぴ]は 最低限[さいていげん]に 抑[おさ]えなければならない。
-Beispielsatz-Übersetzung: Sie müssen Ihre Ausgaben im nächsten Monat auf ein Minimum
-  beschränken.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  来月の出費は最低限に抑えなければならない。
+  来月[らいげつ]の 出費[しゅっぴ]は 最低限[さいていげん]に 抑[おさ]えなければならない。
+  Sie müssen Ihre Ausgaben im nächsten Monat auf ein Minimum beschränken.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4026
 Lemma: 同居
 Lesung: どうきょ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Zusammenleben; zusammenleben, mit jmdm zusammenleben
 Extra: （する）
 Wortart: n. v.
-Definition: Zusammenleben; zusammenleben, mit jmdm zusammenleben
-Beispielsatz: 兄は両親と同居している。
-Beispielsatz-Lesung: 兄[あに]は 両親[りょうしん]と 同居[どうきょ]している。
-Beispielsatz-Übersetzung: Mein älterer Bruder lebt mit unseren Eltern zusammen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  兄は両親と同居している。
+  兄[あに]は 両親[りょうしん]と 同居[どうきょ]している。
+  Mein älterer Bruder lebt mit unseren Eltern zusammen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

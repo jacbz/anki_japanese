@@ -1,13 +1,24 @@
 Rang: 4512
 Lemma: デザート
-Lesung: デザート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nachspeise
-Beispielsatz: 食事の最後に素晴らしいデザートが出た。
-Beispielsatz-Lesung: 食事[しょくじ]の 最後[さいご]に 素晴[すば]らしいデザートが 出[で]た。
-Beispielsatz-Übersetzung: Eine feine Nachspeise wurde nach dem Essen serviert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  食事の最後に素晴らしいデザートが出た。
+  食事[しょくじ]の 最後[さいご]に 素晴[すば]らしいデザートが 出[で]た。
+  Eine feine Nachspeise wurde nach dem Essen serviert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

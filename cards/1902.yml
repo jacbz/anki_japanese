@@ -1,13 +1,24 @@
 Rang: 1902
 Lemma: どころ
-Lesung: どころ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nicht einmal, im Gegenteil, weit entfernt davon
-Beispielsatz: 彼はワインどころかビールも飲まない。
-Beispielsatz-Lesung: 彼[かれ]はワインどころかビールも 飲[の]まない。
-Beispielsatz-Übersetzung: Er trinkt nicht einmal Bier, geschweige denn Wein.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はワインどころかビールも飲まない。
+  彼[かれ]はワインどころかビールも 飲[の]まない。
+  Er trinkt nicht einmal Bier, geschweige denn Wein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

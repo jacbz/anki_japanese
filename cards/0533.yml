@@ -1,13 +1,24 @@
 Rang: 533
 Lemma: ちゃんと
-Lesung: ちゃんと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ordentlich, genau
-Beispielsatz: ちゃんと手を洗いましたか。
-Beispielsatz-Lesung: ちゃんと 手[て]を 洗[あら]いましたか。
-Beispielsatz-Übersetzung: Hast du deine Hände ordentlich gewaschen?
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ちゃんと手を洗いましたか。
+  ちゃんと 手[て]を 洗[あら]いましたか。
+  Hast du deine Hände ordentlich gewaschen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

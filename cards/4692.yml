@@ -1,14 +1,24 @@
 Rang: 4692
 Lemma: ふらふら
-Lesung: ふらふら
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: orientierungslos; taumeln, schwindelig sein
 Extra: （する）
 Wortart: adv. na-adj. v.
-Definition: orientierungslos; taumeln, schwindelig sein
-Beispielsatz: ふらふら散歩しているうちに道に迷ってしまった。
-Beispielsatz-Lesung: ふらふら 散歩[さんぽ]しているうちに 道[みち]に 迷[まよ]ってしまった。
-Beispielsatz-Übersetzung: Ich habe mich verlaufen, als ich orientierungslos spazieren
-  gegangen bin.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ふらふら散歩しているうちに道に迷ってしまった。
+  ふらふら 散歩[さんぽ]しているうちに 道[みち]に 迷[まよ]ってしまった。
+  Ich habe mich verlaufen, als ich orientierungslos spazieren gegangen bin.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

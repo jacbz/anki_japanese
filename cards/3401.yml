@@ -1,14 +1,28 @@
 Rang: 3401
 Lemma: 平等
 Lesung: びょうどう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: Gleichheit, Gleichberechtigung
-Beispielsatz: この会社は男女平等を推進している。
-Beispielsatz-Lesung: この 会社[かいしゃ]は 男女平等[だんじょびょうどう]を 推進[すいしん]している。
-Beispielsatz-Übersetzung: Dieses Unternehmen fördert die Gleichberechtigung von Männern
-  und Frauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">び</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">ど</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この会社は男女平等を推進している。
+  この 会社[かいしゃ]は 男女平等[だんじょびょうどう]を 推進[すいしん]している。
+  Dieses Unternehmen fördert die Gleichberechtigung von Männern und Frauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 269
 Lemma: ておく
-Lesung: ておく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwas im Voraus tun, um sich auf etwas vorzubereiten
-Beispielsatz: お客さんが来るので、部屋をきれいにしておいた。
-Beispielsatz-Lesung: お 客[きゃく]さんが 来[く]るので、 部屋[へや]をきれいにしておいた。
-Beispielsatz-Übersetzung: Ich habe das Zimmer sauber gemacht, weil ich einen Besucher
-  hatte.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お客さんが来るので、部屋をきれいにしておいた。
+  お 客[きゃく]さんが 来[く]るので、 部屋[へや]をきれいにしておいた。
+  Ich habe das Zimmer sauber gemacht, weil ich einen Besucher hatte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

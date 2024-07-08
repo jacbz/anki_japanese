@@ -1,13 +1,24 @@
 Rang: 1261
 Lemma: パン
-Lesung: パン
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Brot
-Beispielsatz: 私は時々うちでパンを焼く。
-Beispielsatz-Lesung: 私[わたし]は 時々[ときどき]うちでパンを 焼[や]く。
-Beispielsatz-Übersetzung: Ich backe manchmal Brot zu Hause.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は時々うちでパンを焼く。
+  私[わたし]は 時々[ときどき]うちでパンを 焼[や]く。
+  Ich backe manchmal Brot zu Hause.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

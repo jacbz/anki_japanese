@@ -1,13 +1,33 @@
 Rang: 1915
 Lemma: 問い合わせ
 Lesung: といあわせ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Anfrage
-Beispielsatz: お問い合わせ、ありがとうございます。
-Beispielsatz-Lesung: お 問[と]い 合[あ]わせ、ありがとうございます。
-Beispielsatz-Übersetzung: Vielen Dank für Ihre Anfrage.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">せ</span></span></span></span>
+Register: ↗Zeitungen
+Dispersion: '16'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お問い合わせ、ありがとうございます。
+  お 問[と]い 合[あ]わせ、ありがとうございます。
+  Vielen Dank für Ihre Anfrage.
+
+  問い合わせは以下のアドレスにお願いします。
+  問[と]い 合[あ]わせは 以下[いか]のアドレスにお 願[ねが]いします。
+  Anfragen sollten an folgende Adresse gerichtet werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

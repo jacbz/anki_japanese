@@ -1,13 +1,24 @@
 Rang: 2684
 Lemma: 想定
 Lesung: そうてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Annahme, Vermutung
 Extra: （する）
 Wortart: n. v.
-Definition: Annahme, Vermutung
-Beispielsatz: 私たちは成功するという想定でことをすすめます。
-Beispielsatz-Lesung: 私[わたし]たちは 成功[せいこう]するという 想定[そうてい]でことをすすめます。
-Beispielsatz-Übersetzung: Ich werde davon ausgehen, dass wir erfolgreich sein werden.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは成功するという想定でことをすすめます。
+  私[わたし]たちは 成功[せいこう]するという 想定[そうてい]でことをすすめます。
+  Ich werde davon ausgehen, dass wir erfolgreich sein werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 862
 Lemma: 光
 Lesung: ひかり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Licht
-Beispielsatz: 光が部屋に差し込んだ。
-Beispielsatz-Lesung: 光[ひかり]が 部屋[へや]に 差[さ]し 込[こ]んだ。
-Beispielsatz-Übersetzung: Das Licht drang in den Raum ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ひ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  光が部屋に差し込んだ。
+  光[ひかり]が 部屋[へや]に 差[さ]し 込[こ]んだ。
+  Das Licht drang in den Raum ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

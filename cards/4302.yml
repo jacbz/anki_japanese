@@ -1,13 +1,24 @@
 Rang: 4302
 Lemma: 侵入
 Lesung: しんにゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Invasion; einmarschieren, überfallen
 Extra: （する）
 Wortart: n. v.
-Definition: Invasion; einmarschieren, überfallen
-Beispielsatz: 泥棒が裏口から侵入した。
-Beispielsatz-Lesung: 泥棒[どろぼう]が 裏口[うらぐち]から 侵入[しんにゅう]した。
-Beispielsatz-Übersetzung: Der Dieb ist durch die Hintertür eingebrochen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  泥棒が裏口から侵入した。
+  泥棒[どろぼう]が 裏口[うらぐち]から 侵入[しんにゅう]した。
+  Der Dieb ist durch die Hintertür eingebrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

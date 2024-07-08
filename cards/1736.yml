@@ -1,14 +1,24 @@
 Rang: 1736
 Lemma: ともかく
-Lesung: ともかく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: auf jeden Fall, sowieso
-Beispielsatz: できるかどうかわからないけど、ともかくやってみます。
-Beispielsatz-Lesung: 出来[でき]るかどうか 分[わ]からないけど、ともかくやってみます。
-Beispielsatz-Übersetzung: Ich weiß nicht, ob ich es kann, aber ich werde es auf jeden
-  Fall versuchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  できるかどうかわからないけど、ともかくやってみます。
+  出来[でき]るかどうか 分[わ]からないけど、ともかくやってみます。
+  Ich weiß nicht, ob ich es kann, aber ich werde es auf jeden Fall versuchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

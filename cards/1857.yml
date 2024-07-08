@@ -1,14 +1,27 @@
 Rang: 1857
 Lemma: 受験
 Lesung: じゅけん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Prüfung
 Extra: （する）
 Wortart: n. v.
-Definition: Prüfung
-Beispielsatz: 彼女は二月に高校を受験する。
-Beispielsatz-Lesung: 彼女[かのじょ]は 二月[にがつ]に 高校[こうこう]を 受験[じゅけん]する。
-Beispielsatz-Übersetzung: Sie wird im Februar die Aufnahmeprüfung für die High School
-  ablegen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">け</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は二月に高校を受験する。
+  彼女[かのじょ]は 二月[にがつ]に 高校[こうこう]を 受験[じゅけん]する。
+  Sie wird im Februar die Aufnahmeprüfung für die High School ablegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

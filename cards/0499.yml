@@ -1,13 +1,24 @@
 Rang: 499
 Lemma: 嫌
 Lesung: いや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., na-adj.
+Alternativschreibweisen: ''
 Definition: unangenehm
-Beispielsatz: 嫌な匂いが服に染み付いた。
-Beispielsatz-Lesung: 嫌[いや]な 匂[にお]いが 服[ふく]に 染[し]み 付[つ]いた。
-Beispielsatz-Übersetzung: Ein unangenehmer Geruch ist in meine Kleidung eingedrungen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  嫌な匂いが服に染み付いた。
+  嫌[いや]な 匂[にお]いが 服[ふく]に 染[し]み 付[つ]いた。
+  Ein unangenehmer Geruch ist in meine Kleidung eingedrungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

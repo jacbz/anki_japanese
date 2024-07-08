@@ -1,13 +1,24 @@
 Rang: 3904
 Lemma: 蓄積
 Lesung: ちくせき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Speicherung, Anhäufung; speichern, anhäufen
 Extra: （する）
 Wortart: n. v.
-Definition: Speicherung, Anhäufung; speichern, anhäufen
-Beispielsatz: 知識の蓄積は大切だ。
-Beispielsatz-Lesung: 知識[ちしき]の 蓄積[ちくせき]は 大切[たいせつ]だ。
-Beispielsatz-Übersetzung: Die Anhäufung von Wissen ist wichtig.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  知識の蓄積は大切だ。
+  知識[ちしき]の 蓄積[ちくせき]は 大切[たいせつ]だ。
+  Die Anhäufung von Wissen ist wichtig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

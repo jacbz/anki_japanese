@@ -1,13 +1,24 @@
 Rang: 4547
 Lemma: 今後とも
 Lesung: こんごとも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: von nun an, in Zukunft
-Beispielsatz: 今後ともよろしくお願いします。
-Beispielsatz-Lesung: 今後[こんご]ともよろしくお 願[ねが]いします。
-Beispielsatz-Übersetzung: Wir freuen uns darauf, auch in Zukunft mit Ihnen zusammenzuarbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '42'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今後ともよろしくお願いします。
+  今後[こんご]ともよろしくお 願[ねが]いします。
+  Wir freuen uns darauf, auch in Zukunft mit Ihnen zusammenzuarbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

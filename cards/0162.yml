@@ -1,13 +1,24 @@
 Rang: 162
 Lemma: しかし
-Lesung: しかし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: aber, jedoch
-Beispielsatz: 彼はよく勉強した。しかし、試験に合格できなかった。
-Beispielsatz-Lesung: 彼[かれ]はよく 勉強[べんきょう]した。しかし、 試験[しけん]に 合格[ごうかく]できなかった。
-Beispielsatz-Übersetzung: Er hat hart gelernt, aber er konnte die Prüfung nicht bestehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はよく勉強した。しかし、試験に合格できなかった。
+  彼[かれ]はよく 勉強[べんきょう]した。しかし、 試験[しけん]に 合格[ごうかく]できなかった。
+  Er hat hart gelernt, aber er konnte die Prüfung nicht bestehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

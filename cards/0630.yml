@@ -1,13 +1,27 @@
 Rang: 630
 Lemma: 述べる
 Lesung: のべる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beschreiben
-Beispielsatz: このことについて意見を述べたいと思います。
-Beispielsatz-Lesung: このことについて 意見[いけん]を 述[の]べたいと 思[おも]います。
-Beispielsatz-Übersetzung: Ich möchte meine Beobachtungen zu diesem Thema beschreiben.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">べ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このことについて意見を述べたいと思います。
+  このことについて 意見[いけん]を 述[の]べたいと 思[おも]います。
+  Ich möchte meine Beobachtungen zu diesem Thema beschreiben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

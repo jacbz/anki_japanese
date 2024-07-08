@@ -1,13 +1,28 @@
 Rang: 2446
 Lemma: 疑う
 Lesung: うたがう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verdächtigen, bezweifeln
-Beispielsatz: 私たちは彼の発言を疑う。
-Beispielsatz-Lesung: 私[わたし]たちは 彼[かれ]の 発言[はつげん]を 疑[うたが]う。
-Beispielsatz-Übersetzung: Wir bezweifeln seine Worte.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちは彼の発言を疑う。
+  私[わたし]たちは 彼[かれ]の 発言[はつげん]を 疑[うたが]う。
+  Wir bezweifeln seine Worte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

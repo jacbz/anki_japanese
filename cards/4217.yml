@@ -1,13 +1,24 @@
 Rang: 4217
 Lemma: 答弁
 Lesung: とうべん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Antwort, Verteidigung
-Beispielsatz: 首相に替わって大臣が答弁に立った。
-Beispielsatz-Lesung: 首相[しゅしょう]に 替[か]わって 大臣[だいじん]が 答弁[とうべん]に 立[た]った。
-Beispielsatz-Übersetzung: Der Minister stand auf, um für den Premierminister zu antworten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '18'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  首相に替わって大臣が答弁に立った。
+  首相[しゅしょう]に 替[か]わって 大臣[だいじん]が 答弁[とうべん]に 立[た]った。
+  Der Minister stand auf, um für den Premierminister zu antworten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

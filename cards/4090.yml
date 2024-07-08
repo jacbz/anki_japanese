@@ -1,13 +1,24 @@
 Rang: 4090
 Lemma: グラス
-Lesung: グラス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Glas
-Beispielsatz: グラスにワインを注いだ。
-Beispielsatz-Lesung: グラスにワインを 注[そそ]いだ。
-Beispielsatz-Übersetzung: Ich habe Wein in ein Glas gegossen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  グラスにワインを注いだ。
+  グラスにワインを 注[そそ]いだ。
+  Ich habe Wein in ein Glas gegossen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

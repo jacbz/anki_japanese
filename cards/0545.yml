@@ -1,13 +1,24 @@
 Rang: 545
 Lemma: よる
-Lesung: よる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: aufgrund, zurückzuführen auf
-Beispielsatz: 事故は彼の不注意によるものだった。
-Beispielsatz-Lesung: 事故[じこ]は 彼[かれ]の 不注意[ふちゅうい]によるものだった。
-Beispielsatz-Übersetzung: Der Unfall war auf seine Unachtsamkeit zurückzuführen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  事故は彼の不注意によるものだった。
+  事故[じこ]は 彼[かれ]の 不注意[ふちゅうい]によるものだった。
+  Der Unfall war auf seine Unachtsamkeit zurückzuführen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

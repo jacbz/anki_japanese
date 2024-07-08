@@ -1,14 +1,28 @@
 Rang: 197
 Lemma: 返る
 Lesung: かえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zurückkehren (in Ursprungszustand)
-Beispielsatz: 私の本を返してくれませんか。
-Beispielsatz-Lesung: 私[わたし]の 本[ほん]を 返[かえ]してくれませんか。
-Beispielsatz-Übersetzung: Kannst du mir mein Buch zurückgeben?
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">え</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の本を返してくれませんか。
+  私[わたし]の 本[ほん]を 返[かえ]してくれませんか。
+  Kannst du mir mein Buch zurückgeben?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: Bedeutet, dass etwas an seinen ursprünglichen Ort zurückkehrt.<br><br>ハサミが机の上に返っている。<br><i>Die
   Schere liegt wieder auf dem Schreibtisch.</i>

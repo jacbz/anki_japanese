@@ -1,13 +1,24 @@
 Rang: 1831
 Lemma: 業務
 Lesung: ぎょうむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Geschäft, Arbeit
-Beispielsatz: これも私たちにとって重要な業務である。
-Beispielsatz-Lesung: これも 私[わたし]たちにとって 重要[じゅうよう]な 業務[ぎょうむ]である。
-Beispielsatz-Übersetzung: Dies ist auch ein wichtiges Geschäft für uns.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '51'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これも私たちにとって重要な業務である。
+  これも 私[わたし]たちにとって 重要[じゅうよう]な 業務[ぎょうむ]である。
+  Dies ist auch ein wichtiges Geschäft für uns.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

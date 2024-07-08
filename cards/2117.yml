@@ -1,13 +1,24 @@
 Rang: 2117
 Lemma: 余計
 Lesung: よけい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: zusätzlich, extra
-Beispielsatz: その本に余計にお金を払ってしまった。
-Beispielsatz-Lesung: その 本[ほん]に 余計[よけい]にお 金[かね]を 払[はら]ってしまった。
-Beispielsatz-Übersetzung: Ich habe mehr als genug für das Buch bezahlt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その本に余計にお金を払ってしまった。
+  その 本[ほん]に 余計[よけい]にお 金[かね]を 払[はら]ってしまった。
+  Ich habe mehr als genug für das Buch bezahlt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

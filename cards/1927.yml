@@ -1,13 +1,24 @@
 Rang: 1927
 Lemma: 筋肉
 Lesung: きんにく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Muskel
-Beispielsatz: 筋肉をつけるためにトレーニングをしている。
-Beispielsatz-Lesung: 筋肉[きんにく]をつけるためにトレーニングをしている。
-Beispielsatz-Übersetzung: Ich habe trainiert, um meine Muskeln aufzubauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  筋肉をつけるためにトレーニングをしている。
+  筋肉[きんにく]をつけるためにトレーニングをしている。
+  Ich habe trainiert, um meine Muskeln aufzubauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

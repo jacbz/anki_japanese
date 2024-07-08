@@ -1,13 +1,29 @@
 Rang: 3638
 Lemma: この間
 Lesung: このあいだ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. adv.
+Alternativschreibweisen: ''
 Definition: vor ein paar Tagen; kürzlich, in letzter Zeit
-Beispielsatz: この間までは寒かったが、今は暖かい。
-Beispielsatz-Lesung: この 間[かん]までは 寒[さむ]かったが、 今[いま]は 暖[あたた]かい。
-Beispielsatz-Übersetzung: Es war bis vor kurzem kalt, aber jetzt ist es warm.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">の</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">だ</span></span></span></span>
+Register: ↗</>Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この間までは寒かったが、今は暖かい。
+  この 間[かん]までは 寒[さむ]かったが、 今[いま]は 暖[あたた]かい。
+  Es war bis vor kurzem kalt, aber jetzt ist es warm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

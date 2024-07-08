@@ -1,13 +1,28 @@
 Rang: 3877
 Lemma: 推定
 Lesung: すいてい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: schätzen, vermuten
 Extra: （する）
 Wortart: n. v.
-Definition: schätzen, vermuten
-Beispielsatz: この村の人口はおよそ五万人と推定されている。
-Beispielsatz-Lesung: この 村[むら]の 人口[じんこう]はおよそ五 万[まん]人と 推定[すいてい]されている。
-Beispielsatz-Übersetzung: Die Bevölkerung dieses Dorfes wird auf etwa 50.000 geschätzt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この村の人口はおよそ五万人と推定されている。
+  この 村[むら]の 人口[じんこう]はおよそ五 万[まん]人と 推定[すいてい]されている。
+  Die Bevölkerung dieses Dorfes wird auf etwa 50.000 geschätzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

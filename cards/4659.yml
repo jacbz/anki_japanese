@@ -1,14 +1,26 @@
 Rang: 4659
 Lemma: 杉
 Lesung: すぎ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Japanische Zeder
-Beispielsatz: 日本では春に杉の花粉が飛びます。
-Beispielsatz-Lesung: 日本[にっぽん]では 春[はる]に 杉[すぎ]の 花粉[かふん]が 飛[と]びます。
-Beispielsatz-Übersetzung: Die Pollen der japanischen Zeder werden im Frühjahr in Japan
-  verbreitet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">す</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ぎ</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本では春に杉の花粉が飛びます。
+  日本[にっぽん]では 春[はる]に 杉[すぎ]の 花粉[かふん]が 飛[と]びます。
+  Die Pollen der japanischen Zeder werden im Frühjahr in Japan verbreitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

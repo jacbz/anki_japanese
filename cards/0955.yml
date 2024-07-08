@@ -1,13 +1,24 @@
 Rang: 955
 Lemma: 一般的
 Lesung: いっぱんてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: allgemein, üblich, gewöhnlich
-Beispielsatz: 一般的な方法だ。
-Beispielsatz-Lesung: 一般的[いっぱんてき]な 方法[ほうほう]だ。
-Beispielsatz-Übersetzung: Dies ist die allgemeine Methode.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一般的な方法だ。
+  一般的[いっぱんてき]な 方法[ほうほう]だ。
+  Dies ist die allgemeine Methode.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

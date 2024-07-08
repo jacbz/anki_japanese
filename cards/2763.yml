@@ -1,13 +1,24 @@
 Rang: 2763
 Lemma: PC
 Lesung: ピイシイ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Personalcomputer
-Beispielsatz: 自分のPCで仕事をする。
-Beispielsatz-Lesung: 自分[じぶん]のPCで 仕事[しごと]をする。
-Beispielsatz-Übersetzung: Ich arbeite mit meinem eigenen PC.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗Internet
+Dispersion: '35'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  自分のPCで仕事をする。
+  自分[じぶん]のPCで 仕事[しごと]をする。
+  Ich arbeite mit meinem eigenen PC.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

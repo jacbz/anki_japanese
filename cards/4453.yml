@@ -1,13 +1,24 @@
 Rang: 4453
 Lemma: 債務者
 Lesung: さいむしゃ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schuldner
-Beispielsatz: 支払い能力のない債務者にはお金を貸さない。
-Beispielsatz-Lesung: 支払[しはら]い 能力[のうりょく]のない 債務者[さいむしゃ]にはお 金[かね]を 貸[か]さない。
-Beispielsatz-Übersetzung: Einem zahlungsunfähigen Schuldner werden wir kein Geld leihen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  支払い能力のない債務者にはお金を貸さない。
+  支払[しはら]い 能力[のうりょく]のない 債務者[さいむしゃ]にはお 金[かね]を 貸[か]さない。
+  Einem zahlungsunfähigen Schuldner werden wir kein Geld leihen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

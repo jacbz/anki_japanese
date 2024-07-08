@@ -1,13 +1,28 @@
 Rang: 3524
 Lemma: 暴力
 Lesung: ぼうりょく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Gewalt
-Beispielsatz: 彼は酒に酔って暴力を振るい、警察に捕まった。
-Beispielsatz-Lesung: 彼[かれ]は 酒[さけ]に 酔[よ]って 暴力[ぼうりょく]を 振[ふ]るい、 警察[けいさつ]に 捕[つか]まった。
-Beispielsatz-Übersetzung: Er war betrunken und wurde wegen Gewalttätigkeit verhaftet.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">ぼ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">り</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は酒に酔って暴力を振るい、警察に捕まった。
+  彼[かれ]は 酒[さけ]に 酔[よ]って 暴力[ぼうりょく]を 振[ふ]るい、 警察[けいさつ]に 捕[つか]まった。
+  Er war betrunken und wurde wegen Gewalttätigkeit verhaftet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

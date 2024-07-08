@@ -1,13 +1,24 @@
 Rang: 4170
 Lemma: アレンジ
-Lesung: アレンジ
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Anordnung; anordnen
 Extra: （する）
 Wortart: n. v.
-Definition: Anordnung; anordnen
-Beispielsatz: プレゼントでアレンジされた花をもらった。
-Beispielsatz-Lesung: プレゼントでアレンジされた 花[はな]をもらった。
-Beispielsatz-Übersetzung: Ich habe einen Blumenstrauß geschenkt bekommen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  プレゼントでアレンジされた花をもらった。
+  プレゼントでアレンジされた 花[はな]をもらった。
+  Ich habe einen Blumenstrauß geschenkt bekommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

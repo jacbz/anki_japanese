@@ -1,13 +1,24 @@
 Rang: 3562
 Lemma: 取り込む
 Lesung: とりこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: hereinnehmen
-Beispielsatz: 洗濯物を取り込んだ。
-Beispielsatz-Lesung: 洗濯物[せんたくもの]を 取[と]り 込[こ]んだ。
-Beispielsatz-Übersetzung: Ich habe die Wäsche herein genommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  洗濯物を取り込んだ。
+  洗濯物[せんたくもの]を 取[と]り 込[こ]んだ。
+  Ich habe die Wäsche herein genommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

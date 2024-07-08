@@ -1,13 +1,27 @@
 Rang: 3894
 Lemma: 目安
 Lesung: めやす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Standard, Kriterium
-Beispielsatz: 何を目安に大学を選びますか。
-Beispielsatz-Lesung: 何[なに]を 目安[めやす]に 大学[だいがく]を 選[えら]びますか。
-Beispielsatz-Übersetzung: Nach welchen Kriterien wirst du die Universität auswählen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">め</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">や</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何を目安に大学を選びますか。
+  何[なに]を 目安[めやす]に 大学[だいがく]を 選[えら]びますか。
+  Nach welchen Kriterien wirst du die Universität auswählen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

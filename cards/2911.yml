@@ -1,14 +1,24 @@
 Rang: 2911
 Lemma: を通して
 Lesung: おとおして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: gemäß; durch
-Beispielsatz: 人を通して聞いたところ、彼は元気そうだ。
-Beispielsatz-Lesung: 人を 通[とお]して 聞[き]いたところ、 彼[かれ]は 元気[げんき]そうだ。
-Beispielsatz-Übersetzung: Da ich ihn nicht direkt fragen konnte, habe ich durch einen
-  Freund erfahren, wie es ihm geht.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人を通して聞いたところ、彼は元気そうだ。
+  人を 通[とお]して 聞[き]いたところ、 彼[かれ]は 元気[げんき]そうだ。
+  Da ich ihn nicht direkt fragen konnte, habe ich durch einen Freund erfahren, wie es ihm geht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

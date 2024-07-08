@@ -1,13 +1,27 @@
 Rang: 3375
 Lemma: 利点
 Lesung: りてん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorteil
-Beispielsatz: この方法には利点がいくつかある。
-Beispielsatz-Lesung: この 方法[ほうほう]には 利点[りてん]がいくつかある。
-Beispielsatz-Übersetzung: Es gibt mehrere Vorteile bei dieser Methode.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この方法には利点がいくつかある。
+  この 方法[ほうほう]には 利点[りてん]がいくつかある。
+  Es gibt mehrere Vorteile bei dieser Methode.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

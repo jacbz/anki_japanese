@@ -1,13 +1,24 @@
 Rang: 4119
 Lemma: 最適
 Lesung: さいてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: am besten, optimal
-Beispielsatz: 彼女はこの会社に最適な人だ。
-Beispielsatz-Lesung: 彼女[かのじょ]はこの 会社[かいしゃ]に 最適[さいてき]な人だ。
-Beispielsatz-Übersetzung: Sie ist die beste Person für dieses Unternehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はこの会社に最適な人だ。
+  彼女[かのじょ]はこの 会社[かいしゃ]に 最適[さいてき]な人だ。
+  Sie ist die beste Person für dieses Unternehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

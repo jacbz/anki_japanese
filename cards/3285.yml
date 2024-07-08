@@ -1,13 +1,27 @@
 Rang: 3285
 Lemma: 呼吸
 Lesung: こきゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: atmen
 Extra: （する）
 Wortart: n. v.
-Definition: atmen
-Beispielsatz: うまく呼吸ができなくて、苦しい。
-Beispielsatz-Lesung: うまく 呼吸[こきゅう]ができなくて、 苦[くる]しい。
-Beispielsatz-Übersetzung: Ich kann nicht gut atmen und es tut weh.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  うまく呼吸ができなくて、苦しい。
+  うまく 呼吸[こきゅう]ができなくて、 苦[くる]しい。
+  Ich kann nicht gut atmen und es tut weh.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

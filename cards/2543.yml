@@ -1,13 +1,24 @@
 Rang: 2543
 Lemma: どっち
-Lesung: どっち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: welcher
-Beispielsatz: どっちの航空券が安いですか？
-Beispielsatz-Lesung: どっちの 航空券[こうくうけん]が 安[やす]いですか？
-Beispielsatz-Übersetzung: Welches Flugticket ist günstiger?
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  どっちの航空券が安いですか？
+  どっちの 航空券[こうくうけん]が 安[やす]いですか？
+  Welches Flugticket ist günstiger?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

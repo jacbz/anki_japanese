@@ -1,14 +1,26 @@
 Rang: 1578
 Lemma: 経る
 Lesung: へる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: durchlaufen, erleben
-Beispielsatz: 彼女はつらい体験を経て精神的に強くなった。
-Beispielsatz-Lesung: 彼女[かのじょ]はつらい 体験[たいけん]を 経[へ]て 精神的[せいしんてき]に 強[つよ]くなった。
-Beispielsatz-Übersetzung: Sie wurde nach dem Durchlaufen von Schwierigkeiten mental
-  stark.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">へ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はつらい体験を経て精神的に強くなった。
+  彼女[かのじょ]はつらい 体験[たいけん]を 経[へ]て 精神的[せいしんてき]に 強[つよ]くなった。
+  Sie wurde nach dem Durchlaufen von Schwierigkeiten mental stark.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

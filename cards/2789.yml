@@ -1,13 +1,31 @@
 Rang: 2789
 Lemma: 電話番号
 Lesung: でんわばんごう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Telefonnummer
-Beispielsatz: 電話番号を教えてくれませんか。
-Beispielsatz-Lesung: 電話番号[でんわばんごう]を 教[おし]えてくれませんか。
-Beispielsatz-Übersetzung: Könnten Sie mir Ihre Telefonnummer sagen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-7"><span class="inner"><span
+  class="char">で</span></span></span><span class="accent_plain mola_-6"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_top mola_-4"><span class="inner"><span
+  class="char">ば</span></span></span><span class="mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ご</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  電話番号を教えてくれませんか。
+  電話番号[でんわばんごう]を 教[おし]えてくれませんか。
+  Könnten Sie mir Ihre Telefonnummer sagen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

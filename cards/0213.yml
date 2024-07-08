@@ -1,13 +1,24 @@
 Rang: 213
 Lemma: 大きな
 Lesung: おおきな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Alternativschreibweisen: ''
 Definition: groß, großartig
-Beispielsatz: 大きな家に住みたい。
-Beispielsatz-Lesung: 大[おお]きな 家[いえ]に 住[す]みたい。
-Beispielsatz-Übersetzung: Ich möchte in einem großen Haus wohnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大きな家に住みたい。
+  大[おお]きな 家[いえ]に 住[す]みたい。
+  Ich möchte in einem großen Haus wohnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

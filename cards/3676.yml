@@ -1,13 +1,24 @@
 Rang: 3676
 Lemma: シリーズ
-Lesung: シリーズ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Serie
-Beispielsatz: このドラマシリーズは十年以上続いている。
-Beispielsatz-Lesung: このドラマシリーズは十 年[ねん] 以上[いじょう] 続[つづ]いている。
-Beispielsatz-Übersetzung: Diese Dramaserie wird bereits seit über zehn Jahren ausgestrahlt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このドラマシリーズは十年以上続いている。
+  このドラマシリーズは十 年[ねん] 以上[いじょう] 続[つづ]いている。
+  Diese Dramaserie wird bereits seit über zehn Jahren ausgestrahlt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

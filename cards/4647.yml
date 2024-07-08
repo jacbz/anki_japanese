@@ -1,13 +1,27 @@
 Rang: 4647
 Lemma: 用途
 Lesung: ようと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Verwendungszweck
-Beispielsatz: この道具は色々な用途がある。
-Beispielsatz-Lesung: この 道具[どうぐ]は 色々[いろいろ]な 用途[ようと]がある。
-Beispielsatz-Übersetzung: Dieses Werkzeug hat viele Verwendungszwecke.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">よ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">う</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">と</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この道具は色々な用途がある。
+  この 道具[どうぐ]は 色々[いろいろ]な 用途[ようと]がある。
+  Dieses Werkzeug hat viele Verwendungszwecke.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

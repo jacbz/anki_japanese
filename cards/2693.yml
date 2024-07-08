@@ -1,13 +1,24 @@
 Rang: 2693
 Lemma: ほっとする
 Lesung: hottosuru
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: erleichtert sein
-Beispielsatz: 彼の姿を見てほっとした。
-Beispielsatz-Lesung: 彼[かれ]の 姿[すがた]を 見[み]てほっとした。
-Beispielsatz-Übersetzung: Ich war erleichtert, als ich ihn sah.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の姿を見てほっとした。
+  彼[かれ]の 姿[すがた]を 見[み]てほっとした。
+  Ich war erleichtert, als ich ihn sah.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

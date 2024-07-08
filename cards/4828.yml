@@ -1,13 +1,24 @@
 Rang: 4828
 Lemma: 挫折
 Lesung: ざせつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Scheitern; fehlschlagen
 Extra: （する）
 Wortart: n. v.
-Definition: Scheitern; fehlschlagen
-Beispielsatz: 彼は何度も挫折したが諦めなかった。
-Beispielsatz-Lesung: 彼[かれ]は 何度[なんど]も 挫折[ざせつ]したが 諦[あきら]めなかった。
-Beispielsatz-Übersetzung: Er musste viele Rückschläge hinnehmen, hat aber nie aufgegeben.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は何度も挫折したが諦めなかった。
+  彼[かれ]は 何度[なんど]も 挫折[ざせつ]したが 諦[あきら]めなかった。
+  Er musste viele Rückschläge hinnehmen, hat aber nie aufgegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

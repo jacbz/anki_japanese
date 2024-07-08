@@ -1,13 +1,24 @@
 Rang: 346
 Lemma: または
-Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: またわ
+Alternativschreibweisen: ''
 Definition: oder
-Beispielsatz: これに塩またはしょうゆを付けて食べてください。
-Beispielsatz-Lesung: これに 塩[しお]またはしょうゆを 付[つ]けて 食[た]べてください。
-Beispielsatz-Übersetzung: Bitte essen Sie dies mit etwas Salz oder Sojasauce dazu.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これに塩またはしょうゆを付けて食べてください。
+  これに 塩[しお]またはしょうゆを 付[つ]けて 食[た]べてください。
+  Bitte essen Sie dies mit etwas Salz oder Sojasauce dazu.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

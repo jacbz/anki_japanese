@@ -1,13 +1,27 @@
 Rang: 2526
 Lemma: 夢中
 Lesung: むちゅう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n., na-adj.
+Alternativschreibweisen: ''
 Definition: verrückt nach, besessen von
-Beispielsatz: 彼は今日本のアニメに夢中だ。
-Beispielsatz-Lesung: 彼[かれ]は 今[こん] 日本[にっぽん]のアニメに 夢中[むちゅう]だ。
-Beispielsatz-Übersetzung: Jetzt ist er verrückt nach japanischer Animation.
+Extra: '' # Nur bei suru-Verben
+Wortart: n., na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">む</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は今日本のアニメに夢中だ。
+  彼[かれ]は 今[こん] 日本[にっぽん]のアニメに 夢中[むちゅう]だ。
+  Jetzt ist er verrückt nach japanischer Animation.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

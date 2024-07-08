@@ -1,13 +1,24 @@
 Rang: 3193
 Lemma: 一冊
 Lesung: いっさつ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: ein (Buch)
-Beispielsatz: 週に一冊本を読む。
-Beispielsatz-Lesung: 週[しゅう]に一 冊[さつ] 本[ほん]を 読[よ]む。
-Beispielsatz-Übersetzung: Ich lese eine Buch pro Woche.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  週に一冊本を読む。
+  週[しゅう]に一 冊[さつ] 本[ほん]を 読[よ]む。
+  Ich lese eine Buch pro Woche.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

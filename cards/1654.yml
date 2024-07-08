@@ -1,13 +1,27 @@
 Rang: 1654
 Lemma: 場面
 Lesung: ばめん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Szene, Anblick
-Beispielsatz: 私はこの映画のこの場面が好きだ。
-Beispielsatz-Lesung: 私[わたし]はこの 映画[えいが]のこの 場面[ばめん]が 好[す]きだ。
-Beispielsatz-Übersetzung: Ich mag diese Szene in dem Film.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ば</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">め</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はこの映画のこの場面が好きだ。
+  私[わたし]はこの 映画[えいが]のこの 場面[ばめん]が 好[す]きだ。
+  Ich mag diese Szene in dem Film.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

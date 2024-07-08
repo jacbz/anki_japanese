@@ -1,14 +1,27 @@
 Rang: 2768
 Lemma: おまけ
-Lesung: おまけ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Zusatzleistung, Gratiszugabe
-Beispielsatz: お菓子のおまけを集める。
-Beispielsatz-Lesung: お 菓子[かし]のおまけを 集[あつ]める。
-Beispielsatz-Übersetzung: Ich sammle Gratiszugaben, die in Schachteln von Süßigkeiten
-  enthalten sind.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">お</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">け</span></span></span></span>
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お菓子のおまけを集める。
+  お 菓子[かし]のおまけを 集[あつ]める。
+  Ich sammle Gratiszugaben, die in Schachteln von Süßigkeiten enthalten sind.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 3005
 Lemma: 玉
 Lesung: たま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kugel; Münze
-Beispielsatz: 子供達が小さい玉を転がして遊んでいる。
-Beispielsatz-Lesung: 子供達[こどもたち]が 小[ちい]さい 玉[たま]を 転[ころ]がして 遊[あそ]んでいる。
-Beispielsatz-Übersetzung: Kinder spielen und rollen kleine Kugeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供達が小さい玉を転がして遊んでいる。
+  子供達[こどもたち]が 小[ちい]さい 玉[たま]を 転[ころ]がして 遊[あそ]んでいる。
+  Kinder spielen und rollen kleine Kugeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

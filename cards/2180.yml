@@ -1,13 +1,24 @@
 Rang: 2180
 Lemma: 生き方
 Lesung: いきかた
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Lebensstil
-Beispielsatz: いろいろな生き方がある。
-Beispielsatz-Lesung: いろいろな 生[い]き 方[かた]がある。
-Beispielsatz-Übersetzung: Es gibt viele Lebensstile.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いろいろな生き方がある。
+  いろいろな 生[い]き 方[かた]がある。
+  Es gibt viele Lebensstile.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

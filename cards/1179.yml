@@ -1,13 +1,24 @@
 Rang: 1179
 Lemma: ものの
-Lesung: ものの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: aber, obwohl, trotz
-Beispielsatz: 試合には勝ったものの彼は満足していなかった。
-Beispielsatz-Lesung: 試合[しあい]には 勝[か]ったものの 彼[かれ]は 満足[まんぞく]していなかった。
-Beispielsatz-Übersetzung: Aber obwohl er das Spiel gewonnen hat, war er nicht zufrieden.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  試合には勝ったものの彼は満足していなかった。
+  試合[しあい]には 勝[か]ったものの 彼[かれ]は 満足[まんぞく]していなかった。
+  Aber obwohl er das Spiel gewonnen hat, war er nicht zufrieden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

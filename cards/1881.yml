@@ -1,13 +1,24 @@
 Rang: 1881
 Lemma: あり得る
 Lesung: ありえる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: möglich sein, wahrscheinlich sein
-Beispielsatz: 何だってあり得るよ。
-Beispielsatz-Lesung: 何[なん]だってあり 得[え]るよ。
-Beispielsatz-Übersetzung: Alles ist möglich.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何だってあり得るよ。
+  何[なん]だってあり 得[え]るよ。
+  Alles ist möglich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

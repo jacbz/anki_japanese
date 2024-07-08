@@ -1,13 +1,24 @@
 Rang: 4682
 Lemma: ～さん
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: suffix
+Alternativschreibweisen: ''
 Definition: Herr/Frau/Fräulein
-Beispielsatz: 田中さんをご紹介します。
-Beispielsatz-Lesung: 田中[たなか]さんをご 紹介[しょうかい]します。
-Beispielsatz-Übersetzung: Darf ich Ihnen Mr. Tanaka vorstellen?
+Extra: '' # Nur bei suru-Verben
+Wortart: suffix
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  田中さんをご紹介します。
+  田中[たなか]さんをご 紹介[しょうかい]します。
+  Darf ich Ihnen Mr. Tanaka vorstellen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4628
 Lemma: 吉祥寺
 Lesung: きちじょうじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kichijoji (Ortsname)
-Beispielsatz: 吉祥寺には大きな池がある公園がある。
-Beispielsatz-Lesung: 吉祥寺[きちじょうじ]には 大[おお]きな 池[いけ]がある 公園[こうえん]がある。
-Beispielsatz-Übersetzung: In Kichijoji gibt es einen Park mit einem großen Teich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  吉祥寺には大きな池がある公園がある。
+  吉祥寺[きちじょうじ]には 大[おお]きな 池[いけ]がある 公園[こうえん]がある。
+  In Kichijoji gibt es einen Park mit einem großen Teich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

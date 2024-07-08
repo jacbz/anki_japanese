@@ -1,13 +1,26 @@
 Rang: 913
 Lemma: 位置
 Lesung: いち
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Position, Standort; sich befinden
 Extra: （する）
 Wortart: n. v.
-Definition: Position, Standort; sich befinden
-Beispielsatz: GPSで車両の位置を特定する。
-Beispielsatz-Lesung: GPSで 車両[しゃりょう]の 位置[いち]を 特定[とくてい]する。
-Beispielsatz-Übersetzung: GPS identifiziert den Standort von Fahrzeugen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ち</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  GPSで車両の位置を特定する。
+  GPSで 車両[しゃりょう]の 位置[いち]を 特定[とくてい]する。
+  GPS identifiziert den Standort von Fahrzeugen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

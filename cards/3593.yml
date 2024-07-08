@@ -1,13 +1,24 @@
 Rang: 3593
 Lemma: ばれる
-Lesung: ばれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: herauskommen, entdeckt werden
-Beispielsatz: 浮気はすぐにばれる。
-Beispielsatz-Lesung: 浮気[うわき]はすぐにばれる。
-Beispielsatz-Übersetzung: Deine Affäre wird bald herauskommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '73'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  浮気はすぐにばれる。
+  浮気[うわき]はすぐにばれる。
+  Deine Affäre wird bald herauskommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

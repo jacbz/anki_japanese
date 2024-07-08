@@ -1,14 +1,24 @@
 Rang: 3015
 Lemma: 地方公共団体
 Lesung: ちほうこうきょうだんたい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: lokale öffentliche Körperschaft
-Beispielsatz: 国から地方公共団体へ補助金が交付される。
-Beispielsatz-Lesung: 国[くに]から 地方公共団体[ちほうこうきょうだんたい]へ 補助金[ほじょきん]が 交付[こうふ]される。
-Beispielsatz-Übersetzung: Der Staat gewährt der lokalen öffentlichen Einrichtung einen
-  Zuschuss.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Verwaltungssprache
+Dispersion: '31'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国から地方公共団体へ補助金が交付される。
+  国[くに]から 地方公共団体[ちほうこうきょうだんたい]へ 補助金[ほじょきん]が 交付[こうふ]される。
+  Der Staat gewährt der lokalen öffentlichen Einrichtung einen Zuschuss.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

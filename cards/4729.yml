@@ -1,13 +1,24 @@
 Rang: 4729
 Lemma: 槍
 Lesung: やり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Speer
-Beispielsatz: 槍を使ってイノシシを狩った。
-Beispielsatz-Lesung: 槍[やり]を 使[つか]ってイノシシを 狩[か]った。
-Beispielsatz-Übersetzung: Ich habe mit Speeren Wildschweine gejagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  槍を使ってイノシシを狩った。
+  槍[やり]を 使[つか]ってイノシシを 狩[か]った。
+  Ich habe mit Speeren Wildschweine gejagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

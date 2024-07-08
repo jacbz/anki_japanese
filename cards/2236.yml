@@ -1,13 +1,27 @@
 Rang: 2236
 Lemma: 区別
 Lesung: くべつ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Unterscheidung
 Extra: （する）
 Wortart: n. v.
-Definition: Unterscheidung
-Beispielsatz: この偽物は本物と区別がつかない。
-Beispielsatz-Lesung: この 偽物[にせもの]は 本物[ほんもの]と 区別[くべつ]がつかない。
-Beispielsatz-Übersetzung: Ich kann diese Fälschung nicht vom Original unterscheiden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">く</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">べ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">つ</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この偽物は本物と区別がつかない。
+  この 偽物[にせもの]は 本物[ほんもの]と 区別[くべつ]がつかない。
+  Ich kann diese Fälschung nicht vom Original unterscheiden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

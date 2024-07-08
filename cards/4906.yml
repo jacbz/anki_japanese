@@ -1,13 +1,24 @@
 Rang: 4906
 Lemma: 既存
 Lesung: きぞん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: vorhanden
-Beispielsatz: 既存の枠組みを見直すべきだ。
-Beispielsatz-Lesung: 既存[きそん]の 枠組[わくぐ]みを 見直[みなお]すべきだ。
-Beispielsatz-Übersetzung: Das vorhandene Rahmenwerk sollte überprüft werden.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  既存の枠組みを見直すべきだ。
+  既存[きそん]の 枠組[わくぐ]みを 見直[みなお]すべきだ。
+  Das vorhandene Rahmenwerk sollte überprüft werden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

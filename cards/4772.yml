@@ -1,13 +1,26 @@
 Rang: 4772
 Lemma: 軸
 Lesung: じく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Achse; Welle; Stiel
-Beispielsatz: 地球は軸を中心に回転します。
-Beispielsatz-Lesung: 地球[ちきゅう]は 軸[じく]を 中心[ちゅうしん]に 回転[かいてん]します。
-Beispielsatz-Übersetzung: Die Erde dreht sich um ihre Achse.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地球は軸を中心に回転します。
+  地球[ちきゅう]は 軸[じく]を 中心[ちゅうしん]に 回転[かいてん]します。
+  Die Erde dreht sich um ihre Achse.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

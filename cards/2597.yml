@@ -1,13 +1,28 @@
 Rang: 2597
 Lemma: 入学
 Lesung: にゅうがく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Einschreibung, Zulassung
 Extra: （する）
 Wortart: n. v.
-Definition: Einschreibung, Zulassung
-Beispielsatz: おいが小学校へ入学する。
-Beispielsatz-Lesung: おいが 小学校[しょうがっこう]へ 入学[にゅうがく]する。
-Beispielsatz-Übersetzung: Mein Neffe wird die Grundschule betreten.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">に</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">が</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  おいが小学校へ入学する。
+  おいが 小学校[しょうがっこう]へ 入学[にゅうがく]する。
+  Mein Neffe wird die Grundschule betreten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

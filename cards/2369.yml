@@ -1,13 +1,27 @@
 Rang: 2369
 Lemma: 寄せる
 Lesung: よせる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: näher bringen; setzen; abhängig sein von
-Beispielsatz: 彼女はあの人に大きな信頼を寄せている。
-Beispielsatz-Lesung: 彼女[かのじょ]はあの 人[ひと]に 大[おお]きな 信頼[しんらい]を 寄[よ]せている。
-Beispielsatz-Übersetzung: Sie setzt ihm gegenüber ein großes Vertrauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">せ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女はあの人に大きな信頼を寄せている。
+  彼女[かのじょ]はあの 人[ひと]に 大[おお]きな 信頼[しんらい]を 寄[よ]せている。
+  Sie setzt ihm gegenüber ein großes Vertrauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 2875
 Lemma: 前回
 Lesung: ぜんかい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: letztes Mal, vorheriges Mal
-Beispielsatz: 前回は会議は9時から始まった。
-Beispielsatz-Lesung: 前回[ぜんかい]は 会議[かいぎ]は 9時[くじ]から 始[はじ]まった。
-Beispielsatz-Übersetzung: Das Treffen begann letztes Mal um neun Uhr.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">ぜ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  前回は会議は9時から始まった。
+  前回[ぜんかい]は 会議[かいぎ]は 9時[くじ]から 始[はじ]まった。
+  Das Treffen begann letztes Mal um neun Uhr.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

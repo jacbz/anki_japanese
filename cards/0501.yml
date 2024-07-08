@@ -1,14 +1,24 @@
 Rang: 501
 Lemma: いや
-Lesung: いや
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: interj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nein, nun ja
-Beispielsatz: 「私のせいだというんですか」「いや、そういうことではないんです」
-Beispielsatz-Lesung: 「 私[わたし]のせいだというんですか」「いや、そういうことではないんです」
-Beispielsatz-Übersetzung: „Sagst du, dass das meine Schuld ist?“ „Nein, das meine
-  ich nicht.“
+Extra: '' # Nur bei suru-Verben
+Wortart: interj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  「私のせいだというんですか」「いや、そういうことではないんです」
+  「 私[わたし]のせいだというんですか」「いや、そういうことではないんです」
+  „Sagst du, dass das meine Schuld ist?“ „Nein, das meine ich nicht.“
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: bei Überraschung und Gefühlsbewegung

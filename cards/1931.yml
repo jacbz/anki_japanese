@@ -1,13 +1,27 @@
 Rang: 1931
 Lemma: 異常
 Lesung: いじょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. n.
+Alternativschreibweisen: ''
 Definition: abnormal adj ungewöhnlich
-Beispielsatz: 機械に異常が見つかった。
-Beispielsatz-Lesung: 機械[きかい]に 異常[いじょう]が 見[み]つかった。
-Beispielsatz-Übersetzung: Es wurde etwas an der Maschine gefunden.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">じ</span><span class="char">ょ</span></span></span><span
+  class="mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  機械に異常が見つかった。
+  機械[きかい]に 異常[いじょう]が 見[み]つかった。
+  Es wurde etwas an der Maschine gefunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

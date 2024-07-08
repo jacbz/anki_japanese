@@ -1,13 +1,32 @@
 Rang: 9
 Lemma: と
-Lesung: と
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
-Definition: und; oder; mit; wenn
-Beispielsatz: 彼とレストランへ行った。
-Beispielsatz-Lesung: 彼[かれ]とレストランへ 行[い]った。
-Beispielsatz-Übersetzung: Ich ging mit meinem Freund in ein Restaurant.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: und; oder; mit; wenn; nun, ähm (Abkürzung von "eeto")
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case, interj.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼とレストランへ行った。
+  彼[かれ]とレストランへ 行[い]った。
+  Ich ging mit meinem Freund in ein Restaurant.
+
+  お酒を飲みすぎると、眠くなってしまう。
+  お 酒[さけ]を 飲[の]みすぎると、 眠[ねむ]くなってしまう。
+  Wenn ich zu viel trinke, werde ich schläfrig.
+
+  と，まあ，そんな感じです。
+  と，まあ，そんな 感[かん]じです。
+  Ähm, na ja, so etwas in der Art.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

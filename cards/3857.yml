@@ -1,14 +1,24 @@
 Rang: 3857
 Lemma: なじむ
-Lesung: なじむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sich eingewöhnen
-Beispielsatz: 新しい職場に早くなじむよう、努力する。
-Beispielsatz-Lesung: 新[あたら]しい 職場[しょくば]に 早[はや]くなじむよう、 努力[どりょく]する。
-Beispielsatz-Übersetzung: Ich werde mein Bestes tun, um mich so schnell wie möglich
-  an den neuen Arbeitsplatz anzupassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新しい職場に早くなじむよう、努力する。
+  新[あたら]しい 職場[しょくば]に 早[はや]くなじむよう、 努力[どりょく]する。
+  Ich werde mein Bestes tun, um mich so schnell wie möglich an den neuen Arbeitsplatz anzupassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

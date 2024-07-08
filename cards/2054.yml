@@ -1,13 +1,24 @@
 Rang: 2054
 Lemma: 発揮
 Lesung: はっき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Entfaltung; zeigen
 Extra: （する）
 Wortart: n. v.
-Definition: Entfaltung; zeigen
-Beispielsatz: 彼が実力を発揮できるといいんですが。
-Beispielsatz-Lesung: 彼[かれ]が 実力[じつりょく]を 発揮[はっき]できるといいんですが。
-Beispielsatz-Übersetzung: Ich hoffe, er kann seine wahre Fähigkeit zeigen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼が実力を発揮できるといいんですが。
+  彼[かれ]が 実力[じつりょく]を 発揮[はっき]できるといいんですが。
+  Ich hoffe, er kann seine wahre Fähigkeit zeigen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2761
 Lemma: フランス語
 Lesung: フランスご
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Französisch
-Beispielsatz: 大学でフランス語を勉強する。
-Beispielsatz-Lesung: 大学[だいがく]でフランス 語[ご]を 勉強[べんきょう]する。
-Beispielsatz-Übersetzung: Ich studiere Französisch an der Universität.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大学でフランス語を勉強する。
+  大学[だいがく]でフランス 語[ご]を 勉強[べんきょう]する。
+  Ich studiere Französisch an der Universität.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

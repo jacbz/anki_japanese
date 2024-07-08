@@ -1,14 +1,24 @@
 Rang: 4861
 Lemma: 十八歳
 Lesung: じゅうはっさい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: achtzehn Jahre alt
-Beispielsatz: 十八歳未満は入れません。
-Beispielsatz-Lesung: 十八 歳[さい] 未満[みまん]は 入[い]れません。
-Beispielsatz-Übersetzung: Du darfst nicht eintreten, wenn du unter achtzehn Jahre
-  alt bist.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  十八歳未満は入れません。
+  十八 歳[さい] 未満[みまん]は 入[い]れません。
+  Du darfst nicht eintreten, wenn du unter achtzehn Jahre alt bist.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

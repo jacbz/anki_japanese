@@ -1,13 +1,24 @@
 Rang: 2716
 Lemma: チケット
-Lesung: チケット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Ticket
-Beispielsatz: コンサートのチケットを買う。
-Beispielsatz-Lesung: コンサートのチケットを 買[か]う。
-Beispielsatz-Übersetzung: Ich werde eine Karte für das Konzert kaufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  コンサートのチケットを買う。
+  コンサートのチケットを 買[か]う。
+  Ich werde eine Karte für das Konzert kaufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

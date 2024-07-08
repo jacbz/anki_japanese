@@ -1,13 +1,24 @@
 Rang: 1337
 Lemma: ことにする
-Lesung: ことにする
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: sich entscheiden, beschließen
-Beispielsatz: 家を買うことにした。
-Beispielsatz-Lesung: 家[いえ]を 買[か]うことにした。
-Beispielsatz-Übersetzung: Ich habe beschlossen, ein Haus zu kaufen.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  家を買うことにした。
+  家[いえ]を 買[か]うことにした。
+  Ich habe beschlossen, ein Haus zu kaufen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

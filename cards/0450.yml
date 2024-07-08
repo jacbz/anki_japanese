@@ -1,13 +1,24 @@
 Rang: 450
 Lemma: こそ
-Lesung: こそ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: BETONT
-Beispielsatz: 今年こそ試験に合格したい。
-Beispielsatz-Lesung: 今年[ことし]こそ 試験[しけん]に 合格[ごうかく]したい。
-Beispielsatz-Übersetzung: Ich möchte dieses Jahr unbedingt die Prüfung bestehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  今年こそ試験に合格したい。
+  今年[ことし]こそ 試験[しけん]に 合格[ごうかく]したい。
+  Ich möchte dieses Jahr unbedingt die Prüfung bestehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

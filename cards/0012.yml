@@ -1,13 +1,28 @@
 Rang: 12
 Lemma: で
-Lesung: で
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. case
-Definition: in, bei, von, durch
-Beispielsatz: 東京駅で彼女に会った。
-Beispielsatz-Lesung: 東京[とうきょう] 駅[えき]で 彼女[かのじょ]に 会[あ]った。
-Beispielsatz-Übersetzung: Ich habe sie am Bahnhof Tokio getroffen.
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: in, bei, von, durch; also, dann
+Extra: '' # Nur bei suru-Verben
+Wortart: p. case, conj.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '100'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  東京駅で彼女に会った。
+  東京[とうきょう] 駅[えき]で 彼女[かのじょ]に 会[あ]った。
+  Ich habe sie am Bahnhof Tokio getroffen.
+
+  で、あの話はどうなりましたか？
+  で、あの 話[はなし]はどうなりましたか？
+  Also, was ist mit der Geschichte passiert, über die du gesprochen hast?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

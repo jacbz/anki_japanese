@@ -1,13 +1,24 @@
 Rang: 3417
 Lemma: 押し付ける
 Lesung: おしつける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: drücken, aufzwingen
-Beispielsatz: 彼はたばこを灰皿に押し付けた。
-Beispielsatz-Lesung: 彼[かれ]はたばこを 灰皿[はいざら]に 押[お]し 付[つ]けた。
-Beispielsatz-Übersetzung: Er drückte die Zigarette im Aschenbecher aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はたばこを灰皿に押し付けた。
+  彼[かれ]はたばこを 灰皿[はいざら]に 押[お]し 付[つ]けた。
+  Er drückte die Zigarette im Aschenbecher aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

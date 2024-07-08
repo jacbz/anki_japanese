@@ -1,13 +1,24 @@
 Rang: 4494
 Lemma: 指揮
 Lesung: しき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: leiten, führen
 Extra: （する）
 Wortart: n. v.
-Definition: leiten, führen
-Beispielsatz: 彼は巨大プロジェクトを指揮した。
-Beispielsatz-Lesung: 彼[かれ]は 巨大[きょだい]プロジェクトを 指揮[しき]した。
-Beispielsatz-Übersetzung: Er hat ein riesiges Projekt geleitet.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は巨大プロジェクトを指揮した。
+  彼[かれ]は 巨大[きょだい]プロジェクトを 指揮[しき]した。
+  Er hat ein riesiges Projekt geleitet.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

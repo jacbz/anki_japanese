@@ -1,14 +1,28 @@
 Rang: 2873
 Lemma: 出現
 Lesung: しゅつげん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Erscheinen, Morgendämmerung, Geburt, Ankunft; erscheinen
 Extra: （する）
 Wortart: n. v.
-Definition: Erscheinen, Morgendämmerung, Geburt, Ankunft; erscheinen
-Beispielsatz: インターネットの出現によって、社会は変わった。
-Beispielsatz-Lesung: インターネットの 出現[しゅつげん]によって、 社会[しゃかい]は 変[か]わった。
-Beispielsatz-Übersetzung: Mit dem Aufkommen des Internets hat sich unsere Gesellschaft
-  verändert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">つ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">げ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  インターネットの出現によって、社会は変わった。
+  インターネットの 出現[しゅつげん]によって、 社会[しゃかい]は 変[か]わった。
+  Mit dem Aufkommen des Internets hat sich unsere Gesellschaft verändert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2971
 Lemma: ねばならない
-Lesung: ねばならない
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: müssen, müssen tun
-Beispielsatz: これだけは言わねばならない。
-Beispielsatz-Lesung: これだけは 言[い]わねばならない。
-Beispielsatz-Übersetzung: Ich muss nur dies sagen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '67'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これだけは言わねばならない。
+  これだけは 言[い]わねばならない。
+  Ich muss nur dies sagen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

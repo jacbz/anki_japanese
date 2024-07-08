@@ -1,13 +1,24 @@
 Rang: 4040
 Lemma: 厚生省
 Lesung: こうせいしょう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Ministerium für Wohlfahrt
-Beispielsatz: 厚生省は在宅ケアを推進した。
-Beispielsatz-Lesung: 厚生省[こうせいしょう]は 在宅[ざいたく]ケアを 推進[すいしん]した。
-Beispielsatz-Übersetzung: Das Ministerium für Wohlfahrt hat die häusliche Pflege gefördert.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '42'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  厚生省は在宅ケアを推進した。
+  厚生省[こうせいしょう]は 在宅[ざいたく]ケアを 推進[すいしん]した。
+  Das Ministerium für Wohlfahrt hat die häusliche Pflege gefördert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

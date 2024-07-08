@@ -1,13 +1,28 @@
 Rang: 3358
 Lemma: 見学
 Lesung: けんがく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Exkursion
 Extra: （する）
 Wortart: n. v.
-Definition: Exkursion
-Beispielsatz: 来週自動車工場の見学に行く。
-Beispielsatz-Lesung: 来週[らいしゅう] 自動車[じどうしゃ] 工場[こうじょう]の 見学[けんがく]に 行[い]く。
-Beispielsatz-Übersetzung: Wir machen nächste Woche eine Exkursion zur Autowerkstatt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  来週自動車工場の見学に行く。
+  来週[らいしゅう] 自動車[じどうしゃ] 工場[こうじょう]の 見学[けんがく]に 行[い]く。
+  Wir machen nächste Woche eine Exkursion zur Autowerkstatt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

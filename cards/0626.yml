@@ -1,13 +1,24 @@
 Rang: 626
 Lemma: 大丈夫
 Lesung: だいじょうぶ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: sicher, in Ordnung
-Beispielsatz: 大丈夫ですか。
-Beispielsatz-Lesung: 大丈夫[だいじょうぶ]ですか。
-Beispielsatz-Übersetzung: Geht es Ihnen gut?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大丈夫ですか。
+  大丈夫[だいじょうぶ]ですか。
+  Geht es Ihnen gut?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

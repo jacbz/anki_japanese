@@ -1,13 +1,28 @@
 Rang: 2604
 Lemma: 改革
 Lesung: かいかく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Reform
 Extra: （する）
 Wortart: n. v.
-Definition: Reform
-Beispielsatz: 国民は行政改革を願っている。
-Beispielsatz-Lesung: 国民[こくみん]は 行政改革[ぎょうせいかいかく]を 願[ねが]っている。
-Beispielsatz-Übersetzung: Die Menschen in unserem Land wünschen sich Verwaltungsreformen.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  国民は行政改革を願っている。
+  国民[こくみん]は 行政改革[ぎょうせいかいかく]を 願[ねが]っている。
+  Die Menschen in unserem Land wünschen sich Verwaltungsreformen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

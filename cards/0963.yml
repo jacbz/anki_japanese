@@ -1,13 +1,24 @@
 Rang: 963
 Lemma: もしくは
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Alternativschreibweisen: ''
 Definition: oder, andernfalls
-Beispielsatz: 注文はメール、もしくはファックスで送ってください。
-Beispielsatz-Lesung: 注文[ちゅうもん]はメール、もしくはファックスで 送[おく]ってください。
-Beispielsatz-Übersetzung: Bitte senden Sie Ihre Bestellung per E-Mail oder Fax.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  注文はメール、もしくはファックスで送ってください。
+  注文[ちゅうもん]はメール、もしくはファックスで 送[おく]ってください。
+  Bitte senden Sie Ihre Bestellung per E-Mail oder Fax.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

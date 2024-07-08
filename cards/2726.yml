@@ -1,13 +1,27 @@
 Rang: 2726
 Lemma: 予測
 Lesung: よそく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Prognose; vorhersagen, schätzen
 Extra: （する）
 Wortart: n. v.
-Definition: Prognose; vorhersagen, schätzen
-Beispielsatz: 予測を誤ってしまった。
-Beispielsatz-Lesung: 予測[よそく]を 誤[あやま]ってしまった。
-Beispielsatz-Übersetzung: Wir haben uns in unserer Schätzung geirrt.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  予測を誤ってしまった。
+  予測[よそく]を 誤[あやま]ってしまった。
+  Wir haben uns in unserer Schätzung geirrt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

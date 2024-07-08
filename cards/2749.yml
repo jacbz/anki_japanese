@@ -1,13 +1,24 @@
 Rang: 2749
 Lemma: 滞在
 Lesung: たいざい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: bleiben, besuchen; bleiben, besuchen, anhalten
 Extra: （する）
 Wortart: n. v.
-Definition: bleiben, besuchen; bleiben, besuchen, anhalten
-Beispielsatz: イギリス滞在中に彼に会った。
-Beispielsatz-Lesung: イギリス 滞在中[たいざいちゅう]に 彼[かれ]に 会[あ]った。
-Beispielsatz-Übersetzung: Ich traf ihn während meines Aufenthalts in England.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  イギリス滞在中に彼に会った。
+  イギリス 滞在中[たいざいちゅう]に 彼[かれ]に 会[あ]った。
+  Ich traf ihn während meines Aufenthalts in England.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

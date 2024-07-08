@@ -1,13 +1,24 @@
 Rang: 4439
 Lemma: 工具
 Lesung: こうぐ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Werkzeug
-Beispielsatz: 工具は安全なところに保管してください。
-Beispielsatz-Lesung: 工具[こうぐ]は 安全[あんぜん]なところに 保管[ほかん]してください。
-Beispielsatz-Übersetzung: Bitte bewahren Sie Werkzeuge an einem sicheren Ort auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  工具は安全なところに保管してください。
+  工具[こうぐ]は 安全[あんぜん]なところに 保管[ほかん]してください。
+  Bitte bewahren Sie Werkzeuge an einem sicheren Ort auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

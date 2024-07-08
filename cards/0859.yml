@@ -1,13 +1,26 @@
 Rang: 859
 Lemma: 成す
 Lesung: なす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: bilden, darstellen
-Beispielsatz: 彼らは会社の中核を成している。
-Beispielsatz-Lesung: 彼[かれ]らは 会社[かいしゃ]の 中核[ちゅうかく]を 成[な]している。
-Beispielsatz-Übersetzung: Sie bilden das Herzstück des Unternehmens.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">な</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼らは会社の中核を成している。
+  彼[かれ]らは 会社[かいしゃ]の 中核[ちゅうかく]を 成[な]している。
+  Sie bilden das Herzstück des Unternehmens.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

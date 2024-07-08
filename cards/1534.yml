@@ -1,13 +1,24 @@
 Rang: 1534
 Lemma: 仲良く
 Lesung: なかよく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: freundlich
-Beispielsatz: 彼女は誰とでもすぐに仲良くなる。
-Beispielsatz-Lesung: 彼女[かのじょ]は 誰[だれ]とでもすぐに 仲良[なかよ]くなる。
-Beispielsatz-Übersetzung: Sie baut sofort freundliche Beziehungen zu jedem auf.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は誰とでもすぐに仲良くなる。
+  彼女[かのじょ]は 誰[だれ]とでもすぐに 仲良[なかよ]くなる。
+  Sie baut sofort freundliche Beziehungen zu jedem auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

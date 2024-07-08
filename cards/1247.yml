@@ -1,13 +1,24 @@
 Rang: 1247
 Lemma: 一時
 Lesung: いちじ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: zu einem Zeitpunkt, vorübergehend, für eine Weile
-Beispielsatz: 彼は一時インドに帰国するつもりだ。
-Beispielsatz-Lesung: 彼[かれ]は 一時[いちじ]インドに 帰国[きこく]するつもりだ。
-Beispielsatz-Übersetzung: Er wird für eine Weile nach Indien zurückkehren.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: ''
+Register: ↗Zeitungen
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は一時インドに帰国するつもりだ。
+  彼[かれ]は 一時[いちじ]インドに 帰国[きこく]するつもりだ。
+  Er wird für eine Weile nach Indien zurückkehren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

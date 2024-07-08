@@ -1,13 +1,27 @@
 Rang: 4110
 Lemma: 訳す
 Lesung: やくす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: übersetzen
-Beispielsatz: 英語を日本語に訳した。
-Beispielsatz-Lesung: 英語[えいご]を 日本語[にほんご]に 訳[やく]した。
-Beispielsatz-Übersetzung: Ich habe Englisch ins Japanische übersetzt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">や</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  英語を日本語に訳した。
+  英語[えいご]を 日本語[にほんご]に 訳[やく]した。
+  Ich habe Englisch ins Japanische übersetzt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

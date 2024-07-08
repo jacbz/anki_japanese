@@ -1,13 +1,29 @@
 Rang: 2848
 Lemma: 取り戻す
 Lesung: とりもどす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zurückholen, zurückerobern
-Beispielsatz: 彼はやっと自信を取り戻した。
-Beispielsatz-Lesung: 彼[かれ]はやっと 自信[じしん]を 取[と]り 戻[もど]した。
-Beispielsatz-Übersetzung: Er hat endlich sein Selbstvertrauen zurückgewonnen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">り</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">も</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ど</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はやっと自信を取り戻した。
+  彼[かれ]はやっと 自信[じしん]を 取[と]り 戻[もど]した。
+  Er hat endlich sein Selbstvertrauen zurückgewonnen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

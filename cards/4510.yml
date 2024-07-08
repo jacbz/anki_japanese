@@ -1,13 +1,24 @@
 Rang: 4510
 Lemma: 二千円
 Lesung: にせんえん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zweitausend Yen
-Beispielsatz: 私は友人に二千円貸した。
-Beispielsatz-Lesung: 私[わたし]は 友人[ゆうじん]に二 千[せん] 円[えん] 貸[か]した。
-Beispielsatz-Übersetzung: Ich habe meinem Freund zweitausend Yen geliehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '54'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私は友人に二千円貸した。
+  私[わたし]は 友人[ゆうじん]に二 千[せん] 円[えん] 貸[か]した。
+  Ich habe meinem Freund zweitausend Yen geliehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4016
 Lemma: ニコニコ
 Lesung: にこにこ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: lächeln; lächelnd
 Extra: （する）
 Wortart: v. adv.
-Definition: lächeln; lächelnd
-Beispielsatz: その赤ちゃんはいつもニコニコしている。
-Beispielsatz-Lesung: その 赤[あか]ちゃんはいつもニコニコしている。
-Beispielsatz-Übersetzung: Das Baby lächelt immer.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その赤ちゃんはいつもニコニコしている。
+  その 赤[あか]ちゃんはいつもニコニコしている。
+  Das Baby lächelt immer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

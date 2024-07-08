@@ -1,13 +1,24 @@
 Rang: 3731
 Lemma: 書き込む
 Lesung: かきこむ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: eintragen, notieren
-Beispielsatz: カレンダーに予定を書き込んでおく。
-Beispielsatz-Lesung: カレンダーに 予定[よてい]を 書[か]き 込[こ]んでおく。
-Beispielsatz-Übersetzung: Ich werde den Zeitplan im Kalender notieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  カレンダーに予定を書き込んでおく。
+  カレンダーに 予定[よてい]を 書[か]き 込[こ]んでおく。
+  Ich werde den Zeitplan im Kalender notieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 2645
 Lemma: としたら
-Lesung: としたら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: falls dem so ist
-Beispielsatz: 明日死ぬとしたら、何がしたいですか。
-Beispielsatz-Lesung: 明日[あした] 死[し]ぬとしたら、 何[なに]がしたいですか。
-Beispielsatz-Übersetzung: Falls du morgen sterben würdest, was würdest du gerne tun?
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '71'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日死ぬとしたら、何がしたいですか。
+  明日[あした] 死[し]ぬとしたら、 何[なに]がしたいですか。
+  Falls du morgen sterben würdest, was würdest du gerne tun?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

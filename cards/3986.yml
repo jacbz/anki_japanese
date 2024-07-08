@@ -1,13 +1,24 @@
 Rang: 3986
 Lemma: イライラ
 Lesung: いらいら
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: genervt sein, gereizt sein, ungeduldig sein
 Extra: （する）
 Wortart: v.
-Definition: genervt sein, gereizt sein, ungeduldig sein
-Beispielsatz: 隣の部屋の騒音はイライラする。
-Beispielsatz-Lesung: 隣[となり]の 部屋[へや]の 騒音[そうおん]はイライラする。
-Beispielsatz-Übersetzung: Der Lärm meines Nachbarn nebenan ist nervig.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  隣の部屋の騒音はイライラする。
+  隣[となり]の 部屋[へや]の 騒音[そうおん]はイライラする。
+  Der Lärm meines Nachbarn nebenan ist nervig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

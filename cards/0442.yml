@@ -1,13 +1,26 @@
 Rang: 442
 Lemma: 口
 Lesung: くち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mund
-Beispielsatz: 大きく口を開けてください。
-Beispielsatz-Lesung: 大[おお]きく 口[くち]を 開[あ]けてください。
-Beispielsatz-Übersetzung: Bitte öffne deinen Mund weit.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">く</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ち</span></span></span></span>
+Register: ↗Bücher
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大きく口を開けてください。
+  大[おお]きく 口[くち]を 開[あ]けてください。
+  Bitte öffne deinen Mund weit.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

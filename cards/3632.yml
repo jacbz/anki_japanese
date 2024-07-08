@@ -1,14 +1,24 @@
 Rang: 3632
 Lemma: 一時的
 Lesung: いちじてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: vorübergehend
-Beispielsatz: この薬を飲めば一時的に症状は緩和する。
-Beispielsatz-Lesung: この 薬[くすり]を 飲[の]めば 一時[いちじ] 的[てき]に 症状[しょうじょう]は 緩和[かんわ]する。
-Beispielsatz-Übersetzung: Wenn Sie dieses Medikament einnehmen, werden die Symptome
-  vorübergehend gelindert.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この薬を飲めば一時的に症状は緩和する。
+  この 薬[くすり]を 飲[の]めば 一時[いちじ] 的[てき]に 症状[しょうじょう]は 緩和[かんわ]する。
+  Wenn Sie dieses Medikament einnehmen, werden die Symptome vorübergehend gelindert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

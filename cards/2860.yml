@@ -1,13 +1,27 @@
 Rang: 2860
 Lemma: 死亡
 Lesung: しぼう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Tod, Versterben; sterben
 Extra: （する）
 Wortart: n. v.
-Definition: Tod, Versterben; sterben
-Beispielsatz: 彼はバスの事故で死亡した。
-Beispielsatz-Lesung: 彼[かれ]はバスの 事故[じこ]で 死亡[しぼう]した。
-Beispielsatz-Übersetzung: Er ist bei einem Busunfall gestorben.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はバスの事故で死亡した。
+  彼[かれ]はバスの 事故[じこ]で 死亡[しぼう]した。
+  Er ist bei einem Busunfall gestorben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

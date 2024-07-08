@@ -1,13 +1,24 @@
 Rang: 3626
 Lemma: 否
 Lesung: いな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: nein
-Beispielsatz: 実現が可能か否かを検討する。
-Beispielsatz-Lesung: 実現[じつげん]が 可能[かのう]か 否[いな]かを 検討[けんとう]する。
-Beispielsatz-Übersetzung: Wir werden erörtern, ob das machbar ist oder nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  実現が可能か否かを検討する。
+  実現[じつげん]が 可能[かのう]か 否[いな]かを 検討[けんとう]する。
+  Wir werden erörtern, ob das machbar ist oder nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

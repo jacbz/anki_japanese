@@ -1,13 +1,24 @@
 Rang: 2979
 Lemma: ポケット
-Lesung: ポケット
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Tasche
-Beispielsatz: 彼はポケットから何か取り出した。
-Beispielsatz-Lesung: 彼[かれ]はポケットから 何[なに]か 取[と]り 出[だ]した。
-Beispielsatz-Übersetzung: Er hat etwas aus seiner Tasche genommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はポケットから何か取り出した。
+  彼[かれ]はポケットから 何[なに]か 取[と]り 出[だ]した。
+  Er hat etwas aus seiner Tasche genommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

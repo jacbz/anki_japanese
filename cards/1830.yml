@@ -1,13 +1,24 @@
 Rang: 1830
 Lemma: 提案
 Lesung: ていあん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Vorschlag
 Extra: （する）
 Wortart: n. v.
-Definition: Vorschlag
-Beispielsatz: 彼の提案には賛成できません。
-Beispielsatz-Lesung: 彼[かれ]の 提案[ていあん]には 賛成[さんせい]できません。
-Beispielsatz-Übersetzung: Ich kann seinem Vorschlag nicht zustimmen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の提案には賛成できません。
+  彼[かれ]の 提案[ていあん]には 賛成[さんせい]できません。
+  Ich kann seinem Vorschlag nicht zustimmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

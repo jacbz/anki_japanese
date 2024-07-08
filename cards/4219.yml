@@ -1,13 +1,24 @@
 Rang: 4219
 Lemma: おかしな
-Lesung: おかしな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: lustig, lächerlich
-Beispielsatz: 彼はおかしな格好をしていたのでからかった。
-Beispielsatz-Lesung: 彼[かれ]はおかしな 格好[かっこう]をしていたのでからかった。
-Beispielsatz-Übersetzung: Ich habe ihn geneckt, weil er lustige Kleidung trug.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はおかしな格好をしていたのでからかった。
+  彼[かれ]はおかしな 格好[かっこう]をしていたのでからかった。
+  Ich habe ihn geneckt, weil er lustige Kleidung trug.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

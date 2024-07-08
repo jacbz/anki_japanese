@@ -1,13 +1,28 @@
 Rang: 4009
 Lemma: 通用
 Lesung: つうよう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: gültig sein, akzeptiert werden
 Extra: （する）
 Wortart: n. v.
-Definition: gültig sein, akzeptiert werden
-Beispielsatz: この店ではクレジットカードしか通用しない。
-Beispielsatz-Lesung: この 店[みせ]ではクレジットカードしか 通用[つうよう]しない。
-Beispielsatz-Übersetzung: In diesem Geschäft werden nur Kreditkarten akzeptiert.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この店ではクレジットカードしか通用しない。
+  この 店[みせ]ではクレジットカードしか 通用[つうよう]しない。
+  In diesem Geschäft werden nur Kreditkarten akzeptiert.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

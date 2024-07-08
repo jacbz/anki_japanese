@@ -1,13 +1,24 @@
 Rang: 4259
 Lemma: 麺
 Lesung: めん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Nudeln
-Beispielsatz: 麺は一分だけゆでてください。
-Beispielsatz-Lesung: 麺[めん]は一 分[ふん]だけゆでてください。
-Beispielsatz-Übersetzung: Bitte die Nudeln nur eine Minute lang kochen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  麺は一分だけゆでてください。
+  麺[めん]は一 分[ふん]だけゆでてください。
+  Bitte die Nudeln nur eine Minute lang kochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

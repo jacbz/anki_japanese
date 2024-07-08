@@ -1,13 +1,30 @@
 Rang: 2310
 Lemma: あちらこちら
-Lesung: あちらこちら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: hier und da
-Beispielsatz: いなくなった愛犬を、あちらこちら探し回った。
-Beispielsatz-Lesung: いなくなった 愛犬[あいけん]を、あちらこちら 探[さが]し 回[まわ]った。
-Beispielsatz-Übersetzung: Ich habe überall nach meinem vermissten Hund gesucht.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-5"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_top mola_-3"><span class="inner"><span
+  class="char">こ</span></span></span><span class="mola_-2"><span class="inner"><span
+  class="char">ち</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '47'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  いなくなった愛犬を、あちらこちら探し回った。
+  いなくなった 愛犬[あいけん]を、あちらこちら 探[さが]し 回[まわ]った。
+  Ich habe überall nach meinem vermissten Hund gesucht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

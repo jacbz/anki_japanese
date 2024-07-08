@@ -1,13 +1,27 @@
 Rang: 953
 Lemma: 負ける
 Lesung: まける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: verlieren, geschlagen werden
-Beispielsatz: 私たちのチームは試合に負けた。
-Beispielsatz-Lesung: 私[わたし]たちのチームは 試合[しあい]に 負[ま]けた。
-Beispielsatz-Übersetzung: Unser Team hat das Spiel verloren.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私たちのチームは試合に負けた。
+  私[わたし]たちのチームは 試合[しあい]に 負[ま]けた。
+  Unser Team hat das Spiel verloren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

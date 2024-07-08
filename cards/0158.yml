@@ -1,13 +1,30 @@
 Rang: 158
 Lemma: 彼
 Lesung: かれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
+Alternativschreibweisen: ''
+Definition: er; Freund
+Extra: '' # Nur bei suru-Verben
 Wortart: pron.
-Definition: er
-Beispielsatz: 彼は私の兄です。
-Beispielsatz-Lesung: 彼[かれ]は 私[わたし]の 兄[あに]です。
-Beispielsatz-Übersetzung: Er ist mein älterer Bruder.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">れ</span></span></span></span>
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は私の兄です。
+  彼[かれ]は 私[わたし]の 兄[あに]です。
+  Er ist mein älterer Bruder.
+
+  彼は三十歳だ。
+  彼[かれ]は三十 歳[さい]だ。
+  Er ist dreißig Jahre alt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

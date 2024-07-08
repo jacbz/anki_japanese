@@ -1,13 +1,24 @@
 Rang: 857
 Lemma: したがって
-Lesung: したがって
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: folglich, demzufolge
-Beispielsatz: これは労働ビザではありません。したがって、働くことはできません。
-Beispielsatz-Lesung: これは 労働[ろうどう]ビザではありません。したがって、 働[はたら]くことはできません。
-Beispielsatz-Übersetzung: Dies ist kein Arbeitsvisum, folglich können Sie nicht arbeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  これは労働ビザではありません。したがって、働くことはできません。
+  これは 労働[ろうどう]ビザではありません。したがって、 働[はたら]くことはできません。
+  Dies ist kein Arbeitsvisum, folglich können Sie nicht arbeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

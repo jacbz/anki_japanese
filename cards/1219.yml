@@ -1,13 +1,24 @@
 Rang: 1219
 Lemma: トイレ
-Lesung: トイレ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Toilette, Badezimmer
-Beispielsatz: トイレはどちらでしょうか。
-Beispielsatz-Lesung: トイレはどちらでしょうか。
-Beispielsatz-Übersetzung: Könnten Sie mir sagen, wo das Badezimmer ist?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  トイレはどちらでしょうか。
+  トイレはどちらでしょうか。
+  Könnten Sie mir sagen, wo das Badezimmer ist?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

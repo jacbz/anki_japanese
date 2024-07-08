@@ -1,13 +1,24 @@
 Rang: 4266
 Lemma: 不自由
 Lesung: ふじゆう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Unannehmlichkeit; Behinderung
-Beispielsatz: 水が不足すると不自由します。
-Beispielsatz-Lesung: 水[みず]が 不足[ふそく]すると 不自由[ふじゆう]します。
-Beispielsatz-Übersetzung: Wassermangel verursacht Unannehmlichkeiten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  水が不足すると不自由します。
+  水[みず]が 不足[ふそく]すると 不自由[ふじゆう]します。
+  Wassermangel verursacht Unannehmlichkeiten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

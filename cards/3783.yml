@@ -1,13 +1,24 @@
 Rang: 3783
 Lemma: じゃが芋
 Lesung: ジャガイモ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Kartoffel
-Beispielsatz: じゃが芋の皮をむいてください。
-Beispielsatz-Lesung: じゃが 芋[いも]の 皮[かわ]をむいてください。
-Beispielsatz-Übersetzung: Bitte schälen Sie die Kartoffeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  じゃが芋の皮をむいてください。
+  じゃが 芋[いも]の 皮[かわ]をむいてください。
+  Bitte schälen Sie die Kartoffeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

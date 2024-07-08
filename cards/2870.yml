@@ -1,14 +1,28 @@
 Rang: 2870
 Lemma: 香港
 Lesung: ほんこん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hongkong
-Beispielsatz: 香港へ観光に行く。
-Beispielsatz-Lesung: 香港[ほんこん]へ 観光[かんこう]に 行[い]く。
-Beispielsatz-Übersetzung: Ich werde nach Hongkong reisen, um mir die Sehenswürdigkeiten
-  anzuschauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-4"><span
+  class="inner"><span class="char">ほ</span></span></span><span class="mola_-3"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  香港へ観光に行く。
+  香港[ほんこん]へ 観光[かんこう]に 行[い]く。
+  Ich werde nach Hongkong reisen, um mir die Sehenswürdigkeiten anzuschauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1182
 Lemma: データ
-Lesung: データ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Daten
-Beispielsatz: データを集めるために実験を行った。
-Beispielsatz-Lesung: データを 集[あつ]めるために 実験[じっけん]を 行[おこな]った。
-Beispielsatz-Übersetzung: Wir haben ein Experiment durchgeführt, um die Daten zu sammeln.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  データを集めるために実験を行った。
+  データを 集[あつ]めるために 実験[じっけん]を 行[おこな]った。
+  Wir haben ein Experiment durchgeführt, um die Daten zu sammeln.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

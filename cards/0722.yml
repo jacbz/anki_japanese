@@ -1,13 +1,26 @@
 Rang: 722
 Lemma: 面
 Lesung: めん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Seite, Oberfläche
-Beispielsatz: 他の人の良い面を見る。
-Beispielsatz-Lesung: 他[た]の人の 良[よ]い 面[めん]を 見[み]る。
-Beispielsatz-Übersetzung: Ich sehe die gute Seite anderer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">め</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  他の人の良い面を見る。
+  他[た]の人の 良[よ]い 面[めん]を 見[み]る。
+  Ich sehe die gute Seite anderer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

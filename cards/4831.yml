@@ -1,13 +1,24 @@
 Rang: 4831
 Lemma: 株主
 Lesung: かぶぬし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Aktionär
-Beispielsatz: 私はこの会社の株主だ。
-Beispielsatz-Lesung: 私[わたし]はこの 会社[かいしゃ]の 株主[かぶぬし]だ。
-Beispielsatz-Übersetzung: Ich bin Aktionär in diesem Unternehmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はこの会社の株主だ。
+  私[わたし]はこの 会社[かいしゃ]の 株主[かぶぬし]だ。
+  Ich bin Aktionär in diesem Unternehmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

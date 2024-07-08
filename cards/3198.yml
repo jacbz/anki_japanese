@@ -1,13 +1,24 @@
 Rang: 3198
 Lemma: 移行
 Lesung: いこう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Übergang, Wechsel
 Extra: （する）
 Wortart: n., v.
-Definition: Übergang, Wechsel
-Beispielsatz: 新システムへの移行はうまく進んでいる。
-Beispielsatz-Lesung: 新[しん]システムへの 移行[いこう]はうまく 進[すす]んでいる。
-Beispielsatz-Übersetzung: Die Umstellung auf das neue System verläuft reibungslos.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  新システムへの移行はうまく進んでいる。
+  新[しん]システムへの 移行[いこう]はうまく 進[すす]んでいる。
+  Die Umstellung auf das neue System verläuft reibungslos.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

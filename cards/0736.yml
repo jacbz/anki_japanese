@@ -1,13 +1,27 @@
 Rang: 736
 Lemma: 元気
 Lesung: げんき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n. na-adj.
+Alternativschreibweisen: ''
 Definition: gesund, lebhaft
-Beispielsatz: 元気な高齢者が増えた。
-Beispielsatz-Lesung: 元気[げんき]な 高齢者[こうれいしゃ]が 増[ふ]えた。
-Beispielsatz-Übersetzung: Die Anzahl der gesunden Senioren ist gestiegen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n. na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">げ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ん</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  元気な高齢者が増えた。
+  元気[げんき]な 高齢者[こうれいしゃ]が 増[ふ]えた。
+  Die Anzahl der gesunden Senioren ist gestiegen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

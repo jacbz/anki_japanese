@@ -1,13 +1,24 @@
 Rang: 2058
 Lemma: 解釈
 Lesung: かいしゃく
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Interpretation
 Extra: （する）
 Wortart: n. v.
-Definition: Interpretation
-Beispielsatz: この文章はいくつかの解釈が可能だ。
-Beispielsatz-Lesung: この 文章[ぶんしょう]はいくつかの 解釈[かいしゃく]が 可能[かのう]だ。
-Beispielsatz-Übersetzung: Für diesen Satz sind mehrere Interpretationen möglich.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この文章はいくつかの解釈が可能だ。
+  この 文章[ぶんしょう]はいくつかの 解釈[かいしゃく]が 可能[かのう]だ。
+  Für diesen Satz sind mehrere Interpretationen möglich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

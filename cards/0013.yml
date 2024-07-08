@@ -1,13 +1,24 @@
 Rang: 13
-Lemma: ている<br>てる
+Lemma: ている
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: てる
 Definition: FORTSETZUNG
-Beispielsatz: 雨が降っている。
-Beispielsatz-Lesung: 雨[あめ]が 降[ふ]っている。
-Beispielsatz-Übersetzung: Es regnet in Strömen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '99'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  雨が降っている。
+  雨[あめ]が 降[ふ]っている。
+  Es regnet in Strömen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

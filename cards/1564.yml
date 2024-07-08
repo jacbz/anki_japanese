@@ -1,13 +1,24 @@
 Rang: 1564
 Lemma: 担当
 Lesung: たんとう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: verantwortlich sein für
 Extra: （する）
 Wortart: n. v.
-Definition: verantwortlich sein für
-Beispielsatz: 田中先生が私のクラスを担当している。
-Beispielsatz-Lesung: 田中[たなか] 先生[せんせい]が 私[わたし]のクラスを 担当[たんとう]している。
-Beispielsatz-Übersetzung: Frau Tanaka ist für meine Klasse verantwortlich.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  田中先生が私のクラスを担当している。
+  田中[たなか] 先生[せんせい]が 私[わたし]のクラスを 担当[たんとう]している。
+  Frau Tanaka ist für meine Klasse verantwortlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

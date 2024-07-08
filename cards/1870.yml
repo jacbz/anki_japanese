@@ -1,13 +1,24 @@
 Rang: 1870
 Lemma: チャンス
-Lesung: チャンス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Chance
-Beispielsatz: もう一度チャンスをください。
-Beispielsatz-Lesung: もう 一度[いちど]チャンスをください。
-Beispielsatz-Übersetzung: Bitte gib mir eine weitere Chance.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もう一度チャンスをください。
+  もう 一度[いちど]チャンスをください。
+  Bitte gib mir eine weitere Chance.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 421
 Lemma: つまり
-Lesung: つまり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: mit anderen Worten
-Beispielsatz: つまり何が言いたいのですか。
-Beispielsatz-Lesung: つまり 何[なに]が 言[い]いたいのですか。
-Beispielsatz-Übersetzung: Kurz gesagt, worauf wollen Sie hinaus?
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  つまり何が言いたいのですか。
+  つまり 何[なに]が 言[い]いたいのですか。
+  Kurz gesagt, worauf wollen Sie hinaus?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

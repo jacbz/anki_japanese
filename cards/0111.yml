@@ -1,13 +1,24 @@
 Rang: 111
 Lemma: てみる
-Lesung: てみる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: versuchen, es zu tun
-Beispielsatz: ちょっと味見してみますか。
-Beispielsatz-Lesung: ちょっと 味見[あじみ]してみますか。
-Beispielsatz-Übersetzung: Möchten Sie es probieren?
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ちょっと味見してみますか。
+  ちょっと 味見[あじみ]してみますか。
+  Möchten Sie es probieren?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

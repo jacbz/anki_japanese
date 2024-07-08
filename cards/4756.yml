@@ -1,13 +1,24 @@
 Rang: 4756
 Lemma: 区分
 Lesung: くぶん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Klassifikation; einteilen
 Extra: （する）
 Wortart: n. v.
-Definition: Klassifikation; einteilen
-Beispielsatz: 郵便物を地域別に区分しなければならない。
-Beispielsatz-Lesung: 郵便物[ゆうびんぶつ]を 地域[ちいき] 別[べつ]に 区分[くぶん]しなければならない。
-Beispielsatz-Übersetzung: Ich muss die Post nach Regionen trennen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '62'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  郵便物を地域別に区分しなければならない。
+  郵便物[ゆうびんぶつ]を 地域[ちいき] 別[べつ]に 区分[くぶん]しなければならない。
+  Ich muss die Post nach Regionen trennen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

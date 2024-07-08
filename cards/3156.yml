@@ -1,13 +1,24 @@
 Rang: 3156
 Lemma: 二十六日
 Lesung: にじゅうろくにち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sechsundzwanzigster (Tag); sechsundzwanzig Tage
-Beispielsatz: ミーティングは26日でいいですか？
-Beispielsatz-Lesung: ミーティングは26 日[にち]でいいですか？
-Beispielsatz-Übersetzung: Können wir am sechsundzwanzigsten eine Besprechung haben?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '47'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ミーティングは26日でいいですか？
+  ミーティングは26 日[にち]でいいですか？
+  Können wir am sechsundzwanzigsten eine Besprechung haben?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

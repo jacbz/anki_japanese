@@ -1,13 +1,26 @@
 Rang: 121
 Lemma: 風
 Lesung: ふう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: Stil, Art
-Beispielsatz: あんな風に踊れるようになりたい。
-Beispielsatz-Lesung: あんな 風[かぜ]に 踊[おど]れるようになりたい。
-Beispielsatz-Übersetzung: Ich wünschte, ich könnte so tanzen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">ふ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">う</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あんな風に踊れるようになりたい。
+  あんな 風[かぜ]に 踊[おど]れるようになりたい。
+  Ich wünschte, ich könnte so tanzen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

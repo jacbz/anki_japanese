@@ -1,13 +1,27 @@
 Rang: 3603
 Lemma: 割れる
 Lesung: われる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: zerbrechen; brechen
-Beispielsatz: 強風で窓ガラスが割れた。
-Beispielsatz-Lesung: 強風[きょうふう]で 窓[まど]ガラスが 割[わ]れた。
-Beispielsatz-Übersetzung: Das Fenster wurde von einem starken Wind zerbrochen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">わ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  強風で窓ガラスが割れた。
+  強風[きょうふう]で 窓[まど]ガラスが 割[わ]れた。
+  Das Fenster wurde von einem starken Wind zerbrochen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

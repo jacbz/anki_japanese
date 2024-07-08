@@ -1,13 +1,24 @@
 Rang: 855
 Lemma: ゆっくり
-Lesung: ゆっくり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: langsam, gemütlich; viel Zeit
-Beispielsatz: もう少しゆっくり話してください。
-Beispielsatz-Lesung: もう 少[すこ]しゆっくり 話[はな]してください。
-Beispielsatz-Übersetzung: Könnten Sie bitte etwas langsamer sprechen?
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もう少しゆっくり話してください。
+  もう 少[すこ]しゆっくり 話[はな]してください。
+  Könnten Sie bitte etwas langsamer sprechen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

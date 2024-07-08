@@ -1,14 +1,26 @@
 Rang: 3042
 Lemma: 粉
 Lesung: こな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Mehl, Pulver
-Beispielsatz: 食後にこの粉の薬を飲んでください。
-Beispielsatz-Lesung: 食後[しょくご]にこの 粉[こな]の 薬[くすり]を 飲[の]んでください。
-Beispielsatz-Übersetzung: Nehmen Sie dieses pulverisierte Medikament nach den Mahlzeiten
-  ein.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">こ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">な</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  食後にこの粉の薬を飲んでください。
+  食後[しょくご]にこの 粉[こな]の 薬[くすり]を 飲[の]んでください。
+  Nehmen Sie dieses pulverisierte Medikament nach den Mahlzeiten ein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

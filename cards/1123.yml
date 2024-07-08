@@ -1,13 +1,27 @@
 Rang: 1123
 Lemma: 涙
 Lesung: なみだ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Träne
-Beispielsatz: 彼女の目から涙が流れた。
-Beispielsatz-Lesung: 彼女[かのじょ]の 目[め]から 涙[なみだ]が 流[なが]れた。
-Beispielsatz-Übersetzung: Tränen flossen aus ihren Augen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">な</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">み</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">だ</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女の目から涙が流れた。
+  彼女[かのじょ]の 目[め]から 涙[なみだ]が 流[なが]れた。
+  Tränen flossen aus ihren Augen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

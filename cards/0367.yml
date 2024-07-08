@@ -1,13 +1,24 @@
 Rang: 367
 Lemma: それぞれ
-Lesung: それぞれ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jeder (einzelne)
-Beispielsatz: 人にはそれぞれ良い時と悪い時がある。
-Beispielsatz-Lesung: 人にはそれぞれいい 時[とき]と 悪[わる]い 時[とき]がある。
-Beispielsatz-Übersetzung: Jeder von uns hat Höhen und Tiefen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人にはそれぞれ良い時と悪い時がある。
+  人にはそれぞれいい 時[とき]と 悪[わる]い 時[とき]がある。
+  Jeder von uns hat Höhen und Tiefen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

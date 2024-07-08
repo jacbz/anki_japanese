@@ -1,14 +1,28 @@
 Rang: 2350
 Lemma: 実態
 Lesung: じったい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: tatsächliche Situation
-Beispielsatz: その機関の実態を知ったら、驚くだろう。
-Beispielsatz-Lesung: その 機関[きかん]の 実態[じったい]を 知[し]ったら、 驚[おどろ]くだろう。
-Beispielsatz-Übersetzung: Du würdest überrascht sein, wenn du die tatsächliche Situation
-  der Organisation kennen würdest.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">っ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '61'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  その機関の実態を知ったら、驚くだろう。
+  その 機関[きかん]の 実態[じったい]を 知[し]ったら、 驚[おどろ]くだろう。
+  Du würdest überrascht sein, wenn du die tatsächliche Situation der Organisation kennen würdest.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

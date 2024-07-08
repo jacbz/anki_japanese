@@ -1,13 +1,24 @@
 Rang: 3543
 Lemma: 所有
 Lesung: しょゆう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: besitzen; besitzen
 Extra: （する）
 Wortart: n. v.
-Definition: besitzen; besitzen
-Beispielsatz: 祖父はこの近くに土地を所有している。
-Beispielsatz-Lesung: 祖父[そふ]はこの 近[ちか]くに 土地[とち]を 所有[しょゆう]している。
-Beispielsatz-Übersetzung: Mein Großvater besitzt Land in der Nähe hier.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  祖父はこの近くに土地を所有している。
+  祖父[そふ]はこの 近[ちか]くに 土地[とち]を 所有[しょゆう]している。
+  Mein Großvater besitzt Land in der Nähe hier.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

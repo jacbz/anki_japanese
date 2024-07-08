@@ -1,14 +1,24 @@
 Rang: 1874
 Lemma: 要
 Lesung: よう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: kurz gesagt
-Beispielsatz: 行きたくないわけではない。要はお金の問題だ。
-Beispielsatz-Lesung: 行[い]きたくないわけではない。 要[よう]はお 金[かね]の 問題[もんだい]だ。
-Beispielsatz-Übersetzung: Das heißt nicht, dass ich nicht hingehen möchte. Kurz gesagt,
-  es ist eine Frage des Geldes.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  行きたくないわけではない。要はお金の問題だ。
+  行[い]きたくないわけではない。 要[よう]はお 金[かね]の 問題[もんだい]だ。
+  Das heißt nicht, dass ich nicht hingehen möchte. Kurz gesagt, es ist eine Frage des Geldes.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

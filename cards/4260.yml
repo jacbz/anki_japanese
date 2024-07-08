@@ -1,13 +1,24 @@
 Rang: 4260
 Lemma: 不安定
 Lesung: ふあんてい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: instabil, unsicher
-Beispielsatz: 日本の経済は不安定な状態になった。
-Beispielsatz-Lesung: 日本[にっぽん]の 経済[けいざい]は 不安定[ふあんてい]な 状態[じょうたい]になった。
-Beispielsatz-Übersetzung: Die japanische Wirtschaft wurde instabil.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  日本の経済は不安定な状態になった。
+  日本[にっぽん]の 経済[けいざい]は 不安定[ふあんてい]な 状態[じょうたい]になった。
+  Die japanische Wirtschaft wurde instabil.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

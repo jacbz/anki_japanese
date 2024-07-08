@@ -1,13 +1,27 @@
 Rang: 508
 Lemma: 地域
 Lesung: ちいき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Region, Gebiet
-Beispielsatz: 地域の住民はお互いに助け合った。
-Beispielsatz-Lesung: 地域[ちいき]の 住民[じゅうみん]はお 互[たが]いに 助[たす]け 合[あ]った。
-Beispielsatz-Übersetzung: Die Bewohner der Region haben sich gegenseitig geholfen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">ち</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">い</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  地域の住民はお互いに助け合った。
+  地域[ちいき]の 住民[じゅうみん]はお 互[たが]いに 助[たす]け 合[あ]った。
+  Die Bewohner der Region haben sich gegenseitig geholfen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

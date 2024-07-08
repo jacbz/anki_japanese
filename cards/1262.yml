@@ -1,14 +1,24 @@
 Rang: 1262
 Lemma: クラス
-Lesung: クラス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Klasse
-Beispielsatz: 調査の結果をクラスで発表する。
-Beispielsatz-Lesung: 調査[ちょうさ]の 結果[けっか]をクラスで 発表[はっぴょう]する。
-Beispielsatz-Übersetzung: Ich werde die Ergebnisse meiner Recherche vor der Klasse
-  präsentieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  調査の結果をクラスで発表する。
+  調査[ちょうさ]の 結果[けっか]をクラスで 発表[はっぴょう]する。
+  Ich werde die Ergebnisse meiner Recherche vor der Klasse präsentieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

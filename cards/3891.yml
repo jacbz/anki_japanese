@@ -1,13 +1,24 @@
 Rang: 3891
 Lemma: 徹底的
 Lesung: てっていてき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: gründlich, vollständig
-Beispielsatz: 部屋を徹底的に掃除した。
-Beispielsatz-Lesung: 部屋[へや]を 徹底的[てっていてき]に 掃除[そうじ]した。
-Beispielsatz-Übersetzung: Ich habe ein Zimmer gründlich gereinigt.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  部屋を徹底的に掃除した。
+  部屋[へや]を 徹底的[てっていてき]に 掃除[そうじ]した。
+  Ich habe ein Zimmer gründlich gereinigt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

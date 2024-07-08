@@ -1,13 +1,28 @@
 Rang: 1076
 Lemma: 提供
 Lesung: ていきょう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Angebot
 Extra: （する）
 Wortart: n. v.
-Definition: Angebot
-Beispielsatz: 我が社では新しいお客様に無料サービスを提供しています。
-Beispielsatz-Lesung: 我[わ]が 社[しゃ]では 新[あたら]しいお 客様[きゃくさま]に 無料[むりょう]サービスを 提供[ていきょう]しています。
-Beispielsatz-Übersetzung: Wir bieten einen kostenlosen Service für unsere neuen Kunden.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">て</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  我が社では新しいお客様に無料サービスを提供しています。
+  我[わ]が 社[しゃ]では 新[あたら]しいお 客様[きゃくさま]に 無料[むりょう]サービスを 提供[ていきょう]しています。
+  Wir bieten einen kostenlosen Service für unsere neuen Kunden.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

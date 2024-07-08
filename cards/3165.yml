@@ -1,13 +1,24 @@
 Rang: 3165
 Lemma: 千葉県
 Lesung: ちばけん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Präfektur Chiba
-Beispielsatz: 千葉県の出身です。
-Beispielsatz-Lesung: 千葉[ちば] 県[けん]の 出身[しゅっしん]です。
-Beispielsatz-Übersetzung: Ich komme aus der Präfektur Chiba.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  千葉県の出身です。
+  千葉[ちば] 県[けん]の 出身[しゅっしん]です。
+  Ich komme aus der Präfektur Chiba.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

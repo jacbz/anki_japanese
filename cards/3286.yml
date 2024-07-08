@@ -1,13 +1,24 @@
 Rang: 3286
 Lemma: コーナー
-Lesung: コーナー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Ecke
-Beispielsatz: 本屋の雑誌コーナーで立ち読みをする。
-Beispielsatz-Lesung: 本屋[ほんや]の 雑誌[ざっし]コーナーで 立[た]ち 読[よ]みをする。
-Beispielsatz-Übersetzung: Ich stehe lesend in der Zeitschriftenabteilung des Buchladens.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '80'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  本屋の雑誌コーナーで立ち読みをする。
+  本屋[ほんや]の 雑誌[ざっし]コーナーで 立[た]ち 読[よ]みをする。
+  Ich stehe lesend in der Zeitschriftenabteilung des Buchladens.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

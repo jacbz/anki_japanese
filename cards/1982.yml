@@ -1,13 +1,24 @@
 Rang: 1982
 Lemma: テニス
-Lesung: テニス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Tennis
-Beispielsatz: 明日一緒にテニスをしませんか。
-Beispielsatz-Lesung: 明日[あした] 一緒[いっしょ]にテニスをしませんか。
-Beispielsatz-Übersetzung: Möchtest du morgen zusammen Tennis spielen?
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '69'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  明日一緒にテニスをしませんか。
+  明日[あした] 一緒[いっしょ]にテニスをしませんか。
+  Möchtest du morgen zusammen Tennis spielen?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

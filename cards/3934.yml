@@ -1,13 +1,24 @@
 Rang: 3934
 Lemma: そっくり
-Lesung: そっくり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj. adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ähnlich, ganz genauso; insgesamt
-Beispielsatz: 彼女は母親にそっくりだ。
-Beispielsatz-Lesung: 彼女[かのじょ]は 母親[ははおや]にそっくりだ。
-Beispielsatz-Übersetzung: Sie sieht ihrer Mutter ganz ähnlich.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj. adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は母親にそっくりだ。
+  彼女[かのじょ]は 母親[ははおや]にそっくりだ。
+  Sie sieht ihrer Mutter ganz ähnlich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

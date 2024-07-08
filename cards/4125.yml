@@ -1,13 +1,26 @@
 Rang: 4125
 Lemma: 歌手
 Lesung: かしゅ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Sänger
-Beispielsatz: 彼は美しい声の歌手だ。
-Beispielsatz-Lesung: 彼[かれ]は 美[うつく]しい 声[こえ]の 歌手[かしゅ]だ。
-Beispielsatz-Übersetzung: Er ist ein Sänger mit einer schönen Stimme.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">か</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">し</span><span class="char">ゅ</span></span></span></span>
+Register: ''
+Dispersion: '86'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は美しい声の歌手だ。
+  彼[かれ]は 美[うつく]しい 声[こえ]の 歌手[かしゅ]だ。
+  Er ist ein Sänger mit einer schönen Stimme.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

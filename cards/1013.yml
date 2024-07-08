@@ -1,14 +1,24 @@
 Rang: 1013
 Lemma: やら
-Lesung: やら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: und, oder
-Beispielsatz: 掃除やら洗濯やらやることが多い。
-Beispielsatz-Lesung: 掃除[そうじ]やら 洗濯[せんたく]やらやることが 多[おお]い。
-Beispielsatz-Übersetzung: Ich habe viele Dinge zu tun, wie zum Beispiel das Haus zu
-  putzen und die Wäsche zu waschen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  掃除やら洗濯やらやることが多い。
+  掃除[そうじ]やら 洗濯[せんたく]やらやることが 多[おお]い。
+  Ich habe viele Dinge zu tun, wie zum Beispiel das Haus zu putzen und die Wäsche zu waschen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

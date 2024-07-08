@@ -1,13 +1,24 @@
 Rang: 1131
 Lemma: かつて
-Lesung: かつて
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: früher, einst, ehemals
-Beispielsatz: この町はかつてこの国の首都だった。
-Beispielsatz-Lesung: この 町[まち]はかつてこの 国[くに]の 首都[しゅと]だった。
-Beispielsatz-Übersetzung: Diese Stadt war einst die Hauptstadt des Landes.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この町はかつてこの国の首都だった。
+  この 町[まち]はかつてこの 国[くに]の 首都[しゅと]だった。
+  Diese Stadt war einst die Hauptstadt des Landes.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

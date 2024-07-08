@@ -1,13 +1,27 @@
 Rang: 2130
 Lemma: 布団
 Lesung: ふとん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: japanisches Bett
-Beispielsatz: 布団に寝るのは心地好い。
-Beispielsatz-Lesung: 布団[ふとん]に 寝[ね]るのは 心地好[ここちよ]い。
-Beispielsatz-Übersetzung: Es ist angenehm, auf einem Futon zu schlafen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ふ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '84'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  布団に寝るのは心地好い。
+  布団[ふとん]に 寝[ね]るのは 心地好[ここちよ]い。
+  Es ist angenehm, auf einem Futon zu schlafen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

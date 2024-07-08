@@ -1,13 +1,24 @@
 Rang: 241
 Lemma: ほとんど
-Lesung: ほとんど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: fast, beinahe
-Beispielsatz: ほとんどの人は彼の話を信じた。
-Beispielsatz-Lesung: ほとんどの人は 彼[かれ]の 話[はなし]を 信[しん]じた。
-Beispielsatz-Übersetzung: Fast alle Menschen glaubten seine Geschichte.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ほとんどの人は彼の話を信じた。
+  ほとんどの人は 彼[かれ]の 話[はなし]を 信[しん]じた。
+  Fast alle Menschen glaubten seine Geschichte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

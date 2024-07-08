@@ -1,13 +1,27 @@
 Rang: 750
 Lemma: 限る
 Lesung: かぎる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: beschränken, begrenzen
-Beispielsatz: 入場は100名に限られている。
-Beispielsatz-Lesung: 入場[にゅうじょう]は100 名[めい]に 限[かぎ]られている。
-Beispielsatz-Übersetzung: Der Eintritt ist auf hundert Personen beschränkt.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">ぎ</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  入場は100名に限られている。
+  入場[にゅうじょう]は100 名[めい]に 限[かぎ]られている。
+  Der Eintritt ist auf hundert Personen beschränkt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

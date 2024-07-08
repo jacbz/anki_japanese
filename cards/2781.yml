@@ -1,13 +1,24 @@
 Rang: 2781
 Lemma: ノート
-Lesung: ノート
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Notizbuch
-Beispielsatz: ノートを持ってくるように。
-Beispielsatz-Lesung: ノートを 持[も]ってくるように。
-Beispielsatz-Übersetzung: Stelle sicher, dass du ein Notizbuch mitbringst.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ノートを持ってくるように。
+  ノートを 持[も]ってくるように。
+  Stelle sicher, dass du ein Notizbuch mitbringst.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

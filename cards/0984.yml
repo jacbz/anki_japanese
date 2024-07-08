@@ -1,14 +1,27 @@
 Rang: 984
 Lemma: 占める
 Lesung: しめる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: ausmachen
-Beispielsatz: 高齢者が全人口の40パーセントを占める。
-Beispielsatz-Lesung: 高齢者[こうれいしゃ]が 全[ぜん] 人口[じんこう]の40パーセントを 占[し]める。
-Beispielsatz-Übersetzung: Ältere Menschen machen mehr als 40 Prozent der Gesamtbevölkerung
-  aus.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">め</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ↗</>Verwaltungssprache
+Dispersion: '46'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  高齢者が全人口の40パーセントを占める。
+  高齢者[こうれいしゃ]が 全[ぜん] 人口[じんこう]の40パーセントを 占[し]める。
+  Ältere Menschen machen mehr als 40 Prozent der Gesamtbevölkerung aus.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

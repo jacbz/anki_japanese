@@ -1,13 +1,24 @@
 Rang: 4495
 Lemma: 保管
 Lesung: ほかん
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Aufbewahrung, Lagerung; aufbewahren
 Extra: （する）
 Wortart: n. v.
-Definition: Aufbewahrung, Lagerung; aufbewahren
-Beispielsatz: パスポートは安全なところに保管しています。
-Beispielsatz-Lesung: パスポートは 安全[あんぜん]なところに 保管[ほかん]しています。
-Beispielsatz-Übersetzung: Ich bewahre meinen Reisepass an einem sicheren Ort auf.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  パスポートは安全なところに保管しています。
+  パスポートは 安全[あんぜん]なところに 保管[ほかん]しています。
+  Ich bewahre meinen Reisepass an einem sicheren Ort auf.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

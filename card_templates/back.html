@@ -1,0 +1,57 @@
+<meta name="referrer" content="no-referrer" />
+<div style="display: none">{{Audio}}</div>
+<audio>
+  <source src="" />
+</audio>
+{{#Rang}}
+<div class="rank" data-content="{{Rang}}">{{Rang}}<br />{{Dispersion}}</div>
+{{/Rang}}
+
+<div class="furigana">
+{{#Lesung mit Tonhöhen}}{{Lesung mit Tonhöhen}}{{/Lesung mit Tonhöhen}}
+{{^Lesung mit Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Lesung mit Tonhöhen}}
+</div>
+
+<div id="lemma" data-lemma="{{Lemma}}">
+{{Lemma}}{{#Extra}}<span id="extra">{{Extra}}</span>{{/Extra}}
+{{#Alternative}}<div id="alternative">{{Alternative}}</div>{{/Alternative}}
+</div>
+
+<div style="margin-top: 0.75em; padding-bottom: 0.35em;">
+  <span class="pos">{{POS}}</span>
+  <span class="definition">{{Definition}}</span>
+</div>
+
+{{#Register}}<span class="register">{{Register}}</span>{{/Register}}
+{{#Beispielsätze}}
+<div class="box tappable" id="sentences">
+  <div class="box_float" id="next_sentence">
+    <div class="box_float_label" id="sentence_counter"></div>
+    <div class="button svg-button">
+      <svg width="800px" height="800px" viewBox="0 0 1024 1024">
+        <path
+          d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0z" />
+      </svg>
+    </div>
+  </div>
+  <div id="sentences_inner">{{Beispielsätze}}</div>
+</div>
+{{/Beispielsätze}} {{#Notiz}}
+<div class="box tappable note">{{Notiz}}</div>
+{{/Notiz}}
+{{#Wörterbuch}}<div class="box tappable dict">{{Wörterbuch}}</div>{{/Wörterbuch}}
+<div class="github" style="margin-top: 4em;">
+  <a>Auf GitHub bearbeiten</a>
+</div>
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<script>
+  ___PERSISTENCE___;
+</script>
+<script>
+  (function () {
+    ___BACKJS___;
+  })();
+
+</script>

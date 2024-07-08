@@ -1,13 +1,24 @@
 Rang: 8
 Lemma: て
-Lesung: て
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: GRUND
-Beispielsatz: お金がなくて、海外旅行できない。
-Beispielsatz-Lesung: お 金[かね]がなくて、 海外旅行[かいがいりょこう]できない。
-Beispielsatz-Übersetzung: Ich habe kein Geld, deshalb kann ich nicht ins Ausland reisen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  お金がなくて、海外旅行できない。
+  お 金[かね]がなくて、 海外旅行[かいがいりょこう]できない。
+  Ich habe kein Geld, deshalb kann ich nicht ins Ausland reisen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3703
 Lemma: DVD
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: DVD
-Beispielsatz: DVDで映画を見た。
-Beispielsatz-Lesung: DVDで 映画[えいが]を 見[み]た。
-Beispielsatz-Übersetzung: Ich habe einen Film auf DVD gesehen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Internet
+Dispersion: '50'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  DVDで映画を見た。
+  DVDで 映画[えいが]を 見[み]た。
+  Ich habe einen Film auf DVD gesehen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

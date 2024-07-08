@@ -1,13 +1,24 @@
 Rang: 1587
 Lemma: 土
 Lesung: ど
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Samstag
-Beispielsatz: この土日は夜勤だ。
-Beispielsatz-Lesung: この 土日[どにち]は 夜勤[やきん]だ。
-Beispielsatz-Übersetzung: Ich arbeite diesen Samstag und Sonntag nachts.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Zeitungen
+Dispersion: '17'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この土日は夜勤だ。
+  この 土日[どにち]は 夜勤[やきん]だ。
+  Ich arbeite diesen Samstag und Sonntag nachts.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

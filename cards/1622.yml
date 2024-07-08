@@ -1,13 +1,26 @@
 Rang: 1622
 Lemma: 鍋
 Lesung: なべ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Topf, Pfanne; Hot-Pot
-Beispielsatz: 鍋に水を入れてください。
-Beispielsatz-Lesung: 鍋[なべ]に 水[みず]を 入[い]れてください。
-Beispielsatz-Übersetzung: Bitte Wasser in den Topf geben.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
+  class="inner"><span class="char">な</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">べ</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  鍋に水を入れてください。
+  鍋[なべ]に 水[みず]を 入[い]れてください。
+  Bitte Wasser in den Topf geben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

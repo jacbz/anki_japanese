@@ -1,13 +1,24 @@
 Rang: 3363
 Lemma: 二回目
-Lesung: にかいーめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: にかいめ
+Alternativschreibweisen: ''
 Definition: zweite Mal
-Beispielsatz: このレストランに来るのは二回目だ。
-Beispielsatz-Lesung: このレストランに 来[く]るのは二 回[かい] 目[め]だ。
-Beispielsatz-Übersetzung: Es ist das zweite Mal, dass ich in diesem Restaurant war.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  このレストランに来るのは二回目だ。
+  このレストランに 来[く]るのは二 回[かい] 目[め]だ。
+  Es ist das zweite Mal, dass ich in diesem Restaurant war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

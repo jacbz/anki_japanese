@@ -1,14 +1,24 @@
 Rang: 3518
 Lemma: マナー
-Lesung: マナー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Manieren
-Beispielsatz: 最近、マナーが悪い乗客が増えた。
-Beispielsatz-Lesung: 最近[さいきん]、マナーが 悪[わる]い 乗客[じょうきゃく]が 増[ふ]えた。
-Beispielsatz-Übersetzung: In letzter Zeit gibt es eine zunehmende Anzahl von schlecht
-  erzogenen Passagieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近、マナーが悪い乗客が増えた。
+  最近[さいきん]、マナーが 悪[わる]い 乗客[じょうきゃく]が 増[ふ]えた。
+  In letzter Zeit gibt es eine zunehmende Anzahl von schlecht erzogenen Passagieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 4952
 Lemma: 一回目
 Lesung: いっかいめ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: erster Versuch
-Beispielsatz: 一回目は失敗した。
-Beispielsatz-Lesung: 一 回[かい] 目[め]は 失敗[しっぱい]した。
-Beispielsatz-Übersetzung: Das erste Mal war ein Fehlschlag.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一回目は失敗した。
+  一 回[かい] 目[め]は 失敗[しっぱい]した。
+  Das erste Mal war ein Fehlschlag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

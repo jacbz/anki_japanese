@@ -1,13 +1,24 @@
 Rang: 239
 Lemma: による
-Lesung: による
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: aufgrund von, basierend auf
-Beispielsatz: 父の病気は過労によるものだ。
-Beispielsatz-Lesung: 父[ちち]の 病気[びょうき]は 過労[かろう]によるものだ。
-Beispielsatz-Übersetzung: Die Krankheit meines Vaters ist auf Überarbeitung zurückzuführen.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '72'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  父の病気は過労によるものだ。
+  父[ちち]の 病気[びょうき]は 過労[かろう]によるものだ。
+  Die Krankheit meines Vaters ist auf Überarbeitung zurückzuführen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

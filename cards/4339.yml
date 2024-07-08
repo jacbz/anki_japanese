@@ -1,13 +1,24 @@
 Rang: 4339
 Lemma: バナナ
-Lesung: バナナ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Banane
-Beispielsatz: 私はリンゴよりバナナが好きです。
-Beispielsatz-Lesung: 私[わたし]はリンゴよりバナナが 好[す]きです。
-Beispielsatz-Übersetzung: Ich mag Bananen lieber als Äpfel.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はリンゴよりバナナが好きです。
+  私[わたし]はリンゴよりバナナが 好[す]きです。
+  Ich mag Bananen lieber als Äpfel.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

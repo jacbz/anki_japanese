@@ -1,13 +1,24 @@
 Rang: 2347
 Lemma: 大いに
 Lesung: おおいに
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: sehr, stark
-Beispielsatz: この勉強法は大いに役に立つだろう。
-Beispielsatz-Lesung: この 勉強[べんきょう] 法[ほう]は 大[おお]いに 役[やく]に 立[た]つだろう。
-Beispielsatz-Übersetzung: Diese Lernfähigkeit wird Ihnen sehr hilfreich sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この勉強法は大いに役に立つだろう。
+  この 勉強[べんきょう] 法[ほう]は 大[おお]いに 役[やく]に 立[た]つだろう。
+  Diese Lernfähigkeit wird Ihnen sehr hilfreich sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

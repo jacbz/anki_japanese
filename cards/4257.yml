@@ -1,13 +1,29 @@
 Rang: 4257
 Lemma: 立ち止まる
 Lesung: たちどまる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: anhalten, stoppen
-Beispielsatz: 彼はたばこを吸うために立ち止まった。
-Beispielsatz-Lesung: 彼[かれ]はたばこを 吸[す]うために 立[た]ち 止[ど]まった。
-Beispielsatz-Übersetzung: Er hielt an, um zu rauchen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ど</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '76'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼はたばこを吸うために立ち止まった。
+  彼[かれ]はたばこを 吸[す]うために 立[た]ち 止[ど]まった。
+  Er hielt an, um zu rauchen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

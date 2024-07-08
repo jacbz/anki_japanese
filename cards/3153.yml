@@ -1,13 +1,24 @@
 Rang: 3153
 Lemma: 百パーセント
 Lesung: ひゃくぱあせんと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: hundert Prozent
-Beispielsatz: 果汁100パーセントのジュースを飲む。
-Beispielsatz-Lesung: 果汁[かじゅう]100パーセントのジュースを 飲[の]む。
-Beispielsatz-Übersetzung: Ich trinke 100 Prozent Fruchtsaft.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '98'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  果汁100パーセントのジュースを飲む。
+  果汁[かじゅう]100パーセントのジュースを 飲[の]む。
+  Ich trinke 100 Prozent Fruchtsaft.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 4063
 Lemma: 棚
 Lesung: たな
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Regal
-Beispielsatz: 棚の上に本がある。
-Beispielsatz-Lesung: 棚[たな]の 上[うえ]に 本[ほん]がある。
-Beispielsatz-Übersetzung: Die Bücher sind auf dem Regal.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">た</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">な</span></span></span></span>
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  棚の上に本がある。
+  棚[たな]の 上[うえ]に 本[ほん]がある。
+  Die Bücher sind auf dem Regal.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

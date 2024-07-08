@@ -1,13 +1,24 @@
 Rang: 3446
 Lemma: シャワー
-Lesung: シャワー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Dusche
-Beispielsatz: 出かける前にシャワーを浴びる。
-Beispielsatz-Lesung: 出[で]かける 前[まえ]にシャワーを 浴[あ]びる。
-Beispielsatz-Übersetzung: Bevor ich ausgehe, dusche ich.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  出かける前にシャワーを浴びる。
+  出[で]かける 前[まえ]にシャワーを 浴[あ]びる。
+  Bevor ich ausgehe, dusche ich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

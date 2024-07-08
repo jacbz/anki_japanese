@@ -1,14 +1,28 @@
 Rang: 2600
 Lemma: 促す
 Lesung: うながす
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: drängen
-Beispielsatz: 政府は次の地震について人々に注意を促した。
-Beispielsatz-Lesung: 政府[せいふ]は 次[つぎ]の 地震[じしん]について 人々[ひとびと]に 注意[ちゅうい]を 促[うなが]した。
-Beispielsatz-Übersetzung: Die Regierung drängte die Menschen auf das nächste Erdbeben
-  aufmerksam zu sein.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">な</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">す</span></span></span></span>
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  政府は次の地震について人々に注意を促した。
+  政府[せいふ]は 次[つぎ]の 地震[じしん]について 人々[ひとびと]に 注意[ちゅうい]を 促[うなが]した。
+  Die Regierung drängte die Menschen auf das nächste Erdbeben aufmerksam zu sein.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

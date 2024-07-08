@@ -1,13 +1,24 @@
 Rang: 4972
 Lemma: 民法
 Lesung: みんぽう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Zivilrecht
-Beispielsatz: 民法を学ぶ。
-Beispielsatz-Lesung: 民法[みんぽう]を 学[まな]ぶ。
-Beispielsatz-Übersetzung: Ich studiere Zivilrecht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  民法を学ぶ。
+  民法[みんぽう]を 学[まな]ぶ。
+  Ich studiere Zivilrecht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

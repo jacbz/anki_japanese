@@ -1,13 +1,26 @@
 Rang: 1265
 Lemma: 指
 Lesung: ゆび
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Finger
-Beispielsatz: 紙で指を切ってしまった。
-Beispielsatz-Lesung: 紙[かみ]で 指[ゆび]を 切[き]ってしまった。
-Beispielsatz-Übersetzung: Ich habe mir mit Papier den Finger geschnitten.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ゆ</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">び</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  紙で指を切ってしまった。
+  紙[かみ]で 指[ゆび]を 切[き]ってしまった。
+  Ich habe mir mit Papier den Finger geschnitten.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

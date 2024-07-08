@@ -1,13 +1,28 @@
 Rang: 4231
 Lemma: 観客
 Lesung: かんきゃく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Publikum
-Beispielsatz: 演奏者の登場で観客は静まり返った。
-Beispielsatz-Lesung: 演奏者[えんそうしゃ]の 登場[とうじょう]で 観客[かんきゃく]は 静[しず]まり 返[かえ]った。
-Beispielsatz-Übersetzung: Das Publikum verstummte, als der Spieler eintrat.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">ん</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">き</span><span class="char">ゃ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  演奏者の登場で観客は静まり返った。
+  演奏者[えんそうしゃ]の 登場[とうじょう]で 観客[かんきゃく]は 静[しず]まり 返[かえ]った。
+  Das Publikum verstummte, als der Spieler eintrat.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

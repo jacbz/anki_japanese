@@ -1,13 +1,24 @@
 Rang: 2455
 Lemma: メッセージ
-Lesung: メッセージ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Nachricht
-Beispielsatz: 彼の携帯にメッセージをおくった。
-Beispielsatz-Lesung: 彼[かれ]の 携帯[けいたい]にメッセージをおくった。
-Beispielsatz-Übersetzung: Ich habe eine Nachricht an sein Handy geschickt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '92'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の携帯にメッセージをおくった。
+  彼[かれ]の 携帯[けいたい]にメッセージをおくった。
+  Ich habe eine Nachricht an sein Handy geschickt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1362
 Lemma: 嫌い
 Lesung: きらい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: nicht mögen, hassen
-Beispielsatz: 何か嫌いな食べ物がありますか。
-Beispielsatz-Lesung: 何[なに]か 嫌[きら]いな 食[た]べ 物[もの]がありますか。
-Beispielsatz-Übersetzung: Gibt es irgendein Essen, das du nicht magst?
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  何か嫌いな食べ物がありますか。
+  何[なに]か 嫌[きら]いな 食[た]べ 物[もの]がありますか。
+  Gibt es irgendein Essen, das du nicht magst?
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

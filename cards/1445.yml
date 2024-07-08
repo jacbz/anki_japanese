@@ -1,13 +1,24 @@
 Rang: 1445
 Lemma: ことはない
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Alternativschreibweisen: ''
 Definition: nicht nötig sein, es besteht kein Bedarf für
-Beispielsatz: あなたが心配することはないよ。
-Beispielsatz-Lesung: あなたが 心配[しんぱい]することはないよ。
-Beispielsatz-Übersetzung: Es besteht kein Bedarf, sich Sorgen zu machen.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あなたが心配することはないよ。
+  あなたが 心配[しんぱい]することはないよ。
+  Es besteht kein Bedarf, sich Sorgen zu machen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

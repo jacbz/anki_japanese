@@ -1,13 +1,24 @@
 Rang: 2222
 Lemma: もっとも
-Lesung: もっとも
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: conj.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: obwohl, obgleich
-Beispielsatz: もっとも彼の言うことは正しいが、私は賛成できない。
-Beispielsatz-Lesung: もっとも 彼[かれ]の 言[い]うことは 正[ただ]しいが、 私[わたし]は 賛成[さんせい]できない。
-Beispielsatz-Übersetzung: Obwohl das, was er sagte, richtig ist, kann ich nicht zustimmen.
+Extra: '' # Nur bei suru-Verben
+Wortart: conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  もっとも彼の言うことは正しいが、私は賛成できない。
+  もっとも 彼[かれ]の 言[い]うことは 正[ただ]しいが、 私[わたし]は 賛成[さんせい]できない。
+  Obwohl das, was er sagte, richtig ist, kann ich nicht zustimmen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

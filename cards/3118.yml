@@ -1,14 +1,28 @@
 Rang: 3118
 Lemma: 重大
 Lesung: じゅうだい
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: ernsthaft, wichtig
-Beispielsatz: この事件は国際関係に重大な影響を及ぼす。
-Beispielsatz-Lesung: この 事件[じけん]は 国際関係[こくさいかんけい]に 重大[じゅうだい]な 影響[えいきょう]を 及[およ]ぼす。
-Beispielsatz-Übersetzung: Dieser Fall hat ernsthafte Auswirkungen auf die internationalen
-  Beziehungen.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">じ</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-3"><span class="inner"><span class="char">う</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">だ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">い</span></span></span></span>
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この事件は国際関係に重大な影響を及ぼす。
+  この 事件[じけん]は 国際関係[こくさいかんけい]に 重大[じゅうだい]な 影響[えいきょう]を 及[およ]ぼす。
+  Dieser Fall hat ernsthafte Auswirkungen auf die internationalen Beziehungen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

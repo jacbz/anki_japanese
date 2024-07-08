@@ -1,14 +1,27 @@
 Rang: 1903
 Lemma: 好み
 Lesung: このみ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vorliebe, Geschmack
-Beispielsatz: 彼の好みに合ったワインを買う。
-Beispielsatz-Lesung: 彼[かれ]の 好[この]みに 合[あ]ったワインを 買[か]う。
-Beispielsatz-Übersetzung: Ich habe eine Flasche Wein gekauft, die seinem Geschmack
-  entspricht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">こ</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">の</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">み</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の好みに合ったワインを買う。
+  彼[かれ]の 好[この]みに 合[あ]ったワインを 買[か]う。
+  Ich habe eine Flasche Wein gekauft, die seinem Geschmack entspricht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

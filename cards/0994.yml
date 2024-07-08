@@ -1,13 +1,24 @@
 Rang: 994
 Lemma: 作成
 Lesung: さくせい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: erstellen, kreieren
 Extra: （する）
 Wortart: n., v.
-Definition: erstellen, kreieren
-Beispielsatz: 最近自分のウェブサイトを作成しました。
-Beispielsatz-Lesung: 最近[さいきん] 自分[じぶん]のウェブサイトを 作成[さくせい]しました。
-Beispielsatz-Übersetzung: Ich habe kürzlich meine eigene Website erstellt.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '78'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  最近自分のウェブサイトを作成しました。
+  最近[さいきん] 自分[じぶん]のウェブサイトを 作成[さくせい]しました。
+  Ich habe kürzlich meine eigene Website erstellt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

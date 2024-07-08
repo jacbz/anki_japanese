@@ -1,13 +1,27 @@
 Rang: 466
 Lemma: 連れる
 Lesung: つれる
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: jemanden mitnehmen, begleiten
-Beispielsatz: 子供を公園へ連れて行った。
-Beispielsatz-Lesung: 子供[こども]を 公園[こうえん]へ 連[つ]れて 行[い]った。
-Beispielsatz-Übersetzung: Ich habe meine Kinder in den Park mitgenommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">れ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '82'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  子供を公園へ連れて行った。
+  子供[こども]を 公園[こうえん]へ 連[つ]れて 行[い]った。
+  Ich habe meine Kinder in den Park mitgenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,28 @@
 Rang: 3636
 Lemma: 外側
 Lesung: そとがわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Außenseite
-Beispielsatz: 窓の外側が汚れている。
-Beispielsatz-Lesung: 窓[まど]の 外側[そとがわ]が 汚[よご]れている。
-Beispielsatz-Übersetzung: Die Außenseite des Fensters ist schmutzig.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">が</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '95'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  窓の外側が汚れている。
+  窓[まど]の 外側[そとがわ]が 汚[よご]れている。
+  Die Außenseite des Fensters ist schmutzig.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,29 @@
 Rang: 4046
 Lemma: 呼びかける
 Lesung: よびかける
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: v.
+Alternativschreibweisen: ''
 Definition: aufrufen, appellieren
-Beispielsatz: 道路の向こう側から呼びかけた。
-Beispielsatz-Lesung: 道路[どうろ]の 向[む]こう 側[がわ]から 呼[よ]びかけた。
-Beispielsatz-Übersetzung: Ich rief einen Mann von der anderen Straßenseite aus an.
+Extra: '' # Nur bei suru-Verben
+Wortart: v.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-5"><span class="inner"><span
+  class="char">よ</span></span></span><span class="accent_plain mola_-4"><span class="inner"><span
+  class="char">び</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">か</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
+  class="char">け</span></span></span><span class="mola_-1"><span class="inner"><span
+  class="char">る</span></span></span></span>
+Register: ''
+Dispersion: '87'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  道路の向こう側から呼びかけた。
+  道路[どうろ]の 向[む]こう 側[がわ]から 呼[よ]びかけた。
+  Ich rief einen Mann von der anderen Straßenseite aus an.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

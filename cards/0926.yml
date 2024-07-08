@@ -1,13 +1,27 @@
 Rang: 926
 Lemma: 実は
 Lesung: じつわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: eigentlich, tatsächlich
-Beispielsatz: 実は、お願いがあります。
-Beispielsatz-Lesung: 実[じつ]は、お 願[ねが]いがあります。
-Beispielsatz-Übersetzung: Eigentlich brauche ich einen Gefallen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">じ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">つ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">わ</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  実は、お願いがあります。
+  実[じつ]は、お 願[ねが]いがあります。
+  Eigentlich brauche ich einen Gefallen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

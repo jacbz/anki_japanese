@@ -1,13 +1,24 @@
 Rang: 3663
 Lemma: リーダー
-Lesung: リーダー
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: Führer
-Beispielsatz: 彼は営業チームのリーダーとして活躍している。
-Beispielsatz-Lesung: 彼[かれ]は 営業[えいぎょう]チームのリーダーとして 活躍[かつやく]している。
-Beispielsatz-Übersetzung: Er arbeitet als Führer des Verkaufsteams.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は営業チームのリーダーとして活躍している。
+  彼[かれ]は 営業[えいぎょう]チームのリーダーとして 活躍[かつやく]している。
+  Er arbeitet als Führer des Verkaufsteams.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

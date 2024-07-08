@@ -1,14 +1,24 @@
 Rang: 2374
 Lemma: によっては
 Lesung: によってわ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Alternativschreibweisen: ''
 Definition: abhängig von
-Beispielsatz: 人によっては、これをおいしいという。
-Beispielsatz-Lesung: 人[ひと]によっては、これを 美味[おい]しいという。
-Beispielsatz-Übersetzung: Es variiert von Person zu Person, aber manche Leute finden
-  das lecker.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ↗Gesprochen
+Dispersion: '0'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  人によっては、これをおいしいという。
+  人[ひと]によっては、これを 美味[おい]しいという。
+  Es variiert von Person zu Person, aber manche Leute finden das lecker.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

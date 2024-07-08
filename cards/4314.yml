@@ -1,13 +1,24 @@
 Rang: 4314
 Lemma: 復帰
 Lesung: ふっき
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Rückkehr; zurückkehren
 Extra: （する）
 Wortart: n. v.
-Definition: Rückkehr; zurückkehren
-Beispielsatz: 彼女は今年から舞台に復帰した。
-Beispielsatz-Lesung: 彼女[かのじょ]は 今年[ことし]から 舞台[ぶたい]に 復帰[ふっき]した。
-Beispielsatz-Übersetzung: Sie hat in diesem Jahr auf der Bühne ein Comeback gemacht.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は今年から舞台に復帰した。
+  彼女[かのじょ]は 今年[ことし]から 舞台[ぶたい]に 復帰[ふっき]した。
+  Sie hat in diesem Jahr auf der Bühne ein Comeback gemacht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

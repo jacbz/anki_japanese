@@ -1,13 +1,27 @@
 Rang: 4679
 Lemma: 食器
 Lesung: しょっき
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Geschirr
-Beispielsatz: 食べた後食器を洗ってください。
-Beispielsatz-Lesung: 食[た]べた 後[のち] 食器[しょっき]を 洗[あら]ってください。
-Beispielsatz-Übersetzung: Bitte spülen Sie das Geschirr nach dem Essen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">し</span><span class="char">ょ</span></span></span><span class="accent_plain
+  mola_-2"><span class="inner"><span class="char">っ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">き</span></span></span></span>
+Register: ''
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  食べた後食器を洗ってください。
+  食[た]べた 後[のち] 食器[しょっき]を 洗[あら]ってください。
+  Bitte spülen Sie das Geschirr nach dem Essen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

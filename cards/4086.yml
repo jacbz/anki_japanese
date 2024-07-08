@@ -1,13 +1,24 @@
 Rang: 4086
 Lemma: 十年間
 Lesung: じゅうねんかん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: zehn Jahre
-Beispielsatz: 彼は十年間先生をしている。
-Beispielsatz-Lesung: 彼[かれ]は十 年間[ねんかん] 先生[せんせい]をしている。
-Beispielsatz-Übersetzung: Er unterrichtet seit zehn Jahren.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は十年間先生をしている。
+  彼[かれ]は十 年間[ねんかん] 先生[せんせい]をしている。
+  Er unterrichtet seit zehn Jahren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 1289
 Lemma: 大分
 Lesung: だいぶ<br>だいぶん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: sehr, viel
-Beispielsatz: 大分気分が良くなった。
-Beispielsatz-Lesung: 大分[おおいた] 気分[きぶん]が 良[よ]くなった。
-Beispielsatz-Übersetzung: Ich fühle mich jetzt viel besser.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  大分気分が良くなった。
+  大分[おおいた] 気分[きぶん]が 良[よ]くなった。
+  Ich fühle mich jetzt viel besser.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,27 @@
 Rang: 2711
 Lemma: あちら
-Lesung: あちら
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: pron.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: dort; jener Ort, da; jener
-Beispielsatz: あちらの門へ行って下さい。
-Beispielsatz-Lesung: あちらの 門[もん]へ 行[い]って 下[くだ]さい。
-Beispielsatz-Übersetzung: Bitte gehen Sie zu jenem Tor.
+Extra: '' # Nur bei suru-Verben
+Wortart: pron.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">あ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">ち</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">ら</span></span></span></span>
+Register: ''
+Dispersion: '63'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あちらの門へ行って下さい。
+  あちらの 門[もん]へ 行[い]って 下[くだ]さい。
+  Bitte gehen Sie zu jenem Tor.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,14 +1,24 @@
 Rang: 877
 Lemma: (お)婆さん
 Lesung: (お)ばあさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: alte Dame; Großmutter
-Beispielsatz: 困っているお婆さんを助けた。
-Beispielsatz-Lesung: 困[こま]っているお 婆[ばあ]さんを 助[たす]けた。
-Beispielsatz-Übersetzung: Ich habe einer alten Dame geholfen, die in Schwierigkeiten
-  war.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '75'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  困っているお婆さんを助けた。
+  困[こま]っているお 婆[ばあ]さんを 助[たす]けた。
+  Ich habe einer alten Dame geholfen, die in Schwierigkeiten war.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

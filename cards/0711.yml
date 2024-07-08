@@ -1,14 +1,24 @@
 Rang: 711
 Lemma: 元々
 Lesung: もともと
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Alternativschreibweisen: ''
 Definition: ursprünglich
-Beispielsatz: 漢字はもともと絵から発達した。
-Beispielsatz-Lesung: 漢字[かんじ]はもともと 絵[え]から 発達[はったつ]した。
-Beispielsatz-Übersetzung: Chinesische Schriftzeichen haben sich ursprünglich aus Bildern
-  entwickelt.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  漢字はもともと絵から発達した。
+  漢字[かんじ]はもともと 絵[え]から 発達[はったつ]した。
+  Chinesische Schriftzeichen haben sich ursprünglich aus Bildern entwickelt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

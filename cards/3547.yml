@@ -1,13 +1,24 @@
 Rang: 3547
 Lemma: そこそこ
-Lesung: そこそこ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: etwa; in Eile; in Ordnung
-Beispielsatz: 多くはないが、そこそこの収入がある。
-Beispielsatz-Lesung: 多[おお]くはないが、そこそこの 収入[しゅうにゅう]がある。
-Beispielsatz-Übersetzung: Es ist nicht viel, aber ich habe ein vernünftiges Einkommen.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '77'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  多くはないが、そこそこの収入がある。
+  多[おお]くはないが、そこそこの 収入[しゅうにゅう]がある。
+  Es ist nicht viel, aber ich habe ein vernünftiges Einkommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

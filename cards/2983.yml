@@ -1,13 +1,27 @@
 Rang: 2983
 Lemma: 資産
 Lesung: しさん
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Vermögen, Eigentum
-Beispielsatz: 彼は十分な資産がある。
-Beispielsatz-Lesung: 彼[かれ]は 十分[じゅうぶん]な 資産[しさん]がある。
-Beispielsatz-Übersetzung: Er hat genug Vermögen.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">し</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">さ</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">ん</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は十分な資産がある。
+  彼[かれ]は 十分[じゅうぶん]な 資産[しさん]がある。
+  Er hat genug Vermögen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

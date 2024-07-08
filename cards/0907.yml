@@ -1,13 +1,26 @@
 Rang: 907
 Lemma: 馬
 Lesung: うま
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Pferd
-Beispielsatz: 叔父は馬を飼っている。
-Beispielsatz-Lesung: 叔父[おじ]は 馬[うま]を 飼[か]っている。
-Beispielsatz-Übersetzung: Mein Onkel hält Pferde.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">ま</span></span></span></span>
+Register: ''
+Dispersion: '85'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  叔父は馬を飼っている。
+  叔父[おじ]は 馬[うま]を 飼[か]っている。
+  Mein Onkel hält Pferde.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

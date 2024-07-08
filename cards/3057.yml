@@ -1,13 +1,25 @@
 Rang: 3057
 Lemma: 区
 Lesung: く
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Stadtbezirk, Stadtteil
-Beispielsatz: この区には外国人が多く住んでいる。
-Beispielsatz-Lesung: この 区[く]には 外国人[がいこくじん]が 多[おお]く 住[す]んでいる。
-Beispielsatz-Übersetzung: In diesem Bezirk leben viele Ausländer.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-1"><span
+  class="inner"><span class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '70'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この区には外国人が多く住んでいる。
+  この 区[く]には 外国人[がいこくじん]が 多[おお]く 住[す]んでいる。
+  In diesem Bezirk leben viele Ausländer.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

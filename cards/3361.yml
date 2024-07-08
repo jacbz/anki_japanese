@@ -1,13 +1,24 @@
 Rang: 3361
 Lemma: 応募
 Lesung: おうぼ
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Bewerbung; sich bewerben um
 Extra: （する）
 Wortart: n. v.
-Definition: Bewerbung; sich bewerben um
-Beispielsatz: 応募の締め切りは今週の金曜日です。
-Beispielsatz-Lesung: 応募[おうぼ]の 締[し]め 切[き]りは 今週[こんしゅう]の 金曜日[きんようび]です。
-Beispielsatz-Übersetzung: Die Bewerbungsfrist ist diesen Freitag.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '74'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  応募の締め切りは今週の金曜日です。
+  応募[おうぼ]の 締[し]め 切[き]りは 今週[こんしゅう]の 金曜日[きんようび]です。
+  Die Bewerbungsfrist ist diesen Freitag.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

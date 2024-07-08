@@ -1,13 +1,24 @@
 Rang: 4525
 Lemma: 分解
 Lesung: ぶんかい
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: analyseieren; zerlegen, auseinandernehmen, analysieren
 Extra: （する）
 Wortart: n. v.
-Definition: analyseieren; zerlegen, auseinandernehmen, analysieren
-Beispielsatz: 彼は時計を分解した。
-Beispielsatz-Lesung: 彼[かれ]は 時計[とけい]を 分解[ぶんかい]した。
-Beispielsatz-Übersetzung: Er hat die Uhr auseinandergenommen.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '96'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は時計を分解した。
+  彼[かれ]は 時計[とけい]を 分解[ぶんかい]した。
+  Er hat die Uhr auseinandergenommen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

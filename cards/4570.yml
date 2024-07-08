@@ -1,13 +1,24 @@
 Rang: 4570
 Lemma: イエス
-Lesung: イエス
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: ja; Jesus (Christus)
-Beispielsatz: 私はイエスと答えた。
-Beispielsatz-Lesung: 私[わたし]はイエスと 答[こた]えた。
-Beispielsatz-Übersetzung: Ich habe ja gesagt.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私はイエスと答えた。
+  私[わたし]はイエスと 答[こた]えた。
+  Ich habe ja gesagt.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

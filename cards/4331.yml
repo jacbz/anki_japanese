@@ -1,13 +1,24 @@
 Rang: 4331
 Lemma: 専業主婦
 Lesung: せんぎょうしゅふ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Hausfrau, Hauswirtin
-Beispielsatz: 母は専業主婦です。
-Beispielsatz-Lesung: 母[はは]は 専業主婦[せんぎょうしゅふ]です。
-Beispielsatz-Übersetzung: Meine Mutter ist eine Hausfrau.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  母は専業主婦です。
+  母[はは]は 専業主婦[せんぎょうしゅふ]です。
+  Meine Mutter ist eine Hausfrau.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 247
 Lemma: あの
-Lesung: あの
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adn.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: jener, jene
-Beispielsatz: あの建物は博物館です。
-Beispielsatz-Lesung: あの 建物[たてもの]は 博物館[はくぶつかん]です。
-Beispielsatz-Übersetzung: Jenes Gebäude ist ein Museum.
+Extra: '' # Nur bei suru-Verben
+Wortart: adn.
+Lesung mit Tonhöhe: ''
+Register: ↗</>Bücher
+Dispersion: '91'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  あの建物は博物館です。
+  あの 建物[たてもの]は 博物館[はくぶつかん]です。
+  Jenes Gebäude ist ein Museum.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

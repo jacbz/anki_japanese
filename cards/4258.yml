@@ -1,13 +1,24 @@
 Rang: 4258
 Lemma: いまいち
-Lesung: いまいち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nicht ganz, nicht wirklich
-Beispielsatz: 彼の指導はいまいち理解できない。
-Beispielsatz-Lesung: 彼[かれ]の 指導[しどう]はいまいち 理解[りかい]できない。
-Beispielsatz-Übersetzung: Ich verstehe seine Lehre nicht wirklich.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '45'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼の指導はいまいち理解できない。
+  彼[かれ]の 指導[しどう]はいまいち 理解[りかい]できない。
+  Ich verstehe seine Lehre nicht wirklich.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

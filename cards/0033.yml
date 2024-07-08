@@ -1,13 +1,24 @@
 Rang: 33
 Lemma: よう
 Lesung: ''
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: aux.
+Alternativschreibweisen: ''
 Definition: ANREIZ
-Beispielsatz: 一緒にDVDを見よう。
-Beispielsatz-Lesung: 一緒[いっしょ]にDVDを 見[み]よう。
-Beispielsatz-Übersetzung: Lass uns zusammen eine DVD schauen.
+Extra: '' # Nur bei suru-Verben
+Wortart: aux.
+Lesung mit Tonhöhe: ''
+Register: ↗Bücher
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  一緒にDVDを見よう。
+  一緒[いっしょ]にDVDを 見[み]よう。
+  Lass uns zusammen eine DVD schauen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

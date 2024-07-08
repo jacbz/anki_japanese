@@ -1,13 +1,27 @@
 Rang: 1099
 Lemma: 緑
 Lesung: みどり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: grün
-Beispielsatz: 緑の地球を大切にしよう。
-Beispielsatz-Lesung: 緑[みどり]の 地球[ちきゅう]を 大切[たいせつ]にしよう。
-Beispielsatz-Übersetzung: Wir müssen uns um die grüne Erde kümmern.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
+  class="inner"><span class="char">み</span></span></span><span class="mola_-2"><span
+  class="inner"><span class="char">ど</span></span></span><span class="mola_-1"><span
+  class="inner"><span class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '94'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  緑の地球を大切にしよう。
+  緑[みどり]の 地球[ちきゅう]を 大切[たいせつ]にしよう。
+  Wir müssen uns um die grüne Erde kümmern.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

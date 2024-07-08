@@ -1,13 +1,24 @@
 Rang: 107
 Lemma: について
-Lesung: について
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: cp.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: in Bezug auf
-Beispielsatz: 彼は太陽光発電について研究している。
-Beispielsatz-Lesung: 彼[かれ]は 太陽光発電[たいようこうはつでん]について 研究[けんきゅう]している。
-Beispielsatz-Übersetzung: Er forscht über Solarenergie.
+Extra: '' # Nur bei suru-Verben
+Wortart: cp.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '65'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼は太陽光発電について研究している。
+  彼[かれ]は 太陽光発電[たいようこうはつでん]について 研究[けんきゅう]している。
+  Er forscht über Solarenergie.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

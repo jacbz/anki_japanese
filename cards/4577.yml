@@ -1,13 +1,24 @@
 Rang: 4577
 Lemma: サポート
-Lesung: サポート
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Unterstützung; unterstützen
 Extra: （する）
 Wortart: n. v.
-Definition: Unterstützung; unterstützen
-Beispielsatz: 奥さんは旦那さんをいつもサポートしています。
-Beispielsatz-Lesung: 奥[おく]さんは 旦那[だんな]さんをいつもサポートしています。
-Beispielsatz-Übersetzung: Die Ehefrau unterstützt immer ihren Ehemann.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '81'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  奥さんは旦那さんをいつもサポートしています。
+  奥[おく]さんは 旦那[だんな]さんをいつもサポートしています。
+  Die Ehefrau unterstützt immer ihren Ehemann.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

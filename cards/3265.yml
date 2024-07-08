@@ -1,13 +1,24 @@
 Rang: 3265
 Lemma: 苦痛
 Lesung: くつう
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: Schmerz
-Beispielsatz: この治療法は激しい苦痛を伴う。
-Beispielsatz-Lesung: この 治療法[ちりょうほう]は 激[はげ]しい 苦痛[くつう]を 伴[ともな]う。
-Beispielsatz-Übersetzung: Diese Heilung geht mit intensiven Schmerzen einher.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '89'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この治療法は激しい苦痛を伴う。
+  この 治療法[ちりょうほう]は 激[はげ]しい 苦痛[くつう]を 伴[ともな]う。
+  Diese Heilung geht mit intensiven Schmerzen einher.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

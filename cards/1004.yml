@@ -1,13 +1,28 @@
 Rang: 1004
 Lemma: 毎年
 Lesung: まいとし
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv., n.
+Alternativschreibweisen: ''
 Definition: jedes Jahr, jährlich
-Beispielsatz: 私の家族は毎年海外に行きます。
-Beispielsatz-Lesung: 私[わたし]の 家族[かぞく]は 毎年[まいとし] 海外[かいがい]に 行[い]きます。
-Beispielsatz-Übersetzung: Meine Familie geht jedes Jahr ins Ausland.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv., n.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ま</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">い</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">と</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">し</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私の家族は毎年海外に行きます。
+  私[わたし]の 家族[かぞく]は 毎年[まいとし] 海外[かいがい]に 行[い]きます。
+  Meine Familie geht jedes Jahr ins Ausland.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

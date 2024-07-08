@@ -1,13 +1,27 @@
 Rang: 2120
 Lemma: 募集
 Lesung: ぼしゅう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Rekrutierung
 Extra: （する）
 Wortart: n. v.
-Definition: Rekrutierung
-Beispielsatz: ちょうど今、その会社が社員を募集している。
-Beispielsatz-Lesung: ちょうど 今[いま]、その 会社[かいしゃ]が 社員[しゃいん]を 募集[ぼしゅう]している。
-Beispielsatz-Übersetzung: Dieses Unternehmen rekrutiert derzeit neue Mitarbeiter.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
+  class="char">ぼ</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">し</span><span class="char">ゅ</span></span></span><span class="accent_plain
+  mola_-1"><span class="inner"><span class="char">う</span></span></span></span>
+Register: ↗Zeitungen
+Dispersion: '52'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ちょうど今、その会社が社員を募集している。
+  ちょうど 今[いま]、その 会社[かいしゃ]が 社員[しゃいん]を 募集[ぼしゅう]している。
+  Dieses Unternehmen rekrutiert derzeit neue Mitarbeiter.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

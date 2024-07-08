@@ -1,13 +1,26 @@
 Rang: 1128
 Lemma: 楽
 Lesung: らく
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: na-adj.
+Alternativschreibweisen: ''
 Definition: Komfort, Leichtigkeit, bequem
-Beispielsatz: 想像していたような楽な仕事ではなかった。
-Beispielsatz-Lesung: 想像[そうぞう]していたような 楽[らく]な 仕事[しごと]ではなかった。
-Beispielsatz-Übersetzung: Die Arbeit war nicht so einfach, wie ich es erwartet hatte.
+Extra: '' # Nur bei suru-Verben
+Wortart: na-adj.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">ら</span></span></span><span class="accent_top mola_-1"><span class="inner"><span
+  class="char">く</span></span></span></span>
+Register: ''
+Dispersion: '88'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  想像していたような楽な仕事ではなかった。
+  想像[そうぞう]していたような 楽[らく]な 仕事[しごと]ではなかった。
+  Die Arbeit war nicht so einfach, wie ich es erwartet hatte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

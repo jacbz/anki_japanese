@@ -1,13 +1,28 @@
 Rang: 2248
 Lemma: 放送
 Lesung: ほうそう
-Alternative: ''
+Alternativschreibweisen: ''
+Definition: Sendung, Durchsage
 Extra: （する）
 Wortart: n. v.
-Definition: Sendung, Durchsage
-Beispielsatz: ドラマの再放送を見る。
-Beispielsatz-Lesung: ドラマの 再放送[さいほうそう]を 見[み]る。
-Beispielsatz-Übersetzung: Ich schaue eine Wiederholung des Fernsehdramas.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
+  class="char">ほ</span></span></span><span class="accent_plain mola_-3"><span class="inner"><span
+  class="char">う</span></span></span><span class="accent_plain mola_-2"><span class="inner"><span
+  class="char">そ</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">う</span></span></span></span>
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  ドラマの再放送を見る。
+  ドラマの 再放送[さいほうそう]を 見[み]る。
+  Ich schaue eine Wiederholung des Fernsehdramas.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

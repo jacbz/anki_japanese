@@ -1,13 +1,24 @@
 Rang: 2982
 Lemma: とはいえ
 Lesung: とわいえ
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p. conj.
+Alternativschreibweisen: ''
 Definition: obwohl, jedoch
-Beispielsatz: 失敗したとはいえ、よく頑張った。
-Beispielsatz-Lesung: 失敗[しっぱい]したとはいえ、よく 頑張[がんば]った。
-Beispielsatz-Übersetzung: Obwohl du gescheitert bist, hast du dein Bestes gegeben.
+Extra: '' # Nur bei suru-Verben
+Wortart: p. conj.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '79'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  失敗したとはいえ、よく頑張った。
+  失敗[しっぱい]したとはいえ、よく 頑張[がんば]った。
+  Obwohl du gescheitert bist, hast du dein Bestes gegeben.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,24 @@
 Rang: 3723
 Lemma: 彼女達
 Lesung: かのじょたち
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: n.
+Alternativschreibweisen: ''
 Definition: sie (weiblich)
-Beispielsatz: 彼女達は自分たちの可能性を知らない。
-Beispielsatz-Lesung: 彼女[かのじょ] 達[たち]は 自分[じぶん]たちの 可能性[かのうせい]を 知[し]らない。
-Beispielsatz-Übersetzung: Diese Mädchen kennen ihr Potenzial nicht.
+Extra: '' # Nur bei suru-Verben
+Wortart: n.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '83'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女達は自分たちの可能性を知らない。
+  彼女[かのじょ] 達[たち]は 自分[じぶん]たちの 可能性[かのうせい]を 知[し]らない。
+  Diese Mädchen kennen ihr Potenzial nicht.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

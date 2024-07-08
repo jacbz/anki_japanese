@@ -1,13 +1,24 @@
 Rang: 2212
 Lemma: コピー
-Lesung: コピー
-Alternative: ''
+Lesung: ''
+Alternativschreibweisen: ''
+Definition: Kopie
 Extra: （する）
 Wortart: n., v.
-Definition: Kopie
-Beispielsatz: この書類をコピーしてください。
-Beispielsatz-Lesung: この 書類[しょるい]をコピーしてください。
-Beispielsatz-Übersetzung: Bitte kopieren Sie dieses Dokument.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '90'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  この書類をコピーしてください。
+  この 書類[しょるい]をコピーしてください。
+  Bitte kopieren Sie dieses Dokument.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

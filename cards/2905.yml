@@ -1,14 +1,24 @@
 Rang: 2905
 Lemma: まして
-Lesung: まして
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: adv.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: geschweige denn, erst recht nicht
-Beispielsatz: 彼女は丁寧な言葉も知らないし、まして礼儀は知るはずもない。
-Beispielsatz-Lesung: 彼女[かのじょ]は 丁寧[ていねい]な 言葉[ことば]も 知[し]らないし、まして 礼儀[れいぎ]は 知[し]るはずもない。
-Beispielsatz-Übersetzung: Sie kennt nicht einmal höfliche Sprache, geschweige denn
-  gute Manieren.
+Extra: '' # Nur bei suru-Verben
+Wortart: adv.
+Lesung mit Tonhöhe: ''
+Register: ''
+Dispersion: '93'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  彼女は丁寧な言葉も知らないし、まして礼儀は知るはずもない。
+  彼女[かのじょ]は 丁寧[ていねい]な 言葉[ことば]も 知[し]らないし、まして 礼儀[れいぎ]は 知[し]るはずもない。
+  Sie kennt nicht einmal höfliche Sprache, geschweige denn gute Manieren.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''

@@ -1,13 +1,26 @@
 Rang: 1685
 Lemma: きり
-Lesung: きり
-Alternative: ''
-Extra: '' # nur bei する-Verben
-Wortart: p.
+Lesung: ''
+Alternativschreibweisen: ''
 Definition: nur
-Beispielsatz: 私達は二人きりになった。
-Beispielsatz-Lesung: 私[わたし] 達[たち]は二人きりになった。
-Beispielsatz-Übersetzung: Wir waren allein gelassen.
+Extra: '' # Nur bei suru-Verben
+Wortart: p.
+Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
+  class="char">き</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
+  class="char">り</span></span></span></span>
+Register: ''
+Dispersion: '97'
 
-# Notizen können HTML enthalten.            
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  私達は二人きりになった。
+  私[わたし] 達[たち]は二人きりになった。
+  Wir waren allein gelassen.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="jp">借りていた本を返す。</div>
+#   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
+# </div>
 Notiz: ''
