@@ -10,38 +10,38 @@ if (pos) {
   pos.onclick = function () {
     if (!pos.classList.contains("expanded")) {
       pos.classList.add("expanded");
-      const posMap = [
-        ["nadj", "Substantiv/Adjektiv", ""],
-        ["adj", "Adjektiv", ""],
-        ["adv", "Adverb", ""],
-        ["conj", "Konjunktion", ""],
-        ["det", "Determinativ", ""],
-        ["intj", "Interjektion", ""],
-        ["prep", "Präposition", ""],
-        ["pro", "Pronomen", ""],
-        ["n", "Substantiv", ""],
-        ["v", "Verb", ""],
-        ["(f)", "ohne eigenständiges Femininum", "suffix"],
-        ["(pl)", "ohne eigenständige Pluralform", "suffix"],
-        ["pl", "nur mit Plural", "suffix"],
-        ["f", "feminines", "prefix"],
-        ["m", "maskulines", "prefix"],
-        ["i", "unveränderliches", "prefix"],
-      ];
+      const abbreviations = {
+        adj: "Adjektiv",
+        adv: "Adverb",
+        attr: "Attributivum",
+        interj: "Interjektion",
+        kop: "Kopula",
+        konj: "Konjunktion",
+        n: "Nomen",
+        "na-adj": "na-Adjektiv",
+        "no-adj": "no-Adjektiv",
+        "na-no-adj": "na-no-Adjektiv",
+        "nari-adj": "nari-Adjektiv",
+        num: "Numeral",
+        part: "Partikel",
+        phr: "Phrase",
+        postp: "Postposition",
+        präf: "Präfix",
+        präp: "Präposition",
+        pron: "Pronomen",
+        "shiku-adj": "shiku-Adjektiv",
+        suff: "Suffix",
+        "tari-adj": "tari-Adjektiv",
+        vi: "intransitives Verb",
+        vt: "transitives Verb",
+      };
       const allPosArray = [];
       pos.innerHTML.split(", ").forEach(function (component) {
-        const posArray = [];
-        posMap.forEach(function (pair) {
-          if (component.includes(pair[0])) {
-            if (pair[2] === "prefix") {
-              posArray.unshift(pair[1]);
-            } else {
-              posArray.push(pair[1]);
-            }
-            component = component.replace(pair[0], "");
-          }
-        });
-        allPosArray.push(posArray.join(" "));
+        if (abbreviations[component]) {
+          allPosArray.push(abbreviations[component]);
+        } else {
+          allPosArray.push(component);
+        }
       });
       pos.innerHTML = allPosArray.join(",<br>");
     }
@@ -99,7 +99,7 @@ function formatSentences(within = document) {
       const text = processText(el.innerHTML, true);
       const sentenceWithoutFurigana =
         el.dataset.sentence ??
-        text.replaceAll(/（.+?）/g, "").replaceAll(/(.+?)/g, "");
+        text.replaceAll(/（.+?）/g, "").replaceAll(/\(.+?\)/g, "");
       el.innerHTML = `<span class="sentence-with-audio">${audioButton(
         sentenceWithoutFurigana
       )}<span>${addFurigana(text)}</span></span>`;

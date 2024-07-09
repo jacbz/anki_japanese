@@ -27,7 +27,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Punkt: [点](cards/0411.yml) (#411), [ポイント](cards/1093.yml) (#1093)
 * nicht: [ない](cards/0027.yml) (#27), [ではありません](cards/1130.yml) (#1130)
 * ankommen: [着く](cards/0680.yml) (#680), [届く](cards/1146.yml) (#1146)
-* bei; in; auf: [において](cards/0233.yml) (#233), [おく](cards/1164.yml) (#1164)
 * schlafen: [寝る](cards/0438.yml) (#438), [眠る](cards/1212.yml) (#1212)
 * so ein(e): [そんな](cards/0118.yml) (#118), [こんな](cards/0218.yml) (#218), [あんな](cards/1220.yml) (#1220)
 * letztes Jahr: [去年](cards/1078.yml) (#1078), [昨年](cards/1227.yml) (#1227)
