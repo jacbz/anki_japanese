@@ -14,6 +14,11 @@
 }
 
 @font-face {
+  font-family: stroke;
+  src: url("_stroke.ttf");
+}
+
+@font-face {
   font-family: Parisine;
   src: url("_Parisine-Regular.ttf");
   font-weight: normal;
@@ -187,6 +192,11 @@
 .definition {
   font-weight: bold;
   font-size: 95%;
+}
+
+.pre-suffix {
+  opacity: 60%;
+  font-weight: 400;
 }
 
 .grammar {
@@ -365,7 +375,7 @@ hr {
 }
 
 #sentences_inner .de {
-  line-height: 1.25em;
+  line-height: 1.35em;
   font-size: 90%;
   margin-top: 0.15em;
 }
@@ -717,6 +727,76 @@ rt {
   border-radius: 14px;
   padding: 10px;
   text-align: left;
+}
+
+/**
+  Kanji
+  -----------------------------------------------
+**/
+
+#kanji_table {
+  max-width: 300px;
+}
+
+.kanji_entry {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+
+  .kanji_char {
+    font-size: 85px;
+    font-family: stroke;
+  }
+
+  .kanji_meanings {
+    font-style: italic;
+    line-height: 125%;
+  }
+
+  .kanji_readings {
+    margin-top: 0.3em;
+  }
+
+  .kanji_readings_on::before, .kanji_readings_kun::before {
+    margin-right: 0.25em;
+    border: 1px solid #999;
+    color: #444;
+    border-radius: 100%;
+    width: 1.25em;
+    height: 1.25em;
+    display: inline-flex;
+    font-size: 85%;
+    align-items: center;
+    justify-content: center;
+    vertical-align: text-bottom;
+  }
+
+  .kanji_readings_on::before {
+    content: "音";
+  }
+
+  .kanji_readings_kun::before {
+    content: "訓";
+  }
+
+  .reading_suffix {
+    opacity: 35%;
+  }
+
+  .chinese_reading {
+    padding-left: 0.5em;
+    opacity: 50%;
+    font-size: 70%;
+  }
+
+  .chinese_reading::before {
+    content: "⤳";
+  }
+}
+
+.night_mode .kanji_readings_on::before, .night_mode .kanji_readings_kun::before {
+  border-color: #aaa;
+  color: #ddd;
 }
 
 /**
