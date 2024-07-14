@@ -1,8 +1,8 @@
 Rang: 34
 Lemma: 思う
 Lesung: おもう
-Alternativschreibweisen: ''
-Definition: denken, glauben
+Alternativschreibweisen: 想う・念う・憶う
+Definition: denken
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
@@ -11,6 +11,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
   class="char">う</span></span></span></span>
 Register: ''
 Dispersion: '88'
+Ursprung: ''
+Konjugation: 思わない<br>思った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +20,90 @@ Beispielsätze: |-
   私はそう思いません。
   私[わたし]はそう 思[おも]いません。
   Ich denke nicht so.
+
+  彼女のことをどう思いますか？
+  彼女[かのじょ]のことをどう 思[おも]いますか？
+  Was denkst du über sie?
+
+  私はこの案が良いアイデアだと思います。
+  私[わたし]はこの 案[あん]が 良[よ]いアイデアだと 思[おも]います。
+  Ich denke, dass dieser Vorschlag eine gute Idee ist.
+
+  彼は正しいと思っているだけです。
+  彼[かれ]は 正[ただ]しいと 思[おも]っているだけです。
+  Er glaubt nur, dass er Recht hat.
+
+  その問題は難しいと思わない？
+  その 問題[もんだい]は 難[むずか]しいと 思[おも]わない？
+  Findest du dieses Problem nicht schwierig?
+
+  私の弟はとてもかわいいと思います。
+  私[わたし]の 弟[おとうと]はとてもかわいいと 思[おも]います。
+  Ich finde meinen jüngeren Bruder sehr süß.
+
+  この結果に満足していると思います。
+  この 結果[けっか]に 満足[まんぞく]していると 思[おも]います。
+  Ich glaube, ich bin mit diesem Ergebnis zufrieden.
+
+  彼女は本当のことを言っていると思う？
+  彼女[かのじょ]は 本当[ほんとう]のことを 言[い]っていると 思[おも]う？
+  Glaubst du, dass sie die Wahrheit sagt?
+
+  明日は雨が降ると思います。
+  明日[あした]は 雨[あめ]が 降[ふ]ると 思[おも]います。
+  Ich denke, dass es morgen regnen wird.
+
+  もう二度とそこには行くまいと思った。
+  もう 二度[にど]とそこには 行[い]くまいと 思[おも]った。
+  Ich dachte, ich würde nie wieder dorthin gehen.
+
+  彼女は来ないと思う。
+  彼女[かのじょ]は 来[こ]ないと 思[おも]う。
+  Ich glaube, sie wird nicht kommen.
+
+  彼の提案を聞いて、とても嬉しく思いました。
+  彼[かれ]の 提案[ていあん]を 聞[き]いて、とても 嬉[うれ]しく 思[おも]いました。
+  Ich war sehr erfreut, seinen Vorschlag zu hören.
+
+  その贈り物をとてもありがたく思います。
+  その 贈[おく]り 物[もの]をとてもありがたく 思[おも]います。
+  Ich bin für dieses Geschenk sehr dankbar.
+
+  彼の成功をうらやましく思う人もいるでしょう。
+  彼[かれ]の 成功[せいこう]をうらやましく 思[おも]う 人[ひと]もいるでしょう。
+  Es wird wohl Leute geben, die seinen Erfolg beneiden.
+
+  その結果を不満に思わないでください。
+  その 結果[けっか]を 不満[ふまん]に 思[おも]わないでください。
+  Bitte seien Sie mit dem Ergebnis nicht unzufrieden.
+
+  彼女の状況を気の毒に思います。
+  彼女[かのじょ]の 状況[じょうきょう]を 気[き]の 毒[どく]に 思[おも]います。
+  Ich finde ihre Situation bedauerlich.
+
+  彼の行動を奇妙に思う人も多いでしょう。
+  彼[かれ]の 行動[こうどう]を 奇妙[きみょう]に 思[おも]う 人[ひと]も 多[おお]いでしょう。
+  Viele Leute werden sein Verhalten wohl seltsam finden.
+
+  医者になろうと思っています。
+  医者[いしゃ]になろうと 思[おも]っています。
+  Ich habe vor, Arzt zu werden.
+
+  来年結婚したいと思っているんだ。
+  来年[らいねん] 結婚[けっこん]したいと 思[おも]っているんだ。
+  Ich möchte nächstes Jahr heiraten.
+
+  そんなことは聞きたいと思わない。
+  そんなことは 聞[き]きたいと 思[おも]わない。
+  So etwas möchte ich gar nicht hören.
+
+  思ったより早く仕事が終わった。
+  思[おも]ったより 早[はや]く 仕事[しごと]が 終[お]わった。
+  Die Arbeit war schneller fertig als gedacht.
+
+  小学生の頃のことをよく思い出す。
+  小学生[しょうがくせい]の 頃[ころ]のことをよく 思[おも]い 出[だ]す。
+  Ich denke oft an meine Grundschulzeit zurück.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

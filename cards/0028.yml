@@ -1,7 +1,7 @@
 Rang: 28
 Lemma: なる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 成る・為る
 Definition: werden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -10,13 +10,95 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2
   class="inner"><span class="char">る</span></span></span></span>
 Register: ''
 Dispersion: '99'
+Ursprung: ''
+Konjugation: ならない<br>ならなかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は金持ちになるでしょう。
   彼[かれ]は 金持[かねも]ちになるでしょう。
-  Er wird reich werden.
+  Er wird wahrscheinlich reich werden.
+
+  春になると、桜が咲き始めます。
+  春[はる]になると、桜[さくら]が 咲[さ]き 始[はじ]めます。
+  Wenn es Frühling wird, beginnen die Kirschblüten zu blühen.
+
+  彼女は医者になる夢を持っています。
+  彼女[かのじょ]は 医者[いしゃ]になる 夢[ゆめ]を 持[も]っています。
+  Sie hat den Traum, Ärztin zu werden.
+
+  風邪をひいて病気になってしまった。
+  風邪[かぜ]をひいて 病気[びょうき]になってしまった。
+  Ich habe mich erkältet und bin krank geworden.
+
+  毎日運動するのが習慣になりました。
+  毎日[まいにち] 運動[うんどう]するのが 習慣[しゅうかん]になりました。
+  Täglich Sport zu treiben ist zur Gewohnheit geworden.
+
+  彼の顔が怒りで真っ赤になった。
+  彼[かれ]の 顔[かお]が 怒[いか]りで 真っ赤[まっか]になった。
+  Sein Gesicht wurde vor Wut knallrot.
+
+  彼女の成績が良くなってきています。
+  彼女[かのじょ]の 成績[せいせき]が 良[よ]くなってきています。
+  Ihre Noten werden immer besser.
+
+  状況が悪くなる一方です。
+  状況[じょうきょう]が 悪[わる]くなる 一方[いっぽう]です。
+  Die Situation wird immer schlimmer.
+
+  子供たちが大きくなるのが早すぎる。
+  子供[こども]たちが 大[おお]きくなるのが 早[はや]すぎる。
+  Die Kinder werden zu schnell groß.
+
+  雨が雪に変わり始めました。
+  雨[あめ]が 雪[ゆき]に 変[か]わり 始[はじ]めました。
+  Der Regen begann, sich in Schnee zu verwandeln.
+
+  この古い道具はもう使い物にならない。
+  この 古[ふる]い 道具[どうぐ]はもう 使[つか]い 物[もの]にならない。
+  Dieses alte Werkzeug ist nicht mehr zu gebrauchen.
+
+  彼の行動が会社の名誉になりました。
+  彼[かれ]の 行動[こうどう]が 会社[かいしゃ]の 名誉[めいよ]になりました。
+  Sein Verhalten gereichte der Firma zur Ehre.
+
+  このハーブティーは風邪の薬になります。
+  このハーブティーは 風邪[かぜ]の 薬[くすり]になります。
+  Dieser Kräutertee dient als Heilmittel gegen Erkältungen.
+
+  雨が降りそうになってきました。
+  雨[あめ]が 降[ふ]りそうになってきました。
+  Es sieht so aus, als ob es regnen wird.
+
+  彼らの議論が喧嘩になりかけた。
+  彼[かれ]らの 議論[ぎろん]が 喧嘩[けんか]になりかけた。
+  Ihre Diskussion drohte, in einen Streit auszuarten.
+
+  新しい計画がようやく実現することになりました。
+  新[あたら]しい 計画[けいかく]がようやく 実現[じつげん]することになりました。
+  Der neue Plan wird endlich umgesetzt werden.
+
+  この本は私のお気に入りになりました。
+  この 本[ほん]は 私[わたし]のお 気[き]に 入[い]りになりました。
+  Dieses Buch ist zu meinem Favoriten geworden.
+
+  突然、停電になってしまいました。
+  突然[とつぜん]、停電[ていでん]になってしまいました。
+  Plötzlich gab es einen Stromausfall.
+
+  この委員会は5人のメンバーから成っています。
+  この 委員会[いいんかい]は5人[にん]のメンバーから 成[な]っています。
+  Dieses Komitee besteht aus fünf Mitgliedern.
+
+  合計金額は1万円になります。
+  合計金額[ごうけいきんがく]は1万円[いちまんえん]になります。
+  Der Gesamtbetrag beläuft sich auf 10.000 Yen.
+
+  彼女は劇で白雪姫の役になりました。
+  彼女[かのじょ]は 劇[げき]で 白雪姫[しらゆきひめ]の 役[やく]になりました。
+  Sie hat im Theaterstück die Rolle des Schneewittchens übernommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

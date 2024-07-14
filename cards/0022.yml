@@ -1,22 +1,104 @@
 Rang: 22
 Lemma: する
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 為る
 Definition: machen; tun
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
   class="char">す</span></span></span><span class="accent_plain mola_-1"><span class="inner"><span
   class="char">る</span></span></span></span>
 Register: ''
 Dispersion: '99'
+Ursprung: ''
+Konjugation: しない<br>した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   仕事をしなければなりません。
   仕事[しごと]をしなければなりません。
-  Ich muss meine Arbeit machen.
+  Ich muss arbeiten.
+
+  自分で料理をするのが好きです。
+  自分[じぶん]で 料理[りょうり]をするのが 好[す]きです。
+  Ich mag es, selbst zu kochen.
+
+  明日、友達と実験をする予定です。
+  明日[あした]、友達[ともだち]と 実験[じっけん]をする 予定[よてい]です。
+  Morgen habe ich vor, mit meinem Freund ein Experiment zu machen.
+
+  失敗しても、あきらめないでください。
+  失敗[しっぱい]しても、あきらめないでください。
+  Geben Sie nicht auf, auch wenn Sie Fehler machen.
+
+  週末にパーティーをするつもりだ。
+  週末[しゅうまつ]にパーティーをするつもりだ。
+  Ich habe vor, am Wochenende eine Party zu veranstalten.
+
+  彼女は教師をしています。
+  彼女[かのじょ]は 教師[きょうし]をしています。
+  Sie ist Lehrerin von Beruf.
+
+  顔色が悪いけど、大丈夫？病気してるの？
+  顔色[かおいろ]が 悪[わる]いけど、大丈夫[だいじょうぶ]？病気[びょうき]してるの？
+  Du siehst blass aus. Alles in Ordnung? Bist du krank?
+
+  心配そうな顔をしないで。大丈夫だから。
+  心配[しんぱい]そうな 顔[かお]をしないで。大丈夫[だいじょうぶ]だから。
+  Mach kein besorgtes Gesicht. Es ist alles in Ordnung.
+
+  そんなに問題にすることじゃないよ。
+  そんなに 問題[もんだい]にすることじゃないよ。
+  Du solltest daraus kein so großes Problem machen.
+
+  部屋をきれいにしてから出かけましょう。
+  部屋[へや]をきれいにしてから 出[で]かけましょう。
+  Lass uns das Zimmer aufräumen, bevor wir gehen.
+
+  ネクタイをしていく必要はありますか？
+  ネクタイをしていく 必要[ひつよう]はありますか？
+  Muss ich eine Krawatte tragen?
+
+  今日の昼食は何にする？
+  今日[きょう]の 昼食[ちゅうしょく]は 何[なに]にする？
+  Was nimmst du heute zum Mittagessen?
+
+  大学は東京大学にすることにした。
+  大学[だいがく]は 東京大学[とうきょうだいがく]にすることにした。
+  Ich habe mich entschieden, an die Universität Tokio zu gehen.
+
+  電話してもいいですか？
+  電話[でんわ]してもいいですか？
+  Darf ich telefonieren?
+
+  地震が起きたとき、大きな音がした。
+  地震[じしん]が 起[お]きたとき、大[おお]きな 音[おと]がした。
+  Als das Erdbeben passierte, gab es ein lautes Geräusch.
+
+  この時計、結構したんだ。
+  この 時計[とけい]、結構[けっこう]したんだ。
+  Diese Uhr hat ziemlich viel gekostet.
+
+  もう少ししたら、映画が始まります。
+  もう 少[すこ]ししたら、映画[えいが]が 始[はじ]まります。
+  Der Film beginnt in Kürze.
+
+  今日は早く帰ろうとしています。
+  今日[きょう]は 早[はや]く 帰[かえ]ろうとしています。
+  Ich habe vor, heute früh nach Hause zu gehen.
+
+  医者として、患者の健康が一番大切です。
+  医者[いしゃ]として、患者[かんじゃ]の 健康[けんこう]が一番[いちばん] 大切[たいせつ]です。
+  Als Arzt ist die Gesundheit der Patienten das Wichtigste.
+
+  はっきりした答えを教えてください。
+  はっきりした 答[こた]えを 教[おし]えてください。
+  Bitte geben Sie mir eine klare Antwort.
+
+  お待たせして申し訳ございません。
+  お待[ま]たせして 申[もう]し 訳[わけ]ございません。
+  Es tut mir leid, Sie warten gelassen zu haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

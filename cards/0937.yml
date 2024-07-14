@@ -2,7 +2,7 @@ Rang: 937
 Lemma: 月
 Lesung: つき
 Alternativschreibweisen: ''
-Definition: Monat; Mond
+Definition: Mond
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
@@ -10,6 +10,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span cla
   class="char">き</span></span></span></span>
 Register: ''
 Dispersion: '92'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +19,81 @@ Beispielsätze: |-
   月が出た。
   月[つき]が 出[で]た。
   Der Mond ist aufgegangen.
+
+  今夜は月が沈むのが遅いそうです。
+  今夜[こんや]は 月[つき]が 沈[しず]むのが 遅[おそ]いそうです。
+  Heute Nacht soll der Mond spät untergehen.
+
+  満月の夜は、月が満ちているのがよく分かります。
+  満月[まんげつ]の 夜[よる]は、月[つき]が 満[み]ちているのがよく 分[わ]かります。
+  In der Vollmondnacht kann man deutlich sehen, dass der Mond voll ist.
+
+  下弦の月が空に浮かんでいます。
+  下弦[かげん]の 月[つき]が 空[そら]に 浮[う]かんでいます。
+  Der abnehmende Mond schwebt am Himmel.
+
+  月の出の時間を調べて、写真を撮りに行こう。
+  月[つき]の 出[で]の 時間[じかん]を 調[しら]べて、写真[しゃしん]を 撮[と]りに 行[い]こう。
+  Lass uns die Zeit des Mondaufgangs nachschauen und zum Fotografieren gehen.
+
+  月の入りの瞬間を見逃さないように注意しよう。
+  月[つき]の 入[い]りの 瞬間[しゅんかん]を 見逃[みのが]さないように 注意[ちゅうい]しよう。
+  Lass uns aufpassen, dass wir den Moment des Monduntergangs nicht verpassen.
+
+  月の光が湖面に反射して、幻想的な風景を作り出していた。
+  月[つき]の 光[ひかり]が 湖面[こめん]に 反射[はんしゃ]して、幻想的[げんそうてき]な 風景[ふうけい]を 作[つく]り 出[だ]していた。
+  Das Mondlicht reflektierte auf der Seeoberfläche und schuf eine fantastische Landschaft.
+
+  月の暈が見えるね。明日は雨かもしれないよ。
+  月[つき]の 暈[かさ]が 見[み]えるね。明日[あした]は 雨[あめ]かもしれないよ。
+  Man kann einen Hof um den Mond sehen. Morgen regnet es vielleicht.
+
+  今夜は月の明るい夜だから、夜道も歩きやすいでしょう。
+  今夜[こんや]は 月[つき]の 明[あか]るい 夜[よる]だから、夜道[よみち]も 歩[ある]きやすいでしょう。
+  Heute Nacht ist eine mondhelle Nacht, also wird es leicht sein, auf den nächtlichen Straßen zu gehen.
+
+  月があかるい。夜の海が光っている。
+  月[つき]があかるい。夜[よる]の 海[うみ]が 光[ひか]っている。
+  Der Mond scheint hell. Das nächtliche Meer funkelt.
+
+  深夜だった。中空に丸い月がかかっている。
+  深夜[しんや]だった。中空[なかぞら]に 丸[まる]い 月[つき]がかかっている。
+  Es war spät in der Nacht. Am Himmel hing die runde Scheibe des Mondes.
+
+  月はくろぐろとした松林のうえで大きく銀色にかがやき
+  月[つき]はくろぐろとした 松林[まつばやし]のうえで 大[おお]きく 銀色[ぎんいろ]にかがやき
+  Groß und silbern stand der Mond über den schwarzen Pinien
+
+  彼は月に一度海外出張に行きます。
+  彼[かれ]は 月[つき]に一度[いちど] 海外出張[かいがいしゅっちょう]に 行[い]きます。
+  Er geht einmal im Monat auf Geschäftsreise ins Ausland.
+
+  一月が経ちましたが、まだ慣れない仕事です。
+  一月[ひとつき]が 経[た]ちましたが、まだ 慣[な]れない 仕事[しごと]です。
+  Ein Monat ist vergangen, aber ich habe mich noch nicht an die Arbeit gewöhnt.
+
+  今月は大の月だから、給料日が遅くなるね。
+  今月[こんげつ]は 大[おお]の 月[つき]だから、給料日[きゅうりょうび]が 遅[おそ]くなるね。
+  Dieser Monat hat 31 Tage, also wird der Zahltag später sein.
+
+  彼女は月の障りで今日は休みます。
+  彼女[かのじょ]は 月[つき]の 障[さわ]りで 今日[きょう]は 休[やす]みます。
+  Sie nimmt heute wegen ihrer Periode frei.
+
+  赤ちゃんは月足らずで生まれたけど、元気です。
+  赤[あか]ちゃんは 月足[つきた]らずで 生[う]まれたけど、元気[げんき]です。
+  Das Baby wurde zu früh geboren, ist aber gesund.
+
+  盆の月は特別な雰囲気がありますね。
+  盆[ぼん]の 月[つき]は 特別[とくべつ]な 雰囲気[ふんいき]がありますね。
+  Der Mond während des Obon-Festes hat eine besondere Atmosphäre, nicht wahr?
+
+  月満つれば則ち虧く。
+  Der Flut folgt die Ebbe.
+
+  彼と私は月とすっぽんほど違う性格です。
+  彼[かれ]と 私[わたし]は 月[つき]とすっぽんほど 違[ちが]う 性格[せいかく]です。
+  Er und ich haben Persönlichkeiten so verschieden wie Tag und Nacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

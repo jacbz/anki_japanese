@@ -8,6 +8,8 @@ Wortart: phr, n
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '43'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -15,6 +17,10 @@ Beispielsätze: |-
   日本において国際会議が開かれた。
   日本[にっぽん]において 国際[こくさい] 会議[かいぎ]が 開[ひら]かれた。
   In Japan fand eine internationale Konferenz statt.
+
+  この会場において国際会議が行われる。
+  この 会場[かいじょう]において 国際[こくさい] 会議[かいぎ]が 行[おこな]われる。
+  An diesem Ort wird eine internationale Konferenz stattfinden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

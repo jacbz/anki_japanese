@@ -11,13 +11,91 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3
   class="inner"><span class="char">つ</span></span></span></span>
 Register: ''
 Dispersion: '71'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  二月が一年も最も寒い月です。
-  二月[にがつ]が一 年[ねん]も 最[もっと]も 寒[さむ]い 月[つき]です。
+  二月が一年で最も寒い月です。
+  二月[にがつ]が 一年[いちねん]で 最[もっと]も 寒[さむ]い 月[つき]です。
   Februar ist der kälteste Monat des Jahres.
+
+  二月中旬に友達の結婚式があります。
+  二月中旬[にがつちゅうじゅん]に 友達[ともだち]の 結婚式[けっこんしき]があります。
+  Mitte Februar findet die Hochzeit meines Freundes statt.
+
+  二月革命について歴史の授業で学びました。
+  二月革命[にがつかくめい]について 歴史[れきし]の 授業[じゅぎょう]で 学[まな]びました。
+  Wir haben in der Geschichtsstunde über die Februarrevolution gelernt.
+
+  二月は年が明けてから二番目の月ですね。
+  二月[にがつ]は 年[とし]が 明[あ]けてから 二番目[にばんめ]の 月[つき]ですね。
+  Februar ist der zweite Monat nach Neujahr, nicht wahr?
+
+  二月十二日午前九時四十分に待ち合わせしましょう。
+  二月十二日[にがつじゅうににち] 午前九時四十分[ごぜんくじよんじゅっぷん]に 待[ま]ち 合[あ]わせしましょう。
+  Lassen Sie uns am 12. Februar um 9:40 Uhr treffen.
+
+  二月は冬の終わりと春の始まりの境目の月だと感じます。
+  二月[にがつ]は 冬[ふゆ]の 終[お]わりと 春[はる]の 始[はじ]まりの 境目[さかいめ]の 月[つき]だと 感[かん]じます。
+  Ich empfinde den Februar als den Monat zwischen dem Ende des Winters und dem Beginn des Frühlings.
+
+  二月生まれの人は魚座か水瓶座です。
+  二月生[にがつう]まれの 人[ひと]は 魚座[うおざ]か 水瓶座[みずがめざ]です。
+  Menschen, die im Februar geboren sind, sind entweder Fische oder Wassermänner.
+
+  二月は月が少ないから、家賃の支払いが早く来るんだよね。
+  二月[にがつ]は 月[つき]が 少[すく]ないから、家賃[やちん]の 支払[しはら]いが 早[はや]く 来[く]るんだよね。
+  Da der Februar weniger Tage hat, kommt die Mietzahlung schneller, nicht wahr?
+
+  二月のカレンダーを見ると、うるう年かどうかすぐわかります。
+  二月[にがつ]のカレンダーを 見[み]ると、うるう 年[ねん]かどうかすぐわかります。
+  Wenn man den Februarkalender ansieht, erkennt man sofort, ob es ein Schaltjahr ist oder nicht.
+
+  二月は節分や建国記念の日など、日本の伝統行事が多い月です。
+  二月[にがつ]は 節分[せつぶん]や 建国記念[けんこくきねん]の 日[ひ]など、日本[にほん]の 伝統行事[でんとうぎょうじ]が 多[おお]い 月[つき]です。
+  Der Februar ist ein Monat mit vielen traditionellen japanischen Feiertagen wie Setsubun und dem Nationalen Gründungstag.
+
+  二月は短い月だけど、いろんな行事が詰まってるんだ。
+  二月[にがつ]は 短[みじか]い 月[つき]だけど、いろんな 行事[ぎょうじ]が 詰[つ]まってるんだ。
+  Obwohl der Februar ein kurzer Monat ist, ist er vollgepackt mit verschiedenen Ereignissen.
+
+  二月は寒いけど、梅の花が咲き始める美しい季節です。
+  二月[にがつ]は 寒[さむ]いけど、梅[うめ]の 花[はな]が 咲[さ]き 始[はじ]める 美[うつく]しい 季節[きせつ]です。
+  Der Februar ist zwar kalt, aber es ist eine schöne Jahreszeit, in der die Pflaumenblüten zu blühen beginnen.
+
+  二月の終わりには、少しずつ春の気配を感じられるようになりますね。
+  二月[にがつ]の 終[お]わりには、少[すこ]しずつ 春[はる]の 気配[けはい]を 感[かん]じられるようになりますね。
+  Gegen Ende Februar kann man allmählich die Anzeichen des Frühlings spüren, nicht wahr?
+
+  二月は冬の真っ只中だけど、日が長くなってきているのを感じるよ。
+  二月[にがつ]は 冬[ふゆ]の 真っ只中[まっただなか]だけど、日[ひ]が 長[なが]くなってきているのを 感[かん]じるよ。
+  Obwohl der Februar mitten im Winter liegt, spüre ich, dass die Tage länger werden.
+
+  二月は年度末が近づいてきて、仕事が忙しくなる時期だ。
+  二月[にがつ]は 年度末[ねんどまつ]が 近[ちか]づいてきて、仕事[しごと]が 忙[いそが]しくなる 時期[じき]だ。
+  Der Februar ist die Zeit, in der das Geschäftsjahresende näher rückt und die Arbeit hektischer wird.
+
+  二月は寒さのピークだけど、春への希望も感じられる月だね。
+  二月[にがつ]は 寒[さむ]さのピークだけど、春[はる]への 希望[きぼう]も 感[かん]じられる 月[つき]だね。
+  Der Februar ist zwar der Höhepunkt der Kälte, aber man kann auch die Hoffnung auf den Frühling spüren.
+
+  二月のバレンタインデーは、日本独特の文化になっているよね。
+  二月[にがつ]のバレンタインデーは、日本[にほん] 独特[どくとく]の 文化[ぶんか]になっているよね。
+  Der Valentinstag im Februar ist zu einer einzigartigen japanischen Kultur geworden, nicht wahr?
+
+  二月は冬の最後の月だから、春物の準備を始める人も多いんだ。
+  二月[にがつ]は 冬[ふゆ]の 最後[さいご]の 月[つき]だから、春物[はるもの]の 準備[じゅんび]を 始[はじ]める 人[ひと]も 多[おお]いんだ。
+  Da der Februar der letzte Wintermonat ist, beginnen viele Menschen mit den Vorbereitungen für die Frühlingsgarderobe.
+
+  二月は風邪やインフルエンザが流行るから、体調管理に気をつけてね。
+  二月[にがつ]は 風邪[かぜ]やインフルエンザが 流行[はや]るから、体調管理[たいちょうかんり]に 気[き]をつけてね。
+  Im Februar sind Erkältungen und Grippe weit verbreitet, also pass auf deine Gesundheit auf.
+
+  二月は一年で一番短い月だけど、大切な思い出をたくさん作れる月でもあるんだ。
+  二月[にがつ]は 一年[いちねん]で 一番[いちばん] 短[みじか]い 月[つき]だけど、大切[たいせつ]な 思い出[おもいで]をたくさん 作[つく]れる 月[つき]でもあるんだ。
+  Der Februar ist zwar der kürzeste Monat des Jahres, aber es ist auch ein Monat, in dem man viele wichtige Erinnerungen schaffen kann.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

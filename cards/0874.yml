@@ -14,13 +14,15 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-6"><span cla
   mola_-1"><span class="inner"><span class="char">つ</span></span></span></span>
 Register: ''
 Dispersion: '73'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   十一月二十三日は勤労感謝の日です。
   十一月[じゅういちがつ]二十三 日[にち]は 勤労感謝[きんろうかんしゃ]の 日[ひ]です。
-  Am 23. November ist Labor Thanksgiving Day.
+  Am 23. November ist der Tag des Dankes für die Arbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

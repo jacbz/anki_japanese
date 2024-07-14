@@ -10,17 +10,95 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span cla
   class="char">と</span></span></span></span>
 Register: ''
 Dispersion: '96'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今年はいろいろな事があった。
   今年[ことし]はいろいろな 事[こと]があった。
-  Dieses Jahr gab es allerlei Dinge.
+  Dieses Jahr sind allerlei Dinge passiert.
+
+  大切な事を忘れないようにメモしておきましょう。
+  大切[たいせつ]な 事[こと]を 忘[わす]れないようにメモしておきましょう。
+  Lassen Sie uns die wichtigen Dinge notieren, damit wir sie nicht vergessen.
+
+  急ぎの事があるので、早く帰らなければなりません。
+  急[いそ]ぎの 事[こと]があるので、早[はや]く 帰[かえ]らなければなりません。
+  Ich muss früh nach Hause gehen, weil ich dringende Angelegenheiten habe.
+
+  楽しい事がたくさんあると、毎日が充実します。
+  楽[たの]しい 事[こと]がたくさんあると、毎日[まいにち]が 充実[じゅうじつ]します。
+  Wenn es viele angenehme Dinge gibt, wird jeder Tag erfüllt sein.
+
+  考えさせる事を学ぶのは、知的成長に重要です。
+  考[かんが]えさせる 事[こと]を 学[まな]ぶのは、知的[ちてき] 成長[せいちょう]に 重要[じゅうよう]です。
+  Dinge zu lernen, die einen zum Nachdenken anregen, ist wichtig für die intellektuelle Entwicklung.
+
+  起こった事は仕方がないので、前を向いて進みましょう。
+  起[お]こった 事[こと]は 仕方[しかた]がないので、前[まえ]を 向[む]いて 進[すす]みましょう。
+  Was passiert ist, ist passiert. Lasst uns nach vorne schauen und weitermachen.
+
+  本当の事を話すのは、時に勇気が必要です。
+  本当[ほんとう]の 事[こと]を 話[はな]すのは、時[とき]に 勇気[ゆうき]が 必要[ひつよう]です。
+  Die Wahrheit zu sagen, erfordert manchmal Mut.
+
+  お母さんの言う事を聞くのは、大切なことです。
+  お母[かあ]さんの 言[い]う 事[こと]を 聞[き]くのは、大切[たいせつ]なことです。
+  Auf seine Mutter zu hören, ist eine wichtige Sache.
+
+  できるだけの事をしましたが、結果は思わしくありませんでした。
+  できるだけの 事[こと]をしましたが、結果[けっか]は 思[おも]わしくありませんでした。
+  Ich habe mein Bestes getan, aber das Ergebnis war nicht zufriedenstellend.
+
+  一つの事にすべての希望をかけるのは、リスクが高いかもしれません。
+  一[ひと]つの 事[こと]にすべての 希望[きぼう]をかけるのは、リスクが 高[たか]いかもしれません。
+  Alle Hoffnung auf eine Sache zu setzen, könnte riskant sein.
+
+  どうでもいい事にこだわらず、本質的な問題に集中しましょう。
+  どうでもいい 事[こと]にこだわらず、本質的[ほんしつてき]な 問題[もんだい]に 集中[しゅうちゅう]しましょう。
+  Lassen Sie uns nicht an unwichtigen Dingen festhalten, sondern uns auf die wesentlichen Probleme konzentrieren.
+
+  彼は私の事をわかってくれないので、関係が難しくなっています。
+  彼[かれ]は 私[わたし]の 事[こと]をわかってくれないので、関係[かんけい]が 難[むずか]しくなっています。
+  Er versteht mich nicht, deshalb wird unsere Beziehung schwierig.
+
+  コンピューターの事に詳しい人を探しています。
+  コンピューターの 事[こと]に 詳[くわ]しい 人[ひと]を 探[さが]しています。
+  Ich suche jemanden, der sich mit Computern auskennt.
+
+  何か事が起きたら、すぐに連絡してください。
+  何[なに]か 事[こと]が 起[お]きたら、すぐに 連絡[れんらく]してください。
+  Bitte kontaktieren Sie mich sofort, wenn etwas passiert.
+
+  万一の事があっても、冷静に対応することが大切です。
+  万一[まんいち]の 事[こと]があっても、冷静[れいせい]に 対応[たいおう]することが 大切[たいせつ]です。
+  Es ist wichtig, auch im schlimmsten Fall ruhig zu reagieren.
+
+  失敗した時の事を考えて、対策を立てておくべきです。
+  失敗[しっぱい]した 時[とき]の 事[こと]を 考[かんが]えて、対策[たいさく]を 立[た]てておくべきです。
+  Wir sollten über den Fall des Scheiterns nachdenken und Gegenmaßnahmen vorbereiten.
+
+  どんな事があっても、諦めずに頑張り続けましょう。
+  どんな 事[こと]があっても、諦[あきら]めずに 頑張[がんば]り 続[つづ]けましょう。
+  Lassen Sie uns weiterkämpfen, egal was passiert.
+
+  事によっては、計画を変更する必要があるかもしれません。
+  事[こと]によっては、計画[けいかく]を 変更[へんこう]する 必要[ひつよう]があるかもしれません。
+  Je nach Umständen müssen wir möglicherweise unsere Pläne ändern.
+
+  うまい事抜け出して、難しい状況を乗り越えました。
+  うまい 事[こと] 抜[ぬ]け 出[だ]して、難[むずか]しい 状況[じょうきょう]を 乗[の]り 越[こ]えました。
+  Ich habe mich geschickt aus der Situation herausmanövriert und die schwierige Lage überwunden.
+
+  長い事待っていましたが、やっと目標を達成しました。
+  長[なが]い 事[こと] 待[ま]っていましたが、やっと 目標[もくひょう]を 達成[たっせい]しました。
+  Ich habe lange gewartet, aber endlich mein Ziel erreicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: Sache, Angelegenheit

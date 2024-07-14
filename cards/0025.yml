@@ -1,8 +1,8 @@
 Rang: 25
 Lemma: ある
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: sein (Existenz), haben (Besitz), geschehen, vorkommen; ein (gewisser)
+Alternativschreibweisen: 有る・在る
+Definition: sein, existieren; haben; geschehen; ein (gewisser)
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2"><span
@@ -10,6 +10,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2
   class="inner"><span class="char">る</span></span></span></span>
 Register: ''
 Dispersion: '98'
+Ursprung: ''
+Konjugation: ない<br>なかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -21,6 +23,174 @@ Beispielsätze: |-
   私は去年、あるプロジェクトに関わった。
   私[わたし]は 去年[きょねん]、あるプロジェクトに 関[かか]わった。
   Letztes Jahr war ich an einem gewissen Projekt beteiligt.
+
+  近所にコンビニがあるので便利です。
+  近所[きんじょ]にコンビニがあるので 便利[べんり]です。
+  Es ist praktisch, dass es einen Convenience Store in der Nähe gibt.
+
+  明日、重要な話があります。
+  明日[あした]、重要[じゅうよう]な 話[はなし]があります。
+  Morgen gibt es ein wichtiges Gespräch.
+
+  ここに面白い本がある。読んでみませんか。
+  ここに 面白[おもしろ]い 本[ほん]がある。 読[よ]んでみませんか。
+  Hier ist ein interessantes Buch. Möchtest du es nicht mal lesen?
+
+  この問題を解決する可能性は十分にあると思います。
+  この 問題[もんだい]を 解決[かいけつ]する 可能性[かのうせい]は 十分[じゅうぶん]にあると 思[おも]います。
+  Ich denke, es gibt durchaus die Möglichkeit, dieses Problem zu lösen.
+
+  彼は難しい立場にあるが、頑張っている。
+  彼[かれ]は 難[むずか]しい 立場[たちば]にあるが、頑張[がんば]っている。
+  Er befindet sich in einer schwierigen Position, aber er gibt sein Bestes.
+
+  今日はやることがいっぱいあるんだ。
+  今日[きょう]はやることがいっぱいあるんだ。
+  Ich habe heute viel zu tun.
+
+  この言葉には深い意味がある。
+  この 言葉[ことば]には 深[ふか]い 意味[いみ]がある。
+  Dieses Wort hat eine tiefe Bedeutung.
+
+  彼女は自信があって、とても魅力的だ。
+  彼女[かのじょ]は 自信[じしん]があって、とても 魅力的[みりょくてき]だ。
+  Sie hat Selbstvertrauen und ist sehr attraktiv.
+
+  新しいプロジェクトの計画がありますか。
+  新[あたら]しいプロジェクトの 計画[けいかく]がありますか。
+  Haben Sie einen Plan für das neue Projekt?
+
+  彼にはこの仕事の経験がある。
+  彼[かれ]にはこの 仕事[しごと]の 経験[けいけん]がある。
+  Er hat Erfahrung in dieser Arbeit.
+
+  将来の希望があれば、頑張れるよ。
+  将来[しょうらい]の 希望[きぼう]があれば、頑張[がんば]れるよ。
+  Wenn du Hoffnung für die Zukunft hast, kannst du dein Bestes geben.
+
+  少し熱があるみたいです。
+  少[すこ]し 熱[ねつ]があるみたいです。
+  Es scheint, als hätte ich etwas Fieber.
+
+  その顔、どこかで見た覚えがあるな。
+  その 顔[かお]、どこかで 見[み]た 覚[おぼ]えがあるな。
+  Ich habe das Gefühl, dieses Gesicht schon irgendwo gesehen zu haben.
+
+  お金があれば、世界旅行に行きたい。
+  お金[かね]があれば、世界旅行[せかいりょこう]に 行[い]きたい。
+  Wenn ich Geld hätte, würde ich gerne eine Weltreise machen.
+
+  彼女は音楽の才能がある。
+  彼女[かのじょ]は 音楽[おんがく]の 才能[さいのう]がある。
+  Sie hat ein Talent für Musik.
+
+  明日、重要な用事があるので早く寝ます。
+  明日[あした]、重要[じゅうよう]な 用事[ようじ]があるので 早[はや]く 寝[ね]ます。
+  Ich gehe früh schlafen, weil ich morgen einen wichtigen Termin habe.
+
+  今日は時間があるので、ゆっくりできますね。
+  今日[きょう]は 時間[じかん]があるので、ゆっくりできますね。
+  Heute haben wir Zeit, also können wir es ruhig angehen lassen.
+
+  この荷物は3キロもあるよ。
+  この 荷物[にもつ]は3キロもあるよ。
+  Dieses Gepäck wiegt bestimmt drei Kilo.
+
+  昨日、大きな地震があった。
+  昨日[きのう]、大[おお]きな 地震[じしん]があった。
+  Gestern gab es ein schweres Erdbeben.
+
+  彼とは時々すねることがあるけど、仲は良いんだ。
+  彼[かれ]とは 時々[ときどき]すねることがあるけど、仲[なか]は 良[よ]いんだ。
+  Manchmal schmollen wir zwar, aber wir verstehen uns gut.
+
+  ドイツに行ったことがありますか。
+  ドイツに 行[い]ったことがありますか。
+  Waren Sie schon einmal in Deutschland?
+
+  彼女はブラジルへ行ったことがありません。
+  彼女[かのじょ]はブラジルへ 行[い]ったことがありません。
+  Sie war noch nie in Brasilien.
+
+  ある日、突然彼女から連絡がありました。
+  ある 日[ひ]、突然[とつぜん] 彼女[かのじょ]から 連絡[れんらく]がありました。
+  Eines Tages erhielt ich plötzlich eine Nachricht von ihr.
+
+  ある人が私に面白い本を薦めてくれました。
+  ある 人[ひと]が 私[わたし]に 面白[おもしろ]い 本[ほん]を 薦[すす]めてくれました。
+  Jemand hat mir ein interessantes Buch empfohlen.
+
+  ある意味で、彼の行動は理解できます。
+  ある 意味[いみ]で、彼[かれ]の 行動[こうどう]は 理解[りかい]できます。
+  In gewissem Sinne kann ich sein Verhalten verstehen.
+
+  ある程度まで状況は改善されましたが、まだ問題は残っています。
+  ある 程度[ていど]まで 状況[じょうきょう]は 改善[かいぜん]されましたが、まだ 問題[もんだい]は 残[のこ]っています。
+  Bis zu einem gewissen Grad hat sich die Situation verbessert, aber es gibt noch Probleme.
+
+  ある金曜の晩から雪が降りはじめ、土曜にも降りつづけた。
+  ある 金曜[きんよう]の 晩[ばん]から 雪[ゆき]が 降[ふ]りはじめ、土曜[どよう]にも 降[ふ]りつづけた。
+  Eines Freitagabends begann es zu schneien und schneite auch am Samstag weiter.
+
+  ある朝、目覚めると世界が一変していた。
+  ある 朝[あさ]、目覚[めざ]めると 世界[せかい]が 一変[いっぺん]していた。
+  An einem Morgen wachte ich auf und die Welt hatte sich verändert.
+
+  ある日の暮れ方、公園で不思議な出来事が起こった。
+  ある 日[ひ]の 暮[く]れ 方[がた]、公園[こうえん]で 不思議[ふしぎ]な 出来事[できごと]が 起[お]こった。
+  Eines Abends ereignete sich etwas Seltsames im Park.
+
+  ある哲学者の言葉が私の人生観を変えました。
+  ある 哲学者[てつがくしゃ]の 言葉[ことば]が 私[わたし]の 人生観[じんせいかん]を 変[か]えました。
+  Die Worte eines Philosophen haben meine Lebensanschauung verändert.
+
+  ある不安のようなものが心の底に潜んでいる。
+  ある 不安[ふあん]のようなものが 心[こころ]の 底[そこ]に 潜[ひそ]んでいる。
+  Eine Art Besorgnis lauert tief in meinem Herzen.
+
+  ある場合には、例外を認めることも必要です。
+  ある 場合[ばあい]には、例外[れいがい]を 認[みと]めることも 必要[ひつよう]です。
+  In manchen Fällen ist es notwendig, Ausnahmen zuzulassen.
+
+  ある種の態度が、人間関係を損なうことがあります。
+  ある 種[しゅ]の 態度[たいど]が、人間関係[にんげんかんけい]を 損[そこ]なうことがあります。
+  Eine gewisse Haltung kann zwischenmenschliche Beziehungen beeinträchtigen.
+
+  ある時、私は人生の岐路に立たされました。
+  ある 時[とき]、私[わたし]は 人生[じんせい]の 岐路[きろ]に 立[た]たされました。
+  Einmal stand ich an einem Scheideweg in meinem Leben.
+
+  彼女はある日突然、海外に引っ越すと言い出した。
+  彼女[かのじょ]はある 日[ひ] 突然[とつぜん]、海外[かいがい]に 引[ひ]っ 越[こ]すと 言[い]い 出[だ]した。
+  Eines Tages kündigte sie plötzlich an, ins Ausland zu ziehen.
+
+  ある人物が匿名で大きな寄付をしました。
+  ある 人物[じんぶつ]が 匿名[とくめい]で 大[おお]きな 寄付[きふ]をしました。
+  Eine gewisse Person machte anonym eine große Spende.
+
+  ある意味で、失敗は成功への第一歩と言えるでしょう。
+  ある 意味[いみ]で、失敗[しっぱい]は 成功[せいこう]への 第一歩[だいいっぽ]と 言[い]えるでしょう。
+  In gewissem Sinne könnte man sagen, dass Misserfolg der erste Schritt zum Erfolg ist.
+
+  ある程度の困難は避けられないものです。
+  ある 程度[ていど]の 困難[こんなん]は 避[さ]けられないものです。
+  Ein gewisses Maß an Schwierigkeiten ist unvermeidlich.
+
+  ある金曜日、会社が突然休みになった。
+  ある 金曜日[きんようび]、会社[かいしゃ]が 突然[とつぜん] 休[やす]みになった。
+  An einem Freitag wurde die Firma plötzlich geschlossen.
+
+  ある朝、庭に珍しい鳥が来ているのを発見した。
+  ある 朝[あさ]、庭[にわ]に 珍[めずら]しい 鳥[とり]が 来[き]ているのを 発見[はっけん]した。
+  Eines Morgens entdeckte ich einen seltenen Vogel in meinem Garten.
+
+  ある日の午後、偶然古い友人に出会った。
+  ある 日[ひ]の 午後[ごご]、偶然[ぐうぜん] 古[ふる]い 友人[ゆうじん]に 出会[であ]った。
+  Eines Nachmittags traf ich zufällig einen alten Freund.
+
+  ある哲学者の本を読んで、新しい考え方を学んだ。
+  ある 哲学者[てつがくしゃ]の 本[ほん]を 読[よ]んで、新[あたら]しい 考[かんが]え 方[かた]を 学[まな]んだ。
+  Durch das Lesen eines Buches von einem Philosophen lernte ich eine neue Denkweise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

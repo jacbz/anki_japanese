@@ -12,6 +12,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span cla
   class="char">の</span></span></span></span>
 Register: ''
 Dispersion: '83'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -19,6 +21,82 @@ Beispielsätze: |-
   嫌いな食べ物がありますか。
   嫌[きら]いな 食[た]べ 物[もの]がありますか。
   Gibt es Essen, das du nicht magst?
+
+  ヘルシーな食べ物を選ぶように心がけています。
+  ヘルシーな 食[た]べ 物[もの]を 選[えら]ぶように 心[こころ]がけています。
+  Ich achte darauf, gesunde Lebensmittel auszuwählen.
+
+  持ちのよい食べ物を買って備蓄しておきましょう。
+  持[も]ちのよい 食[た]べ 物[もの]を 買[か]って 備蓄[びちく]しておきましょう。
+  Lasst uns haltbare Nahrungsmittel kaufen und einlagern.
+
+  好みの食べ物は何ですか？
+  好[この]みの 食[た]べ 物[もの]は 何[なん]ですか？
+  Was ist dein Lieblingsessen?
+
+  食べ慣れた食べ物は心が落ち着きますね。
+  食[た]べ 慣[な]れた 食[た]べ 物[もの]は 心[こころ]が 落[お]ち 着[つ]きますね。
+  Gewohnte Speisen beruhigen einen, nicht wahr?
+
+  彼は食べ物が偏っているので、栄養バランスが心配です。
+  彼[かれ]は 食[た]べ 物[もの]が 偏[かたよ]っているので、栄養[えいよう]バランスが 心配[しんぱい]です。
+  Ich mache mir Sorgen um seinen Nährstoffhaushalt, da er sich unausgewogen ernährt.
+
+  発展途上国では、食べ物が足りない人々がたくさんいます。
+  発展途上国[はってんとじょうこく]では、食[た]べ 物[もの]が 足[た]りない 人々[ひとびと]がたくさんいます。
+  In Entwicklungsländern gibt es viele Menschen, die nicht genug zu essen haben.
+
+  祖父は食べ物にうるさくて、外食するのが大変です。
+  祖父[そふ]は 食[た]べ 物[もの]にうるさくて、外食[がいしょく]するのが 大変[たいへん]です。
+  Mein Großvater stellt hohe Ansprüche an das Essen, daher ist es schwierig, mit ihm auswärts zu essen.
+
+  弟は食べ物の好き嫌いが激しくて、困っています。
+  弟[おとうと]は 食[た]べ 物[もの]の 好[す]き 嫌[きら]いが 激[はげ]しくて、困[こま]っています。
+  Mein kleiner Bruder ist beim Essen äußerst wählerisch, was Probleme bereitet.
+
+  食べ物を粗末にするのはよくないですよ。
+  食[た]べ 物[もの]を 粗末[そまつ]にするのはよくないですよ。
+  Es ist nicht gut, verschwenderisch mit Lebensmitteln umzugehen.
+
+  患者さんが食べ物を一切受け付けないので、医師に相談しました。
+  患者[かんじゃ]さんが 食[た]べ 物[もの]を 一切[いっさい] 受[う]け 付[つ]けないので、医師[いし]に 相談[そうだん]しました。
+  Da der Patient jegliche Nahrung verweigert, habe ich den Arzt konsultiert.
+
+  寒い日は温かい食べ物が恋しくなりますね。
+  寒[さむ]い 日[ひ]は 温[あたた]かい 食[た]べ 物[もの]が 恋[こい]しくなりますね。
+  An kalten Tagen sehnt man sich nach warmem Essen, nicht wahr?
+
+  夏は冷たい食べ物が人気です。
+  夏[なつ]は 冷[つめ]たい 食[た]べ 物[もの]が 人気[にんき]です。
+  Im Sommer sind kalte Speisen beliebt.
+
+  加熱処理した食べ物は長持ちしますが、栄養が失われることもあります。
+  加熱処理[かねつしょり]した 食[た]べ 物[もの]は 長持[ながも]ちしますが、栄養[えいよう]が 失[うしな]われることもあります。
+  Hitzebehandelte Nahrungsmittel sind zwar länger haltbar, können aber auch Nährstoffe verlieren.
+
+  子供に食べ物をやるときは、小さく切って与えましょう。
+  子供[こども]に 食[た]べ 物[もの]をやるときは、小[ちい]さく 切[き]って 与[あた]えましょう。
+  Wenn man Kindern zu essen gibt, sollte man es in kleine Stücke schneiden.
+
+  ペットに人間の食べ物をやるのは控えめにしましょう。
+  ペットに 人間[にんげん]の 食[た]べ 物[もの]をやるのは 控[ひか]えめにしましょう。
+  Man sollte zurückhaltend damit sein, Haustieren menschliche Nahrung zu geben.
+
+  あぶらっこい食べ物は、年をとったら避けるべきですか？
+  あぶらっこい 食[た]べ 物[もの]は、年[とし]をとったら 避[さ]けるべきですか？
+  Soll man im Alter fettige Kost vermeiden?
+
+  毎日の食べ物は米のほか菜一椀、大根で、時には塩漬の鰯をくれる。
+  毎日[まいにち]の 食[た]べ 物[もの]は 米[こめ]のほか 菜[な] 一椀[いっわん]、大根[だいこん]で、時[とき]には 塩漬[しおづ]けの 鰯[いわし]をくれる。
+  Unsere tägliche Nahrung besteht aus Reis, einer Schüssel Gemüse und Rettich, manchmal bekommen wir auch eingelegte Sardinen.
+
+  家の中の食べ物は一切断りなく食べたりしてはいけないことになっていた。
+  家[いえ]の 中[なか]の 食[た]べ 物[もの]は 一切[いっさい] 断[ことわ]りなく 食[た]べたりしてはいけないことになっていた。
+  Es wurde festgelegt, dass wir ohne Erlaubnis überhaupt nichts im Haus essen durften.
+
+  口に食べ物を頬張ったまま喋っているらしく、所々聞き取りにくかった。
+  口[くち]に 食[た]べ 物[もの]を 頬張[ほおば]ったまま 喋[しゃべ]っているらしく、所々[ところどころ] 聞[き]き 取[と]りにくかった。
+  Es schien, als ob sie mit vollem Mund sprach, sodass es stellenweise schwer zu verstehen war.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

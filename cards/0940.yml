@@ -10,6 +10,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-2
   class="inner"><span class="char">る</span></span></span></span>
 Register: ''
 Dispersion: '93'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +19,82 @@ Beispielsätze: |-
   春には桜が咲く。
   春[はる]には 桜[さくら]が 咲[さ]く。
   Im Frühling blühen die Kirschblüten.
+
+  春が来るのを心待ちにしています。
+  春[はる]が 来[く]るのを 心待[こころま]ちにしています。
+  Ich kann es kaum erwarten, dass der Frühling kommt.
+
+  春になると、日が長くなります。
+  春[はる]になると、日[ひ]が 長[なが]くなります。
+  Wenn es Frühling wird, werden die Tage länger.
+
+  春らしい陽気になってきましたね。
+  春[はる]らしい 陽気[ようき]になってきましたね。
+  Es wird allmählich frühlingshaftes Wetter, nicht wahr?
+
+  春たけなわの時期に花見に行きましょう。
+  春[はる]たけなわの 時期[じき]に 花見[はなみ]に 行[い]きましょう。
+  Lass uns zur Kirschblütenzeit, wenn der Frühling in voller Blüte steht, Blumen betrachten gehen.
+
+  春用のコートを買いに行く必要があります。
+  春用[はるよう]のコートを 買[か]いに 行[い]く 必要[ひつよう]があります。
+  Ich muss einen Frühlingsmantel kaufen gehen.
+
+  彼女は十五歳の春を迎えた。
+  彼女[かのじょ]は 十五歳[じゅうごさい]の 春[はる]を 迎[むか]えた。
+  Sie ist fünfzehn Jahre alt geworden.
+
+  去年の春に日本へ旅行しました。
+  去年[きょねん]の 春[はる]に 日本[にほん]へ 旅行[りょこう]しました。
+  Letztes Jahr im Frühling bin ich nach Japan gereist.
+
+  来年の春には大学を卒業します。
+  来年[らいねん]の 春[はる]には 大学[だいがく]を 卒業[そつぎょう]します。
+  Nächstes Jahr im Frühling werde ich meinen Universitätsabschluss machen.
+
+  行く春を惜しむ気持ちがあります。
+  行[ゆ]く 春[はる]を 惜[お]しむ 気持[きも]ちがあります。
+  Ich habe das Gefühl, den zu Ende gehenden Frühling zu bedauern.
+
+  春の朝は清々しい気分になります。
+  春[はる]の 朝[あさ]は 清々[すがすが]しい 気分[きぶん]になります。
+  An Frühlingsmorgen fühle ich mich erfrischt.
+
+  春の服を着て、外出するのが楽しみです。
+  春[はる]の 服[ふく]を 着[き]て、外出[がいしゅつ]するのが 楽[たの]しみです。
+  Ich freue mich darauf, Frühlingskleidung anzuziehen und auszugehen.
+
+  春の花が咲き始めるのを見るのが好きです。
+  春[はる]の 花[はな]が 咲[さ]き 始[はじ]めるのを 見[み]るのが 好[す]きです。
+  Ich mag es, zu sehen, wie die Frühlingsblumen zu blühen beginnen.
+
+  春の歌を聴くと、心が温かくなります。
+  春[はる]の 歌[うた]を 聴[き]くと、心[こころ]が 温[あたた]かくなります。
+  Wenn ich Frühlingslieder höre, wird mir warm ums Herz.
+
+  今日は春のように暖かいですね。
+  今日[きょう]は 春[はる]のように 暖[あたた]かいですね。
+  Heute ist es warm wie im Frühling, nicht wahr?
+
+  新しい春を迎え、新たな目標を立てました。
+  新[あたら]しい 春[はる]を 迎[むか]え、新[あら]たな 目標[もくひょう]を 立[た]てました。
+  Zum Beginn des neuen Jahres habe ich mir neue Ziele gesetzt.
+
+  人生の春を謳歌している若者たち。
+  人生[じんせい]の 春[はる]を 謳歌[おうか]している 若者[わかもの]たち。
+  Die jungen Leute, die den Frühling ihres Lebens in vollen Zügen genießen.
+
+  春の目覚めを感じる季節になりました。
+  春[はる]の 目覚[めざ]めを 感[かん]じる 季節[きせつ]になりました。
+  Es ist die Jahreszeit geworden, in der man das Erwachen des Frühlings spürt.
+
+  春を探しに公園へ散歩に行きましょう。
+  春[はる]を 探[さが]しに 公園[こうえん]へ 散歩[さんぽ]に 行[い]きましょう。
+  Lass uns in den Park spazieren gehen, um den Frühling zu suchen.
+
+  春が立つと、自然が生き返るように感じます。
+  春[はる]が 立[た]つと、自然[しぜん]が 生[い]き 返[かえ]るように 感[かん]じます。
+  Wenn der Frühling beginnt, fühlt es sich an, als würde die Natur wieder zum Leben erwachen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

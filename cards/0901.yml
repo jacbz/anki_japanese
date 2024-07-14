@@ -2,7 +2,7 @@ Rang: 901
 Lemma: 命
 Lesung: いのち
 Alternativschreibweisen: ''
-Definition: Leben
+Definition: Leben, Existenz
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3"><span
@@ -11,13 +11,91 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="accent_top mola_-3
   class="inner"><span class="char">ち</span></span></span></span>
 Register: ''
 Dispersion: '95'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   命を大切にすべきだ。
   命[いのち]を 大切[たいせつ]にすべきだ。
-  Du solltest dein Leben wertschätzen.
+  Man sollte das Leben wertschätzen.
+
+  彼女は命の危険を顧みず、溺れている子供を助けた。
+  彼女[かのじょ]は 命[いのち]の 危険[きけん]を 顧[かえり]みず、溺[おぼ]れている 子供[こども]を 助[たす]けた。
+  Sie rettete das ertrinkende Kind, ohne Rücksicht auf ihr eigenes Leben.
+
+  命あっての物種だ。何よりも健康第一だよ。
+  命[いのち]あっての 物種[ものだね]だ。何[なに]よりも 健康[けんこう] 第一[だいいち]だよ。
+  Das Leben ist die Grundlage für alles. Gesundheit geht vor allem anderen.
+
+  医者は必死に患者の命を救おうと奮闘した。
+  医者[いしゃ]は 必死[ひっし]に 患者[かんじゃ]の 命[いのち]を 救[すく]おうと 奮闘[ふんとう]した。
+  Der Arzt kämpfte verzweifelt darum, das Leben des Patienten zu retten.
+
+  この薬で命が長らえるかもしれない。
+  この 薬[くすり]で 命[いのち]が 長[なが]らえるかもしれない。
+  Dieses Medikament könnte das Leben verlängern.
+
+  彼は命がけでその仕事に取り組んでいる。
+  彼[かれ]は 命[いのち]がけでその 仕事[しごと]に 取[と]り 組[く]んでいる。
+  Er arbeitet mit vollem Einsatz an dieser Aufgabe.
+
+  命のある限り、夢を追い続けたい。
+  命[いのち]のある 限[かぎ]り、夢[ゆめ]を 追[お]い 続[つづ]けたい。
+  Solange ich lebe, möchte ich meine Träume weiter verfolgen.
+
+  彼女は命の恩人だ。事故で危険な目に遭ったとき助けてくれた。
+  彼女[かのじょ]は 命[いのち]の 恩人[おんじん]だ。事故[じこ]で 危険[きけん]な 目[め]に 遭[あ]ったとき 助[たす]けてくれた。
+  Sie ist meine Lebensretterin. Sie half mir, als ich bei einem Unfall in Gefahr geriet.
+
+  命を落とすことはなかったが、大怪我をした。
+  命[いのち]を 落[お]とすことはなかったが、大怪我[おおけが]をした。
+  Ich verlor zwar nicht mein Leben, aber ich wurde schwer verletzt.
+
+  彼は命を捧げて国のために戦った。
+  彼[かれ]は 命[いのち]を 捧[ささ]げて 国[くに]のために 戦[たたか]った。
+  Er kämpfte für sein Land und opferte sein Leben dafür.
+
+  命を狙われているので、警察の保護下にある。
+  命[いのち]を 狙[ねら]われているので、警察[けいさつ]の 保護下[ほごか]にある。
+  Da sein Leben bedroht wird, steht er unter Polizeischutz.
+
+  命を永らえるためには、健康的な生活習慣が大切だ。
+  命[いのち]を 永[なが]らえるためには、健康的[けんこうてき]な 生活習慣[せいかつしゅうかん]が 大切[たいせつ]だ。
+  Um das Leben zu verlängern, sind gesunde Lebensgewohnheiten wichtig.
+
+  命を削るような激しい労働は避けるべきだ。
+  命[いのち]を 削[けず]るような 激[はげ]しい 労働[ろうどう]は 避[さ]けるべきだ。
+  Man sollte harte Arbeit vermeiden, die das Leben verkürzt.
+
+  彼女は命をかけてこのプロジェクトに取り組んでいる。
+  彼女[かのじょ]は 命[いのち]をかけてこのプロジェクトに 取[と]り 組[く]んでいる。
+  Sie widmet sich diesem Projekt mit vollem Einsatz.
+
+  命あっての物種だから、無理はしないでね。
+  命[いのち]あっての 物種[ものだね]だから、無理[むり]はしないでね。
+  Da das Leben die Grundlage für alles ist, überanstrenge dich nicht.
+
+  命の電話は、自殺を考えている人々を支援している。
+  命[いのち]の 電話[でんわ]は、自殺[じさつ]を 考[かんが]えている 人々[ひとびと]を 支援[しえん]している。
+  Die Telefonseelsorge unterstützt Menschen, die an Selbstmord denken.
+
+  彼は命がけで溺れている子供を救出した。
+  彼[かれ]は 命[いのち]がけで 溺[おぼ]れている 子供[こども]を 救出[きゅうしゅつ]した。
+  Er rettete das ertrinkende Kind unter Einsatz seines Lebens.
+
+  命の洗濯をするために、たまには旅行に行くのもいいね。
+  命[いのち]の 洗濯[せんたく]をするために、たまには 旅行[りょこう]に 行[い]くのもいいね。
+  Um sich zu erholen, ist es manchmal gut, eine Reise zu machen.
+
+  命の恩人には一生感謝の気持ちを忘れません。
+  命[いのち]の 恩人[おんじん]には 一生[いっしょう] 感謝[かんしゃ]の 気持[きも]ちを 忘[わす]れません。
+  Ich werde meinem Lebensretter lebenslang dankbar sein.
+
+  命を懸けてでも守りたいものがある。
+  命[いのち]を 懸[か]けてでも 守[まも]りたいものがある。
+  Es gibt Dinge, die ich selbst unter Einsatz meines Lebens beschützen möchte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

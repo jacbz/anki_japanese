@@ -12,13 +12,95 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span cla
   class="char">か</span></span></span></span>
 Register: ''
 Dispersion: '86'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   世の中にはいろいろな人がいる。
-  世[よ]の 中[なか]にはいろいろな人がいる。
-  Es braucht alle Arten von Menschen, um eine Welt zu machen.
+  世[よ]の 中[なか]にはいろいろな 人[ひと]がいる。
+  Es gibt alle Arten von Menschen in der Welt.
+
+  彼は世の中へ出て、自立することを決意した。
+  彼[かれ]は 世[よ]の 中[なか]へ 出[で]て、自立[じりつ]することを 決意[けつい]した。
+  Er beschloss, in die Welt hinauszugehen und selbstständig zu werden.
+
+  最近の世の中の変化についていけない。
+  最近[さいきん]の 世[よ]の 中[なか]の 変化[へんか]についていけない。
+  Ich kann mit den jüngsten Veränderungen in der Gesellschaft nicht Schritt halten.
+
+  世の中が騒がしくなると、平和の大切さを実感する。
+  世[よ]の 中[なか]が 騒[さわ]がしくなると、平和[へいわ]の 大切[たいせつ]さを 実感[じっかん]する。
+  Wenn die Welt unruhig wird, spürt man den Wert des Friedens.
+
+  新しい技術が世の中に広まるのは早い。
+  新[あたら]しい 技術[ぎじゅつ]が 世[よ]の 中[なか]に 広[ひろ]まるのは 早[はや]い。
+  Neue Technologien verbreiten sich schnell in der Gesellschaft.
+
+  世の中の暗黒面を知ると、現実の厳しさを感じる。
+  世[よ]の 中[なか]の 暗黒面[あんこくめん]を 知[し]ると、現実[げんじつ]の 厳[きび]しさを 感[かん]じる。
+  Wenn man die dunklen Seiten der Welt kennenlernt, spürt man die Härte der Realität.
+
+  世の中のありさまを見ると、まだまだ改善の余地があると思う。
+  世[よ]の 中[なか]のありさまを 見[み]ると、まだまだ 改善[かいぜん]の 余地[よち]があると 思[おも]う。
+  Wenn man die Verhältnisse in der Welt betrachtet, denkt man, dass es noch viel Raum für Verbesserungen gibt.
+
+  哲学者は世の中の空しさについてよく語る。
+  哲学者[てつがくしゃ]は 世[よ]の 中[なか]の 空[むな]しさについてよく 語[かた]る。
+  Philosophen sprechen oft über die Vergänglichkeit der Welt.
+
+  世の中の移り変わりを感じると、時の流れの速さに驚く。
+  世[よ]の 中[なか]の 移[うつ]り 変[か]わりを 感[かん]じると、時[とき]の 流[なが]れの 速[はや]さに 驚[おどろ]く。
+  Wenn man den Wandel der Zeit spürt, ist man überrascht, wie schnell die Zeit vergeht.
+
+  彼は世の中を知らない人で、現実離れした考えを持っている。
+  彼[かれ]は 世[よ]の 中[なか]を 知[し]らない 人[ひと]で、現実離[げんじつばな]れした 考[かんが]えを 持[も]っている。
+  Er ist ein weltfremder Mensch mit unrealistischen Vorstellungen.
+
+  ある国が世の中を支配しようとすると、他の国々が反発する。
+  ある 国[くに]が 世[よ]の 中[なか]を 支配[しはい]しようとすると、他[ほか]の 国々[くにぐに]が 反発[はんぱつ]する。
+  Wenn ein Land versucht, die Welt zu beherrschen, lehnen sich andere Länder dagegen auf.
+
+  上手に世の中を渡るには、人間関係が大切だ。
+  上手[じょうず]に 世[よ]の 中[なか]を 渡[わた]るには、人間関係[にんげんかんけい]が 大切[たいせつ]だ。
+  Um gut durchs Leben zu kommen, sind zwischenmenschliche Beziehungen wichtig.
+
+  ボランティア活動を通じて、世の中をよくしたいと思う。
+  ボランティア 活動[かつどう]を 通[つう]じて、世[よ]の 中[なか]をよくしたいと 思[おも]う。
+  Durch ehrenamtliche Tätigkeiten möchte ich die Welt verbessern.
+
+  戦争で荒廃した後は、味気ない世の中だった。
+  戦争[せんそう]で 荒廃[こうはい]した 後[あと]は、味気[あじけ]ない 世[よ]の 中[なか]だった。
+  Nach der Verwüstung durch den Krieg war es eine trostlose Welt.
+
+  原子力の世の中になって、エネルギー問題が大きく変わった。
+  原子力[げんしりょく]の 世[よ]の 中[なか]になって、エネルギー 問題[もんだい]が 大[おお]きく 変[か]わった。
+  Mit dem Einzug ins Atomzeitalter haben sich die Energiefragen stark verändert.
+
+  平和な世の中を築くには、みんなの努力が必要だ。
+  平和[へいわ]な 世[よ]の 中[なか]を 築[きず]くには、みんなの 努力[どりょく]が 必要[ひつよう]だ。
+  Um eine friedliche Welt aufzubauen, braucht es die Anstrengungen aller.
+
+  今のような世の中では、デジタルスキルが重要になっている。
+  今[いま]のような 世[よ]の 中[なか]では、デジタルスキルが 重要[じゅうよう]になっている。
+  In Zeiten wie diesen werden digitale Fähigkeiten immer wichtiger.
+
+  乱れた世の中を正すのは、私たち一人一人の責任だ。
+  乱[みだ]れた 世[よ]の 中[なか]を 正[ただ]すのは、私[わたし]たち 一人一人[ひとりひとり]の 責任[せきにん]だ。
+  Es liegt in der Verantwortung jedes Einzelnen von uns, eine chaotische Welt in Ordnung zu bringen.
+
+  当今の世の中では、情報技術が生活の中心になっている。
+  当今[とうこん]の 世[よ]の 中[なか]では、情報技術[じょうほうぎじゅつ]が 生活[せいかつ]の 中心[ちゅうしん]になっている。
+  In der heutigen Zeit ist die Informationstechnologie zum Mittelpunkt unseres Lebens geworden.
+
+  金の世の中と言われるが、本当の幸せは別のところにある。
+  金[かね]の 世[よ]の 中[なか]と 言[い]われるが、本当[ほんとう]の 幸[しあわ]せは 別[べつ]のところにある。
+  Man sagt, Geld regiere die Welt, aber wahres Glück liegt woanders.
+
+  世の中は広いようで狭いから、人との縁を大切にしよう。
+  世[よ]の 中[なか]は 広[ひろ]いようで 狭[せま]いから、人[ひと]との 縁[えん]を 大切[たいせつ]にしよう。
+  Die Welt ist ein Dorf, also lasst uns die Beziehungen zu anderen Menschen wertschätzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

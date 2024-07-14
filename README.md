@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro Karte). 9 Karten haben eine Notiz.
+Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro Karte). 10 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -47,23 +47,23 @@ Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro
 | 14 | です |  | KOPULA (höflich) | 1 |  | [Bearbeiten](cards/0014.yml) |
 | 15 | れる |  | PASSIV | 1 |  | [Bearbeiten](cards/0015.yml) |
 | 16 | という |  | namens | 1 |  | [Bearbeiten](cards/0016.yml) |
-| 17 | 事 | こと | Ding | 1 |  | [Bearbeiten](cards/0017.yml) |
+| 17 | 事 | こと | Ding | 20 | X | [Bearbeiten](cards/0017.yml) |
 | 18 | えー |  | Äh, was?; Nun, ja | 1 |  | [Bearbeiten](cards/0018.yml) |
-| 19 | 言う | いう | sagen, sprechen | 1 |  | [Bearbeiten](cards/0019.yml) |
+| 19 | 言う | いう | sagen, sprechen | 20 |  | [Bearbeiten](cards/0019.yml) |
 | 20 | のです |  | BEHAUPTUNG (höflich) | 1 |  | [Bearbeiten](cards/0020.yml) |
 | 21 | あの |  | also, nun ja | 1 |  | [Bearbeiten](cards/0021.yml) |
-| 22 | する |  | machen; tun | 1 |  | [Bearbeiten](cards/0022.yml) |
+| 22 | する |  | machen; tun | 21 |  | [Bearbeiten](cards/0022.yml) |
 | 23 | まー |  | Wow!, Oh mein Gott! | 1 |  | [Bearbeiten](cards/0023.yml) |
-| 25 | ある |  | sein (Existenz), haben (Besitz), geschehen, vorkommen; ein (gewisser) | 2 |  | [Bearbeiten](cards/0025.yml) |
+| 25 | ある |  | sein, existieren; haben; geschehen; ein (gewisser) | 44 |  | [Bearbeiten](cards/0025.yml) |
 | 26 | ね |  | nicht wahr?, oder? | 1 |  | [Bearbeiten](cards/0026.yml) |
 | 27 | ない |  | nicht | 1 |  | [Bearbeiten](cards/0027.yml) |
-| 28 | なる |  | werden | 1 |  | [Bearbeiten](cards/0028.yml) |
+| 28 | なる |  | werden | 21 |  | [Bearbeiten](cards/0028.yml) |
 | 29 | か |  | FRAGE; wenn; oder | 2 |  | [Bearbeiten](cards/0029.yml) |
 | 30 | その |  | jener; äh, mm | 2 |  | [Bearbeiten](cards/0030.yml) |
 | 31 | けれど |  | obwohl, jedoch | 1 |  | [Bearbeiten](cards/0031.yml) |
 | 32 | から |  | von; weil, da | 3 |  | [Bearbeiten](cards/0032.yml) |
 | 33 | よう |  | ANREIZ | 1 |  | [Bearbeiten](cards/0033.yml) |
-| 34 | 思う | おもう | denken, glauben | 1 |  | [Bearbeiten](cards/0034.yml) |
+| 34 | 思う | おもう | denken | 22 |  | [Bearbeiten](cards/0034.yml) |
 | 38 | 物 | もの | Ding, Objekt, Zeug | 1 |  | [Bearbeiten](cards/0038.yml) |
 | 39 | そう |  | so, solch; kurz davor sein | 2 |  | [Bearbeiten](cards/0039.yml) |
 | 40 | 何 | なに | was | 1 |  | [Bearbeiten](cards/0040.yml) |
@@ -174,7 +174,7 @@ Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro
 | 149 | 同じ | おなじ | gleich | 1 |  | [Bearbeiten](cards/0149.yml) |
 | 150 | まず |  | zunächst; zuerst | 1 |  | [Bearbeiten](cards/0150.yml) |
 | 151 | 必要 | ひつよう | notwendig; Notwendigkeit | 1 |  | [Bearbeiten](cards/0151.yml) |
-| 152 | 仕事 | しごと | Arbeit, Job | 1 |  | [Bearbeiten](cards/0152.yml) |
+| 152 | 仕事 | しごと | Arbeit, Job | 29 |  | [Bearbeiten](cards/0152.yml) |
 | 153 | あまり |  | nicht sehr; der Rest | 1 |  | [Bearbeiten](cards/0153.yml) |
 | 154 | によって |  | durch, wegen; abhängig von, je nachdem | 1 |  | [Bearbeiten](cards/0154.yml) |
 | 155 | かもしれない |  | vielleicht | 1 |  | [Bearbeiten](cards/0155.yml) |
@@ -255,7 +255,7 @@ Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro
 | 230 | 悪い | わるい | schlecht | 1 |  | [Bearbeiten](cards/0230.yml) |
 | 231 | 気持ち | きもち | Gefühl | 1 |  | [Bearbeiten](cards/0231.yml) |
 | 232 | 乗る | のる | einsteigen, fahren | 1 |  | [Bearbeiten](cards/0232.yml) |
-| 233 | において |  | bei; in; auf | 1 |  | [Bearbeiten](cards/0233.yml) |
+| 233 | において |  | bei; in; auf | 2 |  | [Bearbeiten](cards/0233.yml) |
 | 234 | 見える | みえる | sehen können | 1 |  | [Bearbeiten](cards/0234.yml) |
 | 235 | 変わる | かわる | (sich) ändern | 1 |  | [Bearbeiten](cards/0235.yml) |
 | 236 | べし |  | müssen, sollen | 1 |  | [Bearbeiten](cards/0236.yml) |
@@ -917,13 +917,13 @@ Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro
 | 898 | 通す | とおす | durchlassen | 1 |  | [Bearbeiten](cards/0898.yml) |
 | 899 | 横 | よこ | neben | 1 |  | [Bearbeiten](cards/0899.yml) |
 | 900 | 伴う | ともなう | begleiten, beinhalten | 1 |  | [Bearbeiten](cards/0900.yml) |
-| 901 | 命 | いのち | Leben | 1 |  | [Bearbeiten](cards/0901.yml) |
+| 901 | 命 | いのち | Leben, Existenz | 20 |  | [Bearbeiten](cards/0901.yml) |
 | 902 | 流れ | ながれ | Strömung, Fluss | 1 |  | [Bearbeiten](cards/0902.yml) |
-| 903 | 育つ | そだつ | aufwachsen | 1 |  | [Bearbeiten](cards/0903.yml) |
+| 903 | 育つ | そだつ | aufwachsen | 20 |  | [Bearbeiten](cards/0903.yml) |
 | 904 | ちなみに |  | übrigens, nebenbei | 1 |  | [Bearbeiten](cards/0904.yml) |
 | 905 | 予定 | よてい | Plan | 1 |  | [Bearbeiten](cards/0905.yml) |
 | 906 | 決して | けっして | niemals, keineswegs | 1 |  | [Bearbeiten](cards/0906.yml) |
-| 907 | 馬 | うま | Pferd | 1 |  | [Bearbeiten](cards/0907.yml) |
+| 907 | 馬 | うま | Pferd | 20 |  | [Bearbeiten](cards/0907.yml) |
 | 908 | 完全 | かんぜん | vollständig, perfekt | 1 |  | [Bearbeiten](cards/0908.yml) |
 | 909 | 学生 | がくせい | Student, Schüler | 1 |  | [Bearbeiten](cards/0909.yml) |
 | 910 | 風 | かぜ | Wind | 1 |  | [Bearbeiten](cards/0910.yml) |
@@ -947,15 +947,15 @@ Insgesamt gibt es 4972 Karten mit 4999 Beispielsätzen (durchschnittlich 1.0 pro
 | 928 | 表 | ひょう | Tabelle, Diagramm | 1 |  | [Bearbeiten](cards/0928.yml) |
 | 929 | 文化 | ぶんか | Kultur | 1 |  | [Bearbeiten](cards/0929.yml) |
 | 930 | 八 | はち | acht | 1 |  | [Bearbeiten](cards/0930.yml) |
-| 931 | 食べ物 | たべもの | Essen | 1 |  | [Bearbeiten](cards/0931.yml) |
+| 931 | 食べ物 | たべもの | Essen | 20 |  | [Bearbeiten](cards/0931.yml) |
 | 932 | 借りる | かりる | ausleihen, mieten | 1 |  | [Bearbeiten](cards/0932.yml) |
 | 933 | だけれど |  | jedoch, aber | 1 |  | [Bearbeiten](cards/0933.yml) |
 | 934 | 準備 | じゅんび | Vorbereitung | 1 |  | [Bearbeiten](cards/0934.yml) |
-| 935 | 二月 | にがつ | Februar | 1 |  | [Bearbeiten](cards/0935.yml) |
-| 937 | 月 | つき | Monat; Mond | 1 |  | [Bearbeiten](cards/0937.yml) |
-| 938 | 世の中 | よのなか | Welt, Gesellschaft | 1 |  | [Bearbeiten](cards/0938.yml) |
+| 935 | 二月 | にがつ | Februar | 20 |  | [Bearbeiten](cards/0935.yml) |
+| 937 | 月 | つき | Mond | 20 |  | [Bearbeiten](cards/0937.yml) |
+| 938 | 世の中 | よのなか | Welt, Gesellschaft | 21 |  | [Bearbeiten](cards/0938.yml) |
 | 939 | インターネット |  | Internet | 1 |  | [Bearbeiten](cards/0939.yml) |
-| 940 | 春 | はる | Frühling | 1 |  | [Bearbeiten](cards/0940.yml) |
+| 940 | 春 | はる | Frühling | 20 |  | [Bearbeiten](cards/0940.yml) |
 | 941 | 旅 | たび | Reise | 1 |  | [Bearbeiten](cards/0941.yml) |
 | 942 | 二年 | にねん | zwei Jahre | 1 |  | [Bearbeiten](cards/0942.yml) |
 | 943 | 寒い | さむい | kalt, frostig | 1 |  | [Bearbeiten](cards/0943.yml) |

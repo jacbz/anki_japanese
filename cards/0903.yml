@@ -11,6 +11,8 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
   class="char">つ</span></span></span></span>
 Register: ''
 Dispersion: '90'
+Ursprung: ''
+Konjugation: 育たない<br>育った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +20,82 @@ Beispielsätze: |-
   私は京都で育った。
   私[わたし]は 京都[きょうと]で 育[そだ]った。
   Ich bin in Kyoto aufgewachsen.
+
+  彼女は厳しい環境で育ったにもかかわらず、優しい人になった。
+  彼女[かのじょ]は 厳[きび]しい 環境[かんきょう]で 育[そだ]ったにもかかわらず、優[やさ]しい 人[ひと]になった。
+  Obwohl sie in einem harten Umfeld aufgewachsen ist, ist sie zu einem freundlichen Menschen geworden.
+
+  この植物は日光が豊富な場所でよく育つ。
+  この 植物[しょくぶつ]は 日光[にっこう]が 豊富[ほうふ]な 場所[ばしょ]でよく 育[そだ]つ。
+  Diese Pflanze gedeiht gut an Orten mit reichlich Sonnenlicht.
+
+  子供たちが健康に育つことを願っています。
+  子供[こども]たちが 健康[けんこう]に 育[そだ]つことを 願[ねが]っています。
+  Ich hoffe, dass die Kinder gesund aufwachsen.
+
+  彼は祖父母の家で育ちました。
+  彼[かれ]は 祖父母[そふぼ]の 家[いえ]で 育[そだ]ちました。
+  Er ist bei seinen Großeltern aufgewachsen.
+
+  この町で生まれ育った人々は、強い郷土愛を持っています。
+  この 町[まち]で 生[う]まれ 育[そだ]った 人々[ひとびと]は、強[つよ]い 郷土愛[きょうどあい]を 持[も]っています。
+  Die Menschen, die in dieser Stadt geboren und aufgewachsen sind, haben eine starke Heimatverbundenheit.
+
+  責任感のある大人に育つためには、様々な経験が必要です。
+  責任感[せきにんかん]のある 大人[おとな]に 育[そだ]つためには、様々[さまざま]な 経験[けいけん]が 必要[ひつよう]です。
+  Um zu einem verantwortungsbewussten Erwachsenen heranzuwachsen, sind verschiedene Erfahrungen notwendig.
+
+  この品種は早く育つので、農家に人気があります。
+  この 品種[ひんしゅ]は 早[はや]く 育[そだ]つので、農家[のうか]に 人気[にんき]があります。
+  Diese Sorte ist bei Landwirten beliebt, weil sie schnell wächst.
+
+  熱帯気候でしか育たない植物を温室で栽培しています。
+  熱帯気候[ねったいきこう]でしか 育[そだ]たない 植物[しょくぶつ]を 温室[おんしつ]で 栽培[さいばい]しています。
+  Wir kultivieren Pflanzen, die nur in tropischem Klima gedeihen, in einem Gewächshaus.
+
+  残念ながら、この子猫は大人まで育たなかった。
+  残念[ざんねん]ながら、この 子猫[こねこ]は 大人[おとな]まで 育[そだ]たなかった。
+  Leider hat dieses Kätzchen das Erwachsenenalter nicht erreicht.
+
+  良い上司のもとで部下が育つ環境を作ることが大切です。
+  良[よ]い 上司[じょうし]のもとで 部下[ぶか]が 育[そだ]つ 環境[かんきょう]を 作[つく]ることが 大切[たいせつ]です。
+  Es ist wichtig, eine Umgebung zu schaffen, in der sich Mitarbeiter unter einem guten Vorgesetzten entwickeln können.
+
+  彼女は音楽家の家庭で育ち、自然と音楽の才能が開花した。
+  彼女[かのじょ]は 音楽家[おんがくか]の 家庭[かてい]で 育[そだ]ち、自然[しぜん]と 音楽[おんがく]の 才能[さいのう]が 開花[かいか]した。
+  Sie wuchs in einer Musikerfamilie auf und ihre musikalische Begabung entfaltete sich ganz natürlich.
+
+  この地域で育った野菜は特に美味しいと評判です。
+  この 地域[ちいき]で 育[そだ]った 野菜[やさい]は 特[とく]に 美味[おい]しいと 評判[ひょうばん]です。
+  Das Gemüse, das in dieser Region angebaut wird, ist dafür bekannt, besonders lecker zu sein.
+
+  子供たちが健全に育つには、適切な教育環境が不可欠です。
+  子供[こども]たちが 健全[けんぜん]に 育[そだ]つには、適切[てきせつ]な 教育環境[きょういくかんきょう]が 不可欠[ふかけつ]です。
+  Für eine gesunde Entwicklung der Kinder ist eine angemessene Bildungsumgebung unerlässlich.
+
+  この木は100年以上かけてゆっくりと育ってきました。
+  この 木[き]は100年[ねん] 以上[いじょう]かけてゆっくりと 育[そだ]ってきました。
+  Dieser Baum ist über 100 Jahre lang langsam gewachsen.
+
+  彼は厳しい環境で育ったからこそ、強い精神力を持っています。
+  彼[かれ]は 厳[きび]しい 環境[かんきょう]で 育[そだ]ったからこそ、強[つよ]い 精神力[せいしんりょく]を 持[も]っています。
+  Gerade weil er in einem harten Umfeld aufgewachsen ist, besitzt er eine starke mentale Stärke.
+
+  この会社では社員が自由に意見を言える環境で育つことを重視しています。
+  この 会社[かいしゃ]では 社員[しゃいん]が 自由[じゆう]に 意見[いけん]を 言[い]える 環境[かんきょう]で 育[そだ]つことを 重視[じゅうし]しています。
+  In diesem Unternehmen legen wir Wert darauf, dass sich die Mitarbeiter in einer Umgebung entwickeln, in der sie ihre Meinungen frei äußern können.
+
+  彼女は田舎で育ったため、自然との触れ合いを大切にしています。
+  彼女[かのじょ]は 田舎[いなか]で 育[そだ]ったため、自然[しぜん]との 触[ふ]れ 合[あ]いを 大切[たいせつ]にしています。
+  Da sie auf dem Land aufgewachsen ist, schätzt sie den Kontakt zur Natur sehr.
+
+  この地域の伝統工芸は、長い歴史の中で育ってきました。
+  この 地域[ちいき]の 伝統工芸[でんとうこうげい]は、長[なが]い 歴史[れきし]の 中[なか]で 育[そだ]ってきました。
+  Das traditionelle Handwerk dieser Region hat sich im Laufe einer langen Geschichte entwickelt.
+
+  子供たちが健やかに育つよう、地域全体で見守っていく必要があります。
+  子供[こども]たちが 健[すこ]やかに 育[そだ]つよう、地域[ちいき] 全体[ぜんたい]で 見守[みまも]っていく 必要[ひつよう]があります。
+  Es ist notwendig, dass die gesamte Gemeinschaft darauf achtet, dass die Kinder gesund aufwachsen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -10,13 +10,91 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span cla
   class="char">ま</span></span></span></span>
 Register: ''
 Dispersion: '85'
+Ursprung: ''
+Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   叔父は馬を飼っている。
   叔父[おじ]は 馬[うま]を 飼[か]っている。
-  Mein Onkel hält Pferde.
+  Mein Onkel hält ein Pferd.
+
+  馬が草原を駆け回っている様子は美しい。
+  馬[うま]が 草原[そうげん]を 駆[か]け 回[まわ]っている 様子[ようす]は 美[うつく]しい。
+  Es ist ein schöner Anblick, wie Pferde über die Wiese galoppieren.
+
+  競馬場で馬が鳴く声が聞こえた。
+  競馬場[けいばじょう]で 馬[うま]が 鳴[な]く 声[こえ]が 聞[き]こえた。
+  Auf der Pferderennbahn hörte ich ein Pferd wiehern.
+
+  初めて馬に乗るのでちょっと緊張する。
+  初[はじ]めて 馬[うま]に 乗[の]るのでちょっと 緊張[きんちょう]する。
+  Ich bin etwas nervös, weil ich zum ersten Mal auf einem Pferd reite.
+
+  馬に乗って山道を進んでいく。
+  馬[うま]に 乗[の]って 山道[やまみち]を 進[すす]んでいく。
+  Wir reiten auf Pferden den Bergweg entlang.
+
+  馬から下りるときは慎重にね。
+  馬[うま]から 下[お]りるときは 慎重[しんちょう]にね。
+  Sei vorsichtig, wenn du vom Pferd absteigst.
+
+  子供が馬から落ちそうになって、ヒヤっとした。
+  子供[こども]が 馬[うま]から 落[お]ちそうになって、ヒヤっとした。
+  Ich erschrak, als das Kind fast vom Pferd fiel.
+
+  馬の背に乗るのは想像以上に高かった。
+  馬[うま]の 背[せ]に 乗[の]るのは 想像以上[そうぞういじょう]に 高[たか]かった。
+  Auf dem Rücken des Pferdes zu sitzen war höher, als ich es mir vorgestellt hatte.
+
+  馬に蹴られたら大怪我するよ。気をつけて。
+  馬[うま]に 蹴[け]られたら 大怪我[おおけが]するよ。気[き]をつけて。
+  Wenn dich ein Pferd tritt, kannst du dich schwer verletzen. Pass auf.
+
+  馬を調教するのは根気のいる仕事だ。
+  馬[うま]を 調教[ちょうきょう]するのは 根気[こんき]のいる 仕事[しごと]だ。
+  Ein Pferd abzurichten ist eine Arbeit, die viel Geduld erfordert.
+
+  野生の馬を見たことがある？とてもかっこいいよ。
+  野生[やせい]の 馬[うま]を 見[み]たことがある？とてもかっこいいよ。
+  Hast du schon mal ein Wildpferd gesehen? Die sind echt cool.
+
+  馬で荷物を運ぶのは昔ながらの方法だ。
+  馬[うま]で 荷物[にもつ]を 運[はこ]ぶのは 昔[むかし]ながらの 方法[ほうほう]だ。
+  Lasten mit Pferden zu transportieren ist eine althergebrachte Methode.
+
+  彼女は馬のように大きい歯をしている。
+  彼女[かのじょ]は 馬[うま]のように 大[おお]きい 歯[は]をしている。
+  Sie hat Zähne so groß wie die eines Pferdes.
+
+  立派な馬が草を食べている姿は絵になるね。
+  立派[りっぱ]な 馬[うま]が 草[くさ]を 食[た]べている 姿[すがた]は 絵[え]になるね。
+  Der Anblick eines stattlichen Pferdes, das Gras frisst, ist wie ein Gemälde.
+
+  馬は鼻孔を怒らし、砂塵を蹴立てていた。
+  馬[うま]は 鼻孔[びこう]を 怒[いか]らし、砂塵[さじん]を 蹴立[けた]てていた。
+  Mit schnaubenden Nüstern wirbelte das Pferd Staub auf.
+
+  静けさを破って馬の蹄の音が響いてきた。
+  静[しず]けさを 破[やぶ]って 馬[うま]の 蹄[ひづめ]の 音[おと]が 響[ひび]いてきた。
+  Die Stille wurde vom Geräusch der Pferdehufe durchbrochen.
+
+  この坂道は急すぎて、馬でも上るのは大変だ。
+  この 坂道[さかみち]は 急[きゅう]すぎて、馬[うま]でも 上[のぼ]るのは 大変[たいへん]だ。
+  Dieser Hügel ist so steil, dass selbst ein Pferd Schwierigkeiten hätte, ihn zu erklimmen.
+
+  将棋の駒で馬は強力な駒だ。
+  将棋[しょうぎ]の 駒[こま]で 馬[うま]は 強力[きょうりょく]な 駒[こま]だ。
+  Der umgewandelte Läufer ist eine starke Figur im Shogi.
+
+  馬が合う二人は最高のパートナーになれるよ。
+  馬[うま]が 合[あ]う 二人[ふたり]は 最高[さいこう]のパートナーになれるよ。
+  Zwei Menschen, die perfekt zusammenpassen, können die besten Partner werden.
+
+  馬の耳に念仏だよ。全然聞く耳を持たないんだから。
+  馬[うま]の 耳[みみ]に 念仏[ねんぶつ]だよ。全然[ぜんぜん] 聞[き]く 耳[みみ]を 持[も]たないんだから。
+  Es ist, als würde man tauben Ohren predigen. Er hört überhaupt nicht zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
