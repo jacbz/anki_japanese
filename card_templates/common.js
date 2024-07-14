@@ -1,7 +1,7 @@
 function addFurigana(text) {
   return text.replace(
-    /(\s?)(\S+)\[(\S+)\]/g,
-    (match, space, kanji, furigana) => {
+    /\s?([一-龯々]+)\[([ぁ-んァ-ン]+)\]/g,
+    (match, kanji, furigana) => {
       return `${
         kanji.startsWith("　") ? "　" : ""
       }<ruby>${kanji.trim()}<rt>${furigana}</rt></ruby>`;
