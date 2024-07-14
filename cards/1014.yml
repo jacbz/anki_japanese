@@ -2,7 +2,7 @@ Rang: 1014
 Lemma: 消える
 Lesung: きえる
 Alternativschreibweisen: ''
-Definition: ausgehen; verschwinden
+Definition: verschwinden; ausgehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
@@ -12,14 +12,90 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 消えない・消えなかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   急に電気が消えてしまった。
   急[きゅう]に 電気[でんき]が 消[き]えてしまった。
-  Das Licht ist plötzlich ausgegangen.
+  Plötzlich ging das Licht aus.
+
+  彼の姿が人ごみの中に消えた。
+  彼[かれ]の 姿[すがた]が 人[ひと]ごみの 中[なか]に 消[き]えた。
+  Er verschwand in der Menschenmenge.
+
+  痛みが少しずつ消えていく。
+  痛[いた]みが 少[すこ]しずつ 消[き]えていく。
+  Der Schmerz verschwindet allmählich.
+
+  雪が日差しで消えていった。
+  雪[ゆき]が 日差[ひざ]しで 消[き]えていった。
+  Der Schnee schmolz in der Sonneneinstrahlung.
+
+  彼女の笑顔が突然消えた。
+  彼女[かのじょ]の 笑顔[えがお]が 突然[とつぜん] 消[き]えた。
+  Ihr Lächeln erstarb plötzlich.
+
+  消えろ！二度と顔を見せるな！
+  消[き]えろ！二度[にど]と 顔[かお]を 見[み]せるな！
+  Verschwinde! Lass dich hier nie wieder blicken!
+
+  その伝統は時代とともに消えつつある。
+  その 伝統[でんとう]は 時代[じだい]とともに 消[き]えつつある。
+  Diese Tradition geht mit der Zeit verloren.
+
+  彼の怒りはすぐに消えた。
+  彼[かれ]の 怒[いか]りはすぐに 消[き]えた。
+  Sein Ärger verflog schnell.
+
+  記憶が徐々に消えていく感じがする。
+  記憶[きおく]が 徐々[じょじょ]に 消[き]えていく 感[かん]じがする。
+  Ich habe das Gefühl, dass meine Erinnerungen langsam verblassen.
+
+  音楽が遠くに消えていった。
+  音楽[おんがく]が 遠[とお]くに 消[き]えていった。
+  Die Musik verklang in der Ferne.
+
+  タバコの火が消えるまで待っていた。
+  タバコの 火[ひ]が 消[き]えるまで 待[ま]っていた。
+  Ich wartete, bis die Zigarette ausging.
+
+  希望が消えかけていたとき、良いニュースが届いた。
+  希望[きぼう]が 消[き]えかけていたとき、良[よ]いニュースが 届[とど]いた。
+  Als die Hoffnung zu schwinden drohte, kam eine gute Nachricht an.
+
+  闇に消えていく彼の後ろ姿を見送った。
+  闇[やみ]に 消[き]えていく 彼[かれ]の 後ろ姿[うしろすがた]を 見送[みおく]った。
+  Ich sah ihm nach, wie seine Gestalt in der Dunkelheit verschwand.
+
+  彼女はカーテンの向こうに消えた。
+  彼女[かのじょ]は カーテンの 向[む]こうに 消[き]えた。
+  Sie verschwand hinter dem Vorhang.
+
+  振り向くと、尾行者の姿は消えていた。
+  振[ふ]り 向[む]くと、尾行者[びこうしゃ]の 姿[すがた]は 消[き]えていた。
+  Als ich mich umdrehte, war mein Verfolger verschwunden.
+
+  彼女の顔から笑顔が消えた。
+  彼女[かのじょ]の 顔[かお]から 笑顔[えがお]が 消[き]えた。
+  Das Lächeln verschwand von ihrem Gesicht.
+
+  消えた財布をどこで探せばいいのかわからない。
+  消[き]えた 財布[さいふ]をどこで 探[さが]せばいいのかわからない。
+  Ich weiß nicht, wo ich meine verschwundene Brieftasche suchen soll.
+
+  寒気がなかなか消えない。
+  寒気[さむけ]がなかなか 消[き]えない。
+  Das Kältegefühl will einfach nicht verschwinden.
+
+  消えた記憶を取り戻そうと必死だった。
+  消[き]えた 記憶[きおく]を 取[と]り 戻[もど]そうと 必死[ひっし]だった。
+  Ich versuchte verzweifelt, meine verlorenen Erinnerungen wiederzuerlangen.
+
+  彼の姿が視界から消えるまで見つめていた。
+  彼[かれ]の 姿[すがた]が 視界[しかい]から 消[き]えるまで 見[み]つめていた。
+  Ich schaute ihm nach, bis er aus meinem Blickfeld verschwand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

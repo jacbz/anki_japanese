@@ -1,8 +1,8 @@
 Rang: 950
 Lemma: 押す
 Lesung: おす
-Alternativschreibweisen: ''
-Definition: drücken
+Alternativschreibweisen: 圧す・捺す
+Definition: drücken, schieben; stempeln
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span class="inner"><span
@@ -11,7 +11,7 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span cla
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 押さない・押さなかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -19,6 +19,82 @@ Beispielsätze: |-
   押さないでください。
   押[お]さないでください。
   Bitte nicht drücken.
+
+  ドアを押すと開きます。
+  ドアを 押[お]すと 開[ひら]きます。
+  Die Tür öffnet sich, wenn man sie aufdrückt.
+
+  ベビーカーを押しながら歩いていた。
+  ベビーカーを 押[お]しながら 歩[ある]いていた。
+  Ich ging und schob dabei den Kinderwagen.
+
+  彼は私の肩を軽く押した。
+  彼[かれ]は 私[わたし]の 肩[かた]を 軽[かる]く 押[お]した。
+  Er stupste mich leicht an der Schulter.
+
+  背中を押されて前に進んだ。
+  背中[せなか]を 押[お]されて 前[まえ]に 進[すす]んだ。
+  Ich wurde am Rücken angeschoben und ging nach vorne.
+
+  混雑した電車で後ろから押される。
+  混雑[こんざつ]した 電車[でんしゃ]で 後[うし]ろから 押[お]される。
+  In der überfüllten Bahn wird man von hinten geschubst.
+
+  エレベーターのボタンを押してください。
+  エレベーターのボタンを 押[お]してください。
+  Bitte drücken Sie den Knopf für den Aufzug.
+
+  指紋認証のために指を強く押し付けた。
+  指紋認証[しもんにんしょう]のために 指[ゆび]を 強[つよ]く 押[お]し 付[つ]けた。
+  Ich drückte meinen Finger fest auf, um den Fingerabdruck zu scannen.
+
+  花を本に挟んで押した。
+  花[はな]を 本[ほん]に 挟[はさ]んで 押[お]した。
+  Ich presste die Blume zwischen den Seiten eines Buches.
+
+  書類に印鑑を押して提出した。
+  書類[しょるい]に 印鑑[いんかん]を 押[お]して 提出[ていしゅつ]した。
+  Ich stempelte das Dokument ab und reichte es ein.
+
+  上司に仕事を押し付けられた。
+  上司[じょうし]に 仕事[しごと]を 押[お]し 付[つ]けられた。
+  Mein Chef hat mir die Arbeit aufgedrängt.
+
+  自分の意見を押し通した。
+  自分[じぶん]の 意見[いけん]を 押[お]し 通[とお]した。
+  Ich setzte meine Meinung durch.
+
+  痛みを押して仕事に行った。
+  痛[いた]みを 押[お]して 仕事[しごと]に 行[い]った。
+  Trotz der Schmerzen ging ich zur Arbeit.
+
+  彼女は病気を押して出勤した。
+  彼女[かのじょ]は 病気[びょうき]を 押[お]して 出勤[しゅっきん]した。
+  Sie ging trotz ihrer Krankheit zur Arbeit.
+
+  念を押すために、もう一度確認しました。
+  念[ねん]を 押[お]すために、もう 一度[いちど] 確認[かくにん]しました。
+  Um sicherzugehen, habe ich es noch einmal überprüft.
+
+  この店は押すな押すなの大盛況だ。
+  この 店[みせ]は 押[お]すな 押[お]すなの 大盛況[だいせいきょう]だ。
+  Dieser Laden ist brechend voll.
+
+  セールの初日は押すな押すなの人込みだった。
+  セールの 初日[しょにち]は 押[お]すな 押[お]すなの 人込[ひとご]みだった。
+  Am ersten Tag des Schlussverkaufs herrschte ein dichtes Gedränge.
+
+  彼は業界で押しも押されもせぬ存在だ。
+  彼[かれ]は 業界[ぎょうかい]で 押[お]しも 押[お]されもせぬ 存在[そんざい]だ。
+  Er ist eine etablierte Größe in der Branche.
+
+  タイムカードを押し忘れた。
+  タイムカードを 押[お]し 忘[わす]れた。
+  Ich habe vergessen, meine Zeitkarte zu stempeln.
+
+  ボタンを押すと、機械が動き始めた。
+  ボタンを 押[お]すと、機械[きかい]が 動[うご]き 始[はじ]めた。
+  Als ich den Knopf drückte, setzte sich die Maschine in Bewegung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

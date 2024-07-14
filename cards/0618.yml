@@ -2,7 +2,7 @@ Rang: 618
 Lemma: 対象
 Lesung: たいしょう
 Alternativschreibweisen: ''
-Definition: Objekt, Ziel, Thema
+Definition: Gegenstand, Objekt; Zielgruppe
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
@@ -21,6 +21,82 @@ Beispielsätze: |-
   彼の研究の対象は何ですか。
   彼[かれ]の 研究[けんきゅう]の 対象[たいしょう]は 何[なん]ですか。
   Was ist das Thema seiner Forschung?
+
+  この調査は20代の若者を対象にしています。
+  この 調査[ちょうさ]は20代[はたち]の 若者[わかもの]を 対象[たいしょう]にしています。
+  Diese Umfrage richtet sich an junge Menschen in ihren Zwanzigern.
+
+  彼女は批判の対象となってしまった。
+  彼女[かのじょ]は 批判[ひはん]の 対象[たいしょう]となってしまった。
+  Sie ist zum Gegenstand der Kritik geworden.
+
+  この商品は主に女性を対象としています。
+  この 商品[しょうひん]は 主[おも]に 女性[じょせい]を 対象[たいしょう]としています。
+  Dieses Produkt richtet sich hauptsächlich an Frauen.
+
+  新しい政策の対象者は誰ですか。
+  新[あたら]しい 政策[せいさく]の 対象者[たいしょうしゃ]は 誰[だれ]ですか。
+  Wer sind die Berechtigten für die neue Politik?
+
+  この問題は処罰対象となる可能性があります。
+  この 問題[もんだい]は 処罰対象[しょばつたいしょう]となる 可能性[かのうせい]があります。
+  Dieses Problem könnte zu einer strafbaren Handlung werden.
+
+  彼はからかいの対象となっていました。
+  彼[かれ]はからかいの 対象[たいしょう]となっていました。
+  Er wurde zum Opfer von Hänseleien.
+
+  この規則に違反すると減点の対象になります。
+  この 規則[きそく]に 違反[いはん]すると 減点[げんてん]の 対象[たいしょう]になります。
+  Wenn du gegen diese Regel verstößt, bekommst du Punktabzug.
+
+  彼女の小説は若い読者を対象にして書かれています。
+  彼女[かのじょ]の 小説[しょうせつ]は 若[わか]い 読者[どくしゃ]を 対象[たいしょう]にして 書[か]かれています。
+  Ihr Roman wurde für junge Leser geschrieben.
+
+  大学生を対象にアンケートを実施しました。
+  大学生[だいがくせい]を 対象[たいしょう]にアンケートを 実施[じっし]しました。
+  Wir haben eine Umfrage unter Universitätsstudenten durchgeführt.
+
+  彼の写真は対象に切り込む鋭さがあります。
+  彼[かれ]の 写真[しゃしん]は 対象[たいしょう]に 切[き]り 込[こ]む 鋭[するど]さがあります。
+  Seine Fotos haben eine durchdringende Schärfe für das Objekt.
+
+  偶然尊敬の対象が正しかったとしても、盲目的な尊敬は意味がありません。
+  偶然[ぐうぜん] 尊敬[そんけい]の 対象[たいしょう]が 正[ただ]しかったとしても、盲目的[もうもくてき]な 尊敬[そんけい]は 意味[いみ]がありません。
+  Selbst wenn das Objekt der Verehrung zufällig das Richtige ist, hat blinde Verehrung keinen Sinn.
+
+  彼は偏見の対象になっていることに気づきました。
+  彼[かれ]は 偏見[へんけん]の 対象[たいしょう]になっていることに 気[き]づきました。
+  Er bemerkte, dass er zum Opfer von Vorurteilen geworden war.
+
+  憎悪の対象になるのは怖いことです。
+  憎悪[ぞうお]の 対象[たいしょう]になるのは 怖[こわ]いことです。
+  Es ist beängstigend, zum Gegenstand des Hasses zu werden.
+
+  この言語学の論文では、文の対象について詳しく説明されています。
+  この 言語学[げんごがく]の 論文[ろんぶん]では、文[ぶん]の 対象[たいしょう]について 詳[くわ]しく 説明[せつめい]されています。
+  In diesem linguistischen Aufsatz wird der Satzgegenstand ausführlich erläutert.
+
+  対象言語を理解することは言語学習の重要な部分です。
+  対象言語[たいしょうげんご]を 理解[りかい]することは 言語学習[げんごがくしゅう]の 重要[じゅうよう]な 部分[ぶぶん]です。
+  Das Verständnis der Objektsprache ist ein wichtiger Teil des Sprachenlernens.
+
+  彼女は常に研究対象に対して客観的な態度を保っています。
+  彼女[かのじょ]は 常[つね]に 研究対象[けんきゅうたいしょう]に 対[たい]して 客観的[きゃっかんてき]な 態度[たいど]を 保[たも]っています。
+  Sie behält stets eine objektive Haltung gegenüber ihrem Forschungsgegenstand.
+
+  この政策は低所得者を対象としています。
+  この 政策[せいさく]は 低所得者[ていしょとくしゃ]を 対象[たいしょう]としています。
+  Diese Politik richtet sich an Geringverdiener.
+
+  彼の行動は警察の調査対象になりました。
+  彼[かれ]の 行動[こうどう]は 警察[けいさつ]の 調査対象[ちょうさたいしょう]になりました。
+  Sein Verhalten wurde zum Gegenstand polizeilicher Ermittlungen.
+
+  新商品のターゲット対象は誰ですか。
+  新[しん]商品[しょうひん]のターゲット 対象[たいしょう]は 誰[だれ]ですか。
+  Wer ist die Zielgruppe für das neue Produkt?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

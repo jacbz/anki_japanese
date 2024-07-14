@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro Karte). 10 Karten haben eine Notiz.
+Insgesamt gibt es 4972 Karten mit 5591 Beispielsätzen (durchschnittlich 1.1 pro Karte). 9 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 14 | です |  | KOPULA (höflich) | 1 |  | [Bearbeiten](cards/0014.yml) |
 | 15 | れる |  | PASSIV | 1 |  | [Bearbeiten](cards/0015.yml) |
 | 16 | という |  | namens | 1 |  | [Bearbeiten](cards/0016.yml) |
-| 17 | 事 | こと | Ding | 20 | X | [Bearbeiten](cards/0017.yml) |
+| 17 | 事 | こと | Sache, Angelegenheit | 20 |  | [Bearbeiten](cards/0017.yml) |
 | 18 | えー |  | Äh, was?; Nun, ja | 1 |  | [Bearbeiten](cards/0018.yml) |
 | 19 | 言う | いう | sagen, sprechen | 20 |  | [Bearbeiten](cards/0019.yml) |
 | 20 | のです |  | BEHAUPTUNG (höflich) | 1 |  | [Bearbeiten](cards/0020.yml) |
@@ -635,7 +635,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 615 | 場 | ば | Ort; Platz; Stelle | 1 |  | [Bearbeiten](cards/0615.yml) |
 | 616 | いずれ |  | irgendwann, früher oder später | 1 |  | [Bearbeiten](cards/0616.yml) |
 | 617 | ホテル |  | Hotel | 1 |  | [Bearbeiten](cards/0617.yml) |
-| 618 | 対象 | たいしょう | Objekt, Ziel, Thema | 1 |  | [Bearbeiten](cards/0618.yml) |
+| 618 | 対象 | たいしょう | Gegenstand, Objekt; Zielgruppe | 20 |  | [Bearbeiten](cards/0618.yml) |
 | 619 | 打つ | うつ | schlagen | 1 |  | [Bearbeiten](cards/0619.yml) |
 | 620 | 以前 | いぜん | früher, ehemals | 1 |  | [Bearbeiten](cards/0620.yml) |
 | 621 | 夫 | おっと | Ehemann | 1 |  | [Bearbeiten](cards/0621.yml) |
@@ -771,7 +771,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 752 | 悲しい | かなしい | traurig | 1 |  | [Bearbeiten](cards/0752.yml) |
 | 753 | 雨 | あめ | Regen | 1 |  | [Bearbeiten](cards/0753.yml) |
 | 754 | 自分達 | じぶんたち | sich selbst; uns selbst | 1 |  | [Bearbeiten](cards/0754.yml) |
-| 755 | 詳しい | くわしい | detailliert, gut kennen | 1 |  | [Bearbeiten](cards/0755.yml) |
+| 755 | 詳しい | くわしい | detailliert; gut kennen | 20 |  | [Bearbeiten](cards/0755.yml) |
 | 756 | 二十一世紀 | にじゅういっせいき | 21. Jahrhundert | 1 |  | [Bearbeiten](cards/0756.yml) |
 | 757 | ひどい |  | grausam, schrecklich | 1 |  | [Bearbeiten](cards/0757.yml) |
 | 758 | 昨日 | きのう | gestern | 1 |  | [Bearbeiten](cards/0758.yml) |
@@ -810,7 +810,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 791 | 具体的 | ぐたいてき | konkret | 1 |  | [Bearbeiten](cards/0791.yml) |
 | 792 | もと |  | unter | 1 |  | [Bearbeiten](cards/0792.yml) |
 | 793 | 発生 | はっせい | Auftreten | 1 |  | [Bearbeiten](cards/0793.yml) |
-| 794 | 繰り返す | くりかえす | wiederholen, erneut tun | 1 |  | [Bearbeiten](cards/0794.yml) |
+| 794 | 繰り返す | くりかえす | wiederholen | 20 |  | [Bearbeiten](cards/0794.yml) |
 | 795 | 泣く | なく | weinen | 1 |  | [Bearbeiten](cards/0795.yml) |
 | 796 | 七 | なな | sieben | 1 |  | [Bearbeiten](cards/0796.yml) |
 | 797 | 手紙 | てがみ | Brief | 1 |  | [Bearbeiten](cards/0797.yml) |
@@ -957,20 +957,20 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 939 | インターネット |  | Internet | 1 |  | [Bearbeiten](cards/0939.yml) |
 | 940 | 春 | はる | Frühling | 20 |  | [Bearbeiten](cards/0940.yml) |
 | 941 | 旅 | たび | Reise | 1 |  | [Bearbeiten](cards/0941.yml) |
-| 942 | 二年 | にねん | zwei Jahre | 1 |  | [Bearbeiten](cards/0942.yml) |
-| 943 | 寒い | さむい | kalt, frostig | 1 |  | [Bearbeiten](cards/0943.yml) |
-| 944 | 年 | ねん | Jahr | 1 |  | [Bearbeiten](cards/0944.yml) |
+| 942 | 二年 | にねん | zwei Jahre | 20 |  | [Bearbeiten](cards/0942.yml) |
+| 943 | 寒い | さむい | kalt, frostig | 22 |  | [Bearbeiten](cards/0943.yml) |
+| 944 | 年 | ねん | Jahr | 21 |  | [Bearbeiten](cards/0944.yml) |
 | 945 | 同様 | どうよう | ähnlich, gleich | 1 |  | [Bearbeiten](cards/0945.yml) |
-| 946 | 一般 | いっぱん | allgemein | 1 |  | [Bearbeiten](cards/0946.yml) |
+| 946 | 一般 | いっぱん | allgemein | 20 |  | [Bearbeiten](cards/0946.yml) |
 | 947 | 第一 | だいいち | erste | 1 |  | [Bearbeiten](cards/0947.yml) |
-| 948 | 三年 | さんねん | drei Jahre | 1 |  | [Bearbeiten](cards/0948.yml) |
-| 949 | 申す | もうす | sagen, sein (bescheiden) | 1 |  | [Bearbeiten](cards/0949.yml) |
-| 950 | 押す | おす | drücken | 1 |  | [Bearbeiten](cards/0950.yml) |
-| 951 | 責任 | せきにん | Verantwortung | 1 |  | [Bearbeiten](cards/0951.yml) |
+| 948 | 三年 | さんねん | drei Jahre | 20 |  | [Bearbeiten](cards/0948.yml) |
+| 949 | 申す | もうす | sagen, sein (bescheiden) | 20 |  | [Bearbeiten](cards/0949.yml) |
+| 950 | 押す | おす | drücken, schieben; stempeln | 20 |  | [Bearbeiten](cards/0950.yml) |
+| 951 | 責任 | せきにん | Verantwortung, Schuld | 20 |  | [Bearbeiten](cards/0951.yml) |
 | 952 | 選択 | せんたく | Auswahl; wählen | 1 |  | [Bearbeiten](cards/0952.yml) |
 | 953 | 負ける | まける | verlieren, geschlagen werden | 1 |  | [Bearbeiten](cards/0953.yml) |
-| 954 | 技術 | ぎじゅつ | Technik, Fertigkeit | 1 |  | [Bearbeiten](cards/0954.yml) |
-| 955 | 一般的 | いっぱんてき | allgemein, üblich, gewöhnlich | 1 |  | [Bearbeiten](cards/0955.yml) |
+| 954 | 技術 | ぎじゅつ | Technik, Fertigkeit | 20 |  | [Bearbeiten](cards/0954.yml) |
+| 955 | 一般的 | いっぱんてき | allgemein, üblich | 20 |  | [Bearbeiten](cards/0955.yml) |
 | 956 | そば |  | seitlich, nahe | 1 |  | [Bearbeiten](cards/0956.yml) |
 | 957 | 減る | へる | abnehmen, weniger werden | 1 |  | [Bearbeiten](cards/0957.yml) |
 | 958 | 記事 | きじ | Artikel | 1 |  | [Bearbeiten](cards/0958.yml) |
@@ -1029,7 +1029,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 1011 | 公園 | こうえん | Park | 1 |  | [Bearbeiten](cards/1011.yml) |
 | 1012 | 個人 | こじん | Individuum | 1 |  | [Bearbeiten](cards/1012.yml) |
 | 1013 | やら |  | und, oder | 1 |  | [Bearbeiten](cards/1013.yml) |
-| 1014 | 消える | きえる | ausgehen; verschwinden | 1 |  | [Bearbeiten](cards/1014.yml) |
+| 1014 | 消える | きえる | verschwinden; ausgehen | 20 |  | [Bearbeiten](cards/1014.yml) |
 | 1015 | 激しい | はげしい | heftig, intensiv, schwerwiegend | 1 |  | [Bearbeiten](cards/1015.yml) |
 | 1016 | 短い | みじかい | kurz | 1 |  | [Bearbeiten](cards/1016.yml) |
 | 1017 | 薬 | くすり | Medikament | 1 |  | [Bearbeiten](cards/1017.yml) |
@@ -4820,7 +4820,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 4815 | 乗り出す | のりだす | anfangen; beginnen | 1 |  | [Bearbeiten](cards/4815.yml) |
 | 4816 | そんなこんな |  | Hör auf zu meckern; Hör auf zu nörgeln | 1 |  | [Bearbeiten](cards/4816.yml) |
 | 4817 | 覚ます | さます | aufwachen | 1 |  | [Bearbeiten](cards/4817.yml) |
-| 4818 | 住居 | jukyo | Wohnung/Haus | 1 |  | [Bearbeiten](cards/4818.yml) |
+| 4818 | 住居 | じゅうきょ | Wohnung/Haus | 1 |  | [Bearbeiten](cards/4818.yml) |
 | 4819 | 沸騰 | ふっとう | kochen; kochen | 1 |  | [Bearbeiten](cards/4819.yml) |
 | 4820 | 仕掛ける | しかける | anfangen, beginnen; einstellen | 1 |  | [Bearbeiten](cards/4820.yml) |
 | 4821 | 一年半 | いちねんはん | eineinhalb Jahre | 1 |  | [Bearbeiten](cards/4821.yml) |
@@ -4999,7 +4999,7 @@ Insgesamt gibt es 4972 Karten mit 5322 Beispielsätzen (durchschnittlich 1.1 pro
 | 4994 | 気楽 | きらく | gemütlich, locker, unbeschwert | 1 |  | [Bearbeiten](cards/4994.yml) |
 | 4995 | 略 | りゃく | Abkürzung | 1 |  | [Bearbeiten](cards/4995.yml) |
 | 4996 | 免れる | まぬがれる | entkommen, vermeiden | 1 |  | [Bearbeiten](cards/4996.yml) |
-| 4997 | 相次ぐ |  | sich häufen | 1 |  | [Bearbeiten](cards/4997.yml) |
-| 4998 | 一段 |  | Ichidan-Konjugation | 1 |  | [Bearbeiten](cards/4998.yml) |
-| 4999 | 動揺 |  | Unruhe; aufgewühlt sein | 1 |  | [Bearbeiten](cards/4999.yml) |
+| 4997 | 相次ぐ | あいつぐ | sich häufen | 1 |  | [Bearbeiten](cards/4997.yml) |
+| 4998 | 一段 | いちだん | eine Stufe | 1 |  | [Bearbeiten](cards/4998.yml) |
+| 4999 | 動揺 | どうよう | Unruhe; aufgewühlt sein | 1 |  | [Bearbeiten](cards/4999.yml) |
 | 5000 | まあまあ |  | mäßig, so lala | 1 |  | [Bearbeiten](cards/5000.yml) |

@@ -2,7 +2,7 @@ Rang: 755
 Lemma: 詳しい
 Lesung: くわしい
 Alternativschreibweisen: ''
-Definition: detailliert, gut kennen
+Definition: detailliert; gut kennen
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
@@ -14,13 +14,86 @@ Register: ''
 Dispersion: '88'
 Ursprung: ''
 Konjugation: ''
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
-Beispielsätze: |-
+Beispielsätze: |
   彼女は事情を詳しく説明した。
   彼女[かのじょ]は 事情[じじょう]を 詳[くわ]しく 説明[せつめい]した。
-  Sie erklärte die Gründe im Detail.
+  Sie erklärte die Umstände ausführlich.
+
+  彼は日本の歴史に詳しい。
+  彼[かれ]は 日本[にほん]の 歴史[れきし]に 詳[くわ]しい。
+  Er kennt sich gut mit japanischer Geschichte aus.
+
+  詳しい調査の結果、真相が明らかになった。
+  詳[くわ]しい 調査[ちょうさ]の 結果[けっか]、真相[しんそう]が 明[あき]らかになった。
+  Als Ergebnis der gründlichen Untersuchung wurde die Wahrheit aufgedeckt.
+
+  この地図は非常に詳しくて、小さな道まで載っている。
+  この 地図[ちず]は 非常[ひじょう]に 詳[くわ]しくて、小[ちい]さな 道[みち]まで 載[の]っている。
+  Diese Karte ist sehr detailliert und zeigt sogar kleine Wege.
+
+  彼女は詳しい手紙を書いてくれた。
+  彼女[かのじょ]は 詳[くわ]しい 手紙[てがみ]を 書[か]いてくれた。
+  Sie schrieb mir einen ausführlichen Brief.
+
+  詳しい情報を得るために、専門家に相談した。
+  詳[くわ]しい 情報[じょうほう]を 得[え]るために、専門家[せんもんか]に 相談[そうだん]した。
+  Um genaue Informationen zu erhalten, konsultierte ich einen Experten.
+
+  私はこの町の地理に詳しくない。
+  私[わたし]はこの 町[まち]の 地理[ちり]に 詳[くわ]しくない。
+  Ich kenne mich mit der Geographie dieser Stadt nicht gut aus.
+
+  詳しく説明してください。
+  詳[くわ]しく 説明[せつめい]してください。
+  Bitte erklären Sie es ausführlich.
+
+  彼は音楽に詳しい人だ。
+  彼[かれ]は 音楽[おんがく]に 詳[くわ]しい 人[ひと]だ。
+  Er ist jemand, der sich gut mit Musik auskennt.
+
+  この本には詳しい解説がついている。
+  この 本[ほん]には 詳[くわ]しい 解説[かいせつ]がついている。
+  Dieses Buch enthält detaillierte Erläuterungen.
+
+  詳しい事情は分かりませんが、何か問題があったようです。
+  詳[くわ]しい 事情[じじょう]は 分[わ]かりませんが、何[なに]か 問題[もんだい]があったようです。
+  Ich kenne die genauen Umstände nicht, aber es scheint irgendein Problem gegeben zu haben.
+
+  彼女は料理に詳しい。
+  彼女[かのじょ]は 料理[りょうり]に 詳[くわ]しい。
+  Sie kennt sich gut mit Kochen aus.
+
+  詳しいことは後で教えます。
+  詳[くわ]しいことは 後[あと]で 教[おし]えます。
+  Ich werde Ihnen die Details später mitteilen.
+
+  この報告書は詳しすぎて、重要な点が分かりにくい。
+  この 報告書[ほうこくしょ]は 詳[くわ]しすぎて、重要[じゅうよう]な 点[てん]が 分[わ]かりにくい。
+  Dieser Bericht ist zu detailliert, sodass die wichtigen Punkte schwer zu erkennen sind.
+
+  詳しい内容については、ウェブサイトをご覧ください。
+  詳[くわ]しい 内容[ないよう]については、ウェブサイトをご 覧[らん]ください。
+  Für detaillierte Informationen besuchen Sie bitte unsere Website.
+
+  彼は車のメカニズムに詳しい。
+  彼[かれ]は 車[くるま]のメカニズムに 詳[くわ]しい。
+  Er kennt sich gut mit der Mechanik von Autos aus.
+
+  詳しく調べたところ、彼の主張は間違いだと分かった。
+  詳[くわ]しく 調[しら]べたところ、彼[かれ]の 主張[しゅちょう]は 間違[まちが]いだと 分[わ]かった。
+  Nach gründlicher Untersuchung stellte sich heraus, dass seine Behauptung falsch war.
+
+  この辞書は言葉の使い方を詳しく説明している。
+  この 辞書[じしょ]は 言葉[ことば]の 使[つか]い 方[かた]を 詳[くわ]しく 説明[せつめい]している。
+  Dieses Wörterbuch erklärt die Verwendung von Wörtern ausführlich.
+
+  詳しい計画を立てる必要がある。
+  詳[くわ]しい 計画[けいかく]を 立[た]てる 必要[ひつよう]がある。
+  Wir müssen einen detaillierten Plan erstellen.
+
+  彼女は外国の文化に詳しい。
+  彼女[かのじょ]は 外国[がいこく]の 文化[ぶんか]に 詳[くわ]しい。
+  Sie kennt sich gut mit ausländischen Kulturen aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
