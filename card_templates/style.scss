@@ -651,6 +651,11 @@ rt {
 
 #kanji_table {
   max-width: 300px;
+  transition: max-width 0.2s;
+
+  &:has(.kanji_char.large) {
+    max-width: 400px;
+  }
 }
 
 .kanji_entry {
@@ -659,8 +664,16 @@ rt {
   gap: 1em;
 
   .kanji_char {
-    font-size: 85px;
+    font-size: 80px;
+    line-height: 80px;
+    transition: all 0.2s;
     font-family: stroke;
+    cursor: pointer;
+
+    &.large {
+      font-size: 180px;
+      line-height: 180px;
+    }
   }
 
   .kanji_meanings {

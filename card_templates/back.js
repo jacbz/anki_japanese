@@ -91,33 +91,31 @@ function refreshExampleSentences() {
 }
 
 function formatSentences(within = document) {
-  within
-    .querySelectorAll(
-      ".jp:not(:has(.sentence-with-audio)), .exj:not(:has(.sentence-with-audio))"
-    )
-    .forEach(function (el) {
-      const text = processText(el.innerHTML, true);
-      const sentenceWithoutFurigana =
-        el.dataset.sentence ??
-        text.replaceAll(/（.+?）/g, "").replaceAll(/\(.+?\)/g, "");
-      el.innerHTML = `<span class="sentence-with-audio">${audioButton(
-        sentenceWithoutFurigana
-      )}<span>${addFurigana(text)}</span></span>`;
+  within.querySelectorAll(".jp, .exj").forEach(function (el) {
+    if (el.querySelector(".sentence-with-audio")) {
+      return;
+    }
 
-      el.querySelectorAll("ruby").forEach((ruby) => {
-        ruby.onclick = (event) => {
-          event.stopPropagation();
-          ruby.classList.toggle("show-furigana");
-        };
-      });
+    const text = processText(el.innerHTML, true);
+    const sentenceWithoutFurigana =
+      el.dataset.sentence ??
+      text.replaceAll(/（.+?）/g, "").replaceAll(/\(.+?\)/g, "");
+    el.innerHTML = `<span class="sentence-with-audio">${audioButton(
+      sentenceWithoutFurigana
+    )}<span>${addFurigana(text)}</span></span>`;
 
-      if (el.classList.contains("spoiler")) {
-        el.classList.remove("spoiler");
-        el.querySelector(".sentence-with-audio > span").classList.add(
-          "spoiler"
-        );
-      }
+    el.querySelectorAll("ruby").forEach((ruby) => {
+      ruby.onclick = (event) => {
+        event.stopPropagation();
+        ruby.classList.toggle("show-furigana");
+      };
     });
+
+    if (el.classList.contains("spoiler")) {
+      el.classList.remove("spoiler");
+      el.querySelector(".sentence-with-audio > span").classList.add("spoiler");
+    }
+  });
 
   within.querySelectorAll(".de").forEach(function (el) {
     el.innerHTML = processText(el.innerHTML, false);
@@ -205,15 +203,23 @@ function expandSection(section) {
 }
 
 /**
+ * Kanji
+ */
+document.querySelectorAll(".kanji_char").forEach(function (kanji) {
+  kanji.onclick = function () {
+    kanji.classList.toggle("large");
+  };
+});
+
+/**
  * GitHub
  */
 const github = document.querySelector(".github > a");
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
-  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.toString().padStart(
-    4,
-    "0"
-  )}.yml`;
+  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank
+    .toString()
+    .padStart(4, "0")}.yml`;
 } else {
   github.remove();
 }
