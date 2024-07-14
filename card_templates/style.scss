@@ -371,6 +371,7 @@ hr {
 #sentences {
   border-width: 3px;
   padding: 12px;
+  padding-top: 3px;
   font-size: 55%;
 }
 
@@ -696,22 +697,16 @@ ruby {
   -webkit-tap-highlight-color: transparent;
 }
 
-rb {
-  margin-top: 2px;
-}
-
 rt {
   opacity: 0;
   letter-spacing: -6px;
   transition: all 0.2s;
   user-select: none;
-  max-height: 0;
 }
 
 .show-furigana rt {
   opacity: 100%;
   letter-spacing: normal;
-  max-height: unset;
 }
 
 .highlight {

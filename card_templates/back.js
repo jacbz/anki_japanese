@@ -210,7 +210,7 @@ function expandSection(section) {
 const github = document.querySelector(".github > a");
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
-  github.href = `https://github.com/jacbz/anki_japanese/blob/main/cards/${rank.padStart(
+  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.toString().padStart(
     4,
     "0"
   )}.yml`;
