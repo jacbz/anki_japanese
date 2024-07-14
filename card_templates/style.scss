@@ -163,14 +163,6 @@
   }
 }
 
-.word {
-  font-weight: bold;
-
-  &:has(.feminine .stem) {
-    margin-bottom: 0.75em;
-  }
-}
-
 .pos {
   font-size: 50%;
   font-weight: bold;
@@ -186,6 +178,21 @@
     text-decoration: none;
     display: block;
     cursor: auto;
+  }
+}
+
+#conjugation {
+  margin-top: 0.75em;
+  font-size: 40%;
+}
+
+#origin {
+  margin-top: 0.75em;
+  font-size: 50%;
+  opacity: 70%;
+  
+  &::before {
+    content: "⬑ ";
   }
 }
 
@@ -218,8 +225,8 @@
 
 #alternative {
   margin-top: 0.2em;
-  font-size: 75%;
-  opacity: 80%;
+  font-size: 55%;
+  opacity: 60%;
 }
 
 span.no-break {
@@ -495,92 +502,6 @@ u {
   }
 }
 
-.section-conjugation-table-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.4em;
-}
-
-.night_mode .section-conjugation-table {
-  background: #444;
-}
-
-.section-conjugation-table {
-  background: #eee;
-  padding: 0.25em 0.75em;
-  border-radius: 0.5em;
-
-  td {
-    &:not(:last-child) {
-      text-align: right;
-    }
-
-    &:last-child {
-      font-weight: bold;
-    }
-
-    &::before {
-      content: attr(data-prefix);
-    }
-  }
-
-  tr.elision td:not(:last-child) > span.full {
-    display: none;
-  }
-  tr:not(.elision) td:not(:last-child) > span.elision {
-    display: none;
-  }
-
-  &[data-aux="etre"] {
-    td[data-plural="true"]::after {
-      content: "s";
-    }
-    tr span.avoir {
-      display: none;
-    }
-  }
-
-  &:not([data-aux="etre"]) {
-    tr span.etre {
-      display: none;
-    }
-  }
-
-  &[data-reflexive="true"] {
-    td {
-      &::after {
-        content: attr(data-reflexive-suffix);
-      }
-      &::before {
-        content: attr(data-reflexive-prefix);
-      }
-      &:not(:last-child) > span:not(.reflexive) {
-        display: none;
-      }
-    }
-    tr.elision td::before {
-      content: attr(data-reflexive-prefix-elision);
-    }
-  }
-
-  &:not([data-reflexive="true"]) {
-    td:not(:last-child) > span.reflexive {
-      display: none;
-    }
-  }
-
-  &[data-only-third-person="true"] {
-    tr:not(:nth-child(3)):not(:only-of-type) {
-      display: none;
-    }
-  }
-}
-
-#conjugation-grammar > :first-child {
-  margin-top: 0.75em !important;
-}
-
 .attention,
 .tip,
 .highlight {
@@ -751,7 +672,8 @@ rt {
     margin-top: 0.3em;
   }
 
-  .kanji_readings_on::before, .kanji_readings_kun::before {
+  .kanji_readings_on::before,
+  .kanji_readings_kun::before {
     margin-right: 0.25em;
     border: 1px solid #999;
     color: #444;
@@ -789,7 +711,8 @@ rt {
   }
 }
 
-.night_mode .kanji_readings_on::before, .night_mode .kanji_readings_kun::before {
+.night_mode .kanji_readings_on::before,
+.night_mode .kanji_readings_kun::before {
   border-color: #aaa;
   color: #ddd;
 }
