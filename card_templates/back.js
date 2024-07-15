@@ -157,8 +157,15 @@ refreshExampleSentences();
 formatSentences();
 const nextSentenceButton = document.getElementById("next_sentence");
 nextSentenceButton.onclick = nextSentenceHandler;
+sentencesInner.ondblclick = nextSentenceHandler;
 
-function nextSentenceHandler() {
+function nextSentenceHandler(event) {
+  if (
+    event.target.closest(".spoiler") ||
+    event.target.closest(".sentence-with-audio")
+  ) {
+    return;
+  }
   currentSentence = (currentSentence + 1) % sentencesPairs.length;
   refreshExampleSentences();
 }

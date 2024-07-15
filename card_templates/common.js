@@ -34,10 +34,6 @@ function processText(text, isJapanese) {
   }
   text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
-  // Replace text surrounded by asterisks with underlined text
-  text = text.replace(/\*(.+?)\*/g, (match, content) => {
-    return `<u>${content}</u>`;
-  });
   if (isJapanese) {
   } else {
     // format dialogue
