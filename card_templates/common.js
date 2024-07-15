@@ -6,7 +6,7 @@ function addFurigana(text) {
         kanji.startsWith("　") ? "　" : ""
       }<ruby>${kanji.trim()}<rt>${furigana}</rt></ruby>`;
     }
-  );
+  ).replaceAll(' ', '');
 }
 
 function formatDefinition() {
