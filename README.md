@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro Karte). 9 Karten haben eine Notiz.
+Insgesamt gibt es 4972 Karten mit 5898 Beispielsätzen (durchschnittlich 1.2 pro Karte). 9 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -489,7 +489,7 @@ Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro
 | 468 | 影響 | えいきょう | Einfluss; beeinflussen | 1 |  | [Bearbeiten](cards/0468.yml) |
 | 469 | 病院 | びょういん | Krankenhaus | 1 |  | [Bearbeiten](cards/0469.yml) |
 | 470 | 年 | とし | Jahr; Alter | 1 |  | [Bearbeiten](cards/0470.yml) |
-| 471 | 花 | はな | Blume | 21 |  | [Bearbeiten](cards/0471.yml) |
+| 471 | 花 | はな | Blume | 20 |  | [Bearbeiten](cards/0471.yml) |
 | 472 | 求める | もとめる | verlangen, anfordern, fordern | 1 |  | [Bearbeiten](cards/0472.yml) |
 | 473 | 情報 | じょうほう | Information | 1 |  | [Bearbeiten](cards/0473.yml) |
 | 474 | もらう |  | bekommen | 1 |  | [Bearbeiten](cards/0474.yml) |
@@ -808,7 +808,7 @@ Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro
 | 789 | 妻 | つま | (eigene) Ehefrau | 1 |  | [Bearbeiten](cards/0789.yml) |
 | 790 | 冬 | ふゆ | Winter | 1 |  | [Bearbeiten](cards/0790.yml) |
 | 791 | 具体的 | ぐたいてき | konkret | 1 |  | [Bearbeiten](cards/0791.yml) |
-| 792 | もと |  | unter | 1 |  | [Bearbeiten](cards/0792.yml) |
+| 792 | もと |  | unter | 20 |  | [Bearbeiten](cards/0792.yml) |
 | 793 | 発生 | はっせい | Auftreten | 1 |  | [Bearbeiten](cards/0793.yml) |
 | 794 | 繰り返す | くりかえす | wiederholen | 20 |  | [Bearbeiten](cards/0794.yml) |
 | 795 | 泣く | なく | weinen | 21 |  | [Bearbeiten](cards/0795.yml) |
@@ -836,7 +836,7 @@ Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro
 | 817 | 直接 | ちょくせつ | direkt | 1 |  | [Bearbeiten](cards/0817.yml) |
 | 818 | バス |  | Bus | 1 |  | [Bearbeiten](cards/0818.yml) |
 | 819 | 効果 | こうか | Wirksamkeit, Effekt | 1 |  | [Bearbeiten](cards/0819.yml) |
-| 820 | 現実 | げんじつ | Realität, Wirklichkeit | 1 |  | [Bearbeiten](cards/0820.yml) |
+| 820 | 現実 | げんじつ | Realität, Wirklichkeit | 19 |  | [Bearbeiten](cards/0820.yml) |
 | 821 | 触れる | ふれる | berühren; erleben | 1 |  | [Bearbeiten](cards/0821.yml) |
 | 822 | 飼う | かう | haben (Tier), züchten | 1 |  | [Bearbeiten](cards/0822.yml) |
 | 823 | しゃべる |  | unterhalten, plaudern | 1 |  | [Bearbeiten](cards/0823.yml) |
@@ -851,7 +851,7 @@ Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro
 | 832 | 殺す | ころす | töten | 1 |  | [Bearbeiten](cards/0832.yml) |
 | 833 | 特徴 | とくちょう | Merkmal, Eigenschaft | 1 |  | [Bearbeiten](cards/0833.yml) |
 | 834 | 神 | かみ | Gott | 1 |  | [Bearbeiten](cards/0834.yml) |
-| 835 | 暮らす | くらす | leben | 1 | X | [Bearbeiten](cards/0835.yml) |
+| 835 | 暮らす | くらす | leben | 20 | X | [Bearbeiten](cards/0835.yml) |
 | 836 | 飛ぶ | とぶ | fliegen | 1 |  | [Bearbeiten](cards/0836.yml) |
 | 837 | 終わり | おわり | Ende | 1 |  | [Bearbeiten](cards/0837.yml) |
 | 838 | 雑誌 | ざっし | Zeitschrift | 1 |  | [Bearbeiten](cards/0838.yml) |
@@ -2079,7 +2079,7 @@ Insgesamt gibt es 4972 Karten mit 5843 Beispielsätzen (durchschnittlich 1.2 pro
 | 2067 | 配慮 | はいりょ | Berücksichtigung | 1 |  | [Bearbeiten](cards/2067.yml) |
 | 2068 | 赤 | あか | rot | 1 |  | [Bearbeiten](cards/2068.yml) |
 | 2069 | かぶる |  | aufsetzen, bedecken | 1 |  | [Bearbeiten](cards/2069.yml) |
-| 2070 | 海外旅行 | かいがいりょこう | Auslandsreise, Auslandsreisen | 1 |  | [Bearbeiten](cards/2070.yml) |
+| 2070 | 海外旅行 | かいがいりょこう | Auslandsreise | 1 |  | [Bearbeiten](cards/2070.yml) |
 | 2071 | 営業 | えいぎょう | Geschäft, Verkauf | 1 |  | [Bearbeiten](cards/2071.yml) |
 | 2072 | 水 | すい | Mittwoch | 1 |  | [Bearbeiten](cards/2072.yml) |
 | 2073 | なるほど |  | aha, verstehe, gewiss | 1 |  | [Bearbeiten](cards/2073.yml) |

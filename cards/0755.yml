@@ -14,6 +14,9 @@ Register: ''
 Dispersion: '88'
 Ursprung: ''
 Konjugation: ''
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |
   彼女は事情を詳しく説明した。
   彼女[かのじょ]は 事情[じじょう]を 詳[くわ]しく 説明[せつめい]した。

@@ -12,7 +12,10 @@ Register: ''
 Dispersion: '89'
 Ursprung: ''
 Konjugation: ''
-Beispielsätze: |+
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
   公園に花が咲いている。
   公園[こうえん]に 花[はな]が 咲[さ]いている。
   Im Park blühen Blumen.
@@ -92,7 +95,6 @@ Beispielsätze: |+
   彼女は花も恥らうほど美しかった。
   彼女[かのじょ]は 花[はな]も 恥[はじ]らうほど 美[うつく]しかった。
   Sie war so schön, dass selbst die Blumen verlegen wurden.
-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

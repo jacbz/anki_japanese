@@ -18,9 +18,81 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  理想は現実とは違う。
-  理想[りそう]は 現実[げんじつ]とは 違[ちが]う。
-  Es gibt einen Unterschied zwischen Ideal und Realität.
+  理想は現実とは違うものだ。
+  理想[りそう]は 現実[げんじつ]とは 違[ちが]うものだ。
+  Ideale unterscheiden sich von der Realität.
+
+  厳しい現実から目を背けてはいけない。
+  厳[きび]しい 現実[げんじつ]から 目[め]を 背[そむ]けてはいけない。
+  Man darf den Blick nicht von der harten Realität abwenden.
+
+  彼女は現実から逃避しようとしている。
+  彼女[かのじょ]は 現実[げんじつ]から 逃避[とうひ]しようとしている。
+  Sie versucht, vor der Realität zu fliehen.
+
+  この映画は現実に忠実だ。
+  この 映画[えいが]は 現実[げんじつ]に 忠実[ちゅうじつ]だ。
+  Dieser Film ist wirklichkeitsgetreu.
+
+  夢が現実になった。
+  夢[ゆめ]が 現実[げんじつ]になった。
+  Der Traum ist Wirklichkeit geworden.
+
+  彼の計画は現実に即していない。
+  彼[かれ]の 計画[けいかく]は 現実[げんじつ]に 即[そく]していない。
+  Sein Plan ist unrealistisch.
+
+  現実に即して考えることが大切だ。
+  現実[げんじつ]に 即[そく]して 考[かんが]えることが 大切[たいせつ]だ。
+  Es ist wichtig, realistisch zu denken.
+
+  彼は現実に疎い人だ。
+  彼[かれ]は 現実[げんじつ]に 疎[うと]い 人[ひと]だ。
+  Er ist ein realitätsfremder Mensch.
+
+  現実には、そんなことはありえない。
+  現実[げんじつ]には、そんなことはありえない。
+  In Wirklichkeit ist so etwas unmöglich.
+
+  現実を直視することが問題解決の第一歩だ。
+  現実[げんじつ]を 直視[ちょくし]することが 問題解決[もんだいかいけつ]の 第一歩[だいいっぽ]だ。
+  Der Realität ins Auge zu sehen ist der erste Schritt zur Problemlösung.
+
+  彼女は現実を直視しようとしない。
+  彼女[かのじょ]は 現実[げんじつ]を 直視[ちょくし]しようとしない。
+  Sie will der Realität nicht ins Auge sehen.
+
+  経済の厳しい現実に直面している。
+  経済[けいざい]の 厳[きび]しい 現実[げんじつ]に 直面[ちょくめん]している。
+  Wir stehen vor der harten wirtschaftlichen Realität.
+
+  理想と現実のギャップに悩んでいる。
+  理想[りそう]と 現実[げんじつ]のギャップに 悩[なや]んでいる。
+  Ich leide unter der Kluft zwischen Ideal und Wirklichkeit.
+
+  拡張現実技術が急速に発展している。
+  拡張[かくちょう] 現実[げんじつ] 技術[ぎじゅつ]が 急速[きゅうそく]に 発展[はってん]している。
+  Die Technologie der erweiterten Realität entwickelt sich rasant.
+
+  仮想現実の世界に没頭している。
+  仮想[かそう] 現実[げんじつ]の 世界[せかい]に 没頭[ぼっとう]している。
+  Ich bin in die Welt der virtuellen Realität eingetaucht.
+
+  現実的な解決策を見つける必要がある。
+  現実的[げんじつてき]な 解決策[かいけつさく]を 見[み]つける 必要[ひつよう]がある。
+  Wir müssen eine realistische Lösung finden.
+
+  彼の考え方は非常に現実的だ。
+  彼[かれ]の 考え方[かんがえかた]は 非常[ひじょう]に 現実的[げんじつてき]だ。
+  Seine Denkweise ist sehr realistisch.
+
+  この計画は現実的で実行可能だ。
+  この 計画[けいかく]は 現実的[げんじつてき]で 実行可能[じっこうかのう]だ。
+  Dieser Plan ist realistisch und durchführbar.
+
+  現実的な目標を立てることが成功の鍵だ。
+  現実的[げんじつてき]な 目標[もくひょう]を 立[た]てることが 成功[せいこう]の 鍵[かぎ]だ。
+  Realistische Ziele zu setzen ist der Schlüssel zum Erfolg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

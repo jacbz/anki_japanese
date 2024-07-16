@@ -12,7 +12,7 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 暮らさない・暮らした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -20,6 +20,82 @@ Beispielsätze: |-
   みんな幸せに暮らしたいと思っている。
   みんな 幸[しあわ]せに 暮[く]らしたいと 思[おも]っている。
   Jeder wünscht sich, ein glückliches Leben zu führen.
+
+  一緒に暮らすことになりました。
+  一緒[いっしょ]に 暮[く]らすことになりました。
+  Wir werden zusammen leben.
+
+  彼女は独身で暮らしている。
+  彼女[かのじょ]は 独身[どくしん]で 暮[く]らしている。
+  Sie lebt alleine als Single.
+
+  一人で暮らすのは寂しくないの？
+  一人[ひとり]で 暮[く]らすのは 寂[さび]しくないの？
+  Fühlst du dich nicht einsam, wenn du alleine lebst?
+
+  両親は安閑として暮らしています。
+  両親[りょうしん]は 安閑[あんかん]として 暮[く]らしています。
+  Meine Eltern führen ein beschauliches Leben.
+
+  戦争が終わり、人々は安気に暮らせるようになった。
+  戦争[せんそう]が 終[お]わり、人々[ひとびと]は 安気[あんき]に 暮[く]らせるようになった。
+  Nach dem Ende des Krieges konnten die Menschen in Frieden leben.
+
+  夫婦円満に暮らすには互いの理解が大切だ。
+  夫婦[ふうふ] 円満[えんまん]に 暮[く]らすには 互[たが]いの 理解[りかい]が 大切[たいせつ]だ。
+  Für ein harmonisches Eheleben ist gegenseitiges Verständnis wichtig.
+
+  ぶらぶら暮らして、仕事を探す気がないの？
+  ぶらぶら 暮[く]らして、仕事[しごと]を 探[さが]す 気[き]がないの？
+  Du lebst einfach in den Tag hinein, hast du keine Lust, dir Arbeit zu suchen?
+
+  失業してからどうにか暮らしているけど、大変だ。
+  失業[しつぎょう]してからどうにか 暮[く]らしているけど、大変[たいへん]だ。
+  Seit ich arbeitslos bin, schlage ich mich irgendwie durchs Leben, aber es ist hart.
+
+  おばあちゃんは90歳になっても元気に暮らしている。
+  おばあちゃんは90歳[さい]になっても 元気[げんき]に 暮[く]らしている。
+  Oma lebt auch mit 90 Jahren noch bei guter Gesundheit.
+
+  彼は宝くじに当たってから贅沢に暮らしている。
+  彼[かれ]は 宝[たから]くじに 当[あ]たってから 贅沢[ぜいたく]に 暮[く]らしている。
+  Seit er im Lotto gewonnen hat, führt er ein luxuriöses Leben.
+
+  幸福に暮らすには、お金だけでなく心の豊かさも必要だ。
+  幸福[こうふく]に 暮[く]らすには、お 金[かね]だけでなく 心[こころ]の 豊[ゆた]かさも 必要[ひつよう]だ。
+  Um glücklich zu leben, braucht man nicht nur Geld, sondern auch inneren Reichtum.
+
+  休日は一日を読書で暮らすことが多い。
+  休日[きゅうじつ]は 一日[いちにち]を 読書[どくしょ]で 暮[く]らすことが 多[おお]い。
+  An freien Tagen verbringe ich oft den ganzen Tag mit Lesen.
+
+  外国に暮らす夢を持っていますか？
+  外国[がいこく]に 暮[く]らす 夢[ゆめ]を 持[も]っていますか？
+  Hast du den Traum, im Ausland zu leben?
+
+  大学生の息子は遊んで暮らしているようだ。
+  大学生[だいがくせい]の 息子[むすこ]は 遊[あそ]んで 暮[く]らしているようだ。
+  Mein Sohn, der Student ist, scheint seine Zeit nur mit Vergnügungen zu verbringen.
+
+  日本に行って不自由なく暮らせる資産があれば良いのに。
+  日本[にほん]に 行[い]って 不自由[ふじゆう]なく 暮[く]らせる 資産[しさん]があれば 良[よ]いのに。
+  Wenn ich nur genug Vermögen hätte, um ohne Einschränkungen in Japan leben zu können.
+
+  ママと二人で暮らしてきたから、他の人と違う考え方になったのかも。
+  ママと 二人[ふたり]で 暮[く]らしてきたから、他[ほか]の 人[ひと]と 違[ちが]う 考[かんが]え 方[かた]になったのかも。
+  Vielleicht denke ich anders als andere, weil ich nur mit meiner Mutter aufgewachsen bin.
+
+  アパートを借りて一人で気楽に暮らしたいな。
+  アパートを 借[か]りて 一人[ひとり]で 気楽[きらく]に 暮[く]らしたいな。
+  Ich würde gerne eine Wohnung mieten und alleine unbeschwert leben.
+
+  彼は手内職をしたり、歌を歌ったりして暮らしていた。
+  彼[かれ]は 手内職[てないしょく]をしたり、歌[うた]を 歌[うた]ったりして 暮[く]らしていた。
+  Er schlug sich durchs Leben, indem er Heimarbeit machte oder Lieder sang.
+
+  泣いて暮らすより、笑って暮らす方が人生は楽しい。
+  泣[な]いて 暮[く]らすより、笑[わら]って 暮[く]らす 方[ほう]が 人生[じんせい]は 楽[たの]しい。
+  Es ist besser, das Leben lachend zu verbringen als weinend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
