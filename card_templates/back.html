@@ -1,6 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="referrer" content="no-referrer" />
-<div style="display: none">{{Audio}}</div>
 <audio>
   <source src="" />
 </audio>
@@ -18,7 +17,11 @@
 {{#Alternative}}<div id="alternative">{{Alternative}}</div>{{/Alternative}}
 </div>
 
-<div style="margin-top: 0.75em; padding-bottom: 0.35em;">
+{{#Audio}}
+<div class="audio">{{Audio}}</div>
+{{/Audio}}
+
+<div style="margin-top: 0.35em; padding-bottom: 0.35em;">
   <span class="pos">{{POS}}</span>
   <span class="definition">{{Definition}}</span>
 </div>

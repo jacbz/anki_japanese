@@ -1,6 +1,7 @@
 ___CONFIG___;
 
 const lemma = document.querySelector("#lemma").dataset.lemma;
+const rank = parseInt(document.querySelector(".rank").dataset.content);
 
 /**
  * POS
@@ -130,25 +131,30 @@ function formatSentences(within = document) {
   initAudioButtons(within);
 }
 
+const audioCurrent = document.querySelector("audio");
 function initAudioButtons(within = document) {
   within.querySelectorAll(".play-sentence").forEach(function (el) {
-    el.onclick = function (event) {
+    el.onclick = async function (event) {
       event.stopPropagation();
+
+      const text = this.dataset.text;
+      const googleUrl = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=ja-JP&client=tw-ob`;
+      let url = googleUrl;
 
       if (
         el.closest(".jp") &&
         el.closest(".jp").dataset.isFirstSentence === "true"
       ) {
-        document.querySelector(".replay-button").click();
-        return;
+        url = `${getAnkiPrefix()}/JP5000_sentence_${rank.toString().padStart(4, "0")}.mp3`;
       }
 
-      const text = this.dataset.text;
-      const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=ja-JP&client=tw-ob`;
-
-      const audioCurrent = document.querySelector("audio");
-      audioCurrent.src = url;
-      audioCurrent.play();
+      try {
+        audioCurrent.src = url;
+        await audioCurrent.play();
+      } catch {
+        audioCurrent.src = googleUrl;
+        audioCurrent.play();
+      }
     };
   });
 }
@@ -222,7 +228,6 @@ document.querySelectorAll(".kanji_char").forEach(function (kanji) {
  * GitHub
  */
 const github = document.querySelector(".github > a");
-const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
   github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank
     .toString()

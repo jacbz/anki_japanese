@@ -163,6 +163,10 @@
   }
 }
 
+.audio {
+  margin: 0.3em;
+}
+
 .pos {
   font-size: 50%;
   font-weight: bold;
@@ -369,6 +373,8 @@ hr {
   align-items: center;
   transform: translateY(-120%);
   font-size: 85%;
+  user-select: none;
+  -webkit-user-select: none;
 
   .svg-button {
     margin-left: 0.3em;
