@@ -14,16 +14,16 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  彼はこの大学*の*学生だ。
-  彼[かれ]はこの 大学[だいがく]*の* 学生[がくせい]だ。
+  彼はこの大学の学生だ。
+  彼[かれ]はこの 大学[だいがく]の 学生[がくせい]だ。
   Er ist Student an dieser Universität.
 
-  彼が言った*の*は本当だ。
-  彼[かれ]が 言[い]った*の*は 本当[ほんとう]だ。
+  彼が言ったのは本当だ。
+  彼[かれ]が 言[い]ったのは 本当[ほんとう]だ。
   Es ist wahr, was er sagte.
 
-  どうして泣いてる*の*。
-  どうして 泣[な]いてる*の*。
+  どうして泣いてるの。
+  どうして 泣[な]いてるの。
   Warum weinst du?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:

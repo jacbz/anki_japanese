@@ -2,7 +2,7 @@ Rang: 677
 Lemma: 進める
 Lesung: すすめる
 Alternativschreibweisen: ''
-Definition: weitermachen, vorwärts bewegen
+Definition: vorantreiben, vorwärts bewegen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span class="inner"><span
@@ -13,14 +13,94 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-4"><span cla
 Register: ''
 Dispersion: '70'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 進めない・進めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は計画を進めた。
   彼[かれ]は 計画[けいかく]を 進[すす]めた。
-  Er hat mit dem Plan weitergemacht.
+  Er hat den Plan vorangetrieben.
+
+  煙に包まれると危険で進めない。
+  煙[けむり]に 包[つつ]まれると 危険[きけん]で 進[すす]めない。
+  Wenn wir von Rauch umgeben sind, ist es zu gefährlich weiterzugehen.
+
+  私は彼女の後について機械的に歩を進めながら、状況を観察した。
+  私[わたし]は 彼女[かのじょ]の 後[あと]について 機械的[きかいてき]に 歩[あゆみ]を 進[すす]めながら、状況[じょうきょう]を 観察[かんさつ]した。
+  Während ich mechanisch hinter ihr herging, beobachtete ich die Situation.
+
+  車のエンジンを入れ、港に向って車を進めた。
+  車[くるま]のエンジンを 入[い]れ、港[みなと]に 向[む]って 車[くるま]を 進[すす]めた。
+  Ich startete den Motor und fuhr in Richtung Hafen.
+
+  開発チームは新製品の開発を急ピッチで進めている。
+  開発[かいはつ]チームは 新製品[しんせいひん]の 開発[かいはつ]を 急[きゅう]ピッチで 進[すす]めている。
+  Das Entwicklungsteam treibt die Entwicklung des neuen Produkts mit hohem Tempo voran.
+
+  交渉を進めるには互いの理解が必要だ。
+  交渉[こうしょう]を 進[すす]めるには 互[たが]いの 理解[りかい]が 必要[ひつよう]だ。
+  Um die Verhandlungen voranzutreiben, ist gegenseitiges Verständnis nötig.
+
+  研究者たちは新しい治療法の研究を進めている。
+  研究者[けんきゅうしゃ]たちは 新[あたら]しい 治療法[ちりょうほう]の 研究[けんきゅう]を 進[すす]めている。
+  Die Forscher treiben die Untersuchung einer neuen Behandlungsmethode voran.
+
+  会社は社員の能力向上を進めるためのプログラムを導入した。
+  会社[かいしゃ]は 社員[しゃいん]の 能力向上[のうりょくこうじょう]を 進[すす]めるためのプログラムを 導入[どうにゅう]した。
+  Das Unternehmen hat ein Programm zur Förderung der Fähigkeiten seiner Mitarbeiter eingeführt.
+
+  警察は事件の調査を慎重に進めている。
+  警察[けいさつ]は 事件[じけん]の 調査[ちょうさ]を 慎重[しんちょう]に 進[すす]めている。
+  Die Polizei führt die Untersuchung des Vorfalls sorgfältig durch.
+
+  彼らは環境保護活動を積極的に進めている。
+  彼[かれ]らは 環境保護[かんきょうほご]活動[かつどう]を 積極的[せっきょくてき]に 進[すす]めている。
+  Sie treiben aktiv Umweltschutzaktivitäten voran.
+
+  政府は経済改革を段階的に進める方針だ。
+  政府[せいふ]は 経済改革[けいざいかいかく]を 段階的[だんかいてき]に 進[すす]める 方針[ほうしん]だ。
+  Die Regierung plant, die Wirtschaftsreformen schrittweise voranzutreiben.
+
+  彼は自分のキャリアを着実に進めてきた。
+  彼[かれ]は 自分[じぶん]のキャリアを 着実[ちゃくじつ]に 進[すす]めてきた。
+  Er hat seine Karriere stetig vorangetrieben.
+
+  委員会は新しい提案について議論を進めている。
+  委員会[いいんかい]は 新[あたら]しい 提案[ていあん]について 議論[ぎろん]を 進[すす]めている。
+  Der Ausschuss führt die Diskussion über den neuen Vorschlag weiter.
+
+  彼女は慎重に足を進めながら、暗い部屋を探索した。
+  彼女[かのじょ]は 慎重[しんちょう]に 足[あし]を 進[すす]めながら、暗[くら]い 部屋[へや]を 探索[たんさく]した。
+  Vorsichtig einen Fuß vor den anderen setzend, erkundete sie den dunklen Raum.
+
+  会社は海外展開を積極的に進めている。
+  会社[かいしゃ]は 海外展開[かいがいてんかい]を 積極的[せっきょくてき]に 進[すす]めている。
+  Das Unternehmen treibt seine Expansion ins Ausland aktiv voran.
+
+  プロジェクトリーダーは計画を予定通りに進めるよう指示した。
+  プロジェクトリーダーは 計画[けいかく]を 予定通[よていどお]りに 進[すす]めるよう 指示[しじ]した。
+  Der Projektleiter wies an, den Plan wie vorgesehen voranzutreiben.
+
+  彼らは新技術の開発を急ピッチで進めている。
+  彼[かれ]らは 新技術[しんぎじゅつ]の 開発[かいはつ]を 急[きゅう]ピッチで 進[すす]めている。
+  Sie treiben die Entwicklung der neuen Technologie mit hoher Geschwindigkeit voran.
+
+  時計を10分進めて、遅刻を防ごう。
+  時計[とけい]を10分[ふん] 進[すす]めて、遅刻[ちこく]を 防[ふせ]ごう。
+  Lass uns die Uhr um 10 Minuten vorstellen, um zu spät kommen zu verhindern.
+
+  彼は自分の考えを論理的に進めて、結論に達した。
+  彼[かれ]は 自分[じぶん]の 考[かんが]えを 論理的[ろんりてき]に 進[すす]めて、結論[けつろん]に 達[たっ]した。
+  Er entwickelte seine Gedanken logisch weiter und kam zu einem Schluss.
+
+  我々は慎重に交渉を進めながら、最善の結果を目指している。
+  我々[われわれ]は 慎重[しんちょう]に 交渉[こうしょう]を 進[すす]めながら、最善[さいぜん]の 結果[けっか]を 目指[めざ]している。
+  Wir führen die Verhandlungen vorsichtig weiter und streben das bestmögliche Ergebnis an.
+
+  彼女は自信を持って歩を進め、会議室に入った。
+  彼女[かのじょ]は 自信[じしん]を 持[も]って 歩[あゆみ]を 進[すす]め、会議室[かいぎしつ]に 入[はい]った。
+  Mit Selbstvertrauen schritt sie voran und betrat den Konferenzraum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

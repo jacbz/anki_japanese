@@ -12,7 +12,7 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: 消えない・消えなかった
+Konjugation: 消えない・消えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -70,7 +70,7 @@ Beispielsätze: |-
   Ich sah ihm nach, wie seine Gestalt in der Dunkelheit verschwand.
 
   彼女はカーテンの向こうに消えた。
-  彼女[かのじょ]は カーテンの 向[む]こうに 消[き]えた。
+  彼女[かのじょ]はカーテンの 向[む]こうに 消[き]えた。
   Sie verschwand hinter dem Vorhang.
 
   振り向くと、尾行者の姿は消えていた。

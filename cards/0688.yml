@@ -18,8 +18,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   人にできることには限りがある。
-  人にできることには 限[かぎ]りがある。
-  Es gibt eine Grenze dafür, was Menschen tun können.
+  人[ひと]にできることには 限[かぎ]りがある。
+  Die Fähigkeiten eines Menschen haben ihre Grenzen.
+
+  昨日の会議で、全員の意見を聞くのに時間の限りを尽くした。
+  昨日[きのう]の 会議[かいぎ]で、全員[ぜんいん]の 意見[いけん]を 聞[き]くのに 時間[じかん]の 限[かぎ]りを 尽[つ]くした。
+  In der gestrigen Besprechung haben wir alle Zeit aufgewendet, um die Meinungen aller zu hören.
+
+  彼女の美しさは限りがないようだ。
+  彼女[かのじょ]の 美[うつく]しさは 限[かぎ]りがないようだ。
+  Ihre Schönheit scheint grenzenlos zu sein.
+
+  限りある資源を大切に使わなければならない。
+  限[かぎ]りある 資源[しげん]を 大切[たいせつ]に 使[つか]わなければならない。
+  Wir müssen die begrenzten Ressourcen sorgfältig nutzen.
+
+  声の限りに叫んだが、誰も聞こえなかった。
+  声[こえ]の 限[かぎ]りに 叫[さけ]んだが、誰[だれ]も 聞[き]こえなかった。
+  Ich schrie aus voller Kehle, aber niemand hörte mich.
+
+  力の限り頑張ったが、結果は残念だった。
+  力[ちから]の 限[かぎ]り 頑張[がんば]ったが、結果[けっか]は 残念[ざんねん]だった。
+  Ich habe mein Bestes gegeben, aber das Ergebnis war enttäuschend.
+
+  病気でない限り、毎日運動するようにしている。
+  病気[びょうき]でない 限[かぎ]り、毎日[まいにち] 運動[うんどう]するようにしている。
+  Solange ich nicht krank bin, versuche ich jeden Tag Sport zu treiben.
+
+  できる限り早く仕事を終わらせたい。
+  できる 限[かぎ]り 早[はや]く 仕事[しごと]を 終[お]わらせたい。
+  Ich möchte die Arbeit so schnell wie möglich beenden.
+
+  私の知っている限りでは、彼は正直な人物だ。
+  私[わたし]の 知[し]っている 限[かぎ]りでは、彼[かれ]は 正直[しょうじき]な 人物[じんぶつ]だ。
+  Soweit ich weiß, ist er ein ehrlicher Mensch.
+
+  見渡す限り、田んぼが広がっていた。
+  見渡[みわた]す 限[かぎ]り、田んぼが 広[ひろ]がっていた。
+  Soweit das Auge reichte, erstreckten sich Reisfelder.
+
+  証拠が見つからない限り、彼を疑うことはできない。
+  証拠[しょうこ]が 見[み]つからない 限[かぎ]り、彼[かれ]を 疑[うたが]うことはできない。
+  Solange keine Beweise gefunden werden, können wir ihn nicht verdächtigen.
+
+  この仕事は今度限りで辞めようと思う。
+  この 仕事[しごと]は 今度[こんど] 限[かぎ]りで 辞[や]めようと 思[おも]う。
+  Ich denke darüber nach, diese Arbeit nach diesem einen Mal aufzugeben.
+
+  その場限りの約束は守られないことが多い。
+  その 場限[ばかぎ]りの 約束[やくそく]は 守[まも]られないことが 多[おお]い。
+  Versprechungen, die nur für den Moment gemacht werden, werden oft nicht eingehalten.
+
+  喜ばしい限りです。
+  喜[よろこ]ばしい 限[かぎ]りです。
+  Es ist höchst erfreulich.
+
+  先着50名限りのチケットが販売される。
+  先着[せんちゃく]50名[めい] 限[かぎ]りのチケットが 販売[はんばい]される。
+  Tickets werden nur an die ersten 50 Personen verkauft.
+
+  本日限りの特別セールを開催しています。
+  本日[ほんじつ] 限[かぎ]りの 特別[とくべつ]セールを 開催[かいさい]しています。
+  Wir veranstalten einen speziellen Verkauf nur für heute.
+
+  彼女の笑顔を見ると、幸せな気分になる限りだ。
+  彼女[かのじょ]の 笑顔[えがお]を 見[み]ると、幸[しあわ]せな 気分[きぶん]になる 限[かぎ]りだ。
+  Wenn ich ihr Lächeln sehe, fühle ich mich überaus glücklich.
+
+  明日限りで退職することにした。
+  明日[あした] 限[かぎ]りで 退職[たいしょく]することにした。
+  Ich habe beschlossen, nach morgen in den Ruhestand zu gehen.
+
+  この話は、この場限りにしてください。
+  この 話[はなし]は、この 場限[ばかぎ]りにしてください。
+  Bitte behalte dieses Gespräch für dich.
+
+  限りある人生を大切に生きたい。
+  限[かぎ]りある 人生[じんせい]を 大切[たいせつ]に 生[い]きたい。
+  Ich möchte mein begrenztes Leben sorgfältig leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

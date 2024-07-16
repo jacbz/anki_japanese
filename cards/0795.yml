@@ -11,14 +11,94 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-2"><span cla
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 泣かない・泣いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   男の子が大声で泣いている。
   男[おとこ]の 子[こ]が 大声[おおごえ]で 泣[な]いている。
-  Ein Junge weint laut.
+  Der Junge weint laut.
+
+  赤ちゃんが夜中に泣き出した。
+  赤[あか]ちゃんが 夜中[よなか]に 泣[な]き 出[だ]した。
+  Das Baby fing mitten in der Nacht an zu schreien.
+
+  彼女は嬉しくて泣きそうになった。
+  彼女[かのじょ]は 嬉[うれ]しくて 泣[な]きそうになった。
+  Sie war so glücklich, dass ihr die Tränen kamen.
+
+  彼は悲しみのあまり声を上げて泣いた。
+  彼[かれ]は 悲[かな]しみのあまり 声[こえ]を 上[あ]げて 泣[な]いた。
+  Er weinte laut vor lauter Trauer.
+
+  子供たちはわあわあ泣きながら走り回っていた。
+  子供[こども]たちはわあわあ 泣[な]きながら 走[はし]り 回[まわ]っていた。
+  Die Kinder liefen heulend und schreiend umher.
+
+  感動的な映画を見て、思わず泣いてしまった。
+  感動的[かんどうてき]な 映画[えいが]を 見[み]て、思[おも]わず 泣[な]いてしまった。
+  Ich musste unwillkürlich weinen, als ich den bewegenden Film sah.
+
+  痛くて泣きたくなるけど、我慢している。
+  痛[いた]くて 泣[な]きたくなるけど、我慢[がまん]している。
+  Es tut so weh, dass ich weinen möchte, aber ich halte es aus.
+
+  彼女は借金に泣いている。
+  彼女[かのじょ]は 借金[しゃっきん]に 泣[な]いている。
+  Sie leidet unter ihren Schulden.
+
+  泣いてばかりいても何も解決しないよ。
+  泣[な]いてばかりいても 何[なに]も 解決[かいけつ]しないよ。
+  Es bringt nichts, wenn du nur die ganze Zeit weinst.
+
+  彼は泣きそうな目で私を見つめた。
+  彼[かれ]は 泣[な]きそうな 目[め]で 私[わたし]を 見[み]つめた。
+  Er schaute mich mit Tränen in den Augen an.
+
+  良い知らせを聞いて、喜びに泣いた。
+  良[よ]い 知[し]らせを 聞[き]いて、喜[よろこ]びに 泣[な]いた。
+  Ich weinte vor Freude, als ich die gute Nachricht hörte.
+
+  泣きながら母に謝った。
+  泣[な]きながら 母[はは]に 謝[あやま]った。
+  Unter Tränen entschuldigte ich mich bei meiner Mutter.
+
+  悲しくて泣きたいけど、涙が出ない。
+  悲[かな]しくて 泣[な]きたいけど、涙[なみだ]が 出[で]ない。
+  Ich bin so traurig, dass ich weinen möchte, aber die Tränen kommen nicht.
+
+  彼はめそめそと泣いていた。
+  彼[かれ]はめそめそと 泣[な]いていた。
+  Er schluchzte leise vor sich hin.
+
+  泣きそうになったが、こらえた。
+  泣[な]きそうになったが、こらえた。
+  Ich war kurz davor zu weinen, unterdrückte es aber.
+
+  泣くほど嬉しいです。
+  泣[な]くほど 嬉[うれ]しいです。
+  Ich bin so glücklich, dass ich weinen könnte.
+
+  彼女は泣いて私に頼んだ。
+  彼女[かのじょ]は 泣[な]いて 私[わたし]に 頼[たの]んだ。
+  Sie bat mich unter Tränen.
+
+  赤ん坊が泣き止まない。
+  赤[あか]ん 坊[ぼう]が 泣[な]き 止[や]まない。
+  Das Baby hört nicht auf zu schreien.
+
+  もう泣かないで。大丈夫だよ。
+  もう 泣[な]かないで。大丈夫[だいじょうぶ]だよ。
+  Hör auf zu weinen. Es wird alles gut.
+
+  彼女は泣きそうな声で電話をかけてきた。
+  彼女[かのじょ]は 泣[な]きそうな 声[こえ]で 電話[でんわ]をかけてきた。
+  Sie rief mich mit weinerlicher Stimme an.
+
+  ここは一割ほど泣いてもらえませんか。
+  ここは 一割[いちわり]ほど 泣[な]いてもらえませんか。
+  Könnten Sie uns hier nicht etwa 10% entgegenkommen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

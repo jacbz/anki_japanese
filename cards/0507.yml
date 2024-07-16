@@ -4,7 +4,7 @@ Lesung: ふくむ
 Alternativschreibweisen: ''
 Definition: enthalten, einschließen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span class="inner"><span
   class="char">ふ</span></span></span><span class="accent_top mola_-2"><span class="inner"><span
   class="char">く</span></span></span><span class="mola_-1"><span class="inner"><span
@@ -12,7 +12,7 @@ Lesung mit Tonhöhe: <span class="accented_word"><span class="mola_-3"><span cla
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 含まない・含んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -20,6 +20,82 @@ Beispielsätze: |-
   みかんにはビタミンが含まれている。
   みかんにはビタミンが 含[ふく]まれている。
   Mandarinen enthalten Vitamine.
+
+  彼の言葉には深い意味が含まれていた。
+  彼[かれ]の 言葉[ことば]には 深[ふか]い 意味[いみ]が 含[ふく]まれていた。
+  Seine Worte enthielten eine tiefere Bedeutung.
+
+  この料理にはアルコールを含んでいますか？
+  この 料理[りょうり]にはアルコールを 含[ふく]んでいますか？
+  Enthält dieses Gericht Alkohol?
+
+  この薬には毒性成分が含まれているので注意が必要だ。
+  この 薬[くすり]には 毒性成分[どくせいせいぶん]が 含[ふく]まれているので 注意[ちゅうい]が 必要[ひつよう]だ。
+  Dieses Medikament enthält giftige Bestandteile, daher ist Vorsicht geboten.
+
+  彼女の目は涙を含んでいた。
+  彼女[かのじょ]の 目[め]は 涙[なみだ]を 含[ふく]んでいた。
+  Ihre Augen waren tränenfeucht.
+
+  怒りを含んだ声で彼は返事をした。
+  怒[いか]りを 含[ふく]んだ 声[こえ]で 彼[かれ]は 返事[へんじ]をした。
+  Er antwortete mit einer vor Wut zitternden Stimme.
+
+  湿気を含んだ空気が不快感を引き起こしていた。
+  湿気[しっけ]を 含[ふく]んだ 空気[くうき]が 不快感[ふかいかん]を 引[ひ]き 起[お]こしていた。
+  Die feuchte Luft verursachte ein unangenehmes Gefühl.
+
+  今回の契約には手数料も含まれています。
+  今回[こんかい]の 契約[けいやく]には 手数料[てすうりょう]も 含[ふく]まれています。
+  In diesem Vertrag sind auch die Gebühren enthalten.
+
+  彼の言い方には刺を含んでいて、私を傷つけた。
+  彼[かれ]の 言[い]い 方[かた]には 刺[とげ]を 含[ふく]んでいて、私[わたし]を 傷[きず]つけた。
+  Seine Art zu sprechen enthielt einen Stachel und verletzte mich.
+
+  彼女の声には笑いを含んでいた。
+  彼女[かのじょ]の 声[こえ]には 笑[わら]いを 含[ふく]んでいた。
+  In ihrer Stimme schwang ein Lachen mit.
+
+  清水のように透明ではないが、水が養分を含んでいた。
+  清水[しみず]のように 透明[とうめい]ではないが、水[みず]が 養分[ようぶん]を 含[ふく]んでいた。
+  Das Wasser war nicht klar wie Quellwasser, enthielt aber Nährstoffe.
+
+  車を降りると、湿気を多く含んだ七月の濃い闇に包まれた。
+  車[くるま]を 降[お]りると、湿気[しっけ]を 多[おお]く 含[ふく]んだ 七月[しちがつ]の 濃[こ]い 闇[やみ]に 包[つつ]まれた。
+  Als ich aus dem Auto stieg, umhüllte mich die feuchte, dichte Dunkelheit des Juli.
+
+  キャンディを口に含んで、ゆっくり味わった。
+  キャンディを 口[くち]に 含[ふく]んで、ゆっくり 味[あじ]わった。
+  Ich nahm den Bonbon in den Mund und genoss langsam seinen Geschmack.
+
+  ランプをともし、焼酎を一口、軽く含んでみた。
+  ランプをともし、焼酎[しょうちゅう]を 一口[ひとくち]、軽[かる]く 含[ふく]んでみた。
+  Ich zündete die Lampe an und nahm vorsichtig einen Schluck Shōchū.
+
+  先生の忠告を心に含んで、慎重に行動しよう。
+  先生[せんせい]の 忠告[ちゅうこく]を 心[こころ]に 含[ふく]んで、慎重[しんちょう]に 行動[こうどう]しよう。
+  Lass uns den Rat des Lehrers beherzigen und vorsichtig handeln.
+
+  彼の態度には何か含むところがあるようだ。
+  彼[かれ]の 態度[たいど]には 何[なに]か 含[ふく]むところがあるようだ。
+  Es scheint, als hätte seine Haltung einen Hintergedanken.
+
+  新しい計画にはリスクも含まれていることを忘れないでください。
+  新[あたら]しい 計画[けいかく]には リスク[りすく]も 含[ふく]まれていることを 忘[わす]れないでください。
+  Bitte vergessen Sie nicht, dass der neue Plan auch Risiken beinhaltet.
+
+  この本には多くの重要な情報が含まれています。
+  この 本[ほん]には 多[おお]くの 重要[じゅうよう]な 情報[じょうほう]が 含[ふく]まれています。
+  Dieses Buch enthält viele wichtige Informationen.
+
+  彼女の笑顔には優しさと思いやりが含まれていた。
+  彼女[かのじょ]の 笑顔[えがお]には 優[やさ]しさと 思[おも]いやりが 含[ふく]まれていた。
+  Ihr Lächeln enthielt Freundlichkeit und Mitgefühl.
+
+  この統計には誤差も含まれている可能性があります。
+  この 統計[とうけい]には 誤差[ごさ]も 含[ふく]まれている 可能性[かのうせい]があります。
+  Es besteht die Möglichkeit, dass diese Statistik auch Fehler enthält.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

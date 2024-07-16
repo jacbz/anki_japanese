@@ -12,13 +12,87 @@ Register: ''
 Dispersion: '89'
 Ursprung: ''
 Konjugation: ''
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
-Beispielsätze: |-
+Beispielsätze: |+
   公園に花が咲いている。
   公園[こうえん]に 花[はな]が 咲[さ]いている。
-  Die Blumen blühen im Park.
+  Im Park blühen Blumen.
+
+  花で部屋を飾りました。
+  花[はな]で 部屋[へや]を 飾[かざ]りました。
+  Ich habe das Zimmer mit Blumen geschmückt.
+
+  春になると桜の花が咲き始める。
+  春[はる]になると 桜[さくら]の 花[はな]が 咲[さ]き 始[はじ]める。
+  Wenn der Frühling kommt, beginnen die Kirschblüten zu blühen.
+
+  花が散るのを見るのは少し悲しい。
+  花[はな]が 散[ち]るのを 見[み]るのは 少[すこ]し 悲[かな]しい。
+  Es ist ein bisschen traurig, zu sehen, wie die Blüten abfallen.
+
+  毎朝、花に水をやるのを忘れないでね。
+  毎朝[まいあさ]、花[はな]に 水[みず]をやるのを 忘[わす]れないでね。
+  Vergiss nicht, die Blumen jeden Morgen zu gießen.
+
+  花屋で母の日のプレゼントを買った。
+  花屋[はなや]で 母[はは]の 日[ひ]のプレゼントを 買[か]った。
+  Ich habe im Blumenladen ein Geschenk zum Muttertag gekauft.
+
+  友達の結婚式に花を贈りました。
+  友達[ともだち]の 結婚式[けっこんしき]に 花[はな]を 贈[おく]りました。
+  Ich habe zur Hochzeit meines Freundes Blumen geschickt.
+
+  お墓参りに行くときは、いつも花を持っていきます。
+  お 墓参[はかまい]りに 行[い]くときは、いつも 花[はな]を 持[も]っていきます。
+  Wenn ich zum Grab gehe, nehme ich immer Blumen mit.
+
+  花の香りで気分が良くなった。
+  花[はな]の 香[かお]りで 気分[きぶん]が 良[よ]くなった。
+  Der Duft der Blumen hat meine Stimmung verbessert.
+
+  彼女は花のように美しい。
+  彼女[かのじょ]は 花[はな]のように 美[うつく]しい。
+  Sie ist schön wie eine Blume.
+
+  日本の伝統文化として、花道を習っています。
+  日本[にほん]の 伝統文化[でんとうぶんか]として、花道[かどう]を 習[なら]っています。
+  Ich lerne Ikebana als Teil der traditionellen japanischen Kultur.
+
+  花札で遊ぶのが好きです。
+  花札[はなふだ]で 遊[あそ]ぶのが 好[す]きです。
+  Ich spiele gerne mit japanischen Spielkarten.
+
+  窓に氷の花が咲いていた。
+  窓[まど]に 氷[こおり]の 花[はな]が 咲[さ]いていた。
+  An den Fenstern waren Eisblumen.
+
+  彼女は芸能界の花と呼ばれている。
+  彼女[かのじょ]は 芸能界[げいのうかい]の 花[はな]と 呼[よ]ばれている。
+  Sie wird als Star der Unterhaltungsbranche bezeichnet.
+
+  人生の花は若い時に咲くものだ。
+  人生[じんせい]の 花[はな]は 若[わか]い 時[とき]に 咲[さ]くものだ。
+  Die Blüte des Lebens entfaltet sich in der Jugend.
+
+  彼は文化の花と言われるほどの業績を残した。
+  彼[かれ]は 文化[ぶんか]の 花[はな]と 言[い]われるほどの 業績[ぎょうせき]を 残[のこ]した。
+  Er hinterließ Leistungen, die als Krönung der Kultur bezeichnet werden.
+
+  花を散らすような争いはやめましょう。
+  花[はな]を 散[ち]らすような 争[あらそ]いはやめましょう。
+  Lasst uns aufhören, so heftig zu streiten, dass es die Blüten zerstreut.
+
+  この町は花の都と呼ばれています。
+  この 町[まち]は 花[はな]の 都[みやこ]と 呼[よ]ばれています。
+  Diese Stadt wird als blühende Metropole bezeichnet.
+
+  芸者さんに花を持たせた。
+  芸者[げいしゃ]さんに 花[はな]を 持[も]たせた。
+  Ich gab der Geisha ein Trinkgeld.
+
+  彼女は花も恥らうほど美しかった。
+  彼女[かのじょ]は 花[はな]も 恥[はじ]らうほど 美[うつく]しかった。
+  Sie war so schön, dass selbst die Blumen verlegen wurden.
+
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
