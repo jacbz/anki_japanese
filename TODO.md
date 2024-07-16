@@ -155,7 +155,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * E-Mail: [メール](cards/0760.yml) (#760), [Eメール](cards/3502.yml) (#3502)
 * Vorbeugung; vorbeugen: [防止](cards/2738.yml) (#2738), [予防](cards/3503.yml) (#3503)
 * hey: [おい](cards/2578.yml) (#2578), [ねえ](cards/3512.yml) (#3512)
-* Mutter: [母](cards/0316.yml) (#316), [（お）母さん](cards/0528.yml) (#528), [お袋](cards/3542.yml) (#3542)
+* Mutter: [母](cards/0316.yml) (#316), [(お)母さん](cards/0528.yml) (#528), [お袋](cards/3542.yml) (#3542)
 * sich selbst: [自分](cards/0072.yml) (#72), [自分自身](cards/1114.yml) (#1114), [自身](cards/3551.yml) (#3551)
 * gelb: [黄色](cards/3257.yml) (#3257), [黄色い](cards/3575.yml) (#3575)
 * unverzichtbar: [なくてはならない](cards/3342.yml) (#3342), [不可欠](cards/3589.yml) (#3589)
