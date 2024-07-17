@@ -1,15 +1,15 @@
 Rang: 648
 Lemma: 着る
 Lesung: きる
-Alternativschreibweisen: ''
-Definition: anziehen
+Alternativschreibweisen: 著る
+Definition: anziehen, tragen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 着ない・着た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は着物を着ている。
   彼女[かのじょ]は 着物[きもの]を 着[き]ている。
   Sie zieht einen Kimono an.
+
+  新しいブラウスを着て、気分が上がりました。
+  新[あたら]しいブラウスを 着[き]て、気分[きぶん]が 上[あ]がりました。
+  Ich fühle mich besser, nachdem ich eine neue Bluse angezogen habe.
+
+  寒いから、上着を着てください。
+  寒[さむ]いから、上着[うわぎ]を 着[き]てください。
+  Es ist kalt, bitte ziehen Sie eine Jacke an.
+
+  彼は毎日スーツを着て出勤しています。
+  彼[かれ]は 毎日[まいにち]スーツを 着[き]て 出勤[しゅっきん]しています。
+  Er geht jeden Tag im Anzug zur Arbeit.
+
+  パーティーには何を着ていけばいいですか。
+  パーティーには 何[なに]を 着[き]ていけばいいですか。
+  Was soll ich zum Fest anziehen?
+
+  今日は暑いので、薄着で出かけます。
+  今日[きょう]は 暑[あつ]いので、薄着[うすぎ]で 出[で]かけます。
+  Da es heute heiß ist, gehe ich leicht bekleidet aus.
+
+  彼女は着ているものがとてもおしゃれだ。
+  彼女[かのじょ]は 着[き]ているものがとてもおしゃれだ。
+  Was sie trägt, ist sehr modisch.
+
+  コートを着たまま部屋に入らないでください。
+  コートを 着[き]たまま 部屋[へや]に 入[はい]らないでください。
+  Bitte betreten Sie den Raum nicht mit dem Mantel an.
+
+  この服、着てみていいですか。
+  この 服[ふく]、着[き]てみていいですか。
+  Darf ich dieses Kleidungsstück anprobieren?
+
+  寝るときは、パジャマを着ます。
+  寝[ね]るときは、パジャマを 着[き]ます。
+  Zum Schlafen ziehe ich einen Pyjama an.
+
+  制服を着ないと学校に行けません。
+  制服[せいふく]を 着[き]ないと 学校[がっこう]に 行[い]けません。
+  Ohne Schuluniform darf man nicht zur Schule gehen.
+
+  着る服がないと言って、新しい服を買った。
+  着[き]る 服[ふく]がないと 言[い]って、新[あたら]しい 服[ふく]を 買[か]った。
+  Ich habe neue Kleidung gekauft, weil ich sagte, dass ich nichts zum Anziehen habe.
+
+  その罪を私が着ましょう。
+  その 罪[つみ]を 私[わたし]が 着[き]ましょう。
+  Ich werde diese Schuld auf mich nehmen.
+
+  責任を着るのは簡単ではありません。
+  責任[せきにん]を 着[き]るのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, Verantwortung zu übernehmen.
+
+  寒い夜は毛布を着て寝る。
+  寒[さむ]い 夜[よる]は 毛布[もうふ]を 着[き]て 寝[ね]る。
+  In kalten Nächten schlafe ich mit einer Decke.
+
+  彼女は赤い着物を着て、とても美しかった。
+  彼女[かのじょ]は 赤[あか]い 着物[きもの]を 着[き]て、とても 美[うつく]しかった。
+  Sie trug einen roten Kimono und sah sehr schön aus.
+
+  着るものに気を使うと、印象が良くなります。
+  着[き]るものに 気[き]を 使[つか]うと、印象[いんしょう]が 良[よ]くなります。
+  Wenn man auf seine Kleidung achtet, macht man einen besseren Eindruck.
+
+  冬は厚着をして、風邪を引かないようにしよう。
+  冬[ふゆ]は 厚着[あつぎ]をして、風邪[かぜ]を 引[ひ]かないようにしよう。
+  Lass uns im Winter warme Kleidung tragen, um keine Erkältung zu bekommen.
+
+  その服、私には小さすぎて着られません。
+  その 服[ふく]、私[わたし]には 小[ちい]さすぎて 着[き]られません。
+  Dieses Kleidungsstück ist zu klein für mich, ich kann es nicht anziehen.
+
+  彼は着ている服のセンスがいいね。
+  彼[かれ]は 着[き]ている 服[ふく]のセンスがいいね。
+  Er hat einen guten Geschmack bei der Kleidung, die er trägt.
+
+  この服、着てみたらぴったりだった。
+  この 服[ふく]、着[き]てみたらぴったりだった。
+  Als ich dieses Kleidungsstück anprobierte, passte es perfekt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

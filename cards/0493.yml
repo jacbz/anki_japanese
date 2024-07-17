@@ -1,22 +1,98 @@
 Rang: 493
 Lemma: 増える
 Lesung: ふえる
-Alternativschreibweisen: ''
-Definition: zunehmen, steigen
+Alternativschreibweisen: 殖える
+Definition: zunehmen, ansteigen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>ふ</span><span class="accent_top">え</span><span>る</span>
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 増えない・増えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   体重が3キロ増えた。
   体重[たいじゅう]が3キロ 増[ふ]えた。
-  Ich habe drei Kilogramm zugenommen.
+  Ich habe 3 Kilo zugenommen.
+
+  最近、この地域の犯罪率が増えている。
+  最近[さいきん]、この 地域[ちいき]の 犯罪率[はんざいりつ]が 増[ふ]えている。
+  In letzter Zeit nimmt die Kriminalitätsrate in dieser Gegend zu.
+
+  新しいサービスを始めてから会員数が急激に増えました。
+  新[あたら]しいサービスを 始[はじ]めてから 会員数[かいいんすう]が 急激[きゅうげき]に 増[ふ]えました。
+  Seit wir den neuen Service gestartet haben, ist die Mitgliederzahl rapide gestiegen.
+
+  結婚して子供が生まれ、家族が増えた。
+  結婚[けっこん]して 子供[こども]が 生[う]まれ、家族[かぞく]が 増[ふ]えた。
+  Nach der Heirat und der Geburt unseres Kindes ist unsere Familie größer geworden.
+
+  趣味で始めた切手集めが、いつの間にかコレクションが増えていった。
+  趣味[しゅみ]で 始[はじ]めた 切手集[きってあつ]めが、いつの 間[ま]にかコレクションが 増[ふ]えていった。
+  Meine als Hobby begonnene Briefmarkensammlung hat sich unmerklich zu einer größeren Kollektion entwickelt.
+
+  豪雨で川の水かさが急速に増えている。
+  豪雨[ごうう]で 川[かわ]の 水[みず]かさが 急速[きゅうそく]に 増[ふ]えている。
+  Durch den starken Regen steigt der Wasserstand des Flusses rasch an.
+
+  仕事のストレスで悩みが増えてきた。
+  仕事[しごと]のストレスで 悩[なや]みが 増[ふ]えてきた。
+  Meine Sorgen haben durch den Arbeitsstress zugenommen.
+
+  運動不足で、最近体重が増える一方だ。
+  運動不足[うんどうぶそく]で、最近[さいきん] 体重[たいじゅう]が 増[ふ]える 一方[いっぽう]だ。
+  Durch Bewegungsmangel nimmt mein Gewicht in letzter Zeit stetig zu.
+
+  人口が増えれば、それだけ葬式の数も増えるはずだ。
+  人口[じんこう]が 増[ふ]えれば、それだけ 葬式[そうしき]の 数[かず]も 増[ふ]えるはずだ。
+  Mit zunehmender Bevölkerung sollte auch die Zahl der Beerdigungen steigen.
+
+  歴史の始まり以来、鳥の数は増えるばかりだった。
+  歴史[れきし]の 始[はじ]まり 以来[いらい]、鳥[とり]の 数[かず]は 増[ふ]えるばかりだった。
+  Seit Anbeginn der Geschichte hat die Zahl der Vögel nur zugenommen.
+
+  長期休暇中には学生アルバイトも増える傾向にある。
+  長期休暇中[ちょうききゅうかちゅう]には 学生[がくせい]アルバイトも 増[ふ]える 傾向[けいこう]にある。
+  Während der langen Ferien gibt es tendenziell mehr Studenten, die Teilzeitjobs annehmen.
+
+  祖父の遺産のおかげで、家族の財産が増えた。
+  祖父[そふ]の 遺産[いさん]のおかげで、家族[かぞく]の 財産[ざいさん]が 増[ふ]えた。
+  Dank des Erbes meines Großvaters ist das Vermögen unserer Familie angewachsen.
+
+  ネズミの繁殖力は強く、短期間で数が急激に増える。
+  ネズミの 繁殖力[はんしょくりょく]は 強[つよ]く、短期間[たんきかん]で 数[かず]が 急激[きゅうげき]に 増[ふ]える。
+  Ratten haben eine starke Fortpflanzungsfähigkeit und vermehren sich in kurzer Zeit rapide.
+
+  経済が回復するにつれて、求人数が徐々に増えてきた。
+  経済[けいざい]が 回復[かいふく]するにつれて、求人数[きゅうじんすう]が 徐々[じょじょ]に 増[ふ]えてきた。
+  Mit der Erholung der Wirtschaft hat die Zahl der Stellenangebote allmählich zugenommen.
+
+  新しい趣味を始めてから、友達が増えた気がする。
+  新[あたら]しい 趣味[しゅみ]を 始[はじ]めてから、友達[ともだち]が 増[ふ]えた 気[き]がする。
+  Seit ich mit meinem neuen Hobby begonnen habe, habe ich das Gefühl, mehr Freunde gewonnen zu haben.
+
+  技術の進歩とともに、私たちの選択肢も増えていく。
+  技術[ぎじゅつ]の 進歩[しんぽ]とともに、私[わたし]たちの 選択肢[せんたくし]も 増[ふ]えていく。
+  Mit dem technologischen Fortschritt nehmen auch unsere Wahlmöglichkeiten zu.
+
+  環境保護の取り組みにより、絶滅危惧種の数が少しずつ増えている。
+  環境保護[かんきょうほご]の 取[と]り 組[く]みにより、絶滅危惧種[ぜつめつきぐしゅ]の 数[かず]が 少[すこ]しずつ 増[ふ]えている。
+  Durch Umweltschutzmaßnahmen nimmt die Zahl der vom Aussterben bedrohten Arten allmählich zu.
+
+  インフレで物価が増えると、生活費も増える。
+  インフレで 物価[ぶっか]が 増[ふ]えると、生活費[せいかつひ]も 増[ふ]える。
+  Wenn die Preise durch Inflation steigen, erhöhen sich auch die Lebenshaltungskosten.
+
+  子供の成長とともに、家計の出費も増える一方だ。
+  子供[こども]の 成長[せいちょう]とともに、家計[かけい]の 出費[しゅっぴ]も 増[ふ]える 一方[いっぽう]だ。
+  Mit dem Heranwachsen der Kinder nehmen auch die Haushaltsausgaben stetig zu.
+
+  新しい工場が建設されてから、この町の雇用機会が増えた。
+  新[あたら]しい 工場[こうじょう]が 建設[けんせつ]されてから、この 町[まち]の 雇用機会[こようきかい]が 増[ふ]えた。
+  Seit dem Bau der neuen Fabrik haben sich die Beschäftigungsmöglichkeiten in dieser Stadt vermehrt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

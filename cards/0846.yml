@@ -1,15 +1,15 @@
 Rang: 846
 Lemma: 止まる
 Lesung: とまる
-Alternativschreibweisen: ''
-Definition: halten
+Alternativschreibweisen: 留まる・停まる
+Definition: anhalten, stehenbleiben; aufhören
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>と</span><span class="accent_plain">ま</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 止まらない・止まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この電車は次の駅は止まらない。
   この 電車[でんしゃ]は 次[つぎ]の 駅[えき]は 止[と]まらない。
   Dieser Zug hält nicht an der nächsten Station.
+
+  赤信号で車が止まった。
+  赤信号[あかしんごう]で 車[くるま]が 止[と]まった。
+  Das Auto hielt an der roten Ampel.
+
+  エレベーターが突然止まってしまった。
+  エレベーターが 突然[とつぜん] 止[と]まってしまった。
+  Der Aufzug blieb plötzlich stehen.
+
+  彼の動きが一瞬止まった。
+  彼[かれ]の 動[うご]きが 一瞬[いっしゅん] 止[と]まった。
+  Seine Bewegung hielt für einen Moment inne.
+
+  電車がホームに止まっています。
+  電車[でんしゃ]がホームに 止[と]まっています。
+  Der Zug steht am Bahnsteig.
+
+  急行列車は小さな駅には止まらない。
+  急行列車[きゅうこうれっしゃ]は 小[ちい]さな 駅[えき]には 止[と]まらない。
+  Der Schnellzug hält nicht an kleinen Bahnhöfen.
+
+  呼吸が止まりそうなほど驚いた。
+  呼吸[こきゅう]が 止[と]まりそうなほど 驚[おどろ]いた。
+  Ich war so überrascht, dass mir fast der Atem stockte.
+
+  出血がなかなか止まらなかった。
+  出血[しゅっけつ]がなかなか 止[と]まらなかった。
+  Die Blutung wollte einfach nicht aufhören.
+
+  突然、音楽が止まった。
+  突然[とつぜん]、音楽[おんがく]が 止[と]まった。
+  Plötzlich hörte die Musik auf.
+
+  経済の発展が止まってしまった。
+  経済[けいざい]の 発展[はってん]が 止[と]まってしまった。
+  Die wirtschaftliche Entwicklung kam zum Stillstand.
+
+  時計が止まっている。
+  時計[とけい]が 止[と]まっている。
+  Die Uhr ist stehengeblieben.
+
+  怒りが止まらなかった。
+  怒[いか]りが 止[と]まらなかった。
+  Ich konnte meine Wut nicht zügeln.
+
+  エンジンが突然止まってしまった。
+  エンジンが 突然[とつぜん] 止[と]まってしまった。
+  Der Motor blieb plötzlich stehen.
+
+  水道が止まって、お風呂に入れない。
+  水道[すいどう]が 止[と]まって、お 風呂[ふろ]に 入[はい]れない。
+  Das Wasser ist abgestellt, ich kann nicht baden.
+
+  工場の生産が一時的に止まった。
+  工場[こうじょう]の 生産[せいさん]が 一時的[いちじてき]に 止[と]まった。
+  Die Produktion in der Fabrik wurde vorübergehend eingestellt.
+
+  ストライキで電車が止まっている。
+  ストライキで 電車[でんしゃ]が 止[と]まっている。
+  Aufgrund eines Streiks fahren die Züge nicht.
+
+  鳥が木の枝に止まった。
+  鳥[とり]が 木[き]の 枝[えだ]に 止[と]まった。
+  Ein Vogel setzte sich auf den Ast eines Baumes.
+
+  蝶が花に止まっている。
+  蝶[ちょう]が 花[はな]に 止[と]まっている。
+  Ein Schmetterling sitzt auf der Blume.
+
+  その広告が目に止まった。
+  その 広告[こうこく]が 目[め]に 止[と]まった。
+  Die Werbung fiel mir ins Auge.
+
+  彼の言葉が心に深く止まった。
+  彼[かれ]の 言葉[ことば]が 心[こころ]に 深[ふか]く 止[と]まった。
+  Seine Worte blieben mir tief im Gedächtnis.
+
+  ジッパーがうまく止まらない。
+  ジッパーがうまく 止[と]まらない。
+  Der Reißverschluss schließt nicht richtig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,22 +1,94 @@
 Rang: 526
 Lemma: 起こる
 Lesung: おこる
-Alternativschreibweisen: ''
-Definition: geschehen, stattfinden
+Alternativschreibweisen: 起こる・興る・熾る
+Definition: geschehen; aufkommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>お</span><span class="accent_top">こ</span><span>る</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 起こらない・起こった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   近所で恐ろしい事件が起こった。
   近所[きんじょ]で 恐[おそ]ろしい 事件[じけん]が 起[お]こった。
-  In meiner Nachbarschaft hat sich ein schrecklicher Vorfall ereignet.
+  In der Nachbarschaft hat sich ein schrecklicher Vorfall ereignet.
+
+  地震が起こったら、すぐに机の下に隠れてください。
+  地震[じしん]が 起[お]こったら、すぐに 机[つくえ]の 下[した]に 隠[かく]れてください。
+  Wenn ein Erdbeben auftritt, verstecken Sie sich bitte sofort unter einem Tisch.
+
+  奇跡が起こって、彼女は病気から回復した。
+  奇跡[きせき]が 起[お]こって、彼女[かのじょ]は 病気[びょうき]から 回復[かいふく]した。
+  Es geschah ein Wunder, und sie erholte sich von ihrer Krankheit.
+
+  この問題について話し合っているうちに、新たな疑問が起こった。
+  この 問題[もんだい]について 話[はな]し 合[あ]っているうちに、新[あら]たな 疑問[ぎもん]が 起[お]こった。
+  Während wir über dieses Problem diskutierten, kamen neue Fragen auf.
+
+  突然強い風が起こり、傘が裏返った。
+  突然[とつぜん] 強[つよ]い 風[かぜ]が 起[お]こり、傘[かさ]が 裏返[うらがえ]った。
+  Plötzlich kam ein starker Wind auf und drehte meinen Schirm um.
+
+  隣の家で火事が起こり、消防車がすぐに到着した。
+  隣[となり]の 家[いえ]で 火事[かじ]が 起[お]こり、消防車[しょうぼうしゃ]がすぐに 到着[とうちゃく]した。
+  Im Nachbarhaus brach ein Feuer aus, und die Feuerwehr traf sofort ein.
+
+  彼らの間で喧嘩が起こり、周りの人たちが止めに入った。
+  彼[かれ]らの 間[あいだ]で 喧嘩[けんか]が 起[お]こり、周[まわ]りの 人[ひと]たちが 止[と]めに 入[はい]った。
+  Zwischen ihnen entstand ein Streit, und die Umstehenden versuchten, sie zu trennen.
+
+  戦争が起こる前に、平和的な解決策を見つけなければならない。
+  戦争[せんそう]が 起[お]こる 前[まえ]に、平和的[へいわてき]な 解決策[かいけつさく]を 見[み]つけなければならない。
+  Bevor ein Krieg ausbricht, müssen wir eine friedliche Lösung finden.
+
+  ストレスで頭痛が起こることがよくある。
+  ストレスで 頭痛[ずつう]が 起[お]こることがよくある。
+  Oft bekomme ich Kopfschmerzen wegen Stress.
+
+  彼の心に突然恐怖が起こり、声を上げそうになった。
+  彼[かれ]の 心[こころ]に 突然[とつぜん] 恐怖[きょうふ]が 起[お]こり、声[こえ]を 上[あ]げそうになった。
+  Plötzlich stieg Angst in ihm auf, und er war kurz davor, aufzuschreien.
+
+  新製品への好奇心が起こり、すぐに購入してしまった。
+  新製品[しんせいひん]への 好奇心[こうきしん]が 起[お]こり、すぐに 購入[こうにゅう]してしまった。
+  Neugier auf das neue Produkt kam in mir auf, und ich kaufte es sofort.
+
+  パーティーの最後に、スピーチへの拍手が起こった。
+  パーティーの 最後[さいご]に、スピーチへの 拍手[はくしゅ]が 起[お]こった。
+  Am Ende der Party brandete Applaus für die Rede auf.
+
+  目の前で事故が起こり、すぐに救急車を呼んだ。
+  目[め]の 前[まえ]で 事故[じこ]が 起[お]こり、すぐに 救急車[きゅうきゅうしゃ]を 呼[よ]んだ。
+  Direkt vor meiner Nase passierte ein Unfall, und ich rief sofort einen Krankenwagen.
+
+  二つの出来事が同時に起こり、みんな混乱した。
+  二[ふた]つの 出来事[できごと]が 同時[どうじ]に 起[お]こり、みんな 混乱[こんらん]した。
+  Zwei Ereignisse traten gleichzeitig ein, und alle waren verwirrt.
+
+  この地域では地震がしばしば起こるので、常に準備が必要だ。
+  この 地域[ちいき]では 地震[じしん]がしばしば 起[お]こるので、常[つね]に 準備[じゅんび]が 必要[ひつよう]だ。
+  In dieser Region treten häufig Erdbeben auf, daher ist ständige Vorbereitung notwendig.
+
+  新しい時代が起こり、社会のあり方が大きく変わった。
+  新[あたら]しい 時代[じだい]が 起[お]こり、社会[しゃかい]のあり 方[かた]が 大[おお]きく 変[か]わった。
+  Eine neue Ära brach an, und die Gesellschaftsstruktur veränderte sich grundlegend.
+
+  経済が起こり、多くの企業が好調な業績を上げ始めた。
+  経済[けいざい]が 起[お]こり、多[おお]くの 企業[きぎょう]が 好調[こうちょう]な 業績[ぎょうせき]を 上[あ]げ 始[はじ]めた。
+  Die Wirtschaft kam in Schwung, und viele Unternehmen begannen, gute Ergebnisse zu erzielen.
+
+  観光事業が起こり、この町は活気を取り戻した。
+  観光事業[かんこうじぎょう]が 起[お]こり、この 町[まち]は 活気[かっき]を 取[と]り 戻[もど]した。
+  Der Tourismus blühte auf, und diese Stadt gewann ihre Lebendigkeit zurück.
+
+  山火事が起こり、消防隊が必死に消火活動を行った。
+  山火事[やまかじ]が 起[お]こり、消防隊[しょうぼうたい]が 必死[ひっし]に 消火活動[しょうかかつどう]を 行[おこな]った。
+  Ein Waldbrand brach aus, und die Feuerwehr kämpfte verzweifelt, um ihn zu löschen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

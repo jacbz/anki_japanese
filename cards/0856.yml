@@ -1,7 +1,7 @@
 Rang: 856
 Lemma: 目指す
 Lesung: めざす
-Alternativschreibweisen: ''
+Alternativschreibweisen: 目差す
 Definition: anvisieren, anstreben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>め</span><span class="accent_top">ざ</span><span>�
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 目指さない・目指した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼らは優勝を目指している。
   彼[かれ]らは 優勝[ゆうしょう]を 目指[めざ]している。
   Sie streben die Meisterschaft an.
+
+  国益を目指した政策を立案しましょう。
+  国益[こくえき]を 目指[めざ]した 政策[せいさく]を 立案[りつあん]しましょう。
+  Lassen Sie uns eine Politik entwerfen, die auf nationale Interessen abzielt.
+
+  彼女は世界的なアーティストを目指している。
+  彼女[かのじょ]は 世界的[せかいてき]なアーティストを 目指[めざ]している。
+  Sie will eine weltbekannte Künstlerin werden.
+
+  みんなで協力して、新しい家を目指そう。
+  みんなで 協力[きょうりょく]して、新[あたら]しい 家[いえ]を 目指[めざ]そう。
+  Lasst uns zusammenarbeiten und ein neues Haus anstreben.
+
+  若い頃は光栄を目指して頑張った。
+  若[わか]い 頃[ころ]は 光栄[こうえい]を 目指[めざ]して 頑張[がんば]った。
+  In meiner Jugend strebte ich nach Ruhm und gab mein Bestes.
+
+  怪我から復帰し、カムバックを目指している選手だ。
+  怪我[けが]から 復帰[ふっき]し、カムバックを 目指[めざ]している 選手[せんしゅ]だ。
+  Er ist ein Sportler, der nach seiner Verletzung ein Comeback anstrebt.
+
+  交渉では両者の合意を目指して話し合いを進めます。
+  交渉[こうしょう]では 両者[りょうしゃ]の 合意[ごうい]を 目指[めざ]して 話[はな]し 合[あ]いを 進[すす]めます。
+  In den Verhandlungen werden wir die Gespräche mit dem Ziel einer Einigung beider Parteien fortführen.
+
+  今シーズンは昨年逃したタイトルを目指す。
+  今[こん]シーズンは 昨年[さくねん]逃[のが]したタイトルを 目指[めざ]す。
+  Diese Saison streben wir den Titel an, den wir letztes Jahr verpasst haben.
+
+  北を目指して航海する船乗りたちの姿が見えた。
+  北[きた]を 目指[めざ]して 航海[こうかい]する 船乗[ふなの]りたちの 姿[すがた]が 見[み]えた。
+  Ich sah die Seeleute, die nach Norden segelten.
+
+  選手たちはゴールを目指して全力で走っている。
+  選手[せんしゅ]たちはゴールを 目指[めざ]して 全力[ぜんりょく]で 走[はし]っている。
+  Die Athleten laufen mit voller Kraft auf das Ziel zu.
+
+  会社再建を目指して日々努力を重ねています。
+  会社再建[かいしゃさいけん]を 目指[めざ]して 日々[ひび]努力[どりょく]を 重[かさ]ねています。
+  Wir arbeiten jeden Tag hart daran, das Unternehmen wieder aufzubauen.
+
+  政府は環境保護を目指した新しい法律を制定した。
+  政府[せいふ]は 環境保護[かんきょうほご]を 目指[めざ]した 新[あたら]しい 法律[ほうりつ]を 制定[せいてい]した。
+  Die Regierung hat ein neues Gesetz erlassen, das auf Umweltschutz abzielt.
+
+  頂点を目指して、一歩一歩着実に進んでいく。
+  頂点[ちょうてん]を 目指[めざ]して、一歩一歩[いっぽいっぽ]着実[ちゃくじつ]に 進[すす]んでいく。
+  Wir gehen Schritt für Schritt stetig voran, um den Gipfel zu erreichen.
+
+  この研究は、がんの完治を目指しているんだ。
+  この 研究[けんきゅう]は、がんの 完治[かんち]を 目指[めざ]しているんだ。
+  Diese Forschung zielt auf eine vollständige Heilung von Krebs ab.
+
+  彼は世界平和を目指して活動している活動家だ。
+  彼[かれ]は 世界平和[せかいへいわ]を 目指[めざ]して 活動[かつどう]している 活動家[かつどうか]だ。
+  Er ist ein Aktivist, der sich für den Weltfrieden einsetzt.
+
+  新しいプロジェクトは、革新的な技術開発を目指しています。
+  新[あたら]しいプロジェクトは、革新的[かくしんてき]な 技術開発[ぎじゅつかいはつ]を 目指[めざ]しています。
+  Das neue Projekt zielt auf die Entwicklung innovativer Technologien ab.
+
+  学生たちは高い目標を目指して勉強に励んでいる。
+  学生[がくせい]たちは 高[たか]い 目標[もくひょう]を 目指[めざ]して 勉強[べんきょう]に 励[はげ]んでいる。
+  Die Studenten studieren fleißig, um ihre hohen Ziele zu erreichen.
+
+  彼女は自分の夢を目指して、毎日練習を重ねている。
+  彼女[かのじょ]は 自分[じぶん]の 夢[ゆめ]を 目指[めざ]して、毎日[まいにち]練習[れんしゅう]を 重[かさ]ねている。
+  Sie übt jeden Tag, um ihrem Traum näher zu kommen.
+
+  この会社は、持続可能な社会を目指したビジネスモデルを採用している。
+  この 会社[かいしゃ]は、持続可能[じぞくかのう]な 社会[しゃかい]を 目指[めざ]したビジネスモデルを 採用[さいよう]している。
+  Dieses Unternehmen hat ein Geschäftsmodell eingeführt, das auf eine nachhaltige Gesellschaft abzielt.
+
+  私たちは、より良い未来を目指して行動しなければならない。
+  私[わたし]たちは、より 良[よ]い 未来[みらい]を 目指[めざ]して 行動[こうどう]しなければならない。
+  Wir müssen handeln, um eine bessere Zukunft anzustreben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

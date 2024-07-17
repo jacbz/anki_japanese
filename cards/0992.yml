@@ -2,7 +2,7 @@ Rang: 992
 Lemma: 発表
 Lesung: はっぴょう
 Alternativschreibweisen: ''
-Definition: Ankündigung, Veröffentlichung
+Definition: ankündigen; Bekanntmachung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">っ</span><span class="accent_plain">ぴょ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">っ</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 発表する・発表しない・発表した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   先ほど選挙の結果が発表されました。
   先[さき]ほど 選挙[せんきょ]の 結果[けっか]が 発表[はっぴょう]されました。
   Das Ergebnis der Wahl wurde gerade bekannt gegeben.
+
+  新製品の発表会が来週開催されます。
+  新製品[しんせいひん]の 発表会[はっぴょうかい]が 来週[らいしゅう] 開催[かいさい]されます。
+  Die Präsentation des neuen Produkts findet nächste Woche statt.
+
+  発表者の方はステージにお上がりください。
+  発表者[はっぴょうしゃ]の 方[かた]はステージにお 上[あ]がりください。
+  Die Vortragenden werden gebeten, die Bühne zu betreten.
+
+  新聞発表の内容について記者から質問が殺到しました。
+  新聞発表[しんぶんはっぴょう]の 内容[ないよう]について 記者[きしゃ]から 質問[しつもん]が 殺到[さっとう]しました。
+  Zu den Inhalten der Presseerklärung gab es eine Flut von Fragen von Journalisten.
+
+  この論文はまだ未発表の研究結果を含んでいます。
+  この 論文[ろんぶん]はまだ 未発表[みはっぴょう]の 研究結果[けんきゅうけっか]を 含[ふく]んでいます。
+  Diese Abhandlung enthält noch unveröffentlichte Forschungsergebnisse.
+
+  試験結果の発表日が延期されました。
+  試験結果[しけんけっか]の 発表日[はっぴょうび]が 延期[えんき]されました。
+  Der Tag der Bekanntgabe der Prüfungsergebnisse wurde verschoben.
+
+  彼は記者会見で重要な政策を発表するつもりだ。
+  彼[かれ]は 記者会見[きしゃかいけん]で 重要[じゅうよう]な 政策[せいさく]を 発表[はっぴょう]するつもりだ。
+  Er beabsichtigt, bei der Pressekonferenz wichtige politische Maßnahmen bekannt zu geben.
+
+  社長が会社の新しい方針を発表しました。
+  社長[しゃちょう]が 会社[かいしゃ]の 新[あたら]しい 方針[ほうしん]を 発表[はっぴょう]しました。
+  Der Firmenchef hat die neue Unternehmensstrategie verkündet.
+
+  お待たせしました。入試合格者を発表いたします。
+  お 待[ま]たせしました。入試合格者[にゅうしごうかくしゃ]を 発表[はっぴょう]いたします。
+  Entschuldigen Sie die Verzögerung. Wir geben nun die erfolgreichen Bewerber der Aufnahmeprüfung bekannt.
+
+  政府は明日、新たな経済対策を発表する予定です。
+  政府[せいふ]は 明日[あす]、新[あら]たな 経済対策[けいざいたいさく]を 発表[はっぴょう]する 予定[よてい]です。
+  Die Regierung plant, morgen neue wirtschaftliche Maßnahmen anzukündigen.
+
+  研究成果の発表は学会で行われる予定だ。
+  研究成果[けんきゅうせいか]の 発表[はっぴょう]は 学会[がっかい]で 行[おこな]われる 予定[よてい]だ。
+  Die Präsentation der Forschungsergebnisse soll auf der Fachkonferenz stattfinden.
+
+  発表会で緊張しないようにしっかり練習しておこう。
+  発表会[はっぴょうかい]で 緊張[きんちょう]しないようにしっかり 練習[れんしゅう]しておこう。
+  Lass uns gut üben, damit wir bei der Präsentation nicht nervös werden.
+
+  株主総会で来年度の経営計画を発表する。
+  株主総会[かぶぬしそうかい]で 来年度[らいねんど]の 経営計画[けいえいけいかく]を 発表[はっぴょう]する。
+  Auf der Aktionärsversammlung werden wir den Geschäftsplan für das kommende Jahr vorstellen.
+
+  大統領が国民に向けて重要な声明を発表した。
+  大統領[だいとうりょう]が 国民[こくみん]に 向[む]けて 重要[じゅうよう]な 声明[せいめい]を 発表[はっぴょう]した。
+  Der Präsident gab eine wichtige Erklärung für die Bevölkerung ab.
+
+  その歌手は突然の引退発表でファンを驚かせた。
+  その 歌手[かしゅ]は 突然[とつぜん]の 引退発表[いんたいはっぴょう]でファンを 驚[おどろ]かせた。
+  Der Sänger überraschte seine Fans mit der plötzlichen Ankündigung seines Rücktritts.
+
+  新しい環境政策の発表に対して、様々な反応があった。
+  新[あたら]しい 環境政策[かんきょうせいさく]の 発表[はっぴょう]に 対[たい]して、様々[さまざま]な 反応[はんのう]があった。
+  Auf die Bekanntgabe der neuen Umweltpolitik gab es verschiedene Reaktionen.
+
+  彼女は自身の研究成果を学術誌で発表した。
+  彼女[かのじょ]は 自身[じしん]の 研究成果[けんきゅうせいか]を 学術誌[がくじゅつし]で 発表[はっぴょう]した。
+  Sie veröffentlichte ihre Forschungsergebnisse in einer wissenschaftlichen Zeitschrift.
+
+  その企業は四半期ごとに業績を発表している。
+  その 企業[きぎょう]は 四半期[しはんき]ごとに 業績[ぎょうせき]を 発表[はっぴょう]している。
+  Das Unternehmen gibt vierteljährlich seine Geschäftsergebnisse bekannt.
+
+  彼の発表は聴衆に深い感銘を与えた。
+  彼[かれ]の 発表[はっぴょう]は 聴衆[ちょうしゅう]に 深[ふか]い 感銘[かんめい]を 与[あた]えた。
+  Sein Vortrag hinterließ einen tiefen Eindruck beim Publikum.
+
+  新型コロナウイルスの感染者数が毎日発表されています。
+  新型[しんがた]コロナウイルスの 感染者数[かんせんしゃすう]が 毎日[まいにち] 発表[はっぴょう]されています。
+  Die Zahl der Neuinfektionen mit dem Coronavirus wird täglich bekannt gegeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 591
 Lemma: 怖い
 Lesung: こわい
-Alternativschreibweisen: ''
-Definition: ängstlich, beängstigend
+Alternativschreibweisen: 恐い
+Definition: angsteinflößend; Angst haben
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>こ</span><span class="accent_top">わ</span><span>い</span>
 Register: ''
 Dispersion: '81'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 怖くない・怖かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,250 @@ Beispielsätze: |-
   蛇が怖い。
   蛇[へび]が 怖[こわ]い。
   Ich habe Angst vor Schlangen.
+
+  この映画は本当に怖いから、一人で見ない方がいいよ。
+  この 映画[えいが]は 本当[ほんとう]に 怖[こわ]いから、一人[ひとり]で 見[み]ない 方[ほう]がいいよ。
+  Dieser Film ist wirklich gruselig, du solltest ihn besser nicht alleine ansehen.
+  彼の怖い顔を見て、子供たちは泣き出してしまった。
+  彼[かれ]の 怖[こわ]い 顔[かお]を 見[み]て、子供[こども]たちは 泣[な]き 出[だ]してしまった。
+  Als die Kinder sein furchteinflößendes Gesicht sahen, fingen sie an zu weinen.
+  怖い夢を見て、真夜中に目が覚めてしまいました。
+  怖[こわ]い 夢[ゆめ]を 見[み]て、真夜中[まよなか]に 目[め]が 覚[さ]めてしまいました。
+  Ich hatte einen schrecklichen Traum und wachte mitten in der Nacht auf.
+  彼女は怖い病気にかかってしまったようです。
+  彼女[かのじょ]は 怖[こわ]い 病気[びょうき]にかかってしまったようです。
+  Es scheint, als hätte sie sich eine bedrohliche Krankheit zugezogen.
+  なんとなく怖い雰囲気があって、一人では歩けなかった。
+  なんとなく 怖[こわ]い 雰囲気[ふんいき]があって、一人[ひとり]では 歩[ある]けなかった。
+  Es herrschte irgendwie eine unheimliche Atmosphäre, sodass ich nicht alleine gehen konnte.
+  わけもなく怖くなって、友達に電話をしてしまった。
+  わけもなく 怖[こわ]くなって、友達[ともだち]に 電話[でんわ]をしてしまった。
+  Ich bekam aus unerfindlichen Gründen Angst und rief einen Freund an.
+  子供の頃、お化けが怖くて一人で寝られなかった。
+  子供[こども]の 頃[ころ]、お 化[ば]けが 怖[こわ]くて 一人[ひとり]で 寝[ね]られなかった。
+  Als Kind hatte ich solche Angst vor Gespenstern, dass ich nicht alleine schlafen konnte.
+  犬が怖いから、公園を散歩するのをやめました。
+  犬[いぬ]が 怖[こわ]いから、公園[こうえん]を 散歩[さんぽ]するのをやめました。
+  Weil ich Angst vor Hunden habe, habe ich aufgehört, im Park spazieren zu gehen.
+  試験の結果が怖くて、成績表を開けられません。
+  試験[しけん]の 結果[けっか]が 怖[こわ]くて、成績表[せいせきひょう]を 開[あ]けられません。
+  Ich habe Angst vor den Prüfungsergebnissen und kann die Zeugnisse nicht öffnen.
+  一人ぼっちが怖いから、いつも誰かと一緒にいたいんです。
+  一人[ひとり]ぼっちが 怖[こわ]いから、いつも 誰[だれ]かと 一緒[いっしょ]にいたいんです。
+  Weil ich Angst vor dem Alleinsein habe, möchte ich immer mit jemandem zusammen sein.
+  彼は怖いほど幸せそうで、少し不安になりました。
+  彼[かれ]は 怖[こわ]いほど 幸[しあわ]せそうで、少[すこ]し 不安[ふあん]になりました。
+  Er schien unheimlich glücklich zu sein, was mich ein wenig beunruhigte.
+  怖い思いをしたことで、より慎重になりました。
+  怖[こわ]い 思[おも]いをしたことで、より 慎重[しんちょう]になりました。
+  Nachdem ich diese angsteinflößende Erfahrung gemacht habe, bin ich vorsichtiger geworden.
+  怖くなかったら、もっと冒険してみたいな。
+  怖[こわ]くなかったら、もっと 冒険[ぼうけん]してみたいな。
+  Wenn ich keine Angst hätte, würde ich gerne mehr Abenteuer erleben.
+  急に怖くなって、友達に家まで送ってもらいました。
+  急[きゅう]に 怖[こわ]くなって、友達[ともだち]に 家[いえ]まで 送[おく]ってもらいました。
+  Ich bekam plötzlich Angst und ließ mich von einem Freund nach Hause begleiten.
+  怖い目に遭わないように、夜は一人で出歩かないようにしています。
+  怖[こわ]い 目[め]に 遭[あ]わないように、夜[よる]は 一人[ひとり]で 出歩[である]かないようにしています。
+  Um keine schrecklichen Erfahrungen zu machen, gehe ich nachts nicht alleine raus.
+  病気が怖いから、健康には気をつけています。
+  病気[びょうき]が 怖[こわ]いから、健康[けんこう]には 気[き]をつけています。
+  Weil ich Angst vor Krankheiten habe, achte ich auf meine Gesundheit.
+  後が怖いから、嘘をつくのはやめておこう。
+  後[あと]が 怖[こわ]いから、嘘[うそ]をつくのはやめておこう。
+  Aus Angst vor den Konsequenzen sollte ich besser nicht lügen.
+  怖い男が来たので、すぐに逃げ出しました。
+  怖[こわ]い 男[おとこ]が 来[き]たので、すぐに 逃[に]げ 出[だ]しました。
+  Als der furchteinflößende Mann kam, bin ich sofort geflohen.
+  初めての経験で怖かったけど、やってみたら楽しかった。
+  初[はじ]めての 経験[けいけん]で 怖[こわ]かったけど、やってみたら 楽[たの]しかった。
+  Es war beängstigend, weil es meine erste Erfahrung war, aber als ich es ausprobierte, machte es Spaß.
+  雷が怖いから、雨の日は家にいることが多いです。
+  雷[かみなり]が 怖[こわ]いから、雨[あめ]の 日[ひ]は 家[いえ]にいることが 多[おお]いです。
+  Da ich Angst vor Donner habe, bleibe ich an Regentagen oft zu Hause.
+
+  この映画は本当に怖いから、一人で見ない方がいいよ。
+  この 映画[えいが]は 本当[ほんとう]に 怖[こわ]いから、一人[ひとり]で 見[み]ない 方[ほう]がいいよ。
+  Dieser Film ist wirklich gruselig, du solltest ihn besser nicht alleine ansehen.
+  彼の怖い顔を見て、子供たちは泣き出してしまった。
+  彼[かれ]の 怖[こわ]い 顔[かお]を 見[み]て、子供[こども]たちは 泣[な]き 出[だ]してしまった。
+  Als die Kinder sein furchteinflößendes Gesicht sahen, fingen sie an zu weinen.
+  怖い夢を見て、真夜中に目が覚めてしまいました。
+  怖[こわ]い 夢[ゆめ]を 見[み]て、真夜中[まよなか]に 目[め]が 覚[さ]めてしまいました。
+  Ich hatte einen schrecklichen Traum und wachte mitten in der Nacht auf.
+  彼女は怖い病気にかかってしまったようです。
+  彼女[かのじょ]は 怖[こわ]い 病気[びょうき]にかかってしまったようです。
+  Es scheint, als hätte sie sich eine bedrohliche Krankheit zugezogen.
+  なんとなく怖い雰囲気があって、一人では歩けなかった。
+  なんとなく 怖[こわ]い 雰囲気[ふんいき]があって、一人[ひとり]では 歩[ある]けなかった。
+  Es herrschte irgendwie eine unheimliche Atmosphäre, sodass ich nicht alleine gehen konnte.
+  わけもなく怖くなって、友達に電話をしてしまった。
+  わけもなく 怖[こわ]くなって、友達[ともだち]に 電話[でんわ]をしてしまった。
+  Ich bekam aus unerfindlichen Gründen Angst und rief einen Freund an.
+  子供の頃、お化けが怖くて一人で寝られなかった。
+  子供[こども]の 頃[ころ]、お 化[ば]けが 怖[こわ]くて 一人[ひとり]で 寝[ね]られなかった。
+  Als Kind hatte ich solche Angst vor Gespenstern, dass ich nicht alleine schlafen konnte.
+  犬が怖いから、公園を散歩するのをやめました。
+  犬[いぬ]が 怖[こわ]いから、公園[こうえん]を 散歩[さんぽ]するのをやめました。
+  Weil ich Angst vor Hunden habe, habe ich aufgehört, im Park spazieren zu gehen.
+  試験の結果が怖くて、成績表を開けられません。
+  試験[しけん]の 結果[けっか]が 怖[こわ]くて、成績表[せいせきひょう]を 開[あ]けられません。
+  Ich habe Angst vor den Prüfungsergebnissen und kann die Zeugnisse nicht öffnen.
+  一人ぼっちが怖いから、いつも誰かと一緒にいたいんです。
+  一人[ひとり]ぼっちが 怖[こわ]いから、いつも 誰[だれ]かと 一緒[いっしょ]にいたいんです。
+  Weil ich Angst vor dem Alleinsein habe, möchte ich immer mit jemandem zusammen sein.
+  彼は怖いほど幸せそうで、少し不安になりました。
+  彼[かれ]は 怖[こわ]いほど 幸[しあわ]せそうで、少[すこ]し 不安[ふあん]になりました。
+  Er schien unheimlich glücklich zu sein, was mich ein wenig beunruhigte.
+  怖い思いをしたことで、より慎重になりました。
+  怖[こわ]い 思[おも]いをしたことで、より 慎重[しんちょう]になりました。
+  Nachdem ich diese angsteinflößende Erfahrung gemacht habe, bin ich vorsichtiger geworden.
+  怖くなかったら、もっと冒険してみたいな。
+  怖[こわ]くなかったら、もっと 冒険[ぼうけん]してみたいな。
+  Wenn ich keine Angst hätte, würde ich gerne mehr Abenteuer erleben.
+  急に怖くなって、友達に家まで送ってもらいました。
+  急[きゅう]に 怖[こわ]くなって、友達[ともだち]に 家[いえ]まで 送[おく]ってもらいました。
+  Ich bekam plötzlich Angst und ließ mich von einem Freund nach Hause begleiten.
+  怖い目に遭わないように、夜は一人で出歩かないようにしています。
+  怖[こわ]い 目[め]に 遭[あ]わないように、夜[よる]は 一人[ひとり]で 出歩[である]かないようにしています。
+  Um keine schrecklichen Erfahrungen zu machen, gehe ich nachts nicht alleine raus.
+  病気が怖いから、健康には気をつけています。
+  病気[びょうき]が 怖[こわ]いから、健康[けんこう]には 気[き]をつけています。
+  Weil ich Angst vor Krankheiten habe, achte ich auf meine Gesundheit.
+  後が怖いから、嘘をつくのはやめておこう。
+  後[あと]が 怖[こわ]いから、嘘[うそ]をつくのはやめておこう。
+  Aus Angst vor den Konsequenzen sollte ich besser nicht lügen.
+  怖い男が来たので、すぐに逃げ出しました。
+  怖[こわ]い 男[おとこ]が 来[き]たので、すぐに 逃[に]げ 出[だ]しました。
+  Als der furchteinflößende Mann kam, bin ich sofort geflohen.
+  初めての経験で怖かったけど、やってみたら楽しかった。
+  初[はじ]めての 経験[けいけん]で 怖[こわ]かったけど、やってみたら 楽[たの]しかった。
+  Es war beängstigend, weil es meine erste Erfahrung war, aber als ich es ausprobierte, machte es Spaß.
+  雷が怖いから、雨の日は家にいることが多いです。
+  雷[かみなり]が 怖[こわ]いから、雨[あめ]の 日[ひ]は 家[いえ]にいることが 多[おお]いです。
+  Da ich Angst vor Donner habe, bleibe ich an Regentagen oft zu Hause.
+
+  この映画は本当に怖いから、一人で見ない方がいいよ。
+  この 映画[えいが]は 本当[ほんとう]に 怖[こわ]いから、一人[ひとり]で 見[み]ない 方[ほう]がいいよ。
+  Dieser Film ist wirklich gruselig, du solltest ihn besser nicht alleine ansehen.
+  彼の怖い顔を見て、子供たちは泣き出してしまった。
+  彼[かれ]の 怖[こわ]い 顔[かお]を 見[み]て、子供[こども]たちは 泣[な]き 出[だ]してしまった。
+  Als die Kinder sein furchteinflößendes Gesicht sahen, fingen sie an zu weinen.
+  怖い夢を見て、真夜中に目が覚めてしまいました。
+  怖[こわ]い 夢[ゆめ]を 見[み]て、真夜中[まよなか]に 目[め]が 覚[さ]めてしまいました。
+  Ich hatte einen schrecklichen Traum und wachte mitten in der Nacht auf.
+  彼女は怖い病気にかかってしまったようです。
+  彼女[かのじょ]は 怖[こわ]い 病気[びょうき]にかかってしまったようです。
+  Es scheint, als hätte sie sich eine bedrohliche Krankheit zugezogen.
+  なんとなく怖い雰囲気があって、一人では歩けなかった。
+  なんとなく 怖[こわ]い 雰囲気[ふんいき]があって、一人[ひとり]では 歩[ある]けなかった。
+  Es herrschte irgendwie eine unheimliche Atmosphäre, sodass ich nicht alleine gehen konnte.
+  わけもなく怖くなって、友達に電話をしてしまった。
+  わけもなく 怖[こわ]くなって、友達[ともだち]に 電話[でんわ]をしてしまった。
+  Ich bekam aus unerfindlichen Gründen Angst und rief einen Freund an.
+  子供の頃、お化けが怖くて一人で寝られなかった。
+  子供[こども]の 頃[ころ]、お 化[ば]けが 怖[こわ]くて 一人[ひとり]で 寝[ね]られなかった。
+  Als Kind hatte ich solche Angst vor Gespenstern, dass ich nicht alleine schlafen konnte.
+  犬が怖いから、公園を散歩するのをやめました。
+  犬[いぬ]が 怖[こわ]いから、公園[こうえん]を 散歩[さんぽ]するのをやめました。
+  Weil ich Angst vor Hunden habe, habe ich aufgehört, im Park spazieren zu gehen.
+  試験の結果が怖くて、成績表を開けられません。
+  試験[しけん]の 結果[けっか]が 怖[こわ]くて、成績表[せいせきひょう]を 開[あ]けられません。
+  Ich habe Angst vor den Prüfungsergebnissen und kann die Zeugnisse nicht öffnen.
+  一人ぼっちが怖いから、いつも誰かと一緒にいたいんです。
+  一人[ひとり]ぼっちが 怖[こわ]いから、いつも 誰[だれ]かと 一緒[いっしょ]にいたいんです。
+  Weil ich Angst vor dem Alleinsein habe, möchte ich immer mit jemandem zusammen sein.
+  彼は怖いほど幸せそうで、少し不安になりました。
+  彼[かれ]は 怖[こわ]いほど 幸[しあわ]せそうで、少[すこ]し 不安[ふあん]になりました。
+  Er schien unheimlich glücklich zu sein, was mich ein wenig beunruhigte.
+  怖い思いをしたことで、より慎重になりました。
+  怖[こわ]い 思[おも]いをしたことで、より 慎重[しんちょう]になりました。
+  Nachdem ich diese angsteinflößende Erfahrung gemacht habe, bin ich vorsichtiger geworden.
+  怖くなかったら、もっと冒険してみたいな。
+  怖[こわ]くなかったら、もっと 冒険[ぼうけん]してみたいな。
+  Wenn ich keine Angst hätte, würde ich gerne mehr Abenteuer erleben.
+  急に怖くなって、友達に家まで送ってもらいました。
+  急[きゅう]に 怖[こわ]くなって、友達[ともだち]に 家[いえ]まで 送[おく]ってもらいました。
+  Ich bekam plötzlich Angst und ließ mich von einem Freund nach Hause begleiten.
+  怖い目に遭わないように、夜は一人で出歩かないようにしています。
+  怖[こわ]い 目[め]に 遭[あ]わないように、夜[よる]は 一人[ひとり]で 出歩[である]かないようにしています。
+  Um keine schrecklichen Erfahrungen zu machen, gehe ich nachts nicht alleine raus.
+  病気が怖いから、健康には気をつけています。
+  病気[びょうき]が 怖[こわ]いから、健康[けんこう]には 気[き]をつけています。
+  Weil ich Angst vor Krankheiten habe, achte ich auf meine Gesundheit.
+  後が怖いから、嘘をつくのはやめておこう。
+  後[あと]が 怖[こわ]いから、嘘[うそ]をつくのはやめておこう。
+  Aus Angst vor den Konsequenzen sollte ich besser nicht lügen.
+  怖い男が来たので、すぐに逃げ出しました。
+  怖[こわ]い 男[おとこ]が 来[き]たので、すぐに 逃[に]げ 出[だ]しました。
+  Als der furchteinflößende Mann kam, bin ich sofort geflohen.
+  初めての経験で怖かったけど、やってみたら楽しかった。
+  初[はじ]めての 経験[けいけん]で 怖[こわ]かったけど、やってみたら 楽[たの]しかった。
+  Es war beängstigend, weil es meine erste Erfahrung war, aber als ich es ausprobierte, machte es Spaß.
+  雷が怖いから、雨の日は家にいることが多いです。
+  雷[かみなり]が 怖[こわ]いから、雨[あめ]の 日[ひ]は 家[いえ]にいることが 多[おお]いです。
+  Da ich Angst vor Donner habe, bleibe ich an Regentagen oft zu Hause.
+
+  この映画は本当に怖いから、一人で見ない方がいいよ。
+  この 映画[えいが]は 本当[ほんとう]に 怖[こわ]いから、一人[ひとり]で 見[み]ない 方[ほう]がいいよ。
+  Dieser Film ist wirklich gruselig, du solltest ihn besser nicht alleine ansehen.
+  彼の怖い顔を見て、子供たちは泣き出してしまった。
+  彼[かれ]の 怖[こわ]い 顔[かお]を 見[み]て、子供[こども]たちは 泣[な]き 出[だ]してしまった。
+  Als die Kinder sein furchteinflößendes Gesicht sahen, fingen sie an zu weinen.
+  怖い夢を見て、真夜中に目が覚めてしまいました。
+  怖[こわ]い 夢[ゆめ]を 見[み]て、真夜中[まよなか]に 目[め]が 覚[さ]めてしまいました。
+  Ich hatte einen schrecklichen Traum und wachte mitten in der Nacht auf.
+  彼女は怖い病気にかかってしまったようです。
+  彼女[かのじょ]は 怖[こわ]い 病気[びょうき]にかかってしまったようです。
+  Es scheint, als hätte sie sich eine bedrohliche Krankheit zugezogen.
+  なんとなく怖い雰囲気があって、一人では歩けなかった。
+  なんとなく 怖[こわ]い 雰囲気[ふんいき]があって、一人[ひとり]では 歩[ある]けなかった。
+  Es herrschte irgendwie eine unheimliche Atmosphäre, sodass ich nicht alleine gehen konnte.
+  わけもなく怖くなって、友達に電話をしてしまった。
+  わけもなく 怖[こわ]くなって、友達[ともだち]に 電話[でんわ]をしてしまった。
+  Ich bekam aus unerfindlichen Gründen Angst und rief einen Freund an.
+  子供の頃、お化けが怖くて一人で寝られなかった。
+  子供[こども]の 頃[ころ]、お 化[ば]けが 怖[こわ]くて 一人[ひとり]で 寝[ね]られなかった。
+  Als Kind hatte ich solche Angst vor Gespenstern, dass ich nicht alleine schlafen konnte.
+  犬が怖いから、公園を散歩するのをやめました。
+  犬[いぬ]が 怖[こわ]いから、公園[こうえん]を 散歩[さんぽ]するのをやめました。
+  Weil ich Angst vor Hunden habe, habe ich aufgehört, im Park spazieren zu gehen.
+  試験の結果が怖くて、成績表を開けられません。
+  試験[しけん]の 結果[けっか]が 怖[こわ]くて、成績表[せいせきひょう]を 開[あ]けられません。
+  Ich habe Angst vor den Prüfungsergebnissen und kann die Zeugnisse nicht öffnen.
+  一人ぼっちが怖いから、いつも誰かと一緒にいたいんです。
+  一人[ひとり]ぼっちが 怖[こわ]いから、いつも 誰[だれ]かと 一緒[いっしょ]にいたいんです。
+  Weil ich Angst vor dem Alleinsein habe, möchte ich immer mit jemandem zusammen sein.
+  彼は怖いほど幸せそうで、少し不安になりました。
+  彼[かれ]は 怖[こわ]いほど 幸[しあわ]せそうで、少[すこ]し 不安[ふあん]になりました。
+  Er schien unheimlich glücklich zu sein, was mich ein wenig beunruhigte.
+  怖い思いをしたことで、より慎重になりました。
+  怖[こわ]い 思[おも]いをしたことで、より 慎重[しんちょう]になりました。
+  Nachdem ich diese angsteinflößende Erfahrung gemacht habe, bin ich vorsichtiger geworden.
+  怖くなかったら、もっと冒険してみたいな。
+  怖[こわ]くなかったら、もっと 冒険[ぼうけん]してみたいな。
+  Wenn ich keine Angst hätte, würde ich gerne mehr Abenteuer erleben.
+  急に怖くなって、友達に家まで送ってもらいました。
+  急[きゅう]に 怖[こわ]くなって、友達[ともだち]に 家[いえ]まで 送[おく]ってもらいました。
+  Ich bekam plötzlich Angst und ließ mich von einem Freund nach Hause begleiten.
+  怖い目に遭わないように、夜は一人で出歩かないようにしています。
+  怖[こわ]い 目[め]に 遭[あ]わないように、夜[よる]は 一人[ひとり]で 出歩[である]かないようにしています。
+  Um keine schrecklichen Erfahrungen zu machen, gehe ich nachts nicht alleine raus.
+  病気が怖いから、健康には気をつけています。
+  病気[びょうき]が 怖[こわ]いから、健康[けんこう]には 気[き]をつけています。
+  Weil ich Angst vor Krankheiten habe, achte ich auf meine Gesundheit.
+  後が怖いから、嘘をつくのはやめておこう。
+  後[あと]が 怖[こわ]いから、嘘[うそ]をつくのはやめておこう。
+  Aus Angst vor den Konsequenzen sollte ich besser nicht lügen.
+  怖い男が来たので、すぐに逃げ出しました。
+  怖[こわ]い 男[おとこ]が 来[き]たので、すぐに 逃[に]げ 出[だ]しました。
+  Als der furchteinflößende Mann kam, bin ich sofort geflohen.
+  初めての経験で怖かったけど、やってみたら楽しかった。
+  初[はじ]めての 経験[けいけん]で 怖[こわ]かったけど、やってみたら 楽[たの]しかった。
+  Es war beängstigend, weil es meine erste Erfahrung war, aber als ich es ausprobierte, machte es Spaß.
+  雷が怖いから、雨の日は家にいることが多いです。
+  雷[かみなり]が 怖[こわ]いから、雨[あめ]の 日[ひ]は 家[いえ]にいることが 多[おお]いです。
+  Da ich Angst vor Donner habe, bleibe ich an Regentagen oft zu Hause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

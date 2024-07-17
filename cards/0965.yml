@@ -2,7 +2,7 @@ Rang: 965
 Lemma: 推進
 Lesung: すいしん
 Alternativschreibweisen: ''
-Definition: antreiben, fördern
+Definition: vorantreiben, fördern; Antrieb
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">い</span><span class="accent_plain">し</span><span
@@ -10,14 +10,90 @@ Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">い</span><span 
 Register: ↗</>Verwaltungssprache
 Dispersion: '36'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 推進しない・推進した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   我が社は省エネを推進している。
   我[わ]が 社[しゃ]は 省[しょう]エネを 推進[すいしん]している。
-  Unser Unternehmen fördert Energieeinsparungen.
+  Unser Unternehmen treibt Energiesparmaßnahmen voran.
+
+  新しい技術の推進には多くの投資が必要だ。
+  新[あたら]しい 技術[ぎじゅつ]の 推進[すいしん]には 多[おお]くの 投資[とうし]が 必要[ひつよう]だ。
+  Für die Förderung neuer Technologien sind viele Investitionen erforderlich.
+
+  この委員会は環境保護政策の推進母体となっている。
+  この 委員会[いいんかい]は 環境[かんきょう]保護[ほご]政策[せいさく]の 推進[すいしん]母体[ぼたい]となっている。
+  Dieses Komitee bildet die Basis für die Förderung von Umweltschutzmaßnahmen.
+
+  船の推進器が故障して、航行不能になった。
+  船[ふね]の 推進[すいしん]器[き]が 故障[こしょう]して、航行[こうこう]不能[ふのう]になった。
+  Der Schiffsantrieb ist ausgefallen, und das Schiff wurde manövrierunfähig.
+
+  彼女は会社の改革の推進者として知られている。
+  彼女[かのじょ]は 会社[かいしゃ]の 改革[かいかく]の 推進[すいしん]者[しゃ]として 知[し]られている。
+  Sie ist als treibende Kraft für Unternehmensreformen bekannt.
+
+  ロケットの推進力は重力に打ち勝つほど強力だ。
+  ロケットの 推進[すいしん]力[りょく]は 重力[じゅうりょく]に 打[う]ち 勝[か]つほど 強力[きょうりょく]だ。
+  Die Schubkraft der Rakete ist stark genug, um die Schwerkraft zu überwinden.
+
+  政府は再生可能エネルギーの利用を推進している。
+  政府[せいふ]は 再生[さいせい]可能[かのう]エネルギーの 利用[りよう]を 推進[すいしん]している。
+  Die Regierung fördert die Nutzung erneuerbarer Energien.
+
+  この新製品の開発を推進することで、市場シェアを拡大できるはずだ。
+  この 新[しん]製品[せいひん]の 開発[かいはつ]を 推進[すいしん]することで、市場[しじょう]シェアを 拡大[かくだい]できるはずだ。
+  Durch die Förderung der Entwicklung dieses neuen Produkts sollten wir unseren Marktanteil erweitern können.
+
+  彼らの行動が計画の推進を妨げている。
+  彼[かれ]らの 行動[こうどう]が 計画[けいかく]の 推進[すいしん]を 妨[さまた]げている。
+  Ihr Verhalten behindert das Vorankommen des Plans.
+
+  この会議は教育改革を推進するために開かれた。
+  この 会議[かいぎ]は 教育[きょういく]改革[かいかく]を 推進[すいしん]するために 開[ひら]かれた。
+  Diese Konferenz wurde abgehalten, um Bildungsreformen voranzutreiben.
+
+  彼は積極的に新しいアイデアを推進する。
+  彼[かれ]は 積極[せっきょく]的[てき]に 新[あたら]しいアイデアを 推進[すいしん]する。
+  Er treibt aktiv neue Ideen voran.
+
+  この推進薬は環境に優しい新素材で作られている。
+  この 推進[すいしん]薬[やく]は 環境[かんきょう]に 優[やさ]しい 新[しん]素材[そざい]で 作[つく]られている。
+  Dieser Treibstoff ist aus einem umweltfreundlichen neuen Material hergestellt.
+
+  彼女の提案は会社の発展に推進的な役割を果たした。
+  彼女[かのじょ]の 提案[ていあん]は 会社[かいしゃ]の 発展[はってん]に 推進[すいしん]的[てき]な 役割[やくわり]を 果[は]たした。
+  Ihr Vorschlag spielte eine förderliche Rolle für die Entwicklung des Unternehmens.
+
+  この新技術は産業の発展を推進するだろう。
+  この 新[しん]技術[ぎじゅつ]は 産業[さんぎょう]の 発展[はってん]を 推進[すいしん]するだろう。
+  Diese neue Technologie wird die Entwicklung der Industrie vorantreiben.
+
+  彼らは国際協力を推進するためにこの組織を設立した。
+  彼[かれ]らは 国際[こくさい]協力[きょうりょく]を 推進[すいしん]するためにこの 組織[そしき]を 設立[せつりつ]した。
+  Sie gründeten diese Organisation, um die internationale Zusammenarbeit zu fördern.
+
+  委員会は新しい福祉政策の推進を決定した。
+  委員会[いいんかい]は 新[あたら]しい 福祉[ふくし]政策[せいさく]の 推進[すいしん]を 決定[けってい]した。
+  Das Komitee beschloss, neue Sozialpolitiken voranzutreiben.
+
+  この会社は常に革新的なアイデアを推進している。
+  この 会社[かいしゃ]は 常[つね]に 革新[かくしん]的[てき]なアイデアを 推進[すいしん]している。
+  Dieses Unternehmen fördert stets innovative Ideen.
+
+  彼は積極的に地域の発展を推進する活動に参加している。
+  彼[かれ]は 積極[せっきょく]的[てき]に 地域[ちいき]の 発展[はってん]を 推進[すいしん]する 活動[かつどう]に 参加[さんか]している。
+  Er beteiligt sich aktiv an Aktivitäten zur Förderung der regionalen Entwicklung.
+
+  この新しいプロジェクトを推進することで、会社の競争力が高まるはずだ。
+  この 新[あたら]しいプロジェクトを 推進[すいしん]することで、会社[かいしゃ]の 競争[きょうそう]力[りょく]が 高[たか]まるはずだ。
+  Durch die Förderung dieses neuen Projekts sollte sich die Wettbewerbsfähigkeit des Unternehmens erhöhen.
+
+  政府は科学技術の推進に多額の予算を割り当てた。
+  政府[せいふ]は 科学[かがく]技術[ぎじゅつ]の 推進[すいしん]に 多額[たがく]の 予算[よさん]を 割[わ]り 当[あ]てた。
+  Die Regierung hat beträchtliche Mittel für die Förderung von Wissenschaft und Technologie bereitgestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

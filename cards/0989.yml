@@ -2,14 +2,14 @@ Rang: 989
 Lemma: 調査
 Lesung: ちょうさ
 Alternativschreibweisen: ''
-Definition: Untersuchung
+Definition: Untersuchung, Ermittlung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span class="accent_top">ちょ</span><span>う</span><span>さ</span>
 Register: ''
 Dispersion: '63'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 調査しない・調査した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   警察は事故の原因を調査している。
   警察[けいさつ]は 事故[じこ]の 原因[げんいん]を 調査[ちょうさ]している。
   Die Polizei untersucht die Ursache des Unfalls.
+
+  新しい薬の効果を調査するため、臨床試験を行います。
+  新[あたら]しい 薬[くすり]の 効果[こうか]を 調査[ちょうさ]するため、臨床試験[りんしょうしけん]を 行[おこな]います。
+  Um die Wirksamkeit des neuen Medikaments zu untersuchen, führen wir klinische Studien durch.
+
+  調査方法について話し合う会議を開きましょう。
+  調査方法[ちょうさほうほう]について 話[はな]し 合[あ]う 会議[かいぎ]を 開[ひら]きましょう。
+  Lassen Sie uns eine Besprechung abhalten, um über die Untersuchungsmethoden zu diskutieren.
+
+  調査報告書を来週の金曜日までに提出してください。
+  調査報告書[ちょうさほうこくしょ]を 来週[らいしゅう]の 金曜日[きんようび]までに 提出[ていしゅつ]してください。
+  Bitte reichen Sie den Untersuchungsbericht bis nächsten Freitag ein.
+
+  国会で新たな調査委員会が設置されました。
+  国会[こっかい]で 新[あら]たな 調査委員会[ちょうさいいんかい]が 設置[せっち]されました。
+  Im Parlament wurde ein neuer Untersuchungsausschuss eingerichtet.
+
+  調査員が現場で証拠を集めています。
+  調査員[ちょうさいん]が 現場[げんば]で 証拠[しょうこ]を 集[あつ]めています。
+  Die Ermittler sammeln Beweise am Tatort.
+
+  この調査結果は私たちの仮説を裏付けるものだ。
+  この 調査結果[ちょうさけっか]は 私[わたし]たちの 仮説[かせつ]を 裏付[うらづ]けるものだ。
+  Diese Untersuchungsergebnisse unterstützen unsere Hypothese.
+
+  海洋生物の生態を調査するため、調査船が出航しました。
+  海洋生物[かいようせいぶつ]の 生態[せいたい]を 調査[ちょうさ]するため、調査船[ちょうさせん]が 出航[しゅっこう]しました。
+  Ein Forschungsschiff ist ausgelaufen, um die Ökologie der Meereslebewesen zu untersuchen.
+
+  調査資料の分析に時間がかかりそうです。
+  調査資料[ちょうさしりょう]の 分析[ぶんせき]に 時間[じかん]がかかりそうです。
+  Es wird wohl einige Zeit dauern, das Forschungsmaterial zu analysieren.
+
+  アンケート調査にご協力いただきありがとうございます。
+  アンケート 調査[ちょうさ]にご 協力[きょうりょく]いただきありがとうございます。
+  Vielen Dank für Ihre Teilnahme an unserer Umfrage.
+
+  学術調査の結果が学会で発表されました。
+  学術調査[がくじゅつちょうさ]の 結果[けっか]が 学会[がっかい]で 発表[はっぴょう]されました。
+  Die Ergebnisse der wissenschaftlichen Untersuchung wurden auf einer Konferenz vorgestellt.
+
+  来月、全国規模の人口調査が実施されます。
+  来月[らいげつ]、全国規模[ぜんこくきぼ]の 人口調査[じんこうちょうさ]が 実施[じっし]されます。
+  Nächsten Monat wird eine landesweite Volkszählung durchgeführt.
+
+  実地調査のため、研究チームが現地に派遣された。
+  実地調査[じっちちょうさ]のため、研究[けんきゅう]チームが 現地[げんち]に 派遣[はけん]された。
+  Für die Feldforschung wurde ein Forschungsteam vor Ort entsandt.
+
+  最新の世論調査によると、政府の支持率が上昇しています。
+  最新[さいしん]の 世論調査[よろんちょうさ]によると、政府[せいふ]の 支持率[しじりつ]が 上昇[じょうしょう]しています。
+  Laut der neuesten Meinungsumfrage steigt die Zustimmungsrate für die Regierung.
+
+  新製品の開発のため、徹底的な市場調査を行った。
+  新製品[しんせいひん]の 開発[かいはつ]のため、徹底的[てっていてき]な 市場調査[しじょうちょうさ]を 行[おこな]った。
+  Für die Entwicklung des neuen Produkts wurde eine gründliche Marktforschung durchgeführt.
+
+  在庫調査の結果、商品の欠品が判明しました。
+  在庫調査[ざいこちょうさ]の 結果[けっか]、商品[しょうひん]の 欠品[けっぴん]が 判明[はんめい]しました。
+  Die Inventur ergab, dass einige Produkte nicht vorrätig sind.
+
+  調査中ですので、結果が出るまでお待ちください。
+  調査中[ちょうさちゅう]ですので、結果[けっか]が 出[で]るまでお 待[ま]ちください。
+  Die Untersuchung läuft noch, bitte warten Sie, bis die Ergebnisse vorliegen.
+
+  この事件の調査を依頼されました。
+  この 事件[じけん]の 調査[ちょうさ]を 依頼[いらい]されました。
+  Ich wurde beauftragt, diesen Fall zu untersuchen.
+
+  環境への影響を調査の対象に含めるべきだ。
+  環境[かんきょう]への 影響[えいきょう]を 調査[ちょうさ]の 対象[たいしょう]に 含[ふく]めるべきだ。
+  Die Auswirkungen auf die Umwelt sollten in den Untersuchungsgegenstand einbezogen werden.
+
+  予算不足のため、調査を打ち切らざるを得なかった。
+  予算不足[よさんぶそく]のため、調査[ちょうさ]を 打[う]ち 切[き]らざるを 得[え]なかった。
+  Aufgrund von Budgetmangel mussten wir die Untersuchung abbrechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

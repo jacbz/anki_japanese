@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_top">め</span><span>�
 Register: ↗</>Verwaltungssprache
 Dispersion: '46'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 占めない・占めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   高齢者が全人口の40パーセントを占める。
   高齢者[こうれいしゃ]が 全[ぜん] 人口[じんこう]の40パーセントを 占[し]める。
   Ältere Menschen machen mehr als 40 Prozent der Gesamtbevölkerung aus.
+
+  このホテルは観光客に人気で、いつも満室を占めています。
+  このホテルは 観光客[かんこうきゃく]に 人気[にんき]で、いつも 満室[まんしつ]を 占[し]めています。
+  Dieses Hotel ist bei Touristen beliebt und immer ausgebucht.
+
+  彼女の仕事は会社の売上の半分を占めている。
+  彼女[かのじょ]の 仕事[しごと]は 会社[かいしゃ]の 売上[うりあげ]の 半分[はんぶん]を 占[し]めている。
+  Ihre Arbeit macht die Hälfte des Umsatzes des Unternehmens aus.
+
+  新製品が市場シェアの30%を占めるまでになった。
+  新製品[しんせいひん]が 市場[しじょう]シェアの30%を 占[し]めるまでになった。
+  Das neue Produkt hat einen Marktanteil von 30% erreicht.
+
+  彼は常にクラスで首席を占めている。
+  彼[かれ]は 常[つね]にクラスで 首席[しゅせき]を 占[し]めている。
+  Er belegt immer den ersten Platz in der Klasse.
+
+  その問題は会議の大半の時間を占めた。
+  その 問題[もんだい]は 会議[かいぎ]の 大半[たいはん]の 時間[じかん]を 占[し]めた。
+  Das Problem nahm den Großteil der Besprechungszeit ein.
+
+  彼女の小説は本屋のベストセラーコーナーを占めている。
+  彼女[かのじょ]の 小説[しょうせつ]は 本屋[ほんや]のベストセラーコーナーを 占[し]めている。
+  Ihre Romane nehmen die Bestseller-Ecke der Buchhandlung ein.
+
+  日本語の勉強が私の自由時間の多くを占めています。
+  日本語[にほんご]の 勉強[べんきょう]が 私[わたし]の 自由時間[じゆうじかん]の 多[おお]くを 占[し]めています。
+  Das Japanisch-Lernen nimmt einen Großteil meiner Freizeit ein.
+
+  このレストランは駅前の一等地を占めている。
+  このレストランは 駅前[えきまえ]の 一等地[いっとうち]を 占[し]めている。
+  Dieses Restaurant befindet sich an einer Toplage vor dem Bahnhof.
+
+  彼の考えは常に私の頭を占めている。
+  彼[かれ]の 考[かんが]えは 常[つね]に 私[わたし]の 頭[あたま]を 占[し]めている。
+  Seine Gedanken beherrschen ständig meinen Kopf.
+
+  このチームは3年連続でリーグ優勝を占めた。
+  このチームは3年[ねん] 連続[れんぞく]でリーグ 優勝[ゆうしょう]を 占[し]めた。
+  Dieses Team hat drei Jahre in Folge die Liga gewonnen.
+
+  彼女の絵が展覧会の中心的な位置を占めていた。
+  彼女[かのじょ]の 絵[え]が 展覧会[てんらんかい]の 中心的[ちゅうしんてき]な 位置[いち]を 占[し]めていた。
+  Ihr Gemälde nahm eine zentrale Position in der Ausstellung ein.
+
+  左の壁の半分を、本棚が、あとの半分を、窓が占めている。
+  左[ひだり]の 壁[かべ]の 半分[はんぶん]を、本棚[ほんだな]が、あとの 半分[はんぶん]を、窓[まど]が 占[し]めている。
+  Die linke Wand wird zur Hälfte von einem Bücherregal, zur anderen Hälfte vom Fenster eingenommen.
+
+  床の半分を占める絨毯はその古びた色あいにもかかわらず毛足は実にしっかりとしていた。
+  床[ゆか]の 半分[はんぶん]を 占[し]める 絨毯[じゅうたん]はその 古[ふる]びた 色[いろ]あいにもかかわらず 毛足[けあし]は 実[じつ]にしっかりとしていた。
+  Der Teppich, der die Hälfte des Bodens bedeckte, hatte trotz der verblichenen Farben noch einen sehr festen Flor.
+
+  彼は、自分から首席を占め、肩を並べるものを許さないことを誇りとするようになった。
+  彼[かれ]は、自分[じぶん]から 首席[しゅせき]を 占[し]め、肩[かた]を 並[なら]べるものを 許[ゆる]さないことを 誇[ほこ]りとするようになった。
+  Er wurde stolz darauf, selbst den ersten Platz einzunehmen und niemanden neben sich zu dulden.
+
+  委員会は偶然、もっぱらニュートンの友人で占められていた。
+  委員会[いいんかい]は 偶然[ぐうぜん]、もっぱらニュートンの 友人[ゆうじん]で 占[し]められていた。
+  Der Ausschuss bestand zufälligerweise ausschließlich aus Newtons Freunden.
+
+  これらの貿易の利を最大限に占めようとしている。
+  これらの 貿易[ぼうえき]の 利[り]を 最大限[さいだいげん]に 占[し]めようとしている。
+  Sie versuchen, den größtmöglichen Nutzen aus diesem Handel zu ziehen.
+
+  近来は漸々主意説が心理学の分野で勢力を占めるようになった。
+  近来[きんらい]は 漸々[ぜんぜん] 主意説[しゅいせつ]が 心理学[しんりがく]の 分野[ぶんや]で 勢力[せいりょく]を 占[し]めるようになった。
+  In letzter Zeit hat der Voluntarismus in der Psychologie allmählich an Einfluss gewonnen.
+
+  このレストランは味を占めると、常連客になる人が多い。
+  このレストランは 味[あじ]を 占[し]めると、常連客[じょうれんきゃく]になる 人[ひと]が 多[おお]い。
+  Wenn man den Geschmack dieses Restaurants zu schätzen weiß, wird man oft Stammgast.
+
+  彼は二人の争いから漁夫の利を占めた。
+  彼[かれ]は 二人[ふたり]の 争[あらそ]いから 漁夫[ぎょふ]の 利[り]を 占[し]めた。
+  Er zog als lachender Dritter Nutzen aus dem Streit der beiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

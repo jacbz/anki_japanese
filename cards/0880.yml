@@ -2,21 +2,97 @@ Rang: 880
 Lemma: 育てる
 Lesung: そだてる
 Alternativschreibweisen: ''
-Definition: aufziehen, trainieren, entwickeln
+Definition: aufziehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>そ</span><span class="accent_plain">だ</span><span class="accent_top">て</span><span>る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 育てない・育てた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は祖母に育てられました。
   私[わたし]は 祖母[そぼ]に 育[そだ]てられました。
-  Ich wurde von meiner Großmutter aufgezogen.
+  Ich wurde von meiner Großmutter großgezogen.
+
+  三人の子供を育てるのは大変な仕事です。
+  三人[さんにん]の 子供[こども]を 育[そだ]てるのは 大変[たいへん]な 仕事[しごと]です。
+  Drei Kinder großzuziehen ist eine schwierige Aufgabe.
+
+  庭で野菜を育てています。
+  庭[にわ]で 野菜[やさい]を 育[そだ]てています。
+  Ich ziehe Gemüse im Garten.
+
+  彼女は一人で子供を育てている。
+  彼女[かのじょ]は 一人[ひとり]で 子供[こども]を 育[そだ]てている。
+  Sie zieht ihr Kind allein auf.
+
+  新しい品種のバラを育てるのは難しい。
+  新[あたら]しい 品種[ひんしゅ]のバラを 育[そだ]てるのは 難[むずか]しい。
+  Es ist schwierig, eine neue Rosenart zu züchten.
+
+  子供の才能を育てることが大切です。
+  子供[こども]の 才能[さいのう]を 育[そだ]てることが 大切[たいせつ]です。
+  Es ist wichtig, die Talente der Kinder zu fördern.
+
+  彼らは荒れ地でトマトを育てることに成功した。
+  彼[かれ]らは 荒[あ]れ 地[ち]でトマトを 育[そだ]てることに 成功[せいこう]した。
+  Es gelang ihnen, Tomaten auf brachliegendem Land zu ziehen.
+
+  愛情を持って子供を育てましょう。
+  愛情[あいじょう]を 持[も]って 子供[こども]を 育[そだ]てましょう。
+  Lasst uns die Kinder mit Liebe großziehen.
+
+  彼は自分の会社を一から育て上げた。
+  彼[かれ]は 自分[じぶん]の 会社[かいしゃ]を 一[いち]から 育[そだ]て 上[あ]げた。
+  Er hat sein Unternehmen von Grund auf aufgebaut.
+
+  環境に優しい方法で作物を育てることが重要だ。
+  環境[かんきょう]に 優[やさ]しい 方法[ほうほう]で 作物[さくもつ]を 育[そだ]てることが 重要[じゅうよう]だ。
+  Es ist wichtig, Pflanzen auf umweltfreundliche Weise anzubauen.
+
+  子供の自立心を育てるために、時には厳しくすることも必要だ。
+  子供[こども]の 自立心[じりつしん]を 育[そだ]てるために、時[とき]には 厳[きび]しくすることも 必要[ひつよう]だ。
+  Um die Selbstständigkeit der Kinder zu fördern, ist es manchmal notwendig, streng zu sein.
+
+  彼女は新しいプロジェクトを育てるのが上手だ。
+  彼女[かのじょ]は 新[あたら]しいプロジェクトを 育[そだ]てるのが 上手[じょうず]だ。
+  Sie ist geschickt darin, neue Projekte zu entwickeln.
+
+  両親は私を医者に育てようとしたが、私は別の道を選んだ。
+  両親[りょうしん]は 私[わたし]を 医者[いしゃ]に 育[そだ]てようとしたが、私[わたし]は 別[べつ]の 道[みち]を 選[えら]んだ。
+  Meine Eltern wollten mich zu einem Arzt erziehen, aber ich wählte einen anderen Weg.
+
+  彼は孤児院で育てられた。
+  彼[かれ]は 孤児院[こじいん]で 育[そだ]てられた。
+  Er wurde in einem Waisenhaus aufgezogen.
+
+  家族の絆を育てるには時間と努力が必要だ。
+  家族[かぞく]の 絆[きずな]を 育[そだ]てるには 時間[じかん]と 努力[どりょく]が 必要[ひつよう]だ。
+  Es braucht Zeit und Mühe, um familiäre Bindungen aufzubauen.
+
+  彼女は子供たちの創造性を育てる教育方法を開発した。
+  彼女[かのじょ]は 子供[こども]たちの 創造性[そうぞうせい]を 育[そだ]てる 教育[きょういく]方法[ほうほう]を 開発[かいはつ]した。
+  Sie entwickelte Lehrmethoden, die die Kreativität der Kinder fördern.
+
+  自分の夢を育てるために、毎日少しずつ努力しています。
+  自分[じぶん]の 夢[ゆめ]を 育[そだ]てるために、毎日[まいにち] 少[すこ]しずつ 努力[どりょく]しています。
+  Ich arbeite jeden Tag ein bisschen daran, meinen Traum zu verwirklichen.
+
+  彼らは環境に配慮しながら家畜を育てている。
+  彼[かれ]らは 環境[かんきょう]に 配慮[はいりょ]しながら 家畜[かちく]を 育[そだ]てている。
+  Sie züchten Vieh unter Berücksichtigung der Umwelt.
+
+  子供の好奇心を育てることが、学習意欲につながります。
+  子供[こども]の 好奇心[こうきしん]を 育[そだ]てることが、学習[がくしゅう]意欲[いよく]につながります。
+  Die Förderung der kindlichen Neugier führt zu Lernmotivation.
+
+  彼は後継者を育てるのに多くの時間を費やした。
+  彼[かれ]は 後継者[こうけいしゃ]を 育[そだ]てるのに 多[おお]くの 時間[じかん]を 費[つい]やした。
+  Er investierte viel Zeit in die Ausbildung seines Nachfolgers.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

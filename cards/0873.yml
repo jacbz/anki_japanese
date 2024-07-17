@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>こ</span><span class="accent_plain">と</span><span 
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 異ならない・異なった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   私の意見はあなたの意見と異なります。
   私[わたし]の 意見[いけん]はあなたの 意見[いけん]と 異[こと]なります。
   Meine Meinung unterscheidet sich von deiner Meinung.
+
+  この二つの製品は価格が異なります。
+  この 二[ふた]つの 製品[せいひん]は 価格[かかく]が 異[こと]なります。
+  Diese beiden Produkte unterscheiden sich im Preis.
+
+  彼と私は意見が異なることが多いです。
+  彼[かれ]と 私[わたし]は 意見[いけん]が 異[こと]なることが 多[おお]いです。
+  Er und ich haben oft unterschiedliche Meinungen.
+
+  人によって解釈が異なることがあります。
+  人[ひと]によって 解釈[かいしゃく]が 異[こと]なることがあります。
+  Die Interpretation kann je nach Person variieren.
+
+  場所によって気候が異なります。
+  場所[ばしょ]によって 気候[きこう]が 異[こと]なります。
+  Das Klima variiert je nach Ort.
+
+  彼女の今日の態度はいつもと異なっていた。
+  彼女[かのじょ]の 今日[きょう]の 態度[たいど]はいつもと 異[こと]なっていた。
+  Ihre Einstellung heute war anders als sonst.
+
+  この二つの文化は言語が異なります。
+  この 二[ふた]つの 文化[ぶんか]は 言語[げんご]が 異[こと]なります。
+  Diese beiden Kulturen sprechen unterschiedliche Sprachen.
+
+  兄弟なのに、二人の性格は大きく異なっています。
+  兄弟[きょうだい]なのに、二人[ふたり]の 性格[せいかく]は 大[おお]きく 異[こと]なっています。
+  Obwohl sie Brüder sind, unterscheiden sich ihre Persönlichkeiten stark.
+
+  この二つの版は内容が少し異なります。
+  この 二[ふた]つの 版[はん]は 内容[ないよう]が 少[すこ]し 異[こと]なります。
+  Diese beiden Ausgaben unterscheiden sich leicht im Inhalt.
+
+  彼らの人生観は私のものと明らかに異なっている。
+  彼[かれ]らの 人生観[じんせいかん]は 私[わたし]のものと 明[あき]らかに 異[こと]なっている。
+  Ihre Lebenseinstellung unterscheidet sich deutlich von meiner.
+
+  この二つの理論は根本的に異なっています。
+  この 二[ふた]つの 理論[りろん]は 根本的[こんぽんてき]に 異[こと]なっています。
+  Diese beiden Theorien unterscheiden sich grundlegend.
+
+  時代によって流行が異なります。
+  時代[じだい]によって 流行[りゅうこう]が 異[こと]なります。
+  Trends variieren je nach Epoche.
+
+  彼の行動は常識と異なることが多い。
+  彼[かれ]の 行動[こうどう]は 常識[じょうしき]と 異[こと]なることが 多[おお]い。
+  Sein Verhalten weicht oft vom gesunden Menschenverstand ab.
+
+  この二つの製品は形が異なります。
+  この 二[ふた]つの 製品[せいひん]は 形[かたち]が 異[こと]なります。
+  Diese beiden Produkte haben unterschiedliche Formen.
+
+  彼の意見は他の人と異なることが多い。
+  彼[かれ]の 意見[いけん]は 他[ほか]の 人[ひと]と 異[こと]なることが 多[おお]い。
+  Seine Meinung unterscheidet sich oft von der anderer Menschen.
+
+  年齢によって趣味が異なることがあります。
+  年齢[ねんれい]によって 趣味[しゅみ]が 異[こと]なることがあります。
+  Hobbys können je nach Alter variieren.
+
+  この二つの国は政治制度が異なります。
+  この 二[ふた]つの 国[くに]は 政治制度[せいじせいど]が 異[こと]なります。
+  Diese beiden Länder haben unterschiedliche politische Systeme.
+
+  彼の考え方は一般的なものと大きく異なっている。
+  彼[かれ]の 考[かんが]え 方[かた]は 一般的[いっぱんてき]なものと 大[おお]きく 異[こと]なっている。
+  Seine Denkweise weicht stark vom Allgemeinen ab.
+
+  この二つの版は表紙のデザインが異なります。
+  この 二[ふた]つの 版[はん]は 表紙[ひょうし]のデザインが 異[こと]なります。
+  Diese beiden Ausgaben haben unterschiedliche Coverdesigns.
+
+  地域によって方言が異なります。
+  地域[ちいき]によって 方言[ほうげん]が 異[こと]なります。
+  Dialekte variieren je nach Region.
+
+  彼女の態度は昨日と今日で異なっていた。
+  彼女[かのじょ]の 態度[たいど]は 昨日[きのう]と 今日[きょう]で 異[こと]なっていた。
+  Ihre Einstellung unterschied sich von gestern zu heute.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

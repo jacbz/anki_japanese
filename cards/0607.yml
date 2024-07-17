@@ -1,15 +1,15 @@
 Rang: 607
 Lemma: のぼる
 Lesung: ''
-Alternativschreibweisen: 上る
-Definition: hinaufgehen, steigen; erreichen
+Alternativschreibweisen: 上る・登る・昇る
+Definition: (auf-)steigen; erreichen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: のぼらない・のぼった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   被災者の数は5000人に上った。
   被災者[ひさいしゃ]の 数[かず]は5000人に 上[のぼ]った。
   Die Anzahl der Opfer erreichte 5.000.
+
+  舞台に上る前に、深呼吸して緊張をほぐした。
+  舞台[ぶたい]に 上[のぼ]る 前[まえ]に、深呼吸[しんこきゅう]して 緊張[きんちょう]をほぐした。
+  Bevor ich die Bühne betrat, atmete ich tief durch, um meine Nervosität abzubauen.
+
+  階段を上るのに息が切れてしまった。
+  階段[かいだん]を 上[のぼ]るのに 息[いき]が 切[き]れてしまった。
+  Ich war außer Atem, als ich die Treppe hinaufstieg.
+
+  川を上って行くと、美しい滝に出会った。
+  川[かわ]を 上[のぼ]って 行[い]くと、美[うつく]しい 滝[たき]に 出会[であ]った。
+  Als wir den Fluss hinaufgingen, trafen wir auf einen wunderschönen Wasserfall.
+
+  煙突から上る煙が、冬の到来を告げていた。
+  煙突[えんとつ]から 上[のぼ]る 煙[けむり]が、冬[ふゆ]の 到来[とうらい]を 告[つ]げていた。
+  Der aus dem Schornstein aufsteigende Rauch kündigte das Kommen des Winters an.
+
+  子供たちは木に上って、リンゴを取ろうとしていた。
+  子供[こども]たちは 木[き]に 上[のぼ]って、リンゴを 取[と]ろうとしていた。
+  Die Kinder kletterten auf den Baum, um Äpfel zu pflücken.
+
+  エレベーターで最上階に上ると、素晴らしい景色が広がっていた。
+  エレベーターで 最上階[さいじょうかい]に 上[のぼ]ると、素晴[すば]らしい 景色[けしき]が 広[ひろ]がっていた。
+  Als wir mit dem Aufzug in die oberste Etage fuhren, bot sich uns eine wunderbare Aussicht.
+
+  富士山に上る時は、十分な準備が必要だ。
+  富士山[ふじさん]に 上[のぼ]る 時[とき]は、十分[じゅうぶん]な 準備[じゅんび]が 必要[ひつよう]だ。
+  Wenn man den Berg Fuji besteigt, ist eine gründliche Vorbereitung notwendig.
+
+  東京に上る前に、地元の友人たちと別れの会をした。
+  東京[とうきょう]に 上[のぼ]る 前[まえ]に、地元[じもと]の 友人[ゆうじん]たちと 別[わか]れの 会[かい]をした。
+  Bevor ich nach Tokyo fuhr, veranstaltete ich eine Abschiedsfeier mit meinen Freunden aus der Heimat.
+
+  朝日が山の向こうから昇り、新しい一日が始まった。
+  朝日[あさひ]が 山[やま]の 向[む]こうから 昇[のぼ]り、新[あたら]しい 一日[いちにち]が 始[はじ]まった。
+  Die Morgensonne ging hinter den Bergen auf und ein neuer Tag begann.
+
+  彼は努力の末、部長に上ることができた。
+  彼[かれ]は 努力[どりょく]の 末[すえ]、部長[ぶちょう]に 上[のぼ]ることができた。
+  Nach vielen Anstrengungen konnte er zum Abteilungsleiter aufsteigen.
+
+  気温が急激に上り、熱中症の危険性が高まっている。
+  気温[きおん]が 急激[きゅうげき]に 上[のぼ]り、熱中症[ねっちゅうしょう]の 危険性[きけんせい]が 高[たか]まっている。
+  Die Temperatur ist rapide gestiegen, wodurch die Gefahr von Hitzschlag zunimmt.
+
+  今回の損害額は1000万円に上ると予想される。
+  今回[こんかい]の 損害額[そんがいがく]は1000万円[まんえん]に 上[のぼ]ると 予想[よそう]される。
+  Es wird erwartet, dass sich der Schaden diesmal auf 10 Millionen Yen belaufen wird.
+
+  この問題が議題に上れば、激しい議論になるだろう。
+  この 問題[もんだい]が 議題[ぎだい]に 上[のぼ]れば、激[はげ]しい 議論[ぎろん]になるだろう。
+  Wenn dieses Problem auf die Tagesordnung kommt, wird es wahrscheinlich zu heftigen Diskussionen kommen.
+
+  彼女の名前が話題に上るたびに、彼は顔を赤らめた。
+  彼女[かのじょ]の 名前[なまえ]が 話題[わだい]に 上[のぼ]るたびに、彼[かれ]は 顔[かお]を 赤[あか]らめた。
+  Jedes Mal, wenn ihr Name zur Sprache kam, wurde er rot im Gesicht.
+
+  その商品は市場に上る前に、厳しい品質チェックを受ける。
+  その 商品[しょうひん]は 市場[しじょう]に 上[のぼ]る 前[まえ]に、厳[きび]しい 品質[ひんしつ]チェックを 受[う]ける。
+  Bevor das Produkt auf den Markt kommt, wird es einer strengen Qualitätskontrolle unterzogen.
+
+  彼の功績は歴史に上り、後世に語り継がれるだろう。
+  彼[かれ]の 功績[こうせき]は 歴史[れきし]に 上[のぼ]り、後世[こうせい]に 語[かた]り 継[つ]がれるだろう。
+  Seine Leistungen werden in die Geschichte eingehen und an künftige Generationen weitergegeben werden.
+
+  新しいアイデアが頭に上り、すぐにメモを取った。
+  新[あたら]しいアイデアが 頭[あたま]に 上[のぼ]り、すぐにメモを 取[と]った。
+  Als mir eine neue Idee in den Sinn kam, notierte ich sie sofort.
+
+  彼女の名が候補者リストに上り、皆を驚かせた。
+  彼女[かのじょ]の 名[な]が 候補者[こうほしゃ]リストに 上[のぼ]り、皆[みな]を 驚[おどろ]かせた。
+  Ihr Name tauchte auf der Kandidatenliste auf und überraschte alle.
+
+  その噂が上るたびに、彼は否定に追われた。
+  その 噂[うわさ]が 上[のぼ]るたびに、彼[かれ]は 否定[ひてい]に 追[お]われた。
+  Jedes Mal, wenn das Gerücht aufkam, sah er sich gezwungen, es zu dementieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

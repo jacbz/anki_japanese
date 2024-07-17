@@ -9,14 +9,94 @@ Lesung mit Tonhöhe: <span>す</span><span class="accent_top">ぎ</span><span>�
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 過ぎない・過ぎた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   春が過ぎ、夏になった。
-  春[はる]が 過[す]ぎ、 夏[なつ]になった。
-  Der Frühling verging und es wurde Sommer.
+  春[はる]が 過[す]ぎ、夏[なつ]になった。
+  Der Frühling ist vorüber und der Sommer ist gekommen.
+
+  祖父は80歳を過ぎてもまだ元気だ。
+  祖父[そふ]は80歳[はちじゅっさい]を 過[す]ぎてもまだ 元気[げんき]だ。
+  Mein Großvater ist auch über 80 Jahre alt noch fit.
+
+  締め切りが過ぎてしまった。どうしよう。
+  締[し]め 切[き]りが 過[す]ぎてしまった。どうしよう。
+  Die Frist ist abgelaufen. Was soll ich nur tun?
+
+  彼女は20代を過ぎてからモデルになった。
+  彼女[かのじょ]は20代[はたち]を 過[す]ぎてからモデルになった。
+  Sie wurde erst nach ihren Zwanzigern Model.
+
+  授業開始時間を5分過ぎて到着した。
+  授業[じゅぎょう] 開始[かいし] 時間[じかん]を5分[ごふん] 過[す]ぎて 到着[とうちゃく]した。
+  Ich kam 5 Minuten nach Unterrichtsbeginn an.
+
+  彼の発言は度を過ぎている。
+  彼[かれ]の 発言[はつげん]は 度[ど]を 過[す]ぎている。
+  Seine Äußerung geht zu weit.
+
+  食べ過ぎて、お腹が痛い。
+  食[た]べ 過[す]ぎて、お 腹[なか]が 痛[いた]い。
+  Ich habe zu viel gegessen und jetzt tut mir der Bauch weh.
+
+  彼女の服装は派手過ぎる。
+  彼女[かのじょ]の 服装[ふくそう]は 派手[はで] 過[す]ぎる。
+  Ihre Kleidung ist zu auffällig.
+
+  この話は単なる噂に過ぎない。
+  この 話[はなし]は 単[たん]なる 噂[うわさ]に 過[す]ぎない。
+  Diese Geschichte ist nichts weiter als ein Gerücht.
+
+  彼の説明は難し過ぎて、誰も理解できなかった。
+  彼[かれ]の 説明[せつめい]は 難[むずか]し 過[す]ぎて、誰[だれ]も 理解[りかい]できなかった。
+  Seine Erklärung war zu schwierig, niemand konnte sie verstehen.
+
+  その映画は長過ぎて、途中で眠くなった。
+  その 映画[えいが]は 長[なが] 過[す]ぎて、途中[とちゅう]で 眠[ねむ]くなった。
+  Der Film war zu lang und ich wurde zwischendurch schläfrig.
+
+  彼女は完璧を求め過ぎている。
+  彼女[かのじょ]は 完璧[かんぺき]を 求[もと]め 過[す]ぎている。
+  Sie strebt zu sehr nach Perfektion.
+
+  昨日の飲み会で飲み過ぎてしまった。
+  昨日[きのう]の 飲[の]み 会[かい]で 飲[の]み 過[す]ぎてしまった。
+  Gestern habe ich bei der Trinkreunde zu viel getrunken.
+
+  彼の反応は冷た過ぎると思う。
+  彼[かれ]の 反応[はんのう]は 冷[つめ]た 過[す]ぎると 思[おも]う。
+  Ich finde, seine Reaktion ist zu kalt.
+
+  仕事に熱中し過ぎて、家族との時間が減ってしまった。
+  仕事[しごと]に 熱中[ねっちゅう]し 過[す]ぎて、家族[かぞく]との 時間[じかん]が 減[へ]ってしまった。
+  Ich habe mich zu sehr auf die Arbeit konzentriert und dadurch weniger Zeit mit meiner Familie verbracht.
+
+  彼女の親切は度を過ぎている気がする。
+  彼女[かのじょ]の 親切[しんせつ]は 度[ど]を 過[す]ぎている 気[き]がする。
+  Ich habe das Gefühl, ihre Freundlichkeit ist übertrieben.
+
+  彼の自信は自惚れに過ぎない。
+  彼[かれ]の 自信[じしん]は 自惚[うぬぼ]れに 過[す]ぎない。
+  Sein Selbstvertrauen ist nichts als Einbildung.
+
+  この靴は小さ過ぎて、履けない。
+  この 靴[くつ]は 小[ちい]さ 過[す]ぎて、履[は]けない。
+  Diese Schuhe sind zu klein, ich kann sie nicht tragen.
+
+  彼女の話は感傷的過ぎる。
+  彼女[かのじょ]の 話[はなし]は 感傷的[かんしょうてき] 過[す]ぎる。
+  Ihre Geschichte ist zu sentimental.
+
+  その提案は理想的過ぎて、現実的ではない。
+  その 提案[ていあん]は 理想的[りそうてき] 過[す]ぎて、現実的[げんじつてき]ではない。
+  Dieser Vorschlag ist zu idealistisch und nicht realistisch.
+
+  過ぎたことを悔やんでも仕方がない。前を向こう。
+  過[す]ぎたことを 悔[く]やんでも 仕方[しかた]がない。前[まえ]を 向[む]こう。
+  Es bringt nichts, Vergangenes zu bereuen. Lass uns nach vorne schauen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

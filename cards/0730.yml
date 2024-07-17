@@ -2,14 +2,14 @@ Rang: 730
 Lemma: 意識
 Lesung: いしき
 Alternativschreibweisen: ''
-Definition: Bewusstsein
+Definition: Bewusstsein; wahrnehmen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span class="accent_top">い</span><span>し</span><span>き</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 意識しない・意識した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   人々の意識が変わった。
   人々[ひとびと]の 意識[いしき]が 変[か]わった。
   Das Bewusstsein der Menschen hat sich verändert.
+
+  事故後、患者は意識不明の状態が続いています。
+  事故後[じこご]、患者[かんじゃ]は 意識不明[いしきふめい]の 状態[じょうたい]が 続[つづ]いています。
+  Nach dem Unfall befindet sich der Patient weiterhin in einem bewusstlosen Zustand.
+
+  医師は患者の意識レベルを定期的にチェックしています。
+  医師[いし]は 患者[かんじゃ]の 意識[いしき]レベルを 定期的[ていきてき]にチェックしています。
+  Der Arzt überprüft regelmäßig den Bewusstseinszustand des Patienten.
+
+  彼女は意識を取り戻し、周りの状況を理解し始めました。
+  彼女[かのじょ]は 意識[いしき]を 取[と]り 戻[もど]し、周[まわ]りの 状況[じょうきょう]を 理解[りかい]し 始[はじ]めました。
+  Sie erlangte das Bewusstsein wieder und begann, die Situation um sich herum zu verstehen.
+
+  瞑想を通じて、自己意識を高めることができます。
+  瞑想[めいそう]を 通[とお]じて、自己意識[じこいしき]を 高[たか]めることができます。
+  Durch Meditation kann man das Selbstbewusstsein stärken.
+
+  彼は常に環境問題を意識して行動しています。
+  彼[かれ]は 常[つね]に 環境問題[かんきょうもんだい]を 意識[いしき]して 行動[こうどう]しています。
+  Er handelt stets im Bewusstsein der Umweltprobleme.
+
+  意識が朦朧としていて、何が起こったのか覚えていません。
+  意識[いしき]が 朦朧[もうろう]としていて、何[なに]が 起[お]こったのか 覚[おぼ]えていません。
+  Mein Bewusstsein war getrübt, und ich kann mich nicht erinnern, was passiert ist.
+
+  彼女は自分の行動が他人にどう影響するか意識しています。
+  彼女[かのじょ]は 自分[じぶん]の 行動[こうどう]が 他人[たにん]にどう 影響[えいきょう]するか 意識[いしき]しています。
+  Sie ist sich bewusst, wie ihre Handlungen andere beeinflussen.
+
+  意識的に健康的な食事を心がけることで、体調が改善しました。
+  意識的[いしきてき]に 健康的[けんこうてき]な 食事[しょくじ]を 心[こころ]がけることで、体調[たいちょう]が 改善[かいぜん]しました。
+  Durch bewusstes Achten auf eine gesunde Ernährung hat sich mein Gesundheitszustand verbessert.
+
+  彼は常に時間を意識して仕事をしています。
+  彼[かれ]は 常[つね]に 時間[じかん]を 意識[いしき]して 仕事[しごと]をしています。
+  Er arbeitet stets mit einem Bewusstsein für die Zeit.
+
+  この会社は従業員の安全意識を高めるためのトレーニングを実施しています。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 安全意識[あんぜんいしき]を 高[たか]めるためのトレーニングを 実施[じっし]しています。
+  Dieses Unternehmen führt Schulungen durch, um das Sicherheitsbewusstsein der Mitarbeiter zu erhöhen.
+
+  彼女は自分の言動に対する責任を意識しています。
+  彼女[かのじょ]は 自分[じぶん]の 言動[げんどう]に 対[たい]する 責任[せきにん]を 意識[いしき]しています。
+  Sie ist sich ihrer Verantwortung für ihre Worte und Taten bewusst.
+
+  意識の深層にある感情を理解することは難しいです。
+  意識[いしき]の 深層[しんそう]にある 感情[かんじょう]を 理解[りかい]することは 難[むずか]しいです。
+  Es ist schwierig, die Gefühle zu verstehen, die in den tieferen Schichten des Bewusstseins liegen.
+
+  彼は自分の行動が環境に与える影響を意識し始めました。
+  彼[かれ]は 自分[じぶん]の 行動[こうどう]が 環境[かんきょう]に 与[あた]える 影響[えいきょう]を 意識[いしき]し 始[はじ]めました。
+  Er begann, sich der Auswirkungen seines Verhaltens auf die Umwelt bewusst zu werden.
+
+  社会問題に対する意識を高めるためのキャンペーンを行っています。
+  社会問題[しゃかいもんだい]に 対[たい]する 意識[いしき]を 高[たか]めるためのキャンペーンを 行[おこな]っています。
+  Wir führen eine Kampagne durch, um das Bewusstsein für soziale Probleme zu schärfen.
+
+  意識を失った患者に対して、すぐに応急処置を行いました。
+  意識[いしき]を 失[うしな]った 患者[かんじゃ]に 対[たい]して、すぐに 応急処置[おうきゅうしょち]を 行[おこな]いました。
+  Für den bewusstlosen Patienten wurden sofort Erste-Hilfe-Maßnahmen eingeleitet.
+
+  彼女は自分の外見を意識しすぎて、自然な振る舞いができません。
+  彼女[かのじょ]は 自分[じぶん]の 外見[がいけん]を 意識[いしき]しすぎて、自然[しぜん]な 振[ふ]る 舞[ま]いができません。
+  Sie ist sich ihres Äußeren zu sehr bewusst und kann sich nicht natürlich verhalten.
+
+  意識的に新しいスキルを学ぶことで、キャリアアップを図っています。
+  意識的[いしきてき]に 新[あたら]しいスキルを 学[まな]ぶことで、キャリアアップを 図[はか]っています。
+  Durch bewusstes Erlernen neuer Fähigkeiten strebe ich eine Karriereentwicklung an.
+
+  彼は常に周囲の目を意識して行動しています。
+  彼[かれ]は 常[つね]に 周囲[しゅうい]の 目[め]を 意識[いしき]して 行動[こうどう]しています。
+  Er handelt stets im Bewusstsein der Blicke anderer.
+
+  この訓練は、従業員の安全意識を高めるために行われています。
+  この 訓練[くんれん]は、従業員[じゅうぎょういん]の 安全意識[あんぜんいしき]を 高[たか]めるために 行[おこな]われています。
+  Diese Übung wird durchgeführt, um das Sicherheitsbewusstsein der Mitarbeiter zu erhöhen.
+
+  歩いているという意識はなく、左右の足をただ交互に踏み出しているだけだった。
+  歩[ある]いているという 意識[いしき]はなく、左右[さゆう]の 足[あし]をただ 交互[こうご]に 踏[ふ]み 出[だ]しているだけだった。
+  Ihr war nicht bewusst, dass sie lief, sie setzte nur immer wieder einen Fuß vor den anderen, den linken vor den rechten, den rechten vor den linken und so fort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

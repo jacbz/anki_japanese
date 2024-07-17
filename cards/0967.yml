@@ -2,14 +2,14 @@ Rang: 967
 Lemma: 作業
 Lesung: さぎょう
 Alternativschreibweisen: ''
-Definition: Arbeit, Betrieb
+Definition: Arbeit, Tätigkeit
 Extra: （する）
 Wortart: n, vi
 Lesung mit Tonhöhe: <span class="accent_top">さ</span><span>ぎょ</span><span>う</span>
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 作業しない・作業した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼は作業を終えた。
   彼[かれ]は 作業[さぎょう]を 終[お]えた。
   Er hat seine Arbeit beendet.
+
+  作業中は安全に気をつけてください。
+  作業中[さぎょうちゅう]は 安全[あんぜん]に 気[き]をつけてください。
+  Bitte achten Sie während der Arbeit auf Ihre Sicherheit.
+
+  新しい作業台を購入しました。
+  新[あたら]しい 作業台[さぎょうだい]を 購入[こうにゅう]しました。
+  Ich habe eine neue Arbeitsbank gekauft.
+
+  作業グループで効率的に仕事を進めています。
+  作業[さぎょう]グループで 効率的[こうりつてき]に 仕事[しごと]を 進[すす]めています。
+  Wir arbeiten effizient in Arbeitsgruppen.
+
+  作業時間を短縮するための方法を考えています。
+  作業時間[さぎょうじかん]を 短縮[たんしゅく]するための 方法[ほうほう]を 考[かんが]えています。
+  Ich überlege mir Methoden, um die Arbeitszeit zu verkürzen.
+
+  この作業環境では集中力が上がります。
+  この 作業環境[さぎょうかんきょう]では 集中力[しゅうちゅうりょく]が 上[あ]がります。
+  In dieser Arbeitsumgebung steigt meine Konzentration.
+
+  作業計画を立てて効率的に進めましょう。
+  作業計画[さぎょうけいかく]を 立[た]てて 効率的[こうりつてき]に 進[すす]めましょう。
+  Lass uns einen Arbeitsplan erstellen und effizient vorgehen.
+
+  作業効率を上げるために休憩も大切です。
+  作業効率[さぎょうこうりつ]を 上[あ]げるために 休憩[きゅうけい]も 大切[たいせつ]です。
+  Pausen sind wichtig, um die Arbeitseffizienz zu steigern.
+
+  作業工程を見直して無駄を省きました。
+  作業工程[さぎょうこうてい]を 見直[みなお]して 無駄[むだ]を 省[はぶ]きました。
+  Ich habe den Arbeitsablauf überprüft und Verschwendung eliminiert.
+
+  作業員の安全を確保することが最優先です。
+  作業員[さぎょういん]の 安全[あんぜん]を 確保[かくほ]することが 最優先[さいゆうせん]です。
+  Die Sicherheit der Arbeiter hat oberste Priorität.
+
+  作業指示書に従って作業を進めてください。
+  作業指示書[さぎょうしじしょ]に 従[したが]って 作業[さぎょう]を 進[すす]めてください。
+  Bitte folgen Sie den Arbeitsanweisungen bei der Durchführung der Arbeit.
+
+  作業進捗状況を毎日報告してください。
+  作業進捗状況[さぎょうしんちょくじょうきょう]を 毎日[まいにち] 報告[ほうこく]してください。
+  Bitte berichten Sie täglich über den Arbeitsfortschritt.
+
+  事務作業に追われて忙しい一日でした。
+  事務作業[じむさぎょう]に 追[お]われて 忙[いそが]しい 一日[いちにち]でした。
+  Es war ein geschäftiger Tag mit viel Büroarbeit.
+
+  共同作業で大きなプロジェクトを完成させました。
+  共同作業[きょうどうさぎょう]で 大[おお]きなプロジェクトを 完成[かんせい]させました。
+  Wir haben ein großes Projekt durch Teamarbeit abgeschlossen.
+
+  夜間作業は体調管理に気をつけましょう。
+  夜間作業[やかんさぎょう]は 体調管理[たいちょうかんり]に 気[き]をつけましょう。
+  Bei Nachtarbeit sollten wir auf unsere Gesundheit achten.
+
+  彼は作業が早いので、みんなの手本になっています。
+  彼[かれ]は 作業[さぎょう]が 早[はや]いので、みんなの 手本[てほん]になっています。
+  Er arbeitet so schnell, dass er allen als Vorbild dient.
+
+  作業を開始する前に、安全確認を忘れずに。
+  作業[さぎょう]を 開始[かいし]する 前[まえ]に、安全確認[あんぜんかくにん]を 忘[わす]れずに。
+  Vergessen Sie nicht die Sicherheitsüberprüfung, bevor Sie mit der Arbeit beginnen.
+
+  屋外作業では天候に注意が必要です。
+  屋外作業[おくがいさぎょう]では 天候[てんこう]に 注意[ちゅうい]が 必要[ひつよう]です。
+  Bei Arbeiten im Freien muss man auf das Wetter achten.
+
+  この作業は不可能だと思われていましたが、チームの努力で成功しました。
+  この 作業[さぎょう]は 不可能[ふかのう]だと 思[おも]われていましたが、チームの 努力[どりょく]で 成功[せいこう]しました。
+  Diese Arbeit wurde für unmöglich gehalten, aber dank der Anstrengungen des Teams war sie erfolgreich.
+
+  思考的な作業にも休憩は重要です。
+  思考的[しこうてき]な 作業[さぎょう]にも 休憩[きゅうけい]は 重要[じゅうよう]です。
+  Pausen sind auch bei Kopfarbeit wichtig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

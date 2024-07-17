@@ -2,14 +2,14 @@ Rang: 859
 Lemma: 成す
 Lesung: なす
 Alternativschreibweisen: ''
-Definition: bilden, darstellen
+Definition: bilden, formen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: <span class="accent_top">な</span><span>す</span>
 Register: ''
 Dispersion: '82'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 成さない・成した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼らは会社の中核を成している。
   彼[かれ]らは 会社[かいしゃ]の 中核[ちゅうかく]を 成[な]している。
   Sie bilden das Herzstück des Unternehmens.
+
+  渡り鳥が美しいV字の群れを成して飛んでいる。
+  渡[わた]り 鳥[どり]が 美[うつく]しいV字[じ]の 群[む]れを 成[な]して 飛[と]んでいる。
+  Die Zugvögel fliegen in einer schönen V-Formation.
+
+  山を成すごみの山は、環境問題の象徴だ。
+  山[やま]を 成[な]すごみの 山[やま]は、環境問題[かんきょうもんだい]の 象徴[しょうちょう]だ。
+  Die sich auftürmenden Müllberge sind ein Symbol für Umweltprobleme.
+
+  彼らは一団を成して行進した。
+  彼[かれ]らは 一団[いちだん]を 成[な]して 行進[こうしん]した。
+  Sie marschierten als geschlossene Gruppe.
+
+  夫婦は一体を成す関係だ。
+  夫婦[ふうふ]は 一体[いったい]を 成[な]す 関係[かんけい]だ。
+  Ehepartner bilden eine untrennbare Einheit.
+
+  この理論が彼の研究の根底を成している。
+  この 理論[りろん]が 彼[かれ]の 研究[けんきゅう]の 根底[こんてい]を 成[な]している。
+  Diese Theorie bildet die Grundlage seiner Forschung.
+
+  その説明は全く意味を成していない。
+  その 説明[せつめい]は 全[まった]く 意味[いみ]を 成[な]していない。
+  Diese Erklärung ergibt überhaupt keinen Sinn.
+
+  家族は社会の中核を成す。
+  家族[かぞく]は 社会[しゃかい]の 中核[ちゅうかく]を 成[な]す。
+  Die Familie ist die Keimzelle der Gesellschaft.
+
+  福井県と京都府の国境を成す吉坂峠は、ちょうど真東に位置している。
+  福井県[ふくいけん]と 京都府[きょうとふ]の 国境[こっきょう]を 成[な]す 吉坂峠[きちざかとうげ]は、ちょうど 真東[まひがし]に 位置[いち]している。
+  Der Kichizaka-Pass, der die Grenze zwischen der Präfektur Fukui und der Präfektur Kyoto bildet, liegt genau im Osten.
+
+  彼女は大事を成し遂げ、全国的に有名になった。
+  彼女[かのじょ]は 大事[だいじ]を 成[な]し 遂[と]げ、全国的[ぜんこくてき]に 有名[ゆうめい]になった。
+  Sie vollbrachte eine große Tat und wurde landesweit berühmt.
+
+  祖父は若いころから努力して財を成した。
+  祖父[そふ]は 若[わか]いころから 努力[どりょく]して 財[ざい]を 成[な]した。
+  Mein Großvater hat seit seiner Jugend hart gearbeitet und ein Vermögen geschaffen.
+
+  彼は音楽界で名を成した。
+  彼[かれ]は 音楽界[おんがくかい]で 名[な]を 成[な]した。
+  Er machte sich einen Namen in der Musikwelt.
+
+  彼らは新しい製品を開発し、業界に革命を成した。
+  彼[かれ]らは 新[あたら]しい 製品[せいひん]を 開発[かいはつ]し、業界[ぎょうかい]に 革命[かくめい]を 成[な]した。
+  Sie entwickelten ein neues Produkt und bewirkten eine Revolution in der Branche.
+
+  この発見が科学の進歩に大きな貢献を成した。
+  この 発見[はっけん]が 科学[かがく]の 進歩[しんぽ]に 大[おお]きな 貢献[こうけん]を 成[な]した。
+  Diese Entdeckung leistete einen großen Beitrag zum wissenschaftlichen Fortschritt.
+
+  彼らの努力が実を成し、プロジェクトは成功した。
+  彼[かれ]らの 努力[どりょく]が 実[みのり]を 成[な]し、プロジェクトは 成功[せいこう]した。
+  Ihre Bemühungen zahlten sich aus, und das Projekt war erfolgreich.
+
+  小さな行動の積み重ねが大きな変化を成す。
+  小[ちい]さな 行動[こうどう]の 積[つ]み 重[かさ]ねが 大[おお]きな 変化[へんか]を 成[な]す。
+  Die Anhäufung kleiner Handlungen bewirkt große Veränderungen.
+
+  彼女の研究成果は医学界に大きな影響を成した。
+  彼女[かのじょ]の 研究成果[けんきゅうせいか]は 医学界[いがくかい]に 大[おお]きな 影響[えいきょう]を 成[な]した。
+  Ihre Forschungsergebnisse hatten einen großen Einfluss auf die medizinische Welt.
+
+  この法律が新しい社会制度の基礎を成している。
+  この 法律[ほうりつ]が 新[あたら]しい 社会制度[しゃかいせいど]の 基礎[きそ]を 成[な]している。
+  Dieses Gesetz bildet die Grundlage für das neue soziale System.
+
+  彼らの協力が成功の鍵を成した。
+  彼[かれ]らの 協力[きょうりょく]が 成功[せいこう]の 鍵[かぎ]を 成[な]した。
+  Ihre Zusammenarbeit war der Schlüssel zum Erfolg.
+
+  日々の練習の積み重ねが技術向上の礎を成す。
+  日々[ひび]の 練習[れんしゅう]の 積[つ]み 重[かさ]ねが 技術向上[ぎじゅつこうじょう]の 礎[いしずえ]を 成[な]す。
+  Die tägliche Übung bildet die Grundlage für die Verbesserung der Fähigkeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,9 +2,9 @@ Rang: 690
 Lemma: 可能
 Lesung: かのう
 Alternativschreibweisen: ''
-Definition: möglich
+Definition: möglich; -bar
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, vt
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">の</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '94'
@@ -17,6 +17,82 @@ Beispielsätze: |-
   それは可能ですか。
   それは 可能[かのう]ですか。
   Ist es möglich?
+
+  可能な限り早く終わらせましょう。
+  可能[かのう]な 限[かぎ]り 早[はや]く 終[お]わらせましょう。
+  Lassen Sie uns so schnell wie möglich fertig werden.
+
+  時間があれば、できる限り参加したいです。
+  時間[じかん]があれば、できる 限[かぎ]り 参加[さんか]したいです。
+  Wenn ich Zeit habe, möchte ich nach Möglichkeit teilnehmen.
+
+  新しい技術のおかげで、以前は不可能だったことが可能になった。
+  新[あたら]しい 技術[ぎじゅつ]のおかげで、以前[いぜん]は 不可能[ふかのう]だったことが 可能[かのう]になった。
+  Dank neuer Technologien ist möglich geworden, was früher unmöglich war.
+
+  この計画を可能にするには、さらなる資金が必要だ。
+  この 計画[けいかく]を 可能[かのう]にするには、さらなる 資金[しきん]が 必要[ひつよう]だ。
+  Um diesen Plan zu ermöglichen, sind weitere Mittel erforderlich.
+
+  日本語の可能動詞を正しく使うのは難しいです。
+  日本語[にほんご]の 可能動詞[かのうどうし]を 正[ただ]しく 使[つか]うのは 難[むずか]しいです。
+  Es ist schwierig, japanische Potentialverben korrekt zu verwenden.
+
+  彼女は実現可能な目標を立てるのが上手だ。
+  彼女[かのじょ]は 実現可能[じつげんかのう]な 目標[もくひょう]を 立[た]てるのが 上手[じょうず]だ。
+  Sie ist gut darin, realisierbare Ziele zu setzen.
+
+  この製品は上場可能な企業によって開発されました。
+  この 製品[せいひん]は 上場可能[じょうじょうかのう]な 企業[きぎょう]によって 開発[かいはつ]されました。
+  Dieses Produkt wurde von einem börsenfähigen Unternehmen entwickelt.
+
+  彼の主張は立証可能なのか疑問だ。
+  彼[かれ]の 主張[しゅちょう]は 立証可能[りっしょうかのう]なのか 疑問[ぎもん]だ。
+  Es ist fraglich, ob seine Behauptung beweisbar ist.
+
+  地震は本当に予知可能になるのだろうか。
+  地震[じしん]は 本当[ほんとう]に 予知可能[よちかのう]になるのだろうか。
+  Werden Erdbeben wirklich vorhersagbar werden?
+
+  可能性を信じて、諦めずに頑張り続けよう。
+  可能性[かのうせい]を 信[しん]じて、諦[あきら]めずに 頑張[がんば]り 続[つづ]けよう。
+  Lass uns an die Möglichkeit glauben und weitermachen, ohne aufzugeben.
+
+  彼女の能力を最大限に活かせる環境を可能にしたい。
+  彼女[かのじょ]の 能力[のうりょく]を 最大限[さいだいげん]に 活[い]かせる 環境[かんきょう]を 可能[かのう]にしたい。
+  Ich möchte eine Umgebung ermöglichen, die ihre Fähigkeiten maximal zur Geltung bringt.
+
+  その実験が可能かどうか、まず安全性を確認する必要があります。
+  その 実験[じっけん]が 可能[かのう]かどうか、まず 安全性[あんぜんせい]を 確認[かくにん]する 必要[ひつよう]があります。
+  Bevor wir prüfen, ob das Experiment möglich ist, müssen wir zunächst die Sicherheit überprüfen.
+
+  可能な限り多くの人に参加してもらいたいと思います。
+  可能[かのう]な 限[かぎ]り 多[おお]くの 人[ひと]に 参加[さんか]してもらいたいと 思[おも]います。
+  Ich möchte, dass so viele Menschen wie möglich teilnehmen.
+
+  新しい技術により、以前は不可能だった手術が可能になりました。
+  新[あたら]しい 技術[ぎじゅつ]により、以前[いぜん]は 不可能[ふかのう]だった 手術[しゅじゅつ]が 可能[かのう]になりました。
+  Durch neue Technologien sind Operationen möglich geworden, die früher unmöglich waren.
+
+  可能な限り環境に配慮した製品開発を心がけています。
+  可能[かのう]な 限[かぎ]り 環境[かんきょう]に 配慮[はいりょ]した 製品開発[せいひんかいはつ]を 心[こころ]がけています。
+  Wir bemühen uns um eine möglichst umweltfreundliche Produktentwicklung.
+
+  その計画は技術的に可能だが、コストが高すぎる。
+  その 計画[けいかく]は 技術的[ぎじゅつてき]に 可能[かのう]だが、コストが 高[たか]すぎる。
+  Der Plan ist technisch machbar, aber zu kostspielig.
+
+  可能な限り早くご連絡いたします。
+  可能[かのう]な 限[かぎ]り 早[はや]くご 連絡[れんらく]いたします。
+  Ich werde mich so schnell wie möglich bei Ihnen melden.
+
+  彼の提案は実行可能なアイデアだと思う。
+  彼[かれ]の 提案[ていあん]は 実行可能[じっこうかのう]なアイデアだと 思[おも]う。
+  Ich denke, sein Vorschlag ist eine durchführbare Idee.
+
+  可能であれば、明日の会議に出席したいです。
+  可能[かのう]であれば、明日[あした]の 会議[かいぎ]に 出席[しゅっせき]したいです。
+  Wenn möglich, möchte ich an der morgigen Besprechung teilnehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">る</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 軽くない・軽かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   この荷物は軽い。
   この 荷物[にもつ]は 軽[かる]い。
   Dieses Gepäck ist leicht.
+
+  羽根のように軽い枕を使うと、首が楽になります。
+  羽根[はね]のように 軽[かる]い 枕[まくら]を 使[つか]うと、首[くび]が 楽[らく]になります。
+  Wenn Sie ein federleichtes Kissen benutzen, wird Ihr Nacken entlastet.
+
+  この運動靴は軽くて、長時間歩いても疲れません。
+  この 運動靴[うんどうぐつ]は 軽[かる]くて、長時間[ちょうじかん] 歩[ある]いても 疲[つか]れません。
+  Diese Turnschuhe sind leicht, sodass man auch bei längeren Spaziergängen nicht ermüdet.
+
+  軽い風邪を引いたので、今日は休みます。
+  軽[かる]い 風邪[かぜ]を 引[ひ]いたので、今日[きょう]は 休[やす]みます。
+  Ich habe eine leichte Erkältung, daher bleibe ich heute zu Hause.
+
+  彼女は軽い足取りで階段を上がってきた。
+  彼女[かのじょ]は 軽[かる]い 足取[あしど]りで 階段[かいだん]を 上[あ]がってきた。
+  Sie kam mit leichten Schritten die Treppe hinauf.
+
+  軽い食事を取ってから、散歩に行きましょう。
+  軽[かる]い 食事[しょくじ]を 取[と]ってから、散歩[さんぽ]に 行[い]きましょう。
+  Lass uns einen kleinen Imbiss zu uns nehmen, bevor wir spazieren gehen.
+
+  この小説は軽い読み物で、リラックスして楽しめます。
+  この 小説[しょうせつ]は 軽[かる]い 読[よ]み 物[もの]で、リラックスして 楽[たの]しめます。
+  Dieser Roman ist eine leichte Lektüre, die man entspannt genießen kann.
+
+  怪我は軽くて済んだので、安心しました。
+  怪我[けが]は 軽[かる]くて 済[す]んだので、安心[あんしん]しました。
+  Ich bin erleichtert, dass die Verletzung nur leicht war.
+
+  軽いタッチで描かれた水彩画が壁に飾られていた。
+  軽[かる]いタッチで 描[えが]かれた 水彩画[すいさいが]が 壁[かべ]に 飾[かざ]られていた。
+  Ein mit leichter Hand gemaltes Aquarell hing an der Wand.
+
+  責任が軽い仕事から始めて、徐々に経験を積むのがいいでしょう。
+  責任[せきにん]が 軽[かる]い 仕事[しごと]から 始[はじ]めて、徐々[じょじょ]に 経験[けいけん]を 積[つ]むのがいいでしょう。
+  Es ist ratsam, mit einer Arbeit mit geringer Verantwortung zu beginnen und nach und nach Erfahrungen zu sammeln.
+
+  軽い気持ちで始めたボランティアが、今では生きがいになっています。
+  軽[かる]い 気持[きも]ちで 始[はじ]めたボランティアが、今[いま]では 生[い]きがいになっています。
+  Die Freiwilligenarbeit, die ich unbeschwert begonnen habe, ist jetzt zu meinem Lebenssinn geworden.
+
+  軽い運動を毎日続けることで、健康を維持できます。
+  軽[かる]い 運動[うんどう]を 毎日[まいにち] 続[つづ]けることで、健康[けんこう]を 維持[いじ]できます。
+  Durch tägliche leichte Bewegung können Sie Ihre Gesundheit erhalten.
+
+  彼女の軽い冗談で、重苦しい雰囲気が和らいだ。
+  彼女[かのじょ]の 軽[かる]い 冗談[じょうだん]で、重苦[おもくる]しい 雰囲気[ふんいき]が 和[やわ]らいだ。
+  Ihr harmloser Scherz lockerte die angespannte Atmosphäre auf.
+
+  軽い化粧で十分美しく見えますよ。
+  軽[かる]い 化粧[けしょう]で 十分[じゅうぶん] 美[うつく]しく 見[み]えますよ。
+  Du siehst mit dezenter Schminke schon sehr schön aus.
+
+  軽い音楽を聴きながら、リラックスして作業しています。
+  軽[かる]い 音楽[おんがく]を 聴[き]きながら、リラックスして 作業[さぎょう]しています。
+  Ich arbeite entspannt, während ich leichte Musik höre.
+
+  軽い気持ちで言った言葉が、思わぬ結果を招くことがあります。
+  軽[かる]い 気持[きも]ちで 言[い]った 言葉[ことば]が、思[おも]わぬ 結果[けっか]を 招[まね]くことがあります。
+  Worte, die unbedacht ausgesprochen werden, können unerwartete Folgen haben.
+
+  軽い節約を心がけることで、家計の負担が減りました。
+  軽[かる]い 節約[せつやく]を 心[こころ]がけることで、家計[かけい]の 負担[ふたん]が 減[へ]りました。
+  Durch bewusstes, leichtes Sparen konnte die finanzielle Belastung des Haushalts reduziert werden.
+
+  軽い飲酒なら問題ありませんが、飲みすぎには注意してください。
+  軽[かる]い 飲酒[いんしゅ]なら 問題[もんだい]ありませんが、飲[の]みすぎには 注意[ちゅうい]してください。
+  Ein moderater Alkoholkonsum ist in Ordnung, aber achten Sie darauf, nicht zu viel zu trinken.
+
+  彼の軽い性格のおかげで、チームの雰囲気が明るくなった。
+  彼[かれ]の 軽[かる]い 性格[せいかく]のおかげで、チームの 雰囲気[ふんいき]が 明[あか]るくなった。
+  Dank seiner unbeschwerten Persönlichkeit wurde die Atmosphäre im Team fröhlicher.
+
+  軽い運動から始めて、徐々に強度を上げていくのがおすすめです。
+  軽[かる]い 運動[うんどう]から 始[はじ]めて、徐々[じょじょ]に 強度[きょうど]を 上[あ]げていくのがおすすめです。
+  Es ist empfehlenswert, mit leichter Bewegung zu beginnen und die Intensität allmählich zu steigern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

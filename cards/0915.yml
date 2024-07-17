@@ -1,15 +1,15 @@
 Rang: 915
 Lemma: おかしい
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: lustig, amüsant
+Alternativschreibweisen: 可笑しい
+Definition: lustig, komisch; seltsam
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">か</span><span class="accent_top">し</span><span>い</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: おかしくない・おかしかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   何がそんなにおかしいの。
   何[なに]がそんなにおかしいの。
   Was ist so lustig?
+
+  彼の冗談はとてもおかしくて、みんな笑い転げていた。
+  彼[かれ]の 冗談[じょうだん]はとても 可笑[おか]しくて、みんな 笑い転[わらいころ]げていた。
+  Sein Witz war so lustig, dass sich alle vor Lachen krümmten.
+
+  死ぬほどおかしい映画を見て、お腹が痛くなるまで笑った。
+  死[し]ぬほど 可笑[おか]しい 映画[えいが]を 見[み]て、お 腹[なか]が 痛[いた]くなるまで 笑[わら]った。
+  Ich habe einen zum Totlachen komischen Film gesehen und gelacht, bis mir der Bauch wehtat.
+
+  可笑しくて涙が出るほど面白い本を読んでいます。
+  可笑[おか]しくて 涙[なみだ]が 出[で]るほど 面白[おもしろ]い 本[ほん]を 読[よ]んでいます。
+  Ich lese gerade ein Buch, das so lustig ist, dass mir die Tränen kommen.
+
+  彼女の可笑しな格好を見て、笑いが止まらなくなった。
+  彼女[かのじょ]の 可笑[おか]しな 格好[かっこう]を 見[み]て、笑[わら]いが 止[と]まらなくなった。
+  Als ich ihre komische Aufmachung sah, konnte ich nicht mehr aufhören zu lachen.
+
+  照子はそれが可笑しいと言って、子供のような笑い声を立てた。
+  照子[てるこ]はそれが 可笑[おか]しいと 言[い]って、子供[こども]のような 笑い声[わらいごえ]を 立[た]てた。
+  Teruko fand das komisch und lachte wie ein Kind.
+
+  何がおかしいのか分からないけど、みんなが笑っているから一緒に笑ってしまった。
+  何[なに]が 可笑[おか]しいのか 分[わ]からないけど、みんなが 笑[わら]っているから 一緒[いっしょ]に 笑[わら]ってしまった。
+  Ich wusste nicht, was so lustig war, aber ich lachte mit, weil alle anderen lachten.
+
+  この状況はなんだかおかしいと思いませんか？
+  この 状況[じょうきょう]はなんだか 可笑[おか]しいと 思[おも]いませんか。
+  Finden Sie diese Situation nicht irgendwie merkwürdig?
+
+  彼の態度がおかしいと思ったら、案の定何か隠していたんだ。
+  彼[かれ]の 態度[たいど]が 可笑[おか]しいと 思[おも]ったら、案[あん]の 定[じょう] 何[なに]か 隠[かく]していたんだ。
+  Ich dachte, sein Verhalten sei seltsam, und tatsächlich verbarg er etwas.
+
+  最近、体の調子がおかしいので、医者に診てもらおうと思います。
+  最近[さいきん]、体[からだ]の 調子[ちょうし]が 可笑[おか]しいので、医者[いしゃ]に 診[み]てもらおうと 思[おも]います。
+  In letzter Zeit fühle ich mich körperlich nicht ganz richtig, also denke ich darüber nach, einen Arzt aufzusuchen.
+
+  その話は論理的におかしいと思うんだけど、どう思う？
+  その 話[はなし]は 論理的[ろんりてき]に 可笑[おか]しいと 思[おも]うんだけど、どう 思[おも]う？
+  Ich finde, diese Geschichte folgt einer merkwürdigen Logik. Was meinst du?
+
+  彼の様子がおかしいので、何か悩みがあるのかもしれません。
+  彼[かれ]の 様子[ようす]が 可笑[おか]しいので、何[なに]か 悩[なや]みがあるのかもしれません。
+  Er verhält sich merkwürdig, vielleicht hat er irgendwelche Sorgen.
+
+  頭がおかしくなったのかと思うほど、彼の行動は理解できなかった。
+  頭[あたま]が 可笑[おか]しくなったのかと 思[おも]うほど、彼[かれ]の 行動[こうどう]は 理解[りかい]できなかった。
+  Sein Verhalten war so unverständlich, dass ich dachte, er sei verrückt geworden.
+
+  おかしな夢を見て、起きてからもしばらく現実感がなかった。
+  可笑[おか]しな 夢[ゆめ]を 見[み]て、起[お]きてからもしばらく 現実感[げんじつかん]がなかった.
+  Ich hatte einen seltsamen Traum und fühlte mich noch eine Weile nach dem Aufwachen unwirklich.
+
+  彼女の説明を聞いて、どこかおかしいと感じたが、指摘はしなかった。
+  彼女[かのじょ]の 説明[せつめい]を 聞[き]いて、どこか 可笑[おか]しいと 感[かん]じたが、指摘[してき]はしなかった。
+  Ich hörte ihre Erklärung und spürte, dass etwas nicht stimmte, aber ich wies nicht darauf hin.
+
+  この料理、味がおかしいと思わない？何か変な味がするんだけど。
+  この 料理[りょうり]、味[あじ]が 可笑[おか]しいと 思[おも]わない？何[なに]か 変[へん]な 味[あじ]がするんだけど。
+  Findest du nicht, dass dieses Gericht seltsam schmeckt? Es hat irgendwie einen merkwürdigen Geschmack.
+
+  彼の話を聞いているうちに、だんだんおかしくなってきて、笑いを抑えるのが大変だった。
+  彼[かれ]の 話[はなし]を 聞[き]いているうちに、だんだん 可笑[おか]しくなってきて、笑[わら]いを 抑[おさ]えるのが 大変[たいへん]だった。
+  Während ich ihm zuhörte, wurde es immer lustiger, und es fiel mir schwer, das Lachen zu unterdrücken.
+
+  先生の冗談がおかしくて、クラス全員が爆笑した。
+  先生[せんせい]の 冗談[じょうだん]が 可笑[おか]しくて、クラス 全員[ぜんいん]が 爆笑[ばくしょう]した。
+  Der Witz des Lehrers war so komisch, dass die ganze Klasse in schallendes Gelächter ausbrach.
+
+  この映画のストーリー展開がおかしいと思うのは私だけ？
+  この 映画[えいが]のストーリー 展開[てんかい]が 可笑[おか]しいと 思[おも]うのは 私[わたし]だけ？
+  Bin ich der Einzige, der die Handlung dieses Films für merkwürdig hält?
+
+  おかしな噂が広まっているようだけど、本当のことは誰にも分からない。
+  可笑[おか]しな 噂[うわさ]が 広[ひろ]まっているようだけど、本当[ほんとう]のことは 誰[だれ]にも 分[わ]からない。
+  Es scheint sich ein seltsames Gerücht zu verbreiten, aber niemand weiß, was wirklich wahr ist.
+
+  彼女の笑い方がおかしくて、思わず私まで笑ってしまった。
+  彼女[かのじょ]の 笑[わら]い 方[かた]が 可笑[おか]しくて、思[おも]わず 私[わたし]まで 笑[わら]ってしまった。
+  Ihre Art zu lachen war so komisch, dass ich unwillkürlich mitlachen musste.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

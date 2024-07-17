@@ -1,15 +1,15 @@
 Rang: 601
 Lemma: 回る
 Lesung: まわる
-Alternativschreibweisen: ''
-Definition: (sich) drehen
+Alternativschreibweisen: 廻る
+Definition: (sich) drehen, umrunden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>ま</span><span class="accent_plain">わ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 回らない・回った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   扇風機が回っていた。
   扇風機[せんぷうき]が 回[まわ]っていた。
   Der Ventilator drehte sich.
+
+  車輪が回っている。
+  車輪[しゃりん]が 回[まわ]っている。
+  Das Rad dreht sich.
+
+  地球は太陽の周囲を回っている。
+  地球[ちきゅう]は 太陽[たいよう]の 周囲[しゅうい]を 回[まわ]っている。
+  Die Erde dreht sich um die Sonne.
+
+  電気時計の針が音もなく回り続けていた。
+  電気時計[でんきどけい]の 針[はり]が 音[おと]もなく 回[まわ]り 続[つづ]けていた。
+  Die Zeiger der elektrischen Uhr drehten sich geräuschlos weiter.
+
+  杯が回って、みんなで乾杯した。
+  杯[さかずき]が 回[まわ]って、みんなで 乾杯[かんぱい]した。
+  Der Becher machte die Runde und wir stießen alle an.
+
+  彼は営業部に回ることになった。
+  彼[かれ]は 営業部[えいぎょうぶ]に 回[まわ]ることになった。
+  Er wurde in die Verkaufsabteilung versetzt.
+
+  私たちは湖を回って散歩した。
+  私[わたし]たちは 湖[みずうみ]を 回[まわ]って 散歩[さんぽ]した。
+  Wir spazierten um den See herum.
+
+  彼女は世界を回る旅に出た。
+  彼女[かのじょ]は 世界[せかい]を 回[まわ]る 旅[たび]に 出[で]た。
+  Sie machte sich auf eine Reise um die Welt.
+
+  もう8時を回っているよ。急がないと。
+  もう8時[じ]を 回[まわ]っているよ。急[いそ]がないと。
+  Es ist schon nach 8 Uhr. Wir müssen uns beeilen.
+
+  帰りに友人の家に回ってみようと思う。
+  帰[かえ]りに 友人[ゆうじん]の 家[いえ]に 回[まわ]ってみようと 思[おも]う。
+  Ich denke, ich werde auf dem Heimweg bei meinem Freund vorbeischauen.
+
+  ヨーロッパからアメリカを回って日本に帰国した。
+  ヨーロッパからアメリカを 回[まわ]って 日本[にほん]に 帰国[きこく]した。
+  Ich bin von Europa über Amerika nach Japan zurückgekehrt.
+
+  火事が周りの建物に回っていった。
+  火事[かじ]が 周[まわ]りの 建物[たてもの]に 回[まわ]っていった。
+  Das Feuer griff auf die umliegenden Gebäude über.
+
+  お酒が回って、顔が赤くなってきた。
+  お 酒[さけ]が 回[まわ]って、顔[かお]が 赤[あか]くなってきた。
+  Der Alkohol wirkte und mein Gesicht wurde rot.
+
+  彼女は頭がよく回る人だ。
+  彼女[かのじょ]は 頭[あたま]がよく 回[まわ]る 人[ひと]だ。
+  Sie ist jemand, der klar denken kann.
+
+  この投資は年利3パーセントで回っている。
+  この 投資[とうし]は 年利[ねんり]3パーセントで 回[まわ]っている。
+  Diese Investition bringt eine jährliche Rendite von 3 Prozent.
+
+  子供たちが公園を走り回っている。
+  子供[こども]たちが 公園[こうえん]を 走[はし]り 回[まわ]っている。
+  Die Kinder rennen im Park herum.
+
+  彼女は部屋中を探し回った。
+  彼女[かのじょ]は 部屋中[へやじゅう]を 探[さが]し 回[まわ]った。
+  Sie durchsuchte das ganze Zimmer.
+
+  この機械はうまく回っていない。
+  この 機械[きかい]はうまく 回[まわ]っていない。
+  Diese Maschine funktioniert nicht gut.
+
+  彼は口がよく回る人だ。
+  彼[かれ]は 口[くち]がよく 回[まわ]る 人[ひと]だ。
+  Er ist jemand, der sich gut ausdrücken kann.
+
+  わさびが鼻に回って、涙が出てきた。
+  わさびが 鼻[はな]に 回[まわ]って、涙[なみだ]が 出[で]てきた。
+  Der Wasabi stieg mir in die Nase und mir kamen die Tränen.
+
+  急いでいるなら、遠回りをしたほうがいいよ。
+  急[いそ]いでいるなら、遠回[とおまわ]りをしたほうがいいよ。
+  Wenn du es eilig hast, solltest du besser einen Umweg machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

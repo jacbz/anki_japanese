@@ -2,7 +2,7 @@ Rang: 883
 Lemma: 生じる
 Lesung: しょうじる
 Alternativschreibweisen: ''
-Definition: hervorrufen, verursachen, entstehen
+Definition: entstehen, auftreten; verursachen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Lesung mit Tonhöhe: <span>しょ</span><span class="accent_plain">う</span><span class="accent_plain">じ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>しょ</span><span class="accent_plain">う</span><sp
 Register: ''
 Dispersion: '69'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 生じない・生じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   これが原因で多くの問題が生じた。
   これが 原因[げんいん]で 多[おお]くの 問題[もんだい]が 生[しょう]じた。
   Dadurch entstanden viele Probleme.
+
+  新しい技術が生じることで、産業に大きな変化が起こるでしょう。
+  新[あたら]しい 技術[ぎじゅつ]が 生[しょう]じることで、産業[さんぎょう]に 大[おお]きな 変化[へんか]が 起[お]こるでしょう。
+  Durch die Entstehung neuer Technologien werden sich in der Industrie große Veränderungen ergeben.
+
+  予期せぬ事態が生じた場合、すぐに上司に報告してください。
+  予期[よき]せぬ 事態[じたい]が 生[しょう]じた 場合[ばあい]、すぐに 上司[じょうし]に 報告[ほうこく]してください。
+  Bitte melden Sie Ihrem Vorgesetzten sofort, wenn unerwartete Situationen auftreten.
+
+  経済の急成長により、さまざまな社会問題が生じています。
+  経済[けいざい]の 急成長[きゅうせいちょう]により、さまざまな 社会問題[しゃかいもんだい]が 生[しょう]じています。
+  Das rasche Wirtschaftswachstum hat zu verschiedenen sozialen Problemen geführt.
+
+  彼らの間に意見の相違が生じ、議論が白熱した。
+  彼[かれ]らの 間[あいだ]に 意見[いけん]の 相違[そうい]が 生[しょう]じ、議論[ぎろん]が 白熱[はくねつ]した。
+  Zwischen ihnen entstanden Meinungsverschiedenheiten, und die Diskussion wurde hitzig.
+
+  長年の友情にも関わらず、二人の間に溝が生じてしまった。
+  長年[ながねん]の 友情[ゆうじょう]にも 関[かか]わらず、二人[ふたり]の 間[あいだ]に 溝[みぞ]が 生[しょう]じてしまった。
+  Trotz ihrer langjährigen Freundschaft entstand eine Kluft zwischen den beiden.
+
+  この実験から予想外の結果が生じ、研究者たちを驚かせた。
+  この 実験[じっけん]から 予想外[よそうがい]の 結果[けっか]が 生[しょう]じ、研究者[けんきゅうしゃ]たちを 驚[おどろ]かせた。
+  Dieses Experiment führte zu unerwarteten Ergebnissen, die die Forscher überraschten.
+
+  新しい法律の施行により、企業に追加の費用が生じる可能性がある。
+  新[あたら]しい 法律[ほうりつ]の 施行[しこう]により、企業[きぎょう]に 追加[ついか]の 費用[ひよう]が 生[しょう]じる 可能性[かのうせい]がある。
+  Die Einführung des neuen Gesetzes könnte für Unternehmen zusätzliche Kosten verursachen.
+
+  彼女の発言から誤解が生じ、状況が複雑になってしまった。
+  彼女[かのじょ]の 発言[はつげん]から 誤解[ごかい]が 生[しょう]じ、状況[じょうきょう]が 複雑[ふくざつ]になってしまった。
+  Ihre Äußerung führte zu Missverständnissen und die Situation wurde kompliziert.
+
+  環境の変化により、新たな種が生じる可能性がある。
+  環境[かんきょう]の 変化[へんか]により、新[あら]たな 種[しゅ]が 生[しょう]じる 可能性[かのうせい]がある。
+  Durch Umweltveränderungen können neue Arten entstehen.
+
+  ストレスから生じた症状を和らげるために、リラックス法を学んでいます。
+  ストレスから 生[しょう]じた 症状[しょうじょう]を 和[やわ]らげるために、リラックス 法[ほう]を 学[まな]んでいます。
+  Ich lerne Entspannungstechniken, um die durch Stress verursachten Symptome zu lindern.
+
+  彼の行動が疑問を生じさせ、多くの人が真相を知りたがっている。
+  彼[かれ]の 行動[こうどう]が 疑問[ぎもん]を 生[しょう]じさせ、多[おお]くの 人[ひと]が 真相[しんそう]を 知[し]りたがっている。
+  Sein Verhalten hat Fragen aufgeworfen, und viele Leute wollen die Wahrheit wissen.
+
+  突然の雨で屋根から雨漏りが生じ、修理が必要になった。
+  突然[とつぜん]の 雨[あめ]で 屋根[やね]から 雨漏[あまも]りが 生[しょう]じ、修理[しゅうり]が 必要[ひつよう]になった。
+  Durch den plötzlichen Regen entstand ein Leck im Dach, das repariert werden musste.
+
+  新製品の発売により、会社に大きな利益が生じることが期待されている。
+  新製品[しんせいひん]の 発売[はつばい]により、会社[かいしゃ]に 大[おお]きな 利益[りえき]が 生[しょう]じることが 期待[きたい]されている。
+  Man erwartet, dass die Markteinführung des neuen Produkts dem Unternehmen große Gewinne bringen wird.
+
+  彼らの協力から、予想以上の成果が生じた。
+  彼[かれ]らの 協力[きょうりょく]から、予想以上[よそういじょう]の 成果[せいか]が 生[しょう]じた。
+  Ihre Zusammenarbeit führte zu besseren Ergebnissen als erwartet.
+
+  長時間のデスクワークで、首に痛みが生じることがある。
+  長時間[ちょうじかん]のデスクワークで、首[くび]に 痛[いた]みが 生[しょう]じることがある。
+  Langes Arbeiten am Schreibtisch kann zu Nackenschmerzen führen.
+
+  契約書の文言から解釈の違いが生じ、両者の主張が対立している。
+  契約書[けいやくしょ]の 文言[もんごん]から 解釈[かいしゃく]の 違[ちが]いが 生[しょう]じ、両者[りょうしゃ]の 主張[しゅちょう]が 対立[たいりつ]している。
+  Aus dem Wortlaut des Vertrags ergaben sich unterschiedliche Interpretationen, und die Behauptungen beider Parteien stehen sich gegenüber.
+
+  気温の上昇により、農作物に深刻な被害が生じる恐れがある。
+  気温[きおん]の 上昇[じょうしょう]により、農作物[のうさくもつ]に 深刻[しんこく]な 被害[ひがい]が 生[しょう]じる 恐[おそ]れがある。
+  Der Temperaturanstieg könnte zu schweren Schäden an den Feldfrüchten führen.
+
+  無から有を生じることはできないが、創造力を駆使すれば新しいアイデアを生み出せる。
+  無[む]から 有[ゆう]を 生[しょう]じることはできないが、創造力[そうぞうりょく]を 駆使[くし]すれば 新[あたら]しいアイデアを 生[う]み 出[だ]せる。
+  Man kann nicht etwas aus dem Nichts erschaffen, aber mit Kreativität können neue Ideen entstehen.
+
+  彼の発明から、私たちの生活に大きな変革が生じた。
+  彼[かれ]の 発明[はつめい]から、私[わたし]たちの 生活[せいかつ]に 大[おお]きな 変革[へんかく]が 生[しょう]じた。
+  Seine Erfindung hat eine große Veränderung in unserem Leben bewirkt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

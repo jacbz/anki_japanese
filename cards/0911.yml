@@ -16,8 +16,104 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はよい性格の人だ。
-  彼[かれ]はよい 性格[せいかく]の人だ。
-  Er hat eine gute Persönlichkeit.
+  彼[かれ]はよい 性格[せいかく]の 人[ひと]だ。
+  Er ist ein Mensch mit gutem Charakter.
+
+  彼女の性格描写が上手だ。
+  彼女[かのじょ]の 性格描写[せいかくびょうしゃ]が 上手[じょうず]だ。
+  Ihre Charakterschilderung ist gut gelungen.
+
+  性格学を学ぶことで、人間関係が改善されるかもしれない。
+  性格学[せいかくがく]を 学[まな]ぶことで、人間関係[にんげんかんけい]が 改善[かいぜん]されるかもしれない。
+  Durch das Studium der Charakterkunde könnten sich zwischenmenschliche Beziehungen verbessern.
+
+  その俳優は様々な性格を演じ分けることができる。
+  その 俳優[はいゆう]は 様々[さまざま]な 性格[せいかく]を 演[え]じ 分[わ]けることができる。
+  Dieser Schauspieler kann verschiedene Charaktere darstellen.
+
+  性格検査の結果を見て、自分のことがよく分かった。
+  性格検査[せいかくけんさ]の 結果[けっか]を 見[み]て、自分[じぶん]のことがよく 分[わ]かった。
+  Nachdem ich die Ergebnisse des Persönlichkeitstests gesehen habe, habe ich mich selbst besser verstanden.
+
+  彼の性格が徐々に現れてきた。
+  彼[かれ]の 性格[せいかく]が 徐々[じょじょ]に 現[あらわ]れてきた。
+  Sein Charakter hat sich nach und nach gezeigt.
+
+  彼女は性格が悪いと評判だ。
+  彼女[かのじょ]は 性格[せいかく]が 悪[わる]いと 評判[ひょうばん]だ。
+  Sie hat den Ruf, einen schlechten Charakter zu haben.
+
+  性格が弱い人は、簡単に他人に影響されてしまう。
+  性格[せいかく]が 弱[よわ]い 人[ひと]は、簡単[かんたん]に 他人[たにん]に 影響[えいきょう]されてしまう。
+  Menschen mit schwachem Charakter lassen sich leicht von anderen beeinflussen.
+
+  二人は性格が合うので、いい友達になれそうだ。
+  二人[ふたり]は 性格[せいかく]が 合[あ]うので、いい 友達[ともだち]になれそうだ。
+  Da die beiden charakterlich zueinander passen, werden sie wahrscheinlich gute Freunde.
+
+  姉妹なのに、性格が全然似ていない。
+  姉妹[しまい]なのに、性格[せいかく]が 全然[ぜんぜん] 似[に]ていない。
+  Obwohl sie Schwestern sind, ähneln sich ihre Charaktere überhaupt nicht.
+
+  作家は登場人物の性格をうまく描写している。
+  作家[さっか]は 登場人物[とうじょうじんぶつ]の 性格[せいかく]をうまく 描写[びょうしゃ]している。
+  Der Autor beschreibt die Charaktere der Figuren geschickt.
+
+  環境が人間の性格を形成するのに大きな影響を与える。
+  環境[かんきょう]が 人間[にんげん]の 性格[せいかく]を 形成[けいせい]するのに 大[おお]きな 影響[えいきょう]を 与[あた]える。
+  Die Umgebung hat einen großen Einfluss auf die Charakterbildung des Menschen.
+
+  兄弟なのに、性格の違いが大きい。
+  兄弟[きょうだい]なのに、性格[せいかく]の 違[ちが]いが 大[おお]きい。
+  Obwohl sie Brüder sind, gibt es große charakterliche Unterschiede zwischen ihnen.
+
+  彼女の明るい性格に、みんな元気をもらっている。
+  彼女[かのじょ]の 明[あか]るい 性格[せいかく]に、みんな 元気[げんき]をもらっている。
+  Alle werden von ihrem heiteren Charakter aufgemuntert.
+
+  からりとした性格の人は、人付き合いが上手だ。
+  からりとした 性格[せいかく]の 人[ひと]は、人付[ひとづ]き 合[あ]いが 上手[じょうず]だ。
+  Menschen mit einem offenherzigen Charakter sind gut im Umgang mit anderen.
+
+  暗い性格の人は、なかなか友達ができないかもしれない。
+  暗[くら]い 性格[せいかく]の 人[ひと]は、なかなか 友達[ともだち]ができないかもしれない。
+  Menschen mit einem düsteren Wesen haben es vielleicht schwer, Freunde zu finden.
+
+  物静かな性格の彼女は、静かな場所が好きだ。
+  物静[ものしず]かな 性格[せいかく]の 彼女[かのじょ]は、静[しず]かな 場所[ばしょ]が 好[す]きだ。
+  Sie hat ein ruhiges Wesen und mag stille Orte.
+
+  性格の欠陥を直すのは難しいが、努力次第だ。
+  性格[せいかく]の 欠陥[けっかん]を 直[なお]すのは 難[むずか]しいが、努力次第[どりょくしだい]だ。
+  Charakterfehler zu korrigieren ist schwierig, aber es hängt von der Anstrengung ab.
+
+  その事件の性格を見極めるのは難しい。
+  その 事件[じけん]の 性格[せいかく]を 見極[みきわ]めるのは 難[むずか]しい。
+  Es ist schwierig, die Natur dieses Vorfalls zu bestimmen.
+
+  少年犯罪の性格が変化している。
+  少年犯罪[しょうねんはんざい]の 性格[せいかく]が 変化[へんか]している。
+  Das Wesen der Jugendkriminalität verändert sich.
+
+  和尚さんは男性的な性格の持ち主だ。
+  和尚[おしょう]さんは 男性的[だんせいてき]な 性格[せいかく]の 持[も]ち 主[ぬし]だ。
+  Der Priester hat einen ausgesprochen männlichen Charakter.
+
+  性格の強さは必ずしも良いことばかりではない。
+  性格[せいかく]の 強[つよ]さは 必[かなら]ずしも 良[よ]いことばかりではない。
+  Charakterstärke ist nicht immer nur von Vorteil.
+
+  彼女は穏やかな性格で、誰とでも仲良くなれる。
+  彼女[かのじょ]は 穏[おだ]やかな 性格[せいかく]で、誰[だれ]とでも 仲良[なかよ]くなれる。
+  Sie hat ein friedliches Wesen und kann sich mit jedem anfreunden.
+
+  昔から喧嘩っぱやい性格で、よくトラブルに巻き込まれる。
+  昔[むかし]から 喧嘩[けんか]っぱやい 性格[せいかく]で、よくトラブルに 巻[ま]き 込[こ]まれる。
+  Seit jeher hat er einen streitsüchtigen Charakter und gerät oft in Schwierigkeiten.
+
+  性格的に合わない人とは、距離を置くのも一つの選択肢だ。
+  性格的[せいかくてき]に 合[あ]わない 人[ひと]とは、距離[きょり]を 置[お]くのも 一[ひと]つの 選択肢[せんたくし]だ。
+  Es ist eine Option, zu Menschen, mit denen man charakterlich nicht harmoniert, Abstand zu halten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

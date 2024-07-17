@@ -1,15 +1,15 @@
 Rang: 957
 Lemma: 減る
 Lesung: へる
-Alternativschreibweisen: ''
-Definition: abnehmen, weniger werden
+Alternativschreibweisen: 耗る
+Definition: abnehmen, sich verringern
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>へ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 減らない・減った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   人口が減っている。
   人口[じんこう]が 減[へ]っている。
   Die Bevölkerung nimmt ab.
+
+  最近、貯金が減ってきて心配です。
+  最近[さいきん]、貯金[ちょきん]が 減[へ]ってきて 心配[しんぱい]です。
+  In letzter Zeit sind meine Ersparnisse geschrumpft, was mir Sorgen macht.
+
+  池の水が減っているので、補充しなければなりません。
+  池[いけ]の 水[みず]が 減[へ]っているので、補充[ほじゅう]しなければなりません。
+  Da der Wasserstand im Teich gesunken ist, müssen wir ihn auffüllen.
+
+  新薬のおかげで痛みが減ってきました。
+  新薬[しんやく]のおかげで 痛[いた]みが 減[へ]ってきました。
+  Dank des neuen Medikaments haben die Schmerzen nachgelassen.
+
+  安全対策により、交通事故が減っています。
+  安全対策[あんぜんたいさく]により、交通事故[こうつうじこ]が 減[へ]っています。
+  Durch Sicherheitsmaßnahmen ist die Zahl der Verkehrsunfälle gesunken.
+
+  この地域の人口が減っているため、学校が統合されました。
+  この 地域[ちいき]の 人口[じんこう]が 減[へ]っているため、学校[がっこう]が 統合[とうごう]されました。
+  Aufgrund des Bevölkerungsrückgangs in dieser Region wurden Schulen zusammengelegt.
+
+  靴が減ってきたので、新しいのを買わなきゃ。
+  靴[くつ]が 減[へ]ってきたので、新[あたら]しいのを 買[か]わなきゃ。
+  Meine Schuhe sind abgenutzt, also muss ich neue kaufen.
+
+  年を取るにつれて、肌の魅力が減ってきた気がします。
+  年[とし]を 取[と]るにつれて、肌[はだ]の 魅力[みりょく]が 減[へ]ってきた 気[き]がします。
+  Mit zunehmendem Alter habe ich das Gefühl, dass der Reiz meiner Haut abnimmt.
+
+  コロナの影響で、海外旅行の機会が減りました。
+  コロナの 影響[えいきょう]で、海外旅行[かいがいりょこう]の 機会[きかい]が 減[へ]りました。
+  Aufgrund von Corona haben sich die Möglichkeiten für Auslandsreisen verringert.
+
+  景気が悪くなり、仕事が減ってきています。
+  景気[けいき]が 悪[わる]くなり、仕事[しごと]が 減[へ]ってきています。
+  Die Wirtschaftslage verschlechtert sich und die Arbeit wird weniger.
+
+  ダイエットを始めてから、体重が徐々に減ってきました。
+  ダイエットを 始[はじ]めてから、体重[たいじゅう]が 徐々[じょじょ]に 減[へ]ってきました。
+  Seitdem ich mit der Diät begonnen habe, nimmt mein Gewicht allmählich ab.
+
+  すっかり町の様子が変わって、檀家も減りました。
+  すっかり 町[まち]の 様子[ようす]が 変[か]わって、檀家[だんか]も 減[へ]りました。
+  Das Stadtbild hat sich völlig verändert und die Zahl der Gemeindemitglieder ist zurückgegangen.
+
+  タバコを吸う人が減って、健康的な生活が増えています。
+  タバコを 吸[す]う 人[ひと]が 減[へ]って、健康的[けんこうてき]な 生活[せいかつ]が 増[ふ]えています。
+  Die Zahl der Raucher ist zurückgegangen und ein gesünderer Lebensstil nimmt zu.
+
+  肝硬変になると体重がみるみる減るという話は本当でした。
+  肝硬変[かんこうへん]になると 体重[たいじゅう]がみるみる 減[へ]るという 話[はなし]は 本当[ほんとう]でした。
+  Es stimmte tatsächlich, dass man bei Leberzirrhose sichtbar an Gewicht verliert.
+
+  一日に一度配給される水の量が、数日前から減りました。
+  一日[いちにち]に 一度[いちど] 配給[はいきゅう]される 水[みず]の 量[りょう]が、数日前[すうじつまえ]から 減[へ]りました。
+  Die Menge des täglich rationierten Wassers wurde vor einigen Tagen reduziert.
+
+  その日、カジキたちは特別に腹が減っていたのかもしれません。
+  その 日[ひ]、カジキたちは 特別[とくべつ]に 腹[はら]が 減[へ]っていたのかもしれません。
+  An diesem Tag waren die Schwertfische möglicherweise besonders hungrig.
+
+  森林伐採により、野生動物の生息地が減っています。
+  森林伐採[しんりんばっさい]により、野生動物[やせいどうぶつ]の 生息地[せいそくち]が 減[へ]っています。
+  Durch Abholzung der Wälder verringern sich die Lebensräume von Wildtieren.
+
+  少子化の影響で、学生の数が年々減っています。
+  少子化[しょうしか]の 影響[えいきょう]で、学生[がくせい]の 数[かず]が 年々[ねんねん] 減[へ]っています。
+  Aufgrund des Geburtenrückgangs nimmt die Zahl der Studenten von Jahr zu Jahr ab.
+
+  節約のおかげで、生活費が少しずつ減ってきました。
+  節約[せつやく]のおかげで、生活費[せいかつひ]が 少[すこ]しずつ 減[へ]ってきました。
+  Dank des Sparens sind die Lebenshaltungskosten nach und nach gesunken.
+
+  新しい治療法により、患者の症状が徐々に減っています。
+  新[あたら]しい 治療法[ちりょうほう]により、患者[かんじゃ]の 症状[しょうじょう]が 徐々[じょじょ]に 減[へ]っています.
+  Durch die neue Behandlungsmethode nehmen die Symptome der Patienten allmählich ab.
+
+  彼女は断食をしているので、体力が減ってきているようです。
+  彼女[かのじょ]は 断食[だんじき]をしているので、体力[たいりょく]が 減[へ]ってきているようです。
+  Da sie fastet, scheint ihre körperliche Kraft abzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

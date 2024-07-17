@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>ふ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 振らない・振った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼に手を振った。
   彼[かれ]に 手[て]を 振[ふ]った。
   Ich winkte ihm zu.
+
+  子供たちは楽しそうに手を振って別れを告げた。
+  子供[こども]たちは 楽[たの]しそうに 手[て]を 振[ふ]って 別[わか]れを 告[つ]げた。
+  Die Kinder winkten fröhlich zum Abschied.
+
+  彼女は首を振って提案を断った。
+  彼女[かのじょ]は 首[くび]を 振[ふ]って 提案[ていあん]を 断[ことわ]った。
+  Sie schüttelte den Kopf und lehnte den Vorschlag ab.
+
+  犬は尻尾を振って飼い主を出迎えた。
+  犬[いぬ]は 尻尾[しっぽ]を 振[ふ]って 飼[か]い 主[ぬし]を 出迎[でむか]えた。
+  Der Hund begrüßte sein Herrchen schwanzwedelnd.
+
+  警備員は大きな鈴を振って注意を促した。
+  警備員[けいびいん]は 大[おお]きな 鈴[すず]を 振[ふ]って 注意[ちゅうい]を 促[うなが]した。
+  Der Wachmann läutete eine große Glocke, um zur Vorsicht zu mahnen.
+
+  野球選手はバットを力強く振った。
+  野球選手[やきゅうせんしゅ]はバットを 力強[ちからづよ]く 振[ふ]った。
+  Der Baseballspieler schwang den Schläger kräftig.
+
+  観客は旗を振って選手たちを応援した。
+  観客[かんきゃく]は 旗[はた]を 振[ふ]って 選手[せんしゅ]たちを 応援[おうえん]した。
+  Die Zuschauer schwenkten Fahnen, um die Sportler anzufeuern.
+
+  シェフは料理の上に塩を振った。
+  シェフは 料理[りょうり]の 上[うえ]に 塩[しお]を 振[ふ]った。
+  Der Koch streute Salz über das Gericht.
+
+  彼はサイコロを振って、運試しをした。
+  彼[かれ]はサイコロを 振[ふ]って、運試[うんだめ]しをした。
+  Er würfelte, um sein Glück zu versuchen.
+
+  彼女に振られて、彼は落ち込んでいる。
+  彼女[かのじょ]に 振[ふ]られて、彼[かれ]は 落[お]ち 込[こ]んでいる。
+  Er ist niedergeschlagen, weil sie ihm einen Korb gegeben hat.
+
+  新入社員に仕事を振るのは難しい。
+  新入社員[しんにゅうしゃいん]に 仕事[しごと]を 振[ふ]るのは 難[むずか]しい。
+  Es ist schwierig, neuen Mitarbeitern Aufgaben zuzuweisen.
+
+  先生は生徒たちに番号を振った。
+  先生[せんせい]は 生徒[せいと]たちに 番号[ばんごう]を 振[ふ]った。
+  Der Lehrer teilte den Schülern Nummern zu.
+
+  編集者は漢字にルビを振った。
+  編集者[へんしゅうしゃ]は 漢字[かんじ]にルビを 振[ふ]った。
+  Der Redakteur versah die Kanji mit Lesehilfen.
+
+  監督は俳優たちに役を振った。
+  監督[かんとく]は 俳優[はいゆう]たちに 役[やく]を 振[ふ]った。
+  Der Regisseur teilte den Schauspielern ihre Rollen zu.
+
+  銀行は小切手を振り出した。
+  銀行[ぎんこう]は 小切手[こぎって]を 振[ふ]り 出[だ]した。
+  Die Bank stellte einen Scheck aus.
+
+  船長は船首を右に振った。
+  船長[せんちょう]は 船首[せんしゅ]を 右[みぎ]に 振[ふ]った。
+  Der Kapitän wendete den Bug des Schiffs nach rechts.
+
+  彼は嫌な仕事を振ってしまった。
+  彼[かれ]は 嫌[いや]な 仕事[しごと]を 振[ふ]ってしまった。
+  Er schmiss den unliebsamen Job hin.
+
+  彼女は脇目も振らず仕事に集中した。
+  彼女[かのじょ]は 脇目[わきめ]も 振[ふ]らず 仕事[しごと]に 集中[しゅうちゅう]した。
+  Sie konzentrierte sich auf ihre Arbeit, ohne sich ablenken zu lassen.
+
+  雨が降る前に、傘を振って開いた。
+  雨[あめ]が 降[ふ]る 前[まえ]に、傘[かさ]を 振[ふ]って 開[ひら]いた。
+  Bevor es zu regnen begann, schüttelte ich den Regenschirm auf.
+
+  彼は棒に振って全財産を失った。
+  彼[かれ]は 棒[ぼう]に 振[ふ]って 全財産[ぜんざいさん]を 失[うしな]った。
+  Er verlor sein gesamtes Vermögen, weil er alles auf eine Karte gesetzt hatte.
+
+  彼女はスプレーを振って髪にスタイリング剤を塗布した。
+  彼女[かのじょ]はスプレーを 振[ふ]って 髪[かみ]にスタイリング 剤[ざい]を 塗布[とふ]した。
+  Sie schüttelte die Spraydose und trug Stylingprodukt auf ihr Haar auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

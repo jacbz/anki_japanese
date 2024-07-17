@@ -2,14 +2,14 @@ Rang: 714
 Lemma: 定める
 Lesung: さだめる
 Alternativschreibweisen: ''
-Definition: festlegen; bestimmen
+Definition: festlegen, bestimmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">だ</span><span class="accent_top">め</span><span>る</span>
 Register: ↗</>Verwaltungssprache
 Dispersion: '43'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 定めない・定めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   その会社は経営方針を定めた。
   その 会社[かいしゃ]は 経営方針[けいえいほうしん]を 定[さだ]めた。
   Das Unternehmen entschied über seine Geschäftspolitik.
+
+  新しい規則を定めるために会議を開きます。
+  新[あたら]しい 規則[きそく]を 定[さだ]めるために 会議[かいぎ]を 開[ひら]きます。
+  Wir halten eine Besprechung ab, um neue Regeln festzulegen.
+
+  会社は来年度の予算を定めました。
+  会社[かいしゃ]は 来年度[らいねんど]の 予算[よさん]を 定[さだ]めました。
+  Das Unternehmen hat das Budget für das nächste Geschäftsjahr festgesetzt.
+
+  法律で定められた期限内に申請書を提出してください。
+  法律[ほうりつ]で 定[さだ]められた 期限内[きげんない]に 申請書[しんせいしょ]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie den Antrag innerhalb der gesetzlich festgelegten Frist ein.
+
+  彼らは結婚式の日取りを定めた。
+  彼[かれ]らは 結婚式[けっこんしき]の 日取[ひど]りを 定[さだ]めた。
+  Sie haben das Datum für ihre Hochzeit festgelegt.
+
+  この条約は国境線を定めるものです。
+  この 条約[じょうやく]は 国境線[こっきょうせん]を 定[さだ]めるものです。
+  Dieser Vertrag legt die Grenzen zwischen den Ländern fest.
+
+  面接の日程を定めましたので、お知らせします。
+  面接[めんせつ]の 日程[にってい]を 定[さだ]めましたので、お 知[し]らせします。
+  Ich teile Ihnen mit, dass der Termin für das Vorstellungsgespräch festgelegt wurde.
+
+  目標を定めることで、モチベーションが上がります。
+  目標[もくひょう]を 定[さだ]めることで、モチベーションが 上[あ]がります。
+  Durch das Setzen von Zielen steigt die Motivation.
+
+  この契約書では賃金を定めていません。
+  この 契約書[けいやくしょ]では 賃金[ちんぎん]を 定[さだ]めていません。
+  In diesem Vertrag ist das Gehalt nicht festgelegt.
+
+  彼は将来の計画を定めずに生きている。
+  彼[かれ]は 将来[しょうらい]の 計画[けいかく]を 定[さだ]めずに 生[い]きている。
+  Er lebt, ohne Pläne für die Zukunft festzulegen.
+
+  会議で新しいプロジェクトの方針を定めよう。
+  会議[かいぎ]で 新[あたら]しいプロジェクトの 方針[ほうしん]を 定[さだ]めよう。
+  Lass uns in der Besprechung die Richtlinien für das neue Projekt festlegen.
+
+  彼女は新しい住所を定めて引っ越した。
+  彼女[かのじょ]は 新[あたら]しい 住所[じゅうしょ]を 定[さだ]めて 引[ひ]っ 越[こ]した。
+  Sie ist umgezogen, nachdem sie einen neuen Wohnsitz festgelegt hatte.
+
+  この規則は社長が定めたものです。
+  この 規則[きそく]は 社長[しゃちょう]が 定[さだ]めたものです。
+  Diese Regel wurde vom Geschäftsführer festgelegt.
+
+  喫煙は定められた場所でお願いします。
+  喫煙[きつえん]は 定[さだ]められた 場所[ばしょ]でお 願[ねが]いします。
+  Bitte rauchen Sie nur in den dafür vorgesehenen Bereichen.
+
+  新製品の価格を定めるのは難しい決断でした。
+  新製品[しんせいひん]の 価格[かかく]を 定[さだ]めるのは 難[むずか]しい 決断[けつだん]でした。
+  Es war eine schwierige Entscheidung, den Preis für das neue Produkt festzulegen.
+
+  彼は人生の目的を定めようと努力している。
+  彼[かれ]は 人生[じんせい]の 目的[もくてき]を 定[さだ]めようと 努力[どりょく]している。
+  Er bemüht sich, den Zweck seines Lebens zu bestimmen.
+
+  政府は新しい政策を定めるために専門家に相談した。
+  政府[せいふ]は 新[あたら]しい 政策[せいさく]を 定[さだ]めるために 専門家[せんもんか]に 相談[そうだん]した。
+  Die Regierung hat Experten konsultiert, um neue Richtlinien festzulegen.
+
+  彼らは会社の将来の方向性を定めるために長時間議論した。
+  彼[かれ]らは 会社[かいしゃ]の 将来[しょうらい]の 方向性[ほうこうせい]を 定[さだ]めるために 長時間[ちょうじかん] 議論[ぎろん]した。
+  Sie diskutierten stundenlang, um die zukünftige Richtung des Unternehmens festzulegen.
+
+  この法律は市民の権利と義務を定めています。
+  この 法律[ほうりつ]は 市民[しみん]の 権利[けんり]と 義務[ぎむ]を 定[さだ]めています。
+  Dieses Gesetz legt die Rechte und Pflichten der Bürger fest.
+
+  彼は自分の人生の目標を定め、それに向かって努力している。
+  彼[かれ]は 自分[じぶん]の 人生[じんせい]の 目標[もくひょう]を 定[さだ]め、それに 向[む]かって 努力[どりょく]している。
+  Er hat sich ein Lebensziel gesetzt und arbeitet hart darauf hin.
+
+  新しい制度を定めるには時間がかかるでしょう。
+  新[あたら]しい 制度[せいど]を 定[さだ]めるには 時間[じかん]がかかるでしょう。
+  Es wird wohl einige Zeit dauern, ein neues System zu etablieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

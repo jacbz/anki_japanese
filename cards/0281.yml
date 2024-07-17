@@ -1,22 +1,102 @@
 Rang: 281
 Lemma: 残る
 Lesung: のこる
-Alternativschreibweisen: ''
-Definition: bleiben
+Alternativschreibweisen: 遺る
+Definition: (übrig) bleiben, verbleiben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>の</span><span class="accent_top">こ</span><span>る</span>
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 残らない・残った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   仕事を終えるために一人でオフィスに残った。
-  仕事[しごと]を 終[お]えるために一人でオフィスに 残[のこ]った。
+  仕事[しごと]を 終[お]えるために 一人[ひとり]でオフィスに 残[のこ]った。
   Ich blieb allein im Büro, um die Arbeit zu beenden.
+
+  食事の後、お皿に残ったご飯を捨てるのはもったいない。
+  食事[しょくじ]の 後[あと]、お 皿[さら]に 残[のこ]ったご 飯[はん]を 捨[す]てるのはもったいない。
+  Es ist schade, den übrig gebliebenen Reis nach dem Essen wegzuwerfen.
+
+  彼女の笑顔は長い間私の記憶に残っていた。
+  彼女[かのじょ]の 笑顔[えがお]は 長[なが]い 間[あいだ] 私[わたし]の 記憶[きおく]に 残[のこ]っていた。
+  Ihr Lächeln blieb mir lange Zeit im Gedächtnis.
+
+  手術の跡が少し残っているが、ほとんど目立たない。
+  手術[しゅじゅつ]の 跡[あと]が 少[すこ]し 残[のこ]っているが、ほとんど 目立[めだ]たない。
+  Es ist noch eine kleine Operationsnarbe geblieben, aber sie fällt kaum auf.
+
+  残ったお金で友達にプレゼントを買おうと思う。
+  残[のこ]ったお 金[かね]で 友達[ともだち]にプレゼントを 買[か]おうと 思[おも]う。
+  Ich denke darüber nach, mit dem übrigen Geld ein Geschenk für meinen Freund zu kaufen.
+
+  この映画には少し不満が残るが、全体的には楽しめた。
+  この 映画[えいが]には 少[すこ]し 不満[ふまん]が 残[のこ]るが、全体的[ぜんたいてき]には 楽[たの]しめた。
+  Ich bin mit diesem Film nicht ganz zufrieden, aber insgesamt konnte ich ihn genießen.
+
+  日没後もしばらく空に明るみが残っていた。
+  日没[にちぼつ] 後[ご]もしばらく 空[そら]に 明[あか]るみが 残[のこ]っていた。
+  Auch nach Sonnenuntergang war es noch eine Weile am Himmel hell.
+
+  現在も江戸時代から残っている建物がいくつかある。
+  現在[げんざい]も 江戸時代[えどじだい]から 残[のこ]っている 建物[たてもの]がいくつかある。
+  Es gibt auch heute noch einige Gebäude, die aus der Edo-Zeit erhalten geblieben sind.
+
+  締め切りまであと1時間しか残っていない。
+  締[し]め 切[き]りまであと1時間[いちじかん]しか 残[のこ]っていない。
+  Es bleibt nur noch eine Stunde bis zur Deadline.
+
+  彼の名は偉大な発明家として歴史に残るだろう。
+  彼[かれ]の 名[な]は 偉大[いだい]な 発明家[はつめいか]として 歴史[れきし]に 残[のこ]るだろう。
+  Sein Name wird als großer Erfinder in die Geschichte eingehen.
+
+  洗濯物から洗剤の香りが残っているのが気になる。
+  洗濯物[せんたくもの]から 洗剤[せんざい]の 香[かお]りが 残[のこ]っているのが 気[き]になる。
+  Es stört mich, dass der Geruch von Waschmittel in der Wäsche hängen geblieben ist.
+
+  山頂には夏でも雪が残っていることがある。
+  山頂[さんちょう]には 夏[なつ]でも 雪[ゆき]が 残[のこ]っていることがある。
+  Auf dem Berggipfel kann auch im Sommer noch Schnee liegen.
+
+  最後まで試合に残れたのは彼一人だった。
+  最後[さいご]まで 試合[しあい]に 残[のこ]れたのは 彼[かれ] 一人[ひとり]だった。
+  Er war der Einzige, der bis zum Schluss im Wettkampf geblieben ist.
+
+  大学に残って研究を続けることにした。
+  大学[だいがく]に 残[のこ]って 研究[けんきゅう]を 続[つづ]けることにした。
+  Ich habe mich entschieden, an der Universität zu bleiben und meine Forschung fortzusetzen.
+
+  両親が亡くなった後、兄弟だけが残された。
+  両親[りょうしん]が 亡[な]くなった 後[あと]、兄弟[きょうだい]だけが 残[のこ]された。
+  Nachdem die Eltern gestorben waren, blieben nur noch die Geschwister zurück.
+
+  相撲の取組で、力士たちはまだ土俵に残っている。
+  相撲[すもう]の 取組[とりくみ]で、力士[りきし]たちはまだ 土俵[どひょう]に 残[のこ]っている。
+  Beim Sumo-Kampf sind die Ringer noch im Ring geblieben.
+
+  家中を隅々まで捜したが、財布は見つからなかった。
+  家中[いえじゅう]を 隅々[すみずみ]まで 捜[さが]したが、財布[さいふ]は 見[み]つからなかった。
+  Ich habe das ganze Haus bis in den letzten Winkel durchsucht, aber die Brieftasche nicht gefunden.
+
+  彼女の言葉は、永遠に人々の心に残るだろう。
+  彼女[かのじょ]の 言葉[ことば]は、永遠[えいえん]に 人々[ひとびと]の 心[こころ]に 残[のこ]るだろう。
+  Ihre Worte werden für immer in den Herzen der Menschen bleiben.
+
+  旅行の思い出は長く心に残るものだ。
+  旅行[りょこう]の 思[おも]い 出[で]は 長[なが]く 心[こころ]に 残[のこ]るものだ。
+  Reiseerinnerungen bleiben lange im Herzen erhalten.
+
+  この遺跡は古代文明の痕跡を今に残している。
+  この 遺跡[いせき]は 古代[こだい] 文明[ぶんめい]の 痕跡[こんせき]を 今[いま]に 残[のこ]している。
+  Diese Ruinen haben Spuren der antiken Zivilisation bis heute bewahrt.
+
+  彼は最後の一人になるまで会議室に残った。
+  彼[かれ]は 最後[さいご]の 一人[ひとり]になるまで 会議室[かいぎしつ]に 残[のこ]った。
+  Er blieb im Konferenzraum, bis er der Letzte war.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

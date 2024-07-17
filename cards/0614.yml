@@ -1,15 +1,15 @@
 Rang: 614
 Lemma: 起こす
 Lesung: おこす
-Alternativschreibweisen: ''
-Definition: verursachen; hervorrufen
+Alternativschreibweisen: 起す・興す・熾す
+Definition: (auf-)wecken; verursachen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>お</span><span class="accent_top">こ</span><span>す</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 起こさない・起こした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   不注意で事故を起こした。
   不注意[ふちゅうい]で 事故[じこ]を 起[お]こした。
   Meine Unachtsamkeit hat einen Unfall verursacht.
+
+  毎朝6時に子供を起こします。
+  毎朝[まいあさ]6時[じ]に 子供[こども]を 起[お]こします。
+  Ich wecke die Kinder jeden Morgen um 6 Uhr.
+
+  起こさないように静かに部屋を出た。
+  起[お]こさないように 静[しず]かに 部屋[へや]を 出[で]た。
+  Ich verließ leise das Zimmer, um niemanden zu wecken.
+
+  体調不良で倒れた友人を起こしてあげた。
+  体調不良[たいちょうふりょう]で 倒[たお]れた 友人[ゆうじん]を 起[お]こしてあげた。
+  Ich half meinem Freund aufzustehen, der wegen Unwohlsein umgefallen war.
+
+  地震で倒れた家具を一つずつ起こしていった。
+  地震[じしん]で 倒[たお]れた 家具[かぐ]を 一[ひと]つずつ 起[お]こしていった。
+  Ich stellte die durch das Erdbeben umgefallenen Möbelstücke eines nach dem anderen wieder auf.
+
+  彼女は顔を起こして空を見上げた。
+  彼女[かのじょ]は 顔[かお]を 起[お]こして 空[そら]を 見上[みあ]げた。
+  Sie hob ihr Gesicht und blickte zum Himmel auf.
+
+  その政策は国民の間で大きな議論を起こした。
+  その 政策[せいさく]は 国民[こくみん]の 間[あいだ]で 大[おお]きな 議論[ぎろん]を 起[お]こした。
+  Diese Politik löste eine große Debatte unter den Bürgern aus.
+
+  彼の発言はメディアでスキャンダルを起こした。
+  彼[かれ]の 発言[はつげん]はメディアでスキャンダルを 起[お]こした。
+  Seine Äußerung verursachte einen Skandal in den Medien.
+
+  新製品は市場で大きな反響を起こしている。
+  新製品[しんせいひん]は 市場[しじょう]で 大[おお]きな 反響[はんきょう]を 起[お]こしている。
+  Das neue Produkt ruft auf dem Markt große Resonanz hervor.
+
+  彼女の小説は読者の心に強い感動を起こした。
+  彼女[かのじょ]の 小説[しょうせつ]は 読者[どくしゃ]の 心[こころ]に 強[つよ]い 感動[かんどう]を 起[お]こした。
+  Ihr Roman weckte starke Emotionen in den Herzen der Leser.
+
+  その薬を飲んだら副作用で頭痛を起こしてしまった。
+  その 薬[くすり]を 飲[の]んだら 副作用[ふくさよう]で 頭痛[ずつう]を 起[お]こしてしまった。
+  Nachdem ich das Medikament eingenommen hatte, bekam ich als Nebenwirkung Kopfschmerzen.
+
+  会社の方針に反対して訴訟を起こすことにした。
+  会社[かいしゃ]の 方針[ほうしん]に 反対[はんたい]して 訴訟[そしょう]を 起[お]こすことにした。
+  Ich beschloss, gegen die Unternehmenspolitik Klage zu erheben.
+
+  彼の行動は周囲の人々の好奇心を起こした。
+  彼[かれ]の 行動[こうどう]は 周囲[しゅうい]の 人々[ひとびと]の 好奇心[こうきしん]を 起[お]こした。
+  Sein Verhalten weckte die Neugier der Menschen um ihn herum.
+
+  この問題について早急に行動を起こす必要がある。
+  この 問題[もんだい]について 早急[そうきゅう]に 行動[こうどう]を 起[お]こす 必要[ひつよう]がある。
+  Es ist notwendig, in Bezug auf dieses Problem umgehend zu handeln.
+
+  長年使っていない畑を起こして野菜を育てることにした。
+  長年[ながねん] 使[つか]っていない 畑[はたけ]を 起[お]こして 野菜[やさい]を 育[そだ]てることにした。
+  Ich beschloss, das seit Jahren ungenutzte Feld zu pflügen und Gemüse anzubauen.
+
+  彼は新しい事業を起こすために資金を集めている。
+  彼[かれ]は 新[あたら]しい 事業[じぎょう]を 起[お]こすために 資金[しきん]を 集[あつ]めている。
+  Er sammelt Geld, um ein neues Unternehmen zu gründen.
+
+  キャンプファイヤーで火を起こすのが得意だ。
+  キャンプファイヤーで 火[ひ]を 起[お]こすのが 得意[とくい]だ。
+  Ich bin gut darin, bei Lagerfeuern ein Feuer zu entfachen.
+
+  その政治家は国民の愛国心を起こそうとしている。
+  その 政治家[せいじか]は 国民[こくみん]の 愛国心[あいこくしん]を 起[お]こそうとしている。
+  Dieser Politiker versucht, den Patriotismus der Bürger zu wecken.
+
+  彼女の演説は聴衆の心に勇気を起こさせた。
+  彼女[かのじょ]の 演説[えんぜつ]は 聴衆[ちょうしゅう]の 心[こころ]に 勇気[ゆうき]を 起[お]こさせた。
+  Ihre Rede weckte Mut in den Herzen des Publikums.
+
+  その事件は社会に大きな波紋を起こした。
+  その 事件[じけん]は 社会[しゃかい]に 大[おお]きな 波紋[はもん]を 起[お]こした。
+  Dieser Vorfall löste in der Gesellschaft große Wellen aus.
+
+  新しいアイデアを起こすためにブレインストーミングをした。
+  新[あたら]しいアイデアを 起[お]こすためにブレインストーミングをした。
+  Wir machten ein Brainstorming, um neue Ideen zu entwickeln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

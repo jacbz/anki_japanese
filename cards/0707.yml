@@ -1,15 +1,15 @@
 Rang: 707
 Lemma: 描く
 Lesung: えがく
-Alternativschreibweisen: ''
-Definition: zeichnen
+Alternativschreibweisen: 画く
+Definition: zeichnen; beschreiben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>え</span><span class="accent_top">が</span><span>く</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 描かない・描いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   風景を描くのが好きだ。
   風景[ふうけい]を 描[えが]くのが 好[す]きだ。
   Ich zeichne gerne Landschaften.
+
+  彼は風景画を描くのが得意です。
+  彼[かれ]は 風景画[ふうけいが]を 描[えが]くのが 得意[とくい]です。
+  Er ist gut darin, Landschaftsbilder zu malen.
+
+  子供たちは想像力豊かな絵を描きました。
+  子供[こども]たちは 想像力[そうぞうりょく] 豊[ゆた]かな 絵[え]を 描[えが]きました。
+  Die Kinder malten fantasievolle Bilder.
+
+  彼女は有名な画家に肖像画を描いてもらいました。
+  彼女[かのじょ]は 有名[ゆうめい]な 画家[がか]に 肖像画[しょうぞうが]を 描[えが]いてもらいました。
+  Sie ließ sich von einem berühmten Maler porträtieren.
+
+  この作家は登場人物を生き生きと描いています。
+  この 作家[さっか]は 登場人物[とうじょうじんぶつ]を 生[い]き 生[い]きと 描[えが]いています。
+  Dieser Autor beschreibt die Charaktere sehr lebendig.
+
+  彼の小説は戦後の日本を鮮やかに描いている。
+  彼[かれ]の 小説[しょうせつ]は 戦後[せんご]の 日本[にほん]を 鮮[あざ]やかに 描[えが]いている。
+  Sein Roman schildert das Nachkriegsjapan sehr anschaulich.
+
+  この映画は現代社会の問題を巧みに描き出しています。
+  この 映画[えいが]は 現代社会[げんだいしゃかい]の 問題[もんだい]を 巧[たく]みに 描[えが]き 出[だ]しています。
+  Dieser Film stellt die Probleme der modernen Gesellschaft geschickt dar.
+
+  彼女は心に理想の未来像を描いていた。
+  彼女[かのじょ]は 心[こころ]に 理想[りそう]の 未来像[みらいぞう]を 描[えが]いていた。
+  Sie stellte sich in Gedanken ein ideales Zukunftsbild vor.
+
+  空想を描くのは楽しいけど、現実も大切だよ。
+  空想[くうそう]を 描[えが]くのは 楽[たの]しいけど、現実[げんじつ]も 大切[たいせつ]だよ。
+  Es macht Spaß, Luftschlösser zu bauen, aber die Realität ist auch wichtig.
+
+  彼は頭の中で成功への道筋を描いていた。
+  彼[かれ]は 頭[あたま]の 中[なか]で 成功[せいこう]への 道筋[みちすじ]を 描[えが]いていた。
+  Er malte sich in Gedanken den Weg zum Erfolg aus.
+
+  その川は町の周りに大きな弧を描いている。
+  その 川[かわ]は 町[まち]の 周[まわ]りに 大[おお]きな 弧[こ]を 描[えが]いている。
+  Der Fluss beschreibt einen großen Bogen um die Stadt.
+
+  彼はペンで紙に完璧な円を描いた。
+  彼[かれ]は ペンで 紙[かみ]に 完璧[かんぺき]な 円[えん]を 描[えが]いた。
+  Er zeichnete mit dem Stift einen perfekten Kreis auf das Papier.
+
+  その飛行機は空に大きな円を描いて飛んでいった。
+  その 飛行機[ひこうき]は 空[そら]に 大[おお]きな 円[えん]を 描[えが]いて 飛[と]んでいった。
+  Das Flugzeug flog in einem großen Kreis am Himmel.
+
+  彼女は指で空中に「愛」という字を描いた。
+  彼女[かのじょ]は 指[ゆび]で 空中[くうちゅう]に「愛[あい]」という 字[じ]を 描[えが]いた。
+  Sie schrieb mit dem Finger das Zeichen für "Liebe" in die Luft.
+
+  その道路は山腹に沿って緩やかなカーブを描いていた。
+  その 道路[どうろ]は 山腹[さんぷく]に 沿[そ]って 緩[ゆる]やかな カーブを 描[えが]いていた。
+  Die Straße zog sich in einer sanften Kurve an der Bergflanke entlang.
+
+  スケーターは氷上で美しい弧を描きながら滑っていた。
+  スケーターは 氷上[ひょうじょう]で 美[うつく]しい 弧[こ]を 描[えが]きながら 滑[すべ]っていた。
+  Der Eiskunstläufer glitt in schönen Bögen über das Eis.
+
+  この絵は富士山を見事に描いています。
+  この 絵[え]は 富士山[ふじさん]を 見事[みごと]に 描[えが]いています。
+  Dieses Bild stellt den Berg Fuji wunderbar dar.
+
+  彼は眼のまわりに虹色の輪を描いた。
+  彼[かれ]は 眼[め]のまわりに 虹色[にじいろ]の 輪[わ]を 描[えが]いた。
+  Er malte regenbogenfarbene Ringe um seine Augen.
+
+  私はスリッパでカーペットに模様を描いた。
+  私[わたし]はスリッパで カーペットに 模様[もよう]を 描[えが]いた.
+  Ich zeichnete mit meinem Hausschuh ein Muster in den Teppich.
+
+  彼女は心に理想の恋人像を描いていた。
+  彼女[かのじょ]は 心[こころ]に 理想[りそう]の 恋人像[こいびとぞう]を 描[えが]いていた。
+  Sie malte sich in ihrer Vorstellung das Bild des idealen Partners aus.
+
+  その小説は戦時中の人々の苦難を生々しく描いている。
+  その 小説[しょうせつ]は 戦時中[せんじちゅう]の 人々[ひとびと]の 苦難[くなん]を 生々[なまなま]しく 描[えが]いている。
+  Der Roman schildert die Leiden der Menschen während des Krieges sehr eindringlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

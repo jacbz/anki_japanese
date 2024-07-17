@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">か</span><span>く</span><span>�
 Register: ''
 Dispersion: '66'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 確保しない・確保した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   政府は国民の安全を確保しなければならない。
   政府[せいふ]は 国民[こくみん]の 安全[あんぜん]を 確保[かくほ]しなければならない。
   Die Regierung muss die Sicherheit der Menschen gewährleisten.
+
+  平和を確保するために、外交努力が必要です。
+  平和[へいわ]を 確保[かくほ]するために、外交[がいこう] 努力[どりょく]が 必要[ひつよう]です。
+  Diplomatische Bemühungen sind notwendig, um den Frieden zu sichern.
+
+  人気のコンサートのチケットを確保できて嬉しいです。
+  人気[にんき]のコンサートのチケットを 確保[かくほ]できて 嬉[うれ]しいです。
+  Ich bin froh, dass ich Karten für das beliebte Konzert sichern konnte.
+
+  災害に備えて、十分な食料を確保しておくべきだ。
+  災害[さいがい]に 備[そな]えて、十分[じゅうぶん]な 食料[しょくりょう]を 確保[かくほ]しておくべきだ。
+  Man sollte ausreichend Lebensmittel für den Fall einer Katastrophe sicherstellen.
+
+  新しいプロジェクトのために、予算を確保する必要があります。
+  新[あたら]しいプロジェクトのために、予算[よさん]を 確保[かくほ]する 必要[ひつよう]があります。
+  Wir müssen ein Budget für das neue Projekt sichern.
+
+  警察は容疑者を確保し、取り調べを行っています。
+  警察[けいさつ]は 容疑者[ようぎしゃ]を 確保[かくほ]し、取[と]り 調[しら]べを 行[おこな]っています。
+  Die Polizei hat den Verdächtigen festgenommen und führt Verhöre durch.
+
+  この会社は従業員の雇用を確保するために努力している。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 雇用[こよう]を 確保[かくほ]するために 努力[どりょく]している。
+  Dieses Unternehmen bemüht sich, die Arbeitsplätze seiner Mitarbeiter zu sichern.
+
+  彼らは山登りの際、安全を確保するためにロープを使用した。
+  彼[かれ]らは 山登[やまのぼ]りの 際[さい]、安全[あんぜん]を 確保[かくほ]するためにロープを 使用[しよう]した。
+  Beim Bergsteigen verwendeten sie Seile, um ihre Sicherheit zu gewährleisten.
+
+  大学は学生のための十分な学習スペースを確保しています。
+  大学[だいがく]は 学生[がくせい]のための 十分[じゅうぶん]な 学習[がくしゅう]スペースを 確保[かくほ]しています。
+  Die Universität stellt ausreichend Lernräume für die Studenten sicher.
+
+  環境保護のために、森林を確保することが重要です。
+  環境保護[かんきょうほご]のために、森林[しんりん]を 確保[かくほ]することが 重要[じゅうよう]です。
+  Es ist wichtig, Wälder zu bewahren, um die Umwelt zu schützen.
+
+  会社の将来を確保するために、新しい技術に投資しています。
+  会社[かいしゃ]の 将来[しょうらい]を 確保[かくほ]するために、新[あたら]しい 技術[ぎじゅつ]に 投資[とうし]しています。
+  Wir investieren in neue Technologien, um die Zukunft des Unternehmens zu sichern.
+
+  彼女は子供の教育資金を確保するために、貯金を始めた。
+  彼女[かのじょ]は 子供[こども]の 教育[きょういく] 資金[しきん]を 確保[かくほ]するために、貯金[ちょきん]を 始[はじ]めた。
+  Sie begann zu sparen, um die Ausbildung ihrer Kinder finanziell abzusichern.
+
+  イベントの成功を確保するために、綿密な計画を立てる必要がある。
+  イベントの 成功[せいこう]を 確保[かくほ]するために、綿密[めんみつ]な 計画[けいかく]を 立[た]てる 必要[ひつよう]がある。
+  Um den Erfolg der Veranstaltung zu gewährleisten, müssen wir einen detaillierten Plan erstellen.
+
+  彼らは長期的な利益を確保するために、新しい市場に進出した。
+  彼[かれ]らは 長期的[ちょうきてき]な 利益[りえき]を 確保[かくほ]するために、新[あたら]しい 市場[しじょう]に 進出[しんしゅつ]した。
+  Sie sind in neue Märkte vorgedrungen, um langfristige Gewinne zu sichern.
+
+  政府は国民の健康を確保するために、新しい政策を導入しました。
+  政府[せいふ]は 国民[こくみん]の 健康[けんこう]を 確保[かくほ]するために、新[あたら]しい 政策[せいさく]を 導入[どうにゅう]しました。
+  Die Regierung hat neue Maßnahmen eingeführt, um die Gesundheit der Bevölkerung zu gewährleisten.
+
+  彼は家族の生活を確保するために、二つの仕事を掛け持ちしている。
+  彼[かれ]は 家族[かぞく]の 生活[せいかつ]を 確保[かくほ]するために、二[ふた]つの 仕事[しごと]を 掛[か]け 持[も]ちしている。
+  Er hat zwei Jobs, um den Lebensunterhalt seiner Familie zu sichern.
+
+  会議室を確保しましたので、明日の打ち合わせは予定通り行えます。
+  会議室[かいぎしつ]を 確保[かくほ]しましたので、明日[あした]の 打[う]ち 合[あ]わせは 予定通[よていどお]り 行[おこな]えます。
+  Ich habe einen Konferenzraum reserviert, sodass das morgige Meeting wie geplant stattfinden kann.
+
+  彼らは重要な証拠を確保し、事件の解決に近づいた。
+  彼[かれ]らは 重要[じゅうよう]な 証拠[しょうこ]を 確保[かくほ]し、事件[じけん]の 解決[かいけつ]に 近[ちか]づいた。
+  Sie haben wichtige Beweise sichergestellt und sind der Lösung des Falles näher gekommen.
+
+  新しい工場の建設には、十分な土地を確保することが不可欠だ。
+  新[あたら]しい 工場[こうじょう]の 建設[けんせつ]には、十分[じゅうぶん]な 土地[とち]を 確保[かくほ]することが 不可欠[ふかけつ]だ。
+  Für den Bau einer neuen Fabrik ist es unerlässlich, ausreichend Land zu sichern.
+
+  老後の生活を確保するために、年金制度の改革が必要です。
+  老後[ろうご]の 生活[せいかつ]を 確保[かくほ]するために、年金[ねんきん] 制度[せいど]の 改革[かいかく]が 必要[ひつよう]です。
+  Um den Lebensstandard im Alter zu sichern, ist eine Reform des Rentensystems erforderlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

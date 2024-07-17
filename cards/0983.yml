@@ -2,7 +2,7 @@ Rang: 983
 Lemma: 検討
 Lesung: けんとう
 Alternativschreibweisen: ''
-Definition: Überlegung, Diskussion, Prüfung
+Definition: erwägen, prüfen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>け</span><span class="accent_plain">ん</span><span class="accent_plain">と</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>け</span><span class="accent_plain">ん</span><span 
 Register: ''
 Dispersion: '61'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 検討しない・検討した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   その問題については今検討しています。
   その 問題[もんだい]については 今[いま] 検討[けんとう]しています。
   Die Angelegenheit wird derzeit geprüft.
+
+  新しい提案を慎重に検討する必要があります。
+  新[あたら]しい 提案[ていあん]を 慎重[しんちょう]に 検討[けんとう]する 必要[ひつよう]があります。
+  Wir müssen den neuen Vorschlag sorgfältig prüfen.
+
+  彼らは計画の長所と短所を徹底的に検討した。
+  彼[かれ]らは 計画[けいかく]の 長所[ちょうしょ]と 短所[たんしょ]を 徹底的[てっていてき]に 検討[けんとう]した。
+  Sie haben die Vor- und Nachteile des Plans gründlich abgewogen.
+
+  検討課題リストを作成し、優先順位をつけましょう。
+  検討課題[けんとうかだい]リストを 作成[さくせい]し、優先順位[ゆうせんじゅんい]をつけましょう。
+  Lassen Sie uns eine Liste mit zu erwägenden Themen erstellen und Prioritäten setzen.
+
+  委員会は検討結果を来週発表する予定です。
+  委員会[いいんかい]は 検討結果[けんとうけっか]を 来週[らいしゅう] 発表[はっぴょう]する 予定[よてい]です。
+  Der Ausschuss plant, das Untersuchungsergebnis nächste Woche bekannt zu geben.
+
+  この案は批判的検討を経て改善されました。
+  この 案[あん]は 批判的[ひはんてき] 検討[けんとう]を 経[へ]て 改善[かいぜん]されました。
+  Dieser Vorschlag wurde nach kritischer Überprüfung verbessert.
+
+  二つの方法の比較検討を行い、最適な選択をしましょう。
+  二[ふた]つの 方法[ほうほう]の 比較検討[ひかくけんとう]を 行[おこな]い、最適[さいてき]な 選択[せんたく]をしましょう。
+  Lassen Sie uns eine vergleichende Betrachtung der beiden Methoden durchführen und die beste Wahl treffen.
+
+  現在検討中の案件についてはコメントを控えさせていただきます。
+  現在[げんざい] 検討中[けんとうちゅう]の 案件[あんけん]については コメント を 控[ひか]えさせていただきます。
+  Ich möchte mich zu den Angelegenheiten, die derzeit geprüft werden, nicht äußern.
+
+  この提案は検討に値する重要なものです。
+  この 提案[ていあん]は 検討[けんとう]に 値[あたい]する 重要[じゅうよう]なものです。
+  Dieser Vorschlag ist wichtig und erwägenswert.
+
+  まだ検討の余地がある問題がいくつか残っています。
+  まだ 検討[けんとう]の 余地[よち]がある 問題[もんだい]がいくつか 残[のこ]っています。
+  Es gibt noch einige Probleme, die weiterer Erörterung bedürfen.
+
+  この件についてはさらに検討を要すると思います。
+  この 件[けん]については さらに 検討[けんとう]を 要[よう]すると 思[おも]います。
+  Ich denke, diese Angelegenheit erfordert weitere Überlegungen.
+
+  補助金の申請は現在検討中です。
+  補助金[ほじょきん]の 申請[しんせい]は 現在[げんざい] 検討中[けんとうちゅう]です。
+  Der Antrag auf Fördergelder wird derzeit geprüft.
+
+  彼の作品の詳細な検討は学術的に価値があります。
+  彼[かれ]の 作品[さくひん]の 詳細[しょうさい]な 検討[けんとう]は 学術的[がくじゅつてき]に 価値[かち]があります。
+  Eine genaue Untersuchung seiner Werke ist wissenschaftlich wertvoll.
+
+  新しい戦略を前向きに検討しましょう。
+  新[あたら]しい 戦略[せんりゃく]を 前向[まえむ]きに 検討[けんとう]しましょう。
+  Lassen Sie uns die neue Strategie positiv überdenken.
+
+  この政策を再検討する必要があります。
+  この 政策[せいさく]を 再検討[さいけんとう]する 必要[ひつよう]があります。
+  Wir müssen diese Politik erneut überdenken.
+
+  様々な観点から問題を検討することが重要です。
+  様々[さまざま]な 観点[かんてん]から 問題[もんだい]を 検討[けんとう]することが 重要[じゅうよう]です。
+  Es ist wichtig, das Problem aus verschiedenen Blickwinkeln zu betrachten.
+
+  この提案は検討の価値があると思います。
+  この 提案[ていあん]は 検討[けんとう]の 価値[かち]があると 思[おも]います。
+  Ich denke, dieser Vorschlag ist es wert, in Betracht gezogen zu werden.
+
+  会議で検討された内容を報告書にまとめてください。
+  会議[かいぎ]で 検討[けんとう]された 内容[ないよう]を 報告書[ほうこくしょ]にまとめてください。
+  Bitte fassen Sie die in der Besprechung erörterten Inhalte in einem Bericht zusammen.
+
+  新製品の開発には慎重な検討が必要だ。
+  新製品[しんせいひん]の 開発[かいはつ]には 慎重[しんちょう]な 検討[けんとう]が 必要[ひつよう]だ。
+  Die Entwicklung neuer Produkte erfordert sorgfältige Überlegungen.
+
+  彼女の意見を十分に検討した上で決定を下そう。
+  彼女[かのじょ]の 意見[いけん]を 十分[じゅうぶん]に 検討[けんとう]した 上[うえ]で 決定[けってい]を 下[くだ]そう。
+  Lass uns ihre Meinung gründlich erwägen, bevor wir eine Entscheidung treffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
