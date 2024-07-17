@@ -253,14 +253,14 @@ span.no-break {
   display: none;
 }
 
-.register {
+#register {
   font-size: 40%;
   background: #eee;
   padding: 0.3em;
-  border-radius: 0.8em;
+  border-radius: 1em;
 }
 
-.night_mode .register {
+.night_mode #register {
   background: transparent;
   border: 1px solid #eee;
 }
@@ -565,6 +565,16 @@ u {
   }
 }
 
+.note {
+  margin: auto;
+  margin-top: 2em;
+  font-size: 45%;
+  border: 1px solid gray;
+  border-radius: 14px;
+  padding: 10px;
+  text-align: left;
+}
+
 /**
   Furigana
   -----------------------------------------------
@@ -575,38 +585,34 @@ u {
   margin-bottom: 0.1em;
   font-family: textbook;
 
+  > span {
+    height: 1.1em;
+    display: inline-block;
+  }
+
   span.accent_plain {
-    border-top: solid 0.075em;
     padding-top: 0.075em;
+    border-top: solid 0.075em;
+  }
+
+  span:not(.accent_plain) + span.accent_plain,
+  span:not(.accent_plain) + span.accent_top {
+    border-left: solid #777 0.075em;
+    border-top-left-radius: 0.25em;
   }
 
   span.accent_top {
-    border-top: solid black 0.075em;
-    border-right: solid black 0.075em;
     padding-top: 0.075em;
+    border-top: solid #777 0.075em;
+    border-right: solid #777 0.075em;
+    border-top-right-radius: 0.25em;
   }
-
-  // span.unvoiced {
-  //   background-color: #c3c3c3;
-  // }
 }
 
 .night_mode .furigana {
-  span.accent_top {
-    border-color: white;
+  span {
+    border-color: #aaa !important;
   }
-  // span.unvoiced {
-  //   background-color: #666;
-  // }
-}
-
-.furigana svg {
-  height: 72px;
-}
-
-a.hint {
-  color: gray;
-  font-style: italic;
 }
 
 .spoiler:not(.clicked) ruby {
@@ -632,16 +638,6 @@ rt {
 
 .highlight {
   color: green;
-}
-
-.note {
-  margin: auto;
-  margin-top: 2em;
-  font-size: 45%;
-  border: 1px solid gray;
-  border-radius: 14px;
-  padding: 10px;
-  text-align: left;
 }
 
 /**

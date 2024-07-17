@@ -145,7 +145,9 @@ function initAudioButtons(within = document) {
         el.closest(".jp") &&
         el.closest(".jp").dataset.isFirstSentence === "true"
       ) {
-        url = `${getAnkiPrefix()}/JP5000_sentence_${rank.toString().padStart(4, "0")}.mp3`;
+        url = `${getAnkiPrefix()}/JP5000_sentence_${rank
+          .toString()
+          .padStart(4, "0")}.mp3`;
       }
 
       try {
@@ -213,6 +215,17 @@ function expandSection(section) {
       ancestor = ancestor.parentElement;
     }
   }
+}
+
+/**
+ * Conjugation
+ */
+const conjugation = document.getElementById("conjugation");
+const conjugationText = conjugation.textContent;
+if (conjugationText.includes("らない") && conjugationText.includes("った")) {
+  conjugation.innerHTML = conjugationText
+    .replace(/らない・/g, "<b>ら</b>ない・")
+    .replace(/った$/g, "<b>っ</b>た");
 }
 
 /**
