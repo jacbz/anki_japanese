@@ -221,11 +221,13 @@ function expandSection(section) {
  * Conjugation
  */
 const conjugation = document.getElementById("conjugation");
-const conjugationText = conjugation.textContent;
-if (conjugationText.includes("らない") && conjugationText.includes("った")) {
-  conjugation.innerHTML = conjugationText
-    .replace(/らない・/g, "<b>ら</b>ない・")
-    .replace(/った$/g, "<b>っ</b>た");
+if (conjugation) {
+  const conjugationText = conjugation.textContent;
+  if (conjugationText.includes("らない") && conjugationText.includes("った")) {
+    conjugation.innerHTML = conjugationText
+      .replace(/らない・/g, "<b>ら</b>ない・")
+      .replace(/った$/g, "<b>っ</b>た");
+  }
 }
 
 /**

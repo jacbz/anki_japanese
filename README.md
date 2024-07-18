@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro Karte). 9 Karten haben eine Notiz.
+Insgesamt gibt es 4972 Karten mit 7077 Beispielsätzen (durchschnittlich 1.4 pro Karte). 9 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 10 | ます |  | HÖFLICH (nach Verb) | 1 |  | [Bearbeiten](cards/0010.yml) |
 | 11 | も |  | auch | 1 |  | [Bearbeiten](cards/0011.yml) |
 | 12 | で |  | in, bei, von, durch; also, dann | 2 |  | [Bearbeiten](cards/0012.yml) |
-| 13 | ている |  | FORTSETZUNG | 1 |  | [Bearbeiten](cards/0013.yml) |
+| 13 | ている |  | PROGRESSIV | 1 |  | [Bearbeiten](cards/0013.yml) |
 | 14 | です |  | KOPULA (höflich) | 1 |  | [Bearbeiten](cards/0014.yml) |
 | 15 | れる |  | PASSIV | 1 |  | [Bearbeiten](cards/0015.yml) |
 | 16 | という |  | namens | 1 |  | [Bearbeiten](cards/0016.yml) |
@@ -544,7 +544,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 523 | 規定 | きてい | Vorschrift | 1 |  | [Bearbeiten](cards/0523.yml) |
 | 524 | どちら |  | welche(r) | 1 |  | [Bearbeiten](cards/0524.yml) |
 | 525 | 中心 | ちゅうしん | Zentrum | 1 |  | [Bearbeiten](cards/0525.yml) |
-| 526 | 起こる | おこる | geschehen; aufkommen | 19 |  | [Bearbeiten](cards/0526.yml) |
+| 526 | 起こる | おこる | geschehen, passieren | 19 |  | [Bearbeiten](cards/0526.yml) |
 | 527 | 我々 | われわれ | wir | 1 |  | [Bearbeiten](cards/0527.yml) |
 | 528 | (お)母さん | (お)かあーさん | Mutter | 1 |  | [Bearbeiten](cards/0528.yml) |
 | 529 | 立てる | たてる | aufstellen, errichten | 1 |  | [Bearbeiten](cards/0529.yml) |
@@ -608,7 +608,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 588 | 企業 | きぎょう | Unternehmen, Geschäft | 1 |  | [Bearbeiten](cards/0588.yml) |
 | 589 | 奴 | やつ | Typ, Kerl | 1 |  | [Bearbeiten](cards/0589.yml) |
 | 590 | はっきり |  | deutlich, klar; bestimmt | 21 |  | [Bearbeiten](cards/0590.yml) |
-| 591 | 怖い | こわい | angsteinflößend; Angst haben | 5 |  | [Bearbeiten](cards/0591.yml) |
+| 591 | 怖い | こわい | angsteinflößend; Angst haben | 21 |  | [Bearbeiten](cards/0591.yml) |
 | 592 | 例 | れい | Beispiel | 1 |  | [Bearbeiten](cards/0592.yml) |
 | 593 | 絵 | え | Bild, Gemälde | 1 |  | [Bearbeiten](cards/0593.yml) |
 | 594 | 思い出す | おもいだす | sich erinnern | 1 |  | [Bearbeiten](cards/0594.yml) |
@@ -2420,7 +2420,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 2409 | にわたって |  | über einen Zeitraum von, während | 1 |  | [Bearbeiten](cards/2409.yml) |
 | 2410 | 廊下 | ろうか | Flur | 1 |  | [Bearbeiten](cards/2410.yml) |
 | 2411 | 要請 | ようせい | Anfrage | 1 |  | [Bearbeiten](cards/2411.yml) |
-| 2412 | （お）姉さん |  | ältere Schwester | 1 |  | [Bearbeiten](cards/2412.yml) |
+| 2412 | (お)姉さん | (お)ねえさん | ältere Schwester | 1 |  | [Bearbeiten](cards/2412.yml) |
 | 2413 | プログラム |  | Programm | 1 |  | [Bearbeiten](cards/2413.yml) |
 | 2414 | 職業 | しょくぎょう | Beruf, Gewerbe, Profession | 1 |  | [Bearbeiten](cards/2414.yml) |
 | 2415 | 限界 | げんかい | Grenze, Begrenzung | 1 |  | [Bearbeiten](cards/2415.yml) |
@@ -2546,7 +2546,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 2535 | 取材 | しゅざい | Interview, Bericht erstatten; Informationen sammeln | 1 |  | [Bearbeiten](cards/2535.yml) |
 | 2536 | ぶつかる |  | stoßen, prallen, kollidieren | 1 |  | [Bearbeiten](cards/2536.yml) |
 | 2537 | 曲がる | まがる | biegen, winden; abbiegen | 1 |  | [Bearbeiten](cards/2537.yml) |
-| 2538 | ては |  | Konj abwechselnd tun und  | 1 |  | [Bearbeiten](cards/2538.yml) |
+| 2538 | ては |  | abwechselnd tun und  | 1 |  | [Bearbeiten](cards/2538.yml) |
 | 2539 | 前年 | ぜんねん | Vorjahr | 1 |  | [Bearbeiten](cards/2539.yml) |
 | 2540 | 飽きる | あきる | müde werden, sich langweilen, genug haben von | 1 |  | [Bearbeiten](cards/2540.yml) |
 | 2541 | 三十日 | さんじゅうにち | dreißigster (Tag); dreißig Tage | 1 |  | [Bearbeiten](cards/2541.yml) |
@@ -2805,7 +2805,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 2796 | プレー |  | Spielen | 1 |  | [Bearbeiten](cards/2796.yml) |
 | 2797 | 進歩 | しんぽ | Fortschritt machen, vorankommen; Fortschritt, Vorankommen | 1 |  | [Bearbeiten](cards/2797.yml) |
 | 2798 | 百 | ひゃく | hundert | 1 |  | [Bearbeiten](cards/2798.yml) |
-| 2799 | （お）尻 | （お）しり | Gesäß | 1 |  | [Bearbeiten](cards/2799.yml) |
+| 2799 | (お)尻 | (お)しり | Gesäß | 1 |  | [Bearbeiten](cards/2799.yml) |
 | 2800 | 汚れる | よごれる | schmutzig werden, verschmutzen | 1 |  | [Bearbeiten](cards/2800.yml) |
 | 2801 | 産業 | さんぎょう | Industrie | 1 |  | [Bearbeiten](cards/2801.yml) |
 | 2802 | 前日 | ぜんじつ | Vortag, Tag zuvor | 1 |  | [Bearbeiten](cards/2802.yml) |
@@ -4685,7 +4685,7 @@ Insgesamt gibt es 4972 Karten mit 7061 Beispielsätzen (durchschnittlich 1.4 pro
 | 4679 | 食器 | しょっき | Geschirr | 1 |  | [Bearbeiten](cards/4679.yml) |
 | 4680 | 引き付ける | ひきつける | anziehen | 1 |  | [Bearbeiten](cards/4680.yml) |
 | 4681 | 深さ | ふかさ | Tiefe | 1 |  | [Bearbeiten](cards/4681.yml) |
-| 4682 | ～さん |  | Herr/Frau/Fräulein | 1 |  | [Bearbeiten](cards/4682.yml) |
+| 4682 | さん |  | Herr/Frau/Fräulein | 1 |  | [Bearbeiten](cards/4682.yml) |
 | 4683 | パスポート |  | Reisepass | 1 |  | [Bearbeiten](cards/4683.yml) |
 | 4684 | ぼろぼろ |  | zerfleddert, abgenutzt | 1 |  | [Bearbeiten](cards/4684.yml) |
 | 4685 | いつ頃 | いつごろ | um welche Zeit herum | 1 |  | [Bearbeiten](cards/4685.yml) |

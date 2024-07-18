@@ -83,7 +83,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Großvater: [(お)じいさん](cards/1406.yml) (#1406), [祖父](cards/2406.yml) (#2406)
 * Tür: [ドア](cards/1150.yml) (#1150), [扉](cards/2407.yml) (#2407)
 * Anfrage: [問い合わせ](cards/1915.yml) (#1915), [依頼](cards/2355.yml) (#2355), [要請](cards/2411.yml) (#2411)
-* ältere Schwester: [姉](cards/1399.yml) (#1399), [（お）姉さん](cards/2412.yml) (#2412)
+* ältere Schwester: [姉](cards/1399.yml) (#1399), [(お)姉さん](cards/2412.yml) (#2412)
 * jedenfalls, sowieso: [とにかく](cards/0381.yml) (#381), [何しろ](cards/2418.yml) (#2418)
 * wie, was: [どう](cards/0095.yml) (#95), [何と](cards/2419.yml) (#2419)
 * Politik: [政治](cards/1556.yml) (#1556), [政策](cards/2424.yml) (#2424)
