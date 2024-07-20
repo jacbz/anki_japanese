@@ -1,7 +1,7 @@
 Rang: 392
 Lemma: 残す
 Lesung: のこす
-Alternativschreibweisen: ''
+Alternativschreibweisen: 遺す
 Definition: etw. hinterlassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>の</span><span class="accent_top">こ</span><span>�
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 残さない・残した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,98 @@ Beispielsätze: |-
   留守番電話にメッセージを残した。
   留守番電話[るすばんでんわ]にメッセージを 残[のこ]した。
   Ich habe eine Nachricht auf dem Anrufbeantworter hinterlassen.
+
+  必要な物だけを残して、他は処分しましょう。
+  必要[ひつよう]な 物[もの]だけを 残[のこ]して、他[ほか]は 処分[しょぶん]しましょう。
+  Lass uns nur die notwendigen Dinge behalten und den Rest entsorgen.
+
+  お金を一円も残さず使ってしまった。
+  お 金[かね]を 一円[いちえん]も 残[のこ]さず 使[つか]ってしまった。
+  Ich habe das ganze Geld bis zum letzten Yen ausgegeben.
+
+  仕事を残したまま帰宅するのは良くないです。
+  仕事[しごと]を 残[のこ]したまま 帰宅[きたく]するのは 良[よ]くないです。
+  Es ist nicht gut, nach Hause zu gehen, ohne die Arbeit abzuschließen.
+
+  食事を残さず食べるのは良い習慣です。
+  食事[しょくじ]を 残[のこ]さず 食[た]べるのは 良[よ]い 習慣[しゅうかん]です。
+  Es ist eine gute Angewohnheit, das Essen aufzuessen, ohne etwas übrig zu lassen.
+
+  想像の余地を残す表現を使うと良いでしょう。
+  想像[そうぞう]の 余地[よち]を 残[のこ]す 表現[ひょうげん]を 使[つか]うと 良[よ]いでしょう。
+  Es ist gut, Ausdrücke zu verwenden, die Raum für Fantasie lassen.
+
+  飯を少し残して置いた方がいいよ。
+  飯[めし]を 少[すこ]し 残[のこ]して 置[お]いた 方[ほう]がいいよ。
+  Es ist besser, etwas Reis übrig zu lassen.
+
+  彼女の写真だけを残して、他は片付けた。
+  彼女[かのじょ]の 写真[しゃしん]だけを 残[のこ]して、他[ほか]は 片付[かたづ]けた。
+  Ich habe nur ihr Foto behalten und den Rest aufgeräumt.
+
+  この公園は、都会に自然の空間を残している。
+  この 公園[こうえん]は、都会[とかい]に 自然[しぜん]の 空間[くうかん]を 残[のこ]している。
+  Dieser Park bewahrt einen natürlichen Raum in der Stadt.
+
+  ドアは狭い隙間を残して閉じられていた。
+  ドアは 狭[せま]い 隙間[すきま]を 残[のこ]して 閉[と]じられていた。
+  Die Tür war bis auf einen schmalen Spalt geschlossen.
+
+  オフィスの窓は、一部を残して消灯された。
+  オフィスの 窓[まど]は、一部[いちぶ]を 残[のこ]して 消灯[しょうとう]された。
+  Die Fenster des Büros wurden gelöscht, bis auf einen Teil.
+
+  雪の中に足跡を残していった。
+  雪[ゆき]の 中[なか]に 足跡[あしあと]を 残[のこ]していった。
+  Er hinterließ Fußspuren im Schnee.
+
+  彼の言動は多くの人に疑問を残した。
+  彼[かれ]の 言動[げんどう]は 多[おお]くの 人[ひと]に 疑問[ぎもん]を 残[のこ]した。
+  Seine Worte und Taten hinterließen bei vielen Menschen Zweifel.
+
+  犬を家に残して出かけるのは心配だ。
+  犬[いぬ]を 家[いえ]に 残[のこ]して 出[で]かけるのは 心配[しんぱい]だ。
+  Ich mache mir Sorgen, wenn ich den Hund zu Hause lasse und weggehe.
+
+  メッセージを残してから、彼女は出て行った。
+  メッセージを 残[のこ]してから、彼女[かのじょ]は 出[で]て 行[い]った。
+  Sie hinterließ eine Nachricht, bevor sie ging.
+
+  荷物をホテルに残して観光に出かけた。
+  荷物[にもつ]をホテルに 残[のこ]して 観光[かんこう]に 出[で]かけた。
+  Ich ließ das Gepäck im Hotel und ging sightseeing.
+
+  彼は証拠を残さないよう注意深く行動した。
+  彼[かれ]は 証拠[しょうこ]を 残[のこ]さないよう 注意深[ちゅういぶか]く 行動[こうどう]した。
+  Er handelte vorsichtig, um keine Beweise zu hinterlassen.
+
+  部屋をそのまま残して、引っ越しした。
+  部屋[へや]をそのまま 残[のこ]して、引[ひ]っ 越[こ]しした。
+  Ich zog um und ließ das Zimmer so, wie es war.
+
+  彼は遺言を残さずに亡くなった。
+  彼[かれ]は 遺言[ゆいごん]を 残[のこ]さずに 亡[な]くなった。
+  Er starb, ohne ein Testament zu hinterlassen.
+
+  父は借金しか残さなかった。
+  父[ちち]は 借金[しゃっきん]しか 残[のこ]さなかった。
+  Mein Vater hinterließ nur Schulden.
+
+  豊かな自然を後世に残すことが大切だ。
+  豊[ゆた]かな 自然[しぜん]を 後世[こうせい]に 残[のこ]すことが 大切[たいせつ]だ。
+  Es ist wichtig, die reiche Natur für zukünftige Generationen zu bewahren.
+
+  夏休みまであと3週間を残すだけとなった。
+  夏休[なつやす]みまであと3週間[しゅうかん]を 残[のこ]すだけとなった。
+  Es sind nur noch drei Wochen bis zu den Sommerferien.
+
+  本を読み終えるまで、最後の数ページを残すのみとなった。
+  本[ほん]を 読[よ]み 終[お]えるまで、最後[さいご]の 数[すう]ページを 残[のこ]すのみとなった。
+  Es sind nur noch ein paar Seiten übrig, bis ich das Buch zu Ende gelesen habe.
+
+  相手の投げを残して、逆転勝ちした。
+  相手[あいて]の 投[な]げを 残[のこ]して、逆転[ぎゃくてん] 勝[か]ちした。
+  Er blockte den Wurf des Gegners ab und gewann durch eine Wende.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

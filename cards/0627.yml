@@ -2,14 +2,14 @@ Rang: 627
 Lemma: 通う
 Lesung: かよう
 Alternativschreibweisen: ''
-Definition: besuchen, pendeln
+Definition: pendeln; besuchen; verkehren
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">よ</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 通わない・通った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   大学に通っている。
   大学[だいがく]に 通[かよ]っている。
   Ich gehe zur Universität.
+
+  毎日大学に通うのは大変だけど、勉強のためには頑張らないと。
+  毎日[まいにち] 大学[だいがく]に 通[かよ]うのは 大変[たいへん]だけど、勉強[べんきょう]のためには 頑張[がんば]らないと。
+  Jeden Tag zur Uni zu pendeln ist anstrengend, aber ich muss mich für mein Studium anstrengen.
+
+  映画館に通って、最新の映画を見るのが趣味です。
+  映画館[えいがかん]に 通[かよ]って、最新[さいしん]の 映画[えいが]を 見[み]るのが 趣味[しゅみ]です。
+  Mein Hobby ist es, regelmäßig ins Kino zu gehen und die neuesten Filme zu sehen.
+
+  息子は毎朝7時に学校に通っています。
+  息子[むすこ]は 毎朝[まいあさ]7時[じ]に 学校[がっこう]に 通[かよ]っています。
+  Mein Sohn geht jeden Morgen um 7 Uhr zur Schule.
+
+  1時間かけて勤め先へ通うのは大変疲れるよ。
+  1時間[いちじかん]かけて 勤[つと]め 先[さき]へ 通[かよ]うのは 大変[たいへん] 疲[つか]れるよ。
+  Eine Stunde zur Arbeit zu pendeln ist sehr ermüdend.
+
+  このバスは空港から市内に通っているので便利です。
+  このバスは 空港[くうこう]から 市内[しない]に 通[かよ]っているので 便利[べんり]です。
+  Dieser Bus fährt vom Flughafen in die Innenstadt und ist daher praktisch.
+
+  ピアノのレッスンに通って、腕前が上がってきたね。
+  ピアノのレッスンに 通[かよ]って、腕前[うでまえ]が 上[あ]がってきたね。
+  Deine Fähigkeiten haben sich verbessert, seit du regelmäßig zum Klavierunterricht gehst.
+
+  よく通う喫茶店で、友達と待ち合わせをしました。
+  よく 通[かよ]う 喫茶店[きっさてん]で、友達[ともだち]と 待[ま]ち 合[あ]わせをしました。
+  Ich habe mich mit meinem Freund in dem Café getroffen, in das ich oft gehe.
+
+  病気を隠して工場へ通う彼女の健康が心配です。
+  病気[びょうき]を 隠[かく]して 工場[こうじょう]へ 通[かよ]う 彼女[かのじょ]の 健康[けんこう]が 心配[しんぱい]です。
+  Ich mache mir Sorgen um die Gesundheit meiner Freundin, die ihre Krankheit verheimlicht und zur Fabrik geht.
+
+  昼は美容室で働き、夜はジムに通っています。
+  昼[ひる]は 美容室[びようしつ]で 働[はたら]き、夜[よる]はジムに 通[かよ]っています。
+  Tagsüber arbeite ich im Friseursalon und abends gehe ich ins Fitnessstudio.
+
+  大学はM市にあるから、ここに住んで通うことにしたんだ。
+  大学[だいがく]はM市[し]にあるから、ここに 住[す]んで 通[かよ]うことにしたんだ。
+  Da meine Uni in der Stadt M ist, habe ich beschlossen, hier zu wohnen und zu pendeln.
+
+  昔はこの道路にバスが通っていなかったそうです。
+  昔[むかし]はこの 道路[どうろ]にバスが 通[かよ]っていなかったそうです。
+  Früher sollen auf dieser Straße keine Busse verkehrt haben.
+
+  学生時代によく通っていた店が、今でも変わらずにあるのを見て懐かしくなった。
+  学生時代[がくせいじだい]によく 通[かよ]っていた 店[みせ]が、今[いま]でも 変[か]わらずにあるのを 見[み]て 懐[なつ]かしくなった。
+  Ich wurde nostalgisch, als ich sah, dass der Laden, den ich als Student oft besucht hatte, immer noch unverändert da war.
+
+  倶知安からK村に通う国道は、美しい森林の中を通っています。
+  倶知安[くっちゃん]からK村[むら]に 通[かよ]う 国道[こくどう]は、美[うつく]しい 森林[しんりん]の 中[なか]を 通[とお]っています。
+  Die Nationalstraße von Kutchan nach Dorf K führt durch einen wunderschönen Wald.
+
+  この配線には電気が通っているので、触らないように注意してください。
+  この 配線[はいせん]には 電気[でんき]が 通[かよ]っているので、触[さわ]らないように 注意[ちゅうい]してください。
+  In dieser Verkabelung fließt Strom, also seien Sie vorsichtig und berühren Sie sie nicht.
+
+  息が通っていない部屋は、窓を開けて換気しましょう。
+  息[いき]が 通[かよ]っていない 部屋[へや]は、窓[まど]を 開[あ]けて 換気[かんき]しましょう。
+  In einem Raum ohne frische Luft sollten wir die Fenster öffnen und lüften.
+
+  彼らは意見が通っていて、いつもすぐに合意に達します。
+  彼[かれ]らは 意見[いけん]が 通[かよ]っていて、いつもすぐに 合意[ごうい]に 達[たっ]します。
+  Sie stimmen in ihren Meinungen überein und kommen immer schnell zu einer Einigung.
+
+  親子で血が通っているからか、考え方がよく似ています。
+  親子[おやこ]で 血[ち]が 通[かよ]っているからか、考[かんが]え 方[かた]がよく 似[に]ています。
+  Vielleicht weil wir verwandt sind, ähneln sich unsere Denkweisen sehr.
+
+  心が通う友達と話すと、気持ちが楽になります。
+  心[こころ]が 通[かよ]う 友達[ともだち]と 話[はな]すと、気持[きも]ちが 楽[らく]になります。
+  Wenn ich mit einem Freund spreche, mit dem ich mich gut verstehe, fühle ich mich besser.
+
+  彼らの作品には通うところがあり、同じ流派だと分かります。
+  彼[かれ]らの 作品[さくひん]には 通[かよ]うところがあり、同[おな]じ 流派[りゅうは]だと 分[わ]かります。
+  Ihre Werke haben Gemeinsamkeiten, und man kann erkennen, dass sie der gleichen Schule angehören.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>に</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 似ない・似た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   君はお父さんに似ている。
   君[きみ]はお 父[とう]さんに 似[に]ている。
   Du siehst deinem Vater ähnlich.
+
+  彼は父親によく似ている。
+  彼[かれ]は 父親[ちちおや]によく 似[に]ている。
+  Er ähnelt seinem Vater sehr.
+
+  その二人は間違えるほど似ています。
+  その 二人[ふたり]は 間違[まちが]えるほど 似[に]ています。
+  Die beiden sehen sich zum Verwechseln ähnlich.
+
+  彼女の声は母親にそっくりだ。
+  彼女[かのじょ]の 声[こえ]は 母親[ははおや]にそっくりだ。
+  Ihre Stimme gleicht der ihrer Mutter.
+
+  この絵は本物に似ているが、実は偽物だ。
+  この 絵[え]は 本物[ほんもの]に 似[に]ているが、実[じつ]は 偽物[にせもの]だ。
+  Dieses Bild ähnelt dem Original, ist aber tatsächlich eine Fälschung.
+
+  あの二人の性格は似ているね。
+  あの 二人[ふたり]の 性格[せいかく]は 似[に]ているね。
+  Die Persönlichkeiten der beiden sind sich ähnlich, nicht wahr?
+
+  いつもに似ず、今日は早く起きた。
+  いつもに 似[に]ず、今日[きょう]は 早[はや]く 起[お]きた。
+  Anders als sonst bin ich heute früh aufgestanden.
+
+  この映画は前作によく似ている。
+  この 映画[えいが]は 前作[ぜんさく]によく 似[に]ている。
+  Dieser Film ähnelt sehr dem vorherigen.
+
+  彼女の歌声は有名な歌手に似ている。
+  彼女[かのじょ]の 歌声[うたごえ]は 有名[ゆうめい]な 歌手[かしゅ]に 似[に]ている。
+  Ihre Singstimme ähnelt der eines berühmten Sängers.
+
+  この料理の味は母のものによく似ている。
+  この 料理[りょうり]の 味[あじ]は 母[はは]のものによく 似[に]ている。
+  Der Geschmack dieses Gerichts ähnelt sehr dem meiner Mutter.
+
+  この建物は古城に似ている。
+  この 建物[たてもの]は 古城[こじょう]に 似[に]ている。
+  Dieses Gebäude ähnelt einer alten Burg.
+
+  彼の行動は父親に似てきた。
+  彼[かれ]の 行動[こうどう]は 父親[ちちおや]に 似[に]てきた。
+  Sein Verhalten begann, dem seines Vaters zu ähneln.
+
+  この香りは懐かしい思い出に似ている。
+  この 香[かお]りは 懐[なつ]かしい 思い出[おもいで]に 似[に]ている。
+  Dieser Duft ähnelt einer nostalgischen Erinnerung.
+
+  その二つの単語は似ているが、意味が少し違う。
+  その 二[ふた]つの 単語[たんご]は 似[に]ているが、意味[いみ]が 少[すこ]し 違[ちが]う。
+  Die beiden Wörter ähneln sich, haben aber eine leicht unterschiedliche Bedeutung.
+
+  彼女の絵のスタイルはピカソに似ている。
+  彼女[かのじょ]の 絵[え]のスタイルはピカソに 似[に]ている。
+  Ihr Malstil ähnelt dem von Picasso.
+
+  この風景は故郷に似ている。
+  この 風景[ふうけい]は 故郷[こきょう]に 似[に]ている。
+  Diese Landschaft ähnelt meiner Heimat.
+
+  子どもの顔は両親に似るものだ。
+  子[こ]どもの 顔[かお]は 両親[りょうしん]に 似[に]るものだ。
+  Die Gesichter von Kindern ähneln oft denen ihrer Eltern.
+
+  この新しい携帯電話は以前のモデルによく似ている。
+  この 新[あたら]しい 携帯電話[けいたいでんわ]は 以前[いぜん]のモデルによく 似[に]ている。
+  Dieses neue Handy ähnelt sehr dem vorherigen Modell.
+
+  彼の話し方は有名な政治家に似ている。
+  彼[かれ]の 話[はな]し 方[かた]は 有名[ゆうめい]な 政治家[せいじか]に 似[に]ている。
+  Seine Art zu sprechen ähnelt der eines bekannten Politikers.
+
+  この小説のプロットは昔読んだ本に似ている。
+  この 小説[しょうせつ]のプロットは 昔[むかし] 読[よ]んだ 本[ほん]に 似[に]ている。
+  Die Handlung dieses Romans ähnelt einem Buch, das ich früher gelesen habe.
+
+  この猫の模様は虎に似ている。
+  この 猫[ねこ]の 模様[もよう]は 虎[とら]に 似[に]ている。
+  Das Muster dieser Katze ähnelt dem eines Tigers.
+
+  私の性格は母に似ているらしい。
+  私[わたし]の 性格[せいかく]は 母[はは]に 似[に]ているらしい。
+  Mein Charakter scheint dem meiner Mutter zu ähneln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

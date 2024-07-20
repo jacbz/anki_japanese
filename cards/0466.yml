@@ -4,12 +4,12 @@ Lesung: つれる
 Alternativschreibweisen: ''
 Definition: jemanden mitnehmen, begleiten
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">れ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '82'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 連れない・連れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   子供を公園へ連れて行った。
   子供[こども]を 公園[こうえん]へ 連[つ]れて 行[い]った。
   Ich habe meine Kinder in den Park mitgenommen.
+
+  友達を映画に連れて行きました。
+  友達[ともだち]を 映画[えいが]に 連[つ]れて 行[い]きました。
+  Ich habe meinen Freund ins Kino mitgenommen.
+
+  子供を動物園に連れていく予定です。
+  子供[こども]を 動物園[どうぶつえん]に 連[つ]れていく 予定[よてい]です。
+  Ich plane, die Kinder in den Zoo mitzunehmen.
+
+  彼女は犬を連れて毎朝散歩しています。
+  彼女[かのじょ]は 犬[いぬ]を 連[つ]れて 毎朝[まいあさ] 散歩[さんぽ]しています。
+  Sie geht jeden Morgen mit ihrem Hund spazieren.
+
+  両親に連れられて初めて海外旅行に行きました。
+  両親[りょうしん]に 連[つ]れられて 初[はじ]めて 海外旅行[かいがいりょこう]に 行[い]きました。
+  Zum ersten Mal bin ich mit meinen Eltern ins Ausland gereist.
+
+  彼は新しい彼女を友人の結婚式に連れて来ました。
+  彼[かれ]は 新[あたら]しい 彼女[かのじょ]を 友人[ゆうじん]の 結婚式[けっこんしき]に 連[つ]れて 来[き]ました。
+  Er brachte seine neue Freundin zur Hochzeit seines Freundes mit.
+
+  娘を連れて買い物に行くのが楽しみです。
+  娘[むすめ]を 連[つ]れて 買い物[かいもの]に 行[い]くのが 楽[たの]しみです。
+  Ich freue mich darauf, mit meiner Tochter einkaufen zu gehen.
+
+  彼らは子供たちを連れて公園でピクニックをしました。
+  彼[かれ]らは 子供[こども]たちを 連[つ]れて 公園[こうえん]でピクニックをしました。
+  Sie machten mit ihren Kindern ein Picknick im Park.
+
+  社長は新入社員を連れて取引先を訪問しました。
+  社長[しゃちょう]は 新入社員[しんにゅうしゃいん]を 連[つ]れて 取引先[とりひきさき]を 訪問[ほうもん]しました。
+  Der Geschäftsführer besuchte mit den neuen Mitarbeitern einen Geschäftspartner.
+
+  祖母を連れて病院に行かなければなりません。
+  祖母[そぼ]を 連[つ]れて 病院[びょういん]に 行[い]かなければなりません。
+  Ich muss meine Großmutter ins Krankenhaus bringen.
+
+  友人を連れて故郷に帰ることにしました。
+  友人[ゆうじん]を 連[つ]れて 故郷[こきょう]に 帰[かえ]ることにしました。
+  Ich habe beschlossen, mit meinem Freund in meine Heimatstadt zurückzukehren.
+
+  彼女は息子を連れて実家に戻りました。
+  彼女[かのじょ]は 息子[むすこ]を 連[つ]れて 実家[じっか]に 戻[もど]りました。
+  Sie kehrte mit ihrem Sohn in ihr Elternhaus zurück.
+
+  先生は生徒たちを連れて美術館を見学しました。
+  先生[せんせい]は 生徒[せいと]たちを 連[つ]れて 美術館[びじゅつかん]を 見学[けんがく]しました。
+  Der Lehrer besichtigte mit den Schülern das Kunstmuseum.
+
+  彼は妹を連れて買い物に出かけました。
+  彼[かれ]は 妹[いもうと]を 連[つ]れて 買い物[かいもの]に 出[で]かけました。
+  Er ging mit seiner jüngeren Schwester einkaufen.
+
+  年を取るにつれて、記憶力が衰えてきました。
+  年[とし]を 取[と]るにつれて、記憶力[きおくりょく]が 衰[おとろ]えてきました。
+  Mit zunehmendem Alter hat mein Gedächtnis nachgelassen.
+
+  経験を積むにつれて、仕事の効率が上がってきました。
+  経験[けいけん]を 積[つ]むにつれて、仕事[しごと]の 効率[こうりつ]が 上[あ]がってきました。
+  Je mehr Erfahrung ich sammle, desto effizienter werde ich bei der Arbeit.
+
+  時間が経つにつれて、彼女の気持ちは変わっていきました。
+  時間[じかん]が 経[た]つにつれて、彼女[かのじょ]の 気持[きも]ちは 変[か]わっていきました。
+  Im Laufe der Zeit änderten sich ihre Gefühle.
+
+  技術が進歩するにつれて、生活様式も変化しています。
+  技術[ぎじゅつ]が 進歩[しんぽ]するにつれて、生活様式[せいかつようしき]も 変化[へんか]しています。
+  Mit dem technologischen Fortschritt verändert sich auch unser Lebensstil.
+
+  季節が変わるにつれて、街の景色も変化していきます。
+  季節[きせつ]が 変[か]わるにつれて、街[まち]の 景色[けしき]も 変化[へんか]していきます。
+  Mit dem Wechsel der Jahreszeiten verändert sich auch das Stadtbild.
+
+  練習を重ねるにつれて、演奏の腕前が上がってきました。
+  練習[れんしゅう]を 重[かさ]ねるにつれて、演奏[えんそう]の 腕前[うでまえ]が 上[あ]がってきました。
+  Je mehr ich übe, desto besser wird mein Spiel.
+
+  夜が更けるにつれて、街の喧騒は静まっていきました。
+  夜[よる]が 更[ふ]けるにつれて、街[まち]の 喧騒[けんそう]は 静[しず]まっていきました.
+  Je später es wurde, desto ruhiger wurde der Lärm in der Stadt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

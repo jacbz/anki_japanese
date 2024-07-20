@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">こ</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 運ばない・運んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この荷物を車に運んでください。
   この 荷物[にもつ]を 車[くるま]に 運[はこ]んでください。
   Bitte transportieren Sie dieses Gepäck zum Auto.
+
+  荷物を車で運びます。
+  荷物[にもつ]を 車[くるま]で 運[はこ]びます。
+  Ich transportiere das Gepäck mit dem Auto.
+
+  スープを運んできてください。
+  スープを 運[はこ]んできてください。
+  Bringen Sie bitte die Suppe.
+
+  女性が食事を運んできた。
+  女性[じょせい]が 食事[しょくじ]を 運[はこ]んできた。
+  Die Frau brachte das Essen.
+
+  段ボールの箱を運送屋さんまで運んでくれる？
+  段ボール[だんボール]の 箱[はこ]を 運送屋[うんそうや]さんまで 運[はこ]んでくれる？
+  Könntest du die Kartons zum Paketdienst bringen?
+
+  筆を運んで、手紙を書いています。
+  筆[ふで]を 運[はこ]んで、手紙[てがみ]を 書[か]いています。
+  Ich führe den Pinsel und schreibe einen Brief.
+
+  晩山は何も言わず、ときどき杯を口に運んだ。
+  晩山[ばんざん]は 何[なに]も 言[い]わず、ときどき 杯[さかずき]を 口[くち]に 運[はこ]んだ。
+  Banzan sagte nichts und führte nur gelegentlich den Becher zum Mund.
+
+  交渉を上手に運ぶことが大切です。
+  交渉[こうしょう]を 上手[じょうず]に 運[はこ]ぶことが 大切[たいせつ]です。
+  Es ist wichtig, die Verhandlungen geschickt zu führen.
+
+  このプロジェクトは順調に運んでいます。
+  このプロジェクトは 順調[じゅんちょう]に 運[はこ]んでいます。
+  Dieses Projekt verläuft planmäßig.
+
+  事態は思ったようには運ばなかった。
+  事態[じたい]は 思[おも]ったようには 運[はこ]ばなかった。
+  Die Situation entwickelte sich nicht wie erwartet.
+
+  計画通りに事が運べば、成功は間違いないでしょう。
+  計画通[けいかくどお]りに 事[こと]が 運[はこ]べば、成功[せいこう]は 間違[まちが]いないでしょう。
+  Wenn alles nach Plan verläuft, wird der Erfolg sicher sein.
+
+  荷物を手で運ぶのは大変だった。
+  荷物[にもつ]を 手[て]で 運[はこ]ぶのは 大変[たいへん]だった。
+  Es war anstrengend, das Gepäck mit den Händen zu tragen.
+
+  風が落ち葉を遠くまで運んでいった。
+  風[かぜ]が 落ち葉[おちば]を 遠[とお]くまで 運[はこ]んでいった。
+  Der Wind verwehte die abgefallenen Blätter in die Ferne.
+
+  川が土砂を下流まで運んでいる。
+  川[かわ]が 土砂[どしゃ]を 下流[かりゅう]まで 運[はこ]んでいる。
+  Der Fluss führt Sedimente flussabwärts mit sich.
+
+  針を運びながら、丁寧に縫い物をしています。
+  針[はり]を 運[はこ]びながら、丁寧[ていねい]に 縫い物[ぬいもの]をしています。
+  Ich führe die Nadel und nähe sorgfältig.
+
+  彼女は匙を口へ運びながら、ゆっくり食事をした。
+  彼女[かのじょ]は 匙[さじ]を 口[くち]へ 運[はこ]びながら、ゆっくり 食事[しょくじ]をした。
+  Sie aß langsam, während sie den Löffel zum Mund führte.
+
+  このイベントがうまく運ぶことを願っています。
+  このイベントがうまく 運[はこ]ぶことを 願[ねが]っています。
+  Ich hoffe, dass diese Veranstaltung gut verläuft.
+
+  話し合いがすらすらと運んで、早く結論が出た。
+  話し合[はなしあ]いがすらすらと 運[はこ]んで、早[はや]く 結論[けつろん]が 出[で]た。
+  Die Diskussion verlief reibungslos, und wir kamen schnell zu einem Ergebnis.
+
+  彼は足を運んで、直接謝罪しに行った。
+  彼[かれ]は 足[あし]を 運[はこ]んで、直接[ちょくせつ] 謝罪[しゃざい]しに 行[い]った。
+  Er ging persönlich hin, um sich zu entschuldigen.
+
+  重い荷物を2階まで運ぶのを手伝ってくれませんか。
+  重[おも]い 荷物[にもつ]を2階[にかい]まで 運[はこ]ぶのを 手伝[てつだ]ってくれませんか。
+  Könntest du mir helfen, das schwere Gepäck in den zweiten Stock zu tragen?
+
+  救急車が患者を病院まで運んだ。
+  救急車[きゅうきゅうしゃ]が 患者[かんじゃ]を 病院[びょういん]まで 運[はこ]んだ。
+  Der Krankenwagen brachte den Patienten ins Krankenhaus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 296
 Lemma: 生きる
 Lesung: いきる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 活きる
 Definition: leben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_top">き</span><span>�
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 生きない・生きた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   九十歳まで生きる人は多くない。
   九十 歳[さい]まで 生[い]きる人は 多[おお]くない。
   Es gibt nicht viele Menschen, die bis neunzig Jahre alt werden.
+
+  彼は美術に生きている。
+  彼[かれ]は 美術[びじゅつ]に 生[い]きている。
+  Er lebt für die Kunst.
+
+  現代を生きることは挑戦的だ。
+  現代[げんだい]を 生[い]きることは 挑戦的[ちょうせんてき]だ。
+  In der heutigen Zeit zu leben ist herausfordernd.
+
+  彼女は百歳まで生きたいと言っている。
+  彼女[かのじょ]は 百歳[ひゃくさい]まで 生[い]きたいと 言[い]っている。
+  Sie sagt, sie möchte hundert Jahre alt werden.
+
+  私たちは今、生きているということに感謝すべきだ。
+  私[わたし]たちは 今[いま]、生[い]きているということに 感謝[かんしゃ]すべきだ。
+  Wir sollten dankbar sein, dass wir jetzt am Leben sind.
+
+  生きている間に一度は世界一周旅行がしたい。
+  生[い]きている 間[あいだ]に 一度[いちど]は 世界一周[せかいいっしゅう] 旅行[りょこう]がしたい。
+  Ich möchte einmal im Leben eine Weltreise machen.
+
+  希望に生きることで、困難を乗り越えられる。
+  希望[きぼう]に 生[い]きることで、困難[こんなん]を 乗[の]り 越[こ]えられる。
+  Indem man in Hoffnung lebt, kann man Schwierigkeiten überwinden.
+
+  彼は子供のために生きていると言った。
+  彼[かれ]は 子供[こども]のために 生[い]きていると 言[い]った。
+  Er sagte, er lebe für seine Kinder.
+
+  祖父はまだ生きているが、介護が必要だ。
+  祖父[そふ]はまだ 生[い]きているが、介護[かいご]が 必要[ひつよう]だ。
+  Mein Großvater lebt noch, braucht aber Pflege.
+
+  彼女は乱世を生き抜いた強い人だ。
+  彼女[かのじょ]は 乱世[らんせい]を 生[い]き 抜[ぬ]いた 強[つよ]い 人[ひと]だ。
+  Sie ist eine starke Person, die schwere Zeiten durchlebt hat.
+
+  利子で生きていくのは難しくなってきた。
+  利子[りし]で 生[い]きていくのは 難[むずか]しくなってきた。
+  Es ist schwieriger geworden, von Zinsen zu leben.
+
+  海に生きる人々の生活は厳しいものだ。
+  海[うみ]に 生[い]きる 人々[ひとびと]の 生活[せいかつ]は 厳[きび]しいものだ。
+  Das Leben der Menschen, die vom Meer leben, ist hart.
+
+  彼らはかろうじて生きてゆくのが精一杯だ。
+  彼[かれ]らはかろうじて 生[い]きてゆくのが 精一杯[せいいっぱい]だ。
+  Sie fristen gerade so ein kümmerliches Dasein.
+
+  わしもまだ二三年は生きる積りじゃ。
+  わしもまだ 二三年[にさんねん]は 生[い]きる 積[つも]りじゃ。
+  Auch ich gedenke noch zwei, drei Jahre zu leben.
+
+  子供を生きたまま危険な場所に置き去りにするなんて許せない。
+  子供[こども]を 生[い]きたまま 危険[きけん]な 場所[ばしょ]に 置[お]き 去[ざ]りにするなんて 許[ゆる]せない。
+  Es ist unverzeihlich, Kinder bei lebendigem Leibe an einem gefährlichen Ort zurückzulassen.
+
+  まるで誰か別の人間の人生を生きてきたような気がする。
+  まるで 誰[だれ]か 別[べつ]の 人間[にんげん]の 人生[じんせい]を 生[い]きてきたような 気[き]がする。
+  Mir ist, als hätte ich das Leben eines anderen Menschen geführt.
+
+  古い習慣がまだ生きている地域もある。
+  古[ふる]い 習慣[しゅうかん]がまだ 生[い]きている 地域[ちいき]もある。
+  Es gibt noch Gegenden, in denen alte Sitten weiterhin existieren.
+
+  この法律はまだ生きているが、時代遅れだと批判されている。
+  この 法律[ほうりつ]はまだ 生[い]きているが、時代遅[じだいおく]れだと 批判[ひはん]されている。
+  Dieses Gesetz gilt noch, wird aber als veraltet kritisiert.
+
+  海は生きているから、私たちはそれを大切にしなければならない。
+  海[うみ]は 生[い]きているから、私[わたし]たちはそれを 大切[たいせつ]にしなければならない。
+  Das Meer lebt, daher müssen wir es schützen.
+
+  スポーツでは、ボールが生きているうちにプレーを続ける。
+  スポーツでは、ボールが 生[い]きているうちにプレーを 続[つづ]ける。
+  Beim Sport spielt man weiter, solange der Ball im Spiel ist.
+
+  敵の失策で生きたボールを活かして得点した。
+  敵[てき]の 失策[しっさく]で 生[い]きたボールを 活[い]かして 得点[とくてん]した。
+  Wir nutzten den Fehler des Gegners aus und erzielten einen Punkt mit dem Ball, der im Spiel blieb.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

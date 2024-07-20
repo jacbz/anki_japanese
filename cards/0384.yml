@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>も</span><span class="accent_top">ど</span><span>�
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 戻らない・戻った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,46 @@ Beispielsätze: |-
   一時までに学校へ戻らなければならない。
   一時[いちじ]までに 学校[がっこう]へ 戻[もど]らなければならない。
   Ich muss bis 13 Uhr zur Schule zurückkehren.
+
+  本を貸した友達に「そろそろ戻してほしいんだけど」と言った。
+  本[ほん]を 貸[か]した 友達[ともだち]に「そろそろ 戻[もど]してほしいんだけど」と 言[い]った。
+  Ich sagte meinem Freund, dem ich das Buch geliehen hatte: "Ich hätte es langsam gerne zurück."
+
+  長い会議の後、やっと本題に戻りました。
+  長[なが]い 会議[かいぎ]の 後[あと]、やっと 本題[ほんだい]に 戻[もど]りました。
+  Nach einer langen Besprechung sind wir endlich zum eigentlichen Thema zurückgekehrt.
+
+  迷子になった子供が、元来た道を戻って家に帰りました。
+  迷子[まいご]になった 子供[こども]が、元[もと] 来[き]た 道[みち]を 戻[もど]って 家[いえ]に 帰[かえ]りました。
+  Das verirrte Kind ging den Weg, den es gekommen war, zurück nach Hause.
+
+  彼は禁酒を誓ったのに、また元の習慣に戻ってしまった。
+  彼[かれ]は 禁酒[きんしゅ]を 誓[ちか]ったのに、また 元[もと]の 習慣[しゅうかん]に 戻[もど]ってしまった。
+  Obwohl er geschworen hatte, keinen Alkohol mehr zu trinken, ist er in seine alten Gewohnheiten zurückgefallen.
+
+  具合が悪くなったので、寝床に戻ることにした。
+  具合[ぐあい]が 悪[わる]くなったので、寝床[ねどこ]に 戻[もど]ることにした。
+  Da es mir schlecht ging, beschloss ich, wieder ins Bett zu gehen.
+
+  警官に「二、三歩戻ってください」と言われた。
+  警官[けいかん]に「二[に]、三歩[さんぽ] 戻[もど]ってください」と 言[い]われた。
+  Der Polizist sagte mir: "Bitte treten Sie ein paar Schritte zurück."
+
+  楽しい旅行から戻ってきて、日常生活に戻るのが大変だ。
+  楽[たの]しい 旅行[りょこう]から 戻[もど]ってきて、日常生活[にちじょうせいかつ]に 戻[もど]るのが 大変[たいへん]だ。
+  Es ist schwierig, nach einer schönen Reise in den Alltag zurückzukehren.
+
+  トイレに行っていた彼女が席に戻ってきた。
+  トイレに 行[い]っていた 彼女[かのじょ]が 席[せき]に 戻[もど]ってきた。
+  Sie kam von der Toilette zurück und setzte sich wieder auf ihren Platz.
+
+  彼の話を聞いていると、夢と現実を行きつ戻りつしているような気分になる。
+  彼[かれ]の 話[はなし]を 聞[き]いていると、夢[ゆめ]と 現実[げんじつ]を 行[い]きつ 戻[もど]りつしているような 気分[きぶん]になる。
+  Wenn ich ihm zuhöre, fühle ich mich, als würde ich zwischen Traum und Wirklichkeit hin- und herpendeln.
+
+  「品子ももう直ぐ戻りまっしゃろか？」と母が心配そうに聞いてきた。
+  「 品子[しなこ]ももう 直[す]ぐ 戻[もど]りまっしゃろか？」と 母[はは]が 心配[しんぱい]そうに 聞[き]いてきた。
+  "Glaubst du, Shinako kommt bald zurück?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

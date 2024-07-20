@@ -1,7 +1,7 @@
 Rang: 163
 Lemma: 書く
 Lesung: かく
-Alternativschreibweisen: ''
+Alternativschreibweisen: 描く・画く
 Definition: schreiben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">か</span><span>く</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 書かない・書いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   名前と住所を書くのを忘れずに。
   名前[なまえ]と 住所[じゅうしょ]を 書[か]くのを 忘[わす]れずに。
   Vergewissere dich, dass du deinen Namen und deine Adresse schreibst.
+
+  縦に名前を書いてください。
+  縦[たて]に 名前[なまえ]を 書[か]いてください。
+  Bitte schreiben Sie Ihren Namen vertikal.
+
+  ボールペンで申込書を書いてもらえますか。
+  ボールペンで 申込書[もうしこみしょ]を 書[か]いてもらえますか。
+  Könnten Sie das Anmeldeformular bitte mit einem Kugelschreiber ausfüllen?
+
+  紙に住所を書いてください。
+  紙[かみ]に 住所[じゅうしょ]を 書[か]いてください。
+  Schreiben Sie bitte Ihre Adresse auf das Papier.
+
+  ドイツ語で手紙を書くのは難しいです。
+  ドイツ 語[ご]で 手紙[てがみ]を 書[か]くのは 難[むずか]しいです。
+  Es ist schwierig, einen Brief auf Deutsch zu schreiben.
+
+  名前を仮名で書くことはできますか。
+  名前[なまえ]を 仮名[かな]で 書[か]くことはできますか。
+  Können Sie Ihren Namen in Kana schreiben?
+
+  毎週、家族に手紙を書いています。
+  毎週[まいしゅう]、家族[かぞく]に 手紙[てがみ]を 書[か]いています。
+  Ich schreibe jede Woche einen Brief an meine Familie.
+
+  日記を書くことで、自分の考えを整理できます。
+  日記[にっき]を 書[か]くことで、自分[じぶん]の 考[かんが]えを 整理[せいり]できます。
+  Durch das Schreiben eines Tagebuchs kann ich meine Gedanken ordnen.
+
+  彼は有名な小説を書いた作家だ。
+  彼[かれ]は 有名[ゆうめい]な 小説[しょうせつ]を 書[か]いた 作家[さっか]だ。
+  Er ist ein Schriftsteller, der einen berühmten Roman geschrieben hat.
+
+  雑誌に記事を書くのが私の仕事です。
+  雑誌[ざっし]に 記事[きじ]を 書[か]くのが 私[わたし]の 仕事[しごと]です。
+  Meine Arbeit ist es, Artikel für Zeitschriften zu schreiben.
+
+  小切手を書くときは、金額を間違えないように注意してください。
+  小切手[こぎって]を 書[か]くときは、金額[きんがく]を 間違[まちが]えないように 注意[ちゅうい]してください。
+  Achten Sie beim Ausstellen eines Schecks darauf, den Betrag nicht falsch zu schreiben.
+
+  領収書を書いてもらえませんか。
+  領収書[りょうしゅうしょ]を 書[か]いてもらえませんか。
+  Könnten Sie mir bitte eine Quittung ausstellen?
+
+  彼女は字が上手に書けるね。
+  彼女[かのじょ]は 字[じ]が 上手[じょうず]に 書[か]けるね。
+  Sie kann wirklich gut schreiben, nicht wahr?
+
+  何を書いたらいいか、書く種がないよ。
+  何[なに]を 書[か]いたらいいか、書[か]く 種[たね]がないよ。
+  Ich weiß nicht, was ich schreiben soll. Mir fällt nichts ein.
+
+  住所を書いてもらえますか。
+  住所[じゅうしょ]を 書[か]いてもらえますか。
+  Könnten Sie bitte Ihre Adresse aufschreiben?
+
+  油絵を書くのが彼の趣味だ。
+  油絵[あぶらえ]を 書[か]くのが 彼[かれ]の 趣味[しゅみ]だ。
+  Ölgemälde zu malen ist sein Hobby.
+
+  地図を書いて、道順を説明してください。
+  地図[ちず]を 書[か]いて、道順[みちじゅん]を 説明[せつめい]してください。
+  Zeichnen Sie bitte eine Karte und erklären Sie mir den Weg.
+
+  息子は漫画を書くのが得意です。
+  息子[むすこ]は 漫画[まんが]を 書[か]くのが 得意[とくい]です。
+  Mein Sohn ist gut darin, Mangas zu zeichnen.
+
+  この紙に黒の十字を書いてください。
+  この 紙[かみ]に 黒[くろ]の 十字[じゅうじ]を 書[か]いてください。
+  Zeichnen Sie bitte ein schwarzes Kreuz auf dieses Papier.
+
+  被害届を書くように警官に言われました。
+  被害届[ひがいとどけ]を 書[か]くように 警官[けいかん]に 言[い]われました。
+  Der Polizist forderte mich auf, eine Anzeige zu schreiben.
+
+  棚の上に座って請求書を書いています。
+  棚[たな]の 上[うえ]に 座[すわ]って 請求書[せいきゅうしょ]を 書[か]いています。
+  Ich sitze auf dem Regal und schreibe eine Rechnung.
+
+  遺書を書くために新しい紙が必要です。
+  遺書[いしょ]を 書[か]くために 新[あたら]しい 紙[かみ]が 必要[ひつよう]です。
+  Ich brauche frisches Papier, um mein Testament zu schreiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 358
 Lemma: 覚える
 Lesung: おぼえる
-Alternativschreibweisen: ''
-Definition: etwas lernen, merken
+Alternativschreibweisen: 憶える
+Definition: sich merken; lernen; fühlen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">ぼ</span><span class="accent_top">え</span><span>る</span>
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 覚えない・覚えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   酔っ払っていて、昨夜のことは何も覚えていない。
   酔[よ]っ 払[ぱら]っていて、 昨夜[さくや]のことは 何[なに]も 覚[おぼ]えていない。
   Ich erinnere mich an nichts von gestern Abend, weil ich betrunken war.
+
+  電話番号を覚えるのに、よい方法はありますか。
+  電話番号[でんわばんごう]を 覚[おぼ]えるのに、よい 方法[ほうほう]はありますか。
+  Haben Sie einen guten Tipp, wie man sich Telefonnummern merken kann?
+
+  顔を覚えるのが苦手で、よく人を間違えてしまいます。
+  顔[かお]を 覚[おぼ]えるのが 苦手[にがて]で、よく 人[ひと]を 間違[まちが]えてしまいます。
+  Ich bin schlecht darin, mir Gesichter zu merken, und verwechsle oft Leute.
+
+  数を覚えるのが得意な彼は、暗算も速いです。
+  数[かず]を 覚[おぼ]えるのが 得意[とくい]な 彼[かれ]は、暗算[あんざん]も 速[はや]いです。
+  Er ist gut darin, sich Zahlen zu merken, und kann auch schnell im Kopf rechnen.
+
+  この単語は覚えやすいので、すぐに使えるようになりました。
+  この 単語[たんご]は 覚[おぼ]えやすいので、すぐに 使[つか]えるようになりました。
+  Dieses Wort ist leicht zu merken, also konnte ich es schnell anwenden.
+
+  昨日の出来事を全然覚えていないんだ。飲みすぎたのかな。
+  昨日[きのう]の 出来事[できごと]を 全然[ぜんぜん] 覚[おぼ]えていないんだ。飲[の]みすぎたのかな。
+  Ich kann mich überhaupt nicht an die gestrigen Ereignisse erinnern. Habe ich wohl zu viel getrunken?
+
+  自分の覚えているところでは、彼女は去年ここで働いていたはずです。
+  自分[じぶん]の 覚[おぼ]えているところでは、彼女[かのじょ]は 去年[きょねん]ここで 働[はたら]いていたはずです。
+  Soweit ich mich erinnere, sollte sie letztes Jahr hier gearbeitet haben.
+
+  子供の頃の思い出をぼんやり覚えています。
+  子供[こども]の 頃[ころ]の 思い出[おもいで]をぼんやり 覚[おぼ]えています。
+  Ich erinnere mich vage an meine Kindheitserinnerungen.
+
+  初めて会った日のことを、今でもはっきり覚えています。
+  初[はじ]めて 会[あ]った 日[ひ]のことを、今[いま]でもはっきり 覚[おぼ]えています。
+  Ich erinnere mich noch genau an den Tag, an dem wir uns zum ersten Mal trafen.
+
+  重要な約束は必ず覚えておくようにしています。
+  重要[じゅうよう]な 約束[やくそく]は 必[かなら]ず 覚[おぼ]えておくようにしています。
+  Ich versuche, mir wichtige Versprechen immer zu merken.
+
+  弓子はよく見て、しっかりと覚えようとした。
+  弓子[ゆみこ]はよく 見[み]て、しっかりと 覚[おぼ]えようとした。
+  Yumiko schaute genau hin und versuchte, sich alles gut einzuprägen.
+
+  アルファベットを覚えるのに、歌を使うと効果的です。
+  アルファベットを 覚[おぼ]えるのに、歌[うた]を 使[つか]うと 効果的[こうかてき]です。
+  Es ist effektiv, Lieder zu verwenden, um das Alphabet zu lernen.
+
+  英語を覚えるには、毎日少しずつ勉強するのが一番です。
+  英語[えいご]を 覚[おぼ]えるには、毎日[まいにち] 少[すこ]しずつ 勉強[べんきょう]するのが 一番[いちばん]です。
+  Um Englisch zu lernen, ist es am besten, jeden Tag ein bisschen zu studieren.
+
+  ケーキの作り方を覚えたので、今度みんなに振る舞いたいです。
+  ケーキの 作[つく]り方[かた]を 覚[おぼ]えたので、今度[こんど]みんなに 振る舞[ふるま]いたいです。
+  Ich habe gelernt, wie man einen Kuchen backt, also möchte ich das nächste Mal allen einen servieren.
+
+  車の運転を覚えるのに、半年かかりました。
+  車[くるま]の 運転[うんてん]を 覚[おぼ]えるのに、半年[はんとし]かかりました。
+  Es hat ein halbes Jahr gedauert, bis ich das Autofahren gelernt hatte.
+
+  酒の味を覚えてから、たまに飲むようになりました。
+  酒[さけ]の 味[あじ]を 覚[おぼ]えてから、たまに 飲[の]むようになりました。
+  Nachdem ich den Geschmack von Alkohol kennengelernt habe, trinke ich gelegentlich.
+
+  正直、ここに居残り、言葉も覚え、さまざまなものを見聞きしたいです。
+  正直[しょうじき]、ここに 居残[いのこ]り、言葉[ことば]も 覚[おぼ]え、さまざまなものを 見聞[けんぶん]きしたいです。
+  Ehrlich gesagt, ich würde gerne hier bleiben, die Sprache lernen und verschiedene Dinge sehen und hören.
+
+  痛みを覚えたら、すぐに医者に相談してください。
+  痛[いた]みを 覚[おぼ]えたら、すぐに 医者[いしゃ]に 相談[そうだん]してください。
+  Wenn Sie Schmerzen verspüren, konsultieren Sie bitte sofort einen Arzt.
+
+  悲しみを覚えた時、友達が支えてくれました。
+  悲[かな]しみを 覚[おぼ]えた 時[とき]、友達[ともだち]が 支[ささ]えてくれました。
+  Als ich Trauer empfand, unterstützten mich meine Freunde.
+
+  長時間の作業で疲れを覚えたら、休憩を取りましょう。
+  長時間[ちょうじかん]の 作業[さぎょう]で 疲[つか]れを 覚[おぼ]えたら、休憩[きゅうけい]を 取[と]りましょう。
+  Wenn Sie nach langer Arbeit Müdigkeit verspüren, machen Sie eine Pause.
+
+  卒業式で感慨を覚え、涙が出そうになりました。
+  卒業式[そつぎょうしき]で 感慨[かんがい]を 覚[おぼ]え、涙[なみだ]が 出[で]そうになりました。
+  Bei der Abschlussfeier war ich so bewegt, dass mir fast die Tränen kamen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

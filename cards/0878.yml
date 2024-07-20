@@ -1,7 +1,7 @@
 Rang: 878
 Lemma: 至る
 Lesung: いたる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 到る
 Definition: führen zu, gelangen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_top">た</span><span>�
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 至らない・至った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この道は日本橋に至る。
   この 道[みち]は 日本橋[にほんばし]に 至[いた]る。
   Diese Straße führt nach Nihonbashi.
+
+  私たちは長い道のりを経て、ついに目的地に至りました。
+  私[わたし]たちは 長[なが]い 道[みち]のりを 経[へ]て、ついに 目的地[もくてきち]に 至[いた]りました。
+  Nach einer langen Reise sind wir endlich an unserem Ziel angekommen.
+
+  この道は山頂に至るまで急な坂が続いています。
+  この 道[みち]は 山頂[さんちょう]に 至[いた]るまで 急[きゅう]な 坂[さか]が 続[つづ]いています。
+  Dieser Weg führt in einem steilen Anstieg bis zum Gipfel.
+
+  歴史的な出来事は現在に至るまで影響を与え続けています。
+  歴史的[れきしてき]な 出来事[できごと]は 現在[げんざい]に 至[いた]るまで 影響[えいきょう]を 与[あた]え 続[つづ]けています。
+  Historische Ereignisse haben bis in die Gegenwart hinein Auswirkungen.
+
+  この伝統は古代から今日に至るまで受け継がれています。
+  この 伝統[でんとう]は 古代[こだい]から 今日[こんにち]に 至[いた]るまで 受[う]け 継[つ]がれています。
+  Diese Tradition wird seit der Antike bis zum heutigen Tag weitergegeben.
+
+  彼の影響力は国境を越えて、遠く海外にまで至っています。
+  彼[かれ]の 影響力[えいきょうりょく]は 国境[こっきょう]を 越[こ]えて、遠[とお]く 海外[かいがい]にまで 至[いた]っています。
+  Sein Einfluss reicht über die Landesgrenzen hinaus bis ins ferne Ausland.
+
+  この問題は最終的に裁判所で争うに至りました。
+  この 問題[もんだい]は 最終的[さいしゅうてき]に 裁判所[さいばんしょ]で 争[あらそ]うに 至[いた]りました。
+  Diese Angelegenheit führte schließlich dazu, dass vor Gericht gestritten wurde.
+
+  長年の研究の末、彼はついに画期的な発見に至りました。
+  長年[ながねん]の 研究[けんきゅう]の 末[すえ]、彼[かれ]はついに 画期的[かっきてき]な 発見[はっけん]に 至[いた]りました。
+  Nach jahrelanger Forschung gelangte er endlich zu einer bahnbrechenden Entdeckung.
+
+  彼らの関係は徐々に悪化し、最後には別れるに至ったのです。
+  彼[かれ]らの 関係[かんけい]は 徐々[じょじょ]に 悪化[あっか]し、最後[さいご]には 別[わか]れるに 至[いた]ったのです。
+  Ihre Beziehung verschlechterte sich allmählich, bis es schließlich zur Trennung kam.
+
+  この技術の発展は、私たちの生活を大きく変えるに至りました。
+  この 技術[ぎじゅつ]の 発展[はってん]は、私[わたし]たちの 生活[せいかつ]を 大[おお]きく 変[か]えるに 至[いた]りました。
+  Die Entwicklung dieser Technologie hat dazu geführt, dass sich unser Leben grundlegend verändert hat.
+
+  彼女の努力は、ついに夢の実現に至る道を開きました。
+  彼女[かのじょ]の 努力[どりょく]は、ついに 夢[ゆめ]の 実現[じつげん]に 至[いた]る 道[みち]を 開[ひら]きました。
+  Ihre Anstrengungen haben schließlich den Weg zur Verwirklichung ihres Traumes geebnet.
+
+  このプロジェクトは、多くの困難を乗り越えて、ようやく完成に至りました。
+  この プロジェクトは、多[おお]くの 困難[こんなん]を 乗[の]り 越[こ]えて、ようやく 完成[かんせい]に 至[いた]りました。
+  Dieses Projekt wurde nach Überwindung vieler Schwierigkeiten endlich fertiggestellt.
+
+  彼の健康状態は悪化の一途を辿り、ついに入院に至りました。
+  彼[かれ]の 健康状態[けんこうじょうたい]は 悪化[あっか]の 一途[いっと]を 辿[たど]り、ついに 入院[にゅういん]に 至[いた]りました。
+  Sein Gesundheitszustand verschlechterte sich stetig, bis er schließlich ins Krankenhaus eingeliefert werden musste.
+
+  長い議論の末、全員が合意に至るまでには時間がかかりました。
+  長[なが]い 議論[ぎろん]の 末[すえ]、全員[ぜんいん]が 合意[ごうい]に 至[いた]るまでには 時間[じかん]がかかりました。
+  Nach langen Diskussionen dauerte es eine Weile, bis alle zu einer Einigung kamen.
+
+  この道路は海岸に至るまで続いており、絶景が楽しめます。
+  この 道路[どうろ]は 海岸[かいがん]に 至[いた]るまで 続[つづ]いており、絶景[ぜっけい]が 楽[たの]しめます。
+  Diese Straße führt bis zur Küste und bietet atemberaubende Aussichten.
+
+  彼らの友情は、長年の付き合いを経て、深い信頼関係に至りました。
+  彼[かれ]らの 友情[ゆうじょう]は、長年[ながねん]の 付[つ]き 合[あ]いを 経[へ]て、深[ふか]い 信頼関係[しんらいかんけい]に 至[いた]りました。
+  Ihre Freundschaft entwickelte sich durch jahrelangen Umgang zu einer tiefen Vertrauensbeziehung.
+
+  この本は第10章に至るまで、興味深い内容が続いています。
+  この 本[ほん]は 第[だい]10章[しょう]に 至[いた]るまで、興味深[きょうみぶか]い 内容[ないよう]が 続[つづ]いています。
+  Dieses Buch bleibt bis zum 10. Kapitel durchgehend interessant.
+
+  彼女の才能は、若くして国際的な成功に至るまでになりました。
+  彼女[かのじょ]の 才能[さいのう]は、若[わか]くして 国際的[こくさいてき]な 成功[せいこう]に 至[いた]るまでになりました。
+  Ihr Talent führte sie schon in jungen Jahren zu internationalem Erfolg.
+
+  この問題は、最終的に両者の妥協に至るまで解決しませんでした。
+  この 問題[もんだい]は、最終的[さいしゅうてき]に 両者[りょうしゃ]の 妥協[だきょう]に 至[いた]るまで 解決[かいけつ]しませんでした。
+  Dieses Problem wurde erst gelöst, als beide Seiten schließlich einen Kompromiss erreichten.
+
+  彼の理論は、多くの議論を経て、最終的に広く受け入れられるに至りました。
+  彼[かれ]の 理論[りろん]は、多[おお]くの 議論[ぎろん]を 経[へ]て、最終的[さいしゅうてき]に 広[ひろ]く 受[う]け 入[い]れられるに 至[いた]りました。
+  Seine Theorie wurde nach vielen Debatten schließlich weithin akzeptiert.
+
+  この事件の真相は、長い捜査の末、ようやく明らかになるに至りました。
+  この 事件[じけん]の 真相[しんそう]は、長[なが]い 捜査[そうさ]の 末[すえ]、ようやく 明[あき]らかになるに 至[いた]りました。
+  Die Wahrheit hinter diesem Vorfall kam nach langen Ermittlungen endlich ans Licht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

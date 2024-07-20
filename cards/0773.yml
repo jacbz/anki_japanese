@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">と</span><span 
 Register: ''
 Dispersion: '53'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 基づかない・基づいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この話は私の経験に基づいている。
   この 話[はなし]は 私[わたし]たちの 経験[けいけん]に 基づ[もとず]いている。
   Diese Geschichte basiert auf unseren eigenen Erfahrungen.
+
+  この方針は最新の研究結果に基づいています。
+  この 方針[ほうしん]は 最新[さいしん]の 研究結果[けんきゅうけっか]に 基[もと]づいています。
+  Diese Richtlinie basiert auf den neuesten Forschungsergebnissen.
+
+  彼の意見は事実に基づいていないと思う。
+  彼[かれ]の 意見[いけん]は 事実[じじつ]に 基[もと]づいていないと 思[おも]う。
+  Ich denke, seine Meinung beruht nicht auf Tatsachen.
+
+  この判決は憲法に基づいて下されました。
+  この 判決[はんけつ]は 憲法[けんぽう]に 基[もと]づいて 下[くだ]されました。
+  Dieses Urteil wurde auf Grundlage der Verfassung gefällt.
+
+  彼女の行動は誤解に基づいているようだ。
+  彼女[かのじょ]の 行動[こうどう]は 誤解[ごかい]に 基[もと]づいているようだ。
+  Ihr Verhalten scheint auf einem Missverständnis zu beruhen.
+
+  この小説は実際の出来事に基づいて書かれたんだ。
+  この 小説[しょうせつ]は 実際[じっさい]の 出来事[できごと]に 基[もと]づいて 書[か]かれたんだ。
+  Dieser Roman wurde auf Grundlage tatsächlicher Ereignisse geschrieben.
+
+  医師の診断に基づいて治療計画を立てましょう。
+  医師[いし]の 診断[しんだん]に 基[もと]づいて 治療計画[ちりょうけいかく]を 立[た]てましょう。
+  Lassen Sie uns einen Behandlungsplan auf Basis der Diagnose des Arztes erstellen.
+
+  この製品は顧客のフィードバックに基づいて改良されました。
+  この 製品[せいひん]は 顧客[こきゃく]のフィードバックに 基[もと]づいて 改良[かいりょう]されました。
+  Dieses Produkt wurde basierend auf Kundenfeedback verbessert.
+
+  彼はデータに基づかない主張をしているね。
+  彼[かれ]はデータに 基[もと]づかない 主張[しゅちょう]をしているね。
+  Er macht Behauptungen, die nicht auf Daten basieren.
+
+  この政策は科学的証拠に基づいていますか？
+  この 政策[せいさく]は 科学的[かがくてき] 証拠[しょうこ]に 基[もと]づいていますか？
+  Basiert diese Politik auf wissenschaftlichen Beweisen?
+
+  私たちは経験に基づいて意思決定をしています。
+  私[わたし]たちは 経験[けいけん]に 基[もと]づいて 意思決定[いしけってい]をしています。
+  Wir treffen Entscheidungen auf Grundlage unserer Erfahrungen.
+
+  この理論は長年の観察に基づいています。
+  この 理論[りろん]は 長年[ながねん]の 観察[かんさつ]に 基[もと]づいています。
+  Diese Theorie basiert auf jahrelangen Beobachtungen.
+
+  彼女の発言は誤った情報に基づいているようです。
+  彼女[かのじょ]の 発言[はつげん]は 誤[あやま]った 情報[じょうほう]に 基[もと]づいているようです。
+  Ihre Aussagen scheinen auf falschen Informationen zu beruhen.
+
+  この建物は伝統的な日本建築に基づいて設計されました。
+  この 建物[たてもの]は 伝統的[でんとうてき]な 日本建築[にほんけんちく]に 基[もと]づいて 設計[せっけい]されました。
+  Dieses Gebäude wurde auf Grundlage traditioneller japanischer Architektur entworfen.
+
+  彼らの主張は信頼できる証拠に基づいていない。
+  彼[かれ]らの 主張[しゅちょう]は 信頼[しんらい]できる 証拠[しょうこ]に 基[もと]づいていない。
+  Ihre Behauptungen beruhen nicht auf verlässlichen Beweisen.
+
+  この契約は相互の信頼関係に基づいています。
+  この 契約[けいやく]は 相互[そうご]の 信頼関係[しんらいかんけい]に 基[もと]づいています。
+  Dieser Vertrag basiert auf einer gegenseitigen Vertrauensbeziehung.
+
+  彼の成功は努力と才能に基づいていると言えるでしょう。
+  彼[かれ]の 成功[せいこう]は 努力[どりょく]と 才能[さいのう]に 基[もと]づいていると 言[い]えるでしょう。
+  Man kann sagen, dass sein Erfolg auf harter Arbeit und Talent beruht.
+
+  この結論は十分な調査に基づいていますか？
+  この 結論[けつろん]は 十分[じゅうぶん]な 調査[ちょうさ]に 基[もと]づいていますか？
+  Basiert diese Schlussfolgerung auf ausreichenden Untersuchungen?
+
+  新しい法律に基づいて、会社の方針を変更する必要があります。
+  新[あたら]しい 法律[ほうりつ]に 基[もと]づいて、会社[かいしゃ]の 方針[ほうしん]を 変更[へんこう]する 必要[ひつよう]があります。
+  Aufgrund des neuen Gesetzes müssen wir die Unternehmenspolitik ändern.
+
+  この予測は過去のデータに基づいています。
+  この 予測[よそく]は 過去[かこ]のデータに 基[もと]づいています。
+  Diese Prognose basiert auf Daten aus der Vergangenheit.
+
+  彼女の小説は自身の経験に基づいているらしい。
+  彼女[かのじょ]の 小説[しょうせつ]は 自身[じしん]の 経験[けいけん]に 基[もと]づいているらしい。
+  Ihre Romane scheinen auf ihren eigenen Erfahrungen zu beruhen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">っ</span><span 
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 発生しない・発生した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   交通事故が発生した。
   交通事故[こうつうじこ]が 発生[はっせい]した。
   Es ist ein Verkehrsunfall aufgetreten.
+
+  新型ウイルスの発生源を特定する調査が行われています。
+  新型[しんがた]ウイルスの 発生源[はっせいげん]を 特定[とくてい]する 調査[ちょうさ]が 行[おこな]われています。
+  Es wird eine Untersuchung durchgeführt, um die Quelle des neuen Virus zu identifizieren.
+
+  地震発生時の避難経路を確認しておきましょう。
+  地震[じしん] 発生時[はっせいじ]の 避難[ひなん] 経路[けいろ]を 確認[かくにん]しておきましょう。
+  Lasst uns die Fluchtwege für den Fall eines Erdbebens überprüfen.
+
+  この地域では珍しい病気が発生しています。
+  この 地域[ちいき]では 珍[めずら]しい 病気[びょうき]が 発生[はっせい]しています。
+  In dieser Region tritt eine seltene Krankheit auf.
+
+  交通事故の発生率を下げるための対策を講じる必要がある。
+  交通事故[こうつうじこ]の 発生率[はっせいりつ]を 下[さ]げるための 対策[たいさく]を 講[こう]じる 必要[ひつよう]がある。
+  Es müssen Maßnahmen ergriffen werden, um die Häufigkeit von Verkehrsunfällen zu reduzieren.
+
+  森林火災の発生を防ぐため、キャンプファイヤーは禁止されています。
+  森林火災[しんりんかさい]の 発生[はっせい]を 防[ふせ]ぐため、キャンプファイヤーは 禁止[きんし]されています。
+  Um Waldbrände zu verhindern, sind Lagerfeuer verboten.
+
+  新しい技術の発生により、産業界に革命が起きた。
+  新[あたら]しい 技術[ぎじゅつ]の 発生[はっせい]により、産業界[さんぎょうかい]に 革命[かくめい]が 起[お]きた。
+  Das Aufkommen neuer Technologien hat eine Revolution in der Industrie ausgelöst.
+
+  台風の発生に備えて、非常食を準備しておこう。
+  台風[たいふう]の 発生[はっせい]に 備[そな]えて、非常食[ひじょうしょく]を 準備[じゅんび]しておこう。
+  Lass uns Notfallvorräte vorbereiten, um für den Fall eines Taifuns gerüstet zu sein.
+
+  温室効果ガスの発生を抑えるため、再生可能エネルギーの利用を促進しています。
+  温室効果[おんしつこうか]ガスの 発生[はっせい]を 抑[おさ]えるため、再生可能[さいせいかのう]エネルギーの 利用[りよう]を 促進[そくしん]しています。
+  Um die Entstehung von Treibhausgasen zu reduzieren, wird die Nutzung erneuerbarer Energien gefördert.
+
+  この地域では毎年夏になると蚊の大量発生が問題になる。
+  この 地域[ちいき]では 毎年[まいとし] 夏[なつ]になると 蚊[か]の 大量発生[たいりょうはっせい]が 問題[もんだい]になる。
+  In dieser Region wird die massenhafte Vermehrung von Mücken jeden Sommer zum Problem.
+
+  異常気象の発生頻度が近年増加している。
+  異常気象[いじょうきしょう]の 発生[はっせい] 頻度[ひんど]が 近年[きんねん] 増加[ぞうか]している。
+  Die Häufigkeit von extremen Wetterereignissen hat in den letzten Jahren zugenommen.
+
+  雷雲が発生しているので、屋外での活動は控えてください。
+  雷雲[らいうん]が 発生[はっせい]しているので、屋外[おくがい]での 活動[かつどう]は 控[ひか]えてください。
+  Da sich Gewitterwolken bilden, bitten wir Sie, Aktivitäten im Freien zu vermeiden.
+
+  新製品の発生により、市場に大きな変化が起こった。
+  新製品[しんせいひん]の 発生[はっせい]により、市場[しじょう]に 大[おお]きな 変化[へんか]が 起[お]こった。
+  Das Erscheinen eines neuen Produkts hat große Veränderungen auf dem Markt bewirkt.
+
+  この装置は電気を発生させる役割を果たしています。
+  この 装置[そうち]は 電気[でんき]を 発生[はっせい]させる 役割[やくわり]を 果[は]たしています。
+  Dieses Gerät erfüllt die Funktion, Strom zu erzeugen.
+
+  ストレスが発生する原因を特定し、対処法を見つけることが大切だ。
+  ストレスが 発生[はっせい]する 原因[げんいん]を 特定[とくてい]し、対処法[たいしょほう]を 見[み]つけることが 大切[たいせつ]だ。
+  Es ist wichtig, die Ursachen für Stress zu identifizieren und Bewältigungsstrategien zu finden.
+
+  火山の噴火が発生し、周辺地域に避難勧告が出された。
+  火山[かざん]の 噴火[ふんか]が 発生[はっせい]し、周辺[しゅうへん] 地域[ちいき]に 避難[ひなん] 勧告[かんこく]が 出[だ]された。
+  Nach dem Ausbruch des Vulkans wurde für die umliegenden Gebiete eine Evakuierungsempfehlung ausgegeben.
+
+  発生学の研究により、生物の成長過程がより詳しく解明された。
+  発生学[はっせいがく]の 研究[けんきゅう]により、生物[せいぶつ]の 成長[せいちょう] 過程[かてい]がより 詳[くわ]しく 解明[かいめい]された。
+  Durch die Forschung in der Entwicklungsbiologie wurden die Wachstumsprozesse von Organismen detaillierter aufgeklärt.
+
+  この機械は振動を発生させるので、使用時は注意が必要です。
+  この 機械[きかい]は 振動[しんどう]を 発生[はっせい]させるので、使用時[しようじ]は 注意[ちゅうい]が 必要[ひつよう]です。
+  Da diese Maschine Vibrationen erzeugt, ist bei der Verwendung Vorsicht geboten.
+
+  新しい文化の発生は、しばしば社会に大きな影響を与える。
+  新[あたら]しい 文化[ぶんか]の 発生[はっせい]は、しばしば 社会[しゃかい]に 大[おお]きな 影響[えいきょう]を 与[あた]える。
+  Das Entstehen einer neuen Kultur hat oft einen großen Einfluss auf die Gesellschaft.
+
+  この現象の発生メカニズムについてはまだ完全には解明されていません。
+  この 現象[げんしょう]の 発生[はっせい]メカニズムについてはまだ 完全[かんぜん]には 解明[かいめい]されていません。
+  Der Mechanismus, der diesem Phänomen zugrunde liegt, ist noch nicht vollständig geklärt.
+
+  事故発生時の対応手順を全従業員に周知徹底する必要がある。
+  事故[じこ] 発生時[はっせいじ]の 対応[たいおう] 手順[てじゅん]を 全[ぜん] 従業員[じゅうぎょういん]に 周知徹底[しゅうちてってい]する 必要[ひつよう]がある。
+  Es ist notwendig, alle Mitarbeiter gründlich über die Verfahren im Falle eines Unfalls zu informieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

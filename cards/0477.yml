@@ -1,15 +1,15 @@
 Rang: 477
 Lemma: 経つ
 Lesung: たつ
-Alternativschreibweisen: ''
-Definition: vergehen, vorbeigehen
+Alternativschreibweisen: 立つ
+Definition: vergehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">た</span><span>つ</span>
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 経たない・経った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼が死んでから十年経つ。
   彼[かれ]が 死[し]んでから十 年[ねん] 経[た]つ。
   Zehn Jahre sind vergangen, seit er gestorben ist.
+
+  時が経つのが早いですね。
+  時[とき]が 経[た]つのが 早[はや]いですね。
+  Die Zeit vergeht wirklich schnell.
+
+  年月が経つにつれて、人は変わるものだ。
+  年月[ねんげつ]が 経[た]つにつれて、人[ひと]は 変[か]わるものだ。
+  Im Laufe der Jahre verändern sich Menschen.
+
+  一週間経てば、結果が分かるはずです。
+  一週間[いっしゅうかん] 経[た]てば、結果[けっか]が 分[わ]かるはずです。
+  Nach einer Woche sollten wir die Ergebnisse haben.
+
+  時間が経てば経つほど、不安になってきた。
+  時間[じかん]が 経[た]てば 経[た]つほど、不安[ふあん]になってきた。
+  Je mehr Zeit verging, desto nervöser wurde ich.
+
+  10分も経たないうちに、彼は戻ってきた。
+  10分[じゅっぷん]も 経[た]たないうちに、彼[かれ]は 戻[もど]ってきた。
+  Er kam zurück, noch bevor zehn Minuten vergangen waren.
+
+  三年経ってから、やっと故郷に帰ることができた。
+  三年[さんねん] 経[た]ってから、やっと 故郷[こきょう]に 帰[かえ]ることができた。
+  Erst nach drei Jahren konnte ich endlich in meine Heimat zurückkehren.
+
+  少し経ってから、もう一度試してみよう。
+  少[すこ]し 経[た]ってから、もう 一度[いちど] 試[ため]してみよう。
+  Lass uns es nach einer Weile noch einmal versuchen.
+
+  いつまで経っても届かない荷物に苛立ちを覚えた。
+  いつまで 経[た]っても 届[とど]かない 荷物[にもつ]に 苛立[いらだ]ちを 覚[おぼ]えた。
+  Ich wurde ungeduldig über das Paket, das einfach nicht ankam, egal wie lange ich wartete.
+
+  あれからもう何年も経っているのに、まだ覚えている。
+  あれからもう 何年[なんねん]も 経[た]っているのに、まだ 覚[おぼ]えている。
+  Obwohl schon so viele Jahre vergangen sind, erinnere ich mich noch daran.
+
+  時間を経たせることで、ワインの味が良くなる。
+  時間[じかん]を 経[た]たせることで、ワインの 味[あじ]が 良[よ]くなる。
+  Indem man den Wein reifen lässt, verbessert sich sein Geschmack.
+
+  此所へ来てからまだ一ヵ月経つか、経たないうちに、急に世のなかを物騒に思い出した。
+  此所[ここ]へ 来[き]てからまだ 一ヵ月[いっかげつ] 経[た]つか、経[た]たないうちに、急[きゅう]に 世[よ]のなかを 物騒[ぶっそう]に 思[おも]い 出[だ]した。
+  Kaum einen Monat, nachdem ich hierher gekommen war, begann ich plötzlich, die Welt als unsicher wahrzunehmen.
+
+  行くには行きますが、もう少し経ってから改めて行った方がいいと思います。
+  行[い]くには 行[い]きますが、もう 少[すこ]し 経[た]ってから 改[あらた]めて 行[い]った 方[ほう]がいいと 思[おも]います。
+  Ich werde zwar hingehen, aber ich denke, es wäre besser, noch etwas zu warten und dann erneut zu gehen.
+
+  いつまで経ってもその作業は終わらない。
+  いつまで 経[た]ってもその 作業[さぎょう]は 終[お]わらない。
+  Diese Arbeit scheint kein Ende zu nehmen, egal wie viel Zeit vergeht.
+
+  どうやら、脱ぎ捨ててから、まだあまり間が経っていないらしい。
+  どうやら、脱[ぬ]ぎ 捨[す]ててから、まだあまり 間[ま]が 経[た]っていないらしい。
+  Es scheint, als wäre noch nicht viel Zeit vergangen, seit sie sich ausgezogen hat.
+
+  卒業してから5年経ったけど、まだ同窓会には行ってないな。
+  卒業[そつぎょう]してから5年[ねん] 経[た]ったけど、まだ 同窓会[どうそうかい]には 行[い]ってないな。
+  Obwohl seit dem Abschluss fünf Jahre vergangen sind, war ich noch nicht beim Klassentreffen.
+
+  日が経つにつれて、怪我の痛みは和らいでいった。
+  日[ひ]が 経[た]つにつれて、怪我[けが]の 痛[いた]みは 和[やわ]らいでいった。
+  Mit der Zeit ließ der Schmerz der Verletzung nach.
+
+  結婚してから10年経ったので、記念日を祝おうと思う。
+  結婚[けっこん]してから10年[ねん] 経[た]ったので、記念日[きねんび]を 祝[いわ]おうと 思[おも]う。
+  Da seit unserer Heirat 10 Jahre vergangen sind, möchte ich unseren Jahrestag feiern.
+
+  長い時間が経ったように感じたが、実際は数分しか経っていなかった。
+  長[なが]い 時間[じかん]が 経[た]ったように 感[かん]じたが、実際[じっさい]は 数分[すうふん]しか 経[た]っていなかった。
+  Es fühlte sich an, als wäre viel Zeit vergangen, aber tatsächlich waren es nur ein paar Minuten.
+
+  彼と別れてから半年経ったけど、まだ忘れられない。
+  彼[かれ]と 別[わか]れてから 半年[はんとし] 経[た]ったけど、まだ 忘[わす]れられない。
+  Obwohl seit unserer Trennung ein halbes Jahr vergangen ist, kann ich ihn noch nicht vergessen.
+
+  締め切りまであと3日しか経っていないのに、もう焦っている。
+  締[し]め 切[き]りまであと3日[みっか]しか 経[た]っていないのに、もう 焦[あせ]っている。
+  Obwohl noch drei Tage bis zur Frist sind, bin ich schon nervös.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

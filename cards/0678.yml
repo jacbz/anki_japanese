@@ -2,14 +2,14 @@ Rang: 678
 Lemma: 含める
 Lesung: ふくめる
 Alternativschreibweisen: ''
-Definition: einschließen, hinzufügen
+Definition: einschließen, einbeziehen; klarmachen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ふ</span><span class="accent_plain">く</span><span class="accent_top">め</span><span>る</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 含めない・含めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   費用は食費を含めて5万円です。
   費用[ひよう]は 食費[しょくひ]を 含[ふく]めて5 万[まん] 円[えん]です。
   Die Kosten betragen 50.000 Yen, einschließlich der Lebensmittel.
+
+  この価格には消費税を含めています。
+  この 価格[かかく]には 消費税[しょうひぜい]を 含[ふく]めています。
+  Dieser Preis enthält die Mehrwertsteuer.
+
+  ホームに人影はなく、列車の乗客も僕を含めて四人だった。
+  ホームに 人影[ひとかげ]はなく、列車[れっしゃ]の 乗客[じょうきゃく]も 僕[ぼく]を 含[ふく]めて 四人[よにん]だった。
+  Auf dem Bahnsteig war keine Menschenseele zu sehen, und im ganzen Zug saßen nur vier Personen – mich eingeschlossen.
+
+  話を元に戻せば、馬も含めて全員が無事で帰ってきたのさ。
+  話[はなし]を 元[もと]に 戻[もど]せば、馬[うま]も 含[ふく]めて 全員[ぜんいん]が 無事[ぶじ]で 帰[かえ]ってきたのさ。
+  Um auf das Thema zurückzukommen – alle, einschließlich des Pferdes, kamen wohlbehalten zurück.
+
+  かつての暴走族仲間を含め、交友関係が洗われた。
+  かつての 暴走族[ぼうそうぞく]仲間[なかま]を 含[ふく]め、交友関係[こうゆうかんけい]が 洗[あら]われた。
+  Alle seine Bekannten, einschließlich seiner ehemaligen Rockerbande-Freunde, wurden überprüft.
+
+  今夜も含めてこれで四日間あなたはアンジェリーナのところへ行った。
+  今夜[こんや]も 含[ふく]めてこれで 四日間[よっかかん]あなたはアンジェリーナのところへ 行[い]った。
+  Den heutigen Abend mitgerechnet, warst du nun vier Tage hintereinander bei Angelina.
+
+  費用を含めた総額を教えてください。
+  費用[ひよう]を 含[ふく]めた 総額[そうがく]を 教[おし]えてください。
+  Bitte nennen Sie mir den Gesamtbetrag einschließlich aller Kosten.
+
+  経費を含めて予算を立てる必要があります。
+  経費[けいひ]を 含[ふく]めて 予算[よさん]を 立[た]てる 必要[ひつよう]があります。
+  Wir müssen ein Budget erstellen, das die Spesen mit einschließt.
+
+  彼の給料には残業代も含めて計算されています。
+  彼[かれ]の 給料[きゅうりょう]には 残業代[ざんぎょうだい]も 含[ふく]めて 計算[けいさん]されています。
+  Sein Gehalt wird einschließlich der Überstunden berechnet.
+
+  このパッケージには送料を含めた料金が表示されています。
+  このパッケージには 送料[そうりょう]を 含[ふく]めた 料金[りょうきん]が 表示[ひょうじ]されています。
+  Auf diesem Paket ist der Preis inklusive Versandkosten angegeben.
+
+  彼は予が詩集を贈らざりしに怨恨を含める一人なるべし。
+  彼[かれ]は 予[よ]が 詩集[ししゅう]を 贈[おく]らざりしに 怨恨[えんこん]を 含[ふく]める 一人[ひとり]なるべし。
+  Er wird wohl einer derjenigen sein, die mir grollen, weil ich ihnen meine Gedichtsammlung nicht geschenkt habe.
+
+  この青く清らにて物問ひたげに愁を含める目。
+  この 青[あお]く 清[きよ]らにて 物問[ものと]ひたげに 愁[うれ]いを 含[ふく]める 目[め]。
+  Diese blauen, klaren Augen mit ihrem fragenden, von Traurigkeit erfüllten Blick.
+
+  上司は部下に仕事の重要性を含めて説明した。
+  上司[じょうし]は 部下[ぶか]に 仕事[しごと]の 重要性[じゅうようせい]を 含[ふく]めて 説明[せつめい]した。
+  Der Vorgesetzte erklärte seinen Untergebenen die Aufgabe und machte ihnen dabei die Wichtigkeit klar.
+
+  親は子供に危険性を含めて注意を与えた。
+  親[おや]は 子供[こども]に 危険性[きけんせい]を 含[ふく]めて 注意[ちゅうい]を 与[あた]えた。
+  Die Eltern wiesen ihre Kinder zurecht und machten ihnen dabei die Gefahren bewusst.
+
+  彼女は友人に将来の計画を含めて相談した。
+  彼女[かのじょ]は 友人[ゆうじん]に 将来[しょうらい]の 計画[けいかく]を 含[ふく]めて 相談[そうだん]した。
+  Sie besprach mit ihrem Freund ihre Zukunftspläne und bezog ihn dabei mit ein.
+
+  教師は生徒に試験の重要性を含めて勉強の仕方を教えた。
+  教師[きょうし]は 生徒[せいと]に 試験[しけん]の 重要性[じゅうようせい]を 含[ふく]めて 勉強[べんきょう]の 仕方[しかた]を 教[おし]えた。
+  Der Lehrer brachte den Schülern bei, wie man lernt, und verdeutlichte dabei die Wichtigkeit der Prüfungen.
+
+  医者は患者に治療法を含めて病状を説明した。
+  医者[いしゃ]は 患者[かんじゃ]に 治療法[ちりょうほう]を 含[ふく]めて 病状[びょうじょう]を 説明[せつめい]した。
+  Der Arzt erklärte dem Patienten seinen Gesundheitszustand und ging dabei auch auf die Behandlungsmethoden ein.
+
+  母親は赤ちゃんに優しく語りかけながら、哺乳瓶を口に含めた。
+  母親[ははおや]は 赤[あか]ちゃんに 優[やさ]しく 語[かた]りかけながら、哺乳瓶[ほにゅうびん]を 口[くち]に 含[ふく]めた。
+  Die Mutter sprach sanft zu ihrem Baby, während sie ihm die Flasche in den Mund gab.
+
+  祖母は孫にあめを含めてやった。
+  祖母[そぼ]は 孫[まご]にあめを 含[ふく]めてやった。
+  Die Großmutter gab ihrem Enkelkind einen Bonbon in den Mund.
+
+  彼は口に水を含めてうがいをした。
+  彼[かれ]は 口[くち]に 水[みず]を 含[ふく]めてうがいをした。
+  Er nahm Wasser in den Mund und gurgelte damit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

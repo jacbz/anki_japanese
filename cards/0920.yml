@@ -2,9 +2,9 @@ Rang: 920
 Lemma: 危険
 Lesung: きけん
 Alternativschreibweisen: ''
-Definition: Gefahr, Risiko, gefährlich
+Definition: Gefahr, Risiko; gefährlich
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">け</span><span class="accent_plain">ん</span>
 Register: ''
 Dispersion: '99'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   一人でそこに行くのは危険です。
   一人でそこに 行[い]くのは 危険[きけん]です。
   Es ist gefährlich, allein dorthin zu gehen.
+
+  危険防止の対策を講じることが重要です。
+  危険[きけん]防止[ぼうし]の 対策[たいさく]を 講[こう]じることが 重要[じゅうよう]です。
+  Es ist wichtig, Maßnahmen zur Gefahrenverhütung zu ergreifen.
+
+  この地域は危険地帯に指定されています。
+  この 地域[ちいき]は 危険[きけん]地帯[ちたい]に 指定[してい]されています。
+  Dieses Gebiet wurde als Gefahrenzone ausgewiesen.
+
+  山登りには常に危険が伴うものだ。
+  山登[やまのぼ]りには 常[つね]に 危険[きけん]が 伴[ともな]うものだ。
+  Bergsteigen ist immer mit Gefahren verbunden.
+
+  彼は危険を冒して人命救助に向かった。
+  彼[かれ]は 危険[きけん]を 冒[おか]して 人命救助[じんめいきゅうじょ]に 向[む]かった。
+  Er riskierte sein Leben, um andere zu retten.
+
+  危険な状況に陥らないよう、十分注意してください。
+  危険[きけん]な 状況[じょうきょう]に 陥[おちい]らないよう、十分[じゅうぶん] 注意[ちゅうい]してください。
+  Bitte seien Sie vorsichtig, um nicht in eine gefährliche Situation zu geraten.
+
+  この薬品は危険物質に分類されます。
+  この 薬品[やくひん]は 危険[きけん]物質[ぶっしつ]に 分類[ぶんるい]されます。
+  Diese Chemikalie wird als gefährliche Substanz eingestuft.
+
+  危険を感じたら、すぐに避難してください。
+  危険[きけん]を 感[かん]じたら、すぐに 避難[ひなん]してください。
+  Wenn Sie Gefahr spüren, evakuieren Sie bitte sofort.
+
+  彼の行動は自分と他人を危険にさらすものだった。
+  彼[かれ]の 行動[こうどう]は 自分[じぶん]と 他人[たにん]を 危険[きけん]にさらすものだった。
+  Sein Verhalten brachte sowohl ihn selbst als auch andere in Gefahr.
+
+  安全第一で、危険な作業は避けましょう。
+  安全[あんぜん]第一[だいいち]で、危険[きけん]な 作業[さぎょう]は 避[さ]けましょう。
+  Sicherheit geht vor, lasst uns gefährliche Arbeiten vermeiden.
+
+  彼女は危険を顧みず、燃える建物に飛び込んだ。
+  彼女[かのじょ]は 危険[きけん]を 顧[かえり]みず、燃[も]える 建物[たてもの]に 飛[と]び 込[こ]んだ。
+  Sie stürzte sich ohne Rücksicht auf die Gefahr in das brennende Gebäude.
+
+  危険な道路状況のため、運転には十分注意してください。
+  危険[きけん]な 道路状況[どうろじょうきょう]のため、運転[うんてん]には 十分[じゅうぶん] 注意[ちゅうい]してください。
+  Aufgrund der gefährlichen Straßenverhältnisse fahren Sie bitte besonders vorsichtig.
+
+  この仕事は危険手当が付きます。
+  この 仕事[しごと]は 危険[きけん]手当[てあて]が 付[つ]きます。
+  Für diese Arbeit gibt es eine Gefahrenzulage.
+
+  危険を覚悟で、彼は新しいビジネスを始めた。
+  危険[きけん]を 覚悟[かくご]で、彼[かれ]は 新[あたら]しいビジネスを 始[はじ]めた。
+  Im Bewusstsein des Risikos startete er ein neues Geschäft.
+
+  危険球を投げたピッチャーは退場させられた。
+  危険球[きけんきゅう]を 投[な]げたピッチャーは 退場[たいじょう]させられた。
+  Der Pitcher, der einen gefährlichen Wurf gemacht hatte, wurde des Feldes verwiesen.
+
+  彼の危険思想は社会に悪影響を与えかねない。
+  彼[かれ]の 危険思想[きけんしそう]は 社会[しゃかい]に 悪影響[あくえいきょう]を 与[あた]えかねない。
+  Seine gefährlichen Gedanken könnten einen schlechten Einfluss auf die Gesellschaft haben.
+
+  洪水で危険水位に達している川に近づかないでください。
+  洪水[こうずい]で 危険水位[きけんすいい]に 達[たっ]している 川[かわ]に 近[ちか]づかないでください。
+  Bitte nähern Sie sich nicht dem Fluss, der aufgrund des Hochwassers einen gefährlichen Wasserstand erreicht hat.
+
+  危険負担を考慮に入れて、保険に加入しました。
+  危険負担[きけんふたん]を 考慮[こうりょ]に 入[い]れて、保険[ほけん]に 加入[かにゅう]しました。
+  Unter Berücksichtigung der Risikoübernahme habe ich eine Versicherung abgeschlossen.
+
+  この橋は危険建築物に指定され、通行止めになっています。
+  この 橋[はし]は 危険建築物[きけんけんちくぶつ]に 指定[してい]され、通行止[つうこうどめ]になっています。
+  Diese Brücke wurde als gefährliches Bauwerk eingestuft und ist für den Verkehr gesperrt.
+
+  危険を冒して新薬の人体実験に参加する志願者を募集しています。
+  危険[きけん]を 冒[おか]して 新薬[しんやく]の 人体実験[じんたいじっけん]に 参加[さんか]する 志願者[しがんしゃ]を 募集[ぼしゅう]しています。
+  Wir suchen Freiwillige, die bereit sind, an einem riskanten Humanexperiment für ein neues Medikament teilzunehmen.
+
+  危険分散のため、投資先を複数に分けることをお勧めします。
+  危険分散[きけんぶんさん]のため、投資先[とうししゃ]を 複数[ふくすう]に 分[わ]けることをお 勧[すす]めします。
+  Zur Risikostreuung empfehle ich, in mehrere Anlagen zu investieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

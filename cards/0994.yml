@@ -2,7 +2,7 @@ Rang: 994
 Lemma: 作成
 Lesung: さくせい
 Alternativschreibweisen: ''
-Definition: erstellen, kreieren
+Definition: erstellen, verfassen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">く</span><span class="accent_plain">せ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '78'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 作成しない・作成した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   最近自分のウェブサイトを作成しました。
   最近[さいきん] 自分[じぶん]のウェブサイトを 作成[さくせい]しました。
   Ich habe kürzlich meine eigene Website erstellt.
+
+  契約書の作成には細心の注意が必要です。
+  契約書[けいやくしょ]の 作成[さくせい]には 細心[さいしん]の 注意[ちゅうい]が 必要[ひつよう]です。
+  Bei der Erstellung eines Vertrags ist äußerste Sorgfalt erforderlich.
+
+  新しいプロジェクトの計画書を作成中です。
+  新[あたら]しいプロジェクトの 計画書[けいかくしょ]を 作成中[さくせいちゅう]です。
+  Ich bin dabei, den Plan für ein neues Projekt zu erstellen.
+
+  彼女は効率的にレポートを作成する能力があります。
+  彼女[かのじょ]は 効率的[こうりつてき]にレポートを 作成[さくせい]する 能力[のうりょく]があります。
+  Sie hat die Fähigkeit, Berichte effizient zu verfassen.
+
+  このソフトウェアを使えば、簡単に文書を作成できます。
+  このソフトウェアを 使[つか]えば、簡単[かんたん]に 文書[ぶんしょ]を 作成[さくせい]できます。
+  Mit dieser Software können Sie ganz einfach Dokumente erstellen.
+
+  予算の作成には時間がかかりますが、慎重に行う必要があります。
+  予算[よさん]の 作成[さくせい]には 時間[じかん]がかかりますが、慎重[しんちょう]に 行[おこな]う 必要[ひつよう]があります。
+  Die Erstellung eines Budgets braucht Zeit, muss aber sorgfältig durchgeführt werden.
+
+  作成者の名前を文書の最後に記入してください。
+  作成者[さくせいしゃ]の 名前[なまえ]を 文書[ぶんしょ]の 最後[さいご]に 記入[きにゅう]してください。
+  Bitte tragen Sie den Namen des Verfassers am Ende des Dokuments ein.
+
+  この報告書の作成日付を確認してもらえますか。
+  この 報告書[ほうこくしょ]の 作成日付[さくせいひづけ]を 確認[かくにん]してもらえますか。
+  Könnten Sie bitte das Erstellungsdatum dieses Berichts überprüfen?
+
+  彼は短時間で素晴らしいプレゼンテーションを作成しました。
+  彼[かれ]は 短時間[たんじかん]で 素晴[すば]らしいプレゼンテーションを 作成[さくせい]しました。
+  Er hat in kurzer Zeit eine hervorragende Präsentation erstellt.
+
+  新しいマニュアルの作成中ですが、来週には完成する予定です。
+  新[あたら]しいマニュアルの 作成中[さくせいちゅう]ですが、来週[らいしゅう]には 完成[かんせい]する 予定[よてい]です。
+  Wir sind dabei, ein neues Handbuch zu erstellen, das voraussichtlich nächste Woche fertig sein wird.
+
+  この企画書を作成するのに何日くらいかかりますか。
+  この 企画書[きかくしょ]を 作成[さくせい]するのに 何日[なんにち]くらいかかりますか。
+  Wie viele Tage wird es ungefähr dauern, diesen Projektvorschlag zu erstellen?
+
+  データベースの作成には専門知識が必要です。
+  データベースの 作成[さくせい]には 専門知識[せんもんちしき]が 必要[ひつよう]です。
+  Für die Erstellung einer Datenbank ist Fachwissen erforderlich.
+
+  作成中の文書は自動的に保存されます。
+  作成中[さくせいちゅう]の 文書[ぶんしょ]は 自動的[じどうてき]に 保存[ほぞん]されます。
+  Dokumente, die gerade erstellt werden, werden automatisch gespeichert.
+
+  彼女は効率的にスケジュールを作成する方法を教えてくれました。
+  彼女[かのじょ]は 効率的[こうりつてき]にスケジュールを 作成[さくせい]する 方法[ほうほう]を 教[おし]えてくれました。
+  Sie hat mir beigebracht, wie man effizient Zeitpläne erstellt.
+
+  この申請書の作成には細心の注意を払ってください。
+  この 申請書[しんせいしょ]の 作成[さくせい]には 細心[さいしん]の 注意[ちゅうい]を 払[はら]ってください。
+  Bitte seien Sie bei der Erstellung dieses Antragsformulars äußerst sorgfältig.
+
+  新しいウェブサイトの作成に取り掛かりました。
+  新[あたら]しいウェブサイトの 作成[さくせい]に 取[と]り 掛[か]かりました。
+  Ich habe mit der Erstellung einer neuen Website begonnen.
+
+  この書類の作成には時間がかかりそうだ。
+  この 書類[しょるい]の 作成[さくせい]には 時間[じかん]がかかりそうだ。
+  Es wird wohl einige Zeit dauern, dieses Dokument zu erstellen.
+
+  私たちのチームは年次報告書の作成を担当しています。
+  私[わたし]たちのチームは 年次報告書[ねんじほうこくしょ]の 作成[さくせい]を 担当[たんとう]しています。
+  Unser Team ist für die Erstellung des Jahresberichts verantwortlich.
+
+  作成したファイルはすぐにバックアップを取ってください。
+  作成[さくせい]したファイルはすぐにバックアップを 取[と]ってください。
+  Bitte erstellen Sie sofort ein Backup von den erstellten Dateien.
+
+  彼は短期間で素晴らしい企画書を作成しました。
+  彼[かれ]は 短期間[たんきかん]で 素晴[すば]らしい 企画書[きかくしょ]を 作成[さくせい]しました。
+  Er hat in kurzer Zeit einen ausgezeichneten Projektvorschlag erstellt.
+
+  新入社員向けのマニュアル作成を手伝ってもらえますか。
+  新入社員[しんにゅうしゃいん]向[む]けのマニュアル 作成[さくせい]を 手伝[てつだ]ってもらえますか。
+  Könnten Sie mir bei der Erstellung eines Handbuchs für neue Mitarbeiter helfen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

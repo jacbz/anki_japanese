@@ -1,15 +1,15 @@
 Rang: 465
 Lemma: 向かう
 Lesung: むかう
-Alternativschreibweisen: ''
-Definition: sich richten nach; (in Richtung von ...) gehen
+Alternativschreibweisen: 向う
+Definition: sich richten nach
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>む</span><span class="accent_plain">か</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 向かわない・向かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   私はこれから大阪へ向かいます。
   私[わたし]はこれから 大阪[おおさか]へ 向[む]かいます。
   Ich gehe nach Osaka.
+
+  鏡に向かって髪を直した。
+  鏡[かがみ]に 向[む]かって 髪[かみ]を 直[なお]した。
+  Ich richtete mein Haar vor dem Spiegel.
+
+  ピアノに向かって練習を始めた。
+  ピアノに 向[む]かって 練習[れんしゅう]を 始[はじ]めた。
+  Ich setzte mich ans Klavier und begann zu üben.
+
+  向かって右側に出口があります。
+  向[む]かって 右側[みぎがわ]に 出口[でぐち]があります。
+  Der Ausgang befindet sich auf der rechten Seite, wenn man davor steht.
+
+  観客に向かって挨拶をした。
+  観客[かんきゃく]に 向[む]かって 挨拶[あいさつ]をした。
+  Ich verbeugte mich in Richtung des Publikums.
+
+  中庭に向かっている窓から光が差し込んだ。
+  中庭[なかにわ]に 向[む]かっている 窓[まど]から 光[ひかり]が 差[さ]し 込[こ]んだ。
+  Licht fiel durch das zum Innenhof gerichtete Fenster herein.
+
+  壁に向かって立たされた。
+  壁[かべ]に 向[む]かって 立[た]たされた。
+  Ich wurde gezwungen, mit dem Gesicht zur Wand zu stehen.
+
+  カメラに向かって笑顔を作った。
+  カメラに 向[む]かって 笑顔[えがお]を 作[つく]った。
+  Ich setzte ein Lächeln für die Kamera auf.
+
+  面と向かって批判するのは難しい。
+  面[めん]と 向[む]かって 批判[ひはん]するのは 難[むずか]しい。
+  Es ist schwierig, jemanden direkt ins Gesicht zu kritisieren.
+
+  進行方向に向かって座るのが好きだ。
+  進行方向[しんこうほうこう]に 向[む]かって 座[すわ]るのが 好[す]きだ。
+  Ich sitze gerne in Fahrtrichtung.
+
+  太陽に向かって成長するひまわりが美しい。
+  太陽[たいよう]に 向[む]かって 成長[せいちょう]する ひまわりが 美[うつく]しい。
+  Die Sonnenblumen, die der Sonne entgegenwachsen, sind wunderschön.
+
+  駅に向かって歩いていると雨が降り出した。
+  駅[えき]に 向[む]かって 歩[ある]いていると 雨[あめ]が 降[ふ]り 出[だ]した。
+  Als ich zum Bahnhof ging, begann es zu regnen.
+
+  彼は東京に向かって出発した。
+  彼[かれ]は 東京[とうきょう]に 向[む]かって 出発[しゅっぱつ]した。
+  Er brach nach Tokyo auf.
+
+  地下に向かう階段は暗くて怖かった。
+  地下[ちか]に 向[む]かう 階段[かいだん]は 暗[くら]くて 怖[こわ]かった。
+  Die Treppe, die in den Keller führte, war dunkel und beängstigend.
+
+  北に向かって進むと海に出た。
+  北[きた]に 向[む]かって 進[すす]むと 海[うみ]に 出[で]た。
+  Als wir nach Norden gingen, erreichten wir das Meer.
+
+  秋に向かって日が短くなってきた。
+  秋[あき]に 向[む]かって 日[ひ]が 短[みじか]くなってきた。
+  Die Tage werden kürzer, während wir uns dem Herbst nähern.
+
+  彼の病状は回復に向かっている。
+  彼[かれ]の 病状[びょうじょう]は 回復[かいふく]に 向[む]かっている。
+  Sein Gesundheitszustand bessert sich allmählich.
+
+  私の興味は最新技術に向かっている。
+  私[わたし]の 興味[きょうみ]は 最新技術[さいしんぎじゅつ]に 向[む]かっている。
+  Mein Interesse richtet sich auf die neueste Technologie.
+
+  父は70歳に向かって元気に歩んでいる。
+  父[ちち]は70歳[ななじゅっさい]に 向[む]かって 元気[げんき]に 歩[あゆ]んでいる。
+  Mein Vater geht energisch auf die Siebzig zu.
+
+  みんなの視線がドアに向かった。
+  みんなの 視線[しせん]が ドアに 向[む]かった。
+  Aller Blicke richteten sich auf die Tür.
+
+  強い風に向かって歩くのは大変だった。
+  強[つよ]い 風[かぜ]に 向[む]かって 歩[ある]くのは 大変[たいへん]だった。
+  Es war schwierig, gegen den starken Wind zu gehen.
+
+  空に向かって花火が打ち上げられた。
+  空[そら]に 向[む]かって 花火[はなび]が 打[う]ち 上[あ]げられた。
+  Die Feuerwerkskörper wurden in den Himmel geschossen.
+
+  敵に向かって突撃する兵士たち。
+  敵[てき]に 向[む]かって 突撃[とつげき]する 兵士[へいし]たち。
+  Die Soldaten stürmen auf den Feind zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

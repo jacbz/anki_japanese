@@ -1,15 +1,15 @@
 Rang: 699
 Lemma: 通る
 Lesung: とおる
-Alternativschreibweisen: ''
-Definition: vorbeifahren, passieren
+Alternativschreibweisen: 透る
+Definition: durchgehen, passieren
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">と</span><span>お</span><span>る</span>
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 通らない・通った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   駅の前をタクシーが通った。
   駅[えき]の 前[まえ]をタクシーが 通[とお]った。
   Das Taxi fuhr vor dem Bahnhof vorbei.
+
+  この道を通ると駅に着きます。
+  この 道[みち]を 通[とお]ると 駅[えき]に 着[つ]きます。
+  Wenn du diese Straße entlanggehst, kommst du zum Bahnhof.
+
+  水が通る管が詰まっている。
+  水[みず]が 通[とお]る 管[くだ]が 詰[つ]まっている。
+  Das Rohr, durch das das Wasser fließt, ist verstopft.
+
+  光が通らない厚いカーテンを取り付けた。
+  光[ひかり]が 通[とお]らない 厚[あつ]いカーテンを 取[と]り 付[つ]けた。
+  Ich habe dicke, lichtundurchlässige Vorhänge angebracht.
+
+  この布地は熱が通りやすいので、夏には向いていない。
+  この 布地[ぬのじ]は 熱[ねつ]が 通[とお]りやすいので、夏[なつ]には 向[む]いていない。
+  Dieser Stoff leitet Wärme gut, daher ist er für den Sommer nicht geeignet.
+
+  緊張のあまり、食事がのどを通らなかった。
+  緊張[きんちょう]のあまり、食事[しょくじ]がのどを 通[とお]らなかった。
+  Vor lauter Nervosität konnte ich keinen Bissen hinunterbringen.
+
+  この道路は工事中で車が通れません。
+  この 道路[どうろ]は 工事中[こうじちゅう]で 車[くるま]が 通[とお]れません。
+  Diese Straße ist wegen Bauarbeiten für Autos nicht passierbar.
+
+  郵便局の前を通るときに、切手を買おう。
+  郵便局[ゆうびんきょく]の 前[まえ]を 通[とお]るときに、切手[きって]を 買[か]おう。
+  Lass uns Briefmarken kaufen, wenn wir am Postamt vorbeikommen.
+
+  彼はいつも遠回りして私の家の前を通る。
+  彼[かれ]はいつも 遠回[とおまわ]りして 私[わたし]の 家[いえ]の 前[まえ]を 通[とお]る。
+  Er macht immer einen Umweg, um an meinem Haus vorbeizugehen.
+
+  どうぞお通りください。お待ちしておりました。
+  どうぞお 通[とお]りください。お 待[ま]ちしておりました。
+  Bitte treten Sie ein. Ich habe auf Sie gewartet.
+
+  彼は大学入試に通った。
+  彼[かれ]は 大学入試[だいがくにゅうし]に 通[とお]った。
+  Er hat die Universitätsaufnahmeprüfung bestanden.
+
+  この法案は議会を通過した。
+  この 法案[ほうあん]は 議会[ぎかい]を 通過[つうか]した。
+  Dieser Gesetzentwurf ist durch das Parlament gegangen.
+
+  彼は業界では大物として通っている。
+  彼[かれ]は 業界[ぎょうかい]では 大物[おおもの]として 通[とお]っている。
+  Er gilt in der Branche als eine große Nummer.
+
+  そんな言い訳は通らないよ。
+  そんな 言[い]い 訳[わけ]は 通[とお]らないよ。
+  So eine Ausrede wird nicht akzeptiert.
+
+  彼女の声はよく通る。
+  彼女[かのじょ]の 声[こえ]はよく 通[とお]る。
+  Ihre Stimme trägt sehr weit.
+
+  この文章は意味が通っていない。
+  この 文章[ぶんしょう]は 意味[いみ]が 通[とお]っていない。
+  Dieser Satz ergibt keinen Sinn.
+
+  彼の主張は筋が通っている。
+  彼[かれ]の 主張[しゅちょう]は 筋[すじ]が 通[とお]っている。
+  Seine Argumentation ist logisch.
+
+  その要求は筋が通らない。
+  その 要求[ようきゅう]は 筋[すじ]が 通[とお]らない。
+  Diese Forderung ist unvernünftig.
+
+  この道は車が通れないほど狭い。
+  この 道[みち]は 車[くるま]が 通[とお]れないほど 狭[せま]い。
+  Diese Straße ist zu eng, als dass Autos durchfahren könnten.
+
+  彼女は試験に通るまで毎日勉強した。
+  彼女[かのじょ]は 試験[しけん]に 通[とお]るまで 毎日[まいにち] 勉強[べんきょう]した。
+  Sie lernte jeden Tag, bis sie die Prüfung bestand.
+
+  この材料は水が通らないので、防水加工に適している。
+  この 材料[ざいりょう]は 水[みず]が 通[とお]らないので、防水加工[ぼうすいかこう]に 適[てき]している。
+  Da dieses Material wasserdicht ist, eignet es sich gut für wasserfeste Beschichtungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

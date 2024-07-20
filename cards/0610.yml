@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>む</span><span class="accent_plain">け</span><span 
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 向けない・向けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   父親は息子に目を向けた。
   父親[ちちおや]は 息子[むすこ]に 目[め]を 向[む]けた。
   Der Vater richtete seine Augen auf seinen Sohn.
+
+  注意を交通ルールに向けて運転しましょう。
+  注意[ちゅうい]を 交通[こうつう]ルールに 向[む]けて 運転[うんてん]しましょう。
+  Lasst uns beim Fahren unsere Aufmerksamkeit auf die Verkehrsregeln richten.
+
+  警官は銃を容疑者に向けた。
+  警官[けいかん]は 銃[じゅう]を 容疑者[ようぎしゃ]に 向[む]けた。
+  Der Polizist richtete seine Waffe auf den Verdächtigen.
+
+  彼女は顔を窓の方に向けて外を見ていた。
+  彼女[かのじょ]は 顔[かお]を 窓[まど]の 方[ほう]に 向[む]けて 外[そと]を 見[み]ていた。
+  Sie wandte ihr Gesicht dem Fenster zu und blickte nach draußen.
+
+  私たちは顔を横に向けて笑いをこらえた。
+  私[わたし]たちは 顔[かお]を 横[よこ]に 向[む]けて 笑[わら]いをこらえた。
+  Wir drehten unsere Köpfe zur Seite und unterdrückten unser Lachen.
+
+  疲れていたので、公園の方に足を向けて散歩した。
+  疲[つか]れていたので、公園[こうえん]の 方[ほう]に 足[あし]を 向[む]けて 散歩[さんぽ]した。
+  Da ich müde war, lenkte ich meine Schritte in Richtung Park für einen Spaziergang.
+
+  両親に向けた手紙を書いています。
+  両親[りょうしん]に 向[む]けた 手紙[てがみ]を 書[か]いています。
+  Ich schreibe gerade einen Brief an meine Eltern.
+
+  学生たちは政府に批判を向けた。
+  学生[がくせい]たちは 政府[せいふ]に 批判[ひはん]を 向[む]けた。
+  Die Studenten richteten ihre Kritik gegen die Regierung.
+
+  空を飛ぶ鳥を見るため、視線を上に向けた。
+  空[そら]を 飛[と]ぶ 鳥[とり]を 見[み]るため、視線[しせん]を 上[うえ]に 向[む]けた。
+  Um die Vögel am Himmel zu sehen, richtete ich meinen Blick nach oben.
+
+  彼は怒って背を私に向けた。
+  彼[かれ]は 怒[おこ]って 背[せ]を 私[わたし]に 向[む]けた。
+  Er war wütend und kehrte mir den Rücken zu.
+
+  お客様は店員に質問を向けました。
+  お 客様[きゃくさま]は 店員[てんいん]に 質問[しつもん]を 向[む]けました。
+  Der Kunde richtete eine Frage an den Verkäufer.
+
+  医者は診察のため、患者に手の平を上に向けるよう指示した。
+  医者[いしゃ]は 診察[しんさつ]のため、患者[かんじゃ]に 手[て]の 平[ひら]を 上[うえ]に 向[む]けるよう 指示[しじ]した。
+  Der Arzt wies den Patienten an, für die Untersuchung seine Handflächen nach oben zu drehen.
+
+  政府は軍隊を海外に向けて派遣した。
+  政府[せいふ]は 軍隊[ぐんたい]を 海外[かいがい]に 向[む]けて 派遣[はけん]した。
+  Die Regierung entsandte Truppen ins Ausland.
+
+  王は使者を敵国に向けて送った。
+  王[おう]は 使者[ししゃ]を 敵国[てきこく]に 向[む]けて 送[おく]った。
+  Der König schickte einen Boten in das feindliche Land.
+
+  この予算は教育改革に向けられています。
+  この 予算[よさん]は 教育改革[きょういくかいかく]に 向[む]けられています。
+  Dieses Budget ist für die Bildungsreform vorgesehen.
+
+  空いた時間を勉強に向けて、試験の準備をしています。
+  空[あ]いた 時間[じかん]を 勉強[べんきょう]に 向[む]けて、試験[しけん]の 準備[じゅんび]をしています。
+  Ich verwende die freie Zeit zum Lernen und bereite mich auf die Prüfung vor.
+
+  この製品は主に輸出に向けられています。
+  この 製品[せいひん]は 主[おも]に 輸出[ゆしゅつ]に 向[む]けられています。
+  Dieses Produkt ist hauptsächlich für den Export bestimmt.
+
+  オリンピックに向けて準備を始めました。
+  オリンピックに 向[む]けて 準備[じゅんび]を 始[はじ]めました。
+  Wir haben mit den Vorbereitungen für die Olympischen Spiele begonnen.
+
+  子供たちは先生に向けて手を振った。
+  子供[こども]たちは 先生[せんせい]に 向[む]けて 手[て]を 振[ふ]った。
+  Die Kinder winkten dem Lehrer zu.
+
+  平和な社会の実現に向けて交渉を続けています。
+  平和[へいわ]な 社会[しゃかい]の 実現[じつげん]に 向[む]けて 交渉[こうしょう]を 続[つづ]けています。
+  Wir führen weiterhin Verhandlungen mit dem Ziel, eine friedliche Gesellschaft zu verwirklichen.
+
+  講演者は観客に向けて熱心に話をした。
+  講演者[こうえんしゃ]は 観客[かんきゃく]に 向[む]けて 熱心[ねっしん]に 話[はなし]をした。
+  Der Redner sprach enthusiastisch zum Publikum.
+
+  私たちは京都に向けて出発しました。
+  私[わたし]たちは 京都[きょうと]に 向[む]けて 出発[しゅっぱつ]しました。
+  Wir brachen nach Kyoto auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

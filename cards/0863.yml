@@ -2,14 +2,14 @@ Rang: 863
 Lemma: 並ぶ
 Lesung: ならぶ
 Alternativschreibweisen: ''
-Definition: sich anstellen, Schlange stehen
+Definition: anstehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>な</span><span class="accent_plain">ら</span><span class="accent_plain">ぶ</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 並ばない・並んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は有名人を見ようと通りに並んだ。
   彼[かれ]は 有名人[ゆうめいじん]を 見[み]ようと 通[とお]りに 並[なら]んだ。
   Er stellte sich auf der Straße an, um die Prominenten zu sehen.
+
+  商品が棚に並んでいます。
+  商品[しょうひん]が 棚[たな]に 並[なら]んでいます。
+  Die Waren sind im Regal aufgereiht.
+
+  壁ぎわに椅子が並んでいる。
+  壁[かべ]ぎわに 椅子[いす]が 並[なら]んでいる。
+  Die Stühle stehen nebeneinander an der Wand.
+
+  彼らは並んで腰をおろした。
+  彼[かれ]らは 並[なら]んで 腰[こし]をおろした。
+  Sie nahmen nebeneinander Platz.
+
+  生徒たちは前後に並んで歩いている。
+  生徒[せいと]たちは 前後[ぜんご]に 並[なら]んで 歩[ある]いている。
+  Die Schüler gehen hintereinander.
+
+  駅前にぎっしりと人が並んでいた。
+  駅前[えきまえ]にぎっしりと 人[ひと]が 並[なら]んでいた。
+  Vor dem Bahnhof standen die Menschen dicht gedrängt.
+
+  両翼の廊下に個室が9つ並ぶ。
+  両翼[りょうよく]の 廊下[ろうか]に 個室[こしつ]が9[ここの]つ 並[なら]ぶ。
+  Auf beiden Seiten des Flurs liegen neun Einzelzimmer.
+
+  古い住宅が並ぶ一角に住んでいる。
+  古[ふる]い 住宅[じゅうたく]が 並[なら]ぶ 一角[いっかく]に 住[す]んでいる。
+  Ich wohne in einer Gegend, wo alte Häuser nebeneinander stehen.
+
+  机の上に鉛筆が3本きれいに並んでいた。
+  机[つくえ]の 上[うえ]に 鉛筆[えんぴつ]が3[さん]本[ぼん]きれいに 並[なら]んでいた。
+  Auf dem Schreibtisch lagen drei sauber aufgereihte Bleistifte.
+
+  友人と並んで校門を出た。
+  友人[ゆうじん]と 並[なら]んで 校門[こうもん]を 出[で]た。
+  Ich verließ zusammen mit meinem Freund das Schultor.
+
+  生徒たちは二列に並んだ。
+  生徒[せいと]たちは 二列[にれつ]に 並[なら]んだ。
+  Die Schüler stellten sich in zwei Reihen auf.
+
+  身長順に並んでください。
+  身長順[しんちょうじゅん]に 並[なら]んでください。
+  Bitte stellen Sie sich der Größe nach auf.
+
+  郵便受けが上下二段に並んでいる。
+  郵便受[ゆうびんう]けが 上下[じょうげ]二段[にだん]に 並[なら]んでいる。
+  Die Briefkästen sind in zwei übereinander liegenden Reihen angeordnet.
+
+  戦艦が五列に並んで湾を圧している。
+  戦艦[せんかん]が 五列[ごれつ]に 並[なら]んで 湾[わん]を 圧[あっ]している。
+  Die Kriegsschiffe beherrschen die Bucht, in fünf Reihen formiert.
+
+  行儀よく列に並びましょう。
+  行儀[ぎょうぎ]よく 列[れつ]に 並[なら]びましょう。
+  Lasst uns uns ordentlich in der Schlange anstellen.
+
+  行列の末尾に並んだ。
+  行列[ぎょうれつ]の 末尾[まつび]に 並[なら]んだ。
+  Ich stellte mich am Ende der Schlange an.
+
+  本堂を目指すお参りの長い行列に並んでいた。
+  本堂[ほんどう]を 目指[めざ]すお 参[まい]りの 長[なが]い 行列[ぎょうれつ]に 並[なら]んでいた。
+  Ich stand in der langen Schlange der Besucher, die zur Haupthalle des Tempels führte.
+
+  彼の演奏技術は並ぶ者がない。
+  彼[かれ]の 演奏技術[えんそうぎじゅつ]は 並[なら]ぶ 者[もの]がない。
+  Seine Spieltechnik ist unvergleichlich.
+
+  彼女の美しさは並ぶものがないと言われている。
+  彼女[かのじょ]の 美[うつく]しさは 並[なら]ぶものがないと 言[い]われている。
+  Es heißt, ihre Schönheit sei ohnegleichen.
+
+  この店の人気は他店に並ぶものがない。
+  この 店[みせ]の 人気[にんき]は 他店[たてん]に 並[なら]ぶものがない。
+  Die Beliebtheit dieses Ladens sucht ihresgleichen.
+
+  彼の業績は歴史に並ぶ偉業だ。
+  彼[かれ]の 業績[ぎょうせき]は 歴史[れきし]に 並[なら]ぶ 偉業[いぎょう]だ。
+  Seine Leistungen stehen auf einer Stufe mit historischen Errungenschaften.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

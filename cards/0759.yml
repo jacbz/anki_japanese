@@ -1,15 +1,15 @@
 Rang: 759
 Lemma: 下りる
 Lesung: おりる
-Alternativschreibweisen: ''
-Definition: hinuntergehen; herunterkommen
+Alternativschreibweisen: 降りる
+Definition: hinuntergehen; aussteigen; sinken
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>お</span><span class="accent_top">り</span><span>る</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 下りない・下りた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   階段を下りた。
   階段[かいだん]を 下[お]りた。
   Ich bin die Treppe hinuntergegangen.
+
+  エレベーターで1階まで下りてください。
+  エレベーターで1階[いっかい]まで 下[お]りてください。
+  Bitte fahren Sie mit dem Aufzug bis zum Erdgeschoss hinunter.
+
+  階段を下りる時は手すりを使った方が安全です。
+  階段[かいだん]を 下[お]りる 時[とき]は 手[て]すりを 使[つか]った 方[ほう]が 安全[あんぜん]です。
+  Es ist sicherer, beim Hinuntergehen der Treppe den Handlauf zu benutzen.
+
+  山を下りる時は足元に気をつけましょう。
+  山[やま]を 下[お]りる 時[とき]は 足元[あしもと]に 気[き]をつけましょう。
+  Achten Sie beim Abstieg vom Berg auf Ihre Schritte.
+
+  次の駅で電車を降りてください。
+  次[つぎ]の 駅[えき]で 電車[でんしゃ]を 降[お]りてください。
+  Bitte steigen Sie an der nächsten Station aus dem Zug aus.
+
+  バスを降りる時は運転手さんにお礼を言いましょう。
+  バスを 降[お]りる 時[とき]は 運転手[うんてんしゅ]さんにお 礼[れい]を 言[い]いましょう。
+  Bedanken Sie sich beim Busfahrer, wenn Sie aus dem Bus aussteigen.
+
+  自転車を降りて歩道を歩きましょう。
+  自転車[じてんしゃ]を 降[お]りて 歩道[ほどう]を 歩[ある]きましょう。
+  Steigen Sie vom Fahrrad ab und gehen Sie auf dem Gehweg.
+
+  飛行機が滑走路に降りるのを見ていた。
+  飛行機[ひこうき]が 滑走路[かっそうろ]に 降[お]りるのを 見[み]ていた。
+  Ich beobachtete, wie das Flugzeug auf der Landebahn landete.
+
+  エレベーターのシャッターが下りてきた。
+  エレベーターのシャッターが 下[お]りてきた。
+  Die Aufzugtür schloss sich.
+
+  重い荷物を下ろしたら肩の荷が下りた気がした。
+  重[おも]い 荷物[にもつ]を 下[お]ろしたら 肩[かた]の 荷[に]が 下[お]りた 気[き]がした。
+  Als ich die schwere Tasche absetzte, fühlte ich, wie mir eine Last von den Schultern fiel.
+
+  裁判所から判決が下りるのを待っている。
+  裁判所[さいばんしょ]から 判決[はんけつ]が 下[お]りるのを 待[ま]っている。
+  Wir warten darauf, dass das Urteil vom Gericht verkündet wird.
+
+  建築許可が下りるまでに時間がかかった。
+  建築許可[けんちくきょか]が 下[お]りるまでに 時間[じかん]がかかった。
+  Es dauerte eine Weile, bis die Baugenehmigung erteilt wurde.
+
+  社長の座を降りる決意をした。
+  社長[しゃちょう]の 座[ざ]を 降[お]りる 決意[けつい]をした。
+  Ich habe mich entschieden, von meiner Position als Geschäftsführer zurückzutreten.
+
+  プロジェクトから降りると彼に伝えた。
+  プロジェクトから 降[お]りると 彼[かれ]に 伝[つた]えた。
+  Ich teilte ihm mit, dass ich aus dem Projekt aussteige.
+
+  夕暮れが街に降りてきて、灯りが一つずつともり始めた。
+  夕暮[ゆうぐ]れが 街[まち]に 降[お]りてきて、灯[あか]りが 一[ひと]つずつともり 始[はじ]めた。
+  Die Dämmerung senkte sich über die Stadt, und die Lichter gingen nach und nach an.
+
+  霜が降りて、庭の草木が白く輝いていた。
+  霜[しも]が 降[お]りて、庭[にわ]の 草木[くさき]が 白[しろ]く 輝[かがや]いていた。
+  Es hatte gereift, und die Pflanzen im Garten glänzten weiß.
+
+  秋が降りてきて、木々の葉が色づき始めた。
+  秋[あき]が 降[お]りてきて、木々[きぎ]の 葉[は]が 色[いろ]づき 始[はじ]めた。
+  Der Herbst zog ein, und die Blätter der Bäume begannen sich zu verfärben.
+
+  霧が谷に降りてきて、幻想的な風景を作り出していた。
+  霧[きり]が 谷[たに]に 降[お]りてきて、幻想的[げんそうてき]な 風景[ふうけい]を 作[つく]り 出[だ]していた。
+  Der Nebel senkte sich ins Tal und schuf eine traumhafte Landschaft.
+
+  皆様、最終駅です。お降りください。
+  皆様[みなさま]、最終駅[さいしゅうえき]です。お 降[お]りください。
+  Meine Damen und Herren, dies ist die Endstation. Bitte steigen Sie aus.
+
+  その歌手はコンサートの直前に降りてしまった。
+  その 歌手[かしゅ]はコンサートの 直前[ちょくぜん]に 降[お]りてしまった。
+  Der Sänger sprang kurz vor dem Konzert ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

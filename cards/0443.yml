@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 送らない・送った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   母に感謝の手紙を送る。
   母[はは]に 感謝[かんしゃ]の 手紙[てがみ]を 送[おく]る。
   Ich werde meiner Mutter einen Dankesbrief senden.
+
+  手紙を友達に送りました。
+  手紙[てがみ]を 友達[ともだち]に 送[おく]りました。
+  Ich habe meinem Freund einen Brief geschickt.
+
+  会社からクライアントに請求書を送る必要があります。
+  会社[かいしゃ]からクライアントに 請求書[せいきゅうしょ]を 送[おく]る 必要[ひつよう]があります。
+  Wir müssen dem Kunden eine Rechnung von der Firma schicken.
+
+  新しい製品の見本を海外の取引先に送ることにしました。
+  新[あたら]しい 製品[せいひん]の 見本[みほん]を 海外[かいがい]の 取引先[とりひきさき]に 送[おく]ることにしました。
+  Wir haben beschlossen, Muster unseres neuen Produkts an unsere ausländischen Geschäftspartner zu schicken.
+
+  緊急の荷物を空港まで送ってください。
+  緊急[きんきゅう]の 荷物[にもつ]を 空港[くうこう]まで 送[おく]ってください。
+  Bitte schicken Sie das dringende Paket zum Flughafen.
+
+  代表団を国際会議に送ることが決まりました。
+  代表団[だいひょうだん]を 国際[こくさい] 会議[かいぎ]に 送[おく]ることが 決[き]まりました。
+  Es wurde beschlossen, eine Delegation zur internationalen Konferenz zu entsenden.
+
+  災害地域に医療チームを送る準備をしています。
+  災害[さいがい] 地域[ちいき]に 医療[いりょう]チームを 送[おく]る 準備[じゅんび]をしています。
+  Wir bereiten uns darauf vor, ein medizinisches Team in das Katastrophengebiet zu schicken.
+
+  彼女は恋人にウインクを送った。
+  彼女[かのじょ]は 恋人[こいびと]にウインクを 送[おく]った。
+  Sie zwinkerte ihrem Liebhaber zu.
+
+  観客は選手たちに熱い声援を送っていた。
+  観客[かんきゃく]は 選手[せんしゅ]たちに 熱[あつ]い 声援[せいえん]を 送[おく]っていた。
+  Die Zuschauer feuerten die Spieler enthusiastisch an.
+
+  彼は私に冷たい視線を送った。
+  彼[かれ]は 私[わたし]に 冷[つめ]たい 視線[しせん]を 送[おく]った。
+  Er warf mir einen kalten Blick zu.
+
+  お客様を玄関まで送りましょう。
+  お 客様[きゃくさま]を 玄関[げんかん]まで 送[おく]りましょう。
+  Lassen Sie mich den Gast zur Tür begleiten.
+
+  友達を車で家まで送ってあげた。
+  友達[ともだち]を 車[くるま]で 家[いえ]まで 送[おく]ってあげた。
+  Ich habe meinen Freund mit dem Auto nach Hause gebracht.
+
+  彼らは亡くなった同僚を野辺に送った。
+  彼[かれ]らは 亡[な]くなった 同僚[どうりょう]を 野辺[のべ]に 送[おく]った。
+  Sie gaben ihrem verstorbenen Kollegen das letzte Geleit.
+
+  夏休みを田舎で送ることにした。
+  夏休[なつやす]みを 田舎[いなか]で 送[おく]ることにした。
+  Ich habe beschlossen, die Sommerferien auf dem Land zu verbringen.
+
+  彼は充実した学生生活を送っている。
+  彼[かれ]は 充実[じゅうじつ]した 学生[がくせい] 生活[せいかつ]を 送[おく]っている。
+  Er führt ein erfülltes Studentenleben.
+
+  この漢字には送り仮名を送る必要がある。
+  この 漢字[かんじ]には 送[おく]り 仮名[がな]を 送[おく]る 必要[ひつよう]がある。
+  Diesem Kanji müssen Okurigana hinzugefügt werden.
+
+  混雑した電車の中で、少し膝を送ってもらえませんか。
+  混雑[こんざつ]した 電車[でんしゃ]の 中[なか]で、少[すこ]し 膝[ひざ]を 送[おく]ってもらえませんか。
+  Könnten Sie in diesem vollen Zug bitte ein wenig zusammenrücken?
+
+  彼女は海外で平和な老後を送っている。
+  彼女[かのじょ]は 海外[かいがい]で 平和[へいわ]な 老後[ろうご]を 送[おく]っている。
+  Sie verbringt einen friedlichen Lebensabend im Ausland.
+
+  新年を迎える前に、古い年を送る準備をしましょう。
+  新年[しんねん]を 迎[むか]える 前[まえ]に、古[ふる]い 年[とし]を 送[おく]る 準備[じゅんび]をしましょう。
+  Lasst uns vorbereiten, das alte Jahr zu verabschieden, bevor wir das neue Jahr begrüßen.
+
+  彼らは困難な時期を互いに支え合って送った。
+  彼[かれ]らは 困難[こんなん]な 時期[じき]を 互[たが]いに 支[ささ]え 合[あ]って 送[おく]った。
+  Sie haben die schwierige Zeit gemeinsam durchgestanden, indem sie sich gegenseitig unterstützten.
+
+  新入社員を歓迎する意味を込めて、温かい拍手を送りました。
+  新入社員[しんにゅうしゃいん]を 歓迎[かんげい]する 意味[いみ]を 込[こ]めて、温[あたた]かい 拍手[はくしゅ]を 送[おく]りました。
+  Um die neuen Mitarbeiter willkommen zu heißen, spendeten wir herzlichen Applaus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

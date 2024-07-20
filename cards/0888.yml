@@ -1,15 +1,15 @@
 Rang: 888
 Lemma: 頼む
 Lesung: たのむ
-Alternativschreibweisen: ''
-Definition: bitten
+Alternativschreibweisen: 恃む
+Definition: bitten; sich verlassen auf; bestellen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>た</span><span class="accent_top">の</span><span>む</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 頼まない・頼んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   教授に講演を頼んだ。
   教授[きょうじゅ]に 講演[こうえん]を 頼[たの]んだ。
   Ich habe den Professor gebeten, einen Vortrag zu halten.
+
+  友達に宿題を手伝ってくれるよう頼んだ。
+  友達[ともだち]に 宿題[しゅくだい]を 手伝[てつだ]ってくれるよう 頼[たの]んだ。
+  Ich bat meinen Freund, mir bei den Hausaufgaben zu helfen.
+
+  母に新しい服を買ってほしいと頼んでみた。
+  母[はは]に 新[あたら]しい 服[ふく]を 買[か]ってほしいと 頼[たの]んでみた。
+  Ich versuchte, meine Mutter zu bitten, mir neue Kleidung zu kaufen.
+
+  頼むから、もう少し時間をください。
+  頼[たの]むから、もう 少[すこ]し 時間[じかん]をください。
+  Ich bitte dich, gib mir noch etwas mehr Zeit.
+
+  先生に推薦状を書いてもらえるよう頼みました。
+  先生[せんせい]に 推薦状[すいせんじょう]を 書[か]いてもらえるよう 頼[たの]みました。
+  Ich bat den Lehrer, mir ein Empfehlungsschreiben zu verfassen.
+
+  彼女は友人に子供の面倒を見てくれるよう頼んだ。
+  彼女[かのじょ]は 友人[ゆうじん]に 子供[こども]の 面倒[めんどう]を 見[み]てくれるよう 頼[たの]んだ。
+  Sie bat ihre Freundin, auf ihr Kind aufzupassen.
+
+  仕事の関係で、上司に休暇を頼まなければならなかった。
+  仕事[しごと]の 関係[かんけい]で、上司[じょうし]に 休暇[きゅうか]を 頼[たの]まなければならなかった。
+  Aus beruflichen Gründen musste ich meinen Vorgesetzten um Urlaub bitten.
+
+  親に頼んで、新しいスマートフォンを買ってもらった。
+  親[おや]に 頼[たの]んで、新[あたら]しいスマートフォンを 買[か]ってもらった。
+  Ich bat meine Eltern und ließ sie mir ein neues Smartphone kaufen.
+
+  彼は友人に頼まれて、引っ越しを手伝うことになった。
+  彼[かれ]は 友人[ゆうじん]に 頼[たの]まれて、引[ひ]っ 越[こ]しを 手伝[てつだ]うことになった。
+  Er wurde von seinem Freund gebeten und half ihm beim Umzug.
+
+  頼みにくいことだけど、お金を貸してくれないかな。
+  頼[たの]みにくいことだけど、お 金[かね]を 貸[か]してくれないかな。
+  Es ist schwer darum zu bitten, aber könntest du mir Geld leihen?
+
+  彼女は神に頼んで、試験の成功を祈った。
+  彼女[かのじょ]は 神[かみ]に 頼[たの]んで、試験[しけん]の 成功[せいこう]を 祈[いの]った。
+  Sie vertraute auf Gott und betete für den Erfolg in der Prüfung.
+
+  自分を頼むしかない状況だった。
+  自分[じぶん]を 頼[たの]むしかない 状況[じょうきょう]だった。
+  Es war eine Situation, in der ich mich nur auf mich selbst verlassen konnte.
+
+  彼は常に自分の能力を頼みにしている。
+  彼[かれ]は 常[つね]に 自分[じぶん]の 能力[のうりょく]を 頼[たの]みにしている。
+  Er verlässt sich stets auf seine eigenen Fähigkeiten.
+
+  急な発熱で、父に医者を呼んでくれるよう頼んだ。
+  急[きゅう]な 発熱[はつねつ]で、父[ちち]に 医者[いしゃ]を 呼[よ]んでくれるよう 頼[たの]んだ。
+  Wegen plötzlichem Fieber bat ich meinen Vater, einen Arzt zu rufen.
+
+  壊れた水道の修理を業者に頼んだ。
+  壊[こわ]れた 水道[すいどう]の 修理[しゅうり]を 業者[ぎょうしゃ]に 頼[たの]んだ。
+  Ich beauftragte einen Handwerker mit der Reparatur der kaputten Wasserleitung.
+
+  彼女は家庭教師を頼んで、数学の成績を上げようとした。
+  彼女[かのじょ]は 家庭教師[かていきょうし]を 頼[たの]んで、数学[すうがく]の 成績[せいせき]を 上[あ]げようとした。
+  Sie engagierte einen Privatlehrer, um ihre Mathematiknoten zu verbessern.
+
+  深夜だったので、タクシーを頼んで帰ることにした。
+  深夜[しんや]だったので、タクシーを 頼[たの]んで 帰[かえ]ることにした。
+  Da es spät in der Nacht war, beschloss ich, ein Taxi zu rufen und nach Hause zu fahren.
+
+  忙しくて料理する時間がないので、出前を頼むことにした。
+  忙[いそが]しくて 料理[りょうり]する 時間[じかん]がないので、出前[でまえ]を 頼[たの]むことにした。
+  Da ich keine Zeit zum Kochen hatte, beschloss ich, Essen zu bestellen.
+
+  「頼む、もう一度チャンスをくれ」と彼は懇願した。
+  「頼[たの]む、もう 一度[いちど]チャンスをくれ」と 彼[かれ]は 懇願[こんがん]した。
+  'Ich bitte dich, gib mir noch eine Chance', flehte er.
+
+  頼むから、このことは誰にも言わないでくれ。
+  頼[たの]むから、このことは 誰[だれ]にも 言[い]わないでくれ。
+  Ich bitte dich, sag niemandem etwas davon.
+
+  宴会の準備を頼まれて、料理を作ることになった。
+  宴会[えんかい]の 準備[じゅんび]を 頼[たの]まれて、料理[りょうり]を 作[つく]ることになった。
+  Ich wurde gebeten, die Vorbereitungen für die Party zu treffen, und so musste ich das Essen zubereiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

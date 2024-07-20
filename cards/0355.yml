@@ -1,15 +1,15 @@
 Rang: 355
 Lemma: 少ない
 Lesung: すくない
-Alternativschreibweisen: ''
-Definition: wenig
+Alternativschreibweisen: 尠い
+Definition: wenig, gering
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">く</span><span class="accent_top">な</span><span>い</span>
 Register: ''
 Dispersion: '100'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 少なくない・少なかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   日本では年収が六百万円以上ある三十代の男性は少ない。
   日本[にっぽん]では 年収[ねんしゅう]が 六百[ろっぴゃく] 万[まん] 円[えん] 以上[いじょう]ある三十 代[だい]の 男性[だんせい]は 少[すく]ない。
   In Japan gibt es nur wenige Männer in ihren Dreißigern, die mehr als sechs Millionen Yen im Jahr verdienen.
+
+  この地域は雨が少ないので、農業が難しいです。
+  この 地域[ちいき]は 雨[あめ]が 少[すく]ないので、農業[のうぎょう]が 難[むずか]しいです。
+  In dieser Region ist es schwierig, Landwirtschaft zu betreiben, da es wenig regnet.
+
+  彼女は口数が少ない人ですが、話すときはいつも的確です。
+  彼女[かのじょ]は 口数[くちかず]が 少[すく]ない 人[ひと]ですが、話[はな]すときはいつも 的確[てきかく]です。
+  Sie ist eine Frau von wenigen Worten, aber wenn sie spricht, ist sie immer präzise.
+
+  最近は読書する人が少なくなってきているようです。
+  最近[さいきん]は 読書[どくしょ]する 人[ひと]が 少[すく]なくなってきているようです。
+  Es scheint, dass in letzter Zeit immer weniger Menschen lesen.
+
+  このレストランは値段が高い割に、量が少ないと評判です。
+  このレストランは 値段[ねだん]が 高[たか]い 割[わり]に、量[りょう]が 少[すく]ないと 評判[ひょうばん]です。
+  Dieses Restaurant hat den Ruf, kleine Portionen zu servieren, obwohl die Preise hoch sind.
+
+  彼は経験が少ないですが、とても熱心に仕事に取り組んでいます。
+  彼[かれ]は 経験[けいけん]が 少[すく]ないですが、とても 熱心[ねっしん]に 仕事[しごと]に 取[と]り 組[く]んでいます。
+  Obwohl er wenig Erfahrung hat, arbeitet er sehr engagiert.
+
+  この薬は副作用が少ないので、安心して使えます。
+  この 薬[くすり]は 副作用[ふくさよう]が 少[すく]ないので、安心[あんしん]して 使[つか]えます。
+  Dieses Medikament kann sorglos eingenommen werden, da es wenige Nebenwirkungen hat.
+
+  最近は雨が少なくて、ダムの水位が下がっています。
+  最近[さいきん]は 雨[あめ]が 少[すく]なくて、ダムの 水位[すいい]が 下[さ]がっています。
+  In letzter Zeit gibt es wenig Regen, weshalb der Wasserstand des Stausees gesunken ist.
+
+  彼女は食べる量が少ないのに、なぜか太らないんだ。
+  彼女[かのじょ]は 食[た]べる 量[りょう]が 少[すく]ないのに、なぜか 太[ふと]らないんだ。
+  Sie isst nur wenig, wird aber trotzdem irgendwie nicht dick.
+
+  このスマートフォンは消費電力が少なく、バッテリーが長持ちします。
+  このスマートフォンは 消費電力[しょうひでんりょく]が 少[すく]なく、バッテリーが 長持[ながも]ちします。
+  Dieses Smartphone verbraucht wenig Strom und hat daher eine lange Akkulaufzeit.
+
+  彼は言葉が少ない人だが、行動力がある。
+  彼[かれ]は 言葉[ことば]が 少[すく]ない 人[ひと]だが、行動力[こうどうりょく]がある。
+  Er ist ein Mann von wenigen Worten, aber er hat Tatkraft.
+
+  この地域は犯罪が少なく、とても安全です。
+  この 地域[ちいき]は 犯罪[はんざい]が 少[すく]なく、とても 安全[あんぜん]です。
+  Diese Gegend ist sehr sicher, da es hier wenig Kriminalität gibt.
+
+  彼女は寝る時間が少ないのに、いつも元気そうだ。
+  彼女[かのじょ]は 寝[ね]る 時間[じかん]が 少[すく]ないのに、いつも 元気[げんき]そうだ。
+  Obwohl sie wenig schläft, wirkt sie immer energiegeladen.
+
+  この会社は離職率が少なく、働きやすい環境だと言われています。
+  この 会社[かいしゃ]は 離職率[りしょくりつ]が 少[すく]なく、働[はたら]きやすい 環境[かんきょう]だと 言[い]われています。
+  Es heißt, dass diese Firma eine angenehme Arbeitsumgebung bietet, da die Fluktuation gering ist.
+
+  彼は無駄な動きが少なく、効率的に仕事をこなします。
+  彼[かれ]は 無駄[むだ]な 動[うご]きが 少[すく]なく、効率的[こうりつてき]に 仕事[しごと]をこなします。
+  Er arbeitet effizient, indem er unnötige Bewegungen vermeidet.
+
+  この製品は不良品が少なく、品質管理が徹底されています。
+  この 製品[せいひん]は 不良品[ふりょうひん]が 少[すく]なく、品質管理[ひんしつかんり]が 徹底[てってい]されています。
+  Bei diesem Produkt gibt es wenige Mängel, da die Qualitätskontrolle gründlich durchgeführt wird.
+
+  彼女は失敗を恐れず、リスクの少ない選択ばかりしない。
+  彼女[かのじょ]は 失敗[しっぱい]を 恐[おそ]れず、リスクの 少[すく]ない 選択[せんたく]ばかりしない。
+  Sie fürchtet sich nicht vor Misserfolgen und trifft nicht nur risikoarme Entscheidungen.
+
+  この地域は人口が少ないが、自然が豊かで住みやすい。
+  この 地域[ちいき]は 人口[じんこう]が 少[すく]ないが、自然[しぜん]が 豊[ゆた]かで 住[す]みやすい。
+  Obwohl diese Gegend dünn besiedelt ist, ist sie aufgrund der reichen Natur angenehm zum Leben.
+
+  彼は無口で言葉が少ないけど、信頼できる人物だ。
+  彼[かれ]は 無口[むくち]で 言葉[ことば]が 少[すく]ないけど、信頼[しんらい]できる 人物[じんぶつ]だ。
+  Er ist schweigsam und spricht wenig, aber er ist eine vertrauenswürdige Person.
+
+  この本は内容が濃くて、ページ数は少ないが読み応えがある。
+  この 本[ほん]は 内容[ないよう]が 濃[こ]くて、ページ 数[すう]は 少[すく]ないが 読[よ]み 応[こた]えがある。
+  Dieses Buch hat zwar wenige Seiten, aber aufgrund seines dichten Inhalts ist es sehr lesenswert.
+
+  彼女の作品は装飾が少なく、シンプルで美しい。
+  彼女[かのじょ]の 作品[さくひん]は 装飾[そうしょく]が 少[すく]なく、シンプルで 美[うつく]しい。
+  Ihre Werke sind schlicht und schön, mit wenig Verzierung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

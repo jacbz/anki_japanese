@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>ひょ</span><span class="accent_plain">う</span><sp
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 表示しない・表示した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   画面にメッセージが表示されている。
   画面[がめん]にメッセージが 表示[ひょうじ]されている。
   Die Meldung wird auf dem Bildschirm angezeigt.
+
+  この商品には価格表示がありません。
+  この 商品[しょうひん]には 価格表示[かかくひょうじ]がありません。
+  Dieses Produkt hat keine Preisangabe.
+
+  注意表示を無視して機械を操作したため、事故が起きた。
+  注意表示[ちゅういひょうじ]を 無視[むし]して 機械[きかい]を 操作[そうさ]したため、事故[じこ]が 起[お]きた。
+  Weil die Warnhinweise ignoriert wurden, kam es bei der Bedienung der Maschine zu einem Unfall.
+
+  不当表示で消費者を欺く企業には厳しい罰則が課されます。
+  不当表示[ふとうひょうじ]で 消費者[しょうひしゃ]を 欺[あざむ]く 企業[きぎょう]には 厳[きび]しい 罰則[ばっそく]が 課[か]されます。
+  Unternehmen, die Verbraucher durch irreführende Angaben täuschen, werden streng bestraft.
+
+  契約書に署名することで意思表示をしたことになります。
+  契約書[けいやくしょ]に 署名[しょめい]することで 意思表示[いしひょうじ]をしたことになります。
+  Durch die Unterzeichnung des Vertrags geben Sie Ihre Willenserklärung ab.
+
+  価格表示は税込みで行うことが法律で義務付けられています。
+  価格表示[かかくひょうじ]は 税込[ぜいこ]みで 行[おこな]うことが 法律[ほうりつ]で 義務付[ぎむづ]けられています。
+  Es ist gesetzlich vorgeschrieben, dass Preisangaben inklusive Steuern erfolgen müssen.
+
+  この公園には禁止表示がたくさんあって、窮屈な感じがする。
+  この 公園[こうえん]には 禁止表示[きんしひょうじ]がたくさんあって、窮屈[きゅうくつ]な 感[かん]じがする。
+  In diesem Park gibt es so viele Verbotshinweise, dass es sich beengt anfühlt.
+
+  食品のラベル表示をよく確認して、アレルギー成分に注意しましょう。
+  食品[しょくひん]のラベル 表示[ひょうじ]をよく 確認[かくにん]して、アレルギー 成分[せいぶん]に 注意[ちゅうい]しましょう。
+  Lasst uns die Etiketten von Lebensmitteln sorgfältig prüfen und auf allergene Zutaten achten.
+
+  日付や場所についての表示はなかった。
+  日付[ひづけ]や 場所[ばしょ]についての 表示[ひょうじ]はなかった。
+  Es gab keine Angaben zu Datum oder Ort.
+
+  このキーには番号以外の表示がありません。
+  このキーには 番号[ばんごう] 以外[いがい]の 表示[ひょうじ]がありません。
+  Dieser Schlüssel hat außer der Nummer keine besonderen Kennzeichen.
+
+  経済成長率を棒グラフで表示してください。
+  経済成長率[けいざいせいちょうりつ]を 棒[ぼう]グラフで 表示[ひょうじ]してください。
+  Bitte stellen Sie die Wirtschaftswachstumsrate in einem Balkendiagramm dar.
+
+  問題は私の降服の意志をどうして「敵」に表示するかであった。
+  問題[もんだい]は 私[わたし]の 降服[こうふく]の 意志[いし]をどうして「敵[てき]」に 表示[ひょうじ]するかであった。
+  Das Problem war, wie ich dem "Feind" meine Absicht zur Kapitulation mitteilen sollte.
+
+  新しいソフトウェアの表示画面がとても見やすくなりました。
+  新[あたら]しいソフトウェアの 表示画面[ひょうじがめん]がとても 見[み]やすくなりました。
+  Der Anzeigebildschirm der neuen Software ist viel übersichtlicher geworden.
+
+  この端末は表示文字数に制限があります。
+  この 端末[たんまつ]は 表示文字数[ひょうじもじすう]に 制限[せいげん]があります。
+  Dieses Gerät hat eine Begrenzung für die Anzahl der darstellbaren Zeichen.
+
+  最新の表示装置を導入することで、作業効率が大幅に向上しました。
+  最新[さいしん]の 表示装置[ひょうじそうち]を 導入[どうにゅう]することで、作業効率[さぎょうこうりつ]が 大幅[おおはば]に 向上[こうじょう]しました。
+  Durch die Einführung der neuesten Anzeigevorrichtung hat sich die Arbeitseffizienz erheblich verbessert.
+
+  彼はポケットから携帯電話を取り出した。登録名『ＥＴ』の番号を表示させた。
+  彼[かれ]はポケットから 携帯電話[けいたいでんわ]を 取[と]り 出[だ]した。登録名[とうろくめい]『ＥＴ』の 番号[ばんごう]を 表示[ひょうじ]させた。
+  Er holte sein Handy aus der Tasche und ließ die Nummer mit dem Eintrag "ET" anzeigen.
+
+  商品の原産地を正確に表示することが求められています。
+  商品[しょうひん]の 原産地[げんさんち]を 正確[せいかく]に 表示[ひょうじ]することが 求[もと]められています。
+  Es wird verlangt, dass der Herkunftsort von Produkten genau angegeben wird.
+
+  この看板の表示が消えかかっているので、新しく塗り直す必要があります。
+  この 看板[かんばん]の 表示[ひょうじ]が 消[き]えかかっているので、新[あたら]しく 塗[ぬ]り 直[なお]す 必要[ひつよう]があります。
+  Da die Anzeige auf diesem Schild am Verblassen ist, muss sie neu gestrichen werden.
+
+  システムエラーで正しい情報が表示されていません。
+  システムエラーで 正[ただ]しい 情報[じょうほう]が 表示[ひょうじ]されていません。
+  Aufgrund eines Systemfehlers werden die korrekten Informationen nicht angezeigt.
+
+  この製品の表示使用期限は来月末です。
+  この 製品[せいひん]の 表示使用期限[ひょうじしようきげん]は 来月末[らいげつまつ]です。
+  Das angegebene Verfallsdatum dieses Produkts ist Ende nächsten Monats.
+
+  車のダッシュボードに様々な表示灯があり、車の状態を示しています。
+  車[くるま]のダッシュボードに 様々[さまざま]な 表示灯[ひょうじとう]があり、車[くるま]の 状態[じょうたい]を 示[しめ]しています。
+  Auf dem Armaturenbrett des Autos gibt es verschiedene Kontrollleuchten, die den Zustand des Fahrzeugs anzeigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

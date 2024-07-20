@@ -1,7 +1,7 @@
 Rang: 429
 Lemma: 走る
 Lesung: はしる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 駛る・奔る
 Definition: rennen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_top">し</span><span>�
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 走らない・走った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   駅まで走りましょう。間に合うかもしれません。
   駅[えき]まで 走[はし]りましょう。 間[ま]に 合[あ]うかもしれません。
   Lass uns zum Bahnhof rennen. Wir könnten es schaffen.
+
+  電車に遅れそうだから、駅まで走らなきゃ。
+  電車[でんしゃ]に 遅[おく]れそうだから、駅[えき]まで 走[はし]らなきゃ。
+  Ich muss zur Station rennen, sonst verpasse ich den Zug.
+
+  彼女は毎朝5キロ走るのが日課だ。
+  彼女[かのじょ]は 毎朝[まいあさ]5キロ 走[はし]るのが 日課[にっか]だ。
+  Es gehört zu ihrer täglichen Routine, jeden Morgen 5 Kilometer zu laufen.
+
+  道路を走って渡るのは危険だよ。
+  道路[どうろ]を 走[はし]って 渡[わた]るのは 危険[きけん]だよ。
+  Es ist gefährlich, rennend die Straße zu überqueren.
+
+  矢のように走って逃げる泥棒を追いかけた。
+  矢[や]のように 走[はし]って 逃[に]げる 泥棒[どろぼう]を 追[お]いかけた。
+  Ich verfolgte den Dieb, der pfeilschnell wegrannte.
+
+  レポーターたちが全速力で現場に走ってきた。
+  レポーターたちが 全速力[ぜんそくりょく]で 現場[げんば]に 走[はし]ってきた。
+  Die Reporter rannten mit Höchstgeschwindigkeit zum Tatort.
+
+  この電車は毎日新宿と横浜の間を走っています。
+  この 電車[でんしゃ]は 毎日[まいにち] 新宿[しんじゅく]と 横浜[よこはま]の 間[あいだ]を 走[はし]っています。
+  Dieser Zug verkehrt täglich zwischen Shinjuku und Yokohama.
+
+  高速道路を走るトラックの振動で家が揺れる。
+  高速道路[こうそくどうろ]を 走[はし]るトラックの 振動[しんどう]で 家[いえ]が 揺[ゆ]れる。
+  Das Haus wackelt durch die Vibrationen der Lastwagen, die auf der Autobahn fahren.
+
+  ペンが紙の上を走り、文字が形作られていく。
+  ペンが 紙[かみ]の 上[うえ]を 走[はし]り、文字[もじ]が 形作[かたちづく]られていく。
+  Der Stift gleitet über das Papier und formt dabei Buchstaben.
+
+  タイピストの指がキーボードの上を走る。
+  タイピストの 指[ゆび]がキーボードの 上[うえ]を 走[はし]る。
+  Die Finger des Schreibkraftassistenten fliegen über die Tastatur.
+
+  空を走る雲を見ていると、心が落ち着く。
+  空[そら]を 走[はし]る 雲[くも]を 見[み]ていると、心[こころ]が 落[お]ち 着[つ]く。
+  Es beruhigt mich, die am Himmel dahinziehenden Wolken zu betrachten.
+
+  彼は敵方に走り、裏切り者となった。
+  彼[かれ]は 敵方[てきがた]に 走[はし]り、裏切[うらぎ]り 者[もの]となった。
+  Er lief zum Feind über und wurde zum Verräter.
+
+  若者の中には極端な思想に走る人もいる。
+  若者[わかもの]の 中[なか]には 極端[きょくたん]な 思想[しそう]に 走[はし]る 人[ひと]もいる。
+  Unter den jungen Leuten gibt es auch solche, die zu extremen Ideologien neigen.
+
+  彼女の顔に不安の色が走った。
+  彼女[かのじょ]の 顔[かお]に 不安[ふあん]の 色[いろ]が 走[はし]った。
+  Über ihr Gesicht huschte ein Ausdruck der Besorgnis.
+
+  稲妻が夜空を走り、一瞬辺りが明るくなった。
+  稲妻[いなずま]が 夜空[よぞら]を 走[はし]り、一瞬[いっしゅん] 辺[あた]りが 明[あか]るくなった。
+  Ein Blitz zuckte über den Nachthimmel und erhellte für einen Moment die Umgebung.
+
+  彼の額に深い傷跡が走っている。
+  彼[かれ]の 額[ひたい]に 深[ふか]い 傷跡[きずあと]が 走[はし]っている。
+  Über seine Stirn zieht sich eine tiefe Narbe.
+
+  この道路は海岸線に沿って走っています。
+  この 道路[どうろ]は 海岸線[かいがんせん]に 沿[そ]って 走[はし]っています。
+  Diese Straße verläuft entlang der Küstenlinie.
+
+  地震で壁に亀裂が走った。
+  地震[じしん]で 壁[かべ]に 亀裂[きれつ]が 走[はし]った。
+  Durch das Erdbeben entstanden Risse in der Wand.
+
+  緊急事態なので、すぐに連絡に走りました。
+  緊急事態[きんきゅうじたい]なので、すぐに 連絡[れんらく]に 走[はし]りました。
+  Da es sich um einen Notfall handelte, habe ich mich sofort darum gekümmert, Kontakt aufzunehmen.
+
+  このソフトは古いパソコンでも問題なく走ります。
+  このソフトは 古[ふる]いパソコンでも 問題[もんだい]なく 走[はし]ります。
+  Diese Software läuft problemlos auch auf älteren Computern.
+
+  彼は感情に走りやすいタイプだ。
+  彼[かれ]は 感情[かんじょう]に 走[はし]りやすいタイプだ。
+  Er ist der Typ, der sich leicht von seinen Gefühlen mitreißen lässt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
