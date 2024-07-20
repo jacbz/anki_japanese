@@ -1,10 +1,8 @@
 Rang: 737
 Lemma: 現われる
 Lesung: あらわれる
-Alternativschreibweisen: |2-
-
-  現れる
-Definition: erscheinen
+Alternativschreibweisen: ''
+Definition: erscheinen, auftauchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">ら</span><span class="accent_plain">わ</span><span
@@ -12,7 +10,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 現われない・現われた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -20,6 +18,86 @@ Beispielsätze: |-
   歌手が舞台に現れた。
   歌手[かしゅ]が 舞台[ぶたい]に 現[あらわ]れた。
   Der Sänger erschien auf der Bühne.
+
+  新しい技術が次々と現われて、私たちの生活を変えています。
+  新[あたら]しい 技術[ぎじゅつ]が 次々[つぎつぎ]と 現[あらわ]れて、私[わたし]たちの 生活[せいかつ]を 変[か]えています。
+  Neue Technologien tauchen ständig auf und verändern unser Leben.
+
+  彼の才能が徐々に現われ始めた。
+  彼[かれ]の 才能[さいのう]が 徐々[じょじょ]に 現[あらわ]れ 始[はじ]めた。
+  Sein Talent begann sich allmählich zu zeigen.
+
+  効果が現われるまでには時間がかかることもあります。
+  効果[こうか]が 現[あらわ]れるまでには 時間[じかん]がかかることもあります。
+  Es kann eine Weile dauern, bis die Wirkung eintritt.
+
+  翌日の月曜日の講義にも緑は現われなかった。
+  翌日[よくじつ]の 月曜日[げつようび]の 講義[こうぎ]にも 緑[みどり]は 現[あらわ]れなかった。
+  Auch am folgenden Montag tauchte Midori nicht zur Vorlesung auf.
+
+  凡庸さというのはいろんな形をとって現われる、ということです。
+  凡庸[ぼんよう]さというのはいろんな 形[かたち]をとって 現[あらわ]れる、ということです。
+  Die Mittelmäßigkeit erscheint eben in vielerlei Gestalt.
+
+  見上げると大きな花火が建物の陰から現われ、ぱっと広がるのが見えた。
+  見上[みあ]げると 大[おお]きな 花火[はなび]が 建物[たてもの]の 陰[かげ]から 現[あらわ]れ、ぱっと 広[ひろ]がるのが 見[み]えた。
+  Als ich aufblickte, sah ich, wie ein großes Feuerwerk hinter den Gebäuden auftauchte und sich plötzlich ausbreitete.
+
+  僕は退屈しのぎに次から次へと表われるスマートで都会的な匂いのする広告板を眺めていた。
+  僕[ぼく]は 退屈[たいくつ]しのぎに 次[つぎ]から 次[つぎ]へと 表[あらわ]れるスマートで 都会的[とかいてき]な 匂[にお]いのする 広告板[こうこくばん]を 眺[なが]めていた。
+  Aus Langeweile betrachtete ich die nacheinander auftauchenden eleganten und städtisch anmutenden Werbetafeln.
+
+  若手デザイナーが次々と現れ、原宿の表参道には、「ブティック」と呼ばれるデザイナーズショップが登場。
+  若手[わかて]デザイナーが 次々[つぎつぎ]と 現[あらわ]れ、原宿[はらじゅく]の 表参道[おもてさんどう]には、「ブティック」と 呼[よ]ばれるデザイナーズショップが 登場[とうじょう]。
+  Junge Designer tauchen einer nach dem anderen auf, und in der Omotesando in Harajuku erscheinen Designerläden, die man "Boutiquen" nennt.
+
+  その日一日隊商はあちこちに移動した。南の方を指すと南から部隊が現われ、北の方を指すと北の方から部隊が現われた。
+  その 日[ひ] 一日[いちにち] 隊商[たいしょう]はあちこちに 移動[いどう]した。南[みなみ]の 方[ほう]を 指[さ]すと 南[みなみ]から 部隊[ぶたい]が 現[あらわ]れ、北[きた]の 方[ほう]を 指[さ]すと 北[きた]の 方[ほう]から 部隊[ぶたい]が 現[あらわ]れた。
+  An diesem Tag bewegte sich die Karawane hin und her. Wenn sie nach Süden zeigte, erschienen Truppen aus dem Süden, und wenn sie nach Norden zeigte, erschienen Truppen aus dem Norden.
+
+  ここにも、安田が確かにその列車に乗っていたという目撃の証人が現われていた。
+  ここにも、安田[やすだ]が 確[たし]かにその 列車[れっしゃ]に 乗[の]っていたという 目撃[もくげき]の 証人[しょうにん]が 現[あらわ]れていた。
+  Auch hier war ein Augenzeuge aufgetaucht, der bestätigte, dass Yasuda tatsächlich in diesem Zug gewesen war.
+
+  突然、霧の中から人影が現われた。
+  突然[とつぜん]、霧[きり]の 中[なか]から 人影[ひとかげ]が 現[あらわ]れた。
+  Plötzlich tauchte aus dem Nebel eine Gestalt auf.
+
+  彼の名前が新聞に現われた時、みんな驚いた。
+  彼[かれ]の 名前[なまえ]が 新聞[しんぶん]に 現[あらわ]れた 時[とき]、みんな 驚[おどろ]いた。
+  Alle waren überrascht, als sein Name in der Zeitung auftauchte.
+
+  新しい症状が現われたら、すぐに医師に相談してください。
+  新[あたら]しい 症状[しょうじょう]が 現[あらわ]れたら、すぐに 医師[いし]に 相談[そうだん]してください。
+  Wenn neue Symptome auftreten, konsultieren Sie bitte sofort einen Arzt.
+
+  彼女の才能は若いころから現われていた。
+  彼女[かのじょ]の 才能[さいのう]は 若[わか]いころから 現[あらわ]れていた。
+  Ihr Talent zeigte sich schon in jungen Jahren.
+
+  長年の努力の成果が徐々に現われ始めた。
+  長年[ながねん]の 努力[どりょく]の 成果[せいか]が 徐々[じょじょ]に 現[あらわ]れ 始[はじ]めた。
+  Die Ergebnisse jahrelanger Bemühungen begannen sich allmählich zu zeigen.
+
+  彼の本当の性格が少しずつ現われてきた。
+  彼[かれ]の 本当[ほんとう]の 性格[せいかく]が 少[すこ]しずつ 現[あらわ]れてきた。
+  Sein wahrer Charakter kam nach und nach zum Vorschein.
+
+  新しい星が夜空に現われるのを望遠鏡で観察した。
+  新[あたら]しい 星[ほし]が 夜空[よぞら]に 現[あらわ]れるのを 望遠鏡[ぼうえんきょう]で 観察[かんさつ]した。
+  Wir beobachteten durch das Teleskop, wie ein neuer Stern am Nachthimmel erschien.
+
+  このような問題が現われるのは予想外だった。
+  このような 問題[もんだい]が 現[あらわ]れるのは 予想外[よそうがい]だった。
+  Es war unerwartet, dass solche Probleme auftauchten.
+
+  彼女の名前が有名になり、テレビにも現われるようになった。
+  彼女[かのじょ]の 名前[なまえ]が 有名[ゆうめい]になり、テレビにも 現[あらわ]れるようになった。
+  Ihr Name wurde bekannt, und sie begann auch im Fernsehen aufzutreten.
+
+  春になると、山々に新緑が現われ始める。
+  春[はる]になると、山々[やまやま]に 新緑[しんりょく]が 現[あらわ]れ 始[はじ]める。
+  Wenn der Frühling kommt, beginnt das frische Grün in den Bergen zu erscheinen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

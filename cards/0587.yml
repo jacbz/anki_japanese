@@ -1,7 +1,7 @@
 Rang: 587
 Lemma: 図る
 Lesung: はかる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 計る・量る・測る・謀る・諮る
 Definition: versuchen; planen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_top">か</span><span>�
 Register: ↗</>Verwaltungssprache
 Dispersion: '40'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 図らない・図った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   事態の改善を図らなければならない。
   事態[じたい]の 改善[かいぜん]を 図[はか]らなければならない。
   Wir müssen versuchen, die Situation zu verbessern.
+
+  距離計で二点間の距離を図ります。
+  距離計[きょりけい]で 二点間[にてんかん]の 距離[きょり]を 図[はか]ります。
+  Mit einem Entfernungsmesser messe ich die Distanz zwischen zwei Punkten.
+
+  医者は患者の体温を図って、熱があるか確認した。
+  医者[いしゃ]は 患者[かんじゃ]の 体温[たいおん]を 図[はか]って、熱[ねつ]があるか 確認[かくにん]した。
+  Der Arzt maß die Körpertemperatur des Patienten, um zu überprüfen, ob er Fieber hatte.
+
+  相手の出方を図りながら、慎重に交渉を進めましょう。
+  相手[あいて]の 出方[でかた]を 図[はか]りながら、慎重[しんちょう]に 交渉[こうしょう]を 進[すす]めましょう。
+  Lasst uns vorsichtig verhandeln, während wir die Reaktionen der Gegenseite abschätzen.
+
+  彼女の気持ちを図りかねて、何と言えばいいか分からなかった。
+  彼女[かのじょ]の 気持[きも]ちを 図[はか]りかねて、何[なん]と 言[い]えばいいか 分[わ]からなかった。
+  Ich konnte ihre Gefühle nicht einschätzen und wusste nicht, was ich sagen sollte.
+
+  会社の将来を図るため、社長は新しい戦略を練っている。
+  会社[かいしゃ]の 将来[しょうらい]を 図[はか]るため、社長[しゃちょう]は 新[あたら]しい 戦略[せんりゃく]を 練[ね]っている。
+  Um die Zukunft des Unternehmens zu planen, arbeitet der Präsident an einer neuen Strategie.
+
+  重要な決定の前に、必ず上司に図るようにしています。
+  重要[じゅうよう]な 決定[けってい]の 前[まえ]に、必[かなら]ず 上司[じょうし]に 図[はか]るようにしています。
+  Vor wichtigen Entscheidungen berate ich mich immer mit meinem Vorgesetzten.
+
+  専門家に図って、最適な解決策を見つけましょう。
+  専門家[せんもんか]に 図[はか]って、最適[さいてき]な 解決策[かいけつさく]を 見[み]つけましょう。
+  Lass uns einen Experten konsultieren, um die beste Lösung zu finden.
+
+  政府は経済成長を図るための新たな政策を発表した。
+  政府[せいふ]は 経済成長[けいざいせいちょう]を 図[はか]るための 新[あら]たな 政策[せいさく]を 発表[はっぴょう]した。
+  Die Regierung hat eine neue Politik zur Förderung des Wirtschaftswachstums angekündigt.
+
+  彼は自分の利益ばかりを図って、周りの人のことを考えない。
+  彼[かれ]は 自分[じぶん]の 利益[りえき]ばかりを 図[はか]って、周[まわ]りの 人[ひと]のことを 考[かんが]えない。
+  Er ist nur auf seinen eigenen Vorteil bedacht und denkt nicht an die Menschen um ihn herum.
+
+  新製品の開発を図るため、研究チームを立ち上げました。
+  新製品[しんせいひん]の 開発[かいはつ]を 図[はか]るため、研究[けんきゅう]チームを 立[た]ち 上[あ]げました。
+  Um die Entwicklung eines neuen Produkts voranzutreiben, haben wir ein Forschungsteam gegründet.
+
+  彼らは密かに政権転覆を図っていたが、計画は露見した。
+  彼[かれ]らは 密[ひそ]かに 政権転覆[せいけんてんぷく]を 図[はか]っていたが、計画[けいかく]は 露見[ろけん]した。
+  Sie planten heimlich den Sturz der Regierung, aber ihr Plan wurde aufgedeckt.
+
+  この問題の解決を図るには、もっと時間が必要だ。
+  この 問題[もんだい]の 解決[かいけつ]を 図[はか]るには、もっと 時間[じかん]が 必要[ひつよう]だ。
+  Um eine Lösung für dieses Problem zu finden, brauchen wir mehr Zeit.
+
+  彼女は常に他人の幸せを図ろうとする優しい人だ。
+  彼女[かのじょ]は 常[つね]に 他人[たにん]の 幸[しあわ]せを 図[はか]ろうとする 優[やさ]しい 人[ひと]だ。
+  Sie ist eine freundliche Person, die immer versucht, das Glück anderer zu fördern.
+
+  新しいプロジェクトの成功を図るため、チーム全員で協力しよう。
+  新[あたら]しいプロジェクトの 成功[せいこう]を 図[はか]るため、チーム 全員[ぜんいん]で 協力[きょうりょく]しよう。
+  Lasst uns als Team zusammenarbeiten, um den Erfolg des neuen Projekts sicherzustellen.
+
+  彼は自分の利益を図るためなら、どんな手段も厭わない。
+  彼[かれ]は 自分[じぶん]の 利益[りえき]を 図[はか]るためなら、どんな 手段[しゅだん]も 厭[いと]わない。
+  Er scheut keine Mittel, um seinen eigenen Vorteil zu verfolgen.
+
+  政府は国民の福祉向上を図るための新しい法案を提出した。
+  政府[せいふ]は 国民[こくみん]の 福祉向上[ふくしこうじょう]を 図[はか]るための 新[あたら]しい 法案[ほうあん]を 提出[ていしゅつ]した。
+  Die Regierung hat einen neuen Gesetzentwurf zur Verbesserung des Wohlstands der Bürger eingebracht.
+
+  この会社は従業員の満足度向上を図るため、様々な福利厚生制度を導入している。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 満足度向上[まんぞくどこうじょう]を 図[はか]るため、様々[さまざま]な 福利厚生制度[ふくりこうせいせいど]を 導入[どうにゅう]している。
+  Dieses Unternehmen führt verschiedene Sozialleistungen ein, um die Zufriedenheit der Mitarbeiter zu erhöhen.
+
+  彼らは密かに敵の陣地への侵入を図っていた。
+  彼[かれ]らは 密[ひそ]かに 敵[てき]の 陣地[じんち]への 侵入[しんにゅう]を 図[はか]っていた。
+  Sie planten heimlich, in das feindliche Lager einzudringen.
+
+  環境保護を図りつつ、経済発展も進める難しさがある。
+  環境保護[かんきょうほご]を 図[はか]りつつ、経済発展[けいざいはってん]も 進[すす]める 難[むずか]しさがある。
+  Es ist schwierig, den Umweltschutz zu fördern und gleichzeitig die wirtschaftliche Entwicklung voranzutreiben.
+
+  お客様の便宜を図るため、24時間対応のサポートセンターを設置しました。
+  お客様[おきゃくさま]の 便宜[べんぎ]を 図[はか]るため、24時間対応[じかんたいおう]のサポートセンターを 設置[せっち]しました。
+  Um unseren Kunden entgegenzukommen, haben wir ein 24-Stunden-Supportcenter eingerichtet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

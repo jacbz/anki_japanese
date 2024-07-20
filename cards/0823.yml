@@ -1,7 +1,7 @@
 Rang: 823
 Lemma: しゃべる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 喋る
 Definition: unterhalten, plaudern
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>しゃ</span><span class="accent_top">べ</span><span
 Register: ''
 Dispersion: '76'
 Ursprung: ''
-Konjugation: ''
+Konjugation: しゃべらない・しゃべった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   昼ご飯を食べながら友達としゃべるのは楽しい。
   昼[ひる]ご 飯[はん]を 食[た]べながら 友達[ともだち]としゃべるのは 楽[たの]しい。
   Es macht Spaß, sich beim Mittagessen mit Freunden zu unterhalten.
+
+  早口にしゃべるのは良くないよ。聞き手のことを考えて。
+  早口[はやくち]にしゃべるのは 良[よ]くないよ。聞[き]き 手[て]のことを 考[かんが]えて。
+  Schnell zu reden ist nicht gut. Denk an deine Zuhörer.
+
+  心置きなくしゃべれる友達がいて幸せです。
+  心置[こころお]きなくしゃべれる 友達[ともだち]がいて 幸[しあわ]せです。
+  Ich bin glücklich, Freunde zu haben, mit denen ich offen reden kann.
+
+  授業中にしゃべると先生に怒られるよ。
+  授業中[じゅぎょうちゅう]にしゃべると 先生[せんせい]に 怒[おこ]られるよ。
+  Wenn du im Unterricht schwätzt, wird der Lehrer böse.
+
+  彼女はよくしゃべる人で、会話が途切れることがありません。
+  彼女[かのじょ]はよくしゃべる 人[ひと]で、会話[かいわ]が 途切[とぎ]れることがありません。
+  Sie ist eine sehr gesprächige Person, und die Unterhaltung kommt nie zum Erliegen.
+
+  くだらないことをしゃべるのは時間の無駄だ。
+  くだらないことをしゃべるのは 時間[じかん]の 無駄[むだ]だ。
+  Es ist Zeitverschwendung, Unsinn zu reden.
+
+  外国語をしゃべれるようになりたいです。
+  外国語[がいこくご]をしゃべれるようになりたいです。
+  Ich möchte eine Fremdsprache sprechen können.
+
+  旅行の体験をみんなにしゃべるのが楽しみです。
+  旅行[りょこう]の 体験[たいけん]をみんなにしゃべるのが 楽[たの]しみです。
+  Ich freue mich darauf, allen von meinen Reiseerfahrungen zu erzählen.
+
+  会社の情報を外部にしゃべってはいけません。
+  会社[かいしゃ]の 情報[じょうほう]を 外部[がいぶ]にしゃべってはいけません。
+  Du darfst keine Unternehmensinformationen nach außen tragen.
+
+  彼女はしゃべりにしゃべって、止まらなかった。
+  彼女[かのじょ]はしゃべりにしゃべって、止[と]まらなかった。
+  Sie redete und redete ohne Unterbrechung.
+
+  私は自分のことをしゃべりたがらない方です。
+  私[わたし]は 自分[じぶん]のことをしゃべりたがらない 方[ほう]です。
+  Ich bin jemand, der nicht gerne über sich selbst redet.
+
+  緊張して何をしゃべっていいか分からなくなった。
+  緊張[きんちょう]して 何[なに]をしゃべっていいか 分[わ]からなくなった。
+  Ich war so nervös, dass ich nicht wusste, was ich sagen sollte.
+
+  友達とカフェでしゃべりながらコーヒーを飲むのが好きです。
+  友達[ともだち]とカフェでしゃべりながらコーヒーを 飲[の]むのが 好[す]きです。
+  Ich mag es, mit Freunden im Café zu plaudern und Kaffee zu trinken.
+
+  彼は酔っ払うとよくしゃべる。
+  彼[かれ]は 酔[よ]っ 払[ぱら]うとよくしゃべる。
+  Er redet viel, wenn er betrunken ist.
+
+  面接官の前でうまくしゃべれなかった。
+  面接官[めんせつかん]の 前[まえ]でうまくしゃべれなかった。
+  Ich konnte vor dem Interviewer nicht gut reden.
+
+  子供たちは元気にしゃべりながら遊んでいる。
+  子供[こども]たちは 元気[げんき]にしゃべりながら 遊[あそ]んでいる。
+  Die Kinder spielen und plaudern fröhlich miteinander.
+
+  彼女は３か国語をペラペラとしゃべれる。
+  彼女[かのじょ]は３か 国語[こくご]をペラペラとしゃべれる。
+  Sie kann fließend drei Sprachen sprechen.
+
+  しゃべりすぎて喉が渇いた。
+  しゃべりすぎて 喉[のど]が 渇[かわ]いた。
+  Ich habe so viel geredet, dass mein Hals trocken geworden ist.
+
+  彼は人前でしゃべるのが得意だ。
+  彼[かれ]は 人前[ひとまえ]でしゃべるのが 得意[とくい]だ。
+  Er ist gut darin, vor Menschen zu sprechen.
+
+  もっとゆっくりしゃべってください。聞き取れません。
+  もっとゆっくりしゃべってください。聞[き]き 取[と]れません。
+  Bitte sprechen Sie langsamer. Ich kann Sie nicht verstehen.
+
+  老婦人は淀みなくしゃべった。
+  老婦人[ろうふじん]は 淀[よど]みなくしゃべった。
+  Die alte Dame sprach ohne zu stocken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

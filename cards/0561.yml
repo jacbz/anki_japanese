@@ -2,9 +2,9 @@ Rang: 561
 Lemma: それでも
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: aber dennoch
+Definition: aber, trotzdem, dennoch
 Extra: '' # Nur bei suru-Verben
-Wortart: konj
+Wortart: phr, konj
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '90'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   それでも、彼女はあきらめなかった。
   それでも、 彼女[かのじょ]はあきらめなかった。
   Aber dennoch gab sie niemals auf.
+
+  彼は難しい状況にあるが、それでも頑張り続けている。
+  彼[かれ]は 難[むずか]しい 状況[じょうきょう]にあるが、それでも 頑張[がんば]り 続[つづ]けている。
+  Er befindet sich in einer schwierigen Situation, aber er gibt trotzdem nicht auf.
+
+  雨が降っているけど、それでも外出するつもりです。
+  雨[あめ]が 降[ふ]っているけど、それでも 外出[がいしゅつ]するつもりです。
+  Es regnet zwar, aber ich habe dennoch vor, auszugehen.
+
+  試験に落ちたけど、それでもあきらめずに再挑戦します。
+  試験[しけん]に 落[お]ちたけど、それでもあきらめずに 再挑戦[さいちょうせん]します。
+  Ich bin zwar durch die Prüfung gefallen, aber ich gebe nicht auf und versuche es erneut.
+
+  彼女は病気だった。それでも仕事に行った。
+  彼女[かのじょ]は 病気[びょうき]だった。それでも 仕事[しごと]に 行[い]った。
+  Sie war krank. Trotzdem ging sie zur Arbeit.
+
+  お金がないけど、それでも旅行に行きたい。
+  お金[かね]がないけど、それでも 旅行[りょこう]に 行[い]きたい。
+  Ich habe zwar kein Geld, aber ich möchte trotzdem verreisen.
+
+  彼は年を取っている。それでも若々しく見える。
+  彼[かれ]は 年[とし]を 取[と]っている。それでも 若々[わかわか]しく 見[み]える。
+  Er ist zwar alt, sieht aber dennoch jung aus.
+
+  値段が高いです。それでも買いたいと思っています。
+  値段[ねだん]が 高[たか]いです。それでも 買[か]いたいと 思[おも]っています。
+  Der Preis ist hoch. Trotzdem möchte ich es kaufen.
+
+  道路が混んでいる。それでも時間通りに到着するつもりだ。
+  道路[どうろ]が 混[こ]んでいる。それでも 時間通[じかんどお]りに 到着[とうちゃく]するつもりだ。
+  Die Straßen sind verstopft. Dennoch habe ich vor, pünktlich anzukommen.
+
+  彼女は忙しい。それでも友達と会う時間を作る。
+  彼女[かのじょ]は 忙[いそが]しい。それでも 友達[ともだち]と 会[あ]う 時間[じかん]を 作[つく]る。
+  Sie ist beschäftigt. Trotzdem nimmt sie sich Zeit, um sich mit Freunden zu treffen.
+
+  失敗したけど、それでもあきらめない。
+  失敗[しっぱい]したけど、それでもあきらめない。
+  Ich habe zwar versagt, aber ich gebe trotzdem nicht auf.
+
+  台風が近づいている。それでも花火大会は予定通り行われる。
+  台風[たいふう]が 近[ちか]づいている。それでも 花火大会[はなびたいかい]は 予定通[よていどお]り 行[おこな]われる。
+  Ein Taifun nähert sich. Dennoch findet das Feuerwerk wie geplant statt.
+
+  彼は初心者だ。それでも難しい曲を弾こうとしている。
+  彼[かれ]は 初心者[しょしんしゃ]だ。それでも 難[むずか]しい 曲[きょく]を 弾[ひ]こうとしている。
+  Er ist ein Anfänger. Trotzdem versucht er, schwierige Stücke zu spielen.
+
+  この仕事は大変だ。それでもやりがいがある。
+  この 仕事[しごと]は 大変[たいへん]だ。それでもやりがいがある。
+  Diese Arbeit ist zwar anstrengend, aber dennoch lohnend.
+
+  彼女は疲れている。それでも笑顔を絶やさない。
+  彼女[かのじょ]は 疲[つか]れている。それでも 笑顔[えがお]を 絶[た]やさない。
+  Sie ist müde. Trotzdem hört sie nicht auf zu lächeln.
+
+  今日は寒い。それでも散歩に出かけよう。
+  今日[きょう]は 寒[さむ]い。それでも 散歩[さんぽ]に 出[で]かけよう。
+  Es ist heute kalt. Lass uns trotzdem spazieren gehen.
+
+  彼は経験が少ない。それでも頑張って仕事をこなしている。
+  彼[かれ]は 経験[けいけん]が 少[すく]ない。それでも 頑張[がんば]って 仕事[しごと]をこなしている。
+  Er hat wenig Erfahrung. Trotzdem bewältigt er seine Arbeit mit großem Einsatz.
+
+  天気予報は雨だ。それでもピクニックに行く予定だ。
+  天気予報[てんきよほう]は 雨[あめ]だ。それでもピクニックに 行[い]く 予定[よてい]だ。
+  Die Wettervorhersage sagt Regen voraus. Trotzdem planen wir, zum Picknick zu gehen.
+
+  彼女は忙しい。それでも毎日運動する時間を作っている。
+  彼女[かのじょ]は 忙[いそが]しい。それでも 毎日[まいにち] 運動[うんどう]する 時間[じかん]を 作[つく]っている。
+  Sie ist beschäftigt. Dennoch nimmt sie sich jeden Tag Zeit zum Sport.
+
+  彼は怪我をしている。それでも試合に出場するつもりだ。
+  彼[かれ]は 怪我[けが]をしている。それでも 試合[しあい]に 出場[しゅつじょう]するつもりだ。
+  Er ist verletzt. Trotzdem hat er vor, am Spiel teilzunehmen.
+
+  この本は難しい。それでも最後まで読み通すつもりだ。
+  この 本[ほん]は 難[むずか]しい。それでも 最後[さいご]まで 読[よ]み 通[とお]すつもりだ。
+  Dieses Buch ist schwierig. Dennoch habe ich vor, es bis zum Ende zu lesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

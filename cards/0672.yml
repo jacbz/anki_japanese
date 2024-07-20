@@ -2,14 +2,14 @@ Rang: 672
 Lemma: 集まる
 Lesung: あつまる
 Alternativschreibweisen: ''
-Definition: versammeln
+Definition: sich versammeln, zusammenkommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">つ</span><span class="accent_top">ま</span><span>る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 集まらない・集まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   人々は部屋に集まっている。
   人々[ひとびと]は 部屋[へや]に 集[あつ]まっている。
   Menschen haben sich im Raum versammelt.
+
+  毎週金曜日に友達と集まって映画を見る。
+  毎週[まいしゅう] 金曜日[きんようび]に 友達[ともだち]と 集[あつ]まって 映画[えいが]を 見[み]る。
+  Jeden Freitag treffen wir uns mit Freunden und schauen einen Film.
+
+  会議に参加者全員が集まりました。
+  会議[かいぎ]に 参加者[さんかしゃ] 全員[ぜんいん]が 集[あつ]まりました。
+  Alle Teilnehmer haben sich zur Besprechung versammelt.
+
+  募金活動で多くのお金が集まった。
+  募金[ぼきん] 活動[かつどう]で 多[おお]くのお 金[かね]が 集[あつ]まった。
+  Durch die Spendenaktion kam viel Geld zusammen.
+
+  新製品の発表会に多くの記者が集まっている。
+  新[しん] 製品[せいひん]の 発表会[はっぴょうかい]に 多[おお]くの 記者[きしゃ]が 集[あつ]まっている。
+  Viele Journalisten haben sich zur Präsentation des neuen Produkts versammelt.
+
+  彼女の周りにはいつも人が集まる。
+  彼女[かのじょ]の 周[まわ]りにはいつも 人[ひと]が 集[あつ]まる。
+  Um sie herum versammeln sich immer Leute.
+
+  災害後、被災地にボランティアが集まった。
+  災害後[さいがいご]、被災地[ひさいち]にボランティアが 集[あつ]まった。
+  Nach der Katastrophe kamen Freiwillige in das betroffene Gebiet zusammen.
+
+  この問題に関心が集まっている。
+  この 問題[もんだい]に 関心[かんしん]が 集[あつ]まっている。
+  Dieses Problem erweckt großes Interesse.
+
+  週に一回集まって勉強会をしています。
+  週[しゅう]に 一回[いっかい] 集[あつ]まって 勉強会[べんきょうかい]をしています。
+  Wir treffen uns einmal in der Woche zu einer Studiengruppe.
+
+  彼の話に注目が集まった。
+  彼[かれ]の 話[はなし]に 注目[ちゅうもく]が 集[あつ]まった。
+  Seine Rede zog die Aufmerksamkeit auf sich.
+
+  お祭りの日には町中に人が集まる。
+  お 祭[まつ]りの 日[ひ]には 町中[まちじゅう]に 人[ひと]が 集[あつ]まる。
+  Am Tag des Festivals versammeln sich überall in der Stadt Menschen.
+
+  クラス会に卒業生の半数が集まった。
+  クラス 会[かい]に 卒業生[そつぎょうせい]の 半数[はんすう]が 集[あつ]まった。
+  Die Hälfte der Absolventen kam zum Klassentreffen zusammen.
+
+  緊急会議のため、幹部社員が集まっています。
+  緊急[きんきゅう] 会議[かいぎ]のため、幹部[かんぶ] 社員[しゃいん]が 集[あつ]まっています。
+  Die leitenden Angestellten versammeln sich für eine Dringlichkeitssitzung.
+
+  コンサート会場に大勢のファンが集まった。
+  コンサート 会場[かいじょう]に 大勢[おおぜい]のファンが 集[あつ]まった。
+  Viele Fans versammelten sich am Konzertort.
+
+  サークルの初回ミーティングに20人ほどが集まった。
+  サークルの 初回[しょかい]ミーティングに20人[にじゅうにん]ほどが 集[あつ]まった。
+  Etwa 20 Personen kamen zum ersten Treffen des Clubs zusammen.
+
+  この地域に観光客が集まる理由を調査しています。
+  この 地域[ちいき]に 観光客[かんこうきゃく]が 集[あつ]まる 理由[りゆう]を 調査[ちょうさ]しています。
+  Wir untersuchen die Gründe, warum sich Touristen in dieser Region versammeln.
+
+  駅前に人が集まっているけど、何かあったのかな。
+  駅前[えきまえ]に 人[ひと]が 集[あつ]まっているけど、何[なに]かあったのかな。
+  Vor dem Bahnhof haben sich Leute versammelt, ich frage mich, ob etwas passiert ist.
+
+  新しいショッピングモールにたくさんの客が集まっている。
+  新[あたら]しいショッピングモールにたくさんの 客[きゃく]が 集[あつ]まっている。
+  Viele Kunden haben sich in dem neuen Einkaufszentrum eingefunden.
+
+  彼の演説に多くの聴衆が集まった。
+  彼[かれ]の 演説[えんぜつ]に 多[おお]くの 聴衆[ちょうしゅう]が 集[あつ]まった。
+  Viele Zuhörer versammelten sich für seine Rede.
+
+  大学のキャンパスに新入生が集まっている。
+  大学[だいがく]のキャンパスに 新入生[しんにゅうせい]が 集[あつ]まっている。
+  Die neuen Studenten versammeln sich auf dem Universitätscampus.
+
+  オンラインイベントに世界中から参加者が集まった。
+  オンラインイベントに 世界中[せかいじゅう]から 参加者[さんかしゃ]が 集[あつ]まった。
+  Teilnehmer aus der ganzen Welt kamen für das Online-Event zusammen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

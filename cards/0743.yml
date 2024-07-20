@@ -2,7 +2,7 @@ Rang: 743
 Lemma: 明らか
 Lesung: あきらか
 Alternativschreibweisen: ''
-Definition: klar, offensichtlich
+Definition: klar, deutlich, offensichtlich
 Extra: '' # Nur bei suru-Verben
 Wortart: na-adj
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_top">き</span><span>ら</span><span>か</span><span></span>
@@ -17,6 +17,90 @@ Beispielsätze: |-
   彼の死因は明らかではない。
   彼[かれ]の 死因[しいん]は 明[あき]らかではない。
   Die Ursache für seinen Tod ist unklar.
+
+  満月が空に明らかに輝いていた。
+  満月[まんげつ]が 空[そら]に 明[あき]らかに 輝[かがや]いていた。
+  Der Vollmond leuchtete hell am Himmel.
+
+  月の明らかな夜に散歩するのは気持ちがいい。
+  月[つき]の 明[あき]らかな 夜[よる]に 散歩[さんぽ]するのは 気持[きも]ちがいい。
+  Es ist angenehm, in einer mondhellen Nacht spazieren zu gehen.
+
+  彼の説明には明らかな誤りがあった。
+  彼[かれ]の 説明[せつめい]には 明[あき]らかな 誤[あやま]りがあった。
+  In seiner Erklärung gab es einen offensichtlichen Fehler.
+
+  その事実は明らかで、誰も否定できなかった。
+  その 事実[じじつ]は 明[あき]らかで、誰[だれ]も 否定[ひてい]できなかった。
+  Die Tatsache war unbestreitbar und niemand konnte sie leugnen.
+
+  警察は詐欺師の明らかな犯罪を立証した。
+  警察[けいさつ]は 詐欺師[さぎし]の 明[あき]らかな 犯罪[はんざい]を 立証[りっしょう]した。
+  Die Polizei bewies den offenkundigen Betrug des Schwindlers.
+
+  明らかな証拠がないため、彼を逮捕できなかった。
+  明[あき]らかな 証拠[しょうこ]がないため、彼[かれ]を 逮捕[たいほ]できなかった。
+  Aufgrund des Fehlens eindeutiger Beweise konnte er nicht verhaftet werden.
+
+  事故の理由は明らかでないため、調査が続いている。
+  事故[じこ]の 理由[りゆう]は 明[あき]らかでないため、調査[ちょうさ]が 続[つづ]いている。
+  Da die Ursache des Unfalls unklar ist, werden die Untersuchungen fortgesetzt.
+
+  試合結果は明らかだ。我がチームの圧勝だ。
+  試合結果[しあいけっか]は 明[あき]らかだ。我[わ]がチームの 圧勝[あっしょう]だ。
+  Das Spielergebnis ist eindeutig. Es ist ein überwältigender Sieg für unser Team.
+
+  検死の結果、死因が明らかになった。
+  検死[けんし]の 結果[けっか]、死因[しいん]が 明[あき]らかになった。
+  Das Ergebnis der Autopsie hat die Todesursache geklärt.
+
+  彼女が外国人であることは一目見て明らかだった。
+  彼女[かのじょ]が 外国人[がいこくじん]であることは 一目見[ひとめみ]て 明[あき]らかだった。
+  Es war auf den ersten Blick offensichtlich, dass sie eine Ausländerin war.
+
+  明らかに君が悪いのに、なぜ謝らないの？
+  明[あき]らかに 君[きみ]が 悪[わる]いのに、なぜ 謝[あやま]らないの？
+  Es ist eindeutig dein Fehler, warum entschuldigst du dich nicht?
+
+  私はまだ若すぎて、人生に絶望するには明らかに早い。
+  私[わたし]はまだ 若[わか]すぎて、人生[じんせい]に 絶望[ぜつぼう]するには 明[あき]らかに 早[はや]い。
+  Ich bin eindeutig zu jung, um am Leben zu verzweifeln.
+
+  この文書を読んで、その目的が明らかになった。
+  この 文書[ぶんしょ]を 読[よ]んで、その 目的[もくてき]が 明[あき]らかになった。
+  Nachdem ich dieses Dokument gelesen hatte, wurde mir der Zweck klar.
+
+  最近の調査で、その製品の人気が明らかに下落していることが分かった。
+  最近[さいきん]の 調査[ちょうさ]で、その 製品[せいひん]の 人気[にんき]が 明[あき]らかに 下落[げらく]していることが 分[わ]かった。
+  Jüngste Untersuchungen haben gezeigt, dass die Popularität dieses Produkts deutlich gesunken ist.
+
+  彼の発言が明らかになった際、会社に問い合わせが殺到した。
+  彼[かれ]の 発言[はつげん]が 明[あき]らかになった 際[さい]、会社[かいしゃ]に 問[と]い 合[あ]わせが 殺到[さっとう]した。
+  Als seine Äußerungen bekannt wurden, gab es eine Flut von Anfragen an das Unternehmen.
+
+  警察は事件の真相を明らかにするために捜査を続けている。
+  警察[けいさつ]は 事件[じけん]の 真相[しんそう]を 明[あき]らかにするために 捜査[そうさ]を 続[つづ]けている。
+  Die Polizei setzt ihre Ermittlungen fort, um die wahren Umstände des Vorfalls aufzuklären.
+
+  彼らは長年の秘密を明らかにすることを決意した。
+  彼[かれ]らは 長年[ながねん]の 秘密[ひみつ]を 明[あき]らかにすることを 決意[けつい]した。
+  Sie beschlossen, ihr langjähriges Geheimnis zu lüften.
+
+  法廷で証人は真実を明らかにした。
+  法廷[ほうてい]で 証人[しょうにん]は 真実[しんじつ]を 明[あき]らかにした。
+  Der Zeuge enthüllte die Wahrheit vor Gericht.
+
+  新しい研究結果が明らかになり、科学界に衝撃を与えた。
+  新[あたら]しい 研究結果[けんきゅうけっか]が 明[あき]らかになり、科学界[かがくかい]に 衝撃[しょうげき]を 与[あた]えた。
+  Die Veröffentlichung neuer Forschungsergebnisse erschütterte die wissenschaftliche Gemeinschaft.
+
+  会社は新製品の詳細を明らかにしたが、価格は明らかにしなかった。
+  会社[かいしゃ]は 新[しん]製品[せいひん]の 詳細[しょうさい]を 明[あき]らかにしたが、価格[かかく]は 明[あき]らかにしなかった。
+  Das Unternehmen gab Details zu dem neuen Produkt bekannt, nannte aber den Preis nicht.
+
+  この事実は火を見るよりも明らかだ。
+  この 事実[じじつ]は 火[ひ]を 見[み]るよりも 明[あき]らかだ。
+  Diese Tatsache ist sonnenklar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

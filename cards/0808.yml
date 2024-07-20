@@ -1,7 +1,7 @@
 Rang: 808
 Lemma: つながる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 繋がる
 Definition: verbunden sein
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">な</span><span 
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 繋がらない・繋がった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   これらの島々は橋でつながっている。
   これらの 島々[しまじま]は 橋[はし]でつながっている。
   Diese Inseln sind durch eine Brücke verbunden.
+
+  この二つの都市は新しい橋で繋がっています。
+  この 二[ふた]つの 都市[とし]は 新[あたら]しい 橋[はし]で 繋[つな]がっています。
+  Diese beiden Städte sind durch eine neue Brücke verbunden.
+
+  電話が繋がらなくて、何度もかけ直しました。
+  電話[でんわ]が 繋[つな]がらなくて、何度[なんど]もかけ 直[なお]しました。
+  Die Telefonverbindung kam nicht zustande, sodass ich mehrmals erneut anrufen musste.
+
+  インターネットに繋がっていないと、仕事ができません。
+  インターネットに 繋[つな]がっていないと、仕事[しごと]ができません。
+  Ohne Internetverbindung kann ich nicht arbeiten.
+
+  この道は駅に繋がっているよ。
+  この 道[みち]は 駅[えき]に 繋[つな]がっているよ。
+  Dieser Weg führt zum Bahnhof.
+
+  努力は必ず良い結果に繋がると信じています。
+  努力[どりょく]は 必[かなら]ず 良[よ]い 結果[けっか]に 繋[つな]がると 信[しん]じています。
+  Ich glaube, dass Anstrengung immer zu guten Ergebnissen führt.
+
+  彼の発言は大きな論争に繋がってしまった。
+  彼[かれ]の 発言[はつげん]は 大[おお]きな 論争[ろんそう]に 繋[つな]がってしまった。
+  Seine Aussage führte zu einer großen Kontroverse.
+
+  この研究は新しい治療法の開発に繋がるかもしれません。
+  この 研究[けんきゅう]は 新[あたら]しい 治療法[ちりょうほう]の 開発[かいはつ]に 繋[つな]がるかもしれません。
+  Diese Forschung könnte zur Entwicklung neuer Behandlungsmethoden führen.
+
+  列車の車両が長く繋がって、駅のホームを占領していた。
+  列車[れっしゃ]の 車両[しゃりょう]が 長[なが]く 繋[つな]がって、駅[えき]のホームを 占領[せんりょう]していた。
+  Die Waggons des Zuges waren lang aneinandergereiht und nahmen den gesamten Bahnsteig ein.
+
+  避難所の前には人々が長い列を作って繋がっていました。
+  避難所[ひなんじょ]の 前[まえ]には 人々[ひとびと]が 長[なが]い 列[れつ]を 作[つく]って 繋[つな]がっていました。
+  Vor dem Evakuierungszentrum bildeten die Menschen eine lange Schlange.
+
+  この二つの事件は不思議な形で繋がっているようだ。
+  この 二[ふた]つの 事件[じけん]は 不思議[ふしぎ]な 形[かたち]で 繋[つな]がっているようだ。
+  Diese beiden Vorfälle scheinen auf mysteriöse Weise miteinander verbunden zu sein.
+
+  彼の行動は過去の経験と繋がっているのかもしれません。
+  彼[かれ]の 行動[こうどう]は 過去[かこ]の 経験[けいけん]と 繋[つな]がっているのかもしれません。
+  Sein Verhalten könnte mit seinen vergangenen Erfahrungen zusammenhängen.
+
+  私たちの生活は自然と密接に繋がっています。
+  私[わたし]たちの 生活[せいかつ]は 自然[しぜん]と 密接[みっせつ]に 繋[つな]がっています。
+  Unser Leben ist eng mit der Natur verbunden.
+
+  この遺跡は古代の文明と繋がっているんだ。
+  この 遺跡[いせき]は 古代[こだい]の 文明[ぶんめい]と 繋[つな]がっているんだ。
+  Diese Ruinen sind mit einer antiken Zivilisation verbunden.
+
+  彼らは血のつながりはないけど、家族同然なんだ。
+  彼[かれ]らは 血[ち]のつながりはないけど、家族[かぞく] 同然[どうぜん]なんだ。
+  Sie sind zwar nicht blutsverwandt, aber wie eine Familie.
+
+  私たちは縁に繋がっているんだと、彼女は信じている。
+  私[わたし]たちは 縁[えん]に 繋[つな]がっているんだと、彼女[かのじょ]は 信[しん]じている。
+  Sie glaubt, dass wir durch das Schicksal verbunden sind.
+
+  SNSを通じて世界中の人々と繋がることができます。
+  SNSを 通[つう]じて 世界中[せかいじゅう]の 人々[ひとびと]と 繋[つな]がることができます。
+  Durch soziale Medien können wir uns mit Menschen aus der ganzen Welt verbinden.
+
+  この川は海に繋がっているんだよ。
+  この 川[かわ]は 海[うみ]に 繋[つな]がっているんだよ。
+  Dieser Fluss mündet ins Meer.
+
+  彼の笑顔は周りの人々の心と繋がっていた。
+  彼[かれ]の 笑顔[えがお]は 周[まわ]りの 人々[ひとびと]の 心[こころ]と 繋[つな]がっていた。
+  Sein Lächeln berührte die Herzen der Menschen um ihn herum.
+
+  この道路は高速道路と繋がっています。
+  この 道路[どうろ]は 高速道路[こうそくどうろ]と 繋[つな]がっています。
+  Diese Straße ist mit der Autobahn verbunden.
+
+  彼女の言葉は私の心に深く繋がりました。
+  彼女[かのじょ]の 言葉[ことば]は 私[わたし]の 心[こころ]に 深[ふか]く 繋[つな]がりました。
+  Ihre Worte berührten mich tief.
+
+  この伝統は何世紀にもわたって繋がってきました。
+  この 伝統[でんとう]は 何世紀[なんせいき]にもわたって 繋[つな]がってきました。
+  Diese Tradition hat sich über Jahrhunderte hinweg fortgesetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

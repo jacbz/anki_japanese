@@ -2,14 +2,14 @@ Rang: 742
 Lemma: 思える
 Lesung: おもえる
 Alternativschreibweisen: ''
-Definition: es scheint, dass
+Definition: scheinen, vorkommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">も</span><span class="accent_top">え</span><span>る</span>
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 思えない・思えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は悩みがあるように思える。
   彼女[かのじょ]は 悩[なや]みがあるように 思[おも]える。
   Es scheint mir, dass sie ein Problem hat.
+
+  彼の説明は不思議に思えて、よく理解できませんでした。
+  彼[かれ]の 説明[せつめい]は 不思議[ふしぎ]に 思[おも]えて、よく 理解[りかい]できませんでした。
+  Seine Erklärung kam mir seltsam vor und ich konnte sie nicht gut verstehen.
+
+  自分に自信がないように思えるけど、実は能力があるんだよ。
+  自分[じぶん]に 自信[じしん]がないように 思[おも]えるけど、実[じつ]は 能力[のうりょく]があるんだよ。
+  Du scheinst kein Selbstvertrauen zu haben, aber in Wirklichkeit bist du sehr fähig.
+
+  正しいと思える行動をしなさい。
+  正[ただ]しいと 思[おも]える 行動[こうどう]をしなさい。
+  Handle so, wie es dir richtig erscheint.
+
+  彼の話は嘘とは思えません。
+  彼[かれ]の 話[はなし]は 嘘[うそ]とは 思[おも]えません。
+  Ich kann mir nicht vorstellen, dass seine Geschichte eine Lüge ist.
+
+  そんな難しいことをするとは思えないけど、頑張ってみよう。
+  そんな 難[むずか]しいことをするとは 思[おも]えないけど、頑張[がんば]ってみよう。
+  Ich kann mir zwar nicht vorstellen, dass ich so etwas Schwieriges schaffe, aber ich werde mein Bestes geben.
+
+  こうしてみると、彼女はとても運のいい人だと思えるでしょう。
+  こうしてみると、彼女[かのじょ]はとても 運[うん]のいい 人[ひと]だと 思[おも]えるでしょう。
+  Wenn man es so betrachtet, könnte man denken, dass sie eine sehr glückliche Person ist.
+
+  私の返事は不自然に思えるかもしれませんが、本心なのです。
+  私[わたし]の 返事[へんじ]は 不自然[ふしぜん]に 思[おも]えるかもしれませんが、本心[ほんしん]なのです。
+  Meine Antwort mag unnatürlich erscheinen, aber es ist meine aufrichtige Meinung.
+
+  最近の若者は以前より自己中心的になっているように思えます。
+  最近[さいきん]の 若者[わかもの]は 以前[いぜん]より 自己中心的[じこちゅうしんてき]になっているように 思[おも]えます。
+  Es scheint, als wären junge Menschen heutzutage egoistischer als früher.
+
+  彼の提案は実用的とは思えません。
+  彼[かれ]の 提案[ていあん]は 実用的[じつようてき]とは 思[おも]えません。
+  Sein Vorschlag erscheint mir nicht praktikabel.
+
+  この方法で問題が解決できるとは思えないけど、試してみましょう。
+  この 方法[ほうほう]で 問題[もんだい]が 解決[かいけつ]できるとは 思[おも]えないけど、試[ため]してみましょう。
+  Ich kann mir zwar nicht vorstellen, dass wir das Problem mit dieser Methode lösen können, aber lass es uns versuchen.
+
+  彼女の態度は冷たく思えるけど、実は優しい人なんだ。
+  彼女[かのじょ]の 態度[たいど]は 冷[つめ]たく 思[おも]えるけど、実[じつ]は 優[やさ]しい 人[ひと]なんだ。
+  Ihre Haltung mag kalt erscheinen, aber in Wirklichkeit ist sie eine freundliche Person.
+
+  この映画は退屈に思えるかもしれませんが、よく考えさせられる内容です。
+  この 映画[えいが]は 退屈[たいくつ]に 思[おも]えるかもしれませんが、よく 考[かんが]えさせられる 内容[ないよう]です。
+  Dieser Film mag langweilig erscheinen, aber er regt zum Nachdenken an.
+
+  彼の行動は非論理的に思えるけど、きっと理由があるはずだ。
+  彼[かれ]の 行動[こうどう]は 非論理的[ひろんりてき]に 思[おも]えるけど、きっと 理由[りゆう]があるはずだ。
+  Sein Verhalten mag unlogisch erscheinen, aber es muss einen Grund dafür geben.
+
+  この仕事は難しく思えるけど、実際にやってみると案外簡単かもしれない。
+  この 仕事[しごと]は 難[むずか]しく 思[おも]えるけど、実際[じっさい]にやってみると 案外[あんがい] 簡単[かんたん]かもしれない。
+  Diese Arbeit mag schwierig erscheinen, aber wenn man es tatsächlich versucht, könnte sie überraschend einfach sein.
+
+  彼の説明は複雑に思えるけど、よく聞けば理解できるはずです。
+  彼[かれ]の 説明[せつめい]は 複雑[ふくざつ]に 思[おも]えるけど、よく 聞[き]けば 理解[りかい]できるはずです。
+  Seine Erklärung mag kompliziert erscheinen, aber wenn man genau zuhört, sollte man es verstehen können.
+
+  この計画は無謀に思えるかもしれませんが、成功の可能性は十分にあります。
+  この 計画[けいかく]は 無謀[むぼう]に 思[おも]えるかもしれませんが、成功[せいこう]の 可能性[かのうせい]は 十分[じゅうぶん]にあります。
+  Dieser Plan mag verwegen erscheinen, aber es gibt durchaus eine Chance auf Erfolg.
+
+  彼女の態度は冷静に思えるけど、内心は不安なのかもしれません。
+  彼女[かのじょ]の 態度[たいど]は 冷静[れいせい]に 思[おも]えるけど、内心[ないしん]は 不安[ふあん]なのかもしれません。
+  Ihre Haltung mag ruhig erscheinen, aber innerlich ist sie vielleicht besorgt.
+
+  この問題は簡単に思えるけど、実は奥が深いんだ。
+  この 問題[もんだい]は 簡単[かんたん]に 思[おも]えるけど、実[じつ]は 奥[おく]が 深[ふか]いんだ。
+  Dieses Problem mag einfach erscheinen, aber in Wirklichkeit ist es sehr komplex.
+
+  彼の意見は極端に思えるけど、よく考えると理にかなっているかもしれない。
+  彼[かれ]の 意見[いけん]は 極端[きょくたん]に 思[おも]えるけど、よく 考[かんが]えると 理[り]にかなっているかもしれない。
+  Seine Meinung mag extrem erscheinen, aber wenn man darüber nachdenkt, könnte sie durchaus sinnvoll sein.
+
+  この解決策は理想的に思えるけど、実行するのは難しいかもしれません。
+  この 解決策[かいけつさく]は 理想的[りそうてき]に 思[おも]えるけど、実行[じっこう]するのは 難[むずか]しいかもしれません。
+  Diese Lösung mag ideal erscheinen, aber sie könnte schwierig umzusetzen sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

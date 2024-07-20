@@ -1,15 +1,15 @@
 Rang: 927
 Lemma: 許す
 Lesung: ゆるす
-Alternativschreibweisen: ''
-Definition: erlauben, vergeben
+Alternativschreibweisen: 赦す・聴す・免す・恕す
+Definition: erlauben, verzeihen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ゆ</span><span class="accent_top">る</span><span>す</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 許さない・許した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,98 @@ Beispielsätze: |-
   父は私が車を運転するのを許してくれない。
   父[ちち]は 私[わたし]が 車[くるま]を 運転[うんてん]するのを 許[ゆる]してくれない。
   Mein Vater erlaubt mir nicht, ein Auto zu fahren.
+
+  入学を許可する前に、面接を行います。
+  入学[にゅうがく]を 許可[きょか]する 前[まえ]に、面接[めんせつ]を 行[おこな]います。
+  Bevor wir die Zulassung genehmigen, führen wir ein Vorstellungsgespräch durch.
+
+  医師の開業を許すかどうかは、厳しい審査があります。
+  医師[いし]の 開業[かいぎょう]を 許[ゆる]すかどうかは、厳[きび]しい 審査[しんさ]があります。
+  Ob einem Arzt die Eröffnung einer Praxis erlaubt wird, unterliegt einer strengen Prüfung.
+
+  大統領は特別に拝謁を許してくださいました。
+  大統領[だいとうりょう]は 特別[とくべつ]に 拝謁[はいえつ]を 許[ゆる]してくださいました。
+  Der Präsident hat gnädigerweise eine Sonderaudienz gewährt.
+
+  台風の影響で上陸を許可できない状況です。
+  台風[たいふう]の 影響[えいきょう]で 上陸[じょうりく]を 許可[きょか]できない 状況[じょうきょう]です。
+  Aufgrund des Taifuns können wir keine Landegenehmigung erteilen.
+
+  このエリアへの出入りは許可証が必要です。
+  このエリアへの 出入[でい]りは 許可証[きょかしょう]が 必要[ひつよう]です。
+  Für den Zutritt zu diesem Bereich ist eine Genehmigung erforderlich.
+
+  医師から退院を許されて、うれしかったです。
+  医師[いし]から 退院[たいいん]を 許[ゆる]されて、うれしかったです。
+  Ich war froh, als der Arzt mir erlaubte, das Krankenhaus zu verlassen.
+
+  裁判所は被告人の保釈金を許可しました。
+  裁判所[さいばんしょ]は 被告人[ひこくにん]の 保釈金[ほしゃくきん]を 許可[きょか]しました。
+  Das Gericht bewilligte die Kaution für den Angeklagten.
+
+  彼女は恥ずかしそうにキスを許してくれた。
+  彼女[かのじょ]は 恥[は]ずかしそうにキスを 許[ゆる]してくれた。
+  Sie erlaubte mir schüchtern, sie zu küssen.
+
+  ゴールキーパーは簡単に得点を許してしまった。
+  ゴールキーパーは 簡単[かんたん]に 得点[とくてん]を 許[ゆる]してしまった。
+  Der Torwart ließ leichtfertig einen Treffer zu.
+
+  社長は暗黙のうちに残業を許している。
+  社長[しゃちょう]は 暗黙[あんもく]のうちに 残業[ざんぎょう]を 許[ゆる]している。
+  Der Chef erlaubt stillschweigend Überstunden.
+
+  この会社は遅刻を絶対に許さない厳しい方針です。
+  この 会社[かいしゃ]は 遅刻[ちこく]を 絶対[ぜったい]に 許[ゆる]さない 厳[きび]しい 方針[ほうしん]です。
+  Diese Firma hat eine strikte Politik, die Verspätungen unter keinen Umständen duldet.
+
+  独裁者は異見を許さず、批判的な声を抑圧した。
+  独裁者[どくさいしゃ]は 異見[いけん]を 許[ゆる]さず、批判的[ひはんてき]な 声[こえ]を 抑圧[よくあつ]した。
+  Der Diktator ließ keine abweichenden Meinungen zu und unterdrückte kritische Stimmen.
+
+  健康が許す限り、できるだけ長く働きたいです。
+  健康[けんこう]が 許[ゆる]す 限[かぎ]り、できるだけ 長[なが]く 働[はたら]きたいです。
+  Ich möchte so lange arbeiten, wie es meine Gesundheit erlaubt.
+
+  事情の許す範囲で協力させていただきます。
+  事情[じじょう]の 許[ゆる]す 範囲[はんい]で 協力[きょうりょく]させていただきます。
+  Ich werde im Rahmen meiner Möglichkeiten kooperieren.
+
+  法律の許す範囲内で最善の解決策を見つけましょう。
+  法律[ほうりつ]の 許[ゆる]す 範囲内[はんいない]で 最善[さいぜん]の 解決策[かいけつさく]を 見[み]つけましょう。
+  Lasst uns die beste Lösung innerhalb der gesetzlichen Grenzen finden.
+
+  彼の過ちを許すのに時間がかかりました。
+  彼[かれ]の 過[あやま]ちを 許[ゆる]すのに 時間[じかん]がかかりました。
+  Es hat Zeit gebraucht, ihm seinen Fehler zu verzeihen.
+
+  遅刻を許してくれてありがとうございます。
+  遅刻[ちこく]を 許[ゆる]してくれてありがとうございます。
+  Vielen Dank, dass Sie meine Verspätung entschuldigen.
+
+  彼女は夫の浮気を許すことができなかった。
+  彼女[かのじょ]は 夫[おっと]の 浮気[うわき]を 許[ゆる]すことができなかった。
+  Sie konnte ihrem Mann seinen Seitensprung nicht verzeihen.
+
+  兵役を許されない若者たちは、別の形で社会に貢献しています。
+  兵役[へいえき]を 許[ゆる]されない 若者[わかもの]たちは、別[べつ]の 形[かたち]で 社会[しゃかい]に 貢献[こうけん]しています。
+  Junge Menschen, die vom Militärdienst befreit sind, tragen auf andere Weise zur Gesellschaft bei.
+
+  敵将軍は捕虜の命を許し、解放した。
+  敵将軍[てきしょうぐん]は 捕虜[ほりょ]の 命[いのち]を 許[ゆる]し、解放[かいほう]した。
+  Der feindliche General verschonte das Leben der Gefangenen und ließ sie frei.
+
+  政府は被災地の税を許し、復興を支援した。
+  政府[せいふ]は 被災地[ひさいち]の 税[ぜい]を 許[ゆる]し、復興[ふっこう]を 支援[しえん]した。
+  Die Regierung erließ den Katastrophengebieten die Steuern und unterstützte den Wiederaufbau.
+
+  茶道の師匠に許しをいただき、やっと免状をもらえました。
+  茶道[さどう]の 師匠[ししょう]に 許[ゆる]しをいただき、やっと 免状[めんじょう]をもらえました。
+  Nachdem ich die Anerkennung meines Teemeister erhalten habe, konnte ich endlich mein Zertifikat bekommen.
+
+  長年の服役の後、彼はついに許されて釈放された。
+  長年[ながねん]の 服役[ふくえき]の 後[あと]、彼[かれ]はついに 許[ゆる]されて 釈放[しゃくほう]された。
+  Nach Jahren der Haft wurde er schließlich begnadigt und freigelassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

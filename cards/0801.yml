@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">は</span><span>ん</span><span>�
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 判断しない・判断した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   彼女は良い判断を下した。
   彼女[かのじょ]は 良[よ]い 判断[はんだん]を 下[くだ]した。
   Sie hat eine gute Beurteilung abgegeben.
+
+  状況を正しく判断することが重要です。
+  状況[じょうきょう]を 正[ただ]しく 判断[はんだん]することが 重要[じゅうよう]です。
+  Es ist wichtig, die Situation richtig einzuschätzen.
+
+  彼の判断は間違っていたと思います。
+  彼[かれ]の 判断[はんだん]は 間違[まちが]っていたと 思[おも]います。
+  Ich denke, seine Beurteilung war falsch.
+
+  判断基準を明確にしておく必要があります。
+  判断基準[はんだんきじゅん]を 明確[めいかく]にしておく 必要[ひつよう]があります。
+  Es ist notwendig, die Beurteilungskriterien klar festzulegen.
+
+  経験に基づいて判断を下しました。
+  経験[けいけん]に 基[もと]づいて 判断[はんだん]を 下[くだ]しました。
+  Ich habe basierend auf meiner Erfahrung eine Entscheidung getroffen.
+
+  この問題に関して、私の判断を仰ぎたいそうです。
+  この 問題[もんだい]に 関[かん]して、私[わたし]の 判断[はんだん]を 仰[あお]ぎたいそうです。
+  Es scheint, dass sie in Bezug auf dieses Problem meine Einschätzung hören möchten.
+
+  彼女は常に冷静な判断ができる人だ。
+  彼女[かのじょ]は 常[つね]に 冷静[れいせい]な 判断[はんだん]ができる 人[ひと]だ。
+  Sie ist jemand, der immer ruhig und überlegt urteilen kann.
+
+  判断を誤ると、重大な結果を招くかもしれません。
+  判断[はんだん]を 誤[あやま]ると、重大[じゅうだい]な 結果[けっか]を 招[まね]くかもしれません。
+  Wenn man falsch urteilt, könnte das schwerwiegende Folgen haben.
+
+  状況判断が甘いと、チャンスを逃すことになるよ。
+  状況判断[じょうきょうはんだん]が 甘[あま]いと、チャンスを 逃[のが]すことになるよ。
+  Wenn deine Einschätzung der Situation zu optimistisch ist, wirst du Chancen verpassen.
+
+  私の判断では、このプロジェクトは成功する可能性が高いです。
+  私[わたし]の 判断[はんだん]では、このプロジェクトは 成功[せいこう]する 可能性[かのうせい]が 高[たか]いです。
+  Meiner Einschätzung nach hat dieses Projekt eine hohe Erfolgswahrscheinlichkeit.
+
+  判断がつかない場合は、専門家に相談するべきだ。
+  判断[はんだん]がつかない 場合[ばあい]は、専門家[せんもんか]に 相談[そうだん]するべきだ。
+  Wenn man zu keiner Entscheidung kommen kann, sollte man einen Experten konsultieren.
+
+  彼の判断に従って行動することにしました。
+  彼[かれ]の 判断[はんだん]に 従[したが]って 行動[こうどう]することにしました。
+  Ich habe beschlossen, seinem Urteil zu folgen und entsprechend zu handeln.
+
+  美的判断は個人によって異なる場合があります。
+  美的判断[びてきはんだん]は 個人[こじん]によって 異[こと]なる 場合[ばあい]があります。
+  Ästhetische Urteile können von Person zu Person unterschiedlich ausfallen.
+
+  確定判断を下すには、もっと情報が必要です。
+  確定判断[かくていはんだん]を 下[くだ]すには、もっと 情報[じょうほう]が 必要[ひつよう]です。
+  Um eine endgültige Entscheidung zu treffen, brauchen wir mehr Informationen.
+
+  文脈から判断すると、その発言には深い意味があるようだ。
+  文脈[ぶんみゃく]から 判断[はんだん]すると、その 発言[はつげん]には 深[ふか]い 意味[いみ]があるようだ。
+  Aus dem Kontext zu schließen, scheint diese Aussage eine tiefere Bedeutung zu haben.
+
+  外観だけで判断するのは危険です。
+  外観[がいかん]だけで 判断[はんだん]するのは 危険[きけん]です。
+  Es ist gefährlich, nur nach dem Äußeren zu urteilen.
+
+  この措置が必要と判断しました。
+  この 措置[そち]が 必要[ひつよう]と 判断[はんだん]しました。
+  Ich habe diese Maßnahme als notwendig erachtet.
+
+  写真から判断して、その建物はかなり古いようだ。
+  写真[しゃしん]から 判断[はんだん]して、その 建物[たてもの]はかなり 古[ふる]いようだ。
+  Dem Foto nach zu urteilen, scheint das Gebäude ziemlich alt zu sein.
+
+  善悪を判断するのは難しい場合もあります。
+  善悪[ぜんあく]を 判断[はんだん]するのは 難[むずか]しい 場合[ばあい]もあります。
+  Es kann manchmal schwierig sein, zwischen Gut und Böse zu unterscheiden.
+
+  自分の判断の大半を彼はアンジェリーナに話していた。
+  自分[じぶん]の 判断[はんだん]の 大半[たいはん]を 彼[かれ]はアンジェリーナに 話[はな]していた。
+  Er berichtete Angelina vom Großteil seiner Entscheidungen.
+
+  緊急時の判断は、素早く的確である必要があります。
+  緊急時[きんきゅうじ]の 判断[はんだん]は、素早[すばや]く 的確[てきかく]である 必要[ひつよう]があります。
+  In Notfällen müssen Entscheidungen schnell und präzise getroffen werden.
+
+  十文字の発言の意図を判断するのに苦労しました。
+  十文字[じゅうもんじ]の 発言[はつげん]の 意図[いと]を 判断[はんだん]するのに 苦労[くろう]しました。
+  Ich hatte Schwierigkeiten, die Absicht hinter Jumonjis Aussage einzuschätzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

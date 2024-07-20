@@ -1,15 +1,15 @@
 Rang: 586
 Lemma: 越える
 Lesung: こえる
-Alternativschreibweisen: ''
-Definition: hinübergehen, überqueren
+Alternativschreibweisen: 超える
+Definition: überqueren, überschreiten
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>こ</span><span class="accent_plain">え</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 越えない・越えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼らは山を越えて旅をした。
   彼[かれ]らは 山[やま]を 越[こ]えて 旅[たび]をした。
   Sie reisten über die Berge hinweg.
+
+  川を越えて向こう岸に渡りました。
+  川[かわ]を 越[こ]えて 向[む]こう 岸[ぎし]に 渡[わた]りました。
+  Ich überquerte den Fluss und gelangte ans andere Ufer.
+
+  山を越え谷を越え、長い旅を続けました。
+  山[やま]を 越[こ]え 谷[たに]を 越[こ]え、長[なが]い 旅[たび]を 続[つづ]けました。
+  Über Berg und Tal setzten wir unsere lange Reise fort.
+
+  「どうやって、入ったの？この部屋に」「垣根を越えて、庭から、ベランダの戸が開いてたよ」
+  「どうやって、入[はい]ったの？この 部屋[へや]に」「垣根[かきね]を 越[こ]えて、庭[にわ]から、ベランダの 戸[と]が 開[あ]いてたよ」
+  "Wie bist du hier reingekommen?" "Über die Hecke, vom Garten aus, die Verandatür stand offen."
+
+  彼は国境を越えて隣国に逃げ込んだ。
+  彼[かれ]は 国境[こっきょう]を 越[こ]えて 隣国[りんごく]に 逃[に]げ 込[こ]んだ。
+  Er floh über die Grenze ins Nachbarland.
+
+  砂漠を越えるのは想像以上に厳しい挑戦だった。
+  砂漠[さばく]を 越[こ]えるのは 想像[そうぞう] 以上[いじょう]に 厳[きび]しい 挑戦[ちょうせん]だった。
+  Die Wüste zu durchqueren war eine härtere Herausforderung als erwartet.
+
+  この商品の売上高が予想を越えました。
+  この 商品[しょうひん]の 売上高[うりあげだか]が 予想[よそう]を 越[こ]えました。
+  Der Umsatz dieses Produkts hat die Erwartungen übertroffen.
+
+  彼の行動は明らかに権限を越えています。
+  彼[かれ]の 行動[こうどう]は 明[あき]らかに 権限[けんげん]を 越[こ]えています。
+  Sein Verhalten überschreitet eindeutig seine Befugnisse.
+
+  この問題は人間の理解を越えていると思います。
+  この 問題[もんだい]は 人間[にんげん]の 理解[りかい]を 越[こ]えていると 思[おも]います。
+  Ich denke, dieses Problem geht über das menschliche Verständnis hinaus.
+
+  彼女は40歳を越えているが、まだ若々しく見える。
+  彼女[かのじょ]は40歳[さい]を 越[こ]えているが、まだ 若々[わかわか]しく 見[み]える。
+  Sie ist über 40 Jahre alt, sieht aber immer noch jung aus.
+
+  とうとう一線を越えたのだ。
+  とうとう 一線[いっせん]を 越[こ]えたのだ。
+  Sie hatte endlich eine Grenze überschritten.
+
+  彼の行動は度を越えているので、注意が必要だ。
+  彼[かれ]の 行動[こうどう]は 度[ど]を 越[こ]えているので、注意[ちゅうい]が 必要[ひつよう]だ。
+  Sein Verhalten geht zu weit, daher ist Vorsicht geboten.
+
+  この技術は時代を越えた革新的なものだ。
+  この 技術[ぎじゅつ]は 時代[じだい]を 越[こ]えた 革新的[かくしんてき]なものだ。
+  Diese Technologie ist eine innovative Errungenschaft, die ihrer Zeit voraus ist.
+
+  彼らは利害の対立を越えて協力することができた。
+  彼[かれ]らは 利害[りがい]の 対立[たいりつ]を 越[こ]えて 協力[きょうりょく]することができた。
+  Sie konnten ihre Interessenkonflikte überwinden und zusammenarbeiten.
+
+  この企業は業種を越えた幅広い事業を展開している。
+  この 企業[きぎょう]は 業種[ぎょうしゅ]を 越[こ]えた 幅広[はばひろ]い 事業[じぎょう]を 展開[てんかい]している。
+  Dieses Unternehmen entwickelt branchenübergreifend ein breites Spektrum an Geschäftsfeldern.
+
+  彼女の業績は先人を越える素晴らしいものだった。
+  彼女[かのじょ]の 業績[ぎょうせき]は 先人[せんじん]を 越[こ]える 素晴[すば]らしいものだった。
+  Ihre Leistungen übertrafen die ihrer Vorgänger auf beeindruckende Weise.
+
+  月を越えぬうちに、この仕事を終わらせなければならない。
+  月[つき]を 越[こ]えぬうちに、この 仕事[しごと]を 終[お]わらせなければならない。
+  Wir müssen diese Arbeit vor Ende des Monats abschließen.
+
+  彼の演技力は他の俳優を越えていると評価されている。
+  彼[かれ]の 演技力[えんぎりょく]は 他[ほか]の 俳優[はいゆう]を 越[こ]えていると 評価[ひょうか]されている。
+  Seine schauspielerischen Fähigkeiten werden als überlegen gegenüber anderen Schauspielern bewertet.
+
+  この橋を越えると、目的地に着きます。
+  この 橋[はし]を 越[こ]えると、目的地[もくてきち]に 着[つ]きます。
+  Wenn du diese Brücke überquerst, erreichst du das Ziel.
+
+  彼女の才能は年齢を越えて輝いている。
+  彼女[かのじょ]の 才能[さいのう]は 年齢[ねんれい]を 越[こ]えて 輝[かがや]いている。
+  Ihr Talent strahlt über ihr Alter hinaus.
+
+  この問題を越えれば、新しい可能性が開けるでしょう。
+  この 問題[もんだい]を 越[こ]えれば、新[あたら]しい 可能性[かのうせい]が 開[ひら]けるでしょう。
+  Wenn wir dieses Problem überwinden, werden sich neue Möglichkeiten eröffnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

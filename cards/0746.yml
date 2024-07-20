@@ -2,14 +2,14 @@ Rang: 746
 Lemma: 振り返る
 Lesung: ふりかえる
 Alternativschreibweisen: ''
-Definition: zurückblicken
+Definition: sich umdrehen; zurückblicken
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>ふ</span><span class="accent_plain">り</span><span class="accent_top">か</span><span>え</span><span>る</span>
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 振り返らない・振り返った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   時々、過去を振り返るべきだ。
   時々[ときどき]、 過去[かこ]を 振[ふ]り 返[かえ]るべきだ。
   Manchmal sollte man auf die Vergangenheit zurückblicken.
+
+  後ろを振り返ると、誰かが私を追いかけていた。
+  うしろを 振[ふ]り 返[かえ]ると、 誰[だれ]かが 私[わたし]を 追[お]いかけていた。
+  Als ich mich umdrehte, sah ich, dass mich jemand verfolgte.
+
+  彼女は突然立ち止まり、振り返って私を見た。
+  彼女[かのじょ]は 突然[とつぜん] 立[た]ち 止[ど]まり、 振[ふ]り 返[かえ]って 私[わたし]を 見[み]た。
+  Sie blieb plötzlich stehen und drehte sich um, um mich anzusehen.
+
+  道を歩いている時、名前を呼ばれて振り返った。
+  道[みち]を 歩[ある]いている 時[とき]、名前[なまえ]を 呼[よ]ばれて 振[ふ]り 返[かえ]った。
+  Als ich die Straße entlang ging, drehte ich mich um, weil jemand meinen Namen rief.
+
+  振り返ると、坂崎が一人の女を連れてリビングに入ってくるところだった。
+  振[ふ]り 返[かえ]ると、坂崎[さかざき]が 一人[ひとり]の 女[おんな]を 連[つ]れてリビングに 入[はい]ってくるところだった。
+  Als ich mich umdrehte, sah ich, wie Sakazaki in Begleitung einer Frau ins Wohnzimmer kam.
+
+  二、三歩歩いたところで振り返る。
+  二[に]、三[さん] 歩[ほ] 歩[ある]いたところで 振[ふ]り 返[かえ]る。
+  Nach einigen Schritten wandte er sich noch einmal um.
+
+  事件を振り返ると、まだ多くの疑問が残っている。
+  事件[じけん]を 振[ふ]り 返[かえ]ると、まだ 多[おお]くの 疑問[ぎもん]が 残[のこ]っている。
+  Wenn ich auf den Vorfall zurückblicke, bleiben noch viele Fragen offen.
+
+  昔を振り返ると、懐かしい思い出がたくさんある。
+  昔[むかし]を 振[ふ]り 返[かえ]ると、懐[なつ]かしい 思[おも]い 出[で]がたくさんある。
+  Wenn ich an früher zurückdenke, habe ich viele nostalgische Erinnerungen.
+
+  わが身を振り返り、これまでの人生を考えた。
+  わが 身[み]を 振[ふ]り 返[かえ]り、これまでの 人生[じんせい]を 考[かんが]えた。
+  Ich blickte auf mein eigenes Leben zurück und dachte über mein bisheriges Leben nach.
+
+  五位は‹略›ここへ来ない前の彼自身を、なつかしく、心の中でふり返った。
+  五位[ごい]は‹ 略[りゃく]›ここへ 来[こ]ない 前[まえ]の 彼自身[かれじしん]を、なつかしく、心[こころ]の 中[なか]でふり 返[かえ]った。
+  Der Mann im fünften Rang dachte mit Wehmut im Herzen an sich selbst zurück, bevor er hierher gekommen war.
+
+  一年を振り返って、達成したことと反省点を整理した。
+  一年[いちねん]を 振[ふ]り 返[かえ]って、達成[たっせい]したことと 反省点[はんせいてん]を 整理[せいり]した。
+  Ich blickte auf das vergangene Jahr zurück und fasste meine Errungenschaften und Verbesserungspunkte zusammen.
+
+  過去の失敗を振り返ることで、将来の成功につながる。
+  過去[かこ]の 失敗[しっぱい]を 振[ふ]り 返[かえ]ることで、将来[しょうらい]の 成功[せいこう]につながる。
+  Indem wir auf vergangene Fehler zurückblicken, können wir zukünftigen Erfolg erzielen.
+
+  会社の歴史を振り返り、創業時の理念を再確認した。
+  会社[かいしゃ]の 歴史[れきし]を 振[ふ]り 返[かえ]り、創業時[そうぎょうじ]の 理念[りねん]を 再確認[さいかくにん]した。
+  Wir blickten auf die Geschichte des Unternehmens zurück und bestätigten erneut die Gründungsprinzipien.
+
+  振り返ると、あの時の決断が今の自分を作ったと感じる。
+  振[ふ]り 返[かえ]ると、あの 時[とき]の 決断[けつだん]が 今[いま]の 自分[じぶん]を 作[つく]ったと 感[かん]じる。
+  Rückblickend habe ich das Gefühl, dass die damalige Entscheidung mich zu dem gemacht hat, wer ich heute bin.
+
+  学生時代を振り返ると、もっと勉強しておけばよかったと後悔する。
+  学生時代[がくせいじだい]を 振[ふ]り 返[かえ]ると、もっと 勉強[べんきょう]しておけばよかったと 後悔[こうかい]する。
+  Wenn ich an meine Studentenzeit zurückdenke, bereue ich, dass ich nicht mehr gelernt habe.
+
+  プロジェクトを振り返り、成功の要因を分析した。
+  プロジェクトを 振[ふ]り 返[かえ]り、成功[せいこう]の 要因[よういん]を 分析[ぶんせき]した。
+  Wir blickten auf das Projekt zurück und analysierten die Faktoren für seinen Erfolg.
+
+  彼女は振り返って笑顔で手を振った。
+  彼女[かのじょ]は 振[ふ]り 返[かえ]って 笑顔[えがお]で 手[て]を 振[ふ]った。
+  Sie drehte sich um und winkte lächelnd.
+
+  振り返ってみると、あの時の苦労が今の幸せにつながっている。
+  振[ふ]り 返[かえ]ってみると、あの 時[とき]の 苦労[くろう]が 今[いま]の 幸[しあわ]せにつながっている。
+  Wenn ich zurückblicke, sehe ich, dass die damaligen Schwierigkeiten zu meinem heutigen Glück geführt haben.
+
+  歴史を振り返ることで、未来への教訓を得ることができる。
+  歴史[れきし]を 振[ふ]り 返[かえ]ることで、未来[みらい]への 教訓[きょうくん]を 得[え]ることができる。
+  Indem wir auf die Geschichte zurückblicken, können wir Lehren für die Zukunft ziehen.
+
+  試合後、選手たちは試合を振り返り、反省点を話し合った。
+  試合後[しあいご]、選手[せんしゅ]たちは 試合[しあい]を 振[ふ]り 返[かえ]り、反省点[はんせいてん]を 話[はな]し 合[あ]った。
+  Nach dem Spiel blickten die Spieler auf das Match zurück und diskutierten über Verbesserungsmöglichkeiten.
+
+  振り返ると、人生の転機となった出来事がいくつかあった。
+  振[ふ]り 返[かえ]ると、人生[じんせい]の 転機[てんき]となった 出来事[できごと]がいくつかあった。
+  Rückblickend gab es einige Ereignisse, die Wendepunkte in meinem Leben waren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

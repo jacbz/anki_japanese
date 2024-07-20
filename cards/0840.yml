@@ -2,14 +2,14 @@ Rang: 840
 Lemma: 整備
 Lesung: せいび
 Alternativschreibweisen: ''
-Definition: Wartung, Service; vorbereiten
+Definition: bereitstellen, ausbauen; Wartung
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vi, vt
 Lesung mit Tonhöhe: <span class="accent_top">せ</span><span>い</span><span>び</span>
 Register: ↗</>Verwaltungssprache
 Dispersion: '43'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 整備しない・整備した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この道路はかなりの整備が必要だ。
   この 道路[どうろ]はかなりの 整備[せいび]が 必要[ひつよう]だ。
   Diese Straße erfordert eine gute Wartung.
+
+  新しい道路の整備が後れているため、完成までにはもう少し時間がかかりそうです。
+  新[あたら]しい 道路[どうろ]の 整備[せいび]が 後[おく]れているため、完成[かんせい]までにはもう 少[すこ]し 時間[じかん]がかかりそうです。
+  Da sich der Ausbau der neuen Straße verzögert, wird es wohl noch etwas Zeit bis zur Fertigstellung brauchen.
+
+  駅前の整備ができていないので、混雑しています。
+  駅前[えきまえ]の 整備[せいび]ができていないので、混雑[こんざつ]しています。
+  Da die Umgebung vor dem Bahnhof noch nicht ausgebaut ist, herrscht dort ein Gedränge.
+
+  市は公園の整備を急ぐと発表しました。
+  市[し]は 公園[こうえん]の 整備[せいび]を 急[いそ]ぐと 発表[はっぴょう]しました。
+  Die Stadt gab bekannt, den Ausbau des Parks zu beschleunigen.
+
+  機械の整備不良に起因する事故が増えています。
+  機械[きかい]の 整備不良[せいびふりょう]に 起因[きいん]する 事故[じこ]が 増[ふ]えています。
+  Es gibt zunehmend Unfälle, die auf mangelhafte Wartung von Maschinen zurückzuführen sind.
+
+  政府は教育施設の整備に力を入れています。
+  政府[せいふ]は 教育施設[きょういくしせつ]の 整備[せいび]に 力[ちから]を 入[い]れています。
+  Die Regierung legt großen Wert auf den Ausbau von Bildungseinrichtungen.
+
+  この会社は港湾整備の専門家として知られています。
+  この 会社[かいしゃ]は 港湾整備[こうわんせいび]の 専門家[せんもんか]として 知[し]られています。
+  Diese Firma ist als Experte für Hafenausbau bekannt.
+
+  整備士になるには、専門的な技術と知識が必要です。
+  整備士[せいびし]になるには、専門的[せんもんてき]な 技術[ぎじゅつ]と 知識[ちしき]が 必要[ひつよう]です。
+  Um Mechaniker zu werden, braucht man spezielle Fähigkeiten und Kenntnisse.
+
+  書類を整備して、明日の会議に備えましょう。
+  書類[しょるい]を 整備[せいび]して、明日[あした]の 会議[かいぎ]に 備[そな]えましょう。
+  Lass uns die Unterlagen vorbereiten und uns für die morgige Besprechung rüsten.
+
+  新しい道路を整備するのに、予想以上の時間がかかっています。
+  新[あたら]しい 道路[どうろ]を 整備[せいび]するのに、予想以上[よそういじょう]の 時間[じかん]がかかっています。
+  Der Ausbau der neuen Straße nimmt mehr Zeit in Anspruch als erwartet.
+
+  定期的に機械を整備することで、故障のリスクを減らせます。
+  定期的[ていきてき]に 機械[きかい]を 整備[せいび]することで、故障[こしょう]のリスクを 減[へ]らせます。
+  Durch regelmäßige Wartung der Maschinen kann das Risiko von Störungen reduziert werden.
+
+  車を長く使うためには、定期的な整備が欠かせません。
+  車[くるま]を 長[なが]く 使[つか]うためには、定期的[ていきてき]な 整備[せいび]が 欠[か]かせません。
+  Um ein Auto lange nutzen zu können, ist regelmäßige Wartung unerlässlich.
+
+  飛行機は厳密な整備スケジュールに従って点検されます。
+  飛行機[ひこうき]は 厳密[げんみつ]な 整備[せいび]スケジュールに 従[したが]って 点検[てんけん]されます。
+  Flugzeuge werden nach einem strengen Wartungsplan überprüft.
+
+  学校のグラウンドを整備して、子供たちが安全に遊べるようにしましょう。
+  学校[がっこう]のグラウンドを 整備[せいび]して、子供[こども]たちが 安全[あんぜん]に 遊[あそ]べるようにしましょう。
+  Lasst uns den Schulhof instand setzen, damit die Kinder sicher spielen können.
+
+  この古い建物を整備して、新しいオフィスとして使用する予定です。
+  この 古[ふる]い 建物[たてもの]を 整備[せいび]して、新[あたら]しいオフィスとして 使用[しよう]する 予定[よてい]です。
+  Wir planen, dieses alte Gebäude zu renovieren und als neues Büro zu nutzen.
+
+  公園の遊具を定期的に整備することで、子供たちの安全を確保しています。
+  公園[こうえん]の 遊具[ゆうぐ]を 定期的[ていきてき]に 整備[せいび]することで、子供[こども]たちの 安全[あんぜん]を 確保[かくほ]しています。
+  Durch regelmäßige Wartung der Spielgeräte im Park wird die Sicherheit der Kinder gewährleistet.
+
+  駐輪場を整備して、自転車利用者の便利さを向上させました。
+  駐輪場[ちゅうりんじょう]を 整備[せいび]して、自転車[じてんしゃ]利用者[りようしゃ]の 便利[べんり]さを 向上[こうじょう]させました。
+  Wir haben den Fahrradparkplatz ausgebaut und dadurch den Komfort für Fahrradfahrer verbessert.
+
+  災害に備えて、避難所の整備を進めています。
+  災害[さいがい]に 備[そな]えて、避難所[ひなんじょ]の 整備[せいび]を 進[すす]めています。
+  Als Vorbereitung auf Katastrophen treiben wir den Ausbau von Notunterkünften voran.
+
+  新しいスタジアムの整備が完了し、来月から使用開始となります。
+  新[あたら]しいスタジアムの 整備[せいび]が 完了[かんりょう]し、来月[らいげつ]から 使用開始[しようかいし]となります。
+  Der Ausbau des neuen Stadions ist abgeschlossen, und ab nächsten Monat wird es in Betrieb genommen.
+
+  環境保護のため、自然公園の整備には細心の注意を払っています。
+  環境保護[かんきょうほご]のため、自然公園[しぜんこうえん]の 整備[せいび]には 細心[さいしん]の 注意[ちゅうい]を 払[はら]っています。
+  Zum Schutz der Umwelt gehen wir bei der Erschließung von Naturparks mit größter Sorgfalt vor.
+
+  新幹線の整備は毎晩行われ、安全な運行を確保しています。
+  新幹線[しんかんせん]の 整備[せいび]は 毎晩[まいばん]行[おこな]われ、安全[あんぜん]な 運行[うんこう]を 確保[かくほ]しています。
+  Die Wartung der Shinkansen-Züge findet jede Nacht statt, um einen sicheren Betrieb zu gewährleisten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

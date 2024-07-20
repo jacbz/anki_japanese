@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_plain">よ</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 使用しない・使用した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   エネルギーの使用を減らさねばならない。
   エネルギーの 使用[しよう]を 減[へ]らさねばならない。
   Wir müssen die Nutzung von Energie reduzieren.
+
+  この製品の使用法をよく読んでから使ってください。
+  この 製品[せいひん]の 使用法[しようほう]をよく 読[よ]んでから 使[つか]ってください。
+  Bitte lesen Sie die Gebrauchsanweisung dieses Produkts sorgfältig durch, bevor Sie es verwenden.
+
+  新しい機械の使用権を取得するには申請が必要です。
+  新[あたら]しい 機械[きかい]の 使用権[しようけん]を 取得[しゅとく]するには 申請[しんせい]が 必要[ひつよう]です。
+  Um das Nutzungsrecht für die neue Maschine zu erhalten, ist eine Anmeldung erforderlich.
+
+  会社は新しい使用人を雇う予定です。
+  会社[かいしゃ]は 新[あたら]しい 使用人[しようにん]を 雇[やと]う 予定[よてい]です。
+  Das Unternehmen plant, neue Angestellte einzustellen.
+
+  この施設の使用料は1時間1000円です。
+  この 施設[しせつ]の 使用料[しようりょう]は1時間[じかん]1000円[えん]です。
+  Die Nutzungsgebühr für diese Einrichtung beträgt 1000 Yen pro Stunde.
+
+  不正使用が発覚した場合、厳しい処分を受けることになります。
+  不正[ふせい]使用[しよう]が 発覚[はっかく]した 場合[ばあい]、厳[きび]しい 処分[しょぶん]を 受[う]けることになります。
+  Wenn ein Missbrauch entdeckt wird, werden strenge Maßnahmen ergriffen.
+
+  言語使用の実態調査を行っています。
+  言語[げんご]使用[しよう]の 実態[じったい]調査[ちょうさ]を 行[おこな]っています。
+  Wir führen eine Untersuchung zur tatsächlichen Sprachverwendung durch.
+
+  この建物の使用を許可します。
+  この 建物[たてもの]の 使用[しよう]を 許可[きょか]します。
+  Ich erlaube die Nutzung dieses Gebäudes.
+
+  危険な薬品の使用を禁じています。
+  危険[きけん]な 薬品[やくひん]の 使用[しよう]を 禁[きん]じています。
+  Der Gebrauch gefährlicher Chemikalien ist verboten.
+
+  ヘビーな使用で機械の寿命が短くなることがあります。
+  ヘビーな 使用[しよう]で 機械[きかい]の 寿命[じゅみょう]が 短[みじか]くなることがあります。
+  Durch intensive Nutzung kann sich die Lebensdauer der Maschine verkürzen.
+
+  使用後は必ず電源を切ってください。
+  使用後[しようご]は 必[かなら]ず 電源[でんげん]を 切[き]ってください。
+  Bitte schalten Sie das Gerät nach Gebrauch immer aus.
+
+  使用済みの電池は適切に処分してください。
+  使用済[しようず]みの 電池[でんち]は 適切[てきせつ]に 処分[しょぶん]してください。
+  Bitte entsorgen Sie gebrauchte Batterien ordnungsgemäß.
+
+  合成着色料使用の食品には注意が必要です。
+  合成[ごうせい]着色料[ちゃくしょくりょう]使用[しよう]の 食品[しょくひん]には 注意[ちゅうい]が 必要[ひつよう]です。
+  Bei Lebensmitteln mit künstlichen Farbstoffen ist Vorsicht geboten.
+
+  車内での携帯電話の使用はご遠慮願います。
+  車内[しゃない]での 携帯電話[けいたいでんわ]の 使用[しよう]はご 遠慮[えんりょ] 願[ねが]います。
+  Bitte sehen Sie von der Benutzung von Mobiltelefonen im Fahrzeug ab.
+
+  麻薬の使用は違法で健康に有害です。
+  麻薬[まやく]の 使用[しよう]は 違法[いほう]で 健康[けんこう]に 有害[ゆうがい]です。
+  Der Gebrauch von Drogen ist illegal und gesundheitsschädlich.
+
+  記入はボールペンを使用してください。
+  記入[きにゅう]はボールペンを 使用[しよう]してください。
+  Bitte verwenden Sie zum Ausfüllen einen Kugelschreiber.
+
+  非常時の際、エレベーターは絶対に使用しないでください。
+  非常時[ひじょうじ]の 際[さい]、エレベーターは 絶対[ぜったい]に 使用[しよう]しないでください。
+  Bei einem Notfall dürfen Sie auf keinen Fall den Aufzug benutzen.
+
+  この手術ではメスを使用しないので、傷跡の心配はありません。
+  この 手術[しゅじゅつ]ではメスを 使用[しよう]しないので、傷跡[きずあと]の 心配[しんぱい]はありません。
+  Bei dieser Operation wird kein Skalpell verwendet, daher müssen Sie sich keine Sorgen um Narben machen.
+
+  新しい言葉を使用する際は、その意味をよく理解しましょう。
+  新[あた]しい 言葉[ことば]を 使用[しよう]する 際[さい]は、その 意味[いみ]をよく 理解[りかい]しましょう。
+  Wenn wir neue Wörter verwenden, sollten wir ihre Bedeutung gut verstehen.
+
+  椅子を使用する際は、背もたれを正しく調整してください。
+  椅子[いす]を 使用[しよう]する 際[さい]は、背[せ]もたれを 正[ただ]しく 調整[ちょうせい]してください。
+  Bei der Benutzung des Stuhls stellen Sie bitte die Rückenlehne richtig ein.
+
+  会社の車を私的に使用することは禁止されています。
+  会社[かいしゃ]の 車[くるま]を 私的[してき]に 使用[しよう]することは 禁止[きんし]されています。
+  Es ist verboten, Firmenwagen für private Zwecke zu nutzen.
+
+  部屋を使用した後は、必ず清掃してください。
+  部屋[へや]を 使用[しよう]した 後[あと]は、必[かなら]ず 清掃[せいそう]してください。
+  Bitte reinigen Sie den Raum unbedingt nach der Benutzung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

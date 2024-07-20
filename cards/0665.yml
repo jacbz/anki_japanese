@@ -1,15 +1,15 @@
 Rang: 665
 Lemma: 関わる
 Lesung: かかわる
-Alternativschreibweisen: ''
-Definition: betreffen, beteiligt sein
+Alternativschreibweisen: 係わる・拘わる
+Definition: betreffen, angehen; zu tun haben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">か</span><span class="accent_top">わ</span><span>る</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 関わらない・関わった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼はその計画に関わっている。
   彼[かれ]はその 計画[けいかく]に 関[かか]わっている。
   Er ist an dem Projekt beteiligt.
+
+  この問題は命に関わる重大な事態だ。
+  この 問題[もんだい]は 命[いのち]に 関[かか]わる 重大[じゅうだい]な 事態[じたい]だ。
+  Diese Angelegenheit ist eine ernste Situation, bei der es um Leben und Tod geht.
+
+  その決定は会社の名誉に関わることだ。
+  その 決定[けってい]は 会社[かいしゃ]の 名誉[めいよ]に 関[かか]わることだ。
+  Diese Entscheidung betrifft die Ehre des Unternehmens.
+
+  彼の行動は私たちの安全に関わる問題だ。
+  彼[かれ]の 行動[こうどう]は 私[わたし]たちの 安全[あんぜん]に 関[かか]わる 問題[もんだい]だ。
+  Sein Verhalten ist ein Problem, das unsere Sicherheit gefährdet.
+
+  この事件は国家の存続に関わる重要な案件です。
+  この 事件[じけん]は 国家[こっか]の 存続[そんぞく]に 関[かか]わる 重要[じゅうよう]な 案件[あんけん]です。
+  Dieser Vorfall ist eine wichtige Angelegenheit, die das Fortbestehen des Staates betrifft.
+
+  彼女の発言は会社の評判に関わるものだった。
+  彼女[かのじょ]の 発言[はつげん]は 会社[かいしゃ]の 評判[ひょうばん]に 関[かか]わるものだった。
+  Ihre Äußerung betraf den Ruf des Unternehmens.
+
+  その決断は将来の成功に関わることだろう。
+  その 決断[けつだん]は 将来[しょうらい]の 成功[せいこう]に 関[かか]わることだろう。
+  Diese Entscheidung wird sich wahrscheinlich auf den zukünftigen Erfolg auswirken.
+
+  警察とは関わりたくないので、この件には協力できません。
+  警察[けいさつ]とは 関[かか]わりたくないので、この 件[けん]には 協力[きょうりょく]できません。
+  Ich möchte nichts mit der Polizei zu tun haben, daher kann ich in dieser Sache nicht kooperieren.
+
+  彼は過去の出来事に関わることを避けている。
+  彼[かれ]は 過去[かこ]の 出来事[できごと]に 関[かか]わることを 避[さ]けている。
+  Er vermeidet es, sich mit Ereignissen aus der Vergangenheit zu befassen.
+
+  この問題は私たちの部署に直接関わることではありません。
+  この 問題[もんだい]は 私[わたし]たちの 部署[ぶしょ]に 直接[ちょくせつ] 関[かか]わることではありません。
+  Dieses Problem betrifft unsere Abteilung nicht direkt.
+
+  彼女は常に他人の問題に関わろうとする。
+  彼女[かのじょ]は 常[つね]に 他人[たにん]の 問題[もんだい]に 関[かか]わろうとする。
+  Sie versucht immer, sich in die Probleme anderer einzumischen.
+
+  この件に関わる全ての人に連絡を取ってください。
+  この 件[けん]に 関[かか]わる 全[すべ]ての 人[ひと]に 連絡[れんらく]を 取[と]ってください。
+  Bitte kontaktieren Sie alle Personen, die mit dieser Angelegenheit zu tun haben.
+
+  彼は政治に関わることを避けている。
+  彼[かれ]は 政治[せいじ]に 関[かか]わることを 避[さ]けている。
+  Er vermeidet es, sich in die Politik einzumischen.
+
+  この決定は多くの人々の生活に関わる重要なものです。
+  この 決定[けってい]は 多[おお]くの 人々[ひとびと]の 生活[せいかつ]に 関[かか]わる 重要[じゅうよう]なものです。
+  Diese Entscheidung ist wichtig, da sie das Leben vieler Menschen betrifft.
+
+  彼女は環境問題に関わる活動に熱心だ。
+  彼女[かのじょ]は 環境問題[かんきょうもんだい]に 関[かか]わる 活動[かつどう]に 熱心[ねっしん]だ。
+  Sie engagiert sich leidenschaftlich für Aktivitäten im Zusammenhang mit Umweltproblemen.
+
+  この事業は地域の発展に深く関わっています。
+  この 事業[じぎょう]は 地域[ちいき]の 発展[はってん]に 深[ふか]く 関[かか]わっています。
+  Dieses Projekt ist eng mit der Entwicklung der Region verbunden.
+
+  彼は常に新しいプロジェクトに関わりたがる。
+  彼[かれ]は 常[つね]に 新[あたら]しいプロジェクトに 関[かか]わりたがる。
+  Er will sich immer an neuen Projekten beteiligen.
+
+  この問題は私たちの将来に関わる重要な事柄だ。
+  この 問題[もんだい]は 私[わたし]たちの 将来[しょうらい]に 関[かか]わる 重要[じゅうよう]な 事柄[ことがら]だ。
+  Diese Frage ist eine wichtige Angelegenheit, die unsere Zukunft betrifft.
+
+  彼女は常に家族の問題に関わろうとしている。
+  彼女[かのじょ]は 常[つね]に 家族[かぞく]の 問題[もんだい]に 関[かか]わろうとしている。
+  Sie versucht ständig, sich in Familienangelegenheiten einzumischen.
+
+  この決定は会社の存続に関わる重大な問題だ。
+  この 決定[けってい]は 会社[かいしゃ]の 存続[そんぞく]に 関[かか]わる 重大[じゅうだい]な 問題[もんだい]だ。
+  Diese Entscheidung ist ein ernsthaftes Problem, das das Überleben des Unternehmens betrifft.
+
+  彼は常に他人の悩みに関わろうとする優しい人だ。
+  彼[かれ]は 常[つね]に 他人[たにん]の 悩[なや]みに 関[かか]わろうとする 優[やさ]しい 人[ひと]だ。
+  Er ist ein freundlicher Mensch, der immer versucht, sich um die Sorgen anderer zu kümmern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

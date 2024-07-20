@@ -1,15 +1,15 @@
 Rang: 482
 Lemma: 開く
 Lesung: ひらく
-Alternativschreibweisen: ''
+Alternativschreibweisen: 拓く・啓く
 Definition: eröffnen; blühen; halten
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_top">ら</span><span>く</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 開かない・開いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   会議は来週開かれる。
   会議[かいぎ]は 来週[らいしゅう] 開[ひら]かれる。
   Das Treffen wird nächste Woche abgehalten.
+
+  ドアを開いて、新鮮な空気を入れましょう。
+  ドアを 開[ひら]いて、新鮮[しんせん]な 空気[くうき]を 入[い]れましょう。
+  Lass uns die Tür öffnen und frische Luft hereinlassen.
+
+  本を開いて、目次を確認してください。
+  本[ほん]を 開[ひら]いて、目次[もくじ]を 確認[かくにん]してください。
+  Bitte schlagen Sie das Buch auf und überprüfen Sie das Inhaltsverzeichnis.
+
+  傘を開くのを忘れないでね、雨が降っているよ。
+  傘[かさ]を 開[ひら]くのを 忘[わす]れないでね、雨[あめ]が 降[ふ]っているよ。
+  Vergiss nicht, den Regenschirm aufzuspannen, es regnet.
+
+  心を開いて、新しい考えを受け入れる準備をしよう。
+  心[こころ]を 開[ひら]いて、新[あたら]しい 考[かんが]えを 受[う]け 入[い]れる 準備[じゅんび]をしよう。
+  Lass uns unser Herz öffnen und bereit sein, neue Ideen zu akzeptieren.
+
+  会議を開く前に、資料を配布してください。
+  会議[かいぎ]を 開[ひら]く 前[まえ]に、資料[しりょう]を 配布[はいふ]してください。
+  Bitte verteilen Sie die Unterlagen, bevor wir die Besprechung eröffnen.
+
+  新しい店を開くのは簡単なことじゃないよ。
+  新[あたら]しい 店[みせ]を 開[ひら]くのは 簡単[かんたん]なことじゃないよ。
+  Es ist nicht einfach, ein neues Geschäft zu eröffnen.
+
+  銀行で口座を開きたいんですが、どうすればいいですか。
+  銀行[ぎんこう]で 口座[こうざ]を 開[ひら]きたいんですが、どうすればいいですか。
+  Ich möchte ein Bankkonto eröffnen. Wie gehe ich dabei vor?
+
+  コンサートを開くための準備は順調に進んでいます。
+  コンサートを 開[ひら]くための 準備[じゅんび]は 順調[じゅんちょう]に 進[すす]んでいます。
+  Die Vorbereitungen für die Veranstaltung des Konzerts laufen reibungslos.
+
+  未来への道を開くには、努力と忍耐が必要だ。
+  未来[みらい]への 道[みち]を 開[ひら]くには、努力[どりょく]と 忍耐[にんたい]が 必要[ひつよう]だ。
+  Um den Weg in die Zukunft zu ebnen, braucht man Anstrengung und Geduld.
+
+  この土地を開いて、農場を作る計画があります。
+  この 土地[とち]を 開[ひら]いて、農場[のうじょう]を 作[つく]る 計画[けいかく]があります。
+  Es gibt Pläne, dieses Land urbar zu machen und eine Farm anzulegen.
+
+  彼女の説明は私の蒙を開いてくれた。
+  彼女[かのじょ]の 説明[せつめい]は 私[わたし]の 蒙[もう]を 開[ひら]いてくれた。
+  Ihre Erklärung hat mir die Augen geöffnet.
+
+  ドアが開いて、彼女が部屋に入ってきた。
+  ドアが 開[ひら]いて、彼女[かのじょ]が 部屋[へや]に 入[はい]ってきた。
+  Die Tür öffnete sich und sie trat ins Zimmer.
+
+  花が開くのを見るのは本当に楽しいね。
+  花[はな]が 開[ひら]くのを 見[み]るのは 本当[ほんとう]に 楽[たの]しいね。
+  Es ist wirklich schön, zu sehen, wie sich die Blumen öffnen.
+
+  新しいショッピングモールが来月開くそうだ。
+  新[あたら]しいショッピングモールが 来月[らいげつ] 開[ひら]くそうだ。
+  Ich habe gehört, dass nächsten Monat ein neues Einkaufszentrum eröffnet wird.
+
+  彼の運が開いて、宝くじに当たったんだって。
+  彼[かれ]の 運[うん]が 開[ひら]いて、宝[たから]くじに 当[あ]たったんだって。
+  Sein Glück hat sich gewendet und er hat im Lotto gewonnen.
+
+  二人の意見の差が開いて、合意に達するのが難しくなった。
+  二人[ふたり]の 意見[いけん]の 差[さ]が 開[ひら]いて、合意[ごうい]に 達[たっ]するのが 難[むずか]しくなった。
+  Die Meinungsverschiedenheiten zwischen den beiden haben sich vergrößert, sodass es schwierig wurde, eine Einigung zu erzielen.
+
+  目を開けたら、知らない場所にいた。
+  目[め]を 開[ひら]けたら、知[し]らない 場所[ばしょ]にいた。
+  Als ich die Augen öffnete, befand ich mich an einem unbekannten Ort.
+
+  彼女は静かに口を開いて、驚くべき事実を語り始めた。
+  彼女[かのじょ]は 静[しず]かに 口[くち]を 開[ひら]いて、驚[おどろ]くべき 事実[じじつ]を 語[かた]り 始[はじ]めた。
+  Sie öffnete leise den Mund und begann, erstaunliche Tatsachen zu erzählen.
+
+  窓を開いて、部屋を換気しましょう。
+  窓[まど]を 開[ひら]いて、部屋[へや]を 換気[かんき]しましょう。
+  Lass uns das Fenster öffnen und das Zimmer lüften.
+
+  この会社で新しい可能性を開くチャンスがあると思います。
+  この 会社[かいしゃ]で 新[あたら]しい 可能性[かのうせい]を 開[ひら]くチャンスがあると 思[おも]います。
+  Ich denke, es gibt eine Chance, in diesem Unternehmen neue Möglichkeiten zu eröffnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

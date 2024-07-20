@@ -1,15 +1,15 @@
 Rang: 962
 Lemma: 慣れる
 Lesung: なれる
-Alternativschreibweisen: ''
-Definition: sich an etwas gewöhnen
+Alternativschreibweisen: 馴れる
+Definition: sich gewöhnen an
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>な</span><span class="accent_top">れ</span><span>る</span>
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 慣れない・慣れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   大阪の生活に慣れてきた。
   大阪[おおさか]の 生活[せいかつ]に 慣[な]れてきた。
   Ich gewöhne mich langsam an das Leben in Osaka.
+
+  新しい環境に慣れるには時間がかかることもあります。
+  新[あたら]しい 環境[かんきょう]に 慣[な]れるには 時間[じかん]がかかることもあります。
+  Es kann einige Zeit dauern, sich an eine neue Umgebung zu gewöhnen.
+
+  都会の生活に慣れるのは大変でした。
+  都会[とかい]の 生活[せいかつ]に 慣[な]れるのは 大変[たいへん]でした。
+  Es war schwierig, sich an das Stadtleben zu gewöhnen.
+
+  海に慣れていない人は、船酔いしやすいです。
+  海[うみ]に 慣[な]れていない 人[ひと]は、船酔[ふなよ]いしやすいです。
+  Menschen, die nicht an das Meer gewöhnt sind, werden leicht seekrank.
+
+  新しい気候に慣れるまでに、約1ヶ月かかりました。
+  新[あたら]しい 気候[きこう]に 慣[な]れるまでに、約[やく]1ヶ月[かげつ] かかりました。
+  Es hat ungefähr einen Monat gedauert, bis ich mich an das neue Klima gewöhnt habe.
+
+  寒さに慣れるために、毎日少しずつ外で過ごす時間を増やしています。
+  寒[さむ]さに 慣[な]れるために、毎日[まいにち] 少[すこ]しずつ 外[そと]で 過[す]ごす 時間[じかん]を 増[ふ]やしています。
+  Um mich an die Kälte zu gewöhnen, verbringe ich jeden Tag etwas mehr Zeit draußen.
+
+  早起きに慣れているので、朝は元気いっぱいです。
+  早起[はやお]きに 慣[な]れているので、朝[あさ]は 元気[げんき]いっぱいです。
+  Da ich ans Frühaufstehen gewöhnt bin, bin ich morgens voller Energie.
+
+  慣れた手つきで料理を作る姿は、とてもかっこよく見えます。
+  慣[な]れた 手[て]つきで 料理[りょうり]を 作[つく]る 姿[すがた]は、とても かっこよく 見[み]えます。
+  Es sieht sehr cool aus, wie du mit geübten Händen kochst.
+
+  新しい靴は最初は痛いけど、足に慣れるまで履き続けましょう。
+  新[あたら]しい 靴[くつ]は 最初[さいしょ]は 痛[いた]いけど、足[あし]に 慣[な]れるまで 履[は]き 続[つづ]けましょう。
+  Neue Schuhe tun zuerst weh, aber lass sie uns weiter tragen, bis sie sich an deine Füße gewöhnt haben.
+
+  彼女はすぐに新しい環境に慣れる才能があるね。
+  彼女[かのじょ]はすぐに 新[あたら]しい 環境[かんきょう]に 慣[な]れる 才能[さいのう]があるね。
+  Sie hat wirklich ein Talent dafür, sich schnell an neue Umgebungen zu gewöhnen.
+
+  慣れない仕事で疲れてしまいました。
+  慣[な]れない 仕事[しごと]で 疲[つか]れてしまいました。
+  Ich bin von der ungewohnten Arbeit erschöpft.
+
+  最初は少し手間取ったが、すぐにオールの動かし方に慣れた。
+  最初[さいしょ]は 少[すこ]し 手間取[てまど]ったが、すぐにオールの 動[うご]かし 方[かた]に 慣[な]れた。
+  Anfangs hatte ich Schwierigkeiten, aber ich gewöhnte mich schnell daran, wie man die Ruder bewegt.
+
+  片足を引きずる歩きにもやがて慣れた。
+  片足[かたあし]を 引[ひ]きずる 歩[ある]きにもやがて 慣[な]れた。
+  Mit der Zeit gewöhnte ich mich daran, beim Gehen ein Bein nachzuziehen.
+
+  安娜の気紛れには慣れているよ。
+  安娜[あんな]の 気紛[きまぐ]れには 慣[な]れているよ。
+  Ich bin an Annas Launen gewöhnt.
+
+  この頃から行徳の眼は闇に慣れ、女の姿の輪郭を認めることができた。
+  この 頃[ころ]から 行徳[ゆきのり]の 眼[め]は 闇[やみ]に 慣[な]れ、女[おんな]の 姿[すがた]の 輪郭[りんかく]を 認[みと]めることができた。
+  Ab diesem Zeitpunkt hatten sich Yukinoris Augen an die Dunkelheit gewöhnt, und er konnte die Umrisse der Frau erkennen.
+
+  騒動に馴れた京の市中の者もこれには目を見はった。
+  騒動[そうどう]に 馴[な]れた 京[きょう]の 市中[しちゅう]の 者[もの]もこれには 目[め]を 見[み]はった。
+  Selbst die an Unruhen gewöhnten Bewohner der Hauptstadt rissen bei diesem Anblick erstaunt die Augen auf.
+
+  妹は慣れた手つきで、あっという間に寝床を整えた。
+  妹[いもうと]は 慣[な]れた 手[て]つきで、あっという 間[ま]に 寝床[ねどこ]を 整[ととの]えた。
+  Mit geübten Händen machte meine Schwester das Bett im Handumdrehen.
+
+  アセベドは、ピストルではなくてナイフの扱いに慣れた悪党だった。
+  アセベドは、ピストルではなくてナイフの 扱[あつか]いに 慣[な]れた 悪党[あくとう]だった。
+  Azevedo war ein Schurke, der im Umgang mit Messern geübt war, nicht aber mit Pistolen.
+
+  海外の珍しい習慣や食べ物にも慣れています。
+  海外[かいがい]の 珍[めずら]しい 習慣[しゅうかん]や 食[た]べ 物[もの]にも 慣[な]れています。
+  Ich bin auch an ungewöhnliche Bräuche und Speisen aus dem Ausland gewöhnt.
+
+  馴れた虎を傍に寝かして置いている。
+  馴[な]れた 虎[とら]を 傍[そば]に 寝[ね]かして 置[お]いている。
+  Er lässt einen zahmen Tiger neben sich schlafen.
+
+  習うより慣れよ、という言葉の通り、練習を重ねることが大切です。
+  習[なら]うより 慣[な]れよ、という 言葉[ことば]の 通[とお]り、練習[れんしゅう]を 重[かさ]ねることが 大切[たいせつ]です。
+  Wie das Sprichwort sagt: 'Übung macht den Meister'. Es ist wichtig, kontinuierlich zu üben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

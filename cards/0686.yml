@@ -2,9 +2,9 @@ Rang: 686
 Lemma: 不安
 Lesung: ふあん
 Alternativschreibweisen: ''
-Definition: Unruhe, Sorge
+Definition: Sorge, Angst; Unsicherheit
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: <span>ふ</span><span class="accent_plain">あ</span><span class="accent_plain">ん</span>
 Register: ''
 Dispersion: '97'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   世界経済への不安が高まっている。
   世界経済[せかいけいざい]への 不安[ふあん]が 高[たか]まっている。
   Die Weltwirtschaft gibt zunehmend Anlass zur Sorge.
+
+  試験の結果が不安で眠れない夜が続いています。
+  試験[しけん]の 結果[けっか]が 不安[ふあん]で 眠[ねむ]れない 夜[よる]が 続[つづ]いています。
+  Ich habe seit Tagen schlaflose Nächte, weil ich wegen der Prüfungsergebnisse beunruhigt bin.
+
+  彼女の表情に不安の色が見えた。
+  彼女[かのじょ]の 表情[ひょうじょう]に 不安[ふあん]の 色[いろ]が 見[み]えた。
+  In ihrem Gesichtsausdruck war ein Hauch von Besorgnis zu erkennen.
+
+  経済の先行きに対する不安感が広がっている。
+  経済[けいざい]の 先行[せんこう]きに 対[たい]する 不安感[ふあんかん]が 広[ひろ]がっている。
+  Ein Gefühl der Unsicherheit über die wirtschaftliche Zukunft breitet sich aus.
+
+  新しい環境に慣れるまでは不安を感じるのは普通だ。
+  新[あたら]しい 環境[かんきょう]に 慣[な]れるまでは 不安[ふあん]を 感[かん]じるのは 普通[ふつう]だ。
+  Es ist normal, sich unsicher zu fühlen, bis man sich an eine neue Umgebung gewöhnt hat.
+
+  病気の家族のことが不安でたまらない。
+  病気[びょうき]の 家族[かぞく]のことが 不安[ふあん]でたまらない。
+  Ich komme vor Sorge um mein krankes Familienmitglied fast um.
+
+  将来のキャリアについて不安を抱いている学生が多い。
+  将来[しょうらい]のキャリアについて 不安[ふあん]を 抱[いだ]いている 学生[がくせい]が 多[おお]い。
+  Viele Studenten haben Bedenken bezüglich ihrer zukünftigen Karriere.
+
+  不安な気持ちを克服するには、前向きに考えることが大切です。
+  不安[ふあん]な 気持[きも]ちを 克服[こくふく]するには、前向[まえむ]きに 考[かんが]えることが 大切[たいせつ]です。
+  Um ängstliche Gefühle zu überwinden, ist es wichtig, positiv zu denken.
+
+  彼の不安げな表情を見て、何か問題があると感じた。
+  彼[かれ]の 不安[ふあん]げな 表情[ひょうじょう]を 見[み]て、何[なに]か 問題[もんだい]があると 感[かん]じた。
+  Als ich seinen besorgten Gesichtsausdruck sah, spürte ich, dass es ein Problem gab.
+
+  初めての海外旅行で不安になるのは当然です。
+  初[はじ]めての 海外旅行[かいがいりょこう]で 不安[ふあん]になるのは 当然[とうぜん]です。
+  Es ist natürlich, bei der ersten Auslandsreise nervös zu werden.
+
+  子供の将来について不安に思うことがあります。
+  子供[こども]の 将来[しょうらい]について 不安[ふあん]に 思[おも]うことがあります。
+  Manchmal mache ich mir Sorgen um die Zukunft meiner Kinder.
+
+  不安な夢を見て、冷や汗をかいて目が覚めた。
+  不安[ふあん]な 夢[ゆめ]を 見[み]て、冷や汗[ひやあせ]をかいて 目[め]が 覚[さ]めた。
+  Ich wachte schweißgebadet auf, nachdem ich einen beängstigenden Traum hatte.
+
+  彼は不安の念を払拭できずにいる。
+  彼[かれ]は 不安[ふあん]の 念[ねん]を 払拭[ふっしょく]できずにいる。
+  Er kann seine ängstlichen Gedanken nicht abschütteln.
+
+  不安材料が次々と浮上し、市場は混乱している。
+  不安材料[ふあんざいりょう]が 次々[つぎつぎ]と 浮上[ふじょう]し、市場[しじょう]は 混乱[こんらん]している。
+  Gründe zur Besorgnis tauchen nacheinander auf, und der Markt ist in Aufruhr.
+
+  面接の前は不安な気持ちでいっぱいだった。
+  面接[めんせつ]の 前[まえ]は 不安[ふあん]な 気持[きも]ちでいっぱいだった。
+  Vor dem Vorstellungsgespräch war ich voller Unsicherheit.
+
+  不安を感じたら、誰かに相談するのも良い方法です。
+  不安[ふあん]を 感[かん]じたら、誰[だれ]かに 相談[そうだん]するのも 良[よ]い 方法[ほうほう]です。
+  Wenn Sie sich ängstlich fühlen, ist es eine gute Methode, mit jemandem darüber zu sprechen.
+
+  彼女は不安そうな目つきで部屋を見回した。
+  彼女[かのじょ]は 不安[ふあん]そうな 目[め]つきで 部屋[へや]を 見回[みまわ]した。
+  Sie blickte mit einem besorgten Ausdruck im Raum umher.
+
+  不安体験は心の成長につながることもある。
+  不安体験[ふあんたいけん]は 心[こころ]の 成長[せいちょう]につながることもある。
+  Angsterlebnisse können auch zu persönlichem Wachstum führen.
+
+  新型ウイルスの流行で、多くの人が不安を感じている。
+  新型[しんがた]ウイルスの 流行[りゅうこう]で、多[おお]くの 人[ひと]が 不安[ふあん]を 感[かん]じている。
+  Viele Menschen sind wegen der Ausbreitung des neuen Virus besorgt.
+
+  不安な気持ちを打ち明けることで、少し楽になった。
+  不安[ふあん]な 気持[きも]ちを 打[う]ち 明[あ]けることで、少[すこ]し 楽[らく]になった。
+  Ich fühlte mich etwas erleichtert, nachdem ich meine Ängste offenbart hatte.
+
+  彼の不安げな様子に、周りの人も影響を受けた。
+  彼[かれ]の 不安[ふあん]げな 様子[ようす]に、周[まわ]りの 人[ひと]も 影響[えいきょう]を 受[う]けた。
+  Sein ängstliches Verhalten beeinflusste auch die Menschen um ihn herum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 599
 Lemma: 守る
 Lesung: まもる
-Alternativschreibweisen: ''
-Definition: schützen, bewahren, gehorchen
+Alternativschreibweisen: 護る
+Definition: schützen; einhalten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ま</span><span class="accent_top">も</span><span>る</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 守らない・守った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は約束を守った。
   彼女[かのじょ]は 約束[やくそく]を 守[まも]った。
   Sie hat ihr Versprechen gehalten.
+
+  警察は市民の安全を守る責任がある。
+  警察[けいさつ]は 市民[しみん]の 安全[あんぜん]を 守[まも]る 責任[せきにん]がある。
+  Die Polizei hat die Verantwortung, die Sicherheit der Bürger zu schützen.
+
+  両親は子供を危険から守ろうとする。
+  両親[りょうしん]は 子供[こども]を 危険[きけん]から 守[まも]ろうとする。
+  Eltern versuchen, ihre Kinder vor Gefahren zu schützen.
+
+  サッカー選手はゴールを守るために全力を尽くした。
+  サッカー 選手[せんしゅ]はゴールを 守[まも]るために 全力[ぜんりょく]を 尽[つ]くした。
+  Der Fußballspieler gab alles, um das Tor zu verteidigen.
+
+  環境を守るために、私たちは何ができるだろうか。
+  環境[かんきょう]を 守[まも]るために、私[わたし]たちは 何[なに]ができるだろうか。
+  Was können wir tun, um die Umwelt zu schützen?
+
+  彼女は自分の権利を守るために弁護士に相談した。
+  彼女[かのじょ]は 自分[じぶん]の 権利[けんり]を 守[まも]るために 弁護士[べんごし]に 相談[そうだん]した。
+  Sie konsultierte einen Anwalt, um ihre Rechte zu verteidigen.
+
+  この古い建物を守るために、保存運動が始まった。
+  この 古[ふる]い 建物[たてもの]を 守[まも]るために、保存[ほぞん] 運動[うんどう]が 始[はじ]まった。
+  Eine Erhaltungskampagne wurde gestartet, um dieses alte Gebäude zu bewahren.
+
+  彼は家族の平和を守るために一生懸命働いている。
+  彼[かれ]は 家族[かぞく]の 平和[へいわ]を 守[まも]るために 一生懸命[いっしょうけんめい] 働[はたら]いている。
+  Er arbeitet hart, um den Frieden in seiner Familie zu bewahren.
+
+  秘密を守ることは友情にとって重要だ。
+  秘密[ひみつ]を 守[まも]ることは 友情[ゆうじょう]にとって 重要[じゅうよう]だ。
+  Geheimnisse zu bewahren ist wichtig für die Freundschaft.
+
+  彼らは伝統的な文化を守るために努力している。
+  彼[かれ]らは 伝統的[でんとうてき]な 文化[ぶんか]を 守[まも]るために 努力[どりょく]している。
+  Sie bemühen sich, die traditionelle Kultur zu erhalten.
+
+  約束を守ることは信頼関係を築く上で大切だ。
+  約束[やくそく]を 守[まも]ることは 信頼[しんらい] 関係[かんけい]を 築[きず]く 上[うえ]で 大切[たいせつ]だ。
+  Versprechen zu halten ist wichtig, um eine vertrauensvolle Beziehung aufzubauen.
+
+  彼は常に時間を守る人として知られている。
+  彼[かれ]は 常[つね]に 時間[じかん]を 守[まも]る 人[ひと]として 知[し]られている。
+  Er ist dafür bekannt, immer pünktlich zu sein.
+
+  法律を守ることは社会の秩序を維持するために重要だ。
+  法律[ほうりつ]を 守[まも]ることは 社会[しゃかい]の 秩序[ちつじょ]を 維持[いじ]するために 重要[じゅうよう]だ。
+  Das Einhalten von Gesetzen ist wichtig, um die Ordnung in der Gesellschaft aufrechtzuerhalten.
+
+  彼女は厳しい規則を守りながら、仕事をこなしている。
+  彼女[かのじょ]は 厳[きび]しい 規則[きそく]を 守[まも]りながら、仕事[しごと]をこなしている。
+  Sie erledigt ihre Arbeit, während sie sich an strenge Regeln hält.
+
+  子供たちに約束を守ることの大切さを教えなければならない。
+  子供[こども]たちに 約束[やくそく]を 守[まも]ることの 大切[たいせつ]さを 教[おし]えなければならない。
+  Wir müssen Kindern beibringen, wie wichtig es ist, Versprechen zu halten.
+
+  彼は自分の信念を守るために、多くの困難に立ち向かった。
+  彼[かれ]は 自分[じぶん]の 信念[しんねん]を 守[まも]るために、多[おお]くの 困難[こんなん]に 立[た]ち 向[む]かった。
+  Er stellte sich vielen Schwierigkeiten, um seine Überzeugungen zu wahren.
+
+  この会社は顧客のプライバシーを守ることを最優先している。
+  この 会社[かいしゃ]は 顧客[こきゃく]のプライバシーを 守[まも]ることを 最優先[さいゆうせん]している。
+  Dieses Unternehmen priorisiert den Schutz der Privatsphäre seiner Kunden.
+
+  彼らは村の伝統的な祭りを守るために毎年集まる。
+  彼[かれ]らは 村[むら]の 伝統的[でんとうてき]な 祭[まつ]りを 守[まも]るために 毎年[まいとし] 集[あつ]まる。
+  Sie versammeln sich jedes Jahr, um das traditionelle Dorffest zu bewahren.
+
+  交通ルールを守ることで、事故を防ぐことができる。
+  交通[こうつう]ルールを 守[まも]ることで、事故[じこ]を 防[ふせ]ぐことができる。
+  Durch Einhalten der Verkehrsregeln können Unfälle verhindert werden.
+
+  彼女は自分の健康を守るために、規則正しい生活を心がけている。
+  彼女[かのじょ]は 自分[じぶん]の 健康[けんこう]を 守[まも]るために、規則正[きそくただ]しい 生活[せいかつ]を 心[こころ]がけている。
+  Sie bemüht sich um einen geregelten Lebensstil, um ihre Gesundheit zu erhalten.
+
+  我々はデータを守り、彼らはデータを盗む。古典的な警官と泥棒のパターンだ。
+  我々[われわれ]はデータを 守[まも]り、彼[かれ]らはデータを 盗[ぬす]む。古典的[こてんてき]な 警官[けいかん]と 泥棒[どろぼう]のパターンだ。
+  Wir schützen Daten, sie entwenden sie. Das klassische Räuber-und-Gendarm-Spiel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

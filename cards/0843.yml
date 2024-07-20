@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">っ</span><span 
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 発見しない・発見した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   アメリカ大陸はコロンブスによって発見された。
   アメリカ 大陸[たいりく]はコロンブスによって 発見[はっけん]された。
   Amerika wurde von Kolumbus entdeckt.
+
+  科学者たちは新しい星を発見しました。
+  科学者[かがくしゃ]たちは 新[あたら]しい 星[ほし]を 発見[はっけん]しました。
+  Die Wissenschaftler haben einen neuen Stern entdeckt.
+
+  彼は山中で貴重な発見物を見つけた。
+  彼[かれ]は 山中[さんちゅう]で 貴重[きちょう]な 発見物[はっけんぶつ]を 見[み]つけた。
+  Er machte in den Bergen einen wertvollen Fund.
+
+  警察は犯罪の発見地を慎重に調査している。
+  警察[けいさつ]は 犯罪[はんざい]の 発見地[はっけんち]を 慎重[しんちょう]に 調査[ちょうさ]している。
+  Die Polizei untersucht sorgfältig den Fundort des Verbrechens.
+
+  発見時代には多くの冒険家が新しい土地を探検した。
+  発見時代[はっけんじだい]には 多[おお]くの 冒険家[ぼうけんか]が 新[あたら]しい 土地[とち]を 探検[たんけん]した。
+  Im Zeitalter der Entdeckungen erforschten viele Abenteurer neue Länder.
+
+  コロンブスはアメリカ大陸の発見者として知られている。
+  コロンブスはアメリカ大陸[たいりく]の 発見者[はっけんしゃ]として 知[し]られている。
+  Kolumbus ist als Entdecker des amerikanischen Kontinents bekannt.
+
+  この研究は真理発見への大きな一歩だ。
+  この 研究[けんきゅう]は 真理発見[しんりはっけん]への 大[おお]きな 一歩[いっぽ]だ。
+  Diese Forschung ist ein großer Schritt zur Wahrheitsfindung.
+
+  考古学者たちは発見の手順を慎重に踏んでいる。
+  考古学者[こうこがくしゃ]たちは 発見[はっけん]の 手順[てじゅん]を 慎重[しんちょう]に 踏[ふ]んでいる。
+  Die Archäologen folgen sorgfältig der Entdeckungsprozedur.
+
+  この発見は私にとって怖ろしいものだった。
+  この 発見[はっけん]は 私[わたし]にとって 怖[こわ]ろしいものだった。
+  Diese Entdeckung war für mich erschreckend.
+
+  新種の昆虫を発見するのは、とてもワクワクする体験だ。
+  新種[しんしゅ]の 昆虫[こんちゅう]を 発見[はっけん]するのは、とてもワクワクする 体験[たいけん]だ。
+  Das Entdecken einer neuen Insektenart ist eine sehr aufregende Erfahrung.
+
+  彼女の発見的方法は問題解決に役立った。
+  彼女[かのじょ]の 発見的方法[はっけんてきほうほう]は 問題解決[もんだいかいけつ]に 役立[やくだ]った。
+  Ihre heuristische Methode war bei der Problemlösung hilfreich.
+
+  科学者たちは新しい発見的原理を提案した。
+  科学者[かがくしゃ]たちは 新[あたら]しい 発見的原理[はっけんてきげんり]を 提案[ていあん]した。
+  Die Wissenschaftler schlugen ein neues heuristisches Prinzip vor.
+
+  彼らは隠された才能を発見するプログラムを開発した。
+  彼[かれ]らは 隠[かく]された 才能[さいのう]を 発見[はっけん]するプログラムを 開発[かいはつ]した。
+  Sie entwickelten ein Programm zur Entdeckung verborgener Talente.
+
+  校正作業で重大な間違いを発見した。
+  校正作業[こうせいさぎょう]で 重大[じゅうだい]な 間違[まちが]いを 発見[はっけん]した。
+  Bei der Korrekturarbeit wurde ein schwerwiegender Fehler entdeckt.
+
+  山中で遺体が発見されたと警察が発表した。
+  山中[さんちゅう]で 遺体[いたい]が 発見[はっけん]されたと 警察[けいさつ]が 発表[はっぴょう]した。
+  Die Polizei gab bekannt, dass in den Bergen eine Leiche gefunden wurde.
+
+  インドを目指して航海したコロンブスは、偶然アメリカを発見した。
+  インドを 目指[めざ]して 航海[こうかい]したコロンブスは、偶然[ぐうぜん]アメリカを 発見[はっけん]した。
+  Kolumbus, der nach Indien segeln wollte, entdeckte zufällig Amerika.
+
+  健康診断で肺の異常が発見されて、すぐに治療を始めた。
+  健康診断[けんこうしんだん]で 肺[はい]の 異常[いじょう]が 発見[はっけん]されて、すぐに 治療[ちりょう]を 始[はじ]めた。
+  Bei der Gesundheitsuntersuchung wurde eine Lungenanomalie entdeckt, und die Behandlung begann sofort.
+
+  彼らの研究チームは重要な発見をしたと発表した。
+  彼[かれ]らの 研究[けんきゅう]チームは 重要[じゅうよう]な 発見[はっけん]をしたと 発表[はっぴょう]した。
+  Ihr Forschungsteam gab bekannt, dass sie eine wichtige Entdeckung gemacht haben.
+
+  その発見は科学界に大きな衝撃を与えた。
+  その 発見[はっけん]は 科学界[かがくかい]に 大[おお]きな 衝撃[しょうげき]を 与[あた]えた。
+  Die Entdeckung erschütterte die wissenschaftliche Gemeinschaft.
+
+  彼女は古文書を調べているうちに、歴史的な事実を発見した。
+  彼女[かのじょ]は 古文書[こもんじょ]を 調[しら]べているうちに、歴史的[れきしてき]な 事実[じじつ]を 発見[はっけん]した。
+  Während sie alte Dokumente untersuchte, entdeckte sie eine historische Tatsache.
+
+  新薬の発見により、多くの患者の生活が改善された。
+  新薬[しんやく]の 発見[はっけん]により、多[おお]くの 患者[かんじゃ]の 生活[せいかつ]が 改善[かいぜん]された。
+  Durch die Entdeckung eines neuen Medikaments wurde das Leben vieler Patienten verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 701
 Lemma: 期待
 Lesung: きたい
 Alternativschreibweisen: ''
-Definition: Erwartung
+Definition: erwarten, hoffen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">た</span><span class="accent_plain">い</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 期待しない・期待した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   良い結果を期待している。
   良[よ]い 結果[けっか]を 期待[きたい]している。
   Wir erwarten gute Ergebnisse.
+
+  新製品の発売に大きな期待が寄せられています。
+  新製品[しんせいひん]の 発売[はつばい]に 大[おお]きな 期待[きたい]が 寄[よ]せられています。
+  Es werden große Erwartungen an die Markteinführung des neuen Produkts geknüpft.
+
+  期待値を計算して、最適な戦略を立てましょう。
+  期待値[きたいち]を 計算[けいさん]して、最適[さいてき]な 戦略[せんりゃく]を 立[た]てましょう。
+  Lass uns den Erwartungswert berechnen und die optimale Strategie entwickeln.
+
+  彼の期待度は非常に高く、プロジェクトの成功が見込まれています。
+  彼[かれ]の 期待度[きたいど]は 非常[ひじょう]に 高[たか]く、プロジェクトの 成功[せいこう]が 見込[みこ]まれています。
+  Seine Erwartungen sind sehr hoch, und der Erfolg des Projekts wird erwartet.
+
+  過大な期待は失望を招く可能性があります。
+  過大[かだい]な 期待[きたい]は 失望[しつぼう]を 招[まね]く 可能性[かのうせい]があります。
+  Übertriebene Erwartungen können zu Enttäuschungen führen.
+
+  期待通りの結果が得られて、安堵しました。
+  期待通[きたいどお]りの 結果[けっか]が 得[え]られて、安堵[あんど]しました。
+  Ich war erleichtert, dass die Ergebnisse wie erwartet ausfielen.
+
+  彼女の演技は期待以上に素晴らしかったです。
+  彼女[かのじょ]の 演技[えんぎ]は 期待以上[きたいいじょう]に 素晴[すば]らしかったです。
+  Ihre Darstellung war über alle Erwartungen hinaus großartig.
+
+  期待に反して、天気は良くありませんでした。
+  期待[きたい]に 反[はん]して、天気[てんき]は 良[よ]くありませんでした。
+  Entgegen den Erwartungen war das Wetter nicht gut.
+
+  彼の実力は期待に添うものでした。
+  彼[かれ]の 実力[じつりょく]は 期待[きたい]に 添[そ]うものでした。
+  Seine Fähigkeiten entsprachen den Erwartungen.
+
+  彼女は家族の期待の星として頑張っています。
+  彼女[かのじょ]は 家族[かぞく]の 期待[きたい]の 星[ほし]として 頑張[がんば]っています。
+  Sie arbeitet hart als der Stern der Hoffnung für ihre Familie.
+
+  新しい医療技術に大きな期待を抱いています。
+  新[あたら]しい 医療技術[いりょうぎじゅつ]に 大[おお]きな 期待[きたい]を 抱[いだ]いています。
+  Wir hegen große Hoffnungen für die neue medizinische Technologie.
+
+  若手社員は会社の期待を担っています。
+  若手社員[わかてしゃいん]は 会社[かいしゃ]の 期待[きたい]を 担[にな]っています。
+  Die jungen Mitarbeiter tragen die Erwartungen des Unternehmens.
+
+  彼の行動は多くの人の期待を裏切ることになりました。
+  彼[かれ]の 行動[こうどう]は 多[おお]くの 人[ひと]の 期待[きたい]を 裏切[うらぎ]ることになりました。
+  Sein Verhalten enttäuschte die Hoffnungen vieler Menschen.
+
+  私たちは新しいリーダーに大きな期待をかけています。
+  私[わたし]たちは 新[あたら]しいリーダーに 大[おお]きな 期待[きたい]をかけています。
+  Wir setzen große Hoffnungen in unseren neuen Anführer.
+
+  彼は顧客の期待に応えるため、一生懸命働いています。
+  彼[かれ]は 顧客[こきゃく]の 期待[きたい]に 応[こた]えるため、一生懸命[いっしょうけんめい] 働[はたら]いています。
+  Er arbeitet hart, um die Erwartungen der Kunden zu erfüllen.
+
+  私は今年の成長率に期待しています。
+  私[わたし]は 今年[ことし]の 成長率[せいちょうりつ]に 期待[きたい]しています。
+  Ich erwarte eine gute Wachstumsrate für dieses Jahr.
+
+  期待できる結果が得られるよう、全力を尽くしましょう。
+  期待[きたい]できる 結果[けっか]が 得[え]られるよう、全力[ぜんりょく]を 尽[つ]くしましょう。
+  Lasst uns unser Bestes geben, um erwartungsgemäße Ergebnisse zu erzielen.
+
+  彼女の成功を期待して、みんなで応援しています。
+  彼女[かのじょ]の 成功[せいこう]を 期待[きたい]して、みんなで 応援[おうえん]しています。
+  In der Hoffnung auf ihren Erfolg unterstützen wir sie alle.
+
+  このプロジェクトの成功を期待しています。
+  このプロジェクトの 成功[せいこう]を 期待[きたい]しています。
+  Ich erwarte den Erfolg dieses Projekts.
+
+  期待できる人材を育成することが会社の未来を左右します。
+  期待[きたい]できる 人材[じんざい]を 育成[いくせい]することが 会社[かいしゃ]の 未来[みらい]を 左右[さゆう]します。
+  Die Ausbildung vielversprechender Talente wird die Zukunft des Unternehmens bestimmen.
+
+  彼の演説に期待して、会場は静まり返りました。
+  彼[かれ]の 演説[えんぜつ]に 期待[きたい]して、会場[かいじょう]は 静[しず]まり 返[かえ]りました。
+  In Erwartung seiner Rede wurde es im Saal ganz still.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

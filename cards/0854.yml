@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>せ</span><span class="accent_plain">っ</span><span 
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 設定しない・設定した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   エアコンを28度に設定する。
   エアコンを28 度[ど]に 設定[せってい]する。
   Ich werde die Klimaanlage auf 28 Grad einstellen.
+
+  エアコンの設定温度を28度にしました。
+  エアコンの 設定温度[せっていおんど]を28度[どにじゅうはちど]にしました。
+  Ich habe die Temperatur der Klimaanlage auf 28 Grad eingestellt.
+
+  新しい小説の場面設定について作者と話し合った。
+  新[あたら]しい 小説[しょうせつ]の 場面設定[ばめんせってい]について 作者[さくしゃ]と 話[はな]し 合[あ]った。
+  Ich habe mit dem Autor über das Setting für den neuen Roman diskutiert.
+
+  アプリの標準設定を変更したいんだけど、どうすればいいの？
+  アプリの 標準設定[ひょうじゅんせってい]を 変更[へんこう]したいんだけど、どうすればいいの？
+  Ich möchte die Standardeinstellungen der App ändern. Wie mache ich das?
+
+  GPSを使って携帯電話の位置設定をしてください。
+  GPSを 使[つか]って 携帯電話[けいたいでんわ]の 位置設定[いちせってい]をしてください。
+  Bitte verwenden Sie GPS, um die Position Ihres Mobiltelefons zu bestimmen.
+
+  この物語の時代設定は江戸時代です。
+  この 物語[ものがたり]の 時代設定[じだいせってい]は 江戸時代[えどじだい]です。
+  Das zeitliche Setting dieser Geschichte ist die Edo-Zeit.
+
+  環境設定を変更したら、パソコンの動作が安定しました。
+  環境設定[かんきょうせってい]を 変更[へんこう]したら、パソコンの 動作[どうさ]が 安定[あんてい]しました。
+  Nachdem ich die Voreinstellungen geändert hatte, lief der Computer stabil.
+
+  新しい口座設定の手続きはオンラインで完了できます。
+  新[あたら]しい 口座設定[こうざせってい]の 手続[てつづ]きはオンラインで 完了[かんりょう]できます。
+  Die Einrichtung eines neuen Kontos kann online abgeschlossen werden.
+
+  来年度の目標設定について会議で話し合いましょう。
+  来年度[らいねんど]の 目標設定[もくひょうせってい]について 会議[かいぎ]で 話[はな]し 合[あ]いましょう。
+  Lass uns in der Besprechung über die Zielsetzung für das nächste Jahr diskutieren.
+
+  スマートフォンの設定をリセットして、問題が解決しました。
+  スマートフォンの 設定[せってい]をリセットして、問題[もんだい]が 解決[かいけつ]しました。
+  Ich habe die Einstellungen meines Smartphones zurückgesetzt und das Problem wurde gelöst.
+
+  新製品の価格設定について経営陣と協議した。
+  新製品[しんせいひん]の 価格設定[かかくせってい]について 経営陣[けいえいじん]と 協議[きょうぎ]した。
+  Ich habe mit der Geschäftsführung über die Preisgestaltung für das neue Produkt beraten.
+
+  レポート提出の期限を来週の金曜日に設定しました。
+  レポート 提出[ていしゅつ]の 期限[きげん]を 来週[らいしゅう]の 金曜日[きんようび]に 設定[せってい]しました。
+  Ich habe die Abgabefrist für den Bericht auf nächsten Freitag festgelegt.
+
+  研究の仮説を設定する際は、先行研究を十分に検討してください。
+  研究[けんきゅう]の 仮説[かせつ]を 設定[せってい]する 際[さい]は、先行研究[せんこうけんきゅう]を 十分[じゅうぶん]に 検討[けんとう]してください。
+  Bitte prüfen Sie bei der Formulierung Ihrer Forschungshypothese die vorherige Forschung gründlich.
+
+  今年のゼミのテーマを「AI倫理」に設定しました。
+  今年[ことし]のゼミのテーマを「AI倫理[りんり]」に 設定[せってい]しました。
+  Ich habe als Thema für das diesjährige Seminar "KI-Ethik" festgelegt.
+
+  新しいキーボードのホットキーを設定して、作業効率が上がりました。
+  新[あたら]しいキーボードのホットキーを 設定[せってい]して、作業効率[さぎょうこうりつ]が 上[あ]がりました。
+  Ich habe Tastenkürzel für meine neue Tastatur eingerichtet und meine Arbeitseffizienz ist gestiegen.
+
+  天皇の命令によって設定された田を「勅旨田」と呼びます。
+  天皇[てんのう]の 命令[めいれい]によって 設定[せってい]された 田[た]を「勅旨田[ちょくしでん]」と 呼[よ]びます。
+  Die auf Befehl des Kaisers eingerichteten Reisfelder werden "Chokushiden" genannt.
+
+  出版社が設定したガイドラインに従って小説を書いています。
+  出版社[しゅっぱんしゃ]が 設定[せってい]したガイドラインに 従[したが]って 小説[しょうせつ]を 書[か]いています。
+  Ich schreibe den Roman nach den von meinem Verlag festgelegten Richtlinien.
+
+  事故の再現実験では、できるだけ事故当時の状況を設定するよう努めました。
+  事故[じこ]の 再現実験[さいげんじっけん]では、できるだけ 事故当時[じことうじ]の 状況[じょうきょう]を 設定[せってい]するよう 努[つと]めました。
+  Bei dem Experiment zur Nachstellung des Unfalls haben wir uns bemüht, die Bedingungen zum Zeitpunkt des Unfalls so genau wie möglich nachzustellen.
+
+  ゲームの難易度設定を「上級」に変更したら、クリアできなくなった。
+  ゲームの 難易度設定[なんいどせってい]を「上級[じょうきゅう]」に 変更[へんこう]したら、クリアできなくなった。
+  Nachdem ich den Schwierigkeitsgrad des Spiels auf "Fortgeschritten" geändert hatte, konnte ich es nicht mehr durchspielen.
+
+  新しいSNSアカウントのプライバシー設定を確認しましょう。
+  新[あたら]しいSNSアカウントのプライバシー 設定[せってい]を 確認[かくにん]しましょう。
+  Lass uns die Privatsphäre-Einstellungen für dein neues Social-Media-Konto überprüfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

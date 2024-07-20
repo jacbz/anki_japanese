@@ -1,7 +1,7 @@
 Rang: 573
 Lemma: 比べる
 Lesung: くらべる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 較べる・競べる
 Definition: vergleichen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>く</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '82'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 比べない・比べた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   いろいろな店で値段を比べた。
   いろいろな 店[みせ]で 値段[ねだん]を 比[くら]べた。
   Ich habe die Preise in verschiedenen Geschäften verglichen.
+
+  訳文と原文を比べて、翻訳の質を確認しましょう。
+  訳文[やくぶん]と 原文[げんぶん]を 比[くら]べて、翻訳[ほんやく]の 質[しつ]を 確認[かくにん]しましょう。
+  Lass uns die Übersetzung mit dem Original vergleichen, um die Qualität der Übersetzung zu überprüfen.
+
+  身長を比べると、彼が一番高いです。
+  身長[しんちょう]を 比[くら]べると、彼[かれ]が 一番[いちばん] 高[たか]いです。
+  Wenn wir die Körpergrößen vergleichen, ist er der größte.
+
+  去年と比べれば、今年の売上は大幅に増加しました。
+  去年[きょねん]と 比[くら]べれば、今年[ことし]の 売上[うりあげ]は 大幅[おおはば]に 増加[ぞうか]しました。
+  Im Vergleich zum letzten Jahr ist der Umsatz in diesem Jahr deutlich gestiegen.
+
+  昨年に比べて、今年の冬は暖かいですね。
+  昨年[さくねん]に 比[くら]べて、今年[ことし]の 冬[ふゆ]は 暖[あたた]かいですね。
+  Verglichen mit dem letzten Jahr ist dieser Winter warm, nicht wahr?
+
+  この世界に比べれば自分が生きていた殿の御領地は何と小さかったのだろう。
+  この 世界[せかい]に 比[くら]べれば 自分[じぶん]が 生[い]きていた 殿[との]の 御領地[ごりょうち]は 何[なん]と 小[ちい]さかったのだろう。
+  Wie klein erschien wohl das Gebiet des Fürsten, in dem er lebte, im Vergleich zu dieser Welt?
+
+  ただ一般の民家に比べると非常に大きく、長かった。
+  ただ 一般[いっぱん]の 民家[みんか]に 比[くら]べると 非常[ひじょう]に 大[おお]きく、長[なが]かった。
+  Verglichen mit gewöhnlichen Häusern war es jedoch sehr groß und lang.
+
+  ここだけは住居の手狭くやつれて見えるのに較べて、鏡板も床も檜造りの立派なものだった。
+  ここだけは 住居[じゅうきょ]の 手狭[てぜま]くやつれて 見[み]えるのに 較[くら]べて、鏡板[きょうはん]も 床[ゆか]も 檜造[ひのきづく]りの 立派[りっぱ]なものだった。
+  Im Gegensatz zum engen und heruntergekommen wirkenden Wohnbereich waren hier die Täfelung und der Fußboden aus prächtiger japanischer Zypresse gefertigt.
+
+  寒気は昨日に較べるとよほど薄らいでいた。
+  寒気[かんき]は 昨日[きのう]に 較[くら]べるとよほど 薄[うす]らいでいた。
+  Die Kälte hatte im Vergleich zum Vortag deutlich nachgelassen.
+
+  力を比べるコンテストに参加しませんか？
+  力[ちから]を 比[くら]べるコンテストに 参加[さんか]しませんか？
+  Möchtest du nicht an einem Wettbewerb teilnehmen, bei dem wir unsere Kräfte messen?
+
+  二人は腕前を比べるために、料理コンテストに出場した。
+  二人[ふたり]は 腕前[うでまえ]を 比[くら]べるために、料理[りょうり]コンテストに 出場[しゅつじょう]した。
+  Die beiden nahmen an einem Kochwettbewerb teil, um ihre Fähigkeiten zu vergleichen.
+
+  彼らは常に成績を比べ合って、お互いを高め合っている。
+  彼[かれ]らは 常[つね]に 成績[せいせき]を 比[くら]べ 合[あ]って、お 互[たが]いを 高[たか]め 合[あ]っている。
+  Sie vergleichen ständig ihre Leistungen und spornen sich gegenseitig an.
+
+  新旧のデータを比べることで、進歩が見えてきます。
+  新旧[しんきゅう]のデータを 比[くら]べることで、進歩[しんぽ]が 見[み]えてきます。
+  Indem wir neue und alte Daten vergleichen, können wir den Fortschritt erkennen.
+
+  この二つの製品を比べて、どちらが良いか判断してください。
+  この 二[ふた]つの 製品[せいひん]を 比[くら]べて、どちらが 良[よ]いか 判断[はんだん]してください。
+  Bitte vergleichen Sie diese beiden Produkte und entscheiden Sie, welches besser ist.
+
+  彼女は常に自分を他人と比べる傾向がある。
+  彼女[かのじょ]は 常[つね]に 自分[じぶん]を 他人[たにん]と 比[くら]べる 傾向[けいこう]がある。
+  Sie neigt dazu, sich ständig mit anderen zu vergleichen.
+
+  現在の生活を昔と比べると、便利になった点が多いですね。
+  現在[げんざい]の 生活[せいかつ]を 昔[むかし]と 比[くら]べると、便利[べんり]になった 点[てん]が 多[おお]いですね。
+  Wenn man das heutige Leben mit dem früheren vergleicht, gibt es viele Aspekte, die bequemer geworden sind, nicht wahr?
+
+  二つの都市の物価を比べてみると、意外な違いがあった。
+  二[ふた]つの 都市[とし]の 物価[ぶっか]を 比[くら]べてみると、意外[いがい]な 違[ちが]いがあった。
+  Als wir die Lebenshaltungskosten der beiden Städte verglichen, gab es überraschende Unterschiede.
+
+  彼らは技術を比べ合い、互いに刺激し合っている。
+  彼[かれ]らは 技術[ぎじゅつ]を 比[くら]べ 合[あ]い、互[たが]いに 刺激[しげき]し 合[あ]っている。
+  Sie vergleichen ihre Techniken und inspirieren sich gegenseitig.
+
+  この二つの案を比べて、最適な選択をしましょう。
+  この 二[ふた]つの 案[あん]を 比[くら]べて、最適[さいてき]な 選択[せんたく]をしましょう。
+  Lass uns diese beiden Vorschläge vergleichen und die beste Option wählen.
+
+  彼は常に自分の成果を去年と比べている。
+  彼[かれ]は 常[つね]に 自分[じぶん]の 成果[せいか]を 去年[きょねん]と 比[くら]べている。
+  Er vergleicht seine Ergebnisse ständig mit denen des letzten Jahres.
+
+  新しい方法と従来の方法を比べて、効率を検討しましょう。
+  新[あたら]しい 方法[ほうほう]と 従来[じゅうらい]の 方法[ほうほう]を 比[くら]べて、効率[こうりつ]を 検討[けんとう]しましょう。
+  Lass uns die neue Methode mit der herkömmlichen vergleichen und die Effizienz überprüfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

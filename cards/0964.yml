@@ -1,15 +1,15 @@
 Rang: 964
 Lemma: 出会う
 Lesung: であう
-Alternativschreibweisen: ''
-Definition: begegnen
+Alternativschreibweisen: 出合う
+Definition: treffen, begegnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>で</span><span class="accent_top">あ</span><span>う</span>
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 出会わない・出会った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   その時に彼女はご主人と出会った。
   その 時[とき]に 彼女[かのじょ]はご 主人[しゅじん]と 出会[であ]った。
   Das war, als sie ihrem Ehemann begegnete.
+
+  久しぶりに旧友と出会って、うれしかったです。
+  久[ひさ]しぶりに 旧友[きゅうゆう]と 出会[であ]って、うれしかったです。
+  Ich war froh, nach langer Zeit einen alten Freund zu treffen.
+
+  彼女とカフェで出会う約束をしました。
+  彼女[かのじょ]とカフェで 出会[であ]う 約束[やくそく]をしました。
+  Ich habe mich mit ihr verabredet, uns in einem Café zu treffen.
+
+  思いがけず、海外で高校時代の先生に出会いました。
+  思[おも]いがけず、海外[かいがい]で 高校時代[こうこうじだい]の 先生[せんせい]に 出会[であ]いました。
+  Unerwartet traf ich im Ausland meinen ehemaligen Highschool-Lehrer.
+
+  人生で大切な人に出会えたことに感謝しています。
+  人生[じんせい]で 大切[たいせつ]な 人[ひと]に 出会[であ]えたことに 感謝[かんしゃ]しています。
+  Ich bin dankbar, im Leben wichtigen Menschen begegnet zu sein.
+
+  彼らは街コンで出会い、恋に落ちました。
+  彼[かれ]らは 街[まち]コンで 出会[であ]い、恋[こい]に 落[お]ちました。
+  Sie trafen sich bei einer Kennenlern-Party und verliebten sich.
+
+  新しい趣味を通じて、多くの友人と出会うことができました。
+  新[あたら]しい 趣味[しゅみ]を 通[つう]じて、多[おお]くの 友人[ゆうじん]と 出会[であ]うことができました。
+  Durch mein neues Hobby konnte ich viele Freunde kennenlernen.
+
+  残念ながら、娘には出会いそびれてしまいました。
+  残念[ざんねん]ながら、娘[むすめ]には 出会[であ]いそびれてしまいました。
+  Leider habe ich meine Tochter verpasst und konnte sie nicht treffen.
+
+  彼は本屋で偶然に昔の同級生と出会った。
+  彼[かれ]は 本屋[ほんや]で 偶然[ぐうぜん]に 昔[むかし]の 同級生[どうきゅうせい]と 出会[であ]った。
+  Er traf zufällig einen ehemaligen Klassenkameraden in der Buchhandlung.
+
+  旅先で思わぬ出会いがあり、人生が変わりました。
+  旅先[たびさき]で 思[おも]わぬ 出会[であ]いがあり、人生[じんせい]が 変[か]わりました。
+  Durch eine unerwartete Begegnung auf einer Reise hat sich mein Leben verändert.
+
+  雨に出会って、傘を持っていなくて困りました。
+  雨[あめ]に 出会[であ]って、傘[かさ]を 持[も]っていなくて 困[こま]りました。
+  Ich geriet in den Regen und hatte Probleme, weil ich keinen Regenschirm dabei hatte.
+
+  山道を歩いていたら、突然狐に出会って驚きました。
+  山道[やまみち]を 歩[ある]いていたら、突然[とつぜん] 狐[きつね]に 出会[であ]って 驚[おどろ]きました。
+  Als ich auf einem Bergpfad wanderte, war ich überrascht, plötzlich auf einen Fuchs zu stoßen.
+
+  新しいプロジェクトで予想外の困難に出会いました。
+  新[あたら]しいプロジェクトで 予想外[よそうがい]の 困難[こんなん]に 出会[であ]いました。
+  Bei dem neuen Projekt bin ich auf unerwartete Schwierigkeiten gestoßen.
+
+  この町角で、にぎやかな祭りの一行に出会いました。
+  この 町角[まちかど]で、にぎやかな 祭[まつ]りの 一行[いっこう]に 出会[であ]いました。
+  An dieser Straßenecke stieß ich auf einen lebhaften Festumzug.
+
+  旅の間に出会う人々から、多くのことを学びました。
+  旅[たび]の 間[あいだ]に 出会[であ]う 人々[ひとびと]から、多[おお]くのことを 学[まな]びました。
+  Von den Menschen, denen ich auf der Reise begegnete, habe ich viel gelernt.
+
+  この道は山の麓で他の道と出会います。
+  この 道[みち]は 山[やま]の 麓[ふもと]で 他[ほか]の 道[みち]と 出会[であ]います。
+  Dieser Weg trifft am Fuße des Berges auf andere Wege.
+
+  二つの川がここで出会って、大きな川になります。
+  二[ふた]つの 川[かわ]がここで 出会[であ]って、大[おお]きな 川[かわ]になります。
+  Hier fließen zwei Flüsse zusammen und bilden einen großen Fluss.
+
+  このドレスの色は、あなたの肌の色とよく出会っています。
+  このドレスの 色[いろ]は、あなたの 肌[はだ]の 色[いろ]とよく 出会[であ]っています。
+  Die Farbe dieses Kleides harmoniert gut mit deinem Hautton.
+
+  昔の武士は、敵と出会うと勇敢に戦いました。
+  昔[むかし]の 武士[ぶし]は、敵[てき]と 出会[であ]うと 勇敢[ゆうかん]に 戦[たたか]いました。
+  Die Samurai von früher kämpften tapfer, wenn sie auf Feinde trafen.
+
+  人生で大切なのは、良い本との出会いだと思います。
+  人生[じんせい]で 大切[たいせつ]なのは、良[よ]い 本[ほん]との 出会[であ]いだと 思[おも]います。
+  Ich denke, dass die Begegnung mit guten Büchern im Leben wichtig ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

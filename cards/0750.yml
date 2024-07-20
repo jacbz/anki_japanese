@@ -4,12 +4,12 @@ Lesung: かぎる
 Alternativschreibweisen: ''
 Definition: beschränken, begrenzen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>か</span><span class="accent_top">ぎ</span><span>る</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 限らない・限った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   入場は100名に限られている。
   入場[にゅうじょう]は100 名[めい]に 限[かぎ]られている。
   Der Eintritt ist auf hundert Personen beschränkt.
+
+  一人二個に限ります。
+  一人[ひとり]二個[にこ]に 限[かぎ]ります。
+  Wir beschränken es auf zwei Stück pro Person.
+
+  この会議の時間を1時間に限りましょう。
+  この 会議[かいぎ]の 時間[じかん]を1時間[いちじかん]に 限[かぎ]りましょう。
+  Lasst uns die Zeit für dieses Meeting auf eine Stunde begrenzen.
+
+  限られた時間の中で最善を尽くしましょう。
+  限[かぎ]られた 時間[じかん]の 中[なか]で 最善[さいぜん]を 尽[つ]くしましょう。
+  Lasst uns unser Bestes in der begrenzten Zeit geben.
+
+  参加者を二十歳以上に限ります。
+  参加者[さんかしゃ]を 二十歳以上[はたちいじょう]に 限[かぎ]ります。
+  Wir beschränken die Teilnehmer auf Personen über zwanzig Jahre.
+
+  申し訳ありませんが、席は限られています。
+  申[もう]し 訳[わけ]ありませんが、席[せき]は 限[かぎ]られています。
+  Es tut mir leid, aber die Anzahl der Plätze ist begrenzt.
+
+  私立中学は、限られた枠の中で優秀な生徒を選びます。
+  私立中学[しりつちゅうがく]は、限[かぎ]られた 枠[わく]の 中[なか]で 優秀[ゆうしゅう]な 生徒[せいと]を 選[えら]びます。
+  Privatschulen wählen hervorragende Schüler innerhalb eines begrenzten Rahmens aus.
+
+  このイベントに参加できるのは限られたメンバーだけだ。
+  このイベントに 参加[さんか]できるのは 限[かぎ]られたメンバーだけだ。
+  Nur ausgewählte Mitglieder können an dieser Veranstaltung teilnehmen.
+
+  夏はビールに限るね。
+  夏[なつ]はビールに 限[かぎ]るね。
+  Im Sommer geht nichts über ein Bier.
+
+  人間と生まれたら教師になるに限る。
+  人間[にんげん]と 生[う]まれたら 教師[きょうし]になるに 限[かぎ]る。
+  Wenn man als Mensch geboren wird, sollte man unbedingt Lehrer werden.
+
+  日曜日に限って雨が降るんだよね。
+  日曜日[にちようび]に 限[かぎ]って 雨[あめ]が 降[ふ]るんだよね。
+  Es regnet ausgerechnet immer sonntags.
+
+  彼の不幸は彼だけに限ったことだった。
+  彼[かれ]の 不幸[ふこう]は 彼[かれ]だけに 限[かぎ]ったことだった。
+  Sein Unglück betraf nur ihn allein.
+
+  まさか、こんな日に限って事故に遭うとは。
+  まさか、こんな 日[ひ]に 限[かぎ]って 事故[じこ]に 遭[あ]うとは。
+  Ausgerechnet an so einem Tag muss ich einen Unfall haben.
+
+  彼に限ってうそをつくはずがない。
+  彼[かれ]に 限[かぎ]ってうそをつくはずがない。
+  Gerade er würde niemals lügen.
+
+  高価な物が良いとは限らない。
+  高価[こうか]な 物[もの]が 良[よ]いとは 限[かぎ]らない。
+  Teure Dinge sind nicht unbedingt gut.
+
+  成功は才能だけに限らないよ。努力も大切だ。
+  成功[せいこう]は 才能[さいのう]だけに 限[かぎ]らないよ。努力[どりょく]も 大切[たいせつ]だ。
+  Erfolg hängt nicht nur von Talent ab. Anstrengung ist auch wichtig.
+
+  この商品は一家族につき5個に限らせていただきます。
+  この 商品[しょうひん]は 一家族[いっかぞく]につき5個[ごこ]に 限[かぎ]らせていただきます。
+  Wir beschränken dieses Produkt auf 5 Stück pro Familie.
+
+  今回のキャンペーンは新規顧客に限ります。
+  今回[こんかい]のキャンペーンは 新規顧客[しんききゃくこ]に 限[かぎ]ります。
+  Diese Kampagne ist auf Neukunden beschränkt.
+
+  チケットの販売数を1000枚に限定しました。
+  チケットの 販売数[はんばいすう]を1000枚[せんまい]に 限定[げんてい]しました。
+  Wir haben den Verkauf der Tickets auf 1000 Stück begrenzt.
+
+  この特別オファーは今月末に限り有効です。
+  この 特別[とくべつ]オファーは 今月末[こんげつまつ]に 限[かぎ]り 有効[ゆうこう]です。
+  Dieses Sonderangebot ist nur bis Ende dieses Monats gültig.
+
+  運動が健康に良いとは限らない場合もある。
+  運動[うんどう]が 健康[けんこう]に 良[よ]いとは 限[かぎ]らない 場合[ばあい]もある。
+  Es gibt auch Fälle, in denen Sport nicht unbedingt gut für die Gesundheit ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

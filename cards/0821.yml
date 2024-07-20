@@ -4,12 +4,12 @@ Lesung: ふれる
 Alternativschreibweisen: ''
 Definition: berühren; erleben
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>ふ</span><span class="accent_plain">れ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 触れない・触れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   展示品に手を触れるな。
   展示品[てんじひん]に 手[て]を 触[ふ]れるな。
   Berühre nicht die Ausstellungsstücke.
+
+  湿気を含んだ冷ややかな空気が、頬や手足の皮膚に触れる。
+  湿気[しっけ]を 含[ふく]んだ 冷[ひ]ややかな 空気[くうき]が、頬[ほお]や 手足[てあし]の 皮膚[ひふ]に 触[ふ]れる。
+  Feuchtkalte Luft streifte ihre Wangen, Hände und Füße.
+
+  外国の文化に触れる機会が増えてきた。
+  外国[がいこく]の 文化[ぶんか]に 触[ふ]れる 機会[きかい]が 増[ふ]えてきた。
+  Die Gelegenheiten, mit fremden Kulturen in Berührung zu kommen, haben zugenommen.
+
+  その本は目に触れる場所に置いておいた。
+  その 本[ほん]は 目[め]に 触[ふ]れる 場所[ばしょ]に 置[お]いておいた。
+  Ich habe das Buch an einem Ort platziert, wo es ins Auge fällt.
+
+  その噂は既に多くの人の耳に触れていた。
+  その 噂[うわさ]は 既[すで]に 多[おお]くの 人[ひと]の 耳[みみ]に 触[ふ]れていた。
+  Das Gerücht war bereits vielen Leuten zu Ohren gekommen.
+
+  問題の核心に触れる質問をされた。
+  問題[もんだい]の 核心[かくしん]に 触[ふ]れる 質問[しつもん]をされた。
+  Mir wurde eine Frage gestellt, die den Kern des Problems berührte.
+
+  その話題に触れるのは避けたほうがいい。
+  その 話題[わだい]に 触[ふ]れるのは 避[さ]けたほうがいい。
+  Es wäre besser, dieses Thema nicht anzusprechen.
+
+  彼の行為は法律に触れる可能性がある。
+  彼[かれ]の 行為[こうい]は 法律[ほうりつ]に 触[ふ]れる 可能性[かのうせい]がある。
+  Seine Handlung könnte gegen das Gesetz verstoßen.
+
+  その発言は多くの人の怒りに触れた。
+  その 発言[はつげん]は 多[おお]くの 人[ひと]の 怒[いか]りに 触[ふ]れた。
+  Diese Äußerung zog den Zorn vieler Menschen auf sich.
+
+  彼女の演技は観客の心に触れるものがあった。
+  彼女[かのじょ]の 演技[えんぎ]は 観客[かんきゃく]の 心[こころ]に 触[ふ]れるものがあった。
+  Ihr Schauspiel hatte etwas, das die Herzen des Publikums berührte.
+
+  「手を触れないでください」という注意書きがあった。
+  「手[て]を 触[ふ]れないでください」という 注意書[ちゅういが]きがあった。
+  Es gab einen Hinweis, der besagte: "Bitte nicht berühren".
+
+  その噂を触れて歩くのはやめなさい。
+  その 噂[うわさ]を 触[ふ]れて 歩[ある]くのはやめなさい。
+  Hör auf, dieses Gerücht überall zu verbreiten.
+
+  折に触れて、彼女のことを思い出す。
+  折[おり]に 触[ふ]れて、彼女[かのじょ]のことを 思[おも]い 出[だ]す。
+  Gelegentlich erinnere ich mich an sie.
+
+  彼の指が優しく彼女の頬に触れた。
+  彼[かれ]の 指[ゆび]が 優[やさ]しく 彼女[かのじょ]の 頬[ほお]に 触[ふ]れた。
+  Seine Finger berührten sanft ihre Wange.
+
+  その絵画展で素晴らしい芸術に触れることができた。
+  その 絵画展[かいがてん]で 素晴[すば]らしい 芸術[げいじゅつ]に 触[ふ]れることができた。
+  Bei dieser Kunstausstellung konnte ich wunderbare Kunst erleben.
+
+  その問題には慎重に触れるべきだ。
+  その 問題[もんだい]には 慎重[しんちょう]に 触[ふ]れるべきだ。
+  Dieses Thema sollte mit Vorsicht angesprochen werden.
+
+  彼女の話は多くの人々の感情に触れるものだった。
+  彼女[かのじょ]の 話[はなし]は 多[おお]くの 人々[ひとびと]の 感情[かんじょう]に 触[ふ]れるものだった。
+  Ihre Geschichte berührte die Gefühle vieler Menschen.
+
+  その政策は多くの企業の利益に触れるものだ。
+  その 政策[せいさく]は 多[おお]くの 企業[きぎょう]の 利益[りえき]に 触[ふ]れるものだ。
+  Diese Politik berührt die Interessen vieler Unternehmen.
+
+  彼の言葉は私の心の琴線に触れた。
+  彼[かれ]の 言葉[ことば]は 私[わたし]の 心[こころ]の 琴線[きんせん]に 触[ふ]れた。
+  Seine Worte berührten eine Saite in meinem Herzen.
+
+  その記事は機密情報に触れているようだ。
+  その 記事[きじ]は 機密情報[きみつじょうほう]に 触[ふ]れているようだ。
+  Dieser Artikel scheint vertrauliche Informationen zu berühren.
+
+  彼女の手が偶然私の手に触れた。
+  彼女[かのじょ]の 手[て]が 偶然[ぐうぜん] 私[わたし]の 手[て]に 触[ふ]れた。
+  Ihre Hand berührte zufällig meine.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 781
 Lemma: 乗せる
 Lesung: のせる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 載せる
 Definition: aufnehmen, mitnehmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>の</span><span class="accent_plain">せ</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 乗せない・乗せた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   タクシーは駅で客を乗せた。
   タクシーは 駅[えき]で 客[きゃく]を 乗[の]せた。
   Das Taxi nahm am Bahnhof einen Kunden mit.
+
+  子供を自動車に乗せて買い物に行きましょう。
+  子供[こども]を 自動車[じどうしゃ]に 乗[の]せて 買い物[かいもの]に 行[い]きましょう。
+  Lass uns das Kind ins Auto setzen und einkaufen gehen.
+
+  このバスは60人の乗客を乗せられます。
+  このバスは60人[にんじゅうにん]の 乗客[じょうきゃく]を 乗[の]せられます。
+  Dieser Bus kann 60 Fahrgäste befördern.
+
+  お年寄りを自動車に乗せてあげるのは親切な行為です。
+  お年寄[としよ]りを 自動車[じどうしゃ]に 乗[の]せてあげるのは 親切[しんせつ]な 行為[こうい]です。
+  Einem älteren Menschen ins Auto zu helfen ist eine freundliche Geste.
+
+  途中まで乗せてもらえませんか？
+  途中[とちゅう]まで 乗[の]せてもらえませんか？
+  Könntest du mich ein Stück mitnehmen?
+
+  ボートに乗せてもらえて、とても楽しかったです。
+  ボートに 乗[の]せてもらえて、とても 楽[たの]しかったです。
+  Es hat viel Spaß gemacht, dass ich im Boot mitfahren durfte.
+
+  馬に乗せてもらったことがありますか？
+  馬[うま]に 乗[の]せてもらったことがありますか？
+  Wurdest du schon mal auf ein Pferd gesetzt?
+
+  絵の具を筆で丁寧に乗せていきます。
+  絵の具[えのぐ]を 筆[ふで]で 丁寧[ていねい]に 乗[の]せていきます。
+  Wir tragen die Farbe sorgfältig mit dem Pinsel auf.
+
+  ケーキにホイップクリームを乗せて完成です。
+  ケーキにホイップクリームを 乗[の]せて 完成[かんせい]です。
+  Der Kuchen ist fertig, wenn wir die Schlagsahne darauf geben.
+
+  消費税を乗せた金額を計算しましょう。
+  消費税[しょうひぜい]を 乗[の]せた 金額[きんがく]を 計算[けいさん]しましょう。
+  Lass uns den Betrag einschließlich Mehrwertsteuer berechnen.
+
+  鞄を膝に乗せて電車に座りました。
+  鞄[かばん]を 膝[ひざ]に 乗[の]せて 電車[でんしゃ]に 座[すわ]りました。
+  Ich setzte mich in den Zug und legte meine Tasche auf meinen Schoß.
+
+  この歌詞をメロディーに乗せてみましょう。
+  この 歌詞[かし]をメロディーに 乗[の]せてみましょう。
+  Lass uns versuchen, diesen Text auf die Melodie zu setzen.
+
+  紙飛行機を風に乗せて飛ばしました。
+  紙飛行機[かみひこうき]を 風[かぜ]に 乗[の]せて 飛[と]ばしました。
+  Ich ließ den Papierflieger mit dem Wind fliegen.
+
+  彼の気持ちを詩に乗せて表現しています。
+  彼[かれ]の 気持[きも]ちを 詩[し]に 乗[の]せて 表現[ひょうげん]しています。
+  Er drückt seine Gefühle in einem Gedicht aus.
+
+  その計画に一口乗せてもらえませんか？
+  その 計画[けいかく]に 一口[ひとくち] 乗[の]せてもらえませんか？
+  Kann ich mich an diesem Plan beteiligen?
+
+  観客を乗せるために、もっと盛り上げていきましょう。
+  観客[かんきゃく]を 乗[の]せるために、もっと 盛[も]り 上[あ]げていきましょう。
+  Lass uns das Publikum noch mehr aufheizen, um sie in Stimmung zu bringen.
+
+  彼女の口車に乗せられて、高い買い物をしてしまいました。
+  彼女[かのじょ]の 口車[くちぐるま]に 乗[の]せられて、高[たか]い 買い物[かいもの]をしてしまいました。
+  Ich ließ mich von ihr überreden und machte einen teuren Einkauf.
+
+  音楽に乗せて、みんなで楽しく踊りましょう。
+  音楽[おんがく]に 乗[の]せて、みんなで 楽[たの]しく 踊[おど]りましょう。
+  Lasst uns alle fröhlich zur Musik tanzen.
+
+  リズムに乗せて、手拍子を打ちます。
+  リズムに 乗[の]せて、手拍子[てびょうし]を 打[う]ちます。
+  Wir klatschen im Rhythmus.
+
+  この新製品をテレビCMに乗せて宣伝します。
+  この 新製品[しんせいひん]をテレビCMに 乗[の]せて 宣伝[せんでん]します。
+  Wir bewerben dieses neue Produkt in einem Fernsehspot.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

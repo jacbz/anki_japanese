@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>と</span><span class="accent_plain">も</span><span 
 Register: ''
 Dispersion: '71'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 伴わない・伴った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   台風には大雨が伴う。
   台風[たいふう]には 大雨[おおあめ]が 伴[ともな]う。
   Ein Taifun beinhaltet starken Regen.
+
+  娘を伴って海外旅行に行きます。
+  娘[むすめ]を 伴[ともな]って 海外旅行[かいがいりょこう]に 行[い]きます。
+  Ich werde mit meiner Tochter ins Ausland reisen.
+
+  子供を伴って旅行するのは大変ですが、楽しい思い出になります。
+  子供[こども]を 伴[ともな]って 旅行[りょこう]するのは 大変[たいへん]ですが、楽[たの]しい 思[おも]い 出[で]になります。
+  Mit Kindern zu reisen ist zwar anstrengend, aber es wird zu einer schönen Erinnerung.
+
+  上司に伴って重要な会議に出席しました。
+  上司[じょうし]に 伴[ともな]って 重要[じゅうよう]な 会議[かいぎ]に 出席[しゅっせき]しました。
+  Ich nahm in Begleitung meines Vorgesetzten an einer wichtigen Besprechung teil.
+
+  法要へ招かれるとき、老師は一人の侍僧を伴うのが例でした。
+  法要[ほうよう]へ 招[まね]かれるとき、老師[ろうし]は 一人[ひとり]の 侍僧[じそう]を 伴[ともな]うのが 例[れい]でした。
+  Wenn der alte Meister zu einer Totenzeremonie eingeladen wurde, war es üblich, dass er einen Mönch als Begleiter mitnahm.
+
+  使者衆は船長に伴われ、要塞に向かいました。
+  使者衆[ししゃしゅう]は 船長[せんちょう]に 伴[ともな]われ、要塞[ようさい]に 向[む]かいました。
+  Die Gesandten begaben sich, begleitet vom Kapitän, zur Festung.
+
+  この実験には危険を伴う可能性があります。
+  この 実験[じっけん]には 危険[きけん]を 伴[ともな]う 可能性[かのうせい]があります。
+  Dieses Experiment könnte mit Gefahren verbunden sein.
+
+  手術には常に苦しみを伴うものです。
+  手術[しゅじゅつ]には 常[つね]に 苦[くる]しみを 伴[ともな]うものです。
+  Operationen sind immer mit Schmerzen verbunden.
+
+  台風に伴う大雨に注意してください。
+  台風[たいふう]に 伴[ともな]う 大雨[おおあめ]に 注意[ちゅうい]してください。
+  Bitte achten Sie auf den starken Regen, der mit dem Taifun einhergeht.
+
+  成長に伴う痛みは避けられないものです。
+  成長[せいちょう]に 伴[ともな]う 痛[いた]みは 避[さ]けられないものです。
+  Die Schmerzen, die mit dem Wachstum verbunden sind, sind unvermeidlich.
+
+  彼の言葉には行動が伴わないことがよくあります。
+  彼[かれ]の 言葉[ことば]には 行動[こうどう]が 伴[ともな]わないことがよくあります。
+  Oft folgen seinen Worten keine Taten.
+
+  経済成長に伴って、環境問題も増加しています。
+  経済成長[けいざいせいちょう]に 伴[ともな]って、環境問題[かんきょうもんだい]も 増加[ぞうか]しています。
+  Mit dem Wirtschaftswachstum nehmen auch die Umweltprobleme zu.
+
+  技術の進歩に伴い、私たちの生活様式も変化しています。
+  技術[ぎじゅつ]の 進歩[しんぽ]に 伴[ともな]い、私[わたし]たちの 生活様式[せいかつようしき]も 変化[へんか]しています。
+  Mit dem technologischen Fortschritt ändert sich auch unsere Lebensweise.
+
+  現代人は事実を好むが、事実に伴う感情を無視しがちです。
+  現代人[げんだいじん]は 事実[じじつ]を 好[この]むが、事実[じじつ]に 伴[ともな]う 感情[かんじょう]を 無視[むし]しがちです。
+  Die Menschen von heute mögen Fakten, neigen aber dazu, die mit den Fakten verbundenen Gefühle zu ignorieren.
+
+  栄誉の授与にはいかなる特権も伴わないと法律で定められています。
+  栄誉[えいよ]の 授与[じゅよ]にはいかなる 特権[とっけん]も 伴[ともな]わないと 法律[ほうりつ]で 定[さだ]められています。
+  Das Gesetz legt fest, dass die Verleihung von Ehrungen mit keinerlei Sonderrechten verbunden ist.
+
+  人口増加に伴って、都市の交通インフラも整備する必要があります。
+  人口増加[じんこうぞうか]に 伴[ともな]って、都市[とし]の 交通[こうつう]インフラも 整備[せいび]する 必要[ひつよう]があります。
+  Mit dem Bevölkerungswachstum muss auch die städtische Verkehrsinfrastruktur ausgebaut werden.
+
+  新しい仕事に伴う責任の増加に、彼は少し戸惑っているようです。
+  新[あたら]しい 仕事[しごと]に 伴[ともな]う 責任[せきにん]の 増加[ぞうか]に、彼[かれ]は 少[すこ]し 戸惑[とまど]っているようです。
+  Er scheint etwas verwirrt über die zunehmende Verantwortung, die mit seiner neuen Arbeit einhergeht.
+
+  気候変動に伴う自然災害の増加が懸念されています。
+  気候変動[きこうへんどう]に 伴[ともな]う 自然災害[しぜんさいがい]の 増加[ぞうか]が 懸念[けねん]されています。
+  Es besteht die Sorge, dass mit dem Klimawandel die Zahl der Naturkatastrophen zunimmt.
+
+  新製品の発売に伴い、マーケティングキャンペーンを開始します。
+  新製品[しんせいひん]の 発売[はつばい]に 伴[ともな]い、マーケティングキャンペーンを 開始[かいし]します。
+  Mit der Markteinführung des neuen Produkts starten wir eine Marketingkampagne.
+
+  結婚に伴う名字の変更手続きが必要です。
+  結婚[けっこん]に 伴[ともな]う 名字[みょうじ]の 変更[へんこう]手続[てつづ]きが 必要[ひつよう]です。
+  Es ist notwendig, die Namensänderung im Zusammenhang mit der Heirat vorzunehmen.
+
+  卒業に伴う様々な感情を経験するのは自然なことです。
+  卒業[そつぎょう]に 伴[ともな]う 様々[さまざま]な 感情[かんじょう]を 経験[けいけん]するのは 自然[しぜん]なことです。
+  Es ist normal, verschiedene Gefühle zu erleben, die mit dem Abschluss einhergehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

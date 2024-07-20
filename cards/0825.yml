@@ -4,12 +4,12 @@ Lesung: ''
 Alternativschreibweisen: 差す
 Definition: scheinen; gießen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 差さない・差した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   日が差してきた。
   日[ひ]が 差[さ]してきた。
   Die Sonne begann zu scheinen.
+
+  陽が差して、部屋が明るくなった。
+  陽[ひ]が 差[さ]して、部屋[へや]が 明[あか]るくなった。
+  Die Sonne schien herein und das Zimmer wurde hell.
+
+  西日の差す部屋は夕方になると暑くなります。
+  西日[にしび]の 差[さ]す 部屋[へや]は 夕方[ゆうがた]になると 暑[あつ]くなります。
+  Zimmer mit Nachmittagssonne werden am Abend heiß.
+
+  窓から差し込む光が、部屋を柔らかく照らしていた。
+  窓[まど]から 差[さ]し 込[こ]む 光[ひかり]が、部屋[へや]を 柔[やわ]らかく 照[て]らしていた。
+  Das durch das Fenster einfallende Licht beleuchtete den Raum sanft.
+
+  木々の間から差す朝日が美しかった。
+  木々[きぎ]の 間[あいだ]から 差[さ]す 朝日[あさひ]が 美[うつく]しかった。
+  Die Morgensonne, die zwischen den Bäumen hindurchschien, war wunderschön.
+
+  長時間のミーティングで嫌気が差してきた。
+  長時間[ちょうじかん]のミーティングで 嫌気[いやけ]が 差[さ]してきた。
+  Bei dem langen Meeting kam mir allmählich der Überdruss.
+
+  夜中に突然眠気が差してきて、仕事が進まなくなった。
+  夜中[よなか]に 突然[とつぜん] 眠気[ねむけ]が 差[さ]してきて、仕事[しごと]が 進[すす]まなくなった。
+  Mitten in der Nacht wurde ich plötzlich schläfrig und kam mit der Arbeit nicht mehr voran.
+
+  潮が差してきたので、岸に戻ることにした。
+  潮[しお]が 差[さ]してきたので、岸[きし]に 戻[もど]ることにした。
+  Da die Flut kam, beschlossen wir, zum Ufer zurückzukehren.
+
+  彼は地図を指差して、目的地の位置を教えてくれた。
+  彼[かれ]は 地図[ちず]を 指差[ゆびさ]して、目的地[もくてきち]の 位置[いち]を 教[おし]えてくれた。
+  Er zeigte auf die Karte und erklärte mir die Position des Zielortes.
+
+  時計は午後3時を指していた。
+  時計[とけい]は 午後[ごご]3時[じ]を 指[さ]していた。
+  Die Uhr zeigte 3 Uhr nachmittags.
+
+  先生は私を指して、黒板の問題を解くよう言った。
+  先生[せんせい]は 私[わたし]を 指[さ]して、黒板[こくばん]の 問題[もんだい]を 解[と]くよう 言[い]った。
+  Der Lehrer zeigte auf mich und forderte mich auf, die Aufgabe an der Tafel zu lösen.
+
+  彼らは北を指して歩き始めた。
+  彼[かれ]らは 北[きた]を 指[さ]して 歩[ある]き 始[はじ]めた。
+  Sie begannen, nach Norden zu gehen.
+
+  この言葉は何を指しているのか分からない。
+  この 言葉[ことば]は 何[なに]を 指[さ]しているのか 分[わ]からない。
+  Ich verstehe nicht, worauf sich dieses Wort bezieht.
+
+  雨が降ってきたので、傘を差して歩いた。
+  雨[あめ]が 降[ふ]ってきたので、傘[かさ]を 差[さ]して 歩[ある]いた。
+  Da es zu regnen begann, ging ich mit aufgespanntem Schirm.
+
+  彼は手を差し伸べて、私を助けてくれた。
+  彼[かれ]は 手[て]を 差[さ]し 伸[の]べて、私[わたし]を 助[たす]けてくれた。
+  Er streckte seine Hand aus und half mir.
+
+  大工さんは定規を差して、木材の長さを測った。
+  大工[だいく]さんは 定規[じょうぎ]を 差[さ]して、木材[もくざい]の 長[なが]さを 測[はか]った。
+  Der Zimmermann legte das Lineal an und maß die Länge des Holzes.
+
+  祖父は毎日将棋を差すのを楽しみにしている。
+  祖父[そふ]は 毎日[まいにち] 将棋[しょうぎ]を 差[さ]すのを 楽[たの]しみにしている。
+  Mein Großvater freut sich jeden Tag darauf, Shogi zu spielen.
+
+  化粧品売り場で、店員が顔に口紅を差していた。
+  化粧品[けしょうひん] 売[う]り 場[ば]で、店員[てんいん]が 顔[かお]に 口紅[くちべに]を 差[さ]していた。
+  In der Kosmetikabteilung trug eine Verkäuferin Lippenstift auf.
+
+  戸締まりのため、玄関に閂を差した。
+  戸締[とじ]まりのため、玄関[げんかん]に 閂[かんぬき]を 差[さ]した。
+  Zur Sicherheit verriegelte ich die Haustür.
+
+  お酒を差してもらい、つい飲みすぎてしまった。
+  お 酒[さけ]を 差[さ]してもらい、つい 飲[の]みすぎてしまった。
+  Mir wurde Sake eingeschenkt und ich trank versehentlich zu viel.
+
+  侍は腰に刀を差して歩いていた。
+  侍[さむらい]は 腰[こし]に 刀[かたな]を 差[さ]して 歩[ある]いていた。
+  Der Samurai ging mit einem Schwert an der Hüfte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

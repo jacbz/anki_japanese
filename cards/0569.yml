@@ -2,14 +2,14 @@ Rang: 569
 Lemma: 困る
 Lesung: こまる
 Alternativschreibweisen: ''
-Definition: Schwierigkeiten haben
+Definition: Probleme haben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>こ</span><span class="accent_top">ま</span><span>る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 困らない・困った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   困ったことになった。
   困[こま]ったことになった。
   Ich bin in Schwierigkeiten geraten.
+
+  子供に物を問われて困ることは度々ある。
+  子供[こども]に 物[もの]を 問[と]われて 困[こま]ることは 度々[たびたび]ある。
+  Es kommt oft vor, dass ich ratlos bin, wenn mich meine Kinder etwas fragen.
+
+  右にも左にも道がない。困って右を押すと、突然、闇が破れて扉が開いた。
+  右[みぎ]にも 左[ひだり]にも 道[みち]がない。困[こま]って 右[みぎ]を 押[お]すと、突然[とつぜん]、闇[やみ]が 破[やぶ]れて 扉[とびら]が 開[ひら]いた。
+  Weder rechts noch links gab es einen Weg. Als er ratlos nach rechts drückte, zerriss plötzlich die Dunkelheit und eine Tür öffnete sich.
+
+  実を言うと、まだはっきり決心がつかなくて、困っているのです。
+  実[じつ]を 言[い]うと、まだはっきり 決心[けっしん]がつかなくて、困[こま]っているのです。
+  Um ehrlich zu sein, ich bin noch unentschlossen und das bereitet mir Schwierigkeiten.
+
+  ライターのひとつやふたつなくなったって誰も困りはしないだろう。
+  ライターのひとつやふたつなくなったって 誰[だれ]も 困[こま]りはしないだろう。
+  Es wird wohl niemanden stören, wenn ein oder zwei Feuerzeuge verschwinden.
+
+  唯それでも困ったことは、話をしているうちにうっかり河童の国の言葉を口に出してしまうことです。
+  唯[ただ]それでも 困[こま]ったことは、話[はなし]をしているうちにうっかり 河童[かっぱ]の 国[くに]の 言葉[ことば]を 口[くち]に 出[だ]してしまうことです。
+  Das einzige Problem war, dass ich versehentlich Wörter aus der Kappa-Sprache benutzte, während ich sprach.
+
+  駐車場に困っています。どこか近くに空いているところはありませんか？
+  駐車場[ちゅうしゃじょう]に 困[こま]っています。どこか 近[ちか]くに 空[あ]いているところはありませんか？
+  Ich habe Probleme, einen Parkplatz zu finden. Gibt es irgendwo in der Nähe einen freien Platz?
+
+  返事に困って、しばらく黙ってしまいました。
+  返事[へんじ]に 困[こま]って、しばらく 黙[だま]ってしまいました。
+  Ich war um eine Antwort verlegen und schwieg für eine Weile.
+
+  言い訳に困って、真実を話すしかありませんでした。
+  言い訳[いいわけ]に 困[こま]って、真実[しんじつ]を 話[はな]すしかありませんでした。
+  Da mir keine Ausrede einfiel, blieb mir nichts anderes übrig, als die Wahrheit zu sagen.
+
+  目のやり場に困る場面に遭遇してしまった。
+  目[め]のやり 場[ば]に 困[こま]る 場面[ばめん]に 遭遇[そうぐう]してしまった。
+  Ich geriet in eine Situation, in der ich nicht wusste, wohin ich schauen sollte.
+
+  お金に困って、友達に借りることにしました。
+  お 金[かね]に 困[こま]って、友達[ともだち]に 借[か]りることにしました。
+  Da ich in Geldnot war, beschloss ich, mir von einem Freund etwas zu leihen.
+
+  暮らしに困る人々を支援する活動に参加しています。
+  暮[く]らしに 困[こま]る 人々[ひとびと]を 支援[しえん]する 活動[かつどう]に 参加[さんか]しています。
+  Ich nehme an Aktivitäten teil, die Menschen in Existenznot unterstützen.
+
+  蚊に刺されて困っているので、虫除けスプレーを買わなきゃ。
+  蚊[か]に 刺[さ]されて 困[こま]っているので、虫除[むしよ]けスプレーを 買[か]わなきゃ。
+  Ich werde von Mückenstichen geplagt, also muss ich Insektenspray kaufen.
+
+  寒くて困るので、暖房の設定温度を上げました。
+  寒[さむ]くて 困[こま]るので、暖房[だんぼう]の 設定温度[せっていおんど]を 上[あ]げました。
+  Da es unangenehm kalt war, habe ich die Temperatur der Heizung erhöht.
+
+  騒音で困っているので、引っ越しを考えています。
+  騒音[そうおん]で 困[こま]っているので、引[ひ]っ 越[こ]しを 考[かんが]えています。
+  Ich werde durch den Lärm gestört, also denke ich über einen Umzug nach.
+
+  頭痛で困っているので、早めに帰らせてもらえませんか。
+  頭痛[ずつう]で 困[こま]っているので、早[はや]めに 帰[かえ]らせてもらえませんか。
+  Ich leide unter Kopfschmerzen. Könnte ich vielleicht früher nach Hause gehen?
+
+  そんなことをしては困ります。やめてください。
+  そんなことをしては 困[こま]ります。やめてください。
+  Das geht nicht. Bitte hören Sie damit auf.
+
+  とにかく向こうでは、君に困ってるんだ。少し態度を改めたほうがいいよ。
+  とにかく 向[む]こうでは、君[きみ]に 困[こま]ってるんだ。少[すこ]し 態度[たいど]を 改[あらた]めたほうがいいよ。
+  Jedenfalls fällst du ihnen dort auf die Nerven. Du solltest deine Einstellung ein bisschen ändern.
+
+  しかし、視線だけが、困ったように先生の方を向いている。
+  しかし、視線[しせん]だけが、困[こま]ったように 先生[せんせい]の 方[ほう]を 向[む]いている。
+  Allerdings richtet sich nur sein Blick, als ob es ihm unangenehm wäre, zum Lehrer.
+
+  折角パリに来たんだから、エッフェル塔くらい見たいよ。
+  折角[せっかく]パリに 来[き]たんだから、エッフェル 塔[とう]くらい 見[み]たいよ。
+  Da wir schon mal in Paris sind, möchte ich wenigstens den Eiffelturm sehen.
+
+  困ったわ。私は高所恐怖症だから、そんな高いところは無理なの。
+  困[こま]ったわ。私[わたし]は 高所恐怖症[こうしょきょうふうしょう]だから、そんな 高[たか]いところは 無理[むり]なの。
+  Oh je, das ist schlecht. Ich habe Höhenangst, also kann ich nicht an so hohe Orte gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

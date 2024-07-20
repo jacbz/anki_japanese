@@ -1,8 +1,8 @@
 Rang: 664
 Lemma: 見付ける
 Lesung: みつける
-Alternativschreibweisen: ''
-Definition: finden, suchen
+Alternativschreibweisen: 見つける
+Definition: finden, entdecken
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>み</span><span class="accent_plain">つ</span><span class="accent_plain">け</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>み</span><span class="accent_plain">つ</span><span 
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見付けない・見付けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   良い方法を見つけた。
   良[よ]い 方法[ほうほう]を 見[み]つけた。
   Ich habe eine gute Methode gefunden.
+
+  間違いを見付けたら、すぐに報告してください。
+  間違[まちが]いを 見付[みつ]けたら、すぐに 報告[ほうこく]してください。
+  Wenn Sie einen Fehler finden, melden Sie ihn bitte sofort.
+
+  空いた席を見付けたので、そこに座りました。
+  空[あ]いた 席[せき]を 見付[みつ]けたので、そこに 座[すわ]りました。
+  Ich habe einen freien Platz gefunden und mich dort hingesetzt.
+
+  雨の中でやっとタクシーを見付けることができた。
+  雨[あめ]の 中[なか]でやっとタクシーを 見付[みつ]けることができた。
+  Endlich konnte ich im Regen ein Taxi finden.
+
+  専門的な治療ができる医者を見付けるのに時間がかかった。
+  専門的[せんもんてき]な 治療[ちりょう]ができる 医者[いしゃ]を 見付[みつ]けるのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, einen Arzt zu finden, der die spezielle Behandlung durchführen kann.
+
+  忙しい毎日の中で、趣味の時間を見付けるのは難しい。
+  忙[いそが]しい 毎日[まいにち]の 中[なか]で、趣味[しゅみ]の 時間[じかん]を 見付[みつ]けるのは 難[むずか]しい。
+  Es ist schwierig, in einem hektischen Alltag Zeit für Hobbys zu finden.
+
+  長年の研究の末、ついに問題の答えを見付けました。
+  長年[ながねん]の 研究[けんきゅう]の 末[すえ]、ついに 問題[もんだい]の 答[こた]えを 見付[みつ]けました。
+  Nach jahrelanger Forschung haben wir endlich die Antwort auf das Problem gefunden.
+
+  複雑な問題解決の糸口を見付けるのに苦労しています。
+  複雑[ふくざつ]な 問題解決[もんだいかいけつ]の 糸口[いとぐち]を 見付[みつ]けるのに 苦労[くろう]しています。
+  Ich habe Schwierigkeiten, einen Ansatz zur Lösung des komplexen Problems zu finden.
+
+  新しい町で仕事を見付けるのは、予想以上に大変だった。
+  新[あたら]しい 町[まち]で 仕事[しごと]を 見付[みつ]けるのは、予想[よそう]以上[いじょう]に 大変[たいへん]だった。
+  Einen Job in der neuen Stadt zu finden, war schwieriger als erwartet.
+
+  洞窟探検中に、思わぬ大きな空洞を見付けた。
+  洞窟[どうくつ]探検中[たんけんちゅう]に、思[おも]わぬ 大[おお]きな 空洞[くうどう]を 見付[みつ]けた。
+  Während der Höhlenforschung haben wir unerwartet eine große Höhle entdeckt.
+
+  定期検診で早期にガンを見付けることができた。
+  定期検診[ていきけんしん]で 早期[そうき]にガンを 見付[みつ]けることができた。
+  Bei der regelmäßigen Untersuchung konnte der Krebs frühzeitig entdeckt werden.
+
+  丘の向こうに、素敵な景色を見付けました。
+  丘[おか]の 向[む]こうに、素敵[すてき]な 景色[けしき]を 見付[みつ]けました。
+  Hinter dem Hügel habe ich eine wunderschöne Aussicht entdeckt.
+
+  夜中に山を下りて、小さな村を見付けた。
+  夜中[よなか]に 山[やま]を 下[お]りて、小[ちい]さな 村[むら]を 見付[みつ]けた。
+  Ich bin in der Nacht den Berg hinuntergestiegen und habe ein kleines Dorf gefunden.
+
+  科学者たちは、長年の研究の末に問題の部分的な解答を見付けた。
+  科学者[かがくしゃ]たちは、長年[ながねん]の 研究[けんきゅう]の 末[すえ]に 問題[もんだい]の 部分的[ぶぶんてき]な 解答[かいとう]を 見付[みつ]けた。
+  Die Wissenschaftler haben nach jahrelanger Forschung eine Teillösung für das Problem gefunden.
+
+  混雑した駅で、友人の姿を見付けるのに苦労した。
+  混雑[こんざつ]した 駅[えき]で、友人[ゆうじん]の 姿[すがた]を 見付[みつ]けるのに 苦労[くろう]した。
+  Es war schwierig, meinen Freund in dem überfüllten Bahnhof zu finden.
+
+  彼は人混みの中から、自分と似た特徴を持つ人を見付けようとした。
+  彼[かれ]は 人混[ひとご]みの 中[なか]から、自分[じぶん]と 似[に]た 特徴[とくちょう]を 持[も]つ 人[ひと]を 見付[みつ]けようとした。
+  Er versuchte in der Menge jemanden zu finden, der ähnliche Merkmale wie er selbst hatte.
+
+  「ああ、山田さん、ちょうどいいところに戻ってきましたね」と佐藤さんが言った。
+  「ああ、山田[やまだ]さん、ちょうどいいところに 戻[もど]ってきましたね」と 佐藤[さとう]さんが 言[い]った。
+  "Ah, Herr Yamada, Sie sind gerade zur rechten Zeit zurückgekommen", sagte Herr Sato.
+
+  子供たちは隠れた友達を見付けて、うれしそうに笑った。
+  子供[こども]たちは 隠[かく]れた 友達[ともだち]を 見付[みつ]けて、うれしそうに 笑[わら]った。
+  Die Kinder lachten fröhlich, als sie ihre versteckten Freunde fanden.
+
+  新しい環境に見慣れるまでには、時間がかかるものだ。
+  新[あたら]しい 環境[かんきょう]に 見慣[みな]れるまでには、時間[じかん]がかかるものだ。
+  Es braucht Zeit, bis man sich an eine neue Umgebung gewöhnt hat.
+
+  彼女は長い間探していた古い写真を、やっと見付けることができた。
+  彼女[かのじょ]は 長[なが]い 間[あいだ] 探[さが]していた 古[ふる]い 写真[しゃしん]を、やっと 見付[みつ]けることができた。
+  Sie konnte endlich das alte Foto finden, nach dem sie lange gesucht hatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 519
 Lemma: 合わせる
 Lesung: あわせる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 併せる
 Definition: zusammenfügen; anpassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">わ</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 合わせない・合わせた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   彼らは手を合わせて祈った。
   彼[かれ]らは 手[て]を 合[あ]わせて 祈[いの]った。
   Sie falteten ihre Hände zum Gebet zusammen.
+
+  力を合わせて困難を乗り越えましょう。
+  力[ちから]を 合[あ]わせて 困難[こんなん]を 乗[の]り 越[こ]えましょう。
+  Lasst uns unsere Kräfte vereinen, um die Schwierigkeiten zu überwinden.
+
+  彼らは目を合わせて微笑んだ。
+  彼[かれ]らは 目[め]を 合[あ]わせて 微笑[ほほえ]んだ。
+  Sie sahen sich in die Augen und lächelten.
+
+  お祈りの際、静かに手を合わせてください。
+  お 祈[いの]りの 際[さい]、静[しず]かに 手[て]を 合[あ]わせてください。
+  Bitte falten Sie beim Gebet leise Ihre Hände.
+
+  二人は唇を合わせてキスをした。
+  二人[ふたり]は 唇[くちびる]を 合[あ]わせてキスをした。
+  Die beiden küssten sich, indem sie ihre Lippen aufeinander legten.
+
+  図書とDVDを合わせると、1万点以上の資料がある。
+  図書[としょ]とDVDを 合[あ]わせると、1万[いちまん] 点[てん] 以上[いじょう]の 資料[しりょう]がある。
+  Wenn man Bücher und DVDs zusammenrechnet, gibt es über 10.000 Materialien.
+
+  楽器の音程を合わせるのに時間がかかった。
+  楽器[がっき]の 音程[おんてい]を 合[あ]わせるのに 時間[じかん]がかかった。
+  Es dauerte eine Weile, die Instrumente zu stimmen.
+
+  新しい服に合わせて靴も買った。
+  新[あたら]しい 服[ふく]に 合[あ]わせて 靴[くつ]も 買[か]った。
+  Passend zu dem neuen Outfit kaufte ich auch Schuhe.
+
+  カメラのピントを合わせてから、シャッターを押した。
+  カメラのピントを 合[あ]わせてから、シャッターを 押[お]した。
+  Nachdem ich den Fokus der Kamera eingestellt hatte, drückte ich auf den Auslöser.
+
+  ラジオの周波数を合わせて、お気に入りの番組を聴いた。
+  ラジオの 周波数[しゅうはすう]を 合[あ]わせて、お 気[き]に 入[い]りの 番組[ばんぐみ]を 聴[き]いた。
+  Ich stellte die Radiofrequenz ein und hörte meine Lieblingssendung.
+
+  時計を正確な時間に合わせた。
+  時計[とけい]を 正確[せいかく]な 時間[じかん]に 合[あ]わせた。
+  Ich stellte die Uhr auf die genaue Zeit ein.
+
+  泳ぐ時、呼吸と手足の動きを合わせるのが大切だ。
+  泳[およ]ぐ 時[とき]、呼吸[こきゅう]と 手足[てあし]の 動[うご]きを 合[あ]わせるのが 大切[たいせつ]だ。
+  Beim Schwimmen ist es wichtig, die Atmung mit den Arm- und Beinbewegungen zu koordinieren.
+
+  会議の日程を全員の都合に合わせて決めた。
+  会議[かいぎ]の 日程[にってい]を 全員[ぜんいん]の 都合[つごう]に 合[あ]わせて 決[き]めた。
+  Wir legten den Termin für die Besprechung so fest, dass er allen passte.
+
+  彼女は相手のペースに合わせて話をした。
+  彼女[かのじょ]は 相手[あいて]のペースに 合[あ]わせて 話[はなし]をした。
+  Sie sprach in einem Tempo, das ihrem Gesprächspartner entgegenkam.
+
+  ダンスフロアで音楽に合わせて体を動かした。
+  ダンスフロアで 音楽[おんがく]に 合[あ]わせて 体[からだ]を 動[うご]かした。
+  Auf der Tanzfläche bewegte ich meinen Körper im Takt der Musik.
+
+  パソコンの画面にカーソルを合わせてクリックした。
+  パソコンの 画面[がめん]にカーソルを 合[あ]わせてクリックした。
+  Ich bewegte den Cursor auf den Bildschirm des Computers und klickte.
+
+  久しぶりに顔を合わせた友人と話が弾んだ。
+  久[ひさ]しぶりに 顔[かお]を 合[あ]わせた 友人[ゆうじん]と 話[はなし]が 弾[はず]んだ。
+  Als ich einen Freund nach langer Zeit wiedersah, kam die Unterhaltung in Schwung.
+
+  翻訳を原文と合わせて、間違いがないか確認した。
+  翻訳[ほんやく]を 原文[げんぶん]と 合[あ]わせて、間違[まちが]いがないか 確認[かくにん]した。
+  Ich verglich die Übersetzung mit dem Original, um sicherzustellen, dass es keine Fehler gab.
+
+  二つの町を合わせて、新しい市が誕生した。
+  二[ふた]つの 町[まち]を 合[あ]わせて、新[あたら]しい 市[し]が 誕生[たんじょう]した。
+  Zwei Städte wurden zusammengelegt, und eine neue Stadt entstand.
+
+  部品を組み合わせて、完成品を作った。
+  部品[ぶひん]を 組[く]み 合[あ]わせて、完成品[かんせいひん]を 作[つく]った。
+  Ich setzte die Teile zusammen und stellte das fertige Produkt her.
+
+  布を縫い合わせてバッグを作った。
+  布[ぬの]を 縫[ぬ]い 合[あ]わせてバッグを 作[つく]った。
+  Ich nähte den Stoff zusammen und machte eine Tasche.
+
+  恥ずかしくて、先生と顔を合わせる勇気がなかった。
+  恥[はず]ずかしくて、先生[せんせい]と 顔[かお]を 合[あ]わせる 勇気[ゆうき]がなかった。
+  Ich war zu beschämt, um dem Lehrer unter die Augen zu treten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

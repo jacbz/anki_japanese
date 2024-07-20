@@ -1,8 +1,8 @@
 Rang: 146
 Lemma: 行なう
 Lesung: おこなう
-Alternativschreibweisen: ''
-Definition: durchführen, abhalten
+Alternativschreibweisen: 行う
+Definition: durchführen, ausführen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">こ</span><span class="accent_plain">な</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">こ</span><span 
 Register: ''
 Dispersion: '77'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 行なわない・行なった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   明日、会議が行う予定だ。
   明日[あした]、 会議[かいぎ]が 行[おこな]う 予定[よてい]だ。
   Morgen werden wir eine Besprechung abhalten.
+
+  仕事を行なう際は、効率性と質の両方に気をつけましょう。
+  仕事[しごと]を 行[おこな]う 際[さい]は、効率性[こうりつせい]と 質[しつ]の 両方[りょうほう]に 気[き]をつけましょう。
+  Achten Sie bei der Ausführung Ihrer Arbeit sowohl auf Effizienz als auch auf Qualität.
+
+  彼は義務を行なうことに誇りを持っています。
+  彼[かれ]は 義務[ぎむ]を 行[おこな]うことに 誇[ほこ]りを 持[も]っています。
+  Er ist stolz darauf, seine Pflicht zu erfüllen.
+
+  警察は犯罪者が悪事を行なった現場を調査中です。
+  警察[けいさつ]は 犯罪者[はんざいしゃ]が 悪事[あくじ]を 行[おこな]った 現場[げんば]を 調査中[ちょうさちゅう]です。
+  Die Polizei untersucht den Tatort, an dem der Verbrecher seine Missetat begangen hat.
+
+  環境保護団体は企業に対してボイコットを行なうよう呼びかけた。
+  環境保護団体[かんきょうほごだんたい]は 企業[きぎょう]に 対[たい]してボイコットを 行[おこな]うよう 呼[よ]びかけた。
+  Die Umweltschutzorganisation rief zum Boykott gegen das Unternehmen auf.
+
+  政府は虐政を行なっているという批判を受けている。
+  政府[せいふ]は 虐政[ぎゃくせい]を 行[おこな]っているという 批判[ひはん]を 受[う]けている。
+  Die Regierung steht in der Kritik, eine grausame Politik zu betreiben.
+
+  新しい通貨制度の下で、円とドルの交換を行なう必要がある。
+  新[あたら]しい 通貨制度[つうかせいど]の 下[もと]で、円[えん]とドルの 交換[こうかん]を 行[おこな]う 必要[ひつよう]がある。
+  Unter dem neuen Währungssystem ist es notwendig, einen Wechsel zwischen Yen und Dollar vorzunehmen.
+
+  会社は来年の事業計画を慎重に行なっている。
+  会社[かいしゃ]は 来年[らいねん]の 事業計画[じぎょうけいかく]を 慎重[しんちょう]に 行[おこな]っている。
+  Das Unternehmen führt sorgfältig die Geschäftsplanung für das nächste Jahr durch.
+
+  彼女は難しい手術を見事に行なった。
+  彼女[かのじょ]は 難[むずか]しい 手術[しゅじゅつ]を 見事[みごと]に 行[おこな]った。
+  Sie führte die schwierige Operation brillant durch.
+
+  軍は敵陣に対して夜間攻撃を行なった。
+  軍[ぐん]は 敵陣[てきじん]に 対[たい]して 夜間攻撃[やかんこうげき]を 行[おこな]った。
+  Das Militär führte einen nächtlichen Angriff auf die feindlichen Stellungen durch.
+
+  警察は殺人事件の容疑者に対して取り調べを行なっている。
+  警察[けいさつ]は 殺人事件[さつじんじけん]の 容疑者[ようぎしゃ]に 対[たい]して 取[と]り 調[しら]べを 行[おこな]っている。
+  Die Polizei führt ein Verhör mit dem Verdächtigen in dem Mordfall durch.
+
+  ジャーナリストは政治家の不正に関する取材を行なった。
+  ジャーナリストは 政治家[せいじか]の 不正[ふせい]に 関[かん]する 取材[しゅざい]を 行[おこな]った。
+  Der Journalist führte eine Recherche über die Korruption des Politikers durch.
+
+  大学は新しい薬の開発に関する研究を行なっている。
+  大学[だいがく]は 新[あたら]しい 薬[くすり]の 開発[かいはつ]に 関[かん]する 研究[けんきゅう]を 行[おこな]っている。
+  Die Universität betreibt Forschung zur Entwicklung eines neuen Medikaments.
+
+  会社は従業員の満足度に関する調査を行なった。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 満足度[まんぞくど]に 関[かん]する 調査[ちょうさ]を 行[おこな]った。
+  Das Unternehmen führte eine Umfrage zur Zufriedenheit der Mitarbeiter durch.
+
+  学校は来週、期末試験を行なう予定だ。
+  学校[がっこう]は 来週[らいしゅう]、期末試験[きまつしけん]を 行[おこな]う 予定[よてい]だ。
+  Die Schule plant, nächste Woche die Abschlussprüfungen durchzuführen.
+
+  彼らは伝統的な様式で結婚式を行なった。
+  彼[かれ]らは 伝統的[でんとうてき]な 様式[ようしき]で 結婚式[けっこんしき]を 行[おこな]った。
+  Sie hielten ihre Hochzeit in traditioneller Weise ab.
+
+  首相は国民に向けて重要な演説を行なう。
+  首相[しゅしょう]は 国民[こくみん]に 向[む]けて 重要[じゅうよう]な 演説[えんぜつ]を 行[おこな]う。
+  Der Premierminister wird eine wichtige Rede an die Nation halten.
+
+  環境保護のためにリサイクル活動を行なうことが大切だ。
+  環境保護[かんきょうほご]のためにリサイクル 活動[かつどう]を 行[おこな]うことが 大切[たいせつ]だ。
+  Es ist wichtig, Recycling-Aktivitäten zum Schutz der Umwelt durchzuführen.
+
+  彼は毎朝、健康のために運動を行なっている。
+  彼[かれ]は 毎朝[まいあさ]、健康[けんこう]のために 運動[うんどう]を 行[おこな]っている。
+  Er macht jeden Morgen Übungen für seine Gesundheit.
+
+  会社は新製品の発表会を来月行なう予定です。
+  会社[かいしゃ]は 新製品[しんせいひん]の 発表会[はっぴょうかい]を 来月[らいげつ] 行[おこな]う 予定[よてい]です。
+  Das Unternehmen plant, nächsten Monat eine Präsentation für das neue Produkt abzuhalten.
+
+  政府は経済政策の見直しを行なうことを決定した。
+  政府[せいふ]は 経済政策[けいざいせいさく]の 見直[みなお]しを 行[おこな]うことを 決定[けってい]した。
+  Die Regierung hat beschlossen, eine Überprüfung ihrer Wirtschaftspolitik durchzuführen.
+
+  言うは易く、行なうは難しとはよく言ったものだ。
+  言[い]うは 易[やす]く、行[おこな]うは 難[かた]しとはよく 言[い]ったものだ。
+  „Leichter gesagt als getan" ist wirklich ein treffendes Sprichwort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

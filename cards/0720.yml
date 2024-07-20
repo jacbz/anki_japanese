@@ -1,7 +1,7 @@
 Rang: 720
 Lemma: 古い
 Lesung: ふるい
-Alternativschreibweisen: ''
+Alternativschreibweisen: 旧い・故い
 Definition: alt
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>ふ</span><span class="accent_top">る</span><span>�
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 古くない・古かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   市は古い建物を取り壊した。
   市[し]は 古[ふる]い 建物[たてもの]を 取[と]り 壊[こわ]した。
   Die Stadt hat die alten Gebäude abgerissen.
+
+  この町には古い文化が息づいています。
+  この 町[まち]には 古[ふる]い 文化[ぶんか]が 息[いき]づいています。
+  In dieser Stadt lebt eine alte Kultur weiter.
+
+  この学校は古い伝統のある名門校です。
+  この 学校[がっこう]は 古[ふる]い 伝統[でんとう]のある 名門校[めいもんこう]です。
+  Diese Schule ist eine renommierte Bildungseinrichtung mit einer langen Tradition.
+
+  彼女は古いデザインの靴を好んで履いています。
+  彼女[かのじょ]は 古[ふる]いデザインの 靴[くつ]を 好[この]んで 履[は]いています。
+  Sie trägt gerne Schuhe mit altmodischem Design.
+
+  その話はもう古い話だよ。誰も興味がないよ。
+  その 話[はなし]はもう 古[ふる]い 話[はなし]だよ。 誰[だれ]も 興味[きょうみ]がないよ。
+  Diese Geschichte ist schon ein alter Hut. Niemand interessiert sich mehr dafür.
+
+  彼の古い考え方は会社の発展を妨げています。
+  彼[かれ]の 古[ふる]い 考[かんが]え 方[かた]は 会社[かいしゃ]の 発展[はってん]を 妨[さまた]げています。
+  Seine altmodische Denkweise behindert die Entwicklung des Unternehmens.
+
+  古い昔、この地域には大きな湖があったそうです。
+  古[ふる]い 昔[むかし]、この 地域[ちいき]には 大[おお]きな 湖[みずうみ]があったそうです。
+  Es heißt, dass es vor langer Zeit in dieser Gegend einen großen See gab.
+
+  このパンは古くなってしまったので、食べられません。
+  このパンは 古[ふる]くなってしまったので、食[た]べられません。
+  Dieses Brot ist alt geworden und nicht mehr essbar.
+
+  魚屋さんは古い魚を売らないように気をつけています。
+  魚屋[さかなや]さんは 古[ふる]い 魚[さかな]を 売[う]らないように 気[き]をつけています。
+  Der Fischhändler achtet darauf, keinen alten Fisch zu verkaufen.
+
+  政府は古い制度を改革する計画を発表しました。
+  政府[せいふ]は 古[ふる]い 制度[せいど]を 改革[かいかく]する 計画[けいかく]を 発表[はっぴょう]しました。
+  Die Regierung hat Pläne zur Reform des veralteten Systems angekündigt.
+
+  そのお笑い芸人は古いしゃればかり言っていて、つまらないです。
+  その お笑い芸人[おわらいげいにん]は 古[ふる]いしゃればかり 言[い]っていて、つまらないです。
+  Dieser Komiker erzählt nur abgedroschene Witze und ist langweilig.
+
+  彼は私の古い友達で、20年以上の付き合いがあります。
+  彼[かれ]は 私[わたし]の 古[ふる]い 友達[ともだち]で、20年以上[ねんいじょう]の 付[つ]き 合[あ]いがあります。
+  Er ist ein alter Freund von mir, wir kennen uns seit über 20 Jahren.
+
+  頭の古い人は新しいアイデアを受け入れるのが難しいようです。
+  頭[あたま]の 古[ふる]い 人[ひと]は 新[あたら]しいアイデアを 受[う]け 入[い]れるのが 難[むずか]しいようです。
+  Menschen mit veralteten Ansichten scheinen es schwer zu haben, neue Ideen zu akzeptieren.
+
+  このワインセラーには古いワインがたくさん保管されています。
+  このワインセラーには 古[ふる]いワインがたくさん 保管[ほかん]されています。
+  In diesem Weinkeller werden viele alte Weine gelagert.
+
+  彼女は古い着物を着こなすのが上手です。
+  彼女[かのじょ]は 古[ふる]い 着物[きもの]を 着[き]こなすのが 上手[じょうず]です。
+  Sie versteht es gut, alte Kimonos zu tragen.
+
+  この古い建物は歴史的価値があるため、保存されることになりました。
+  この 古[ふる]い 建物[たてもの]は 歴史的[れきしてき] 価値[かち]があるため、保存[ほぞん]されることになりました。
+  Dieses alte Gebäude wird aufgrund seines historischen Wertes erhalten bleiben.
+
+  祖父は古い写真を見ながら、昔の思い出を語ってくれました。
+  祖父[そふ]は 古[ふる]い 写真[しゃしん]を 見[み]ながら、昔[むかし]の 思[おも]い 出[で]を 語[かた]ってくれました。
+  Mein Großvater erzählte mir von alten Erinnerungen, während er alte Fotos betrachtete.
+
+  この古い机は何代も受け継がれてきた家族の宝物です。
+  この 古[ふる]い 机[つくえ]は 何代[なんだい]も 受[う]け 継[つ]がれてきた 家族[かぞく]の 宝物[たからもの]です。
+  Dieser alte Schreibtisch ist ein Familienschatz, der über Generationen weitergegeben wurde.
+
+  彼は古い車を修理して乗り続けています。
+  彼[かれ]は 古[ふる]い 車[くるま]を 修理[しゅうり]して 乗[の]り 続[つづ]けています。
+  Er repariert sein altes Auto und fährt es weiter.
+
+  この古いレシピは私の曾祖母から受け継いだものです。
+  この 古[ふる]いレシピは 私[わたし]の 曾祖母[ひいおばあさん]から 受[う]け 継[つ]いだものです。
+  Dieses alte Rezept habe ich von meiner Urgroßmutter geerbt.
+
+  古い習慣にとらわれず、新しいアイデアを取り入れることが大切です。
+  古[ふる]い 習慣[しゅうかん]にとらわれず、新[あたら]しいアイデアを 取[と]り 入[い]れることが 大切[たいせつ]です。
+  Es ist wichtig, sich nicht von alten Gewohnheiten einschränken zu lassen und neue Ideen aufzunehmen.
+
+  この古い時計は100年以上前に作られたものだそうです。
+  この 古[ふる]い 時計[とけい]は100年以上前[ねんいじょうまえ]に 作[つく]られたものだそうです。
+  Diese alte Uhr soll vor über 100 Jahren hergestellt worden sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

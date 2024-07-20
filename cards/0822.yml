@@ -2,14 +2,14 @@ Rang: 822
 Lemma: 飼う
 Lesung: かう
 Alternativschreibweisen: ''
-Definition: haben (Tier), züchten
+Definition: halten, züchten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accent_top">か</span><span>う</span>
 Register: ''
 Dispersion: '68'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 飼わない・飼った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   猫を二匹飼っている。
   猫[ねこ]を二 匹[ひき] 飼[か]っている。
   Wir haben zwei Katzen.
+
+  犬を飼うには責任が伴います。
+  犬[いぬ]を 飼[か]うには 責任[せきにん]が 伴[ともな]います。
+  Ein Hund zu halten, bringt Verantwortung mit sich.
+
+  彼女は猫を三匹飼っています。
+  彼女[かのじょ]は 猫[ねこ]を 三匹[さんびき] 飼[か]っています。
+  Sie hält drei Katzen.
+
+  金魚を飼うのは意外と難しいんだよ。
+  金魚[きんぎょ]を 飼[か]うのは 意外[いがい]と 難[むずか]しいんだよ。
+  Goldfische zu halten ist überraschend schwierig, weißt du.
+
+  動物園では珍しい動物を飼っています。
+  動物園[どうぶつえん]では 珍[めずら]しい 動物[どうぶつ]を 飼[か]っています。
+  Im Zoo werden seltene Tiere gehalten.
+
+  祖父は趣味で鳥を飼っているんです。
+  祖父[そふ]は 趣味[しゅみ]で 鳥[とり]を 飼[か]っているんです。
+  Mein Großvater hält Vögel als Hobby.
+
+  ペットを飼う前に、よく考えましょう。
+  ペットを 飼[か]う 前[まえ]に、よく 考[かんが]えましょう。
+  Lasst uns gut überlegen, bevor wir ein Haustier anschaffen.
+
+  彼らは農場で羊を飼っています。
+  彼[かれ]らは 農場[のうじょう]で 羊[ひつじ]を 飼[か]っています。
+  Sie züchten Schafe auf ihrer Farm.
+
+  子供の頃、ハムスターを飼っていました。
+  子供[こども]の 頃[ころ]、ハムスターを 飼[か]っていました。
+  Als ich ein Kind war, hatte ich einen Hamster.
+
+  ウサギを飼うのは簡単そうに見えるけど、実は大変なんだ。
+  ウサギを 飼[か]うのは 簡単[かんたん]そうに 見[み]えるけど、実[じつ]は 大変[たいへん]なんだ。
+  Es mag einfach aussehen, ein Kaninchen zu halten, aber es ist tatsächlich ziemlich aufwendig.
+
+  熱帯魚を飼うには特別な設備が必要です。
+  熱帯魚[ねったいぎょ]を 飼[か]うには 特別[とくべつ]な 設備[せつび]が 必要[ひつよう]です。
+  Um tropische Fische zu halten, benötigt man spezielle Ausrüstung.
+
+  亀を飼っている人は意外と多いんですよ。
+  亀[かめ]を 飼[か]っている 人[ひと]は 意外[いがい]と 多[おお]いんですよ。
+  Es gibt überraschend viele Leute, die Schildkröten halten.
+
+  動物を飼うことで、子供の責任感が育つと言われています。
+  動物[どうぶつ]を 飼[か]うことで、子供[こども]の 責任感[せきにんかん]が 育[そだ]つと 言[い]われています。
+  Man sagt, dass das Halten von Tieren das Verantwortungsgefühl von Kindern fördert.
+
+  彼は珍しい爬虫類を飼うのが趣味だ。
+  彼[かれ]は 珍[めずら]しい 爬虫類[はちゅうるい]を 飼[か]うのが 趣味[しゅみ]だ。
+  Sein Hobby ist es, seltene Reptilien zu halten.
+
+  犬を飼うなら、毎日散歩に連れて行く必要があります。
+  犬[いぬ]を 飼[か]うなら、毎日[まいにち] 散歩[さんぽ]に 連[つ]れて 行[い]く 必要[ひつよう]があります。
+  Wenn man einen Hund hält, muss man ihn jeden Tag spazieren führen.
+
+  鶏を飼って、新鮮な卵を毎日食べています。
+  鶏[にわとり]を 飼[か]って、新鮮[しんせん]な 卵[たまご]を 毎日[まいにち] 食[た]べています。
+  Wir halten Hühner und essen jeden Tag frische Eier.
+
+  アパートでペットを飼うのは禁止されていることが多いです。
+  アパートでペットを 飼[か]うのは 禁止[きんし]されていることが 多[おお]いです。
+  In Appartements ist es oft verboten, Haustiere zu halten.
+
+  馬を飼うには広い土地が必要です。
+  馬[うま]を 飼[か]うには 広[ひろ]い 土地[とち]が 必要[ひつよう]です。
+  Um Pferde zu halten, braucht man viel Land.
+
+  猫を飼っていると、家具に傷がつくことがあります。
+  猫[ねこ]を 飼[か]っていると、家具[かぐ]に 傷[きず]がつくことがあります。
+  Wenn man Katzen hält, kann es passieren, dass die Möbel zerkratzt werden.
+
+  動物を飼うことで、癒しを得る人も多いんです。
+  動物[どうぶつ]を 飼[か]うことで、癒[いや]しを 得[え]る 人[ひと]も 多[おお]いんです。
+  Viele Menschen finden Trost darin, Tiere zu halten.
+
+  豚を飼って、自家製のハムを作っています。
+  豚[ぶた]を 飼[か]って、自家製[じかせい]のハムを 作[つく]っています。
+  Wir halten Schweine und machen selbstgemachten Schinken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

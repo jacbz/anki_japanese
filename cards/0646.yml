@@ -1,7 +1,7 @@
 Rang: 646
 Lemma: 開ける
 Lesung: あける
-Alternativschreibweisen: ''
+Alternativschreibweisen: 明ける・空ける
 Definition: öffnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">け</span><span 
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 開けない・開けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女はドアを開けた。
   彼女[かのじょ]はドアを 開[あ]けた。
   Sie hat die Tür geöffnet.
+
+  ドアを開けて、新鮮な空気を入れましょう。
+  ドアを 開[あ]けて、新鮮[しんせん]な 空気[くうき]を 入[い]れましょう。
+  Lass uns die Tür öffnen und frische Luft hereinlassen.
+
+  窓を開けると、さわやかな風が入ってきた。
+  窓[まど]を 開[あ]けると、さわやかな 風[かぜ]が 入[はい]ってきた。
+  Als ich das Fenster öffnete, kam eine erfrischende Brise herein.
+
+  封筒を開けて、手紙の内容を確認しました。
+  封筒[ふうとう]を 開[あ]けて、手紙[てがみ]の 内容[ないよう]を 確認[かくにん]しました。
+  Ich öffnete den Umschlag und überprüfte den Inhalt des Briefes.
+
+  引き出しを開けたら、なくした鍵が見つかった。
+  引[ひ]き 出[だ]しを 開[あ]けたら、なくした 鍵[かぎ]が 見[み]つかった。
+  Als ich die Schublade öffnete, fand ich den verlorenen Schlüssel.
+
+  彼女は目を大きく開けて、驚きの表情を見せた。
+  彼女[かのじょ]は 目[め]を 大[おお]きく 開[あ]けて、驚[おどろ]きの 表情[ひょうじょう]を 見[み]せた。
+  Sie öffnete ihre Augen weit und zeigte einen überraschten Gesichtsausdruck.
+
+  店長が鍵を開けて、お店の営業を始めた。
+  店長[てんちょう]が 鍵[かぎ]を 開[あ]けて、お 店[みせ]の 営業[えいぎょう]を 始[はじ]めた。
+  Der Geschäftsführer schloss auf und begann mit dem Geschäftsbetrieb.
+
+  壁に穴を開けて、新しいコンセントを取り付けた。
+  壁[かべ]に 穴[あな]を 開[あ]けて、新[あたら]しいコンセントを 取[と]り 付[つ]けた。
+  Ich machte ein Loch in die Wand und installierte eine neue Steckdose.
+
+  混雑した電車で、降りる人のために道を開けてあげましょう。
+  混雑[こんざつ]した 電車[でんしゃ]で、降[お]りる 人[ひと]のために 道[みち]を 開[あ]けてあげましょう。
+  Lass uns in der überfüllten Bahn Platz für die aussteigenden Passagiere machen.
+
+  瓶を開けて、ジュースをコップに注いだ。
+  瓶[びん]を 開[あ]けて、ジュースをコップに 注[そそ]いだ。
+  Ich öffnete die Flasche und goss den Saft in ein Glas.
+
+  引っ越しのため、部屋を空けなければならない。
+  引[ひ]っ 越[こ]しのため、部屋[へや]を 空[あ]けなければならない。
+  Wegen des Umzugs muss ich das Zimmer räumen.
+
+  週末は家を空けるので、植物の世話を頼んでもいい？
+  週末[しゅうまつ]は 家[いえ]を 空[あ]けるので、植物[しょくぶつ]の 世話[せわ]を 頼[たの]んでもいい？
+  Ich bin am Wochenende nicht zu Hause. Könntest du dich um meine Pflanzen kümmern?
+
+  明日の午後は時間を空けておきます。
+  明日[あした]の 午後[ごご]は 時間[じかん]を 空[あ]けておきます。
+  Ich halte mir den morgigen Nachmittag frei.
+
+  新しい店を開けるために、準備を進めています。
+  新[あたら]しい 店[みせ]を 開[あ]けるために、準備[じゅんび]を 進[すす]めています。
+  Ich treffe Vorbereitungen, um einen neuen Laden zu eröffnen.
+
+  彼女に心を開けて、本当の気持ちを伝えた。
+  彼女[かのじょ]に 心[こころ]を 開[あ]けて、本当[ほんとう]の 気持[きも]ちを 伝[つた]えた。
+  Ich öffnete ihr mein Herz und teilte ihr meine wahren Gefühle mit.
+
+  缶切りで缶を開けて、中身を取り出した。
+  缶切[かんき]りで 缶[かん]を 開[あ]けて、中身[なかみ]を 取[と]り 出[だ]した。
+  Ich öffnete die Dose mit einem Dosenöffner und nahm den Inhalt heraus.
+
+  プレゼントの箱を開けるのが楽しみだ。
+  プレゼントの 箱[はこ]を 開[あ]けるのが 楽[たの]しみだ。
+  Ich freue mich darauf, die Geschenkbox zu öffnen.
+
+  会議室のドアを開けたら、皆が待っていた。
+  会議室[かいぎしつ]のドアを 開[あ]けたら、皆[みな]が 待[ま]っていた。
+  Als ich die Tür zum Konferenzraum öffnete, warteten alle bereits.
+
+  冷蔵庫を開けて、夕食の材料を取り出した。
+  冷蔵庫[れいぞうこ]を 開[あ]けて、夕食[ゆうしょく]の 材料[ざいりょう]を 取[と]り 出[だ]した。
+  Ich öffnete den Kühlschrank und holte die Zutaten für das Abendessen heraus.
+
+  彼は心を開けて、初めて自分の過去について話した。
+  彼[かれ]は 心[こころ]を 開[あ]けて、初[はじ]めて 自分[じぶん]の 過去[かこ]について 話[はな]した。
+  Er öffnete sich und sprach zum ersten Mal über seine Vergangenheit.
+
+  窓を開けっ放しにしないでください。虫が入ってきますよ。
+  窓[まど]を 開[あ]けっ 放[ぱな]しにしないでください。虫[むし]が 入[はい]ってきますよ。
+  Bitte lassen Sie das Fenster nicht offen stehen. Es werden sonst Insekten hereinkommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>け</span><span class="accent_plain">ん</span><span 
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 研究しない・研究した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   彼の研究はユニークだ。
   彼[かれ]の 研究[けんきゅう]はユニークだ。
   Seine Forschung ist einzigartig.
+
+  彼女は新しい研究プロジェクトに参加することになった。
+  彼女[かのじょ]は 新[あたら]しい 研究[けんきゅう]プロジェクトに 参加[さんか]することになった。
+  Sie wird an einem neuen Forschungsprojekt teilnehmen.
+
+  この大学は研究費の獲得に力を入れている。
+  この 大学[だいがく]は 研究費[けんきゅうひ]の 獲得[かくとく]に 力[ちから]を 入[い]れている。
+  Diese Universität legt großen Wert darauf, Forschungsgelder zu akquirieren.
+
+  彼らは新しい研究方法を開発した。
+  彼[かれ]らは 新[あたら]しい 研究方法[けんきゅうほうほう]を 開発[かいはつ]した。
+  Sie haben eine neue Forschungsmethode entwickelt.
+
+  研究報告書の提出期限が迫っている。
+  研究報告書[けんきゅうほうこくしょ]の 提出期限[ていしゅつきげん]が 迫[せま]っている。
+  Die Abgabefrist für den Forschungsbericht rückt näher.
+
+  彼は優秀な研究員として知られている。
+  彼[かれ]は 優秀[ゆうしゅう]な 研究員[けんきゅういん]として 知[し]られている。
+  Er ist als hervorragender Forscher bekannt.
+
+  この研究所は最先端の設備を備えている。
+  この 研究所[けんきゅうじょ]は 最先端[さいせんたん]の 設備[せつび]を 備[そな]えている。
+  Dieses Forschungsinstitut ist mit modernsten Einrichtungen ausgestattet.
+
+  彼女は研究助成金を申請している。
+  彼女[かのじょ]は 研究助成金[けんきゅうじょせいきん]を 申請[しんせい]している。
+  Sie bewirbt sich um ein Forschungsstipendium.
+
+  この研究科では、国際的な研究者を育成している。
+  この 研究科[けんきゅうか]では、国際的[こくさいてき]な 研究者[けんきゅうしゃ]を 育成[いくせい]している。
+  In diesem Graduiertenkolleg werden internationale Forscher ausgebildet.
+
+  彼は新しい研究課題に取り組んでいる。
+  彼[かれ]は 新[あたら]しい 研究課題[けんきゅうかだい]に 取[と]り 組[く]んでいる。
+  Er arbeitet an einer neuen Forschungsaufgabe.
+
+  定期的に研究会を開催して、最新の成果を共有しています。
+  定期的[ていきてき]に 研究会[けんきゅうかい]を 開催[かいさい]して、最新[さいしん]の 成果[せいか]を 共有[きょうゆう]しています。
+  Wir halten regelmäßig Forschungstreffen ab, um die neuesten Ergebnisse auszutauschen.
+
+  この会社は研究開発に多額の投資をしている。
+  この 会社[かいしゃ]は 研究開発[けんきゅうかいはつ]に 多額[たがく]の 投資[とうし]をしている。
+  Dieses Unternehmen investiert viel Geld in Forschung und Entwicklung.
+
+  彼女は研究休暇を取得して、新しいプロジェクトに専念している。
+  彼女[かのじょ]は 研究休暇[けんきゅうきゅうか]を 取得[しゅとく]して、新[あたら]しいプロジェクトに 専念[せんねん]している。
+  Sie hat ein Forschungssemester genommen, um sich einem neuen Projekt zu widmen.
+
+  この論文は最新の研究成果をまとめたものだ。
+  この 論文[ろんぶん]は 最新[さいしん]の 研究成果[けんきゅうせいか]をまとめたものだ。
+  Dieser Aufsatz fasst die neuesten Forschungsergebnisse zusammen.
+
+  彼は研究心が旺盛で、常に新しい発見を求めている。
+  彼[かれ]は 研究心[けんきゅうしん]が 旺盛[おうせい]で、常[つね]に 新[あたら]しい 発見[はっけん]を 求[もと]めている。
+  Er hat einen ausgeprägten Forschergeist und sucht ständig nach neuen Entdeckungen.
+
+  この研究施設では、最先端の実験が行われている。
+  この 研究施設[けんきゅうしせつ]では、最先端[さいせんたん]の 実験[じっけん]が 行[おこな]われている。
+  In dieser Forschungseinrichtung werden Experimente auf höchstem Niveau durchgeführt.
+
+  彼女は研究奨学金を獲得して、海外で研究を続けることができた。
+  彼女[かのじょ]は 研究奨学金[けんきゅうしょうがくきん]を 獲得[かくとく]して、海外[かいがい]で 研究[けんきゅう]を 続[つづ]けることができた。
+  Sie konnte ihre Forschung im Ausland fortsetzen, nachdem sie ein Forschungsstipendium erhalten hatte.
+
+  この研究図書館には、貴重な古文書が保管されている。
+  この 研究図書館[けんきゅうとしょかん]には、貴重[きちょう]な 古文書[こもんじょ]が 保管[ほかん]されている。
+  In dieser Forschungsbibliothek werden wertvolle alte Dokumente aufbewahrt.
+
+  彼らは基礎研究と応用研究の両方に力を入れている。
+  彼[かれ]らは 基礎研究[きそけんきゅう]と 応用研究[おうようけんきゅう]の 両方[りょうほう]に 力[ちから]を 入[い]れている。
+  Sie legen Wert sowohl auf Grundlagenforschung als auch auf angewandte Forschung.
+
+  研究の自由は学問の発展に不可欠だ。
+  研究[けんきゅう]の 自由[じゆう]は 学問[がくもん]の 発展[はってん]に 不可欠[ふかけつ]だ。
+  Die Freiheit der Forschung ist für den Fortschritt der Wissenschaft unerlässlich.
+
+  彼は長年にわたって宇宙研究を行ってきた。
+  彼[かれ]は 長年[ながねん]にわたって 宇宙研究[うちゅうけんきゅう]を 行[おこな]ってきた。
+  Er hat über viele Jahre hinweg Weltraumforschung betrieben.
+
+  この実験的研究は、従来の理論に挑戦するものだ。
+  この 実験的研究[じっけんてきけんきゅう]は、従来[じゅうらい]の 理論[りろん]に 挑戦[ちょうせん]するものだ。
+  Diese experimentelle Forschung stellt die herkömmliche Theorie in Frage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

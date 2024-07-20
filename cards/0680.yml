@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">つ</span><span>く</span>
 Register: ''
 Dispersion: '78'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 着かない・着いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   東京に着いた。
   東京[とうきょう]に 着[つ]いた。
   Wir sind in Tokio angekommen.
+
+  もうすぐ着くよ。
+  もうすぐ 着[つ]くよ。
+  Wir sind gleich da.
+
+  無事に家に着いてホッとしました。
+  無事[ぶじ]に 家[いえ]に 着[つ]いてホッとしました。
+  Ich war erleichtert, als ich wohlbehalten zu Hause ankam.
+
+  目的地に着くまでにはまだ時間がかかりそうです。
+  目的地[もくてきち]に 着[つ]くまでにはまだ 時間[じかん]がかかりそうです。
+  Es wird wohl noch eine Weile dauern, bis wir am Zielort ankommen.
+
+  山頂に着いた時の景色は息をのむほど美しかった。
+  山頂[さんちょう]に 着[つ]いた 時[とき]の 景色[けしき]は 息[いき]をのむほど 美[うつく]しかった。
+  Die Aussicht, als wir den Gipfel erreichten, war atemberaubend schön.
+
+  船が港に着くのを桟橋で待っています。
+  船[ふね]が 港[みなと]に 着[つ]くのを 桟橋[さんばし]で 待[ま]っています。
+  Ich warte am Pier darauf, dass das Schiff im Hafen einläuft.
+
+  飛行機が無事に陸に着いた瞬間、乗客から拍手が起こった。
+  飛行機[ひこうき]が 無事[ぶじ]に 陸[りく]に 着[つ]いた 瞬間[しゅんかん]、乗客[じょうきゃく]から 拍手[はくしゅ]が 起[お]こった。
+  In dem Moment, als das Flugzeug sicher auf dem Boden aufsetzte, brach unter den Passagieren Applaus aus.
+
+  待ちに待った手紙がやっと着きました。
+  待[ま]ちに 待[ま]った 手紙[てがみ]がやっと 着[つ]きました。
+  Der lang ersehnte Brief ist endlich angekommen.
+
+  湖に着く頃には日が沈みかけていた。
+  湖[みずうみ]に 着[つ]く 頃[ころ]には 日[ひ]が 沈[しず]みかけていた。
+  Als wir am See ankamen, war die Sonne dabei unterzugehen.
+
+  列車が終点の駅に着いたのは予定より30分遅れだった。
+  列車[れっしゃ]が 終点[しゅうてん]の 駅[えき]に 着[つ]いたのは 予定[よてい]より30分[ふん] 遅[おく]れだった。
+  Der Zug erreichte den Bahnhof der Endstation 30 Minuten später als geplant.
+
+  雪が積もっていなければ、牧場まで1時間で着くはずだ。
+  雪[ゆき]が 積[つ]もっていなければ、牧場[ぼくじょう]まで1時間[じかん]で 着[つ]くはずだ。
+  Wenn kein Schnee liegt, sollten wir die Weide in einer Stunde erreichen können.
+
+  切符を買って、着いたところで料金を精算しましょう。
+  切符[きっぷ]を 買[か]って、着[つ]いたところで 料金[りょうきん]を 精算[せいさん]しましょう。
+  Lass uns eine Fahrkarte kaufen und bei der Ankunft den Fahrpreis begleichen.
+
+  このプレゼントは彼女の誕生日に着くように発送しました。
+  このプレゼントは 彼女[かのじょ]の 誕生日[たんじょうび]に 着[つ]くように 発送[はっそう]しました。
+  Ich habe dieses Geschenk so verschickt, dass es an ihrem Geburtstag ankommt.
+
+  玄関に入ると、東京からの荷物がすでに着いていた。
+  玄関[げんかん]に 入[はい]ると、東京[とうきょう]からの 荷物[にもつ]がすでに 着[つ]いていた。
+  Als ich den Flur betrat, waren die Sachen aus Tokio bereits eingetroffen.
+
+  みんなが食卓に着くまで、料理を運ぶのを待ちましょう。
+  みんなが 食卓[しょくたく]に 着[つ]くまで、料理[りょうり]を 運[はこ]ぶのを 待[ま]ちましょう。
+  Lasst uns warten, bis sich alle an den Tisch gesetzt haben, bevor wir das Essen auftragen.
+
+  列の最後に着いてから、1時間も待たされた。
+  列[れつ]の 最後[さいご]に 着[つ]いてから、1時間[じかん]も 待[ま]たされた。
+  Nachdem ich mich am Ende der Schlange angestellt hatte, musste ich eine ganze Stunde warten.
+
+  慎重にビールを注ぎ、微笑みながら席に着いた。
+  慎重[しんちょう]にビールを 注[つ]ぎ、微笑[ほほえ]みながら 席[せき]に 着[つ]いた。
+  Vorsichtig schenkte ich das Bier ein und setzte mich lächelnd hin.
+
+  背が高すぎて、頭が天井に着きそうだ。
+  背[せ]が 高[たか]すぎて、頭[あたま]が 天井[てんじょう]に 着[つ]きそうだ。
+  Ich bin so groß, dass ich fast mit dem Kopf an die Decke stoße.
+
+  やっと足が地に着いた感じがする。
+  やっと 足[あし]が 地[ち]に 着[つ]いた 感[かん]じがする。
+  Ich habe endlich das Gefühl, festen Boden unter den Füßen zu haben.
+
+  新しい環境に身が着くまでには時間がかかるものだ。
+  新[あたら]しい 環境[かんきょう]に 身[み]が 着[つ]くまでには 時間[じかん]がかかるものだ。
+  Es braucht Zeit, bis man sich an eine neue Umgebung gewöhnt hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

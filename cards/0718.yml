@@ -4,12 +4,12 @@ Lesung: しんじる
 Alternativschreibweisen: ''
 Definition: glauben, vertrauen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>し</span><span class="accent_plain">ん</span><span class="accent_top">じ</span><span>る</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 信じない・信じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼のことを信じている。
   彼[かれ]のことを 信[しん]じている。
   Ich vertraue ihm.
+
+  仏教を信じて、毎日お寺でお祈りしています。
+  仏教[ぶっきょう]を 信[しん]じて、毎日[まいにち]お 寺[てら]でお 祈[いの]りしています。
+  Ich glaube an den Buddhismus und bete jeden Tag im Tempel.
+
+  キリストの復活を信じることは、キリスト教徒にとって重要です。
+  キリストの 復活[ふっかつ]を 信[しん]じることは、キリスト 教徒[きょうと]にとって 重要[じゅうよう]です。
+  An die Auferstehung Christi zu glauben, ist für Christen wichtig.
+
+  彼女は幽霊の存在を信じていないようだ。
+  彼女[かのじょ]は 幽霊[ゆうれい]の 存在[そんざい]を 信[しん]じていないようだ。
+  Sie scheint nicht an die Existenz von Geistern zu glauben.
+
+  本気で信じているのか、冗談で言っているのか分からない。
+  本気[ほんき]で 信[しん]じているのか、冗談[じょうだん]で 言[い]っているのか 分[わ]からない。
+  Ich weiß nicht, ob er das ernst meint oder nur scherzt.
+
+  彼女を一途に信じていたのに、裏切られてしまった。
+  彼女[かのじょ]を 一途[いちず]に 信[しん]じていたのに、裏切[うらぎ]られてしまった。
+  Ich habe ihr bedingungslos vertraut, aber sie hat mich betrogen.
+
+  あの政治家の公約を固く信じている人は少ないだろう。
+  あの 政治家[せいじか]の 公約[こうやく]を 固[かた]く 信[しん]じている 人[ひと]は 少[すく]ないだろう。
+  Es gibt wohl nur wenige Menschen, die fest an die Versprechen dieses Politikers glauben.
+
+  そんな話、信じられないよ。本当なの？
+  そんな 話[はなし]、信[しん]じられないよ。本当[ほんとう]なの？
+  So eine Geschichte ist ja unglaublich. Ist das wirklich wahr?
+
+  彼は信じやすい性格で、詐欺にあいやすいんだ。
+  彼[かれ]は 信[しん]じやすい 性格[せいかく]で、詐欺[さぎ]にあいやすいんだ。
+  Er ist leichtgläubig und wird deshalb leicht Opfer von Betrügereien.
+
+  その話は信じにくいけど、証拠があるなら考えてみよう。
+  その 話[はなし]は 信[しん]じにくいけど、証拠[しょうこ]があるなら 考[かんが]えてみよう。
+  Die Geschichte ist schwer zu glauben, aber wenn es Beweise gibt, lass uns darüber nachdenken.
+
+  信じがたいほど美しい景色だった。
+  信[しん]じがたいほど 美[うつく]しい 景色[けしき]だった。
+  Es war eine unglaublich schöne Landschaft.
+
+  私の信じるところでは、この方法が一番効果的だと思います。
+  私[わたし]の 信[しん]じるところでは、この 方法[ほうほう]が 一番[いちばん] 効果的[こうかてき]だと 思[おも]います。
+  Meiner Überzeugung nach ist diese Methode am effektivsten.
+
+  自分以外の人を馬鹿だと信じている人は、実は自分が馬鹿なのかもしれない。
+  自分[じぶん] 以外[いがい]の 人[ひと]を 馬鹿[ばか]だと 信[しん]じている 人[ひと]は、実[じつ]は 自分[じぶん]が 馬鹿[ばか]なのかもしれない。
+  Wer glaubt, dass alle außer ihm selbst Dummköpfe sind, ist vielleicht in Wirklichkeit selbst der Dummkopf.
+
+  日本は均質な社会だと信じたがる人もいるが、実際はもっと多様だ。
+  日本[にほん]は 均質[きんしつ]な 社会[しゃかい]だと 信[しん]じたがる 人[ひと]もいるが、実際[じっさい]はもっと 多様[たよう]だ。
+  Manche möchten gerne glauben, dass Japan eine homogene Gesellschaft ist, aber in Wirklichkeit ist es viel vielfältiger.
+
+  自分の行動が正しいと信じていたが、今では間違いだったと分かる。
+  自分[じぶん]の 行動[こうどう]が 正[ただ]しいと 信[しん]じていたが、今[いま]では 間違[まちが]いだったと 分[わ]かる。
+  Ich glaubte, dass mein Verhalten richtig war, aber jetzt erkenne ich, dass es falsch war.
+
+  教師の方が実業家より偉いと信じている人もいるが、それは偏見だろう。
+  教師[きょうし]の 方[ほう]が 実業家[じつぎょうか]より 偉[えら]いと 信[しん]じている 人[ひと]もいるが、それは 偏見[へんけん]だろう。
+  Manche glauben, Lehrer seien bedeutender als Unternehmer, aber das ist wohl ein Vorurteil.
+
+  神様は私たちを見捨てないと信じています。
+  神様[かみさま]は 私[わたし]たちを 見捨[みす]てないと 信[しん]じています。
+  Ich glaube, dass Gott uns nicht im Stich lassen wird.
+
+  非戦闘員だから無事に帰れると信じていたが、現実は厳しかった。
+  非戦闘員[ひせんとういん]だから 無事[ぶじ]に 帰[かえ]れると 信[しん]じていたが、現実[げんじつ]は 厳[きび]しかった。
+  Ich glaubte, als Nichtkombattant sicher heimkehren zu können, aber die Realität war hart.
+
+  彼は大統領になれると信じていたが、スキャンダルで失脚してしまった。
+  彼[かれ]は 大統領[だいとうりょう]になれると 信[しん]じていたが、スキャンダルで 失脚[しっきゃく]してしまった。
+  Er glaubte, Präsident werden zu können, aber ein Skandal führte zu seinem Sturz.
+
+  あなたを信じているからこそ、この秘密を打ち明けたんだ。
+  あなたを 信[しん]じているからこそ、この 秘密[ひみつ]を 打[う]ち 明[あ]けたんだ。
+  Gerade weil ich dir vertraue, habe ich dir dieses Geheimnis anvertraut.
+
+  こんな形で優勝できるなんて、信じられない気分です。
+  こんな 形[かたち]で 優勝[ゆうしょう]できるなんて、信[しん]じられない 気分[きぶん]です。
+  Ich kann kaum glauben, dass wir auf diese Weise den Sieg errungen haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

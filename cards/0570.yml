@@ -1,7 +1,7 @@
 Rang: 570
 Lemma: 取れる
 Lesung: とれる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 捕れる・撮れる
 Definition: entfernen, abgehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>と</span><span class="accent_top">れ</span><span>�
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 取れない・取れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   コートのボタンが取れた。
   コートのボタンが 取[と]れた。
   Der Knopf ist von meinem Mantel abgegangen.
+
+  高い棚にある箱が取れないので、椅子に乗って取ろうとしました。
+  高[たか]い 棚[たな]にある 箱[はこ]が 取[と]れないので、椅子[いす]に 乗[の]って 取[と]ろうとしました。
+  Da ich die Schachtel auf dem hohen Regal nicht erreichen konnte, versuchte ich, auf einen Stuhl zu steigen, um sie zu holen.
+
+  急いでビザを申請したけど、なかなか取れなくて困っています。
+  急[いそ]いでビザを 申請[しんせい]したけど、なかなか 取[と]れなくて 困[こま]っています。
+  Ich habe eilig ein Visum beantragt, aber es ist schwierig zu bekommen, was mir Probleme bereitet.
+
+  人気のコンサートの入場券がなかなか取れませんでした。
+  人気[にんき]のコンサートの 入場券[にゅうじょうけん]がなかなか 取[と]れませんでした。
+  Es war schwierig, Eintrittskarten für das beliebte Konzert zu bekommen.
+
+  来週は忙しいけど、何とか暇が取れそうです。
+  来週[らいしゅう]は 忙[いそが]しいけど、何[なん]とか 暇[ひま]が 取[と]れそうです。
+  Nächste Woche ist zwar voll, aber ich denke, ich kann irgendwie etwas Zeit freischaufeln.
+
+  このコートのボタンがすぐに取れてしまうんです。
+  このコートのボタンがすぐに 取[と]れてしまうんです。
+  Die Knöpfe an diesem Mantel fallen ständig ab.
+
+  古い鍋の柄が取れてしまって、使えなくなりました。
+  古[ふる]い 鍋[なべ]の 柄[え]が 取[と]れてしまって、使[つか]えなくなりました。
+  Der Griff des alten Topfes ist abgegangen, sodass er nicht mehr benutzbar ist.
+
+  このシミは洗剤を使っても全然取れないんだ。
+  このシミは 洗剤[せんざい]を 使[つか]っても 全然[ぜんぜん] 取[と]れないんだ。
+  Dieser Fleck geht überhaupt nicht raus, selbst wenn ich Waschmittel benutze.
+
+  取れにくい染みには、専用の洗剤を使うといいですよ。
+  取[と]れにくい 染[し]みには、専用[せんよう]の 洗剤[せんざい]を 使[つか]うといいですよ。
+  Für hartnäckige Flecken ist es gut, spezielle Reinigungsmittel zu verwenden.
+
+  痛み止めを飲んだら、頭痛がすぐに取れました。
+  痛[いた]み 止[ど]めを 飲[の]んだら、頭痛[ずつう]がすぐに 取[と]れました。
+  Nachdem ich ein Schmerzmittel eingenommen hatte, verschwanden die Kopfschmerzen sofort.
+
+  長い休暇を取ったら、疲れがすっかり取れた気がします。
+  長[なが]い 休暇[きゅうか]を 取[と]ったら、疲[つか]れがすっかり 取[と]れた 気[き]がします。
+  Nachdem ich einen langen Urlaub genommen habe, fühle ich mich, als wäre meine Müdigkeit vollständig verschwunden.
+
+  風邪を引いて、なかなか熱が取れません。
+  風邪[かぜ]を 引[ひ]いて、なかなか 熱[ねつ]が 取[と]れません。
+  Ich habe eine Erkältung und das Fieber will einfach nicht weggehen.
+
+  足のしびれが取れないので、少し歩いてみます。
+  足[あし]のしびれが 取[と]れないので、少[すこ]し 歩[ある]いてみます。
+  Da das Kribbeln in meinen Füßen nicht weggeht, versuche ich ein bisschen zu laufen.
+
+  彼の発言は皮肉にも取れるね。
+  彼[かれ]の 発言[はつげん]は 皮肉[ひにく]にも 取[と]れるね。
+  Seine Aussage könnte auch als Ironie verstanden werden.
+
+  この文章は二つの意味に取れるので、注意が必要です。
+  この 文章[ぶんしょう]は 二[ふた]つの 意味[いみ]に 取[と]れるので、注意[ちゅうい]が 必要[ひつよう]です。
+  Da dieser Satz auf zwei Arten verstanden werden kann, ist Vorsicht geboten.
+
+  今年は天候に恵まれて、米がたくさん取れました。
+  今年[ことし]は 天候[てんこう]に 恵[めぐ]まれて、米[こめ]がたくさん 取[と]れました。
+  Dank des günstigen Wetters konnten wir dieses Jahr eine reiche Reisernte einfahren.
+
+  この地域では、さんまがよく取れるので有名です。
+  この 地域[ちいき]では、さんまがよく 取[と]れるので 有名[ゆうめい]です。
+  Diese Region ist berühmt dafür, dass hier viele Makrelenhechte gefangen werden.
+
+  栄養のバランスが取れた食事を心がけています。
+  栄養[えいよう]のバランスが 取[と]れた 食事[しょくじ]を 心[こころ]がけています。
+  Ich achte darauf, mich ausgewogen zu ernähren.
+
+  彼女は均整の取れた体型をしています。
+  彼女[かのじょ]は 均整[きんせい]の 取[と]れた 体型[たいけい]をしています。
+  Sie hat einen wohlproportionierten Körperbau.
+
+  この仕事は時間が取れるので、アルバイトには向いています。
+  この 仕事[しごと]は 時間[じかん]が 取[と]れるので、アルバイトには 向[む]いています。
+  Diese Arbeit ist gut für einen Nebenjob geeignet, da sie nicht so zeitaufwendig ist.
+
+  この写真、とてもよく撮れていますね。
+  この 写真[しゃしん]、とてもよく 撮[と]れていますね。
+  Dieses Foto ist wirklich gut geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

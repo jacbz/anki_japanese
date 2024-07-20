@@ -1,7 +1,7 @@
 Rang: 752
 Lemma: 悲しい
 Lesung: かなしい
-Alternativschreibweisen: ''
+Alternativschreibweisen: 哀しい・愛しい
 Definition: traurig
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">な</span><span 
 Register: ''
 Dispersion: '72'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 悲しくない・悲しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   なんと悲しい話だろう。
   なんと 悲[かな]しい 話[はなし]だろう。
   Was für eine traurige Geschichte!
+
+  友人の突然の死を聞いて、とても悲しい気持ちになった。
+  友人[ゆうじん]の 突然[とつぜん]の 死[し]を 聞[き]いて、とても 悲[かな]しい 気持[きも]ちになった。
+  Als ich vom plötzlichen Tod meines Freundes erfuhr, wurde ich sehr traurig.
+
+  彼女は悲しい顔で別れを告げた。
+  彼女[かのじょ]は 悲[かな]しい 顔[かお]で 別[わか]れを 告[つ]げた。
+  Mit traurigem Gesicht verabschiedete sie sich.
+
+  悲しいことに、彼は試験に落ちてしまった。
+  悲[かな]しいことに、彼[かれ]は 試験[しけん]に 落[お]ちてしまった。
+  Bedauerlicherweise ist er durch die Prüfung gefallen.
+
+  この映画の悲しいメロディーが心に染みる。
+  この 映画[えいが]の 悲[かな]しいメロディーが 心[こころ]に 染[し]みる。
+  Die traurige Melodie dieses Films geht mir ans Herz.
+
+  彼から悲しい知らせを受け取った。
+  彼[かれ]から 悲[かな]しい 知[し]らせを 受[う]け 取[と]った。
+  Ich erhielt eine traurige Nachricht von ihm.
+
+  戦争で家族を失った人々の悲しい運命を考えると胸が痛む。
+  戦争[せんそう]で 家族[かぞく]を 失[うしな]った 人々[ひとびと]の 悲[かな]しい 運命[うんめい]を 考[かんが]えると 胸[むね]が 痛[いた]む。
+  Es schmerzt mich, wenn ich an das traurige Schicksal der Menschen denke, die im Krieg ihre Familien verloren haben.
+
+  大切なペットが死んで、子供たちは悲しんでいる。
+  大切[たいせつ]なペットが 死[し]んで、子供[こども]たちは 悲[かな]しんでいる。
+  Die Kinder sind traurig, weil ihr geliebtes Haustier gestorben ist.
+
+  私は今とても悲しいです。慰めの言葉をください。
+  私[わたし]は 今[いま]とても 悲[かな]しいです。慰[なぐさ]めの 言葉[ことば]をください。
+  Ich bin jetzt sehr traurig. Bitte spenden Sie mir Trost.
+
+  失恋して悲しくなり、一人で泣いてしまった。
+  失恋[しつれん]して 悲[かな]しくなり、一人[ひとり]で 泣[な]いてしまった。
+  Nach der Trennung wurde ich traurig und weinte allein.
+
+  彼女の悲しそうな目を見て、胸が痛んだ。
+  彼女[かのじょ]の 悲[かな]しそうな 目[め]を 見[み]て、胸[むね]が 痛[いた]んだ。
+  Als ich ihre traurig blickenden Augen sah, tat mir das Herz weh.
+
+  お父さんが亡くなって、ずいぶん悲しかったろうね。
+  お父[とう]さんが 亡[な]くなって、ずいぶん 悲[かな]しかったろうね。
+  Du warst bestimmt sehr traurig, als dein Vater starb, nicht wahr?
+
+  楽しいこともあれば悲しいこともある。人生はそんなものだ。
+  楽[たの]しいこともあれば 悲[かな]しいこともある。人生[じんせい]はそんなものだ。
+  Es gibt sowohl fröhliche als auch traurige Momente. So ist das Leben.
+
+  悲しいことに、この問題は何年経っても解決していない。
+  悲[かな]しいことに、この 問題[もんだい]は 何年[なんねん] 経[た]っても 解決[かいけつ]していない。
+  Traurigerweise ist dieses Problem auch nach Jahren noch nicht gelöst.
+
+  彼は悲しそうな表情で遠くを見つめていた。
+  彼[かれ]は 悲[かな]しそうな 表情[ひょうじょう]で 遠[とお]くを 見[み]つめていた。
+  Er blickte mit einem traurigen Gesichtsausdruck in die Ferne.
+
+  その悲しい出来事から、彼女は大きく変わった。
+  その 悲[かな]しい 出来事[できごと]から、彼女[かのじょ]は 大[おお]きく 変[か]わった。
+  Nach diesem traurigen Ereignis hat sie sich sehr verändert.
+
+  悲しい過去を乗り越えて、前を向いて生きていく。
+  悲[かな]しい 過去[かこ]を 乗[の]り 越[こ]えて、前[まえ]を 向[む]いて 生[い]きていく。
+  Ich werde meine traurige Vergangenheit überwinden und nach vorne blicken.
+
+  彼女の悲しい物語に、皆が涙を流した。
+  彼女[かのじょ]の 悲[かな]しい 物語[ものがたり]に、皆[みな]が 涙[なみだ]を 流[なが]した。
+  Alle vergossen Tränen bei ihrer traurigen Geschichte.
+
+  悲しい気持ちを紛らわすため、友達と出かけることにした。
+  悲[かな]しい 気持[きも]ちを 紛[まぎ]らわすため、友達[ともだち]と 出[で]かけることにした。
+  Um meine traurigen Gefühle zu zerstreuen, beschloss ich, mit Freunden auszugehen.
+
+  彼の悲しい表情を見て、何があったのか心配になった。
+  彼[かれ]の 悲[かな]しい 表情[ひょうじょう]を 見[み]て、何[なに]があったのか 心配[しんぱい]になった。
+  Als ich seinen traurigen Gesichtsausdruck sah, machte ich mir Sorgen, was passiert sein könnte.
+
+  悲しい思い出が蘇ってきて、涙が止まらなかった。
+  悲[かな]しい 思[おも]い 出[で]が 蘇[よみがえ]ってきて、涙[なみだ]が 止[と]まらなかった。
+  Als die traurigen Erinnerungen zurückkamen, konnte ich meine Tränen nicht zurückhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

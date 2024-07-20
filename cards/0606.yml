@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 調べない・調べた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は辞書で単語を調べている。
   彼[かれ]は 辞書[じしょ]で 単語[たんご]を 調[しら]べている。
   Er schlägt ein Wort im Wörterbuch nach.
+
+  警察は事故の原因を調べています。
+  警察[けいさつ]は 事故[じこ]の 原因[げんいん]を 調[しら]べています。
+  Die Polizei untersucht die Ursache des Unfalls.
+
+  辞書で言葉の意味を調べてみましょう。
+  辞書[じしょ]で 言葉[ことば]の 意味[いみ]を 調[しら]べてみましょう。
+  Lass uns die Bedeutung des Wortes im Wörterbuch nachschlagen.
+
+  彼女は念のため、もう一度時間を調べた。
+  彼女[かのじょ]は 念[ねん]のため、もう 一度[いちど] 時間[じかん]を 調[しら]べた。
+  Zur Sicherheit überprüfte sie noch einmal die Zeit.
+
+  医者は患者の症状を慎重に調べた。
+  医者[いしゃ]は 患者[かんじゃ]の 症状[しょうじょう]を 慎重[しんちょう]に 調[しら]べた。
+  Der Arzt untersuchte die Symptome des Patienten sorgfältig.
+
+  新しい家を買う前に、周辺の環境をよく調べるべきだ。
+  新[あたら]しい 家[いえ]を 買[か]う 前[まえ]に、周辺[しゅうへん]の 環境[かんきょう]をよく 調[しら]べるべきだ。
+  Bevor man ein neues Haus kauft, sollte man die Umgebung gründlich untersuchen.
+
+  警官は容疑者のアリバイを調べている。
+  警官[けいかん]は 容疑者[ようぎしゃ]のアリバイを 調[しら]べている。
+  Der Polizist überprüft das Alibi des Verdächtigen.
+
+  彼は古文書を調べて、その町の歴史を研究している。
+  彼[かれ]は 古文書[こもんじょ]を 調[しら]べて、その 町[まち]の 歴史[れきし]を 研究[けんきゅう]している。
+  Er erforscht die Geschichte der Stadt, indem er alte Dokumente untersucht.
+
+  生徒たちは図書館で宿題のために資料を調べています。
+  生徒[せいと]たちは 図書館[としょかん]で 宿題[しゅくだい]のために 資料[しりょう]を 調[しら]べています。
+  Die Schüler recherchieren in der Bibliothek Material für ihre Hausaufgaben.
+
+  技術者はエンジンの不具合を調べるために車を点検した。
+  技術者[ぎじゅつしゃ]はエンジンの 不具合[ふぐあい]を 調[しら]べるために 車[くるま]を 点検[てんけん]した。
+  Der Techniker inspizierte das Auto, um die Störung des Motors zu untersuchen.
+
+  彼女は料理の本で新しいレシピを調べています。
+  彼女[かのじょ]は 料理[りょうり]の 本[ほん]で 新[あたら]しいレシピを 調[しら]べています。
+  Sie sucht in einem Kochbuch nach neuen Rezepten.
+
+  探偵は依頼人の過去を詳しく調べた。
+  探偵[たんてい]は 依頼人[いらいにん]の 過去[かこ]を 詳[くわ]しく 調[しら]べた。
+  Der Detektiv untersuchte die Vergangenheit des Klienten gründlich.
+
+  彼は電話帳で友人の住所を調べようとした。
+  彼[かれ]は 電話帳[でんわちょう]で 友人[ゆうじん]の 住所[じゅうしょ]を 調[しら]べようとした。
+  Er versuchte, die Adresse seines Freundes im Telefonbuch nachzuschlagen.
+
+  科学者たちは新しい薬の効果を調べるため、実験を行っている。
+  科学者[かがくしゃ]たちは 新[あたら]しい 薬[くすり]の 効果[こうか]を 調[しら]べるため、実験[じっけん]を 行[おこな]っている。
+  Die Wissenschaftler führen Experimente durch, um die Wirksamkeit des neuen Medikaments zu untersuchen.
+
+  彼女は面接の前に、その会社について詳しく調べた。
+  彼女[かのじょ]は 面接[めんせつ]の 前[まえ]に、その 会社[かいしゃ]について 詳[くわ]しく 調[しら]べた。
+  Vor dem Vorstellungsgespräch recherchierte sie gründlich über das Unternehmen.
+
+  弁護士は証拠を調べて、依頼人の無実を証明しようとしている。
+  弁護士[べんごし]は 証拠[しょうこ]を 調[しら]べて、依頼人[いらいにん]の 無実[むじつ]を 証明[しょうめい]しようとしている。
+  Der Anwalt untersucht die Beweise, um die Unschuld seines Mandanten zu beweisen.
+
+  彼は古い日記を調べて、祖父の若い頃の生活を知ろうとした。
+  彼[かれ]は 古[ふる]い 日記[にっき]を 調[しら]べて、祖父[そふ]の 若[わか]い 頃[ころ]の 生活[せいかつ]を 知[し]ろうとした。
+  Er untersuchte alte Tagebücher, um mehr über das Leben seines Großvaters in jungen Jahren zu erfahren.
+
+  調査員は土壌サンプルを調べて、環境汚染の程度を評価した。
+  調査員[ちょうさいん]は 土壌[どじょう]サンプルを 調[しら]べて、環境汚染[かんきょうおせん]の 程度[ていど]を 評価[ひょうか]した。
+  Der Inspektor untersuchte Bodenproben, um das Ausmaß der Umweltverschmutzung zu bewerten.
+
+  彼女は自分のルーツを調べるために、家系図の研究を始めた。
+  彼女[かのじょ]は 自分[じぶん]のルーツを 調[しら]べるために、家系図[かけいず]の 研究[けんきゅう]を 始[はじ]めた。
+  Sie begann mit der Erforschung ihres Stammbaums, um ihre Wurzeln zu untersuchen.
+
+  医者は患者の血液を調べて、病気の原因を突き止めようとしている。
+  医者[いしゃ]は 患者[かんじゃ]の 血液[けつえき]を 調[しら]べて、病気[びょうき]の 原因[げんいん]を 突き止[つきと]めようとしている。
+  Der Arzt untersucht das Blut des Patienten, um die Ursache der Krankheit herauszufinden.
+
+  彼は新しい楽器を買う前に、様々な種類の音色を調べた。
+  彼[かれ]は 新[あたら]しい 楽器[がっき]を 買[か]う 前[まえ]に、様々[さまざま]な 種類[しゅるい]の 音色[ねいろ]を 調[しら]べた。
+  Bevor er ein neues Instrument kaufte, untersuchte er verschiedene Klangfarben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

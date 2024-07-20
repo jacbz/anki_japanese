@@ -2,14 +2,14 @@ Rang: 679
 Lemma: 致す
 Lesung: いたす
 Alternativschreibweisen: ''
-Definition: tun (bescheiden)
+Definition: tun [bescheiden]
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Lesung mit Tonhöhe: <span>い</span><span class="accent_top">た</span><span>す</span>
 Register: ↗</>Verwaltungssprache
 Dispersion: '33'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 致さない・致した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   どういたしましょうか。
   どういたしましょうか。
   Wie soll ich es tun?
+
+  いかが致しましょうか。
+  いかが 致[いた]しましょうか。
+  Was sollen wir tun?
+
+  私が致しましょうか。
+  私[わたし]が 致[いた]しましょうか。
+  Soll ich das machen?
+
+  お待たせ致しました。
+  お 待[ま]たせ 致[いた]しました。
+  Entschuldigen Sie, dass ich Sie habe warten lassen.
+
+  あなたの遺言通りに致します。
+  あなたの 遺言[ゆいごん] 通[どお]りに 致[いた]します。
+  Ich werde alles so machen, wie Sie es in Ihrem Testament wünschen.
+
+  俺の土地では今頃、厄落しの祭りを致す。
+  俺[おれ]の 土地[とち]では 今頃[いまごろ]、厄落[やくおと]しの 祭[まつ]りを 致[いた]す。
+  In meiner Heimat feiern sie jetzt das Fest der Geisteraustreibung.
+
+  実は、昨晩はその事を考えて、一睡も致しませんでした。
+  実[じつ]は、昨晩[さくばん]はその 事[こと]を 考[かんが]えて、一睡[いっすい]も 致[いた]しませんでした。
+  Ehrlich gesagt habe ich gestern die ganze Nacht darüber nachgedacht und kein Auge zugemacht.
+
+  記憶がはっきり致しません。
+  記憶[きおく]がはっきり 致[いた]しません。
+  Ich kann mich nicht genau erinnern.
+
+  私の不徳の致すところです。
+  私[わたし]の 不徳[ふとく]の 致[いた]すところです。
+  Das ist meine Schuld.
+
+  学校の職員や生徒に過失のあるのは、みんな自分の寡徳の致すところで。
+  学校[がっこう]の 職員[しょくいん]や 生徒[せいと]に 過失[かしつ]のあるのは、みんな 自分[じぶん]の 寡徳[かとく]の 致[いた]すところで。
+  Jede Verfehlung der Schüler und Lehrer dieser Schule ist allein auf meine eigene mangelnde Tugendhaftigkeit zurückzuführen.
+
+  この問題を解決するために力を致しましょう。
+  この 問題[もんだい]を 解決[かいけつ]するために 力[ちから]を 致[いた]しましょう。
+  Lassen Sie uns unsere Kräfte aufwenden, um dieses Problem zu lösen.
+
+  彼は国のために命を致した。
+  彼[かれ]は 国[くに]のために 命[いのち]を 致[いた]した。
+  Er opferte sein Leben für das Land.
+
+  この仕事に心を致して取り組んでいます。
+  この 仕事[しごと]に 心[こころ]を 致[いた]して 取[と]り 組[く]んでいます。
+  Ich widme mich dieser Arbeit mit ganzem Herzen.
+
+  あの人のことを思いを致して過ごしています。
+  あの 人[ひと]のことを 思[おも]いを 致[いた]して 過[す]ごしています。
+  Ich verbringe meine Zeit damit, an jene Person zu denken.
+
+  申し訳ございません。ご迷惑を致しました。
+  申[もう]し 訳[わけ]ございません。ご 迷惑[めいわく]を 致[いた]しました。
+  Es tut mir sehr leid. Ich habe Ihnen Unannehmlichkeiten bereitet.
+
+  お客様のご要望に沿えるよう最善を致します。
+  お 客様[きゃくさま]のご 要望[ようぼう]に 沿[そ]えるよう 最善[さいぜん]を 致[いた]します。
+  Wir werden unser Bestes tun, um Ihren Wünschen gerecht zu werden.
+
+  この度はご協力いただき、誠にありがとうございました。心より感謝致します。
+  この 度[たび]はご 協力[きょうりょく]いただき、誠[まこと]にありがとうございました。心[こころ]より 感謝[かんしゃ] 致[いた]します。
+  Vielen Dank für Ihre Zusammenarbeit. Ich bin Ihnen von Herzen dankbar.
+
+  新製品の開発に全力を致しております。
+  新[しん] 製品[せいひん]の 開発[かいはつ]に 全力[ぜんりょく]を 致[いた]しております。
+  Wir setzen alle unsere Kräfte für die Entwicklung des neuen Produkts ein.
+
+  どのようなお手伝いを致しましょうか。
+  どのようなお 手伝[てつだ]いを 致[いた]しましょうか。
+  Wie kann ich Ihnen behilflich sein?
+
+  この問題について深く考察を致しました。
+  この 問題[もんだい]について 深[ふか]く 考察[こうさつ]を 致[いた]しました。
+  Ich habe über dieses Problem gründlich nachgedacht.
+
+  お客様のご意見を今後の改善に活かしてまいります。社員一同、努力を致す所存です。
+  お 客様[きゃくさま]のご 意見[いけん]を 今後[こんご]の 改善[かいぜん]に 活[い]かしてまいります。社員[しゃいん] 一同[いちどう]、努力[どりょく]を 致[いた]す 所存[しょぞん]です。
+  Wir werden Ihr Feedback für zukünftige Verbesserungen nutzen. Alle Mitarbeiter werden sich bemühen, ihr Bestes zu geben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

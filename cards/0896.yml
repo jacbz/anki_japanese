@@ -1,7 +1,7 @@
 Rang: 896
 Lemma: 捨てる
 Lesung: すてる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 棄てる
 Definition: wegwerfen, verlassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">て</span><span 
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 捨てない・捨てた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は古い雑誌を捨てた。
   彼女[かのじょ]は 古[ふる]い 雑誌[ざっし]を 捨[す]てた。
   Sie hat alte Zeitschriften weggeworfen.
+
+  吸い殻を道に捨てないでください。
+  吸[す]い 殻[がら]を 道[みち]に 捨[す]てないでください。
+  Bitte werfen Sie keine Zigarettenstummel auf die Straße.
+
+  いらない物は思い切って捨てましょう。
+  いらない 物[もの]は 思[おも]い 切[き]って 捨[す]てましょう。
+  Lass uns unnötige Dinge entschlossen wegwerfen.
+
+  燃えないごみは指定の日に捨てる必要があります。
+  燃[も]えないごみは 指定[してい]の 日[ひ]に 捨[す]てる 必要[ひつよう]があります。
+  Nicht brennbarer Müll muss an den festgelegten Tagen entsorgt werden.
+
+  ごみを川に捨てるのは環境破壊につながります。
+  ごみを 川[かわ]に 捨[す]てるのは 環境破壊[かんきょうはかい]につながります。
+  Müll in Flüsse zu werfen führt zu Umweltzerstörung.
+
+  もったいなくて捨てられない古い服がたくさんあります。
+  もったいなくて 捨[す]てられない 古[ふる]い 服[ふく]がたくさんあります。
+  Ich habe viele alte Kleidungsstücke, die ich nicht wegwerfen kann, weil es mir leid tut.
+
+  彼女は恋人に捨てられてひどく落ち込んでいます。
+  彼女[かのじょ]は 恋人[こいびと]に 捨[す]てられてひどく 落[お]ち 込[こ]んでいます。
+  Sie ist sehr niedergeschlagen, weil ihr Freund sie verlassen hat.
+
+  故郷を捨てて大都市で新しい人生を始めることにした。
+  故郷[こきょう]を 捨[す]てて 大都市[だいとし]で 新[あたら]しい 人生[じんせい]を 始[はじ]めることにした。
+  Ich habe beschlossen, meine Heimat zu verlassen und ein neues Leben in einer großen Stadt zu beginnen.
+
+  捨て犬を保護して新しい飼い主を探しています。
+  捨[す]て 犬[いぬ]を 保護[ほご]して 新[あたら]しい 飼[か]い 主[ぬし]を 探[さが]しています。
+  Wir nehmen ausgesetzte Hunde auf und suchen neue Besitzer für sie.
+
+  長年抱いていた偏見を捨てる決心をしました。
+  長年[ながねん] 抱[いだ]いていた 偏見[へんけん]を 捨[す]てる 決心[けっしん]をしました。
+  Ich habe mich entschieden, die Vorurteile abzulegen, die ich jahrelang hatte.
+
+  プライドを捨てて素直に謝ることが大切です。
+  プライドを 捨[す]てて 素直[すなお]に 謝[あやま]ることが 大切[たいせつ]です。
+  Es ist wichtig, seinen Stolz abzulegen und aufrichtig um Entschuldigung zu bitten.
+
+  夢を捨てずに頑張り続けることが成功への鍵です。
+  夢[ゆめ]を 捨[す]てずに 頑張[がんば]り 続[つづ]けることが 成功[せいこう]への 鍵[かぎ]です。
+  Der Schlüssel zum Erfolg ist es, nicht aufzugeben und weiter an seinen Träumen festzuhalten.
+
+  試合を途中で捨てるのは選手として恥ずかしい行為だ。
+  試合[しあい]を 途中[とちゅう]で 捨[す]てるのは 選手[せんしゅ]として 恥[は]ずかしい 行為[こうい]だ。
+  Es ist eine beschämende Handlung für einen Sportler, ein Spiel vorzeitig aufzugeben.
+
+  国籍を捨てて新しい国の市民になる決意をしました。
+  国籍[こくせき]を 捨[す]てて 新[あたら]しい 国[くに]の 市民[しみん]になる 決意[けつい]をしました。
+  Ich habe mich entschieden, meine Staatsangehörigkeit aufzugeben und Bürger eines neuen Landes zu werden.
+
+  捨てられた雑誌を拾って読むのが趣味です。
+  捨[す]てられた 雑誌[ざっし]を 拾[ひろ]って 読[よ]むのが 趣味[しゅみ]です。
+  Mein Hobby ist es, weggeworfene Zeitschriften aufzuheben und zu lesen.
+
+  この問題は簡単に捨て置けない重要な課題だ。
+  この 問題[もんだい]は 簡単[かんたん]に 捨[す]て 置[お]けない 重要[じゅうよう]な 課題[かだい]だ。
+  Dies ist ein wichtiges Thema, das nicht einfach ignoriert werden kann.
+
+  古い習慣を捨てて新しいライフスタイルを取り入れよう。
+  古[ふる]い 習慣[しゅうかん]を 捨[す]てて 新[あたら]しい ライフスタイルを 取[と]り 入[い]れよう。
+  Lass uns alte Gewohnheiten ablegen und einen neuen Lebensstil annehmen.
+
+  捨てる神あれば拾う神あり、諦めないで希望を持ち続けよう。
+  捨[す]てる 神[かみ]あれば 拾[ひろ]う 神[かみ]あり、諦[あきら]めないで 希望[きぼう]を 持[も]ち 続[つづ]けよう。
+  Es gibt Menschen, die einen fallen lassen, aber auch solche, die einem helfen. Lass uns nicht aufgeben und weiter Hoffnung haben.
+
+  この仕事を捨てて、新しいキャリアにチャレンジしたい。
+  この 仕事[しごと]を 捨[す]てて、新[あたら]しいキャリアにチャレンジしたい。
+  Ich möchte diesen Job aufgeben und eine neue Karriere wagen.
+
+  捨てるべき物と残すべき物を冷静に判断することが大切だ。
+  捨[す]てるべき 物[もの]と 残[のこ]すべき 物[もの]を 冷静[れいせい]に 判断[はんだん]することが 大切[たいせつ]だ。
+  Es ist wichtig, ruhig zu entscheiden, was weggeworfen und was behalten werden sollte.
+
+  彼は過去の失敗を捨てて、新たな挑戦に臨んでいる。
+  彼[かれ]は 過去[かこ]の 失敗[しっぱい]を 捨[す]てて、新[あら]たな 挑戦[ちょうせん]に 臨[のぞ]んでいる。
+  Er hat seine vergangenen Fehler hinter sich gelassen und stellt sich neuen Herausforderungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

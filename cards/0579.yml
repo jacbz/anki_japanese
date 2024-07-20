@@ -2,14 +2,14 @@ Rang: 579
 Lemma: 離れる
 Lesung: はなれる
 Alternativschreibweisen: ''
-Definition: sich trennen; entfernt sein von
+Definition: sich trennen, entfernen; verlassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">な</span><span class="accent_top">れ</span><span>る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 離れない・離れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   学校は街の中心から1キロ離れている。
   学校[がっこう]は 街[まち]の 中心[ちゅうしん]から1キロ 離[はな]れている。
   Die Schule ist einen Kilometer vom Stadtzentrum entfernt.
+
+  種から離れやすい果物は食べやすいです。
+  種[たね]から 離[はな]れやすい 果物[くだもの]は 食[た]べやすいです。
+  Früchte, die sich leicht vom Kern lösen lassen, sind einfach zu essen.
+
+  母のそばを離れない子供もいます。
+  母[はは]のそばを 離[はな]れない 子供[こども]もいます。
+  Es gibt auch Kinder, die nicht von der Seite ihrer Mutter weichen.
+
+  駅から2キロほど離れた場所に住んでいます。
+  駅[えき]から2キロほど 離[はな]れた 場所[ばしょ]に 住[す]んでいます。
+  Ich wohne etwa zwei Kilometer vom Bahnhof entfernt.
+
+  彼は列を離れて、別の方向に歩き始めた。
+  彼[かれ]は 列[れつ]を 離[はな]れて、別[べつ]の 方向[ほうこう]に 歩[ある]き 始[はじ]めた。
+  Er verließ die Reihe und begann in eine andere Richtung zu gehen.
+
+  しばらく東京を離れて旅行に行きたいです。
+  しばらく 東京[とうきょう]を 離[はな]れて 旅行[りょこう]に 行[い]きたいです。
+  Ich möchte für eine Weile Tokyo verlassen und verreisen.
+
+  大陸から遠く離れた島で静かな生活を送っています。
+  大陸[たいりく]から 遠[とお]く 離[はな]れた 島[しま]で 静[しず]かな 生活[せいかつ]を 送[おく]っています。
+  Ich führe ein ruhiges Leben auf einer Insel, die weit vom Festland entfernt liegt.
+
+  年の離れた兄弟は、お互いの子供のような関係になることもあります。
+  年[とし]の 離[はな]れた 兄弟[きょうだい]は、お 互[たが]いの 子供[こども]のような 関係[かんけい]になることもあります。
+  Geschwister mit großem Altersunterschied können manchmal eine Beziehung wie Eltern und Kinder haben.
+
+  本題から離れないように気をつけましょう。
+  本題[ほんだい]から 離[はな]れないように 気[き]をつけましょう。
+  Lasst uns darauf achten, nicht vom eigentlichen Thema abzuweichen.
+
+  彼女への気持ちが離れていくのを感じた。
+  彼女[かのじょ]への 気持[きも]ちが 離[はな]れていくのを 感[かん]じた。
+  Ich spürte, wie meine Gefühle für sie verblassten.
+
+  利益を離れて考えると、この選択が正しいと思います。
+  利益[りえき]を 離[はな]れて 考[かんが]えると、この 選択[せんたく]が 正[ただ]しいと 思[おも]います。
+  Unabhängig vom Gewinn betrachtet, denke ich, dass diese Wahl richtig ist.
+
+  大学を離れてから、研究の機会が減った。
+  大学[だいがく]を 離[はな]れてから、研究[けんきゅう]の 機会[きかい]が 減[へ]った。
+  Nachdem ich die Universität verlassen habe, haben sich die Forschungsmöglichkeiten verringert.
+
+  彼は理事を離れた後、新しいプロジェクトを始めた。
+  彼[かれ]は 理事[りじ]を 離[はな]れた 後[あと]、新[あたら]しいプロジェクトを 始[はじ]めた。
+  Nachdem er aus dem Vorstand ausgeschieden war, begann er ein neues Projekt.
+
+  職を離れて自分の時間を持つことの大切さを実感しました。
+  職[しょく]を 離[はな]れて 自分[じぶん]の 時間[じかん]を 持[も]つことの 大切[たいせつ]さを 実感[じっかん]しました。
+  Ich habe die Wichtigkeit erkannt, den Job aufzugeben und Zeit für mich selbst zu haben.
+
+  道から離れないように注意して歩いてください。
+  道[みち]から 離[はな]れないように 注意[ちゅうい]して 歩[ある]いてください。
+  Bitte gehen Sie vorsichtig und achten Sie darauf, nicht vom Weg abzukommen.
+
+  彼らは10歳も離れているのに、とても仲が良いです。
+  彼[かれ]らは10歳[さい]も 離[はな]れているのに、とても 仲[なか]が 良[よ]いです。
+  Obwohl sie einen Altersunterschied von 10 Jahren haben, verstehen sie sich sehr gut.
+
+  少し離れて見ると、問題の全体像がよく分かります。
+  少[すこ]し 離[はな]れて 見[み]ると、問題[もんだい]の 全体像[ぜんたいぞう]がよく 分[わ]かります。
+  Wenn man aus einiger Entfernung betrachtet, versteht man das Gesamtbild des Problems besser.
+
+  彼女は夫から離れて、新しい人生を始めることにした。
+  彼女[かのじょ]は 夫[おっと]から 離[はな]れて、新[あたら]しい 人生[じんせい]を 始[はじ]めることにした。
+  Sie beschloss, sich von ihrem Mann zu trennen und ein neues Leben zu beginnen.
+
+  平均から離れた数値は、特別な注意が必要です。
+  平均[へいきん]から 離[はな]れた 数値[すうち]は、特別[とくべつ]な 注意[ちゅうい]が 必要[ひつよう]です。
+  Werte, die vom Durchschnitt abweichen, erfordern besondere Aufmerksamkeit.
+
+  席を離れる時は、必ず周りに一言声をかけましょう。
+  席[せき]を 離[はな]れる 時[とき]は、必[かなら]ず 周[まわ]りに 一言[ひとこと] 声[こえ]をかけましょう。
+  Wenn Sie Ihren Platz verlassen, sagen Sie bitte immer den Leuten um Sie herum Bescheid.
+
+  この考えから離れられない自分に気づいた。
+  この 考[かんが]えから 離[はな]れられない 自分[じぶん]に 気[き]づいた。
+  Ich bemerkte, dass ich mich von diesem Gedanken nicht lösen konnte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

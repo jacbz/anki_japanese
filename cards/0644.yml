@@ -2,14 +2,14 @@ Rang: 644
 Lemma: 気付く
 Lesung: きづく
 Alternativschreibweisen: ''
-Definition: bemerken, sich bewusst werden
+Definition: bemerken, aufmerksam werden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>き</span><span class="accent_top">づ</span><span>く</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 気付かない・気付いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼が部屋を出て行ったことに気づかなかった。
   彼[かれ]が 部屋[へや]を 出[で]て 行[い]ったことに 気[き]づかなかった。
   Ich habe nicht bemerkt, dass er aus dem Zimmer gegangen ist.
+
+  彼女は忘れ物に気付いて、慌てて取りに戻った。
+  彼女[かのじょ]は 忘[わす]れ 物[もの]に 気付[きづ]いて、慌[あわ]てて 取[と]りに 戻[もど]った。
+  Sie bemerkte, dass sie etwas vergessen hatte, und eilte hastig zurück, um es zu holen.
+
+  誤りに気付いた時点で素直に認めることが大切だ。
+  誤[あやま]りに 気付[きづ]いた 時点[じてん]で 素直[すなお]に 認[みと]めることが 大切[たいせつ]だ。
+  Es ist wichtig, Fehler offen zuzugeben, sobald man sie bemerkt.
+
+  彼は気付かれずに部屋を出て行った。
+  彼[かれ]は 気付[きづ]かれずに 部屋[へや]を 出[で]て 行[い]った。
+  Er verließ den Raum, ohne dass es jemand bemerkte.
+
+  危険に気付くのが遅れて、事故につながってしまった。
+  危険[きけん]に 気付[きづ]くのが 遅[おく]れて、事故[じこ]につながってしまった。
+  Das verspätete Erkennen der Gefahr führte zu einem Unfall.
+
+  先生は生徒たちに実験の危険性を気づかせた。
+  先生[せんせい]は 生徒[せいと]たちに 実験[じっけん]の 危険性[きけんせい]を 気[き]づかせた。
+  Der Lehrer machte die Schüler auf die Gefahren des Experiments aufmerksam.
+
+  むろん互いに、気づかぬふりをする。
+  むろん 互[たが]いに、気[き]づかぬふりをする。
+  Natürlich tun wir beide so, als würden wir es nicht bemerken.
+
+  節子は丹羽夫人の夕食の粥を炊かなければならないことに気付いた。
+  節子[せつこ]は 丹羽夫人[にわふじん]の 夕食[ゆうしょく]の 粥[かゆ]を 炊[た]かなければならないことに 気付[きづ]いた。
+  Setsuko fiel ein, dass sie den Reisbrei für Frau Niwas Abendessen kochen musste.
+
+  上島元陸軍歩兵大尉は、誰も自分の話を聞いていないことにようやく気付いた。
+  上島元陸軍歩兵大尉[うえしまもとりくぐんほへいたいい]は、誰[だれ]も 自分[じぶん]の 話[はなし]を 聞[き]いていないことにようやく 気付[きづ]いた。
+  Hauptmann Ueshima bemerkte schließlich, dass niemand seiner Rede zuhörte.
+
+  「あとをつけるんだ。気づかれないようにな」と刑事は部下に指示した。
+  「あとをつけるんだ。気[き]づかれないようにな」と 刑事[けいじ]は 部下[ぶか]に 指示[しじ]した。
+  "Folge ihm. Aber pass auf, dass er es nicht merkt.", wies der Detektiv seinen Untergebenen an.
+
+  気付いたら病院のベッドで目が覚めた。
+  気付[きづ]いたら 病院[びょういん]のベッドで 目[め]が 覚[さ]めた。
+  Als ich wieder zu mir kam, wachte ich in einem Krankenhausbett auf.
+
+  深い考えに沈んでいて、洗濯機のブザーに気付かなかった。
+  深[ふか]い 考[かんが]えに 沈[しず]んでいて、洗濯機[せんたくき]のブザーに 気付[きづ]かなかった。
+  Ich war so in Gedanken versunken, dass ich den Summer der Waschmaschine nicht bemerkte.
+
+  彼女は髪型を変えたのに、誰も気付いてくれなかった。
+  彼女[かのじょ]は 髪型[かみがた]を 変[か]えたのに、誰[だれ]も 気付[きづ]いてくれなかった。
+  Sie hatte ihre Frisur geändert, aber niemand bemerkte es.
+
+  突然の雨に気付いて、急いで洗濯物を取り込んだ。
+  突然[とつぜん]の 雨[あめ]に 気付[きづ]いて、急[いそ]いで 洗濯物[せんたくもの]を 取[と]り 込[こ]んだ。
+  Als ich den plötzlichen Regen bemerkte, holte ich schnell die Wäsche herein.
+
+  彼は自分の間違いに気付くのが遅かった。
+  彼[かれ]は 自分[じぶん]の 間違[まちが]いに 気付[きづ]くのが 遅[おそ]かった。
+  Er brauchte lange, um seinen Fehler zu bemerken.
+
+  彼女は友人の様子がおかしいことに気付いて、声をかけた。
+  彼女[かのじょ]は 友人[ゆうじん]の 様子[ようす]がおかしいことに 気付[きづ]いて、声[こえ]をかけた。
+  Sie bemerkte, dass mit ihrem Freund etwas nicht stimmte, und sprach ihn an.
+
+  気付いたら、もう日が暮れていた。
+  気付[きづ]いたら、もう 日[ひ]が 暮[く]れていた。
+  Als ich es bemerkte, war es bereits dunkel geworden.
+
+  彼は周りの人々の気持ちに気付かず、自分勝手な行動をとっていた。
+  彼[かれ]は 周[まわ]りの 人々[ひとびと]の 気持[きも]ちに 気付[きづ]かず、自分勝手[じぶんかって]な 行動[こうどう]をとっていた。
+  Er handelte egoistisch, ohne die Gefühle der Menschen um ihn herum zu bemerken.
+
+  母は私の体調の変化にすぐに気付いてくれた。
+  母[はは]は 私[わたし]の 体調[たいちょう]の 変化[へんか]にすぐに 気付[きづ]いてくれた。
+  Meine Mutter bemerkte sofort die Veränderung in meinem Gesundheitszustand.
+
+  彼は自分の才能に気付くのに時間がかかった。
+  彼[かれ]は 自分[じぶん]の 才能[さいのう]に 気付[きづ]くのに 時間[じかん]がかかった。
+  Es dauerte eine Weile, bis er sein eigenes Talent erkannte.
+
+  子供たちは親の苦労に気付かないものだ。
+  子供[こども]たちは 親[おや]の 苦労[くろう]に 気付[きづ]かないものだ。
+  Kinder bemerken oft nicht die Mühen ihrer Eltern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

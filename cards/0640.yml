@@ -1,12 +1,10 @@
 Rang: 640
 Lemma: いくつ
 Lesung: ''
-Alternativschreibweisen: |2-
-
-  幾つ
-Definition: wie viele, wie alt
+Alternativschreibweisen: ''
+Definition: wie viele; wie alt
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Lesung mit Tonhöhe: <span class="accent_top">い</span><span>く</span><span>つ</span>
 Register: ''
 Dispersion: '96'
@@ -19,6 +17,86 @@ Beispielsätze: |-
   リンゴはいくつありますか。
   リンゴはいくつありますか。
   Wie viele Äpfel gibt es?
+
+  りんごをいくつ買いましたか。
+  りんごを いくつ 買[か]いましたか。
+  Wie viele Äpfel hast du gekauft?
+
+  この本はいくつの章に分かれていますか。
+  この 本[ほん]は いくつの 章[しょう]に 分[わ]かれていますか。
+  In wie viele Kapitel ist dieses Buch unterteilt?
+
+  子供たちにお菓子をいくつでも取っていいよと言った。
+  子供[こども]たちにお 菓子[かし]を いくつでも 取[と]っていいよと 言[い]った。
+  Ich sagte den Kindern, sie könnten sich so viele Süßigkeiten nehmen, wie sie wollen.
+
+  いくつかの理由で、今日は外出できません。
+  いくつかの 理由[りゆう]で、今日[きょう]は 外出[がいしゅつ]できません。
+  Aus mehreren Gründen kann ich heute nicht ausgehen.
+
+  彼はいくつもの賞を受賞しています。
+  彼[かれ]は いくつもの 賞[しょう]を 受賞[じゅしょう]しています。
+  Er hat zahlreiche Preise gewonnen.
+
+  いくつとなく星が空に輝いていた。
+  いくつとなく 星[ほし]が 空[そら]に 輝[かがや]いていた。
+  Unzählige Sterne glänzten am Himmel.
+
+  もう九時に近いというのに、幾つかの窓には灯りがついていた。
+  もう 九時[くじ]に 近[ちか]いというのに、幾[いく]つかの 窓[まど]には 灯[あか]りがついていた。
+  Es war schon fast neun Uhr, aber in einigen Fenstern brannte noch Licht.
+
+  外からいくつか声が聞こえてきた。
+  外[そと]から いくつか 声[こえ]が 聞[き]こえてきた。
+  Von draußen waren einige Stimmen zu hören.
+
+  幼年時代の思い出をいくつでも挙げることができる。
+  幼年時代[ようねんじだい]の 思[おも]い 出[で]を いくつでも 挙[あ]げることができる。
+  Ich kann beliebig viele Erinnerungen aus meiner Kindheit aufzählen.
+
+  あなたは今いくつですか。
+  あなたは 今[いま] いくつですか。
+  Wie alt sind Sie jetzt?
+
+  いくつになっても新しいことを学ぶのは楽しいです。
+  いくつになっても 新[あたら]しいことを 学[まな]ぶのは 楽[たの]しいです。
+  Egal wie alt man wird, es macht Spaß, neue Dinge zu lernen.
+
+  「年はおいくつですか」「29歳です」
+  「年[とし]は おいくつですか」「29歳[さい]です」
+  "Wie alt sind Sie?" "Ich bin 29 Jahre alt."
+
+  彼女は40いくつだと思います。
+  彼女[かのじょ]は40 いくつだと 思[おも]います。
+  Ich denke, sie ist Anfang vierzig.
+
+  70いくつの高齢者でも、まだ元気に働いている人がいます。
+  70 いくつの 高齢者[こうれいしゃ]でも、まだ 元気[げんき]に 働[はたら]いている 人[ひと]がいます。
+  Es gibt Menschen über siebzig, die noch energisch arbeiten.
+
+  この会社にはいくつの部署がありますか。
+  この 会社[かいしゃ]には いくつの 部署[ぶしょ]がありますか。
+  Wie viele Abteilungen gibt es in diesem Unternehmen?
+
+  いくつかのオプションがありますが、どれがいいですか。
+  いくつかのオプションがありますが、どれがいいですか。
+  Es gibt mehrere Optionen, welche möchtest du?
+
+  彼はいくつもの言語を話せます。
+  彼[かれ]は いくつもの 言語[げんご]を 話[はな]せます。
+  Er kann viele verschiedene Sprachen sprechen.
+
+  いくつになっても夢を持ち続けることが大切です。
+  いくつになっても 夢[ゆめ]を 持[も]ち 続[つづ]けることが 大切[たいせつ]です。
+  Es ist wichtig, Träume zu haben, egal wie alt man wird.
+
+  このプロジェクトにはいくつかの課題がある。
+  このプロジェクトには いくつかの 課題[かだい]がある。
+  Es gibt einige Herausforderungen in diesem Projekt.
+
+  いくつかの質問がありますが、お時間はありますか。
+  いくつかの 質問[しつもん]がありますが、お 時間[じかん]はありますか。
+  Ich habe einige Fragen, haben Sie Zeit?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

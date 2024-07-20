@@ -2,7 +2,7 @@ Rang: 861
 Lemma: 失う
 Lesung: うしなう
 Alternativschreibweisen: ''
-Definition: verlieren
+Definition: verlieren; verpassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">し</span><span class="accent_plain">な</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">し</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 失わない・失った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   妻を事故で失った。
   妻[つま]を 事故[じこ]で 失[うしな]った。
   Ich habe meine Frau bei einem Verkehrsunfall verloren.
+
+  彼は最近の経済危機で財産を失った。
+  彼[かれ]は 最近[さいきん]の 経済危機[けいざいきき]で 財産[ざいさん]を 失[うしな]った。
+  Er hat durch die jüngste Wirtschaftskrise sein Vermögen verloren.
+
+  火事で家を失い、一時的にホテルに滞在している。
+  火事[かじ]で 家[いえ]を 失[うしな]い、一時的[いちじてき]にホテルに 滞在[たいざい]している。
+  Nachdem sie durch einen Brand ihr Haus verloren haben, wohnen sie vorübergehend in einem Hotel.
+
+  会社の倒産で多くの人が職を失った。
+  会社[かいしゃ]の 倒産[とうさん]で 多[おお]くの 人[ひと]が 職[しょく]を 失[うしな]った。
+  Durch den Konkurs der Firma haben viele Menschen ihre Arbeit verloren.
+
+  事故で聴覚を失い、生活が一変した。
+  事故[じこ]で 聴覚[ちょうかく]を 失[うしな]い、生活[せいかつ]が 一変[いっぺん]した。
+  Nach einem Unfall verlor er sein Gehör, was sein Leben völlig veränderte.
+
+  悪いニュースを聞いて、彼女は顔色を失った。
+  悪[わる]いニュースを 聞[き]いて、彼女[かのじょ]は 顔色[がんしょく]を 失[うしな]った。
+  Als sie die schlechte Nachricht hörte, wurde sie blass.
+
+  度重なる遅刻で上司の信用を失ってしまった。
+  度重[たびかさ]なる 遅刻[ちこく]で 上司[じょうし]の 信用[しんよう]を 失[うしな]ってしまった。
+  Durch wiederholtes Zuspätkommen habe ich das Vertrauen meines Vorgesetzten verloren.
+
+  試験に落ちて、彼は一時的に明るさを失った。
+  試験[しけん]に 落[お]ちて、彼[かれ]は 一時的[いちじてき]に 明[あか]るさを 失[うしな]った。
+  Nachdem er die Prüfung nicht bestanden hatte, verlor er vorübergehend seine Fröhlichkeit.
+
+  手術中、患者は一時的に意識を失った。
+  手術中[しゅじゅつちゅう]、患者[かんじゃ]は 一時的[いちじてき]に 意識[いしき]を 失[うしな]った。
+  Während der Operation verlor der Patient kurzzeitig das Bewusstsein.
+
+  事故の衝撃で、その出来事の記憶を失ってしまった。
+  事故[じこ]の 衝撃[しょうげき]で、その 出来事[できごと]の 記憶[きおく]を 失[うしな]ってしまった。
+  Durch den Schock des Unfalls hat er die Erinnerung an dieses Ereignis verloren.
+
+  長年の失敗で、彼は成功への望みを失いかけていた。
+  長年[ながねん]の 失敗[しっぱい]で、彼[かれ]は 成功[せいこう]への 望[のぞ]みを 失[うしな]いかけていた。
+  Nach jahrelangen Misserfolgen war er kurz davor, die Hoffnung auf Erfolg zu verlieren.
+
+  時間が経つにつれ、その趣味への興味を失っていった。
+  時間[じかん]が 経[た]つにつれ、その 趣味[しゅみ]への 興味[きょうみ]を 失[うしな]っていった。
+  Mit der Zeit verlor er das Interesse an diesem Hobby.
+
+  戦争で多くの人々が自由を失った。
+  戦争[せんそう]で 多[おお]くの 人々[ひとびと]が 自由[じゆう]を 失[うしな]った。
+  Durch den Krieg verloren viele Menschen ihre Freiheit.
+
+  交通事故で命を失う人が毎年多くいる。
+  交通事故[こうつうじこ]で 命[いのち]を 失[うしな]う 人[ひと]が 毎年[まいとし] 多[おお]くいる。
+  Jedes Jahr verlieren viele Menschen ihr Leben bei Verkehrsunfällen.
+
+  幼い頃に父を失い、母一人で育てられた。
+  幼[おさな]い 頃[ころ]に 父[ちち]を 失[うしな]い、母[はは] 一人[ひとり]で 育[そだ]てられた。
+  Er verlor seinen Vater in jungen Jahren und wurde von seiner Mutter allein großgezogen.
+
+  SNSの普及で、多くの人がプライバシーを失いつつある。
+  SNSの 普及[ふきゅう]で、多[おお]くの 人[ひと]がプライバシーを 失[うしな]いつつある。
+  Durch die Verbreitung sozialer Medien verlieren viele Menschen zunehmend ihre Privatsphäre.
+
+  戦争で失われた時間は二度と取り戻せない。
+  戦争[せんそう]で 失[うしな]われた 時間[じかん]は 二度[にど]と 取り戻[とりもど]せない。
+  Die durch den Krieg verlorene Zeit kann nie wieder zurückgeholt werden.
+
+  彼は就職の機会を失い、失望していた。
+  彼[かれ]は 就職[しゅうしょく]の 機会[きかい]を 失[うしな]い、失望[しつぼう]していた。
+  Er war enttäuscht, nachdem er die Chance auf einen Job verpasst hatte.
+
+  重要な書類をなくして、上司の信頼を失った。
+  重要[じゅうよう]な 書類[しょるい]をなくして、上司[じょうし]の 信頼[しんらい]を 失[うしな]った。
+  Ich habe wichtige Dokumente verloren und dadurch das Vertrauen meines Chefs verspielt.
+
+  長い間使っていなかったので、ピアノを弾く技術を失ってしまった。
+  長[なが]い 間[あいだ] 使[つか]っていなかったので、ピアノを 弾[ひ]く 技術[ぎじゅつ]を 失[うしな]ってしまった。
+  Da ich lange nicht geübt habe, habe ich die Fähigkeit verloren, Klavier zu spielen.
+
+  彼女は恋人を失い、深い悲しみに暮れていた。
+  彼女[かのじょ]は 恋人[こいびと]を 失[うしな]い、深[ふか]い 悲[かな]しみに 暮[く]れていた。
+  Sie war in tiefer Trauer, nachdem sie ihren Geliebten verloren hatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

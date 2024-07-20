@@ -4,12 +4,12 @@ Lesung: ながれる
 Alternativschreibweisen: ''
 Definition: fließen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi
 Lesung mit Tonhöhe: <span>な</span><span class="accent_plain">が</span><span class="accent_top">れ</span><span>る</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 流れない・流れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,102 @@ Beispielsätze: |-
   利根川は関東平野を流れている。
   利根川[とねがわ]は 関東平野[かんとうへいや]を 流[なが]れている。
   Der Tone-Fluss fließt durch die Kanto-Ebene.
+
+  この川は海へ流れています。
+  この 川[かわ]は 海[うみ]へ 流[なが]れています。
+  Dieser Fluss fließt ins Meer.
+
+  汗が背中を流れていくのを感じた。
+  汗[あせ]が 背中[せなか]を 流[なが]れていくのを 感[かん]じた。
+  Ich spürte, wie mir der Schweiß den Rücken hinunterlief.
+
+  鼻から血が流れ始めた。
+  鼻[はな]から 血[ち]が 流[なが]れ 始[はじ]めた。
+  Blut begann aus meiner Nase zu fließen.
+
+  悲しみのあまり、涙が止めどなく流れた。
+  悲[かな]しみのあまり、涙[なみだ]が 止[と]めどなく 流[なが]れた。
+  Vor lauter Traurigkeit flossen mir die Tränen unaufhörlich.
+
+  小川がちょろちょろと流れている。
+  小川[おがわ]がちょろちょろと 流[なが]れている。
+  Der Bach plätschert leise dahin.
+
+  夏の暑さで、汗がだくだくと流れた。
+  夏[なつ]の 暑[あつ]さで、汗[あせ]がだくだくと 流[なが]れた。
+  In der Sommerhitze floss mir der Schweiß in Strömen.
+
+  白い雲が空をゆっくりと流れていく。
+  白[しろ]い 雲[くも]が 空[そら]をゆっくりと 流[なが]れていく。
+  Weiße Wolken ziehen langsam über den Himmel.
+
+  涼しい風が窓から部屋に流れ込んでくる。
+  涼[すず]しい 風[かぜ]が 窓[まど]から 部屋[へや]に 流[なが]れ 込[こ]んでくる。
+  Eine kühle Brise strömt durch das Fenster ins Zimmer.
+
+  交通渋滞が解消し、車がスムーズに流れ始めた。
+  交通渋滞[こうつうじゅうたい]が 解消[かいしょう]し、車[くるま]がスムーズに 流[なが]れ 始[はじ]めた。
+  Der Verkehrsstau löste sich auf und die Autos begannen wieder reibungslos zu fließen.
+
+  この作業は予定通りスムーズに流れている。
+  この 作業[さぎょう]は 予定通[よていどお]りスムーズに 流[なが]れている。
+  Diese Arbeit läuft planmäßig und reibungslos.
+
+  時間があっという間に流れてしまった。
+  時間[じかん]があっという 間[ま]に 流[なが]れてしまった。
+  Die Zeit verging wie im Flug.
+
+  この建物には電気が流れていない。
+  この 建物[たてもの]には 電気[でんき]が 流[なが]れていない。
+  In diesem Gebäude fließt kein Strom.
+
+  校内放送が教室に流れ、生徒たちの注目を集めた。
+  校内放送[こうないほうそう]が 教室[きょうしつ]に 流[なが]れ、生徒[せいと]たちの 注目[ちゅうもく]を 集[あつ]めた。
+  Die Schulansage schallte durch die Klassenzimmer und zog die Aufmerksamkeit der Schüler auf sich.
+
+  彼女の失踪に関するうわさが町中に流れた。
+  彼女[かのじょ]の 失踪[しっそう]に 関[かん]するうわさが 町中[まちじゅう]に 流[なが]れた。
+  Gerüchte über ihr Verschwinden verbreiteten sich in der ganzen Stadt.
+
+  コーヒーの香りが部屋中に流れ、心地よい朝を演出していた。
+  コーヒーの 香[かお]りが 部屋中[へやじゅう]に 流[なが]れ、心地[ここち]よい 朝[あさ]を 演出[えんしゅつ]していた。
+  Der Duft von Kaffee zog durch den ganzen Raum und schuf eine angenehme Morgenatmosphäre.
+
+  豪雨で橋が流されてしまった。
+  豪雨[ごうう]で 橋[はし]が 流[なが]されてしまった。
+  Die Brücke wurde durch den Starkregen weggeschwemmt.
+
+  桜の花びらが川面に流れていく様子は美しかった。
+  桜[さくら]の 花びら[はなびら]が 川面[かわも]に 流[なが]れていく 様子[ようす]は 美[うつく]しかった。
+  Es war ein schöner Anblick, wie die Kirschblütenblätter auf der Wasseroberfläche dahinschwammen.
+
+  彼は抽象論に流れがちで、具体的な解決策を出すのが苦手だ。
+  彼[かれ]は 抽象論[ちゅうしょうろん]に 流[なが]れがちで、具体的[ぐたいてき]な 解決策[かいけつさく]を 出[だ]すのが 苦手[にがて]だ。
+  Er neigt dazu, sich in abstrakten Theorien zu verlieren und hat Schwierigkeiten, konkrete Lösungen vorzuschlagen.
+
+  彼女は怠惰な生活に流されないよう、毎日規則正しく過ごしている。
+  彼女[かのじょ]は 怠惰[たいだ]な 生活[せいかつ]に 流[なが]されないよう、毎日[まいにち] 規則正[きそくただ]しく 過[す]ごしている。
+  Um nicht in ein faules Leben zu verfallen, führt sie jeden Tag einen geregelten Tagesablauf.
+
+  質屋に預けた品が期限内に引き取られず、流れてしまった。
+  質屋[しちや]に 預[あず]けた 品[しな]が 期限内[きげんない]に 引[ひ]き 取[と]られず、流[なが]れてしまった。
+  Der beim Pfandleiher hinterlegte Gegenstand wurde nicht fristgerecht ausgelöst und verfiel.
+
+  台風の影響で会議が流れ、来週に延期となった。
+  台風[たいふう]の 影響[えいきょう]で 会議[かいぎ]が 流[なが]れ、来週[らいしゅう]に 延期[えんき]となった。
+  Aufgrund des Taifuns wurde die Besprechung abgesagt und auf nächste Woche verschoben.
+
+  彼の計画は資金不足で流れてしまった。
+  彼[かれ]の 計画[けいかく]は 資金不足[しきんぶそく]で 流[なが]れてしまった。
+  Sein Plan verlief im Sande aufgrund mangelnder finanzieller Mittel.
+
+  暗闇で足が流れ、階段を踏み外してしまった。
+  暗闇[くらやみ]で 足[あし]が 流[なが]れ、階段[かいだん]を 踏[ふ]み 外[はず]してしまった。
+  In der Dunkelheit trat ich daneben und verfehlte die Treppenstufe.
+
+  彼の放った矢は風に流され、的を外れた。
+  彼[かれ]の 放[はな]った 矢[や]は 風[かぜ]に 流[なが]され、的[まと]を 外[はず]れた。
+  Sein abgeschossener Pfeil wurde vom Wind abgelenkt und verfehlte das Ziel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

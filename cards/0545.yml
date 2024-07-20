@@ -1,15 +1,15 @@
 Rang: 545
 Lemma: よる
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: aufgrund, zurückzuführen auf
+Alternativschreibweisen: 因る・由る・依る・拠る・縁る
+Definition: abhängen von; beruhen auf
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '76'
 Ursprung: ''
-Konjugation: ''
+Konjugation: よらない・よった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   事故は彼の不注意によるものだった。
   事故[じこ]は 彼[かれ]の 不注意[ふちゅうい]によるものだった。
   Der Unfall war auf seine Unachtsamkeit zurückzuführen.
+
+  子供の火遊びにより火災が発生した。
+  子供[こども]の 火遊[ひあそ]びにより 火災[かさい]が 発生[はっせい]した。
+  Ein Brand entstand aufgrund der Kokelei von Kindern.
+
+  地球温暖化による気候変動が深刻化している。
+  地球温暖化[ちきゅうおんだんか]による 気候変動[きこうへんどう]が 深刻化[しんこくか]している。
+  Der Klimawandel infolge der globalen Erwärmung verschärft sich.
+
+  ラジオからはお盆の帰省による渋滞情報が流れていた。
+  ラジオからはお 盆[ぼん]の 帰省[きせい]による 渋滞情報[じゅうたいじょうほう]が 流[なが]れていた。
+  Das Radio brachte Meldungen über die Rückkehrer-Staus zum Ende der Ferien.
+
+  場合によっては、別の方法で問題を解決できるかもしれない。
+  場合[ばあい]によっては、別[べつ]の 方法[ほうほう]で 問題[もんだい]を 解決[かいけつ]できるかもしれない。
+  Je nach Situation können wir das Problem vielleicht auf eine andere Weise lösen.
+
+  時と場合によって、適切な対応が変わることがある。
+  時[とき]と 場合[ばあい]によって、適切[てきせつ]な 対応[たいおう]が 変[か]わることがある。
+  Je nach Zeit und Lage kann die angemessene Reaktion variieren.
+
+  前例によって行動することが求められる場合もある。
+  前例[ぜんれい]によって 行動[こうどう]することが 求[もと]められる 場合[ばあい]もある。
+  Es gibt Situationen, in denen man gemäß dem Präzedenzfall handeln muss.
+
+  暴力によって問題を解決しようとするのは間違っている。
+  暴力[ぼうりょく]によって 問題[もんだい]を 解決[かいけつ]しようとするのは 間違[まちが]っている。
+  Es ist falsch, Probleme durch Gewalt lösen zu wollen.
+
+  アルバイトによって生計をたてている学生も多い。
+  アルバイトによって 生計[せいけい]をたてている 学生[がくせい]も 多[おお]い。
+  Es gibt viele Studenten, die ihren Lebensunterhalt durch Nebenjobs bestreiten.
+
+  百科事典によって調べると、より詳しい情報が得られる。
+  百科事典[ひゃっかじてん]によって 調[しら]べると、より 詳[くわ]しい 情報[じょうほう]が 得[え]られる。
+  Wenn man in einer Enzyklopädie nachschlägt, erhält man detailliertere Informationen.
+
+  海風によって運ばれる暖気が、この地域の気候に影響している。
+  海風[うみかぜ]によって 運[はこ]ばれる 暖気[だんき]が、この 地域[ちいき]の 気候[きこう]に 影響[えいきょう]している。
+  Die vom Meereswind herangetragene Warmluft beeinflusst das Klima dieser Region.
+
+  先生のお説によれば、この理論には新しい可能性がある。
+  先生[せんせい]のお 説[せつ]によれば、この 理論[りろん]には 新[あたら]しい 可能性[かのうせい]がある。
+  Nach der Theorie des Lehrers gibt es in dieser Theorie neue Möglichkeiten.
+
+  新聞の報道によると、来月から新しい法律が施行されるそうだ。
+  新聞[しんぶん]の 報道[ほうどう]によると、来月[らいげつ]から 新[あたら]しい 法律[ほうりつ]が 施行[しこう]されるそうだ。
+  Laut Zeitungsberichten soll ab nächstem Monat ein neues Gesetz in Kraft treten.
+
+  あなたのお勧めによって、この本を読んでみることにしました。
+  あなたのお 勧[すす]めによって、この 本[ほん]を 読[よ]んでみることにしました。
+  Auf Ihre Empfehlung hin habe ich beschlossen, dieses Buch zu lesen.
+
+  見かけによらない人もいるので、先入観を持たないように心がけている。
+  見[み]かけによらない 人[ひと]もいるので、先入観[せんにゅうかん]を 持[も]たないように 心[こころ]がけている。
+  Da es Menschen gibt, die sich nicht nach ihrem Äußeren beurteilen lassen, bemühe ich mich, keine Vorurteile zu haben.
+
+  一説によると、この伝説には歴史的な根拠があるらしい。
+  一説[いっせつ]によると、この 伝説[でんせつ]には 歴史的[れきしてき]な 根拠[こんきょ]があるらしい。
+  Einer Theorie zufolge soll diese Legende eine historische Grundlage haben.
+
+  細君からの連絡によれば、彼は風邪で休んでいるそうだ。
+  細君[さいくん]からの 連絡[れんらく]によれば、彼[かれ]は 風邪[かぜ]で 休[やす]んでいるそうだ。
+  Nach Auskunft seiner Frau soll er wegen einer Erkältung zu Hause bleiben.
+
+  旧記によると、この地域には昔から特殊な風習があったという。
+  旧記[きゅうき]によると、この 地域[ちいき]には 昔[むかし]から 特殊[とくしゅ]な 風習[ふうしゅう]があったという。
+  Alten Chroniken zufolge gab es in dieser Region seit alters her besondere Bräuche.
+
+  彼女の出方いかんによっては、プロジェクトの進め方を変更する必要があるかもしれない。
+  彼女[かのじょ]の 出方[でかた]いかんによっては、プロジェクトの 進[すす]め 方[かた]を 変更[へんこう]する 必要[ひつよう]があるかもしれない。
+  Je nachdem, wie sie sich verhält, müssen wir möglicherweise die Vorgehensweise des Projekts ändern.
+
+  何人も、公務員の不法行為により損害を受けた場合、賠償を求めることができる。
+  何人[なんぴと]も、公務員[こうむいん]の 不法行為[ふほうこうい]により 損害[そんがい]を 受[う]けた 場合[ばあい]、賠償[ばいしょう]を 求[もと]めることができる。
+  Jeder, der durch eine rechtswidrige Handlung eines Beamten einen Schaden erlitten hat, kann Entschädigung verlangen.
+
+  米国などは、外務大臣を通じて公式に哀悼の意を表した。
+  米国[べいこく]などは、外務大臣[がいむだいじん]を 通[つう]じて 公式[こうしき]に 哀悼[あいとう]の 意[い]を 表[ひょう]した。
+  Die USA und andere Länder drückten über den Außenminister offiziell ihr Beileid aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

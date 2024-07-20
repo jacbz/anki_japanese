@@ -2,14 +2,14 @@ Rang: 785
 Lemma: 用いる
 Lesung: もちいる
 Alternativschreibweisen: ''
-Definition: verwenden, anwenden
+Definition: verwenden, benutzen; einsetzen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">ち</span><span class="accent_top">い</span><span>る</span>
 Register: ''
 Dispersion: '78'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 用いない・用いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この製品は最新の技術が用いられている。
   この 製品[せいひん]は 最新[さいしん]の 技術[ぎじゅつ]が 用[もち]いられている。
   Für dieses Produkt wird eine neue Technologie verwendet.
+
+  この実験では新しい技術を用いて効率を上げました。
+  この 実験[じっけん]では 新[あたら]しい 技術[ぎじゅつ]を 用[もち]いて 効率[こうりつ]を 上[あ]げました。
+  In diesem Experiment haben wir die Effizienz durch den Einsatz neuer Technologien gesteigert.
+
+  彼女は古い言葉を用いて詩を書くのが得意だ。
+  彼女[かのじょ]は 古[ふる]い 言葉[ことば]を 用[もち]いて 詩[し]を 書[か]くのが 得意[とくい]だ。
+  Sie ist geschickt darin, Gedichte mit alten Wörtern zu verfassen.
+
+  この薬は慎重に用いなければならない。
+  この 薬[くすり]は 慎重[しんちょう]に 用[もち]いなければならない。
+  Dieses Medikament muss mit Vorsicht angewendet werden.
+
+  新製品の開発に最新の技術を用いています。
+  新製品[しんせいひん]の 開発[かいはつ]に 最新[さいしん]の 技術[ぎじゅつ]を 用[もち]いています。
+  Wir verwenden die neueste Technologie für die Entwicklung neuer Produkte.
+
+  彼らは伝統的な手法を用いて家具を作っている。
+  彼[かれ]らは 伝統的[でんとうてき]な 手法[しゅほう]を 用[もち]いて 家具[かぐ]を 作[つく]っている。
+  Sie stellen Möbel mit traditionellen Methoden her.
+
+  この会社では環境に優しい材料を用いている。
+  この 会社[かいしゃ]では 環境[かんきょう]に 優[やさ]しい 材料[ざいりょう]を 用[もち]いている。
+  Dieses Unternehmen verwendet umweltfreundliche Materialien.
+
+  先生は分かりやすい言葉を用いて説明してくれました。
+  先生[せんせい]は 分[わ]かりやすい 言葉[ことば]を 用[もち]いて 説明[せつめい]してくれました。
+  Der Lehrer hat es mit einfachen Worten erklärt.
+
+  この方法はもう用いられなくなっている。
+  この 方法[ほうほう]はもう 用[もち]いられなくなっている。
+  Diese Methode wird nicht mehr verwendet.
+
+  彼は独自の表現技法を用いて作品を作り出す。
+  彼[かれ]は 独自[どくじ]の 表現[ひょうげん]技法[ぎほう]を 用[もち]いて 作品[さくひん]を 作[つく]り 出[だ]す。
+  Er schafft Werke unter Verwendung seiner eigenen Ausdruckstechniken.
+
+  痛み止めを用いて症状を和らげた。
+  痛[いた]み 止[ど]めを 用[もち]いて 症状[しょうじょう]を 和[やわ]らげた。
+  Die Symptome wurden durch die Anwendung von Schmerzmitteln gelindert.
+
+  竹を用いて作った家具は軽くて丈夫だ。
+  竹[たけ]を 用[もち]いて 作[つく]った 家具[かぐ]は 軽[かる]くて 丈夫[じょうぶ]だ。
+  Mit Bambus hergestellte Möbel sind leicht und robust.
+
+  文中に登場する他の人物は、すべて仮名を用いました。
+  文中[ぶんちゅう]に 登場[とうじょう]する 他[た]の 人物[じんぶつ]は、すべて 仮名[かめい]を 用[もち]いました。
+  Ich verwendete Pseudonyme für alle anderen in dem Text erwähnten Personen.
+
+  この手術では最新の麻酔技術を用いています。
+  この 手術[しゅじゅつ]では 最新[さいしん]の 麻酔[ますい]技術[ぎじゅつ]を 用[もち]いています。
+  Bei dieser Operation wird die neueste Anästhesietechnik angewendet.
+
+  日本の歴史に関する記述には、この時代区分が広く用いられています。
+  日本[にほん]の 歴史[れきし]に 関[かん]する 記述[きじゅつ]には、この 時代[じだい]区分[くぶん]が 広[ひろ]く 用[もち]いられています。
+  Diese Periodisierung wird häufig in Beschreibungen der japanischen Geschichte verwendet.
+
+  彼は重要なプロジェクトに用いられることになった。
+  彼[かれ]は 重要[じゅうよう]なプロジェクトに 用[もち]いられることになった。
+  Er wurde für ein wichtiges Projekt eingesetzt.
+
+  この会社では外国人を通訳として用いている。
+  この 会社[かいしゃ]では 外国人[がいこくじん]を 通訳[つうやく]として 用[もち]いている。
+  Dieses Unternehmen beschäftigt Ausländer als Dolmetscher.
+
+  彼女の提案を用いて問題を解決しました。
+  彼女[かのじょ]の 提案[ていあん]を 用[もち]いて 問題[もんだい]を 解決[かいけつ]しました。
+  Wir haben das Problem gelöst, indem wir ihren Vorschlag angenommen haben.
+
+  専門家の意見を用いて計画を立てましょう。
+  専門家[せんもんか]の 意見[いけん]を 用[もち]いて 計画[けいかく]を 立[た]てましょう。
+  Lass uns den Plan unter Berücksichtigung der Meinung von Experten erstellen.
+
+  この事件について人の意見を用いたほうがいいでしょう。
+  この 事件[じけん]について 人[ひと]の 意見[いけん]を 用[もち]いたほうがいいでしょう。
+  Es wäre besser, in dieser Angelegenheit den Rat anderer einzuholen.
+
+  新しいアプリを用いてデータを分析します。
+  新[あたら]しいアプリを 用[もち]いてデータを 分析[ぶんせき]します。
+  Wir werden die Daten mit einer neuen App analysieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
