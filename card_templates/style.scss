@@ -267,6 +267,7 @@ span.no-break {
 
 .jp {
   font-family: "SourceHanSans";
+  line-height: 1.6em;
 }
 
 .de {
@@ -315,18 +316,24 @@ span.spoiler {
   align-items: center;
 }
 
+a {
+  text-decoration: none;
+  color: #1d4ed8;
+}
+
+.night_mode a {
+  color: #bfdbfe;
+}
+
 .github {
   font-size: 12px;
   text-align: center;
 
-  a {
-    text-decoration: none;
-
-    &::before {
-      content: "\2665\fe0e";
-      font-size: 90%;
-      margin-right: 0.2em;
-    }
+  a::before {
+    content: "\2665\fe0e";
+    font-size: 90%;
+    margin-right: 0.2em;
+    font-family: monospace;
   }
 }
 
@@ -384,7 +391,6 @@ hr {
 #sentences {
   border-width: 3px;
   padding: 12px;
-  padding-top: 3px;
   font-size: 55%;
 }
 
@@ -417,6 +423,10 @@ hr {
   .examples {
     padding-left: 1em;
   }
+}
+
+b, i, u {
+  line-height: 100%;
 }
 
 u {
@@ -620,20 +630,34 @@ u {
 }
 
 ruby {
+  display: inline-block;
+  position: relative;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
 }
 
-rt {
-  opacity: 0;
-  letter-spacing: -6px;
-  transition: all 0.2s;
-  user-select: none;
+span.rb {
+  display: inline-block;
 }
 
-.show-furigana rt {
+span.rt {
+  font-size: 0.5em;
+  position: absolute;
+  display: block;
+  top: -1.5em;
+  white-space: nowrap;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: all 0.2s;
+  user-select: none;
+  pointer-events: none;
+  opacity: 0;
+}
+
+
+.show-furigana .rt {
   opacity: 100%;
-  letter-spacing: normal;
 }
 
 .highlight {

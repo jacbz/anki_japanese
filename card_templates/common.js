@@ -4,9 +4,9 @@ function addFurigana(text) {
     (match, kanji, furigana) => {
       return `${
         kanji.startsWith("　") ? "　" : ""
-      }<ruby>${kanji.trim()}<rt>${furigana}</rt></ruby>`;
+      }<ruby><span class="rb">${kanji.trim()}</span><span class="rt">${furigana}</span></ruby>`;
     }
-  ).replaceAll(' ', '');
+  ).replaceAll('> <', '><');
 }
 
 function formatDefinition() {

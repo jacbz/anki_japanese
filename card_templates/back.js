@@ -105,11 +105,18 @@ function formatSentences(within = document) {
       sentenceWithoutFurigana
     )}<span>${addFurigana(text)}</span></span>`;
 
-    el.querySelectorAll("ruby").forEach((ruby) => {
-      ruby.onclick = (event) => {
+    el.querySelectorAll("span.rb").forEach((rb) => {
+      rb.onclick = (event) => {
         event.stopPropagation();
-        ruby.classList.toggle("show-furigana");
+        rb.parentElement.classList.toggle("show-furigana");
       };
+      rb.ondblclick = (event) => {
+        event.stopPropagation();
+        for (const ruby of rb.closest(".jp").querySelectorAll("ruby")) {
+          ruby.classList.add("show-furigana");
+        }
+        window.getSelection().removeAllRanges();
+      }
     });
 
     if (el.classList.contains("spoiler")) {
