@@ -2,14 +2,14 @@ Rang: 708
 Lemma: 驚く
 Lesung: おどろく
 Alternativschreibweisen: ''
-Definition: überrascht sein
+Definition: überrascht sein, staunen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">ど</span><span class="accent_top">ろ</span><span>く</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 驚かない・驚いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   そのニュースを聞いて驚いた。
   そのニュースを 聞[き]いて 驚[おどろ]いた。
   Ich war überrascht, die Nachrichten zu hören.
+
+  彼の大胆な発言に驚いた。
+  彼[かれ]の 大胆[だいたん]な 発言[はつげん]に 驚[おど]いた。
+  Ich war von seiner kühnen Äußerung verblüfft.
+
+  このケーキのあまりのうまさに驚いた。
+  このケーキのあまりのうまさに 驚[おど]いた。
+  Ich war ganz erstaunt darüber, wie gut dieser Kuchen schmeckt.
+
+  彼女の美しさに驚かされた。
+  彼女[かのじょ]の 美[うつく]しさに 驚[おど]かされた。
+  Ich war von ihrer Schönheit überwältigt.
+
+  あっと驚く贈り物をもらった。
+  あっと 驚[おど]く 贈[おく]り 物[もの]をもらった。
+  Ich habe ein überraschendes Geschenk bekommen.
+
+  彼の成功は驚くほどだ。
+  彼[かれ]の 成功[せいこう]は 驚[おど]くほどだ。
+  Sein Erfolg ist erstaunlich.
+
+  この状況に驚くほかない。
+  この 状況[じょうきょう]に 驚[おど]くほかない。
+  Man kann sich über diese Situation nur wundern.
+
+  それほど驚くには当たらないと思う。
+  それほど 驚[おど]くには 当[あ]たらないと 思[おも]う。
+  Ich denke, es ist kein Grund, so überrascht zu sein.
+
+  彼はめったに驚かない人だ。
+  彼[かれ]はめったに 驚[おど]かない 人[ひと]だ。
+  Er ist jemand, der nicht so leicht überrascht wird.
+
+  その知らせを聞いて、少しも驚かなかった。
+  その 知[し]らせを 聞[き]いて、少[すこ]しも 驚[おど]かなかった。
+  Als ich die Nachricht hörte, war ich kein bisschen überrascht.
+
+  驚いて口をあんぐりと開けた。
+  驚[おど]いて 口[くち]をあんぐりと 開[あ]けた。
+  Ich öffnete vor Staunen den Mund.
+
+  彼女は驚いた表情で私を見た。
+  彼女[かのじょ]は 驚[おど]いた 表情[ひょうじょう]で 私[わたし]を 見[み]た。
+  Sie sah mich mit einem verblüfften Gesichtsausdruck an.
+
+  突然の足音に驚いて振り返った。
+  突然[とつぜん]の 足音[あしおと]に 驚[おど]いて 振[ふ]り 返[かえ]った。
+  Erschrocken drehte ich mich um, als ich plötzlich Schritte hörte.
+
+  暗がりから急に人が現れたので驚いた。
+  暗[くら]がりから 急[きゅう]に 人[ひと]が 現[あらわ]れたので 驚[おど]いた。
+  Ich erschrak, als plötzlich jemand aus der Dunkelheit auftauchte.
+
+  大きな音にびくっと驚いた。
+  大[おお]きな 音[おと]にびくっと 驚[おど]いた。
+  Ich zuckte vor Schreck zusammen, als ich einen lauten Knall hörte.
+
+  驚いて真っ青になった。
+  驚[おど]いて 真[ま]っ 青[さお]になった。
+  Ich wurde vor Schreck kreidebleich.
+
+  その光景に腰が抜けるほど驚いた。
+  その 光景[こうけい]に 腰[こし]が 抜[ぬ]けるほど 驚[おど]いた。
+  Ich war von diesem Anblick so erschrocken, dass mir fast das Herz in die Hose rutschte.
+
+  心臓が止まるほど驚いた瞬間だった。
+  心臓[しんぞう]が 止[と]まるほど 驚[おど]いた 瞬間[しゅんかん]だった。
+  Es war ein Moment, in dem ich mich so erschrak, dass mir fast das Herz stehenblieb.
+
+  驚いて逃げ出したくなる状況だった。
+  驚[おど]いて 逃[に]げ 出[だ]したくなる 状況[じょうきょう]だった。
+  Es war eine Situation, in der man am liebsten erschrocken davongelaufen wäre.
+
+  「こりゃあ驚くね」と私は言った。
+  「こりゃあ 驚[おど]くね」と 私[わたし]は 言[い]った。
+  "Das ist ja überraschend", sagte ich.
+
+  雑誌のグラビアをそのまま引きのばしたにしては驚くほど鮮明な写真だった。
+  雑誌[ざっし]のグラビアをそのまま 引[ひ]きのばしたにしては 驚[おど]くほど 鮮明[せんめい]な 写真[しゃしん]だった。
+  Für eine Vergrößerung direkt von der Fotoseite war die Aufnahme erstaunlich scharf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

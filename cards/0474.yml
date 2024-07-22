@@ -1,7 +1,7 @@
 Rang: 474
 Lemma: もらう
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 貰う
 Definition: bekommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: もらわない・もらった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   友達にすてきな絵をもらった。
   友達[ともだち]にすてきな 絵[え]をもらった。
   Ein Freund hat mir ein schönes Bild gegeben.
+
+  今年の誕生日に素敵なプレゼントをもらいました。
+  今年[ことし]の 誕生日[たんじょうび]に 素敵[すてき]なプレゼントをもらいました。
+  Ich habe zu meinem Geburtstag dieses Jahr ein tolles Geschenk bekommen.
+
+  返事をもらわなかったので、もう一度メールを送りました。
+  返事[へんじ]をもらわなかったので、もう一度[いちど] メールを 送[おく]りました。
+  Da ich keine Antwort erhalten habe, habe ich noch einmal eine E-Mail geschickt.
+
+  来月から年金をもらえるようになります。
+  来月[らいげつ]から 年金[ねんきん]をもらえるようになります。
+  Ab nächstem Monat werde ich Rente beziehen können.
+
+  有名な歌手からサインをもらって、とても嬉しかったです。
+  有名[ゆうめい]な 歌手[かしゅ]からサインをもらって、とても 嬉[うれ]しかったです。
+  Ich war sehr glücklich, ein Autogramm von einem berühmten Sänger bekommen zu haben.
+
+  友達の結婚式で花嫁から花束をもらいました。
+  友達[ともだち]の 結婚式[けっこんしき]で 花嫁[はなよめ]から 花束[はなたば]をもらいました。
+  Bei der Hochzeit meines Freundes habe ich von der Braut einen Blumenstrauß erhalten.
+
+  風邪をもらわないように、マスクを着用しましょう。
+  風邪[かぜ]をもらわないように、マスクを 着用[ちゃくよう]しましょう。
+  Lasst uns Masken tragen, um uns nicht zu erkälten.
+
+  この仕事は私がもらいます。任せてください。
+  この 仕事[しごと]は 私[わたし]がもらいます。任[まか]せてください。
+  Ich übernehme diese Aufgabe. Überlassen Sie es mir.
+
+  両親が養子をもらうことを決めました。
+  両親[りょうしん]が 養子[ようし]をもらうことを 決[き]めました。
+  Meine Eltern haben beschlossen, ein Kind zu adoptieren.
+
+  コーヒーをもう一杯もらえますか？
+  コーヒーをもう一杯[いっぱい]もらえますか？
+  Könnte ich noch eine Tasse Kaffee bekommen?
+
+  彼女は大学を卒業したら、良い会社に就職先をもらいたいと思っています。
+  彼女[かのじょ]は 大学[だいがく]を 卒業[そつぎょう]したら、良[よ]い 会社[かいしゃ]に 就職先[しゅうしょくさき]をもらいたいと 思[おも]っています。
+  Sie möchte nach ihrem Universitätsabschluss eine Stelle bei einem guten Unternehmen bekommen.
+
+  先生に宿題を見てもらいました。
+  先生[せんせい]に 宿題[しゅくだい]を 見[み]てもらいました。
+  Ich habe den Lehrer meine Hausaufgaben überprüfen lassen.
+
+  美容院で髪を切ってもらう予約をしました。
+  美容院[びよういん]で 髪[かみ]を 切[き]ってもらう 予約[よやく]をしました。
+  Ich habe einen Termin gemacht, um mir im Friseursalon die Haare schneiden zu lassen.
+
+  新しい携帯電話の使い方を店員さんに教えてもらいました。
+  新[あたら]しい 携帯電話[けいたいでんわ]の 使[つか]い方[かた]を 店員[てんいん]さんに 教[おし]えてもらいました。
+  Ich habe mir vom Verkäufer die Bedienung meines neuen Handys erklären lassen.
+
+  友達に英語の宿題を手伝ってもらって助かりました。
+  友達[ともだち]に 英語[えいご]の 宿題[しゅくだい]を 手伝[てつだ]ってもらって 助[たす]かりました。
+  Es hat mir sehr geholfen, dass mein Freund mir bei den Englisch-Hausaufgaben geholfen hat.
+
+  明日の会議の時間を変更してもらえませんか？
+  明日[あした]の 会議[かいぎ]の 時間[じかん]を 変更[へんこう]してもらえませんか？
+  Könnten Sie bitte die Zeit für das morgige Meeting ändern?
+
+  子供に早く寝てもらいたいのですが、なかなか寝てくれません。
+  子供[こども]に 早[はや]く 寝[ね]てもらいたいのですが、なかなか 寝[ね]てくれません。
+  Ich möchte, dass die Kinder früh schlafen gehen, aber sie gehen einfach nicht ins Bett.
+
+  上司に昇給してもらえて、とても嬉しいです。
+  上司[じょうし]に 昇給[しょうきゅう]してもらえて、とても 嬉[うれ]しいです。
+  Ich bin sehr glücklich, dass mein Chef mir eine Gehaltserhöhung gegeben hat.
+
+  彼に誤解してもらっては困ります。よく説明しないといけませんね。
+  彼[かれ]に 誤解[ごかい]してもらっては 困[こま]ります。よく 説明[せつめい]しないといけませんね。
+  Es wäre problematisch, wenn er mich missverstehen würde. Ich sollte es ihm gut erklären.
+
+  この本、面白いから読んでもらいたいな。
+  この本[ほん]、面白[おもしろ]いから 読[よ]んでもらいたいな。
+  Dieses Buch ist interessant, ich möchte, dass du es liest.
+
+  新しい制服を会社からもらいました。
+  新[あたら]しい 制服[せいふく]を 会社[かいしゃ]からもらいました。
+  Ich habe von der Firma eine neue Uniform erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

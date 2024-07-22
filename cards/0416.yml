@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">た</span><span 
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 与えない・与えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   私は彼女の両親に良い印象を与えようと努めた。
   私[わたし]は 彼女[かのじょ]の 両親[りょうしん]に 良[よ]い 印象[いんしょう]を 与[あた]えようと 努[つと]めた。
   Ich habe versucht, bei ihren Eltern einen guten Eindruck zu hinterlassen.
+
+  彼は友人に大切な忠告を与えた。
+  彼[かれ]は 友人[ゆうじん]に 大切[たいせつ]な 忠告[ちゅうこく]を 与[あた]えた。
+  Er gab seinem Freund einen wichtigen Rat.
+
+  医者は患者に栄養剤を与えて体力の回復を促した。
+  医者[いしゃ]は 患者[かんじゃ]に 栄養剤[えいようざい]を 与[あた]えて 体力[たいりょく]の 回復[かいふく]を 促[うなが]した。
+  Der Arzt verabreichte dem Patienten ein Vitaminpräparat, um seine Genesung zu fördern.
+
+  毎週、庭の花に肥料を与えることを忘れないでください。
+  毎週[まいしゅう]、庭[にわ]の 花[はな]に 肥料[ひりょう]を 与[あた]えることを 忘[わす]れないでください。
+  Vergessen Sie nicht, die Blumen im Garten jede Woche zu düngen.
+
+  この温泉は、訪れる人々に心身の快楽を与えてくれる。
+  この 温泉[おんせん]は、訪[おとず]れる 人々[ひとびと]に 心身[しんしん]の 快楽[かいらく]を 与[あた]えてくれる。
+  Diese heiße Quelle bietet den Besuchern körperliche und geistige Entspannung.
+
+  先生は生徒たちに貴重な教えを与え続けている。
+  先生[せんせい]は 生徒[せいと]たちに 貴重[きちょう]な 教[おし]えを 与[あた]え 続[つづ]けている。
+  Der Lehrer vermittelt den Schülern weiterhin wertvolle Lehren.
+
+  毎朝、庭の鳥たちに餌を与えるのが私の日課だ。
+  毎朝[まいあさ]、庭[にわ]の 鳥[とり]たちに 餌[えさ]を 与[あた]えるのが 私[わたし]の 日課[にっか]だ。
+  Es gehört zu meiner täglichen Routine, jeden Morgen die Vögel im Garten zu füttern.
+
+  政府は災害被災者に食料を与える支援活動を行っている。
+  政府[せいふ]は 災害被災者[さいがいひさいしゃ]に 食料[しょくりょう]を 与[あた]える 支援活動[しえんかつどう]を 行[おこな]っている。
+  Die Regierung führt Hilfsmaßnahmen durch, um die Katastrophenopfer mit Lebensmitteln zu versorgen.
+
+  この小説家は今年の文学賞を与えられ、大変喜んでいる。
+  この 小説家[しょうせつか]は 今年[ことし]の 文学賞[ぶんがくしょう]を 与[あた]えられ、大変[たいへん] 喜[よろこ]んでいる。
+  Der Schriftsteller ist überglücklich, dass ihm dieses Jahr der Literaturpreis verliehen wurde.
+
+  長年の功績により、彼女に勲章が与えられた。
+  長年[ながねん]の 功績[こうせき]により、彼女[かのじょ]に 勲章[くんしょう]が 与[あた]えられた。
+  Aufgrund ihrer langjährigen Verdienste wurde ihr ein Orden verliehen.
+
+  新入社員には個別の部屋が与えられ、快適に仕事ができる環境が整えられた。
+  新入社員[しんにゅうしゃいん]には 個別[こべつ]の 部屋[へや]が 与[あた]えられ、快適[かいてき]に 仕事[しごと]ができる 環境[かんきょう]が 整[ととの]えられた。
+  Den neuen Mitarbeitern wurden Einzelbüros zugewiesen, um eine angenehme Arbeitsumgebung zu schaffen.
+
+  プロジェクトリーダーは各メンバーに適切な役割を与えた。
+  プロジェクトリーダーは 各[かく] メンバーに 適切[てきせつ]な 役割[やくわり]を 与[あた]えた。
+  Der Projektleiter teilte jedem Teammitglied eine passende Aufgabe zu.
+
+  先生は生徒たちに難しい課題を与え、彼らの能力を試した。
+  先生[せんせい]は 生徒[せいと]たちに 難[むずか]しい 課題[かだい]を 与[あた]え、彼[かれ]らの 能力[のうりょく]を 試[ため]した。
+  Der Lehrer stellte den Schülern eine schwierige Aufgabe, um ihre Fähigkeiten zu testen.
+
+  上司は部下に新しい仕事を与え、その成果に期待をかけている。
+  上司[じょうし]は 部下[ぶか]に 新[あたら]しい 仕事[しごと]を 与[あた]え、その 成果[せいか]に 期待[きたい]をかけている。
+  Der Vorgesetzte hat seinem Untergebenen eine neue Aufgabe zugeteilt und erwartet gute Ergebnisse.
+
+  裁判所は被告人に弁明の機会を与えた。
+  裁判所[さいばんしょ]は 被告人[ひこくにん]に 弁明[べんめい]の 機会[きかい]を 与[あた]えた。
+  Das Gericht gab dem Angeklagten die Gelegenheit, sich zu rechtfertigen.
+
+  親は子供に適度な自由を与えることで、自立心を育てようとしている。
+  親[おや]は 子供[こども]に 適度[てきど]な 自由[じゆう]を 与[あた]えることで、自立心[じりつしん]を 育[そだ]てようとしている。
+  Die Eltern versuchen, die Selbstständigkeit ihrer Kinder zu fördern, indem sie ihnen angemessene Freiheiten gewähren.
+
+  新しい法律により、外国人労働者により多くの権利が与えられた。
+  新[あたら]しい 法律[ほうりつ]により、外国人労働者[がいこくじんろうどうしゃ]により 多[おお]くの 権利[けんり]が 与[あた]えられた。
+  Das neue Gesetz gewährt ausländischen Arbeitnehmern mehr Rechte.
+
+  会社は従業員に十分な休暇を与え、リフレッシュの時間を確保している。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]に 十分[じゅうぶん]な 休暇[きゅうか]を 与[あた]え、リフレッシュの 時間[じかん]を 確保[かくほ]している。
+  Das Unternehmen gibt seinen Mitarbeitern ausreichend Urlaub, um sich zu erholen.
+
+  彼の発言は多くの人々に不満を与える結果となった。
+  彼[かれ]の 発言[はつげん]は 多[おお]くの 人々[ひとびと]に 不満[ふまん]を 与[あた]える 結果[けっか]となった。
+  Seine Äußerung führte dazu, dass viele Menschen unzufrieden wurden.
+
+  その画期的な発明は科学界に大きな影響を与えた。
+  その 画期的[かっきてき]な 発明[はつめい]は 科学界[かがくかい]に 大[おお]きな 影響[えいきょう]を 与[あた]えた。
+  Diese bahnbrechende Erfindung hatte einen großen Einfluss auf die wissenschaftliche Gemeinschaft.
+
+  彼女の演技は観客に深い感動を与えた。
+  彼女[かのじょ]の 演技[えんぎ]は 観客[かんきゃく]に 深[ふか]い 感動[かんどう]を 与[あた]えた。
+  Ihr Schauspiel berührte das Publikum zutiefst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

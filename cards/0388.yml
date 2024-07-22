@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">じ</span><span 
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 始めない・始めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   いつ日本語の勉強を始めたんですか。
   いつ 日本語[にほんご]の 勉強[べんきょう]を 始[はじ]めたんですか。
   Wann hast du angefangen, Japanisch zu lernen?
+
+  私は来週からバイオリンを始めます。
+  わたしは 来週[らいしゅう]からバイオリンを 始[はじ]めます。
+  Ich fange nächste Woche an, Geige zu spielen.
+
+  彼女と文通を始めてから、毎日手紙を書いています。
+  彼女[かのじょ]と 文通[ぶんつう]を 始[はじ]めてから、毎日[まいにち] 手紙[てがみ]を 書[か]いています。
+  Seitdem ich mit ihr einen Briefwechsel begonnen habe, schreibe ich jeden Tag einen Brief.
+
+  じゃんけんで誰から始めるかを決めましょう。
+  じゃんけんで 誰[だれ]から 始[はじ]めるかを 決[き]めましょう。
+  Lass uns mit Schere-Stein-Papier entscheiden, wer anfängt.
+
+  大学でドイツ語を始めたばかりです。
+  大学[だいがく]でドイツ 語[ご]を 始[はじ]めたばかりです。
+  Ich habe gerade erst angefangen, an der Uni Deutsch zu lernen.
+
+  会議を始める前に、資料を配布してください。
+  会議[かいぎ]を 始[はじ]める 前[まえ]に、資料[しりょう]を 配布[はいふ]してください。
+  Bitte verteilen Sie die Unterlagen, bevor wir die Besprechung beginnen.
+
+  子供たちが喧嘩を始めたので、すぐに止めに入りました。
+  子供[こども]たちが 喧嘩[けんか]を 始[はじ]めたので、すぐに 止[と]めに 入[はい]りました。
+  Als die Kinder anfingen zu streiten, schritt ich sofort ein, um sie zu stoppen.
+
+  もう一度最初から始めてみましょう。
+  もう 一度[いちど] 最初[さいしょ]から 始[はじ]めてみましょう。
+  Lass uns noch einmal von vorne anfangen.
+
+  彼は6歳からバイオリンを始めたそうです。
+  彼[かれ]は6歳[さい]からバイオリンを 始[はじ]めたそうです。
+  Er soll mit sechs Jahren angefangen haben, Geige zu spielen.
+
+  朝は静かな曲で始めるのが好きです。
+  朝[あさ]は 静[しず]かな 曲[きょく]で 始[はじ]めるのが 好[す]きです。
+  Ich mag es, den Morgen mit einem ruhigen Lied zu beginnen.
+
+  新しい趣味としてテニスを始めることにしました。
+  新[あたら]しい 趣味[しゅみ]としてテニスを 始[はじ]めることにしました。
+  Ich habe beschlossen, mit Tennis als neues Hobby anzufangen.
+
+  ゼロから始めるのは大変だけど、やりがいがあります。
+  ゼロから 始[はじ]めるのは 大変[たいへん]だけど、やりがいがあります。
+  Bei null anzufangen ist zwar schwierig, aber es lohnt sich.
+
+  彼は頭の中で暗算を始めた。
+  彼[かれ]は 頭[あたま]の 中[なか]で 暗算[あんざん]を 始[はじ]めた。
+  Er fing an, im Kopf zu rechnen.
+
+  店員たちは閉店後、後片付けを始めました。
+  店員[てんいん]たちは 閉店後[へいてんご]、後片付[あとかたづ]けを 始[はじ]めました。
+  Nach Ladenschluss begannen die Angestellten mit dem Aufräumen.
+
+  二人は些細なことから激しい口論を始めてしまった。
+  二人[ふたり]は 些細[ささい]なことから 激[はげ]しい 口論[こうろん]を 始[はじ]めてしまった。
+  Die beiden begannen wegen einer Kleinigkeit einen heftigen Streit.
+
+  警察は事件の調査を始めた。
+  警察[けいさつ]は 事件[じけん]の 調査[ちょうさ]を 始[はじ]めた。
+  Die Polizei hat mit der Untersuchung des Vorfalls begonnen.
+
+  具体的な問題から始めましょう。
+  具体的[ぐたいてき]な 問題[もんだい]から 始[はじ]めましょう。
+  Lass uns mit einem konkreten Problem beginnen.
+
+  彼女は自分の店を始めるために貯金をしています。
+  彼女[かのじょ]は 自分[じぶん]の 店[みせ]を 始[はじ]めるために 貯金[ちょきん]をしています。
+  Sie spart, um ihren eigenen Laden zu eröffnen.
+
+  新しい事業を始めるには多くの準備が必要です。
+  新[あたら]しい 事業[じぎょう]を 始[はじ]めるには 多[おお]くの 準備[じゅんび]が 必要[ひつよう]です。
+  Um ein neues Geschäft zu gründen, ist viel Vorbereitung nötig.
+
+  突然雨が降り始めたので、急いで傘を開きました。
+  突然[とつぜん] 雨[あめ]が 降[ふ]り 始[はじ]めたので、急[いそ]いで 傘[かさ]を 開[ひら]きました。
+  Als es plötzlich anfing zu regnen, öffnete ich schnell meinen Schirm.
+
+  赤ちゃんが歩き始めたので、家中に危険なものがないか確認しました。
+  赤[あか]ちゃんが 歩[ある]き 始[はじ]めたので、家中[いえじゅう]に 危険[きけん]なものがないか 確認[かくにん]しました。
+  Da das Baby angefangen hat zu laufen, habe ich das ganze Haus nach gefährlichen Gegenständen abgesucht.
+
+  彼女の冗談を聞いて、みんなが笑い始めました。
+  彼女[かのじょ]の 冗談[じょうだん]を 聞[き]いて、みんなが 笑[わら]い 始[はじ]めました。
+  Als sie ihren Witz erzählte, fingen alle an zu lachen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

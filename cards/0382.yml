@@ -1,15 +1,15 @@
 Rang: 382
 Lemma: 選ぶ
 Lesung: えらぶ
-Alternativschreibweisen: ''
-Definition: wählen
+Alternativschreibweisen: 択ぶ・撰ぶ
+Definition: (aus-)wählen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>え</span><span class="accent_top">ら</span><span>ぶ</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 選ばない・選んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は結婚して主婦になる道を選んだ。
   彼女[かのじょ]は 結婚[けっこん]して 主婦[しゅふ]になる 道[みち]を 選[えら]んだ。
   Sie hat sich dafür entschieden, zu heiraten und Hausfrau zu werden.
+
+  どの本を選びますか？
+  どの 本[ほん]を 選[えら]びますか？
+  Welches Buch wählst du aus?
+
+  自分で選んだ服を着るのが好きです。
+  自分[じぶん]で 選[えら]んだ 服[ふく]を 着[き]るのが 好[す]きです。
+  Ich trage gerne Kleidung, die ich selbst ausgesucht habe.
+
+  新しい社長を選ぶ投票が行われます。
+  新[あたら]しい 社長[しゃちょう]を 選[えら]ぶ 投票[とうひょう]が 行[おこな]われます。
+  Es findet eine Abstimmung zur Wahl des neuen Firmenpräsidenten statt.
+
+  彼女は慎重に言葉を選んで話します。
+  彼女[かのじょ]は 慎重[しんちょう]に 言葉[ことば]を 選[えら]んで 話[はな]します。
+  Sie wählt ihre Worte sorgfältig, wenn sie spricht.
+
+  自由に選んでいいよ。何が欲しい？
+  自由[じゆう]に 選[えら]んでいいよ。何[なに]が 欲[ほ]しい？
+  Du kannst frei wählen. Was möchtest du haben?
+
+  友達は自分で選べるけど、家族は選べないね。
+  友達[ともだち]は 自分[じぶん]で 選[えら]べるけど、家族[かぞく]は 選[えら]べないね。
+  Freunde kann man sich aussuchen, aber Familie nicht.
+
+  この仕事を選んだ理由は何ですか？
+  この 仕事[しごと]を 選[えら]んだ 理由[りゆう]は 何[なん]ですか？
+  Warum haben Sie sich für diesen Beruf entschieden?
+
+  彼は名誉よりもお金を選びました。
+  彼[かれ]は 名誉[めいよ]よりもお 金[かね]を 選[えら]びました。
+  Er hat sich für das Geld und gegen die Ehre entschieden.
+
+  市民が直接市長を選ぶ制度があります。
+  市民[しみん]が 直接[ちょくせつ] 市長[しちょう]を 選[えら]ぶ 制度[せいど]があります。
+  Es gibt ein System, bei dem die Bürger direkt den Bürgermeister wählen.
+
+  彼女を妻に選んだことを後悔していません。
+  彼女[かのじょ]を 妻[つま]に 選[えら]んだことを 後悔[こうかい]していません。
+  Ich bereue es nicht, sie zu meiner Frau gewählt zu haben.
+
+  選ばれた人だけが特別な研修を受けられます。
+  選[えら]ばれた 人[ひと]だけが 特別[とくべつ]な 研修[けんしゅう]を 受[う]けられます。
+  Nur ausgewählte Personen können an der speziellen Schulung teilnehmen.
+
+  どちらを選んでも結果は同じです。
+  どちらを 選[えら]んでも 結果[けっか]は 同[おな]じです。
+  Egal, welche Option du wählst, das Ergebnis wird dasselbe sein.
+
+  彼は手段を選ばず目標を達成しようとしています。
+  彼[かれ]は 手段[しゅだん]を 選[えら]ばず 目標[もくひょう]を 達成[たっせい]しようとしています。
+  Er versucht, sein Ziel mit allen Mitteln zu erreichen.
+
+  新しい詩集を選んで出版する予定です。
+  新[あたら]しい 詩集[ししゅう]を 選[えら]んで 出版[しゅっぱん]する 予定[よてい]です。
+  Wir planen, eine neue Gedichtsammlung auszuwählen und zu veröffentlichen.
+
+  もう選びようがないので、これにします。
+  もう 選[えら]びようがないので、これにします。
+  Da ich keine andere Wahl habe, nehme ich das.
+
+  相手を選ばず誰とでも話せる人は素晴らしいです。
+  相手[あいて]を 選[えら]ばず 誰[だれ]とでも 話[はな]せる 人[ひと]は 素晴[すば]らしいです。
+  Menschen, die mit jedem reden können, ohne zu wählen, sind großartig.
+
+  慎重に選んだ結果、この大学に決めました。
+  慎重[しんちょう]に 選[えら]んだ 結果[けっか]、この 大学[だいがく]に 決[き]めました。
+  Nach sorgfältiger Auswahl habe ich mich für diese Universität entschieden.
+
+  良い友達を選ぶことは人生で大切です。
+  良[よ]い 友達[ともだち]を 選[えら]ぶことは 人生[じんせい]で 大切[たいせつ]です。
+  Gute Freunde zu wählen ist im Leben wichtig.
+
+  彼は常に最適な戦略を選びます。
+  彼[かれ]は 常[つね]に 最適[さいてき]な 戦略[せんりゃく]を 選[えら]びます。
+  Er wählt stets die optimale Strategie.
+
+  選挙で投票する前に、候補者をよく調べましょう。
+  選挙[せんきょ]で 投票[とうひょう]する 前[まえ]に、候補者[こうほしゃ]をよく 調[しら]べましょう。
+  Lassen Sie uns die Kandidaten gründlich recherchieren, bevor wir bei der Wahl abstimmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

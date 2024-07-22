@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">つ</span><span 
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 美しくない・美しくなかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   美しい自然に囲まれている。
   美[うつく]しい 自然[しぜん]に 囲[かこ]まれている。
   Es ist von schöner Natur umgeben.
+
+  彼女は美しい笑顔で私を迎えてくれた。
+  彼女[かのじょ]は 美[うつく]しい 笑顔[えがお]で 私[わたし]を 迎[むか]えてくれた。
+  Sie begrüßte mich mit einem schönen Lächeln.
+
+  この町の夕焼けは特に美しいです。
+  この 町[まち]の 夕焼[ゆうや]けは 特[とく]に 美[うつく]しいです。
+  Das Abendrot in dieser Stadt ist besonders schön.
+
+  彼女の声は美しく、聴衆を魅了した。
+  彼女[かのじょ]の 声[こえ]は 美[うつく]しく、聴衆[ちょうしゅう]を 魅了[みりょう]した。
+  Ihre Stimme war wunderschön und bezauberte das Publikum.
+
+  子供たちは美しい夢を見ていた。
+  子供[こども]たちは 美[うつく]しい 夢[ゆめ]を 見[み]ていた。
+  Die Kinder hatten schöne Träume.
+
+  このバラは形が美しい。
+  このバラは 形[かたち]が 美[うつく]しい。
+  Diese Rose hat eine schöne Form.
+
+  メイクで顔を美しくする方法を教えてください。
+  メイクで 顔[かお]を 美[うつく]しくする 方法[ほうほう]を 教[おし]えてください。
+  Bitte zeigen Sie mir, wie ich mein Gesicht mit Make-up verschönern kann.
+
+  春になると、自然が美しくなります。
+  春[はる]になると、自然[しぜん]が 美[うつく]しくなります。
+  Im Frühling wird die Natur schön.
+
+  彼女の美しさは誰もが認めるところだ。
+  彼女[かのじょ]の 美[うつく]しさは 誰[だれ]もが 認[みと]めるところだ。
+  Ihre Schönheit wird von allen anerkannt.
+
+  気品があって、聡明で、美しい女性です。
+  気品[きひん]があって、聡明[そうめい]で、美[うつく]しい 女性[じょせい]です。
+  Sie ist eine elegante, kluge und schöne Frau.
+
+  美しい紺色をおびていた海が次第に冷たい黒色に変わった。
+  美[うつく]しい 紺色[こんいろ]をおびていた 海[うみ]が 次第[しだい]に 冷[つめ]たい 黒色[こくしょく]に 変[か]わった。
+  Das schöne tiefe Blau des Meeres hatte sich nach und nach in ein kaltes Schwarz verwandelt.
+
+  地上でもっとも美しいものは金閣だと、お父さんが言われたのは本当です。
+  地上[ちじょう]でもっとも 美[うつく]しいものは 金閣[きんかく]だと、お父[とう]さんが 言[い]われたのは 本当[ほんとう]です。
+  Was du, Vater, mir gesagt hast: das Schönste auf der Erde ist die Goldene Halle, es ist wahr.
+
+  秋は穏やかな日ざしに満ちて、いつよりも美しかった。
+  秋[あき]は 穏[おだ]やかな 日[ひ]ざしに 満[み]ちて、いつよりも 美[うつく]しかった。
+  Der Herbst war schöner als je, voll sanfter Sonne.
+
+  美しいと感じたものを、そのまま美しく表現しようと努力する甘さ、おろかしさ。
+  美[うつく]しいと 感[かん]じたものを、そのまま 美[うつく]しく 表現[ひょうげん]しようと 努力[どりょく]する 甘[あま]さ、おろかしさ。
+  Als schön Empfundenes in genau dieser Schönheit abbilden zu wollen – welche Einfalt!
+
+  彼女の魂の美しさに感動した。
+  彼女[かのじょ]の 魂[たましい]の 美[うつく]しさに 感動[かんどう]した。
+  Ich war von der Schönheit ihrer Seele bewegt.
+
+  この絵画の美しさは言葉では表現できない。
+  この 絵画[かいが]の 美[うつく]しさは 言葉[ことば]では 表現[ひょうげん]できない。
+  Die Schönheit dieses Gemäldes lässt sich nicht in Worte fassen.
+
+  美しい音楽が心を癒してくれる。
+  美[うつく]しい 音楽[おんがく]が 心[こころ]を 癒[いや]してくれる。
+  Schöne Musik heilt die Seele.
+
+  彼女は美しい衣装を身にまとっていた。
+  彼女[かのじょ]は 美[うつく]しい 衣装[いしょう]を 身[み]にまとっていた。
+  Sie trug ein wunderschönes Kleid.
+
+  この庭園の景色は四季を通じて美しい。
+  この 庭園[ていえん]の 景色[けしき]は 四季[しき]を 通[とお]じて 美[うつく]しい。
+  Die Landschaft dieses Gartens ist das ganze Jahr über schön.
+
+  美しい言葉で相手の心を癒すことができる。
+  美[うつく]しい 言葉[ことば]で 相手[あいて]の 心[こころ]を 癒[いや]すことができる。
+  Mit schönen Worten kann man das Herz des anderen heilen.
+
+  この美しい風景を写真に収めたい。
+  この 美[うつく]しい 風景[ふうけい]を 写真[しゃしん]に 収[おさ]めたい。
+  Ich möchte diese schöne Landschaft fotografieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

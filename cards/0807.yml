@@ -1,7 +1,7 @@
 Rang: 807
 Lemma: 払う
 Lesung: はらう
-Alternativschreibweisen: ''
+Alternativschreibweisen: 掃う
 Definition: bezahlen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_top">ら</span><span>�
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 払わない・払った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,106 @@ Beispielsätze: |-
   私が払います。
   私[わたし]が 払[はら]います。
   Ich werde die Rechnung bezahlen.
+
+  賃金を払う日は毎月25日です。
+  賃金[ちんぎん]を 払[はら]う 日[ひ]は 毎月[まいつき]25日[にち]です。
+  Der Lohnzahlungstag ist jeden Monat der 25.
+
+  現金で払いたいのですが、カードしか使えないそうです。
+  現金[げんきん]で 払[はら]いたいのですが、カードしか 使[つか]えないそうです。
+  Ich möchte bar bezahlen, aber anscheinend kann man nur mit Karte zahlen.
+
+  カードで払おうとしたら、機械が故障していました。
+  カードで 払[はら]おうとしたら、機械[きかい]が 故障[こしょう]していました。
+  Als ich mit Karte bezahlen wollte, war das Gerät defekt.
+
+  勘定を払って、すぐに帰ろう。
+  勘定[かんじょう]を 払[はら]って、すぐに 帰[かえ]ろう。
+  Lass uns die Rechnung bezahlen und sofort nach Hause gehen.
+
+  前に払っておいたので、今日は支払いの必要はありません。
+  前[まえ]に 払[はら]っておいたので、今日[きょう]は 支払[しはら]いの 必要[ひつよう]はありません。
+  Da ich im Voraus bezahlt habe, muss ich heute nichts zahlen.
+
+  残らず払うには、あと3ヶ月かかりそうです。
+  残[のこ]らず 払[はら]うには、あと3ヶ月[かげつ]かかりそうです。
+  Es wird wohl noch 3 Monate dauern, bis ich alles vollständig abbezahlt habe.
+
+  ユーロで払えますか？日本円しか持っていないんです。
+  ユーロで 払[はら]えますか？日本円[にほんえん]しか 持[も]っていないんです。
+  Kann ich in Euro bezahlen? Ich habe nur japanische Yen dabei.
+
+  たしかに、依頼人は、金を払ってぼくを雇った、雇い主である。
+  たしかに、依頼人[いらいにん]は、金[かね]を 払[はら]ってぼくを 雇[やと]った、雇[やと]い 主[ぬし]である。
+  Klienten verpflichten mich gegen Bezahlung, sind mein Dienstherr, ohne Frage.
+
+  グリフィウスはその場で、いわれたとおりの額を払った。
+  グリフィウスはその 場[ば]で、いわれたとおりの 額[がく]を 払[はら]った。
+  Gryphius hatte die geforderte Summe auf der Stelle bezahlt.
+
+  工場のパート収入だけでは、膨れ上がった借金を返すどころか、その利子を払うので精一杯だった。
+  工場[こうじょう]のパート 収入[しゅうにゅう]だけでは、膨[ふく]れ 上[あ]がった 借金[しゃっきん]を 返[かえ]すどころか、その 利子[りし]を 払[はら]うので 精一杯[せいいっぱい]だった。
+  Mit dem Teilzeitarbeitslohn von der Fabrik konnte von einer Rückzahlung der angeschwollenen Schulden keine Rede sein – er reichte gerade so für die Zinsen.
+
+  埃を払って、部屋をきれいにしましょう。
+  埃[ほこり]を 払[はら]って、部屋[へや]をきれいにしましょう。
+  Lasst uns den Staub abwischen und das Zimmer sauber machen.
+
+  小枝を払って、道を歩きやすくした。
+  小枝[こえだ]を 払[はら]って、道[みち]を 歩[ある]きやすくした。
+  Ich entfernte die kleinen Zweige, um den Weg leichter begehbar zu machen.
+
+  彼女は優しく子供の涙を払ってあげた。
+  彼女[かのじょ]は 優[やさ]しく 子供[こども]の 涙[なみだ]を 払[はら]ってあげた。
+  Sie wischte sanft die Tränen des Kindes weg.
+
+  煤を払うのに、専門の道具を使うんだ。
+  煤[すす]を 払[はら]うのに、専門[せんもん]の 道具[どうぐ]を 使[つか]うんだ。
+  Um den Ruß zu entfernen, benutze ich spezielles Werkzeug.
+
+  コートを叩いて雪を払った。
+  コートを 叩[たた]いて 雪[ゆき]を 払[はら]った。
+  Ich klopfte meinen Mantel aus, um den Schnee abzuschütteln.
+
+  古い在庫を払って、新しい商品のスペースを作った。
+  古[ふる]い 在庫[ざいこ]を 払[はら]って、新[あたら]しい 商品[しょうひん]のスペースを 作[つく]った。
+  Wir haben alte Lagerbestände abgestoßen, um Platz für neue Waren zu schaffen.
+
+  迷惑な客を払って、店内を静かにした。
+  迷惑[めいわく]な 客[きゃく]を 払[はら]って、店内[てんない]を 静[しず]かにした。
+  Wir haben die störenden Gäste hinausgeschickt und das Geschäft beruhigt.
+
+  蚊を払うために、蚊取り線香を焚いた。
+  蚊[か]を 払[はら]うために、蚊取[かと]り 線香[せんこう]を 焚[た]いた。
+  Um die Mücken zu vertreiben, habe ich Mückenspiralen angezündet.
+
+  強い風が雲を払って、青空が広がった。
+  強[つよ]い 風[かぜ]が 雲[くも]を 払[はら]って、青空[あおぞら]が 広[ひろ]がった。
+  Ein starker Wind vertrieb die Wolken, und der blaue Himmel breitete sich aus.
+
+  下宿を払って実家に戻ることにした。
+  下宿[げしゅく]を 払[はら]って 実家[じっか]に 戻[もど]ることにした。
+  Ich habe beschlossen, aus meiner Unterkunft auszuziehen und in mein Elternhaus zurückzukehren.
+
+  敵の攻撃を剣で払い、反撃のチャンスを作った。
+  敵[てき]の 攻撃[こうげき]を 剣[けん]で 払[はら]い、反撃[はんげき]のチャンスを 作[つく]った。
+  Ich parierte den Angriff des Feindes mit dem Schwert und schuf eine Chance zum Gegenangriff.
+
+  彼は常に周囲に注意を払っている。
+  彼[かれ]は 常[つね]に 周囲[しゅうい]に 注意[ちゅうい]を 払[はら]っている。
+  Er schenkt seiner Umgebung stets Aufmerksamkeit.
+
+  この仕事には多くの犠牲を払わなければならない。
+  この 仕事[しごと]には 多[おお]くの 犠牲[ぎせい]を 払[はら]わなければならない。
+  Für diesen Job muss man viele Opfer bringen.
+
+  新しい技術に関心を払うことが、会社の発展につながる。
+  新[あたら]しい 技術[ぎじゅつ]に 関心[かんしん]を 払[はら]うことが、会社[かいしゃ]の 発展[はってん]につながる。
+  Der Firma Interesse für neue Technologien entgegenzubringen, führt zur Entwicklung des Unternehmens.
+
+  先輩に敬意を払うのは日本の文化だ。
+  先輩[せんぱい]に 敬意[けいい]を 払[はら]うのは 日本[にほん]の 文化[ぶんか]だ。
+  Den Älteren Respekt zu zollen, ist Teil der japanischen Kultur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

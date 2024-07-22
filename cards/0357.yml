@@ -1,15 +1,15 @@
 Rang: 357
 Lemma: うまい
 Lesung: ''
-Alternativschreibweisen: 上手い
-Definition: lecker, schmackhaft; geschickt
+Alternativschreibweisen: 甘い・旨い・上手い・巧い
+Definition: lecker; geschickt; günstig
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>う</span><span class="accent_top">ま</span><span>い</span>
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: うまくない・うまかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   この酒はうまい。
   この 酒[さけ]はうまい。
   Dieser Sake ist lecker.
+
+  このステーキはとてもうまい。
+  この ステーキは とても うまい。
+  Dieses Steak ist sehr lecker.
+
+  彼女の料理はいつもうまくて、みんなに評判がいい。
+  彼女[かのじょ]の 料理[りょうり]はいつも うまくて、みんなに 評判[ひょうばん]がいい。
+  Ihr Essen schmeckt immer so gut, dass es bei allen beliebt ist.
+
+  このレストランの肉がうまいと聞いたので、食べに来ました。
+  この レストランの 肉[にく]が うまいと 聞[き]いたので、食[た]べに 来[き]ました。
+  Ich habe gehört, dass das Fleisch in diesem Restaurant lecker ist, also bin ich zum Essen hergekommen.
+
+  「スイカって最高にうまいな」
+  「スイカって 最高[さいこう]に うまいな」
+  "Wassermelonen sind einfach superlecker!"
+
+  水とはこんなうまいものであるか。
+  水[みず]とはこんな うまいものであるか。
+  Ich hätte nie gedacht, dass Wasser so gut schmecken kann.
+
+  彼の書いた小説はとてもうまくて、読者を魅了している。
+  彼[かれ]の 書[か]いた 小説[しょうせつ]は とても うまくて、読者[どくしゃ]を 魅了[みりょう]している。
+  Der Roman, den er geschrieben hat, ist sehr gut und fesselt die Leser.
+
+  彼女の歌がうまいので、みんな驚いていた。
+  彼女[かのじょ]の 歌[うた]が うまいので、みんな 驚[おどろ]いていた。
+  Alle waren überrascht, wie gut sie singen konnte.
+
+  彼の字がうまいので、書道の先生になった。
+  彼[かれ]の 字[じ]が うまいので、書道[しょどう]の 先生[せんせい]になった。
+  Da er eine schöne Handschrift hat, wurde er Kalligraphielehrer.
+
+  彼女はお世辞がうまくて、周りの人に好かれている。
+  彼女[かのじょ]は お世辞[せじ]が うまくて、周[まわ]りの 人[ひと]に 好[す]かれている。
+  Sie ist sehr charmant und bei den Leuten um sie herum beliebt.
+
+  彼は客扱いがうまいので、接客の仕事に向いている。
+  彼[かれ]は 客扱[きゃくあつか]いが うまいので、接客[せっきゃく]の 仕事[しごと]に 向[む]いている。
+  Er ist sehr geschickt im Umgang mit Kunden, daher eignet er sich gut für den Kundenservice.
+
+  彼女は商売がうまいので、自分のビジネスを成功させた。
+  彼女[かのじょ]は 商売[しょうばい]が うまいので、自分[じぶん]の ビジネスを 成功[せいこう]させた。
+  Sie versteht sich gut aufs Geschäft und hat ihr eigenes Unternehmen erfolgreich gemacht.
+
+  「章太君はやっぱり絵がうまいわねえ。お父さんの影響かなあ」
+  「章太[しょうた]くんはやっぱり 絵[え]が うまいわねえ。お父[とう]さんの 影響[えいきょう]かなあ」
+  "Shota, du bist wirklich gut im Malen. Das hast du wohl von deinem Papa, oder?"
+
+  蔵書構成がうまいと、本を返すときにまた借りるという風に、貸し借りがうまく循環する。
+  蔵書構成[ぞうしょこうせい]が うまいと、本[ほん]を 返[かえ]すときにまた 借[か]りるという 風[ふう]に、貸[か]し 借[か]りが うまく 循環[じゅんかん]する。
+  Wenn eine Bibliothek gut sortiert ist, läuft der Ausleihbetrieb rund: Wer Bücher zurückbringt, nimmt auch wieder welche mit.
+
+  このプロジェクトはうまく行かないので、新しいアプローチが必要だ。
+  この プロジェクトは うまく 行[い]かないので、新[あたら]しい アプローチが 必要[ひつよう]だ。
+  Dieses Projekt läuft nicht gut, deshalb brauchen wir einen neuen Ansatz.
+
+  彼の提案はうまい話に聞こえるが、慎重に検討する必要がある。
+  彼[かれ]の 提案[ていあん]は うまい 話[はなし]に 聞[き]こえるが、慎重[しんちょう]に 検討[けんとう]する 必要[ひつよう]がある。
+  Sein Vorschlag klingt vielversprechend, aber wir müssen ihn sorgfältig prüfen.
+
+  うまい具合に、ちょうど雨が止んで外出できた。
+  うまい 具合[ぐあい]に、ちょうど 雨[あめ]が 止[や]んで 外出[がいしゅつ]できた。
+  Zum Glück hörte der Regen gerade auf, sodass wir ausgehen konnten.
+
+  そんなうまい話があるものか。
+  そんな うまい 話[はなし]が あるものか。
+  Das wäre zu schön, um wahr zu sein.
+
+  「こんなうまい話に…どうかしているよ…ぼくなら、一も二もなく、飛びついてしまうがね。」
+  「こんな うまい 話[はなし]に… どうかしているよ… ぼくなら、一[いち]も 二[に]もなく、飛[と]びついてしまうがね。」
+  "So ein tolles Angebot... worauf wartest du noch? Ich würde sofort zugreifen!"
+
+  ちょっと目端をきかせて用心してやれば、当分うまい商売ができらあ。
+  ちょっと 目端[めはし]をきかせて 用心[ようじん]してやれば、当分[とうぶん] うまい 商売[しょうばい]ができらあ。
+  Mit ein bisschen Scharfsinn und Vorsicht kann man eine Zeit lang gute Geschäfte machen.
+
+  彼女は口がうまいので、交渉が得意だ。
+  彼女[かのじょ]は 口[くち]が うまいので、交渉[こうしょう]が 得意[とくい]だ。
+  Sie hat ein Händchen für Worte und ist daher gut in Verhandlungen.
+
+  うまい物は宵に食え、腹の立つ事は明日言え。
+  うまい 物[もの]は 宵[よい]に 食[く]え、腹[はら]の 立[た]つ 事[こと]は 明日[あした] 言[い]え。
+  Genieße gutes Essen am Abend und verschiebe deinen Ärger auf morgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

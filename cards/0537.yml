@@ -1,8 +1,8 @@
 Rang: 537
 Lemma: いただく
 Lesung: ''
-Alternativschreibweisen: 頂く
-Definition: erhalten (bescheiden)
+Alternativschreibweisen: 頂く・戴く
+Definition: erhalten [bescheiden]
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">た</span><span class="accent_plain">だ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">た</span><span 
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: いただかない・いただいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   読者から手紙を頂いた。
   読者[どくしゃ]から 手紙[てがみ]を 頂[いただ]いた。
   Ich habe einen Brief von einem Leser erhalten.
+
+  お時間いただけますか。
+  お 時間[じかん]いただけますか。
+  Können Sie mir etwas Zeit geben?
+
+  お届けまでに約3週間をいただきます。
+  お 届[とど]けまでに 約[やく]3週間[しゅうかん]をいただきます。
+  Bis zur Auslieferung dauert es ca. drei Wochen.
+
+  坊っちゃんの手紙を頂いてから、すぐ返事をかこうと思った。
+  坊[ぼ]っちゃんの 手紙[てがみ]を 頂[いただ]いてから、すぐ 返事[へんじ]をかこうと 思[おも]った。
+  Als ich den Brief von Botchan erhielt, wollte ich ihn gleich beantworten.
+
+  休みを戴いて感謝しています。
+  休[やす]みを 戴[いただ]いて 感謝[かんしゃ]しています。
+  Ich bin dankbar für den Urlaub, den ich erhalten habe.
+
+  それをいただくわ。
+  それをいただくわ。
+  Das nehme ich.
+
+  こんなにぶらぶらしてて、これで給料をいただいていいのかなあと考えて恥ずかしくなる。
+  こんなにぶらぶらしてて、これで 給料[きゅうりょう]をいただいていいのかなあと 考[かんが]えて 恥[は]ずかしくなる。
+  Ich schäme mich, wenn ich so herumlungere und überlege, ob es in Ordnung ist, dafür Gehalt zu bekommen.
+
+  栂尾さん、僕に泰子さんを頂けないでしょうか。
+  栂尾[とがのお]さん、僕[ぼく]に 泰子[やすこ]さんを 頂[いただ]けないでしょうか。
+  Frau Toganō, dürfte ich Yasuko heiraten?
+
+  すっかりいただいた。
+  すっかりいただいた。
+  Ich habe alles aufgegessen.
+
+  もう十分にいただきました。
+  もう 十分[じゅうぶん]にいただきました。
+  Danke sehr, ich bin schon satt!
+
+  星をいただいて帰る。
+  星[ほし]をいただいて 帰[かえ]る。
+  Ich gehe unter dem Sternenhimmel nach Hause.
+
+  頭に雪をいただいた山が見える。
+  頭[あたま]に 雪[ゆき]をいただいた 山[やま]が 見[み]える。
+  Man kann einen schneebedeckten Berg sehen.
+
+  王冠をいただく儀式が行われた。
+  王冠[おうかん]をいただく 儀式[ぎしき]が 行[おこな]われた。
+  Die Zeremonie zur Krönung wurde durchgeführt.
+
+  遠く西南方に雪をいただいた高山が見え始める。
+  遠[とお]く 西南方[せいなんほう]に 雪[ゆき]をいただいた 高山[こうざん]が 見[み]え 始[はじ]める。
+  In der Ferne im Südwesten beginnen schneebedeckte hohe Berge sichtbar zu werden.
+
+  彼を会長にいただく決定がなされた。
+  彼[かれ]を 会長[かいちょう]にいただく 決定[けってい]がなされた。
+  Es wurde entschieden, ihn als Präsidenten zu haben.
+
+  皇帝をいただく国の伝統は長く続いている。
+  皇帝[こうてい]をいただく 国[くに]の 伝統[でんとう]は 長[なが]く 続[つづ]いている。
+  Die Tradition eines Landes mit einem Kaiser an der Spitze hält schon lange an.
+
+  美しい少女を団長にいただくことが、近頃のはやりだそうだ。
+  美[うつく]しい 少女[しょうじょ]を 団長[だんちょう]にいただくことが、 近頃[ちかごろ]のはやりだそうだ。
+  Es scheint in letzter Zeit in Mode zu sein, ein hübsches Mädchen zur Gruppenleiterin zu machen.
+
+  大統領の政治的人脈につらなる者を経営者にいただく会社だ。
+  大統領[だいとうりょう]の 政治的[せいじてき] 人脈[じんみゃく]につらなる 者[もの]を 経営者[けいえいしゃ]にいただく 会社[かいしゃ]だ。
+  Es ist eine Firma, deren Geschäftsführer in politischer Verbindung zum Präsidenten steht.
+
+  この試合はいただいたも同然だ。
+  この 試合[しあい]はいただいたも 同然[どうぜん]だ。
+  Dieses Spiel ist so gut wie gewonnen.
+
+  彼のアイデアをいただいて、新しいプロジェクトを始めた。
+  彼[かれ]のアイデアをいただいて、 新[あたら]しいプロジェクトを 始[はじ]めた。
+  Ich habe seine Idee übernommen und ein neues Projekt gestartet.
+
+  このご馳走、美味しくいただきます。
+  この ご馳走[ちそう]、 美味[おい]しくいただきます。
+  Ich werde diese köstliche Mahlzeit mit Genuss zu mir nehmen.
+
+  社長からお褒めの言葉をいただきました。
+  社長[しゃちょう]からお 褒[ほ]めの 言葉[ことば]をいただきました。
+  Ich habe vom Firmenchef lobende Worte erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

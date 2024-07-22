@@ -2,7 +2,7 @@ Rang: 401
 Lemma: 始まる
 Lesung: はじまる
 Alternativschreibweisen: ''
-Definition: fängt an, beginnt
+Definition: anfangen, beginnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">じ</span><span class="accent_plain">ま</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">じ</span><span 
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 始まらない・始まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   日本では新学期は四月に始まる。
   日本[にっぽん]では 新学期[しんがっき]は 四月[しがつ]に 始[はじ]まる。
   Das neue Schuljahr beginnt in Japan im April.
+
+  授業が始まるので、席に着いてください。
+  授業[じゅぎょう]が 始[はじ]まるので、席[せき]に 着[つ]いてください。
+  Der Unterricht fängt an, bitte nehmen Sie Platz.
+
+  新学期が始まったばかりで、みんな緊張している。
+  新学期[しんがっき]が 始[はじ]まったばかりで、みんな 緊張[きんちょう]している。
+  Das neue Semester hat gerade erst begonnen, und alle sind angespannt.
+
+  陣痛が始まったので、すぐに病院に行きました。
+  陣痛[じんつう]が 始[はじ]まったので、すぐに 病院[びょういん]に 行[い]きました。
+  Die Wehen haben eingesetzt, also bin ich sofort ins Krankenhaus gefahren.
+
+  会議は9時から始まりますので、遅刻しないようにしてください。
+  会議[かいぎ]は9時[じ]から 始[はじ]まりますので、遅刻[ちこく]しないようにしてください。
+  Die Konferenz beginnt um 9 Uhr, bitte seien Sie pünktlich.
+
+  工事が始まったので、騒音にご注意ください。
+  工事[こうじ]が 始[はじ]まったので、騒音[そうおん]にご 注意[ちゅうい]ください。
+  Die Bauarbeiten haben begonnen, bitte achten Sie auf den Lärm.
+
+  なんか変な音がしたけど、何事が始まったのかと思った。
+  なんか 変[へん]な 音[おと]がしたけど、何事[なにごと]が 始[はじ]まったのかと 思[おも]った。
+  Ich hörte ein seltsames Geräusch und fragte mich, was da los war.
+
+  最近始まった習慣で、毎朝ジョギングをしています。
+  最近[さいきん] 始[はじ]まった 習慣[しゅうかん]で、毎朝[まいあさ]ジョギングをしています。
+  Eine neu aufgekommene Gewohnheit ist, dass ich jeden Morgen jogge.
+
+  5時半に始まるっていうのに、まだ準備ができていない。
+  5時半[じはん]に 始[はじ]まるっていうのに、まだ 準備[じゅんび]ができていない。
+  Obwohl es um halb sechs anfängt, bin ich noch nicht fertig mit den Vorbereitungen.
+
+  失望は旅行の初日から始まった。
+  失望[しつぼう]は 旅行[りょこう]の 初日[しょにち]から 始[はじ]まった。
+  Die Enttäuschung begann bereits am ersten Tag der Reise.
+
+  来年から新しいプロジェクトが始まるという噂を聞いた。
+  来年[らいねん]から 新[あたら]しいプロジェクトが 始[はじ]まるという 噂[うわさ]を 聞[き]いた。
+  Ich habe das Gerücht gehört, dass nächstes Jahr ein neues Projekt beginnen soll.
+
+  この習慣は中世に始まったと言われています。
+  この 習慣[しゅうかん]は 中世[ちゅうせい]に 始[はじ]まったと 言[い]われています。
+  Es heißt, dass dieser Brauch im Mittelalter seinen Ursprung hat.
+
+  嫉妬から始まった喧嘩は、なかなか収まらなかった。
+  嫉妬[しっと]から 始[はじ]まった 喧嘩[けんか]は、なかなか 収[おさ]まらなかった。
+  Der aus Eifersucht entstandene Streit ließ sich nicht so leicht beilegen.
+
+  また始まった。彼の愚痴を聞くのはもう疲れた。
+  また 始[はじ]まった。彼[かれ]の 愚痴[ぐち]を 聞[き]くのはもう 疲[つか]れた。
+  Es geht schon wieder los. Ich bin es leid, sein Gejammer zu hören.
+
+  明日から会社が始まる。休暇が終わるのが寂しい。
+  明日[あした]から 会社[かいしゃ]が 始[はじ]まる。休暇[きゅうか]が 終[お]わるのが 寂[さび]しい。
+  Morgen geht es in der Firma wieder los. Es ist traurig, dass der Urlaub zu Ende ist.
+
+  また彼の我儘が始まった。もう我慢できない。
+  また 彼[かれ]の 我儘[わがまま]が 始[はじ]まった。もう 我慢[がまん]できない。
+  Schon wieder fängt er mit seiner Eigensinnigkeit an. Ich kann es nicht mehr ertragen.
+
+  泣いたって始まらないよ。前を向いて頑張ろう。
+  泣[な]いたって 始[はじ]まらないよ。前[まえ]を 向[む]いて 頑張[がんば]ろう。
+  Weinen bringt jetzt nichts. Lass uns nach vorne schauen und unser Bestes geben.
+
+  彼の遅刻は今に始まったことじゃないよ。いつものことだ。
+  彼[かれ]の 遅刻[ちこく]は 今[いま]に 始[はじ]まったことじゃないよ。いつものことだ。
+  Seine Verspätungen sind doch nichts Neues. Das ist immer so.
+
+  音楽会は7時に始まるので、6時半には会場に到着しましょう。
+  音楽会[おんがくかい]は7時[じ]に 始[はじ]まるので、6時半[じはん]には 会場[かいじょう]に 到着[とうちゃく]しましょう。
+  Das Konzert beginnt um 7 Uhr, also lasst uns um halb 7 am Veranstaltungsort ankommen.
+
+  新しい生活が始まるのは楽しみだけど、少し不安もある。
+  新[あたら]しい 生活[せいかつ]が 始[はじ]まるのは 楽[たの]しみだけど、少[すこ]し 不安[ふあん]もある。
+  Ich freue mich auf den Beginn des neuen Lebensabschnitts, aber ich bin auch ein bisschen nervös.
+
+  春が始まり、桜の花が咲き始めました。
+  春[はる]が 始[はじ]まり、桜[さくら]の 花[はな]が 咲[さ]き 始[はじ]めました。
+  Der Frühling hat begonnen, und die Kirschblüten fangen an zu blühen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

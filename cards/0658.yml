@@ -4,12 +4,12 @@ Lesung: わらう
 Alternativschreibweisen: ''
 Definition: lachen, lächeln
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>わ</span><span class="accent_plain">ら</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 笑わない・笑った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   みな大声で笑った。
   みな 大声[おおごえ]で 笑[わら]った。
   Sie lachten laut.
+
+  どっと笑って、教室中が大爆笑になった。
+  どっと 笑[わら]って、教室中[きょうしつちゅう]が 大爆笑[だいばくしょう]になった。
+  Alle brachen in schallendes Gelächter aus und der ganze Klassenraum war voller Lachen.
+
+  彼女はげらげら笑いながら、面白い話を聞かせてくれた。
+  彼女[かのじょ]はげらげら 笑[わら]いながら、面白[おもしろ]い 話[はなし]を 聞[き]かせてくれた。
+  Sie erzählte mir eine lustige Geschichte, während sie schallend lachte.
+
+  友達のジョークを聞いて、腹が痛くなるほど笑ってしまった。
+  友達[ともだち]のジョークを 聞[き]いて、腹[はら]が 痛[いた]くなるほど 笑[わら]ってしまった。
+  Als ich den Witz meines Freundes hörte, musste ich mich fast totlachen.
+
+  赤ちゃんが初めて笑った瞬間、両親は腹を抱えて笑った。
+  赤[あか]ちゃんが 初[はじ]めて 笑[わら]った 瞬間[しゅんかん]、両親[りょうしん]は 腹[はら]を 抱[かか]えて 笑[わら]った。
+  Als das Baby zum ersten Mal lachte, bogen sich die Eltern vor Lachen.
+
+  彼は箸が転んでも笑うタイプで、いつも明るい雰囲気を作り出す。
+  彼[かれ]は 箸[はし]が 転[ころ]んでも 笑[わら]うタイプで、いつも 明[あか]るい 雰囲気[ふんいき]を 作[つく]り 出[だ]す。
+  Er ist der Typ, der über alles lacht, und schafft immer eine fröhliche Atmosphäre.
+
+  上司は部下の失敗を呵々と笑った。
+  上司[じょうし]は 部下[ぶか]の 失敗[しっぱい]を 呵々[かか]と 笑[わら]った。
+  Der Vorgesetzte lachte laut über den Fehler seines Untergebenen.
+
+  彼女は気取って笑ったが、その笑顔は不自然に見えた。
+  彼女[かのじょ]は 気取[きど]って 笑[わら]ったが、その 笑顔[えがお]は 不自然[ふしぜん]に 見[み]えた。
+  Sie lachte geziert, aber ihr Lächeln wirkte unnatürlich.
+
+  隣の席の女の子たちがくすくす笑っていて、何か秘密の話をしているようだった。
+  隣[となり]の 席[せき]の 女[おんな]の 子[こ]たちがくすくす 笑[わら]っていて、何[なに]か 秘密[ひみつ]の 話[はなし]をしているようだった。
+  Die Mädchen am Nachbartisch kicherten und schienen über ein Geheimnis zu sprechen.
+
+  子供たちは遊園地でキャッキャッと笑いながら、楽しそうに遊んでいた。
+  子供[こども]たちは 遊園地[ゆうえんち]でキャッキャッと 笑[わら]いながら、楽[たの]しそうに 遊[あそ]んでいた。
+  Die Kinder spielten fröhlich im Vergnügungspark und lachten schrill.
+
+  コメディアンのギャグを見て、涙が出るほど笑ってしまった。
+  コメディアンのギャグを 見[み]て、涙[なみだ]が 出[で]るほど 笑[わら]ってしまった。
+  Ich musste so sehr über den Gag des Comedians lachen, dass mir die Tränen kamen.
+
+  おばあちゃんは孫の顔を見るとにっこりと笑う。
+  おばあちゃんは 孫[まご]の 顔[かお]を 見[み]るとにっこりと 笑[わら]う。
+  Die Großmutter lächelt freundlich, wenn sie das Gesicht ihres Enkels sieht.
+
+  彼女は良い知らせを聞いて、にこにこ笑いながら部屋に入ってきた。
+  彼女[かのじょ]は 良[よ]い 知[し]らせを 聞[き]いて、にこにこ 笑[わら]いながら 部屋[へや]に 入[はい]ってきた。
+  Sie kam strahlend ins Zimmer, nachdem sie die gute Nachricht gehört hatte.
+
+  彼は敵の失敗をにたにた笑って喜んでいた。
+  彼[かれ]は 敵[てき]の 失敗[しっぱい]をにたにた 笑[わら]って 喜[よろこ]んでいた。
+  Er grinste hämisch und freute sich über den Fehler seines Gegners.
+
+  隣の席の男がにやにや笑いながら、スマホを見ている。
+  隣[となり]の 席[せき]の 男[おとこ]がにやにや 笑[わら]いながら、スマホを 見[み]ている。
+  Der Mann am Nachbartisch grinst schmierig, während er auf sein Smartphone schaut.
+
+  彼は大きな声で笑いながら、面白い話を友達に聞かせた。
+  彼[かれ]は 大[おお]きな 声[こえ]で 笑[わら]いながら、面白[おもしろ]い 話[はなし]を 友達[ともだち]に 聞[き]かせた。
+  Er erzählte seinen Freunden laut lachend eine lustige Geschichte.
+
+  彼女の笑い方は独特で、誰もが彼女だとすぐに分かる。
+  彼女[かのじょ]の 笑[わら]い 方[かた]は 独特[どくとく]で、誰[だれ]もが 彼女[かのじょ]だとすぐに 分[わ]かる。
+  Ihre Art zu lachen ist einzigartig, jeder erkennt sie sofort daran.
+
+  子供たちは笑いながら公園を走り回っていた。
+  子供[こども]たちは 笑[わら]いながら 公園[こうえん]を 走[はし]り 回[まわ]っていた。
+  Die Kinder rannten lachend durch den Park.
+
+  長年の友人と笑って別れ、またいつか会おうと約束した。
+  長年[ながねん]の 友人[ゆうじん]と 笑[わら]って 別[わか]れ、またいつか 会[あ]おうと 約束[やくそく]した。
+  Wir trennten uns lachend von unserem langjährigen Freund und versprachen, uns irgendwann wiederzusehen.
+
+  その状況がとてもおかしくて、笑わずにはいられなかった。
+  その 状況[じょうきょう]がとてもおかしくて、笑[わら]わずにはいられなかった。
+  Die Situation war so komisch, dass ich nicht anders konnte, als zu lachen.
+
+  春が来て、庭の桜の木が笑うように花を咲かせた。
+  春[はる]が 来[き]て、庭[にわ]の 桜[さくら]の 木[き]が 笑[わら]うように 花[はな]を 咲[さ]かせた。
+  Als der Frühling kam, blühten die Kirschbäume im Garten, als würden sie lachen.
+
+  彼は人の不幸を笑うような性格で、みんなに嫌われていた。
+  彼[かれ]は 人[ひと]の 不幸[ふこう]を 笑[わら]うような 性格[せいかく]で、みんなに 嫌[きら]われていた。
+  Er hatte den Charakter, über das Unglück anderer zu lachen, und war deshalb bei allen unbeliebt.
+
+  その提案は笑うべき内容で、誰も真剣に取り合わなかった。
+  その 提案[ていあん]は 笑[わら]うべき 内容[ないよう]で、誰[だれ]も 真剣[しんけん]に 取[と]り 合[あ]わなかった。
+  Der Vorschlag war lächerlich und niemand nahm ihn ernst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

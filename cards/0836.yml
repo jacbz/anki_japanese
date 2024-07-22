@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>と</span><span class="accent_plain">ぶ</span>
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 飛ばない・飛んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   鳥が飛んでいる。
   鳥[とり]が 飛[と]んでいる。
   Die Vögel fliegen.
+
+  空高く飛ぶ鳥たちを見上げた。
+  空[そら] 高[たか]く 飛[と]ぶ 鳥[とり]たちを 見上[みあ]げた。
+  Ich blickte zu den hoch am Himmel fliegenden Vögeln hinauf.
+
+  飛行機が雲の上を飛んでいる。
+  飛行機[ひこうき]が 雲[くも]の 上[うえ]を 飛[と]んでいる。
+  Das Flugzeug fliegt über den Wolken.
+
+  サッカーボールが空高く飛んだ。
+  サッカーボールが 空[そら] 高[たか]く 飛[と]んだ。
+  Der Fußball flog hoch in die Luft.
+
+  蝶々が花から花へと飛んでいる。
+  蝶々[ちょうちょう]が 花[はな]から 花[はな]へと 飛[と]んでいる。
+  Der Schmetterling flattert von Blume zu Blume.
+
+  火花が暖炉から飛び散った。
+  火花[ひばな]が 暖炉[だんろ]から 飛[と]び 散[ち]った。
+  Funken sprühten aus dem Kamin.
+
+  風に乗って種が遠くまで飛んでいった。
+  風[かぜ]に 乗[の]って 種[たね]が 遠[とお]くまで 飛[と]んでいった。
+  Die Samen wurden vom Wind weit weggetragen.
+
+  急いで病院に飛んでいった。
+  急[いそ]いで 病院[びょういん]に 飛[と]んでいった。
+  Ich eilte schnell ins Krankenhaus.
+
+  その噂はあっという間に町中に飛んだ。
+  その 噂[うわさ]はあっという 間[ま]に 町中[まちじゅう]に 飛[と]んだ。
+  Das Gerücht verbreitete sich in Windeseile in der ganzen Stadt.
+
+  目次を飛ばして本文を読み始めた。
+  目次[もくじ]を 飛[と]ばして 本文[ほんぶん]を 読[よ]み 始[はじ]めた。
+  Ich übersprang das Inhaltsverzeichnis und begann, den Haupttext zu lesen.
+
+  彼の話は突然別の話題に飛んだ。
+  彼[かれ]の 話[はなし]は 突然[とつぜん] 別[べつ]の 話題[わだい]に 飛[と]んだ。
+  Seine Erzählung sprang plötzlich zu einem anderen Thema.
+
+  犯人は警察から逃げるように飛ぶように走った。
+  犯人[はんにん]は 警察[けいさつ]から 逃[に]げるように 飛[と]ぶように 走[はし]った。
+  Der Täter rannte so schnell er konnte vor der Polizei davon.
+
+  お酒を飲みすぎて、記憶が飛んでしまった。
+  お 酒[さけ]を 飲[の]みすぎて、記憶[きおく]が 飛[と]んでしまった。
+  Ich habe zu viel getrunken und meine Erinnerung ist wie weggeblasen.
+
+  彼女の怒りの言葉が飛んできた。
+  彼女[かのじょ]の 怒[いか]りの 言葉[ことば]が 飛[と]んできた。
+  Ihre wütenden Worte prasselten auf mich ein.
+
+  ヒューズが飛んで、家中の電気が消えた。
+  ヒューズが 飛[と]んで、家中[いえじゅう]の 電気[でんき]が 消[き]えた。
+  Die Sicherung ist durchgebrannt und der Strom im ganzen Haus ist ausgefallen.
+
+  鳥のように空を飛ぶ夢を見た。
+  鳥[とり]のように 空[そら]を 飛[と]ぶ 夢[ゆめ]を 見[み]た。
+  Ich träumte davon, wie ein Vogel durch die Luft zu fliegen.
+
+  その新商品は飛ぶように売れている。
+  その 新[しん]商品[しょうひん]は 飛[と]ぶように 売[う]れている。
+  Das neue Produkt verkauft sich wie geschnitten Brot.
+
+  彼はボクシングの試合で相手の拳が飛んでくるのを避けた。
+  彼[かれ]はボクシングの 試合[しあい]で 相手[あいて]の 拳[こぶし]が 飛[と]んでくるのを 避[さ]けた。
+  Er wich den fliegenden Fäusten seines Gegners im Boxkampf aus.
+
+  その政治家は失言で首が飛ぶかもしれない。
+  その 政治家[せいじか]は 失言[しつげん]で 首[くび]が 飛[と]ぶかもしれない。
+  Der Politiker könnte wegen seiner unbedachten Äußerung seinen Posten verlieren.
+
+  彼女の歌声を聞いて、魂が天外に飛ぶような気がした。
+  彼女[かのじょ]の 歌声[うたごえ]を 聞[き]いて、魂[たましい]が 天外[てんがい]に 飛[と]ぶような 気[き]がした。
+  Als ich ihre Stimme hörte, fühlte ich mich, als würde meine Seele in den Himmel fliegen.
+
+  蛾が明かりに引き寄せられて飛んでいく様子を見た。
+  蛾[が]が 明[あ]かりに 引[ひ]き 寄[よ]せられて 飛[と]んでいく 様子[ようす]を 見[み]た。
+  Ich beobachtete, wie die Motte zum Licht hingezogen wurde und hineinflog.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

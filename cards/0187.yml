@@ -4,12 +4,12 @@ Lesung: うける
 Alternativschreibweisen: ''
 Definition: erhalten, empfangen, nehmen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>う</span><span class="accent_top">け</span><span>る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 受けない・受けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   私は大学から奨学金を受けている。
   私[わたし]は 大学[だいがく]から 奨学金[しょうがくきん]を 受[う]けている。
   Ich erhalte ein Stipendium von der Universität.
+
+  彼女はボールを上手に受けてパスした。
+  彼女[かのじょ]はボールを 上手[じょうず]に 受[う]けてパスした。
+  Sie fing den Ball geschickt und passte ihn weiter.
+
+  強い日差しを受けて、日焼け止めを塗り直した。
+  強[つよ]い 日差[ひざ]しを 受[う]けて、日焼[ひや]け 止[ど]めを 塗[ぬ]り 直[なお]した。
+  Als ich der starken Sonneneinstrahlung ausgesetzt war, trug ich erneut Sonnencreme auf.
+
+  風を受けて船の帆が膨らんだ。
+  風[かぜ]を 受[う]けて 船[ふね]の 帆[ほ]が 膨[ふく]らんだ。
+  Die Segel des Schiffs blähten sich im Wind.
+
+  彼は優秀な成績で奨学金を受けた。
+  彼[かれ]は 優秀[ゆうしゅう]な 成績[せいせき]で 奨学金[しょうがくきん]を 受[う]けた。
+  Er erhielt aufgrund seiner hervorragenden Leistungen ein Stipendium.
+
+  救急車で病院に運ばれ、すぐに輸血を受けました。
+  救急車[きゅうきゅうしゃ]で 病院[びょういん]に 運[はこ]ばれ、すぐに 輸血[ゆけつ]を 受[う]けました。
+  Ich wurde mit dem Krankenwagen ins Krankenhaus gebracht und erhielt sofort eine Bluttransfusion.
+
+  新しい福祉制度を受けられる人が増えている。
+  新[あたら]しい 福祉[ふくし] 制度[せいど]を 受[う]けられる 人[ひと]が 増[ふ]えている。
+  Die Zahl der Menschen, die von dem neuen Sozialhilfesystem profitieren können, nimmt zu.
+
+  海外旅行の前に、必要な予防接種を受けてください。
+  海外[かいがい] 旅行[りょこう]の 前[まえ]に、必要[ひつよう]な 予防接種[よぼうせっしゅ]を 受[う]けてください。
+  Bitte lassen Sie sich vor Ihrer Auslandsreise die notwendigen Impfungen geben.
+
+  彼女は突然の電話を受けて驚いた顔をした。
+  彼女[かのじょ]は 突然[とつぜん]の 電話[でんわ]を 受[う]けて 驚[おどろ]いた 顔[かお]をした。
+  Sie machte ein überraschtes Gesicht, als sie einen unerwarteten Anruf erhielt.
+
+  面接で難しい質問を受けて、少し戸惑った。
+  面接[めんせつ]で 難[むずか]しい 質問[しつもん]を 受[う]けて、少[すこ]し 戸惑[とまど]った。
+  Ich war etwas verwirrt, als ich während des Vorstellungsgesprächs schwierige Fragen gestellt bekam.
+
+  先生に相談を受けて、進路について考え直した。
+  先生[せんせい]に 相談[そうだん]を 受[う]けて、進路[しんろ]について 考[かんが]え 直[なお]した。
+  Nachdem ich von meinem Lehrer beraten wurde, überlegte ich mir meine Zukunftspläne neu.
+
+  彼の行動は友人たちから強い影響を受けている。
+  彼[かれ]の 行動[こうどう]は 友人[ゆうじん]たちから 強[つよ]い 影響[えいきょう]を 受[う]けている。
+  Sein Verhalten wird stark von seinen Freunden beeinflusst.
+
+  チャンピオンから挑戦を受けて、試合の日取りが決まった。
+  チャンピオンから 挑戦[ちょうせん]を 受[う]けて、試合[しあい]の 日取[ひど]りが 決[き]まった。
+  Nachdem der Champion herausgefordert wurde, wurde das Datum für den Wettkampf festgelegt.
+
+  事故でショックを受けて、しばらく運転できなかった。
+  事故[じこ]でショックを 受[う]けて、しばらく 運転[うんてん]できなかった。
+  Ich stand nach dem Unfall unter Schock und konnte eine Weile nicht fahren.
+
+  台風で家が被害を受けて、修理が必要になった。
+  台風[たいふう]で 家[いえ]が 被害[ひがい]を 受[う]けて、修理[しゅうり]が 必要[ひつよう]になった。
+  Unser Haus wurde durch den Taifun beschädigt und musste repariert werden.
+
+  転んでひどい打撲を受けたが、幸い骨には異常がなかった。
+  転[ころ]んでひどい 打撲[だぼく]を 受[う]けたが、幸[さいわ]い 骨[ほね]には 異常[いじょう]がなかった。
+  Ich zog mir beim Sturz schlimme Prellungen zu, aber glücklicherweise waren die Knochen in Ordnung.
+
+  子供のころ、いじめを受けた経験がトラウマになっている。
+  子供[こども]のころ、いじめを 受[う]けた 経験[けいけん]がトラウマになっている。
+  Die Erfahrung, als Kind gemobbt worden zu sein, ist zu einem Trauma geworden.
+
+  南を受けた明るい部屋で、植物がよく育つ。
+  南[みなみ]を 受[う]けた 明[あか]るい 部屋[へや]で、植物[しょくぶつ]がよく 育[そだ]つ。
+  In dem hellen, nach Süden ausgerichteten Zimmer gedeihen die Pflanzen gut.
+
+  彼の冗談は若い人に受けて、笑い声が絶えなかった。
+  彼[かれ]の 冗談[じょうだん]は 若[わか]い 人[ひと]に 受[う]けて、笑[わら]い 声[ごえ]が 絶[た]えなかった。
+  Seine Witze kamen bei den jungen Leuten gut an, und das Gelächter wollte nicht enden.
+
+  その新しいゲームは子供たちに大いに受けている。
+  その 新[あたら]しいゲームは 子供[こども]たちに 大[おお]いに 受[う]けている。
+  Das neue Spiel ist bei den Kindern sehr beliebt.
+
+  受けるわ！そのギャグ、本当に面白い！
+  受[う]けるわ！そのギャグ、本当[ほんとう]に 面白[おもしろ]い！
+  Das ist ja witzig! Dieser Gag ist wirklich lustig!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

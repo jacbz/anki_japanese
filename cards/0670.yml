@@ -2,7 +2,7 @@ Rang: 670
 Lemma: 伝える
 Lesung: つたえる
 Alternativschreibweisen: ''
-Definition: sagen; übermitteln; weitergeben
+Definition: übermitteln, mitteilen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">た</span><span class="accent_plain">え</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">た</span><span 
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 伝えない・伝えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   電話があったことを彼に伝えます。
   電話[でんわ]があったことを 彼[かれ]に 伝[つた]えます。
   Ich werde ihm ausrichten, dass du angerufen hast.
+
+  鉄は熱をよく伝える性質があります。
+  鉄[てつ]は 熱[ねつ]をよく 伝[つた]える 性質[せいしつ]があります。
+  Eisen hat die Eigenschaft, Wärme gut zu leiten.
+
+  音波を正確に伝えるには、適切な機器が必要です。
+  音波[おんぱ]を 正確[せいかく]に 伝[つた]えるには、適切[てきせつ]な 機器[きき]が 必要[ひつよう]です。
+  Um Schallwellen präzise zu übertragen, sind geeignete Geräte erforderlich.
+
+  地震の振動を伝える特殊な装置を開発しました。
+  地震[じしん]の 振動[しんどう]を 伝[つた]える 特殊[とくしゅ]な 装置[そうち]を 開発[かいはつ]しました。
+  Wir haben ein spezielles Gerät entwickelt, das Erdbebenschwingungen überträgt.
+
+  電話で重要な情報を伝えるときは、明確に話すことが大切だ。
+  電話[でんわ]で 重要[じゅうよう]な 情報[じょうほう]を 伝[つた]えるときは、明確[めいかく]に 話[はな]すことが 大切[たいせつ]だ。
+  Wenn man wichtige Informationen am Telefon mitteilt, ist es wichtig, klar zu sprechen.
+
+  友達に伝言を伝えてくれてありがとう。
+  友達[ともだち]に 伝言[でんごん]を 伝[つた]えてくれてありがとう。
+  Danke, dass du meinem Freund die Nachricht übermittelt hast.
+
+  会議で自分の意見をはっきりと伝えました。
+  会議[かいぎ]で 自分[じぶん]の 意見[いけん]をはっきりと 伝[つた]えました。
+  Ich habe meine Meinung in der Besprechung deutlich zum Ausdruck gebracht.
+
+  彼女に心を伝えるのは難しかったけど、勇気を出して話しかけた。
+  彼女[かのじょ]に 心[こころ]を 伝[つた]えるのは 難[むずか]しかったけど、勇気[ゆうき]を 出[だ]して 話[はな]しかけた。
+  Es war schwierig, ihr meine Gefühle mitzuteilen, aber ich fasste Mut und sprach sie an.
+
+  このニュース番組は最新の情報を迅速に伝えています。
+  このニュース 番組[ばんぐみ]は 最新[さいしん]の 情報[じょうほう]を 迅速[じんそく]に 伝[つた]えています。
+  Diese Nachrichtensendung übermittelt die neuesten Informationen schnell.
+
+  申し訳ありませんが、不承知な旨を上司に伝えなければなりません。
+  申[もう]し 訳[わけ]ありませんが、不承知[ふしょうち]な 旨[むね]を 上司[じょうし]に 伝[つた]えなければなりません。
+  Ich muss leider meinem Vorgesetzten eine ablehnende Antwort übermitteln.
+
+  この翻訳は原文の調子をうまく伝えていると思います。
+  この 翻訳[ほんやく]は 原文[げんぶん]の 調子[ちょうし]をうまく 伝[つた]えていると 思[おも]います。
+  Ich denke, diese Übersetzung vermittelt den Ton des Originals gut.
+
+  緊急の用事があるので、家族に伝えてもらえませんか。
+  緊急[きんきゅう]の 用事[ようじ]があるので、家族[かぞく]に 伝[つた]えてもらえませんか。
+  Ich habe einen dringenden Termin, könntest du das bitte meiner Familie ausrichten?
+
+  只今から臨時ニュースをお伝えします。大地震が発生しました。
+  只今[ただいま]から 臨時[りんじ]ニュースをお 伝[つた]えします。大地震[だいじしん]が 発生[はっせい]しました。
+  Wir unterbrechen das Programm für eine Sondermeldung. Ein schweres Erdbeben hat sich ereignet.
+
+  地元紙は未確認情報を慎重に扱いながら、状況を伝えています。
+  地元紙[ちもとし]は 未確認[みかくにん] 情報[じょうほう]を 慎重[しんちょう]に 扱[あつか]いながら、状況[じょうきょう]を 伝[つた]えています。
+  Die lokalen Zeitungen berichten über die Situation, gehen dabei aber vorsichtig mit unbestätigten Informationen um.
+
+  彼の業績は後世に長く伝えられるでしょう。
+  彼[かれ]の 業績[ぎょうせき]は 後世[こうせい]に 長[なが]く 伝[つた]えられるでしょう。
+  Seine Leistungen werden wohl lange an künftige Generationen überliefert werden.
+
+  この家族の伝統は何世代にもわたって伝えられてきました。
+  この 家族[かぞく]の 伝統[でんとう]は 何世代[なんせだい]にもわたって 伝[つた]えられてきました。
+  Die Tradition dieser Familie wurde über viele Generationen weitergegeben.
+
+  師匠から秘伝の技を伝えられ、とても光栄です。
+  師匠[ししょう]から 秘伝[ひでん]の 技[わざ]を 伝[つた]えられ、とても 光栄[こうえい]です。
+  Es ist mir eine große Ehre, von meinem Meister in die geheime Technik eingeweiht worden zu sein.
+
+  このうわさを他の人に伝えないでください。
+  このうわさを 他[ほか]の 人[ひと]に 伝[つた]えないでください。
+  Bitte gib dieses Gerücht nicht an andere weiter.
+
+  宣教師たちは新しい土地にキリスト教を伝えるために旅をしました。
+  宣教師[せんきょうし]たちは 新[あたら]しい 土地[とち]にキリスト教[きょう]を 伝[つた]えるために 旅[たび]をしました。
+  Die Missionare reisten, um das Christentum in neue Länder zu bringen.
+
+  福音を伝えることは、彼らの使命でした。
+  福音[ふくいん]を 伝[つた]えることは、彼[かれ]らの 使命[しめい]でした。
+  Es war ihre Mission, das Evangelium zu verkünden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

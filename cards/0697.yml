@@ -2,14 +2,14 @@ Rang: 697
 Lemma: 合う
 Lesung: あう
 Alternativschreibweisen: ''
-Definition: passen, geeignet sein
+Definition: passen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">あ</span><span>う</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 合わない・合った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   サイズが合うか試着した。
   サイズが 合[あ]うか 試着[しちゃく]した。
   Ich habe es zur Größe anprobiert.
+
+  二つの川が合う地点に橋が架かっています。
+  二[ふた]つの 川[かわ]が 合[あ]う 地点[ちてん]に 橋[はし]が 架[か]かっています。
+  An der Stelle, wo die zwei Flüsse zusammenfließen, wurde eine Brücke gebaut.
+
+  視線が合った瞬間、二人とも微笑んだ。
+  視線[しせん]が 合[あ]った 瞬間[しゅんかん]、二人[ふたり]とも 微笑[ほほえ]んだ。
+  In dem Moment, als sich ihre Blicke trafen, lächelten beide.
+
+  この時計は合っていないから、新しい電池に交換しなきゃ。
+  この 時計[とけい]は 合[あ]っていないから、新[あたら]しい 電池[でんち]に 交換[こうかん]しなきゃ。
+  Diese Uhr geht falsch, ich muss die Batterie austauschen.
+
+  君の答えは完全に合っているよ。よくできました。
+  君[きみ]の 答[こた]えは 完全[かんぜん]に 合[あ]っているよ。よくできました。
+  Deine Antwort ist vollkommen richtig. Gut gemacht!
+
+  彼の意見は私の考えと合っていて、とても説得力がある。
+  彼[かれ]の 意見[いけん]は 私[わたし]の 考[かんが]えと 合[あ]っていて、とても 説得力[せっとくりょく]がある。
+  Seine Meinung stimmt mit meinen Gedanken überein und ist sehr überzeugend.
+
+  計算が合わないので、もう一度確認してください。
+  計算[けいさん]が 合[あ]わないので、もう一度[いちど] 確認[かくにん]してください。
+  Da die Rechnung nicht aufgeht, überprüfen Sie es bitte noch einmal.
+
+  この計画は現実に合っていないと思います。
+  この 計画[けいかく]は 現実[げんじつ]に 合[あ]っていないと 思[おも]います。
+  Ich denke, dieser Plan entspricht nicht der Realität.
+
+  彼女とは話が合うので、一緒に仕事をするのが楽しい。
+  彼女[かのじょ]とは 話[はなし]が 合[あ]うので、一緒[いっしょ]に 仕事[しごと]をするのが 楽[たの]しい。
+  Da wir uns gut verstehen, macht es Spaß, mit ihr zusammenzuarbeiten.
+
+  この食べ物は体に合わないので、避けるようにしています。
+  この 食[た]べ物[もの]は 体[からだ]に 合[あ]わないので、避[さ]けるようにしています。
+  Da dieses Essen meinem Körper nicht bekommt, versuche ich es zu meiden.
+
+  このワインは私の口に合って、とてもおいしいです。
+  このワインは 私[わたし]の 口[くち]に 合[あ]って、とてもおいしいです。
+  Dieser Wein passt zu meinem Geschmack und schmeckt sehr gut.
+
+  その上着とスカートがよく合っているね。おしゃれだよ。
+  その 上着[うわぎ]とスカートがよく 合[あ]っているね。おしゃれだよ。
+  Die Jacke und der Rock passen gut zusammen. Das sieht schick aus.
+
+  彼女にはモデルの仕事が合っているみたいだね。
+  彼女[かのじょ]にはモデルの 仕事[しごと]が 合[あ]っているみたいだね。
+  Es scheint, als würde die Arbeit als Model gut zu ihr passen.
+
+  このドレスは私にぴったり合っていて、とても気に入りました。
+  このドレスは 私[わたし]にぴったり 合[あ]っていて、とても 気[き]に 入[い]りました。
+  Dieses Kleid passt mir perfekt und gefällt mir sehr gut.
+
+  サイズが合わない靴を履いていると、足が痛くなりますよ。
+  サイズが 合[あ]わない 靴[くつ]を 履[は]いていると、足[あし]が 痛[いた]くなりますよ。
+  Wenn man Schuhe trägt, die nicht passen, werden die Füße schmerzen.
+
+  初期投資は高いけど、長期的に見ればこの事業は合うと思う。
+  初期投資[しょきとうし]は 高[たか]いけど、長期的[ちょうきてき]に 見[み]ればこの 事業[じぎょう]は 合[あ]うと 思[おも]う。
+  Obwohl die Anfangsinvestition hoch ist, denke ich, dass sich dieses Geschäft langfristig lohnen wird.
+
+  二人は愛し合って、幸せな家庭を築いた。
+  二人[ふたり]は 愛[あい]し 合[あ]って、幸[しあわ]せな 家庭[かてい]を 築[きず]いた。
+  Die beiden liebten einander und gründeten eine glückliche Familie.
+
+  困ったときは助け合うのが大切だと思います。
+  困[こま]ったときは 助[たす]け 合[あ]うのが 大切[たいせつ]だと 思[おも]います。
+  Ich denke, es ist wichtig, sich gegenseitig zu helfen, wenn man in Schwierigkeiten gerät.
+
+  チームメンバーとよく話し合って、問題を解決しましょう。
+  チームメンバーとよく 話[はな]し 合[あ]って、問題[もんだい]を 解決[かいけつ]しましょう。
+  Lasst uns das Problem lösen, indem wir uns gut mit den Teammitgliedern besprechen.
+
+  新しい環境で知り合った人たちと、もっと仲良くなりたいです。
+  新[あたら]しい 環境[かんきょう]で 知[し]り 合[あ]った 人[ひと]たちと、もっと 仲良[なかよ]くなりたいです。
+  Ich möchte mich mit den Leuten, die ich in der neuen Umgebung kennengelernt habe, noch besser anfreunden.
+
+  合わぬ蓋あれば合う蓋ありというように、必ず自分に合う人がいるはずだ。
+  合[あ]わぬ 蓋[ふた]あれば 合[あ]う 蓋[ふた]ありというように、必[かなら]ず 自分[じぶん]に 合[あ]う 人[ひと]がいるはずだ。
+  Wie man sagt "Auf jeden Topf passt ein Deckel", so muss es sicher jemanden geben, der zu dir passt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

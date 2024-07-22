@@ -2,9 +2,9 @@ Rang: 505
 Lemma: 客
 Lesung: きゃく
 Alternativschreibweisen: ''
-Definition: Gast, Besucher; Kunde
+Definition: Gast, Kunde
 Extra: '' # Nur bei suru-Verben
-Wortart: n, suff
+Wortart: n
 Lesung mit Tonhöhe: <span>きゃ</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '91'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   店に客が一人もいない。
   店[みせ]に 客[きゃく]が一人もいない。
   Es gibt keine Kunden im Geschäft.
+
+  今日はお客様が三人いらっしゃいます。
+  今日[きょう]は お客様[きゃくさま]が 三人[さんにん] いらっしゃいます。
+  Heute haben wir drei Gäste.
+
+  レストランのお客様の要望にはできるだけ応えるようにしています。
+  レストランの お客様[きゃくさま]の 要望[ようぼう]には できるだけ 応[こた]えるようにしています。
+  Wir versuchen, die Wünsche unserer Restaurantgäste so gut wie möglich zu erfüllen.
+
+  新しい客を招くために、特別なプロモーションを行っています。
+  新[あたら]しい 客[きゃく]を 招[まね]くために、特別[とくべつ]なプロモーションを 行[おこな]っています。
+  Wir führen eine spezielle Promotion durch, um neue Kunden anzulocken.
+
+  お客様をもてなすのは、私の仕事の中で一番楽しい部分です。
+  お客様[きゃくさま]をもてなすのは、私[わたし]の 仕事[しごと]の 中[なか]で 一番[いちばん] 楽[たの]しい 部分[ぶぶん]です。
+  Die Gäste zu bewirten ist der angenehmste Teil meiner Arbeit.
+
+  遠来の客を迎えるために、特別な準備をしました。
+  遠来[えんらい]の 客[きゃく]を 迎[むか]えるために、特別[とくべつ]な 準備[じゅんび]をしました。
+  Wir haben besondere Vorbereitungen getroffen, um den von weit her angereisten Gast zu empfangen.
+
+  不意の客が来たので、急いでお茶を用意しました。
+  不意[ふい]の 客[きゃく]が 来[き]たので、急[いそ]いでお茶[ちゃ]を 用意[ようい]しました。
+  Da ein unerwarteter Besucher kam, habe ich schnell Tee zubereitet.
+
+  この店は客が多くて、いつも賑わっているね。
+  この 店[みせ]は 客[きゃく]が 多[おお]くて、いつも 賑[にぎ]わっているね。
+  Dieser Laden hat viele Kunden und ist immer belebt.
+
+  バスに客が乗り込んできました。
+  バスに 客[きゃく]が 乗[の]り 込[こ]んできました。
+  Die Fahrgäste sind in den Bus eingestiegen.
+
+  観光客向けのガイドツアーを始めることにしました。
+  観光客[かんこうきゃく] 向[む]けのガイドツアーを 始[はじ]めることにしました。
+  Wir haben beschlossen, geführte Touren für Touristen anzubieten.
+
+  見物客が多すぎて、あまり楽しめなかった。
+  見物客[けんぶつきゃく]が 多[おお]すぎて、あまり 楽[たの]しめなかった。
+  Es waren so viele Zuschauer da, dass ich es nicht wirklich genießen konnte.
+
+  泊まり客のために、部屋を整えておきました。
+  泊[と]まり 客[きゃく]のために、部屋[へや]を 整[ととの]えておきました。
+  Ich habe das Zimmer für die Übernachtungsgäste vorbereitet.
+
+  通勤客で電車が混んでいます。
+  通勤客[つうきんきゃく]で 電車[でんしゃ]が 混[こ]んでいます。
+  Die Züge sind voller Pendler.
+
+  男性客と女性客では、好みの商品が少し違うようです。
+  男性客[だんせいきゃく]と 女性客[じょせいきゃく]では、好[この]みの 商品[しょうひん]が 少[すこ]し 違[ちが]うようです。
+  Es scheint, dass männliche und weibliche Kunden leicht unterschiedliche Produktpräferenzen haben.
+
+  花見客で公園が賑わっています。
+  花見客[はなみきゃく]で 公園[こうえん]が 賑[にぎ]わっています。
+  Der Park ist voller Besucher, die die Kirschblüten betrachten.
+
+  見舞い客が来たので、少し元気が出ました。
+  見舞[みま]い 客[きゃく]が 来[き]たので、少[すこ]し 元気[げんき]が 出[で]ました。
+  Ein Krankenbesuch kam vorbei, was mich ein wenig aufgemuntert hat.
+
+  客の要望に応えるため、メニューを改善しました。
+  客[きゃく]の 要望[ようぼう]に 応[こた]えるため、メニューを 改善[かいぜん]しました。
+  Wir haben unser Menü verbessert, um den Wünschen der Kunden gerecht zu werden.
+
+  今日は客が少なくて、店内がとても静かです。
+  今日[きょう]は 客[きゃく]が 少[すく]なくて、店内[てんない]が とても 静[しず]かです。
+  Heute sind wenige Kunden da, und es ist sehr ruhig im Geschäft.
+
+  客を引くために、店の前でチラシを配っています。
+  客[きゃく]を 引[ひ]くために、店[みせ]の 前[まえ]でチラシを 配[くば]っています。
+  Um Kunden anzulocken, verteilen wir Flugblätter vor dem Geschäft.
+
+  この旅館は客をする心得がよく、評判がいいです。
+  この 旅館[りょかん]は 客[きゃく]をする 心得[こころえ]が よく、評判[ひょうばん]が いいです。
+  Dieses traditionelle japanische Gasthaus weiß, wie man Gäste bewirtet, und hat einen guten Ruf.
+
+  彼女は客を取ることを拒否し、別の仕事を見つけました。
+  彼女[かのじょ]は 客[きゃく]を 取[と]ることを 拒否[きょひ]し、別[べつ]の 仕事[しごと]を 見[み]つけました。
+  Sie weigerte sich, Freier anzunehmen, und fand stattdessen eine andere Arbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

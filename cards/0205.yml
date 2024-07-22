@@ -1,7 +1,7 @@
 Rang: 205
 Lemma: 形
 Lesung: かたち
-Alternativschreibweisen: ''
+Alternativschreibweisen: 容
 Definition: Form, Gestalt
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -17,6 +17,90 @@ Beispielsätze: |-
   このリンゴは形が良い。
   このリンゴは 形[かたち]が 良[よ]い。
   Dieser Apfel hat eine schöne Form.
+
+  この花瓶は独特の形をしています。
+  この 花瓶[かびん]は 独特[どくとく]の 形[かたち]をしています。
+  Diese Vase hat eine einzigartige Form.
+
+  形が崩れないように注意して梱包してください。
+  形[かたち]が 崩[くず]れないように 注意[ちゅうい]して 梱包[こんぽう]してください。
+  Bitte verpacken Sie es sorgfältig, damit es seine Form nicht verliert.
+
+  形なき存在について哲学的な議論が行われた。
+  形[かたち]なき 存在[そんざい]について 哲学的[てつがくてき]な 議論[ぎろん]が 行[おこな]われた。
+  Es fand eine philosophische Diskussion über formlose Existenz statt.
+
+  この彫刻は形の悪い作品だと批評家に酷評された。
+  この 彫刻[ちょうこく]は 形[かたち]の 悪[わる]い 作品[さくひん]だと 批評家[ひひょうか]に 酷評[こくひょう]された。
+  Diese Skulptur wurde von Kritikern als missgestaltetes Werk schlecht bewertet.
+
+  彼女は形の良い鼻が特徴的だ。
+  彼女[かのじょ]は 形[かたち]の 良[よ]い 鼻[はな]が 特徴的[とくちょうてき]だ。
+  Ihre wohlgeformte Nase ist charakteristisch für sie.
+
+  粘土に形を与えて、素敵な置物を作りました。
+  粘土[ねんど]に 形[かたち]を 与[あた]えて、素敵[すてき]な 置物[おきもの]を 作[つく]りました。
+  Ich gab dem Ton eine Form und schuf eine schöne Figur.
+
+  古い建物は形をとどめたまま、現代的な用途に生まれ変わった。
+  古[ふる]い 建物[たてもの]は 形[かたち]をとどめたまま、現代的[げんだいてき]な 用途[ようと]に 生[う]まれ 変[か]わった。
+  Das alte Gebäude behielt seine Form bei, wurde aber für moderne Zwecke umgestaltet.
+
+  ハートの形のチョコレートをバレンタインデーにプレゼントしました。
+  ハートの 形[かたち]のチョコレートをバレンタインデーにプレゼントしました。
+  Ich habe am Valentinstag herzförmige Schokolade verschenkt.
+
+  この建物は角張った形が特徴的で、現代建築の傑作と言われています。
+  この 建物[たてもの]は 角張[かくば]った 形[かたち]が 特徴的[とくちょうてき]で、現代[げんだい] 建築[けんちく]の 傑作[けっさく]と 言[い]われています。
+  Dieses Gebäude zeichnet sich durch seine eckige Form aus und gilt als Meisterwerk der modernen Architektur.
+
+  丸い形の家具は部屋に柔らかい雰囲気を与えます。
+  丸[まる]い 形[かたち]の 家具[かぐ]は 部屋[へや]に 柔[やわ]らかい 雰囲気[ふんいき]を 与[あた]えます。
+  Runde Möbelstücke verleihen dem Raum eine weiche Atmosphäre.
+
+  何らかの形でボランティア活動に参加したいと思っています。
+  何[なん]らかの 形[かたち]でボランティア 活動[かつどう]に 参加[さんか]したいと 思[おも]っています。
+  Ich möchte mich in irgendeiner Form an Freiwilligenarbeit beteiligen.
+
+  人間の形をしたロボットが開発され、介護の現場で活躍しています。
+  人間[にんげん]の 形[かたち]をしたロボットが 開発[かいはつ]され、介護[かいご]の 現場[げんば]で 活躍[かつやく]しています。
+  Humanoide Roboter wurden entwickelt und werden in der Pflege eingesetzt.
+
+  彼は自分の感情を詩の形で表現するのが得意だ。
+  彼[かれ]は 自分[じぶん]の 感情[かんじょう]を 詩[し]の 形[かたち]で 表現[ひょうげん]するのが 得意[とくい]だ。
+  Er ist gut darin, seine Gefühle in Form von Gedichten auszudrücken.
+
+  広島の原爆ドームは、被爆当時の形をとどめている貴重な建造物です。
+  広島[ひろしま]の 原爆[げんばく]ドームは、被爆[ひばく] 当時[とうじ]の 形[かたち]をとどめている 貴重[きちょう]な 建造物[けんぞうぶつ]です。
+  Der Atombombendom in Hiroshima ist ein wertvolles Bauwerk, das seine Form aus der Zeit des Atombombenabwurfs bewahrt hat.
+
+  この楽器は珍しい形をしていて、バスーンに似ています。
+  この 楽器[がっき]は 珍[めずら]しい 形[かたち]をしていて、バスーンに 似[に]ています。
+  Dieses Instrument hat eine ungewöhnliche Form und ähnelt einem Fagott.
+
+  伝統的な神事は、特定の形式に従って行われます。
+  伝統的[でんとうてき]な 神事[しんじ]は、特定[とくてい]の 形式[けいしき]に 従[したが]って 行[おこな]われます。
+  Traditionelle Shinto-Rituale werden nach einer bestimmten Form durchgeführt.
+
+  彼は形だけの謝罪をして、本当の反省の色が見えなかった。
+  彼[かれ]は 形[かたち]だけの 謝罪[しゃざい]をして、本当[ほんとう]の 反省[はんせい]の 色[いろ]が 見[み]えなかった。
+  Er entschuldigte sich nur der Form halber, ohne echte Reue zu zeigen.
+
+  会社の組織を改めて、より効率的な形に変更しました。
+  会社[かいしゃ]の 組織[そしき]を 改[あらた]めて、より 効率的[こうりつてき]な 形[かたち]に 変更[へんこう]しました。
+  Wir haben die Unternehmensstruktur erneuert und in eine effizientere Form gebracht.
+
+  彼らの関係は友情という形を取っているが、実際はビジネスパートナーだ。
+  彼[かれ]らの 関係[かんけい]は 友情[ゆうじょう]という 形[かたち]を 取[と]っているが、実際[じっさい]はビジネスパートナーだ。
+  Ihre Beziehung nimmt die Form einer Freundschaft an, aber in Wirklichkeit sind sie Geschäftspartner.
+
+  計画が具体的な形を取り始め、実現に向けて動き出しました。
+  計画[けいかく]が 具体的[ぐたいてき]な 形[かたち]を 取[と]り 始[はじ]め、実現[じつげん]に 向[む]けて 動[うご]き 出[だ]しました。
+  Der Plan beginnt konkrete Gestalt anzunehmen und wir machen uns an die Umsetzung.
+
+  正式な会議では、参加者全員が形を正して着席します。
+  正式[せいしき]な 会議[かいぎ]では、参加者[さんかしゃ] 全員[ぜんいん]が 形[かたち]を 正[ただ]して 着席[ちゃくせき]します。
+  Bei formellen Sitzungen nehmen alle Teilnehmer eine korrekte Haltung ein und setzen sich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

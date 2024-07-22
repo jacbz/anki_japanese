@@ -2,14 +2,14 @@ Rang: 851
 Lemma: 学ぶ
 Lesung: まなぶ
 Alternativschreibweisen: ''
-Definition: lernen
+Definition: lernen, studieren
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ま</span><span class="accent_plain">な</span><span class="accent_plain">ぶ</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 学ばない・学んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   両親から多くのことを学んだ。
   両親[りょうしん]から 多[おお]くのことを 学[まな]んだ。
   Ich habe viel von meinen Eltern gelernt.
+
+  私は学ぶ喜びを感じながら、毎日新しいことに挑戦しています。
+  私[わたし]は 学[まな]ぶ 喜[よろこ]びを 感[かん]じながら、毎日[まいにち] 新[あたら]しいことに 挑戦[ちょうせん]しています。
+  Ich stelle mich täglich neuen Herausforderungen und empfinde dabei die Freude am Lernen.
+
+  彼女は独学で3つの外国語を学びました。
+  彼女[かのじょ]は 独学[どくがく]で3つの 外国語[がいこくご]を 学[まな]びました。
+  Sie hat selbstständig drei Fremdsprachen gelernt.
+
+  子供たちは学校で読み書きを学んでいます。
+  子供[こども]たちは 学校[がっこう]で 読[よ]み 書[か]きを 学[まな]んでいます。
+  Die Kinder lernen in der Schule lesen und schreiben.
+
+  兄は早稲田大学に学んでいます。
+  兄[あに]は 早稲田大学[わせだだいがく]に 学[まな]んでいます。
+  Mein älterer Bruder studiert an der Waseda-Universität.
+
+  彼は物理学を学ぶために海外の大学に留学しました。
+  彼[かれ]は 物理学[ぶつりがく]を 学[まな]ぶために 海外[かいがい]の 大学[だいがく]に 留学[りゅうがく]しました。
+  Er ist ins Ausland gegangen, um an einer Universität Physik zu studieren.
+
+  本で学んだ知識を実践で活かすことが大切です。
+  本[ほん]で 学[まな]んだ 知識[ちしき]を 実践[じっせん]で 活[い]かすことが 大切[たいせつ]です。
+  Es ist wichtig, das aus Büchern gelernte Wissen in der Praxis anzuwenden.
+
+  新しいソフトウェアの使い方を学ぶのに時間がかかりました。
+  新[あたら]しいソフトウェアの 使[つか]い 方[かた]を 学[まな]ぶのに 時間[じかん]がかかりました。
+  Es hat Zeit gekostet, den Umgang mit der neuen Software zu erlernen.
+
+  彼女は有名な画家について学び、絵画技術を磨いています。
+  彼女[かのじょ]は 有名[ゆうめい]な 画家[がか]について 学[まな]び、絵画[かいが] 技術[ぎじゅつ]を 磨[みが]いています。
+  Sie nimmt Unterricht bei einem berühmten Maler und verfeinert ihre Maltechnik.
+
+  失敗から学ぶことで、次の成功につながるのです。
+  失敗[しっぱい]から 学[まな]ぶことで、次[つぎ]の 成功[せいこう]につながるのです。
+  Indem wir aus Fehlern lernen, bahnen wir den Weg zum nächsten Erfolg.
+
+  これまでの経験から学んだことを生かして、新しいプロジェクトに挑戦します。
+  これまでの 経験[けいけん]から 学[まな]んだことを 生[い]かして、新[あたら]しいプロジェクトに 挑戦[ちょうせん]します。
+  Ich werde die Erkenntnisse aus meinen bisherigen Erfahrungen nutzen, um mich einem neuen Projekt zu stellen.
+
+  先輩の仕事ぶりを学んで、自分のスキルを向上させたいです。
+  先輩[せんぱい]の 仕事[しごと]ぶりを 学[まな]んで、自分[じぶん]のスキルを 向上[こうじょう]させたいです。
+  Ich möchte von der Arbeitsweise meiner erfahrenen Kollegen lernen und meine eigenen Fähigkeiten verbessern.
+
+  よく学びよく遊べという言葉の通り、勉強と遊びのバランスを大切にしています。
+  よく 学[まな]びよく 遊[あそ]べという 言葉[ことば]の 通[とお]り、勉強[べんきょう]と 遊[あそ]びのバランスを 大切[たいせつ]にしています。
+  Getreu dem Motto "Lerne gut und spiele gut" lege ich Wert auf ein Gleichgewicht zwischen Lernen und Spielen.
+
+  海外旅行中に、その国の言語を学ぶ良い機会になりました。
+  海外旅行中[かいがいりょこうちゅう]に、その 国[くに]の 言語[げんご]を 学[まな]ぶ 良[よ]い 機会[きかい]になりました。
+  Während meiner Auslandsreise bot sich eine gute Gelegenheit, die Sprache des Landes zu lernen.
+
+  大学で学んだことが、今の仕事に役立っています。
+  大学[だいがく]で 学[まな]んだことが、今[いま]の 仕事[しごと]に 役立[やくだ]っています。
+  Was ich an der Universität gelernt habe, ist für meine jetzige Arbeit nützlich.
+
+  感情表現の方法を学ぶことで、人間関係が改善されました。
+  感情表現[かんじょうひょうげん]の 方法[ほうほう]を 学[まな]ぶことで、人間関係[にんげんかんけい]が 改善[かいぜん]されました。
+  Durch das Erlernen von Methoden des Gefühlsausdrucks haben sich meine zwischenmenschlichen Beziehungen verbessert.
+
+  新しい技術を学ぶことで、キャリアの可能性が広がります。
+  新[あたら]しい 技術[ぎじゅつ]を 学[まな]ぶことで、キャリアの 可能性[かのうせい]が 広[ひろ]がります。
+  Das Erlernen neuer Technologien eröffnet Karrieremöglichkeiten.
+
+  歴史から学ぶことで、未来の問題を回避できる可能性があります。
+  歴史[れきし]から 学[まな]ぶことで、未来[みらい]の 問題[もんだい]を 回避[かいひ]できる 可能性[かのうせい]があります。
+  Indem wir aus der Geschichte lernen, können wir möglicherweise zukünftige Probleme vermeiden.
+
+  子供たちに環境保護の重要性を学んでもらうため、自然体験プログラムを企画しました。
+  子供[こども]たちに 環境保護[かんきょうほご]の 重要性[じゅうようせい]を 学[まな]んでもらうため、自然体験[しぜんたいけん]プログラムを 企画[きかく]しました。
+  Um Kindern die Bedeutung des Umweltschutzes nahezubringen, haben wir ein Naturerlebnisprogramm geplant.
+
+  この講座で学んだスキルを活かして、新しいビジネスを始めたいと思います。
+  この 講座[こうざ]で 学[まな]んだスキルを 活[い]かして、新[あたら]しいビジネスを 始[はじ]めたいと 思[おも]います。
+  Ich möchte die in diesem Kurs erlernten Fähigkeiten nutzen, um ein neues Geschäft zu gründen.
+
+  上司の仕事の仕方を学んで、自分のマネジメントスキルを向上させました。
+  上司[じょうし]の 仕事[しごと]の 仕方[しかた]を 学[まな]んで、自分[じぶん]のマネジメントスキルを 向上[こうじょう]させました。
+  Ich habe von der Arbeitsweise meines Vorgesetzten gelernt und dadurch meine Managementfähigkeiten verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 472
 Lemma: 求める
 Lesung: もとめる
 Alternativschreibweisen: ''
-Definition: verlangen, anfordern, fordern
+Definition: fordern, verlangen; suchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">と</span><span class="accent_top">め</span><span>る</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 求めない・求めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   私たちはその件について彼に説明を求めた。
   私[わたし]たちはその 件[けん]について 彼[かれ]に 説明[せつめい]を 求[もと]めた。
   Wir haben von ihm eine Erklärung zu der Angelegenheit verlangt.
+
+  彼らは会議で全員の同意を求めました。
+  彼[かれ]らは 会議[かいぎ]で 全員[ぜんいん]の 同意[どうい]を 求[もと]めました。
+  Sie suchten in der Besprechung die Zustimmung aller Teilnehmer.
+
+  不可能なことを求めないでください。
+  不可能[ふかのう]なことを 求[もと]めないでください。
+  Bitte verlangen Sie nichts Unmögliches.
+
+  新しい政策について市民の意見を求めています。
+  新[あたら]しい 政策[せいさく]について 市民[しみん]の 意見[いけん]を 求[もと]めています。
+  Wir fragen nach den Meinungen der Bürger zu der neuen Politik.
+
+  有名な俳優にインタビューを求めたが、断られてしまった。
+  有名[ゆうめい]な 俳優[はいゆう]にインタビューを 求[もと]めたが、断[ことわ]られてしまった。
+  Ich bat einen berühmten Schauspieler um ein Interview, wurde aber abgelehnt.
+
+  経験豊富な先輩に助言を求めるのは良い考えだ。
+  経験豊富[けいけんほうふ]な 先輩[せんぱい]に 助言[じょげん]を 求[もと]めるのは 良[よ]い 考[かんが]えだ。
+  Es ist eine gute Idee, einen erfahrenen älteren Kollegen um Rat zu fragen.
+
+  困ったときは友人に助力を求めることをためらわないで。
+  困[こま]ったときは 友人[ゆうじん]に 助力[じょりょく]を 求[もと]めることをためらわないで。
+  Zögere nicht, deine Freunde um Hilfe zu bitten, wenn du in Schwierigkeiten bist.
+
+  質問に対する回答を求めていますが、まだ返事がありません。
+  質問[しつもん]に 対[たい]する 回答[かいとう]を 求[もと]めていますが、まだ 返事[へんじ]がありません。
+  Ich habe um eine Antwort auf meine Frage gebeten, aber noch keine Rückmeldung erhalten.
+
+  災害の被災者のために寄付を求める呼びかけがありました。
+  災害[さいがい]の 被災者[ひさいしゃ]のために 寄付[きふ]を 求[もと]める 呼[よ]びかけがありました。
+  Es gab einen Aufruf um Spenden für die Opfer der Katastrophe.
+
+  新しいプロジェクトを始めるには上司の許可を求める必要がある。
+  新[あたら]しいプロジェクトを 始[はじ]めるには 上司[じょうし]の 許可[きょか]を 求[もと]める 必要[ひつよう]がある。
+  Um ein neues Projekt zu beginnen, muss man die Erlaubnis des Vorgesetzten einholen.
+
+  講演者は聴衆に静粛を求めた。
+  講演者[こうえんしゃ]は 聴衆[ちょうしゅう]に 静粛[せいしゅく]を 求[もと]めた。
+  Der Redner bat das Publikum um Ruhe.
+
+  動物園の動物たちが餌を求めて鳴いている。
+  動物園[どうぶつえん]の 動物[どうぶつ]たちが 餌[えさ]を 求[もと]めて 鳴[な]いている。
+  Die Tiere im Zoo rufen nach Futter.
+
+  多くの人々が平和を求めてデモ行進に参加した。
+  多[おお]くの 人々[ひとびと]が 平和[へいわ]を 求[もと]めてデモ 行進[こうしん]に 参加[さんか]した。
+  Viele Menschen nahmen an einer Demonstration teil, um Frieden zu fordern.
+
+  長時間の仕事の後、体が休養を求めている。
+  長時間[ちょうじかん]の 仕事[しごと]の 後[あと]、体[からだ]が 休養[きゅうよう]を 求[もと]めている。
+  Nach langer Arbeitszeit braucht mein Körper Erholung.
+
+  彼は権力を求めて政界に入った。
+  彼[かれ]は 権力[けんりょく]を 求[もと]めて 政界[せいかい]に 入[はい]った。
+  Er trat in die Politik ein, um nach Macht zu streben.
+
+  幸福を求めて故郷を離れ、新しい人生を始めた。
+  幸福[こうふく]を 求[もと]めて 故郷[こきょう]を 離[はな]れ、新[あたら]しい 人生[じんせい]を 始[はじ]めた。
+  Auf der Suche nach Glück verließ er seine Heimat und begann ein neues Leben.
+
+  環境問題の解決を求めて科学者たちが研究を続けている。
+  環境問題[かんきょうもんだい]の 解決[かいけつ]を 求[もと]めて 科学者[かがくしゃ]たちが 研究[けんきゅう]を 続[つづ]けている。
+  Wissenschaftler setzen ihre Forschung fort, um Lösungen für Umweltprobleme zu finden.
+
+  哲学者は真理を求めて深く考察する。
+  哲学者[てつがくしゃ]は 真理[しんり]を 求[もと]めて 深[ふか]く 考察[こうさつ]する。
+  Philosophen denken tief nach, um die Wahrheit zu erforschen.
+
+  都会の喧騒から逃れ、静けさを求めて山荘に引っ越した。
+  都会[とかい]の 喧騒[けんそう]から 逃[のが]れ、静[しず]けさを 求[もと]めて 山荘[さんそう]に 引[ひ]っ 越[こ]した。
+  Um dem Lärm der Stadt zu entkommen und Ruhe zu finden, zog ich in ein Berghaus.
+
+  失業した彼は必死に新しい職を求めている。
+  失業[しつぎょう]した 彼[かれ]は 必死[ひっし]に 新[あたら]しい 職[しょく]を 求[もと]めている。
+  Nachdem er arbeitslos wurde, sucht er verzweifelt nach einer neuen Stelle.
+
+  結局のところ彼女が僕に求めていたのは優しさではなかったのだろう。
+  結局[けっきょく]のところ 彼女[かのじょ]が 僕[ぼく]に 求[もと]めていたのは 優[やさ]しさではなかったのだろう。
+  Zärtlichkeit war es demnach jedenfalls nicht, was sie von mir wollte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

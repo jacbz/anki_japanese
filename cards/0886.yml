@@ -2,14 +2,14 @@ Rang: 886
 Lemma: 語る
 Lesung: かたる
 Alternativschreibweisen: ''
-Definition: sprechen, erzählen
+Definition: erzählen, sprechen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">た</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '80'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 語らない・語った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は真実を語った。
   彼[かれ]は 真実[しんじつ]を 語[かた]った。
   Er hat die Wahrheit erzählt.
+
+  昔の思い出を語る時間を設けましょう。
+  昔[むかし]の 思い出[おもいで]を 語[かた]る 時間[じかん]を 設[もう]けましょう。
+  Lasst uns Zeit einplanen, um über Erinnerungen aus der Vergangenheit zu sprechen.
+
+  彼女の表情は多くのことを語っていた。
+  彼女[かのじょ]の 表情[ひょうじょう]は 多[おお]くのことを 語[かた]っていた。
+  Ihr Gesichtsausdruck sagte viel aus.
+
+  会議で思いのままを語ったら、上司に怒られてしまった。
+  会議[かいぎ]で 思[おも]いのままを 語[かた]ったら、上司[じょうし]に 怒[おこ]られてしまった。
+  Als ich in der Besprechung unverblümt meine Meinung sagte, wurde ich von meinem Vorgesetzten gescholten.
+
+  真実を語ることは時に勇気が必要です。
+  真実[しんじつ]を 語[かた]ることは 時[とき]に 勇気[ゆうき]が 必要[ひつよう]です。
+  Es braucht manchmal Mut, die Wahrheit zu sagen.
+
+  彼は自分の経験を生き生きと語った。
+  彼[かれ]は 自分[じぶん]の 経験[けいけん]を 生き生き[いきいき]と 語[かた]った。
+  Er erzählte lebhaft von seinen Erfahrungen.
+
+  その作家は新作について語るのを避けた。
+  その 作家[さっか]は 新作[しんさく]について 語[かた]るのを 避[さ]けた。
+  Der Autor vermied es, über sein neues Werk zu sprechen.
+
+  彼女は涙ながらに自分の苦難を語った。
+  彼女[かのじょ]は 涙[なみだ]ながらに 自分[じぶん]の 苦難[くなん]を 語[かた]った。
+  Sie erzählte unter Tränen von ihren Schwierigkeiten.
+
+  その政治家は未来のビジョンを熱心に語った。
+  その 政治家[せいじか]は 未来[みらい]のビジョンを 熱心[ねっしん]に 語[かた]った。
+  Der Politiker sprach leidenschaftlich über seine Vision für die Zukunft.
+
+  彼は自分の成功の秘訣を若い起業家たちに語った。
+  彼[かれ]は 自分[じぶん]の 成功[せいこう]の 秘訣[ひけつ]を 若[わか]い 起業家[きぎょうか]たちに 語[かた]った。
+  Er teilte jungen Unternehmern das Geheimnis seines Erfolgs mit.
+
+  その老人は戦争の恐ろしさを子供たちに語り継いでいる。
+  その 老人[ろうじん]は 戦争[せんそう]の 恐[おそ]ろしさを 子供[こども]たちに 語[かた]り 継[つ]いでいる。
+  Der alte Mann gibt die Schrecken des Krieges mündlich an die Kinder weiter.
+
+  彼女の目は言葉以上に多くを語っていた。
+  彼女[かのじょ]の 目[め]は 言葉[ことば]以上[いじょう]に 多[おお]くを 語[かた]っていた。
+  Ihre Augen sagten mehr als Worte es konnten.
+
+  その詩人は美しい言葉で愛を語った。
+  その 詩人[しじん]は 美[うつく]しい 言葉[ことば]で 愛[あい]を 語[かた]った。
+  Der Dichter sprach in schönen Worten über die Liebe.
+
+  彼は自分の失敗について率直に語った。
+  彼[かれ]は 自分[じぶん]の 失敗[しっぱい]について 率直[そっちょく]に 語[かた]った。
+  Er sprach offen über seinen Misserfolg.
+
+  その科学者は最新の研究成果について熱く語った。
+  その 科学者[かがくしゃ]は 最新[さいしん]の 研究成果[けんきゅうせいか]について 熱[あつ]く 語[かた]った。
+  Der Wissenschaftler sprach leidenschaftlich über die neuesten Forschungsergebnisse.
+
+  彼女は自分の夢を友人に語った。
+  彼女[かのじょ]は 自分[じぶん]の 夢[ゆめ]を 友人[ゆうじん]に 語[かた]った。
+  Sie erzählte ihrem Freund von ihrem Traum.
+
+  その映画監督は自身の作品に込めた思いを語った。
+  その 映画監督[えいがかんとく]は 自身[じしん]の 作品[さくひん]に 込[こ]めた 思[おも]いを 語[かた]った。
+  Der Filmregisseur sprach über die Gedanken, die er in sein Werk gesteckt hatte.
+
+  彼は自分の人生哲学を若者たちに語り聞かせた。
+  彼[かれ]は 自分[じぶん]の 人生哲学[じんせいてつがく]を 若者[わかもの]たちに 語[かた]り 聞[き]かせた。
+  Er erzählte den jungen Leuten von seiner Lebensphilosophie.
+
+  その記者は現地の状況を詳しく語った。
+  その 記者[きしゃ]は 現地[げんち]の 状況[じょうきょう]を 詳[くわ]しく 語[かた]った。
+  Der Reporter berichtete detailliert über die Situation vor Ort.
+
+  彼女は自分の成長の過程を振り返って語った。
+  彼女[かのじょ]は 自分[じぶん]の 成長[せいちょう]の 過程[かてい]を 振[ふ]り 返[かえ]って 語[かた]った。
+  Sie blickte zurück und erzählte von ihrem persönlichen Entwicklungsprozess.
+
+  その作家は小説の登場人物について熱心に語った。
+  その 作家[さっか]は 小説[しょうせつ]の 登場人物[とうじょうじんぶつ]について 熱心[ねっしん]に 語[かた]った。
+  Der Autor sprach enthusiastisch über die Charaktere in seinem Roman.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

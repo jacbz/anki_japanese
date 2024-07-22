@@ -2,14 +2,14 @@ Rang: 960
 Lemma: 焼く
 Lesung: やく
 Alternativschreibweisen: ''
-Definition: grillen, backen
+Definition: verbrennen; grillen, backen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>や</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 焼かない・焼いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼はケーキを焼いた。
   彼[かれ]はケーキを 焼[や]いた。
   Er hat einen Kuchen gebacken.
+
+  ゴミを焼くのは環境に悪影響があるので、分別して処分しましょう。
+  ゴミを 焼[や]くのは 環境[かんきょう]に 悪影響[あくえいきょう]があるので、分別[ぶんべつ]して 処分[しょぶん]しましょう。
+  Lasst uns Müll trennen und entsorgen, da das Verbrennen von Müll schädliche Auswirkungen auf die Umwelt hat.
+
+  古い手紙を焼くのは胸が痛むけど、新しい人生の始まりだと思えば気が楽になる。
+  古[ふる]い 手紙[てがみ]を 焼[や]くのは 胸[むね]が 痛[いた]むけど、新[あたら]しい 人生[じんせい]の 始[はじ]まりだと 思[おも]えば 気[き]が 楽[らく]になる。
+  Es schmerzt zwar, alte Briefe zu verbrennen, aber wenn man es als Beginn eines neuen Lebensabschnitts betrachtet, fühlt man sich erleichtert.
+
+  お葬式で、遺族の希望により遺体を焼くことになりました。
+  お 葬式[そうしき]で、遺族[いぞく]の 希望[きぼう]により 遺体[いたい]を 焼[や]くことになりました。
+  Bei der Beerdigung wurde auf Wunsch der Hinterbliebenen beschlossen, den Leichnam einzuäschern.
+
+  バーベキューパーティーで、みんなで楽しく肉を焼いて食べました。
+  バーベキューパーティーで、みんなで 楽[たの]しく 肉[にく]を 焼[や]いて 食[た]べました。
+  Beim Grillfest haben wir alle fröhlich zusammen Fleisch gegrillt und gegessen.
+
+  パン屋さんでは毎朝早くから美味しいパンを焼いています。
+  パン屋[や]さんでは 毎朝[まいあさ] 早[はや]くから 美味[おい]しいパンを 焼[や]いています。
+  In der Bäckerei werden jeden Morgen von früh an leckere Brote gebacken.
+
+  卵を上手に焼くコツは、フライパンの温度管理です。
+  卵[たまご]を 上手[じょうず]に 焼[や]くコツは、フライパンの 温度管理[おんどかんり]です。
+  Der Trick, um Eier perfekt zu braten, liegt in der richtigen Temperaturkontrolle der Pfanne.
+
+  窯元では、伝統的な技法で陶器を焼いています。
+  窯元[かまもと]では、伝統的[でんとうてき]な 技法[ぎほう]で 陶器[とうき]を 焼[や]いています。
+  In der Töpferei wird Keramik mit traditionellen Methoden gebrannt.
+
+  夏の海辺で、日光浴をしながら肌を焼く人が多いです。
+  夏[なつ]の 海辺[うみべ]で、日光浴[にっこうよく]をしながら 肌[はだ]を 焼[や]く 人[ひと]が 多[おお]いです。
+  Im Sommer am Strand gibt es viele Leute, die sich beim Sonnenbaden bräunen lassen.
+
+  料理中に誤って手を焼いてしまい、すぐに冷水で冷やしました。
+  料理中[りょうりちゅう]に 誤[あやま]って 手[て]を 焼[や]いてしまい、すぐに 冷水[れいすい]で 冷[ひ]やしました。
+  Beim Kochen habe ich mir versehentlich die Hand verbrannt und sie sofort unter kaltes Wasser gehalten.
+
+  写真館で記念写真を焼いてもらい、素敵な思い出になりました。
+  写真館[しゃしんかん]で 記念写真[きねんしゃしん]を 焼[や]いてもらい、素敵[すてき]な 思[おも]い 出[で]になりました。
+  Ich ließ im Fotostudio Erinnerungsfotos entwickeln, die zu wunderbaren Andenken wurden.
+
+  彼女に対する嫉妬で胸を焼くような思いをしました。
+  彼女[かのじょ]に 対[たい]する 嫉妬[しっと]で 胸[むね]を 焼[や]くような 思[おも]いをしました。
+  Ich fühlte mich vor Eifersucht auf sie, als würde meine Brust brennen.
+
+  友達の成功を聞いて、妬いてしまう自分が恥ずかしい。
+  友達[ともだち]の 成功[せいこう]を 聞[き]いて、妬[やく]いてしまう 自分[じぶん]が 恥[は]ずかしい。
+  Ich schäme mich dafür, dass ich neidisch werde, wenn ich von den Erfolgen meiner Freunde höre.
+
+  大切な思い出の動画をDVDに焼いて保存しました。
+  大切[たいせつ]な 思[おも]い 出[で]の 動画[どうが]をDVDに 焼[や]いて 保存[ほぞん]しました。
+  Ich habe wichtige Erinnerungsvideos auf DVD gebrannt, um sie zu speichern.
+
+  釜戸で餅を焼くと、香ばしい匂いが漂います。
+  釜戸[かまど]で 餅[もち]を 焼[や]くと、香[か]ばしい 匂[にお]いが 漂[ただよ]います。
+  Wenn man Mochi auf dem Herd röstet, verbreitet sich ein würziger Duft.
+
+  彼は仕事への情熱に胸を焼かれるような思いで取り組んでいる。
+  彼[かれ]は 仕事[しごと]への 情熱[じょうねつ]に 胸[むね]を 焼[や]かれるような 思[おも]いで 取[と]り 組[く]んでいる。
+  Er widmet sich seiner Arbeit mit einer Leidenschaft, als würde seine Brust vor Begeisterung brennen.
+
+  日焼けを防ぐために、日光に当たる前に日焼け止めを塗ってください。
+  日焼[ひや]けを 防[ふせ]ぐために、日光[にっこう]に 当[あ]たる 前[まえ]に 日焼[ひや]け 止[ど]めを 塗[ぬ]ってください。
+  Um Sonnenbrand zu vermeiden, tragen Sie bitte Sonnencreme auf, bevor Sie sich der Sonne aussetzen.
+
+  陶芸教室で、自分で作った茶碗を焼くのが楽しみです。
+  陶芸教室[とうげいきょうしつ]で、自分[じぶん]で 作[つく]った 茶碗[ちゃわん]を 焼[や]くのが 楽[たの]しみです。
+  Ich freue mich darauf, in der Töpferei-Klasse die selbstgemachte Teeschale zu brennen.
+
+  焼きもちを焼くのは関係を壊す原因になるので、信頼することが大切です。
+  焼[や]きもちを 焼[や]くのは 関係[かんけい]を 壊[こわ]す 原因[げんいん]になるので、信頼[しんらい]することが 大切[たいせつ]です。
+  Da Eifersucht Beziehungen zerstören kann, ist es wichtig, zu vertrauen.
+
+  CDに音楽を焼いて、車の中で聴くのが私の楽しみです。
+  CDに 音楽[おんがく]を 焼[や]いて、車[くるま]の 中[なか]で 聴[き]くのが 私[わたし]の 楽[たの]しみです。
+  Es macht mir Spaß, Musik auf CDs zu brennen und sie im Auto zu hören.
+
+  炭を焼く伝統的な技術が、今も山村で受け継がれています。
+  炭[すみ]を 焼[や]く 伝統的[でんとうてき]な 技術[ぎじゅつ]が、今[いま]も 山村[さんそん]で 受[う]け 継[つ]がれています。
+  Die traditionelle Technik des Holzkohlebrennens wird auch heute noch in Bergdörfern weitergegeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 498
 Lemma: 起きる
 Lesung: おきる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 熾きる
 Definition: aufstehen; aufwachen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_top">き</span><span>�
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 起きない・起きた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   明日の朝、早く起きなければならい。
   明日[あした]の 朝[あさ]、 早[はや]く 起[お]きなければならい。
   Ich muss morgen früh aufstehen.
+
+  毎朝6時に起きて、ジョギングに行きます。
+  毎朝[まいあさ]6時[じ]に 起[お]きて、ジョギングに 行[い]きます。
+  Jeden Morgen stehe ich um 6 Uhr auf und gehe joggen.
+
+  昨日は遅くまで起きていたので、今朝は起きるのが辛かった。
+  昨日[きのう]は 遅[おそ]くまで 起[お]きていたので、今朝[けさ]は 起[お]きるのが 辛[つら]かった。
+  Weil ich gestern bis spät in die Nacht wach geblieben bin, fiel es mir heute Morgen schwer aufzustehen.
+
+  赤ちゃんが夜中に起きて泣き出した。
+  赤[あか]ちゃんが 夜中[よなか]に 起[お]きて 泣[な]き 出[だ]した。
+  Das Baby wachte mitten in der Nacht auf und begann zu weinen.
+
+  地震が起きた時、みんな慌てて外に逃げ出した。
+  地震[じしん]が 起[お]きた 時[とき]、みんな 慌[あわ]てて 外[そと]に 逃[に]げ 出[だ]した。
+  Als das Erdbeben passierte, rannten alle panisch nach draußen.
+
+  転んでも、すぐに起きて前を向くことが大切だ。
+  転[ころ]んでも、すぐに 起[お]きて 前[まえ]を 向[む]くことが 大切[たいせつ]だ。
+  Auch wenn man hinfällt, ist es wichtig, sofort wieder aufzustehen und nach vorne zu schauen.
+
+  目覚まし時計で起きるのが苦手で、いつも寝坊してしまう。
+  目覚[めざ]まし 時計[どけい]で 起[お]きるのが 苦手[にがて]で、いつも 寝坊[ねぼう]してしまう。
+  Ich habe Schwierigkeiten, mit dem Wecker aufzustehen, und verschlafe deshalb immer.
+
+  朝早く起きて、静かな時間を楽しむのが私の日課です。
+  朝[あさ] 早[はや]く 起[お]きて、静[しず]かな 時間[じかん]を 楽[たの]しむのが 私[わたし]の 日課[にっか]です。
+  Es gehört zu meiner täglichen Routine, früh aufzustehen und die ruhige Zeit zu genießen.
+
+  台風が起きて、学校が休校になった。
+  台風[たいふう]が 起[お]きて、学校[がっこう]が 休校[きゅうこう]になった。
+  Ein Taifun brach aus, und die Schule wurde geschlossen.
+
+  彼女は一晩中起きていて、朝まで勉強していた。
+  彼女[かのじょ]は 一晩中[ひとばんじゅう] 起[お]きていて、朝[あさ]まで 勉強[べんきょう]していた。
+  Sie blieb die ganze Nacht wach und lernte bis zum Morgen.
+
+  突然、爆発が起きて、みんなが驚いた。
+  突然[とつぜん]、爆発[ばくはつ]が 起[お]きて、みんなが 驚[おどろ]いた。
+  Plötzlich gab es eine Explosion, und alle waren schockiert.
+
+  寝坊したくないから、二つの目覚まし時計をセットして起きています。
+  寝坊[ねぼう]したくないから、二[ふた]つの 目覚[めざ]まし 時計[どけい]をセットして 起[お]きています。
+  Um nicht zu verschlafen, stelle ich zwei Wecker, um aufzustehen.
+
+  火事が起きたら、すぐに119番に電話してください。
+  火事[かじ]が 起[お]きたら、すぐに119番[ばん]に 電話[でんわ]してください。
+  Wenn ein Feuer ausbricht, rufen Sie bitte sofort die 119 an.
+
+  子供たちは早く起きて、朝からワクワクしながらクリスマスプレゼントを開けた。
+  子供[こども]たちは 早[はや]く 起[お]きて、朝[あさ]からワクワクしながらクリスマスプレゼントを 開[あ]けた。
+  Die Kinder standen früh auf und öffneten aufgeregt ihre Weihnachtsgeschenke vom frühen Morgen an.
+
+  彼は事故で倒れたが、すぐに起きて歩き出した。
+  彼[かれ]は 事故[じこ]で 倒[たお]れたが、すぐに 起[お]きて 歩[ある]き 出[だ]した。
+  Er fiel bei dem Unfall hin, stand aber sofort wieder auf und begann zu gehen.
+
+  問題が起きたら、すぐに上司に報告するように言われています。
+  問題[もんだい]が 起[お]きたら、すぐに 上司[じょうし]に 報告[ほうこく]するように 言[い]われています。
+  Mir wurde gesagt, dass ich meinem Vorgesetzten sofort Bericht erstatten soll, wenn ein Problem auftritt.
+
+  風邪で寝ていたが、やっと起きられるようになった。
+  風邪[かぜ]で 寝[ね]ていたが、やっと 起[お]きられるようになった。
+  Ich lag mit einer Erkältung im Bett, aber jetzt kann ich endlich wieder aufstehen.
+
+  奇跡が起きて、不可能だと思われていたことが実現した。
+  奇跡[きせき]が 起[お]きて、不可能[ふかのう]だと 思[おも]われていたことが 実現[じつげん]した。
+  Ein Wunder geschah, und etwas, das für unmöglich gehalten wurde, wurde Wirklichkeit.
+
+  彼女は毎朝5時に起きて、ヨガをしている。
+  彼女[かのじょ]は 毎朝[まいあさ]5時[じ]に 起[お]きて、ヨガをしている。
+  Sie steht jeden Morgen um 5 Uhr auf und macht Yoga.
+
+  深夜に騒ぎが起きて、警察が出動した。
+  深夜[しんや]に 騒[さわ]ぎが 起[お]きて、警察[けいさつ]が 出動[しゅつどう]した。
+  In der Nacht brach ein Tumult aus, und die Polizei rückte an.
+
+  長い眠りから起きたように、世界が急激に変化している。
+  長[なが]い 眠[ねむ]りから 起[お]きたように、世界[せかい]が 急激[きゅうげき]に 変化[へんか]している。
+  Als ob sie aus einem langen Schlaf erwacht wäre, verändert sich die Welt rapide.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

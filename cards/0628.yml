@@ -2,7 +2,7 @@ Rang: 628
 Lemma: 申し上げる
 Lesung: もうしあげる
 Alternativschreibweisen: ''
-Definition: sagen (bescheiden)
+Definition: sagen [bescheiden]
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">う</span><span class="accent_plain">し</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>も</span><span class="accent_plain">う</span><span 
 Register: ↗</>Verwaltungssprache
 Dispersion: '42'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 申し上げない・申し上げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   心からの感謝を申し上げます。
   心[こころ]からの 感謝[かんしゃ]を 申[もう]し 上[あ]げます。
   Ich möchte meinen aufrichtigen Dank ausdrücken.
+
+  ちょっと申し上げたいことがあります。
+  ちょっと 申[もう]し 上[あ]げたいことがあります。
+  Ich möchte Ihnen etwas sagen.
+
+  ご協力お願い申し上げます。
+  ご 協力[きょうりょく]お 願[ねが]い 申[もう]し 上[あ]げます。
+  Ich bitte Sie um Ihre Unterstützung.
+
+  冒頭で申し上げましたように、この件は非常に重要です。
+  冒頭[ぼうとう]で 申[もう]し 上[あ]げましたように、この 件[けん]は 非常[ひじょう]に 重要[じゅうよう]です。
+  Wie ich eingangs erwähnt habe, ist diese Angelegenheit äußerst wichtig.
+
+  社長に直接申し上げる機会がありませんでした。
+  社長[しゃちょう]に 直接[ちょくせつ] 申[もう]し 上[あ]げる 機会[きかい]がありませんでした。
+  Ich hatte keine Gelegenheit, es dem Firmenchef direkt zu sagen.
+
+  謹んでお詫び申し上げます。
+  謹[つつし]んでお 詫[わ]び 申[もう]し 上[あ]げます。
+  Ich entschuldige mich aufrichtig bei Ihnen.
+
+  お客様のご意見を社長に申し上げておきます。
+  お 客様[きゃくさま]のご 意見[いけん]を 社長[しゃちょう]に 申[もう]し 上[あ]げておきます。
+  Ich werde Ihre Meinung dem Geschäftsführer mitteilen.
+
+  心からお礼を申し上げたいと思います。
+  心[こころ]からお 礼[れい]を 申[もう]し 上[あ]げたいと 思[おも]います。
+  Ich möchte Ihnen von Herzen danken.
+
+  申し上げにくいのですが、この案には賛成できません。
+  申[もう]し 上[あ]げにくいのですが、この 案[あん]には 賛成[さんせい]できません。
+  Es fällt mir schwer, es zu sagen, aber ich kann diesem Vorschlag nicht zustimmen.
+
+  ご来場の皆様に心より感謝申し上げます。
+  ご 来場[らいじょう]の 皆様[みなさま]に 心[こころ]より 感謝[かんしゃ] 申[もう]し 上[あ]げます。
+  Ich danke allen Anwesenden von ganzem Herzen.
+
+  お忙しいところ恐縮ですが、ご検討をお願い申し上げます。
+  お 忙[いそが]しいところ 恐縮[きょうしゅく]ですが、ご 検討[けんとう]をお 願[ねが]い 申[もう]し 上[あ]げます。
+  Ich weiß, Sie sind beschäftigt, aber ich bitte Sie dennoch höflichst um Ihre Überlegung.
+
+  この度は誠に申し訳ございませんでした。
+  この 度[たび]は 誠[まこと]に 申[もう]し 訳[わけ]ございませんでした。
+  Ich entschuldige mich aufrichtig für diesen Vorfall.
+
+  お客様のご要望を上司に申し上げておきます。
+  お 客様[きゃくさま]のご 要望[ようぼう]を 上司[じょうし]に 申[もう]し 上[あ]げておきます。
+  Ich werde Ihren Wunsch meinem Vorgesetzten mitteilen.
+
+  ご質問がございましたら、遠慮なく申し上げてください。
+  ご 質問[しつもん]がございましたら、遠慮[えんりょ]なく 申[もう]し 上[あ]げてください。
+  Wenn Sie Fragen haben, zögern Sie bitte nicht, sie zu stellen.
+
+  この件について詳しく申し上げる必要があります。
+  この 件[けん]について 詳[くわ]しく 申[もう]し 上[あ]げる 必要[ひつよう]があります。
+  Ich muss Ihnen bezüglich dieser Angelegenheit Genaueres mitteilen.
+
+  お時間をいただき、誠にありがとうございます。重ねて御礼申し上げます。
+  お 時間[じかん]をいただき、誠[まこと]にありがとうございます。重[かさ]ねて 御礼[おれい] 申[もう]し 上[あ]げます。
+  Vielen Dank, dass Sie sich die Zeit genommen haben. Ich möchte Ihnen nochmals meinen Dank aussprechen.
+
+  この度はご迷惑をおかけし、深くお詫び申し上げます。
+  この 度[たび]はご 迷惑[めいわく]をおかけし、深[ふか]くお 詫[わ]び 申[もう]し 上[あ]げます。
+  Ich entschuldige mich aufrichtig für die Unannehmlichkeiten, die wir Ihnen bereitet haben.
+
+  お客様のご意見を真摯に受け止め、改善に努めて参ります。
+  お 客様[きゃくさま]のご 意見[いけん]を 真摯[しんし]に 受[う]け 止[と]め、改善[かいぜん]に 努[つと]めて 参[まい]ります。
+  Wir nehmen Ihre Meinung ernst und werden uns bemühen, Verbesserungen vorzunehmen.
+
+  ご指摘いただいた点について、早急に対応させていただきます。
+  ご 指摘[してき]いただいた 点[てん]について、早急[さっきゅう]に 対応[たいおう]させていただきます。
+  Wir werden uns umgehend mit den von Ihnen angesprochenen Punkten befassen.
+
+  この場をお借りして、皆様に心よりお礼申し上げます。
+  この 場[ば]をお 借[か]りして、皆様[みなさま]に 心[こころ]よりお 礼[れい] 申[もう]し 上[あ]げます。
+  Ich möchte diese Gelegenheit nutzen, um Ihnen allen meinen aufrichtigen Dank auszusprechen.
+
+  お手数をおかけしますが、よろしくお願い申し上げます。
+  お 手数[てすう]をおかけしますが、よろしくお 願[ねが]い 申[もう]し 上[あ]げます。
+  Ich weiß, es bereitet Ihnen Umstände, aber ich bitte Sie dennoch höflichst darum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

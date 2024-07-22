@@ -2,14 +2,14 @@ Rang: 462
 Lemma: 願う
 Lesung: ねがう
 Alternativschreibweisen: ''
-Definition: wünschen, bitten, beten
+Definition: wünschen, hoffen; bitten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ね</span><span class="accent_top">が</span><span>う</span>
 Register: ↗Internet
 Dispersion: '82'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 願わない・願った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   お二人の幸せを願っております。
   お二人の 幸[しあわ]せを 願[ねが]っております。
   Beste Wünsche für ein glückliches Leben zusammen.
+
+  大臣のいすに就くことを願っています。
+  大臣[だいじん]のいすに 就[つ]くことを 願[ねが]っています。
+  Ich hoffe darauf, einen Ministerposten zu bekommen.
+
+  成功を願って頑張っています。
+  成功[せいこう]を 願[ねが]って 頑張[がんば]っています。
+  Ich strenge mich an und hoffe auf Erfolg.
+
+  幸せを願う気持ちは誰にでもあるものだ。
+  幸[しあわ]せを 願[ねが]う 気持[きも]ちは 誰[だれ]にでもあるものだ。
+  Der Wunsch nach Glück ist etwas, das jeder hat.
+
+  試験の合格を願って、毎日勉強しています。
+  試験[しけん]の 合格[ごうかく]を 願[ねが]って、毎日[まいにち] 勉強[べんきょう]しています。
+  Ich lerne jeden Tag und hoffe, die Prüfung zu bestehen.
+
+  世界平和を願う気持ちは国境を越えて共通している。
+  世界平和[せかいへいわ]を 願[ねが]う 気持[きも]ちは 国境[こっきょう]を 越[こ]えて 共通[きょうつう]している。
+  Der Wunsch nach Weltfrieden ist über Landesgrenzen hinweg gemeinsam.
+
+  家内安全を願って、毎年初詣に行きます。
+  家内安全[かないあんぜん]を 願[ねが]って、毎年[まいとし] 初詣[はつもうで]に 行[い]きます。
+  Jedes Jahr gehe ich zum Neujahrsbesuch in den Schrein und bete für das Wohl meiner Familie.
+
+  困難な時には神の力を願うことがあります。
+  困難[こんなん]な 時[とき]には 神[かみ]の 力[ちから]を 願[ねが]うことがあります。
+  In schwierigen Zeiten bitte ich manchmal um Gottes Hilfe.
+
+  内心では、この計画の成功を願っていた。
+  内心[ないしん]では、この 計画[けいかく]の 成功[せいこう]を 願[ねが]っていた。
+  Im Inneren hoffte ich auf den Erfolg dieses Plans.
+
+  早くこの状況が終わることを願うばかりです。
+  早[はや]くこの 状況[じょうきょう]が 終[お]わることを 願[ねが]うばかりです。
+  Ich kann nur hoffen, dass diese Situation bald vorbei ist.
+
+  彼女の幸せを心から願っています。
+  彼女[かのじょ]の 幸[しあわ]せを 心[こころ]から 願[ねが]っています。
+  Ich wünsche ihr von Herzen alles Gute.
+
+  新製品の成功を願って、乾杯しましょう。
+  新製品[しんせいひん]の 成功[せいこう]を 願[ねが]って、乾杯[かんぱい]しましょう。
+  Lasst uns auf den Erfolg des neuen Produkts anstoßen.
+
+  この計画の許可を願い出ました。
+  この 計画[けいかく]の 許可[きょか]を 願[ねが]い 出[で]ました。
+  Ich habe um die Genehmigung für diesen Plan gebeten.
+
+  皆様のご協力を願います。
+  皆様[みなさま]のご 協力[きょうりょく]を 願[ねが]います。
+  Ich bitte um Ihre Kooperation.
+
+  運転の際はくれぐれもご注意を願います。
+  運転[うんてん]の 際[さい]はくれぐれもご 注意[ちゅうい]を 願[ねが]います。
+  Ich bitte Sie, beim Fahren besonders vorsichtig zu sein.
+
+  明日の会議に同行を願えませんか。
+  明日[あした]の 会議[かいぎ]に 同行[どうこう]を 願[ねが]えませんか。
+  Könnten Sie mich bitte zur morgigen Besprechung begleiten?
+
+  この仕事の手伝いを願えませんか。
+  この 仕事[しごと]の 手伝[てつだ]いを 願[ねが]えませんか。
+  Könnten Sie mir bei dieser Arbeit bitte helfen?
+
+  長期の休暇を願い出たところです。
+  長期[ちょうき]の 休暇[きゅうか]を 願[ねが]い 出[だ]たところです。
+  Ich habe gerade einen längeren Urlaub beantragt.
+
+  平伏して許しを願う姿に心を打たれた。
+  平伏[へいふく]して 許[ゆる]しを 願[ねが]う 姿[すがた]に 心[こころ]を 打[う]たれた。
+  Ich war berührt von der Geste, als er sich niederkniete und um Vergebung bat.
+
+  この件について、ご容赦を願います。
+  この 件[けん]について、ご 容赦[ようしゃ]を 願[ねが]います。
+  Ich bitte um Ihr Verständnis in dieser Angelegenheit.
+
+  ご遠慮なくご意見を願います。
+  ご 遠慮[えんりょ]なくご 意見[いけん]を 願[ねが]います。
+  Ich bitte Sie um Ihre offene Meinung.
+
+  お客様、少々お待ちいただくようお願いいたします。
+  お 客様[きゃくさま]、少々[しょうしょう]お 待[ま]ちいただくようお 願[ねが]いいたします。
+  Sehr geehrter Kunde, ich bitte Sie, einen Moment zu warten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

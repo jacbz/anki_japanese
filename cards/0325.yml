@@ -1,7 +1,7 @@
 Rang: 325
 Lemma: 長い
 Lesung: ながい
-Alternativschreibweisen: ''
+Alternativschreibweisen: 永い
 Definition: lang
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>な</span><span class="accent_top">が</span><span>�
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 長くない・長かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   彼女は髪が長い。
   彼女[かのじょ]は 髪[かみ]が 長[なが]い。
   Ihr Haar ist lang.
+
+  彼女は長い髪が特徴的です。
+  彼女[かのじょ]は 長[なが]い 髪[かみ]が 特徴的[とくちょうてき]です。
+  Ihr langes Haar ist charakteristisch für sie.
+
+  爪を長く伸ばすのは衛生面で問題があるかもしれません。
+  爪[つめ]を 長[なが]く 伸[の]ばすのは 衛生面[えいせいめん]で 問題[もんだい]があるかもしれません。
+  Lange Fingernägel zu haben, könnte aus hygienischen Gründen problematisch sein.
+
+  政治家の長いスピーチに聴衆は退屈していた。
+  政治家[せいじか]の 長[なが]いスピーチに 聴衆[ちょうしゅう]は 退屈[たいくつ]していた。
+  Das Publikum langweilte sich während der langen Rede des Politikers.
+
+  その新聞の長い記事を最後まで読み通した。
+  その 新聞[しんぶん]の 長[なが]い 記事[きじ]を 最後[さいご]まで 読[よ]み 通[とお]した。
+  Ich habe den langen Zeitungsartikel bis zum Ende durchgelesen.
+
+  このスキー場は長い下りが魅力です。
+  このスキー 場[じょう]は 長[なが]い 下[くだ]りが 魅力[みりょく]です。
+  Die lange Abfahrt ist der Reiz dieses Skigebiets.
+
+  長期間の海外滞在は人生観を変えることがあります。
+  長期間[ちょうきかん]の 海外[かいがい]滞在[たいざい]は 人生観[じんせいかん]を 変[か]えることがあります。
+  Ein langer Auslandsaufenthalt kann die Lebenseinstellung verändern.
+
+  彼女は長いキャリアを経て、ついに社長になった。
+  彼女[かのじょ]は 長[なが]いキャリアを 経[へ]て、ついに 社長[しゃちょう]になった。
+  Nach einer langen Karriere wurde sie schließlich Geschäftsführerin.
+
+  長い不在の後、やっと故郷に戻ってきた。
+  長[なが]い 不在[ふざい]の 後[あと]、やっと 故郷[こきょう]に 戻[もど]ってきた。
+  Nach einer langen Abwesenheit bin ich endlich in meine Heimat zurückgekehrt.
+
+  夏至の頃は一日が長く感じられます。
+  夏至[げし]の 頃[ころ]は 一日[いちにち]が 長[なが]く 感[かん]じられます。
+  Um die Sommersonnenwende herum fühlt sich der Tag besonders lang an.
+
+  長いサイレンの音が鳴り響き、皆が不安になった。
+  長[なが]いサイレンの 音[おと]が 鳴[な]り 響[ひび]き、皆[みな]が 不安[ふあん]になった。
+  Der lange Ton der Sirene ertönte, und alle wurden unruhig.
+
+  彼は長い眠りについた後、静かに息を引き取った。
+  彼[かれ]は 長[なが]い 眠[ねむ]りについた 後[あと]、静[しず]かに 息[いき]を 引[ひ]き 取[と]った。
+  Nachdem er in einen langen Schlaf gefallen war, verstarb er friedlich.
+
+  友人の不幸を聞いて、長いため息をついた。
+  友人[ゆうじん]の 不幸[ふこう]を 聞[き]いて、長[なが]い 溜息[ためいき]をついた。
+  Als ich von dem Unglück meines Freundes hörte, stieß ich einen langen Seufzer aus.
+
+  長距離を移動するときは、適度な休憩が必要です。
+  長距離[ちょうきょり]を 移動[いどう]するときは、適度[てきど]な 休憩[きゅうけい]が 必要[ひつよう]です。
+  Bei einer Reise über eine weite Entfernung sind angemessene Pausen notwendig.
+
+  彼は手足が長くて、バスケットボールが得意です。
+  彼[かれ]は 手足[てあし]が 長[なが]くて、バスケットボールが 得意[とくい]です。
+  Er hat lange Arme und Beine und ist gut im Basketball.
+
+  長年の経験を活かして、後輩たちを指導している。
+  長年[ながねん]の 経験[けいけん]を 活[い]かして、後輩[こうはい]たちを 指導[しどう]している。
+  Er nutzt seine langjährige Erfahrung, um die jüngeren Kollegen anzuleiten.
+
+  会議中の長い沈黙に、全員が居心地悪そうだった。
+  会議中[かいぎちゅう]の 長[なが]い 沈黙[ちんもく]に、全員[ぜんいん]が 居心地[いごこち]悪[わる]そうだった。
+  Während des langen Schweigens in der Besprechung schienen sich alle unwohl zu fühlen.
+
+  健康的な生活習慣を身につけて、長く生きたいと思います。
+  健康的[けんこうてき]な 生活習慣[せいかつしゅうかん]を 身[み]につけて、長[なが]く 生[い]きたいと 思[おも]います。
+  Ich möchte gesunde Lebensgewohnheiten entwickeln und lange leben.
+
+  彼は話し出すと長くしゃべる傾向があるので、注意が必要だ。
+  彼[かれ]は 話[はな]し 出[だ]すと 長[なが]くしゃべる 傾向[けいこう]があるので、注意[ちゅうい]が 必要[ひつよう]だ。
+  Er neigt dazu, lange zu reden, wenn er einmal anfängt, also pass auf.
+
+  海外で長く滞在すると、その国の文化にも慣れてくるよ。
+  海外[かいがい]で 長[なが]く 滞在[たいざい]すると、その 国[くに]の 文化[ぶんか]にも 慣[な]れてくるよ。
+  Wenn du lange im Ausland bleibst, gewöhnst du dich auch an die Kultur des Landes.
+
+  この調子では長く続かないので、ペースを調整する必要があります。
+  この 調子[ちょうし]では 長[なが]く 続[つづ]かないので、ペースを 調整[ちょうせい]する 必要[ひつよう]があります。
+  In diesem Tempo wird es nicht lange anhalten, also müssen wir das Tempo anpassen.
+
+  スカートを長くして、膝下まで伸ばしてみました。
+  スカートを 長[なが]くして、膝下[ひざした]まで 伸[の]ばしてみました。
+  Ich habe den Rock verlängert, sodass er jetzt bis unter die Knie reicht.
+
+  夏至が近づくにつれ、日が長くなってきましたね。
+  夏至[げし]が 近[ちか]づくにつれ、日[ひ]が 長[なが]くなってきましたね。
+  Je näher die Sommersonnenwende rückt, desto länger werden die Tage, nicht wahr?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

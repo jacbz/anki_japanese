@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>な</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 亡くならない・亡くなった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   昨日、祖父が亡くなりました。
   昨日[きのう]、 祖父[そふ]が 亡[な]くなりました。
   Mein Großvater ist gestern verstorben.
+
+  去年、祖父が亡くなりました。
+  去年[きょねん]、祖父[そふ]が 亡[な]くなりました。
+  Letztes Jahr ist mein Großvater verstorben.
+
+  交通事故で多くの人が亡くなった。
+  交通事故[こうつうじこ]で 多[おお]くの 人[ひと]が 亡[な]くなった。
+  Viele Menschen kamen bei dem Verkehrsunfall ums Leben.
+
+  有名な作家が昨日亡くなったそうです。
+  有名[ゆうめい]な 作家[さっか]が 昨日[きのう] 亡[な]くなったそうです。
+  Man sagt, dass gestern ein berühmter Schriftsteller verstorben ist.
+
+  彼女の母親が肺炎で亡くなった。
+  彼女[かのじょ]の 母親[ははおや]が 肺炎[はいえん]で 亡[な]くなった。
+  Ihre Mutter ist an einer Lungenentzündung gestorben.
+
+  突然亡くなった友人のことを思い出す。
+  突然[とつぜん] 亡[な]くなった 友人[ゆうじん]のことを 思[おも]い 出[だ]す。
+  Ich erinnere mich an meinen Freund, der plötzlich verstorben ist.
+
+  戦争で亡くなった兵士たちを追悼する式典が行われた。
+  戦争[せんそう]で 亡[な]くなった 兵士[へいし]たちを 追悼[ついとう]する 式典[しきてん]が 行[おこな]われた。
+  Es fand eine Gedenkfeier für die im Krieg gefallenen Soldaten statt.
+
+  彼の父は先月亡くなったばかりだ。
+  彼[かれ]の 父[ちち]は 先月[せんげつ] 亡[な]くなったばかりだ。
+  Sein Vater ist erst letzten Monat verstorben.
+
+  亡くなった人の遺品を整理するのは辛い作業だ。
+  亡[な]くなった 人[ひと]の 遺品[いひん]を 整理[せいり]するのは 辛[つら]い 作業[さぎょう]だ。
+  Es ist eine schmerzhafte Aufgabe, die Habseligkeiten eines Verstorbenen zu sortieren.
+
+  彼女は若くして病気で亡くなった。
+  彼女[かのじょ]は 若[わか]くして 病気[びょうき]で 亡[な]くなった。
+  Sie starb jung an einer Krankheit.
+
+  亡くなった祖母の写真を見ると懐かしい気持ちになる。
+  亡[な]くなった 祖母[そぼ]の 写真[しゃしん]を 見[み]ると 懐[なつ]かしい 気持[きも]ちになる。
+  Wenn ich Fotos meiner verstorbenen Großmutter sehe, werde ich nostalgisch.
+
+  彼は100歳で亡くなるまで健康だった。
+  彼[かれ]は100歳[さい]で 亡[な]くなるまで 健康[けんこう]だった。
+  Er war bis zu seinem Tod mit 100 Jahren gesund.
+
+  事故で亡くなった人の家族に心からお悔やみ申し上げます。
+  事故[じこ]で 亡[な]くなった 人[ひと]の 家族[かぞく]に 心[こころ]からお 悔[く]やみ 申[もう]し 上[あ]げます。
+  Ich spreche der Familie des bei dem Unfall Verstorbenen mein tiefstes Beileid aus.
+
+  亡くなった友人の冥福を祈る。
+  亡[な]くなった 友人[ゆうじん]の 冥福[めいふく]を 祈[いの]る。
+  Ich bete für das Seelenheil meines verstorbenen Freundes.
+
+  この病気で亡くなる人の数が年々減少している。
+  この 病気[びょうき]で 亡[な]くなる 人[ひと]の 数[かず]が 年々[ねんねん] 減少[げんしょう]している。
+  Die Zahl der Menschen, die an dieser Krankheit sterben, nimmt von Jahr zu Jahr ab.
+
+  亡くなった人の遺志を継ぐことが大切だ。
+  亡[な]くなった 人[ひと]の 遺志[いし]を 継[つ]ぐことが 大切[たいせつ]だ。
+  Es ist wichtig, den letzten Willen des Verstorbenen zu erfüllen.
+
+  彼女は亡くなる直前まで意識がはっきりしていた。
+  彼女[かのじょ]は 亡[な]くなる 直前[ちょくぜん]まで 意識[いしき]がはっきりしていた。
+  Sie war bis kurz vor ihrem Tod bei klarem Bewusstsein.
+
+  亡くなった方の冥福を祈って黙祷をささげましょう。
+  亡[な]くなった 方[かた]の 冥福[めいふく]を 祈[いの]って 黙祷[もくとう]をささげましょう。
+  Lasst uns in stillem Gebet für das Seelenheil des Verstorbenen beten.
+
+  彼は亡くなる前に最後の言葉を残した。
+  彼[かれ]は 亡[な]くなる 前[まえ]に 最後[さいご]の 言葉[ことば]を 残[のこ]した。
+  Er hinterließ letzte Worte, bevor er starb.
+
+  亡くなった人の思い出を大切にしていきたい。
+  亡[な]くなった 人[ひと]の 思[おも]い 出[で]を 大切[たいせつ]にしていきたい。
+  Ich möchte die Erinnerungen an den Verstorbenen in Ehren halten.
+
+  彼女は亡くなる前に家族全員と会うことができた。
+  彼女[かのじょ]は 亡[な]くなる 前[まえ]に 家族[かぞく] 全員[ぜんいん]と 会[あ]うことができた。
+  Sie konnte vor ihrem Tod noch einmal ihre ganze Familie sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

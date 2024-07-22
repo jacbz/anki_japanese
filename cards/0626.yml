@@ -4,7 +4,7 @@ Lesung: だいじょうぶ
 Alternativschreibweisen: ''
 Definition: sicher, in Ordnung
 Extra: '' # Nur bei suru-Verben
-Wortart: adv, n
+Wortart: adv, na-adj, n
 Lesung mit Tonhöhe: <span>だ</span><span class="accent_plain">い</span><span class="accent_top">じょ</span><span>う</span><span>ぶ</span><span></span>
 Register: ''
 Dispersion: '80'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   大丈夫ですか。
   大丈夫[だいじょうぶ]ですか。
   Geht es Ihnen gut?
+
+  この橋は大丈夫だから、安心して渡れます。
+  この 橋[はし]は 大丈夫[だいじょうぶ]だから、安心[あんしん]して 渡[わた]れます。
+  Diese Brücke ist sicher, also können Sie sie beruhigt überqueren.
+
+  地震に大丈夫な建物を設計することが重要です。
+  地震[じしん]に 大丈夫[だいじょうぶ]な 建物[たてもの]を 設計[せっけい]することが 重要[じゅうよう]です。
+  Es ist wichtig, erdbebensichere Gebäude zu entwerfen.
+
+  彼の日本語は大丈夫だよ。流暢に話せるんだ。
+  彼[かれ]の 日本語[にほんご]は 大丈夫[だいじょうぶ]だよ。流暢[りゅうちょう]に 話[はな]せるんだ。
+  Sein Japanisch ist in Ordnung. Er kann es fließend sprechen.
+
+  この新しいソフトウェアは日本語が大丈夫です。
+  この 新[あたら]しいソフトウェアは 日本語[にほんご]が 大丈夫[だいじょうぶ]です。
+  Diese neue Software kann Japanisch verarbeiten.
+
+  心配しないで。きっと大丈夫成功するよ。
+  心配[しんぱい]しないで。きっと 大丈夫[だいじょうぶ] 成功[せいこう]するよ。
+  Mach dir keine Sorgen. Es wird mit Sicherheit gelingen.
+
+  この仕事、一人でも大丈夫ですか？
+  この 仕事[しごと]、一人[ひとり]でも 大丈夫[だいじょうぶ]ですか？
+  Ist es in Ordnung, diese Arbeit alleine zu machen?
+
+  雨が降っても大丈夫。傘を持ってきたから。
+  雨[あめ]が 降[ふ]っても 大丈夫[だいじょうぶ]。傘[かさ]を 持[も]ってきたから。
+  Selbst wenn es regnet, ist es kein Problem. Ich habe einen Schirm dabei.
+
+  「ボールペン、持ってないから」「大丈夫だよ、貸してあげる」
+  「ボールペン、持[も]ってないから」「大丈夫[だいじょうぶ]だよ、貸[か]してあげる」
+  "Ich habe keinen Kugelschreiber dabei." "Kein Problem, ich leihe dir einen."
+
+  彼は不実な性質じゃないから、大丈夫だと思います。
+  彼[かれ]は 不実[ふじつ]な 性質[せいしつ]じゃないから、大丈夫[だいじょうぶ]だと 思[おも]います。
+  Ich denke, es ist in Ordnung, da er kein unaufrichtiger Mensch ist.
+
+  事故に遭った友人に「大丈夫でしたか？」と尋ねた。
+  事故[じこ]に 遭[あ]った 友人[ゆうじん]に「大丈夫[だいじょうぶ]でしたか？」と 尋[たず]ねた。
+  Ich fragte meinen Freund, der einen Unfall hatte: "Geht es dir gut?"
+
+  一人で行かせて大丈夫かな？心配だな。
+  一人[ひとり]で 行[い]かせて 大丈夫[だいじょうぶ]かな？心配[しんぱい]だな。
+  Ist es wirklich okay, ihn alleine gehen zu lassen? Ich mache mir Sorgen.
+
+  賞味期限が少し過ぎてるけど、大丈夫。まだ食べられるよ。
+  賞味期限[しょうみきげん]が 少[すこ]し 過[す]ぎてるけど、大丈夫[だいじょうぶ]。まだ 食[た]べられるよ。
+  Das Mindesthaltbarkeitsdatum ist zwar etwas überschritten, aber keine Sorge. Man kann es noch essen.
+
+  「そんなに難しい曲、弾けるの？」「大丈夫、練習したから」
+  「そんなに 難[むずか]しい 曲[きょく]、弾[ひ]けるの？」「大丈夫[だいじょうぶ]、練習[れんしゅう]したから」
+  "Kannst du ein so schwieriges Stück spielen?" "Kein Problem, ich habe geübt."
+
+  「今、電話大丈夫ですか？」「はい、大丈夫です。どうしました？」
+  「今[いま]、電話[でんわ] 大丈夫[だいじょうぶ]ですか？」「はい、大丈夫[だいじょうぶ]です。どうしました？」
+  "Können Sie jetzt telefonieren?" "Ja, kein Problem. Was gibt's?"
+
+  彼は大丈夫な人物だ。困難な状況でも冷静に対応できる。
+  彼[かれ]は 大丈夫[だいじょうぶ]な 人物[じんぶつ]だ。困難[こんなん]な 状況[じょうきょう]でも 冷静[れいせい]に 対応[たいおう]できる。
+  Er ist ein zuverlässiger Mann. Er kann auch in schwierigen Situationen ruhig reagieren.
+
+  この薬を飲んでも大丈夫ですか？副作用はありますか？
+  この 薬[くすり]を 飲[の]んでも 大丈夫[だいじょうぶ]ですか？副作用[ふくさよう]はありますか？
+  Ist es unbedenklich, dieses Medikament einzunehmen? Gibt es Nebenwirkungen?
+
+  落ち着いて。大丈夫、うまくいくから。
+  落[お]ち 着[つ]いて。大丈夫[だいじょうぶ]、うまくいくから。
+  Beruhige dich. Alles wird gut, es wird klappen.
+
+  「遅刻しちゃった」「大丈夫、まだ会議は始まってないよ」
+  「遅刻[ちこく]しちゃった」「大丈夫[だいじょうぶ]、まだ 会議[かいぎ]は 始[はじ]まってないよ」
+  "Ich bin zu spät gekommen." "Keine Sorge, die Besprechung hat noch nicht angefangen."
+
+  この料理、辛くないか心配だけど大丈夫？
+  この 料理[りょうり]、辛[から]くないか 心配[しんぱい]だけど 大丈夫[だいじょうぶ]？
+  Ich mache mir Sorgen, ob dieses Gericht nicht zu scharf ist. Ist es in Ordnung für dich?
+
+  彼は大丈夫な男だ。どんな困難にも立ち向かう勇気がある。
+  彼[かれ]は 大丈夫[だいじょうぶ]な 男[おとこ]だ。どんな 困難[こんなん]にも 立[た]ち 向[む]かう 勇気[ゆうき]がある。
+  Er ist ein echter Mann. Er hat den Mut, sich jeder Herausforderung zu stellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

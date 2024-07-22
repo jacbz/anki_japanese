@@ -1,15 +1,15 @@
 Rang: 638
 Lemma: 歌う
 Lesung: うたう
-Alternativschreibweisen: ''
+Alternativschreibweisen: 唄う・謡う
 Definition: singen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">た</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 歌わない・歌った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   歌うことが大好きです。
   歌[うた]うことが 大好[だいす]きです。
   Ich liebe es zu singen!
+
+  彼女は美しい声で歌を歌っています。
+  彼女[かのじょ]は 美[うつく]しい 声[こえ]で 歌[うた]を 歌[うた]っています。
+  Sie singt ein Lied mit einer schönen Stimme.
+
+  カラオケで友達と一緒に歌うのが趣味です。
+  カラオケで 友達[ともだち]と 一緒[いっしょ]に 歌[うた]うのが 趣味[しゅみ]です。
+  Mein Hobby ist es, mit Freunden zusammen Karaoke zu singen.
+
+  彼は国歌を歌うときいつも手を胸に当てます。
+  彼[かれ]は 国歌[こっか]を 歌[うた]うとき いつも 手[て]を 胸[むね]に 当[あ]てます。
+  Er legt immer die Hand auf die Brust, wenn er die Nationalhymne singt.
+
+  三味線に合わせて歌うのは難しいけど楽しいです。
+  三味線[しゃみせん]に 合[あ]わせて 歌[うた]うのは 難[むずか]しいけど 楽[たの]しいです。
+  Es ist schwierig, aber macht Spaß, zur Shamisen zu singen.
+
+  あの歌は私の子供時代に母が歌ってくれたものです。
+  あの 歌[うた]は 私[わたし]の 子供時代[こどもじだい]に 母[はは]が 歌[うた]ってくれたものです。
+  Dieses Lied hat meine Mutter mir in meiner Kindheit vorgesungen.
+
+  ジャズクラブで有名な歌手が歌っているのを聴きました。
+  ジャズクラブで 有名[ゆうめい]な 歌手[かしゅ]が 歌[うた]っているのを 聴[き]きました。
+  Ich habe in einem Jazzclub einen berühmten Sänger singen gehört.
+
+  合唱団に入って、みんなで歌うのが楽しみです。
+  合唱団[がっしょうだん]に 入[はい]って、みんなで 歌[うた]うのが 楽[たの]しみです。
+  Ich freue mich darauf, einem Chor beizutreten und mit allen zusammen zu singen.
+
+  彼女は shower 中にいつも歌っているらしい。
+  彼女[かのじょ]は シャワー 中[ちゅう]にいつも 歌[うた]っているらしい。
+  Sie singt anscheinend immer unter der Dusche.
+
+  春の美しさを歌った詩を書きました。
+  春[はる]の 美[うつく]しさを 歌[うた]った 詩[し]を 書[か]きました。
+  Ich habe ein Gedicht geschrieben, das die Schönheit des Frühlings besingt.
+
+  この歌手の歌声は天使のように美しいと謳われています。
+  この 歌手[かしゅ]の 歌声[うたごえ]は 天使[てんし]のように 美[うつく]しいと 謳[うた]われています。
+  Die Stimme dieses Sängers wird als engelsgleich schön gepriesen.
+
+  新しい憲法は平和の重要性を謳っています。
+  新[あたら]しい 憲法[けんぽう]は 平和[へいわ]の 重要性[じゅうようせい]を 謳[うた]っています。
+  Die neue Verfassung proklamiert die Wichtigkeit des Friedens.
+
+  朝早く起きると、鳥たちが歌っているのが聞こえます。
+  朝[あさ] 早[はや]く 起[お]きると、鳥[とり]たちが 歌[うた]っているのが 聞[き]こえます。
+  Wenn ich früh am Morgen aufstehe, kann ich die Vögel zwitschern hören.
+
+  彼女は子守唄を優しく歌って、赤ちゃんを寝かしつけた。
+  彼女[かのじょ]は 子守唄[こもりうた]を 優[やさ]しく 歌[うた]って、赤[あか]ちゃんを 寝[ね]かしつけた。
+  Sie sang sanft ein Wiegenlied und brachte das Baby zum Einschlafen.
+
+  この詩人は自然の美しさを歌うことで有名です。
+  この 詩人[しじん]は 自然[しぜん]の 美[うつく]しさを 歌[うた]うことで 有名[ゆうめい]です。
+  Dieser Dichter ist dafür bekannt, die Schönheit der Natur zu besingen.
+
+  彼らは平和の大切さを歌う歌を作曲しました。
+  彼[かれ]らは 平和[へいわ]の 大切[たいせつ]さを 歌[うた]う 歌[うた]を 作曲[さっきょく]しました。
+  Sie haben ein Lied komponiert, das die Wichtigkeit des Friedens besingt.
+
+  この会社は、従業員の幸福を第一に考えると謳っています。
+  この 会社[かいしゃ]は、従業員[じゅうぎょういん]の 幸福[こうふく]を 第一[だいいち]に 考[かんが]えると 謳[うた]っています。
+  Dieses Unternehmen proklamiert, dass es das Glück der Mitarbeiter an erste Stelle setzt.
+
+  毎朝、庭のウグイスが美しく歌うのを聞くのが楽しみです。
+  毎朝[まいあさ]、庭[にわ]のウグイスが 美[うつ]しく 歌[うた]うのを 聞[き]くのが 楽[たの]しみです。
+  Ich freue mich jeden Morgen darauf, die Nachtigall in meinem Garten schön singen zu hören.
+
+  彼女は感情を込めて歌うので、聴衆を魅了します。
+  彼女[かのじょ]は 感情[かんじょう]を 込[こ]めて 歌[うた]うので、聴衆[ちょうしゅう]を 魅了[みりょう]します。
+  Sie singt mit so viel Gefühl, dass sie das Publikum verzaubert.
+
+  この歌は平和な未来への希望を歌っています。
+  この 歌[うた]は 平和[へいわ]な 未来[みらい]への 希望[きぼう]を 歌[うた]っています。
+  Dieses Lied besingt die Hoffnung auf eine friedliche Zukunft.
+
+  季節の変化を歌う短歌を詠みました。
+  季節[きせつ]の 変化[へんか]を 歌[うた]う 短歌[たんか]を 詠[よ]みました。
+  Ich habe ein Tanka-Gedicht verfasst, das den Wechsel der Jahreszeiten besingt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

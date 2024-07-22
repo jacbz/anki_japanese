@@ -2,14 +2,14 @@ Rang: 566
 Lemma: 動く
 Lesung: うごく
 Alternativschreibweisen: ''
-Definition: sich bewegen; funktionieren (Maschine)
+Definition: sich bewegen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>う</span><span class="accent_top">ご</span><span>く</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 動かない・動いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   動くな。
   動[うご]くな。
   Bewege dich nicht!
+
+  風に木の葉が動いています。
+  風[かぜ]に 木[き]の 葉[は]が 動[うご]いています。
+  Die Blätter der Bäume bewegen sich im Wind.
+
+  音楽に合わせて体を動かすのは楽しいですね。
+  音楽[おんがく]に 合[あ]わせて 体[からだ]を 動[うご]かすのは 楽[たの]しいですね。
+  Es macht Spaß, sich zur Musik zu bewegen.
+
+  その考えが頭の中をずっと動いていた。
+  その 考[かんが]えが 頭[あたま]の 中[なか]をずっと 動[うご]いていた。
+  Dieser Gedanke ging mir ständig im Kopf herum.
+
+  空を見上げると、雲がゆっくりと動いているのが見えた。
+  空[そら]を 見上[みあ]げると、雲[くも]がゆっくりと 動[うご]いているのが 見[み]えた。
+  Als ich zum Himmel aufblickte, konnte ich sehen, wie sich die Wolken langsam bewegten.
+
+  息子の歯が動いているから、もうすぐ抜けそうだ。
+  息子[むすこ]の 歯[は]が 動[うご]いているから、もうすぐ 抜[ぬ]けそうだ。
+  Der Zahn meines Sohnes wackelt, er wird wohl bald ausfallen.
+
+  この動くおもちゃは、子供たちに大人気だよ。
+  この 動[うご]くおもちゃは、子供[こども]たちに 大人気[だいにんき]だよ。
+  Dieses sich bewegende Spielzeug ist bei den Kindern sehr beliebt.
+
+  空港の動く歩道を使えば、ゲートまで早く着けるよ。
+  空港[くうこう]の 動[うご]く 歩道[ほどう]を 使[つか]えば、ゲートまで 早[はや]く 着[つ]けるよ。
+  Wenn du den Fahrsteig am Flughafen benutzt, kommst du schneller zum Gate.
+
+  地震の時は、動いている物から離れるのが安全です。
+  地震[じしん]の 時[とき]は、動[うご]いている 物[もの]から 離[はな]れるのが 安全[あんぜん]です。
+  Bei einem Erdbeben ist es sicher, sich von beweglichen Gegenständen fernzuhalten.
+
+  ここを動かないでください。危険ですから。
+  ここを 動[うご]かないでください。危険[きけん]ですから。
+  Bitte bewegen Sie sich nicht von hier weg. Es ist gefährlich.
+
+  古い機械が動かなくなってしまった。
+  古[ふる]い 機械[きかい]が 動[うご]かなくなってしまった。
+  Die alte Maschine hat aufgehört zu funktionieren.
+
+  スポーツをする時は、動きやすい服装を選ぶといいですよ。
+  スポーツをする 時[とき]は、動[うご]きやすい 服装[ふくそう]を 選[えら]ぶといいですよ。
+  Beim Sport ist es gut, bequeme Kleidung zu wählen, in der man sich gut bewegen kann.
+
+  この時計は電池で動いています。
+  この 時計[とけい]は 電池[でんち]で 動[うご]いています。
+  Diese Uhr läuft mit Batterien.
+
+  エンジンが動かない。ガソリンが切れたのかな。
+  エンジンが 動[うご]かない。ガソリンが 切[き]れたのかな。
+  Der Motor läuft nicht. Ob uns wohl das Benzin ausgegangen ist?
+
+  為替相場が大きく動いて、輸出企業に影響が出ている。
+  為替相場[かわせそうば]が 大[おお]きく 動[うご]いて、輸出企業[ゆしゅつきぎょう]に 影響[えいきょう]が 出[で]ている。
+  Die Wechselkurse haben sich stark verändert, was Auswirkungen auf die Exportunternehmen hat.
+
+  彼は新しい職場に動くことを決心した。
+  彼[かれ]は 新[あたら]しい 職場[しょくば]に 動[うご]くことを 決心[けっしん]した。
+  Er hat sich entschlossen, zu einem neuen Arbeitsplatz zu wechseln.
+
+  一度決めたことは簡単には動かない性格です。
+  一度[いちど] 決[き]めたことは 簡単[かんたん]には 動[うご]かない 性格[せいかく]です。
+  Ich habe einen Charakter, bei dem ich von einmal getroffenen Entscheidungen nicht leicht abweiche.
+
+  彼女の決意は動かないようだ。
+  彼女[かのじょ]の 決意[けつい]は 動[うご]かないようだ。
+  Ihr Entschluss scheint unerschütterlich zu sein.
+
+  彼は本能のままに動いてしまった。
+  彼[かれ]は 本能[ほんのう]のままに 動[うご]いてしまった。
+  Er handelte rein instinktiv.
+
+  政治家は国民の意のままに動くべきだ。
+  政治家[せいじか]は 国民[こくみん]の 意[い]のままに 動[うご]くべきだ。
+  Politiker sollten nach dem Willen des Volkes handeln.
+
+  映画を見て、深く感情が動かされた。
+  映画[えいが]を 見[み]て、深[ふか]く 感情[かんじょう]が 動[うご]かされた。
+  Der Film hat mich emotional tief berührt.
+
+  この商品は最近よく動いているそうです。
+  この 商品[しょうひん]は 最近[さいきん]よく 動[うご]いているそうです。
+  Dieses Produkt verkauft sich in letzter Zeit angeblich sehr gut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 613
 Lemma: 決まる
 Lesung: きまる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 極まる
 Definition: entschieden werden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">ま</span><span 
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 決まらない・決まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   それは会議で決まった。
   それは 会議[かいぎ]で 決[き]まった。
   Es wurde bei einer Sitzung entschieden.
+
+  方針が決まったので、次のステップに進みましょう。
+  方針[ほうしん]が 決[き]まったので、次[つぎ]のステップに 進[すす]みましょう。
+  Da die Richtlinien festgelegt wurden, lasst uns zum nächsten Schritt übergehen.
+
+  今日の会議で予定が決まりました。
+  今日[きょう]の 会議[かいぎ]で 予定[よてい]が 決[き]まりました。
+  In der heutigen Besprechung wurde der Zeitplan festgelegt.
+
+  長い試合の末、やっと勝負が決まった。
+  長[なが]い 試合[しあい]の 末[すえ]、やっと 勝負[しょうぶ]が 決[き]まった。
+  Nach einem langen Spiel wurde endlich der Sieger ermittelt.
+
+  昨日の大会で優勝チームが決まりました。
+  昨日[きのう]の 大会[たいかい]で 優勝[ゆうしょう]チームが 決[き]まりました。
+  Bei dem gestrigen Turnier stand das Siegerteam fest.
+
+  山田さんが新しい会長に決まったそうです。
+  山田[やまだ]さんが 新[あたら]しい 会長[かいちょう]に 決[き]まったそうです。
+  Ich habe gehört, dass Herr Yamada zum neuen Vorsitzenden bestimmt wurde.
+
+  参加するかどうかまだ決まっていません。
+  参加[さんか]するかどうかまだ 決[き]まっていません。
+  Es steht noch nicht fest, ob ich teilnehmen werde.
+
+  彼が合格したとは決まっていないよ。
+  彼[かれ]が 合格[ごうかく]したとは 決[き]まっていないよ。
+  Es ist nicht gesagt, dass er die Prüfung bestanden hat.
+
+  娘の結婚の相手はもう決まっているんです。
+  娘[むすめ]の 結婚[けっこん]の 相手[あいて]はもう 決[き]まっているんです。
+  Der Ehepartner meiner Tochter steht bereits fest.
+
+  チケットの価格は需要と供給によって決まります。
+  チケットの 価格[かかく]は 需要[じゅよう]と 供給[きょうきゅう]によって 決[き]まります。
+  Der Preis der Tickets wird durch Angebot und Nachfrage bestimmt.
+
+  毎朝決まった時間に出勤しています。
+  毎朝[まいあさ] 決[き]まった 時間[じかん]に 出勤[しゅっきん]しています。
+  Ich gehe jeden Morgen zu einer festgelegten Zeit zur Arbeit.
+
+  彼には決まった収入がないので、生活が不安定だ。
+  彼[かれ]には 決[き]まった 収入[しゅうにゅう]がないので、生活[せいかつ]が 不安定[ふあんてい]だ。
+  Da er kein festes Einkommen hat, ist sein Leben instabil.
+
+  会議の日程はまだ決まっていません。
+  会議[かいぎ]の 日程[にってい]はまだ 決[き]まっていません。
+  Der Termin für die Besprechung steht noch nicht fest.
+
+  新しい髪型がよく決まっていて、とてもお似合いです。
+  新[あたら]しい 髪型[かみがた]がよく 決[き]まっていて、とてもお 似合[にあ]いです。
+  Deine neue Frisur sitzt sehr gut und steht dir ausgezeichnet.
+
+  彼のスーツが決まっていて、とてもかっこいい。
+  彼[かれ]のスーツが 決[き]まっていて、とてもかっこいい。
+  Sein Anzug sitzt perfekt und er sieht sehr gut aus.
+
+  最後の一発でシュートが決まり、試合に勝利した。
+  最後[さいご]の 一発[いっぱつ]でシュートが 決[き]まり、試合[しあい]に 勝利[しょうり]した。
+  Mit dem letzten Schuss, der ins Tor ging, gewannen wir das Spiel.
+
+  彼女は飲み会に行くと決まって歌い出す。
+  彼女[かのじょ]は 飲[の]み 会[かい]に 行[い]くと 決[き]まって 歌[うた]い 出[だ]す。
+  Wenn sie auf eine Trinkaparty geht, fängt sie unweigerlich an zu singen.
+
+  この店では決まって日曜日が休みだ。
+  この 店[みせ]では 決[き]まって 日曜日[にちようび]が 休[やす]みだ。
+  Dieser Laden hat ausnahmslos sonntags geschlossen.
+
+  それはうそに決まっている。そんなことありえない。
+  それはうそに 決[き]まっている。そんなことありえない。
+  Das ist ganz klar gelogen. So etwas kann nicht sein.
+
+  彼なら反対するに決まっている。
+  彼[かれ]なら 反対[はんたい]するに 決[き]まっている。
+  Er wird sich ganz sicher dagegen aussprechen.
+
+  試験に合格すれば嬉しいに決まっているでしょう。
+  試験[しけん]に 合格[ごうかく]すれば 嬉[うれ]しいに 決[き]まっているでしょう。
+  Natürlich freut man sich, wenn man die Prüfung besteht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

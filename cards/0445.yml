@@ -1,7 +1,7 @@
 Rang: 445
 Lemma: なくなる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 無くなる
 Definition: verschwinden; weg sein
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>な</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 無くならない・無くなった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   無駄遣いしていたので、すぐに貯金がなくなってしまった。
   無駄遣[むだづか]いしていたので、すぐに 貯金[ちょきん]がなくなってしまった。
   Da ich Geld verschwendet habe, waren die Ersparnisse schnell weg.
+
+  本が無くなってしまった。どこに置いたか思い出せない。
+  本[ほん]が 無[な]くなってしまった。どこに 置[お]いたか 思[おも]い 出[だ]せない。
+  Das Buch ist verschwunden. Ich kann mich nicht erinnern, wo ich es hingelegt habe.
+
+  時間が無くなってきたので、会議を終了しましょう。
+  時間[じかん]が 無[な]くなってきたので、会議[かいぎ]を 終了[しゅうりょう]しましょう。
+  Da uns die Zeit ausgeht, sollten wir die Besprechung beenden.
+
+  事故で意識が無くなり、病院に運ばれた。
+  事故[じこ]で 意識[いしき]が 無[な]くなり、病院[びょういん]に 運[はこ]ばれた。
+  Er verlor bei dem Unfall das Bewusstsein und wurde ins Krankenhaus gebracht.
+
+  失敗が続いて、自信が無くなってしまった。
+  失敗[しっぱい]が 続[つづ]いて、自信[じしん]が 無[な]くなってしまった。
+  Nach einer Reihe von Misserfolgen habe ich mein Selbstvertrauen verloren.
+
+  会社の資金が無くなり、倒産の危機に直面している。
+  会社[かいしゃ]の 資金[しきん]が 無[な]くなり、倒産[とうさん]の 危機[きき]に 直面[ちょくめん]している。
+  Die Firma hat kein Kapital mehr und steht vor dem Bankrott.
+
+  年を取るにつれて、昔の記憶が無くなっていく。
+  年[とし]を 取[と]るにつれて、昔[むかし]の 記憶[きおく]が 無[な]くなっていく。
+  Mit zunehmendem Alter verschwinden die Erinnerungen an früher.
+
+  彼女の夢は無くなったわけではない。ただ変わっただけだ。
+  彼女[かのじょ]の 夢[ゆめ]は 無[な]くなったわけではない。ただ 変[か]わっただけだ。
+  Ihre Träume sind nicht verschwunden. Sie haben sich nur verändert.
+
+  遠ざかる足音が無くなり、静寂が戻ってきた。
+  遠[とお]ざかる 足音[あしおと]が 無[な]くなり、静寂[せいじゃく]が 戻[もど]ってきた。
+  Die sich entfernenden Schritte verklangen, und die Stille kehrte zurück.
+
+  証拠が出てきて、彼への疑いが無くなった。
+  証拠[しょうこ]が 出[で]てきて、彼[かれ]への 疑[うたが]いが 無[な]くなった。
+  Als Beweise auftauchten, verschwanden die Zweifel an ihm.
+
+  事故で命が無くなるところだった。
+  事故[じこ]で 命[いのち]が 無[な]くなるところだった。
+  Bei dem Unfall wäre ich beinahe ums Leben gekommen.
+
+  深呼吸をしたら、緊張が無くなってきた。
+  深呼吸[しんこきゅう]をしたら、緊張[きんちょう]が 無[な]くなってきた。
+  Nach ein paar tiefen Atemzügen verflog meine Nervosität.
+
+  新しい法律ができて、職場での差別が無くなりつつある。
+  新[あたら]しい 法律[ほうりつ]ができて、職場[しょくば]での 差別[さべつ]が 無[な]くなりつつある。
+  Mit dem neuen Gesetz verschwindet die Diskriminierung am Arbeitsplatz allmählich.
+
+  10時を過ぎるとバスが無くなるので、急いで帰らなければならない。
+  10時[じ]を 過[す]ぎるとバスが 無[な]くなるので、急[いそ]いで 帰[かえ]らなければならない。
+  Da nach 22 Uhr keine Busse mehr fahren, muss ich mich beeilen, nach Hause zu kommen.
+
+  財布が無くなったと思ったら、ポケットに入っていた。
+  財布[さいふ]が 無[な]くなったと 思[おも]ったら、ポケットに 入[はい]っていた。
+  Ich dachte, mein Portemonnaie sei verschwunden, aber es war in meiner Tasche.
+
+  熱が無くなったので、明日から学校に行けそうだ。
+  熱[ねつ]が 無[な]くなったので、明日[あした]から 学校[がっこう]に 行[い]けそうだ。
+  Da mein Fieber weg ist, kann ich wohl ab morgen wieder zur Schule gehen.
+
+  彼女が去って、部屋から笑い声が無くなった。
+  彼女[かのじょ]が 去[さ]って、部屋[へや]から 笑い声[わらいごえ]が 無[な]くなった。
+  Nachdem sie gegangen war, verstummte das Lachen im Zimmer.
+
+  この地域から絶滅危惧種の動物が無くなりつつある。
+  この 地域[ちいき]から 絶滅危惧種[ぜつめつきぐしゅ]の 動物[どうぶつ]が 無[な]くなりつつある。
+  Die vom Aussterben bedrohten Tierarten verschwinden allmählich aus dieser Region.
+
+  薬を飲んだら、頭痛が無くなってきた。
+  薬[くすり]を 飲[の]んだら、頭痛[ずつう]が 無[な]くなってきた。
+  Nachdem ich die Medizin eingenommen hatte, ließ meine Kopfschmerzen nach.
+
+  彼女の姿が見えなくなり、私の心配も無くなった。
+  彼女[かのじょ]の 姿[すがた]が 見[み]えなくなり、私[わたし]の 心配[しんぱい]も 無[な]くなった。
+  Als sie außer Sichtweite war, verschwanden auch meine Sorgen.
+
+  その問題は既に無くなっているので、心配する必要はありません。
+  その 問題[もんだい]は 既[すで]に 無[な]くなっているので、心配[しんぱい]する 必要[ひつよう]はありません。
+  Da dieses Problem bereits nicht mehr existiert, brauchen Sie sich keine Sorgen zu machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

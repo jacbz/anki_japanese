@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_top">め</span><span>�
 Register: ''
 Dispersion: '76'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 示さない・示した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   大使はその大臣の提案に興味を示した。
   大使[たいし]はその 大臣[だいじん]の 提案[ていあん]に 興味[きょうみ]を 示[しめ]した。
   Der Botschafter zeigte Interesse an dem Vorschlag des Ministers.
+
+  学生証を示してください。
+  学生証[がくせいしょう]を 示[しめ]してください。
+  Bitte zeigen Sie Ihren Studentenausweis vor.
+
+  警察官に免許証を示した。
+  警察官[けいさつかん]に 免許証[めんきょしょう]を 示[しめ]した。
+  Ich zeigte dem Polizisten meinen Führerschein.
+
+  面接官に証明書を示す必要があります。
+  面接官[めんせつかん]に 証明書[しょうめいしょ]を 示[しめ]す 必要[ひつよう]があります。
+  Sie müssen dem Interviewer Ihre Zertifikate vorlegen.
+
+  新しい商品の使い方を客に示しました。
+  新[あたら]しい 商品[しょうひん]の 使[つか]い 方[かた]を 客[きゃく]に 示[しめ]しました。
+  Ich zeigte dem Kunden, wie man das neue Produkt benutzt.
+
+  彼は実験の手順を生徒たちに示した。
+  彼[かれ]は 実験[じっけん]の 手順[てじゅん]を 生徒[せいと]たちに 示[しめ]した。
+  Er demonstrierte den Schülern die Schritte des Experiments.
+
+  この図表は売上の推移を示しています。
+  この 図表[ずひょう]は 売上[うりあげ]の 推移[すいい]を 示[しめ]しています。
+  Diese Grafik zeigt die Entwicklung der Verkaufszahlen.
+
+  温度計が急激な温度上昇を示している。
+  温度計[おんどけい]が 急激[きゅうげき]な 温度上昇[おんどじょうしょう]を 示[しめ]している。
+  Das Thermometer zeigt einen plötzlichen Temperaturanstieg an.
+
+  道路標識が正しい方向を示していなかった。
+  道路標識[どうろひょうしき]が 正[ただ]しい 方向[ほうこう]を 示[しめ]していなかった。
+  Das Verkehrsschild zeigte nicht die richtige Richtung an.
+
+  この地図は主要な観光地を示しています。
+  この 地図[ちず]は 主要[しゅよう]な 観光地[かんこうち]を 示[しめ]しています。
+  Diese Karte zeigt die wichtigsten Sehenswürdigkeiten.
+
+  彼の行動は深い後悔の念を示していた。
+  彼[かれ]の 行動[こうどう]は 深[ふか]い 後悔[こうかい]の 念[ねん]を 示[しめ]していた。
+  Sein Verhalten zeigte tiefe Reue.
+
+  この研究結果は興味深い傾向を示している。
+  この 研究結果[けんきゅうけっか]は 興味深[きょうみぶか]い 傾向[けいこう]を 示[しめ]している。
+  Diese Forschungsergebnisse zeigen interessante Tendenzen.
+
+  彼女の表情が内心の不安を示していた。
+  彼女[かのじょ]の 表情[ひょうじょう]が 内心[ないしん]の 不安[ふあん]を 示[しめ]していた。
+  Ihr Gesichtsausdruck verriet ihre innere Unruhe.
+
+  その統計は人口の急激な増加を示している。
+  その 統計[とうけい]は 人口[じんこう]の 急激[きゅうげき]な 増加[ぞうか]を 示[しめ]している。
+  Die Statistik zeigt einen rapiden Bevölkerungsanstieg.
+
+  彼は新しいアイデアに対して強い興味を示した。
+  彼[かれ]は 新[あたら]しいアイデアに 対[たい]して 強[つよ]い 興味[きょうみ]を 示[しめ]した。
+  Er zeigte großes Interesse an den neuen Ideen.
+
+  この実験結果は私たちの仮説が正しいことを示している。
+  この 実験結果[じっけんけっか]は 私[わたし]たちの 仮説[かせつ]が 正[ただ]しいことを 示[しめ]している。
+  Diese Versuchsergebnisse zeigen, dass unsere Hypothese richtig ist.
+
+  彼女の態度は問題に対する無関心さを示していた。
+  彼女[かのじょ]の 態度[たいど]は 問題[もんだい]に 対[たい]する 無関心[むかんしん]さを 示[しめ]していた。
+  Ihre Haltung zeigte Gleichgültigkeit gegenüber dem Problem.
+
+  この症状は深刻な病気の可能性を示しています。
+  この 症状[しょうじょう]は 深刻[しんこく]な 病気[びょうき]の 可能性[かのうせい]を 示[しめ]しています。
+  Diese Symptome deuten auf eine ernsthafte Krankheit hin.
+
+  彼の笑顔は心からの喜びを示していた。
+  彼[かれ]の 笑顔[えがお]は 心[こころ]からの 喜[よろこ]びを 示[しめ]していた。
+  Sein Lächeln zeigte aufrichtige Freude.
+
+  この文書は契約条件を明確に示している。
+  この 文書[ぶんしょ]は 契約条件[けいやくじょうけん]を 明確[めいかく]に 示[しめ]している。
+  Dieses Dokument legt die Vertragsbedingungen klar dar.
+
+  彼らの行動は状況の深刻さを示していた。
+  彼[かれ]らの 行動[こうどう]は 状況[じょうきょう]の 深刻[しんこく]さを 示[しめ]していた。
+  Ihr Verhalten zeigte den Ernst der Lage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

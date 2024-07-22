@@ -2,14 +2,14 @@ Rang: 235
 Lemma: 変わる
 Lesung: かわる
 Alternativschreibweisen: ''
-Definition: (sich) ändern
+Definition: sich ändern, sich unterscheiden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">わ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 変わらない・変わった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼の考えは変わった。
   彼[かれ]の 考[かんが]えは 変[か]わった。
   Seine Idee hat sich geändert.
+
+  時代とともに、私たちの生活様式も変わっていきます。
+  時代[じだい]とともに、私[わたし]たちの 生活様式[せいかつようしき]も 変[か]わっていきます。
+  Mit der Zeit ändert sich auch unser Lebensstil.
+
+  彼の態度が突然変わって、みんな驚いています。
+  彼[かれ]の 態度[たいど]が 突然[とつぜん] 変[か]わって、みんな 驚[おどろ]いています。
+  Seine Haltung hat sich plötzlich geändert, und alle sind überrascht.
+
+  この街は10年前と比べてすっかり変わってしまいました。
+  この 街[まち]は10年前[ねんまえ]と 比[くら]べてすっかり 変[か]わってしまいました。
+  Diese Stadt hat sich im Vergleich zu vor 10 Jahren komplett verändert.
+
+  気候変動により、季節の変わり目が以前より不明確になっています。
+  気候変動[きこうへんどう]により、季節[きせつ]の 変[か]わり 目[め]が 以前[いぜん]より 不明確[ふめいかく]になっています。
+  Aufgrund des Klimawandels sind die Übergänge zwischen den Jahreszeiten weniger deutlich als früher.
+
+  新しい環境に変わると、最初は不安になるかもしれません。
+  新[あたら]しい 環境[かんきょう]に 変[か]わると、最初[さいしょ]は 不安[ふあん]になるかもしれません。
+  Wenn sich deine Umgebung ändert, könntest du dich anfangs unsicher fühlen.
+
+  彼女の髪型が変わって、とても印象が違います。
+  彼女[かのじょ]の 髪型[かみがた]が 変[か]わって、とても 印象[いんしょう]が 違[ちが]います。
+  Ihre Frisur hat sich geändert, und der Eindruck ist ganz anders.
+
+  このレストランのメニューは季節ごとに変わります。
+  このレストランのメニューは 季節[きせつ]ごとに 変[か]わります。
+  Die Speisekarte dieses Restaurants ändert sich je nach Jahreszeit.
+
+  会社の方針が変わって、新しいプロジェクトが始まりました。
+  会社[かいしゃ]の 方針[ほうしん]が 変[か]わって、新[あたら]しいプロジェクトが 始[はじ]まりました。
+  Die Unternehmensstrategie hat sich geändert, und ein neues Projekt hat begonnen.
+
+  彼の性格は子供の頃から全く変わっていません。
+  彼[かれ]の 性格[せいかく]は 子供[こども]の 頃[ころ]から 全[まった]く 変[か]わっていません。
+  Sein Charakter hat sich seit seiner Kindheit überhaupt nicht verändert.
+
+  交通ルールが変わったので、運転には注意が必要です。
+  交通[こうつう]ルールが 変[か]わったので、運転[うんてん]には 注意[ちゅうい]が 必要[ひつよう]です。
+  Da sich die Verkehrsregeln geändert haben, ist beim Fahren Vorsicht geboten.
+
+  彼女の表情が喜びから悲しみへと変わりました。
+  彼女[かのじょ]の 表情[ひょうじょう]が 喜[よろこ]びから 悲[かな]しみへと 変[か]わりました。
+  Ihr Gesichtsausdruck wechselte von Freude zu Traurigkeit.
+
+  スマートフォンの普及により、コミュニケーションの形が大きく変わりました。
+  スマートフォンの 普及[ふきゅう]により、コミュニケーションの 形[かたち]が 大[おお]きく 変[か]わりました。
+  Mit der Verbreitung von Smartphones hat sich die Art der Kommunikation stark verändert.
+
+  彼の考え方は経験を積むにつれて変わっていきました。
+  彼[かれ]の 考[かんが]え 方[かた]は 経験[けいけん]を 積[つ]むにつれて 変[か]わっていきました。
+  Seine Denkweise hat sich mit zunehmender Erfahrung verändert.
+
+  このアプリのデザインが変わって、使いやすくなりました。
+  このアプリのデザインが 変[か]わって、使[つか]いやすくなりました。
+  Das Design dieser App hat sich geändert und ist nun benutzerfreundlicher.
+
+  彼女の声のトーンが変わって、何か悪いことがあったのかと心配になりました。
+  彼女[かのじょ]の 声[こえ]のトーンが 変[か]わって、何[なに]か 悪[わる]いことがあったのかと 心配[しんぱい]になりました。
+  Der Ton ihrer Stimme änderte sich, und ich machte mir Sorgen, ob etwas Schlimmes passiert sei.
+
+  新しい技術の導入により、生産プロセスが大きく変わりました。
+  新[あたら]しい 技術[ぎじゅつ]の 導入[どうにゅう]により、生産[せいさん]プロセスが 大[おお]きく 変[か]わりました。
+  Durch die Einführung neuer Technologien hat sich der Produktionsprozess erheblich verändert.
+
+  彼の態度が急に変わって、皆を困惑させました。
+  彼[かれ]の 態度[たいど]が 急[きゅう]に 変[か]わって、皆[みな]を 困惑[こんわく]させました。
+  Seine Haltung änderte sich plötzlich und verwirrte alle.
+
+  環境保護の意識が高まり、人々のライフスタイルが少しずつ変わっています。
+  環境保護[かんきょうほご]の 意識[いしき]が 高[たか]まり、人々[ひとびと]のライフスタイルが 少[すこ]しずつ 変[か]わっています。
+  Mit zunehmendem Umweltbewusstsein ändert sich der Lebensstil der Menschen allmählich.
+
+  彼女の話し方が変わっていて、少し気になりました。
+  彼女[かのじょ]の 話[はな]し 方[かた]が 変[か]わっていて、少[すこ]し 気[き]になりました。
+  Ihre Art zu sprechen hat sich verändert, was mir ein wenig aufgefallen ist.
+
+  結婚してから、彼の生活リズムが大きく変わりました。
+  結婚[けっこん]してから、彼[かれ]の 生活[せいかつ]リズムが 大[おお]きく 変[か]わりました。
+  Seit seiner Heirat hat sich sein Lebensrhythmus stark verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

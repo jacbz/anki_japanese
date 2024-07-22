@@ -1,7 +1,7 @@
 Rang: 101
 Lemma: すごい
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 凄い
 Definition: fantastisch, wunderbar; schrecklich
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="">す</span><span class="accent_top">ご</span
 Register: ''
 Dispersion: '45'
 Ursprung: ''
-Konjugation: ''
+Konjugation: すごくない・すごかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   昨夜はすごい雨だった。
   昨夜[さくや]はすごい 雨[あめ]だった。
   Es hat gestern Nacht sehr stark geregnet.
+
+  すごい嵐が近づいているそうだ。
+  すごい 嵐[あらし]が 近[ちか]づいているそうだ。
+  Ein furchtbarer Sturm soll sich nähern.
+
+  昨日はすごい雨が降って、外出できなかった。
+  昨日[きのう]はすごい 雨[あめ]が 降[ふ]って、外出[がいしゅつ]できなかった。
+  Gestern hat es so stark geregnet, dass ich nicht ausgehen konnte.
+
+  これはすごいチャンスだから、絶対に逃すな。
+  これはすごいチャンスだから、絶対[ぜったい]に 逃[のが]すな。
+  Das ist eine großartige Chance, also lass sie auf keinen Fall verstreichen.
+
+  彼女はすごい美人で、みんなの目を引いていた。
+  彼女[かのじょ]はすごい 美人[びじん]で、みんなの 目[め]を 引[ひ]いていた。
+  Sie war eine unglaublich schöne Frau und zog alle Blicke auf sich.
+
+  新幹線はすごい速さで目的地に到着した。
+  新幹線[しんかんせん]はすごい 速[はや]さで 目的地[もくてきち]に 到着[とうちゃく]した。
+  Der Shinkansen erreichte das Ziel mit atemberaubender Geschwindigkeit.
+
+  この部屋、すごい匂いがするね。窓を開けよう。
+  この 部屋[へや]、すごい 匂[にお]いがするね。窓[まど]を 開[あ]けよう。
+  Dieser Raum riecht extrem stark. Lass uns das Fenster öffnen.
+
+  このラーメン、すごく美味しいよ。一緒に食べに行こう。
+  このラーメン、すごく 美味[おい]しいよ。一緒[いっしょ]に 食[た]べに 行[い]こう。
+  Diese Ramen sind total lecker. Lass uns zusammen essen gehen.
+
+  試験に合格して、すごく嬉しかった。
+  試験[しけん]に 合格[ごうかく]して、すごく 嬉[うれ]しかった。
+  Ich habe die Prüfung bestanden und war unheimlich froh darüber.
+
+  歯がすごく痛むので、歯医者に行かなければならない。
+  歯[は]がすごく 痛[いた]むので、歯医者[はいしゃ]に 行[い]かなければならない。
+  Mein Zahn tut furchtbar weh, also muss ich zum Zahnarzt gehen.
+
+  彼の演技のすごさに、観客全員が魅了された。
+  彼[かれ]の 演技[えんぎ]のすごさに、観客[かんきゃく] 全員[ぜんいん]が 魅了[みりょう]された。
+  Die Großartigkeit seiner Darstellung fesselte alle Zuschauer.
+
+  すごい火事で、建物が全焼してしまった。
+  すごい 火事[かじ]で、建物[たてもの]が 全焼[ぜんしょう]してしまった。
+  Es war ein schrecklicher Brand, bei dem das Gebäude vollständig niederbrannte.
+
+  彼女の歌声はすごくて、鳥肌が立った。
+  彼女[かのじょ]の 歌声[うたごえ]はすごくて、鳥肌[とりはだ]が 立[た]った。
+  Ihre Stimme war so beeindruckend, dass ich eine Gänsehaut bekam.
+
+  すごい勢いで仕事をこなしていく彼を見て、驚いた。
+  すごい 勢[いきお]いで 仕事[しごと]をこなしていく 彼[かれ]を 見[み]て、驚[おどろ]いた。
+  Ich war erstaunt, als ich sah, wie er die Arbeit mit unglaublicher Energie erledigte.
+
+  このゲーム、すごく難しいけど、面白いね。
+  このゲーム、すごく 難[むずか]しいけど、面白[おもしろ]いね。
+  Dieses Spiel ist zwar extrem schwierig, aber es macht Spaß.
+
+  すごい量の雪が降って、交通機関が麻痺した。
+  すごい 量[りょう]の 雪[ゆき]が 降[ふ]って、交通機関[こうつうきかん]が 麻痺[まひ]した。
+  Es fiel eine enorme Menge Schnee, und der Verkehr kam zum Erliegen.
+
+  彼女の演奏はすごかった。会場中が静まり返っていた。
+  彼女[かのじょ]の 演奏[えんそう]はすごかった。会場中[かいじょうじゅう]が 静[しず]まり 返[かえ]っていた。
+  Ihre Aufführung war fantastisch. Der ganze Saal war mucksmäuschenstill.
+
+  すごい人混みで、友達を見失ってしまった。
+  すごい 人混[ひとご]みで、友達[ともだち]を 見失[みうしな]ってしまった。
+  In dem unglaublichen Gedränge habe ich meinen Freund aus den Augen verloren.
+
+  このレストラン、すごく人気があるから予約が必要だよ。
+  このレストラン、すごく 人気[にんき]があるから 予約[よやく]が 必要[ひつよう]だよ。
+  Dieses Restaurant ist so beliebt, dass man reservieren muss.
+
+  彼の話を聞いて、すごくショックを受けた。
+  彼[かれ]の 話[はなし]を 聞[き]いて、すごくショックを 受[う]けた。
+  Ich war total schockiert, als ich seine Geschichte hörte.
+
+  十メートルくらいの距離だったら葉書程度の的は撃ち抜けるわよ。すごいでしょ？
+  十[じゅう]メートルくらいの 距離[きょり]だったら 葉書[はがき] 程度[ていど]の 的[まと]は 撃[う]ち 抜[ぬ]けるわよ。すごいでしょ？
+  Auf zehn Meter Entfernung treffe ich ein postkartengroßes Ziel. Toll, was?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

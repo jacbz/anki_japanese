@@ -2,7 +2,7 @@ Rang: 689
 Lemma: いらっしゃる
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: kommen, gehen, sein (respektvoll)
+Definition: kommen, gehen; sein [respektvoll]
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">ら</span><span class="accent_plain">っ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: いらっしゃらない・いらっしゃった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   高橋さんがいらっしゃいました。
   高橋[たかはし]さんがいらっしゃいました。
   Herr Takahashi ist hier.
+
+  ええ、今夜の宿舎ナビダード・テイコク・ホテルまでは、バスでいらっしゃいますか？
+  ええ、今夜[こんや]の 宿舎[しゅくしゃ]ナビダード・テイコク・ホテルまでは、バスでいらっしゃいますか？
+  Äh, noch eine Frage. Fahren Sie mit dem Bus zum Imperial Hotel Navidad, wo Sie heute nächtigen werden?
+
+  あなたがたはここに見学にいらっしゃったんですか？
+  あなたがたはここに 見学[けんがく]にいらっしゃったんですか？
+  Sind Sie gekommen, um sich das hier mal anzuschauen?
+
+  パパ、ヒギンズさんが日本にいらっしゃるんですって、家に泊っていただきましょうよ。
+  パパ、ヒギンズさんが 日本[にほん]にいらっしゃるんですって、家[いえ]に 泊[と]まっていただきましょうよ。
+  Du, Papa, die Higgins kommen nach Japan. Können sie nicht bei uns wohnen?
+
+  ポッター、さあ、一緒にいらっしゃい。
+  ポッター、さあ、一緒[いっしょ]にいらっしゃい。
+  Potter, folgen Sie mir, sofort.
+
+  あなたがリヨンにいらっしゃると噂に聞いて、お電話したんですけど、やっぱり、そうだったのね。
+  あなたがリヨンにいらっしゃると 噂[うわさ]に 聞[き]いて、お 電話[でんわ]したんですけど、やっぱり、そうだったのね。
+  Ich habe gehört, dass du in Lyon bist, also habe ich angerufen, und du bist tatsächlich hier!
+
+  夜明けまでここにいらっしゃることはなかった。
+  夜明[よあ]けまでここにいらっしゃることはなかった。
+  Bis zum Morgengrauen bist du noch nie geblieben.
+
+  駄目よ。お母さまは白らばくれていらっしゃるのよ。何もかも知っていらっしゃる癖に。
+  駄目[だめ]よ。お 母[かあ]さまは 白[しら]らばくれていらっしゃるのよ。何[なに]もかも 知[し]っていらっしゃる 癖[くせ]に。
+  Es hat keinen Zweck, Mutter. Du tust so, als verstündest du nicht, aber ich weiß doch genau, dass du alles durchschaust.
+
+  すぐには出来ませんよ。待っていらっしゃい。それより着替えたらどうですか。
+  すぐには 出来[でき]ませんよ。待[ま]っていらっしゃい。それより 着替[きが]えたらどうですか。
+  Ich kann im Moment nicht. Hab' doch noch einen Moment Geduld, vielleicht ziehst du dich erstmal um?
+
+  失礼ですが、どなた様でいらっしゃいますか。
+  失礼[しつれい]ですが、どなた 様[さま]でいらっしゃいますか。
+  Verzeihung, wie ist der werte Name?
+
+  承りますれば御不幸が御有なすったそうですな。さぞ御力落しでいらっしゃいましょう。
+  承[うけたまわ]りますれば 御不幸[ごふこう]が 御有[おあり]なすったそうですな。さぞ 御力落[ごちからお]しでいらっしゃいましょう。
+  Wie ich erfuhr, hat Sie ein schweres Unglück getroffen. Der Verlust geht Ihnen bestimmt sehr nahe.
+
+  そうなんでこざいます。奥さまは疾うにお気づきでいらっしゃいましょう。
+  そうなんでこざいます。奥[おく]さまは 疾[と]うにお 気[き]づきでいらっしゃいましょう。
+  Jawohl, gnädige Frau. Sie haben es sicher schon lange bemerkt.
+
+  お客様、そろそろお時間でいらっしゃいます。
+  お 客様[きゃくさま]、そろそろお 時間[じかん]でいらっしゃいます。
+  Verehrter Gast, es wird langsam Zeit für Sie.
+
+  先生はいつ頃いらっしゃいますか？
+  先生[せんせい]はいつ 頃[ころ]いらっしゃいますか？
+  Wann ungefähr kommt der Lehrer?
+
+  社長はまだ会社にいらっしゃいますか？
+  社長[しゃちょう]はまだ 会社[かいしゃ]にいらっしゃいますか？
+  Ist der Geschäftsführer noch in der Firma?
+
+  お待たせしました。こちらへいらっしゃいませ。
+  お 待[ま]たせしました。こちらへいらっしゃいませ。
+  Entschuldigen Sie die Wartezeit. Bitte kommen Sie hier entlang.
+
+  お客様、お荷物をお持ちしましょうか？こちらへいらっしゃいませ。
+  お 客様[きゃくさま]、お 荷物[にもつ]をお 持[も]ちしましょうか？こちらへいらっしゃいませ。
+  Verehrter Gast, darf ich Ihr Gepäck tragen? Bitte folgen Sie mir.
+
+  どちらからいらっしゃいましたか？
+  どちらからいらっしゃいましたか？
+  Woher kommen Sie?
+
+  お客様、お食事の準備ができましたら、お呼びにまいりますので、少々お待ちいらっしゃいませ。
+  お 客様[きゃくさま]、お 食事[しょくじ]の 準備[じゅんび]ができましたら、お 呼[よ]びにまいりますので、 少々[しょうしょう]お 待[ま]ちいらっしゃいませ。
+  Verehrter Gast, ich werde Sie rufen, sobald das Essen fertig ist. Bitte warten Sie noch einen Moment.
+
+  もしよろしければ、明日の午後3時頃いらっしゃいませんか？
+  もしよろしければ、明日[あした]の 午後[ごご]3時[じ] 頃[ごろ]いらっしゃいませんか？
+  Wenn es Ihnen recht ist, könnten Sie morgen gegen 15 Uhr kommen?
+
+  お客様、お部屋はこちらでいらっしゃいます。
+  お 客様[きゃくさま]、お 部屋[へや]はこちらでいらっしゃいます。
+  Verehrter Gast, Ihr Zimmer befindet sich hier.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

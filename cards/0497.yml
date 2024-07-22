@@ -2,14 +2,14 @@ Rang: 497
 Lemma: 進む
 Lesung: すすむ
 Alternativschreibweisen: ''
-Definition: voranschreiten
+Definition: vorangehen, fortschreiten
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">す</span><span class="accent_plain">む</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 進まない・進んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   計画は予定通り進んでいる。
   計画[けいかく]は 予定通[よていどお]り 進[すす]んでいる。
   Der Plan schreitet planmäßig voran.
+
+  群衆をかきわけて前に進んでいく。
+  群衆[ぐんしゅう]をかきわけて 前[まえ]に 進[すす]んでいく。
+  Ich bahne mir einen Weg durch die Menge.
+
+  この道をまっすぐ進むと駅に着きます。
+  この 道[みち]をまっすぐ 進[すす]むと 駅[えき]に 着[つ]きます。
+  Wenn du dieser Straße geradeaus folgst, kommst du zum Bahnhof.
+
+  北に進むにつれて、気温が下がっていった。
+  北[きた]に 進[すす]むにつれて、気温[きおん]が 下[さ]がっていった。
+  Je weiter wir nach Norden kamen, desto niedriger wurde die Temperatur.
+
+  早足で駅に向かって進んだ。
+  早足[はやあし]で 駅[えき]に 向[む]かって 進[すす]んだ。
+  Ich ging schnellen Schrittes zum Bahnhof.
+
+  表示に従って進むと、目的地に到着するはずです。
+  表示[ひょうじ]に 従[したが]って 進[すす]むと、目的地[もくてきち]に 到着[とうちゃく]するはずです。
+  Wenn Sie den Anweisungen folgen, sollten Sie Ihr Ziel erreichen.
+
+  プロジェクトの準備が順調に進んでいます。
+  プロジェクトの 準備[じゅんび]が 順調[じゅんちょう]に 進[すす]んでいます。
+  Die Vorbereitungen für das Projekt gehen gut voran.
+
+  環境汚染が進むにつれて、多くの動植物が絶滅の危機に瀕している。
+  環境汚染[かんきょうおせん]が 進[すす]むにつれて、多[おお]くの 動植物[どうしょくぶつ]が 絶滅[ぜつめつ]の 危機[きき]に 瀕[ひん]している。
+  Mit fortschreitender Umweltverschmutzung sind viele Tier- und Pflanzenarten vom Aussterben bedroht.
+
+  老化が進むのを遅らせるために、健康的な生活習慣を心がけています。
+  老化[ろうか]が 進[すす]むのを 遅[おく]らせるために、健康的[けんこうてき]な 生活習慣[せいかつしゅうかん]を 心[こころ]がけています。
+  Um den Alterungsprozess zu verlangsamen, achte ich auf einen gesunden Lebensstil.
+
+  病状が進むにつれて、より強力な薬が必要になった。
+  病状[びょうじょう]が 進[すす]むにつれて、より 強力[きょうりょく]な 薬[くすり]が 必要[ひつよう]になった。
+  Mit dem Fortschreiten der Krankheit wurden stärkere Medikamente notwendig.
+
+  交渉は遅々として進まず、合意に達するまでにはまだ時間がかかりそうだ。
+  交渉[こうしょう]は 遅々[ちち]として 進[すす]まず、合意[ごうい]に 達[たっ]するまでにはまだ 時間[じかん]がかかりそうだ。
+  Die Verhandlungen kommen nur langsam voran, und es wird wohl noch einige Zeit dauern, bis eine Einigung erzielt wird.
+
+  彼女は好きな道を進み、夢を追い続けている。
+  彼女[かのじょ]は 好[す]きな 道[みち]を 進[すす]み、夢[ゆめ]を 追[お]い 続[つづ]けている。
+  Sie geht ihren eigenen Weg und verfolgt weiterhin ihre Träume.
+
+  息子は来年、中学に進学します。
+  息子[むすこ]は 来年[らいねん]、中学[ちゅうがく]に 進学[しんがく]します。
+  Mein Sohn wird nächstes Jahr in die Mittelschule kommen.
+
+  彼女は本選に進み、優勝のチャンスを手に入れた。
+  彼女[かのじょ]は 本選[ほんせん]に 進[すす]み、優勝[ゆうしょう]のチャンスを 手[て]に 入[い]れた。
+  Sie ist in die Endrunde gekommen und hat nun die Chance zu gewinnen.
+
+  時計が10分進んでいるので、実際の時間より早く着いてしまった。
+  時計[とけい]が10分[ふん] 進[すす]んでいるので、実際[じっさい]の 時間[じかん]より 早[はや]く 着[つ]いてしまった。
+  Da meine Uhr 10 Minuten vorging, kam ich früher an als geplant.
+
+  仕事がなかなか進まず、締め切りに間に合うか心配だ。
+  仕事[しごと]がなかなか 進[すす]まず、締[し]め 切[き]りに 間[ま]に 合[あ]うか 心配[しんぱい]だ。
+  Die Arbeit kommt nicht recht voran, und ich mache mir Sorgen, ob ich den Abgabetermin einhalten kann.
+
+  新しい技術の導入により、生産効率が大幅に進んだ。
+  新[あたら]しい 技術[ぎじゅつ]の 導入[どうにゅう]により、生産効率[せいさんこうりつ]が 大幅[おおはば]に 進[すす]んだ。
+  Durch die Einführung neuer Technologien hat sich die Produktionseffizienz erheblich verbessert.
+
+  計画通りに進めば、来月には新製品を発表できるでしょう。
+  計画通[けいかくどお]りに 進[すす]めば、来月[らいげつ]には 新製品[しんせいひん]を 発表[はっぴょう]できるでしょう。
+  Wenn alles nach Plan verläuft, können wir nächsten Monat das neue Produkt vorstellen.
+
+  文明が進むにつれて、人々の生活様式も大きく変化した。
+  文明[ぶんめい]が 進[すす]むにつれて、人々[ひとびと]の 生活様式[せいかつようしき]も 大[おお]きく 変化[へんか]した。
+  Mit dem Fortschritt der Zivilisation hat sich auch die Lebensweise der Menschen stark verändert.
+
+  人口減少が進み、地方の活性化が課題となっている。
+  人口減少[じんこうげんしょう]が 進[すす]み、地方[ちほう]の 活性化[かっせいか]が 課題[かだい]となっている。
+  Die Bevölkerung schrumpft weiter, und die Wiederbelebung der ländlichen Gebiete ist zu einer wichtigen Aufgabe geworden.
+
+  大学に進学することで、新しい知識と経験を得る機会が広がった。
+  大学[だいがく]に 進学[しんがく]することで、新[あたら]しい 知識[ちしき]と 経験[けいけん]を 得[え]る 機会[きかい]が 広[ひろ]がった。
+  Durch den Besuch der Universität haben sich meine Möglichkeiten erweitert, neues Wissen und Erfahrungen zu sammeln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

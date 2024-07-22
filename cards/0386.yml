@@ -1,7 +1,7 @@
 Rang: 386
 Lemma: やめる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 止める・已める
 Definition: aufhören, aufgeben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>や</span><span class="accent_plain">め</span><span 
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: やめない・やめた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼は煙草をやめた。
   彼[かれ]は 煙草[たばこ]をやめた。
   Er hat das Rauchen aufgegeben.
+
+  勉強をやめて遊びに行くのはよくないよ。
+  勉強[べんきょう]をやめて 遊[あそ]びに 行[い]くのはよくないよ。
+  Es ist nicht gut, das Lernen aufzugeben und spielen zu gehen.
+
+  彼は援助をやめると宣言しました。
+  彼[かれ]は 援助[えんじょ]をやめると 宣言[せんげん]しました。
+  Er erklärte, dass er die Unterstützung einstellen wird.
+
+  経済的な理由で学校をやめざるを得なかった。
+  経済的[けいざいてき]な 理由[りゆう]で 学校[がっこう]をやめざるを 得[え]なかった。
+  Aus finanziellen Gründen musste ich die Schule abbrechen.
+
+  この計画はリスクが高すぎるのでやめましょう。
+  この 計画[けいかく]はリスクが 高[たか]すぎるのでやめましょう。
+  Lassen Sie uns diesen Plan aufgeben, da das Risiko zu hoch ist.
+
+  喧嘩をやめて仲直りしようよ。
+  喧嘩[けんか]をやめて 仲直[なかなお]りしようよ。
+  Lass uns aufhören zu streiten und uns versöhnen.
+
+  彼女との交際をやめる決心をしました。
+  彼女[かのじょ]との 交際[こうさい]をやめる 決心[けっしん]をしました。
+  Ich habe mich entschieden, die Beziehung mit ihr zu beenden.
+
+  台風のため旅行をやめることにした。
+  台風[たいふう]のため 旅行[りょこう]をやめることにした。
+  Wegen des Taifuns haben wir beschlossen, die Reise nicht zu unternehmen.
+
+  不況で多くの人が商売をやめざるを得なくなった。
+  不況[ふきょう]で 多[おお]くの 人[ひと]が 商売[しょうばい]をやめざるを 得[え]なくなった。
+  Aufgrund der Rezession mussten viele Menschen ihre Geschäfte aufgeben.
+
+  たばこをやめてから健康になった気がします。
+  たばこをやめてから 健康[けんこう]になった 気[き]がします。
+  Seitdem ich mit dem Rauchen aufgehört habe, fühle ich mich gesünder.
+
+  途中でやめずに最後まで頑張ろう。
+  途中[とちゅう]でやめずに 最後[さいご]まで 頑張[がんば]ろう。
+  Lass uns nicht mittendrin aufgeben, sondern bis zum Ende durchhalten.
+
+  この習慣はやめないと将来後悔するかもしれない。
+  この 習慣[しゅうかん]はやめないと 将来[しょうらい] 後悔[こうかい]するかもしれない。
+  Wenn du diese Gewohnheit nicht aufgibst, könntest du es in Zukunft bereuen.
+
+  チョコレートを食べるのをやめられない。
+  チョコレートを 食[た]べるのをやめられない。
+  Ich kann nicht aufhören, Schokolade zu essen.
+
+  今日は雨だから外出をやめておこう。
+  今日[きょう]は 雨[あめ]だから 外出[がいしゅつ]をやめておこう。
+  Lass uns heute wegen des Regens vorerst nicht ausgehen.
+
+  喫煙者の楽しみを奪うつもりは無いが、せめて混雑した街中では歩きたばこはやめて頂きたい。
+  喫煙者[きつえんしゃ]の 楽[たの]しみを 奪[うば]うつもりは 無[な]いが、せめて 混雑[こんざつ]した 街中[まちなか]では 歩[ある]きたばこはやめて 頂[いただ]きたい。
+  Ich möchte den Rauchern ihr Vergnügen nicht nehmen, aber ich würde mir wünschen, dass sie zumindest in belebten Straßen auf das Rauchen beim Gehen verzichten.
+
+  一日に四十本煙草を吸う。どうしてもやめられないんだ。
+  一日[いちにち]に 四十本[よんじゅっぽん] 煙草[たばこ]を 吸[す]う。どうしてもやめられないんだ。
+  Ich rauche vierzig Zigaretten am Tag. Ich kann einfach nicht damit aufhören.
+
+  主人が時々遠慮なく欠伸をするので、遂に中途でやめて帰ってしまった。
+  主人[しゅじん]が 時々[ときどき] 遠慮[えんりょ]なく 欠伸[あくび]をするので、遂[つい]に 中途[ちゅうと]でやめて 帰[かえ]ってしまった。
+  Da mein Chef immer wieder hemmungslos gähnte, hörte ich schließlich mittendrin auf und ging nach Hause.
+
+  二〇年一月、英・仏・伊はロシア封鎖をやめた。
+  二〇年[にじゅうねん] 一月[いちがつ]、英[えい]・仏[ふつ]・伊[い]はロシア 封鎖[ふうさ]をやめた。
+  Im Januar 1920 beendeten England, Frankreich und Italien die Blockade Russlands.
+
+  冗談はやめろ、証明書だ！
+  冗談[じょうだん]はやめろ、証明書[しょうめいしょ]だ！
+  Hör auf mit den Witzen, zeig mir die Papiere!
+
+  「やめておけ！」とその声は言いました。「おまえのためを思って忠告するのだ。」
+  「やめておけ！」とその 声[こえ]は 言[い]いました。「おまえのためを 思[おも]って 忠告[ちゅうこく]するのだ。」
+  "Lass es sein!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

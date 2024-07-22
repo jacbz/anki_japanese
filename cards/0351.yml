@@ -2,9 +2,9 @@ Rang: 351
 Lemma: 結果
 Lesung: けっか
 Alternativschreibweisen: ''
-Definition: Ergebnis
+Definition: Ergebnis, Folge
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Lesung mit Tonhöhe: <span>け</span><span class="accent_plain">っ</span><span class="accent_plain">か</span>
 Register: ''
 Dispersion: '96'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   調査の結果を報告します。
   調査[ちょうさ]の 結果[けっか]を 報告[ほうこく]します。
   Ich werde über die Ergebnisse der Untersuchung berichten.
+
+  実験の結果が出るまで、もう少し待つ必要があります。
+  実験[じっけん]の 結果[けっか]が 出[で]るまで、もう 少[すこ]し 待[ま]つ 必要[ひつよう]があります。
+  Wir müssen noch etwas warten, bis die Ergebnisse des Experiments vorliegen.
+
+  選挙の結果を受けて、新しい政策が実施されることになりました。
+  選挙[せんきょ]の 結果[けっか]を 受[う]けて、新[あた]しい 政策[せいさく]が 実施[じっし]されることになりました。
+  Aufgrund der Wahlergebnisse werden neue Politiken umgesetzt.
+
+  話し合いの結果、両者が合意に達しました。
+  話[はな]し 合[あ]いの 結果[けっか]、両者[りょうしゃ]が 合意[ごうい]に 達[たっ]しました。
+  Als Ergebnis der Verhandlungen haben beide Parteien eine Einigung erzielt.
+
+  その結果、会社の業績が大幅に改善されました。
+  その 結果[けっか]、会社[かいしゃ]の 業績[ぎょうせき]が 大幅[おおはば]に 改善[かいぜん]されました。
+  Infolgedessen hat sich die Leistung des Unternehmens erheblich verbessert.
+
+  結果を重視するあまり、プロセスを無視してはいけません。
+  結果[けっか]を 重視[じゅうし]するあまり、プロセスを 無視[むし]してはいけません。
+  Man sollte den Prozess nicht ignorieren, nur weil man zu sehr auf das Ergebnis fixiert ist.
+
+  彼の行動が悪い結果を招いてしまった。
+  彼[かれ]の 行動[こうどう]が 悪[わる]い 結果[けっか]を 招[まね]いてしまった。
+  Sein Verhalten hat zu schlechten Konsequenzen geführt.
+
+  この新しい方法は良い結果をもたらすと期待されています。
+  この 新[あたら]しい 方法[ほうほう]は 良[よ]い 結果[けっか]をもたらすと 期待[きたい]されています。
+  Es wird erwartet, dass diese neue Methode gute Ergebnisse bringen wird.
+
+  原因と結果の関係を理解することが重要です。
+  原因[げんいん]と 結果[けっか]の 関係[かんけい]を 理解[りかい]することが 重要[じゅうよう]です。
+  Es ist wichtig, die Beziehung zwischen Ursache und Wirkung zu verstehen.
+
+  彼女の努力の結果、試験に合格することができました。
+  彼女[かのじょ]の 努力[どりょく]の 結果[けっか]、試験[しけん]に 合格[ごうかく]することができました。
+  Als Ergebnis ihrer Bemühungen konnte sie die Prüfung bestehen.
+
+  予期せぬ結果が生じることもあります。
+  予期[よき]せぬ 結果[けっか]が 生[しょう]じることもあります。
+  Es können auch unerwartete Folgen eintreten.
+
+  結果的に、彼の決断は正しかったことが証明されました。
+  結果的[けっかてき]に、彼[かれ]の 決断[けつだん]は 正[ただ]しかったことが 証明[しょうめい]されました。
+  Letztendlich wurde bewiesen, dass seine Entscheidung richtig war.
+
+  この研究結果は、従来の理論を覆すものでした。
+  この 研究結果[けんきゅうけっか]は、従来[じゅうらい]の 理論[りろん]を 覆[くつがえ]すものでした。
+  Diese Forschungsergebnisse haben die herkömmliche Theorie widerlegt.
+
+  結果を出すためには、計画的に行動することが大切です。
+  結果[けっか]を 出[だ]すためには、計画的[けいかくてき]に 行動[こうどう]することが 大切[たいせつ]です。
+  Um Ergebnisse zu erzielen, ist es wichtig, planmäßig vorzugehen.
+
+  交渉の結果如何によっては、プロジェクトの方向性が変わる可能性があります。
+  交渉[こうしょう]の 結果如何[けっかいかん]によっては、プロジェクトの 方向性[ほうこうせい]が 変[か]わる 可能性[かのうせい]があります。
+  Je nach Ausgang der Verhandlungen könnte sich die Richtung des Projekts ändern.
+
+  結果発表は来週の月曜日を予定しています。
+  結果発表[けっかはっぴょう]は 来週[らいしゅう]の 月曜日[げつようび]を 予定[よてい]しています。
+  Die Bekanntgabe der Ergebnisse ist für nächsten Montag geplant.
+
+  彼は結果を恐れずに、新しいことに挑戦し続けています。
+  彼[かれ]は 結果[けっか]を 恐[おそ]れずに、新[あたら]しいことに 挑戦[ちょうせん]し 続[つづ]けています。
+  Er scheut keine Konsequenzen und stellt sich weiterhin neuen Herausforderungen.
+
+  この薬の副作用として、眠気を感じるという結果が報告されています。
+  この 薬[くすり]の 副作用[ふくさよう]として、眠気[ねむけ]を 感[かん]じるという 結果[けっか]が 報告[ほうこく]されています。
+  Als Nebenwirkung dieses Medikaments wurde Schläfrigkeit als Ergebnis berichtet.
+
+  結果オーライという考え方は、時として危険を伴うこともあります。
+  結果[けっか]オーライという 考[かんが]え 方[かた]は、時[とき]として 危険[きけん]を 伴[ともな]うこともあります。
+  Die Denkweise "Hauptsache, das Ergebnis stimmt" kann manchmal auch gefährlich sein.
+
+  彼女の行動の結果、チーム全体のモチベーションが上がりました。
+  彼女[かのじょ]の 行動[こうどう]の 結果[けっか]、チーム 全体[ぜんたい]のモチベーションが 上[あ]がりました。
+  Als Folge ihres Handelns ist die Motivation des gesamten Teams gestiegen.
+
+  この実験結果は、私たちの仮説を裏付けるものとなりました。
+  この 実験結果[じっけんけっか]は、私[わたし]たちの 仮説[かせつ]を 裏付[うらづ]けるものとなりました。
+  Diese Versuchsergebnisse haben unsere Hypothese bestätigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

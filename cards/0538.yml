@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 売らない・売った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は古着をフリーマーケットで売った。
   彼[かれ]は 古着[ふるぎ]をフリーマーケットで 売[う]った。
   Er hat seine gebrauchte Kleidung auf Flohmärkten verkauft.
+
+  この本屋は新刊書を安く売っています。
+  この 本屋[ほんや]は 新刊書[しんかんしょ]を 安[やす]く 売[う]っています。
+  Diese Buchhandlung verkauft neue Bücher günstig.
+
+  彼は自分の車を売ることにしました。
+  彼[かれ]は 自分[じぶん]の 車[くるま]を 売[う]ることにしました。
+  Er hat beschlossen, sein Auto zu verkaufen.
+
+  地元の農家は新鮮な野菜を市場で売っています。
+  地元[じもと]の 農家[のうか]は 新鮮[しんせん]な 野菜[やさい]を 市場[しじょう]で 売[う]っています。
+  Lokale Bauern verkaufen frisches Gemüse auf dem Markt.
+
+  その会社は新しい技術を海外企業に売りました。
+  その 会社[かいしゃ]は 新[あたら]しい 技術[ぎじゅつ]を 海外企業[かいがいきぎょう]に 売[う]りました。
+  Das Unternehmen hat seine neue Technologie an ausländische Firmen verkauft.
+
+  彼女は自分の才能を売り込もうとしています。
+  彼女[かのじょ]は 自分[じぶん]の 才能[さいのう]を 売[う]り 込[こ]もうとしています。
+  Sie versucht, ihr Talent zu vermarkten.
+
+  そのアーティストは魂を売ったと批判されています。
+  そのアーティストは 魂[たましい]を 売[う]ったと 批判[ひはん]されています。
+  Der Künstler wird kritisiert, seine Seele verkauft zu haben.
+
+  彼は友情を金で売るような人間ではありません。
+  彼[かれ]は 友情[ゆうじょう]を 金[かね]で 売[う]るような 人間[にんげん]ではありません。
+  Er ist kein Mensch, der Freundschaft für Geld verkaufen würde.
+
+  その政治家は国民の利益を売ったと非難されました。
+  その 政治家[せいじか]は 国民[こくみん]の 利益[りえき]を 売[う]ったと 非難[ひなん]されました。
+  Der Politiker wurde beschuldigt, die Interessen des Volkes verraten zu haben.
+
+  彼女は自分の信念を売るくらいなら、辞職すると言いました。
+  彼女[かのじょ]は 自分[じぶん]の 信念[しんねん]を 売[う]るくらいなら、辞職[じしょく]すると 言[い]いました。
+  Sie sagte, sie würde eher zurücktreten, als ihre Überzeugungen zu verraten.
+
+  その店は質の悪い商品を高く売っているので評判が悪い。
+  その 店[みせ]は 質[しつ]の 悪[わる]い 商品[しょうひん]を 高[たか]く 売[う]っているので 評判[ひょうばん]が 悪[わる]い。
+  Der Laden hat einen schlechten Ruf, weil er minderwertige Produkte zu hohen Preisen verkauft.
+
+  彼は自分の絵を売って生計を立てています。
+  彼[かれ]は 自分[じぶん]の 絵[え]を 売[う]って 生計[せいけい]を 立[た]てています。
+  Er bestreitet seinen Lebensunterhalt durch den Verkauf seiner Gemälde.
+
+  その企業は個人情報を他社に売っていたことが発覚しました。
+  その 企業[きぎょう]は 個人情報[こじんじょうほう]を 他社[たしゃ]に 売[う]っていたことが 発覚[はっかく]しました。
+  Es wurde entdeckt, dass das Unternehmen persönliche Daten an andere Firmen verkauft hatte.
+
+  オンラインショップで商品を売るのは簡単です。
+  オンラインショップで 商品[しょうひん]を 売[う]るのは 簡単[かんたん]です。
+  Es ist einfach, Produkte in einem Online-Shop zu verkaufen.
+
+  彼は自分の才能を安く売りすぎているように思います。
+  彼[かれ]は 自分[じぶん]の 才能[さいのう]を 安[やす]く 売[う]りすぎているように 思[おも]います。
+  Ich denke, er verkauft sein Talent unter Wert.
+
+  その会社は環境に悪い製品を売るのをやめました。
+  その 会社[かいしゃ]は 環境[かんきょう]に 悪[わる]い 製品[せいひん]を 売[う]るのをやめました。
+  Das Unternehmen hat aufgehört, umweltschädliche Produkte zu verkaufen.
+
+  彼女は自分の服をオンラインで売ることにしました。
+  彼女[かのじょ]は 自分[じぶん]の 服[ふく]を オンラインで 売[う]ることにしました。
+  Sie hat beschlossen, ihre Kleidung online zu verkaufen.
+
+  彼らは新製品を海外市場で売り出す予定です。
+  彼[かれ]らは 新製品[しんせいひん]を 海外市場[かいがいしじょう]で 売[う]り 出[だ]す 予定[よてい]です。
+  Sie planen, ihr neues Produkt auf dem internationalen Markt zu verkaufen.
+
+  その店は閉店セールで全商品を半額で売っています。
+  その 店[みせ]は 閉店[へいてん]セールで 全商品[ぜんしょうひん]を 半額[はんがく]で 売[う]っています。
+  Der Laden verkauft alle Produkte zum halben Preis in seinem Ausverkauf.
+
+  彼は自分の古い本をネットオークションで売りました。
+  彼[かれ]は 自分[じぶん]の 古[ふる]い 本[ほん]を ネットオークションで 売[う]りました。
+  Er hat seine alten Bücher in einer Online-Auktion verkauft.
+
+  彼女は自分の作品を高く売るために、有名なギャラリーと契約しました。
+  彼女[かのじょ]は 自分[じぶん]の 作品[さくひん]を 高[たか]く 売[う]るために、有名[ゆうめい]なギャラリーと 契約[けいやく]しました。
+  Sie hat einen Vertrag mit einer bekannten Galerie abgeschlossen, um ihre Werke teuer zu verkaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

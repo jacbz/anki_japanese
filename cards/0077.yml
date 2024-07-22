@@ -1,15 +1,15 @@
 Rang: 77
 Lemma: やる
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: machen; tun; geben
+Alternativschreibweisen: 遣る
+Definition: tun, machen; geben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="">や</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: やらない・やった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   今すぐやります。
   今[いま]すぐやります。
   Ich werde das jetzt machen.
+
+  子供を大学へやるのはお金がかかります。
+  子供[こども]を 大学[だいがく]へやるのはお 金[かね]がかかります。
+  Es kostet viel Geld, die Kinder auf die Universität zu schicken.
+
+  医者を呼びにやってください。急いでいます。
+  医者[いしゃ]を 呼[よ]びにやってください。 急[いそ]いでいます。
+  Bitte schicke jemanden, um einen Arzt zu holen. Es ist dringend.
+
+  子供に小遣いをやるのは良い経験になります。
+  子供[こども]に 小遣[こづか]いをやるのは 良[よ]い 経験[けいけん]になります。
+  Den Kindern Taschengeld zu geben, ist eine gute Erfahrung für sie.
+
+  チップをやるのは、日本ではあまり一般的ではありません。
+  チップをやるのは、日本[にほん]ではあまり 一般的[いっぱんてき]ではありません。
+  In Japan ist es nicht sehr üblich, Trinkgeld zu geben.
+
+  花に水をやるのを忘れないでね。
+  花[はな]に 水[みず]をやるのを 忘[わす]れないでね。
+  Vergiss nicht, die Blumen zu gießen.
+
+  坊や、お父さんがうまいものをやるから来てごらん。
+  坊[ぼう]や、お 父[とう]さんがうまいものをやるから 来[き]てごらん。
+  Komm her, mein Junge. Papa hat etwas Leckeres für dich.
+
+  道中をしたら茶代をやるものだと聞いていたよ。
+  道中[どうちゅう]をしたら 茶代[ちゃだい]をやるものだと 聞[き]いていたよ。
+  Ich hatte gehört, dass man auf Reisen Trinkgeld geben sollte.
+
+  彼は娘を社長の息子にやることにしたそうだ。
+  彼[かれ]は 娘[むすめ]を 社長[しゃちょう]の 息子[むすこ]にやることにしたそうだ。
+  Er hat anscheinend beschlossen, seine Tochter mit dem Sohn des Firmenchefs zu verheiraten.
+
+  今日は何をやる予定ですか？
+  今日[きょう]は 何[なに]をやる 予定[よてい]ですか？
+  Was haben Sie heute vor zu tun?
+
+  トランプをやろうよ。暇だし。
+  トランプをやろうよ。暇[ひま]だし。
+  Lass uns Karten spielen. Wir haben ja Zeit.
+
+  柔道をやっているんですか？すごいですね。
+  柔道[じゅうどう]をやっているんですか？すごいですね。
+  Du machst Judo? Das ist ja toll.
+
+  彼女は20年間教師をやっているそうです。
+  彼女[かのじょ]は20年間[ねんかん] 教師[きょうし]をやっているそうです。
+  Sie soll seit 20 Jahren als Lehrerin arbeiten.
+
+  よくやった！君の努力は報われたね。
+  よくやった！ 君[きみ]の 努力[どりょく]は 報[むく]われたね。
+  Gut gemacht! Deine Anstrengungen haben sich gelohnt.
+
+  別にいいだろ、自分でやるよ。
+  別[べつ]にいいだろ、自分[じぶん]でやるよ。
+  Schon gut, ich mache das selbst.
+
+  彼をやっつけてやる！もう我慢できない。
+  彼[かれ]をやっつけてやる！もう 我慢[がまん]できない。
+  Ich werde ihn fertig machen! Ich kann es nicht mehr ertragen.
+
+  一杯やろうよ。今日は祝杯を上げる日だ。
+  一杯[いっぱい]やろうよ。今日[きょう]は 祝杯[しゅくはい]を 上[あ]げる 日[ひ]だ。
+  Lass uns einen trinken. Heute ist ein Tag zum Feiern.
+
+  タバコをやめたいんだけど、なかなか難しいな。
+  タバコをやめたいんだけど、なかなか 難[むずか]しいな。
+  Ich möchte mit dem Rauchen aufhören, aber es ist echt schwierig.
+
+  どうにかやっていける給料があればいいんだけどな。
+  どうにかやっていける 給料[きゅうりょう]があればいいんだけどな。
+  Es wäre schön, wenn ich ein Gehalt hätte, mit dem ich irgendwie über die Runden kommen könnte.
+
+  六年前は金もコネもなかったけど、何とかやれたじゃないか。
+  六年前[ろくねんまえ]は 金[かね]もコネもなかったけど、何[なん]とかやれたじゃないか。
+  Vor sechs Jahren hatten wir weder Geld noch Verbindungen, aber irgendwie haben wir es geschafft, oder?
+
+  消えやらぬ悪夢に悩まされています。
+  消[き]えやらぬ 悪夢[あくむ]に 悩[なや]まされています。
+  Ich werde von Albträumen geplagt, die nicht verschwinden wollen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

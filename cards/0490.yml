@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>み</span><span class="accent_plain">と</span><span 
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 認めない・認めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   父は私たちの結婚を認めなかった。
   父[ちち]は 私[わたし]たちの 結婚[けっこん]を 認[みと]めなかった。
   Mein Vater hat unsere Ehe nicht genehmigt.
+
+  頂上に人影が認められる。
+  頂上[ちょうじょう]に 人影[ひとかげ]が 認[みと]められる。
+  Auf dem Gipfel sind Menschen zu sehen.
+
+  心臓に異常を認めました。
+  心臓[しんぞう]に 異常[いじょう]を 認[みと]めました。
+  Ich habe eine Herzstörung festgestellt.
+
+  外傷は認められませんでした。
+  外傷[がいしょう]は 認[みと]められませんでした。
+  Es wurden keine äußeren Verletzungen festgestellt.
+
+  塵ほどの黒点が次第に大きくなり、はっきり人馬の姿を認めるまでにはかなり長い時間を要した。
+  塵[ちり]ほどの 黒点[こくてん]が 次第[しだい]に 大[おお]きくなり、はっきり 人馬[じんば]の 姿[すがた]を 認[みと]めるまでにはかなり 長[なが]い 時間[じかん]を 要[よう]した。
+  Es dauerte ziemlich lange, bis die staubkorngroßen schwarzen Punkte allmählich größer wurden und man deutlich die Gestalt von Mensch und Pferd erkennen konnte.
+
+  死体の所見は、死の直前の交渉の形跡を認めなかった。
+  死体[したい]の 所見[しょけん]は、死[し]の 直前[ちょくぜん]の 交渉[こうしょう]の 形跡[けいせき]を 認[みと]めなかった。
+  Der Befund der Leiche wies keine Anzeichen für einen Kontakt unmittelbar vor dem Tod auf.
+
+  三四郎は掃除を頼まれたのだが、べつに掃除をする必要もないと認めた。
+  三四郎[さんしろう]は 掃除[そうじ]を 頼[たの]まれたのだが、べつに 掃除[そうじ]をする 必要[ひつよう]もないと 認[みと]めた。
+  Sanshiro wurde gebeten zu putzen, aber er fand, dass es eigentlich nicht nötig war.
+
+  万人が認める名作だ。
+  万人[ばんにん]が 認[みと]める 名作[めいさく]だ。
+  Es ist ein allgemein anerkanntes Meisterwerk.
+
+  彼の権威は広く認められている。
+  彼[かれ]の 権威[けんい]は 広[ひろ]く 認[みと]められている。
+  Seine Autorität ist weithin anerkannt.
+
+  あっさり過ちを認めてくれて嬉しい。
+  あっさり 過[あやま]ちを 認[みと]めてくれて 嬉[うれ]しい。
+  Ich bin froh, dass du deinen Fehler ohne Weiteres zugibst.
+
+  堂々と敗北を認める姿勢に感動した。
+  堂々[どうどう]と 敗北[はいぼく]を 認[みと]める 姿勢[しせい]に 感動[かんどう]した。
+  Ich war beeindruckt von seiner Haltung, die Niederlage offen einzugestehen.
+
+  犯行を認めた容疑者は警察に連行された。
+  犯行[はんこう]を 認[みと]めた 容疑者[ようぎしゃ]は 警察[けいさつ]に 連行[れんこう]された。
+  Der Verdächtige, der die Tat gestanden hatte, wurde von der Polizei abgeführt.
+
+  議長は彼の発言を認めた。
+  議長[ぎちょう]は 彼[かれ]の 発言[はつげん]を 認[みと]めた。
+  Der Vorsitzende erteilte ihm das Wort.
+
+  裁判官は被告の言い分を認めた。
+  裁判官[さいばんかん]は 被告[ひこく]の 言[い]い 分[ぶん]を 認[みと]めた。
+  Der Richter akzeptierte die Erklärung des Angeklagten.
+
+  新政権を公式に認める国が増えている。
+  新[しん]政権[せいけん]を 公式[こうしき]に 認[みと]める 国[くに]が 増[ふ]えている。
+  Immer mehr Länder erkennen die neue Regierung offiziell an.
+
+  国の交戦権は、これを認めない。
+  国[くに]の 交戦権[こうせんけん]は、これを 認[みと]めない。
+  Das Kriegsführungsrecht des Staates wird nicht anerkannt.
+
+  学者も夢は色々な深い意味を持っている、と認めているんですって。
+  学者[がくしゃ]も 夢[ゆめ]は 色々[いろいろ]な 深[ふか]い 意味[いみ]を 持[も]っている、と 認[みと]めているんですって。
+  Ich habe gehört, dass auch Wissenschaftler anerkennen, dass Träume verschiedene tiefe Bedeutungen haben.
+
+  「過ちもあったことは認めざるを得ない」と首相は述べた。
+  「過[あやま]ちもあったことは 認[みと]めざるを 得[え]ない」と 首相[しゅしょう]は 述[の]べた。
+  »Wir müssen zugeben, dass es auch Fehler gab«, erklärte der Premierminister.
+
+  布教の自由は相変らず認められていない。
+  布教[ふきょう]の 自由[じゆう]は 相変[あいか]わらず 認[みと]められていない。
+  Die Freiheit der Missionierung wird nach wie vor nicht zugestanden.
+
+  彼女の美しさは、年齢を考えると認めざるを得ない。
+  彼女[かのじょ]の 美[うつく]しさは、年齢[ねんれい]を 考[かんが]えると 認[みと]めざるを 得[え]ない。
+  Ihre Schönheit muss man, wenn man ihr Alter bedenkt, anerkennen.
+
+  自他共に認める天才だ。
+  自他共[じたとも]に 認[みと]める 天才[てんさい]だ。
+  Er ist ein allseits anerkanntes Genie.
+
+  彼女の才能は誰もが認めるところだ。
+  彼女[かのじょ]の 才能[さいのう]は 誰[だれ]もが 認[みと]めるところだ。
+  Ihr Talent wird von allen anerkannt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,8 +1,8 @@
 Rang: 891
 Lemma: 広がる
 Lesung: ひろがる
-Alternativschreibweisen: ''
-Definition: sich ausbreiten, sich erstrecken
+Alternativschreibweisen: 拡がる
+Definition: sich ausbreiten, sich erweitern
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">ろ</span><span class="accent_plain">が</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">ろ</span><span 
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 広がらない・広がった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   田んぼが広がっている。
   田[た]んぼが 広[ひろ]がっている。
   Reisfelder breiten sich aus.
+
+  道路が広がって、交通の流れがよくなりました。
+  道路[どうろ]が 広[ひろ]がって、交通[こうつう]の 流[なが]れがよくなりました。
+  Die Straße wurde verbreitert, und der Verkehrsfluss hat sich verbessert.
+
+  火事が広がるのを防ぐため、消防士たちが懸命に消火活動をしていた。
+  火事[かじ]が 広[ひろ]がるのを 防[ふせ]ぐため、消防士[しょうぼうし]たちが 懸命[けんめい]に 消火活動[しょうかかつどう]をしていた。
+  Um die Ausbreitung des Feuers zu verhindern, kämpften die Feuerwehrleute unermüdlich.
+
+  新しい靴を履いているうちに、少しずつ広がってきた。
+  新[あたら]しい 靴[くつ]を 履[は]いているうちに、少[すこ]しずつ 広[ひろ]がってきた。
+  Während ich die neuen Schuhe trug, weiteten sie sich nach und nach.
+
+  染みが広がる前に、すぐにしみ抜き剤を使用しました。
+  染[し]みが 広[ひろ]がる 前[まえ]に、すぐにしみ 抜[ぬ]き 剤[ざい]を 使用[しよう]しました。
+  Bevor sich der Fleck ausbreiten konnte, habe ich sofort Fleckenentferner verwendet.
+
+  この経験を通じて、私の視野が大きく広がりました。
+  この 経験[けいけん]を 通[とお]じて、私[わたし]の 視野[しや]が 大[おお]きく 広[ひろ]がりました。
+  Durch diese Erfahrung hat sich mein Horizont erheblich erweitert.
+
+  その噂は瞬く間に町中に広がった。
+  その 噂[うわさ]は 瞬[またた]く 間[ま]に 町中[まちじゅう]に 広[ひろ]がった。
+  Das Gerücht verbreitete sich im Nu in der ganzen Stadt.
+
+  周りには森が広がっており、別荘は緑の海に沈んでいるようだ。
+  周[まわ]りには 森[もり]が 広[ひろ]がっており、別荘[べっそう]は 緑[みどり]の 海[うみ]に 沈[しず]んでいるようだ。
+  Ringsherum breitete sich der Wald aus, so dass das Ferienhaus wie in einem Meer aus Grün versunken zu sein schien.
+
+  感染症が広がるのを防ぐため、手洗いとマスク着用を心がけましょう。
+  感染症[かんせんしょう]が 広[ひろ]がるのを 防[ふせ]ぐため、手洗[てあら]いとマスク 着用[ちゃくよう]を 心[こころ]がけましょう。
+  Um die Ausbreitung von Infektionskrankheiten zu verhindern, sollten wir auf Händewaschen und das Tragen von Masken achten.
+
+  地平線まで広がる麦畑の景色は息をのむほど美しかった。
+  地平線[ちへいせん]まで 広[ひろ]がる 麦畑[むぎばたけ]の 景色[けしき]は 息[いき]をのむほど 美[うつく]しかった。
+  Die Aussicht auf das Weizenfeld, das sich bis zum Horizont erstreckte, war atemberaubend schön.
+
+  新技術の導入により、会社の事業領域が大きく広がった。
+  新技術[しんぎじゅつ]の 導入[どうにゅう]により、会社[かいしゃ]の 事業領域[じぎょうりょういき]が 大[おお]きく 広[ひろ]がった。
+  Durch die Einführung neuer Technologien hat sich der Geschäftsbereich des Unternehmens stark erweitert.
+
+  風船が膨らむにつれて、ゴムが徐々に広がっていくのが分かった。
+  風船[ふうせん]が 膨[ふく]らむにつれて、ゴムが 徐々[じょじょ]に 広[ひろ]がっていくのが 分[わ]かった。
+  Als der Ballon aufgeblasen wurde, konnte man sehen, wie sich der Gummi allmählich ausdehnte.
+
+  インターネットの普及により、情報が瞬時に世界中に広がるようになった。
+  インターネットの 普及[ふきゅう]により、情報[じょうほう]が 瞬時[しゅんじ]に 世界中[せかいじゅう]に 広[ひろ]がるようになった。
+  Mit der Verbreitung des Internets können sich Informationen nun augenblicklich auf der ganzen Welt ausbreiten.
+
+  空に広がる虹を見て、心が晴れやかになった。
+  空[そら]に 広[ひろ]がる 虹[にじ]を 見[み]て、心[こころ]が 晴[は]れやかになった。
+  Als ich den Regenbogen sah, der sich über den Himmel spannte, wurde mir leicht ums Herz.
+
+  この本を読むことで、私の知識の幅が大きく広がった気がします。
+  この 本[ほん]を 読[よ]むことで、私[わたし]の 知識[ちしき]の 幅[はば]が 大[おお]きく 広[ひろ]がった 気[き]がします。
+  Durch das Lesen dieses Buches habe ich das Gefühl, dass sich mein Wissenshorizont stark erweitert hat.
+
+  川幅が広がるにつれて、流れがゆっくりになっていった。
+  川幅[かわはば]が 広[ひろ]がるにつれて、流[なが]れがゆっくりになっていった。
+  Als der Fluss breiter wurde, verlangsamte sich die Strömung.
+
+  新しい友人との出会いで、私の人間関係の輪が広がりました。
+  新[あたら]しい 友人[ゆうじん]との 出会[であ]いで、私[わたし]の 人間関係[にんげんかんけい]の 輪[わ]が 広[ひろ]がりました。
+  Durch die Begegnung mit neuen Freunden hat sich mein Bekanntenkreis erweitert.
+
+  この絵の具は水を加えると、きれいに広がっていくんだ。
+  この 絵[え]の 具[ぐ]は 水[みず]を 加[くわ]えると、きれいに 広[ひろ]がっていくんだ。
+  Wenn man dieser Farbe Wasser hinzufügt, breitet sie sich schön aus.
+
+  噂が広がれば広がるほど、真実が歪められていく可能性が高くなる。
+  噂[うわさ]が 広[ひろ]がれば 広[ひろ]がるほど、真実[しんじつ]が 歪[ゆが]められていく 可能性[かのうせい]が 高[たか]くなる。
+  Je weiter sich ein Gerücht verbreitet, desto größer wird die Wahrscheinlichkeit, dass die Wahrheit verzerrt wird.
+
+  スーパーの新商品の評判が口コミで広がり、大ヒットとなった。
+  スーパーの 新商品[しんしょうひん]の 評判[ひょうばん]が 口[くち]コミで 広[ひろ]がり、大[おお]ヒットとなった。
+  Der Ruf des neuen Produkts im Supermarkt verbreitete sich durch Mundpropaganda und wurde ein großer Erfolg.
+
+  窓を開けると、新鮮な空気が部屋中に広がった。
+  窓[まど]を 開[あ]けると、新鮮[しんせん]な 空気[くうき]が 部屋中[へやじゅう]に 広[ひろ]がった。
+  Als ich das Fenster öffnete, breitete sich frische Luft im ganzen Zimmer aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

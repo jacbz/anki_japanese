@@ -1,15 +1,15 @@
 Rang: 684
 Lemma: おる
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: sein, existieren (bescheiden)
+Alternativschreibweisen: 居る
+Definition: sein, existieren [bescheiden]
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: おらない・おった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,96 @@ Beispielsätze: |-
   現在[げんざい]、オフィスにおります。
   Im Moment bin ich in meinem Büro.
 
+  「吾家の父さんは居りやすか」
+  「吾家[うち]の 父[とう]さんは 居[お]りやすか」
+  "Ist mein Vater hier?"
+
+  戦地におる息子に会いたい一心で生きておったんじゃのにねえ。
+  戦地[せんち]におる 息子[むすこ]に 会[あ]いたい 一心[いっしん]で 生[い]きておったんじゃのにねえ。
+  Sie hat so am Leben gehangen, denn sie wollte doch unbedingt ihren Sohn, der an der Front ist, wiedersehen.
+
+  太刀も帯びて居れば、弓矢も携えて居りました。
+  太刀[たち]も 帯[お]びて 居[お]れば、弓矢[ゆみや]も 携[たずさ]えて 居[お]りました。
+  Er trug sowohl ein Schwert als auch Pfeil und Bogen.
+
+  「はい、知っております。」と、被告は小さな声でみとめました。
+  「はい、知[し]っております。」と、被告[ひこく]は 小[ちい]さな 声[こえ]でみとめました。
+  "Ich weiß es", gab der Angeklagte kleinlaut zu.
+
+  江戸は今、何かと口実を設け、次々と大藩をとり潰しにかかりおる。
+  江戸[えど]は 今[いま]、何[なに]かと 口実[こうじつ]を 設[もう]け、次々[つぎつぎ]と 大藩[たいはん]をとり 潰[つぶ]しにかかりおる。
+  Edo nutzt jetzt jeden Vorwand, um die großen Fürstentümer eines nach dem anderen zu zerschlagen.
+
+  「到頭、みんな手廻りのものだけ持って出て行きおった。ばか共めが!」
+  「到頭[とうとう]、みんな 手廻[てまわ]りのものだけ 持[も]って 出[で]て 行[い]きおった。ばか 共[ども]めが!」
+  "Zu guter Letzt haben die Dummköpfe nur das mitgenommen, was sie gerade bei sich hatten."
+
+  彼はここに居るはずだが、見当たらない。
+  彼[かれ]はここに 居[お]るはずだが、見当[みあ]たらない。
+  Er sollte hier sein, aber ich kann ihn nirgendwo finden.
+
+  祖父は昔から同じ家に居る。
+  祖父[そふ]は 昔[むかし]から 同[おな]じ 家[いえ]に 居[お]る。
+  Mein Großvater lebt seit jeher im selben Haus.
+
+  この町には古くから住んでおる家族が多い。
+  この 町[まち]には 古[ふる]くから 住[す]んでおる 家族[かぞく]が 多[おお]い。
+  In dieser Stadt gibt es viele Familien, die seit langem hier wohnen.
+
+  彼女は今日も遅くまで会社に居るつもりだ。
+  彼女[かのじょ]は 今日[きょう]も 遅[おそ]くまで 会社[かいしゃ]に 居[お]るつもりだ。
+  Sie hat vor, auch heute wieder bis spät in der Firma zu bleiben.
+
+  あの猫はいつも庭に居る。
+  あの 猫[ねこ]はいつも 庭[にわ]に 居[お]る。
+  Diese Katze ist immer im Garten.
+
+  「ご注文の品は準備しておりますので、少々お待ちください。」
+  「ご 注文[ちゅうもん]の 品[しな]は 準備[じゅんび]しておりますので、少々[しょうしょう]お 待[ま]ちください。」
+  "Ihre Bestellung wird gerade vorbereitet. Bitte warten Sie einen Moment."
+
+  彼は長年この会社に勤めておる。
+  彼[かれ]は 長年[ながねん]この 会社[かいしゃ]に 勤[つと]めておる。
+  Er arbeitet seit vielen Jahren in dieser Firma.
+
+  「申し訳ございませんが、ただいま担当者が不在にておりまして。」
+  「申[もう]し 訳[わけ]ございませんが、ただいま 担当者[たんとうしゃ]が 不在[ふざい]にておりまして。」
+  "Es tut mir leid, aber der zuständige Mitarbeiter ist gerade nicht anwesend."
+
+  彼らは昔からこの土地に住んでおるのだ。
+  彼[かれ]らは 昔[むかし]からこの 土地[とち]に 住[す]んでおるのだ。
+  Sie wohnen seit alters her auf diesem Land.
+
+  「私どもは、お客様のご要望にお応えできるよう努めております。」
+  「私[わたし]どもは、お 客様[きゃくさま]のご 要望[ようぼう]にお 応[こた]えできるよう 努[つと]めております。」
+  "Wir bemühen uns, den Wünschen unserer Kunden gerecht zu werden."
+
+  彼は毎日欠かさず日記をつけておる。
+  彼[かれ]は 毎日[まいにち] 欠[か]かさず 日記[にっき]をつけておる。
+  Er führt ohne Ausnahme jeden Tag Tagebuch.
+
+  「その件については、只今調査しておるところでございます。」
+  「その 件[けん]については、只今[ただいま] 調査[ちょうさ]しておるところでございます。」
+  "Bezüglich dieser Angelegenheit sind wir gerade dabei, Untersuchungen anzustellen."
+
+  彼女は10年以上もこの村に住んでおるが、いまだに方言が分からない。
+  彼女[かのじょ]は10年[ねん] 以上[いじょう]もこの 村[むら]に 住[す]んでおるが、いまだに 方言[ほうげん]が 分[わ]からない。
+  Sie wohnt seit über 10 Jahren in diesem Dorf, versteht aber immer noch nicht den Dialekt.
+
+  「ただいま電話が混み合っておりまして、お繋ぎできません。」
+  「ただいま 電話[でんわ]が 混[こ]み 合[あ]っておりまして、お 繋[つな]ぎできません。」
+  "Zurzeit sind alle Leitungen belegt, und wir können Sie nicht verbinden."
+
+  彼は昔から変わらぬ姿勢で仕事に取り組んでおる。
+  彼[かれ]は 昔[むかし]から 変[か]わらぬ 姿勢[しせい]で 仕事[しごと]に 取[と]り 組[く]んでおる。
+  Er geht seit jeher mit unveränderter Haltung an seine Arbeit heran.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: Gilt bei Aussagen mit Bezug auf eine neutrale dritte Person als leicht veraltet
+  oder volkstümlich-erzählerisch, bei Aussagen mit Bezug auf die eigene Person, Familie,
+  Firma etc. in der Form おります als bescheiden; wird sonst kaum gegenüber höherrangigen
+  Personen verwendet und gilt bisweilen als Ausdruck von Selbstgefälligkeit oder Verachtung.

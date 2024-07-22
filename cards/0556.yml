@@ -2,14 +2,14 @@ Rang: 556
 Lemma: 過ごす
 Lesung: すごす
 Alternativschreibweisen: ''
-Definition: verbringen
+Definition: verbringen; überschreiten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>す</span><span class="accent_top">ご</span><span>す</span>
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 過ごさない・過ごした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   友人と楽しい時間を過ごす。
   友人[ゆうじん]と 楽[たの]しい 時間[じかん]を 過[す]ごす。
   Ich verbringe eine gute Zeit mit meinen Freunden.
+
+  週末を田舎で過ごすのは心が落ち着きます。
+  週末[しゅうまつ]を 田舎[いなか]で 過[す]ごすのは 心[こころ]が 落[お]ち 着[つ]きます。
+  Ein Wochenende auf dem Land zu verbringen, beruhigt das Gemüt.
+
+  午後を読書で過ごすのが私の趣味です。
+  午後[ごご]を 読書[どくしょ]で 過[す]ごすのが 私[わたし]の 趣味[しゅみ]です。
+  Es ist mein Hobby, den Nachmittag mit Lesen zu verbringen.
+
+  時間を無駄に過ごさないように、計画を立てましょう。
+  時間[じかん]を 無駄[むだ]に 過[す]ごさないように、計画[けいかく]を 立[た]てましょう。
+  Lass uns einen Plan machen, damit wir die Zeit nicht nutzlos vergeuden.
+
+  彼は困難な時期を家族と共に過ごしました。
+  彼[かれ]は 困難[こんなん]な 時期[じき]を 家族[かぞく]と 共[とも]に 過[す]ごしました。
+  Er durchlebte die schwierige Zeit gemeinsam mit seiner Familie.
+
+  その日その日を過ごすのに精一杯です。
+  その 日[ひ]その 日[ひ]を 過[す]ごすのに 精一杯[せいいっぱい]です。
+  Ich lebe von einem Tag auf den anderen, so gut ich kann.
+
+  今年の夏は半袖で過ごせるほど暖かいです。
+  今年[ことし]の 夏[なつ]は 半袖[はんそで]で 過[す]ごせるほど 暖[あたた]かいです。
+  Dieser Sommer ist so warm, dass man mit kurzärmeligen Hemden auskommen kann.
+
+  一週間過ごせるお金を持って旅行に出かけました。
+  一週間[いっしゅうかん] 過[す]ごせるお 金[かね]を 持[も]って 旅行[りょこう]に 出[で]かけました。
+  Ich bin mit genug Geld für eine Woche auf Reisen gegangen.
+
+  いかがお過ごしですか。お元気そうで何よりです。
+  いかがお 過[す]ごしですか。お 元気[げんき]そうで 何[なに]よりです。
+  Wie geht es Ihnen? Es freut mich zu sehen, dass Sie wohlauf sind.
+
+  子供の頃から歯の痛みを知らずに過ごしてきて、幸運でした。
+  子供[こども]の 頃[ころ]から 歯[は]の 痛[いた]みを 知[し]らずに 過[す]ごしてきて、幸運[こううん]でした。
+  Ich hatte Glück, dass ich meine Kindheit verbracht habe, ohne Zahnschmerzen zu kennen.
+
+  友達と一緒にワイト島でバケーションを過ごしました。
+  友達[ともだち]と 一緒[いっしょ]にワイト 島[とう]でバケーションを 過[す]ごしました。
+  Ich habe mit meinen Freunden Urlaub auf der Isle of Wight verbracht.
+
+  山小屋に滞在して、33日間を過ごしました。
+  山小屋[やまごや]に 滞在[たいざい]して、33日間[にちかん]を 過[す]ごしました。
+  Wir blieben dreiunddreißig Tage in einer Berghütte.
+
+  医者から処方された薬を黙って飲んで過ごしました。
+  医者[いしゃ]から 処方[しょほう]された 薬[くすり]を 黙[だま]って 飲[の]んで 過[す]ごしました。
+  Ich nahm die vom Arzt verschriebenen Medikamente stillschweigend ein.
+
+  子供たちには時間の過ごし方を自分で決める権利があります。
+  子供[こども]たちには 時間[じかん]の 過[す]ごし 方[かた]を 自分[じぶん]で 決[き]める 権利[けんり]があります。
+  Kinder haben das Recht, selbst zu entscheiden, wie sie ihre Zeit verbringen.
+
+  彼は度を過ごして、友人との関係を壊してしまいました。
+  彼[かれ]は 度[ど]を 過[す]ごして、友人[ゆうじん]との 関係[かんけい]を 壊[こわ]してしまいました。
+  Er ist zu weit gegangen und hat die Beziehung zu seinem Freund zerstört.
+
+  お酒を過ごしてしまい、二日酔いになりました。
+  お 酒[さけ]を 過[す]ごしてしまい、二日酔[ふつかよ]いになりました。
+  Ich habe zu viel getrunken und einen Kater bekommen.
+
+  朝寝過ごして、大切な約束に遅刻してしまった。
+  朝[あさ] 寝過[ねす]ごして、大切[たいせつ]な 約束[やくそく]に 遅刻[ちこく]してしまった。
+  Ich habe verschlafen und bin zu spät zu einem wichtigen Termin gekommen.
+
+  飲み過ごして、電車を何回も乗り過ごしてしまいました。
+  飲[の]み 過[す]ごして、電車[でんしゃ]を 何回[なんかい]も 乗[の]り 過[す]ごしてしまいました。
+  Ich habe zu viel getrunken und mehrmals die richtige Station verpasst.
+
+  大切な話を聞き過ごして、上司に怒られました。
+  大切[たいせつ]な 話[はなし]を 聞[き]き 過[す]ごして、上司[じょうし]に 怒[おこ]られました。
+  Ich wurde von meinem Chef gescholten, weil ich eine wichtige Information überhört hatte.
+
+  道路標識を見過ごして、違反切符を切られてしまいました。
+  道路標識[どうろひょうしき]を 見過[みす]ごして、違反切符[いはんきっぷ]を 切[き]られてしまいました。
+  Ich habe ein Verkehrsschild übersehen und einen Strafzettel bekommen.
+
+  素晴らしい機会をやり過ごしてしまい、後悔の念に駆られました。
+  素晴[すば]らしい 機会[きかい]をやり 過[す]ごしてしまい、後悔[こうかい]の 念[ねん]に 駆[か]られました。
+  Ich wurde von Reue erfüllt, weil ich eine wunderbare Gelegenheit verstreichen ließ.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

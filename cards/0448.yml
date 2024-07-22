@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>が</span><span class="accent_plain">ん</span><span 
 Register: ↗Internet
 Dispersion: '77'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 頑張らない・頑張った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   頑張ります。
   頑張[がんば]ります。
   Ich werde mich anstrengen.
+
+  毎日練習を頑張っています。
+  毎日[まいにち] 練習[れんしゅう]を 頑張[がんば]っています。
+  Ich gebe jeden Tag mein Bestes beim Training.
+
+  困難があっても頑張り続けることが大切だ。
+  困難[こんなん]があっても 頑張[がんば]り 続[つづ]けることが 大切[たいせつ]だ。
+  Es ist wichtig, auch bei Schwierigkeiten durchzuhalten.
+
+  試験に向けて頑張ってください。
+  試験[しけん]に 向[む]けて 頑張[がんば]ってください。
+  Gib dein Bestes für die Prüfung.
+
+  彼女は夢を叶えるために毎日頑張っている。
+  彼女[かのじょ]は 夢[ゆめ]を 叶[かな]えるために 毎日[まいにち] 頑張[がんば]っている。
+  Sie strengt sich jeden Tag an, um ihren Traum zu verwirklichen.
+
+  頑張れば、きっと良い結果が得られるはずだ。
+  頑張[がんば]れば、きっと 良[い]い 結果[けっか]が 得[え]られるはずだ。
+  Wenn du dich anstrengst, wirst du sicher gute Ergebnisse erzielen.
+
+  新しい仕事に慣れるまで頑張ります。
+  新[あたら]しい 仕事[しごと]に 慣[な]れるまで 頑張[がんば]ります。
+  Ich werde mein Bestes geben, bis ich mich an die neue Arbeit gewöhnt habe.
+
+  皆で協力して頑張りましょう。
+  皆[みな]で 協力[きょうりょく]して 頑張[がんば]りましょう。
+  Lasst uns alle zusammenarbeiten und unser Bestes geben.
+
+  目標達成のために頑張り続けている。
+  目標達成[もくひょうたっせい]のために 頑張[がんば]り 続[つづ]けている。
+  Ich gebe weiterhin mein Bestes, um meine Ziele zu erreichen.
+
+  頑張って勉強したおかげで、試験に合格できた。
+  頑張[がんば]って 勉強[べんきょう]したおかげで、試験[しけん]に 合格[ごうかく]できた。
+  Dank meiner harten Arbeit beim Lernen konnte ich die Prüfung bestehen.
+
+  困難な時こそ頑張る必要がある。
+  困難[こんなん]な 時[とき]こそ 頑張[がんば]る 必要[ひつよう]がある。
+  Gerade in schwierigen Zeiten ist es nötig, durchzuhalten.
+
+  彼は最後まで頑張って走り切った。
+  彼[かれ]は 最後[さいご]まで 頑張[がんば]って 走[はし]り 切[き]った。
+  Er lief bis zum Schluss mit voller Kraft durch.
+
+  頑張れば夢は必ず叶うと信じている。
+  頑張[がんば]れば 夢[ゆめ]は 必[かなら]ず 叶[かな]うと 信[しん]じている。
+  Ich glaube, dass Träume wahr werden, wenn man sich anstrengt.
+
+  長い間頑張ってきた努力が実を結んだ。
+  長[なが]い 間[あいだ] 頑張[がんば]ってきた 努力[どりょく]が 実[み]を 結[むす]んだ。
+  Die lang anhaltenden Bemühungen haben sich endlich ausgezahlt.
+
+  みんなで力を合わせて頑張ろう。
+  みんなで 力[ちから]を 合[あ]わせて 頑張[がんば]ろう。
+  Lasst uns alle zusammen unser Bestes geben.
+
+  頑張り過ぎて体調を崩さないように気をつけてください。
+  頑張[がんば]り 過[す]ぎて 体調[たいちょう]を 崩[くず]さないように 気[き]をつけてください。
+  Pass auf, dass du dich nicht überanstrengst und krank wirst.
+
+  困難を乗り越えるために頑張っている。
+  困難[こんなん]を 乗[の]り 越[こ]えるために 頑張[がんば]っている。
+  Ich strenge mich an, um die Schwierigkeiten zu überwinden.
+
+  頑張れ！君ならできるよ。
+  頑張[がんば]れ！ 君[きみ]ならできるよ。
+  Gib dein Bestes! Du schaffst das.
+
+  長期プロジェクトを成功させるために頑張っています。
+  長期[ちょうき]プロジェクトを 成功[せいこう]させるために 頑張[がんば]っています。
+  Ich arbeite hart daran, das langfristige Projekt zum Erfolg zu führen.
+
+  頑張ってきた努力が認められて嬉しい。
+  頑張[がんば]ってきた 努力[どりょく]が 認[みと]められて 嬉[うれ]しい。
+  Ich bin froh, dass meine harte Arbeit anerkannt wurde.
+
+  頑張れば、必ず道は開けるはずだ。
+  頑張[がんば]れば、必[かなら]ず 道[みち]は 開[ひら]けるはずだ。
+  Wenn du dich anstrengst, wird sich sicher ein Weg öffnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

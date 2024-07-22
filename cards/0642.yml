@@ -2,14 +2,14 @@ Rang: 642
 Lemma: ほしい
 Lesung: ''
 Alternativschreibweisen: 欲しい
-Definition: wollen, möchten
+Definition: wollen, wünschen
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>ほ</span><span class="accent_top">し</span><span>い</span>
 Register: ''
 Dispersion: '82'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 欲しくない・欲しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   新しいパソコンがほしい。
   新[あたら]しいパソコンがほしい。
   Ich möchte einen neuen Computer.
+
+  新しいパソコンが欲しいです。
+  新[あたら]しいパソコンが 欲[ほ]しいです。
+  Ich möchte einen neuen Computer haben.
+
+  彼女は休暇が欲しくなった。
+  彼女[かのじょ]は 休暇[きゅうか]が 欲[ほ]しくなった。
+  Sie bekam den Wunsch nach Urlaub.
+
+  お金欲しさに、危険な仕事を引き受けた。
+  お金欲[かねほ]しさに、危険[きけん]な 仕事[しごと]を 引[ひ]き 受[う]けた。
+  Aus Geldgier nahm er einen gefährlichen Job an.
+
+  もう少し暇が欲しいな。
+  もう 少[すこ]し 暇[ひま]が 欲[ほ]しいな。
+  Ich hätte gerne etwas mehr Freizeit.
+
+  いつか自分の家が欲しいと思っている。
+  いつか 自分[じぶん]の 家[いえ]が 欲[ほ]しいと 思[おも]っている。
+  Ich denke, dass ich irgendwann mein eigenes Haus haben möchte.
+
+  彼らは子供が欲しがっている。
+  彼[かれ]らは 子供[こども]が 欲[ほ]しがっている。
+  Sie wünschen sich Kinder.
+
+  母には長生きして欲しいです。
+  母[はは]には 長生[ながい]きして 欲[ほ]しいです。
+  Ich möchte, dass meine Mutter lange lebt.
+
+  友達に来て欲しいと頼んだ。
+  友達[ともだち]に 来[き]て 欲[ほ]しいと 頼[たの]んだ。
+  Ich bat meinen Freund zu kommen.
+
+  先生に手紙を書いて欲しいんだ。
+  先生[せんせい]に 手紙[てがみ]を 書[か]いて 欲[ほ]しいんだ。
+  Ich möchte, dass der Lehrer einen Brief schreibt.
+
+  引っ越しを手伝って欲しいんだけど。
+  引[ひ]っ 越[こ]しを 手伝[てつだ]って 欲[ほ]しいんだけど。
+  Könntest du mir beim Umzug helfen?
+
+  新しい靴が欲しいけど、お金がないんだ。
+  新[あたら]しい 靴[くつ]が 欲[ほ]しいけど、お金[かね]がないんだ。
+  Ich möchte neue Schuhe, aber ich habe kein Geld.
+
+  彼女は高級時計が欲しがっている。
+  彼女[かのじょ]は 高級時計[こうきゅうとけい]が 欲[ほ]しがっている。
+  Sie wünscht sich eine teure Uhr.
+
+  私はもっと自由な時間が欲しい。
+  私[わたし]はもっと 自由[じゆう]な 時間[じかん]が 欲[ほ]しい。
+  Ich hätte gerne mehr freie Zeit.
+
+  この本、君に読んで欲しいんだ。
+  この 本[ほん]、君[きみ]に 読[よ]んで 欲[ほ]しいんだ。
+  Ich möchte, dass du dieses Buch liest.
+
+  彼は昇進が欲しくてたまらない。
+  彼[かれ]は 昇進[しょうしん]が 欲[ほ]しくてたまらない。
+  Er sehnt sich sehr nach einer Beförderung.
+
+  新しいスマートフォンが欲しくなった。
+  新[あたら]しいスマートフォンが 欲[ほ]しくなった。
+  Ich bekam den Wunsch nach einem neuen Smartphone.
+
+  彼女は海外旅行に行きたくて欲しがっている。
+  彼女[かのじょ]は 海外旅行[かいがいりょこう]に 行[い]きたくて 欲[ほ]しがっている。
+  Sie wünscht sich sehnlichst, eine Auslandsreise zu machen.
+
+  この仕事をやってもらいたい、欲しいんだ。
+  この 仕事[しごと]をやってもらいたい、欲[ほ]しいんだ。
+  Ich möchte, dass du diese Arbeit für mich erledigst.
+
+  彼女は新しい服が欲しいと言っていた。
+  彼女[かのじょ]は 新[あたら]しい 服[ふく]が 欲[ほ]しいと 言[い]っていた。
+  Sie sagte, dass sie neue Kleidung haben möchte.
+
+  子供たちはクリスマスプレゼントが欲しがっている。
+  子供[こども]たちはクリスマスプレゼントが 欲[ほ]しがっている。
+  Die Kinder wünschen sich Weihnachtsgeschenke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

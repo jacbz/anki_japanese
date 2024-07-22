@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">ん</span><span 
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 参加しない・参加した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   多くの人がその会議に参加した。
   多[おお]くの人がその 会議[かいぎ]に 参加[さんか]した。
   Viele Menschen haben an der Konferenz teilgenommen.
+
+  オリンピックに参加する選手たちは、何年も前から準備をしています。
+  オリンピックに 参加[さんか]する 選手[せんしゅ]たちは、何年[なんねん]も 前[まえ]から 準備[じゅんび]をしています。
+  Die Athleten, die an den Olympischen Spielen teilnehmen, bereiten sich schon jahrelang vor.
+
+  このイベントの参加費は2,500円です。ワインと軽食が含まれています。
+  このイベントの 参加費[さんかひ]は2,500円[えん]です。ワインと 軽食[けいしょく]が 含[ふく]まれています。
+  Die Teilnahmegebühr für diese Veranstaltung beträgt 2.500 Yen. Wein und kleine Snacks sind inbegriffen.
+
+  参加権を持っていても、実際に参加するかどうかは自由です。
+  参加権[さんかけん]を 持[も]っていても、実際[じっさい]に 参加[さんか]するかどうかは 自由[じゆう]です。
+  Auch wenn man ein Teilnahmerecht hat, ist es einem freigestellt, ob man tatsächlich teilnimmt.
+
+  この会議には20カ国の参加国があります。
+  この 会議[かいぎ]には20カ国[にじゅっかこく]の 参加国[さんかこく]があります。
+  An dieser Konferenz nehmen 20 Länder teil.
+
+  参加申し込みの締め切りは来週の金曜日です。お早めにどうぞ。
+  参加[さんか] 申[もう]し 込[こ]みの 締[し]め 切[き]りは 来週[らいしゅう]の 金曜日[きんようび]です。お 早[はや]めにどうぞ。
+  Die Anmeldefrist für die Teilnahme endet nächsten Freitag. Bitte melden Sie sich frühzeitig an.
+
+  この大会の参加人数は過去最高を記録しました。
+  この 大会[たいかい]の 参加人数[さんかにんずう]は 過去[かこ] 最高[さいこう]を 記録[きろく]しました。
+  Die Zahl der Teilnehmer an diesem Turnier hat einen neuen Rekord erreicht.
+
+  参加者全員に記念品を贈呈します。
+  参加者[さんかしゃ] 全員[ぜんいん]に 記念品[きねんひん]を 贈呈[ぞうてい]します。
+  Allen Teilnehmern wird ein Erinnerungsgeschenk überreicht.
+
+  不参加の場合は、事前に連絡してください。
+  不参加[ふさんか]の 場合[ばあい]は、事前[じぜん]に 連絡[れんらく]してください。
+  Falls Sie nicht teilnehmen können, informieren Sie uns bitte im Voraus.
+
+  この講座は自由参加です。興味のある方はどなたでもどうぞ。
+  この 講座[こうざ]は 自由参加[じゆうさんか]です。興味[きょうみ]のある 方[かた]はどなたでもどうぞ。
+  Dieser Kurs steht zur freien Teilnahme offen. Jeder Interessierte ist willkommen.
+
+  住民参加型の町づくりプロジェクトを始めます。
+  住民参加型[じゅうみんさんかがた]の 町[まち]づくりプロジェクトを 始[はじ]めます。
+  Wir starten ein Stadtentwicklungsprojekt mit Bürgerbeteiligung.
+
+  経営参加制度を導入することで、従業員のモチベーションが上がりました。
+  経営参加[けいえいさんか] 制度[せいど]を 導入[どうにゅう]することで、従業員[じゅうぎょういん]のモチベーションが 上[あ]がりました。
+  Durch die Einführung eines Systems zur betrieblichen Mitbestimmung ist die Motivation der Mitarbeiter gestiegen.
+
+  参加の有無を来週までにお知らせください。
+  参加[さんか]の 有無[うむ]を 来週[らいしゅう]までにお 知[し]らせください。
+  Bitte teilen Sie uns bis nächste Woche mit, ob Sie teilnehmen oder nicht.
+
+  参加ご希望の方々は、この用紙にご記入ください。
+  参加[さんか]ご 希望[きぼう]の 方々[かたがた]は、この 用紙[ようし]にご 記入[きにゅう]ください。
+  Diejenigen, die teilnehmen möchten, füllen bitte dieses Formular aus.
+
+  奮ってご参加ください。皆様のお越しをお待ちしております。
+  奮[ふる]ってご 参加[さんか]ください。皆様[みなさま]のお 越[こ]しをお 待[ま]ちしております。
+  Wir bitten um rege Teilnahme. Wir freuen uns auf Ihr Kommen.
+
+  フォーラムディスカッションに参加して、あなたの意見を共有しましょう。
+  フォーラムディスカッションに 参加[さんか]して、あなたの 意見[いけん]を 共有[きょうゆう]しましょう。
+  Nehmen Sie an der Forumsdiskussion teil und teilen Sie Ihre Meinung mit.
+
+  平和的なデモに参加することは、民主主義の重要な一部です。
+  平和的[へいわてき]なデモに 参加[さんか]することは、民主主義[みんしゅしゅぎ]の 重要[じゅうよう]な 一部[いちぶ]です。
+  Die Teilnahme an friedlichen Demonstrationen ist ein wichtiger Teil der Demokratie.
+
+  何人も、宗教上の行為に参加することを強制されません。
+  何人[なんびと]も、宗教上[しゅうきょうじょう]の 行為[こうい]に 参加[さんか]することを 強制[きょうせい]されません。
+  Niemand darf gezwungen werden, an religiösen Handlungen teilzunehmen.
+
+  彼は戦闘に参加せず、後方で待機していました。
+  彼[かれ]は 戦闘[せんとう]に 参加[さんか]せず、後方[こうほう]で 待機[たいき]していました。
+  Er nahm nicht an den Kämpfen teil, sondern wartete im Hintergrund.
+
+  この重要なプロジェクトに参加できて光栄です。
+  この 重要[じゅうよう]なプロジェクトに 参加[さんか]できて 光栄[こうえい]です。
+  Es ist mir eine Ehre, an diesem wichtigen Projekt teilnehmen zu dürfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

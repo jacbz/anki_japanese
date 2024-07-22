@@ -1,8 +1,8 @@
 Rang: 798
 Lemma: 出かける
 Lesung: でかける
-Alternativschreibweisen: ''
-Definition: hinausgehen, verlassen
+Alternativschreibweisen: 出掛ける
+Definition: ausgehen, aufbrechen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>で</span><span class="accent_plain">か</span><span class="accent_plain">け</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>で</span><span class="accent_plain">か</span><span 
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 出かけない・出かけた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   母は散歩に出かけました。
   母[はは]は 散歩[さんぽ]に 出[で]かけました。
   Meine Mutter ist zum Spaziergang hinausgegangen.
+
+  今から買い物に出かけます。
+  今[いま]から 買い物[かいもの]に 出[で]かけます。
+  Ich gehe jetzt einkaufen.
+
+  友達の家に出かける前に、お土産を買っておこう。
+  友達[ともだち]の 家[いえ]に 出[で]かける 前[まえ]に、お 土産[みやげ]を 買[か]っておこう。
+  Lass uns ein Geschenk kaufen, bevor wir zu unserem Freund gehen.
+
+  彼女は毎週末、ハイキングに出かけるのが好きだ。
+  彼女[かのじょ]は 毎週末[まいしゅうまつ]、ハイキングに 出[で]かけるのが 好[す]きだ。
+  Sie geht gerne jedes Wochenende wandern.
+
+  出かける時は必ず鍵をかけてください。
+  出[で]かける 時[とき]は 必[かなら]ず 鍵[かぎ]をかけてください。
+  Bitte schließen Sie immer ab, wenn Sie das Haus verlassen.
+
+  北海道へ出かける準備はもう済みましたか。
+  北海道[ほっかいどう]へ 出[で]かける 準備[じゅんび]はもう 済[す]みましたか。
+  Hast du schon die Vorbereitungen für deine Reise nach Hokkaido getroffen?
+
+  散歩に出かけるなら、犬も連れて行こう。
+  散歩[さんぽ]に 出[で]かけるなら、犬[いぬ]も 連[つ]れて 行[い]こう。
+  Wenn wir spazieren gehen, lass uns den Hund mitnehmen.
+
+  山登りに出かける前に、天気予報をチェックしておきます。
+  山登[やまのぼ]りに 出[で]かける 前[まえ]に、天気予報[てんきよほう]をチェックしておきます。
+  Ich werde die Wettervorhersage überprüfen, bevor ich zum Bergsteigen aufbreche.
+
+  昨日の朝、出かける前に、一度こころみただけなのです。
+  昨日[きのう]の 朝[あさ]、出[で]かける 前[まえ]に、一度[いちど]こころみただけなのです。
+  Ich habe es gestern Morgen nur einmal versucht, bevor ich wegging.
+
+  近藤さんと出かけてもいいですか。
+  近藤[こんどう]さんと 出[で]かけてもいいですか。
+  Darf ich mit Herr Kondo ausgehen?
+
+  そうだね、私も出かけることにするよ。
+  そうだね、私[わたし]も 出[で]かけることにするよ。
+  Ja, ich denke, ich werde auch losgehen.
+
+  モモは次に、居酒屋のニノとおかみさんのところに出かけました。
+  モモは 次[つぎ]に、居酒屋[いざかや]のニノとおかみさんのところに 出[で]かけました。
+  Als Nächstes besuchte Momo den Wirt Nino und seine Frau in ihrer Kneipe.
+
+  出かけようとしたところに電話がかかってきた。
+  出[で]かけようとしたところに 電話[でんわ]がかかってきた。
+  Gerade als ich gehen wollte, klingelte das Telefon.
+
+  彼は出かける寸前だったが、急に気分が悪くなった。
+  彼[かれ]は 出[で]かける 寸前[すんぜん]だったが、急[きゅう]に 気分[きぶん]が 悪[わる]くなった。
+  Er war gerade im Begriff zu gehen, als er sich plötzlich unwohl fühlte.
+
+  両親に出かける前に連絡しておいた方がいいよ。
+  両親[りょうしん]に 出[で]かける 前[まえ]に 連絡[れんらく]しておいた 方[ほう]がいいよ。
+  Du solltest deine Eltern besser informieren, bevor du weggehst.
+
+  彼女は朝早く出かけて、夜遅く帰ってくる。
+  彼女[かのじょ]は 朝[あさ] 早[はや]く 出[で]かけて、夜[よる] 遅[おそ]く 帰[かえ]ってくる。
+  Sie geht früh am Morgen weg und kommt spät in der Nacht zurück.
+
+  出かける時は、必ず携帯電話を持っていくようにしています。
+  出[で]かける 時[とき]は、必[かなら]ず 携帯電話[けいたいでんわ]を 持[も]っていくようにしています。
+  Ich achte immer darauf, mein Handy mitzunehmen, wenn ich das Haus verlasse.
+
+  友達と映画を見に出かけるのを楽しみにしている。
+  友達[ともだち]と 映画[えいが]を 見[み]に 出[で]かけるのを 楽[たの]しみにしている。
+  Ich freue mich darauf, mit meinen Freunden ins Kino zu gehen.
+
+  彼は仕事に出かける前に必ずコーヒーを飲む。
+  彼[かれ]は 仕事[しごと]に 出[で]かける 前[まえ]に 必[かなら]ずコーヒーを 飲[の]む。
+  Er trinkt immer einen Kaffee, bevor er zur Arbeit geht.
+
+  出かける時間だけど、まだ準備ができていない。
+  出[で]かける 時間[じかん]だけど、まだ 準備[じゅんび]ができていない。
+  Es ist Zeit zu gehen, aber ich bin noch nicht fertig mit den Vorbereitungen.
+
+  週末にピクニックに出かけるつもりです。
+  週末[しゅうまつ]にピクニックに 出[で]かけるつもりです。
+  Ich habe vor, am Wochenende einen Picknickausflug zu machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

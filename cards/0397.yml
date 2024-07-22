@@ -1,7 +1,7 @@
 Rang: 397
 Lemma: 若い
 Lesung: わかい
-Alternativschreibweisen: ''
+Alternativschreibweisen: 稚い
 Definition: jung
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>わ</span><span class="accent_top">か</span><span>�
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 若くない・若かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   その歌手は若い人に人気がある。
   その 歌手[かしゅ]は 若[わか]い人に 人気[にんき]がある。
   Der Sänger ist bei jungen Leuten beliebt.
+
+  彼は若い人たちに人気のある俳優です。
+  彼[かれ]は 若[わか]い 人[ひと]たちに 人気[にんき]のある 俳優[はいゆう]です。
+  Er ist ein Schauspieler, der bei jungen Leuten beliebt ist.
+
+  この公園には若い木がたくさん植えられています。
+  この 公園[こうえん]には 若[わか]い 木[き]がたくさん 植[う]えられています。
+  In diesem Park wurden viele junge Bäume gepflanzt.
+
+  若い間に、たくさんの経験を積むことが大切だと思います。
+  若[わか]い 間[あいだ]に、たくさんの 経験[けいけん]を 積[つ]むことが 大切[たいせつ]だと 思[おも]います。
+  Ich denke, es ist wichtig, viele Erfahrungen zu sammeln, solange man jung ist.
+
+  彼女は若い時から音楽に興味を持っていました。
+  彼女[かのじょ]は 若[わか]い 時[とき]から 音楽[おんがく]に 興味[きょうみ]を 持[も]っていました。
+  Sie interessierte sich von Jugend an für Musik.
+
+  若いうちに海外旅行をしておくべきだよ。
+  若[わか]いうちに 海外旅行[かいがいりょこう]をしておくべきだよ。
+  Du solltest reisen, solange du noch jung bist.
+
+  彼は気の若い人で、いつも新しいことに挑戦しています。
+  彼[かれ]は 気[き]の 若[わか]い 人[ひと]で、いつも 新[あたら]しいことに 挑戦[ちょうせん]しています。
+  Er ist ein junggebliebener Mensch, der immer neue Herausforderungen sucht.
+
+  おじいさんは年のわりに若く見えます。
+  おじいさんは 年[とし]のわりに 若[わか]く 見[み]えます。
+  Der Großvater sieht für sein Alter jung aus.
+
+  健康的な生活を送れば、若く見えるよ。
+  健康的[けんこうてき]な 生活[せいかつ]を 送[おく]れば、若[わか]く 見[み]えるよ。
+  Wenn du einen gesunden Lebensstil führst, wirst du jünger aussehen.
+
+  若くて死ぬなんて、本当に悲しいことだ。
+  若[わか]くて 死[し]ぬなんて、本当[ほんとう]に 悲[かな]しいことだ。
+  Es ist wirklich traurig, so jung zu sterben.
+
+  彼女は私より3つ若いです。
+  彼女[かのじょ]は 私[わたし]より3[みっ]つ 若[わか]いです。
+  Sie ist drei Jahre jünger als ich.
+
+  化粧のおかげで、実際の年齢より若く見えます。
+  化粧[けしょう]のおかげで、実際[じっさい]の 年齢[ねんれい]より 若[わか]く 見[み]えます。
+  Dank des Make-ups sehe ich jünger aus als ich tatsächlich bin.
+
+  彼の考えはまだ若いですね。もっと経験を積む必要があります。
+  彼[かれ]の 考[かんが]えはまだ 若[わか]いですね。もっと 経験[けいけん]を 積[つ]む 必要[ひつよう]があります。
+  Seine Gedanken sind noch unreif. Er muss noch mehr Erfahrungen sammeln.
+
+  この番号は若いので、まだ順番までしばらくかかりそうです。
+  この 番号[ばんごう]は 若[わか]いので、まだ 順番[じゅんばん]までしばらくかかりそうです。
+  Da diese Nummer niedrig ist, wird es wohl noch eine Weile dauern, bis ich an der Reihe bin.
+
+  若い時は二度来ないから、今を大切に生きよう。
+  若[わか]い 時[とき]は 二度[にど] 来[こ]ないから、今[いま]を 大切[たいせつ]に 生[い]きよう。
+  Man ist nur einmal jung, also lass uns den Moment wertschätzen.
+
+  彼女は若い社員の教育に力を入れています。
+  彼女[かのじょ]は 若[わか]い 社員[しゃいん]の 教育[きょういく]に 力[ちから]を 入[い]れています。
+  Sie legt großen Wert auf die Ausbildung junger Mitarbeiter.
+
+  若い世代の意見を聞くことは大切です。
+  若[わか]い 世代[せだい]の 意見[いけん]を 聞[き]くことは 大切[たいせつ]です。
+  Es ist wichtig, die Meinungen der jüngeren Generation zu hören.
+
+  彼は若い頃から政治に興味を持っていました。
+  彼[かれ]は 若[わか]い 頃[ころ]から 政治[せいじ]に 興味[きょうみ]を 持[も]っていました。
+  Er interessierte sich schon von Jugend an für Politik.
+
+  若い時の失敗は、将来の成功につながることがあります。
+  若[わか]い 時[とき]の 失敗[しっぱい]は、将来[しょうらい]の 成功[せいこう]につながることがあります。
+  Fehler in der Jugend können zu zukünftigem Erfolg führen.
+
+  若いエネルギーで会社に新しい風を吹き込んでください。
+  若[わか]いエネルギーで 会社[かいしゃ]に 新[あたら]しい 風[かぜ]を 吹[ふ]き 込[こ]んでください。
+  Bringen Sie mit Ihrer jugendlichen Energie frischen Wind in das Unternehmen.
+
+  彼女は若い頃の写真を見て懐かしんでいた。
+  彼女[かのじょ]は 若[わか]い 頃[ころ]の 写真[しゃしん]を 見[み]て 懐[なつ]かしんでいた。
+  Sie schwelgte in Erinnerungen, als sie Fotos aus ihrer Jugend betrachtete.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

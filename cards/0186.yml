@@ -4,12 +4,12 @@ Lesung: ちがう
 Alternativschreibweisen: ''
 Definition: anders sein; falsch sein
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi
 Lesung mit Tonhöhe: <span>ち</span><span class="accent_plain">が</span><span class="accent_plain">う</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 違わない・違った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼の意見は私のと違う。
   彼[かれ]の 意見[いけん]は 私[わたし]のと 違[ちが]う。
   Seine Meinung ist anders als meine.
+
+  言行がまるで違う人は信用できません。
+  言行[げんこう]がまるで 違[ちが]う 人[ひと]は 信用[しんよう]できません。
+  Man kann jemandem nicht vertrauen, dessen Worte und Taten völlig im Widerspruch zueinander stehen.
+
+  原本と違っているところがあるので、確認してください。
+  原本[げんぽん]と 違[ちが]っているところがあるので、確認[かくにん]してください。
+  Es gibt Abweichungen vom Original, bitte überprüfen Sie das.
+
+  この件について意見が違うようですね。
+  この 件[けん]について 意見[いけん]が 違[ちが]うようですね。
+  Es scheint, dass wir in dieser Angelegenheit unterschiedliche Meinungen haben.
+
+  今日はいつもと違って静かな一日でした。
+  今日[きょう]はいつもと 違[ちが]って 静[しず]かな 一日[いちにち]でした。
+  Heute war es anders als sonst ein ruhiger Tag.
+
+  彼女の考え方は私とは全く違います。
+  彼女[かのじょ]の 考[かんが]え 方[かた]は 私[わたし]とは 全[まった]く 違[ちが]います。
+  Ihre Denkweise unterscheidet sich völlig von meiner.
+
+  昔と違って、今はスマートフォンで簡単に連絡が取れる。
+  昔[むかし]と 違[ちが]って、今[いま]はスマートフォンで 簡単[かんたん]に 連絡[れんらく]が 取[と]れる。
+  Anders als früher kann man heutzutage einfach per Smartphone Kontakt aufnehmen.
+
+  二人は年が違うけど、とても仲がいいね。
+  二人[ふたり]は 年[とし]が 違[ちが]うけど、とても 仲[なか]がいいね。
+  Die beiden haben zwar einen Altersunterschied, verstehen sich aber sehr gut.
+
+  約束が違うと、相手の信頼を失うかもしれません。
+  約束[やくそく]が 違[ちが]うと、相手[あいて]の 信頼[しんらい]を 失[うしな]うかもしれません。
+  Wenn man sich nicht an Versprechen hält, könnte man das Vertrauen des anderen verlieren.
+
+  裸と肉体とは違う意味を持っています。
+  裸[はだか]と 肉体[にくたい]とは 違[ちが]う 意味[いみ]を 持[も]っています。
+  Nacktheit und Körper haben unterschiedliche Bedeutungen.
+
+  生まれた年が違えば、人生も違ったものになるかもしれない。
+  生[う]まれた 年[とし]が 違[ちが]えば、人生[じんせい]も 違[ちが]ったものになるかもしれない。
+  Wenn man in einem anderen Jahr geboren wäre, könnte das Leben ganz anders verlaufen.
+
+  彼の生活は以前とはまるで違って、とても充実しているようだ。
+  彼[かれ]の 生活[せいかつ]は 以前[いぜん]とはまるで 違[ちが]って、とても 充実[じゅうじつ]しているようだ。
+  Sein Leben hat sich im Vergleich zu früher völlig verändert und scheint nun sehr erfüllt zu sein.
+
+  この電話番号が違うみたいです。もう一度確認してもらえますか？
+  この 電話番号[でんわばんごう]が 違[ちが]うみたいです。もう 一度[いちど] 確認[かくにん]してもらえますか？
+  Diese Telefonnummer scheint falsch zu sein. Könnten Sie sie bitte noch einmal überprüfen?
+
+  テストの答えが違っていたので、先生に質問しました。
+  テストの 答[こた]えが 違[ちが]っていたので、先生[せんせい]に 質問[しつもん]しました。
+  Da meine Antwort im Test falsch war, habe ich den Lehrer gefragt.
+
+  「いや、違うんだ。そういう意味じゃないんだよ。」
+  「いや、違[ちが]うんだ。そういう 意味[いみ]じゃないんだよ。」
+  "Nein, das stimmt nicht. Das meinte ich nicht."
+
+  記憶が違っているかもしれませんが、確かそんなことがあった気がします。
+  記憶[きおく]が 違[ちが]っているかもしれませんが、確[たし]かそんなことがあった 気[き]がします。
+  Ich könnte mich irren, aber ich glaube, dass so etwas passiert ist.
+
+  足の筋が違っていて、歩くのが少し痛いです。
+  足[あし]の 筋[すじ]が 違[ちが]っていて、歩[ある]くのが 少[すこ]し 痛[いた]いです。
+  Ich habe mir etwas im Fuß verrenkt und es tut beim Gehen etwas weh.
+
+  最近、ストレスで気が違いそうだよ。
+  最近[さいきん]、ストレスで 気[き]が 違[ちが]いそうだよ。
+  In letzter Zeit werde ich vor Stress noch verrückt.
+
+  すれ違う人々の表情から、この町の雰囲気が伝わってきた。
+  すれ違[ちが]う 人々[ひとびと]の 表情[ひょうじょう]から、この 町[まち]の 雰囲気[ふんいき]が 伝[つた]わってきた。
+  Die Atmosphäre der Stadt spiegelte sich in den Gesichtern der Passanten wider, die aneinander vorbeigingen.
+
+  飛行機がすれ違う瞬間を空で見るのは珍しいことです。
+  飛行機[ひこうき]がすれ 違[ちが]う 瞬間[しゅんかん]を 空[そら]で 見[み]るのは 珍[めずら]しいことです。
+  Es ist selten, den Moment zu sehen, in dem sich Flugzeuge in der Luft kreuzen.
+
+  彼女とすれ違った時、懐かしい香水の香りがした。
+  彼女[かのじょ]とすれ 違[ちが]った 時[とき]、懐[なつ]かしい 香水[こうすい]の 香[かお]りがした。
+  Als ich an ihr vorbeiging, nahm ich den vertrauten Duft ihres Parfüms wahr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

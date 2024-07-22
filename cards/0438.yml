@@ -1,15 +1,15 @@
 Rang: 438
 Lemma: 寝る
 Lesung: ねる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 寐る
 Definition: schlafen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi
 Lesung mit Tonhöhe: <span>ね</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '81'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 寝ない・寝た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   昨夜は十一時に寝た。
   昨夜[さくや]は十一 時[じ]に 寝[ね]た。
   Ich bin gestern Abend um 23 Uhr ins Bett gegangen.
+
+  毎晩9時に寝ています。
+  毎晩[まいばん]9時[じ]に 寝[ね]ています。
+  Ich gehe jeden Abend um 9 Uhr schlafen.
+
+  今日は遅くまで寝てしまった。
+  今日[きょう]は 遅[おそ]くまで 寝[ね]てしまった。
+  Heute habe ich bis spät geschlafen.
+
+  子供たちは別々の部屋で寝ています。
+  子供[こども]たちは 別々[べつべつ]の 部屋[へや]で 寝[ね]ています。
+  Die Kinder schlafen in getrennten Zimmern.
+
+  昨夜はよく寝られなかった。
+  昨夜[さくや]はよく 寝[ね]られなかった。
+  Letzte Nacht konnte ich nicht gut schlafen.
+
+  彼はまだ寝ているので起こさないでください。
+  彼[かれ]はまだ 寝[ね]ているので 起[お]こさないでください。
+  Er schläft noch, bitte wecken Sie ihn nicht.
+
+  寝る前に温かい牛乳を飲むと良いですよ。
+  寝[ね]る 前[まえ]に 温[あたた]かい 牛乳[ぎゅうにゅう]を 飲[の]むと 良[い]いですよ。
+  Es ist gut, vor dem Schlafengehen warme Milch zu trinken.
+
+  酔いつぶれて寝てしまった友達を起こしました。
+  酔[よ]いつぶれて 寝[ね]てしまった 友達[ともだち]を 起[お]こしました。
+  Ich habe meinen Freund geweckt, der volltrunken eingeschlafen war.
+
+  長時間座ったまま寝てしまい、首が痛い。
+  長時間[ちょうじかん] 座[すわ]ったまま 寝[ね]てしまい、首[くび]が 痛[いた]い。
+  Ich habe lange im Sitzen geschlafen und jetzt tut mir der Nacken weh.
+
+  風邪で3日間寝込んでしまった。
+  風邪[かぜ]で3日間[にちかん] 寝込[ねこ]んでしまった。
+  Ich lag drei Tage lang mit einer Erkältung flach.
+
+  ベッドに寝ながらスマホを見るのは良くないそうだ。
+  ベッドに 寝[ね]ながらスマホを 見[み]るのは 良[よ]くないそうだ。
+  Es soll nicht gut sein, im Bett liegend aufs Smartphone zu schauen.
+
+  横向きに寝るのが一番楽だ。
+  横向[よこむ]きに 寝[ね]るのが 一番[いちばん] 楽[らく]だ。
+  Am bequemsten ist es, auf der Seite zu schlafen.
+
+  髪が寝てしまって、なかなか直らない。
+  髪[かみ]が 寝[ね]てしまって、なかなか 直[なお]らない。
+  Meine Haare liegen flach an und lassen sich kaum in Form bringen.
+
+  寝ている間に地震があったらしい。
+  寝[ね]ている 間[あいだ]に 地震[じしん]があったらしい。
+  Es scheint, dass es ein Erdbeben gab, während ich schlief.
+
+  新しい布団で寝たら、ぐっすり眠れた。
+  新[あたら]しい 布団[ふとん]で 寝[ね]たら、ぐっすり 眠[ねむ]れた。
+  Ich konnte tief schlafen, nachdem ich in dem neuen Futon geschlafen habe.
+
+  寝る時間が不規則だと、体調を崩しやすいよ。
+  寝[ね]る 時間[じかん]が 不規則[ふきそく]だと、体調[たいちょう]を 崩[くず]しやすいよ。
+  Wenn deine Schlafenszeiten unregelmäßig sind, wirst du leichter krank.
+
+  赤ちゃんが寝ているので、静かにしてください。
+  赤[あか]ちゃんが 寝[ね]ているので、静[しず]かにしてください。
+  Das Baby schläft, also seien Sie bitte leise.
+
+  昨日は疲れていたので、早く寝た。
+  昨日[きのう]は 疲[つか]れていたので、早[はや]く 寝[ね]た。
+  Gestern war ich müde, also bin ich früh ins Bett gegangen.
+
+  寝る子は育つというけど、本当かな。
+  寝[ね]る 子[こ]は 育[そだ]つというけど、本当[ほんとう]かな。
+  Man sagt, dass Kinder, die gut schlafen, gut wachsen, aber ob das stimmt?
+
+  寝たふりをしていたら、本当に寝てしまった。
+  寝[ね]たふりをしていたら、本当[ほんとう]に 寝[ね]てしまった。
+  Als ich so tat, als würde ich schlafen, bin ich tatsächlich eingeschlafen.
+
+  寝ても覚めても彼女のことを考えている。
+  寝[ね]ても 覚[さ]めても 彼女[かのじょ]のことを 考[かんが]えている。
+  Ich denke Tag und Nacht an sie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 713
 Lemma: 座る
 Lesung: すわる
-Alternativschreibweisen: ''
-Definition: sitzen
+Alternativschreibweisen: 坐る・据わる
+Definition: sich setzen, sitzen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">わ</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 座らない・座った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は椅子に座った。
   彼[かれ]は 椅子[いす]に 座[すわ]った。
   Er saß auf einem Stuhl.
+
+  畳の上に座りましょう。
+  畳[たたみ]の 上[うえ]に 座[すわ]りましょう。
+  Lasst uns uns auf die Tatami setzen.
+
+  日本式に座るのは外国人には難しいかもしれません。
+  日本式[にほんしき]に 座[すわ]るのは 外国人[がいこくじん]には 難[むずか]しいかもしれません。
+  Für Ausländer kann es schwierig sein, auf japanische Art zu sitzen.
+
+  彼は投げ足で座って本を読んでいます。
+  彼[かれ]は 投[な]げ 足[あし]で 座[すわ]って 本[ほん]を 読[よ]んでいます。
+  Er sitzt mit ausgestreckten Beinen und liest ein Buch.
+
+  椅子に座ってください。
+  椅子[いす]に 座[すわ]ってください。
+  Bitte setzen Sie sich auf den Stuhl.
+
+  テーブルを隔てて座ると、話がしやすいですね。
+  テーブルを 隔[へだ]てて 座[すわ]ると、話[はなし]がしやすいですね。
+  Es ist leichter zu reden, wenn wir uns gegenüber an den Tisch setzen, nicht wahr?
+
+  前に座りたい人は手を挙げてください。
+  前[まえ]に 座[すわ]りたい 人[ひと]は 手[て]を 挙[あ]げてください。
+  Wer vorne sitzen möchte, hebe bitte die Hand.
+
+  この公園には座る場所がたくさんありますね。
+  この 公園[こうえん]には 座[すわ]る 場所[ばしょ]がたくさんありますね。
+  In diesem Park gibt es viele Sitzgelegenheiten, nicht wahr?
+
+  行儀よく座ることは、礼儀の基本だよ。
+  行儀[ぎょうぎ]よく 座[すわ]ることは、礼儀[れいぎ]の 基本[きほん]だよ。
+  Ordentlich zu sitzen ist die Grundlage guten Benehmens.
+
+  彼女は先輩の後釜に座ることになりました。
+  彼女[かのじょ]は 先輩[せんぱい]の 後釜[あとがま]に 座[すわ]ることになりました。
+  Sie wird die Nachfolge ihres Vorgesetzten antreten.
+
+  山田さんが社長の椅子に座ったのは驚きでした。
+  山田[やまだ]さんが 社長[しゃちょう]の 椅子[いす]に 座[すわ]ったのは 驚[おどろ]きでした。
+  Es war überraschend, dass Herr Yamada den Chefsessel übernahm.
+
+  薄汚れた便座に座るのは避けたほうがいいです。
+  薄汚[うすぎたな]れた 便座[べんざ]に 座[すわ]るのは 避[さ]けたほうがいいです。
+  Es ist besser, sich nicht auf eine verschmutzte Toilettenbrille zu setzen.
+
+  家に帰ると、父がソファに座ってテレビを見ていた。
+  家[いえ]に 帰[かえ]ると、父[ちち]がソファに 座[すわ]ってテレビを 見[み]ていた。
+  Als ich nach Hause kam, saß mein Vater auf dem Sofa und sah fern.
+
+  窓際に座って、外の景色を眺めるのが好きです。
+  窓際[まどぎわ]に 座[すわ]って、外[そと]の 景色[けしき]を 眺[なが]めるのが 好[す]きです。
+  Ich mag es, am Fenster zu sitzen und die Aussicht zu betrachten.
+
+  赤ちゃんの首が座るまでは、抱っこするときに注意が必要です。
+  赤[あか]ちゃんの 首[くび]が 座[すわ]るまでは、抱[だ]っこするときに 注意[ちゅうい]が 必要[ひつよう]です。
+  Man muss vorsichtig sein, wenn man ein Baby hält, bis es seinen Kopf selbst halten kann.
+
+  胴が座っている人は、困難な状況でも冷静でいられます。
+  胴[どう]が 座[すわ]っている 人[ひと]は、困難[こんなん]な 状況[じょうきょう]でも 冷静[れいせい]でいられます。
+  Menschen mit starken Nerven können auch in schwierigen Situationen ruhig bleiben.
+
+  土性骨が据わっている人は、困難に負けません。
+  土性骨[どしょうぼね]が 据[す]わっている 人[ひと]は、困難[こんなん]に 負[ま]けません。
+  Menschen mit starkem Charakter geben bei Schwierigkeiten nicht auf.
+
+  彼女は腰が据わっているので、長時間の作業も苦になりません。
+  彼女[かのじょ]は 腰[こし]が 据[す]わっているので、長時間[ちょうじかん]の 作業[さぎょう]も 苦[く]になりません。
+  Sie hat eine gute Arbeitshaltung, daher macht ihr auch langes Arbeiten nichts aus.
+
+  目が据わった表情で、彼は真剣に話を聞いていた。
+  目[め]が 据[す]わった 表情[ひょうじょう]で、彼[かれ]は 真剣[しんけん]に 話[はなし]を 聞[き]いていた。
+  Mit konzentriertem Blick hörte er aufmerksam zu.
+
+  正座で長時間座るのは、慣れていないと辛いですね。
+  正座[せいざ]で 長時間[ちょうじかん] 座[すわ]るのは、慣[な]れていないと 辛[つら]いですね。
+  Lange im Fersensitz zu sitzen, kann schmerzhaft sein, wenn man es nicht gewohnt ist.
+
+  電車内では、お年寄りや体の不自由な方に席を譲って座ってもらいましょう。
+  電車内[でんしゃない]では、お 年寄[としよ]りや 体[からだ]の 不自由[ふじゆう]な 方[かた]に 席[せき]を 譲[ゆず]って 座[すわ]ってもらいましょう。
+  In der Bahn sollten wir älteren oder körperlich eingeschränkten Menschen unseren Sitzplatz anbieten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

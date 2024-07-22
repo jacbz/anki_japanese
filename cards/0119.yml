@@ -2,7 +2,7 @@ Rang: 119
 Lemma: 使う
 Lesung: つかう
 Alternativschreibweisen: ''
-Definition: benutzen, handhaben
+Definition: benutzen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="">つ</span><span class="accent_plain">か</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="">つ</span><span class="accent_plain">か</sp
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 使わない・使った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   この鍋はミルクを温めるのに使っています。
   この 鍋[なべ]はミルクを 温[あたた]めるのに 使[つか]っています。
   Ich benutze diesen Topf zum Erwärmen von Milch.
+
+  この電子辞書をどう使うか教えてください。
+  この 電子辞書[でんしじしょ]をどう 使[つか]うか 教[おし]えてください。
+  Können Sie mir bitte erklären, wie man dieses elektronische Wörterbuch benutzt?
+
+  最近はスマートフォンをよく使うようになった。
+  最近[さいきん]はスマートフォンをよく 使[つか]うようになった。
+  In letzter Zeit habe ich angefangen, häufig mein Smartphone zu benutzen.
+
+  このアプリは使いやすくて便利だ。
+  このアプリは 使[つか]いやすくて 便利[べんり]だ。
+  Diese App ist benutzerfreundlich und praktisch.
+
+  新しい言葉を使って文を作ってみよう。
+  新[あたら]しい 言葉[ことば]を 使[つか]って 文[ぶん]を 作[つく]ってみよう。
+  Lass uns versuchen, Sätze mit neuen Wörtern zu bilden.
+
+  この道具の使い方を説明してもらえますか。
+  この 道具[どうぐ]の 使[つか]い 方[かた]を 説明[せつめい]してもらえますか。
+  Könnten Sie mir bitte erklären, wie man dieses Werkzeug verwendet?
+
+  彼は人を上手に使うのが得意だ。
+  彼[かれ]は 人[ひと]を 上手[じょうず]に 使[つか]うのが 得意[とくい]だ。
+  Er ist geschickt darin, Menschen einzusetzen.
+
+  この古いテレビはまだ十分使える。
+  この 古[ふる]いテレビはまだ 十分[じゅうぶん] 使[つか]える。
+  Dieser alte Fernseher ist noch gut zu gebrauchen.
+
+  彼女は英語とフランス語を流暢に使う。
+  彼女[かのじょ]は 英語[えいご]とフランス 語[ご]を 流暢[りゅうちょう]に 使[つか]う。
+  Sie spricht fließend Englisch und Französisch.
+
+  この薬を使う前に医師に相談してください。
+  この 薬[くすり]を 使[つか]う 前[まえ]に 医師[いし]に 相談[そうだん]してください。
+  Bitte konsultieren Sie einen Arzt, bevor Sie dieses Medikament einnehmen.
+
+  お金を無駄に使わないように気をつけよう。
+  お 金[かね]を 無駄[むだ]に 使[つか]わないように 気[き]をつけよう。
+  Lass uns darauf achten, kein Geld zu verschwenden.
+
+  彼は魔法を使って観客を驚かせた。
+  彼[かれ]は 魔法[まほう]を 使[つか]って 観客[かんきゃく]を 驚[おどろ]かせた。
+  Er überraschte das Publikum, indem er Zaubertricks vorführte.
+
+  この機械は電気を使わずに動く。
+  この 機械[きかい]は 電気[でんき]を 使[つか]わずに 動[うご]く。
+  Diese Maschine funktioniert ohne Strom.
+
+  彼女は料理に新鮮な材料を使う。
+  彼女[かのじょ]は 料理[りょうり]に 新鮮[しんせん]な 材料[ざいりょう]を 使[つか]う。
+  Sie verwendet frische Zutaten für ihre Gerichte.
+
+  その会社は新しい技術を使って製品を開発した。
+  その 会社[かいしゃ]は 新[あたら]しい 技術[ぎじゅつ]を 使[つか]って 製品[せいひん]を 開発[かいはつ]した。
+  Das Unternehmen entwickelte Produkte unter Einsatz neuer Technologien.
+
+  頭を使って問題を解決しよう。
+  頭[あたま]を 使[つか]って 問題[もんだい]を 解決[かいけつ]しよう。
+  Lass uns unseren Kopf benutzen, um das Problem zu lösen.
+
+  彼はその仕事に多くの時間を使った。
+  彼[かれ]はその 仕事[しごと]に 多[おお]くの 時間[じかん]を 使[つか]った。
+  Er hat viel Zeit für diese Arbeit aufgewendet.
+
+  このソフトウェアは使われなくなった。
+  このソフトウェアは 使[つか]われなくなった。
+  Diese Software ist außer Gebrauch gekommen.
+
+  彼女は上手に言葉を使って相手を説得した。
+  彼女[かのじょ]は 上手[じょうず]に 言葉[ことば]を 使[つか]って 相手[あいて]を 説得[せっとく]した。
+  Sie überzeugte ihren Gesprächspartner geschickt mit ihren Worten.
+
+  この道具は何に使うのですか。
+  この 道具[どうぐ]は 何[なに]に 使[つか]うのですか。
+  Wofür wird dieses Werkzeug verwendet?
+
+  彼は自分の才能を有効に使っている。
+  彼[かれ]は 自分[じぶん]の 才能[さいのう]を 有効[ゆうこう]に 使[つか]っている。
+  Er setzt seine Talente effektiv ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

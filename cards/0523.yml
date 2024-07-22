@@ -2,14 +2,14 @@ Rang: 523
 Lemma: 規定
 Lesung: きてい
 Alternativschreibweisen: ''
-Definition: Vorschrift
+Definition: Bestimmung, Vorschrift
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">て</span><span class="accent_plain">い</span>
 Register: ↗Verwaltungssprache
 Dispersion: '27'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 規定しない・規定した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   条例によって規定されている。
   条例[じょうれい]によって 規定[きてい]されている。
   Sie ist durch Vorschriften geregelt.
+
+  新しい就業規定について説明会を開きます。
+  新[あたら]しい 就業規定[しゅうぎょうきてい]について 説明会[せつめいかい]を 開[ひら]きます。
+  Wir werden eine Informationsveranstaltung zu den neuen Arbeitsbestimmungen abhalten.
+
+  この規定語は文の意味を明確にする役割があります。
+  この 規定語[きていご]は 文[ぶん]の 意味[いみ]を 明確[めいかく]にする 役割[やくわり]があります。
+  Dieses Bestimmungswort hat die Funktion, die Bedeutung des Satzes zu verdeutlichen.
+
+  規定量以上の薬を服用すると危険です。
+  規定量[きていりょう]以上[いじょう]の 薬[くすり]を 服用[ふくよう]すると 危険[きけん]です。
+  Es ist gefährlich, mehr als die vorgeschriebene Menge des Medikaments einzunehmen.
+
+  新しい規定料金についてお客様にお知らせしました。
+  新[あたら]しい 規定料金[きていりょうきん]について お客様[きゃくさま]に お知[し]らせしました。
+  Wir haben die Kunden über die neuen Standardgebühren informiert.
+
+  規定書をよく読んで、ルールを理解してください。
+  規定書[きていしょ]をよく 読[よ]んで、ルールを 理解[りかい]してください。
+  Bitte lesen Sie die Vorschriften sorgfältig und verstehen Sie die Regeln.
+
+  医師から規定食を守るように指示されました。
+  医師[いし]から 規定食[きていしょく]を 守[まも]るように 指示[しじ]されました。
+  Der Arzt hat mich angewiesen, mich an die vorgeschriebene Diät zu halten.
+
+  概念規定を明確にしないと、議論がかみ合いません。
+  概念規定[がいねんきてい]を 明確[めいかく]にしないと、議論[ぎろん]がかみ合[あ]いません。
+  Wenn wir die Begriffsbestimmung nicht klar definieren, wird die Diskussion nicht fruchtbar sein.
+
+  現行規定では、その行為は違法とみなされます。
+  現行規定[げんこうきてい]では、その 行為[こうい]は 違法[いほう]とみなされます。
+  Nach den geltenden Bestimmungen wird diese Handlung als illegal betrachtet.
+
+  規定通りに手続きを行ってください。
+  規定通[きていどお]りに 手続[てつづ]きを 行[おこな]ってください。
+  Bitte führen Sie das Verfahren gemäß den Bestimmungen durch.
+
+  その行為は会社の規定に反しています。
+  その 行為[こうい]は 会社[かいしゃ]の 規定[きてい]に 反[はん]しています。
+  Diese Handlung verstößt gegen die Unternehmensvorschriften.
+
+  全従業員は安全規定に従う義務があります。
+  全[ぜん]従業員[じゅうぎょういん]は 安全規定[あんぜんきてい]に 従[したが]う 義務[ぎむ]があります。
+  Alle Mitarbeiter sind verpflichtet, sich an die Sicherheitsvorschriften zu halten.
+
+  新しい環境保護規定を設けることになりました。
+  新[あたら]しい 環境保護規定[かんきょうほごきてい]を 設[もう]けることになりました。
+  Es wurde beschlossen, neue Umweltschutzbestimmungen einzuführen.
+
+  この契約書の第三条以下は支払いに関する規定です。
+  この 契約書[けいやくしょ]の 第三条[だいさんじょう]以下[いか]は 支払[しはら]いに 関[かん]する 規定[きてい]です。
+  Der dritte Artikel und die folgenden in diesem Vertrag enthalten Bestimmungen zur Zahlung.
+
+  規定の方法に従って実験を行ってください。
+  規定[きてい]の 方法[ほうほう]に 従[したが]って 実験[じっけん]を 行[おこな]ってください。
+  Bitte führen Sie das Experiment nach der vorgeschriebenen Methode durch。
+
+  服喪期間は文化によって規定の長さが異なります。
+  服喪期間[ふくもきかん]は 文化[ぶんか]によって 規定[きてい]の 長[なが]さが 異[こと]なります。
+  Die vorgeschriebene Länge der Trauerzeit variiert je nach Kultur.
+
+  入場料は大人1000円、子供500円が規定の料金です。
+  入場料[にゅうじょうりょう]は 大人[おとな]1000円[えん]、子供[こども]500円[えん]が 規定[きてい]の 料金[りょうきん]です。
+  Die festgelegten Eintrittspreise betragen 1000 Yen für Erwachsene und 500 Yen für Kinder.
+
+  この判断は規定的な影響を持つ可能性があります。
+  この 判断[はんだん]は 規定的[きていてき]な 影響[えいきょう]を 持[も]つ 可能性[かのうせい]があります。
+  Diese Entscheidung könnte eine bestimmende Wirkung haben.
+
+  新しい交通規則を規定する法律が可決されました。
+  新[あたら]しい 交通規則[こうつうきそく]を 規定[きてい]する 法律[ほうりつ]が 可決[かけつ]されました。
+  Ein Gesetz zur Regelung neuer Verkehrsvorschriften wurde verabschiedet.
+
+  物理法則は宇宙の秩序を規定しています。
+  物理法則[ぶつりほうそく]は 宇宙[うちゅう]の 秩序[ちつじょ]を 規定[きてい]しています。
+  Die Gesetze der Physik bestimmen die Ordnung des Universums.
+
+  この溶液の規定度を確認してください。
+  この 溶液[ようえき]の 規定度[きていど]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Normalität dieser Lösung.
+
+  体操競技の規定演技が始まります。
+  体操競技[たいそうきょうぎ]の 規定演技[きていえんぎ]が 始[はじ]まります。
+  Die Pflichtübungen im Turnen beginnen nun.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

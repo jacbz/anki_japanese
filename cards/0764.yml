@@ -2,7 +2,7 @@ Rang: 764
 Lemma: 迎える
 Lesung: むかえる
 Alternativschreibweisen: ''
-Definition: willkommen heißen, einladen
+Definition: empfangen, begrüßen; abholen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>む</span><span class="accent_plain">か</span><span class="accent_plain">え</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>む</span><span class="accent_plain">か</span><span 
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 迎えない・迎えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   私たちはお客さんを迎えた。
   私[わたし]たちはお 客[きゃく]さんを 迎[むか]えた。
   Wir haben Besucher empfangen.
+
+  友人が空港に到着するので、笑顔で迎えに行きます。
+  友人[ゆうじん]が 空港[くうこう]に 到着[とうちゃく]するので、笑顔[えがお]で 迎[むか]えに 行[い]きます。
+  Ich werde meinen Freund mit einem Lächeln am Flughafen abholen, da er ankommt.
+
+  駅で彼女を迎える時、花束を持って行きました。
+  駅[えき]で 彼女[かのじょ]を 迎[むか]える 時[とき]、花束[はなたば]を 持[も]って 行[い]きました。
+  Als ich sie am Bahnhof abholte, brachte ich einen Blumenstrauß mit.
+
+  新しい社員を玄関で迎え、オフィスを案内しました。
+  新[あたら]しい 社員[しゃいん]を 玄関[げんかん]で 迎[むか]え、オフィスを 案内[あんない]しました。
+  Ich empfing den neuen Mitarbeiter an der Tür und führte ihn durch das Büro.
+
+  講演者は会場に入ると、聴衆から大きな拍手で迎えられました。
+  講演者[こうえんしゃ]は 会場[かいじょう]に 入[はい]ると、聴衆[ちょうしゅう]から 大[おお]きな 拍手[はくしゅ]で 迎[むか]えられました。
+  Als der Redner den Saal betrat, wurde er vom Publikum mit großem Applaus empfangen.
+
+  急な体調不良で、医者を迎えなければならなくなりました。
+  急[きゅう]な 体調不良[たいちょうふりょう]で、医者[いしゃ]を 迎[むか]えなければならなくなりました。
+  Aufgrund einer plötzlichen Erkrankung musste ich einen Arzt rufen lassen.
+
+  彼は海外の有名大学から教授として迎えられました。
+  彼[かれ]は 海外[かいがい]の 有名[ゆうめい]大学[だいがく]から 教授[きょうじゅ]として 迎[むか]えられました。
+  Er wurde als Professor von einer renommierten ausländischen Universität berufen.
+
+  この難しい問題を解決するため、専門家を迎えることにしました。
+  この 難[むずか]しい 問題[もんだい]を 解決[かいけつ]するため、専門家[せんもんか]を 迎[むか]えることにしました。
+  Um dieses schwierige Problem zu lösen, beschlossen wir, einen Experten hinzuzuziehen.
+
+  彼は30歳になったのを機に、妻を迎えることを決意しました。
+  彼[かれ]は30歳[さい]になったのを 機[き]に、妻[つま]を 迎[むか]えることを 決意[けつい]しました。
+  Er entschied sich, anlässlich seines 30. Geburtstags zu heiraten.
+
+  新年を迎えるにあたり、今年の目標を立てました。
+  新年[しんねん]を 迎[むか]えるにあたり、今年[ことし]の 目標[もくひょう]を 立[た]てました。
+  Zum Beginn des neuen Jahres habe ich mir Ziele für dieses Jahr gesetzt.
+
+  夏を迎えると、街中でかき氷を売る屋台が増えます。
+  夏[なつ]を 迎[むか]えると、街中[まちなか]でかき 氷[ごおり]を 売[う]る 屋台[やたい]が 増[ふ]えます。
+  Wenn der Sommer kommt, gibt es in der Stadt mehr Stände, die Shaved Ice verkaufen.
+
+  この映画は公開と同時に好評をもって迎えられました。
+  この 映画[えいが]は 公開[こうかい]と 同時[どうじ]に 好評[こうひょう]をもって 迎[むか]えられました。
+  Dieser Film wurde bei seiner Veröffentlichung sehr positiv aufgenommen.
+
+  彼女は50歳の誕生日を迎えるにあたり、人生を振り返りました。
+  彼女[かのじょ]は50歳[さい]の 誕生日[たんじょうび]を 迎[むか]えるにあたり、人生[じんせい]を 振[ふ]り 返[かえ]りました。
+  Als sie ihren 50. Geburtstag erreichte, blickte sie auf ihr Leben zurück.
+
+  クリスマスを迎える今、街はイルミネーションで彩られています。
+  クリスマスを 迎[むか]える 今[いま]、街[まち]はイルミネーションで 彩[いろど]られています。
+  Jetzt, kurz vor Weihnachten, ist die Stadt mit Lichtern geschmückt.
+
+  この企業は来年、創業100周年を迎えます。
+  この 企業[きぎょう]は 来年[らいねん]、創業[そうぎょう]100周年[しゅうねん]を 迎[むか]えます。
+  Dieses Unternehmen wird nächstes Jahr sein 100-jähriges Jubiläum feiern.
+
+  彼は死期を迎えても、最後まで前向きな姿勢を保っていました。
+  彼[かれ]は 死期[しき]を 迎[むか]えても、最後[さいご]まで 前向[まえむ]きな 姿勢[しせい]を 保[たも]っていました。
+  Selbst als er dem Tod entgegensah, behielt er bis zum Schluss eine positive Einstellung.
+
+  新しい部長の意を迎えようと、みんな一生懸命働いています。
+  新[あたら]しい 部長[ぶちょう]の 意[い]を 迎[むか]えようと、みんな 一生懸命[いっしょうけんめい] 働[はたら]いています。
+  Alle arbeiten hart, um den Erwartungen des neuen Abteilungsleiters entgegenzukommen.
+
+  彼女の意見を迎えることで、チームの雰囲気が良くなりました。
+  彼女[かのじょ]の 意見[いけん]を 迎[むか]えることで、チームの 雰囲気[ふんいき]が 良[よ]くなりました。
+  Indem wir ihrer Meinung entgegenkamen, verbesserte sich die Atmosphäre im Team.
+
+  新しい季節を迎えるにあたり、心機一転して頑張ろうと思います。
+  新[あたら]しい 季節[きせつ]を 迎[むか]えるにあたり、心機一転[しんきいってん]して 頑張[がんば]ろうと 思[おも]います。
+  Mit dem Beginn der neuen Jahreszeit möchte ich einen Neuanfang wagen und mein Bestes geben.
+
+  卒業式を迎える学生たちは、喜びと寂しさが入り混じった表情をしていました。
+  卒業式[そつぎょうしき]を 迎[むか]える 学生[がくせい]たちは、喜[よろこ]びと 寂[さび]しさが 入[はい]り 混[ま]じった 表情[ひょうじょう]をしていました。
+  Die Studenten, die ihre Abschlussfeier erreichten, zeigten Gesichtsausdrücke, die Freude und Traurigkeit vermischten.
+
+  新しい時代を迎えるにあたり、社会のあり方を考え直す必要があります。
+  新[あたら]しい 時代[じだい]を 迎[むか]えるにあたり、社会[しゃかい]のあり 方[かた]を 考[かんが]え 直[なお]す 必要[ひつよう]があります。
+  Beim Eintritt in eine neue Ära müssen wir die Art und Weise, wie unsere Gesellschaft funktioniert, überdenken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

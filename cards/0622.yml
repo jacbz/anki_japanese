@@ -2,7 +2,7 @@ Rang: 622
 Lemma: 確認
 Lesung: かくにん
 Alternativschreibweisen: ''
-Definition: Bestätigung
+Definition: Bestätigung; überprüfen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">く</span><span class="accent_plain">に</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 確認しない・確認した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   出発の時間を確認した。
   出発[しゅっぱつ]の 時間[じかん]を 確認[かくにん]した。
   Ich habe die Abfahrtszeit bestätigt.
+
+  安全確認をしてから作業を開始してください。
+  安全確認[あんぜんかくにん]をしてから 作業[さぎょう]を 開始[かいし]してください。
+  Bitte führen Sie vor Beginn der Arbeit eine Sicherheitsüberprüfung durch.
+
+  法律上の確認が必要な書類です。
+  法律上[ほうりつじょう]の 確認[かくにん]が 必要[ひつよう]な 書類[しょるい]です。
+  Dies ist ein Dokument, das eine rechtliche Bestätigung erfordert.
+
+  メールで予約確認書を送ります。
+  メールで 予約確認書[よやくかくにんしょ]を 送[おく]ります。
+  Wir senden Ihnen die Buchungsbestätigung per E-Mail.
+
+  確認訴訟を起こすことで、権利の存在を明確にしたい。
+  確認訴訟[かくにんそしょう]を 起[お]こすことで、権利[けんり]の 存在[そんざい]を 明確[めいかく]にしたい。
+  Durch eine Feststellungsklage möchte ich die Existenz des Rechts klarstellen.
+
+  契約書の確認手続きを行っています。
+  契約書[けいやくしょ]の 確認手続[かくにんてつづ]きを 行[おこな]っています。
+  Wir führen gerade das Bestätigungsverfahren für den Vertrag durch.
+
+  確認済予約のキャンセルには手数料がかかります。
+  確認済予約[かくにんずみよやく]のキャンセルには 手数料[てすうりょう]がかかります。
+  Für die Stornierung einer bestätigten Buchung fallen Gebühren an.
+
+  父子関係の確認のためにDNA検査を行いました。
+  父子関係[ふしかんけい]の 確認[かくにん]のためにDNA検査[けんさ]を 行[おこな]いました。
+  Wir haben einen DNA-Test zur Feststellung der Vaterschaft durchgeführt.
+
+  建築確認申請が承認されるまでは工事を始められません。
+  建築確認申請[けんちくかくにんしんせい]が 承認[しょうにん]されるまでは 工事[こうじ]を 始[はじ]められません。
+  Wir können mit dem Bau nicht beginnen, bis die Baugenehmigung erteilt wird.
+
+  委任確認書にサインをお願いします。
+  委任確認書[いにんかくにんしょ]にサインをお 願[ねが]いします。
+  Bitte unterschreiben Sie die Auftragsbestätigung.
+
+  契約の無効確認を求める訴えを起こしました。
+  契約[けいやく]の 無効確認[むこうかくにん]を 求[もと]める 訴[うった]えを 起[お]こしました。
+  Wir haben eine Klage auf Feststellung der Nichtigkeit des Vertrags eingereicht.
+
+  身元を確認できる書類をお持ちですか。
+  身元[みもと]を 確認[かくにん]できる 書類[しょるい]をお 持[も]ちですか。
+  Haben Sie ein Dokument dabei, mit dem Sie Ihre Identität nachweisen können?
+
+  遺体の身元確認作業が行われています。
+  遺体[いたい]の 身元確認作業[みもとかくにんさぎょう]が 行[おこな]われています。
+  Die Identifizierung der Leiche wird gerade durchgeführt.
+
+  信号を確認してから、横断歩道を渡ってください。
+  信号[しんごう]を 確認[かくにん]してから、横断歩道[おうだんほどう]を 渡[わた]ってください。
+  Bitte überqueren Sie den Zebrastreifen erst, nachdem Sie die Ampel überprüft haben.
+
+  まだ確認されていない情報なので、公表は控えましょう。
+  まだ 確認[かくにん]されていない 情報[じょうほう]なので、公表[こうひょう]は 控[ひか]えましょう。
+  Da es sich um unbestätigte Informationen handelt, sollten wir von einer Veröffentlichung absehen.
+
+  確認が取れるまで、次の段階に進むことはできません。
+  確認[かくにん]が 取[と]れるまで、次[つぎ]の 段階[だんかい]に 進[すす]むことはできません。
+  Wir können nicht zur nächsten Phase übergehen, bis wir die Bestätigung erhalten haben.
+
+  確認的効力を持つ文書を作成しました。
+  確認的効力[かくにんてきこうりょく]を 持[も]つ 文書[ぶんしょ]を 作成[さくせい]しました。
+  Wir haben ein Dokument mit deklaratorischer Wirkung erstellt.
+
+  名前と住所を確認させていただきます。
+  名前[なまえ]と 住所[じゅうしょ]を 確認[かくにん]させていただきます。
+  Ich möchte Ihren Namen und Ihre Adresse überprüfen.
+
+  約束の内容をもう一度確認しておきましょう。
+  約束[やくそく]の 内容[ないよう]をもう一度[いちど] 確認[かくにん]しておきましょう。
+  Lassen Sie uns den Inhalt der Vereinbarung noch einmal bestätigen.
+
+  時計を確認しながら、会議の開始時間を待っています。
+  時計[とけい]を 確認[かくにん]しながら、会議[かいぎ]の 開始時間[かいしじかん]を 待[ま]っています。
+  Ich warte auf den Beginn der Besprechung und schaue dabei immer wieder auf die Uhr.
+
+  返事がないことを確認してから、次の行動に移りました。
+  返事[へんじ]がないことを 確認[かくにん]してから、次[つぎ]の 行動[こうどう]に 移[うつ]りました。
+  Nachdem ich sicher war, dass keine Antwort kam, ging ich zum nächsten Schritt über.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
