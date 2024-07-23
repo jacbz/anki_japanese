@@ -4,6 +4,8 @@ Hilf mit, das Deck **Japanisch 5000** zu verbessern! Das Deck enthält die 5000 
 
 **Work In Progress** (noch nicht auf AnkiWeb)
 
+<img src="https://i.imgur.com/AmVTMRw.png" alt="" width="800px">
+
 Vielen Dank für deine Beiträge! Gemeinsam können wir dieses Deck noch besser machen.
 
 ## Was ist zu tun?

@@ -9,6 +9,26 @@ function addFurigana(text) {
   ).replaceAll('> <', '><');
 }
 
+function enableRuby(el = document) {
+  el.querySelectorAll("span.rb").forEach((rb) => {
+    rb.onclick = (event) => {
+      event.stopPropagation();
+      rb.parentElement.classList.toggle("show-furigana");
+    };
+    rb.ondblclick = (event) => {
+      event.stopPropagation();
+      const rubies = [...rb.closest(".jp").querySelectorAll("ruby")];
+      const isAllFuriganaShown = rubies.every((ruby) => {
+        return ruby.classList.contains("show-furigana");
+      });
+      for (const ruby of rubies) {
+        ruby.classList.toggle("show-furigana", !isAllFuriganaShown);
+      }
+      window.getSelection().removeAllRanges();
+    };
+  });
+}
+
 function formatDefinition() {
   document.querySelectorAll(".definition").forEach(function (def) {
     let text = def.innerHTML;
