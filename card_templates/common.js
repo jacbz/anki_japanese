@@ -72,6 +72,7 @@ function processText(text, isJapanese) {
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks „...“
+    text = text.replaceAll("„", '"').replaceAll("“", '"');
     text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
   }
   return text;

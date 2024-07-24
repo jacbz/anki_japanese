@@ -102,7 +102,8 @@ function formatSentences(within = document) {
 
     const text = processText(el.innerHTML, true);
     el.innerHTML = `<span class="sentence-with-audio">${audioButton(
-      el.dataset.sentence ?? text.replaceAll(/（.+?）/g, "").replaceAll(/\(.+?\)/g, "")
+      el.dataset.sentence ??
+        text.replaceAll(/（.+?）/g, "").replaceAll(/\(.+?\)/g, "")
     )}<span>${addFurigana(text)}</span></span>`;
 
     enableRuby(el);
@@ -127,7 +128,7 @@ function formatSentences(within = document) {
 }
 
 function hiraganaToKatakana(input) {
-  return input.replace(/[\u3041-\u3096]/g, function(match) {
+  return input.replace(/[\u3041-\u3096]/g, function (match) {
     return String.fromCharCode(match.charCodeAt(0) + 0x60);
   });
 }
@@ -148,18 +149,33 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
   }
 
   try {
-    const ssmlSentence = sentence.replace(
-      /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
-      (match, kanji, furigana) => {
-        return `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)}">${kanji}</phoneme>`;
-      }
-    ).replaceAll('> <', '><');
+    const ssmlSentence = sentence
+      .replace(
+        /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
+        (match, kanji, furigana) => {
+          return `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(
+            furigana
+          )}">${kanji}</phoneme>`;
+        }
+      )
+      .replaceAll("> <", "><");
 
     // unused: Shiori, Daichi
     // bug with Keita: numbers are not read
-    const voices = ['Mayu', 'Mayu', 'Nanami', 'Naoki'];
-    const voice = voices[Math.floor(Math.random() * voices.length)];
-    console.log(`Voice: ${voice}: ${ssmlSentence}`);
+    let voices = ["Mayu", "Nanami", "Naoki"];
+    voices = voices.sort(() => Math.random() - 0.5);
+
+    // read each sentence with a different voice
+    const sentences = ssmlSentence
+      .split("<br>")
+      .map(
+        (sentence, index) =>
+          `<voice name="ja-JP-${
+            voices[index % voices.length]
+          }Neural">${sentence}</voice>`
+      );
+    console.log(sentences);
+
     const response = await fetch(azureEndPoint, {
       method: "POST",
       headers: {
@@ -168,7 +184,7 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
         "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
         "User-Agent": "curl",
       },
-      body: `<speak xml:lang="ja-JP"><voice name="ja-JP-${voice}Neural">${ssmlSentence}</voice></speak>`,
+      body: `<speak version="1.0" xml:lang="ja-JP">${sentences.join("")}</speak>`,
     });
 
     if (!response.ok) {
