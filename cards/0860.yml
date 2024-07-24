@@ -2,14 +2,14 @@ Rang: 860
 Lemma: 集める
 Lesung: あつめる
 Alternativschreibweisen: ''
-Definition: sammeln
+Definition: (ver-)sammeln
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">つ</span><span class="accent_top">め</span><span>る</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 集めない・集めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は切手を集めている。
   彼[かれ]は 切手[きって]を 集[あつ]めている。
   Er sammelt Briefmarken.
+
+  明日の会議のために参加者を集めています。
+  明日[あした]の 会議[かいぎ]のために 参加者[さんかしゃ]を 集[あつ]めています。
+  Ich versammle die Teilnehmer für die morgige Besprechung.
+
+  彼女は珍しい切手を集めるのが趣味だ。
+  彼女[かのじょ]は 珍[めずら]しい 切手[きって]を 集[あつ]めるのが 趣味[しゅみ]だ。
+  Ihr Hobby ist es, seltene Briefmarken zu sammeln.
+
+  新製品が多くの関心を集めている。
+  新[しん]製品[せいひん]が 多[おお]くの 関心[かんしん]を 集[あつ]めている。
+  Das neue Produkt erregt viel Interesse.
+
+  彼の演説は聴衆の注目を集めた。
+  彼[かれ]の 演説[えんぜつ]は 聴衆[ちょうしゅう]の 注目[ちゅうもく]を 集[あつ]めた。
+  Seine Rede zog die Aufmerksamkeit des Publikums auf sich.
+
+  災害の被災者のために募金を集めています。
+  災害[さいがい]の 被災者[ひさいしゃ]のために 募金[ぼきん]を 集[あつ]めています。
+  Wir sammeln Spenden für die Opfer der Katastrophe.
+
+  彼女の新しい小説は世間の注目を集めている。
+  彼女[かのじょ]の 新[あたら]しい 小説[しょうせつ]は 世間[せけん]の 注目[ちゅうもく]を 集[あつ]めている。
+  Ihr neuer Roman erregt das Interesse der Öffentlichkeit.
+
+  チームのキャプテンは選手を集めてミーティングを行った。
+  チームのキャプテンは 選手[せんしゅ]を 集[あつ]めてミーティングを 行[おこな]った。
+  Der Teamkapitän versammelte die Spieler für eine Besprechung.
+
+  彼は古い硬貨を集めるのが好きだ。
+  彼[かれ]は 古[ふる]い 硬貨[こうか]を 集[あつ]めるのが 好[す]きだ。
+  Er sammelt gerne alte Münzen.
+
+  この記事は多くの読者の関心を集めるだろう。
+  この 記事[きじ]は 多[おお]くの 読者[どくしゃ]の 関心[かんしん]を 集[あつ]めるだろう。
+  Dieser Artikel wird wahrscheinlich das Interesse vieler Leser wecken.
+
+  先生は生徒たちを教室に集めて重要なお知らせをした。
+  先生[せんせい]は 生徒[せいと]たちを 教室[きょうしつ]に 集[あつ]めて 重要[じゅうよう]なお 知[し]らせをした。
+  Der Lehrer versammelte die Schüler im Klassenzimmer, um eine wichtige Ankündigung zu machen.
+
+  彼女は落ち葉を集めて焼き芋を作った。
+  彼女[かのじょ]は 落[お]ち 葉[は]を 集[あつ]めて 焼[や]き 芋[いも]を 作[つく]った。
+  Sie sammelte Herbstlaub und machte gebackene Süßkartoffeln.
+
+  この展覧会は芸術愛好家の注目を集めている。
+  この 展覧会[てんらんかい]は 芸術愛好家[げいじゅつあいこうか]の 注目[ちゅうもく]を 集[あつ]めている。
+  Diese Ausstellung zieht die Aufmerksamkeit von Kunstliebhabern auf sich.
+
+  彼らは海岸でゴミを集めるボランティア活動をしている。
+  彼[かれ]らは 海岸[かいがん]でゴミを 集[あつ]めるボランティア 活動[かつどう]をしている。
+  Sie machen Freiwilligenarbeit und sammeln Müll am Strand.
+
+  社長は幹部を集めて緊急会議を開いた。
+  社長[しゃちょう]は 幹部[かんぶ]を 集[あつ]めて 緊急[きんきゅう]会議[かいぎ]を 開[ひら]いた。
+  Der Präsident berief eine Dringlichkeitssitzung ein und versammelte die leitenden Angestellten.
+
+  彼女は世界中の珍しい石を集めている。
+  彼女[かのじょ]は 世界中[せかいじゅう]の 珍[めずら]しい 石[いし]を 集[あつ]めている。
+  Sie sammelt seltene Steine aus der ganzen Welt.
+
+  その歌手は10万人のファンを集めてコンサートを行った。
+  その 歌手[かしゅ]は10万[まん]人[にん]のファンを 集[あつ]めてコンサートを 行[おこな]った。
+  Der Sänger versammelte 100.000 Fans für sein Konzert.
+
+  彼は情報を集めて詳細な報告書を作成した。
+  彼[かれ]は 情報[じょうほう]を 集[あつ]めて 詳細[しょうさい]な 報告書[ほうこくしょ]を 作成[さくせい]した。
+  Er sammelte Informationen und erstellte einen detaillierten Bericht.
+
+  子供たちは公園で落ち葉を集めて遊んでいる。
+  子供[こども]たちは 公園[こうえん]で 落[お]ち 葉[は]を 集[あつ]めて 遊[あそ]んでいる。
+  Die Kinder spielen im Park und sammeln herabgefallene Blätter.
+
+  彼女は古い写真を集めてアルバムを作った。
+  彼女[かのじょ]は 古[ふる]い 写真[しゃしん]を 集[あつ]めてアルバムを 作[つく]った。
+  Sie sammelte alte Fotos und machte daraus ein Album.
+
+  その政治家は支持者を集めて演説会を開いた。
+  その 政治家[せいじか]は 支持者[しじしゃ]を 集[あつ]めて 演説会[えんぜつかい]を 開[ひら]いた。
+  Der Politiker versammelte seine Anhänger und hielt eine Rede.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

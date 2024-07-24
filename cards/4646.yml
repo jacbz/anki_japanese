@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「卒業おめでとう！」「ありがとう。」
-  「 卒業[そつぎょう]おめでとう！」「ありがとう。」
-  „Herzlichen Glückwunsch zum Abschluss!“ „Danke.“
+  「卒業おめでとう！」<br>「ありがとう。」
+  「 卒業[そつぎょう]おめでとう！」<br>「ありがとう。」
+  „Herzlichen Glückwunsch zum Abschluss!“<br>„Danke.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

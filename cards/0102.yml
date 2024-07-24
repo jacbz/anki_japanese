@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="">か</span><span class="accent_plain">ん</sp
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 考えない・考えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   よく考えてから話しなさい。
   よく 考[かんが]えてから 話[はな]しなさい。
   Denken Sie nach, bevor Sie sprechen.
+
+  よく考えてから決断を下すべきです。
+  よく 考[かんが]えてから 決断[けつだん]を 下[くだ]すべきです。
+  Man sollte gut nachdenken, bevor man eine Entscheidung trifft.
+
+  別のやり方を考えてみましょう。
+  別[べつ]のやり 方[かた]を 考[かんが]えてみましょう。
+  Lass uns eine andere Vorgehensweise überlegen.
+
+  彼女は言い訳を考えるのが上手だ。
+  彼女[かのじょ]は 言[い]い 訳[わけ]を 考[かんが]えるのが 上手[じょうず]だ。
+  Sie ist gut darin, sich Ausreden auszudenken.
+
+  環境問題について真剣に考える必要がある。
+  環境問題[かんきょうもんだい]について 真剣[しんけん]に 考[かんが]える 必要[ひつよう]がある。
+  Wir müssen ernsthaft über Umweltprobleme nachdenken.
+
+  彼は結婚を考えているらしい。
+  彼[かれ]は 結婚[けっこん]を 考[かんが]えているらしい。
+  Es scheint, dass er an Heirat denkt.
+
+  親として子供の将来をよく考えなければならない。
+  親[おや]として 子供[こども]の 将来[しょうらい]をよく 考[かんが]えなければならない。
+  Als Eltern müssen wir sorgfältig über die Zukunft unserer Kinder nachdenken.
+
+  万一の時を考えて保険に入っています。
+  万一[まんいち]の 時[とき]を 考[かんが]えて 保険[ほけん]に 入[はい]っています。
+  Ich habe eine Versicherung abgeschlossen, um für den Ernstfall vorbereitet zu sein.
+
+  私はそれが正しいと考えています。
+  私[わたし]はそれが 正[ただ]しいと 考[かんが]えています。
+  Ich halte das für richtig.
+
+  来年海外旅行に行こうと考えています。
+  来年[らいねん] 海外旅行[かいがいりょこう]に 行[い]こうと 考[かんが]えています。
+  Ich erwäge, nächstes Jahr eine Auslandsreise zu machen.
+
+  よく考えると、その提案には問題がある。
+  よく 考[かんが]えると、その 提案[ていあん]には 問題[もんだい]がある。
+  Bei genauerer Überlegung gibt es Probleme mit diesem Vorschlag.
+
+  そんなことは考えられない！
+  そんなことは 考[かんが]えられない！
+  So etwas ist undenkbar!
+
+  この問題は考えていたより難しかった。
+  この 問題[もんだい]は 考[かんが]えていたより 難[むずか]しかった。
+  Dieses Problem war schwieriger, als ich gedacht hatte.
+
+  よく考えてください。もし0で割ると、どうなるでしょうか。
+  よく 考[かんが]えてください。もし0で 割[わ]ると、どうなるでしょうか。
+  Denk gut darüber nach. Was passiert, wenn du durch Null teilst?
+
+  授業中、彼女のことばかり考えていた。
+  授業中[じゅぎょうちゅう]、 彼女[かのじょ]のことばかり 考[かんが]えていた。
+  Während des Unterrichts konnte ich nur an sie denken.
+
+  もし本当だとすれば、どうすべきか考えなくてはいけません。
+  もし 本当[ほんとう]だとすれば、どうすべきか 考[かんが]えなくてはいけません。
+  Wenn es wahr ist, müssen wir überlegen, was wir tun sollten.
+
+  愛のない結婚は考えられません。
+  愛[あい]のない 結婚[けっこん]は 考[かんが]えられません。
+  Eine Heirat ohne Liebe ist für mich undenkbar.
+
+  彼は「私は狂ったのだ」と考えた。
+  彼[かれ]は「 私[わたし]は 狂[くる]ったのだ」と 考[かんが]えた。
+  Er dachte: 'Ich bin verrückt geworden.'
+
+  ちょっと寄って様子を見てみようと考えたんです。
+  ちょっと 寄[よ]って 様子[ようす]を 見[み]てみようと 考[かんが]えたんです。
+  Wir dachten, wir schauen kurz vorbei und sehen nach dem Rechten.
+
+  多くの人はその報告を誤報だと考えた。
+  多[おお]くの 人[ひと]はその 報告[ほうこく]を 誤報[ごほう]だと 考[かんが]えた。
+  Viele Leute hielten den Bericht für eine Falschmeldung.
+
+  何度も説明しようと考えたが、できなかった。
+  何度[なんど]も 説明[せつめい]しようと 考[かんが]えたが、できなかった。
+  Ich wollte es mehrmals erklären, konnte es aber nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

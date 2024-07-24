@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「五時ごろに来て。」「オーケー。じゃ、五時に。」
-  「五 時[じ]ごろに 来[き]て。」「オーケー。じゃ、五 時[じ]に。」
-  „Komm gegen 5 Uhr.“ „OK. Bis dann.“
+  「五時ごろに来て。」<br>「オーケー。じゃ、五時に。」
+  「五 時[じ]ごろに 来[き]て。」<br>「オーケー。じゃ、五 時[じ]に。」
+  „Komm gegen 5 Uhr.“<br>„OK. Bis dann.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

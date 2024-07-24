@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pro Karte). 11 Karten haben eine Notiz.
+Insgesamt gibt es 4902 Karten mit 16419 Beispielsätzen (durchschnittlich 3.3 pro Karte). 11 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,9 +82,9 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 72 | 自分 | じぶん | sich selbst | 1 |  | [Bearbeiten](cards/0072.yml) |
 | 73 | ん |  | äh, mm, nun | 1 |  | [Bearbeiten](cards/0073.yml) |
 | 74 | あー |  | ähm, hm, ah, oh | 1 |  | [Bearbeiten](cards/0074.yml) |
-| 75 | やはり |  | wie erwartet, trotzdem | 1 |  | [Bearbeiten](cards/0075.yml) |
+| 75 | やはり |  | wie erwartet; auch | 21 |  | [Bearbeiten](cards/0075.yml) |
 | 77 | やる |  | tun, machen; geben | 21 |  | [Bearbeiten](cards/0077.yml) |
-| 78 | 中 | なか | innen, in | 1 |  | [Bearbeiten](cards/0078.yml) |
+| 78 | 中 | なか | innen, in | 21 |  | [Bearbeiten](cards/0078.yml) |
 | 79 | いる |  | sein, existieren; bleiben | 1 |  | [Bearbeiten](cards/0079.yml) |
 | 80 | できる |  | bereit sein | 1 |  | [Bearbeiten](cards/0080.yml) |
 | 81 | など |  | und so weiter, etc. | 1 |  | [Bearbeiten](cards/0081.yml) |
@@ -106,7 +106,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 99 | 出る | でる | herausgehen | 1 |  | [Bearbeiten](cards/0099.yml) |
 | 100 | ため |  | für | 21 |  | [Bearbeiten](cards/0100.yml) |
 | 101 | すごい |  | fantastisch, wunderbar; schrecklich | 21 |  | [Bearbeiten](cards/0101.yml) |
-| 102 | 考える | かんがえる | nachdenken | 1 |  | [Bearbeiten](cards/0102.yml) |
+| 102 | 考える | かんがえる | nachdenken | 21 |  | [Bearbeiten](cards/0102.yml) |
 | 103 | そこ |  | dort | 1 |  | [Bearbeiten](cards/0103.yml) |
 | 105 | 分かる | わかる | verstehen | 1 |  | [Bearbeiten](cards/0105.yml) |
 | 107 | について |  | in Bezug auf | 1 |  | [Bearbeiten](cards/0107.yml) |
@@ -121,14 +121,14 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 118 | そんな |  | so ein(-e) | 1 |  | [Bearbeiten](cards/0118.yml) |
 | 119 | 使う | つかう | benutzen | 21 |  | [Bearbeiten](cards/0119.yml) |
 | 120 | 日本 | にほん | Japan | 1 |  | [Bearbeiten](cards/0120.yml) |
-| 121 | 風 | ふう | Stil, Art | 1 |  | [Bearbeiten](cards/0121.yml) |
+| 121 | 風 | ふう | Stil, Art | 22 |  | [Bearbeiten](cards/0121.yml) |
 | 122 | おー |  | Oh!, Wow! | 1 |  | [Bearbeiten](cards/0122.yml) |
 | 123 | 前 | まえ | vor | 1 |  | [Bearbeiten](cards/0123.yml) |
 | 124 | 多い | おおい | viel, zahlreich | 23 |  | [Bearbeiten](cards/0124.yml) |
 | 126 | よく |  | gut; oft; sehr | 21 |  | [Bearbeiten](cards/0126.yml) |
 | 127 | 一つ | ひとつ | ein(e) | 1 |  | [Bearbeiten](cards/0127.yml) |
 | 128 | 子供 | こども | Kind | 1 |  | [Bearbeiten](cards/0128.yml) |
-| 129 | 非常 | ひじょう | sehr, äußerst; Notfall | 1 |  | [Bearbeiten](cards/0129.yml) |
+| 129 | 非常 | ひじょう | außerordentlich, Notfall | 21 |  | [Bearbeiten](cards/0129.yml) |
 | 130 | 気 | き | Geist, Herz | 1 |  | [Bearbeiten](cards/0130.yml) |
 | 131 | ても |  | selbst wenn | 1 |  | [Bearbeiten](cards/0131.yml) |
 | 132 | 取る | とる | nehmen | 1 |  | [Bearbeiten](cards/0132.yml) |
@@ -147,7 +147,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 147 | 一番 | いちばん | Nummer eins, erster, am meisten | 1 |  | [Bearbeiten](cards/0147.yml) |
 | 148 | 二 | に | zwei | 22 |  | [Bearbeiten](cards/0148.yml) |
 | 149 | 同じ | おなじ | gleich, derselbe | 22 |  | [Bearbeiten](cards/0149.yml) |
-| 150 | まず |  | zunächst; zuerst | 1 |  | [Bearbeiten](cards/0150.yml) |
+| 150 | まず |  | zunächst; zuerst | 21 |  | [Bearbeiten](cards/0150.yml) |
 | 151 | 必要 | ひつよう | notwendig; Notwendigkeit | 21 |  | [Bearbeiten](cards/0151.yml) |
 | 152 | 仕事 | しごと | Arbeit, Job | 29 |  | [Bearbeiten](cards/0152.yml) |
 | 153 | あまり |  | nicht sehr; der Rest | 1 |  | [Bearbeiten](cards/0153.yml) |
@@ -155,8 +155,8 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 155 | かもしれない |  | vielleicht | 1 |  | [Bearbeiten](cards/0155.yml) |
 | 156 | 僕 | ぼく | ich [männlich] | 1 |  | [Bearbeiten](cards/0156.yml) |
 | 157 | 皆 | みな | alle, jeder | 21 |  | [Bearbeiten](cards/0157.yml) |
-| 158 | 彼 | かれ | er; Freund | 2 |  | [Bearbeiten](cards/0158.yml) |
-| 159 | 方 | かた | Person | 1 |  | [Bearbeiten](cards/0159.yml) |
+| 158 | 彼 | かれ | er; Freund | 22 |  | [Bearbeiten](cards/0158.yml) |
+| 159 | 方 | かた | Person | 20 |  | [Bearbeiten](cards/0159.yml) |
 | 160 | 食べる | たべる | essen | 1 |  | [Bearbeiten](cards/0160.yml) |
 | 161 | ほど |  | etwa; Ausmaß | 1 |  | [Bearbeiten](cards/0161.yml) |
 | 162 | しかし |  | aber, jedoch | 21 |  | [Bearbeiten](cards/0162.yml) |
@@ -171,12 +171,12 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 171 | 上 | うえ | oben; über; auf | 1 |  | [Bearbeiten](cards/0171.yml) |
 | 173 | 他 | ほか | anderer(-r/s); sonst; außer | 22 |  | [Bearbeiten](cards/0173.yml) |
 | 174 | いつ |  | wann | 21 |  | [Bearbeiten](cards/0174.yml) |
-| 175 | 家 | いえ | Haus, Zuhause | 1 |  | [Bearbeiten](cards/0175.yml) |
+| 175 | 家 | いえ | Haus; Familie | 21 |  | [Bearbeiten](cards/0175.yml) |
 | 176 | 付く | つく | kleben; dazugehören | 1 |  | [Bearbeiten](cards/0176.yml) |
 | 177 | 日 | ひ | Tag; Sonne | 1 |  | [Bearbeiten](cards/0177.yml) |
 | 178 | 出す | だす | herausnehmen; bezahlen; senden | 1 |  | [Bearbeiten](cards/0178.yml) |
 | 179 | 一人 | ひとり | eine Person; allein | 1 |  | [Bearbeiten](cards/0179.yml) |
-| 180 | 人間 | にんげん | Mensch | 23 |  | [Bearbeiten](cards/0180.yml) |
+| 180 | 人間 | にんげん | Mensch, Menschheit | 23 |  | [Bearbeiten](cards/0180.yml) |
 | 181 | どこ |  | wo | 1 |  | [Bearbeiten](cards/0181.yml) |
 | 183 | 時間 | じかん | Zeit | 1 |  | [Bearbeiten](cards/0183.yml) |
 | 184 | ただ |  | nur, bloß, lediglich | 23 |  | [Bearbeiten](cards/0184.yml) |
@@ -191,8 +191,8 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 193 | まだ |  | noch | 20 |  | [Bearbeiten](cards/0193.yml) |
 | 194 | 手 | て | Hand | 1 |  | [Bearbeiten](cards/0194.yml) |
 | 195 | 話す | はなす | sprechen, erzählen | 1 |  | [Bearbeiten](cards/0195.yml) |
-| 196 | 好き | すき | mögen, lieben; Lieblings- | 1 |  | [Bearbeiten](cards/0196.yml) |
-| 197 | 返る | かえる | zurückkehren (in Ursprungszustand) | 1 | X | [Bearbeiten](cards/0197.yml) |
+| 196 | 好き | すき | mögen, gern haben; Vorliebe | 22 |  | [Bearbeiten](cards/0196.yml) |
+| 197 | 返る | かえる | zurückkehren, zurückbekommen | 21 | X | [Bearbeiten](cards/0197.yml) |
 | 199 | かける |  | [Zeit] verbringen; [Geld] ausgeben; aufhängen | 1 |  | [Bearbeiten](cards/0199.yml) |
 | 200 | 終わる | おわる | enden, beenden | 1 |  | [Bearbeiten](cards/0200.yml) |
 | 201 | 意味 | いみ | Bedeutung, Sinn | 1 |  | [Bearbeiten](cards/0201.yml) |
@@ -225,7 +225,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 231 | 気持ち | きもち | Gefühl, Stimmung | 22 |  | [Bearbeiten](cards/0231.yml) |
 | 232 | 乗る | のる | besteigen, einsteigen; fahren | 25 |  | [Bearbeiten](cards/0232.yml) |
 | 233 | において |  | bei; in; auf | 2 |  | [Bearbeiten](cards/0233.yml) |
-| 234 | 見える | みえる | sehen können | 1 |  | [Bearbeiten](cards/0234.yml) |
+| 234 | 見える | みえる | sehen können | 21 |  | [Bearbeiten](cards/0234.yml) |
 | 235 | 変わる | かわる | sich ändern, sich unterscheiden | 21 |  | [Bearbeiten](cards/0235.yml) |
 | 237 | あるいは |  | oder; vielleicht (Auflistung von Möglichkeiten) | 1 |  | [Bearbeiten](cards/0237.yml) |
 | 238 | 大変 | たいへん | sehr; schwierig; ernst | 23 |  | [Bearbeiten](cards/0238.yml) |
@@ -254,14 +254,14 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 264 | 昔 | むかし | früher, in der Vergangenheit, einst | 1 |  | [Bearbeiten](cards/0264.yml) |
 | 265 | うん |  | ja | 1 |  | [Bearbeiten](cards/0265.yml) |
 | 266 | すべて |  | alle, ganz | 21 |  | [Bearbeiten](cards/0266.yml) |
-| 267 | 教える | おしえる | lehren, unterrichten | 1 |  | [Bearbeiten](cards/0267.yml) |
+| 267 | 教える | おしえる | lehren, unterrichten | 21 |  | [Bearbeiten](cards/0267.yml) |
 | 268 | 子 | こ | Kind | 1 |  | [Bearbeiten](cards/0268.yml) |
 | 270 | に対して | にたいして | zu, gegenüber; für; gegen | 1 |  | [Bearbeiten](cards/0270.yml) |
 | 271 | ばかり |  | gerade erst | 1 |  | [Bearbeiten](cards/0271.yml) |
 | 272 | なぜ |  | warum | 1 |  | [Bearbeiten](cards/0272.yml) |
 | 273 | 水 | みず | Wasser | 1 |  | [Bearbeiten](cards/0273.yml) |
 | 274 | 当時 | とうじ | damals, zu jener Zeit | 21 |  | [Bearbeiten](cards/0274.yml) |
-| 275 | 場所 | ばしょ | Ort, Stelle, Position | 1 |  | [Bearbeiten](cards/0275.yml) |
+| 275 | 場所 | ばしょ | Ort, Platz | 25 |  | [Bearbeiten](cards/0275.yml) |
 | 276 | 置く | おく | legen, stellen; zurücklassen | 1 |  | [Bearbeiten](cards/0276.yml) |
 | 277 | 楽しい | たのしい | angenehm, glücklich, unterhaltsam | 1 |  | [Bearbeiten](cards/0277.yml) |
 | 278 | にとって |  | für | 1 |  | [Bearbeiten](cards/0278.yml) |
@@ -271,11 +271,11 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 282 | 最後 | さいご | letzte/r/s, Ende | 1 |  | [Bearbeiten](cards/0282.yml) |
 | 283 | 車 | くるま | Auto | 1 |  | [Bearbeiten](cards/0283.yml) |
 | 284 | 初めて | はじめて | zum ersten Mal | 1 |  | [Bearbeiten](cards/0284.yml) |
-| 285 | 今度 | こんど | nächstes Mal | 1 |  | [Bearbeiten](cards/0285.yml) |
+| 285 | 今度 | こんど | diesmal; nächstes Mal; kürzlich | 21 |  | [Bearbeiten](cards/0285.yml) |
 | 286 | 体 | からだ | Körper | 1 |  | [Bearbeiten](cards/0286.yml) |
 | 287 | 私達 | わたしたち | wir | 1 |  | [Bearbeiten](cards/0287.yml) |
 | 288 | 強い | つよい | stark | 1 |  | [Bearbeiten](cards/0288.yml) |
-| 289 | 全く | まったく | völlig | 1 |  | [Bearbeiten](cards/0289.yml) |
+| 289 | 全く | まったく | völlig | 22 |  | [Bearbeiten](cards/0289.yml) |
 | 290 | 呼ぶ | よぶ | rufen | 1 |  | [Bearbeiten](cards/0290.yml) |
 | 291 | 結局 | けっきょく | letztendlich, schlussendlich | 21 |  | [Bearbeiten](cards/0291.yml) |
 | 292 | 歩く | あるく | gehen, laufen | 21 |  | [Bearbeiten](cards/0292.yml) |
@@ -290,10 +290,10 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 301 | テーマ |  | Thema | 1 |  | [Bearbeiten](cards/0301.yml) |
 | 302 | 世界 | せかい | Welt | 1 |  | [Bearbeiten](cards/0302.yml) |
 | 303 | 状態 | じょうたい | Zustand, Lage | 21 |  | [Bearbeiten](cards/0303.yml) |
-| 305 | もし |  | falls, wenn | 1 |  | [Bearbeiten](cards/0305.yml) |
+| 305 | もし |  | wenn, falls | 21 |  | [Bearbeiten](cards/0305.yml) |
 | 306 | 全然 | ぜんぜん | überhaupt nicht | 1 |  | [Bearbeiten](cards/0306.yml) |
 | 307 | 飲む | のむ | trinken | 1 |  | [Bearbeiten](cards/0307.yml) |
-| 308 | 新しい | あたらしい | neu, frisch | 1 |  | [Bearbeiten](cards/0308.yml) |
+| 308 | 新しい | あたらしい | neu, frisch | 21 |  | [Bearbeiten](cards/0308.yml) |
 | 310 | 早い | はやい | schnell; früh | 21 |  | [Bearbeiten](cards/0310.yml) |
 | 311 | 会う | あう | (mit jmd.) treffen, sehen | 1 |  | [Bearbeiten](cards/0311.yml) |
 | 312 | アメリカ |  | Amerika | 1 |  | [Bearbeiten](cards/0312.yml) |
@@ -301,11 +301,11 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 314 | 小さい | ちいさい | klein | 1 |  | [Bearbeiten](cards/0314.yml) |
 | 315 | 相手 | あいて | Begleiter; Partner | 20 |  | [Bearbeiten](cards/0315.yml) |
 | 316 | 母 | はは | Mutter | 1 |  | [Bearbeiten](cards/0316.yml) |
-| 317 | 以上 | いじょう | mehr als; über | 1 |  | [Bearbeiten](cards/0317.yml) |
+| 317 | 以上 | いじょう | mehr als; über | 21 |  | [Bearbeiten](cards/0317.yml) |
 | 318 | 関係 | かんけい | Beziehung, Verbindung | 1 |  | [Bearbeiten](cards/0318.yml) |
 | 319 | 四 | よん | vier | 1 |  | [Bearbeiten](cards/0319.yml) |
 | 320 | たぶん |  | wahrscheinlich, vielleicht | 1 |  | [Bearbeiten](cards/0320.yml) |
-| 321 | 店 | みせ | Geschäft, Laden | 1 |  | [Bearbeiten](cards/0321.yml) |
+| 321 | 店 | みせ | Geschäft, Laden | 21 |  | [Bearbeiten](cards/0321.yml) |
 | 322 | どんな |  | was für ein | 1 |  | [Bearbeiten](cards/0322.yml) |
 | 323 | 頭 | あたま | Kopf | 1 |  | [Bearbeiten](cards/0323.yml) |
 | 324 | 電話 | でんわ | Telefon; anrufen | 1 |  | [Bearbeiten](cards/0324.yml) |
@@ -317,7 +317,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 330 | いわゆる |  | sogenannt, genannt, sogenannte | 1 |  | [Bearbeiten](cards/0330.yml) |
 | 332 | 夜 | よる | Nacht, Abend | 1 |  | [Bearbeiten](cards/0332.yml) |
 | 333 | 別 | べつ | unterschiedlich, getrennt | 1 |  | [Bearbeiten](cards/0333.yml) |
-| 334 | 者 | もの | Person, Leute | 1 |  | [Bearbeiten](cards/0334.yml) |
+| 334 | 者 | もの | Person, Mensch | 21 |  | [Bearbeiten](cards/0334.yml) |
 | 335 | タイトル |  | Titel | 1 |  | [Bearbeiten](cards/0335.yml) |
 | 336 | 親 | おや | Eltern(-teil) | 20 |  | [Bearbeiten](cards/0336.yml) |
 | 337 | 名前 | なまえ | Name | 21 |  | [Bearbeiten](cards/0337.yml) |
@@ -336,16 +336,16 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 350 | 一度 | いちど | einmal | 21 |  | [Bearbeiten](cards/0350.yml) |
 | 351 | 結果 | けっか | Ergebnis, Folge | 21 |  | [Bearbeiten](cards/0351.yml) |
 | 352 | じゃ |  | also, nun | 22 |  | [Bearbeiten](cards/0352.yml) |
-| 353 | 状況 | じょうきょう | Stand der Dinge, Umstände | 1 |  | [Bearbeiten](cards/0353.yml) |
+| 353 | 状況 | じょうきょう | Situation, Lage | 20 |  | [Bearbeiten](cards/0353.yml) |
 | 354 | 時代 | じだい | Zeit, Ära | 1 |  | [Bearbeiten](cards/0354.yml) |
 | 355 | 少ない | すくない | wenig, gering | 21 |  | [Bearbeiten](cards/0355.yml) |
 | 357 | うまい |  | lecker; geschickt; günstig | 22 |  | [Bearbeiten](cards/0357.yml) |
 | 358 | 覚える | おぼえる | sich merken; lernen; fühlen | 21 |  | [Bearbeiten](cards/0358.yml) |
 | 359 | 東京 | とうきょう | Tokio | 1 |  | [Bearbeiten](cards/0359.yml) |
-| 361 | 続く | つづく | fortsetzen, andauern | 1 |  | [Bearbeiten](cards/0361.yml) |
+| 361 | 続く | つづく | fortsetzen, andauern | 21 |  | [Bearbeiten](cards/0361.yml) |
 | 362 | における |  | im Falle von | 1 |  | [Bearbeiten](cards/0362.yml) |
 | 363 | 俺 | おれ | Ich (männl.) | 1 |  | [Bearbeiten](cards/0363.yml) |
-| 364 | 生まれる | うまれる | geboren werden | 1 |  | [Bearbeiten](cards/0364.yml) |
+| 364 | 生まれる | うまれる | geboren werden | 21 |  | [Bearbeiten](cards/0364.yml) |
 | 365 | 父 | ちち | Vater | 1 |  | [Bearbeiten](cards/0365.yml) |
 | 366 | 確か | たしか | sicher, zuverlässig | 21 |  | [Bearbeiten](cards/0366.yml) |
 | 367 | それぞれ |  | jeder, jeweils | 22 |  | [Bearbeiten](cards/0367.yml) |
@@ -353,7 +353,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 369 | はず |  | sollte | 1 |  | [Bearbeiten](cards/0369.yml) |
 | 370 | 説明 | せつめい | Erklärung | 1 |  | [Bearbeiten](cards/0370.yml) |
 | 371 | なければいけない |  | müssen | 1 |  | [Bearbeiten](cards/0371.yml) |
-| 372 | 部屋 | へや | Zimmer | 1 |  | [Bearbeiten](cards/0372.yml) |
+| 372 | 部屋 | へや | Zimmer, Raum | 21 |  | [Bearbeiten](cards/0372.yml) |
 | 373 | ちょうど |  | genau, gerade | 21 |  | [Bearbeiten](cards/0373.yml) |
 | 374 | 当然 | とうぜん | selbstverständlich, natürlich | 21 |  | [Bearbeiten](cards/0374.yml) |
 | 375 | 大学 | だいがく | Universität, Hochschule | 1 |  | [Bearbeiten](cards/0375.yml) |
@@ -366,12 +366,12 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 383 | 面白い | おもしろい | interessant; spaßig; witzig | 1 |  | [Bearbeiten](cards/0383.yml) |
 | 384 | 戻る | もどる | zurückkehren | 21 |  | [Bearbeiten](cards/0384.yml) |
 | 385 | 勉強 | べんきょう | lernen; studieren | 1 |  | [Bearbeiten](cards/0385.yml) |
-| 386 | やめる |  | aufhören, aufgeben | 20 |  | [Bearbeiten](cards/0386.yml) |
+| 386 | やめる |  | aufhören, aufgeben | 22 |  | [Bearbeiten](cards/0386.yml) |
 | 387 | 下 | した | unter; herunter | 1 |  | [Bearbeiten](cards/0387.yml) |
 | 388 | 始める | はじめる | anfangen, beginnen | 22 |  | [Bearbeiten](cards/0388.yml) |
 | 389 | 周り | まわり | Umgebung; herum | 21 |  | [Bearbeiten](cards/0389.yml) |
 | 390 | 犬 | いぬ | Hund | 1 |  | [Bearbeiten](cards/0390.yml) |
-| 391 | 必ず | かならず | sicher, unbedingt; immer | 21 |  | [Bearbeiten](cards/0391.yml) |
+| 391 | 必ず | かならず | sicherlich, unbedingt; immer | 21 |  | [Bearbeiten](cards/0391.yml) |
 | 392 | 残す | のこす | etw. hinterlassen | 23 |  | [Bearbeiten](cards/0392.yml) |
 | 393 | 大事 | だいじ | wichtig, bedeutsam | 21 |  | [Bearbeiten](cards/0393.yml) |
 | 394 | 嬉しい | うれしい | froh, glücklich | 1 |  | [Bearbeiten](cards/0394.yml) |
@@ -382,10 +382,10 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 399 | 女 | おんな | Frau | 1 |  | [Bearbeiten](cards/0399.yml) |
 | 400 | 簡単 | かんたん | einfach | 1 |  | [Bearbeiten](cards/0400.yml) |
 | 401 | 始まる | はじまる | anfangen, beginnen | 21 |  | [Bearbeiten](cards/0401.yml) |
-| 402 | 死ぬ | しぬ | sterben | 1 |  | [Bearbeiten](cards/0402.yml) |
+| 402 | 死ぬ | しぬ | sterben | 21 |  | [Bearbeiten](cards/0402.yml) |
 | 403 | 今回 | こんかい | dieses Mal | 1 |  | [Bearbeiten](cards/0403.yml) |
 | 404 | に関する | にかんする | sich mit etwas befassen, sich auf etwas beziehen | 2 |  | [Bearbeiten](cards/0404.yml) |
-| 405 | 人生 | じんせい | Leben | 1 |  | [Bearbeiten](cards/0405.yml) |
+| 405 | 人生 | じんせい | Leben | 22 |  | [Bearbeiten](cards/0405.yml) |
 | 406 | 通り | とおり | Straße | 20 |  | [Bearbeiten](cards/0406.yml) |
 | 407 | 内容 | ないよう | Inhalt | 22 |  | [Bearbeiten](cards/0407.yml) |
 | 408 | テレビ |  | Fernseher | 21 |  | [Bearbeiten](cards/0408.yml) |
@@ -394,11 +394,11 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 411 | 点 | てん | Punkt | 1 |  | [Bearbeiten](cards/0411.yml) |
 | 412 | 自然 | しぜん | Natur; natürlich | 1 |  | [Bearbeiten](cards/0412.yml) |
 | 413 | 音 | おと | Geräusch | 23 |  | [Bearbeiten](cards/0413.yml) |
-| 414 | 海 | うみ | Meer, Ozean | 1 |  | [Bearbeiten](cards/0414.yml) |
+| 414 | 海 | うみ | Meer | 23 |  | [Bearbeiten](cards/0414.yml) |
 | 415 | 一応 | いちおう | zunächst einmal, vorläufig; im Großen und Ganzen | 21 |  | [Bearbeiten](cards/0415.yml) |
 | 416 | 与える | あたえる | geben, schenken | 21 |  | [Bearbeiten](cards/0416.yml) |
 | 417 | 利用 | りよう | Nutzung, Verwendung | 21 |  | [Bearbeiten](cards/0417.yml) |
-| 418 | 働く | はたらく | arbeiten | 1 |  | [Bearbeiten](cards/0418.yml) |
+| 418 | 働く | はたらく | arbeiten | 22 |  | [Bearbeiten](cards/0418.yml) |
 | 419 | 一杯 | いっぱい | ein (volles) Glas; voll; ganz | 21 |  | [Bearbeiten](cards/0419.yml) |
 | 420 | 近く | ちかく | in der Nähe | 22 |  | [Bearbeiten](cards/0420.yml) |
 | 421 | つまり |  | das heißt, mit anderen Worten | 21 |  | [Bearbeiten](cards/0421.yml) |
@@ -420,8 +420,8 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 437 | 多く | おおく | viele | 22 |  | [Bearbeiten](cards/0437.yml) |
 | 438 | 寝る | ねる | schlafen | 21 |  | [Bearbeiten](cards/0438.yml) |
 | 439 | 英語 | えいご | Englisch | 21 |  | [Bearbeiten](cards/0439.yml) |
-| 440 | 決める | きめる | entscheiden, festlegen | 1 |  | [Bearbeiten](cards/0440.yml) |
-| 441 | 忘れる | わすれる | vergessen | 1 |  | [Bearbeiten](cards/0441.yml) |
+| 440 | 決める | きめる | bestimmen, entscheiden | 25 |  | [Bearbeiten](cards/0440.yml) |
+| 441 | 忘れる | わすれる | vergessen | 21 |  | [Bearbeiten](cards/0441.yml) |
 | 442 | 口 | くち | Mund | 1 |  | [Bearbeiten](cards/0442.yml) |
 | 443 | 送る | おくる | senden | 21 |  | [Bearbeiten](cards/0443.yml) |
 | 444 | 姿 | すがた | Gestalt, Erscheinung; Figur | 21 |  | [Bearbeiten](cards/0444.yml) |
@@ -432,7 +432,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 449 | 示す | しめす | zeigen | 21 |  | [Bearbeiten](cards/0449.yml) |
 | 451 | 人々 | ひとびと | Menschen | 1 |  | [Bearbeiten](cards/0451.yml) |
 | 452 | 道 | みち | Straße | 1 |  | [Bearbeiten](cards/0452.yml) |
-| 453 | 有名 | ゆうめい | berühmt, bekannt | 1 |  | [Bearbeiten](cards/0453.yml) |
+| 453 | 有名 | ゆうめい | berühmt, bekannt | 21 |  | [Bearbeiten](cards/0453.yml) |
 | 455 | 思い | おもい | Gedanke | 1 |  | [Bearbeiten](cards/0455.yml) |
 | 456 | しかも |  | außerdem, darüber hinaus | 21 |  | [Bearbeiten](cards/0456.yml) |
 | 457 | 難しい | むずかしい | schwierig | 1 |  | [Bearbeiten](cards/0457.yml) |
@@ -447,12 +447,12 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 467 | 変える | かえる | ändern, wechseln | 21 |  | [Bearbeiten](cards/0467.yml) |
 | 468 | 影響 | えいきょう | Einfluss, Auswirkung | 21 |  | [Bearbeiten](cards/0468.yml) |
 | 469 | 病院 | びょういん | Krankenhaus | 22 |  | [Bearbeiten](cards/0469.yml) |
-| 470 | 年 | とし | Jahr; Alter | 1 |  | [Bearbeiten](cards/0470.yml) |
+| 470 | 年 | とし | Jahr; Alter | 21 |  | [Bearbeiten](cards/0470.yml) |
 | 471 | 花 | はな | Blume | 20 |  | [Bearbeiten](cards/0471.yml) |
 | 472 | 求める | もとめる | fordern, verlangen; suchen | 21 |  | [Bearbeiten](cards/0472.yml) |
 | 473 | 情報 | じょうほう | Information, Nachricht | 21 |  | [Bearbeiten](cards/0473.yml) |
 | 474 | もらう |  | bekommen | 21 |  | [Bearbeiten](cards/0474.yml) |
-| 475 | 友人 | ゆうじん | Freund/in (formell) | 1 | X | [Bearbeiten](cards/0475.yml) |
+| 475 | 友人 | ゆうじん | Freund(-in) [formell] | 21 | X | [Bearbeiten](cards/0475.yml) |
 | 476 | だめ |  | nutzlos, hoffnungslos, unmöglich | 21 |  | [Bearbeiten](cards/0476.yml) |
 | 477 | 経つ | たつ | vergehen | 21 |  | [Bearbeiten](cards/0477.yml) |
 | 478 | 先程 | さきほど | vorhin, vor Kurzem | 21 |  | [Bearbeiten](cards/0478.yml) |
@@ -469,7 +469,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 489 | 結婚 | けっこん | Heirat | 1 |  | [Bearbeiten](cards/0489.yml) |
 | 490 | 認める | みとめる | anerkennen, zugeben | 22 |  | [Bearbeiten](cards/0490.yml) |
 | 491 | これら |  | diese [Plural] | 1 |  | [Bearbeiten](cards/0491.yml) |
-| 492 | 歴史 | れきし | Geschichte | 1 |  | [Bearbeiten](cards/0492.yml) |
+| 492 | 歴史 | れきし | Geschichte | 22 |  | [Bearbeiten](cards/0492.yml) |
 | 493 | 増える | ふえる | zunehmen, ansteigen | 20 |  | [Bearbeiten](cards/0493.yml) |
 | 494 | 音楽 | おんがく | Musik | 1 |  | [Bearbeiten](cards/0494.yml) |
 | 495 | なければならない |  | müssen | 1 |  | [Bearbeiten](cards/0495.yml) |
@@ -505,7 +505,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 525 | 中心 | ちゅうしん | Mitte, Zentrum | 21 |  | [Bearbeiten](cards/0525.yml) |
 | 526 | 起こる | おこる | geschehen, passieren | 19 |  | [Bearbeiten](cards/0526.yml) |
 | 527 | 我々 | われわれ | wir | 1 |  | [Bearbeiten](cards/0527.yml) |
-| 528 | (お)母さん | (お)かあーさん | Mutter | 1 |  | [Bearbeiten](cards/0528.yml) |
+| 528 | (お)母さん | (お)かあーさん | Mutter, Mama | 22 |  | [Bearbeiten](cards/0528.yml) |
 | 529 | 立てる | たてる | aufstellen, errichten | 1 |  | [Bearbeiten](cards/0529.yml) |
 | 530 | 最も | もっとも | am meisten, höchst | 21 |  | [Bearbeiten](cards/0530.yml) |
 | 531 | 色 | いろ | Farbe | 1 |  | [Bearbeiten](cards/0531.yml) |
@@ -534,12 +534,12 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 556 | 過ごす | すごす | verbringen; überschreiten | 21 |  | [Bearbeiten](cards/0556.yml) |
 | 557 | 上がる | あがる | steigen | 1 |  | [Bearbeiten](cards/0557.yml) |
 | 558 | 一方 | いっぽう | eine Seite, andererseits | 21 |  | [Bearbeiten](cards/0558.yml) |
-| 559 | 病気 | びょうき | Krankheit | 1 |  | [Bearbeiten](cards/0559.yml) |
+| 559 | 病気 | びょうき | Krankheit | 24 |  | [Bearbeiten](cards/0559.yml) |
 | 560 | 心配 | しんぱい | sich sorgen; Sorge | 21 |  | [Bearbeiten](cards/0560.yml) |
 | 561 | それでも |  | aber, trotzdem, dennoch | 21 |  | [Bearbeiten](cards/0561.yml) |
-| 562 | イメージ |  | Bild, Vorstellung | 1 |  | [Bearbeiten](cards/0562.yml) |
+| 562 | イメージ |  | Bild, Vorstellung | 21 |  | [Bearbeiten](cards/0562.yml) |
 | 563 | 笑い | わらい | Lachen | 22 |  | [Bearbeiten](cards/0563.yml) |
-| 564 | 午後 | ごご | Nachmittag | 11 |  | [Bearbeiten](cards/0564.yml) |
+| 564 | 午後 | ごご | Nachmittag | 21 |  | [Bearbeiten](cards/0564.yml) |
 | 565 | 後 | ご | nach, später | 21 |  | [Bearbeiten](cards/0565.yml) |
 | 566 | 動く | うごく | sich bewegen | 22 |  | [Bearbeiten](cards/0566.yml) |
 | 567 | 主人 | しゅじん | Geschäftsinhaber; Ehemann [höfl.] | 1 |  | [Bearbeiten](cards/0567.yml) |
@@ -569,11 +569,11 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 591 | 怖い | こわい | angsteinflößend; Angst haben | 21 |  | [Bearbeiten](cards/0591.yml) |
 | 592 | 例 | れい | Beispiel | 21 |  | [Bearbeiten](cards/0592.yml) |
 | 593 | 絵 | え | Bild, Gemälde | 21 |  | [Bearbeiten](cards/0593.yml) |
-| 594 | 思い出す | おもいだす | sich erinnern | 1 |  | [Bearbeiten](cards/0594.yml) |
+| 594 | 思い出す | おもいだす | sich erinnern | 21 |  | [Bearbeiten](cards/0594.yml) |
 | 595 | に関して | にかんして | über, bezüglich, betreffend | 1 |  | [Bearbeiten](cards/0595.yml) |
 | 596 | 酒 | さけ | Alkohol, Sake, Reiswein | 1 |  | [Bearbeiten](cards/0596.yml) |
 | 597 | 原因 | げんいん | Ursache, Grund | 22 |  | [Bearbeiten](cards/0597.yml) |
-| 598 | お前 | おまえ | du [umgangssprachlich] | 1 |  | [Bearbeiten](cards/0598.yml) |
+| 598 | お前 | おまえ | du [umgangssprachlich] | 21 |  | [Bearbeiten](cards/0598.yml) |
 | 599 | 守る | まもる | schützen; einhalten | 21 |  | [Bearbeiten](cards/0599.yml) |
 | 600 | 小学校 | しょうがっこう | Grundschule | 1 |  | [Bearbeiten](cards/0600.yml) |
 | 601 | 回る | まわる | (sich) drehen, umrunden | 21 |  | [Bearbeiten](cards/0601.yml) |
@@ -606,9 +606,9 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 628 | 申し上げる | もうしあげる | sagen [bescheiden] | 21 |  | [Bearbeiten](cards/0628.yml) |
 | 629 | 可能性 | かのうせい | Möglichkeit, Wahrscheinlichkeit | 20 |  | [Bearbeiten](cards/0629.yml) |
 | 630 | 述べる | のべる | beschreiben; äußern, darlegen | 21 |  | [Bearbeiten](cards/0630.yml) |
-| 631 | 是非 | ぜひ | Recht und Unrecht; unbedingt | 21 |  | [Bearbeiten](cards/0631.yml) |
+| 631 | 是非 | ぜひ | unbedingt; Recht und Unrecht | 21 |  | [Bearbeiten](cards/0631.yml) |
 | 632 | さえ |  | sogar; außerdem; wenn nur | 1 |  | [Bearbeiten](cards/0632.yml) |
-| 633 | 三人 | さんにん | drei Personen | 1 |  | [Bearbeiten](cards/0633.yml) |
+| 633 | 三人 | さんにん | drei Personen | 21 |  | [Bearbeiten](cards/0633.yml) |
 | 634 | 料理 | りょうり | Kochen | 1 |  | [Bearbeiten](cards/0634.yml) |
 | 635 | 一部 | いちぶ | Teil | 21 |  | [Bearbeiten](cards/0635.yml) |
 | 636 | きっと |  | sicherlich, bestimmt | 21 |  | [Bearbeiten](cards/0636.yml) |
@@ -636,7 +636,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 659 | いくら |  | wie viel | 21 |  | [Bearbeiten](cards/0659.yml) |
 | 660 | 魚 | さかな | Fisch | 25 |  | [Bearbeiten](cards/0660.yml) |
 | 661 | 旅行 | りょこう | Reise | 1 |  | [Bearbeiten](cards/0661.yml) |
-| 662 | 父親 | ちちおや | Vater | 1 |  | [Bearbeiten](cards/0662.yml) |
+| 662 | 父親 | ちちおや | Vater | 21 |  | [Bearbeiten](cards/0662.yml) |
 | 663 | どれ |  | welcher | 1 |  | [Bearbeiten](cards/0663.yml) |
 | 664 | 見付ける | みつける | finden, entdecken | 20 |  | [Bearbeiten](cards/0664.yml) |
 | 665 | 関わる | かかわる | betreffen, angehen; zu tun haben | 21 |  | [Bearbeiten](cards/0665.yml) |
@@ -652,7 +652,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 675 | 男性 | だんせい | Mann; männlich | 21 |  | [Bearbeiten](cards/0675.yml) |
 | 676 | 電車 | でんしゃ | Zug | 1 |  | [Bearbeiten](cards/0676.yml) |
 | 677 | 進める | すすめる | vorantreiben, vorwärts bewegen | 21 |  | [Bearbeiten](cards/0677.yml) |
-| 678 | 含める | ふくめる | einschließen, einbeziehen; klarmachen | 20 |  | [Bearbeiten](cards/0678.yml) |
+| 678 | 含める | ふくめる | einschließen; klarmachen | 20 |  | [Bearbeiten](cards/0678.yml) |
 | 679 | 致す | いたす | tun [bescheiden] | 21 |  | [Bearbeiten](cards/0679.yml) |
 | 680 | 着く | つく | ankommen | 20 |  | [Bearbeiten](cards/0680.yml) |
 | 681 | 厳しい | きびしい | streng, hart | 21 |  | [Bearbeiten](cards/0681.yml) |
@@ -678,7 +678,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 701 | 期待 | きたい | erwarten, hoffen | 21 |  | [Bearbeiten](cards/0701.yml) |
 | 702 | 事実 | じじつ | Tatsache | 21 |  | [Bearbeiten](cards/0702.yml) |
 | 703 | せい |  | Ursache, Schuld | 21 |  | [Bearbeiten](cards/0703.yml) |
-| 704 | 一年 | いちねん | ein Jahr | 1 |  | [Bearbeiten](cards/0704.yml) |
+| 704 | 一年 | いちねん | ein Jahr | 22 |  | [Bearbeiten](cards/0704.yml) |
 | 705 | 一体 | いったい | wie, was, warum, wer | 20 |  | [Bearbeiten](cards/0705.yml) |
 | 706 | 島 | しま | Insel | 21 |  | [Bearbeiten](cards/0706.yml) |
 | 707 | 描く | えがく | zeichnen; beschreiben | 21 |  | [Bearbeiten](cards/0707.yml) |
@@ -696,7 +696,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 719 | たまたま |  | zufällig; gelegentlich | 21 |  | [Bearbeiten](cards/0719.yml) |
 | 720 | 古い | ふるい | alt | 22 | X | [Bearbeiten](cards/0720.yml) |
 | 722 | 面 | めん | Gesicht; Oberfläche, Seite | 21 |  | [Bearbeiten](cards/0722.yml) |
-| 723 | 三月 | さんがつ | März | 1 |  | [Bearbeiten](cards/0723.yml) |
+| 723 | 三月 | さんがつ | März | 21 |  | [Bearbeiten](cards/0723.yml) |
 | 724 | ただし |  | jedoch, allerdings, obwohl | 1 |  | [Bearbeiten](cards/0724.yml) |
 | 725 | 常 | つね | normal, gewöhnlich; ständig | 20 |  | [Bearbeiten](cards/0725.yml) |
 | 727 | つもり |  | Absicht | 21 |  | [Bearbeiten](cards/0727.yml) |
@@ -714,7 +714,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 739 | 曲 | きょく | Stück, Lied | 21 |  | [Bearbeiten](cards/0739.yml) |
 | 740 | 過去 | かこ | Vergangenheit | 19 |  | [Bearbeiten](cards/0740.yml) |
 | 741 | やっと |  | endlich | 21 |  | [Bearbeiten](cards/0741.yml) |
-| 742 | 思える | おもえる | scheinen, vorkommen | 21 |  | [Bearbeiten](cards/0742.yml) |
+| 742 | 思える | おもえる | denken (können), scheinen | 21 |  | [Bearbeiten](cards/0742.yml) |
 | 743 | 明らか | あきらか | klar, deutlich, offensichtlich | 22 |  | [Bearbeiten](cards/0743.yml) |
 | 744 | つつ |  | währenddessen; obwohl | 1 |  | [Bearbeiten](cards/0744.yml) |
 | 745 | 土地 | とち | Land, Grundstück | 21 |  | [Bearbeiten](cards/0745.yml) |
@@ -747,15 +747,15 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 773 | 基づく | もとづく | basieren auf | 21 |  | [Bearbeiten](cards/0773.yml) |
 | 774 | 間 | ま | Zeit, Intervall; Raum | 21 |  | [Bearbeiten](cards/0774.yml) |
 | 775 | ことがある |  | etwas getan haben; es gibt manchmal | 1 |  | [Bearbeiten](cards/0775.yml) |
-| 776 | 痛い | いたい | schmerzhaft, wehtun | 1 |  | [Bearbeiten](cards/0776.yml) |
+| 776 | 痛い | いたい | schmerzhaft; schmerzlich | 21 |  | [Bearbeiten](cards/0776.yml) |
 | 777 | (お)父さん | (お)とうさん | Vater, Papa | 21 |  | [Bearbeiten](cards/0777.yml) |
 | 778 | 辺り | あたり | Gegend, Umgebung | 21 |  | [Bearbeiten](cards/0778.yml) |
 | 780 | 将来 | しょうらい | Zukunft | 24 |  | [Bearbeiten](cards/0780.yml) |
 | 781 | 乗せる | のせる | aufnehmen, mitnehmen | 20 |  | [Bearbeiten](cards/0781.yml) |
 | 782 | 自転車 | じてんしゃ | Fahrrad | 21 |  | [Bearbeiten](cards/0782.yml) |
 | 783 | 白い | しろい | weiß | 1 |  | [Bearbeiten](cards/0783.yml) |
-| 784 | 川 | かわ | Fluss, Strom | 1 |  | [Bearbeiten](cards/0784.yml) |
-| 785 | 用いる | もちいる | verwenden, benutzen; einsetzen | 21 |  | [Bearbeiten](cards/0785.yml) |
+| 784 | 川 | かわ | Fluss | 21 |  | [Bearbeiten](cards/0784.yml) |
+| 785 | 用いる | もちいる | verwenden, einsetzen | 21 |  | [Bearbeiten](cards/0785.yml) |
 | 786 | 隣り | となり | nebenan | 1 |  | [Bearbeiten](cards/0786.yml) |
 | 787 | 普段 | ふだん | normal, gewöhnlich; ständig | 21 |  | [Bearbeiten](cards/0787.yml) |
 | 788 | 法律 | ほうりつ | Gesetz | 39 |  | [Bearbeiten](cards/0788.yml) |
@@ -787,7 +787,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 814 | 止める | とめる | anhalten | 1 |  | [Bearbeiten](cards/0814.yml) |
 | 815 | 不思議 | ふしぎ | rätselhaft, mysteriös; Wunder | 21 |  | [Bearbeiten](cards/0815.yml) |
 | 816 | 茶 | ちゃ | Tee | 1 |  | [Bearbeiten](cards/0816.yml) |
-| 817 | 直接 | ちょくせつ | direkt | 1 |  | [Bearbeiten](cards/0817.yml) |
+| 817 | 直接 | ちょくせつ | direkt, unmittelbar | 22 |  | [Bearbeiten](cards/0817.yml) |
 | 818 | バス |  | Bus | 1 |  | [Bearbeiten](cards/0818.yml) |
 | 819 | 効果 | こうか | Wirkung, Effekt | 20 |  | [Bearbeiten](cards/0819.yml) |
 | 820 | 現実 | げんじつ | Realität, Wirklichkeit | 19 |  | [Bearbeiten](cards/0820.yml) |
@@ -800,7 +800,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 827 | ずいぶん |  | ziemlich, sehr | 21 |  | [Bearbeiten](cards/0827.yml) |
 | 828 | 日本語 | にほんご | Japanisch (Sprache) | 1 |  | [Bearbeiten](cards/0828.yml) |
 | 829 | 十月 | じゅうがつ | Oktober | 21 |  | [Bearbeiten](cards/0829.yml) |
-| 830 | 気分 | きぶん | Stimmung, Laune | 1 |  | [Bearbeiten](cards/0830.yml) |
+| 830 | 気分 | きぶん | Stimmung, Laune | 22 |  | [Bearbeiten](cards/0830.yml) |
 | 831 | 開発 | かいはつ | Entwicklung | 21 |  | [Bearbeiten](cards/0831.yml) |
 | 832 | 殺す | ころす | töten | 22 |  | [Bearbeiten](cards/0832.yml) |
 | 833 | 特徴 | とくちょう | Merkmal, Besonderheit | 21 |  | [Bearbeiten](cards/0833.yml) |
@@ -825,12 +825,12 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 852 | 突然 | とつぜん | plötzlich, unerwartet | 21 |  | [Bearbeiten](cards/0852.yml) |
 | 853 | 首 | くび | Hals, Kopf | 19 |  | [Bearbeiten](cards/0853.yml) |
 | 854 | 設定 | せってい | Einrichtung; festlegen | 20 |  | [Bearbeiten](cards/0854.yml) |
-| 855 | ゆっくり |  | langsam, gemütlich; viel Zeit | 1 |  | [Bearbeiten](cards/0855.yml) |
+| 855 | ゆっくり |  | langsam, gemächlich; ruhig | 21 |  | [Bearbeiten](cards/0855.yml) |
 | 856 | 目指す | めざす | anvisieren, anstreben | 20 |  | [Bearbeiten](cards/0856.yml) |
 | 857 | したがって |  | folglich, deshalb | 21 |  | [Bearbeiten](cards/0857.yml) |
 | 858 | 一月 | いちがつ | Januar | 21 |  | [Bearbeiten](cards/0858.yml) |
 | 859 | 成す | なす | bilden, formen | 20 |  | [Bearbeiten](cards/0859.yml) |
-| 860 | 集める | あつめる | sammeln | 1 |  | [Bearbeiten](cards/0860.yml) |
+| 860 | 集める | あつめる | (ver-)sammeln | 21 |  | [Bearbeiten](cards/0860.yml) |
 | 861 | 失う | うしなう | verlieren; verpassen | 21 | X | [Bearbeiten](cards/0861.yml) |
 | 862 | 光 | ひかり | Licht | 21 |  | [Bearbeiten](cards/0862.yml) |
 | 863 | 並ぶ | ならぶ | anstehen | 21 |  | [Bearbeiten](cards/0863.yml) |
@@ -845,7 +845,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 873 | 異なる | ことなる | sich unterscheiden | 21 |  | [Bearbeiten](cards/0873.yml) |
 | 874 | 十一月 | じゅういちがつ | November | 1 |  | [Bearbeiten](cards/0874.yml) |
 | 875 | 新た | あらた | ein weiterer | 21 |  | [Bearbeiten](cards/0875.yml) |
-| 876 | 飛行機 | ひこうき | Flugzeug | 1 |  | [Bearbeiten](cards/0876.yml) |
+| 876 | 飛行機 | ひこうき | Flugzeug | 31 |  | [Bearbeiten](cards/0876.yml) |
 | 877 | (お)婆さん | (お)ばあさん | Großmutter, ältere Dame | 21 |  | [Bearbeiten](cards/0877.yml) |
 | 878 | 至る | いたる | führen zu, gelangen | 21 |  | [Bearbeiten](cards/0878.yml) |
 | 879 | 午前 | ごぜん | Vormittag | 22 |  | [Bearbeiten](cards/0879.yml) |
@@ -863,7 +863,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 891 | 広がる | ひろがる | sich ausbreiten, sich erweitern | 21 |  | [Bearbeiten](cards/0891.yml) |
 | 892 | きちんと |  | ordentlich, sorgfältig | 21 |  | [Bearbeiten](cards/0892.yml) |
 | 893 | そちら |  | dein Platz; dort; du | 1 |  | [Bearbeiten](cards/0893.yml) |
-| 894 | 勝つ | かつ | gewinnen, besiegen | 1 |  | [Bearbeiten](cards/0894.yml) |
+| 894 | 勝つ | かつ | gewinnen, besiegen | 18 |  | [Bearbeiten](cards/0894.yml) |
 | 895 | 運動 | うんどう | Bewegung, Sport | 20 |  | [Bearbeiten](cards/0895.yml) |
 | 896 | 捨てる | すてる | wegwerfen, verlassen | 21 |  | [Bearbeiten](cards/0896.yml) |
 | 897 | 幸せ | しあわせ | Glück | 21 |  | [Bearbeiten](cards/0897.yml) |
@@ -895,10 +895,10 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 923 | 海外 | かいがい | Ausland | 23 |  | [Bearbeiten](cards/0923.yml) |
 | 924 | 教育 | きょういく | Bildung | 1 |  | [Bearbeiten](cards/0924.yml) |
 | 925 | 想像 | そうぞう | Fantasie, Vorstellung | 21 |  | [Bearbeiten](cards/0925.yml) |
-| 926 | 実は | じつわ | eigentlich, tatsächlich | 1 |  | [Bearbeiten](cards/0926.yml) |
+| 926 | 実は | じつわ | in Wahrheit, eigentlich | 1 |  | [Bearbeiten](cards/0926.yml) |
 | 927 | 許す | ゆるす | erlauben, verzeihen | 24 |  | [Bearbeiten](cards/0927.yml) |
 | 928 | 表 | ひょう | Tabelle, Liste | 21 |  | [Bearbeiten](cards/0928.yml) |
-| 929 | 文化 | ぶんか | Kultur | 1 |  | [Bearbeiten](cards/0929.yml) |
+| 929 | 文化 | ぶんか | Kultur, Zivilisation | 21 |  | [Bearbeiten](cards/0929.yml) |
 | 930 | 八 | はち | acht | 22 | X | [Bearbeiten](cards/0930.yml) |
 | 931 | 食べ物 | たべもの | Essen | 20 |  | [Bearbeiten](cards/0931.yml) |
 | 932 | 借りる | かりる | ausleihen, mieten | 1 |  | [Bearbeiten](cards/0932.yml) |
@@ -952,7 +952,7 @@ Insgesamt gibt es 4902 Karten mit 15319 Beispielsätzen (durchschnittlich 3.1 pr
 | 982 | 従う | したがう | folgen, gehorchen | 22 |  | [Bearbeiten](cards/0982.yml) |
 | 983 | 検討 | けんとう | erwägen, prüfen | 20 |  | [Bearbeiten](cards/0983.yml) |
 | 984 | 占める | しめる | ausmachen | 20 |  | [Bearbeiten](cards/0984.yml) |
-| 985 | まさに |  | wirklich, genau | 22 |  | [Bearbeiten](cards/0985.yml) |
+| 985 | まさに |  | zweifellos, genau | 22 |  | [Bearbeiten](cards/0985.yml) |
 | 986 | 選手 | せんしゅ | Athlet, Spieler | 21 |  | [Bearbeiten](cards/0986.yml) |
 | 987 | 以下 | いか | und weniger; unter; das Folgende | 21 |  | [Bearbeiten](cards/0987.yml) |
 | 988 | 大きさ | おおきさ | Größe, Umfang | 22 |  | [Bearbeiten](cards/0988.yml) |

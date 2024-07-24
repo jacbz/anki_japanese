@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">し</span><span 
 Register: ↗Internet
 Dispersion: '65'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 教えない・教えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   私は英語を教えています。
   私[わたし]は 英語[えいご]を 教[おし]えています。
   Ich unterrichte Englisch.
+
+  ダンスを教えるのが私の仕事です。
+  ダンスを 教[おし]えるのが 私[わたし]の 仕事[しごと]です。
+  Es ist mein Beruf, Tanzunterricht zu geben.
+
+  彼女は大学で英語を教えています。
+  彼女[かのじょ]は 大学[だいがく]で 英語[えいご]を 教[おし]えています。
+  Sie unterrichtet Englisch an der Universität.
+
+  娘に蝶々結びの結び方を教えました。
+  娘[むすめ]に 蝶々結[ちょうちょうむす]びの 結[むす]び 方[かた]を 教[おし]えました。
+  Ich habe meiner Tochter beigebracht, wie man eine Schleife bindet.
+
+  すみません、駅への道を教えていただけますか。
+  すみません、駅[えき]への 道[みち]を 教[おし]えていただけますか。
+  Entschuldigung, könnten Sie mir bitte den Weg zum Bahnhof erklären?
+
+  新しい友達に電話番号を教えました。
+  新[あたら]しい 友達[ともだち]に 電話番号[でんわばんごう]を 教[おし]えました。
+  Ich habe meinem neuen Freund meine Telefonnummer gegeben.
+
+  秘密を教えたら、誰にも言わないでね。
+  秘密[ひみつ]を 教[おし]えたら、誰[だれ]にも 言[い]わないでね。
+  Wenn ich dir ein Geheimnis verrate, sag es bitte niemandem weiter.
+
+  そのホテルの名前を教えてください。
+  そのホテルの 名前[なまえ]を 教[おし]えてください。
+  Bitte nennen Sie mir den Namen dieses Hotels.
+
+  先生から新しい漢字を教えてもらいました。
+  先生[せんせい]から 新[あたら]しい 漢字[かんじ]を 教[おし]えてもらいました。
+  Ich habe von meinem Lehrer neue Kanji beigebracht bekommen.
+
+  昼は親類のお兄さんに泳ぎを教えてもらいました。
+  昼[ひる]は 親類[しんるい]のお 兄[にい]さんに 泳[およ]ぎを 教[おし]えてもらいました。
+  Tagsüber brachte mir ein älterer Cousin das Schwimmen bei.
+
+  子供に満月の描き方を教えてあげました。
+  子供[こども]に 満月[まんげつ]の 描[か]き 方[かた]を 教[おし]えてあげました。
+  Ich habe dem Kind gezeigt, wie man einen Vollmond malt.
+
+  なぜ最初から燃料屋だと教えてくれなかったの？
+  なぜ 最初[さいしょ]から 燃料屋[ねんりょうや]だと 教[おし]えてくれなかったの？
+  Warum hast du mir nicht von Anfang an gesagt, dass es sich um einen Brennstoffhändler handelt?
+
+  ご住所とフルネームを教えていただけますか。
+  ご 住所[じゅうしょ]とフルネームを 教[おし]えていただけますか。
+  Könnten Sie mir bitte Ihre vollständige Adresse und Ihren vollen Namen mitteilen?
+
+  親切な人が道中の名所を教えてくれました。
+  親切[しんせつ]な 人[ひと]が 道中[どうちゅう]の 名所[めいしょ]を 教[おし]えてくれました。
+  Ein freundlicher Mensch hat mir die Sehenswürdigkeiten auf dem Weg gezeigt.
+
+  彼は生徒たちに数学を教えるのが上手です。
+  彼[かれ]は 生徒[せいと]たちに 数学[すうがく]を 教[おし]えるのが 上手[じょうず]です。
+  Er ist gut darin, den Schülern Mathematik beizubringen.
+
+  新入社員に会社の規則を教える必要があります。
+  新入社員[しんにゅうしゃいん]に 会社[かいしゃ]の 規則[きそく]を 教[おし]える 必要[ひつよう]があります。
+  Wir müssen den neuen Mitarbeitern die Firmenregeln erklären.
+
+  彼女は子供たちに礼儀作法を教えています。
+  彼女[かのじょ]は 子供[こども]たちに 礼儀作法[れいぎさほう]を 教[おし]えています。
+  Sie bringt den Kindern gute Manieren bei.
+
+  先輩が仕事のコツを教えてくれました。
+  先輩[せんぱい]が 仕事[しごと]のコツを 教[おし]えてくれました。
+  Mein älterer Kollege hat mir Tipps für die Arbeit gegeben.
+
+  彼は外国人に日本語を教えるボランティアをしています。
+  彼[かれ]は 外国人[がいこくじん]に 日本語[にほんご]を 教[おし]えるボランティアをしています。
+  Er unterrichtet Japanisch für Ausländer als Freiwilliger.
+
+  料理の先生が新しいレシピを教えてくれました。
+  料理[りょうり]の 先生[せんせい]が 新[あたら]しいレシピを 教[おし]えてくれました。
+  Der Kochlehrer hat uns ein neues Rezept beigebracht.
+
+  お客様に商品の使い方を丁寧に教えてください。
+  お 客様[きゃくさま]に 商品[しょうひん]の 使[つか]い 方[かた]を 丁寧[ていねい]に 教[おし]えてください。
+  Bitte erklären Sie dem Kunden sorgfältig, wie man das Produkt benutzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「もっとビールをどうですか。」「じゃ、ほんの少しお願いします。」
-  「もっとビールをどうですか。」「じゃ、ほんの 少[すこ]しお 願[ねが]いします。」
-  „Möchtest du noch mehr Bier?“ „Nur ein bisschen, bitte.“
+  「もっとビールをどうですか。」<br>「じゃ、ほんの少しお願いします。」
+  「もっとビールをどうですか。」<br>「じゃ、ほんの 少[すこ]しお 願[ねが]いします。」
+  „Möchtest du noch mehr Bier?“<br>„Nur ein bisschen, bitte.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

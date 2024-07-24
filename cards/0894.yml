@@ -1,7 +1,7 @@
 Rang: 894
 Lemma: 勝つ
 Lesung: かつ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 克つ・贏つ
 Definition: gewinnen, besiegen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">か</span><span>つ</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 勝たない・勝った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,74 @@ Beispielsätze: |-
   私の好きなチームが試合に勝った。
   私[わたし]の 好[す]きなチームが 試合[しあい]に 勝[か]った。
   Mein Lieblingsteam hat das Spiel gewonnen.
+
+  彼は大会で勝つ見込みが高いと言われています。
+  彼[かれ]は 大会[たいかい]で 勝[か]つ 見込[みこ]みが 高[たか]いと 言[い]われています。
+  Es wird gesagt, dass er gute Aussichten hat, den Wettbewerb zu gewinnen.
+
+  勝った人には豪華な賞品が贈られます。
+  勝[か]った 人[ひと]には 豪華[ごうか]な 賞品[しょうひん]が 贈[おく]られます。
+  Dem Sieger wird ein großartiger Preis überreicht.
+
+  この絵画では赤味が勝っていて、とても印象的だ。
+  この 絵画[かいが]では 赤味[あかみ]が 勝[か]っていて、とても 印象的[いんしょうてき]だ。
+  In diesem Gemälde dominiert die Farbe Rot, was sehr eindrucksvoll ist.
+
+  彼は賭けに勝って大金を手に入れた。
+  彼[かれ]は 賭[か]けに 勝[か]って 大金[たいきん]を 手[て]に 入[い]れた。
+  Er gewann die Wette und bekam eine große Summe Geld.
+
+  気の勝った態度で交渉に臨んだ結果、良い条件を引き出せました。
+  気[き]の 勝[か]った 態度[たいど]で 交渉[こうしょう]に 臨[のぞ]んだ 結果[けっか]、良[よ]い 条件[じょうけん]を 引[ひ]き 出[だ]せました。
+  Das Ergebnis der Verhandlungen mit einer resoluten Haltung war, dass wir gute Konditionen aushandeln konnten.
+
+  この仕事は荷が勝ちすぎて、一人では手に負えない。
+  この 仕事[しごと]は 荷[に]が 勝[か]ちすぎて、一人[ひとり]では 手[て]に 負[お]えない。
+  Diese Arbeit ist zu belastend und kann nicht von einer Person allein bewältigt werden.
+
+  弁護士の努力のおかげで、裁判に勝つことができました。
+  弁護士[べんごし]の 努力[どりょく]のおかげで、裁判[さいばん]に 勝[か]つことができました。
+  Dank der Bemühungen des Anwalts konnten wir den Prozess gewinnen.
+
+  彼女は選挙に勝って、初めて市長になった。
+  彼女[かのじょ]は 選挙[せんきょ]に 勝[か]って、初[はじ]めて 市長[しちょう]になった。
+  Sie gewann die Wahl und wurde zum ersten Mal Bürgermeisterin.
+
+  チームは最後の試合で勝負に勝ち、優勝を果たした。
+  チームは 最後[さいご]の 試合[しあい]で 勝負[しょうぶ]に 勝[か]ち、優勝[ゆうしょう]を 果[は]たした。
+  Das Team gewann das letzte Spiel und errang den Meistertitel.
+
+  長年の戦いに勝ち、ついに平和を取り戻すことができた。
+  長年[ながねん]の 戦[たたか]いに 勝[か]ち、ついに 平和[へいわ]を 取[と]り 戻[もど]すことができた。
+  Nach Jahren des Kampfes konnten wir endlich siegen und den Frieden wiederherstellen.
+
+  敵の戦術を見抜いて勝つことができた。
+  敵[てき]の 戦術[せんじゅつ]を 見抜[みぬ]いて 勝[か]つことができた。
+  Wir konnten die Taktik des Feindes durchschauen und siegen.
+
+  バカラ毎日やって勝つ奴はいないよ。
+  バカラ 毎日[まいにち]やって 勝[か]つ 奴[やつ]はいないよ。
+  Es gibt niemanden, der jeden Tag Bakkarat spielt und gewinnt!
+
+  困難に勝つには、諦めない心が必要だ。
+  困難[こんなん]に 勝[か]つには、諦[あきら]めない 心[こころ]が 必要[ひつよう]だ。
+  Um Schwierigkeiten zu überwinden, braucht man einen unbeugsamen Geist.
+
+  己の弱さに勝つことが、真の強さだと思う。
+  己[おのれ]の 弱[よわ]さに 勝[か]つことが、真[しん]の 強[つよ]さだと 思[おも]う。
+  Ich denke, wahre Stärke liegt darin, die eigenen Schwächen zu überwinden.
+
+  誘惑に勝つのは難しいけど、意志の強さが大切だ。
+  誘惑[ゆうわく]に 勝[か]つのは 難[むずか]しいけど、意志[いし]の 強[つよ]さが 大切[たいせつ]だ。
+  Der Versuchung zu widerstehen ist schwierig, aber Willensstärke ist wichtig.
+
+  彼は長い闘病生活の末、病気に勝つことができた。
+  彼[かれ]は 長[なが]い 闘病[とうびょう]生活[せいかつ]の 末[すえ]、病気[びょうき]に 勝[か]つことができた。
+  Nach einer langen Zeit des Kampfes gegen die Krankheit konnte er sie schließlich besiegen.
+
+  勝てば官軍負ければ賊軍という言葉がありますが、本当にそうでしょうか。
+  勝[か]てば 官軍[かんぐん] 負[ま]ければ 賊軍[ぞくぐん]という 言葉[ことば]がありますが、本当[ほんとう]にそうでしょうか。
+  Es gibt das Sprichwort "Die Sieger sind Regierungstruppen, die Verlierer Rebellen
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

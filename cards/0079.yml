@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「どこにいるの。」「ここだよ。」
-  「どこにいるの。」「ここだよ。」
-  „Wo bist du?“ „Ich bin hier.“
+  「どこにいるの。」<br>「ここだよ。」
+  「どこにいるの。」<br>「ここだよ。」
+  „Wo bist du?“<br>„Ich bin hier.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

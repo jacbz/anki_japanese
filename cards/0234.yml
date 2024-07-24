@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>み</span><span class="accent_top">え</span><span>�
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見えない・見えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   ここから富士山が見える。
   ここから 富士山[ふじさん]が 見[み]える。
   Ich kann von hier aus den Berg Fuji sehen.
+
+  窓から富士山が見える。
+  窓[まど]から 富士山[ふじさん]が 見[み]える。
+  Vom Fenster aus kann man den Berg Fuji sehen.
+
+  はっきり見えないけど、あそこに何かいるよ。
+  はっきり 見[み]えないけど、あそこに 何[なに]かいるよ。
+  Ich kann es nicht deutlich erkennen, aber da ist etwas.
+
+  遠くに海が見えてきた。
+  遠[とお]くに 海[うみ]が 見[み]えてきた。
+  In der Ferne kam das Meer in Sicht.
+
+  目が見えなくなる病気について調べている。
+  目[め]が 見[み]えなくなる 病気[びょうき]について 調[しら]べている。
+  Ich recherchiere über Krankheiten, die zur Erblindung führen.
+
+  このメガネをかけると、はっきり見えるようになった。
+  このメガネをかけると、はっきり 見[み]えるようになった。
+  Mit dieser Brille kann ich jetzt deutlich sehen.
+
+  雨で景色がよく見えない。
+  雨[あめ]で 景色[けしき]がよく 見[み]えない。
+  Wegen des Regens ist die Landschaft nicht gut zu sehen.
+
+  彼女は年より若く見える。
+  彼女[かのじょ]は 年[とし]より 若[わか]く 見[み]える。
+  Sie sieht jünger aus, als sie ist.
+
+  猫は夜でもよく物が見えるんだって。
+  猫[ねこ]は 夜[よる]でもよく 物[もの]が 見[み]えるんだって。
+  Katzen können angeblich auch nachts gut sehen.
+
+  お客様がお見えになりました。
+  お 客様[きゃくさま]がお 見[み]えになりました。
+  Der Gast ist eingetroffen.
+
+  彼の姿が見えなくなるまで手を振った。
+  彼[かれ]の 姿[すがた]が 見[み]えなくなるまで 手[て]を 振[ふ]った。
+  Ich winkte, bis er außer Sicht war.
+
+  この角を曲がると、駅が見えてくるはずだ。
+  この 角[かど]を 曲[ま]がると、駅[えき]が 見[み]えてくるはずだ。
+  Wenn du um diese Ecke biegst, sollte der Bahnhof in Sicht kommen.
+
+  霧で前方がほとんど見えない状況だった。
+  霧[きり]で 前方[ぜんぽう]がほとんど 見[み]えない 状況[じょうきょう]だった。
+  Aufgrund des Nebels war die Sicht nach vorne fast null.
+
+  彼は変に見えるけど、実はとても優しい人だよ。
+  彼[かれ]は 変[へん]に 見[み]えるけど、実[じつ]はとても 優[やさ]しい 人[ひと]だよ。
+  Er sieht zwar merkwürdig aus, ist aber in Wirklichkeit ein sehr netter Mensch.
+
+  その問題の解決策が少しずつ見えてきた。
+  その 問題[もんだい]の 解決策[かいけつさく]が 少[すこ]しずつ 見[み]えてきた。
+  Die Lösung für dieses Problem wurde allmählich sichtbar.
+
+  彼女の部屋からは海が見える。
+  彼女[かのじょ]の 部屋[へや]からは 海[うみ]が 見[み]える。
+  Von ihrem Zimmer aus kann man das Meer sehen.
+
+  闇の中でも赤い文字がはっきり見えた。
+  闇[やみ]の 中[なか]でも 赤[あか]い 文字[もじ]がはっきり 見[み]えた。
+  Selbst in der Dunkelheit waren die roten Buchstaben deutlich zu erkennen.
+
+  外は白々として、物の形がようやく見える明るさだ。
+  外[そと]は 白々[しろじろ]として、物[もの]の 形[かたち]がようやく 見[み]える 明[あか]るさだ。
+  Draußen dämmert es, und man kann gerade so die Umrisse der Dinge erkennen.
+
+  社長、田中さんがお見えです。
+  社長[しゃちょう]、田中[たなか]さんがお 見[み]えです。
+  Chef, Herr Tanaka ist da.
+
+  この建物の屋上からは市内が一望できるほど見える。
+  この 建物[たてもの]の 屋上[おくじょう]からは 市内[しない]が 一望[いちぼう]できるほど 見[み]える。
+  Von der Dachterrasse dieses Gebäudes aus hat man einen Panoramablick über die ganze Stadt.
+
+  目が見えない人のための点字ブロックが歩道に設置されている。
+  目[め]が 見[み]えない 人[ひと]のための 点字[てんじ]ブロックが 歩道[ほどう]に 設置[せっち]されている。
+  Auf dem Gehweg sind Blindenleitsysteme für Menschen installiert, die nicht sehen können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「入ってもいい。」「あー、ちょっと待って。」
-  「 入[はい]ってもいい。」「あー、ちょっと 待[ま]って。」
-  „Kann ich reinkommen?“ „Oh, warte einen Moment.“
+  「入ってもいい。」<br>「あー、ちょっと待って。」
+  「 入[はい]ってもいい。」<br>「あー、ちょっと 待[ま]って。」
+  „Kann ich reinkommen?“ <br>„Oh, warte einen Moment.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

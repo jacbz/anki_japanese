@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「取引先からの書類、もう届いた？」「いえ、まだ届いていません。」
-  「 取引先[とりひきさき]からの 書類[しょるい]、もう 届[とど]いた？」「いえ、まだ 届[とど]いていません。」
-  „Sind die Dokumente vom Kunden schon angekommen?“ „Nein, sie sind noch nicht angekommen.“
+  「取引先からの書類、もう届いた？」<br>「いえ、まだ届いていません。」
+  「 取引先[とりひきさき]からの 書類[しょるい]、もう 届[とど]いた？」<br>「いえ、まだ 届[とど]いていません。」
+  „Sind die Dokumente vom Kunden schon angekommen?“<br>„Nein, sie sind noch nicht angekommen.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

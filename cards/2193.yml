@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「どうして食べないの」「だって、ダイエット中なんだもん」
-  「どうして 食[た]べないの」「だって、ダイエット 中[ちゅう]なんだもん」
-  „Warum isst du es nicht?“ „Weil ich auf Diät bin.“
+  「どうして食べないの」<br>「だって、ダイエット中なんだもん」
+  「どうして 食[た]べないの」<br>「だって、ダイエット 中[ちゅう]なんだもん」
+  „Warum isst du es nicht?“<br>„Weil ich auf Diät bin.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

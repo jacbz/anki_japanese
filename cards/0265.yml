@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「宿題やったの」「うん」
-  「 宿題[しゅくだい]やったの」「うん」
-  „Hast du deine Hausaufgaben gemacht?“ „Ja.“
+  「宿題やったの」<br>「うん」
+  「 宿題[しゅくだい]やったの」<br>「うん」
+  „Hast du deine Hausaufgaben gemacht?“<br>„Ja.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

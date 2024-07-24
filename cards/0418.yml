@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>は</span><span class="accent_plain">た</span><span 
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 働かない・働いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   兄は自動車工場で働いている。
   兄[あに]は 自動車[じどうしゃ] 工場[こうじょう]で 働[はたら]いている。
   Mein Bruder arbeitet in einer Automobilfabrik.
+
+  彼女は銀行で働いています。
+  彼女[かのじょ]は 銀行[ぎんこう]で 働[はたら]いています。
+  Sie arbeitet bei einer Bank.
+
+  大学生の彼は、アルバイトをしながら勉強しています。
+  大学生[だいがくせい]の 彼[かれ]は、アルバイトをしながら 勉強[べんきょう]しています。
+  Er studiert und arbeitet nebenbei als Teilzeitkraft.
+
+  彼は働き過ぎて体調を崩してしまった。
+  彼[かれ]は 働[はたら]き 過[す]ぎて 体調[たいちょう]を 崩[くず]してしまった。
+  Er hat sich überarbeitet und ist krank geworden.
+
+  昨日は遅くまで働き疲れたよ。
+  昨日[きのう]は 遅[おそ]くまで 働[はたら]き 疲[つか]れたよ。
+  Gestern habe ich bis spät gearbeitet und bin erschöpft.
+
+  彼らは営々と働いて、会社を成功させた。
+  彼[かれ]らは 営々[えいえい]と 働[はたら]いて、会社[かいしゃ]を 成功[せいこう]させた。
+  Sie haben fleißig gearbeitet und die Firma zum Erfolg geführt.
+
+  母はパートとして働いているんだ。
+  母[はは]はパートとして 働[はたら]いているんだ。
+  Meine Mutter arbeitet als Teilzeitkraft.
+
+  生計のために毎日一生懸命働いています。
+  生計[せいけい]のために 毎日[まいにち] 一生懸命[いっしょうけんめい] 働[はたら]いています。
+  Ich arbeite jeden Tag hart für meinen Lebensunterhalt.
+
+  せっせと働いて、やっと家を買うことができた。
+  せっせと 働[はたら]いて、やっと 家[いえ]を 買[か]うことができた。
+  Ich habe hart gearbeitet und konnte endlich ein Haus kaufen.
+
+  この機械は24時間働いています。
+  この 機械[きかい]は24時間[じかん] 働[はたら]いています。
+  Diese Maschine arbeitet 24 Stunden lang.
+
+  物体に働いている力を計算する必要があります。
+  物体[ぶったい]に 働[はたら]いている 力[ちから]を 計算[けいさん]する 必要[ひつよう]があります。
+  Wir müssen die auf den Körper wirkenden Kräfte berechnen.
+
+  この決定には感情が働いているようだ。
+  この 決定[けってい]には 感情[かんじょう]が 働[はたら]いているようだ。
+  Es scheint, dass bei dieser Entscheidung Gefühle im Spiel sind.
+
+  この薬は神経に直接働くので、注意が必要です。
+  この 薬[くすり]は 神経[しんけい]に 直接[ちょくせつ] 働[はたら]くので、注意[ちゅうい]が 必要[ひつよう]です。
+  Dieses Medikament wirkt direkt auf die Nerven, also ist Vorsicht geboten.
+
+  心臓が正常に働いているか確認してください。
+  心臓[しんぞう]が 正常[せいじょう]に 働[はたら]いているか 確認[かくにん]してください。
+  Bitte überprüfen Sie, ob das Herz normal arbeitet.
+
+  彼の想像力が働いて、素晴らしい物語を書き上げた。
+  彼[かれ]の 想像力[そうぞうりょく]が 働[はたら]いて、素晴[すば]らしい 物語[ものがたり]を 書[か]き 上[あ]げた。
+  Seine Fantasie arbeitete und er schrieb eine wunderbare Geschichte.
+
+  働かせるの漢字の読み方を教えてください。
+  働[はたら]かせるの 漢字[かんじ]の 読[よ]み 方[かた]を 教[おし]えてください。
+  Könnten Sie mir bitte sagen, wie man die Kanji für 'hatarakaseru' liest?
+
+  彼は悪事を働いて逮捕されてしまった。
+  彼[かれ]は 悪事[あくじ]を 働[はたら]いて 逮捕[たいほ]されてしまった。
+  Er wurde verhaftet, weil er etwas Böses getan hat.
+
+  泥棒が盗みを働いた証拠が見つかりました。
+  泥棒[どろぼう]が 盗[ぬす]みを 働[はたら]いた 証拠[しょうこ]が 見[み]つかりました。
+  Es wurden Beweise gefunden, dass der Dieb einen Diebstahl begangen hat.
+
+  君はどこで働いているの？
+  君[きみ]はどこで 働[はたら]いているの？
+  Wo arbeitest du?
+
+  私たちは休日も働かなければならない時があります。
+  私[わたし]たちは 休日[きゅうじつ]も 働[はたら]かなければならない 時[とき]があります。
+  Manchmal müssen wir auch an Feiertagen arbeiten.
+
+  この会社では多くの人が熱心に働いています。
+  この 会社[かいしゃ]では 多[おお]くの 人[ひと]が 熱心[ねっしん]に 働[はたら]いています。
+  In diesem Unternehmen arbeiten viele Menschen engagiert.
+
+  彼女は子育てをしながら、フルタイムで働いています。
+  彼女[かのじょ]は 子育[こそだ]てをしながら、フルタイムで 働[はたら]いています。
+  Sie arbeitet Vollzeit, während sie ihre Kinder großzieht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

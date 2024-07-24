@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_plain">ぬ</span>
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 死なない・死んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   人間はいつかは死ぬ。
   人間[にんげん]はいつかは 死[し]ぬ。
   Alle Menschen müssen sterben.
+
+  彼の祖父は去年癌で亡くなった。
+  彼[かれ]の 祖父[そふ]は 去年[きょねん] 癌[がん]で 亡[な]くなった。
+  Sein Großvater starb letztes Jahr an Krebs.
+
+  安らかに眠るように死にたいものだ。
+  安[やす]らかに 眠[ねむ]るように 死[し]にたいものだ。
+  Ich möchte eines Tages sanft entschlafen.
+
+  事故で命を落とす人が多すぎる。
+  事故[じこ]で 命[いのち]を 落[お]とす 人[ひと]が 多[おお]すぎる。
+  Zu viele Menschen kommen bei Unfällen ums Leben.
+
+  彼女は死ぬまで後悔していたそうだ。
+  彼女[かのじょ]は 死[し]ぬまで 後悔[こうかい]していたそうだ。
+  Man sagt, sie habe es bis zu ihrem Tod bereut.
+
+  命がけで仕事に打ち込む彼を尊敬している。
+  命[いのち]がけで 仕事[しごと]に 打[う]ち 込[こ]む 彼[かれ]を 尊敬[そんけい]している。
+  Ich respektiere ihn dafür, dass er sich mit Leib und Seele seiner Arbeit widmet.
+
+  この薬を飲めば死なずに済むかもしれない。
+  この 薬[くすり]を 飲[の]めば 死[し]なずに 済[す]むかもしれない。
+  Wenn du dieses Medikament nimmst, kommst du vielleicht mit dem Leben davon.
+
+  彼女は死にたいほど悲しそうだった。
+  彼女[かのじょ]は 死[し]にたいほど 悲[かな]しそうだった。
+  Sie schien so traurig zu sein, dass sie sterben wollte.
+
+  祖母が亡くなって間もない頃、よく夢に出てきた。
+  祖母[そぼ]が 亡[な]くなって 間[ま]もない 頃[ころ]、よく 夢[ゆめ]に 出[で]てきた。
+  Kurz nachdem meine Großmutter gestorben war, erschien sie oft in meinen Träumen.
+
+  死んでも彼女を裏切るようなことはしない。
+  死[し]んでも 彼女[かのじょ]を 裏切[うらぎ]るようなことはしない。
+  Ich würde sie nie im Leben verraten.
+
+  その患者は死にかけている状態だ。
+  その 患者[かんじゃ]は 死[し]にかけている 状態[じょうたい]だ。
+  Der Patient befindet sich in einem Zustand nahe dem Tod.
+
+  海で溺れて死にそうになった経験がある。
+  海[うみ]で 溺[おぼ]れて 死[し]にそうになった 経験[けいけん]がある。
+  Ich habe die Erfahrung gemacht, dass ich im Meer fast ertrunken wäre.
+
+  彼は重傷を負って死んでしまった。
+  彼[かれ]は 重傷[じゅうしょう]を 負[お]って 死[し]んでしまった。
+  Er erlag seinen schweren Verletzungen.
+
+  寒さで凍え死ぬ人もいるそうだ。
+  寒[さむ]さで 凍[こご]え 死[し]ぬ 人[ひと]もいるそうだ。
+  Es heißt, dass manche Menschen vor Kälte erfrieren.
+
+  彼は死んだふりをして敵をだました。
+  彼[かれ]は 死[し]んだふりをして 敵[てき]をだました。
+  Er täuschte den Feind, indem er sich tot stellte.
+
+  彼女は死んだように深く眠っていた。
+  彼女[かのじょ]は 死[し]んだように 深[ふか]く 眠[ねむ]っていた。
+  Sie schlief so tief wie eine Tote.
+
+  彼女のことを死ぬほど愛している。
+  彼女[かのじょ]のことを 死[し]ぬほど 愛[あい]している。
+  Ich liebe sie über alles.
+
+  この仕事で死ぬほど疲れた。
+  この 仕事[しごと]で 死[し]ぬほど 疲[つか]れた。
+  Ich bin von dieser Arbeit todmüde.
+
+  あの冗談を聞いて死ぬほど笑った。
+  あの 冗談[じょうだん]を 聞[き]いて 死[し]ぬほど 笑[わら]った。
+  Ich habe mich über diesen Witz totgelacht.
+
+  彼女の話はおかしくて死にそうだった。
+  彼女[かのじょ]の 話[はなし]はおかしくて 死[し]にそうだった。
+  Ihre Geschichte war zum Totlachen.
+
+  この痛みは死ぬかと思うほど苦しい。
+  この 痛[いた]みは 死[し]ぬかと 思[おも]うほど 苦[くる]しい。
+  Dieser Schmerz ist so qualvoll, dass ich glaube, sterben zu müssen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

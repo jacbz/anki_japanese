@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「コーヒーはいかがですか」「いいえ、けっこうです」
-  「コーヒーは 如何[いかが]ですか」「いいえ、 結構[けっこう]です」
-  „Möchten Sie etwas Kaffee?“ „Nein, danke.“
+  「コーヒーはいかがですか」<br>「いいえ、けっこうです」
+  「コーヒーは 如何[いかが]ですか」<br>「いいえ、 結構[けっこう]です」
+  „Möchten Sie etwas Kaffee?“<br>„Nein, danke.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

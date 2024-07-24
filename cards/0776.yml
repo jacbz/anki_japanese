@@ -2,14 +2,14 @@ Rang: 776
 Lemma: 痛い
 Lesung: いたい
 Alternativschreibweisen: ''
-Definition: schmerzhaft, wehtun
+Definition: schmerzhaft; schmerzlich
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>い</span><span class="accent_top">た</span><span>い</span>
 Register: ''
 Dispersion: '78'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 痛くない・痛かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   どこが痛いですか。
   どこが 痛[いた]いですか。
   Wo tut es weh?
+
+  この注射は少し痛いかもしれませんが、すぐに終わりますよ。
+  この 注射[ちゅうしゃ]は 少[すこ]し 痛[いた]いかもしれませんが、すぐに 終[お]わりますよ。
+  Diese Spritze könnte etwas wehtun, aber es ist schnell vorbei.
+
+  痛い傷は消毒しないと悪化する可能性があります。
+  痛[いた]い 傷[きず]は 消毒[しょうどく]しないと 悪化[あっか]する 可能性[かのうせい]があります。
+  Wenn man eine schmerzhafte Wunde nicht desinfiziert, kann sie sich verschlimmern.
+
+  チームにとって痛い失敗だったが、次の試合で挽回できるはずだ。
+  チームにとって 痛[いた]い 失敗[しっぱい]だったが、次[つぎ]の 試合[しあい]で 挽回[ばんかい]できるはずだ。
+  Es war eine bittere Niederlage für das Team, aber sie sollten in der nächsten Partie die Chance zur Wiedergutmachung haben.
+
+  最後の痛い失点で、優勝の可能性が消えてしまった。
+  最後[さいご]の 痛[いた]い 失点[しってん]で、優勝[ゆうしょう]の 可能性[かのうせい]が 消[き]えてしまった。
+  Mit dem schmerzlichen Punkteverlust am Ende schwanden die Chancen auf den Meistertitel.
+
+  痛いところを押さないでください。もっと悪化します。
+  痛[いた]いところを 押[お]さないでください。もっと 悪化[あっか]します。
+  Bitte drücken Sie nicht auf die schmerzhafte Stelle. Es wird sich nur verschlimmern.
+
+  頭が痛いので、今日は早く帰らせてもらいます。
+  頭[あたま]が 痛[いた]いので、今日[きょう]は 早[はや]く 帰[かえ]らせてもらいます。
+  Ich habe Kopfschmerzen, daher gehe ich heute früher nach Hause.
+
+  昨日から膝が痛いんだ。病院に行った方がいいかな。
+  昨日[きのう]から 膝[ひざ]が 痛[いた]いんだ。病院[びょういん]に 行[い]った 方[ほう]がいいかな。
+  Seit gestern tut mir das Knie weh. Ob ich besser zum Arzt gehen sollte?
+
+  ちょっと頭が痛いとかで、部屋で休んでいます。
+  ちょっと 頭[あたま]が 痛[いた]いとかで、部屋[へや]で 休[やす]んでいます。
+  Sie hat Kopfschmerzen und ruht sich im Zimmer aus.
+
+  さらに爪で痛いほどこそげてから、洗い流す。
+  さらに 爪[つめ]で 痛[いた]いほどこそげてから、洗[あら]い 流[なが]す。
+  Ich schrubbte weiter mit den Fingernägeln, bis es wehtat, und spülte es dann ab.
+
+  痛くありませんよ。奥さん。
+  痛[いた]くありませんよ。奥[おく]さん。
+  Es wird nicht wehtun, gnädige Frau.
+
+  いらんお世話よ。痛いところに触れてしまったらしく、女は腹立だしげにぼくの手をはらいのけた。
+  いらんお 世話[せわ]よ。痛[いた]いところに 触[ふ]れてしまったらしく、女[おんな]は 腹立[はらだ]だしげにぼくの 手[て]をはらいのけた。
+  Das geht Sie nichts an! Anscheinend hatte ich einen wunden Punkt getroffen, denn die Frau schob meine Hand verärgert beiseite.
+
+  最初からこうすれば、痛いめにあわずにすんだのに。
+  最初[さいしょ]からこうすれば、痛[いた]いめにあわずにすんだのに。
+  Wenn du von Anfang an so gehandelt hättest, hättest du dir diesen Ärger ersparen können.
+
+  こんなたぐいの人間を取りこんだばかりに、いつの日か痛い目にあうにちがいない。
+  こんなたぐいの 人間[にんげん]を 取[と]りこんだばかりに、いつの 日[ひ]か 痛[いた]い 目[め]にあうにちがいない。
+  Dadurch, dass ich mich mit so jemandem eingelassen habe, werde ich sicher eines Tages dafür büßen müssen.
+
+  彼女の発言は私の痛いところを突いてしまった。
+  彼女[かのじょ]の 発言[はつげん]は 私[わたし]の 痛[いた]いところを 突[つ]いてしまった。
+  Ihre Aussage traf genau meinen wunden Punkt.
+
+  おまえがわれわれの話をあいてかまわずふれまわっていても、むろんわれわれとしちゃあ、痛くもかゆくもない。
+  おまえがわれわれの 話[はなし]をあいてかまわずふれまわっていても、むろんわれわれとしちゃあ、痛[いた]くもかゆくもない。
+  Es stört uns überhaupt nicht, dass du unsere Geschichte jedem erzählst, dem du begegnest.
+
+  痛くもない腹を探られるのは、とても不愉快だ。
+  痛[いた]くもない 腹[はら]を 探[さぐ]られるのは、とても 不愉快[ふゆかい]だ。
+  Es ist sehr unangenehm, grundlos verdächtigt zu werden.
+
+  彼女の痛い経験が、今の彼女を強くしたんだ。
+  彼女[かのじょ]の 痛[いた]い 経験[けいけん]が、今[いま]の 彼女[かのじょ]を 強[つよ]くしたんだ。
+  Ihre schmerzlichen Erfahrungen haben sie zu der starken Person gemacht, die sie heute ist.
+
+  痛い目に遭わせるつもりはないが、これは大切な教訓になるだろう。
+  痛[いた]い 目[め]に 遭[あ]わせるつもりはないが、これは 大切[たいせつ]な 教訓[きょうくん]になるだろう。
+  Ich will dir nicht wehtun, aber das wird sicherlich eine wichtige Lektion für dich sein.
+
+  この痛い思い出は、きっといつか笑い話になるよ。
+  この 痛[いた]い 思[おも]い 出[で]は、きっといつか 笑[わら]い 話[ばなし]になるよ。
+  Diese schmerzliche Erinnerung wird sicher irgendwann zu einer lustigen Anekdote werden.
+
+  痛いところをつかれたようで、彼は黙ってしまった。
+  痛[いた]いところをつかれたようで、彼[かれ]は 黙[だま]ってしまった。
+  Es schien, als hätte man seinen wunden Punkt getroffen, denn er verstummte plötzlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

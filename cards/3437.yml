@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「食べる？」「ううん、食べない。」
-  「 食[た]べる？」「ううん、 食[た]べない。」
-  „Möchtest du probieren?“ „Nein, danke.“
+  「食べる？」<br>「ううん、食べない。」
+  「 食[た]べる？」<br>「ううん、 食[た]べない。」
+  „Möchtest du probieren?“<br>„Nein, danke.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

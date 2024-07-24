@@ -1,15 +1,15 @@
 Rang: 440
 Lemma: 決める
 Lesung: きめる
-Alternativschreibweisen: ''
-Definition: entscheiden, festlegen
+Alternativschreibweisen: 極める
+Definition: bestimmen, entscheiden
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">め</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '100'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 決めない・決めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,102 @@ Beispielsätze: |-
   待ち合わせの時間と場所を決めよう。
   待[ま]ち 合[あ]わせの 時間[じかん]と 場所[ばしょ]を 決[き]めよう。
   Lass uns die Zeit und den Ort zum Treffen festlegen.
+
+  目標を決めて計画的に行動することが大切です。
+  目標[もくひょう]を 決[き]めて 計画的[けいかくてき]に 行動[こうどう]することが 大切[たいせつ]です。
+  Es ist wichtig, ein Ziel zu bestimmen und planmäßig zu handeln.
+
+  会議の日を来週の水曜日に決めましょう。
+  会議[かいぎ]の 日[ひ]を 来週[らいしゅう]の 水曜日[すいようび]に 決[き]めましょう。
+  Lassen Sie uns den Tag für die Besprechung auf nächsten Mittwoch festlegen.
+
+  新製品の価格を決めるのは難しい判断です。
+  新製品[しんせいひん]の 価格[かかく]を 決[き]めるのは 難[むずか]しい 判断[はんだん]です。
+  Die Preisbestimmung für ein neues Produkt ist eine schwierige Entscheidung.
+
+  抽選で当選者の順番を決めることにしました。
+  抽選[ちゅうせん]で 当選者[とうせんしゃ]の 順番[じゅんばん]を 決[き]めることにしました。
+  Wir haben beschlossen, die Reihenfolge der Gewinner durch eine Verlosung zu bestimmen.
+
+  どちらの大学に進学するか、まだ決めていません。
+  どちらの 大学[だいがく]に 進学[しんがく]するか、まだ 決[き]めていません。
+  Ich habe mich noch nicht entschieden, an welcher der beiden Universitäten ich studieren werde.
+
+  急いで決めることはないよ。よく考えてから決めなさい。
+  急[いそ]いで 決[き]めることはないよ。よく 考[かんが]えてから 決[き]めなさい。
+  Du musst dich nicht beeilen, eine Entscheidung zu treffen. Denk gut darüber nach, bevor du dich entscheidest.
+
+  自分の人生は自分で決めるべきだと思います。
+  自分[じぶん]の 人生[じんせい]は 自分[じぶん]で 決[き]めるべきだと 思[おも]います。
+  Ich denke, man sollte sein eigenes Leben selbst bestimmen.
+
+  新しいアパートに決めたので、来月引っ越します。
+  新[あたら]しいアパートに 決[き]めたので、来月[らいげつ] 引[ひ]っ越[こ]します。
+  Ich habe mich für eine neue Wohnung entschieden und werde nächsten Monat umziehen.
+
+  月曜日に出発することに決めました。
+  月曜日[げつようび]に 出発[しゅっぱつ]することに 決[き]めました。
+  Ich habe mich entschieden, am Montag abzureisen.
+
+  契約の内容を決めたので、明日サインをします。
+  契約[けいやく]の 内容[ないよう]を 決[き]めたので、明日[あした]サインをします。
+  Wir haben die Vertragsbedingungen festgelegt, also werden wir morgen unterschreiben.
+
+  「卒論のテーマを決めた？」「まだ迷ってるんだ。」
+  「卒論[そつろん]のテーマを 決[き]めた？」「まだ 迷[まよ]ってるんだ。」
+  "Hast du dich schon für ein Thema für deine Abschlussarbeit entschieden?" "Ich bin mir noch nicht sicher."
+
+  論文の長さは自分で決めていいそうです。
+  論文[ろんぶん]の 長[なが]さは 自分[じぶん]で 決[き]めていいそうです。
+  Anscheinend können wir die Länge der Abhandlung selbst bestimmen.
+
+  会議の日時は来週の火曜日午後2時と決められました。
+  会議[かいぎ]の 日時[にちじ]は 来週[らいしゅう]の 火曜日[かようび] 午後[ごご]2時[じ]と 決[き]められました。
+  Der Termin für die Besprechung wurde auf nächsten Dienstag um 14 Uhr festgelegt.
+
+  重要な決定は落ち着いた状態でするべきだ。
+  重要[じゅうよう]な 決定[けってい]は 落[お]ち 着[つ]いた 状態[じょうたい]でするべきだ。
+  Wichtige Entscheidungen sollte man in einem ruhigen Zustand treffen.
+
+  「コーヒーを飲みに行こう。そこで話を決めよう。」
+  「コーヒーを 飲[の]みに 行[い]こう。そこで 話[はなし]を 決[き]めよう。」
+  "Lass uns einen Kaffee trinken gehen. Dort können wir die Sache besprechen und entscheiden."
+
+  朝食はいつもパンと決めています。
+  朝食[ちょうしょく]はいつもパンと 決[き]めています。
+  Ich habe für mich beschlossen, zum Frühstück immer Brot zu essen.
+
+  毎晩10時に寝ると決めているんだ。
+  毎晩[まいばん]10時[じ]に 寝[ね]ると 決[き]めているんだ。
+  Ich habe mir zur Regel gemacht, jeden Abend um 10 Uhr schlafen zu gehen.
+
+  彼らは勝つと決めて試合に臨んだ。
+  彼[かれ]らは 勝[か]つと 決[き]めて 試合[しあい]に 臨[のぞ]んだ。
+  Sie gingen mit der festen Überzeugung zu gewinnen in den Wettkampf.
+
+  無理だと決めつけずに、まずは挑戦してみよう。
+  無理[むり]だと 決[き]めつけずに、まずは 挑戦[ちょうせん]してみよう。
+  Lass uns nicht von vornherein denken, dass es unmöglich ist, sondern es erst einmal versuchen.
+
+  面接では紺のスーツで決めました。
+  面接[めんせつ]では 紺[こん]のスーツで 決[き]めました。
+  Für das Vorstellungsgespräch habe ich mich für einen dunkelblauen Anzug entschieden.
+
+  塩加減で味を決めるのがプロの技です。
+  塩加減[しおかげん]で 味[あじ]を 決[き]めるのがプロの 技[わざ]です。
+  Die Kunst eines Profis ist es, den Geschmack mit der richtigen Menge Salz abzurunden.
+
+  サッカー選手が決定的なシュートを決めた。
+  サッカー 選手[せんしゅ]が 決定的[けっていてき]なシュートを 決[き]めた。
+  Der Fußballspieler hat einen entscheidenden Schuss ins Tor getroffen.
+
+  相手の技を見破り、一気に勝負を決めた。
+  相手[あいて]の 技[わざ]を 見破[みやぶ]り、一気[いっき]に 勝負[しょうぶ]を 決[き]めた。
+  Er durchschaute die Technik des Gegners und entschied den Kampf mit einem Schlag für sich.
+
+  覚悟を決めて、新しい挑戦に臨むつもりです。
+  覚悟[かくご]を 決[き]めて、新[あたら]しい 挑戦[ちょうせん]に 臨[のぞ]むつもりです。
+  Ich habe mich entschlossen und bin bereit, mich der neuen Herausforderung zu stellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

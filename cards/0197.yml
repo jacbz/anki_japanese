@@ -1,15 +1,15 @@
 Rang: 197
 Lemma: 返る
 Lesung: かえる
-Alternativschreibweisen: ''
-Definition: zurückkehren (in Ursprungszustand)
+Alternativschreibweisen: 反る・還る
+Definition: zurückkehren, zurückbekommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">か</span><span>え</span><span>る</span>
 Register: ''
 Dispersion: '83'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 返らない・返った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,10 +18,94 @@ Beispielsätze: |-
   私[わたし]の 本[ほん]を 返[かえ]してくれませんか。
   Kannst du mir mein Buch zurückgeben?
 
+  子供のころの思い出に返って、懐かしい気持ちになった。
+  子供[こども]のころの 思い出[おもいで]に 返[かえ]って、懐[なつ]かしい 気持[きも]ちになった。
+  In Kindheitserinnerungen schwelgend wurde ich von einem nostalgischen Gefühl erfüllt.
+
+  長い議論の末、やっと我に返って冷静に考えることができた。
+  長[なが]い 議論[ぎろん]の 末[すえ]、やっと 我[われ]に 返[かえ]って 冷静[れいせい]に 考[かんが]えることができた。
+  Nach einer langen Diskussion konnte ich endlich wieder zu mir kommen und nüchtern nachdenken.
+
+  貸した本が無事に返ってきて安心しました。
+  貸[か]した 本[ほん]が 無事[ぶじ]に 返[かえ]ってきて 安心[あんしん]しました。
+  Ich war erleichtert, dass das ausgeliehene Buch sicher zurückkam.
+
+  忘れ物が持ち主に返るまでに時間がかかることがあります。
+  忘[わす]れ 物[もの]が 持[も]ち 主[ぬし]に 返[かえ]るまでに 時間[じかん]がかかることがあります。
+  Es kann eine Weile dauern, bis verlorene Gegenstände zu ihren Besitzern zurückkehren.
+
+  彼女からの返事が返ってこなくて心配です。
+  彼女[かのじょ]からの 返事[へんじ]が 返[かえ]ってこなくて 心配[しんぱい]です。
+  Ich mache mir Sorgen, weil ich keine Antwort von ihr erhalten habe.
+
+  思いがけない反応が返ってきて、驚きました。
+  思[おも]いがけない 反応[はんのう]が 返[かえ]ってきて、驚[おどろ]きました。
+  Ich war überrascht, als ich eine unerwartete Reaktion erhielt.
+
+  急に風向きが返って、天気が崩れてきた。
+  急[きゅう]に 風向[かざむ]きが 返[かえ]って、天気[てんき]が 崩[くず]れてきた。
+  Plötzlich drehte sich der Wind, und das Wetter verschlechterte sich.
+
+  話し合いの結果が返ってくるまで、しばらく待ちましょう。
+  話[はな]し 合[あ]いの 結果[けっか]が 返[かえ]ってくるまで、しばらく 待[ま]ちましょう。
+  Lasst uns warten, bis wir das Ergebnis der Besprechung erhalten.
+
+  投資した資金が返ってくるまでには時間がかかります。
+  投資[とうし]した 資金[しきん]が 返[かえ]ってくるまでには 時間[じかん]がかかります。
+  Es braucht Zeit, bis sich das investierte Kapital amortisiert.
+
+  彼の態度が急に返って、優しくなった。
+  彼[かれ]の 態度[たいど]が 急[きゅう]に 返[かえ]って、優[やさ]しくなった。
+  Seine Haltung änderte sich plötzlich, und er wurde freundlich.
+
+  静まり返った教室に、先生の声だけが響いていた。
+  静[しず]まり 返[かえ]った 教室[きょうしつ]に、先生[せんせい]の 声[こえ]だけが 響[ひび]いていた。
+  In dem mucksmäuschenstillen Klassenzimmer hallte nur die Stimme des Lehrers.
+
+  彼女の気持ちが私に返ってくるのを待っています。
+  彼女[かのじょ]の 気持[きも]ちが 私[わたし]に 返[かえ]ってくるのを 待[ま]っています。
+  Ich warte darauf, dass ihre Gefühle zu mir zurückkehren.
+
+  借りたお金を全額返すのに時間がかかりそうだ。
+  借[か]りたお 金[かね]を 全額[ぜんがく] 返[かえ]すのに 時間[じかん]がかかりそうだ。
+  Es wird wohl eine Weile dauern, bis ich den geliehenen Betrag vollständig zurückzahlen kann.
+
+  彼の冗談に笑い返る人はいなかった。
+  彼[かれ]の 冗談[じょうだん]に 笑[わら]い 返[かえ]る 人[ひと]はいなかった。
+  Niemand lachte über seinen Witz zurück.
+
+  長い沈黙の後、やっと会話が元に返った。
+  長[なが]い 沈黙[ちんもく]の 後[あと]、やっと 会話[かいわ]が 元[もと]に 返[かえ]った。
+  Nach einer langen Stille kehrte das Gespräch endlich zur Normalität zurück.
+
+  返事が返ってこないので、メールが届いているか心配です。
+  返事[へんじ]が 返[かえ]ってこないので、メールが 届[とど]いているか 心配[しんぱい]です。
+  Da ich keine Antwort erhalte, mache ich mir Sorgen, ob die E-Mail angekommen ist.
+
+  彼の性格が昔に返って、優しくなった。
+  彼[かれ]の 性格[せいかく]が 昔[むかし]に 返[かえ]って、優[やさ]しくなった。
+  Sein Charakter kehrte zu dem von früher zurück, und er wurde wieder freundlich.
+
+  試験の結果が返ってくるまで、落ち着かない日々が続いた。
+  試験[しけん]の 結果[けっか]が 返[かえ]ってくるまで、落[お]ち 着[つ]かない 日々[ひび]が 続[つづ]いた。
+  Bis die Prüfungsergebnisse zurückkamen, vergingen unruhige Tage.
+
+  その問題は元に返って考え直す必要がありそうだ。
+  その 問題[もんだい]は 元[もと]に 返[かえ]って 考[かんが]え 直[なお]す 必要[ひつよう]がありそうだ。
+  Es scheint notwendig zu sein, das Problem von Grund auf neu zu überdenken.
+
+  彼女の気持ちが私に返ってくるのを待っています。
+  彼女[かのじょ]の 気持[きも]ちが 私[わたし]に 返[かえ]ってくるのを 待[ま]っています。
+  Ich warte darauf, dass ihre Gefühle zu mir zurückkehren.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: Bedeutet, dass etwas an seinen ursprünglichen Ort zurückkehrt.<br><br>ハサミが机の上に返っている。<br><i>Die
-  Schere liegt wieder auf dem Schreibtisch.</i>
+Notiz: |-
+  Bedeutet, dass etwas an seinen ursprünglichen Ort zurückkehrt.
+  <div class="examples">
+    <div class="jp">ハサミが机の上に返っている。</div>
+    <div class="de spoiler">Die Schere liegt wieder auf dem Schreibtisch.</div>
+  </div>

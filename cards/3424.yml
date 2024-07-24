@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「ハサミ、どこ？」「そこらへんにない？」
-  「ハサミ、どこ？」「そこらへんにない？」
-  „Wo ist die Schere?“ „Ich denke, sie ist in der Nähe.“
+  「ハサミ、どこ？」<br>「そこらへんにない？」
+  「ハサミ、どこ？」<br>「そこらへんにない？」
+  „Wo ist die Schere?“<br>„Ich denke, sie ist in der Nähe.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

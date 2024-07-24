@@ -14,9 +14,9 @@ Konjugation: ''
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  「私のせいだというんですか」「いや、そういうことではないんです」
-  「 私[わたし]のせいだというんですか」「いや、そういうことではないんです」
-  „Sagst du, dass das meine Schuld ist?“ „Nein, das meine ich nicht.“
+  「私のせいだというんですか」<br>「いや、そういうことではないんです」
+  「 私[わたし]のせいだというんですか」<br>「いや、そういうことではないんです」
+  „Sagst du, dass das meine Schuld ist?“<br>„Nein, das meine ich nicht.“
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
