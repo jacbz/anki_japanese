@@ -1,5 +1,5 @@
 function addFurigana(text) {
-  return text.replace(
+  return text.replaceAll(
     /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
     (match, kanji, furigana) => {
       return `${
@@ -34,7 +34,7 @@ function formatDefinition() {
     let text = def.innerHTML;
 
     if (text.includes(",") || text.includes(";")) {
-      text = text.replace(
+      text = text.replaceAll(
         /([^,;]+)/g,
         (match) => `<span class="no-break">${match}</span>`
       );
@@ -43,8 +43,8 @@ function formatDefinition() {
       text = text.replaceAll('</span>; <span class="no-break">', ';</span> <span class="no-break">')
     }
 
-    text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
-    text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
+    text = text.replaceAll(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
+    text = text.replaceAll(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
 
     def.innerHTML = text;
   });
@@ -54,7 +54,7 @@ function processText(text, isJapanese) {
   if (text.length === 0) {
     return text;
   }
-  text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
+  text = text.replaceAll(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
   if (isJapanese) {
   } else {
@@ -65,14 +65,14 @@ function processText(text, isJapanese) {
       for (let line of lines) {
         line = line.trim();
         if (line.startsWith("–") || line.startsWith("-")) {
-          line = line.replace(/^(–|-)\s*/, "");
+          line = line.replaceAll(/^(–|-)\s*/g, "");
         }
         formattedLines.push(`„${line}“`);
       }
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks „...“
-    text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
+    text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
   }
   return text;
 }
