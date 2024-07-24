@@ -168,7 +168,7 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
         "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
         "User-Agent": "curl",
       },
-      body: `<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="ja-JP"><voice name="ja-JP-${voice}Neural">${ssmlSentence}</voice></speak>`,
+      body: `<speak xml:lang="ja-JP"><voice name="ja-JP-${voice}Neural">${ssmlSentence}</voice></speak>`,
     });
 
     if (!response.ok) {
