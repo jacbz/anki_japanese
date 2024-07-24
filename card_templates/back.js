@@ -149,7 +149,7 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
 
   try {
     const ssmlSentence = sentence.replace(
-      /\s?([一-龯々]+)\[([ぁ-んァ-ン]+)\]/g,
+      /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
       (match, kanji, furigana) => {
         return `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)}">${kanji}</phoneme>`;
       }
