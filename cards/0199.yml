@@ -1,7 +1,7 @@
 Rang: 199
 Lemma: かける
 Lesung: ''
-Alternativschreibweisen: 掛ける
+Alternativschreibweisen: 掛ける・懸ける
 Definition: '[Zeit] verbringen; [Geld] ausgeben; aufhängen'
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>か</span><span class="accent_top">け</span><span>�
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: かけない・かけた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   壁に絵を掛けた。
   壁[かべ]に 絵[え]を 掛[か]けた。
   Ich habe das Bild an der Wand aufgehängt.
+
+  タオルをハンガーに掛け、浴室のドアを閉めた。
+  タオルをハンガーに 掛[か]け、浴室[よくしつ]のドアを 閉[し]めた。
+  Ich hängte das Handtuch auf einen Bügel und schloss die Badezimmertür.
+
+  ショルダーバッグを肩にかけて出かけた。
+  ショルダーバッグを 肩[かた]にかけて 出[で]かけた。
+  Ich ging mit der Umhängetasche über der Schulter aus.
+
+  手錠をかけられた容疑者が警察署に連行された。
+  手錠[てじょう]をかけられた 容疑者[ようぎしゃ]が 警察署[けいさつしょ]に 連行[れんこう]された。
+  Der in Handschellen gelegte Verdächtige wurde zur Polizeiwache gebracht.
+
+  梯子を壁にかけて、二階の窓を修理した。
+  梯子[はしご]を 壁[かべ]にかけて、二階[にかい]の 窓[まど]を 修理[しゅうり]した。
+  Ich lehnte eine Leiter an die Wand und reparierte das Fenster im ersten Stock.
+
+  眼鏡をかけて新聞を読んでいる。
+  眼鏡[めがね]をかけて 新聞[しんぶん]を 読[よ]んでいる。
+  Ich lese mit der Brille auf der Nase die Zeitung.
+
+  やかんを火にかけてお湯を沸かした。
+  やかんを 火[ひ]にかけてお 湯[ゆ]を 沸[わ]かした。
+  Ich setzte den Wasserkessel aufs Feuer und kochte Wasser.
+
+  新しいCDをかけて、音楽を楽しんだ。
+  新[あたら]しいCDをかけて、音楽[おんがく]を 楽[たの]しんだ。
+  Ich legte eine neue CD auf und genoss die Musik.
+
+  肩に手をかけて、友達を慰めた。
+  肩[かた]に 手[て]をかけて、友達[ともだち]を 慰[なぐさ]めた。
+  Ich legte die Hand auf die Schulter meines Freundes und tröstete ihn.
+
+  ソファに腰をかけてくつろいだ。
+  ソファに 腰[こし]をかけてくつろいだ。
+  Ich setzte mich auf das Sofa und entspannte mich.
+
+  毛布を体にかけて寝た。
+  毛布[もうふ]を 体[からだ]にかけて 寝[ね]た。
+  Ich deckte mich mit einer Decke zu und schlief.
+
+  花に水をかけて世話をした。
+  花[はな]に 水[みず]をかけて 世話[せわ]をした。
+  Ich goss die Blumen und pflegte sie.
+
+  醤油をかけて、料理の味を調えた。
+  醤油[しょうゆ]をかけて、料理[りょうり]の 味[あじ]を 調[ととの]えた。
+  Ich gab Sojasauce hinzu, um den Geschmack des Gerichts abzurunden.
+
+  圧力をかけて交渉を有利に進めた。
+  圧力[あつりょく]をかけて 交渉[こうしょう]を 有利[ゆうり]に 進[すす]めた。
+  Ich übte Druck aus, um die Verhandlungen zu meinen Gunsten voranzutreiben.
+
+  迷惑をかけてしまって申し訳ありません。
+  迷惑[めいわく]をかけてしまって 申[もう]し 訳[わけ]ありません。
+  Es tut mir leid, dass ich Ihnen Unannehmlichkeiten bereitet habe.
+
+  保険をかけて、万が一に備えた。
+  保険[ほけん]をかけて、万が一[まんがいち]に 備[そな]えた。
+  Ich schloss eine Versicherung ab, um für den Notfall vorzusorgen.
+
+  時間をかけて丁寧に仕事をした。
+  時間[じかん]をかけて 丁寧[ていねい]に 仕事[しごと]をした。
+  Ich nahm mir Zeit und erledigte die Arbeit sorgfältig.
+
+  大事にかけて接客している。
+  大事[だいじ]にかけて 接客[せっきゃく]している。
+  Ich behandle die Kunden mit großer Sorgfalt.
+
+  医者にかかって、症状を診てもらった。
+  医者[いしゃ]にかかって、症状[しょうじょう]を 診[み]てもらった。
+  Ich ging zum Arzt und ließ meine Symptome untersuchen.
+
+  友達に電話をかけて、近況を聞いた。
+  友達[ともだち]に 電話[でんわ]をかけて、近況[きんきょう]を 聞[き]いた。
+  Ich rief meinen Freund an und erkundigte mich nach seinem Befinden.
+
+  先生に質問をかけて、疑問点を解消した。
+  先生[せんせい]に 質問[しつもん]をかけて、疑問点[ぎもんてん]を 解消[かいしょう]した。
+  Ich stellte dem Lehrer eine Frage und klärte meine Zweifel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>た</span><span class="accent_top">て</span><span>�
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 立てない・立てた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,106 @@ Beispielsätze: |-
   山頂に国旗を立てた。
   山頂[さんちょう]に 国旗[こっき]を 立[た]てた。
   Sie haben die Nationalflagge auf dem Gipfel des Berges aufgestellt.
+
+  襟を立てて寒さを防ぐ。
+  襟[えり]を 立[た]てて 寒[さむ]さを 防[ふせ]ぐ。
+  Ich stelle den Kragen hoch, um mich vor der Kälte zu schützen.
+
+  片膝を立てて座っている。
+  片膝[かたひざ]を 立[た]てて 座[すわ]っている。
+  Ich sitze mit einem angewinkelten Knie.
+
+  猫が耳を立てて警戒している。
+  猫[ねこ]が 耳[みみ]を 立[た]てて 警戒[けいかい]している。
+  Die Katze stellt ihre Ohren auf und ist wachsam.
+
+  人差し指を立てて質問する。
+  人差[ひとさ]し 指[ゆび]を 立[た]てて 質問[しつもん]する。
+  Ich hebe den Zeigefinger, um eine Frage zu stellen.
+
+  本を立てて本棚に収納する。
+  本[ほん]を 立[た]てて 本棚[ほんだな]に 収納[しゅうのう]する。
+  Ich stelle die Bücher aufrecht ins Bücherregal.
+
+  野菜を立てたまま冷蔵庫に保存する。
+  野菜[やさい]を 立[た]てたまま 冷蔵庫[れいぞうこ]に 保存[ほぞん]する。
+  Ich lagere das Gemüse stehend im Kühlschrank.
+
+  道路脇に標識を立てた。
+  道路[どうろ]脇[わき]に 標識[ひょうしき]を 立[た]てた。
+  An der Straßenseite wurde ein Schild aufgestellt.
+
+  公園にテントを立てて野営する。
+  公園[こうえん]にテントを 立[た]てて 野営[やえい]する。
+  Wir schlagen ein Zelt im Park auf und campen.
+
+  記念碑として像を立てる計画がある。
+  記念碑[きねんひ]として 像[ぞう]を 立[た]てる 計画[けいかく]がある。
+  Es gibt einen Plan, eine Statue als Denkmal zu errichten.
+
+  ろうそくを立てて部屋を照らす。
+  ろうそくを 立[た]てて 部屋[へや]を 照[て]らす。
+  Ich stelle eine Kerze auf, um den Raum zu beleuchten.
+
+  新しい仮説を立てて実験を行う。
+  新[あたら]しい 仮説[かせつ]を 立[た]てて 実験[じっけん]を 行[おこな]う。
+  Wir stellen eine neue Hypothese auf und führen ein Experiment durch.
+
+  来年の目標を立てた。
+  来年[らいねん]の 目標[もくひょう]を 立[た]てた。
+  Ich habe mir Ziele für nächstes Jahr gesetzt.
+
+  新記録を立てて優勝した。
+  新[しん]記録[きろく]を 立[た]てて 優勝[ゆうしょう]した。
+  Er stellte einen neuen Rekord auf und gewann.
+
+  彼女は生計を立てるために夜間も働いている。
+  彼女[かのじょ]は 生計[せいけい]を 立[た]てるために 夜間[やかん]も 働[はたら]いている。
+  Sie arbeitet auch nachts, um ihren Lebensunterhalt zu verdienen.
+
+  次の選挙で新しい候補者を立てる。
+  次[つぎ]の 選挙[せんきょ]で 新[あたら]しい 候補者[こうほしゃ]を 立[た]てる。
+  Bei der nächsten Wahl werden wir einen neuen Kandidaten aufstellen.
+
+  彼を仲介に立てて交渉を進める。
+  彼[かれ]を 仲介[ちゅうかい]に 立[た]てて 交渉[こうしょう]を 進[すす]める。
+  Wir setzen ihn als Vermittler ein, um die Verhandlungen voranzubringen.
+
+  強風で大きな波が立っている。
+  強風[きょうふう]で 大[おお]きな 波[なみ]が 立[た]っている。
+  Der starke Wind verursacht hohe Wellen.
+
+  シャンパンを注ぐと泡が立つ。
+  シャンパンを 注[そそ]ぐと 泡[あわ]が 立[た]つ。
+  Wenn man Champagner einschenkt, bildet sich Schaum.
+
+  大声を立てて笑わないでください。
+  大声[おおごえ]を 立[た]てて 笑[わら]わないでください。
+  Bitte lachen Sie nicht so laut.
+
+  足音を立てずに部屋に入る。
+  足音[あしおと]を 立[た]てずに 部屋[へや]に 入[はい]る。
+  Ich betrete den Raum, ohne ein Geräusch zu machen.
+
+  先輩を立てて話す。
+  先輩[せんぱい]を 立[た]てて 話[はな]す。
+  Ich spreche respektvoll mit meinen älteren Kollegen.
+
+  お互いの顔を立てて妥協点を見つける。
+  お互[たが]いの 顔[かお]を 立[た]てて 妥協点[だきょうてん]を 見[み]つける。
+  Wir finden einen Kompromiss, bei dem beide Seiten ihr Gesicht wahren können.
+
+  包丁の刃を立てる。
+  包丁[ほうちょう]の 刃[は]を 立[た]てる。
+  Ich schärfe die Klinge des Küchenmessers.
+
+  9を立てて割り算をする。
+  9[きゅう]を 立[た]てて 割[わ]り 算[ざん]をする。
+  Ich führe eine Division durch, indem ich durch 9 teile.
+
+  風呂を立てて温まる。
+  風呂[ふろ]を 立[た]てて 温[あたた]まる。
+  Ich bereite ein Bad vor und wärme mich auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

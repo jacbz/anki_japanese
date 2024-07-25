@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 張らない・張った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼は木の間にロープを張った。
   彼[かれ]は 木[こ]の 間[ま]にロープを 張[は]った。
   Er spannte ein Seil zwischen den Bäumen auf.
+
+  弓に弦を張って、的を狙う練習をしています。
+  弓[ゆみ]に 弦[つる]を 張[は]って、的[まと]を 狙[ねら]う 練習[れんしゅう]をしています。
+  Ich übe das Zielen, indem ich die Sehne auf den Bogen spanne.
+
+  お腹が張って、少し気分が悪いです。
+  お腹[なか]が 張[は]って、少[すこ]し 気分[きぶん]が 悪[わる]いです。
+  Mein Bauch ist gespannt und ich fühle mich etwas unwohl.
+
+  冬になると、湖面に氷が張ります。
+  冬[ふゆ]になると、湖面[こめん]に 氷[こおり]が 張[は]ります。
+  Im Winter bildet sich eine Eisschicht auf der Seeoberfläche.
+
+  長時間のデスクワークで肩が張ってしまった。
+  長時間[ちょうじかん]のデスクワークで 肩[かた]が 張[は]ってしまった。
+  Durch die lange Schreibtischarbeit sind meine Schultern verspannt.
+
+  このレストランは値が張るけど、料理は最高だよ。
+  このレストランは 値[ね]が 張[は]るけど、料理[りょうり]は 最高[さいこう]だよ。
+  Dieses Restaurant ist zwar teuer, aber das Essen ist erstklassig.
+
+  ギターの弦を張り替えたら、音がよくなった。
+  ギターの 弦[げん]を 張[は]り 替[か]えたら、音[おと]がよくなった。
+  Nachdem ich die Gitarrensaiten gewechselt habe, ist der Klang besser geworden.
+
+  庭にフェンスを張って、プライバシーを確保しました。
+  庭[にわ]にフェンスを 張[は]って、プライバシーを 確保[かくほ]しました。
+  Wir haben einen Zaun um den Garten gezogen, um unsere Privatsphäre zu schützen.
+
+  新しい壁紙を張ったら、部屋の雰囲気が変わりました。
+  新[あたら]しい 壁紙[かべがみ]を 張[は]ったら、部屋[へや]の 雰囲気[ふんいき]が 変[か]わりました。
+  Nachdem wir neue Tapeten angebracht haben, hat sich die Atmosphäre des Zimmers verändert.
+
+  気を張りすぎて、疲れてしまいました。
+  気[き]を 張[は]りすぎて、疲[つか]れてしまいました。
+  Ich habe mich zu sehr angespannt und bin erschöpft.
+
+  枝を張った大きな木が、公園の中心にあります。
+  枝[えだ]を 張[は]った 大[おお]きな 木[き]が、公園[こうえん]の 中心[ちゅうしん]にあります。
+  In der Mitte des Parks steht ein großer Baum mit weit ausgebreiteten Ästen.
+
+  お風呂に湯を張って、ゆっくり疲れを癒そう。
+  お風呂[ふろ]に 湯[ゆ]を 張[は]って、ゆっくり 疲[つか]れを 癒[いや]そう。
+  Lass uns die Badewanne mit heißem Wasser füllen und uns in Ruhe entspannen.
+
+  来週、新しい店を張るんだ。楽しみだなあ。
+  来週[らいしゅう]、新[あたら]しい 店[みせ]を 張[は]るんだ。楽[たの]しみだなあ。
+  Nächste Woche eröffne ich einen neuen Laden. Ich freue mich schon darauf.
+
+  彼は主役を張るほどの演技力を持っています。
+  彼[かれ]は 主役[しゅやく]を 張[は]るほどの 演技力[えんぎりょく]を 持[も]っています。
+  Er hat genug schauspielerisches Talent, um die Hauptrolle zu spielen.
+
+  命を張って国を守る兵士たちに敬意を表します。
+  命[いのち]を 張[は]って 国[くに]を 守[まも]る 兵士[へいし]たちに 敬意[けいい]を 表[ひょう]します。
+  Ich zolle den Soldaten Respekt, die ihr Leben riskieren, um unser Land zu schützen.
+
+  彼は虚勢を張って、実際よりも裕福に見せようとしている。
+  彼[かれ]は 虚勢[きょせい]を 張[は]って、実際[じっさい]よりも 裕福[ゆうふく]に 見[み]せようとしている。
+  Er gibt an und versucht, wohlhabender zu erscheinen, als er tatsächlich ist.
+
+  警備員が出口を張って、不審者の侵入を防いでいます。
+  警備員[けいびいん]が 出口[でぐち]を 張[は]って、不審者[ふしんしゃ]の 侵入[しんにゅう]を 防[ふせ]いでいます。
+  Der Wachmann bewacht den Ausgang, um das Eindringen verdächtiger Personen zu verhindern.
+
+  彼女は意地を張って、謝ろうとしない。
+  彼女[かのじょ]は 意地[いじ]を 張[は]って、謝[あやま]ろうとしない。
+  Sie ist so stur, dass sie sich nicht entschuldigen will.
+
+  新しい政党が既存の政党の向こうを張って、選挙に参加した。
+  新[あたら]しい 政党[せいとう]が 既存[きそん]の 政党[せいとう]の 向[む]こうを 張[は]って、選挙[せんきょ]に 参加[さんか]した。
+  Eine neue Partei trat in Konkurrenz zu den bestehenden Parteiten bei der Wahl an.
+
+  このウェブサイトに他のサイトへのリンクを張りました。
+  このウェブサイトに 他[ほか]のサイトへのリンクを 張[は]りました。
+  Ich habe Links zu anderen Websites auf dieser Webseite gesetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 3
 Lemma: は
 Lesung: わ
 Alternativschreibweisen: ''
-Definition: THEMA
+Definition: '[Themapartikel]'
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -18,9 +18,109 @@ Beispielsätze: |-
   好[す]きなスポーツはテニスです。
   Mein Lieblingssport ist Tennis.
 
+  この本は父に買ってもらいました。
+  この 本[ほん]は 父[ちち]に 買[か]ってもらいました。
+  Dieses Buch hat mir mein Vater gekauft.
+
+  これは箱男についての記録である。
+  これは 箱男[はこおとこ]についての 記録[きろく]である。
+  Dies sind Aufzeichnungen über einen Schachtelmann.
+
+  象は鼻が長い。
+  象[ぞう]は 鼻[はな]が 長[なが]い。
+  Der Elefant hat einen langen Rüssel.
+
+  「レントゲンは？」
+  「レントゲンは？」
+  "Was ist mit den Röntgenbildern?"
+
+  「忘れ物はありませんね」藤間が訊いた。
+  「忘[わす]れ 物[もの]はありませんね」藤間[ふじま]が 訊[き]いた。
+  "Sie haben nichts vergessen, nicht wahr?" vergewisserte sich Fujima.
+
+  酒は飲まない。
+  酒[さけ]は 飲[の]まない。
+  Ich trinke keinen Alkohol.
+
+  この本はもう読んだ。
+  この 本[ほん]はもう 読[よ]んだ。
+  Dieses Buch habe ich schon gelesen.
+
+  あわれな犬小屋が入口にあったが、犬はいなかった。
+  あわれな 犬小屋[いぬごや]が 入口[いりぐち]にあったが、犬[いぬ]はいなかった。
+  Am Eingang stand eine verfallene Hundehütte, aber von einem Hund war keine Spur zu entdecken.
+
+  冬の寒いこの街には木造家屋はありません。
+  冬[ふゆ]の 寒[さむ]いこの 街[まち]には 木造家屋[もくぞうかおく]はありません。
+  In dieser kalten Winterstadt gibt es keine Holzhäuser.
+
+  「それでもいいんですか」 「よくはありませんが、こうなってしまった以上は仕方ないじゃありませんか」
+  「それでもいいんですか」 「よくはありませんが、こうなってしまった 以上[いじょう]は 仕方[しかた]ないじゃありませんか」
+  "Wäre Ihnen das auch recht?" "Das wäre mir selbstverständlich nicht recht, aber es ist nun mal passiert, da kann man nichts machen, oder?"
+
+  安くはない。
+  安[やす]くはない。
+  Billig ist es nicht.
+
+  早くは帰れない。
+  早[はや]くは 帰[かえ]れない。
+  Früh kann ich nicht nach Hause.
+
+  右側には煙草屋と肉屋と薬屋とが、左側にはソバ屋とガソリン・スタンドとが並んでいるのだ。
+  右側[みぎがわ]には 煙草屋[たばこや]と 肉屋[にくや]と 薬屋[くすりや]とが、左側[ひだりがわ]にはソバ屋[や]とガソリン・スタンドとが 並[なら]んでいるのだ。
+  Auf der rechten Seite befinden sich ein Tabakladen, eine Metzgerei und eine Apotheke, auf der linken Seite ein Nudel-Restaurant und eine Tankstelle.
+
+  教室ではたばこをすわないでください。
+  教室[きょうしつ]ではたばこをすわないでください。
+  Bitte rauchen Sie nicht im Klassenzimmer.
+
+  九州へは行かなかった。
+  九州[きゅうしゅう]へは 行[い]かなかった。
+  Nach Kyūshū bin ich nicht gefahren.
+
+  この頃から行徳の眼は闇に慣れ、不分明ではあるが、微かながら、女の姿の輪郭を認めることができた。
+  この 頃[ころ]から 行徳[ぎょうとく]の 眼[め]は 闇[やみ]に 慣[な]れ、不分明[ふぶんめい]ではあるが、微[かす]かながら、女[おんな]の 姿[すがた]の 輪郭[りんかく]を 認[みと]めることができた。
+  Von dieser Zeit an hatten sich Gyōtokus Augen an die Dunkelheit gewöhnt, und obwohl es undeutlich war, konnte er schwach die Umrisse der Frau erkennen.
+
+  私は日本語を勉強していますが、まだ上手には話せません。
+  私[わたし]は 日本語[にほんご]を 勉強[べんきょう]していますが、まだ 上手[じょうず]には 話[はな]せません。
+  Ich lerne zwar Japanisch, kann es aber noch nicht gut sprechen.
+
+  彼は頭はいいが、性格はあまりよくない。
+  彼[かれ]は 頭[あたま]はいいが、性格[せいかく]はあまりよくない。
+  Er ist zwar intelligent, hat aber keinen besonders guten Charakter.
+
+  今日は雨は降っていませんが、風は強いです。
+  今日[きょう]は 雨[あめ]は 降[ふ]っていませんが、風[かぜ]は 強[つよ]いです。
+  Heute regnet es zwar nicht, aber der Wind ist stark.
+
+  彼女は歌は上手だが、ダンスは下手だ。
+  彼女[かのじょ]は 歌[うた]は 上手[じょうず]だが、ダンスは 下手[へた]だ。
+  Sie kann zwar gut singen, aber nicht gut tanzen.
+
+  この料理は見た目は悪いが、味はおいしい。
+  この 料理[りょうり]は 見[み]た 目[め]は 悪[わる]いが、味[あじ]はおいしい。
+  Dieses Gericht sieht zwar nicht gut aus, schmeckt aber lecker.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>は wird verwendet, um das Thema eines Satzes zu markieren.</p>
+  <div class="examples">
+    <div class="jp">私[わたし]<u>は</u> 学生[がくせい]です。</div>
+    <div class="de spoiler">Ich bin Student.</div>
+    <div class="jp">象[ぞう]<u>は</u> 鼻[はな]が 長[なが]いです。</div>
+    <div class="de spoiler">Elefanten haben lange Rüssel.</div>
+    <div class="jp">この 本[ほん]<u>は</u> 面白[おもしろ]いです。</div>
+    <div class="de spoiler">Dieses Buch ist interessant.</div>
+  </div>
+  <p>Es kann auch zur Betonung oder zum Kontrastieren verwendet werden.</p>
+  <div class="examples">
+    <div class="jp">私[わたし]<u>は</u> 日本語[にほんご]を 勉強[べんきょう]していますが、中国[ちゅうごく]語[ご]は 勉強[べんきょう]していません。</div>
+    <div class="de spoiler">Ich lerne Japanisch, aber ich lerne kein Chinesisch.</div>
+    <div class="jp">彼[かれ]<u>は</u> 頭[あたま]はいいですが、性格[せいかく]はあまりよくありません。</div>
+    <div class="de spoiler">Er ist zwar intelligent, hat aber keinen besonders guten Charakter.</div>
+  </div>

@@ -2,14 +2,14 @@ Rang: 342
 Lemma: 立つ
 Lesung: たつ
 Alternativschreibweisen: ''
-Definition: stehen
+Definition: (auf-)stehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">た</span><span>つ</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 立たない・立った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   立ってください。
   立[た]ってください。
   Bitte stehen Sie auf.
+
+  椅子から立って、部屋を出ました。
+  椅子[いす]から 立[た]って、部屋[へや]を 出[で]ました。
+  Ich stand vom Stuhl auf und verließ den Raum.
+
+  彼は爪先で立って、棚の上の本を取ろうとしました。
+  彼[かれ]は 爪先[つまさき]で 立[た]って、棚[たな]の 上[うえ]の 本[ほん]を 取[と]ろうとしました。
+  Er stellte sich auf die Zehenspitzen, um das Buch vom oberen Regal zu holen.
+
+  道端に立っている男性に道を尋ねました。
+  道端[みちばた]に 立[た]っている 男性[だんせい]に 道[みち]を 尋[たず]ねました。
+  Ich fragte den am Straßenrand stehenden Mann nach dem Weg.
+
+  髪が逆立っていて、寝癖だとわかりました。
+  髪[かみ]が 逆立[さかだ]っていて、寝癖[ねぐせ]だとわかりました。
+  Meine Haare standen ab und ich erkannte, dass es Schlaffalten waren.
+
+  彼女は舞台に立つと、緊張で声が震えました。
+  彼女[かのじょ]は 舞台[ぶたい]に 立[た]つと、緊張[きんちょう]で 声[こえ]が 震[ふる]えました。
+  Als sie die Bühne betrat, zitterte ihre Stimme vor Nervosität.
+
+  今日は一日中台所に立って、料理を作りました。
+  今日[きょう]は 一日中[いちにちじゅう] 台所[だいどころ]に 立[た]って、料理[りょうり]を 作[つく]りました。
+  Heute stand ich den ganzen Tag in der Küche und kochte.
+
+  彼は選挙に立つことを決意しました。
+  彼[かれ]は 選挙[せんきょ]に 立[た]つことを 決意[けつい]しました。
+  Er beschloss, bei der Wahl zu kandidieren.
+
+  明日の朝早く旅に立つので、今夜はゆっくり休みます。
+  明日[あした]の 朝早[あさはや]く 旅[たび]に 立[た]つので、今夜[こんや]はゆっくり 休[やす]みます。
+  Da ich morgen früh zu einer Reise aufbreche, werde ich mich heute Abend ausruhen.
+
+  圧政に抗して立ち上がる勇気が必要だ。
+  圧政[あっせい]に 抗[あらが]して 立[た]ち 上[あ]がる 勇気[ゆうき]が 必要[ひつよう]だ。
+  Es braucht Mut, sich gegen Unterdrückung zu erheben.
+
+  彼女の話を聞いて、鳥肌が立ちました。
+  彼女[かのじょ]の 話[はなし]を 聞[き]いて、鳥肌[とりはだ]が 立[た]ちました。
+  Als ich ihre Geschichte hörte, bekam ich eine Gänsehaut.
+
+  その噂はすぐに町中に立ち、広まっていきました。
+  その 噂[うわさ]はすぐに 町中[まちじゅう]に 立[た]ち、広[ひろ]まっていきました。
+  Das Gerücht verbreitete sich schnell in der ganzen Stadt.
+
+  彼女の服装は目に立つほど派手でした。
+  彼女[かのじょ]の 服装[ふくそう]は 目[め]に 立[た]つほど 派手[はで]でした。
+  Ihre Kleidung war so auffällig, dass sie ins Auge stach.
+
+  文学で立つのは難しいが、彼は成功しました。
+  文学[ぶんがく]で 立[た]つのは 難[むずか]しいが、彼[かれ]は 成功[せいこう]しました。
+  Es ist schwierig, von der Literatur zu leben, aber er hat es geschafft.
+
+  計画がしっかり立っているので、安心して進めましょう。
+  計画[けいかく]がしっかり 立[た]っているので、安心[あんしん]して 進[すす]めましょう。
+  Da der Plan fest steht, können wir beruhigt fortfahren.
+
+  この状況では言い訳が立たないでしょう。
+  この 状況[じょうきょう]では 言い訳[いいわけ]が 立[た]たないでしょう。
+  In dieser Situation wird es keine Entschuldigung geben.
+
+  彼は顔が立つように、上手く対応しました。
+  彼[かれ]は 顔[かお]が 立[た]つように、上手[うま]く 対応[たいおう]しました。
+  Er reagierte geschickt, um sein Gesicht zu wahren.
+
+  市が立つ日は、町全体がにぎわいます。
+  市[いち]が 立[た]つ 日[ひ]は、町[まち] 全体[ぜんたい]がにぎわいます。
+  An den Tagen, an denen der Markt stattfindet, ist die ganze Stadt belebt.
+
+  彼女は筆が立つので、文章を書くのが得意です。
+  彼女[かのじょ]は 筆[ふで]が 立[た]つので、文章[ぶんしょう]を 書[か]くのが 得意[とくい]です。
+  Sie hat einen guten Schreibstil und ist gut darin, Texte zu verfassen.
+
+  ６を３で割ると２が立ちます。
+  ６を３で 割[わ]ると２が 立[た]ちます。
+  Wenn man 6 durch 3 teilt, ergibt sich 2.
+
+  風呂が立ったので、入ってください。
+  風呂[ふろ]が 立[た]ったので、入[はい]ってください。
+  Das Bad ist fertig, du kannst jetzt hineingehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 32
 Lemma: から
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: von; weil, da
+Definition: von; aus; seit; weil
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -25,6 +25,86 @@ Beispielsätze: |-
   今日は何も食べていないからおなかが空いている。
   今日[きょう]は 何[なに]も 食[た]べていないからおなかが 空[す]いている。
   Ich bin hungrig, weil ich heute noch nichts gegessen habe.
+
+  東京から大阪まで新幹線で行きます。
+  東京[とうきょう]から 大阪[おおさか]まで 新幹線[しんかんせん]で 行[い]きます。
+  Ich fahre mit dem Shinkansen von Tokyo nach Osaka.
+
+  窓から外を見ると、雪が降っていた。
+  窓[まど]から 外[そと]を 見[み]ると、雪[ゆき]が 降[ふ]っていた。
+  Als ich aus dem Fenster schaute, schneite es draußen.
+
+  彼は図書館から本を借りてきました。
+  彼[かれ]は 図書館[としょかん]から 本[ほん]を 借[か]りてきました。
+  Er hat ein Buch aus der Bibliothek ausgeliehen.
+
+  母から電話がありました。
+  母[はは]から 電話[でんわ]がありました。
+  Ich habe einen Anruf von meiner Mutter bekommen.
+
+  階段から転んで、足を怪我しました。
+  階段[かいだん]から 転[ころ]んで、足[あし]を 怪我[けが]しました。
+  Ich bin die Treppe hinuntergefallen und habe mir den Fuß verletzt.
+
+  朝から晩まで働いて、とても疲れた。
+  朝[あさ]から 晩[ばん]まで 働[はたら]いて、とても 疲[つか]れた。
+  Ich habe von morgens bis abends gearbeitet und bin sehr müde.
+
+  来週から新しいプロジェクトが始まります。
+  来週[らいしゅう]から 新[あたら]しいプロジェクトが 始[はじ]まります。
+  Ab nächster Woche beginnt ein neues Projekt.
+
+  大学時代からの友人と久しぶりに会った。
+  大学時代[だいがくじだい]からの 友人[ゆうじん]と 久[ひさ]しぶりに 会[あ]った。
+  Ich habe mich nach langer Zeit mit einem Freund aus meiner Studienzeit getroffen.
+
+  彼女は3年前から日本語を勉強しています。
+  彼女[かのじょ]は3年前[ねんまえ]から 日本語[にほんご]を 勉強[べんきょう]しています。
+  Sie lernt seit drei Jahren Japanisch.
+
+  雨が降っているから、傘を持って行きなさい。
+  雨[あめ]が 降[ふ]っているから、傘[かさ]を 持[も]って 行[い]きなさい。
+  Nimm einen Schirm mit, weil es regnet.
+
+  経験から学ぶことは多いです。
+  経験[けいけん]から 学[まな]ぶことは 多[おお]いです。
+  Man kann viel aus Erfahrung lernen.
+
+  好奇心から始めた趣味が、今では大切な活動になっています。
+  好奇心[こうきしん]から 始[はじ]めた 趣味[しゅみ]が、今[いま]では 大切[たいせつ]な 活動[かつどう]になっています。
+  Das Hobby, das ich aus Neugier begonnen habe, ist jetzt zu einer wichtigen Aktivität geworden.
+
+  ストレスから体調を崩してしまいました。
+  ストレスから 体調[たいちょう]を 崩[くず]してしまいました。
+  Ich bin aufgrund von Stress krank geworden.
+
+  顔から判断すると、彼は何か心配事があるようです。
+  顔[かお]から 判断[はんだん]すると、彼[かれ]は 何[なに]か 心配事[しんぱいごと]があるようです。
+  Seinem Gesichtsausdruck nach zu urteilen, scheint er irgendwelche Sorgen zu haben.
+
+  この机は木から作られています。
+  この 机[つくえ]は 木[き]から 作[つく]られています。
+  Dieser Tisch ist aus Holz gemacht.
+
+  彼女の声から、何か問題があることがわかりました。
+  彼女[かのじょ]の 声[こえ]から、何[なに]か 問題[もんだい]があることがわかりました。
+  An ihrer Stimme konnte ich erkennen, dass es irgendein Problem gibt.
+
+  ここから駅まで歩いて10分くらいです。
+  ここから 駅[えき]まで 歩[ある]いて10分[ぷん]くらいです。
+  Von hier bis zum Bahnhof sind es etwa 10 Minuten zu Fuß.
+
+  遠くから花火の音が聞こえてきました。
+  遠[とお]くから 花火[はなび]の 音[おと]が 聞[き]こえてきました。
+  Von weitem war der Klang von Feuerwerk zu hören.
+
+  「どこから来たの？」「東京から来ました。」
+  「どこから 来[き]たの？」「東京[とうきょう]から 来[き]ました。」
+  "Woher kommst du?" "Ich komme aus Tokyo."
+
+  この本は1ページから最後まで面白かったです。
+  この 本[ほん]は1ページ[ぺーじ]から 最後[さいご]まで 面白[おもしろ]かったです。
+  Dieses Buch war von der ersten bis zur letzten Seite interessant.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

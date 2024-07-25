@@ -2,7 +2,7 @@ Rang: 5
 Lemma: を
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: AKKUSATIV
+Definition: '[Partikel für direktes Objekt]'
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は毎晩ビールを飲む。
   彼[かれ]は 毎晩[まいばん]ビールを 飲[の]む。
   Er trinkt jeden Abend Bier.
+
+  水を飲むのは健康にいいですよ。
+  水[みず]を 飲[の]むのは 健康[けんこう]にいいですよ。
+  Wasser zu trinken ist gut für die Gesundheit.
+
+  ラジオを聞きながら朝食を取ります。
+  ラジオを 聞[き]きながら 朝食[ちょうしょく]を 取[と]ります。
+  Ich höre Radio, während ich frühstücke.
+
+  人の来るのを待つのは退屈だな。
+  人[ひと]の 来[く]るのを 待[ま]つのは 退屈[たいくつ]だな。
+  Es ist langweilig, darauf zu warten, dass jemand kommt.
+
+  子供を眠らせるのに苦労しています。
+  子供[こども]を 眠[ねむ]らせるのに 苦労[くろう]しています。
+  Ich habe Mühe, die Kinder ins Bett zu bringen.
+
+  夏休みを友達と過ごすのが楽しみだ。
+  夏休[なつやす]みを 友達[ともだち]と 過[す]ごすのが 楽[たの]しみだ。
+  Ich freue mich darauf, die Sommerferien mit meinen Freunden zu verbringen.
+
+  あなたを心から愛しています。
+  あなたを 心[こころ]から 愛[あい]しています。
+  Ich liebe dich von ganzem Herzen.
+
+  この本を読み終わりました。
+  この 本[ほん]を 読[よ]み 終[お]わりました。
+  Ich habe dieses Buch zu Ende gelesen.
+
+  彼女の名前を忘れてしまった。
+  彼女[かのじょ]の 名前[なまえ]を 忘[わす]れてしまった。
+  Ich habe ihren Namen vergessen.
+
+  新しい言葉を覚えるのは難しいです。
+  新[あたら]しい 言葉[ことば]を 覚[おぼ]えるのは 難[むずか]しいです。
+  Es ist schwierig, neue Wörter zu lernen.
+
+  橋を渡るときは気をつけてください。
+  橋[はし]を 渡[わた]るときは 気[き]をつけてください。
+  Bitte seien Sie vorsichtig, wenn Sie die Brücke überqueren.
+
+  列車が駅を通り過ぎるのを見ました。
+  列車[れっしゃ]が 駅[えき]を 通[とお]り 過[す]ぎるのを 見[み]ました。
+  Ich sah den Zug durch den Bahnhof fahren.
+
+  部屋を出る前に電気を消してね。
+  部屋[へや]を 出[で]る 前[まえ]に 電気[でんき]を 消[け]してね。
+  Schalte bitte das Licht aus, bevor du das Zimmer verlässt.
+
+  空を飛ぶ鳥を見るのが好きです。
+  空[そら]を 飛[と]ぶ 鳥[とり]を 見[み]るのが 好[す]きです。
+  Ich mag es, Vögel am Himmel fliegen zu sehen.
+
+  彼女は窓を開けて新鮮な空気を入れた。
+  彼女[かのじょ]は 窓[まど]を 開[あ]けて 新鮮[しんせん]な 空気[くうき]を 入[い]れた。
+  Sie öffnete das Fenster, um frische Luft hereinzulassen.
+
+  この道を真っ直ぐ行けば駅に着きます。
+  この 道[みち]を 真[ま]っ 直[す]ぐ 行[い]けば 駅[えき]に 着[つ]きます。
+  Wenn Sie dieser Straße geradeaus folgen, kommen Sie zum Bahnhof.
+
+  彼は毎日公園を散歩します。
+  彼[かれ]は 毎日[まいにち] 公園[こうえん]を 散歩[さんぽ]します。
+  Er geht jeden Tag im Park spazieren.
+
+  テーブルを拭いてください。
+  テーブルを 拭[ふ]いてください。
+  Bitte wischen Sie den Tisch ab.
+
+  彼女は私を見て微笑んだ。
+  彼女[かのじょ]は 私[わたし]を 見[み]て 微笑[ほほえ]んだ。
+  Sie sah mich an und lächelte.
+
+  先生は黒板を消した。
+  先生[せんせい]は 黒板[こくばん]を 消[け]した。
+  Der Lehrer wischte die Tafel ab.
+
+  このボタンを押すと、機械が動き始めます。
+  このボタンを 押[お]すと、機械[きかい]が 動[うご]き 始[はじ]めます。
+  Wenn Sie diesen Knopf drücken, beginnt die Maschine zu arbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 1807
 Lemma: なくす
 Lesung: ''
-Alternativschreibweisen: 無くす
-Definition: (etw.) verlieren
+Alternativschreibweisen: 無くす・失くす
+Definition: verlieren; abschaffen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>な</span><span class="accent_plain">く</span><span class="accent_plain">す</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: なくさない・なくした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   財布をなくしてしまったみたいだ。
   財布[さいふ]をなくしてしまったみたいだ。
   Es scheint, als hätte ich meine Brieftasche verloren.
+
+  腕時計をなくしてしまって、困っています。
+  腕時計[うでどけい]をなくしてしまって、困[こま]っています。
+  Ich habe meine Armbanduhr verloren und bin jetzt in Schwierigkeiten.
+
+  財布をなくしたので、新しいのを買わなければなりません。
+  財布[さいふ]をなくしたので、新[あたら]しいのを 買[か]わなければなりません。
+  Ich habe meine Geldbörse verloren, also muss ich eine neue kaufen.
+
+  試合に負けて、彼は自信をなくしてしまった。
+  試合[しあい]に 負[ま]けて、彼[かれ]は 自信[じしん]をなくしてしまった。
+  Nachdem er das Spiel verloren hatte, verlor er sein Selbstvertrauen.
+
+  長い間運動していなかったので、体力をなくしてしまいました。
+  長[なが]い 間[あいだ] 運動[うんどう]していなかったので、体力[たいりょく]をなくしてしまいました。
+  Da ich lange Zeit keinen Sport gemacht habe, habe ich meine Kondition verloren.
+
+  仕事がうまくいかず、やる気をなくしている。
+  仕事[しごと]がうまくいかず、やる 気[き]をなくしている。
+  Die Arbeit läuft nicht gut, und ich habe die Motivation verloren.
+
+  彼女は事故で意識をなくし、病院に運ばれました。
+  彼女[かのじょ]は 事故[じこ]で 意識[いしき]をなくし、病院[びょういん]に 運[はこ]ばれました。
+  Sie verlor bei dem Unfall das Bewusstsein und wurde ins Krankenhaus gebracht.
+
+  この言葉は時代とともに意味をなくしてしまった。
+  この 言葉[ことば]は 時代[じだい]とともに 意味[いみ]をなくしてしまった。
+  Dieses Wort hat im Laufe der Zeit seine Bedeutung verloren.
+
+  彼は会社の信用をなくして、解雇されてしまった。
+  彼[かれ]は 会社[かいしゃ]の 信用[しんよう]をなくして、解雇[かいこ]されてしまった。
+  Er verlor das Vertrauen der Firma und wurde entlassen.
+
+  風邪をひいて元気をなくしています。
+  風邪[かぜ]をひいて 元気[げんき]をなくしています。
+  Ich habe eine Erkältung und fühle mich nicht wohl.
+
+  切符をなくさないように、しっかりとポケットにしまいました。
+  切符[きっぷ]をなくさないように、しっかりとポケットにしまいました。
+  Ich habe das Ticket sorgfältig in meine Tasche gesteckt, damit ich es nicht verliere.
+
+  記憶をなくした主人公の物語は、とても興味深かった。
+  記憶[きおく]をなくした 主人公[しゅじんこう]の 物語[ものがたり]は、とても 興味深[きょうみぶか]かった。
+  Die Geschichte über den Protagonisten, der sein Gedächtnis verloren hat, war sehr interessant.
+
+  看板の文字がバランスをなくして、傾いています。
+  看板[かんばん]の 文字[もじ]がバランスをなくして、傾[かたむ]いています。
+  Die Buchstaben auf dem Schild haben ihr Gleichgewicht verloren und sind geneigt.
+
+  交通事故をなくすために、安全運転を心がけましょう。
+  交通事故[こうつうじこ]をなくすために、安全運転[あんぜんうんてん]を 心[こころ]がけましょう。
+  Lasst uns vorsichtig fahren, um Verkehrsunfälle zu vermeiden.
+
+  世界から戦争をなくすことは、簡単ではありません。
+  世界[せかい]から 戦争[せんそう]をなくすことは、簡単[かんたん]ではありません。
+  Es ist nicht einfach, Kriege aus der Welt zu schaffen.
+
+  「三十五を過ぎたら、ビールを飲む習慣はなくした方がいいよ」と医者に言われた。
+  「三十五[さんじゅうご]を 過[す]ぎたら、ビールを 飲[の]む 習慣[しゅうかん]はなくした 方[ほう]がいいよ」と 医者[いしゃ]に 言[い]われた。
+  "Wenn du über 35 bist, solltest du die Angewohnheit des Biertrinkens aufgeben", sagte der Arzt zu mir.
+
+  スマートフォンをなくして、連絡が取れなくなってしまった。
+  スマートフォンをなくして、連絡[れんらく]が 取[と]れなくなってしまった。
+  Ich habe mein Smartphone verloren und kann nun keine Kontakte mehr herstellen.
+
+  彼は仕事をなくして、生活に困っているようだ。
+  彼[かれ]は 仕事[しごと]をなくして、生活[せいかつ]に 困[こま]っているようだ。
+  Er scheint seinen Job verloren zu haben und hat nun Schwierigkeiten, über die Runden zu kommen.
+
+  大切な書類をなくして、上司に叱られてしまった。
+  大切[たいせつ]な 書類[しょるい]をなくして、上司[じょうし]に 叱[しか]られてしまった。
+  Ich wurde von meinem Vorgesetzten gescholten, weil ich wichtige Dokumente verloren habe.
+
+  彼女は両親をなくして、親戚の家で育った。
+  彼女[かのじょ]は 両親[りょうしん]をなくして、親戚[しんせき]の 家[いえ]で 育[そだ]った。
+  Sie hat ihre Eltern verloren und wurde im Haus von Verwandten großgezogen.
+
+  この地域から伝統文化をなくさないように、若い世代にも伝えていく必要がある。
+  この 地域[ちいき]から 伝統文化[でんとうぶんか]をなくさないように、若[わか]い 世代[せだい]にも 伝[つた]えていく 必要[ひつよう]がある。
+  Um die traditionelle Kultur in dieser Region nicht zu verlieren, müssen wir sie auch an die jüngere Generation weitergeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

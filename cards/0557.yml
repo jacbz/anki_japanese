@@ -1,7 +1,7 @@
 Rang: 557
 Lemma: 上がる
 Lesung: あがる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 揚がる・挙がる・騰る・昂がる
 Definition: steigen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">が</span><span 
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: あがらない・あがった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   38度まで気温が上がった。
   38 度[ど]まで 気温[きおん]が 上[あ]がった。
   Die Temperatur stieg auf 38 Grad.
+
+  花火が空高く上がり、観客から歓声が上がった。
+  花火[はなび]が 空高[そらたか]く 上[あ]がり、観客[かんきゃく]から 歓声[かんせい]が 上[あ]がった。
+  Als das Feuerwerk hoch in den Himmel aufstieg, erhob sich Jubel aus dem Publikum.
+
+  梯子を登って屋根に上がり、修理を始めた。
+  梯子[はしご]を 登[のぼ]って 屋根[やね]に 上[あ]がり、修理[しゅうり]を 始[はじ]めた。
+  Ich stieg die Leiter hinauf aufs Dach und begann mit der Reparatur.
+
+  物価が上がって、生活が苦しくなってきた。
+  物価[ぶっか]が 上[あ]がって、生活[せいかつ]が 苦[くる]しくなってきた。
+  Die Preise sind gestiegen, und das Leben ist schwieriger geworden.
+
+  彼の株が上がり、会社での評価が高まった。
+  彼[かれ]の 株[かぶ]が 上[あ]がり、会社[かいしゃ]での 評価[ひょうか]が 高[たか]まった。
+  Sein Ansehen ist gestiegen, und seine Bewertung in der Firma hat sich verbessert.
+
+  試験で緊張して上がってしまい、うまく答えられなかった。
+  試験[しけん]で 緊張[きんちょう]して 上[あ]がってしまい、うまく 答[こた]えられなかった。
+  Ich wurde bei der Prüfung so nervös, dass ich nicht gut antworten konnte.
+
+  「どうぞお上がりください」と言って、客を部屋に招き入れた。
+  「どうぞお 上[あ]がりください」と 言[い]って、客[きゃく]を 部屋[へや]に 招[まね]き 入[い]れた。
+  "Bitte treten Sie ein", sagte ich und bat den Gast ins Zimmer.
+
+  船から上がり、久しぶりに陸の感触を味わった。
+  船[ふね]から 上[あ]がり、久[ひさ]しぶりに 陸[りく]の 感触[かんしょく]を 味[あじ]わった。
+  Ich stieg aus dem Schiff und spürte nach langer Zeit wieder festen Boden unter den Füßen.
+
+  彼女は高校に上がってから、急に大人っぽくなった。
+  彼女[かのじょ]は 高校[こうこう]に 上[あ]がってから、急[きゅう]に 大人[おとな]っぽくなった。
+  Nachdem sie in die Oberschule gekommen war, wurde sie plötzlich viel erwachsener.
+
+  国旗が上がるのを見て、胸が熱くなった。
+  国旗[こっき]が 上[あ]がるのを 見[み]て、胸[むね]が 熱[あつ]くなった。
+  Als ich sah, wie die Nationalflagge gehisst wurde, wurde mir warm ums Herz.
+
+  新しい証拠が上がり、事件の真相が明らかになってきた。
+  新[あたら]しい 証拠[しょうこ]が 上[あ]がり、事件[じけん]の 真相[しんそう]が 明[あき]らかになってきた。
+  Neue Beweise kamen ans Licht, und die wahren Umstände des Vorfalls wurden klar.
+
+  長雨が上がり、久しぶりに青空が広がった。
+  長雨[ながあめ]が 上[あ]がり、久[ひさ]しぶりに 青空[あおぞら]が 広[ひろ]がった。
+  Der lang anhaltende Regen hörte auf, und zum ersten Mal seit langem breitete sich blauer Himmel aus.
+
+  給料が上がったので、新しい車を買うことにした。
+  給料[きゅうりょう]が 上[あ]がったので、新[あたら]しい 車[くるま]を 買[か]うことにした。
+  Da mein Gehalt gestiegen ist, habe ich beschlossen, ein neues Auto zu kaufen.
+
+  風呂から上がったら、すぐにお茶を飲んだ。
+  風呂[ふろ]から 上[あ]がったら、すぐにお 茶[ちゃ]を 飲[の]んだ。
+  Nachdem ich aus dem Bad gestiegen war, trank ich sofort einen Tee.
+
+  彼の腕前が上がり、チームの主力選手になった。
+  彼[かれ]の 腕前[うでまえ]が 上[あ]がり、チームの 主力[しゅりょく]選手[せんしゅ]になった。
+  Seine Fähigkeiten haben sich verbessert, und er wurde zum Hauptspieler des Teams.
+
+  気温が急に上がり、熱中症の注意報が出た。
+  気温[きおん]が 急[きゅう]に 上[あ]がり、熱中症[ねっちゅうしょう]の 注意報[ちゅういほう]が 出[で]た。
+  Die Temperatur stieg plötzlich an, und es wurde eine Hitzewarnung ausgegeben.
+
+  小学校に上がる前から、勉強熱心な子供だった。
+  小学校[しょうがっこう]に 上[あ]がる 前[まえ]から、勉強熱心[べんきょうねっしん]な 子供[こども]だった。
+  Schon bevor er in die Grundschule kam, war er ein lerneifriges Kind.
+
+  火の手が上がり、消防車のサイレンが鳴り響いた。
+  火[ひ]の 手[て]が 上[あ]がり、消防車[しょうぼうしゃ]のサイレンが 鳴[な]り 響[ひび]いた。
+  Flammen schlugen hoch, und die Sirenen der Feuerwehrautos heulten.
+
+  生産効率が上がり、会社の業績が改善された。
+  生産[せいさん]効率[こうりつ]が 上[あ]がり、会社[かいしゃ]の 業績[ぎょうせき]が 改善[かいぜん]された。
+  Die Produktionseffizienz stieg, und die Leistung des Unternehmens verbesserte sich.
+
+  プールから上がると、寒さで体が震えた。
+  プールから 上[あ]がると、寒[さむ]さで 体[からだ]が 震[ふる]えた。
+  Als ich aus dem Pool stieg, zitterte mein Körper vor Kälte.
+
+  彼女の歌声が上がると、会場は静まり返った。
+  彼女[かのじょ]の 歌声[うたごえ]が 上[あ]がると、会場[かいじょう]は 静[しず]まり 返[かえ]った。
+  Als ihre Stimme erklang, wurde es im Saal mucksmäuschenstill.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

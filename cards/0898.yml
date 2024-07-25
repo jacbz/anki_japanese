@@ -1,15 +1,15 @@
 Rang: 898
 Lemma: 通す
 Lesung: とおす
-Alternativschreibweisen: ''
-Definition: durchlassen
+Alternativschreibweisen: 透す・徹す
+Definition: durchlassen; durchführen; durchsetzen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: <span class="accent_top">と</span><span>お</span><span>す</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 通さない・通した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   彼女は友達を部屋に通した。
   彼女[かのじょ]は 友達[ともだち]を 部屋[へや]に 通[とお]した。
   Sie ließ ihre Freunde ins Zimmer und zeigte es ihnen.
+
+  車を通してください。
+  車[くるま]を 通[とお]してください。
+  Bitte lassen Sie das Auto durch.
+
+  針に糸を通すのが難しい。
+  針[はり]に 糸[いと]を 通[とお]すのが 難[むずか]しい。
+  Es ist schwierig, den Faden durch die Nadel zu fädeln.
+
+  新しい道路を通すプロジェクトが始まった。
+  新[あたら]しい 道路[どうろ]を 通[とお]すプロジェクトが 始[はじ]まった。
+  Das Projekt zum Bau einer neuen Straße hat begonnen.
+
+  この生地は光をよく通す。
+  この 生地[きじ]は 光[ひかり]をよく 通[とお]す。
+  Dieser Stoff lässt Licht gut durch.
+
+  雨を通さない傘を買った。
+  雨[あめ]を 通[とお]さない 傘[かさ]を 買[か]った。
+  Ich habe einen regendichten Schirm gekauft.
+
+  お客様を2階へ通してください。
+  お 客様[きゃくさま]を2階[にかい]へ 通[とお]してください。
+  Bitte führen Sie den Gast in den ersten Stock.
+
+  彼は無理を通そうとしている。
+  彼[かれ]は 無理[むり]を 通[とお]そうとしている。
+  Er versucht, etwas Unmögliches durchzusetzen.
+
+  議会は新しい法案を通した。
+  議会[ぎかい]は 新[あたら]しい 法案[ほうあん]を 通[とお]した。
+  Das Parlament hat den neuen Gesetzentwurf verabschiedet.
+
+  その提案を上司に通してください。
+  その 提案[ていあん]を 上司[じょうし]に 通[とお]してください。
+  Bitte leiten Sie den Vorschlag an Ihren Vorgesetzten weiter.
+
+  彼の説明は筋が通っている。
+  彼[かれ]の 説明[せつめい]は 筋[すじ]が 通[とお]っている。
+  Seine Erklärung ist logisch nachvollziehbar.
+
+  彼女は病気を通して休暇を取った。
+  彼女[かのじょ]は 病気[びょうき]を 通[とお]して 休暇[きゅうか]を 取[と]った。
+  Sie nahm sich Urlaub, indem sie vorgab, krank zu sein.
+
+  窓を通して外の景色が見える。
+  窓[まど]を 通[とお]して 外[そと]の 景色[けしき]が 見[み]える。
+  Man kann die Aussicht durch das Fenster sehen.
+
+  三日通して雨が降り続いた。
+  三日[みっか] 通[とお]して 雨[あめ]が 降[ふ]り 続[つづ]いた。
+  Es regnete drei Tage lang ununterbrochen.
+
+  夜を通して作業を続けた。
+  夜[よる]を 通[とお]して 作業[さぎょう]を 続[つづ]けた。
+  Ich arbeitete die ganze Nacht hindurch.
+
+  熱湯を通して野菜を殺菌した。
+  熱湯[ねっとう]を 通[とお]して 野菜[やさい]を 殺菌[さっきん]した。
+  Ich desinfizierte das Gemüse mit kochendem Wasser.
+
+  彼は一生独身で通すつもりだ。
+  彼[かれ]は 一生[いっしょう] 独身[どくしん]で 通[とお]すつもりだ。
+  Er hat vor, sein ganzes Leben lang ledig zu bleiben.
+
+  冬でも半袖シャツで通す人もいる。
+  冬[ふゆ]でも 半袖[はんそで]シャツで 通[とお]す 人[ひと]もいる。
+  Es gibt Leute, die auch im Winter kurzärmlige Hemden tragen.
+
+  被疑者は黙秘を通した。
+  被疑者[ひぎしゃ]は 黙秘[もくひ]を 通[とお]した。
+  Der Verdächtige bewahrte durchgehend Stillschweigen.
+
+  彼女は一晩中泣き通した。
+  彼女[かのじょ]は 一晩中[ひとばんじゅう] 泣[な]き 通[とお]した。
+  Sie weinte die ganze Nacht hindurch.
+
+  この本を読み通すのに3日かかった。
+  この 本[ほん]を 読[よ]み 通[とお]すのに3日[みっか]かかった。
+  Es hat drei Tage gedauert, dieses Buch ganz durchzulesen.
+
+  新聞に目を通して最新ニュースをチェックした。
+  新聞[しんぶん]に 目[め]を 通[とお]して 最新[さいしん]ニュースをチェックした。
+  Ich überflog die Zeitung, um die neuesten Nachrichten zu überprüfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

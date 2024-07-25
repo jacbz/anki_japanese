@@ -2,7 +2,7 @@ Rang: 924
 Lemma: 教育
 Lesung: きょういく
 Alternativschreibweisen: ''
-Definition: Bildung
+Definition: Bildung, Erziehung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>きょ</span><span class="accent_plain">う</span><span class="accent_plain">い</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>きょ</span><span class="accent_plain">う</span><sp
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 教育しない・教育した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   良い教育を受けた。
   良[よ]い 教育[きょういく]を 受[う]けた。
   Ich hatte eine gute Bildung.
+
+  教育番組を見て、新しい知識を得ることができます。
+  教育[きょういく]番組[ばんぐみ]を 見[み]て、新[あたら]しい 知識[ちしき]を 得[え]ることができます。
+  Durch das Anschauen von Bildungsprogrammen können wir neues Wissen erlangen.
+
+  彼は教育学部で教員免許を取得しました。
+  彼[かれ]は 教育学部[きょういくがくぶ]で 教員[きょういん]免許[めんきょ]を 取得[しゅとく]しました。
+  Er hat an der pädagogischen Fakultät seine Lehrerlaubnis erworben.
+
+  子供の教育費が年々増加しています。
+  子供[こども]の 教育費[きょういくひ]が 年々[ねんねん] 増加[ぞうか]しています。
+  Die Bildungskosten für Kinder steigen von Jahr zu Jahr.
+
+  新しい教育方法を導入する計画があります。
+  新[あたら]しい 教育方法[きょういくほうほう]を 導入[どうにゅう]する 計画[けいかく]があります。
+  Es gibt Pläne, neue Lehrmethoden einzuführen.
+
+  教育委員会が新しいカリキュラムを承認しました。
+  教育委員会[きょういくいいんかい]が 新[あたら]しい カリキュラムを 承認[しょうにん]しました。
+  Der Erziehungsausschuss hat ein neues Curriculum genehmigt.
+
+  彼女は教育実習生として小学校で働いています。
+  彼女[かのじょ]は 教育実習生[きょういくじっしゅうせい]として 小学校[しょうがっこう]で 働[はたら]いています。
+  Sie arbeitet als Referendarin an einer Grundschule.
+
+  日本の教育改革について、様々な意見があります。
+  日本[にほん]の 教育改革[きょういくかいかく]について、様々[さまざま]な 意見[いけん]があります。
+  Es gibt verschiedene Meinungen zur Bildungsreform in Japan.
+
+  この学校は良い教育環境を提供しています。
+  この 学校[がっこう]は 良[よ]い 教育環境[きょういくかんきょう]を 提供[ていきょう]しています。
+  Diese Schule bietet eine gute Lernumgebung.
+
+  教育権は基本的な人権の一つです。
+  教育権[きょういくけん]は 基本的[きほんてき]な 人権[じんけん]の 一[ひと]つです。
+  Das Recht auf Bildung ist eines der grundlegenden Menschenrechte.
+
+  新しい教育機器を導入して、授業の質を向上させたいです。
+  新[あたら]しい 教育機器[きょういくきき]を 導入[どうにゅう]して、授業[じゅぎょう]の 質[しつ]を 向上[こうじょう]させたいです。
+  Wir möchten neue Unterrichtsgeräte einführen, um die Qualität des Unterrichts zu verbessern.
+
+  教育ママの過干渉が子供の自立を妨げることがあります。
+  教育[きょういく]ママの 過干渉[かかんしょう]が 子供[こども]の 自立[じりつ]を 妨[さまた]げることがあります。
+  Die Überbetreuung durch eine bildungsbesessene Mutter kann die Unabhängigkeit des Kindes behindern.
+
+  彼は教育者として生徒たちから尊敬されています。
+  彼[かれ]は 教育者[きょういくしゃ]として 生徒[せいと]たちから 尊敬[そんけい]されています。
+  Er wird als Pädagoge von seinen Schülern respektiert.
+
+  この教育施設は最新の設備を備えています。
+  この 教育施設[きょういくしせつ]は 最新[さいしん]の 設備[せつび]を 備[そな]えています。
+  Diese Bildungseinrichtung ist mit den neuesten Anlagen ausgestattet.
+
+  教育相談所で子育ての悩みについて相談できます。
+  教育相談所[きょういくそうだんじょ]で 子育[こそだ]ての 悩[なや]みについて 相談[そうだん]できます。
+  In der Erziehungsberatungsstelle können Sie sich zu Problemen bei der Kindererziehung beraten lassen.
+
+  日本の教育水準は世界的に見ても高いとされています。
+  日本[にほん]の 教育水準[きょういくすいじゅん]は 世界的[せかいてき]に 見[み]ても 高[たか]いとされています。
+  Das Bildungsniveau in Japan gilt auch im weltweiten Vergleich als hoch.
+
+  大学教育を受けることで、視野が広がりました。
+  大学教育[だいがくきょういく]を 受[う]けることで、視野[しや]が 広[ひろ]がりました。
+  Durch die universitäre Ausbildung hat sich mein Horizont erweitert.
+
+  義務教育は全ての子供に平等な学習機会を提供します。
+  義務教育[ぎむきょういく]は 全[すべ]ての 子供[こども]に 平等[びょうどう]な 学習機会[がくしゅうきかい]を 提供[ていきょう]します。
+  Die Pflichtschulbildung bietet allen Kindern gleiche Lernchancen.
+
+  音楽教育は子供の創造性を育むのに役立ちます。
+  音楽教育[おんがくきょういく]は 子供[こども]の 創造性[そうぞうせい]を 育[はぐく]むのに 役立[やくだ]ちます。
+  Musikalische Erziehung hilft, die Kreativität von Kindern zu fördern.
+
+  生涯教育の重要性が近年ますます認識されています。
+  生涯教育[しょうがいきょういく]の 重要性[じゅうようせい]が 近年[きんねん]ますます 認識[にんしき]されています。
+  Die Bedeutung des lebenslangen Lernens wird in den letzten Jahren zunehmend erkannt.
+
+  教育的な配慮から、その場で注意するのを控えました。
+  教育的[きょういくてき]な 配慮[はいりょ]から、その 場[ば]で 注意[ちゅうい]するのを 控[ひか]えました。
+  Aus pädagogischen Erwägungen habe ich davon abgesehen, in der Situation direkt zu ermahnen.
+
+  親が子供を適切に教育することは重要です。
+  親[おや]が 子供[こども]を 適切[てきせつ]に 教育[きょういく]することは 重要[じゅうよう]です。
+  Es ist wichtig, dass Eltern ihre Kinder angemessen erziehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

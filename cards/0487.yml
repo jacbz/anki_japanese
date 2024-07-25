@@ -1,15 +1,15 @@
 Rang: 487
 Lemma: 当たる
 Lesung: あたる
-Alternativschreibweisen: ''
-Definition: treffen, stoßen
+Alternativschreibweisen: 当る・中る
+Definition: (zu-)treffen, stoßen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">た</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 当たらない・当たった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   ボールが頭に当たった。
   ボールが 頭[あたま]に 当[あ]たった。
   Der Ball traf meinen Kopf.
+
+  雨が窓に当たっている。
+  雨[あめ]が 窓[まど]に 当[あ]たっている。
+  Der Regen prasselt gegen das Fenster.
+
+  頭に石が当たって痛かった。
+  頭[あたま]に 石[いし]が 当[あ]たって 痛[いた]かった。
+  Ein Stein traf meinen Kopf und es tat weh.
+
+  日当たりのいい場所で本を読むのが好きだ。
+  日当[ひあ]たりのいい 場所[ばしょ]で 本[ほん]を 読[よ]むのが 好[す]きだ。
+  Ich lese gerne an einem sonnigen Platz.
+
+  風に当たると気分がすっきりする。
+  風[かぜ]に 当[あ]たると 気分[きぶん]がすっきりする。
+  Wenn ich an die frische Luft gehe, fühle ich mich erfrischt.
+
+  この靴は少し小さくて、足に当たる。
+  この 靴[くつ]は 少[すこ]し 小[ちい]さくて、足[あし]に 当[あ]たる。
+  Diese Schuhe sind etwas zu klein und drücken an den Füßen.
+
+  彼の発言は急所に当たり、議論が白熱した。
+  彼[かれ]の 発言[はつげん]は 急所[きゅうしょ]に 当[あ]たり、議論[ぎろん]が 白熱[はくねつ]した。
+  Seine Äußerung traf einen wunden Punkt, und die Diskussion wurde hitzig.
+
+  天気予報が当たって、予定通りピクニックに行けた。
+  天気予報[てんきよほう]が 当[あ]たって、予定通[よていどお]りピクニックに 行[い]けた。
+  Die Wettervorhersage traf zu, und wir konnten wie geplant zum Picknick gehen.
+
+  彼女の勘は鋭くて、いつも当たる。
+  彼女[かのじょ]の 勘[かん]は 鋭[するど]くて、いつも 当[あ]たる。
+  Ihr Instinkt ist scharf und trifft immer ins Schwarze.
+
+  今日は授業中によく当たった。
+  今日[きょう]は 授業中[じゅぎょうちゅう]によく 当[あ]たった。
+  Heute wurde ich im Unterricht oft aufgerufen.
+
+  明日は私が掃除当番に当たっている。
+  明日[あした]は 私[わたし]が 掃除当番[そうじとうばん]に 当[あ]たっている。
+  Morgen bin ich mit dem Putzdienst an der Reihe.
+
+  宝くじが当たって、一等賞を獲得した。
+  宝[たから]くじが 当[あ]たって、一等賞[いっとうしょう]を 獲得[かくとく]した。
+  Ich habe in der Lotterie gewonnen und den Hauptpreis bekommen.
+
+  新しい映画が大当たりで、チケットが完売した。
+  新[あたら]しい 映画[えいが]が 大当[おおあ]たりで、チケットが 完売[かんばい]した。
+  Der neue Film ist ein großer Erfolg und die Tickets sind ausverkauft.
+
+  彼は難しい案件に当たることになった。
+  彼[かれ]は 難[むずか]しい 案件[あんけん]に 当[あ]たることになった。
+  Er wurde mit einem schwierigen Fall betraut.
+
+  チームは強敵に当たり、全力を尽くして戦った。
+  チームは 強敵[きょうてき]に 当[あ]たり、全力[ぜんりょく]を 尽[つ]くして 戦[たたか]った。
+  Das Team stellte sich einem starken Gegner und kämpfte mit aller Kraft.
+
+  この日本語の表現は英語に当たる言葉がない。
+  この 日本語[にほんご]の 表現[ひょうげん]は 英語[えいご]に 当[あ]たる 言葉[ことば]がない。
+  Für diesen japanischen Ausdruck gibt es keine entsprechende Formulierung im Englischen.
+
+  彼の誕生日は今年日曜日に当たっている。
+  彼[かれ]の 誕生日[たんじょうび]は 今年[ことし] 日曜日[にちようび]に 当[あ]たっている。
+  Sein Geburtstag fällt dieses Jahr auf einen Sonntag.
+
+  辞書で言葉の意味を当たってみよう。
+  辞書[じしょ]で 言葉[ことば]の 意味[いみ]を 当[あ]たってみよう。
+  Lass uns die Bedeutung des Wortes im Wörterbuch nachschlagen.
+
+  新しい店の評判を周りの人に当たってみた。
+  新[あたら]しい 店[みせ]の 評判[ひょうばん]を 周[まわ]りの 人[ひと]に 当[あ]たってみた。
+  Ich habe mich bei den Leuten in der Umgebung nach dem Ruf des neuen Ladens erkundigt.
+
+  彼女は面接の前に、会社の情報をしっかり当たった。
+  彼女[かのじょ]は 面接[めんせつ]の 前[まえ]に、会社[かいしゃ]の 情報[じょうほう]をしっかり 当[あ]たった。
+  Vor dem Vorstellungsgespräch recherchierte sie gründlich Informationen über das Unternehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
