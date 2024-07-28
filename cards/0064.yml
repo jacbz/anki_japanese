@@ -1,7 +1,7 @@
 Rang: 64
 Lemma: 来る
 Lesung: くる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 來る
 Definition: kommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">く</span><span class="">る</span
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 来ない・来た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,110 @@ Beispielsätze: |-
   ここに来てください。
   ここに 来[き]てください。
   Komm bitte hierher.
+
+  明日また来るね。
+  明日[あした]また 来[く]るね。
+  Ich komme morgen wieder.
+
+  バスがもうすぐ来ます。
+  バスがもうすぐ 来[き]ます。
+  Der Bus kommt gleich.
+
+  電気が来ないので、ろうそくを使っています。
+  電気[でんき]が 来[こ]ないので、ろうそくを 使[つか]っています。
+  Da wir keinen Strom haben, benutzen wir Kerzen.
+
+  痛みが来たら、すぐに言ってください。
+  痛[いた]みが 来[き]たら、すぐに 言[い]ってください。
+  Sag mir sofort Bescheid, wenn Schmerzen auftreten.
+
+  自転車で来たので、少し疲れました。
+  自転車[じてんしゃ]で 来[き]たので、少[すこ]し 疲[つか]れました。
+  Ich bin mit dem Fahrrad gekommen, daher bin ich etwas müde.
+
+  もうすぐあなたの順番が来るよ。
+  もうすぐあなたの 順番[じゅんばん]が 来[く]るよ。
+  Du bist gleich an der Reihe.
+
+  突然客が来たので、慌てて掃除しました。
+  突然[とつぜん] 客[きゃく]が 来[き]たので、慌[あわ]てて 掃除[そうじ]しました。
+  Weil plötzlich Besuch kam, habe ich hastig aufgeräumt.
+
+  彼の話を聞いて、胸にじいんと来ました。
+  彼[かれ]の 話[はなし]を 聞[き]いて、胸[むね]にじいんと 来[き]ました。
+  Seine Geschichte hat mich tief berührt.
+
+  夏が来るのが待ち遠しいです。
+  夏[なつ]が 来[く]るのが 待[ま]ち 遠[どお]しいです。
+  Ich kann es kaum erwarten, dass der Sommer kommt.
+
+  ストレスが胃に来て、食欲がありません。
+  ストレスが 胃[い]に 来[き]て、食欲[しょくよく]がありません。
+  Der Stress schlägt mir auf den Magen, ich habe keinen Appetit.
+
+  郵便が来るのを楽しみに待っています。
+  郵便[ゆうびん]が 来[く]るのを 楽[たの]しみに 待[ま]っています。
+  Ich warte gespannt darauf, dass die Post kommt.
+
+  夕立が来そうだから、洗濯物を取り込もう。
+  夕立[ゆうだち]が 来[く]そうだから、洗濯物[せんたくもの]を 取[と]り 込[こ]もう。
+  Es sieht nach einem Platzregen aus, lass uns die Wäsche reinholen.
+
+  本を取りに来ました。準備はできていますか？
+  本[ほん]を 取[と]りに 来[き]ました。準備[じゅんび]はできていますか？
+  Ich bin gekommen, um das Buch abzuholen. Ist es fertig?
+
+  遊びに来たんじゃないんだ。仕事で来たんだ。
+  遊[あそ]びに 来[き]たんじゃないんだ。仕事[しごと]で 来[き]たんだ。
+  Ich bin nicht zum Spaß hier. Ich bin geschäftlich hier.
+
+  このアイデアはどこから来たの？
+  このアイデアはどこから 来[き]たの？
+  Woher kommt diese Idee?
+
+  ドイツから来た留学生と友達になりました。
+  ドイツから 来[き]た 留学生[りゅうがくせい]と 友達[ともだち]になりました。
+  Ich habe mich mit einem Austauschstudenten aus Deutschland angefreundet.
+
+  その事故は不注意から来たものだ。
+  その 事故[じこ]は 不注意[ふちゅうい]から 来[き]たものだ。
+  Der Unfall ist auf Unachtsamkeit zurückzuführen.
+
+  彼の病気は過労から来たものだと思います。
+  彼[かれ]の 病気[びょうき]は 過労[かろう]から 来[き]たものだと 思[おも]います。
+  Ich denke, seine Krankheit ist auf Überarbeitung zurückzuführen.
+
+  彼は酒と来たら目がない。
+  彼[かれ]は 酒[さけ]と 来[き]たら 目[め]がない。
+  Was Alkohol angeht, so kann er nicht widerstehen.
+
+  買い物に行って来るね。何か必要なものある？
+  買い物[かいもの]に 行[い]って 来[く]るね。何[なに]か 必要[ひつよう]なものある？
+  Ich gehe einkaufen. Brauchst du etwas?
+
+  雨が降って来たから、傘を持っていこう。
+  雨[あめ]が 降[ふ]って 来[き]たから、傘[かさ]を 持[も]っていこう。
+  Es hat angefangen zu regnen, lass uns einen Schirm mitnehmen.
+
+  最近太って来たので、運動を始めました。
+  最近[さいきん] 太[ふと]って 来[き]たので、運動[うんどう]を 始[はじ]めました。
+  Da ich in letzter Zeit zugenommen habe, habe ich angefangen Sport zu treiben.
+
+  眠くなって来たので、もう寝ます。
+  眠[ねむ]くなって 来[き]たので、もう 寝[ね]ます。
+  Ich werde schläfrig, also gehe ich jetzt ins Bett.
+
+  走って来た子供たちが公園に集まっています。
+  走[はし]って 来[き]た 子供[こども]たちが 公園[こうえん]に 集[あつ]まっています。
+  Die Kinder, die hergerannt kamen, versammeln sich im Park.
+
+  ずっとこの町に暮らして来たので、思い出がたくさんあります。
+  ずっとこの 町[まち]に 暮らして 来[き]たので、思い出[おもいで]がたくさんあります。
+  Da ich schon immer in dieser Stadt gelebt habe, habe ich viele Erinnerungen.
+
+  母が夕食を持って来てくれました。
+  母[はは]が 夕食[ゆうしょく]を 持[も]って 来[き]てくれました。
+  Meine Mutter hat mir das Abendessen gebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

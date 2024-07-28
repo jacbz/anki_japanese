@@ -2,9 +2,9 @@ Rang: 7
 Lemma: が
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: NOMINATIV; aber
+Definition: '[Subjektpartikel]; aber'
 Extra: '' # Nur bei suru-Verben
-Wortart: postp
+Wortart: postp, konj
 Lesung mit Tonhöhe: ''
 Register: ↗</>Bücher
 Dispersion: '100'
@@ -26,9 +26,116 @@ Beispielsätze: |-
   旅行[りょこう]に 行[い]きたい。が、 時間[じかん]がない。
   Ich möchte reisen, aber ich habe keine Zeit.
 
+  外が少し明るくなってきた。
+  外[そと]が 少[すこ]し 明[あか]るくなってきた。
+  Es ist draußen ein wenig heller geworden.
+
+  バスが着くまで、あと10分ほどです。
+  バスが 着[つ]くまで、あと10分[ふん]ほどです。
+  Es dauert noch etwa 10 Minuten, bis der Bus ankommt.
+
+  新しい自転車が欲しいんだ。
+  新[あたら]しい 自転車[じてんしゃ]が 欲[ほ]しいんだ。
+  Ich möchte ein neues Fahrrad haben.
+
+  英語ができる人を探しています。
+  英語[えいご]ができる 人[ひと]を 探[さが]しています。
+  Wir suchen jemanden, der Englisch kann.
+
+  彼女は犬が怖いらしい。
+  彼女[かのじょ]は 犬[いぬ]が 怖[こわ]いらしい。
+  Es scheint, dass sie Angst vor Hunden hat.
+
+  この本が読みたい人は手を挙げてください。
+  この 本[ほん]が 読[よ]みたい 人[ひと]は 手[て]を 挙[あ]げてください。
+  Wer dieses Buch lesen möchte, hebe bitte die Hand.
+
+  私は猫が好きですが、弟は犬が好きです。
+  私[わたし]は 猫[ねこ]が 好[す]きですが、弟[おとうと]は 犬[いぬ]が 好[す]きです。
+  Ich mag Katzen, aber mein jüngerer Bruder mag Hunde.
+
+  彼は人参が嫌いだと言っていた。
+  彼[かれ]は 人参[にんじん]が 嫌[きら]いだと 言[い]っていた。
+  Er sagte, dass er Karotten nicht mag.
+
+  泳ぐのが下手なので、プールに行くのが怖い。
+  泳[およ]ぐのが 下手[へた]なので、プールに 行[い]くのが 怖[こわ]い。
+  Ich habe Angst ins Schwimmbad zu gehen, weil ich schlecht schwimme.
+
+  今夜は月が見えるかもしれません。
+  今夜[こんや]は 月[つき]が 見[み]えるかもしれません。
+  Vielleicht können wir heute Abend den Mond sehen.
+
+  雪が降りはじめたが、すぐにやんでしまった。
+  雪[ゆき]が 降[ふ]りはじめたが、すぐにやんでしまった。
+  Es begann zu schneien, hörte aber gleich wieder auf.
+
+  彼はいつも無表情だが、実は優しい人だ。
+  彼[かれ]はいつも 無表情[むひょうじょう]だが、実[じつ]は 優[やさ]しい 人[ひと]だ。
+  Er hat zwar immer einen ausdruckslosen Gesichtsausdruck, ist aber eigentlich ein freundlicher Mensch.
+
+  本当かどうかわからないが、面白い話を聞いた。
+  本当[ほんとう]かどうかわからないが、面白[おもしろ]い 話[はなし]を 聞[き]いた。
+  Ich weiß nicht, ob es stimmt, aber ich habe eine interessante Geschichte gehört.
+
+  彼女が来ようが来まいが、私は待つつもりだ。
+  彼女[かのじょ]が 来[こ]ようが 来[こ]まいが、私[わたし]は 待[ま]つつもりだ。
+  Ob sie nun kommt oder nicht, ich habe vor zu warten.
+
+  値段がいくらだろうが、この絵を買いたい。
+  値段[ねだん]がいくらだろうが、この 絵[え]を 買[か]いたい。
+  Egal wie viel es kostet, ich möchte dieses Bild kaufen.
+
+  梅の香りが春を感じさせる。
+  梅[うめ]の 香[かお]りが 春[はる]を 感[かん]じさせる。
+  Der Duft der Pflaumenblüten lässt den Frühling spüren.
+
+  彼は生きるがために働くタイプではない。
+  彼[かれ]は 生[い]きるがために 働[はたら]くタイプではない。
+  Er ist nicht der Typ, der nur arbeitet, um zu leben.
+
+  好きなようにするがいいよ。
+  好[す]きなようにするがいいよ。
+  Du kannst es so machen, wie du möchtest.
+
+  できれば今日からでも始めたいのだが。
+  できれば 今日[きょう]からでも 始[はじ]めたいのだが。
+  Wenn möglich, würde ich gerne schon heute damit anfangen.
+
+  もう少し気をつけるがね。
+  もう 少[すこ]し 気[き]をつけるがね。
+  Du solltest etwas vorsichtiger sein.
+
+  が、彼の言葉には熱心に耳を傾けていた。
+  が、彼[かれ]の 言葉[ことば]には 熱心[ねっしん]に 耳[みみ]を 傾[かたむ]けていた。
+  Aber er hörte seinen Worten aufmerksam zu.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>
+    Kennzeichnet das Subjekt eines Satzes.
+  </p>
+  <div class="examples">
+    <div class="jp">猫[ねこ]<u>が</u> 好[す]きだ。</div>
+    <div class="de spoiler">Ich mag Katzen.</div>
+  </div>
+
+  <p>
+    Verbindet zwei Sätze adversativ.
+  </p>
+  <div class="examples">
+    <div class="jp">雨[あめ]が 降[ふ]る<u>が</u>、出[で]かける。</div>
+    <div class="de spoiler">Es regnet, aber ich gehe trotzdem aus.</div>
+  </div>
+
+  <p>
+    Drückt Unabhängigkeit von einem Ereignis aus.
+  </p>
+  <div class="examples">
+    <div class="jp">誰[だれ]が 来[く]よう<u>が</u>、待[ま]つ。</div>
+    <div class="de spoiler">Wer auch immer kommt, ich werde warten.</div>
+  </div>

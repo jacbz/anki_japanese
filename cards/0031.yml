@@ -1,10 +1,10 @@
 Rang: 31
 Lemma: けれど
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: obwohl, jedoch
+Alternativschreibweisen: けれども
+Definition: aber; obwohl; jedoch
 Extra: '' # Nur bei suru-Verben
-Wortart: konj
+Wortart: part, konj
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '64'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   このアパートはあまり良くないけれど安い。
   このアパートはあまり 良[よ]くないけれど 安[やす]い。
   Diese Wohnung ist billig, obwohl sie nicht so schön ist.
+
+  英語は難しいけれど、頑張って勉強しています。
+  英語[えいご]は 難[むずか]しいけれど、頑張[がんば]って 勉強[べんきょう]しています。
+  Englisch ist zwar schwierig, aber ich lerne fleißig.
+
+  雨が降っているけれど、散歩に行きましょう。
+  雨[あめ]が 降[ふ]っているけれど、散歩[さんぽ]に 行[い]きましょう。
+  Es regnet zwar, aber lass uns trotzdem spazieren gehen.
+
+  彼は優しい人だけれど、時々怒りっぽくなります。
+  彼[かれ]は 優[やさ]しい 人[ひと]だけれど、時々[ときどき] 怒[おこ]りっぽくなります。
+  Er ist ein netter Mensch, wird aber manchmal schnell wütend.
+
+  この本は古いけれども、とても面白いです。
+  この 本[ほん]は 古[ふる]いけれども、とても 面白[おもしろ]いです。
+  Dieses Buch ist zwar alt, aber sehr interessant.
+
+  私は料理が苦手だけれど、頑張って作ってみました。
+  私[わたし]は 料理[りょうり]が 苦手[にがて]だけれど、頑張[がんば]って 作[つく]ってみました。
+  Ich bin zwar kein guter Koch, habe aber trotzdem mein Bestes gegeben, es zuzubereiten.
+
+  彼女は忙しいけれど、いつも笑顔を絶やさない。
+  彼女[かのじょ]は 忙[いそが]しいけれど、いつも 笑顔[えがお]を 絶[た]やさない。
+  Sie ist zwar beschäftigt, aber hat immer ein Lächeln auf den Lippen.
+
+  この仕事は大変だけれども、やりがいがあります。
+  この 仕事[しごと]は 大変[たいへん]だけれども、やりがいがあります。
+  Diese Arbeit ist zwar anstrengend, aber lohnenswert.
+
+  彼は若いけれど、とても経験豊富です。
+  彼[かれ]は 若[わか]いけれど、とても 経験豊富[けいけんほうふ]です。
+  Er ist zwar jung, aber sehr erfahren.
+
+  値段は高いけれど、品質は抜群です。
+  値段[ねだん]は 高[たか]いけれど、品質[ひんしつ]は 抜群[ばつぐん]です。
+  Der Preis ist zwar hoch, aber die Qualität ist hervorragend.
+
+  時間がないけれど、できる限り手伝います。
+  時間[じかん]がないけれど、できる 限[かぎ]り 手伝[てつだ]います。
+  Ich habe zwar keine Zeit, werde aber so viel wie möglich helfen.
+
+  彼女は有名人だけれど、とても気さくな人です。
+  彼女[かのじょ]は 有名人[ゆうめいじん]だけれど、とても 気[き]さくな 人[ひと]です。
+  Sie ist zwar eine berühmte Persönlichkeit, aber eine sehr umgängliche Person.
+
+  寒いけれど、外で運動するのは気持ちいいですよ。
+  寒[さむ]いけれど、外[そと]で 運動[うんどう]するのは 気持[きも]ちいいですよ。
+  Es ist zwar kalt, aber es fühlt sich gut an, draußen Sport zu treiben.
+
+  試験は難しかったけれど、なんとか合格できました。
+  試験[しけん]は 難[むずか]しかったけれど、なんとか 合格[ごうかく]できました。
+  Die Prüfung war zwar schwierig, aber ich habe es irgendwie geschafft zu bestehen.
+
+  彼の意見には賛成できないけれど、尊重します。
+  彼[かれ]の 意見[いけん]には 賛成[さんせい]できないけれど、尊重[そんちょう]します。
+  Ich kann seiner Meinung zwar nicht zustimmen, respektiere sie aber.
+
+  お金はないけれど、幸せです。
+  お金[かね]はないけれど、幸[しあわ]せです。
+  Ich habe zwar kein Geld, bin aber glücklich.
+
+  彼女は歌が上手じゃないけれど、一生懸命頑張っています。
+  彼女[かのじょ]は 歌[うた]が 上手[じょうず]じゃないけれど、一生懸命[いっしょうけんめい] 頑張[がんば]っています。
+  Sie kann zwar nicht gut singen, gibt sich aber große Mühe.
+
+  私は日本語が話せないけれど、勉強中です。
+  私[わたし]は 日本語[にほんご]が 話[はな]せないけれど、勉強中[べんきょうちゅう]です。
+  Ich kann zwar kein Japanisch sprechen, aber ich lerne es gerade.
+
+  彼は厳しい先生だけれど、生徒思いです。
+  彼[かれ]は 厳[きび]しい 先生[せんせい]だけれど、生徒思[せいとおも]いです.
+  Er ist zwar ein strenger Lehrer, aber er kümmert sich um seine Schüler.
+
+  この映画は長いけれど、最後まで見る価値があります。
+  この 映画[えいが]は 長[なが]いけれど、最後[さいご]まで 見[み]る 価値[かち]があります。
+  Dieser Film ist zwar lang, aber es lohnt sich, ihn bis zum Ende zu schauen.
+
+  彼女は小柄だけれど、とても強い選手です。
+  彼女[かのじょ]は 小柄[こがら]だけれど、とても 強[つよ]い 選手[せんしゅ]です。
+  Sie ist zwar klein gebaut, aber eine sehr starke Athletin.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

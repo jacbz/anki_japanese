@@ -2,7 +2,7 @@ Rang: 1
 Lemma: の
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: von; für; aus; in; auf
+Definition: '[Possessesivpartikel]; von; [Attributpartikel]'
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -25,6 +25,94 @@ Beispielsätze: |-
   どうして泣いてるの。
   どうして 泣[な]いてるの。
   Warum weinst du?
+
+  母の車を借りて買い物に行きました。
+  母[はは]の 車[くるま]を 借[か]りて 買い物[かいもの]に 行[い]きました。
+  Ich habe mir das Auto meiner Mutter geliehen, um einkaufen zu gehen.
+
+  これは友人の荷物です。気をつけて運んでください。
+  これは 友人[ゆうじん]の 荷物[にもつ]です。気[き]をつけて 運[はこ]んでください。
+  Das ist das Gepäck meines Freundes. Bitte tragen Sie es vorsichtig.
+
+  彼女の手を握ると、とても温かかったです。
+  彼女[かのじょ]の 手[て]を 握[にぎ]ると、とても 温[あたた]かかったです。
+  Als ich ihre Hand hielt, war sie sehr warm.
+
+  鳥の巣が木の上に見えます。
+  鳥[とり]の 巣[す]が 木[き]の 上[うえ]に 見[み]えます。
+  Ich kann ein Vogelnest oben im Baum sehen.
+
+  私のは赤いです。あなたのはどの色ですか？
+  私[わたし]のは 赤[あか]いです。あなたのはどの 色[いろ]ですか？
+  Meins ist rot. Welche Farbe hat deins?
+
+  友人のノートを借りて勉強しました。
+  友人[ゆうじん]のノートを 借[か]りて 勉強[べんきょう]しました。
+  Ich habe mir die Notizen meines Freundes geliehen und gelernt.
+
+  医学部の教授が興味深い講義をしてくれました。
+  医学部[いがくぶ]の 教授[きょうじゅ]が 興味深[きょうみぶか]い 講義[こうぎ]をしてくれました。
+  Ein Professor der medizinischen Fakultät hat uns eine interessante Vorlesung gehalten.
+
+  地震の結果、多くの建物が倒壊しました。
+  地震[じしん]の 結果[けっか]、多[おお]くの 建物[たてもの]が 倒壊[とうかい]しました。
+  Als Folge des Erdbebens sind viele Gebäude eingestürzt.
+
+  菊の花が庭いっぱいに咲いています。
+  菊[きく]の 花[はな]が 庭[にわ]いっぱいに 咲[さ]いています。
+  Chrysanthemenblüten blühen im ganzen Garten.
+
+  着物の袖が長すぎて、歩きにくいです。
+  着物[きもの]の 袖[そで]が 長[なが]すぎて、歩[ある]きにくいです。
+  Die Ärmel des Kimonos sind zu lang, was das Gehen erschwert.
+
+  金の値段が急激に上がっています。
+  金[きん]の 値段[ねだん]が 急激[きゅうげき]に 上[あ]がっています。
+  Der Goldpreis steigt rapide an.
+
+  国民の大半が新しい政策を支持しています。
+  国民[こくみん]の 大半[たいはん]が 新[あたら]しい 政策[せいさく]を 支持[しじ]しています。
+  Die Mehrheit der Bevölkerung unterstützt die neue Politik.
+
+  この会社の社員は全員、週末に研修を受けます。
+  この 会社[かいしゃ]の 社員[しゃいん]は 全員[ぜんいん]、週末[しゅうまつ]に 研修[けんしゅう]を 受[う]けます。
+  Alle Angestellten dieser Firma nehmen am Wochenende an einer Schulung teil.
+
+  父の兄は海外で仕事をしています。
+  父[ちち]の 兄[あに]は 海外[かいがい]で 仕事[しごと]をしています。
+  Der ältere Bruder meines Vaters arbeitet im Ausland.
+
+  田中さんの上司は厳しいと聞きました。
+  田中[たなか]さんの 上司[じょうし]は 厳[きび]しいと 聞[き]きました。
+  Ich habe gehört, dass Herr Tanakas Vorgesetzter streng ist.
+
+  私の友達が新しい仕事を見つけました。
+  私[わたし]の 友達[ともだち]が 新[あたら]しい 仕事[しごと]を 見[み]つけました。
+  Ein Freund von mir hat einen neuen Job gefunden.
+
+  電車の切符を買うのを忘れてしまいました。
+  電車[でんしゃ]の 切符[きっぷ]を 買[か]うのを 忘[わす]れてしまいました。
+  Ich habe vergessen, eine Zugfahrkarte zu kaufen.
+
+  冬の靴を新しく買う必要があります。
+  冬[ふゆ]の 靴[くつ]を 新[あたら]しく 買[か]う 必要[ひつよう]があります。
+  Ich muss neue Winterschuhe kaufen.
+
+  子供の本を図書館から借りてきました。
+  子供[こども]の 本[ほん]を 図書館[としょかん]から 借[か]りてきました。
+  Ich habe Kinderbücher aus der Bibliothek ausgeliehen.
+
+  風邪の薬を飲んだら、少し楽になりました。
+  風邪[かぜ]の 薬[くすり]を 飲[の]んだら、少[すこ]し 楽[らく]になりました。
+  Nachdem ich das Erkältungsmedikament eingenommen hatte, fühlte ich mich etwas besser.
+
+  申込の手続きが複雑で困っています。
+  申込[もうしこみ]の 手続[てつづ]きが 複雑[ふくざつ]で 困[こま]っています。
+  Ich habe Schwierigkeiten mit dem komplizierten Anmeldeverfahren.
+
+  誕生日のプレゼントを何にしようか悩んでいます。
+  誕生日[たんじょうび]の プレゼントを 何[なに]にしようか 悩[なや]んでいます。
+  Ich überlege, was ich als Geburtstagsgeschenk auswählen soll.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

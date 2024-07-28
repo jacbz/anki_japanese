@@ -1,15 +1,15 @@
 Rang: 79
 Lemma: いる
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: sein, existieren; bleiben
+Alternativschreibweisen: 居る
+Definition: sein, existieren; sich befinden; haben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: いない・いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   「どこにいるの。」<br>「ここだよ。」
   「どこにいるの。」<br>「ここだよ。」
   „Wo bist du?“<br>„Ich bin hier.“
+
+  アフリカには象がいる。
+  アフリカには 象[ぞう]がいる。
+  Es gibt Elefanten in Afrika.
+
+  母がまだいれば、相談できるのに。
+  母[はは]がまだいれば、相談[そうだん]できるのに。
+  Wenn meine Mutter noch leben würde, könnte ich sie um Rat fragen.
+
+  この地域には、肉を食べる人もいるし、食べない人もいる。
+  この 地域[ちいき]には、肉[にく]を 食[た]べる 人[ひと]もいるし、食[た]べない 人[ひと]もいる。
+  In dieser Gegend gibt es sowohl Menschen, die Fleisch essen, als auch welche, die es nicht tun.
+
+  この古い家には幽霊がいるという噂がある。
+  この 古[ふる]い 家[いえ]には 幽霊[ゆうれい]がいるという 噂[うわさ]がある。
+  Es gibt das Gerücht, dass in diesem alten Haus Geister spuken.
+
+  彼は現在アメリカにいて、英語を勉強している。
+  彼[かれ]は 現在[げんざい]アメリカにいて、英語[えいご]を 勉強[べんきょう]している。
+  Er hält sich derzeit in Amerika auf und lernt Englisch.
+
+  課長がいる間に、この書類にサインをもらおう。
+  課長[かちょう]がいる 間[あいだ]に、この 書類[しょるい]にサインをもらおう。
+  Lass uns diese Dokumente unterschreiben lassen, solange der Abteilungsleiter da ist.
+
+  人がいる前で、そんな話はしないでください。
+  人[ひと]がいる 前[まえ]で、そんな 話[はなし]はしないでください。
+  Bitte sprich nicht über solche Dinge in Anwesenheit anderer.
+
+  冬の間はずっとここにいるんですか？
+  冬[ふゆ]の 間[あいだ]はずっとここにいるんですか？
+  Bleiben Sie den ganzen Winter über hier?
+
+  昨夜はずっとここにいたの？
+  昨夜[さくや]はずっとここにいたの？
+  Warst du die ganze Nacht hier?
+
+  子供のいない夫婦は、養子を迎えることを考えている。
+  子供[こども]のいない 夫婦[ふうふ]は、養子[ようし]を 迎[むか]えることを 考[かんが]えている。
+  Das kinderlose Ehepaar denkt darüber nach, ein Kind zu adoptieren.
+
+  婚約者がいるって聞いたけど、本当？
+  婚約者[こんやくしゃ]がいるって 聞[き]いたけど、本当[ほんとう]？
+  Ich habe gehört, du hast einen Verlobten. Stimmt das?
+
+  独身でいる理由は何ですか？
+  独身[どくしん]でいる 理由[りゆう]は 何[なん]ですか？
+  Was ist der Grund dafür, dass du noch ledig bist?
+
+  まだ学生の身でいる間に、できるだけ多くの経験をしたい。
+  まだ 学生[がくせい]の 身[み]でいる 間[あいだ]に、できるだけ 多[おお]くの 経験[けいけん]をしたい。
+  Solange ich noch Student bin, möchte ich so viele Erfahrungen wie möglich sammeln.
+
+  この映画は笑わずにはいられない場面が多い。
+  この 映画[えいが]は 笑[わら]わずにはいられない 場面[ばめん]が 多[おお]い。
+  Dieser Film hat viele Szenen, bei denen man sich das Lachen nicht verkneifen kann.
+
+  ドアには鍵がかかっていて、中に入れない。
+  ドアには 鍵[かぎ]がかかっていて、中[なか]に 入[はい]れない。
+  Die Tür ist abgeschlossen und ich kann nicht hineingehen.
+
+  庭の木々に花が咲いていて、とてもきれいだ。
+  庭[にわ]の 木々[きぎ]に 花[はな]が 咲[さ]いていて、とてもきれいだ。
+  Die Bäume im Garten blühen und es ist sehr schön.
+
+  彼は結婚していて、二人の子供がいる。
+  彼[かれ]は 結婚[けっこん]していて、二人[ふたり]の 子供[こども]がいる。
+  Er ist verheiratet und hat zwei Kinder.
+
+  窓が開いているので、部屋が寒くなっている。
+  窓[まど]が 開[あ]いているので、部屋[へや]が 寒[さむ]くなっている。
+  Das Fenster steht offen, deshalb ist es im Zimmer kalt geworden.
+
+  猫が鳴いているけど、どうしたんだろう。
+  猫[ねこ]が 鳴[な]いているけど、どうしたんだろう。
+  Die Katze miaut, ich frage mich, was los ist.
+
+  夕食がもう出来ているから、早く帰ってきて。
+  夕食[ゆうしょく]がもう 出来[でき]ているから、早[はや]く 帰[かえ]ってきて。
+  Das Abendessen ist schon fertig, also komm bald nach Hause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

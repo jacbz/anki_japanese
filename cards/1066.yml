@@ -2,7 +2,7 @@ Rang: 1066
 Lemma: 弱い
 Lesung: よわい
 Alternativschreibweisen: ''
-Definition: schwach, zart, leicht
+Definition: schwach
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>よ</span><span class="accent_top">わ</span><span>い</span>
@@ -17,6 +17,86 @@ Beispielsätze: |-
   うちの息子は意志が弱い。
   うちの 息子[むすこ]は 意志[いし]が 弱[よわ]い。
   Mein Sohn ist willensschwach.
+
+  このチームは弱いので、今シーズンは勝てそうにない。
+  この チーム[ちーむ]は 弱[よわ]いので、今[こん]シーズンは 勝[か]てそうにない。
+  Da dieses Team schwach ist, wird es diese Saison wohl nicht gewinnen können.
+
+  地震は弱かったが、多くの人が不安を感じた。
+  地震[じしん]は 弱[よわ]かったが、多[おお]くの 人[ひと]が 不安[ふあん]を 感[かん]じた。
+  Das Erdbeben war zwar schwach, aber viele Menschen waren beunruhigt.
+
+  彼女は声が弱いので、マイクを使って話す必要がある。
+  彼女[かのじょ]は 声[こえ]が 弱[よわ]いので、マイクを 使[つか]って 話[はな]す 必要[ひつよう]がある。
+  Da ihre Stimme schwach ist, muss sie ein Mikrofon benutzen, um zu sprechen.
+
+  この酒は弱いので、初心者でも飲みやすいです。
+  この 酒[さけ]は 弱[よわ]いので、初心者[しょしんしゃ]でも 飲[の]みやすいです。
+  Dieser Sake ist schwach, daher ist er auch für Anfänger leicht zu trinken.
+
+  彼は立場が弱いので、交渉で不利になるかもしれない。
+  彼[かれ]は 立場[たちば]が 弱[よわ]いので、交渉[こうしょう]で 不利[ふり]になるかもしれない。
+  Da seine Position schwach ist, könnte er bei den Verhandlungen im Nachteil sein.
+
+  試合に負けて、チームの弱いところが見えてしまった。
+  試合[しあい]に 負[ま]けて、チームの 弱[よわ]いところが 見[み]えてしまった。
+  Durch die Niederlage im Spiel wurden die Schwächen des Teams sichtbar.
+
+  風邪をひいて体が弱くなったので、しばらく休養が必要だ。
+  風邪[かぜ]をひいて 体[からだ]が 弱[よわ]くなったので、しばらく 休養[きゅうよう]が 必要[ひつよう]だ。
+  Da ich erkältet bin und mein Körper geschwächt ist, brauche ich eine Weile Ruhe.
+
+  台風が近づいているが、まだ風は弱い。
+  台風[たいふう]が 近[ちか]づいているが、まだ 風[かぜ]は 弱[よわ]い。
+  Der Taifun nähert sich, aber der Wind ist noch schwach.
+
+  おばあちゃんは足が弱いので、階段を上るのに苦労している。
+  おばあちゃんは 足[あし]が 弱[よわ]いので、階段[かいだん]を 上[のぼ]るのに 苦労[くろう]している。
+  Oma hat schwache Beine, daher fällt es ihr schwer, die Treppe hinaufzusteigen.
+
+  彼は数学が弱いので、補習を受けている。
+  彼[かれ]は 数学[すうがく]が 弱[よわ]いので、補習[ほしゅう]を 受[う]けている。
+  Er ist schwach in Mathe, deshalb nimmt er Nachhilfeunterricht.
+
+  私は機械に弱いので、新しいガジェットの使い方を覚えるのに時間がかかる。
+  私[わたし]は 機械[きかい]に 弱[よわ]いので、新[あたら]しいガジェットの 使[つか]い 方[かた]を 覚[おぼ]えるのに 時間[じかん]がかかる。
+  Ich bin nicht gut mit Geräten, daher brauche ich Zeit, um den Umgang mit neuen Gadgets zu lernen.
+
+  彼女はプレッシャーに弱いので、重要な試合で緊張してしまう。
+  彼女[かのじょ]はプレッシャーに 弱[よわ]いので、重要[じゅうよう]な 試合[しあい]で 緊張[きんちょう]してしまう。
+  Sie kann nicht gut mit Druck umgehen, daher wird sie bei wichtigen Spielen nervös.
+
+  甘いものに弱いので、ダイエットが続かない。
+  甘[あま]いものに 弱[よわ]いので、ダイエットが 続[つづ]かない。
+  Ich habe eine Schwäche für Süßigkeiten, daher kann ich meine Diät nicht durchhalten.
+
+  彼は酒に弱いので、飲み会ではすぐに酔ってしまう。
+  彼[かれ]は 酒[さけ]に 弱[よわ]いので、飲[の]み 会[かい]ではすぐに 酔[よ]ってしまう。
+  Er verträgt keinen Alkohol, daher wird er bei Trinkpartys schnell betrunken.
+
+  私は暑さに弱いので、夏は常にクーラーをつけています。
+  私[わたし]は 暑[あつ]さに 弱[よわ]いので、夏[なつ]は 常[つね]にクーラーをつけています。
+  Ich bin hitzeempfindlich, daher habe ich im Sommer ständig die Klimaanlage an.
+
+  彼女は権威に弱い人なので、上司の意見には逆らわない。
+  彼女[かのじょ]は 権威[けんい]に 弱[よわ]い 人[ひと]なので、上司[じょうし]の 意見[いけん]には 逆[さか]らわない。
+  Sie ist eine Person, die sich leicht Autoritäten beugt, daher widerspricht sie nie der Meinung ihres Vorgesetzten.
+
+  彼は美人に弱いので、きれいな女性に頼まれると断れない。
+  彼[かれ]は 美人[びじん]に 弱[よわ]いので、きれいな 女性[じょせい]に 頼[たの]まれると 断[ことわ]れない。
+  Er hat eine Schwäche für schöne Frauen, daher kann er attraktiven Frauen keine Bitte abschlagen.
+
+  私は船に弱いので、長い船旅は避けています。
+  私[わたし]は 船[ふね]に 弱[よわ]いので、長[なが]い 船旅[ふなたび]は 避[さ]けています。
+  Ich werde leicht seekrank, daher vermeide ich lange Seereisen.
+
+  彼女は心臓が弱いので、激しい運動は控えめにしている。
+  彼女[かのじょ]は 心臓[しんぞう]が 弱[よわ]いので、激[はげ]しい 運動[うんどう]は 控[ひか]えめにしている。
+  Sie hat ein schwaches Herz, daher hält sie sich bei intensiven körperlichen Aktivitäten zurück.
+
+  この製品は敏感肌や刺激に弱い人向けに開発されました。
+  この 製品[せいひん]は 敏感肌[びんかんはだ]や 刺激[しげき]に 弱[よわ]い 人[ひと]向[む]けに 開発[かいはつ]されました。
+  Dieses Produkt wurde für Menschen mit empfindlicher Haut oder Reizempfindlichkeit entwickelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

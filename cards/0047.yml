@@ -1,15 +1,15 @@
 Rang: 47
 Lemma: 無い
 Lesung: ない
-Alternativschreibweisen: ''
-Definition: (es gibt) kein
+Alternativschreibweisen: 亡い
+Definition: nicht vorhanden sein; nicht existieren
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span class="accent_top">な</span><span class="">い</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 無くない・無かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   今、お金が無いんです。
   今[いま]、お 金[かね]が 無[な]いんです。
   Ich habe jetzt kein Geld.
+
+  お金が無いので、新しい服を買えません。
+  お 金[かね]が 無[な]いので、新[あたら]しい 服[ふく]を 買[か]えません。
+  Ich habe kein Geld, also kann ich mir keine neue Kleidung kaufen.
+
+  時間が無いから、急いで仕事を終わらせなければなりません。
+  時間[じかん]が 無[な]いから、急[いそ]いで 仕事[しごと]を 終[お]わらせなければなりません。
+  Ich habe keine Zeit, also muss ich die Arbeit schnell erledigen.
+
+  彼にはほとんど欠点が無いと言われています。
+  彼[かれ]にはほとんど 欠点[けってん]が 無[な]いと 言[い]われています。
+  Es wird gesagt, dass er fast keine Schwächen hat.
+
+  アリバイが無いなんて、まさか本当じゃないでしょう？
+  アリバイが 無[な]いなんて、まさか 本当[ほんとう]じゃないでしょう？
+  Sie haben doch wohl nicht wirklich kein Alibi, oder?
+
+  彼女には協調性が無く、一人で仕事をすることが多いです。
+  彼女[かのじょ]には 協調性[きょうちょうせい]が 無[な]く、一人[ひとり]で 仕事[しごと]をすることが 多[おお]いです。
+  Sie hat keinen Teamgeist und arbeitet oft allein.
+
+  このウイスキーは安いけど、そんなに悪くは無いよ。
+  このウイスキーは 安[やす]いけど、そんなに 悪[わる]くは 無[な]いよ。
+  Dieser Whiskey ist zwar billig, aber gar nicht so schlecht.
+
+  彼の話には結論が無いので、いつも長引いてしまいます。
+  彼[かれ]の 話[はなし]には 結論[けつろん]が 無[な]いので、いつも 長引[ながび]いてしまいます。
+  Seine Gespräche haben kein Ende, daher ziehen sie sich immer in die Länge.
+
+  その場所には近寄らない方が良いよ。何も良いことは無いからね。
+  その 場所[ばしょ]には 近寄[ちかよ]らない 方[ほう]が 良[よ]いよ。何[なに]も 良[よ]いことは 無[な]いからね。
+  Du solltest dich von diesem Ort fernhalten. Es gibt dort nichts Gutes.
+
+  もし彼が約束を守らなければ、それは彼の本心では無いのかもしれません。
+  もし 彼[かれ]が 約束[やくそく]を 守[まも]らなければ、それは 彼[かれ]の 本心[ほんしん]では 無[な]いのかもしれません。
+  Wenn er sein Versprechen nicht hält, ist das vielleicht nicht seine wahre Absicht.
+
+  亡くなった祖父の写真を見ると、懐かしい気持ちになります。
+  亡[な]くなった 祖父[そふ]の 写真[しゃしん]を 見[み]ると、懐[なつ]かしい 気持[きも]ちになります。
+  Wenn ich das Foto meines verstorbenen Großvaters sehe, werde ich nostalgisch.
+
+  聞くともなく聞いていたら、大事な情報を聞き逃してしまいました。
+  聞[き]くともなく 聞[き]いていたら、大事[だいじ]な 情報[じょうほう]を 聞[き]き 逃[のが]してしまいました。
+  Ich hörte nur mit halbem Ohr zu und verpasste dadurch wichtige Informationen.
+
+  どことなく懐かしい雰囲気のある街でした。
+  どことなく 懐[なつ]かしい 雰囲気[ふんいき]のある 街[まち]でした。
+  Es war eine Stadt mit einer irgendwie nostalgischen Atmosphäre.
+
+  何となく不安な気分で一日を過ごしてしまいました。
+  何[なん]となく 不安[ふあん]な 気分[きぶん]で一日[いちにち]を 過[す]ごしてしまいました。
+  Ich verbrachte den Tag mit einem unbestimmten Gefühl der Unruhe.
+
+  急ぐことは無いから、ゆっくり準備してください。
+  急[いそ]ぐことは 無[な]いから、ゆっくり 準備[じゅんび]してください。
+  Du brauchst dich nicht zu beeilen, nimm dir Zeit für die Vorbereitung.
+
+  このくらいのことで死ぬことは無いから、心配しないで。
+  このくらいのことで 死[し]ぬことは 無[な]いから、心配[しんぱい]しないで。
+  Du wirst daran nicht sterben, also mach dir keine Sorgen.
+
+  お金が無くても、恥ずかしがることは無いよ。誰にでもそういう時期はあるものさ。
+  お 金[かね]が 無[な]くても、恥[は]ずかしがることは 無[な]いよ。誰[だれ]にでもそういう 時期[じき]はあるものさ。
+  Auch wenn du kein Geld hast, brauchst du dich nicht zu schämen. Jeder macht solche Zeiten durch.
+
+  他人のことだから、そんなに気にすることは無いと思うよ。
+  他人[たにん]のことだから、そんなに 気[き]にすることは 無[な]いと 思[おも]うよ。
+  Es ist die Angelegenheit anderer Leute, also denke ich, du brauchst dir darüber keine großen Gedanken zu machen.
+
+  彼が試験に合格しないとは限らない。可能性は十分にあるはずだ。
+  彼[かれ]が 試験[しけん]に 合格[ごうかく]しないとは 限[かぎ]らない。可能性[かのうせい]は 十分[じゅうぶん]にあるはずだ。
+  Es ist nicht ausgeschlossen, dass er die Prüfung besteht. Es sollte durchaus möglich sein.
+
+  この世の中に無いものは無いと言われていますね。
+  この 世[よ]の 中[なか]に 無[な]いものは 無[な]いと 言[い]われていますね。
+  Man sagt, es gibt nichts, was es nicht gibt auf dieser Welt.
+
+  その件は無かったことにしましょう。もう話題にしないでください。
+  その 件[けん]は 無[な]かったことにしましょう。もう 話題[わだい]にしないでください。
+  Lassen Sie uns so tun, als wäre diese Sache nie passiert. Bitte erwähnen Sie es nicht mehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

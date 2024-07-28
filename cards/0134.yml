@@ -1,7 +1,7 @@
 Rang: 134
 Lemma: 知る
 Lesung: しる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 識る
 Definition: wissen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 知らない・知った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   私は何も知りません。
   私[わたし]は 何[なに]も 知[し]りません。
   Ich weiß nichts darüber.
+
+  その国の文化を知るために、現地の人々と交流することが大切だ。
+  その 国[くに]の 文化[ぶんか]を 知[し]るために、現地[げんち]の 人々[ひとびと]と 交流[こうりゅう]することが 大切[たいせつ]だ。
+  Um die Kultur eines Landes kennenzulernen, ist es wichtig, mit den Einheimischen in Kontakt zu treten.
+
+  新しい機械の使い方を知るのに時間がかかった。
+  新[あたら]しい 機械[きかい]の 使[つか]い 方[かた]を 知[し]るのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, bis ich gelernt habe, wie man die neue Maschine bedient.
+
+  彼女の名前を知ったときの喜びは忘れられない。
+  彼女[かのじょ]の 名前[なまえ]を 知[し]ったときの 喜[よろこ]びは 忘[わす]れられない。
+  Ich werde nie die Freude vergessen, als ich ihren Namen erfuhr.
+
+  インターネットで事故のニュースを知った。
+  インターネットで 事故[じこ]のニュースを 知[し]った。
+  Ich habe von dem Unfall durch die Nachrichten im Internet erfahren.
+
+  長年の友人だからこそ、彼の性格をよく知っている。
+  長年[ながねん]の 友人[ゆうじん]だからこそ、彼[かれ]の 性格[せいかく]をよく 知[し]っている。
+  Gerade weil wir langjährige Freunde sind, kenne ich seinen Charakter sehr gut.
+
+  直感で相手の気持ちを知ることができる人もいる。
+  直感[ちょっかん]で 相手[あいて]の 気持[きも]ちを 知[し]ることができる 人[ひと]もいる。
+  Es gibt Menschen, die die Gefühle anderer instinktiv erfassen können.
+
+  あなたの過去についてもっと知りたいです。
+  あなたの 過去[かこ]についてもっと 知[し]りたいです。
+  Ich würde gerne mehr über Ihre Vergangenheit erfahren.
+
+  彼は世界中の文化について詳しく知っている。
+  彼[かれ]は 世界中[せかいじゅう]の 文化[ぶんか]について 詳[くわ]しく 知[し]っている。
+  Er weiß detailliert über Kulturen aus der ganzen Welt Bescheid.
+
+  私の知る限り、彼女は一度も海外に行ったことがない。
+  私[わたし]の 知[し]る 限[かぎ]り、彼女[かのじょ]は 一度[いちど]も 海外[かいがい]に 行[い]ったことがない。
+  Soweit ich weiß, ist sie noch nie im Ausland gewesen.
+
+  君は愛を知っているかい？それとも、まだ経験したことがない？
+  君[きみ]は 愛[あい]を 知[し]っているかい？それとも、まだ 経験[けいけん]したことがない？
+  Kennst du die Liebe? Oder hast du sie noch nicht erfahren?
+
+  彼女は子供の頃から音楽の素晴らしさを知っていた。
+  彼女[かのじょ]は 子供[こども]の 頃[ころ]から 音楽[おんがく]の 素晴[すば]らしさを 知[し]っていた。
+  Sie kannte die Schönheit der Musik schon seit ihrer Kindheit.
+
+  「はい、その方のお名前は存じ上げております」
+  「はい、その 方[かた]のお 名前[なまえ]は 存[ぞん]じ 上[あ]げております」
+  "Ja, ich kenne den Namen dieser Person."
+
+  私が知っている限りでは、彼はまだ独身です。
+  私[わたし]が 知[し]っている 限[かぎ]りでは、彼[かれ]はまだ 独身[どくしん]です。
+  Soweit ich weiß, ist er noch ledig.
+
+  噂だけで知っていた彼女に、やっと会うことができた。
+  噂[うわさ]だけで 知[し]っていた 彼女[かのじょ]に、やっと 会[あ]うことができた。
+  Endlich konnte ich die Frau treffen, die ich bisher nur vom Hörensagen kannte.
+
+  「この町の歴史について何か知っていますか？」
+  「この 町[まち]の 歴史[れきし]について 何[なに]か 知[し]っていますか？」
+  "Wissen Sie etwas über die Geschichte dieser Stadt?"
+
+  彼女は自分の長所も短所も良く知っている。
+  彼女[かのじょ]は 自分[じぶん]の 長所[ちょうしょ]も 短所[たんしょ]も 良[よ]く 知[し]っている。
+  Sie kennt ihre Stärken und Schwächen sehr gut.
+
+  「その秘密を知ったら、どうする？」
+  「その 秘密[ひみつ]を 知[し]ったら、どうする？」
+  "Was würdest du tun, wenn du dieses Geheimnis erfahren würdest?"
+
+  彼は世間知らずで、社会の厳しさを知らない。
+  彼[かれ]は 世間知[せけんし]らずで、社会[しゃかい]の 厳[きび]しさを 知[し]らない。
+  Er ist weltfremd und kennt die Härte der Gesellschaft nicht.
+
+  「それは私の知ったことではありません」
+  「それは 私[わたし]の 知[し]ったことではありません」
+  "Das geht mich nichts an."
+
+  どんなに探しても、原因を知ることができなかった。
+  どんなに 探[さが]しても、原因[げんいん]を 知[し]ることができなかった。
+  Egal wie sehr ich suchte, ich konnte den Grund nicht herausfinden.
+
+  彼女は愛を知らない人のように、冷たい態度をとっていた。
+  彼女[かのじょ]は 愛[あい]を 知[し]らない 人[ひと]のように、冷[つめ]たい 態度[たいど]をとっていた。
+  Sie verhielt sich kalt, als ob sie nie Liebe erfahren hätte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

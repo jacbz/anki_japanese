@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">よ</span><span>む</span>
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 読まない・読んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   毎朝、新聞を読む。
   毎朝[まいあさ]、 新聞[しんぶん]を 読[よ]む。
   Ich lese jeden Morgen eine Zeitung.
+
+  本を読むのが好きです。
+  本[ほん]を 読[よ]むのが 好[す]きです。
+  Ich mag es, Bücher zu lesen.
+
+  新聞で最新のニュースを読みました。
+  新聞[しんぶん]で 最新[さいしん]のニュースを 読[よ]みました。
+  Ich las die neuesten Nachrichten in der Zeitung.
+
+  彼女は点字を読むことができます。
+  彼女[かのじょ]は 点字[てんじ]を 読[よ]むことができます。
+  Sie kann Blindenschrift lesen.
+
+  一気に小説を読み終えました。
+  一気[いっき]に 小説[しょうせつ]を 読[よ]み 終[お]えました。
+  Ich habe den Roman in einem Zug durchgelesen.
+
+  「ああいう本を読むのは、君、よくないよ」
+  「ああいう 本[ほん]を 読[よ]むのは、君[きみ]、よくないよ」
+  "Du solltest solche Bücher lieber nicht lesen."
+
+  私は毎日子供に童話を読んであげます。
+  私[わたし]は 毎日[まいにち] 子供[こども]に 童話[どうわ]を 読[よ]んであげます。
+  Ich lese meinem Kind jeden Tag ein Märchen vor.
+
+  アナウンサーがニュースを早口で読んでいます。
+  アナウンサーがニュースを 早口[はやくち]で 読[よ]んでいます。
+  Der Nachrichtensprecher liest die Nachrichten schnell vor.
+
+  彼は祭壇で聖書を読み上げました。
+  彼[かれ]は 祭壇[さいだん]で 聖書[せいしょ]を 読[よ]み 上[あ]げました。
+  Er las am Altar aus der Bibel vor.
+
+  地図を読んで目的地への道を探しましょう。
+  地図[ちず]を 読[よ]んで 目的地[もくてきち]への 道[みち]を 探[さが]しましょう。
+  Lass uns die Karte lesen und den Weg zum Ziel finden.
+
+  温度計の目盛りを正確に読んでください。
+  温度計[おんどけい]の 目盛[めもり]りを 正確[せいかく]に 読[よ]んでください。
+  Bitte lesen Sie die Skala des Thermometers genau ab.
+
+  彼女の表情を読むのが難しいです。
+  彼女[かのじょ]の 表情[ひょうじょう]を 読[よ]むのが 難[むずか]しいです。
+  Es ist schwierig, ihren Gesichtsausdruck zu deuten.
+
+  時代の風を読んで新しいビジネスを始めました。
+  時代[じだい]の 風[かぜ]を 読[よ]んで 新[あたら]しいビジネスを 始[はじ]めました。
+  Ich habe den Trend der Zeit erkannt und ein neues Geschäft gestartet.
+
+  相手の手を読んで次の一手を打ちました。
+  相手[あいて]の 手[て]を 読[よ]んで 次[つぎ]の 一手[いって]を 打[う]ちました。
+  Ich las den Zug meines Gegners und machte meinen nächsten Zug.
+
+  市況を読んで株式投資の判断をします。
+  市況[しきょう]を 読[よ]んで 株式投資[かぶしきとうし]の 判断[はんだん]をします。
+  Ich schätze die Marktlage ein und treffe Entscheidungen für Aktieninvestitionen.
+
+  頭数を読んで必要な席数を確認しました。
+  頭数[あたまかず]を 読[よ]んで 必要[ひつよう]な 席数[せきすう]を 確認[かくにん]しました。
+  Ich zählte die Anzahl der Personen und überprüfte die benötigte Sitzanzahl.
+
+  選挙の票を読んで結果を予測しています。
+  選挙[せんきょ]の 票[ひょう]を 読[よ]んで 結果[けっか]を 予測[よそく]しています。
+  Wir schätzen die Stimmen der Wahl und prognostizieren das Ergebnis.
+
+  彼女は行間を読む能力に長けています。
+  彼女[かのじょ]は 行間[ぎょうかん]を 読[よ]む 能力[のうりょく]に 長[た]けています。
+  Sie ist sehr gut darin, zwischen den Zeilen zu lesen.
+
+  空気を読んで適切な発言をしましょう。
+  空気[くうき]を 読[よ]んで 適切[てきせつ]な 発言[はつげん]をしましょう。
+  Lass uns die Situation richtig einschätzen und angemessene Kommentare abgeben.
+
+  試合の流れを読んで作戦を立てます。
+  試合[しあい]の 流[なが]れを 読[よ]んで 作戦[さくせん]を 立[た]てます。
+  Wir lesen den Spielverlauf und entwickeln eine Strategie.
+
+  私は毎晩寝る前に本を読む習慣があります。
+  私[わたし]は 毎晩[まいばん] 寝[ね]る 前[まえ]に 本[ほん]を 読[よ]む 習慣[しゅうかん]があります。
+  Ich habe die Angewohnheit, jeden Abend vor dem Schlafengehen ein Buch zu lesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

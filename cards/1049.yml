@@ -1,7 +1,7 @@
 Rang: 1049
 Lemma: 寂しい
 Lesung: さびしい
-Alternativschreibweisen: ''
+Alternativschreibweisen: 淋しい
 Definition: einsam
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">び</span><span 
 Register: ''
 Dispersion: '78'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 寂しくない・寂しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   一人暮らしをするのは寂しい。
   一人 暮[く]らしをするのは 寂[さび]しい。
   Es ist einsam, alleine zu leben.
+
+  このあたりは寂しい所だね。人通りがほとんどない。
+  このあたりは 寂[さび]しい 所[ところ]だね。人通[ひとどお]りがほとんどない。
+  Diese Gegend ist ein einsamer Ort. Es gibt kaum Fußgängerverkehr.
+
+  山村の生活は静かで寂しいけど、自然が豊かだ。
+  山村[さんそん]の 生活[せいかつ]は 静[しず]かで 寂[さび]しいけど、自然[しぜん]が 豊[ゆた]かだ。
+  Das Leben in einem Bergdorf ist ruhig und einsam, aber die Natur ist üppig.
+
+  彼女は寂しい笑いを浮かべた。
+  彼女[かのじょ]は 寂[さび]しい 笑[わら]いを 浮[う]かべた。
+  Sie zeigte ein trauriges Lächeln.
+
+  寂しい時に、友達に電話をかけるんだ。
+  寂[さび]しい 時[とき]に、友達[ともだち]に 電話[でんわ]をかけるんだ。
+  Wenn ich mich einsam fühle, rufe ich einen Freund an.
+
+  夜中の公園は寂しくて怖い雰囲気だった。
+  夜中[よなか]の 公園[こうえん]は 寂[さび]しくて 怖[こわ]い 雰囲気[ふんいき]だった。
+  Der Park mitten in der Nacht hatte eine einsame und unheimliche Atmosphäre.
+
+  彼が引っ越してから、隣の部屋が寂しくなった。
+  彼[かれ]が 引[ひ]っ 越[こ]してから、隣[となり]の 部屋[へや]が 寂[さび]しくなった。
+  Seit er ausgezogen ist, ist das Nachbarzimmer leer und einsam geworden.
+
+  長期出張で家族と離れるのは寂しいです。
+  長期[ちょうき] 出張[しゅっちょう]で 家族[かぞく]と 離[はな]れるのは 寂[さび]しいです。
+  Es ist einsam, auf einer langen Geschäftsreise von der Familie getrennt zu sein.
+
+  友達がいなくて寂しく思っている新入生もいるかもしれない。
+  友達[ともだち]がいなくて 寂[さび]しく 思[おも]っている 新入生[しんにゅうせい]もいるかもしれない。
+  Es könnte neue Studenten geben, die sich einsam fühlen, weil sie keine Freunde haben.
+
+  彼女は寂しげな表情で窓の外を見ていた。
+  彼女[かのじょ]は 寂[さび]しげな 表情[ひょうじょう]で 窓[まど]の 外[そと]を 見[み]ていた。
+  Sie schaute mit einem einsamen Gesichtsausdruck aus dem Fenster.
+
+  寂しさを紛らわすために、趣味を見つけることにした。
+  寂[さび]しさを 紛[まぎ]らわすために、趣味[しゅみ]を 見[み]つけることにした。
+  Um meine Einsamkeit zu vertreiben, beschloss ich, ein Hobby zu finden.
+
+  彼女がいないのは寂しかったが、新しい環境に慣れる良い機会だと思った。
+  彼女[かのじょ]がいないのは 寂[さび]しかったが、新[あたら]しい 環境[かんきょう]に 慣[な]れる 良[よ]い 機会[きかい]だと 思[おも]った。
+  Es war einsam ohne sie, aber ich dachte, es sei eine gute Gelegenheit, mich an die neue Umgebung zu gewöhnen.
+
+  人生は時に寂しいものだが、それも大切な経験だ。
+  人生[じんせい]は 時[とき]に 寂[さび]しいものだが、それも 大切[たいせつ]な 経験[けいけん]だ。
+  Das Leben kann manchmal einsam sein, aber das ist auch eine wichtige Erfahrung.
+
+  日が暮れた寂しい街を歩くのは少し怖かった。
+  日[ひ]が 暮[く]れた 寂[さび]しい 街[まち]を 歩[ある]くのは 少[すこ]し 怖[こわ]かった。
+  Es war ein bisschen beängstigend, durch die einsame Stadt zu laufen, als es dunkel wurde.
+
+  無縁坂を降りると、寂しい雰囲気が漂っていた。
+  無縁坂[むえんざか]を 降[お]りると、寂[さび]しい 雰囲気[ふんいき]が 漂[ただよ]っていた。
+  Als ich den Muenzaka-Hügel hinunterging, herrschte eine einsame Atmosphäre.
+
+  雪に埋もれた街灯は寂しい光を放っていた。
+  雪[ゆき]に 埋[う]もれた 街灯[がいとう]は 寂[さび]しい 光[ひかり]を 放[はな]っていた。
+  Die vom Schnee bedeckten Straßenlaternen strahlten ein einsames Licht aus.
+
+  彼の帰国を待つ間、妻は寂しく思って泣いていた。
+  彼[かれ]の 帰国[きこく]を 待[ま]つ 間[あいだ]、妻[つま]は 寂[さび]しく 思[おも]って 泣[な]いていた。
+  Während sie auf seine Rückkehr ins Land wartete, weinte seine Frau vor Einsamkeit.
+
+  自分の能力不足を感じて、寂しくなることがある。
+  自分[じぶん]の 能力不足[のうりょくぶそく]を 感[かん]じて、寂[さび]しくなることがある。
+  Manchmal fühle ich mich einsam, wenn ich meine eigenen Unzulänglichkeiten spüre.
+
+  この古い橋は、どこか寂しげな雰囲気を醸し出している。
+  この 古[ふる]い 橋[はし]は、どこか 寂[さび]しげな 雰囲気[ふんいき]を 醸[かも]し 出[だ]している。
+  Diese alte Brücke strahlt irgendwie eine einsame Atmosphäre aus.
+
+  懐が寂しくて、友達と遊びに行けない。
+  懐[ふところ]が 寂[さび]しくて、友達[ともだち]と 遊[あそ]びに 行[い]けない。
+  Ich bin knapp bei Kasse und kann nicht mit Freunden ausgehen.
+
+  髪が寂しくなってきたから、薄毛対策を考えている。
+  髪[かみ]が 寂[さび]しくなってきたから、薄毛[はくもう] 対策[たいさく]を 考[かんが]えている。
+  Mein Haar wird dünner, also denke ich über Maßnahmen gegen Haarausfall nach.
+
+  夜食が食べたくて、口が寂しい。
+  夜食[やしょく]が 食[た]べたくて、口[くち]が 寂[さび]しい。
+  Ich habe Lust auf einen Mitternachtssnack, mein Mund fühlt sich leer an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

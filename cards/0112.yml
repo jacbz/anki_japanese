@@ -2,14 +2,14 @@ Rang: 112
 Lemma: 聞く
 Lesung: きく
 Alternativschreibweisen: 聴く
-Definition: hören
+Definition: (zu-)hören
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="">き</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 聞かない・聞いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は母親の言うことを聞かなかった。
   彼女[かのじょ]は 母親[ははおや]の 言[い]うことを 聞[き]かなかった。
   Sie hat nicht auf ihre Mutter gehört.
+
+  鳥の声を聞いて、朝が来たことを感じた。
+  鳥[とり]の 声[こえ]を 聞[き]いて、朝[あさ]が 来[き]たことを 感[かん]じた。
+  Als ich die Vogelstimmen hörte, spürte ich, dass der Morgen angebrochen war.
+
+  週末にはよくラジオを聞きながら料理をします。
+  週末[しゅうまつ]にはよくラジオを 聞[き]きながら 料理[りょうり]をします。
+  Am Wochenende höre ich oft Radio, während ich koche.
+
+  新しい音楽を聴きに、コンサートホールへ行きました。
+  新[あたら]しい 音楽[おんがく]を 聴[き]きに、コンサートホールへ 行[い]きました。
+  Ich ging in die Konzerthalle, um neue Musik zu hören.
+
+  彼の講演を聞いて、多くのことを学びました。
+  彼[かれ]の 講演[こうえん]を 聞[き]いて、多[おお]くのことを 学[まな]びました。
+  Ich habe viel gelernt, als ich seinen Vortrag hörte.
+
+  聞くところによると、来月から新しいプロジェクトが始まるそうです。
+  聞[き]くところによると、来月[らいげつ]から 新[あたら]しいプロジェクトが 始[はじ]まるそうです。
+  Wie ich höre, soll nächsten Monat ein neues Projekt beginnen.
+
+  彼が転職したと聞いているけど、本当かな？
+  彼[かれ]が 転職[てんしょく]したと 聞[き]いているけど、本当[ほんとう]かな？
+  Ich habe gehört, dass er den Job gewechselt hat, aber ob das stimmt?
+
+  最近、面白い噂を聞いたんだ。信じられないくらいだよ。
+  最近[さいきん]、面白[おもしろ]い 噂[うわさ]を 聞[き]いたんだ。信[しん]じられないくらいだよ。
+  Ich habe kürzlich ein interessantes Gerücht gehört. Es ist kaum zu glauben.
+
+  隣の部屋から誰かが笑っている声を聞いた。
+  隣[となり]の 部屋[へや]から 誰[だれ]かが 笑[わら]っている 声[こえ]を 聞[き]いた。
+  Ich hörte jemanden im Nebenzimmer lachen.
+
+  上司の返事は、聞く前から予想できていました。
+  上司[じょうし]の 返事[へんじ]は、聞[き]く 前[まえ]から 予想[よそう]できていました。
+  Ich konnte die Antwort meines Chefs schon vorhersehen, bevor ich sie hörte.
+
+  この曲を聴くと、いつも懐かしい思い出がよみがえるの。
+  この 曲[きょく]を 聴[き]くと、いつも 懐[なつ]かしい 思い出[おもいで]がよみがえるの。
+  Wenn ich dieses Lied höre, kommen immer nostalgische Erinnerungen hoch.
+
+  子供の頃、親の言うことを聞かなかったことをよく覚えています。
+  子供[こども]の 頃[ころ]、親[おや]の 言[い]うことを 聞[き]かなかったことをよく 覚[おぼ]えています。
+  Ich erinnere mich gut daran, dass ich als Kind oft nicht auf meine Eltern gehört habe.
+
+  彼女の願いを聞いて、できる限り協力することにしました。
+  彼女[かのじょ]の 願[ねが]いを 聞[き]いて、できる 限[かぎ]り 協力[きょうりょく]することにしました。
+  Nachdem ich ihren Wunsch gehört hatte, beschloss ich, so gut wie möglich zu helfen.
+
+  道を聞くのは恥ずかしいと思う人もいるけど、僕は全然平気だよ。
+  道[みち]を 聞[き]くのは 恥[は]ずかしいと 思[おも]う 人[ひと]もいるけど、僕[ぼく]は 全然[ぜんぜん]平気[へいき]だよ。
+  Manche Leute finden es peinlich, nach dem Weg zu fragen, aber mir macht das überhaupt nichts aus.
+
+  この商品の値段を聞いて、驚きました。予想以上に安かったんです。
+  この 商品[しょうひん]の 値段[ねだん]を 聞[き]いて、驚[おどろ]きました。予想以上[よそういじょう]に 安[やす]かったんです。
+  Ich war überrascht, als ich den Preis dieses Produkts hörte. Es war günstiger als erwartet.
+
+  駅の案内所で電車の時刻表について聞きました。
+  駅[えき]の 案内所[あんないじょ]で 電車[でんしゃ]の 時刻表[じこくひょう]について 聞[き]きました。
+  Ich habe mich am Informationsschalter des Bahnhofs nach dem Zugfahrplan erkundigt.
+
+  もう一つお聞きしたいことがあるのですが、よろしいでしょうか。
+  もう 一[ひと]つお 聞[き]きしたいことがあるのですが、よろしいでしょうか。
+  Ich hätte noch eine Frage, wenn Sie erlauben.
+
+  子供たちはどこにいるのか聞いてみましょう。
+  子供[こども]たちはどこにいるのか 聞[き]いてみましょう。
+  Lass uns fragen, wo die Kinder sind.
+
+  このワインを利いてみて、どう思いますか？
+  このワインを 利[き]いてみて、どう 思[おも]いますか？
+  Was denkst du, nachdem du diesen Wein probiert hast?
+
+  彼の話を聞いて呆れてしまった。信じられない内容だった。
+  彼[かれ]の 話[はなし]を 聞[き]いて 呆[あき]れてしまった。信[しん]じられない 内容[ないよう]だった。
+  Ich war fassungslos, als ich seine Geschichte hörte. Der Inhalt war unglaublich.
+
+  音楽を聴くのが私の一番のストレス解消法です。
+  音楽[おんがく]を 聴[き]くのが 私[わたし]の 一番[いちばん]のストレス 解消法[かいしょうほう]です。
+  Musik zu hören ist meine beste Methode zur Stressbewältigung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

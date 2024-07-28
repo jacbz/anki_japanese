@@ -2,7 +2,7 @@ Rang: 62
 Lemma: ば
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: wenn
+Definition: wenn; falls; je ... desto
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -17,6 +17,86 @@ Beispielsätze: |-
   雨がふれば、試合は中止だ。
   雨[あめ]がふれば、 試合[しあい]は 中止[ちゅうし]だ。
   Wenn es regnet, wird das Spiel abgesagt.
+
+  もし雨が降れば、傘を持っていきます。
+  もし 雨[あめ]が 降[ふ]れば、傘[かさ]を 持[も]っていきます。
+  Wenn es regnet, nehme ich einen Regenschirm mit.
+
+  この薬を飲めば、すぐに良くなるでしょう。
+  この 薬[くすり]を 飲[の]めば、すぐに 良[よ]くなるでしょう。
+  Wenn du diese Medizin nimmst, wirst du dich wahrscheinlich schnell besser fühlen.
+
+  お金があれば、世界中を旅行したいです。
+  お金[かね]があれば、世界中[せかいじゅう]を 旅行[りょこう]したいです。
+  Wenn ich Geld hätte, würde ich gerne um die ganze Welt reisen.
+
+  時間があれば、映画を見に行きませんか。
+  時間[じかん]があれば、映画[えいが]を 見[み]に 行[い]きませんか。
+  Wenn du Zeit hast, möchtest du nicht ins Kino gehen?
+
+  日本語が上手になれば、日本で働けるかもしれません。
+  日本語[にほんご]が 上手[じょうず]になれば、日本[にほん]で 働[はたら]けるかもしれません。
+  Wenn du besser Japanisch sprichst, kannst du vielleicht in Japan arbeiten.
+
+  もっと早く起きれば、電車に間に合ったのに。
+  もっと 早[はや]く 起[お]きれば、電車[でんしゃ]に 間[ま]に 合[あ]ったのに。
+  Wenn ich früher aufgestanden wäre, hätte ich den Zug noch erwischt.
+
+  この本を読めば、試験に合格できるはずです。
+  この 本[ほん]を 読[よ]めば、試験[しけん]に 合格[ごうかく]できるはずです。
+  Wenn du dieses Buch liest, solltest du die Prüfung bestehen können.
+
+  暇があれば、遊びに来てください。
+  暇[ひま]があれば、遊[あそ]びに 来[き]てください。
+  Wenn du Zeit hast, komm bitte zu Besuch.
+
+  もし可能であれば、明日の会議に参加したいです。
+  もし 可能[かのう]であれば、明日[あした]の 会議[かいぎ]に 参加[さんか]したいです。
+  Wenn es möglich ist, möchte ich an der Besprechung morgen teilnehmen.
+
+  寒ければ寒いほど、温かい飲み物が欲しくなります。
+  寒[さむ]ければ 寒[さむ]いほど、温[あたた]かい 飲[の]み 物[もの]が 欲[ほ]しくなります。
+  Je kälter es ist, desto mehr sehne ich mich nach einem warmen Getränk.
+
+  彼女に会えば会うほど、好きになります。
+  彼女[かのじょ]に 会[あ]えば 会[あ]うほど、好[す]きになります。
+  Je öfter ich sie treffe, desto mehr mag ich sie.
+
+  野菜をたくさん食べれば、健康になりますよ。
+  野菜[やさい]をたくさん 食[た]べれば、健康[けんこう]になりますよ。
+  Wenn du viel Gemüse isst, wirst du gesund.
+
+  君も一緒に行けば？楽しいと思うよ。
+  君[きみ]も 一緒[いっしょ]に 行[い]けば？ 楽[たの]しいと 思[おも]うよ。
+  Warum gehst du nicht auch mit? Ich denke, es wird Spaß machen.
+
+  彼に聞けば、詳しい情報がわかるかもしれません。
+  彼[かれ]に 聞[き]けば、詳[くわ]しい 情報[じょうほう]がわかるかもしれません。
+  Wenn du ihn fragst, erfährst du vielleicht genauere Informationen.
+
+  早く寝れば、朝も早く起きられるでしょう。
+  早[はや]く 寝[ね]れば、朝[あさ]も 早[はや]く 起[お]きられるでしょう。
+  Wenn du früh schlafen gehst, kannst du wahrscheinlich auch früh aufstehen.
+
+  この機会を逃せば、二度とないかもしれません。
+  この 機会[きかい]を 逃[のが]せば、二度[にど]とないかもしれません。
+  Wenn du diese Gelegenheit verpasst, kommt sie vielleicht nie wieder.
+
+  彼女は英語も話せば、フランス語も話します。
+  彼女[かのじょ]は 英語[えいご]も 話[はな]せば、フランス語[ふらんすご]も 話[はな]します。
+  Sie spricht sowohl Englisch als auch Französisch.
+
+  もし許されれば、もう一度チャレンジしたいです。
+  もし 許[ゆる]されれば、もう 一度[いちど]チャレンジしたいです。
+  Wenn es erlaubt wäre, würde ich es gerne noch einmal versuchen.
+
+  できれば、明日までに報告書を提出してください。
+  できれば、明日[あした]までに 報告書[ほうこくしょ]を 提出[ていしゅつ]してください。
+  Wenn möglich, reichen Sie bitte den Bericht bis morgen ein.
+
+  例えば、この方法を使えば、簡単に解決できます。
+  例[たと]えば、この 方法[ほうほう]を 使[つか]えば、簡単[かんたん]に 解決[かいけつ]できます。
+  Zum Beispiel, wenn du diese Methode verwendest, kannst du das Problem einfach lösen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

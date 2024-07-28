@@ -1,7 +1,7 @@
 Rang: 428
 Lemma: 切る
 Lesung: きる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 斬る・截る・伐る・剪る
 Definition: schneiden
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">き</span><span>る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 切らない・切った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   紙を半分に切ってください。
   紙[かみ]を 半分[はんぶん]に 切[き]ってください。
   Bitte schneiden Sie das Papier in der Mitte.
+
+  野菜を切る時は注意して指を切らないように気をつけましょう。
+  野菜[やさい]を 切[き]る 時[とき]は 注意[ちゅうい]して 指[ゆび]を 切[き]らないように 気[き]をつけましょう。
+  Beim Gemüseschneiden sollten wir vorsichtig sein, um uns nicht in den Finger zu schneiden.
+
+  髪の毛を切るのに美容院に行きました。
+  髪[かみ]の 毛[け]を 切[き]るのに 美容院[びよういん]に 行[い]きました。
+  Ich bin zum Friseur gegangen, um mir die Haare schneiden zu lassen.
+
+  のこぎりで木を切るのは難しいですね。
+  のこぎりで 木[き]を 切[き]るのは 難[むずか]しいですね。
+  Es ist schwierig, einen Baum mit einer Säge zu fällen, nicht wahr?
+
+  包丁で指先を切ってしまい、絆創膏を貼りました。
+  包丁[ほうちょう]で 指先[ゆびさき]を 切[き]ってしまい、絆創膏[ばんそうこう]を 貼[は]りました。
+  Ich habe mich mit dem Küchenmesser in den Finger geschnitten und ein Pflaster aufgeklebt.
+
+  電話を切る前に、「また連絡します」と言いました。
+  電話[でんわ]を 切[き]る 前[まえ]に、「また 連絡[れんらく]します」と 言[い]いました。
+  Bevor ich auflegte, sagte ich: "Ich melde mich wieder".
+
+  クーラーを切って、窓を開けました。
+  クーラーを 切[き]って、窓[まど]を 開[あ]けました。
+  Ich schaltete die Klimaanlage aus und öffnete das Fenster.
+
+  バットは球に当たらず空気を切るだけでした。
+  バットは 球[たま]に 当[あ]たらず 空気[くうき]を 切[き]るだけでした。
+  Der Schläger traf den Ball nicht und zerschnitt nur die Luft.
+
+  船が波を切って進んでいく様子は壮観でした。
+  船[ふね]が 波[なみ]を 切[き]って 進[すす]んでいく 様子[ようす]は 壮観[そうかん]でした。
+  Der Anblick des Schiffes, das die Wellen durchpflügte, war beeindruckend.
+
+  揚げ物の油を切るのを忘れずに。
+  揚[あ]げ 物[もの]の 油[あぶら]を 切[き]るのを 忘[わす]れずに。
+  Vergiss nicht, das Fett von den frittierten Speisen abtropfen zu lassen.
+
+  ハンドルを切って、駐車場に入りました。
+  ハンドルを 切[き]って、駐車場[ちゅうしゃじょう]に 入[はい]りました。
+  Ich lenkte das Steuer ein und fuhr in den Parkplatz.
+
+  期限を切って、プロジェクトの締め切りを設定しました。
+  期限[きげん]を 切[き]って、プロジェクトの 締[し]め 切[き]りを 設定[せってい]しました。
+  Ich setzte einen Termin fest und legte die Projektfrist fest.
+
+  100メートル競走で10秒を切る選手は少ないです。
+  100[ひゃく]メートル 競走[きょうそう]で10[じゅう]秒[びょう]を 切[き]る 選手[せんしゅ]は 少[すく]ないです。
+  Es gibt nur wenige Athleten, die den 100-Meter-Lauf in unter 10 Sekunden schaffen.
+
+  スタートを切って、マラソンが始まりました。
+  スタートを 切[き]って、マラソンが 始[はじ]まりました。
+  Der Marathonlauf begann mit dem Startschuss.
+
+  小切手を切って、支払いを済ませました。
+  小切手[こぎって]を 切[き]って、支払[しはら]いを 済[す]ませました。
+  Ich stellte einen Scheck aus und erledigte die Zahlung.
+
+  カードをよく切ってから、ゲームを始めましょう。
+  カードをよく 切[き]ってから、ゲームを 始[はじ]めましょう。
+  Lass uns die Karten gut mischen, bevor wir mit dem Spiel beginnen.
+
+  牛乳を飲み切るのは苦手です。
+  牛乳[ぎゅうにゅう]を 飲[の]み 切[き]るのは 苦手[にがて]です。
+  Ich habe Schwierigkeiten, die ganze Milch auszutrinken.
+
+  この小説を読み切るのに一週間かかりました。
+  この 小説[しょうせつ]を 読[よ]み 切[き]るのに 一週間[いっしゅうかん]かかりました。
+  Es hat eine Woche gedauert, diesen Roman zu Ende zu lesen.
+
+  人気商品が売り切れていて、がっかりしました。
+  人気[にんき]商品[しょうひん]が 売[う]り 切[き]れていて、がっかりしました。
+  Ich war enttäuscht, dass der beliebte Artikel ausverkauft war.
+
+  マラソンを走り切って、疲れ切っています。
+  マラソンを 走[はし]り 切[き]って、疲[つか]れ 切[き]っています。
+  Nachdem ich den Marathon zu Ende gelaufen bin, bin ich völlig erschöpft.
+
+  この量は食べ切れないので、持ち帰ります。
+  この 量[りょう]は 食[た]べ 切[き]れないので、持[も]ち 帰[かえ]ります。
+  Da ich diese Menge nicht aufessen kann, nehme ich sie mit nach Hause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

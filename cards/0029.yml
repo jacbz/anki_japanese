@@ -2,7 +2,7 @@ Rang: 29
 Lemma: か
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: FRAGE; wenn; oder
+Definition: '[Fragepartikel]; oder; sehr'
 Extra: '' # Nur bei suru-Verben
 Wortart: part
 Lesung mit Tonhöhe: ''
@@ -21,6 +21,86 @@ Beispielsätze: |-
   誰か来たようだ。
   誰[だれ]か 来[き]たようだ。
   Es scheint, dass jemand gekommen ist.
+
+  彼女の名前は何ですか。
+  彼女[かのじょ]の 名前[なまえ]は 何[なん]ですか。
+  Wie heißt sie?
+
+  新しい仕事はどうですか。
+  新[あたら]しい 仕事[しごと]はどうですか。
+  Wie ist dein neuer Job?
+
+  この本を読んだことがありますか。
+  この 本[ほん]を 読[よ]んだことがありますか。
+  Hast du dieses Buch schon mal gelesen?
+
+  明日の天気はどうなるでしょうか。
+  明日[あした]の 天気[てんき]はどうなるでしょうか。
+  Wie wird wohl das Wetter morgen?
+
+  彼は来るだろうか。
+  彼[かれ]は 来[く]るだろうか。
+  Ob er wohl kommen wird?
+
+  そんなことできるわけがないだろうか。
+  そんなことできるわけがないだろうか。
+  Das ist doch sicher unmöglich, oder?
+
+  映画を見に行きませんか。
+  映画[えいが]を 見[み]に 行[い]きませんか。
+  Wollen wir ins Kino gehen?
+
+  一緒にお茶でも飲みませんか。
+  一緒[いっしょ]にお 茶[ちゃ]でも 飲[の]みませんか。
+  Möchtest du vielleicht mit mir einen Tee trinken gehen?
+
+  散歩に行かない？
+  散歩[さんぽ]に 行[い]かない？
+  Hast du Lust spazieren zu gehen?
+
+  なんて素晴らしい景色なんだろうか。
+  なんて 素晴[すば]らしい 景色[けしき]なんだろうか。
+  Was für eine wunderbare Aussicht!
+
+  まあ、なんてかわいい赤ちゃんでしょうか。
+  まあ、なんてかわいい 赤[あか]ちゃんでしょうか。
+  Oh, was für ein süßes Baby!
+
+  えっ、本当ですか。
+  えっ、本当[ほんとう]ですか。
+  Was, wirklich?
+
+  彼はいつか来るだろう。
+  彼[かれ]はいつか 来[く]るだろう。
+  Er wird irgendwann kommen.
+
+  彼女は三十歳か四十歳くらいだ。
+  彼女[かのじょ]は 三十[さんじゅう]歳[さい]か 四十[よんじゅう]歳[さい]くらいだ。
+  Sie ist ungefähr dreißig oder vierzig Jahre alt.
+
+  コーヒーか紅茶、どちらがいい？
+  コーヒーか 紅茶[こうちゃ]、どちらがいい？
+  Möchtest du lieber Kaffee oder Tee?
+
+  明日か明後日には結果が分かるはずだ。
+  明日[あした]か 明後日[あさって]には 結果[けっか]が 分[わ]かるはずだ。
+  Das Ergebnis sollte morgen oder übermorgen bekannt sein.
+
+  彼女はか細い声で話した。
+  彼女[かのじょ]はか 細[ぼそ]い 声[こえ]で 話[はな]した。
+  Sie sprach mit sehr leiser Stimme.
+
+  その動物はか弱そうに見えた。
+  その 動物[どうぶつ]はか 弱[よわ]そうに 見[み]えた。
+  Das Tier sah sehr schwach aus.
+
+  彼の顔はか黒く日焼けしていた。
+  彼[かれ]の 顔[かお]はか 黒[くろ]く 日焼[ひや]けしていた。
+  Sein Gesicht war sehr dunkel gebräunt.
+
+  君はどこか行くの？
+  君[きみ]はどこか 行[い]くの？
+  Gehst du irgendwohin?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

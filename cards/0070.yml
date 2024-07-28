@@ -1,7 +1,7 @@
 Rang: 70
 Lemma: 良い
 Lesung: ''
-Alternativschreibweisen: いい
+Alternativschreibweisen: いい・善い・好い
 Definition: gut
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">よ</span><span class="">い</span
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 良くない・良かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   彼は良い人だ。
   彼[かれ]は 良[よ]い人だ。
   Er ist ein guter Mann.
+
+  良い結果が得られるよう頑張りましょう。
+  よい 結果[けっか]が 得[え]られるよう 頑張[がんば]りましょう。
+  Lasst uns unser Bestes geben, um ein gutes Ergebnis zu erzielen.
+
+  今日は良い天気ですね。
+  今日[きょう]は よい 天気[てんき]ですね。
+  Heute ist schönes Wetter, nicht wahr?
+
+  彼は良いことをしたと思います。
+  彼[かれ]は よいことをしたと 思[おも]います。
+  Ich denke, er hat etwas Gutes getan.
+
+  この温泉は良い気分になれるよ。
+  この 温泉[おんせん]は よい 気分[きぶん]になれるよ。
+  In diesem Onsen kannst du dich richtig gut fühlen.
+
+  良いところに来たね、一緒にお茶でも飲もう。
+  よいところに 来[き]たね、一緒[いっしょ]にお 茶[ちゃ]でも 飲[の]もう。
+  Du kommst gerade recht, lass uns zusammen einen Tee trinken.
+
+  この絵はとても良い値で売れそうだ。
+  この 絵[え]はとても よい 値[ね]で 売[う]れそうだ。
+  Dieses Gemälde wird sich wahrscheinlich für einen guten Preis verkaufen lassen.
+
+  みんなが良いとみなす解決策を見つけよう。
+  みんなが よいとみなす 解決策[かいけつさく]を 見[み]つけよう。
+  Lass uns eine Lösung finden, die alle für gut halten.
+
+  このレストランの料理は風味が良いと評判だ。
+  この レストランの 料理[りょうり]は 風味[ふうみ]が よいと 評判[ひょうばん]だ。
+  Die Gerichte in diesem Restaurant sind für ihren guten Geschmack bekannt.
+
+  祖父は年を取っても血色が良い。
+  祖父[そふ]は 年[とし]を 取[と]っても 血色[けっしょく]が よい。
+  Mein Großvater hat trotz seines Alters eine gesunde Gesichtsfarbe.
+
+  この野菜は持ちが良いので長期保存できます。
+  この 野菜[やさい]は 持[も]ちが よいので 長期[ちょうき] 保存[ほぞん]できます。
+  Dieses Gemüse ist sehr haltbar und kann lange gelagert werden.
+
+  この家は日当たりが良くて明るいね。
+  この 家[いえ]は 日当[ひあ]たりが よくて 明[あか]るいね。
+  Dieses Haus ist sonnig und hell, nicht wahr?
+
+  この料理は胃に良いと言われています。
+  この 料理[りょうり]は 胃[い]に よいと 言[い]われています。
+  Es heißt, dieses Gericht sei gut für den Magen.
+
+  今日はとても視界が良い日だね。
+  今日[きょう]はとても 視界[しかい]が よい 日[ひ]だね。
+  Heute ist ein Tag mit sehr guter Sicht.
+
+  大きな変化は良いこともあるが、悪いこともある。
+  大[おお]きな 変化[へんか]は よいこともあるが、悪[わる]いこともある。
+  Große Veränderungen können sowohl gute als auch schlechte Folgen haben.
+
+  今日一日が平穏に過ごせればそれで良い。
+  今日[きょう] 一日[いちにち]が 平穏[へいおん]に 過[す]ごせれば それで よい。
+  Es reicht, wenn dieser Tag ruhig verläuft.
+
+  良い年をして、まだそんなことをするの？
+  よい 年[とし]をして、まだ そんなことをするの？
+  Du bist schon so alt und machst immer noch solche Sachen?
+
+  もう帰っても良いですよ。
+  もう 帰[かえ]っても よいですよ。
+  Sie dürfen jetzt nach Hause gehen.
+
+  今日は休んでも良いと先生が言った。
+  今日[きょう]は 休[やす]んでも よいと 先生[せんせい]が 言[い]った。
+  Der Lehrer sagte, dass wir uns heute ausruhen dürfen.
+
+  明日は来なくても良いです。
+  明日[あした]は 来[こ]なくても よいです。
+  Sie müssen morgen nicht kommen.
+
+  この万年筆は書き良いので気に入っています。
+  この 万年筆[まんねんひつ]は 書[か]き よいので 気[き]に 入[い]っています。
+  Dieser Füllfederhalter schreibt so gut, dass ich ihn sehr mag.
+
+  早く寝た方が良いよ。
+  早[はや]く 寝[ね]た 方[ほう]が よいよ。
+  Du solltest lieber früh schlafen gehen.
+
+  よかった！試験に合格できて本当に嬉しい。
+  よかった！ 試験[しけん]に 合格[ごうかく]できて 本当[ほんとう]に 嬉[うれ]しい。
+  Gott sei Dank! Ich bin so froh, dass ich die Prüfung bestanden habe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
