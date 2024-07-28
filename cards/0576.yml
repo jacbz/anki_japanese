@@ -1,15 +1,15 @@
 Rang: 576
 Lemma: 引く
 Lesung: ひく
-Alternativschreibweisen: ''
+Alternativschreibweisen: 曳く・牽く・退く・惹く
 Definition: ziehen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 引かない・引いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   この紐を引くとベルが鳴る。
   この 紐[ひも]を 引[ひ]くとベルが 鳴[な]る。
   Wenn man an diesem Seil zieht, läutet die Glocke.
+
+  母の手を引いて歩く。
+  母[はは]の 手[て]を 引[ひ]いて 歩[ある]く。
+  Ich gehe an der Hand meiner Mutter.
+
+  ドアを引いて開けてください。
+  ドアを 引[ひ]いて 開[あ]けてください。
+  Bitte ziehen Sie die Tür auf.
+
+  風邪を引かないように気をつけてね。
+  風邪[かぜ]を 引[ひ]かないように 気[き]をつけてね。
+  Pass auf, dass du dich nicht erkältest.
+
+  彼女の美しさに目を引かれた。
+  彼女[かのじょ]の 美[うつく]しさに 目[め]を 引[ひ]かれた。
+  Ich wurde von ihrer Schönheit angezogen.
+
+  納豆が糸を引いている。
+  納豆[なっとう]が 糸[いと]を 引[ひ]いている。
+  Der Natto zieht Fäden.
+
+  地図を引いて経路を確認しよう。
+  地図[ちず]を 引[ひ]いて 経路[けいろ]を 確認[かくにん]しよう。
+  Lass uns eine Karte zeichnen und die Route überprüfen.
+
+  新しい家に電話を引いた。
+  新[あたら]しい 家[いえ]に 電話[でんわ]を 引[ひ]いた。
+  Wir haben in unserem neuen Haus einen Telefonanschluss legen lassen.
+
+  彼女の話し方は人の注意を引く。
+  彼女[かのじょ]の 話[はな]し 方[かた]は 人[ひと]の 注意[ちゅうい]を 引[ひ]く。
+  Ihre Art zu sprechen zieht die Aufmerksamkeit der Leute auf sich.
+
+  10から3を引くと7になります。
+  10から3を 引[ひ]くと7になります。
+  Wenn man 3 von 10 abzieht, ergibt das 7.
+
+  政界から身を引くことにした。
+  政界[せいかい]から 身[み]を 引[ひ]くことにした。
+  Ich habe beschlossen, mich aus der Politik zurückzuziehen.
+
+  辞書を引いて言葉の意味を調べた。
+  辞書[じしょ]を 引[ひ]いて 言葉[ことば]の 意味[いみ]を 調[しら]べた。
+  Ich habe im Wörterbuch nachgeschlagen, um die Bedeutung des Wortes herauszufinden.
+
+  彼は父親の血を引いている。
+  彼[かれ]は 父親[ちちおや]の 血[ち]を 引[ひ]いている。
+  Er kommt nach seinem Vater.
+
+  カードを引いて、運勢を占ってみよう。
+  カードを 引[ひ]いて、運勢[うんせい]を 占[うらな]ってみよう。
+  Lass uns eine Karte ziehen und unser Schicksal vorhersagen.
+
+  彼は舞台から引いて普通の生活を始めた。
+  彼[かれ]は 舞台[ぶたい]から 引[ひ]いて 普通[ふつう]の 生活[せいかつ]を 始[はじ]めた。
+  Er hat sich von der Bühne zurückgezogen und ein normales Leben begonnen.
+
+  痛みが引いてきたので安心した。
+  痛[いた]みが 引[ひ]いてきたので 安心[あんしん]した。
+  Ich war erleichtert, als der Schmerz nachließ.
+
+  彼女は眉を引いて、化粧を仕上げた。
+  彼女[かのじょ]は 眉[まゆ]を 引[ひ]いて、化粧[けしょう]を 仕上[しあ]げた。
+  Sie zog ihre Augenbrauen nach und vollendete ihr Make-up.
+
+  客足が引いて、店の売り上げが下がった。
+  客足[きゃくあし]が 引[ひ]いて、店[みせ]の 売[う]り 上[あ]げが 下[さ]がった。
+  Die Zahl der Kunden ging zurück, und der Umsatz des Geschäfts sank.
+
+  彼は自分の意見を裏付けるために、有名な作家の言葉を引いた。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 裏付[うらづ]けるために、有名[ゆうめい]な 作家[さっか]の 言葉[ことば]を 引[ひ]いた。
+  Er zitierte die Worte eines berühmten Schriftstellers, um seine Meinung zu untermauern.
+
+  熱が引いたら、学校に行けるよ。
+  熱[ねつ]が 引[ひ]いたら、学校[がっこう]に 行[い]けるよ。
+  Wenn dein Fieber zurückgeht, kannst du zur Schule gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

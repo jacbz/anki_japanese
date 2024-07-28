@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>た</span><span class="accent_plain">だ</span><span 
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 正しくない・正しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   三つの中から正しい答えを選びなさい。
   三[みっ]つの 中[なか]から 正[ただ]しい 答[こた]えを 選[えら]びなさい。
   Wählen Sie die richtige Antwort aus den drei Optionen aus.
+
+  この問題の正しい解答を選んでください。
+  この 問題[もんだい]の 正[ただ]しい 解答[かいとう]を 選[えら]んでください。
+  Bitte wählen Sie die richtige Antwort für diese Frage aus.
+
+  あなたの行為は正しいと思います。
+  あなたの 行為[こうい]は 正[ただ]しいと 思[おも]います。
+  Ich denke, dein Verhalten ist richtig.
+
+  正しい選択をするのは難しいことがあります。
+  正[ただ]しい 選択[せんたく]をするのは 難[むずか]しいことがあります。
+  Es kann schwierig sein, die richtige Wahl zu treffen.
+
+  これは正しいか間違いかの問題ではありません。
+  これは 正[ただ]しいか 間違[まちが]いかの 問題[もんだい]ではありません。
+  Es ist keine Frage von richtig oder falsch.
+
+  私の理解が正しければ、明日は休日ですね。
+  私[わたし]の 理解[りかい]が 正[ただ]しければ、明日[あした]は 休日[きゅうじつ]ですね。
+  Wenn ich es richtig verstanden habe, ist morgen ein Feiertag, nicht wahr?
+
+  この機械の正しい扱い方を教えてください。
+  この 機械[きかい]の 正[ただ]しい 扱[あつか]い 方[かた]を 教[おし]えてください。
+  Bitte erklären Sie mir den richtigen Umgang mit dieser Maschine.
+
+  テストで正しい答えを出すのは簡単ではありません。
+  テストで 正[ただ]しい 答[こた]えを 出[だ]すのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, im Test die richtigen Antworten zu geben.
+
+  この文は文法上正しいですか？
+  この 文[ぶん]は 文法上[ぶんぽうじょう] 正[ただ]しいですか？
+  Ist dieser Satz grammatikalisch korrekt?
+
+  規律正しい生活を送ることは健康に良いです。
+  規律正[きりつただ]しい 生活[せいかつ]を 送[おく]ることは 健康[けんこう]に 良[よ]いです。
+  Ein diszipliniertes Leben zu führen ist gut für die Gesundheit.
+
+  彼の言うことは正しいと思います。
+  彼[かれ]の 言[い]うことは 正[ただ]しいと 思[おも]います。
+  Ich denke, was er sagt, ist richtig.
+
+  姿勢を正しくすると、腰痛が改善されることがあります。
+  姿勢[しせい]を 正[ただ]しくすると、腰痛[ようつう]が 改善[かいぜん]されることがあります。
+  Wenn man eine aufrechte Haltung einnimmt, kann sich Rückenschmerz manchmal verbessern.
+
+  礼儀正しい態度は、ビジネスの場で重要です。
+  礼儀正[れいぎただ]しい 態度[たいど]は、ビジネスの 場[ば]で 重要[じゅうよう]です。
+  Eine höfliche Haltung ist in der Geschäftswelt wichtig.
+
+  この漆器の正しい扱い方を知っていますか？
+  この 漆器[しっき]の 正[ただ]しい 扱[あつか]い 方[かた]を 知[し]っていますか？
+  Kennst du den richtigen Umgang mit diesem Lackgeschirr?
+
+  敬語を正しく使うのは難しいですね。
+  敬語[けいご]を 正[ただ]しく 使[つか]うのは 難[むずか]しいですね。
+  Es ist schwierig, Höflichkeitssprache korrekt zu verwenden, nicht wahr?
+
+  身持ちの正しい人生を送ることは大切です。
+  身持[みも]ちの 正[ただ]しい 人生[じんせい]を 送[おく]ることは 大切[たいせつ]です。
+  Es ist wichtig, ein anständiges Leben zu führen.
+
+  しかし答えは発音まで申し分なく正しかった。
+  しかし 答[こた]えは 発音[はつおん]まで 申[もう]し 分[ぶん]なく 正[ただ]しかった。
+  Die Antworten waren jedoch bis hin zur Aussprache tadellos korrekt.
+
+  利益は正しく配分しないと、後でトラブルになる可能性があります。
+  利益[りえき]は 正[ただ]しく 配分[はいぶん]しないと、後[あと]でトラブルになる 可能性[かのうせい]があります。
+  Wenn der Gewinn nicht korrekt verteilt wird, kann es später zu Problemen kommen.
+
+  依頼人の言うことが正しいと信じることが弁護士の仕事です。
+  依頼人[いらいにん]の 言[い]うことが 正[ただ]しいと 信[しん]じることが 弁護士[べんごし]の 仕事[しごと]です。
+  Es ist die Aufgabe eines Anwalts, zu glauben, dass das, was der Mandant sagt, richtig ist.
+
+  私の理解が正しければ、この提案は環境に良い影響を与えるはずです。
+  私[わたし]の 理解[りかい]が 正[ただ]しければ、この 提案[ていあん]は 環境[かんきょう]に 良[よ]い 影響[えいきょう]を 与[あた]えるはずです。
+  Wenn ich es richtig verstanden habe, sollte dieser Vorschlag positive Auswirkungen auf die Umwelt haben.
+
+  規則正しい生活リズムを保つことは、健康的な生活の基本です。
+  規則正[きそくただ]しい 生活[せいかつ]リズムを 保[たも]つことは、健康的[けんこうてき]な 生活[せいかつ]の 基本[きほん]です。
+  Einen geregelten Lebensrhythmus zu bewahren, ist die Grundlage für ein gesundes Leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 611
 Lemma: 落ちる
 Lesung: おちる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 墜ちる・堕ちる
 Definition: fallen, hinunterfallen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_top">ち</span><span>�
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 落ちない・落ちた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   彼ははしごから落ちた。
   彼[かれ]ははしごから 落[お]ちた。
   Er ist von einer Leiter gefallen.
+
+  木から葉っぱが落ちている。
+  木[き]から 葉っぱ[はっぱ]が 落[お]ちている。
+  Blätter fallen vom Baum.
+
+  階段から転んで落ちてしまった。
+  階段[かいだん]から 転[ころ]んで 落[お]ちてしまった。
+  Ich bin die Treppe hinuntergefallen.
+
+  雪が静かに落ちてきて、辺りが白くなった。
+  雪[ゆき]が 静[しず]かに 落[お]ちてきて、辺[あた]りが 白[しろ]くなった。
+  Der Schnee fiel leise und die Umgebung wurde weiß.
+
+  古い橋が落ちて、通行止めになった。
+  古[ふる]い 橋[はし]が 落[お]ちて、通行止[つうこうどめ]めになった。
+  Die alte Brücke ist eingestürzt und wurde für den Verkehr gesperrt.
+
+  飛行機が墜ちる夢を見て、冷や汗をかいた。
+  飛行機[ひこうき]が 墜[お]ちる 夢[ゆめ]を 見[み]て、冷や汗[ひやあせ]をかいた。
+  Ich hatte einen Traum, in dem ein Flugzeug abstürzte, und wachte schweißgebedeckt auf.
+
+  気まずい沈黙が二人の間に落ちた。
+  気[き]まずい 沈黙[ちんもく]が 二人[ふたり]の 間[あいだ]に 落[お]ちた。
+  Eine unangenehme Stille senkte sich zwischen die beiden.
+
+  川に落ちた犬を助け出した。
+  川[かわ]に 落[お]ちた 犬[いぬ]を 助[たす]け 出[だ]した。
+  Ich habe einen Hund gerettet, der in den Fluss gefallen war.
+
+  深い眠りに落ちて、朝まで目が覚めなかった。
+  深[ふか]い 眠[ねむ]りに 落[お]ちて、朝[あさ]まで 目[め]が 覚[さ]めなかった。
+  Ich bin in einen tiefen Schlaf versunken und bis zum Morgen nicht aufgewacht.
+
+  詐欺師の罠に落ちて、大金を失った。
+  詐欺師[さぎし]の 罠[わな]に 落[お]ちて、大金[たいきん]を 失[うしな]った。
+  Ich bin auf den Trick eines Betrügers hereingefallen und habe viel Geld verloren.
+
+  日が落ちて、空が赤く染まった。
+  日[ひ]が 落[お]ちて、空[そら]が 赤[あか]く 染[そ]まった。
+  Die Sonne ging unter und der Himmel färbte sich rot.
+
+  ダイエットで体重が5キロ落ちた。
+  ダイエットで 体重[たいじゅう]が5キロ 落[お]ちた。
+  Durch die Diät habe ich 5 Kilo abgenommen.
+
+  風邪で体力が落ちている。
+  風邪[かぜ]で 体力[たいりょく]が 落[お]ちている。
+  Wegen einer Erkältung ist meine körperliche Verfassung geschwächt.
+
+  人気が落ちて、店の売り上げが減少した。
+  人気[にんき]が 落[お]ちて、店[みせ]の 売[う]り 上[あ]げが 減少[げんしょう]した。
+  Die Popularität ist gesunken und der Umsatz des Geschäfts ist zurückgegangen.
+
+  視力が落ちてきたので、眼鏡を作ることにした。
+  視力[しりょく]が 落[お]ちてきたので、眼鏡[めがね]を 作[つく]ることにした。
+  Da meine Sehkraft nachgelassen hat, habe ich beschlossen, mir eine Brille machen zu lassen.
+
+  シャツについた染みが落ちなくて困っている。
+  シャツについた 染[し]みが 落[お]ちなくて 困[こま]っている。
+  Ich habe Probleme, weil der Fleck auf meinem Hemd nicht herausgeht.
+
+  名簿から私の名前が落ちていた。
+  名簿[めいぼ]から 私[わたし]の 名前[なまえ]が 落[お]ちていた。
+  Mein Name fehlte auf der Liste.
+
+  大学入試に落ちて、浪人生活を送ることになった。
+  大学入試[だいがくにゅうし]に 落[お]ちて、浪人生活[ろうにんせいかつ]を 送[おく]ることになった。
+  Ich bin bei der Universitätsaufnahmeprüfung durchgefallen und musste ein Jahr lang als Ronin leben.
+
+  敵に追われ、崖から川へ落ちた。
+  敵[てき]に 追[お]われ、崖[がけ]から 川[かわ]へ 落[お]ちた。
+  Von Feinden verfolgt, bin ich von der Klippe in den Fluss gestürzt.
+
+  長年の攻防の末、城が落ちた。
+  長年[ながねん]の 攻防[こうぼう]の 末[すえ]、城[しろ]が 落[お]ちた。
+  Nach jahrelanger Belagerung fiel die Burg schließlich.
+
+  遺産が私に落ちることになった。
+  遺産[いさん]が 私[わたし]に 落[お]ちることになった。
+  Das Erbe ist mir zugefallen.
+
+  ギャンブルに落ちる金が年々増えている。
+  ギャンブルに 落[お]ちる 金[かね]が 年々[ねんねん] 増[ふ]えている。
+  Das Geld, das ins Glücksspiel fließt, nimmt von Jahr zu Jahr zu.
+
+  容疑者が落ちて、事件の全容が明らかになった。
+  容疑者[ようぎしゃ]が 落[お]ちて、事件[じけん]の 全容[ぜんよう]が 明[あき]らかになった。
+  Der Verdächtige ist geständig geworden, und der ganze Fall wurde aufgeklärt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

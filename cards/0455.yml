@@ -1,8 +1,8 @@
 Rang: 455
 Lemma: 思い
 Lesung: おもい
-Alternativschreibweisen: ''
-Definition: Gedanke
+Alternativschreibweisen: 想い
+Definition: Gedanke; Gefühl; Wunsch
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">も</span><span class="accent_plain">い</span>
@@ -17,6 +17,86 @@ Beispielsätze: |-
   その子はさびしい思いをしていたに違いない。
   その 子[こ]はさびしい 思[おも]いをしていたに 違[ちが]いない。
   Der Junge muss sich einsam gefühlt haben.
+
+  自分の思いを正直に話すのは大切です。
+  自分[じぶん]の 思[おも]いを 正直[しょうじき]に 話[はな]すのは 大切[たいせつ]です。
+  Es ist wichtig, ehrlich auszudrücken, was man denkt.
+
+  さまざまな思いが、いっせいに渦まきはじめた。
+  さまざまな 思[おも]いが、いっせいに 渦[うず]まきはじめた。
+  Alle möglichen Gedanken begannen auf einmal zu wirbeln.
+
+  彼女は友人の周辺にそんな男がいなかったかと思いを巡らせた。
+  彼女[かのじょ]は 友人[ゆうじん]の 周辺[しゅうへん]にそんな 男[おとこ]がいなかったかと 思[おも]いを 巡[めぐ]らせた。
+  Sie überlegte, ob es einen solchen Mann im Umfeld ihrer Freundin gegeben hatte.
+
+  私の思いに反して、眠りは二時間しかつづかなかった。
+  私[わたし]の 思[おも]いに 反[はん]して、眠[ねむ]りは 二時間[にじかん]しかつづかなかった。
+  Entgegen meiner Erwartung dauerte mein Schlaf nur zwei Stunden.
+
+  乞食は思いのほか彼女の権幕には驚かなかった。
+  乞食[こじき]は 思[おも]いのほか 彼女[かのじょ]の 権幕[けんまく]には 驚[おどろ]かなかった。
+  Der Bettler war von ihrer drohenden Haltung überraschend wenig beeindruckt.
+
+  歯がゆい思いをしながら、彼の説明を聞いていた。
+  歯[は]がゆい 思[おも]いをしながら、彼[かれ]の 説明[せつめい]を 聞[き]いていた。
+  Ich hörte seiner Erklärung zu, während ich mich zunehmend ärgerte.
+
+  怖い思いをしたけど、最後には無事だった。
+  怖[こわ]い 思[おも]いをしたけど、最後[さいご]には 無事[ぶじ]だった。
+  Ich hatte eine angstvolle Erfahrung, aber am Ende war alles in Ordnung.
+
+  悲しい思いをしたが、それを乗り越えて強くなった。
+  悲[かな]しい 思[おも]いをしたが、それを 乗[の]り 越[こ]えて 強[つよ]くなった。
+  Ich machte eine traurige Erfahrung, aber ich überwand sie und wurde stärker.
+
+  ほっとする思いと、心配とが入り交じっていた。
+  ほっとする 思[おも]いと、心配[しんぱい]とが 入[い]り 交[ま]じっていた。
+  Erleichterung und Sorge vermischten sich in meinen Gefühlen.
+
+  長年の思いが叶って、やっと夢の仕事に就けた。
+  長年[ながねん]の 思[おも]いが 叶[かな]って、やっと 夢[ゆめ]の 仕事[しごと]に 就[つ]けた。
+  Mein langjähriger Wunsch ging in Erfüllung, und ich bekam endlich meinen Traumjob.
+
+  彼女に思いを寄せているが、まだ告白していない。
+  彼女[かのじょ]に 思[おも]いを 寄[よ]せているが、まだ 告白[こくはく]していない。
+  Ich habe Gefühle für sie, habe es ihr aber noch nicht gestanden.
+
+  思いを弄ばれて、心が傷ついた。
+  思[おも]いを 弄[もてあそ]ばれて、心[こころ]が 傷[きず]ついた。
+  Meine Gefühle wurden verletzt, weil jemand mit ihnen gespielt hat.
+
+  彼との別れに思いが残る。
+  彼[かれ]との 別[わか]れに 思[おも]いが 残[のこ]る。
+  Die Trennung von ihm hinterlässt ein Gefühl des Bedauerns.
+
+  家族の健康を思い、毎日の食事に気を配っている。
+  家族[かぞく]の 健康[けんこう]を 思[おも]い、毎日[まいにち]の 食事[しょくじ]に 気[き]を 配[くば]っている。
+  Aus Sorge um die Gesundheit meiner Familie achte ich täglich auf unsere Ernährung.
+
+  思いもかけない結果に、皆が驚いた。
+  思[おも]いもかけない 結果[けっか]に、皆[みな]が 驚[おどろ]いた。
+  Alle waren von dem unerwarteten Ergebnis überrascht.
+
+  思いもよらない事故に遭遇し、人生観が変わった。
+  思[おも]いもよらない 事故[じこ]に 遭遇[そうぐう]し、人生観[じんせいかん]が 変[か]わった。
+  Ich erlebte einen unvorstellbaren Unfall, der meine Lebenseinstellung veränderte.
+
+  赤ちゃんがこれほど大量に紙オムツを消費するとは思いもよらなかった。
+  赤[あか]ちゃんがこれほど 大量[たいりょう]に 紙[かみ]オムツを 消費[しょうひ]するとは 思[おも]いもよらなかった。
+  Ich hätte nie gedacht, dass ein Baby so viele Papierwindeln verbrauchen würde.
+
+  彼の説明を聞いて、事情が思い半ばに過ぎた。
+  彼[かれ]の 説明[せつめい]を 聞[き]いて、事情[じじょう]が 思[おも]い 半[なか]ばに 過[す]ぎた。
+  Nachdem ich seine Erklärung gehört hatte, verstand ich die Situation ungefähr zur Hälfte.
+
+  酒に思いを晴らすのは一時的な解決策にすぎない。
+  酒[さけ]に 思[おも]いを 晴[は]らすのは 一時的[いちじてき]な 解決策[かいけつさく]にすぎない。
+  Seine Sorgen in Alkohol zu ertränken, ist nur eine vorübergehende Lösung.
+
+  長年の思いを遂げ、ついに自分の店を開いた。
+  長年[ながねん]の 思[おも]いを 遂[と]げ、ついに 自分[じぶん]の 店[みせ]を 開[ひら]いた。
+  Ich verwirklichte meinen langjährigen Wunsch und eröffnete endlich meinen eigenen Laden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,8 +1,8 @@
 Rang: 109
 Lemma: 入る
 Lesung: はいる
-Alternativschreibweisen: ''
-Definition: eintreten, hineingehen
+Alternativschreibweisen: 這入る
+Definition: (hinein-)gehen; eintreten
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">は</span><span class="">い</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="accent_top">は</span><span class="">い</span
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 入らない・入った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   どうぞお入りください。
   どうぞお 入[はい]りください。
   Bitte treten Sie ein.
+
+  どうぞ、お入りください。
+  どうぞ、お 入[はい]りください。
+  Bitte treten Sie ein!
+
+  病院に入っている患者さんは、早く回復することを願っています。
+  病院[びょういん]に 入[はい]っている 患者[かんじゃ]さんは、早[はや]く 回復[かいふく]することを 願[ねが]っています。
+  Die Patienten im Krankenhaus hoffen auf eine schnelle Genesung.
+
+  布団に入る時間だよ。おやすみなさい。
+  布団[ふとん]に 入[はい]る 時間[じかん]だよ。おやすみなさい。
+  Es ist Zeit, ins Bett zu gehen. Gute Nacht.
+
+  部屋に入る前に、ノックをするのを忘れないでください。
+  部屋[へや]に 入[はい]る 前[まえ]に、ノックをするのを 忘[わす]れないでください。
+  Vergessen Sie nicht anzuklopfen, bevor Sie das Zimmer betreten.
+
+  ホームに入る電車にご注意ください。
+  ホームに 入[はい]る 電車[でんしゃ]にご 注意[ちゅうい]ください。
+  Bitte achten Sie auf den einfahrenden Zug.
+
+  右に入ると、図書館があります。
+  右[みぎ]に 入[はい]ると、図書館[としょかん]があります。
+  Wenn Sie rechts abbiegen, finden Sie die Bibliothek.
+
+  お風呂に入って、今日の疲れを癒そう。
+  お 風呂[ふろ]に 入[はい]って、今日[きょう]の 疲[つか]れを 癒[いや]そう。
+  Lass uns ein Bad nehmen und die Müdigkeit des Tages abwaschen.
+
+  来月から新しい会社に入ります。
+  来月[らいげつ]から 新[あたら]しい 会社[かいしゃ]に 入[はい]ります。
+  Ab nächsten Monat trete ich in eine neue Firma ein.
+
+  この本には美しいイラストが入っています。
+  この 本[ほん]には 美[うつく]しいイラストが 入[はい]っています。
+  Dieses Buch enthält wunderschöne Illustrationen.
+
+  靴に石が入っているみたい。歩きにくいな。
+  靴[くつ]に 石[いし]が 入[はい]っているみたい。歩[ある]きにくいな。
+  Es scheint, als wäre ein Stein in meinem Schuh. Es ist schwer zu gehen.
+
+  窓から入ってくる日光で目が覚めました。
+  窓[まど]から 入[はい]ってくる 日光[にっこう]で 目[め]が 覚[さ]めました。
+  Ich wurde vom Sonnenlicht geweckt, das durch das Fenster hereinkam.
+
+  スイッチが入っているのに、機械が動きません。
+  スイッチが 入[はい]っているのに、機械[きかい]が 動[うご]きません。
+  Obwohl der Schalter eingeschaltet ist, funktioniert die Maschine nicht.
+
+  来週から夏休みに入ります。楽しみだな。
+  来週[らいしゅう]から 夏休[なつやす]みに 入[はい]ります。楽[たの]しみだな。
+  Ab nächster Woche beginnen die Sommerferien. Ich freue mich darauf.
+
+  その話は私の頭に全然入りません。
+  その 話[はなし]は 私[わたし]の 頭[あたま]に 全然[ぜんぜん] 入[はい]りません。
+  Ich kann diese Geschichte überhaupt nicht verstehen.
+
+  彼の名前はリストに入っていませんでした。
+  彼[かれ]の 名前[なまえ]はリストに 入[はい]っていませんでした。
+  Sein Name stand nicht auf der Liste.
+
+  このバッグには財布と携帯電話が入ります。
+  このバッグには 財布[さいふ]と 携帯電話[けいたいでんわ]が 入[はい]ります。
+  In diese Tasche passen ein Geldbeutel und ein Handy.
+
+  お茶が入りました。どうぞお召し上がりください。
+  お 茶[ちゃ]が 入[はい]りました。どうぞお 召[め]し 上[あ]がりください。
+  Der Tee ist fertig. Bitte bedienen Sie sich.
+
+  彼は仕事に熱が入っていて、休憩を取るのも忘れています。
+  彼[かれ]は 仕事[しごと]に 熱[ねつ]が 入[はい]っていて、休憩[きゅうけい]を 取[と]るのも 忘[わす]れています。
+  Er ist so vertieft in seine Arbeit, dass er sogar vergisst, Pausen zu machen.
+
+  この部屋にはもう人が入らないよ。満員だ。
+  この 部屋[へや]にはもう 人[ひと]が 入[はい]らないよ。満員[まんいん]だ。
+  In diesen Raum passen keine Leute mehr hinein. Er ist voll.
+
+  新しい情報が入り次第、お知らせします。
+  新[あた]しい 情報[じょうほう]が 入[はい]り 次第[しだい]、お 知[し]らせします。
+  Sobald neue Informationen eingehen, werden wir Sie informieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

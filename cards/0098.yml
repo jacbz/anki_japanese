@@ -2,14 +2,14 @@ Rang: 98
 Lemma: 持つ
 Lesung: もつ
 Alternativschreibweisen: ''
-Definition: haben, nehmen, halten
+Definition: haben, halten, besitzen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt, vi
 Lesung mit Tonhöhe: <span class="accent_top">も</span><span class="">つ</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 持たない・持った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   これを持ってくれませんか。
   これを 持[も]ってくれませんか。
   Kannst du das halten?
+
+  その荷物は私が持ちましょう。
+  その 荷物[にもつ]は 私[わたし]が 持[も]ちましょう。
+  Lass mich das Gepäck tragen.
+
+  荷物を持たずに長距離列車に乗るのは素敵な気分だった。
+  荷物[にもつ]を 持[も]たずに 長距離列車[ちょうきょりれっしゃ]に 乗[の]るのは 素敵[すてき]な 気分[きぶん]だった。
+  Ohne Gepäck in einen Zug zu steigen und weit weg zu fahren war ein tolles Gefühl!
+
+  きれいな歯を持っている。
+  きれいな 歯[は]を 持[も]っている。
+  Er hat schöne Zähne.
+
+  プルーストの『失われた時を求めて』も揃いで持ってるけど、半分しか読んでない。
+  プルーストの『失[うしな]われた 時[とき]を 求[もと]めて』も 揃[そろ]いで 持[も]ってるけど、半分[はんぶん]しか 読[よ]んでない。
+  Ich besitze die vollständige Ausgabe von Prousts 'Auf der Suche nach der verlorenen Zeit', habe sie aber nur zur Hälfte gelesen.
+
+  みんな広田先生に同情を持っている連中だ。
+  みんな 広田先生[ひろたせんせい]に 同情[どうじょう]を 持[も]っている 連中[れんちゅう]だ。
+  Es waren alles Leute, die Professor Hirota gegenüber mitfühlend eingestellt waren.
+
+  特に魚釣りには激しい熱情を持っていた。
+  特[とく]に 魚釣[さかな つ]りには 激[はげ]しい 熱情[ねつじょう]を 持[も]っていた。
+  Insbesondere hatte er eine starke Leidenschaft fürs Angeln.
+
+  僕は何ごとも正直に書かなければならぬ義務を持つてゐる。
+  僕[ぼく]は 何[なに]ごとも 正直[しょうじき]に 書[か]かなければならぬ 義務[ぎむ]を 持[も]つてゐる。
+  Ich habe die Pflicht, in allem die ungeschminkte Wahrheit zu schreiben.
+
+  コーヒー代を持つのすらもったいないと思って。
+  コーヒー 代[だい]を 持[も]つのすらもったいないと 思[おも]って。
+  Ich dachte sogar, es sei Verschwendung, den Kaffee zu bezahlen!
+
+  夕方子供の迎えに来る親たちで、そのまま会合を持つ方針を立てた。
+  夕方[ゆうがた] 子供[こども]の 迎[むか]えに 来[く]る 親[おや]たちで、そのまま 会合[かいごう]を 持[も]つ 方針[ほうしん]を 立[た]てた。
+  Sie beschloss, gleich eine Versammlung mit den Eltern abzuhalten, die am Abend kommen würden, um ihre Kinder abzuholen.
+
+  普通なら２年は持つ。
+  普通[ふつう]なら２年[ねん]は 持[も]つ。
+  Normalerweise hält es zwei Jahre.
+
+  体が持たない。
+  体[からだ]が 持[も]たない。
+  Mein Körper hält das nicht aus.
+
+  長く持つ靴を買いたい。
+  長[なが]く 持[も]つ 靴[くつ]を 買[か]いたい。
+  Ich möchte Schuhe kaufen, die lange halten.
+
+  冷蔵庫に入れておけば結構持つ。
+  冷蔵庫[れいぞうこ]に 入[い]れておけば 結構[けっこう] 持[も]つ。
+  Wenn man es in den Kühlschrank stellt, hält es sich recht lange.
+
+  天気が持つなら、ピクニックに行きましょう。
+  天気[てんき]が 持[も]つなら、ピクニックに 行[い]きましょう。
+  Wenn das Wetter hält, lasst uns ein Picknick machen.
+
+  病人は意外に長く持ち、三晩目の未明に息を引きとった。
+  病人[びょうにん]は 意外[いがい]に 長[なが]く 持[も]ち、三晩目[さんばんめ]の 未明[みめい]に 息[いき]を 引[ひ]きとった。
+  Der Patient hielt überraschend lange durch und starb erst im Morgengrauen des dritten Tages.
+
+  この町は観光で持っている。
+  この 町[まち]は 観光[かんこう]で 持[も]っている。
+  Diese Stadt lebt vom Tourismus.
+
+  人間は全く服装で持ってるのだ。
+  人間[にんげん]は 全[まった]く 服装[ふくそう]で 持[も]ってるのだ。
+  Es ist einzig und allein die Kleidung, die den Menschen ausmacht.
+
+  私立大学は国庫補助で持ってますからね。
+  私立大学[しりつだいがく]は 国庫補助[こっこほじょ]で 持[も]ってますからね。
+  Privatuniversitäten erhalten ja staatliche Zuschüsse.
+
+  彼女はバッグを肩にかけて持っていた。
+  彼女[かのじょ]はバッグを 肩[かた]にかけて 持[も]っていた。
+  Sie trug die Tasche über der Schulter.
+
+  ペンを左手で持つのは少し不便だ。
+  ペンを 左手[ひだりて]で 持[も]つのは 少[すこ]し 不便[ふべん]だ。
+  Es ist etwas unpraktisch, den Stift mit der linken Hand zu halten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

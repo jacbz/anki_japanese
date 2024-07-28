@@ -1,7 +1,7 @@
 Rang: 48
 Lemma: 行く
 Lesung: いく
-Alternativschreibweisen: ゆく
+Alternativschreibweisen: ゆく・往く
 Definition: gehen; kommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="">い</span><span class="accent_plain">く</sp
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 行かない・行った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   すぐ行きます。
   すぐ 行[い]きます。
   Ich komme gleich.
+
+  行って来ます。
+  行[い]って 来[き]ます。
+  Ich gehe jetzt. (Abschiedsgruß beim Verlassen des Hauses)
+
+  どこへ行くのですか？
+  どこへ 行[い]くのですか？
+  Wohin gehen Sie?
+
+  電車で東京に行きます。
+  電車[でんしゃ]で 東京[とうきょう]に 行[い]きます。
+  Ich fahre mit dem Zug nach Tokyo.
+
+  友達と映画を見に行きました。
+  友達[ともだち]と 映画[えいが]を 見[み]に 行[い]きました。
+  Ich bin mit Freunden ins Kino gegangen.
+
+  明日、病院に行かなければなりません。
+  明日[あした]、病院[びょういん]に 行[い]かなければなりません。
+  Ich muss morgen ins Krankenhaus gehen.
+
+  週末は海に行こうと思っています。
+  週末[しゅうまつ]は 海[うみ]に 行[い]こうと 思[おも]っています。
+  Ich denke daran, am Wochenende ans Meer zu fahren.
+
+  あっちへ行け！
+  あっちへ 行[い]け！
+  Verschwinde!
+
+  この道をまっすぐ行けば駅に着きます。
+  この 道[みち]をまっすぐ 行[い]けば 駅[えき]に 着[つ]きます。
+  Wenn du geradeaus gehst, kommst du zum Bahnhof.
+
+  散歩に行ってきます。
+  散歩[さんぽ]に 行[い]ってきます。
+  Ich gehe spazieren.
+
+  彼は海外に行ったことがありません。
+  彼[かれ]は 海外[かいがい]に 行[い]ったことがありません。
+  Er war noch nie im Ausland.
+
+  すぐに行くから、そこで待っていて。
+  すぐに 行[い]くから、そこで 待[ま]っていて。
+  Ich komme gleich, warte dort.
+
+  プロジェクトはうまく行っています。
+  プロジェクトはうまく 行[い]っています。
+  Das Projekt läuft gut.
+
+  さあ、行こうか。
+  さあ、行[い]こうか。
+  Na dann, sollen wir gehen?
+
+  彼女は嫁に行きました。
+  彼女[かのじょ]は 嫁[よめ]に 行[い]きました。
+  Sie hat geheiratet.
+
+  年が行くのは早いですね。
+  年[とし]が 行[い]くのは 早[はや]いですね。
+  Die Jahre vergehen schnell, nicht wahr?
+
+  彼は買い物に行ってきます。
+  彼[かれ]は 買[か]い 物[もの]に 行[い]ってきます。
+  Er geht einkaufen.
+
+  もう行かなければなりません。
+  もう 行[い]かなければなりません。
+  Ich muss jetzt gehen.
+
+  バスで学校に行きます。
+  バスで 学校[がっこう]に 行[い]きます。
+  Ich fahre mit dem Bus zur Schule.
+
+  彼らは旅行に行っています。
+  彼[かれ]らは 旅行[りょこう]に 行[い]っています。
+  Sie sind verreist.
+
+  一緒に公園に行きませんか？
+  一緒[いっしょ]に 公園[こうえん]に 行[い]きませんか？
+  Möchtest du mit mir in den Park gehen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

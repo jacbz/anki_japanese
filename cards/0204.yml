@@ -1,15 +1,15 @@
 Rang: 204
 Lemma: 付ける
 Lesung: つける
-Alternativschreibweisen: ''
-Definition: anbringen; befestigen; auftragen
+Alternativschreibweisen: 附ける
+Definition: anbringen; befestigen; anwenden; hinzufügen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>つ</span><span class="accent_top">け</span><span>る</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 付けない・付けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   私のパンにジャムを付けてくれますか。
   私[わたし]のパンにジャムを 付[つ]けてくれますか。
   Kannst du etwas Marmelade auf mein Brot auftragen?
+
+  カーテンを付けて、部屋を明るくしよう。
+  カーテンを 付[つ]けて、部屋[へや]を 明[あか]るくしよう。
+  Lass uns die Vorhänge anbringen, um das Zimmer heller zu machen.
+
+  荷物に札を付けないと、間違えてしまうかもしれません。
+  荷物[にもつ]に 札[ふだ]を 付[つ]けないと、間違[まちが]えてしまうかもしれません。
+  Wenn wir keine Etiketten an das Gepäck anbringen, könnten wir es verwechseln.
+
+  ボタンが取れたので、新しいのを付けなければなりません。
+  ボタンが 取[と]れたので、新[あたら]しいのを 付[つ]けなければなりません。
+  Da sich der Knopf gelöst hat, muss ich einen neuen annähen.
+
+  この絵に丸を付けて、正解を示してください。
+  この 絵[え]に 丸[まる]を 付[つ]けて、正解[せいかい]を 示[しめ]してください。
+  Bitte markiere die richtige Antwort, indem du einen Kreis um dieses Bild machst.
+
+  新しい製品に名前を付けるのは難しい仕事だ。
+  新[あたら]しい 製品[せいひん]に 名前[なまえ]を 付[つ]けるのは 難[むずか]しい 仕事[しごと]だ。
+  Es ist eine schwierige Aufgabe, einem neuen Produkt einen Namen zu geben.
+
+  この商品には値段が付けられていないね。
+  この 商品[しょうひん]には 値段[ねだん]が 付[つ]けられていないね。
+  Diesem Produkt wurde noch kein Preis zugewiesen, oder?
+
+  漢字にルビを付けると、読み方がわかりやすくなります。
+  漢字[かんじ]にルビを 付[つ]けると、読[よ]み 方[かた]がわかりやすくなります。
+  Wenn man den Kanji Lesehilfen hinzufügt, wird ihre Aussprache leichter verständlich.
+
+  彼女は毎日口紅を付けて出勤します。
+  彼女[かのじょ]は 毎日[まいにち] 口紅[くちべに]を 付[つ]けて 出勤[しゅっきん]します。
+  Sie trägt jeden Tag Lippenstift auf, bevor sie zur Arbeit geht.
+
+  パンにバターを付けて食べるのが好きです。
+  パンにバターを 付[つ]けて 食[た]べるのが 好[す]きです。
+  Ich mag es, Brot mit Butter zu bestreichen und zu essen.
+
+  日記を付けることで、自分の成長を振り返ることができます。
+  日記[にっき]を 付[つ]けることで、自分[じぶん]の 成長[せいちょう]を 振[ふ]り 返[かえ]ることができます。
+  Durch das Führen eines Tagebuchs kann man auf die eigene Entwicklung zurückblicken.
+
+  この料理には砂糖を付けすぎないように注意してください。
+  この 料理[りょうり]には 砂糖[さとう]を 付[つ]けすぎないように 注意[ちゅうい]してください。
+  Achten Sie darauf, diesem Gericht nicht zu viel Zucker hinzuzufügen.
+
+  重要な客人にはガイドを付けて案内します。
+  重要[じゅうよう]な 客人[きゃくじん]にはガイドを 付[つ]けて 案内[あんない]します。
+  Für wichtige Gäste stellen wir einen Führer zur Verfügung, der sie begleitet.
+
+  車のスピードを付けすぎると危険です。
+  車[くるま]のスピードを 付[つ]けすぎると 危険[きけん]です。
+  Es ist gefährlich, das Auto zu stark zu beschleunigen.
+
+  この問題にはもう決着を付けましょう。
+  この 問題[もんだい]にはもう 決着[けっちゃく]を 付[つ]けましょう。
+  Lassen Sie uns diese Angelegenheit endlich zum Abschluss bringen.
+
+  春になると、木々が芽を付け始めます。
+  春[はる]になると、木々[きぎ]が 芽[め]を 付[つ]け 始[はじ]めます。
+  Wenn der Frühling kommt, beginnen die Bäume zu knospen.
+
+  新しい仕事に就いたら、まず知識を付けることが大切です。
+  新[あたら]しい 仕事[しごと]に 就[つ]いたら、まず 知識[ちしき]を 付[つ]けることが 大切[たいせつ]です。
+  Wenn man eine neue Arbeit beginnt, ist es wichtig, sich zunächst Wissen anzueignen.
+
+  雨につけ風につけ、毎日郵便配達をしています。
+  雨[あめ]につけ 風[かぜ]につけ、毎日[まいにち] 郵便配達[ゆうびんはいたつ]をしています。
+  Bei Wind und Wetter stellen wir jeden Tag die Post zu.
+
+  彼はその道を歩きつけているので、目をつぶっても行けるそうだ。
+  彼[かれ]はその 道[みち]を 歩[ある]きつけているので、目[め]をつぶっても 行[い]けるそうだ。
+  Er ist diesen Weg so oft gegangen, dass er ihn angeblich mit geschlossenen Augen finden kann.
+
+  上司に怒鳴りつけられて、とても落ち込んでしまった。
+  上司[じょうし]に 怒鳴[どな]りつけられて、とても 落[お]ち 込[こ]んでしまった。
+  Ich war sehr niedergeschlagen, nachdem mein Chef mich angeschrien hatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

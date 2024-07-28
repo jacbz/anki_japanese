@@ -1,7 +1,7 @@
 Rang: 105
 Lemma: 分かる
 Lesung: わかる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 判る・解る・別る
 Definition: verstehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="">わ</span><span class="accent_top">か</span
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 分からない・分かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   彼女の言っていることはよく分からない。
   彼女[かのじょ]の 言[い]っていることはよく 分[わ]からない。
   Ich verstehe nicht ganz, was sie sagt.
+
+  後でようやく意味が分かりました。
+  後[あと]でようやく 意味[いみ]が 分[わ]かりました。
+  Erst später habe ich die Bedeutung verstanden.
+
+  話が分かる人と一緒に仕事をするのは楽しいですね。
+  話[はなし]が 分[わ]かる 人[ひと]と 一緒[いっしょ]に 仕事[しごと]をするのは 楽[たの]しいですね。
+  Es macht Spaß, mit jemandem zusammenzuarbeiten, der einen versteht.
+
+  一目で彼女の気持ちが分かった。
+  一目[ひとめ]で 彼女[かのじょ]の 気持[きも]ちが 分[わ]かった。
+  Ich habe ihre Gefühle auf einen Blick verstanden.
+
+  さっぱり分からない問題があったら、先生に聞いてください。
+  さっぱり 分[わ]からない 問題[もんだい]があったら、先生[せんせい]に 聞[き]いてください。
+  Wenn du ein Problem überhaupt nicht verstehst, frag bitte den Lehrer.
+
+  あっ、分かった！これが正解だ。
+  あっ、分[わ]かった！これが 正解[せいかい]だ。
+  Ah, ich hab's! Das ist die richtige Antwort.
+
+  もう分かったよ。説明しなくていい。
+  もう 分[わ]かったよ。説明[せつめい]しなくていい。
+  Ich hab's schon verstanden. Du brauchst es nicht mehr zu erklären.
+
+  分かりました。明日までに報告書を提出します。
+  分[わ]かりました。明日[あした]までに 報告書[ほうこくしょ]を 提出[ていしゅつ]します。
+  Verstanden. Ich werde den Bericht bis morgen einreichen.
+
+  分かる？この図表の見方を説明したんだけど。
+  分[わ]かる？この 図表[ずひょう]の 見方[みかた]を 説明[せつめい]したんだけど。
+  Verstehst du? Ich habe dir gerade erklärt, wie man dieses Diagramm liest.
+
+  何かわからないことがあったら、遠慮なく聞いてくださいね。
+  何[なに]か 分[わ]からないことがあったら、遠慮[えんりょ]なく 聞[き]いてくださいね。
+  Wenn es etwas gibt, das du nicht verstehst, frag bitte ohne zu zögern.
+
+  この機械の使い方が分かりません。教えていただけますか。
+  この 機械[きかい]の 使[つか]い 方[かた]が 分[わ]かりません。教[おし]えていただけますか。
+  Ich verstehe nicht, wie man diese Maschine bedient. Könnten Sie es mir bitte erklären?
+
+  日本語が分かりますか？少し話せますか？
+  日本語[にほんご]が 分[わ]かりますか？少[すこ]し 話[はな]せますか？
+  Verstehen Sie Japanisch? Können Sie ein bisschen sprechen?
+
+  そんなことは分かっているよ。何度も説明しなくていい。
+  そんなことは 分[わ]かっているよ。何度[なんど]も 説明[せつめい]しなくていい。
+  Das weiß ich schon. Du brauchst es nicht mehrmals zu erklären.
+
+  どうしてあの人の電話番号が分かったの？
+  どうしてあの 人[ひと]の 電話番号[でんわばんごう]が 分[わ]かったの？
+  Woher wusstest du seine Telefonnummer?
+
+  結果が分かり次第、すぐにお知らせします。
+  結果[けっか]が 分[わ]かり 次第[しだい]、すぐにお 知[し]らせします。
+  Sobald die Ergebnisse bekannt sind, werde ich Sie sofort informieren.
+
+  時が経てば分かるさ。今は耐えるしかない。
+  時[とき]が 経[た]てば 分[わ]かるさ。今[いま]は 耐[た]えるしかない。
+  Die Zeit wird es zeigen. Jetzt können wir nur durchhalten.
+
+  彼女は文学がよく分かる人だ。いつも面白い解釈をする。
+  彼女[かのじょ]は 文学[ぶんがく]がよく 分[わ]かる 人[ひと]だ。いつも 面白[おもしろ]い 解釈[かいしゃく]をする。
+  Sie hat ein gutes Verständnis für Literatur. Sie hat immer interessante Interpretationen.
+
+  冗談が分からない人とは付き合いづらいね。
+  冗談[じょうだん]が 分[わ]からない 人[ひと]とは 付[つ]き 合[あ]いづらいね。
+  Es ist schwierig, mit jemandem umzugehen, der keinen Spaß versteht.
+
+  顔色で分かったよ。何か悪いことがあったんだね。
+  顔色[かおいろ]で 分[わ]かったよ。何[なに]か 悪[わる]いことがあったんだね。
+  Ich habe es an deinem Gesichtsausdruck gemerkt. Es ist etwas Schlimmes passiert, nicht wahr?
+
+  どうやって犯人が分かったの？証拠はあるの？
+  どうやって 犯人[はんにん]が 分[わ]かったの？証拠[しょうこ]はあるの？
+  Wie habt ihr den Täter identifiziert? Gibt es Beweise?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

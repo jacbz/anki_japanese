@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>み</span><span class="accent_plain">じ</span><span 
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 短くない・短かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   あの髪の短い女の子が私の娘です。
   あの 髪[かみ]の 短[みじか]い 女[おんな]の 子[こ]が 私[わたし]の 娘[むすめ]です。
   Das Mädchen mit den kurzen Haaren ist meine Tochter.
+
+  彼女は短い足でも速く走れる。
+  彼女[かのじょ]は 短[みじか]い 足[あし]でも 速[はや]く 走[はし]れる。
+  Sie kann trotz ihrer kurzen Beine schnell laufen.
+
+  短い話をしましょう。時間がないので。
+  短[みじか]い 話[はなし]をしましょう。時間[じかん]がないので。
+  Lass uns ein kurzes Gespräch führen. Wir haben nicht viel Zeit.
+
+  冬は日が短いので、早く帰宅します。
+  冬[ふゆ]は 日[ひ]が 短[みじか]いので、早[はや]く 帰宅[きたく]します。
+  Im Winter gehe ich früh nach Hause, weil die Tage kurz sind.
+
+  彼は短い報告で状況を要約した。
+  彼[かれ]は 短[みじか]い 報告[ほうこく]で 状況[じょうきょう]を 要約[ようやく]した。
+  Er fasste die Situation in einem kurzen Bericht zusammen.
+
+  この駅から学校までの距離は短いです。
+  この 駅[えき]から 学校[がっこう]までの 距離[きょり]は 短[みじか]いです。
+  Die Entfernung von dieser Station zur Schule ist kurz.
+
+  夏休みが終わる。短い旅行だったな。
+  夏休[なつやす]みが 終[お]わる。短[みじか]い 旅行[りょこう]だったな。
+  Die Sommerferien sind vorbei. Es war eine kurze Reise.
+
+  彼女は短いスカートを履いている。
+  彼女[かのじょ]は 短[みじか]いスカートを 履[は]いている。
+  Sie trägt einen kurzen Rock.
+
+  できるだけ短く言ってください。
+  できるだけ 短[みじか]く 言[い]ってください。
+  Bitte fassen Sie sich so kurz wie möglich.
+
+  このプロジェクトは先が短いかもしれない。
+  このプロジェクトは 先[さき]が 短[みじか]いかもしれない。
+  Die Tage dieses Projekts könnten gezählt sein.
+
+  髪を短く切りたいんだけど、どう思う？
+  髪[かみ]を 短[みじか]く 切[き]りたいんだけど、どう 思[おも]う？
+  Ich möchte mir die Haare kurz schneiden lassen. Was denkst du darüber?
+
+  庭の芝を短く刈ってください。
+  庭[にわ]の 芝[しば]を 短[みじか]く 刈[か]ってください。
+  Bitte mähen Sie den Rasen im Garten kurz.
+
+  日が短くなって、秋の訪れを感じます。
+  日[ひ]が 短[みじか]くなって、秋[あき]の 訪[おとず]れを 感[かん]じます。
+  Die Tage werden kürzer, und ich spüre das Herannahen des Herbstes.
+
+  この文章を短くしてみてください。
+  この 文章[ぶんしょう]を 短[みじか]くしてみてください。
+  Versuchen Sie bitte, diesen Text zu kürzen.
+
+  テニスウェアの丈は短く、太股のかなり上まで露わになっていた。
+  テニスウェアの 丈[たけ]は 短[みじか]く、太腿[ふともも]のかなり 上[うえ]まで 露[あら]わになっていた。
+  Ihr Tennisrock war kurz und ließ einen Gutteil ihrer Oberschenkel sehen.
+
+  北海道の短い秋はそろそろ終りに近づいていた。
+  北海道[ほっかいどう]の 短[みじか]い 秋[あき]はそろそろ 終[お]わりに 近[ちか]づいていた。
+  Der kurze Herbst auf Hokkaido ging seinem Ende zu.
+
+  短い平和だったなあ。また戦争が続くんだ。
+  短[みじか]い 平和[へいわ]だったなあ。また 戦争[せんそう]が 続[つづ]くんだ。
+  Ein kurzer Friede war's, und schon geht's weiter.
+
+  女の短い説明から推して考えると...
+  女[おんな]の 短[みじか]い 説明[せつめい]から 推[お]して 考[かんが]えると...
+  Nach der kurzen Erklärung der Frau zu urteilen...
+
+  ひろ子が1932年以後の婦人の生活や文化の状況を短くまとめて話した。
+  ひろ子[ひろこ]が1932年[ねん] 以後[いご]の 婦人[ふじん]の 生活[せいかつ]や 文化[ぶんか]の 状況[じょうきょう]を 短[みじか]くまとめて 話[はな]した。
+  Hiroko sprach kurz über die kulturelle Situation und das Leben der Frau seit dem Jahre 1932.
+
+  短く言えば、典型的な日本の政治家になっていったのである。
+  短[みじか]く 言[い]えば、典型的[てんけいてき]な 日本[にほん]の 政治家[せいじか]になっていったのである。
+  Aus ihm war, kurz gesagt, ein typischer japanischer Politiker geworden.
+
+  彼は気が短いので、すぐに怒り出す。
+  彼[かれ]は 気[き]が 短[みじか]いので、すぐに 怒[おこ]り 出[だ]す。
+  Er hat eine kurze Zündschnur und wird schnell wütend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

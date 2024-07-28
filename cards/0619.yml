@@ -2,14 +2,14 @@ Rang: 619
 Lemma: 打つ
 Lesung: うつ
 Alternativschreibweisen: ''
-Definition: schlagen
+Definition: schlagen; tippen; spielen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accent_top">う</span><span>つ</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 打たない・打った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼はバットでボールを打った。
   彼[かれ]はバットでボールを 打[う]った。
   Er traf den Ball mit dem Schläger.
+
+  棒で子供を打つのは虐待です。
+  棒[ぼう]で 子供[こども]を 打[う]つのは 虐待[ぎゃくたい]です。
+  Ein Kind mit einem Stock zu schlagen ist Misshandlung.
+
+  雨が窓を打つ音が心地よかった。
+  雨[あめ]が 窓[まど]を 打[う]つ 音[おと]が 心地[ここち]よかった。
+  Das Geräusch des Regens, der gegen das Fenster schlug, war angenehm.
+
+  彼は怒りで机を激しく打った。
+  彼[かれ]は 怒[いか]りで 机[つくえ]を 激[はげ]しく 打[う]った。
+  Er schlug wütend heftig auf den Tisch.
+
+  大工さんが釘を上手に打っている。
+  大工[だいく]さんが 釘[くぎ]を 上手[じょうず]に 打[う]っている。
+  Der Zimmermann schlägt geschickt Nägel ein.
+
+  ドラマーが太鼓を力強く打っていた。
+  ドラマーが 太鼓[たいこ]を 力強[ちからづよ]く 打[う]っていた。
+  Der Schlagzeuger schlug kraftvoll die Trommel.
+
+  彼女は素早くキーボードを打っている。
+  彼女[かのじょ]は 素早[すばや]くキーボードを 打[う]っている。
+  Sie tippt schnell auf der Tastatur.
+
+  時計が12時を打った瞬間、新年を迎えた。
+  時計[とけい]が12時[じ]を 打[う]った 瞬間[しゅんかん]、新年[しんねん]を 迎[むか]えた。
+  In dem Moment, als die Uhr 12 schlug, begann das neue Jahr.
+
+  神社で柏手を打って祈った。
+  神社[じんじゃ]で 柏手[かしわで]を 打[う]って 祈[いの]った。
+  Ich klatschte im Schrein in die Hände und betete.
+
+  医者は患者に注射を打った。
+  医者[いしゃ]は 患者[かんじゃ]に 注射[ちゅうしゃ]を 打[う]った。
+  Der Arzt gab dem Patienten eine Spritze.
+
+  彼らは週末によく碁を打つ。
+  彼[かれ]らは 週末[しゅうまつ]によく 碁[ご]を 打[う]つ。
+  Sie spielen am Wochenende oft Go.
+
+  漁師が網を打って魚を捕まえた。
+  漁師[りょうし]が 網[あみ]を 打[う]って 魚[さかな]を 捕[つか]まえた。
+  Der Fischer warf das Netz aus und fing Fische.
+
+  庭に水を打って涼しくした。
+  庭[にわ]に 水[みず]を 打[う]って 涼[すず]しくした。
+  Ich besprengte den Garten mit Wasser, um es kühler zu machen.
+
+  彼の演技は観客の心を打った。
+  彼[かれ]の 演技[えんぎ]は 観客[かんきゃく]の 心[こころ]を 打[う]った。
+  Seine Darstellung berührte das Herz des Publikums.
+
+  祝砲を打って式典の開始を知らせた。
+  祝砲[しゅくほう]を 打[う]って 式典[しきてん]の 開始[かいし]を 知[し]らせた。
+  Man feuerte Salutschüsse ab, um den Beginn der Zeremonie anzukündigen.
+
+  彼女は相手の弱点を打って勝利した。
+  彼女[かのじょ]は 相手[あいて]の 弱点[じゃくてん]を 打[う]って 勝利[しょうり]した。
+  Sie traf die Schwachstelle ihres Gegners und siegte.
+
+  彼は不意を打たれて言葉を失った。
+  彼[かれ]は 不意[ふい]を 打[う]たれて 言葉[ことば]を 失[うしな]った。
+  Er wurde überrascht und verlor die Worte.
+
+  警官は逃げる犯人を打った。
+  警官[けいかん]は 逃[に]げる 犯人[はんにん]を 打[う]った。
+  Der Polizist schoss auf den fliehenden Täter.
+
+  彼女は熱心に手を打って拍手した。
+  彼女[かのじょ]は 熱心[ねっしん]に 手[て]を 打[う]って 拍手[はくしゅ]した。
+  Sie klatschte enthusiastisch in die Hände.
+
+  彼は頭を打って気絶した。
+  彼[かれ]は 頭[あたま]を 打[う]って 気絶[きぜつ]した。
+  Er schlug sich den Kopf und wurde ohnmächtig.
+
+  選手はホームランを打って観客を沸かせた。
+  選手[せんしゅ]はホームランを 打[う]って 観客[かんきゃく]を 沸[わ]かせた。
+  Der Spieler schlug einen Home Run und brachte das Publikum zum Kochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

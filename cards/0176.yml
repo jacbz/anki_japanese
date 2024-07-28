@@ -1,15 +1,15 @@
 Rang: 176
 Lemma: 付く
 Lesung: つく
-Alternativschreibweisen: ''
-Definition: kleben; dazugehören
+Alternativschreibweisen: 附く
+Definition: (an-)haften; hinzugefügt werden; zunehmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">つ</span><span>く</span>
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: つかない・ついた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,98 @@ Beispielsätze: |-
   服にインクのしみが付いた。
   服[ふく]にインクのしみが 付[つ]いた。
   Meine Kleidung wurde mit Tinte befleckt.
+
+  垢がついて、服が汚れてしまった。
+  垢[あか]がついて、服[ふく]が 汚[よご]れてしまった。
+  Die Kleidung wurde schmutzig, weil Schmutz daran haftete.
+
+  手に墨がついてしまった。
+  手[て]に 墨[すみ]がついてしまった。
+  Ich habe Tusche an meinen Händen.
+
+  靴に泥がついているよ。拭いた方がいいよ。
+  靴[くつ]に 泥[どろ]がついているよ。拭[ふ]いた 方[ほう]がいいよ。
+  Du hast Dreck an deinen Schuhen. Du solltest ihn abwischen.
+
+  血のついたシャツを見て、彼女は驚いた。
+  血[ち]のついたシャツを 見[み]て、彼女[かのじょ]は 驚[おどろ]いた。
+  Sie war überrascht, als sie das blutbefleckte Hemd sah.
+
+  油煙が付いたランプを掃除するのは大変だ。
+  油煙[ゆえん]が 付[つ]いたランプを 掃除[そうじ]するのは 大変[たいへん]だ。
+  Es ist schwierig, eine verrußte Lampe zu reinigen.
+
+  雪の中を歩いた後、足跡がくっきりと付いていた。
+  雪[ゆき]の 中[なか]を 歩[ある]いた 後[あと]、足跡[あしあと]がくっきりと 付[つ]いていた。
+  Nachdem wir durch den Schnee gelaufen waren, waren deutliche Fußspuren zu sehen.
+
+  このケーキにはおまけのフルーツがついてきます。
+  このケーキにはおまけのフルーツがついてきます。
+  Zu diesem Kuchen gibt es zusätzlich Obst dazu.
+
+  この銀行口座には利子がつくの？
+  この 銀行口座[ぎんこうこうざ]には 利子[りし]がつくの？
+  Bekommt man Zinsen auf dieses Bankkonto?
+
+  この契約には厳しい条件がついているんだ。
+  この 契約[けいやく]には 厳[きび]しい 条件[じょうけん]がついているんだ。
+  Dieser Vertrag ist mit strengen Bedingungen verbunden.
+
+  生まれたばかりの赤ちゃんに名前がついた。
+  生[う]まれたばかりの 赤[あか]ちゃんに 名前[なまえ]がついた。
+  Das neugeborene Baby hat einen Namen bekommen.
+
+  この列車には食堂車が付いています。
+  この 列車[れっしゃ]には 食堂車[しょくどうしゃ]が 付[つ]いています。
+  Dieser Zug führt einen Speisewagen.
+
+  家紋がついている着物は正式な場で着用します。
+  家紋[かもん]がついている 着物[きもの]は 正式[せいしき]な 場[ば]で 着用[ちゃくよう]します。
+  Kimonos mit Familienwappen werden bei formellen Anlässen getragen.
+
+  このバスにはエアコンが付いていますか。
+  このバスにはエアコンが 付[つ]いていますか。
+  Ist dieser Bus mit Klimaanlage ausgestattet?
+
+  最近、彼のスピードがぐんと付いてきたね。
+  最近[さいきん]、彼[かれ]のスピードがぐんと 付[つ]いてきたね。
+  In letzter Zeit hat er deutlich an Geschwindigkeit zugenommen.
+
+  トレーニングの成果で、力がついてきた気がする。
+  トレーニングの 成果[せいか]で、力[ちから]がついてきた 気[き]がする。
+  Ich habe das Gefühl, dass ich durch das Training an Kraft gewonnen habe.
+
+  年々、子供の知恵がついてきているのがわかる。
+  年々[ねんねん]、子供[こども]の 知恵[ちえ]がついてきているのがわかる。
+  Man kann sehen, wie die Kinder von Jahr zu Jahr klüger werden.
+
+  冬の間に肉がついてしまった。運動しなきゃ。
+  冬[ふゆ]の 間[あいだ]に 肉[にく]がついてしまった。運動[うんどう]しなきゃ。
+  Ich habe über den Winter zugenommen. Ich muss Sport treiben.
+
+  病人には看護婦が24時間ついています。
+  病人[びょうにん]には 看護婦[かんごふ]が24時間[じかん]ついています。
+  Der Patient wird rund um die Uhr von einer Krankenschwester betreut.
+
+  新しいプロジェクトにスポンサーがついた。
+  新[あた]しいプロジェクトにスポンサーがついた。
+  Wir haben einen Sponsor für das neue Projekt gefunden.
+
+  兄についていけば、道に迷うことはないよ。
+  兄[あに]についていけば、道[みち]に 迷[まよ]うことはないよ。
+  Wenn du deinem großen Bruder folgst, wirst du dich nicht verlaufen.
+
+  この苗木はもう根がついたみたいだ。
+  この 苗木[なえき]はもう 根[ね]がついたみたいだ。
+  Es scheint, als hätte dieser Setzling bereits Wurzeln geschlagen.
+
+  このお酒の燗がちょうどいい具合についた。
+  この お酒[さけ]の 燗[かん]がちょうどいい 具合[ぐあい]についた。
+  Der Sake ist genau richtig warm geworden.
+
+  この料理は塩味がついていて、とてもおいしい。
+  この 料理[りょうり]は 塩味[しおあじ]がついていて、とてもおいしい。
+  Dieses Gericht ist gut gewürzt und sehr leckere.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

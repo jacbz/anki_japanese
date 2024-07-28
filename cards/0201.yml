@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">い</span><span>み</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 意味する・意味した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   それはどういう意味ですか。
   それはどういう 意味[いみ]ですか。
   Was bedeutet das?
+
+  この単語の意味を辞書で調べました。
+  この 単語[たんご]の 意味[いみ]を 辞書[じしょ]で 調[しら]べました。
+  Ich habe die Bedeutung dieses Wortes im Wörterbuch nachgeschlagen.
+
+  この文章は深い意味を持っています。
+  この 文章[ぶんしょう]は 深[ふか]い 意味[いみ]を 持[も]っています。
+  Dieser Satz hat eine tiefe Bedeutung.
+
+  彼の言葉には隠された意味があるようです。
+  彼[かれ]の 言葉[ことば]には 隠[かく]された 意味[いみ]があるようです。
+  Es scheint, dass seine Worte eine versteckte Bedeutung haben.
+
+  この絵画の意味について、美術評論家たちの間で議論が続いています。
+  この 絵画[かいが]の 意味[いみ]について、美術評論家[びじゅつひょうろんか]たちの 間[あいだ]で 議論[ぎろん]が 続[つづ]いています。
+  Unter Kunstkritikern wird weiterhin über die Bedeutung dieses Gemäldes diskutiert.
+
+  その表現の意味が曖昧で、誤解を招く可能性があります。
+  その 表現[ひょうげん]の 意味[いみ]が 曖昧[あいまい]で、誤解[ごかい]を 招[まね]く 可能性[かのうせい]があります。
+  Die Bedeutung dieses Ausdrucks ist unklar und könnte zu Missverständnissen führen.
+
+  この言葉は文脈によって意味が変わることがあります。
+  この 言葉[ことば]は 文脈[ぶんみゃく]によって 意味[いみ]が 変[か]わることがあります。
+  Die Bedeutung dieses Wortes kann sich je nach Kontext ändern.
+
+  彼女の行動には特別な意味があるのでしょうか。
+  彼女[かのじょ]の 行動[こうどう]には 特別[とくべつ]な 意味[いみ]があるのでしょうか。
+  Hat ihr Verhalten eine besondere Bedeutung?
+
+  この儀式には何か宗教的な意味があるのですか。
+  この 儀式[ぎしき]には 何[なに]か 宗教的[しゅうきょうてき]な 意味[いみ]があるのですか。
+  Hat diese Zeremonie irgendeine religiöse Bedeutung?
+
+  その言葉の本当の意味を理解するのに時間がかかりました。
+  その 言葉[ことば]の 本当[ほんとう]の 意味[いみ]を 理解[りかい]するのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, bis ich die wahre Bedeutung dieser Worte verstanden habe.
+
+  彼の発言の意味を取り違えてしまいました。
+  彼[かれ]の 発言[はつげん]の 意味[いみ]を 取[と]り 違[ちが]えてしまいました。
+  Ich habe die Bedeutung seiner Aussage missverstanden.
+
+  この記号の意味を説明していただけますか。
+  この 記号[きごう]の 意味[いみ]を 説明[せつめい]していただけますか。
+  Könnten Sie mir bitte die Bedeutung dieses Symbols erklären?
+
+  その行為には深い意味があるんだ。
+  その 行為[こうい]には 深[ふか]い 意味[いみ]があるんだ。
+  Diese Handlung hat eine tiefe Bedeutung.
+
+  彼女の笑顔には特別な意味があるように感じました。
+  彼女[かのじょ]の 笑顔[えがお]には 特別[とくべつ]な 意味[いみ]があるように 感[かん]じました。
+  Ich hatte das Gefühl, dass ihr Lächeln eine besondere Bedeutung hatte.
+
+  その言葉の意味を考えると、胸が痛みます。
+  その 言葉[ことば]の 意味[いみ]を 考[かんが]えると、胸[むね]が 痛[いた]みます。
+  Wenn ich über die Bedeutung dieser Worte nachdenke, tut mir das Herz weh.
+
+  この文学作品の意味を解釈するのは難しいです。
+  この 文学作品[ぶんがくさくひん]の 意味[いみ]を 解釈[かいしゃく]するのは 難[むずか]しいです。
+  Es ist schwierig, die Bedeutung dieses literarischen Werks zu interpretieren.
+
+  その質問の意味がよくわかりません。もう一度説明してもらえますか。
+  その 質問[しつもん]の 意味[いみ]がよくわかりません。もう 一度[いちど] 説明[せつめい]してもらえますか。
+  Ich verstehe die Bedeutung dieser Frage nicht ganz. Könnten Sie es bitte noch einmal erklären?
+
+  彼の行動に何か意味があるはずだ。
+  彼[かれ]の 行動[こうどう]に 何[なに]か 意味[いみ]があるはずだ。
+  Seine Handlungen müssen irgendeine Bedeutung haben.
+
+  この古代の象形文字の意味を解読するのに何年もかかりました。
+  この 古代[こだい]の 象形文字[しょうけいもじ]の 意味[いみ]を 解読[かいどく]するのに 何年[なんねん]もかかりました。
+  Es hat Jahre gedauert, die Bedeutung dieser alten Hieroglyphen zu entschlüsseln.
+
+  その言葉の意味を取り違えないように注意してください。
+  その 言葉[ことば]の 意味[いみ]を 取[と]り 違[ちが]えないように 注意[ちゅうい]してください。
+  Bitte achten Sie darauf, die Bedeutung dieser Worte nicht misszuverstehen.
+
+  この慣用句の文字通りの意味と比喩的な意味を説明できますか。
+  この 慣用句[かんようく]の 文字通[もじどお]りの 意味[いみ]と 比喩的[ひゆてき]な 意味[いみ]を 説明[せつめい]できますか。
+  Können Sie die wörtliche und die metaphorische Bedeutung dieser Redewendung erklären?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

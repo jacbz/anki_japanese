@@ -1,7 +1,7 @@
 Rang: 110
 Lemma: 作る
 Lesung: つくる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 造る
 Definition: machen, erstellen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span class="">つ</span><span class="accent_top">く</span
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 作らない・作った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,90 @@ Beispielsätze: |-
   彼女は朝食に目玉焼きを作った。
   彼女[かのじょ]は 朝食[ちょうしょく]に 目玉焼[めだまや]きを 作[つく]った。
   Sie hat ein Spiegelei zum Frühstück gemacht.
+
+  映画監督は新しい映画を作っている。
+  映画監督[えいがかんとく]は 新[あたら]しい 映画[えいが]を 作[つく]っている。
+  Der Filmregisseur dreht einen neuen Film.
+
+  この会社は高品質の車を作ることで有名だ。
+  この 会社[かいしゃ]は 高品質[こうひんしつ]の 車[くるま]を 作[つく]ることで 有名[ゆうめい]だ。
+  Diese Firma ist für die Herstellung hochwertiger Autos bekannt.
+
+  母は手作りのケーキを作ってくれた。
+  母[はは]は 手作[てづく]りのケーキを 作[つく]ってくれた。
+  Meine Mutter hat mir einen selbstgemachten Kuchen gebacken.
+
+  彼女は自分で服を作るのが趣味だ。
+  彼女[かのじょ]は 自分[じぶん]で 服[ふく]を 作[つく]るのが 趣味[しゅみ]だ。
+  Es ist ihr Hobby, ihre eigene Kleidung zu nähen.
+
+  今日の会議の議事録を作ってください。
+  今日[きょう]の 会議[かいぎ]の 議事録[ぎじろく]を 作[つく]ってください。
+  Bitte erstellen Sie das Protokoll für die heutige Besprechung.
+
+  彼は毎日日記を作る習慣がある。
+  彼[かれ]は 毎日[まいにち] 日記[にっき]を 作[つく]る 習慣[しゅうかん]がある。
+  Er hat die Angewohnheit, jeden Tag Tagebuch zu schreiben.
+
+  この詩人は美しい詩を作ることで知られている。
+  この 詩人[しじん]は 美[うつく]しい 詩[し]を 作[つく]ることで 知[し]られている。
+  Dieser Dichter ist für das Verfassen schöner Gedichte bekannt.
+
+  新しい法律を作るのは簡単な作業ではない。
+  新[あたら]しい 法律[ほうりつ]を 作[つく]るのは 簡単[かんたん]な 作業[さぎょう]ではない。
+  Es ist keine einfache Aufgabe, ein neues Gesetz zu schaffen.
+
+  彼らは友好的な関係を作るために努力している。
+  彼[かれ]らは 友好的[ゆうこうてき]な 関係[かんけい]を 作[つく]るために 努力[どりょく]している。
+  Sie bemühen sich darum, freundschaftliche Beziehungen aufzubauen.
+
+  この選手は新記録を作った。
+  この 選手[せんしゅ]は 新[しん] 記録[きろく]を 作[つく]った。
+  Dieser Athlet hat einen neuen Rekord aufgestellt.
+
+  学生たちは円を作って座った。
+  学生[がくせい]たちは 円[えん]を 作[つく]って 座[すわ]った。
+  Die Studenten setzten sich im Kreis.
+
+  太陽が地面に長い影を作っている。
+  太陽[たいよう]が 地面[じめん]に 長[なが]い 影[かげ]を 作[つく]っている。
+  Die Sonne wirft lange Schatten auf den Boden.
+
+  彼は新しい会社を作る計画を立てている。
+  彼[かれ]は 新[あたら]しい 会社[かいしゃ]を 作[つく]る 計画[けいかく]を 立[た]てている。
+  Er plant, ein neues Unternehmen zu gründen.
+
+  週末に友達と音楽バンドを作ることにした。
+  週末[しゅうまつ]に 友達[ともだち]と 音楽[おんがく]バンドを 作[つく]ることにした。
+  Wir haben beschlossen, am Wochenende mit Freunden eine Band zu gründen.
+
+  明日の会議のために時間を作らなければならない。
+  明日[あした]の 会議[かいぎ]のために 時間[じかん]を 作[つく]らなければならない。
+  Ich muss Zeit für das Meeting morgen schaffen.
+
+  彼は一生懸命働いて大金を作った。
+  彼[かれ]は 一生懸命[いっしょうけんめい] 働[はたら]いて 大金[たいきん]を 作[つく]った。
+  Er hat hart gearbeitet und ein Vermögen angehäuft.
+
+  祖父は裏庭で野菜を作っている。
+  祖父[そふ]は 裏庭[うらにわ]で 野菜[やさい]を 作[つく]っている。
+  Mein Großvater baut im Garten Gemüse an.
+
+  彼らは借金を作らないように気をつけている。
+  彼[かれ]らは 借金[しゃっきん]を 作[つく]らないように 気[き]をつけている。
+  Sie achten darauf, keine Schulden zu machen.
+
+  その俳優は感動的な表情を作るのが上手だ。
+  その 俳優[はいゆう]は 感動的[かんどうてき]な 表情[ひょうじょう]を 作[つく]るのが 上手[じょうず]だ。
+  Dieser Schauspieler ist gut darin, bewegende Gesichtsausdrücke zu erzeugen.
+
+  メイクアップアーティストは女優の顔を丁寧に作り上げた。
+  メイクアップアーティストは 女優[じょゆう]の 顔[かお]を 丁寧[ていねい]に 作[つく]り 上[あ]げた。
+  Der Make-up-Artist schminkte das Gesicht der Schauspielerin sorgfältig.
+
+  鶏が鳴いて朝を作る。
+  鶏[にわとり]が 鳴[な]いて 朝[あさ]を 作[つく]る。
+  Der Hahn kräht und verkündet den Morgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 513
 Lemma: 見せる
 Lesung: みせる
 Alternativschreibweisen: ''
-Definition: zeigen
+Definition: zeigen; vorführen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>み</span><span class="accent_top">せ</span><span>る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見せない・見せた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   そのカバンを見せてください。
   そのカバンを 見[み]せてください。
   Bitte zeigen Sie mir diese Tasche.
+
+  新しい写真を友達に見せたいんだ。
+  新[あたら]しい 写真[しゃしん]を 友達[ともだち]に 見[み]せたいんだ。
+  Ich möchte meinen Freunden die neuen Fotos zeigen.
+
+  彼女は素敵な笑顔を見せながら挨拶した。
+  彼女[かのじょ]は 素敵[すてき]な 笑顔[えがお]を 見[み]せながら 挨拶[あいさつ]した。
+  Sie begrüßte uns mit einem bezaubernden Lächeln.
+
+  この本、ちょっと見せてもらえますか。
+  この 本[ほん]、ちょっと 見[み]せてもらえますか。
+  Könntest du mir das Buch kurz zeigen?
+
+  新製品のデモンストレーションを見せてください。
+  新製品[しんせいひん]のデモンストレーションを 見[み]せてください。
+  Bitte zeigen Sie uns eine Demonstration des neuen Produkts.
+
+  彼はプレゼンテーションで高い関心を見せた。
+  彼[かれ]はプレゼンテーションで 高[たか]い 関心[かんしん]を 見[み]せた。
+  Er zeigte großes Interesse an der Präsentation.
+
+  困難な状況でも冷静さを見せることが大切だ。
+  困難[こんなん]な 状況[じょうきょう]でも 冷静[れいせい]さを 見[み]せることが 大切[たいせつ]だ。
+  Es ist wichtig, auch in schwierigen Situationen Ruhe zu bewahren.
+
+  彼女は驚くべき才能を見せている。
+  彼女[かのじょ]は 驚[おどろ]くべき 才能[さいのう]を 見[み]せている。
+  Sie zeigt bemerkenswerte Talente.
+
+  この服は体型をスリムに見せる効果がある。
+  この 服[ふく]は 体型[たいけい]をスリムに 見[み]せる 効果[こうか]がある。
+  Dieses Kleidungsstück lässt die Figur schlanker erscheinen.
+
+  彼は弱点を見せないように気をつけている。
+  彼[かれ]は 弱点[じゃくてん]を 見[み]せないように 気[き]をつけている。
+  Er achtet darauf, keine Schwächen zu zeigen.
+
+  新しい上司は良い働きぶりを見せています。
+  新[あたら]しい 上司[じょうし]は 良[よ]い 働[はたら]きぶりを 見[み]せています。
+  Der neue Chef zeigt gute Arbeitsleistungen.
+
+  彼女は何事もないかのように振る舞って見せた。
+  彼女[かのじょ]は 何事[なにごと]もないかのように 振[ふ]る 舞[ま]って 見[み]せた。
+  Sie tat so, als wäre nichts geschehen.
+
+  この絵画展では珍しい作品を見せてくれるそうだ。
+  この 絵画展[かいがてん]では 珍[めずら]しい 作品[さくひん]を 見[み]せてくれるそうだ。
+  Es heißt, dass sie bei dieser Ausstellung seltene Kunstwerke zeigen werden.
+
+  長い間姿を見せなかった友人が突然現れた。
+  長[なが]い 間[あいだ] 姿[すがた]を 見[み]せなかった 友人[ゆうじん]が 突然[とつぜん] 現[あらわ]れた。
+  Ein Freund, der sich lange nicht blicken ließ, tauchte plötzlich auf.
+
+  彼女は医者に診せに行くことにした。
+  彼女[かのじょ]は 医者[いしゃ]に 診[み]せに 行[い]くことにした。
+  Sie beschloss, einen Arzt aufzusuchen.
+
+  先生は黒板に書いて見せながら説明した。
+  先生[せんせい]は 黒板[こくばん]に 書[か]いて 見[み]せながら 説明[せつめい]した。
+  Der Lehrer erklärte, während er es an die Tafel schrieb.
+
+  彼は泣いて見せて同情を引こうとした。
+  彼[かれ]は 泣[な]いて 見[み]せて 同情[どうじょう]を 引[ひ]こうとした。
+  Er versuchte, Mitgefühl zu erregen, indem er vorgab zu weinen.
+
+  彼女は驚いたふりをして見せた。
+  彼女[かのじょ]は 驚[おどろ]いたふりをして 見[み]せた。
+  Sie tat so, als wäre sie überrascht.
+
+  「必ず成功して見せます」と彼は宣言した。
+  「必[かなら]ず 成功[せいこう]して 見[み]せます」と 彼[かれ]は 宣言[せんげん]した。
+  "Ich werde auf jeden Fall Erfolg haben", erklärte er entschlossen.
+
+  この化粧品は肌をより若く見せる効果がある。
+  この 化粧品[けしょうひん]は 肌[はだ]をより 若[わか]く 見[み]せる 効果[こうか]がある。
+  Diese Kosmetik lässt die Haut jünger erscheinen.
+
+  彼は自信を持っているように見せかけた。
+  彼[かれ]は 自信[じしん]を 持[も]っているように 見[み]せかけた。
+  Er gab vor, selbstbewusst zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

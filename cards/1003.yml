@@ -1,15 +1,15 @@
 Rang: 1003
 Lemma: 表わす
 Lesung: あらわす
-Alternativschreibweisen: ''
-Definition: zeigen, ausdrücken, symbolisieren
+Alternativschreibweisen: 表す・現す・顕す・著す
+Definition: ausdrücken; zeigen; darstellen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">ら</span><span class="accent_top">わ</span><span>す</span>
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 表さない・表した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   この言葉は私の気持ちをよく表している。
   この 言葉[ことば]は 私[わたし]の 気持[きも]ちをよく 表[あらわ]している。
   Diese Worte zeigen wirklich meine Gefühle.
+
+  「$」という記号はドルを表わす。
+  「$」という 記号[きごう]はドルを 表[あらわ]す。
+  Das Zeichen »$« steht für »Dollar«.
+
+  簿価は企業の現時点の財務内容を表すものです。
+  簿価[ぼか]は 企業[きぎょう]の 現時点[げんじてん]の 財務内容[ざいむないよう]を 表[あらわ]すものです。
+  Der Buchwert zeigt die aktuelle finanzielle Lage eines Unternehmens an.
+
+  彼の人気を表す一例を挙げてみましょう。
+  彼[かれ]の 人気[にんき]を 表[あらわ]す 一例[いちれい]を 挙[あ]げてみましょう。
+  Lassen Sie uns ein Beispiel nennen, das seine Popularität zeigt.
+
+  玄関に姿を現したら、家族はどんな反応をするだろう？
+  玄関[げんかん]に 姿[すがた]を 現[あらわ]したら、家族[かぞく]はどんな 反応[はんのう]をするだろう？
+  Wie würde meine Familie wohl reagieren, wenn ich plötzlich vor der Haustür stünde?
+
+  世の中の本来の姿が急に現れたように感じた。
+  世[よ]の 中[なか]の 本来[ほんらい]の 姿[すがた]が 急[きゅう]に 現[あらわ]れたように 感[かん]じた。
+  Es fühlte sich an, als ob sich plötzlich das wahre Gesicht der Welt offenbart hätte.
+
+  新しい参考書を表そうと思っています。
+  新[あたら]しい 参考書[さんこうしょ]を 表[あらわ]そうと 思[おも]っています。
+  Ich denke darüber nach, ein neues Nachschlagewerk zu verfassen.
+
+  彼は怒りを言葉に表すのが上手だ。
+  彼[かれ]は 怒[いか]りを 言葉[ことば]に 表[あらわ]すのが 上手[じょうず]だ。
+  Er ist gut darin, seinen Ärger in Worte zu fassen.
+
+  集計結果をグラフに表して分かりやすくしましょう。
+  集計結果[しゅうけいけっか]をグラフに 表[あらわ]して 分[わ]かりやすくしましょう。
+  Lasst uns das Ergebnis der Gesamtbeträge grafisch darstellen, um es verständlicher zu machen.
+
+  うれしさを顔に表さずにはいられなかった。
+  うれしさを 顔[かお]に 表[あらわ]さずにはいられなかった。
+  Ich konnte nicht anders, als meine Freude im Gesicht zu zeigen.
+
+  彼女は自分の弱点を表すのを恐れている。
+  彼女[かのじょ]は 自分[じぶん]の 弱点[じゃくてん]を 表[あらわ]すのを 恐[おそ]れている。
+  Sie hat Angst, ihre Schwächen zu zeigen.
+
+  この絵は作者の内面を表している。
+  この 絵[え]は 作者[さくしゃ]の 内面[ないめん]を 表[あらわ]している。
+  Dieses Gemälde drückt das Innere des Künstlers aus.
+
+  彼の行動は本当の正体を表していた。
+  彼[かれ]の 行動[こうどう]は 本当[ほんとう]の 正体[しょうたい]を 表[あらわ]していた。
+  Seine Handlungen offenbarten sein wahres Gesicht.
+
+  この数字は会社の成長を如実に表している。
+  この 数字[すうじ]は 会社[かいしゃ]の 成長[せいちょう]を 如実[にょじつ]に 表[あらわ]している。
+  Diese Zahlen zeigen deutlich das Wachstum des Unternehmens.
+
+  彼女は文字で気持ちを表すのが得意だ。
+  彼女[かのじょ]は 文字[もじ]で 気持[きも]ちを 表[あらわ]すのが 得意[とくい]だ。
+  Sie ist gut darin, ihre Gefühle schriftlich auszudrücken.
+
+  この記号は危険を表しています。
+  この 記号[きごう]は 危険[きけん]を 表[あらわ]しています。
+  Dieses Symbol steht für Gefahr.
+
+  彼の演技は登場人物の感情をよく表していた。
+  彼[かれ]の 演技[えんぎ]は 登場人物[とうじょうじんぶつ]の 感情[かんじょう]をよく 表[あらわ]していた。
+  Sein Schauspiel brachte die Gefühle der Figur gut zum Ausdruck.
+
+  私たちの研究結果を論文で表す予定です。
+  私[わたし]たちの 研究結果[けんきゅうけっか]を 論文[ろんぶん]で 表[あらわ]す 予定[よてい]です。
+  Wir planen, unsere Forschungsergebnisse in einem Artikel zu veröffentlichen.
+
+  この歌詞は作者の心情をよく表している。
+  この 歌詞[かし]は 作者[さくしゃ]の 心情[しんじょう]をよく 表[あらわ]している。
+  Dieser Liedtext bringt die Gefühle des Autors gut zum Ausdruck.
+
+  新しい発見を世に表すのが科学者の仕事だ。
+  新[あたら]しい 発見[はっけん]を 世[よ]に 表[あらわ]すのが 科学者[かがくしゃ]の 仕事[しごと]だ。
+  Es ist die Aufgabe eines Wissenschaftlers, neue Entdeckungen der Welt zu präsentieren.
+
+  彼女の表情は内心の動揺を表していた。
+  彼女[かのじょ]の 表情[ひょうじょう]は 内心[ないしん]の 動揺[どうよう]を 表[あらわ]していた。
+  Ihr Gesichtsausdruck verriet ihre innere Unruhe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
