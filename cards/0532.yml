@@ -1,7 +1,7 @@
 Rang: 532
 Lemma: 探す
 Lesung: さがす
-Alternativschreibweisen: ''
+Alternativschreibweisen: 捜す
 Definition: suchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>さ</span><span class="accent_plain">が</span><span 
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 探さない・探した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,95 @@ Beispielsätze: |-
   アパートを 探[さが]しています。
   Ich suche nach einer Wohnung.
 
+  新しいアパートを探しています。
+  新[あたら]しいアパートを 探[さが]しています。
+  Ich suche nach einer neuen Wohnung.
+
+  警察は犯人を探していますが、まだ見つかっていません。
+  警察[けいさつ]は 犯人[はんにん]を 探[さが]していますが、まだ 見[み]つかっていません。
+  Die Polizei fahndet nach dem Täter, hat ihn aber noch nicht gefunden.
+
+  鍵をどこに置いたか忘れて、部屋中探しています。
+  鍵[かぎ]をどこに 置[お]いたか 忘[わす]れて、部屋中[へやじゅう] 探[さが]しています。
+  Ich habe vergessen, wo ich meinen Schlüssel hingelegt habe, und suche im ganzen Zimmer danach.
+
+  この問題の解決策を探していますが、なかなか見つかりません。
+  この 問題[もんだい]の 解決策[かいけつさく]を 探[さが]していますが、なかなか 見[み]つかりません。
+  Ich suche nach einer Lösung für dieses Problem, aber ich finde einfach keine.
+
+  地図で目的地を探すのに時間がかかりました。
+  地図[ちず]で 目的地[もくてきち]を 探[さが]すのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, den Zielort auf der Karte zu finden.
+
+  家中をくまなく探したけど、なくした指輪は見つからなかった。
+  家中[いえじゅう]をくまなく 探[さが]したけど、なくした 指輪[ゆびわ]は 見[み]つからなかった。
+  Ich habe das ganze Haus gründlich durchsucht, aber den verlorenen Ring nicht gefunden.
+
+  よく探しても見つからないので、もうあきらめました。
+  よく 探[さが]しても 見[み]つからないので、もうあきらめました。
+  Obwohl ich gründlich gesucht habe, konnte ich es nicht finden, also habe ich aufgegeben.
+
+  引き出しの中を探したら、なくした手紙が出てきた。
+  引[ひ]き 出[だ]しの 中[なか]を 探[さが]したら、なくした 手紙[てがみ]が 出[で]てきた。
+  Als ich in der Schublade suchte, fand ich den verlorenen Brief.
+
+  泥棒が入ったので、警察が家の中を探しています。
+  泥棒[どろぼう]が 入[はい]ったので、警察[けいさつ]が 家[いえ]の 中[なか]を 探[さが]しています。
+  Da eingebrochen wurde, durchsucht die Polizei das Haus.
+
+  ちょっと探してくるね。すぐ戻るから。
+  ちょっと 探[さが]してくるね。すぐ 戻[もど]るから。
+  Ich geh mal eben suchen. Bin gleich wieder da.
+
+  暗い部屋で黒い猫を探すのは難しいね。
+  暗[くら]い 部屋[へや]で 黒[くろ]い 猫[ねこ]を 探[さが]すのは 難[むずか]しいね。
+  Es ist schwierig, eine schwarze Katze in einem dunklen Zimmer zu finden.
+
+  会社を辞めたら、新しい仕事を探さなきゃいけないな。
+  会社[かいしゃ]を 辞[や]めたら、新[あたら]しい 仕事[しごと]を 探[さが]さなきゃいけないな。
+  Wenn ich die Firma verlasse, muss ich wohl einen neuen Job suchen.
+
+  雨が降ってきたので、傘を探しています。
+  雨[あめ]が 降[ふ]ってきたので、傘[かさ]を 探[さが]しています。
+  Es hat angefangen zu regnen, also suche ich nach einem Regenschirm.
+
+  辞書を探して、知らない言葉の意味を調べました。
+  辞書[じしょ]を 探[さが]して、知[し]らない 言葉[ことば]の 意味[いみ]を 調[しら]べました。
+  Ich habe ein Wörterbuch gesucht und die Bedeutung des unbekannten Wortes nachgeschlagen.
+
+  彼女は一日中机に座って、資料の中から必要な情報を探している。
+  彼女[かのじょ]は 一日中[いちにちじゅう] 机[つくえ]に 座[すわ]って、資料[しりょう]の 中[なか]から 必要[ひつよう]な 情報[じょうほう]を 探[さが]している。
+  Sie sitzt den ganzen Tag am Schreibtisch und sucht in den Unterlagen nach den benötigten Informationen.
+
+  このアプリを使えば、簡単に近くのレストランを探せますよ。
+  このアプリを 使[つか]えば、簡単[かんたん]に 近[ちか]くのレストランを 探[さが]せますよ。
+  Mit dieser App können Sie ganz einfach Restaurants in der Nähe finden.
+
+  子供の頃の写真を探していたら、懐かしいおもちゃが出てきた。
+  子供[こども]の 頃[ころ]の 写真[しゃしん]を 探[さが]していたら、懐[なつ]かしいおもちゃが 出[で]てきた。
+  Als ich nach Fotos aus meiner Kindheit suchte, fand ich ein nostalgisches Spielzeug.
+
+  彼は常に新しいアイデアを探しています。
+  彼[かれ]は 常[つね]に 新[あたら]しいアイデアを 探[さが]しています。
+  Er ist ständig auf der Suche nach neuen Ideen.
+
+  財布をなくしたので、部屋中を探し回っています。
+  財布[さいふ]をなくしたので、部屋中[へやじゅう]を 探[さが]し 回[まわ]っています。
+  Ich habe meine Geldbörse verloren und suche im ganzen Zimmer danach.
+
+  彼女は良い結婚相手を探しているんだって。
+  彼女[かのじょ]は 良[よ]い 結婚相手[けっこんあいて]を 探[さが]しているんだって。
+  Ich habe gehört, sie sucht nach einem guten Ehepartner.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Das Zeichen 捜 wird oft für die Suche nach etwas Verlorenem oder aus dem Blick Geratenem verwendet, das Zeichen 探 für die Suche nach etwas, das man sich wünscht.<div class="examples">
+    <div class="jp">失くした指輪を捜す。</div>
+    <div class="de spoiler">Ich suche nach dem verlorenen Ring.</div>
+    <div class="jp">新しい仕事を探す。</div>
+    <div class="de spoiler">Ich suche nach einer neuen Arbeit.</div>
+  </div>

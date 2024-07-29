@@ -2,14 +2,14 @@ Rang: 520
 Lemma: 安い
 Lesung: やすい
 Alternativschreibweisen: ''
-Definition: günstig, billig
+Definition: billig; preiswert; niedrig
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>や</span><span class="accent_top">す</span><span>い</span>
 Register: ↗</>Internet
 Dispersion: '83'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 安くない・安かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   安い宿に泊まる。
   安[やす]い 宿[やど]に 泊[と]まる。
   Ich übernachte in günstiger Unterkunft.
+
+  この本は安くて、学生でも買えます。
+  この 本[ほん]は 安[やす]くて、学生[がくせい]でも 買[か]えます。
+  Dieses Buch ist billig, sodass selbst Studenten es kaufen können.
+
+  安い買い物をするなら、セールの時期を狙うといいよ。
+  安[やす]い 買[か]い 物[もの]をするなら、セールの 時期[じき]を 狙[ねら]うといいよ。
+  Wenn du günstig einkaufen möchtest, solltest du die Verkaufsperioden anpeilen.
+
+  この安い酒は味が悪いから、やめたほうがいいよ。
+  この 安[やす]い 酒[さけ]は 味[あじ]が 悪[わる]いから、やめたほうがいいよ。
+  Dieser billige Sake schmeckt schlecht, also lass es lieber sein.
+
+  家賃が安いアパートを探しています。
+  家賃[やちん]が 安[やす]いアパートを 探[さが]しています。
+  Ich suche eine Wohnung mit niedriger Miete.
+
+  このレストランは値段が安いのに、料理がおいしいです。
+  このレストランは 値段[ねだん]が 安[やす]いのに、料理[りょうり]がおいしいです。
+  Dieses Restaurant hat niedrige Preise, aber das Essen ist lecker.
+
+  安い値段で新しい自転車を手に入れました。
+  安[やす]い 値段[ねだん]で 新[あたら]しい 自転車[じてんしゃ]を 手[て]に 入[い]れました。
+  Ich habe ein neues Fahrrad zu einem günstigen Preis erstanden.
+
+  この商品は馬鹿安いから、すぐ売り切れるでしょう。
+  この 商品[しょうひん]は 馬鹿[ばか]安[やす]いから、すぐ 売[う]り 切[き]れるでしょう。
+  Dieses Produkt ist spottbillig, also wird es sicher schnell ausverkauft sein.
+
+  ここはどこよりも安い店だと聞きました。
+  ここはどこよりも 安[やす]い 店[みせ]だと 聞[き]きました。
+  Ich habe gehört, dass dies das billigste Geschäft weit und breit ist.
+
+  給料が安いので、転職を考えています。
+  給料[きゅうりょう]が 安[やす]いので、転職[てんしょく]を 考[かんが]えています。
+  Da mein Gehalt niedrig ist, denke ich über einen Jobwechsel nach.
+
+  野菜の値段が安くなったので、たくさん買いました。
+  野菜[やさい]の 値段[ねだん]が 安[やす]くなったので、たくさん 買[か]いました。
+  Da der Preis für Gemüse billiger geworden ist, habe ich viel gekauft.
+
+  お客様のために、少し安くしましょう。
+  お 客様[きゃくさま]のために、少[すこ]し 安[やす]くしましょう。
+  Für Sie als Kunden mache ich es ein bisschen billiger.
+
+  いくら安く見積もっても、予算オーバーです。
+  いくら 安[やす]く 見積[みつ]もっても、予算[よさん]オーバーです。
+  Selbst bei der niedrigsten Schätzung übersteigt es unser Budget.
+
+  彼女の父親は安い衣料品を輸入しているそうです。
+  彼女[かのじょ]の 父親[ちちおや]は 安[やす]い 衣料品[いりょうひん]を 輸入[ゆにゅう]しているそうです。
+  Ihr Vater importiert angeblich billige Textilien.
+
+  安い下宿を探すなら、学生向けの不動産屋がおすすめだよ。
+  安[やす]い 下宿[げしゅく]を 探[さが]すなら、学生向[がくせいむ]けの 不動産屋[ふどうさんや]がおすすめだよ。
+  Wenn du eine günstige Unterkunft suchst, empfehle ich dir Immobilienmakler, die sich auf Studenten spezialisiert haben.
+
+  安い利子で借りられる銀行を探しています。
+  安[やす]い 利子[りし]で 借[か]りられる 銀行[ぎんこう]を 探[さが]しています。
+  Ich suche eine Bank, bei der ich zu niedrigen Zinsen leihen kann.
+
+  ここでは安く素晴らしい絨毯が手に入るそうです。
+  ここでは 安[やす]く 素晴[すば]らしい 絨毯[じゅうたん]が 手[て]に 入[はい]るそうです。
+  Man sagt, dass man hier wunderbare Teppiche günstig bekommen kann.
+
+  コストの安いアジアに工場を移す企業が増えています。
+  コストの 安[やす]いアジアに 工場[こうじょう]を 移[うつ]す 企業[きぎょう]が 増[ふ]えています。
+  Es gibt immer mehr Unternehmen, die ihre Fabriken in kostengünstige asiatische Länder verlagern.
+
+  お心を安くお待ちください。すぐに戻ってまいります。
+  お 心[こころ]を 安[やす]くお 待[ま]ちください。すぐに 戻[もど]ってまいります。
+  Bitte warten Sie unbesorgt. Ich komme gleich zurück.
+
+  人を騙すより、騙される方が気が安いと思う。
+  人[ひと]を 騙[だま]すより、騙[だま]される 方[ほう]が 気[き]が 安[やす]いと 思[おも]う。
+  Ich denke, es ist beruhigender, betrogen zu werden, als selbst zu betrügen.
+
+  安かれわが心よ、この試練を乗り越えよう。
+  安[やす]かれわが 心[こころ]よ、この 試練[しれん]を 乗[の]り 越[こ]えよう。
+  Sei still, mein Herz, lass uns diese Prüfung überstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

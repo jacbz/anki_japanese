@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">そ</span><span 
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 忙しくない・忙しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   彼はどんなに忙しくても自分でご飯を作る。
   彼[かれ]はどんなに 忙[いそが]しくても 自分[じぶん]でご 飯[はん]を 作[つく]る。
   Egal wie beschäftigt er ist, er kocht immer für sich selbst.
+
+  今日は忙しい一日になりそうだ。
+  今日[きょう]は 忙[いそが]しい 一日[いちにち]になりそうだ。
+  Es sieht aus, als würde heute ein geschäftiger Tag werden.
+
+  彼は仕事で忙しくて、友達と会う時間がない。
+  彼[かれ]は 仕事[しごと]で 忙[いそが]しくて、友達[ともだち]と 会[あ]う 時間[じかん]がない。
+  Er ist mit der Arbeit so beschäftigt, dass er keine Zeit hat, sich mit Freunden zu treffen.
+
+  試験の準備に忙しくて、ほとんど睡眠時間がありません。
+  試験[しけん]の 準備[じゅんび]に 忙[いそが]しくて、ほとんど 睡眠[すいみん]時間[じかん]がありません。
+  Ich bin mit den Prüfungsvorbereitungen so beschäftigt, dass ich kaum Zeit zum Schlafen habe.
+
+  目が回るほど忙しい週間だった。
+  目[め]が 回[まわ]るほど 忙[いそが]しい 週間[しゅうかん]だった。
+  Es war eine so hektische Woche, dass mir schwindelig wurde.
+
+  お忙しいところ恐縮ですが、少しお時間をいただけますか。
+  お 忙[いそが]しいところ 恐縮[きょうしゅく]ですが、少[すこ]しお 時間[じかん]をいただけますか。
+  Ich weiß, Sie sind beschäftigt, aber könnten Sie mir bitte einen Moment Zeit geben?
+
+  この忙しい時期に休暇を取るのは難しいです。
+  この 忙[いそが]しい 時期[じき]に 休暇[きゅうか]を 取[と]るのは 難[むずか]しいです。
+  Es ist schwierig, in dieser geschäftigen Zeit Urlaub zu nehmen.
+
+  彼女は忙しい合間を縫って、ボランティア活動をしている。
+  彼女[かのじょ]は 忙[いそが]しい 合間[あいま]を 縫[ぬ]って、ボランティア 活動[かつどう]をしている。
+  Sie engagiert sich ehrenamtlich, indem sie sich Zeit zwischen ihren geschäftigen Terminen nimmt.
+
+  忙しい朝は、簡単な朝食で済ませることが多い。
+  忙[いそが]しい 朝[あさ]は、簡単[かんたん]な 朝食[ちょうしょく]で 済[す]ませることが 多[おお]い。
+  An geschäftigen Morgen begnüge ich mich oft mit einem einfachen Frühstück.
+
+  仕事が忙しくなったが、給料も上がったので満足している。
+  仕事[しごと]が 忙[いそが]しくなったが、給料[きゅうりょう]も 上[あ]がったので 満足[まんぞく]している。
+  Die Arbeit ist zwar stressiger geworden, aber ich bin zufrieden, weil auch mein Gehalt gestiegen ist.
+
+  忙しい職務のため、普段はそこまで細かいことは見ない。
+  忙[いそが]しい 職務[しょくむ]のため、普段[ふだん]はそこまで 細[こま]かいことは 見[み]ない。
+  Aufgrund meiner geschäftigen Position achte ich normalerweise nicht auf solche Details.
+
+  新入社員は皆、忙しそうに働いていた。
+  新入社員[しんにゅうしゃいん]は 皆[みな]、忙[いそが]しそうに 働[はたら]いていた。
+  Alle neuen Mitarbeiter schienen geschäftig zu arbeiten.
+
+  彼は忙しげに通路を歩いていた。
+  彼[かれ]は 忙[いそが]しげに 通路[つうろ]を 歩[ある]いていた。
+  Er ging geschäftig den Korridor entlang.
+
+  気分が落ち込んでいるときは、忙しくしている方がいいかもしれない。
+  気分[きぶん]が 落[お]ち 込[こ]んでいるときは、忙[いそが]しくしている 方[ほう]がいいかもしれない。
+  Wenn man sich niedergeschlagen fühlt, hilft es vielleicht, beschäftigt zu sein.
+
+  休暇から戻ると、忙しい一週間が待っていた。
+  休暇[きゅうか]から 戻[もど]ると、忙[いそが]しい 一週間[いっしゅうかん]が 待[ま]っていた。
+  Als ich aus dem Urlaub zurückkam, erwartete mich eine geschäftige Woche.
+
+  彼の忙しい性分のせいで、ゆっくり休むことができない。
+  彼[かれ]の 忙[いそが]しい 性分[しょうぶん]のせいで、ゆっくり 休[やす]むことができない。
+  Wegen seines ruhelosen Wesens kann er sich nicht richtig entspannen.
+
+  忙しいスケジュールの中で、家族との時間を作るのは難しい。
+  忙[いそが]しいスケジュールの 中[なか]で、家族[かぞく]との 時間[じかん]を 作[つく]るのは 難[むずか]しい。
+  Es ist schwierig, in einem vollen Terminkalender Zeit für die Familie zu finden.
+
+  この忙しい街では、ゆっくりとした時間の流れを感じることは稀だ。
+  この 忙[いそが]しい 街[まち]では、ゆっくりとした 時間[じかん]の 流[なが]れを 感[かん]じることは 稀[まれ]だ。
+  In dieser geschäftigen Stadt ist es selten, einen langsamen Zeitfluss zu spüren.
+
+  忙しさのあまり、大切な約束を忘れてしまった。
+  忙[いそが]しさのあまり、大切[たいせつ]な 約束[やくそく]を 忘[わす]れてしまった。
+  Ich war so beschäftigt, dass ich einen wichtigen Termin vergessen habe.
+
+  忙しい朝でも、朝食は抜かさないようにしています。
+  忙[いそが]しい 朝[あさ]でも、朝食[ちょうしょく]は 抜[ぬ]かさないようにしています。
+  Auch an geschäftigen Morgen versuche ich, das Frühstück nicht auszulassen.
+
+  忙しい時こそ、効率的に仕事をこなす必要がある。
+  忙[いそが]しい 時[とき]こそ、効率的[こうりつてき]に 仕事[しごと]をこなす 必要[ひつよう]がある。
+  Gerade in geschäftigen Zeiten ist es notwendig, effizient zu arbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

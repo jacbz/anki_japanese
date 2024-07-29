@@ -1,15 +1,15 @@
 Rang: 380
 Lemma: 得る
 Lesung: える
-Alternativschreibweisen: うる
-Definition: erhalten, bekommen
+Alternativschreibweisen: うる・獲る
+Definition: erhalten, bekommen; erlangen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span class="accent_top">え</span><span>る</span>
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 得ない・得た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   多くの人の協力を得ることができた。
   多[おお]くの人の 協力[きょうりょく]を 得[え]ることができた。
   Ich habe Hilfe von vielen Menschen bekommen.
+
+  あなたの努力によって素晴らしい結果を得ることができるでしょう。
+  あなたの 努力[どりょく]によって 素晴[すば]らしい 結果[けっか]を 得[え]ることができるでしょう。
+  Durch deine Bemühungen wirst du wahrscheinlich hervorragende Ergebnisse erzielen können.
+
+  新しい友人を得るのは簡単なことではありません。
+  新[あたら]しい 友人[ゆうじん]を 得[え]るのは 簡単[かんたん]なことではありません。
+  Es ist nicht einfach, neue Freunde zu gewinnen.
+
+  彼女は大学で多くの知識を得た。
+  彼女[かのじょ]は 大学[だいがく]で 多[おお]くの 知識[ちしき]を 得[え]た。
+  Sie hat an der Universität viel Wissen erworben.
+
+  この仕事を通じて、私は多くの経験を得ることができました。
+  この 仕事[しごと]を 通[つう]じて、私[わたし]は 多[おお]くの 経験[けいけん]を 得[え]ることができました。
+  Durch diese Arbeit konnte ich viele Erfahrungen sammeln.
+
+  彼は競争に勝ち、金メダルを得た。
+  彼[かれ]は 競争[きょうそう]に 勝[か]ち、金[きん]メダルを 得[え]た。
+  Er gewann den Wettbewerb und erhielt eine Goldmedaille.
+
+  この本から多くのインスピレーションを得ました。
+  この 本[ほん]から 多[おお]くのインスピレーションを 得[え]ました。
+  Ich habe aus diesem Buch viel Inspiration gewonnen.
+
+  彼女は努力の末、会社の承認を得ることができた。
+  彼女[かのじょ]は 努力[どりょく]の 末[すえ]、会社[かいしゃ]の 承認[しょうにん]を 得[え]ることができた。
+  Nach vielen Bemühungen konnte sie die Zustimmung der Firma erhalten.
+
+  この研究によって、私たちは重要な情報を得ることができました。
+  この 研究[けんきゅう]によって、私[わたし]たちは 重要[じゅうよう]な 情報[じょうほう]を 得[え]ることができました。
+  Durch diese Forschung konnten wir wichtige Informationen gewinnen.
+
+  彼は長年の努力の末、ついに昇進を得た。
+  彼[かれ]は 長年[ながねん]の 努力[どりょく]の 末[すえ]、ついに 昇進[しょうしん]を 得[え]た。
+  Nach jahrelanger Anstrengung erhielt er endlich eine Beförderung.
+
+  この経験から多くのことを学び、自信を得ることができました。
+  この 経験[けいけん]から 多[おお]くのことを 学[まな]び、自信[じしん]を 得[え]ることができました。
+  Aus dieser Erfahrung konnte ich viel lernen und Selbstvertrauen gewinnen.
+
+  彼女は上司の許可を得て、早退しました。
+  彼女[かのじょ]は 上司[じょうし]の 許可[きょか]を 得[え]て、早退[そうたい]しました。
+  Sie ging früher, nachdem sie die Erlaubnis ihres Vorgesetzten erhalten hatte.
+
+  この商品は多くの顧客の支持を得ています。
+  この 商品[しょうひん]は 多[おお]くの 顧客[こきゃく]の 支持[しじ]を 得[え]ています。
+  Dieses Produkt genießt die Unterstützung vieler Kunden.
+
+  彼は選挙で多数の票を得て、当選しました。
+  彼[かれ]は 選挙[せんきょ]で 多数[たすう]の 票[ひょう]を 得[え]て、当選[とうせん]しました。
+  Er gewann die Wahl, indem er eine Mehrheit der Stimmen erhielt.
+
+  この新しい技術によって、生産効率を大幅に上げることが得られるでしょう。
+  この 新[あたら]しい 技術[ぎじゅつ]によって、生産効率[せいさんこうりつ]を 大幅[おおはば]に 上[あ]げることが 得[え]られるでしょう。
+  Mit dieser neuen Technologie wird es möglich sein, die Produktionseffizienz erheblich zu steigern.
+
+  彼女は海外留学を通じて、貴重な経験を得ることができた。
+  彼女[かのじょ]は 海外留学[かいがいりゅうがく]を 通[つう]じて、貴重[きちょう]な 経験[けいけん]を 得[え]ることができた。
+  Durch ihr Auslandsstudium konnte sie wertvolle Erfahrungen sammeln.
+
+  この実験から興味深い結果を得ることができました。
+  この 実験[じっけん]から 興味深[きょうみぶか]い 結果[けっか]を 得[え]ることができました。
+  Wir konnten interessante Ergebnisse aus diesem Experiment gewinnen.
+
+  彼は長年の研究の末、ノーベル賞を得るに至った。
+  彼[かれ]は 長年[ながねん]の 研究[けんきゅう]の 末[すえ]、ノーベル 賞[しょう]を 得[え]るに 至[いた]った。
+  Nach jahrelanger Forschung gelang es ihm, den Nobelpreis zu erhalten.
+
+  この交渉で両者の合意を得ることができました。
+  この 交渉[こうしょう]で 両者[りょうしゃ]の 合意[ごうい]を 得[え]ることができました。
+  In diesen Verhandlungen konnten wir die Zustimmung beider Parteien erlangen.
+
+  彼女は努力の結果、奨学金を得ることができた。
+  彼女[かのじょ]は 努力[どりょく]の 結果[けっか]、奨学金[しょうがくきん]を 得[え]ることができた。
+  Als Ergebnis ihrer Bemühungen konnte sie ein Stipendium erhalten.
+
+  この新製品は市場で大きな反響を得ている。
+  この 新製品[しんせいひん]は 市場[しじょう]で 大[おお]きな 反響[はんきょう]を 得[え]ている。
+  Dieses neue Produkt findet auf dem Markt großen Anklang.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

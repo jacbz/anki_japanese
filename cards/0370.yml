@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>せ</span><span class="accent_plain">つ</span><span 
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 説明しない・説明した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   詳しく説明してください。
   詳[くわ]しく 説明[せつめい]してください。
   Bitte erklären Sie es im Detail.
+
+  新製品の説明会に参加しました。
+  新製品[しんせいひん]の 説明会[せつめいかい]に 参加[さんか]しました。
+  Ich habe an der Informationsveranstaltung für das neue Produkt teilgenommen.
+
+  この機械の説明書をよく読んでから使ってください。
+  この 機械[きかい]の 説明書[せつめいしょ]をよく 読[よ]んでから 使[つか]ってください。
+  Bitte lesen Sie die Gebrauchsanweisung für diese Maschine sorgfältig, bevor Sie sie benutzen.
+
+  グラフを使って売上の推移を説明しました。
+  グラフを 使[つか]って 売上[うりあげ]の 推移[すいい]を 説明[せつめい]しました。
+  Ich habe die Entwicklung der Verkaufszahlen anhand eines Diagramms erklärt.
+
+  彼の行動に対する説明がつかない。
+  彼[かれ]の 行動[こうどう]に 対[たい]する 説明[せつめい]がつかない。
+  Sein Verhalten ist unerklärlich.
+
+  先生の説明が難しくて、よく理解できませんでした。
+  先生[せんせい]の 説明[せつめい]が 難[むずか]しくて、よく 理解[りかい]できませんでした。
+  Die Erklärung des Lehrers war schwierig und ich konnte sie nicht gut verstehen.
+
+  彼女は詳しい説明を求めました。
+  彼女[かのじょ]は 詳[くわ]しい 説明[せつめい]を 求[もと]めました。
+  Sie verlangte eine detaillierte Erklärung.
+
+  わかりやすい説明をしてくれてありがとう。
+  わかりやすい 説明[せつめい]をしてくれてありがとう。
+  Danke, dass du mir eine leicht verständliche Erklärung gegeben hast.
+
+  この現象を科学的に説明するのは難しい。
+  この 現象[げんしょう]を 科学的[かがくてき]に 説明[せつめい]するのは 難[むずか]しい。
+  Es ist schwierig, dieses Phänomen wissenschaftlich zu erklären.
+
+  彼は長々と説明して、聞いている人をうんざりさせた。
+  彼[かれ]は 長々[ながなが]と 説明[せつめい]して、聞[き]いている 人[ひと]をうんざりさせた。
+  Er erklärte weitschweifig und langweilte damit seine Zuhörer.
+
+  具体的に説明してください。抽象的な言葉では分かりません。
+  具体的[ぐたいてき]に 説明[せつめい]してください。抽象的[ちゅうしょうてき]な 言葉[ことば]では 分[わ]かりません。
+  Bitte erklären Sie es konkret. Mit abstrakten Worten verstehe ich es nicht.
+
+  簡単に説明すると、この装置は水を浄化するものです。
+  簡単[かんたん]に 説明[せつめい]すると、この 装置[そうち]は 水[みず]を 浄化[じょうか]するものです。
+  Einfach erklärt ist diese Vorrichtung dazu da, Wasser zu reinigen.
+
+  プロジェクトの経緯を上司に説明しなければなりません。
+  プロジェクトの 経緯[けいい]を 上司[じょうし]に 説明[せつめい]しなければなりません。
+  Ich muss meinem Vorgesetzten den Verlauf des Projekts erläutern.
+
+  この問題の解決策を大まかに説明してください。
+  この 問題[もんだい]の 解決策[かいけつさく]を 大[おお]まかに 説明[せつめい]してください。
+  Bitte erklären Sie die Lösung für dieses Problem in groben Zügen.
+
+  彼女は写真を使って旅行の様子を説明した。
+  彼女[かのじょ]は 写真[しゃしん]を 使[つか]って 旅行[りょこう]の 様子[ようす]を 説明[せつめい]した。
+  Sie beschrieb ihre Reise anhand von Fotos.
+
+  説明責任を果たすために、全ての情報を公開しました。
+  説明責任[せつめいせきにん]を 果[は]たすために、全[すべ]ての 情報[じょうほう]を 公開[こうかい]しました。
+  Um unserer Rechenschaftspflicht nachzukommen, haben wir alle Informationen veröffentlicht.
+
+  不十分な説明では、問題の本質が伝わりません。
+  不十分[ふじゅうぶん]な 説明[せつめい]では、問題[もんだい]の 本質[ほんしつ]が 伝[つた]わりません。
+  Mit einer unzureichenden Erklärung wird das Wesen des Problems nicht vermittelt.
+
+  この現象は現在の科学では説明がつかない。
+  この 現象[げんしょう]は 現在[げんざい]の 科学[かがく]では 説明[せつめい]がつかない。
+  Dieses Phänomen lässt sich mit der gegenwärtigen Wissenschaft nicht erklären.
+
+  説明義務を怠ると、法的な問題になる可能性があります。
+  説明義務[せつめいぎむ]を 怠[おこた]ると、法的[ほうてき]な 問題[もんだい]になる 可能性[かのうせい]があります。
+  Wenn man seiner Erläuterungspflicht nicht nachkommt, kann das rechtliche Probleme verursachen.
+
+  彼は説明的な文章を書くのが得意だ。
+  彼[かれ]は 説明的[せつめいてき]な 文章[ぶんしょう]を 書[か]くのが 得意[とくい]だ。
+  Er ist gut darin, erklärende Texte zu schreiben.
+
+  この説明図を見れば、製品の使い方がよく分かります。
+  この 説明図[せつめいず]を 見[み]れば、製品[せいひん]の 使[つか]い 方[かた]がよく 分[わ]かります。
+  Wenn Sie dieses Schaubild betrachten, verstehen Sie die Verwendung des Produkts gut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

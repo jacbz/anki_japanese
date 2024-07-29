@@ -1,10 +1,10 @@
 Rang: 179
 Lemma: 一人
 Lesung: ひとり
-Alternativschreibweisen: ''
-Definition: eine Person; allein
+Alternativschreibweisen: 独り
+Definition: ein Mensch; allein
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_top">と</span><span>り</span>
 Register: ''
 Dispersion: '94'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   料金は一人五千円です。
   料金[りょうきん]は一人五 千[せん] 円[えん]です。
   Die Gebühr beträgt fünftausend Yen pro Person.
+
+  あの部屋には一人も人がいない。
+  あの 部屋[へや]には 一人[ひとり]も 人[ひと]がいない。
+  In diesem Zimmer ist niemand.
+
+  この町では一人も知り合いがいません。
+  この 町[まち]では 一人[ひとり]も 知[し]り 合[あ]いがいません。
+  In dieser Stadt habe ich keinen einzigen Bekannten.
+
+  入場料は一人千円です。
+  入場料[にゅうじょうりょう]は 一人[ひとり]千円[せんえん]です。
+  Der Eintrittspreis beträgt tausend Yen pro Person.
+
+  列に並んで、一人ずつ入場してください。
+  列[れつ]に 並[なら]んで、一人[ひとり]ずつ 入場[にゅうじょう]してください。
+  Bitte stellen Sie sich in einer Reihe auf und betreten Sie den Raum einzeln.
+
+  私には息子が一人います。
+  私[わたし]には 息子[むすこ]が 一人[ひとり]います。
+  Ich habe einen Sohn.
+
+  この工場では労務者の一人が事故に遭いました。
+  この 工場[こうじょう]では 労務者[ろうむしゃ]の 一人[ひとり]が 事故[じこ]に 遭[あ]いました。
+  In dieser Fabrik hatte einer der Arbeiter einen Unfall.
+
+  一人の人間が習慣的に大量の酒を飲むようになるには様々な理由がある。
+  一人[ひとり]の 人間[にんげん]が 習慣的[しゅうかんてき]に 大量[たいりょう]の 酒[さけ]を 飲[の]むようになるには 様々[さまざま]な 理由[りゆう]がある。
+  Es kann viele Ursachen haben, wenn ein Mensch beginnt, gewohnheitsmäßig große Mengen Alkohol zu trinken.
+
+  このレストランでは主人のほかに、ウェイトレス一人しかいません。
+  このレストランでは 主人[しゅじん]のほかに、ウェイトレス 一人[ひとり]しかいません。
+  In diesem Restaurant gibt es außer dem Wirt nur eine Kellnerin.
+
+  私は一人で重要な決断を下さなければなりませんでした。
+  私[わたし]は 一人[ひとり]で 重要[じゅうよう]な 決断[けつだん]を 下[くだ]さなければなりませんでした。
+  Ich musste eine wichtige Entscheidung allein treffen.
+
+  彼女は一人で暮らすことを決めました。
+  彼女[かのじょ]は 一人[ひとり]で 暮[く]らすことを 決[き]めました。
+  Sie hat sich entschieden, allein zu leben.
+
+  子供を一人にするのは危険です。
+  子供[こども]を 一人[ひとり]にするのは 危険[きけん]です。
+  Es ist gefährlich, ein Kind allein zu lassen.
+
+  時には一人を楽しむことも大切です。
+  時[とき]には 一人[ひとり]を 楽[たの]しむことも 大切[たいせつ]です。
+  Es ist auch wichtig, manchmal das Alleinsein zu genießen.
+
+  祖母は一人きりで寂しそうでした。
+  祖母[そぼ]は 一人[ひとり]きりで 寂[さび]しそうでした。
+  Meine Großmutter schien ganz allein und einsam zu sein.
+
+  今まで、誰にも言えずに、一人で悩んでいたんですけど。
+  今[いま]まで、誰[だれ]にも 言[い]えずに、一人[ひとり]で 悩[なや]んでいたんですけど。
+  Ich habe das bisher noch niemandem sagen können und habe mich allein damit herumgeschlagen.
+
+  一人で死体を処分することは不可能に近いです。
+  一人[ひとり]で 死体[したい]を 処分[しょぶん]することは 不可能[ふかのう]に 近[ちか]いです。
+  Es ist fast unmöglich, eine Leiche allein zu beseitigen.
+
+  彼は一人で海外旅行に行くことにしました。
+  彼[かれ]は 一人[ひとり]で 海外旅行[かいがいりょこう]に 行[い]くことにしました。
+  Er hat sich entschieden, allein ins Ausland zu reisen.
+
+  これは私一人の問題ではありません。
+  これは 私[わたし] 一人[ひとり]の 問題[もんだい]ではありません。
+  Dies ist nicht nur mein Problem allein.
+
+  君一人に責任をおっつけて済まそうなどというつもりは、まったく無い。
+  君[きみ] 一人[ひとり]に 責任[せきにん]をおっつけて 済[す]まそうなどというつもりは、まったく 無[な]い。
+  Ich habe nicht im Mindesten vor, dir die alleinige Verantwortung zuzuschieben.
+
+  一人残らず全員が会議に参加しました。
+  一人残[ひとりのこ]らず 全員[ぜんいん]が 会議[かいぎ]に 参加[さんか]しました。
+  Alle ohne Ausnahme nahmen an der Besprechung teil.
+
+  父は「一人を慎む」ということをよく教えてくれました。
+  父[ちち]は「一人[ひとり]を 慎[つつし]む」ということをよく 教[おし]えてくれました。
+  Mein Vater lehrte mich oft, dass man auch allein anständig sein sollte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 1063
 Lemma: 疲れる
 Lesung: つかれる
 Alternativschreibweisen: ''
-Definition: müde werden
+Definition: müde werden; erschöpft sein
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi
 Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">か</span><span class="accent_top">れ</span><span>る</span>
 Register: ''
 Dispersion: '81'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 疲れない・疲れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   疲れたら寝てもいいですよ。
   疲[つか]れたら 寝[ね]てもいいですよ。
   Du kannst schlafen, wenn du müde wirst.
+
+  長時間の運転で疲れているので、少し休憩しましょう。
+  長時間[ちょうじかん]の 運転[うんてん]で 疲[つか]れているので、少[すこ]し 休憩[きゅうけい]しましょう。
+  Ich bin vom langen Autofahren müde, lass uns eine kurze Pause machen.
+
+  今日は仕事で疲れたから、早めに寝るつもりだ。
+  今日[きょう]は 仕事[しごと]で 疲[つか]れたから、早[はや]めに 寝[ね]るつもりだ。
+  Ich bin heute von der Arbeit erschöpft, deshalb gehe ich früher ins Bett.
+
+  マラソンを走り終えた後、選手たちは疲れ切っていた。
+  マラソンを 走[はし]り 終[お]えた 後[あと]、選手[せんしゅ]たちは 疲[つか]れ 切[き]っていた。
+  Nach dem Marathonlauf waren die Athleten völlig erschöpft.
+
+  長時間のパソコン作業で目が疲れてきた。
+  長時間[ちょうじかん]のパソコン 作業[さぎょう]で 目[め]が 疲[つか]れてきた。
+  Meine Augen ermüden von der langen Arbeit am Computer.
+
+  山登りで体が疲れているけど、達成感がある。
+  山登[やまのぼ]りで 体[からだ]が 疲[つか]れているけど、達成感[たっせいかん]がある。
+  Mein Körper ist vom Bergsteigen erschöpft, aber ich habe ein Gefühl der Erfüllung.
+
+  この仕事は疲れやすいので、適度な休憩が必要だ。
+  この 仕事[しごと]は 疲[つか]れやすいので、適度[てきど]な 休憩[きゅうけい]が 必要[ひつよう]だ。
+  Diese Arbeit ist leicht ermüdend, daher sind angemessene Pausen erforderlich.
+
+  旅行で疲れているので、今日はゆっくり休みたい。
+  旅行[りょこう]で 疲[つか]れているので、今日[きょう]はゆっくり 休[やす]みたい。
+  Ich bin von der Reise müde, deshalb möchte ich mich heute ausruhen.
+
+  彼女は死ぬほど疲れていて、すぐに眠りについた。
+  彼女[かのじょ]は 死[し]ぬほど 疲[つか]れていて、すぐに 眠[ねむ]りについた。
+  Sie war todmüde und schlief sofort ein.
+
+  毎日の通勤で疲れているので、週末はゆっくりしたい。
+  毎日[まいにち]の 通勤[つうきん]で 疲[つか]れているので、週末[しゅうまつ]はゆっくりしたい。
+  Ich bin vom täglichen Pendeln erschöpft, daher möchte ich am Wochenende entspannen.
+
+  非常に疲れたので、早めに帰宅することにした。
+  非常[ひじょう]に 疲[つか]れたので、早[はや]めに 帰宅[きたく]することにした。
+  Ich war so erschöpft, dass ich beschloss, früher nach Hause zu gehen.
+
+  もっとも疲れない姿勢で仕事をするように心がけている。
+  もっとも 疲[つか]れない 姿勢[しせい]で 仕事[しごと]をするように 心[こころ]がけている。
+  Ich achte darauf, in der am wenigsten ermüdenden Haltung zu arbeiten.
+
+  長時間の歩きで疲れたので、ベンチに座って休憩した。
+  長時間[ちょうじかん]の 歩[ある]きで 疲[つか]れたので、ベンチに 座[すわ]って 休憩[きゅうけい]した。
+  Ich war vom langen Gehen müde, also setzte ich mich auf eine Bank, um mich auszuruhen.
+
+  残業が続いて疲れているので、今週末はゆっくり過ごしたい。
+  残業[ざんぎょう]が 続[つづ]いて 疲[つか]れているので、今週末[こんしゅうまつ]はゆっくり 過[す]ごしたい。
+  Ich bin von den vielen Überstunden erschöpft, daher möchte ich dieses Wochenende entspannt verbringen.
+
+  疲れているときは、無理をせずに休むことが大切だ。
+  疲[つか]れているときは、無理[むり]をせずに 休[やす]むことが 大切[たいせつ]だ。
+  Wenn man müde ist, ist es wichtig, sich nicht zu überanstrengen und sich auszuruhen.
+
+  運動後に疲れているけど、爽快感もある。
+  運動[うんどう]後[ご]に 疲[つか]れているけど、爽快感[そうかいかん]もある。
+  Nach dem Sport bin ich zwar müde, aber ich fühle mich auch erfrischt.
+
+  長時間の会議で疲れたので、コーヒーを飲んで気分転換した。
+  長時間[ちょうじかん]の 会議[かいぎ]で 疲[つか]れたので、コーヒーを 飲[の]んで 気分転換[きぶんてんかん]した。
+  Ich war von der langen Besprechung erschöpft, also trank ich einen Kaffee zur Aufmunterung.
+
+  徹夜で勉強したので、非常に疲れている。
+  徹夜[てつや]で 勉強[べんきょう]したので、非常[ひじょう]に 疲[つか]れている。
+  Ich habe die ganze Nacht durchgelernt und bin daher sehr erschöpft.
+
+  働き疲れたので、今日は早めに帰宅する。
+  働[はたら]き 疲[つか]れたので、今日[きょう]は 早[はや]めに 帰宅[きたく]する。
+  Ich habe mich müde gearbeitet, also gehe ich heute früher nach Hause.
+
+  長旅で疲れているので、ゆっくりお風呂に入りたい。
+  長旅[ながたび]で 疲[つか]れているので、ゆっくりお 風呂[ふろ]に 入[はい]りたい。
+  Ich bin von der langen Reise müde, daher möchte ich ein entspannendes Bad nehmen.
+
+  疲れやすい体質なので、適度な運動と休息を心がけている。
+  疲[つか]れやすい 体質[たいしつ]なので、適度[てきど]な 運動[うんどう]と 休息[きゅうそく]を 心[こころ]がけている。
+  Da ich eine Konstitution habe, die leicht ermüdet, achte ich auf angemessene Bewegung und Ruhe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

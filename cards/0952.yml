@@ -2,7 +2,7 @@ Rang: 952
 Lemma: 選択
 Lesung: せんたく
 Alternativschreibweisen: ''
-Definition: Auswahl; wählen
+Definition: (aus-)wählen; Wahl
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>せ</span><span class="accent_plain">ん</span><span class="accent_plain">た</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>せ</span><span class="accent_plain">ん</span><span 
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 選択しない・選択した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   ビジネスコースを選択するつもりだ。
   ビジネスコースを 選択[せんたく]するつもりだ。
   Ich werde den Business-Kurs wählen.
+
+  今年の選択科目は何にしますか？
+  今年[ことし]の 選択科目[せんたくかもく]は 何[なに]にしますか？
+  Welches Wahlfach wirst du dieses Jahr nehmen?
+
+  彼は難しい選択を迫られている。
+  彼[かれ]は 難[むずか]しい 選択[せんたく]を 迫[せま]られている。
+  Er steht vor einer schwierigen Entscheidung.
+
+  この選択肢の中から一つ選んでください。
+  この 選択肢[せんたくし]の 中[なか]から 一[ひと]つ 選[えら]んでください。
+  Bitte wählen Sie eine Option aus diesen Auswahlmöglichkeiten.
+
+  賢明な選択をするには十分な情報が必要だ。
+  賢明[けんめい]な 選択[せんたく]をするには 十分[じゅうぶん]な 情報[じょうほう]が 必要[ひつよう]だ。
+  Um eine kluge Wahl zu treffen, braucht man ausreichende Informationen.
+
+  進路の選択は慎重に考えるべきだ。
+  進路[しんろ]の 選択[せんたく]は 慎重[しんちょう]に 考[かんが]えるべきだ。
+  Die Wahl des Karrierewegs sollte sorgfältig überlegt werden.
+
+  彼女は常に健康的な食事を選択している。
+  彼女[かのじょ]は 常[つね]に 健康的[けんこうてき]な 食事[しょくじ]を 選択[せんたく]している。
+  Sie entscheidet sich immer für gesunde Ernährung.
+
+  この問題には正解を選択する余地がない。
+  この 問題[もんだい]には 正解[せいかい]を 選択[せんたく]する 余地[よち]がない。
+  Bei diesem Problem gibt es keine Möglichkeit, die richtige Antwort zu wählen.
+
+  選択権は君にあるよ。
+  選択権[せんたくけん]は 君[きみ]にあるよ。
+  Du hast das Wahlrecht.
+
+  環境に優しい製品を選択することが大切だ。
+  環境[かんきょう]に 優[やさ]しい 製品[せいひん]を 選択[せんたく]することが 大切[たいせつ]だ。
+  Es ist wichtig, umweltfreundliche Produkte zu wählen.
+
+  私たちは常に選択の結果に責任を持つ必要がある。
+  私[わたし]たちは 常[つね]に 選択[せんたく]の 結果[けっか]に 責任[せきにん]を 持[も]つ 必要[ひつよう]がある。
+  Wir müssen immer die Verantwortung für die Konsequenzen unserer Entscheidungen tragen.
+
+  この選択制度は学生に多様な機会を提供している。
+  この 選択制度[せんたくせいど]は 学生[がくせい]に 多様[たよう]な 機会[きかい]を 提供[ていきょう]している。
+  Dieses Wahlsystem bietet den Studenten vielfältige Möglichkeiten.
+
+  政治家の選択が国の将来を左右することがある。
+  政治家[せいじか]の 選択[せんたく]が 国[くに]の 将来[しょうらい]を 左右[さゆう]することがある。
+  Die Entscheidungen von Politikern können die Zukunft eines Landes beeinflussen.
+
+  選択に迷ったら、直感を信じるのも一つの方法だ。
+  選択[せんたく]に 迷[まよ]ったら、直感[ちょっかん]を 信[しん]じるのも 一[ひと]つの 方法[ほうほう]だ。
+  Wenn du bei der Wahl unsicher bist, ist es auch eine Möglichkeit, deiner Intuition zu vertrauen.
+
+  彼は常に安全な選択をする傾向がある。
+  彼[かれ]は 常[つね]に 安全[あんぜん]な 選択[せんたく]をする 傾向[けいこう]がある。
+  Er neigt dazu, immer die sichere Option zu wählen.
+
+  この選択的吸収の原理を説明してください。
+  この 選択的[せんたくてき] 吸収[きゅうしゅう]の 原理[げんり]を 説明[せつめい]してください。
+  Bitte erklären Sie das Prinzip der selektiven Absorption.
+
+  選択肢が多すぎて、かえって決断しにくくなることがある。
+  選択肢[せんたくし]が 多[おお]すぎて、かえって 決断[けつだん]しにくくなることがある。
+  Manchmal erschwert eine zu große Auswahl an Optionen die Entscheidungsfindung.
+
+  彼女は慎重に配偶者選択を行った。
+  彼女[かのじょ]は 慎重[しんちょう]に 配偶者選択[はいぐうしゃせんたく]を 行[おこな]った。
+  Sie traf ihre Partnerwahl sehr sorgfältig.
+
+  この選択は将来に大きな影響を与えるだろう。
+  この 選択[せんたく]は 将来[しょうらい]に 大[おお]きな 影響[えいきょう]を 与[あた]えるだろう。
+  Diese Entscheidung wird wahrscheinlich große Auswirkungen auf die Zukunft haben.
+
+  選択的緘黙症の子供たちへの対応には専門的な知識が必要だ。
+  選択的緘黙症[せんたくてきかんもくしょう]の 子供[こども]たちへの 対応[たいおう]には 専門的[せんもんてき]な 知識[ちしき]が 必要[ひつよう]だ。
+  Für den Umgang mit Kindern mit selektivem Mutismus ist Fachwissen erforderlich.
+
+  小説の舞台選択は作品の雰囲気に大きく影響する。
+  小説[しょうせつ]の 舞台選択[ぶたいせんたく]は 作品[さくひん]の 雰囲気[ふんいき]に 大[おお]きく 影響[えいきょう]する。
+  Die Wahl des Schauplatzes eines Romans beeinflusst stark die Atmosphäre des Werkes.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

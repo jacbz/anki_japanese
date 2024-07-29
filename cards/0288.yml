@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>つ</span><span class="accent_top">よ</span><span>�
 Register: ''
 Dispersion: '100'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 強くない・強かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は力が強い。
   彼[かれ]は 力[ちから]が 強[つよ]い。
   Er ist stark.
+
+  彼は力が強いので、重い荷物を簡単に持ち上げられる。
+  彼[かれ]は 力[ちから]が 強[つよ]いので、重[おも]い 荷物[にもつ]を 簡単[かんたん]に 持[も]ち 上[あ]げられる。
+  Er ist so stark, dass er schwere Gepäckstücke mühelos hochheben kann.
+
+  この地域は地震に強い建物が多い。
+  この 地域[ちいき]は 地震[じしん]に 強[つよ]い 建物[たてもの]が 多[おお]い。
+  In dieser Region gibt es viele erdbebensichere Gebäude.
+
+  彼女は意志が強い人で、困難にも負けない。
+  彼女[かのじょ]は 意志[いし]が 強[つよ]い 人[ひと]で、困難[こんなん]にも 負[ま]けない。
+  Sie ist eine willensstarke Person, die auch vor Schwierigkeiten nicht zurückschreckt.
+
+  このチームは守備が強く、なかなか点を取られない。
+  この チームは 守備[しゅび]が 強[つよ]く、なかなか 点[てん]を 取[と]られない。
+  Dieses Team hat eine starke Verteidigung und lässt kaum Punkte zu.
+
+  強い日差しで、帽子をかぶらないと顔が焼けてしまう。
+  強[つよ]い 日差[ひざ]しで、帽子[ぼうし]をかぶらないと 顔[かお]が 焼[や]けてしまう。
+  Bei der starken Sonneneinstrahlung verbrennt man sich das Gesicht, wenn man keinen Hut trägt.
+
+  彼は酒に強く、たくさん飲んでも酔わない。
+  彼[かれ]は 酒[さけ]に 強[つよ]く、たくさん 飲[の]んでも 酔[よ]わない。
+  Er verträgt Alkohol gut und wird selbst nach vielem Trinken nicht betrunken.
+
+  強い風で木の枝が折れてしまった。
+  強[つよ]い 風[かぜ]で 木[き]の 枝[えだ]が 折[お]れてしまった。
+  Der starke Wind hat die Äste der Bäume abgebrochen.
+
+  彼女は数学が強くて、いつも高得点を取る。
+  彼女[かのじょ]は 数学[すうがく]が 強[つよ]くて、いつも 高得点[こうとくてん]を 取[と]る。
+  Sie ist gut in Mathematik und erzielt immer hohe Punktzahlen.
+
+  この薬は副作用が強いので、医師の指示通りに服用してください。
+  この 薬[くすり]は 副作用[ふくさよう]が 強[つよ]いので、医師[いし]の 指示通[しじどお]りに 服用[ふくよう]してください。
+  Dieses Medikament hat starke Nebenwirkungen, bitte nehmen Sie es genau nach Anweisung des Arztes ein.
+
+  彼は強い口調で意見を述べた。
+  彼[かれ]は 強[つよ]い 口調[くちょう]で 意見[いけん]を 述[の]べた。
+  Er äußerte seine Meinung in einem nachdrücklichen Ton.
+
+  この香水は香りが強すぎて、頭が痛くなる。
+  この 香水[こうすい]は 香[かお]りが 強[つよ]すぎて、頭[あたま]が 痛[いた]くなる。
+  Dieses Parfüm hat einen so starken Duft, dass ich Kopfschmerzen bekomme.
+
+  彼女は船に強くて、長時間の航海でも平気だ。
+  彼女[かのじょ]は 船[ふね]に 強[つよ]くて、長時間[ちょうじかん]の 航海[こうかい]でも 平気[へいき]だ。
+  Sie ist seefest und hat auch bei langen Schiffsreisen keine Probleme.
+
+  このチームは攻撃が強いが、守備に弱点がある。
+  この チームは 攻撃[こうげき]が 強[つよ]いが、守備[しゅび]に 弱点[じゃくてん]がある。
+  Dieses Team hat einen starken Angriff, aber Schwächen in der Verteidigung.
+
+  彼は強い信念を持って、自分の目標に向かって努力している。
+  彼[かれ]は 強[つよ]い 信念[しんねん]を 持[も]って、自分[じぶん]の 目標[もくひょう]に 向[む]かって 努力[どりょく]している。
+  Er arbeitet mit starker Überzeugung auf sein Ziel hin.
+
+  この布は水に強いので、雨の日でも安心して使える。
+  この 布[ぬの]は 水[みず]に 強[つよ]いので、雨[あめ]の 日[ひ]でも 安心[あんしん]して 使[つか]える。
+  Dieser Stoff ist wasserabweisend, sodass man ihn auch an Regentagen bedenkenlos verwenden kann.
+
+  彼女は強い好奇心を持って、新しいことに挑戦している。
+  彼女[かのじょ]は 強[つよ]い 好奇心[こうきしん]を 持[も]って、新[あたら]しいことに 挑戦[ちょうせん]している。
+  Mit starker Neugierde stellt sie sich neuen Herausforderungen.
+
+  この会社は競争力が強く、市場をリードしている。
+  この 会社[かいしゃ]は 競争力[きょうそうりょく]が 強[つよ]く、市場[しじょう]をリードしている。
+  Dieses Unternehmen ist sehr wettbewerbsfähig und führend auf dem Markt.
+
+  彼は囲碁が強くて、地域の大会で優勝した。
+  彼[かれ]は 囲碁[いご]が 強[つよ]くて、地域[ちいき]の 大会[たいかい]で 優勝[ゆうしょう]した。
+  Er ist gut im Go-Spiel und hat den regionalen Wettbewerb gewonnen.
+
+  強い地震が発生し、多くの建物が倒壊した。
+  強[つよ]い 地震[じしん]が 発生[はっせい]し、多[おお]くの 建物[たてもの]が 倒壊[とうかい]した。
+  Ein starkes Erdbeben ereignete sich und viele Gebäude stürzten ein.
+
+  彼女は強い意志を持って、困難を乗り越えた。
+  彼女[かのじょ]は 強[つよ]い 意志[いし]を 持[も]って、困難[こんなん]を 乗[の]り 越[こ]えた。
+  Mit starkem Willen überwand sie die Schwierigkeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

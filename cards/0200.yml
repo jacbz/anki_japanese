@@ -1,7 +1,7 @@
 Rang: 200
 Lemma: 終わる
 Lesung: おわる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 終る
 Definition: enden, beenden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">わ</span><span 
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 終わらない・終わった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   仕事が終わったら飲みに行きましょう。
   仕事[しごと]が 終[お]わったら 飲[の]みに 行[い]きましょう。
   Lass uns nach der Arbeit etwas trinken gehen.
+
+  映画が終わりました。
+  映画[えいが]が 終[お]わりました。
+  Der Film ist zu Ende.
+
+  返済が終わって、やっと自由になった気がします。
+  返済[へんさい]が 終[お]わって、やっと 自由[じゆう]になった 気[き]がします。
+  Jetzt, wo ich alles zurückgezahlt habe, fühle ich mich endlich frei.
+
+  命が終わるまで、精一杯生きたいと思います。
+  命[いのち]が 終[お]わるまで、精一杯[せいいっぱい] 生[い]きたいと 思[おも]います。
+  Ich möchte bis zum Ende meines Lebens mit voller Kraft leben.
+
+  仕事が終わったら、一緒に飲みに行きませんか。
+  仕事[しごと]が 終[お]わったら、一緒[いっしょ]に 飲[の]みに 行[い]きませんか。
+  Wollen wir nach der Arbeit zusammen etwas trinken gehen?
+
+  食事が終わったら、皿を洗ってください。
+  食事[しょくじ]が 終[お]わったら、皿[さら]を 洗[あら]ってください。
+  Bitte spül das Geschirr, wenn du mit dem Essen fertig bist.
+
+  調査が終わった結果、問題は見つかりませんでした。
+  調査[ちょうさ]が 終[お]わった 結果[けっか]、問題[もんだい]は 見[み]つかりませんでした。
+  Nach Abschluss der Untersuchung wurden keine Probleme gefunden.
+
+  期限が終わったので、もう応募できません。
+  期限[きげん]が 終[お]わったので、もう 応募[おうぼ]できません。
+  Da die Frist abgelaufen ist, kannst du dich nicht mehr bewerben.
+
+  この単語は「る」で終わります。
+  この 単語[たんご]は「る」で 終[お]わります。
+  Dieses Wort endet auf 'ru'.
+
+  学校が３時に終わるので、その後で遊びに行こう。
+  学校[がっこう]が３時[じ]に 終[お]わるので、その 後[あと]で 遊[あそ]びに 行[い]こう。
+  Die Schule endet um 3 Uhr, lass uns danach spielen gehen.
+
+  会議が無事に終わって良かったです。
+  会議[かいぎ]が 無事[ぶじ]に 終[お]わって 良[よ]かったです。
+  Es ist gut, dass die Besprechung problemlos verlaufen ist.
+
+  今年が終わらない内に、目標を達成したいです。
+  今年[ことし]が 終[お]わらない 内[うち]に、目標[もくひょう]を 達成[たっせい]したいです。
+  Ich möchte mein Ziel erreichen, bevor das Jahr zu Ende ist.
+
+  この工事はなかなか終わらないね。
+  この 工事[こうじ]はなかなか 終[お]わらないね。
+  Diese Bauarbeiten wollen einfach kein Ende nehmen.
+
+  これで全て終わったわけではありません。まだやるべきことがあります。
+  これで 全[すべ]て 終[お]わったわけではありません。まだやるべきことがあります。
+  Damit ist noch nicht alles erledigt. Es gibt noch Dinge zu tun.
+
+  宿題を終わらせてから、テレビを見ていいよ。
+  宿題[しゅくだい]を 終[お]わらせてから、テレビを 見[み]ていいよ。
+  Du darfst fernsehen, nachdem du deine Hausaufgaben beendet hast.
+
+  授業が終わり次第、連絡します。
+  授業[じゅぎょう]が 終[お]わり 次第[しだい]、連絡[れんらく]します。
+  Ich melde mich, sobald der Unterricht zu Ende ist.
+
+  話し合いが不毛に終わってしまいました。
+  話[はな]し 合[あ]いが 不毛[ふもう]に 終[お]わってしまいました。
+  Die Diskussion endete letztendlich ergebnislos.
+
+  プロジェクトが失敗に終わり、とてもがっかりしています。
+  プロジェクトが 失敗[しっぱい]に 終[お]わり、とてもがっかりしています。
+  Ich bin sehr enttäuscht, dass das Projekt gescheitert ist.
+
+  彼は人生を静かに終わった。
+  彼[かれ]は 人生[じんせい]を 静[しず]かに 終[お]わった。
+  Er beschloss sein Leben in Stille.
+
+  先生が授業を終わるとき、いつも宿題を出すんだ。
+  先生[せんせい]が 授業[じゅぎょう]を 終[お]わるとき、いつも 宿題[しゅくだい]を 出[だ]すんだ。
+  Wenn der Lehrer den Unterricht beendet, gibt er uns immer Hausaufgaben.
+
+  食事を終わってから、散歩に行きましょう。
+  食事[しょくじ]を 終[お]わってから、散歩[さんぽ]に 行[い]きましょう。
+  Lass uns spazieren gehen, nachdem wir mit dem Essen fertig sind.
+
+  本を読み終わると、すぐに感想を書き始めた。
+  本[ほん]を 読[よ]み 終[お]わると、すぐに 感想[かんそう]を 書[か]き 始[はじ]めた。
+  Nachdem ich das Buch zu Ende gelesen hatte, begann ich sofort, meine Gedanken dazu aufzuschreiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

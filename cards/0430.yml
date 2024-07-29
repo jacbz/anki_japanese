@@ -1,7 +1,7 @@
 Rang: 430
 Lemma: 待つ
 Lesung: まつ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 俟つ
 Definition: warten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">ま</span><span>つ</span>
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 待たない・待った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   ちょっとお待ちください。
   ちょっとお 待[ま]ちください。
   Bitte warten Sie einen Moment.
+
+  バスを待っているけど、なかなか来ないな。
+  バスを 待[ま]っているけど、なかなか 来[こ]ないな。
+  Ich warte auf den Bus, aber er kommt einfach nicht.
+
+  駅で友達を待っています。
+  駅[えき]で 友達[ともだち]を 待[ま]っています。
+  Ich warte am Bahnhof auf meinen Freund.
+
+  春を待つ間、冬の寒さに耐えなければならない。
+  春[はる]を 待[ま]つ 間[あいだ]、冬[ふゆ]の 寒[さむ]さに 耐[た]えなければならない。
+  Während wir auf den Frühling warten, müssen wir die Winterkälte ertragen.
+
+  映画が終わるまで待ちましょう。
+  映画[えいが]が 終[お]わるまで 待[ま]ちましょう。
+  Lass uns warten, bis der Film zu Ende ist.
+
+  裁判の判決を待つのはとてもストレスフルだ。
+  裁判[さいばん]の 判決[はんけつ]を 待[ま]つのはとてもストレスフルだ。
+  Es ist sehr stressig, auf das Urteil des Gerichts zu warten.
+
+  今か今かと試験の結果を待っています。
+  今[いま]か 今[いま]かと 試験[しけん]の 結果[けっか]を 待[ま]っています。
+  Ich warte ungeduldig auf die Prüfungsergebnisse.
+
+  チャンスが来るまで、時機を待つことが大切だ。
+  チャンスが 来[く]るまで、時機[じき]を 待[ま]つことが 大切[たいせつ]だ。
+  Es ist wichtig, den richtigen Moment abzuwarten, bis sich eine Chance ergibt.
+
+  レストランで順番を待っている間、メニューを見ていました。
+  レストランで 順番[じゅんばん]を 待[ま]っている 間[あいだ]、メニューを 見[み]ていました。
+  Während ich im Restaurant darauf wartete, an der Reihe zu sein, schaute ich mir die Speisekarte an.
+
+  彼女は首を長くして彼からの連絡を待っていた。
+  彼女[かのじょ]は 首[くび]を 長[なが]くして 彼[かれ]からの 連絡[れんらく]を 待[ま]っていた。
+  Sie wartete ungeduldig auf eine Nachricht von ihm.
+
+  コンサートのチケットを買うために、朝から列を作って待っていた。
+  コンサートのチケットを 買[か]うために、朝[あさ]から 列[れつ]を 作[つく]って 待[ま]っていた。
+  Um Konzertkarten zu kaufen, standen wir seit dem Morgen Schlange.
+
+  夏休みを楽しみに待っています。
+  夏休[なつやす]みを 楽[たの]しみに 待[ま]っています。
+  Ich freue mich auf die Sommerferien.
+
+  彼の新作が待たれている。
+  彼[かれ]の 新作[しんさく]が 待[ま]たれている。
+  Sein neues Werk wird mit Spannung erwartet.
+
+  待ってください、すぐに戻ってきます。
+  待[ま]ってください、すぐに 戻[もど]ってきます。
+  Warten Sie bitte, ich bin gleich wieder da.
+
+  待て！そこで止まれ！
+  待[ま]て！そこで 止[と]まれ！
+  Halt! Bleib stehen!
+
+  ちょっと待って、話を最後まで聞いてよ。
+  ちょっと 待[ま]って、話[はなし]を 最後[さいご]まで 聞[き]いてよ。
+  Warte mal, lass mich ausreden.
+
+  待つことは時に辛いけど、必要なこともあるんだ。
+  待[ま]つことは 時[とき]に 辛[つら]いけど、必要[ひつよう]なこともあるんだ。
+  Warten ist manchmal hart, aber manchmal auch notwendig.
+
+  明日の給料日まで待つしかない。
+  明日[あした]の 給料日[きゅうりょうび]まで 待[ま]つしかない。
+  Ich muss bis zum Zahltag morgen warten.
+
+  たくさんのご応募をお待ちしております。
+  たくさんのご 応募[おうぼ]をお 待[ま]ちしております。
+  Wir freuen uns auf Ihre zahlreichen Bewerbungen.
+
+  この問題は今後の研究に俟つところが大きい。
+  この 問題[もんだい]は 今後[こんご]の 研究[けんきゅう]に 俟[ま]つところが 大[おお]きい。
+  Diese Frage bedarf weiterer Forschung.
+
+  このプロジェクトの成功は皆様の協力に俟つところが大きいです。
+  このプロジェクトの 成功[せいこう]は 皆様[みなさま]の 協力[きょうりょく]に 俟[ま]つところが 大[おお]きいです。
+  Der Erfolg dieses Projekts hängt stark von Ihrer aller Kooperation ab.
+
+  彼の才能は言を俟たない。
+  彼[かれ]の 才能[さいのう]は 言[げん]を 俟[ま]たない。
+  Sein Talent ist selbstverständlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

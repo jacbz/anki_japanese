@@ -2,14 +2,14 @@ Rang: 1101
 Lemma: 狭い
 Lesung: せまい
 Alternativschreibweisen: ''
-Definition: eng, klein
+Definition: eng, schmal
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>せ</span><span class="accent_top">ま</span><span>い</span>
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 狭くない・狭かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   どうやったら狭い部屋を広く見せられるだろう。
   どうやったら 狭[せま]い 部屋[へや]を 広[ひろ]く 見[み]せられるだろう。
   Wie kann ich mein kleines Zimmer größer aussehen lassen?
+
+  この道は狭いので、車の通行に注意してください。
+  この 道[みち]は 狭[せま]いので、車[くるま]の 通行[つうこう]に 注意[ちゅうい]してください。
+  Diese Straße ist eng, bitte seien Sie beim Autofahren vorsichtig.
+
+  彼のアパートは狭いけど、家賃が安いんだ。
+  彼[かれ]のアパートは 狭[せま]いけど、家賃[やちん]が 安[やす]いんだ。
+  Seine Wohnung ist zwar klein, aber die Miete ist günstig.
+
+  このレストランは人気があるけど、スペースが狭いね。
+  このレストランは 人気[にんき]があるけど、スペースが 狭[せま]いね。
+  Dieses Restaurant ist beliebt, aber der Platz ist begrenzt.
+
+  日本の家は欧米に比べて狭いことが多いです。
+  日本[にほん]の 家[いえ]は 欧米[おうべい]に 比[くら]べて 狭[せま]いことが 多[おお]いです。
+  Japanische Häuser sind im Vergleich zu westlichen oft kleiner.
+
+  階段が狭いので、大きな家具を運ぶのは難しいでしょう。
+  階段[かいだん]が 狭[せま]いので、大[おお]きな 家具[かぐ]を 運[はこ]ぶのは 難[むずか]しいでしょう。
+  Da die Treppe schmal ist, wird es schwierig sein, große Möbel zu transportieren.
+
+  ここは入り口が狭いから、一人ずつ入りましょう。
+  ここは 入[い]り 口[ぐち]が 狭[せま]いから、一人[ひとり]ずつ 入[はい]りましょう。
+  Der Eingang hier ist eng, lasst uns einzeln hineingehen.
+
+  彼女は肩幅が狭いので、ジャケットのサイズ選びに苦労します。
+  彼女[かのじょ]は 肩幅[かたはば]が 狭[せま]いので、ジャケットのサイズ 選[えら]びに 苦労[くろう]します。
+  Sie hat schmale Schultern, daher hat sie Schwierigkeiten bei der Auswahl der richtigen Jackengröße.
+
+  この国は国土が狭いが、技術力は世界トップクラスだ。
+  この 国[くに]は 国土[こくど]が 狭[せま]いが、技術力[ぎじゅつりょく]は 世界[せかい]トップクラスだ。
+  Dieses Land hat zwar eine kleine Landfläche, aber seine technologischen Fähigkeiten gehören zur Weltspitze.
+
+  狭い道でも、自転車なら問題なく通れます。
+  狭[せま]い 道[みち]でも、自転車[じてんしゃ]なら 問題[もんだい]なく 通[とお]れます。
+  Auch auf engen Straßen kann man mit dem Fahrrad problemlos fahren.
+
+  彼の視野が狭いので、新しいアイデアを受け入れるのが難しい。
+  彼[かれ]の 視野[しや]が 狭[せま]いので、新[あたら]しいアイデアを 受[う]け 入[い]れるのが 難[むずか]しい。
+  Er hat einen engen Horizont, daher fällt es ihm schwer, neue Ideen zu akzeptieren.
+
+  この言葉は狭い意味では「友人」を指しますが、広い意味では「知り合い」も含みます。
+  この 言葉[ことば]は 狭[せま]い 意味[いみ]では「友人[ゆうじん]」を 指[さ]しますが、広[ひろ]い 意味[いみ]では「知[し]り 合[あ]い」も 含[ふく]みます。
+  Dieses Wort bezieht sich im engeren Sinne auf "Freunde", im weiteren Sinne schließt es auch "Bekannte" ein.
+
+  彼女は付き合いが狭いので、新しい友達を作る機会を増やすべきだ。
+  彼女[かのじょ]は 付[つ]き 合[あ]いが 狭[せま]いので、新[あたら]しい 友達[ともだち]を 作[つく]る 機会[きかい]を 増[ふ]やすべきだ。
+  Sie hat einen kleinen Bekanntenkreis, daher sollte sie mehr Gelegenheiten schaffen, neue Freunde zu finden.
+
+  この製品は販路が狭いので、マーケティング戦略を見直す必要があります。
+  この 製品[せいひん]は 販路[はんろ]が 狭[せま]いので、マーケティング 戦略[せんりゃく]を 見直[みなお]す 必要[ひつよう]があります。
+  Da dieses Produkt einen begrenzten Absatzmarkt hat, müssen wir unsere Marketingstrategie überdenken.
+
+  心が狭い人は、他人の成功を素直に喜べないものだ。
+  心[こころ]が 狭[せま]い 人[ひと]は、他人[たにん]の 成功[せいこう]を 素直[すなお]に 喜[よろこ]べないものだ。
+  Menschen mit einer engstirnigen Denkweise können sich nicht aufrichtig über den Erfolg anderer freuen.
+
+  この部屋は狭いので、家具の配置を工夫する必要があります。
+  この 部屋[へや]は 狭[せま]いので、家具[かぐ]の 配置[はいち]を 工夫[くふう]する 必要[ひつよう]があります。
+  Da dieses Zimmer klein ist, müssen wir bei der Anordnung der Möbel kreativ sein.
+
+  狭い路地を抜けると、突然広場に出ました。
+  狭[せま]い 路地[ろじ]を 抜[ぬ]けると、突然[とつぜん] 広場[ひろば]に 出[で]ました。
+  Nachdem wir die enge Gasse passiert hatten, kamen wir plötzlich auf einen Platz.
+
+  彼女の好みが狭いので、プレゼントを選ぶのが難しいんだ。
+  彼女[かのじょ]の 好[この]みが 狭[せま]いので、プレゼントを 選[えら]ぶのが 難[むずか]しいんだ。
+  Sie hat nur wenige Vorlieben, daher ist es schwierig, ein Geschenk für sie auszusuchen.
+
+  この狭い国で暮らすには、お互いの理解と協力が必要です。
+  この 狭[せま]い 国[くに]で 暮[く]らすには、お 互[たが]いの 理解[りかい]と 協力[きょうりょく]が 必要[ひつよう]です。
+  Um in diesem kleinen Land zu leben, brauchen wir gegenseitiges Verständnis und Zusammenarbeit.
+
+  狭い世界に閉じこもらず、新しい経験を求めて外に出よう。
+  狭[せま]い 世界[せかい]に 閉[と]じこもらず、新[あたら]しい 経験[けいけん]を 求[もと]めて 外[そと]に 出[で]よう。
+  Lass uns nicht in einer engen Welt eingeschlossen bleiben, sondern nach draußen gehen und neue Erfahrungen suchen.
+
+  この狭い通路では、荷物を持って通るのが大変です。
+  この 狭[せま]い 通路[つうろ]では、荷物[にもつ]を 持[も]って 通[とお]るのが 大変[たいへん]です。
+  Es ist schwierig, mit Gepäck durch diesen engen Gang zu gehen.
+
+  交通量が多い。道が狭い。並進禁止。
+  交通量[こうつうりょう]が 多[おお]い。道[みち]が 狭[せま]い。並進[へいしん] 禁止[きんし]。
+  Enge, vielbefahrene Straße! Nebeneinanderfahren verboten!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

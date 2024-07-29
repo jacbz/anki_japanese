@@ -1,15 +1,15 @@
 Rang: 768
 Lemma: 注意
 Lesung: ちゅうい
-Alternativschreibweisen: ''
-Definition: Aufmerksamkeit; vorsichtig sein
-Extra: (する)
-Wortart: n, vi
+Alternativschreibweisen: 注意する
+Definition: Aufmerksamkeit; Vorsicht; Ermahnung
+Extra: （する）
+Wortart: n, vi, vt
 Lesung mit Tonhöhe: <span class="accent_top">ちゅ</span><span>う</span><span>い</span>
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 注意しない・注意した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   風邪を引かないように気をつけて。
   風邪[かぜ]を 引[ひ]かないように 気[き]をつけて。
   Achten Sie darauf, sich nicht zu erkälten.
+
+  注意が足りないと、大切なことを見落とす可能性があります。
+  注意[ちゅうい]が 足[た]りないと、大切[たいせつ]なことを 見落[みお]とす 可能性[かのうせい]があります。
+  Wenn man nicht aufmerksam genug ist, besteht die Möglichkeit, wichtige Dinge zu übersehen.
+
+  この新製品は多くの人の注意を喚起しています。
+  この 新製品[しんせいひん]は 多[おお]くの 人[ひと]の 注意[ちゅうい]を 喚起[かんき]しています。
+  Dieses neue Produkt weckt die Aufmerksamkeit vieler Menschen.
+
+  運転中は常に周囲に注意を配る必要があります。
+  運転中[うんてんちゅう]は 常[つね]に 周囲[しゅうい]に 注意[ちゅうい]を 配[くば]る 必要[ひつよう]があります。
+  Beim Autofahren muss man stets auf die Umgebung achten.
+
+  彼女の発言は特別な注意を要する内容でした。
+  彼女[かのじょ]の 発言[はつげん]は 特別[とくべつ]な 注意[ちゅうい]を 要[よう]する 内容[ないよう]でした。
+  Ihre Aussage erforderte besondere Aufmerksamkeit.
+
+  綿密な注意を払って作業を進めましょう。
+  綿密[めんみつ]な 注意[ちゅうい]を 払[はら]って 作業[さぎょう]を 進[すす]めましょう。
+  Lasst uns die Arbeit mit äußerster Sorgfalt fortsetzen.
+
+  彼の演奏に注意して聞いてみると、細かな技巧に気づきました。
+  彼[かれ]の 演奏[えんそう]に 注意[ちゅうい]して 聞[き]いてみると、細[こま]かな 技巧[ぎこう]に 気[き]づきました。
+  Als ich seiner Aufführung aufmerksam zuhörte, bemerkte ich die feinen Techniken.
+
+  この実験には大いに注意する必要がありますよ。
+  この 実験[じっけん]には 大[おお]いに 注意[ちゅうい]する 必要[ひつよう]がありますよ。
+  Bei diesem Experiment müssen wir sehr vorsichtig sein.
+
+  小さな音だけど、注意すればわかるわ。
+  小[ちい]さな 音[おと]だけど、注意[ちゅうい]すればわかるわ。
+  Es ist nur ein leises Geräusch, aber wenn man aufpasst, kann man es hören.
+
+  注意深く観察すると、自然界の不思議に気づくことがあります。
+  注意深[ちゅういぶか]く 観察[かんさつ]すると、自然界[しぜんかい]の 不思議[ふしぎ]に 気[き]づくことがあります。
+  Wenn man aufmerksam beobachtet, kann man die Wunder der Natur entdecken.
+
+  汽車に注意！線路を渡る時は左右をよく確認してください。
+  汽車[きしゃ]に 注意[ちゅうい]！ 線路[せんろ]を 渡[わた]る 時[とき]は 左右[さゆう]をよく 確認[かくにん]してください。
+  Vorsicht vor dem Zug! Bitte schauen Sie beim Überqueren der Gleise gut nach links und rechts.
+
+  チョコレートの粉が下に落ちないよう、細心の注意を払った。
+  チョコレートの 粉[こ]が 下[した]に 落[お]ちないよう、細心[さいしん]の 注意[ちゅうい]を 払[はら]った。
+  Ich achtete sorgfältig darauf, dass kein Schokoladenpulver herunterfiel.
+
+  健康に注意して、バランスの良い食事を心がけています。
+  健康[けんこう]に 注意[ちゅうい]して、バランスの 良[よ]い 食事[しょくじ]を 心[こころ]がけています。
+  Ich achte auf meine Gesundheit und bemühe mich um eine ausgewogene Ernährung.
+
+  雅子は鉄製の階段を音をさせないよう、注意して登って行った。
+  雅子[まさこ]は 鉄製[てっせい]の 階段[かいだん]を 音[おと]をさせないよう、注意[ちゅうい]して 登[のぼ]って 行[い]った。
+  Masako stieg vorsichtig die Eisentreppe hinauf, um keinen Lärm zu machen.
+
+  注意にも注意しなくてはならない。この状況は危険かもしれません。
+  注意[ちゅうい]にも 注意[ちゅうい]しなくてはならない。この 状況[じょうきょう]は 危険[きけん]かもしれません。
+  Wir müssen höllisch aufpassen. Diese Situation könnte gefährlich sein.
+
+  彼は何人の注意も受け入れぬ頑固な性格だ。
+  彼[かれ]は 何人[なんびと]の 注意[ちゅうい]も 受[う]け 入[い]れぬ 頑固[がんこ]な 性格[せいかく]だ。
+  Er ist ein sturer Charakter, der von niemandem Ratschläge annimmt.
+
+  休暇中魔法を使わないようにという注意書きが全生徒に配られた。
+  休暇中[きゅうかちゅう]魔法[まほう]を 使[つか]わないようにという 注意書[ちゅういが]きが 全生徒[ぜんせいと]に 配[くば]られた。
+  Alle Schüler erhielten eine Notiz, die sie ermahnte, während der Ferien keine Magie zu verwenden.
+
+  一年生に注意しておくが、構内にある森に入ってはいけません。
+  一年生[いちねんせい]に 注意[ちゅうい]しておくが、構内[こうない]にある 森[もり]に 入[はい]ってはいけません。
+  Ich möchte die Erstklässler warnen: Es ist verboten, den Wald auf dem Schulgelände zu betreten.
+
+  この本の最後のページには重要な注意が付けられています。
+  この 本[ほん]の 最後[さいご]のページには 重要[じゅうよう]な 注意[ちゅうい]が 付[つ]けられています。
+  Auf der letzten Seite dieses Buches ist ein wichtiger Hinweis angebracht.
+
+  彼女は妙な顔をしたなり、電車中の人々の注意を引こうとしていた。
+  彼女[かのじょ]は 妙[みょう]な 顔[かお]をしたなり、電車中[でんしゃちゅう]の 人々[ひとびと]の 注意[ちゅうい]を 引[ひ]こうとしていた。
+  Mit einem seltsamen Gesichtsausdruck versuchte sie, die Aufmerksamkeit der Menschen in der Bahn auf sich zu ziehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

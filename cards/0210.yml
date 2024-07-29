@@ -2,15 +2,15 @@ Rang: 210
 Lemma: 感じる
 Lesung: かんじる
 Alternativschreibweisen: ''
-Definition: fühlen
+Definition: fühlen, empfinden, spüren
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">ん</span><span class="accent_plain">じ</span><span
   class="accent_plain">る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 感じない・感じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   空腹を感じる。
   空腹[くうふく]を 感[かん]じる。
   Ich fühle mich hungrig.
+
+  痛みを感じたら、すぐに医者に相談してください。
+  痛[いた]みを 感[かん]じたら、すぐに 医者[いしゃ]に 相談[そうだん]してください。
+  Wenn Sie Schmerzen verspüren, konsultieren Sie bitte sofort einen Arzt.
+
+  この歌を聴くと、悲しく感じてしまいます。
+  この 歌[うた]を 聴[き]くと、悲[かな]しく 感[かん]じてしまいます。
+  Wenn ich dieses Lied höre, fühle ich mich traurig.
+
+  新しい仕事に慣れるまでは、困難を感じるかもしれません。
+  新[あたら]しい 仕事[しごと]に 慣[な]れるまでは、困難[こんなん]を 感[かん]じるかもしれません。
+  Bis Sie sich an Ihren neuen Job gewöhnt haben, könnten Sie Schwierigkeiten empfinden.
+
+  朝食を抜くと、午前中ずっと空腹を感じます。
+  朝食[ちょうしょく]を 抜[ぬ]くと、午前中[ごぜんちゅう]ずっと 空腹[くうふく]を 感[かん]じます。
+  Wenn ich das Frühstück auslasse, verspüre ich den ganzen Vormittag über Hunger.
+
+  冬の朝は、外に出た瞬間に寒さを感じるね。
+  冬[ふゆ]の 朝[あさ]は、外[そと]に 出[で]た 瞬間[しゅんかん]に 寒[さむ]さを 感[かん]じるね。
+  An Wintermorgen spürt man die Kälte in dem Moment, in dem man nach draußen geht.
+
+  リーダーとして、常に責任を感じています。
+  リーダーとして、常[つね]に 責任[せきにん]を 感[かん]じています。
+  Als Führungskraft empfinde ich stets Verantwortung.
+
+  コンクリートの冷たさが足から体全体に広がるのを感じた。
+  コンクリートの 冷[つめ]たさが 足[あし]から 体全体[からだぜんたい]に 広[ひろ]がるのを 感[かん]じた。
+  Ich spürte, wie sich die Kälte des Betons von meinen Füßen auf meinen ganzen Körper ausbreitete.
+
+  彼が部屋に入ってきた時、空気が重くなったように感じられた。
+  彼[かれ]が 部屋[へや]に 入[はい]ってきた 時[とき]、空気[くうき]が 重[おも]くなったように 感[かん]じられた。
+  Als er den Raum betrat, schien die Luft plötzlich schwer zu werden.
+
+  彼の勇気ある行動に深く感じ入りました。
+  彼[かれ]の 勇気[ゆうき]ある 行動[こうどう]に 深[ふか]く 感[かん]じ 入[い]りました。
+  Ich war von seiner mutigen Tat tief beeindruckt.
+
+  先生の親切な言葉に恩を感じています。
+  先生[せんせい]の 親切[しんせつ]な 言葉[ことば]に 恩[おん]を 感[かん]じています。
+  Ich empfinde Dankbarkeit für die freundlichen Worte des Lehrers.
+
+  感動的なスピーチを聞いて、思わず涙を流して感じ入った。
+  感動的[かんどうてき]なスピーチを 聞[き]いて、思[おも]わず 涙[なみだ]を 流[なが]して 感[かん]じ 入[い]った。
+  Ich war von der bewegenden Rede so gerührt, dass ich unwillkürlich Tränen vergoss.
+
+  この新しい薬は体に良い影響を感じられる。
+  この 新[あたら]しい 薬[くすり]は 体[からだ]に 良[よ]い 影響[えいきょう]を 感[かん]じられる。
+  Man kann die positive Wirkung dieses neuen Medikaments auf den Körper spüren.
+
+  敏感な地震計は小さな揺れでも感じるんだ。
+  敏感[びんかん]な 地震計[じしんけい]は 小[ちい]さな 揺[ゆ]れでも 感[かん]じるんだ。
+  Empfindliche Seismografen reagieren selbst auf kleinste Erschütterungen.
+
+  彼女の話を聞いて、人生の意味を深く感じた。
+  彼女[かのじょ]の 話[はなし]を 聞[き]いて、人生[じんせい]の 意味[いみ]を 深[ふか]く 感[かん]じた。
+  Nachdem ich ihre Geschichte gehört hatte, empfand ich den Sinn des Lebens tiefer.
+
+  この映画を見て、様々な感情を感じました。
+  この 映画[えいが]を 見[み]て、様々[さまざま]な 感情[かんじょう]を 感[かん]じました。
+  Beim Anschauen dieses Films habe ich verschiedene Emotionen empfunden.
+
+  音楽を聴くと、心が落ち着くのを感じる。
+  音楽[おんがく]を 聴[き]くと、心[こころ]が 落[お]ち 着[つ]くのを 感[かん]じる。
+  Wenn ich Musik höre, spüre ich, wie sich mein Geist beruhigt.
+
+  この香りを嗅ぐと、子供の頃を思い出すのを感じる。
+  この 香[かお]りを 嗅[か]ぐと、子供[こども]の 頃[ころ]を 思[おも]い 出[だ]すのを 感[かん]じる。
+  Wenn ich diesen Duft rieche, fühle ich mich an meine Kindheit erinnert.
+
+  彼女の笑顔を見ると、幸せを感じずにはいられない。
+  彼女[かのじょ]の 笑顔[えがお]を 見[み]ると、幸[しあわ]せを 感[かん]じずにはいられない。
+  Wenn ich ihr Lächeln sehe, kann ich nicht anders, als Glück zu empfinden.
+
+  この古い写真を見ると、懐かしさを感じるね。
+  この 古[ふる]い 写真[しゃしん]を 見[み]ると、懐[なつ]かしさを 感[かん]じるね。
+  Wenn man dieses alte Foto betrachtet, fühlt man Nostalgie, nicht wahr?
+
+  彼の態度に違和感を感じた。
+  彼[かれ]の 態度[たいど]に 違和感[いわかん]を 感[かん]じた。
+  Ich empfand sein Verhalten als befremdlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 164
 Lemma: 入れる
 Lesung: いれる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 容れる・納れる
 Definition: hineintun
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">れ</span><span 
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 入れない・入れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   カバンに財布を入れるのを忘れてしまった。
   カバンに 財布[さいふ]を 入[い]れるのを 忘[わす]れてしまった。
   Ich habe vergessen, meine Brieftasche in meine Tasche zu legen.
+
+  本を箱に入れて、引っ越しの準備をしましょう。
+  本[ほん]を 箱[はこ]に 入[い]れて、引っ越[ひっこ]しの 準備[じゅんび]をしましょう。
+  Lass uns die Bücher in Kisten packen und uns für den Umzug vorbereiten.
+
+  コーヒーに砂糖を入れますか？
+  コーヒーに 砂糖[さとう]を 入[い]れますか？
+  Möchtest du Zucker in deinen Kaffee?
+
+  新しい従業員を会社に入れることにしました。
+  新[あたら]しい 従業員[じゅうぎょういん]を 会社[かいしゃ]に 入[い]れることにしました。
+  Wir haben beschlossen, einen neuen Mitarbeiter in die Firma aufzunehmen.
+
+  計算に交通費を入れるのを忘れないでください。
+  計算[けいさん]に 交通費[こうつうひ]を 入[い]れるのを 忘[わす]れないでください。
+  Vergiss nicht, die Fahrtkosten in die Berechnung einzubeziehen.
+
+  テレビのスイッチを入れて、ニュースを見よう。
+  テレビのスイッチを 入[い]れて、ニュースを 見[み]よう。
+  Lass uns den Fernseher einschalten und die Nachrichten ansehen.
+
+  この文章に例を入れて、より分かりやすくしてください。
+  この 文章[ぶんしょう]に 例[れい]を 入[い]れて、より 分[わ]かりやすくしてください。
+  Bitte füge ein Beispiel in diesen Text ein, um ihn verständlicher zu machen.
+
+  彼女は髪に花を入れて、とても可愛く見えた。
+  彼女[かのじょ]は 髪[かみ]に 花[はな]を 入[い]れて、とても 可愛[かわい]く 見[み]えた。
+  Sie sah sehr niedlich aus, als sie Blumen in ihr Haar steckte.
+
+  銀行に給料を入れてもらっています。
+  銀行[ぎんこう]に 給料[きゅうりょう]を 入[い]れてもらっています。
+  Mein Gehalt wird direkt auf mein Bankkonto eingezahlt.
+
+  彼に連絡を入れて、会議の時間を確認してください。
+  彼[かれ]に 連絡[れんらく]を 入[い]れて、会議[かいぎ]の 時間[じかん]を 確認[かくにん]してください。
+  Bitte kontaktiere ihn und bestätige die Zeit für das Meeting.
+
+  この提案を入れてもらえますか？
+  この 提案[ていあん]を 入[い]れてもらえますか？
+  Könnten Sie diesen Vorschlag annehmen?
+
+  選挙で一票を入れるのは重要な権利です。
+  選挙[せんきょ]で 一票[いっぴょう]を 入[い]れるのは 重要[じゅうよう]な 権利[けんり]です。
+  Bei einer Wahl seine Stimme abzugeben, ist ein wichtiges Recht.
+
+  お客様、コーヒーをお入れしましょうか？
+  お 客様[きゃくさま]、コーヒーをお 入[い]れしましょうか？
+  Möchten Sie, dass ich Ihnen einen Kaffee zubereite?
+
+  この文章に朱を入れて、修正してください。
+  この 文章[ぶんしょう]に 朱[しゅ]を 入[い]れて、修正[しゅうせい]してください。
+  Bitte korrigiere diesen Text mit einem roten Stift.
+
+  彼はプロジェクトに全力を入れている。
+  彼[かれ]はプロジェクトに 全力[ぜんりょく]を 入[い]れている。
+  Er steckt all seine Energie in das Projekt.
+
+  窓を開けて、新鮮な空気を部屋に入れましょう。
+  窓[まど]を 開[あ]けて、新鮮[しんせん]な 空気[くうき]を 部屋[へや]に 入[い]れましょう。
+  Lass uns das Fenster öffnen und frische Luft ins Zimmer lassen.
+
+  彼女は子供を保育園に入れることにした。
+  彼女[かのじょ]は 子供[こども]を 保育園[ほいくえん]に 入[い]れることにした。
+  Sie beschloss, ihr Kind in den Kindergarten zu schicken.
+
+  この料理に塩を入れすぎないように気をつけて。
+  この 料理[りょうり]に 塩[しお]を 入[い]れすぎないように 気[き]をつけて。
+  Pass auf, dass du nicht zu viel Salz in dieses Gericht gibst.
+
+  彼の意見を考慮に入れて決定しましょう。
+  彼[かれ]の 意見[いけん]を 考慮[こうりょ]に 入[い]れて 決定[けってい]しましょう。
+  Lass uns seine Meinung bei der Entscheidung berücksichtigen.
+
+  新しい従業員を社会保険に入れるのを忘れずに。
+  新[あたら]しい 従業員[じゅうぎょういん]を 社会保険[しゃかいほけん]に 入[い]れるのを 忘[わす]れずに。
+  Vergiss nicht, den neuen Mitarbeiter in die Sozialversicherung aufzunehmen.
+
+  彼女は演技に感情を入れて、観客を魅了した。
+  彼女[かのじょ]は 演技[えんぎ]に 感情[かんじょう]を 入[い]れて、観客[かんきゃく]を 魅了[みりょう]した。
+  Sie begeisterte das Publikum, indem sie Gefühl in ihr Schauspiel legte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

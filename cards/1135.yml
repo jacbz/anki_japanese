@@ -1,7 +1,7 @@
 Rang: 1135
 Lemma: くれる
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 呉れる
 Definition: (mir) geben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>く</span><span class="accent_plain">れ</span><span 
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: くれない・くれた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,101 @@ Beispielsätze: |-
   これは 祖父[そふ]がくれた 時計[とけい]です。
   Das ist die Uhr, die mir mein Großvater gegeben hat.
 
+  彼女は誕生日に素敵なプレゼントをくれました。
+  彼女[かのじょ]は 誕生日[たんじょうび]に 素敵[すてき]なプレゼントをくれました。
+  Sie hat mir zum Geburtstag ein wunderbares Geschenk gegeben.
+
+  友達が困っているときに助けてくれて、本当に感謝しています。
+  友達[ともだち]が 困[こま]っているときに 助[たす]けてくれて、本当[ほんとう]に 感謝[かんしゃ]しています。
+  Ich bin wirklich dankbar, dass mein Freund mir geholfen hat, als ich in Schwierigkeiten war.
+
+  先生は分からないところを丁寧に説明してくれました。
+  先生[せんせい]は 分[わ]からないところを 丁寧[ていねい]に 説明[せつめい]してくれました。
+  Der Lehrer hat mir die Stellen, die ich nicht verstanden habe, sorgfältig erklärt.
+
+  祖母は毎年クリスマスにセーターを編んでくれます。
+  祖母[そぼ]は 毎年[まいとし]クリスマスにセーターを 編[あ]んでくれます。
+  Meine Großmutter strickt mir jedes Jahr zu Weihnachten einen Pullover.
+
+  彼は忙しい中、空港まで迎えに来てくれた。
+  彼[かれ]は 忙[いそが]しい 中[なか]、空港[くうこう]まで 迎[むか]えに 来[き]てくれた。
+  Er kam mich trotz seines vollen Zeitplans am Flughafen abholen.
+
+  両親は私の留学を応援してくれています。
+  両親[りょうしん]は 私[わたし]の 留学[りゅうがく]を 応援[おうえん]してくれています。
+  Meine Eltern unterstützen mich bei meinem Auslandsstudium.
+
+  友人が引っ越しを手伝ってくれて、とても助かりました。
+  友人[ゆうじん]が 引[ひ]っ 越[こ]しを 手伝[てつだ]ってくれて、とても 助[たす]かりました。
+  Mein Freund hat mir beim Umzug geholfen, das war wirklich eine große Hilfe.
+
+  弟が私の代わりに買い物に行ってくれました。
+  弟[おとうと]が 私[わたし]の 代[か]わりに 買[か]い 物[もの]に 行[い]ってくれました。
+  Mein jüngerer Bruder ist für mich einkaufen gegangen.
+
+  彼女は私の秘密を誰にも言わないでくれた。
+  彼女[かのじょ]は 私[わたし]の 秘密[ひみつ]を 誰[だれ]にも 言[い]わないでくれた。
+  Sie hat mein Geheimnis niemandem verraten.
+
+  母は風邪をひいたとき、温かいスープを作ってくれました。
+  母[はは]は 風邪[かぜ]をひいたとき、温[あたた]かいスープを 作[つく]ってくれました。
+  Als ich erkältet war, hat meine Mutter mir eine warme Suppe gekocht.
+
+  先輩が仕事のコツを教えてくれて、とても役立ちました。
+  先輩[せんぱい]が 仕事[しごと]のコツを 教[おし]えてくれて、とても 役立[やくだ]ちました。
+  Mein älterer Kollege hat mir Tipps für die Arbeit gegeben, das war sehr hilfreich.
+
+  彼は私の誕生日を覚えていてくれて、嬉しかったです。
+  彼[かれ]は 私[わたし]の 誕生日[たんじょうび]を 覚[おぼ]えていてくれて、嬉[うれ]しかったです。
+  Ich war glücklich, dass er sich an meinen Geburtstag erinnert hat.
+
+  友達が悩みを聞いてくれて、心が軽くなりました。
+  友達[ともだち]が 悩[なや]みを 聞[き]いてくれて、心[こころ]が 軽[かる]くなりました。
+  Mein Freund hat mir bei meinen Sorgen zugehört, und ich fühlte mich erleichtert.
+
+  隣の人が重い荷物を持ってくれました。
+  隣[となり]の 人[ひと]が 重[おも]い 荷物[にもつ]を 持[も]ってくれました。
+  Die Person neben mir hat mir mein schweres Gepäck getragen.
+
+  彼女は私の好きな曲をギターで弾いてくれた。
+  彼女[かのじょ]は 私[わたし]の 好[す]きな 曲[きょく]をギターで 弾[ひ]いてくれた。
+  Sie hat mein Lieblingslied auf der Gitarre für mich gespielt.
+
+  先生は推薦状を書いてくれて、本当にありがたかったです。
+  先生[せんせい]は 推薦状[すいせんじょう]を 書[か]いてくれて、本当[ほんとう]にありがたかったです。
+  Ich war wirklich dankbar, dass der Lehrer mir ein Empfehlungsschreiben geschrieben hat.
+
+  彼は私の誤りを指摘してくれて、成長する機会をくれました。
+  彼[かれ]は 私[わたし]の 誤[あやま]りを 指摘[してき]してくれて、成長[せいちょう]する 機会[きかい]をくれました。
+  Er hat mich auf meine Fehler aufmerksam gemacht und mir die Chance gegeben, mich zu verbessern.
+
+  友人が手作りのケーキを焼いてくれて、感動しました。
+  友人[ゆうじん]が 手作[てづく]りのケーキを 焼[や]いてくれて、感動[かんどう]しました。
+  Ich war gerührt, dass mein Freund mir einen selbstgebackenen Kuchen gemacht hat.
+
+  彼女は私の話を最後まで聞いてくれました。
+  彼女[かのじょ]は 私[わたし]の 話[はなし]を 最後[さいご]まで 聞[き]いてくれました。
+  Sie hat mir bis zum Ende zugehört.
+
+  子供たちが母の日にカードを書いてくれて、母はとても喜びました。
+  子供[こども]たちが 母[はは]の 日[ひ]にカードを 書[か]いてくれて、母[はは]はとても 喜[よろこ]びました。
+  Die Kinder haben zum Muttertag eine Karte geschrieben, worüber sich die Mutter sehr gefreut hat.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>くれる wird verwendet, wenn jemand dem Sprecher oder einer dem Sprecher nahestehenden Person etwas gibt. Es impliziert oft Dankbarkeit oder Wertschätzung für die Handlung.</p>
+  <div class="examples">
+    <div class="jp">友達[ともだち]が 本[ほん]をくれた。</div>
+    <div class="de spoiler">Mein Freund hat mir ein Buch geschenkt.</div>
+    <div class="jp">先生[せんせい]が 助[たす]けてくれました。</div>
+    <div class="de spoiler">Der Lehrer hat mir geholfen.</div>
+  </div>
+  <p>くれる kann auch mit der て-Form anderer Verben verwendet werden, um auszudrücken, dass jemand etwas für den Sprecher tut.</p>
+  <div class="examples">
+    <div class="jp">母[はは]が 料理[りょうり]を 作[つく]ってくれた。</div>
+    <div class="de spoiler">Meine Mutter hat für mich gekocht.</div>
+  </div>

@@ -1,15 +1,15 @@
 Rang: 1145
 Lemma: 暗い
 Lesung: くらい
-Alternativschreibweisen: ''
-Definition: dunkel; deprimiert
+Alternativschreibweisen: 闇い・昏い・冥い
+Definition: dunkel; düster; trüb
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>く</span><span class="accent_plain">ら</span><span class="accent_plain">い</span>
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 暗くない・暗かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   母はまだ暗いうちに起きる。
   母[はは]はまだ 暗[くら]いうちに 起[お]きる。
   Meine Mutter steht auf, während es noch dunkel ist.
+
+  部屋の電灯を消すと予め螢光塗料を塗ってあるメガホンや鉛筆、ノートなどの縁だけが暗い中に白く光って見えた。
+  部屋[へや]の 電灯[でんとう]を 消[け]すと 予[あらかじ]め 螢光塗料[けいこうとりょう]を 塗[ぬ]ってあるメガホンや 鉛筆[えんぴつ]、ノートなどの 縁[ふち]だけが 暗[くら]い 中[なか]に 白[しろ]く 光[ひか]って 見[み]えた。
+  Als das Licht im Zimmer ausgeschaltet wurde, leuchteten in der Dunkelheit nur die Ränder des mit Leuchtfarbe bemalten Megaphons, der Bleistifte und Notizbücher weiß auf.
+
+  暗い電気がすすけた壁という壁を洞穴のように見せた。
+  暗[くら]い 電気[でんき]がすすけた 壁[かべ]という 壁[かべ]を 洞穴[どうくつ]のように 見[み]せた。
+  Das trübe elektrische Licht ließ die verrußten Wände wie Höhlen erscheinen.
+
+  僕はおそろしく暗い気持で一ダースの新しい鉛筆を削り始めた。
+  僕[ぼく]はおそろしく 暗[くら]い 気持[きも]ちで一ダースの 新[あたら]しい 鉛筆[えんぴつ]を 削[けず]り 始[はじ]めた。
+  Mit furchtbar düsterer Stimmung begann ich, ein Dutzend neue Bleistifte zu spitzen.
+
+  暗い部屋で長時間過ごすと、目が疲れてしまいます。
+  暗[くら]い 部屋[へや]で 長時間[ちょうじかん] 過[す]ごすと、目[め]が 疲[つか]れてしまいます。
+  Wenn man lange Zeit in einem dunklen Zimmer verbringt, werden die Augen müde.
+
+  日が暮れて、街路が徐々に暗くなっていく。
+  日[ひ]が 暮[く]れて、街路[がいろ]が 徐々[じょじょ]に 暗[くら]くなっていく。
+  Die Sonne geht unter, und die Straßen werden allmählich dunkler.
+
+  この映画館は少し暗すぎて、字幕が読みにくいです。
+  この 映画館[えいがかん]は 少[すこ]し 暗[くら]すぎて、字幕[じまく]が 読[よ]みにくいです。
+  Dieses Kino ist etwas zu dunkel, sodass es schwierig ist, die Untertitel zu lesen.
+
+  暗い過去を乗り越えて、彼は新しい人生を始めた。
+  暗[くら]い 過去[かこ]を 乗[の]り 越[こ]えて、彼[かれ]は 新[あたら]しい 人生[じんせい]を 始[はじ]めた。
+  Er überwand seine dunkle Vergangenheit und begann ein neues Leben.
+
+  不景気で会社の将来が暗く見えます。
+  不景気[ふけいき]で 会社[かいしゃ]の 将来[しょうらい]が 暗[くら]く 見[み]えます。
+  Aufgrund der Rezession sieht die Zukunft des Unternehmens düster aus.
+
+  彼女の暗い表情を見て、何か悪いことがあったのかと心配になった。
+  彼女[かのじょ]の 暗[くら]い 表情[ひょうじょう]を 見[み]て、何[なに]か 悪[わる]いことがあったのかと 心配[しんぱい]になった。
+  Als ich ihren düsteren Gesichtsausdruck sah, machte ich mir Sorgen, ob etwas Schlimmes passiert war.
+
+  暗くなってから森を歩くのは少し怖いです。
+  暗[くら]くなってから 森[もり]を 歩[ある]くのは 少[すこ]し 怖[こわ]いです。
+  Es ist ein bisschen beängstigend, nach Einbruch der Dunkelheit durch den Wald zu gehen.
+
+  この部屋は暗いので、もう少し明るくしましょう。
+  この 部屋[へや]は 暗[くら]いので、もう 少[すこ]し 明[あか]るくしましょう。
+  Dieses Zimmer ist dunkel, lass es uns etwas heller machen.
+
+  彼の性格は少し暗いけど、優しい人です。
+  彼[かれ]の 性格[せいかく]は 少[すこ]し 暗[くら]いけど、優[やさ]しい 人[ひと]です。
+  Sein Charakter ist zwar etwas düster, aber er ist ein freundlicher Mensch.
+
+  暗い音楽を聴いていると、気分も落ち込んでしまう。
+  暗[くら]い 音楽[おんがく]を 聴[き]いていると、気分[きぶん]も 落[お]ち 込[こ]んでしまう。
+  Wenn man melancholische Musik hört, wird die Stimmung auch gedrückt.
+
+  この古い電球は暗いので、新しいものに交換しよう。
+  この 古[ふる]い 電球[でんきゅう]は 暗[くら]いので、新[あたら]しいものに 交換[こうかん]しよう。
+  Diese alte Glühbirne ist schwach, lass uns sie durch eine neue ersetzen.
+
+  彼は地理に暗いので、いつも道に迷ってしまう。
+  彼[かれ]は 地理[ちり]に 暗[くら]いので、いつも 道[みち]に 迷[まよ]ってしまう。
+  Er kennt sich in Geografie nicht gut aus, deshalb verirrt er sich immer.
+
+  暗い日曜日は家でゆっくり過ごすのが好きです。
+  暗[くら]い 日曜日[にちようび]は 家[いえ]でゆっくり 過[す]ごすのが 好[す]きです。
+  An einem trüben Sonntag verbringe ich gerne einen ruhigen Tag zu Hause.
+
+  彼女は世事に暗いので、時々驚くような質問をする。
+  彼女[かのじょ]は 世事[せじ]に 暗[くら]いので、時々[ときどき] 驚[おどろ]くような 質問[しつもん]をする。
+  Da sie wenig von der Welt weiß, stellt sie manchmal überraschende Fragen.
+
+  暗い気持ちを払拭するために、友達と出かけることにした。
+  暗[くら]い 気持[きも]ちを 払拭[ふっしょく]するために、友達[ともだち]と 出[で]かけることにした。
+  Um meine düstere Stimmung zu vertreiben, beschloss ich, mit Freunden auszugehen.
+
+  今日はあまりにも暗い話題ばかりだったので、気分が落ち込んでしまった。
+  今日[きょう]はあまりにも 暗[くら]い 話題[わだい]ばかりだったので、気分[きぶん]が 落[お]ち 込[こ]んでしまった。
+  Heute gab es nur so düstere Themen, dass meine Stimmung gesunken ist.
+
+  この暗い部屋で読書するのは目に良くないよ。
+  この 暗[くら]い 部屋[へや]で 読書[どくしょ]するのは 目[め]に 良[よ]くないよ。
+  Es ist nicht gut für die Augen, in diesem dunklen Zimmer zu lesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

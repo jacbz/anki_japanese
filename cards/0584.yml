@@ -2,7 +2,7 @@ Rang: 584
 Lemma: 練習
 Lesung: れんしゅう
 Alternativschreibweisen: ''
-Definition: Training; üben, trainieren
+Definition: üben, trainieren
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>れ</span><span class="accent_plain">ん</span><span class="accent_plain">しゅ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>れ</span><span class="accent_plain">ん</span><span 
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 練習しない・練習した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,98 @@ Beispielsätze: |-
   毎日、ピアノの練習をする。
   毎日[まいにち]、ピアノの 練習[れんしゅう]をする。
   Ich übe jeden Tag Klavier.
+
+  毎日練習相手と一緒にテニスの練習をしています。
+  毎日[まいにち] 練習相手[れんしゅうあいて]と 一緒[いっしょ]にテニスの 練習[れんしゅう]をしています。
+  Ich trainiere jeden Tag mit meinem Übungspartner Tennis.
+
+  練習帳に宿題を書き込んでください。
+  練習帳[れんしゅうちょう]に 宿題[しゅくだい]を 書[か]き 込[こ]んでください。
+  Bitte schreiben Sie die Hausaufgaben in das Übungsheft.
+
+  彼は練習嫌いで、上達が遅いです。
+  彼[かれ]は 練習嫌[れんしゅうぎら]いで、上達[じょうたつ]が 遅[おそ]いです。
+  Er mag es nicht zu üben, deshalb macht er langsame Fortschritte.
+
+  パイロットは定期的に練習飛行を行います。
+  パイロットは 定期的[ていきてき]に 練習飛行[れんしゅうひこう]を 行[おこな]います。
+  Piloten führen regelmäßig Übungsflüge durch.
+
+  効果的な練習方法を見つけることが大切です。
+  効果的[こうかてき]な 練習方法[れんしゅうほうほう]を 見[み]つけることが 大切[たいせつ]です。
+  Es ist wichtig, eine effektive Übungsmethode zu finden.
+
+  来週の試合に向けて練習試合を行います。
+  来週[らいしゅう]の 試合[しあい]に 向[む]けて 練習試合[れんしゅうじあい]を 行[おこな]います。
+  Wir werden ein Trainingsspiel für das Spiel nächste Woche durchführen.
+
+  毎日1時間の練習時間を設けています。
+  毎日[まいにち]1時間[いちじかん]の 練習時間[れんしゅうじかん]を 設[もう]けています。
+  Ich habe täglich eine Stunde Übungszeit eingeplant.
+
+  新しい練習所が来月オープンするそうです。
+  新[あたら]しい 練習所[れんしゅうじょ]が 来月[らいげつ]オープンするそうです。
+  Es heißt, dass nächsten Monat ein neuer Übungsplatz eröffnet wird.
+
+  練習機で基本的な操縦技術を学びます。
+  練習機[れんしゅうき]で 基本的[きほんてき]な 操縦技術[そうじゅうぎじゅつ]を 学[まな]びます。
+  In einem Schulflugzeug lernt man die grundlegenden Flugtechniken.
+
+  この練習曲は初心者には難しすぎます。
+  この 練習曲[れんしゅうきょく]は 初心者[しょしんしゃ]には 難[むずか]しすぎます。
+  Dieses Übungsstück ist für Anfänger zu schwierig.
+
+  宿題として練習問題を10問解いてください。
+  宿題[しゅくだい]として 練習問題[れんしゅうもんだい]を10問[じゅうもん] 解[と]いてください。
+  Bitte lösen Sie 10 Übungsaufgaben als Hausaufgabe.
+
+  適切な練習量を保つことが上達の秘訣です。
+  適切[てきせつ]な 練習量[れんしゅうりょう]を 保[たも]つことが 上達[じょうたつ]の 秘訣[ひけつ]です。
+  Der Schlüssel zur Verbesserung ist es, ein angemessenes Übungspensum beizubehalten.
+
+  彼は練習生として1年間働いた後、正社員になりました。
+  彼[かれ]は 練習生[れんしゅうせい]として1年間[いちねんかん] 働[はたら]いた 後[あと]、正社員[せいしゃいん]になりました。
+  Nachdem er ein Jahr als Praktikant gearbeitet hatte, wurde er Festangestellter.
+
+  新しい練習室でバンドの練習を始めました。
+  新[あたら]しい 練習室[れんしゅうしつ]でバンドの 練習[れんしゅう]を 始[はじ]めました。
+  Wir haben mit den Bandproben in unserem neuen Übungsraum begonnen.
+
+  運転免許を取るために練習運転を繰り返しています。
+  運転免許[うんてんめんきょ]を 取[と]るために 練習運転[れんしゅううんてん]を 繰[く]り 返[かえ]しています。
+  Ich wiederhole Übungsfahrten, um meinen Führerschein zu bekommen.
+
+  新しい練習用ウェアを買いました。とても動きやすいです。
+  新[あたら]しい 練習用[れんしゅうよう]ウェアを 買[か]いました。とても 動[うご]きやすいです。
+  Ich habe neue Trainingskleidung gekauft. Sie ist sehr bequem zum Bewegen.
+
+  練習が足りないので、もっと頑張らなければなりません。
+  練習[れんしゅう]が 足[た]りないので、もっと 頑張[がんば]らなければなりません。
+  Mir fehlt es an Übung, also muss ich mich mehr anstrengen.
+
+  練習のため、毎日30分ピアノを弾いています。
+  練習[れんしゅう]のため、毎日[まいにち]30分[さんじゅっぷん]ピアノを 弾[ひ]いています。
+  Zur Übung spiele ich jeden Tag 30 Minuten Klavier.
+
+  技術を磨くために練習を重ねることが大切です。
+  技術[ぎじゅつ]を 磨[みが]くために 練習[れんしゅう]を 重[かさ]ねることが 大切[たいせつ]です。
+  Es ist wichtig, wiederholt zu üben, um seine Fähigkeiten zu verbessern.
+
+  激しい練習の後はしっかり休息を取ることが大切です。
+  激[はげ]しい 練習[れんしゅう]の 後[あと]はしっかり 休息[きゅうそく]を 取[と]ることが 大切[たいせつ]です。
+  Nach einem harten Training ist es wichtig, sich gut auszuruhen.
+
+  合唱の練習は毎週水曜日の夜に行われます。
+  合唱[がっしょう]の 練習[れんしゅう]は 毎週[まいしゅう] 水曜日[すいようび]の 夜[よる]に 行[おこな]われます。
+  Die Chorprobe findet jeden Mittwochabend statt.
+
+  新しい曲を練習するのに時間がかかります。
+  新[あたら]しい 曲[きょく]を 練習[れんしゅう]するのに 時間[じかん]がかかります。
+  Es braucht Zeit, ein neues Stück einzuüben.
+
+  少し練習すれば、きっとうまくできるようになりますよ。
+  少[すこ]し 練習[れんしゅう]すれば、きっとうまくできるようになりますよ。
+  Mit etwas Übung wirst du es sicher besser können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

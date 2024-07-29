@@ -2,14 +2,14 @@ Rang: 230
 Lemma: 悪い
 Lesung: わるい
 Alternativschreibweisen: ''
-Definition: schlecht
+Definition: schlecht; böse; übel
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>わ</span><span class="accent_top">る</span><span>い</span>
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 悪くない・悪かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   気分が悪い。
   気分[きぶん]が 悪[わる]い。
   Mir ist schlecht.
+
+  悪い事をしたら罰を受けることになるよ。
+  悪[わる]い 事[こと]をしたら 罰[ばつ]を 受[う]けることになるよ。
+  Wenn du etwas Schlechtes tust, wirst du bestraft werden.
+
+  彼は悪い仲間と付き合って、だんだん非行に走るようになった。
+  彼[かれ]は 悪[わる]い 仲間[なかま]と 付[つ]き 合[あ]って、だんだん 非行[ひこう]に 走[はし]るようになった。
+  Er geriet in schlechte Gesellschaft und rutschte allmählich in die Kriminalität ab.
+
+  「悪い。遅れてごめん。」
+  「悪[わる]い。 遅[おく]れてごめん。」
+  "Tut mir leid. Entschuldige meine Verspätung."
+
+  彼は悪い英語で外国人とコミュニケーションを取ろうとしていた。
+  彼[かれ]は 悪[わる]い 英語[えいご]で 外国人[がいこくじん]とコミュニケーションを 取[と]ろうとしていた。
+  Er versuchte, mit seinem schlechten Englisch mit Ausländern zu kommunizieren.
+
+  この辞書は悪いから、新しいのを買った方がいいよ。
+  この 辞書[じしょ]は 悪[わる]いから、新[あたら]しいのを 買[か]った 方[ほう]がいいよ。
+  Dieses Wörterbuch ist schlecht, du solltest besser ein neues kaufen.
+
+  最近、景気が悪くて多くの会社が倒産している。
+  最近[さいきん]、景気[けいき]が 悪[わる]くて 多[おお]くの 会社[かいしゃ]が 倒産[とうさん]している。
+  In letzter Zeit ist die Wirtschaftslage schlecht, und viele Unternehmen gehen pleite.
+
+  彼の成績が悪いのは、勉強をしないからだ。
+  彼[かれ]の 成績[せいせき]が 悪[わる]いのは、勉強[べんきょう]をしないからだ。
+  Seine schlechten Noten kommen daher, dass er nicht lernt.
+
+  今日は具合が悪くて、学校を休んだ。
+  今日[きょう]は 具合[ぐあい]が 悪[わる]くて、学校[がっこう]を 休[やす]んだ。
+  Heute fühlte ich mich unwohl und blieb der Schule fern.
+
+  この薬は体に悪いから、できるだけ飲まない方がいい。
+  この 薬[くすり]は 体[からだ]に 悪[わる]いから、できるだけ 飲[の]まない 方[ほう]がいい。
+  Dieses Medikament ist schlecht für den Körper, du solltest es möglichst nicht einnehmen.
+
+  天気が悪いので、ピクニックは中止になった。
+  天気[てんき]が 悪[わる]いので、ピクニックは 中止[ちゅうし]になった。
+  Wegen des schlechten Wetters wurde das Picknick abgesagt.
+
+  彼女は気分が悪くなって、早退した。
+  彼女[かのじょ]は 気分[きぶん]が 悪[わる]くなって、早退[そうたい]した。
+  Sie fühlte sich unwohl und ging früher nach Hause.
+
+  悪くないね！君のアイデアは面白いと思う。
+  悪[わる]くないね！君[きみ]のアイデアは 面白[おもしろ]いと 思[おも]う。
+  Nicht schlecht! Ich finde deine Idee interessant.
+
+  彼は評判が悪くて、誰も彼と付き合いたがらない。
+  彼[かれ]は 評判[ひょうばん]が 悪[わる]くて、誰[だれ]も 彼[かれ]と 付[つ]き 合[あ]いたがらない。
+  Er hat einen schlechten Ruf, und niemand möchte mit ihm zu tun haben.
+
+  この食べ物は消化が悪いから、食べ過ぎないように気をつけて。
+  この 食[た]べ 物[もの]は 消化[しょうか]が 悪[わる]いから、食[た]べ 過[す]ぎないように 気[き]をつけて。
+  Dieses Essen ist schwer verdaulich, also pass auf, dass du nicht zu viel davon isst.
+
+  彼女は気持ち悪い虫を見て、悲鳴を上げた。
+  彼女[かのじょ]は 気持[きも]ち 悪[わる]い 虫[むし]を 見[み]て、悲鳴[ひめい]を 上[あ]げた。
+  Sie schrie auf, als sie das eklige Insekt sah.
+
+  悪く言うつもりはないけど、彼の態度には問題があると思う。
+  悪[わる]く 言[い]うつもりはないけど、彼[かれ]の 態度[たいど]には 問題[もんだい]があると 思[おも]う。
+  Ich will nichts Schlechtes sagen, aber ich denke, es gibt Probleme mit seiner Einstellung.
+
+  その話を悪く取らないでください。そういう意味ではありません。
+  その 話[はなし]を 悪[わる]く 取[と]らないでください。そういう 意味[いみ]ではありません。
+  Bitte verstehen Sie das nicht falsch. Das war nicht so gemeint.
+
+  彼女は悪い夢を見て、夜中に目を覚ました。
+  彼女[かのじょ]は 悪[わる]い 夢[ゆめ]を 見[み]て、夜中[よなか]に 目[め]を 覚[さ]ました。
+  Sie hatte einen Albtraum und wachte mitten in der Nacht auf.
+
+  悪くすると、この計画は失敗するかもしれない。
+  悪[わる]くすると、この 計画[けいかく]は 失敗[しっぱい]するかもしれない。
+  Im schlimmsten Fall könnte dieser Plan scheitern.
+
+  この家は立て付けが悪くて、冬はすごく寒い。
+  この 家[いえ]は 立[た]て 付[つ]けが 悪[わる]くて、冬[ふゆ]はすごく 寒[さむ]い。
+  Dieses Haus ist schlecht gebaut und im Winter sehr kalt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

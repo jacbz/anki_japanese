@@ -4,7 +4,7 @@ Lesung: いっかい
 Alternativschreibweisen: ''
 Definition: einmal
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n, adv
 Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">っ</span><span class="accent_plain">か</span><span
   class="accent_plain">い</span>
 Register: ''
@@ -18,6 +18,86 @@ Beispielsätze: |-
   私は週に一回買い物に行きます。
   私[わたし]は 週[しゅう]に 一回[いっかい] 買[か]い 物[もの]に 行[い]きます。
   Ich gehe einmal in der Woche einkaufen.
+
+  一回だけチャンスをあげるから、頑張ってね。
+  一回[いっかい]だけチャンスをあげるから、頑張[がんば]ってね。
+  Ich gebe dir nur eine Chance, also gib dein Bestes.
+
+  この薬は一回分を朝に飲んでください。
+  この 薬[くすり]は 一回分[いっかいぶん]を 朝[あさ]に 飲[の]んでください。
+  Bitte nehmen Sie eine Dosis dieses Medikaments am Morgen ein.
+
+  一回で合格できなかったので、もう一度挑戦します。
+  一回[いっかい]で 合格[ごうかく]できなかったので、もう 一度[いちど] 挑戦[ちょうせん]します。
+  Da ich es beim ersten Mal nicht geschafft habe, werde ich es noch einmal versuchen.
+
+  一回切りの機会だから、後悔しないようにしよう。
+  一回切[いっかいき]りの 機会[きかい]だから、後悔[こうかい]しないようにしよう。
+  Da es eine einmalige Gelegenheit ist, lass uns dafür sorgen, dass wir es nicht bereuen.
+
+  彼女は一回目の面接で採用されました。
+  彼女[かのじょ]は 一回目[いっかいめ]の 面接[めんせつ]で 採用[さいよう]されました。
+  Sie wurde beim ersten Vorstellungsgespräch eingestellt.
+
+  この商品は一回に払うことをおすすめします。
+  この 商品[しょうひん]は 一回[いっかい]に 払[はら]うことをおすすめします。
+  Ich empfehle, dieses Produkt auf einmal zu bezahlen.
+
+  一回置きに水をやれば、植物は元気に育ちますよ。
+  一回置[いっかいお]きに 水[みず]をやれば、植物[しょくぶつ]は 元気[げんき]に 育[そだ]ちますよ。
+  Wenn du die Pflanzen jedes zweite Mal gießt, werden sie gesund wachsen.
+
+  この遊園地の入場料は一回千円です。
+  この 遊園地[ゆうえんち]の 入場料[にゅうじょうりょう]は 一回[いっかい] 千円[せんえん]です。
+  Der Eintritt für diesen Vergnügungspark kostet 1000 Yen pro Besuch.
+
+  この一回だけは許してください。二度としません。
+  この 一回[いっかい]だけは 許[ゆる]してください。二度[にど]としません。
+  Bitte verzeihen Sie mir dieses eine Mal. Ich werde es nicht wieder tun.
+
+  もう一回説明してもらえますか？よく分からなかったので。
+  もう 一回[いっかい] 説明[せつめい]してもらえますか？よく 分[わ]からなかったので。
+  Könnten Sie es bitte noch einmal erklären? Ich habe es nicht ganz verstanden.
+
+  年に一回の健康診断を受けることが大切です。
+  年[ねん]に 一回[いっかい]の 健康診断[けんこうしんだん]を 受[う]けることが 大切[たいせつ]です。
+  Es ist wichtig, einmal im Jahr eine Gesundheitsuntersuchung durchführen zu lassen.
+
+  週に一回、友達と一緒にジョギングをしています。
+  週[しゅう]に 一回[いっかい]、友達[ともだち]と 一緒[いっしょ]にジョギングをしています。
+  Einmal pro Woche gehe ich mit meinen Freunden joggen.
+
+  一回戦で負けてしまい、tournament(トーナメント)から脱落しました。
+  一回戦[いっかいせん]で 負[ま]けてしまい、トーナメントから 脱落[だつらく]しました。
+  Ich habe in der ersten Runde verloren und bin aus dem Turnier ausgeschieden.
+
+  この大会は一回勝負なので、集中力が重要です。
+  この 大会[たいかい]は 一回勝負[いっかいしょうぶ]なので、集中力[しゅうちゅうりょく]が 重要[じゅうよう]です。
+  Da dieses Turnier in einem einzigen Spiel entschieden wird, ist Konzentration wichtig.
+
+  野球の試合で、一回に3点を取られてしまった。
+  野球[やきゅう]の 試合[しあい]で、一回[いっかい]に3点[てん]を 取[と]られてしまった。
+  Im Baseballspiel haben wir im ersten Inning drei Punkte verloren.
+
+  一回する度に、新しい発見があります。
+  一回[いっかい]する 度[たび]に、新[あたら]しい 発見[はっけん]があります。
+  Mit jeder Umdrehung gibt es eine neue Entdeckung.
+
+  この遊園地を一回するのに、約2時間かかります。
+  この 遊園地[ゆうえんち]を 一回[いっかい]するのに、約[やく]2時間[じかん]かかります。
+  Es dauert etwa zwei Stunden, um eine Runde durch diesen Vergnügungspark zu machen.
+
+  一回払いと分割払いどちらがいいですか？
+  一回払[いっかいばら]いと 分割払[ぶんかつばら]いどちらがいいですか？
+  Möchten Sie in einer Summe oder in Raten bezahlen?
+
+  この薬の一回性について、医師に相談しました。
+  この 薬[くすり]の 一回性[いっかいせい]について、医師[いし]に 相談[そうだん]しました。
+  Ich habe den Arzt bezüglich der Einmaligkeit dieses Medikaments konsultiert.
+
+  一回こっきりのチャンスだから、全力を尽くそう。
+  一回[いっかい]こっきりのチャンスだから、全力[ぜんりょく]を 尽[つ]くそう。
+  Da dies eine absolute einmalige Chance ist, lass uns unser Bestes geben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

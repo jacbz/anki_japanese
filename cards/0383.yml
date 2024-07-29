@@ -2,7 +2,7 @@ Rang: 383
 Lemma: 面白い
 Lesung: おもしろい
 Alternativschreibweisen: ''
-Definition: interessant; spaßig; witzig
+Definition: interessant; lustig, unterhaltsam
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">も</span><span class="accent_plain">し</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">も</span><span 
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 面白くない・面白かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,106 @@ Beispielsätze: |-
   彼は面白い人です。
   彼[かれ]は 面白[おもしろ]い人です。
   Er ist ein interessanter Mann.
+
+  この本は面白いアイディアがたくさん詰まっています。
+  この 本[ほん]は 面白[おもしろ]いアイディアがたくさん 詰[つ]まっています。
+  Dieses Buch steckt voller interessanter Ideen.
+
+  子供たちは面白い遊びを見つけて楽しんでいます。
+  子供[こども]たちは 面白[おもしろ]い 遊[あそ]びを 見[み]つけて 楽[たの]しんでいます。
+  Die Kinder haben ein lustiges Spiel entdeckt und haben Spaß daran.
+
+  昨日見た映画は本当に面白かったよ。
+  昨日[きのう] 見[み]た 映画[えいが]は 本当[ほんとう]に 面白[おもしろ]かったよ。
+  Der Film, den ich gestern gesehen habe, war wirklich unterhaltsam.
+
+  科学者たちは面白い発見をしたと発表しました。
+  科学者[かがくしゃ]たちは 面白[おもしろ]い 発見[はっけん]をしたと 発表[はっぴょう]しました。
+  Die Wissenschaftler haben verkündet, dass sie eine interessante Entdeckung gemacht haben.
+
+  おじいちゃんはいつも面白い話をしてくれます。
+  おじいちゃんはいつも 面白[おもしろ]い 話[はなし]をしてくれます。
+  Opa erzählt uns immer interessante Geschichten.
+
+  彼女は面白い人で、一緒にいると退屈しません。
+  彼女[かのじょ]は 面白[おもしろ]い 人[ひと]で、一緒[いっしょ]にいると 退屈[たいくつ]しません。
+  Sie ist eine interessante Person, mit der man sich nie langweilt.
+
+  この本は面白くて、一晩で読み終えてしまいました。
+  この 本[ほん]は 面白[おもしろ]くて、一晩[ひとばん]で 読[よ]み 終[お]えてしまいました。
+  Dieses Buch war so fesselnd, dass ich es in einer Nacht durchgelesen habe.
+
+  彼の言い方がとても面白いので、みんな笑ってしまいました。
+  彼[かれ]の 言[い]い 方[かた]がとても 面白[おもしろ]いので、みんな 笑[わら]ってしまいました。
+  Seine Art zu sprechen war so witzig, dass alle lachen mussten.
+
+  生徒たちは面白い実験に夢中になっていました。
+  生徒[せいと]たちは 面白[おもしろ]い 実験[じっけん]に 夢中[むちゅう]になっていました。
+  Die Schüler waren von dem interessanten Experiment fasziniert.
+
+  面白い情報があれば、皆で共有しましょう。
+  面白[おもしろ]い 情報[じょうほう]があれば、皆[みな]で 共有[きょうゆう]しましょう。
+  Wenn es interessante Informationen gibt, lasst sie uns miteinander teilen.
+
+  彼のジョークはいつも面白くて、場を和ませてくれます。
+  彼[かれ]のジョークはいつも 面白[おもしろ]くて、場[ば]を 和[なご]ませてくれます。
+  Seine Witze sind immer lustig und lockern die Atmosphäre auf.
+
+  その俳優の面白い顔つきに、観客は魅了されました。
+  その 俳優[はいゆう]の 面白[おもしろ]い 顔[かお]つきに、観客[かんきゃく]は 魅了[みりょう]されました。
+  Das Publikum war von den interessanten Gesichtszügen des Schauspielers fasziniert.
+
+  実験の面白い結果に、科学者たちは驚きました。
+  実験[じっけん]の 面白[おもしろ]い 結果[けっか]に、科学者[かがくしゃ]たちは 驚[おどろ]きました。
+  Die Wissenschaftler waren von den interessanten Ergebnissen des Experiments überrascht.
+
+  デザイナーは色の面白い組み合わせで、新しい作品を作りました。
+  デザイナーは 色[いろ]の 面白[おもしろ]い 組[く]み 合[あ]わせで、新[あたら]しい 作品[さくひん]を 作[つく]りました。
+  Der Designer hat mit einer interessanten Farbkombination ein neues Werk geschaffen.
+
+  彼は面白い男で、いつも周りを笑わせています。
+  彼[かれ]は 面白[おもしろ]い 男[おとこ]で、いつも 周[まわ]りを 笑[わら]わせています。
+  Er ist ein lustiger Kerl, der immer alle um sich herum zum Lachen bringt.
+
+  昨日の芝居は本当に面白くて、最後まで楽しめました。
+  昨日[きのう]の 芝居[しばい]は 本当[ほんとう]に 面白[おもしろ]くて、最後[さいご]まで 楽[たの]しめました。
+  Das gestrige Theaterstück war wirklich unterhaltsam und ich habe es bis zum Ende genossen.
+
+  面白いことに、彼の予想は的中しました。
+  面白[おもしろ]いことに、彼[かれ]の 予想[よそう]は 的中[てきちゅう]しました。
+  Interessanterweise traf seine Vorhersage ins Schwarze.
+
+  この記事は面白く書いてあるので、読みやすいです。
+  この 記事[きじ]は 面白[おもしろ]く 書[か]いてあるので、読[よ]みやすいです。
+  Dieser Artikel ist interessant geschrieben und daher leicht zu lesen.
+
+  その小説を面白く読んだので、友達にも勧めました。
+  その 小説[しょうせつ]を 面白[おもしろ]く 読[よ]んだので、友達[ともだち]にも 勧[すす]めました。
+  Ich fand den Roman so interessant, dass ich ihn meinen Freunden empfohlen habe.
+
+  話が進むにつれて、だんだん面白くなってきました。
+  話[はなし]が 進[すす]むにつれて、だんだん 面白[おもしろ]くなってきました。
+  Je weiter die Geschichte fortschritt, desto interessanter wurde sie.
+
+  先生は授業を面白くするために、様々な工夫をしています。
+  先生[せんせい]は 授業[じゅぎょう]を 面白[おもしろ]くするために、様々[さまざま]な 工夫[くふう]をしています。
+  Der Lehrer bemüht sich auf verschiedene Weise, den Unterricht interessanter zu gestalten.
+
+  サッカーは面白いから、毎週練習に行っています。
+  サッカーは 面白[おもしろ]いから、毎週[まいしゅう] 練習[れんしゅう]に 行[い]っています。
+  Fußball macht mir Spaß, deshalb gehe ich jede Woche zum Training.
+
+  新しい仕事は面白いので、毎日楽しみです。
+  新[あたら]しい 仕事[しごと]は 面白[おもしろ]いので、毎日[まいにち] 楽[たの]しみです。
+  Meine neue Arbeit macht Spaß, ich freue mich jeden Tag darauf.
+
+  彼女は面白いことを言って、みんなを笑わせました。
+  彼女[かのじょ]は 面白[おもしろ]いことを 言[い]って、みんなを 笑[わら]わせました。
+  Sie sagte etwas Lustiges und brachte alle zum Lachen.
+
+  祖父は昔の出来事を面白く話してくれます。
+  祖父[そふ]は 昔[むかし]の 出来事[できごと]を 面白[おもしろ]く 話[はな]してくれます。
+  Mein Großvater erzählt alte Geschichten auf eine interessante Art und Weise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

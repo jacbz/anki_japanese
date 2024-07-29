@@ -2,7 +2,7 @@ Rang: 518
 Lemma: 紹介
 Lesung: しょうかい
 Alternativschreibweisen: ''
-Definition: Vorstellung; jmd. vorstellen
+Definition: vorstellen, empfehlen; Vorstellung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span>しょ</span><span class="accent_plain">う</span><span class="accent_plain">か</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>しょ</span><span class="accent_plain">う</span><sp
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 紹介しない・紹介した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   親に友達を紹介した。
   親[おや]に 友達[ともだち]を 紹介[しょうかい]した。
   Ich habe meinen Freund meinen Eltern vorgestellt.
+
+  新入社員を紹介します。
+  新入社員[しんにゅうしゃいん]を 紹介[しょうかい]します。
+  Ich stelle Ihnen unseren neuen Mitarbeiter vor.
+
+  友人の紹介で素敵なレストランを知りました。
+  友人[ゆうじん]の 紹介[しょうかい]で 素敵[すてき]なレストランを 知[し]りました。
+  Durch die Empfehlung eines Freundes habe ich ein tolles Restaurant kennengelernt.
+
+  この紹介状を人事部に提出してください。
+  この 紹介状[しょうかいじょう]を 人事部[じんじぶ]に 提出[ていしゅつ]してください。
+  Bitte reichen Sie dieses Empfehlungsschreiben bei der Personalabteilung ein.
+
+  彼女は紹介者として新しい会員を連れてきた。
+  彼女[かのじょ]は 紹介者[しょうかいしゃ]として 新[あたら]しい 会員[かいいん]を 連[つ]れてきた。
+  Sie brachte als Vermittlerin ein neues Mitglied mit.
+
+  友人の紹介で知り合った人と結婚しました。
+  友人[ゆうじん]の 紹介[しょうかい]で 知[し]り 合[あ]った 人[ひと]と 結婚[けっこん]しました。
+  Ich habe die Person geheiratet, die ich durch die Vermittlung eines Freundes kennengelernt habe.
+
+  彼の紹介で、その会社に入社することができた。
+  彼[かれ]の 紹介[しょうかい]で、その 会社[かいしゃ]に 入社[にゅうしゃ]することができた。
+  Durch seine Empfehlung konnte ich in diese Firma eintreten.
+
+  新製品の紹介は来週の会議で行います。
+  新製品[しんせいひん]の 紹介[しょうかい]は 来週[らいしゅう]の 会議[かいぎ]で 行[おこな]います。
+  Die Vorstellung des neuen Produkts findet in der Besprechung nächste Woche statt.
+
+  ただ今ご紹介にあずかりました田中です。
+  ただ 今[いま]ご 紹介[しょうかい]にあずかりました 田中[たなか]です。
+  Mein Name ist Tanaka, wie Sie gerade gehört haben.
+
+  彼女は家族に恋人を紹介するのをためらっていた。
+  彼女[かのじょ]は 家族[かぞく]に 恋人[こいびと]を 紹介[しょうかい]するのをためらっていた。
+  Sie zögerte, ihren Partner ihrer Familie vorzustellen.
+
+  このレストランは友達に紹介したいくらい美味しかった。
+  このレストランは 友達[ともだち]に 紹介[しょうかい]したいくらい 美味[おい]しかった。
+  Dieses Restaurant war so lecker, dass ich es meinen Freunden empfehlen möchte.
+
+  海外で日本の歌舞伎を紹介する活動をしています。
+  海外[かいがい]で 日本[にほん]の 歌舞伎[かぶき]を 紹介[しょうかい]する 活動[かつどう]をしています。
+  Ich bin damit beschäftigt, das japanische Kabuki-Theater im Ausland vorzustellen.
+
+  新聞で紹介された本が大ベストセラーになった。
+  新聞[しんぶん]で 紹介[しょうかい]された 本[ほん]が 大[だい]ベストセラーになった。
+  Das in der Zeitung vorgestellte Buch wurde zu einem großen Bestseller.
+
+  職場を紹介してもらって、本当に感謝しています。
+  職場[しょくば]を 紹介[しょうかい]してもらって、本当[ほんとう]に 感謝[かんしゃ]しています。
+  Ich bin wirklich dankbar, dass mir dieser Arbeitsplatz vermittelt wurde.
+
+  山田さん、こちらが私の妹の美紀です。
+  山田[やまだ]さん、こちらが 私[わたし]の 妹[いもうと]の 美紀[みき]です。
+  Herr Yamada, das ist meine jüngere Schwester Miki.
+
+  彼は有名な人に紹介すると約束してくれた。
+  彼[かれ]は 有名[ゆうめい]な 人[ひと]に 紹介[しょうかい]すると 約束[やくそく]してくれた。
+  Er versprach, mich berühmten Leuten vorzustellen.
+
+  この講座では、マルクス経済学の基本を紹介します。
+  この 講座[こうざ]では、マルクス 経済学[けいざいがく]の 基本[きほん]を 紹介[しょうかい]します。
+  In diesem Kurs stellen wir die Grundlagen der marxistischen Wirtschaftstheorie vor.
+
+  新しい料理の作り方を紹介するコーナーが人気です。
+  新[あたら]しい 料理[りょうり]の 作[つく]り 方[かた]を 紹介[しょうかい]するコーナーが 人気[にんき]です。
+  Die Rubrik, in der neue Kochrezepte vorgestellt werden, ist sehr beliebt.
+
+  自己紹介をお願いします。
+  自己紹介[じこしょうかい]をお 願[ねが]いします。
+  Bitte stellen Sie sich vor.
+
+  彼女は新しい友達を次々と紹介してくれた。
+  彼女[かのじょ]は 新[あたら]しい 友達[ともだち]を 次々[つぎつぎ]と 紹介[しょうかい]してくれた。
+  Sie stellte mir einen neuen Freund nach dem anderen vor.
+
+  この本では、日本の伝統文化を紹介しています。
+  この 本[ほん]では、日本[にほん]の 伝統[でんとう] 文化[ぶんか]を 紹介[しょうかい]しています。
+  In diesem Buch wird die traditionelle japanische Kultur vorgestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 307
 Lemma: 飲む
 Lesung: のむ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 呑む
 Definition: trinken
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">の</span><span>む</span>
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 飲まない・飲んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   昨日の夜は飲みすぎてしまった。
   昨日[きのう]の 夜[よる]は 飲[の]みすぎてしまった。
   Ich habe gestern Abend zu viel Alkohol getrunken.
+
+  水を２リトル飲む。
+  水[みず]を２リトル 飲[の]む。
+  Ich trinke zwei Liter Wasser.
+
+  コーヒーを飲みながら話す。
+  コーヒーを 飲[の]みながら 話[はな]す。
+  Wir unterhalten uns beim Kaffeetrinken.
+
+  お茶を一杯飲む。
+  お 茶[ちゃ]を 一杯[いっぱい] 飲[の]む。
+  Ich trinke eine Tasse Tee.
+
+  ストローでジュースを飲む。
+  ストローでジュースを 飲[の]む。
+  Ich trinke den Saft mit einem Strohhalm.
+
+  毎日十粒の薬を飲むように指示された。
+  毎日[まいにち] 十粒[じゅうつぶ]の 薬[くすり]を 飲[の]むように 指示[しじ]された。
+  Mir wurde angewiesen, täglich zehn Pillen einzunehmen.
+
+  彼は一本のボトルを飲み干した。
+  彼[かれ]は 一本[いっぽん]のボトルを 飲[の]み 干[ほ]した。
+  Er trank eine ganze Flasche leer.
+
+  健康を祝して乾杯しよう。
+  健康[けんこう]を 祝[いわ]して 乾杯[かんぱい]しよう。
+  Lass uns auf die Gesundheit anstoßen.
+
+  家では酒を飲まないことにしている。
+  家[いえ]では 酒[さけ]を 飲[の]まないことにしている。
+  Ich habe beschlossen, zu Hause keinen Alkohol zu trinken.
+
+  赤ちゃんがおっぱいを飲んでいる。
+  赤[あか]ちゃんがおっぱいを 飲[の]んでいる。
+  Das Baby trinkt an der Brust.
+
+  さくらんぼの種を飲み込んでしまった。
+  さくらんぼの 種[たね]を 飲[の]み 込[こ]んでしまった。
+  Ich habe versehentlich einen Kirschkern verschluckt.
+
+  睡眠薬を飲んで眠りについた。
+  睡眠薬[すいみんやく]を 飲[の]んで 眠[ねむ]りについた。
+  Ich nahm ein Schlafmittel ein und schlief ein.
+
+  彼は煙草を吸いながら考え込んでいた。
+  彼[かれ]は 煙草[たばこ]を 吸[す]いながら 考[かんが]え 込[こ]んでいた。
+  Er dachte nach, während er an seiner Zigarette zog.
+
+  大波が小舟を飲み込んだ。
+  大波[おおなみ]が 小舟[こぶね]を 飲[の]み 込[こ]んだ。
+  Eine große Welle verschlang das kleine Boot.
+
+  彼らの要求を飲むしかなかった。
+  彼[かれ]らの 要求[ようきゅう]を 飲[の]むしかなかった。
+  Wir mussten ihre Forderungen akzeptieren.
+
+  相手を飲んでかかるのは危険だ。
+  相手[あいて]を 飲[の]んでかかるのは 危険[きけん]だ。
+  Es ist gefährlich, den Gegner zu unterschätzen.
+
+  涙を飲んで別れを告げた。
+  涙[なみだ]を 飲[の]んで 別[わか]れを 告[つ]げた。
+  Ich unterdrückte meine Tränen und verabschiedete mich.
+
+  彼女は声を飲んで立ち尽くしていた。
+  彼女[かのじょ]は 声[こえ]を 飲[の]んで 立[た]ち 尽[つ]くしていた。
+  Sie stand da und unterdrückte ihre Stimme.
+
+  息を飲むほどの美しい景色だった。
+  息[いき]を 飲[の]むほどの 美[うつく]しい 景色[けしき]だった。
+  Es war eine atemberaubend schöne Landschaft.
+
+  怒りを飲み込んで冷静に対応した。
+  怒[いか]りを 飲[の]み 込[こ]んで 冷静[れいせい]に 対応[たいおう]した。
+  Ich unterdrückte meinen Ärger und reagierte ruhig.
+
+  彼は懐にナイフを忍ばせていた。
+  彼[かれ]は 懐[ふところ]にナイフを 忍[しの]ばせていた。
+  Er trug ein Messer versteckt bei sich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

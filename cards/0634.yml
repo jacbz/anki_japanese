@@ -2,14 +2,14 @@ Rang: 634
 Lemma: 料理
 Lesung: りょうり
 Alternativschreibweisen: ''
-Definition: Kochen
+Definition: kochen; Gericht
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: <span class="accent_top">りょ</span><span>う</span><span>り</span>
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 料理する・料理した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,102 @@ Beispielsätze: |-
   父は料理が上手だ。
   父[ちち]は 料理[りょうり]が 上手[じょうず]だ。
   Mein Vater ist gut im Kochen.
+
+  彼女は料理が上手で、毎日美味しい食事を作ってくれます。
+  彼女[かのじょ]は 料理[りょうり]が 上手[じょうず]で、毎日[まいにち] 美味[おい]しい 食事[しょくじ]を 作[つく]ってくれます。
+  Sie ist eine gute Köchin und bereitet uns jeden Tag leckere Mahlzeiten zu.
+
+  料理番組を見ながら、新しいレシピを学んでいます。
+  料理番組[りょうりばんぐみ]を 見[み]ながら、新[あたら]しいレシピを 学[まな]んでいます。
+  Ich lerne neue Rezepte, während ich Kochsendungen anschaue.
+
+  この料理長は30年以上の経験があり、腕前は一流です。
+  この 料理長[りょうりちょう]は30年[ねん] 以上[いじょう]の 経験[けいけん]があり、腕前[うでまえ]は 一流[いちりゅう]です。
+  Dieser Küchenchef hat über 30 Jahre Erfahrung und ist erstklassig in seinem Handwerk.
+
+  新しい料理道具を買って、キッチンが整いました。
+  新[あたら]しい 料理道具[りょうりどうぐ]を 買[か]って、キッチンが 整[ととの]いました。
+  Ich habe neue Küchenutensilien gekauft und die Küche ist jetzt gut ausgestattet.
+
+  料理学校に通って、プロの技術を学びたいです。
+  料理学校[りょうりがっこう]に 通[かよ]って、プロの 技術[ぎじゅつ]を 学[まな]びたいです。
+  Ich möchte eine Kochschule besuchen und professionelle Techniken erlernen.
+
+  この料理法は代々受け継がれてきた伝統的なものです。
+  この 料理法[りょうりほう]は 代々[だいだい] 受け継[う つ]がれてきた 伝統的[でんとうてき]なものです。
+  Diese Kochmethode ist eine traditionelle, die von Generation zu Generation weitergegeben wurde.
+
+  料理講習会に参加して、新しい調理技術を身につけましょう。
+  料理講習会[りょうりこうしゅうかい]に 参加[さんか]して、新[あたら]しい 調理技術[ちょうりぎじゅつ]を 身[み]につけましょう。
+  Lass uns an einem Kochkurs teilnehmen und neue Kochtechniken erlernen.
+
+  この料理鍋は熱伝導性が高く、調理に最適です。
+  この 料理鍋[りょうりなべ]は 熱伝導性[ねつでんどうせい]が 高[たか]く、調理[ちょうり]に 最適[さいてき]です。
+  Dieser Kochtopf hat eine hohe Wärmeleitfähigkeit und ist ideal zum Kochen.
+
+  彼は有名な料理人になるために、毎日練習を重ねています。
+  彼[かれ]は 有名[ゆうめい]な 料理人[りょうりにん]になるために、毎日[まいにち] 練習[れんしゅう]を 重[かさ]ねています。
+  Er übt jeden Tag, um ein berühmter Koch zu werden.
+
+  この料理書は初心者でも分かりやすく書かれています。
+  この 料理書[りょうりしょ]は 初心者[しょしんしゃ]でも 分[わ]かりやすく 書[か]かれています。
+  Dieses Kochbuch ist auch für Anfänger leicht verständlich geschrieben.
+
+  彼は料理通として知られ、様々な国の料理に詳しいです。
+  彼[かれ]は 料理通[りょうりつう]として 知[し]られ、様々[さまざま]な 国[くに]の 料理[りょうり]に 詳[くわ]しいです。
+  Er ist als Feinschmecker bekannt und kennt sich mit Küchen aus verschiedenen Ländern aus.
+
+  この地域には美味しい料理屋がたくさんあります。
+  この 地域[ちいき]には 美味[おい]しい 料理屋[りょうりや]がたくさんあります。
+  Es gibt viele gute Restaurants in dieser Gegend.
+
+  中華料理は種類が豊富で、様々な味を楽しめます。
+  中華料理[ちゅうかりょうり]は 種類[しゅるい]が 豊富[ほうふ]で、様々[さまざま]な 味[あじ]を 楽[たの]しめます。
+  Die chinesische Küche ist vielfältig und man kann verschiedene Geschmacksrichtungen genießen.
+
+  この店では一品料理を注文できるので、好きな料理を選べます。
+  この 店[みせ]では 一品料理[いっぴんりょうり]を 注文[ちゅうもん]できるので、好[す]きな 料理[りょうり]を 選[えら]べます。
+  In diesem Restaurant kann man À-la-carte-Gerichte bestellen, so dass man seine Lieblingsgerichte auswählen kann.
+
+  家庭料理は心が温まり、懐かしい味がします。
+  家庭料理[かていりょうり]は 心[こころ]が 温[あたた]まり、懐[なつ]かしい 味[あじ]がします。
+  Hausmannskost wärmt das Herz und schmeckt nostalgisch.
+
+  高級料理店で特別な日のディナーを楽しみました。
+  高級料理店[こうきゅうりょうりてん]で 特別[とくべつ]な 日[ひ]のディナーを 楽[たの]しみました。
+  Wir haben ein Dinner an einem besonderen Tag in einem gehobenen Restaurant genossen.
+
+  日本料理の繊細さと美しさに感動しました。
+  日本料理[にほんりょうり]の 繊細[せんさい]さと 美[うつく]しさに 感動[かんどう]しました。
+  Ich war von der Feinheit und Schönheit der japanischen Küche beeindruckt.
+
+  煮込み料理は寒い日に体が温まるので好きです。
+  煮込[に こ]み 料理[りょうり]は 寒[さむ]い 日[ひ]に 体[からだ]が 温[あたた]まるので 好[す]きです。
+  Ich mag Eintopfgerichte, weil sie an kalten Tagen den Körper aufwärmen.
+
+  この料理教室では、魚料理の基本を学ぶことができます。
+  この 料理教室[りょうりきょうしつ]では、魚料理[さかなりょうり]の 基本[きほん]を 学[まな]ぶことができます。
+  In diesem Kochkurs kann man die Grundlagen der Fischzubereitung lernen.
+
+  西洋料理のテクニックを学んで、料理の幅を広げたいです。
+  西洋料理[せいようりょうり]のテクニックを 学[まな]んで、料理[りょうり]の 幅[はば]を 広[ひろ]げたいです。
+  Ich möchte Techniken der westlichen Küche lernen, um mein kulinarisches Repertoire zu erweitern.
+
+  卵料理は簡単で栄養価が高いので、よく作ります。
+  卵料理[たまごりょうり]は 簡単[かんたん]で 栄養価[えいようか]が 高[たか]いので、よく 作[つく]ります。
+  Ich koche oft Eierspeisen, weil sie einfach zuzubereiten und nahrhaft sind.
+
+  野菜料理を増やして、健康的な食生活を心がけています。
+  野菜料理[やさいりょうり]を 増[ふ]やして、健康的[けんこうてき]な 食生活[しょくせいかつ]を 心[こころ]がけています。
+  Ich bemühe mich um eine gesunde Ernährung, indem ich mehr Gemüsegerichte zubereite.
+
+  三日に一度は自分で料理をつくるようにしています。
+  三日[みっか]に 一度[いちど]は 自分[じぶん]で 料理[りょうり]をつくるようにしています。
+  Ich versuche, alle drei Tage selbst zu kochen.
+
+  この仕事を料理するのは簡単だよ。すぐに終わるはずだ。
+  この 仕事[しごと]を 料理[りょうり]するのは 簡単[かんたん]だよ。すぐに 終[お]わるはずだ。
+  Diese Arbeit zu erledigen ist ein Kinderspiel. Es sollte schnell gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

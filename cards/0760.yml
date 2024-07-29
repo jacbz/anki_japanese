@@ -4,11 +4,11 @@ Lesung: ''
 Alternativschreibweisen: ''
 Definition: E-Mail
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Lesung mit Tonhöhe: <span>め</span><span class="accent_plain">ー</span><span class="accent_plain">る</span>
 Register: ↗Internet
 Dispersion: '60'
-Ursprung: ''
+Ursprung: engl. mail
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   メールをありがとうございます。
   メールをありがとうございます。
   Vielen Dank für Ihre E-Mail.
+
+  新しいメールアドレスを作成しました。
+  新[あたら]しいメールアドレスを 作成[さくせい]しました。
+  Ich habe eine neue E-Mail-Adresse erstellt.
+
+  メールボックスがいっぱいで、新しいメールが受信できません。
+  メールボックスがいっぱいで、新[あたら]しいメールが 受信[じゅしん]できません。
+  Mein Postfach ist voll, ich kann keine neuen E-Mails empfangen.
+
+  彼女にメールを送ったけど、まだ返事が来ていない。
+  彼女[かのじょ]にメールを 送[おく]ったけど、まだ 返事[へんじ]が 来[き]ていない。
+  Ich habe ihr eine E-Mail geschickt, aber noch keine Antwort bekommen.
+
+  重要なメールなので、すぐに開いて確認してください。
+  重要[じゅうよう]なメールなので、すぐに 開[ひら]いて 確認[かくにん]してください。
+  Da es sich um eine wichtige E-Mail handelt, öffnen und überprüfen Sie sie bitte sofort.
+
+  古いメールは定期的に削除するようにしています。
+  古[ふる]いメールは 定期的[ていきてき]に 削除[さくじょ]するようにしています。
+  Ich lösche alte E-Mails regelmäßig.
+
+  明日の会議について、皆さんにメールを入れておきました。
+  明日[あした]の 会議[かいぎ]について、皆[みな]さんにメールを 入[い]れておきました。
+  Ich habe allen eine E-Mail bezüglich des morgigen Meetings geschickt.
+
+  朝一番にメールをチェックするのが日課です。
+  朝[あさ]一番[いちばん]にメールをチェックするのが 日課[にっか]です。
+  Es gehört zu meiner täglichen Routine, als Erstes am Morgen meine E-Mails zu checken.
+
+  未読のメールがたくさんあって、対応に追われています。
+  未読[みどく]のメールがたくさんあって、対応[たいおう]に 追[お]われています。
+  Ich habe viele ungelesene E-Mails und bin damit beschäftigt, sie zu bearbeiten.
+
+  お客様からのメールの返事を書くのに時間がかかりました。
+  お 客様[きゃくさま]からのメールの 返事[へんじ]を 書[か]くのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, die E-Mail des Kunden zu beantworten.
+
+  最近は友達とメールで会話することが多くなりました。
+  最近[さいきん]は 友達[ともだち]とメールで 会話[かいわ]することが 多[おお]くなりました。
+  In letzter Zeit kommuniziere ich häufiger per E-Mail mit meinen Freunden.
+
+  電車の中で携帯でメールを打つ人が多いですね。
+  電車[でんしゃ]の 中[なか]で 携帯[けいたい]でメールを 打[う]つ 人[ひと]が 多[おお]いですね。
+  Es gibt viele Leute, die in der Bahn E-Mails auf ihrem Handy tippen, nicht wahr?
+
+  メールの件名は簡潔で分かりやすくするのが良いでしょう。
+  メールの 件名[けんめい]は 簡潔[かんけつ]で 分[わ]かりやすくするのが 良[よ]いでしょう。
+  Es ist ratsam, den Betreff einer E-Mail kurz und verständlich zu halten.
+
+  ジャンクメールが多くて、本当に必要なメールを見逃すことがあります。
+  ジャンクメールが 多[おお]くて、本当[ほんとう]に 必要[ひつよう]なメールを 見逃[みのが]すことがあります。
+  Es gibt so viele Spam-Mails, dass ich manchmal wichtige E-Mails übersehe.
+
+  自動返信メールを設定して、休暇中であることを知らせました。
+  自動返信[じどうへんしん]メールを 設定[せってい]して、休暇中[きゅうかちゅう]であることを 知[し]らせました。
+  Ich habe eine automatische Antwort-E-Mail eingerichtet, um mitzuteilen, dass ich im Urlaub bin.
+
+  受信メールフォルダを整理して、大切なメールを見つけやすくしました。
+  受信[じゅしん]メールフォルダを 整理[せいり]して、大切[たいせつ]なメールを 見[み]つけやすくしました。
+  Ich habe meinen Posteingang sortiert, um wichtige E-Mails leichter zu finden.
+
+  携帯メールの返信が遅くて、友達に怒られてしまいました。
+  携帯[けいたい]メールの 返信[へんしん]が 遅[おそ]くて、友達[ともだち]に 怒[おこ]られてしまいました。
+  Ich wurde von meinem Freund geschimpft, weil ich zu spät auf seine Handy-E-Mail geantwortet habe.
+
+  迷惑メールをブロックする設定をしたら、inbox がすっきりしました。
+  迷惑[めいわく]メールをブロックする 設定[せってい]をしたら、inbox がすっきりしました。
+  Nachdem ich Einstellungen zum Blockieren von Spam-Mails vorgenommen habe, ist mein Posteingang viel übersichtlicher geworden.
+
+  エアメールで海外の友人に手紙を送りました。
+  エアメールで 海外[かいがい]の 友人[ゆうじん]に 手紙[てがみ]を 送[おく]りました。
+  Ich habe meinem Freund im Ausland einen Brief per Luftpost geschickt.
+
+  メールオーダーで新しい服を注文しました。
+  メールオーダーで 新[あたら]しい 服[ふく]を 注文[ちゅうもん]しました。
+  Ich habe neue Kleidung per Versandhandel bestellt.
+
+  エクスプレスメールを使って、急ぎの書類を送りました。
+  エクスプレスメールを 使[つか]って、急[いそ]ぎの 書類[しょるい]を 送[おく]りました。
+  Ich habe dringende Dokumente per Eilzustellung verschickt.
+
+  メールサーベイに回答して、新製品についての意見を述べました。
+  メールサーベイに 回答[かいとう]して、新[しん]製品[せいひん]についての 意見[いけん]を 述[の]べました。
+  Ich habe an einer E-Mail-Umfrage teilgenommen und meine Meinung zu einem neuen Produkt geäußert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

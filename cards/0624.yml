@@ -2,8 +2,8 @@ Rang: 624
 Lemma: 意見
 Lesung: いけん
 Alternativschreibweisen: ''
-Definition: Meinung, Idee
-Extra: '' # Nur bei suru-Verben
+Definition: Meinung, Ansicht
+Extra: （する）
 Wortart: n, vi
 Lesung mit Tonhöhe: <span class="accent_top">い</span><span>け</span><span>ん</span>
 Register: ''
@@ -17,6 +17,90 @@ Beispielsätze: |-
   自分の意見を言う。
   自分[じぶん]の 意見[いけん]を 言[い]う。
   Ich äußere meine Meinung.
+
+  私の意見では、この計画にはまだ改善の余地があります。
+  私[わたし]の 意見[いけん]では、この 計画[けいかく]にはまだ 改善[かいぜん]の 余地[よち]があります。
+  Meiner Meinung nach gibt es bei diesem Plan noch Verbesserungspotenzial.
+
+  会社に意見箱を設置して、従業員の声を聞くことにしました。
+  会社[かいしゃ]に 意見箱[いけんばこ]を 設置[せっち]して、従業員[じゅうぎょういん]の 声[こえ]を 聞[き]くことにしました。
+  Wir haben beschlossen, einen Meinungskasten in der Firma aufzustellen, um die Stimmen der Mitarbeiter zu hören.
+
+  新しい商品について、お客様の意見を募集しています。
+  新[あたら]しい 商品[しょうひん]について、お 客様[きゃくさま]の 意見[いけん]を 募集[ぼしゅう]しています。
+  Wir sammeln Kundenmeinungen zu unserem neuen Produkt.
+
+  環境問題に関する意見陳述の機会が設けられました。
+  環境問題[かんきょうもんだい]に 関[かん]する 意見陳述[いけんちんじゅつ]の 機会[きかい]が 設[もう]けられました。
+  Es wurde eine Gelegenheit zur Stellungnahme bezüglich Umweltfragen eingerichtet.
+
+  政府は市民の意見を聴取するために公聴会を開催しました。
+  政府[せいふ]は 市民[しみん]の 意見[いけん]を 聴取[ちょうしゅ]するために 公聴会[こうちょうかい]を 開催[かいさい]しました。
+  Die Regierung hat eine öffentliche Anhörung abgehalten, um die Meinungen der Bürger einzuholen.
+
+  彼は自分の意見を堂々と発表しました。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 堂々[どうどう]と 発表[はっぴょう]しました。
+  Er hat seine Meinung selbstbewusst geäußert.
+
+  この問題について、みんなで意見交換をしましょう。
+  この 問題[もんだい]について、みんなで 意見交換[いけんこうかん]をしましょう。
+  Lasst uns einen Meinungsaustausch zu diesem Problem durchführen.
+
+  彼らの意見が対立して、話し合いは平行線をたどっています。
+  彼[かれ]らの 意見[いけん]が 対立[たいりつ]して、話[はな]し 合[あ]いは 平行線[へいこうせん]をたどっています。
+  Ihre Meinungen stehen sich gegenüber, und die Diskussion verläuft ergebnislos.
+
+  この件に関しては、代表意見を集めて検討する必要があります。
+  この 件[けん]に 関[かん]しては、代表意見[だいひょういけん]を 集[あつ]めて 検討[けんとう]する 必要[ひつよう]があります。
+  In dieser Angelegenheit müssen wir repräsentative Meinungen sammeln und prüfen.
+
+  その提案に対して、反対意見が多く出されました。
+  その 提案[ていあん]に 対[たい]して、反対意見[はんたいいけん]が 多[おお]く 出[だ]されました。
+  Gegen diesen Vorschlag wurden viele gegenteilige Meinungen geäußert.
+
+  私たちの意見が合わなくて、話がまとまりません。
+  私[わたし]たちの 意見[いけん]が 合[あ]わなくて、話[はなし]がまとまりません。
+  Unsere Meinungen stimmen nicht überein, und wir kommen zu keinem Ergebnis.
+
+  専門家の意見を聞いて、最終決定を下すべきだと思います。
+  専門家[せんもんか]の 意見[いけん]を 聞[き]いて、最終決定[さいしゅうけってい]を 下[くだ]すべきだと 思[おも]います。
+  Ich denke, wir sollten die Meinung von Experten einholen, bevor wir eine endgültige Entscheidung treffen.
+
+  あなたの意見に賛成です。その通りだと思います。
+  あなたの 意見[いけん]に 賛成[さんせい]です。その 通[とお]りだと 思[おも]います。
+  Ich stimme deiner Meinung zu. Ich denke, du hast Recht.
+
+  意見の相違を乗り越えて、合意に達することができました。
+  意見[いけん]の 相違[そうい]を 乗[の]り 越[こ]えて、合意[ごうい]に 達[たっ]することができました。
+  Wir konnten unsere Meinungsverschiedenheiten überwinden und eine Einigung erzielen.
+
+  会議で意見を述べる機会がありましたか？
+  会議[かいぎ]で 意見[いけん]を 述[の]べる 機会[きかい]がありましたか？
+  Hattest du die Gelegenheit, deine Meinung in der Besprechung zu äußern?
+
+  彼は自分の意見を固持して、他人の意見を聞こうとしません。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 固持[こじ]して、他人[たにん]の 意見[いけん]を 聞[き]こうとしません。
+  Er beharrt auf seiner Meinung und ist nicht bereit, die Meinungen anderer anzuhören.
+
+  その問題について、私たちは意見を異にしています。
+  その 問題[もんだい]について、私[わたし]たちは 意見[いけん]を 異[こと]にしています。
+  Wir haben unterschiedliche Meinungen zu diesem Problem.
+
+  彼女は常に自分の意見をはっきりと述べる人です。
+  彼女[かのじょ]は 常[つね]に 自分[じぶん]の 意見[いけん]をはっきりと 述[の]べる 人[ひと]です。
+  Sie ist jemand, der immer klar ihre eigene Meinung äußert.
+
+  あなたの意見を尊重しますが、私は別の考えを持っています。
+  あなたの 意見[いけん]を 尊重[そんちょう]しますが、私[わたし]は 別[べつ]の 考[かんが]えを 持[も]っています。
+  Ich respektiere deine Meinung, habe aber eine andere Ansicht.
+
+  この件について、皆さんの率直な意見を聞かせてください。
+  この 件[けん]について、皆[みな]さんの 率直[そっちょく]な 意見[いけん]を 聞[き]かせてください。
+  Bitte teilen Sie uns Ihre aufrichtigen Meinungen zu dieser Angelegenheit mit.
+
+  意見を言う前に、よく考えて慎重に言葉を選びましょう。
+  意見[いけん]を 言[い]う 前[まえ]に、よく 考[かんが]えて 慎重[しんちょう]に 言葉[ことば]を 選[えら]びましょう。
+  Lasst uns gut nachdenken und unsere Worte sorgfältig wählen, bevor wir unsere Meinung äußern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 932
 Lemma: 借りる
 Lesung: かりる
 Alternativschreibweisen: ''
-Definition: ausleihen, mieten
+Definition: leihen, ausleihen; mieten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>か</span><span class="accent_plain">り</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 借りない・借りた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   友達から本を借りた。
   友達[ともだち]から 本[ほん]を 借[か]りた。
   Ich habe ein Buch von meinem Freund ausgeliehen.
+
+  友達から5000円借りました。
+  友達[ともだち]から5000円[えん] 借[か]りました。
+  Ich habe mir 5000 Yen von einem Freund geliehen.
+
+  図書館で本を借りるときは、返却期限を守りましょう。
+  図書館[としょかん]で 本[ほん]を 借[か]りるときは、返却期限[へんきゃくきげん]を 守[まも]りましょう。
+  Wenn Sie ein Buch aus der Bibliothek ausleihen, halten Sie bitte die Rückgabefrist ein.
+
+  新しいアパートを借りることになりました。
+  新[あたら]しいアパートを 借[か]りることになりました。
+  Ich werde eine neue Wohnung mieten.
+
+  車を借りて旅行に行くつもりです。
+  車[くるま]を 借[か]りて 旅行[りょこう]に 行[い]くつもりです。
+  Ich habe vor, ein Auto zu mieten und in den Urlaub zu fahren.
+
+  友人の家で電話を借りて緊急連絡をしました。
+  友人[ゆうじん]の 家[いえ]で 電話[でんわ]を 借[か]りて 緊急連絡[きんきゅうれんらく]をしました。
+  Ich habe bei einem Freund zu Hause das Telefon benutzt, um einen Notruf zu tätigen.
+
+  お電話をお借りしてもよろしいでしょうか。
+  お 電話[でんわ]をお 借[か]りしてもよろしいでしょうか。
+  Dürfte ich Ihr Telefon benutzen?
+
+  彼女は高利で金を借りてしまい、返済に困っているようだ。
+  彼女[かのじょ]は 高利[こうり]で 金[かね]を 借[か]りてしまい、返済[へんさい]に 困[こま]っているようだ。
+  Sie scheint sich Geld zu hohen Zinsen geliehen zu haben und hat nun Schwierigkeiten mit der Rückzahlung.
+
+  友達から借りた本をなくしてしまった。
+  友達[ともだち]から 借[か]りた 本[ほん]をなくしてしまった。
+  Ich habe das Buch verloren, das ich mir von meinem Freund geliehen hatte.
+
+  レストランのトイレを借りるときは、店員さんに一言言うのがマナーです。
+  レストランのトイレを 借[か]りるときは、店員[てんいん]さんに 一言[ひとこと] 言[い]うのがマナーです。
+  Es gehört zum guten Benehmen, dem Personal Bescheid zu geben, wenn man die Toilette eines Restaurants benutzen möchte.
+
+  時間貸しの駐車場を借りて買い物に行った。
+  時間貸[じかんが]しの 駐車場[ちゅうしゃじょう]を 借[か]りて 買[か]い 物[もの]に 行[い]った。
+  Ich habe einen Parkplatz stundenweise gemietet und bin einkaufen gegangen.
+
+  この場を借りて、皆様に感謝の気持ちをお伝えします。
+  この 場[ば]を 借[か]りて、皆様[みなさま]に 感謝[かんしゃ]の 気持[きも]ちをお 伝[つた]えします。
+  Ich möchte diese Gelegenheit nutzen, um Ihnen allen meinen Dank auszusprechen.
+
+  専門家の知識を借りて、問題を解決しました。
+  専門家[せんもんか]の 知識[ちしき]を 借[か]りて、問題[もんだい]を 解決[かいけつ]しました。
+  Wir haben das Problem gelöst, indem wir uns das Wissen von Experten zunutze gemacht haben.
+
+  彼の言葉を借りれば、「失敗は成功のもと」ということです。
+  彼[かれ]の 言葉[ことば]を 借[か]りれば、「失敗[しっぱい]は 成功[せいこう]のもと」ということです。
+  Um es mit seinen Worten zu sagen: "Aus Fehlern wird man klug."
+
+  他人の力を借りずに、自分の力で成し遂げたいんだ。
+  他人[たにん]の 力[ちから]を 借[か]りずに、自分[じぶん]の 力[ちから]で 成[な]し 遂[と]げたいんだ。
+  Ich möchte es aus eigener Kraft schaffen, ohne die Hilfe anderer in Anspruch zu nehmen.
+
+  借りてきた猫のように大人しくしていたので、何かあったのかと心配になった。
+  借[か]りてきた 猫[ねこ]のように 大人[おとな]しくしていたので、何[なに]かあったのかと 心配[しんぱい]になった。
+  Er war so ungewöhnlich ruhig, wie eine geliehene Katze, dass ich mir Sorgen machte, ob etwas passiert war.
+
+  彼は友人の名前を借りて、ホテルに宿泊した。
+  彼[かれ]は 友人[ゆうじん]の 名前[なまえ]を 借[か]りて、ホテルに 宿泊[しゅくはく]した。
+  Er meldete sich unter dem Namen seines Freundes im Hotel an.
+
+  親の手を借りずに、自分で学費を稼いでいます。
+  親[おや]の 手[て]を 借[か]りずに、自分[じぶん]で 学費[がくひ]を 稼[かせ]いでいます。
+  Ich verdiene mein Studiengeld selbst, ohne die Hilfe meiner Eltern in Anspruch zu nehmen.
+
+  外国語から借りた単語が日本語に多く存在します。
+  外国語[がいこくご]から 借[か]りた 単語[たんご]が 日本語[にほんご]に 多[おお]く 存在[そんざい]します。
+  Es gibt viele Wörter im Japanischen, die aus Fremdsprachen entlehnt wurden.
+
+  猫の手も借りたいほど忙しいので、手伝ってくれませんか。
+  猫[ねこ]の 手[て]も 借[か]りたいほど 忙[いそが]しいので、手伝[てつだ]ってくれませんか。
+  Ich bin so beschäftigt, dass ich sogar die Pfote einer Katze gebrauchen könnte. Könntest du mir helfen?
+
+  友達の頭を借りて髪型の練習をしているんだ。
+  友達[ともだち]の 頭[あたま]を 借[か]りて 髪型[かみがた]の 練習[れんしゅう]をしているんだ。
+  Ich übe Frisuren an meinem Freund.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

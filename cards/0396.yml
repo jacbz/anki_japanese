@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">そ</span><span 
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 遊ばない・遊んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,96 @@ Beispielsätze: |-
   コンピューターゲームで 遊[あそ]ぶのが 好[す]きだ。
   Ich spiele gerne Computerspiele.
 
+  子供たちは公園で遊んでいます。
+  子供[こども]たちは 公園[こうえん]で 遊[あそ]んでいます。
+  Die Kinder spielen im Park.
+
+  友達とボールで遊ぶのが好きです。
+  友達[ともだち]とボールで 遊[あそ]ぶのが 好[す]きです。
+  Ich spiele gerne Ball mit meinen Freunden.
+
+  弟はコンピューターゲームをして遊ぶのが大好きだ。
+  弟[おとうと]はコンピューターゲームをして 遊[あそ]ぶのが 大好[だいす]きだ。
+  Mein kleiner Bruder liebt es, Computerspiele zu spielen.
+
+  子供の頃、よく鬼ごっこをして遊んだものだ。
+  子供[こども]の 頃[ころ]、よく 鬼[おに]ごっこをして 遊[あそ]んだものだ。
+  Als ich ein Kind war, haben wir oft Fangen gespielt.
+
+  この子はだれとも遊ばなかった。
+  この 子[こ]はだれとも 遊[あそ]ばなかった。
+  Dieses Kind spielte mit niemandem.
+
+  夏休みに友達と海に遊びに行きました。
+  夏休[なつやす]みに 友達[ともだち]と 海[うみ]に 遊[あそ]びに 行[い]きました。
+  In den Sommerferien bin ich mit Freunden zum Spielen ans Meer gefahren.
+
+  週末は家族で近くの公園にピクニックに遊びに行く予定です。
+  週末[しゅうまつ]は 家族[かぞく]で 近[ちか]くの 公園[こうえん]にピクニックに 遊[あそ]びに 行[い]く 予定[よてい]です。
+  Am Wochenende planen wir, mit der Familie zum Picknicken in einen nahe gelegenen Park zu gehen.
+
+  彼は毎晩遅くまで遊んでいて、仕事に支障が出ている。
+  彼[かれ]は 毎晩[まいばん] 遅[おそ]くまで 遊[あそ]んでいて、仕事[しごと]に 支障[ししょう]が 出[で]ている。
+  Er amüsiert sich jede Nacht bis spät, was seine Arbeit beeinträchtigt.
+
+  大学受験に失敗して、一年間遊んでしまった。
+  大学受験[だいがくじゅけん]に 失敗[しっぱい]して、一年間[いちねんかん] 遊[あそ]んでしまった。
+  Nachdem ich die Universitätsaufnahmeprüfung nicht bestanden hatte, verbrachte ich ein Jahr untätig.
+
+  彼は今仕事がなくて遊んでいる状態だ。
+  彼[かれ]は 今[いま] 仕事[しごと]がなくて 遊[あそ]んでいる 状態[じょうたい]だ。
+  Er ist momentan arbeitslos und hat nichts zu tun.
+
+  このプロジェクトでは多額の資金が遊んでいる状態だ。
+  このプロジェクトでは 多額[たがく]の 資金[しきん]が 遊[あそ]んでいる 状態[じょうたい]だ。
+  In diesem Projekt liegt eine große Summe Geld ungenutzt.
+
+  工場の機械が遊んでいるのは効率が悪い。
+  工場[こうじょう]の 機械[きかい]が 遊[あそ]んでいるのは 効率[こうりつ]が 悪[わる]い。
+  Es ist ineffizient, wenn die Maschinen in der Fabrik ungenutzt sind.
+
+  彼は2年間アメリカに遊学していた。
+  彼[かれ]は2年間[ねんかん]アメリカに 遊学[ゆうがく]していた。
+  Er studierte zwei Jahre lang in Amerika.
+
+  野球の投手が意図的に遊んだ球を投げた。
+  野球[やきゅう]の 投手[とうしゅ]が 意図的[いとてき]に 遊[あそ]んだ 球[たま]を 投[な]げた。
+  Der Baseballwerfer warf absichtlich einen taktischen Ball.
+
+  遊んでいる日は暮れるのが早いね。
+  遊[あそ]んでいる 日[ひ]は 暮[く]れるのが 早[はや]いね。
+  Die Zeit vergeht schnell, wenn man Spaß hat, nicht wahr?
+
+  彼女は友達と買い物に遊びに行った。
+  彼女[かのじょ]は 友達[ともだち]と 買い物[かいもの]に 遊[あそ]びに 行[い]った。
+  Sie ging mit Freunden zum Spaß einkaufen.
+
+  週末は家でゆっくり遊ぶつもりだ。
+  週末[しゅうまつ]は 家[いえ]でゆっくり 遊[あそ]ぶつもりだ。
+  Am Wochenende habe ich vor, mich zu Hause zu entspannen.
+
+  子供たちは砂場で遊んで楽しそうだ。
+  子供[こども]たちは 砂場[すなば]で 遊[あそ]んで 楽[たの]しそうだ。
+  Die Kinder sehen aus, als hätten sie Spaß beim Spielen im Sandkasten.
+
+  彼らは川で泳いで遊んだ。
+  彼[かれ]らは 川[かわ]で 泳[およ]いで 遊[あそ]んだ。
+  Sie vergnügten sich beim Schwimmen im Fluss.
+
+  母は私たちを動物園に遊びに連れて行ってくれた。
+  母[はは]は 私[わたし]たちを 動物園[どうぶつえん]に 遊[あそ]びに 連[つ]れて 行[い]ってくれた。
+  Meine Mutter nahm uns mit zum Spielen in den Zoo.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Häufig in hilfsverbähnlicher Verwendung im Anschluss an die um て bzw. で erweiterte Konjunktionalform von Verben zum Ausdruck dessen, dass es sich bei der betreffenden Tätigkeit nicht um eine Pflicht, sondern um ein Vergnügen oder einen Spaß handelt.
+  <div class="examples">
+    <div class="jp">友達と映画を見て遊んだ。</div>
+    <div class="de spoiler">Ich habe zum Spaß mit Freunden einen Film geschaut.</div>
+    <div class="jp">週末は家族でドライブに遊びに行った。</div>
+    <div class="de spoiler">Am Wochenende sind wir mit der Familie zum Vergnügen Auto gefahren.</div>
+  </div>

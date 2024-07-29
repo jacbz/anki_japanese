@@ -1,15 +1,15 @@
 Rang: 195
 Lemma: 話す
 Lesung: はなす
-Alternativschreibweisen: ''
-Definition: sprechen, erzählen
+Alternativschreibweisen: 咄す
+Definition: sprechen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>は</span><span class="accent_top">な</span><span>す</span>
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 話さない・話した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   日本語が話せますか。
   日本語[にほんご]が 話[はな]せますか。
   Können Sie Japanisch sprechen?
+
+  友人と話すのは楽しいですね。
+  友人[ゆうじん]と 話[はな]すのは 楽[たの]しいですね。
+  Es macht Spaß, sich mit Freunden zu unterhalten.
+
+  電話で話すより直接会って話したいです。
+  電話[でんわ]で 話[はな]すより 直接[ちょくせつ] 会[あ]って 話[はな]したいです。
+  Ich möchte lieber persönlich sprechen als am Telefon.
+
+  彼女は流暢にフランス語で話します。
+  彼女[かのじょ]は 流暢[りゅうちょう]にフランス 語[ご]で 話[はな]します。
+  Sie spricht fließend Französisch.
+
+  祖父は方言を話すので、時々理解するのが難しいです。
+  祖父[そふ]は 方言[ほうげん]を 話[はな]すので、時々[ときどき] 理解[りかい]するのが 難[むずか]しいです。
+  Mein Großvater spricht im Dialekt, daher ist es manchmal schwer, ihn zu verstehen.
+
+  目で話すことができる人もいます。
+  目[め]で 話[はな]すことができる 人[ひと]もいます。
+  Es gibt Menschen, die mit den Augen sprechen können.
+
+  会議で大声で話すのは避けるべきです。
+  会議[かいぎ]で 大声[おおごえ]で 話[はな]すのは 避[さ]けるべきです。
+  Man sollte es vermeiden, in Besprechungen laut zu sprechen.
+
+  遅刻した理由を上司に話さなければなりません。
+  遅刻[ちこく]した 理由[りゆう]を 上司[じょうし]に 話[はな]さなければなりません。
+  Ich muss meinem Vorgesetzten den Grund für meine Verspätung erklären.
+
+  聴覚障害者は手話で話すことができます。
+  聴覚障害者[ちょうかくしょうがいしゃ]は 手話[しゅわ]で 話[はな]すことができます。
+  Gehörlose Menschen können sich in Gebärdensprache unterhalten.
+
+  あなたと話したいことがあります。
+  あなたと 話[はな]したいことがあります。
+  Ich habe etwas, das ich mit dir besprechen möchte.
+
+  彼女は自分の身の上をいろいろ話した。
+  彼女[かのじょ]は 自分[じぶん]の 身[み]の 上[うえ]をいろいろ 話[はな]した。
+  Sie erzählte verschiedene Dinge über sich selbst.
+
+  子供に詳しく話す気にはなれない。
+  子供[こども]に 詳[くわ]しく 話[はな]す 気[き]にはなれない。
+  Ich habe keine Lust, dem Kind alles genau zu erklären.
+
+  出る前にちょっと誘ってくれ。君に話すことがある。
+  出[で]る 前[まえ]にちょっと 誘[さそ]ってくれ。君[きみ]に 話[はな]すことがある。
+  Hol mich kurz ab, bevor du gehst. Ich habe etwas mit dir zu besprechen.
+
+  二人の看護師が楽しげに話しながら通った。
+  二人[ふたり]の 看護師[かんごし]が 楽[たの]しげに 話[はな]しながら 通[とお]った。
+  Zwei Krankenschwestern gingen plaudernd und fröhlich vorbei.
+
+  話せば長くなるので、要点だけ話します。
+  話[はな]せば 長[なが]くなるので、要点[ようてん]だけ 話[はな]します。
+  Es wäre eine lange Geschichte, also erzähle ich nur das Wichtigste.
+
+  話せば分かると思うので、まずは話し合いましょう。
+  話[はな]せば 分[わ]かると 思[おも]うので、まずは 話[はな]し 合[あ]いましょう。
+  Ich denke, wenn wir darüber reden, werden wir uns verstehen, also lasst uns zuerst miteinander sprechen.
+
+  彼女はまだ私に話していないことがあるようです。
+  彼女[かのじょ]はまだ 私[わたし]に 話[はな]していないことがあるようです。
+  Es scheint, dass sie mir noch etwas nicht erzählt hat.
+
+  外国人と話す時は、ゆっくり話すように心がけています。
+  外国人[がいこくじん]と 話[はな]す 時[とき]は、ゆっくり 話[はな]すように 心[こころ]がけています。
+  Wenn ich mit Ausländern spreche, achte ich darauf, langsam zu sprechen.
+
+  彼は難しい話を分かりやすく話す才能があります。
+  彼[かれ]は 難[むずか]しい 話[はなし]を 分[わ]かりやすく 話[はな]す 才能[さいのう]があります。
+  Er hat die Gabe, komplizierte Dinge verständlich zu erklären.
+
+  上司と重要な案件について話す時は緊張します。
+  上司[じょうし]と 重要[じゅうよう]な 案件[あんけん]について 話[はな]す 時[とき]は 緊張[きんちょう]します。
+  Ich werde nervös, wenn ich mit meinem Vorgesetzten über wichtige Angelegenheiten spreche.
+
+  親友とは何でも気軽に話すことができます。
+  親友[しんゆう]とは 何[なん]でも 気軽[きがる]に 話[はな]すことができます。
+  Mit meinem besten Freund kann ich ungezwungen über alles reden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

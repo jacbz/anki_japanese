@@ -1,15 +1,15 @@
 Rang: 276
 Lemma: 置く
 Lesung: おく
-Alternativschreibweisen: ''
-Definition: legen, stellen; zurücklassen
+Alternativschreibweisen: 措く・擱く
+Definition: platzieren; lassen; einrichten
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, vi
+Wortart: vt
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 置かない・置いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,104 @@ Beispielsätze: |-
   部屋[へや]に 荷物[にもつ]を 置[お]いた。
   Ich habe meine Tasche im Zimmer abgelegt.
 
+  コップをテーブルの上に置いてください。
+  コップを テーブル[てーぶる]の 上[うえ]に 置[お]いてください。
+  Bitte stellen Sie das Glas auf den Tisch.
+
+  灰皿をそこに置いておいてもらえますか。
+  灰皿[はいざら]をそこに 置[お]いておいてもらえますか。
+  Können Sie den Aschenbecher bitte dort hinstellen?
+
+  チップをテーブルの上に置いて行きました。
+  チップを テーブル[てーぶる]の 上[うえ]に 置[お]いて 行[い]きました。
+  Ich habe das Trinkgeld auf dem Tisch liegen lassen.
+
+  眼鏡を机の上に置き忘れてしまった。
+  眼鏡[めがね]を 机[つくえ]の 上[うえ]に 置[お]き 忘[わす]れてしまった。
+  Ich habe meine Brille versehentlich auf dem Schreibtisch liegen lassen.
+
+  新しい本棚を窓際に置くことにした。
+  新[あたら]しい 本棚[ほんだな]を 窓際[まどぎわ]に 置[お]くことにした。
+  Ich habe beschlossen, das neue Bücherregal ans Fenster zu stellen.
+
+  この問題に重点を置いて議論しましょう。
+  この 問題[もんだい]に 重点[じゅうてん]を 置[お]いて 議論[ぎろん]しましょう。
+  Lassen Sie uns den Schwerpunkt der Diskussion auf dieses Problem legen.
+
+  彼女は私に全幅の信頼を置いている。
+  彼女[かのじょ]は 私[わたし]に 全幅[ぜんぱ]の 信頼[しんらい]を 置[お]いている。
+  Sie setzt volles Vertrauen in mich.
+
+  お金は銀行に置いておくのが一番安全だ。
+  お金[かね]は 銀行[ぎんこう]に 置[お]いておくのが 一番[いちばん] 安全[あんぜん]だ。
+  Es ist am sichersten, das Geld bei der Bank zu hinterlegen.
+
+  大切な書類は車の中に置いたままにしないでください。
+  大切[たいせつ]な 書類[しょるい]は 車[くるま]の 中[なか]に 置[お]いたままにしないでください。
+  Lassen Sie bitte keine wichtigen Dokumente im Auto liegen.
+
+  この事実を念頭に置いて行動してください。
+  この 事実[じじつ]を 念頭[ねんとう]に 置[お]いて 行動[こうどう]してください。
+  Bitte handeln Sie mit dieser Tatsache im Hinterkopf.
+
+  受付に案内人を置くことで、お客様の対応がスムーズになりました。
+  受付[うけつけ]に 案内人[あんないにん]を 置[お]くことで、お客様[きゃくさま]の 対応[たいおう]がスムーズになりました。
+  Durch die Platzierung eines Ansprechpartners am Empfang wurde die Kundenbetreuung reibungsloser.
+
+  新しい支社を大阪に置くことになりました。
+  新[あたら]しい 支社[ししゃ]を 大阪[おおさか]に 置[お]くことになりました。
+  Wir haben beschlossen, eine neue Filiale in Osaka zu eröffnen.
+
+  二人の間に適度な距離を置くことが大切です。
+  二人[ふたり]の 間[あいだ]に 適度[てきど]な 距離[きょり]を 置[お]くことが 大切[たいせつ]です。
+  Es ist wichtig, einen angemessenen Abstand zwischen den beiden zu wahren.
+
+  彼女は３日置いて連絡してくると言っていた。
+  彼女[かのじょ]は３日[みっか] 置[お]いて 連絡[れんらく]してくると 言[い]っていた。
+  Sie sagte, sie würde sich in drei Tagen melden.
+
+  この問題はひとまず置いておいて、他の事を話しましょう。
+  この 問題[もんだい]はひとまず 置[お]いておいて、他[ほか]の 事[こと]を 話[はな]しましょう。
+  Lassen Sie uns diese Angelegenheit vorerst beiseite legen und über etwas anderes sprechen.
+
+  彼女を措いて、このポジションに適任な人はいません。
+  彼女[かのじょ]を 措[お]いて、この ポジション[ぽじしょん]に 適任[てきにん]な 人[ひと]はいません。
+  Abgesehen von ihr gibt es niemanden, der für diese Position geeignet wäre.
+
+  筆を置いて、少し休憩しましょう。
+  筆[ふで]を 置[お]いて、少[すこ]し 休憩[きゅうけい]しましょう。
+  Lass uns den Stift beiseite legen und eine kurze Pause machen.
+
+  霜が庭の草に置いていて、朝の風景が美しかった。
+  霜[しも]が 庭[にわ]の 草[くさ]に 置[お]いていて、朝[あさ]の 風景[ふうけい]が 美[うつく]しかった。
+  Der Raureif auf dem Gras im Garten machte die Morgenszenerie wunderschön.
+
+  鍵はいつもの場所に置いておいたよ。
+  鍵[かぎ]はいつもの 場所[ばしょ]に 置[お]いておいたよ。
+  Ich habe den Schlüssel an seinem üblichen Platz gelassen.
+
+  この本は後で読むために、ここに置いておきます。
+  この 本[ほん]は 後[あと]で 読[よ]むために、ここに 置[お]いておきます。
+  Ich lasse dieses Buch hier, um es später zu lesen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Kann an die um て- oder で-Form von Verben angeschlossen werden, um den Ausdruck des Belassens oder Bewahrens einer Sache auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">遊[あそ]ばせておく。</div>
+    <div class="de spoiler">Ich lasse sie spielen.</div>
+  </div>
+  <p><span class="jp">...しておく</span> bedeutet, etwas so zu belassen oder in einem bestimmten Zustand zu halten.</p>
+  <div class="examples">
+    <div class="jp">車[くるま]を 使[つか]える 状態[じょうたい]にしておく。</div>
+    <div class="de spoiler">Ich halte den Wagen fahrbereit.</div>
+  </div>
+  <p>Die Formen ...ておく, ...ておいた usw. werden in der Umgangssprache häufig zu ...とく, ...といた usw. verschliffen.</p>
+  <div class="examples">
+    <div class="jp">傘[かさ]を 忘[わす]れずに 持[も]っていくように、玄関[げんかん]に 置[お]いとくね。</div>
+    <div class="de spoiler">Ich stelle den Schirm in den Flur, damit du ihn nicht vergisst mitzunehmen.</div>
+  </div>

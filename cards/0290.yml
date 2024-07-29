@@ -2,14 +2,14 @@ Rang: 290
 Lemma: 呼ぶ
 Lesung: よぶ
 Alternativschreibweisen: ''
-Definition: rufen
+Definition: rufen; nennen; einladen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>よ</span><span class="accent_plain">ぶ</span>
 Register: ↗</>Bücher
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 呼ばない・呼んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   タクシーを呼んでください。
   タクシーを 呼[よ]んでください。
   Bitte rufen Sie ein Taxi für mich.
+
+  大声で彼の名前を呼んだが、返事はなかった。
+  大声[おおごえ]で 彼[かれ]の 名前[なまえ]を 呼[よ]んだが、返事[へんじ]はなかった。
+  Ich rief laut seinen Namen, aber es kam keine Antwort.
+
+  神の名を呼んで、助けを求めた。
+  神[かみ]の 名[な]を 呼[よ]んで、助[たす]けを 求[もと]めた。
+  Ich rief Gottes Namen an und bat um Hilfe.
+
+  抽選会で、司会者が当選番号を呼び上げた。
+  抽選会[ちゅうせんかい]で、司会者[しかいしゃ]が 当選[とうせん]番号[ばんごう]を 呼[よ]び 上[あ]げた。
+  Bei der Verlosung rief der Moderator die Gewinnnummern auf.
+
+  彼女は愛称で私のことを呼ぶ。
+  彼女[かのじょ]は 愛称[あいしょう]で 私[わたし]のことを 呼[よ]ぶ。
+  Sie nennt mich bei meinem Spitznamen.
+
+  その地域では、その山を「霊山」と呼んでいる。
+  その 地域[ちいき]では、その 山[やま]を「霊山[れいざん]」と 呼[よ]んでいる。
+  In dieser Region wird der Berg "Heiliger Berg" genannt.
+
+  彼は裏切り者と呼ばれ、村から追放された。
+  彼[かれ]は 裏切り者[うらぎりもの]と 呼[よ]ばれ、村[むら]から 追放[ついほう]された。
+  Er wurde als Verräter bezeichnet und aus dem Dorf verbannt.
+
+  緊急事態が発生し、すぐに救急車を呼んだ。
+  緊急[きんきゅう]事態[じたい]が 発生[はっせい]し、すぐに 救急車[きゅうきゅうしゃ]を 呼[よ]んだ。
+  Es trat ein Notfall ein, und wir riefen sofort einen Krankenwagen.
+
+  上司が私を office に呼んだ。何か重要な話があるようだ。
+  上司[じょうし]が 私[わたし]を office に 呼[よ]んだ。何[なに]か 重要[じゅうよう]な 話[はなし]があるようだ。
+  Mein Chef hat mich ins Büro gerufen. Es scheint etwas Wichtiges zu sein.
+
+  友達を家に呼んで、一緒に料理を作った。
+  友達[ともだち]を 家[いえ]に 呼[よ]んで、一緒[いっしょ]に 料理[りょうり]を 作[つく]った。
+  Ich lud meine Freunde zu mir nach Hause ein, und wir kochten zusammen.
+
+  彼女の誕生日パーティーに呼ばれて、うれしかった。
+  彼女[かのじょ]の 誕生日[たんじょうび]パーティーに 呼[よ]ばれて、うれしかった。
+  Ich war froh, zu ihrer Geburtstagsparty eingeladen zu werden.
+
+  その店の美味しい料理は、多くの客を呼んでいる。
+  その 店[みせ]の 美味[おい]しい 料理[りょうり]は、多[おお]くの 客[きゃく]を 呼[よ]んでいる。
+  Das leckere Essen in diesem Restaurant zieht viele Kunden an.
+
+  この香水は蚊を呼ぶので、外では使わない方がいい。
+  この 香水[こうすい]は 蚊[か]を 呼[よ]ぶので、外[そと]では 使[つか]わない 方[ほう]がいい。
+  Dieses Parfüm zieht Mücken an, also solltest du es draußen besser nicht benutzen.
+
+  彼の発言は多くの疑惑を呼んだ。
+  彼[かれ]の 発言[はつげん]は 多[おお]くの 疑惑[ぎわく]を 呼[よ]んだ。
+  Seine Äußerung rief viele Zweifel hervor.
+
+  新製品の発表は業界に大きな反響を呼んだ。
+  新製品[しんせいひん]の 発表[はっぴょう]は 業界[ぎょうかい]に 大[おお]きな 反響[はんきょう]を 呼[よ]んだ。
+  Die Ankündigung des neuen Produkts löste in der Branche große Reaktionen aus.
+
+  彼女の演技は観客の共感を呼んだ。
+  彼女[かのじょ]の 演技[えんぎ]は 観客[かんきゃく]の 共感[きょうかん]を 呼[よ]んだ。
+  Ihr Schauspiel erweckte die Sympathie des Publikums.
+
+  この本は子供たちの興味を呼ぶ内容になっている。
+  この 本[ほん]は 子供[こども]たちの 興味[きょうみ]を 呼[よ]ぶ 内容[ないよう]になっている。
+  Dieses Buch hat einen Inhalt, der das Interesse der Kinder weckt.
+
+  その政治家の発言は様々な憶測を呼んでいる。
+  その 政治家[せいじか]の 発言[はつげん]は 様々[さまざま]な 憶測[おくそく]を 呼[よ]んでいる。
+  Die Äußerungen des Politikers geben Anlass zu allerlei Spekulationen.
+
+  彼の新しい小説は大きな話題を呼んでいる。
+  彼[かれ]の 新[あたら]しい 小説[しょうせつ]は 大[おお]きな 話題[わだい]を 呼[よ]んでいる。
+  Sein neuer Roman ist in aller Munde.
+
+  このスポンジは水をよく呼ぶので、掃除に便利だ。
+  この スポンジは 水[みず]をよく 呼[よ]ぶので、掃除[そうじ]に 便利[べんり]だ。
+  Dieser Schwamm zieht gut Wasser an, daher ist er praktisch zum Putzen.
+
+  彼の行動は嵐を呼ぶようなものだった。
+  彼[かれ]の 行動[こうどう]は 嵐[あらし]を 呼[よ]ぶようなものだった。
+  Sein Verhalten war, als würde es einen Sturm heraufbeschwören.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

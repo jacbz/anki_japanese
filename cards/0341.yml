@@ -1,8 +1,8 @@
 Rang: 341
 Lemma: きれい
 Lesung: ''
-Alternativschreibweisen: 綺麗
-Definition: schön, hübsch; sauber
+Alternativschreibweisen: 奇麗・綺麗
+Definition: schön; sauber; komplett
 Extra: '' # Nur bei suru-Verben
 Wortart: na-adj
 Lesung mit Tonhöhe: <span class="accent_top">き</span><span>れ</span><span>い</span><span></span>
@@ -18,9 +18,92 @@ Beispielsätze: |-
   彼[かれ]の 家[いえ]はいつもきれいだ。
   Sein Haus ist immer sauber.
 
+  この花はとてもきれいですね。
+  この 花[はな]はとても きれいですね。
+  Diese Blume ist wirklich schön.
+
+  彼女はきれいな声で歌を歌った。
+  彼女[かのじょ]は きれいな 声[こえ]で 歌[うた]を 歌[うた]った。
+  Sie sang das Lied mit einer schönen Stimme.
+
+  きれいに字を書くように心がけています。
+  きれいに 字[じ]を 書[か]くように 心[こころ]がけています。
+  Ich bemühe mich, schön zu schreiben.
+
+  部屋をきれいに片付けましょう。
+  部屋[へや]を きれいに 片付[かたづ]けましょう。
+  Lass uns das Zimmer sauber aufräumen.
+
+  この川の水はとてもきれいです。
+  この 川[かわ]の 水[みず]はとても きれいです。
+  Das Wasser dieses Flusses ist sehr sauber.
+
+  きれいな心で人と接しましょう。
+  きれいな 心[こころ]で 人[ひと]と 接[せっ]しましょう。
+  Lass uns mit reinem Herzen mit anderen Menschen umgehen.
+
+  手をきれいに洗ってから食事をしてください。
+  手[て]を きれいに 洗[あら]ってから 食事[しょくじ]をしてください。
+  Bitte wasch dir gründlich die Hände, bevor du isst.
+
+  スポーツマンシップに則ったきれいな試合だった。
+  スポーツマンシップに 則[のっと]った きれいな 試合[しあい]だった。
+  Es war ein faires Spiel, das dem Sportsgeist entsprach.
+
+  彼女の髪はきれいに整えられていた。
+  彼女[かのじょ]の 髪[かみ]は きれいに 整[ととの]えられていた。
+  Ihr Haar war sorgfältig frisiert.
+
+  このタオルはきれいで気持ちがいいです。
+  このタオルは きれいで 気持[きも]ちがいいです。
+  Dieses Handtuch ist sauber und fühlt sich gut an.
+
+  きれいに断るのは難しいことがあります。
+  きれいに 断[ことわ]るのは 難[むずか]しいことがあります。
+  Es kann schwierig sein, etwas höflich abzulehnen.
+
+  お金をきれいに使い切ってしまいました。
+  お 金[かね]を きれいに 使[つか]い 切[き]ってしまいました。
+  Ich habe das ganze Geld aufgebraucht.
+
+  彼女の名前をきれいに忘れてしまった。
+  彼女[かのじょ]の 名前[なまえ]を きれいに 忘[わす]れてしまった。
+  Ich habe ihren Namen komplett vergessen.
+
+  残ったケーキをきれいに食べてしまいました。
+  残[のこ]ったケーキを きれいに 食[た]べてしまいました。
+  Ich habe den übrig gebliebenen Kuchen vollständig aufgegessen.
+
+  借金をきれいに返済しました。
+  借金[しゃっきん]を きれいに 返済[へんさい]しました。
+  Ich habe meine Schulden vollständig zurückgezahlt.
+
+  きれいな空気を吸って、リフレッシュしましょう。
+  きれいな 空気[くうき]を 吸[す]って、リフレッシュしましょう。
+  Lass uns frische Luft atmen und uns erholen.
+
+  彼女はきれいな笑顔で挨拶した。
+  彼女[かのじょ]は きれいな 笑顔[えがお]で 挨拶[あいさつ]した。
+  Sie begrüßte uns mit einem schönen Lächeln.
+
+  この絵はとてもきれいで感動しました。
+  この 絵[え]はとても きれいで 感動[かんどう]しました。
+  Dieses Bild ist so schön, dass es mich berührt hat.
+
+  きれいな夕日を見ながら散歩しました。
+  きれいな 夕日[ゆうひ]を 見[み]ながら 散歩[さんぽ]しました。
+  Ich ging spazieren und betrachtete dabei den schönen Sonnenuntergang.
+
+  彼女の演技はきれいに決まっていました。
+  彼女[かのじょ]の 演技[えんぎ]は きれいに 決[き]まっていました。
+  Ihre Darbietung war makellos.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="examples">Umgangssprachlich oder dialektal wird manchmal auch die く-Form verwendet (きれかった):<div class="jp">あんたみたいに 綺麗[きれ]かったら一緒[いっしょ]に 歩[ある]いてゝもちゃうどえゝけど。</div>
+    <div class="de spoiler">Wer so schön ist wie du, kann natürlich ruhig mit ihm spazierengehen.</div>
+  </div>

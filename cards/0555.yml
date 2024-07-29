@@ -1,15 +1,15 @@
 Rang: 555
 Lemma: 答える
 Lesung: こたえる
-Alternativschreibweisen: ''
-Definition: antworten, reagieren
+Alternativschreibweisen: 応える・徹える
+Definition: antworten; entsprechen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>こ</span><span class="accent_plain">た</span><span class="accent_top">え</span><span>る</span>
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 答えない・答えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   学生は質問に答えた。
   学生[がくせい]は 質問[しつもん]に 答[こた]えた。
   Ein Student hat die Frage beantwortet.
+
+  質問に答えてください。
+  質問[しつもん]に 答[こた]えてください。
+  Bitte beantworten Sie die Frage.
+
+  はっきりと答えてくださいますか。
+  はっきりと 答[こた]えてくださいますか。
+  Können Sie bitte deutlich antworten?
+
+  彼は質問にためらわずに答えた。
+  彼[かれ]は 質問[しつもん]に 答[こた]えた。
+  Er antwortete ohne Zögern auf die Frage.
+
+  次の問題に答えなさい。
+  次[つぎ]の 問題[もんだい]に 答[こた]えなさい。
+  Beantworte die folgende Aufgabe.
+
+  「はい」と答えるべきか迷っています。
+  「はい」と 答[こた]えるべきか 迷[まよ]っています。
+  Ich bin unsicher, ob ich mit "Ja" antworten soll.
+
+  テストの全ての問題に正確に答えることができた。
+  テストの 全[すべ]ての 問題[もんだい]に 正確[せいかく]に 答[こた]えることができた。
+  Ich konnte alle Fragen im Test korrekt beantworten.
+
+  彼女の挨拶に笑顔で答えた。
+  彼女[かのじょ]の 挨拶[あいさつ]に 笑顔[えがお]で 答[こた]えた。
+  Ich erwiderte ihren Gruß mit einem Lächeln.
+
+  お客様の期待に答えられるよう頑張ります。
+  お 客様[きゃくさま]の 期待[きたい]に 答[こた]えられるよう 頑張[がんば]ります。
+  Wir werden unser Bestes tun, um den Erwartungen unserer Kunden zu entsprechen.
+
+  ファンの歓声に答えて、歌手は追加の曲を歌った。
+  ファンの 歓声[かんせい]に 答[こた]えて、歌手[かしゅ]は 追加[ついか]の 曲[きょく]を 歌[うた]った。
+  Der Sänger reagierte auf den Jubel der Fans und sang ein zusätzliches Lied.
+
+  彼らの要求に答えるのは難しいかもしれない。
+  彼[かれ]らの 要求[ようきゅう]に 答[こた]えるのは 難[むずか]しいかもしれない。
+  Es könnte schwierig sein, ihren Forderungen nachzukommen.
+
+  顧客の信頼に答えるために、品質管理に力を入れています。
+  顧客[こきゃく]の 信頼[しんらい]に 答[こた]えるために、品質管理[ひんしつかんり]に 力[ちから]を 入[い]れています。
+  Um dem Vertrauen unserer Kunden gerecht zu werden, legen wir großen Wert auf Qualitätskontrolle.
+
+  この暑さは体力に答える。
+  この 暑[あつ]さは 体力[たいりょく]に 答[こた]える。
+  Diese Hitze setzt meiner körperlichen Verfassung zu.
+
+  彼の言葉が胸に答えた。
+  彼[かれ]の 言葉[ことば]が 胸[むね]に 答[こた]えた。
+  Seine Worte gingen mir zu Herzen.
+
+  アンケートの質問に正直に答えてください。
+  アンケートの 質問[しつもん]に 正直[しょうじき]に 答[こた]えてください。
+  Bitte beantworten Sie die Fragen in der Umfrage ehrlich.
+
+  彼女は記者の質問にうまく答えを避けた。
+  彼女[かのじょ]は 記者[きしゃ]の 質問[しつもん]にうまく 答[こた]えを 避[さ]けた。
+  Sie wich den Fragen des Reporters geschickt aus.
+
+  その問題の答えがわからなかったら、飛ばして次に進んでください。
+  その 問題[もんだい]の 答[こた]えがわからなかったら、飛[と]ばして 次[つぎ]に 進[すす]んでください。
+  Wenn du die Antwort auf diese Frage nicht weißt, überspringe sie und gehe zur nächsten.
+
+  彼は自分の過ちを認め、批判に誠実に答えた。
+  彼[かれ]は 自分[じぶん]の 過[あやま]ちを 認[みと]め、批判[ひはん]に 誠実[せいじつ]に 答[こた]えた。
+  Er gab seinen Fehler zu und reagierte aufrichtig auf die Kritik.
+
+  この難問に答えられる人はほとんどいないだろう。
+  この 難問[なんもん]に 答[こた]えられる 人[ひと]はほとんどいないだろう。
+  Es gibt wahrscheinlich kaum jemanden, der diese schwierige Frage beantworten kann.
+
+  面接官の質問に自信を持って答えましょう。
+  面接官[めんせつかん]の 質問[しつもん]に 自信[じしん]を 持[も]って 答[こた]えましょう。
+  Lass uns selbstbewusst auf die Fragen des Interviewers antworten.
+
+  彼女の愛情に答えられず、申し訳ない気持ちでいっぱいだ。
+  彼女[かのじょ]の 愛情[あいじょう]に 答[こた]えられず、申[もう]し 訳[わけ]ない 気持[きも]ちでいっぱいだ。
+  Ich fühle mich schuldig, dass ich ihre Liebe nicht erwidern kann.
+
+  彼の行動は私の期待に十分答えてくれた。
+  彼[かれ]の 行動[こうどう]は 私[わたし]の 期待[きたい]に 十分[じゅうぶん] 答[こた]えてくれた。
+  Seine Handlungen haben meine Erwartungen vollkommen erfüllt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

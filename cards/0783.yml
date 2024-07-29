@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>し</span><span class="accent_top">ろ</span><span>�
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 白くない・白かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女は白いセーターを着ていた。
   彼女[かのじょ]は 白[しろ]いセーターを 着[き]ていた。
   Sie trug einen weißen Pullover.
+
+  この紙は真っ白いから、何でも書けるね。
+  この 紙[かみ]は 真[ま]っ 白[しろ]いから、何[なに]でも 書[か]けるね。
+  Dieses Papier ist ganz weiß, man kann alles darauf schreiben.
+
+  おじいさんの髪が白くなってきたね。
+  おじいさんの 髪[かみ]が 白[しろ]くなってきたね。
+  Die Haare des Großvaters sind weiß geworden.
+
+  火山から白い煙が立ち上っていた。
+  火山[かざん]から 白[しろ]い 煙[けむり]が 立[た]ち 上[のぼ]っていた。
+  Weißer Rauch stieg aus dem Vulkan auf.
+
+  歯を白くするために、歯磨き粉を変えてみました。
+  歯[は]を 白[しろ]くするために、歯磨[はみが]き 粉[こ]を 変[か]えてみました。
+  Um meine Zähne weißer zu machen, habe ich die Zahnpasta gewechselt.
+
+  白い花びらが風に舞っている様子は美しかった。
+  白[しろ]い 花びら[はなびら]が 風[かぜ]に 舞[ま]っている 様子[ようす]は 美[うつく]しかった。
+  Es war wunderschön, wie die weißen Blütenblätter im Wind tanzten.
+
+  日焼けを避けて白い肌を保つ人もいますね。
+  日焼[ひや]けを 避[さ]けて 白[しろ]い 肌[はだ]を 保[たも]つ 人[ひと]もいますね。
+  Es gibt auch Menschen, die einen Sonnenbrand vermeiden, um ihre weiße Haut zu bewahren.
+
+  驚いて顔が真っ白になりました。
+  驚[おどろ]いて 顔[かお]が 真[ま]っ 白[しろ]になりました。
+  Vor Schreck wurde mein Gesicht ganz blass.
+
+  時間が経つにつれて、壁が白くなっていきました。
+  時間[じかん]が 経[た]つにつれて、壁[かべ]が 白[しろ]くなっていきました。
+  Mit der Zeit wurde die Wand immer weißer.
+
+  試験中、頭の中が真っ白になってしまった。
+  試験中[しけんちゅう]、頭[あたま]の 中[なか]が 真[ま]っ 白[しろ]になってしまった。
+  Während der Prüfung hatte ich einen Blackout.
+
+  白い前垂れを着けた料理人が厨房で忙しそうに働いていた。
+  白[しろ]い 前垂[まえだ]れを 着[つ]けた 料理人[りょうりにん]が 厨房[ちゅうぼう]で 忙[いそが]しそうに 働[はたら]いていた。
+  Der Koch mit der weißen Schürze arbeitete geschäftig in der Küche.
+
+  その動物の額には白い丸い模様があった。
+  その 動物[どうぶつ]の 額[ひたい]には 白[しろ]い 丸[まる]い 模様[もよう]があった。
+  Das Tier hatte ein weißes, rundes Muster auf der Stirn.
+
+  この通りの建物は道路側だけが白く塗られているんだ。
+  この 通[とお]りの 建物[たてもの]は 道路側[どうろがわ]だけが 白[しろ]く 塗[ぬ]られているんだ。
+  Die Gebäude in dieser Straße sind nur auf der Straßenseite weiß gestrichen.
+
+  彼女は怒っているときは白い歯を見せない。
+  彼女[かのじょ]は 怒[おこ]っているときは 白[しろ]い 歯[は]を 見[み]せない。
+  Wenn sie wütend ist, zeigt sie ihre weißen Zähne nicht.
+
+  その提案に対して、みんなが白い目で見ていた。
+  その 提案[ていあん]に 対[たい]して、みんなが 白[しろ]い 目[め]で 見[み]ていた。
+  Alle sahen den Vorschlag mit kaltem Blick an.
+
+  白い雪が辺り一面を覆っていた。
+  白[しろ]い 雪[ゆき]が 辺[あた]り 一面[いちめん]を 覆[おお]っていた。
+  Weißer Schnee bedeckte die ganze Umgebung.
+
+  この白いTシャツは着心地が良くて気に入っています。
+  この 白[しろ]いTシャツは 着心地[きごこち]が 良[よ]くて 気[き]に 入[い]っています。
+  Dieses weiße T-Shirt trägt sich sehr angenehm und ich mag es.
+
+  白い砂浜を散歩するのは気持ちがいいですね。
+  白[しろ]い 砂浜[すなはま]を 散歩[さんぽ]するのは 気持[きも]ちがいいですね。
+  Es ist ein schönes Gefühl, am weißen Sandstrand spazieren zu gehen.
+
+  彼女の白い肌は陶器のように美しかった。
+  彼女[かのじょ]の 白[しろ]い 肌[はだ]は 陶器[とうき]のように 美[うつく]しかった。
+  Ihre weiße Haut war schön wie Porzellan.
+
+  白い霧が谷を覆い、幻想的な光景を作り出していた。
+  白[しろ]い 霧[きり]が 谷[たに]を 覆[おお]い、幻想的[げんそうてき]な 光景[こうけい]を 作[つく]り 出[だ]していた。
+  Weißer Nebel bedeckte das Tal und schuf eine fantastische Szenerie.
+
+  彼は怒りで顔が真っ白になっていた。
+  彼[かれ]は 怒[いか]りで 顔[かお]が 真[ま]っ 白[しろ]になっていた。
+  Sein Gesicht war vor Wut ganz weiß geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

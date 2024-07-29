@@ -4,7 +4,7 @@ Lesung: ぼく
 Alternativschreibweisen: ''
 Definition: ich [männlich]
 Extra: '' # Nur bei suru-Verben
-Wortart: pron, n
+Wortart: pron
 Lesung mit Tonhöhe: <span class="accent_top">ぼ</span><span>く</span>
 Register: ↗</>Bücher
 Dispersion: '86'
@@ -18,9 +18,90 @@ Beispielsätze: |-
   僕[ぼく]はサッカーが 好[す]きだ。
   Ich mag Fußball.
 
+  僕は大学生です。
+  僕[ぼく]は 大学生[だいがくせい]です。
+  Ich bin Student.
+
+  僕の趣味は読書です。
+  僕[ぼく]の 趣味[しゅみ]は 読書[どくしょ]です。
+  Mein Hobby ist Lesen.
+
+  僕たちは週末に海へ行く予定だ。
+  僕[ぼく]たちは 週末[しゅうまつ]に 海[うみ]へ 行[い]く 予定[よてい]だ。
+  Wir planen am Wochenende ans Meer zu fahren.
+
+  僕の意見を聞いてくれてありがとう。
+  僕[ぼく]の 意見[いけん]を 聞[き]いてくれてありがとう。
+  Danke, dass du meine Meinung anhörst.
+
+  僕は将来エンジニアになりたいんだ。
+  僕[ぼく]は 将来[しょうらい]エンジニアになりたいんだ。
+  Ich möchte in Zukunft Ingenieur werden.
+
+  僕の好きな食べ物はカレーライスです。
+  僕[ぼく]の 好[す]きな 食[た]べ 物[もの]はカレーライスです。
+  Mein Lieblingsessen ist Curry-Reis.
+
+  僕らは同じ高校の出身だよ。
+  僕[ぼく]らは 同[おな]じ 高校[こうこう]の 出身[しゅっしん]だよ。
+  Wir kommen von derselben Highschool.
+
+  僕のことを覚えていますか？
+  僕[ぼく]のことを 覚[おぼ]えていますか？
+  Erinnerst du dich an mich?
+
+  僕が間違っていたら、教えてください。
+  僕[ぼく]が 間違[まちが]っていたら、教[おし]えてください。
+  Bitte sag mir, wenn ich falsch liege.
+
+  僕の部屋は2階にあります。
+  僕[ぼく]の 部屋[へや]は2階[かい]にあります。
+  Mein Zimmer ist im zweiten Stock.
+
+  僕にはできないよ。君がやってくれない？
+  僕[ぼく]にはできないよ。君[きみ]がやってくれない？
+  Das kann ich nicht. Kannst du das nicht machen?
+
+  僕の誕生日は12月15日です。
+  僕[ぼく]の 誕生日[たんじょうび]は12月[がつ]15日[にち]です。
+  Mein Geburtstag ist am 15. Dezember.
+
+  僕はコーヒーよりお茶が好きだ。
+  僕[ぼく]はコーヒーより お茶[ちゃ]が 好[す]きだ。
+  Ich mag Tee lieber als Kaffee.
+
+  僕の夢は世界一周することだ。
+  僕[ぼく]の 夢[ゆめ]は 世界一周[せかいいっしゅう]することだ。
+  Mein Traum ist es, eine Weltreise zu machen.
+
+  僕の名前は太郎です。君は？
+  僕[ぼく]の 名前[なまえ]は 太郎[たろう]です。君[きみ]は？
+  Ich heiße Taro. Und du?
+
+  僕は英語が得意ではありません。
+  僕[ぼく]は 英語[えいご]が 得意[とくい]ではありません。
+  Ich bin nicht gut in Englisch.
+
+  僕の家族は5人家族です。
+  僕[ぼく]の 家族[かぞく]は5人[にん] 家族[かぞく]です。
+  Meine Familie besteht aus fünf Personen.
+
+  僕の携帯番号を教えましょうか？
+  僕[ぼく]の 携帯番号[けいたいばんごう]を 教[おし]えましょうか？
+  Soll ich dir meine Handynummer geben?
+
+  僕、お名前は？
+  僕[ぼく]、お 名前[なまえ]は？
+  Und du, mein Kleiner, wie heißt du?
+
+  僕の好きな季節は春です。
+  僕[ぼく]の 好[す]きな 季節[きせつ]は 春[はる]です。
+  Meine Lieblingsjahreszeit ist der Frühling.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: Männersprache; in der Regel gegenüber Freunden bzw. rangniedrigeren Personen
+  verwendet.

@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>た</span><span class="accent_top">か</span><span>�
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 高くない・高かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼は背が高い。
   彼[かれ]は 背[せ]が 高[たか]い。
   Er ist groß.
+
+  この建物は非常に高いので、エレベーターを使わないと大変です。
+  この 建物[たてもの]は 非常[ひじょう]に 高[たか]いので、エレベーターを 使[つか]わないと 大変[たいへん]です。
+  Dieses Gebäude ist so hoch, dass es sehr anstrengend wäre, ohne Aufzug hinaufzugehen.
+
+  富士山は日本で一番高い山です。
+  富士山[ふじさん]は 日本[にほん]で 一番[いちばん] 高[たか]い 山[やま]です。
+  Der Berg Fuji ist der höchste Berg in Japan.
+
+  彼は高い地位に就いているので、とても忙しいです。
+  彼[かれ]は 高[たか]い 地位[ちい]に 就[つ]いているので、とても 忙[いそが]しいです。
+  Er hat eine hohe Position inne und ist deshalb sehr beschäftigt.
+
+  このプロジェクトは成功する確率が高いと思います。
+  このプロジェクトは 成功[せいこう]する 確率[かくりつ]が 高[たか]いと 思[おも]います。
+  Ich denke, dass dieses Projekt eine hohe Erfolgswahrscheinlichkeit hat.
+
+  この薬は効果が高いので、すぐに症状が改善するはずです。
+  この 薬[くすり]は 効果[こうか]が 高[たか]いので、すぐに 症状[しょうじょう]が 改善[かいぜん]するはずです。
+  Dieses Medikament ist sehr wirksam, daher sollten sich die Symptome schnell verbessern.
+
+  彼女は学歴が高く、有名大学を卒業しています。
+  彼女[かのじょ]は 学歴[がくれき]が 高[たか]く、有名[ゆうめい] 大学[だいがく]を 卒業[そつぎょう]しています。
+  Sie hat einen hohen Bildungsstand und hat eine renommierte Universität abgeschlossen.
+
+  この製品は品質が高いので、長持ちします。
+  この 製品[せいひん]は 品質[ひんしつ]が 高[たか]いので、長持[ながも]ちします。
+  Dieses Produkt ist von hoher Qualität und hält daher lange.
+
+  彼は高い技術を持っているので、会社にとって重要な人材です。
+  彼[かれ]は 高[たか]い 技術[ぎじゅつ]を 持[も]っているので、会社[かいしゃ]にとって 重要[じゅうよう]な 人材[じんざい]です。
+  Er verfügt über hohe technische Fähigkeiten und ist daher eine wichtige Ressource für das Unternehmen.
+
+  夏は気圧が高くなり、晴れの日が多くなります。
+  夏[なつ]は 気圧[きあつ]が 高[たか]くなり、晴[は]れの 日[ひ]が 多[おお]くなります。
+  Im Sommer steigt der Luftdruck und es gibt mehr sonnige Tage.
+
+  熱が高いので、今日は学校を休みます。
+  熱[ねつ]が 高[たか]いので、今日[きょう]は 学校[がっこう]を 休[やす]みます。
+  Da ich hohes Fieber habe, bleibe ich heute der Schule fern.
+
+  彼女は声が高いので、合唱団のソプラノパートを担当しています。
+  彼女[かのじょ]は 声[こえ]が 高[たか]いので、合唱団[がっしょうだん]のソプラノパートを 担当[たんとう]しています。
+  Sie hat eine hohe Stimme und singt daher den Sopranpart im Chor.
+
+  高い声で笑わないでください。図書館では静かにしましょう。
+  高[たか]い 声[こえ]で 笑[わら]わないでください。図書館[としょかん]では 静[しず]かにしましょう。
+  Bitte lachen Sie nicht mit lauter Stimme. In der Bibliothek sollten wir leise sein.
+
+  この商品は値段が高いですが、品質は保証されています。
+  この 商品[しょうひん]は 値段[ねだん]が 高[たか]いですが、品質[ひんしつ]は 保証[ほしょう]されています。
+  Dieses Produkt ist zwar teuer, aber die Qualität ist garantiert.
+
+  東京の家賃は高いので、郊外に住む人も多いです。
+  東京[とうきょう]の 家賃[やちん]は 高[たか]いので、郊外[こうがい]に 住[す]む 人[ひと]も 多[おお]いです。
+  Da die Mieten in Tokio hoch sind, leben viele Menschen in den Vororten.
+
+  このレストランは高級で、料金も高いです。
+  このレストランは 高級[こうきゅう]で、料金[りょうきん]も 高[たか]いです。
+  Dieses Restaurant ist luxuriös und die Preise sind entsprechend hoch.
+
+  彼の給料は高いので、贅沢な生活をしています。
+  彼[かれ]の 給料[きゅうりょう]は 高[たか]いので、贅沢[ぜいたく]な 生活[せいかつ]をしています。
+  Sein Gehalt ist hoch, daher führt er ein luxuriöses Leben.
+
+  消費税が高くなると、生活費も上がってしまいます。
+  消費税[しょうひぜい]が 高[たか]くなると、生活費[せいかつひ]も 上[あ]がってしまいます。
+  Wenn die Mehrwertsteuer steigt, erhöhen sich auch die Lebenshaltungskosten.
+
+  彼女は鼻が高いので、横顔が綺麗です。
+  彼女[かのじょ]は 鼻[はな]が 高[たか]いので、横顔[よこがお]が 綺麗[きれい]です。
+  Sie hat eine hohe Nase, was ihr Profil sehr schön macht.
+
+  枕を高くして寝ると、いびきが軽減されるかもしれません。
+  枕[まくら]を 高[たか]くして 寝[ね]ると、いびきが 軽減[けいげん]されるかもしれません。
+  Wenn man mit einem erhöhten Kopfkissen schläft, kann das möglicherweise das Schnarchen reduzieren.
+
+  彼は頭が高いので、周りの人から尊敬されています。
+  彼[かれ]は 頭[あたま]が 高[たか]いので、周[まわ]りの 人[ひと]から 尊敬[そんけい]されています。
+  Er ist intelligent, daher wird er von den Menschen um ihn herum respektiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

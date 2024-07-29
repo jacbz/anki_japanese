@@ -1,14 +1,14 @@
 Rang: 870
 Lemma: タバコ
 Lesung: たばこ
-Alternativschreibweisen: たばこ・煙草
+Alternativschreibweisen: たばこ・煙草・烟草・莨
 Definition: Zigarette, Tabak
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>た</span><span class="accent_plain">ば</span><span class="accent_plain">こ</span>
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: port. tabaco
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,98 @@ Beispielsätze: |-
   煙草に火をつけた。
   煙草[たばこ]に 火[ひ]をつけた。
   Ich habe eine Zigarette angezündet.
+
+  たばこ畑で働くのは大変な仕事だ。
+  たばこ畑[ばたけ]で 働[はたら]くのは 大変[たいへん]な 仕事[しごと]だ。
+  Auf einer Tabakplantage zu arbeiten ist eine harte Arbeit.
+
+  タバコの花が咲き始めると、秋の訪れを感じます。
+  タバコの 花[はな]が 咲[さ]き 始[はじ]めると、秋[あき]の 訪[おとず]れを 感[かん]じます。
+  Wenn die Tabakblüten zu blühen beginnen, spürt man den Anbruch des Herbstes.
+
+  このタバコ箱は、祖父の形見です。
+  このタバコ 箱[ばこ]は、祖父[そふ]の 形見[かたみ]です。
+  Diese Tabakdose ist ein Andenken an meinen Großvater.
+
+  タバコ代をもらって、コーヒーを買いました。
+  タバコ 代[だい]をもらって、コーヒーを 買[か]いました。
+  Ich habe Zigarettengeld bekommen und mir einen Kaffee gekauft.
+
+  新しいタバコ入れを買ったんだ。見てみる？
+  新[あたら]しいタバコ 入[い]れを 買[か]ったんだ。見[み]てみる？
+  Ich habe mir ein neues Zigarettenetui gekauft. Willst du es mal sehen?
+
+  駅前にタバコ自動販売機があるよ。
+  駅前[えきまえ]にタバコ 自動販売機[じどうはんばいき]があるよ。
+  Vor dem Bahnhof gibt es einen Zigarettenautomaten.
+
+  父はタバコ店を経営している。
+  父[ちち]はタバコ 店[みせ]を 経営[けいえい]している。
+  Mein Vater betreibt ein Tabakgeschäft.
+
+  彼は長年のタバコ喫みで、禁煙が難しいようだ。
+  彼[かれ]は 長年[ながねん]のタバコ 喫[の]みで、禁煙[きんえん]が 難[むずか]しいようだ。
+  Als langjähriger Raucher scheint es ihm schwer zu fallen, mit dem Rauchen aufzuhören.
+
+  タバコ産業は厳しい規制に直面している。
+  タバコ 産業[さんぎょう]は 厳[きび]しい 規制[きせい]に 直面[ちょくめん]している。
+  Die Tabakindustrie sieht sich strengen Regulierungen gegenüber.
+
+  タバコ消費税の値上げが検討されているそうだ。
+  タバコ 消費税[しょうひぜい]の 値上[ねあ]げが 検討[けんとう]されているそうだ。
+  Es heißt, dass eine Erhöhung der Tabakverbrauchssteuer in Erwägung gezogen wird.
+
+  彼はヘビーなタバコ吸いで、一日に2箱は吸う。
+  彼[かれ]はヘビーなタバコ 吸[す]いで、一日[いちにち]に2 箱[はこ]は 吸[す]う。
+  Er ist ein starker Raucher und raucht etwa zwei Schachteln pro Tag.
+
+  このタバコ屋は、珍しい外国産のタバコも扱っている。
+  このタバコ 屋[や]は、珍[めずら]しい 外国産[がいこくさん]のタバコも 扱[あつか]っている。
+  Dieser Tabakladen führt auch seltene ausländische Zigarettenmarken.
+
+  タバコ休みを取るので、少し外に出てきます。
+  タバコ 休[やす]みを 取[と]るので、少[すこ]し 外[そと]に 出[で]てきます。
+  Ich mache eine Rauchpause, also gehe ich kurz nach draußen.
+
+  タバコ税の増税で、喫煙者の数が減少しているらしい。
+  タバコ 税[ぜい]の 増税[ぞうぜい]で、喫煙者[きつえんしゃ]の 数[かず]が 減少[げんしょう]しているらしい。
+  Durch die Erhöhung der Tabaksteuer scheint die Zahl der Raucher zurückzugehen.
+
+  彼はタバコ好きで知られていたが、最近禁煙したそうだ。
+  彼[かれ]はタバコ 好[ず]きで 知[し]られていたが、最近[さいきん] 禁煙[きんえん]したそうだ。
+  Er war als leidenschaftlicher Raucher bekannt, aber anscheinend hat er kürzlich aufgehört.
+
+  フィルターつきタバコを吸う人が増えている。
+  フィルターつきタバコを 吸[す]う 人[ひと]が 増[ふ]えている。
+  Die Zahl der Menschen, die Filterzigaretten rauchen, nimmt zu.
+
+  葉巻タバコの香りが部屋中に漂っている。
+  葉巻[はまき]タバコの 香[かお]りが 部屋中[へやじゅう]に 漂[ただよ]っている。
+  Der Duft von Zigarren schwebt durch den ganzen Raum.
+
+  タバコに火をつけようとしたら、ライターが切れてしまった。
+  タバコに 火[ひ]をつけようとしたら、ライターが 切[き]れてしまった。
+  Als ich mir eine Zigarette anzünden wollte, ging das Feuerzeug aus.
+
+  タバコの灰が服についてしまった。
+  タバコの 灰[はい]が 服[ふく]についてしまった。
+  Zigarettenasche ist auf meine Kleidung gefallen.
+
+  タバコの煙が目に染みる。
+  タバコの 煙[けむり]が 目[め]に 染[し]みる。
+  Der Zigarettenrauch brennt in meinen Augen.
+
+  タバコの吸い殻はきちんと灰皿に捨てましょう。
+  タバコの 吸[す]い 殻[がら]はきちんと 灰皿[はいざら]に 捨[す]てましょう。
+  Bitte werfen Sie Zigarettenstummel ordentlich in den Aschenbecher.
+
+  構内でのおタバコはご遠慮ください。
+  構内[こうない]でのおタバコはご 遠慮[えんりょ]ください。
+  Bitte unterlassen Sie das Rauchen auf dem Gelände.
+
+  煙草を吸って宜しいですか。
+  たばこを 吸[す]って 宜[よろ]しいですか。
+  Darf ich rauchen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

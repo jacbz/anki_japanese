@@ -15,12 +15,91 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   七は完全数です。
-  七は 完全数[かんぜんすう]です。
+  七[なな]は 完全数[かんぜんすう]です。
   Sieben ist die perfekte Zahl.
+
+  七転び八起きの精神で頑張りましょう。
+  七転[ななころ]び 八起[はちお]きの 精神[せいしん]で 頑張[がんば]りましょう。
+  Lasst uns mit dem Geist von "Siebenmal fallen, achtmal aufstehen" unser Bestes geben.
+
+  むなながやと数えると、七は「なな」と読みます。
+  む・な・な・が・やと 数[かぞ]えると、七[なな]は「なな」と 読[よ]みます。
+  Wenn man "mu, na, na, ga, ya" zählt, liest man die Sieben als "nana".
+
+  七色の虹を見て、幸せな気分になりました。
+  七色[なないろ]の 虹[にじ]を 見[み]て、幸[しあわ]せな 気分[きぶん]になりました。
+  Ich fühlte mich glücklich, als ich einen Regenbogen mit sieben Farben sah.
+
+  この建物の七階に新しいオフィスがあります。
+  この 建物[たてもの]の 七階[ななかい]に 新[あたら]しいオフィスがあります。
+  Im siebten Stock dieses Gebäudes befindet sich ein neues Büro.
+
+  十七歳の誕生日おめでとう！
+  十七歳[じゅうななさい]の 誕生日[たんじょうび]おめでとう！
+  Herzlichen Glückwunsch zum siebzehnten Geburtstag!
+
+  七つの海を旅してみたいな。
+  七[なな]つの 海[うみ]を 旅[たび]してみたいな。
+  Ich würde gerne die sieben Weltmeere bereisen.
+
+  彼女は七人兄弟の末っ子です。
+  彼女[かのじょ]は 七人兄弟[しちにんきょうだい]の 末[すえ]っ子[こ]です。
+  Sie ist das jüngste Kind von sieben Geschwistern.
+
+  七五三は日本の大切な子どもの祝い事です。
+  七五三[しちごさん]は 日本[にほん]の 大切[たいせつ]な 子[こ]どもの 祝[いわ]い事[ごと]です。
+  Shichi-Go-San ist eine wichtige Feier für Kinder in Japan.
+
+  この料理には七種類のスパイスが使われています。
+  この 料理[りょうり]には 七種類[ななしゅるい]のスパイスが 使[つか]われています。
+  In diesem Gericht werden sieben verschiedene Gewürze verwendet.
+
+  七夕の日に、願い事を書いた短冊を飾ります。
+  七夕[たなばた]の 日[ひ]に、願[ねが]い事[ごと]を 書[か]いた 短冊[たんざく]を 飾[かざ]ります。
+  Am Tag des Tanabata-Fests hängen wir Wunschzettel auf.
+
+  七日間の休暇をとって、海外旅行に行きます。
+  七日間[なのかかん]の 休暇[きゅうか]をとって、海外旅行[かいがいりょこう]に 行[い]きます。
+  Ich nehme sieben Tage Urlaub und mache eine Auslandsreise.
+
+  この本は七章から構成されています。
+  この 本[ほん]は 七章[ななしょう]から 構成[こうせい]されています。
+  Dieses Buch besteht aus sieben Kapiteln.
+
+  七年前に初めて日本に来ました。
+  七年前[ななねんまえ]に 初[はじ]めて 日本[にほん]に 来[き]ました。
+  Vor sieben Jahren kam ich zum ersten Mal nach Japan.
+
+  七番目の選手が決勝点を決めました。
+  七番目[ななばんめ]の 選手[せんしゅ]が 決勝点[けっしょうてん]を 決[き]めました。
+  Der siebte Spieler erzielte den entscheidenden Punkt.
+
+  七つの習慣を身につけて、成功への道を歩もう。
+  七[なな]つの 習慣[しゅうかん]を 身[み]につけて、成功[せいこう]への 道[みち]を 歩[ある]もう。
+  Lasst uns die sieben Gewohnheiten verinnerlichen und den Weg zum Erfolg beschreiten.
+
+  七面鳥の丸焼きは、感謝祭の定番料理です。
+  七面鳥[しちめんちょう]の 丸焼[まるや]きは、感謝祭[かんしゃさい]の 定番料理[ていばんりょうり]です。
+  Gebratener Truthahn ist ein typisches Gericht beim Erntedankfest.
+
+  七つの大罪について議論する哲学の授業がありました。
+  七[なな]つの 大罪[たいざい]について 議論[ぎろん]する 哲学[てつがく]の 授業[じゅぎょう]がありました。
+  Es gab eine Philosophiestunde, in der wir über die sieben Todsünden diskutierten.
+
+  彼は七つの言語を流暢に話せます。
+  彼[かれ]は 七[なな]つの 言語[げんご]を 流暢[りゅうちょう]に 話[はな]せます。
+  Er kann sieben Sprachen fließend sprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div>Wegen der Verwechslungsgefahr von 一 (いち) und 七 (しち) oft anstelle von しち gebraucht:</div>
+  <div class="examples">
+    <div class="jp">七階[ななかい]まで 階段[かいだん]で 上[のぼ]りましょう。</div>
+    <div class="de spoiler">Lasst uns die Treppe bis zum siebten Stock hinaufgehen.</div>
+    <div class="jp">彼[かれ]は 十七歳[じゅうななさい]の 誕生日[たんじょうび]を 祝[いわ]っている。</div>
+    <div class="de spoiler">Er feiert seinen siebzehnten Geburtstag.</div>
+  </div>

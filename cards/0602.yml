@@ -1,15 +1,15 @@
 Rang: 602
 Lemma: 広い
 Lesung: ひろい
-Alternativschreibweisen: ''
-Definition: weit, breit, groß
+Alternativschreibweisen: 寛い・濶い・弘い
+Definition: weit, breit
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_top">ろ</span><span>い</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 広くない・広かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   なんて広い居間なんでしょう。
   なんて 広[ひろ]い 居間[いま]なんでしょう。
   Was für ein großes Wohnzimmer!
+
+  彼女は広い知識を持っているので、様々な話題について話せます。
+  彼女[かのじょ]は 広[ひろ]い 知識[ちしき]を 持[も]っているので、様々[さまざま]な 話題[わだい]について 話[はな]せます。
+  Sie hat ein breites Wissen und kann über verschiedene Themen sprechen.
+
+  この町は広い道路が多くて、運転しやすいです。
+  この 町[まち]は 広[ひろ]い 道路[どうろ]が 多[おお]くて、運転[うんてん]しやすいです。
+  In dieser Stadt gibt es viele breite Straßen, was das Fahren erleichtert.
+
+  新しい家は広くて快適です。
+  新[あたら]しい 家[いえ]は 広[ひろ]くて 快適[かいてき]です。
+  Das neue Haus ist geräumig und komfortabel.
+
+  この川は広くて、渡るのに橋が必要です。
+  この 川[かわ]は 広[ひろ]くて、渡[わた]るのに 橋[はし]が 必要[ひつよう]です。
+  Dieser Fluss ist so breit, dass man eine Brücke braucht, um ihn zu überqueren.
+
+  広い野原で、子供たちが楽しそうに遊んでいます。
+  広[ひろ]い 野原[のはら]で、子供[こども]たちが 楽[たの]しそうに 遊[あそ]んでいます。
+  Auf dem weiten Feld spielen die Kinder fröhlich.
+
+  最近、広いズボンが流行っています。
+  最近[さいきん]、広[ひろ]いズボンが 流行[はや]っています。
+  Weite Hosen sind in letzter Zeit in Mode.
+
+  このレストランは広く見えるけど、実際はそんなに大きくないんだ。
+  このレストランは 広[ひろ]く 見[み]えるけど、実際[じっさい]はそんなに 大[おお]きくないんだ。
+  Dieses Restaurant sieht zwar groß aus, ist aber in Wirklichkeit gar nicht so geräumig.
+
+  この技術は広く認められているので、多くの企業が採用しています。
+  この 技術[ぎじゅつ]は 広[ひろ]く 認[みと]められているので、多[おお]くの 企業[きぎょう]が 採用[さいよう]しています。
+  Diese Technologie ist weithin anerkannt, daher wird sie von vielen Unternehmen eingesetzt.
+
+  この言葉は広く用いられているため、辞書に載っています。
+  この 言葉[ことば]は 広[ひろ]く 用[もち]いられているため、辞書[じしょ]に 載[の]っています。
+  Dieses Wort findet breite Anwendung und steht daher im Wörterbuch.
+
+  部屋を改装したら、以前より広くなりました。
+  部屋[へや]を 改装[かいそう]したら、以前[いぜん]より 広[ひろ]くなりました。
+  Nach der Renovierung ist das Zimmer größer geworden als zuvor.
+
+  このプロジェクトでは、広く調べる必要があります。
+  このプロジェクトでは、広[ひろ]く 調[しら]べる 必要[ひつよう]があります。
+  Für dieses Projekt müssen wir eine umfangreiche Untersuchung durchführen.
+
+  彼の名前は広く知られているので、誰もが彼を知っています。
+  彼[かれ]の 名前[なまえ]は 広[ひろ]く 知[し]られているので、誰[だれ]もが 彼[かれ]を 知[し]っています。
+  Sein Name ist allgemein bekannt, daher kennt ihn jeder.
+
+  庭を広くするために、古い物置を取り壊しました。
+  庭[にわ]を 広[ひろ]くするために、古[ふる]い 物置[ものおき]を 取[と]り 壊[こわ]しました。
+  Um den Garten zu vergrößern, haben wir den alten Schuppen abgerissen.
+
+  ドアが広く開いているので、涼しい風が入ってきます。
+  ドアが 広[ひろ]く 開[あ]いているので、涼[すず]しい 風[かぜ]が 入[はい]ってきます。
+  Die Tür steht weit offen, sodass eine kühle Brise hereinkommt.
+
+  道路を広くする工事が始まりました。
+  道路[どうろ]を 広[ひろ]くする 工事[こうじ]が 始[はじ]まりました。
+  Die Bauarbeiten zur Verbreiterung der Straße haben begonnen.
+
+  この単語は意味が広いので、文脈によって解釈が変わります。
+  この 単語[たんご]は 意味[いみ]が 広[ひろ]いので、文脈[ぶんみゃく]によって 解釈[かいしゃく]が 変[か]わります。
+  Dieses Wort hat eine weite Bedeutung, daher ändert sich die Interpretation je nach Kontext.
+
+  彼は肩幅が広いので、スーツがよく似合います。
+  彼[かれ]は 肩幅[かたはば]が 広[ひろ]いので、スーツがよく 似合[にあ]います。
+  Er hat breite Schultern, daher steht ihm ein Anzug gut.
+
+  彼女は心が広いので、誰にでも優しく接します。
+  彼女[かのじょ]は 心[こころ]が 広[ひろ]いので、誰[だれ]にでも 優[やさ]しく 接[せっ]します。
+  Sie ist großherzig und geht freundlich mit jedem um.
+
+  金にはなったよ。おかげで広い事務所には引越せたし、人も増えた。
+  金[かね]にはなったよ。おかげで 広[ひろ]い 事務所[じむしょ]には 引越[ひっこ]せたし、人[ひと]も 増[ふ]えた。
+  Und es brachte Geld, ganz recht. Wir konnten in ein größeres Büro ziehen und mehr Leute einstellen.
+
+  照明が半分以下に落とされた広いロビーに人影はなかった。
+  照明[しょうめい]が 半分以下[はんぶんいか]に 落[お]とされた 広[ひろ]いロビーに 人影[ひとかげ]はなかった。
+  Die Nachtbeleuchtung war an, die geräumige Lobby menschenleer.
+
+  この双眼鏡は視角が広くないので、狭い範囲しか見えません。
+  この 双眼鏡[そうがんきょう]は 視角[しかく]が 広[ひろ]くないので、狭[せま]い 範囲[はんい]しか 見[み]えません。
+  Dieses Fernglas hat kein weites Sichtfeld, daher kann man nur einen engen Bereich sehen.
+
+  世間は広いよ、いろんな人生があるんだから。
+  世間[せけん]は 広[ひろ]いよ、いろんな 人生[じんせい]があるんだから。
+  Die Welt ist groß, man kann auch auf andere Weise leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

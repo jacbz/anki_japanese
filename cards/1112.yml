@@ -2,14 +2,14 @@ Rang: 1112
 Lemma: 降る
 Lesung: ふる
 Alternativschreibweisen: ''
-Definition: fallen
+Definition: fallen [vom Himmel]
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">ふ</span><span>る</span>
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 降らない・降った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   雪が静かに降り続いている。
   雪[ゆき]が 静[しず]かに 降[ふ]り 続[つず]いている。
   Der Schnee fällt weiterhin lautlos.
+
+  雨が降っているから傘を持って行った方がいいよ。
+  雨[あめ]が 降[ふ]っているから 傘[かさ]を 持[も]って 行[い]った 方[ほう]がいいよ。
+  Es regnet, also solltest du besser einen Schirm mitnehmen.
+
+  今日は一日中雪が降るそうだ。
+  今日[きょう]は 一日中[いちにちじゅう] 雪[ゆき]が 降[ふ]るそうだ。
+  Es soll heute den ganzen Tag schneien.
+
+  春になると桜の花びらが降るように舞い落ちる。
+  春[はる]になると 桜[さくら]の 花びら[はなびら]が 降[ふ]るように 舞[ま]い 落[お]ちる。
+  Im Frühling fallen die Kirschblütenblätter wie Schnee herab.
+
+  激しく雨が降っているので、外出は控えましょう。
+  激[はげ]しく 雨[あめ]が 降[ふ]っているので、外出[がいしゅつ]は 控[ひか]えましょう。
+  Es regnet heftig, also sollten wir vorerst nicht nach draußen gehen.
+
+  雨に降られて、服がびしょ濡れになってしまった。
+  雨[あめ]に 降[ふ]られて、服[ふく]がびしょ 濡[ぬ]れになってしまった。
+  Ich bin in den Regen gekommen und meine Kleidung ist völlig durchnässt.
+
+  降ったり止んだりの天気が続いている。
+  降[ふ]ったり 止[や]んだりの 天気[てんき]が 続[つづ]いている。
+  Das Wetter wechselt ständig zwischen Regen und Trockenheit.
+
+  昨夜は霰が降って、窓をたたく音で目が覚めた。
+  昨夜[さくや]は 霰[あられ]が 降[ふ]って、窓[まど]をたたく 音[おと]で 目[め]が 覚[さ]めた。
+  Letzte Nacht hat es gehagelt und ich bin vom Geräusch auf dem Fenster aufgewacht.
+
+  火山が噴火して、灰が降っている地域がある。
+  火山[かざん]が 噴火[ふんか]して、灰[はい]が 降[ふ]っている 地域[ちいき]がある。
+  Der Vulkan ist ausgebrochen und es gibt Gebiete, in denen Asche niedergeht.
+
+  星の降るような夜空を見て、みんな感動した。
+  星[ほし]の 降[ふ]るような 夜空[よぞら]を 見[み]て、みんな 感動[かんどう]した。
+  Alle waren beeindruckt vom sternenübersäten Nachthimmel.
+
+  あの人には縁談が降るほどあるらしい。
+  あの 人[ひと]には 縁談[えんだん]が 降[ふ]るほどあるらしい。
+  Es heißt, dass diese Person von Heiratsanträgen überschüttet wird.
+
+  雨が降ると必ず雨の匂いがするね。
+  雨[あめ]が 降[ふ]ると 必[かなら]ず 雨[あめ]の 匂[にお]いがするね。
+  Wenn es regnet, riecht es immer nach Regen, nicht wahr?
+
+  初雪が降ると、子供たちは喜んで外に飛び出す。
+  初雪[はつゆき]が 降[ふ]ると、子供[こども]たちは 喜[よろこ]んで 外[そと]に 飛[と]び 出[だ]す。
+  Wenn der erste Schnee fällt, rennen die Kinder vor Freude nach draußen.
+
+  雨が降ったり止んだりしているから、外出の時間を見計らおう。
+  雨[あめ]が 降[ふ]ったり 止[や]んだりしているから、外出[がいしゅつ]の 時間[じかん]を 見計[みはか]らおう。
+  Da es abwechselnd regnet und aufhört, lasst uns den richtigen Zeitpunkt für den Ausgang abpassen.
+
+  突然の知らせは、まるで降って沸いたように私たちを驚かせた。
+  突然[とつぜん]の 知[し]らせは、まるで 降[ふ]って 沸[わ]いたように 私[わたし]たちを 驚[おどろ]かせた。
+  Die plötzliche Nachricht überraschte uns, als käme sie aus heiterem Himmel.
+
+  雨が降る確率は30%です。
+  雨[あめ]が 降[ふ]る 確率[かくりつ]は30%です。
+  Die Regenwahrscheinlichkeit beträgt 30%.
+
+  雪が降る地域では、冬タイヤの準備が必要だ。
+  雪[ゆき]が 降[ふ]る 地域[ちいき]では、冬[ふゆ]タイヤの 準備[じゅんび]が 必要[ひつよう]だ。
+  In Regionen, wo es schneit, ist die Vorbereitung von Winterreifen notwendig.
+
+  雨が降っても試合は行われる予定です。
+  雨[あめ]が 降[ふ]っても 試合[しあい]は 行[おこな]われる 予定[よてい]です。
+  Das Spiel soll auch bei Regen stattfinden.
+
+  今夜は流れ星が降るように見える夜だそうだ。
+  今夜[こんや]は 流[なが]れ 星[ぼし]が 降[ふ]るように 見[み]える 夜[よる]だそうだ。
+  Man sagt, heute Nacht sollen Sternschnuppen wie ein Regen zu sehen sein.
+
+  雨が降り始めたら、すぐに連絡してください。
+  雨[あめ]が 降[ふ]り 始[はじ]めたら、すぐに 連絡[れんらく]してください。
+  Bitte informieren Sie mich sofort, wenn es anfängt zu regnen.
+
+  昨日は一日中雨が降り続けた。
+  昨日[きのう]は 一日中[いちにちじゅう] 雨[あめ]が 降[ふ]り 続[つづ]けた。
+  Gestern hat es den ganzen Tag ununterbrochen geregnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

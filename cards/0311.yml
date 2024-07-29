@@ -1,15 +1,15 @@
 Rang: 311
 Lemma: 会う
 Lesung: あう
-Alternativschreibweisen: ''
-Definition: (mit jmd.) treffen, sehen
+Alternativschreibweisen: 逢う・遭う・遇う
+Definition: treffen, begegnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span class="accent_top">あ</span><span>う</span>
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 会わない・会った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   昨日、友達と会った。
   昨日[きのう]、 友達[ともだち]と 会[あ]った。
   Ich habe gestern einen Freund getroffen.
+
+  友達と駅で会う約束をしました。
+  友達[ともだち]と 駅[えき]で 会[あ]う 約束[やくそく]をしました。
+  Ich habe mich mit einem Freund verabredet, uns am Bahnhof zu treffen.
+
+  先生に会いに大学へ行きました。
+  先生[せんせい]に 会[あ]いに 大学[だいがく]へ 行[い]きました。
+  Ich bin zur Universität gegangen, um den Professor zu treffen.
+
+  彼女とは去年以来会っていません。
+  彼女[かのじょ]とは 去年[きょねん]以来[いらい] 会[あ]っていません。
+  Ich habe sie seit letztem Jahr nicht mehr getroffen.
+
+  会って話すことで誤解が解けました。
+  会[あ]って 話[はな]すことで 誤解[ごかい]が 解[と]けました。
+  Durch ein persönliches Gespräch konnten wir das Missverständnis klären.
+
+  めったに会わない友人から連絡がありました。
+  めったに 会[あ]わない 友人[ゆうじん]から 連絡[れんらく]がありました。
+  Ich habe eine Nachricht von einem Freund bekommen, den ich nur selten treffe.
+
+  応接間でお客様とお会いしました。
+  応接間[おうせつま]でお 客様[きゃくさま]とお 会[あ]いしました。
+  Ich habe den Gast im Empfangszimmer getroffen.
+
+  今度会ったら、旅行の話をしましょう。
+  今度[こんど] 会[あ]ったら、旅行[りょこう]の 話[はなし]をしましょう。
+  Lass uns beim nächsten Treffen über die Reise sprechen.
+
+  彼に会ったことがありますか。
+  彼[かれ]に 会[あ]ったことがありますか。
+  Hast du ihn schon einmal getroffen?
+
+  久しぶりに会う友人と食事をする予定です。
+  久[ひさ]しぶりに 会[あ]う 友人[ゆうじん]と 食事[しょくじ]をする 予定[よてい]です。
+  Ich habe vor, mit einem Freund zu essen, den ich lange nicht gesehen habe.
+
+  会社の同僚と週末に会って飲みに行きます。
+  会社[かいしゃ]の 同僚[どうりょう]と 週末[しゅうまつ]に 会[あ]って 飲[の]みに 行[い]きます。
+  Am Wochenende treffe ich mich mit Arbeitskollegen zum Trinken.
+
+  彼女と初めて会った時のことを覚えていますか。
+  彼女[かのじょ]と 初[はじ]めて 会[あ]った 時[とき]のことを 覚[おぼ]えていますか。
+  Erinnerst du dich noch an das erste Treffen mit ihr?
+
+  明日、取引先の社長と会う予定です。
+  明日[あした]、取引先[とりひきさき]の 社長[しゃちょう]と 会[あ]う 予定[よてい]です。
+  Morgen habe ich ein Treffen mit dem Geschäftsführer des Partnerunternehmens geplant.
+
+  雨に会って、傘を持っていなかったので濡れてしまいました。
+  雨[あめ]に 会[あ]って、傘[かさ]を 持[も]っていなかったので 濡[ぬ]れてしまいました。
+  Ich wurde vom Regen überrascht und bin nass geworden, weil ich keinen Schirm dabei hatte.
+
+  海外旅行中に思わぬ事故に会いました。
+  海外旅行中[かいがいりょこうちゅう]に 思[おも]わぬ 事故[じこ]に 会[あ]いました。
+  Während meiner Auslandsreise bin ich in einen unerwarteten Unfall geraten.
+
+  困難に会っても諦めずに頑張り続けましょう。
+  困難[こんなん]に 会[あ]っても 諦[あきら]めずに 頑張[がんば]り 続[つづ]けましょう。
+  Lass uns weitermachen und nicht aufgeben, auch wenn wir auf Schwierigkeiten stoßen.
+
+  人生で大きな変化に会うことは避けられません。
+  人生[じんせい]で 大[おお]きな 変化[へんか]に 会[あ]うことは 避[さ]けられません。
+  Es ist unvermeidlich, im Leben große Veränderungen zu erleben.
+
+  危険に会わないよう、常に注意して行動しましょう。
+  危険[きけん]に 会[あ]わないよう、常[つね]に 注意[ちゅうい]して 行動[こうどう]しましょう。
+  Lasst uns stets vorsichtig handeln, um nicht in Gefahr zu geraten.
+
+  新しいプロジェクトで予想外の難局に会いました。
+  新[あたら]しいプロジェクトで 予想外[よそうがい]の 難局[なんきょく]に 会[あ]いました。
+  Bei dem neuen Projekt bin ich in eine unerwartete schwierige Lage geraten.
+
+  彼女に会えて本当に嬉しかったです。
+  彼女[かのじょ]に 会[あ]えて 本当[ほんとう]に 嬉[うれ]しかったです。
+  Ich war wirklich froh, sie treffen zu können.
+
+  会うたびに新しい発見がある友人です。
+  会[あ]うたびに 新[あたら]しい 発見[はっけん]がある 友人[ゆうじん]です。
+  Er ist ein Freund, bei dem ich jedes Mal, wenn wir uns treffen, etwas Neues entdecke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,7 +1,7 @@
 Rang: 814
 Lemma: 止める
 Lesung: とめる
-Alternativschreibweisen: ''
+Alternativschreibweisen: 留める・停める
 Definition: anhalten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>と</span><span class="accent_plain">め</span><span 
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 止めない・止めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   あのビルの前で止めてください。
   あのビルの 前[まえ]で 止[と]めてください。
   Bitte halten Sie vor diesem Gebäude an.
+
+  車を運転中、赤信号で止めるのを忘れないでください。
+  車[くるま]を 運転中[うんてんちゅう]、赤信号[あかしんごう]で 止[と]めるのを 忘[わす]れないでください。
+  Vergessen Sie nicht, beim Autofahren an einer roten Ampel anzuhalten.
+
+  エスカレーターが突然止まったので、係員が止めたのだと思いました。
+  エスカレーターが 突然[とつぜん] 止[と]まったので、係員[かかりいん]が 止[と]めたのだと 思[おも]いました。
+  Als die Rolltreppe plötzlich anhielt, dachte ich, ein Angestellter hätte sie abgestellt.
+
+  ガス漏れの危険があるので、すぐにガスの元栓を止めてください。
+  ガス 漏[も]れの 危険[きけん]があるので、すぐにガスの 元栓[もとせん]を 止[と]めてください。
+  Da Gefahr eines Gaslecks besteht, stellen Sie bitte sofort den Hauptgashahn ab.
+
+  医者は出血を止めるために、傷口を圧迫しました。
+  医者[いしゃ]は 出血[しゅっけつ]を 止[と]めるために、傷口[きずぐち]を 圧迫[あっぱく]しました。
+  Um die Blutung zu stoppen, übte der Arzt Druck auf die Wunde aus.
+
+  赤ちゃんが泣き止まないので、母親はなだめるのに苦労しています。
+  赤[あか]ちゃんが 泣[な]き 止[や]まないので、母親[ははおや]はなだめるのに 苦労[くろう]しています。
+  Da das Baby nicht aufhört zu weinen, hat die Mutter Mühe, es zu beruhigen.
+
+  彼女は怒りを止められず、机を叩いてしまいました。
+  彼女[かのじょ]は 怒[いか]りを 止[と]められず、机[つくえ]を 叩[たた]いてしまいました。
+  Sie konnte ihren Zorn nicht zügeln und schlug auf den Tisch.
+
+  息を止めて水中を泳ぐのは危険なので、やめましょう。
+  息[いき]を 止[と]めて 水中[すいちゅう]を 泳[およ]ぐのは 危険[きけん]なので、やめましょう。
+  Lass uns aufhören, unter Wasser mit angehaltenem Atem zu schwimmen, da es gefährlich ist.
+
+  彼らの喧嘩を止めようとしましたが、誰も聞く耳を持ちませんでした。
+  彼[かれ]らの 喧嘩[けんか]を 止[と]めようとしましたが、誰[だれ]も 聞[き]く 耳[みみ]を 持[も]ちませんでした。
+  Ich versuchte, ihren Streit zu schlichten, aber niemand wollte mir zuhören.
+
+  親は子供の留学を止めようとしましたが、結局認めざるを得ませんでした。
+  親[おや]は 子供[こども]の 留学[りゅうがく]を 止[と]めようとしましたが、結局[けっきょく] 認[みと]めざるを 得[え]ませんでした。
+  Die Eltern versuchten, ihr Kind vom Auslandsstudium abzuhalten, mussten es aber schließlich akzeptieren.
+
+  この重要な書類をクリップで留めて、失くさないようにしてください。
+  この 重要[じゅうよう]な 書類[しょるい]をクリップで 留[と]めて、失[な]くさないようにしてください。
+  Bitte heften Sie diese wichtigen Dokumente mit einer Klammer zusammen, damit sie nicht verloren gehen.
+
+  髪を後ろで束ねて、ピンで留めました。
+  髪[かみ]を 後[うし]ろで 束[たば]ねて、ピンで 留[と]めました。
+  Ich band meine Haare nach hinten und befestigte sie mit einer Haarnadel.
+
+  船長は嵐の中で船を岸に留めるのに苦労しました。
+  船長[せんちょう]は 嵐[あらし]の 中[なか]で 船[ふね]を 岸[きし]に 留[と]めるのに 苦労[くろう]しました。
+  Der Kapitän hatte Mühe, das Schiff während des Sturms am Ufer festzumachen.
+
+  彼女の笑顔を記憶に留めておきたいと思います。
+  彼女[かのじょ]の 笑顔[えがお]を 記憶[きおく]に 留[と]めておきたいと 思[おも]います。
+  Ich möchte ihr Lächeln in meiner Erinnerung bewahren.
+
+  警察は容疑者を留めて、さらに詳しい事情を聞きました。
+  警察[けいさつ]は 容疑者[ようぎしゃ]を 留[と]めて、さらに 詳[くわ]しい 事情[じじょう]を 聞[き]きました。
+  Die Polizei hielt den Verdächtigen fest und befragte ihn zu weiteren Details.
+
+  彼は友人を家に泊めることにしました。
+  彼[かれ]は 友人[ゆうじん]を 家[いえ]に 泊[と]めることにしました。
+  Er beschloss, seinen Freund bei sich zu Hause übernachten zu lassen.
+
+  この絵画の美しさに目を留めずにはいられません。
+  この 絵画[かいが]の 美[うつく]しさに 目[め]を 留[と]めずにはいられません。
+  Ich kann nicht umhin, die Schönheit dieses Gemäldes zu bewundern.
+
+  彼女は耳を澄まして、遠くの音に注意を留めました。
+  彼女[かのじょ]は 耳[みみ]を 澄[す]まして、遠[とお]くの 音[おと]に 注意[ちゅうい]を 留[と]めました。
+  Sie spitzte die Ohren und richtete ihre Aufmerksamkeit auf die fernen Geräusche.
+
+  運転中はスマートフォンの使用を止めましょう。
+  運転中[うんてんちゅう]はスマートフォンの 使用[しよう]を 止[と]めましょう。
+  Lassen Sie uns während der Fahrt die Benutzung von Smartphones unterlassen.
+
+  医師は患者に喫煙を止めるよう強く勧めました。
+  医師[いし]は 患者[かんじゃ]に 喫煙[きつえん]を 止[と]めるよう 強[つよ]く 勧[すす]めました。
+  Der Arzt riet dem Patienten nachdrücklich, mit dem Rauchen aufzuhören.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

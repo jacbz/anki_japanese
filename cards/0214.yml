@@ -1,7 +1,7 @@
 Rang: 214
 Lemma: 住む
 Lesung: すむ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 棲む
 Definition: wohnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span class="accent_top">す</span><span>む</span>
 Register: ''
 Dispersion: '75'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 住まない・住んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   私は東京に住んでいる。
   私[わたし]は 東京[とうきょう]に 住[す]んでいる。
   Ich wohne in Tokio.
+
+  田舎に住んでいると、自然を身近に感じられます。
+  田舎[いなか]に 住[す]んでいると、自然[しぜん]を 身近[みぢか]に 感[かん]じられます。
+  Wenn man auf dem Land wohnt, kann man die Natur hautnah erleben.
+
+  同じ家に住むことで、家族の絆が深まります。
+  同[おな]じ 家[いえ]に 住[す]むことで、家族[かぞく]の 絆[きずな]が 深[ふか]まります。
+  Durch das Zusammenleben im selben Haus wird die familiäre Bindung gestärkt.
+
+  大学の近くに住むと、通学が楽になりますね。
+  大学[だいがく]の 近[ちか]くに 住[す]むと、通学[つうがく]が 楽[らく]になりますね。
+  Wenn man in der Nähe der Universität wohnt, wird der Schulweg einfacher, nicht wahr?
+
+  友達と一緒に住むのは楽しいけど、大変なこともあるよ。
+  友達[ともだち]と 一緒[いっしょ]に 住[す]むのは 楽[たの]しいけど、大変[たいへん]なこともあるよ。
+  Mit Freunden zusammenzuwohnen macht Spaß, kann aber auch anstrengend sein.
+
+  仕事の都合で、家族と別々に住んでいます。
+  仕事[しごと]の 都合[つごう]で、家族[かぞく]と 別々[べつべつ]に 住[す]んでいます。
+  Aufgrund der Arbeit wohne ich getrennt von meiner Familie.
+
+  住む家がないホームレスの人々を支援する活動に参加しています。
+  住[す]む 家[いえ]がないホームレスの 人々[ひとびと]を 支援[しえん]する 活動[かつどう]に 参加[さんか]しています。
+  Ich beteilige mich an Aktivitäten zur Unterstützung obdachloser Menschen, die keine Wohnung haben.
+
+  海に住む動物の生態を研究しています。
+  海[うみ]に 住[す]む 動物[どうぶつ]の 生態[せいたい]を 研究[けんきゅう]しています。
+  Ich erforsche die Ökologie von Tieren, die im Meer leben.
+
+  この古い城にはお化けが住んでいるという噂があります。
+  この 古[ふる]い 城[しろ]にはお 化[ば]けが 住[す]んでいるという 噂[うわさ]があります。
+  Es gibt das Gerücht, dass in dieser alten Burg Geister hausen.
+
+  新しい街に住むようになって、生活が一変しました。
+  新[あたら]しい 街[まち]に 住[す]むようになって、生活[せいかつ]が 一変[いっぺん]しました。
+  Seitdem ich in einer neuen Stadt wohne, hat sich mein Leben komplett verändert.
+
+  経済的な理由で、実家に住むことにしました。
+  経済的[けいざいてき]な 理由[りゆう]で、実家[じっか]に 住[す]むことにしました。
+  Aus finanziellen Gründen habe ich beschlossen, im Elternhaus zu wohnen.
+
+  ウィリアム王子は普通の学生寮に住んでいるそうです。
+  ウィリアム 王子[おうじ]は 普通[ふつう]の 学生寮[がくせいりょう]に 住[す]んでいるそうです。
+  Es heißt, Prinz William wohne in einem gewöhnlichen Studentenwohnheim.
+
+  長年一緒に住んだパートナーと別れるのは辛いですね。
+  長年[ながねん] 一緒[いっしょ]に 住[す]んだパートナーと 別[わか]れるのは 辛[つら]いですね。
+  Es ist schwer, sich von einem Partner zu trennen, mit dem man viele Jahre zusammengelebt hat.
+
+  日本に住む外国人の権利について議論が行われています。
+  日本[にほん]に 住[す]む 外国人[がいこくじん]の 権利[けんり]について 議論[ぎろん]が 行[おこな]われています。
+  Es finden Diskussionen über die Rechte von in Japan lebenden Ausländern statt.
+
+  この町には悪魔が住んでいるという都市伝説があります。
+  この 町[まち]には 悪魔[あくま]が 住[す]んでいるという 都市伝説[としでんせつ]があります。
+  Es gibt eine urbane Legende, dass in dieser Stadt der Teufel haust.
+
+  アパートに住むより、マイホームを持ちたいと思っています。
+  アパートに 住[す]むより、マイホームを 持[も]ちたいと 思[おも]っています。
+  Ich möchte lieber ein eigenes Haus besitzen, als in einer Mietwohnung zu wohnen.
+
+  祖父母と同居して住むのは、日本の伝統的な家族形態です。
+  祖父母[そふぼ]と 同居[どうきょ]して 住[す]むのは、日本[にほん]の 伝統的[でんとうてき]な 家族形態[かぞくけいたい]です。
+  Mit den Großeltern zusammen zu wohnen, ist eine traditionelle japanische Familienstruktur.
+
+  この地域に住む人々の生活様式を調査しています。
+  この 地域[ちいき]に 住[す]む 人々[ひとびと]の 生活様式[せいかつようしき]を 調査[ちょうさ]しています。
+  Ich untersuche die Lebensweise der Menschen, die in dieser Region wohnen.
+
+  都会に住むのと田舎に住むのとでは、どちらが好きですか？
+  都会[とかい]に 住[す]むのと 田舎[いなか]に 住[す]むのとでは、どちらが 好[す]きですか？
+  Was magst du lieber: in der Stadt oder auf dem Land zu wohnen?
+
+  住む場所によって、人生が大きく変わることもありますよ。
+  住[す]む 場所[ばしょ]によって、人生[じんせい]が 大[おお]きく 変[か]わることもありますよ。
+  Je nachdem, wo man wohnt, kann sich das Leben stark verändern.
+
+  どこに住んでも、その場所を愛することが大切だと思います。
+  どこに 住[す]んでも、その 場所[ばしょ]を 愛[あい]することが 大切[たいせつ]だと 思[おも]います。
+  Ich denke, es ist wichtig, den Ort zu lieben, an dem man wohnt, egal wo das ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
