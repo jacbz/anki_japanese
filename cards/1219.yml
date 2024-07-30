@@ -2,13 +2,13 @@ Rang: 1219
 Lemma: トイレ
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Toilette, Badezimmer
+Definition: Toilette
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">と</span><span>い</span><span>れ</span>
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. toilet
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,91 @@ Konjugation: ''
 Beispielsätze: |-
   トイレはどちらでしょうか。
   トイレはどちらでしょうか。
-  Könnten Sie mir sagen, wo das Badezimmer ist?
+  Wo ist die Toilette bitte?
+
+  男性用トイレは左側、女性用トイレは右側です。
+  男性用[だんせいよう]トイレは 左側[ひだりがわ]、女性用[じょせいよう]トイレは 右側[みぎがわ]です。
+  Die Herrentoilette ist links, die Damentoilette rechts.
+
+  このバスにはトイレ付きですね。
+  このバスにはトイレ 付[つ]きですね。
+  Dieser Bus hat eine Toilette, nicht wahr?
+
+  トイレ休憩を取りましょう。
+  トイレ 休憩[きゅうけい]を 取[と]りましょう。
+  Lass uns eine Toilettenpause machen.
+
+  トイレ掃除は誰の担当ですか。
+  トイレ 掃除[そうじ]は 誰[だれ]の 担当[たんとう]ですか。
+  Wer ist für die Toilettenreinigung zuständig?
+
+  トイレに入る時はスリッパに履き替えてください。
+  トイレに 入[はい]る 時[とき]はスリッパに 履[は]き 替[か]えてください。
+  Bitte wechseln Sie die Schuhe gegen Pantoffeln, wenn Sie die Toilette betreten.
+
+  子供のトイレトレーニングには時間がかかります。
+  子供[こども]のトイレトレーニングには 時間[じかん]がかかります。
+  Das Toilettentraining von Kindern braucht Zeit.
+
+  この建物の1階に水洗トイレがあります。
+  この 建物[たてもの]の1階[いっかい]に 水洗[すいせん]トイレがあります。
+  Im Erdgeschoss dieses Gebäudes gibt es ein Washlet.
+
+  和式トイレの使い方を知っていますか。
+  和式[わしき]トイレの 使[つか]い 方[かた]を 知[し]っていますか。
+  Wissen Sie, wie man eine japanische Hocktoilette benutzt?
+
+  洋式トイレの方が使いやすいです。
+  洋式[ようしき]トイレの 方[ほう]が 使[つか]いやすいです。
+  Westliche Sitztoiletten sind einfacher zu benutzen.
+
+  この駅の有料トイレは清潔でおすすめです。
+  この 駅[えき]の 有料[ゆうりょう]トイレは 清潔[せいけつ]でおすすめです。
+  Die gebührenpflichtigen Toiletten in diesem Bahnhof sind sauber und empfehlenswert.
+
+  最近、トイレが近くて困っています。
+  最近[さいきん]、トイレが 近[ちか]くて 困[こま]っています。
+  In letzter Zeit muss ich oft zur Toilette gehen, was mich stört.
+
+  彼はいつもトイレが長くて、みんな待たされます。
+  彼[かれ]はいつもトイレが 長[なが]くて、みんな 待[ま]たされます。
+  Er braucht immer lange auf der Toilette und lässt alle warten.
+
+  すみません、このトイレは使用中ですか。
+  すみません、このトイレは 使用中[しようちゅう]ですか。
+  Entschuldigung, ist diese Toilette besetzt?
+
+  あそこのトイレが空いているようです。
+  あそこのトイレが 空[あ]いているようです。
+  Die Toilette dort drüben scheint frei zu sein.
+
+  ちょっとトイレに行ってきます。
+  ちょっとトイレに 行[い]ってきます。
+  Ich gehe kurz zur Toilette.
+
+  トイレに行きたいんですが、近くにありますか。
+  トイレに 行[い]きたいんですが、近[ちか]くにありますか。
+  Ich müsste zur Toilette gehen. Gibt es eine in der Nähe?
+
+  トイレットペーパーをトイレに流さないでください。
+  トイレットペーパーをトイレに 流[なが]さないでください。
+  Bitte werfen Sie das Toilettenpapier nicht in die Toilette.
+
+  トイレの回数が少ないのは脱水症状のサインかもしれません。
+  トイレの 回数[かいすう]が 少[すく]ないのは 脱水症状[だっすいしょうじょう]のサインかもしれません。
+  Seltene Toilettengänge können ein Zeichen für Dehydrierung sein.
+
+  トイレを使った後は必ず流してください。
+  トイレを 使[つか]った 後[あと]は 必[かなら]ず 流[なが]してください。
+  Bitte betätigen Sie nach Benutzung der Toilette unbedingt die Spülung.
+
+  申し訳ありませんが、トイレを借りてもいいですか。
+  申[もう]し 訳[わけ]ありませんが、トイレを 借[か]りてもいいですか。
+  Entschuldigung, dürfte ich Ihre Toilette benutzen?
+
+  ただ、夜中にトイレに行きたくならないように夕食後は水分を控えた方がいい。
+  ただ、夜中[やちゅう]にトイレに 行[い]きたくならないように 夕食後[ゆうしょくご]は 水分[すいぶん]を 控[ひか]えた 方[ほう]がいい。
+  Um nachts nicht zur Toilette gehen zu müssen, sollte man nach dem Abendessen weniger Flüssigkeit zu sich nehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

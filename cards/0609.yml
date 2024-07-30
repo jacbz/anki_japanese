@@ -2,7 +2,7 @@ Rang: 609
 Lemma: のみ
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: nur, lediglich
+Definition: nur, allein; lediglich
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
 Lesung mit Tonhöhe: ''
@@ -17,6 +17,98 @@ Beispielsätze: |-
   彼のみが知っている。
   彼[かれ]のみが 知[し]っている。
   Nur er weiß es.
+
+  財布の中には小銭と数枚の千円札のみ。
+  財布[さいふ]の 中[なか]には 小銭[こぜに]と 数枚[すうまい]の 千円札[せんえんさつ]のみ。
+  Im Portemonnaie waren nur noch ein paar Tausend-Yen-Scheine und etwas Kleingeld.
+
+  彼女は日本語のみを話す。
+  彼女[かのじょ]は 日本語[にほんご]のみを 話[はな]す。
+  Sie spricht nur Japanisch.
+
+  この商品は公式サイトでのみ購入可能です。
+  この 商品[しょうひん]は 公式[こうしき]サイトでのみ 購入[こうにゅう] 可能[かのう]です。
+  Dieses Produkt kann nur über die offizielle Website gekauft werden.
+
+  会議には関係者のみが参加できます。
+  会議[かいぎ]には 関係者[かんけいしゃ]のみが 参加[さんか]できます。
+  An der Besprechung können nur Beteiligte teilnehmen.
+
+  この問題は時間のみが解決してくれるだろう。
+  この 問題[もんだい]は 時間[じかん]のみが 解決[かいけつ]してくれるだろう。
+  Nur die Zeit wird dieses Problem lösen können.
+
+  彼はコーヒーのみを飲む。
+  彼[かれ]はコーヒーのみを 飲[の]む。
+  Er trinkt nur Kaffee.
+
+  その情報は一部の人のみに共有されている。
+  その 情報[じょうほう]は 一部[いちぶ]の 人[ひと]のみに 共有[きょうゆう]されている。
+  Diese Information wird nur mit einigen wenigen Personen geteilt.
+
+  この薬は医師の処方箋のみで入手可能です。
+  この 薬[くすり]は 医師[いし]の 処方箋[しょほうせん]のみで 入手[にゅうしゅ] 可能[かのう]です。
+  Dieses Medikament ist nur mit einem ärztlichen Rezept erhältlich.
+
+  彼女は自分の仕事のみに集中している。
+  彼女[かのじょ]は 自分[じぶん]の 仕事[しごと]のみに 集中[しゅうちゅう]している。
+  Sie konzentriert sich ausschließlich auf ihre Arbeit.
+
+  このサービスは会員のみが利用できます。
+  このサービスは 会員[かいいん]のみが 利用[りよう]できます。
+  Dieser Service kann nur von Mitgliedern genutzt werden.
+
+  彼は家族のみに真実を話した。
+  彼[かれ]は 家族[かぞく]のみに 真実[しんじつ]を 話[はな]した。
+  Er hat die Wahrheit nur seiner Familie erzählt.
+
+  この問題は専門家のみが解決できる。
+  この 問題[もんだい]は 専門家[せんもんか]のみが 解決[かいけつ]できる。
+  Dieses Problem kann nur von Experten gelöst werden.
+
+  彼女は週末のみ働いている。
+  彼女[かのじょ]は 週末[しゅうまつ]のみ 働[はたら]いている。
+  Sie arbeitet nur an Wochenenden.
+
+  この建物は従業員のみ立ち入り可能です。
+  この 建物[たてもの]は 従業員[じゅうぎょういん]のみ 立[た]ち 入[い]り 可能[かのう]です。
+  Dieses Gebäude ist nur für Mitarbeiter zugänglich.
+
+  彼は野菜のみの食事を続けている。
+  彼[かれ]は 野菜[やさい]のみの 食事[しょくじ]を 続[つづ]けている。
+  Er setzt seine Ernährung fort, die nur aus Gemüse besteht.
+
+  この情報は社内のみで共有してください。
+  この 情報[じょうほう]は 社内[しゃない]のみで 共有[きょうゆう]してください。
+  Bitte teilen Sie diese Information nur innerhalb des Unternehmens.
+
+  彼女は音楽のみを生きがいにしている。
+  彼女[かのじょ]は 音楽[おんがく]のみを 生[い]きがいにしている。
+  Musik ist ihr einziger Lebensinhalt.
+
+  この資料は閲覧のみ可能です。コピーは禁止されています。
+  この 資料[しりょう]は 閲覧[えつらん]のみ 可能[かのう]です。コピーは 禁止[きんし]されています。
+  Diese Unterlagen können nur eingesehen werden. Kopieren ist verboten.
+
+  彼は自分の意見のみを正しいと思っている。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]のみを 正[ただ]しいと 思[おも]っている。
+  Er hält nur seine eigene Meinung für richtig.
+
+  この商品は数量限定のみの販売です。
+  この 商品[しょうひん]は 数量限定[すうりょうげんてい]のみの 販売[はんばい]です。
+  Dieses Produkt wird nur in begrenzter Stückzahl verkauft.
+
+  それを友達に話さないのみか、相手の女にすらも話さないらしい。
+  それを 友達[ともだち]に 話[はな]さないのみか、相手[あいて]の 女[おんな]にすらも 話[はな]さないらしい。
+  Er scheint es nicht nur seinen Freunden nicht zu erzählen, sondern nicht einmal dem Mädchen selbst.
+
+  後は待つのみです。
+  後[あと]は 待[ま]つのみです。
+  Jetzt heißt es nur noch warten.
+
+  この問題は時間のみが解決してくれるでしょう。
+  この 問題[もんだい]は 時間[じかん]のみが 解決[かいけつ]してくれるでしょう。
+  Nur die Zeit wird dieses Problem lösen können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

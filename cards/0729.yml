@@ -2,13 +2,13 @@ Rang: 729
 Lemma: ニュース
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Nachrichten
+Definition: Nachrichten; Neuigkeit
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">にゅ</span><span>ー</span><span>す</span>
 Register: ''
 Dispersion: '78'
-Ursprung: ''
+Ursprung: engl. news
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,106 @@ Beispielsätze: |-
   テレビでニュースを聞いた。
   テレビでニュースを 聞[き]いた。
   Ich habe die Nachrichten im Fernsehen gehört.
+
+  今日のニュース番組では大きな事件が報道されました。
+  今日[きょう]のニュース 番組[ばんぐみ]では 大[おお]きな 事件[じけん]が 報道[ほうどう]されました。
+  In der heutigen Nachrichtensendung wurde über ein großes Ereignis berichtet.
+
+  この事件はニュースバリューが高く、多くのメディアが取り上げています。
+  この 事件[じけん]はニュースバリューが 高[たか]く、多[おお]くのメディアが 取[と]り 上[あ]げています。
+  Diese Angelegenheit hat einen hohen Nachrichtenwert und wird von vielen Medien aufgegriffen.
+
+  ニュースデスクは忙しく、次々と入ってくる情報を処理しています。
+  ニュースデスクは 忙[いそが]しく、次々[つぎつぎ]と 入[はい]ってくる 情報[じょうほう]を 処理[しょり]しています。
+  Die Nachrichtenredaktion ist geschäftig und verarbeitet die eingehenden Informationen nacheinander.
+
+  彼女はニュースエディターとして働いています。
+  彼女[かのじょ]はニュースエディターとして 働[はたら]いています。
+  Sie arbeitet als Nachrichtenredakteurin.
+
+  戦後、ニュース映画は重要な情報源でした。
+  戦後[せんご]、ニュース 映画[えいが]は 重要[じゅうよう]な 情報源[じょうほうげん]でした。
+  Nach dem Krieg waren Wochenschauen eine wichtige Informationsquelle.
+
+  このニュースエージェンシーは世界中にネットワークを持っています。
+  このニュースエージェンシーは 世界中[せかいじゅう]にネットワークを 持[も]っています。
+  Diese Nachrichtenagentur hat ein weltweites Netzwerk.
+
+  インターネットのニュースグループで最新情報を交換しています。
+  インターネットのニュースグループで 最新[さいしん] 情報[じょうほう]を 交換[こうかん]しています。
+  Wir tauschen die neuesten Informationen in einer Internet-Newsgroup aus.
+
+  ニュース放送が突然中断されました。何か重大なことが起きたのでしょうか。
+  ニュース 放送[ほうそう]が 突然[とつぜん] 中断[ちゅうだん]されました。何[なに]か 重大[じゅうだい]なことが 起[お]きたのでしょうか。
+  Die Nachrichtenübertragung wurde plötzlich unterbrochen. Ist wohl etwas Ernstes passiert?
+
+  彼はニュースカメラマンとして戦地に赴きました。
+  彼[かれ]はニュースカメラマンとして 戦地[せんち]に 赴[おもむ]きました。
+  Er ging als Pressefotograf in das Kriegsgebiet.
+
+  政府はその事件についてニュース管制を敷いています。
+  政府[せいふ]はその 事件[じけん]についてニュース 管制[かんせい]を 敷[し]いています。
+  Die Regierung hat eine Nachrichtensperre über diesen Vorfall verhängt.
+
+  この新聞のニュース記事は常に公平で信頼できます。
+  この 新聞[しんぶん]のニュース 記事[きじ]は 常[つね]に 公平[こうへい]で 信頼[しんらい]できます。
+  Die Zeitungsartikel dieser Zeitung sind immer fair und vertrauenswürdig.
+
+  彼女は人気のあるニュースキャスターです。
+  彼女[かのじょ]は 人気[にんき]のあるニュースキャスターです。
+  Sie ist eine beliebte Nachrichtensprecherin.
+
+  このニュースマガジンは毎週興味深い特集を組んでいます。
+  このニュースマガジンは 毎週[まいしゅう] 興味深[きょうみぶか]い 特集[とくしゅう]を 組[く]んでいます。
+  Dieses Nachrichtenmagazin bringt jede Woche interessante Sonderberichte.
+
+  彼はベテランのニュースマンとして知られています。
+  彼[かれ]はベテランのニュースマンとして 知[し]られています。
+  Er ist als erfahrener Journalist bekannt.
+
+  会社は新製品についてニュースリリースを発表しました。
+  会社[かいしゃ]は 新[しん] 製品[せいひん]についてニュースリリースを 発表[はっぴょう]しました。
+  Das Unternehmen gab eine Pressemitteilung über sein neues Produkt heraus.
+
+  このニュース専門放送局は24時間体制で情報を提供しています。
+  このニュース 専門[せんもん] 放送局[ほうそうきょく]は24 時間[じかん] 体制[たいせい]で 情報[じょうほう]を 提供[ていきょう]しています。
+  Dieser reine Nachrichtensender bietet rund um die Uhr Informationen an.
+
+  緊急ニュース速報が画面に表示されました。
+  緊急[きんきゅう]ニュース 速報[そくほう]が 画面[がめん]に 表示[ひょうじ]されました。
+  Eine Eilmeldung wurde auf dem Bildschirm eingeblendet.
+
+  彼らは信頼できるニュースソースから情報を得ています。
+  彼[かれ]らは 信頼[しんらい]できるニュースソースから 情報[じょうほう]を 得[え]ています。
+  Sie erhalten Informationen aus zuverlässigen Nachrichtenquellen.
+
+  駅前のニューススタンドで最新の新聞を買いました。
+  駅前[えきまえ]のニューススタンドで 最新[さいしん]の 新聞[しんぶん]を 買[か]いました。
+  Ich kaufte die neueste Zeitung am Zeitungsstand vor dem Bahnhof.
+
+  海外ニュースでは最近の国際情勢が報じられています。
+  海外[かいがい]ニュースでは 最近[さいきん]の 国際[こくさい] 情勢[じょうせい]が 報[ほう]じられています。
+  In den Auslandsnachrichten wird über die jüngsten internationalen Entwicklungen berichtet.
+
+  彼の功績がニュースに取り上げられました。
+  彼[かれ]の 功績[こうせき]がニュースに 取[と]り 上[あ]げられました。
+  Seine Leistungen wurden in den Nachrichten erwähnt.
+
+  ニュースの概要を聞いて、今日の出来事を把握しました。
+  ニュースの 概要[がいよう]を 聞[き]いて、今日[きょう]の 出来事[できごと]を 把握[はあく]しました。
+  Ich hörte mir die Nachrichtenübersicht an und erfasste die heutigen Ereignisse.
+
+  テレビ局はニュースを放送する準備をしています。
+  テレビ局[きょく]はニュースを 放送[ほうそう]する 準備[じゅんび]をしています。
+  Der Fernsehsender bereitet sich darauf vor, die Nachrichten zu senden.
+
+  ラジオがニュースを伝えている間、私たちは静かに耳を傾けました。
+  ラジオがニュースを 伝[つた]えている 間[あいだ]、私[わたし]たちは 静[しず]かに 耳[みみ]を 傾[かたむ]けました。
+  Während das Radio die Nachrichten übertrug, hörten wir aufmerksam zu.
+
+  今朝の明るいニュースで、一日の始まりが良くなりました。
+  今朝[けさ]の 明[あか]るいニュースで、一日[いちにち]の 始[はじ]まりが 良[よ]くなりました。
+  Die guten Nachrichten heute Morgen haben meinen Tagesbeginn verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

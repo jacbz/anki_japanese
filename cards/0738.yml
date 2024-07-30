@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">こ</span><span 
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 聞こえない・聞こえた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   友達が私を呼んでいるのが聞こえた。
   友達[ともだち]が 私[わたし]を 呼[よ]んでいるのが 聞[き]こえた。
   Ich hörte meinen Freund mich rufen.
+
+  この部屋は防音がよくて、外の騒音が全然聞こえないんだ。
+  この 部屋[へや]は 防音[ぼうおん]がよくて、外[そと]の 騒音[そうおん]が 全然[ぜんぜん] 聞[き]こえないんだ。
+  Dieses Zimmer ist so gut schallisoliert, dass man überhaupt keinen Lärm von draußen hört.
+
+  隣の部屋から話し声が聞こえている。
+  隣[となり]の 部屋[へや]から 話し声[はなしごえ]が 聞[き]こえている。
+  Man kann Stimmen aus dem Nebenzimmer hören.
+
+  彼女の声は遠くまで聞こえるほど大きかった。
+  彼女[かのじょ]の 声[こえ]は 遠[とお]くまで 聞[き]こえるほど 大[おお]きかった。
+  Ihre Stimme war so laut, dass man sie weit hören konnte.
+
+  波の音が聞こえてくると、心が落ち着きます。
+  波[なみ]の 音[おと]が 聞[き]こえてくると、心[こころ]が 落[お]ち 着[つ]きます。
+  Wenn ich das Rauschen der Wellen höre, beruhigt sich mein Gemüt.
+
+  ドイツ語の聞こえる環境に身を置くことで、リスニング力が上がるでしょう。
+  ドイツ語[どいつご]の 聞[き]こえる 環境[かんきょう]に 身[み]を 置[お]くことで、リスニング力[りょく]が 上[あ]がるでしょう。
+  Indem man sich in eine Umgebung begibt, in der man Deutsch hört, wird sich die Hörverständnisfähigkeit verbessern.
+
+  東京FMの聞こえる地域に引っ越したいな。
+  東京[とうきょう]FMの 聞[き]こえる 地域[ちいき]に 引[ひ]っ 越[こ]したいな。
+  Ich möchte in eine Gegend ziehen, wo man Tokyo FM empfangen kann.
+
+  おじいちゃんは年を取って、耳が聞こえなくなってしまった。
+  おじいちゃんは 年[とし]を 取[と]って、耳[みみ]が 聞[き]こえなくなってしまった。
+  Opa ist alt geworden und hat sein Gehör verloren.
+
+  開け放った窓から鳥のさえずりが聞こえてきた。
+  開[あ]け 放[はな]った 窓[まど]から 鳥[とり]のさえずりが 聞[き]こえてきた。
+  Durch das weit geöffnete Fenster war Vogelgezwitscher zu hören.
+
+  彼の言葉は皮肉に聞こえた。
+  彼[かれ]の 言葉[ことば]は 皮肉[ひにく]に 聞[き]こえた。
+  Seine Worte klangen ironisch.
+
+  その提案は奇妙に聞こえるかもしれませんが、実は効果的なんです。
+  その 提案[ていあん]は 奇妙[きみょう]に 聞[き]こえるかもしれませんが、実[じつ]は 効果的[こうかてき]なんです。
+  Dieser Vorschlag mag sich merkwürdig anhören, aber er ist tatsächlich effektiv.
+
+  彼女の説明は冗談のように聞こえたが、本気だった。
+  彼女[かのじょ]の 説明[せつめい]は 冗談[じょうだん]のように 聞[き]こえたが、本気[ほんき]だった。
+  Ihre Erklärung klang wie ein Scherz, aber sie meinte es ernst.
+
+  彼の笑い声は嘲笑にも慰めにも聞こえた。
+  彼[かれ]の 笑い声[わらいごえ]は 嘲笑[ちょうしょう]にも 慰[なぐさ]めにも 聞[き]こえた。
+  Sein Lachen klang sowohl wie Spott als auch wie Trost.
+
+  世に聞こえた陶芸家の作品展が開かれています。
+  世[よ]に 聞[き]こえた 陶芸家[とうげいか]の 作品展[さくひんてん]が 開[ひら]かれています。
+  Eine Ausstellung des berühmten Töpfers findet statt.
+
+  そんな無理な話は聞こえないよ。
+  そんな 無理[むり]な 話[はなし]は 聞[き]こえないよ。
+  So eine unvernünftige Geschichte kann ich nicht verstehen.
+
+  彼の説明は論理的に聞こえるが、実際には問題がある。
+  彼[かれ]の 説明[せつめい]は 論理的[ろんりてき]に 聞[き]こえるが、実際[じっさい]には 問題[もんだい]がある。
+  Seine Erklärung klingt logisch, hat aber in Wirklichkeit Probleme.
+
+  その音楽は遠くからかすかに聞こえてきた。
+  その 音楽[おんがく]は 遠[とお]くからかすかに 聞[き]こえてきた。
+  Die Musik war aus der Ferne schwach zu hören.
+
+  彼女の声は怒っているように聞こえた。
+  彼女[かのじょ]の 声[こえ]は 怒[おこ]っているように 聞[き]こえた。
+  Ihre Stimme klang, als wäre sie wütend.
+
+  その噂は信じられないほど荒唐無稽に聞こえる。
+  その 噂[うわさ]は 信[しん]じられないほど 荒唐無稽[こうとうむけい]に 聞[き]こえる。
+  Das Gerücht klingt unglaublich absurd.
+
+  彼の発言は批判的に聞こえたが、実は建設的な意見だった。
+  彼[かれ]の 発言[はつげん]は 批判的[ひはんてき]に 聞[き]こえたが、実[じつ]は 建設的[けんせつてき]な 意見[いけん]だった。
+  Seine Äußerung klang kritisch, war aber tatsächlich eine konstruktive Meinung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

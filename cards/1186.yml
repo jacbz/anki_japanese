@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: <span>ぴ</span><span class="accent_plain">あ</span><span class="accent_plain">の</span>
 Register: ''
 Dispersion: '77'
-Ursprung: ''
+Ursprung: engl. piano
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,94 @@ Beispielsätze: |-
   昔ピアノを習っていた。
   昔[むかし]ピアノを 習[なら]っていた。
   Früher habe ich Klavierunterricht genommen.
+
+  昔ピアノを習っていましたが、今は弾いていません。
+  昔[むかし]ピアノを 習[なら]っていましたが、今[いま]は 弾[ひ]いていません。
+  Früher habe ich Klavier gelernt, aber jetzt spiele ich nicht mehr.
+
+  毎日2時間ピアノの練習をしています。
+  毎日[まいにち]2時間[じかん]ピアノの 練習[れんしゅう]をしています。
+  Ich übe jeden Tag zwei Stunden lang Klavier.
+
+  姉はピアノ教師として働いています。
+  姉[あね]はピアノ 教師[きょうし]として 働[はたら]いています。
+  Meine ältere Schwester arbeitet als Klavierlehrerin.
+
+  ピアノコンサートのチケットを買いました。
+  ピアノコンサートのチケットを 買[か]いました。
+  Ich habe Tickets für ein Klavierkonzert gekauft.
+
+  彼女はピアノが上手で、みんなを感動させます。
+  彼女[かのじょ]はピアノが 上手[じょうず]で、みんなを 感動[かんどう]させます。
+  Sie spielt sehr gut Klavier und begeistert alle.
+
+  子供の頃からピアノを弾いています。
+  子供[こども]の 頃[ころ]からピアノを 弾[ひ]いています。
+  Ich spiele seit meiner Kindheit Klavier.
+
+  ピアノの調律を依頼しました。
+  ピアノの 調律[ちょうりつ]を 依頼[いらい]しました。
+  Ich habe eine Klavierstimmung in Auftrag gegeben.
+
+  新しいピアノ曲を作曲しました。
+  新[あたら]しいピアノ 曲[きょく]を 作曲[さっきょく]しました。
+  Ich habe ein neues Klavierstück komponiert.
+
+  ピアノのリサイタルで緊張しています。
+  ピアノのリサイタルで 緊張[きんちょう]しています。
+  Ich bin nervös wegen meines Klaviervortrags.
+
+  ピアノの伴奏で歌を歌います。
+  ピアノの 伴奏[ばんそう]で 歌[うた]を 歌[うた]います。
+  Ich singe mit Klavierbegleitung.
+
+  ピアノを弾くのが趣味です。
+  ピアノを 弾[ひ]くのが 趣味[しゅみ]です。
+  Klavierspielen ist mein Hobby.
+
+  ピアノの協奏曲を聴くのが好きです。
+  ピアノの 協奏曲[きょうそうきょく]を 聴[き]くのが 好[す]きです。
+  Ich höre gerne Klavierkonzerte.
+
+  ピアノの線が切れてしまいました。
+  ピアノの 線[せん]が 切[き]れてしまいました。
+  Eine Klaviersaite ist gerissen.
+
+  ピアノの前に座って、深呼吸をした。
+  ピアノの 前[まえ]に 座[すわ]って、深呼吸[しんこきゅう]をした。
+  Ich setzte mich vor das Klavier und atmete tief durch.
+
+  ピアノを弾くのは難しいですが、楽しいです。
+  ピアノを 弾[ひ]くのは 難[むずか]しいですが、楽[たの]しいです。
+  Klavierspielen ist schwierig, aber es macht Spaß.
+
+  ピアノの音色が好きです。
+  ピアノの 音色[ねいろ]が 好[す]きです。
+  Ich mag den Klang des Klaviers.
+
+  ピアノを弾くことでストレス解消になります。
+  ピアノを 弾[ひ]くことでストレス 解消[かいしょう]になります。
+  Klavierspielen hilft mir beim Stressabbau.
+
+  ピアノの鍵盤を優しく叩いて音を出します。
+  ピアノの 鍵盤[けんばん]を 優[やさ]しく 叩[たた]いて 音[おと]を 出[だ]します。
+  Ich schlage sanft die Klaviertasten an, um einen Ton zu erzeugen.
+
+  ピアノの演奏会で大勢の観客を魅了しました。
+  ピアノの 演奏会[えんそうかい]で 大勢[おおぜい]の 観客[かんきゃく]を 魅了[みりょう]しました。
+  Bei dem Klavierkonzert begeisterte ich eine große Zuhörerschaft.
+
+  ピアノを弾くときは、姿勢に気をつけます。
+  ピアノを 弾[ひ]くときは、姿勢[しせい]に 気[き]をつけます。
+  Beim Klavierspielen achte ich auf meine Haltung.
+
+  また一方、自分は、下男や下女たちを洋室に集めて、下男のひとりに滅茶苦茶にピアノのキイをたたかせた。
+  また 一方[いっぽう]、自分[じぶん]は、下男[げなん]や 下女[げじょ]たちを 洋室[ようしつ]に 集[あつ]めて、下男[げなん]のひとりに 滅茶苦茶[めちゃくちゃ]にピアノのキイをたたかせた。
+  Ein andermal versammelte ich die ganze Dienerschaft im westlichen Zimmer und ließ einen der Diener wild auf die Klaviertasten hämmern.
+
+  誰かが遠くでピアノの練習をしていた。上りのエスカレーターを下に向って降りているような弾きかただった。
+  誰[だれ]かが 遠[とお]くでピアノの 練習[れんしゅう]をしていた。上[のぼ]りのエスカレーターを 下[した]に 向[む]って 降[お]りているような 弾[ひ]きかただった。
+  Jemand übte in der Ferne Klavier. Es klang, als würde man eine aufwärts fahrende Rolltreppe hinuntergehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

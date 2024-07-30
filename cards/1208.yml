@@ -2,21 +2,101 @@ Rang: 1208
 Lemma: 要る
 Lesung: いる
 Alternativschreibweisen: ''
-Definition: brauchen, benötigen
+Definition: brauchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 要らない・要った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   何か要るものある？
   何[なに]か 要[い]るものある？
-  Brauchst du etwas?
+  Brauchst du irgendetwas?
+
+  この仕事には忍耐が要ります。
+  この 仕事[しごと]には 忍耐[にんたい]が 要[い]ります。
+  Für diese Arbeit braucht man Geduld.
+
+  お釣りは要りません。
+  お 釣[つ]りは 要[い]りません。
+  Das Wechselgeld ist für Sie.
+
+  あなたを信頼します。領収書はいりません。
+  あなたを 信頼[しんらい]します。領収書[りょうしゅうしょ]はいりません。
+  Ich vertraue Ihnen. Eine Quittung brauche ich nicht.
+
+  新しいパソコンを買うのにお金が要るね。
+  新[あたら]しいパソコンを 買[か]うのにお 金[かね]が 要[い]るね。
+  Wir brauchen Geld, um einen neuen Computer zu kaufen.
+
+  この料理を作るのに時間が要るよ。
+  この 料理[りょうり]を 作[つく]るのに 時間[じかん]が 要[い]るよ。
+  Es braucht Zeit, um dieses Gericht zuzubereiten.
+
+  彼女はもうおもちゃは要らないと言っています。
+  彼女[かのじょ]はもうおもちゃは 要[い]らないと 言[い]っています。
+  Sie sagt, dass sie keine Spielzeuge mehr braucht.
+
+  要らなくなった本は図書館に寄付しました。
+  要[い]らなくなった 本[ほん]は 図書館[としょかん]に 寄付[きふ]しました。
+  Ich habe die Bücher, die ich nicht mehr brauchte, der Bibliothek gespendet.
+
+  この仕事には特別な資格は要りません。
+  この 仕事[しごと]には 特別[とくべつ]な 資格[しかく]は 要[い]りません。
+  Für diesen Job sind keine besonderen Qualifikationen erforderlich.
+
+  急いでいるので、お茶は要りません。
+  急[いそ]いでいるので、お 茶[ちゃ]は 要[い]りません。
+  Ich bin in Eile, also brauche ich keinen Tee.
+
+  この問題を解決するには時間が要るでしょう。
+  この 問題[もんだい]を 解決[かいけつ]するには 時間[じかん]が 要[い]るでしょう。
+  Es wird Zeit brauchen, dieses Problem zu lösen.
+
+  今日の会議には秘書は要りませんか？
+  今日[きょう]の 会議[かいぎ]には 秘書[ひしょ]は 要[い]りませんか？
+  Brauchen wir für das heutige Meeting keinen Sekretär?
+
+  もう大きくなったから、子守りは要らないよ。
+  もう 大[おお]きくなったから、子守[こもり]りは 要[い]らないよ。
+  Du bist jetzt groß genug, du brauchst keinen Babysitter mehr.
+
+  新しいプロジェクトには多くの人手が要ります。
+  新[あたら]しいプロジェクトには 多[おお]くの 人手[ひとで]が 要[い]ります。
+  Für das neue Projekt werden viele Arbeitskräfte benötigt.
+
+  この薬は要らなくなったので処分しました。
+  この 薬[くすり]は 要[い]らなくなったので 処分[しょぶん]しました。
+  Ich habe die Medikamente entsorgt, da ich sie nicht mehr brauchte.
+
+  その仕事をするのに特別なスキルは要りますか？
+  その 仕事[しごと]をするのに 特別[とくべつ]なスキルは 要[い]りますか？
+  Braucht man besondere Fähigkeiten für diese Arbeit?
+
+  要らない物は捨てて、部屋をすっきりさせましょう。
+  要[い]らない 物[もの]は 捨[す]てて、部屋[へや]をすっきりさせましょう。
+  Lass uns die Dinge wegwerfen, die wir nicht brauchen, um das Zimmer aufzuräumen.
+
+  この仕事には体力が要るね。
+  この 仕事[しごと]には 体力[たいりょく]が 要[い]るね。
+  Für diesen Job braucht man körperliche Kraft.
+
+  海外旅行には多額のお金が要ります。
+  海外旅行[かいがいりょこう]には 多額[たがく]のお 金[かね]が 要[い]ります。
+  Für eine Auslandsreise braucht man viel Geld.
+
+  明日の遠足に傘は要りますか？
+  明日[あした]の 遠足[えんそく]に 傘[かさ]は 要[い]りますか？
+  Brauchen wir für den Ausflug morgen einen Regenschirm?
+
+  雪かきには忍耐が要るね。
+  雪[ゆき]かきには 忍耐[にんたい]が 要[い]るね。
+  Für das Schneeschaufeln braucht man Geduld.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

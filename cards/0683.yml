@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>ぱ</span><span class="accent_plain">そ</span><span 
   class="accent_plain">ん</span>
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: engl. <i>personal computer</i>
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   新しいパソコンを買いたい。
   新[あたら]しいパソコンを 買[か]いたい。
   Ich möchte einen neuen Personalcomputer kaufen.
+
+  新しいパソコンを買ったので、セットアップが楽しみです。
+  新[あたら]しいパソコンを 買[か]ったので、セットアップが 楽[たの]しみです。
+  Ich habe einen neuen PC gekauft und freue mich auf das Einrichten.
+
+  彼女はパソコンが得意で、いつも最新のソフトを使いこなしています。
+  彼女[かのじょ]はパソコンが 得意[とくい]で、いつも 最新[さいしん]のソフトを 使[つか]いこなしています。
+  Sie ist gut mit Computern und beherrscht immer die neueste Software.
+
+  パソコンゲームをするのは趣味の一つです。
+  パソコンゲームをするのは 趣味[しゅみ]の 一[ひと]つです。
+  PC-Spiele zu spielen ist eines meiner Hobbys.
+
+  オンライン授業のため、パソコン通信の環境を整えました。
+  オンライン 授業[じゅぎょう]のため、パソコン 通信[つうしん]の 環境[かんきょう]を 整[ととの]えました。
+  Für den Online-Unterricht habe ich meine PC-Kommunikationsumgebung eingerichtet.
+
+  デスクトップパソコンは性能が高いですが、場所を取ります。
+  デスクトップパソコンは 性能[せいのう]が 高[たか]いですが、場所[ばしょ]を 取[と]ります。
+  Desktop-PCs haben eine hohe Leistung, nehmen aber viel Platz ein.
+
+  ノートパソコンは持ち運びに便利で、どこでも仕事ができます。
+  ノートパソコンは 持[も]ち 運[はこ]びに 便利[べんり]で、どこでも 仕事[しごと]ができます。
+  Laptops sind praktisch zum Mitnehmen und man kann überall damit arbeiten.
+
+  パソコンを起動するのに時間がかかるので、アップデートが必要かもしれません。
+  パソコンを 起動[きどう]するのに 時間[じかん]がかかるので、アップデートが 必要[ひつよう]かもしれません。
+  Es dauert lange, den PC hochzufahren, vielleicht ist ein Update nötig.
+
+  新しいプリンターをパソコンに接続しました。
+  新[あたら]しいプリンターをパソコンに 接続[せつぞく]しました。
+  Ich habe einen neuen Drucker an den PC angeschlossen.
+
+  パソコンのスキルを向上させるために、オンラインコースを受講しています。
+  パソコンのスキルを 向上[こうじょう]させるために、オンラインコースを 受講[じゅこう]しています。
+  Um meine PC-Kenntnisse zu verbessern, nehme ich an einem Online-Kurs teil.
+
+  パソコンのバッテリーが切れそうだから、充電器を探さなきゃ。
+  パソコンのバッテリーが 切[き]れそうだから、充電器[じゅうでんき]を 探[さが]さなきゃ。
+  Der Akku meines Laptops ist fast leer, ich muss das Ladegerät finden.
+
+  パソコンのウイルス対策ソフトを最新版にアップデートしました。
+  パソコンのウイルス 対策[たいさく]ソフトを 最新版[さいしんばん]にアップデートしました。
+  Ich habe die Antiviren-Software meines PCs auf die neueste Version aktualisiert.
+
+  パソコンの画面が突然真っ暗になって、焦りました。
+  パソコンの 画面[がめん]が 突然[とつぜん] 真[ま]っ 暗[くら]になって、焦[あせ]りました。
+  Der Bildschirm meines PCs wurde plötzlich schwarz, und ich geriet in Panik.
+
+  父はパソコンの使い方がわからず、いつも私に助けを求めます。
+  父[ちち]はパソコンの 使[つか]い 方[かた]がわからず、いつも 私[わたし]に 助[たす]けを 求[もと]めます。
+  Mein Vater versteht nicht, wie man einen PC benutzt, und bittet mich immer um Hilfe.
+
+  パソコンのキーボードが壊れたので、新しいのを注文しました。
+  パソコンのキーボードが 壊[こわ]れたので、新[あたら]しいのを 注文[ちゅうもん]しました。
+  Die Tastatur meines PCs ist kaputt gegangen, also habe ich eine neue bestellt.
+
+  パソコンの設定を変更して、作業効率を上げました。
+  パソコンの 設定[せってい]を 変更[へんこう]して、作業[さぎょう] 効率[こうりつ]を 上[あ]げました。
+  Ich habe die Einstellungen meines PCs geändert, um die Arbeitseffizienz zu steigern.
+
+  パソコンのデータをバックアップするのを忘れずに。
+  パソコンのデータをバックアップするのを 忘[わす]れずに。
+  Vergiss nicht, die Daten deines PCs zu sichern.
+
+  パソコンの調子が悪いので、修理に出そうと思います。
+  パソコンの 調子[ちょうし]が 悪[わる]いので、修理[しゅうり]に 出[だ]そうと 思[おも]います。
+  Mein PC funktioniert nicht richtig, also denke ich darüber nach, ihn zur Reparatur zu bringen.
+
+  パソコンの前に座りっぱなしだと、体に良くないよ。
+  パソコンの 前[まえ]に 座[すわ]りっぱなしだと、体[からだ]に 良[よ]くないよ。
+  Es ist nicht gut für deinen Körper, wenn du die ganze Zeit vor dem PC sitzt.
+
+  新しいパソコンを買うなら、スペックをよく確認しましょう。
+  新[あたら]しいパソコンを 買[か]うなら、スペックをよく 確認[かくにん]しましょう。
+  Wenn du einen neuen PC kaufst, überprüfe die Spezifikationen sorgfältig.
+
+  パソコンの画面が目に優しい設定になっているか確認してください。
+  パソコンの 画面[がめん]が 目[め]に 優[やさ]しい 設定[せってい]になっているか 確認[かくにん]してください。
+  Bitte überprüfe, ob die Bildschirmeinstellungen deines PCs augenfreundlich sind.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

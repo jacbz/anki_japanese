@@ -2,9 +2,9 @@ Rang: 143
 Lemma: いろいろ
 Lesung: ''
 Alternativschreibweisen: 色々
-Definition: verschieden
+Definition: verschiedene; vielerlei
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj, no-adj
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '85'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   その国立公園ではいろいろな動物が見られる。
   その 国立公園[こくりつこうえん]ではいろいろな 動物[どうぶつ]が 見[み]られる。
   Man kann verschiedene Tiere im Nationalpark sehen.
+
+  いろいろと話したいことがあるので、時間を作っていただけませんか。
+  いろいろと 話[はな]したいことがあるので、時間[じかん]を 作[つく]っていただけませんか。
+  Ich hätte verschiedene Dinge zu besprechen. Könnten Sie sich dafür Zeit nehmen?
+
+  問題の解決策をいろいろと考えたが、良い案が思い浮かばなかった。
+  問題[もんだい]の 解決策[かいけつさく]をいろいろと 考[かんが]えたが、良[よ]い 案[あん]が 思[おも]い 浮[う]かばなかった。
+  Ich habe über verschiedene Lösungsansätze für das Problem nachgedacht, aber mir ist keine gute Idee eingefallen.
+
+  新しい街に引っ越して、周りのことをいろいろと聞いてみた。
+  新[あたら]しい 街[まち]に 引[ひ]っ 越[こ]して、周[まわ]りのことをいろいろと 聞[き]いてみた。
+  Nachdem ich in eine neue Stadt gezogen bin, habe ich mich nach verschiedenen Dingen in der Umgebung erkundigt.
+
+  週末にいろいろと用があるので、出かける予定です。
+  週末[しゅうまつ]にいろいろと 用[よう]があるので、出[で]かける 予定[よてい]です。
+  Am Wochenende habe ich Verschiedenes zu erledigen, deshalb plane ich auszugehen.
+
+  彼女は花のいろいろを知っているので、園芸の相談に乗ってもらった。
+  彼女[かのじょ]は 花[はな]のいろいろを 知[し]っているので、園芸[えんげい]の 相談[そうだん]に 乗[の]ってもらった。
+  Da sie viele verschiedene Blumen kennt, habe ich sie um Rat für meinen Garten gebeten.
+
+  この道具の用途はいろいろあるので、とても便利です。
+  この 道具[どうぐ]の 用途[ようと]はいろいろあるので、とても 便利[べんり]です。
+  Dieses Werkzeug hat viele verschiedene Verwendungsmöglichkeiten, daher ist es sehr praktisch.
+
+  どうしてそんなことになるのかと私はいろいろ考えてみたが、結論はひとつしかなかった。
+  どうしてそんなことになるのかと 私[わたし]はいろいろ 考[かんが]えてみたが、結論[けつろん]はひとつしかなかった。
+  Ich habe hin und her überlegt, warum das so ist, und bin zu dem Schluss gekommen, dass es nur eine Erklärung gibt.
+
+  この問題にはいろいろな意味で難しい点がある。
+  この 問題[もんだい]にはいろいろな 意味[いみ]で 難[むずか]しい 点[てん]がある。
+  Dieses Problem hat in vielerlei Hinsicht schwierige Aspekte.
+
+  彼の行動には、いろいろな事情があったようだ。
+  彼[かれ]の 行動[こうどう]には、いろいろな 事情[じじょう]があったようだ。
+  Es scheint, dass es verschiedene Umstände für sein Verhalten gab.
+
+  しかし老人ホームもいろいろだよ。良いところと悪いところがある。
+  しかし 老人[ろうじん]ホームもいろいろだよ。良[よ]いところと 悪[わる]いところがある。
+  Aber auch bei Altersheimen gibt es große Unterschiede! Es gibt gute und schlechte.
+
+  「人はいろいろですよ。それぞれ個性があって面白いんです。」
+  「人[ひと]はいろいろですよ。それぞれ 個性[こせい]があって 面白[おもしろ]いんです。」
+  "Es gibt verschiedene Arten von Menschen. Jeder hat seine eigene Persönlichkeit, und das macht es interessant."
+
+  「バーでいつも何を食べるの？」「いろいろだけど、サラダとピザが多いかな。」
+  「バーでいつも 何[なに]を 食[た]べるの？」「いろいろだけど、サラダとピザが 多[おお]いかな。」
+  "Was isst du normalerweise in der Bar?" "Das ist unterschiedlich, aber meistens Salat und Pizza, denke ich."
+
+  神様はいろいろな姿で現れると言われています。
+  神様[かみさま]はいろいろな 姿[すがた]で 現[あらわ]れると 言[い]われています。
+  Es heißt, Gott erscheine in verschiedenen Gestalten.
+
+  教育の目的についてはいろいろの説がある。
+  教育[きょういく]の 目的[もくてき]についてはいろいろの 説[せつ]がある。
+  Es gibt verschiedene Theorien über den Zweck der Bildung.
+
+  人間関係を円滑にするため、いろいろな方法でコミュニケーションを取る必要がある。
+  人間関係[にんげんかんけい]を 円滑[えんかつ]にするため、いろいろな 方法[ほうほう]でコミュニケーションを 取[と]る 必要[ひつよう]がある。
+  Um zwischenmenschliche Beziehungen zu verbessern, ist es notwendig, auf verschiedene Arten zu kommunizieren.
+
+  引っ越しの際、いろいろな物が散らかっていて整理が大変だった。
+  引[ひ]っ 越[こ]しの 際[さい]、いろいろな 物[もの]が 散[ち]らかっていて 整理[せいり]が 大変[たいへん]だった。
+  Beim Umzug lagen allerlei Sachen verstreut herum, und es war schwierig, alles zu ordnen.
+
+  最近、社会のいろいろな面で変化が起きているのを感じる。
+  最近[さいきん]、社会[しゃかい]のいろいろな 面[めん]で 変化[へんか]が 起[お]きているのを 感[かん]じる。
+  In letzter Zeit spüre ich, dass sich in verschiedenen Bereichen der Gesellschaft Veränderungen vollziehen.
+
+  この本にはいろいろな国の昔話が載っています。
+  この 本[ほん]にはいろいろな 国[くに]の 昔話[むかしばなし]が 載[の]っています。
+  In diesem Buch sind Märchen aus verschiedenen Ländern enthalten.
+
+  いろいろな経験を積むことで、人は成長していくものだ。
+  いろいろな 経験[けいけん]を 積[つ]むことで、人[ひと]は 成長[せいちょう]していくものだ。
+  Durch das Sammeln verschiedener Erfahrungen wachsen Menschen als Persönlichkeiten.
+
+  新しい趣味を見つけるため、いろいろなことに挑戦してみた。
+  新[あたら]しい 趣味[しゅみ]を 見[み]つけるため、いろいろなことに 挑戦[ちょうせん]してみた。
+  Um ein neues Hobby zu finden, habe ich verschiedene Dinge ausprobiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

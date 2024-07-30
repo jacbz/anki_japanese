@@ -1,7 +1,7 @@
 Rang: 345
 Lemma: おいしい
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 美味しい
 Definition: lecker, köstlich
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">い</span><span 
 Register: ↗</>Internet
 Dispersion: '75'
 Ursprung: ''
-Konjugation: ''
+Konjugation: おいしくない・おいしかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,86 @@ Beispielsätze: |-
   おいしい料理を食べた。
   おいしい 料理[りょうり]を 食[た]べた。
   Ich hatte ein köstliches Essen.
+
+  このチーズはとてもおいしいです。
+  この チーズ[ちーず]はとても おいしいです。
+  Dieser Käse schmeckt sehr gut.
+
+  今朝のコーヒーは特においしかったね。
+  今朝[けさ]のコーヒーは 特[とく]に おいしかったね。
+  Der Kaffee heute Morgen war besonders lecker, nicht wahr?
+
+  キッチンからおいしい匂いがしてきた。
+  キッチンから おいしい 匂[にお]いがしてきた。
+  Aus der Küche kam ein köstlicher Duft.
+
+  彼女の料理はいつもおいしくて、みんな喜んでいる。
+  彼女[かのじょ]の 料理[りょうり]はいつも おいしくて、みんな 喜[よろこ]んでいる。
+  Ihre Gerichte sind immer köstlich, und alle freuen sich darüber.
+
+  この山の水はとてもおいしいよ。
+  この 山[やま]の 水[みず]はとても おいしいよ。
+  Das Wasser aus diesem Berg schmeckt sehr gut.
+
+  森の中のおいしい空気を深呼吸しよう。
+  森[もり]の 中[なか]の おいしい 空気[くうき]を 深呼吸[しんこきゅう]しよう。
+  Lass uns die frische Luft im Wald tief einatmen.
+
+  すごくおいしい寿司屋を見つけたんだ。
+  すごく おいしい 寿司屋[すしや]を 見[み]つけたんだ。
+  Ich habe ein sehr leckeres Sushi-Restaurant gefunden.
+
+  おばあちゃんの手作りケーキを美味しく食べました。
+  おばあちゃんの 手作[てづく]りケーキを 美味[おい]しく 食[た]べました。
+  Ich habe den selbstgemachten Kuchen meiner Oma mit Genuss gegessen.
+
+  美味しそうな匂いに誘われて、そのレストランに入った。
+  美味[おい]しそうな 匂[にお]いに 誘[さそ]われて、そのレストランに 入[はい]った。
+  Angelockt vom köstlichen Duft, betrat ich das Restaurant.
+
+  子供たちが美味しそうにアイスクリームを食べている。
+  子供[こども]たちが 美味[おい]しそうにアイスクリームを 食[た]べている。
+  Die Kinder essen ihr Eis mit sichtlichem Genuss.
+
+  「ね、小海老のサラダ、どう？」 「おいしい。いま褒めようと思ってたとこ」
+  「ね、 小海老[こえび]のサラダ、どう？」 「 おいしい。いま 褒[ほ]めようと 思[おも]ってたとこ」
+  "Nun, wie schmeckt mein Krabbensalat?" "Köstlich. Ich wollte es gerade loben."
+
+  彼女はあっという間にそれをたいらげてしまった。「ごちそうさま。おいしかった」
+  彼女[かのじょ]はあっという 間[ま]にそれをたいらげてしまった。「ごちそうさま。 おいしかった」
+  Sie vertilgte alles in Windeseile. "Vielen Dank. Das hat wunderbar geschmeckt!"
+
+  食べてみると、醤油の濃い味がしてとてもおいしかった。
+  食[た]べてみると、 醤油[しょうゆ]の 濃[こ]い 味[あじ]がしてとても おいしかった。
+  Als ich es probierte, schmeckte es sehr lecker mit dem intensiven Geschmack der Sojasauce.
+
+  このレストランの料理はおいしいだけでなく、見た目も美しい。
+  このレストランの 料理[りょうり]は おいしいだけでなく、 見[み]た 目[め]も 美[うつく]しい。
+  Die Gerichte in diesem Restaurant sind nicht nur köstlich, sondern auch optisch ansprechend.
+
+  おいしい食事の後は、いつも幸せな気分になる。
+  おいしい 食事[しょくじ]の 後[あと]は、いつも 幸[しあわ]せな 気分[きぶん]になる。
+  Nach einer leckeren Mahlzeit fühle ich mich immer glücklich.
+
+  この果物、甘くておいしいね。どこで買ったの？
+  この 果物[くだもの]、 甘[あま]くて おいしいね。どこで 買[か]ったの？
+  Diese Früchte sind süß und lecker. Wo hast du sie gekauft?
+
+  おいしい料理を作るのは、私の趣味の一つです。
+  おいしい 料理[りょうり]を 作[つく]るのは、 私[わたし]の 趣味[しゅみ]の 一[ひと]つです。
+  Leckere Gerichte zuzubereiten ist eines meiner Hobbys.
+
+  このワイン、とてもおいしいけど、少し高いね。
+  このワイン、とても おいしいけど、 少[すこ]し 高[たか]いね。
+  Dieser Wein ist sehr gut, aber etwas teuer, nicht wahr?
+
+  おいしい食べ物を友達と分け合うのは楽しいですね。
+  おいしい 食[た]べ 物[もの]を 友達[ともだち]と 分[わ]け 合[あ]うのは 楽[たの]しいですね。
+  Es macht Spaß, leckeres Essen mit Freunden zu teilen, nicht wahr?
+
+  新鮮な野菜を使うと、料理がより一層おいしくなります。
+  新鮮[しんせん]な 野菜[やさい]を 使[つか]うと、 料理[りょうり]がより 一層[いっそう] おいしくなります。
+  Wenn man frisches Gemüse verwendet, wird das Gericht noch schmackhafter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

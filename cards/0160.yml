@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>た</span><span class="accent_top">べ</span><span>�
 Register: ''
 Dispersion: '81'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 食べない・食べた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼女はよく食べる。
   彼女[かのじょ]はよく 食[た]べる。
   Sie isst viel.
+
+  朝食を食べてから出勤します。
+  朝食[ちょうしょく]を 食[た]べてから 出勤[しゅっきん]します。
+  Ich esse Frühstück, bevor ich zur Arbeit gehe.
+
+  お昼を食べに行きませんか。
+  お 昼[ひる]を 食[た]べに 行[い]きませんか。
+  Wollen wir nicht zum Mittagessen gehen?
+
+  トマトを食べるのが好きです。
+  トマトを 食[た]べるのが 好[す]きです。
+  Ich esse gerne Tomaten.
+
+  このケーキ、おいしく食べられました。
+  このケーキ、おいしく 食[た]べられました。
+  Ich konnte diesen Kuchen mit Genuss essen.
+
+  昨日のパーティーで腹一杯食べてしまった。
+  昨日[きのう]のパーティーで 腹一杯[はらいっぱい] 食[た]べてしまった。
+  Ich habe mich gestern auf der Party vollgegessen.
+
+  よくかんで食べると消化にいいですよ。
+  よくかんで 食[た]べると 消化[しょうか]にいいですよ。
+  Es ist gut für die Verdauung, wenn man das Essen gründlich kaut.
+
+  暖かいうちにラーメンを食べましょう。
+  暖[あたた]かいうちにラーメンを 食[た]べましょう。
+  Lass uns die Ramen essen, solange sie warm sind.
+
+  日本人はお箸で食べるのが上手です。
+  日本人[にほんじん]はお 箸[はし]で 食[た]べるのが 上手[じょうず]です。
+  Japaner sind geschickt darin, mit Stäbchen zu essen.
+
+  夏になると冷たいものが食べたくなります。
+  夏[なつ]になると 冷[つめ]たいものが 食[た]べたくなります。
+  Im Sommer bekomme ich Lust auf kalte Speisen.
+
+  この新しい料理を食べて見たいです。
+  この 新[あたら]しい 料理[りょうり]を 食[た]べて 見[み]たいです。
+  Ich möchte dieses neue Gericht probieren.
+
+  子供たちがケーキを全部食べてしまいました。
+  子供[こども]たちがケーキを 全部[ぜんぶ] 食[た]べてしまいました。
+  Die Kinder haben den ganzen Kuchen aufgegessen.
+
+  この赤ちゃん、食べてしまいたいほど可愛いですね。
+  この 赤[あか]ちゃん、 食[た]べてしまいたいほど 可愛[かわい]いですね。
+  Dieses Baby ist zum Anbeißen süß, nicht wahr?
+
+  どうぞ、好きなだけ食べてください。
+  どうぞ、 好[す]きなだけ 食[た]べてください。
+  Bitte, essen Sie so viel Sie möchten.
+
+  娘は昼にサンドイッチを一つ食べただけでした。
+  娘[むすめ]は 昼[ひる]にサンドイッチを 一[ひと]つ 食[た]べただけでした。
+  Meine Tochter hat mittags nur ein Sandwich gegessen.
+
+  健康のために、バランスの取れた食事を食べることが大切です。
+  健康[けんこう]のために、バランスの 取[と]れた 食事[しょくじ]を 食[た]べることが 大切[たいせつ]です。
+  Für die Gesundheit ist es wichtig, eine ausgewogene Ernährung zu sich zu nehmen.
+
+  彼女は毎日3食きちんと食べています。
+  彼女[かのじょ]は 毎日[まいにち]3食[しょく]きちんと 食[た]べています。
+  Sie isst jeden Tag ordentlich drei Mahlzeiten.
+
+  このレストランの料理を食べていくうちに、料理人になりたくなりました。
+  このレストランの 料理[りょうり]を 食[た]べていくうちに、料理人[りょうりにん]になりたくなりました。
+  Während ich die Gerichte dieses Restaurants aß, bekam ich Lust, Koch zu werden.
+
+  彼は食べていくために、アルバイトを三つしています。
+  彼[かれ]は 食[た]べていくために、アルバイトを 三[みっ]つしています。
+  Um über die Runden zu kommen, hat er drei Teilzeitjobs.
+
+  この仕事だけでは食べていけないので、副業を始めました。
+  この 仕事[しごと]だけでは 食[た]べていけないので、副業[ふくぎょう]を 始[はじ]めました。
+  Da ich von diesem Job allein nicht leben kann, habe ich eine Nebenbeschäftigung begonnen.
+
+  彼は芸術で食べていくのは難しいと感じています。
+  彼[かれ]は 芸術[げいじゅつ]で 食[た]べていくのは 難[むずか]しいと 感[かん]じています。
+  Er findet es schwierig, von der Kunst zu leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

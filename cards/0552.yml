@@ -1,10 +1,10 @@
 Rang: 552
 Lemma: ところが
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: jedoch
+Alternativschreibweisen: 所が
+Definition: aber; jedoch
 Extra: '' # Nur bei suru-Verben
-Wortart: postp, konj
+Wortart: konj, postp
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '93'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   ところが計画はうまくいかなかった。
   ところが 計画[けいかく]はうまくいかなかった。
   Der Plan war jedoch nicht von Erfolg gekrönt.
+
+  彼は頑張って勉強したところが、試験に落ちてしまった。
+  彼[かれ]は 頑張[がんば]って 勉強[べんきょう]したところが、試験[しけん]に 落[お]ちてしまった。
+  Er hat zwar hart gelernt, ist aber trotzdem durch die Prüfung gefallen.
+
+  私は彼女に謝ろうとしたところが、逆に怒られてしまった。
+  私[わたし]は 彼女[かのじょ]に 謝[あやま]ろうとしたところが、逆[ぎゃく]に 怒[おこ]られてしまった。
+  Ich wollte mich bei ihr entschuldigen, aber stattdessen wurde ich von ihr angeschrien.
+
+  天気予報では晴れると言っていたところが、突然雨が降り出した。
+  天気予報[てんきよほう]では 晴[は]れると 言[い]っていたところが、突然[とつぜん] 雨[あめ]が 降[ふ]り 出[だ]した。
+  Der Wetterbericht sagte Sonnenschein voraus, aber plötzlich fing es an zu regnen.
+
+  彼は一生懸命働いたところが、昇進には至らなかった。
+  彼[かれ]は 一生懸命[いっしょうけんめい] 働[はたら]いたところが、昇進[しょうしん]には 至[いた]らなかった。
+  Er hat zwar sehr hart gearbeitet, wurde aber nicht befördert.
+
+  このレストランは評判が良かったところが、料理の味が期待外れだった。
+  この レストランは 評判[ひょうばん]が 良[よ]かったところが、料理[りょうり]の 味[あじ]が 期待外[きたいはず]れだった。
+  Das Restaurant hatte einen guten Ruf, aber der Geschmack des Essens war enttäuschend.
+
+  彼女は必死に練習したところが、コンテストで優勝することはできなかった。
+  彼女[かのじょ]は 必死[ひっし]に 練習[れんしゅう]したところが、コンテストで 優勝[ゆうしょう]することはできなかった。
+  Sie hat zwar verzweifelt geübt, konnte aber den Wettbewerb nicht gewinnen.
+
+  新しい商品を開発したところが、市場の反応は今一つだった。
+  新[あたら]しい 商品[しょうひん]を 開発[かいはつ]したところが、市場[しじょう]の 反応[はんのう]は 今一[いまいち]つだった。
+  Wir haben zwar ein neues Produkt entwickelt, aber die Marktreaktion war nicht besonders gut.
+
+  彼は一所懸命にダイエットしたところが、体重はほとんど変わらなかった。
+  彼[かれ]は 一所懸命[いっしょけんめい]に ダイエットしたところが、体重[たいじゅう]はほとんど 変[か]わらなかった。
+  Er hat zwar hart an seiner Diät gearbeitet, aber sein Gewicht hat sich kaum verändert.
+
+  私たちは早く到着しようと急いだところが、結局遅刻してしまった。
+  私[わたし]たちは 早[はや]く 到着[とうちゃく]しようと 急[いそ]いだところが、結局[けっきょく] 遅刻[ちこく]してしまった。
+  Wir beeilten uns, um früh anzukommen, kamen aber trotzdem zu spät.
+
+  彼女は一生懸命に説明したところが、相手は理解してくれなかった。
+  彼女[かのじょ]は 一生懸命[いっしょうけんめい]に 説明[せつめい]したところが、相手[あいて]は 理解[りかい]してくれなかった。
+  Sie erklärte es zwar mit aller Kraft, aber ihr Gegenüber verstand es nicht.
+
+  ところが、突然彼女から連絡がきて、状況が一変した。
+  ところが、突然[とつぜん] 彼女[かのじょ]から 連絡[れんらく]がきて、状況[じょうきょう]が 一変[いっぺん]した。
+  Aber plötzlich meldete sie sich, und die Situation änderte sich komplett.
+
+  私は彼の提案に賛成だと思っていた。ところが、他のメンバーは全員反対だった。
+  私[わたし]は 彼[かれ]の 提案[ていあん]に 賛成[さんせい]だと 思[おも]っていた。ところが、他[ほか]のメンバーは 全員[ぜんいん] 反対[はんたい]だった。
+  Ich dachte, ich würde seinen Vorschlag unterstützen. Aber alle anderen Mitglieder waren dagegen.
+
+  彼女は毎日ジムに通っている。ところが、全然痩せる気配がない。
+  彼女[かのじょ]は 毎日[まいにち]ジムに 通[かよ]っている。ところが、全然[ぜんぜん] 痩[や]せる 気配[けはい]がない。
+  Sie geht jeden Tag ins Fitnessstudio. Trotzdem gibt es keine Anzeichen dafür, dass sie abnimmt.
+
+  この映画は評判が良かった。ところが、私には全然面白くなかった。
+  この 映画[えいが]は 評判[ひょうばん]が 良[よ]かった。ところが、私[わたし]には 全然[ぜんぜん] 面白[おもしろ]くなかった。
+  Dieser Film hatte gute Kritiken. Ich fand ihn aber überhaupt nicht interessant.
+
+  彼は才能があると言われている。ところが、努力が足りないようだ。
+  彼[かれ]は 才能[さいのう]があると 言[い]われている。ところが、努力[どりょく]が 足[た]りないようだ。
+  Man sagt, er sei talentiert. Allerdings scheint es ihm an Anstrengung zu mangeln.
+
+  この街は観光地として有名だ。ところが、実際に住むとそれほど魅力的ではない。
+  この 街[まち]は 観光地[かんこうち]として 有名[ゆうめい]だ。ところが、実際[じっさい]に 住[す]むとそれほど 魅力的[みりょくてき]ではない。
+  Diese Stadt ist als Touristenort bekannt. Aber wenn man tatsächlich hier lebt, ist sie nicht so attraktiv.
+
+  彼女は料理が得意だと言っていた。ところが、実際に作ってもらうとあまり美味しくなかった。
+  彼女[かのじょ]は 料理[りょうり]が 得意[とくい]だと 言[い]っていた。ところが、実際[じっさい]に 作[つく]ってもらうとあまり 美味[おい]しくなかった。
+  Sie sagte, sie sei gut im Kochen. Als sie aber tatsächlich für uns kochte, war es nicht besonders lecker.
+
+  私は彼が信頼できる人だと思っていた。ところが、実は嘘つきだったのだ。
+  私[わたし]は 彼[かれ]が 信頼[しんらい]できる 人[ひと]だと 思[おも]っていた。ところが、実[じつ]は 嘘[うそ]つきだったのだ。
+  Ich dachte, er sei eine vertrauenswürdige Person. Aber in Wirklichkeit war er ein Lügner.
+
+  この商品は人気があると聞いていた。ところが、実際に使ってみるとそれほど良くなかった。
+  この 商品[しょうひん]は 人気[にんき]があると 聞[き]いていた。ところが、実際[じっさい]に 使[つか]ってみるとそれほど 良[よ]くなかった。
+  Ich hatte gehört, dass dieses Produkt beliebt sei. Als ich es aber selbst ausprobierte, war es nicht so gut.
+
+  彼は頭が良いと評判だった。ところが、実際に話してみると、そうでもなかった。
+  彼[かれ]は 頭[あたま]が 良[よ]いと 評判[ひょうばん]だった。ところが、実際[じっさい]に 話[はな]してみると、そうでもなかった。
+  Er hatte den Ruf, intelligent zu sein. Als ich aber tatsächlich mit ihm sprach, stellte sich heraus, dass dem nicht so war.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

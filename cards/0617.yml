@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">ほ</span><span>て</span><span>る</span>
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. hotel
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   高級なホテルに泊まった。
   高級[こうきゅう]なホテルに 泊[と]まった。
   Wir wohnten in einem Hotel der Spitzenklasse.
+
+  このホテルには素晴らしいレストランがあります。
+  このホテルには 素晴[すば]らしいレストランがあります。
+  Dieses Hotel hat ein ausgezeichnetes Restaurant.
+
+  ホテル業は観光産業の重要な一部です。
+  ホテル 業[ぎょう]は 観光[かんこう] 産業[さんぎょう]の 重要[じゅうよう]な 一部[いちぶ]です。
+  Das Hotelgewerbe ist ein wichtiger Teil der Tourismusindustrie.
+
+  彼女はホテル業者として成功を収めました。
+  彼女[かのじょ]はホテル 業者[ぎょうしゃ]として 成功[せいこう]を 収[おさ]めました。
+  Sie hat als Hotelbetreiberin Erfolg gehabt.
+
+  新しいホテル施設の建設が計画されています。
+  新[あたら]しいホテル 施設[しせつ]の 建設[けんせつ]が 計画[けいかく]されています。
+  Der Bau neuer Hoteleinrichtungen ist geplant.
+
+  出張にはいつもビジネスホテルを利用しています。
+  出張[しゅっちょう]にはいつもビジネスホテルを 利用[りよう]しています。
+  Für Geschäftsreisen nutze ich immer Business-Hotels.
+
+  東京の一流ホテルに宿泊する予定です。
+  東京[とうきょう]の 一流[いちりゅう]ホテルに 宿泊[しゅくはく]する 予定[よてい]です。
+  Ich plane, in einem erstklassigen Hotel in Tokio zu übernachten.
+
+  今夜はホテルに泊まることにしました。
+  今夜[こんや]はホテルに 泊[と]まることにしました。
+  Ich habe beschlossen, heute Nacht in einem Hotel zu übernachten.
+
+  ホテルのボーイが私たちの荷物を運んでくれました。
+  ホテルのボーイが 私[わたし]たちの 荷物[にもつ]を 運[はこ]んでくれました。
+  Der Hotelboy hat unser Gepäck für uns getragen.
+
+  ホテルの従業員は皆とても親切でしたよ。
+  ホテルの 従業員[じゅうぎょういん]は 皆[みな]とても 親切[しんせつ]でしたよ。
+  Die Hotelangestellten waren alle sehr freundlich.
+
+  ホテルの経営者と会議を行う予定です。
+  ホテルの 経営者[けいえいしゃ]と 会議[かいぎ]を 行[おこな]う 予定[よてい]です。
+  Ich habe ein Treffen mit dem Hotelbesitzer geplant.
+
+  ホテルのロビーで待ち合わせをしましょう。
+  ホテルのロビーで 待[ま]ち 合[あ]わせをしましょう。
+  Lass uns uns in der Hotellobby treffen.
+
+  このホテルのサービスは素晴らしいと評判です。
+  このホテルのサービスは 素晴[すば]らしいと 評判[ひょうばん]です。
+  Der Service in diesem Hotel hat einen ausgezeichneten Ruf.
+
+  明日の朝9時にホテルを出る予定です。
+  明日[あした]の 朝[あさ]9時[じ]にホテルを 出[で]る 予定[よてい]です。
+  Ich plane, das Hotel morgen früh um 9 Uhr zu verlassen.
+
+  彼女の夢はホテルを経営することでした。
+  彼女[かのじょ]の 夢[ゆめ]はホテルを 経営[けいえい]することでした。
+  Ihr Traum war es, ein Hotel zu betreiben.
+
+  ホテルを予約するのを忘れないでください。
+  ホテルを 予約[よやく]するのを 忘[わす]れないでください。
+  Vergessen Sie nicht, ein Hotel zu buchen.
+
+  パリのホテルはセーヌ川の近くにありました。
+  パリのホテルはセーヌ 川[がわ]の 近[ちか]くにありました。
+  Das Hotel in Paris lag in der Nähe der Seine.
+
+  ホテルの朝食ビュッフェは7時から始まります。
+  ホテルの 朝食[ちょうしょく]ビュッフェは7時[じ]から 始[はじ]まります。
+  Das Frühstücksbuffet des Hotels beginnt um 7 Uhr.
+
+  ホテルのチェックアウト時間は11時です。
+  ホテルのチェックアウト 時間[じかん]は11時[じ]です。
+  Die Check-out-Zeit des Hotels ist 11 Uhr.
+
+  このホテルは海の眺めが素晴らしいんだ。
+  このホテルは 海[うみ]の 眺[なが]めが 素晴[すば]らしいんだ。
+  Dieses Hotel hat eine wunderbare Aussicht auf das Meer.
+
+  ホテルの部屋にWi-Fiはありますか？
+  ホテルの 部屋[へや]にWi-Fiはありますか？
+  Gibt es Wi-Fi in den Hotelzimmern?
+
+  ホテルのフロントで鍵を受け取ってください。
+  ホテルのフロントで 鍵[かぎ]を 受[う]け 取[と]ってください。
+  Bitte holen Sie den Schlüssel an der Hotelrezeption ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

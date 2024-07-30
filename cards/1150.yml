@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">ど</span><span>あ</span>
 Register: ''
 Dispersion: '80'
-Ursprung: ''
+Ursprung: engl. door
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   ドアを閉めて鍵をかけた。
   ドアを 閉[し]めて 鍵[かぎ]をかけた。
   Ich schloss die Tür und verriegelte sie.
+
+  ドアチャイムが鳴ったので、誰か来たようです。
+  ドアチャイムが 鳴[な]ったので、 誰[だれ]か 来[き]たようです。
+  Die Türklingel hat geläutet, es scheint jemand gekommen zu sein.
+
+  ホテルのドアマンが丁寧にお客様をお出迎えしています。
+  ホテルのドアマンが 丁寧[ていねい]にお 客様[きゃくさま]をお 出迎[でむか]えしています。
+  Der Portier des Hotels begrüßt die Gäste höflich.
+
+  車のドアミラーを調整して、安全運転に備えましょう。
+  車[くるま]のドアミラーを 調整[ちょうせい]して、安全運転[あんぜんうんてん]に 備[そな]えましょう。
+  Lass uns die Außenspiegel des Autos einstellen, um für eine sichere Fahrt bereit zu sein.
+
+  このドアノブは緩んでいるので、修理が必要です。
+  このドアノブは 緩[ゆる]んでいるので、修理[しゅうり]が 必要[ひつよう]です。
+  Dieser Türknauf ist locker, er muss repariert werden.
+
+  ドアロックを確認してから外出しましょう。
+  ドアロックを 確認[かくにん]してから 外出[がいしゅつ]しましょう。
+  Lass uns das Türschloss überprüfen, bevor wir ausgehen.
+
+  フロントドアが開いたままです。閉めてください。
+  フロントドアが 開[あ]いたままです。閉[し]めてください。
+  Die Eingangstür steht offen. Bitte schließen Sie sie.
+
+  玄関ドアのペンキが剥がれてきたので、塗り直す必要があります。
+  玄関[げんかん]ドアのペンキが 剥[は]がれてきたので、塗[ぬ]り 直[なお]す 必要[ひつよう]があります。
+  Die Farbe an der Haustür blättert ab, wir müssen sie neu streichen.
+
+  この建物の自動ドアは省エネ設計になっています。
+  この 建物[たてもの]の 自動[じどう]ドアは 省[しょう]エネ 設計[せっけい]になっています。
+  Die automatischen Türen dieses Gebäudes sind energiesparend konzipiert.
+
+  助手席ドアが完全に閉まっていないようです。確認してください。
+  助手席[じょしゅせき]ドアが 完全[かんぜん]に 閉[し]まっていないようです。確認[かくにん]してください。
+  Die Beifahrertür scheint nicht vollständig geschlossen zu sein. Bitte überprüfen Sie das.
+
+  デパートの回転ドアに挟まれないように気をつけてね。
+  デパートの 回転[かいてん]ドアに 挟[はさ]まれないように 気[き]をつけてね。
+  Pass auf, dass du nicht in der Drehtür des Kaufhauses eingeklemmt wirst.
+
+  リヤドアの窓が曇っているので、拭いてもらえますか。
+  リヤドアの 窓[まど]が 曇[くも]っているので、拭[ふ]いてもらえますか。
+  Das Fenster der hinteren Tür ist beschlagen, könntest du es bitte abwischen?
+
+  新しい室内ドアのデザインを選ぶのに時間がかかりました。
+  新[あたら]しい 室内[しつない]ドアのデザインを 選[えら]ぶのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, das Design der neuen Innentüren auszuwählen.
+
+  運転席ドアのロックが故障したので、修理に出さなければなりません。
+  運転席[うんてんせき]ドアのロックが 故障[こしょう]したので、修理[しゅうり]に 出[だ]さなければなりません。
+  Das Schloss der Fahrertür ist kaputt, wir müssen es reparieren lassen.
+
+  ドアの取っ手が壊れたので、新しいものに取り替えました。
+  ドアの 取[と]っ 手[て]が 壊[こわ]れたので、新[あたら]しいものに 取[と]り 替[か]えました。
+  Der Türgriff war kaputt, also haben wir ihn durch einen neuen ersetzt.
+
+  泥棒に入られないように、夜はドアに鍵を掛けるのを忘れないでください。
+  泥棒[どろぼう]に 入[はい]られないように、夜[よる]はドアに 鍵[かぎ]を 掛[か]けるのを 忘[わす]れないでください。
+  Vergessen Sie nicht, nachts die Tür abzuschließen, um Einbrecher fernzuhalten.
+
+  お客様がいらっしゃったので、ドアを開けてお迎えしました。
+  お 客様[きゃくさま]がいらっしゃったので、ドアを 開[あ]けてお 迎[むか]えしました。
+  Als der Gast ankam, öffnete ich die Tür, um ihn zu empfangen.
+
+  彼は怒ってドアをばたんと閉めて出て行った。
+  彼[かれ]は 怒[おこ]ってドアをばたんと 閉[し]めて 出[で]て 行[い]った。
+  Er ging wütend hinaus und knallte die Tür hinter sich zu.
+
+  誰かがドアを叩いているようですが、聞こえましたか。
+  誰[だれ]かがドアを 叩[たた]いているようですが、聞[き]こえましたか。
+  Es scheint, als würde jemand an die Tür klopfen. Hast du das gehört?
+
+  この庭に通じるドアは普段は施錠されています。
+  この 庭[にわ]に 通[つう]じるドアは 普段[ふだん]は 施錠[せじょう]されています。
+  Die Tür, die zum Garten führt, ist normalerweise verschlossen.
+
+  ぼくは書斎のドアを閉めきり、静かに仕事に取り掛かった。
+  ぼくは 書斎[しょさい]のドアを 閉[し]めきり、静[しず]かに 仕事[しごと]に 取[と]り 掛[か]かった。
+  Ich machte die Tür meines Arbeitszimmers hinter mir zu und begann still zu arbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -4,7 +4,7 @@ Lesung: ことし
 Alternativschreibweisen: ''
 Definition: dieses Jahr
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Lesung mit Tonhöhe: <span>こ</span><span class="accent_plain">と</span><span class="accent_plain">し</span>
 Register: ''
 Dispersion: '85'
@@ -17,6 +17,86 @@ Beispielsätze: |-
   今年の夏は暑い。
   今年[ことし]の 夏[なつ]は 暑[あつ]い。
   Es ist heiß in diesem Sommer.
+
+  今年のりんごは甘くて美味しいです。
+  今年[ことし]のりんごは 甘[あま]くて 美味[おい]しいです。
+  Die diesjährigen Äpfel sind süß und lecker.
+
+  今年の夏は例年より暑くなると予想されています。
+  今年[ことし]の 夏[なつ]は 例年[れいねん]より 暑[あつ]くなると 予想[よそう]されています。
+  Es wird erwartet, dass dieser Sommer heißer wird als in den Vorjahren.
+
+  今年の四月に新しい仕事を始める予定です。
+  今年[ことし]の 四月[しがつ]に 新[あたら]しい 仕事[しごと]を 始[はじ]める 予定[よてい]です。
+  Ich plane, im April dieses Jahres eine neue Arbeit zu beginnen.
+
+  今年一杯には全てのプロジェクトを完了させたいと思います。
+  今年[ことし] 一杯[いっぱい]には 全[すべ]てのプロジェクトを 完了[かんりょう]させたいと 思[おも]います。
+  Ich möchte bis zum Ende dieses Jahres alle Projekte abschließen.
+
+  今年に入ってから、健康的な生活を心がけています。
+  今年[ことし]に 入[はい]ってから、健康的[けんこうてき]な 生活[せいかつ]を 心[こころ]がけています。
+  Seit Beginn dieses Jahres bemühe ich mich um einen gesunden Lebensstil.
+
+  今年はいつまでも、ほんとに暑いな。
+  今年[ことし]はいつまでも、ほんとに 暑[あつ]いな。
+  Kein Ende mit der Hitze in diesem Jahr!
+
+  今年の気候は変動が激しいですね。
+  今年[ことし]の 気候[きこう]は 変動[へんどう]が 激[はげ]しいですね。
+  Das Wetter in diesem Jahr ist sehr wechselhaft, nicht wahr?
+
+  今年のクィディッチ・カップは必ず勝つぞ！
+  今年[ことし]のクィディッチ・カップは 必[かなら]ず 勝[か]つぞ！
+  Ich sag's euch, dieses Jahr gewinnen wir ganz sicher den Quidditch-Pokal!
+
+  今年の米の価格はまだ上がると予想されています。
+  今年[ことし]の 米[こめ]の 価格[かかく]はまだ 上[あ]がると 予想[よそう]されています。
+  Es wird erwartet, dass die Reispreise in diesem Jahr noch weiter steigen werden.
+
+  今年の目標は新しい言語を学ぶことです。
+  今年[ことし]の 目標[もくひょう]は 新[あたら]しい 言語[げんご]を 学[まな]ぶことです。
+  Mein Ziel für dieses Jahr ist es, eine neue Sprache zu lernen.
+
+  今年の春は桜の開花が早いそうです。
+  今年[ことし]の 春[はる]は 桜[さくら]の 開花[かいか]が 早[はや]いそうです。
+  Es heißt, dass die Kirschblüten dieses Jahr früher als üblich blühen werden.
+
+  今年こそダイエットを成功させるぞ！
+  今年[ことし]こそダイエットを 成功[せいこう]させるぞ！
+  Dieses Jahr werde ich endlich erfolgreich abnehmen!
+
+  今年の冬は例年より寒くなると予報されています。
+  今年[ことし]の 冬[ふゆ]は 例年[れいねん]より 寒[さむ]くなると 予報[よほう]されています。
+  Es wird vorhergesagt, dass dieser Winter kälter sein wird als in den Vorjahren.
+
+  今年の新製品は大好評だそうです。
+  今年[ことし]の 新[しん]製品[せいひん]は 大好評[だいこうひょう]だそうです。
+  Die neuen Produkte dieses Jahres sind angeblich sehr beliebt.
+
+  今年の成績は去年より良くなりました。
+  今年[ことし]の 成績[せいせき]は 去年[きょねん]より 良[よ]くなりました。
+  Meine Noten in diesem Jahr sind besser als im letzten Jahr.
+
+  今年の旅行はどこに行く予定ですか？
+  今年[ことし]の 旅行[りょこう]はどこに 行[い]く 予定[よてい]ですか？
+  Wohin planst du dieses Jahr zu reisen?
+
+  今年の税金申告はもう済ませましたか？
+  今年[ことし]の 税金[ぜいきん]申告[しんこく]はもう 済[す]ませましたか？
+  Hast du deine Steuererklärung für dieses Jahr schon erledigt?
+
+  今年の花見は友達と行く予定です。
+  今年[ことし]の 花見[はなみ]は 友達[ともだち]と 行[い]く 予定[よてい]です。
+  Ich plane, dieses Jahr mit Freunden zur Kirschblütenschau zu gehen.
+
+  今年こそ禁煙に成功したいと思います。
+  今年[ことし]こそ 禁煙[きんえん]に 成功[せいこう]したいと 思[おも]います。
+  Ich hoffe, dass ich dieses Jahr endlich erfolgreich mit dem Rauchen aufhören kann.
+
+  今年の新入社員は優秀な人が多いですね。
+  今年[ことし]の 新入社員[しんにゅうしゃいん]は 優秀[ゆうしゅう]な 人[ひと]が 多[おお]いですね。
+  Es gibt viele talentierte Leute unter den neuen Mitarbeitern dieses Jahr, nicht wahr?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
