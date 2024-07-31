@@ -196,7 +196,11 @@
   opacity: 70%;
   
   &::before {
-    content: "⬑ ";
+    content: "⤴";
+    display: inline-block;
+    transform: scaleX(-1) translateY(-0.25em);
+    margin-right: 0.3em;
+    font-family: monospace;
   }
 }
 
