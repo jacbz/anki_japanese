@@ -1,6 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* gut: [良い](cards/0070.yml) (#70), [いー](cards/0258.yml) (#258)
+* gut: [良い](cards/0070.yml) (#70), [いい](cards/0258.yml) (#258)
 * Kind: [子供](cards/0128.yml) (#128), [子](cards/0268.yml) (#268)
 * für: [ため](cards/0100.yml) (#100), [にとって](cards/0278.yml) (#278)
 * Person, Mensch: [人](cards/0058.yml) (#58), [者](cards/0334.yml) (#334)
@@ -135,7 +135,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Mitternacht: [夜中](cards/1840.yml) (#1840), [深夜](cards/3478.yml) (#3478)
 * Arbeit: [働き](cards/2185.yml) (#2185), [労働](cards/3491.yml) (#3491)
 * einfach: [単純](cards/1591.yml) (#1591), [容易](cards/2317.yml) (#2317), [シンプル](cards/3493.yml) (#3493)
-* E-Mail: [メール](cards/0760.yml) (#760), [Eメール](cards/3502.yml) (#3502)
+* E-Mail: [メール](cards/0760.yml) (#760), [Ｅメール](cards/3502.yml) (#3502)
 * Vorbeugung; vorbeugen: [防止](cards/2738.yml) (#2738), [予防](cards/3503.yml) (#3503)
 * hey: [おい](cards/2578.yml) (#2578), [ねえ](cards/3512.yml) (#3512)
 * Mutter: [母](cards/0316.yml) (#316), [お袋](cards/3542.yml) (#3542)
@@ -194,7 +194,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Name: [名前](cards/0337.yml) (#337), [名](cards/0995.yml) (#995), [名称](cards/2771.yml) (#2771), [氏名](cards/4121.yml) (#4121)
 * Tanz: [踊り](cards/3416.yml) (#3416), [ダンス](cards/4122.yml) (#4122)
 * reibungslos: [スムーズ](cards/3579.yml) (#3579), [円滑](cards/4135.yml) (#4135)
-* Fernseher: [テレビ](cards/0408.yml) (#408), [TV](cards/4137.yml) (#4137)
+* Fernseher: [テレビ](cards/0408.yml) (#408), [ＴＶ](cards/4137.yml) (#4137)
 * Reis: [米](cards/1963.yml) (#1963), [飯](cards/4158.yml) (#4158)
 * Krankheit: [病気](cards/0559.yml) (#559), [病](cards/4161.yml) (#4161)
 * Ticket: [チケット](cards/2716.yml) (#2716), [切符](cards/4162.yml) (#4162)

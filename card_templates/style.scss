@@ -11,6 +11,7 @@
 @font-face {
   font-family: textbook;
   src: url("_ud.ttf");
+  unicode-range: U+3040-30FF, U+4E00-9FFF, U+3400-4DBF;
 }
 
 @font-face {
@@ -222,7 +223,7 @@
 }
 
 #lemma {
-  font-family: textbook;
+  font-family: textbook, 'SourceHanSans';
   font-size: 140%;
 }
 
