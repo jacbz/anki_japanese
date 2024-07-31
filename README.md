@@ -1,6 +1,6 @@
 # Japanisch 5000
 
-Hilf mit, das Deck **Japanisch 5000** zu verbessern! Das Deck enthält die 5000 häufigsten Wörter der japanischen Sprache, mit jeweils einem Beispielsatz.
+Hilf mit, das Deck **Japanisch 5000** zu verbessern! Das Deck enthält die 5000 häufigsten Wörter der japanischen Sprache, mit vielen Beispielsätzen, Audio und mehr.
 
 **Work In Progress** (noch nicht auf AnkiWeb)
 
