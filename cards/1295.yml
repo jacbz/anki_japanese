@@ -1,15 +1,15 @@
 Rang: 1295
 Lemma: 返す
 Lesung: かえす
-Alternativschreibweisen: ''
-Definition: zurückgeben
+Alternativschreibweisen: 反す・還す
+Definition: zurückgeben; umdrehen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Lesung mit Tonhöhe: <span class="accent_top">か</span><span>え</span><span>す</span>
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 返さない・返した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   本は必ず期限までに返すように。
   本[ほん]は 必[かなら]ず 期限[きげん]までに 返[かえ]すように。
   Bitte geben Sie Bücher immer rechtzeitig zurück.
+
+  干し草を返して、均等に乾かしましょう。
+  干[ほ]し 草[くさ]を 返[かえ]して、均等[きんとう]に 乾[かわ]かしましょう。
+  Lasst uns das Heu wenden, damit es gleichmäßig trocknet.
+
+  座布団を返して、もう少し座り心地を良くしましょう。
+  座布団[ざぶとん]を 返[かえ]して、もう 少[すこ]し 座[すわ]り 心地[ごこち]を 良[よ]くしましょう。
+  Lass uns die Sitzkissen umdrehen, um es etwas bequemer zu machen.
+
+  白紙に返して、もう一度計画を立て直しましょう。
+  白紙[はくし]に 返[かえ]して、もう一度[いちど] 計画[けいかく]を 立[た]て 直[なお]しましょう。
+  Lasst uns von vorne anfangen und den Plan noch einmal neu aufstellen.
+
+  話を元に返して、本題に戻りましょう。
+  話[はなし]を 元[もと]に 返[かえ]して、本題[ほんだい]に 戻[もど]りましょう。
+  Lass uns das Gespräch zum Ausgangspunkt zurückführen und zum Hauptthema zurückkehren.
+
+  借りたお金は必ず期日までに返さなければなりません。
+  借[か]りたお 金[かね]は 必[かなら]ず 期日[きじつ]までに 返[かえ]さなければなりません。
+  Geliehenes Geld muss unbedingt bis zum vereinbarten Termin zurückgezahlt werden.
+
+  読み終わった本を棚に返すのを忘れないでください。
+  読[よ]み 終[お]わった 本[ほん]を 棚[たな]に 返[かえ]すのを 忘[わす]れないでください。
+  Vergiss nicht, die ausgelesenen Bücher wieder ins Regal zurückzustellen.
+
+  スリップを返してくださいませんか。
+  スリップを 返[かえ]してくださいませんか。
+  Könnten Sie mir bitte meinen Unterrock zurückgeben?
+
+  借りた物は全て返しに行くから、一緒に来てくれる？
+  借[か]りた 物[もの]は 全[すべ]て 返[かえ]しに 行[い]くから、一緒[いっしょ]に 来[き]てくれる？
+  Ich gehe alles Geliehene zurückbringen, kommst du mit?
+
+  挨拶を返すのは基本的なマナーです。
+  挨拶[あいさつ]を 返[かえ]すのは 基本的[きほんてき]なマナーです。
+  Es gehört zum grundlegenden Anstand, einen Gruß zu erwidern.
+
+  彼女の笑顔に笑顔を返した。
+  彼女[かのじょ]の 笑顔[えがお]に 笑顔[えがお]を 返[かえ]した。
+  Ich erwiderte ihr Lächeln mit einem Lächeln.
+
+  受けた恩は必ず返さなければならない。
+  受[う]けた 恩[おん]は 必[かなら]ず 返[かえ]さなければならない。
+  Man muss unbedingt die Gefälligkeiten vergelten, die man erhalten hat.
+
+  田を返して、新しい作物を植える準備をしよう。
+  田[た]を 返[かえ]して、新[あたら]しい 作物[さくもつ]を 植[う]える 準備[じゅんび]をしよう。
+  Lasst uns das Feld pflügen und für die Aussaat neuer Pflanzen vorbereiten.
+
+  波が引いて、また返してくる。
+  波[なみ]が 引[ひ]いて、また 返[かえ]してくる。
+  Die Wellen ziehen sich zurück und kommen dann wieder.
+
+  この文章は難しいので、何度も読み返す必要がある。
+  この 文章[ぶんしょう]は 難[むずか]しいので、何度[なんど]も 読[よ]み 返[かえ]す 必要[ひつよう]がある。
+  Da dieser Text schwierig ist, muss man ihn mehrmals lesen.
+
+  ボールを投げ返すのが遅かったよ。
+  ボールを 投[な]げ 返[かえ]すのが 遅[おそ]かったよ。
+  Du warst langsam beim Zurückwerfen des Balls.
+
+  彼の質問に質問で返した。
+  彼[かれ]の 質問[しつもん]に 質問[しつもん]で 返[かえ]した。
+  Ich antwortete auf seine Frage mit einer Gegenfrage.
+
+  過去を思い返すと、懐かしい思い出がたくさんある。
+  過去[かこ]を 思[おも]い 返[かえ]すと、懐[なつ]かしい 思[おも]い 出[で]がたくさんある。
+  Wenn ich an die Vergangenheit zurückdenke, gibt es viele nostalgische Erinnerungen.
+
+  借りた本は来週までに返すつもりです。
+  借[か]りた 本[ほん]は 来週[らいしゅう]までに 返[かえ]すつもりです。
+  Ich habe vor, die ausgeliehenen Bücher bis nächste Woche zurückzugeben.
+
+  彼女の優しさに優しさで返そうと思う。
+  彼女[かのじょ]の 優[やさ]しさに 優[やさ]しさで 返[かえ]そうと 思[おも]う。
+  Ich möchte ihre Freundlichkeit mit Freundlichkeit erwidern.
+
+  この論文は何度も読み返して、内容を十分に理解しました。
+  この 論文[ろんぶん]は 何度[なんど]も 読[よ]み 返[かえ]して、内容[ないよう]を 十分[じゅうぶん]に 理解[りかい]しました。
+  Ich habe diese Abhandlung mehrmals gelesen und den Inhalt gründlich verstanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

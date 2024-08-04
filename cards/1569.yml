@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   東京は日本最大の都市である。
-  東京[とうきょう]は 日本[にっぽん] 最大[さいだい]の 都市[とし]である。
+  東京[とうきょう]は 日本[にほん] 最大[さいだい]の 都市[とし]である。
   Tokio ist die größte Stadt Japans.
+
+  都市計画に基づいて新しい公園が造られた。
+  都市計画[としけいかく]に 基[もと]づいて 新[あたら]しい 公園[こうえん]が 造[つく]られた。
+  Basierend auf der Stadtplanung wurde ein neuer Park angelegt.
+
+  都市化の進展により、農村部の人口が減少している。
+  都市化[としか]の 進展[しんてん]により、農村部[のうそんぶ]の 人口[じんこう]が 減少[げんしょう]している。
+  Durch die fortschreitende Verstädterung nimmt die Bevölkerung in ländlichen Gebieten ab.
+
+  彼は都市環境工学を専攻している。
+  彼[かれ]は 都市環境工学[としかんきょうこうがく]を 専攻[せんこう]している。
+  Er studiert Stadtökologie.
+
+  この都市河川の水質改善が急務だ。
+  この 都市河川[としかせん]の 水質改善[すいしつかいぜん]が 急務[きゅうむ]だ。
+  Die Verbesserung der Wasserqualität dieses urbanen Flusses ist dringend erforderlich.
+
+  都市気候の変化が市民の健康に影響を与えている。
+  都市気候[としきこう]の 変化[へんか]が 市民[しみん]の 健康[けんこう]に 影響[えいきょう]を 与[あた]えている。
+  Die Veränderungen des Stadtklimas beeinflussen die Gesundheit der Bürger.
+
+  都市交通の混雑を緩和するため、新しい地下鉄路線が開通した。
+  都市交通[としこうつう]の 混雑[こんざつ]を 緩和[かんわ]するため、新[あたら]しい 地下鉄[ちかてつ] 路線[ろせん]が 開通[かいつう]した。
+  Um die Überlastung des Stadtverkehrs zu reduzieren, wurde eine neue U-Bahn-Linie eröffnet.
+
+  都市社会学の観点から、コミュニティの変化を研究している。
+  都市社会学[とししゃかいがく]の 観点[かんてん]から、コミュニティの 変化[へんか]を 研究[けんきゅう]している。
+  Aus der Perspektive der Stadtsoziologie untersuche ich die Veränderungen in Gemeinschaften.
+
+  この文化都市には多くの美術館や博物館がある。
+  この 文化都市[ぶんかとし]には 多[おお]くの 美術館[びじゅつかん]や 博物館[はくぶつかん]がある。
+  Diese Kulturstadt hat viele Kunstgalerien und Museen.
+
+  地方都市の活性化が政府の重要課題となっている。
+  地方都市[ちほうとし]の 活性化[かっせいか]が 政府[せいふ]の 重要課題[じゅうようかだい]となっている。
+  Die Belebung der Provinzstädte ist zu einer wichtigen Aufgabe der Regierung geworden.
+
+  都市の膨張により、周辺の自然環境が脅かされている。
+  都市[とし]の 膨張[ぼうちょう]により、周辺[しゅうへん]の 自然環境[しぜんかんきょう]が 脅[おびや]かされている。
+  Durch die Ausdehnung der Stadt wird die umgebende natürliche Umwelt bedroht.
+
+  都市に流れ込む人々の数が年々増加している。
+  都市[とし]に 流[なが]れ 込[こ]む 人々[ひとびと]の 数[かず]が 年々[ねんねん] 増加[ぞうか]している。
+  Die Zahl der Menschen, die in die Stadt strömen, nimmt von Jahr zu Jahr zu.
+
+  都市に近い国道沿いに新しいショッピングモールがオープンした。
+  都市[とし]に 近[ちか]い 国道[こくどう] 沿[ぞ]いに 新[あたら]しいショッピングモールがオープンした。
+  Entlang der Landstraße in Stadtnähe wurde ein neues Einkaufszentrum eröffnet.
+
+  がっしりとした二重ガラスの窓が都市の騒音を閉めだしている。
+  がっしりとした 二重[にじゅう]ガラスの 窓[まど]が 都市[とし]の 騒音[そうおん]を 閉[し]めだしている。
+  Die soliden Doppelfenster schließen den Lärm der Stadt aus.
+
+  都市ガスの供給が一時的に停止し、市民生活に影響が出た。
+  都市[とし]ガスの 供給[きょうきゅう]が 一時的[いちじてき]に 停止[ていし]し、市民[しみん] 生活[せいかつ]に 影響[えいきょう]が 出[で]た。
+  Die Versorgung mit Stadtgas wurde vorübergehend unterbrochen, was das Leben der Bürger beeinträchtigte.
+
+  都市開発のプロジェクトが環境保護団体から批判を受けている。
+  都市開発[としかいはつ]のプロジェクトが 環境保護団体[かんきょうほごだんたい]から 批判[ひはん]を 受[う]けている。
+  Das Stadtentwicklungsprojekt wird von Umweltschutzorganisationen kritisiert.
+
+  近代都市の特徴として、高層ビルや複雑な交通網が挙げられる。
+  近代都市[きんだいとし]の 特徴[とくちょう]として、高層[こうそう]ビルや 複雑[ふくざつ]な 交通網[こうつうもう]が 挙[あ]げられる。
+  Zu den Merkmalen moderner Städte gehören Hochhäuser und komplexe Verkehrsnetze.
+
+  都市更新プロジェクトにより、古い建物が取り壊され、新しいオフィスビルが建設された。
+  都市更新[としこうしん]プロジェクトにより、古[ふる]い 建物[たてもの]が 取[と]り 壊[こわ]され、新[あたら]しいオフィスビルが 建設[けんせつ]された。
+  Durch das Stadterneuerungsprojekt wurden alte Gebäude abgerissen und neue Bürogebäude errichtet.
+
+  都市の発達に伴い、新たな社会問題が生じている。
+  都市[とし]の 発達[はったつ]に 伴[ともな]い、新[あら]たな 社会問題[しゃかいもんだい]が 生[しょう]じている。
+  Mit der Entwicklung der Städte entstehen neue soziale Probleme.
+
+  被爆都市の復興は、市民の強い意志と努力によって実現した。
+  被爆都市[ひばくとし]の 復興[ふっこう]は、市民[しみん]の 強[つよ]い 意志[いし]と 努力[どりょく]によって 実現[じつげん]した。
+  Der Wiederaufbau der von der Atombombe zerstörten Stadt wurde durch den starken Willen und die Anstrengungen der Bürger verwirklicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

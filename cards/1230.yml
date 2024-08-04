@@ -4,7 +4,7 @@ Lesung: ひだり
 Alternativschreibweisen: ''
 Definition: links
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n, vi, vt
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">だ</span><span class="accent_plain">り</span>
 Register: ''
 Dispersion: '87'
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   その棚を左に動かしてください。
   その 棚[たな]を 左[ひだり]に 動[うご]かしてください。
-  Bitte schieben Sie das Regal nach links.
+  Bitte rücken Sie dieses Regal nach links.
+
+  左足を怪我してしまい、歩くのが大変です。
+  左足[ひだりあし]を 怪我[けが]してしまい、歩[ある]くのが 大変[たいへん]です。
+  Ich habe mir das linke Bein verletzt und habe Schwierigkeiten beim Gehen.
+
+  彼女は左目が見えないそうだ。
+  彼女[かのじょ]は 左目[ひだりめ]が 見[み]えないそうだ。
+  Sie soll auf dem linken Auge blind sein.
+
+  左車線を走る時は追い越し禁止だよ。
+  左車線[ひだりしゃせん]を 走[はし]る 時[とき]は 追[お]い 越[こ]し 禁止[きんし]だよ。
+  Wenn du auf der linken Spur fährst, ist Überholen verboten.
+
+  私は左利きなので、左で字を書きます。
+  私[わたし]は 左利[ひだりき]きなので、左[ひだり]で 字[じ]を 書[か]きます。
+  Da ich Linkshänder bin, schreibe ich mit links.
+
+  次の交差点を左に曲がってください。
+  次[つぎ]の 交差点[こうさてん]を 左[ひだり]に 曲[ま]がってください。
+  Biegen Sie bitte an der nächsten Kreuzung links ab.
+
+  左から右へ文字を書くのは慣れていません。
+  左[ひだり]から 右[みぎ]へ 文字[もじ]を 書[か]くのは 慣[な]れていません。
+  Ich bin es nicht gewohnt, von links nach rechts zu schreiben.
+
+  彼は左のパンチが強いボクサーだ。
+  彼[かれ]は 左[ひだり]のパンチが 強[つよ]いボクサーだ。
+  Er ist ein Boxer mit einem starken linken Haken.
+
+  地図の左上に目的地が表示されています。
+  地図[ちず]の 左上[ひだりうえ]に 目的地[もくてきち]が 表示[ひょうじ]されています。
+  Der Zielort ist in der oberen linken Ecke der Karte angezeigt.
+
+  左右の耳の聞こえ方が違うんです。
+  左右[さゆう]の 耳[みみ]の 聞[き]こえ 方[かた]が 違[ちが]うんです。
+  Die Hörfähigkeit meiner linken und rechten Ohren ist unterschiedlich.
+
+  「そこを左に」と運転手に指示した。
+  「そこを 左[ひだり]に」と 運転手[うんてんしゅ]に 指示[しじ]した。
+  "Dort links", wies ich den Fahrer an.
+
+  敵が右から来れば左へ逃げる作戦だ。
+  敵[てき]が 右[みぎ]から 来[く]れば 左[ひだり]へ 逃[に]げる 作戦[さくせん]だ。
+  Die Strategie ist, nach links zu fliehen, wenn der Feind von rechts kommt.
+
+  頭を左に向けてください。
+  頭[あたま]を 左[ひだり]に 向[む]けてください。
+  Bitte wenden Sie Ihren Kopf nach links.
+
+  政治的に左寄りの考えを持っています。
+  政治的[せいじてき]に 左寄[ひだりよ]りの 考[かんが]えを 持[も]っています。
+  Ich habe politisch eher linke Ansichten.
+
+  彼は左団扇で過ごす夏が好きだ。
+  彼[かれ]は 左団扇[ひだりうちわ]で 過[す]ごす 夏[なつ]が 好[す]きだ。
+  Er mag es, den Sommer gemütlich mit einem Fächer zu verbringen.
+
+  左腕を怪我したので、しばらく仕事を休みます。
+  左腕[ひだりうで]を 怪我[けが]したので、しばらく 仕事[しごと]を 休[やす]みます。
+  Da ich mir den linken Arm verletzt habe, werde ich eine Weile nicht arbeiten.
+
+  彼女は左文字で手紙を書くのが趣味だ。
+  彼女[かのじょ]は 左文字[ひだりもじ]で 手紙[てがみ]を 書[か]くのが 趣味[しゅみ]だ。
+  Es ist ihr Hobby, Briefe in Spiegelschrift zu schreiben.
+
+  左の方が利くので、左手でギターを弾きます。
+  左[ひだり]の 方[ほう]が 利[き]くので、左手[ひだりて]でギターを 弾[ひ]きます。
+  Da ich linkshändig bin, spiele ich Gitarre mit der linken Hand.
+
+  次の信号を左に曲がると、目的地に着きます。
+  次[つぎ]の 信号[しんごう]を 左[ひだり]に 曲[ま]がると、目的地[もくてきち]に 着[つ]きます。
+  Wenn Sie an der nächsten Ampel links abbiegen, erreichen Sie Ihr Ziel.
+
+  彼は左の拳で相手を倒した。
+  彼[かれ]は 左[ひだり]の 拳[こぶし]で 相手[あいて]を 倒[たお]した。
+  Er besiegte seinen Gegner mit der linken Faust.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

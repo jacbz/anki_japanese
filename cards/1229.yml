@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: <span>あ</span><span class="accent_plain">ら</span><span 
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 洗わない・洗った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   食べる前に必ず手を洗ってね。
   食[た]べる 前[まえ]に 必[かなら]ず 手[て]を 洗[あら]ってね。
-  Vergewissere dich, dass du deine Hände wäschst, bevor du isst.
+  Wasch dir unbedingt die Hände, bevor du isst.
+
+  シャンプーで頭を洗う時は、指の腹でマッサージするように洗いましょう。
+  シャンプーで 頭[あたま]を 洗[あら]う 時[とき]は、指[ゆび]の 腹[はら]でマッサージするように 洗[あら]いましょう。
+  Wenn du dir die Haare mit Shampoo wäschst, massiere dabei mit den Fingerspitzen.
+
+  車を洗うのは週末の楽しみの一つです。
+  車[くるま]を 洗[あら]うのは 週末[しゅうまつ]の 楽[たの]しみの 一[ひと]つです。
+  Das Autowaschen ist eines meiner Wochenendvergnügen.
+
+  お皿を洗う時は、熱いお湯を使うと効果的です。
+  お 皿[さら]を 洗[あら]う 時[とき]は、熱[あつ]いお 湯[ゆ]を 使[つか]うと 効果的[こうかてき]です。
+  Beim Geschirrspülen ist es effektiv, heißes Wasser zu verwenden.
+
+  海辺を歩くと、波が砂浜を洗うのが見えます。
+  海辺[うみべ]を 歩[ある]くと、波[なみ]が 砂浜[すなはま]を 洗[あら]うのが 見[み]えます。
+  Wenn man am Strand entlanggeht, sieht man, wie die Wellen den Sand umspülen.
+
+  新しい従業員の身元を徹底的に洗うように人事部に指示が出ました。
+  新[あたら]しい 従業員[じゅうぎょういん]の 身元[みもと]を 徹底的[てっていてき]に 洗[あら]うように 人事部[じんじぶ]に 指示[しじ]が 出[で]ました。
+  Die Personalabteilung wurde angewiesen, den Hintergrund der neuen Mitarbeiter gründlich zu überprüfen.
+
+  彼は犯罪組織から足を洗って、新しい人生を始めた。
+  彼[かれ]は 犯罪組織[はんざいそしき]から 足[あし]を 洗[あら]って、新[あたら]しい 人生[じんせい]を 始[はじ]めた。
+  Er stieg aus der kriminellen Organisation aus und begann ein neues Leben.
+
+  歯を洗うのを忘れずに寝てください。
+  歯[は]を 洗[あら]うのを 忘[わす]れずに 寝[ね]てください。
+  Vergiss nicht, dir die Zähne zu putzen, bevor du schlafen gehst.
+
+  汚れた野菜はよく洗ってから調理しましょう。
+  汚[よご]れた 野菜[やさい]はよく 洗[あら]ってから 調理[ちょうり]しましょう。
+  Wasche schmutziges Gemüse gründlich, bevor du es zubereitest.
+
+  洗濯機で服を洗うときは、色物と白物を分けて洗うといいよ。
+  洗濯機[せんたくき]で 服[ふく]を 洗[あら]うときは、色物[いろもの]と 白物[しろもの]を 分[わ]けて 洗[あら]うといいよ。
+  Beim Waschen in der Waschmaschine ist es gut, farbige und weiße Kleidung getrennt zu waschen.
+
+  彼女は毎朝顔を冷水で洗って、肌を引き締めています。
+  彼女[かのじょ]は 毎朝[まいあさ] 顔[かお]を 冷水[れいすい]で 洗[あら]って、肌[はだ]を 引[ひ]き 締[し]めています。
+  Sie wäscht jeden Morgen ihr Gesicht mit kaltem Wasser, um ihre Haut zu straffen.
+
+  雨が街路を洗い、空気がきれいになった感じがした。
+  雨[あめ]が 街路[がいろ]を 洗[あら]い、空気[くうき]がきれいになった 感[かん]じがした。
+  Der Regen wusch die Straßen und die Luft fühlte sich sauberer an.
+
+  犯人の足取りを洗うために、警察は周辺の防犯カメラを確認している。
+  犯人[はんにん]の 足取[あしど]りを 洗[あら]うために、警察[けいさつ]は 周辺[しゅうへん]の 防犯[ぼうはん]カメラを 確認[かくにん]している。
+  Um die Bewegungen des Täters zu ermitteln, überprüft die Polizei die Überwachungskameras in der Umgebung.
+
+  手術前に医師は念入りに手を洗っていた。
+  手術[しゅじゅつ] 前[まえ]に 医師[いし]は 念入[ねんい]りに 手[て]を 洗[あら]っていた。
+  Vor der Operation wusch sich der Arzt gründlich die Hände.
+
+  彼は過去の過ちを洗い流すために、ボランティア活動を始めた。
+  彼[かれ]は 過去[かこ]の 過[あやま]ちを 洗[あら]い 流[なが]すために、ボランティア 活動[かつどう]を 始[はじ]めた。
+  Er begann mit Freiwilligenarbeit, um seine Fehler aus der Vergangenheit wiedergutzumachen.
+
+  畑仕事の後は、土を洗い落とすのに時間がかかります。
+  畑仕事[はたけしごと]の 後[あと]は、土[つち]を 洗[あら]い 落[お]とすのに 時間[じかん]がかかります。
+  Nach der Feldarbeit braucht es Zeit, um die Erde abzuwaschen.
+
+  子供たちは川で水遊びをしながら、顔を洗っていた。
+  子供[こども]たちは 川[かわ]で 水遊[みずあそ]びをしながら、顔[かお]を 洗[あら]っていた。
+  Die Kinder wuschen sich die Gesichter, während sie im Fluss planschten.
+
+  汚れを完全に洗い落とすには、強力な洗剤が必要かもしれません。
+  汚[よご]れを 完全[かんぜん]に 洗[あら]い 落[お]とすには、強力[きょうりょく]な 洗剤[せんざい]が 必要[ひつよう]かもしれません。
+  Um den Schmutz vollständig zu entfernen, könnte ein starkes Reinigungsmittel notwendig sein.
+
+  彼女は新鮮な野菜を洗って、サラダを作り始めた。
+  彼女[かのじょ]は 新鮮[しんせん]な 野菜[やさい]を 洗[あら]って、サラダを 作[つく]り 始[はじ]めた。
+  Sie wusch das frische Gemüse und begann, einen Salat zuzubereiten.
+
+  海岸を洗う波の音を聞くと、心が落ち着きます。
+  海岸[かいがん]を 洗[あら]う 波[なみ]の 音[おと]を 聞[き]くと、心[こころ]が 落[お]ち 着[つ]きます。
+  Das Geräusch der Wellen, die an die Küste schlagen, beruhigt mich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

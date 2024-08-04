@@ -2,7 +2,7 @@ Rang: 1546
 Lemma: 冷たい
 Lesung: つめたい
 Alternativschreibweisen: ''
-Definition: kalt, kühl
+Definition: kalt
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">め</span><span class="accent_plain">た</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>つ</span><span class="accent_plain">め</span><span 
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 冷たくない・冷たかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   何か冷たいものが飲みたいなあ。
   何[なに]か 冷[つめ]たいものが 飲[の]みたいなあ。
   Ich möchte etwas Kaltes trinken.
+
+  冷たい風が頬を撫でていく。
+  冷[つめ]たい 風[かぜ]が 頬[ほお]を 撫[な]でていく。
+  Ein kalter Wind streicht über meine Wangen.
+
+  この冷たいビールは最高だね。
+  この 冷[つめ]たいビールは 最高[さいこう]だね。
+  Dieses kalte Bier ist einfach spitze.
+
+  手が冷たいね。暖めようか？
+  手[て]が 冷[つめ]たいね。暖[あたた]めようか？
+  Deine Hände sind kalt. Soll ich sie wärmen?
+
+  氷のように冷たい水に飛び込んだ。
+  氷[こおり]のように 冷[つめ]たい 水[みず]に 飛[と]び 込[こ]んだ。
+  Ich sprang in das eiskalte Wasser.
+
+  彼女は冷たい人だと思っていたが、意外と優しかった。
+  彼女[かのじょ]は 冷[つめ]たい 人[ひと]だと 思[おも]っていたが、意外[いがい]と 優[やさ]しかった。
+  Ich dachte, sie wäre eine kaltherzige Person, aber überraschenderweise war sie sehr freundlich.
+
+  彼の冷たい心は誰も溶かすことができなかった。
+  彼[かれ]の 冷[つめ]たい 心[こころ]は 誰[だれ]も 溶[と]かすことができなかった。
+  Niemand konnte sein kaltes Herz zum Schmelzen bringen.
+
+  上司の冷たい態度に傷ついた。
+  上司[じょうし]の 冷[つめ]たい 態度[たいど]に 傷[きず]ついた。
+  Ich war verletzt von der kühlen Haltung meines Vorgesetzten.
+
+  彼に冷たい扱いをされて、とても悲しかった。
+  彼[かれ]に 冷[つめ]たい 扱[あつか]いをされて、とても 悲[かな]しかった。
+  Ich war sehr traurig, als er mich kalt behandelte.
+
+  時間が経つにつれて、お茶が冷たくなってしまった。
+  時間[じかん]が 経[た]つにつれて、お 茶[ちゃ]が 冷[つめ]たくなってしまった。
+  Mit der Zeit wurde der Tee kalt.
+
+  金属製のハーモニカは氷のように冷たかった。
+  金属製[きんぞくせい]のハーモニカは 氷[こおり]のように 冷[つめ]たかった。
+  Die metallene Mundharmonika war kalt wie Eis.
+
+  冷たい痙攣が体中を走った。
+  冷[つめ]たい 痙攣[けいれん]が 体中[からだじゅう]を 走[はし]った。
+  Ein kalter Schauer lief mir durch den ganzen Körper.
+
+  少し冷たい夜だけど、たき火で暖まろう。
+  少[すこ]し 冷[つめ]たい 夜[よる]だけど、たき 火[び]で 暖[あたた]まろう。
+  Es ist eine etwas kühle Nacht, aber lass uns am Lagerfeuer aufwärmen.
+
+  お茶でもいかがですか。何か冷たいものでも？
+  お 茶[ちゃ]でもいかがですか。何[なに]か 冷[つめ]たいものでも？
+  Möchten Sie vielleicht Tee? Oder etwas Kaltes?
+
+  彼は私を冷たい目で見つめた。
+  彼[かれ]は 私[わたし]を 冷[つめ]たい 目[め]で 見[み]つめた。
+  Er sah mich mit kalten Augen an.
+
+  あの人は仕事では冷たいけど、プライベートでは優しいんだ。
+  あの 人[ひと]は 仕事[しごと]では 冷[つめ]たいけど、プライベートでは 優[やさ]しいんだ。
+  Diese Person ist bei der Arbeit kühl, aber im Privatleben sehr nett.
+
+  「今は忙しいんだ」と彼は冷たく言った。
+  「今[いま]は 忙[いそが]しいんだ」と 彼[かれ]は 冷[つめ]たく 言[い]った。
+  "Ich bin jetzt beschäftigt", sagte er frostig.
+
+  冷たいシャワーを浴びて、暑さを吹き飛ばした。
+  冷[つめ]たいシャワーを 浴[あ]びて、暑[あつ]さを 吹[ふ]き 飛[と]ばした。
+  Ich nahm eine kalte Dusche und vertrieb die Hitze.
+
+  冷たいデザートを食べて、暑い夏を乗り切ろう。
+  冷[つめ]たいデザートを 食[た]べて、暑[あつ]い 夏[なつ]を 乗[の]り 切[き]ろう。
+  Lass uns kalte Desserts essen, um den heißen Sommer zu überstehen.
+
+  彼女の冷たい返事に、がっかりした。
+  彼女[かのじょ]の 冷[つめ]たい 返事[へんじ]に、がっかりした。
+  Ich war enttäuscht von ihrer kühlen Antwort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

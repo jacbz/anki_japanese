@@ -2,7 +2,7 @@ Rang: 1420
 Lemma: 数字
 Lesung: すうじ
 Alternativschreibweisen: ''
-Definition: Zahl
+Definition: Ziffer, Zahl
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>す</span><span class="accent_plain">う</span><span class="accent_plain">じ</span>
@@ -16,7 +16,87 @@ Konjugation: ''
 Beispielsätze: |-
   正確な数字は覚えていません。
   正確[せいかく]な 数字[すうじ]は 覚[おぼ]えていません。
-  Ich erinnere mich nicht mehr an die genaue Zahl.
+  Ich kann mich nicht an die genauen Zahlen erinnern.
+
+  この数字暗号を解読できますか。
+  この 数字暗号[すうじあんごう]を 解読[かいどく]できますか。
+  Können Sie diesen Zahlencode entschlüsseln?
+
+  子供たちは数字合わせゲームを楽しんでいます。
+  子供[こども]たちは 数字合[すうじあ]わせゲームを 楽[たの]しんでいます。
+  Die Kinder haben Spaß am Zahlenmemory-Spiel.
+
+  この金庫は数字合わせ錠がついています。
+  この 金庫[きんこ]は 数字合[すうじあ]わせ 錠[じょう]がついています。
+  Dieser Safe hat ein Zahlenschloss.
+
+  数字データを分析して、傾向を把握しましょう。
+  数字[すうじ]データを 分析[ぶんせき]して、傾向[けいこう]を 把握[はあく]しましょう。
+  Lasst uns die numerischen Daten analysieren, um die Trends zu erfassen.
+
+  音楽の授業で数字譜の読み方を学びました。
+  音楽[おんがく]の 授業[じゅぎょう]で 数字譜[すうじふ]の 読[よ]み 方[かた]を 学[まな]びました。
+  Im Musikunterricht haben wir gelernt, wie man Ziffernnotation liest.
+
+  この数字表を参照して、正しい値を入力してください。
+  この 数字表[すうじひょう]を 参照[さんしょう]して、正[ただ]しい 値[あたい]を 入力[にゅうりょく]してください。
+  Bitte beziehen Sie sich auf diese Zahlentabelle und geben Sie den korrekten Wert ein.
+
+  彼女は数字記憶法のエキスパートです。
+  彼女[かのじょ]は 数字記憶法[すうじきおくほう]のエキスパートです。
+  Sie ist eine Expertin für Zahlenmerkverfahren.
+
+  アラビア数字とローマ数字の変換方法を教えてください。
+  アラビア 数字[すうじ]とローマ 数字[すうじ]の 変換方法[へんかんほうほう]を 教[おし]えてください。
+  Bitte erklären Sie mir, wie man arabische Zahlen in römische Zahlen umwandelt.
+
+  漢数字で日付を書くのは難しいですね。
+  漢数字[かんすうじ]で 日付[ひづけ]を 書[か]くのは 難[むずか]しいですね。
+  Es ist schwierig, Daten mit chinesischen Zahlzeichen zu schreiben, nicht wahr?
+
+  数字の3は私のラッキーナンバーです。
+  数字[すうじ]の3は 私[わたし]のラッキーナンバーです。
+  Die Zahl 3 ist meine Glückszahl.
+
+  五桁の数字を暗記するのは大変です。
+  五[ご] 桁[けた]の 数字[すうじ]を 暗記[あんき]するのは 大変[たいへん]です。
+  Es ist schwierig, sich eine fünfstellige Zahl zu merken.
+
+  ありのままの数字を見せてください。
+  ありのままの 数字[すうじ]を 見[み]せてください。
+  Zeigen Sie mir bitte die nackten Zahlen.
+
+  統計では、時に数字が一人歩きすることがあります。
+  統計[とうけい]では、時[とき]に 数字[すうじ]が 一人歩[ひとりある]きすることがあります。
+  In der Statistik können Zahlen manchmal ein Eigenleben entwickeln.
+
+  この結果を数字で表すことができますか。
+  この 結果[けっか]を 数字[すうじ]で 表[あらわ]すことができますか。
+  Können Sie dieses Ergebnis in Zahlen ausdrücken?
+
+  彼は数字に明るく、財務分析が得意です。
+  彼[かれ]は 数字[すうじ]に 明[あか]るく、財務分析[ざいむぶんせき]が 得意[とくい]です。
+  Er kennt sich gut mit Zahlen aus und ist ein Experte für Finanzanalysen.
+
+  数字に弱い人は、電卓を使うといいでしょう。
+  数字[すうじ]に 弱[よわ]い 人[ひと]は、電卓[でんたく]を 使[つか]うといいでしょう。
+  Menschen, die nicht gut mit Zahlen umgehen können, sollten einen Taschenrechner benutzen.
+
+  具体的な数字を挙げて説明してください。
+  具体的[ぐたいてき]な 数字[すうじ]を 挙[あ]げて 説明[せつめい]してください。
+  Bitte nennen Sie konkrete Zahlen bei Ihrer Erklärung.
+
+  昨年より売上の数字を上げることができました。
+  昨年[さくねん]より 売上[うりあげ]の 数字[すうじ]を 上[あ]げることができました。
+  Wir konnten die Verkaufszahlen im Vergleich zum Vorjahr erhöhen.
+
+  数字をごまかすのは違法行為です。
+  数字[すうじ]をごまかすのは 違法行為[いほうこうい]です。
+  Die Manipulation von Zahlen ist eine illegale Handlung.
+
+  数字上の問題はありませんが、実際の状況は複雑です。
+  数字上[すうじじょう]の 問題[もんだい]はありませんが、実際[じっさい]の 状況[じょうきょう]は 複雑[ふくざつ]です。
+  Numerisch gibt es keine Probleme, aber die tatsächliche Situation ist komplex.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

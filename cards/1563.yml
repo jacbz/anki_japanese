@@ -1,8 +1,8 @@
 Rang: 1563
 Lemma: 遅れる
 Lesung: おくれる
-Alternativschreibweisen: ''
-Definition: sich verspäten
+Alternativschreibweisen: 後れる
+Definition: sich verspäten; zurückbleiben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">く</span><span class="accent_plain">れ</span><span
@@ -10,7 +10,7 @@ Lesung mit Tonhöhe: <span>お</span><span class="accent_plain">く</span><span 
 Register: ''
 Dispersion: '99'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 遅れない・遅れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,6 +18,82 @@ Beispielsätze: |-
   彼はよく学校に遅れる。
   彼[かれ]はよく 学校[がっこう]に 遅[おく]れる。
   Er kommt oft zu spät zur Schule.
+
+  電車が5分遅れています。
+  電車[でんしゃ]が5分[ふん] 遅[おく]れています。
+  Der Zug hat 5 Minuten Verspätung.
+
+  季節が遅れて、桜の開花が例年より遅くなりそうです。
+  季節[きせつ]が 遅[おく]れて、桜[さくら]の 開花[かいか]が 例年[れいねん]より 遅[おそ]くなりそうです。
+  Die Jahreszeit verzögert sich, und es sieht so aus, als würden die Kirschblüten später als üblich blühen.
+
+  気付くのが遅れて、チャンスを逃してしまった。
+  気付[きづ]くのが 遅[おく]れて、チャンスを 逃[のが]してしまった。
+  Ich habe es zu spät bemerkt und die Chance verpasst.
+
+  生理が遅れているので、心配です。
+  生理[せいり]が 遅[おく]れているので、心配[しんぱい]です。
+  Meine Periode ist überfällig, und ich bin besorgt.
+
+  返事が遅れてすみません。忙しくて時間がなかったんです。
+  返事[へんじ]が 遅[おく]れてすみません。忙[いそが]しくて 時間[じかん]がなかったんです。
+  Entschuldigung für die verspätete Antwort. Ich war beschäftigt und hatte keine Zeit.
+
+  納期に遅れそうなので、取引先に連絡しなければなりません。
+  納期[のうき]に 遅[おく]れそうなので、取引先[とりひきさき]に 連絡[れんらく]しなければなりません。
+  Da wir den Liefertermin wahrscheinlich nicht einhalten können, müssen wir den Kunden benachrichtigen.
+
+  婚期が遅れているけど、焦る必要はないと思う。
+  婚期[こんき]が 遅[おく]れているけど、焦[あせ]る 必要[ひつよう]はないと 思[おも]う。
+  Ich habe zwar das übliche Heiratsalter überschritten, aber ich denke, es besteht kein Grund zur Eile.
+
+  少し遅れそうだから、先に行っていてください。
+  少[すこ]し 遅[おく]れそうだから、先[さき]に 行[い]っていてください。
+  Ich werde mich wahrscheinlich ein bisschen verspäten, also geh bitte schon mal vor.
+
+  バスに遅れて、次の便まで1時間待たなければならなかった。
+  バスに 遅[おく]れて、次[つぎ]の 便[びん]まで1時間[いちじかん] 待[ま]たなければならなかった。
+  Ich habe den Bus verpasst und musste eine Stunde auf den nächsten warten.
+
+  支払いが遅れると、延滞金が発生します。
+  支払[しはら]いが 遅[おく]れると、延滞金[えんたいきん]が 発生[はっせい]します。
+  Wenn die Zahlung verzögert wird, fallen Verzugsgebühren an.
+
+  開発が遅れているプロジェクトの見直しが必要だ。
+  開発[かいはつ]が 遅[おく]れているプロジェクトの 見直[みなお]しが 必要[ひつよう]だ。
+  Eine Überprüfung des Projekts, dessen Entwicklung sich verzögert hat, ist erforderlich.
+
+  時計が遅れているから、新しい電池に交換しなきゃ。
+  時計[とけい]が 遅[おく]れているから、新[あたら]しい 電池[でんち]に 交換[こうかん]しなきゃ。
+  Die Uhr geht nach, also muss ich die Batterie austauschen.
+
+  技術の進歩に遅れないよう、常に新しい情報をチェックしています。
+  技術[ぎじゅつ]の 進歩[しんぽ]に 遅[おく]れないよう、常[つね]に 新[あたら]しい 情報[じょうほう]をチェックしています。
+  Um mit dem technischen Fortschritt Schritt zu halten, prüfe ich ständig neue Informationen.
+
+  ヨーロッパより遅れているこの分野で、どうすれば追いつけるでしょうか。
+  ヨーロッパより 遅[おく]れているこの 分野[ぶんや]で、どうすれば 追[お]いつけるでしょうか。
+  Wie können wir in diesem Bereich, in dem wir hinter Europa zurückliegen, aufholen?
+
+  時代に遅れないようにSNSを始めたけど、使い方がよくわからない。
+  時代[じだい]に 遅[おく]れないようにSNSを 始[はじ]めたけど、使[つか]い 方[かた]がよくわからない。
+  Ich habe mit sozialen Medien angefangen, um nicht hinter der Zeit zurückzubleiben, aber ich verstehe nicht wirklich, wie man sie benutzt.
+
+  流行に遅れないよう、最新のファッション雑誌をチェックしている。
+  流行[りゅうこう]に 遅[おく]れないよう、最新[さいしん]のファッション 雑誌[ざっし]をチェックしている。
+  Um nicht aus der Mode zu kommen, überprüfe ich die neuesten Modezeitschriften.
+
+  成長の遅れた子供のためのサポート教室があると聞きました。
+  成長[せいちょう]の 遅[おく]れた 子供[こども]のためのサポート 教室[きょうしつ]があると 聞[き]きました。
+  Ich habe gehört, dass es Unterstützungsklassen für Kinder mit Entwicklungsverzögerungen gibt.
+
+  夫に遅れて、一人暮らしを始めた母は寂しそうだった。
+  夫[おっと]に 遅[おく]れて、一人暮らし[ひとりぐらし]を 始[はじ]めた 母[はは]は 寂[さび]しそうだった。
+  Meine Mutter, die nach dem Tod meines Vaters allein zu leben begann, schien einsam zu sein.
+
+  重要な会議に遅れそうで、とても焦っている。
+  重要[じゅうよう]な 会議[かいぎ]に 遅[おく]れそうで、とても 焦[あせ]っている。
+  Ich bin sehr nervös, weil ich zu spät zu einer wichtigen Besprechung zu kommen scheine.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

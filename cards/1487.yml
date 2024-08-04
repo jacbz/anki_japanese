@@ -1,10 +1,10 @@
 Rang: 1487
 Lemma: 暇
 Lesung: ひま
-Alternativschreibweisen: ''
+Alternativschreibweisen: 閑
 Definition: frei; Freizeit
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">ま</span>
 Register: ''
 Dispersion: '83'
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   今晩暇ですか。
   今晩[こんばん] 暇[ひま]ですか。
-  Bist du heute Abend frei?
+  Haben Sie heute Abend Zeit?
+
+  忙しくて、食べる暇がありません。
+  忙[いそが]しくて、食[た]べる 暇[ひま]がありません。
+  Ich bin so beschäftigt, dass ich keine Zeit zum Essen habe.
+
+  暇をみて連絡します。
+  暇[ひま]をみて 連絡[れんらく]します。
+  Ich melde mich, sobald ich Zeit habe.
+
+  彼女は暇を見つけては本を読んでいる。
+  彼女[かのじょ]は 暇[ひま]を 見[み]つけては 本[ほん]を 読[よ]んでいる。
+  Sie liest immer, wenn sie freie Zeit findet.
+
+  週末は暇をもてあましています。
+  週末[しゅうまつ]は 暇[ひま]をもてあましています。
+  Am Wochenende weiß ich nichts mit meiner Zeit anzufangen.
+
+  この仕事は暇を割く価値がある。
+  この 仕事[しごと]は 暇[ひま]を 割[さ]く 価値[かち]がある。
+  Diese Arbeit ist es wert, sich extra Zeit dafür zu nehmen.
+
+  映画を見る暇を作ろう。
+  映画[えいが]を 見[み]る 暇[ひま]を 作[つく]ろう。
+  Lass uns Zeit finden, um ins Kino zu gehen.
+
+  暇な一日を過ごすのは久しぶりだ。
+  暇[ひま]な 一日[いちにち]を 過[す]ごすのは 久[ひさ]しぶりだ。
+  Es ist lange her, dass ich einen freien Tag hatte.
+
+  不景気で店が暇になっている。
+  不景気[ふけいき]で 店[みせ]が 暇[ひま]になっている。
+  Aufgrund der schlechten Wirtschaftslage läuft das Geschäft schlecht.
+
+  来週暇が出るので、旅行に行こうと思います。
+  来週[らいしゅう] 暇[ひま]が 出[で]るので、旅行[りょこう]に 行[い]こうと 思[おも]います。
+  Ich habe nächste Woche Urlaub, also denke ich darüber nach, zu verreisen.
+
+  彼は昨日会社から暇をもらった。
+  彼[かれ]は 昨日[きのう] 会社[かいしゃ]から 暇[ひま]をもらった。
+  Er wurde gestern von seiner Firma entlassen.
+
+  暇を潰すためにゲームをしている。
+  暇[ひま]を 潰[つぶ]すためにゲームをしている。
+  Ich spiele Spiele, um mir die Zeit zu vertreiben.
+
+  暇にまかせていろんな料理を作ってみた。
+  暇[ひま]にまかせていろんな 料理[りょうり]を 作[つく]ってみた。
+  Zum Zeitvertreib habe ich verschiedene Gerichte gekocht.
+
+  仕事が忙しくて、友達に会う暇がない。
+  仕事[しごと]が 忙[いそが]しくて、友達[ともだち]に 会[あ]う 暇[ひま]がない。
+  Ich bin so beschäftigt mit der Arbeit, dass ich keine Zeit habe, mich mit Freunden zu treffen.
+
+  暇な時間があれば、趣味に没頭したい。
+  暇[ひま]な 時間[じかん]があれば、趣味[しゅみ]に 没頭[ぼっとう]したい。
+  Wenn ich freie Zeit habe, möchte ich mich meinem Hobby widmen.
+
+  彼は暇を見て、こっそり計画を立てていた。
+  彼[かれ]は 暇[ひま]を 見[み]て、こっそり 計画[けいかく]を 立[た]てていた。
+  Er machte heimlich Pläne, wann immer er Zeit dazu fand.
+
+  暇にまかせて散歩するのが好きだ。
+  暇[ひま]にまかせて 散歩[さんぽ]するのが 好[す]きだ。
+  Ich mag es, in meiner Freizeit spazieren zu gehen.
+
+  暇を持て余して、何をしていいかわからない。
+  暇[ひま]を 持[も]て 余[あま]して、何[なに]をしていいかわからない。
+  Ich habe zu viel freie Zeit und weiß nicht, was ich damit anfangen soll.
+
+  今度暇になったら、一緒にコーヒーでも飲みませんか。
+  今度[こんど] 暇[ひま]になったら、一緒[いっしょ]にコーヒーでも 飲[の]みませんか。
+  Wenn du das nächste Mal Zeit hast, wollen wir zusammen einen Kaffee trinken gehen?
+
+  暇を見つけてはジムに通っている。
+  暇[ひま]を 見[み]つけてはジムに 通[かよ]っている。
+  Ich gehe ins Fitnessstudio, wann immer ich Zeit dafür finde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

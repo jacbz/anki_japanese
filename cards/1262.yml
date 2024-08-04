@@ -2,13 +2,13 @@ Rang: 1262
 Lemma: クラス
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Klasse
+Definition: Klasse; Kurs
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">く</span><span>ら</span><span>す</span>
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: engl. class
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   調査の結果をクラスで発表する。
   調査[ちょうさ]の 結果[けっか]をクラスで 発表[はっぴょう]する。
-  Ich werde die Ergebnisse meiner Recherche vor der Klasse präsentieren.
+  Ich werde die Ergebnisse der Untersuchung in der Klasse präsentieren.
+
+  クラス会で久しぶりに同級生に会えるのが楽しみだ。
+  クラス 会[かい]で 久[ひさ]しぶりに 同級生[どうきゅうせい]に 会[あ]えるのが 楽[たの]しみだ。
+  Ich freue mich darauf, beim Klassentreffen nach langer Zeit meine Mitschüler wiederzusehen.
+
+  英語のクラスで新しい単語を学んだ。
+  英語[えいご]のクラスで 新[あたら]しい 単語[たんご]を 学[まな]んだ。
+  Im Englischunterricht habe ich neue Vokabeln gelernt.
+
+  ガムがほしい人がもっといるからな。まず、おまえのクラスのみんな。
+  ガムがほしい 人[ひと]がもっといるからな。まず、おまえのクラスのみんな。
+  Es gibt noch mehr Leute, die Kaugummi wollen. Zuerst alle aus deiner Klasse.
+
+  クラス討論で環境問題について意見を交換した。
+  クラス 討論[とうろん]で 環境問題[かんきょうもんだい]について 意見[いけん]を 交換[こうかん]した。
+  In der Klassendiskussion haben wir Meinungen zu Umweltproblemen ausgetauscht.
+
+  新学期が始まり、クラス分けテストを受けた。
+  新[しん] 学期[がっき]が 始[はじ]まり、クラス 分[わ]けテストを 受[う]けた。
+  Das neue Semester hat begonnen, und ich habe einen Einstufungstest gemacht.
+
+  彼女は上のクラスの人々と付き合うことが多い。
+  彼女[かのじょ]は 上[うえ]のクラスの 人々[ひとびと]と 付[つ]き 合[あ]うことが 多[おお]い。
+  Sie verkehrt oft mit Menschen aus der oberen Gesellschaftsschicht.
+
+  このクラスマガジンは若い女性をターゲットにしています。
+  このクラスマガジンは 若[わか]い 女性[じょせい]をターゲットにしています。
+  Dieses Zielgruppenmagazin richtet sich an junge Frauen.
+
+  彼は経済的には上のクラスに属している。
+  彼[かれ]は 経済的[けいざいてき]には 上[うえ]のクラスに 属[ぞく]している。
+  Er gehört finanziell zur oberen Schicht.
+
+  この車はトップクラスの性能を誇っている。
+  この 車[くるま]はトップクラスの 性能[せいのう]を 誇[ほこ]っている。
+  Dieses Auto verfügt über Spitzenleistungen.
+
+  2トンクラスのブルドーザーを工事現場で使用している。
+  2トンクラスのブルドーザーを 工事現場[こうじげんば]で 使用[しよう]している。
+  Auf der Baustelle wird ein Bulldozer der Zweitonnenklasse eingesetzt.
+
+  扉をあけて、なるほどＢクラスのホテルであることがよくわかった。
+  扉[とびら]をあけて、なるほどＢクラスのホテルであることがよくわかった。
+  Als ich die Tür öffnete, wurde mir klar, dass es sich tatsächlich um ein Hotel der B-Klasse handelte.
+
+  生物学では、哺乳類は脊椎動物門の一つのクラスとして分類されます。
+  生物学[せいぶつがく]では、哺乳類[ほにゅうるい]は 脊椎動物門[せきついどうぶつもん]の 一[ひと]つのクラスとして 分類[ぶんるい]されます。
+  In der Biologie werden Säugetiere als eine Klasse des Stamms der Wirbeltiere klassifiziert.
+
+  プログラミングでは、オブジェクト指向言語においてクラスが重要な概念です。
+  プログラミングでは、オブジェクト 指向[しこう] 言語[げんご]においてクラスが 重要[じゅうよう]な 概念[がいねん]です。
+  In der Programmierung ist die Klasse ein wichtiges Konzept in objektorientierten Sprachen.
+
+  クラスメートと協力して、文化祭の準備を進めています。
+  クラスメートと 協力[きょうりょく]して、文化祭[ぶんかさい]の 準備[じゅんび]を 進[すす]めています。
+  Ich arbeite mit meinen Klassenkameraden zusammen, um die Vorbereitungen für das Kulturfestival voranzutreiben.
+
+  新しいクラスに馴染むのに時間がかかった。
+  新[あたら]しいクラスに 馴染[なじ]むのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, bis ich mich in der neuen Klasse eingelebt habe.
+
+  クラス全員で校外学習に行くことになった。
+  クラス 全員[ぜんいん]で 校外[こうがい] 学習[がくしゅう]に 行[い]くことになった。
+  Die ganze Klasse wird an einem Lernausflug außerhalb der Schule teilnehmen.
+
+  彼女はクラスで一番成績が良い学生だ。
+  彼女[かのじょ]はクラスで 一番[いちばん] 成績[せいせき]が 良[よ]い 学生[がくせい]だ。
+  Sie ist die Schülerin mit den besten Noten in der Klasse.
+
+  このホテルは5つ星クラスのサービスを提供しています。
+  このホテルは5つ 星[ぼし]クラスのサービスを 提供[ていきょう]しています。
+  Dieses Hotel bietet einen Service der 5-Sterne-Klasse.
+
+  クラス内でグループ学習を行い、お互いの理解を深めた。
+  クラス 内[ない]でグループ 学習[がくしゅう]を 行[おこな]い、お 互[たが]いの 理解[りかい]を 深[ふか]めた。
+  Wir haben in der Klasse Gruppenarbeit gemacht und dadurch unser gegenseitiges Verständnis vertieft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

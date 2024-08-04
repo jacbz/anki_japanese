@@ -2,9 +2,9 @@ Rang: 1571
 Lemma: 運転
 Lesung: うんてん
 Alternativschreibweisen: ''
-Definition: Fahren, Betrieb
+Definition: '[Auto] fahren; betreiben'
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vt
 Lesung mit Tonhöhe: <span>う</span><span class="accent_plain">ん</span><span class="accent_plain">て</span><span
   class="accent_plain">ん</span>
 Register: ''
@@ -16,8 +16,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本では十八歳になると車を運転できる。
-  日本[にっぽん]では十八 歳[さい]になると 車[くるま]を 運転[うんてん]できる。
-  In Japan kann man mit 18 Jahren Auto fahren.
+  日本[にほん]では 十八歳[じゅうはっさい]になると 車[くるま]を 運転[うんてん]できる。
+  In Japan darf man ab 18 Jahren Auto fahren.
+
+  安全運転でお願いしますよ。
+  安全運転[あんぜんうんてん]でお 願[ねが]いしますよ。
+  Bitte fahren Sie vorsichtig.
+
+  長距離を運転するのは疲れるね。
+  長距離[ちょうきょり]を 運転[うんてん]するのは 疲[つか]れるね。
+  Lange Strecken zu fahren ist echt ermüdend.
+
+  飲酒運転は絶対にやめましょう。
+  飲酒運転[いんしゅうんてん]は 絶対[ぜったい]にやめましょう。
+  Lassen Sie uns auf keinen Fall unter Alkoholeinfluss fahren.
+
+  運転中は携帯電話を使わないでください。
+  運転中[うんてんちゅう]は 携帯電話[けいたいでんわ]を 使[つか]わないでください。
+  Bitte benutzen Sie während der Fahrt kein Handy.
+
+  バスの運転間隔が長くて不便だ。
+  バスの 運転間隔[うんてんかんかく]が 長[なが]くて 不便[ふべん]だ。
+  Die langen Taktzeiten der Busse sind unpraktisch.
+
+  彼は運転技術が素晴らしい。
+  彼[かれ]は 運転技術[うんてんぎじゅつ]が 素晴[すば]らしい。
+  Er hat hervorragende Fahrkünste.
+
+  無免許運転で捕まった友達がいる。
+  無免許運転[むめんきょうんてん]で 捕[つか]まった 友達[ともだち]がいる。
+  Ich habe einen Freund, der beim Fahren ohne Führerschein erwischt wurde.
+
+  運転マナーの悪い人が多くて困る。
+  運転[うんてん]マナーの 悪[わる]い 人[ひと]が 多[おお]くて 困[こま]る。
+  Es gibt zu viele Leute mit schlechtem Verkehrsverhalten, das ist problematisch.
+
+  この電車は無人運転で動いています。
+  この 電車[でんしゃ]は 無人運転[むじんうんてん]で 動[うご]いています。
+  Dieser Zug fährt im fahrerlosen Betrieb.
+
+  運転に疲れたら、休憩を取るべきだ。
+  運転[うんてん]に 疲[つか]れたら、休憩[きゅうけい]を 取[と]るべきだ。
+  Wenn du vom Fahren müde bist, solltest du eine Pause einlegen.
+
+  彼女は運転が下手で、よく事故を起こす。
+  彼女[かのじょ]は 運転[うんてん]が 下手[へた]で、よく 事故[じこ]を 起[お]こす。
+  Sie ist eine schlechte Fahrerin und verursacht oft Unfälle.
+
+  新しい機械の運転方法を教えてください。
+  新[あた]しい 機械[きかい]の 運転方法[うんてんほうほう]を 教[おし]えてください。
+  Bitte erklären Sie mir, wie man die neue Maschine bedient.
+
+  運転を代わってもらえませんか？疲れてきたので。
+  運転[うんてん]を 代[か]わってもらえませんか？ 疲[つか]れてきたので。
+  Könntest du das Fahren übernehmen? Ich werde langsam müde.
+
+  この工場は24時間運転している。
+  この 工場[こうじょう]は24時間[じかん] 運転[うんてん]している。
+  Diese Fabrik läuft im 24-Stunden-Betrieb.
+
+  彼は運転に集中できず、よそ見をしてしまった。
+  彼[かれ]は 運転[うんてん]に 集中[しゅうちゅう]できず、よそ 見[み]をしてしまった。
+  Er konnte sich nicht aufs Fahren konzentrieren und ließ sich ablenken.
+
+  運転資金が足りなくて、会社の経営が難しくなった。
+  運転資金[うんてんしきん]が 足[た]りなくて、会社[かいしゃ]の 経営[けいえい]が 難[むずか]しくなった。
+  Wegen Mangels an Betriebskapital wurde die Unternehmensführung schwierig.
+
+  彼は神風運転で有名だ。
+  彼[かれ]は 神風運転[かみかぜうんてん]で 有名[ゆうめい]だ。
+  Er ist für sein rücksichtsloses Fahren bekannt.
+
+  自動車学校で運転を習っています。
+  自動車学校[じどうしゃがっこう]で 運転[うんてん]を 習[なら]っています。
+  Ich lerne in der Fahrschule das Autofahren.
+
+  危険運転で捕まる人が増えている。
+  危険運転[きけんうんてん]で 捕[つか]まる 人[ひと]が 増[ふ]えている。
+  Immer mehr Menschen werden wegen gefährlichen Fahrens festgenommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

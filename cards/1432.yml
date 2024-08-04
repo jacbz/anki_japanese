@@ -2,13 +2,13 @@ Rang: 1432
 Lemma: スキー
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Ski; Skifahren
+Definition: Ski(er); Skifahren
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>す</span><span class="accent_top">き</span><span>ー</span>
 Register: ''
 Dispersion: '55'
-Ursprung: ''
+Ursprung: engl. ski
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   今年の冬はスキーに行くつもりだ。
   今年[ことし]の 冬[ふゆ]はスキーに 行[い]くつもりだ。
-  Ich plane, diesen Winter Skifahren zu gehen.
+  Ich habe vor, diesen Winter Ski fahren zu gehen.
+
+  新しいスキー板を買いました。
+  新[あたら]しいスキー 板[いた]を 買[か]いました。
+  Ich habe neue Skier gekauft.
+
+  スキーワックスを塗ると滑りがよくなります。
+  スキーワックスを 塗[ぬ]ると 滑[すべ]りがよくなります。
+  Wenn man Skiwachs aufträgt, gleiten die Ski besser.
+
+  レンタルスキーを借りて滑ることにしました。
+  レンタルスキーを 借[か]りて 滑[すべ]ることにしました。
+  Ich habe mich entschieden, Leihski auszuleihen und damit zu fahren.
+
+  スキーを脱ぐのを手伝ってくれませんか。
+  スキーを 脱[ぬ]ぐのを 手伝[てつだ]ってくれませんか。
+  Könnten Sie mir bitte helfen, die Ski abzuschnallen?
+
+  新しいスキーブーツがとても快適です。
+  新[あたら]しいスキーブーツがとても 快適[かいてき]です。
+  Die neuen Skistiefel sind sehr bequem.
+
+  スキー学校で基本的な技術を学びました。
+  スキー 学校[がっこう]で 基本的[きほんてき]な 技術[ぎじゅつ]を 学[まな]びました。
+  In der Skischule habe ich die grundlegenden Techniken gelernt.
+
+  スキージャンプは迫力がありますね。
+  スキージャンプは 迫力[はくりょく]がありますね。
+  Skispringen ist wirklich beeindruckend, nicht wahr?
+
+  この地域には素晴らしいスキー場がたくさんあります。
+  この 地域[ちいき]には 素晴[すば]らしいスキー 場[じょう]がたくさんあります。
+  In dieser Region gibt es viele wunderbare Skigebiete.
+
+  スキーマラソンに参加する予定です。
+  スキーマラソンに 参加[さんか]する 予定[よてい]です。
+  Ich plane, an einem Skimarathon teilzunehmen.
+
+  スキーリフトに乗るのが怖いです。
+  スキーリフトに 乗[の]るのが 怖[こわ]いです。
+  Ich habe Angst, den Skilift zu benutzen.
+
+  冬のスキーリゾートは人気があります。
+  冬[ふゆ]のスキーリゾートは 人気[にんき]があります。
+  Wintersportorte sind im Winter sehr beliebt.
+
+  スキーシーズンはいつ始まりますか。
+  スキーシーズンはいつ 始[はじ]まりますか。
+  Wann beginnt die Skisaison?
+
+  スキーストックを忘れずに持っていきましょう。
+  スキーストックを 忘[わす]れずに 持[も]っていきましょう。
+  Lass uns nicht vergessen, die Skistöcke mitzunehmen.
+
+  友達とスキーツアーを計画しています。
+  友達[ともだち]とスキーツアーを 計画[けいかく]しています。
+  Ich plane eine Skitour mit meinen Freunden.
+
+  新しいスキーウェアを買う必要があります。
+  新[あたら]しいスキーウェアを 買[か]う 必要[ひつよう]があります。
+  Ich muss neue Skikleidung kaufen.
+
+  スキーズボンが破れてしまいました。
+  スキーズボンが 破[やぶ]れてしまいました。
+  Meine Skihose ist zerrissen.
+
+  アフタースキーの時間も楽しみです。
+  アフタースキーの 時間[じかん]も 楽[たの]しみです。
+  Ich freue mich auch auf die Zeit nach dem Skifahren.
+
+  アルペンスキーと、ノルディックスキー、どちらが好きですか。
+  アルペンスキーと、ノルディックスキー、どちらが 好[す]きですか。
+  Magst du alpines oder nordisches Skifahren lieber?
+
+  週末にスキーに行きませんか。
+  週末[しゅうまつ]にスキーに 行[い]きませんか。
+  Wollen wir am Wochenende Ski fahren gehen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

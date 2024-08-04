@@ -2,7 +2,7 @@ Rang: 1397
 Lemma: 裏
 Lesung: うら
 Alternativschreibweisen: ''
-Definition: Rückseite, Hinterseite
+Definition: Rückseite; Kehrseite; Hintergrund
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>う</span><span class="accent_top">ら</span>
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   写真の裏に日付を書いた。
-  写真[しゃしん]の 裏[うら]に 日付[ひずけ]を 書[か]いた。
+  写真[しゃしん]の 裏[うら]に 日付[ひづけ]を 書[か]いた。
   Ich habe das Datum auf die Rückseite des Fotos geschrieben.
+
+  紙の表と裏を確認してください。
+  紙[かみ]の 表[おもて]と 裏[うら]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Vorder- und Rückseite des Papiers.
+
+  この封筒の裏に差出人の住所が書いてあります。
+  この 封筒[ふうとう]の 裏[うら]に 差出人[さしだしにん]の 住所[じゅうしょ]が 書[か]いてあります。
+  Auf der Rückseite dieses Umschlags steht die Adresse des Absenders.
+
+  足の裏をくすぐられるのが苦手です。
+  足[あし]の 裏[うら]をくすぐられるのが 苦手[にがて]です。
+  Ich mag es nicht, wenn meine Fußsohlen gekitzelt werden.
+
+  この服は裏付きで暖かいです。
+  この 服[ふく]は 裏[うら]つきで 暖[あたた]かいです。
+  Dieses Kleidungsstück ist gefüttert und warm.
+
+  話の裏には隠された真実があるかもしれません。
+  話[はなし]の 裏[うら]には 隠[かく]された 真実[しんじつ]があるかもしれません。
+  Hinter der Geschichte könnte eine verborgene Wahrheit stecken.
+
+  彼の発言の裏を勘繰るのはやめましょう。
+  彼[かれ]の 発言[はつげん]の 裏[うら]を 勘繰[かんぐ]るのはやめましょう。
+  Hören wir auf, hinter seinen Äußerungen etwas zu vermuten.
+
+  政界の裏事情に詳しい記者です。
+  政界[せいかい]の 裏事情[うらじじょう]に 詳[くわ]しい 記者[きしゃ]です。
+  Er ist ein Journalist, der sich mit den Hintergründen der politischen Welt auskennt.
+
+  裏で工作して選挙結果を操作しようとした。
+  裏[うら]で 工作[こうさく]して 選挙結果[せんきょけっか]を 操作[そうさ]しようとした。
+  Sie versuchten, hinter den Kulissen zu manövrieren und das Wahlergebnis zu manipulieren.
+
+  家の裏に小さな菜園を作りました。
+  家[いえ]の 裏[うら]に 小[ちい]さな 菜園[さいえん]を 作[つく]りました。
+  Ich habe hinter dem Haus einen kleinen Gemüsegarten angelegt.
+
+  裏階段を使って密かに建物に入った。
+  裏階段[うらかいだん]を 使[つか]って 密[ひそ]かに 建物[たてもの]に 入[はい]った。
+  Er betrat das Gebäude heimlich über die Hintertreppe.
+
+  裏の山道を通って近道をした。
+  裏[うら]の 山道[やまみち]を 通[とお]って 近道[ちかみち]をした。
+  Ich nahm eine Abkürzung über den Bergpfad auf der Rückseite.
+
+  彼のアリバイの裏を取るのは難しかった。
+  彼[かれ]の アリバイの 裏[うら]を 取[と]るのは 難[むずか]しかった。
+  Es war schwierig, sein Alibi zu überprüfen.
+
+  裏を返せば、彼の言葉には感謝の気持ちがあったのかもしれない。
+  裏[うら]を 返[かえ]せば、彼[かれ]の 言葉[ことば]には 感謝[かんしゃ]の 気持[きも]ちがあったのかもしれない。
+  Andererseits könnte in seinen Worten vielleicht Dankbarkeit gesteckt haben.
+
+  彼女は心の裏を見透かされるのを恐れていた。
+  彼女[かのじょ]は 心[こころ]の 裏[うら]を 見透[みす]かされるのを 恐[おそ]れていた。
+  Sie fürchtete, dass jemand ihre wahren Gefühle durchschauen könnte.
+
+  この問題には裏があるに違いない。
+  この 問題[もんだい]には 裏[うら]があるに 違[ちが]いない。
+  Diese Angelegenheit muss einen Haken haben.
+
+  裏で手を回して、何とか問題を解決しようとした。
+  裏[うら]で 手[て]を 回[まわ]して、何[なん]とか 問題[もんだい]を 解決[かいけつ]しようとした。
+  Er versuchte, das Problem zu lösen, indem er hinter den Kulissen die Fäden zog.
+
+  裏の取引に加担したことを後悔している。
+  裏[うら]の 取引[とりひき]に 加担[かたん]したことを 後悔[こうかい]している。
+  Er bereut, sich an den krummen Geschäften beteiligt zu haben.
+
+  野球の9回裏、逆転サヨナラホームランが飛び出した。
+  野球[やきゅう]の9回裏[かいうら]、逆転[ぎゃくてん]サヨナラホームランが 飛[と]び 出[だ]した。
+  In der zweiten Hälfte des neunten Innings beim Baseball wurde ein Walk-Off-Homerun geschlagen, der das Spiel drehte.
+
+  一枚の紙にも表と裏があるように、物事には常に二面性がある。
+  一枚[いちまい]の 紙[かみ]にも 表[おもて]と 裏[うら]があるように、物事[ものごと]には 常[つね]に 二面性[にめんせい]がある。
+  So wie ein Blatt Papier eine Vorder- und eine Rückseite hat, haben auch die Dinge immer zwei Seiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

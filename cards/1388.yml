@@ -2,21 +2,97 @@ Rang: 1388
 Lemma: 暑い
 Lesung: あつい
 Alternativschreibweisen: ''
-Definition: heiß, warm
+Definition: heiß
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: <span>あ</span><span class="accent_top">つ</span><span>い</span>
 Register: ''
 Dispersion: '77'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 暑くない・暑かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今日は特に暑いですね。
   今日[きょう]は 特[とく]に 暑[あつ]いですね。
-  Es ist heute besonders heiß, nicht wahr?
+  Heute ist es besonders heiß, nicht wahr?
+
+  夏の暑い日は海に行くのが楽しみです。
+  夏[なつ]の 暑[あつ]い 日[ひ]は 海[うみ]に 行[い]くのが 楽[たの]しみです。
+  An heißen Sommertagen freue ich mich darauf, ans Meer zu fahren.
+
+  暑くて寝られない夜が続いている。
+  暑[あつ]くて 寝[ね]られない 夜[よる]が 続[つづ]いている。
+  Die heißen Nächte, in denen ich nicht schlafen kann, halten an.
+
+  エアコンをつけても、まだ暑いな。
+  エアコンをつけても、まだ 暑[あつ]いな。
+  Selbst mit der Klimaanlage an ist es immer noch heiß.
+
+  手術室の温度が暑くて、気分が悪くなった。
+  手術室[しゅじゅつしつ]の 温度[おんど]が 暑[あつ]くて、気分[きぶん]が 悪[わる]くなった。
+  Die Temperatur im Operationssaal war so heiß, dass mir übel wurde.
+
+  暑い夏の真っ盛りだね。
+  暑[あつ]い 夏[なつ]の 真[ま]っ 盛[さか]りだね。
+  Wir sind mitten in der Hitze des Sommers, nicht wahr?
+
+  今日は暑いから、水分補給を忘れずにね。
+  今日[きょう]は 暑[あつ]いから、水分補給[すいぶんほきゅう]を 忘[わす]れずにね。
+  Es ist heute heiß, also vergiss nicht, genug zu trinken.
+
+  暑い日が続くと、体調を崩しやすくなります。
+  暑[あつ]い 日[ひ]が 続[つづ]くと、体調[たいちょう]を 崩[くず]しやすくなります。
+  Wenn die heißen Tage anhalten, wird man leichter krank.
+
+  この部屋は日当たりが良くて暑いです。
+  この 部屋[へや]は 日当[ひあ]たりが 良[よ]くて 暑[あつ]いです。
+  Dieses Zimmer ist sonnig und daher sehr warm.
+
+  暑いので、アイスクリームを食べに行きましょう。
+  暑[あつ]いので、アイスクリームを 食[た]べに 行[い]きましょう。
+  Da es so heiß ist, lass uns Eis essen gehen.
+
+  暑い日は冷たい飲み物が欲しくなりますね。
+  暑[あつ]い 日[ひ]は 冷[つめ]たい 飲[の]み 物[もの]が 欲[ほ]しくなりますね。
+  An heißen Tagen sehnt man sich nach kalten Getränken, nicht wahr?
+
+  暑い季節は軽装で過ごすのがいいよ。
+  暑[あつ]い 季節[きせつ]は 軽装[けいそう]で 過[す]ごすのがいいよ。
+  In der heißen Jahreszeit ist es gut, leichte Kleidung zu tragen.
+
+  暑いから窓を開けてもいいですか。
+  暑[あつ]いから 窓[まど]を 開[あ]けてもいいですか。
+  Darf ich das Fenster öffnen, weil es so heiß ist?
+
+  今年の夏は例年より暑いらしいです。
+  今年[ことし]の 夏[なつ]は 例年[れいねん]より 暑[あつ]いらしいです。
+  Der Sommer dieses Jahr soll heißer sein als in den Vorjahren.
+
+  暑い中、外で作業するのは大変だ。
+  暑[あつ]い 中[なか]、外[そと]で 作業[さぎょう]するのは 大変[たいへん]だ。
+  Es ist anstrengend, bei dieser Hitze draußen zu arbeiten.
+
+  暑い日は水分をたくさん取らないと危険です。
+  暑[あつ]い 日[ひ]は 水分[すいぶん]をたくさん 取[と]らないと 危険[きけん]です。
+  An heißen Tagen ist es gefährlich, wenn man nicht genug Flüssigkeit zu sich nimmt.
+
+  暑い夏が終わり、涼しい秋が待ち遠しいです。
+  暑[あつ]い 夏[なつ]が 終[お]わり、涼[すず]しい 秋[あき]が 待[ま]ち 遠[どお]しいです。
+  Der heiße Sommer geht zu Ende, und ich kann den kühlen Herbst kaum erwarten.
+
+  暑いと食欲が落ちてしまうね。
+  暑[あつ]いと 食欲[しょくよく]が 落[お]ちてしまうね。
+  Bei Hitze verliert man den Appetit, nicht wahr?
+
+  暑い日は早朝のジョギングがおすすめだよ。
+  暑[あつ]い 日[ひ]は 早朝[そうちょう]のジョギングがおすすめだよ。
+  An heißen Tagen empfehle ich dir, früh am Morgen joggen zu gehen.
+
+  暑い夏を乗り切るコツは規則正しい生活です。
+  暑[あつ]い 夏[なつ]を 乗[の]り 切[き]るコツは 規則正[きそくただ]しい 生活[せいかつ]です。
+  Der Trick, um den heißen Sommer zu überstehen, ist ein regelmäßiger Lebensstil.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

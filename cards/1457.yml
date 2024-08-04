@@ -2,21 +2,97 @@ Rang: 1457
 Lemma: 足りる
 Lesung: たりる
 Alternativschreibweisen: ''
-Definition: ausreichen
+Definition: ausreichen, genügen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: <span>た</span><span class="accent_plain">り</span><span class="accent_plain">る</span>
 Register: ''
 Dispersion: '98'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 足りない・足りた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   十ドルで足りるはずだ。
-  十ドルで 足[た]りるはずだ。
-  Zehn Dollar sollten ausreichend sein.
+  十[じゅう]ドルで 足[た]りるはずだ。
+  Zehn Dollar sollten ausreichen.
+
+  この量で足りますか？
+  この 量[りょう]で 足[た]りますか？
+  Reicht diese Menge aus?
+
+  お金が足りないので、もう少し貸してください。
+  お金[かね]が 足[た]りないので、もう 少[すこ]し 貸[か]してください。
+  Da das Geld nicht ausreicht, leihen Sie mir bitte noch etwas mehr.
+
+  五千円あれば足りるよ。
+  五千[ごせん]円[えん]あれば 足[た]りるよ。
+  Fünftausend Yen sollten genügen.
+
+  コップ一杯の水で足りるかな。
+  コップ 一杯[いっぱい]の 水[みず]で 足[た]りるかな。
+  Ob eine Tasse Wasser ausreicht?
+
+  ビタミンが足りていないと、体調を崩すかもしれません。
+  ビタミンが 足[た]りていないと、体調[たいちょう]を 崩[くず]すかもしれません。
+  Wenn man nicht genug Vitamine hat, könnte man krank werden.
+
+  メールで足りると思います。電話は必要ありません。
+  メールで 足[た]りると 思[おも]います。電話[でんわ]は 必要[ひつよう]ありません。
+  Ich denke, eine E-Mail genügt. Ein Anruf ist nicht nötig.
+
+  この説明で用が足りましたか？
+  この 説明[せつめい]で 用[よう]が 足[た]りましたか？
+  War diese Erklärung ausreichend für Ihren Zweck?
+
+  テレビやインターネットで用が足りるそうです。
+  テレビやインターネットで 用[よう]が 足[た]りるそうです。
+  Anscheinend genügen Fernsehen und Internet für ihren Bedarf.
+
+  時間が無限に細分できれば、それで足りるのだ。
+  時間[じかん]が 無限[むげん]に 細分[さいぶん]できれば、それで 足[た]りるのだ。
+  Wenn die Zeit unendlich teilbar wäre, würde das ausreichen.
+
+  この本は読むに足りる内容だと思います。
+  この 本[ほん]は 読[よ]むに 足[た]りる 内容[ないよう]だと 思[おも]います。
+  Ich denke, der Inhalt dieses Buches ist es wert, gelesen zu werden.
+
+  彼は信用するに足る人物です。
+  彼[かれ]は 信用[しんよう]するに 足[た]る 人物[じんぶつ]です。
+  Er ist eine vertrauenswürdige Person.
+
+  この映画は見るに足りる価値がありますよ。
+  この 映画[えいが]は 見[み]るに 足[た]りる 価値[かち]がありますよ。
+  Dieser Film ist es wert, gesehen zu werden.
+
+  彼女の声は聞き惚れるに足りる美しさだ。
+  彼女[かのじょ]の 声[こえ]は 聞[き]き 惚[ほ]れるに 足[た]りる 美[うつく]しさだ。
+  Ihre Stimme ist von einer Schönheit, in die man sich verlieben kann.
+
+  この経験は記録しておくに足りるだろう。
+  この 経験[けいけん]は 記録[きろく]しておくに 足[た]りるだろう。
+  Diese Erfahrung ist es wohl wert, aufgezeichnet zu werden.
+
+  食料が足りないので、買い出しに行かなきゃ。
+  食料[しょくりょう]が 足[た]りないので、買[か]い 出[だ]しに 行[い]かなきゃ。
+  Da die Lebensmittel nicht ausreichen, muss ich einkaufen gehen.
+
+  この給料では生活費が足りません。
+  この 給料[きゅうりょう]では 生活費[せいかつひ]が 足[た]りません。
+  Mit diesem Gehalt reichen die Lebenshaltungskosten nicht aus.
+
+  あと10分あれば、仕事を終わらせるのに足りるはずだ。
+  あと10分[ぷん]あれば、仕事[しごと]を 終[お]わらせるのに 足[た]りるはずだ。
+  Weitere 10 Minuten sollten ausreichen, um die Arbeit abzuschließen.
+
+  今の実力では合格するに足りないかもしれません。
+  今[いま]の 実力[じつりょく]では 合格[ごうかく]するに 足[た]りないかもしれません。
+  Mit meinen derzeitigen Fähigkeiten reicht es vielleicht nicht aus, um zu bestehen.
+
+  この証拠だけでは有罪を証明するに足りない。
+  この 証拠[しょうこ]だけでは 有罪[ゆうざい]を 証明[しょうめい]するに 足[た]りない。
+  Diese Beweise allein reichen nicht aus, um die Schuld zu beweisen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

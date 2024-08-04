@@ -1,8 +1,8 @@
 Rang: 1440
 Lemma: 椅子
 Lesung: いす
-Alternativschreibweisen: ''
-Definition: Stuhl
+Alternativschreibweisen: 倚子
+Definition: Stuhl; Posten
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: <span>い</span><span class="accent_plain">す</span>
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   椅子を三列に並べてもらえますか。
-  椅子[いす]を三 列[れつ]に 並[なら]べてもらえますか。
-  Willst du die Stühle in drei Reihen anordnen?
+  椅子[いす]を 三列[さんれつ]に 並[なら]べてもらえますか。
+  Könnten Sie bitte die Stühle in drei Reihen aufstellen?
+
+  新しい椅子は座り心地が良くて、長時間座っても疲れません。
+  新[あたら]しい 椅子[いす]は 座[す]り 心地[ごこち]が 良[よ]くて、長時間[ちょうじかん] 座[すわ]っても 疲[つか]れません。
+  Der neue Stuhl ist so bequem, dass man selbst bei längerem Sitzen nicht müde wird.
+
+  安楽椅子でくつろぐのが私の日課です。
+  安楽椅子[あんらくいす]でくつろぐのが 私[わたし]の 日課[にっか]です。
+  Es gehört zu meiner täglichen Routine, mich in meinem Sessel zu entspannen.
+
+  美容院の調髪椅子は高さを調節できるんだ。
+  美容院[びよういん]の 調髪椅子[ちょうはついす]は 高[たか]さを 調節[ちょうせつ]できるんだ。
+  Die Frisierstühle im Friseursalon können in der Höhe verstellt werden.
+
+  電気椅子による処刑は、もはや多くの州で禁止されています。
+  電気椅子[でんきいす]による 処刑[しょけい]は、もはや 多[おお]くの 州[しゅう]で 禁止[きんし]されています。
+  Hinrichtungen auf dem elektrischen Stuhl sind inzwischen in vielen Bundesstaaten verboten.
+
+  この肘掛椅子は祖父の形見です。
+  この 肘掛椅子[ひじかけいす]は 祖父[そふ]の 形見[かたみ]です。
+  Dieser Lehnstuhl ist ein Andenken an meinen Großvater.
+
+  オフィスの回転椅子が壊れたので、新しいのを注文しました。
+  オフィスの 回転椅子[かいてんいす]が 壊[こわ]れたので、新[あたら]しいのを 注文[ちゅうもん]しました。
+  Da der Drehstuhl im Büro kaputt gegangen ist, habe ich einen neuen bestellt.
+
+  ピクニックには折り畳み椅子を持って行くと便利だよ。
+  ピクニックには 折[お]り 畳[たた]み 椅子[いす]を 持[も]って 行[い]くと 便利[べんり]だよ。
+  Es ist praktisch, einen Klappstuhl zum Picknick mitzunehmen.
+
+  長時間座っていたら、椅子から立ち上がるのが大変でした。
+  長時間[ちょうじかん] 座[すわ]っていたら、椅子[いす]から 立[た]ち 上[あ]がるのが 大変[たいへん]でした。
+  Nachdem ich lange gesessen hatte, fiel es mir schwer, vom Stuhl aufzustehen.
+
+  お客様、どうぞこちらの椅子に腰を掛けてください。
+  お 客様[きゃくさま]、どうぞこちらの 椅子[いす]に 腰[こし]を 掛[か]けてください。
+  Bitte nehmen Sie hier Platz, werter Gast.
+
+  この椅子の脚が一本折れてしまったんだ。
+  この 椅子[いす]の 脚[あし]が 一本[いっぽん] 折[お]れてしまったんだ。
+  Ein Bein dieses Stuhls ist abgebrochen.
+
+  椅子の背もたれが低すぎて、長時間座るのは辛いです。
+  椅子[いす]の 背[せ]もたれが 低[ひく]すぎて、長時間[ちょうじかん] 座[すわ]るのは 辛[つら]いです。
+  Die Rückenlehne des Stuhls ist zu niedrig, es ist anstrengend, lange darauf zu sitzen.
+
+  部屋に入ってきたお客様に椅子をすすめました。
+  部屋[へや]に 入[はい]ってきたお 客様[きゃくさま]に 椅子[いす]をすすめました。
+  Ich bot dem Gast, der das Zimmer betrat, einen Stuhl an.
+
+  判事が泥酔して椅子から転げ落ちる様子を想像すると笑えてしまう。
+  判事[はんじ]が 泥酔[でいすい]して 椅子[いす]から 転[ころ]げ 落[お]ちる 様子[ようす]を 想像[そうぞう]すると 笑[わら]えてしまう。
+  Es ist zum Lachen, wenn man sich vorstellt, wie ein betrunkener Richter vom Stuhl fällt.
+
+  かおるは椅子の一つに腰を降ろしたが、落ち着かなかった。
+  かおるは 椅子[いす]の 一[ひと]つに 腰[こし]を 降[お]ろしたが、落[お]ち 着[つ]かなかった。
+  Kaoru setzte sich auf einen der Stühle, konnte aber nicht zur Ruhe kommen.
+
+  彼は大臣の椅子を狙っているらしい。
+  彼[かれ]は 大臣[だいじん]の 椅子[いす]を 狙[ねら]っているらしい。
+  Er scheint auf einen Ministerposten aus zu sein.
+
+  閣員の椅子をめぐる争いが激しくなっている。
+  閣員[かくいん]の 椅子[いす]をめぐる 争[あらそ]いが 激[はげ]しくなっている。
+  Der Kampf um die Sitze im Kabinett wird immer heftiger.
+
+  彼女はその地位の椅子にしがみついて、辞任しようとしない。
+  彼女[かのじょ]はその 地位[ちい]の 椅子[いす]にしがみついて、辞任[じにん]しようとしない。
+  Sie klammert sich an ihren Posten und weigert sich zurückzutreten.
+
+  教室の椅子は硬くて座り心地が悪いです。
+  教室[きょうしつ]の 椅子[いす]は 硬[かた]くて 座[す]り 心地[ごこち]が 悪[わる]いです。
+  Die Stühle im Klassenzimmer sind hart und unbequem.
+
+  この椅子、けっこう重いから二人で運ぼう。
+  この 椅子[いす]、けっこう 重[おも]いから 二人[ふたり]で 運[はこ]ぼう。
+  Dieser Stuhl ist ziemlich schwer, lass uns ihn zu zweit tragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

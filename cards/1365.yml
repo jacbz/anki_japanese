@@ -2,21 +2,93 @@ Rang: 1365
 Lemma: 休む
 Lesung: やすむ
 Alternativschreibweisen: ''
-Definition: sich ausruhen, abwesend sein
+Definition: (sich) ausruhen; pausieren; fehlen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: <span>や</span><span class="accent_top">す</span><span>む</span>
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 休まない・休んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   少し休みましょう。
   少[すこ]し 休[やす]みましょう。
-  Lass uns für eine Weile ausruhen.
+  Lass uns eine kleine Pause machen.
+
+  疲れたので、日陰に入って休んだ。
+  疲[つか]れたので、日陰[ひかげ]に 入[はい]って 休[やす]んだ。
+  Ich war müde, also ruhte ich mich im Schatten aus.
+
+  ちょっと休んで一服しよう。
+  ちょっと 休[やす]んで 一服[いっぷく]しよう。
+  Lass uns kurz eine Rauchpause machen!
+
+  10分ごとに休まなければならない。
+  10分[じゅうぷん]ごとに 休[やす]まなければならない。
+  Ich muss alle 10 Minuten eine Pause einlegen.
+
+  彼は休まずに12時間働いた。
+  彼[かれ]は 休[やす]まずに12時間[じかん] 働[はたら]いた。
+  Er arbeitete 12 Stunden ohne Pause.
+
+  長時間座っていたので、少し歩いて休憩しよう。
+  長時間[ちょうじかん] 座[すわ]っていたので、少[すこ]し 歩[ある]いて 休憩[きゅうけい]しよう。
+  Ich habe lange gesessen, also lass uns ein bisschen spazieren gehen und eine Pause machen.
+
+  今日は疲れたから、早めに休むつもりだ。
+  今日[きょう]は 疲[つか]れたから、早[はや]めに 休[やす]むつもりだ。
+  Ich bin heute müde, also habe ich vor, früh schlafen zu gehen.
+
+  お休みなさい。良い夢を。
+  お 休[やす]みなさい。良[よ]い 夢[ゆめ]を。
+  Gute Nacht. Träum was Schönes.
+
+  昨夜よく休めましたか？
+  昨夜[さくや]よく 休[やす]めましたか？
+  Haben Sie letzte Nacht gut geschlafen?
+
+  風邪で学校を休んだ。
+  風邪[かぜ]で 学校[がっこう]を 休[やす]んだ。
+  Ich blieb wegen einer Erkältung der Schule fern.
+
+  彼女は一度も授業を休まなかった。
+  彼女[かのじょ]は 一度[いちど]も 授業[じゅぎょう]を 休[やす]まなかった。
+  Sie hat nicht ein einziges Mal den Unterricht versäumt.
+
+  今日は体調が悪いので、会社を休みます。
+  今日[きょう]は 体調[たいちょう]が 悪[わる]いので、会社[かいしゃ]を 休[やす]みます。
+  Ich fühle mich heute nicht wohl, also bleibe ich der Arbeit fern.
+
+  彼は週に一日は必ず休むようにしている。
+  彼[かれ]は 週[しゅう]に一日[いちにち]は 必[かなら]ず 休[やす]むようにしている。
+  Er nimmt sich mindestens einen Tag in der Woche frei.
+
+  店内改装のため、しばらく休業いたします。
+  店内改装[てんないかいそう]のため、しばらく 休業[きゅうぎょう]いたします。
+  Wegen Umbauarbeiten bleibt das Geschäft vorübergehend geschlossen.
+
+  この仕事は休む暇がないほど忙しい。
+  この 仕事[しごと]は 休[やす]む 暇[ひま]がないほど 忙[いそが]しい。
+  Diese Arbeit ist so beschäftigt, dass keine Zeit zum Ausruhen bleibt.
+
+  長距離ドライブの際は定期的に休憩を取ることが大切だ。
+  長距離[ちょうきょり]ドライブの 際[さい]は 定期的[ていきてき]に 休憩[きゅうけい]を 取[と]ることが 大切[たいせつ]だ。
+  Bei langen Autofahrten ist es wichtig, regelmäßig Pausen einzulegen.
+
+  連日の残業で疲れたので、明日は休ませてもらいます。
+  連日[れんじつ]の 残業[ざんぎょう]で 疲[つか]れたので、明日[あした]は 休[やす]ませてもらいます。
+  Ich bin von der ständigen Überstundenarbeit erschöpft, daher nehme ich mir morgen frei.
+
+  彼は病気で一週間学校を休んでいる。
+  彼[かれ]は 病気[びょうき]で 一週間[いっしゅうかん] 学校[がっこう]を 休[やす]んでいる。
+  Er ist seit einer Woche krank und bleibt der Schule fern.
+
+  休まず勉強し続けると、逆に効率が下がることもあります。
+  休[やす]まず 勉強[べんきょう]し 続[つづ]けると、逆[ぎゃく]に 効率[こうりつ]が 下[さ]がることもあります。
+  Wenn man ohne Pause weiter lernt, kann das sogar die Effizienz verringern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

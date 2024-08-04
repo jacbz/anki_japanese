@@ -2,14 +2,14 @@ Rang: 1425
 Lemma: 弾く
 Lesung: ひく
 Alternativschreibweisen: ''
-Definition: (ein Musikinstrument) spielen
+Definition: '[ein Instrument] spielen'
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>ひ</span><span class="accent_plain">く</span>
 Register: ''
 Dispersion: '75'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 弾かない・弾いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   私はときどきピアノを弾く。
   私[わたし]はときどきピアノを 弾[ひ]く。
   Ich spiele manchmal Klavier.
+
+  彼女はヴァイオリンを上手に弾く。
+  彼女[かのじょ]はヴァイオリンを 上手[じょうず]に 弾[ひ]く。
+  Sie spielt geschickt Violine.
+
+  父は毎晩ギターを弾いて楽しんでいる。
+  父[ちち]は 毎晩[まいばん]ギターを 弾[ひ]いて 楽[たの]しんでいる。
+  Mein Vater genießt es, jeden Abend Gitarre zu spielen.
+
+  バンドのメンバーはみんな楽器を弾ける。
+  バンドのメンバーはみんな 楽器[がっき]を 弾[ひ]ける。
+  Alle Bandmitglieder können ein Instrument spielen.
+
+  音楽の授業で新しい曲を弾く練習をした。
+  音楽[おんがく]の 授業[じゅぎょう]で 新[あたら]しい 曲[きょく]を 弾[ひ]く 練習[れんしゅう]をした。
+  Im Musikunterricht haben wir geübt, ein neues Stück zu spielen.
+
+  彼はジャズピアニストとして有名で、素晴らしく弾く。
+  彼[かれ]はジャズピアニストとして 有名[ゆうめい]で、素晴[すば]らしく 弾[ひ]く。
+  Er ist als Jazzpianist bekannt und spielt wunderbar.
+
+  コンサートで難しい曲を弾くのは緊張する。
+  コンサートで 難[むずか]しい 曲[きょく]を 弾[ひ]くのは 緊張[きんちょう]する。
+  Es ist nervös machend, ein schwieriges Stück in einem Konzert zu spielen.
+
+  子供たちは学校の音楽会で合奏を弾いた。
+  子供[こども]たちは 学校[がっこう]の 音楽会[おんがくかい]で 合奏[がっそう]を 弾[ひ]いた。
+  Die Kinder spielten bei der Schulmusikaufführung ein Ensemble.
+
+  ピアノを弾くのが好きですか？
+  ピアノを 弾[ひ]くのが 好[す]きですか？
+  Spielst du gerne Klavier?
+
+  彼女は弾き方を忘れてしまったと言っている。
+  彼女[かのじょ]は 弾[ひ]き 方[かた]を 忘[わす]れてしまったと 言[い]っている。
+  Sie sagt, sie habe vergessen, wie man spielt.
+
+  プロの音楽家は毎日何時間も楽器を弾く。
+  プロの 音楽家[おんがくか]は 毎日[まいにち] 何[なん] 時間[じかん]も 楽器[がっき]を 弾[ひ]く。
+  Professionelle Musiker spielen täglich stundenlang ihre Instrumente.
+
+  初心者でも簡単に弾ける曲を教えてください。
+  初心者[しょしんしゃ]でも 簡単[かんたん]に 弾[ひ]ける 曲[きょく]を 教[おし]えてください。
+  Bitte zeigen Sie mir ein Stück, das auch Anfänger leicht spielen können.
+
+  彼はバッハの曲を弾くのが得意だ。
+  彼[かれ]はバッハの 曲[きょく]を 弾[ひ]くのが 得意[とくい]だ。
+  Er ist gut darin, Bach-Stücke zu spielen.
+
+  ストリートミュージシャンが路上でギターを弾いていた。
+  ストリートミュージシャンが 路上[ろじょう]でギターを 弾[ひ]いていた。
+  Ein Straßenmusiker spielte Gitarre auf der Straße.
+
+  楽器を弾くことは脳にとても良い影響があるそうだ。
+  楽器[がっき]を 弾[ひ]くことは 脳[のう]にとても 良[よ]い 影響[えいきょう]があるそうだ。
+  Es heißt, dass das Spielen eines Instruments sehr gute Auswirkungen auf das Gehirn hat.
+
+  彼女は弾きながら歌うのが上手だ。
+  彼女[かのじょ]は 弾[ひ]きながら 歌[うた]うのが 上手[じょうず]だ。
+  Sie ist gut darin, zu singen, während sie spielt.
+
+  音楽の才能がなくても、練習すれば楽器を弾けるようになる。
+  音楽[おんがく]の 才能[さいのう]がなくても、練習[れんしゅう]すれば 楽器[がっき]を 弾[ひ]けるようになる。
+  Auch ohne musikalisches Talent kann man durch Übung lernen, ein Instrument zu spielen.
+
+  彼は耳で聞いた曲をすぐに弾けるんだ。
+  彼[かれ]は 耳[みみ]で 聞[き]いた 曲[きょく]をすぐに 弾[ひ]けるんだ。
+  Er kann Stücke sofort spielen, nachdem er sie gehört hat.
+
+  ヴァイオリンを弾いて殺されるよりも、弾かずに生きてる方が楽ですよ。
+  ヴァイオリンを 弾[ひ]いて 殺[ころ]されるよりも、弾[ひ]かずに 生[い]きてる 方[ほう]が 楽[らく]だよ。
+  Es ist angenehmer, ohne Geige zu spielen zu leben, als Geige zu spielen und dafür getötet zu werden.
+
+  音楽の授業で新しい楽器の弾き方を習った。
+  音楽[おんがく]の 授業[じゅぎょう]で 新[あたら]しい 楽器[がっき]の 弾[ひ]き 方[かた]を 習[なら]った。
+  Im Musikunterricht haben wir gelernt, wie man ein neues Instrument spielt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

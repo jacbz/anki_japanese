@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: <span>く</span><span class="accent_top">ろ</span><span>�
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 黒くない・黒かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   黒いのはありますか。
   黒[くろ]いのはありますか。
   Haben Sie ein schwarzes?
+
+  彼女は黒いドレスを着ていた。
+  彼女[かのじょ]は 黒[くろ]いドレスを 着[き]ていた。
+  Sie trug ein schwarzes Kleid.
+
+  顔が黒いですね。日焼けしたんですか。
+  顔[かお]が 黒[くろ]いですね。日焼[ひや]けしたんですか。
+  Ihr Gesicht ist ziemlich dunkel. Haben Sie sich sonnengebräunt?
+
+  黒い影が壁に映っていた。
+  黒[くろ]い 影[かげ]が 壁[かべ]に 映[うつ]っていた。
+  Ein schwarzer Schatten war an die Wand geworfen.
+
+  この靴は黒くて、どんな服装にも合います。
+  この 靴[くつ]は 黒[くろ]くて、どんな 服装[ふくそう]にも 合[あ]います。
+  Diese schwarzen Schuhe passen zu jeder Kleidung.
+
+  日に焼けた黒い肌が健康的に見える。
+  日[ひ]に 焼[や]けた 黒[くろ]い 肌[はだ]が 健康的[けんこうてき]に 見[み]える。
+  Die sonnengebräunte Haut sieht gesund aus.
+
+  時間が経つにつれて、空が黒くなっていった。
+  時間[じかん]が 経[た]つにつれて、空[そら]が 黒[くろ]くなっていった。
+  Mit der Zeit wurde der Himmel immer dunkler.
+
+  この部屋は黒く塗られていて、少し不気味だ。
+  この 部屋[へや]は 黒[くろ]く 塗[ぬ]られていて、少[すこ]し 不気味[ぶきみ]だ。
+  Dieses Zimmer ist schwarz gestrichen und wirkt etwas unheimlich.
+
+  黒い雲が空を覆い、雨が降りそうだ。
+  黒[くろ]い 雲[くも]が 空[そら]を 覆[おお]い、雨[あめ]が 降[ふ]りそうだ。
+  Schwarze Wolken bedecken den Himmel, es sieht nach Regen aus.
+
+  黒いサングラスをかけると、世界が暗く見える。
+  黒[くろ]いサングラスをかけると、世界[せかい]が 暗[くら]く 見[み]える。
+  Wenn man eine dunkle Sonnenbrille trägt, erscheint die Welt düster.
+
+  夜空に黒く見える林が、不思議な雰囲気を醸し出している。
+  夜空[よぞら]に 黒[くろ]く 見[み]える 林[はやし]が、不思議[ふしぎ]な 雰囲気[ふんいき]を 醸[かも]し 出[だ]している。
+  Der sich schwarz gegen den Nachthimmel abzeichnende Wald erzeugt eine mysteriöse Atmosphäre.
+
+  黒いペンで書くと、文字がはっきり見えます。
+  黒[くろ]いペンで 書[か]くと、文字[もじ]がはっきり 見[み]えます。
+  Wenn man mit einem schwarzen Stift schreibt, sind die Buchstaben deutlich zu sehen.
+
+  彼は黒い目をしていて、鋭い視線を持っている。
+  彼[かれ]は 黒[くろ]い 目[め]をしていて、鋭[するど]い 視線[しせん]を 持[も]っている。
+  Er hat schwarze Augen und einen durchdringenden Blick.
+
+  黒い猫が道を横切った。縁起が悪いと言う人もいる。
+  黒[くろ]い 猫[ねこ]が 道[みち]を 横切[よこぎ]った。縁起[えんぎ]が 悪[わる]いと 言[い]う 人[ひと]もいる。
+  Eine schwarze Katze überquerte die Straße. Manche Leute sagen, das bringe Unglück.
+
+  黒い服を着ると、少しやせて見えるかもしれない。
+  黒[くろ]い 服[ふく]を 着[き]ると、少[すこ]しやせて 見[み]えるかもしれない。
+  Wenn man schwarze Kleidung trägt, sieht man vielleicht etwas schlanker aus.
+
+  黒いコーヒーを飲むのが好きです。
+  黒[くろ]いコーヒーを 飲[の]むのが 好[す]きです。
+  Ich trinke gerne schwarzen Kaffee.
+
+  彼女の黒い髪は、月明かりに美しく輝いていた。
+  彼女[かのじょ]の 黒[くろ]い 髪[かみ]は、月明[つきあ]かりに 美[うつく]しく 輝[かがや]いていた。
+  Ihr schwarzes Haar glänzte schön im Mondlicht.
+
+  黒い土は栄養が豊富で、植物の成長に適している。
+  黒[くろ]い 土[つち]は 栄養[えいよう]が 豊富[ほうふ]で、植物[しょくぶつ]の 成長[せいちょう]に 適[てき]している。
+  Schwarze Erde ist nährstoffreich und gut für das Pflanzenwachstum.
+
+  黒い煙が空に立ち上り、火事の発生を知らせた。
+  黒[くろ]い 煙[けむり]が 空[そら]に 立[た]ち 上[のぼ]り、火事[かじ]の 発生[はっせい]を 知[し]らせた。
+  Schwarzer Rauch stieg in den Himmel auf und kündigte einen Brand an.
+
+  黒い森の中を歩くのは、ちょっと怖いかもしれません。
+  黒[くろ]い 森[もり]の 中[なか]を 歩[ある]くのは、ちょっと 怖[こわ]いかもしれません。
+  Es könnte ein bisschen gruselig sein, durch einen dunklen Wald zu gehen.
+
+  黒いインクが紙に滲んで、美しい模様ができた。
+  黒[くろ]いインクが 紙[かみ]に 滲[にじ]んで、美[うつく]しい 模様[もよう]ができた。
+  Die schwarze Tinte verlief auf dem Papier und bildete ein schönes Muster.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

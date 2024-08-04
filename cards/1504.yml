@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: <span class="accent_top">べ</span><span>っ</span><span>ど</span>
 Register: ''
 Dispersion: '79'
-Ursprung: ''
+Ursprung: engl. bed
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   犬が私のベッドで寝ている。
   犬[いぬ]が 私[わたし]のベッドで 寝[ね]ている。
   Mein Hund schläft in meinem Bett.
+
+  新しいベッドカバーを買った。
+  新[あたら]しいベッドカバーを 買[か]った。
+  Ich habe einen neuen Bettüberzug gekauft.
+
+  ホテルでベッドメーキングのアルバイトをしている。
+  ホテルでベッドメーキングのアルバイトをしている。
+  Ich habe einen Nebenjob beim Bettenmachen in einem Hotel.
+
+  ベッドリネンを洗濯機に入れた。
+  ベッドリネンを 洗濯機[せんたくき]に 入[い]れた。
+  Ich habe die Bettwäsche in die Waschmaschine getan.
+
+  この映画にはベッドシーンがある。
+  この 映画[えいが]にはベッドシーンがある。
+  Dieser Film enthält eine Bettszene.
+
+  赤ちゃんのためにベビーベッドを組み立てた。
+  赤[あか]ちゃんのためにベビーベッドを 組[く]み 立[た]てた。
+  Ich habe ein Babybett für das Baby zusammengebaut.
+
+  フランスベッドは広くて寝心地がいい。
+  フランスベッドは 広[ひろ]くて 寝心地[ねごこち]がいい。
+  Französische Betten sind breit und bequem zum Schlafen.
+
+  病院には介護用ベッドがたくさんあった。
+  病院[びょういん]には 介護用[かいごよう]ベッドがたくさんあった。
+  Im Krankenhaus gab es viele Pflegebetten.
+
+  子供たちは二段ベッドで寝るのが楽しいみたいだ。
+  子供[こども]たちは 二段[にだん]ベッドで 寝[ね]るのが 楽[たの]しいみたいだ。
+  Die Kinder scheinen es zu genießen, in einem Etagenbett zu schlafen.
+
+  キャンプには折りたたみベッドを持っていく。
+  キャンプには 折[お]りたたみベッドを 持[も]っていく。
+  Ich nehme ein Klappbett zum Camping mit.
+
+  一人暮らしだからシングルベッドで十分だ。
+  一人暮[ひとりぐ]らしだからシングルベッドで 十分[じゅうぶん]だ。
+  Da ich alleine lebe, reicht mir ein Einzelbett.
+
+  結婚したらダブルベッドを買おうと思う。
+  結婚[けっこん]したらダブルベッドを 買[か]おうと 思[おも]う。
+  Wenn ich heirate, denke ich darüber nach, ein Doppelbett zu kaufen.
+
+  このホテルの部屋にはツインベッドがある。
+  このホテルの 部屋[へや]にはツインベッドがある。
+  Das Zimmer in diesem Hotel hat zwei Einzelbetten.
+
+  疲れたのでベッドで横になった。
+  疲[つか]れたのでベッドで 横[よこ]になった。
+  Ich war müde, also habe ich mich ins Bett gelegt.
+
+  寒い夜はベッドにもぐりこむのが一番だ。
+  寒[さむ]い 夜[よる]はベッドにもぐりこむのが一番[いちばん]だ。
+  An kalten Nächten ist es am besten, ins Bett zu schlüpfen.
+
+  このアパートのベッドは狭くて寝にくい。
+  このアパートのベッドは 狭[せま]くて 寝[ね]にくい。
+  Das Bett in dieser Wohnung ist schmal und unbequem zum Schlafen.
+
+  洗濯物をベッドの下に放り込まないでください。
+  洗濯物[せんたくもの]をベッドの 下[した]に 放[ほう]り 込[こ]まないでください。
+  Bitte wirf die schmutzige Wäsche nicht unter das Bett.
+
+  夫婦仲が悪くて別々のベッドで寝ている。
+  夫婦仲[ふうふなか]が 悪[わる]くて 別々[べつべつ]のベッドで 寝[ね]ている。
+  Das Ehepaar versteht sich nicht gut und schläft in getrennten Betten.
+
+  古いベッドはきしむ音がして眠れない。
+  古[ふる]いベッドはきしむ 音[おと]がして 眠[ねむ]れない。
+  Das alte Bett macht knarrende Geräusche und ich kann nicht schlafen.
+
+  庭にフラワーベッドを作った。
+  庭[にわ]にフラワーベッドを 作[つく]った。
+  Ich habe ein Blumenbeet im Garten angelegt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

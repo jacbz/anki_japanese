@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: <span>と</span><span class="accent_plain">ま</span><span 
 Register: ''
 Dispersion: '76'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 泊まらない・泊まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   友達の家に泊まる予定です。
   友達[ともだち]の 家[いえ]に 泊[と]まる 予定[よてい]です。
-  Ich werde bei meinem Freund zu Hause übernachten.
+  Ich habe vor, bei einem Freund zu übernachten.
+
+  余所に泊まるのは初めてで少し緊張します。
+  余所[よそ]に 泊[と]まるのは 初[はじ]めてで 少[すこ]し 緊張[きんちょう]します。
+  Ich bin etwas nervös, weil ich zum ersten Mal woanders übernachte.
+
+  一晩泊まるだけなので、荷物は少なめにしました。
+  一晩[ひとばん] 泊[と]まるだけなので、荷物[にもつ]は 少[すく]なめにしました。
+  Da ich nur eine Nacht bleibe, habe ich weniger Gepäck mitgenommen.
+
+  ホテルに泊まるより、民宿の方が雰囲気がいいと思う。
+  ホテルに 泊[と]まるより、民宿[みんしuku]の 方[ほう]が 雰囲気[ふんいき]がいいと 思[おも]う。
+  Ich denke, dass die Atmosphäre in einer Pension besser ist als in einem Hotel zu übernachten.
+
+  病院に泊まる必要があるかどうか、医師に相談しましょう。
+  病院[びょういん]に 泊[と]まる 必要[ひつよう]があるかどうか、医師[いし]に 相談[そうだん]しましょう。
+  Lass uns den Arzt fragen, ob es nötig ist, im Krankenhaus zu übernachten.
+
+  会社に泊まって徹夜で仕事をしました。
+  会社[かいしゃ]に 泊[と]まって 徹夜[てつや]で 仕事[しごと]をしました。
+  Ich habe die ganze Nacht in der Firma gearbeitet und dort übernachtet.
+
+  彼らは旅館に3日間泊まっている。
+  彼[かれ]らは 旅館[りょかん]に3日間[さんにちかん] 泊[と]まっている。
+  Sie übernachten seit drei Tagen in einem traditionellen japanischen Gasthaus.
+
+  この部屋には6人が泊まれるそうです。
+  この 部屋[へや]には6人[ろくにん]が 泊[と]まれるそうです。
+  Es heißt, dass in diesem Zimmer sechs Personen übernachten können.
+
+  「泊まる場所ぐらいは何とでもなりますよ」と彼は言った。
+  「泊[と]まる 場所[ばしょ]ぐらいは 何[なん]とでもなりますよ」と 彼[かれ]は 言[い]った。
+  "Einen Platz zum Übernachten finden wir schon irgendwie", sagte er.
+
+  きのう友達のところに泊まったの？
+  きのう 友達[ともだち]のところに 泊[と]まったの？
+  Hast du gestern bei deinem Freund übernachtet?
+
+  今日、この部屋へ泊まるはずだった客はキャンセルしました。
+  今日[きょう]、この 部屋[へや]へ 泊[と]まるはずだった 客[きゃく]はキャンセルしました。
+  Der Gast, der heute in diesem Zimmer übernachten sollte, hat storniert.
+
+  長く泊まるにはこじんまりとしたホテルの方が快適です。
+  長[なが]く 泊[と]まるにはこじんまりとしたホテルの 方[ほう]が 快適[かいてき]です。
+  Für einen längeren Aufenthalt ist ein gemütliches, kleines Hotel angenehmer.
+
+  台風の影響で、船が港に泊まっている。
+  台風[たいふう]の 影響[えいきょう]で、船[ふね]が 港[みなと]に 泊[と]まっている。
+  Aufgrund des Taifuns ankert das Schiff im Hafen.
+
+  出張で東京に泊まる時は、いつもこのビジネスホテルを利用します。
+  出張[しゅっちょう]で 東京[とうきょう]に 泊[と]まる 時[とき]は、いつもこのビジネスホテルを 利用[りよう]します。
+  Wenn ich auf Geschäftsreise in Tokio übernachte, nutze ich immer dieses Business-Hotel.
+
+  キャンプ場に泊まって、自然を満喫しました。
+  キャンプ場[じょう]に 泊[と]まって、自然[しぜん]を 満喫[まんきつ]しました。
+  Wir haben auf einem Campingplatz übernachtet und die Natur in vollen Zügen genossen.
+
+  泊まる予定がなかったので、急遽ホテルを探さなければならなかった。
+  泊[と]まる 予定[よてい]がなかったので、急遽[きゅうきょ]ホテルを 探[さが]さなければならなかった。
+  Da ich nicht vorhatte zu übernachten, musste ich kurzfristig ein Hotel suchen.
+
+  友人の家に泊まるときは、お土産を持っていくのが礼儀です。
+  友人[ゆうじん]の 家[いえ]に 泊[と]まるときは、お 土産[みやげ]を 持[も]っていくのが 礼儀[れいぎ]です。
+  Wenn man bei einem Freund übernachtet, ist es höflich, ein Gastgeschenk mitzubringen.
+
+  海外旅行では、できるだけ現地の人の家に泊まるようにしています。
+  海外旅行[かいがいりょこう]では、できるだけ 現地[げんち]の 人[ひと]の 家[いえ]に 泊[と]まるようにしています。
+  Bei Auslandsreisen versuche ich möglichst, bei Einheimischen zu übernachten.
+
+  子供の頃、よく祖父母の家に泊まりに行きました。
+  子供[こども]の 頃[ころ]、よく 祖父母[そふぼ]の 家[いえ]に 泊[と]まりに 行[い]きました。
+  Als Kind bin ich oft bei meinen Großeltern zum Übernachten geblieben.
+
+  彼女は一人で泊まるのが怖いので、友達に付き添ってもらった。
+  彼女[かのじょ]は 一人[ひとり]で 泊[と]まるのが 怖[こわ]いので、友達[ともだち]に 付[つ]き 添[そ]ってもらった。
+  Da sie Angst hatte, alleine zu übernachten, bat sie einen Freund, sie zu begleiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

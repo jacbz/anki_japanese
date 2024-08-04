@@ -2,21 +2,97 @@ Rang: 1245
 Lemma: 習う
 Lesung: ならう
 Alternativschreibweisen: ''
-Definition: lernen, Unterricht nehmen
+Definition: lernen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: <span>な</span><span class="accent_top">ら</span><span>う</span>
 Register: ''
 Dispersion: '69'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 習わない・習った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   どのくらい日本語を習っていますか。
   どのくらい 日本語[にほんご]を 習[なら]っていますか。
-  Wie lange lernst du schon Japanisch?
+  Wie lange lernen Sie schon Japanisch?
+
+  彼女は有名な先生にピアノを習っている。
+  彼女[かのじょ]は 有名[ゆうめい]な 先生[せんせい]に ピアノを 習[なら]っている。
+  Sie nimmt Klavierunterricht bei einem berühmten Lehrer.
+
+  英語を習うなら、海外留学がおすすめだよ。
+  英語[えいご]を 習[なら]うなら、海外留学[かいがいりゅうがく]がおすすめだよ。
+  Wenn du Englisch lernen willst, empfehle ich dir ein Auslandsstudium.
+
+  子供の頃から空手を習っています。
+  子供[こども]の 頃[ころ]から 空手[からて]を 習[なら]っています。
+  Ich lerne Karate seit meiner Kindheit.
+
+  いろはから習うのは大変だけど、基礎をしっかり身につけられるよ。
+  いろはから 習[なら]うのは 大変[たいへん]だけど、基礎[きそ]をしっかり 身[み]につけられるよ。
+  Von Grund auf zu lernen ist zwar schwierig, aber man kann die Grundlagen gründlich erlernen.
+
+  短大で英会話を習ったけど、実際に使うのは難しいな。
+  短大[たんだい]で 英会話[えいかいわ]を 習[なら]ったけど、実際[じっさい]に 使[つか]うのは 難[むずか]しいな。
+  Ich habe am College Englische Konversation gelernt, aber es in der Praxis anzuwenden ist schwierig.
+
+  数学を習うことで、論理的思考力が身につくと言われています。
+  数学[すうがく]を 習[なら]うことで、論理的思考力[ろんりてきしこうりょく]が 身[み]につくと 言[い]われています。
+  Es heißt, dass man durch das Erlernen von Mathematik logisches Denken entwickelt.
+
+  絵を習いたいんですが、どこかいい教室を知っていますか？
+  絵[え]を 習[なら]いたいんですが、どこかいい 教室[きょうしつ]を 知[し]っていますか？
+  Ich möchte Malen lernen. Kennen Sie einen guten Kurs?
+
+  新しい言語を習うことは、脳にとってもいい刺激になりますよ。
+  新[あたら]しい 言語[げんご]を 習[なら]うことは、脳[のう]にとってもいい 刺激[しげき]になりますよ。
+  Eine neue Sprache zu lernen ist auch eine gute Stimulation für das Gehirn.
+
+  習うより慣れよ、という諺があるけど、実践が大切だよね。
+  習[なら]うより 慣[な]れよ、という 諺[ことわざ]があるけど、実践[じっせん]が 大切[たいせつ]だよね。
+  Es gibt das Sprichwort "Übung macht den Meister", und tatsächlich ist die Praxis wichtig, nicht wahr?
+
+  彼は独学で英語を習ったそうだ。
+  彼[かれ]は 独学[どくがく]で 英語[えいご]を 習[なら]ったそうだ。
+  Er soll Englisch im Selbststudium gelernt haben.
+
+  習った知識を実際に使うことで、より深く理解できるんだ。
+  習[なら]った 知識[ちしき]を 実際[じっさい]に 使[つか]うことで、より 深[ふか]く 理解[りかい]できるんだ。
+  Indem man erlerntes Wissen praktisch anwendet, kann man es tiefer verstehen.
+
+  茶道を習うことで、日本の伝統文化への理解が深まりました。
+  茶道[さどう]を 習[なら]うことで、日本[にほん]の 伝統文化[でんとうぶんか]への 理解[りかい]が 深[ふか]まりました。
+  Durch das Erlernen der Teezeremonie hat sich mein Verständnis für die traditionelle japanische Kultur vertieft.
+
+  習うべきことはまだたくさんあると思います。
+  習[なら]うべきことはまだたくさんあると 思[おも]います。
+  Ich denke, es gibt noch viel zu lernen.
+
+  プログラミングを習うなら、オンラインコースがおすすめです。
+  プログラミングを 習[なら]うなら、オンラインコースがおすすめです。
+  Wenn Sie Programmieren lernen möchten, empfehle ich Online-Kurse.
+
+  習うのに年齢は関係ないよ。いつからでも始められるんだ。
+  習[なら]うのに 年齢[ねんれい]は 関係[かんけい]ないよ。いつからでも 始[はじ]められるんだ。
+  Das Alter spielt beim Lernen keine Rolle. Man kann jederzeit anfangen.
+
+  先輩から仕事のコツを習っています。
+  先輩[せんぱい]から 仕事[しごと]のコツを 習[なら]っています。
+  Ich lerne von meinem älteren Kollegen die Kniffe der Arbeit.
+
+  習うことで、自分の世界が広がるのを感じます。
+  習[なら]うことで、自分[じぶん]の 世界[せかい]が 広[ひろ]がるのを 感[かん]じます。
+  Durch das Lernen fühle ich, wie sich meine Welt erweitert.
+
+  新しいスキルを習うのは、挑戦であり楽しみでもあります。
+  新[あたら]しいスキルを 習[なら]うのは、挑戦[ちょうせん]であり 楽[たの]しみでもあります。
+  Einen neuen Skill zu erlernen ist sowohl eine Herausforderung als auch ein Vergnügen.
+
+  習うことをやめたら、人間は成長をやめてしまうんだ。
+  習[なら]うことをやめたら、人間[にんげん]は 成長[せいちょう]をやめてしまうんだ。
+  Wenn man aufhört zu lernen, hört man auf zu wachsen als Mensch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

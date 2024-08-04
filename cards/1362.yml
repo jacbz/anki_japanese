@@ -2,9 +2,9 @@ Rang: 1362
 Lemma: 嫌い
 Lesung: きらい
 Alternativschreibweisen: ''
-Definition: nicht mögen, hassen
+Definition: nicht mögen; Abneigung
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: <span>き</span><span class="accent_plain">ら</span><span class="accent_plain">い</span><span
   class="accent_plain"></span>
 Register: ''
@@ -16,8 +16,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   何か嫌いな食べ物がありますか。
-  何[なに]か 嫌[きら]いな 食[た]べ 物[もの]がありますか。
-  Gibt es irgendein Essen, das du nicht magst?
+  何[なに]か 嫌[きら]いな 食[た]べ物[もの]がありますか。
+  Gibt es irgendwelche Lebensmittel, die Sie nicht mögen?
+
+  彼は勉強嫌いで、学校に行きたがりません。
+  彼[かれ]は 勉強嫌[べんきょうぎら]いで、学校[がっこう]に 行[い]きたがりません。
+  Er mag das Lernen nicht und will nicht zur Schule gehen.
+
+  男嫌いの彼女は、女性だけの集まりを好みます。
+  男嫌[おとこぎら]いの 彼女[かのじょ]は、女性[じょせい]だけの 集[あつ]まりを 好[この]みます。
+  Sie hat eine Abneigung gegen Männer und bevorzugt Treffen nur mit Frauen.
+
+  野菜嫌いの子供に、バランスの良い食事を与えるのは難しいです。
+  野菜嫌[やさいぎら]いの 子供[こども]に、バランスの 良[よ]い 食事[しょくじ]を 与[あた]えるのは 難[むずか]しいです。
+  Es ist schwierig, einem Kind, das kein Gemüse mag, eine ausgewogene Mahlzeit zu geben.
+
+  好き嫌いが多い人は、外食するときに困ることがあります。
+  好[す]き 嫌[きら]いが 多[おお]い 人[ひと]は、外食[がいしょく]するときに 困[こま]ることがあります。
+  Menschen mit vielen Vorlieben und Abneigungen haben manchmal Schwierigkeiten beim Essen außer Haus.
+
+  蛇が嫌いな人には、爬虫類カフェは向いていないでしょう。
+  蛇[へび]が 嫌[きら]いな 人[ひと]には、爬虫類[はちゅうるい]カフェは 向[む]いていないでしょう。
+  Für Menschen, die Schlangen nicht mögen, ist ein Reptiliencafé wohl nicht geeignet.
+
+  彼女は嫌いな上司と一緒に働くのがストレスだと言っています。
+  彼女[かのじょ]は 嫌[きら]いな 上司[じょうし]と 一緒[いっしょ]に 働[はたら]くのがストレスだと 言[い]っています。
+  Sie sagt, es sei stressig, mit einem Chef zu arbeiten, den sie nicht mag.
+
+  にんじんが嫌いな人でも、この料理なら美味しく食べられるよ。
+  にんじんが 嫌[きら]いな 人[ひと]でも、この 料理[りょうり]なら 美味[おい]しく 食[た]べられるよ。
+  Selbst Leute, die Karotten nicht mögen, können dieses Gericht lecker finden.
+
+  勉強は嫌いだけど、将来のために頑張らなきゃいけないんだ。
+  勉強[べんきょう]は 嫌[きら]いだけど、将来[しょうらい]のために 頑張[がんば]らなきゃいけないんだ。
+  Ich hasse zwar das Lernen, aber ich muss mich für meine Zukunft anstrengen.
+
+  料理や掃除が嫌いじゃないから、一人暮らしも楽しいです。
+  料理[りょうり]や 掃除[そうじ]が 嫌[きら]いじゃないから、一人暮らし[ひとりぐらし]も 楽[たの]しいです。
+  Da ich Kochen und Putzen nicht abgeneigt bin, macht mir das Alleinleben auch Spaß.
+
+  外見だけで判断する嫌いがある人もいますが、それは良くないですね。
+  外見[がいけん]だけで 判断[はんだん]する 嫌[きら]いがある 人[ひと]もいますが、それは 良[よ]くないですね。
+  Es gibt Leute, die dazu neigen, nur nach dem Äußeren zu urteilen, aber das ist nicht gut.
+
+  彼は一か所に集中する嫌いがあるので、時々注意が必要です。
+  彼[かれ]は 一[ひと]か所[ところ]に 集中[しゅうちゅう]する 嫌[きら]いがあるので、時々[ときどき] 注意[ちゅうい]が 必要[ひつよう]です。
+  Er neigt dazu, sich auf einen Punkt zu konzentrieren, daher ist manchmal Vorsicht geboten.
+
+  この映画は暴力的な嫌いがあるので、子供には見せたくありません。
+  この 映画[えいが]は 暴力的[ぼうりょくてき]な 嫌[きら]いがあるので、子供[こども]には 見[み]せたくありません。
+  Dieser Film hat einen Anflug von Gewalt, daher möchte ich ihn Kindern nicht zeigen.
+
+  科学者は研究に没頭して周りが見えなくなる嫌いがあります。
+  科学者[かがくしゃ]は 研究[けんきゅう]に 没頭[ぼっとう]して 周[まわ]りが 見[み]えなくなる 嫌[きら]いがあります。
+  Wissenschaftler neigen dazu, sich in ihre Forschung zu vertiefen und ihre Umgebung aus den Augen zu verlieren.
+
+  この会社は男女の嫌いなく平等に扱っています。
+  この 会社[かいしゃ]は 男女[だんじょ]の 嫌[きら]いなく 平等[びょうどう]に 扱[あつか]っています。
+  Dieses Unternehmen behandelt Männer und Frauen gleichermaßen, ohne Unterschied.
+
+  年齢の嫌いなく、誰もがこのイベントに参加できます。
+  年齢[ねんれい]の 嫌[きら]いなく、誰[だれ]もがこのイベントに 参加[さんか]できます。
+  Jeder kann an dieser Veranstaltung teilnehmen, unabhängig vom Alter.
+
+  彼女は嫌いな人とも上手く付き合う方法を身につけました。
+  彼女[かのじょ]は 嫌[きら]いな 人[ひと]とも 上手[うま]く 付[つ]き 合[あ]う 方法[ほうほう]を 身[み]につけました。
+  Sie hat gelernt, auch mit Menschen, die sie nicht mag, gut umzugehen.
+
+  嫌いな食べ物でも、栄養のために少しは食べるべきです。
+  嫌[きら]いな 食[た]べ物[もの]でも、栄養[えいよう]のために 少[すこ]しは 食[た]べるべきです。
+  Auch wenn man etwas nicht mag, sollte man es der Nährstoffe wegen ein wenig essen.
+
+  彼は嫌いな仕事でも文句を言わずにこなします。
+  彼[かれ]は 嫌[きら]いな 仕事[しごと]でも 文句[もんく]を 言[い]わずにこなします。
+  Er erledigt auch Aufgaben, die er nicht mag, ohne sich zu beschweren.
+
+  子供の頃は嫌いだった食べ物も、大人になると好きになることがあります。
+  子供[こども]の 頃[ころ]は 嫌[きら]いだった 食[た]べ物[もの]も、大人[おとな]になると 好[す]きになることがあります。
+  Lebensmittel, die man als Kind nicht mochte, kann man als Erwachsener mögen lernen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
