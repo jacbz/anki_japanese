@@ -8,6 +8,53 @@ const lemma = document.querySelector("#lemma").dataset.lemma;
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 
 /**
+ * Pitch accent
+ */
+for (const pitchAccent of document.querySelectorAll(
+  ".pitch_accent[data-reading]"
+)) {
+  const reading = pitchAccent.dataset.reading.split("");
+  const pitchAccentNotation = pitchAccent.textContent.split("");
+
+  if (
+    pitchAccent.textContent.replaceAll("(", "").replaceAll(")", "").length !==
+    reading.length
+  ) {
+    console.log("Pitch accent notation and reading length mismatch");
+    pitchAccent.innerHTML = reading.join("");
+    continue;
+  }
+
+  pitchAccent.innerHTML = "";
+  let isUnvoiced = false;
+  while (reading.length > 0) {
+    const pitch = pitchAccentNotation.shift();
+    if (pitch === "(") {
+      isUnvoiced = true;
+      continue;
+    }
+    if (pitch === ")") {
+      isUnvoiced = false;
+      continue;
+    }
+
+    const char = reading.shift();
+    let charClass = "";
+    if (pitch === "^") {
+      charClass = "accent_top";
+    } else if (pitch === "\\") {
+      charClass = "accent_topdown";
+    }
+
+    let newHtml = `<span class="${charClass}">${char}</span>`;
+    if (isUnvoiced) {
+      newHtml = `<span class="unvoiced">${newHtml}</span>`;
+    }
+    pitchAccent.innerHTML += newHtml;
+  }
+}
+
+/**
  * POS
  */
 const pos = document.querySelector(".pos");
@@ -184,7 +231,9 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
         "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
         "User-Agent": "curl",
       },
-      body: `<speak version="1.0" xml:lang="ja-JP">${sentences.join("")}</speak>`,
+      body: `<speak version="1.0" xml:lang="ja-JP">${sentences.join(
+        ""
+      )}</speak>`,
     });
 
     if (!response.ok) {
