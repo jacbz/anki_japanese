@@ -13,22 +13,26 @@ const rank = parseInt(document.querySelector(".rank").dataset.content);
 for (const pitchAccent of document.querySelectorAll(
   ".pitch_accent[data-reading]"
 )) {
-  const reading = pitchAccent.dataset.reading.split("");
-  const pitchAccentNotation = pitchAccent.textContent.split("");
+  const reading =
+    pitchAccent.dataset.reading.length > 0
+      ? pitchAccent.dataset.reading
+      : lemma;
+  const readingCharArr = reading.split("");
+  const pitchAccentCharArr = pitchAccent.textContent.split("");
 
   if (
     pitchAccent.textContent.replaceAll("(", "").replaceAll(")", "").length !==
-    reading.length
+    readingCharArr.length
   ) {
     console.log("Pitch accent notation and reading length mismatch");
-    pitchAccent.innerHTML = reading.join("");
+    pitchAccent.innerHTML = readingCharArr.join("");
     continue;
   }
 
   pitchAccent.innerHTML = "";
   let isUnvoiced = false;
-  while (reading.length > 0) {
-    const pitch = pitchAccentNotation.shift();
+  while (readingCharArr.length > 0) {
+    const pitch = pitchAccentCharArr.shift();
     if (pitch === "(") {
       isUnvoiced = true;
       continue;
@@ -38,7 +42,7 @@ for (const pitchAccent of document.querySelectorAll(
       continue;
     }
 
-    const char = reading.shift();
+    const char = readingCharArr.shift();
     let charClass = "";
     if (pitch === "^") {
       charClass = "accent_top";
