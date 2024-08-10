@@ -1,15 +1,15 @@
 Rang: 1057
 Lemma: 勧める
 Lesung: すすめる
-Alternativschreibweisen: ''
-Definition: empfehlen
+Alternativschreibweisen: 奨める・薦める
+Definition: empfehlen; anbieten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 勧めない・勧めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   友人にこの本を読むよう勧められた。
   友人[ゆうじん]にこの 本[ほん]を 読[よ]むよう 勧[すす]められた。
   Ein Freund hat mir empfohlen, dieses Buch zu lesen.
+
+  この本はとても面白いから、ぜひ読むことを勧めるよ。
+  この 本[ほん]はとても 面白[おもしろ]いから、ぜひ 読[よ]むことを 勧[すす]めるよ。
+  Dieses Buch ist sehr interessant, daher empfehle ich dir unbedingt, es zu lesen.
+
+  医者は患者に休息を勧めました。
+  医者[いしゃ]は 患者[かんじゃ]に 休息[きゅうそく]を 勧[すす]めました。
+  Der Arzt empfahl dem Patienten, sich auszuruhen.
+
+  友達が面白い映画を勧めてくれたので、今度見に行こうと思います。
+  友達[ともだち]が 面白[おもしろ]い 映画[えいが]を 勧[すす]めてくれたので、今度[こんど] 見[み]に 行[い]こうと 思[おも]います。
+  Ein Freund hat mir einen interessanten Film empfohlen, also denke ich darüber nach, ihn demnächst anzuschauen.
+
+  症状が悪化しているので、医師は入院を勧めています。
+  症状[しょうじょう]が 悪化[あっか]しているので、医師[いし]は 入院[にゅういん]を 勧[すす]めています。
+  Da sich die Symptome verschlimmert haben, empfiehlt der Arzt einen Krankenhausaufenthalt.
+
+  会社の業績が悪いため、社長は引退を勧められました。
+  会社[かいしゃ]の 業績[ぎょうせき]が 悪[わる]いため、社長[しゃちょう]は 引退[いんたい]を 勧[すす]められました。
+  Aufgrund der schlechten Unternehmensergebnisse wurde dem Präsidenten der Rücktritt nahegelegt.
+
+  先生は盛んに留学を勧めていますが、私にはまだ迷いがあります。
+  先生[せんせい]は 盛[さか]んに 留学[りゅうがく]を 勧[すす]めていますが、私[わたし]にはまだ 迷[まよ]いがあります。
+  Der Lehrer empfiehlt immer wieder ein Auslandsstudium, aber ich bin noch unschlüssig.
+
+  しきりに健康的な生活を勧めるけど、なかなか実行するのは難しいね。
+  しきりに 健康的[けんこうてき]な 生活[せいかつ]を 勧[すす]めるけど、なかなか 実行[じっこう]するのは 難[むずか]しいね。
+  Du empfiehlst mir nachdrücklich eine gesunde Lebensweise, aber es ist wirklich schwer, das umzusetzen.
+
+  他人から推測されやすい暗証番号は、ご変更をお勧めします。
+  他人[たにん]から 推測[すいそく]されやすい 暗証番号[あんしょうばんごう]は、ご 変更[へんこう]をお 勧[すす]めします。
+  Wir empfehlen Ihnen, Ihre PIN zu ändern, wenn sie von anderen leicht erraten werden kann.
+
+  糖尿病患者に予防のために服薬を勧める医師が増えています。
+  糖尿病患者[とうにょうびょうかんじゃ]に 予防[よぼう]のために 服薬[ふくやく]を 勧[すす]める 医師[いし]が 増[ふ]えています。
+  Immer mehr Ärzte empfehlen Diabetespatienten vorbeugend Medikamente einzunehmen.
+
+  この病気は寿命を縮めないから、楽観的になるように勧めます。
+  この 病気[びょうき]は 寿命[じゅみょう]を 縮[ちぢ]めないから、楽観的[らっかんてき]になるように 勧[すす]めます。
+  Da diese Krankheit die Lebenserwartung nicht verkürzt, rate ich Ihnen, optimistisch zu bleiben.
+
+  中国人たちはここで降りるように奨めたが、私は躊躇していた。
+  中国人[ちゅうごくじん]たちはここで 降[お]りるように 奨[すす]めたが、私[わたし]は 躊躇[ちゅうちょ]していた。
+  Die Chinesen rieten mir, hier auszusteigen, aber ich zögerte.
+
+  あんな退屈な男は放っておきなさいと、私は彼女に勧めた。
+  あんな 退屈[たいくつ]な 男[おとこ]は 放[ほう]っておきなさいと、私[わたし]は 彼女[かのじょ]に 勧[すす]めた。
+  Ich riet ihr, diesen langweiligen Kerl links liegen zu lassen.
+
+  お客様、どうぞこちらの椅子にお座りください。
+  お 客様[きゃくさま]、どうぞこちらの 椅子[いす]にお 座[すわ]りください。
+  Bitte nehmen Sie hier Platz, verehrter Gast.
+
+  お茶をお勧めしますが、いかがですか。
+  お 茶[ちゃ]をお 勧[すす]めしますが、いかがですか。
+  Ich kann Ihnen Tee anbieten. Möchten Sie welchen?
+
+  アペリティフはいかがですか。お勧めですよ。
+  アペリティフはいかがですか。お 勧[すす]めですよ。
+  Wie wäre es mit einem Aperitif? Ich kann ihn sehr empfehlen.
+
+  健康のために、毎日30分の散歩を勧めています。
+  健康[けんこう]のために、毎日[まいにち]30分[ぷん]の 散歩[さんぽ]を 勧[すす]めています。
+  Für Ihre Gesundheit empfehle ich Ihnen, täglich 30 Minuten spazieren zu gehen.
+
+  専門家は、ストレス解消のために趣味を持つことを勧めています。
+  専門家[せんもんか]は、ストレス 解消[かいしょう]のために 趣味[しゅみ]を 持[も]つことを 勧[すす]めています。
+  Experten raten dazu, ein Hobby zu haben, um Stress abzubauen.
+
+  彼女は私に新しい仕事に挑戦することを勧めてくれました。
+  彼女[かのじょ]は 私[わたし]に 新[あたら]しい 仕事[しごと]に 挑戦[ちょうせん]することを 勧[すす]めてくれました。
+  Sie ermutigte mich, eine neue berufliche Herausforderung anzunehmen.
+
+  この商品をお客様に勧めるときは、特徴をよく説明してください。
+  この 商品[しょうひん]をお 客様[きゃくさま]に 勧[すす]めるときは、特徴[とくちょう]をよく 説明[せつめい]してください。
+  Wenn Sie dieses Produkt den Kunden empfehlen, erklären Sie bitte die Merkmale genau.
+
+  先輩は後輩に積極的に意見を言うことを勧めていました。
+  先輩[せんぱい]は 後輩[こうはい]に 積極的[せっきょくてき]に 意見[いけん]を 言[い]うことを 勧[すす]めていました。
+  Der erfahrene Kollege riet dem Neuling, seine Meinung aktiv zu äußern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

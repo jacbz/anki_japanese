@@ -1,14 +1,14 @@
 Rang: 1030
 Lemma: ヨーロッパ
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 欧羅巴
 Definition: Europa
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^\..
 Register: ''
 Dispersion: '93'
-Ursprung: ''
+Ursprung: port. Europa
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   友達に会いにヨーロッパへ行った。
   友達[ともだち]に 会[あ]いにヨーロッパへ 行[い]った。
   Ich bin nach Europa gereist, um einige Freunde zu besuchen.
+
+  ヨーロッパ美術の展覧会が東京で開催されます。
+  ヨーロッパ 美術[びじゅつ]の 展覧会[てんらんかい]が 東京[とうきょう]で 開催[かいさい]されます。
+  Eine Ausstellung europäischer Kunst findet in Tokio statt.
+
+  ヨーロッパ文学の影響は日本の近代文学にも見られます。
+  ヨーロッパ 文学[ぶんがく]の 影響[えいきょう]は 日本[にほん]の 近代[きんだい] 文学[ぶんがく]にも 見[み]られます。
+  Der Einfluss der europäischen Literatur ist auch in der modernen japanischen Literatur zu erkennen.
+
+  詳細なヨーロッパ地図を買って、旅行の計画を立てました。
+  詳細[しょうさい]なヨーロッパ 地図[ちず]を 買[か]って、旅行[りょこう]の 計画[けいかく]を 立[た]てました。
+  Ich habe eine detaillierte Europakarte gekauft und meine Reise geplant.
+
+  ヨーロッパ中心主義的な考え方は批判されることが多いです。
+  ヨーロッパ 中心主義[ちゅうしんしゅぎ]的[てき]な 考[かんが]え 方[かた]は 批判[ひはん]されることが 多[おお]いです。
+  Eurozentrische Denkweisen werden oft kritisiert.
+
+  ヨーロッパ人権条約は人権保護の重要な枠組みです。
+  ヨーロッパ 人権条約[じんけんじょうやく]は 人権保護[じんけんほご]の 重要[じゅうよう]な 枠組[わくぐ]みです。
+  Die Europäische Menschenrechtskonvention ist ein wichtiger Rahmen für den Schutz der Menschenrechte.
+
+  ヨーロッパ経済共同体は現在のEUの前身組織です。
+  ヨーロッパ 経済共同体[けいざいきょうどうたい]は 現在[げんざい]のEUの 前身組織[ぜんしんそしき]です。
+  Die Europäische Wirtschaftsgemeinschaft ist die Vorgängerorganisation der heutigen EU.
+
+  ヨーロッパ連合は27カ国から成る政治経済連合体だよ。
+  ヨーロッパ 連合[れんごう]は27カ 国[こく]から 成[な]る 政治経済連合体[せいじけいざいれんごうたい]だよ。
+  Die Europäische Union ist eine politische und wirtschaftliche Vereinigung von 27 Ländern.
+
+  ヨーロッパ旅行の思い出は一生忘れられないでしょう。
+  ヨーロッパ 旅行[りょこう]の 思[おも]い 出[で]は 一生[いっしょう] 忘[わす]れられないでしょう。
+  Die Erinnerungen an meine Europareise werde ich wohl nie vergessen.
+
+  ヨーロッパ司法裁判所はEU法の解釈に関する最高機関です。
+  ヨーロッパ 司法裁判所[しほうさいばんしょ]はEU 法[ほう]の 解釈[かいしゃく]に 関[かん]する 最高機関[さいこうきかん]です。
+  Der Europäische Gerichtshof ist das oberste Organ für die Auslegung des EU-Rechts.
+
+  ヨーロッパ市場は日本企業にとって重要な輸出先だ。
+  ヨーロッパ 市場[しじょう]は 日本企業[にほんきぎょう]にとって 重要[じゅうよう]な 輸出先[ゆしゅつさき]だ。
+  Der europäische Markt ist ein wichtiges Exportziel für japanische Unternehmen.
+
+  ヨーロッパ大陸は多様な文化と言語を持つ地域です。
+  ヨーロッパ 大陸[たいりく]は 多様[たよう]な 文化[ぶんか]と 言語[げんご]を 持[も]つ 地域[ちいき]です。
+  Der europäische Kontinent ist eine Region mit vielfältigen Kulturen und Sprachen.
+
+  ヨーロッパ帝国主義の影響は今でも世界各地で見られます。
+  ヨーロッパ 帝国主義[ていこくしゅぎ]の 影響[えいきょう]は 今[いま]でも 世界各地[せかいかくち]で 見[み]られます。
+  Die Auswirkungen des europäischen Imperialismus sind noch heute weltweit zu spüren.
+
+  中央ヨーロッパの国々は独自の文化を持っているね。
+  中央[ちゅうおう]ヨーロッパの 国々[くにぐに]は 独自[どくじ]の 文化[ぶんか]を 持[も]っているね。
+  Die Länder Mitteleuropas haben ihre eigene Kultur.
+
+  汎ヨーロッパ運動は欧州統合の理念を推進しました。
+  汎[はん]ヨーロッパ 運動[うんどう]は 欧州統合[おうしゅうとうごう]の 理念[りねん]を 推進[すいしん]しました。
+  Die paneuropäische Bewegung förderte die Idee der europäischen Integration.
+
+  東ヨーロッパの歴史は複雑で興味深いものだ。
+  東[ひがし]ヨーロッパの 歴史[れきし]は 複雑[ふくざつ]で 興味深[きょうみぶか]いものだ。
+  Die Geschichte Osteuropas ist komplex und faszinierend.
+
+  北ヨーロッパの国々は高い生活水準で知られています。
+  北[きた]ヨーロッパの 国々[くにぐに]は 高[たか]い 生活水準[せいかつすいじゅん]で 知[し]られています。
+  Die nordeuropäischen Länder sind für ihren hohen Lebensstandard bekannt.
+
+  南ヨーロッパは美しい海岸線と温暖な気候が魅力です。
+  南[みなみ]ヨーロッパは 美[うつく]しい 海岸線[かいがんせん]と 温暖[おんだん]な 気候[きこう]が 魅力[みりょく]です。
+  Südeuropa besticht durch seine schönen Küstenlinien und sein mildes Klima.
+
+  西ヨーロッパの都市には歴史的な建築物が多く残っているよ。
+  西[にし]ヨーロッパの 都市[とし]には 歴史的[れきしてき]な 建築物[けんちくぶつ]が 多[おお]く 残[のこ]っているよ。
+  In westeuropäischen Städten gibt es noch viele historische Gebäude.
+
+  ヨーロッパの伝統的な料理を学ぶために料理学校に通っています。
+  ヨーロッパの 伝統的[でんとうてき]な 料理[りょうり]を 学[まな]ぶために 料理学校[りょうりがっこう]に 通[かよ]っています。
+  Ich besuche eine Kochschule, um traditionelle europäische Küche zu lernen.
+
+  ヨーロッパの言語の多様性に魅了されて、言語学を専攻することにしたんだ。
+  ヨーロッパの 言語[げんご]の 多様性[たようせい]に 魅了[みりょう]されて、言語学[げんごがく]を 専攻[せんこう]することにしたんだ。
+  Ich war so fasziniert von der Vielfalt der europäischen Sprachen, dass ich beschloss, Linguistik zu studieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

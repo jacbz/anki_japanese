@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: \...
 Register: ''
 Dispersion: '81'
-Ursprung: ''
+Ursprung: engl. super
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   毎日同じスーパーで買い物している。
-  毎日[まいにち] 同[おな]じスーパーで 買[か]い 物[もの]している。
-  Ich kaufe jeden Tag im selben Supermarkt ein.
+  毎日[まいにち]同[おな]じスーパーで 買[か]い 物[もの]している。
+  Ich kaufe jeden Tag im gleichen Supermarkt ein.
+
+  この町の新しいスーパーは品揃えが豊富だ。
+  この 町[まち]の 新[あたら]しいスーパーは 品揃[しなぞろ]えが 豊富[ほうふ]だ。
+  Der neue Supermarkt in dieser Stadt hat eine große Auswahl.
+
+  スーパーの特売で野菜を安く買えた。
+  スーパーの 特売[とくばい]で 野菜[やさい]を 安[やす]く 買[か]えた。
+  Ich konnte beim Sonderverkauf im Supermarkt Gemüse günstig kaufen.
+
+  スーパーカーの展示会に行ってきた。
+  スーパーカーの 展示会[てんじかい]に 行[い]ってきた。
+  Ich war bei einer Ausstellung von Supersportwagen.
+
+  この映画のスーパースターは演技が上手い。
+  この 映画[えいが]のスーパースターは 演技[えんぎ]が 上手[じょうず]い。
+  Der Superstar dieses Films ist ein ausgezeichneter Schauspieler.
+
+  スーパーコンピューターは複雑な計算を高速で処理できる。
+  スーパーコンピューターは 複雑[ふくざつ]な 計算[けいさん]を 高速[こうそく]で 処理[しょり]できる。
+  Supercomputer können komplexe Berechnungen mit hoher Geschwindigkeit durchführen.
+
+  スーパーモデルになるのは簡単ではない。
+  スーパーモデルになるのは 簡単[かんたん]ではない。
+  Es ist nicht einfach, ein Supermodel zu werden.
+
+  スーパーリアリズムの絵画展を見に行った。
+  スーパーリアリズムの 絵画展[かいがてん]を 見[み]に 行[い]った。
+  Ich bin zu einer Ausstellung hyperrealistischer Gemälde gegangen.
+
+  スーパータンカーは石油を大量に運搬できる。
+  スーパータンカーは 石油[せきゆ]を 大量[たいりょう]に 運搬[うんぱん]できる。
+  Ein Supertanker kann große Mengen Öl transportieren.
+
+  週末のスーパーの駐車場は混んでいる。
+  週末[しゅうまつ]のスーパーの 駐車場[ちゅうしゃじょう]は 混[こ]んでいる。
+  Der Parkplatz des Supermarkts ist am Wochenende voll.
+
+  スーパーのチラシを見て今日の夕食を決めよう。
+  スーパーのチラシを 見[み]て 今日[きょう]の 夕食[ゆうしょく]を 決[き]めよう。
+  Lass uns den Werbeprospekt des Supermarkts ansehen und das heutige Abendessen planen.
+
+  このスーパーは24時間営業しているから便利だ。
+  このスーパーは24時間[じかん] 営業[えいぎょう]しているから 便利[べんり]だ。
+  Dieser Supermarkt ist praktisch, weil er rund um die Uhr geöffnet hat.
+
+  スーパーで買い物をする時はエコバッグを持参しよう。
+  スーパーで 買[か]い 物[もの]をする 時[とき]はエコバッグを 持参[じさん]しよう。
+  Lass uns eine Einkaufstasche mitnehmen, wenn wir im Supermarkt einkaufen gehen.
+
+  スーパーのレジで長蛇の列ができていた。
+  スーパーのレジで 長蛇[ちょうだ]の 列[れつ]ができていた。
+  An der Kasse im Supermarkt hatte sich eine lange Schlange gebildet.
+
+  スーパーの店員さんはいつも親切だ。
+  スーパーの 店員[てんいん]さんはいつも 親切[しんせつ]だ。
+  Die Angestellten im Supermarkt sind immer freundlich.
+
+  スーパーで買った卵が割れていた。
+  スーパーで 買[か]った 卵[たまご]が 割[わ]れていた。
+  Die Eier, die ich im Supermarkt gekauft habe, waren kaputt.
+
+  スーパーのポイントカードを使うとお得だよ。
+  スーパーのポイントカードを 使[つか]うとお 得[とく]だよ。
+  Es lohnt sich, die Treuekarte des Supermarkts zu benutzen.
+
+  近所にスーパーができて便利になった。
+  近所[きんじょ]にスーパーができて 便利[べんり]になった。
+  Es ist praktisch geworden, seit in der Nachbarschaft ein Supermarkt eröffnet hat.
+
+  スーパーのバイトで接客の仕方を学んだ。
+  スーパーのバイトで 接客[せっきゃく]の 仕方[しかた]を 学[まな]んだ。
+  Ich habe durch meinen Nebenjob im Supermarkt gelernt, wie man mit Kunden umgeht.
+
+  スーパーの特売日は混雑するから早めに行こう。
+  スーパーの 特売[とくばい]日は 混雑[こんざつ]するから 早[はや]めに 行[い]こう。
+  Lass uns früh zum Sonderverkaufstag im Supermarkt gehen, da es dort voll sein wird.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

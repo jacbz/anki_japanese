@@ -2,7 +2,7 @@ Rang: 2027
 Lemma: 住所
 Lesung: じゅうしょ
 Alternativschreibweisen: ''
-Definition: Adresse
+Definition: Adresse, Wohnort
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   住所をいただけますか？
   住所[じゅうしょ]をいただけますか？
-  Könnten Sie uns Ihre Adresse geben?
+  Könnten Sie mir bitte Ihre Adresse geben?
+
+  新しい住所に引っ越したばかりです。
+  新[あたら]しい 住所[じゅうしょ]に 引[ひ]っ 越[こ]したばかりです。
+  Ich bin gerade erst in meine neue Wohnung umgezogen.
+
+  住所変更の手続きをしなければなりません。
+  住所変更[じゅうしょへんこう]の 手続[てつづ]きをしなければなりません。
+  Ich muss die Formalitäten für eine Adressänderung erledigen.
+
+  彼女の住所が不明で、連絡が取れません。
+  彼女[かのじょ]の 住所[じゅうしょ]が 不明[ふめい]で、連絡[れんらく]が 取[と]れません。
+  Ihre Adresse ist unbekannt, und ich kann sie nicht erreichen.
+
+  住所録を更新する必要があります。
+  住所録[じゅうしょろく]を 更新[こうしん]する 必要[ひつよう]があります。
+  Das Adressbuch muss aktualisiert werden.
+
+  現住所はいつから住んでいますか？
+  現住所[げんじゅうしょ]はいつから 住[す]んでいますか？
+  Seit wann wohnen Sie an Ihrer derzeitigen Adresse?
+
+  住所が遠いので、通勤に時間がかかります。
+  住所[じゅうしょ]が 遠[とお]いので、通勤[つうきん]に 時間[じかん]がかかります。
+  Da ich weit weg wohne, brauche ich lange für den Arbeitsweg.
+
+  引越し先の住所をお知らせください。
+  引越[ひっこ]し 先[さき]の 住所[じゅうしょ]をお 知[し]らせください。
+  Bitte teilen Sie mir Ihre neue Adresse nach dem Umzug mit.
+
+  自宅の住所は非公開にしています。
+  自宅[じたく]の 住所[じゅうしょ]は 非公開[ひこうかい]にしています。
+  Meine Privatadresse halte ich vertraulich.
+
+  職場の住所を教えてもらえますか？
+  職場[しょくば]の 住所[じゅうしょ]を 教[おし]えてもらえますか？
+  Können Sie mir bitte die Adresse Ihres Arbeitsplatzes geben?
+
+  住所不完全のため、手紙が戻ってきました。
+  住所不完全[じゅうしょふかんぜん]のため、手紙[てがみ]が 戻[もど]ってきました。
+  Der Brief kam zurück, weil die Adresse unvollständig war.
+
+  三人の住所はいずれも沿線である。
+  三人[さんにん]の 住所[じゅうしょ]はいずれも 沿線[えんせん]である。
+  Die Wohnungen der drei waren alle mit der Bahn zu erreichen.
+
+  住所と氏名を用紙に記入してください。
+  住所[じゅうしょ]と 氏名[しめい]を 用紙[ようし]に 記入[きにゅう]してください。
+  Bitte tragen Sie Ihren Namen und Ihre Adresse in das Formular ein.
+
+  住所地の法律に従う必要があります。
+  住所地[じゅうしょち]の 法律[ほうりつ]に 従[したが]う 必要[ひつよう]があります。
+  Wir müssen uns an die Gesetze des Wohnsitzortes halten.
+
+  前住所はどこでしたか？
+  前住所[ぜんじゅうしょ]はどこでしたか？
+  Wo war Ihre vorherige Adresse?
+
+  新住所に郵便物を転送してもらっています。
+  新住所[しんじゅうしょ]に 郵便物[ゆうびんぶつ]を 転送[てんそう]してもらっています。
+  Ich lasse meine Post an die neue Adresse weiterleiten.
+
+  住所不定のため、社会保障の申請ができません。
+  住所不定[じゅうしょふてい]のため、社会保障[しゃかいほしょう]の 申請[しんせい]ができません。
+  Aufgrund des fehlenden festen Wohnsitzes kann ich keinen Antrag auf Sozialleistungen stellen.
+
+  宛名の住所を確認してから投函してください。
+  宛名[あてな]の 住所[じゅうしょ]を 確認[かくにん]してから 投函[とうかん]してください。
+  Bitte überprüfen Sie die Empfängeradresse, bevor Sie den Brief einwerfen.
+
+  差出人の住所を封筒の裏に書いてください。
+  差出人[さしだしにん]の 住所[じゅうしょ]を 封筒[ふうとう]の 裏[うら]に 書[か]いてください。
+  Bitte schreiben Sie die Absenderadresse auf die Rückseite des Umschlags.
+
+  住所を間違えて配達されなかった荷物がありました。
+  住所[じゅうしょ]を 間違[まちが]えて 配達[はいたつ]されなかった 荷物[にもつ]がありました。
+  Es gab ein Paket, das aufgrund einer falschen Adresse nicht zugestellt werden konnte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

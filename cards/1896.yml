@@ -1,7 +1,7 @@
 Rang: 1896
 Lemma: インド
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 印度
 Definition: Indien
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本はインドから紅茶を輸入している。
-  日本[にっぽん]はインドから 紅茶[こうちゃ]を 輸入[ゆにゅう]している。
+  日本[にほん]はインドから 紅茶[こうちゃ]を 輸入[ゆにゅう]している。
   Japan importiert Tee aus Indien.
+
+  インド亜大陸は多様な文化と言語を持つ地域です。
+  インド 亜大陸[あたいりく]は 多様[たよう]な 文化[ぶんか]と 言語[げんご]を 持[も]つ 地域[ちいき]です。
+  Der indische Subkontinent ist eine Region mit vielfältigen Kulturen und Sprachen.
+
+  インド大反乱は19世紀半ばに起こった重要な歴史的出来事だ。
+  インド 大反乱[だいはんらん]は19世紀[せいき] 半[なか]ばに 起[お]こった 重要[じゅうよう]な 歴史的[れきしてき] 出来事[できごと]だ。
+  Der Sepoy-Aufstand war ein wichtiges historisches Ereignis Mitte des 19. Jahrhunderts.
+
+  彼女はインド学を専攻している学生です。
+  彼女[かのじょ]はインド 学[がく]を 専攻[せんこう]している 学生[がくせい]です。
+  Sie ist eine Studentin, die sich auf Indologie spezialisiert hat.
+
+  インド半島の地理について調べましょう。
+  インド 半島[はんとう]の 地理[ちり]について 調[しら]べましょう。
+  Lassen Sie uns die Geographie der indischen Halbinsel untersuchen.
+
+  インド医学は伝統的な治療法として知られています。
+  インド 医学[いがく]は 伝統的[でんとうてき]な 治療法[ちりょうほう]として 知[し]られています。
+  Die indische Medizin ist für ihre traditionellen Heilmethoden bekannt.
+
+  私の隣人はインド人で、とてもフレンドリーです。
+  私[わたし]の 隣人[りんじん]はインド 人[じん]で、とてもフレンドリーです。
+  Mein Nachbar ist Inder und sehr freundlich.
+
+  インド共和国は世界最大の民主主義国家の一つです。
+  インド 共和国[きょうわこく]は 世界[せかい] 最大[さいだい]の 民主主義[みんしゅしゅぎ] 国家[こっか]の 一[ひと]つです。
+  Die Republik Indien ist einer der größten demokratischen Staaten der Welt.
+
+  インド帝国時代の歴史は複雑で興味深い。
+  インド 帝国[ていこく] 時代[じだい]の 歴史[れきし]は 複雑[ふくざつ]で 興味深[きょうみぶか]い。
+  Die Geschichte des Kaiserreichs Indien ist komplex und faszinierend.
+
+  インド哲学は東洋思想の重要な一部を形成しています。
+  インド 哲学[てつがく]は 東洋[とうよう] 思想[しそう]の 重要[じゅうよう]な 一部[いちぶ]を 形成[けいせい]しています。
+  Die indische Philosophie bildet einen wichtigen Teil des östlichen Denkens.
+
+  インドのスパイスを使った料理が大好きです。
+  インドのスパイスを 使[つか]った 料理[りょうり]が 大好[だいす]きです。
+  Ich liebe Gerichte, die mit indischen Gewürzen zubereitet werden.
+
+  インドの伝統的な衣装はとても色鮮やかですね。
+  インドの 伝統的[でんとうてき]な 衣装[いしょう]はとても 色鮮[いろあざ]やかですね。
+  Die traditionellen indischen Trachten sind sehr farbenfroh, nicht wahr?
+
+  インドのボリウッド映画は世界中で人気があります。
+  インドのボリウッド 映画[えいが]は 世界中[せかいじゅう]で 人気[にんき]があります。
+  Indische Bollywood-Filme sind weltweit beliebt.
+
+  インドのタージマハルは世界遺産の一つです。
+  インドのタージマハルは 世界[せかい] 遺産[いさん]の 一[ひと]つです。
+  Das Taj Mahal in Indien ist eines der Weltkulturerbe.
+
+  インドのIT産業は急速に発展しています。
+  インドのIT 産業[さんぎょう]は 急速[きゅうそく]に 発展[はってん]しています。
+  Die IT-Industrie in Indien entwickelt sich rasant.
+
+  インドのヨガは世界中で健康法として広く実践されています。
+  インドのヨガは 世界中[せかいじゅう]で 健康法[けんこうほう]として 広[ひろ]く 実践[じっせん]されています。
+  Indisches Yoga wird weltweit als Gesundheitspraxis weit verbreitet praktiziert.
+
+  インドのカレーは日本でも人気の料理です。
+  インドのカレーは 日本[にほん]でも 人気[にんき]の 料理[りょうり]です。
+  Indisches Curry ist auch in Japan ein beliebtes Gericht.
+
+  インドの言語の多様性には驚かされます。
+  インドの 言語[げんご]の 多様性[たようせい]には 驚[おどろ]かされます。
+  Die Vielfalt der Sprachen in Indien ist erstaunlich.
+
+  インドの祭りは色彩豊かで活気に満ちています。
+  インドの 祭[まつ]りは 色彩[しきさい] 豊[ゆた]かで 活気[かっき]に 満[み]ちています。
+  Die indischen Feste sind farbenfroh und voller Leben.
+
+  当時ポルトガル宣教師が東洋に行くためには、まずリスボンからインドにむかうインド艦隊に同乗するのが普通である。
+  当時[とうじ]ポルトガル 宣教師[せんきょうし]が 東洋[とうよう]に 行[い]くためには、まずリスボンからインドにむかうインド 艦隊[かんたい]に 同乗[どうじょう]するのが 普通[ふつう]である。
+  Zu dieser Zeit war es üblich, dass portugiesische Missionare, die in den Fernen Osten reisten, zuerst mit einem Schiff der indischen Flotte von Lissabon aus nach Indien fuhren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

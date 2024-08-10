@@ -2,13 +2,13 @@ Rang: 1593
 Lemma: アルバイト
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Teilzeitjob
+Definition: Nebenjob; Teilzeitarbeit
 Extra: '' # Nur bei suru-Verben
 Wortart: n, vi
 Lesung mit Tonhöhe: .^\..
 Register: ''
 Dispersion: '75'
-Ursprung: ''
+Ursprung: dt. Arbeit
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼は車を買うためにアルバイトをしている。
   彼[かれ]は 車[くるま]を 買[か]うためにアルバイトをしている。
-  Er arbeitet Teilzeit, um sich ein Auto kaufen zu können.
+  Er jobbt, um sich ein Auto kaufen zu können.
+
+  学生時代はカフェでアルバイトをしていました。
+  学生時代[がくせいじだい]はカフェでアルバイトをしていました。
+  Während meiner Studienzeit habe ich in einem Café gejobbt.
+
+  夏休みにアルバイト先を探しています。
+  夏休[なつやす]みにアルバイト先[さき]を 探[さが]しています。
+  Ich suche nach einer Arbeitsstelle für die Sommerferien.
+
+  アルバイトの面接を受けるので、スーツを着ていきます。
+  アルバイトの 面接[めんせつ]を 受[う]けるので、スーツを 着[き]ていきます。
+  Ich ziehe einen Anzug an, weil ich ein Vorstellungsgespräch für einen Nebenjob habe.
+
+  彼女は学業とアルバイトを両立させています。
+  彼女[かのじょ]は 学業[がくぎょう]とアルバイトを 両立[りょうりつ]させています。
+  Sie bringt ihr Studium und ihren Nebenjob unter einen Hut.
+
+  このレストランではアルバイトを募集しています。
+  このレストランではアルバイトを 募集[ぼしゅう]しています。
+  Dieses Restaurant sucht Aushilfskräfte.
+
+  アルバイトの給料で旅行資金を貯めています。
+  アルバイトの 給料[きゅうりょう]で 旅行資金[りょこうしきん]を 貯[た]めています。
+  Ich spare mit meinem Nebenjob-Gehalt für eine Reise.
+
+  彼はコンビニでアルバイトをしながら大学に通っている。
+  彼[かれ]はコンビニでアルバイトをしながら 大学[だいがく]に 通[かよ]っている。
+  Er studiert an der Universität und jobbt nebenbei in einem Convenience Store.
+
+  アルバイトの面接で不合格になってしまった。
+  アルバイトの 面接[めんせつ]で 不合格[ふごうかく]になってしまった。
+  Ich bin beim Vorstellungsgespräch für den Nebenjob durchgefallen.
+
+  アルバイトのシフトを来週分まで組みました。
+  アルバイトのシフトを 来週分[らいしゅうぶん]まで 組[く]みました。
+  Ich habe den Arbeitsplan für die Aushilfen bis nächste Woche erstellt.
+
+  冬休みの間、スキー場でアルバイトをする予定です。
+  冬休[ふゆやす]みの 間[あいだ]、スキー場[じょう]でアルバイトをする 予定[よてい]です。
+  Ich plane, während der Winterferien in einem Skigebiet zu jobben.
+
+  アルバイト先の同僚とランチに行きました。
+  アルバイト先[さき]の 同僚[どうりょう]とランチに 行[い]きました。
+  Ich bin mit meinen Kollegen von der Nebenjob-Stelle zum Mittagessen gegangen.
+
+  週末のアルバイトで疲れてしまいました。
+  週末[しゅうまつ]のアルバイトで 疲[つか]れてしまいました。
+  Ich bin vom Wochenend-Job erschöpft.
+
+  アルバイトの採用通知が届きました。
+  アルバイトの 採用通知[さいようつうち]が 届[とど]きました。
+  Ich habe die Zusage für den Nebenjob erhalten.
+
+  夏のアルバイトで貴重な経験を積むことができました。
+  夏[なつ]のアルバイトで 貴重[きちょう]な 経験[けいけん]を 積[つ]むことができました。
+  Ich konnte durch meinen Sommerjob wertvolle Erfahrungen sammeln.
+
+  彼女は学生アルバイトとして図書館で働いています。
+  彼女[かのじょ]は 学生[がくせい]アルバイトとして 図書館[としょかん]で 働[はたら]いています。
+  Sie arbeitet als studentische Aushilfe in der Bibliothek.
+
+  新しいアルバイトを始めるので、制服を買いに行かなければなりません。
+  新[あたら]しいアルバイトを 始[はじ]めるので、制服[せいふく]を 買[か]いに 行[い]かなければなりません。
+  Ich muss mir eine Uniform kaufen, weil ich einen neuen Nebenjob anfange.
+
+  アルバイトの時給が上がって嬉しいです。
+  アルバイトの 時給[じきゅう]が 上[あ]がって 嬉[うれ]しいです。
+  Ich freue mich, dass mein Stundenlohn für den Nebenjob erhöht wurde.
+
+  アルバイトの経験を生かして、正社員として採用されました。
+  アルバイトの 経験[けいけん]を 生[い]かして、正社員[せいしゃいん]として 採用[さいよう]されました。
+  Ich wurde aufgrund meiner Erfahrung als Aushilfe als Vollzeitmitarbeiter eingestellt.
+
+  冬に僕は新宿の小さなレコード店でアルバイトの口をみつけた。
+  冬[ふゆ]に 僕[ぼく]は 新宿[しんじゅく]の 小[ちい]さなレコード 店[みせ]でアルバイトの 口[くち]をみつけた。
+  Im Winter fand ich einen Job in einem kleinen Plattenladen in Shinjuku.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

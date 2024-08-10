@@ -2,14 +2,14 @@ Rang: 1031
 Lemma: 除く
 Lesung: のぞく
 Alternativschreibweisen: ''
-Definition: entfernen; außer; loswerden
+Definition: entfernen; ausnehmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '71'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 除かない・除いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   彼の作文は多少の間違いを除いてすばらしかった。
   彼[かれ]の 作文[さくぶん]は 多少[たしょう]の 間違[まちが]いを 除[のぞ]いてすばらしかった。
   Seine Komposition war ausgezeichnet, abgesehen von ein paar Fehlern.
+
+  痛みを除くために、医者に処方された薬を飲んでいます。
+  痛[いた]みを 除[のぞ]くために、医者[いしゃ]に 処方[しょほう]された 薬[くすり]を 飲[の]んでいます。
+  Ich nehme die vom Arzt verschriebenen Medikamente, um die Schmerzen zu beseitigen.
+
+  名簿から彼の名前を除くように指示されました。
+  名簿[めいぼ]から 彼[かれ]の 名前[なまえ]を 除[のぞ]くように 指示[しじ]されました。
+  Ich wurde angewiesen, seinen Namen von der Liste zu streichen.
+
+  庭の雑草を除くのは大変な作業です。
+  庭[にわ]の 雑草[ざっそう]を 除[のぞ]くのは 大変[たいへん]な 作業[さぎょう]です。
+  Das Entfernen von Unkraut im Garten ist eine mühsame Arbeit.
+
+  城木さんは目から小さな異物を除きました。
+  城木[しろき]さんは 目[め]から 小[ちい]さな 異物[いぶつ]を 除[のぞ]きました。
+  Herr Shiroki entfernte einen kleinen Fremdkörper aus seinem Auge.
+
+  チェスのルールを変更し、一つの駒を除くことを提案しています。
+  チェスのルールを 変更[へんこう]し、一[ひと]つの 駒[こま]を 除[のぞ]くことを 提案[ていあん]しています。
+  Es wird vorgeschlagen, die Schachregeln zu ändern und eine Figur zu entfernen.
+
+  この研究では、6歳未満の子供を対象から除いています。
+  この 研究[けんきゅう]では、6歳[さい] 未満[みまん]の 子供[こども]を 対象[たいしょう]から 除[のぞ]いています。
+  In dieser Studie sind Kinder unter 6 Jahren von der Untersuchung ausgenommen.
+
+  彼女を除く全員が計画に賛成しました。
+  彼女[かのじょ]を 除[のぞ]く 全員[ぜんいん]が 計画[けいかく]に 賛成[さんせい]しました。
+  Alle außer ihr stimmten dem Plan zu.
+
+  その問題を除けば、プロジェクトは順調に進んでいます。
+  その 問題[もんだい]を 除[のぞ]けば、プロジェクトは 順調[じゅんちょう]に 進[すす]んでいます。
+  Abgesehen von diesem Problem läuft das Projekt reibungslos.
+
+  私を除いた全員が会議に出席しました。
+  私[わたし]を 除[のぞ]いた 全員[ぜんいん]が 会議[かいぎ]に 出席[しゅっせき]しました。
+  Alle außer mir nahmen an der Besprechung teil.
+
+  この遍在性を除くと、両者には共通点がほとんどありません。
+  この 遍在性[へんざいせい]を 除[のぞ]くと、両者[りょうしゃ]には 共通点[きょうつうてん]がほとんどありません。
+  Abgesehen von dieser Allgegenwärtigkeit haben die beiden kaum Gemeinsamkeiten.
+
+  坂崎夫妻を除く全員がパーティーに参加しました。
+  坂崎[さかざき]夫妻[ふさい]を 除[のぞ]く 全員[ぜんいん]がパーティーに 参加[さんか]しました。
+  Alle außer dem Ehepaar Sakazaki nahmen an der Party teil.
+
+  政府は特定の船舶を除き、外国船の入港を制限しました。
+  政府[せいふ]は 特定[とくてい]の 船舶[せんぱく]を 除[のぞ]き、外国船[がいこくせん]の 入港[にゅうこう]を 制限[せいげん]しました。
+  Die Regierung beschränkte den Zugang ausländischer Schiffe, mit Ausnahme bestimmter Schiffe.
+
+  院長夫妻を除いた家族全員が新しい家に引っ越しました。
+  院長[いんちょう]夫妻[ふさい]を 除[のぞ]いた 家族[かぞく] 全員[ぜんいん]が 新[あたら]しい 家[いえ]に 引[ひ]っ 越[こ]しました。
+  Die ganze Familie, mit Ausnahme des Direktors und seiner Frau, zog in ein neues Haus.
+
+  この薬には副作用を除く効果がほとんどありません。
+  この 薬[くすり]には 副作用[ふくさよう]を 除[のぞ]く 効果[こうか]がほとんどありません。
+  Dieses Medikament hat kaum Wirkung, abgesehen von den Nebenwirkungen.
+
+  彼女は髪から枝を除きながら、森から出てきました。
+  彼女[かのじょ]は 髪[かみ]から 枝[えだ]を 除[のぞ]きながら、森[もり]から 出[で]てきました。
+  Sie kam aus dem Wald und entfernte dabei Zweige aus ihrem Haar.
+
+  この文章から不要な言葉を除いて、簡潔にしてください。
+  この 文章[ぶんしょう]から 不要[ふよう]な 言葉[ことば]を 除[のぞ]いて、簡潔[かんけつ]にしてください。
+  Bitte entferne überflüssige Wörter aus diesem Text und mache ihn prägnanter.
+
+  新しいアプリは広告を除くことができる機能があります。
+  新[あたら]しいアプリは 広告[こうこく]を 除[のぞ]くことができる 機能[きのう]があります。
+  Die neue App hat eine Funktion, mit der man Werbung entfernen kann.
+
+  彼は自分の意見を除いて、他の人の意見を尊重しています。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 除[のぞ]いて、他[ほか]の 人[ひと]の 意見[いけん]を 尊重[そんちょう]しています。
+  Er respektiert die Meinungen anderer, seine eigene ausgenommen.
+
+  この料理から玉ねぎを除くと、味が全然違ってしまいます。
+  この 料理[りょうり]から 玉ねぎ[たまねぎ]を 除[のぞ]くと、味[あじ]が 全然[ぜんぜん] 違[ちが]ってしまいます。
+  Wenn man die Zwiebeln aus diesem Gericht entfernt, schmeckt es völlig anders.
+
+  彼女は自分の名前を除いて、全ての情報を共有しました。
+  彼女[かのじょ]は 自分[じぶん]の 名前[なまえ]を 除[のぞ]いて、全[すべ]ての 情報[じょうほう]を 共有[きょうゆう]しました。
+  Sie teilte alle Informationen, außer ihrem Namen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

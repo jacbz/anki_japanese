@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 急がない・急いだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,90 @@ Beispielsätze: |-
   電車[でんしゃ]に 乗[の]ろうと 急[いそ]いだ。
   Ich habe mich beeilt, um den Zug zu erwischen.
 
+  急いで書類を作成しなければならない。
+  急[いそ]いで 書類[しょるい]を 作成[さくせい]しなければならない。
+  Ich muss die Dokumente eilig erstellen.
+
+  彼は急いで逃げ出した。
+  彼[かれ]は 急[いそ]いで 逃[に]げ出した。
+  Er flüchtete hastig.
+
+  時間がないので、急いで食べましょう。
+  時間[じかん]がないので、急[いそ]いで 食[た]べましょう。
+  Da wir keine Zeit haben, lass uns schnell essen.
+
+  急ぐ仕事があるので、今日は早めに帰ります。
+  急[いそ]ぐ 仕事[しごと]があるので、今日[きょう]は 早[はや]めに 帰[かえ]ります。
+  Ich habe dringende Arbeit, deshalb gehe ich heute früher nach Hause.
+
+  帰りを急ぐ必要はありません。
+  帰[かえ]りを 急[いそ]ぐ 必要[ひつよう]はありません。
+  Es besteht keine Notwendigkeit, sich mit der Rückkehr zu beeilen.
+
+  結論を急ぐべきではありません。
+  結論[けつろん]を 急[いそ]ぐべきではありません。
+  Wir sollten keine voreiligen Schlüsse ziehen.
+
+  功を急ぐと失敗する可能性が高くなります。
+  功[こう]を 急[いそ]ぐと 失敗[しっぱい]する 可能性[かのうせい]が 高[たか]くなります。
+  Wenn man auf schnellen Erfolg aus ist, steigt die Wahrscheinlichkeit zu scheitern.
+
+  間に合うように急いで準備しました。
+  間[ま]に 合[あ]うように 急[いそ]いで 準備[じゅんび]しました。
+  Ich habe mich beeilt, um rechtzeitig fertig zu werden mit den Vorbereitungen.
+
+  道を急いで、約束の時間に遅れないようにしよう。
+  道[みち]を 急[いそ]いで、約束[やくそく]の 時間[じかん]に 遅[おく]れないようにしよう。
+  Lass uns unseren Schritt beschleunigen, damit wir nicht zu spät zum Treffen kommen.
+
+  仕事場に急ぐ人々で電車は混んでいた。
+  仕事場[しごとば]に 急[いそ]ぐ 人々[ひとびと]で 電車[でんしゃ]は 混[こ]んでいた。
+  Der Zug war voll von Menschen, die zur Arbeit hasteten.
+
+  先を急ぐあまり、大切なことを見落としてしまった。
+  先[さき]を 急[いそ]ぐあまり、大切[たいせつ]なことを 見落[みお]としてしまった。
+  In meiner Eile habe ich etwas Wichtiges übersehen.
+
+  死に急ぐな、人生をゆっくり楽しもう。
+  死[し]に 急[いそ]ぐな、人生[じんせい]をゆっくり 楽[たの]しもう。
+  Eile nicht in den Tod, lass uns das Leben in Ruhe genießen.
+
+  出発を急ぐ必要はありません、時間は十分あります。
+  出発[しゅっぱつ]を 急[いそ]ぐ 必要[ひつよう]はありません、時間[じかん]は 十分[じゅうぶん]あります。
+  Es besteht keine Notwendigkeit, den Aufbruch zu beschleunigen, wir haben genügend Zeit.
+
+  急げ、バスに乗り遅れるぞ！
+  急[いそ]げ、バスに 乗[の]り 遅[おく]れるぞ！
+  Beeil dich, sonst verpassen wir den Bus!
+
+  急ごう、映画が始まるまであと5分しかない。
+  急[いそ]ごう、映画[えいが]が 始[はじ]まるまであと5分[ふん]しかない。
+  Lass uns uns beeilen, der Film fängt in nur noch 5 Minuten an.
+
+  混乱して急いでいたので、大切な書類を忘れてしまった。
+  混乱[こんらん]して 急[いそ]いでいたので、大切[たいせつ]な 書類[しょるい]を 忘[わす]れてしまった。
+  In meiner Verwirrung und Eile habe ich wichtige Dokumente vergessen.
+
+  寒さで震えながら、急いでシャワーを浴びた。
+  寒[さむ]さで 震[ふる]えながら、急[いそ]いでシャワーを 浴[あ]びた。
+  Vor Kälte zitternd, duschte ich hastig.
+
+  そんなに急いで来る必要はなかったのに。
+  そんなに 急[いそ]いで 来[く]る 必要[ひつよう]はなかったのに。
+  Es war nicht nötig, so eilig herzukommen.
+
+  雅子は急いで駐車場に向かった。
+  雅子[まさこ]は 急[いそ]いで 駐車場[ちゅうしゃじょう]に 向[む]かった。
+  Masako eilte zum Parkplatz.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Sprichwort <span class="jp">急[いそ]がば 廻[まわ]れ</span> bedeutet wörtlich "Wenn du es eilig hast, nimm einen Umweg". Es entspricht dem deutschen Sprichwort "Eile mit Weile" und rät dazu, auch in Eile bedacht und umsichtig vorzugehen.</p>
+  <div class="examples">
+    <div class="jp">急[いそ]がば 廻[まわ]れ、焦[あせ]らず 慎重[しんちょう]に 行動[こうどう]しよう。</div>
+    <div class="de spoiler">Eile mit Weile, lass uns besonnen und vorsichtig handeln, ohne in Hektik zu geraten.</div>
+  </div>

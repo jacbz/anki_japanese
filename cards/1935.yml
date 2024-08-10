@@ -2,7 +2,7 @@ Rang: 1935
 Lemma: 二階
 Lesung: にかい
 Alternativschreibweisen: ''
-Definition: zweiter Stock
+Definition: erster Stock; zweistöckig
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\.
@@ -15,8 +15,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私の部屋は二階です。
-  私[わたし]の 部屋[へや]は二 階[かい]です。
-  Mein Zimmer ist im zweiten Stock.
+  私[わたし]の 部屋[へや]は 二階[にかい]です。
+  Mein Zimmer ist im ersten Stock.
+
+  この建物は二階建てです。
+  この 建物[たてもの]は 二階建[にかいだ]てです。
+  Dieses Gebäude ist zweistöckig.
+
+  二階建てバスに乗ったことがありますか。
+  二階建[にかいだ]てバスに 乗[の]ったことがありますか。
+  Bist du schon mal mit einem Doppeldeckerbus gefahren?
+
+  彼らは古い二階家に住んでいます。
+  彼[かれ]らは 古[ふる]い 二階家[にかいや]に 住[す]んでいます。
+  Sie wohnen in einem alten zweistöckigen Haus.
+
+  二階から景色がよく見えます。
+  二階[にかい]から 景色[けしき]がよく 見[み]えます。
+  Vom ersten Stock aus hat man eine gute Aussicht.
+
+  重い荷物を二階へ上げるのを手伝ってくれませんか。
+  重[おも]い 荷物[にもつ]を 二階[にかい]へ 上[あ]げるのを 手伝[てつだ]ってくれませんか。
+  Könntest du mir helfen, die schweren Taschen in den ersten Stock zu bringen?
+
+  二階の窓から外を見ていました。
+  二階[にかい]の 窓[まど]から 外[そと]を 見[み]ていました。
+  Ich schaute aus dem Fenster im ersten Stock nach draußen.
+
+  図書館の二階に自習室があります。
+  図書館[としょかん]の 二階[にかい]に 自習室[じしゅうしつ]があります。
+  Im ersten Stock der Bibliothek gibt es einen Selbstlernraum.
+
+  二階から目薬というのは、効果がないことの例えです。
+  二階[にかい]から 目薬[めぐすり]というのは、効果[こうか]がないことの 例[たと]えです。
+  'Augentropfen vom Obergeschoss' ist ein Sprichwort für etwas Zweckloses.
+
+  新しい家は二階建てで、とても広いです。
+  新[あたら]しい 家[いえ]は 二階建[にかいだ]てで、とても 広[ひろ]いです。
+  Das neue Haus ist zweistöckig und sehr geräumig.
+
+  エレベーターで二階に上がりましょう。
+  エレベーターで 二階[にかい]に 上[あ]がりましょう。
+  Lassen Sie uns mit dem Aufzug in den ersten Stock fahren.
+
+  二階のベランダから星空が見えます。
+  二階[にかい]のベランダから 星空[ほしぞら]が 見[み]えます。
+  Vom Balkon im ersten Stock aus kann man den Sternenhimmel sehen.
+
+  二階に上がる階段が急で危険です。
+  二階[にかい]に 上[あ]がる 階段[かいだん]が 急[きゅう]で 危険[きけん]です。
+  Die Treppe zum ersten Stock ist steil und gefährlich.
+
+  この二階建ての家は、昔ながらの日本家屋です。
+  この 二階建[にかいだ]ての 家[いえ]は、昔[むかし]ながらの 日本家屋[にほんかおく]です。
+  Dieses zweistöckige Haus ist ein traditionelles japanisches Gebäude.
+
+  二階の寝室から海が見えるんだ。
+  二階[にかい]の 寝室[しんしつ]から 海[うみ]が 見[み]えるんだ。
+  Aus dem Schlafzimmer im ersten Stock kann man das Meer sehen.
+
+  二階に住む隣人はとても静かです。
+  二階[にかい]に 住[す]む 隣人[りんじん]はとても 静[しず]かです。
+  Der Nachbar, der im ersten Stock wohnt, ist sehr ruhig.
+
+  二階建てのレストランで夕食を食べました。
+  二階建[にかいだ]てのレストランで 夕食[ゆうしょく]を 食[た]べました。
+  Wir haben in einem zweistöckigen Restaurant zu Abend gegessen.
+
+  二階の部屋は日当たりが良くて快適です。
+  二階[にかい]の 部屋[へや]は 日当[ひあ]たりが 良[よ]くて 快適[かいてき]です。
+  Das Zimmer im ersten Stock hat guten Sonnenschein und ist angenehm.
+
+  二階建てバスのトップデッキから街並みを楽しんだ。
+  二階建[にかいだ]てバスのトップデッキから 街並[まちな]みを 楽[たの]しんだ。
+  Ich genoss den Blick auf die Stadtlandschaft vom oberen Deck des Doppeldeckerbusses aus.
+
+  二階の子供部屋から笑い声が聞こえてきます。
+  二階[にかい]の 子供部屋[こどもべや]から 笑[わら]い 声[ごえ]が 聞[き]こえてきます。
+  Man kann Kinderlachen aus dem Kinderzimmer im ersten Stock hören.
+
+  二階建ての校舎は、昔の面影を残しています。
+  二階建[にかいだ]ての 校舎[こうしゃ]は、昔[むかし]の 面影[おもかげ]を 残[のこ]しています。
+  Das zweistöckige Schulgebäude bewahrt noch den Charme vergangener Zeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

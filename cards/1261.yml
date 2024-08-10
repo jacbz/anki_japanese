@@ -2,13 +2,13 @@ Rang: 1261
 Lemma: パン
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Brot
+Definition: Brot; Gebäck
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: port. pão
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   私は時々うちでパンを焼く。
   私[わたし]は 時々[ときどき]うちでパンを 焼[や]く。
-  Ich backe manchmal Brot zu Hause.
+  Ich backe manchmal zu Hause Brot.
+
+  朝食はパン一切れとコーヒーだけです。
+  朝食[ちょうしょく]はパン 一切[ひときれ]れとコーヒーだけです。
+  Zum Frühstück gibt es nur eine Scheibe Brot und Kaffee.
+
+  パン屋で焼きたてのパンを買った。
+  パン屋[や]で 焼[や]きたてのパンを 買[か]った。
+  Ich habe in der Bäckerei frisch gebackenes Brot gekauft.
+
+  このパンは古くなってしまった。
+  このパンは 古[ふる]くなってしまった。
+  Dieses Brot ist alt geworden.
+
+  パンにバターを塗って食べるのが好きだ。
+  パンにバターを 塗[ぬ]って 食[た]べるのが 好[す]きだ。
+  Ich esse gerne Brot mit Butter bestrichen.
+
+  パン生地を発酵させるのに時間がかかる。
+  パン 生地[きじ]を 発酵[はっこう]させるのに 時間[じかん]がかかる。
+  Es braucht Zeit, den Brotteig gären zu lassen.
+
+  パンの耳は好きじゃないので、いつも切り落とす。
+  パンの 耳[みみ]は 好[す]きじゃないので、いつも 切[き]り 落[お]とす。
+  Ich mag die Brotrinde nicht, also schneide ich sie immer ab.
+
+  パン屑を鳥に与えるのは楽しい。
+  パン 屑[くず]を 鳥[とり]に 与[あた]えるのは 楽[たの]しい。
+  Es macht Spaß, den Vögeln Brotkrümel zu geben.
+
+  フランスパンは外がカリカリで中がふわふわしている。
+  フランスパンは 外[そと]がカリカリで 中[なか]がふわふわしている。
+  Französisches Brot hat eine knusprige Kruste und ist innen fluffig.
+
+  アンパンは甘くて美味しいおやつだ。
+  アンパンは 甘[あま]くて 美味[おい]しいおやつだ。
+  Anpan ist ein süßer und leckerer Snack.
+
+  食パンでサンドイッチを作るのが好きだ。
+  食[しょく]パンでサンドイッチを 作[つく]るのが 好[す]きだ。
+  Ich mache gerne Sandwiches mit Toastbrot.
+
+  パン切り包丁でパンを均等に切り分けた。
+  パン 切[き]り 包丁[ほうちょう]でパンを 均等[きんとう]に 切[き]り 分[わ]けた。
+  Ich habe das Brot mit dem Brotmesser gleichmäßig aufgeschnitten.
+
+  パン食の習慣は日本に明治時代に入ってきた。
+  パン食[しょく]の 習慣[しゅうかん]は 日本[にほん]に 明治時代[めいじじだい]に 入[はい]ってきた。
+  Die Gewohnheit, Brot zu essen, kam in der Meiji-Zeit nach Japan.
+
+  パン焼きがまから香ばしい匂いが漂ってくる。
+  パン 焼[や]きがまから 香[こう]ばしい 匂[にお]いが 漂[ただよ]ってくる。
+  Ein würziger Duft strömt aus dem Brotbackofen.
+
+  揚げパンは学校給食の定番メニューだった。
+  揚[あ]げパンは 学校給食[がっこうきゅうしょく]の 定番[ていばん]メニューだった。
+  Frittiertes Brot war ein Standard-Menü beim Schulessen.
+
+  乾パンは長期保存ができる非常食だ。
+  乾[かん]パンは 長期保存[ちょうきほぞん]ができる 非常食[ひじょうしょく]だ。
+  Trockenes Brot ist ein Notfallnahrungsmittel, das lange haltbar ist.
+
+  黒パンは食物繊維が豊富で健康的だ。
+  黒[くろ]パンは 食物繊維[しょくもつせんい]が 豊富[ほうふ]で 健康的[けんこうてき]だ。
+  Schwarzbrot ist reich an Ballaststoffen und gesund.
+
+  メロンパンは見た目も味も子供に人気がある。
+  メロンパンは 見[み]た 目[め]も 味[あじ]も 子供[こども]に 人気[にんき]がある。
+  Melon Pan ist bei Kindern sowohl optisch als auch geschmacklich beliebt.
+
+  パンは人類の主食として長い歴史がある。
+  パンは 人類[じんるい]の 主食[しゅしょく]として 長[なが]い 歴史[れきし]がある。
+  Brot hat eine lange Geschichte als Grundnahrungsmittel der Menschheit.
+
+  彼はパンを一かじりして、急いで家を出た。
+  彼[かれ]はパンを 一[ひと]かじりして、 急[いそ]いで 家[いえ]を 出[で]た。
+  Er biss einmal in das Brot und verließ eilig das Haus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

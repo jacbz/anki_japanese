@@ -2,14 +2,14 @@ Rang: 1054
 Lemma: 流す
 Lesung: ながす
 Alternativschreibweisen: ''
-Definition: spülen; gießen; ablassen
+Definition: fließen lassen; vergießen; abspielen; verbreiten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 流さない・流した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   このボタンを押して流してください。
   このボタンを 押[お]して 流[なが]してください。
   Bitte drücken Sie diesen Knopf, um zu spülen.
+
+  バケツの水を庭に流して、植物に水をやりました。
+  バケツの 水[みず]を 庭[にわ]に 流[なが]して、植物[しょくぶつ]に 水[みず]をやりました。
+  Ich goss einen Eimer Wasser in den Garten, um die Pflanzen zu bewässern.
+
+  彼女は感動的な映画を見て、涙を流しました。
+  彼女[かのじょ]は 感動的[かんどうてき]な 映画[えいが]を 見[み]て、涙[なみだ]を 流[なが]しました。
+  Sie vergoss Tränen, als sie einen bewegenden Film sah.
+
+  夏は汗を流しながら、一生懸命働きました。
+  夏[なつ]は 汗[あせ]を 流[なが]しながら、一生懸命[いっしょうけんめい] 働[はたら]きました。
+  Im Sommer arbeitete ich hart und schwitzte dabei.
+
+  トイレの水を流す音が聞こえました。
+  トイレの 水[みず]を 流[なが]す 音[おと]が 聞[き]こえました。
+  Ich hörte das Geräusch der Toilettenspülung.
+
+  店内で心地よい音楽を流していました。
+  店内[てんない]で 心地[ここち]よい 音楽[おんがく]を 流[なが]していました。
+  Im Geschäft lief angenehme Musik.
+
+  テレビで新しい商品のコマーシャルを流しています。
+  テレビで 新[あたら]しい 商品[しょうひん]のコマーシャルを 流[なが]しています。
+  Im Fernsehen läuft ein Werbespot für ein neues Produkt.
+
+  彼の発言が噂を流すきっかけになってしまった。
+  彼[かれ]の 発言[はつげん]が 噂[うわさ]を 流[なが]すきっかけになってしまった。
+  Seine Aussage wurde zum Auslöser für die Verbreitung eines Gerüchts.
+
+  大切な情報を他人に流さないように気をつけてください。
+  大切[たいせつ]な 情報[じょうほう]を 他人[たにん]に 流[なが]さないように 気[き]をつけてください。
+  Bitte achten Sie darauf, keine wichtigen Informationen an andere weiterzugeben.
+
+  子供たちは川で笹舟を流して遊んでいます。
+  子供[こども]たちは 川[かわ]で 笹舟[ささぶね]を 流[なが]して 遊[あそ]んでいます。
+  Die Kinder spielen am Fluss und lassen Schilfboote schwimmen.
+
+  豪雨で橋が流されてしまいました。
+  豪雨[ごうう]で 橋[はし]が 流[なが]されてしまいました。
+  Die Brücke wurde durch den starken Regen weggeschwemmt.
+
+  工場の排水を川に流すことは環境に悪影響を与えます。
+  工場[こうじょう]の 排水[はいすい]を 川[かわ]に 流[なが]すことは 環境[かんきょう]に 悪影響[あくえいきょう]を 与[あた]えます。
+  Das Einleiten von Industrieabwässern in Flüsse hat negative Auswirkungen auf die Umwelt.
+
+  お風呂で汗を流して、一日の疲れを癒しましょう。
+  お 風呂[ふろ]で 汗[あせ]を 流[なが]して、一日[いちにち]の 疲[つか]れを 癒[いや]しましょう。
+  Lass uns im Bad den Schweiß abwaschen und die Müdigkeit des Tages abspülen.
+
+  タクシーの運転手は客を探して街を流していました。
+  タクシーの 運転手[うんてんしゅ]は 客[きゃく]を 探[さが]して 街[まち]を 流[なが]していました。
+  Der Taxifahrer fuhr durch die Stadt auf der Suche nach Fahrgästen.
+
+  彼は政治的な理由で島に流されました。
+  彼[かれ]は 政治的[せいじてき]な 理由[りゆう]で 島[しま]に 流[なが]されました。
+  Er wurde aus politischen Gründen auf eine Insel verbannt.
+
+  急な仕事が入ったので、今日の会議を流すことにしました。
+  急[きゅう]な 仕事[しごと]が 入[はい]ったので、今日[きょう]の 会議[かいぎ]を 流[なが]すことにしました。
+  Aufgrund einer dringenden Arbeit haben wir beschlossen, die heutige Besprechung ausfallen zu lassen.
+
+  彼女の話を聞き流してしまい、後で後悔しました。
+  彼女[かのじょ]の 話[はなし]を 聞[き]き 流[なが]してしまい、後[あと]で 後悔[こうかい]しました。
+  Ich überhörte ihre Worte und bereute es später.
+
+  長い文章をざっと読み流して、要点だけを把握しました。
+  長[なが]い 文章[ぶんしょう]をざっと 読[よ]み 流[なが]して、要点[ようてん]だけを 把握[はあく]しました。
+  Ich überflog den langen Text und erfasste nur die wichtigsten Punkte.
+
+  台風で川の水が増え、周辺の家々が流されそうになった。
+  台風[たいふう]で 川[かわ]の 水[みず]が 増[ふ]え、周辺[しゅうへん]の 家々[いえいえ]が 流[なが]されそうになった。
+  Durch den Taifun stieg der Wasserpegel des Flusses an, und die umliegenden Häuser drohten weggeschwemmt zu werden.
+
+  彼は髪を後ろに流して、スタイリッシュな印象を与えていた。
+  彼[かれ]は 髪[かみ]を 後[うし]ろに 流[なが]して、スタイリッシュな 印象[いんしょう]を 与[あた]えていた。
+  Er trug sein Haar nach hinten gekämmt und vermittelte einen stylischen Eindruck.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

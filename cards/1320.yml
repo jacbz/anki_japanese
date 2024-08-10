@@ -1,8 +1,8 @@
 Rang: 1320
 Lemma: あそこ
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: dort drüben
+Alternativschreibweisen: 彼処・彼所
+Definition: dort (drüben)
 Extra: '' # Nur bei suru-Verben
 Wortart: pron
 Lesung mit Tonhöhe: .^^
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   かつてあそこには大きな家がありました。
-  かつてあそこには 大[おお]きな 家[いえ]がありました。
-  Dort drüben stand früher ein großes Haus.
+  かつて あそこには 大[おお]きな 家[いえ]がありました。
+  Früher stand dort ein großes Haus.
+
+  あそこで待っていてください。
+  あそこで 待[ま]っていてください。
+  Bitte warten Sie dort.
+
+  あそこから富士山がよく見えます。
+  あそこから 富士山[ふじさん]がよく 見[み]えます。
+  Von dort aus kann man den Berg Fuji gut sehen.
+
+  あそこの女性は誰ですか。
+  あそこの 女性[じょせい]は 誰[だれ]ですか。
+  Wer ist die Frau dort?
+
+  ここにもあそこにも花が咲いています。
+  ここにもあそこにも 花[はな]が 咲[さ]いています。
+  Hier und dort blühen Blumen.
+
+  「あそこなら西夏の軍勢も手をつけまい。李元昊は仏教の信奉者だからな」
+  「あそこなら 西夏[せいか]の 軍勢[ぐんぜい]も 手[て]をつけまい。李元昊[りげんこう]は 仏教[ぶっきょう]の 信奉者[しんぽうしゃ]だからな」
+  »Dort werden die Xi-xia nichts anrühren. Schließlich ist Li Yun-hao ein gläubiger Buddhist.«
+
+  「よく、あそこでお食事を？」
+  「よく、あそこで お食事[おしょくじ]を？」
+  »Essen Sie oft dort?«
+
+  「彼はあそこで待っていますよ。十二時ちょうどにお茶の会があるそうです」
+  「 彼[かれ]はあそこで 待[ま]っていますよ。十二時[じゅうにじ]ちょうどに お茶[ちゃ]の 会[かい]があるそうです」
+  »Er wartet dort oben. Er sagte, Teeparty, Punkt zwölf.«
+
+  「あそこだ、あそこだ」とわたしは叫んで、この事故の張本人のうしろ姿を指さした。
+  「あそこだ、あそこだ」とわたしは 叫[さけ]んで、この 事故[じこ]の 張本人[ちょうほんにん]のうしろ 姿[すがた]を 指[ゆび]さした。
+  »Da! Da!« rief ich und zeigte mit dem Finger hinter dem Schuldigen des Unfalls her.
+
+  あそこまで言わなくてもわかるさ。
+  あそこまで 言[い]わなくてもわかるさ。
+  Das zu sagen hättest du dir sparen können.
+
+  あそこまで言わなくてよかったのに。
+  あそこまで 言[い]わなくてよかったのに。
+  Das hättest du besser nicht sagen sollen.
+
+  事件があそこまで発展しては困ります。
+  事件[じけん]があそこまで 発展[はってん]しては 困[こま]ります。
+  Es wäre problematisch, wenn der Vorfall solche Dimensionen annähme.
+
+  「ちょっとねー、あそこまではしたくないわよねー。」
+  「ちょっとねー、あそこまではしたくないわよねー。」
+  »Mein Gott, so weit möchte ich nun doch nicht gehen!«
+
+  よく見てごらん、あそこに小さな鳥の巣があるよ。
+  よく 見[み]てごらん、あそこに 小[ちい]さな 鳥[とり]の 巣[す]があるよ。
+  Schau genau hin, dort ist ein kleines Vogelnest.
+
+  あそこの山頂まで登ったことがありますか。
+  あそこの 山頂[さんちょう]まで 登[のぼ]ったことがありますか。
+  Bist du schon mal bis zu jenem Gipfel dort geklettert?
+
+  あそこの建物は来月取り壊される予定です。
+  あそこの 建物[たてもの]は 来月[らいげつ] 取[と]り 壊[こわ]される 予定[よてい]です。
+  Das Gebäude dort soll nächsten Monat abgerissen werden.
+
+  「あそこの店のラーメンが美味しいって聞いたんだけど」
+  「あそこの 店[みせ]のラーメンが 美味[おい]しいって 聞[き]いたんだけど」
+  »Ich habe gehört, dass das Ramen in jenem Laden dort lecker sein soll.«
+
+  あそこの交差点を右に曲がってください。
+  あそこの 交差点[こうさてん]を 右[みぎ]に 曲[ま]がってください。
+  Biegen Sie bitte an jener Kreuzung dort rechts ab.
+
+  あそこの公園で毎朝ジョギングをしています。
+  あそこの 公園[こうえん]で 毎朝[まいあさ]ジョギングをしています。
+  Ich jogge jeden Morgen in jenem Park dort.
+
+  あそこの赤い屋根の家に住んでいるのは誰か知っていますか。
+  あそこの 赤[あか]い 屋根[やね]の 家[いえ]に 住[す]んでいるのは 誰[だれ]か 知[し]っていますか。
+  Weißt du, wer in dem Haus mit dem roten Dach dort wohnt?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

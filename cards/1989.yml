@@ -1,7 +1,7 @@
 Rang: 1989
 Lemma: 泳ぐ
 Lesung: およぐ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 游ぐ
 Definition: schwimmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,14 +9,86 @@ Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 泳がない・泳いだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   海で泳ぎたいなあ。
   海[うみ]で 泳[およ]ぎたいなあ。
-  Ich möchte im Meer schwimmen.
+  Ich würde gerne im Meer schwimmen.
+
+  魚たちが海の中を泳いでいる様子は美しいですね。
+  魚[さかな]たちが 海[うみ]の 中[なか]を 泳[およ]いでいる 様子[ようす]は 美[うつく]しいですね。
+  Der Anblick der im Meer schwimmenden Fische ist wunderschön.
+
+  背泳で50メートル泳げるようになりました。
+  背泳[せえい]で50メートル 泳[およ]げるようになりました。
+  Ich kann jetzt 50 Meter Rückenschwimmen.
+
+  クロールで泳ぐのが得意です。
+  クロールで 泳[およ]ぐのが 得意[とくい]です。
+  Ich bin gut im Kraulen.
+
+  川の流れに逆らって泳ぐのは難しいよ。
+  川[かわ]の 流[なが]れに 逆[さか]らって 泳[およ]ぐのは 難[むずか]しいよ。
+  Es ist schwierig, gegen die Strömung des Flusses zu schwimmen.
+
+  流れに従って泳ぐと、楽に進めるんだ。
+  流[なが]れに 従[したが]って 泳[およ]ぐと、楽[らく]に 進[すす]めるんだ。
+  Wenn man mit der Strömung schwimmt, kommt man leichter voran.
+
+  子供たちは川を泳ぎ渡って遊んでいます。
+  子供[こども]たちは 川[かわ]を 泳[およ]ぎ 渡[わた]って 遊[あそ]んでいます。
+  Die Kinder spielen, indem sie den Fluss durchschwimmen.
+
+  無人島に泳ぎ着くまでに3時間かかりました。
+  無人島[むじんとう]に 泳[およ]ぎ 着[つ]くまでに3時間[じかん]かかりました。
+  Es hat drei Stunden gedauert, bis ich zur einsamen Insel geschwommen bin.
+
+  泳げない人は、ライフジャケットを着用してください。
+  泳[およ]げない 人[ひと]は、ライフジャケットを 着用[ちゃくよう]してください。
+  Personen, die nicht schwimmen können, sollten bitte eine Schwimmweste tragen.
+
+  川を泳ぎわたって、ようやく逃げ切ったと思った。
+  川[かわ]を 泳[およ]ぎわたって、ようやく 逃[に]げ 切[き]ったと 思[おも]った。
+  Ich dachte, ich sei endlich entkommen, nachdem ich den Fluss durchschwommen hatte.
+
+  朝早く湖で泳いだけど、思ったほど寒くなかったよ。
+  朝[あさ] 早[はや]く 湖[みずうみ]で 泳[およ]いだけど、思[おも]ったほど 寒[さむ]くなかったよ。
+  Ich bin früh morgens im See geschwommen, aber es war nicht so kalt wie ich dachte.
+
+  新しい靴を買ったけど、少し大きくて足が中で泳いでしまう。
+  新[あたら]しい 靴[くつ]を 買[か]ったけど、少[すこ]し 大[おお]きくて 足[あし]が 中[なか]で 泳[およ]いでしまう。
+  Ich habe neue Schuhe gekauft, aber sie sind etwas zu groß und meine Füße rutschen darin hin und her.
+
+  彼の視線が不安そうに泳いでいた。
+  彼[かれ]の 視線[しせん]が 不安[ふあん]そうに 泳[およ]いでいた。
+  Sein Blick wanderte unruhig umher.
+
+  人混みの中を泳ぐように進んでいった。
+  人混[ひとご]みの 中[なか]を 泳[およ]ぐように 進[すす]んでいった。
+  Ich bahnte mir einen Weg durch die Menschenmenge, als würde ich schwimmen.
+
+  空を泳ぐように飛んでいる凧が見えます。
+  空[そら]を 泳[およ]ぐように 飛[と]んでいる 凧[たこ]が 見[み]えます。
+  Man kann Drachen sehen, die wie schwimmend am Himmel fliegen.
+
+  雲が空を泳いでいるように見えますね。
+  雲[くも]が 空[そら]を 泳[およ]いでいるように 見[み]えますね。
+  Die Wolken sehen aus, als würden sie am Himmel schwimmen.
+
+  突然、体が前に泳ぐように倒れてしまった。
+  突然[とつぜん]、体[からだ]が 前[まえ]に 泳[およ]ぐように 倒[たお]れてしまった。
+  Plötzlich fiel mein Körper nach vorne, als würde er schwimmen.
+
+  彼は政界を泳ぎ回り、多くの支持者を得た。
+  彼[かれ]は 政界[せいかい]を 泳[およ]ぎ 回[まわ]り、多[おお]くの 支持者[しじしゃ]を 得[え]た。
+  Er bewegte sich geschickt in der Politik und gewann viele Unterstützer.
+
+  マラソン選手たちが街中を泳ぐように走っていきます。
+  マラソン 選手[せんしゅ]たちが 街中[まちなか]を 泳[およ]ぐように 走[はし]っていきます。
+  Die Marathonläufer laufen durch die Stadt, als würden sie schwimmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 1052
 Lemma: 勤める
 Lesung: つとめる
 Alternativschreibweisen: ''
-Definition: beschäftigt sein, arbeiten für
+Definition: arbeiten; angestellt sein
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 勤めない・勤めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   大企業に勤めたいと思っている。
   大企業[だいきぎょう]に 勤[つと]めたいと 思[おも]っている。
   Ich möchte für ein großes Unternehmen arbeiten.
+
+  私は大手企業に勤めています。
+  わたしは 大手企業[おおてきぎょう]に 勤[つと]めています。
+  Ich arbeite für ein großes Unternehmen.
+
+  彼は10年間同じ会社に勤めている。
+  彼[かれ]は10年間[ねんかん] 同[おな]じ 会社[かいしゃ]に 勤[つと]めている。
+  Er arbeitet seit 10 Jahren bei derselben Firma.
+
+  大阪支店に勤めることになりました。
+  大阪支店[おおさかしてん]に 勤[つと]めることになりました。
+  Ich werde in der Filiale in Osaka arbeiten.
+
+  外務省に勤めていた父は、多くの国を訪れました。
+  外務省[がいむしょう]に 勤[つと]めていた 父[ちち]は、多[おお]くの 国[くに]を 訪[おとず]れました。
+  Mein Vater, der im Außenministerium arbeitete, besuchte viele Länder.
+
+  近くの商店に勤めている店員さんをよく見かけます。
+  近[ちか]くの 商店[しょうてん]に 勤[つと]めている 店員[てんいん]さんをよく 見[み]かけます。
+  Ich sehe oft den Angestellten, der in einem Geschäft in der Nähe arbeitet.
+
+  彼女は熱心に仕事に勤めている。
+  彼女[かのじょ]は 熱心[ねっしん]に 仕事[しごと]に 勤[つと]めている。
+  Sie widmet sich ihrer Arbeit mit großem Eifer.
+
+  勤務に熱愛を持って取り組んでいます。
+  勤務[きんむ]に 熱愛[ねつあい]を 持[も]って 取[と]り 組[く]んでいます。
+  Ich gehe meine Arbeit mit Leidenschaft an.
+
+  彼は寺院で仏教の教えを勤めています。
+  彼[かれ]は 寺院[じいん]で 仏教[ぶっきょう]の 教[おし]えを 勤[つと]めています。
+  Er widmet sich in einem Tempel der buddhistischen Lehre.
+
+  この部屋は普段会議室として勤めています。
+  この 部屋[へや]は 普段[ふだん] 会議室[かいぎしつ]として 勤[つと]めています。
+  Dieser Raum dient normalerweise als Konferenzraum.
+
+  彼女は一時期、社長秘書を勤めていました。
+  彼女[かのじょ]は 一時期[いちじき]、社長秘書[しゃちょうひしょ]を 勤[つと]めていました。
+  Sie arbeitete eine Zeit lang als Sekretärin des Firmenpräsidenten.
+
+  刑期を勤め終えた後、新しい人生を始めた。
+  刑期[けいき]を 勤[つと]め 終[お]えた 後[あと]、新[あたら]しい 人生[じんせい]を 始[はじ]めた。
+  Nachdem er seine Haftstrafe verbüßt hatte, begann er ein neues Leben.
+
+  彼は長年、地元の学校で教師を勤めてきた。
+  彼[かれ]は 長年[ながねん]、地元[じもと]の 学校[がっこう]で 教師[きょうし]を 勤[つと]めてきた。
+  Er hat viele Jahre lang als Lehrer an einer örtlichen Schule gearbeitet.
+
+  新入社員として一生懸命勤めています。
+  新入社員[しんにゅうしゃいん]として 一生懸命[いっしょうけんめい] 勤[つと]めています。
+  Ich arbeite als neuer Mitarbeiter sehr hart.
+
+  彼女は15年間、同じ病院で看護師として勤めてきた。
+  彼女[かのじょ]は15年間[ねんかん]、同[おな]じ 病院[びょういん]で 看護師[かんごし]として 勤[つと]めてきた。
+  Sie hat 15 Jahre lang als Krankenschwester im selben Krankenhaus gearbeitet.
+
+  父は定年まで公務員として勤め上げた。
+  父[ちち]は 定年[ていねん]まで 公務員[こうむいん]として 勤[つと]め 上[あ]げた。
+  Mein Vater arbeitete bis zur Pensionierung als Beamter.
+
+  彼は海外の支社に勤めることになり、家族で引っ越した。
+  彼[かれ]は 海外[かいがい]の 支社[ししゃ]に 勤[つと]めることになり、家族[かぞく]で 引[ひ]っ 越[こ]した。
+  Er wurde in eine ausländische Niederlassung versetzt und zog mit seiner Familie um.
+
+  毎日遠くまで勤めに行くのは大変だ。
+  毎日[まいにち] 遠[とお]くまで 勤[つと]めに 行[い]くのは 大変[たいへん]だ。
+  Es ist anstrengend, jeden Tag so weit zur Arbeit zu fahren.
+
+  彼女は週3日パートタイムで勤めている。
+  彼女[かのじょ]は 週[しゅう]3日[みっか]パートタイムで 勤[つと]めている。
+  Sie arbeitet drei Tage pro Woche in Teilzeit.
+
+  この会社に勤めて5年になります。
+  この 会社[かいしゃ]に 勤[つと]めて5年[ねん]になります。
+  Ich arbeite seit fünf Jahren für dieses Unternehmen.
+
+  彼は警察官として20年間勤め上げた後、退職した。
+  彼[かれ]は 警察官[けいさつかん]として20年間[ねんかん] 勤[つと]め 上[あ]げた 後[あと]、退職[たいしょく]した。
+  Er ging in den Ruhestand, nachdem er 20 Jahre lang als Polizist gedient hatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

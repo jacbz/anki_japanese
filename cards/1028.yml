@@ -2,14 +2,14 @@ Rang: 1028
 Lemma: 扱う
 Lesung: あつかう
 Alternativschreibweisen: ''
-Definition: umgehen mit, behandeln, handhaben
+Definition: handhaben; behandeln; handeln mit
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 扱わない・扱った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   それは丁寧に扱ってください。
   それは 丁寧[ていねい]に 扱[あつか]ってください。
   Bitte behandeln Sie es sorgfältig.
+
+  機械の扱い方を学ぶことは重要です。
+  機械[きかい]の 扱[あつか]い 方[かた]を 学[まな]ぶことは 重要[じゅうよう]です。
+  Es ist wichtig, den Umgang mit Maschinen zu erlernen.
+
+  この新しい機械は扱いやすいですね。
+  この 新[あたら]しい 機械[きかい]は 扱[あつか]いやすいですね。
+  Diese neue Maschine lässt sich leicht bedienen, nicht wahr?
+
+  銃を正しく扱う訓練を受けました。
+  銃[じゅう]を 正[ただ]しく 扱[あつか]う 訓練[くんれん]を 受[う]けました。
+  Ich wurde darin ausgebildet, richtig mit einer Waffe umzugehen.
+
+  お客様を丁寧に扱うことが大切です。
+  お 客様[きゃくさま]を 丁寧[ていねい]に 扱[あつか]うことが 大切[たいせつ]です。
+  Es ist wichtig, Kunden höflich zu behandeln.
+
+  彼女は難しい人を上手に扱う能力がある。
+  彼女[かのじょ]は 難[むずか]しい 人[ひと]を 上手[じょうず]に 扱[あつか]う 能力[のうりょく]がある。
+  Sie hat die Fähigkeit, schwierige Menschen geschickt zu behandeln.
+
+  遅刻を厳しく扱う会社もあります。
+  遅刻[ちこく]を 厳[きび]しく 扱[あつか]う 会社[かいしゃ]もあります。
+  Es gibt auch Unternehmen, die Verspätungen streng behandeln.
+
+  子供を大人として扱うのは良くありません。
+  子供[こども]を 大人[おとな]として 扱[あつか]うのは 良[よ]くありません。
+  Es ist nicht gut, Kinder wie Erwachsene zu behandeln.
+
+  この問題は慎重に扱わなければならない。
+  この 問題[もんだい]は 慎重[しんちょう]に 扱[あつか]わなければならない。
+  Dieses Problem muss vorsichtig behandelt werden.
+
+  デリケートな話題を上手に扱う必要がある。
+  デリケートな 話題[わだい]を 上手[じょうず]に 扱[あつか]う 必要[ひつよう]がある。
+  Es ist notwendig, heikle Themen geschickt zu behandeln.
+
+  この店は高級品しか扱っていません。
+  この 店[みせ]は 高級品[こうきゅうひん]しか 扱[あつか]っていません。
+  Dieses Geschäft führt nur Luxusartikel.
+
+  彼はその事件を公平に扱った。
+  彼[かれ]はその 事件[じけん]を 公平[こうへい]に 扱[あつか]った。
+  Er behandelte den Fall unparteiisch.
+
+  このレストランはクレジットカードを扱っていない。
+  このレストランはクレジットカードを 扱[あつか]っていない。
+  Dieses Restaurant akzeptiert keine Kreditkarten.
+
+  その新聞社はその問題を大々的に扱った。
+  その 新聞社[しんぶんしゃ]はその 問題[もんだい]を 大々的[だいだいてき]に 扱[あつか]った。
+  Die Zeitung behandelte das Problem in großem Umfang.
+
+  この会社は主に輸入品を扱っています。
+  この 会社[かいしゃ]は 主[おも]に 輸入品[ゆにゅうひん]を 扱[あつか]っています。
+  Dieses Unternehmen handelt hauptsächlich mit Importwaren.
+
+  彼女は経理を扱う部署で働いています。
+  彼女[かのじょ]は 経理[けいり]を 扱[あつか]う 部署[ぶしょ]で 働[はたら]いています。
+  Sie arbeitet in der Abteilung, die für die Buchhaltung zuständig ist.
+
+  この専門店は古美術品を扱っている。
+  この 専門店[せんもんてん]は 古美術品[こびじゅつひん]を 扱[あつか]っている。
+  Dieses Fachgeschäft handelt mit Antiquitäten.
+
+  その記事は環境問題を詳しく扱っていた。
+  その 記事[きじ]は 環境問題[かんきょうもんだい]を 詳[くわ]しく 扱[あつか]っていた。
+  Der Artikel behandelte Umweltprobleme ausführlich.
+
+  彼らは違法な商品を扱っているという噂がある。
+  彼[かれ]らは 違法[いほう]な 商品[しょうひん]を 扱[あつか]っているという 噂[うわさ]がある。
+  Es gibt Gerüchte, dass sie mit illegalen Waren handeln.
+
+  この本は現代の社会問題を幅広く扱っている。
+  この 本[ほん]は 現代[げんだい]の 社会問題[しゃかいもんだい]を 幅広[はばひろ]く 扱[あつか]っている。
+  Dieses Buch behandelt ein breites Spektrum aktueller sozialer Probleme.
+
+  その会議では機密情報を扱うので、参加者は限られています。
+  その 会議[かいぎ]では 機密情報[きみつじょうほう]を 扱[あつか]うので、参加者[さんかしゃ]は 限[かぎ]られています。
+  Da in dieser Besprechung vertrauliche Informationen behandelt werden, ist die Zahl der Teilnehmer begrenzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

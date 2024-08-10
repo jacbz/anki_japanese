@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   カナダはアメリカの北にある。
-  カナダはアメリカの 北[きた]にある。
-  Kanada liegt im Norden der Vereinigten Staaten.
+  カナダは アメリカ[あめりか]の 北[きた]にある。
+  Kanada liegt nördlich von den USA.
+
+  北アフリカの気候は乾燥しています。
+  北[きた]アフリカの 気候[きこう]は 乾燥[かんそう]しています。
+  Das Klima in Nordafrika ist trocken.
+
+  駅の北口で待ち合わせしましょう。
+  駅[えき]の 北口[きたぐち]で 待[ま]ち 合[あ]わせしましょう。
+  Lass uns uns am Nordausgang des Bahnhofs treffen.
+
+  北へ向かって歩き続けました。
+  北[きた]へ 向[む]かって 歩[ある]き 続[つづ]けました。
+  Ich bin weiter nach Norden gelaufen.
+
+  北からの冷たい風が吹いています。
+  北[きた]からの 冷[つめ]たい 風[かぜ]が 吹[ふ]いています。
+  Ein kalter Wind weht aus dem Norden.
+
+  この部屋は北向きで日当たりが悪いです。
+  この 部屋[へや]は 北向[きたむ]きで 日当[ひあ]たりが 悪[わる]いです。
+  Dieses Zimmer ist nach Norden ausgerichtet und hat schlechte Lichtverhältnisse.
+
+  北寄りの風が吹くと気温が下がります。
+  北寄[きたよ]りの 風[かぜ]が 吹[ふ]くと 気温[きおん]が 下[さ]がります。
+  Wenn der Wind aus nördlicher Richtung weht, sinkt die Temperatur.
+
+  洗濯物を干すなら南向きの場所がいいですよ。
+  洗濯物[せんたくもの]を 干[ほ]すなら 南向[みなみむ]きの 場所[ばしょ]がいいですよ。
+  Zum Wäscheaufhängen ist ein nach Süden ausgerichteter Platz besser als einer nach Norden.
+
+  北を望むと、雪をかぶった山々が見えます。
+  北[きた]を 望[のぞ]むと、雪[ゆき]をかぶった 山々[やまやま]が 見[み]えます。
+  Wenn man nach Norden blickt, kann man schneebedeckte Berge sehen.
+
+  北半球は夏になると日が長くなります。
+  北半球[きたはんきゅう]は 夏[なつ]になると 日[ひ]が 長[なが]くなります。
+  Auf der Nordhalbkugel werden die Tage im Sommer länger.
+
+  建物の北側は日陰になりがちです。
+  建物[たてもの]の 北側[きたがわ]は 日陰[ひかげ]になりがちです。
+  Die Nordseite eines Gebäudes neigt dazu, schattig zu sein.
+
+  コンパスの針は常に北を指しています。
+  コンパスの 針[はり]は 常[つね]に 北[きた]を 指[さ]しています。
+  Die Nadel eines Kompasses zeigt immer nach Norden.
+
+  北極星を見つければ、方角がわかります。
+  北極星[ほっきょくせい]を 見[み]つければ、方角[ほうがく]がわかります。
+  Wenn du den Polarstern findest, kannst du die Himmelsrichtungen bestimmen.
+
+  この地方では北風が強く吹きます。
+  この 地方[ちほう]では 北風[きたかぜ]が 強[つよ]く 吹[ふ]きます。
+  In dieser Region weht ein starker Nordwind.
+
+  北に向かって走ると、だんだん寒くなってきた。
+  北[きた]に 向[む]かって 走[はし]ると、だんだん 寒[さむ]くなってきた。
+  Als ich nach Norden fuhr, wurde es allmählich kälter.
+
+  彼は北国の出身で寒さに強い。
+  彼[かれ]は 北国[きたぐに]の 出身[しゅっしん]で 寒[さむ]さに 強[つよ]い。
+  Er stammt aus dem Norden und verträgt Kälte gut.
+
+  北の方角に明るい星が見えます。
+  北[きた]の 方角[ほうがく]に 明[あか]るい 星[ほし]が 見[み]えます。
+  In nördlicher Richtung ist ein heller Stern zu sehen.
+
+  地図で北を確認してから歩き始めましょう。
+  地図[ちず]で 北[きた]を 確認[かくにん]してから 歩[ある]き 始[はじ]めましょう。
+  Lass uns auf der Karte den Norden bestimmen, bevor wir losgehen.
+
+  北の空が赤く染まり、オーロラが見えた。
+  北[きた]の 空[そら]が 赤[あか]く 染[そ]まり、オーロラが 見[み]えた。
+  Der Himmel im Norden färbte sich rot, und das Nordlicht wurde sichtbar.
+
+  この地域の北部は山岳地帯になっています。
+  この 地域[ちいき]の 北部[ほくぶ]は 山岳地帯[さんがくちたい]になっています。
+  Der nördliche Teil dieser Region ist gebirgig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

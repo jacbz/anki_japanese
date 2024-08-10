@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '84'
-Ursprung: ''
+Ursprung: engl. wine
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   パーティーでワインを飲んだ。
-  パーティーでワインを 飲[の]んだ。
+  パーティーで ワイン[わいん]を 飲[の]んだ。
   Ich habe auf der Party Wein getrunken.
+
+  ワイングラスに赤ワインを注いでください。
+  ワイングラスに 赤[あか]ワインを 注[そそ]いでください。
+  Bitte gießen Sie den Rotwein in das Weinglas ein.
+
+  白ワインは魚料理によく合います。
+  白[しろ]ワインは 魚料理[さかなりょうり]によく 合[あ]います。
+  Weißwein passt gut zu Fischgerichten.
+
+  ワインセラーで高級ワインを保管しています。
+  ワインセラーで 高級[こうきゅう]ワインを 保管[ほかん]しています。
+  Ich bewahre die hochwertigen Weine im Weinkeller auf.
+
+  ワインリストから好みのワインを選んでください。
+  ワインリストから 好[この]みのワインを 選[えら]んでください。
+  Bitte wählen Sie einen Wein Ihrer Wahl aus der Weinkarte.
+
+  ワインを開ける前に、コルクスクリューを準備してください。
+  ワインを 開[あ]ける 前[まえ]に、コルクスクリューを 準備[じゅんび]してください。
+  Bevor Sie den Wein öffnen, bereiten Sie bitte den Korkenzieher vor.
+
+  このワインは特別な日のために取っておきました。
+  このワインは 特別[とくべつ]な 日[ひ]のために 取[と]っておきました。
+  Ich habe diesen Wein für einen besonderen Tag aufbewahrt.
+
+  ワイン産業は地域経済に大きく貢献しています。
+  ワイン 産業[さんぎょう]は 地域[ちいき] 経済[けいざい]に 大[おお]きく 貢献[こうけん]しています。
+  Die Weinindustrie leistet einen großen Beitrag zur lokalen Wirtschaft.
+
+  ワインビネガーを使ったドレッシングが好きです。
+  ワインビネガーを 使[つか]ったドレッシングが 好[す]きです。
+  Ich mag Dressings, die mit Weinessig zubereitet werden.
+
+  ワイン色のドレスが彼女によく似合っていました。
+  ワイン 色[いろ]のドレスが 彼女[かのじょ]によく 似合[にあ]っていました。
+  Das weinrote Kleid stand ihr sehr gut.
+
+  ワイン醸造の過程を学ぶツアーに参加しました。
+  ワイン 醸造[じょうぞう]の 過程[かてい]を 学[まな]ぶツアーに 参加[さんか]しました。
+  Ich habe an einer Tour teilgenommen, bei der man den Weinherstellungsprozess lernt.
+
+  ワイン酵母の種類によって、ワインの味が変わります。
+  ワイン 酵母[こうぼ]の 種類[しゅるい]によって、ワインの 味[あじ]が 変[か]わります。
+  Je nach Art der Weinhefe verändert sich der Geschmack des Weins.
+
+  ワインクーラーを使って、ワインを適温に保ちましょう。
+  ワインクーラーを 使[つか]って、ワインを 適温[てきおん]に 保[たも]ちましょう。
+  Lassen Sie uns den Weinkühler benutzen, um den Wein auf der richtigen Temperatur zu halten.
+
+  ワインラックに並べられたボトルが美しく見えます。
+  ワインラックに 並[なら]べられたボトルが 美[うつく]しく 見[み]えます。
+  Die auf dem Weinregal aufgereihten Flaschen sehen schön aus.
+
+  このレストランはワインの種類が豊富です。
+  このレストランはワインの 種類[しゅるい]が 豊富[ほうふ]です。
+  Dieses Restaurant hat eine große Auswahl an Weinen.
+
+  グラスワインを一杯注文しました。
+  グラスワインを 一杯[いっぱい] 注文[ちゅうもん]しました。
+  Ich habe ein Glas Wein bestellt.
+
+  ワインの香りを楽しむために、ゆっくり飲みます。
+  ワインの 香[かお]りを 楽[たの]しむために、ゆっくり 飲[の]みます。
+  Um das Aroma des Weins zu genießen, trinke ich ihn langsam.
+
+  このワインは長期熟成させたものです。
+  このワインは 長期[ちょうき] 熟成[じゅくせい]させたものです。
+  Dieser Wein wurde lange gereift.
+
+  ワインのテイスティングイベントに参加する予定です。
+  ワインのテイスティングイベントに 参加[さんか]する 予定[よてい]です。
+  Ich plane, an einem Weinverkostungsevent teilzunehmen.
+
+  このワインは特別な年に収穫されたブドウで作られています。
+  このワインは 特別[とくべつ]な 年[とし]に 収穫[しゅうかく]されたブドウで 作[つく]られています。
+  Dieser Wein wurde aus Trauben hergestellt, die in einem besonderen Jahr geerntet wurden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 1051
 Lemma: 利く
 Lesung: きく
-Alternativschreibweisen: ''
-Definition: wirken, funktionieren
+Alternativschreibweisen: 効く
+Definition: funktionieren; wirken
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 利かない・利いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   ブレーキが利くかどうか確かめて。
   ブレーキが 利[き]くかどうか 確[たし]かめて。
   Überprüfen Sie, ob die Bremsen funktionieren.
+
+  この新しい車はブレーキがよく利くので、安全性が高いです。
+  この 新[あたら]しい 車[くるま]はブレーキがよく 利[き]くので、安全性[あんぜんせい]が 高[たか]いです。
+  Diese neue Auto hat gut funktionierende Bremsen, was die Sicherheit erhöht.
+
+  彼女は鼻が利くので、料理の微妙な香りの違いがわかります。
+  彼女[かのじょ]は 鼻[はな]が 利[き]くので、料理[りょうり]の 微妙[びみょう]な 香[かお]りの 違[ちが]いがわかります。
+  Sie hat eine gute Nase und kann subtile Unterschiede in den Aromen von Gerichten erkennen.
+
+  目が利く人は、小さな変化にも気づきやすいです。
+  目[め]が 利[き]く 人[ひと]は、小[ちい]さな 変化[へんか]にも 気[き]づきやすいです。
+  Menschen mit einem scharfen Auge bemerken leicht auch kleine Veränderungen.
+
+  彼は業界で顔が利くので、様々な情報を得やすい立場にあります。
+  彼[かれ]は 業界[ぎょうかい]で 顔[かお]が 利[き]くので、様々[さまざま]な 情報[じょうほう]を 得[え]やすい 立場[たちば]にあります。
+  Er ist in der Branche einflussreich und befindet sich daher in einer Position, in der er leicht an verschiedene Informationen kommt.
+
+  鉛管は少しくねったけど、蛇口もちゃんと利くし、水に不自由はしないよ。
+  鉛管[えんかん]は 少[すこ]しくねったけど、蛇口[じゃぐち]もちゃんと 利[き]くし、水[みず]に 不自由[ふじゆう]はしないよ。
+  Das Bleirohr ist zwar ein bisschen verbogen, aber der Hahn funktioniert noch. Wasser haben wir also genug.
+
+  この生地は洗濯が利くので、お手入れが簡単です。
+  この 生地[きじ]は 洗濯[せんたく]が 利[き]くので、お 手入[てい]れが 簡単[かんたん]です。
+  Dieser Stoff ist waschbar, daher ist die Pflege einfach.
+
+  ホテルの部屋からは眺望が利き、美しい景色を楽しめます。
+  ホテルの 部屋[へや]からは 眺望[ちょうぼう]が 利[き]き、美[うつく]しい 景色[けしき]を 楽[たの]しめます。
+  Aus dem Hotelzimmer hat man einen schönen Ausblick und kann die wunderschöne Landschaft genießen.
+
+  霧で見通しが利かないので、運転には十分注意してください。
+  霧[きり]で 見通[みとお]しが 利[き]かないので、運転[うんてん]には 十分[じゅうぶん] 注意[ちゅうい]してください。
+  Da wegen des Nebels die Sicht schlecht ist, fahren Sie bitte besonders vorsichtig.
+
+  もう後戻りは利かないんだ。だったら、現在自分たちがすべきことを完璧にやり遂げるしかないじゃないですか。
+  もう 後戻[あともど]りは 利[き]かないんだ。だったら、現在[げんざい] 自分[じぶん]たちがすべきことを 完璧[かんぺき]にやり 遂[と]げるしかないじゃないですか。
+  Es gibt kein Zurück mehr. Jetzt können wir nur noch versuchen, unsere Aufgabe so gut wie möglich zu erfüllen.
+
+  ありがたいことに賄賂の効く連中だからな。
+  ありがたいことに 賄賂[わいろ]の 効[き]く 連中[れんちゅう]だからな。
+  Gott sei Dank sind sie bestechlich.
+
+  この薬は風邪に利くので、症状が和らぐはずです。
+  この 薬[くすり]は 風邪[かぜ]に 利[き]くので、症状[しょうじょう]が 和[やわ]らぐはずです。
+  Dieses Medikament wirkt gegen Erkältungen, also sollten sich die Symptome lindern.
+
+  新商品の宣伝が利いて、売り上げが大幅に伸びました。
+  新[しん]商品[しょうひん]の 宣伝[せんでん]が 利[き]いて、売[う]り 上[あ]げが 大幅[おおはば]に 伸[の]びました。
+  Die Werbung für das neue Produkt hat gewirkt und die Verkaufszahlen sind deutlich gestiegen.
+
+  親の小言が効いたのか、彼の態度が良くなった。
+  親[おや]の 小言[こごと]が 効[き]いたのか、彼[かれ]の 態度[たいど]が 良[よ]くなった。
+  Ob das Schimpfen der Eltern gewirkt hat? Seine Einstellung hat sich verbessert.
+
+  このスープは塩がよく利いていて、とてもおいしいです。
+  このスープは 塩[しお]がよく 利[き]いていて、とてもおいしいです。
+  Diese Suppe ist gut gesalzen und sehr lecker.
+
+  糊が利いたシャツは、きちんとした印象を与えます。
+  糊[のり]が 利[き]いたシャツは、きちんとした 印象[いんしょう]を 与[あた]えます。
+  Ein gut gestärktes Hemd vermittelt einen ordentlichen Eindruck.
+
+  そんなに飲んだり止めたりしちゃ、いくら効能のある薬でも利く気遣いはありません。
+  そんなに 飲[の]んだり 止[や]めたりしちゃ、いくら 効能[こうのう]のある 薬[くすり]でも 利[き]く 気遣[きづか]いはありません。
+  Wenn du sie mal nimmst, dann wieder nicht, kann auch die wirkungsvollste Medizin nicht wirken!
+
+  あたくし毎晩神さまにお祈りしていることよ。あたくしのお祈り、今までだってとても利いたのよ。
+  あたくし 毎晩[まいばん] 神[かみ]さまにお 祈[いの]りしていることよ。あたくしのお 祈[いの]り、今[いま]までだってとても 利[き]いたのよ。
+  Jeden Abend bete ich zum Herrn für dich, und meine Gebete wurden stets erhört.
+
+  彼は気が利く人なので、周りの人々から好かれています。
+  彼[かれ]は 気[き]が 利[き]く 人[ひと]なので、周[まわ]りの 人々[ひとびと]から 好[す]かれています。
+  Er ist sehr aufmerksam und wird daher von den Menschen um ihn herum gemocht.
+
+  この修理が利かない壊れた時計は、もう捨てるしかありません。
+  この 修理[しゅうり]が 利[き]かない 壊[こわ]れた 時計[とけい]は、もう 捨[す]てるしかありません。
+  Diese kaputte Uhr, die nicht mehr repariert werden kann, muss weggeworfen werden.
+
+  この薬を飲めば、頭痛にすぐに利くはずです。
+  この 薬[くすり]を 飲[の]めば、頭痛[ずつう]にすぐに 利[き]くはずです。
+  Wenn du dieses Medikament nimmst, sollte es schnell gegen die Kopfschmerzen wirken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

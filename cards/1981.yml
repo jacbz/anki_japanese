@@ -1,10 +1,10 @@
 Rang: 1981
 Lemma: 箱
 Lesung: はこ
-Alternativschreibweisen: ''
-Definition: Kiste, Schachtel
+Alternativschreibweisen: 函・匣・筥・篋
+Definition: Schachtel, Kiste
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '93'
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   私はその箱を開けた。
   私[わたし]はその 箱[はこ]を 開[あ]けた。
-  Ich habe die Kiste geöffnet.
+  Ich öffnete die Schachtel.
+
+  彼女は宝石箱から美しいネックレスを取り出した。
+  彼女[かのじょ]は 宝石箱[ほうせきばこ]から 美[うつく]しいネックレスを 取[と]り 出[だ]した。
+  Sie nahm eine schöne Kette aus ihrem Schmuckkästchen.
+
+  段ボール箱に荷物を詰めて引っ越しの準備をした。
+  段[だん]ボール 箱[ばこ]に 荷物[にもつ]を 詰[つ]めて 引[ひ]っ 越[こ]しの 準備[じゅんび]をした。
+  Ich packte meine Sachen in Kartons, um mich auf den Umzug vorzubereiten.
+
+  マッチ箱を開けたら、中身が空っぽだった。
+  マッチ 箱[ばこ]を 開[あ]けたら、中身[なかみ]が 空[から]っぽだった。
+  Als ich die Streichholzschachtel öffnete, war sie leer.
+
+  箱で買うと、バラで買うよりもずっと安くなります。
+  箱[はこ]で 買[か]うと、バラで 買[か]うよりもずっと 安[やす]くなります。
+  Wenn man kistenweise kauft, ist es viel günstiger als einzeln zu kaufen.
+
+  新鮮な野菜を箱から出して冷蔵庫に入れた。
+  新鮮[しんせん]な 野菜[やさい]を 箱[はこ]から 出[だ]して 冷蔵庫[れいぞうこ]に 入[い]れた。
+  Ich nahm das frische Gemüse aus der Kiste und legte es in den Kühlschrank.
+
+  贈り物を箱に入れて、リボンで飾りつけた。
+  贈[おく]り 物[もの]を 箱[はこ]に 入[い]れて、リボンで 飾[かざ]りつけた。
+  Ich legte das Geschenk in eine Schachtel und verzierte sie mit einer Schleife.
+
+  箱に詰められたリンゴが市場に運ばれていく。
+  箱[はこ]に 詰[つ]められたリンゴが 市場[しじょう]に 運[はこ]ばれていく。
+  Die in Kisten verpackten Äpfel werden zum Markt transportiert.
+
+  ビール三箱を買って、パーティーの準備をした。
+  ビール 三[さん] 箱[はこ]を 買[か]って、パーティーの 準備[じゅんび]をした。
+  Ich kaufte drei Kästen Bier, um mich auf die Party vorzubereiten.
+
+  契約の箱は神聖な物として扱われていた。
+  契約[けいやく]の 箱[はこ]は 神聖[しんせい]な 物[もの]として 扱[あつか]われていた。
+  Die Bundeslade wurde als heiliger Gegenstand behandelt.
+
+  木の箱に大切な思い出の品を保管している。
+  木[き]の 箱[はこ]に 大切[たいせつ]な 思[おも]い 出[で]の 品[しな]を 保管[ほかん]している。
+  Ich bewahre wichtige Erinnerungsstücke in einer Holzkiste auf.
+
+  パンドラの箱を開けてしまった後悔をしている。
+  パンドラの 箱[はこ]を 開[あ]けてしまった 後悔[こうかい]をしている。
+  Ich bereue es, die Büchse der Pandora geöffnet zu haben.
+
+  リンゴ一箱を買って、近所におすそ分けした。
+  リンゴ 一[ひと] 箱[はこ]を 買[か]って、近所[きんじょ]におすそ 分[わ]けした。
+  Ich kaufte eine Kiste Äpfel und verteilte sie an die Nachbarn.
+
+  たばこ一箱を買おうとしたが、お金が足りなかった。
+  たばこ 一[ひと] 箱[はこ]を 買[か]おうとしたが、お 金[かね]が 足[た]りなかった。
+  Ich wollte eine Schachtel Zigaretten kaufen, hatte aber nicht genug Geld.
+
+  手品師は箱から美しい白い鳩を取り出した。
+  手品師[てじなし]は 箱[はこ]から 美[うつく]しい 白[しろ]い 鳩[はと]を 取[と]り 出[だ]した。
+  Der Zauberer holte eine schöne weiße Taube aus der Schachtel.
+
+  引っ越しの際、段ボールの箱がたくさん必要になった。
+  引[ひ]っ 越[こ]しの 際[さい]、段[だん]ボールの 箱[はこ]がたくさん 必要[ひつよう]になった。
+  Beim Umzug brauchte ich viele Pappkartons.
+
+  電車の箱の中で、不審な人物を見かけた。
+  電車[でんしゃ]の 箱[はこ]の 中[なか]で、不審[ふしん]な 人物[じんぶつ]を 見[み]かけた。
+  Im Zugabteil bemerkte ich eine verdächtige Person.
+
+  エレベーターの箱に乗り込んだ瞬間、停電になった。
+  エレベーターの 箱[はこ]に 乗[の]り 込[こ]んだ 瞬間[しゅんかん]、停電[ていでん]になった。
+  In dem Moment, als ich die Aufzugkabine betrat, gab es einen Stromausfall.
+
+  箱掃除の際、多くの不法行為が発見された。
+  箱掃除[はこそうじ]の 際[さい]、多[おお]くの 不法行為[ふほうこうい]が 発見[はっけん]された。
+  Bei der polizeilichen Fahndung in den Zugabteilen wurden viele illegale Aktivitäten aufgedeckt.
+
+  芸者さんを呼ぶために、箱を入れてもらった。
+  芸者[げいしゃ]さんを 呼[よ]ぶために、箱[はこ]を 入[い]れてもらった。
+  Um eine Geisha zu rufen, ließ ich eine Shamisen bringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

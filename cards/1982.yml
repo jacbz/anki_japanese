@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '69'
-Ursprung: ''
+Ursprung: engl. tennis
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   明日一緒にテニスをしませんか。
-  明日[あした] 一緒[いっしょ]にテニスをしませんか。
-  Möchtest du morgen zusammen Tennis spielen?
+  あした いっしょに テニスを しませんか。
+  Möchtest du morgen mit mir Tennis spielen?
+
+  彼はテニスボールを上手に打ち返した。
+  彼[かれ]は テニスボールを 上手[じょうず]に 打[う]ち 返[かえ]した。
+  Er hat den Tennisball geschickt zurückgeschlagen.
+
+  テニスコートの予約をしておきました。
+  テニスコートの 予約[よやく]をしておきました。
+  Ich habe einen Tennisplatz reserviert.
+
+  新しいテニスラケットを買ったんだ。
+  新[あたら]しい テニスラケットを 買[か]ったんだ。
+  Ich habe mir einen neuen Tennisschläger gekauft.
+
+  プロのテニス選手になるのが夢です。
+  プロの テニス 選手[せんしゅ]になるのが 夢[ゆめ]です。
+  Mein Traum ist es, Profi-Tennisspieler zu werden.
+
+  テニスシューズが擦り切れてしまった。
+  テニスシューズが 擦[す]り 切[き]れてしまった。
+  Meine Tennisschuhe sind durchgelaufen.
+
+  来月、地域のテニス大会に参加する予定です。
+  来月[らいげつ]、地域[ちいき]の テニス 大会[たいかい]に 参加[さんか]する 予定[よてい]です。
+  Nächsten Monat werde ich an einem regionalen Tennisturnier teilnehmen.
+
+  テニスウェアを着て、準備万端だ。
+  テニスウェアを 着[き]て、準備万端[じゅんびばんたん]だ。
+  Ich habe meine Tenniskleidung an und bin vollständig vorbereitet.
+
+  バウンドテニスって知ってる？室内でできるんだよ。
+  バウンドテニスって 知[し]ってる？室内[しつない]でできるんだよ。
+  Kennst du Bound Tennis? Man kann es in der Halle spielen.
+
+  公式テニスの試合を見に行こうよ。
+  公式[こうしき]テニスの 試合[しあい]を 見[み]に 行[い]こうよ。
+  Lass uns ein offizielles Tennisspiel ansehen gehen.
+
+  車椅子テニスの選手たちの技術に感動した。
+  車椅子[くるまいす]テニスの 選手[せんしゅ]たちの 技術[ぎじゅつ]に 感動[かんどう]した。
+  Ich war beeindruckt von den Fähigkeiten der Rollstuhltennis-Spieler.
+
+  テニスを始めてから、体力がついたよ。
+  テニスを 始[はじ]めてから、体力[たいりょく]がついたよ。
+  Seit ich mit dem Tennisspielen angefangen habe, hat sich meine Kondition verbessert.
+
+  彼女はテニスに夢中になっていて、毎日練習している。
+  彼女[かのじょ]は テニスに 夢中[むちゅう]になっていて、毎日[まいにち] 練習[れんしゅう]している。
+  Sie ist vom Tennis begeistert und trainiert jeden Tag.
+
+  テニスのダブルスで優勝しました！
+  テニスの ダブルスで 優勝[ゆうしょう]しました！
+  Wir haben im Tennis-Doppel gewonnen!
+
+  テニスの試合、どっちが勝つと思う？
+  テニスの 試合[しあい]、どっちが 勝[か]つと 思[おも]う？
+  Wer denkst du wird das Tennismatch gewinnen?
+
+  私はテニスとバスケットボールをやっています。
+  私[わたし]は テニスと バスケットボールを やっています。
+  Ich spiele Tennis und Basketball.
+
+  「何だよ、それ。俺がテニスをしちゃいけないのか」
+  「何[なん]だよ、それ。俺[おれ]が テニスを しちゃ いけないのか」
+  "Was soll das heißen? Darf ich jetzt kein Tennis mehr spielen, oder was?"
+
+  庭で遊ぶテニスの球の音が窓のガラスに響いた。
+  庭[にわ]で 遊[あそ]ぶ テニスの 球[たま]の 音[おと]が 窓[まど]の ガラスに 響[ひび]いた。
+  Der Klang der Tennisbälle, die im Garten gespielt wurden, hallte durch die Fensterscheiben.
+
+  テニス部に入ろうか迷っているんだ。
+  テニス部[ぶ]に 入[はい]ろうか 迷[まよ]っているんだ。
+  Ich überlege, ob ich dem Tennisclub beitreten soll.
+
+  週末にテニスの練習試合があるんだ。
+  週末[しゅうまつ]に テニスの 練習試合[れんしゅうじあい]があるんだ。
+  Am Wochenende habe ich ein Trainingsspiel im Tennis.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

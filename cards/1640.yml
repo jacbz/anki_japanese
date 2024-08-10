@@ -1,8 +1,8 @@
 Rang: 1640
 Lemma: すみません
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: Entschuldigung; danke; es tut mir leid
+Alternativschreibweisen: 済みません
+Definition: Entschuldigung; danke
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
 Lesung mit Tonhöhe: ''
@@ -18,9 +18,100 @@ Beispielsätze: |-
   すみません、トイレはどこですか。
   Entschuldigung, wo ist die Toilette?
 
+  どうもすみません、お待たせしてしまって。
+  どうもすみません、お 待[ま]たせしてしまって。
+  Es tut mir wirklich leid, dass ich Sie habe warten lassen.
+
+  遅れてすみません。電車が遅延していました。
+  遅[おく]れてすみません。電車[でんしゃ]が 遅延[ちえん]していました。
+  Entschuldigen Sie bitte die Verspätung. Der Zug hatte Verspätung.
+
+  すみませんが、もう一度説明していただけますか。
+  すみませんが、もう 一度[いちど] 説明[せつめい]していただけますか。
+  Entschuldigung, könnten Sie das bitte noch einmal erklären?
+
+  すみません、お名前をもう一度お聞きしてもよろしいでしょうか。
+  すみません、お 名前[なまえ]をもう 一度[いちど]お 聞[き]きしてもよろしいでしょうか。
+  Entschuldigung, dürfte ich Ihren Namen noch einmal hören?
+
+  すみませんが、ちょっと通してください。
+  すみませんが、ちょっと 通[とお]してください。
+  Entschuldigung, lassen Sie mich bitte durch.
+
+  すみません、この席は空いていますか。
+  すみません、この 席[せき]は 空[あ]いていますか。
+  Entschuldigung, ist dieser Platz frei?
+
+  すみませんが、塩を取ってもらえますか。
+  すみませんが、塩[しお]を 取[と]ってもらえますか。
+  Könnten Sie mir bitte das Salz reichen?
+
+  すみません、何時ですか。
+  すみません、何時[なんじ]ですか。
+  Entschuldigung, wie spät ist es?
+
+  すみませんが、駅への道を教えていただけますか。
+  すみませんが、駅[えき]への 道[みち]を 教[おし]えていただけますか。
+  Entschuldigung, könnten Sie mir den Weg zum Bahnhof erklären?
+
+  すみません、こちらのペンを使ってもいいですか。
+  すみません、こちらのペンを 使[つか]ってもいいですか。
+  Entschuldigung, darf ich diesen Stift benutzen?
+
+  すみませんが、もう少し静かにしていただけますか。
+  すみませんが、もう 少[すこ]し 静[しず]かにしていただけますか。
+  Entschuldigung, könnten Sie bitte etwas leiser sein?
+
+  すみません、この本はどこで買えますか。
+  すみません、この 本[ほん]はどこで 買[か]えますか。
+  Entschuldigung, wo kann ich dieses Buch kaufen?
+
+  すみませんが、写真を撮ってもらえますか。
+  すみませんが、写真[しゃしん]を 撮[と]ってもらえますか。
+  Entschuldigung, könnten Sie ein Foto von mir machen?
+
+  すみません、メニューをもう一枚いただけますか。
+  すみません、メニューをもう 一枚[いちまい]いただけますか。
+  Entschuldigung, könnten wir noch eine Speisekarte bekommen?
+
+  すみませんが、この書類にサインをお願いできますか。
+  すみませんが、この 書類[しょるい]にサインをお 願[ねが]いできますか。
+  Entschuldigung, könnten Sie bitte dieses Dokument unterschreiben?
+
+  すみません、携帯電話の充電器を借りてもいいですか。
+  すみません、携帯電話[けいたいでんわ]の 充電器[じゅうでんき]を 借[か]りてもいいですか。
+  Entschuldigung, darf ich mir Ihr Handy-Ladegerät ausleihen?
+
+  すみません、タクシーを呼んでいただけますか。
+  すみません、タクシーを 呼[よ]んでいただけますか。
+  Entschuldigung, könnten Sie für mich ein Taxi rufen?
+
+  すみませんが、この商品の返品は可能ですか。
+  すみませんが、この 商品[しょうひん]の 返品[へんぴん]は 可能[かのう]ですか。
+  Entschuldigung, ist es möglich, diesen Artikel zurückzugeben?
+
+  すみません、このバスは中央駅に行きますか。
+  すみません、このバスは 中央駅[ちゅうおうえき]に 行[い]きますか。
+  Entschuldigung, fährt dieser Bus zum Hauptbahnhof?
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">すみません</span> ist eine sehr häufig verwendete höfliche Phrase, die sowohl als Entschuldigung als auch zum Ausdruck von Dank benutzt wird. Sie wird auch oft verwendet, um höflich jemanden anzusprechen oder um eine Bitte einzuleiten.</p>
+  <div class="examples">
+    <div class="jp">すみません、ちょっと 質問[しつもん]があるんですが。</div>
+    <div class="de spoiler">Entschuldigung, ich hätte da eine Frage.</div>
+  </div>
+  <p>In manchen Situationen kann es auch als höfliche Form von „Danke“ verwendet werden, besonders wenn man jemandem Umstände bereitet hat:</p>
+  <div class="examples">
+    <div class="jp">わざわざ 来[き]ていただいて、すみません。</div>
+    <div class="de spoiler">Vielen Dank, dass Sie extra hergekommen sind.</div>
+  </div>
+  <p>Es kann auch mit anderen höflichen Ausdrücken kombiniert werden, um die Höflichkeit zu verstärken:</p>
+  <div class="examples">
+    <div class="jp">申[もう]し 訳[わけ]ありませんが、すみません。</div>
+    <div class="de spoiler">Es tut mir wirklich sehr leid.</div>
+  </div>

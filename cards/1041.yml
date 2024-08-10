@@ -2,7 +2,7 @@ Rang: 1041
 Lemma: 量
 Lesung: りょう
 Alternativschreibweisen: ''
-Definition: Menge, Volumen, Betrag
+Definition: Menge, Quantität; Volumen
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   最近ごみの量が増えた。
   最近[さいきん]ごみの 量[りょう]が 増[ふ]えた。
   Die Menge an Müll hat in letzter Zeit zugenommen.
+
+  この製品の生産量が多いため、在庫管理に注意が必要です。
+  この 製品[せいひん]の 生産量[せいさんりょう]が 多[おお]いため、在庫[ざいこ]管理[かんり]に 注意[ちゅうい]が 必要[ひつよう]です。
+  Da die Produktionsmenge dieses Artikels hoch ist, ist eine sorgfältige Lagerverwaltung erforderlich.
+
+  交通量が多い時間帯は事故に気をつけましょう。
+  交通量[こうつうりょう]が 多[おお]い 時間帯[じかんたい]は 事故[じこ]に 気[き]をつけましょう。
+  Achten wir in Zeiten mit hohem Verkehrsaufkommen besonders auf Unfälle.
+
+  今月の電気の消費量を確認してください。
+  今月[こんげつ]の 電気[でんき]の 消費量[しょうひりょう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie den Stromverbrauch dieses Monats.
+
+  昨日の雨量は平年の2倍以上でした。
+  昨日[きのう]の 雨量[うりょう]は 平年[へいねん]の2倍以上[ばいいじょう]でした。
+  Die gestrige Regenmenge war mehr als doppelt so hoch wie der Durchschnitt.
+
+  注文した商品の量が足りないので、追加注文しました。
+  注文[ちゅうもん]した 商品[しょうひん]の 量[りょう]が 足[た]りないので、追加注文[ついかちゅうもん]しました。
+  Da die Menge der bestellten Waren nicht ausreichte, habe ich eine Nachbestellung aufgegeben.
+
+  この薬の服用量を超えないように気をつけてください。
+  この 薬[くすり]の 服用量[ふくようりょう]を 超[こ]えないように 気[き]をつけてください。
+  Achten Sie darauf, die vorgeschriebene Dosis dieses Medikaments nicht zu überschreiten.
+
+  私たちの会社は量より質を重んじています。
+  私[わたし]たちの 会社[かいしゃ]は 量[りょう]より 質[しつ]を 重[おも]んじています。
+  Unser Unternehmen legt mehr Wert auf Qualität als auf Quantität.
+
+  人体に危険な量の化学物質が検出されました。
+  人体[じんたい]に 危険[きけん]な 量[りょう]の 化学物質[かがくぶっしつ]が 検出[けんしゅつ]されました。
+  Es wurde eine für den menschlichen Körper gefährliche Menge an Chemikalien nachgewiesen.
+
+  これまでの配給量は、一家三人分としては少なすぎました。
+  これまでの 配給量[はいきゅうりょう]は、一家三人分[いっかさんにんぶん]としては 少[すく]なすぎました。
+  Die bisherige Zuteilungsmenge war für eine dreiköpfige Familie zu gering.
+
+  自由という薬は、小量なら効果的だが、大量だと副作用が出るかもしれない。
+  自由[じゆう]という 薬[くすり]は、小量[しょうりょう]なら 効果的[こうかてき]だが、大量[たいりょう]だと 副作用[ふくさよう]が 出[で]るかもしれない。
+  Die Medizin namens Freiheit mag in kleinen Mengen wirksam sein, in großen Mengen könnte sie jedoch Nebenwirkungen haben.
+
+  彼の軍隊生活は、膨大な量の思い出を残しました。
+  彼[かれ]の 軍隊[ぐんたい]生活[せいかつ]は、膨大[ぼうだい]な 量[りょう]の 思[おも]い 出[で]を 残[のこ]しました。
+  Sein Militärdienst hinterließ eine Unmenge an Erinnerungen.
+
+  この料理のレシピに書かれている材料の量を守ってください。
+  この 料理[りょうり]のレシピに 書[か]かれている 材料[ざいりょう]の 量[りょう]を 守[まも]ってください。
+  Bitte halte dich an die im Rezept angegebenen Mengen der Zutaten für dieses Gericht.
+
+  データの量が多すぎて、処理に時間がかかっています。
+  データの 量[りょう]が 多[おお]すぎて、処理[しょり]に 時間[じかん]がかかっています。
+  Die Datenmenge ist so groß, dass die Verarbeitung viel Zeit in Anspruch nimmt.
+
+  輸出量の増加により、経済が活性化しています。
+  輸出量[ゆしゅつりょう]の 増加[ぞうか]により、経済[けいざい]が 活性化[かっせいか]しています。
+  Durch die Zunahme der Exportmenge wird die Wirtschaft angekurbelt.
+
+  彼女は驚くべき量の本を読んでいます。
+  彼女[かのじょ]は 驚[おどろ]くべき 量[りょう]の 本[ほん]を 読[よ]んでいます。
+  Sie liest eine erstaunliche Menge an Büchern.
+
+  この商品の在庫量を確認して、発注するかどうか決めましょう。
+  この 商品[しょうひん]の 在庫量[ざいこりょう]を 確認[かくにん]して、発注[はっちゅう]するかどうか 決[き]めましょう。
+  Lasst uns den Lagerbestand dieses Produkts überprüfen und dann entscheiden, ob wir nachbestellen.
+
+  一日の水分摂取量を増やすことで、健康的な生活を送れます。
+  一日[いちにち]の 水分[すいぶん]摂取量[せっしゅりょう]を 増[ふ]やすことで、健康的[けんこうてき]な 生活[せいかつ]を 送[おく]れます。
+  Indem Sie Ihre tägliche Flüssigkeitsaufnahme erhöhen, können Sie ein gesünderes Leben führen.
+
+  生産量を増やすために、新しい機械を導入することにしました。
+  生産量[せいさんりょう]を 増[ふ]やすために、新[あたら]しい 機械[きかい]を 導入[どうにゅう]することにしました。
+  Um die Produktionsmenge zu erhöhen, haben wir beschlossen, neue Maschinen einzuführen.
+
+  この実験では、反応物質の量を正確に測定することが重要です。
+  この 実験[じっけん]では、反応物質[はんのうぶっしつ]の 量[りょう]を 正確[せいかく]に 測定[そくてい]することが 重要[じゅうよう]です。
+  Bei diesem Experiment ist es wichtig, die Menge der Reaktionssubstanzen genau zu messen.
+
+  彼は大量の情報を短時間で処理する能力があります。
+  彼[かれ]は 大量[たいりょう]の 情報[じょうほう]を 短時間[たんじかん]で 処理[しょり]する 能力[のうりょく]があります。
+  Er hat die Fähigkeit, große Mengen an Informationen in kurzer Zeit zu verarbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

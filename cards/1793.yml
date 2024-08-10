@@ -2,7 +2,7 @@ Rang: 1793
 Lemma: どうぞ
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: bitte
+Definition: bitte (sehr)
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Lesung mit Tonhöhe: \..
@@ -16,11 +16,101 @@ Konjugation: ''
 Beispielsätze: |-
   どうぞこちらにお掛けください。
   どうぞこちらにお 掛[か]けください。
-  Bitte setzen Sie sich hier.
+  Bitte nehmen Sie hier Platz.
+
+  どうぞお先にどうぞ。
+  どうぞお 先[さき]にどうぞ。
+  Bitte, nach Ihnen.
+
+  お茶をどうぞ。
+  お 茶[ちゃ]をどうぞ。
+  Bitte, bedienen Sie sich am Tee.
+
+  どうぞゆっくりしていってください。
+  どうぞゆっくりしていってください。
+  Bitte lassen Sie sich Zeit.
+
+  どうぞお気をつけてお帰りください。
+  どうぞお 気[き]をつけてお 帰[かえ]りください。
+  Bitte kommen Sie gut nach Hause.
+
+  どうぞお入りください。
+  どうぞお 入[はい]りください。
+  Bitte treten Sie ein.
+
+  どうぞお楽しみください。
+  どうぞお 楽[たの]しみください。
+  Bitte genießen Sie es.
+
+  どうぞお構いなく。
+  どうぞお 構[かま]いなく。
+  Bitte lassen Sie sich nicht stören.
+
+  どうぞお好きなようにしてください。
+  どうぞお 好[す]きなようにしてください。
+  Bitte machen Sie es, wie Sie möchten.
+
+  どうぞお手を拝見させてください。
+  どうぞお 手[て]を 拝見[はいけん]させてください。
+  Dürfte ich bitte Ihre Hand sehen?
+
+  どうぞ遠慮なく言ってください。
+  どうぞ 遠慮[えんりょ]なく 言[い]ってください。
+  Bitte sagen Sie es ohne Zurückhaltung.
+
+  どうぞお待たせしました。
+  どうぞお 待[ま]たせしました。
+  Entschuldigen Sie bitte die Wartezeit.
+
+  どうぞお座りください。
+  どうぞお 座[すわ]りください。
+  Bitte setzen Sie sich.
+
+  どうぞお召し上がりください。
+  どうぞお 召[め]し 上[あ]がりください。
+  Bitte greifen Sie zu.
+
+  どうぞごゆっくりお過ごしください。
+  どうぞごゆっくりお 過[す]ごしください。
+  Bitte nehmen Sie sich Zeit und entspannen Sie sich.
+
+  どうぞお気に入りのものをお選びください。
+  どうぞお 気[き]に 入[い]りのものをお 選[えら]びください。
+  Bitte wählen Sie etwas aus, das Ihnen gefällt.
+
+  どうぞお早めにご連絡ください。
+  どうぞお 早[はや]めにご 連絡[れんらく]ください。
+  Bitte kontaktieren Sie uns so bald wie möglich.
+
+  どうぞご遠慮なくお申し付けください。
+  どうぞご 遠慮[えんりょ]なくお 申[もう]し 付[つ]けください。
+  Bitte zögern Sie nicht, uns Bescheid zu geben.
+
+  どうぞお気をつけてお出かけください。
+  どうぞお 気[き]をつけてお 出[で]かけください。
+  Bitte passen Sie auf sich auf, wenn Sie ausgehen.
+
+  どうぞお幸せに。
+  どうぞお 幸[しあわ]せに。
+  Ich wünsche Ihnen alles Gute.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">どうぞ</span> wird verwendet, um höflich eine Bitte, Aufforderung, ein Angebot oder eine Erlaubnis auszudrücken. Es kann auch Hoffnung oder einen Wunsch ausdrücken.</p>
+  <div class="examples">
+    <div class="jp">どうぞ 遠慮[えんりょ]なく 言[い]ってください。</div>
+    <div class="de spoiler">Bitte sagen Sie es ohne Zurückhaltung.</div>
+  </div>
+  <p>In Verbindung mit <span class="jp">〜てください</span> verstärkt es eine höfliche Bitte:</p>
+  <div class="examples">
+    <div class="jp">どうぞお 待[ま]ちください。</div>
+    <div class="de spoiler">Bitte warten Sie einen Moment.</div>
+  </div>
+  <p>Es kann auch allein stehen, um eine Erlaubnis oder ein Angebot auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">「どうぞ」と 言[い]いながら 椅子[いす]をすすめた。</div>
+    <div class="de spoiler">"Bitte sehr

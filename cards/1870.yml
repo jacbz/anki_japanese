@@ -2,13 +2,13 @@ Rang: 1870
 Lemma: チャンス
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Chance
+Definition: Chance, Gelegenheit
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '93'
-Ursprung: ''
+Ursprung: engl. chance
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   もう一度チャンスをください。
   もう 一度[いちど]チャンスをください。
-  Bitte gib mir eine weitere Chance.
+  Bitte geben Sie mir noch eine Chance.
+
+  チャンスがあったら、海外で働いてみたいです。
+  チャンスがあったら、海外[かいがい]で 働[はたら]いてみたいです。
+  Wenn sich die Gelegenheit ergibt, würde ich gerne im Ausland arbeiten.
+
+  彼女は新しい仕事のチャンスを与えられました。
+  彼女[かのじょ]は 新[あたら]しい 仕事[しごと]のチャンスを 与[あた]えられました。
+  Ihr wurde die Chance auf einen neuen Job gegeben.
+
+  このチャンスを逃がさないようにしましょう。
+  このチャンスを 逃[のが]がさないようにしましょう。
+  Lasst uns diese Chance nicht verpassen.
+
+  彼はチャンスを掴んで、大成功を収めました。
+  彼[かれ]はチャンスを 掴[つか]んで、大成功[だいせいこう]を 収[おさ]めました。
+  Er ergriff die Chance und hatte großen Erfolg.
+
+  チャンスをうかがっていたら、やっと良い機会が訪れました。
+  チャンスをうかがっていたら、やっと 良[よ]い 機会[きかい]が 訪[おとず]れました。
+  Während ich auf eine günstige Gelegenheit wartete, kam endlich eine gute Chance.
+
+  一生に一度のチャンスを逃すわけにはいきません。
+  一生[いっしょう]に 一度[いちど]のチャンスを 逃[のが]すわけにはいきません。
+  Ich kann die Chance meines Lebens nicht verpassen.
+
+  願ってもないチャンスが突然現れました。
+  願[ねが]ってもないチャンスが 突然[とつぜん] 現[あらわ]れました。
+  Eine unverhoffte Gelegenheit tauchte plötzlich auf.
+
+  わずかなチャンスでも、諦めずに挑戦し続けます。
+  わずかなチャンスでも、諦[あきら]めずに 挑戦[ちょうせん]し 続[つづ]けます。
+  Selbst bei einer geringen Chance werde ich nicht aufgeben und weiter versuchen.
+
+  絶好のチャンスを逃さないよう、準備を整えましょう。
+  絶好[ぜっこう]のチャンスを 逃[のが]さないよう、準備[じゅんび]を 整[ととの]えましょう。
+  Lasst uns vorbereitet sein, um die ideale Gelegenheit nicht zu verpassen.
+
+  チャンス到来だよ。今がその時だ！
+  チャンス 到来[とうらい]だよ。今[いま]がその 時[とき]だ！
+  Das ist deine große Chance! Jetzt ist der Moment gekommen!
+
+  つぐみはチャンスを見計らって、静かに近づいた。
+  つぐみはチャンスを 見計[みはか]らって、静[しず]かに 近[ちか]づいた。
+  Tsugumi sah ihre Chance gekommen und näherte sich leise.
+
+  あの人にはたくさんのチャンスがあったのに、活かせなかったのね。
+  あの 人[ひと]にはたくさんのチャンスがあったのに、活[い]かせなかったのね。
+  Diese Person hatte so viele Möglichkeiten, konnte sie aber nicht nutzen.
+
+  もう一度だけチャンスをあげましょう。
+  もう 一度[いちど]だけチャンスをあげましょう。
+  Lass uns ihm noch eine Chance geben.
+
+  チャンスは準備ができている人にだけ訪れるものだ。
+  チャンスは 準備[じゅんび]ができている 人[ひと]にだけ 訪[おとず]れるものだ。
+  Chancen kommen nur zu denen, die vorbereitet sind.
+
+  このプロジェクトは私たちにとって大きなチャンスです。
+  このプロジェクトは 私[わたし]たちにとって 大[おお]きなチャンスです。
+  Dieses Projekt ist eine große Chance für uns.
+
+  チャンスを生かすも殺すも、あなた次第です。
+  チャンスを 生[い]かすも 殺[ころ]すも、あなた 次第[しだい]です。
+  Es liegt an dir, ob du die Chance nutzt oder verpasst.
+
+  彼女は自分のチャンスを待っている。
+  彼女[かのじょ]は 自分[じぶん]のチャンスを 待[ま]っている。
+  Sie wartet auf ihre Chance.
+
+  チャンスは一度きりかもしれないから、慎重に考えてください。
+  チャンスは 一度[いちど]きりかもしれないから、慎重[しんちょう]に 考[かんが]えてください。
+  Da dies vielleicht deine einzige Chance ist, denke bitte sorgfältig darüber nach.
+
+  このチャンスを最大限に活用しましょう。
+  このチャンスを 最大限[さいだいげん]に 活用[かつよう]しましょう。
+  Lasst uns diese Chance maximal nutzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

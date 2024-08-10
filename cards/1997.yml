@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \(.)..
 Register: ''
 Dispersion: '88'
-Ursprung: ''
+Ursprung: engl. taxi
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   タクシーで病院に行った。
   タクシーで 病院[びょういん]に 行[い]った。
   Ich bin mit dem Taxi ins Krankenhaus gefahren.
+
+  タクシー会社で働いています。
+  タクシー 会社[がいしゃ]で 働[はたら]いています。
+  Ich arbeite bei einem Taxiunternehmen.
+
+  タクシーメーターを確認してください。
+  タクシーメーターを 確認[かくにん]してください。
+  Bitte überprüfen Sie den Taxameter.
+
+  駅前にタクシー乗り場があります。
+  駅前[えきまえ]にタクシー 乗[の]り 場[ば]があります。
+  Vor dem Bahnhof gibt es einen Taxistand.
+
+  彼はタクシー運転手として働いている。
+  彼[かれ]はタクシー 運転手[うんてんしゅ]として 働[はたら]いている。
+  Er arbeitet als Taxifahrer.
+
+  無線タクシーを呼んでください。
+  無線[むせん]タクシーを 呼[よ]んでください。
+  Bitte rufen Sie ein Funktaxi.
+
+  大型タクシーで大きな荷物を運びました。
+  大型[おおがた]タクシーで 大[おお]きな 荷物[にもつ]を 運[はこ]びました。
+  Ich habe große Gepäckstücke mit einem Großraumtaxi transportiert.
+
+  雨が降っているので、タクシーを拾おう。
+  雨[あめ]が 降[ふ]っているので、タクシーを 拾[ひろ]おう。
+  Es regnet, lass uns ein Taxi anhalten.
+
+  急いでいるので、タクシーに乗ります。
+  急[いそ]いでいるので、タクシーに 乗[の]ります。
+  Ich bin in Eile, also nehme ich ein Taxi.
+
+  タクシーで行った方が早いですよ。
+  タクシーで 行[い]った 方[ほう]が 早[はや]いですよ。
+  Es ist schneller, wenn Sie ein Taxi nehmen.
+
+  深夜なので、タクシーを呼びました。
+  深夜[しんや]なので、タクシーを 呼[よ]びました。
+  Da es spät in der Nacht war, habe ich ein Taxi gerufen.
+
+  客待ちのタクシーがたくさん並んでいる。
+  客待[きゃくま]ちのタクシーがたくさん 並[なら]んでいる。
+  Viele wartende Taxis stehen in einer Reihe.
+
+  空車のタクシーを見つけたよ。
+  空車[くうしゃ]のタクシーを 見[み]つけたよ。
+  Ich habe ein freies Taxi gefunden.
+
+  おまけに小雨まで降っていたから、タクシーをつかまえるのにずいぶん時間がかかった。
+  おまけに 小雨[こさめ]まで 降[ふ]っていたから、タクシーをつかまえるのにずいぶん 時間[じかん]がかかった。
+  Da es nieselte, dauerte es ziemlich lange, bis ich ein Taxi erwischte.
+
+  歩道の端に出て、タクシーを探す。
+  歩道[ほどう]の 端[はし]に 出[で]て、タクシーを 探[さが]す。
+  Ich trete an den Rand des Bürgersteigs und halte Ausschau nach einem Taxi.
+
+  タクシーがくるまでフロントのマネージャーにカムロージ村の場所を教えてもらった。
+  タクシーがくるまでフロントのマネージャーにカムロージ 村[むら]の 場所[ばしょ]を 教[おし]えてもらった。
+  Während ich auf das Taxi wartete, ließ ich mir vom Hotelmanager erklären, wo Kamloji lag.
+
+  タクシーの料金が予想より高かった。
+  タクシーの 料金[りょうきん]が 予想[よそう]より 高[たか]かった。
+  Die Taxigebühr war höher als erwartet.
+
+  このタクシーは清潔で快適です。
+  このタクシーは 清潔[せいけつ]で 快適[かいてき]です。
+  Dieses Taxi ist sauber und komfortabel.
+
+  タクシーの運転手さんに目的地を伝えてください。
+  タクシーの 運転手[うんてんしゅ]さんに 目的地[もくてきち]を 伝[つた]えてください。
+  Bitte teilen Sie dem Taxifahrer Ihr Ziel mit.
+
+  タクシーの中で財布を忘れてしまった。
+  タクシーの 中[なか]で 財布[さいふ]を 忘[わす]れてしまった。
+  Ich habe meine Geldbörse im Taxi vergessen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

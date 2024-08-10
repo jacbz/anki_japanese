@@ -1,22 +1,98 @@
 Rang: 1663
 Lemma: ビール
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 麦酒
 Definition: Bier
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '93'
-Ursprung: ''
+Ursprung: nl. bier
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はビールを二本飲んだ。
-  彼[かれ]はビールを二 本[ほん] 飲[の]んだ。
-  Er trank zwei Flaschen Bier.
+  彼[かれ]はビールを 二本[にほん] 飲[の]んだ。
+  Er hat zwei Flaschen Bier getrunken.
+
+  暑い日には冷たいビールが最高だ。
+  暑[あつ]い 日[ひ]には 冷[つめ]たいビールが 最高[さいこう]だ。
+  An heißen Tagen ist ein kaltes Bier das Beste.
+
+  ビール腹が目立つようになってきた。
+  ビール 腹[ばら]が 目立[めだ]つようになってきた。
+  Mein Bierbauch wird langsam sichtbar.
+
+  このバーは地ビールで有名です。
+  このバーは 地[じ]ビールで 有名[ゆうめい]です。
+  Diese Bar ist für ihr lokales Bier bekannt.
+
+  ビール瓶を開ける音が聞こえた。
+  ビール 瓶[びん]を 開[あ]ける 音[おと]が 聞[き]こえた。
+  Ich hörte das Geräusch einer Bierflasche, die geöffnet wurde.
+
+  友達とビールガーデンで乾杯しよう。
+  友達[ともだち]とビールガーデンで 乾杯[かんぱい]しよう。
+  Lass uns mit Freunden im Biergarten anstoßen.
+
+  ビールジョッキに泡が立っている。
+  ビールジョッキに 泡[あわ]が 立[た]っている。
+  Der Bierkrug ist voller Schaum.
+
+  ドイツではビール純粋令が有名だ。
+  ドイツではビール 純粋令[じゅんすいれい]が 有名[ゆうめい]だ。
+  In Deutschland ist das Reinheitsgebot für Bier berühmt.
+
+  このパブではビール醸造を見学できます。
+  このパブではビール 醸造[じょうぞう]を 見学[けんがく]できます。
+  In diesem Pub kann man den Brauprozess besichtigen.
+
+  缶ビールを買って帰ろう。
+  缶[かん]ビールを 買[か]って 帰[かえ]ろう。
+  Lass uns Dosenbier kaufen und nach Hause gehen.
+
+  黒ビールは苦みが強くて好きだ。
+  黒[くろ]ビールは 苦[にが]みが 強[つよ]くて 好[す]きだ。
+  Ich mag dunkles Bier wegen seines starken bitteren Geschmacks.
+
+  生ビールの泡が口ひげについた。
+  生[なま]ビールの 泡[あわ]が 口[くち]ひげについた。
+  Der Schaum vom Fassbier blieb an seinem Schnurrbart hängen.
+
+  白ビールにレモンを入れて飲むのが好きです。
+  白[しろ]ビールにレモンを 入[い]れて 飲[の]むのが 好[す]きです。
+  Ich trinke gerne Weißbier mit einem Stück Zitrone darin.
+
+  ビール一本で十分です。
+  ビール 一本[いっぽん]で 十分[じゅうぶん]です。
+  Eine Flasche Bier reicht mir.
+
+  ビールの泡が急速に消えていった。
+  ビールの 泡[あわ]が 急速[きゅうそく]に 消[き]えていった。
+  Der Bierschaum verschwand schnell.
+
+  このレストランでは自家製ビールを醸造しています。
+  このレストランでは 自家製[じかせい]ビールを 醸造[じょうぞう]しています。
+  Dieses Restaurant braut sein eigenes Bier.
+
+  泡立ちのよいビールは新鮮な証拠だ。
+  泡立[あわだ]ちのよいビールは 新鮮[しんせん]な 証拠[しょうこ]だ。
+  Gut schäumendes Bier ist ein Zeichen für Frische.
+
+  気の抜けたビールは美味しくない。
+  気[き]の 抜[ぬ]けたビールは 美味[おい]しくない。
+  Abgestandenes Bier schmeckt nicht gut.
+
+  よく冷えたビールで喉を潤そう。
+  よく 冷[ひ]えたビールで 喉[のど]を 潤[うるお]そう。
+  Lass uns unseren Durst mit einem gut gekühlten Bier löschen.
+
+  とりあえずビールを一杯という気分だ。
+  とりあえずビールを 一杯[いっぱい]という 気分[きぶん]だ。
+  Ich habe das Gefühl, erstmal ein Bier trinken zu wollen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,14 +2,14 @@ Rang: 1794
 Lemma: 消す
 Lesung: けす
 Alternativschreibweisen: ''
-Definition: ausschalten, löschen
+Definition: (aus)löschen; ausschalten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 消さない・消した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   部屋を出るときは電気を消してください。
   部屋[へや]を 出[で]るときは 電気[でんき]を 消[け]してください。
   Bitte schalten Sie das Licht aus, wenn Sie den Raum verlassen.
+
+  火事を消すのに消防士が懸命に働いていた。
+  火事[かじ]を 消[け]すのに 消防士[しょうぼうし]が 懸命[けんめい]に 働[はたら]いていた。
+  Die Feuerwehrleute arbeiteten hart daran, den Brand zu löschen.
+
+  煙草の火を灰皿で消してから外に出た。
+  煙草[たばこ]の 火[ひ]を 灰皿[はいざら]で 消[け]してから 外[そと]に 出[で]た。
+  Ich drückte die Zigarette im Aschenbecher aus, bevor ich nach draußen ging.
+
+  ガスの火を消し忘れないように気をつけて。
+  ガスの 火[ひ]を 消[け]し 忘[わす]れないように 気[き]をつけて。
+  Pass auf, dass du nicht vergisst, den Gasherd auszuschalten.
+
+  テレビを消して宿題に集中しなさい。
+  テレビを 消[け]して 宿題[しゅくだい]に 集中[しゅうちゅう]しなさい。
+  Schalte den Fernseher aus und konzentriere dich auf deine Hausaufgaben.
+
+  消しゴムで鉛筆の字を消した。
+  消[け]しゴムで 鉛筆[えんぴつ]の 字[じ]を 消[け]した。
+  Ich radierte die Bleistiftschrift mit dem Radiergummi aus.
+
+  黒板の字を消して、新しい問題を書いた。
+  黒板[こくばん]の 字[じ]を 消[け]して、新[あたら]しい 問題[もんだい]を 書[か]いた。
+  Ich wischte die Schrift von der Tafel und schrieb eine neue Aufgabe.
+
+  彼女は急に姿を消して、連絡が取れなくなった。
+  彼女[かのじょ]は 急[きゅう]に 姿[すがた]を 消[け]して、連絡[れんらく]が 取[と]れなくなった。
+  Sie verschwand plötzlich und war nicht mehr zu erreichen.
+
+  その噂を消すのは簡単ではないだろう。
+  その 噂[うわさ]を 消[け]すのは 簡単[かんたん]ではないだろう。
+  Es wird nicht einfach sein, dieses Gerücht aus der Welt zu schaffen.
+
+  借金を消すまでにはまだ時間がかかりそうだ。
+  借金[しゃっきん]を 消[け]すまでにはまだ 時間[じかん]がかかりそうだ。
+  Es wird wohl noch eine Weile dauern, bis ich meine Schulden getilgt habe.
+
+  嫌な記憶を消すために旅に出た。
+  嫌[いや]な 記憶[きおく]を 消[け]すために 旅[たび]に 出[で]た。
+  Ich ging auf Reisen, um die unangenehmen Erinnerungen zu verdrängen.
+
+  彼は証拠を消そうとしたが、警察に見つかってしまった。
+  彼[かれ]は 証拠[しょうこ]を 消[け]そうとしたが、警察[けいさつ]に 見[み]つかってしまった。
+  Er versuchte, die Beweise zu beseitigen, wurde aber von der Polizei erwischt.
+
+  コンピューターから重要なデータを誤って消してしまった。
+  コンピューターから 重要[じゅうよう]なデータを 誤[あやま]って 消[け]してしまった。
+  Ich habe versehentlich wichtige Daten vom Computer gelöscht.
+
+  時間を消すために、私はカフェでゆっくりコーヒーを飲んだ。
+  時間[じかん]を 消[け]すために、私[わたし]はカフェでゆっくりコーヒーを 飲[の]んだ。
+  Um die Zeit totzuschlagen, trank ich langsam einen Kaffee im Café.
+
+  彼の名前をリストから消して欲しいと頼まれた。
+  彼[かれ]の 名前[なまえ]をリストから 消[け]して 欲[ほ]しいと 頼[たの]まれた。
+  Ich wurde gebeten, seinen Namen von der Liste zu streichen.
+
+  彼らは敵を消すために秘密裏に行動していた。
+  彼[かれ]らは 敵[てき]を 消[け]すために 秘密裏[ひみつり]に 行動[こうどう]していた。
+  Sie handelten im Geheimen, um den Feind zu beseitigen.
+
+  スプレーで悪臭を消そうとしたが、うまくいかなかった。
+  スプレーで 悪臭[あくしゅう]を 消[け]そうとしたが、うまくいかなかった。
+  Ich versuchte, den üblen Geruch mit einem Spray zu beseitigen, aber es gelang nicht.
+
+  入れ墨を消すのは痛くて時間がかかるらしい。
+  入[い]れ 墨[ずみ]を 消[け]すのは 痛[いた]くて 時間[じかん]がかかるらしい。
+  Es soll schmerzhaft und zeitaufwendig sein, eine Tätowierung zu entfernen.
+
+  彼女の声は騒音にかき消されてしまった。
+  彼女[かのじょ]の 声[こえ]は 騒音[そうおん]にかき 消[け]されてしまった。
+  Ihre Stimme wurde vom Lärm übertönt.
+
+  蝋燭の火を消して、部屋は暗闇に包まれた。
+  蝋燭[ろうそく]の 火[ひ]を 消[け]して、部屋[へや]は 暗闇[くらやみ]に 包[つつ]まれた。
+  Als ich die Kerze ausmachte, wurde der Raum in Dunkelheit gehüllt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

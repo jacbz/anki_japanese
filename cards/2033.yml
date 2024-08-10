@@ -2,9 +2,9 @@ Rang: 2033
 Lemma: 下手
 Lesung: へた
 Alternativschreibweisen: ''
-Definition: nicht gut in, schlecht, ungeschickt
+Definition: schlecht, ungeschickt
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '85'
@@ -18,9 +18,96 @@ Beispielsätze: |-
   彼[かれ]は 野球[やきゅう]が 下手[へた]だ。
   Er ist nicht gut im Baseball.
 
+  彼女は料理が下手で、いつも失敗してしまう。
+  彼女[かのじょ]は 料理[りょうり]が 下手[へた]で、いつも 失敗[しっぱい]してしまう。
+  Sie ist eine schlechte Köchin und versagt immer wieder.
+
+  下手な言い訳をするよりも、素直に謝った方がいい。
+  下手[へた]な 言[い]い 訳[わけ]をするよりも、素直[すなお]に 謝[あやま]った 方[ほう]がいい。
+  Es ist besser, sich aufrichtig zu entschuldigen, als eine schlechte Ausrede zu erfinden.
+
+  彼の字は下手で、読むのに苦労する。
+  彼[かれ]の 字[じ]は 下手[へた]で、読[よ]むのに 苦労[くろう]する。
+  Seine Handschrift ist schlecht und schwer zu lesen.
+
+  私は絵を描くのが下手です。
+  私[わたし]は 絵[え]を 描[か]くのが 下手[へた]です。
+  Ich bin schlecht im Zeichnen.
+
+  下手に口を出すと、問題が大きくなるかもしれない。
+  下手[へた]に 口[くち]を 出[だ]すと、問題[もんだい]が 大[おお]きくなるかもしれない。
+  Wenn man sich ungeschickt einmischt, könnte das Problem größer werden.
+
+  彼は運転が下手で、みんな彼の車に乗りたがらない。
+  彼[かれ]は 運転[うんてん]が 下手[へた]で、みんな 彼[かれ]の 車[くるま]に 乗[の]りたがらない。
+  Er ist ein schlechter Fahrer, und niemand möchte in seinem Auto mitfahren.
+
+  下手な嘘をつくと、すぐにばれてしまうよ。
+  下手[へた]な 嘘[うそ]をつくと、すぐにばれてしまうよ。
+  Wenn du eine schlechte Lüge erzählst, wirst du schnell entlarvt.
+
+  彼女は日本語が下手だが、一生懸命勉強している。
+  彼女[かのじょ]は 日本語[にほんご]が 下手[へた]だが、一生懸命[いっしょうけんめい] 勉強[べんきょう]している。
+  Sie spricht schlecht Japanisch, aber sie lernt sehr fleißig.
+
+  下手なことをして、怒られないように気をつけよう。
+  下手[へた]なことをして、怒[おこ]られないように 気[き]をつけよう。
+  Lass uns vorsichtig sein, damit wir nichts Dummes tun und nicht geschimpft werden.
+
+  あの歌手は歌が下手だけど、なぜか人気がある。
+  あの 歌手[かしゅ]は 歌[うた]が 下手[へた]だけど、なぜか 人気[にんき]がある。
+  Dieser Sänger singt schlecht, ist aber aus irgendeinem Grund beliebt.
+
+  下手な三味線だね。もっと練習が必要だ。
+  下手[へた]な 三味線[しゃみせん]だね。もっと 練習[れんしゅう]が 必要[ひつよう]だ。
+  Das ist ein schlecht gespieltes Shamisen. Mehr Übung ist nötig.
+
+  下手に刺激すると、逆効果になる可能性がある。
+  下手[へた]に 刺激[しげき]すると、逆効果[ぎゃくこうか]になる 可能性[かのうせい]がある。
+  Wenn man jemanden ungeschickt provoziert, kann das nach hinten losgehen.
+
+  彼は下手な冗談を言って、場の雰囲気を悪くしてしまった。
+  彼[かれ]は 下手[へた]な 冗談[じょうだん]を 言[い]って、場[ば]の 雰囲気[ふんいき]を 悪[わる]くしてしまった。
+  Er machte einen unpassenden Witz und verdarb die Stimmung.
+
+  下手な考え休むに似たりだ。よく考えてから行動しよう。
+  下手[へた]な 考[かんが]え 休[やす]むに 似[に]たりだ。よく 考[かんが]えてから 行動[こうどう]しよう。
+  Stümperhaftes Nachdenken ist wie Pause machen. Lass uns gut überlegen, bevor wir handeln.
+
+  下手をすると、大切な機会を逃してしまうかもしれない。
+  下手[へた]をすると、大切[たいせつ]な 機会[きかい]を 逃[のが]してしまうかもしれない。
+  Wenn man es falsch anstellt, könnte man eine wichtige Gelegenheit verpassen.
+
+  彼の下手な演技は、観客を退屈させた。
+  彼[かれ]の 下手[へた]な 演技[えんぎ]は、観客[かんきゃく]を 退屈[たいくつ]させた。
+  Sein schlechtes Schauspiel langweilte das Publikum.
+
+  下手な鉄砲も数打てば当たるという諺もあるけど、やっぱり練習は大切だよ。
+  下手[へた]な 鉄砲[てっぽう]も 数[かず] 打[う]てば 当[あ]たるという 諺[ことわざ]もあるけど、やっぱり 練習[れんしゅう]は 大切[たいせつ]だよ。
+  Es gibt zwar das Sprichwort "Auch ein blindes Huhn findet mal ein Korn", aber Übung ist trotzdem wichtig.
+
+  下手な運転で事故を起こさないよう、常に注意が必要だ。
+  下手[へた]な 運転[うんてん]で 事故[じこ]を 起[お]こさないよう、常[つね]に 注意[ちゅうい]が 必要[ひつよう]だ。
+  Man muss immer vorsichtig sein, um keine Unfälle durch schlechtes Fahren zu verursachen.
+
+  彼女は英語が下手だと思い込んでいるが、実際はそうでもない。
+  彼女[かのじょ]は 英語[えいご]が 下手[へた]だと 思[おも]い 込[こ]んでいるが、実際[じっさい]はそうでもない。
+  Sie glaubt, dass sie schlecht in Englisch ist, aber in Wirklichkeit stimmt das gar nicht.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">下手</span> wird verwendet, um mangelnde Fähigkeit oder Geschicklichkeit in einer Aktivität auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 料理[りょうり]が 下手[へた]で、いつも 外食[がいしょく]している。</div>
+    <div class="de spoiler">Er ist ein schlechter Koch und isst immer auswärts.</div>
+  </div>
+  <p>Es kann auch benutzt werden, um ungeschicktes oder unbedachtes Verhalten zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">下手[へた]なことを 言[い]って、友達[ともだち]を 怒[おこ]らせてしまった。</div>
+    <div class="de spoiler">Ich habe etwas Unbedachtes gesagt und meinen Freund verärgert.</div>
+  </div>
+  <p>Das Sprichwort <span class="jp">下手[へた]な 鉄砲[てっぽう]も 数[かず] 打[う]てば 当[あ]たる</span> bedeutet "Auch ein blindes Huhn findet einmal ein Korn" und wird verwendet, um zu ermutigen, es weiter zu versuchen, auch wenn man nicht gut in etwas ist.</p>
