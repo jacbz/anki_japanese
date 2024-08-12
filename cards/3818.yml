@@ -2,7 +2,7 @@ Rang: 3818
 Lemma: 児童
 Lesung: じどう
 Alternativschreibweisen: ''
-Definition: Schüler
+Definition: (Schul-)kind
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
@@ -15,12 +15,98 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この小学校の児童は全部で三十人だ。
-  この 小学校[しょうがっこう]の 児童[じどう]は 全部[ぜんぶ]で三十人だ。
-  In dieser Grundschule gibt es insgesamt dreißig Schüler.
+  この 小学校[しょうがっこう]の 児童[じどう]は 全部[ぜんぶ]で 三十[さんじゅう]人[にん]だ。
+  Diese Grundschule hat insgesamt dreißig Schüler.
+
+  児童文学は子供の想像力を育てるのに役立ちます。
+  児童文学[じどうぶんがく]は 子供[こども]の 想像力[そうぞうりょく]を 育[そだ]てるのに 役立[やくだ]ちます。
+  Kinderliteratur hilft dabei, die Fantasie von Kindern zu fördern.
+
+  児童虐待は深刻な社会問題です。
+  児童虐待[じどうぎゃくたい]は 深刻[しんこく]な 社会問題[しゃかいもんだい]です。
+  Kindesmisshandlung ist ein ernstes gesellschaftliches Problem.
+
+  児童相談所では様々な問題を抱える子供たちを支援しています。
+  児童相談所[じどうそうだんじょ]では 様々[さまざま]な 問題[もんだい]を 抱[かか]える 子供[こども]たちを 支援[しえん]しています。
+  Die Kinder- und Jugendberatungsstelle unterstützt Kinder mit verschiedenen Problemen.
+
+  児童手当の申請方法について市役所に問い合わせた。
+  児童手当[じどうてあて]の 申請方法[しんせいほうほう]について 市役所[しやくしょ]に 問[と]い 合[あ]わせた。
+  Ich habe mich bei der Stadtverwaltung nach dem Antragsverfahren für das Kindergeld erkundigt.
+
+  児童労働は世界中で問題となっている。
+  児童労働[じどうろうどう]は 世界中[せかいじゅう]で 問題[もんだい]となっている。
+  Kinderarbeit ist weltweit ein Problem.
+
+  新しい児童公園が来月オープンする予定です。
+  新[あたら]しい 児童公園[じどうこうえん]が 来月[らいげつ] オープンする 予定[よてい]です。
+  Ein neuer Kinderspielplatz soll nächsten Monat eröffnet werden.
+
+  児童福祉法は子供たちの権利を守るために制定されました。
+  児童福祉法[じどうふくしほう]は 子供[こども]たちの 権利[けんり]を 守[まも]るために 制定[せいてい]されました。
+  Das Kinderfürsorgegesetz wurde zum Schutz der Rechte von Kindern erlassen.
+
+  この学校では児童の自主性を重視しています。
+  この 学校[がっこう]では 児童[じどう]の 自主性[じしゅせい]を 重視[じゅうし]しています。
+  Diese Schule legt großen Wert auf die Selbstständigkeit der Schüler.
+
+  児童館では放課後に様々な活動が行われています。
+  児童館[じどうかん]では 放課後[ほうかご]に 様々[さまざま]な 活動[かつどう]が 行[おこな]われています。
+  Im Kinder- und Jugendzentrum finden nach der Schule verschiedene Aktivitäten statt.
+
+  児童精神医学の専門家が学校に来て講演をした。
+  児童精神医学[じどうせいしんいがく]の 専門家[せんもんか]が 学校[がっこう]に 来[き]て 講演[こうえん]をした。
+  Ein Experte für Kinderpsychiatrie kam an die Schule und hielt einen Vortrag.
+
+  児童の健全な発達のために、適切な環境づくりが重要だ。
+  児童[じどう]の 健全[けんぜん]な 発達[はったつ]のために、適切[てきせつ]な 環境[かんきょう]づくりが 重要[じゅうよう]だ。
+  Für eine gesunde Entwicklung von Kindern ist es wichtig, eine angemessene Umgebung zu schaffen.
+
+  児童ポルノの所持や製造は厳しく罰せられる。
+  児童[じどう]ポルノの 所持[しょじ]や 製造[せいぞう]は 厳[きび]しく 罰[ばっ]せられる。
+  Der Besitz und die Herstellung von Kinderpornografie werden streng bestraft.
+
+  児童期の経験が大人になってからの性格形成に影響を与えることがある。
+  児童期[じどうき]の 経験[けいけん]が 大人[おとな]になってからの 性格形成[せいかくけいせい]に 影響[えいきょう]を 与[あた]えることがある。
+  Erfahrungen in der Kindheit können die Persönlichkeitsbildung im Erwachsenenalter beeinflussen.
+
+  児童向けの教育番組は楽しみながら学べるように工夫されている。
+  児童向[じどうむ]けの 教育番組[きょういくばんぐみ]は 楽[たの]しみながら 学[まな]べるように 工夫[くふう]されている。
+  Bildungsprogramme für Kinder sind so gestaltet, dass man spielerisch lernen kann.
+
+  児童養護施設では家庭的な環境で子供たちを育てています。
+  児童養護施設[じどうようごしせつ]では 家庭的[かていてき]な 環境[かんきょう]で 子供[こども]たちを 育[そだ]てています。
+  In Kinderheimen werden Kinder in einer familienähnlichen Umgebung großgezogen.
+
+  児童の権利に関する条約は、子供たちの基本的な権利を定めています。
+  児童[じどう]の 権利[けんり]に 関[かん]する 条約[じょうやく]は、子供[こども]たちの 基本的[きほんてき]な 権利[けんり]を 定[さだ]めています。
+  Die Kinderrechtskonvention legt die grundlegenden Rechte von Kindern fest.
+
+  児童指導員として働くには、子供たちへの深い理解と愛情が必要だ。
+  児童指導員[じどうしどういん]として 働[はたら]くには、子供[こども]たちへの 深[ふか]い 理解[りかい]と 愛情[あいじょう]が 必要[ひつよう]だ。
+  Um als Kinderbetreuer zu arbeiten, braucht man ein tiefes Verständnis und Zuneigung für Kinder.
+
+  児童心理学の知識は、教育現場で非常に役立ちます。
+  児童心理学[じどうしんりがく]の 知識[ちしき]は、教育現場[きょういくげんば]で 非常[ひじょう]に 役立[やくだ]ちます。
+  Kenntnisse der Kinderpsychologie sind im Bildungsbereich sehr nützlich.
+
+  児童の健康診断は年に一度、学校で実施されます。
+  児童[じどう]の 健康診断[けんこうしんだん]は 年[ねん]に 一度[いちど]、学校[がっこう]で 実施[じっし]されます。
+  Die Gesundheitsuntersuchung für Schüler wird einmal im Jahr in der Schule durchgeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>In Japan bezieht sich der Begriff 児童 (じどう) im schulischen Kontext speziell auf Grundschüler im Alter von 6 bis 12 Jahren. Im Jugendfürsorgegesetz wird der Begriff breiter gefasst und umfasst Kinder und Jugendliche bis zum vollendeten 17. Lebensjahr.</p>
+  <div class="examples">
+    <div class="jp">児童[じどう]の 権利[けんり]を 守[まも]るために、様々[さまざま]な 法律[ほうりつ]が 制定[せいてい]されています。</div>
+    <div class="de spoiler">Es gibt verschiedene Gesetze zum Schutz der Rechte von Kindern.</div>
+  </div>
+  <p>Der Begriff wird oft in Zusammenhang mit Kinderfürsorge, -erziehung und -schutz verwendet:</p>
+  <div class="examples">
+    <div class="jp">児童福祉[じどうふくし]は 社会[しゃかい]の 重要[じゅうよう]な 課題[かだい]のひとつです。</div>
+    <div class="de spoiler">Kinderfürsorge ist eine der wichtigen Aufgaben der Gesellschaft.</div>
+  </div>

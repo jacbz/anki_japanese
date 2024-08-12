@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 拾わない・拾った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   駐車場で誰かの財布を拾った。
   駐車場[ちゅうしゃじょう]で 誰[だれ]かの 財布[さいふ]を 拾[ひろ]った。
   Ich habe eine Brieftasche von jemandem auf dem Parkplatz gefunden.
+
+  ボールを拾って、投手に返してください。
+  ボールを 拾[ひろ]って、投手[とうしゅ]に 返[かえ]してください。
+  Bitte heb den Ball auf und gib ihn dem Pitcher zurück.
+
+  公園でゴミを拾うボランティア活動に参加しました。
+  公園[こうえん]でゴミを 拾[ひろ]うボランティア 活動[かつどう]に 参加[さんか]しました。
+  Ich habe an einer Freiwilligenaktion teilgenommen, bei der wir Müll im Park aufgesammelt haben.
+
+  秋になると、子供たちは栗を拾いに行きます。
+  秋[あき]になると、子供[こども]たちは 栗[くり]を 拾[ひろ]いに 行[い]きます。
+  Wenn es Herbst wird, gehen die Kinder Kastanien sammeln.
+
+  このマイクは、かすかな音も拾うことができます。
+  このマイクは、かすかな 音[おと]も 拾[ひろ]うことができます。
+  Dieses Mikrofon kann selbst die leisesten Geräusche einfangen.
+
+  道端で迷子の犬を拾って、保護しました。
+  道端[みちばた]で 迷子[まいご]の 犬[いぬ]を 拾[ひろ]って、保護[ほご]しました。
+  Ich habe einen streunenden Hund am Straßenrand aufgelesen und in Obhut genommen.
+
+  深夜、タクシーを拾うのに苦労しました。
+  深夜[しんや]、タクシーを 拾[ひろ]うのに 苦労[くろう]しました。
+  Es war mitten in der Nacht schwierig, ein Taxi zu bekommen.
+
+  彼女は戦争孤児として神父に拾われ、育てられました。
+  彼女[かのじょ]は 戦争孤児[せんそうこじ]として 神父[しんぷ]に 拾[ひろ]われ、育[そだ]てられました。
+  Als Kriegswaise wurde sie von einem Priester aufgenommen und großgezogen.
+
+  新聞から面白い情報だけを拾って読んでいます。
+  新聞[しんぶん]から 面白[おもしろ]い 情報[じょうほう]だけを 拾[ひろ]って 読[よ]んでいます。
+  Ich picke mir nur die interessanten Informationen aus der Zeitung heraus.
+
+  彼は偶然のチャンスを拾い、大成功を収めました。
+  彼[かれ]は 偶然[ぐうぜん]のチャンスを 拾[ひろ]い、大成功[だいせいこう]を 収[おさ]めました。
+  Er ergriff eine unerwartete Chance und hatte großen Erfolg.
+
+  事故で命を落としかけたが、奇跡的に命を拾った。
+  事故[じこ]で 命[いのち]を 落[お]としかけたが、奇跡的[きせきてき]に 命[いのち]を 拾[ひろ]った。
+  Er wäre bei dem Unfall fast gestorben, aber wie durch ein Wunder überlebte er.
+
+  経験豊富な馬は、凸凹の山道を上手に拾いながら進んだ。
+  経験豊富[けいけんほうふ]な 馬[うま]は、凸凹[でこぼこ]の 山道[やまみち]を 上手[じょうず]に 拾[ひろ]いながら 進[すす]んだ。
+  Das erfahrene Pferd bewegte sich geschickt über den unebenen Bergpfad.
+
+  初心者は、一字一字拾いながらゆっくりと文章を読んでいる。
+  初心者[しょしんしゃ]は、一字一字[いちじいちじ] 拾[ひろ]いながらゆっくりと 文章[ぶんしょう]を 読[よ]んでいる。
+  Der Anfänger liest den Text langsam, indem er jedes Schriftzeichen einzeln entziffert.
+
+  彼女は道端に落ちていた1円玉を拾って、幸運のお守りにしています。
+  彼女[かのじょ]は 道端[みちばた]に 落[お]ちていた1円玉[えんだま]を 拾[ひろ]って、幸運[こううん]のお 守[まも]りにしています。
+  Sie hat eine 1-Yen-Münze aufgehoben, die am Straßenrand lag, und benutzt sie nun als Glücksbringer.
+
+  子供たちは浜辺で貝殻を拾って遊んでいます。
+  子供[こども]たちは 浜辺[はまべ]で 貝殻[かいがら]を 拾[ひろ]って 遊[あそ]んでいます。
+  Die Kinder spielen am Strand und sammeln Muscheln.
+
+  彼は路上で拾った古い家具を修理して、素敵なインテリアに仕上げました。
+  彼[かれ]は 路上[ろじょう]で 拾[ひろ]った 古[ふる]い 家具[かぐ]を 修理[しゅうり]して、素敵[すてき]なインテリアに 仕上[しあ]げました。
+  Er reparierte alte Möbel, die er auf der Straße gefunden hatte, und verwandelte sie in schöne Einrichtungsgegenstände.
+
+  警察は、事件現場で重要な証拠を拾い上げました。
+  警察[けいさつ]は、事件現場[じけんげんば]で 重要[じゅうよう]な 証拠[しょうこ]を 拾[ひろ]い 上[あ]げました。
+  Die Polizei hat am Tatort wichtige Beweise sichergestellt.
+
+  オーディションで彼女の才能が拾われ、スターの道を歩み始めました。
+  オーディションで 彼女[かのじょ]の 才能[さいのう]が 拾[ひろ]われ、スターの 道[みち]を 歩[あゆ]み 始[はじ]めました。
+  Ihr Talent wurde beim Vorsprechen entdeckt, und sie begann ihren Weg zum Ruhm.
+
+  彼は運よく最後のチャンスを拾い、試合に勝利しました。
+  彼[かれ]は 運[うん]よく 最後[さいご]のチャンスを 拾[ひろ]い、試合[しあい]に 勝利[しょうり]しました。
+  Er nutzte glücklicherweise die letzte Chance und gewann das Spiel.
+
+  彼女は図書館で古い本を拾い読みしながら、必要な情報を集めています。
+  彼女[かのじょ]は 図書館[としょかん]で 古[ふる]い 本[ほん]を 拾[ひろ]い 読[よ]みしながら、必要[ひつよう]な 情報[じょうほう]を 集[あつ]めています。
+  Sie sammelt die benötigten Informationen, indem sie in der Bibliothek alte Bücher diagonal liest.
+
+  山歩きの際は、足元をよく見て安全な場所を拾いながら進むことが大切です。
+  山歩[やまある]きの 際[さい]は、足元[あしもと]をよく 見[み]て 安全[あんぜん]な 場所[ばしょ]を 拾[ひろ]いながら 進[すす]むことが 大切[たいせつ]です。
+  Beim Bergwandern ist es wichtig, sorgfältig auf den Boden zu achten und vorsichtig voranzugehen, indem man sichere Stellen auswählt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

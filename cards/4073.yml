@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: ^\.
 Register: ''
 Dispersion: '85'
-Ursprung: ''
+Ursprung: engl. jazz
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼はジャズに夢中だ。
   彼[かれ]はジャズに 夢中[むちゅう]だ。
-  Er ist begeistert von Jazz.
+  Er ist verrückt nach Jazz.
+
+  週末にジャズフェスティバルに行く予定です。
+  週末[しゅうまつ]にジャズフェスティバルに 行[い]く 予定[よてい]です。
+  Am Wochenende plane ich, ein Jazz-Festival zu besuchen.
+
+  このジャズバンドの演奏は素晴らしいですね。
+  このジャズバンドの 演奏[えんそう]は 素晴[すば]らしいですね。
+  Die Performance dieser Jazzband ist wirklich großartig.
+
+  彼女はジャズダンスを習っています。
+  彼女[かのじょ]はジャズダンスを 習[なら]っています。
+  Sie lernt Jazztanz.
+
+  有名なジャズ歌手のコンサートに行ってきました。
+  有名[ゆうめい]なジャズ 歌手[かしゅ]のコンサートに 行[い]ってきました。
+  Ich war auf einem Konzert eines berühmten Jazzsängers.
+
+  この街には素敵なジャズ喫茶がたくさんあります。
+  この 街[まち]には 素敵[すてき]なジャズ 喫茶[きっさ]がたくさんあります。
+  In dieser Stadt gibt es viele schöne Jazzcafés.
+
+  彼はジャズピアノの名手として知られています。
+  彼[かれ]はジャズピアノの 名手[めいしゅ]として 知[し]られています。
+  Er ist als Meister des Jazz-Pianos bekannt.
+
+  新しいジャズソングのアルバムを買ったんだ。
+  新[あたら]しいジャズソングのアルバムを 買[か]ったんだ。
+  Ich habe mir ein neues Album mit Jazz-Songs gekauft.
+
+  週末はジャズスポットでライブを楽しむつもりだ。
+  週末[しゅうまつ]はジャズスポットでライブを 楽[たの]しむつもりだ。
+  Am Wochenende habe ich vor, Live-Jazz in einer Jazzkneipe zu genießen.
+
+  ディキシーランドジャズの魅力にハマっています。
+  ディキシーランドジャズの 魅力[みりょく]にハマっています。
+  Ich bin fasziniert von dem Charme des Dixieland-Jazz.
+
+  彼女の歌声はジャズにぴったりだ。
+  彼女[かのじょ]の 歌声[うたごえ]はジャズにぴったりだ。
+  Ihre Stimme passt perfekt zum Jazz.
+
+  このレストランでは毎晩ジャズの生演奏があります。
+  このレストランでは 毎晩[まいばん]ジャズの 生演奏[なまえんそう]があります。
+  In diesem Restaurant gibt es jeden Abend Live-Jazz.
+
+  ジャズの即興演奏に感動しました。
+  ジャズの 即興演奏[そっきょうえんそう]に 感動[かんどう]しました。
+  Ich war beeindruckt von der Jazz-Improvisation.
+
+  彼はジャズの歴史について詳しい。
+  彼[かれ]はジャズの 歴史[れきし]について 詳[くわ]しい。
+  Er kennt sich gut mit der Geschichte des Jazz aus.
+
+  このジャズクラブは地元のミュージシャンに人気があります。
+  このジャズクラブは 地元[じもと]のミュージシャンに 人気[にんき]があります。
+  Dieser Jazzclub ist bei lokalen Musikern beliebt.
+
+  ジャズは20世紀初頭にアメリカで生まれた音楽ジャンルです。
+  ジャズは20世紀[せいき] 初頭[しょとう]にアメリカで 生[う]まれた 音楽[おんがく]ジャンルです。
+  Jazz ist ein Musikgenre, das Anfang des 20. Jahrhunderts in Amerika entstanden ist.
+
+  彼女はジャズの影響を受けた独自のスタイルを持っている。
+  彼女[かのじょ]はジャズの 影響[えいきょう]を 受[う]けた 独自[どくじ]のスタイルを 持[も]っている。
+  Sie hat ihren eigenen Stil, der vom Jazz beeinflusst ist.
+
+  このジャズバーは落ち着いた雰囲気が魅力です。
+  このジャズバーは 落[お]ち 着[つ]いた 雰囲気[ふんいき]が 魅力[みりょく]です。
+  Die gemütliche Atmosphäre ist der Reiz dieser Jazzbar.
+
+  ジャズの魅力は自由な表現にあると思います。
+  ジャズの 魅力[みりょく]は 自由[じゆう]な 表現[ひょうげん]にあると 思[おも]います。
+  Ich denke, der Reiz des Jazz liegt in seiner freien Ausdrucksweise.
+
+  彼はジャズを聴きながら仕事をするのが好きだ。
+  彼[かれ]はジャズを 聴[き]きながら 仕事[しごと]をするのが 好[す]きだ。
+  Er mag es, bei der Arbeit Jazz zu hören.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 3750
 Lemma: 美術館
 Lesung: びじゅつかん
 Alternativschreibweisen: ''
-Definition: Kunstgalerie, Kunstmuseum
+Definition: Kunstmuseum
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^\..
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   先週末、上野の美術館に行った。
-  先週[せんしゅう] 末[まつ]、 上野[うえの]の 美術館[びじゅつかん]に 行[い]った。
-  Ich bin am letzten Wochenende zu einer Kunstgalerie in Ueno gegangen.
+  先週末[せんしゅうまつ]、上野[うえの]の 美術館[びじゅつかん]に 行[い]った。
+  Am letzten Wochenende bin ich ins Kunstmuseum in Ueno gegangen.
+
+  この美術館は現代アートの展示で有名です。
+  この 美術館[びじゅつかん]は 現代[げんだい]アートの 展示[てんじ]で 有名[ゆうめい]です。
+  Dieses Kunstmuseum ist für seine Ausstellungen zeitgenössischer Kunst bekannt.
+
+  美術館学を専攻している学生たちが見学に来ました。
+  美術館学[びじゅつかんがく]を 専攻[せんこう]している 学生[がくせい]たちが 見学[けんがく]に 来[き]ました。
+  Studenten, die Museologie studieren, kamen zu einer Besichtigung.
+
+  美術史美術館では、古代から現代までの作品が展示されています。
+  美術史美術館[びじゅつしびじゅつかん]では、古代[こだい]から 現代[げんだい]までの 作品[さくひん]が 展示[てんじ]されています。
+  Im Kunstgeschichtsmuseum werden Werke von der Antike bis zur Gegenwart ausgestellt.
+
+  ルーヴル美術館はパリで最も人気のある観光スポットの一つだ。
+  ルーヴル 美術館[びじゅつかん]はパリで 最[もっと]も 人気[にんき]のある 観光[かんこう]スポットの 一[ひと]つだ。
+  Das Louvre-Museum ist eine der beliebtesten Touristenattraktionen in Paris.
+
+  東京国立近代美術館で新しい企画展が始まるらしい。
+  東京国立近代美術館[とうきょうこくりつきんだいびじゅつかん]で 新[あたら]しい 企画展[きかくてん]が 始[はじ]まるらしい。
+  Es scheint, dass im Staatlichen Museum für Moderne Kunst in Tokio eine neue Sonderausstellung beginnt.
+
+  道は緩やかなカーブを描いており、木々が途切れたところには小さな美術館やレストランが並んでいた。
+  道[みち]は 緩[ゆる]やかなカーブを 描[えが]いており、木々[きぎ]が 途切[とぎ]れたところには 小[ちい]さな 美術館[びじゅつかん]やレストランが 並[なら]んでいた。
+  Die Straße beschrieb eine sanfte Kurve, und dort, wo die Bäume endeten, reihten sich kleine Kunstmuseen und Restaurants aneinander.
+
+  美術館の入場料は学生割引がありますか？
+  美術館[びじゅつかん]の 入場料[にゅうじょうりょう]は 学生割引[がくせいわりびき]がありますか？
+  Gibt es einen Studentenrabatt für den Eintritt ins Kunstmuseum?
+
+  週末は美術館に行って、ゆっくり絵画を鑑賞したい。
+  週末[しゅうまつ]は 美術館[びじゅつかん]に 行[い]って、ゆっくり 絵画[かいが]を 鑑賞[かんしょう]したい。
+  Am Wochenende möchte ich ins Kunstmuseum gehen und in Ruhe die Gemälde betrachten.
+
+  この美術館は有名な彫刻家の作品を多数所蔵している。
+  この 美術館[びじゅつかん]は 有名[ゆうめい]な 彫刻家[ちょうこくか]の 作品[さくひん]を 多数[たすう] 所蔵[しょぞう]している。
+  Dieses Kunstmuseum besitzt zahlreiche Werke berühmter Bildhauer.
+
+  美術館の館長は来月退任するそうだ。
+  美術館[びじゅつかん]の 館長[かんちょう]は 来月[らいげつ] 退任[たいにん]するそうだ。
+  Der Direktor des Kunstmuseums wird angeblich nächsten Monat zurücktreten.
+
+  美術館では写真撮影が禁止されていることが多い。
+  美術館[びじゅつかん]では 写真撮影[しゃしんさつえい]が 禁止[きんし]されていることが 多[おお]い。
+  In Kunstmuseen ist das Fotografieren oft verboten.
+
+  子供向けのワークショップを開催している美術館もある。
+  子供向[こどもむ]けのワークショップを 開催[かいさい]している 美術館[びじゅつかん]もある。
+  Es gibt auch Kunstmuseen, die Workshops für Kinder anbieten.
+
+  美術館の壁に掛けられた絵画は全て本物なのか、レプリカなのか気になる。
+  美術館[びじゅつかん]の 壁[かべ]に 掛[か]けられた 絵画[かいが]は 全[すべ]て 本物[ほんもの]なのか、レプリカなのか 気[き]になる。
+  Ich frage mich, ob alle an den Wänden des Kunstmuseums hängenden Gemälde Originale oder Repliken sind.
+
+  美術館の建築自体が芸術作品のように美しい。
+  美術館[びじゅつかん]の 建築[けんちく]自体[じたい]が 芸術作品[げいじゅつさくひん]のように 美[うつく]しい。
+  Die Architektur des Kunstmuseums selbst ist so schön wie ein Kunstwerk.
+
+  美術館のガイドツアーに参加すると、作品についての詳しい説明が聞ける。
+  美術館[びじゅつかん]のガイドツアーに 参加[さんか]すると、作品[さくひん]についての 詳[くわ]しい 説明[せつめい]が 聞[き]ける。
+  Wenn man an einer Führung im Kunstmuseum teilnimmt, kann man detaillierte Erklärungen zu den Werken hören.
+
+  美術館の周辺には、おしゃれなカフェが多く点在している。
+  美術館[びじゅつかん]の 周辺[しゅうへん]には、おしゃれなカフェが 多[おお]く 点在[てんざい]している。
+  In der Umgebung des Kunstmuseums gibt es viele stilvolle Cafés.
+
+  美術館では静かに歩き、他の来館者の鑑賞を妨げないようにしましょう。
+  美術館[びじゅつかん]では 静[しず]かに 歩[ある]き、他[ほか]の 来館者[らいかんしゃ]の 鑑賞[かんしょう]を 妨[さまた]げないようにしましょう。
+  Gehen Sie im Kunstmuseum leise und stören Sie nicht die Betrachtung anderer Besucher.
+
+  美術館の企画展のチケットをオンラインで予約した。
+  美術館[びじゅつかん]の 企画展[きかくてん]のチケットをオンラインで 予約[よやく]した。
+  Ich habe online Tickets für eine Sonderausstellung im Kunstmuseum reserviert.
+
+  美術館の常設展示は定期的に展示替えが行われる。
+  美術館[びじゅつかん]の 常設展示[じょうせつてんじ]は 定期的[ていきてき]に 展示替[てんじが]えが 行[おこな]われる。
+  Die Dauerausstellung des Kunstmuseums wird regelmäßig umgestaltet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

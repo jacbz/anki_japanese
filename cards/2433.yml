@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \...
 Register: ''
 Dispersion: '70'
-Ursprung: ''
+Ursprung: engl. robot
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼はロボットの開発をしている。
   彼[かれ]はロボットの 開発[かいはつ]をしている。
-  Er arbeitet an der Entwicklung von Robotern.
+  Er entwickelt Roboter.
+
+  最新のロボットアームは非常に精密な動きが可能だ。
+  最新[さいしん]のロボットアームは 非常[ひじょう]に 精密[せいみつ]な 動[うご]きが 可能[かのう]だ。
+  Der neueste Roboterarm ermöglicht äußerst präzise Bewegungen.
+
+  ロボット工学の分野で日本は世界をリードしている。
+  ロボット 工学[こうがく]の 分野[ぶんや]で 日本[にほん]は 世界[せかい]をリードしている。
+  Japan ist führend auf dem Gebiet der Robotertechnik.
+
+  ロボット手術は従来の手術より精密で侵襲性が低い。
+  ロボット 手術[しゅじゅつ]は 従来[じゅうらい]の 手術[しゅじゅつ]より 精密[せいみつ]で 侵襲性[しんしゅうせい]が 低[ひく]い。
+  Robotergestützte Operationen sind präziser und weniger invasiv als herkömmliche Operationen.
+
+  介護ロボットの導入で高齢者介護の負担が軽減される。
+  介護[かいご]ロボットの 導入[どうにゅう]で 高齢者[こうれいしゃ] 介護[かいご]の 負担[ふたん]が 軽減[けいげん]される。
+  Die Einführung von Pflegerobotern reduziert die Belastung bei der Altenpflege.
+
+  工業用ロボットの使用で生産効率が大幅に向上した。
+  工業用[こうぎょうよう]ロボットの 使用[しよう]で 生産[せいさん] 効率[こうりつ]が 大幅[おおはば]に 向上[こうじょう]した。
+  Durch den Einsatz von Industrierobotern hat sich die Produktionseffizienz erheblich verbessert.
+
+  新しい掃除ロボットを買ったら、部屋の掃除が楽になった。
+  新[あたら]しい 掃除[そうじ]ロボットを 買[か]ったら、部屋[へや]の 掃除[そうじ]が 楽[らく]になった。
+  Nachdem ich einen neuen Putzroboter gekauft habe, ist das Zimmerputzen einfacher geworden.
+
+  人間の形をしたロボットは、人々に親しみやすさを感じさせる。
+  人間[にんげん]の 形[かたち]をしたロボットは、人々[ひとびと]に 親[した]しみやすさを 感[かん]じさせる。
+  Roboter in Menschengestalt lassen Menschen ein Gefühl der Vertrautheit empfinden.
+
+  彼女はロボットのように感情なく仕事をこなしていく。
+  彼女[かのじょ]はロボットのように 感情[かんじょう]なく 仕事[しごと]をこなしていく。
+  Sie erledigt ihre Arbeit gefühllos wie ein Roboter.
+
+  この工場では、ロボットが24時間稼働している。
+  この 工場[こうじょう]では、ロボットが24時間[じかん] 稼働[かどう]している。
+  In dieser Fabrik sind Roboter rund um die Uhr in Betrieb.
+
+  ロボットの普及により、多くの単純労働が自動化された。
+  ロボットの 普及[ふきゅう]により、 多[おお]くの 単純[たんじゅん] 労働[ろうどう]が 自動化[じどうか]された。
+  Durch die Verbreitung von Robotern wurden viele einfache Arbeiten automatisiert.
+
+  最新のロボット技術を駆使して、難しい手術を成功させた。
+  最新[さいしん]のロボット 技術[ぎじゅつ]を 駆使[くし]して、 難[むずか]しい 手術[しゅじゅつ]を 成功[せいこう]させた。
+  Mithilfe modernster Robotertechnologie wurde eine schwierige Operation erfolgreich durchgeführt.
+
+  ロボットの動きは人間よりも正確で、疲れを知らない。
+  ロボットの 動[うご]きは 人間[にんげん]よりも 正確[せいかく]で、疲[つか]れを 知[し]らない。
+  Die Bewegungen von Robotern sind präziser als die von Menschen und kennen keine Ermüdung.
+
+  彼はロボットのような冷たい態度で人と接する。
+  彼[かれ]はロボットのような 冷[つめ]たい 態度[たいど]で 人[ひと]と 接[せっ]する。
+  Er geht mit einer roboterhaften, kalten Haltung mit Menschen um.
+
+  このロボットは音声コマンドで操作できます。
+  このロボットは 音声[おんせい]コマンドで 操作[そうさ]できます。
+  Dieser Roboter kann durch Sprachbefehle gesteuert werden.
+
+  ロボットによる自動化で、人間の労働環境が改善された。
+  ロボットによる 自動化[じどうか]で、人間[にんげん]の 労働[ろうどう] 環境[かんきょう]が 改善[かいぜん]された。
+  Durch die Automatisierung mit Robotern hat sich die Arbeitsumgebung für Menschen verbessert.
+
+  彼女は感情を表に出さず、まるでロボットのようだ。
+  彼女[かのじょ]は 感情[かんじょう]を 表[おもて]に 出[だ]さず、まるでロボットのようだ。
+  Sie zeigt keine Emotionen und ist wie ein Roboter.
+
+  ロボットの開発には、多くの分野の専門知識が必要だ。
+  ロボットの 開発[かいはつ]には、多[おお]くの 分野[ぶんや]の 専門[せんもん] 知識[ちしき]が 必要[ひつよう]だ。
+  Für die Entwicklung von Robotern ist Fachwissen aus vielen Bereichen erforderlich.
+
+  未来の戦場では、ロボット兵士が活躍するかもしれない。
+  未来[みらい]の 戦場[せんじょう]では、ロボット 兵士[へいし]が 活躍[かつやく]するかもしれない。
+  Auf den Schlachtfeldern der Zukunft könnten Robotersoldaten zum Einsatz kommen.
+
+  ロボットの倫理的問題について、社会で議論が必要だ。
+  ロボットの 倫理的[りんりてき] 問題[もんだい]について、社会[しゃかい]で 議論[ぎろん]が 必要[ひつよう]だ。
+  Es ist notwendig, in der Gesellschaft über die ethischen Probleme von Robotern zu diskutieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

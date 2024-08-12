@@ -4,11 +4,11 @@ Lesung: ''
 Alternativschreibweisen: ''
 Definition: Notizbuch
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vt
+Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '95'
-Ursprung: ''
+Ursprung: engl. note
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   ノートを持ってくるように。
   ノートを 持[も]ってくるように。
-  Stelle sicher, dass du ein Notizbuch mitbringst.
+  Bring bitte dein Notizbuch mit.
+
+  講義のノートを取るのは大切です。
+  講義[こうぎ]のノートを 取[と]るのは 大切[たいせつ]です。
+  Es ist wichtig, sich Notizen während der Vorlesung zu machen.
+
+  彼女は丁寧にノートを取っていた。
+  彼女[かのじょ]は 丁寧[ていねい]にノートを 取[と]っていた。
+  Sie machte sich sorgfältig Notizen.
+
+  数学のノートを見せてくれませんか。
+  数学[すうがく]のノートを 見[み]せてくれませんか。
+  Könntest du mir bitte deine Mathematik-Notizen zeigen?
+
+  ノートパソコンを持ち歩くのが便利です。
+  ノートパソコンを 持[も]ち 歩[ある]くのが 便利[べんり]です。
+  Es ist praktisch, einen Laptop mit sich zu tragen.
+
+  大学ノートを買わなきゃ。
+  大学[だいがく]ノートを 買[か]わなきゃ。
+  Ich muss noch ein Collegeheft kaufen.
+
+  漢字ノートで練習するのが効果的だよ。
+  漢字[かんじ]ノートで 練習[れんしゅう]するのが 効果的[こうかてき]だよ。
+  Es ist effektiv, mit einem Kanji-Übungsheft zu üben.
+
+  彼はノートに何かを真剣に書き込んでいた。
+  彼[かれ]はノートに 何[なに]かを 真剣[しんけん]に 書[か]き 込[こ]んでいた。
+  Er schrieb konzentriert etwas in sein Notizbuch.
+
+  この本にはたくさんのフットノートがあります。
+  この 本[ほん]にはたくさんのフットノートがあります。
+  Dieses Buch enthält viele Fußnoten.
+
+  音楽の授業でノートを読むのが難しかった。
+  音楽[おんがく]の 授業[じゅぎょう]でノートを 読[よ]むのが 難[むずか]しかった。
+  Es war schwierig, die Noten im Musikunterricht zu lesen.
+
+  ノートを取るのが上手になりたいです。
+  ノートを 取[と]るのが 上手[じょうず]になりたいです。
+  Ich möchte besser im Notizenmachen werden.
+
+  彼女はノートテーカーとして働いています。
+  彼女[かのじょ]はノートテーカーとして 働[はたら]いています。
+  Sie arbeitet als Mitschreiberin für Hörgeschädigte.
+
+  講義のノートを整理しておこう。
+  講義[こうぎ]のノートを 整理[せいり]しておこう。
+  Lass uns die Vorlesungsnotizen ordnen.
+
+  ノートするのを忘れずに。
+  ノートするのを 忘[わす]れずに。
+  Vergiss nicht, dir Notizen zu machen.
+
+  このノートブックは丈夫で使いやすいです。
+  このノートブックは 丈夫[じょうぶ]で 使[つか]いやすいです。
+  Dieses Notizbuch ist robust und einfach zu benutzen.
+
+  ノートを取るときは要点をつかむことが大切だ。
+  ノートを 取[と]るときは 要点[ようてん]をつかむことが 大切[たいせつ]だ。
+  Beim Notizenmachen ist es wichtig, die Kernpunkte zu erfassen.
+
+  彼女はノートを見ながら発表した。
+  彼女[かのじょ]はノートを 見[み]ながら 発表[はっぴょう]した。
+  Sie hielt ihren Vortrag, während sie in ihre Notizen schaute.
+
+  ノートを取るのが苦手な人もいるよね。
+  ノートを 取[と]るのが 苦手[にがて]な 人[ひと]もいるよね。
+  Es gibt auch Leute, die nicht gut im Notizenmachen sind, nicht wahr?
+
+  このノートパソコンはバッテリーの持ちが良いです。
+  このノートパソコンはバッテリーの 持[も]ちが 良[よ]いです。
+  Dieser Laptop hat eine gute Akkulaufzeit.
+
+  ノートの余白に大切なことを書き込んでおいた。
+  ノートの 余白[よはく]に 大切[たいせつ]なことを 書[か]き 込[こ]んでおいた。
+  Ich habe wichtige Dinge am Rand meines Notizbuchs notiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

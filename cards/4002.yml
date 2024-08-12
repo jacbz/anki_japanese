@@ -1,8 +1,8 @@
 Rang: 4002
 Lemma: 故郷
 Lesung: ふるさと
-Alternativschreibweisen: ''
-Definition: Heimatstadt
+Alternativschreibweisen: 古里・故里
+Definition: Heimat
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\..
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   故郷を離れるのは寂しい。
-  故郷[こきょう]を 離[はな]れるのは 寂[さび]しい。
-  Ich bin traurig, meine Heimatstadt zu verlassen.
+  故郷[ふるさと]を 離[はな]れるのは 寂[さび]しい。
+  Es ist traurig, die Heimat zu verlassen.
+
+  彼は故郷に帰るのを楽しみにしている。
+  彼[かれ]は 故郷[ふるさと]に 帰[かえ]るのを 楽[たの]しみにしている。
+  Er freut sich darauf, in seine Heimat zurückzukehren.
+
+  第二の故郷と呼べるほど、この町が好きになりました。
+  第二[だいに]の 故郷[ふるさと]と 呼[よ]べるほど、この 町[まち]が 好[す]きになりました。
+  Ich habe diese Stadt so lieb gewonnen, dass ich sie als meine zweite Heimat bezeichnen kann.
+
+  故郷の味が恋しくなることがある。
+  故郷[ふるさと]の 味[あじ]が 恋[こい]しくなることがある。
+  Manchmal sehne ich mich nach dem Geschmack meiner Heimat.
+
+  故郷の山々を見ると、懐かしい気持ちになります。
+  故郷[ふるさと]の 山々[やまやま]を 見[み]ると、懐[なつ]かしい 気持[きも]ちになります。
+  Wenn ich die Berge meiner Heimat sehe, werde ich von Nostalgie erfüllt.
+
+  心の故郷は、いつも私の中にあります。
+  心[こころ]の 故郷[ふるさと]は、いつも 私[わたし]の 中[なか]にあります。
+  Meine geistige Heimat ist immer in mir.
+
+  この歌は私の故郷で生まれたものです。
+  この 歌[うた]は 私[わたし]の 故郷[ふるさと]で 生[う]まれたものです。
+  Dieses Lied stammt aus meiner Heimat.
+
+  故郷の友人たちと再会できて嬉しかった。
+  故郷[ふるさと]の 友人[ゆうじん]たちと 再会[さいかい]できて 嬉[うれ]しかった。
+  Ich war froh, meine Freunde aus der Heimat wiederzusehen.
+
+  故郷を離れて初めて、その大切さに気づいた。
+  故郷[ふるさと]を 離[はな]れて 初[はじ]めて、その 大切[たいせつ]さに 気[き]づいた。
+  Erst als ich meine Heimat verließ, wurde mir ihre Bedeutung bewusst.
+
+  長年の夢だった故郷での起業を実現させた。
+  長年[ながねん]の 夢[ゆめ]だった 故郷[ふるさと]での 起業[きぎょう]を 実現[じつげん]させた。
+  Ich habe meinen langjährigen Traum verwirklicht, in meiner Heimat ein Unternehmen zu gründen.
+
+  故郷の方言を聞くと、なぜか安心する。
+  故郷[ふるさと]の 方言[ほうげん]を 聞[き]くと、なぜか 安心[あんしん]する。
+  Wenn ich den Dialekt meiner Heimat höre, fühle ich mich aus irgendeinem Grund beruhigt.
+
+  故郷の景色を描いた絵を、リビングに飾っています。
+  故郷[ふるさと]の 景色[けしき]を 描[えが]いた 絵[え]を、リビングに 飾[かざ]っています。
+  Ich habe ein Bild mit der Landschaft meiner Heimat im Wohnzimmer aufgehängt.
+
+  故郷の特産品を友達にお土産として贈った。
+  故郷[ふるさと]の 特産品[とくさんひん]を 友達[ともだち]にお 土産[みやげ]として 贈[おく]った。
+  Ich habe meinen Freunden lokale Spezialitäten aus meiner Heimat als Souvenir geschenkt.
+
+  故郷の発展のために、寄付をすることにしました。
+  故郷[ふるさと]の 発展[はってん]のために、寄付[きふ]をすることにしました。
+  Ich habe beschlossen, für die Entwicklung meiner Heimat zu spenden.
+
+  故郷の祭りに参加するため、休暇を取りました。
+  故郷[ふるさと]の 祭[まつ]りに 参加[さんか]するため、休暇[きゅうか]を 取[と]りました。
+  Ich habe Urlaub genommen, um am Fest in meiner Heimat teilzunehmen.
+
+  故郷の学校で教師として働くのが、私の夢です。
+  故郷[ふるさと]の 学校[がっこう]で 教師[きょうし]として 働[はたら]くのが、私[わたし]の 夢[ゆめ]です。
+  Es ist mein Traum, als Lehrer an einer Schule in meiner Heimat zu arbeiten.
+
+  故郷の自然を守るためのボランティア活動に参加しています。
+  故郷[ふるさと]の 自然[しぜん]を 守[まも]るためのボランティア 活動[かつどう]に 参加[さんか]しています。
+  Ich nehme an Freiwilligenaktivitäten teil, um die Natur meiner Heimat zu schützen.
+
+  故郷の料理を学ぶために、地元の料理教室に通っています。
+  故郷[ふるさと]の 料理[りょうり]を 学[まな]ぶために、地元[じもと]の 料理教室[りょうりきょうしつ]に 通[かよ]っています。
+  Ich besuche einen lokalen Kochkurs, um die Küche meiner Heimat zu erlernen.
+
+  故郷の伝統工芸を次の世代に伝えることが大切だと思います。
+  故郷[ふるさと]の 伝統工芸[でんとうこうげい]を 次[つぎ]の 世代[せだい]に 伝[つた]えることが 大切[たいせつ]だと 思[おも]います。
+  Ich denke, es ist wichtig, das traditionelle Handwerk unserer Heimat an die nächste Generation weiterzugeben.
+
+  いつかは父親の故郷を見ることができればと思った。
+  いつかは 父親[ちちおや]の 故郷[ふるさと]を 見[み]ることができればと 思[おも]った。
+  Ich wünschte, ich könnte eines Tages die Heimat meines Vaters sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 2083
 Lemma: 危ない
 Lesung: あぶない
 Alternativschreibweisen: ''
-Definition: gefährlich, riskant; fragwürdig
+Definition: gefährlich; kritisch; unsicher
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: .^\.
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そこに一人で行くのは危ないよ。
-  そこに一人で 行[い]くのは 危[あぶ]ないよ。
-  Es ist gefährlich, alleine dorthin zu gehen.
+  そこに 一人[ひとり]で 行[い]くのは 危[あぶ]ないよ。
+  Es ist gefährlich, dort alleine hinzugehen.
+
+  危ない事をするのはやめなさい。
+  危[あぶ]ない 事[こと]をするのはやめなさい。
+  Hör auf, gefährliche Dinge zu tun.
+
+  この橋を渡るのは危ない気がする。
+  この 橋[はし]を 渡[わた]るのは 危[あぶ]ない 気[き]がする。
+  Ich habe das Gefühl, dass es gefährlich ist, diese Brücke zu überqueren.
+
+  危ない！車が来るよ！
+  危[あぶ]ない！車[くるま]が 来[く]るよ！
+  Vorsicht! Da kommt ein Auto!
+
+  彼の健康状態は危ないと医者が言っている。
+  彼[かれ]の 健康状態[けんこうじょうたい]は 危[あぶ]ないと 医者[いしゃ]が 言[い]っている。
+  Der Arzt sagt, sein Gesundheitszustand sei kritisch.
+
+  危ない世渡りをしているね。
+  危[あぶ]ない 世渡[よわた]りをしているね。
+  Du führst wirklich ein gefährliches Leben.
+
+  この仕事は危ない綱渡りのようなものだ。
+  この 仕事[しごと]は 危[あぶ]ない 綱渡[つなわた]りのようなものだ。
+  Diese Arbeit ist wie ein gefährlicher Seiltanz.
+
+  すると突然大きな声で「危ない！」と叫んだ人がいた。
+  すると 突然[とつぜん] 大[おお]きな 声[こえ]で「危[あぶ]ない！」と 叫[さけ]んだ 人[ひと]がいた。
+  Plötzlich rief jemand mit lauter Stimme: "Achtung!"
+
+  この薬は危ないから子供の手の届かないところに置いてください。
+  この 薬[くすり]は 危[あぶ]ないから 子供[こども]の 手[て]の 届[とど]かないところに 置[お]いてください。
+  Bitte bewahren Sie dieses Medikament außerhalb der Reichweite von Kindern auf, da es gefährlich ist.
+
+  彼女の命が危ないので、すぐに手術が必要です。
+  彼女[かのじょ]の 命[いのち]が 危[あぶ]ないので、すぐに 手術[しゅじゅつ]が 必要[ひつよう]です。
+  Ihr Leben ist in Gefahr, deshalb ist sofort eine Operation nötig.
+
+  「私は騙されない」と思うのが一番危ない！
+  「私[わたし]は 騙[だま]されない」と 思[おも]うのが 一番[いちばん] 危[あぶ]ない！
+  Zu denken "Ich werde nicht reingelegt" ist am gefährlichsten!
+
+  彼の約束は危ないから、あまり期待しない方がいいよ。
+  彼[かれ]の 約束[やくそく]は 危[あぶ]ないから、あまり 期待[きたい]しない 方[ほう]がいいよ。
+  Seine Versprechen sind unzuverlässig, also erwarte lieber nicht zu viel.
+
+  今日の天気は危ない空模様だね。
+  今日[きょう]の 天気[てんき]は 危[あぶ]ない 空模様[そらもよう]だね。
+  Das Wetter sieht heute bedenklich aus.
+
+  彼女は危ない足取りで歩いている。
+  彼女[かのじょ]は 危[あぶ]ない 足取[あしど]りで 歩[ある]いている。
+  Sie geht mit unsicheren Schritten.
+
+  昨日の試合は危なかったけど、何とか勝てたね。
+  昨日[きのう]の 試合[しあい]は 危[あぶ]なかったけど、何[なん]とか 勝[か]てたね。
+  Das Spiel gestern war knapp, aber wir haben es irgendwie geschafft zu gewinnen.
+
+  危ないところを助かって、本当に良かった。
+  危[あぶ]ないところを 助[たす]かって、本当[ほんとう]に 良[よ]かった。
+  Es ist wirklich gut, dass du aus dieser gefährlichen Situation gerettet wurdest.
+
+  危ない橋を渡るのは止めた方がいいですよ。
+  危[あぶ]ない 橋[はし]を 渡[わた]るのは 止[や]めた 方[ほう]がいいですよ。
+  Sie sollten davon absehen, etwas Riskantes zu unternehmen.
+
+  この会社の経営状態は危ないと噂されている。
+  この 会社[かいしゃ]の 経営状態[けいえいじょうたい]は 危[あぶ]ないと 噂[うわさ]されている。
+  Es wird gemunkelt, dass die finanzielle Lage dieses Unternehmens bedenklich ist.
+
+  危ない場所には近づかないでください。
+  危[あぶ]ない 場所[ばしょ]には 近[ちか]づかないでください。
+  Bitte nähern Sie sich keinen gefährlichen Orten.
+
+  彼の運転は危ないから、乗りたくないな。
+  彼[かれ]の 運転[うんてん]は 危[あぶ]ないから、乗[の]りたくないな。
+  Seine Fahrweise ist gefährlich, also möchte ich nicht mitfahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

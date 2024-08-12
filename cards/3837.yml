@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: ^\.
 Register: ''
 Dispersion: '71'
-Ursprung: ''
+Ursprung: engl. shirt
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   みんな白い長袖のシャツを着ている。
   みんな 白[しろ]い 長袖[ながそで]のシャツを 着[き]ている。
   Alle tragen weiße langärmelige Hemden.
+
+  彼はいつもチェックシャツを着ている。
+  彼[かれ]はいつもチェックシャツを 着[き]ている。
+  Er trägt immer karierte Hemden.
+
+  暑い日は半袖シャツが快適だ。
+  暑[あつ]い 日[ひ]は 半袖[はんそで]シャツが 快適[かいてき]だ。
+  An heißen Tagen sind Kurzarmhemden bequem.
+
+  シルクシャツは高級感があるね。
+  シルクシャツは 高級感[こうきゅうかん]があるね。
+  Seidenhemde haben wirklich etwas Edles.
+
+  夏はTシャツを着ることが多いです。
+  夏[なつ]はTシャツを 着[き]ることが 多[おお]いです。
+  Im Sommer trage ich oft T-Shirts.
+
+  シャツのボタンが取れてしまった。
+  シャツのボタンが 取[と]れてしまった。
+  Ein Knopf ist von meinem Hemd abgegangen.
+
+  シャツの裾をズボンの中に入れてください。
+  シャツの 裾[すそ]をズボンの 中[なか]に 入[い]れてください。
+  Bitte stecken Sie Ihr Hemd in die Hose.
+
+  暑くてシャツ姿で外出した。
+  暑[あつ]くてシャツ 姿[すがた]で 外出[がいしゅつ]した。
+  Es war so heiß, dass ich nur im Hemd nach draußen ging.
+
+  新しいシャツブラウスを買いました。
+  新[あたら]しいシャツブラウスを 買[か]いました。
+  Ich habe mir eine neue Hemdbluse gekauft.
+
+  このシャツドレスはとてもおしゃれですね。
+  このシャツドレスはとても おしゃれですね。
+  Dieses Hemdblusenkleid ist sehr schick, nicht wahr?
+
+  シャツ襟のアイロンがけは難しい。
+  シャツ 襟[えり]のアイロンがけは 難[むずか]しい。
+  Es ist schwierig, den Hemdkragen zu bügeln.
+
+  このシャツ地は肌触りがいいです。
+  このシャツ 地[じ]は 肌触[はだざわ]りがいいです。
+  Dieser Hemdenstoff fühlt sich auf der Haut gut an.
+
+  夏は網シャツを着ると涼しいよ。
+  夏[なつ]は 網[あみ]シャツを 着[き]ると 涼[すず]しいよ。
+  Im Sommer ist es kühl, wenn man ein Netzhemd trägt.
+
+  インナーシャツを着ると体が温かく保てます。
+  インナーシャツを 着[き]ると 体[からだ]が 温[あたた]かく 保[たも]てます。
+  Wenn man ein Unterziehshirt trägt, bleibt der Körper warm.
+
+  彼女はいつも黒いシャツを着ている。
+  彼女[かのじょ]はいつも 黒[くろ]いシャツを 着[き]ている。
+  Sie trägt immer schwarze Hemden.
+
+  このシャツカラーは少し小さいようです。
+  このシャツカラーは 少[すこ]し 小[ちい]さいようです。
+  Dieser Hemdkragen scheint etwas zu eng zu sein.
+
+  羊博士はグレーのシャツを着ていた。
+  羊博士[ひつじはかせ]はグレーのシャツを 着[き]ていた。
+  Der Schafprofessor trug ein graues Hemd.
+
+  シャツのサイズが合わなくて困っています。
+  シャツのサイズが 合[あ]わなくて 困[こま]っています。
+  Ich habe Probleme, weil die Größe des Hemdes nicht passt.
+
+  彼はシャツを着たまま泳いだ。
+  彼[かれ]はシャツを 着[き]たまま 泳[およ]いだ。
+  Er schwamm mit seinem Hemd an.
+
+  シャツの袖を肘まで折り上げた。
+  シャツの 袖[そで]を 肘[ひじ]まで 折[お]り 上[あ]げた。
+  Ich krempelte die Ärmel meines Hemdes bis zu den Ellbogen hoch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

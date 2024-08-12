@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そのパソコンは修理が必要だ。
-  そのパソコンは 修理[しゅうり]が 必要[ひつよう]だ。
-  Der PC muss repariert werden.
+  その パソコンは 修理[しゅうり]が 必要[ひつよう]だ。
+  Dieser Computer muss repariert werden.
+
+  修理代が予想以上に高くついてしまった。
+  修理代[しゅうりだい]が 予想以上[よそういじょう]に 高[たか]くついてしまった。
+  Die Reparaturkosten waren höher als erwartet.
+
+  彼は優秀な修理工として知られている。
+  彼[かれ]は 優秀[ゆうしゅう]な 修理工[しゅうりこう]として 知[し]られている。
+  Er ist als ausgezeichneter Mechaniker bekannt.
+
+  この修理工場は24時間営業しています。
+  この 修理工場[しゅうりこうじょう]は24時間[じかん] 営業[えいぎょう]しています。
+  Diese Reparaturwerkstatt ist rund um die Uhr geöffnet.
+
+  修理サービスの質が良くて、いつもここを利用しています。
+  修理[しゅうり]サービスの 質[しつ]が 良[よ]くて、いつもここを 利用[りよう]しています。
+  Ich nutze immer diesen Reparaturdienst, weil die Qualität des Service so gut ist.
+
+  近所の修理屋さんは親切で頼りになります。
+  近所[きんじょ]の 修理屋[しゅうりや]さんは 親切[しんせつ]で 頼[たよ]りになります。
+  Der Reparaturdienst in der Nachbarschaft ist freundlich und zuverlässig.
+
+  自動車修理の専門店を探しています。
+  自動車修理[じどうしゃしゅうり]の 専門店[せんもんてん]を 探[さが]しています。
+  Ich suche nach einem Fachgeschäft für Autoreparaturen.
+
+  実費修理で済むなら、それほど高くならないはずだ。
+  実費修理[じっぴしゅうり]で 済[す]むなら、それほど 高[たか]くならないはずだ。
+  Wenn es nur eine Reparatur zum Selbstkostenpreis ist, sollte es nicht so teuer werden.
+
+  応急修理をして、とりあえず使えるようにしました。
+  応急修理[おうきゅうしゅうり]をして、とりあえず 使[つか]えるようにしました。
+  Ich habe eine Notreparatur durchgeführt, damit es vorerst benutzbar ist.
+
+  申し訳ありませんが、ただいま修理中でございます。
+  申[もう]し 訳[わけ]ありませんが、ただいま 修理中[しゅうりちゅう]でございます。
+  Es tut mir leid, aber es wird gerade repariert.
+
+  明日、車を修理に出さなければならない。
+  明日[あした]、車[くるま]を 修理[しゅうり]に 出[だ]さなければならない。
+  Ich muss morgen mein Auto zur Reparatur bringen.
+
+  この靴はもう修理の利かない状態です。
+  この 靴[くつ]はもう 修理[しゅうり]の 利[き]かない 状態[じょうたい]です。
+  Diese Schuhe sind in einem Zustand, in dem sie nicht mehr repariert werden können.
+
+  残念ですが、この機械は修理不能です。
+  残念[ざんねん]ですが、この 機械[きかい]は 修理不能[しゅうりふのう]です。
+  Leider ist diese Maschine irreparabel.
+
+  機関士がいないので、自分で修理をしなければならなかった。
+  機関士[きかんし]がいないので、自分[じぶん]で 修理[しゅうり]をしなければならなかった。
+  Da kein Mechaniker da war, musste ich die Reparatur selbst durchführen.
+
+  この古い建物は修理の仕様がないほど傷んでいる。
+  この 古[ふる]い 建物[たてもの]は 修理[しゅうり]の 仕様[しよう]がないほど 傷[いた]んでいる。
+  Dieses alte Gebäude ist so beschädigt, dass es sich nicht mehr zu reparieren lohnt.
+
+  彼は車を上手に修理する方法を知っている。
+  彼[かれ]は 車[くるま]を 上手[じょうず]に 修理[しゅうり]する 方法[ほうほう]を 知[し]っている。
+  Er weiß, wie man ein Auto geschickt repariert.
+
+  壁の穴を修理して、部屋をきれいにしました。
+  壁[かべ]の 穴[あな]を 修理[しゅうり]して、部屋[へや]をきれいにしました。
+  Ich habe das Loch in der Wand repariert und das Zimmer aufgeräumt.
+
+  台風の後、屋根を修理する必要がありました。
+  台風[たいふう]の 後[あと]、屋根[やね]を 修理[しゅうり]する 必要[ひつよう]がありました。
+  Nach dem Taifun mussten wir das Dach reparieren.
+
+  この時計は修理に出してから1週間経ちました。
+  この 時計[とけい]は 修理[しゅうり]に 出[だ]してから1週間[しゅうかん] 経[た]ちました。
+  Es ist eine Woche vergangen, seit ich diese Uhr zur Reparatur gebracht habe.
+
+  修理が完了するまでしばらくお待ちください。
+  修理[しゅうり]が 完了[かんりょう]するまでしばらくお 待[ま]ちください。
+  Bitte warten Sie einen Moment, bis die Reparatur abgeschlossen ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

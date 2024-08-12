@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 浴びない・浴びた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   シャワーを浴びるね。
   シャワーを 浴[あ]びるね。
-  Ich werde duschen.
+  Ich gehe duschen.
+
+  朝は六時に起きて草原を半周走り、それからシャワーを浴びて髭を剃った。
+  朝[あさ]は六時[ろくじ]に 起[お]きて 草原[そうげん]を 半周[はんしゅう] 走[はし]り、それからシャワーを 浴[あ]びて 髭[ひげ]を 剃[そ]った。
+  Morgens stand ich um sechs Uhr auf, joggte im Halbkreis um die Wiese, duschte danach und rasierte mich.
+
+  夏にはよく、その裏山の滝を浴びて遊んだ。
+  夏[なつ]にはよく、その 裏山[うらやま]の 滝[たき]を 浴[あ]びて 遊[あそ]んだ。
+  Im Sommer gingen wir oft zum Wasserfall hinter dem Berg, um dort zu baden und zu spielen.
+
+  たっぷり水を浴びた屋根も燃えていそうには見えない。
+  たっぷり 水[みず]を 浴[あ]びた 屋根[やね]も 燃[も]えていそうには 見[み]えない。
+  Auch das von reichlich Wasser durchnässte Dach scheint nicht zu brennen.
+
+  午後の陽ざしをあびるオートバイの周囲に、鳩がたくさん集まってきた。
+  午後[ごご]の 陽[ひ]ざしをあびるオートバイの 周囲[しゅうい]に、鳩[はと]がたくさん 集[あつ]まってきた。
+  Um das im Nachmittagssonnenlicht stehende Motorrad hatten sich viele Tauben versammelt.
+
+  ベルリン・フィルでは注目を浴びたデビューを飾り、大成功を収めた。
+  ベルリン・フィルでは 注目[ちゅうもく]を 浴[あ]びたデビューを 飾[かざ]り、大成功[だいせいこう]を 収[おさ]めた。
+  Bei den Berliner Philharmonikern gab er sein vielbeachtetes Debüt und feierte einen großen Erfolg.
+
+  それこそ、浴びるほど飲んでみたい気持でした。
+  それこそ、浴[あ]びるほど 飲[の]んでみたい 気持[きも]ちでした。
+  Ich hatte wirklich Lust, so viel zu trinken, als würde ich darin baden.
+
+  猛暑の中、日差しを浴びながら働くのは大変だ。
+  猛暑[もうしょ]の 中[なか]、日差[ひざ]しを 浴[あ]びながら 働[はたら]くのは 大変[たいへん]だ。
+  Es ist sehr anstrengend, in der sengenden Hitze unter direkter Sonneneinstrahlung zu arbeiten.
+
+  批判を浴びても、自分の信念を貫き通した。
+  批判[ひはん]を 浴[あ]びても、自分[じぶん]の 信念[しんねん]を 貫[つらぬ]き 通[とお]した。
+  Auch wenn er Kritik einstecken musste, hielt er an seinen Überzeugungen fest.
+
+  入浴前に冷たい水を浴びて体を慣らすのがいいですよ。
+  入浴前[にゅうよくまえ]に 冷[つめ]たい 水[みず]を 浴[あ]びて 体[からだ]を 慣[な]らすのがいいですよ。
+  Es ist gut, vor dem Baden kaltes Wasser über den Körper laufen zu lassen, um ihn daran zu gewöhnen.
+
+  月光を浴びる海は神秘的な雰囲気を醸し出していた。
+  月光[げっこう]を 浴[あ]びる 海[うみ]は 神秘的[しんぴてき]な 雰囲気[ふんいき]を 醸[かも]し 出[だ]していた。
+  Das vom Mondlicht beschienene Meer verströmte eine mystische Atmosphäre.
+
+  スポットライトを浴びて緊張したけど、うまく演技できた。
+  スポットライトを 浴[あ]びて 緊張[きんちょう]したけど、うまく 演技[えんぎ]できた。
+  Ich war nervös im Rampenlicht, aber ich konnte gut schauspielern.
+
+  強い風を浴びて髪が乱れてしまった。
+  強[つよ]い 風[かぜ]を 浴[あ]びて 髪[かみ]が 乱[みだ]れてしまった。
+  Meine Haare wurden vom starken Wind zerzaust.
+
+  温泉に浸かって、ゆっくり疲れを癒そう。
+  温泉[おんせん]に 浸[つ]かって、ゆっくり 疲[つか]れを 癒[いや]そう。
+  Lass uns in die heißen Quellen eintauchen und langsam unsere Müdigkeit lindern.
+
+  彼女は称賛を浴びて、顔を赤らめた。
+  彼女[かのじょ]は 称賛[しょうさん]を 浴[あ]びて、顔[かお]を 赤[あか]らめた。
+  Sie errötete, als sie mit Lob überschüttet wurde.
+
+  雨に浴びて、服がびしょ濡れになってしまった。
+  雨[あめ]に 浴[あ]びて、服[ふく]がびしょ 濡[ぬ]れになってしまった。
+  Ich wurde vom Regen durchnässt und meine Kleidung war völlig durchweicht.
+
+  観客の熱い視線を浴びて、緊張が高まった。
+  観客[かんきゃく]の 熱[あつ]い 視線[しせん]を 浴[あ]びて、緊張[きんちょう]が 高[たか]まった。
+  Als ich die intensiven Blicke des Publikums auf mich gerichtet fühlte, stieg meine Anspannung.
+
+  朝日を浴びながらジョギングするのが日課だ。
+  朝日[あさひ]を 浴[あ]びながらジョギングするのが 日課[にっか]だ。
+  Es ist meine tägliche Routine, im Morgenlicht zu joggen.
+
+  彼は酒を浴びるように飲んで、すぐに酔っ払ってしまった。
+  彼[かれ]は 酒[さけ]を 浴[あ]びるように 飲[の]んで、すぐに 酔[よ]っ 払[ぱら]ってしまった。
+  Er trank Alkohol, als würde er darin baden, und war sofort betrunken.
+
+  子供たちは水を浴びて歓声を上げながら遊んでいた。
+  子供[こども]たちは 水[みず]を 浴[あ]びて 歓声[かんせい]を 上[あ]げながら 遊[あそ]んでいた。
+  Die Kinder spielten jubelnd und ließen sich vom Wasser bespritzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

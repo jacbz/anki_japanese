@@ -2,9 +2,9 @@ Rang: 2920
 Lemma: 交通
 Lesung: こうつう
 Alternativschreibweisen: ''
-Definition: Verkehr; Transport
+Definition: Verkehr
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '93'
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ここは交通の便が悪い。
-  ここは 交通[こうつう]の 便[べん]が 悪[わる]い。
-  Der öffentliche Verkehr ist in diesem Bereich sehr schlecht.
+  ここは 交通[こうつう]の 便[びん]が 悪[わる]い。
+  Die Verkehrsanbindung ist hier schlecht.
+
+  交通安全週間中は特に気をつけて運転してください。
+  交通安全週間[こうつうあんぜんしゅうかん]中[ちゅう]は 特[とく]に 気[き]をつけて 運転[うんてん]してください。
+  Bitte fahren Sie während der Verkehrssicherheitswoche besonders vorsichtig.
+
+  この道路工事で交通渋滞が発生しています。
+  この 道路工事[どうろこうじ]で 交通渋滞[こうつうじゅうたい]が 発生[はっせい]しています。
+  Diese Straßenbauarbeiten verursachen einen Verkehrsstau.
+
+  交通違反で罰金を払わなければならなかった。
+  交通違反[こうつういはん]で 罰金[ばっきん]を 払[はら]わなければならなかった。
+  Ich musste eine Geldstrafe für einen Verkehrsverstoß zahlen.
+
+  新しい交通システムにより、都市の渋滞が緩和された。
+  新[あたら]しい 交通[こうつう]システムにより、都市[とし]の 渋滞[じゅうたい]が 緩和[かんわ]された。
+  Das neue Verkehrssystem hat die Staus in der Stadt reduziert.
+
+  交通事故に遭わないよう、常に注意を払っています。
+  交通事故[こうつうじこ]に 遭[あ]わないよう、常[つね]に 注意[ちゅうい]を 払[はら]っています。
+  Ich passe immer auf, um keinen Verkehrsunfall zu haben.
+
+  交通情報によると、高速道路が混雑しているそうです。
+  交通情報[こうつうじょうほう]によると、高速道路[こうそくどうろ]が 混雑[こんざつ]しているそうです。
+  Laut Verkehrsinformationen ist die Autobahn stark befahren.
+
+  この地域の交通量が増えたため、新しい道路が必要になった。
+  この 地域[ちいき]の 交通量[こうつうりょう]が 増[ふ]えたため、新[あたら]しい 道路[どうろ]が 必要[ひつよう]になった。
+  Aufgrund des gestiegenen Verkehrsaufkommens in dieser Region wurde eine neue Straße notwendig.
+
+  交通規則を守ることは、安全な運転のために不可欠です。
+  交通規則[こうつうきそく]を 守[まも]ることは、安全[あんぜん]な 運転[うんてん]のために 不可欠[ふかけつ]です。
+  Die Einhaltung der Verkehrsregeln ist für sicheres Fahren unerlässlich.
+
+  新しい交通標識が設置され、道路がより安全になりました。
+  新[あたら]しい 交通標識[こうつうひょうしき]が 設置[せっち]され、道路[どうろ]がより 安全[あんぜん]になりました。
+  Neue Verkehrsschilder wurden aufgestellt, wodurch die Straße sicherer geworden ist.
+
+  交通機関のストライキで、多くの人が出勤できなかった。
+  交通機関[こうつうきかん]のストライキで、多[おお]くの 人[ひと]が 出勤[しゅっきん]できなかった。
+  Wegen eines Streiks im öffentlichen Verkehr konnten viele Leute nicht zur Arbeit kommen.
+
+  この町は交通の便が良く、どこへ行くにも便利だ。
+  この 町[まち]は 交通[こうつう]の 便[べん]が 良[よ]く、どこへ 行[い]くにも 便利[べんり]だ。
+  Diese Stadt hat gute Verkehrsanbindungen und ist praktisch, egal wohin man möchte.
+
+  交通事故の影響で、道路が一時的に封鎖されました。
+  交通事故[こうつうじこ]の 影響[えいきょう]で、道路[どうろ]が 一時的[いちじてき]に 封鎖[ふうさ]されました。
+  Aufgrund eines Verkehrsunfalls wurde die Straße vorübergehend gesperrt.
+
+  交通マナーを守ることで、みんなが安全に移動できます。
+  交通[こうつう]マナーを 守[まも]ることで、みんなが 安全[あんぜん]に 移動[いどう]できます。
+  Wenn wir uns an die Verkehrsregeln halten, können wir uns alle sicher fortbewegen.
+
+  新しい地下鉄線の開通で、都市の交通網が大幅に改善された。
+  新[あたら]しい 地下鉄線[ちかてつせん]の 開通[かいつう]で、都市[とし]の 交通網[こうつうもう]が 大幅[おおはば]に 改善[かいぜん]された。
+  Mit der Eröffnung der neuen U-Bahn-Linie wurde das städtische Verkehrsnetz erheblich verbessert.
+
+  交通費の節約のため、自転車通勤を始めました。
+  交通費[こうつうひ]の 節約[せつやく]のため、自転車通勤[じてんしゃつうきん]を 始[はじ]めました。
+  Um Fahrtkosten zu sparen, habe ich angefangen, mit dem Fahrrad zur Arbeit zu fahren.
+
+  交通量の多い道路では、常に周囲に注意を払う必要がある。
+  交通量[こうつうりょう]の 多[おお]い 道路[どうろ]では、常[つね]に 周囲[しゅうい]に 注意[ちゅうい]を 払[はら]う 必要[ひつよう]がある。
+  Auf stark befahrenen Straßen muss man stets auf seine Umgebung achten.
+
+  交通手段の発達により、以前より遠くへ簡単に行けるようになった。
+  交通手段[こうつうしゅだん]の 発達[はったつ]により、以前[いぜん]より 遠[とお]くへ 簡単[かんたん]に 行[い]けるようになった。
+  Dank der Entwicklung der Verkehrsmittel können wir jetzt einfacher weiter reisen als früher.
+
+  この交差点は交通事故が多いので、特に注意が必要です。
+  この 交差点[こうさてん]は 交通事故[こうつうじこ]が 多[おお]いので、特[とく]に 注意[ちゅうい]が 必要[ひつよう]です。
+  An dieser Kreuzung passieren viele Verkehrsunfälle, daher ist besondere Vorsicht geboten.
+
+  交通機関を利用する際は、時刻表をよく確認しましょう。
+  交通機関[こうつうきかん]を 利用[りよう]する 際[さい]は、時刻表[じこくひょう]をよく 確認[かくにん]しましょう。
+  Überprüfen Sie den Fahrplan sorgfältig, wenn Sie öffentliche Verkehrsmittel benutzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

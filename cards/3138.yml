@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 脱がない・脱いだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   ここで靴を脱いでください。
   ここで 靴[くつ]を 脱[ぬ]いでください。
   Bitte ziehen Sie hier Ihre Schuhe aus.
+
+  暑いので上着を脱ぎました。
+  暑[あつ]いので 上着[うわぎ]を 脱[ぬ]ぎました。
+  Da es heiß war, habe ich meine Jacke ausgezogen.
+
+  寝る前にパジャマに着替えるため、服を脱ぐ。
+  寝[ね]る 前[まえ]にパジャマに 着替[きが]えるため、服[ふく]を 脱[ぬ]ぐ。
+  Vor dem Schlafengehen ziehe ich mich aus, um meinen Schlafanzug anzuziehen.
+
+  雨が降っているので、濡れたコートを脱いだ。
+  雨[あめ]が 降[ふ]っているので、濡[ぬ]れたコートを 脱[ぬ]いだ。
+  Da es regnet, habe ich meinen nassen Mantel ausgezogen.
+
+  プールに入る前に、着ている物を全部脱がなければならない。
+  プールに 入[はい]る 前[まえ]に、着[き]ている 物[もの]を 全部[ぜんぶ] 脱[ぬ]がなければならない。
+  Bevor man ins Schwimmbad geht, muss man alles ausziehen, was man anhat.
+
+  彼女はセーターを脱いで、タンクトップ姿になった。
+  彼女[かのじょ]はセーターを 脱[ぬ]いで、タンクトップ 姿[すがた]になった。
+  Sie zog ihren Pullover aus und trug nun ein Tanktop.
+
+  医者に「上半身の服を脱いでください」と言われた。
+  医者[いしゃ]に「上半身[じょうはんしん]の 服[ふく]を 脱[ぬ]いでください」と 言[い]われた。
+  Der Arzt sagte mir: "Bitte ziehen Sie Ihr Oberteil aus."
+
+  ソックスを脱ぐのを忘れて、お風呂に入りそうになった。
+  ソックスを 脱[ぬ]ぐのを 忘[わす]れて、お 風呂[ふろ]に 入[はい]りそうになった。
+  Ich hätte fast vergessen, meine Socken auszuziehen, bevor ich ins Bad ging.
+
+  彼は帽子を脱いで、丁寧にお辞儀をした。
+  彼[かれ]は 帽子[ぼうし]を 脱[ぬ]いで、丁寧[ていねい]にお 辞儀[じぎ]をした。
+  Er nahm seinen Hut ab und verbeugte sich höflich.
+
+  手袋を脱がずに料理をするのは難しい。
+  手袋[てぶくろ]を 脱[ぬ]がずに 料理[りょうり]をするのは 難[むずか]しい。
+  Es ist schwierig zu kochen, ohne die Handschuhe auszuziehen.
+
+  寒いのに上着を脱ぐなんて、風邪を引くよ。
+  寒[さむ]いのに 上着[うわぎ]を 脱[ぬ]ぐなんて、風邪[かぜ]を 引[ひ]くよ。
+  Du wirst dich erkälten, wenn du deine Jacke ausziehst, obwohl es kalt ist.
+
+  彼女は水着に着替えるため、ドレスを脱いだ。
+  彼女[かのじょ]は 水着[みずぎ]に 着替[きが]えるため、ドレスを 脱[ぬ]いだ。
+  Sie zog ihr Kleid aus, um sich den Badeanzug anzuziehen.
+
+  蛇が古い皮を脱ぐのを見たことがある？
+  蛇[へび]が 古[ふる]い 皮[かわ]を 脱[ぬ]ぐのを 見[み]たことがある？
+  Hast du schon einmal gesehen, wie eine Schlange ihre alte Haut abstreift?
+
+  暑さで汗をかいたので、Ｔシャツを脱いで着替えた。
+  暑[あつ]さで 汗[あせ]をかいたので、Ｔシャツを 脱[ぬ]いで 着替[きが]えた。
+  Da ich wegen der Hitze geschwitzt hatte, zog ich mein T-Shirt aus und wechselte es.
+
+  彼はジャケットを脱いで、椅子の背もたれにかけた。
+  彼[かれ]はジャケットを 脱[ぬ]いで、椅子[いす]の 背[せ]もたれにかけた。
+  Er zog seine Jacke aus und hängte sie über die Stuhllehne.
+
+  寝る時は靴下を脱ぐ習慣がある。
+  寝[ね]る 時[とき]は 靴下[くつした]を 脱[ぬ]ぐ 習慣[しゅうかん]がある。
+  Ich habe die Angewohnheit, vor dem Schlafengehen meine Socken auszuziehen.
+
+  式典で彼はヘルメットを脱いで、黙祷を捧げた。
+  式典[しきてん]で 彼[かれ]はヘルメットを 脱[ぬ]いで、黙祷[もくとう]を 捧[ささ]げた。
+  Bei der Zeremonie nahm er seinen Helm ab und hielt eine stille Andacht.
+
+  子供たちは外で遊ぶ前に、制服を脱いで着替えるように言われた。
+  子供[こども]たちは 外[そと]で 遊[あそ]ぶ 前[まえ]に、制服[せいふく]を 脱[ぬ]いで 着替[きが]えるように 言[い]われた。
+  Den Kindern wurde gesagt, sie sollen ihre Schuluniform ausziehen und sich umziehen, bevor sie draußen spielen.
+
+  彼女は仮面を脱いで、本当の自分を見せた。
+  彼女[かのじょ]は 仮面[かめん]を 脱[ぬ]いで、本当[ほんとう]の 自分[じぶん]を 見[み]せた。
+  Sie nahm ihre Maske ab und zeigte ihr wahres Ich.
+
+  着換えをして出勤しようと寝間着を脱ぐと、家内の赤い真田紐と、家内の湯上りを身に着けていることに気がついた。
+  着換[きが]えをして 出勤[しゅっきん]しようと 寝間着[ねまき]を 脱[ぬ]ぐと、家内[かない]の 赤[あか]い 真田紐[さなだひも]と、家内[かない]の 湯上[ゆあ]りを 身[み]に 着[つ]けていることに 気[き]がついた。
+  Ich zog mein Nachtzeug aus, um mich für die Arbeit anzuziehen, und merkte dabei, dass ich den Bademantel meiner Frau und ihren roten Gürtel anhatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

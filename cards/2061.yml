@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: ..^^^
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 注文しない・注文した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私はコーヒーを三つ注文した。
   私[わたし]はコーヒーを 三[みっ]つ 注文[ちゅうもん]した。
-  Ich habe drei Kaffees bestellt.
+  Ich habe drei Kaffee bestellt.
+
+  レストランで注文する前にメニューをよく見てください。
+  レストランで 注文[ちゅうもん]する 前[まえ]にメニューをよく 見[み]てください。
+  Bitte schauen Sie sich die Speisekarte genau an, bevor Sie im Restaurant bestellen.
+
+  注文番号をお控えください。
+  注文番号[ちゅうもんばんごう]をお 控[ひか]えください。
+  Bitte notieren Sie sich Ihre Bestellnummer.
+
+  注文した商品がまだ届いていません。
+  注文[ちゅうもん]した 商品[しょうひん]がまだ 届[とど]いていません。
+  Die bestellte Ware ist noch nicht angekommen.
+
+  注文確認メールが届きましたか？
+  注文確認[ちゅうもんかくにん]メールが 届[とど]きましたか？
+  Haben Sie die Bestellbestätigung per E-Mail erhalten?
+
+  注文を変更したいのですが、可能ですか？
+  注文[ちゅうもん]を 変更[へんこう]したいのですが、可能[かのう]ですか？
+  Ich möchte meine Bestellung ändern. Ist das möglich?
+
+  注文した料理が間違っていました。
+  注文[ちゅうもん]した 料理[りょうり]が 間違[まちが]っていました。
+  Das Essen, das ich bestellt habe, war falsch.
+
+  オンラインで注文するのが便利だね。
+  オンラインで 注文[ちゅうもん]するのが 便利[べんり]だね。
+  Online zu bestellen ist wirklich praktisch.
+
+  注文の締め切りは明日の正午です。
+  注文[ちゅうもん]の 締[し]め 切[き]りは 明日[あした]の 正午[しょうご]です。
+  Der Bestellschluss ist morgen Mittag.
+
+  注文をキャンセルしたいのですが。
+  注文[ちゅうもん]をキャンセルしたいのですが。
+  Ich möchte meine Bestellung stornieren.
+
+  注文した商品の到着予定日を教えてください。
+  注文[ちゅうもん]した 商品[しょうひん]の 到着予定日[とうちゃくよていび]を 教[おし]えてください。
+  Können Sie mir bitte das voraussichtliche Lieferdatum für die bestellte Ware mitteilen?
+
+  注文の支払いはクレジットカードでお願いします。
+  注文[ちゅうもん]の 支払[しはら]いはクレジットカードでお 願[ねが]いします。
+  Ich möchte die Bestellung bitte mit Kreditkarte bezahlen.
+
+  注文書に記入漏れがあります。
+  注文書[ちゅうもんしょ]に 記入漏[きにゅうも]れがあります。
+  Es gibt Auslassungen im Bestellformular.
+
+  注文した商品が品切れでした。
+  注文[ちゅうもん]した 商品[しょうひん]が 品切[しなぎ]れでした。
+  Der Artikel, den ich bestellt habe, war ausverkauft.
+
+  注文に応じて特別に作られた家具です。
+  注文[ちゅうもん]に 応[おう]じて 特別[とくべつ]に 作[つく]られた 家具[かぐ]です。
+  Dies sind Möbel, die speziell auf Bestellung angefertigt wurden.
+
+  注文の多い料理店で働いています。
+  注文[ちゅうもん]の 多[おお]い 料理店[りょうりてん]で 働[はたら]いています。
+  Ich arbeite in einem Restaurant mit vielen Bestellungen.
+
+  お客様からの注文に対して丁寧に対応しています。
+  お客様[きゃくさま]からの 注文[ちゅうもん]に 対[たい]して 丁寧[ていねい]に 対応[たいおう]しています。
+  Wir gehen sorgfältig auf die Bestellungen unserer Kunden ein.
+
+  注文の際は、アレルギー情報をお知らせください。
+  注文[ちゅうもん]の 際[さい]は、アレルギー 情報[じょうほう]をお 知[し]らせください。
+  Bitte teilen Sie uns bei der Bestellung Informationen zu Allergien mit.
+
+  注文した料理がなかなか来ないね。
+  注文[ちゅうもん]した 料理[りょうり]がなかなか 来[こ]ないね。
+  Das Essen, das wir bestellt haben, lässt aber lange auf sich warten.
+
+  注文の品を確認してから署名してください。
+  注文[ちゅうもん]の 品[しな]を 確認[かくにん]してから 署名[しょめい]してください。
+  Bitte überprüfen Sie die bestellten Artikel, bevor Sie unterschreiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

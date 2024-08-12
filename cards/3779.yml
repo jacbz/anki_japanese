@@ -1,10 +1,10 @@
 Rang: 3779
 Lemma: 早く
 Lesung: はやく
-Alternativschreibweisen: ''
-Definition: früh, bald
+Alternativschreibweisen: 速く・疾く・捷く
+Definition: früh; schnell
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: adv
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '96'
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   父は毎日朝早くから夜遅くまで働いている。
   父[ちち]は 毎日[まいにち] 朝早[あさはや]くから 夜遅[よるおそ]くまで 働[はたら]いている。
-  Mein Vater arbeitet jeden Tag von frühmorgens bis spätabends.
+  Mein Vater arbeitet jeden Tag von früh morgens bis spät abends.
+
+  急いでいるので、早く食べよう。
+  急[いそ]いでいるので、早[はや]く 食[た]べよう。
+  Lass uns schnell essen, wir haben es eilig.
+
+  早く返事をしないと、この話はなくなってしまうよ。
+  早[はや]く 返事[へんじ]をしないと、この 話[はなし]はなくなってしまうよ。
+  Wenn du nicht schnell antwortest, ist diese Gelegenheit weg.
+
+  彼女は走るのが早く、いつも競争で1位になる。
+  彼女[かのじょ]は 走[はし]るのが 早[はや]く、いつも 競争[きょうそう]で1位[いち]になる。
+  Sie läuft schnell und wird immer Erste bei Wettrennen.
+
+  早く忘れたいことばかりだ。
+  早[はや]く 忘[わす]れたいことばかりだ。
+  Das sind alles Dinge, die ich schnell vergessen möchte.
+
+  矢のように早く走り去った。
+  矢[や]のように 早[はや]く 走[はし]り 去[さ]った。
+  Er rannte pfeilschnell davon.
+
+  早く早く！遅刻しちゃうよ。
+  早[はや]く 早[はや]く！遅刻[ちこく]しちゃうよ。
+  Schnell, schnell! Wir kommen zu spät.
+
+  もっと早くしろ！時間がないぞ。
+  もっと 早[はや]くしろ！時間[じかん]がないぞ。
+  Mach schneller! Wir haben keine Zeit.
+
+  彼は同僚より早く出世した。
+  彼[かれ]は 同僚[どうりょう]より 早[はや]く 出世[しゅっせ]した。
+  Er machte schneller Karriere als seine Kollegen.
+
+  早く寝て、早く起きるのが健康的だ。
+  早[はや]く 寝[ね]て、早[はや]く 起[お]きるのが 健康的[けんこうてき]だ。
+  Früh schlafen gehen und früh aufstehen ist gesund.
+
+  彼女は才能があり、若くして成功した。
+  彼女[かのじょ]は 才能[さいのう]があり、若[わか]くして 成功[せいこう]した。
+  Sie ist talentiert und hatte schon in jungen Jahren Erfolg.
+
+  早く到着しすぎて、まだ誰も来ていなかった。
+  早[はや]く 到着[とうちゃく]しすぎて、まだ 誰[だれ]も 来[き]ていなかった。
+  Ich kam zu früh an und noch niemand war da.
+
+  朝早くからジョギングをするのが習慣だ。
+  朝早[あさはや]くからジョギングをするのが 習慣[しゅうかん]だ。
+  Es ist meine Gewohnheit, frühmorgens joggen zu gehen.
+
+  会議が予定より早く終わった。
+  会議[かいぎ]が 予定[よてい]より 早[はや]く 終[お]わった。
+  Die Besprechung endete früher als geplant.
+
+  早くから英語を学んでいたので、今では上手に話せる。
+  早[はや]くから 英語[えいご]を 学[まな]んでいたので、今[いま]では 上手[じょうず]に 話[はな]せる。
+  Da ich schon früh Englisch gelernt habe, kann ich es jetzt gut sprechen.
+
+  できるだけ早く連絡します。
+  できるだけ 早[はや]く 連絡[れんらく]します。
+  Ich werde mich so schnell wie möglich melden.
+
+  彼女のことは昔から知っている。
+  彼女[かのじょ]のことは 昔[むかし]から 知[し]っている。
+  Ich kenne sie schon seit langer Zeit.
+
+  朝早くから夜遅くまで働くのは体に良くない。
+  朝早[あさはや]くから 夜遅[よるおそ]くまで 働[はたら]くのは 体[からだ]に 良[よ]くない。
+  Von früh morgens bis spät abends zu arbeiten ist nicht gut für den Körper.
+
+  早く家に帰りたいな。
+  早[はや]く 家[いえ]に 帰[かえ]りたいな。
+  Ich möchte früh nach Hause gehen.
+
+  反応するより早く、彼は問題を解決した。
+  反応[はんのう]するより 早[はや]く、彼[かれ]は 問題[もんだい]を 解決[かいけつ]した。
+  Er löste das Problem schneller, als man reagieren konnte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

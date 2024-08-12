@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \....
 Register: ''
 Dispersion: '84'
-Ursprung: ''
+Ursprung: engl. concert
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   一緒にクラシックのコンサートに行かない？
   一緒[いっしょ]にクラシックのコンサートに 行[い]かない？
   Möchtest du mit mir zu einem klassischen Konzert gehen?
+
+  来週の土曜日にコンサートホールでピアノのコンサートがあります。
+  来週[らいしゅう]の 土曜日[どようび]にコンサートホールでピアノのコンサートがあります。
+  Am nächsten Samstag findet ein Klavierkonzert in der Konzerthalle statt.
+
+  コンサートマスターは、オーケストラの中で重要な役割を果たしています。
+  コンサートマスターは、オーケストラの 中[なか]で 重要[じゅうよう]な 役割[やくわり]を 果[は]たしています。
+  Der Konzertmeister spielt eine wichtige Rolle im Orchester.
+
+  彼女はコンサートピアニストとして世界中で活躍しています。
+  彼女[かのじょ]はコンサートピアニストとして 世界中[せかいじゅう]で 活躍[かつやく]しています。
+  Sie ist als Konzertpianistin weltweit tätig.
+
+  コンサートピッチで楽器を調整する必要があります。
+  コンサートピッチで 楽器[がっき]を 調整[ちょうせい]する 必要[ひつよう]があります。
+  Wir müssen die Instrumente auf den Kammerton stimmen.
+
+  人気バンドが全国コンサートツアーを開催すると発表しました。
+  人気[にんき]バンドが 全国[ぜんこく]コンサートツアーを 開催[かいさい]すると 発表[はっぴょう]しました。
+  Die beliebte Band hat eine landesweite Konzerttournee angekündigt.
+
+  チャリティーコンサートの収益は全額寄付されます。
+  チャリティーコンサートの 収益[しゅうえき]は 全額[ぜんがく] 寄付[きふ]されます。
+  Die Einnahmen des Benefizkonzerts werden vollständig gespendet.
+
+  複数のアーティストによる合同コンサートが開かれます。
+  複数[ふくすう]のアーティストによる 合同[ごうどう]コンサートが 開[ひら]かれます。
+  Es wird ein Gemeinschaftskonzert mit mehreren Künstlern veranstaltet.
+
+  慈善コンサートを通じて、被災地支援の募金を集めています。
+  慈善[じぜん]コンサートを 通[とお]じて、被災地[ひさいち] 支援[しえん]の 募金[ぼきん]を 集[あつ]めています。
+  Durch das Wohltätigkeitskonzert sammeln wir Spenden für die Unterstützung der Katastrophengebiete.
+
+  ニューイヤーコンサートは毎年恒例の人気イベントです。
+  ニューイヤーコンサートは 毎年[まいとし] 恒例[こうれい]の 人気[にんき]イベントです。
+  Das Neujahrskonzert ist jedes Jahr eine beliebte Tradition.
+
+  室内楽コンサートは、より親密な雰囲気で音楽を楽しめます。
+  室内楽[しつないがく]コンサートは、より 親密[しんみつ]な 雰囲気[ふんいき]で 音楽[おんがく]を 楽[たの]しめます。
+  Bei einem Kammerkonzert kann man Musik in einer intimeren Atmosphäre genießen.
+
+  来月、有名なバイオリニストがコンサートを開きます。
+  来月[らいげつ]、有名[ゆうめい]なバイオリニストがコンサートを 開[ひら]きます。
+  Nächsten Monat gibt ein berühmter Violinist ein Konzert.
+
+  コンサート事務局に問い合わせて、チケットの予約方法を確認しました。
+  コンサート 事務局[じむきょく]に 問[と]い 合[あ]わせて、チケットの 予約[よやく] 方法[ほうほう]を 確認[かくにん]しました。
+  Ich habe bei der Konzertagentur nachgefragt und die Reservierungsmethode für Tickets bestätigt.
+
+  コンサートグランドピアノの音色は、本当に素晴らしいですね。
+  コンサートグランドピアノの 音色[ねいろ]は、本当[ほんとう]に 素晴[すば]らしいですね。
+  Der Klang eines Konzertflügels ist wirklich wunderbar, nicht wahr?
+
+  コンサートの日程が変更になったので、注意してください。
+  コンサートの 日程[にってい]が 変更[へんこう]になったので、注意[ちゅうい]してください。
+  Bitte beachten Sie, dass sich der Termin des Konzerts geändert hat.
+
+  彼女のコンサートのチケットは、発売と同時に完売しました。
+  彼女[かのじょ]のコンサートのチケットは、発売[はつばい]と 同時[どうじ]に 完売[かんばい]しました。
+  Die Tickets für ihr Konzert waren sofort nach Verkaufsstart ausverkauft.
+
+  この夏、野外コンサートが多数開催される予定です。
+  この 夏[なつ]、野外[やがい]コンサートが 多数[たすう] 開催[かいさい]される 予定[よてい]です。
+  Für diesen Sommer sind zahlreiche Open-Air-Konzerte geplant.
+
+  コンサートの後、ファンは興奮して帰っていきました。
+  コンサートの 後[あと]、ファンは 興奮[こうふん]して 帰[かえ]っていきました。
+  Nach dem Konzert gingen die Fans aufgeregt nach Hause.
+
+  コンサートの練習は毎日3時間以上行っています。
+  コンサートの 練習[れんしゅう]は 毎日[まいにち]3時間[じかん] 以上[いじょう] 行[おこな]っています。
+  Ich übe jeden Tag mehr als drei Stunden für das Konzert.
+
+  学校の文化祭でクラスメイトとミニコンサートを企画しています。
+  学校[がっこう]の 文化祭[ぶんかさい]でクラスメイトとミニコンサートを 企画[きかく]しています。
+  Wir planen ein kleines Konzert mit meinen Klassenkameraden für das Schulfest.
+
+  コンサートの成功を祝って、打ち上げパーティーを開きました。
+  コンサートの 成功[せいこう]を 祝[いわ]って、打[う]ち 上[あ]げパーティーを 開[ひら]きました。
+  Um den Erfolg des Konzerts zu feiern, haben wir eine Aftershow-Party veranstaltet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

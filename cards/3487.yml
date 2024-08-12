@@ -2,9 +2,9 @@ Rang: 3487
 Lemma: 今月
 Lesung: こんげつ
 Alternativschreibweisen: ''
-Definition: diesen Monat
+Definition: dieser Monat
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '67'
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今月、新しい家に引っ越す。
-  今月[こんげつ]、 新[あたら]しい 家[いえ]に 引[ひ]っ 越[こ]す。
-  Ich ziehe diesen Monat in ein neues Haus.
+  今月[こんげつ]、新[あたら]しい 家[いえ]に 引[ひ]っ 越[こ]す。
+  Diesen Monat ziehe ich in ein neues Haus um.
+
+  今月分の家賃を払うのを忘れないでください。
+  今月分[こんげつぶん]の 家賃[やちん]を 払[はら]うのを 忘[わす]れないでください。
+  Bitte vergessen Sie nicht, die Miete für diesen Monat zu bezahlen.
+
+  今月下旬に大切な会議があります。
+  今月下旬[こんげつげじゅん]に 大切[たいせつ]な 会議[かいぎ]があります。
+  Ende dieses Monats findet eine wichtige Konferenz statt.
+
+  今月号の雑誌はもう読んだ？
+  今月号[こんげつごう]の 雑誌[ざっし]はもう 読[よ]んだ？
+  Hast du die aktuelle Ausgabe der Zeitschrift schon gelesen?
+
+  今月一杯忙しいので、旅行は来月にしよう。
+  今月一杯[こんげついっぱい] 忙[いそが]しいので、旅行[りょこう]は 来月[らいげつ]にしよう。
+  Ich bin diesen ganzen Monat beschäftigt, lass uns die Reise auf nächsten Monat verschieben.
+
+  今月末までに報告書を提出してください。
+  今月末[こんげつまつ]までに 報告書[ほうこくしょ]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie den Bericht bis Ende dieses Monats ein.
+
+  今月分の給料が少し多かったみたい。
+  今月分[こんげつぶん]の 給料[きゅうりょう]が 少[すこ]し 多[おお]かったみたい。
+  Es scheint, dass das Gehalt für diesen Monat etwas höher war.
+
+  今月中に新しいプロジェクトを始める予定です。
+  今月中[こんげつちゅう]に 新[あたら]しいプロジェクトを 始[はじ]める 予定[よてい]です。
+  Wir planen, noch in diesem Monat ein neues Projekt zu starten.
+
+  今月13日に友達の誕生日パーティーがあるんだ。
+  今月[こんげつ]13日[じゅうさんにち]に 友達[ともだち]の 誕生日[たんじょうび]パーティーがあるんだ。
+  Am dreizehnten dieses Monats ist die Geburtstagsparty meines Freundes.
+
+  去年の今月に比べて、今年は仕事が忙しい。
+  去年[きょねん]の 今月[こんげつ]に 比[くら]べて、今年[ことし]は 仕事[しごと]が 忙[いそが]しい。
+  Im Vergleich zum gleichen Monat letztes Jahr ist die Arbeit dieses Jahr viel stressiger.
+
+  今月のカレンダーを確認して、予定を立てましょう。
+  今月[こんげつ]のカレンダーを 確認[かくにん]して、予定[よてい]を 立[た]てましょう。
+  Lass uns den Kalender für diesen Monat überprüfen und Pläne machen.
+
+  今月は節約月間だから、外食を控えよう。
+  今月[こんげつ]は 節約[せつやく]月間[げっかん]だから、外食[がいしょく]を 控[ひか]えよう。
+  Da dieser Monat der Sparmonat ist, lasst uns weniger auswärts essen.
+
+  今月の目標は、毎日30分運動することです。
+  今月[こんげつ]の 目標[もくひょう]は、毎日[まいにち]30分[さんじゅっぷん] 運動[うんどう]することです。
+  Mein Ziel für diesen Monat ist es, jeden Tag 30 Minuten Sport zu treiben.
+
+  今月の売上が先月を上回りました。
+  今月[こんげつ]の 売上[うりあげ]が 先月[せんげつ]を 上回[うわまわ]りました。
+  Der Umsatz dieses Monats hat den des letzten Monats übertroffen.
+
+  今月中に引っ越しの準備を終わらせないと。
+  今月中[こんげつちゅう]に 引[ひ]っ 越[こ]しの 準備[じゅんび]を 終[お]わらせないと。
+  Ich muss die Vorbereitungen für den Umzug noch in diesem Monat abschließen.
+
+  今月の電気代が予想より高かった。
+  今月[こんげつ]の 電気代[でんきだい]が 予想[よそう]より 高[たか]かった。
+  Die Stromrechnung für diesen Monat war höher als erwartet.
+
+  今月はボーナス月だから、何か特別なことをしよう。
+  今月[こんげつ]はボーナス 月[つき]だから、何[なに]か 特別[とくべつ]なことをしよう。
+  Da es dieser Monat der Bonusmonat ist, lass uns etwas Besonderes unternehmen.
+
+  今月の天気予報によると、雨が多いそうです。
+  今月[こんげつ]の 天気予報[てんきよほう]によると、雨[あめ]が 多[おお]いそうです。
+  Laut der Wettervorhersage für diesen Monat soll es viel regnen.
+
+  今月から新しい習慣を始めることにした。
+  今月[こんげつ]から 新[あたら]しい 習慣[しゅうかん]を 始[はじ]めることにした。
+  Ich habe beschlossen, ab diesem Monat eine neue Gewohnheit zu beginnen.
+
+  今月の予算をオーバーしないように気をつけてね。
+  今月[こんげつ]の 予算[よさん]をオーバーしないように 気[き]をつけてね。
+  Pass auf, dass du das Budget für diesen Monat nicht überschreitest.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

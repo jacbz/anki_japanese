@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   五月五日はこどもの日だ。
-  五月[ごがつ] 五日[いつか]はこどもの 日[ひ]だ。
-  Der 5. Mai ist der Tag der Kinder.
+  五月[ごがつ]五日[いつか]はこどもの 日[ひ]だ。
+  Der 5. Mai ist der Kindertag.
+
+  八月四日に帰ってきて、五日の夕刻に出発した。
+  八月[はちがつ]四日[よっか]に 帰[かえ]ってきて、五日[いつか]の 夕刻[ゆうこく]に 出発[しゅっぱつ]した。
+  Ich kam am 4. August zurück und brach am Abend des 5. auf.
+
+  彼女は毎月五日に給料をもらう。
+  彼女[かのじょ]は 毎月[まいつき]五日[いつか]に 給料[きゅうりょう]をもらう。
+  Sie erhält ihr Gehalt jeden Monat am 5.
+
+  五日間の出張から戻ってきました。
+  五日間[いつかかん]の 出張[しゅっちょう]から 戻[もど]ってきました。
+  Ich bin von einer fünftägigen Geschäftsreise zurückgekommen.
+
+  週五日制の導入により、仕事と生活のバランスが改善された。
+  週[しゅう]五日[いつか]制[せい]の 導入[どうにゅう]により、仕事[しごと]と 生活[せいかつ]のバランスが 改善[かいぜん]された。
+  Durch die Einführung der 5-Tage-Woche hat sich die Work-Life-Balance verbessert.
+
+  五日連続で雨が降り続いている。
+  五日[いつか]連続[れんぞく]で 雨[あめ]が 降[ふ]り 続[つづ]いている。
+  Es regnet seit fünf Tagen ununterbrochen.
+
+  気象庁が五日予報を発表しました。
+  気象庁[きしょうちょう]が 五日[いつか]予報[よほう]を 発表[はっぴょう]しました。
+  Das Wetteramt hat eine Fünf-Tage-Prognose veröffentlicht.
+
+  五日後、やっと手術の傷が回復してきた。
+  五日[いつか]後[ご]、やっと 手術[しゅじゅつ]の 傷[きず]が 回復[かいふく]してきた。
+  Nach fünf Tagen begann die Operationswunde endlich zu heilen.
+
+  五日分の食料を買い込んだ。
+  五日[いつか]分[ぶん]の 食料[しょくりょう]を 買[か]い 込[こ]んだ。
+  Ich habe Lebensmittel für fünf Tage eingekauft.
+
+  五日間の休暇を取得しました。
+  五日間[いつかかん]の 休暇[きゅうか]を 取得[しゅとく]しました。
+  Ich habe fünf Tage Urlaub genommen.
+
+  毎月五日は図書館の休館日です。
+  毎月[まいつき]五日[いつか]は 図書館[としょかん]の 休館日[きゅうかんび]です。
+  Die Bibliothek ist jeden Monat am 5. geschlossen.
+
+  五日後に締め切りがあるので、急いで仕事を終わらせなければならない。
+  五日[いつか]後[ご]に 締[し]め 切[き]りがあるので、急[いそ]いで 仕事[しごと]を 終[お]わらせなければならない。
+  Da die Frist in fünf Tagen abläuft, muss ich mich beeilen, die Arbeit zu beenden.
+
+  五日間の断食を終えた後、少しずつ食事を再開した。
+  五日間[いつかかん]の 断食[だんじき]を 終[お]えた 後[あと]、少[すこ]しずつ 食事[しょくじ]を 再開[さいかい]した。
+  Nachdem ich das fünftägige Fasten beendet hatte, begann ich langsam wieder zu essen.
+
+  五日おきに水やりをするのがこの植物の育て方です。
+  五日[いつか]おきに 水[みず]やりをするのがこの 植物[しょくぶつ]の 育[そだ]て 方[かた]です。
+  Diese Pflanze sollte alle fünf Tage gegossen werden.
+
+  五日以内に返事をください。
+  五日[いつか]以内[いない]に 返事[へんじ]をください。
+  Bitte antworten Sie innerhalb von fünf Tagen.
+
+  五日間の合宿トレーニングが始まった。
+  五日間[いつかかん]の 合宿[がっしゅく]トレーニングが 始[はじ]まった。
+  Das fünftägige Trainingscamp hat begonnen.
+
+  この薬を五日間服用してください。
+  この 薬[くすり]を 五日間[いつかかん] 服用[ふくよう]してください。
+  Bitte nehmen Sie dieses Medikament fünf Tage lang ein.
+
+  五日も寝ていないので、疲れがたまっている。
+  五日[いつか]も 寝[ね]ていないので、疲[つか]れがたまっている。
+  Ich habe seit fünf Tagen nicht geschlafen, daher bin ich sehr erschöpft.
+
+  五日間の猶予をいただけませんか。
+  五日間[いつかかん]の 猶予[ゆうよ]をいただけませんか。
+  Könnten Sie mir bitte fünf Tage Aufschub gewähren?
+
+  五日ごとに報告書を提出してください。
+  五日[いつか]ごとに 報告書[ほうこくしょ]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie alle fünf Tage einen Bericht ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

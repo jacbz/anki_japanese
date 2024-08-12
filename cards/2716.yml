@@ -2,13 +2,13 @@ Rang: 2716
 Lemma: チケット
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Ticket
+Definition: Ticket, Eintrittskarte
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: (.)\..
 Register: ''
 Dispersion: '77'
-Ursprung: ''
+Ursprung: engl. ticket
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   コンサートのチケットを買う。
   コンサートのチケットを 買[か]う。
-  Ich werde eine Karte für das Konzert kaufen.
+  Ich kaufe Tickets für das Konzert.
+
+  映画のチケットを予約しました。
+  映画[えいが]のチケットを 予約[よやく]しました。
+  Ich habe Kinokarten reserviert.
+
+  チケットは前売りで購入すると安くなります。
+  チケットは 前売[まえう]りで 購入[こうにゅう]すると 安[やす]くなります。
+  Wenn man die Tickets im Vorverkauf kauft, sind sie günstiger.
+
+  チケットガイドで公演情報を確認しましょう。
+  チケットガイドで 公演[こうえん] 情報[じょうほう]を 確認[かくにん]しましょう。
+  Lass uns die Informationen zur Aufführung im Ticket-Guide überprüfen.
+
+  バスのチケットを券売機で買いました。
+  バスのチケットを 券売機[けんばいき]で 買[か]いました。
+  Ich habe das Busticket am Fahrkartenautomaten gekauft.
+
+  チケットを紛失したら、再発行できますか？
+  チケットを 紛失[ふんしつ]したら、再発行[さいはっこう]できますか？
+  Kann man ein neues Ticket ausstellen lassen, wenn man es verloren hat?
+
+  チケットは完売したそうです。
+  チケットは 完売[かんばい]したそうです。
+  Es heißt, die Tickets seien ausverkauft.
+
+  チケットの払い戻しは可能ですか？
+  チケットの 払[はら]い 戻[もど]しは 可能[かのう]ですか？
+  Ist eine Ticketrückerstattung möglich?
+
+  何千人もの人々はチケットを手に入れることができず、テレビでのライヴの放送で満足しなければならなかった。
+  何千人[なんぜんにん]もの 人々[ひとびと]はチケットを 手[て]に 入[い]れることができず、テレビでのライヴの 放送[ほうそう]で 満足[まんぞく]しなければならなかった。
+  Zigtausende hatten keine Eintrittskarte erhalten und mussten sich mit der Live-Übertragung im Fernsehen begnügen.
+
+  チケットは身分証明書と一緒に保管してください。
+  チケットは 身分証明書[みぶんしょうめいしょ]と 一緒[いっしょ]に 保管[ほかん]してください。
+  Bitte bewahren Sie das Ticket zusammen mit Ihrem Ausweis auf.
+
+  チケットの半券は捨てずに取っておいてください。
+  チケットの 半券[はんけん]は 捨[す]てずに 取[と]っておいてください。
+  Bitte werfen Sie den Ticketabschnitt nicht weg, sondern bewahren Sie ihn auf.
+
+  チケットの転売は禁止されています。
+  チケットの 転売[てんばい]は 禁止[きんし]されています。
+  Der Weiterverkauf von Tickets ist verboten.
+
+  チケットを見せて入場してください。
+  チケットを 見[み]せて 入場[にゅうじょう]してください。
+  Bitte zeigen Sie Ihr Ticket beim Einlass vor.
+
+  チケットの価格が高すぎて、買うのをやめました。
+  チケットの 価格[かかく]が 高[たか]すぎて、買[か]うのをやめました。
+  Der Preis für die Tickets war zu hoch, also habe ich sie nicht gekauft.
+
+  チケットの販売は明日から始まります。
+  チケットの 販売[はんばい]は 明日[あした]から 始[はじ]まります。
+  Der Ticketverkauf beginnt morgen.
+
+  友達からチケットをもらった。
+  友達[ともだち]からチケットをもらった。
+  Ich habe von einem Freund ein Ticket bekommen.
+
+  チケットを持参しないと入場できません。
+  チケットを 持参[じさん]しないと 入場[にゅうじょう]できません。
+  Ohne Vorlage des Tickets ist kein Einlass möglich.
+
+  チケットの日付を間違えてしまいました。
+  チケットの 日付[ひづけ]を 間違[まちが]えてしまいました。
+  Ich habe mich beim Datum auf dem Ticket geirrt.
+
+  チケットはオンラインで簡単に購入できます。
+  チケットはオンラインで 簡単[かんたん]に 購入[こうにゅう]できます。
+  Man kann Tickets einfach online kaufen.
+
+  チケットの割引サービスがあるか確認してください。
+  チケットの 割引[わりびき]サービスがあるか 確認[かくにん]してください。
+  Bitte überprüfen Sie, ob es einen Rabattservice für die Tickets gibt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

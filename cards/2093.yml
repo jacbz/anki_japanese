@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 手伝わない・手伝った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   宿題を手伝ってくれませんか。
   宿題[しゅくだい]を 手伝[てつだ]ってくれませんか。
-  Kannst du mir bei meinen Hausaufgaben helfen?
+  Könntest du mir bei den Hausaufgaben helfen?
+
+  母の料理を手伝います。
+  母[はは]の 料理[りょうり]を 手伝[てつだ]います。
+  Ich helfe meiner Mutter beim Kochen.
+
+  友達の引っ越しを手伝った。
+  友達[とも だち]の 引[ひ]っ 越[こ]しを 手伝[てつだ]った。
+  Ich habe meinem Freund beim Umzug geholfen.
+
+  誰かに手伝ってもらわなければならない。
+  誰[だれ]かに 手伝[てつだ]ってもらわなければならない。
+  Ich brauche jemanden, der mir hilft.
+
+  店を手伝うのは楽しいです。
+  店[みせ]を 手伝[てつだ]うのは 楽[たの]しいです。
+  Es macht Spaß, im Laden auszuhelfen.
+
+  農家を手伝う経験は貴重だった。
+  農家[のうか]を 手伝[てつだ]う 経験[けいけん]は 貴重[きちょう]だった。
+  Die Erfahrung, auf einem Bauernhof zu helfen, war wertvoll.
+
+  草刈りを手伝ってくれてありがとう。
+  草刈[くさか]りを 手伝[てつだ]ってくれてありがとう。
+  Danke, dass du mir beim Rasenmähen geholfen hast.
+
+  仕事を手伝うよ。何をすればいい？
+  仕事[しごと]を 手伝[てつだ]うよ。何[なに]をすればいい？
+  Ich helfe dir bei der Arbeit. Was soll ich tun?
+
+  祖父の研究を手伝っているんだ。
+  祖父[そふ]の 研究[けんきゅう]を 手伝[てつだ]っているんだ。
+  Ich assistiere meinem Großvater bei seinen Forschungen.
+
+  「ちょっと手伝ってくれますか」「はい、喜んで」
+  「ちょっと 手伝[てつだ]ってくれますか」「はい、喜[よろこ]んで」
+  "Könntest du mir kurz helfen?" "Ja, gerne."
+
+  手伝おうと言ってくれて嬉しいです。
+  手伝[てつだ]おうと 言[い]ってくれて 嬉[うれ]しいです。
+  Ich freue mich, dass du angeboten hast zu helfen.
+
+  誰にも手伝ってもらわずにやり遂げた。
+  誰[だれ]にも 手伝[てつだ]ってもらわずにやり 遂[と]げた。
+  Ich habe es ganz ohne fremde Hilfe geschafft.
+
+  彼女は常に友人を手伝う準備ができている。
+  彼女[かのじょ]は 常[つね]に 友人[ゆうじん]を 手伝[てつだ]う 準備[じゅんび]ができている。
+  Sie ist immer bereit, ihren Freunden zu helfen.
+
+  子供たちに家事を手伝ってもらうのは大切だ。
+  子供[こども]たちに 家事[かじ]を 手伝[てつだ]ってもらうのは 大切[たいせつ]だ。
+  Es ist wichtig, die Kinder bei den Hausarbeiten helfen zu lassen.
+
+  彼の努力も手伝って、プロジェクトは成功した。
+  彼[かれ]の 努力[どりょく]も 手伝[てつだ]って、プロジェクトは 成功[せいこう]した。
+  Auch dank seiner Bemühungen war das Projekt erfolgreich.
+
+  天候にも恵まれ、イベントの成功を手伝った。
+  天候[てんこう]にも 恵[めぐ]まれ、イベントの 成功[せいこう]を 手伝[てつだ]った。
+  Das gute Wetter trug auch zum Erfolg der Veranstaltung bei.
+
+  新しい技術も手伝って、生産性が向上した。
+  新[あたら]しい 技術[ぎじゅつ]も 手伝[てつだ]って、生産性[せいさんせい]が 向上[こうじょう]した。
+  Auch die neue Technologie hat dazu beigetragen, die Produktivität zu steigern.
+
+  ボランティアとして地域のイベントを手伝う。
+  ボランティアとして 地域[ちいき]のイベントを 手伝[てつだ]う。
+  Ich helfe als Freiwilliger bei lokalen Veranstaltungen.
+
+  彼女の経験も手伝って、問題をスムーズに解決できた。
+  彼女[かのじょ]の 経験[けいけん]も 手伝[てつだ]って、問題[もんだい]をスムーズに 解決[かいけつ]できた。
+  Auch dank ihrer Erfahrung konnten wir das Problem reibungslos lösen.
+
+  手伝ってくれる人を探しているんだ。
+  手伝[てつだ]ってくれる 人[ひと]を 探[さが]しているんだ。
+  Ich suche jemanden, der mir helfen kann.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

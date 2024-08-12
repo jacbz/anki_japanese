@@ -1,7 +1,7 @@
 Rang: 2129
 Lemma: 喉
 Lesung: のど
-Alternativschreibweisen: ''
+Alternativschreibweisen: 咽・咽喉
 Definition: Kehle; Stimme
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,12 +15,98 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   喉が痛い。
-  喉[のど]が 痛[いた]い。
+  のど[のど]が 痛[いた]い。
   Ich habe Halsschmerzen.
+
+  この暑さで喉が渇いてきた。
+  この 暑[あつ]さで 喉[のど]が 渇[かわ]いてきた。
+  Bei dieser Hitze bin ich durstig geworden.
+
+  喉まで出かかった言葉を飲み込んだ。
+  のど[のど]まで 出[で]かかった 言葉[ことば]を 飲[の]み 込[こ]んだ。
+  Ich schluckte die Worte hinunter, die mir schon auf der Zunge lagen.
+
+  魚の骨が喉につかえた。
+  魚[さかな]の 骨[ほね]が 喉[のど]につかえた。
+  Eine Fischgräte ist mir im Hals stecken geblieben.
+
+  喉の痛みが和らぐまで、温かい飲み物を飲んでください。
+  のど[のど]の 痛[いた]みが 和[やわ]らぐまで、温[あたた]かい 飲[の]み 物[もの]を 飲[の]んでください。
+  Trinken Sie warme Getränke, bis die Halsschmerzen nachlassen.
+
+  長い散歩の後、喉の渇きを水で止めた。
+  長[なが]い 散歩[さんぽ]の 後[あと]、喉[のど]の 渇[かわ]きを 水[みず]で 止[と]めた。
+  Nach einem langen Spaziergang stillte ich meinen Durst mit Wasser.
+
+  喉の奥に違和感を感じる。
+  のど[のど]の 奥[おく]に 違和感[いわかん]を 感[かん]じる。
+  Ich spüre ein unangenehmes Gefühl tief im Hals.
+
+  歌手は喉を開いて高音を出した。
+  歌手[かしゅ]は 喉[のど]を 開[ひら]いて 高音[こうおん]を 出[だ]した。
+  Der Sänger öffnete seinen Hals, um die hohen Töne zu erreichen.
+
+  彼女は喉が良くて、歌がうまい。
+  彼女[かのじょ]は 喉[のど]が 良[よ]くて、歌[うた]がうまい。
+  Sie hat eine gute Stimme und kann gut singen.
+
+  ストレスで食事が喉を通らない。
+  ストレスで 食事[しょくじ]が 喉[のど]を 通[とお]らない。
+  Vor Stress bekomme ich keinen Bissen hinunter.
+
+  タバコを吸うと喉が乾くから、やめたんだ。
+  タバコを 吸[す]うと 喉[のど]が 乾[かわ]くから、やめたんだ。
+  Ich habe mit dem Rauchen aufgehört, weil es meine Kehle austrocknet.
+
+  喉がカラカラだ。何か飲みたい。
+  のど[のど]がカラカラだ。何[なに]か 飲[の]みたい。
+  Meine Kehle ist staubtrocken. Ich möchte etwas trinken.
+
+  喉を潤すためにレモン水を飲んだ。
+  のど[のど]を 潤[うるお]すためにレモン 水[すい]を 飲[の]んだ。
+  Ich trank Zitronenwasser, um meine Kehle zu befeuchten.
+
+  喉を酷使して声が枯れてしまった。
+  のど[のど]を 酷使[こくし]して 声[こえ]が 枯[か]れてしまった。
+  Ich habe meine Stimme überanstrengt und bin heiser geworden.
+
+  あの歌手は素晴らしい喉を持っている。
+  あの 歌手[かしゅ]は 素晴[すば]らしい 喉[のど]を 持[も]っている。
+  Jener Sänger hat eine wunderbare Stimme.
+
+  彼女の歌声を聴いて、喉が鳴るほど感動した。
+  彼女[かのじょ]の 歌声[うたごえ]を 聴[き]いて、喉[のど]が 鳴[な]るほど 感動[かんどう]した。
+  Ich war so bewegt von ihrem Gesang, dass mir die Kehle zuschnürte.
+
+  美味しそうな料理を見て、喉から手が出るほど食べたくなった。
+  美味[おい]しそうな 料理[りょうり]を 見[み]て、喉[のど]から 手[て]が 出[で]るほど 食[た]べたくなった。
+  Als ich das köstlich aussehende Gericht sah, wollte ich es unbedingt essen.
+
+  冷たい飲み物を喉を鳴らして飲んだ。
+  冷[つめ]たい 飲[の]み 物[もの]を 喉[のど]を 鳴[な]らして 飲[の]んだ。
+  Ich trank das kalte Getränk in großen, geräuschvollen Schlucken.
+
+  風邪で喉が腫れて、飲み込むのが辛い。
+  風邪[かぜ]で 喉[のど]が 腫[は]れて、飲[の]み 込[こ]むのが 辛[つら]い。
+  Wegen einer Erkältung ist mein Hals geschwollen, und es fällt mir schwer zu schlucken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort wird manchmal auch mit den Schriftzeichen 咽喉 geschrieben (eigentlich いんこう in·kō).</p>
+  <p>Einige typische Ausdrücke mit のど:</p>
+  <div class='examples'>
+    <div class='jp'>のどが 鳴[な]る</div>
+    <div class='de spoiler'>Der Mund wird wässrig (beim Anblick von Essen)</div>
+  </div>
+  <div class='examples'>
+    <div class='jp'>のどから 手[て]が 出[で]る</div>
+    <div class='de spoiler'>Etwas unbedingt haben wollen, nach etwas lechzen</div>
+  </div>
+  <div class='examples'>
+    <div class='jp'>のどを 鳴[な]らす</div>
+    <div class='de spoiler'>Sich räuspern; geräuschvoll schlucken; etwas unbedingt haben wollen</div>
+  </div>

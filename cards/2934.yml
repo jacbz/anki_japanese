@@ -4,7 +4,7 @@ Lesung: いつつ
 Alternativschreibweisen: ''
 Definition: fünf
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: num
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '97'
@@ -17,6 +17,82 @@ Beispielsätze: |-
   リンゴを五つ買った。
   リンゴを 五[いつ]つ 買[か]った。
   Ich habe fünf Äpfel gekauft.
+
+  五つ星のホテルに泊まるのが夢です。
+  五[いつ]つ 星[ぼし]のホテルに 泊[と]まるのが 夢[ゆめ]です。
+  Es ist mein Traum, in einem Fünf-Sterne-Hotel zu übernachten.
+
+  五つ子の出産は珍しいです。
+  五[いつ]つ 子[ご]の 出産[しゅっさん]は 珍[めずら]しいです。
+  Die Geburt von Fünflingen ist selten.
+
+  試験で五つ目の問題が一番難しかった。
+  試験[しけん]で 五[いつ]つ 目[め]の 問題[もんだい]が 一番[いちばん] 難[むずか]しかった。
+  Die fünfte Frage in der Prüfung war die schwierigste.
+
+  五つの中から一つ選んでください。
+  五[いつ]つの 中[なか]から 一[ひと]つ 選[えら]んでください。
+  Bitte wählen Sie eines aus fünf aus.
+
+  私には五つ下の弟がいます。
+  私[わたし]には 五[いつ]つ 下[した]の 弟[おとうと]がいます。
+  Ich habe einen fünf Jahre jüngeren Bruder.
+
+  この箱の中に五つとも入っています。
+  この 箱[はこ]の 中[なか]に 五[いつ]つとも 入[はい]っています。
+  Alle fünf sind in dieser Box.
+
+  五つ揃いの食器セットを買いました。
+  五[いつ]つ 揃[そろ]いの 食器[しょっき]セットを 買[か]いました。
+  Ich habe ein fünfteiliges Geschirrset gekauft.
+
+  クッキーを五つずつ分けましょう。
+  クッキーを 五[いつ]つずつ 分[わ]けましょう。
+  Lasst uns die Kekse zu je fünf aufteilen.
+
+  空腹とは言いながら五つまでは食べられません。
+  空腹[くうふく]とは 言[い]いながら 五[いつ]つまでは 食[た]べられません。
+  Auch wenn ich hungrig bin, kann ich nicht fünf davon essen.
+
+  五つも部屋があるのに、一人暮らしなんです。
+  五[いつ]つも 部屋[へや]があるのに、一人暮[ひとりぐ]らしなんです。
+  Obwohl ich fünf Zimmer habe, lebe ich allein.
+
+  あの壁には、ほかと色の違う石が五つはめこんである。
+  あの 壁[かべ]には、ほかと 色[いろ]の 違[ちが]う 石[いし]が 五[いつ]つはめこんである。
+  In dieser Mauer sind fünf Steine eingelassen, die eine andere Farbe haben als die übrigen.
+
+  五つ目のボタンを外しながら、彼女が小さく笑った。
+  五[いつ]つ 目[め]のボタンを 外[はず]しながら、彼女[かのじょ]が 小[ちい]さく 笑[わら]った。
+  Während sie den fünften Knopf öffnete, lachte sie leise.
+
+  妹さんはおいくつ？五つと二つです。
+  妹[いもうと]さんはおいくつ？五[いつ]つと 二[ふた]つです。
+  Wie alt sind deine jüngeren Schwestern? Fünf und zwei.
+
+  生きていればあの人はあなたよりも五つほど年上に当たったかな。
+  生[い]きていればあの 人[ひと]はあなたよりも 五[いつ]つほど 年上[としうえ]に 当[あ]たったかな。
+  Wenn er noch leben würde, wäre er wohl ungefähr fünf Jahre älter als du.
+
+  五つの約束を守ることが大切です。
+  五[いつ]つの 約束[やくそく]を 守[まも]ることが 大切[たいせつ]です。
+  Es ist wichtig, fünf Versprechen einzuhalten.
+
+  彼は五つの言語を話せます。
+  彼[かれ]は 五[いつ]つの 言語[げんご]を 話[はな]せます。
+  Er kann fünf Sprachen sprechen.
+
+  五つのリンゴを均等に分けるのは難しい。
+  五[いつ]つのリンゴを 均等[きんとう]に 分[わ]けるのは 難[むずか]しい。
+  Es ist schwierig, fünf Äpfel gleichmäßig aufzuteilen.
+
+  五つの大陸を全て訪れたいです。
+  五[いつ]つの 大陸[たいりく]を 全[すべ]て 訪[おとず]れたいです。
+  Ich möchte alle fünf Kontinente besuchen.
+
+  五つの選択肢から最適なものを選んでください。
+  五[いつ]つの 選択肢[せんたくし]から 最適[さいてき]なものを 選[えら]んでください。
+  Bitte wählen Sie die beste Option aus den fünf Möglichkeiten aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

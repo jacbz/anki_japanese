@@ -8,15 +8,95 @@ Wortart: n
 Lesung mit Tonhöhe: ^\..
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. shower
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   出かける前にシャワーを浴びる。
-  出[で]かける 前[まえ]にシャワーを 浴[あ]びる。
-  Bevor ich ausgehe, dusche ich.
+  でかける 前[まえ]にシャワーを 浴[あ]びる。
+  Ich nehme eine Dusche, bevor ich ausgehe.
+
+  朝はシャワーを浴びて一日を始めます。
+  朝[あさ]はシャワーを 浴[あ]びて 一日[いちにち]を 始[はじ]めます。
+  Ich beginne den Tag mit einer Dusche am Morgen.
+
+  シャワーブースが狭くて使いにくい。
+  シャワーブースが 狭[せま]くて 使[つか]いにくい。
+  Die Duschkabine ist eng und unbequem zu benutzen.
+
+  シャワーヘッドが詰まっているので、交換する必要があります。
+  シャワーヘッドが 詰[つ]まっているので、交換[こうかん]する 必要[ひつよう]があります。
+  Der Duschkopf ist verstopft und muss ausgetauscht werden.
+
+  シャワー管が古くなったので、新しいものに取り替えました。
+  シャワー 管[かん]が 古[ふる]くなったので、新[あたら]しいものに 取[と]り 替[か]えました。
+  Ich habe den alten Duschschlauch durch einen neuen ersetzt.
+
+  シャワーカーテンに水垢がついているので、洗う必要があります。
+  シャワーカーテンに 水垢[みずあか]がついているので、洗[あら]う 必要[ひつよう]があります。
+  Der Duschvorhang hat Wasserflecken und muss gewaschen werden.
+
+  このホテルの部屋にはシャワー室が付いています。
+  このホテルの 部屋[へや]にはシャワー 室[しつ]が 付[つ]いています。
+  Die Zimmer in diesem Hotel haben ein eigenes Duschbad.
+
+  シャワートイレは日本の多くの家庭で一般的になっています。
+  シャワートイレは 日本[にほん]の 多[おお]くの 家庭[かてい]で 一般的[いっぱんてき]になっています。
+  Dusch-WCs sind in vielen japanischen Haushalten zur Norm geworden.
+
+  シャワー付き部屋を予約しました。
+  シャワー 付[つ]き 部屋[へや]を 予約[よやく]しました。
+  Ich habe ein Zimmer mit Dusche reserviert.
+
+  暑い日はシャワーを浴びると気分がすっきりします。
+  暑[あつ]い 日[ひ]はシャワーを 浴[あ]びると 気分[きぶん]がすっきりします。
+  An heißen Tagen fühlt man sich nach einer Dusche erfrischt.
+
+  シャワーを出したままにしないで、水を大切に使いましょう。
+  シャワーを 出[だ]したままにしないで、水[みず]を 大切[たいせつ]に 使[つか]いましょう。
+  Lassen Sie die Dusche nicht laufen und gehen Sie sparsam mit Wasser um.
+
+  子供たちがプールの後でシャワーを浴びている。
+  子供[こども]たちがプールの 後[あと]でシャワーを 浴[あ]びている。
+  Die Kinder duschen nach dem Schwimmen im Pool.
+
+  彼女はシャワーを止めるのを忘れてしまった。
+  彼女[かのじょ]はシャワーを 止[と]めるのを 忘[わす]れてしまった。
+  Sie hat vergessen, die Dusche abzustellen.
+
+  冷たいシャワーを浴びて、熱中症を予防しましょう。
+  冷[つめ]たいシャワーを 浴[あ]びて、熱中症[ねっちゅうしょう]を 予防[よぼう]しましょう。
+  Nehmen Sie eine kalte Dusche, um einem Hitzschlag vorzubeugen.
+
+  朝のシャワーが一日の始まりを爽やかにしてくれる。
+  朝[あさ]のシャワーが 一日[いちにち]の 始[はじ]まりを 爽[さわ]やかにしてくれる。
+  Eine Morgendusche sorgt für einen frischen Start in den Tag.
+
+  シャワーの水圧が弱くて、シャンプーが洗い流せない。
+  シャワーの 水圧[すいあつ]が 弱[よわ]くて、シャンプーが 洗[あら]い 流[なが]せない。
+  Der Wasserdruck der Dusche ist so schwach, dass ich das Shampoo nicht ausspülen kann.
+
+  長風呂は避けて、シャワーは手早く済ませましょう。
+  長風呂[ながぶろ]は 避[さ]けて、シャワーは 手早[てばや]く 済[す]ませましょう。
+  Vermeiden Sie lange Bäder und duschen Sie stattdessen schnell.
+
+  運動後は必ずシャワーを浴びて、汗を流すようにしています。
+  運動[うんどう] 後[ご]は 必[かなら]ずシャワーを 浴[あ]びて、汗[あせ]を 流[なが]すようにしています。
+  Nach dem Sport dusche ich immer, um den Schweiß abzuwaschen.
+
+  シャワーの温度調節が難しくて、いつも熱すぎたり冷たすぎたりする。
+  シャワーの 温度調節[おんどちょうせつ]が 難[むずか]しくて、いつも 熱[あつ]すぎたり 冷[つめ]たすぎたりする。
+  Die Temperaturregelung der Dusche ist schwierig, es ist immer entweder zu heiß oder zu kalt.
+
+  新しい家にはシャワーとバスタブの両方がついていて便利です。
+  新[あたら]しい 家[いえ]にはシャワーとバスタブの 両方[りょうほう]がついていて 便利[べんり]です。
+  In unserem neuen Haus gibt es sowohl eine Dusche als auch eine Badewanne, was sehr praktisch ist.
+
+  浴槽の蛇口にはシャワーの代わりにゴム管が取り付けてあった。
+  浴槽[よくそう]の 蛇口[じゃぐち]にはシャワーの 代[か]わりにゴム 管[かん]が 取[と]り 付[つ]けてあった。
+  Anstelle einer Dusche war am Badewannenhahn ein Gummischlauch befestigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

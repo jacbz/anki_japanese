@@ -1,22 +1,102 @@
 Rang: 2080
 Lemma: 貸す
 Lesung: かす
-Alternativschreibweisen: ''
-Definition: verleihen, vermieten
+Alternativschreibweisen: 藉す
+Definition: (ver)leihen; vermieten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 貸さない・貸した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ペンを貸していただけますか。
   ペンを 貸[か]していただけますか。
-  Könnten Sie mir bitte Ihren Stift leihen?
+  Könnten Sie mir bitte einen Stift leihen?
+
+  友人に本を貸しました。
+  友人[ゆうじん]に 本[ほん]を 貸[か]しました。
+  Ich habe einem Freund ein Buch geliehen.
+
+  電話を貸してください。
+  電話[でんわ]を 貸[か]してください。
+  Darf ich mal telefonieren?
+
+  トイレを貸してください。
+  トイレを 貸[か]してください。
+  Dürfte ich Ihre Toilette benutzen?
+
+  ちょっと、筆を貸してくれませんか。
+  ちょっと、筆[ふで]を 貸[か]してくれませんか。
+  Entschuldigen Sie, darf ich mal einen Pinsel haben?
+
+  あの子に上着を貸してやったの、寒がってたから。
+  あの 子[こ]に 上着[うわぎ]を 貸[か]してやったの、寒[さむ]がってたから。
+  Ich habe dem Jungen meine Jacke geliehen, weil ihm kalt war.
+
+  彼女に枕として腕を貸してあげました。
+  彼女[かのじょ]に 枕[まくら]として 腕[うで]を 貸[か]してあげました。
+  Ich habe ihr meinen Arm als Kopfkissen geliehen.
+
+  知恵を貸してくれませんか。
+  知恵[ちえ]を 貸[か]してくれませんか。
+  Könntest du mir einen Rat geben?
+
+  力を貸してもらえませんか。
+  力[ちから]を 貸[か]してもらえませんか。
+  Könntest du mir helfen?
+
+  知識を貸すことで、お互いに成長できます。
+  知識[ちしき]を 貸[か]すことで、お 互[たが]いに 成長[せいちょう]できます。
+  Indem wir unser Wissen teilen, können wir uns gegenseitig weiterentwickeln.
+
+  金を貸すときは慎重に考えましょう。
+  金[かね]を 貸[か]すときは 慎重[しんちょう]に 考[かんが]えましょう。
+  Lassen Sie uns vorsichtig sein, wenn wir Geld verleihen.
+
+  耳を貸してください、大事な話があります。
+  耳[みみ]を 貸[か]してください、大事[だいじ]な 話[はなし]があります。
+  Bitte hören Sie mir zu, ich habe etwas Wichtiges zu sagen.
+
+  名前を貸すということは、責任も伴います。
+  名前[なまえ]を 貸[か]すということは、責任[せきにん]も 伴[ともな]います。
+  Seinen Namen zu verleihen bedeutet auch, Verantwortung zu übernehmen.
+
+  手を貸してくれてありがとう。
+  手[て]を 貸[か]してくれてありがとう。
+  Danke, dass du mir geholfen hast.
+
+  この家を貸すことにしました。
+  この 家[いえ]を 貸[か]すことにしました。
+  Ich habe beschlossen, dieses Haus zu vermieten.
+
+  農地を貸すのは、長期契約が一般的です。
+  農地[のうち]を 貸[か]すのは、長期[ちょうき]契約[けいやく]が 一般的[いっぱんてき]です。
+  Bei der Verpachtung von Ackerland sind langfristige Verträge üblich.
+
+  彼に車を貸したら、傷をつけて返してきた。
+  彼[かれ]に 車[くるま]を 貸[か]したら、傷[きず]をつけて 返[かえ]してきた。
+  Als ich ihm mein Auto geliehen habe, hat er es mit einem Kratzer zurückgebracht.
+
+  困っている人に手を貸すのは大切なことです。
+  困[こま]っている 人[ひと]に 手[て]を 貸[か]すのは 大切[たいせつ]なことです。
+  Es ist wichtig, Menschen in Not zu helfen.
+
+  彼女は私にお金を貸してくれた恩人です。
+  彼女[かのじょ]は 私[わたし]にお 金[かね]を 貸[か]してくれた 恩人[おんじん]です。
+  Sie ist meine Wohltäterin, die mir Geld geliehen hat.
+
+  図書館は本を貸すだけでなく、様々なサービスを提供しています。
+  図書館[としょかん]は 本[ほん]を 貸[か]すだけでなく、様々[さまざま]なサービスを 提供[ていきょう]しています。
+  Die Bibliothek bietet nicht nur Bücher zum Ausleihen an, sondern auch verschiedene andere Dienstleistungen.
+
+  私の背中を貸すよ、もたれかかって休んでいいからね。
+  私[わたし]の 背中[せなか]を 貸[か]すよ、もたれかかって 休[やす]んでいいからね。
+  Ich leihe dir meinen Rücken, du kannst dich anlehnen und ausruhen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

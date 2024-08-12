@@ -2,9 +2,9 @@ Rang: 3722
 Lemma: 現金
 Lesung: げんきん
 Alternativschreibweisen: ''
-Definition: Bargeld
+Definition: Bargeld; opportunistisch
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '97'
@@ -16,11 +16,102 @@ Konjugation: ''
 Beispielsätze: |-
   多額の現金を持ち歩くのは危ない。
   多額[たがく]の 現金[げんきん]を 持[も]ち 歩[ある]くのは 危[あぶ]ない。
-  Es ist nicht sicher, eine große Menge Bargeld mit sich zu führen.
+  Es ist gefährlich, große Mengen Bargeld mit sich herumzutragen.
+
+  現金払いの場合は割引があります。
+  現金払[げんきんばら]いの 場合[ばあい]は 割引[わりびき]があります。
+  Bei Barzahlung gibt es einen Rabatt.
+
+  ATMで現金を引き出すときは周りに注意しましょう。
+  ATMで 現金[げんきん]を 引[ひ]き 出[だ]すときは 周[まわ]りに 注意[ちゅうい]しましょう。
+  Achten Sie auf Ihre Umgebung, wenn Sie Geld am Geldautomaten abheben.
+
+  店頭での現金取引は減少傾向にあります。
+  店頭[てんとう]での 現金取引[げんきんとりひき]は 減少[げんしょう] 傾向[けいこう]にあります。
+  Bargeldtransaktionen an der Kasse sind rückläufig.
+
+  現金書留で送金しました。
+  現金書留[げんきんかきとめ]で 送金[そうきん]しました。
+  Ich habe das Geld per Wertbrief überwiesen.
+
+  現金自動支払機が故障中で困っています。
+  現金自動支払機[げんきんじどうしはらいき]が 故障中[こしょうちゅう]で 困[こま]っています。
+  Ich habe Probleme, weil der Geldautomat außer Betrieb ist.
+
+  現金でのお支払いをお願いします。
+  現金[げんきん]での お支払[しはら]いを お願[ねが]いします。
+  Bitte zahlen Sie in bar.
+
+  現金を持ち合わせていないので、カードで支払えますか？
+  現金[げんきん]を 持[も]ち 合[あ]わせていないので、カードで 支払[しはら]えますか？
+  Ich habe kein Bargeld dabei. Kann ich mit Karte bezahlen?
+
+  現金輸送車が銀行に到着しました。
+  現金輸送車[げんきんゆそうしゃ]が 銀行[ぎんこう]に 到着[とうちゃく]しました。
+  Der Geldtransporter ist bei der Bank eingetroffen.
+
+  現金残高を確認してください。
+  現金残高[げんきんざんだか]を 確認[かくにん]してください。
+  Bitte überprüfen Sie den Kassenbestand.
+
+  現金を掻き集めて、なんとか支払いに間に合いました。
+  現金[げんきん]を 掻[か]き 集[あつ]めて、なんとか 支払[しはら]いに 間[ま]に 合[あ]いました。
+  Ich habe gerade noch genug Bargeld zusammengekratzt, um die Zahlung rechtzeitig zu leisten.
+
+  現金の流通量が減少しているのは、電子決済の普及が原因です。
+  現金[げんきん]の 流通量[りゅうつうりょう]が 減少[げんしょう]しているのは、電子決済[でんしけっさい]の 普及[ふきゅう]が 原因[げんいん]です。
+  Der Rückgang des Bargeldumlaufs ist auf die Verbreitung elektronischer Zahlungsmethoden zurückzuführen.
+
+  現金給与は毎月15日に行われます。
+  現金給与[げんきんきゅうよ]は 毎月[まいつき]15日[にち]に 行[おこな]われます。
+  Die Barauszahlung der Gehälter erfolgt jeden Monat am 15.
+
+  現金出納係の仕事は責任重大だ。
+  現金出納係[げんきんすいとうがかり]の 仕事[しごと]は 責任[せきにん] 重大[じゅうだい]だ。
+  Die Arbeit des Kassierers ist sehr verantwortungsvoll.
+
+  現金を切らしているので、ATMに行かなければ。
+  現金[げんきん]を 切[き]らしているので、ATMに 行[い]かなければ。
+  Mir ist das Bargeld ausgegangen, also muss ich zum Geldautomaten gehen.
+
+  彼は現金な性格で、自分の利益しか考えない。
+  彼[かれ]は 現金[げんきん]な 性格[せいかく]で、自分[じぶん]の 利益[りえき]しか 考[かんが]えない。
+  Er hat einen berechnenden Charakter und denkt nur an seinen eigenen Vorteil.
+
+  現金な態度は信頼関係を築く上で障害になります。
+  現金[げんきん]な 態度[たいど]は 信頼関係[しんらいかんけい]を 築[きず]く 上[うえ]で 障害[しょうがい]になります。
+  Eine berechnende Haltung ist ein Hindernis beim Aufbau von Vertrauensbeziehungen.
+
+  「現金掛値なし」というのは、正直で信頼できる人の喩えです。
+  「現金掛値[げんきんかけね]なし」というのは、正直[しょうじき]で 信頼[しんらい]できる 人[ひと]の 喩[たと]えです。
+  "Genkin kakene nashi" ist eine Redewendung für jemanden, der ehrlich und vertrauenswürdig ist.
+
+  現金を銀行に預けて、利子を得ることができます。
+  現金[げんきん]を 銀行[ぎんこう]に 預[あず]けて、利子[りし]を 得[え]ることができます。
+  Sie können Bargeld bei der Bank einzahlen und Zinsen dafür erhalten.
+
+  現金での取引は、記録が残りにくいという問題があります。
+  現金[げんきん]での 取引[とりひき]は、記録[きろく]が 残[のこ]りにくいという 問題[もんだい]があります。
+  Ein Problem bei Bargeldtransaktionen ist, dass sie schwer nachzuverfolgen sind.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Als Substantiv bezieht sich 現金 auf Bargeld oder verfügbare Geldmittel.</p>
+  <div class="examples">
+    <div class="jp">現金[げんきん]で 支払[しはら]う。</div>
+    <div class="de spoiler">In bar bezahlen.</div>
+  </div>
+  <p>Als na-Adjektiv beschreibt es eine berechnende, eigennützige oder opportunistische Haltung.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 現金[げんきん]な 人[ひと]だ。</div>
+    <div class="de spoiler">Er ist ein berechnender Mensch.</div>
+  </div>
+  <p>Es gibt auch eine Redewendung: 現金掛値なし (げんきんかけねなし)</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 現金掛値[げんきんかけね]なしの 人[ひと]だ。</div>
+    <div class="de spoiler">Man kann sich immer auf ihn verlassen. (wörtlich: Er ist jemand, bei dem es keine Preisverhandlungen gibt)</div>
+  </div>

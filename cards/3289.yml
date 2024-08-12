@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^^
 Register: ↗</>Internet
 Dispersion: '40'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 眠くない・眠かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   徹夜明けなので、とても眠い。
-  徹夜[てつや] 明[あ]けなので、とても 眠[ねむ]い。
-  Ich bin sehr schläfrig, weil ich die ganze Nacht wach war.
+  徹夜明[てつやあ]けなので、とても 眠[ねむ]い。
+  Nach der Nachtschicht bin ich sehr müde.
+
+  眠くてたまらないから、早く寝る。
+  眠[ねむ]くてたまらないから、早[はや]く 寝[ね]る。
+  Ich bin todmüde, also gehe ich früh schlatten.
+
+  この授業は眠くなるほど退屈だ。
+  この 授業[じゅぎょう]は 眠[ねむ]くなるほど 退屈[たいくつ]だ。
+  Dieser Unterricht ist so langweilig, dass ich davon schläfrig werde.
+
+  ちっとも眠くないのに、もう寝る時間だ。
+  ちっとも 眠[ねむ]くないのに、もう 寝[ね]る 時間[じかん]だ。
+  Obwohl ich überhaupt nicht müde bin, ist es schon Zeit zum Schlafen.
+
+  長い会議で眠くなってきた。
+  長[なが]い 会議[かいぎ]で 眠[ねむ]くなってきた。
+  In der langen Besprechung wurde ich allmählich schläfrig.
+
+  彼女の話を聞いていると眠くなる。
+  彼女[かのじょ]の 話[はなし]を 聞[き]いていると 眠[ねむ]くなる。
+  Wenn ich ihr zuhöre, werde ich schläfrig.
+
+  眠くなるような単調な音楽が流れていた。
+  眠[ねむ]くなるような 単調[たんちょう]な 音楽[おんがく]が 流[なが]れていた。
+  Es lief eine monotone Musik, die einen schläfrig machte.
+
+  朝から眠くて仕事に集中できない。
+  朝[あさ]から 眠[ねむ]くて 仕事[しごと]に 集中[しゅうちゅう]できない。
+  Ich bin seit dem Morgen müde und kann mich nicht auf die Arbeit konzentrieren.
+
+  眠いけど、もう少し頑張って勉強しよう。
+  眠[ねむ]いけど、もう 少[すこ]し 頑張[がんば]って 勉強[べんきょう]しよう。
+  Auch wenn ich müde bin, lass uns noch ein bisschen weiterlernen.
+
+  夜更かしすると次の日眠くなるよ。
+  夜更[よふ]かしすると 次[つぎ]の 日[ひ] 眠[ねむ]くなるよ。
+  Wenn du lange aufbleibst, wirst du am nächsten Tag müde sein.
+
+  眠くて目が開けていられない。
+  眠[ねむ]くて 目[め]が 開[あ]けていられない。
+  Ich bin so müde, dass ich meine Augen nicht offen halten kann.
+
+  寝不足で眠いから、コーヒーを飲もう。
+  寝不足[ねぶそく]で 眠[ねむ]いから、コーヒーを 飲[の]もう。
+  Ich bin müde wegen Schlafmangels, also lass uns einen Kaffee trinken.
+
+  眠い目をこすりながら、レポートを書いている。
+  眠[ねむ]い 目[め]をこすりながら、レポートを 書[か]いている。
+  Ich reibe mir die müden Augen, während ich den Bericht schreibe.
+
+  眠くなるような退屈な映画だった。
+  眠[ねむ]くなるような 退屈[たいくつ]な 映画[えいが]だった。
+  Es war ein langweiliger Film, der einen schläfrig machte.
+
+  眠いのを我慢して運転するのは危険だ。
+  眠[ねむ]いのを 我慢[がまん]して 運転[うんてん]するのは 危険[きけん]だ。
+  Es ist gefährlich, müde Auto zu fahren.
+
+  眠くて授業に集中できません。
+  眠[ねむ]くて 授業[じゅぎょう]に 集中[しゅうちゅう]できません。
+  Ich bin so müde, dass ich mich nicht auf den Unterricht konzentrieren kann.
+
+  眠いからもう寝るね。おやすみ。
+  眠[ねむ]いからもう 寝[ね]るね。おやすみ。
+  Ich bin müde, also gehe ich jetzt schlafen. Gute Nacht.
+
+  眠くて仕方がないので、少し休憩します。
+  眠[ねむ]くて 仕方[しかた]がないので、少[すこ]し 休憩[きゅうけい]します。
+  Ich bin unglaublich müde, also mache ich eine kleine Pause.
+
+  眠い目をしながら、朝のニュースを見ている。
+  眠[ねむ]い 目[め]をしながら、朝[あさ]のニュースを 見[み]ている。
+  Mit müden Augen schaue ich die Morgennachrichten.
+
+  徹夜で作業したから、今日はずっと眠い。
+  徹夜[てつや]で 作業[さぎょう]したから、今日[きょう]はずっと 眠[ねむ]い。
+  Weil ich die ganze Nacht durchgearbeitet habe, bin ich heute den ganzen Tag müde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 2960
 Lemma: 九日
 Lesung: ここのか
 Alternativschreibweisen: ''
-Definition: neunter (Tag); neun Tage
+Definition: neunter Tag; neun Tage
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^^
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   九日は私の誕生日だった。
-  九 日[にち]は 私[わたし]の 誕生日[たんじょうび]だった。
-  Der neunte war mein Geburtstag.
+  九日[ここのか]は 私[わたし]の 誕生日[たんじょうび]だった。
+  Der neunte Tag war mein Geburtstag.
+
+  八月九日は祝日なので、会社は休みです。
+  八月[はちがつ]九日[ここのか]は 祝日[しゅくじつ]なので、会社[かいしゃ]は 休[やす]みです。
+  Da der 9. August ein Feiertag ist, hat die Firma geschlossen.
+
+  工事は九日間続く予定です。
+  工事[こうじ]は 九日間[ここのかかん] 続[つづ]く 予定[よてい]です。
+  Die Bauarbeiten sollen neun Tage dauern.
+
+  九日間にわたるフェスティバルが開催されます。
+  九日間[ここのかかん]にわたるフェスティバルが 開催[かいさい]されます。
+  Es findet ein neuntägiges Festival statt.
+
+  将軍の屋敷で九日を過ごした後、我々は出発した。
+  将軍[しょうぐん]の 屋敷[やしき]で 九日[ここのか]を 過[す]ごした 後[あと]、我々[われわれ]は 出発[しゅっぱつ]した。
+  Nachdem wir neun Tage im Anwesen des Generals verbracht hatten, brachen wir auf.
+
+  九日目に、ようやく目的地に到着しました。
+  九日目[ここのかめ]に、ようやく 目的地[もくてきち]に 到着[とうちゃく]しました。
+  Am neunten Tag erreichten wir endlich unser Ziel.
+
+  毎月九日は特別セールの日だよ。
+  毎月[まいつき]九日[ここのか]は 特別[とくべつ]セールの 日[ひ]だよ。
+  Jeden Monat am neunten Tag ist ein spezieller Verkaufstag.
+
+  九日間の休暇を取ることにしました。
+  九日間[ここのかかん]の 休暇[きゅうか]を 取[と]ることにしました。
+  Ich habe beschlossen, neun Tage Urlaub zu nehmen.
+
+  九日前から準備を始めています。
+  九日前[ここのかまえ]から 準備[じゅんび]を 始[はじ]めています。
+  Wir haben vor neun Tagen mit den Vorbereitungen begonnen.
+
+  九日後に重要な会議があります。
+  九日後[ここのかご]に 重要[じゅうよう]な 会議[かいぎ]があります。
+  In neun Tagen findet eine wichtige Besprechung statt.
+
+  九日間の断食を終えた後、彼は元気になった。
+  九日間[ここのかかん]の 断食[だんじき]を 終[お]えた 後[あと]、彼[かれ]は 元気[げんき]になった。
+  Nachdem er eine neuntägige Fastenzeit beendet hatte, fühlte er sich besser.
+
+  九日ごとに植物に水をやっています。
+  九日[ここのか]ごとに 植物[しょくぶつ]に 水[みず]をやっています。
+  Ich gieße die Pflanzen alle neun Tage.
+
+  彼女は九日間の旅行から昨日帰ってきた。
+  彼女[かのじょ]は 九日間[ここのかかん]の 旅行[りょこう]から 昨日[きのう] 帰[かえ]ってきた。
+  Sie ist gestern von einer neuntägigen Reise zurückgekehrt.
+
+  九日間の研修を受けた後、新しい仕事を始めます。
+  九日間[ここのかかん]の 研修[けんしゅう]を 受[う]けた 後[あと]、新[あたら]しい 仕事[しごと]を 始[はじ]めます。
+  Nach einer neuntägigen Schulung werde ich mit meiner neuen Arbeit beginnen.
+
+  九日目にして、やっとプロジェクトが完了した。
+  九日目[ここのかめ]にして、やっとプロジェクトが 完了[かんりょう]した。
+  Am neunten Tag wurde das Projekt endlich abgeschlossen.
+
+  九日間の雨で、川の水位が上がった。
+  九日間[ここのかかん]の 雨[あめ]で、川[かわ]の 水位[すいい]が 上[あ]がった。
+  Durch den neuntägigen Regen ist der Wasserspiegel des Flusses gestiegen.
+
+  九日間の催し物が今日から始まります。
+  九日間[ここのかかん]の 催[もよお]し 物[もの]が 今日[きょう]から 始[はじ]まります。
+  Die neuntägige Veranstaltung beginnt heute.
+
+  九日目に、部隊は目的地に到着した。
+  九日目[ここのかめ]に、部隊[ぶたい]は 目的地[もくてきち]に 到着[とうちゃく]した。
+  Am neunten Tag erreichte die Truppe ihr Ziel.
+
+  毎年九日間の夏祭りが開催されます。
+  毎年[まいとし]九日間[ここのかかん]の 夏祭[なつまつ]りが 開催[かいさい]されます。
+  Jedes Jahr findet ein neuntägiges Sommerfest statt.
+
+  九日間の断水で、住民は不便を強いられた。
+  九日間[ここのかかん]の 断水[だんすい]で、住民[じゅうみん]は 不便[ふべん]を 強[し]いられた。
+  Die Anwohner mussten durch die neuntägige Wasserabschaltung Unannehmlichkeiten ertragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

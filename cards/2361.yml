@@ -1,7 +1,7 @@
 Rang: 2361
 Lemma: 知り合う
 Lesung: しりあう
-Alternativschreibweisen: ''
+Alternativschreibweisen: 知合う
 Definition: kennenlernen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 知り合わない・知り合った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   新しい友達と知り合う。
   新[あたら]しい 友達[ともだち]と 知[し]り 合[あ]う。
   Ich werde einige neue Freunde kennenlernen.
+
+  彼女とは偶然知り合ったんだ。
+  彼女[かのじょ]とは 偶然[ぐうぜん] 知[し]り 合[あ]ったんだ。
+  Ich habe sie zufällig kennengelernt.
+
+  知り合って間もない人と食事に行くのは緊張します。
+  知[し]り 合[あ]って 間[ま]もない 人[ひと]と 食事[しょくじ]に 行[い]くのは 緊張[きんちょう]します。
+  Es macht mich nervös, mit jemandem essen zu gehen, den ich erst seit kurzem kenne.
+
+  大学のテニスサークルで多くの人と知り合った。
+  大学[だいがく]のテニスサークルで 多[おお]くの 人[ひと]と 知[し]り 合[あ]った。
+  Ich habe viele Leute im Tennis-Club der Universität kennengelernt.
+
+  インターネットを通じて知り合った人とは、実際に会うときは注意が必要だ。
+  インターネットを 通[つう]じて 知[し]り 合[あ]った 人[ひと]とは、実際[じっさい]に 会[あ]うときは 注意[ちゅうい]が 必要[ひつよう]だ。
+  Man sollte vorsichtig sein, wenn man sich mit jemandem trifft, den man über das Internet kennengelernt hat.
+
+  彼とは去年の同窓会で知り合いました。
+  彼[かれ]とは 去年[きょねん]の 同窓会[どうそうかい]で 知[し]り 合[あ]いました。
+  Ich habe ihn letztes Jahr beim Klassentreffen kennengelernt.
+
+  この町に引っ越してきてから、たくさんの人と知り合うことができた。
+  この 町[まち]に 引[ひ]っ 越[こ]してきてから、たくさんの 人[ひと]と 知[し]り 合[あ]うことができた。
+  Seit ich in diese Stadt gezogen bin, konnte ich viele Menschen kennenlernen.
+
+  仕事を通じて知り合った人が、今では親友になっています。
+  仕事[しごと]を 通[つう]じて 知[し]り 合[あ]った 人[ひと]が、今[いま]では 親友[しんゆう]になっています。
+  Jemand, den ich durch die Arbeit kennengelernt habe, ist jetzt mein bester Freund.
+
+  彼女とは海外旅行中に知り合ったんです。
+  彼女[かのじょ]とは 海外旅行中[かいがいりょこうちゅう]に 知[し]り 合[あ]ったんです。
+  Ich habe sie während einer Auslandsreise kennengelernt.
+
+  知り合ってすぐに、私たちは意気投合しました。
+  知[し]り 合[あ]ってすぐに、私[わたし]たちは 意気投合[いきとうごう]しました。
+  Gleich nachdem wir uns kennengelernt hatten, verstanden wir uns prächtig.
+
+  パーティーで知り合った人と連絡先を交換した。
+  パーティーで 知[し]り 合[あ]った 人[ひと]と 連絡先[れんらくさき]を 交換[こうかん]した。
+  Ich habe Kontaktdaten mit jemandem ausgetauscht, den ich auf einer Party kennengelernt habe.
+
+  知り合う機会が少ないので、積極的に交流の場を探している。
+  知[し]り 合[あ]う 機会[きかい]が 少[すく]ないので、積極的[せっきょくてき]に 交流[こうりゅう]の 場[ば]を 探[さが]している。
+  Da es wenig Gelegenheiten gibt, neue Leute kennenzulernen, suche ich aktiv nach Möglichkeiten zum Austausch.
+
+  彼とは共通の趣味を通じて知り合った。
+  彼[かれ]とは 共通[きょうつう]の 趣味[しゅみ]を 通[つう]じて 知[し]り 合[あ]った。
+  Ich habe ihn durch ein gemeinsames Hobby kennengelernt.
+
+  新しい環境で知り合う人々は、私の人生を豊かにしてくれる。
+  新[あたら]しい 環境[かんきょう]で 知[し]り 合[あ]う 人々[ひとびと]は、私[わたし]の 人生[じんせい]を 豊[ゆた]かにしてくれる。
+  Die Menschen, die ich in einer neuen Umgebung kennenlerne, bereichern mein Leben.
+
+  知り合って以来、私たちは親しい友人関係を築いてきました。
+  知[し]り 合[あ]って 以来[いらい]、私[わたし]たちは 親[した]しい 友人関係[ゆうじんかんけい]を 築[きず]いてきました。
+  Seit wir uns kennengelernt haben, haben wir eine enge Freundschaft aufgebaut.
+
+  この業界で知り合った人脈が、今の仕事に役立っている。
+  この 業界[ぎょうかい]で 知[し]り 合[あ]った 人脈[じんみゃく]が、今[いま]の 仕事[しごと]に 役立[やくだ]っている。
+  Die Kontakte, die ich in dieser Branche geknüpft habe, sind für meine jetzige Arbeit nützlich.
+
+  知り合う前は、彼のことを誤解していた。
+  知[し]り 合[あ]う 前[まえ]は、彼[かれ]のことを 誤解[ごかい]していた。
+  Bevor ich ihn kennenlernte, hatte ich ihn missverstanden.
+
+  知り合うきっかけは些細なことだったが、今では大切な友人だ。
+  知[し]り 合[あ]うきっかけは 些細[ささい]なことだったが、今[いま]では 大切[たいせつ]な 友人[ゆうじん]だ。
+  Der Anlass, wie wir uns kennengelernt haben, war unbedeutend, aber jetzt ist er ein wichtiger Freund.
+
+  新しい土地で知り合う人々は、その地域の文化を理解する手助けとなる。
+  新[あたら]しい 土地[とち]で 知[し]り 合[あ]う 人々[ひとびと]は、その 地域[ちいき]の 文化[ぶんか]を 理解[りかい]する 手助[てだす]けとなる。
+  Die Menschen, die man an einem neuen Ort kennenlernt, helfen einem, die Kultur der Region zu verstehen.
+
+  知り合う過程で、お互いの価値観の違いを発見することがある。
+  知[し]り 合[あ]う 過程[かてい]で、お 互[たが]いの 価値観[かちかん]の 違[ちが]いを 発見[はっけん]することがある。
+  Im Prozess des Kennenlernens entdeckt man manchmal Unterschiede in den gegenseitigen Wertvorstellungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

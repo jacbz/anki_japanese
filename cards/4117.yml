@@ -2,7 +2,7 @@ Rang: 4117
 Lemma: 物価
 Lesung: ぶっか
 Alternativschreibweisen: ''
-Definition: Preise
+Definition: Preis(niveau)
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
@@ -17,6 +17,102 @@ Beispielsätze: |-
   今月は物価が上がった。
   今月[こんげつ]は 物価[ぶっか]が 上[あ]がった。
   Diesen Monat sind die Preise gestiegen.
+
+  物価安定は経済政策の重要な目標です。
+  物価[ぶっか]安定[あんてい]は 経済[けいざい]政策[せいさく]の 重要[じゅうよう]な 目標[もくひょう]です。
+  Preisstabilität ist ein wichtiges Ziel der Wirtschaftspolitik.
+
+  最近の物価暴落で多くの企業が苦戦している。
+  最近[さいきん]の 物価[ぶっか]暴落[ぼうらく]で 多[おお]くの 企業[きぎょう]が 苦戦[くせん]している。
+  Viele Unternehmen kämpfen aufgrund des jüngsten Preissturzes.
+
+  物価高のため、生活費が増えてしまった。
+  物価高[ぶっかだか]のため、生活費[せいかつひ]が 増[ふ]えてしまった。
+  Aufgrund der hohen Preise sind die Lebenshaltungskosten gestiegen.
+
+  政府は物価動向を注意深く観察している。
+  政府[せいふ]は 物価[ぶっか]動向[どうこう]を 注意深[ちゅういぶか]く 観察[かんさつ]している。
+  Die Regierung beobachtet die Preisentwicklung aufmerksam.
+
+  物価下落により、デフレの懸念が高まっています。
+  物価[ぶっか]下落[げらく]により、デフレの 懸念[けねん]が 高[たか]まっています。
+  Der Preisrückgang hat die Deflationsängste verstärkt.
+
+  消費税増税後、物価引き下げの要望が強まった。
+  消費税[しょうひぜい]増税[ぞうぜい]後[ご]、物価[ぶっか]引[ひ]き 下[さ]げの 要望[ようぼう]が 強[つよ]まった。
+  Nach der Erhöhung der Mehrwertsteuer verstärkten sich die Forderungen nach Preissenkungen.
+
+  経済成長に伴い、緩やかな物価上昇が見られる。
+  経済[けいざい]成長[せいちょう]に 伴[ともな]い、緩[ゆる]やかな 物価[ぶっか]上昇[じょうしょう]が 見[み]られる。
+  Mit dem Wirtschaftswachstum ist ein moderater Preisanstieg zu beobachten.
+
+  物価上昇傾向が続いているため、給料も上げてほしい。
+  物価[ぶっか]上昇[じょうしょう]傾向[けいこう]が 続[つづ]いているため、給料[きゅうりょう]も 上[あ]げてほしい。
+  Da der Trend zu steigenden Preisen anhält, hätte ich gerne auch eine Gehaltserhöhung.
+
+  今年の物価上昇率は前年比2%増でした。
+  今年[ことし]の 物価[ぶっか]上昇[じょうしょう]率[りつ]は 前年[ぜんねん]比[ひ]2%増[ぞう]でした。
+  Die Inflationsrate lag in diesem Jahr bei 2% im Vergleich zum Vorjahr.
+
+  物価監視委員会が設立されました。
+  物価[ぶっか]監視[かんし]委員会[いいんかい]が 設立[せつりつ]されました。
+  Es wurde eine Preisüberwachungskommission eingerichtet.
+
+  自由市場における物価形成のメカニズムは複雑だ。
+  自由[じゆう]市場[しじょう]における 物価[ぶっか]形成[けいせい]のメカニズムは 複雑[ふくざつ]だ。
+  Der Mechanismus der Preisbildung in einem freien Markt ist komplex.
+
+  政府は一部の商品の物価固定を決定した。
+  政府[せいふ]は 一部[いちぶ]の 商品[しょうひん]の 物価[ぶっか]固定[こてい]を 決定[けってい]した。
+  Die Regierung hat beschlossen, die Preise für einige Produkte festzulegen.
+
+  新しい物価政策が発表される予定だ。
+  新[あたら]しい 物価[ぶっか]政策[せいさく]が 発表[はっぴょう]される 予定[よてい]だ。
+  Es ist geplant, eine neue Preispolitik anzukündigen.
+
+  物価指数の計算方法が改訂されました。
+  物価[ぶっか]指数[しすう]の 計算[けいさん]方法[ほうほう]が 改訂[かいてい]されました。
+  Die Berechnungsmethode für den Preisindex wurde überarbeitet.
+
+  現在の物価水準は10年前と比べてかなり高い。
+  現在[げんざい]の 物価[ぶっか]水準[すいじゅん]は10年前[ねんまえ]と 比[くら]べてかなり 高[たか]い。
+  Das aktuelle Preisniveau ist deutlich höher als vor 10 Jahren.
+
+  給料が物価スライドで調整されるのは助かります。
+  給料[きゅうりょう]が 物価[ぶっか]スライドで 調整[ちょうせい]されるのは 助[たす]かります。
+  Es ist hilfreich, dass die Gehälter an die Preisentwicklung angepasst werden.
+
+  物価上昇に対応するため、物価手当が支給されることになった。
+  物価[ぶっか]上昇[じょうしょう]に 対応[たいおう]するため、物価[ぶっか]手当[てあて]が 支給[しきゅう]されることになった。
+  Es wurde beschlossen, eine Teuerungszulage zu zahlen, um dem Preisanstieg zu begegnen.
+
+  物価統計によると、食料品の価格が特に上昇している。
+  物価[ぶっか]統計[とうけい]によると、食料品[しょくりょうひん]の 価格[かかく]が 特[とく]に 上昇[じょうしょう]している。
+  Laut der Preisstatistik sind insbesondere die Lebensmittelpreise gestiegen.
+
+  政府は物価凍結を解除する方針を発表した。
+  政府[せいふ]は 物価[ぶっか]凍結[とうけつ]を 解除[かいじょ]する 方針[ほうしん]を 発表[はっぴょう]した。
+  Die Regierung hat angekündigt, den Preisstopp aufzuheben.
+
+  エネルギー価格の高騰により、全体的な物価騰貴が起きている。
+  エネルギー 価格[かかく]の 高騰[こうとう]により、全体[ぜんたい]的[てき]な 物価[ぶっか]騰貴[とうき]が 起[お]きている。
+  Aufgrund der steigenden Energiepreise kommt es zu einem allgemeinen Preisanstieg.
+
+  戦時中は厳しい物価統制が行われていた。
+  戦時中[せんじちゅう]は 厳[きび]しい 物価[ぶっか]統制[とうせい]が 行[おこな]われていた。
+  Während des Krieges gab es eine strenge Preiskontrolle.
+
+  物価の変動が激しいので、家計のやりくりが大変だ。
+  物価[ぶっか]の 変動[へんどう]が 激[はげ]しいので、家計[かけい]のやりくりが 大変[たいへん]だ。
+  Die starken Preisschwankungen machen es schwierig, den Haushalt zu führen.
+
+  政府は物価を抑えるために様々な対策を講じている。
+  政府[せいふ]は 物価[ぶっか]を 抑[おさ]えるために 様々[さまざま]な 対策[たいさく]を 講[こう]じている。
+  Die Regierung ergreift verschiedene Maßnahmen, um die Preise zu halten.
+
+  小売業者は物価を下げるよう要請された。
+  小売[こうり]業者[ぎょうしゃ]は 物価[ぶっか]を 下[さ]げるよう 要請[ようせい]された。
+  Die Einzelhändler wurden aufgefordert, die Preise zu senken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

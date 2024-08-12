@@ -2,7 +2,7 @@ Rang: 2094
 Lemma: 社員
 Lesung: しゃいん
 Alternativschreibweisen: ''
-Definition: Mitarbeiter, Angestellter
+Definition: Angestellter, Mitarbeiter
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: ^\..
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼はうちの社員です。
   彼[かれ]はうちの 社員[しゃいん]です。
-  Er ist ein Mitarbeiter unseres Unternehmens.
+  Er ist Angestellter in unserem Unternehmen.
+
+  今年、新しい社員を10名募集しています。
+  今年[ことし]、新[あたら]しい 社員[しゃいん]を10名[めい] 募集[ぼしゅう]しています。
+  Dieses Jahr suchen wir 10 neue Mitarbeiter.
+
+  社員一同で新年会を開催します。
+  社員一同[しゃいんいちどう]で 新年会[しんねんかい]を 開催[かいさい]します。
+  Wir veranstalten eine Neujahrsfeier mit allen Mitarbeitern.
+
+  来月から社員研修が始まります。
+  来月[らいげつ]から 社員研修[しゃいんけんしゅう]が 始[はじ]まります。
+  Ab nächsten Monat beginnt die Mitarbeiterschulung.
+
+  当社では社員持株制度を導入しています。
+  当社[とうしゃ]では 社員持株制度[しゃいんもちかぶせいど]を 導入[どうにゅう]しています。
+  Unser Unternehmen hat ein Mitarbeiterbeteiligungsprogramm eingeführt.
+
+  今週末は社員旅行で沖縄に行きます。
+  今週末[こんしゅうまつ]は 社員旅行[しゃいんりょこう]で 沖縄[おきなわ]に 行[い]きます。
+  Dieses Wochenende machen wir einen Betriebsausflug nach Okinawa.
+
+  社員食堂でランチを食べることが多いです。
+  社員食堂[しゃいんしょくどう]でランチを 食[た]べることが 多[おお]いです。
+  Ich esse oft in der Betriebskantine zu Mittag.
+
+  社員証を忘れずに持ってきてください。
+  社員証[しゃいんしょう]を 忘[わす]れずに 持[も]ってきてください。
+  Bitte vergessen Sie nicht, Ihren Mitarbeiterausweis mitzubringen.
+
+  社員割引を利用すれば、商品が20%オフで購入できます。
+  社員割引[しゃいんわりびき]を 利用[りよう]すれば、商品[しょうひん]が20%オフで 購入[こうにゅう]できます。
+  Wenn du den Mitarbeiterrabatt nutzt, kannst du die Produkte mit 20% Ermäßigung kaufen.
+
+  彼女はフルタイム社員として働いています。
+  彼女[かのじょ]はフルタイム 社員[しゃいん]として 働[はたら]いています。
+  Sie arbeitet als Vollzeitmitarbeiterin.
+
+  派遣社員の契約期間は3ヶ月です。
+  派遣社員[はけんしゃいん]の 契約期間[けいやくきかん]は3ヶ月[かげつ]です。
+  Die Vertragsdauer für Zeitarbeiter beträgt 3 Monate.
+
+  平社員から管理職に昇進するのは難しい。
+  平社員[ひらしゃいん]から 管理職[かんりしょく]に 昇進[しょうしん]するのは 難[むずか]しい。
+  Es ist schwierig, von einem einfachen Angestellten zu einer Führungsposition aufzusteigen.
+
+  彼は契約社員から正社員になりました。
+  彼[かれ]は 契約社員[けいやくしゃいん]から 正社員[せいしゃいん]になりました。
+  Er wurde von einem Vertragsmitarbeiter zu einem Festangestellten.
+
+  パートタイム社員の勤務時間は柔軟です。
+  パートタイム 社員[しゃいん]の 勤務時間[きんむじかん]は 柔軟[じゅうなん]です。
+  Die Arbeitszeiten für Teilzeitmitarbeiter sind flexibel.
+
+  臨時社員の雇用期間は1年を超えないものとします。
+  臨時社員[りんじしゃいん]の 雇用期間[こようきかん]は1年[ねん]を 超[こ]えないものとします。
+  Die Beschäftigungsdauer für befristet angestellte Mitarbeiter darf ein Jahr nicht überschreiten.
+
+  新入社員の研修が来週から始まります。
+  新入社員[しんにゅうしゃいん]の 研修[けんしゅう]が 来週[らいしゅう]から 始[はじ]まります。
+  Das Training für die neuen Mitarbeiter beginnt nächste Woche.
+
+  全社員を対象とした会議が開かれます。
+  全社員[ぜんしゃいん]を 対象[たいしょう]とした 会議[かいぎ]が 開[ひら]かれます。
+  Es wird eine Versammlung für alle Mitarbeiter abgehalten.
+
+  大学を卒業したら、この会社の社員になりたいです。
+  大学[だいがく]を 卒業[そつぎょう]したら、この 会社[かいしゃ]の 社員[しゃいん]になりたいです。
+  Nach meinem Universitätsabschluss möchte ich Angestellter in diesem Unternehmen werden.
+
+  経済状況が悪化し、社員を減らさざるを得なくなった。
+  経済[けいざい] 状況[じょうきょう]が 悪化[あっか]し、社員[しゃいん]を 減[へ]らさざるを 得[え]なくなった。
+  Aufgrund der sich verschlechternden wirtschaftlichen Lage mussten wir die Zahl der Mitarbeiter reduzieren.
+
+  自動車メーカーの社員として、品質管理に力を入れています。
+  自動車[じどうしゃ]メーカーの 社員[しゃいん]として、品質管理[ひんしつかんり]に 力[ちから]を 入[い]れています。
+  Als Angestellter eines Autoherstellers lege ich großen Wert auf Qualitätskontrolle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

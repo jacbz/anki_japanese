@@ -1,7 +1,7 @@
 Rang: 2854
 Lemma: どなた
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 何方
 Definition: wer [höfl.]
 Extra: '' # Nur bei suru-Verben
 Wortart: pron
@@ -16,11 +16,98 @@ Konjugation: ''
 Beispielsätze: |-
   どなたですか。
   どなたですか。
-  Wer ist das?
+  Wer sind Sie?
+
+  あそこでクィレル先生と話しているのはどなたですか。
+  あそこで クィレル 先生[せんせい]と 話[はな]しているのはどなたですか。
+  Wer ist der Lehrer, der sich dort mit Professor Quirrell unterhält?
+
+  お宅さんはどなた？
+  お 宅[たく]さんはどなた？
+  Und wer sind Sie?
+
+  一人で行かれるのか。御使者衆のうちどなたかをお連れいたします。
+  一人[ひとり]で 行[い]かれるのか。御使者衆[ごししゃしゅう]のうちどなたかをお 連[つ]れいたします。
+  Reisen Sie allein? Ich werde einen Ihrer Gesandten mitnehmen.
+
+  御病気でどなたにもお会いにならないということでした。
+  御病気[ごびょうき]でどなたにもお 会[あ]いにならないということでした。
+  Man sagte mir, Sie seien krank und könnten niemanden empfangen.
+
+  へい、どなた様も、毎日相変らず有難う存じます。
+  へい、どなた 様[さま]も、毎日[まいにち] 相変[あいか]らず 有難[ありがと]う 存[ぞん]じます。
+  Ah, verehrte Gäste, ich danke Ihnen allen für Ihren täglichen, unveränderten Besuch.
+
+  どなた様ですか。
+  どなた 様[さま]ですか。
+  Wer sind Sie bitte?
+
+  お名前は、どなた様でいらっしゃいますか。
+  お 名前[なまえ]は、どなた 様[さま]でいらっしゃいますか。
+  Darf ich um Ihren werten Namen bitten?
+
+  どなたかいらっしゃいませんか。
+  どなたかいらっしゃいませんか。
+  Ist jemand da?
+
+  どなたもいらっしゃいませんでした。
+  どなたもいらっしゃいませんでした。
+  Es war niemand da.
+
+  失礼ですが、どなた様からのご紹介でしょうか。
+  失礼[しつれい]ですが、どなた 様[さま]からのご 紹介[しょうかい]でしょうか。
+  Entschuldigen Sie, aber von wem wurden Sie empfohlen?
+
+  この会議に出席されるのは、どなた様でしょうか。
+  この 会議[かいぎ]に 出席[しゅっせき]されるのは、どなた 様[さま]でしょうか。
+  Wer wird an dieser Konferenz teilnehmen?
+
+  どなたか私の代わりに行ってくれませんか。
+  どなたか 私[わたし]の 代[か]わりに 行[い]ってくれませんか。
+  Könnte jemand für mich hingehen?
+
+  どなたかお手伝いしてくれる人はいませんか。
+  どなたかお 手伝[てつだ]いしてくれる 人[ひと]はいませんか。
+  Gibt es jemanden, der mir helfen könnte?
+
+  どなたかご存知の方はいらっしゃいませんか。
+  どなたかご 存知[ぞんじ]の 方[かた]はいらっしゃいませんか。
+  Kennt jemand von Ihnen die Antwort?
+
+  どなたも彼の居場所を知りませんでした。
+  どなたも 彼[かれ]の 居場所[いばしょ]を 知[し]りませんでした。
+  Niemand wusste, wo er sich aufhielt.
+
+  どなたか英語が堪能な方はいらっしゃいませんか。
+  どなたか 英語[えいご]が 堪能[たんのう]な 方[かた]はいらっしゃいませんか。
+  Gibt es jemanden unter Ihnen, der fließend Englisch spricht?
+
+  どなたか新しい提案をお持ちの方はいらっしゃいませんか。
+  どなたか 新[あたら]しい 提案[ていあん]をお 持[も]ちの 方[かた]はいらっしゃいませんか。
+  Hat jemand einen neuen Vorschlag?
+
+  どなたか、この問題について詳しい方はいらっしゃいませんか。
+  どなたか、この 問題[もんだい]について 詳[くわ]しい 方[かた]はいらっしゃいませんか。
+  Ist jemand hier, der sich mit diesem Problem auskennt?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どなた ist eine höfliche Form von だれ (wer) und wird oft mit dem Höflichkeitssuffix -様 (さま) verwendet.</p>
+  <div class="examples">
+    <div class="jp">どなた 様[さま]ですか。</div>
+    <div class="de spoiler">Wer sind Sie bitte?</div>
+  </div>
+  <p>Es kann auch verwendet werden, um sich auf eine unbestimmte Person zu beziehen:</p>
+  <div class="examples">
+    <div class="jp">どなたか 私[わたし]の 代[か]わりに 行[い]ってくれませんか。</div>
+    <div class="de spoiler">Könnte jemand für mich hingehen?</div>
+  </div>
+  <p>Mit Verneinung bedeutet es "niemand" (höflich):</p>
+  <div class="examples">
+    <div class="jp">どなたも 彼[かれ]の 居場所[いばしょ]を 知[し]りませんでした。</div>
+    <div class="de spoiler">Niemand wusste, wo er sich aufhielt.</div>
+  </div>

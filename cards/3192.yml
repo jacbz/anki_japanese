@@ -1,7 +1,7 @@
 Rang: 3192
 Lemma: 盗む
 Lesung: ぬすむ
-Alternativschreibweisen: ''
+Alternativschreibweisen: 偸む・竊む
 Definition: stehlen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 盗まない・盗んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   自転車を盗まれた。
   自転車[じてんしゃ]を 盗[ぬす]まれた。
-  Mir wurde mein Fahrrad gestohlen.
+  Mein Fahrrad wurde gestohlen.
+
+  彼は財布を盗んで逃げた。
+  彼[かれ]は 財布[さいふ]を 盗[ぬす]んで 逃[に]げた。
+  Er stahl die Brieftasche und floh.
+
+  警察は車を盗んだ犯人を捜査している。
+  警察[けいさつ]は 車[くるま]を 盗[ぬす]んだ 犯人[はんにん]を 捜査[そうさ]している。
+  Die Polizei ermittelt nach dem Täter, der das Auto gestohlen hat.
+
+  美術館から名画が盗まれた。
+  美術館[びじゅつかん]から 名画[めいが]が 盗[ぬす]まれた。
+  Ein berühmtes Gemälde wurde aus dem Museum gestohlen.
+
+  泥棒はこっそりと金庫を盗み出した。
+  泥棒[どろぼう]はこっそりと 金庫[きんこ]を 盗[ぬす]み 出[だ]した。
+  Der Dieb schlich sich heimlich hinein und stahl den Safe.
+
+  彼女は人目を盗んで部屋を出た。
+  彼女[かのじょ]は 人目[ひとめ]を 盗[ぬす]んで 部屋[へや]を 出[で]た。
+  Sie verließ unbemerkt das Zimmer.
+
+  アイデアを盗まれないように、特許を取得した。
+  アイデアを 盗[ぬす]まれないように、特許[とっきょ]を 取得[しゅとく]した。
+  Um zu verhindern, dass meine Idee gestohlen wird, habe ich ein Patent angemeldet.
+
+  彼は会社の機密情報を盗んで競合他社に売った。
+  彼[かれ]は 会社[かいしゃ]の 機密[きみつ] 情報[じょうほう]を 盗[ぬす]んで 競合[きょうごう] 他社[たしゃ]に 売[う]った。
+  Er stahl vertrauliche Unternehmensinformationen und verkaufte sie an einen Konkurrenten.
+
+  盗んだ物は必ず返さなければならない。
+  盗[ぬす]んだ 物[もの]は 必[かなら]ず 返[かえ]さなければならない。
+  Gestohlene Gegenstände müssen unbedingt zurückgegeben werden.
+
+  彼女は恋人の心を盗んだ。
+  彼女[かのじょ]は 恋人[こいびと]の 心[こころ]を 盗[ぬす]んだ。
+  Sie hat das Herz ihres Liebhabers gestohlen.
+
+  子供たちはこっそりクッキーを盗み食いした。
+  子供[こども]たちはこっそりクッキーを 盗[ぬす]み 食[ぐ]いした。
+  Die Kinder naschten heimlich von den Keksen.
+
+  忙しい日々の中で、少しの時間を盗んで読書をする。
+  忙[いそが]しい 日々[ひび]の 中[なか]で、少[すこ]しの 時間[じかん]を 盗[ぬす]んで 読書[どくしょ]をする。
+  Inmitten der geschäftigen Tage stehle ich mir ein wenig Zeit zum Lesen.
+
+  彼は人目を盗んでタバコを吸った。
+  彼[かれ]は 人目[ひとめ]を 盗[ぬす]んでタバコを 吸[す]った。
+  Er rauchte heimlich eine Zigarette.
+
+  盗みは法律で禁止されている。
+  盗[ぬす]みは 法律[ほうりつ]で 禁止[きんし]されている。
+  Diebstahl ist gesetzlich verboten.
+
+  彼女は足音を忍ばせて部屋を出た。
+  彼女[かのじょ]は 足音[あしおと]を 忍[しの]ばせて 部屋[へや]を 出[で]た。
+  Sie schlich leise aus dem Zimmer.
+
+  彼は盗んだ宝石を売ろうとした。
+  彼[かれ]は 盗[ぬす]んだ 宝石[ほうせき]を 売[う]ろうとした。
+  Er versuchte, die gestohlenen Juwelen zu verkaufen.
+
+  警察は盗まれた美術品の捜索を続けている。
+  警察[けいさつ]は 盗[ぬす]まれた 美術品[びじゅつひん]の 捜索[そうさく]を 続[つづ]けている。
+  Die Polizei setzt die Suche nach den gestohlenen Kunstwerken fort.
+
+  彼女は恋人から盗んだキスに赤面した。
+  彼女[かのじょ]は 恋人[こいびと]から 盗[ぬす]んだキスに 赤面[せきめん]した。
+  Sie errötete wegen des gestohlenen Kusses von ihrem Liebhaber.
+
+  盗んだ金で豪華な生活を送っていた。
+  盗[ぬす]んだ 金[かね]で 豪華[ごうか]な 生活[せいかつ]を 送[おく]っていた。
+  Er führte ein luxuriöses Leben mit dem gestohlenen Geld.
+
+  彼は友人のアイデアを盗んで自分のものとして発表した。
+  彼[かれ]は 友人[ゆうじん]のアイデアを 盗[ぬす]んで 自分[じぶん]のものとして 発表[はっぴょう]した。
+  Er stahl die Idee seines Freundes und präsentierte sie als seine eigene.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

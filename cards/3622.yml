@@ -1,8 +1,8 @@
 Rang: 3622
 Lemma: 丸
 Lesung: まる
-Alternativschreibweisen: ''
-Definition: Kreis, Ring
+Alternativschreibweisen: ○
+Definition: Kreis; rund
 Extra: '' # Nur bei suru-Verben
 Wortart: n, präf, suff
 Lesung mit Tonhöhe: .^
@@ -16,11 +16,111 @@ Konjugation: ''
 Beispielsätze: |-
   当てはまる項目をすべて丸で囲んでください。
   当[あ]てはまる 項目[こうもく]をすべて 丸[まる]で 囲[かこ]んでください。
-  Kreuzen Sie alle zutreffenden Punkte an.
+  Bitte kreisen Sie alle zutreffenden Punkte ein.
+
+  額の真ん中に白い丸が描かれていた。
+  額[ひたい]の 真[ま]ん 中[なか]に 白[しろ]い 丸[まる]が 描[えが]かれていた。
+  In der Mitte der Stirn war ein weißer Kreis gemalt.
+
+  丸の中に二つの点を打って目を表現しました。
+  丸[まる]の 中[なか]に 二[ふた]つの 点[てん]を 打[う]って 目[め]を 表現[ひょうげん]しました。
+  Ich habe zwei Punkte in den Kreis gesetzt, um die Augen darzustellen.
+
+  テストの答えを丸で示してください。
+  テストの 答[こた]えを 丸[まる]で 示[しめ]してください。
+  Bitte kennzeichnen Sie die richtigen Antworten im Test mit einem Kreis.
+
+  この問題の答えは丸です。
+  この 問題[もんだい]の 答[こた]えは 丸[まる]です。
+  Die Antwort auf diese Frage ist richtig.
+
+  丸バツ式のテストは簡単に採点できます。
+  丸[まる]バツ 式[しき]のテストは 簡単[かんたん]に 採点[さいてん]できます。
+  Tests mit Richtig-oder-Falsch-Fragen können leicht bewertet werden.
+
+  文の終わりに丸を打つのを忘れないでください。
+  文[ぶん]の 終[お]わりに 丸[まる]を 打[う]つのを 忘[わす]れないでください。
+  Vergessen Sie nicht, am Ende des Satzes einen Punkt zu setzen.
+
+  りんごを丸のまま食べる子供もいます。
+  りんごを 丸[まる]のまま 食[た]べる 子供[こども]もいます。
+  Es gibt auch Kinder, die einen Apfel im Ganzen essen.
+
+  この城は昔、丸と呼ばれていました。
+  この 城[しろ]は 昔[むかし]、丸[まる]と 呼[よ]ばれていました。
+  Diese Burg wurde früher als 'Maru' bezeichnet.
+
+  丸いお金がたくさんあれば、何でも買えるのにな。
+  丸[まる]いお 金[かね]がたくさんあれば、何[なん]でも 買[か]えるのにな。
+  Wenn ich viel Kohle hätte, könnte ich alles kaufen.
+
+  丸一日かけてレポートを書き上げました。
+  丸[まる]一日[いちにち]かけてレポートを 書[か]き 上[あ]げました。
+  Ich habe einen ganzen Tag damit verbracht, den Bericht fertigzustellen.
+
+  この服は丸洗いできますか？
+  この 服[ふく]は 丸洗[まるあら]いできますか？
+  Kann man dieses Kleidungsstück komplett waschen?
+
+  毎日丸一時間、母の介護に時間を使っています。
+  毎日[まいにち] 丸[まる]一時間[いちじかん]、母[はは]の 介護[かいご]に 時間[じかん]を 使[つか]っています。
+  Ich verwende täglich eine volle Stunde für die Pflege meiner Mutter.
+
+  日本丸という名前の船を知っていますか？
+  日本丸[にっぽんまる]という 名前[なまえ]の 船[ふね]を 知[し]っていますか？
+  Kennen Sie ein Schiff namens 'Nippon Maru'?
+
+  この刀は源氏丸と呼ばれています。
+  この 刀[かたな]は 源氏丸[げんじまる]と 呼[よ]ばれています。
+  Dieses Schwert wird 'Genji Maru' genannt.
+
+  丸いポストを見たことがありますか？
+  丸[まる]いポストを 見[み]たことがありますか？
+  Haben Sie schon einmal einen runden Briefkasten gesehen?
+
+  丸くなって寝る犬は可愛いですね。
+  丸[まる]くなって 寝[ね]る 犬[いぬ]は 可愛[かわい]いですね。
+  Ein Hund, der sich zum Schlafen zusammenrollt, ist süß, nicht wahr?
+
+  丸太を使って新しい家具を作りました。
+  丸太[まるた]を 使[つか]って 新[あたら]しい 家具[かぐ]を 作[つく]りました。
+  Ich habe neue Möbel aus Rundholz hergestellt.
+
+  彼女の目は丸くて大きいです。
+  彼女[かのじょ]の 目[め]は 丸[まる]くて 大[おお]きいです。
+  Ihre Augen sind rund und groß.
+
+  丸くならないように、しっかり自分の意見を言いましょう。
+  丸[まる]くならないように、しっかり 自分[じぶん]の 意見[いけん]を 言[い]いましょう。
+  Lasst uns unsere Meinung klar äußern, um nicht zu nachgiebig zu erscheinen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>丸 (まる) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Als Nomen bezeichnet es einen Kreis oder etwas Rundes.</li>
+    <li>Es wird als Symbol (○) für richtige Antworten verwendet.</li>
+    <li>In der Umgangssprache kann es einen Punkt am Satzende bedeuten.</li>
+    <li>Es kann 'ganz' oder 'vollständig' bedeuten.</li>
+    <li>Historisch wurde es für Burgen oder Schlösser verwendet.</li>
+    <li>Umgangssprachlich kann es auch 'Geld' bedeuten.</li>
+    <li>Als Präfix bedeutet es 'ganz' oder 'voll'.</li>
+    <li>Als Suffix wird es für Namen von Schiffen oder Schwertern verwendet.</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class='examples'>
+    <div class='jp'>丸[まる]で 囲[かこ]む</div>
+    <div class='de spoiler'>einkreisen</div>
+  </div>
+  <div class='examples'>
+    <div class='jp'>丸[まる]ごと 食[た]べる</div>
+    <div class='de spoiler'>im Ganzen essen</div>
+  </div>
+  <div class='examples'>
+    <div class='jp'>日本丸[にっぽんまる]</div>
+    <div class='de spoiler'>Name eines Schiffes</div>
+  </div>

@@ -1,26 +1,113 @@
 Rang: 2250
 Lemma: ボタン
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: Knopf
+Alternativschreibweisen: 釦・鈕
+Definition: Knopf; Taste
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: port. botão
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   シャツからボタンがとれた。
-  シャツからボタンが 取[と]れた。
-  Ein Knopf ist von dem Hemd abgefallen.
+  シャツから ボタンがとれた。
+  Ein Knopf ist von meinem Hemd abgegangen.
+
+  洋服のボタンを掛け違えてしまった。
+  洋服[ようふく]の ボタンを 掛[か]け 違[ちが]えてしまった。
+  Ich habe die Knöpfe meines Kleidungsstücks falsch zugeknöpft.
+
+  彼女は優雅にコートのボタンを外した。
+  彼女[かのじょ]は 優雅[ゆうが]に コートの ボタンを 外[はず]した。
+  Sie knöpfte elegant ihren Mantel auf.
+
+  寒いので、上着のボタンを全部掛けた。
+  寒[さむ]いので、上着[うわぎ]の ボタンを 全部[ぜんぶ] 掛[か]けた。
+  Weil es kalt war, knöpfte ich meine Jacke ganz zu.
+
+  古いシャツにボタンを付け直した。
+  古[ふる]いシャツに ボタンを 付[つ]け 直[なお]した。
+  Ich habe an mein altes Hemd neue Knöpfe angenäht.
+
+  このコートは二重ボタンのデザインです。
+  この コートは 二重[にじゅう]ボタンの デザインです。
+  Dieser Mantel hat ein zweireihiges Knopfdesign.
+
+  カフスボタンをつけて、正装した。
+  カフスボタンを つけて、正装[せいそう]した。
+  Ich legte Manschettenknöpfe an und machte mich schick.
+
+  飾りボタンがついたブラウスを買った。
+  飾[かざ]りボタンが ついた ブラウスを 買[か]った。
+  Ich habe eine Bluse mit Zierknöpfen gekauft.
+
+  ボタンの穴が小さすぎて、通しづらい。
+  ボタンの 穴[あな]が 小[ちい]さすぎて、通[とお]しづらい。
+  Die Knopflöcher sind zu klein, es ist schwer, die Knöpfe durchzubekommen.
+
+  エレベーターのボタンを押して、待った。
+  エレベーターの ボタンを 押[お]して、待[ま]った。
+  Ich drückte den Fahrstuhlknopf und wartete.
+
+  誤ってアラームのボタンを押してしまった。
+  誤[あやま]って アラームの ボタンを 押[お]してしまった。
+  Ich habe versehentlich den Alarmknopf gedrückt.
+
+  再生ボタンを押すと、音楽が流れ始めた。
+  再生[さいせい]ボタンを 押[お]すと、音楽[おんがく]が 流[なが]れ 始[はじ]めた。
+  Als ich die Starttaste drückte, begann die Musik zu spielen.
+
+  リモコンの電源ボタンが壊れてしまった。
+  リモコンの 電源[でんげん]ボタンが 壊[こわ]れてしまった。
+  Der Ein/Aus-Knopf der Fernbedienung ist kaputt gegangen.
+
+  ボタン一つで戦争が始まる可能性がある。
+  ボタン 一[ひと]つで 戦争[せんそう]が 始[はじ]まる 可能性[かのうせい]がある。
+  Mit einem einzigen Knopfdruck könnte ein Krieg beginnen.
+
+  シャツのボタンホールが裂けてしまった。
+  シャツの ボタンホールが 裂[さ]けてしまった。
+  Das Knopfloch meines Hemdes ist eingerissen.
+
+  ボタン付けは意外と難しい作業だ。
+  ボタン 付[つ]けは 意外[いがい]と 難[むずか]しい 作業[さぎょう]だ。
+  Knöpfe anzunähen ist überraschend schwierig.
+
+  金ボタンの制服を着ている警官がいた。
+  金[きん]ボタンの 制服[せいふく]を 着[き]ている 警官[けいかん]がいた。
+  Es gab einen Polizisten in einer Uniform mit Goldknöpfen.
+
+  お降りの方はこのボタンを押して下さい。
+  お 降[お]りの 方[かた]は この ボタンを 押[お]して 下[くだ]さい。
+  Bei Ausstieg drücken Sie bitte diesen Knopf.
+
+  最初からボタンの掛け違いで、この計画は失敗に終わった。
+  最初[さいしょ]から ボタンの 掛[か]け 違[ちが]いで、この 計画[けいかく]は 失敗[しっぱい]に 終[お]わった。
+  Von Anfang an lief etwas schief, und dieser Plan endete in einem Misserfolg.
+
+  ボタンを押すだけで注文ができる便利なシステムだ。
+  ボタンを 押[お]すだけで 注文[ちゅうもん]ができる 便利[べんり]な システムだ。
+  Es ist ein praktisches System, bei dem man nur einen Knopf drücken muss, um zu bestellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort ボタン hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Ein Knopf an Kleidungsstücken</li>
+    <li>Ein Druckknopf oder eine Taste an elektronischen Geräten</li>
+  </ol>
+  <p>Sprichwort:</p>
+  <div class='examples'>
+    <div class='jp'>ボタンの 掛[か]け 違[ちが]い</div>
+    <div class='de spoiler'>wörtl.: „falsch zugeknöpft"; bedeutet, dass etwas von Anfang an schiefgegangen ist</div>
+  </div>
+  <p>Dieses Sprichwort kann sowohl wörtlich als auch im übertragenen Sinne verwendet werden.</p>

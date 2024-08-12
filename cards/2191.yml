@@ -1,8 +1,8 @@
 Rang: 2191
 Lemma: 火
 Lesung: か
-Alternativschreibweisen: ''
-Definition: Dienstag; Feuer
+Alternativschreibweisen: ひ
+Definition: Feuer; Dienstag
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   毎週火、水、木は大学へ行く。
-  毎週[まいしゅう] 火[ひ]、 水[みず]、 木[き]は 大学[だいがく]へ 行[い]く。
+  毎週[まいしゅう]火[か]、水[すい]、木[もく]は 大学[だいがく]へ 行[い]く。
   Jeden Dienstag, Mittwoch und Donnerstag gehe ich zur Universität.
+
+  火の用心を呼びかける看板が目立つ。
+  火[ひ]の 用心[ようじん]を 呼[よ]びかける 看板[かんばん]が 目立[めだ]つ。
+  Schilder, die zur Vorsicht vor Feuer mahnen, fallen ins Auge.
+
+  火事で家を失った家族を助けるボランティアが集まった。
+  火事[かじ]で 家[いえ]を 失[うしな]った 家族[かぞく]を 助[たす]けるボランティアが 集[あつ]まった。
+  Freiwillige versammelten sich, um Familien zu helfen, die durch einen Brand ihr Zuhause verloren haben.
+
+  火を使う調理には細心の注意が必要だ。
+  火[ひ]を 使[つか]う 調理[ちょうり]には 細心[さいしん]の 注意[ちゅうい]が 必要[ひつよう]だ。
+  Beim Kochen mit Feuer ist äußerste Vorsicht geboten.
+
+  火曜日は私の一番忙しい日だ。
+  火曜日[かようび]は 私[わたし]の 一番[いちばん] 忙[いそが]しい 日[ひ]だ。
+  Dienstag ist mein geschäftigster Tag.
+
+  消防士は火と闘う訓練を日々積んでいる。
+  消防士[しょうぼうし]は 火[ひ]と 闘[たたか]う 訓練[くんれん]を 日々[ひび] 積[つ]んでいる。
+  Feuerwehrleute üben täglich den Kampf gegen das Feuer.
+
+  火の元に気をつけて出かけましょう。
+  火[ひ]の 元[もと]に 気[き]をつけて 出[で]かけましょう。
+  Lassen Sie uns aufpassen, dass alles Feuer gelöscht ist, bevor wir gehen.
+
+  火を見つけたら、すぐに119番に電話してください。
+  火[ひ]を 見[み]つけたら、すぐに119番[ばん]に 電話[でんわ]してください。
+  Wenn Sie ein Feuer entdecken, rufen Sie bitte sofort die 119 an.
+
+  彼女は火の扱いに慣れていないので、キャンプで火おこしを任せられなかった。
+  彼女[かのじょ]は 火[ひ]の 扱[あつか]いに 慣[な]れていないので、キャンプで 火[ひ]おこしを 任[まか]せられなかった。
+  Sie ist nicht an den Umgang mit Feuer gewöhnt, daher konnte man ihr beim Camping nicht das Feuermachen anvertrauen.
+
+  火は人類の進化に大きな役割を果たしてきた。
+  火[ひ]は 人類[じんるい]の 進化[しんか]に 大[おお]きな 役割[やくわり]を 果[は]たしてきた。
+  Feuer hat eine große Rolle in der Evolution der Menschheit gespielt.
+
+  火山の噴火は自然の驚異を感じさせる。
+  火山[かざん]の 噴火[ふんか]は 自然[しぜん]の 驚異[きょうい]を 感[かん]じさせる。
+  Der Ausbruch eines Vulkans lässt uns die Wunder der Natur spüren.
+
+  火を通さない料理は食中毒のリスクが高い。
+  火[ひ]を 通[とお]さない 料理[りょうり]は 食中毒[しょくちゅうどく]のリスクが 高[たか]い。
+  Ungekochte Speisen haben ein höheres Risiko für Lebensmittelvergiftungen.
+
+  火を消し忘れて外出するのは危険です。
+  火[ひ]を 消[け]し 忘[わす]れて 外出[がいしゅつ]するのは 危険[きけん]です。
+  Es ist gefährlich, das Haus zu verlassen und dabei zu vergessen, das Feuer zu löschen.
+
+  火事が起きたら、落ち着いて避難経路を確認してください。
+  火事[かじ]が 起[お]きたら、落[お]ち 着[つ]いて 避難[ひなん] 経路[けいろ]を 確認[かくにん]してください。
+  Wenn ein Feuer ausbricht, bleiben Sie ruhig und überprüfen Sie die Fluchtwege.
+
+  火をつけたまま寝るのは絶対にやめてください。
+  火[ひ]をつけたまま 寝[ね]るのは 絶対[ぜったい]にやめてください。
+  Bitte gehen Sie auf keinen Fall schlafen, während ein Feuer brennt.
+
+  火を使わない調理法が最近人気です。
+  火[ひ]を 使[つか]わない 調理法[ちょうりほう]が 最近[さいきん] 人気[にんき]です。
+  Kochmethoden ohne Feuer sind in letzter Zeit sehr beliebt.
+
+  火の力を借りて、人類は寒さから身を守ることができた。
+  火[ひ]の 力[ちから]を 借[か]りて、人類[じんるい]は 寒[さむ]さから 身[み]を 守[まも]ることができた。
+  Mit Hilfe der Kraft des Feuers konnte sich die Menschheit vor der Kälte schützen.
+
+  火を通すことで、多くの食材がより美味しく、安全に食べられるようになる。
+  火[ひ]を 通[とお]すことで、多[おお]くの 食材[しょくざい]がより 美味[おい]しく、安全[あんぜん]に 食[た]べられるようになる。
+  Durch das Erhitzen werden viele Zutaten schmackhafter und sicherer zum Verzehr.
+
+  火の始末には十分注意を払わなければならない。
+  火[ひ]の 始末[しまつ]には 十分[じゅうぶん] 注意[ちゅうい]を 払[はら]わなければならない。
+  Man muss beim Löschen des Feuers äußerst vorsichtig sein.
+
+  火曜日の午後3時に会議室に集合してください。
+  火曜日[かようび]の 午後[ごご]3時[じ]に 会議室[かいぎしつ]に 集合[しゅうごう]してください。
+  Bitte versammeln Sie sich am Dienstag um 15 Uhr im Konferenzraum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

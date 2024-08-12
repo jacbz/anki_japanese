@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '74'
-Ursprung: ''
+Ursprung: engl. convenience store
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   コンビニで夕食を買う。
   コンビニで 夕食[ゆうしょく]を 買[か]う。
-  Ich kaufe im Kombini etwas zu essen für das Abendessen.
+  Ich kaufe Abendessen im Konbini.
+
+  深夜でもコンビニは開いています。
+  深夜[しんや]でもコンビニは 開[あ]いています。
+  Selbst spät in der Nacht sind Konbinis geöffnet.
+
+  コンビニのおにぎりは美味しくて便利です。
+  コンビニのおにぎりは 美味[おい]しくて 便利[べんり]です。
+  Die Onigiri aus dem Konbini sind lecker und praktisch.
+
+  急いでいるときはコンビニで食事を済ませます。
+  急[いそ]いでいるときはコンビニで 食事[しょくじ]を 済[す]ませます。
+  Wenn ich es eilig habe, esse ich schnell etwas im Konbini.
+
+  コンビニでお茶とお菓子を買った。
+  コンビニでお 茶[ちゃ]とお 菓子[かし]を 買[か]った。
+  Ich habe Tee und Snacks im Konbini gekauft.
+
+  コンビニは日本の生活に欠かせない存在です。
+  コンビニは 日本[にほん]の 生活[せいかつ]に 欠[か]かせない 存在[そんざい]です。
+  Konbinis sind ein unverzichtbarer Teil des japanischen Lebens.
+
+  コンビニでアルバイトをしている学生が多い。
+  コンビニでアルバイトをしている 学生[がくせい]が 多[おお]い。
+  Viele Studenten jobben in Konbinis.
+
+  コンビニで公共料金の支払いができます。
+  コンビニで 公共料金[こうきょうりょうきん]の 支払[しはら]いができます。
+  Man kann Rechnungen für öffentliche Dienstleistungen im Konbini bezahlen.
+
+  コンビニのATMは便利ですね。
+  コンビニのATMは 便利[べんり]ですね。
+  Die Geldautomaten in Konbinis sind wirklich praktisch, nicht wahr?
+
+  コンビニでイベントのチケットを予約した。
+  コンビニでイベントのチケットを 予約[よやく]した。
+  Ich habe Tickets für eine Veranstaltung im Konbini reserviert.
+
+  コンビニのコピー機を使って書類をコピーしました。
+  コンビニのコピー 機[き]を 使[つか]って 書類[しょるい]をコピーしました。
+  Ich habe den Kopierer im Konbini benutzt, um Dokumente zu kopieren.
+
+  コンビニで宅配便を受け取ることができます。
+  コンビニで 宅配便[たくはいびん]を 受[う]け 取[と]ることができます。
+  Man kann Pakete im Konbini abholen.
+
+  コンビニのお弁当は種類が豊富で選ぶのが楽しい。
+  コンビニのお 弁当[べんとう]は 種類[しゅるい]が 豊富[ほうふ]で 選[えら]ぶのが 楽[たの]しい。
+  Es macht Spaß, aus der großen Auswahl an Bentos im Konbini zu wählen.
+
+  コンビニでWi-Fiが使えるのは便利だ。
+  コンビニでWi-Fiが 使[つか]えるのは 便利[べんり]だ。
+  Es ist praktisch, dass man in Konbinis Wi-Fi nutzen kann.
+
+  コンビニの店員さんはいつも親切です。
+  コンビニの 店員[てんいん]さんはいつも 親切[しんせつ]です。
+  Die Mitarbeiter in Konbinis sind immer freundlich.
+
+  コンビニで雑誌を立ち読みする人がいる。
+  コンビニで 雑誌[ざっし]を 立[た]ち 読[よ]みする 人[ひと]がいる。
+  Es gibt Leute, die in Konbinis Zeitschriften anlesen.
+
+  コンビニのおでんは冬の定番メニューだ。
+  コンビニのおでんは 冬[ふゆ]の 定番[ていばん]メニューだ。
+  Oden im Konbini ist ein typisches Wintergericht.
+
+  コンビニでお年玉用のポチ袋を買いました。
+  コンビニでお 年玉[としだま]用[よう]のポチ 袋[ぶくろ]を 買[か]いました。
+  Ich habe im Konbini Umschläge für Neujahrsgeld gekauft.
+
+  コンビニでプリペイドカードをチャージした。
+  コンビニでプリペイドカードをチャージした。
+  Ich habe meine Prepaid-Karte im Konbini aufgeladen.
+
+  コンビニのトイレは緊急時に助かります。
+  コンビニのトイレは 緊急時[きんきゅうじ]に 助[たす]かります。
+  Die Toiletten in Konbinis sind in Notfällen sehr hilfreich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

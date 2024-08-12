@@ -2,14 +2,14 @@ Rang: 4515
 Lemma: 涼しい
 Lesung: すずしい
 Alternativschreibweisen: ''
-Definition: kühl
+Definition: kühl, erfrischend
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '83'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 涼しくない・涼しかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,104 @@ Beispielsätze: |-
   だんだん 涼[すず]しくなってきた。
   Es wird allmählich kühler.
 
+  今日は涼しい風が吹いている。
+  今日[きょう]は 涼[すず]しい 風[かぜ]が 吹[ふ]いている。
+  Heute weht ein erfrischender Wind.
+
+  涼しい木陰で休憩しましょう。
+  涼[すず]しい 木陰[こかげ]で 休憩[きゅうけい]しましょう。
+  Lassen Sie uns im kühlen Schatten unter dem Baum eine Pause machen.
+
+  この飲み物を涼しい所に置いてください。
+  この 飲[の]み 物[もの]を 涼[すず]しい 所[ところ]に 置[お]いてください。
+  Bitte stellen Sie dieses Getränk an einen kühlen Ort.
+
+  今日は涼しくて気持ちいいね。
+  今日[きょう]は 涼[すず]しくて 気持[きも]ちいいね。
+  Heute ist es angenehm kühl, nicht wahr?
+
+  夏の夜は涼しくて過ごしやすい。
+  夏[なつ]の 夜[よる]は 涼[すず]しくて 過[す]ごしやすい。
+  Die Sommernächte sind kühl und angenehm.
+
+  エアコンをつけたら部屋が涼しくなった。
+  エアコンをつけたら 部屋[へや]が 涼[すず]しくなった。
+  Nachdem ich die Klimaanlage eingeschaltet habe, wurde es im Zimmer kühl.
+
+  涼しい色の服を着ると気分が良くなる。
+  涼[すず]しい 色[いろ]の 服[ふく]を 着[き]ると 気分[きぶん]が 良[よ]くなる。
+  Wenn ich Kleidung in frischen Farben trage, verbessert sich meine Stimmung.
+
+  彼女の涼しい声に心が落ち着いた。
+  彼女[かのじょ]の 涼[すず]しい 声[こえ]に 心[こころ]が 落[お]ち 着[つ]いた。
+  Ihre klare Stimme beruhigte mein Herz.
+
+  涼しい顔をして困難な状況に対処した。
+  涼[すず]しい 顔[かお]をして 困難[こんなん]な 状況[じょうきょう]に 対処[たいしょ]した。
+  Mit kühler Miene bewältigte er die schwierige Situation.
+
+  涼しい朝の散歩は気分転換になる。
+  涼[すず]しい 朝[あさ]の 散歩[さんぽ]は 気分転換[きぶんてんかん]になる。
+  Ein Spaziergang an einem kühlen Morgen erfrischt die Stimmung.
+
+  この扇子を使うと涼しく感じられますよ。
+  この 扇子[せんす]を 使[つか]うと 涼[すず]しく 感[かん]じられますよ。
+  Wenn Sie diesen Fächer benutzen, werden Sie sich kühl fühlen.
+
+  涼しい顔をして嘘をつくのは良くないよ。
+  涼[すず]しい 顔[かお]をして 嘘[うそ]をつくのは 良[よ]くないよ。
+  Es ist nicht gut, mit unbeteiligter Miene zu lügen.
+
+  涼しい店内に入ると、ほっとした。
+  涼[すず]しい 店内[てんない]に 入[はい]ると、ほっとした。
+  Als ich den kühlen Laden betrat, fühlte ich mich erleichtert.
+
+  涼しい夏の夜に花火を見るのが楽しみだ。
+  涼[すず]しい 夏[なつ]の 夜[よる]に 花火[はなび]を 見[み]るのが 楽[たの]しみだ。
+  Ich freue mich darauf, an einem kühlen Sommerabend Feuerwerk zu sehen.
+
+  涼しい季節になったら、ハイキングに行こう。
+  涼[すず]しい 季節[きせつ]になったら、ハイキングに 行[い]こう。
+  Lass uns wandern gehen, wenn es kühler wird.
+
+  涼しい顔で断られて、ちょっと傷ついた。
+  涼[すず]しい 顔[かお]で 断[ことわ]られて、ちょっと 傷[きず]ついた。
+  Ich war etwas verletzt, als ich mit gleichgültiger Miene abgelehnt wurde.
+
+  この涼しいドリンクで暑さを吹き飛ばそう。
+  この 涼[すず]しいドリンクで 暑[あつ]さを 吹[ふ]き 飛[と]ばそう。
+  Lass uns die Hitze mit diesem erfrischenden Getränk vertreiben.
+
+  涼しい目線で状況を分析することが大切だ。
+  涼[すず]しい 目線[めせん]で 状況[じょうきょう]を 分析[ぶんせき]することが 大切[たいせつ]だ。
+  Es ist wichtig, die Situation mit kühlem Blick zu analysieren.
+
+  涼しい緑のカーテンで部屋を快適に保つ。
+  涼[すず]しい 緑[みどり]のカーテンで 部屋[へや]を 快適[かいてき]に 保[たも]つ。
+  Mit einem kühlen grünen Vorhang halten wir das Zimmer angenehm.
+
+  涼しい表情を保ちながら、内心はドキドキしていた。
+  涼[すず]しい 表情[ひょうじょう]を 保[たも]ちながら、内心[ないしん]はドキドキしていた。
+  Während ich äußerlich ruhig blieb, klopfte mein Herz innerlich vor Aufregung.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>涼しい ist ein Adjektiv, das hauptsächlich benutzt wird, um eine angenehme Kühle zu beschreiben, besonders im Sommer. Es kann sich auf Temperaturen, Gefühle oder Eindrücke beziehen.</p>
+  <div class="examples">
+    <div class="jp">今日[きょう]は 涼[すず]しくて 過[す]ごしやすいですね。</div>
+    <div class="de spoiler">Heute ist es angenehm kühl und leicht zu ertragen, nicht wahr?</div>
+  </div>
+  <p>Es kann auch verwendet werden, um eine kühle oder unbeteiligte Haltung zu beschreiben:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 涼[すず]しい 顔[かお]をして 困難[こんなん]な 状況[じょうきょう]に 対処[たいしょ]した。</div>
+    <div class="de spoiler">Er bewältigte die schwierige Situation mit kühler Miene.</div>
+  </div>
+  <p>Außerdem kann es im übertragenen Sinne für frische Farben oder klare Stimmen verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]の 涼[すず]しい 声[こえ]が 心地[ここち]よかった。</div>
+    <div class="de spoiler">Ihre klare Stimme war angenehm.</div>
+  </div>
