@@ -337,10 +337,14 @@ span.spoiler {
   padding-bottom: 0.15em;
 }
 
-.sentence-with-audio .svg-button {
-  display: inline-flex;
-  margin-right: 0.1em;
-  align-items: center;
+.sentence-with-audio {
+  display: inline-block;
+  
+  .svg-button {
+    display: inline-flex;
+    margin-right: 0.1em;
+    align-items: center;
+  }
 }
 
 a {
@@ -690,12 +694,14 @@ span.rt {
   transition: all 0.2s;
   user-select: none;
   pointer-events: none;
+}
+
+#sentences span.rt, .examples span.rt {
   opacity: 0;
 }
 
-
-.show-furigana .rt {
-  opacity: 100%;
+.show-furigana span.rt {
+  opacity: 100% !important;
 }
 
 /**
