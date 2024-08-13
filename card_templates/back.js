@@ -204,9 +204,9 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
       .replace(
         /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
         (match, kanji, furigana) => {
-          return `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)
+          return kanji.length <= 2 ? `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)
             // insert a ' between two identical characters
-            .replace(/(.)\1/, "$1'$1")}">${kanji}</phoneme>`;
+            .replace(/(.)\1/, "$1'$1")}">${kanji}</phoneme>` : kanji;
         }
       )
       .replaceAll("> <", "><");
