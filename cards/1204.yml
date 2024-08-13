@@ -2,14 +2,14 @@ Rang: 1204
 Lemma: たたく
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: schlagen, hauen, klopfen, klatschen
+Definition: schlagen; klopfen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: たたかない・たたいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,114 @@ Beispielsätze: |-
   音楽[おんがく]に 合[あ]わせて 手[て]をたたこう！
   Lass uns zu der Musik klatschen!
 
+  ドアをたたいて部屋に入る前に、返事を待ちましょう。
+  ドアを 叩[たた]いて 部屋[へや]に 入[はい]る 前[まえ]に、返事[へんじ]を 待[ま]ちましょう。
+  Lasst uns anklopfen und auf eine Antwort warten, bevor wir den Raum betreten.
+
+  太鼓をたたいてリズムを刻む。
+  太鼓[たいこ]を 叩[たた]いてリズムを 刻[きざ]む。
+  Ich schlage die Trommel und gebe den Rhythmus vor.
+
+  ボールをたたいてホームランを打った。
+  ボールを 叩[たた]いてホームランを 打[う]った。
+  Er schlug den Ball und erzielte einen Home Run.
+
+  肩をたたいて友達を励ました。
+  肩[かた]を 叩[たた]いて 友達[ともだち]を 励[はげ]ました。
+  Ich klopfte meinem Freund auf die Schulter, um ihn zu ermutigen.
+
+  医者は患者の背中をとんとんとたたいて診察した。
+  医者[いしゃ]は 患者[かんじゃ]の 背中[せなか]をとんとんと 叩[たた]いて 診察[しんさつ]した。
+  Der Arzt klopfte dem Patienten sanft auf den Rücken, um ihn zu untersuchen.
+
+  雨が屋根をたたく音が聞こえる。
+  雨[あめ]が 屋根[やね]を 叩[たた]く 音[おと]が 聞[き]こえる。
+  Ich höre den Regen auf das Dach prasseln.
+
+  蚊をたたいて退治した。
+  蚊[か]を 叩[たた]いて 退治[たいじ]した。
+  Ich habe die Mücke totgeschlagen.
+
+  キーボードをたたく音が部屋中に響いていた。
+  キーボードを 叩[たた]く 音[おと]が 部屋中[へやじゅう]に 響[ひび]いていた。
+  Das Geräusch des Tippens auf der Tastatur hallte durch den ganzen Raum.
+
+  新聞で政治家の不正がたたかれている。
+  新聞[しんぶん]で 政治家[せいじか]の 不正[ふせい]が 叩[たた]かれている。
+  In der Zeitung wird der Politiker wegen Korruption scharf kritisiert.
+
+  値段をたたいて安く買った。
+  値段[ねだん]を 叩[たた]いて 安[やす]く 買[か]った。
+  Ich habe den Preis heruntergehandelt und es günstig gekauft.
+
+  生意気な口をたたくな！
+  生意気[なまいき]な 口[くち]を 叩[たた]くな！
+  Sei nicht so frech!
+
+  彼は大きな口をたたいて、みんなを不快にさせた。
+  彼[かれ]は 大[おお]きな 口[くち]を 叩[たた]いて、みんなを 不快[ふかい]にさせた。
+  Er nahm den Mund voll und verärgerte alle.
+
+  上司の意見をたたいてみたが、良い反応は得られなかった。
+  上司[じょうし]の 意見[いけん]を 叩[たた]いてみたが、良[よ]い 反応[はんのう]は 得[え]られなかった。
+  Ich versuchte, die Meinung meines Vorgesetzten zu sondieren, bekam aber keine positive Reaktion.
+
+  たたけば埃が出るとはよく言ったもので、完璧な人間なんていないんだよ。
+  叩[たた]けば 埃[ほこり]が 出[で]るとはよく 言[い]ったもので、完璧[かんぺき]な 人間[にんげん]なんていないんだよ。
+  'Wenn man draufklopft, kommt Staub heraus' - wie man so schön sagt. Es gibt eben keine perfekten Menschen.
+
+  叩けよさらば開かれん。努力すれば道は開けるものだ。
+  叩[たた]けよさらば 開[ひら]かれん。努力[どりょく]すれば 道[みち]は 開[ひら]けるものだ。
+  Klopfet an, so wird euch aufgetan. Wenn man sich bemüht, öffnen sich Wege.
+
+  音楽に合わせて手をたたこう！
+  音楽[おんがく]に 合[あ]わせて 手[て]を 叩[たた]こう！
+  Lasst uns im Takt der Musik klatschen!
+
+  ゴルフボールを力強くたたいて、遠くまで飛ばした。
+  ゴルフボールを 力強[ちからづよ]く 叩[たた]いて、遠[とお]くまで 飛[と]ばした。
+  Ich schlug den Golfball kräftig und ließ ihn weit fliegen.
+
+  子供がドアをバンバンとたたいて、うるさくてたまらない。
+  子供[こども]がドアをバンバンと 叩[たた]いて、うるさくてたまらない。
+  Das Kind hämmert ständig gegen die Tür, es ist unerträglich laut.
+
+  彼女は怒って机をたたいた。
+  彼女[かのじょ]は 怒[おこ]って 机[つくえ]を 叩[たた]いた。
+  Sie schlug wütend auf den Tisch.
+
+  ピアノの鍵盤をやさしくたたいて、美しい音色を奏でた。
+  ピアノの 鍵盤[けんばん]をやさしく 叩[たた]いて、美[うつく]しい 音色[ねいろ]を 奏[かな]でた。
+  Ich schlug sanft die Klaviertasten an und erzeugte einen wunderschönen Klang.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb たたく (叩く) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">ドアを 叩[たた]く</div>
+    <div class="de spoiler">an die Tür klopfen</div>
+  </div>
+  <p>Es kann auch für das Spielen von Musikinstrumenten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">太鼓[たいこ]を 叩[たた]く</div>
+    <div class="de spoiler">die Trommel schlagen</div>
+  </div>
+  <p>Im übertragenen Sinne kann es auch "kritisieren" oder "angreifen" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">新聞[しんぶん]で 叩[たた]かれる</div>
+    <div class="de spoiler">in der Zeitung scharf kritisiert werden</div>
+  </div>
+  <p>Beim Handeln kann es "den Preis drücken" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">値段[ねだん]を 叩[たた]いて 安[やす]く 買[か]う</div>
+    <div class="de spoiler">den Preis herunterhandeln und günstig kaufen</div>
+  </div>
+  <p>In Verbindung mit 口 (くち, Mund) bedeutet es oft "(negativ) reden":</p>
+  <div class="examples">
+    <div class="jp">生意気[なまいき]な 口[くち]を 叩[たた]く</div>
+    <div class="de spoiler">frech daherreden</div>
+  </div>

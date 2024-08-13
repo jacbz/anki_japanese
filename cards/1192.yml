@@ -1,26 +1,126 @@
 Rang: 1192
 Lemma: 当てる
 Lesung: あてる
-Alternativschreibweisen: ''
-Definition: treffen, setzen, aussetzen, raten
+Alternativschreibweisen: 中てる・充てる・宛てる
+Definition: treffen; zuweisen; erraten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 当てない・当てた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ボールを友達の頭に当ててしまった。
   ボールを 友達[ともだち]の 頭[あたま]に 当[あ]ててしまった。
-  Ich habe den Kopf meines Freundes mit einem Ball getroffen.
+  Ich habe versehentlich meinen Freund mit dem Ball am Kopf getroffen.
+
+  矢を的に当てるのは難しい。
+  矢[や]を 的[まと]に 当[あ]てるのは 難[むずか]しい。
+  Es ist schwierig, mit einem Pfeil ins Ziel zu treffen.
+
+  強い光線を犯人の顔に当てた。
+  強[つよ]い 光線[こうせん]を 犯人[はんにん]の 顔[かお]に 当[あ]てた。
+  Sie richteten ein starkes Licht auf das Gesicht des Täters.
+
+  布団を日に当てて乾かしましょう。
+  布団[ふとん]を 日[ひ]に 当[あ]てて 乾[かわ]かしましょう。
+  Lass uns den Futon in die Sonne legen, um ihn zu trocknen.
+
+  ガーゼを傷口に当てて、包帯を巻いた。
+  ガーゼを 傷口[きずぐち]に 当[あ]てて、包帯[ほうたい]を 巻[ま]いた。
+  Ich legte ein Stück Gaze auf die Wunde und wickelte einen Verband darum.
+
+  笛を口に当てて、静かに吹き始めた。
+  笛[ふえ]を 口[くち]に 当[あ]てて、静[しず]かに 吹[ふ]き 始[はじ]めた。
+  Er setzte die Flöte an den Mund und begann leise zu spielen.
+
+  受話器を耳に当てたが、電話は切れていた。
+  受話器[じゅわき]を 耳[みみ]に 当[あ]てたが、電話[でんわ]は 切[き]れていた。
+  Ich hielt den Hörer ans Ohr, aber die Verbindung war unterbrochen.
+
+  胸に手を当てて、深呼吸をした。
+  胸[むね]に 手[て]を 当[あ]てて、深呼吸[しんこきゅう]をした。
+  Ich legte die Hand auf die Brust und atmete tief durch.
+
+  この和語に漢字を当てるのは難しい。
+  この 和語[わご]に 漢字[かんじ]を 当[あ]てるのは 難[むずか]しい。
+  Es ist schwierig, diesem japanischen Wort ein passendes Kanji zuzuordnen.
+
+  余暇を読書に当てています。
+  余暇[よか]を 読書[どくしょ]に 当[あ]てています。
+  Ich nutze meine Freizeit zum Lesen.
+
+  予備費を会議費に当てることにしました。
+  予備費[よびひ]を 会議費[かいぎひ]に 当[あ]てることにしました。
+  Wir haben beschlossen, die Konferenzkosten aus dem Reservefonds zu decken.
+
+  名簿の順に名前を当てていきます。
+  名簿[めいぼ]の 順[じゅん]に 名前[なまえ]を 当[あ]てていきます。
+  Wir werden die Namen der Reihe nach auf der Liste aufrufen.
+
+  この手紙は誰に宛てられたものですか。
+  この 手紙[てがみ]は 誰[だれ]に 宛[あ]てられたものですか。
+  An wen ist dieser Brief adressiert?
+
+  彼女の気持ちを当てるのは難しい。
+  彼女[かのじょ]の 気持[きも]ちを 当[あ]てるのは 難[むずか]しい。
+  Es ist schwer, ihre Gefühle zu erraten.
+
+  謎を当てた人には賞品があります。
+  謎[なぞ]を 当[あ]てた 人[ひと]には 賞品[しょうひん]があります。
+  Für denjenigen, der das Rätsel löst, gibt es einen Preis.
+
+  くじで大当たりを当てて、みんな驚いた。
+  くじで 大当[おおあ]たりを 当[あ]てて、みんな 驚[おどろ]いた。
+  Alle waren überrascht, als ich den Hauptgewinn in der Lotterie gewann.
+
+  新作の芝居で大当たりを当てた。
+  新作[しんさく]の 芝居[しばい]で 大当[おおあ]たりを 当[あ]てた。
+  Mit dem neuen Theaterstück hatten wir einen großen Erfolg.
+
+  日射病に当てられて、具合が悪くなった。
+  日射病[にっしゃびょう]に 当[あ]てられて、具合[ぐあい]が 悪[わる]くなった。
+  Ich wurde von einem Sonnenstich getroffen und fühlte mich schlecht.
+
+  隣の新婚夫婦に当てられて、眠れない夜が続いた。
+  隣[となり]の 新婚夫婦[しんこんふうふ]に 当[あ]てられて、眠[ねむ]れない 夜[よる]が 続[つづ]いた。
+  Ich hatte mehrere schlaflose Nächte, weil das frisch verheiratete Paar nebenan so verliebt turtelte.
+
+  彼女の視線を顔に当てられて、緊張した。
+  彼女[かのじょ]の 視線[しせん]を 顔[かお]に 当[あ]てられて、緊張[きんちょう]した。
+  Ich wurde nervös, als ich ihren Blick auf meinem Gesicht spürte.
+
+  この資金を新しいプロジェクトに当てる予定です。
+  この 資金[しきん]を 新[あたら]しいプロジェクトに 当[あ]てる 予定[よてい]です。
+  Wir planen, diese Mittel für ein neues Projekt zu verwenden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 当てる (ateru) hat viele Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">ボールを 的[まと]に 当[あ]てる。</div>
+    <div class="de spoiler">Den Ball ins Ziel treffen.</div>
+  </div>
+  <p>Es kann auch bedeuten, etwas zuzuweisen oder für einen bestimmten Zweck zu verwenden:</p>
+  <div class="examples">
+    <div class="jp">予算[よさん]を 新[あたら]しいプロジェクトに 当[あ]てる。</div>
+    <div class="de spoiler">Das Budget für ein neues Projekt zuweisen.</div>
+  </div>
+  <p>Im übertragenen Sinne kann es auch "erraten" oder "richtig raten" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 考[かんが]えを 当[あ]てるのは 難[むずか]しい。</div>
+    <div class="de spoiler">Es ist schwer, seine Gedanken zu erraten.</div>
+  </div>
+  <p>In der Passivform 当てられる kann es auch bedeuten, von etwas betroffen oder beeinflusst zu sein:</p>
+  <div class="examples">
+    <div class="jp">強[つよ]い 日差[ひざ]しに 当[あ]てられて 具合[ぐあい]が 悪[わる]くなった。</div>
+    <div class="de spoiler">Ich wurde von der starken Sonne getroffen und fühlte mich unwohl.</div>
+  </div>

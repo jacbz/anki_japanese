@@ -15,12 +15,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この店は何時に閉店しますか。
-  この 店[みせ]は 何[なん] 時[じ]に 閉店[へいてん]しますか。
-  Um wie viel Uhr schließt das Geschäft?
+  この 店[みせ]は 何時[なんじ]に 閉店[へいてん]しますか。
+  Um wie viel Uhr schließt dieser Laden?
+
+  何時までこの図書館は開いていますか。
+  何時[なんじ]までこの 図書館[としょかん]は 開[あ]いていますか。
+  Bis wie viel Uhr ist diese Bibliothek geöffnet?
+
+  会議は何時から始まりますか。
+  会議[かいぎ]は 何時[なんじ]から 始[はじ]まりますか。
+  Um wie viel Uhr beginnt die Besprechung?
+
+  何時に起きるのが一番いいですか。
+  何時[なんじ]に 起[お]きるのが 一番[いちばん]いいですか。
+  Um welche Uhrzeit ist es am besten aufzustehen?
+
+  電車は何時に駅に着きますか。
+  電車[でんしゃ]は 何時[なんじ]に 駅[えき]に 着[つ]きますか。
+  Um wie viel Uhr kommt der Zug am Bahnhof an?
+
+  何時頃帰宅する予定ですか。
+  何時[なんじ]ごろ 帰宅[きたく]する 予定[よてい]ですか。
+  Wann planst du nach Hause zu kommen?
+
+  今何時？遅刻しそう。
+  今[いま] 何時[なんじ]？ 遅刻[ちこく]しそう。
+  Wie spät ist es jetzt? Ich komme wohl zu spät.
+
+  何時に食事をしましょうか。
+  何時[なんじ]に 食事[しょくじ]をしましょうか。
+  Um wie viel Uhr sollen wir essen?
+
+  パーティーは何時から何時までですか。
+  パーティーは 何時[なんじ]から 何時[なんじ]までですか。
+  Von wann bis wann geht die Party?
+
+  何時ですか。腕時計を忘れてしまいました。
+  何時[なんじ]ですか。腕時計[うでどけい]を 忘[わす]れてしまいました。
+  Wie viel Uhr ist es? Ich habe meine Armbanduhr vergessen.
+
+  何時に起こしてほしい？
+  何時[なんじ]に 起[お]こしてほしい？
+  Um wie viel Uhr soll ich dich wecken?
+
+  映画は何時からだっけ？
+  映画[えいが]は 何時[なんじ]からだっけ？
+  Um wie viel Uhr fängt der Film nochmal an?
+
+  何時まで働くつもりですか。
+  何時[なんじ]まで 働[はたら]くつもりですか。
+  Bis wann hast du vor zu arbeiten?
+
+  何時に眠るのが健康的ですか。
+  何時[なんじ]に 眠[ねむ]るのが 健康的[けんこうてき]ですか。
+  Um welche Uhrzeit ist es gesund, schlafen zu gehen?
+
+  バスは何時おきに来ますか。
+  バスは 何時[なんじ]おきに 来[く]ますか。
+  In welchen Abständen kommt der Bus?
+
+  何時から何時まで仕事をしていますか。
+  何時[なんじ]から 何時[なんじ]まで 仕事[しごと]をしていますか。
+  Von wann bis wann arbeitest du?
+
+  何時に会う？場所はどこにする？
+  何時[なんじ]に 会[あ]う？ 場所[ばしょ]はどこにする？
+  Wann treffen wir uns? Wo sollen wir uns treffen?
+
+  授業は何時に終わりますか。
+  授業[じゅぎょう]は 何時[なんじ]に 終[お]わりますか。
+  Um wie viel Uhr endet der Unterricht?
+
+  何時からテレビ番組が始まるの？
+  何時[なんじ]からテレビ 番組[ばんぐみ]が 始[はじ]まるの？
+  Um wie viel Uhr beginnt die Fernsehsendung?
+
+  何時に寝るの？もう遅いよ。
+  何時[なんじ]に 寝[ね]るの？もう 遅[おそ]いよ。
+  Wann gehst du schlafen? Es ist schon spät.
+
+  「なんだい、今頃、」つい語気が荒くなり、「いったい、何時だと思っているの?」
+  「なんだい、 今頃[いまごろ]、」つい 語気[ごき]が 荒[あら]くなり、「いったい、 何時[なんじ]だと 思[おも]っているの?」
+  »Was ist denn nun schon wieder?!« sage ich scharf. »Weißt du, wie spät es ist?«
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>何時 kann auch als いつ gelesen werden, was "wann" bedeutet. In diesem Fall bezieht es sich aber auf die genaue Uhrzeit.</p>
+  <div class="examples">
+    <div class="jp">何時[なんじ]に 出発[しゅっぱつ]しますか。</div>
+    <div class="de spoiler">Um wie viel Uhr brechen wir auf?</div>
+  </div>
+  <p>何時に wird oft verwendet, um nach einer genauen Uhrzeit zu fragen:</p>
+  <div class="examples">
+    <div class="jp">何時[なんじ]に 起[お]きますか。</div>
+    <div class="de spoiler">Um wie viel Uhr stehst du auf?</div>
+  </div>
+  <p>何時まで und 何時までに werden benutzt, um nach einem Zeitlimit zu fragen:</p>
+  <div class="examples">
+    <div class="jp">何時[なんじ]までに 宿題[しゅくだい]を 提出[ていしゅつ]すればいいですか。</div>
+    <div class="de spoiler">Bis wann müssen wir die Hausaufgaben abgeben?</div>
+  </div>

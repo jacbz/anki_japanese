@@ -2,14 +2,14 @@ Rang: 1188
 Lemma: 悩む
 Lesung: なやむ
 Alternativschreibweisen: ''
-Definition: sich Sorgen machen, leiden
+Definition: leiden; sich quälen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 悩まない・悩んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,104 @@ Beispielsätze: |-
   一人で 悩[なや]まないでください。
   Bitte leiden Sie nicht allein.
 
+  一人で悩まないでください。相談できる人を見つけましょう。
+  一人[ひとり]で 悩[なや]まないでください。 相談[そうだん]できる 人[ひと]を 見[み]つけましょう。
+  Bitte quälen Sie sich nicht alleine. Finden Sie jemanden, mit dem Sie sprechen können.
+
+  胃炎に悩んでいる友人のために、食事制限について調べました。
+  胃炎[いえん]に 悩[なや]んでいる 友人[ゆうじん]のために、食事制限[しょくじせいげん]について 調[しら]べました。
+  Ich habe mich über Ernährungseinschränkungen informiert, um meinem Freund zu helfen, der an einer Gastritis leidet.
+
+  便秘に悩む人が多いので、病院で相談してみるといいよ。
+  便秘[べんぴ]に 悩[なや]む 人[ひと]が 多[おお]いので、病院[びょういん]で 相談[そうだん]してみるといいよ。
+  Viele Menschen leiden unter Verstopfung, also wäre es gut, wenn du im Krankenhaus danach fragst.
+
+  肩こりに悩んでいるなら、ストレッチを試してみてはどうですか。
+  肩[かた]こりに 悩[なや]んでいるなら、ストレッチを 試[ため]してみてはどうですか。
+  Wenn du von Schulterverspannungen geplagt wirst, warum versuchst du es nicht mit Dehnübungen?
+
+  冷え性で悩んでいる人は、ぽかぽか靴下を履くといいですよ。
+  冷[ひ]え 性[しょう]で 悩[なや]んでいる 人[ひと]は、ぽかぽか 靴下[くつした]を 履[は]くといいですよ。
+  Für Leute, die unter kalten Händen und Füßen leiden, ist es gut, warme Socken zu tragen.
+
+  発作に悩まされている患者さんのために、新しい治療法を研究中です。
+  発作[ほっさ]に 悩[なや]まされている 患者[かんじゃ]さんのために、新[あたら]しい 治療法[ちりょうほう]を 研究中[けんきゅうちゅう]です。
+  Wir forschen an einer neuen Behandlungsmethode für Patienten, die unter Anfällen leiden.
+
+  会社の赤字に悩む経営者が増えているそうだ。
+  会社[かいしゃ]の 赤字[あかじ]に 悩[なや]む 経営者[けいえいしゃ]が 増[ふ]えているそうだ。
+  Es heißt, dass die Zahl der Geschäftsführer zunimmt, denen die roten Zahlen ihrer Unternehmen Kopfschmerzen bereiten.
+
+  雨に悩まされる農家の人たちのために、天気予報の精度を上げる必要があります。
+  雨[あめ]に 悩[なや]まされる 農家[のうか]の 人[ひと]たちのために、天気予報[てんきよほう]の 精度[せいど]を 上[あ]げる 必要[ひつよう]があります。
+  Wir müssen die Genauigkeit der Wettervorhersagen verbessern, um den Landwirten zu helfen, die unter dem Regen leiden.
+
+  貧苦に悩む家庭を支援するボランティア活動に参加しませんか。
+  貧苦[ひんく]に 悩[なや]む 家庭[かてい]を 支援[しえん]するボランティア 活動[かつどう]に 参加[さんか]しませんか。
+  Möchtest du nicht an einer Freiwilligenarbeit teilnehmen, um Familien zu unterstützen, die unter Armut leiden?
+
+  幻覚に悩まされている患者さんの症状を和らげる新薬が開発されました。
+  幻覚[げんかく]に 悩[なや]まされている 患者[かんじゃ]さんの 症状[しょうじょう]を 和[やわ]らげる 新薬[しんやく]が 開発[かいはつ]されました。
+  Ein neues Medikament wurde entwickelt, um die Symptome von Patienten zu lindern, die unter Halluzinationen leiden.
+
+  重要な判断に悩んでいるなら、信頼できる人に相談するのが一番だよ。
+  重要[じゅうよう]な 判断[はんだん]に 悩[なや]んでいるなら、信頼[しんらい]できる 人[ひと]に 相談[そうだん]するのが 一番[いちばん]だよ。
+  Wenn du mit einer wichtigen Entscheidung ringst, ist es am besten, jemanden zu Rate zu ziehen, dem du vertraust.
+
+  恋愛に悩む若者たちのために、カウンセリングサービスを始めました。
+  恋愛[れんあい]に 悩[なや]む 若者[わかもの]たちのために、カウンセリングサービスを 始[はじ]めました。
+  Wir haben einen Beratungsservice für junge Leute eingerichtet, die Liebeskummer haben.
+
+  悪税に悩む市民の声を聞き、税制改革を検討しています。
+  悪税[あくぜい]に 悩[なや]む 市民[しみん]の 声[こえ]を 聞[き]き、税制改革[ぜいせいかいかく]を 検討[けんとう]しています。
+  Wir hören auf die Stimmen der Bürger, die unter zu hohen Steuern leiden, und erwägen eine Steuerreform.
+
+  人によっては血便が出たとも云い、下痢に悩んだということも聞きました。
+  人[ひと]によっては 血便[けつべん]が 出[で]たとも 云[い]い、下痢[げり]に 悩[なや]んだということも 聞[き]きました。
+  Einige, von denen ich gehört habe, hatten blutigen Stuhl, andere Durchfall.
+
+  もう生きることも、神や信仰について悩むことも物憂い。
+  もう 生[い]きることも、神[かみ]や 信仰[しんこう]について 悩[なや]むことも 物憂[ものう]い。
+  Er ist zu müde für das Leben, zu matt, über Gott und den Glauben zu grübeln.
+
+  「こういうのって、誰にでもたまにはあることなんだから、必要以上に悩んじゃ駄目よ」
+  「こういうのって、誰[だれ]にでもたまにはあることなんだから、必要以上[ひつよういじょう]に 悩[なや]んじゃ 駄目[だめ]よ」
+  »Das kommt bei jedem mal vor, mach dir keine Gedanken deswegen.«
+
+  ただ、息子の拓也君は一番成績がよくないから、どうしようかと思って悩んでる。
+  ただ、息子[むすこ]の 拓也君[たくやくん]は 一番[いちばん] 成績[せいせき]が よくないから、どうしようかと 思[おも]って 悩[なや]んでる。
+  Aber weil Takuya die schlechtesten Noten hat, scheint sie unschlüssig zu sein.
+
+  言い悩んでいる様子を見て、上司が助け舟を出してくれた。
+  言[い]い 悩[なや]んでいる 様子[ようす]を 見[み]て、上司[じょうし]が 助[たす]け 舟[ぶね]を 出[だ]してくれた。
+  Als der Vorgesetzte sah, dass ich nach Worten rang, half er mir aus der Patsche.
+
+  経済の伸び悩みが続いているため、新たな対策が必要とされています。
+  経済[けいざい]の 伸[の]び 悩[なや]みが 続[つづ]いているため、新[あら]たな 対策[たいさく]が 必要[ひつよう]とされています。
+  Da das Wirtschaftswachstum weiterhin stagniert, sind neue Maßnahmen erforderlich.
+
+  株価が行き悩んでいるので、投資家たちは慎重な姿勢を取っています。
+  株価[かぶか]が 行[い]き 悩[なや]んでいるので、投資家[とうしか]たちは 慎重[しんちょう]な 姿勢[しせい]を 取[と]っています。
+  Da die Aktienkurse schwanken, nehmen die Anleger eine vorsichtige Haltung ein.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>悩む (なやむ, nayamu) wird verwendet, um auszudrücken, dass jemand unter etwas leidet, sich mit etwas quält oder von etwas geplagt wird. Es kann sich auf physische oder psychische Probleme beziehen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 仕事[しごと]のストレスに 悩[なや]んでいる。</div>
+    <div class="de spoiler">Er leidet unter Stress bei der Arbeit.</div>
+  </div>
+  <p>Das Verb kann auch in Verbindung mit anderen Verben verwendet werden, um auszudrücken, dass jemand Schwierigkeiten hat, etwas zu tun oder sich zu entscheiden:</p>
+  <div class="examples">
+    <div class="jp">どうしたらいいか 悩[なや]んでいる。</div>
+    <div class="de spoiler">Ich weiß nicht, was ich tun soll.</div>
+  </div>
+  <p>In der Umgangssprache wird es auch oft verwendet, um auszudrücken, dass man sich über etwas den Kopf zerbricht:</p>
+  <div class="examples">
+    <div class="jp">進路[しんろ]について 悩[なや]んでいる 高校生[こうこうせい]が 多[おお]い。</div>
+    <div class="de spoiler">Viele Oberschüler zerbrechen sich den Kopf über ihre Zukunft.</div>
+  </div>

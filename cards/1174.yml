@@ -2,25 +2,118 @@ Rang: 1174
 Lemma: 仰る
 Lesung: おっしゃる
 Alternativschreibweisen: ''
-Definition: sagen, erzählen, sprechen (höflich)
+Definition: (respektvoll) sagen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^\.
 Register: ''
 Dispersion: '66'
 Ursprung: ''
-Konjugation: ''
+Konjugation: おっしゃらない・おっしゃった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   おっしゃっていることがよくわかりません。
-  仰[おっしゃ]っていることがよく 分[わ]かりません。
-  Ich verstehe nicht, was Sie sagen.
+  おっしゃっていることがよく 分[わ]かりません。
+  Ich verstehe nicht ganz, was Sie sagen.
+
+  何とおっしゃいましたか。もう一度お願いします。
+  何[なん]とおっしゃいましたか。もう 一度[いちど]お 願[ねが]いします。
+  Was haben Sie gesagt? Könnten Sie das bitte wiederholen?
+
+  山本さんとおっしゃる方はどちらですか。
+  山本[やまもと]さんとおっしゃる 方[かた]はどちらですか。
+  Wer ist die Person, die Yamamoto heißt?
+
+  先生のおっしゃる通りに勉強します。
+  先生[せんせい]のおっしゃる 通[とお]りに 勉強[べんきょう]します。
+  Ich werde so lernen, wie Sie es empfohlen haben, Herr Lehrer.
+
+  年齢をおっしゃっていただけますか。
+  年齢[ねんれい]をおっしゃっていただけますか。
+  Könnten Sie mir bitte Ihr Alter nennen?
+
+  全くおっしゃる通りです。私も同感です。
+  全[まった]くおっしゃる 通[とお]りです。 私[わたし]も 同感[どうかん]です。
+  Sie haben vollkommen Recht. Ich stimme Ihnen zu.
+
+  私にどうしろとおっしゃるのですか。
+  私[わたし]にどうしろとおっしゃるのですか。
+  Was raten Sie mir zu tun?
+
+  社長がおっしゃったことを皆に伝えました。
+  社長[しゃちょう]がおっしゃったことを 皆[みな]に 伝[つた]えました。
+  Ich habe allen mitgeteilt, was der Geschäftsführer gesagt hat.
+
+  お客様のおっしゃることには常に耳を傾けます。
+  お 客様[きゃくさま]のおっしゃることには 常[つね]に 耳[みみ]を 傾[かたむ]けます。
+  Wir hören stets aufmerksam zu, was unsere Kunden sagen.
+
+  母がおっしゃるには、もっと野菜を食べるべきだそうです。
+  母[はは]がおっしゃるには、もっと 野菜[やさい]を 食[た]べるべきだそうです。
+  Meine Mutter sagt, ich sollte mehr Gemüse essen.
+
+  先生はどのようにおっしゃいましたか。
+  先生[せんせい]はどのようにおっしゃいましたか。
+  Wie hat sich der Lehrer ausgedrückt?
+
+  おっしゃる通りに改善策を考えてみます。
+  おっしゃる 通[とお]りに 改善策[かいぜんさく]を 考[かんが]えてみます。
+  Ich werde über Verbesserungsmaßnahmen nachdenken, wie Sie vorgeschlagen haben.
+
+  彼女はいつも正しいことをおっしゃいます。
+  彼女[かのじょ]はいつも 正[ただ]しいことをおっしゃいます。
+  Sie sagt immer das Richtige.
+
+  おっしゃることが矛盾しているようですが。
+  おっしゃることが 矛盾[むじゅん]しているようですが。
+  Es scheint, dass das, was Sie sagen, widersprüchlich ist.
+
+  先程おっしゃったことについて、もう少し詳しく説明していただけますか。
+  先程[さきほど]おっしゃったことについて、もう 少[すこ]し 詳[くわ]しく 説明[せつめい]していただけますか。
+  Könnten Sie das, was Sie gerade gesagt haben, etwas genauer erläutern?
+
+  おっしゃる意味がよくわかりません。
+  おっしゃる 意味[いみ]がよくわかりません。
+  Ich verstehe die Bedeutung dessen, was Sie sagen, nicht ganz.
+
+  祖父はいつも「努力は裏切らない」とおっしゃっています。
+  祖父[そふ]はいつも「 努力[どりょく]は 裏切[うらぎ]らない」とおっしゃっています。
+  Mein Großvater sagt immer: "Harte Arbeit zahlt sich aus".
+
+  部長のおっしゃる通りに企画書を書き直しました。
+  部長[ぶちょう]のおっしゃる 通[とお]りに 企画書[きかくしょ]を 書[か]き 直[なお]しました。
+  Ich habe den Projektvorschlag so überarbeitet, wie der Abteilungsleiter es gesagt hat.
+
+  おっしゃることはよくわかりますが、実行するのは難しいです。
+  おっしゃることはよくわかりますが、 実行[じっこう]するのは 難[むずか]しいです。
+  Ich verstehe gut, was Sie sagen, aber es ist schwierig, es umzusetzen.
+
+  先生がおっしゃったように、毎日練習することが大切です。
+  先生[せんせい]がおっしゃったように、 毎日[まいにち] 練習[れんしゅう]することが 大切[たいせつ]です。
+  Wie der Lehrer sagte, ist es wichtig, jeden Tag zu üben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>仰る (おっしゃる) ist eine respektvolle Form des Verbs 言う (いう, sagen). Es wird verwendet, um höflich über die Äußerungen oder Meinungen anderer Personen zu sprechen, besonders wenn diese in einer höheren sozialen Position stehen oder älter sind.</p>
+  <div class="examples">
+    <div class="jp">先生[せんせい]、もう 一度[いちど]おっしゃっていただけますか。</div>
+    <div class="de spoiler">Herr Lehrer, könnten Sie das bitte noch einmal sagen?</div>
+  </div>
+  <p>Die Konjugation ist unregelmäßig:</p>
+  <ul>
+    <li>Höflichkeitsform (ます-Form): おっしゃいます</li>
+    <li>Verneinung: おっしゃらない</li>
+    <li>Vergangenheit: おっしゃった</li>
+    <li>Imperativ: おっしゃい</li>
+  </ul>
+  <p>Es wird oft in formellen Situationen oder im Geschäftskontext verwendet:</p>
+  <div class="examples">
+    <div class="jp">社長[しゃちょう]がおっしゃるように、 効率[こうりつ]を 上[あ]げる 必要[ひつよう]があります。</div>
+    <div class="de spoiler">Wie der Geschäftsführer sagt, müssen wir die Effizienz steigern.</div>
+  </div>

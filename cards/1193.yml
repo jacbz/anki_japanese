@@ -2,7 +2,7 @@ Rang: 1193
 Lemma: 出来事
 Lesung: できごと
 Alternativschreibweisen: ''
-Definition: Ereignis, Angelegenheit, Geschehen
+Definition: Ereignis
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\..
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   その歴史的出来事についてはほとんど記録がない。
   その 歴史的[れきしてき] 出来事[できごと]についてはほとんど 記録[きろく]がない。
-  Es gibt sehr wenige Aufzeichnungen über das historische Ereignis.
+  Es gibt kaum Aufzeichnungen über dieses historische Ereignis.
+
+  今日は特に変わった出来事もなく、平凡な一日だった。
+  今日[きょう]は 特[とく]に 変[か]わった 出来事[できごと]もなく、平凡[へいぼん]な 一日[いちにち]だった。
+  Heute war ein gewöhnlicher Tag ohne besondere Vorkommnisse.
+
+  彼女は日記に毎日の出来事を細かく記録している。
+  彼女[かのじょ]は 日記[にっき]に 毎日[まいにち]の 出来事[できごと]を 細[こま]かく 記録[きろく]している。
+  Sie zeichnet die täglichen Ereignisse detailliert in ihrem Tagebuch auf.
+
+  思いがけない出来事で予定が大幅に変更になった。
+  思[おも]いがけない 出来事[できごと]で 予定[よてい]が 大幅[おおはば]に 変更[へんこう]になった。
+  Aufgrund eines unerwarteten Ereignisses wurden die Pläne stark geändert.
+
+  世界の重大な出来事をニュースで毎日チェックしている。
+  世界[せかい]の 重大[じゅうだい]な 出来事[できごと]をニュースで 毎日[まいにち]チェックしている。
+  Ich überprüfe täglich die Nachrichten auf wichtige Weltereignisse.
+
+  その悲しい出来事は彼の人生を大きく変えた。
+  その 悲[かな]しい 出来事[できごと]は 彼[かれ]の 人生[じんせい]を 大[おお]きく 変[か]えた。
+  Dieses traurige Ereignis veränderte sein Leben grundlegend.
+
+  小さな出来事が大きな結果につながることがある。
+  小[ちい]さな 出来事[できごと]が 大[おお]きな 結果[けっか]につながることがある。
+  Kleine Ereignisse können manchmal zu großen Ergebnissen führen.
+
+  この出来事は私たちの記憶に深く刻まれている。
+  この 出来事[できごと]は 私[わたし]たちの 記憶[きおく]に 深[ふか]く 刻[きざ]まれている。
+  Dieses Ereignis ist tief in unserem Gedächtnis eingeprägt.
+
+  彼は重要な出来事を忘れないようにカレンダーにメモしている。
+  彼[かれ]は 重要[じゅうよう]な 出来事[できごと]を 忘[わす]れないようにカレンダーにメモしている。
+  Er notiert wichtige Ereignisse im Kalender, um sie nicht zu vergessen.
+
+  私たちは過去の出来事から多くのことを学べる。
+  私[わたし]たちは 過去[かこ]の 出来事[できごと]から 多[おお]くのことを 学[まな]べる。
+  Wir können viel aus vergangenen Ereignissen lernen.
+
+  その出来事は彼女の人生の転機となった。
+  その 出来事[できごと]は 彼女[かのじょ]の 人生[じんせい]の 転機[てんき]となった。
+  Dieses Ereignis wurde zum Wendepunkt in ihrem Leben.
+
+  昨日の出来事を思い出せないんだ。
+  昨日[きのう]の 出来事[できごと]を 思い出[おもいだ]せないんだ。
+  Ich kann mich nicht an die gestrigen Ereignisse erinnern.
+
+  彼らは重大な出来事を前に緊張していた。
+  彼[かれ]らは 重大[じゅうだい]な 出来事[できごと]を 前[まえ]に 緊張[きんちょう]していた。
+  Sie waren angesichts des bevorstehenden wichtigen Ereignisses angespannt.
+
+  その出来事は家族全員に大きな影響を与えた。
+  その 出来事[できごと]は 家族[かぞく] 全員[ぜんいん]に 大[おお]きな 影響[えいきょう]を 与[あた]えた。
+  Dieses Ereignis hatte einen großen Einfluss auf die gesamte Familie.
+
+  彼女は日々の小さな出来事に幸せを感じている。
+  彼女[かのじょ]は 日々[ひび]の 小[ちい]さな 出来事[できごと]に 幸[しあわ]せを 感[かん]じている。
+  Sie findet Glück in den kleinen täglichen Ereignissen.
+
+  その出来事は多くの人々の心に深い傷を残した。
+  その 出来事[できごと]は 多[おお]くの 人々[ひとびと]の 心[こころ]に 深[ふか]い 傷[きず]を 残[のこ]した。
+  Dieses Ereignis hinterließ tiefe Wunden in den Herzen vieler Menschen.
+
+  彼は予期せぬ出来事に冷静に対応した。
+  彼[かれ]は 予期[よき]せぬ 出来事[できごと]に 冷静[れいせい]に 対応[たいおう]した。
+  Er reagierte ruhig auf das unerwartete Ereignis.
+
+  その出来事は社会に大きな衝撃を与えた。
+  その 出来事[できごと]は 社会[しゃかい]に 大[おお]きな 衝撃[しょうげき]を 与[あた]えた。
+  Dieses Ereignis versetzte die Gesellschaft in große Aufregung.
+
+  彼らは最近の出来事について熱心に議論していた。
+  彼[かれ]らは 最近[さいきん]の 出来事[できごと]について 熱心[ねっしん]に 議論[ぎろん]していた。
+  Sie diskutierten eifrig über die jüngsten Ereignisse.
+
+  この出来事は歴史の教科書に載るほど重要だ。
+  この 出来事[できごと]は 歴史[れきし]の 教科書[きょうかしょ]に 載[の]るほど 重要[じゅうよう]だ。
+  Dieses Ereignis ist so bedeutend, dass es in Geschichtsbüchern erscheinen wird.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1179
 Lemma: ものの
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: aber, obwohl, trotz
+Definition: obwohl, trotzdem
 Extra: '' # Nur bei suru-Verben
 Wortart: konj
 Lesung mit Tonhöhe: ''
@@ -18,9 +18,104 @@ Beispielsätze: |-
   試合[しあい]には 勝[か]ったものの 彼[かれ]は 満足[まんぞく]していなかった。
   Aber obwohl er das Spiel gewonnen hat, war er nicht zufrieden.
 
+  試合には勝ったものの、彼は満足していなかった。
+  試合[しあい]には 勝[か]ったものの、彼[かれ]は 満足[まんぞく]していなかった。
+  Obwohl er das Spiel gewonnen hatte, war er nicht zufrieden.
+
+  彼女は才能があるものの、努力が足りない。
+  彼女[かのじょ]は 才能[さいのう]があるものの、努力[どりょく]が 足[た]りない。
+  Sie hat zwar Talent, aber es mangelt ihr an Anstrengung.
+
+  雨が降っているものの、予定通り外出することにした。
+  雨[あめ]が 降[ふ]っているものの、予定通[よていどお]り 外出[がいしゅつ]することにした。
+  Obwohl es regnet, habe ich beschlossen, wie geplant auszugehen.
+
+  値段は高いものの、品質は非常に良い。
+  値段[ねだん]は 高[たか]いものの、品質[ひんしつ]は 非常[ひじょう]に 良[よ]い。
+  Der Preis ist zwar hoch, aber die Qualität ist sehr gut.
+
+  彼は経験が少ないものの、熱心に仕事に取り組んでいる。
+  彼[かれ]は 経験[けいけん]が 少[すく]ないものの、熱心[ねっしん]に 仕事[しごと]に 取[と]り 組[く]んでいる。
+  Obwohl er wenig Erfahrung hat, arbeitet er engagiert.
+
+  時間はかかるものの、確実な方法を選んだ。
+  時間[じかん]はかかるものの、確実[かくじつ]な 方法[ほうほう]を 選[えら]んだ。
+  Auch wenn es Zeit kostet, habe ich mich für die sichere Methode entschieden.
+
+  体調は良くないものの、仕事を休むわけにはいかない。
+  体調[たいちょう]は 良[よ]くないものの、仕事[しごと]を 休[やす]むわけにはいかない。
+  Obwohl ich mich nicht wohl fühle, kann ich nicht von der Arbeit fernbleiben.
+
+  計画は完璧ではないものの、実行する価値はある。
+  計画[けいかく]は 完璧[かんぺき]ではないものの、実行[じっこう]する 価値[かち]はある。
+  Der Plan ist zwar nicht perfekt, aber es lohnt sich, ihn umzusetzen.
+
+  彼女は年齢は若いものの、経験は豊富だ。
+  彼女[かのじょ]は 年齢[ねんれい]は 若[わか]いものの、経験[けいけん]は 豊富[ほうふ]だ。
+  Auch wenn sie jung ist, hat sie viel Erfahrung.
+
+  成績は良くないものの、努力は認められた。
+  成績[せいせき]は 良[よ]くないものの、努力[どりょく]は 認[みと]められた。
+  Obwohl die Noten nicht gut waren, wurde die Anstrengung anerkannt.
+
+  彼の話し方は粗いものの、心は優しい。
+  彼[かれ]の 話[はな]し 方[かた]は 粗[あら]いものの、心[こころ]は 優[やさ]しい。
+  Seine Art zu sprechen ist zwar grob, aber er hat ein gutes Herz.
+
+  予算は限られているものの、最善を尽くそう。
+  予算[よさん]は 限[かぎ]られているものの、最善[さいぜん]を 尽[つ]くそう。
+  Auch wenn das Budget begrenzt ist, lasst uns unser Bestes geben.
+
+  彼は頑固なところがあるものの、信頼できる友人だ。
+  彼[かれ]は 頑固[がんこ]なところがあるものの、信頼[しんらい]できる 友人[ゆうじん]だ。
+  Er ist zwar etwas stur, aber ein vertrauenswürdiger Freund.
+
+  小さな会社ではあるものの、独自の技術を持っている。
+  小[ちい]さな 会社[かいしゃ]ではあるものの、独自[どくじ]の 技術[ぎじゅつ]を 持[も]っている。
+  Obwohl es ein kleines Unternehmen ist, verfügt es über eigene Technologien.
+
+  彼女は疲れているものの、笑顔を絶やさない。
+  彼女[かのじょ]は 疲[つか]れているものの、笑顔[えがお]を 絶[た]やさない。
+  Auch wenn sie müde ist, hört sie nicht auf zu lächeln.
+
+  道は険しいものの、景色は素晴らしい。
+  道[みち]は 険[けわ]しいものの、景色[けしき]は 素晴[すば]らしい。
+  Der Weg ist zwar steil, aber die Aussicht ist wunderbar.
+
+  彼は失敗したものの、諦めずに再挑戦した。
+  彼[かれ]は 失敗[しっぱい]したものの、諦[あきら]めずに 再挑戦[さいちょうせん]した。
+  Obwohl er gescheitert war, gab er nicht auf und versuchte es erneut.
+
+  食事の量は少ないものの、栄養バランスは良い。
+  食事[しょくじ]の 量[りょう]は 少[すく]ないものの、栄養[えいよう]バランスは 良[よ]い。
+  Die Menge des Essens ist zwar gering, aber die Nährwertbilanz ist gut.
+
+  彼女は初心者であるものの、上達が早い。
+  彼女[かのじょ]は 初心者[しょしんしゃ]であるものの、上達[じょうたつ]が 早[はや]い。
+  Obwohl sie Anfängerin ist, macht sie schnelle Fortschritte.
+
+  アパートは古いものの、立地は最高だ。
+  アパートは 古[ふる]いものの、立地[りっち]は 最高[さいこう]だ。
+  Die Wohnung ist zwar alt, aber die Lage ist hervorragend.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ものの wird an die Attributivform angeschlossen und drückt einen Gegensatz aus. Es bedeutet „obwohl" oder „trotzdem" und wird verwendet, um eine Aussage zu machen, die im Widerspruch zum vorherigen Satz steht.</p>
+  <div class="examples">
+    <div class="jp">雨[あめ]が 降[ふ]っているものの、外出[がいしゅつ]します。</div>
+    <div class="de spoiler">Obwohl es regnet, gehe ich aus.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um eine Einschränkung oder einen Vorbehalt auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 才能[さいのう]があるものの、努力[どりょく]が 足[た]りない。</div>
+    <div class="de spoiler">Er hat zwar Talent, aber es mangelt ihm an Anstrengung.</div>
+  </div>
+  <p>ものの kann auch am Satzende stehen, um einen unvollendeten Gedanken oder eine implizite Schlussfolgerung auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">頑張[がんば]ったものの…</div>
+    <div class="de spoiler">Ich habe mich zwar bemüht, aber... (impliziert, dass das Ergebnis nicht wie erhofft war)</div>
+  </div>

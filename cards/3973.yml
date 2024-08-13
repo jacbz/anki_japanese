@@ -2,21 +2,97 @@ Rang: 3973
 Lemma: エレベーター
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Aufzug
+Definition: Aufzug, Fahrstuhl
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^\...
 Register: ''
 Dispersion: '92'
-Ursprung: ''
+Ursprung: engl. elevator
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   三階までエレベーターに乗った。
-  三 階[かい]までエレベーターに 乗[の]った。
-  Ich bin mit dem Aufzug bis zum dritten Stock gefahren.
+  三階[さんかい]までエレベーターに 乗[の]った。
+  Ich bin mit dem Aufzug bis in den dritten Stock gefahren.
+
+  エレベーターボーイがボタンを押してくれました。
+  エレベーターボーイがボタンを 押[お]してくれました。
+  Der Liftboy hat den Knopf für uns gedrückt.
+
+  エレベーターホールで友達と待ち合わせしましょう。
+  エレベーターホールで 友達[ともだち]と 待[ま]ち 合[あ]わせしましょう。
+  Lass uns uns in der Fahrstuhllobby mit Freunden treffen.
+
+  自動式エレベーターは便利ですね。
+  自動式[じどうしき]エレベーターは 便利[べんり]ですね。
+  Selbstfahrende Aufzüge sind wirklich praktisch, nicht wahr?
+
+  貨物エレベーターで荷物を運びます。
+  貨物[かもつ]エレベーターで 荷物[にもつ]を 運[はこ]びます。
+  Wir transportieren die Fracht mit dem Lastenaufzug.
+
+  エレベーターで上がりましょう。階段は疲れるから。
+  エレベーターで 上[あ]がりましょう。階段[かいだん]は 疲[つか]れるから。
+  Lass uns den Aufzug nehmen. Die Treppe ist anstrengend.
+
+  エレベーターに乗るときは、先に降りる人を待ちましょう。
+  エレベーターに 乗[の]るときは、先[さき]に 降[お]りる 人[ひと]を 待[ま]ちましょう。
+  Wenn wir in den Aufzug einsteigen, sollten wir auf die Leute warten, die aussteigen.
+
+  エレベーターのドアが閉まるシュウッという音が聞こえた。
+  エレベーターのドアが 閉[し]まるシュウッという 音[おと]が 聞[き]こえた。
+  Ich hörte das zischende Geräusch, als sich die Aufzugtür schloss.
+
+  エレベーターが故障して、階段を使わざるを得なかった。
+  エレベーターが 故障[こしょう]して、階段[かいだん]を 使[つか]わざるを 得[え]なかった。
+  Der Aufzug war kaputt, also mussten wir die Treppe benutzen.
+
+  このビルには高速エレベーターが設置されています。
+  このビルには 高速[こうそく]エレベーターが 設置[せっち]されています。
+  In diesem Gebäude sind Hochgeschwindigkeitsaufzüge installiert.
+
+  エレベーターの中で携帯電話を使うのは控えましょう。
+  エレベーターの 中[なか]で 携帯電話[けいたいでんわ]を 使[つか]うのは 控[ひか]えましょう。
+  Lassen Sie uns davon absehen, im Aufzug Mobiltelefone zu benutzen.
+
+  エレベーターに乗る時は、定員オーバーに注意してください。
+  エレベーターに 乗[の]る 時[とき]は、定員[ていいん]オーバーに 注意[ちゅうい]してください。
+  Bitte achten Sie darauf, die maximale Personenanzahl nicht zu überschreiten, wenn Sie den Aufzug benutzen.
+
+  エレベーターガールが丁寧に階数を案内してくれた。
+  エレベーターガールが 丁寧[ていねい]に 階数[かいすう]を 案内[あんない]してくれた。
+  Die Fahrstuhlführerin hat uns höflich die Stockwerke angesagt.
+
+  地震の時はエレベーターを使わないで、階段を使ってください。
+  地震[じしん]の 時[とき]はエレベーターを 使[つか]わないで、階段[かいだん]を 使[つか]ってください。
+  Bei einem Erdbeben benutzen Sie bitte nicht den Aufzug, sondern die Treppe.
+
+  エレベーターのメンテナンス中です。ご不便をおかけして申し訳ありません。
+  エレベーターのメンテナンス 中[ちゅう]です。ご 不便[ふべん]をおかけして 申[もう]し 訳[わけ]ありません。
+  Der Aufzug wird gerade gewartet. Wir entschuldigen uns für die Unannehmlichkeiten.
+
+  エレベーターで知らない人と二人きりになると、少し緊張する。
+  エレベーターで 知[し]らない 人[ひと]と 二人[ふたり]きりになると、少[すこ]し 緊張[きんちょう]する。
+  Ich werde ein bisschen nervös, wenn ich mit einer fremden Person allein im Aufzug bin.
+
+  エレベーターの中で鏡を見ながら髪を直す人がいますね。
+  エレベーターの 中[なか]で 鏡[かがみ]を 見[み]ながら 髪[かみ]を 直[なお]す 人[ひと]がいますね。
+  Es gibt Leute, die sich im Aufzug im Spiegel betrachten und ihre Haare richten.
+
+  新しいオフィスビルには、ガラス張りのパノラマエレベーターがあります。
+  新[あたら]しいオフィスビルには、ガラス 張[ば]りのパノラマエレベーターがあります。
+  Das neue Bürogebäude hat einen gläsernen Panorama-Aufzug.
+
+  エレベーターの開閉ボタンを押し間違えて、恥ずかしい思いをした。
+  エレベーターの 開閉[かいへい]ボタンを 押[お]し 間違[まちが]えて、恥[は]ずかしい 思[おも]いをした。
+  Ich habe mich geschämt, als ich versehentlich den falschen Knopf im Aufzug gedrückt habe.
+
+  エレベーターの中で突然停電になり、閉じ込められてしまった。
+  エレベーターの 中[なか]で 突然[とつぜん] 停電[ていでん]になり、閉[と]じ 込[こ]められてしまった。
+  Plötzlich gab es einen Stromausfall im Aufzug, und wir waren eingeschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

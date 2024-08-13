@@ -2,21 +2,97 @@ Rang: 1197
 Lemma: 眺める
 Lesung: ながめる
 Alternativschreibweisen: ''
-Definition: sehen, betrachten, ansehen
+Definition: betrachten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 眺めない・眺めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   窓から山々を眺めることができる。
   窓[まど]から 山々[やまやま]を 眺[なが]めることができる。
-  Man kann Berge vom Fenster aus sehen.
+  Man kann die Berge vom Fenster aus betrachten.
+
+  海を眺めながら、ゆっくりとコーヒーを飲んだ。
+  海[うみ]を 眺[なが]めながら、ゆっくりとコーヒーを 飲[の]んだ。
+  Ich trank langsam Kaffee, während ich aufs Meer hinausschaute.
+
+  空を眺めていると、心が落ち着いてくる。
+  空[そら]を 眺[なが]めていると、心[こころ]が 落[お]ち 着[つ]いてくる。
+  Wenn ich in den Himmel schaue, beruhigt sich mein Gemüt.
+
+  教科書を眺めても、内容が頭に入ってこない。
+  教科書[きょうかしょ]を 眺[なが]めても、内容[ないよう]が 頭[あたま]に 入[はい]ってこない。
+  Auch wenn ich ins Lehrbuch schaue, dringt der Inhalt nicht in meinen Kopf.
+
+  彼女は懐かしそうに古い写真を眺めていた。
+  彼女[かのじょ]は 懐[なつ]かしそうに 古[ふる]い 写真[しゃしん]を 眺[なが]めていた。
+  Sie betrachtete nostalgisch alte Fotos.
+
+  夜空の星を眺めるのが趣味です。
+  夜空[よぞら]の 星[ほし]を 眺[なが]めるのが 趣味[しゅみ]です。
+  Mein Hobby ist es, die Sterne am Nachthimmel zu betrachten.
+
+  科学者たちは生物の動きを眺めて研究している。
+  科学者[かがくしゃ]たちは 生物[せいぶつ]の 動[うご]きを 眺[なが]めて 研究[けんきゅう]している。
+  Die Wissenschaftler beobachten die Bewegungen der Lebewesen für ihre Forschung.
+
+  彼は窓から往来を眺めるのが日課だ。
+  彼[かれ]は 窓[まど]から 往来[おうらい]を 眺[なが]めるのが 日課[にっか]だ。
+  Es ist seine tägliche Routine, dem Kommen und Gehen vom Fenster aus zuzusehen.
+
+  ぼんやりと景色を眺めていたら、時間を忘れてしまった。
+  ぼんやりと 景色[けしき]を 眺[なが]めていたら、時間[じかん]を 忘[わす]れてしまった。
+  Als ich geistesabwesend die Landschaft betrachtete, vergaß ich die Zeit.
+
+  彼女は訝しげに私の顔を眺めた。
+  彼女[かのじょ]は 訝[いぶか]しげに 私[わたし]の 顔[かお]を 眺[なが]めた。
+  Sie sah mich misstrauisch an.
+
+  じろじろと人を眺めるのは失礼だよ。
+  じろじろと 人[ひと]を 眺[なが]めるのは 失礼[しつれい]だよ。
+  Es ist unhöflich, Leute anzustarren.
+
+  彼は遠くの地平線を眺めながら、深い考えに沈んでいた。
+  彼[かれ]は 遠[とお]くの 地平線[ちへいせん]を 眺[なが]めながら、深[ふか]い 考[かんが]えに 沈[しず]んでいた。
+  Er versank in tiefe Gedanken, während er in die ferne Horizontlinie blickte.
+
+  新しい街並みを眺めると、時代の変化を感じる。
+  新[あたら]しい 街並[まちな]みを 眺[なが]めると、時代[じだい]の 変化[へんか]を 感[かん]じる。
+  Wenn man die neue Stadtlandschaft betrachtet, spürt man den Wandel der Zeit.
+
+  彼女は鏡に映る自分の姿を眺めて、髪型を直した。
+  彼女[かのじょ]は 鏡[かがみ]に 映[うつ]る 自分[じぶん]の 姿[すがた]を 眺[なが]めて、髪型[かみがた]を 直[なお]した。
+  Sie betrachtete ihr Spiegelbild und richtete ihre Frisur.
+
+  子供たちは水族館の魚を眺めて楽しんでいる。
+  子供[こども]たちは 水族館[すいぞくかん]の 魚[さかな]を 眺[なが]めて 楽[たの]しんでいる。
+  Die Kinder haben Spaß daran, die Fische im Aquarium zu beobachten.
+
+  彼は美術館で絵画を眺めながら、芸術について考えを巡らせた。
+  彼[かれ]は 美術館[びじゅつかん]で 絵画[かいが]を 眺[なが]めながら、芸術[げいじゅつ]について 考[かんが]えを 巡[めぐ]らせた。
+  Er ließ seine Gedanken über Kunst schweifen, während er die Gemälde im Museum betrachtete.
+
+  私たちは山頂から眺める景色に感動した。
+  私[わたし]たちは 山頂[さんちょう]から 眺[なが]める 景色[けしき]に 感動[かんどう]した。
+  Wir waren von der Aussicht, die sich uns vom Berggipfel bot, begeistert.
+
+  彼は窓から雨が降るのを眺めながら、物思いに耽っていた。
+  彼[かれ]は 窓[まど]から 雨[あめ]が 降[ふ]るのを 眺[なが]めながら、物思[ものおも]いに 耽[ふけ]っていた。
+  Er war in Gedanken versunken, während er den fallenden Regen vom Fenster aus beobachtete.
+
+  祖母は庭の花々を眺めるのが日課だった。
+  祖母[そぼ]は 庭[にわ]の 花々[はなばな]を 眺[なが]めるのが 日課[にっか]だった。
+  Es war die tägliche Routine meiner Großmutter, die Blumen im Garten zu betrachten.
+
+  彼らは遠くから眺めるだけで、その場所に近づかなかった。
+  彼[かれ]らは 遠[とお]くから 眺[なが]めるだけで、その 場所[ばしょ]に 近[ちか]づかなかった。
+  Sie betrachteten den Ort nur von weitem, ohne sich ihm zu nähern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

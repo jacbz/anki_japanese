@@ -1,15 +1,15 @@
 Rang: 1169
 Lemma: 押さえる
 Lesung: おさえる
-Alternativschreibweisen: ''
-Definition: drücken, halten
+Alternativschreibweisen: 抑える・圧える
+Definition: niederhalten, unterdrücken; festhalten
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 押さえない・押さえた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,102 @@ Beispielsätze: |-
   ドアを 押[お]さえておいてくれますか。
   Kannst du die Tür für mich halten?
 
+  アイロンで布地を押さえながらゆっくりと動かす。
+  アイロンで 布地[ぬのじ]を 押[お]さえながらゆっくりと 動[うご]かす。
+  Bewegen Sie das Bügeleisen langsam, während Sie auf den Stoff drücken.
+
+  梯子を押さえてください。危ないですから。
+  梯子[はしご]を 押[お]さえてください。危[あぶ]ないですから。
+  Bitte halten Sie die Leiter fest. Es ist gefährlich.
+
+  石で紙が飛ばないように押さえておきました。
+  石[いし]で 紙[かみ]が 飛[と]ばないように 押[お]さえておきました。
+  Ich habe einen Stein auf das Papier gelegt, damit es nicht wegfliegt.
+
+  犬が暴れないように、しっかりと押さえてください。
+  犬[いぬ]が 暴[あば]れないように、しっかりと 押[お]さえてください。
+  Bitte halten Sie den Hund fest, damit er nicht wild wird.
+
+  待ち針で布を押さえて、縫いやすくしましょう。
+  待[ま]ち 針[ばり]で 布[ぬの]を 押[お]さえて、縫[ぬ]いやすくしましょう。
+  Lasst uns den Stoff mit Stecknadeln fixieren, damit er leichter zu nähen ist.
+
+  風で飛ばされないように、両手で帽子を押さえた。
+  風[かぜ]で 飛[と]ばされないように、両手[りょうて]で 帽子[ぼうし]を 押[お]さえた。
+  Ich hielt meinen Hut mit beiden Händen fest, damit er nicht vom Wind weggeweht wurde.
+
+  ドアを押さえてあげるから、荷物を持って入ってください。
+  ドアを 押[お]さえてあげるから、荷物[にもつ]を 持[も]って 入[はい]ってください。
+  Ich halte die Tür für Sie auf, kommen Sie mit Ihrem Gepäck herein.
+
+  シフトキーを押さえながら、他のキーを押してください。
+  シフトキーを 押[お]さえながら、他[ほか]のキーを 押[お]してください。
+  Halten Sie die Shift-Taste gedrückt und drücken Sie dann eine andere Taste.
+
+  傷口をハンカチで押さえて、出血を止めようとした。
+  傷口[きずぐち]をハンカチで 押[お]さえて、出血[しゅっけつ]を 止[と]めようとした。
+  Ich versuchte, die Blutung zu stoppen, indem ich ein Taschentuch auf die Wunde drückte.
+
+  目を手で押さえて、明るさから目を守った。
+  目[め]を 手[て]で 押[お]さえて、明[あか]るさから 目[め]を 守[まも]った。
+  Ich bedeckte meine Augen mit den Händen, um sie vor der Helligkeit zu schützen.
+
+  大きな音がしたので、思わず耳を押さえてしまった。
+  大[おお]きな 音[おと]がしたので、思[おも]わず 耳[みみ]を 押[お]さえてしまった。
+  Als ich den lauten Knall hörte, hielt ich mir unwillkürlich die Ohren zu.
+
+  咳をする時は、手で口を押さえるのがマナーです。
+  咳[せき]をする 時[とき]は、手[て]で 口[くち]を 押[お]さえるのがマナーです。
+  Es gehört zum guten Benehmen, sich beim Husten die Hand vor den Mund zu halten.
+
+  反対派の声を押さえようとする政府の姿勢に批判が集まっている。
+  反対派[はんたいは]の 声[こえ]を 押[お]さえようとする 政府[せいふ]の 姿勢[しせい]に 批判[ひはん]が 集[あつ]まっている。
+  Die Haltung der Regierung, die Stimmen der Opposition unterdrücken zu wollen, stößt auf Kritik.
+
+  暴力を押さえるために、警察が出動した。
+  暴力[ぼうりょく]を 押[お]さえるために、警察[けいさつ]が 出動[しゅつどう]した。
+  Die Polizei rückte aus, um die Gewalt einzudämmen.
+
+  重要な情報を押さえるのは、ビジネスで成功する鍵だ。
+  重要[じゅうよう]な 情報[じょうほう]を 押[お]さえるのは、ビジネスで 成功[せいこう]する 鍵[かぎ]だ。
+  Der Schlüssel zum Geschäftserfolg ist es, wichtige Informationen zu erfassen.
+
+  感情を押さえきれず、涙が溢れ出した。
+  感情[かんじょう]を 押[お]さえきれず、涙[なみだ]が 溢[あふ]れ 出[だ]した。
+  Unfähig, meine Gefühle zu unterdrücken, brachen die Tränen aus mir heraus.
+
+  ライバル会社を押さえて、市場シェアを拡大した。
+  ライバル 会社[がいしゃ]を 押[お]さえて、市場[しじょう]シェアを 拡大[かくだい]した。
+  Wir haben unsere Konkurrenten zurückgedrängt und unseren Marktanteil vergrößert.
+
+  笑いを押さえるのに必死だった。
+  笑[わら]いを 押[お]さえるのに 必死[ひっし]だった。
+  Ich musste mich sehr anstrengen, um nicht zu lachen.
+
+  費用を押さえるために、不要な支出を見直した。
+  費用[ひよう]を 押[お]さえるために、不要[ふよう]な 支出[ししゅつ]を 見直[みなお]した。
+  Um die Kosten zu senken, haben wir unnötige Ausgaben überprüft.
+
+  速度を押さえて慎重に運転してください。
+  速度[そくど]を 押[お]さえて 慎重[しんちょう]に 運転[うんてん]してください。
+  Bitte fahren Sie vorsichtig und drosseln Sie Ihre Geschwindigkeit.
+
+  重要な証拠を押さえることができた。
+  重要[じゅうよう]な 証拠[しょうこ]を 押[お]さえることができた。
+  Wir konnten wichtige Beweise sichern.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Zeichen 押 wird allgemein und für physischen Druck verwendet, 抑 für Unterdrückung und Kontrolle, 圧 für Druck von oben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 怒[いか]りを 押[お]さえきれずに、机[つくえ]を 叩[たた]いた。</div>
+    <div class="de spoiler">Unfähig, seinen Zorn zu unterdrücken, schlug er auf den Tisch.</div>
+    <div class="jp">警察[けいさつ]は 暴徒[ぼうと]を 抑[おさ]えるために 催涙[さいるい]ガスを 使用[しよう]した。</div>
+    <div class="de spoiler">Die Polizei setzte Tränengas ein, um die Randalierer unter Kontrolle zu bringen.</div>
+    <div class="jp">重[おも]い 本[ほん]で 紙[かみ]を 押[お]さえて、風[かぜ]で 飛[と]ばないようにした。</div>
+    <div class="de spoiler">Ich legte ein schweres Buch auf das Papier, damit es nicht vom Wind weggeweht wird.</div>
+  </div>

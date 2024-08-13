@@ -1,7 +1,7 @@
 Rang: 1064
 Lemma: 落とす
 Lesung: おとす
-Alternativschreibweisen: ''
+Alternativschreibweisen: 貶す、墜す
 Definition: fallen lassen, verlieren, ablehnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,7 +9,7 @@ Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '93'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 落とさない・落とした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   コップを落とさないように気をつけなさい。
   コップを 落[お]とさないように 気[き]をつけなさい。
   Pass auf, dass du dein Glas nicht fallen lässt.
+
+  驚いた弥生は思わずスポンジを流しに落とした。
+  驚[おどろ]いた 弥生[やよい]は 思[おも]わずスポンジを 流[なが]しに 落[お]とした。
+  Erschrocken ließ Yayoi den Spülschwamm ins Becken fallen.
+
+  レインコートのフードから透明な水滴を畳に落とした。
+  レインコートのフードから 透明[とうめい]な 水滴[すいてき]を 畳[たたみ]に 落[お]とした。
+  Von der Kapuze des Regenmantels fielen klare Wassertropfen auf die Tatami-Matte.
+
+  足元に視線を落として防衛するような表情になった。
+  足元[あしもと]に 視線[しせん]を 落[お]として 防衛[ぼうえい]するような 表情[ひょうじょう]になった。
+  Er senkte den Blick auf seine Füße und setzte eine defensive Miene auf.
+
+  激戦の最中に、どこかに鍵を落としてしまったようだ。
+  激戦[げきせん]の 最中[さいちゅう]に、どこかに 鍵[かぎ]を 落[お]としてしまったようだ。
+  Es scheint, dass ich den Schlüssel irgendwo während des heftigen Kampfes verloren habe.
+
+  彼は蘭のために命を落としたということだった。
+  彼[かれ]は 蘭[らん]のために 命[いのち]を 落[お]としたということだった。
+  Es hieß, er habe für seine Orchidee sein Leben gegeben.
+
+  ブラウスの染みを落とすのに苦労した。
+  ブラウスの 染[し]みを 落[お]とすのに 苦労[くろう]した。
+  Ich hatte Mühe, den Fleck aus der Bluse zu entfernen.
+
+  髭を落として若々しく見えるようになった。
+  髭[ひげ]を 落[お]として 若々[わかわか]しく 見[み]えるようになった。
+  Nachdem ich meinen Bart abrasiert hatte, sah ich jünger aus.
+
+  テーブルクロスからバターの染みを落とした。
+  テーブルクロスからバターの 染[し]みを 落[お]とした。
+  Ich entfernte den Butterfleck von der Tischdecke.
+
+  観光客が落としていくお金は地域経済に貢献している。
+  観光客[かんこうきゃく]が 落[お]としていくお 金[かね]は 地域[ちいき] 経済[けいざい]に 貢献[こうけん]している。
+  Das Geld, das die Touristen ausgeben, trägt zur lokalen Wirtschaft bei.
+
+  試験で一問落として満点を逃してしまった。
+  試験[しけん]で 一問[いちもん] 落[お]として 満点[まんてん]を 逃[のが]してしまった。
+  Ich habe eine Frage in der Prüfung falsch beantwortet und die volle Punktzahl verpasst.
+
+  警察官採用試験で身長が足らずに落とされた。
+  警察官[けいさつかん] 採用[さいよう] 試験[しけん]で 身長[しんちょう]が 足[た]らずに 落[お]とされた。
+  Ich wurde bei der Aufnahmeprüfung für die Polizei aufgrund mangelnder Körpergröße abgelehnt.
+
+  大切な科目を落として進級できなかった。
+  大切[たいせつ]な 科目[かもく]を 落[お]として 進級[しんきゅう]できなかった。
+  Ich konnte nicht in die nächste Klasse vorrücken, weil ich in einem wichtigen Fach durchgefallen war.
+
+  彼の行動は会社の評判を落とすことになった。
+  彼[かれ]の 行動[こうどう]は 会社[かいしゃ]の 評判[ひょうばん]を 落[お]とすことになった。
+  Sein Verhalten hat dem Ruf des Unternehmens geschadet.
+
+  冬になると影は調子を落とすものだ。
+  冬[ふゆ]になると 影[かげ]は 調子[ちょうし]を 落[お]とすものだ。
+  Im Winter verlieren Schatten an Intensität.
+
+  声を落として内緒話をした。
+  声[こえ]を 落[お]として 内緒話[ないしょばなし]をした。
+  Wir senkten unsere Stimmen und flüsterten miteinander.
+
+  照明を落として、ロマンチックな雰囲気を作った。
+  照明[しょうめい]を 落[お]として、ロマンチックな 雰囲気[ふんいき]を 作[つく]った。
+  Wir dämpften das Licht, um eine romantische Atmosphäre zu schaffen.
+
+  体重を5キロ落とす目標を立てた。
+  体重[たいじゅう]を5キロ 落[お]とす 目標[もくひょう]を 立[た]てた。
+  Ich habe mir das Ziel gesetzt, 5 Kilo abzunehmen.
+
+  彼女を罠に落とそうとする悪い奴がいる。
+  彼女[かのじょ]を 罠[わな]に 落[お]とそうとする 悪[わる]い 奴[やつ]がいる。
+  Es gibt einen Bösewicht, der versucht, sie in eine Falle zu locken.
+
+  容疑者を落として自白を得ることができた。
+  容疑者[ようぎしゃ]を 落[お]として 自白[じはく]を 得[え]ることができた。
+  Es gelang uns, den Verdächtigen zu einem Geständnis zu bringen.
+
+  毎月口座から家賃が自動的に落とされる。
+  毎月[まいつき] 口座[こうざ]から 家賃[やちん]が 自動的[じどうてき]に 落[お]とされる。
+  Die Miete wird jeden Monat automatisch von meinem Konto abgebucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

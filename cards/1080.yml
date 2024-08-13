@@ -2,14 +2,14 @@ Rang: 1080
 Lemma: 知れる
 Lesung: しれる
 Alternativschreibweisen: ''
-Definition: ans Licht kommen, bekannt werden, entdeckt werden
+Definition: bekannt werden; erkennen können
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '75'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 知れない・知れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   その事実が知れたら大問題になるだろう。
   その 事実[じじつ]が 知[し]れたら 大問題[だいもんだい]になるだろう。
   Wenn diese Tatsache ans Licht kommt, wird das ein großes Thema sein.
+
+  名の知れた人物として、彼の講演会には多くの人が集まった。
+  名[な]の 知[し]れた 人物[じんぶつ]として、彼[かれ]の 講演会[こうえんかい]には 多[おお]くの 人[ひと]が 集[あつ]まった。
+  Als bekannte Persönlichkeit zog seine Vorlesung viele Menschen an.
+
+  目つきで彼女の気分が悪いことが知れた。
+  目[め]つきで 彼女[かのじょ]の 気分[きぶん]が 悪[わる]いことが 知[し]れた。
+  An ihrem Blick konnte man erkennen, dass sie schlechte Laune hatte.
+
+  人に知れないように、こっそりプレゼントを用意しました。
+  人[ひと]に 知[し]れないように、こっそりプレゼントを 用意[ようい]しました。
+  Ich habe heimlich ein Geschenk vorbereitet, ohne dass jemand davon wusste.
+
+  長年の付き合いで、お互いの気心が知れてきた。
+  長年[ながねん]の 付[つ]き 合[あ]いで、お 互[たが]いの 気心[きごころ]が 知[し]れてきた。
+  Durch jahrelangen Umgang haben wir einander gut kennengelernt.
+
+  ここが観光地だということは、たくさんの人で賑わっていることから知れた。
+  ここが 観光地[かんこうち]だということは、たくさんの 人[ひと]で 賑[にぎ]わっていることから 知[し]れた。
+  Man konnte erkennen, dass dies ein Touristenort war, da er von vielen Menschen belebt war.
+
+  彼の話し方から、経験豊富な教師であることが知れた。
+  彼[かれ]の 話[はな]し 方[かた]から、経験豊富[けいけんほうふ]な 教師[きょうし]であることが 知[し]れた。
+  An seiner Art zu sprechen konnte man erkennen, dass er ein erfahrener Lehrer war.
+
+  その建物の古い外観から、歴史的な価値があることが知れた。
+  その 建物[たてもの]の 古[ふる]い 外観[がいかん]から、歴史的[れきしてき]な 価値[かち]があることが 知[し]れた。
+  An dem alten Äußeren des Gebäudes konnte man erkennen, dass es historischen Wert hatte.
+
+  彼の態度から、何か隠していることが知れた。
+  彼[かれ]の 態度[たいど]から、何[なに]か 隠[かく]していることが 知[し]れた。
+  An seinem Verhalten konnte man erkennen, dass er etwas verbarg.
+
+  その料理の香りで、何を作っているのか知れた。
+  その 料理[りょうり]の 香[かお]りで、何[なに]を 作[つく]っているのか 知[し]れた。
+  Am Duft des Essens konnte man erkennen, was gekocht wurde.
+
+  彼女の声のトーンから、嬉しい知らせだということが知れた。
+  彼女[かのじょ]の 声[こえ]のトーンから、嬉[うれ]しい 知[し]らせだということが 知[し]れた。
+  Am Ton ihrer Stimme konnte man erkennen, dass es gute Nachrichten waren.
+
+  その痕跡から、ここで何が起こったのか知れた。
+  その 痕跡[こんせき]から、ここで 何[なに]が 起[お]こったのか 知[し]れた。
+  An den Spuren konnte man erkennen, was hier passiert war.
+
+  彼の服装から、重要な会議に出席することが知れた。
+  彼[かれ]の 服装[ふくそう]から、重要[じゅうよう]な 会議[かいぎ]に 出席[しゅっせき]することが 知[し]れた。
+  An seiner Kleidung konnte man erkennen, dass er an einer wichtigen Besprechung teilnehmen würde.
+
+  その文書の内容から、機密情報であることが知れた。
+  その 文書[ぶんしょ]の 内容[ないよう]から、機密情報[きみつじょうほう]であることが 知[し]れた。
+  Aus dem Inhalt des Dokuments konnte man erkennen, dass es sich um vertrauliche Informationen handelte.
+
+  彼の表情の変化から、良いニュースを聞いたことが知れた。
+  彼[かれ]の 表情[ひょうじょう]の 変化[へんか]から、良[よ]いニュースを 聞[き]いたことが 知[し]れた。
+  An der Veränderung seines Gesichtsausdrucks konnte man erkennen, dass er gute Nachrichten gehört hatte.
+
+  その商品の人気ぶりは、売り上げ数字を見れば知れる。
+  その 商品[しょうひん]の 人気[にんき]ぶりは、売[う]り 上[あ]げ 数字[すうじ]を 見[み]れば 知[し]れる。
+  Die Beliebtheit dieses Produkts lässt sich an den Verkaufszahlen ablesen.
+
+  彼女の才能は、若いうちから知れていた。
+  彼女[かのじょ]の 才能[さいのう]は、若[わか]いうちから 知[し]れていた。
+  Ihr Talent war schon in jungen Jahren erkennbar.
+
+  その会社の成功は、社員の笑顔を見れば知れる。
+  その 会社[かいしゃ]の 成功[せいこう]は、社員[しゃいん]の 笑顔[えがお]を 見[み]れば 知[し]れる。
+  Der Erfolg dieses Unternehmens lässt sich am Lächeln der Mitarbeiter erkennen.
+
+  その噂が本当かどうかは、時間が経てば知れるだろう。
+  その 噂[うわさ]が 本当[ほんとう]かどうかは、時間[じかん]が 経[た]てば 知[し]れるだろう。
+  Ob dieses Gerücht wahr ist, wird sich mit der Zeit zeigen.
+
+  彼の本当の意図は、行動を見ていれば知れるはずだ。
+  彼[かれ]の 本当[ほんとう]の 意図[いと]は、行動[こうどう]を 見[み]ていれば 知[し]れるはずだ。
+  Seine wahren Absichten sollten sich aus seinen Handlungen erkennen lassen.
+
+  知れたことだが、努力なしに成功はない。
+  知[し]れたことだが、努力[どりょく]なしに 成功[せいこう]はない。
+  Es ist offensichtlich, aber ohne Anstrengung gibt es keinen Erfolg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

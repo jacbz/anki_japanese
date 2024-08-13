@@ -2,13 +2,13 @@ Rang: 2230
 Lemma: ビル
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Gebäude
+Definition: Gebäude; Hochhaus
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '94'
-Ursprung: ''
+Ursprung: engl. building
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   ここに新しいビルが建設される。
   ここに 新[あたら]しいビルが 建設[けんせつ]される。
-  Ein neues Gebäude wird hier gebaut werden.
+  Hier wird ein neues Gebäude errichtet.
+
+  このビルは20階建てです。
+  このビルは20階[かい] 建[だ]てです。
+  Dieses Gebäude hat 20 Stockwerke.
+
+  ビル街を歩くと、大都市にいる感じがします。
+  ビル 街[がい]を 歩[ある]くと、大都市[だいとし]にいる 感[かん]じがします。
+  Wenn man durch das Büroviertel läuft, fühlt man sich wie in einer Großstadt.
+
+  このビルの管理人を探しています。
+  このビルの 管理人[かんりにん]を 探[さが]しています。
+  Ich suche den Hausmeister dieses Gebäudes.
+
+  ビル風で傘が壊れてしまった。
+  ビル 風[かぜ]で 傘[かさ]が 壊[こわ]れてしまった。
+  Mein Regenschirm wurde durch den starken Wind zwischen den Hochhäusern zerstört.
+
+  ビル掃除の仕事は大変そうだ。
+  ビル 掃除[そうじ]の 仕事[しごと]は 大変[たいへん]そうだ。
+  Die Arbeit der Gebäudereinigung sieht anstrengend aus.
+
+  あそこの高層ビルは何階建てですか。
+  あそこの 高層[こうそう]ビルは 何階[なんかい] 建[だ]てですか。
+  Wie viele Stockwerke hat jenes Hochhaus dort?
+
+  空港ビルで待ち合わせしましょう。
+  空港[くうこう]ビルで 待[ま]ち 合[あ]わせしましょう。
+  Lass uns uns im Flughafengebäude treffen.
+
+  保険会社のビルは駅前にあります。
+  保険会社[ほけんがいしゃ]のビルは 駅前[えきまえ]にあります。
+  Das Gebäude der Versicherungsgesellschaft befindet sich vor dem Bahnhof.
+
+  このビルには本屋さんが入っているよ。
+  このビルには 本屋[ほんや]さんが 入[はい]っているよ。
+  In diesem Gebäude gibt es eine Buchhandlung.
+
+  新しいビルの1階にマーケットができるそうだ。
+  新[あたら]しいビルの1階[いっかい]にマーケットができるそうだ。
+  Es heißt, dass im Erdgeschoss des neuen Gebäudes ein Markt eröffnet wird.
+
+  この五階建てのビルは古いけど、しっかりした造りだ。
+  この 五階建[ごかいだ]てのビルは 古[ふる]いけど、しっかりした 造[つく]りだ。
+  Dieses fünfstöckige Gebäude ist alt, aber stabil gebaut.
+
+  ビルの窓から富士山が見えます。
+  ビルの 窓[まど]から 富士山[ふじさん]が 見[み]えます。
+  Man kann den Berg Fuji vom Fenster des Gebäudes aus sehen.
+
+  このビルにはエレベーターが何台ありますか。
+  このビルにはエレベーターが 何台[なんだい]ありますか。
+  Wie viele Aufzüge gibt es in diesem Gebäude?
+
+  ビルの屋上から街の景色を眺めよう。
+  ビルの 屋上[おくじょう]から 街[まち]の 景色[けしき]を 眺[なが]めよう。
+  Lass uns die Aussicht auf die Stadt vom Dach des Gebäudes betrachten.
+
+  このビルには24時間警備員がいます。
+  このビルには24時間[じかん] 警備員[けいびいん]がいます。
+  In diesem Gebäude gibt es rund um die Uhr Sicherheitspersonal.
+
+  ビルの外壁を洗浄しているところだ。
+  ビルの 外壁[がいへき]を 洗浄[せんじょう]しているところだ。
+  Sie sind gerade dabei, die Außenwand des Gebäudes zu reinigen.
+
+  このビルは環境に配慮した設計になっています。
+  このビルは 環境[かんきょう]に 配慮[はいりょ]した 設計[せっけい]になっています。
+  Dieses Gebäude wurde umweltfreundlich konzipiert.
+
+  ビルの非常口の場所を確認しておきましょう。
+  ビルの 非常口[ひじょうぐち]の 場所[ばしょ]を 確認[かくにん]しておきましょう.
+  Lasst uns den Standort der Notausgänge des Gebäudes überprüfen.
+
+  このビルには駐車場がついていますか。
+  このビルには 駐車場[ちゅうしゃじょう]がついていますか。
+  Hat dieses Gebäude einen Parkplatz?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

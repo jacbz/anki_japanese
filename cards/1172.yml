@@ -1,15 +1,15 @@
 Rang: 1172
 Lemma: 見つかる
 Lesung: みつかる
-Alternativschreibweisen: ''
-Definition: gefunden werden, entdeckt werden
+Alternativschreibweisen: 見付かる
+Definition: gefunden werden
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見つからない・見つかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   新しい星が見つかった。
   新[あたら]しい 星[ほし]が 見[み]つかった。
   Ein neuer Stern wurde entdeckt.
+
+  警察に見つかって、逮捕されてしまった。
+  警察[けいさつ]に 見[み]つかって、逮捕[たいほ]されてしまった。
+  Ich wurde von der Polizei erwischt und verhaftet.
+
+  遺体が川で見つかった。
+  遺体[いたい]が 川[かわ]で 見[み]つかった。
+  Eine Leiche wurde im Fluss gefunden.
+
+  すぐに犯人が見つかるといいね。
+  すぐに 犯人[はんにん]が 見[み]つかるといいね。
+  Hoffentlich wird der Täter bald gefunden.
+
+  彼女の失くした指輪が見つかって良かった。
+  彼女[かのじょ]の 失[な]くした 指輪[ゆびわ]が 見[み]つかって 良[よ]かった。
+  Es ist gut, dass ihr verlorener Ring gefunden wurde.
+
+  隠し場所が見つかってしまった。
+  隠[かく]し 場所[ばしょ]が 見[み]つかってしまった。
+  Das Versteck wurde entdeckt.
+
+  家の裏庭で古い硬貨が見つかったんだ。
+  家[いえ]の 裏庭[うらにわ]で 古[ふる]い 硬貨[こうか]が 見[み]つかったんだ。
+  Im Hinterhof des Hauses wurden alte Münzen gefunden.
+
+  見つからないと思っていたのに、結局見つかってしまった。
+  見[み]つからないと 思[おも]っていたのに、結局[けっきょく] 見[み]つかってしまった。
+  Ich dachte, es würde nicht gefunden werden, aber am Ende wurde es doch entdeckt.
+
+  ついに解決策が見つかった。
+  ついに 解決策[かいけつさく]が 見[み]つかった。
+  Endlich wurde eine Lösung gefunden.
+
+  長い間探していた本が図書館で見つかった。
+  長[なが]い 間[あいだ] 探[さが]していた 本[ほん]が 図書館[としょかん]で 見[み]つかった。
+  Das Buch, nach dem ich lange gesucht hatte, wurde in der Bibliothek gefunden.
+
+  新しい仕事がなかなか見つからない。
+  新[あたら]しい 仕事[しごと]がなかなか 見[み]つからない。
+  Ich kann einfach keine neue Arbeit finden.
+
+  適切な言葉が見つからず、黙ってしまった。
+  適切[てきせつ]な 言葉[ことば]が 見[み]つからず、黙[だま]ってしまった。
+  Ich konnte keine passenden Worte finden und schwieg.
+
+  出口が見つからなくて、迷子になってしまった。
+  出口[でぐち]が 見[み]つからなくて、迷子[まいご]になってしまった。
+  Ich konnte den Ausgang nicht finden und habe mich verlaufen.
+
+  ネットで検索したら、すぐに情報が見つかった。
+  ネットで 検索[けんさく]したら、すぐに 情報[じょうほう]が 見[み]つかった。
+  Als ich im Internet suchte, fand ich die Information sofort.
+
+  目当ての商品がすぐに見つかって嬉しかった。
+  目当[めあ]ての 商品[しょうひん]がすぐに 見[み]つかって 嬉[うれ]しかった。
+  Ich war froh, dass ich den gesuchten Artikel schnell finden konnte.
+
+  事故の原因がようやく見つかった。
+  事故[じこ]の 原因[げんいん]がようやく 見[み]つかった。
+  Die Ursache des Unfalls wurde endlich gefunden.
+
+  彼の嘘がばれて、証拠が見つかった。
+  彼[かれ]の 嘘[うそ]がばれて、証拠[しょうこ]が 見[み]つかった。
+  Seine Lüge flog auf und Beweise wurden gefunden.
+
+  探していた鍵が意外な場所で見つかった。
+  探[さが]していた 鍵[かぎ]が 意外[いがい]な 場所[ばしょ]で 見[み]つかった。
+  Der gesuchte Schlüssel wurde an einem unerwarteten Ort gefunden.
+
+  彼女の才能がようやく見つかった。
+  彼女[かのじょ]の 才能[さいのう]がようやく 見[み]つかった。
+  Ihr Talent wurde endlich entdeckt.
+
+  行方不明だった猫が無事見つかって安心した。
+  行方不明[ゆくえふめい]だった 猫[ねこ]が 無事[ぶじ] 見[み]つかって 安心[あんしん]した。
+  Ich war erleichtert, dass die vermisste Katze wohlbehalten gefunden wurde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

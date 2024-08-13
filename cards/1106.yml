@@ -2,13 +2,13 @@ Rang: 1106
 Lemma: マンション
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Wohnung, Eigentumswohnung, Apartment
+Definition: Appartementhaus; Eigentumswohnung
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \....
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. mansion
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -18,9 +18,97 @@ Beispielsätze: |-
   彼[かれ]は 高層[こうそう]マンションに 住[す]んでいる。
   Er lebt in einer Hochhauswohnung.
 
+  新しいマンションを購入したので、来月引っ越します。
+  新[あたら]しいマンションを 購入[こうにゅう]したので、来月[らいげつ] 引[ひ]っ 越[こ]します。
+  Ich habe eine neue Eigentumswohnung gekauft und werde nächsten Monat umziehen.
+
+  このマンションは駅から徒歩5分で、とても便利です。
+  このマンションは 駅[えき]から 徒歩[とほ]5分[ふん]で、とても 便利[べんり]です。
+  Dieses Appartementhaus ist nur 5 Gehminuten vom Bahnhof entfernt und sehr praktisch.
+
+  賃貸マンションを探していますが、なかなか良い物件が見つかりません。
+  賃貸[ちんたい]マンションを 探[さが]していますが、なかなか 良[よ]い 物件[ぶっけん]が 見[み]つかりません。
+  Ich suche nach einer Mietwohnung, aber es ist schwer, ein gutes Objekt zu finden.
+
+  高級マンションの最上階から見る夜景は素晴らしいです。
+  高級[こうきゅう]マンションの 最上階[さいじょうかい]から 見[み]る 夜景[やけい]は 素晴[すば]らしいです。
+  Die Nachtansicht von der obersten Etage des Luxus-Apartments ist wunderschön.
+
+  マンスリーマンションは出張が多い人に人気があります。
+  マンスリーマンションは 出張[しゅっちょう]が 多[おお]い 人[ひと]に 人気[にんき]があります。
+  Kurzzeit-Apartments sind bei Leuten beliebt, die oft auf Geschäftsreise sind.
+
+  ウィークリーマンションを利用して、長期滞在を楽しみました。
+  ウィークリーマンションを 利用[りよう]して、長期[ちょうき] 滞在[たいざい]を 楽[たの]しみました。
+  Ich habe einen längeren Aufenthalt in einer Ferienwohnung genossen.
+
+  マンションを借りるときは、契約条件をよく確認してください。
+  マンションを 借[か]りるときは、契約[けいやく] 条件[じょうけん]をよく 確認[かくにん]してください。
+  Wenn Sie ein Apartment mieten, prüfen Sie bitte die Vertragsbedingungen sorgfältig.
+
+  しばらく畑の中の住宅街を走ると、目当ての大きなマンションが見えてきた。
+  しばらく 畑[はたけ]の 中[なか]の 住宅街[じゅうたくがい]を 走[はし]ると、目当[めあ]ての 大[おお]きなマンションが 見[み]えてきた。
+  Nachdem ich eine Weile durch ein Wohngebiet inmitten von Feldern gefahren war, kam das große Apartmenthaus, das ich suchte, in Sicht.
+
+  マンションのどこかからテレビの野球中継が聞こえる。
+  マンションのどこかからテレビの 野球[やきゅう] 中継[ちゅうけい]が 聞[き]こえる。
+  Irgendwo aus dem Apartmenthaus ist die Fernsehübertragung eines Baseballspiels zu hören.
+
+  車も買い換えたし、マンションも買ったし、二人の子供を金のかかる私立学校にも入れた。
+  車[くるま]も 買[か]い 換[か]えたし、マンションも 買[か]ったし、二人[ふたり]の 子供[こども]を 金[かね]のかかる 私立[しりつ] 学校[がっこう]にも 入[い]れた。
+  Ich habe nicht nur ein neues Auto gekauft und eine Eigentumswohnung erworben, sondern auch meine beiden Kinder auf eine teure Privatschule geschickt.
+
+  マンションの管理費が来月から値上がりすると聞いて、少し心配です。
+  マンションの 管理費[かんりひ]が 来月[らいげつ]から 値上[ねあ]がりすると 聞[き]いて、少[すこ]し 心配[しんぱい]です。
+  Ich bin etwas besorgt, da ich gehört habe, dass die Verwaltungskosten für das Apartment ab nächsten Monat steigen werden.
+
+  新築マンションのモデルルームを見学して、とても興味が湧きました。
+  新築[しんちく]マンションのモデルルームを 見学[けんがく]して、とても 興味[きょうみ]が 湧[わ]きました。
+  Nachdem ich das Musterapartment eines Neubaus besichtigt habe, bin ich sehr interessiert.
+
+  マンションの防音性能が良くて、隣の部屋の音が全く聞こえません。
+  マンションの 防音[ぼうおん] 性能[せいのう]が 良[よ]くて、隣[となり]の 部屋[へや]の 音[おと]が 全[まった]く 聞[き]こえません。
+  Die Schallisolierung in diesem Apartment ist so gut, dass ich überhaupt keine Geräusche aus der Nachbarwohnung höre.
+
+  マンションのエレベーターが故障して、階段を使わざるを得なかった。
+  マンションのエレベーターが 故障[こしょう]して、階段[かいだん]を 使[つか]わざるを 得[え]なかった。
+  Der Aufzug im Apartment war defekt, sodass wir die Treppe benutzen mussten.
+
+  マンションの屋上庭園でバーベキューパーティーを開催する予定です。
+  マンションの 屋上[おくじょう] 庭園[ていえん]でバーベキューパーティーを 開催[かいさい]する 予定[よてい]です。
+  Wir planen, eine Grillparty im Dachgarten des Apartmenthauses zu veranstalten.
+
+  マンションの一室をホームオフィスとして利用しています。
+  マンションの 一室[いっしつ]をホームオフィスとして 利用[りよう]しています。
+  Ich nutze einen Raum in meiner Wohnung als Heimbüro.
+
+  このマンションは耐震性が高く、地震に強い構造になっています。
+  このマンションは 耐震性[たいしんせい]が 高[たか]く、地震[じしん]に 強[つよ]い 構造[こうぞう]になっています。
+  Dieses Apartmenthaus hat eine hohe Erdbebensicherheit und ist so konstruiert, dass es Erdbeben gut standhält.
+
+  マンションの共用スペースにフィットネスジムが設置されました。
+  マンションの 共用[きょうよう]スペースにフィットネスジムが 設置[せっち]されました。
+  Im Gemeinschaftsbereich des Apartmenthauses wurde ein Fitnessstudio eingerichtet.
+
+  マンションの住民同士で防災訓練を行い、緊急時の対応を確認しました。
+  マンションの 住民[じゅうみん] 同士[どうし]で 防災[ぼうさい] 訓練[くんれん]を 行[おこな]い、緊急時[きんきゅうじ]の 対応[たいおう]を 確認[かくにん]しました。
+  Die Bewohner des Apartmenthauses führten gemeinsam eine Katastrophenschutzübung durch und überprüften die Notfallmaßnahmen.
+
+  マンションの管理組合の総会で、大規模修繕の計画について議論しました。
+  マンションの 管理[かんり] 組合[くみあい]の 総会[そうかい]で、大規模[だいきぼ] 修繕[しゅうぜん]の 計画[けいかく]について 議論[ぎろん]しました。
+  Bei der Generalversammlung der Hausverwaltung wurde über den Plan für umfangreiche Renovierungsarbeiten diskutiert.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>マンション bezieht sich in Japan auf moderne, gut ausgestattete Wohngebäude oder Wohnungen, oft mit Aufzug und Sicherheitssystemen. Es unterscheidet sich von アパート (apāto), das eher für kleinere, einfachere Mietwohnungen verwendet wird.</p>
+  <div class="examples">
+    <div class="jp">新築[しんちく]のマンションを 購入[こうにゅう]した。</div>
+    <div class="de spoiler">Ich habe eine neu gebaute Eigentumswohnung gekauft.</div>
+    <div class="jp">このマンションは 駅[えき]から 近[ちか]くて 便利[べんり]です。</div>
+    <div class="de spoiler">Dieses Appartementhaus ist nahe am Bahnhof und sehr praktisch.</div>
+  </div>
+  <p>マンション kann sowohl Mietwohnungen als auch Eigentumswohnungen bezeichnen, wobei der Kontext oft klärt, um welche Art es sich handelt.</p>

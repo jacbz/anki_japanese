@@ -2,7 +2,7 @@ Rang: 1183
 Lemma: 役
 Lesung: やく
 Alternativschreibweisen: ''
-Definition: Rolle, Aufgabe, Pflicht
+Definition: Rolle; Amt; Nutzen
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\
@@ -16,11 +16,104 @@ Konjugation: ''
 Beispielsätze: |-
   その芝居では男性が女性の役を演じる。
   その 芝居[しばい]では 男性[だんせい]が 女性[じょせい]の 役[やく]を 演[えん]じる。
-  Männer spielen Frauenrollen im Theaterstück.
+  In diesem Theaterstück spielen Männer Frauenrollen.
+
+  彼は新しい役に就いたばかりだ。
+  彼[かれ]は 新[あたら]しい 役[やく]に 就[つ]いたばかりだ。
+  Er hat gerade eine neue Position angetreten.
+
+  私の役は会議の議事録を取ることだ。
+  私[わたし]の 役[やく]は 会議[かいぎ]の 議事録[ぎじろく]を 取[と]ることだ。
+  Meine Aufgabe ist es, das Protokoll der Besprechung zu führen.
+
+  彼女はその映画で主役を演じた。
+  彼女[かのじょ]はその 映画[えいが]で 主役[しゅやく]を 演[えん]じた。
+  Sie spielte die Hauptrolle in diesem Film.
+
+  彼は重要な役を果たしている。
+  彼[かれ]は 重要[じゅうよう]な 役[やく]を 果[は]たしている。
+  Er erfüllt eine wichtige Funktion.
+
+  私はこの組織で何の役にも立っていない気がする。
+  私[わたし]はこの 組織[そしき]で 何[なん]の 役[やく]にも 立[た]っていない 気[き]がする。
+  Ich habe das Gefühl, in dieser Organisation nutzlos zu sein.
+
+  彼女は役を降りることを決意した。
+  彼女[かのじょ]は 役[やく]を 降[お]りることを 決意[けつい]した。
+  Sie hat sich entschieden, von ihrer Position zurückzutreten.
+
+  この道具は色々な役に立つ。
+  この 道具[どうぐ]は 色々[いろいろ]な 役[やく]に 立[た]つ。
+  Dieses Werkzeug ist für viele Zwecke nützlich.
+
+  彼は自分の役をうまくこなしている。
+  彼[かれ]は 自分[じぶん]の 役[やく]をうまくこなしている。
+  Er füllt seine Rolle gut aus.
+
+  その役者は難しい役を演じ切った。
+  その 役者[やくしゃ]は 難[むずか]しい 役[やく]を 演[えん]じ 切[き]った。
+  Der Schauspieler hat die schwierige Rolle perfekt gespielt.
+
+  彼女は社会で重要な役割を担っている。
+  彼女[かのじょ]は 社会[しゃかい]で 重要[じゅうよう]な 役割[やくわり]を 担[にな]っている。
+  Sie hat eine wichtige Rolle in der Gesellschaft.
+
+  この薬は風邪に役立つ。
+  この 薬[くすり]は 風邪[かぜ]に 役立[やくだ]つ。
+  Dieses Medikament ist nützlich gegen Erkältungen.
+
+  彼は新しい役に慣れるのに時間がかかっている。
+  彼[かれ]は 新[あたら]しい 役[やく]に 慣[な]れるのに 時間[じかん]がかかっている。
+  Es dauert eine Weile, bis er sich an seine neue Position gewöhnt hat.
+
+  その本は試験の勉強に役立った。
+  その 本[ほん]は 試験[しけん]の 勉強[べんきょう]に 役立[やくだ]った。
+  Das Buch war für die Prüfungsvorbereitung nützlich.
+
+  彼女は自分の役を全うした。
+  彼女[かのじょ]は 自分[じぶん]の 役[やく]を 全[まっと]うした。
+  Sie hat ihre Pflicht vollständig erfüllt.
+
+  私たちは皆、社会の中で何らかの役を持っている。
+  私[わたし]たちは 皆[みな]、社会[しゃかい]の 中[なか]で 何[なん]らかの 役[やく]を 持[も]っている。
+  Wir alle haben irgendeine Rolle in der Gesellschaft.
+
+  彼は重要な役職に就いている。
+  彼[かれ]は 重要[じゅうよう]な 役職[やくしょく]に 就[つ]いている。
+  Er bekleidet eine wichtige Position.
+
+  この発明は人類の進歩に大きな役割を果たした。
+  この 発明[はつめい]は 人類[じんるい]の 進歩[しんぽ]に 大[おお]きな 役割[やくわり]を 果[は]たした。
+  Diese Erfindung spielte eine große Rolle für den Fortschritt der Menschheit.
+
+  その会社では彼女が重要な役目を担っている。
+  その 会社[かいしゃ]では 彼女[かのじょ]が 重要[じゅうよう]な 役目[やくめ]を 担[にな]っている。
+  In dieser Firma hat sie eine wichtige Aufgabe.
+
+  彼の助言は私たちの成功に大きな役割を果たした。
+  彼[かれ]の 助言[じょげん]は 私[わたし]たちの 成功[せいこう]に 大[おお]きな 役割[やくわり]を 果[は]たした。
+  Sein Rat spielte eine große Rolle für unseren Erfolg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 役 (やく) hat mehrere wichtige Bedeutungen:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 会社[かいしゃ]で 重要[じゅうよう]な 役[やく]に 就[つ]いている。</div>
+    <div class="de spoiler">Er bekleidet eine wichtige Position in der Firma.</div>
+  </div>
+  <p>1. Amt oder Position: Bezieht sich auf eine offizielle Stellung oder Funktion in einer Organisation.</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]はその 映画[えいが]で 主役[しゅやく]を 演[えん]じた。</div>
+    <div class="de spoiler">Sie spielte die Hauptrolle in diesem Film.</div>
+  </div>
+  <p>2. Rolle: Im Kontext von Theater oder Film bezieht es sich auf den Charakter, den ein Schauspieler darstellt.</p>
+  <div class="examples">
+    <div class="jp">この 道具[どうぐ]は 様々[さまざま]な 役[やく]に 立[た]つ。</div>
+    <div class="de spoiler">Dieses Werkzeug ist für verschiedene Zwecke nützlich.</div>
+  </div>
+  <p>3. Nutzen oder Brauchbarkeit: Beschreibt, wie nützlich oder hilfreich etwas ist.</p>
+  <p>Die Phrase 役に立つ (やくにたつ) bedeutet "nützlich sein" oder "von Nutzen sein".</p>

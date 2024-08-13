@@ -2,9 +2,9 @@ Rang: 1196
 Lemma: 安全
 Lesung: あんぜん
 Alternativschreibweisen: ''
-Definition: sicher adj Sicherheit, Schutz
+Definition: Sicherheit
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '86'
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   この車は安くてとても安全だ。
   この 車[くるま]は 安[やす]くてとても 安全[あんぜん]だ。
-  Dieses Auto ist billig und sehr sicher.
+  Dieses Auto ist günstig und sehr sicher.
+
+  安全第一を心がけて作業しましょう。
+  安全第一[あんぜんだいいち]を 心[こころ]がけて 作業[さぎょう]しましょう。
+  Lasst uns bei der Arbeit Sicherheit an erste Stelle setzen.
+
+  この遊園地のアトラクションは安全性が高い。
+  この 遊園地[ゆうえんち]のアトラクションは 安全性[あんぜんせい]が 高[たか]い。
+  Die Attraktionen in diesem Vergnügungspark haben ein hohes Sicherheitsniveau.
+
+  建設現場では安全帽の着用が義務付けられている。
+  建設現場[けんせつげんば]では 安全帽[あんぜんぼう]の 着用[ちゃくよう]が 義務付[ぎむづ]けられている。
+  Auf Baustellen ist das Tragen von Schutzhelmen vorgeschrieben.
+
+  運転中は安全運転を心がけてください。
+  運転中[うんてんちゅう]は 安全運転[あんぜんうんてん]を 心[こころ]がけてください。
+  Bitte fahren Sie während der Fahrt vorsichtig.
+
+  化学実験では安全メガネを着用することが重要だ。
+  化学実験[かがくじっけん]では 安全[あんぜん]メガネを 着用[ちゃくよう]することが 重要[じゅうよう]だ。
+  Bei chemischen Experimenten ist es wichtig, eine Schutzbrille zu tragen.
+
+  この地域は犯罪率が低く、とても安全です。
+  この 地域[ちいき]は 犯罪率[はんざいりつ]が 低[ひく]く、とても 安全[あんぜん]です。
+  Diese Gegend hat eine niedrige Kriminalitätsrate und ist sehr sicher.
+
+  安全な場所に避難してください。
+  安全[あんぜん]な 場所[ばしょ]に 避難[ひなん]してください。
+  Bitte flüchten Sie an einen sicheren Ort.
+
+  子供の安全のために、おもちゃの安全基準を確認しましょう。
+  子供[こども]の 安全[あんぜん]のために、おもちゃの 安全基準[あんぜんきじゅん]を 確認[かくにん]しましょう。
+  Lasst uns für die Sicherheit der Kinder die Sicherheitsstandards für Spielzeug überprüfen.
+
+  この食品添加物は安全性が確認されています。
+  この 食品添加物[しょくひんてんかぶつ]は 安全性[あんぜんせい]が 確認[かくにん]されています。
+  Die Sicherheit dieses Lebensmittelzusatzstoffs wurde bestätigt.
+
+  安全ロックを使って、子供が勝手にドアを開けられないようにしています。
+  安全[あんぜん]ロックを 使[つか]って、子供[こども]が 勝手[かって]にドアを 開[あ]けられないようにしています。
+  Wir verwenden eine Kindersicherung, damit Kinder die Tür nicht eigenmächtig öffnen können.
+
+  安全な食生活を送るために、賞味期限をよく確認する習慣をつけましょう。
+  安全[あんぜん]な 食生活[しょくせいかつ]を 送[おく]るために、賞味期限[しょうみきげん]をよく 確認[かくにん]する 習慣[しゅうかん]をつけましょう。
+  Gewöhnen wir uns an, das Mindesthaltbarkeitsdatum sorgfältig zu prüfen, um eine sichere Ernährung zu gewährleisten.
+
+  飛行機の安全点検は厳重に行われています。
+  飛行機[ひこうき]の 安全点検[あんぜんてんけん]は 厳重[げんじゅう]に 行[おこな]われています。
+  Die Sicherheitsüberprüfungen von Flugzeugen werden sehr gründlich durchgeführt.
+
+  工場では従業員の安全を確保するために、定期的な安全講習を実施しています。
+  工場[こうじょう]では 従業員[じゅうぎょういん]の 安全[あんぜん]を 確保[かくほ]するために、定期的[ていきてき]な 安全講習[あんぜんこうしゅう]を 実施[じっし]しています。
+  In der Fabrik führen wir regelmäßige Sicherheitsschulungen durch, um die Sicherheit der Mitarbeiter zu gewährleisten.
+
+  スキー場では安全な滑走のために、ルールを守ることが大切です。
+  スキー場[じょう]では 安全[あんぜん]な 滑走[かっそう]のために、ルールを 守[まも]ることが 大切[たいせつ]です。
+  Auf Skipisten ist es wichtig, die Regeln zu befolgen, um sicher fahren zu können.
+
+  この製品は安全性テストに合格しています。
+  この 製品[せいひん]は 安全性[あんぜんせい]テストに 合格[ごうかく]しています。
+  Dieses Produkt hat den Sicherheitstest bestanden.
+
+  安全性の高い投資方法を選ぶことが重要です。
+  安全性[あんぜんせい]の 高[たか]い 投資方法[とうしほうほう]を 選[えら]ぶことが 重要[じゅうよう]です。
+  Es ist wichtig, sichere Anlagemethoden zu wählen.
+
+  交通安全週間中は、特に注意して運転しましょう。
+  交通安全[こうつうあんぜん]週間中[しゅうかんちゅう]は、特[とく]に 注意[ちゅうい]して 運転[うんてん]しましょう。
+  Während der Verkehrssicherheitswoche sollten wir besonders vorsichtig fahren.
+
+  安全な登山のためには、十分な装備と計画が必要です。
+  安全[あんぜん]な 登山[とざん]のためには、十分[じゅうぶん]な 装備[そうび]と 計画[けいかく]が 必要[ひつよう]です。
+  Für sicheres Bergsteigen sind ausreichende Ausrüstung und Planung erforderlich.
+
+  サイバーセキュリティの観点から、パスワードの安全性を高めることが大切です。
+  サイバーセキュリティの 観点[かんてん]から、パスワードの 安全性[あんぜんせい]を 高[たか]めることが 大切[たいせつ]です。
+  Aus Sicht der Cybersicherheit ist es wichtig, die Sicherheit von Passwörtern zu erhöhen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

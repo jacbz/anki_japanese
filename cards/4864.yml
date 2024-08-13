@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '88'
-Ursprung: ''
+Ursprung: engl. air conditioner
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,87 @@ Konjugation: ''
 Beispielsätze: |-
   彼はエアコンをつけた。
   彼[かれ]はエアコンをつけた。
-  Er hat die Klimaanlage eingeschaltet.
+  Er schaltete die Klimaanlage ein.
+
+  夏はエアコン付きの部屋で過ごすのが快適です。
+  夏[なつ]はエアコン 付[つ]きの 部屋[へや]で 過[す]ごすのが 快適[かいてき]です。
+  Es ist angenehm, den Sommer in einem Zimmer mit Klimaanlage zu verbringen.
+
+  この車にはエアコンが標準装備されています。
+  この 車[くるま]にはエアコンが 標準装備[ひょうじゅんそうび]されています。
+  Dieses Auto ist standardmäßig mit einer Klimaanlage ausgestattet.
+
+  エアコンの設定温度を下げてください。
+  エアコンの 設定温度[せっていおんど]を 下[さ]げてください。
+  Bitte stellen Sie die Temperatur der Klimaanlage niedriger ein.
+
+  外は暑いけど、部屋のエアコンのおかげで涼しいです。
+  外[そと]は 暑[あつ]いけど、部屋[へや]のエアコンのおかげで 涼[すず]しいです。
+  Draußen ist es heiß, aber dank der Klimaanlage ist es im Zimmer kühl.
+
+  エアコンの効きが悪いので、修理が必要かもしれません。
+  エアコンの 効[き]きが 悪[わる]いので、修理[しゅうり]が 必要[ひつよう]かもしれません。
+  Die Klimaanlage funktioniert nicht gut, vielleicht muss sie repariert werden.
+
+  オフィスのエアコンが故障して、皆汗だくです。
+  オフィスのエアコンが 故障[こしょう]して、皆[みな] 汗[あせ]だくです。
+  Die Klimaanlage im Büro ist kaputt, und alle schwitzen stark.
+
+  エアコンのフィルターを定期的に掃除することが大切です。
+  エアコンのフィルターを 定期的[ていきてき]に 掃除[そうじ]することが 大切[たいせつ]です。
+  Es ist wichtig, den Filter der Klimaanlage regelmäßig zu reinigen.
+
+  夜中にエアコンの音で目が覚めてしまいました。
+  夜中[よなか]にエアコンの 音[おと]で 目[め]が 覚[さ]めてしまいました。
+  Ich wurde mitten in der Nacht vom Geräusch der Klimaanlage geweckt.
+
+  エアコンの電気代を節約するために、設定温度を調整しています。
+  エアコンの 電気代[でんきだい]を 節約[せつやく]するために、設定温度[せっていおんど]を 調整[ちょうせい]しています。
+  Um Stromkosten für die Klimaanlage zu sparen, passe ich die eingestellte Temperatur an.
+
+  新しい家を買うときは、エアコンの有無を確認しましょう。
+  新[あたら]しい 家[いえ]を 買[か]うときは、エアコンの 有無[うむ]を 確認[かくにん]しましょう。
+  Beim Kauf eines neuen Hauses sollten wir prüfen, ob eine Klimaanlage vorhanden ist.
+
+  エアコンを使いすぎると、体調を崩す可能性があります。
+  エアコンを 使[つか]いすぎると、体調[たいちょう]を 崩[くず]す 可能性[かのうせい]があります。
+  Übermäßiger Gebrauch der Klimaanlage kann zu gesundheitlichen Problemen führen.
+
+  エアコンの効きが強すぎるので、温度を上げてもらえますか。
+  エアコンの 効[き]きが 強[つよ]すぎるので、温度[おんど]を 上[あ]げてもらえますか。
+  Die Klimaanlage kühlt zu stark, könnten Sie bitte die Temperatur erhöhen?
+
+  環境に配慮して、エアコンの使用を控えめにしています。
+  環境[かんきょう]に 配慮[はいりょ]して、エアコンの 使用[しよう]を 控[ひか]えめにしています。
+  Aus Umweltschutzgründen versuche ich, den Gebrauch der Klimaanlage einzuschränken.
+
+  エアコンを入れたまま寝ると、風邪をひく危険性があります。
+  エアコンを 入[い]れたまま 寝[ね]ると、風邪[かぜ]をひく 危険性[きけんせい]があります。
+  Wenn man mit laufender Klimaanlage schläft, besteht die Gefahr, sich zu erkälten.
+
+  猛暑の中、エアコンが壊れたのは最悪のタイミングだった。
+  猛暑[もうしょ]の 中[なか]、エアコンが 壊[こわ]れたのは 最悪[さいあく]のタイミングだった。
+  Die Klimaanlage ging zur schlimmsten Zeit kaputt, mitten in der Hitzewelle.
+
+  エアコンの温度設定は、外気温との差が大きすぎないようにしましょう。
+  エアコンの 温度設定[おんどせってい]は、外気温[がいきおん]との 差[さ]が 大[おお]きすぎないようにしましょう。
+  Achten wir darauf, dass der Temperaturunterschied zwischen Klimaanlage und Außentemperatur nicht zu groß ist.
+
+  長時間エアコンの効いた部屋にいると、喉が痛くなることがあります。
+  長時間[ちょうじかん]エアコンの 効[き]いた 部屋[へや]にいると、喉[のど]が 痛[いた]くなることがあります。
+  Wenn man sich lange in einem klimatisierten Raum aufhält, kann man manchmal Halsschmerzen bekommen.
+
+  エアコンの設置工事は、専門業者に依頼するのが安全です。
+  エアコンの 設置工事[せっちこうじ]は、専門業者[せんもんぎょうしゃ]に 依頼[いらい]するのが 安全[あんぜん]です。
+  Für die Installation einer Klimaanlage ist es sicherer, einen Fachmann zu beauftragen.
+
+  エアコンの効きが弱いので、専門家に点検してもらおうと思います。
+  エアコンの 効[き]きが 弱[よわ]いので、専門家[せんもんか]に 点検[てんけん]してもらおうと 思[おも]います。
+  Da die Klimaanlage nicht richtig funktioniert, denke ich darüber nach, sie von einem Experten überprüfen zu lassen.
+
+  僕は流しの上の窓を閉め、エアコンのスイッチを入れてから、テーブルの上にコーヒー・カップをふたつ並べた。
+  僕[ぼく]は 流[なが]しの 上[うえ]の 窓[まど]を 閉[し]め、エアコンのスイッチを 入[い]れてから、テーブルの 上[うえ]にコーヒー・カップをふたつ 並[なら]べた。
+  Ich schloss das Fenster über der Spüle, schaltete die Klimaanlage ein und stellte dann zwei Kaffeetassen auf den Tisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

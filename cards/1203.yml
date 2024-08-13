@@ -2,7 +2,7 @@ Rang: 1203
 Lemma: 事故
 Lesung: じこ
 Alternativschreibweisen: ''
-Definition: Unfall, Vorfall, Problem
+Definition: Unfall
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \.
@@ -16,11 +16,110 @@ Konjugation: ''
 Beispielsätze: |-
   事故は真夜中に起きた。
   事故[じこ]は 真夜中[まよなか]に 起[お]きた。
-  Der Unfall ereignete sich um Mitternacht.
+  Der Unfall ereignete sich mitten in der Nacht.
+
+  事故防止のため、安全運転を心がけましょう。
+  事故防止[じこぼうし]のため、安全運転[あんぜんうんてん]を 心[こころ]がけましょう。
+  Lasst uns zur Unfallverhütung auf sicheres Fahren achten.
+
+  事故現場には警察官が集まっていた。
+  事故現場[じこげんば]には 警察官[けいさつかん]が 集[あつ]まっていた。
+  Am Unfallort hatten sich Polizeibeamte versammelt.
+
+  事故原因はまだ調査中です。
+  事故原因[じこげんいん]はまだ 調査中[ちょうさちゅう]です。
+  Die Unfallursache wird noch untersucht.
+
+  事故カードは使用できませんので、新しいカードを申請してください。
+  事故[じこ]カードは 使用[しよう]できませんので、新[あたら]しいカードを 申請[しんせい]してください。
+  Eine beschädigte Karte kann nicht verwendet werden. Bitte beantragen Sie eine neue Karte.
+
+  事故回避のための最新技術が開発されています。
+  事故回避[じこかいひ]のための 最新[さいしん]技術[ぎじゅつ]が 開発[かいはつ]されています。
+  Die neueste Technologie zur Unfallvermeidung wird entwickelt.
+
+  この交差点は事故率が高いので、注意が必要です。
+  この 交差点[こうさてん]は 事故率[じこりつ]が 高[たか]いので、注意[ちゅうい]が 必要[ひつよう]です。
+  An dieser Kreuzung ist die Unfallrate hoch, daher ist Vorsicht geboten.
+
+  事故責任は双方にあると判断されました。
+  事故責任[じこせきにん]は 双方[そうほう]にあると 判断[はんだん]されました。
+  Es wurde entschieden, dass beide Parteien die Verantwortung für den Unfall tragen.
+
+  事故車は修理に出されました。
+  事故車[じこしゃ]は 修理[しゅうり]に 出[だ]されました。
+  Das Unfallauto wurde zur Reparatur gebracht.
+
+  事故死した方のご冥福をお祈りします。
+  事故死[じこし]した 方[かた]のご 冥福[めいふく]をお 祈[いの]りします。
+  Wir beten für das Seelenheil der bei dem Unfall verstorbenen Person.
+
+  事故証明書は保険会社に提出する必要があります。
+  事故証明書[じこしょうめいしょ]は 保険会社[ほけんがいしゃ]に 提出[ていしゅつ]する 必要[ひつよう]があります。
+  Die Unfallbescheinigung muss bei der Versicherungsgesellschaft eingereicht werden.
+
+  この道路は事故多発地点として知られています。
+  この 道路[どうろ]は 事故多発地点[じこたはつちてん]として 知[し]られています。
+  Diese Straße ist als unfallträchtiger Ort bekannt.
+
+  最新の事故統計によると、交通事故は減少傾向にあります。
+  最新[さいしん]の 事故統計[じことうけい]によると、交通事故[こうつうじこ]は 減少傾向[げんしょうけいこう]にあります。
+  Laut den neuesten Unfallstatistiken sind Verkehrsunfälle rückläufig.
+
+  昨日の飛行機事故のニュースを聞きました。
+  昨日[きのう]の 飛行機事故[ひこうきじこ]のニュースを 聞[き]きました。
+  Ich habe die Nachrichten über den gestrigen Flugzeugunfall gehört.
+
+  保険事故が発生した場合は、すぐに連絡してください。
+  保険事故[ほけんじこ]が 発生[はっせい]した 場合[ばあい]は、すぐに 連絡[れんらく]してください。
+  Bitte kontaktieren Sie uns sofort, wenn ein Versicherungsfall eintritt.
+
+  自動車事故に遭わないよう、常に注意して運転しています。
+  自動車事故[じどうしゃじこ]に 遭[あ]わないよう、常[つね]に 注意[ちゅうい]して 運転[うんてん]しています。
+  Ich fahre immer vorsichtig, um keinen Autounfall zu haben.
+
+  人身事故が発生し、電車が遅れています。
+  人身事故[じんしんじこ]が 発生[はっせい]し、電車[でんしゃ]が 遅[おく]れています。
+  Es gab einen Unfall mit Personenschaden, und die Züge verspäten sich.
+
+  交通事故に巻き込まれないよう、常に周囲に気をつけましょう。
+  交通事故[こうつうじこ]に 巻[ま]き 込[こ]まれないよう、常[つね]に 周囲[しゅうい]に 気[き]をつけましょう。
+  Lasst uns immer auf unsere Umgebung achten, um nicht in einen Verkehrsunfall verwickelt zu werden.
+
+  列車事故により、線路が一時閉鎖されました。
+  列車事故[れっしゃじこ]により、線路[せんろ]が 一時[いちじ] 閉鎖[へいさ]されました。
+  Aufgrund eines Zugunglücks wurde die Strecke vorübergehend gesperrt.
+
+  死亡事故の報告を受け、全社員で黙祷を捧げました。
+  死亡事故[しぼうじこ]の 報告[ほうこく]を 受[う]け、全社員[ぜんしゃいん]で 黙祷[もくとう]を 捧[ささ]げました。
+  Nach der Meldung eines tödlichen Unfalls hielten alle Mitarbeiter eine Schweigeminute ab.
+
+  衝突事故を避けるため、十分な車間距離を保ちましょう。
+  衝突事故[しょうとつじこ]を 避[さ]けるため、十分[じゅうぶん]な 車間距離[しゃかんきょり]を 保[たも]ちましょう。
+  Um Zusammenstöße zu vermeiden, sollten wir einen ausreichenden Abstand zum vorausfahrenden Fahrzeug einhalten.
+
+  墜落事故の可能性を減らすため、定期的な機体点検が行われています。
+  墜落事故[ついらくじこ]の 可能性[かのうせい]を 減[へ]らすため、定期的[ていきてき]な 機体点検[きたいてんけん]が 行[おこな]われています。
+  Um die Möglichkeit eines Absturzes zu verringern, werden regelmäßige Flugzeugüberprüfungen durchgeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>事故 (じこ) bezieht sich auf verschiedene Arten von Unfällen oder unbeabsichtigten Vorfällen. Es kann in vielen Kontexten verwendet werden, von Verkehrsunfällen bis hin zu industriellen Zwischenfällen.</p>
+  <div class="examples">
+    <div class="jp">交通事故[こうつうじこ]に 気[き]をつけて 運転[うんてん]してください。</div>
+    <div class="de spoiler">Bitte fahren Sie vorsichtig, um Verkehrsunfälle zu vermeiden.</div>
+  </div>
+  <p>Das Wort wird oft in Verbindung mit spezifischen Arten von Unfällen verwendet:</p>
+  <div class="examples">
+    <div class="jp">飛行機事故[ひこうきじこ]が 発生[はっせい]した 場合[ばあい]、速[すみ]やかに 対応[たいおう]する 必要[ひつよう]があります。</div>
+    <div class="de spoiler">Im Falle eines Flugzeugunfalls ist eine schnelle Reaktion erforderlich.</div>
+  </div>
+  <p>Es kann auch in einem breiteren Sinne für unerwartete Probleme oder Störungen verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">機械[きかい]の 事故[じこ]で 生産[せいさん]ラインが 停止[ていし]しました。</div>
+    <div class="de spoiler">Die Produktionslinie wurde aufgrund einer Maschinenstörung angehalten.</div>
+  </div>

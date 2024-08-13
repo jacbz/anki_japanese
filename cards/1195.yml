@@ -1,8 +1,8 @@
 Rang: 1195
 Lemma: おかげ
 Lesung: ''
-Alternativschreibweisen: お陰
-Definition: dank
+Alternativschreibweisen: お陰・お蔭
+Definition: Hilfe, Unterstützung; Grund, Ursache
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
@@ -16,11 +16,102 @@ Konjugation: ''
 Beispielsätze: |-
   あなたが手伝ってくれたおかげで商売で成功することができた。
   あなたが 手伝[てつだ]ってくれたおかげで 商売[しょうばい]で 成功[せいこう]することができた。
-  Dank Ihrer Hilfe konnte ich im Geschäft erfolgreich sein.
+  Dank deiner Hilfe konnte ich in meinem Geschäft erfolgreich sein.
+
+  先生のおかげで難しい試験に合格できました。
+  先生[せんせい]のおかげで 難[むずか]しい 試験[しけん]に 合格[ごうかく]できました。
+  Dank meines Lehrers konnte ich die schwierige Prüfung bestehen.
+
+  両親のおかげで大学に通うことができています。
+  両親[りょうしん]のおかげで 大学[だいがく]に 通[かよ]うことができています。
+  Dank meiner Eltern kann ich die Universität besuchen.
+
+  彼女のおかげで困難を乗り越えることができた。
+  彼女[かのじょ]のおかげで 困難[こんなん]を 乗[の]り 越[こ]えることができた。
+  Dank ihr konnte ich die Schwierigkeiten überwinden.
+
+  みんなのおかげでプロジェクトを成功させることができました。
+  みんなのおかげでプロジェクトを 成功[せいこう]させることができました。
+  Dank aller konnten wir das Projekt zum Erfolg führen.
+
+  あなたのおかげをいただき、このような素晴らしい機会に恵まれました。
+  あなたのおかげをいただき、このような 素晴[すば]らしい 機会[きかい]に 恵[めぐ]まれました。
+  Dank Ihrer Unterstützung wurde mir diese wunderbare Gelegenheit zuteil.
+
+  神様のおかげで無事に旅を終えることができました。
+  神様[かみさま]のおかげで 無事[ぶじ]に 旅[たび]を 終[お]えることができました。
+  Dank Gottes Hilfe konnten wir die Reise sicher beenden.
+
+  彼のおかげで新しい仕事を見つけることができた。
+  彼[かれ]のおかげで 新[あたら]しい 仕事[しごと]を 見[み]つけることができた。
+  Dank ihm konnte ich einen neuen Job finden.
+
+  技術の進歩のおかげで、私たちの生活は大きく改善された。
+  技術[ぎじゅつ]の 進歩[しんぽ]のおかげで、私[わたし]たちの 生活[せいかつ]は 大[おお]きく 改善[かいぜん]された。
+  Dank des technologischen Fortschritts hat sich unser Leben stark verbessert.
+
+  彼女のおかげを蒙り、この難しい問題を解決できました。
+  彼女[かのじょ]のおかげを 蒙[こうむ]り、この 難[むずか]しい 問題[もんだい]を 解決[かいけつ]できました。
+  Ich bin ihr zu Dank verpflichtet, dass ich dieses schwierige Problem lösen konnte.
+
+  君のおかげだ、この重要な取引を成立させることができて。
+  君[きみ]のおかげだ、この 重要[じゅうよう]な 取引[とりひき]を 成立[せいりつ]させることができて。
+  Das haben wir dir zu verdanken, dass wir diesen wichtigen Deal abschließen konnten.
+
+  彼の努力のおかげで、会社は危機を乗り越えた。
+  彼[かれ]の 努力[どりょく]のおかげで、会社[かいしゃ]は 危機[きき]を 乗[の]り 越[こ]えた。
+  Dank seiner Bemühungen hat das Unternehmen die Krise überwunden.
+
+  薬のおかげで、症状がだいぶ良くなりました。
+  薬[くすり]のおかげで、症状[しょうじょう]がだいぶ 良[よ]くなりました。
+  Dank der Medizin haben sich meine Symptome deutlich verbessert.
+
+  彼女の助言のおかげで、正しい決断を下すことができた。
+  彼女[かのじょ]の 助言[じょげん]のおかげで、正[ただ]しい 決断[けつだん]を 下[くだ]すことができた。
+  Dank ihres Rates konnte ich die richtige Entscheidung treffen.
+
+  運動のおかげで、体調が良くなった。
+  運動[うんどう]のおかげで、体調[たいちょう]が 良[よ]くなった。
+  Dank des Sports hat sich mein Gesundheitszustand verbessert.
+
+  あなたのおかげで、私の人生が変わりました。
+  あなたのおかげで、私[わたし]の 人生[じんせい]が 変[か]わりました。
+  Dank dir hat sich mein Leben verändert.
+
+  雨のおかげで、農作物が豊作になりそうだ。
+  雨[あめ]のおかげで、農作物[のうさくぶつ]が 豊作[ほうさく]になりそうだ。
+  Dank des Regens sieht es nach einer guten Ernte aus.
+
+  彼のおかげで、チームは優勝することができた。
+  彼[かれ]のおかげで、チームは 優勝[ゆうしょう]することができた。
+  Dank ihm konnte das Team den Sieg erringen.
+
+  あなたのおかげで、私は自信を取り戻すことができました。
+  あなたのおかげで、私[わたし]は 自信[じしん]を 取[と]り 戻[もど]すことができました。
+  Dank dir konnte ich mein Selbstvertrauen wiedergewinnen.
+
+  台風のおかげで、飛行機が遅れてしまった。
+  台風[たいふう]のおかげで、飛行機[ひこうき]が 遅[おく]れてしまった。
+  Wegen des Taifuns hat sich das Flugzeug verspätet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>おかげ wird oft in der Phrase 「～のおかげで」verwendet, um Dankbarkeit oder den Grund für ein positives Ergebnis auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">皆[みな]さんのおかげで、プロジェクトを 成功[せいこう]させることができました。</div>
+    <div class="de spoiler">Dank Ihrer aller konnten wir das Projekt zum Erfolg führen.</div>
+  </div>
+  <p>Es kann auch ironisch verwendet werden, um den Grund für ein negatives Ergebnis zu bezeichnen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]のミスのおかげで、チームは 試合[しあい]に 負[ま]けてしまった。</div>
+    <div class="de spoiler">Wegen seines Fehlers hat das Team das Spiel verloren.</div>
+  </div>
+  <p>In formellen Situationen wird oft die höflichere Form 「おかげさまで」verwendet.</p>
+  <div class="examples">
+    <div class="jp">おかげさまで、無事[ぶじ]に 仕事[しごと]を 終[お]えることができました。</div>
+    <div class="de spoiler">Dank Ihrer Unterstützung konnte ich die Arbeit erfolgreich abschließen.</div>
+  </div>

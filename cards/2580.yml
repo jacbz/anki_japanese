@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: .^\..
 Register: ''
 Dispersion: '84'
-Ursprung: ''
+Ursprung: engl. Christmas
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   私たちはクリスマスの歌を歌う。
   私[わたし]たちはクリスマスの 歌[うた]を 歌[うた]う。
   Wir werden ein Weihnachtslied singen.
+
+  クリスマスプレゼントを買うために、早めに買い物に行こう。
+  クリスマスプレゼントを 買[か]うために、早[はや]めに 買[か]い 物[もの]に 行[い]こう。
+  Lass uns früh einkaufen gehen, um Weihnachtsgeschenke zu kaufen.
+
+  家族でクリスマスディナーを楽しみました。
+  家族[かぞく]でクリスマスディナーを 楽[たの]しみました。
+  Wir haben das Weihnachtsessen mit der Familie genossen.
+
+  クリスマスカードを友達に送りました。
+  クリスマスカードを 友達[ともだち]に 送[おく]りました。
+  Ich habe meinen Freunden Weihnachtskarten geschickt.
+
+  子供たちはクリスマスケーキを楽しみにしています。
+  子供[こども]たちはクリスマスケーキを 楽[たの]しみにしています。
+  Die Kinder freuen sich auf den Weihnachtskuchen.
+
+  クリスマスコンサートのチケットを予約しました。
+  クリスマスコンサートのチケットを 予約[よやく]しました。
+  Ich habe Karten für das Weihnachtskonzert reserviert.
+
+  クリスマスキャロルを歌うのが好きです。
+  クリスマスキャロルを 歌[うた]うのが 好[す]きです。
+  Ich singe gerne Weihnachtslieder.
+
+  クリスマス休戦について歴史の授業で学びました。
+  クリスマス 休戦[きゅうせん]について 歴史[れきし]の 授業[じゅぎょう]で 学[まな]びました。
+  Wir haben im Geschichtsunterricht über den Weihnachtsfrieden gelernt.
+
+  会社でクリスマスパーティーを開催します。
+  会社[かいしゃ]でクリスマスパーティーを 開催[かいさい]します。
+  Wir veranstalten eine Weihnachtsfeier in der Firma.
+
+  クリスマスセールで良い買い物ができました。
+  クリスマスセールで 良[よ]い 買[か]い 物[もの]ができました。
+  Ich habe beim Weihnachtsverkauf gute Einkäufe gemacht.
+
+  クリスマス商戦で店は大忙しです。
+  クリスマス 商戦[しょうせん]で 店[みせ]は 大忙[おおいそが]しです。
+  Die Geschäfte sind im Weihnachtsgeschäft sehr beschäftigt.
+
+  クリスマスツリーを飾るのが楽しみです。
+  クリスマスツリーを 飾[かざ]るのが 楽[たの]しみです。
+  Ich freue mich darauf, den Weihnachtsbaum zu schmücken.
+
+  子供たちはファーザークリスマスを待っています。
+  子供[こども]たちはファーザークリスマスを 待[ま]っています。
+  Die Kinder warten auf den Weihnachtsmann.
+
+  今年はホワイトクリスマスになりそうです。
+  今年[ことし]はホワイトクリスマスになりそうです。
+  Es sieht so aus, als ob wir dieses Jahr weiße Weihnachten haben werden.
+
+  メリークリスマス！良い休日を過ごしてください。
+  メリークリスマス！ 良[よ]い 休日[きゅうじつ]を 過[す]ごしてください。
+  Frohe Weihnachten! Verbringen Sie schöne Feiertage.
+
+  クリスマスの活人画を見に教会へ行きました。
+  クリスマスの 活人画[かつじんが]を 見[み]に 教会[きょうかい]へ 行[い]きました。
+  Wir sind in die Kirche gegangen, um die lebende Weihnachtskrippe zu sehen.
+
+  クリスマスの頃には街中がイルミネーションで輝きます。
+  クリスマスの 頃[ころ]には 街中[まちじゅう]がイルミネーションで 輝[かがや]きます。
+  Zur Weihnachtszeit erstrahlt die ganze Stadt in Lichtern.
+
+  クリスマスの贈り物を選ぶのに時間がかかりました。
+  クリスマスの 贈[おく]り 物[もの]を 選[えら]ぶのに 時間[じかん]がかかりました。
+  Es hat lange gedauert, ein Weihnachtsgeschenk auszusuchen.
+
+  クリスマスの前夜に家族で晩餐を楽しみます。
+  クリスマスの 前夜[ぜんや]に 家族[かぞく]で 晩餐[ばんさん]を 楽[たの]しみます。
+  Am Heiligabend genießen wir ein Abendessen mit der Familie.
+
+  毎年クリスマスを盛大に祝います。
+  毎年[まいとし]クリスマスを 盛大[せいだい]に 祝[いわ]います。
+  Wir feiern Weihnachten jedes Jahr ausgiebig.
+
+  クリスマスプレゼント用にラッピングしてもらえますか？
+  クリスマスプレゼント 用[よう]にラッピングしてもらえますか？
+  Könnten Sie das bitte als Weihnachtsgeschenk einpacken?
+
+  街がクリスマスらしくなってきましたね。
+  街[まち]がクリスマスらしくなってきましたね。
+  Die Stadt wird langsam weihnachtlich, nicht wahr?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

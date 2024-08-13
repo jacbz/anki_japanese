@@ -2,14 +2,14 @@ Rang: 1073
 Lemma: 参る
 Lesung: まいる
 Alternativschreibweisen: ''
-Definition: gehen, kommen, besuchen (bescheiden); in Schwierigkeiten sein
+Definition: kommen; besuchen; fertig sein; aufgeben
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: \..
 Register: ↗Verwaltungssprache
 Dispersion: '52'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 参らない・参った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,104 @@ Beispielsätze: |-
   私[わたし]が 駅[えき]までお 迎[むか]えに 参[まい]ります。
   Ich werde kommen, um dich am Bahnhof abzuholen.
 
+  「そのほう、今夜のうちに、敦賀の利仁が館へ参つて、こう申せ。」
+  「そのほう、今夜[こんや]のうちに、敦賀[つるが]の 利仁[としひと]が 館[やかた]へ 参[まい]つて、こう 申[もう]せ。」
+  "Laufe heute Nacht nach Tsuruga zum Haus des Toshihito und überbringe diese Botschaft."
+
+  私は国を立つ前に、また父と母の墓へ参りました。
+  私[わたし]は 国[くに]を 立[た]つ 前[まえ]に、また 父[ちち]と 母[はは]の 墓[はか]へ 参[まい]りました。
+  Bevor ich abreiste, besuchte ich noch einmal das Grab meiner Eltern.
+
+  朝廷のたてた寺は、天皇と朝廷の貴族だけがまいるのであり
+  朝廷[ちょうてい]のたてた 寺[てら]は、天皇[てんのう]と 朝廷[ちょうてい]の 貴族[きぞく]だけがまいるのであり
+  Die von der Regierung erbauten Tempel wurden nur vom Tennō oder den Adligen des Hofes besucht.
+
+  暑さに体が参ってしまう。
+  暑[あつ]さに 体[からだ]が 参[まい]ってしまう。
+  Die Hitze macht mich körperlich fertig.
+
+  一日で参ってしまった。
+  一日[いちにち]で 参[まい]ってしまった。
+  Ich bin schon nach einem Tag völlig erschöpft.
+
+  精神的に参ってしまって、仕事に集中できない。
+  精神的[せいしんてき]に 参[まい]ってしまって、仕事[しごと]に 集中[しゅうちゅう]できない。
+  Ich bin seelisch so erschöpft, dass ich mich nicht auf die Arbeit konzentrieren kann.
+
+  金銭的に参っているので、貯金を崩すしかない。
+  金銭的[きんせんてき]に 参[まい]っているので、貯金[ちょきん]を 崩[くず]すしかない。
+  Ich bin finanziell am Ende, also muss ich meine Ersparnisse angreifen.
+
+  気持ちが参っていて、何も手につかない。
+  気持[きも]ちが 参[まい]っていて、何[なに]も 手[て]につかない。
+  Ich bin emotional so erschöpft, dass ich nichts zustande bringe.
+
+  ぎゃふんと参って、反論する言葉が見つからなかった。
+  ぎゃふんと 参[まい]って、反論[はんろん]する 言葉[ことば]が 見[み]つからなかった。
+  Ich war sprachlos und konnte kein Gegenargument finden.
+
+  どうだ、参ったか。
+  どうだ、参[まい]ったか。
+  Na, gibst du auf?
+
+  （これは）参った。もう降参です。
+  （これは）参[まい]った。もう 降参[こうさん]です。
+  Ich gebe auf. Ich kapituliere.
+
+  夜勤の後で、寝たきり老人の世話をするヨシエの苦労を眼前にして参っていた。
+  夜勤[やきん]の 後[あと]で、寝[ね]たきり 老人[ろうじん]の 世話[せわ]をするヨシエの 苦労[くろう]を 眼前[がんぜん]にして 参[まい]っていた。
+  Der Anblick, wie Yoshie sich nach der Nachtschicht noch um den bettlägerigen alten Mann kümmern musste, hat mich sehr mitgenommen.
+
+  ぼくはもう神経がすっかりまいっちゃってるもんで。
+  ぼくはもう 神経[しんけい]がすっかり 参[ま]いっちゃってるもんで。
+  Ich bin einfach mit den Nerven völlig am Ende.
+
+  あたしにすっかり参ってるらしいの、あたしを見ると誰かを思い出すんですって。
+  あたしにすっかり 参[まい]ってるらしいの、あたしを 見[み]ると 誰[だれ]かを 思[おも]い 出[だ]すんですって。
+  Er scheint total in mich verschossen zu sein. Er sagt, ich erinnere ihn an jemanden, wenn er mich sieht.
+
+  田中様参り
+  田中様[たなかさま]参[まい]り
+  An Herrn Tanaka
+
+  明日、お寺に参ります。
+  明日[あした]、お 寺[てら]に 参[まい]ります。
+  Morgen werde ich den Tempel besuchen.
+
+  お客様、こちらへ参りませんか。
+  お 客様[きゃくさま]、こちらへ 参[まい]りませんか。
+  Möchten Sie bitte hierher kommen, werter Gast?
+
+  すぐに参りますので、少々お待ちください。
+  すぐに 参[まい]りますので、少々[しょうしょう]お 待[ま]ちください。
+  Ich komme sofort, bitte warten Sie einen Moment.
+
+  彼女の美しさに参ってしまいました。
+  彼女[かのじょ]の 美[うつく]しさに 参[まい]ってしまいました。
+  Ich bin von ihrer Schönheit völlig hingerissen.
+
+  長い会議で頭が参ってしまった。
+  長[なが]い 会議[かいぎ]で 頭[あたま]が 参[まい]ってしまった。
+  Nach der langen Besprechung bin ich geistig völlig erschöpft.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>参る (まいる, mairu) ist ein bescheidener Ausdruck, der oft in formellen Situationen verwendet wird. Es kann verschiedene Bedeutungen haben, abhängig vom Kontext:</p>
+  <div class="examples">
+    <div class="jp">明日、お客様の元[もと]に 参[まい]ります。</div>
+    <div class="de spoiler">Ich werde morgen zu Ihnen (dem Kunden) kommen.</div>
+  </div>
+  <p>Es wird auch verwendet, um auszudrücken, dass man erschöpft oder am Ende ist:</p>
+  <div class="examples">
+    <div class="jp">この仕事[しごと]に 参[まい]ってしまいました。</div>
+    <div class="de spoiler">Ich bin von dieser Arbeit völlig fertig.</div>
+  </div>
+  <p>In manchen Kontexten kann es auch "aufgeben" oder "kapitulieren" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">もう 参[まい]りました。降参[こうさん]です。</div>
+    <div class="de spoiler">Ich gebe auf. Ich kapituliere.</div>
+  </div>

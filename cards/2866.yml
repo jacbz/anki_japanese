@@ -104,7 +104,7 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-
-  <p>Das Sprichwort 「六日の菖蒲、十日の菊」 (むいかのあやめ、とおかのきく) bedeutet, etwas einen Tag zu spät zu tun oder knapp den richtigen Zeitpunkt zu verpassen.</p>
+  <p>Das Sprichwort <span class="jp">「六日[むいか]の 菖蒲[あやめ]、十日[とおか]の 菊[きく]」</span> bedeutet, etwas einen Tag zu spät zu tun oder knapp den richtigen Zeitpunkt zu verpassen.</p>
   <div class="examples">
     <div class="jp">締[し]め 切[き]りに 間[ま]に 合[あ]わなくて、六日[むいか]の 菖蒲[あやめ]になってしまった。</div>
     <div class="de spoiler">Ich habe die Frist verpasst und war einen Tag zu spät dran.</div>

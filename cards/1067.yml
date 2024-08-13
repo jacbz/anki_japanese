@@ -1,15 +1,15 @@
 Rang: 1067
 Lemma: まとめる
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: zusammenfassen, abwickeln, sammeln
+Alternativschreibweisen: 纏める
+Definition: zusammenfassen; ordnen; abschließen
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: まとめない・まとめた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   話す前に自分の意見をまとめてください。
   話[はな]す 前[まえ]に 自分[じぶん]の 意見[いけん]をまとめてください。
   Fassen Sie Ihre Gedanken zusammen, bevor Sie sprechen.
+
+  左派勢力をまとめて、政治的影響力を高めようとしている。
+  左派勢力[さはせいりょく]をまとめて、政治的[せいじてき]影響力[えいきょうりょく]を 高[たか]めようとしている。
+  Sie versuchen, die linken Kräfte zu bündeln, um ihren politischen Einfluss zu erhöhen.
+
+  全員まとめて会議室に集まってください。
+  全員[ぜんいん]まとめて 会議室[かいぎしつ]に 集[あつ]まってください。
+  Bitte versammeln Sie sich alle zusammen im Konferenzraum.
+
+  今月の請求書はまとめて払うことにしました。
+  今月[こんげつ]の 請求書[せいきゅうしょ]はまとめて 払[はら]うことにしました。
+  Ich habe beschlossen, die Rechnungen dieses Monats auf einmal zu bezahlen.
+
+  在庫品をまとめて売るので、大幅な割引をします。
+  在庫品[ざいこひん]をまとめて 売[う]るので、大幅[おおはば]な 割引[わりびき]をします。
+  Da wir die Lagerbestände in Bausch und Bogen verkaufen, gibt es einen großen Rabatt.
+
+  全員の荷物をまとめて置いておくので、自分のを忘れずに持っていってね。
+  全員[ぜんいん]の 荷物[にもつ]をまとめて 置[お]いておくので、自分[じぶん]のを 忘[わす]れずに 持[も]っていってね。
+  Ich stelle das Gepäck aller zusammen, also vergiss nicht, deins mitzunehmen.
+
+  燃えないごみをまとめて捨てる日は月曜日です。
+  燃[も]えないごみをまとめて 捨[す]てる 日[ひ]は 月曜日[げつようび]です。
+  Der Tag, an dem wir den nicht-brennbaren Müll gebündelt wegwerfen, ist Montag.
+
+  研究に必要な材料をまとめて、上司に報告しました。
+  研究[けんきゅう]に 必要[ひつよう]な 材料[ざいりょう]をまとめて、上司[じょうし]に 報告[ほうこく]しました。
+  Ich habe das für die Forschung notwendige Material zusammengestellt und meinem Vorgesetzten Bericht erstattet.
+
+  様々な意見をまとめて、最終的な提案を作成しました。
+  様々[さまざま]な 意見[いけん]をまとめて、最終的[さいしゅうてき]な 提案[ていあん]を 作成[さくせい]しました。
+  Ich habe verschiedene Meinungen zusammengefasst und einen endgültigen Vorschlag erstellt.
+
+  長いインタビューをまとめて、記事にしました。
+  長[なが]いインタビューをまとめて、記事[きじ]にしました。
+  Ich habe das lange Interview zusammengefasst und einen Artikel daraus gemacht.
+
+  調査結果をグラフにまとめて、分かりやすく説明しました。
+  調査結果[ちょうさけっか]をグラフにまとめて、分[わ]かりやすく 説明[せつめい]しました。
+  Ich habe die Untersuchungsergebnisse in einer Grafik zusammengefasst und anschaulich erklärt.
+
+  これまでの研究成果を本にまとめる予定です。
+  これまでの 研究成果[けんきゅうせいか]を 本[ほん]にまとめる 予定[よてい]です。
+  Ich plane, die bisherigen Forschungsergebnisse in einem Buch zusammenzustellen.
+
+  荷物をまとめろ、30分後に出発だ。
+  荷物[にもつ]をまとめろ、30分後[ぷんご]に 出発[しゅっぱつ]だ。
+  Packt eure Sachen, in 30 Minuten geht's los.
+
+  プロジェクトについて、私がまとめた報告書を提出しました。
+  プロジェクトについて、私[わたし]がまとめた 報告書[ほうこくしょ]を 提出[ていしゅつ]しました。
+  Ich habe den von mir zusammengestellten Bericht über das Projekt eingereicht.
+
+  まとめて話したいことがあるんだ。時間ある？
+  まとめて 話[はな]したいことがあるんだ。時間[じかん]ある？
+  Ich hätte dir einiges zu erzählen. Hast du Zeit?
+
+  髪をまとめて、すっきりとした印象になりました。
+  髪[かみ]をまとめて、すっきりとした 印象[いんしょう]になりました。
+  Ich habe meine Haare zusammengebunden und sehe nun ordentlicher aus.
+
+  試験前に考えをまとめる時間が必要だった。
+  試験前[しけんまえ]に 考[かんが]えをまとめる 時間[じかん]が 必要[ひつよう]だった。
+  Vor der Prüfung brauchte ich Zeit, um meine Gedanken zu ordnen.
+
+  長い交渉をまとめて、ようやく契約にこぎつけた。
+  長[なが]い 交渉[こうしょう]をまとめて、ようやく 契約[けいやく]にこぎつけた。
+  Nach langen Verhandlungen konnten wir endlich einen Vertragsabschluss erzielen.
+
+  両者の意見の相違をまとめて、和解に至りました。
+  両者[りょうしゃ]の 意見[いけん]の 相違[そうい]をまとめて、和解[わかい]に 至[いた]りました。
+  Wir haben die Meinungsverschiedenheiten beider Parteien beigelegt und eine Einigung erzielt.
+
+  この論争をまとめるのは難しいが、努力する価値はある。
+  この 論争[ろんそう]をまとめるのは 難[むずか]しいが、努力[どりょく]する 価値[かち]はある。
+  Es ist schwierig, diesen Disput zu schlichten, aber es ist die Mühe wert.
+
+  彼女は長い髪をきれいにまとめて、仕事に出かけた。
+  彼女[かのじょ]は 長[なが]い 髪[かみ]をきれいにまとめて、仕事[しごと]に 出[で]かけた。
+  Sie band ihre langen Haare ordentlich zusammen und machte sich auf den Weg zur Arbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

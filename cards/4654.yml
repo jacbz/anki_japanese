@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: ..^\..
 Register: ''
 Dispersion: '89'
-Ursprung: ''
+Ursprung: engl. chocolate
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   バレンタインに彼にチョコレートを渡した。
   バレンタインに 彼[かれ]にチョコレートを 渡[わた]した。
-  Ich habe ihm am Valentinstag Schokolade gegeben.
+  Zum Valentinstag habe ich ihm Schokolade geschenkt.
+
+  友達とチョコレートアイスクリームを食べに行った。
+  友達[ともだち]とチョコレートアイスクリームを 食[た]べに 行[い]った。
+  Ich bin mit meinen Freunden Schokoladeneis essen gegangen.
+
+  誕生日にチョコレートケーキを作ってもらった。
+  誕生日[たんじょうび]にチョコレートケーキを 作[つく]ってもらった。
+  Zum Geburtstag wurde mir eine Schokoladentorte gebacken.
+
+  デザートにチョコレートムースを注文した。
+  デザートにチョコレートムースを 注文[ちゅうもん]した。
+  Als Dessert habe ich Mousse au Chocolat bestellt.
+
+  カフェでチョコレートパフェを頼んだ。
+  カフェでチョコレートパフェを 頼[たの]んだ。
+  Im Café habe ich ein Parfait mit Schokolade bestellt.
+
+  ナッツ入りチョコレートが好きです。
+  ナッツ 入[い]りチョコレートが 好[す]きです。
+  Ich mag Nussschokolade.
+
+  チョコレート2個だけ食べました。
+  チョコレート2個[にこ]だけ 食[た]べました。
+  Ich habe nur zwei Stück Schokolade gegessen.
+
+  棒状のチョコレートを買った。
+  棒状[ぼうじょう]のチョコレートを 買[か]った。
+  Ich habe einen Schokoladenriegel gekauft.
+
+  寒い日にはホットチョコレートが飲みたくなる。
+  寒[さむ]い 日[ひ]にはホットチョコレートが 飲[の]みたくなる。
+  An kalten Tagen bekomme ich Lust auf heiße Schokolade.
+
+  1枚のチョコレートを友達と分け合った。
+  1枚[いちまい]のチョコレートを 友達[ともだち]と 分[わ]け 合[あ]った。
+  Ich habe eine Tafel Schokolade mit meinem Freund geteilt.
+
+  飲めるチョコレートがあるなんて、いままでちっとも知りませんでした。
+  飲[の]めるチョコレートがあるなんて、いままでちっとも 知[し]りませんでした。
+  Dass es Schokolade gab, die man trinken konnte, hatte ich bisher noch nicht einmal gewusst.
+
+  娘は昼にチョコレートを一枚食べたきりでひどくおなかがすいていると言った。
+  娘[むすめ]は 昼[ひる]にチョコレートを 一枚[いちまい] 食[た]べたきりでひどくおなかがすいていると 言[い]った。
+  Die Tochter sagte, sie hätte schrecklichen Hunger, da sie zum Mittagessen nur eine Tafel Schokolade gegessen hätte.
+
+  チョコレート色のセーターを買った。
+  チョコレート 色[いろ]のセーターを 買[か]った。
+  Ich habe einen schokoladenfarbenen Pullover gekauft.
+
+  このチョコレートは甘すぎる。
+  このチョコレートは 甘[あま]すぎる。
+  Diese Schokolade ist zu süß.
+
+  チョコレートの香りが部屋中に漂っている。
+  チョコレートの 香[かお]りが 部屋中[へやじゅう]に 漂[ただよ]っている。
+  Der Duft von Schokolade schwebt durch den ganzen Raum.
+
+  チョコレートを溶かしてフォンデュを作ろう。
+  チョコレートを 溶[と]かしてフォンデュを 作[つく]ろう。
+  Lass uns Schokolade schmelzen und Fondue machen.
+
+  チョコレートの原料はカカオ豆です。
+  チョコレートの 原料[げんりょう]はカカオ 豆[まめ]です。
+  Der Hauptbestandteil von Schokolade sind Kakaobohnen.
+
+  高級チョコレートの味は格別だ。
+  高級[こうきゅう]チョコレートの 味[あじ]は 格別[かくべつ]だ。
+  Der Geschmack von hochwertiger Schokolade ist außergewöhnlich.
+
+  チョコレートを食べ過ぎて気分が悪くなった。
+  チョコレートを 食[た]べ 過[す]ぎて 気分[きぶん]が 悪[わる]くなった。
+  Mir ist schlecht geworden, weil ich zu viel Schokolade gegessen habe.
+
+  チョコレートの箱を開けたら、中身が全部溶けていた。
+  チョコレートの 箱[はこ]を 開[あ]けたら、中身[なかみ]が 全部[ぜんぶ] 溶[と]けていた。
+  Als ich die Schokoladenschachtel öffnete, war der gesamte Inhalt geschmolzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

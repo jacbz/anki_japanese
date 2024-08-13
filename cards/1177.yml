@@ -8,7 +8,7 @@ Wortart: n, vt
 Lesung mit Tonhöhe: ^\..
 Register: ''
 Dispersion: '93'
-Ursprung: ''
+Ursprung: engl. check
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -18,9 +18,111 @@ Beispielsätze: |-
   リストの 中[なか]の 自分[じぶん]の 名前[なまえ]をチェックしてください。
   Bitte überprüfen Sie Ihren Namen auf der Liste.
 
+  書類にチェックを付けて提出してください。
+  書類[しょるい]にチェックを 付[つ]けて 提出[ていしゅつ]してください。
+  Bitte versehen Sie die Dokumente mit einem Häkchen und reichen Sie sie ein.
+
+  新しい従業員の経歴をチェックする必要があります。
+  新[あたら]しい 従業員[じゅうぎょういん]の 経歴[けいれき]をチェックする 必要[ひつよう]があります。
+  Wir müssen den Hintergrund des neuen Mitarbeiters überprüfen.
+
+  医師は患者の健康状態を定期的にチェックします。
+  医師[いし]は 患者[かんじゃ]の 健康状態[けんこうじょうたい]を 定期的[ていきてき]にチェックします。
+  Der Arzt kontrolliert regelmäßig den Gesundheitszustand des Patienten.
+
+  エラーがないか、コードを再度チェックしてください。
+  エラーがないか、コードを 再度[さいど]チェックしてください。
+  Bitte überprüfen Sie den Code erneut auf Fehler.
+
+  ホテルをチェックアウトする前に、部屋をもう一度チェックした。
+  ホテルをチェックアウトする 前[まえ]に、部屋[へや]をもう 一度[いちど]チェックした。
+  Bevor ich aus dem Hotel auscheckste, kontrollierte ich das Zimmer noch einmal.
+
+  商品の在庫をチェックして、注文数を確認してください。
+  商品[しょうひん]の 在庫[ざいこ]をチェックして、注文数[ちゅうもんすう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie den Lagerbestand der Waren und bestätigen Sie die Bestellmenge.
+
+  セキュリティチェックを通過するのに時間がかかった。
+  セキュリティチェックを 通過[つうか]するのに 時間[じかん]がかかった。
+  Es dauerte eine Weile, die Sicherheitskontrolle zu passieren.
+
+  運転手は出発前に車の状態をチェックした。
+  運転手[うんてんしゅ]は 出発前[しゅっぱつまえ]に 車[くるま]の 状態[じょうたい]をチェックした。
+  Der Fahrer überprüfte den Zustand des Autos vor der Abfahrt.
+
+  メールをチェックしたら、重要な連絡が入っていた。
+  メールをチェックしたら、重要[じゅうよう]な 連絡[れんらく]が 入[はい]っていた。
+  Als ich meine E-Mails checkte, war eine wichtige Nachricht dabei.
+
+  アプリの設定をチェックして、必要な変更を加えてください。
+  アプリの 設定[せってい]をチェックして、必要[ひつよう]な 変更[へんこう]を 加[くわ]えてください。
+  Bitte überprüfen Sie die App-Einstellungen und nehmen Sie die erforderlichen Änderungen vor.
+
+  チェックボックスをクリックして、利用規約に同意してください。
+  チェックボックスをクリックして、利用規約[りようきやく]に 同意[どうい]してください。
+  Bitte klicken Sie auf das Kontrollkästchen, um den Nutzungsbedingungen zuzustimmen.
+
+  面接官は応募者の経歴をチェックしている。
+  面接官[めんせつかん]は 応募者[おうぼしゃ]の 経歴[けいれき]をチェックしている。
+  Der Interviewer überprüft den Lebenslauf des Bewerbers.
+
+  医療チェックを受けてから、競技に参加できます。
+  医療[いりょう]チェックを 受[う]けてから、競技[きょうぎ]に 参加[さんか]できます。
+  Sie können am Wettkampf teilnehmen, nachdem Sie die medizinische Untersuchung absolviert haben.
+
+  チェックインの際、パスポートを提示する必要があります。
+  チェックインの 際[さい]、パスポートを 提示[ていじ]する 必要[ひつよう]があります。
+  Beim Check-in müssen Sie Ihren Reisepass vorzeigen.
+
+  製品の品質をチェックするのは品質管理部門の仕事だ。
+  製品[せいひん]の 品質[ひんしつ]をチェックするのは 品質管理部門[ひんしつかんりぶもん]の 仕事[しごと]だ。
+  Es ist die Aufgabe der Qualitätskontrollabteilung, die Produktqualität zu überprüfen.
+
+  チェックアウト時間を過ぎると追加料金がかかることがある。
+  チェックアウト 時間[じかん]を 過[す]ぎると 追加料金[ついかりょうきん]がかかることがある。
+  Wenn Sie die Check-out-Zeit überschreiten, können zusätzliche Gebühren anfallen.
+
+  スペルミスがないか、文章を注意深くチェックした。
+  スペルミスがないか、文章[ぶんしょう]を 注意深[ちゅういぶか]くチェックした。
+  Ich habe den Text sorgfältig auf Rechtschreibfehler überprüft.
+
+  航空会社は安全のため、飛行前に機体を徹底的にチェックする。
+  航空会社[こうくうがいしゃ]は 安全[あんぜん]のため、飛行前[ひこうまえ]に 機体[きたい]を 徹底的[てっていてき]にチェックする。
+  Die Fluggesellschaft überprüft das Flugzeug vor dem Flug gründlich aus Sicherheitsgründen.
+
+  チェックリストを使って、旅行の準備が完了したか確認しよう。
+  チェックリストを 使[つか]って、旅行[りょこう]の 準備[じゅんび]が 完了[かんりょう]したか 確認[かくにん]しよう。
+  Lass uns anhand der Checkliste überprüfen, ob die Reisevorbereitungen abgeschlossen sind.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>チェック ist ein vielseitiges Wort, das sowohl als Nomen als auch als Verb verwendet wird. Es stammt vom englischen Wort 'check' ab.</p>
+  <p>Als Nomen bezeichnet es:</p>
+  <ul>
+    <li>Eine Kontrolle oder Überprüfung</li>
+    <li>Ein Häkchen oder Kontrollzeichen</li>
+  </ul>
+  <p>Als Verb (チェックする) bedeutet es:</p>
+  <ul>
+    <li>Etwas überprüfen oder kontrollieren</li>
+    <li>Etwas abhaken oder markieren</li>
+  </ul>
+  <div class='examples'>
+    <div class='jp'>書類[しょるい]をチェックして 署名[しょめい]してください。</div>
+    <div class='de spoiler'>Bitte überprüfen Sie die Dokumente und unterschreiben Sie sie.</div>
+  </div>
+  <p>In der Umgangssprache wird es häufig verwendet, um das Überprüfen von E-Mails, Nachrichten oder Listen zu beschreiben.</p>
+  <div class='examples'>
+    <div class='jp'>メールをチェックするのを 忘[わす]れないでね。</div>
+    <div class='de spoiler'>Vergiss nicht, deine E-Mails zu checken.</div>
+  </div>
+  <p>Es wird auch in zusammengesetzten Wörtern verwendet, wie:</p>
+  <ul>
+    <li>チェックイン (Check-in)</li>
+    <li>チェックアウト (Check-out)</li>
+    <li>ダブルチェック (Doppelcheck)</li>
+  </ul>

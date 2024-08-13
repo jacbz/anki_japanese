@@ -1,8 +1,8 @@
 Rang: 1194
 Lemma: 温かい
 Lesung: あたたかい
-Alternativschreibweisen: ''
-Definition: warm, herzlich
+Alternativschreibweisen: 暖かい
+Definition: warm; herzlich
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: .^^\.
@@ -16,11 +16,105 @@ Konjugation: ''
 Beispielsätze: |-
   彼の家で温かい歓迎を受けた。
   彼[かれ]の 家[いえ]で 温[あたた]かい 歓迎[かんげい]を 受[う]けた。
-  Ich erhielt eine herzliche Begrüßung in seinem Haus.
+  Ich wurde in seinem Haus herzlich willkommen geheißen.
+
+  この部屋は温かい雰囲気に包まれている。
+  この 部屋[へや]は 温[あたた]かい 雰囲気[ふんいき]に 包[つつ]まれている。
+  Dieses Zimmer ist von einer warmen Atmosphäre umgeben.
+
+  温かいふろに浸かって疲れを癒そう。
+  温[あたた]かいふろに 浸[つ]かって 疲[つか]れを 癒[いや]そう。
+  Lass uns in einem warmen Bad entspannen und unsere Müdigkeit lindern.
+
+  彼女は温かい色で部屋を飾った。
+  彼女[かのじょ]は 温[あたた]かい 色[いろ]で 部屋[へや]を 飾[かざ]った。
+  Sie dekorierte das Zimmer mit warmen Farben.
+
+  温かい家庭で育った子供は幸せだ。
+  温[あたた]かい 家庭[かてい]で 育[そだ]った 子供[こども]は 幸[しあわ]せだ。
+  Kinder, die in einer liebevollen Familie aufwachsen, sind glücklich.
+
+  友人からの温かい言葉に励まされた。
+  友人[ゆうじん]からの 温[あたた]かい 言葉[ことば]に 励[はげ]まされた。
+  Ich wurde durch die herzlichen Worte meines Freundes ermutigt.
+
+  寒い日には温かいものを食べたくなる。
+  寒[さむ]い 日[ひ]には 温[あたた]かいものを 食[た]べたくなる。
+  An kalten Tagen möchte man etwas Warmes essen.
+
+  お客様を温かいもてなしでお迎えしましょう。
+  お客様[きゃくさま]を 温[あたた]かい もてなしで お迎[むか]えしましょう。
+  Lasst uns die Gäste mit herzlicher Gastfreundschaft empfangen.
+
+  温かいお湯で手を洗うと気持ちがいい。
+  温[あたた]かい お湯[ゆ]で 手[て]を 洗[あら]うと 気持[きも]ちがいい。
+  Es fühlt sich gut an, die Hände mit warmem Wasser zu waschen.
+
+  スープは温かいうちに食べるのがおいしいよ。
+  スープは 温[あたた]かいうちに 食[た]べるのが おいしいよ。
+  Suppe schmeckt am besten, wenn man sie isst, solange sie warm ist.
+
+  春になると徐々に暖かくなってきた。
+  春[はる]になると 徐々[じょじょ]に 暖[あたた]かくなってきた。
+  Als der Frühling kam, wurde es allmählich wärmer.
+
+  風邪をひかないように温かくしていてね。
+  風邪[かぜ]を ひかないように 温[あたた]かくしていてね。
+  Halte dich warm, damit du dich nicht erkältest.
+
+  料理は温かくしておくと美味しさが長持ちします。
+  料理[りょうり]は 温[あたた]かくしておくと 美味[おい]しさが 長持[ながも]ちします。
+  Wenn man das Essen warm hält, bleibt es länger schmackhaft.
+
+  暖房を入れて部屋を温かくしましょう。
+  暖房[だんぼう]を 入[い]れて 部屋[へや]を 温[あたた]かくしましょう。
+  Lass uns die Heizung einschalten und das Zimmer aufwärmen.
+
+  温かい春の日に公園でピクニックを楽しんだ。
+  温[あたた]かい 春[はる]の 日[ひ]に 公園[こうえん]で ピクニックを 楽[たの]しんだ。
+  Wir genossen ein Picknick im Park an einem warmen Frühlingstag.
+
+  彼女の温かい笑顔に心が和んだ。
+  彼女[かのじょ]の 温[あたた]かい 笑顔[えがお]に 心[こころ]が 和[なご]んだ。
+  Ihr warmes Lächeln beruhigte mein Herz.
+
+  温かい眼差しで子供たちを見守っている。
+  温[あたた]かい 眼差[まなざ]しで 子供[こども]たちを 見守[みまも]っている。
+  Er beobachtet die Kinder mit einem liebevollen Blick.
+
+  この地域は冬でも比較的温かい気候だ。
+  この 地域[ちいき]は 冬[ふゆ]でも 比較的[ひかくてき] 温[あたた]かい 気候[きこう]だ。
+  Diese Region hat auch im Winter ein relativ mildes Klima.
+
+  彼は温かい人柄で多くの人に愛されている。
+  彼[かれ]は 温[あたた]かい 人柄[ひとがら]で 多[おお]くの 人[ひと]に 愛[あい]されている。
+  Er wird von vielen Menschen geliebt wegen seines warmherzigen Charakters.
+
+  子猫を温かい布で包んであげた。
+  子猫[こねこ]を 温[あたた]かい 布[ぬの]で 包[つつ]んであげた。
+  Ich wickelte das Kätzchen in eine warme Decke.
+
+  あったかいコーヒーを飲んで体を温めよう。
+  あったかいコーヒーを 飲[の]んで 体[からだ]を 温[あたた]めよう。
+  Lass uns warmen Kaffee trinken und unseren Körper aufwärmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>In der gesprochenen Sprache wird häufig die Form <span class="jp">あったかい</span> verwendet.</p>
+  <div class="examples">
+    <div class="jp">今日[きょう]はあったかいね。</div>
+    <div class="de spoiler">Heute ist es schön warm, nicht wahr?</div>
+  </div>
+  <p>Es kann sowohl die physische Wärme als auch emotionale Wärme oder Herzlichkeit ausdrücken.</p>
+  <div class="examples">
+    <div class="jp">母[はは]の 温[あたた]かい 手[て]が 頬[ほお]に 触[ふ]れた。</div>
+    <div class="de spoiler">Die warme Hand meiner Mutter berührte meine Wange.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 温[あたた]かい 言葉[ことば]に 励[はげ]まされた。</div>
+    <div class="de spoiler">Seine herzlichen Worte ermutigten mich.</div>
+  </div>

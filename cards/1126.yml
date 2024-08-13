@@ -2,14 +2,14 @@ Rang: 1126
 Lemma: 逃げる
 Lesung: にげる
 Alternativschreibweisen: ''
-Definition: entkommen, fliehen
+Definition: fliehen; ausweichen
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 逃げない・逃げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   犯人はお金を持って逃げた。
   犯人[はんにん]はお 金[かね]を 持[も]って 逃[に]げた。
   Die Verbrecher sind mit dem Geld entkommen.
+
+  犯人が逃げたので、警察が追跡を開始しました。
+  犯人[はんにん]が 逃[に]げたので、警察[けいさつ]が 追跡[ついせき]を 開始[かいし]しました。
+  Der Täter ist geflohen, also hat die Polizei die Verfolgung aufgenommen.
+
+  小鳥が窓から逃げてしまいました。
+  小鳥[ことり]が 窓[まど]から 逃[に]げてしまいました。
+  Das Vögelchen ist durch das Fenster entflogen.
+
+  ガスが逃げているようです。早く窓を開けてください。
+  ガスが 逃[に]げているようです。早[はや]く 窓[まど]を 開[あ]けてください。
+  Es scheint, dass Gas entweicht. Bitte öffnen Sie schnell die Fenster.
+
+  彼は借金から逃げるために国を出ました。
+  彼[かれ]は 借金[しゃっきん]から 逃[に]げるために 国[くに]を 出[で]ました。
+  Er hat das Land verlassen, um seinen Schulden zu entfliehen.
+
+  囚人が刑務所から逃げたというニュースを聞きました。
+  囚人[しゅうじん]が 刑務所[けいむしょ]から 逃[に]げたというニュースを 聞[き]きました。
+  Ich habe die Nachricht gehört, dass ein Gefangener aus dem Gefängnis ausgebrochen ist.
+
+  泥棒は警察に気づかれる前に窓から逃げました。
+  泥棒[どろぼう]は 警察[けいさつ]に 気[き]づかれる 前[まえ]に 窓[まど]から 逃[に]げました。
+  Der Dieb floh durch das Fenster, bevor die Polizei ihn bemerkte.
+
+  彼女は現実から逃げるためにアルコールに頼っています。
+  彼女[かのじょ]は 現実[げんじつ]から 逃[に]げるためにアルコールに 頼[たよ]っています。
+  Sie flüchtet sich in den Alkohol, um der Realität zu entfliehen.
+
+  火事の際、みんな逃げるように建物から出ました。
+  火事[かじ]の 際[さい]、みんな 逃[に]げるように 建物[たてもの]から 出[で]ました。
+  Bei dem Feuer verließen alle fluchtartig das Gebäude.
+
+  人間と真正面に視線が逢っても逃げなかった。
+  人間[にんげん]と 真正面[まっしょうめん]に 視線[しせん]が 逢[あ]っても 逃[に]げなかった。
+  Selbst wenn er einem Menschen Aug in Aug gegenüberstand, floh er nicht.
+
+  敵が右から来れば左へ逃げる。左から来れば右へ逃げる。
+  敵[てき]が 右[みぎ]から 来[く]れば 左[ひだり]へ 逃[に]げる。左[ひだり]から 来[く]れば 右[みぎ]へ 逃[に]げる。
+  Kam der Feind von rechts, so floh ich nach links. Und wenn er von links erschien, machte ich mich nach rechts aus dem Staube.
+
+  村の連中も疫病が恐くて逃げたんだ。
+  村[むら]の 連中[れんちゅう]も 疫病[えきびょう]が 恐[こわ]くて 逃[に]げたんだ。
+  Und die Leute aus dem Dorf sind ebenfalls aus Angst vor der Seuche abgehauen.
+
+  よく沈没寸前の船から、真っ先に鼠が逃げると言うが。
+  よく 沈没寸前[ちんぼつすんぜん]の 船[ふね]から、真[ま]っ 先[さき]に 鼠[ねずみ]が 逃[に]げると 言[い]うが。
+  Es heißt ja, die Ratten sind die ersten, die das sinkende Schiff verlassen.
+
+  彼は難しい質問から逃げるのが上手だ。
+  彼[かれ]は 難[むずか]しい 質問[しつもん]から 逃[に]げるのが 上手[じょうず]だ。
+  Er ist geschickt darin, schwierigen Fragen auszuweichen.
+
+  喧嘩を避けるために、彼は話題を変えて逃げた。
+  喧嘩[けんか]を 避[さ]けるために、彼[かれ]は 話題[わだい]を 変[か]えて 逃[に]げた。
+  Um einem Streit aus dem Weg zu gehen, wechselte er das Thema und wich aus.
+
+  そして彼はその矛盾から逃げるため童話の世界を作り。
+  そして 彼[かれ]はその 矛盾[むじゅん]から 逃[に]げるため 童話[どうわ]の 世界[せかい]を 作[つく]り。
+  Um diesem Widerspruch zu entrinnen, hatte er sich eine Märchenwelt geschaffen.
+
+  責任から逃げずに問題に向き合うべきだ。
+  責任[せきにん]から 逃[に]げずに 問題[もんだい]に 向[む]き 合[あ]うべきだ。
+  Man sollte sich der Verantwortung nicht entziehen, sondern sich den Problemen stellen.
+
+  彼女は現実逃避のために、ファンタジー小説を読みふけった。
+  彼女[かのじょ]は 現実逃避[げんじつとうひ]のために、ファンタジー 小説[しょうせつ]を 読[よ]みふけった。
+  Um der Realität zu entfliehen, vertiefte sie sich in Fantasy-Romane.
+
+  裸足で逃げる子供たちの姿が見えた。
+  裸足[はだし]で 逃[に]げる 子供[こども]たちの 姿[すがた]が 見[み]えた。
+  Ich sah Kinder barfuß davonlaufen.
+
+  逃げるが勝ちだと思って、彼は議論を避けた。
+  逃[に]げるが 勝[か]ちだと 思[おも]って、彼[かれ]は 議論[ぎろん]を 避[さ]けた。
+  In dem Glauben, dass der Klügere nachgibt, wich er der Diskussion aus.
+
+  逃げた魚は大きいと言われるが、実際はどうだろうか。
+  逃[に]げた 魚[さかな]は 大[おお]きいと 言[い]われるが、実際[じっさい]はどうだろうか。
+  Man sagt, der entkommene Fisch sei groß gewesen, aber wie ist es wirklich?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

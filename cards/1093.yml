@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '89'
-Ursprung: ''
+Ursprung: engl. point
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   最大のポイントはコストの安さです。
   最大[さいだい]のポイントはコストの 安[やす]さです。
   Der wichtigste Punkt sind die niedrigen Kosten.
+
+  重要なポイントを簡潔に説明してください。
+  重要[じゅうよう]なポイントを 簡潔[かんけつ]に 説明[せつめい]してください。
+  Bitte erklären Sie die wichtigsten Punkte kurz und bündig.
+
+  このレポートのポイントを述べてみましょう。
+  このレポートのポイントを 述[の]べてみましょう。
+  Lassen Sie uns die Hauptpunkte dieses Berichts darlegen.
+
+  彼女の発表は的確にポイントを押さえていた。
+  彼女[かのじょ]の 発表[はっぴょう]は 的確[てきかく]にポイントを 押[お]さえていた。
+  Ihr Vortrag erfasste die wichtigsten Punkte präzise.
+
+  ポイントを絞って議論を進めましょう。
+  ポイントを 絞[しぼ]って 議論[ぎろん]を 進[すす]めましょう。
+  Lassen Sie uns die Diskussion auf die Kernpunkte konzentrieren.
+
+  試合終了直前、彼は決定的なポイントを決めた。
+  試合[しあい]終了[しゅうりょう]直前[ちょくぜん]、彼[かれ]は 決定的[けっていてき]なポイントを 決[き]めた。
+  Kurz vor Spielende erzielte er den entscheidenden Punkt.
+
+  このチームは最後の5ポイントのリードを守り切った。
+  このチームは 最後[さいご]の5ポイントのリードを 守[まも]り 切[き]った。
+  Das Team verteidigte seinen Fünf-Punkte-Vorsprung bis zum Schluss.
+
+  彼らは重要なポイントで失点し、試合に負けた。
+  彼[かれ]らは 重要[じゅうよう]なポイントで 失点[しってん]し、試合[しあい]に 負[ま]けた。
+  Sie verloren an einem wichtigen Punkt und verloren das Spiel.
+
+  このフォントは9ポイントで印刷されています。
+  このフォントは9ポイントで 印刷[いんさつ]されています。
+  Diese Schrift ist in 9 Punkt gedruckt.
+
+  ポイントシステムを使って、文字の大きさを調整しました。
+  ポイントシステムを 使[つか]って、文字[もじ]の 大[おお]きさを 調整[ちょうせい]しました。
+  Ich habe die Schriftgröße mithilfe des Punktsystems angepasst.
+
+  駅のポイントを切り換えて、列車の進路を変更した。
+  駅[えき]のポイントを 切[き]り 換[か]えて、列車[れっしゃ]の 進路[しんろ]を 変更[へんこう]した。
+  Die Weiche am Bahnhof wurde umgestellt, um die Fahrtrichtung des Zuges zu ändern。
+
+  小数点以下第二位まで計算してください。
+  小数点[しょうすうてん]以下[いか]第二[だいに]位[い]まで 計算[けいさん]してください。
+  Bitte rechnen Sie bis zur zweiten Stelle nach dem Komma.
+
+  インフレ率が0.5ポイント上昇しました。
+  インフレ 率[りつ]が0.5ポイント 上昇[じょうしょう]しました。
+  Die Inflationsrate ist um 0,5 Prozentpunkte gestiegen.
+
+  このカードを使うと、購入金額の1%のポイントが貯まります。
+  このカードを 使[つか]うと、購入[こうにゅう]金額[きんがく]の1%のポイントが 貯[た]まります。
+  Wenn Sie diese Karte benutzen, erhalten Sie 1% der Kaufsumme als Treuepunkte.
+
+  ポイントカードを作ると、お得なクーポンがもらえます。
+  ポイントカードを 作[つく]ると、お 得[とく]なクーポンがもらえます。
+  Wenn Sie eine Punktekarte erstellen, erhalten Sie vorteilhafte Coupons.
+
+  トランプのポイント（エース）は、ゲームによって高い点数になることがあります。
+  トランプのポイント（エース）は、ゲームによって 高[たか]い 点数[てんすう]になることがあります。
+  Das As (Point) beim Kartenspielen kann je nach Spiel einen hohen Punktwert haben.
+
+  彼女はポイントを落とさないようにプレーした。
+  彼女[かのじょ]はポイントを 落[お]とさないようにプレーした。
+  Sie spielte so, dass sie keine Punkte verlor.
+
+  この問題のポイントは、正確さと速さのバランスです。
+  この 問題[もんだい]のポイントは、正確[せいかく]さと 速[はや]さのバランスです。
+  Der Kernpunkt dieser Aufgabe ist die Balance zwischen Genauigkeit und Geschwindigkeit.
+
+  彼の話のポイントを要約してみてください。
+  彼[かれ]の 話[はなし]のポイントを 要約[ようやく]してみてください。
+  Versuchen Sie bitte, die Hauptpunkte seiner Rede zusammenzufassen.
+
+  健康的な生活のポイントは、バランスの取れた食事と十分な睡眠です。
+  健康的[けんこうてき]な 生活[せいかつ]のポイントは、バランスの 取[と]れた 食事[しょくじ]と 十分[じゅうぶん]な 睡眠[すいみん]です。
+  Die Schlüsselpunkte für ein gesundes Leben sind eine ausgewogene Ernährung und ausreichend Schlaf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

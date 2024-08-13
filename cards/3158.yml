@@ -1,14 +1,14 @@
 Rang: 3158
 Lemma: カラオケ
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 空オケ
 Definition: Karaoke
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '77'
-Ursprung: ''
+Ursprung: oke < engl. orchestra
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   ゆうべカラオケに行った。
   ゆうべカラオケに 行[い]った。
-  Ich bin gestern Abend zum Karaoke gegangen.
+  Gestern Abend bin ich Karaoke singen gegangen.
+
+  友達とカラオケバーで盛り上がりました。
+  友達[ともだち]とカラオケバーで 盛[も]り 上[あ]がりました。
+  Ich hatte eine tolle Zeit mit meinen Freunden in einer Karaokebar.
+
+  カラオケボックスで2時間歌い続けた。
+  カラオケボックスで2時間[じかん] 歌[うた]い 続[つづ]けた。
+  Ich habe zwei Stunden lang ununterbrochen in einer Karaokebox gesungen.
+
+  新しいカラオケハウスがオープンしたそうだ。
+  新[あたら]しいカラオケハウスがオープンしたそうだ。
+  Ich habe gehört, dass ein neues Karaokehaus eröffnet hat.
+
+  カラオケ機械が故障して、歌えなくなってしまった。
+  カラオケ 機械[きかい]が 故障[こしょう]して、歌[うた]えなくなってしまった。
+  Die Karaokemaschine ging kaputt und wir konnten nicht mehr singen.
+
+  週末にカラオケパーティーを開く予定です。
+  週末[しゅうまつ]にカラオケパーティーを 開[ひら]く 予定[よてい]です。
+  Ich plane, am Wochenende eine Karaokeparty zu veranstalten.
+
+  カラオケ酒場で一晩中歌って、喉が枯れた。
+  カラオケ 酒場[さかば]で 一晩中[ひとばんじゅう] 歌[うた]って、喉[のど]が 枯[か]れた。
+  Ich habe die ganze Nacht in einer Karaokebar gesungen und bin heiser geworden.
+
+  新しいカラオケセットを買ったので、家で練習できるようになった。
+  新[あたら]しいカラオケセットを 買[か]ったので、家[いえ]で 練習[れんしゅう]できるようになった。
+  Ich habe mir eine neue Karaokeanlage gekauft, sodass ich jetzt zu Hause üben kann.
+
+  カラオケに合わせて歌うのは難しいけど、楽しい。
+  カラオケに 合[あ]わせて 歌[うた]うのは 難[むずか]しいけど、楽[たの]しい。
+  Es ist zwar schwierig, zur Karaokemusik zu singen, aber es macht Spaß.
+
+  カラオケをするのは、ストレス解消になるんだ。
+  カラオケをするのは、ストレス 解消[かいしょう]になるんだ。
+  Karaoke zu singen hilft mir beim Stressabbau.
+
+  関谷さん、カラオケはおやりになりますか。
+  関谷[せきや]さん、カラオケはおやりになりますか。
+  Sagen Sie mal, Herr Sekiya, gehen Sie manchmal Karaoke singen?
+
+  カラオケで思い切り歌って、気分すっきり。
+  カラオケで 思[おも]い 切[き]り 歌[うた]って、気分[きぶん]すっきり。
+  Ich habe beim Karaoke aus vollem Herzen gesungen und fühle mich jetzt richtig gut.
+
+  彼女はカラオケが得意で、いつも高得点を取る。
+  彼女[かのじょ]はカラオケが 得意[とくい]で、いつも 高得点[こうとくてん]を 取[と]る。
+  Sie ist sehr gut im Karaoke und erzielt immer hohe Punktzahlen.
+
+  カラオケの選曲に悩んでいる。何を歌おうかな。
+  カラオケの 選曲[せんきょく]に 悩[なや]んでいる。何[なに]を 歌[うた]おうかな。
+  Ich kann mich bei der Liedauswahl für das Karaoke nicht entscheiden. Was soll ich singen?
+
+  あの人は、カラオケで演歌ばかり歌うんだ。
+  あの 人[ひと]は、カラオケで 演歌[えんか]ばかり 歌[うた]うんだ。
+  Diese Person singt beim Karaoke immer nur Enka-Lieder.
+
+  カラオケで歌いたい曲のリストを作っておこう。
+  カラオケで 歌[うた]いたい 曲[きょく]のリストを 作[つく]っておこう。
+  Lass uns eine Liste mit Liedern erstellen, die wir beim Karaoke singen möchten.
+
+  カラオケの採点システムって、あまり正確じゃないよね。
+  カラオケの 採点[さいてん]システムって、あまり 正確[せいかく]じゃないよね。
+  Das Bewertungssystem beim Karaoke ist nicht wirklich genau, oder?
+
+  カラオケで恥ずかしがらずに歌うのが上達の秘訣だよ。
+  カラオケで 恥[は]ずかしがらずに 歌[うた]うのが 上達[じょうたつ]の 秘訣[ひけつ]だよ。
+  Der Schlüssel zur Verbesserung beim Karaoke ist es, ohne Scham zu singen.
+
+  カラオケの予約をしたので、今夜は歌い放題だ。
+  カラオケの 予約[よやく]をしたので、今夜[こんや]は 歌[うた]い 放題[ほうだい]だ。
+  Ich habe einen Karaoketermin gebucht, also können wir heute Abend so viel singen, wie wir wollen.
+
+  カラオケで声が出なくて困った。
+  カラオケで 声[こえ]が 出[で]なくて 困[こま]った。
+  Ich hatte Probleme beim Karaoke, weil meine Stimme versagte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

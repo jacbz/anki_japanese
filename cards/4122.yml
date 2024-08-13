@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '88'
-Ursprung: ''
+Ursprung: engl. dance
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はダンスに夢中だ。
-  彼[かれ]はダンスに 夢中[むちゅう]だ。
+  かれは ダンスに 夢中[むちゅう]だ。
   Er ist verrückt nach Tanzen.
+
+  ダンスフロアで楽しく踊っています。
+  ダンスフロアで 楽[たの]しく 踊[おど]っています。
+  Ich tanze vergnügt auf der Tanzfläche.
+
+  新しいダンス靴を買う必要があります。
+  新[あたら]しい ダンス 靴[ぐつ]を 買[か]う 必要[ひつよう]があります。
+  Ich muss mir neue Tanzschuhe kaufen.
+
+  週末にダンスホールへ行きませんか？
+  週末[しゅうまつ]に ダンスホールへ 行[い]きませんか？
+  Möchtest du am Wochenende in ein Tanzlokal gehen?
+
+  ダンス教室に通って上達したいです。
+  ダンス 教室[きょうしつ]に 通[かよ]って 上達[じょうたつ]したいです。
+  Ich möchte eine Tanzschule besuchen, um mich zu verbessern.
+
+  来月のダンスパーティーが楽しみです。
+  来月[らいげつ]の ダンスパーティーが 楽[たの]しみです。
+  Ich freue mich auf die Tanzparty nächsten Monat.
+
+  ダンス療法は心身の健康に良いそうです。
+  ダンス 療法[りょうほう]は 心身[しんしん]の 健康[けんこう]に 良[よ]いそうです。
+  Tanztherapie soll gut für die körperliche und geistige Gesundheit sein.
+
+  このダンススタジオは設備が整っていて素晴らしい。
+  この ダンススタジオは 設備[せつび]が 整[ととの]っていて 素晴[すば]らしい。
+  Dieses Tanzstudio ist toll ausgestattet.
+
+  ブレークダンスのパフォーマンスに観客は魅了された。
+  ブレークダンスの パフォーマンスに 観客[かんきゃく]は 魅了[みりょう]された。
+  Das Publikum war von der Breakdance-Performance fasziniert.
+
+  現代ダンスの公演を見に行こうと思います。
+  現代[げんだい]ダンスの 公演[こうえん]を 見[み]に 行[い]こうと 思[おも]います。
+  Ich denke darüber nach, eine Aufführung zeitgenössischen Tanzes zu besuchen.
+
+  モダンダンスのクラスに参加してみたい。
+  モダンダンスの クラスに 参加[さんか]してみたい。
+  Ich möchte gerne mal an einem Modern-Dance-Kurs teilnehmen.
+
+  社交ダンスは優雅で美しいですね。
+  社交[しゃこう]ダンスは 優雅[ゆうが]で 美[うつく]しいですね。
+  Gesellschaftstanz ist wirklich elegant und schön.
+
+  ダンスの相手を探しているんだけど、一緒に踊らない？
+  ダンスの 相手[あいて]を 探[さが]しているんだけど、一緒[いっしょ]に 踊[おど]らない？
+  Ich suche einen Tanzpartner, möchtest du mit mir tanzen?
+
+  彼女はプロのダンスの教師として働いています。
+  彼女[かのじょ]は プロの ダンスの 教師[きょうし]として 働[はたら]いています。
+  Sie arbeitet als professionelle Tanzlehrerin.
+
+  ダンスの申し込みをされて、とても嬉しかった。
+  ダンスの 申[もう]し 込[こ]みをされて、とても 嬉[うれ]しかった。
+  Ich war sehr erfreut, als ich zum Tanz aufgefordert wurde.
+
+  友達とダンスをするのが週末の楽しみです。
+  友達[ともだち]と ダンスをするのが 週末[しゅうまつ]の 楽[たの]しみです。
+  Mit Freunden zu tanzen ist mein Wochenendvergnügen.
+
+  ダンスをする代わりに、映画を見に行きませんか？
+  ダンスをする 代[か]わりに、映画[えいが]を 見[み]に 行[い]きませんか？
+  Wollen wir statt zu tanzen ins Kino gehen?
+
+  ダンスは良い運動になるね。
+  ダンスは 良[よ]い 運動[うんどう]になるね。
+  Tanzen ist eine gute körperliche Betätigung.
+
+  彼女のダンスの動きは流れるように美しかった。
+  彼女[かのじょ]の ダンスの 動[うご]きは 流[なが]れるように 美[うつく]しかった。
+  Ihre Tanzbewegungen waren fließend und schön.
+
+  ダンスコンテストに出場する予定です。
+  ダンスコンテストに 出場[しゅつじょう]する 予定[よてい]です。
+  Ich plane, an einem Tanzwettbewerb teilzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

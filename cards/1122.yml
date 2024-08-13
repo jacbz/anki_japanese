@@ -1,15 +1,15 @@
 Rang: 1122
-Lemma: 応ずる
-Lesung: おうずる
-Alternativschreibweisen: 応じる
-Definition: antworten, reagieren, akzeptieren
+Lemma: 応じる
+Lesung: おうじる
+Alternativschreibweisen: 応ずる
+Definition: reagieren, entsprechen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '73'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 応じない・応じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,90 @@ Beispielsätze: |-
   そんな要求に応ずる必要はない。
   そんな 要求[ようきゅう]に 応[おう]ずる 必要[ひつよう]はない。
   Du bist nicht verpflichtet, auf eine solche Forderung zu reagieren.
+
+  質問に応じて詳しい説明をしました。
+  質問[しつもん]に 応[おう]じて 詳[くわ]しい 説明[せつめい]をしました。
+  Ich habe die Frage ausführlich beantwortet.
+
+  彼女は挨拶に応じて微笑みました。
+  彼女[かのじょ]は 挨拶[あいさつ]に 応[おう]じて 微笑[ほほえ]みました。
+  Sie erwiderte den Gruß mit einem Lächeln.
+
+  ノックに応じてドアを開けました。
+  ノックに 応[おう]じてドアを 開[あ]けました。
+  Ich öffnete die Tür als Reaktion auf das Klopfen.
+
+  会社は市場の変化に素早く応じる必要があります。
+  会社[かいしゃ]は 市場[しじょう]の 変化[へんか]に 素早[すばや]く 応[おう]じる 必要[ひつよう]があります。
+  Das Unternehmen muss schnell auf Marktveränderungen reagieren.
+
+  その募集に応じて多くの応募がありました。
+  その 募集[ぼしゅう]に 応[おう]じて 多[おお]くの 応募[おうぼ]がありました。
+  Es gab viele Bewerbungen als Reaktion auf die Stellenausschreibung.
+
+  植物は光の刺激に応じて成長します。
+  植物[しょくぶつ]は 光[ひかり]の 刺激[しげき]に 応[おう]じて 成長[せいちょう]します。
+  Pflanzen wachsen als Reaktion auf Lichtreize.
+
+  彼女は私のキスに応じてくれました。
+  彼女[かのじょ]は 私[わたし]のキスに 応[おう]じてくれました。
+  Sie erwiderte meinen Kuss.
+
+  その選手は観客の期待に応じて素晴らしいプレーを見せました。
+  その 選手[せんしゅ]は 観客[かんきゃく]の 期待[きたい]に 応[おう]じて 素晴[すば]らしいプレーを 見[み]せました。
+  Der Spieler zeigte als Antwort auf die Erwartungen des Publikums eine großartige Leistung.
+
+  親の希望に応じて医学部に進学しました。
+  親[おや]の 希望[きぼう]に 応[おう]じて 医学部[いがくぶ]に 進学[しんがく]しました。
+  Dem Wunsch meiner Eltern entsprechend, habe ich mich für ein Medizinstudium entschieden.
+
+  友人の頼みに応じて引っ越しを手伝いました。
+  友人[ゆうじん]の 頼[たの]みに 応[おう]じて 引っ越[ひっこ]しを 手伝[てつだ]いました。
+  Ich half meinem Freund beim Umzug, wie er mich darum gebeten hatte.
+
+  先生は生徒の相談に丁寧に応じています。
+  先生[せんせい]は 生徒[せいと]の 相談[そうだん]に 丁寧[ていねい]に 応[おう]じています。
+  Der Lehrer geht sorgfältig auf die Anliegen der Schüler ein.
+
+  歌手はアンコールに応じて追加の曲を歌いました。
+  歌手[かしゅ]はアンコールに 応[おう]じて 追加[ついか]の 曲[きょく]を 歌[うた]いました。
+  Der Sänger sang als Zugabe ein weiteres Lied.
+
+  彼女はインタビューに応じて自身の経験を語りました。
+  彼女[かのじょ]はインタビューに 応[おう]じて 自身[じしん]の 経験[けいけん]を 語[かた]りました。
+  Sie gab ein Interview und erzählte von ihren Erfahrungen.
+
+  私は友人の招待に応じてパーティーに参加しました。
+  私[わたし]は 友人[ゆうじん]の 招待[しょうたい]に 応[おう]じてパーティーに 参加[さんか]しました。
+  Ich nahm die Einladung meines Freundes an und ging zur Party.
+
+  彼女は彼のプロポーズに応じて結婚を承諾しました。
+  彼女[かのじょ]は 彼[かれ]のプロポーズに 応[おう]じて 結婚[けっこん]を 承諾[しょうだく]しました。
+  Sie nahm seinen Heiratsantrag an und willigte in die Ehe ein.
+
+  会社は労働組合の条件に応じて新しい契約を結びました。
+  会社[かいしゃ]は 労働組合[ろうどうくみあい]の 条件[じょうけん]に 応[おう]じて 新[あたら]しい 契約[けいやく]を 結[むす]びました。
+  Das Unternehmen ging auf die Bedingungen der Gewerkschaft ein und schloss einen neuen Vertrag ab.
+
+  能力に応じた仕事を与えることが重要です。
+  能力[のうりょく]に 応[おう]じた 仕事[しごと]を 与[あた]えることが 重要[じゅうよう]です。
+  Es ist wichtig, Aufgaben entsprechend den Fähigkeiten zu verteilen.
+
+  体力に応じた運動プログラムを作成しました。
+  体力[たいりょく]に 応[おう]じた 運動[うんどう]プログラムを 作成[さくせい]しました。
+  Ich habe ein Trainingsprogramm erstellt, das der körperlichen Fitness angemessen ist.
+
+  収入に応じた生活をすることが賢明です。
+  収入[しゅうにゅう]に 応[おう]じた 生活[せいかつ]をすることが 賢明[けんめい]です。
+  Es ist klug, einen dem Einkommen entsprechenden Lebensstil zu führen.
+
+  事情に応じて柔軟に対応することが大切です。
+  事情[じじょう]に 応[おう]じて 柔軟[じゅうなん]に 対応[たいおう]することが 大切[たいせつ]です。
+  Es ist wichtig, je nach Umständen flexibel zu reagieren.
+
+  季節に応じた料理を提供しています。
+  季節[きせつ]に 応[おう]じた 料理[りょうり]を 提供[ていきょう]しています。
+  Wir bieten saisonale Gerichte an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

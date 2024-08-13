@@ -2,14 +2,14 @@ Rang: 1143
 Lemma: 近付く
 Lesung: ちかずく
 Alternativschreibweisen: ''
-Definition: sich nähern, näher kommen
+Definition: sich nähern; näher kommen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: (.)^\.
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 近付かない・近付いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   今まさに春が近付いてきている。
   今[いま]まさに 春[はる]が 近付[ちかづ]いてきている。
   Jetzt nähert sich der Frühling.
+
+  危険が近づいているのに、彼は気づいていないようだ。
+  危険[きけん]が 近[ちか]づいているのに、彼[かれ]は 気[き]づいていないようだ。
+  Er scheint die herannahende Gefahr nicht zu bemerken.
+
+  冬が近づくにつれて、日が短くなってきた。
+  冬[ふゆ]が 近[ちか]づくにつれて、日[ひ]が 短[みじか]くなってきた。
+  Mit dem Herannahen des Winters werden die Tage kürzer.
+
+  一歩一歩と目標に近づいている感覚がうれしい。
+  一歩一歩[いっぽいっぽ]と 目標[もくひょう]に 近[ちか]づいている 感覚[かんかく]がうれしい。
+  Es ist ein gutes Gefühl, Schritt für Schritt dem Ziel näher zu kommen.
+
+  長年の研究の末、ついに解決に近づいてきた。
+  長年[ながねん]の 研究[けんきゅう]の 末[すえ]、ついに 解決[かいけつ]に 近[ちか]づいてきた。
+  Nach Jahren der Forschung sind wir endlich einer Lösung näher gekommen.
+
+  プロジェクトが完成に近づいて、みんなホッとしている。
+  プロジェクトが 完成[かんせい]に 近[ちか]づいて、みんなホッとしている。
+  Alle sind erleichtert, dass sich das Projekt der Vollendung nähert.
+
+  この映画も終わりに近づいてきたね。
+  この 映画[えいが]も 終[お]わりに 近[ちか]づいてきたね。
+  Der Film geht auch langsam dem Ende zu.
+
+  泥棒は忍び足で家に近づいてきた。
+  泥棒[どろぼう]は 忍[しの]び 足[あし]で 家[いえ]に 近[ちか]づいてきた。
+  Der Dieb schlich sich an das Haus heran.
+
+  彼女が近づいてくるのに気づいて、急いで髪を整えた。
+  彼女[かのじょ]が 近[ちか]づいてくるのに 気[き]づいて、急[いそ]いで 髪[かみ]を 整[ととの]えた。
+  Als ich bemerkte, dass sie sich näherte, brachte ich schnell meine Haare in Ordnung.
+
+  先生に近づこうとしたが、周りの生徒たちに遮られてしまった。
+  先生[せんせい]に 近[ちか]づこうとしたが、周[まわ]りの 生徒[せいと]たちに 遮[さえぎ]られてしまった。
+  Ich versuchte, mich dem Lehrer zu nähern, wurde aber von den umstehenden Schülern aufgehalten.
+
+  夕闇が近づくと、街灯が次々と点灯し始めた。
+  夕闇[ゆうやみ]が 近[ちか]づくと、街灯[がいとう]が 次々[つぎつぎ]と 点灯[てんとう]し 始[はじ]めた。
+  Als die Dämmerung nahte, begannen die Straßenlaternen nacheinander zu leuchten.
+
+  春が近づき、梅の花が咲き始めた。
+  春[はる]が 近[ちか]づき、梅[うめ]の 花[はな]が 咲[さ]き 始[はじ]めた。
+  Der Frühling naht, und die Pflaumenblüten beginnen zu blühen.
+
+  彼は人見知りで、なかなか人に近づきにくい性格だ。
+  彼[かれ]は 人見知[ひとみし]りで、なかなか 人[ひと]に 近[ちか]づきにくい 性格[せいかく]だ。
+  Er ist schüchtern und hat eine eher unzugängliche Persönlichkeit.
+
+  子供たちは近づきやすい雰囲気の先生が好きだ。
+  子供[こども]たちは 近[ちか]づきやすい 雰囲気[ふんいき]の 先生[せんせい]が 好[す]きだ。
+  Kinder mögen Lehrer mit einer zugänglichen Ausstrahlung.
+
+  彼女に近づく男性たちの下心が見え見えだった。
+  彼女[かのじょ]に 近[ちか]づく 男性[だんせい]たちの 下心[したごころ]が 見[み]え 見[み]えだった。
+  Die Hintergedanken der Männer, die sich ihr näherten, waren offensichtlich.
+
+  有名人に近づく人々の中には、利用しようとする者もいる。
+  有名人[ゆうめいじん]に 近[ちか]づく 人々[ひとびと]の 中[なか]には、利用[りよう]しようとする 者[もの]もいる。
+  Unter den Leuten, die sich Berühmtheiten nähern, gibt es auch solche, die sie ausnutzen wollen.
+
+  彼の演技は名人の域に近づいていると評価された。
+  彼[かれ]の 演技[えんぎ]は 名人[めいじん]の 域[いき]に 近[ちか]づいていると 評価[ひょうか]された。
+  Sein Schauspiel wurde als nahezu meisterhaft bewertet.
+
+  この複製品は本物にかなり近づいている。
+  この 複製品[ふくせいひん]は 本物[ほんもの]にかなり 近[ちか]づいている。
+  Diese Reproduktion kommt dem Original sehr nahe.
+
+  彼の作品は、ギリシャ彫刻の美の理想に近づいていると言われている。
+  彼[かれ]の 作品[さくひん]は、ギリシャ 彫刻[ちょうこく]の 美[び]の 理想[りそう]に 近[ちか]づいていると 言[い]われている。
+  Man sagt, seine Werke nähern sich dem Schönheitsideal der griechischen Skulpturen an.
+
+  台風が近づいているので、早めに帰宅することにした。
+  台風[たいふう]が 近[ちか]づいているので、早[はや]めに 帰宅[きたく]することにした。
+  Da sich ein Taifun nähert, habe ich beschlossen, früher nach Hause zu gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

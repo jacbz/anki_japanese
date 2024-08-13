@@ -1,8 +1,8 @@
 Rang: 3024
 Lemma: ただいま
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: gerade jetzt, sofort; Ich bin zurück!
+Alternativschreibweisen: 只今・唯今
+Definition: jetzt, gerade; Ich bin wieder da!
 Extra: '' # Nur bei suru-Verben
 Wortart: adv, interj
 Lesung mit Tonhöhe: .\..
@@ -16,11 +16,98 @@ Konjugation: ''
 Beispielsätze: |-
   ただいま参ります。
   ただいま 参[まい]ります。
-  Ich komme gerade jetzt.
+  Ich komme sofort.
+
+  只今から臨時ニュースをお伝えします。
+  ただいまから 臨時[りんじ]ニュースをお 伝[つた]えします。
+  Es folgt nun eine Sondermeldung.
+
+  只今留守にしております。
+  ただいま 留守[るす]にしております。
+  Ich bin momentan nicht zu erreichen.
+
+  只今上映中です。
+  ただいま 上映中[じょうえいちゅう]です。
+  Der Film läuft gerade.
+
+  生まれたのはいつだ？
+  生[う]まれたのはいつだ？
+  Wann bist du geboren?
+
+  十一年三か月と六日、八時間三十二分とただいまの瞬間に正確には十八秒前です。
+  十一年[じゅういちねん]三[さん]か 月[げつ]と 六日[むいか]、八時間[はちじかん]三十二分[さんじゅうにふん]とただいまの 瞬間[しゅんかん]に 正確[せいかく]には 十八秒前[じゅうはちびょうまえ]です。
+  Es war vor genau elf Jahren, drei Monaten, sechs Tagen, acht Stunden, zweiunddreißig Minuten und - in diesem Moment - achtzehn Sekunden.
+
+  左肺は全部とり、ただいま、右肺の上葉を切断中です。
+  左肺[さはい]は 全部[ぜんぶ]とり、ただいま、右肺[うはい]の 上葉[じょうよう]を 切断中[せつだんちゅう]です。
+  Die linke Lunge wurde vollständig entfernt, und jetzt wird der obere Lappen der rechten Lunge abgetrennt.
+
+  ただいま出かけたところです。
+  ただいま 出[で]かけたところです。
+  Er ist gerade eben gegangen.
+
+  只今出発した。
+  ただいま 出発[しゅっぱつ]した。
+  Der Zug ist soeben abgefahren.
+
+  実験の結果ですが、ただいま常盤さんの方へ御報告しておきました。
+  実験[じっけん]の 結果[けっか]ですが、ただいま 常盤[ときわ]さんの 方[ほう]へ 御報告[ごほうこく]しておきました。
+  Ich habe das Ergebnis des Experiments gerade eben Herrn Tokiwa mitgeteilt.
+
+  お祖父様、ただいま。
+  お 祖父様[じいさま]、ただいま。
+  Ich bin wieder da, Großvater!
+
+  ただいま帰りました。
+  ただいま 帰[かえ]りました。
+  Ich bin wieder zu Hause.
+
+  台所口へ入って来て、ただいまと言い終わるか終わらないうちに、土間にいたつや子が挨拶にこたえなかった。
+  台所口[だいどころぐち]へ 入[はい]って 来[き]て、ただいまと 言[い]い 終[お]わるか 終[お]わらないうちに、土間[どま]にいたつや 子[こ]が 挨拶[あいさつ]にこたえなかった。
+  Kaum war sie durch die Küchentür getreten und hatte "Ich bin wieder da" gesagt, als Tsuyako, die im Eingangsbereich stand, nicht auf den Gruß antwortete.
+
+  ただいまの所では結論が出ていません。
+  ただいまの 所[ところ]では 結論[けつろん]が 出[で]ていません。
+  Zum jetzigen Zeitpunkt liegt noch keine Schlussfolgerung vor.
+
+  ただいま外出しているので、電話に出られません。
+  ただいま 外出[がいしゅつ]しているので、電話[でんわ]に 出[で]られません。
+  Da ich gerade nicht zu Hause bin, kann ich nicht ans Telefon gehen.
+
+  ただいま申し上げた通りに行動してください。
+  ただいま 申[もう]し 上[あ]げた 通[とお]りに 行動[こうどう]してください。
+  Bitte handeln Sie so, wie ich es gerade erklärt habe.
+
+  ただいまより会議を始めます。
+  ただいまより 会議[かいぎ]を 始[はじ]めます。
+  Hiermit eröffne ich die Sitzung.
+
+  ただいまのところ特に問題はありません。
+  ただいまのところ 特[とく]に 問題[もんだい]はありません。
+  Zurzeit gibt es keine besonderen Probleme.
+
+  ただいま準備中です。しばらくお待ちください。
+  ただいま 準備中[じゅんびちゅう]です。しばらくお 待[ま]ちください。
+  Wir bereiten gerade alles vor. Bitte haben Sie noch einen Moment Geduld.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Als Adverb bedeutet ただいま "gerade jetzt", "in diesem Moment" oder "soeben". Es kann auch "jetzt gleich" oder "sofort" bedeuten.</p>
+  <div class="examples">
+    <div class="jp">ただいまから 会議[かいぎ]を 始[はじ]めます。</div>
+    <div class="de spoiler">Wir beginnen jetzt mit der Besprechung.</div>
+  </div>
+  <p>Als Interjektion wird es beim Nachhausekommen verwendet und bedeutet "Ich bin wieder da!" oder "Ich bin zurück!".</p>
+  <div class="examples">
+    <div class="jp">ただいま 帰[かえ]りました。</div>
+    <div class="de spoiler">Ich bin wieder zu Hause.</div>
+  </div>
+  <p>Es kann auch als höfliche Antwort auf eine Bitte oder einen Befehl verwendet werden, im Sinne von "Sofort!" oder "Wird gemacht!"</p>
+  <div class="examples">
+    <div class="jp">「お 茶[ちゃ]を 持[も]ってきてください。」「はい、ただいま。」</div>
+    <div class="de spoiler">"Bringen Sie bitte Tee." "Jawohl, sofort."</div>
+  </div>

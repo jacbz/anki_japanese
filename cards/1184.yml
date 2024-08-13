@@ -2,21 +2,97 @@ Rang: 1184
 Lemma: 伸びる
 Lesung: のびる
 Alternativschreibweisen: ''
-Definition: wachsen, sich strecken, sich ausdehnen
+Definition: wachsen; sich ausdehnen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '100'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 伸びない・伸びた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その会社の売り上げは伸びている。
   その 会社[かいしゃ]の 売[う]り 上[あ]げは 伸[の]びている。
-  Die Verkäufe des Unternehmens wachsen.
+  Die Umsätze dieser Firma wachsen.
+
+  髪の毛が伸びてきたから、散髪に行かなきゃ。
+  髪[かみ]の 毛[け]が 伸[の]びてきたから、散髪[さんぱつ]に 行[い]かなきゃ。
+  Meine Haare sind gewachsen, ich muss zum Friseur gehen.
+
+  子供の身長が急に伸びて、服が小さくなった。
+  子供[こども]の 身長[しんちょう]が 急[きゅう]に 伸[の]びて、服[ふく]が 小[ちい]さくなった。
+  Das Kind ist plötzlich gewachsen und die Kleidung ist zu klein geworden.
+
+  経済が伸びると、雇用も増える傾向にある。
+  経済[けいざい]が 伸[の]びると、雇用[こよう]も 増[ふ]える 傾向[けいこう]にある。
+  Wenn die Wirtschaft wächst, gibt es tendenziell auch mehr Arbeitsplätze.
+
+  彼の個性が伸びるよう、自由に表現させている。
+  彼[かれ]の 個性[こせい]が 伸[の]びるよう、自由[じゆう]に 表現[ひょうげん]させている。
+  Wir lassen ihn sich frei ausdrücken, damit sich seine Persönlichkeit entfalten kann.
+
+  ゴムのように伸びる生地で作られた服は、着心地がいい。
+  ゴムのように 伸[の]びる 生地[きじ]で 作[つく]られた 服[ふく]は、着心地[きごこち]がいい。
+  Kleidung aus dehnbarem Stoff wie Gummi ist angenehm zu tragen.
+
+  彼は背筋を伸ばして立っていた。
+  彼[かれ]は 背筋[せすじ]を 伸[の]ばして 立[た]っていた。
+  Er stand mit gestrecktem Rücken da.
+
+  成績が伸びて、クラスで一番になった。
+  成績[せいせき]が 伸[の]びて、クラスで 一番[いちばん]になった。
+  Meine Leistungen haben sich verbessert und ich bin Klassenbester geworden.
+
+  この道路は海岸線に沿って何キロも伸びている。
+  この 道路[どうろ]は 海岸線[かいがんせん]に 沿[そ]って 何[なん]キロも 伸[の]びている。
+  Diese Straße erstreckt sich kilometerweit entlang der Küstenlinie.
+
+  麺を茹ですぎると伸びてしまうよ。
+  麺[めん]を 茹[ゆ]ですぎると 伸[の]びてしまうよ。
+  Wenn du die Nudeln zu lange kochst, werden sie matschig.
+
+  暑さで伸びてしまって、何もする気が起きない。
+  暑[あつ]さで 伸[の]びてしまって、何[なに]もする 気[き]が 起[お]きない。
+  Ich bin von der Hitze so erschöpft, dass ich keine Lust habe, irgendetwas zu tun.
+
+  このチーズはよく伸びるから、ピザに最適だ。
+  このチーズはよく 伸[の]びるから、ピザに 最適[さいてき]だ。
+  Dieser Käse schmilzt gut, er ist perfekt für Pizza.
+
+  会議が予定より30分伸びてしまった。
+  会議[かいぎ]が 予定[よてい]より30分[ぷん] 伸[の]びてしまった。
+  Die Besprechung hat sich um 30 Minuten länger hingezogen als geplant.
+
+  日が伸びてきて、夕方まで明るくなってきた。
+  日[ひ]が 伸[の]びてきて、夕方[ゆうがた]まで 明[あか]るくなってきた。
+  Die Tage werden länger, es bleibt bis zum Abend hell.
+
+  締め切りが来週の月曜日まで伸びた。
+  締[し]め 切[き]りが 来週[らいしゅう]の 月曜日[げつようび]まで 伸[の]びた。
+  Die Frist wurde bis nächsten Montag verlängert.
+
+  アンテナを伸ばして、電波の受信を良くした。
+  アンテナを 伸[の]ばして、電波[でんぱ]の 受信[じゅしん]を 良[よ]くした。
+  Ich habe die Antenne ausgezogen, um den Empfang zu verbessern.
+
+  彼女は長い脚を伸ばしてソファーに座った。
+  彼女[かのじょ]は 長[なが]い 脚[あし]を 伸[の]ばしてソファーに 座[すわ]った。
+  Sie setzte sich auf das Sofa und streckte ihre langen Beine aus.
+
+  手を伸ばしても、棚の一番上には届かない。
+  手[て]を 伸[の]ばしても、棚[たな]の 一番上[いちばんうえ]には 届[とど]かない。
+  Selbst wenn ich meine Hand ausstrecke, erreiche ich nicht das oberste Regal.
+
+  運動不足で体が伸びない。ストレッチをしなきゃ。
+  運動不足[うんどうぶそく]で 体[からだ]が 伸[の]びない。ストレッチをしなきゃ。
+  Wegen Bewegungsmangels ist mein Körper steif. Ich muss mich dehnen.
+
+  彼の影響力は全国に伸びていった。
+  彼[かれ]の 影響力[えいきょうりょく]は 全国[ぜんこく]に 伸[の]びていった。
+  Sein Einfluss dehnte sich auf das ganze Land aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

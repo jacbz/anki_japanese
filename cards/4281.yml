@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. milk
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,106 @@ Beispielsätze: |-
   床にミルクをこぼした。
   床[ゆか]にミルクをこぼした。
   Ich habe Milch auf den Boden verschüttet.
+
+  床にミルクをこぼしてしまった。
+  床[ゆか]にミルクをこぼしてしまった。
+  Ich habe versehentlich Milch auf den Boden verschüttet.
+
+  ミルクバーで友達と待ち合わせをした。
+  ミルクバーで 友達[ともだち]と 待[ま]ち 合[あ]わせをした。
+  Ich habe mich mit Freunden in einer Milchbar verabredet.
+
+  ミルクチョコレートは甘くて美味しいです。
+  ミルクチョコレートは 甘[あま]くて 美味[おい]しいです。
+  Milchschokolade ist süß und lecker.
+
+  赤ちゃんにミルクフードを与えています。
+  赤[あか]ちゃんにミルクフードを 与[あた]えています。
+  Ich gebe dem Baby Milchnahrung.
+
+  コーヒーにミルクを入れて飲むのが好きです。
+  コーヒーにミルクを 入[い]れて 飲[の]むのが 好[す]きです。
+  Ich trinke meinen Kaffee gerne mit Milch.
+
+  ミルク色の壁紙を選びました。
+  ミルク 色[いろ]の 壁紙[かべがみ]を 選[えら]びました。
+  Ich habe eine milchfarbene Tapete ausgewählt.
+
+  ミルクキャラメルを食べながら映画を見た。
+  ミルクキャラメルを 食[た]べながら 映画[えいが]を 見[み]た。
+  Ich habe Milchkaramellen gegessen, während ich einen Film geschaut habe.
+
+  カフェでミルクコーヒーを注文しました。
+  カフェでミルクコーヒーを 注文[ちゅうもん]しました。
+  Ich habe in einem Café einen Milchkaffee bestellt.
+
+  ミルクパンで牛乳を温めています。
+  ミルクパンで 牛乳[ぎゅうにゅう]を 温[あたた]めています。
+  Ich erwärme Milch in einer Stielkasserolle.
+
+  ミルクポットに新鮮な牛乳を入れました。
+  ミルクポットに 新鮮[しんせん]な 牛乳[ぎゅうにゅう]を 入[い]れました。
+  Ich habe frische Milch in die Milchkanne gefüllt.
+
+  この町には大きなミルクプラントがあります。
+  この 町[まち]には 大[おお]きなミルクプラントがあります。
+  In dieser Stadt gibt es eine große Molkerei.
+
+  暑い日にはミルクセーキが最高だね。
+  暑[あつ]い 日[ひ]にはミルクセーキが 最高[さいこう]だね。
+  An heißen Tagen ist ein Milchshake einfach das Beste.
+
+  ミルクスタンドで冷たいミルクを飲んだ。
+  ミルクスタンドで 冷[つめ]たいミルクを 飲[の]んだ。
+  Ich habe an einem Milchstand kalte Milch getrunken.
+
+  アイスミルクは暑い夏の日にぴったりです。
+  アイスミルクは 暑[あつ]い 夏[なつ]の 日[ひ]にぴったりです。
+  Eismilch ist perfekt für heiße Sommertage.
+
+  バターミルクを使ってパンケーキを作りました。
+  バターミルクを 使[つか]ってパンケーキを 作[つく]りました。
+  Ich habe Pfannkuchen mit Buttermilch gemacht.
+
+  ドライミルクは長期保存ができて便利です。
+  ドライミルクは 長期[ちょうき] 保存[ほぞん]ができて 便利[べんり]です。
+  Trockenmilch ist praktisch, weil sie lange haltbar ist.
+
+  ホットミルクを飲むと、よく眠れます。
+  ホットミルクを 飲[の]むと、よく 眠[ねむ]れます。
+  Wenn ich heiße Milch trinke, kann ich gut schlafen.
+
+  苺ミルクはとても人気のある飲み物です。
+  苺[いちご]ミルクはとても 人気[にんき]のある 飲[の]み 物[もの]です。
+  Erdbeermilch ist ein sehr beliebtes Getränk.
+
+  ココナッツミルクを使ってカレーを作りました。
+  ココナッツミルクを 使[つか]ってカレーを 作[つく]りました。
+  Ich habe ein Curry mit Kokosmilch gekocht.
+
+  粉ミルクは赤ちゃんの栄養補給に使われます。
+  粉[こな]ミルクは 赤[あか]ちゃんの 栄養[えいよう] 補給[ほきゅう]に 使[つか]われます。
+  Milchpulver wird zur Ernährung von Babys verwendet.
+
+  スキムミルクは脂肪分が少なくてヘルシーです。
+  スキムミルクは 脂肪分[しぼうぶん]が 少[すく]なくてヘルシーです。
+  Magermilch ist fettarm und gesund.
+
+  ミルク入りのコーヒーを飲むのが朝の習慣です。
+  ミルク 入[い]りのコーヒーを 飲[の]むのが 朝[あさ]の 習慣[しゅうかん]です。
+  Kaffee mit Milch zu trinken ist meine Morgenroutine.
+
+  砂糖とミルクを入れた紅茶が好きです。
+  砂糖[さとう]とミルクを 入[い]れた 紅茶[こうちゃ]が 好[す]きです。
+  Ich mag Tee mit Milch und Zucker.
+
+  ウェイターがミルクの壺と一緒に伝票を持ってきた。
+  ウェイターがミルクの 壺[つぼ]と 一緒[いっしょ]に 伝票[でんぴょう]を 持[も]ってきた。
+  Der Kellner brachte das Milchkännchen zusammen mit der Rechnung.
+
+  コンデンスミルクを使ってデザートを作ります。
+  コンデンスミルクを 使[つか]ってデザートを 作[つく]ります。
+  Ich mache ein Dessert mit Kondensmilch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

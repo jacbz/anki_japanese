@@ -2,9 +2,9 @@ Rang: 1202
 Lemma: 積極的
 Lesung: せっきょくてき
 Alternativschreibweisen: ''
-Definition: aktiv, positiv, aggressiv
+Definition: aktiv, proaktiv, positiv
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: na-adj
 Lesung mit Tonhöhe: .^^^^^^
 Register: ''
 Dispersion: '71'
@@ -15,8 +15,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このクラスでは積極的な参加が求められます。
-  このクラスでは 積極的[せっきょくてき]な 参加[さんか]が 求[もと]められます。
-  Deine aktive Teilnahme ist in diesem Kurs erforderlich.
+  この クラス[くらす]では 積極的[せっきょくてき]な 参加[さんか]が 求[もと]められます。
+  In diesem Kurs wird eine aktive Teilnahme erwartet.
+
+  彼女は常に積極的な態度で仕事に取り組んでいます。
+  彼女[かのじょ]は 常[つね]に 積極的[せっきょくてき]な 態度[たいど]で 仕事[しごと]に 取[と]り 組[く]んでいます。
+  Sie geht ihre Arbeit stets mit einer proaktiven Einstellung an.
+
+  積極的な営業活動により、売上が大幅に伸びました。
+  積極的[せっきょくてき]な 営業活動[えいぎょうかつどう]により、売上[うりあげ]が 大幅[おおはば]に 伸[の]びました。
+  Durch aktive Vertriebsaktivitäten ist der Umsatz deutlich gestiegen.
+
+  子供の教育に積極的に関わることが大切です。
+  子供[こども]の 教育[きょういく]に 積極的[せっきょくてき]に 関[かか]わることが 大切[たいせつ]です。
+  Es ist wichtig, sich aktiv an der Erziehung der Kinder zu beteiligen.
+
+  彼は積極的に新しいアイデアを提案しています。
+  彼[かれ]は 積極的[せっきょくてき]に 新[あたら]しいアイデアを 提案[ていあん]しています。
+  Er schlägt proaktiv neue Ideen vor.
+
+  積極的な姿勢で困難に立ち向かう必要があります。
+  積極的[せっきょくてき]な 姿勢[しせい]で 困難[こんなん]に 立[た]ち 向[む]かう 必要[ひつよう]があります。
+  Wir müssen Schwierigkeiten mit einer positiven Einstellung begegnen.
+
+  彼らは環境保護に積極的な役割を果たしています。
+  彼[かれ]らは 環境保護[かんきょうほご]に 積極的[せっきょくてき]な 役割[やくわり]を 果[は]たしています。
+  Sie spielen eine aktive Rolle beim Umweltschutz.
+
+  積極的な投資戦略を採用することで、利益を最大化しました。
+  積極的[せっきょくてき]な 投資[とうし]戦略[せんりゃく]を 採用[さいよう]することで、利益[りえき]を 最大化[さいだいか]しました。
+  Durch die Anwendung einer aggressiven Anlagestrategie haben wir den Gewinn maximiert.
+
+  積極的に質問することで、理解を深めることができます。
+  積極的[せっきょくてき]に 質問[しつもん]することで、理解[りかい]を 深[ふか]めることができます。
+  Durch aktives Fragen können Sie Ihr Verständnis vertiefen.
+
+  彼女は積極的に新しい技術を学ぼうとしています。
+  彼女[かのじょ]は 積極的[せっきょくてき]に 新[あたら]しい 技術[ぎじゅつ]を 学[まな]ぼうとしています。
+  Sie ist bestrebt, proaktiv neue Technologien zu erlernen.
+
+  積極的な態度で面接に臨むことが重要です。
+  積極的[せっきょくてき]な 態度[たいど]で 面接[めんせつ]に 臨[のぞ]むことが 重要[じゅうよう]です。
+  Es ist wichtig, mit einer positiven Einstellung zum Vorstellungsgespräch zu gehen.
+
+  市民の積極的な参加なしには、この問題は解決できません。
+  市民[しみん]の 積極的[せっきょくてき]な 参加[さんか]なしには、この 問題[もんだい]は 解決[かいけつ]できません。
+  Ohne die aktive Beteiligung der Bürger kann dieses Problem nicht gelöst werden.
+
+  彼は常に積極的に自分の意見を表明します。
+  彼[かれ]は 常[つね]に 積極的[せっきょくてき]に 自分[じぶん]の 意見[いけん]を 表明[ひょうめい]します。
+  Er äußert immer proaktiv seine Meinung.
+
+  積極的な姿勢で仕事に取り組むことが評価されました。
+  積極的[せっきょくてき]な 姿勢[しせい]で 仕事[しごと]に 取[と]り 組[く]むことが 評価[ひょうか]されました。
+  Seine proaktive Herangehensweise an die Arbeit wurde positiv bewertet.
+
+  彼女は積極的に新しい友達を作ろうとしています。
+  彼女[かのじょ]は 積極的[せっきょくてき]に 新[あたら]しい 友達[ともだち]を 作[つく]ろうとしています。
+  Sie versucht aktiv, neue Freunde zu gewinnen.
+
+  積極的な広報活動により、企業のイメージが向上しました。
+  積極的[せっきょくてき]な 広報活動[こうほうかつどう]により、企業[きぎょう]のイメージが 向上[こうじょう]しました。
+  Durch proaktive PR-Aktivitäten hat sich das Image des Unternehmens verbessert.
+
+  積極的に健康管理に取り組むことで、病気のリスクを減らせます。
+  積極的[せっきょくてき]に 健康管理[けんこうかんり]に 取[と]り 組[く]むことで、病気[びょうき]のリスクを 減[へ]らせます。
+  Durch aktives Gesundheitsmanagement können Sie das Krankheitsrisiko reduzieren.
+
+  彼らは積極的な平和主義の立場を取っています。
+  彼[かれ]らは 積極的[せっきょくてき]な 平和主義[へいわしゅぎ]の 立場[たちば]を 取[と]っています。
+  Sie vertreten einen proaktiven Pazifismus.
+
+  積極的に海外市場に進出することで、事業を拡大しました。
+  積極的[せっきょくてき]に 海外市場[かいがいしじょう]に 進出[しんしゅつ]することで、事業[じぎょう]を 拡大[かくだい]しました。
+  Durch aktive Expansion in ausländische Märkte haben wir unser Geschäft erweitert.
+
+  彼女は積極的に自己啓発に取り組んでいます。
+  彼女[かのじょ]は 積極的[せっきょくてき]に 自己啓発[じこけいはつ]に 取[と]り 組[く]んでいます。
+  Sie engagiert sich aktiv für ihre persönliche Entwicklung.
+
+  教授が学生に積極的な議論への参加を促しています。
+  教授[きょうじゅ]が 学生[がくせい]に 積極的[せっきょくてき]な 議論[ぎろん]への 参加[さんか]を 促[うなが]しています。
+  Der Professor ermutigt die Studenten zur aktiven Teilnahme an Diskussionen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

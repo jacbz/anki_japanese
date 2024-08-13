@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '94'
-Ursprung: ''
+Ursprung: engl. data
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   データを集めるために実験を行った。
   データを 集[あつ]めるために 実験[じっけん]を 行[おこな]った。
-  Wir haben ein Experiment durchgeführt, um die Daten zu sammeln.
+  Um Daten zu sammeln, führten wir ein Experiment durch.
+
+  データ圧縮の技術が進歩し、ストレージ容量を節約できるようになった。
+  データ 圧縮[あっしゅく]の 技術[ぎじゅつ]が 進歩[しんぽ]し、ストレージ 容量[ようりょう]を 節約[せつやく]できるようになった。
+  Die Technologie der Datenkomprimierung hat sich verbessert, sodass wir nun Speicherplatz sparen können.
+
+  新しいデータバンクを構築して、情報管理を効率化しました。
+  新[あたら]しいデータバンクを 構築[こうちく]して、情報[じょうほう] 管理[かんり]を 効率化[こうりつか]しました。
+  Wir haben eine neue Datenbank aufgebaut, um die Informationsverwaltung effizienter zu gestalten.
+
+  データ分析の結果、興味深い傾向が明らかになりました。
+  データ 分析[ぶんせき]の 結果[けっか]、興味深[きょうみぶか]い 傾向[けいこう]が 明[あき]らかになりました。
+  Die Datenanalyse hat interessante Trends aufgedeckt.
+
+  安全なデータエクスチェンジのためにセキュリティ対策を強化しています。
+  安全[あんぜん]なデータエクスチェンジのためにセキュリティ 対策[たいさく]を 強化[きょうか]しています。
+  Wir verstärken unsere Sicherheitsmaßnahmen für einen sicheren Datenaustausch.
+
+  このデータファイルは暗号化されているので、簡単には開けません。
+  このデータファイルは 暗号化[あんごうか]されているので、簡単[かんたん]には 開[あ]けません。
+  Diese Datei ist verschlüsselt und kann nicht einfach geöffnet werden.
+
+  データ保護法を遵守することは企業の責任です。
+  データ 保護[ほご]法[ほう]を 遵守[じゅんしゅ]することは 企業[きぎょう]の 責任[せきにん]です。
+  Es liegt in der Verantwortung der Unternehmen, die Datenschutzgesetze einzuhalten.
+
+  新しいデータ形式に対応するためにソフトウェアをアップデートしました。
+  新[あたら]しいデータ 形式[けいしき]に 対応[たいおう]するためにソフトウェアをアップデートしました。
+  Wir haben unsere Software aktualisiert, um das neue Datenformat zu unterstützen.
+
+  データ濫用を防ぐために、厳格なガイドラインを設けています。
+  データ 濫用[らんよう]を 防[ふせ]ぐために、厳格[げんかく]なガイドラインを 設[もう]けています。
+  Wir haben strenge Richtlinien eingeführt, um Datenmissbrauch zu verhindern.
+
+  データ整理の過程で、不要な情報を削除しました。
+  データ 整理[せいり]の 過程[かてい]で、不要[ふよう]な 情報[じょうほう]を 削除[さくじょ]しました。
+  Während der Datenbereinigung haben wir überflüssige Informationen gelöscht.
+
+  このデータセットには個人情報が含まれているので、慎重に扱ってください。
+  このデータセットには 個人[こじん] 情報[じょうほう]が 含[ふく]まれているので、慎重[しんちょう]に 扱[あつか]ってください。
+  Dieser Datensatz enthält persönliche Informationen, also behandeln Sie ihn bitte vorsichtig.
+
+  高度なデータ処理システムを導入し、業務効率が大幅に向上しました。
+  高度[こうど]なデータ 処理[しょり]システムを 導入[どうにゅう]し、業務[ぎょうむ] 効率[こうりつ]が 大幅[おおはば]に 向上[こうじょう]しました。
+  Durch die Einführung eines fortschrittlichen Datenverarbeitungssystems hat sich unsere Arbeitseffizienz erheblich verbessert.
+
+  データ収集の方法について、チーム内で議論しています。
+  データ 収集[しゅうしゅう]の 方法[ほうほう]について、チーム 内[ない]で 議論[ぎろん]しています。
+  Wir diskutieren im Team über Methoden zur Datenerfassung.
+
+  新しい光ファイバー網により、データ転送率が大幅に向上しました。
+  新[あたら]しい 光[ひかり]ファイバー 網[もう]により、データ 転送[てんそう]率[りつ]が 大幅[おおはば]に 向上[こうじょう]しました。
+  Mit dem neuen Glasfasernetz hat sich die Datenübertragungsrate erheblich verbessert.
+
+  安全なデータ通信を確保するために、暗号化技術を使用しています。
+  安全[あんぜん]なデータ 通信[つうしん]を 確保[かくほ]するために、暗号化[あんごうか] 技術[ぎじゅつ]を 使用[しよう]しています。
+  Wir verwenden Verschlüsselungstechnologie, um sichere Datenübertragung zu gewährleisten.
+
+  実験データの信頼性を確保するために、複数回の測定を行いました。
+  実験[じっけん]データの 信頼性[しんらいせい]を 確保[かくほ]するために、複数[ふくすう]回[かい]の 測定[そくてい]を 行[おこな]いました。
+  Um die Zuverlässigkeit der experimentellen Daten sicherzustellen, führten wir mehrere Messungen durch.
+
+  我々はデータを守り、彼らはデータを盗む。古典的な警官と泥棒のパターンだ。
+  我々[われわれ]はデータを 守[まも]り、彼[かれ]らはデータを 盗[ぬす]む。古典的[こてんてき]な 警官[けいかん]と 泥棒[どろぼう]のパターンだ。
+  Wir schützen Daten, sie entwenden sie. Das klassische Räuber-und-Gendarm-Spiel.
+
+  このデータは機密情報なので、外部に漏らさないでください。
+  このデータは 機密[きみつ] 情報[じょうほう]なので、外部[がいぶ]に 漏[も]らさないでください。
+  Diese Daten sind vertraulich, also geben Sie sie bitte nicht nach außen weiter.
+
+  データの正確性を確保するために、定期的なチェックを行っています。
+  データの 正確性[せいかくせい]を 確保[かくほ]するために、定期的[ていきてき]なチェックを 行[おこな]っています。
+  Um die Genauigkeit der Daten sicherzustellen, führen wir regelmäßige Überprüfungen durch.
+
+  大量のデータを効率的に処理するために、クラウドコンピューティングを活用しています。
+  大量[たいりょう]のデータを 効率的[こうりつてき]に 処理[しょり]するために、クラウドコンピューティングを 活用[かつよう]しています。
+  Wir nutzen Cloud Computing, um große Datenmengen effizient zu verarbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

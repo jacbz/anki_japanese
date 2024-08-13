@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: (.)\..
 Register: ''
 Dispersion: '87'
-Ursprung: ''
+Ursprung: engl. stress
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -17,6 +17,86 @@ Beispielsätze: |-
   どうやってストレスを解消していますか。
   どうやってストレスを 解消[かいしょう]していますか。
   Wie reduzieren Sie Ihren Stress?
+
+  ストレス防止のために、定期的に運動をしています。
+  ストレス 防止[ぼうし]のために、定期的[ていきてき]に 運動[うんどう]をしています。
+  Um Stress vorzubeugen, treibe ich regelmäßig Sport.
+
+  ストレス解消には、趣味の時間を持つことが効果的です。
+  ストレス 解消[かいしょう]には、趣味[しゅみ]の 時間[じかん]を 持[も]つことが 効果的[こうかてき]です。
+  Für den Stressabbau ist es effektiv, Zeit für Hobbys einzuplanen.
+
+  効果的なストレス管理方法を学ぶセミナーに参加しました。
+  効果的[こうかてき]なストレス 管理[かんり] 方法[ほうほう]を 学[まな]ぶセミナーに 参加[さんか]しました。
+  Ich habe an einem Seminar teilgenommen, um effektive Methoden zur Stressbewältigung zu erlernen.
+
+  仕事のストレスレベルが高すぎて、休暇が必要だと感じています。
+  仕事[しごと]のストレスレベルが 高[たか]すぎて、休暇[きゅうか]が 必要[ひつよう]だと 感[かん]じています。
+  Mein Stresslevel bei der Arbeit ist so hoch, dass ich das Gefühl habe, Urlaub zu brauchen.
+
+  主なストレス作因を特定し、それに対処する方法を見つけましょう。
+  主[おも]なストレス 作因[さいん]を 特定[とくてい]し、それに 対処[たいしょ]する 方法[ほうほう]を 見[み]つけましょう。
+  Lass uns die Hauptstressfaktoren identifizieren und Wege finden, damit umzugehen.
+
+  会社でストレス対策セミナーが開催されることになりました。
+  会社[かいしゃ]でストレス 対策[たいさく]セミナーが 開催[かいさい]されることになりました。
+  In unserer Firma wird ein Seminar zu Anti-Stress-Maßnahmen veranstaltet.
+
+  最近は仕事が楽しくて、ストレスがないんだ。
+  最近[さいきん]は 仕事[しごと]が 楽[たの]しくて、ストレスがないんだ。
+  In letzter Zeit macht mir die Arbeit Spaß, und ich habe keinen Stress.
+
+  彼女はストレスが多い仕事を辞めて、転職しました。
+  彼女[かのじょ]はストレスが 多[おお]い 仕事[しごと]を 辞[や]めて、転職[てんしょく]しました。
+  Sie hat ihren stressigen Job gekündigt und eine neue Stelle angenommen.
+
+  長期的なストレスが続くと、健康に悪影響を及ぼす可能性があります。
+  長期的[ちょうきてき]なストレスが 続[つづ]くと、健康[けんこう]に 悪影響[あくえいきょう]を 及[およ]ぼす 可能性[かのうせい]があります。
+  Langanhaltender Stress kann möglicherweise negative Auswirkungen auf die Gesundheit haben.
+
+  仕事上のストレスを家族に当たり散らしてしまった。
+  仕事上[しごとじょう]のストレスを 家族[かぞく]に 当[あ]たり 散[ち]らしてしまった。
+  Ich habe meinen beruflichen Stress an meiner Familie ausgelassen.
+
+  精神的なストレスは体の不調にもつながることがあります。
+  精神的[せいしんてき]なストレスは 体[からだ]の 不調[ふちょう]にもつながることがあります。
+  Psychischer Stress kann auch zu körperlichen Beschwerden führen.
+
+  慢性のストレスは免疫システムに悪影響を与える可能性があります。
+  慢性[まんせい]のストレスは 免疫[めんえき]システムに 悪影響[あくえいきょう]を 与[あた]える 可能性[かのうせい]があります。
+  Chronischer Stress kann möglicherweise das Immunsystem negativ beeinflussen.
+
+  ストレスによる高血圧を防ぐために、定期的な運動を始めました。
+  ストレスによる 高血圧[こうけつあつ]を 防[ふせ]ぐために、定期的[ていきてき]な 運動[うんどう]を 始[はじ]めました。
+  Um stressbedingten Bluthochdruck zu verhindern, habe ich mit regelmäßigem Sport begonnen.
+
+  最近のストレスが胃に来て、胃痛に悩まされています。
+  最近[さいきん]のストレスが 胃[い]に 来[き]て、胃痛[いつう]に 悩[なや]まされています。
+  Der Stress in letzter Zeit schlägt mir auf den Magen, und ich leide unter Magenschmerzen.
+
+  上司が部下にストレスをかけすぎて、職場の雰囲気が悪くなっている。
+  上司[じょうし]が 部下[ぶか]にストレスをかけすぎて、職場[しょくば]の 雰囲気[ふんいき]が 悪[わる]くなっている。
+  Der Chef setzt seine Mitarbeiter zu sehr unter Druck, wodurch sich die Arbeitsatmosphäre verschlechtert hat.
+
+  試験前はストレスを感じるのが普通だけど、あまり気にしないようにしています。
+  試験前[しけんまえ]はストレスを 感[かん]じるのが 普通[ふつう]だけど、あまり 気[き]にしないようにしています。
+  Es ist normal, vor einer Prüfung Stress zu empfinden, aber ich versuche, mich davon nicht zu sehr beeinflussen zu lassen.
+
+  新しい仕事ではかなりのストレスを受けていますが、徐々に慣れてきました。
+  新[あたら]しい 仕事[しごと]ではかなりのストレスを 受[う]けていますが、徐々[じょじょ]に 慣[な]れてきました。
+  In meinem neuen Job stehe ich unter ziemlichem Druck, aber ich gewöhne mich langsam daran.
+
+  ストレスを減らすために、仕事の優先順位を見直しました。
+  ストレスを 減[へ]らすために、仕事[しごと]の 優先順位[ゆうせんじゅんい]を 見直[みなお]しました。
+  Um meinen Stress zu reduzieren, habe ich die Prioritäten meiner Arbeit überdacht.
+
+  週末にスポーツをすることで、ストレスを解消しています。
+  週末[しゅうまつ]にスポーツをすることで、ストレスを 解消[かいしょう]しています。
+  Ich baue Stress ab, indem ich am Wochenende Sport treibe.
+
+  ストレスの発散方法として、友達とカラオケに行くのが好きです。
+  ストレスの 発散[はっさん] 方法[ほうほう]として、友達[ともだち]とカラオケに 行[い]くのが 好[す]きです。
+  Als Methode zum Stressabbau gehe ich gerne mit Freunden Karaoke singen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
