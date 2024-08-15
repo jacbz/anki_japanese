@@ -1,13 +1,12 @@
 Rang: 553
 Lemma: 目的
 Lesung: もくてき
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: Zweck
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '88'
 Ursprung: ''
 Konjugation: ''
 
@@ -168,7 +167,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

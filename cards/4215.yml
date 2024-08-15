@@ -1,13 +1,12 @@
 Rang: 4215
 Lemma: 乗り換える
 Lesung: のりかえる
-Alternativschreibweisen: 乗換える、乗替える
+Tonhöhen: .^^\.
 Definition: umsteigen
+Alternativschreibweisen: 乗換える、乗替える
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^^\.
 Register: ''
-Dispersion: '87'
 Ursprung: ''
 Konjugation: 乗り換えない・乗り換えた
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

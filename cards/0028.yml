@@ -1,13 +1,12 @@
 Rang: 28
 Lemma: なる
 Lesung: ''
-Alternativschreibweisen: 成る・為る
+Tonhöhen: \.
 Definition: werden
+Alternativschreibweisen: 成る・為る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
-Lesung mit Tonhöhe: \.
 Register: ''
-Dispersion: '99'
 Ursprung: ''
 Konjugation: ならない・なった
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 90
 Lemma: ええと
 Lesung: ええと
-Alternativschreibweisen: えーと
+Tonhöhen: .^^
 Definition: ähm, nun ja
+Alternativschreibweisen: えーと
 Extra: '' # Nur bei suru-Verben
 Wortart: interj
-Lesung mit Tonhöhe: .^^
 Register: ↗Gesprochen
-Dispersion: '1'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

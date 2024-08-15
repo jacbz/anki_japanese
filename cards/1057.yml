@@ -1,13 +1,12 @@
 Rang: 1057
 Lemma: 勧める
 Lesung: すすめる
-Alternativschreibweisen: 奨める・薦める
+Tonhöhen: .^^^
 Definition: empfehlen; anbieten
+Alternativschreibweisen: 奨める・薦める
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '91'
 Ursprung: ''
 Konjugation: 勧めない・勧めた
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

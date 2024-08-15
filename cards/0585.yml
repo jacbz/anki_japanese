@@ -1,13 +1,12 @@
 Rang: 585
 Lemma: 使用
 Lesung: しよう
-Alternativschreibweisen: ''
+Tonhöhen: .^^
 Definition: Gebrauch, Verwendung
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^
 Register: ''
-Dispersion: '94'
 Ursprung: ''
 Konjugation: 使用しない・使用した
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

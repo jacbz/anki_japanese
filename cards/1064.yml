@@ -1,13 +1,12 @@
 Rang: 1064
 Lemma: 落とす
 Lesung: おとす
-Alternativschreibweisen: 貶す、墜す
+Tonhöhen: .\.
 Definition: fallen lassen, verlieren, ablehnen
+Alternativschreibweisen: 貶す、墜す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '93'
 Ursprung: ''
 Konjugation: 落とさない・落とした
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 238
 Lemma: 大変
 Lesung: たいへん
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: sehr; schwierig; ernst
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, na-adj, adv
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '91'
 Ursprung: ''
 Konjugation: ''
 
@@ -108,7 +107,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

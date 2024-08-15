@@ -1,13 +1,12 @@
 Rang: 1049
 Lemma: 寂しい
 Lesung: さびしい
-Alternativschreibweisen: 淋しい
+Tonhöhen: .^\.
 Definition: einsam
+Alternativschreibweisen: 淋しい
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
-Lesung mit Tonhöhe: .^\.
 Register: ''
-Dispersion: '78'
 Ursprung: ''
 Konjugation: 寂しくない・寂しかった
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

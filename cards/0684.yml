@@ -1,13 +1,12 @@
 Rang: 684
 Lemma: おる
 Lesung: ''
-Alternativschreibweisen: 居る
+Tonhöhen: \.
 Definition: sein, existieren [bescheiden]
+Alternativschreibweisen: 居る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
-Lesung mit Tonhöhe: \.
 Register: ''
-Dispersion: '93'
 Ursprung: ''
 Konjugation: おらない・おった
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: Gilt bei Aussagen mit Bezug auf eine neutrale dritte Person als leicht veraltet

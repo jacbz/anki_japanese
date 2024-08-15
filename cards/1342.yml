@@ -1,13 +1,12 @@
 Rang: 1342
 Lemma: にしても
 Lesung: ''
-Alternativschreibweisen: ''
+Tonhöhen: ''
 Definition: selbst wenn; wie auch immer
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
-Lesung mit Tonhöhe: ''
 Register: ''
-Dispersion: '84'
 Ursprung: ''
 Konjugation: ''
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

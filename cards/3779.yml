@@ -1,13 +1,12 @@
 Rang: 3779
 Lemma: 早く
 Lesung: はやく
-Alternativschreibweisen: 速く・疾く・捷く
+Tonhöhen: \..
 Definition: früh; schnell
+Alternativschreibweisen: 速く・疾く・捷く
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
-Lesung mit Tonhöhe: \..
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: ''
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

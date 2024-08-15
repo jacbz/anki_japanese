@@ -1,13 +1,12 @@
 Rang: 1425
 Lemma: 弾く
 Lesung: ひく
-Alternativschreibweisen: ''
+Tonhöhen: .^
 Definition: '[ein Instrument] spielen'
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^
 Register: ''
-Dispersion: '75'
 Ursprung: ''
 Konjugation: 弾かない・弾いた
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

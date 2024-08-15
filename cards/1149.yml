@@ -1,13 +1,12 @@
 Rang: 1149
 Lemma: 伸ばす
 Lesung: のばす
-Alternativschreibweisen: 延ばす
+Tonhöhen: .\.
 Definition: verlängern; strecken; ausdehnen
+Alternativschreibweisen: 延ばす
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: 伸ばさない・伸ばした
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

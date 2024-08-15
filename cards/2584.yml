@@ -1,13 +1,12 @@
 Rang: 2584
 Lemma: 進化
 Lesung: しんか
-Alternativschreibweisen: ''
+Tonhöhen: \..
 Definition: Evolution; entwickeln
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
-Lesung mit Tonhöhe: \..
 Register: ''
-Dispersion: '94'
 Ursprung: ''
 Konjugation: ''
 
@@ -20,7 +19,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

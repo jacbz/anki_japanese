@@ -1,13 +1,12 @@
 Rang: 854
 Lemma: 設定
 Lesung: せってい
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: Einrichtung; festlegen
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '95'
 Ursprung: ''
 Konjugation: 設定しない・設定した
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

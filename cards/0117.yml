@@ -1,13 +1,12 @@
 Rang: 117
 Lemma: ながら
 Lesung: ''
-Alternativschreibweisen: 乍ら
+Tonhöhen: ''
 Definition: während; obwohl; wie
+Alternativschreibweisen: 乍ら
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
-Lesung mit Tonhöhe: ''
 Register: ↗Bücher
-Dispersion: '98'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 952
 Lemma: 選択
 Lesung: せんたく
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: (aus-)wählen; Wahl
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: 選択しない・選択した
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

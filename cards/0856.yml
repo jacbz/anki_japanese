@@ -1,13 +1,12 @@
 Rang: 856
 Lemma: 目指す
 Lesung: めざす
-Alternativschreibweisen: 目差す
+Tonhöhen: .\.
 Definition: anvisieren, anstreben
+Alternativschreibweisen: 目差す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '87'
 Ursprung: ''
 Konjugation: 目指さない・目指した
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

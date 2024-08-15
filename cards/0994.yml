@@ -1,13 +1,12 @@
 Rang: 994
 Lemma: 作成
 Lesung: さくせい
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: erstellen, verfassen
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '78'
 Ursprung: ''
 Konjugation: 作成しない・作成した
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

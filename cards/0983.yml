@@ -1,13 +1,12 @@
 Rang: 983
 Lemma: 検討
 Lesung: けんとう
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: erwägen, prüfen
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '61'
 Ursprung: ''
 Konjugation: 検討しない・検討した
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

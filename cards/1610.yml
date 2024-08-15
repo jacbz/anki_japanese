@@ -1,13 +1,12 @@
 Rang: 1610
 Lemma: マンガ
 Lesung: まんが
-Alternativschreibweisen: ''
+Tonhöhen: .^^
 Definition: Comics, Cartoon
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
-Lesung mit Tonhöhe: .^^
 Register: ''
-Dispersion: '83'
 Ursprung: ''
 Konjugation: ''
 
@@ -20,7 +19,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

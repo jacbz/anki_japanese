@@ -1,13 +1,12 @@
 Rang: 1171
 Lemma: とともに
 Lesung: ''
-Alternativschreibweisen: 共に
+Tonhöhen: ''
 Definition: zusammen (mit); gleichzeitig
+Alternativschreibweisen: 共に
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
-Lesung mit Tonhöhe: ''
 Register: ↗Verwaltungssprache
-Dispersion: '33'
 Ursprung: ''
 Konjugation: ''
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

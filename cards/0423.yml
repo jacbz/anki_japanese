@@ -1,13 +1,12 @@
 Rang: 423
 Lemma: 存在
 Lesung: そんざい
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: Existenz
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
-Lesung mit Tonhöhe: .^^^
 Register: ↗</>Bücher
-Dispersion: '93'
 Ursprung: ''
 Konjugation: 存在しない・存在した
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

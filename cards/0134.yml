@@ -1,13 +1,12 @@
 Rang: 134
 Lemma: 知る
 Lesung: しる
-Alternativschreibweisen: 識る
+Tonhöhen: .^
 Definition: wissen
+Alternativschreibweisen: 識る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^
 Register: ''
-Dispersion: '94'
 Ursprung: ''
 Konjugation: 知らない・知った
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

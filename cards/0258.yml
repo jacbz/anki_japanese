@@ -1,13 +1,12 @@
 Rang: 258
 Lemma: いい
 Lesung: ''
-Alternativschreibweisen: 良い・善い・好い
+Tonhöhen: \.
 Definition: gut
+Alternativschreibweisen: 良い・善い・好い
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
-Lesung mit Tonhöhe: \.
 Register: ↗Gesprochen
-Dispersion: '1'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: Umgangssprachlich für よい (#70).

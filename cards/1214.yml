@@ -1,13 +1,12 @@
 Rang: 1214
 Lemma: 固い
 Lesung: かたい
-Alternativschreibweisen: 堅い・硬い
+Tonhöhen: .^^
 Definition: hart, fest; steif
+Alternativschreibweisen: 堅い・硬い
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
-Lesung mit Tonhöhe: .^^
 Register: ''
-Dispersion: '94'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-

@@ -1,13 +1,12 @@
 Rang: 930
 Lemma: 八
 Lesung: はち
-Alternativschreibweisen: ''
+Tonhöhen: .\
 Definition: acht
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: num
-Lesung mit Tonhöhe: .\
 Register: ''
-Dispersion: '89'
 Ursprung: ''
 Konjugation: ''
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: <span class="Nihongo">捌</span> wird in rechtsverbindlichen Dokumenten u.ä.

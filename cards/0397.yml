@@ -1,13 +1,12 @@
 Rang: 397
 Lemma: 若い
 Lesung: わかい
-Alternativschreibweisen: 稚い
+Tonhöhen: .\.
 Definition: jung
+Alternativschreibweisen: 稚い
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '92'
 Ursprung: ''
 Konjugation: 若くない・若かった
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

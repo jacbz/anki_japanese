@@ -1,13 +1,12 @@
 Rang: 1073
 Lemma: 参る
 Lesung: まいる
-Alternativschreibweisen: ''
+Tonhöhen: \..
 Definition: kommen; besuchen; fertig sein; aufgeben
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
-Lesung mit Tonhöhe: \..
 Register: ↗Verwaltungssprache
-Dispersion: '52'
 Ursprung: ''
 Konjugation: 参らない・参った
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-

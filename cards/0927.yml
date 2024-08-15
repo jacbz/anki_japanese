@@ -1,13 +1,12 @@
 Rang: 927
 Lemma: 許す
 Lesung: ゆるす
-Alternativschreibweisen: 赦す・聴す・免す・恕す
+Tonhöhen: .\.
 Definition: erlauben, verzeihen
+Alternativschreibweisen: 赦す・聴す・免す・恕す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: 許さない・許した
 
@@ -112,7 +111,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

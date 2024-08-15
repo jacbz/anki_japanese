@@ -1,13 +1,12 @@
 Rang: 648
 Lemma: 着る
 Lesung: きる
-Alternativschreibweisen: 著る
+Tonhöhen: .^
 Definition: anziehen, tragen
+Alternativschreibweisen: 著る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^
 Register: ''
-Dispersion: '91'
 Ursprung: ''
 Konjugation: 着ない・着た
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 1143
 Lemma: 近付く
 Lesung: ちかずく
-Alternativschreibweisen: ''
+Tonhöhen: (.)^\.
 Definition: sich nähern; näher kommen
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
-Lesung mit Tonhöhe: (.)^\.
 Register: ''
-Dispersion: '92'
 Ursprung: ''
 Konjugation: 近付かない・近付いた
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

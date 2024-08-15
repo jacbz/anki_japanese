@@ -1,13 +1,12 @@
 Rang: 640
 Lemma: いくつ
 Lesung: ''
-Alternativschreibweisen: 幾つ
+Tonhöhen: \..
 Definition: wie viele; wie alt
+Alternativschreibweisen: 幾つ
 Extra: '' # Nur bei suru-Verben
 Wortart: n, adv
-Lesung mit Tonhöhe: \..
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 174
 Lemma: いつ
 Lesung: ''
-Alternativschreibweisen: 何時
+Tonhöhen: \.
 Definition: wann
+Alternativschreibweisen: 何時
 Extra: '' # Nur bei suru-Verben
 Wortart: pron, adv
-Lesung mit Tonhöhe: \.
 Register: ''
-Dispersion: '92'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

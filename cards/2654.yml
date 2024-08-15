@@ -1,13 +1,12 @@
 Rang: 2654
 Lemma: スペイン
 Lesung: ''
-Alternativschreibweisen: 西斑牙・西班牙
+Tonhöhen: (.)\..
 Definition: Spanien
+Alternativschreibweisen: 西斑牙・西班牙
 Extra: '' # Nur bei suru-Verben
 Wortart: n
-Lesung mit Tonhöhe: (.)\..
 Register: ''
-Dispersion: '95'
 Ursprung: engl. Spain
 Konjugation: ''
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

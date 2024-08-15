@@ -1,13 +1,12 @@
 Rang: 1273
 Lemma: 食う
 Lesung: くう
-Alternativschreibweisen: 喰う
+Tonhöhen: \.
 Definition: essen, konsumieren
+Alternativschreibweisen: 喰う
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: \.
 Register: ''
-Dispersion: '88'
 Ursprung: ''
 Konjugation: 食わない・食った
 
@@ -92,7 +91,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-

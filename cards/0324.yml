@@ -1,13 +1,12 @@
 Rang: 324
 Lemma: 電話
 Lesung: でんわ
-Alternativschreibweisen: ''
+Tonhöhen: .^^
 Definition: Telefon; anrufen
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: .^^
 Register: ''
-Dispersion: '89'
 Ursprung: ''
 Konjugation: ''
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

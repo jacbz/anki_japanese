@@ -1,13 +1,12 @@
 Rang: 400
 Lemma: 簡単
 Lesung: かんたん
-Alternativschreibweisen: 簡短・簡端
+Tonhöhen: .^^^
 Definition: einfach; kurz
+Alternativschreibweisen: 簡短・簡端
 Extra: '' # Nur bei suru-Verben
 Wortart: na-adj
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '96'
 Ursprung: ''
 Konjugation: ''
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

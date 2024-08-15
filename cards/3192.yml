@@ -1,13 +1,12 @@
 Rang: 3192
 Lemma: 盗む
 Lesung: ぬすむ
-Alternativschreibweisen: 偸む・竊む
+Tonhöhen: .\.
 Definition: stehlen
+Alternativschreibweisen: 偸む・竊む
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '90'
 Ursprung: ''
 Konjugation: 盗まない・盗んだ
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

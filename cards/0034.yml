@@ -1,13 +1,12 @@
 Rang: 34
 Lemma: 思う
 Lesung: おもう
-Alternativschreibweisen: 想う・念う・憶う
+Tonhöhen: .\.
 Definition: denken
+Alternativschreibweisen: 想う・念う・憶う
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .\.
 Register: ''
-Dispersion: '88'
 Ursprung: ''
 Konjugation: 思わない・思った
 
@@ -104,7 +103,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

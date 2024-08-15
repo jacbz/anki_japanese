@@ -1,13 +1,12 @@
 Rang: 1288
 Lemma: 抱える
 Lesung: かかえる
-Alternativschreibweisen: ''
+Tonhöhen: .^^^
 Definition: (in den Armen) halten; haben
+Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
-Lesung mit Tonhöhe: .^^^
 Register: ''
-Dispersion: '97'
 Ursprung: ''
 Konjugation: 抱えない・抱えた
 
@@ -96,7 +95,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-

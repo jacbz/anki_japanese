@@ -1,13 +1,12 @@
 Rang: 634
 Lemma: 料理
 Lesung: りょうり
-Alternativschreibweisen: ''
+Tonhöhen: ^\..
 Definition: kochen; Gericht
+Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
-Lesung mit Tonhöhe: ^\..
 Register: ''
-Dispersion: '86'
 Ursprung: ''
 Konjugation: 料理する・料理した
 
@@ -116,7 +115,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''

@@ -1,13 +1,12 @@
 Rang: 545
 Lemma: よる
 Lesung: ''
-Alternativschreibweisen: 因る・由る・依る・拠る・縁る
+Tonhöhen: .^
 Definition: abhängen von; beruhen auf
+Alternativschreibweisen: 因る・由る・依る・拠る・縁る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
-Lesung mit Tonhöhe: .^
 Register: ''
-Dispersion: '76'
 Ursprung: ''
 Konjugation: よらない・よった
 
@@ -100,7 +99,7 @@ Beispielsätze: |-
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
-#   <div class="jp">借りていた本を返す。</div>
+#   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: ''
