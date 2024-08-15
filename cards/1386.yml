@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 咲かない・咲いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この公園にはさまざまな花が咲く。
   この 公園[こうえん]にはさまざまな 花[はな]が 咲[さ]く。
-  Viele verschiedene Blumen blühen in diesem Park.
+  In diesem Park blühen verschiedene Blumen.
+
+  桜が咲く頃に、お花見に行きましょう。
+  桜[さくら]が 咲[さ]く 頃[ころ]に、お 花見[はなみ]に 行[い]きましょう。
+  Lass uns zur Kirschblütenzeit zum Hanami gehen.
+
+  チューリップが色とりどりに咲いている。
+  チューリップが 色[いろ]とりどりに 咲[さ]いている。
+  Die Tulpen blühen in verschiedenen Farben.
+
+  春になると、野原に一面に花が咲きます。
+  春[はる]になると、野原[のはら]に 一面[いちめん]に 花[はな]が 咲[さ]きます。
+  Im Frühling blühen die Blumen flächendeckend auf den Feldern.
+
+  ベランダのバラがいっぱい咲いています。
+  ベランダのバラがいっぱい 咲[さ]いています。
+  Die Rosen auf dem Balkon stehen in voller Blüte.
+
+  梅の花が咲いてしまったら、春はもうすぐだ。
+  梅[うめ]の 花[はな]が 咲[さ]いてしまったら、春[はる]はもうすぐだ。
+  Wenn die Pflaumenblüten verblüht sind, ist der Frühling nicht mehr weit.
+
+  咲いたばかりのヒマワリは、とても鮮やかだ。
+  咲[さ]いたばかりのヒマワリは、とても 鮮[あざ]やかだ。
+  Die gerade aufgeblühten Sonnenblumen sind sehr leuchtend.
+
+  開いた車の窓から、通りすがりの生け垣に咲くクチナシの甘い匂いが入ってきた。
+  開[あ]いた 車[くるま]の 窓[まど]から、通[とお]りすがりの 生[い]け 垣[がき]に 咲[さ]くクチナシの 甘[あま]い 匂[にお]いが 入[はい]ってきた。
+  Der süße Duft der blühenden Gardenienhecke, an der ich gerade vorüberfuhr, drang kurz durch das offene Autofenster herein.
+
+  番小屋のうしろに咲いている赤い花が眼にしみた。
+  番小屋[ばんごや]のうしろに 咲[さ]いている 赤[あか]い 花[はな]が 眼[め]にしみた。
+  Die roten Blumen, die hinter der Wächterhütte blühten, stachen mir ins Auge.
+
+  食卓ではすでに会話に花が咲いていた。
+  食卓[しょくたく]ではすでに 会話[かいわ]に 花[はな]が 咲[さ]いていた。
+  Am Esstisch war die Unterhaltung bereits in vollem Gange.
+
+  今年は桜の開花が早そうだ。
+  今年[ことし]は 桜[さくら]の 開花[かいか]が 早[はや]そうだ。
+  Dieses Jahr scheinen die Kirschblüten früh zu blühen.
+
+  庭に咲く花の香りが部屋まで届く。
+  庭[にわ]に 咲[さ]く 花[はな]の 香[かお]りが 部屋[へや]まで 届[とど]く。
+  Der Duft der im Garten blühenden Blumen erreicht das Zimmer.
+
+  この地域では、冬に梅が咲くんだ。
+  この 地域[ちいき]では、冬[ふゆ]に 梅[うめ]が 咲[さ]くんだ。
+  In dieser Region blühen die Pflaumenbäume im Winter.
+
+  花が咲くと、蝶々が集まってくるね。
+  花[はな]が 咲[さ]くと、蝶々[ちょうちょう]が 集[あつ]まってくるね。
+  Wenn die Blumen blühen, kommen die Schmetterlinge zusammen.
+
+  雨上がりに咲く花は、特に美しい。
+  雨上[あめあ]がりに 咲[さ]く 花[はな]は、特[とく]に 美[うつく]しい。
+  Die Blumen, die nach dem Regen blühen, sind besonders schön.
+
+  春になると、希望の花が咲くような気がする。
+  春[はる]になると、希望[きぼう]の 花[はな]が 咲[さ]くような 気[き]がする。
+  Im Frühling habe ich das Gefühl, dass die Blume der Hoffnung blüht.
+
+  山頂に咲く高山植物を見に行こう。
+  山頂[さんちょう]に 咲[さ]く 高山植物[こうざんしょくぶつ]を 見[み]に 行[い]こう。
+  Lass uns die Alpenpflanzen sehen, die auf dem Berggipfel blühen.
+
+  毎年同じ場所に咲く花を見るのが楽しみだ。
+  毎年[まいとし] 同[おな]じ 場所[ばしょ]に 咲[さ]く 花[はな]を 見[み]るのが 楽[たの]しみだ。
+  Ich freue mich darauf, jedes Jahr die Blumen zu sehen, die am selben Ort blühen.
+
+  夜に咲く月下美人の花を見たことがある？
+  夜[よる]に 咲[さ]く 月下美人[げっかびじん]の 花[はな]を 見[み]たことがある？
+  Hast du schon einmal die Blüte der Königin der Nacht gesehen, die nachts blüht?
+
+  この木は何年も咲かなかったけど、今年やっと花が咲いた。
+  この 木[き]は 何年[なんねん]も 咲[さ]かなかったけど、今年[ことし]やっと 花[はな]が 咲[さ]いた。
+  Dieser Baum hat jahrelang nicht geblüht, aber dieses Jahr hat er endlich Blüten getragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

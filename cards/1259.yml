@@ -2,7 +2,7 @@ Rang: 1259
 Lemma: 主に
 Lesung: おもに
 Alternativschreibweisen: ''
-Definition: hauptsächlich, größtenteils, vorwiegend
+Definition: hauptsächlich
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Lesung mit Tonhöhe: \..
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   この店は主に輸入品を扱っている。
   この 店[みせ]は 主[おも]に 輸入品[ゆにゅうひん]を 扱[あつか]っている。
-  Dieser Laden handelt hauptsächlich mit importierten Waren.
+  Dieses Geschäft handelt hauptsächlich mit Importwaren.
+
+  彼女は主に英語の翻訳の仕事をしています。
+  彼女[かのじょ]は 主[おも]に 英語[えいご]の 翻訳[ほんやく]の 仕事[しごと]をしています。
+  Sie arbeitet vorwiegend als Übersetzerin für Englisch.
+
+  この地域の経済は主に観光業に依存している。
+  この 地域[ちいき]の 経済[けいざい]は 主[おも]に 観光業[かんこうぎょう]に 依存[いぞん]している。
+  Die Wirtschaft dieser Region hängt größtenteils vom Tourismus ab.
+
+  私たちの会社は主に中小企業向けにサービスを提供しています。
+  私[わたし]たちの 会社[かいしゃ]は 主[おも]に 中小企業[ちゅうしょうきぎょう]向[む]けにサービスを 提供[ていきょう]しています。
+  Unser Unternehmen bietet Dienstleistungen hauptsächlich für kleine und mittlere Unternehmen an.
+
+  この研究は主に若者の消費行動に焦点を当てています。
+  この 研究[けんきゅう]は 主[おも]に 若者[わかもの]の 消費行動[しょうひこうどう]に 焦点[しょうてん]を 当[あ]てています。
+  Diese Studie konzentriert sich in erster Linie auf das Konsumverhalten von jungen Menschen.
+
+  彼の収入は主に株式投資から得ています。
+  彼[かれ]の 収入[しゅうにゅう]は 主[おも]に 株式投資[かぶしきとうし]から 得[え]ています。
+  Sein Einkommen stammt überwiegend aus Aktieninvestitionen.
+
+  この建物は主に木でできています。
+  この 建物[たてもの]は 主[おも]に 木[き]でできています。
+  Dieses Gebäude besteht größtenteils aus Holz.
+
+  彼女は主に外で働いている。
+  彼女[かのじょ]は 主[おも]に 外[そと]で 働[はたら]いている。
+  Sie arbeitet meistenteils draußen.
+
+  交通事故の原因は主に不注意です。
+  交通事故[こうつうじこ]の 原因[げんいん]は 主[おも]に 不注意[ふちゅうい]です。
+  Die meisten Verkehrsunfälle geschehen aus Unachtsamkeit.
+
+  このイベントは主に学生を対象としています。
+  このイベントは 主[おも]に 学生[がくせい]を 対象[たいしょう]としています。
+  Diese Veranstaltung richtet sich in erster Linie an Studenten.
+
+  彼の話題は主に甥のことについてだった。
+  彼[かれ]の 話題[わだい]は 主[おも]に 甥[おい]のことについてだった。
+  Seine Gesprächsthemen drehten sich hauptsächlich um seinen Neffen.
+
+  この会社の従業員は主に20代から30代の若者です。
+  この 会社[かいしゃ]の 従業員[じゅうぎょういん]は 主[おも]に20代[だい]から30代[だい]の 若者[わかもの]です。
+  Die Mitarbeiter dieses Unternehmens sind vorwiegend junge Leute zwischen 20 und 30.
+
+  彼女の成功は主に努力の結果だ。
+  彼女[かのじょ]の 成功[せいこう]は 主[おも]に 努力[どりょく]の 結果[けっか]だ。
+  Ihr Erfolg ist in erster Linie das Ergebnis harter Arbeit.
+
+  この地域の気候は主に温暖で過ごしやすい。
+  この 地域[ちいき]の 気候[きこう]は 主[おも]に 温暖[おんだん]で 過[す]ごしやすい。
+  Das Klima in dieser Region ist überwiegend mild und angenehm.
+
+  彼の著書は主に歴史小説だ。
+  彼[かれ]の 著書[ちょしょ]は 主[おも]に 歴史小説[れきししょうせつ]だ。
+  Seine Bücher sind größtenteils historische Romane.
+
+  この問題は主に政治的な要因によるものだ。
+  この 問題[もんだい]は 主[おも]に 政治的[せいじてき]な 要因[よういん]によるものだ。
+  Dieses Problem ist hauptsächlich auf politische Faktoren zurückzuführen.
+
+  この地域の人々は主に農業で生計を立てている。
+  この 地域[ちいき]の 人々[ひとびと]は 主[おも]に 農業[のうぎょう]で 生計[せいけい]を 立[た]てている。
+  Die Menschen in dieser Region bestreiten ihren Lebensunterhalt vorwiegend durch Landwirtschaft.
+
+  彼女の仕事は主にデータ分析だ。
+  彼女[かのじょ]の 仕事[しごと]は 主[おも]にデータ 分析[ぶんせき]だ。
+  Ihre Arbeit besteht hauptsächlich aus Datenanalyse.
+
+  私たちの食事は主に野菜と魚でできている。
+  私[わたし]たちの 食事[しょくじ]は 主[おも]に 野菜[やさい]と 魚[さかな]でできている。
+  Unsere Mahlzeiten bestehen größtenteils aus Gemüse und Fisch.
+
+  彼の話は主に昔の思い出についてだった。
+  彼[かれ]の 話[はなし]は 主[おも]に 昔[むかし]の 思い出[おもいで]についてだった。
+  Seine Erzählungen drehten sich überwiegend um Erinnerungen aus der Vergangenheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

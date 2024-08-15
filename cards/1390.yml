@@ -1,7 +1,7 @@
 Rang: 1390
 Lemma: ますます
 Lesung: ''
-Alternativschreibweisen: ''
+Alternativschreibweisen: 益益
 Definition: immer mehr, zunehmend
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ますます多くの人が室内でペットを飼っている。
-  ますます 多[おお]くの人が 室内[しつない]でペットを 飼[か]っている。
-  Immer mehr Menschen halten Haustiere drinnen.
+  ますます 多[おお]くの 人[ひと]が 室内[しつない]でペットを 飼[か]っている。
+  Immer mehr Menschen halten Haustiere in der Wohnung.
+
+  技術の進歩により、生活はますます便利になっています。
+  技術[ぎじゅつ]の 進歩[しんぽ]により、生活[せいかつ]はますます 便利[べんり]になっています。
+  Durch den technologischen Fortschritt wird das Leben immer bequemer.
+
+  年をとるにつれて、ますます健康に気を使うようになった。
+  年[とし]をとるにつれて、ますます 健康[けんこう]に 気[き]を 使[つか]うようになった。
+  Mit zunehmendem Alter achte ich immer mehr auf meine Gesundheit.
+
+  環境問題はますます深刻化している。
+  環境問題[かんきょうもんだい]はますます 深刻化[しんこくか]している。
+  Die Umweltprobleme verschärfen sich zunehmend.
+
+  彼女の演技力はますます向上している。
+  彼女[かのじょ]の 演技力[えんぎりょく]はますます 向上[こうじょう]している。
+  Ihre schauspielerischen Fähigkeiten verbessern sich stetig.
+
+  ますます多くの会社がオンライン販売に力を入れている。
+  ますます 多[おお]くの 会社[かいしゃ]がオンライン 販売[はんばい]に 力[ちから]を 入[い]れている。
+  Immer mehr Unternehmen konzentrieren sich auf den Online-Verkauf.
+
+  子供たちはますます携帯電話に依存するようになっている。
+  子供[こども]たちはますます 携帯電話[けいたいでんわ]に 依存[いぞん]するようになっている。
+  Kinder werden zunehmend abhängig von Mobiltelefonen.
+
+  経済の悪化により、失業者の数はますます増加している。
+  経済[けいざい]の 悪化[あっか]により、失業者[しつぎょうしゃ]の 数[かず]はますます 増加[ぞうか]している。
+  Aufgrund der Wirtschaftskrise steigt die Zahl der Arbeitslosen immer weiter an.
+
+  ますます多くの人が健康的な生活習慣を意識するようになってきた。
+  ますます 多[おお]くの 人[ひと]が 健康的[けんこうてき]な 生活習慣[せいかつしゅうかん]を 意識[いしき]するようになってきた。
+  Immer mehr Menschen werden sich gesunder Lebensgewohnheiten bewusst.
+
+  彼の態度はますます横柄になっていく。
+  彼[かれ]の 態度[たいど]はますます 横柄[おうへい]になっていく。
+  Seine Haltung wird zunehmend arroganter.
+
+  インターネットの普及により、情報の伝達はますます速くなっている。
+  インターネットの 普及[ふきゅう]により、情報[じょうほう]の 伝達[でんたつ]はますます 速[はや]くなっている。
+  Durch die Verbreitung des Internets wird die Informationsübermittlung immer schneller.
+
+  彼女の人気はますます高まっている。
+  彼女[かのじょ]の 人気[にんき]はますます 高[たか]まっている。
+  Ihre Popularität steigt stetig.
+
+  ますます多くの若者が海外留学を希望している。
+  ますます 多[おお]くの 若者[わかもの]が 海外留学[かいがいりゅうがく]を 希望[きぼう]している。
+  Immer mehr junge Menschen wünschen sich ein Auslandsstudium.
+
+  技術の進歩により、ますます多くの仕事が自動化されている。
+  技術[ぎじゅつ]の 進歩[しんぽ]により、ますます 多[おお]くの 仕事[しごと]が 自動化[じどうか]されている。
+  Durch den technologischen Fortschritt werden immer mehr Arbeiten automatisiert.
+
+  気候変動の影響で、異常気象がますます増加している。
+  気候変動[きこうへんどう]の 影響[えいきょう]で、異常気象[いじょうきしょう]がますます 増加[ぞうか]している。
+  Aufgrund des Klimawandels nehmen extreme Wetterereignisse immer mehr zu.
+
+  都市部では、ますます高層ビルが建設されている。
+  都市部[としぶ]では、ますます 高層[こうそう]ビルが 建設[けんせつ]されている。
+  In städtischen Gebieten werden zunehmend Hochhäuser gebaut.
+
+  彼の小説はますます人気を集めている。
+  彼[かれ]の 小説[しょうせつ]はますます 人気[にんき]を 集[あつ]めている。
+  Seine Romane werden immer beliebter.
+
+  年々、ますます多くの人が健康食品に関心を持つようになっている。
+  年々[ねんねん]、ますます 多[おお]くの 人[ひと]が 健康食品[けんこうしょくひん]に 関心[かんしん]を 持[も]つようになっている。
+  Von Jahr zu Jahr interessieren sich immer mehr Menschen für gesunde Lebensmittel.
+
+  社会の変化に伴い、ますます多様な働き方が求められている。
+  社会[しゃかい]の 変化[へんか]に 伴[ともな]い、ますます 多様[たよう]な 働[はたら]き 方[かた]が 求[もと]められている。
+  Mit dem gesellschaftlichen Wandel werden zunehmend vielfältige Arbeitsweisen gefordert.
+
+  ますます多くの企業が環境に配慮した製品を開発している。
+  ますます 多[おお]くの 企業[きぎょう]が 環境[かんきょう]に 配慮[はいりょ]した 製品[せいひん]を 開発[かいはつ]している。
+  Immer mehr Unternehmen entwickeln umweltfreundliche Produkte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,15 +1,15 @@
 Rang: 1232
 Lemma: 尋ねる
 Lesung: たずねる
-Alternativschreibweisen: ''
-Definition: fragen, suchen
+Alternativschreibweisen: 訊ねる・訪ねる
+Definition: fragen; besuchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '83'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 尋ねない・尋ねた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,104 @@ Beispielsätze: |-
   誰[だれ]かに 道[みち]を 尋[たず]ねてきたらどうですか。
   Warum fragst du nicht jemanden nach dem Weg?
 
+  住所を尋ねる時は丁寧な言葉遣いを心がけましょう。
+  住所[じゅうしょ]を 尋[たず]ねる 時[とき]は 丁寧[ていねい]な 言葉遣[ことばづか]いを 心[こころ]がけましょう。
+  Achten Sie darauf, höflich zu sprechen, wenn Sie nach einer Adresse fragen.
+
+  友人の安否を尋ねるメールを送りました。
+  友人[ゆうじん]の 安否[あんぴ]を 尋[たず]ねるメールを 送[おく]りました。
+  Ich habe eine E-Mail geschickt, um mich nach dem Wohlergehen meines Freundes zu erkundigen.
+
+  今何時かと尋ねられて、時計を確認しました。
+  今[いま] 何時[なんじ]かと 尋[たず]ねられて、時計[とけい]を 確認[かくにん]しました。
+  Als ich nach der Uhrzeit gefragt wurde, habe ich auf meine Uhr geschaut.
+
+  うるさく尋ねられると、答えたくなくなることがあります。
+  うるさく 尋[たず]ねられると、答[こた]えたくなくなることがあります。
+  Wenn man zu aufdringlich gefragt wird, verliert man manchmal die Lust zu antworten.
+
+  尋ねたいことがあるのですが、少しお時間をいただけますか。
+  尋[たず]ねたいことがあるのですが、少[すこ]しお 時間[じかん]をいただけますか。
+  Ich hätte eine Frage, hätten Sie einen Moment Zeit für mich?
+
+  タクシーの運転手に一番近くのホテルの名を尋ねた。
+  タクシーの 運転手[うんてんしゅ]に 一番[いちばん] 近[ちか]くのホテルの 名[な]を 尋[たず]ねた。
+  Ich fragte den Taxifahrer nach dem Namen des nächstgelegenen Hotels.
+
+  彼女は青年に、「今のは外国人でしたか」と尋ねた。
+  彼女[かのじょ]は 青年[せいねん]に、「今[いま]のは 外国人[がいこくじん]でしたか」と 尋[たず]ねた。
+  Sie fragte den jungen Mann: "War das eben ein Ausländer?"
+
+  その習慣の理由を友達に尋ねてみたんだ。
+  その 習慣[しゅうかん]の 理由[りゆう]を 友達[ともだち]に 尋[たず]ねてみたんだ。
+  Ich habe meinen Freund nach dem Grund für diese Gewohnheit gefragt.
+
+  結婚の返事を尋ねるのは緊張しますね。
+  結婚[けっこん]の 返事[へんじ]を 尋[たず]ねるのは 緊張[きんちょう]しますね。
+  Es ist nervös machend, nach einer Antwort auf einen Heiratsantrag zu fragen, nicht wahr?
+
+  この言葉の起源を尋ねて、面白い発見がありました。
+  この 言葉[ことば]の 起源[きげん]を 尋[たず]ねて、面白[おもしろ]い 発見[はっけん]がありました。
+  Als ich nach dem Ursprung dieses Wortes forschte, machte ich eine interessante Entdeckung.
+
+  失くした猫を尋ねて近所を歩き回った。
+  失[な]くした 猫[ねこ]を 尋[たず]ねて 近所[きんじょ]を 歩[ある]き 回[まわ]った。
+  Ich lief in der Nachbarschaft herum und suchte nach meiner verlorenen Katze.
+
+  京都を尋ねる旅行の計画を立てています。
+  京都[きょうと]を 尋[たず]ねる 旅行[りょこう]の 計画[けいかく]を 立[た]てています。
+  Ich plane eine Reise, um Kyoto zu besuchen.
+
+  祖父の墓を尋ねて、花を供えてきました。
+  祖父[そふ]の 墓[はか]を 尋[たず]ねて、花[はな]を 供[そな]えてきました。
+  Ich habe das Grab meines Großvaters besucht und Blumen niedergelegt.
+
+  古城跡を尋ねる歴史ツアーに参加しました。
+  古城跡[こじょうあと]を 尋[たず]ねる 歴史[れきし]ツアーに 参加[さんか]しました。
+  Ich habe an einer historischen Tour teilgenommen, bei der wir alte Burgruinen besuchten.
+
+  友人が突然訪ねてきて、びっくりしました。
+  友人[ゆうじん]が 突然[とつぜん] 訪[たず]ねてきて、びっくりしました。
+  Ich war überrascht, als mein Freund plötzlich zu Besuch kam.
+
+  前触れもなく訪ねてくる人は、失礼だと思います。
+  前触[まえぶ]れもなく 訪[たず]ねてくる 人[ひと]は、失礼[しつれい]だと 思[おも]います。
+  Ich finde es unhöflich, wenn Leute ohne Vorankündigung zu Besuch kommen.
+
+  外国から訪ねてくる友人のためにガイドブックを買った。
+  外国[がいこく]から 訪[たず]ねてくる 友人[ゆうじん]のためにガイドブックを 買[か]った。
+  Ich habe einen Reiseführer für meinen Freund gekauft, der aus dem Ausland zu Besuch kommt.
+
+  病院を訪ねる時は、事前に予約を取るべきですね。
+  病院[びょういん]を 訪[たず]ねる 時[とき]は、事前[じぜん]に 予約[よやく]を 取[と]るべきですね。
+  Man sollte vorher einen Termin vereinbaren, wenn man ein Krankenhaus aufsucht, nicht wahr?
+
+  観光地でない町を訪ねると、地元の文化をよく知ることができます。
+  観光地[かんこうち]でない 町[まち]を 訪[たず]ねると、地元[じもと]の 文化[ぶんか]をよく 知[し]ることができます。
+  Wenn man Städte besucht, die keine Touristenattraktionen sind, kann man die lokale Kultur gut kennenlernen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 尋ねる (tazuneru) hat drei Hauptbedeutungen:</p>
+  <ol>
+    <li>Fragen, sich erkundigen:<div class="examples">
+        <div class="jp">道[みち]を 尋[たず]ねる</div>
+        <div class="de spoiler">nach dem Weg fragen</div>
+      </div>
+    </li>
+    <li>Suchen, forschen:<div class="examples">
+        <div class="jp">失[な]くした 猫[ねこ]を 尋[たず]ねる</div>
+        <div class="de spoiler">nach einer verlorenen Katze suchen</div>
+      </div>
+    </li>
+    <li>Besuchen, aufsuchen:<div class="examples">
+        <div class="jp">友人[ゆうじん]を 尋[たず]ねる</div>
+        <div class="de spoiler">einen Freund besuchen</div>
+      </div>
+    </li>
+  </ol>
+  <p>Es wird oft in höflichen Kontexten verwendet, z.B. wenn man jemanden nach Informationen fragt oder einen Ort oder eine Person besucht.</p>

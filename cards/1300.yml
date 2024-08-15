@@ -2,7 +2,7 @@ Rang: 1300
 Lemma: 人口
 Lesung: じんこう
 Alternativschreibweisen: ''
-Definition: Bevölkerung
+Definition: Bevölkerung; Einwohnerzahl
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^^
@@ -15,8 +15,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   世界の人口は増加し続けている。
-  世界[せかい]の 人口[じんこう]は 増加[ぞうか]し 続[つず]けている。
-  Die Weltbevölkerung wächst weiter.
+  世界[せかい]の 人口[じんこう]は 増加[ぞうか]し 続[つづ]けている。
+  Die Weltbevölkerung wächst weiterhin.
+
+  東京の人口密度は非常に高い。
+  東京[とうきょう]の 人口密度[じんこうみつど]は 非常[ひじょう]に 高[たか]い。
+  Die Bevölkerungsdichte in Tokio ist sehr hoch.
+
+  人口調査の結果が発表された。
+  人口調査[じんこうちょうさ]の 結果[けっか]が 発表[はっぴょう]された。
+  Die Ergebnisse der Volkszählung wurden veröffentlicht.
+
+  人口爆発は環境問題の一因となっている。
+  人口爆発[じんこうばくはつ]は 環境問題[かんきょうもんだい]の 一因[いちいん]となっている。
+  Die Bevölkerungsexplosion ist eine der Ursachen für Umweltprobleme.
+
+  この地域は人口が減少している。
+  この 地域[ちいき]は 人口[じんこう]が 減少[げんしょう]している。
+  Die Bevölkerung in dieser Region nimmt ab.
+
+  政府は人口政策を見直す必要がある。
+  政府[せいふ]は 人口政策[じんこうせいさく]を 見直[みなお]す 必要[ひつよう]がある。
+  Die Regierung muss ihre Bevölkerungspolitik überdenken.
+
+  人口ピラミッドから年齢構成がわかる。
+  人口[じんこう]ピラミッドから 年齢構成[ねんれいこうせい]がわかる。
+  Die Alterspyramide zeigt die Altersstruktur der Bevölkerung.
+
+  人口の高齢化は社会保障制度に影響を与えている。
+  人口[じんこう]の 高齢化[こうれいか]は 社会保障制度[しゃかいほしょうせいど]に 影響[えいきょう]を 与[あた]えている。
+  Die Überalterung der Bevölkerung beeinflusst das Sozialversicherungssystem.
+
+  都市部への人口集中が進んでいる。
+  都市部[としぶ]への 人口集中[じんこうしゅうちゅう]が 進[すす]んでいる。
+  Die Konzentration der Bevölkerung in städtischen Gebieten schreitet voran.
+
+  人口増加率は年々低下している。
+  人口増加率[じんこうぞうかりつ]は 年々[ねんねん] 低下[ていか]している。
+  Die Bevölkerungswachstumsrate sinkt von Jahr zu Jahr.
+
+  人口分布図を見ると、地域ごとの特徴がわかる。
+  人口分布図[じんこうぶんぷず]を 見[み]ると、地域[ちいき]ごとの 特徴[とくちょう]がわかる。
+  Wenn man die Bevölkerungsverteilungskarte betrachtet, erkennt man die Merkmale jeder Region.
+
+  人口動態統計によると、出生率が低下している。
+  人口動態統計[じんこうどうたいとうけい]によると、出生率[しゅっしょうりつ]が 低下[ていか]している。
+  Laut demografischer Statistiken sinkt die Geburtenrate.
+
+  人口問題は国際的な課題となっている。
+  人口問題[じんこうもんだい]は 国際的[こくさいてき]な 課題[かだい]となっている。
+  Bevölkerungsprobleme sind zu einer internationalen Herausforderung geworden.
+
+  人口流出が地方の衰退を加速させている。
+  人口流出[じんこうりゅうしゅつ]が 地方[ちほう]の 衰退[すいたい]を 加速[かそく]させている。
+  Die Abwanderung der Bevölkerung beschleunigt den Niedergang ländlicher Gebiete.
+
+  この国の人口は1億人を超えた。
+  この 国[くに]の 人口[じんこう]は1億人[いちおくにん]を 超[こ]えた。
+  Die Bevölkerung dieses Landes hat 100 Millionen überschritten.
+
+  人口密集地域では感染症のリスクが高くなる。
+  人口密集地域[じんこうみっしゅうちいき]では 感染症[かんせんしょう]のリスクが 高[たか]くなる。
+  In dicht besiedelten Gebieten steigt das Risiko von Infektionskrankheiten.
+
+  人口の少ない地域では、公共サービスの維持が課題だ。
+  人口[じんこう]の 少[すく]ない 地域[ちいき]では、公共[こうきょう]サービスの 維持[いじ]が 課題[かだい]だ。
+  In dünn besiedelten Gebieten ist die Aufrechterhaltung öffentlicher Dienstleistungen eine Herausforderung.
+
+  人口構成の変化に伴い、労働市場も変化している。
+  人口構成[じんこうこうせい]の 変化[へんか]に 伴[ともな]い、労働市場[ろうどうしじょう]も 変化[へんか]している。
+  Mit der Veränderung der Bevölkerungsstruktur wandelt sich auch der Arbeitsmarkt.
+
+  人口増加は食糧問題にも影響を与える。
+  人口増加[じんこうぞうか]は 食糧問題[しょくりょうもんだい]にも 影響[えいきょう]を 与[あた]える。
+  Das Bevölkerungswachstum wirkt sich auch auf die Nahrungsmittelproblematik aus.
+
+  その噂はすぐに人口に膾炙した。
+  その 噂[うわさ]はすぐに 人口[じんこう]に 膾炙[かいしゃ]した。
+  Das Gerücht war schnell in aller Munde.
+
+  人口統計学者は将来の人口動向を分析している。
+  人口統計学者[じんこうとうけいがくしゃ]は 将来[しょうらい]の 人口動向[じんこうどうこう]を 分析[ぶんせき]している。
+  Demografen analysieren zukünftige Bevölkerungstrends.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

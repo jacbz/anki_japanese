@@ -1,7 +1,7 @@
 Rang: 1273
 Lemma: 食う
 Lesung: くう
-Alternativschreibweisen: ''
+Alternativschreibweisen: 喰う
 Definition: essen, konsumieren
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
@@ -9,18 +9,105 @@ Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '88'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 食わない・食った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あの車はかなりガソリンを食う。
   あの 車[くるま]はかなりガソリンを 食[く]う。
-  Dieses Auto verbraucht viel Benzin beim Fahren.
+  Dieses Auto verbraucht ziemlich viel Benzin.
+
+  パンを食うのが好きだ。
+  パンを 食[く]うのが 好[す]きだ。
+  Ich esse gerne Brot.
+
+  腹いっぱい食ったら眠くなった。
+  腹[はら]いっぱい 食[く]ったら 眠[ねむ]くなった。
+  Nachdem ich mich satt gegessen hatte, wurde ich müde.
+
+  虫に食われた本は捨てるしかない。
+  虫[むし]に 食[く]われた 本[ほん]は 捨[す]てるしかない。
+  Ein von Insekten zerfressenes Buch muss man wegwerfen.
+
+  この仕事で食うのは難しい。
+  この 仕事[しごと]で 食[く]うのは 難[むずか]しい。
+  Es ist schwierig, von dieser Arbeit zu leben.
+
+  彼は筆で食っている作家だ。
+  彼[かれ]は 筆[ふで]で 食[く]っている 作家[さっか]だ。
+  Er ist ein Schriftsteller, der von seiner Feder lebt.
+
+  上司に大目玉を食ったよ。
+  上司[じょうし]に 大目玉[おおめだま]を 食[く]ったよ。
+  Ich habe von meinem Chef einen Rüffel bekommen.
+
+  新製品に食われて、売上が落ちた。
+  新製品[しんせいひん]に 食[く]われて、売上[うりあげ]が 落[お]ちた。
+  Unser Umsatz ist gesunken, weil wir von einem neuen Produkt verdrängt wurden.
+
+  年を食った彼女は経験豊富だ。
+  年[とし]を 食[く]った 彼女[かのじょ]は 経験豊富[けいけんほうふ]だ。
+  Sie ist in die Jahre gekommen und hat viel Erfahrung.
+
+  この台本は長すぎるから、少し食おう。
+  この 台本[だいほん]は 長[なが]すぎるから、少[すこ]し 食[く]おう。
+  Dieses Drehbuch ist zu lang, lass es uns ein wenig kürzen.
+
+  朝飯を食わずに出かけるな。
+  朝飯[あさめし]を 食[く]わずに 出[で]かけるな。
+  Geh nicht ohne Frühstück aus dem Haus.
+
+  蚊に食われて、かゆくてたまらない。
+  蚊[か]に 食[く]われて、かゆくてたまらない。
+  Ich wurde von Mücken gestochen und es juckt unerträglich.
+
+  彼は一つ釜の飯を食った仲間だ。
+  彼[かれ]は 一[ひと]つ 釜[かま]の 飯[めし]を 食[く]った 仲間[なかま]だ。
+  Er ist ein Kamerad, mit dem ich durch dick und dünn gegangen bin.
+
+  この機械は電気を食いすぎる。
+  この 機械[きかい]は 電気[でんき]を 食[く]いすぎる。
+  Diese Maschine verbraucht zu viel Strom.
+
+  横綱を食う力士は少ない。
+  横綱[よこづな]を 食[く]う 力士[りきし]は 少[すく]ない。
+  Es gibt nur wenige Sumo-Ringer, die einen Yokozuna besiegen können.
+
+  利子で食っていくのは難しい時代だ。
+  利子[りし]で 食[く]っていくのは 難[むずか]しい 時代[じだい]だ。
+  Es ist schwierig geworden, von Zinsen zu leben.
+
+  あいつは人を食う性格だ。
+  あいつは 人[ひと]を 食[く]う 性格[せいかく]だ。
+  Er hat einen Charakter, der andere dominiert.
+
+  食うや食わずの生活を送っている。
+  食[く]うや 食[く]わずの 生活[せいかつ]を 送[おく]っている。
+  Ich führe ein Leben am Existenzminimum.
+
+  彼女は主役を脇役に食われてしまった。
+  彼女[かのじょ]は 主役[しゅやく]を 脇役[わきやく]に 食[く]われてしまった。
+  Sie wurde als Hauptdarstellerin von einer Nebendarstellerin in den Schatten gestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>食う (くう) ist ein informelles Wort für "essen", das als unhöflicher gilt als das neutrale 食べる (たべる). Es wird oft in umgangssprachlichen Situationen oder für Tiere verwendet.</p>
+  <div class="examples">
+    <div class="jp">さっさと 食[く]え！</div>
+    <div class="de spoiler">Iss schnell auf!</div>
+  </div>
+  <p>Es kann auch in übertragener Bedeutung verwendet werden, z.B. für "verbrauchen" oder "besiegen":</p>
+  <div class="examples">
+    <div class="jp">この 車[くるま]はガソリンを 食[く]う。</div>
+    <div class="de spoiler">Dieses Auto frisst Benzin.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">ライバルチームを 食[く]ってやる！</div>
+    <div class="de spoiler">Wir werden das gegnerische Team schlagen!</div>
+  </div>
+  <p>In der Umgangssprache wird 食う oft zu っ verkürzt, besonders in Verbindungen wie ～てっちゃう (～て食っちゃう).</p>

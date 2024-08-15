@@ -2,7 +2,7 @@ Rang: 1239
 Lemma: 期間
 Lesung: きかん
 Alternativschreibweisen: ''
-Definition: Zeitraum, Dauer, Frist
+Definition: Zeitraum, Frist
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   契約の期間を延長したいです。
   契約[けいやく]の 期間[きかん]を 延長[えんちょう]したいです。
-  Ich möchte die Dauer des Vertrags verlängern.
+  Ich möchte die Vertragslaufzeit verlängern.
+
+  この商品は期間限定で販売されています。
+  この 商品[しょうひん]は 期間[きかん] 限定[げんてい]で 販売[はんばい]されています。
+  Dieses Produkt wird für einen begrenzten Zeitraum verkauft.
+
+  プロジェクトの期間計画を立てましょう。
+  プロジェクトの 期間[きかん] 計画[けいかく]を 立[た]てましょう。
+  Lass uns einen Zeitplan für das Projekt erstellen.
+
+  期間満了までに書類を提出してください。
+  期間[きかん] 満了[まんりょう]までに 書類[しょるい]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie die Unterlagen bis zum Ablauf der Frist ein.
+
+  長期間にわたる研究の成果が発表されました。
+  長期間[ちょうきかん]にわたる 研究[けんきゅう]の 成果[せいか]が 発表[はっぴょう]されました。
+  Die Ergebnisse einer langfristigen Studie wurden veröffentlicht.
+
+  一定期間内に返済しなければなりません。
+  一定[いってい] 期間[きかん] 内[ない]に 返済[へんさい]しなければなりません。
+  Sie müssen innerhalb einer bestimmten Frist zurückzahlen.
+
+  準備期間が短すぎて、十分な準備ができませんでした。
+  準備[じゅんび] 期間[きかん]が 短[みじか]すぎて、十分[じゅうぶん]な 準備[じゅんび]ができませんでした。
+  Die Vorbereitungszeit war zu kurz, um alles angemessen vorzubereiten.
+
+  契約期間中は、規則を守る必要があります。
+  契約[けいやく] 期間[きかん] 中[ちゅう]は、規則[きそく]を 守[まも]る 必要[ひつよう]があります。
+  Während der Vertragslaufzeit müssen die Regeln eingehalten werden.
+
+  償還期間は5年間です。
+  償還[しょうかん] 期間[きかん]は5年間[ねんかん]です。
+  Die Rückzahlungsfrist beträgt 5 Jahre.
+
+  短期間で多くのことを学ぶのは大変です。
+  短期間[たんきかん]で 多[おお]くのことを 学[まな]ぶのは 大変[たいへん]です。
+  Es ist schwierig, in kurzer Zeit viel zu lernen.
+
+  クレジットカードの有効期間を確認してください。
+  クレジットカードの 有効[ゆうこう] 期間[きかん]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Gültigkeitsdauer Ihrer Kreditkarte.
+
+  在任期間中に多くの改革を行いました。
+  在任[ざいにん] 期間[きかん] 中[ちゅう]に 多[おお]くの 改革[かいかく]を 行[おこな]いました。
+  Während meiner Amtszeit habe ich viele Reformen durchgeführt.
+
+  期間が過ぎてしまったので、申請を受け付けられません。
+  期間[きかん]が 過[す]ぎてしまったので、申請[しんせい]を 受[う]け 付[つ]けられません。
+  Da die Frist abgelaufen ist, können wir Ihren Antrag nicht mehr annehmen.
+
+  五年や十年ではなく、もっと長い期間にわたって影響があるでしょう。
+  五[ご] 年[ねん]や 十[じゅう] 年[ねん]ではなく、もっと 長[なが]い 期間[きかん]にわたって 影響[えいきょう]があるでしょう。
+  Die Auswirkungen werden sich nicht nur über fünf oder zehn Jahre erstrecken, sondern über einen viel längeren Zeitraum.
+
+  適当な期間、データを収集する必要があります。
+  適当[てきとう]な 期間[きかん]、データを 収集[しゅうしゅう]する 必要[ひつよう]があります。
+  Wir müssen über einen angemessenen Zeitraum Daten sammeln.
+
+  十二月三十日から一月四日までの期間が正式の休暇です。
+  十二月[じゅうにがつ] 三十日[さんじゅうにち]から 一月[いちがつ] 四日[よっか]までの 期間[きかん]が 正式[せいしき]の 休暇[きゅうか]です。
+  Die offizielle Urlaubszeit erstreckt sich vom 30. Dezember bis zum 4. Januar.
+
+  期間限定セールを実施中です。お見逃しなく！
+  期間[きかん] 限定[げんてい]セールを 実施中[じっしちゅう]です。お 見逃[みのが]しなく！
+  Wir führen gerade einen zeitlich begrenzten Verkauf durch. Verpassen Sie ihn nicht!
+
+  この薬の効果は一定期間持続します。
+  この 薬[くすり]の 効果[こうか]は 一定[いってい] 期間[きかん] 持続[じぞく]します。
+  Die Wirkung dieses Medikaments hält für einen bestimmten Zeitraum an.
+
+  期間内に目標を達成できるよう頑張りましょう。
+  期間[きかん] 内[ない]に 目標[もくひょう]を 達成[たっせい]できるよう 頑張[がんば]りましょう。
+  Lass uns unser Bestes geben, um das Ziel innerhalb der Frist zu erreichen.
+
+  長期間の休暇を取ることにしました。
+  長期間[ちょうきかん]の 休暇[きゅうか]を 取[と]ることにしました。
+  Ich habe mich entschieden, einen langen Urlaub zu nehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

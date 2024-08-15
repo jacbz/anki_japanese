@@ -2,7 +2,7 @@ Rang: 1224
 Lemma: 穴
 Lesung: あな
 Alternativschreibweisen: ''
-Definition: Loch, Grube
+Definition: Loch; Öffnung
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\
@@ -16,11 +16,108 @@ Konjugation: ''
 Beispielsätze: |-
   ケーブルをつなぐために壁に穴を開けなければならなかった。
   ケーブルをつなぐために 壁[かべ]に 穴[あな]を 開[あ]けなければならなかった。
-  Ich musste ein Loch in eine Wand machen, um ein Kabel anzuschließen.
+  Ich musste ein Loch in die Wand bohren, um das Kabel anzuschließen.
+
+  靴下に穴が空いているのに気づかずに出かけてしまった。
+  靴下[くつした]に 穴[あな]が 空[あ]いているのに 気[き]づかずに 出[で]かけてしまった。
+  Ich bin ausgegangen, ohne zu bemerken, dass mein Socken ein Loch hatte.
+
+  鍵穴に合う鍵を見つけるのに時間がかかった。
+  鍵穴[かぎあな]に 合[あ]う 鍵[かぎ]を 見[み]つけるのに 時間[じかん]がかかった。
+  Es dauerte eine Weile, bis ich den passenden Schlüssel für das Schlüsselloch fand.
+
+  子供たちは庭で穴を掘って宝物を隠していた。
+  子供[こども]たちは 庭[にわ]で 穴[あな]を 掘[ほ]って 宝物[たからもの]を 隠[かく]していた。
+  Die Kinder gruben ein Loch im Garten, um ihren Schatz zu verstecken.
+
+  この道路は穴だらけで、運転するのが難しい。
+  この 道路[どうろ]は 穴[あな]だらけで、運転[うんてん]するのが 難[むずか]しい。
+  Diese Straße ist voller Schlaglöcher, was das Fahren schwierig macht.
+
+  鼻の穴から変な音が出ていることに気づいた。
+  鼻[はな]の 穴[あな]から 変[へん]な 音[おと]が 出[で]ていることに 気[き]づいた。
+  Ich bemerkte, dass seltsame Geräusche aus meinen Nasenlöchern kamen.
+
+  ボタンの穴が大きすぎて、すぐに外れてしまう。
+  ボタンの 穴[あな]が 大[おお]きすぎて、すぐに 外[はず]れてしまう。
+  Das Knopfloch ist zu groß, sodass der Knopf ständig aufgeht.
+
+  彼女は家計簿に穴があくのを避けようと節約している。
+  彼女[かのじょ]は 家計簿[かけいぼ]に 穴[あな]があくのを 避[さ]けようと 節約[せつやく]している。
+  Sie spart, um zu vermeiden, ein Loch in die Haushaltskasse zu reißen.
+
+  ピンで紙に小さな穴を開けて、模様を作った。
+  ピンで 紙[かみ]に 小[ちい]さな 穴[あな]を 開[あ]けて、模様[もよう]を 作[つく]った。
+  Ich stach mit einer Nadel kleine Löcher in das Papier, um ein Muster zu erzeugen.
+
+  狐の穴を見つけたので、そっと近づいて観察した。
+  狐[きつね]の 穴[あな]を 見[み]つけたので、そっと 近[ちか]づいて 観察[かんさつ]した。
+  Ich entdeckte einen Fuchsbau und näherte mich vorsichtig, um ihn zu beobachten.
+
+  彼は穴場のレストランを知っているらしい。
+  彼[かれ]は 穴場[あなば]のレストランを 知[し]っているらしい。
+  Er scheint einen Geheimtipp für ein Restaurant zu kennen.
+
+  この競馬では、穴馬が優勝する可能性もある。
+  この 競馬[けいば]では、穴馬[あなうま]が 優勝[ゆうしょう]する 可能性[かのうせい]もある。
+  Bei diesem Pferderennen könnte auch ein Außenseiter gewinnen.
+
+  穴があったら入りたいくらい恥ずかしかった。
+  穴[あな]があったら 入[はい]りたいくらい 恥[は]ずかしかった。
+  Ich war so beschämt, dass ich am liebsten im Erdboden versunken wäre.
+
+  彼女は穴のあくほど私を見つめていた。
+  彼女[かのじょ]は 穴[あな]のあくほど 私[わたし]を 見[み]つめていた。
+  Sie starrte mich an, als wollte sie Löcher in mich bohren.
+
+  会社の財政の穴を埋めるために、新しい投資家を探している。
+  会社[かいしゃ]の 財政[ざいせい]の 穴[あな]を 埋[う]めるために、新[あたら]しい 投資家[とうしか]を 探[さが]している。
+  Wir suchen nach neuen Investoren, um das finanzielle Loch in der Firma zu stopfen.
+
+  彼は穴株を見つけて、大きな利益を得た。
+  彼[かれ]は 穴株[あなかぶ]を 見[み]つけて、大[おお]きな 利益[りえき]を 得[え]た。
+  Er fand einen Aktien-Geheimtipp und erzielte einen großen Gewinn.
+
+  穴狙いの選手が予想外の結果を出して、観客を驚かせた。
+  穴狙[あなねら]いの 選手[せんしゅ]が 予想外[よそうがい]の 結果[けっか]を 出[だ]して、観客[かんきゃく]を 驚[おどろ]かせた。
+  Ein als Geheimtipp gehandelter Athlet überraschte das Publikum mit einem unerwarteten Ergebnis.
+
+  蟹は甲羅に似せて穴を掘るという諺がある。
+  蟹[かに]は 甲羅[こうら]に 似[に]せて 穴[あな]を 掘[ほ]るという 諺[ことわざ]がある。
+  Es gibt ein Sprichwort, das besagt: "Der Krebs gräbt ein Loch, das zu seinem Panzer passt."
+
+  千丈の堤も蟻の穴より崩れるという言葉を覚えておこう。
+  千丈[せんじょう]の 堤[つつみ]も 蟻[あり]の 穴[あな]より 崩[くず]れるという 言葉[ことば]を 覚[おぼ]えておこう。
+  Lass uns den Spruch merken: "Auch ein tausend Fuß hoher Damm kann durch das Loch einer Ameise einstürzen."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 穴 (あな) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">壁[かべ]に 穴[あな]を 開[あ]ける。</div>
+    <div class="de spoiler">Ein Loch in die Wand machen.</div>
+  </div>
+  <p>Es kann auch eine Vertiefung oder Höhle bezeichnen:</p>
+  <div class="examples">
+    <div class="jp">狐[きつね]の 穴[あな]を 見[み]つけた。</div>
+    <div class="de spoiler">Ich habe einen Fuchsbau gefunden.</div>
+  </div>
+  <p>Im übertragenen Sinne kann es ein finanzielles Defizit bedeuten:</p>
+  <div class="examples">
+    <div class="jp">会社[かいしゃ]の 財政[ざいせい]の 穴[あな]を 埋[う]める。</div>
+    <div class="de spoiler">Das finanzielle Loch der Firma stopfen.</div>
+  </div>
+  <p>In der Redewendung 穴があったら入りたい (あながあったらはいりたい) drückt es extreme Verlegenheit aus:</p>
+  <div class="examples">
+    <div class="jp">恥[は]ずかしくて 穴[あな]があったら 入[はい]りたい。</div>
+    <div class="de spoiler">Ich war so beschämt, dass ich am liebsten im Erdboden versunken wäre.</div>
+  </div>
+  <p>Im Kontext von Wetten oder Aktien kann es einen Geheimtipp oder Außenseiter bezeichnen:</p>
+  <div class="examples">
+    <div class="jp">穴株[あなかぶ]で 大[おお]きな 利益[りえき]を 得[え]た。</div>
+    <div class="de spoiler">Er erzielte einen großen Gewinn mit einem Aktien-Geheimtipp.</div>
+  </div>

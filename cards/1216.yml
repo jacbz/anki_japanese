@@ -2,7 +2,7 @@ Rang: 1216
 Lemma: 値段
 Lesung: ねだん
 Alternativschreibweisen: ''
-Definition: Preis, Wert, Kosten
+Definition: Preis
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   手ごろな値段でおいしい料理が味わえる。
-  手[て]ごろな 値段[ねだん]でおいしい 料理[りょうり]が 味[あじ]わえる。
-  Sie können köstliche Speisen zu einem günstigen Preis genießen.
+  手頃[てごろ]な 値段[ねだん]でおいしい 料理[りょうり]が 味[あじ]わえる。
+  Man kann leckeres Essen zu einem angemessenen Preis genießen.
+
+  この商品の値段表を確認してください。
+  この 商品[しょうひん]の 値段表[ねだんひょう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Preisliste für dieses Produkt.
+
+  新製品の値段設定について会議で議論しましょう。
+  新製品[しんせいひん]の 値段設定[ねだんせってい]について 会議[かいぎ]で 議論[ぎろん]しましょう。
+  Lassen Sie uns in der Besprechung über die Preisgestaltung für das neue Produkt diskutieren.
+
+  店員が商品に値段付けをしています。
+  店員[てんいん]が 商品[しょうひん]に 値段付[ねだんづ]けをしています。
+  Der Verkäufer preist gerade die Waren aus.
+
+  友人から仲間値段で商品を購入できました。
+  友人[ゆうじん]から 仲間値段[なかまねだん]で 商品[しょうひん]を 購入[こうにゅう]できました。
+  Ich konnte das Produkt von meinem Freund zum Freundschaftspreis kaufen.
+
+  この時計は値段だけの価値があると思います。
+  この 時計[とけい]は 値段[ねだん]だけの 価値[かち]があると 思[おも]います。
+  Ich denke, diese Uhr ist ihr Geld wert.
+
+  この高級車は値段が張りますね。
+  この 高級車[こうきゅうしゃ]は 値段[ねだん]が 張[は]りますね。
+  Dieses Luxusauto ist wirklich teuer, nicht wahr?
+
+  値段の下限を設定しないと、赤字になる可能性があります。
+  値段[ねだん]の 下限[かげん]を 設定[せってい]しないと、赤字[あかじ]になる 可能性[かのうせい]があります。
+  Wenn wir keine Preisuntergrenze festlegen, besteht die Möglichkeit, dass wir Verluste machen.
+
+  販売員が顧客に値段を言いました。
+  販売員[はんばいいん]が 顧客[こきゃく]に 値段[ねだん]を 言[い]いました。
+  Der Verkäufer nannte dem Kunden den Preis.
+
+  市場で値段を掛け合うのは一般的です。
+  市場[いちば]で 値段[ねだん]を 掛[か]け 合[あ]うのは 一般的[いっぱんてき]です。
+  Es ist üblich, auf dem Markt über den Preis zu verhandeln.
+
+  会社は新商品の値段を決めるのに苦労しています。
+  会社[かいしゃ]は 新商品[しんしょうひん]の 値段[ねだん]を 決[き]めるのに 苦労[くろう]しています。
+  Das Unternehmen hat Schwierigkeiten, den Preis für das neue Produkt festzulegen.
+
+  店員に値段を聞いてみましょう。
+  店員[てんいん]に 値段[ねだん]を 聞[き]いてみましょう。
+  Lass uns den Verkäufer nach dem Preis fragen.
+
+  競争力を高めるために、値段を下げることにしました。
+  競争力[きょうそうりょく]を 高[たか]めるために、値段[ねだん]を 下[さ]げることにしました。
+  Um wettbewerbsfähiger zu werden, haben wir beschlossen, den Preis zu senken.
+
+  彼は交渉が上手で、いつも値段を叩くのが得意です。
+  彼[かれ]は 交渉[こうしょう]が 上手[じょうず]で、いつも 値段[ねだん]を 叩[たた]くのが 得意[とくい]です。
+  Er ist gut im Verhandeln und kann immer den Preis herunterhandeln.
+
+  この絵画は結構な値段で売れそうです。
+  この 絵画[かいが]は 結構[けっこう]な 値段[ねだん]で 売[う]れそうです。
+  Dieses Gemälde wird wahrscheinlich für einen guten Preis verkauft werden können.
+
+  そのレストランは法外な値段を吹っかけているようだ。
+  そのレストランは 法外[ほうがい]な 値段[ねだん]を 吹[ふ]っかけているようだ。
+  Es scheint, dass dieses Restaurant exorbitante Preise verlangt.
+
+  セール中はただ同然の値段で商品が手に入ります。
+  セール 中[ちゅう]はただ 同然[どうぜん]の 値段[ねだん]で 商品[しょうひん]が 手[て]に 入[い]ります。
+  Während des Ausverkaufs kann man Produkte zu Spottpreisen bekommen.
+
+  アンジェリーナの店は適正な値段で優れたサービスを提供しています。
+  アンジェリーナの 店[みせ]は 適正[てきせい]な 値段[ねだん]で 優[すぐ]れたサービスを 提供[ていきょう]しています。
+  Angelinas Geschäft bietet hervorragende Dienstleistungen zu angemessenen Preisen an.
+
+  輸入品は値段が張るが、品質は確かだ。
+  輸入品[ゆにゅうひん]は 値段[ねだん]が 張[は]るが、品質[ひんしつ]は 確[たし]かだ。
+  Importierte Waren sind zwar teuer, aber die Qualität ist zuverlässig.
+
+  商品を選ぶ時は、値段だけでなく品質も確かめるべきだ。
+  商品[しょうひん]を 選[えら]ぶ 時[とき]は、値段[ねだん]だけでなく 品質[ひんしつ]も 確[たし]かめるべきだ。
+  Beim Aussuchen von Produkten sollte man nicht nur den Preis, sondern auch die Qualität überprüfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,13 +2,13 @@ Rang: 1248
 Lemma: ケース
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Fall
+Definition: Fall, Angelegenheit
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '97'
-Ursprung: ''
+Ursprung: engl. case
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   それはかなり珍しいケースだ。
   それはかなり 珍[めずら]しいケースだ。
-  Das ist ein ziemlich ungewöhnlicher Fall.
+  Das ist ein ziemlich seltener Fall.
+
+  このケースでは慎重な判断が必要です。
+  このケースでは 慎重[しんちょう]な 判断[はんだん]が 必要[ひつよう]です。
+  In diesem Fall ist eine vorsichtige Beurteilung erforderlich.
+
+  彼女の症状は典型的なケースとは言えません。
+  彼女[かのじょ]の 症状[しょうじょう]は 典型的[てんけいてき]なケースとは 言[い]えません。
+  Ihre Symptome können nicht als typischer Fall bezeichnet werden.
+
+  ケースバイケースで対応する必要があります。
+  ケースバイケースで 対応[たいおう]する 必要[ひつよう]があります。
+  Wir müssen von Fall zu Fall reagieren.
+
+  最悪のケースを想定して準備しましょう。
+  最悪[さいあく]のケースを 想定[そうてい]して 準備[じゅんび]しましょう。
+  Lasst uns für den schlimmsten Fall vorbereitet sein.
+
+  このようなケースは初めてです。
+  このようなケースは 初[はじ]めてです。
+  So einen Fall haben wir zum ersten Mal.
+
+  ケースカンファレンスで患者の状態を詳しく検討します。
+  ケースカンファレンスで 患者[かんじゃ]の 状態[じょうたい]を 詳[くわ]しく 検討[けんとう]します。
+  In der Fallkonferenz werden wir den Zustand des Patienten im Detail besprechen.
+
+  ケースマネージメントの重要性が増しています。
+  ケースマネージメントの 重要性[じゅうようせい]が 増[ふ]しています。
+  Die Bedeutung des Fallmanagements nimmt zu.
+
+  ケースメソッドを用いた授業は学生に人気があります。
+  ケースメソッドを 用[もち]いた 授業[じゅぎょう]は 学生[がくせい]に 人気[にんき]があります。
+  Unterricht mit der Fallstudienmethode ist bei Studenten beliebt.
+
+  このケーススタディから多くのことが学べます。
+  このケーススタディから 多[おお]くのことが 学[まな]べます。
+  Aus dieser Fallstudie können wir viel lernen.
+
+  これはモデルケースとして扱われています。
+  これはモデルケースとして 扱[あつか]われています。
+  Dies wird als Modellfall behandelt.
+
+  新しい製品のテストケースを作成中です。
+  新[あたら]しい 製品[せいひん]のテストケースを 作成中[さくせいちゅう]です。
+  Wir erstellen gerade Testfälle für das neue Produkt.
+
+  よくあるケースだが、対処法は様々だ。
+  よくあるケースだが、対処法[たいしょほう]は 様々[さまざま]だ。
+  Es ist ein häufiger Fall, aber es gibt verschiedene Lösungsansätze.
+
+  このケースは前例がないので、慎重に対応しています。
+  このケースは 前例[ぜんれい]がないので、慎重[しんちょう]に 対応[たいおう]しています。
+  Da es für diesen Fall keinen Präzedenzfall gibt, gehen wir vorsichtig damit um.
+
+  彼のケースは特殊だが、参考になる点もある。
+  彼[かれ]のケースは 特殊[とくしゅ]だが、参考[さんこう]になる 点[てん]もある。
+  Sein Fall ist zwar speziell, enthält aber auch lehrreiche Aspekte.
+
+  ケースワーカーが個々のケースに丁寧に対応しています。
+  ケースワーカーが 個々[ここ]のケースに 丁寧[ていねい]に 対応[たいおう]しています。
+  Die Sozialarbeiter kümmern sich sorgfältig um jeden einzelnen Fall.
+
+  このケースは法的な観点から検討する必要がある。
+  このケースは 法的[ほうてき]な 観点[かんてん]から 検討[けんとう]する 必要[ひつよう]がある。
+  Dieser Fall muss aus rechtlicher Sicht geprüft werden.
+
+  ケースによっては例外的な対応も認められます。
+  ケースによっては 例外的[れいがいてき]な 対応[たいおう]も 認[みと]められます。
+  In manchen Fällen sind auch Ausnahmen zulässig.
+
+  彼女の回復は画期的なケースとして注目されています。
+  彼女[かのじょ]の 回復[かいふく]は 画期的[かっきてき]なケースとして 注目[ちゅうもく]されています。
+  Ihre Genesung wird als bahnbrechender Fall betrachtet.
+
+  このケースは言語学的に興味深い特徴を持っています。
+  このケースは 言語学的[げんごがくてき]に 興味深[きょうみぶか]い 特徴[とくちょう]を 持[も]っています。
+  Dieser Fall weist linguistisch interessante Merkmale auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

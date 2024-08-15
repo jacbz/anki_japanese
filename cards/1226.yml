@@ -1,26 +1,123 @@
 Rang: 1226
 Lemma: 捕らえる
 Lesung: とらえる
-Alternativschreibweisen: ''
-Definition: fangen, greifen, ergreifen, verhaften
+Alternativschreibweisen: 捉える
+Definition: fangen; erfassen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 捕らえない・捕らえた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   警察は犯人を捕らえるためにわなをしかけた。
   警察[けいさつ]は 犯人[はんにん]を 捕[と]らえるためにわなをしかけた。
-  Die Polizei stellte eine Falle auf, um den Verbrecher zu fangen.
+  Die Polizei stellte eine Falle, um den Täter zu fassen.
+
+  彼は上手にボールを捕らえて、チームを勝利に導いた。
+  彼[かれ]は 上手[じょうず]にボールを 捕[と]らえて、チームを 勝利[しょうり]に 導[みちび]いた。
+  Er fing den Ball geschickt und führte das Team zum Sieg.
+
+  蝶を捕らえようとしたが、うまく逃げられてしまった。
+  蝶[ちょう]を 捕[と]らえようとしたが、うまく 逃[に]げられてしまった。
+  Ich versuchte, einen Schmetterling zu fangen, aber er entwischte mir geschickt.
+
+  彼女は相手の弱点を捕らえて、議論に勝った。
+  彼女[かのじょ]は 相手[あいて]の 弱点[じゃくてん]を 捕[と]らえて、議論[ぎろん]に 勝[か]った。
+  Sie erfasste die Schwäche ihres Gegners und gewann die Debatte.
+
+  この本は現代社会の問題をうまく捕らえている。
+  この 本[ほん]は 現代社会[げんだいしゃかい]の 問題[もんだい]をうまく 捕[と]らえている。
+  Dieses Buch erfasst die Probleme der modernen Gesellschaft gut.
+
+  彼は瞬間的なチャンスを捕らえて、ビジネスで成功した。
+  彼[かれ]は 瞬間的[しゅんかんてき]なチャンスを 捕[と]らえて、ビジネスで 成功[せいこう]した。
+  Er ergriff die momentane Chance und war im Geschäft erfolgreich.
+
+  警察は逃亡中の容疑者を捕らえるため、24時間体制で捜査している。
+  警察[けいさつ]は 逃亡中[とうぼうちゅう]の 容疑者[ようぎしゃ]を 捕[と]らえるため、24時間体制[じかんたいせい]で 捜査[そうさ]している。
+  Die Polizei ermittelt rund um die Uhr, um den flüchtigen Verdächtigen zu fassen.
+
+  彼女は問題の本質を鋭く捕らえ、的確な解決策を提案した。
+  彼女[かのじょ]は 問題[もんだい]の 本質[ほんしつ]を 鋭[するど]く 捕[と]らえ、的確[てきかく]な 解決策[かいけつさく]を 提案[ていあん]した。
+  Sie erfasste den Kern des Problems scharf und schlug eine präzise Lösung vor.
+
+  子猫を捕らえようとしたが、すばやく木に登って逃げられた。
+  子猫[こねこ]を 捕[と]らえようとしたが、すばやく 木[き]に 登[のぼ]って 逃[に]げられた。
+  Ich versuchte, das Kätzchen zu fangen, aber es kletterte schnell auf einen Baum und entkam.
+
+  彼は観客の心を捕らえる演技で、会場を魅了した。
+  彼[かれ]は 観客[かんきゃく]の 心[こころ]を 捕[と]らえる 演技[えんぎ]で、会場[かいじょう]を 魅了[みりょう]した。
+  Er fesselte das Publikum mit seiner Darbietung und verzauberte den ganzen Saal.
+
+  新しいカメラは動きの速い被写体もしっかりと捕らえることができる。
+  新[あたら]しいカメラは 動[うご]きの 速[はや]い 被写体[ひしゃたい]もしっかりと 捕[と]らえることができる。
+  Die neue Kamera kann auch sich schnell bewegende Motive gut einfangen.
+
+  彼女は相手の言葉尻を捕らえて、鋭い反論をした。
+  彼女[かのじょ]は 相手[あいて]の 言葉尻[ことばじり]を 捕[と]らえて、鋭[するど]い 反論[はんろん]をした。
+  Sie griff die Worte ihres Gegenübers auf und konterte mit einer scharfen Erwiderung.
+
+  研究者たちは新種の昆虫を捕らえるため、深い森に入った。
+  研究者[けんきゅうしゃ]たちは 新種[しんしゅ]の 昆虫[こんちゅう]を 捕[と]らえるため、深[ふか]い 森[もり]に 入[はい]った。
+  Die Forscher begaben sich in den tiefen Wald, um eine neue Insektenart zu fangen.
+
+  彼の小説は人間の複雑な感情をうまく捕らえている。
+  彼[かれ]の 小説[しょうせつ]は 人間[にんげん]の 複雑[ふくざつ]な 感情[かんじょう]をうまく 捕[と]らえている。
+  Seine Romane erfassen die komplexen menschlichen Gefühle gut.
+
+  カメラマンは決定的な瞬間を捕らえようと、じっと待ち構えていた。
+  カメラマンは 決定的[けっていてき]な 瞬間[しゅんかん]を 捕[と]らえようと、じっと 待[ま]ち 構[かま]えていた。
+  Der Fotograf wartete geduldig darauf, den entscheidenden Moment einzufangen.
+
+  彼女は相手の動きを素早く捕らえ、見事な反撃を繰り出した。
+  彼女[かのじょ]は 相手[あいて]の 動[うご]きを 素早[すばや]く 捕[と]らえ、見事[みごと]な 反撃[はんげき]を 繰[く]り 出[だ]した。
+  Sie erfasste die Bewegungen ihres Gegners schnell und startete einen brillanten Gegenangriff.
+
+  子供たちは川で小魚を捕らえて遊んでいた。
+  子供[こども]たちは 川[かわ]で 小魚[こざかな]を 捕[と]らえて 遊[あそ]んでいた。
+  Die Kinder spielten am Fluss und fingen kleine Fische.
+
+  彼は観客の注目を捕らえるような演説をした。
+  彼[かれ]は 観客[かんきゃく]の 注目[ちゅうもく]を 捕[と]らえるような 演説[えんぜつ]をした。
+  Er hielt eine Rede, die die Aufmerksamkeit des Publikums fesselte.
+
+  警察は逃げる泥棒を追いかけ、最終的に捕らえることができた。
+  警察[けいさつ]は 逃[に]げる 泥棒[どろぼう]を 追[お]いかけ、最終的[さいしゅうてき]に 捕[と]らえることができた。
+  Die Polizei verfolgte den fliehenden Dieb und konnte ihn schließlich fassen.
+
+  彼女は社会の変化を鋭く捕らえ、的確な予測を立てた。
+  彼女[かのじょ]は 社会[しゃかい]の 変化[へんか]を 鋭[するど]く 捕[と]らえ、的確[てきかく]な 予測[よそく]を 立[た]てた。
+  Sie erfasste die gesellschaftlichen Veränderungen scharf und stellte präzise Prognosen auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>捕らえる hat mehrere Bedeutungen:</p>
+  <div class="examples">
+    <div class="jp">警察[けいさつ]が 犯人[はんにん]を 捕[と]らえた。</div>
+    <div class="de spoiler">Die Polizei hat den Täter gefasst.</div>
+  </div>
+  <p>1. Physisch etwas oder jemanden fangen oder ergreifen.</p>
+  <div class="examples">
+    <div class="jp">ボールを 上手[じょうず]に 捕[と]らえた。</div>
+    <div class="de spoiler">Er fing den Ball geschickt.</div>
+  </div>
+  <p>2. Abstrakt etwas erfassen oder verstehen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 問題[もんだい]の 本質[ほんしつ]を 捕[と]らえた。</div>
+    <div class="de spoiler">Er erfasste den Kern des Problems.</div>
+  </div>
+  <p>3. Jemandes Aufmerksamkeit oder Interesse fesseln.</p>
+  <div class="examples">
+    <div class="jp">その 映画[えいが]は 観客[かんきゃく]の 心[こころ]を 捕[と]らえた。</div>
+    <div class="de spoiler">Der Film fesselte die Herzen des Publikums.</div>
+  </div>
+  <p>In der Umgangssprache wird oft die kürzere Form 捕まえる (つかまえる) verwendet.</p>

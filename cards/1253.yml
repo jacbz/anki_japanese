@@ -1,8 +1,8 @@
 Rang: 1253
 Lemma: よろしく
 Lesung: ''
-Alternativschreibweisen: ''
-Definition: gut, ordentlich, herzliche Grüße
+Alternativschreibweisen: 宜しく
+Definition: gut, angemessen; Gruß übermitteln
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Lesung mit Tonhöhe: .\(.).
@@ -16,11 +16,102 @@ Konjugation: ''
 Beispielsätze: |-
   彼によろしくお伝えください。
   彼[かれ]によろしくお 伝[つた]えください。
-  Bitte grüßen Sie ihn herzlich von mir.
+  Bitte richten Sie ihm meine Grüße aus.
+
+  宜しく頼みます。
+  よろしく 頼[たの]みます。
+  Ich bitte Sie um Ihre freundliche Unterstützung.
+
+  その判断は君に宜しく頼む。
+  その 判断[はんだん]は 君[きみ]によろしく 頼[たの]む。
+  Ich überlasse dir die Entscheidung.
+
+  それでは宜しく。
+  それではよろしく。
+  Dann kümmern Sie sich bitte darum.
+
+  くれぐれもご両親に宜しく。
+  くれぐれもご 両親[りょうしん]によろしく。
+  Bitte grüßen Sie Ihre Eltern vielmals von mir.
+
+  では、お二人ともお大事に。矢須子さんによろしく。
+  では、お 二人[ふたり]ともお 大事[だいじ]に。矢須子[やすこ]さんによろしく。
+  Also dann, passt auf euch auf. Und grüßt Yasuko von mir.
+
+  ああ、それからね、片倉のマザーが君にくれぐれもよろしくって言ってたよ。
+  ああ、それからね、片倉[かたくら]のマザーが 君[きみ]にくれぐれもよろしくって 言[い]ってたよ。
+  Ach ja, Katakuras Mutter hat mich mehrmals gebeten, dich von ihr zu grüßen.
+
+  この件は君に宜しく頼むよ。
+  この 件[けん]は 君[きみ]によろしく 頼[たの]むよ。
+  Ich verlasse mich in dieser Angelegenheit auf dich.
+
+  新しい仕事、宜しくお願いします。
+  新[あたら]しい 仕事[しごと]、よろしくお 願[ねが]いします。
+  Ich freue mich auf die Zusammenarbeit bei der neuen Arbeit.
+
+  山田さんによろしくお伝えください。
+  山田[やまだ]さんによろしくお 伝[つた]えください。
+  Bitte grüßen Sie Herrn Yamada von mir.
+
+  この問題は君に宜しく対応してもらいたい。
+  この 問題[もんだい]は 君[きみ]によろしく 対応[たいおう]してもらいたい。
+  Ich möchte, dass du dich angemessen um dieses Problem kümmerst.
+
+  お世話になります。今後ともよろしくお願いいたします。
+  お 世話[せわ]になります。今後[こんご]ともよろしくお 願[ねが]いいたします。
+  Vielen Dank für Ihre Unterstützung. Ich freue mich auf die weitere Zusammenarbeit.
+
+  初めまして、田中です。よろしくお願いします。
+  初[はじ]めまして、田中[たなか]です。よろしくお 願[ねが]いします。
+  Schön Sie kennenzulernen. Ich bin Tanaka. Ich freue mich auf eine gute Zusammenarbeit.
+
+  新しいプロジェクト、よろしくお願いしますね。
+  新[あたら]しいプロジェクト、よろしくお 願[ねが]いしますね。
+  Ich zähle auf Sie bei dem neuen Projekt.
+
+  宜しくお取り計らいください。
+  よろしくお 取[と]り 計[はか]らいください。
+  Bitte kümmern Sie sich darum.
+
+  会議の件、よろしく頼むよ。
+  会議[かいぎ]の 件[けん]、よろしく 頼[たの]むよ。
+  Ich verlasse mich auf dich in Bezug auf die Besprechung.
+
+  新入社員の指導、よろしくお願いします。
+  新入社員[しんにゅうしゃいん]の 指導[しどう]、よろしくお 願[ねが]いします。
+  Bitte kümmern Sie sich um die Anleitung der neuen Mitarbeiter.
+
+  彼女によろしく言っておいてね。
+  彼女[かのじょ]によろしく 言[い]っておいてね。
+  Sag ihr bitte einen schönen Gruß von mir.
+
+  この案件、よろしく処理してください。
+  この 案件[あんけん]、よろしく 処理[しょり]してください。
+  Bitte erledigen Sie diese Angelegenheit angemessen.
+
+  明日の打ち合わせ、よろしくお願いします。
+  明日[あした]の 打[う]ち 合[あ]わせ、よろしくお 願[ねが]いします。
+  Ich freue mich auf das Treffen morgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>よろしく wird oft als Höflichkeitsformel verwendet, um jemanden um etwas zu bitten oder Grüße zu übermitteln. Es drückt auch die Erwartung aus, dass etwas gut oder angemessen erledigt wird.</p>
+  <div class="examples">
+    <div class="jp">新[あたら]しい 同僚[どうりょう]です。よろしくお 願[ねが]いします。</div>
+    <div class="de spoiler">Ich bin der neue Kollege. Ich freue mich auf eine gute Zusammenarbeit.</div>
+  </div>
+  <p>Es wird auch verwendet, um Grüße zu übermitteln:</p>
+  <div class="examples">
+    <div class="jp">田中[たなか]さんによろしくお 伝[つた]えください。</div>
+    <div class="de spoiler">Bitte richten Sie Herrn Tanaka meine Grüße aus.</div>
+  </div>
+  <p>In informellen Situationen kann es auch allein stehen:</p>
+  <div class="examples">
+    <div class="jp">じゃ、よろしく！</div>
+    <div class="de spoiler">Also dann, mach's gut!</div>
+  </div>

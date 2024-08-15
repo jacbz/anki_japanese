@@ -1,26 +1,130 @@
 Rang: 1360
 Lemma: 移る
 Lesung: うつる
-Alternativschreibweisen: ''
-Definition: bewegen, übertragen, verschieben
+Alternativschreibweisen: 遷る
+Definition: umziehen; wechseln; übergehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 移らない・移った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あの席に移ってもよろしいですか。
   あの 席[せき]に 移[うつ]ってもよろしいですか。
-  Kann ich zu diesem Sitzplatz bewegen?
+  Darf ich mich auf jenen Platz umsetzen?
+
+  来月、新しい会社に移ることになった。
+  来月[らいげつ]、新[あたら]しい 会社[かいしゃ]に 移[うつ]ることになった。
+  Ab nächsten Monat werde ich in eine neue Firma wechseln.
+
+  彼らは先月、東京に移った。
+  彼[かれ]らは 先月[せんげつ]、東京[とうきょう]に 移[うつ]った。
+  Sie sind letzten Monat nach Tokyo umgezogen.
+
+  話題が突然、政治に移った。
+  話題[わだい]が 突然[とつぜん]、政治[せいじ]に 移[うつ]った。
+  Das Gesprächsthema wechselte plötzlich zur Politik.
+
+  息子の関心が野球からサッカーに移ってきた。
+  息子[むすこ]の 関心[かんしん]が 野球[やきゅう]からサッカーに 移[うつ]ってきた。
+  Das Interesse meines Sohnes hat sich vom Baseball zum Fußball verlagert.
+
+  彼女の気持ちが別の人に移ったようだ。
+  彼女[かのじょ]の 気持[きも]ちが 別[べつ]の 人[ひと]に 移[うつ]ったようだ。
+  Es scheint, als hätten sich ihre Gefühle auf jemand anderen verlagert.
+
+  火事が隣の家に移らないように注意した。
+  火事[かじ]が 隣[となり]の 家[いえ]に 移[うつ]らないように 注意[ちゅうい]した。
+  Wir passten auf, dass das Feuer nicht auf das Nachbarhaus übergriff.
+
+  彼の風邪が私にも移ってしまった。
+  彼[かれ]の 風邪[かぜ]が 私[わたし]にも 移[うつ]ってしまった。
+  Ich habe mich mit seiner Erkältung angesteckt.
+
+  議論が具体的な行動に移るのを期待している。
+  議論[ぎろん]が 具体的[ぐたいてき]な 行動[こうどう]に 移[うつ]るのを 期待[きたい]している。
+  Ich hoffe, dass die Diskussion in konkrete Handlungen übergeht.
+
+  この問題の解決に移りましょう。
+  この 問題[もんだい]の 解決[かいけつ]に 移[うつ]りましょう。
+  Lasst uns zur Lösung dieses Problems übergehen.
+
+  季節が夏から秋に移るにつれて、日が短くなる。
+  季節[きせつ]が 夏[なつ]から 秋[あき]に 移[うつ]るにつれて、日[ひ]が 短[みじか]くなる。
+  Wenn die Jahreszeit vom Sommer in den Herbst übergeht, werden die Tage kürzer.
+
+  時代が移るにつれて、価値観も変わっていく。
+  時代[じだい]が 移[うつ]るにつれて、価値観[かちかん]も 変[か]わっていく。
+  Mit dem Wandel der Zeit ändern sich auch die Wertvorstellungen.
+
+  都が京都から江戸に移った。
+  都[みやこ]が 京都[きょうと]から 江戸[えど]に 移[うつ]った。
+  Die Hauptstadt wurde von Kyoto nach Edo verlegt.
+
+  彼女は大学を卒業後、地方に移って暮らすことにした。
+  彼女[かのじょ]は 大学[だいがく]を 卒業後[そつぎょうご]、地方[ちほう]に 移[うつ]って 暮らす[くらす]ことにした。
+  Nach ihrem Universitätsabschluss beschloss sie, in die Provinz zu ziehen und dort zu leben.
+
+  新しい環境に移るのは、最初は不安だったけど、今はもう慣れた。
+  新[あたら]しい 環境[かんきょう]に 移[うつ]るのは、最初[さいしょ]は 不安[ふあん]だったけど、今[いま]はもう 慣[な]れた。
+  Am Anfang war ich nervös, in eine neue Umgebung zu wechseln, aber jetzt habe ich mich daran gewöhnt.
+
+  会社の業務システムが新しいものに移るのに時間がかかった。
+  会社[かいしゃ]の 業務[ぎょうむ]システムが 新[あたら]しいものに 移[うつ]るのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, bis das Geschäftssystem der Firma auf ein neues umgestellt wurde.
+
+  彼の視線がゆっくりと私から窓の外に移った。
+  彼[かれ]の 視線[しせん]がゆっくりと 私[わたし]から 窓[まど]の 外[そと]に 移[うつ]った。
+  Sein Blick wanderte langsam von mir zum Fenster hinaus.
+
+  このプロジェクトは計画段階から実行段階に移りつつある。
+  このプロジェクトは 計画[けいかく]段階[だんかい]から 実行[じっこう]段階[だんかい]に 移[うつ]りつつある。
+  Dieses Projekt geht gerade von der Planungsphase in die Umsetzungsphase über.
+
+  彼女の病気が家族全員に移らないか心配だ。
+  彼女[かのじょ]の 病気[びょうき]が 家族[かぞく]全員[ぜんいん]に 移[うつ]らないか 心配[しんぱい]だ。
+  Ich mache mir Sorgen, dass sich ihre Krankheit auf die ganze Familie überträgt.
+
+  彼の関心は音楽から絵画に移っていった。
+  彼[かれ]の 関心[かんしん]は 音楽[おんがく]から 絵画[かいが]に 移[うつ]っていった。
+  Sein Interesse verlagerte sich von der Musik zur Malerei.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 移る (うつる) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Umziehen oder den Platz wechseln:<div class='examples'>
+        <div class='jp'>新[あたら]しい 家[いえ]に 移[うつ]る。</div>
+        <div class='de spoiler'>In ein neues Haus ziehen.</div>
+      </div>
+    </li>
+    <li>Sich verlagern oder verschieben (z.B. Interesse, Gefühle):<div class='examples'>
+        <div class='jp'>彼[かれ]の 関心[かんしん]は 音楽[おんがく]から 絵画[かいが]に 移[うつ]った。</div>
+        <div class='de spoiler'>Sein Interesse verlagerte sich von der Musik zur Malerei.</div>
+      </div>
+    </li>
+    <li>Übertragen werden (z.B. Krankheiten):<div class='examples'>
+        <div class='jp'>風邪[かぜ]が 移[うつ]る。</div>
+        <div class='de spoiler'>Eine Erkältung wird übertragen.</div>
+      </div>
+    </li>
+    <li>Zu etwas übergehen oder wechseln:<div class='examples'>
+        <div class='jp'>話題[わだい]が 政治[せいじ]に 移[うつ]った。</div>
+        <div class='de spoiler'>Das Thema wechselte zur Politik.</div>
+      </div>
+    </li>
+    <li>Vergehen (von Zeit):<div class='examples'>
+        <div class='jp'>時[とき]が 移[うつ]るにつれて、状況[じょうきょう]も 変[か]わる。</div>
+        <div class='de spoiler'>Mit der Zeit ändert sich auch die Situation.</div>
+      </div>
+    </li>
+  </ol>

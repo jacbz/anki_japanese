@@ -1,10 +1,10 @@
 Rang: 1250
 Lemma: 日々
 Lesung: ひび
-Alternativschreibweisen: ''
-Definition: täglich, jeden Tag; Tage
+Alternativschreibweisen: 日日
+Definition: Tag für Tag
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Lesung mit Tonhöhe: \.
 Register: ''
 Dispersion: '94'
@@ -15,12 +15,100 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日々の生活にストレスを感じる人は多い。
-  日々[ひび]の 生活[せいかつ]にストレスを 感[かん]じる人は 多[おお]い。
-  Viele Menschen fühlen sich in ihrem täglichen Leben gestresst.
+  日々[ひび]の 生活[せいかつ]にストレスを 感[かん]じる 人[ひと]は 多[おお]い。
+  Viele Menschen empfinden Stress im täglichen Leben.
+
+  青春の日々を懐かしく思い出す。
+  青春[せいしゅん]の 日々[ひび]を 懐[なつ]かしく 思[おも]い 出[だ]す。
+  Ich erinnere mich nostalgisch an meine Jugendtage.
+
+  街に出てからの箱男の日々は、おおむね平穏に過ぎて行く。
+  街[まち]に 出[で]てからの 箱男[はこおとこ]の 日々[ひび]は、おおむね 平穏[へいおん]に 過[す]ぎて 行[い]く。
+  Die Tage des Schachtelmannes in der Stadt verlaufen meist friedlich.
+
+  「こちらはどんな日々でしたか？」と友人に尋ねた。
+  「こちらはどんな 日々[ひび]でしたか？」と 友人[ゆうじん]に 尋[たず]ねた。
+  "Wie waren deine Tage?", fragte ich meinen Freund.
+
+  日々の営みをやめるわけにはいかない。
+  日々[ひび]の 営[いとな]みをやめるわけにはいかない。
+  Man kann nicht einfach die täglichen Verrichtungen aufgeben.
+
+  彼女は日々の生活を大切にしている。
+  彼女[かのじょ]は 日々[ひび]の 生活[せいかつ]を 大切[たいせつ]にしている。
+  Sie schätzt ihr tägliches Leben sehr.
+
+  日々の努力が実を結んだ。
+  日々[ひび]の 努力[どりょく]が 実[み]を 結[むす]んだ。
+  Die täglichen Bemühungen haben Früchte getragen.
+
+  日々新しい発見がある。
+  日々[ひび] 新[あたら]しい 発見[はっけん]がある。
+  Jeden Tag gibt es neue Entdeckungen.
+
+  日々の習慣を見直すことが大切だ。
+  日々[ひび]の 習慣[しゅうかん]を 見直[みなお]すことが 大切[たいせつ]だ。
+  Es ist wichtig, die täglichen Gewohnheiten zu überdenken.
+
+  日々の積み重ねが成功への鍵だ。
+  日々[ひび]の 積[つ]み 重[かさ]ねが 成功[せいこう]への 鍵[かぎ]だ。
+  Die tägliche Ansammlung ist der Schlüssel zum Erfolg.
+
+  彼は日々成長している。
+  彼[かれ]は 日々[ひび] 成長[せいちょう]している。
+  Er wächst Tag für Tag.
+
+  日々の食事に気を配っている。
+  日々[ひび]の 食事[しょくじ]に 気[き]を 配[くば]っている。
+  Ich achte auf meine tägliche Ernährung.
+
+  日々の運動が健康維持に役立つ。
+  日々[ひび]の 運動[うんどう]が 健康[けんこう] 維持[いじ]に 役立[やくだ]つ。
+  Tägliche Bewegung hilft, die Gesundheit zu erhalten.
+
+  日々の業務をこなすのに忙しい。
+  日々[ひび]の 業務[ぎょうむ]をこなすのに 忙[いそが]しい。
+  Ich bin damit beschäftigt, die täglichen Aufgaben zu bewältigen.
+
+  日々の挨拶を欠かさない。
+  日々[ひび]の 挨拶[あいさつ]を 欠[か]かさない。
+  Ich versäume nie die tägliche Begrüßung.
+
+  日々の経験が人を成長させる。
+  日々[ひび]の 経験[けいけん]が 人[ひと]を 成長[せいちょう]させる。
+  Die täglichen Erfahrungen lassen Menschen wachsen.
+
+  日々の感謝の気持ちを忘れないように心がけている。
+  日々[ひび]の 感謝[かんしゃ]の 気持[きも]ちを 忘[わす]れないように 心[こころ]がけている。
+  Ich bemühe mich, das tägliche Gefühl der Dankbarkeit nicht zu vergessen.
+
+  日々の小さな幸せを大切にしよう。
+  日々[ひび]の 小[ちい]さな 幸[しあわ]せを 大切[たいせつ]にしよう。
+  Lasst uns die kleinen täglichen Freuden wertschätzen.
+
+  日々の仕事に誇りを持っている。
+  日々[ひび]の 仕事[しごと]に 誇[ほこ]りを 持[も]っている。
+  Ich bin stolz auf meine tägliche Arbeit.
+
+  日々の出来事を日記に書いている。
+  日々[ひび]の 出来事[できごと]を 日記[にっき]に 書[か]いている。
+  Ich schreibe die täglichen Ereignisse in mein Tagebuch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>日々 (ひび) kann als Nomen oder Adverb verwendet werden.</p>
+  <p>Als Nomen bedeutet es "die Tage" und wird oft in Verbindung mit Attributen verwendet, um einen bestimmten Zeitraum oder eine Art von Tagen zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">青春[せいしゅん]の日々[ひび]</div>
+    <div class="de spoiler">Die Jugendtage</div>
+  </div>
+  <p>Als Adverb bedeutet es "täglich", "Tag für Tag" oder "jeden Tag" und beschreibt eine regelmäßige, sich wiederholende Handlung oder einen Zustand.</p>
+  <div class="examples">
+    <div class="jp">日々[ひび]努力[どりょく]する</div>
+    <div class="de spoiler">Sich täglich bemühen</div>
+  </div>
+  <p>Die Schreibweise 日日 ist eine alternative Form, die weniger häufig verwendet wird.</p>

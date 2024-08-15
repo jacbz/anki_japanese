@@ -9,14 +9,94 @@ Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '87'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 眠らない・眠った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   昨日の夜、全然眠れなかった。
-  昨日[きのう]の 夜[よる]、 全然[ぜんぜん] 眠[ねむ]れなかった。
-  Ich konnte letzte Nacht überhaupt nicht schlafen.
+  昨日[きのう]の 夜[よる]、全然[ぜんぜん] 眠[ねむ]れなかった。
+  Letzte Nacht konnte ich überhaupt nicht schlafen.
+
+  赤ん坊が眠っているので、静かにしてください。
+  赤[あか]ん 坊[ぼう]が 眠[ねむ]っているので、静[しず]かにしてください。
+  Das Baby schläft, also seien Sie bitte leise.
+
+  町全体が眠っているような静けさでした。
+  町[まち] 全体[ぜんたい]が 眠[ねむ]っているような 静[しず]けさでした。
+  Es war so still, als ob die ganze Stadt schliefe.
+
+  彼の財産は銀行に眠ったままです。
+  彼[かれ]の 財産[ざいさん]は 銀行[ぎんこう]に 眠[ねむ]ったままです。
+  Sein Vermögen ruht ungenutzt auf der Bank.
+
+  ランチの後、ほんのちょっと眠りたいです。
+  ランチの 後[あと]、ほんのちょっと 眠[ねむ]りたいです。
+  Nach dem Mittagessen möchte ich ein kurzes Schläfchen halten.
+
+  疲れすぎて、死んだように眠ってしまった。
+  疲[つか]れすぎて、死[し]んだように 眠[ねむ]ってしまった。
+  Ich war so erschöpft, dass ich wie ein Toter geschlafen habe.
+
+  彼女は正体なく眠っていて、起こすのが難しかった。
+  彼女[かのじょ]は 正体[しょうたい]なく 眠[ねむ]っていて、起[お]こすのが 難[むずか]しかった。
+  Sie schlief wie ein Murmeltier und war schwer zu wecken.
+
+  ストレスのせいで、最近よく眠れません。
+  ストレスのせいで、最近[さいきん]よく 眠[ねむ]れません。
+  Wegen des Stresses kann ich in letzter Zeit nicht gut schlafen.
+
+  赤ちゃんがよく眠っているうちに、家事をしましょう。
+  赤[あか]ちゃんがよく 眠[ねむ]っているうちに、家事[かじ]をしましょう。
+  Lass uns die Hausarbeit erledigen, während das Baby fest schläft.
+
+  眠れない夜は本を読んで過ごすことが多いです。
+  眠[ねむ]れない 夜[よる]は 本[ほん]を 読[よ]んで 過[す]ごすことが 多[おお]いです。
+  In schlaflosen Nächten verbringe ich oft die Zeit mit Lesen.
+
+  僕は到底眠らずに苦しみつづけるのに堪えなかった。
+  僕[ぼく]は 到底[とうてい] 眠[ねむ]らずに 苦[くる]しみつづけるのに 堪[た]えなかった。
+  Mich weiter mit Grübeleien quälen zu müssen und nicht schlafen zu können schien mir unerträglich.
+
+  よく眠れなかったときは、いつもつぎの日、学校でぼんやりしちゃうでしょ。
+  よく 眠[ねむ]れなかったときは、いつもつぎの 日[ひ]、学校[がっこう]でぼんやりしちゃうでしょ。
+  Immer wenn du schlecht schläfst, kannst du am nächsten Tag in der Schule nicht richtig aufpassen, oder?
+
+  ベッポは、町がまだねむっている夜明けまえのこの時間がすきでした。
+  ベッポは、町[まち]がまだねむっている 夜明[よあ]けまえのこの 時間[じかん]がすきでした。
+  Beppo liebte diese Stunden vor Tagesanbruch, wenn die Stadt noch schlief.
+
+  祖父は昨夜、静かに永遠の眠りについた。
+  祖父[そふ]は 昨夜[さくや]、静[しず]かに 永遠[えいえん]の 眠[ねむ]りについた。
+  Mein Großvater ist gestern Nacht friedlich für immer eingeschlafen.
+
+  戦争で亡くなった兵士たちが、この墓地に眠っています。
+  戦争[せんそう]で 亡[な]くなった 兵士[へいし]たちが、この 墓地[ぼち]に 眠[ねむ]っています。
+  Die im Krieg gefallenen Soldaten ruhen auf diesem Friedhof.
+
+  現実にはタマングはバルタサール市を見下ろす大きな墓所の地下二メートルのところに眠っており。
+  現実[げんじつ]にはタマングはバルタサール 市[し]を 見下[みくだ]ろす 大[おお]きな 墓所[ぼしょ]の 地下[ちか]二[に]メートルのところに 眠[ねむ]っており。
+  In Wirklichkeit lag Tamang in zwei Meter Tiefe auf dem großen Friedhof, der auf die Stadt Balthasar hinunterblickte.
+
+  眠る前に温かい牛乳を飲むと、よく眠れるそうです。
+  眠[ねむ]る 前[まえ]に 温[あたた]かい 牛乳[ぎゅうにゅう]を 飲[の]むと、よく 眠[ねむ]れるそうです。
+  Man sagt, dass man besser schläft, wenn man vor dem Schlafengehen warme Milch trinkt.
+
+  彼は眠りが浅いので、ちょっとした物音でも目が覚めてしまう。
+  彼[かれ]は 眠[ねむ]りが 浅[あさ]いので、ちょっとした 物音[ものおと]でも 目[め]が 覚[さ]めてしまう。
+  Er hat einen leichten Schlaf und wacht bei dem geringsten Geräusch auf.
+
+  長い間眠っていた才能が、やっと目覚め始めた。
+  長[なが]い 間[あいだ] 眠[ねむ]っていた 才能[さいのう]が、やっと 目覚[めざ]め 始[はじ]めた。
+  Das lange schlummernde Talent begann endlich zu erwachen.
+
+  夜勤明けで眠たいけど、大事な会議があるから頑張って起きてる。
+  夜勤[やきん] 明[あ]けで 眠[ねむ]たいけど、大事[だいじ]な 会議[かいぎ]があるから 頑張[がんば]って 起[お]きてる。
+  Ich bin nach der Nachtschicht müde, aber ich bleibe wach, weil ich eine wichtige Besprechung habe.
+
+  冬眠中の動物たちは、春が来るまでぐっすり眠り続けます。
+  冬眠中[とうみんちゅう]の 動物[どうぶつ]たちは、春[はる]が 来[く]るまでぐっすり 眠[ねむ]り 続[つづ]けます。
+  Die Tiere im Winterschlaf schlafen tief und fest, bis der Frühling kommt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

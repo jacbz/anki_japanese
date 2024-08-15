@@ -2,7 +2,7 @@ Rang: 1256
 Lemma: 現状
 Lesung: げんじょう
 Alternativschreibweisen: ''
-Definition: gegenwärtiger Zustand, bestehender Zustand
+Definition: gegenwärtige Lage, Status quo
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^^^
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   我々は世界の現状を理解しなければならない。
   我々[われわれ]は 世界[せかい]の 現状[げんじょう]を 理解[りかい]しなければならない。
-  Wir müssen den gegenwärtigen Zustand der Welt verstehen.
+  Wir müssen die gegenwärtige Lage der Welt verstehen.
+
+  企業は現状分析を行い、改善策を考えています。
+  企業[きぎょう]は 現状分析[げんじょうぶんせき]を 行[おこな]い、改善策[かいぜんさく]を 考[かんが]えています。
+  Das Unternehmen führt eine Analyse der aktuellen Situation durch und überlegt Verbesserungsmaßnahmen.
+
+  現状を打破するには、新しいアイデアが必要だ。
+  現状[げんじょう]を 打破[だは]するには、新[あたら]しいアイデアが 必要[ひつよう]だ。
+  Um den Status quo zu durchbrechen, brauchen wir neue Ideen.
+
+  彼らは現状維持を望んでいる。
+  彼[かれ]らは 現状維持[げんじょういじ]を 望[のぞ]んでいる。
+  Sie streben danach, den gegenwärtigen Zustand aufrechtzuerhalten.
+
+  現状から脱却する方法を見つけなければならない。
+  現状[げんじょう]から 脱却[だっきゃく]する 方法[ほうほう]を 見[み]つけなければならない。
+  Wir müssen einen Weg finden, aus der aktuellen Situation auszubrechen.
+
+  多くの人々が現状に甘んじているのは問題だ。
+  多[おお]くの 人々[ひとびと]が 現状[げんじょう]に 甘[あま]んじているのは 問題[もんだい]だ。
+  Es ist problematisch, dass sich viele Menschen mit der gegenwärtigen Situation abfinden.
+
+  環境問題の現状をそのままにしておくわけにはいかない。
+  環境問題[かんきょうもんだい]の 現状[げんじょう]をそのままにしておくわけにはいかない。
+  Wir können die aktuelle Situation der Umweltprobleme nicht so belassen, wie sie ist.
+
+  政府は経済の現状を打破するための政策を発表した。
+  政府[せいふ]は 経済[けいざい]の 現状[げんじょう]を 打破[だは]するための 政策[せいさく]を 発表[はっぴょう]した。
+  Die Regierung hat Maßnahmen angekündigt, um die derzeitige wirtschaftliche Lage zu verbessern.
+
+  この業界の現状を維持するのは難しくなっている。
+  この 業界[ぎょうかい]の 現状[げんじょう]を 維持[いじ]するのは 難[むずか]しくなっている。
+  Es wird zunehmend schwieriger, den Status quo in dieser Branche aufrechtzuerhalten.
+
+  国家の現状を考えると、改革が必要不可欠だ。
+  国家[こっか]の 現状[げんじょう]を 考[かんが]えると、改革[かいかく]が 必要不可欠[ひつようふかけつ]だ。
+  Angesichts der gegenwärtigen Lage des Landes sind Reformen unerlässlich.
+
+  現状を写真と記事で詳しく説明しました。
+  現状[げんじょう]を 写真[しゃしん]と 記事[きじ]で 詳[くわ]しく 説明[せつめい]しました。
+  Wir haben die aktuelle Situation mit Fotos und Artikeln ausführlich erläutert.
+
+  彼は昨日までの仕事の現状を思い出そうとした。
+  彼[かれ]は 昨日[きのう]までの 仕事[しごと]の 現状[げんじょう]を 思[おも]い 出[だ]そうとした。
+  Er versuchte, sich an den Stand der Arbeit bis zum gestrigen Tag zu erinnern.
+
+  現状がここまで悪化してしまった以上、簡単な解決策はない。
+  現状[げんじょう]がここまで 悪化[あっか]してしまった 以上[いじょう]、簡単[かんたん]な 解決策[かいけつさく]はない。
+  Da sich die Situation so weit verschlechtert hat, gibt es keine einfache Lösung mehr.
+
+  私たちは現状を客観的に分析する必要がある。
+  私[わたし]たちは 現状[げんじょう]を 客観的[きゃっかんてき]に 分析[ぶんせき]する 必要[ひつよう]がある。
+  Wir müssen die gegenwärtige Situation objektiv analysieren.
+
+  現状を改善するには、全員の協力が不可欠だ。
+  現状[げんじょう]を 改善[かいぜん]するには、全員[ぜんいん]の 協力[きょうりょく]が 不可欠[ふかけつ]だ。
+  Um die aktuelle Situation zu verbessern, ist die Zusammenarbeit aller unerlässlich.
+
+  彼女は会社の現状に満足していない。
+  彼女[かのじょ]は 会社[かいしゃ]の 現状[げんじょう]に 満足[まんぞく]していない。
+  Sie ist mit dem gegenwärtigen Zustand des Unternehmens unzufrieden.
+
+  現状を変えるには、勇気と決断力が必要です。
+  現状[げんじょう]を 変[か]えるには、勇気[ゆうき]と 決断力[けつだんりょく]が 必要[ひつよう]です。
+  Um die aktuelle Situation zu ändern, brauchen wir Mut und Entschlossenheit.
+
+  教育の現状について、専門家たちが議論を交わした。
+  教育[きょういく]の 現状[げんじょう]について、専門家[せんもんか]たちが 議論[ぎろん]を 交[か]わした。
+  Experten diskutierten über die gegenwärtige Lage des Bildungssystems.
+
+  現状を打開するためには、新しい視点が必要だ。
+  現状[げんじょう]を 打開[だかい]するためには、新[あたら]しい 視点[してん]が 必要[ひつよう]だ。
+  Um die aktuelle Situation zu überwinden, brauchen wir eine neue Perspektive.
+
+  彼らは現状に甘んじるのではなく、積極的に改善を図っている。
+  彼[かれ]らは 現状[げんじょう]に 甘[あま]んじるのではなく、積極的[せっきょくてき]に 改善[かいぜん]を 図[はか]っている。
+  Anstatt sich mit der gegenwärtigen Situation abzufinden, bemühen sie sich aktiv um Verbesserungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

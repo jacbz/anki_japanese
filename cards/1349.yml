@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: .^^^\....
 Register: ''
 Dispersion: '82'
-Ursprung: engl. <i>communication</i>
+Ursprung: engl. communication
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   同僚との間にコミュニケーションの問題を感じている。
-  同僚[どうりょう]との 間[ま]にコミュニケーションの 問題[もんだい]を 感[かん]じている。
-  Ich fühle, dass ich ein Kommunikationsproblem mit meinen Kollegen habe.
+  同僚[どうりょう]との 間[あいだ]にコミュニケーションの 問題[もんだい]を 感[かん]じている。
+  Ich fühle, dass es Kommunikationsprobleme zwischen mir und meinen Kollegen gibt.
+
+  コミュニケーション不足が原因で、プロジェクトが遅れています。
+  コミュニケーション 不足[ぶそく]が 原因[げんいん]で、プロジェクトが 遅[おく]れています。
+  Das Projekt verzögert sich aufgrund mangelnder Kommunikation.
+
+  効果的なコミュニケーションデザインは、メッセージを明確に伝えるのに役立ちます。
+  効果的[こうかてき]なコミュニケーションデザインは、メッセージを 明確[めいかく]に 伝[つた]えるのに 役立[やくだ]ちます。
+  Ein effektives Kommunikationsdesign hilft dabei, Botschaften klar zu vermitteln.
+
+  コミュニケーション学を専攻している学生が増えています。
+  コミュニケーション 学[がく]を 専攻[せんこう]している 学生[がくせい]が 増[ふ]えています。
+  Immer mehr Studenten spezialisieren sich auf Kommunikationswissenschaften.
+
+  世代間のコミュニケーションギャップを埋める努力が必要だ。
+  世代間[せだいかん]のコミュニケーションギャップを 埋[う]める 努力[どりょく]が 必要[ひつよう]だ。
+  Es sind Anstrengungen erforderlich, um die Kommunikationslücke zwischen den Generationen zu schließen.
+
+  コミュニケーション能力は、ビジネスの成功に不可欠です。
+  コミュニケーション 能力[のうりょく]は、ビジネスの 成功[せいこう]に 不可欠[ふかけつ]です。
+  Kommunikationsfähigkeiten sind für den geschäftlichen Erfolg unerlässlich.
+
+  最新のコミュニケーション理論について講義を受けた。
+  最新[さいしん]のコミュニケーション 理論[りろん]について 講義[こうぎ]を 受[う]けた。
+  Ich habe eine Vorlesung über die neuesten Kommunikationstheorien gehört.
+
+  言語障害のある人々のためのコミュニケーション障害支援プログラムがあります。
+  言語障害[げんごしょうがい]のある 人々[ひとびと]のためのコミュニケーション 障害[しょうがい] 支援[しえん]プログラムがあります。
+  Es gibt Unterstützungsprogramme für Menschen mit Sprachbehinderungen und Kommunikationsstörungen.
+
+  コミュニケーションスキルを向上させるためのワークショップに参加しました。
+  コミュニケーションスキルを 向上[こうじょう]させるためのワークショップに 参加[さんか]しました。
+  Ich habe an einem Workshop zur Verbesserung meiner Kommunikationsfähigkeiten teilgenommen.
+
+  二人の間でコミュニケーションが成り立たず、関係が悪化した。
+  二人[ふたり]の 間[あいだ]でコミュニケーションが 成[な]り 立[た]たず、関係[かんけい]が 悪化[あっか]した。
+  Zwischen den beiden kam keine Kommunikation zustande, und ihre Beziehung verschlechterte sich.
+
+  オンラインはコミュニケーションの場所として重要性を増しています。
+  オンラインはコミュニケーションの 場所[ばしょ]として 重要性[じゅうようせい]を 増[ま]しています。
+  Online-Plattformen gewinnen als Orte der Kommunikation zunehmend an Bedeutung.
+
+  最新のテクノロジーは新しいコミュニケーションの手段を提供しています。
+  最新[さいしん]のテクノロジーは 新[あたら]しいコミュニケーションの 手段[しゅだん]を 提供[ていきょう]しています。
+  Neue Technologien bieten neue Kommunikationsmittel.
+
+  上司とのコミュニケーションを図るために、定期的な面談を申し込んだ。
+  上司[じょうし]とのコミュニケーションを 図[はか]るために、定期的[ていきてき]な 面談[めんだん]を 申[もう]し 込[こ]んだ。
+  Ich habe regelmäßige Gespräche beantragt, um die Kommunikation mit meinem Vorgesetzten zu fördern.
+
+  お客様とのコミュニケーションをより良くするため、新しいシステムを導入しました。
+  お 客様[きゃくさま]とのコミュニケーションをより 良[よ]くするため、新[あたら]しいシステムを 導入[どうにゅう]しました。
+  Wir haben ein neues System eingeführt, um die Kommunikation mit unseren Kunden zu verbessern.
+
+  夫婦のコミュニケーションを改善するために、カウンセリングを受けることにした。
+  夫婦[ふうふ]のコミュニケーションを 改善[かいぜん]するために、カウンセリングを 受[う]けることにした。
+  Wir haben beschlossen, eine Beratung in Anspruch zu nehmen, um die Kommunikation in unserer Ehe zu verbessern.
+
+  非言語的コミュニケーションの重要性について研究しています。
+  非言語的[ひげんごてき]コミュニケーションの 重要性[じゅうようせい]について 研究[けんきゅう]しています。
+  Ich forsche über die Bedeutung nonverbaler Kommunikation.
+
+  家庭内のコミュニケーションがうまくいっていないようだが。
+  家庭内[かていない]のコミュニケーションがうまくいっていないようだが。
+  Es scheint, als würde die Kommunikation innerhalb der Familie nicht gut funktionieren.
+
+  コミュニケーション的行為の理論について議論が行われた。
+  コミュニケーション的[てき] 行為[こうい]の 理論[りろん]について 議論[ぎろん]が 行[おこな]われた。
+  Es fand eine Diskussion über die Theorie des kommunikativen Handelns statt.
+
+  効果的なコミュニケーションは、チームワークの基礎です。
+  効果的[こうかてき]なコミュニケーションは、チームワークの 基礎[きそ]です。
+  Effektive Kommunikation ist die Grundlage für Teamarbeit.
+
+  国際的なコミュニケーションには、文化の違いを理解することが重要だ。
+  国際的[こくさいてき]なコミュニケーションには、文化[ぶんか]の 違[ちが]いを 理解[りかい]することが 重要[じゅうよう]だ。
+  Für internationale Kommunikation ist es wichtig, kulturelle Unterschiede zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

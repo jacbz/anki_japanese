@@ -2,7 +2,7 @@ Rang: 1220
 Lemma: あんな
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: so ein(e)
+Definition: so, solch
 Extra: '' # Nur bei suru-Verben
 Wortart: attr
 Lesung mit Tonhöhe: .^^
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   私もあんな車がほしいなあ。
   私[わたし]もあんな 車[くるま]がほしいなあ。
-  Ich möchte auch so ein Auto haben.
+  Ich hätte auch gern so ein Auto.
+
+  あんな人とは仲良くなれない。
+  あんな 人[ひと]とは 仲良[なかよ]くなれない。
+  Mit so einer Person kann ich mich nicht anfreunden.
+
+  あんな本を読むのは時間の無駄だ。
+  あんな 本[ほん]を 読[よ]むのは 時間[じかん]の 無駄[むだ]だ。
+  Solche Bücher zu lesen ist Zeitverschwendung.
+
+  あんなことを言うなんて、彼は失礼だ。
+  あんなことを 言[い]うなんて、彼[かれ]は 失礼[しつれい]だ。
+  So etwas zu sagen ist unhöflich von ihm.
+
+  あんな成績では大学に入れないよ。
+  あんな 成績[せいせき]では 大学[だいがく]に 入[はい]れないよ。
+  Mit solchen Noten kommst du nicht auf die Universität.
+
+  あんなふうに話さないでください。
+  あんなふうに 話[はな]さないでください。
+  Bitte sprechen Sie nicht auf solch eine Art und Weise.
+
+  あんなに簡単な問題が解けなかった。
+  あんなに 簡単[かんたん]な 問題[もんだい]が 解[と]けなかった。
+  Ich konnte eine so einfache Aufgabe nicht lösen.
+
+  どうしてあんなに間違えてしまったんだろう。
+  どうしてあんなに 間違[まちが]えてしまったんだろう。
+  Wie konnte ich nur einen solchen Fehler machen?
+
+  あんなに腹を立てる必要はなかったよ。
+  あんなに 腹[はら]を 立[た]てる 必要[ひつよう]はなかったよ。
+  Du hättest dich nicht so aufregen müssen.
+
+  あんなに大きな音を出さないでください。
+  あんなに 大[おお]きな 音[おと]を 出[だ]さないでください。
+  Bitte machen Sie nicht so einen lauten Lärm.
+
+  あんな難しい質問には答えられません。
+  あんな 難[むずか]しい 質問[しつもん]には 答[こた]えられません。
+  Ich kann eine so schwierige Frage nicht beantworten.
+
+  あんなにたくさん食べられるなんて驚きだ。
+  あんなにたくさん 食[た]べられるなんて 驚[おどろ]きだ。
+  Es ist erstaunlich, dass jemand so viel essen kann.
+
+  あんな高価な贈り物は受け取れません。
+  あんな 高価[こうか]な 贈[おく]り 物[もの]は 受[う]け 取[と]れません。
+  Ich kann ein so teures Geschenk nicht annehmen.
+
+  彼女はあんなに頑張っているのに、成功していない。
+  彼女[かのじょ]はあんなに 頑張[がんば]っているのに、成功[せいこう]していない。
+  Obwohl sie sich so anstrengt, hat sie keinen Erfolg.
+
+  あんな遠くまで歩くのは大変だ。
+  あんな 遠[とお]くまで 歩[ある]くのは 大変[たいへん]だ。
+  So weit zu laufen ist anstrengend.
+
+  あんなに早く走れるなんて、素晴らしいね。
+  あんなに 早[はや]く 走[はし]れるなんて、素晴[すば]らしいね。
+  So schnell laufen zu können ist wirklich beeindruckend.
+
+  あんな古い建物がまだ残っているとは驚きだ。
+  あんな 古[ふる]い 建物[たてもの]がまだ 残[のこ]っているとは 驚[おどろ]きだ。
+  Es ist überraschend, dass so ein altes Gebäude noch erhalten ist.
+
+  あんなに美しい景色を見たのは初めてだ。
+  あんなに 美[うつく]しい 景色[けしき]を 見[み]たのは 初[はじ]めてだ。
+  Ich habe noch nie eine so schöne Landschaft gesehen.
+
+  彼はあんなに怒っていたのに、今は笑っている。
+  彼[かれ]はあんなに 怒[おこ]っていたのに、今[いま]は 笑[わら]っている。
+  Obwohl er so wütend war, lacht er jetzt.
+
+  あんなに長い時間待たされるとは思わなかった。
+  あんなに 長[なが]い 時間[じかん] 待[ま]たされるとは 思[おも]わなかった。
+  Ich hätte nicht gedacht, dass ich so lange warten müsste.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

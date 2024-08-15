@@ -1,26 +1,117 @@
 Rang: 1378
 Lemma: 抱く
 Lesung: いだく
-Alternativschreibweisen: ''
-Definition: haben, halten, umarmen
+Alternativschreibweisen: 懐く・擁く
+Definition: (im Arm) halten; hegen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '85'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 抱かない・抱いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   若者たちは将来に大きな希望を抱いている。
-  若者[わかもの]たちは 将来[しょうらい]に 大[おお]きな 希望[きぼう]を 抱[だ]いている。
-  Junge Menschen haben große Hoffnungen für ihre Zukunft.
+  若者[わかもの]たちは 将来[しょうらい]に 大[おお]きな 希望[きぼう]を 抱[いだ]いている。
+  Die jungen Leute hegen große Hoffnungen für die Zukunft.
+
+  母親は赤ちゃんを優しく抱いていた。
+  母親[ははおや]は 赤[あか]ちゃんを 優[やさ]しく 抱[いだ]いていた。
+  Die Mutter hielt das Baby sanft in ihren Armen.
+
+  彼は新しいプロジェクトに強い興味を抱いている。
+  彼[かれ]は 新[あたら]しいプロジェクトに 強[つよ]い 興味[きょうみ]を 抱[いだ]いている。
+  Er hat ein starkes Interesse an dem neuen Projekt.
+
+  私は彼の言動に不信感を抱かざるを得なかった。
+  私[わたし]は 彼[かれ]の 言動[げんどう]に 不信感[ふしんかん]を 抱[いだ]かざるを 得[え]なかった。
+  Ich konnte nicht anders, als seinen Worten und Taten zu misstrauen.
+
+  山の懐に抱かれた小さな村は、とても平和だった。
+  山[やま]の 懐[ふところ]に 抱[いだ]かれた 小[ちい]さな 村[むら]は、とても 平和[へいわ]だった。
+  Das kleine Dorf, eingebettet in die Berge, war sehr friedlich.
+
+  彼女は長年夢見てきた目標を抱き続けている。
+  彼女[かのじょ]は 長年[ながねん] 夢見[ゆめみ]てきた 目標[もくひょう]を 抱[いだ]き 続[つづ]けている。
+  Sie hält weiterhin an dem Ziel fest, von dem sie seit Jahren träumt.
+
+  多くの人々が政府の政策に不安を抱いている。
+  多[おお]くの 人々[ひとびと]が 政府[せいふ]の 政策[せいさく]に 不安[ふあん]を 抱[いだ]いている。
+  Viele Menschen sind besorgt über die Politik der Regierung.
+
+  彼は新入社員に対して好感を抱いている。
+  彼[かれ]は 新入社員[しんにゅうしゃいん]に 対[たい]して 好感[こうかん]を 抱[いだ]いている。
+  Er hat einen guten Eindruck von den neuen Mitarbeitern.
+
+  その学生は科学に強い好奇心を抱いていた。
+  その 学生[がくせい]は 科学[かがく]に 強[つよ]い 好奇心[こうきしん]を 抱[いだ]いていた。
+  Der Student hegte eine starke Neugier für die Wissenschaft.
+
+  彼女は自分の能力に疑問を抱き始めた。
+  彼女[かのじょ]は 自分[じぶん]の 能力[のうりょく]に 疑問[ぎもん]を 抱[いだ]き 始[はじ]めた。
+  Sie begann, an ihren eigenen Fähigkeiten zu zweifeln.
+
+  その政治家は国の未来について大望を抱いていた。
+  その 政治家[せいじか]は 国[くに]の 未来[みらい]について 大望[たいぼう]を 抱[いだ]いていた。
+  Der Politiker hegte große Ambitionen für die Zukunft des Landes.
+
+  彼は競争相手に対して優越感を抱いていた。
+  彼[かれ]は 競争相手[きょうそうあいて]に 対[たい]して 優越感[ゆうえつかん]を 抱[いだ]いていた。
+  Er fühlte sich seinen Konkurrenten überlegen.
+
+  その少年は初めて会った女の子に密かな愛情を抱いた。
+  その 少年[しょうねん]は 初[はじ]めて 会[あ]った 女[おんな]の 子[こ]に 密[ひそ]かな 愛情[あいじょう]を 抱[いだ]いた。
+  Der Junge empfand eine heimliche Zuneigung zu dem Mädchen, das er zum ersten Mal traf.
+
+  彼女は長年抱いてきた夢を諦めきれずにいる。
+  彼女[かのじょ]は 長年[ながねん] 抱[いだ]いてきた 夢[ゆめ]を 諦[あきら]めきれずにいる。
+  Sie kann den Traum, den sie seit Jahren hegt, nicht aufgeben.
+
+  その研究者は新しい発見に強い興味を抱いた。
+  その 研究者[けんきゅうしゃ]は 新[あたら]しい 発見[はっけん]に 強[つよ]い 興味[きょうみ]を 抱[いだ]いた。
+  Der Forscher entwickelte ein starkes Interesse an der neuen Entdeckung.
+
+  彼は敵対する国に対して不信感を抱いていた。
+  彼[かれ]は 敵対[てきたい]する 国[くに]に 対[たい]して 不信感[ふしんかん]を 抱[いだ]いていた。
+  Er hegte Misstrauen gegenüber dem feindlichen Land.
+
+  その老人は孫を優しく抱きしめた。
+  その 老人[ろうじん]は 孫[まご]を 優[やさ]しく 抱[いだ]きしめた。
+  Der alte Mann umarmte seinen Enkel sanft.
+
+  彼女は将来への不安を抱きつつも、前向きに生きている。
+  彼女[かのじょ]は 将来[しょうらい]への 不安[ふあん]を 抱[いだ]きつつも、前向[まえむ]きに 生[い]きている。
+  Obwohl sie Ängste vor der Zukunft hat, lebt sie positiv.
+
+  その作家は新作に対して強い自信を抱いていた。
+  その 作家[さっか]は 新作[しんさく]に 対[たい]して 強[つよ]い 自信[じしん]を 抱[いだ]いていた。
+  Der Schriftsteller hatte großes Selbstvertrauen in sein neues Werk.
+
+  彼は幼い頃から科学者になる夢を抱き続けてきた。
+  彼[かれ]は 幼[おさな]い 頃[ころ]から 科学者[かがくしゃ]になる 夢[ゆめ]を 抱[いだ]き 続[つづ]けてきた。
+  Er hat seit seiner Kindheit den Traum gehegt, Wissenschaftler zu werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>抱く kann sowohl physisch als auch im übertragenen Sinne verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">赤[あか]ちゃんを 抱[いだ]く</div>
+    <div class="de spoiler">Ein Baby im Arm halten</div>
+  </div>
+  <p>Im übertragenen Sinne wird es oft mit abstrakten Konzepten oder Gefühlen verwendet:</p>
+  <div class="examples">
+    <div class="jp">希望[きぼう]を 抱[いだ]く</div>
+    <div class="de spoiler">Hoffnung hegen</div>
+  </div>
+  <p>Es kann auch bedeuten, etwas in sich zu tragen oder zu umschließen:</p>
+  <div class="examples">
+    <div class="jp">山[やま]に 抱[いだ]かれた 村[むら]</div>
+    <div class="de spoiler">Ein von Bergen umschlossenes Dorf</div>
+  </div>

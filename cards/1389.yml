@@ -2,21 +2,97 @@ Rang: 1389
 Lemma: 向く
 Lesung: むく
 Alternativschreibweisen: ''
-Definition: sich wenden, sich drehen, schauen
+Definition: sich wenden; geeignet sein
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '90'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 向かない・向いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女は私のほうを向いて泣き出した。
   彼女[かのじょ]は 私[わたし]のほうを 向[む]いて 泣[な]き 出[だ]した。
-  Sie hat sich zu mir gewendet und angefangen zu weinen.
+  Sie wandte sich mir zu und begann zu weinen.
+
+  左を向いて歩くと、公園が見えてきます。
+  左[ひだり]を 向[む]いて 歩[ある]くと、公園[こうえん]が 見[み]えてきます。
+  Wenn Sie nach links gehen, sehen Sie den Park.
+
+  そっぽを向いて話を聞こうとしない子供。
+  そっぽを 向[む]いて 話[はなし]を 聞[き]こうとしない 子供[こども]。
+  Ein Kind, das sich abwendet und nicht zuhören will.
+
+  窓は東を向いているので、朝日が気持ちよく入ってきます。
+  窓[まど]は 東[ひがし]を 向[む]いているので、朝日[あさひ]が 気持[きも]ちよく 入[はい]ってきます。
+  Da das Fenster nach Osten zeigt, kommt die Morgensonne angenehm herein.
+
+  彼は下を向いたまま、小さな声で謝罪した。
+  彼[かれ]は 下[した]を 向[む]いたまま、小[ちい]さな 声[こえ]で 謝罪[しゃざい]した。
+  Mit gesenktem Blick entschuldigte er sich leise.
+
+  後ろを向いて振り返ると、懐かしい風景が広がっていた。
+  後[うし]ろを 向[む]いて 振[ふ]り 返[かえ]ると、懐[なつ]かしい 風景[ふうけい]が 広[ひろ]がっていた。
+  Als ich mich umdrehte, breitete sich eine nostalgische Landschaft aus.
+
+  どちらを向いてもゴミが散らかっている部屋。
+  どちらを 向[む]いてもゴミが 散[ち]らかっている 部屋[へや]。
+  Ein Zimmer, in dem überall Müll herumliegt, wohin man auch schaut.
+
+  この矢印は右を向いているので、右に曲がってください。
+  この 矢印[やじるし]は 右[みぎ]を 向[む]いているので、右[みぎ]に 曲[ま]がってください。
+  Da dieser Pfeil nach rechts zeigt, biegen Sie bitte rechts ab.
+
+  磁石が北を向くのは、地球の磁場の影響です。
+  磁石[じしゃく]が 北[きた]を 向[む]くのは、地球[ちきゅう]の 磁場[じば]の 影響[えいきょう]です。
+  Dass der Kompass nach Norden zeigt, liegt am Magnetfeld der Erde.
+
+  彼の関心は常に新しい技術の方向に向いている。
+  彼[かれ]の 関心[かんしん]は 常[つね]に 新[あたら]しい 技術[ぎじゅつ]の 方向[ほうこう]に 向[む]いている。
+  Sein Interesse richtet sich stets auf neue Technologien.
+
+  この問題は良い方へ向いているので、心配する必要はありません。
+  この 問題[もんだい]は 良[よ]い 方[ほう]へ 向[む]いているので、心配[しんぱい]する 必要[ひつよう]はありません。
+  Da sich dieses Problem zum Besseren wendet, brauchen Sie sich keine Sorgen zu machen.
+
+  足の向くままに歩いていたら、知らない場所に出てしまった。
+  足[あし]の 向[む]くままに 歩[ある]いていたら、知[し]らない 場所[ばしょ]に 出[で]てしまった。
+  Als ich einfach so herumspazierte, kam ich an einem unbekannten Ort heraus.
+
+  このスポーツは体力のある人に向いています。
+  このスポーツは 体力[たいりょく]のある 人[ひと]に 向[む]いています。
+  Dieser Sport eignet sich für Menschen mit guter Kondition.
+
+  彼女は教師に向いていると、みんなが言っています。
+  彼女[かのじょ]は 教師[きょうし]に 向[む]いていると、みんなが 言[い]っています。
+  Alle sagen, dass sie sich als Lehrerin eignet.
+
+  この商品は冷凍に向かないので、早めに使用してください。
+  この 商品[しょうひん]は 冷凍[れいとう]に 向[む]かないので、早[はや]めに 使用[しよう]してください。
+  Da sich dieses Produkt nicht zum Einfrieren eignet, verwenden Sie es bitte bald.
+
+  自分に向いた仕事を見つけるのは簡単ではありません。
+  自分[じぶん]に 向[む]いた 仕事[しごと]を 見[み]つけるのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, eine Arbeit zu finden, die zu einem passt.
+
+  彼の性格は営業職に向いているようだ。
+  彼[かれ]の 性格[せいかく]は 営業職[えいぎょうしょく]に 向[む]いているようだ。
+  Seine Persönlichkeit scheint sich für eine Vertriebsposition zu eignen.
+
+  この製品は万人に向くわけではないので、慎重に選んでください。
+  この 製品[せいひん]は 万人[ばんにん]に 向[む]くわけではないので、慎重[しんちょう]に 選[えら]んでください。
+  Da dieses Produkt nicht für jeden geeignet ist, wählen Sie bitte sorgfältig aus.
+
+  気が向いたら、また連絡してください。
+  気[き]が 向[む]いたら、また 連絡[れんらく]してください。
+  Melden Sie sich wieder, wenn Sie Lust dazu haben.
+
+  心の向くままに行動するのは、時に危険なこともあります。
+  心[こころ]の 向[む]くままに 行動[こうどう]するのは、時[とき]に 危険[きけん]なこともあります。
+  Einfach seinem Herzen zu folgen kann manchmal auch gefährlich sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

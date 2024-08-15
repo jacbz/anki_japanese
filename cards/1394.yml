@@ -2,14 +2,14 @@ Rang: 1394
 Lemma: 浮かぶ
 Lesung: うかぶ
 Alternativschreibweisen: ''
-Definition: schwimmen, aufsteigen
+Definition: schwimmen; auftauchen
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '86'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 浮かばない・浮かんだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   たくさんのボートが湖に浮かんでいる。
   たくさんのボートが 湖[みずうみ]に 浮[う]かんでいる。
   Viele Boote schwimmen auf dem See.
+
+  落ち葉が池に浮かんでいる様子は風情がある。
+  落[お]ち 葉[ば]が 池[いけ]に 浮[う]かんでいる 様子[ようす]は 風情[ふぜい]がある。
+  Der Anblick von auf dem Teich treibenden Herbstblättern hat eine besondere Atmosphäre.
+
+  アドバルーンが空に浮かんでいて、みんなの注目を集めていた。
+  アドバルーンが 空[そら]に 浮[う]かんでいて、みんなの 注目[ちゅうもく]を 集[あつ]めていた。
+  Ein Werbeballon schwebte am Himmel und zog die Aufmerksamkeit aller auf sich.
+
+  急に良いアイディアが浮かんだ！
+  急[きゅう]に 良[よ]いアイディアが 浮[う]かんだ！
+  Plötzlich kam mir eine gute Idee!
+
+  彼の正直さに疑いが浮かんだ。
+  彼[かれ]の 正直[しょうじき]さに 疑[うたが]いが 浮[う]かんだ。
+  Zweifel an seiner Ehrlichkeit stiegen in mir auf.
+
+  懐かしい思い出が次々と浮かんできた。
+  懐[なつ]かしい 思[おも]い 出[で]が 次々[つぎつぎ]と 浮[う]かんできた。
+  Nostalgische Erinnerungen tauchten eine nach der anderen auf.
+
+  適切な言葉が浮かばなくて、黙ってしまった。
+  適切[てきせつ]な 言葉[ことば]が 浮[う]かばなくて、黙[だま]ってしまった。
+  Mir fielen keine passenden Worte ein, also schwieg ich.
+
+  彼女の顔に微笑みが浮かんだ。
+  彼女[かのじょ]の 顔[かお]に 微笑[ほほえ]みが 浮[う]かんだ。
+  Ein Lächeln zeichnete sich auf ihrem Gesicht ab.
+
+  汗が額に浮かんできた。
+  汗[あせ]が 額[ひたい]に 浮[う]かんできた。
+  Schweiß trat auf seiner Stirn hervor.
+
+  シャツに染みが浮かんでしまった。
+  シャツに 染[し]みが 浮[う]かんでしまった。
+  Auf dem Hemd sind Flecken sichtbar geworden.
+
+  故郷の風景が目の前に浮かんだ。
+  故郷[こきょう]の 風景[ふうけい]が 目[め]の 前[まえ]に 浮[う]かんだ。
+  Die Landschaft meiner Heimat tauchte vor meinen Augen auf.
+
+  彼の顔に困ったような表情が浮かんだ。
+  彼[かれ]の 顔[かお]に 困[こま]ったような 表情[ひょうじょう]が 浮[う]かんだ。
+  Ein verlegener Ausdruck zeichnete sich auf seinem Gesicht ab.
+
+  小便のあとで、尿道が痛みだした。
+  小便[しょうべん]のあとで、尿道[にょうどう]が 痛[いた]みだした。
+  Nach dem Urinieren begann meine Harnröhre zu schmerzen.
+
+  試験管の中に白い糸くずのようなものが浮かんでいた。
+  試験管[しけんかん]の 中[なか]に 白[しろ]い 糸[いと]くずのようなものが 浮[う]かんでいた。
+  Im Reagenzglas schwamm etwas, das wie weiße Fädchen aussah.
+
+  想像力豊かな彼女の心には、いつも新しいアイデアが浮かんでいる。
+  想像力[そうぞうりょく]豊[ゆた]かな 彼女[かのじょ]の 心[こころ]には、いつも 新[あたら]しいアイデアが 浮[う]かんでいる。
+  In ihrem kreativen Geist tauchen ständig neue Ideen auf.
+
+  空に浮かぶ雲を見ていると、心が落ち着く。
+  空[そら]に 浮[う]かぶ 雲[くも]を 見[み]ていると、心[こころ]が 落[お]ち 着[つ]く。
+  Wenn ich die am Himmel schwebenden Wolken betrachte, beruhigt sich mein Gemüt.
+
+  彼女の口元にかすかな微笑みが浮かんだ。
+  彼女[かのじょ]の 口元[くちもと]にかすかな 微笑[ほほえ]みが 浮[う]かんだ。
+  Ein leichtes Lächeln umspielte ihre Lippen.
+
+  真っ白な顔に汗がぎらぎらと浮かんでいた。
+  真[ま]っ 白[しろ]な 顔[かお]に 汗[あせ]がぎらぎらと 浮[う]かんでいた。
+  Auf seinem kreidebleichen Gesicht glänzte der Schweiß.
+
+  心に浮かぶ不安を振り払おうとした。
+  心[こころ]に 浮[う]かぶ 不安[ふあん]を 振[ふ]り 払[はら]おうとした。
+  Ich versuchte, die in meinem Herzen aufsteigenden Ängste abzuschütteln.
+
+  胸に浮かぶ後悔の念を抑えきれなかった。
+  胸[むね]に 浮[う]かぶ 後悔[こうかい]の 念[ねん]を 抑[おさ]えきれなかった。
+  Ich konnte das Gefühl der Reue, das in meiner Brust aufstieg, nicht unterdrücken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

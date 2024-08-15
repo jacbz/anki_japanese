@@ -2,14 +2,14 @@ Rang: 1287
 Lemma: 支える
 Lesung: ささえる
 Alternativschreibweisen: ''
-Definition: unterstützen, halten, aufrechterhalten
+Definition: stützen; unterstützen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 支えない・支えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -18,9 +18,106 @@ Beispielsätze: |-
   家族[かぞく]を 支[ささ]えるために 働[はたら]き 始[はじ]めました。
   Ich habe angefangen zu arbeiten, um meine Familie zu unterstützen.
 
+  彼は怪我人を両脇から支えて歩いた。
+  彼[かれ]は 怪我人[けがにん]を 両脇[りょうわき]から 支[ささ]えて 歩[ある]いた。
+  Er stützte den Verletzten unter beiden Armen und ging mit ihm.
+
+  この柱が天井を支えています。
+  この 柱[はしら]が 天井[てんじょう]を 支[ささ]えています。
+  Diese Säule stützt die Decke.
+
+  彼女は顎を手で支えて考え込んでいた。
+  彼女[かのじょ]は 顎[あご]を 手[て]で 支[ささ]えて 考[かんが]え 込[こ]んでいた。
+  Sie stützte ihr Kinn mit der Hand und dachte nach.
+
+  この制度は社会の均衡を支えている。
+  この 制度[せいど]は 社会[しゃかい]の 均衡[きんこう]を 支[ささ]えている。
+  Dieses System hält das Gleichgewicht der Gesellschaft aufrecht.
+
+  傾斜地を支える擁壁を建設中だ。
+  傾斜地[けいしゃち]を 支[ささ]える 擁壁[ようへき]を 建設中[けんせつちゅう]だ。
+  Wir bauen gerade eine Stützmauer, um den Hang abzustützen.
+
+  彼女の励ましが私を精神的に支えてくれた。
+  彼女[かのじょ]の 励[はげ]ましが 私[わたし]を 精神的[せいしんてき]に 支[ささ]えてくれた。
+  Ihre Ermutigung gab mir moralischen Halt.
+
+  この産業が地域経済を支えている。
+  この 産業[さんぎょう]が 地域[ちいき] 経済[けいざい]を 支[ささ]えている。
+  Diese Industrie trägt die regionale Wirtschaft.
+
+  ボランティアの方々が被災地の復興を支えています。
+  ボランティアの 方々[かたがた]が 被災地[ひさいち]の 復興[ふっこう]を 支[ささ]えています。
+  Die Freiwilligen unterstützen den Wiederaufbau des Katastrophengebiets.
+
+  彼女の収入が一家の生計を支えている。
+  彼女[かのじょ]の 収入[しゅうにゅう]が 一家[いっか]の 生計[せいけい]を 支[ささ]えている。
+  Ihr Einkommen bestreitet den Lebensunterhalt der ganzen Familie.
+
+  この橋は鋼鉄の柱で支えられている。
+  この 橋[はし]は 鋼鉄[こうてつ]の 柱[はしら]で 支[ささ]えられている。
+  Diese Brücke wird von Stahlpfeilern getragen.
+
+  彼の努力が会社の成長を支えてきた。
+  彼[かれ]の 努力[どりょく]が 会社[かいしゃ]の 成長[せいちょう]を 支[ささ]えてきた。
+  Seine Bemühungen haben das Wachstum des Unternehmens getragen.
+
+  私たちの寄付が孤児院を支えています。
+  私[わたし]たちの 寄付[きふ]が 孤児院[こじいん]を 支[ささ]えています。
+  Unsere Spenden unterstützen das Waisenhaus.
+
+  彼女は夫の仕事を支えるために自分のキャリアを諦めた。
+  彼女[かのじょ]は 夫[おっと]の 仕事[しごと]を 支[ささ]えるために 自分[じぶん]のキャリアを 諦[あきら]めた。
+  Sie gab ihre eigene Karriere auf, um die Arbeit ihres Mannes zu unterstützen.
+
+  この技術が現代の情報社会を支えている。
+  この 技術[ぎじゅつ]が 現代[げんだい]の 情報[じょうほう] 社会[しゃかい]を 支[ささ]えている。
+  Diese Technologie trägt die moderne Informationsgesellschaft.
+
+  彼らの協力が平和維持活動を支えている。
+  彼[かれ]らの 協力[きょうりょく]が 平和[へいわ] 維持[いじ] 活動[かつどう]を 支[ささ]えている。
+  Ihre Zusammenarbeit unterstützt die Friedenserhaltungsmaßnahmen.
+
+  この制度改革が国の経済を支えるだろう。
+  この 制度[せいど] 改革[かいかく]が 国[くに]の 経済[けいざい]を 支[ささ]えるだろう。
+  Diese Systemreform wird wahrscheinlich die Wirtschaft des Landes stützen.
+
+  彼女の演技が映画の人気を支えている。
+  彼女[かのじょ]の 演技[えんぎ]が 映画[えいが]の 人気[にんき]を 支[ささ]えている。
+  Ihr Schauspiel trägt zur Beliebtheit des Films bei.
+
+  この森林が地域の生態系を支えています。
+  この 森林[しんりん]が 地域[ちいき]の 生態系[せいたいけい]を 支[ささ]えています。
+  Dieser Wald erhält das Ökosystem der Region.
+
+  彼らの勇気が敵の攻撃を支えた。
+  彼[かれ]らの 勇気[ゆうき]が 敵[てき]の 攻撃[こうげき]を 支[ささ]えた。
+  Ihr Mut hielt dem Angriff des Feindes stand.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 支える (ささえる) hat verschiedene Bedeutungen und Anwendungen:</p>
+  <p>1. Physisch stützen oder abstützen:</p>
+  <div class="examples">
+    <div class="jp">この 柱[はしら]が 建物[たてもの]を 支[ささ]えている。</div>
+    <div class="de spoiler">Diese Säule stützt das Gebäude.</div>
+  </div>
+  <p>2. Jemanden oder etwas unterstützen, Halt geben:</p>
+  <div class="examples">
+    <div class="jp">家族[かぞく]を 支[ささ]えるために 一生懸命[いっしょうけんめい] 働[はたら]いている。</div>
+    <div class="de spoiler">Ich arbeite hart, um meine Familie zu unterstützen.</div>
+  </div>
+  <p>3. Etwas aufrechterhalten oder beitragen:</p>
+  <div class="examples">
+    <div class="jp">この 産業[さんぎょう]が 地域[ちいき]の 経済[けいざい]を 支[ささ]えている。</div>
+    <div class="de spoiler">Diese Industrie trägt die lokale Wirtschaft.</div>
+  </div>
+  <p>4. Sich gegen etwas behaupten oder Widerstand leisten:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]らは 敵[てき]の 攻撃[こうげき]を 支[ささ]えた。</div>
+    <div class="de spoiler">Sie hielten dem Angriff des Feindes stand.</div>
+  </div>

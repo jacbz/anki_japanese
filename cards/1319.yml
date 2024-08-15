@@ -8,7 +8,7 @@ Wortart: n
 Lesung mit Tonhöhe: \(.)..
 Register: ''
 Dispersion: '97'
-Ursprung: ''
+Ursprung: engl. system
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,99 @@ Konjugation: ''
 Beispielsätze: |-
   多くの会社がその新しいシステムを導入している。
   多[おお]くの 会社[かいしゃ]がその 新[あたら]しいシステムを 導入[どうにゅう]している。
-  Viele Unternehmen haben das neue System eingeführt.
+  Viele Unternehmen führen dieses neue System ein.
+
+  新しいコンピューターシステムの導入により業務効率が上がった。
+  新[あたら]しいコンピューターシステムの 導入[どうにゅう]により 業務効率[ぎょうむこうりつ]が 上[あ]がった。
+  Durch die Einführung des neuen Computersystems hat sich die Arbeitseffizienz verbessert.
+
+  このシステムアドミニストレーターはネットワークの問題を素早く解決した。
+  このシステムアドミニストレーターはネットワークの 問題[もんだい]を 素早[すばや]く 解決[かいけつ]した。
+  Dieser Systemadministrator hat das Netzwerkproblem schnell gelöst.
+
+  システムアナリストとして、彼女は複雑なビジネスプロセスを分析している。
+  システムアナリストとして、彼女[かのじょ]は 複雑[ふくざつ]なビジネスプロセスを 分析[ぶんせき]している。
+  Als Systemanalystin analysiert sie komplexe Geschäftsprozesse.
+
+  新しいシステムアプローチを採用することで、効率が大幅に向上した。
+  新[あたら]しいシステムアプローチを 採用[さいよう]することで、効率[こうりつ]が 大幅[おおはば]に 向上[こうじょう]した。
+  Durch die Anwendung eines neuen Systemansatzes hat sich die Effizienz erheblich verbessert.
+
+  システム分析の結果、いくつかの改善点が明らかになった。
+  システム 分析[ぶんせき]の 結果[けっか]、いくつかの 改善点[かいぜんてん]が 明[あき]らかになった。
+  Als Ergebnis der Systemanalyse wurden einige Verbesserungspunkte deutlich.
+
+  サーバーのシステムダウンにより、オンラインサービスが一時停止した。
+  サーバーのシステムダウンにより、オンラインサービスが 一時停止[いちじていし]した。
+  Aufgrund eines Serverabsturzes wurde der Online-Service vorübergehend unterbrochen.
+
+  システムエラーが発生したため、データの再入力が必要になった。
+  システムエラーが 発生[はっせい]したため、データの 再入力[さいにゅうりょく]が 必要[ひつよう]になった。
+  Aufgrund eines Systemfehlers war eine erneute Dateneingabe erforderlich.
+
+  新しいシステムインテグレーションにより、異なるソフトウェア間の連携が改善された。
+  新[あたら]しいシステムインテグレーションにより、異[こと]なるソフトウェア 間[かん]の 連携[れんけい]が 改善[かいぜん]された。
+  Durch die neue Systemintegration wurde die Zusammenarbeit zwischen verschiedenen Softwareanwendungen verbessert.
+
+  システム科学の発展により、複雑な問題の解決方法が見出された。
+  システム 科学[かがく]の 発展[はってん]により、複雑[ふくざつ]な 問題[もんだい]の 解決方法[かいけつほうほう]が 見出[みいだ]された。
+  Durch die Entwicklung der Systemwissenschaft wurden Lösungsansätze für komplexe Probleme gefunden.
+
+  新居にはシステムキッチンを設置することにした。
+  新居[しんきょ]にはシステムキッチンを 設置[せっち]することにした。
+  Wir haben beschlossen, in unserer neuen Wohnung eine Einbauküche zu installieren.
+
+  システム工学の知識を活かして、生産ラインの効率化を図った。
+  システム 工学[こうがく]の 知識[ちしき]を 活[い]かして、生産[せいさん]ラインの 効率化[こうりつか]を 図[はか]った。
+  Unter Anwendung von Kenntnissen der Systemtechnik wurde die Effizienz der Produktionslinie verbessert.
+
+  彼は高品質のシステムコンポーネントを使って自作のオーディオシステムを組み立てた。
+  彼[かれ]は 高品質[こうひんしつ]のシステムコンポーネントを 使[つか]って 自作[じさく]のオーディオシステムを 組[く]み 立[た]てた。
+  Er baute sein eigenes Audiosystem mit hochwertigen Systemkomponenten.
+
+  システム理論を応用することで、組織の問題点を体系的に分析できる。
+  システム 理論[りろん]を 応用[おうよう]することで、組織[そしき]の 問題点[もんだいてん]を 体系的[たいけいてき]に 分析[ぶんせき]できる。
+  Durch die Anwendung der Systemtheorie können Probleme in Organisationen systematisch analysiert werden.
+
+  新しいシステム制御装置の導入により、生産プロセスの自動化が進んだ。
+  新[あたら]しいシステム 制御装置[せいぎょそうち]の 導入[どうにゅう]により、生産[せいさん]プロセスの 自動化[じどうか]が 進[すす]んだ。
+  Mit der Einführung neuer Systemsteuerungsgeräte wurde die Automatisierung des Produktionsprozesses vorangetrieben.
+
+  このコンピューターにはシステムソフトウェアをアップデートする必要がある。
+  このコンピューターにはシステムソフトウェアをアップデートする 必要[ひつよう]がある。
+  Diesen Computer müssen wir mit einem Update der Systemsoftware versehen.
+
+  彼女はシステム手帳を使って効率的にスケジュール管理をしている。
+  彼女[かのじょ]はシステム 手帳[てちょう]を 使[つか]って 効率的[こうりつてき]にスケジュール 管理[かんり]をしている。
+  Sie verwaltet ihren Terminkalender effizient mit einem Organizer.
+
+  新しいホームセキュリティーシステムを設置して、家の安全性が向上した。
+  新[あたら]しいホームセキュリティーシステムを 設置[せっち]して、家[いえ]の 安全性[あんぜんせい]が 向上[こうじょう]した。
+  Durch die Installation eines neuen Haussicherheitssystems hat sich die Sicherheit des Hauses verbessert.
+
+  情報システムの更新により、データ処理の速度が大幅に向上した。
+  情報[じょうほう]システムの 更新[こうしん]により、データ 処理[しょり]の 速度[そくど]が 大幅[おおはば]に 向上[こうじょう]した。
+  Durch die Aktualisierung des Informationssystems hat sich die Geschwindigkeit der Datenverarbeitung erheblich verbessert.
+
+  言語システムの研究により、言語習得のメカニズムが明らかになってきた。
+  言語[げんご]システムの 研究[けんきゅう]により、言語[げんご] 習得[しゅうとく]のメカニズムが 明[あき]らかになってきた。
+  Durch die Erforschung des Sprachsystems wurde der Mechanismus des Spracherwerbs deutlich.
+
+  新しい流通システムの導入により、商品の配送が迅速になった。
+  新[あたら]しい 流通[りゅうつう]システムの 導入[どうにゅう]により、商品[しょうひん]の 配送[はいそう]が 迅速[じんそく]になった。
+  Durch die Einführung eines neuen Vertriebssystems wurde die Warenlieferung beschleunigt.
+
+  このシステムが正常に機能しているか確認してください。
+  このシステムが 正常[せいじょう]に 機能[きのう]しているか 確認[かくにん]してください。
+  Bitte überprüfen Sie, ob dieses System ordnungsgemäß funktioniert.
+
+  古いシステムを新しいものに変える作業は予想以上に時間がかかった。
+  古[ふる]いシステムを 新[あたら]しいものに 変[か]える 作業[さぎょう]は 予想以上[よそういじょう]に 時間[じかん]がかかった。
+  Die Umstellung vom alten auf das neue System hat mehr Zeit in Anspruch genommen als erwartet.
+
+  セキュリティ上の理由から、システムにログインする際は二段階認証が必要です。
+  セキュリティ 上[じょう]の 理由[りゆう]から、システムにログインする 際[さい]は 二段階認証[にだんかいにんしょう]が 必要[ひつよう]です。
+  Aus Sicherheitsgründen ist eine Zwei-Faktor-Authentifizierung erforderlich, um sich im System anzumelden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

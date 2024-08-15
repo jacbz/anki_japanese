@@ -2,7 +2,7 @@ Rang: 1255
 Lemma: それなり
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: für sich genommen, auf seine Weise, so wie es ist
+Definition: auf seine Art; gewiss
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Lesung mit Tonhöhe: ''
@@ -16,11 +16,102 @@ Konjugation: ''
 Beispielsätze: |-
   あの映画はそれなりに楽しかった。
   あの 映画[えいが]はそれなりに 楽[たの]しかった。
-  Dieser Film war auf seine Weise unterhaltsam.
+  Dieser Film war auf seine eigene Art und Weise unterhaltsam.
+
+  交渉はそれなりに終わった。
+  交渉[こうしょう]はそれなりに 終[お]わった。
+  Damit waren die Verhandlungen zu Ende.
+
+  彼は出かけてそれなり帰ってこない。
+  彼[かれ]は 出[で]かけてそれなり 帰[かえ]ってこない。
+  Er ging weg und kam nicht mehr wieder.
+
+  このプロジェクトはそれなりの効果があった。
+  このプロジェクトはそれなりの 効果[こうか]があった。
+  Dieses Projekt zeigte eine gewisse Wirkung.
+
+  彼女はそれなりの準備をしていた。
+  彼女[かのじょ]はそれなりの 準備[じゅんび]をしていた。
+  Sie hatte ihre eigenen Vorbereitungen getroffen.
+
+  この仕事はそれなりの重さがある。
+  この 仕事[しごと]はそれなりの 重[おも]さがある。
+  Diese Arbeit hat ein gewisses Gewicht.
+
+  この商品はそれなりの意味を持っている。
+  この 商品[しょうひん]はそれなりの 意味[いみ]を 持[も]っている。
+  Dieses Produkt hat seine eigene Bedeutung.
+
+  それなりの努力をすれば、結果は出るはずだ。
+  それなりの 努力[どりょく]をすれば、結果[けっか]は 出[で]るはずだ。
+  Wenn man sich entsprechend anstrengt, sollten sich Ergebnisse einstellen.
+
+  彼の演技はそれなりの評価を得た。
+  彼[かれ]の 演技[えんぎ]はそれなりの 評価[ひょうか]を 得[え]た。
+  Seine schauspielerische Leistung erhielt eine gewisse Anerkennung.
+
+  このレストランはそれなりの人気がある。
+  このレストランはそれなりの 人気[にんき]がある。
+  Dieses Restaurant erfreut sich einer gewissen Beliebtheit.
+
+  この問題はそれなりに難しい。
+  この 問題[もんだい]はそれなりに 難[むずか]しい。
+  Dieses Problem ist auf seine Weise schwierig.
+
+  彼女の作品はそれなりの価値がある。
+  彼女[かのじょ]の 作品[さくひん]はそれなりの 価値[かち]がある。
+  Ihre Werke haben einen gewissen Wert.
+
+  この会社はそれなりの実績を持っている。
+  この 会社[かいしゃ]はそれなりの 実績[じっせき]を 持[も]っている。
+  Dieses Unternehmen hat seine eigenen Erfolge vorzuweisen.
+
+  彼の説明はそれなりに納得できた。
+  彼[かれ]の 説明[せつめい]はそれなりに 納得[なっとく]できた。
+  Seine Erklärung war auf ihre Art überzeugend.
+
+  この料理はそれなりに美味しい。
+  この 料理[りょうり]はそれなりに 美味[おい]しい。
+  Dieses Gericht schmeckt auf seine eigene Art gut.
+
+  彼女の歌はそれなりの魅力がある。
+  彼女[かのじょ]の 歌[うた]はそれなりの 魅力[みりょく]がある。
+  Ihr Gesang hat seinen eigenen Charme.
+
+  この本はそれなりに面白かった。
+  この 本[ほん]はそれなりに 面白[おもしろ]かった。
+  Dieses Buch war auf seine Weise interessant.
+
+  このイベントはそれなりの盛り上がりを見せた。
+  このイベントはそれなりの 盛[も]り 上[あ]がりを 見[み]せた。
+  Diese Veranstaltung zeigte eine gewisse Begeisterung.
+
+  彼の発言はそれなりの影響力があった。
+  彼[かれ]の 発言[はつげん]はそれなりの 影響力[えいきょうりょく]があった。
+  Seine Aussage hatte einen gewissen Einfluss.
+
+  この計画はそれなりの成果を上げた。
+  この 計画[けいかく]はそれなりの 成果[せいか]を 上[あ]げた。
+  Dieser Plan erzielte entsprechende Ergebnisse.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">それなり</span> wird oft verwendet, um etwas als angemessen oder ausreichend zu beschreiben, ohne herausragend zu sein. Es kann auch bedeuten, dass etwas seiner Natur oder seinem Charakter entsprechend ist.</p>
+  <div class="examples">
+    <div class="jp">この 仕事[しごと]はそれなりの 難[むずか]しさがある。</div>
+    <div class="de spoiler">Diese Arbeit hat ihre eigenen Schwierigkeiten.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass etwas zu Ende ist oder in einem bestimmten Zustand belassen wird.</p>
+  <div class="examples">
+    <div class="jp">話[はなし]し 合[あ]いはそれなりに 終[お]わった。</div>
+    <div class="de spoiler">Die Diskussion endete damit.</div>
+  </div>
+  <p>In manchen Kontexten kann es auch eine leicht negative Konnotation haben, im Sinne von "nicht besonders gut, aber akzeptabel".</p>
+  <div class="examples">
+    <div class="jp">料理[りょうり]の 味[あじ]はそれなりだった。</div>
+    <div class="de spoiler">Der Geschmack des Essens war so lala.</div>
+  </div>

@@ -2,21 +2,121 @@ Rang: 1301
 Lemma: 薄い
 Lesung: うすい
 Alternativschreibweisen: ''
-Definition: dünn, leicht, schwach
+Definition: dünn
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 薄くない・薄かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このコンピューターは雑誌のように薄い。
   このコンピューターは 雑誌[ざっし]のように 薄[うす]い。
-  Dieser Computer ist so schlank wie eine Zeitschrift.
+  Dieser Computer ist so dünn wie eine Zeitschrift.
+
+  薄い紙に書かれた手紙を大切に保管しています。
+  薄[うす]い 紙[かみ]に 書[か]かれた 手紙[てがみ]を 大切[たいせつ]に 保管[ほかん]しています。
+  Ich bewahre sorgfältig den Brief auf, der auf dünnem Papier geschrieben wurde.
+
+  冬になると、池の表面に薄い氷が張ります。
+  冬[ふゆ]になると、池[いけ]の 表面[ひょうめん]に 薄[うす]い 氷[こおり]が 張[は]ります。
+  Im Winter bildet sich eine dünne Eisschicht auf der Oberfläche des Teiches.
+
+  彼女は薄い唇をさらに強調するメイクをしていた。
+  彼女[かのじょ]は 薄[うす]い 唇[くちびる]をさらに 強調[きょうちょう]するメイクをしていた。
+  Sie trug Make-up, das ihre dünnen Lippen noch mehr betonte.
+
+  祖父は年をとるにつれて、背中が薄くなってきた。
+  祖父[そふ]は 年[とし]をとるにつれて、背中[せなか]が 薄[うす]くなってきた。
+  Mein Großvater bekam mit zunehmendem Alter einen schmalen Rücken.
+
+  このコーヒーは薄すぎて、味がしないよ。
+  このコーヒーは 薄[うす]すぎて、味[あじ]がしないよ。
+  Dieser Kaffee ist zu dünn, man schmeckt ihn kaum.
+
+  お母さんの味噌汁は薄めで、体に優しいんだ。
+  お母[かあ]さんの 味噌汁[みそしる]は 薄[うす]めで、体[からだ]に 優[やさ]しいんだ。
+  Die Misosuppe meiner Mutter ist dünn und leicht bekömmlich.
+
+  年齢とともに髪が薄くなってきて、悩んでいます。
+  年齢[ねんれい]とともに 髪[かみ]が 薄[うす]くなってきて、悩[なや]んでいます。
+  Ich mache mir Sorgen, weil meine Haare mit dem Alter dünner werden.
+
+  彼の薄い髭は若々しい印象を与えていた。
+  彼[かれ]の 薄[うす]い 髭[ひげ]は 若々[わかわか]しい 印象[いんしょう]を 与[あた]えていた。
+  Sein dünner Bart gab ihm ein jugendliches Aussehen.
+
+  このスープは味が薄いので、塩を足したほうがいいかもしれません。
+  このスープは 味[あじ]が 薄[うす]いので、塩[しお]を 足[た]したほうがいいかもしれません。
+  Da die Suppe fade schmeckt, sollten wir vielleicht etwas Salz hinzufügen.
+
+  彼の主張は根拠が薄く、説得力に欠けていた。
+  彼[かれ]の 主張[しゅちょう]は 根拠[こんきょ]が 薄[うす]く、説得力[せっとくりょく]に 欠[か]けていた。
+  Seine Behauptung hatte eine schwache Grundlage und war nicht überzeugend.
+
+  人情が薄い人とは付き合いたくないね。
+  人情[にんじょう]が 薄[うす]い 人[ひと]とは 付[つ]き 合[あ]いたくないね。
+  Ich möchte nicht mit Menschen umgehen, die wenig Empathie haben.
+
+  この投資は利が薄いので、やめたほうがいいでしょう。
+  この 投資[とうし]は 利[り]が 薄[うす]いので、やめたほうがいいでしょう。
+  Da diese Investition kaum Gewinn bringt, sollten wir sie besser sein lassen.
+
+  幸薄い人生を送りたくないから、前向きに生きていこう。
+  幸[さち]薄[うす]い 人生[じんせい]を 送[おく]りたくないから、前向[まえむ]きに 生[い]きていこう。
+  Ich möchte kein glückloses Leben führen, also lass uns positiv in die Zukunft blicken.
+
+  彼女は薄く化粧して、自然な美しさを引き立てていた。
+  彼女[かのじょ]は 薄[うす]く 化粧[けしょう]して、自然[しぜん]な 美[うつく]しさを 引[ひ]き 立[た]てていた。
+  Sie trug dezentes Make-up, das ihre natürliche Schönheit betonte.
+
+  料理人は野菜を薄く切って、サラダに使った。
+  料理人[りょうりにん]は 野菜[やさい]を 薄[うす]く 切[き]って、サラダに 使[つか]った。
+  Der Koch schnitt das Gemüse in dünne Scheiben und verwendete es für den Salat.
+
+  夏になると、服が薄くなっていくね。
+  夏[なつ]になると、服[ふく]が 薄[うす]くなっていくね。
+  Im Sommer werden die Kleidungsstücke dünner, nicht wahr?
+
+  このソースは少し薄いので、煮詰めて濃くしましょう。
+  このソースは 少[すこ]し 薄[うす]いので、煮詰[につ]めて 濃[こ]くしましょう。
+  Diese Sauce ist etwas dünn, lass uns sie einkochen, um sie zu verdicken.
+
+  私は日付の順序に、薄い便箋に書いた細字の手紙を読みだした。
+  私[わたし]は 日付[ひづけ]の 順序[じゅんじょ]に、薄[うす]い 便箋[びんせん]に 書[か]いた 細字[さいじ]の 手紙[てがみ]を 読[よ]みだした。
+  Ich begann, die auf dünnem Briefpapier in kleiner Schrift geschriebenen Briefe der Reihenfolge nach zu lesen.
+
+  このリンクは約1300メートルの高所にあり、空気が薄い。
+  このリンクは 約[やく]1300メートルの 高所[こうしょ]にあり、空気[くうき]が 薄[うす]い。
+  Diese Eisschnelllaufbahn befindet sich in etwa 1300 m Höhe. Die Luft dort ist dünn.
+
+  川岸にたまった水は薄く凍りついていた。
+  川岸[かわぎし]にたまった 水[みず]は 薄[うす]く 凍[こお]りついていた。
+  Das am Flussufer angesammelte Wasser war dünn zugefroren.
+
+  「コーヒーはうんと薄くしてください」と彼は注文した。
+  「コーヒーはうんと 薄[うす]くしてください」と 彼[かれ]は 注文[ちゅうもん]した。
+  "Bitte machen Sie den Kaffee sehr dünn", bestellte er.
+
+  銀河の光は薄い煙のように遠く壮厳な天を流れていた。
+  銀河[ぎんが]の 光[ひかり]は 薄[うす]い 煙[けむり]のように 遠[とお]く 壮厳[そうごん]な 天[てん]を 流[なが]れていた。
+  Das Licht der Milchstraße floss wie ein feiner Rauch über den fernen, majestätischen Himmel.
+
+  彼の髪はやや薄く、オールバックにしていた。
+  彼[かれ]の 髪[かみ]はやや 薄[うす]く、オールバックにしていた。
+  Sein Haar war etwas dünn und zurückgekämmt.
+
+  この布地は元々緋色だったが、今は薄い樺色に変色している。
+  この 布地[ぬのじ]は 元々[もともと] 緋色[ひいろ]だったが、今[いま]は 薄[うす]い 樺色[かばいろ]に 変色[へんしょく]している。
+  Dieser Stoff war ursprünglich scharlachrot, ist jetzt aber zu einem blassen Gelbrot verblichen.
+
+  私には所有欲というものが薄く、物にはあまり執着しません。
+  私[わたし]には 所有欲[しょゆうよく]というものが 薄[うす]く、物[もの]にはあまり 執着[しゅうちゃく]しません。
+  Mein Verlangen nach Besitz ist nicht besonders ausgeprägt, ich hänge nicht sehr an materiellen Dingen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

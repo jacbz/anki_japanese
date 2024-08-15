@@ -2,21 +2,97 @@ Rang: 1221
 Lemma: 避ける
 Lesung: さける
 Alternativschreibweisen: ''
-Definition: vermeiden, fernhalten
+Definition: (aus-)weichen, vermeiden
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 避けない・避けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼に避けられているような気がする。
   彼[かれ]に 避[さ]けられているような 気[き]がする。
-  Ich habe das Gefühl, dass er mich meidet.
+  Ich habe das Gefühl, dass er mir aus dem Weg geht.
+
+  人混みを避けて裏道を歩いた。
+  人混[ひとご]みを 避[さ]けて 裏道[うらみち]を 歩[ある]いた。
+  Ich nahm einen Nebenweg, um die Menschenmenge zu meiden.
+
+  自転車を避けようとして、転んでしまった。
+  自転車[じてんしゃ]を 避[さ]けようとして、転[ころ]んでしまった。
+  Als ich versuchte, dem Fahrrad auszuweichen, bin ich hingefallen.
+
+  難を避けるために、慎重に行動する必要がある。
+  難[なん]を 避[さ]けるために、慎重[しんちょう]に 行動[こうどう]する 必要[ひつよう]がある。
+  Um Schwierigkeiten zu vermeiden, müssen wir vorsichtig handeln.
+
+  葛藤を避けるのではなく、向き合うべきだ。
+  葛藤[かっとう]を 避[さ]けるのではなく、向[む]き 合[あ]うべきだ。
+  Anstatt Konflikten aus dem Weg zu gehen, sollten wir uns ihnen stellen.
+
+  人目を避けて、こっそり会っていた。
+  人目[ひとめ]を 避[さ]けて、こっそり 会[あ]っていた。
+  Sie trafen sich heimlich, um den Blicken anderer zu entgehen.
+
+  責任を避けようとする態度は好ましくない。
+  責任[せきにん]を 避[さ]けようとする 態度[たいど]は 好[この]ましくない。
+  Eine Haltung, die versucht, Verantwortung zu umgehen, ist nicht wünschenswert.
+
+  避けたいシナリオを想定して、対策を立てましょう。
+  避[さ]けたいシナリオを 想定[そうてい]して、対策[たいさく]を 立[た]てましょう。
+  Lasst uns Gegenmaßnahmen für die Szenarien entwickeln, die wir vermeiden möchten.
+
+  木陰で暑さを避けながら、休憩をとった。
+  木陰[こかげ]で 暑[あつ]さを 避[さ]けながら、休憩[きゅうけい]をとった。
+  Ich machte eine Pause im Schatten eines Baumes, um der Hitze zu entgehen.
+
+  渋滞を避けて回り道をすることにした。
+  渋滞[じゅうたい]を 避[さ]けて 回[まわ]り 道[みち]をすることにした。
+  Ich beschloss, einen Umweg zu nehmen, um den Stau zu umgehen.
+
+  ラッシュアワーを避けて通勤するようにしている。
+  ラッシュアワーを 避[さ]けて 通勤[つうきん]するようにしている。
+  Ich versuche, außerhalb der Stoßzeiten zur Arbeit zu fahren.
+
+  避けて通れない問題に直面している。
+  避[さ]けて 通[とお]れない 問題[もんだい]に 直面[ちょくめん]している。
+  Wir stehen vor einem Problem, dem wir nicht ausweichen können.
+
+  避けがたい運命だと感じていた。
+  避[さ]けがたい 運命[うんめい]だと 感[かん]じていた。
+  Ich hatte das Gefühl, es sei ein unvermeidliches Schicksal.
+
+  外出を避けて、家で過ごす時間が増えた。
+  外出[がいしゅつ]を 避[さ]けて、家[いえ]で 過[す]ごす 時間[じかん]が 増[ふ]えた。
+  Ich vermeide es auszugehen und verbringe mehr Zeit zu Hause.
+
+  明答を避ける政治家の態度に不満を感じる。
+  明答[めいとう]を 避[さ]ける 政治家[せいじか]の 態度[たいど]に 不満[ふまん]を 感[かん]じる。
+  Ich bin unzufrieden mit der Haltung von Politikern, die klare Antworten vermeiden.
+
+  専門用語を避けて、わかりやすく説明してください。
+  専門用語[せんもんようご]を 避[さ]けて、分[わ]かりやすく 説明[せつめい]してください。
+  Bitte erklären Sie es verständlich, ohne Fachbegriffe zu verwenden.
+
+  派手な服装を避けて、シンプルな格好にした。
+  派手[はで]な 服装[ふくそう]を 避[さ]けて、シンプルな 格好[かっこう]にした。
+  Ich verzichtete auf auffällige Kleidung und entschied mich für ein schlichtes Outfit.
+
+  お肉を食べるのを避けて、野菜中心の食生活を心がけている。
+  お 肉[にく]を 食[た]べるのを 避[さ]けて、野菜[やさい]中心[ちゅうしん]の 食生活[しょくせいかつ]を 心[こころ]がけている。
+  Ich vermeide es, Fleisch zu essen, und bemühe mich um eine gemüsebasierte Ernährung.
+
+  避けられない事実を受け入れる勇気が必要だ。
+  避[さ]けられない 事実[じじつ]を 受[う]け 入[い]れる 勇気[ゆうき]が 必要[ひつよう]だ。
+  Es braucht Mut, unvermeidbare Tatsachen zu akzeptieren.
+
+  目礼はするが、なるべく口をきくことは避けた。
+  目礼[もくれい]はするが、なるべく 口[くち]をきくことは 避[さ]けた。
+  Ich grüßte zwar mit den Augen, vermied es aber möglichst, ein Wort zu sagen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^^
 Register: ''
 Dispersion: '75'
 Ursprung: ''
-Konjugation: ''
+Konjugation: する・した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼から指導を受けるためにこの学校に入った。
   彼[かれ]から 指導[しどう]を 受[う]けるためにこの 学校[がっこう]に 入[はい]った。
-  Ich bin in diese Schule gegangen, um von ihm angeleitet zu werden.
+  Ich bin in diese Schule eingetreten, um von ihm unterrichtet zu werden.
+
+  新しい指導方針について会議で話し合います。
+  新[あた]しい 指導方針[しどうほうしん]について 会議[かいぎ]で 話[はな]し 合[あ]います。
+  Wir werden in der Besprechung über die neuen Leitlinien diskutieren.
+
+  彼女は若手社員の指導役を務めている。
+  彼女[かのじょ]は 若手社員[わかてしゃいん]の 指導役[しどうやく]を 務[つと]めている。
+  Sie fungiert als Tutorin für die jungen Mitarbeiter.
+
+  安全指導を受けずに作業を始めてはいけません。
+  安全指導[あんぜんしどう]を 受[う]けずに 作業[さぎょう]を 始[はじ]めてはいけません。
+  Man darf nicht mit der Arbeit beginnen, ohne Sicherheitsanweisungen erhalten zu haben.
+
+  彼の指導の下で、チームの成績が大幅に向上した。
+  彼[かれ]の 指導[しどう]の 下[もと]で、チームの 成績[せいせき]が 大幅[おおはば]に 向上[こうじょう]した。
+  Unter seiner Leitung hat sich die Leistung des Teams deutlich verbessert.
+
+  指導教授と論文のテーマについて相談した。
+  指導教授[しどうきょうじゅ]と 論文[ろんぶん]のテーマについて 相談[そうだん]した。
+  Ich habe mich mit meinem betreuenden Professor über das Thema meiner Abschlussarbeit beraten.
+
+  生徒たちは熱心に指導を仰いでいる。
+  生徒[せいと]たちは 熱心[ねっしん]に 指導[しどう]を 仰[あお]いでいる。
+  Die Schüler bitten eifrig um Anleitung.
+
+  彼女は子供たちのピアノ指導に情熱を注いでいる。
+  彼女[かのじょ]は 子供[こども]たちのピアノ 指導[しどう]に 情熱[じょうねつ]を 注[そそ]いでいる。
+  Sie widmet sich leidenschaftlich dem Klavierunterricht für Kinder.
+
+  指導主事が各学校を訪問し、授業の様子を観察する。
+  指導主事[しどうしゅじ]が 各[かく] 学校[がっこう]を 訪問[ほうもん]し、授業[じゅぎょう]の 様子[ようす]を 観察[かんさつ]する。
+  Die Bildungsbeauftragten besuchen die einzelnen Schulen und beobachten den Unterricht.
+
+  この会社は、新入社員に対して厳しい指導をする方針だ。
+  この 会社[かいしゃ]は、新入社員[しんにゅうしゃいん]に 対[たい]して 厳[きび]しい 指導[しどう]をする 方針[ほうしん]だ。
+  Diese Firma hat die Politik, neue Mitarbeiter streng anzuleiten.
+
+  彼の指導的な役割は、チームの成功に不可欠だった。
+  彼[かれ]の 指導的[しどうてき]な 役割[やくわり]は、チームの 成功[せいこう]に 不可欠[ふかけつ]だった。
+  Seine führende Rolle war entscheidend für den Erfolg des Teams.
+
+  指導要領の改訂により、カリキュラムが大きく変わった。
+  指導要領[しどうようりょう]の 改訂[かいてい]により、カリキュラムが 大[おお]きく 変[か]わった。
+  Durch die Überarbeitung der Unterrichtsrichtlinien hat sich der Lehrplan stark verändert.
+
+  彼女は指導的な立場にあるため、多くの責任を負っている。
+  彼女[かのじょ]は 指導的[しどうてき]な 立場[たちば]にあるため、多[おお]くの 責任[せきにん]を 負[お]っている。
+  Da sie eine Führungsposition innehat, trägt sie viel Verantwortung.
+
+  技術指導を受けることで、生産性が向上した。
+  技術指導[ぎじゅつしどう]を 受[う]けることで、生産性[せいさんせい]が 向上[こうじょう]した。
+  Durch die technische Beratung hat sich die Produktivität verbessert.
+
+  指導する側も、常に学ぶ姿勢が必要だ。
+  指導[しどう]する 側[がわ]も、常[つね]に 学[まな]ぶ 姿勢[しせい]が 必要[ひつよう]だ。
+  Auch diejenigen, die anleiten, müssen stets bereit sein zu lernen.
+
+  彼は若手選手の指導に熱心で、休日も練習に付き添う。
+  彼[かれ]は 若手選手[わかてせんしゅ]の 指導[しどう]に 熱心[ねっしん]で、休日[きゅうじつ]も 練習[れんしゅう]に 付[つ]き 添[そ]う。
+  Er ist engagiert in der Anleitung junger Athleten und begleitet sie auch an freien Tagen zum Training.
+
+  指導教官の助言を参考に、研究計画を見直した。
+  指導教官[しどうきょうかん]の 助言[じょげん]を 参考[さんこう]に、研究計画[けんきゅうけいかく]を 見直[みなお]した。
+  Ich habe meinen Forschungsplan basierend auf den Ratschlägen meines betreuenden Dozenten überarbeitet.
+
+  彼女は指導的な学者として、多くの後進を育てた。
+  彼女[かのじょ]は 指導的[しどうてき]な 学者[がくしゃ]として、多[おお]くの 後進[こうしん]を 育[そだ]てた。
+  Als führende Wissenschaftlerin hat sie viele Nachwuchskräfte ausgebildet.
+
+  新任教師は、ベテラン教師の指導の下で授業を行う。
+  新任教師[しんにんきょうし]は、ベテラン 教師[きょうし]の 指導[しどう]の 下[もと]で 授業[じゅぎょう]を 行[おこな]う。
+  Die neuen Lehrer halten ihren Unterricht unter Anleitung erfahrener Lehrer ab.
+
+  指導料は経験や専門性によって異なります。
+  指導料[しどうりょう]は 経験[けいけん]や 専門性[せんもんせい]によって 異[こと]なります。
+  Die Unterrichtsgebühren variieren je nach Erfahrung und Fachkenntnissen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

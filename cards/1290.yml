@@ -1,15 +1,15 @@
 Rang: 1290
 Lemma: 追う
 Lesung: おう
-Alternativschreibweisen: ''
-Definition: verfolgen, jagen, nachgehen
+Alternativschreibweisen: 逐う
+Definition: verfolgen, jagen; nachgehen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 追わない・追った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   彼は流行を追うのが好きだ。
   彼[かれ]は 流行[りゅうこう]を 追[お]うのが 好[す]きだ。
   Er mag es, der Mode zu folgen.
+
+  警察は逃げた犯人を必死に追っている。
+  警察[けいさつ]は 逃[に]げた 犯人[はんにん]を 必死[ひっし]に 追[お]っている。
+  Die Polizei verfolgt verzweifelt den geflüchteten Täter.
+
+  子供たちは公園で鬼ごっこをして、お互いを追いかけ回っていた。
+  子供[こども]たちは 公園[こうえん]で 鬼[おに]ごっこをして、お 互[たが]いを 追[お]いかけ 回[まわ]っていた。
+  Die Kinder spielten Fangen im Park und jagten einander herum.
+
+  彼女は夢を追って海外に留学した。
+  彼女[かのじょ]は 夢[ゆめ]を 追[お]って 海外[かいがい]に 留学[りゅうがく]した。
+  Sie ging ins Ausland zum Studieren, um ihrem Traum zu folgen.
+
+  私たちは時間に追われて、急いで準備を済ませた。
+  私[わたし]たちは 時間[じかん]に 追[お]われて、急[いそ]いで 準備[じゅんび]を 済[す]ませた。
+  Unter Zeitdruck beeilten wir uns, die Vorbereitungen abzuschließen.
+
+  彼はキャリアを追うあまり、家族との時間を犠牲にしてしまった。
+  彼[かれ]はキャリアを 追[お]うあまり、家族[かぞく]との 時間[じかん]を 犠牲[ぎせい]にしてしまった。
+  Er opferte die Zeit mit seiner Familie, weil er seiner Karriere zu sehr nachjagte.
+
+  猟師は鹿を追って森の奥深くまで入っていった。
+  猟師[りょうし]は 鹿[しか]を 追[お]って 森[もり]の 奥深[おくぶか]くまで 入[はい]っていった。
+  Der Jäger drang tief in den Wald ein, um einen Hirsch zu jagen.
+
+  彼女は目で動く物体を追いながら、集中力を高めている。
+  彼女[かのじょ]は 目[め]で 動[うご]く 物体[ぶったい]を 追[お]いながら、集中力[しゅうちゅうりょく]を 高[たか]めている。
+  Sie steigert ihre Konzentration, indem sie mit den Augen beweglichen Objekten folgt.
+
+  選手たちはボールを追って、グラウンドを駆け回った。
+  選手[せんしゅ]たちはボールを 追[お]って、グラウンドを 駆[か]け 回[まわ]った。
+  Die Spieler rannten über das Spielfeld, dem Ball hinterher.
+
+  彼は成功を追い求めるあまり、健康を害してしまった。
+  彼[かれ]は 成功[せいこう]を 追[お]い 求[もと]めるあまり、健康[けんこう]を 害[がい]してしまった。
+  Er schadete seiner Gesundheit, weil er zu sehr nach Erfolg strebte.
+
+  警備員は不審者を追って、建物の外に出た。
+  警備員[けいびいん]は 不審者[ふしんしゃ]を 追[お]って、建物[たてもの]の 外[そと]に 出[で]た。
+  Der Wachmann verfolgte die verdächtige Person nach draußen.
+
+  彼女は理想を追い続け、ついに夢を実現させた。
+  彼女[かのじょ]は 理想[りそう]を 追[お]い 続[つづ]け、ついに 夢[ゆめ]を 実現[じつげん]させた。
+  Sie verfolgte weiterhin ihre Ideale und verwirklichte schließlich ihren Traum.
+
+  風に追われるように、落ち葉が道路を転がっていった。
+  風[かぜ]に 追[お]われるように、落ち葉[おちば]が 道路[どうろ]を 転[ころ]がっていった。
+  Als ob sie vom Wind getrieben würden, rollten die abgefallenen Blätter über die Straße.
+
+  彼は締め切りに追われて、夜遅くまで仕事をしていた。
+  彼[かれ]は 締[し]め 切[き]りに 追[お]われて、夜[よる] 遅[おそ]くまで 仕事[しごと]をしていた。
+  Von der Deadline getrieben, arbeitete er bis spät in die Nacht.
+
+  犬が猫を追いかけ、庭中を走り回った。
+  犬[いぬ]が 猫[ねこ]を 追[お]いかけ、庭中[にわじゅう]を 走[はし]り 回[まわ]った。
+  Der Hund jagte der Katze hinterher und rannte durch den ganzen Garten.
+
+  彼女は桜を追って、日本中を旅行した。
+  彼女[かのじょ]は 桜[さくら]を 追[お]って、日本中[にほんじゅう]を 旅行[りょこう]した。
+  Sie reiste durch ganz Japan, um der Kirschblüte zu folgen.
+
+  私たちは目標を追って、日々努力を重ねている。
+  私[わたし]たちは 目標[もくひょう]を 追[お]って、日々[ひび] 努力[どりょく]を 重[かさ]ねている。
+  Wir arbeiten Tag für Tag hart daran, unser Ziel zu verfolgen.
+
+  彼は政敵を追い落とし、権力を握った。
+  彼[かれ]は 政敵[せいてき]を 追[お]い 落[お]とし、権力[けんりょく]を 握[にぎ]った。
+  Er stürzte seine politischen Gegner und ergriff die Macht.
+
+  日を追うごとに、彼の技術は向上していった。
+  日[ひ]を 追[お]うごとに、彼[かれ]の 技術[ぎじゅつ]は 向上[こうじょう]していった。
+  Mit jedem Tag verbesserten sich seine Fähigkeiten.
+
+  彼女は順を追って、事件の経緯を説明した。
+  彼女[かのじょ]は 順[じゅん]を 追[お]って、事件[じけん]の 経緯[けいい]を 説明[せつめい]した。
+  Sie erklärte den Verlauf des Vorfalls der Reihe nach.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

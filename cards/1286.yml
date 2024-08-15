@@ -2,21 +2,97 @@ Rang: 1286
 Lemma: 果たす
 Lesung: はたす
 Alternativschreibweisen: ''
-Definition: durchführen, erreichen, erfüllen
+Definition: erfüllen; verwirklichen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '84'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 果たさない・果たした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   自分の責任は果たしたと思っている。
   自分[じぶん]の 責任[せきにん]は 果[は]たしたと 思[おも]っている。
-  Ich glaube, ich habe meine Verantwortung erfüllt.
+  Ich denke, ich habe meine Verantwortung erfüllt.
+
+  彼女は重要な役割を果たしている。
+  彼女[かのじょ]は 重要[じゅうよう]な 役割[やくわり]を 果[は]たしている。
+  Sie spielt eine wichtige Rolle.
+
+  約束を果たせなかったことを謝罪しました。
+  約束[やくそく]を 果[は]たせなかったことを 謝罪[しゃざい]しました。
+  Ich habe mich dafür entschuldigt, dass ich mein Versprechen nicht einhalten konnte.
+
+  この機械は期待通りの機能を果たしていない。
+  この 機械[きかい]は 期待通[きたいどお]りの 機能[きのう]を 果[は]たしていない。
+  Diese Maschine erfüllt nicht die erwartete Funktion.
+
+  長年の目的をついに果たすことができた。
+  長年[ながねん]の 目的[もくてき]をついに 果[は]たすことができた。
+  Ich konnte endlich mein langjähriges Ziel erreichen.
+
+  彼らは誓約を果たすために懸命に働いた。
+  彼[かれ]らは 誓約[せいやく]を 果[は]たすために 懸命[けんめい]に 働[はたら]いた。
+  Sie arbeiteten hart, um ihr Gelübde zu erfüllen.
+
+  新しい法律は社会的な使命を果たすだろう。
+  新[あたら]しい 法律[ほうりつ]は 社会的[しゃかいてき]な 使命[しめい]を 果[は]たすだろう。
+  Das neue Gesetz wird eine gesellschaftliche Aufgabe erfüllen.
+
+  長年の宿願を果たし、海外旅行に行けた。
+  長年[ながねん]の 宿願[しゅくがん]を 果[は]たし、海外旅行[かいがいりょこう]に 行[い]けた。
+  Ich konnte meinen lang gehegten Wunsch erfüllen und eine Auslandsreise machen.
+
+  彼は大望を果たし、社長になった。
+  彼[かれ]は 大望[たいぼう]を 果[は]たし、社長[しゃちょう]になった。
+  Er hat seine Ambitionen verwirklicht und wurde Firmenchef.
+
+  その政治家は選挙公約を果たさなかった。
+  その 政治家[せいじか]は 選挙公約[せんきょこうやく]を 果[は]たさなかった。
+  Der Politiker hat seine Wahlversprechen nicht eingehalten.
+
+  私たちの夢を果たすには努力が必要だ。
+  私[わたし]たちの 夢[ゆめ]を 果[は]たすには 努力[どりょく]が 必要[ひつよう]だ。
+  Um unseren Traum zu verwirklichen, ist Anstrengung nötig.
+
+  この計画を果たすには時間がかかるでしょう。
+  この 計画[けいかく]を 果[は]たすには 時間[じかん]がかかるでしょう。
+  Es wird Zeit brauchen, diesen Plan zu verwirklichen.
+
+  彼女は自分の役目を立派に果たしました。
+  彼女[かのじょ]は 自分[じぶん]の 役目[やくめ]を 立派[りっぱ]に 果[は]たしました。
+  Sie hat ihre Aufgabe hervorragend erfüllt.
+
+  その老人は誠実に任務を果たしているようだ。
+  その 老人[ろうじん]は 誠実[せいじつ]に 任務[にんむ]を 果[は]たしているようだ。
+  Es scheint, dass der alte Mann seine Pflicht gewissenhaft erfüllt.
+
+  アインシュタインは量子力学の発展に重要な役割を果たした。
+  アインシュタインは 量子力学[りょうしりきがく]の 発展[はってん]に 重要[じゅうよう]な 役割[やくわり]を 果[は]たした。
+  Einstein spielte eine wichtige Rolle bei der Entwicklung der Quantenmechanik.
+
+  全ての食料を使い果たしてしまった。
+  全[すべ]ての 食料[しょくりょう]を 使[つか]い 果[は]たしてしまった。
+  Wir haben alle Lebensmittel aufgebraucht.
+
+  彼は体力を使い果たして倒れた。
+  彼[かれ]は 体力[たいりょく]を 使[つか]い 果[は]たして 倒[たお]れた。
+  Er brach zusammen, nachdem er seine ganze Kraft verbraucht hatte.
+
+  この仕事を果たすまでは休めない。
+  この 仕事[しごと]を 果[は]たすまでは 休[やす]めない。
+  Ich kann nicht ruhen, bis ich diese Aufgabe erfüllt habe.
+
+  彼女は自分の夢を果たすために一生懸命勉強している。
+  彼女[かのじょ]は 自分[じぶん]の 夢[ゆめ]を 果[は]たすために 一生懸命[いっしょうけんめい] 勉強[べんきょう]している。
+  Sie lernt hart, um ihren Traum zu verwirklichen.
+
+  この会社は社会的責任を果たしていると評価されている。
+  この 会社[かいしゃ]は 社会的[しゃかいてき] 責任[せきにん]を 果[は]たしていると 評価[ひょうか]されている。
+  Dieses Unternehmen wird dafür geschätzt, dass es seiner sozialen Verantwortung gerecht wird.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

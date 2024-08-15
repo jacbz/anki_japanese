@@ -2,7 +2,7 @@ Rang: 1344
 Lemma: 人物
 Lesung: じんぶつ
 Alternativschreibweisen: ''
-Definition: Person, Charakter
+Definition: Person, Persönlichkeit
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \...
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は素晴らしい人物だった。
   彼女[かのじょ]は 素晴[すば]らしい 人物[じんぶつ]だった。
-  Sie war eine wunderbare Person.
+  Sie war eine bemerkenswerte Persönlichkeit.
+
+  この会社の社長は注意人物として知られています。
+  この 会社[かいしゃ]の 社長[しゃちょう]は 注意人物[ちゅういじんぶつ]として 知[し]られています。
+  Der Präsident dieses Unternehmens ist als Person bekannt, die man im Auge behalten sollte.
+
+  彼は歴史上の重要な人物の一人です。
+  彼[かれ]は 歴史上[れきしじょう]の 重要[じゅうよう]な 人物[じんぶつ]の 一人[ひとり]です。
+  Er ist eine der wichtigen historischen Persönlichkeiten.
+
+  その小説の中心人物は若い女性です。
+  その 小説[しょうせつ]の 中心人物[ちゅうしんじんぶつ]は 若[わか]い 女性[じょせい]です。
+  Die Hauptfigur des Romans ist eine junge Frau.
+
+  彼は人物が良いので、みんなから信頼されています。
+  彼[かれ]は 人物[じんぶつ]が 良[よ]いので、みんなから 信頼[しんらい]されています。
+  Er wird von allen vertraut, weil er einen guten Charakter hat.
+
+  人事部は応募者の人物評価を慎重に行っています。
+  人事部[じんじぶ]は 応募者[おうぼしゃ]の 人物評価[じんぶつひょうか]を 慎重[しんちょう]に 行[おこな]っています。
+  Die Personalabteilung führt sorgfältig Beurteilungen der Bewerber durch.
+
+  この画家は人物画を得意としています。
+  この 画家[がか]は 人物画[じんぶつが]を 得意[とくい]としています。
+  Dieser Maler ist spezialisiert auf Porträts.
+
+  彼女の人物像は多くの人々に影響を与えました。
+  彼女[かのじょ]の 人物像[じんぶつぞう]は 多[おお]くの 人々[ひとびと]に 影響[えいきょう]を 与[あた]えました。
+  Ihr Charakterbild hat viele Menschen beeinflusst.
+
+  その政治家は好人物として知られています。
+  その 政治家[せいじか]は 好人物[こうじんぶつ]として 知[し]られています。
+  Dieser Politiker ist als anständiger Mensch bekannt.
+
+  彼の人物保証書は非常に印象的でした。
+  彼[かれ]の 人物保証書[じんぶつほしょうしょ]は 非常[ひじょう]に 印象的[いんしょうてき]でした。
+  Seine Empfehlung war sehr beeindruckend.
+
+  人物試験は採用プロセスの重要な部分です。
+  人物試験[じんぶつしけん]は 採用[さいよう]プロセスの 重要[じゅうよう]な 部分[ぶぶん]です。
+  Der Persönlichkeitstest ist ein wichtiger Teil des Einstellungsverfahrens.
+
+  この会社は人物主義の採用方針を取っています。
+  この 会社[かいしゃ]は 人物主義[じんぶつしゅぎ]の 採用方針[さいようほうしん]を 取[と]っています。
+  Dieses Unternehmen verfolgt eine Einstellungspolitik, die den Charakter in den Vordergrund stellt.
+
+  彼女は人物養成に力を入れています。
+  彼女[かのじょ]は 人物養成[じんぶつようせい]に 力[ちから]を 入[い]れています。
+  Sie legt großen Wert auf Charakterbildung.
+
+  その作家は登場人物の描写が上手です。
+  その 作家[さっか]は 登場人物[とうじょうじんぶつ]の 描写[びょうしゃ]が 上手[じょうず]です。
+  Der Autor ist geschickt in der Charakterzeichnung seiner Figuren.
+
+  彼は一角の人物として業界で知られています。
+  彼[かれ]は 一角[いっかく]の 人物[じんぶつ]として 業界[ぎょうかい]で 知[し]られています。
+  Er ist in der Branche als bedeutende Persönlichkeit bekannt.
+
+  この人物像は明治時代の大人物を表しています。
+  この 人物像[じんぶつぞう]は 明治時代[めいじじだい]の 大人物[だいじんぶつ]を 表[あらわ]しています。
+  Diese Statue stellt eine große Persönlichkeit der Meiji-Ära dar.
+
+  ああいう人物に尊敬されるには、相当な実力が必要だ。
+  ああいう 人物[じんぶつ]に 尊敬[そんけい]されるには、相当[そうとう]な 実力[じつりょく]が 必要[ひつよう]だ。
+  Um von so einer Person respektiert zu werden, braucht man beträchtliche Fähigkeiten.
+
+  初対面なのに、この人物とは気が合うと感じた。
+  初対面[しょたいめん]なのに、この 人物[じんぶつ]とは 気[き]が 合[あ]うと 感[かん]じた。
+  Obwohl es unser erstes Treffen war, spürte ich, dass ich mich mit dieser Person gut verstehen würde.
+
+  彼女は作中人物の心理描写が巧みです。
+  彼女[かのじょ]は 作中人物[さくちゅうじんぶつ]の 心理描写[しんりびょうしゃ]が 巧[たく]みです。
+  Sie ist geschickt in der psychologischen Darstellung ihrer Romanfiguren.
+
+  その画家は人物を大胆な遠近法で描いています。
+  その 画家[がか]は 人物[じんぶつ]を 大胆[だいたん]な 遠近法[えんきんほう]で 描[えが]いています。
+  Der Maler stellt Personen mit einer kühnen Perspektive dar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

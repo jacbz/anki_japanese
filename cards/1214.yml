@@ -1,8 +1,8 @@
 Rang: 1214
 Lemma: 固い
 Lesung: かたい
-Alternativschreibweisen: ''
-Definition: hart, fest, steif
+Alternativschreibweisen: 堅い・硬い
+Definition: hart, fest; steif
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Lesung mit Tonhöhe: .^^
@@ -18,9 +18,115 @@ Beispielsätze: |-
   この 岩[いわ]はとても 固[かた]い。
   Dieser Felsen ist sehr hart.
 
+  この牛肉は固くて食べにくい。
+  この 牛肉[ぎゅうにく]は 固[かた]くて 食[た]べにくい。
+  Dieses Rindfleisch ist zäh und schwer zu essen.
+
+  石のように固い地面で寝るのは快適ではありません。
+  石[いし]のように 固[かた]い 地面[じめん]で 寝[ね]るのは 快適[かいてき]ではありません。
+  Es ist nicht bequem, auf einem steinhart festen Boden zu schlafen.
+
+  彼の表情は固いままだった。
+  彼[かれ]の 表情[ひょうじょう]は 固[かた]いままだった。
+  Sein Gesichtsausdruck blieb angespannt.
+
+  上司に話しかけるとき、つい固い言葉遣いになってしまう。
+  上司[じょうし]に 話[はな]しかけるとき、つい 固[かた]い 言葉遣[ことばづか]いになってしまう。
+  Wenn ich mit meinem Vorgesetzten spreche, verfalle ich unwillkürlich in eine förmliche Ausdrucksweise.
+
+  彼女は固い表情で悪いニュースを伝えた。
+  彼女[かのじょ]は 固[かた]い 表情[ひょうじょう]で 悪[わる]いニュースを 伝[つた]えた。
+  Sie überbrachte die schlechte Nachricht mit einem ernsten Gesichtsausdruck.
+
+  この建物は固い地盤の上に建てられている。
+  この 建物[たてもの]は 固[かた]い 地盤[じばん]の 上[うえ]に 建[た]てられている。
+  Dieses Gebäude wurde auf einem festen Untergrund errichtet.
+
+  ネジを固く締めすぎて、開けられなくなった。
+  ネジを 固[かた]く 締[し]めすぎて、開[あ]けられなくなった。
+  Ich habe die Schraube zu fest angezogen und kann sie jetzt nicht mehr öffnen.
+
+  彼は固い決意で新しい仕事に挑戦した。
+  彼[かれ]は 固[かた]い 決意[けつい]で 新[あたら]しい 仕事[しごと]に 挑戦[ちょうせん]した。
+  Er nahm die neue Aufgabe mit festem Entschluss in Angriff.
+
+  この会社は従業員の結束が固い。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 結束[けっそく]が 固[かた]い。
+  In diesem Unternehmen herrscht ein starker Zusammenhalt unter den Mitarbeitern.
+
+  彼女は固く禁煙を誓った。
+  彼女[かのじょ]は 固[かた]く 禁煙[きんえん]を 誓[ちか]った。
+  Sie schwor fest, mit dem Rauchen aufzuhören.
+
+  この規則は固く守らなければならない。
+  この 規則[きそく]は 固[かた]く 守[まも]らなければならない。
+  Diese Regel muss strikt eingehalten werden.
+
+  彼は固い信念を持った人物だ。
+  彼[かれ]は 固[かた]い 信念[しんねん]を 持[も]った 人物[じんぶつ]だ。
+  Er ist ein Mensch mit festen Überzeugungen.
+
+  彼女は固く約束を守る人だ。
+  彼女[かのじょ]は 固[かた]く 約束[やくそく]を 守[まも]る 人[ひと]だ。
+  Sie ist jemand, der ihre Versprechen fest einhält.
+
+  彼の頭の固さは時に問題を引き起こす。
+  彼[かれ]の 頭[あたま]の 固[かた]さは 時[とき]に 問題[もんだい]を 引[ひ]き 起[お]こす。
+  Seine Unnachgiebigkeit verursacht manchmal Probleme.
+
+  彼は固い意志を持って目標に向かって頑張っている。
+  彼[かれ]は 固[かた]い 意志[いし]を 持[も]って 目標[もくひょう]に 向[む]かって 頑張[がんば]っている。
+  Er arbeitet mit starkem Willen hart auf sein Ziel hin.
+
+  彼女は固い性格で知られている。
+  彼女[かのじょ]は 固[かた]い 性格[せいかく]で 知[し]られている。
+  Sie ist für ihren zuverlässigen Charakter bekannt.
+
+  この会社は固い信用がある。
+  この 会社[かいしゃ]は 固[かた]い 信用[しんよう]がある。
+  Dieses Unternehmen genießt ein solides Vertrauen.
+
+  彼の勝利は固いと思われている。
+  彼[かれ]の 勝利[しょうり]は 固[かた]いと 思[おも]われている。
+  Man geht davon aus, dass sein Sieg sicher ist.
+
+  寒さで体が固くなってしまった。
+  寒[さむ]さで 体[からだ]が 固[かた]くなってしまった。
+  Mein Körper ist vor Kälte steif geworden.
+
+  緊張で背中の筋肉が固くなった。
+  緊張[きんちょう]で 背中[せなか]の 筋肉[きんにく]が 固[かた]くなった。
+  Vor Anspannung sind die Muskeln in meinem Rücken steif geworden.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Adjektiv 固い (katai) hat verschiedene Bedeutungen und Nuancen:</p>
+  <div class="examples">
+    <div class="jp">このパンは 固[かた]くて 食[た]べにくいです。</div>
+    <div class="de spoiler">Dieses Brot ist hart und schwer zu essen.</div>
+  </div>
+  <p>1. Physische Härte oder Festigkeit von Objekten.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 固[かた]い 表情[ひょうじょう]で 立[た]っていた。</div>
+    <div class="de spoiler">Er stand mit einem angespannten Gesichtsausdruck da.</div>
+  </div>
+  <p>2. Steifheit oder Anspannung in Ausdrücken oder Verhalten.</p>
+  <div class="examples">
+    <div class="jp">この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 結束[けっそく]が 固[かた]い。</div>
+    <div class="de spoiler">In diesem Unternehmen herrscht ein starker Zusammenhalt unter den Mitarbeitern.</div>
+  </div>
+  <p>3. Festigkeit im übertragenen Sinne, wie bei Entschlüssen oder Beziehungen.</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 固[かた]く 約束[やくそく]を 守[まも]る 人[ひと]だ。</div>
+    <div class="de spoiler">Sie ist jemand, der ihre Versprechen fest einhält.</div>
+  </div>
+  <p>4. Zuverlässigkeit oder Seriosität von Personen oder Institutionen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 勝利[しょうり]は 固[かた]いと 思[おも]われている。</div>
+    <div class="de spoiler">Man geht davon aus, dass sein Sieg sicher ist.</div>
+  </div>
+  <p>5. Sicherheit oder Gewissheit eines Ereignisses.</p>

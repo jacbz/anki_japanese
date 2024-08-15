@@ -2,7 +2,7 @@ Rang: 1329
 Lemma: 指定
 Lesung: してい
 Alternativschreibweisen: ''
-Definition: Bestimmung, Designation
+Definition: Bestimmung; festlegen
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: (.)^^
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   その運送会社は指定された日時に届けてくれる。
   その 運送会社[うんそうがいしゃ]は 指定[してい]された 日時[にちじ]に 届[とど]けてくれる。
-  Dieses Transportunternehmen liefert die Waren an einem festgelegten Datum und zu einer bestimmten Uhrzeit.
+  Das Transportunternehmen liefert zum festgelegten Termin.
+
+  この商品の指定価格は1000円です。
+  この 商品[しょうひん]の 指定[してい] 価格[かかく]は1000円[えん]です。
+  Der festgelegte Preis für diesen Artikel beträgt 1000 Yen.
+
+  新しい社長を指定する権限は取締役会にある。
+  新[あたら]しい 社長[しゃちょう]を 指定[してい]する 権限[けんげん]は 取締役会[とりしまりやくかい]にある。
+  Die Befugnis, einen neuen Präsidenten zu bestimmen, liegt beim Vorstand.
+
+  指定席を予約しておいたので、ゆっくり座れます。
+  指定席[していせき]を 予約[よやく]しておいたので、ゆっくり 座[すわ]れます。
+  Ich habe einen Sitzplatz reserviert, also können wir uns gemütlich hinsetzen.
+
+  この学校では制服が指定されている。
+  この 学校[がっこう]では 制服[せいふく]が 指定[してい]されている。
+  An dieser Schule ist eine Schuluniform vorgeschrieben.
+
+  政府は災害時の避難場所を指定した。
+  政府[せいふ]は 災害時[さいがいじ]の 避難場所[ひなんばしょ]を 指定[してい]した。
+  Die Regierung hat Evakuierungsorte für den Katastrophenfall festgelegt.
+
+  指定銀行での振込みをお願いします。
+  指定[してい] 銀行[ぎんこう]での 振込[ふりこ]みをお 願[ねが]いします。
+  Bitte überweisen Sie das Geld an die angegebene Bank.
+
+  この本は学校の指定図書リストに載っている。
+  この 本[ほん]は 学校[がっこう]の 指定[してい] 図書[としょ]リストに 載[の]っている。
+  Dieses Buch steht auf der Pflichtlektüreliste der Schule.
+
+  彼女は指定の時間に遅れてしまった。
+  彼女[かのじょ]は 指定[してい]の 時間[じかん]に 遅[おく]れてしまった。
+  Sie hat die festgelegte Zeit verpasst.
+
+  会社は従業員の制服を指定している。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 制服[せいふく]を 指定[してい]している。
+  Das Unternehmen schreibt Uniformen für die Mitarbeiter vor.
+
+  この資格試験では指定の参考書を使用することが許可されている。
+  この 資格試験[しかくしけん]では 指定[してい]の 参考書[さんこうしょ]を 使用[しよう]することが 許可[きょか]されている。
+  Bei dieser Qualifikationsprüfung ist die Verwendung der angegebenen Referenzbücher erlaubt.
+
+  政令指定都市は特別な権限を持っている。
+  政令[せいれい] 指定[してい] 都市[とし]は 特別[とくべつ]な 権限[けんげん]を 持[も]っている。
+  Vom Kabinett bestimmte Städte haben besondere Befugnisse.
+
+  「四人とも同じ靴を履いてるんですね。学校指定のものですか」
+  「 四人[よにん]とも 同[おな]じ 靴[くつ]を 履[は]いてるんですね。 学校[がっこう] 指定[してい]のものですか」
+  "Alle vier tragen die gleichen Schuhe. Sind die von der Schule vorgeschrieben?"
+
+  空路指定により、飛行機の経路が変更された。
+  空路[くうろ] 指定[してい]により、 飛行機[ひこうき]の 経路[けいろ]が 変更[へんこう]された。
+  Aufgrund der Flugstreckenführung wurde die Route des Flugzeugs geändert.
+
+  この病院では面会時間が厳しく指定されている。
+  この 病院[びょういん]では 面会時間[めんかいじかん]が 厳[きび]しく 指定[してい]されている。
+  In diesem Krankenhaus sind die Besuchszeiten streng festgelegt.
+
+  プロジェクトの期限を指定する必要がある。
+  プロジェクトの 期限[きげん]を 指定[してい]する 必要[ひつよう]がある。
+  Es ist notwendig, eine Frist für das Projekt festzulegen.
+
+  彼は会議の日程を指定する権限を持っている。
+  彼[かれ]は 会議[かいぎ]の 日程[にってい]を 指定[してい]する 権限[けんげん]を 持[も]っている。
+  Er hat die Befugnis, den Termin für die Besprechung festzulegen.
+
+  この契約書には支払い方法が指定されている。
+  この 契約書[けいやくしょ]には 支払[しはら]い 方法[ほうほう]が 指定[してい]されている。
+  In diesem Vertrag ist die Zahlungsmethode festgelegt.
+
+  新しいシステムでは、ユーザーが好みの設定を指定できる。
+  新[あたら]しいシステムでは、ユーザーが 好[この]みの 設定[せってい]を 指定[してい]できる。
+  Im neuen System können Benutzer ihre bevorzugten Einstellungen festlegen.
+
+  たしかに、依頼人に指定され、許可を与えられた区域だけが、ぼくらの猟場なのである。
+  たしかに、 依頼人[いらいにん]に 指定[してい]され、 許可[きょか]を 与[あた]えられた 区域[くいき]だけが、ぼくらの 猟場[りょうば]なのである。
+  In der Tat ist nur das vom Klienten bestimmte und genehmigte Gebiet unser Jagdrevier.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

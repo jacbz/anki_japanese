@@ -2,7 +2,7 @@ Rang: 1314
 Lemma: 現場
 Lesung: げんば
 Alternativschreibweisen: ''
-Definition: Ort des Geschehens, Einsatzort
+Definition: Tatort; Unfallstelle; Schauplatz; Baustelle
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
@@ -16,7 +16,87 @@ Konjugation: ''
 Beispielsätze: |-
   自動車事故の現場を見てしまった。
   自動車事故[じどうしゃじこ]の 現場[げんば]を 見[み]てしまった。
-  Ich habe zufällig den Ort des Geschehens eines Autounfalls gesehen.
+  Ich habe die Unfallstelle des Autounfalls gesehen.
+
+  警察は現場で指紋を採取した。
+  警察[けいさつ]は 現場[げんば]で 指紋[しもん]を 採取[さいしゅ]した。
+  Die Polizei hat am Tatort Fingerabdrücke sichergestellt.
+
+  建設現場での安全対策について話し合いましょう。
+  建設現場[けんせつげんば]での 安全対策[あんぜんたいさく]について 話[はな]し 合[あ]いましょう。
+  Lassen Sie uns über Sicherheitsmaßnahmen auf der Baustelle sprechen.
+
+  記者は事件現場から直接報道している。
+  記者[きしゃ]は 事件現場[じけんげんば]から 直接[ちょくせつ] 報道[ほうどう]している。
+  Der Reporter berichtet live vom Tatort.
+
+  現場監督として、作業の進捗を管理しています。
+  現場監督[げんばかんとく]として、作業[さぎょう]の 進捗[しんちょく]を 管理[かんり]しています。
+  Als Baustellenleiter überwache ich den Fortschritt der Arbeiten.
+
+  警察は現場検証を行い、証拠を収集した。
+  警察[けいさつ]は 現場検証[げんばけんしょう]を 行[おこな]い、証拠[しょうこ]を 収集[しゅうしゅう]した。
+  Die Polizei führte eine Tatortuntersuchung durch und sammelte Beweise.
+
+  新入社員は現場研修を受けている。
+  新入社員[しんにゅうしゃいん]は 現場研修[げんばけんしゅう]を 受[う]けている。
+  Die neuen Mitarbeiter erhalten eine praktische Ausbildung am Arbeitsplatz.
+
+  ジャーナリストは現場取材のため、紛争地帯に向かった。
+  ジャーナリストは 現場取材[げんばしゅざい]のため、紛争地帯[ふんそうちたい]に 向[む]かった。
+  Der Journalist begab sich in das Konfliktgebiet, um vor Ort zu recherchieren.
+
+  発掘現場で貴重な遺物が発見された。
+  発掘現場[はっくつげんば]で 貴重[きちょう]な 遺物[いぶつ]が 発見[はっけん]された。
+  An der Ausgrabungsstelle wurden wertvolle Artefakte entdeckt.
+
+  火災現場には消防車が何台も到着していた。
+  火災現場[かさいげんば]には 消防車[しょうぼうしゃ]が 何台[なんだい]も 到着[とうちゃく]していた。
+  Am Brandort waren mehrere Feuerwehrwagen eingetroffen.
+
+  教育現場の声を聞くことは重要だ。
+  教育現場[きょういくげんば]の 声[こえ]を 聞[き]くことは 重要[じゅうよう]だ。
+  Es ist wichtig, auf die Stimmen aus der Bildungspraxis zu hören.
+
+  遭難現場への救助隊の到着が遅れている。
+  遭難現場[そうなんげんば]への 救助隊[きゅうじょたい]の 到着[とうちゃく]が 遅[おく]れている。
+  Das Eintreffen des Rettungsteams am Unglücksort verzögert sich.
+
+  泥棒は現場で逮捕された。
+  泥棒[どろぼう]は 現場[げんば]で 逮捕[たいほ]された。
+  Der Dieb wurde am Tatort verhaftet.
+
+  目撃者が事故現場に居合わせた。
+  目撃者[もくげきしゃ]が 事故現場[じこげんば]に 居合[いあ]わせた。
+  Ein Augenzeuge war zufällig am Unfallort anwesend.
+
+  専門家が現場に行って状況を確認した。
+  専門家[せんもんか]が 現場[げんば]に 行[い]って 状況[じょうきょう]を 確認[かくにん]した。
+  Ein Experte ging vor Ort, um die Situation zu überprüfen.
+
+  犯人は現場に指紋を残してしまった。
+  犯人[はんにん]は 現場[げんば]に 指紋[しもん]を 残[のこ]してしまった。
+  Der Täter hinterließ Fingerabdrücke am Tatort.
+
+  現場の声を聞くため、工場を訪問しました。
+  現場[げんば]の 声[こえ]を 聞[き]くため、工場[こうじょう]を 訪問[ほうもん]しました。
+  Um die Stimmen aus der Praxis zu hören, besuchte ich die Fabrik.
+
+  彼女は現場の教師として日々奮闘している。
+  彼女[かのじょ]は 現場[げんば]の 教師[きょうし]として 日々[ひび] 奮闘[ふんとう]している。
+  Sie kämpft täglich als Lehrerin an der Front.
+
+  私は事件の現場を目撃してしまった。
+  私[わたし]は 事件[じけん]の 現場[げんば]を 目撃[もくげき]してしまった。
+  Ich wurde ungewollt Augenzeuge des Vorfalls.
+
+  現場から離れると、仕事の実態が分からなくなる。
+  現場[げんば]から 離[はな]れると、仕事[しごと]の 実態[じったい]が 分[わ]からなくなる。
+  Wenn man sich von der Praxis entfernt, verliert man das Verständnis für die Realität der Arbeit.
+
+  事件の現場には足跡がいくつか残っていました。
+  事件[じけん]の 現場[げんば]には 足跡[あしあと]がいくつか 残[のこ]っていました。
+  Am Tatort fanden sich mehrere Fußspuren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

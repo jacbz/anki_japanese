@@ -1,8 +1,8 @@
 Rang: 1294
 Lemma: 痛み
 Lesung: いたみ
-Alternativschreibweisen: ''
-Definition: Schmerz
+Alternativschreibweisen: 傷み
+Definition: Schmerz; Beschädigung
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^\
@@ -16,11 +16,97 @@ Konjugation: ''
 Beispielsätze: |-
   これは痛みを和らげるための薬です。
   これは 痛[いた]みを 和[やわ]らげるための 薬[くすり]です。
-  Dies ist ein Medikament zur Linderung von Schmerzen.
+  Dies ist ein Medikament zur Schmerzlinderung.
+
+  激しい痛みで顔をしかめました。
+  激[はげ]しい 痛[いた]みで 顔[かお]をしかめました。
+  Ich verzog das Gesicht vor heftigen Schmerzen.
+
+  腰の痛みで唸っています。
+  腰[こし]の 痛[いた]みで 唸[うな]っています。
+  Ich stöhne vor Rückenschmerzen.
+
+  突然、頭に鋭い痛みが走りました。
+  突然[とつぜん]、頭[あたま]に 鋭[するど]い 痛[いた]みが 走[はし]りました。
+  Plötzlich schoss ein stechender Schmerz durch meinen Kopf.
+
+  痛みがひどくて眠れません。
+  痛[いた]みがひどくて 眠[ねむ]れません。
+  Die Schmerzen sind so stark, dass ich nicht schlafen kann.
+
+  時間とともに痛みが増していきます。
+  時間[じかん]とともに 痛[いた]みが 増[ま]していきます。
+  Mit der Zeit nehmen die Schmerzen zu.
+
+  やっと痛みが止まって安心しました。
+  やっと 痛[いた]みが 止[と]まって 安心[あんしん]しました。
+  Endlich haben die Schmerzen aufgehört und ich bin erleichtert.
+
+  温湿布をすると痛みが弱まります。
+  温湿布[おんしっぷ]をすると 痛[いた]みが 弱[よわ]まります。
+  Wenn ich eine warme Kompresse auflege, lässt der Schmerz nach.
+
+  歯に鋭い痛みを感じています。
+  歯[は]に 鋭[するど]い 痛[いた]みを 感[かん]じています。
+  Ich spüre einen scharfen Schmerz in meinem Zahn.
+
+  彼は痛みを堪えて黙々と仕事を続けた。
+  彼[かれ]は 痛[いた]みを 堪[こら]えて 黙々[もくもく]と 仕事[しごと]を 続[つづ]けた。
+  Er ertrug den Schmerz und setzte seine Arbeit stillschweigend fort.
+
+  医者は患者の痛みを除くために手術を勧めた。
+  医者[いしゃ]は 患者[かんじゃ]の 痛[いた]みを 除[のぞ]くために 手術[しゅじゅつ]を 勧[すす]めた。
+  Der Arzt empfahl eine Operation, um die Schmerzen des Patienten zu beseitigen.
+
+  運動後に筋肉の痛みを覚えるのは普通です。
+  運動後[うんどうご]に 筋肉[きんにく]の 痛[いた]みを 覚[おぼ]えるのは 普通[ふつう]です。
+  Es ist normal, nach dem Training Muskelschmerzen zu verspüren.
+
+  看護師が患者の痛みを鎮めるために薬を投与した。
+  看護師[かんごし]が 患者[かんじゃ]の 痛[いた]みを 鎮[しず]めるために 薬[くすり]を 投与[とうよ]した。
+  Die Krankenschwester verabreichte dem Patienten ein Medikament, um die Schmerzen zu lindern.
+
+  痛みを止める方法を教えてください。
+  痛[いた]みを 止[と]める 方法[ほうほう]を 教[おし]えてください。
+  Bitte sagen Sie mir, wie ich die Schmerzen stoppen kann.
+
+  彼女は常に痛みを訴えていますが、原因がわかりません。
+  彼女[かのじょ]は 常[つね]に 痛[いた]みを 訴[うった]えていますが、原因[げんいん]がわかりません。
+  Sie klagt ständig über Schmerzen, aber wir können die Ursache nicht finden.
+
+  ちくちくする痛みが足の裏に感じられます。
+  ちくちくする 痛[いた]みが 足[あし]の 裏[うら]に 感[かん]じられます。
+  Ich spüre einen stechenden Schmerz unter meinen Füßen.
+
+  耳の痛みが酷くて、耳鼻科に行くことにしました。
+  耳[みみ]の 痛[いた]みが 酷[ひど]くて、耳鼻科[じびか]に 行[い]くことにしました。
+  Die Ohrenschmerzen waren so schlimm, dass ich beschloss, zum HNO-Arzt zu gehen.
+
+  彼は躰をよじらせる痛みを、決して身動きしないで耐える努力をした。
+  彼[かれ]は 躰[からだ]をよじらせる 痛[いた]みを、決[けっ]して 身動[みうご]きしないで 耐[た]える 努力[どりょく]をした。
+  Er bemühte sich, den Schmerz, der seinen Körper verkrümmte, zu ertragen, ohne sich zu bewegen.
+
+  翌朝になって、腹の痛みも御蔭でとれて有難い。
+  翌朝[よくあさ]になって、腹[はら]の 痛[いた]みも 御蔭[おかげ]でとれて 有難[ありがた]い。
+  Am nächsten Morgen war ich dankbar, dass die Bauchschmerzen dank der Behandlung verschwunden waren.
+
+  この果物は痛みが目立つので、早めに食べましょう。
+  この 果物[くだもの]は 痛[いた]みが 目立[めだ]つので、早[はや]めに 食[た]べましょう。
+  Diese Früchte haben sichtbare Druckstellen, also sollten wir sie bald essen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>痛み kann sowohl körperliche als auch seelische Schmerzen bezeichnen. Es wird auch für Beschädigungen oder Verschleiß verwendet.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 心[こころ]の 痛[いた]みを 抱[かか]えていた。</div>
+    <div class="de spoiler">Er trug seelischen Schmerz in sich.</div>
+  </div>
+  <p>Bei Lebensmitteln kann 痛み (oft als 傷み geschrieben) das Verderben oder Faulen bezeichnen.</p>
+  <div class="examples">
+    <div class="jp">この 野菜[やさい]は 痛[いた]みが 早[はや]いので、冷蔵庫[れいぞうこ]に 入[い]れておこう。</div>
+    <div class="de spoiler">Dieses Gemüse verdirbt schnell, also lasst es uns in den Kühlschrank legen.</div>
+  </div>

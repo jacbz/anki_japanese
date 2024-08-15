@@ -2,13 +2,13 @@ Rang: 1355
 Lemma: エネルギー
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Energie, Kraft
+Definition: Energie
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\...
 Register: ''
 Dispersion: '94'
-Ursprung: ''
+Ursprung: dt. Energie
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,7 +16,79 @@ Konjugation: ''
 Beispielsätze: |-
   エネルギーに関する問題を解決するためには何が必要だろうか。
   エネルギーに 関[かん]する 問題[もんだい]を 解決[かいけつ]するためには 何[なに]が 必要[ひつよう]だろうか。
-  Was muss getan werden, um die Energieprobleme zu lösen?
+  Was brauchen wir, um Energieprobleme zu lösen?
+
+  再生可能エネルギーの利用を促進する政策が必要です。
+  再生[さいせい]可能[かのう]エネルギーの 利用[りよう]を 促進[そくしん]する 政策[せいさく]が 必要[ひつよう]です。
+  Wir benötigen Maßnahmen zur Förderung erneuerbarer Energien.
+
+  このプロジェクトはエネルギー効率の改善を目指しています。
+  このプロジェクトはエネルギー 効率[こうりつ]の 改善[かいぜん]を 目指[めざ]しています。
+  Dieses Projekt zielt auf die Verbesserung der Energieeffizienz ab.
+
+  エネルギー危機に備えて、省エネ対策を講じる必要がある。
+  エネルギー 危機[きき]に 備[そな]えて、省[しょう]エネ 対策[たいさく]を 講[こう]じる 必要[ひつよう]がある。
+  Wir müssen Energiesparmaßnahmen ergreifen, um uns auf eine mögliche Energiekrise vorzubereiten.
+
+  新しいエネルギー源の開発に多くの資金が投入されている。
+  新[あたら]しいエネルギー 源[げん]の 開発[かいはつ]に 多[おお]くの 資金[しきん]が 投入[とうにゅう]されている。
+  Viele Mittel werden in die Entwicklung neuer Energiequellen investiert.
+
+  エネルギー消費量を削減するために、省エネ家電の使用を推奨しています。
+  エネルギー 消費[しょうひ]量[りょう]を 削減[さくげん]するために、省[しょう]エネ 家電[かでん]の 使用[しよう]を 推奨[すいしょう]しています。
+  Wir empfehlen die Verwendung energieeffizienter Haushaltsgeräte, um den Energieverbrauch zu reduzieren.
+
+  太陽エネルギーを利用した発電システムが注目されています。
+  太陽[たいよう]エネルギーを 利用[りよう]した 発電[はつでん]システムが 注目[ちゅうもく]されています。
+  Stromerzeugungssysteme, die Sonnenenergie nutzen, gewinnen an Aufmerksamkeit.
+
+  エネルギーの無駄遣いを防ぐために、こまめに電源を切ることが大切です。
+  エネルギーの 無駄遣[むだづか]いを 防[ふせ]ぐために、こまめに 電源[でんげん]を 切[き]ることが 大切[たいせつ]です。
+  Um Energieverschwendung zu vermeiden, ist es wichtig, Geräte konsequent auszuschalten.
+
+  化石エネルギーから再生可能エネルギーへの移行が進んでいる。
+  化石[かせき]エネルギーから 再生[さいせい]可能[かのう]エネルギーへの 移行[いこう]が 進[すす]んでいる。
+  Der Übergang von fossilen zu erneuerbaren Energien schreitet voran.
+
+  エネルギー供給の安定化は国の重要な課題だ。
+  エネルギー 供給[きょうきゅう]の 安定[あんてい]化[か]は 国[くに]の 重要[じゅうよう]な 課題[かだい]だ。
+  Die Stabilisierung der Energieversorgung ist eine wichtige Aufgabe für das Land.
+
+  エネルギー管理システムを導入することで、効率的な利用が可能になる。
+  エネルギー 管理[かんり]システムを 導入[どうにゅう]することで、効率的[こうりつてき]な 利用[りよう]が 可能[かのう]になる。
+  Durch die Einführung eines Energiemanagementsystems wird eine effiziente Nutzung möglich.
+
+  エネルギーの流れを最適化することで、システム全体の効率が向上する。
+  エネルギーの 流[なが]れを 最適[さいてき]化[か]することで、システム 全体[ぜんたい]の 効率[こうりつ]が 向上[こうじょう]する。
+  Durch die Optimierung des Energieflusses wird die Effizienz des gesamten Systems verbessert.
+
+  運動のエネルギーを電気エネルギーに変換する技術が開発されている。
+  運動[うんどう]のエネルギーを 電気[でんき]エネルギーに 変換[へんかん]する 技術[ぎじゅつ]が 開発[かいはつ]されている。
+  Es werden Technologien entwickelt, die kinetische Energie in elektrische Energie umwandeln.
+
+  エネルギーの栄養成分表示は、食品選びの際の参考になります。
+  エネルギーの 栄養[えいよう]成分[せいぶん]表示[ひょうじ]は、食品[しょくひん]選[えら]びの 際[さい]の 参考[さんこう]になります。
+  Die Angabe des Energiegehalts in der Nährwerttabelle ist hilfreich bei der Auswahl von Lebensmitteln.
+
+  彼女は常にエネルギーに満ち溢れている人だ。
+  彼女[かのじょ]は 常[つね]にエネルギーに 満[み]ち 溢[あふ]れている 人[ひと]だ。
+  Sie ist eine Person, die immer voller Energie ist.
+
+  新しいプロジェクトにエネルギーを注ぐことで、大きな成果を上げた。
+  新[あたら]しいプロジェクトにエネルギーを 注[そそ]ぐことで、大[おお]きな 成果[せいか]を 上[あ]げた。
+  Durch das Investieren von Energie in das neue Projekt wurden große Erfolge erzielt.
+
+  朝食をしっかり取ることで、一日中エネルギーを維持できます。
+  朝食[ちょうしょく]をしっかり 取[と]ることで、一日中[いちにちじゅう]エネルギーを 維持[いじ]できます。
+  Durch ein ordentliches Frühstück können Sie den ganzen Tag über Ihre Energie aufrechterhalten.
+
+  エネルギー資源の効率的な利用は、持続可能な社会の鍵となる。
+  エネルギー 資源[しげん]の 効率的[こうりつてき]な 利用[りよう]は、持続[じぞく]可能[かのう]な 社会[しゃかい]の 鍵[かぎ]となる。
+  Die effiziente Nutzung von Energieressourcen ist der Schlüssel zu einer nachhaltigen Gesellschaft.
+
+  新エネルギー技術の開発に多くのエンジニアが携わっている。
+  新[しん]エネルギー 技術[ぎじゅつ]の 開発[かいはつ]に 多[おお]くのエンジニアが 携[たずさ]わっている。
+  Viele Ingenieure sind an der Entwicklung neuer Energietechnologien beteiligt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -8,15 +8,91 @@ Wortart: n
 Lesung mit Tonhöhe: \...
 Register: ''
 Dispersion: '94'
-Ursprung: ''
+Ursprung: engl. member
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   クラブにはメンバーが100人以上います。
-  クラブにはメンバーが 100人[ひゃくにん] 以上[いじょう]います。
-  Es gibt mehr als hundert Mitglieder im Club.
+  クラブには メンバーが100人[にんいじょう] います。
+  Unser Club hat über 100 Mitglieder.
+
+  メンバーリストを更新する必要があります。
+  メンバーリストを 更新[こうしん]する 必要[ひつよう]があります。
+  Wir müssen die Mitgliederliste aktualisieren.
+
+  新しいバンドメンバーを探しているんだ。
+  新[あたら]しいバンドメンバーを 探[さが]しているんだ。
+  Ich suche nach einem neuen Bandmitglied.
+
+  ボードメンバーとして彼女の経験は貴重です。
+  ボードメンバーとして 彼女[かのじょ]の 経験[けいけん]は 貴重[きちょう]です。
+  Ihre Erfahrung als Vorstandsmitglied ist wertvoll.
+
+  フルメンバーになるには1年間の試用期間があります。
+  フルメンバーになるには1年間[ねんかん]の 試用期間[しようきかん]があります。
+  Es gibt eine einjährige Probezeit, bevor man Vollmitglied wird.
+
+  チームにメンバーが足りないので、新しく募集します。
+  チームにメンバーが 足[た]りないので、新[あたら]しく 募集[ぼしゅう]します。
+  Da wir nicht genug Teammitglieder haben, werden wir neue rekrutieren.
+
+  この団体のメンバーになりたいんですが、どうすればいいですか？
+  この 団体[だんたい]のメンバーになりたいんですが、どうすればいいですか？
+  Ich möchte Mitglied dieser Organisation werden. Wie kann ich das machen?
+
+  正規のメンバーは毎月の会費を支払う必要があります。
+  正規[せいき]のメンバーは 毎月[まいつき]の 会費[かいひ]を 支払[しはら]う 必要[ひつよう]があります。
+  Reguläre Mitglieder müssen monatliche Beiträge zahlen.
+
+  メンバー全員で会議を行います。
+  メンバー 全員[ぜんいん]で 会議[かいぎ]を 行[おこな]います。
+  Wir werden eine Versammlung mit allen Mitgliedern abhalten.
+
+  彼はチームの中心的なメンバーだ。
+  彼[かれ]はチームの 中心的[ちゅうしんてき]なメンバーだ。
+  Er ist ein zentrales Mitglied des Teams.
+
+  メンバー間のコミュニケーションを改善する必要がある。
+  メンバー 間[かん]のコミュニケーションを 改善[かいぜん]する 必要[ひつよう]がある。
+  Wir müssen die Kommunikation zwischen den Mitgliedern verbessern.
+
+  新メンバーの歓迎会を開催します。
+  新[しん]メンバーの 歓迎会[かんげいかい]を 開催[かいさい]します。
+  Wir veranstalten eine Willkommensfeier für die neuen Mitglieder.
+
+  メンバーカードを提示すると、割引が受けられます。
+  メンバーカードを 提示[ていじ]すると、割引[わりびき]が 受[う]けられます。
+  Wenn Sie Ihre Mitgliedskarte vorzeigen, erhalten Sie einen Rabatt.
+
+  プロジェクトのメンバーを慎重に選ぶ必要があります。
+  プロジェクトのメンバーを 慎重[しんちょう]に 選[えら]ぶ 必要[ひつよう]があります。
+  Wir müssen die Projektmitglieder sorgfältig auswählen.
+
+  メンバーの意見を尊重することが大切だ。
+  メンバーの 意見[いけん]を 尊重[そんちょう]することが 大切[たいせつ]だ。
+  Es ist wichtig, die Meinungen der Mitglieder zu respektieren.
+
+  メンバーシップの更新時期が近づいています。
+  メンバーシップの 更新時期[こうしんじき]が 近[ちか]づいています。
+  Die Zeit für die Erneuerung der Mitgliedschaft rückt näher.
+
+  メンバー限定のイベントを計画しています。
+  メンバー 限定[げんてい]のイベントを 計画[けいかく]しています。
+  Wir planen eine Veranstaltung, die nur für Mitglieder zugänglich ist.
+
+  彼女は長年のメンバーとして尊敬されている。
+  彼女[かのじょ]は 長年[ながねん]のメンバーとして 尊敬[そんけい]されている。
+  Sie wird als langjähriges Mitglied respektiert.
+
+  メンバーの多様性がチームの強みです。
+  メンバーの 多様性[たようせい]がチームの 強[つよ]みです。
+  Die Vielfalt unserer Mitglieder ist die Stärke des Teams.
+
+  メンバーシップの特典について説明します。
+  メンバーシップの 特典[とくてん]について 説明[せつめい]します。
+  Ich werde die Vorteile der Mitgliedschaft erklären.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,25 +2,127 @@ Rang: 1217
 Lemma: 通じる
 Lesung: つうじる
 Alternativschreibweisen: ''
-Definition: führen; kommunizieren, verstehen
+Definition: (ver)binden; verstanden werden
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '92'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 通じない・通じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   駅へ通じる道はいつも混雑している。
   駅[えき]へ 通[つう]じる 道[みち]はいつも 混雑[こんざつ]している。
-  Die Straße, die zum Bahnhof führt, ist immer überfüllt.
+  Die zum Bahnhof führende Straße ist immer überfüllt.
+
+  この扉は庭に通じています。
+  この 扉[とびら]は 庭[にわ]に 通[つう]じています。
+  Diese Tür führt in den Garten.
+
+  電話が通じないので、携帯で連絡します。
+  電話[でんわ]が 通[つう]じないので、携帯[けいたい]で 連絡[れんらく]します。
+  Da ich keine Telefonverbindung bekomme, werde ich per Handy Kontakt aufnehmen.
+
+  この地域はまだ電気が通じていない。
+  この 地域[ちいき]はまだ 電気[でんき]が 通[つう]じていない。
+  In dieser Region gibt es noch keinen Stromanschluss.
+
+  彼の英語は上手で、ネイティブにもよく通じる。
+  彼[かれ]の 英語[えいご]は 上手[じょうず]で、ネイティブにもよく 通[つう]じる。
+  Sein Englisch ist so gut, dass selbst Muttersprachler ihn gut verstehen.
+
+  私の祈りが神に通じたような気がする。
+  私[わたし]の 祈[いの]りが 神[かみ]に 通[つう]じたような 気[き]がする。
+  Ich habe das Gefühl, dass mein Gebet Gott erreicht hat.
+
+  彼は冗談が通じない人だ。
+  彼[かれ]は 冗談[じょうだん]が 通[つう]じない 人[ひと]だ。
+  Er ist jemand, der keinen Spaß versteht.
+
+  その国では、私の言葉が全く通じなかった。
+  その 国[くに]では、私[わたし]の 言葉[ことば]が 全[まった]く 通[つう]じなかった。
+  In diesem Land wurde meine Sprache überhaupt nicht verstanden.
+
+  彼の主張は世間に通じなかった。
+  彼[かれ]の 主張[しゅちょう]は 世間[せけん]に 通[つう]じなかった。
+  Seine Behauptung wurde von der Öffentlichkeit nicht akzeptiert.
+
+  私たちは同じ悩みを通じて親友になった。
+  私[わたし]たちは 同[おな]じ 悩[なや]みを 通[つう]じて 親友[しんゆう]になった。
+  Wir wurden durch den gleichen Kummer zu engen Freunden.
+
+  彼女は文学によく通じている。
+  彼女[かのじょ]は 文学[ぶんがく]によく 通[つう]じている。
+  Sie kennt sich in der Literatur gut aus.
+
+  上司は部下の気持ちに通じていない。
+  上司[じょうし]は 部下[ぶか]の 気持[きも]ちに 通[つう]じていない。
+  Der Vorgesetzte versteht die Gefühle seiner Untergebenen nicht.
+
+  彼らは敵と通じていると疑われた。
+  彼[かれ]らは 敵[てき]と 通[つう]じていると 疑[うたが]われた。
+  Sie wurden verdächtigt, mit dem Feind in Verbindung zu stehen.
+
+  新しい道路を通じて、交通渋滞が緩和された。
+  新[あたら]しい 道路[どうろ]を 通[つう]じて、交通渋滞[こうつうじゅうたい]が 緩和[かんわ]された。
+  Durch die neue Straße wurde der Verkehrsstau entlastet.
+
+  彼は意志を通じるのが上手だ。
+  彼[かれ]は 意志[いし]を 通[つう]じるのが 上手[じょうず]だ。
+  Er ist gut darin, seinen Willen zu vermitteln.
+
+  私たちは長年にわたって友好関係を通じてきた。
+  私[わたし]たちは 長年[ながねん]にわたって 友好関係[ゆうこうかんけい]を 通[つう]じてきた。
+  Wir haben über viele Jahre hinweg freundschaftliche Beziehungen gepflegt.
+
+  一年を通じて、この地域の気候は穏やかだ。
+  一年[いちねん]を 通[つう]じて、この 地域[ちいき]の 気候[きこう]は 穏[おだ]やかだ。
+  Das Klima in dieser Region ist das ganze Jahr über mild.
+
+  マイクを通じて、彼の声が会場中に響いた。
+  マイクを 通[つう]じて、彼[かれ]の 声[こえ]が 会場中[かいじょうじゅう]に 響[ひび]いた。
+  Seine Stimme hallte durch das Mikrofon im ganzen Saal wider.
+
+  外交ルートを通じて、両国間の対話が再開された。
+  外交[がいこう]ルートを 通[つう]じて、両国間[りょうこくかん]の 対話[たいわ]が 再開[さいかい]された。
+  Über diplomatische Kanäle wurde der Dialog zwischen beiden Ländern wieder aufgenommen.
+
+  仕事を通じて、多くの人々と知り合うことができた。
+  仕事[しごと]を 通[つう]じて、多[おお]くの 人々[ひとびと]と 知[し]り 合[あ]うことができた。
+  Durch die Arbeit konnte ich viele Menschen kennenlernen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">通じる</span> (tsūjiru) hat mehrere Bedeutungen:</p>
+  <p>1. Verbinden oder führen:</p>
+  <div class="examples">
+    <div class="jp">この 道[みち]は 駅[えき]に 通[つう]じる。</div>
+    <div class="de spoiler">Dieser Weg führt zum Bahnhof.</div>
+  </div>
+  <p>2. Verstanden werden oder verständlich sein:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 説明[せつめい]は 全[まった]く 通[つう]じなかった。</div>
+    <div class="de spoiler">Seine Erklärung wurde überhaupt nicht verstanden.</div>
+  </div>
+  <p>3. In etwas bewandert sein oder sich auskennen:</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 日本文化[にほんぶんか]に 通[つう]じている。</div>
+    <div class="de spoiler">Sie kennt sich in der japanischen Kultur gut aus.</div>
+  </div>
+  <p>4. Eine Verbindung oder Beziehung haben:</p>
+  <div class="examples">
+    <div class="jp">両社[りょうしゃ]は 業務提携[ぎょうむていけい]を 通[つう]じて 協力[きょうりょく]している。</div>
+    <div class="de spoiler">Beide Unternehmen kooperieren durch eine Geschäftspartnerschaft.</div>
+  </div>
+  <p>5. Als Postposition (を通じて) bedeutet es "durch" oder "über":</p>
+  <div class="examples">
+    <div class="jp">インターネットを 通[つう]じて 情報[じょうほう]を 得[え]る。</div>
+    <div class="de spoiler">Informationen über das Internet erhalten.</div>
+  </div>

@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この薬を一日二回飲んでください。
-  この 薬[くすり]を一 日[にち]二 回[かい] 飲[の]んでください。
-  Du solltest diese Medizin zweimal am Tag einnehmen.
+  この 薬[くすり]を 一日[いちにち] 二回[にかい] 飲[の]んでください。
+  Bitte nehmen Sie dieses Medikament zweimal täglich ein.
+
+  私は週に二回ジムに通っています。
+  私[わたし]は 週[しゅう]に 二回[にかい]ジムに 通[かよ]っています。
+  Ich gehe zweimal pro Woche ins Fitnessstudio.
+
+  二回目の面接で合格しました。
+  二回目[にかいめ]の 面接[めんせつ]で 合格[ごうかく]しました。
+  Ich habe beim zweiten Vorstellungsgespräch bestanden.
+
+  年二回の大型セールが楽しみです。
+  年[ねん] 二回[にかい]の 大型[おおがた]セールが 楽[たの]しみです。
+  Ich freue mich auf die zweimal jährlich stattfindenden großen Schlussverkäufe.
+
+  この雑誌は月二回発行されています。
+  この 雑誌[ざっし]は 月[つき] 二回[にかい] 発行[はっこう]されています。
+  Diese Zeitschrift erscheint zweimal im Monat.
+
+  彼は週二回授業を受けることになった。
+  彼[かれ]は 週[しゅう] 二回[にかい] 授業[じゅぎょう]を 受[う]けることになった。
+  Er sollte nun zweimal pro Woche Unterricht erhalten.
+
+  二回抽出法で統計データを収集しました。
+  二回[にかい] 抽出法[ちゅうしゅつほう]で 統計[とうけい]データを 収集[しゅうしゅう]しました。
+  Wir haben statistische Daten mit der Methode der zweifachen Stichprobenentnahme gesammelt.
+
+  このプロセスでは二回抜き取り検査を実施します。
+  このプロセスでは 二回[にかい] 抜[ぬ]き 取[と]り 検査[けんさ]を 実施[じっし]します。
+  Bei diesem Prozess führen wir eine doppelte Stichprobenprüfung durch.
+
+  彼は二回目のチャンスで成功しました。
+  彼[かれ]は 二回目[にかいめ]のチャンスで 成功[せいこう]しました。
+  Er hatte beim zweiten Versuch Erfolg.
+
+  二回軸を使用して分子構造を分析しました。
+  二回[にかい] 軸[じく]を 使用[しよう]して 分子構造[ぶんしこうぞう]を 分析[ぶんせき]しました。
+  Wir haben die Molekülstruktur unter Verwendung einer zweifachen Rotationsachse analysiert.
+
+  野球の試合は二回で終了しました。
+  野球[やきゅう]の 試合[しあい]は 二回[にかい]で 終了[しゅうりょう]しました。
+  Das Baseballspiel endete nach dem zweiten Inning.
+
+  この料理は二回蒸すとより美味しくなります。
+  この 料理[りょうり]は 二回[にかい] 蒸[む]すとより 美味[おい]しくなります。
+  Dieses Gericht wird noch leckerer, wenn man es zweimal dämpft.
+
+  二回目の警告を受けたら、退場となります。
+  二回目[にかいめ]の 警告[けいこく]を 受[う]けたら、退場[たいじょう]となります。
+  Wenn du die zweite Verwarnung erhältst, wirst du des Feldes verwiesen.
+
+  この実験は精度を高めるために二回繰り返しました。
+  この 実験[じっけん]は 精度[せいど]を 高[たか]めるために 二回[にかい] 繰[く]り 返[かえ]しました。
+  Wir haben dieses Experiment zweimal wiederholt, um die Genauigkeit zu erhöhen.
+
+  彼女は二回目の挑戦で試験に合格しました。
+  彼女[かのじょ]は 二回目[にかいめ]の 挑戦[ちょうせん]で 試験[しけん]に 合格[ごうかく]しました。
+  Sie hat die Prüfung beim zweiten Versuch bestanden.
+
+  二回目のデートで、お互いの趣味について話しました。
+  二回目[にかいめ]のデートで、お 互[たが]いの 趣味[しゅみ]について 話[はな]しました。
+  Beim zweiten Date sprachen wir über unsere gegenseitigen Hobbys.
+
+  この映画を二回見て、やっと内容を理解できました。
+  この 映画[えいが]を 二回[にかい] 見[み]て、やっと 内容[ないよう]を 理解[りかい]できました。
+  Erst nachdem ich den Film zweimal gesehen hatte, konnte ich den Inhalt verstehen.
+
+  彼は二回目の告白で彼女の心を射止めました。
+  彼[かれ]は 二回目[にかいめ]の 告白[こくはく]で 彼女[かのじょ]の 心[こころ]を 射止[いと]めました。
+  Er gewann ihr Herz mit seiner zweiten Liebeserklärung.
+
+  二回目の引っ越しで、やっと理想の家を見つけました。
+  二回目[にかいめ]の 引[ひ]っ 越[こ]しで、やっと 理想[りそう]の 家[いえ]を 見[み]つけました。
+  Beim zweiten Umzug haben wir endlich unser Traumhaus gefunden.
+
+  この商品は二回洗濯しても色落ちしません。
+  この 商品[しょうひん]は 二回[にかい] 洗濯[せんたく]しても 色落[いろお]ちしません。
+  Dieses Produkt verliert seine Farbe auch nach zweimaligem Waschen nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

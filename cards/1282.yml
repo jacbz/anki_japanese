@@ -9,14 +9,94 @@ Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '94'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 助けない・助けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   売り上げの一部は難民を助けるために使われます。
-  売[う]り 上[あ]げの 一部[いちぶ]は 難民[なんみん]を 助[たす]けるために 使[つか]われます。
-  Ein Teil unseres Umsatzes wird verwendet, um Flüchtlingen zu helfen.
+  売[う]り 上[あ]げの一部[いちぶ]は 難民[なんみん]を 助[たす]けるために 使[つか]われます。
+  Ein Teil des Umsatzes wird zur Unterstützung von Flüchtlingen verwendet.
+
+  隣人を助けてあげることは大切です。
+  隣人[りんじん]を 助[たす]けてあげることは 大切[たいせつ]です。
+  Es ist wichtig, seinen Nachbarn zu helfen.
+
+  人に助けてもらうことを恥ずかしがらないでください。
+  人[ひと]に 助[たす]けてもらうことを 恥[は]ずかしがらないでください。
+  Schämen Sie sich nicht, von anderen Hilfe anzunehmen.
+
+  失業者を助ける政策が必要です。
+  失業者[しつぎょうしゃ]を 助[たす]ける 政策[せいさく]が 必要[ひつよう]です。
+  Wir brauchen Maßnahmen zur Unterstützung von Arbeitslosen.
+
+  彼は命を助けられて本当に感謝しています。
+  彼[かれ]は 命[いのち]を 助[たす]けられて 本当[ほんとう]に 感謝[かんしゃ]しています。
+  Er ist wirklich dankbar, dass sein Leben gerettet wurde.
+
+  溺れている子供を助けるために川に飛び込みました。
+  溺[おぼ]れている 子供[こども]を 助[たす]けるために 川[かわ]に 飛[と]び 込[こ]みました。
+  Ich sprang in den Fluss, um das ertrinkende Kind zu retten.
+
+  危ないところを助けてくれてありがとう。
+  危[あぶ]ないところを 助[たす]けてくれてありがとう。
+  Danke, dass du mir in dieser gefährlichen Situation geholfen hast.
+
+  「助けて！」と叫んだ声が聞こえました。
+  「助[たす]けて！」と 叫[さけ]んだ 声[こえ]が 聞[き]こえました。
+  Ich hörte jemanden "Hilfe!" rufen.
+
+  友人を助けるために、みんなで力を合わせましょう。
+  友人[ゆうじん]を 助[たす]けるために、みんなで 力[ちから]を 合[あ]わせましょう。
+  Lasst uns alle zusammenarbeiten, um unserem Freund zu helfen.
+
+  誰も私を助けてくれなかったので、自力で問題を解決しました。
+  誰[だれ]も 私[わたし]を 助[たす]けてくれなかったので、自力[じりき]で 問題[もんだい]を 解決[かいけつ]しました。
+  Da mir niemand half, löste ich das Problem aus eigener Kraft.
+
+  医者は人の命を助けるのが役目だと信じています。
+  医者[いしゃ]は 人[ひと]の 命[いのち]を 助[たす]けるのが 役目[やくめ]だと 信[しん]じています。
+  Ärzte glauben, dass es ihre Aufgabe ist, Menschenleben zu retten.
+
+  家事を助けてくれる人を探しています。
+  家事[かじ]を 助[たす]けてくれる 人[ひと]を 探[さが]しています。
+  Ich suche jemanden, der mir im Haushalt hilft.
+
+  彼女の研究を助けるために、データ収集を手伝いました。
+  彼女[かのじょ]の 研究[けんきゅう]を 助[たす]けるために、データ 収集[しゅうしゅう]を 手伝[てつだ]いました。
+  Um ihre Forschung zu unterstützen, half ich bei der Datensammlung.
+
+  逃亡者を助けることは違法行為です。
+  逃亡者[とうぼうしゃ]を 助[たす]けることは 違法行為[いほうこうい]です。
+  Einem Flüchtigen zu helfen, ist eine illegale Handlung.
+
+  荷物を運ぶのを助けてもらって助かりました。
+  荷物[にもつ]を 運[はこ]ぶのを 助[たす]けてもらって 助[たす]かりました。
+  Ich war froh, dass mir jemand beim Tragen der Taschen geholfen hat.
+
+  老人がバスに乗るのを助けるのは良い行いです。
+  老人[ろうじん]がバスに 乗[の]るのを 助[たす]けるのは 良[よ]い 行[おこな]いです。
+  Älteren Menschen beim Einsteigen in den Bus zu helfen, ist eine gute Tat.
+
+  家計を助けるためにアルバイトを始めました。
+  家計[かけい]を 助[たす]けるためにアルバイトを 始[はじ]めました。
+  Ich habe einen Nebenjob angefangen, um zum Familieneinkommen beizutragen.
+
+  友達に3万円ほど助けてあげました。
+  友達[ともだち]に3万円[まんえん]ほど 助[たす]けてあげました。
+  Ich half meinem Freund mit etwa 30.000 Yen aus.
+
+  想像力を助ける本をたくさん読んでいます。
+  想像力[そうぞうりょく]を 助[たす]ける 本[ほん]をたくさん 読[よ]んでいます。
+  Ich lese viele Bücher, die meine Fantasie anregen.
+
+  この薬は消化を助ける効果があります。
+  この 薬[くすり]は 消化[しょうか]を 助[たす]ける 効果[こうか]があります。
+  Dieses Medikament hat eine verdauungsfördernde Wirkung.
+
+  図式が構造の理解を助けてくれるでしょう。
+  図式[ずしき]が 構造[こうぞう]の 理解[りかい]を 助[たす]けてくれるでしょう。
+  Ein Diagramm wird helfen, die Struktur besser zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,21 +2,97 @@ Rang: 1323
 Lemma: 伝わる
 Lesung: つたわる
 Alternativschreibweisen: ''
-Definition: sich verbreiten, absteigen, reisen
+Definition: sich übertragen; sich verbreiten
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 伝わらない・伝わった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女の死のニュースはすぐに国中に伝わった。
-  彼女[かのじょ]の 死[し]のニュースはすぐに 国[くに] 中[ちゅう]に 伝[つた]わった。
-  Die Nachricht von ihrem Tod verbreitete sich sofort im ganzen Land.
+  彼女[かのじょ]の 死[し]のニュースはすぐに 国中[くにじゅう]に 伝[つた]わった。
+  Die Nachricht von ihrem Tod verbreitete sich schnell im ganzen Land.
+
+  振動が建物全体に伝わっている。
+  振動[しんどう]が 建物[たてもの] 全体[ぜんたい]に 伝[つた]わっている。
+  Die Schwingungen übertragen sich auf das gesamte Gebäude.
+
+  彼の気持ちが私にはよく伝わりました。
+  彼[かれ]の 気持[きも]ちが 私[わたし]にはよく 伝[つた]わりました。
+  Seine Gefühle haben sich mir gut vermittelt.
+
+  噂はあっという間に学校中に伝わった。
+  噂[うわさ]はあっという 間[ま]に 学校中[がっこうじゅう]に 伝[つた]わった。
+  Das Gerücht verbreitete sich im Nu in der ganzen Schule.
+
+  この伝統は何世紀にもわたって伝わってきた。
+  この 伝統[でんとう]は 何世紀[なんせいき]にもわたって 伝[つた]わってきた。
+  Diese Tradition wurde über Jahrhunderte hinweg überliefert.
+
+  彼女の悲しみが声を通して伝わってきた。
+  彼女[かのじょ]の 悲[かな]しみが 声[こえ]を 通[とお]して 伝[つた]わってきた。
+  Ihre Traurigkeit vermittelte sich durch ihre Stimme.
+
+  地震の揺れが遠く離れた場所まで伝わった。
+  地震[じしん]の 揺[ゆ]れが 遠[とお]く 離[はな]れた 場所[ばしょ]まで 伝[つた]わった。
+  Die Erschütterungen des Erdbebens übertrugen sich bis zu weit entfernten Orten.
+
+  その技術は師匠から弟子へと伝わっていった。
+  その 技術[ぎじゅつ]は 師匠[ししょう]から 弟子[でし]へと 伝[つた]わっていった。
+  Diese Technik wurde vom Meister an den Schüler weitergegeben.
+
+  彼の言葉の真意が聴衆に伝わらなかった。
+  彼[かれ]の 言葉[ことば]の 真意[しんい]が 聴衆[ちょうしゅう]に 伝[つた]わらなかった。
+  Die wahre Bedeutung seiner Worte wurde vom Publikum nicht verstanden.
+
+  この曲の美しさが聴く人の心に伝わる。
+  この 曲[きょく]の 美[うつく]しさが 聴[き]く 人[ひと]の 心[こころ]に 伝[つた]わる。
+  Die Schönheit dieses Stücks vermittelt sich dem Herzen des Zuhörers.
+
+  その情報は口コミで急速に伝わった。
+  その 情報[じょうほう]は 口コミ[くちこみ]で 急速[きゅうそく]に 伝[つた]わった。
+  Diese Information verbreitete sich schnell durch Mundpropaganda.
+
+  彼の熱意が観客に伝わり、会場が沸いた。
+  彼[かれ]の 熱意[ねつい]が 観客[かんきゃく]に 伝[つた]わり、会場[かいじょう]が 沸[わ]いた。
+  Seine Begeisterung übertrug sich auf das Publikum, und der Saal brodelte.
+
+  この習慣は古くから日本に伝わっている。
+  この 習慣[しゅうかん]は 古[ふる]くから 日本[にほん]に 伝[つた]わっている。
+  Dieser Brauch ist seit alters her in Japan überliefert.
+
+  彼女の笑顔が周りの人々に幸せを伝わらせた。
+  彼女[かのじょ]の 笑顔[えがお]が 周[まわ]りの 人々[ひとびと]に 幸[しあわ]せを 伝[つた]わらせた。
+  Ihr Lächeln übertrug Glück auf die Menschen um sie herum.
+
+  その遺跡の発見のニュースは世界中に伝わった。
+  その 遺跡[いせき]の 発見[はっけん]のニュースは 世界中[せかいじゅう]に 伝[つた]わった。
+  Die Nachricht von der Entdeckung dieser Ruinen verbreitete sich in der ganzen Welt.
+
+  彼の作品の魅力が多くの読者に伝わっている。
+  彼[かれ]の 作品[さくひん]の 魅力[みりょく]が 多[おお]くの 読者[どくしゃ]に 伝[つた]わっている。
+  Der Charme seiner Werke vermittelt sich vielen Lesern.
+
+  その伝説は何世代にもわたって口伝えで伝わってきた。
+  その 伝説[でんせつ]は 何世代[なんせだい]にもわたって 口伝[くちづた]えで 伝[つた]わってきた。
+  Diese Legende wurde über Generationen hinweg mündlich überliefert.
+
+  彼の不安が声のトーンを通して伝わってきた。
+  彼[かれ]の 不安[ふあん]が 声[こえ]のトーンを 通[とお]して 伝[つた]わってきた。
+  Seine Besorgnis übertrug sich durch den Ton seiner Stimme.
+
+  その技術は西洋から日本に伝わった。
+  その 技術[ぎじゅつ]は 西洋[せいよう]から 日本[にほん]に 伝[つた]わった。
+  Diese Technologie wurde vom Westen nach Japan eingeführt.
+
+  彼女の気持ちが手紙を通して私に伝わってきた。
+  彼女[かのじょ]の 気持[きも]ちが 手紙[てがみ]を 通[とお]して 私[わたし]に 伝[つた]わってきた。
+  Ihre Gefühle vermittelten sich mir durch den Brief.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

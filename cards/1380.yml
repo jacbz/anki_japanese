@@ -2,7 +2,7 @@ Rang: 1380
 Lemma: 小説
 Lesung: しょうせつ
 Alternativschreibweisen: ''
-Definition: Roman, Fiktion, Geschichte
+Definition: Roman
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: ..^^^
@@ -15,8 +15,92 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は家で一日中小説を読んでいた。
-  私[わたし]は 家[いえ]で一 日[にち] 中小[ちゅうしょう] 説[せつ]を 読[よ]んでいた。
+  私[わたし]は 家[いえ]で 一日中[いちにちじゅう] 小説[しょうせつ]を 読[よ]んでいた。
   Ich habe den ganzen Tag zu Hause Romane gelesen.
+
+  この小説の映画化が楽しみです。
+  この 小説[しょうせつ]の 映画化[えいがか]が 楽[たの]しみです。
+  Ich freue mich auf die Verfilmung dieses Romans.
+
+  彼女は有名な小説家になる夢を持っている。
+  彼女[かのじょ]は 有名[ゆうめい]な 小説家[しょうせつか]になる 夢[ゆめ]を 持[も]っている。
+  Sie träumt davon, eine berühmte Romanautorin zu werden.
+
+  この物語を小説形式で書き直すつもりだ。
+  この 物語[ものがたり]を 小説形式[しょうせつけいしき]で 書[か]き 直[なお]すつもりだ。
+  Ich habe vor, diese Geschichte in Romanform umzuschreiben.
+
+  冒険小説が好きな人は多いですね。
+  冒険小説[ぼうけんしょうせつ]が 好[す]きな 人[ひと]は 多[おお]いですね。
+  Es gibt viele Leute, die Abenteuerromane mögen, nicht wahr?
+
+  彼の長編小説は昨年のベストセラーだった。
+  彼[かれ]の 長編小説[ちょうへんしょうせつ]は 昨年[さくねん]のベストセラーだった。
+  Sein Roman war im letzten Jahr ein Bestseller.
+
+  この中編小説は読みやすくて面白いよ。
+  この 中編小説[ちゅうへんしょうせつ]は 読[よ]みやすくて 面白[おもしろ]いよ。
+  Diese Novelle ist leicht zu lesen und interessant.
+
+  伝記小説を通じて、その歴史上の人物をよく知ることができた。
+  伝記小説[でんきしょうせつ]を 通[とお]じて、その 歴史上[れきしじょう]の 人物[じんぶつ]をよく 知[し]ることができた。
+  Durch den biografischen Roman konnte ich diese historische Persönlichkeit gut kennenlernen.
+
+  空想科学小説の世界に魅了されています。
+  空想科学小説[くうそうかがくしょうせつ]の 世界[せかい]に 魅了[みりょう]されています。
+  Ich bin von der Welt der Science-Fiction-Romane fasziniert.
+
+  この教養小説は若者の成長を描いている。
+  この 教養小説[きょうようしょうせつ]は 若者[わかもの]の 成長[せいちょう]を 描[えが]いている。
+  Dieser Bildungsroman beschreibt das Heranwachsen eines jungen Menschen.
+
+  歴史小説を通じて、その時代の雰囲気を感じ取ることができる。
+  歴史小説[れきししょうせつ]を 通[とお]じて、その 時代[じだい]の 雰囲気[ふんいき]を 感[かん]じ 取[と]ることができる。
+  Durch historische Romane kann man die Atmosphäre dieser Zeit spüren.
+
+  恋愛小説は若い女性に人気がある。
+  恋愛小説[れんあいしょうせつ]は 若[わか]い 女性[じょせい]に 人気[にんき]がある。
+  Liebesromane sind bei jungen Frauen beliebt.
+
+  この連載小説は毎週楽しみにしている。
+  この 連載小説[れんさいしょうせつ]は 毎週[まいしゅう] 楽[たの]しみにしている。
+  Ich freue mich jede Woche auf diesen Fortsetzungsroman.
+
+  三文小説は安いが、質は良くないことが多い。
+  三文小説[さんもんしょうせつ]は 安[やす]いが、質[しつ]は 良[よ]くないことが 多[おお]い。
+  Groschenromane sind zwar billig, aber oft von schlechter Qualität.
+
+  推理小説を読むのが趣味です。
+  推理小説[すいりしょうせつ]を 読[よ]むのが 趣味[しゅみ]です。
+  Mein Hobby ist es, Kriminalromane zu lesen.
+
+  短編小説集を電車の中で読んでいます。
+  短編小説集[たんぺんしょうせつしゅう]を 電車[でんしゃ]の 中[なか]で 読[よ]んでいます。
+  Ich lese eine Sammlung von Kurzgeschichten im Zug.
+
+  彼女の人生は小説になるほど波乱万丈だった。
+  彼女[かのじょ]の 人生[じんせい]は 小説[しょうせつ]になるほど 波乱万丈[はらんばんじょう]だった。
+  Ihr Leben war so turbulent, dass man daraus einen Roman machen könnte.
+
+  小説の読者層を分析して、マーケティング戦略を立てた。
+  小説[しょうせつ]の 読者層[どくしゃそう]を 分析[ぶんせき]して、マーケティング 戦略[せんりゃく]を 立[た]てた。
+  Wir haben die Leserschaft des Romans analysiert und eine Marketingstrategie entwickelt.
+
+  小説を読むことで、想像力が豊かになると思います。
+  小説[しょうせつ]を 読[よ]むことで、想像力[そうぞうりょく]が 豊[ゆた]かになると 思[おも]います。
+  Ich denke, dass das Lesen von Romanen die Vorstellungskraft bereichert.
+
+  現実は小説のようにうまくいくものではない。
+  現実[げんじつ]は 小説[しょうせつ]のようにうまくいくものではない。
+  In der Realität geht es nicht so glatt wie in einem Roman.
+
+  文章を書くことは、とくに小説を書くことは、僕の性格に合っていると思う。
+  文章[ぶんしょう]を 書[か]くことは、とくに 小説[しょうせつ]を 書[か]くことは、僕[ぼく]の 性格[せいかく]に 合[あ]っていると 思[おも]う。
+  Ich denke, dass das Schreiben, insbesondere von Romanen, meiner Persönlichkeit entspricht.
+
+  この小説家が残した作品は簡単に列挙できる。
+  この 小説家[しょうせつか]が 残[のこ]した 作品[さくひん]は 簡単[かんたん]に 列挙[れっきょ]できる。
+  Die Werke, die dieser Romanautor hinterlassen hat, können leicht aufgezählt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

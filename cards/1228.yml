@@ -9,14 +9,90 @@ Lesung mit Tonhöhe: .^^^\
 Register: ↗</>Verwaltungssprache
 Dispersion: '49'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 減少しない・減少した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この町では犯罪が40パーセント減少した。
   この 町[まち]では 犯罪[はんざい]が40パーセント 減少[げんしょう]した。
-  Die Kriminalität hat in dieser Stadt um 40 Prozent abgenommen.
+  In dieser Stadt ist die Kriminalität um 40 Prozent zurückgegangen.
+
+  最近の売上減少に関して会議を開きます。
+  最近[さいきん]の 売上[うりあげ] 減少[げんしょう]に 関[かん]して 会議[かいぎ]を 開[ひら]きます。
+  Wir werden eine Besprechung über den jüngsten Umsatzrückgang abhalten.
+
+  人口減少が地方経済に与える影響は深刻だ。
+  人口[じんこう] 減少[げんしょう]が 地方[ちほう] 経済[けいざい]に 与[あた]える 影響[えいきょう]は 深刻[しんこく]だ。
+  Die Auswirkungen des Bevölkerungsrückgangs auf die lokale Wirtschaft sind ernst.
+
+  環境保護活動により、CO2排出量が減少しています。
+  環境[かんきょう] 保護[ほご] 活動[かつどう]により、CO2 排出量[はいしゅつりょう]が 減少[げんしょう]しています。
+  Durch Umweltschutzaktivitäten nimmt die CO2-Emission ab.
+
+  交通事故死者数の減少傾向が続いています。
+  交通[こうつう] 事故[じこ] 死者[ししゃ] 数[すう]の 減少[げんしょう] 傾向[けいこう]が 続[つづ]いています。
+  Der rückläufige Trend bei der Zahl der Verkehrstoten hält an.
+
+  予算の減少により、プロジェクトの規模を縮小せざるを得ない。
+  予算[よさん]の 減少[げんしょう]により、プロジェクトの 規模[きぼ]を 縮小[しゅくしょう]せざるを 得[え]ない。
+  Aufgrund der Budgetkürzungen müssen wir den Umfang des Projekts reduzieren.
+
+  少子化に伴い、学生数が年々減少している。
+  少子化[しょうしか]に 伴[ともな]い、学生[がくせい] 数[すう]が 年々[ねんねん] 減少[げんしょう]している。
+  Mit dem Geburtenrückgang nimmt die Zahl der Studenten von Jahr zu Jahr ab.
+
+  このアプリの利用者数が急激に減少している。
+  このアプリの 利用者[りようしゃ] 数[すう]が 急激[きゅうげき]に 減少[げんしょう]している。
+  Die Zahl der Nutzer dieser App nimmt rapide ab.
+
+  失業率の減少は経済回復の兆しだ。
+  失業率[しつぎょうりつ]の 減少[げんしょう]は 経済[けいざい] 回復[かいふく]の 兆[きざ]しだ。
+  Der Rückgang der Arbeitslosigkeit ist ein Zeichen für die wirtschaftliche Erholung.
+
+  森林面積の減少が生態系に悪影響を及ぼしている。
+  森林[しんりん] 面積[めんせき]の 減少[げんしょう]が 生態系[せいたいけい]に 悪影響[あくえいきょう]を 及[およ]ぼしている。
+  Die Abnahme der Waldflächen hat negative Auswirkungen auf das Ökosystem.
+
+  インフルエンザの感染者数が減少傾向にあります。
+  インフルエンザの 感染者[かんせんしゃ] 数[すう]が 減少[げんしょう] 傾向[けいこう]にあります。
+  Die Zahl der Grippefälle zeigt eine rückläufige Tendenz.
+
+  資源の消費を減少させる努力が必要だ。
+  資源[しげん]の 消費[しょうひ]を 減少[げんしょう]させる 努力[どりょく]が 必要[ひつよう]だ。
+  Es sind Anstrengungen erforderlich, um den Ressourcenverbrauch zu reduzieren.
+
+  この会社の株価が3ヶ月連続で減少している。
+  この 会社[かいしゃ]の 株価[かぶか]が3ヶ月[かげつ] 連続[れんぞく]で 減少[げんしょう]している。
+  Der Aktienkurs dieses Unternehmens ist drei Monate in Folge gesunken.
+
+  喫煙者の減少に伴い、タバコの売り上げも下がっている。
+  喫煙者[きつえんしゃ]の 減少[げんしょう]に 伴[ともな]い、タバコの 売[う]り 上[あ]げも 下[さ]がっている。
+  Mit dem Rückgang der Raucher sinken auch die Tabakverkäufe.
+
+  新型コロナウイルスの感染者数が減少し始めた。
+  新型[しんがた]コロナウイルスの 感染者[かんせんしゃ] 数[すう]が 減少[げんしょう]し 始[はじ]めた。
+  Die Zahl der COVID-19-Infektionen hat begonnen zu sinken.
+
+  ストレスの減少により、健康状態が改善した。
+  ストレスの 減少[げんしょう]により、健康[けんこう] 状態[じょうたい]が 改善[かいぜん]した。
+  Durch die Verringerung des Stresses hat sich der Gesundheitszustand verbessert.
+
+  この地域の鳥類の個体数が急速に減少している。
+  この 地域[ちいき]の 鳥類[ちょうるい]の 個体[こたい] 数[すう]が 急速[きゅうそく]に 減少[げんしょう]している。
+  Die Vogelpopulation in dieser Region nimmt rapide ab.
+
+  収入の減少により、生活が苦しくなった。
+  収入[しゅうにゅう]の 減少[げんしょう]により、生活[せいかつ]が 苦[くる]しくなった。
+  Aufgrund des Einkommensrückgangs ist das Leben schwieriger geworden.
+
+  この薬を服用すると、痛みが徐々に減少していきます。
+  この 薬[くすり]を 服用[ふくよう]すると、痛[いた]みが 徐々[じょじょ]に 減少[げんしょう]していきます。
+  Wenn Sie dieses Medikament einnehmen, wird der Schmerz allmählich nachlassen.
+
+  企業の投資意欲の減少が経済成長を鈍化させている。
+  企業[きぎょう]の 投資[とうし] 意欲[いよく]の 減少[げんしょう]が 経済[けいざい] 成長[せいちょう]を 鈍化[どんか]させている。
+  Der Rückgang der Investitionsbereitschaft der Unternehmen verlangsamt das Wirtschaftswachstum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

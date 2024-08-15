@@ -2,7 +2,7 @@ Rang: 1272
 Lemma: 一切
 Lesung: いっさい
 Alternativschreibweisen: ''
-Definition: alles, vollständig, überhaupt nicht
+Definition: alles; vollständig
 Extra: '' # Nur bei suru-Verben
 Wortart: n, adv
 Lesung mit Tonhöhe: \...
@@ -18,9 +18,105 @@ Beispielsätze: |-
   いくら 掛[か]かるかは 一切[いっさい] 気[き]にしません。
   Es ist mir völlig egal, wie viel es kosten wird.
 
+  一切の責任を負うつもりです。
+  一切[いっさい]の 責任[せきにん]を 負[お]うつもりです。
+  Ich beabsichtige, die volle Verantwortung zu übernehmen.
+
+  彼女は一切の治療を拒否している。
+  彼女[かのじょ]は 一切[いっさい]の 治療[ちりょう]を 拒否[きょひ]している。
+  Sie lehnt jegliche medizinische Behandlung ab.
+
+  一切の権利を放棄しました。
+  一切[いっさい]の 権利[けんり]を 放棄[ほうき]しました。
+  Ich habe alle Rechte aufgegeben.
+
+  彼は一切の交渉を打ち切った。
+  彼[かれ]は 一切[いっさい]の 交渉[こうしょう]を 打[う]ち 切[き]った。
+  Er hat alle Verhandlungen abgebrochen.
+
+  一切を運に任せるしかない。
+  一切[いっさい]を 運[うん]に 任[まか]せるしかない。
+  Wir können nur alles dem Schicksal überlassen.
+
+  私は一切を白状しました。
+  私[わたし]は 一切[いっさい]を 白状[はくじょう]しました。
+  Ich habe ein vollständiges Geständnis abgelegt.
+
+  彼は一切を取り仕切っている。
+  彼[かれ]は 一切[いっさい]を 取[と]り 仕切[しき]っている。
+  Er hat alles unter Kontrolle.
+
+  一切の関係を絶つことにした。
+  一切[いっさい]の 関係[かんけい]を 絶[た]つことにした。
+  Ich habe beschlossen, alle Beziehungen abzubrechen.
+
+  その料金には一切の費用が含まれています。
+  その 料金[りょうきん]には 一切[いっさい]の 費用[ひよう]が 含[ふく]まれています。
+  Dieser Preis beinhaltet sämtliche Kosten.
+
+  一切のアルコールを控えています。
+  一切[いっさい]のアルコールを 控[ひか]えています。
+  Ich verzichte vollständig auf Alkohol.
+
+  彼女は一切テレビを見ない。
+  彼女[かのじょ]は 一切[いっさい]テレビを 見[み]ない。
+  Sie schaut überhaupt kein Fernsehen.
+
+  私はその件について一切知りません。
+  私[わたし]はその 件[けん]について 一切[いっさい] 知[し]りません。
+  Ich weiß absolut nichts über diese Angelegenheit.
+
+  一切役に立たない助言だ。
+  一切[いっさい] 役[やく]に 立[た]たない 助言[じょげん]だ。
+  Das ist ein völlig nutzloser Rat.
+
+  彼は一切口を利かなかった。
+  彼[かれ]は 一切[いっさい] 口[くち]を 利[き]かなかった。
+  Er sagte kein einziges Wort.
+
+  一切の権限を委任されました。
+  一切[いっさい]の 権限[けんげん]を 委任[いにん]されました。
+  Mir wurde die volle Befugnis übertragen.
+
+  私たちは一切の干渉を拒否する。
+  私[わたし]たちは 一切[いっさい]の 干渉[かんしょう]を 拒否[きょひ]する。
+  Wir lehnen jegliche Einmischung ab.
+
+  一切の例外を認めない方針です。
+  一切[いっさい]の 例外[れいがい]を 認[みと]めない 方針[ほうしん]です。
+  Es ist unsere Politik, keinerlei Ausnahmen zuzulassen.
+
+  その問題に一切関与していません。
+  その 問題[もんだい]に 一切[いっさい] 関与[かんよ]していません。
+  Ich bin in keiner Weise in diese Angelegenheit involviert.
+
+  彼女は一切の説明を拒んだ。
+  彼女[かのじょ]は 一切[いっさい]の 説明[せつめい]を 拒[こば]んだ。
+  Sie weigerte sich, irgendwelche Erklärungen abzugeben.
+
+  一切の責任はこちらにあります。
+  一切[いっさい]の 責任[せきにん]はこちらにあります。
+  Die gesamte Verantwortung liegt bei uns.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">一切</span> kann als Nomen oder Adverb verwendet werden.</p>
+  <p>Als Nomen bedeutet es "alles, das Ganze, die Gesamtheit":</p>
+  <div class="examples">
+    <div class="jp">一切[いっさい]を 任[まか]せる</div>
+    <div class="de spoiler">Alles überlassen</div>
+  </div>
+  <p>Als Adverb bedeutet es "gänzlich, vollständig, ausnahmslos":</p>
+  <div class="examples">
+    <div class="jp">一切[いっさい] 知[し]らない</div>
+    <div class="de spoiler">Überhaupt nichts wissen</div>
+  </div>
+  <p>Mit Verneinung bedeutet es "absolut nicht, gar nicht":</p>
+  <div class="examples">
+    <div class="jp">一切[いっさい]テレビを 見[み]ない</div>
+    <div class="de spoiler">Überhaupt kein Fernsehen schauen</div>
+  </div>

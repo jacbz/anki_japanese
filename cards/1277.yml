@@ -2,7 +2,7 @@ Rang: 1277
 Lemma: 事情
 Lesung: じじょう
 Alternativschreibweisen: ''
-Definition: Umstände, Situation, Grund
+Definition: Umstände, Situation
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^^
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   事情があって仕事をやめなければならなかった。
   事情[じじょう]があって 仕事[しごと]をやめなければならなかった。
-  Ich musste meinen Job aufgrund von Umständen aufgeben.
+  Aufgrund der Umstände musste ich meinen Job kündigen.
+
+  家庭の事情で会議に参加できません。
+  家庭[かてい]の 事情[じじょう]で 会議[かいぎ]に 参加[さんか]できません。
+  Aus familiären Gründen kann ich nicht an der Besprechung teilnehmen.
+
+  事情に応じて対応を変えていく必要があります。
+  事情[じじょう]に 応[おう]じて 対応[たいおう]を 変[か]えていく 必要[ひつよう]があります。
+  Es ist notwendig, die Vorgehensweise je nach den Umständen anzupassen.
+
+  彼女は会社の内部事情に詳しい。
+  彼女[かのじょ]は 会社[かいしゃ]の 内部[ないぶ]事情[じじょう]に 詳[くわ]しい。
+  Sie kennt sich gut mit den internen Angelegenheiten des Unternehmens aus.
+
+  事情の許す限り、できるだけ早く返事をします。
+  事情[じじょう]の 許[ゆる]す 限[かぎ]り、できるだけ 早[はや]く 返事[へんじ]をします。
+  Ich werde so schnell wie möglich antworten, soweit es die Umstände erlauben.
+
+  どんな事情があっても、約束は守るべきだ。
+  どんな 事情[じじょう]があっても、約束[やくそく]は 守[まも]るべきだ。
+  Unabhängig von den Umständen sollte man Versprechen einhalten.
+
+  経済的事情により、プロジェクトの規模を縮小せざるを得ない。
+  経済的[けいざいてき]事情[じじょう]により、プロジェクトの 規模[きぼ]を 縮小[しゅくしょう]せざるを 得[え]ない。
+  Aufgrund der wirtschaftlichen Lage müssen wir den Umfang des Projekts reduzieren.
+
+  事情通の彼に相談すれば、良いアドバイスがもらえるだろう。
+  事情通[じじょうつう]の 彼[かれ]に 相談[そうだん]すれば、良[よ]いアドバイスがもらえるだろう。
+  Wenn du ihn um Rat fragst, der sich gut auskennt, wirst du wahrscheinlich gute Ratschläge bekommen.
+
+  警察は事件の詳しい事情を聴取している。
+  警察[けいさつ]は 事件[じけん]の 詳[くわ]しい 事情[じじょう]を 聴取[ちょうしゅ]している。
+  Die Polizei nimmt die genauen Umstände des Vorfalls auf.
+
+  こういう事情では、計画の変更はやむを得ない。
+  こういう 事情[じじょう]では、計画[けいかく]の 変更[へんこう]はやむを 得[え]ない。
+  Unter diesen Umständen ist eine Änderung des Plans unvermeidlich.
+
+  現在の交通事情を考慮して、出発時間を早めましょう。
+  現在[げんざい]の 交通[こうつう]事情[じじょう]を 考慮[こうりょ]して、出発[しゅっぱつ]時間[じかん]を 早[はや]めましょう。
+  Lasst uns die Abfahrtszeit vorverlegen, unter Berücksichtigung der aktuellen Verkehrslage.
+
+  事情を知らない人には、この決定は不可解に見えるかもしれない。
+  事情[じじょう]を 知[し]らない 人[ひと]には、この 決定[けってい]は 不可解[ふかかい]に 見[み]えるかもしれない。
+  Für jemanden, der die Umstände nicht kennt, mag diese Entscheidung unverständlich erscheinen.
+
+  台所事情が厳しくて、外食を控えています。
+  台所[だいどころ]事情[じじょう]が 厳[きび]しくて、外食[がいしょく]を 控[ひか]えています。
+  Aufgrund der angespannten finanziellen Situation vermeide ich es, auswärts zu essen.
+
+  住宅事情の悪化により、家賃が高騰している。
+  住宅[じゅうたく]事情[じじょう]の 悪化[あっか]により、家賃[やちん]が 高騰[こうとう]している。
+  Aufgrund der sich verschlechternden Wohnsituation steigen die Mieten.
+
+  個人的な事情で遅刻してしまい、申し訳ありません。
+  個人的[こじんてき]な 事情[じじょう]で 遅刻[ちこく]してしまい、申し訳[もうしわけ]ありません。
+  Ich entschuldige mich für meine Verspätung aufgrund persönlicher Umstände.
+
+  事情が許せば、来月の会議に参加したいと思います。
+  事情[じじょう]が 許[ゆる]せば、来月[らいげつ]の 会議[かいぎ]に 参加[さんか]したいと 思[おも]います。
+  Wenn es die Umstände erlauben, würde ich gerne an der Sitzung nächsten Monat teilnehmen.
+
+  裁判官は被告人の事情を酌量して、刑を軽減した。
+  裁判官[さいばんかん]は 被告人[ひこくにん]の 事情[じじょう]を 酌量[しゃくりょう]して、刑[けい]を 軽減[けいげん]した。
+  Der Richter milderte die Strafe unter Berücksichtigung der Umstände des Angeklagten.
+
+  事情を知らされずに、突然の人事異動を命じられた。
+  事情[じじょう]を 知[し]らされずに、突然[とつぜん]の 人事異動[じんじいどう]を 命[めい]じられた。
+  Ohne über die Umstände informiert zu sein, wurde mir plötzlich eine Versetzung befohlen.
+
+  様々な事情を考慮した上で、最終決定を下す必要がある。
+  様々[さまざま]な 事情[じじょう]を 考慮[こうりょ]した 上[うえ]で、最終[さいしゅう]決定[けってい]を 下[くだ]す 必要[ひつよう]がある。
+  Es ist notwendig, die endgültige Entscheidung unter Berücksichtigung verschiedener Umstände zu treffen.
+
+  就職事情の厳しさから、多くの学生が就活に苦戦している。
+  就職[しゅうしょく]事情[じじょう]の 厳[きび]しさから、多[おお]くの 学生[がくせい]が 就活[しゅうかつ]に 苦戦[くせん]している。
+  Aufgrund der schwierigen Arbeitsmarktlage haben viele Studenten Probleme bei der Jobsuche.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

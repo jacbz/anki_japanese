@@ -2,21 +2,97 @@ Rang: 1237
 Lemma: チーム
 Lesung: ''
 Alternativschreibweisen: ''
-Definition: Mannschaft
+Definition: Team, Mannschaft
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
 Register: ''
 Dispersion: '86'
-Ursprung: ''
+Ursprung: engl. team
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私たちはチームとして仕事をした。
-  私[わたし]たちはチームとして 仕事[しごと]をした。
-  Wir haben als Mannschaft zusammengearbeitet.
+  わたしたちは チームとして 仕事[しごと]をした。
+  Wir haben als Team gearbeitet.
+
+  彼はバスケットボールチームのキャプテンです。
+  彼[かれ]はバスケットボールチームのキャプテンです。
+  Er ist der Kapitän der Basketballmannschaft.
+
+  チームゲームは協力する能力を育てる。
+  チームゲームは 協力[きょうりょく]する 能力[のうりょく]を 育[そだ]てる。
+  Mannschaftssportarten fördern die Fähigkeit zur Zusammenarbeit.
+
+  このチームカラーは私たちの団結力を表しています。
+  このチームカラーは 私[わたし]たちの 団結力[だんけつりょく]を 表[あらわ]しています。
+  Diese Mannschaftsfarbe repräsentiert unseren Zusammenhalt.
+
+  チームメートとの信頼関係は大切です。
+  チームメートとの 信頼関係[しんらいかんけい]は 大切[たいせつ]です。
+  Eine vertrauensvolle Beziehung zu den Teamkollegen ist wichtig.
+
+  良いチームプレーが勝利につながる。
+  良[よ]いチームプレーが 勝利[しょうり]につながる。
+  Gutes Zusammenspiel führt zum Sieg.
+
+  毎週水曜日にチーム練習があります。
+  毎週[まいしゅう] 水曜日[すいようび]にチーム 練習[れんしゅう]があります。
+  Jeden Mittwoch findet das Mannschaftstraining statt.
+
+  チームスピリットを高めるために合宿を行った。
+  チームスピリットを 高[たか]めるために 合宿[がっしゅく]を 行[おこな]った。
+  Wir haben ein Trainingslager durchgeführt, um den Teamgeist zu stärken.
+
+  この学校ではチームティーチングを導入しています。
+  この 学校[がっこう]ではチームティーチングを 導入[どうにゅう]しています。
+  Diese Schule führt Team-Teaching ein.
+
+  プロジェクトの成功にはチームワークが不可欠だ。
+  プロジェクトの 成功[せいこう]にはチームワークが 不可欠[ふかけつ]だ。
+  Teamwork ist unerlässlich für den Erfolg des Projekts.
+
+  ナショナルチームに選ばれることは彼の夢だった。
+  ナショナルチームに 選[えら]ばれることは 彼[かれ]の 夢[ゆめ]だった。
+  In die Nationalmannschaft berufen zu werden, war sein Traum.
+
+  新しいプロジェクトのためにチームを組むことになった。
+  新[あたら]しいプロジェクトのためにチームを 組[く]むことになった。
+  Wir mussten ein Team für das neue Projekt zusammenstellen.
+
+  彼女はチームを率いる優れたリーダーだ。
+  彼女[かのじょ]はチームを 率[ひき]いる 優[すぐ]れたリーダーだ。
+  Sie ist eine ausgezeichnete Führungskraft, die das Team leitet.
+
+  バスケットボールのチームは患者とスタッフで構成されています。
+  バスケットボールのチームは 患者[かんじゃ]とスタッフで 構成[こうせい]されています。
+  Die Basketballmannschaft besteht aus Patienten und Angestellten.
+
+  学校の体育の時間にチームを組んだ時のことを思い出した。
+  学校[がっこう]の 体育[たいいく]の 時間[じかん]にチームを 組[く]んだ 時[とき]のことを 思[おも]い 出[だ]した。
+  Ich erinnerte mich daran, wie wir in der Schule während des Sportunterrichts Mannschaften bildeten.
+
+  チームの目標を達成するために全員が協力した。
+  チームの 目標[もくひょう]を 達成[たっせい]するために 全員[ぜんいん]が 協力[きょうりょく]した。
+  Alle arbeiteten zusammen, um das Teamziel zu erreichen.
+
+  彼はチームの雰囲気を良くするのが上手だ。
+  彼[かれ]はチームの 雰囲気[ふんいき]を 良[よ]くするのが 上手[じょうず]だ。
+  Er ist gut darin, die Stimmung im Team zu verbessern.
+
+  チームの強みと弱みを分析することが重要だ。
+  チームの 強[つよ]みと 弱[よわ]みを 分析[ぶんせき]することが 重要[じゅうよう]だ。
+  Es ist wichtig, die Stärken und Schwächen des Teams zu analysieren.
+
+  このチームは去年のリーグで優勝した。
+  このチームは 去年[きょねん]のリーグで 優勝[ゆうしょう]した。
+  Dieses Team hat letztes Jahr die Liga gewonnen.
+
+  チームのパフォーマンスを向上させるためにコーチを雇った。
+  チームのパフォーマンスを 向上[こうじょう]させるためにコーチを 雇[やと]った。
+  Wir haben einen Trainer eingestellt, um die Leistung des Teams zu verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

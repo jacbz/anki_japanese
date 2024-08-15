@@ -696,7 +696,7 @@ span.rt {
   pointer-events: none;
 }
 
-#sentences span.rt, .examples span.rt {
+#single_sentence span.rt, #sentences span.rt, .examples span.rt {
   opacity: 0;
 }
 

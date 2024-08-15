@@ -1,8 +1,8 @@
 Rang: 1305
 Lemma: 昼
 Lesung: ひる
-Alternativschreibweisen: ''
-Definition: Mittag; Tageszeit
+Alternativschreibweisen: 午
+Definition: Tag; Mittag; Mittagessen
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .\
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   夫は仕事に行っていて昼は家にいません。
   夫[おっと]は 仕事[しごと]に 行[い]っていて 昼[ひる]は 家[いえ]にいません。
-  Mein Mann geht tagsüber arbeiten und ist nicht zu Hause.
+  Mein Mann ist bei der Arbeit und tagsüber nicht zu Hause.
+
+  昼も夜も働いて体調を崩してしまった。
+  昼[ひる]も 夜[よる]も 働[はたら]いて 体調[たいちょう]を 崩[くず]してしまった。
+  Ich habe Tag und Nacht gearbeitet und meine Gesundheit ruiniert.
+
+  昼に散歩するのが日課です。
+  昼[ひる]に 散歩[さんぽ]するのが 日課[にっか]です。
+  Ein Spaziergang am Tag gehört zu meiner täglichen Routine.
+
+  昼休みは1時間あります。
+  昼休[ひるやす]みは1時間[いちじかん]あります。
+  Die Mittagspause beträgt eine Stunde.
+
+  昼頃に会議があるので、午前中に仕事を終わらせたい。
+  昼頃[ひるごろ]に 会議[かいぎ]があるので、午前中[ごぜんちゅう]に 仕事[しごと]を 終[お]わらせたい。
+  Da ich gegen Mittag eine Besprechung habe, möchte ich die Arbeit am Vormittag erledigen.
+
+  昼前に買い物に行きましょう。
+  昼前[ひるまえ]に 買[か]い 物[もの]に 行[い]きましょう。
+  Lass uns vor Mittag einkaufen gehen.
+
+  昼過ぎにお茶でも飲みませんか？
+  昼過[ひるす]ぎにお 茶[ちゃ]でも 飲[の]みませんか？
+  Möchtest du am frühen Nachmittag einen Tee mit mir trinken?
+
+  昼になっても彼女からの連絡はなかった。
+  昼[ひる]になっても 彼女[かのじょ]からの 連絡[れんらく]はなかった。
+  Es wurde Mittag, und ich hatte immer noch keine Nachricht von ihr.
+
+  できれば昼から晩まで彼と一緒にいたいです。
+  できれば 昼[ひる]から 晩[ばん]まで 彼[かれ]と 一緒[いっしょ]にいたいです。
+  Wenn möglich, möchte ich von mittags bis abends mit ihm zusammen sein.
+
+  毎日昼から飲んでいるなんて、体に悪いよ。
+  毎日[まいにち] 昼[ひる]から 飲[の]んでいるなんて、体[からだ]に 悪[わる]いよ。
+  Jeden Tag schon mittags zu trinken anfangen ist schlecht für deinen Körper.
+
+  お昼が出るまで、少し待ってください。
+  お 昼[ひる]が 出[で]るまで、少[すこ]し 待[ま]ってください。
+  Bitte warten Sie einen Moment, bis das Mittagessen serviert wird.
+
+  お昼の支度を手伝ってくれませんか？
+  お 昼[ひる]の 支度[したく]を 手伝[てつだ]ってくれませんか？
+  Könntest du mir bei den Vorbereitungen für das Mittagessen helfen?
+
+  明日のお昼をご馳走させてください。
+  明日[あした]のお 昼[ひる]をご 馳走[ちそう]させてください。
+  Lassen Sie mich Sie morgen zum Mittagessen einladen.
+
+  お昼を食べてから、午後の仕事を始めましょう。
+  お 昼[ひる]を 食[た]べてから、午後[ごご]の 仕事[しごと]を 始[はじ]めましょう。
+  Lasst uns nach dem Mittagessen mit der Nachmittagsarbeit beginnen.
+
+  お昼に何を出せばいいですか？
+  お 昼[ひる]に 何[なに]を 出[だ]せばいいですか？
+  Was soll ich zum Mittagessen servieren?
+
+  昼を欺いて夜に行動するのは、泥棒の常套手段だ。
+  昼[ひる]を 欺[あざむ]いて 夜[よる]に 行動[こうどう]するのは、泥棒[どろぼう]の 常套手段[じょうとうしゅだん]だ。
+  Bei Tageslicht zu täuschen und nachts zu handeln, ist eine typische Taktik von Dieben.
+
+  昼のうちに買い物を済ませておこう。
+  昼[ひる]のうちに 買[か]い 物[もの]を 済[す]ませておこう。
+  Lass uns die Einkäufe tagsüber erledigen.
+
+  昼間は忙しいので、夜に勉強します。
+  昼間[ひるま]は 忙[いそが]しいので、夜[よる]に 勉強[べんきょう]します。
+  Da ich tagsüber beschäftigt bin, lerne ich nachts.
+
+  昼寝をすると頭がすっきりします。
+  昼寝[ひるね]をすると 頭[あたま]がすっきりします。
+  Ein Mittagsschläfchen erfrischt meinen Kopf.
+
+  お昼を抜くと、午後の仕事に集中できません。
+  お 昼[ひる]を 抜[ぬ]くと、午後[ごご]の 仕事[しごと]に 集中[しゅうちゅう]できません。
+  Wenn ich das Mittagessen auslasse, kann ich mich nicht auf die Nachmittagsarbeit konzentrieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

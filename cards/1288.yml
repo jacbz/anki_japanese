@@ -2,25 +2,116 @@ Rang: 1288
 Lemma: 抱える
 Lesung: かかえる
 Alternativschreibweisen: ''
-Definition: halten, tragen, beschäftigen
+Definition: (in den Armen) halten; haben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '97'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 抱えない・抱えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   母親は赤ちゃんを両腕に抱えていた。
-  母親[ははおや]は 赤[あか]ちゃんを 両[りょう] 腕[うで]に 抱[かか]えていた。
-  Die Mutter hielt ihr Baby in ihren Armen.
+  母親[ははおや]は 赤[あか]ちゃんを 両腕[りょううで]に 抱[かか]えていた。
+  Die Mutter hielt das Baby in beiden Armen.
+
+  彼は重い荷物を小脇に抱えて歩いていた。
+  彼[かれ]は 重[おも]い 荷物[にもつ]を 小脇[こわき]に 抱[かか]えて 歩[ある]いていた。
+  Er ging mit einem schweren Gepäckstück unter dem Arm.
+
+  腹を抱えて笑う彼女を見て、私も笑ってしまった。
+  腹[はら]を 抱[かか]えて 笑[わら]う 彼女[かのじょ]を 見[み]て、私[わたし]も 笑[わら]ってしまった。
+  Als ich sie sah, wie sie sich vor Lachen den Bauch hielt, musste ich auch lachen.
+
+  やがて髪の長い女の子が三冊の本を抱えて戻ってきた。
+  やがて 髪[かみ]の 長[なが]い 女[おんな]の 子[こ]が 三冊[さんさつ]の 本[ほん]を 抱[かか]えて 戻[もど]ってきた。
+  Bald darauf kam das langhaarige Mädchen mit drei Büchern im Arm zurück.
+
+  彼は両膝を抱えてハーモニカに聴き惚れていた。
+  彼[かれ]は 両膝[りょうひざ]を 抱[かか]えてハーモニカに 聴[き]き 惚[ほ]れていた。
+  Mit den Armen um die Knie geschlungen, saß er da und lauschte verzaubert dem Spiel der Mundharmonika.
+
+  多くの企業が深刻な借金を抱えている。
+  多[おお]くの 企業[きぎょう]が 深刻[しんこく]な 借金[しゃっきん]を 抱[かか]えている。
+  Viele Unternehmen haben ernsthafte Schulden.
+
+  彼女は難問を抱えているようだ。
+  彼女[かのじょ]は 難問[なんもん]を 抱[かか]えているようだ。
+  Sie scheint ein schwieriges Problem zu haben.
+
+  妊婦さんが大きなおなかを抱えて歩いていた。
+  妊婦[にんぷ]さんが 大[おお]きなおなかを 抱[かか]えて 歩[ある]いていた。
+  Eine schwangere Frau ging mit ihrem dicken Bauch spazieren.
+
+  彼は病人を抱えながら仕事を続けている。
+  彼[かれ]は 病人[びょうにん]を 抱[かか]えながら 仕事[しごと]を 続[つづ]けている。
+  Er arbeitet weiter, während er sich um einen Kranken kümmert.
+
+  わたしの抱える問題は簡単には解決できません。
+  わたしの 抱[かか]える 問題[もんだい]は 簡単[かんたん]には 解決[かいけつ]できません。
+  Das Problem, mit dem ich konfrontiert bin, lässt sich nicht einfach lösen.
+
+  新しい秘書を抱えることにしました。
+  新[あたら]しい 秘書[ひしょ]を 抱[かか]えることにしました。
+  Wir haben beschlossen, eine neue Sekretärin einzustellen.
+
+  彼は大きな夢を抱えて東京に来た。
+  彼[かれ]は 大[おお]きな 夢[ゆめ]を 抱[かか]えて 東京[とうきょう]に 来[き]た。
+  Er kam mit großen Träumen nach Tokio.
+
+  彼女は悩みを抱えたまま黙っていた。
+  彼女[かのじょ]は 悩[なや]みを 抱[かか]えたまま 黙[だま]っていた。
+  Sie schwieg, während sie ihre Sorgen für sich behielt.
+
+  彼は重要な書類を抱えて会議室に向かった。
+  彼[かれ]は 重要[じゅうよう]な 書類[しょるい]を 抱[かか]えて 会議室[かいぎしつ]に 向[む]かった。
+  Er ging mit wichtigen Dokumenten in den Armen zum Konferenzraum.
+
+  会社は多くの従業員を抱えている。
+  会社[かいしゃ]は 多[おお]くの 従業員[じゅうぎょういん]を 抱[かか]えている。
+  Das Unternehmen beschäftigt viele Mitarbeiter.
+
+  彼女は子供を抱えながら仕事を両立させている。
+  彼女[かのじょ]は 子供[こども]を 抱[かか]えながら 仕事[しごと]を 両立[りょうりつ]させている。
+  Sie schafft es, Arbeit und Kinderbetreuung unter einen Hut zu bringen.
+
+  学生たちは重い教科書を抱えて教室に向かった。
+  学生[がくせい]たちは 重[おも]い 教科書[きょうかしょ]を 抱[かか]えて 教室[きょうしつ]に 向[む]かった。
+  Die Studenten gingen mit schweren Lehrbüchern in den Armen zum Klassenzimmer.
+
+  彼は多くの責任を抱えて苦悩している。
+  彼[かれ]は 多[おお]くの 責任[せきにん]を 抱[かか]えて 苦悩[くのう]している。
+  Er leidet unter der Last vieler Verantwortlichkeiten.
+
+  彼女は秘密を抱えたまま生きている。
+  彼女[かのじょ]は 秘密[ひみつ]を 抱[かか]えたまま 生[い]きている。
+  Sie lebt mit einem Geheimnis, das sie für sich behält.
+
+  新入社員は不安を抱えながら仕事を始めた。
+  新入社員[しんにゅうしゃいん]は 不安[ふあん]を 抱[かか]えながら 仕事[しごと]を 始[はじ]めた。
+  Der neue Mitarbeiter begann seine Arbeit, während er Unsicherheiten mit sich trug.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>抱える kann verschiedene Bedeutungen haben, die sich je nach Kontext unterscheiden:</p>
+  <div class="examples">
+    <div class="jp">赤[あか]ちゃんを 抱[かか]える</div>
+    <div class="de spoiler">ein Baby in den Armen halten</div>
+  </div>
+  <p>Es kann auch im übertragenen Sinne verwendet werden, um auszudrücken, dass man etwas hat oder sich um etwas kümmern muss:</p>
+  <div class="examples">
+    <div class="jp">問題[もんだい]を 抱[かか]えている</div>
+    <div class="de spoiler">ein Problem haben</div>
+  </div>
+  <p>In einem geschäftlichen Kontext kann es auch bedeuten, jemanden anzustellen oder zu beschäftigen:</p>
+  <div class="examples">
+    <div class="jp">新[あたら]しい 従業員[じゅうぎょういん]を 抱[かか]える</div>
+    <div class="de spoiler">einen neuen Mitarbeiter einstellen</div>
+  </div>

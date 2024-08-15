@@ -2,21 +2,101 @@ Rang: 1258
 Lemma: 取り上げる
 Lesung: とりあげる
 Alternativschreibweisen: ''
-Definition: aufgreifen, übernehmen; wegnehmen
+Definition: aufgreifen; wegnehmen
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^^^^
 Register: ''
 Dispersion: '95'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 取り上げない・取り上げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その番組ではある話題を取り上げて議論する。
-  その 番組[ばんぐみ]ではある 話題[わだい]を 取[と]り 上[あ]げて 議論[ぎろん]する。
-  Sie greifen ein Thema auf und diskutieren es in der Sendung.
+  その 番組[ばんぐみ]では ある 話題[わだい]を 取[と]り 上[あ]げて 議論[ぎろん]する。
+  In dieser Sendung wird ein bestimmtes Thema aufgegriffen und diskutiert.
+
+  受話器を取り上げると、相手の声が聞こえた。
+  受話器[じゅわき]を 取[と]り 上[あ]げると、相手[あいて]の 声[こえ]が 聞[き]こえた。
+  Als ich den Hörer abnahm, hörte ich die Stimme meines Gesprächspartners.
+
+  コップを取り上げて、一気に水を飲み干した。
+  コップを 取[と]り 上[あ]げて、一気[いっき]に 水[みず]を 飲[の]み 干[ほ]した。
+  Ich nahm das Glas und trank das Wasser in einem Zug aus.
+
+  ウェイターがメニューを持ってきたので、すぐに取り上げて見た。
+  ウェイターがメニューを 持[も]ってきたので、すぐに 取[と]り 上[あ]げて 見[み]た。
+  Als der Kellner die Speisekarte brachte, griff ich sofort danach und schaute sie an.
+
+  この記事では環境問題を取り上げている。
+  この 記事[きじ]では 環境問題[かんきょうもんだい]を 取[と]り 上[あ]げている。
+  Dieser Artikel greift das Thema Umweltprobleme auf.
+
+  会議でもう一点取り上げたい事項があります。
+  会議[かいぎ]でもう 一点[いってん] 取[と]り 上[あ]げたい 事項[じこう]があります。
+  In der Besprechung gibt es noch einen weiteren Punkt, den ich ansprechen möchte.
+
+  その提案は多くの支持を得て取り上げられた。
+  その 提案[ていあん]は 多[おお]くの 支持[しじ]を 得[え]て 取[と]り 上[あ]げられた。
+  Der Vorschlag wurde mit viel Unterstützung angenommen.
+
+  彼の意見は新聞にも取り上げられた。
+  彼[かれ]の 意見[いけん]は 新聞[しんぶん]にも 取[と]り 上[あ]げられた。
+  Seine Meinung wurde sogar in der Zeitung aufgegriffen.
+
+  警察は容疑者から武器を取り上げた。
+  警察[けいさつ]は 容疑者[ようぎしゃ]から 武器[ぶき]を 取[と]り 上[あ]げた。
+  Die Polizei nahm dem Verdächtigen die Waffe ab.
+
+  不正行為により、彼の資格は取り上げられた。
+  不正行為[ふせいこうい]により、彼[かれ]の 資格[しかく]は 取[と]り 上[あ]げられた。
+  Aufgrund von Fehlverhalten wurde ihm die Qualifikation entzogen.
+
+  先生に携帯電話を取り上げられてしまった。
+  先生[せんせい]に 携帯電話[けいたいでんわ]を 取[と]り 上[あ]げられてしまった。
+  Der Lehrer hat mir mein Handy weggenommen.
+
+  彼女の財産は裁判所の命令で取り上げられた。
+  彼女[かのじょ]の 財産[ざいさん]は 裁判所[さいばんしょ]の 命令[めいれい]で 取[と]り 上[あ]げられた。
+  Ihr Vermögen wurde auf Anordnung des Gerichts beschlagnahmt.
+
+  助産師が赤ちゃんを取り上げた。
+  助産師[じょさんし]が 赤[あか]ちゃんを 取[と]り 上[あ]げた。
+  Die Hebamme half dem Baby auf die Welt.
+
+  そのニュース番組は社会問題を積極的に取り上げている。
+  そのニュース 番組[ばんぐみ]は 社会問題[しゃかいもんだい]を 積極的[せっきょくてき]に 取[と]り 上[あ]げている。
+  Diese Nachrichtensendung greift aktiv soziale Themen auf.
+
+  彼の研究成果が学会で取り上げられた。
+  彼[かれ]の 研究成果[けんきゅうせいか]が 学会[がっかい]で 取[と]り 上[あ]げられた。
+  Seine Forschungsergebnisse wurden auf der Fachtagung vorgestellt.
+
+  委員会は市民からの提案を慎重に取り上げて検討した。
+  委員会[いいんかい]は 市民[しみん]からの 提案[ていあん]を 慎重[しんちょう]に 取[と]り 上[あ]げて 検討[けんとう]した。
+  Der Ausschuss griff die Vorschläge der Bürger sorgfältig auf und prüfte sie.
+
+  その政治家の発言が批判的に取り上げられている。
+  その 政治家[せいじか]の 発言[はつげん]が 批判的[ひはんてき]に 取[と]り 上[あ]げられている。
+  Die Äußerungen des Politikers werden kritisch aufgegriffen.
+
+  彼女は重要な証拠を取り上げて、自分の主張を裏付けた。
+  彼女[かのじょ]は 重要[じゅうよう]な 証拠[しょうこ]を 取[と]り 上[あ]げて、自分[じぶん]の 主張[しゅちょう]を 裏付[うらづ]けた。
+  Sie griff wichtige Beweise auf, um ihre Argumentation zu untermauern.
+
+  その雑誌は若者の関心事を積極的に取り上げている。
+  その 雑誌[ざっし]は 若者[わかもの]の 関心事[かんしんごと]を 積極的[せっきょくてき]に 取[と]り 上[あ]げている。
+  Diese Zeitschrift greift aktiv die Interessen junger Menschen auf.
+
+  彼の著書が文学賞の候補作として取り上げられた。
+  彼[かれ]の 著書[ちょしょ]が 文学賞[ぶんがくしょう]の 候補作[こうほさく]として 取[と]り 上[あ]げられた。
+  Sein Buch wurde als Kandidat für einen Literaturpreis nominiert.
+
+  新製品の特徴を取り上げて、プレゼンテーションを行った。
+  新製品[しんせいひん]の 特徴[とくちょう]を 取[と]り 上[あ]げて、プレゼンテーションを 行[おこな]った。
+  Ich hob die Merkmale des neuen Produkts hervor und hielt eine Präsentation.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

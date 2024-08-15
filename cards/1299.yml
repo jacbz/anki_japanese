@@ -2,7 +2,7 @@ Rang: 1299
 Lemma: 能力
 Lesung: のうりょく
 Alternativschreibweisen: ''
-Definition: Fähigkeit, Kapazität, Macht; Kompetenz
+Definition: Fähigkeit
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \....
@@ -16,7 +16,87 @@ Konjugation: ''
 Beispielsätze: |-
   子どもたちは新しい環境に適応する能力が高い。
   子[こ]どもたちは 新[あたら]しい 環境[かんきょう]に 適応[てきおう]する 能力[のうりょく]が 高[たか]い。
-  Kinder haben eine große Kapazität, sich an neue Umgebungen anzupassen.
+  Kinder haben eine hohe Fähigkeit, sich an neue Umgebungen anzupassen.
+
+  彼女は優れた言語能力を持っている。
+  彼女[かのじょ]は 優[すぐ]れた 言語能力[げんごのうりょく]を 持[も]っている。
+  Sie verfügt über hervorragende sprachliche Fähigkeiten.
+
+  能力別クラス編成は賛否両論がある。
+  能力別[のうりょくべつ]クラス 編成[へんせい]は 賛否両論[さんぴりょうろん]がある。
+  Die Einteilung in Leistungsgruppen ist umstritten.
+
+  この会社は能力給制度を導入している。
+  この 会社[かいしゃ]は 能力給[のうりょくきゅう] 制度[せいど]を 導入[どうにゅう]している。
+  Dieses Unternehmen hat ein leistungsbasiertes Bezahlungssystem eingeführt.
+
+  能力主義社会では、個人の才能が重視される。
+  能力主義[のうりょくしゅぎ] 社会[しゃかい]では、個人[こじん]の 才能[さいのう]が 重視[じゅうし]される。
+  In einer Leistungsgesellschaft wird individuelles Talent hoch geschätzt.
+
+  彼の能力低下が心配だ。
+  彼[かれ]の 能力低下[のうりょくていか]が 心配[しんぱい]だ。
+  Ich mache mir Sorgen um das Nachlassen seiner Fähigkeiten.
+
+  日常生活能力の維持は高齢者にとって重要だ。
+  日常生活[にちじょうせいかつ] 能力[のうりょく]の 維持[いじ]は 高齢者[こうれいしゃ]にとって 重要[じゅうよう]だ。
+  Die Erhaltung der Fähigkeit, den Alltag zu bewältigen, ist für ältere Menschen wichtig.
+
+  彼の支払い能力に疑問がある。
+  彼[かれ]の 支払[しはら]い 能力[のうりょく]に 疑問[ぎもん]がある。
+  Es bestehen Zweifel an seiner Zahlungsfähigkeit.
+
+  職業能力の向上は、キャリアアップに不可欠だ。
+  職業能力[しょくぎょうのうりょく]の 向上[こうじょう]は、キャリアアップに 不可欠[ふかけつ]だ。
+  Die Verbesserung der beruflichen Fähigkeiten ist für den Karriereaufstieg unerlässlich.
+
+  それは私の能力以上のことだ。
+  それは 私[わたし]の 能力以上[のうりょくいじょう]のことだ。
+  Das übersteigt meine Fähigkeiten.
+
+  能力に応じて仕事を割り当てる。
+  能力[のうりょく]に 応[おう]じて 仕事[しごと]を 割[わ]り 当[あ]てる。
+  Die Aufgaben werden entsprechend den Fähigkeiten zugeteilt.
+
+  彼は能力のある人だと評価されている。
+  彼[かれ]は 能力[のうりょく]のある 人[ひと]だと 評価[ひょうか]されている。
+  Er wird als fähige Person eingeschätzt.
+
+  この問題を解決する能力がある。
+  この 問題[もんだい]を 解決[かいけつ]する 能力[のうりょく]がある。
+  Ich habe die Fähigkeit, dieses Problem zu lösen.
+
+  能力の限界を超える仕事は避けるべきだ。
+  能力[のうりょく]の 限界[げんかい]を 超[こ]える 仕事[しごと]は 避[さ]けるべきだ。
+  Man sollte Aufgaben vermeiden, die die Grenzen der eigenen Fähigkeiten übersteigen.
+
+  試験で能力を発揮できなかった。
+  試験[しけん]で 能力[のうりょく]を 発揮[はっき]できなかった。
+  Ich konnte meine Fähigkeiten in der Prüfung nicht unter Beweis stellen.
+
+  自己啓発で能力を開発している。
+  自己啓発[じこけいはつ]で 能力[のうりょく]を 開発[かいはつ]している。
+  Ich entwickle meine Fähigkeiten durch Selbststudium weiter.
+
+  研修を通じて能力を伸ばす機会がある。
+  研修[けんしゅう]を 通[とお]じて 能力[のうりょく]を 伸[の]ばす 機会[きかい]がある。
+  Es gibt die Möglichkeit, durch Schulungen die eigenen Fähigkeiten zu erweitern.
+
+  知的能力は教育によって向上する。
+  知的[ちてき] 能力[のうりょく]は 教育[きょういく]によって 向上[こうじょう]する。
+  Intellektuelle Fähigkeiten verbessern sich durch Bildung.
+
+  彼女は芸術的な能力に優れている。
+  彼女[かのじょ]は 芸術的[げいじゅつてき]な 能力[のうりょく]に 優[すぐ]れている。
+  Sie zeichnet sich durch ihre künstlerischen Fähigkeiten aus.
+
+  表現の能力を磨くことは大切だ。
+  表現[ひょうげん]の 能力[のうりょく]を 磨[みが]くことは 大切[たいせつ]だ。
+  Es ist wichtig, das Ausdrucksvermögen zu verbessern.
+
+  この機械の処理能力は驚くべきものだ。
+  この 機械[きかい]の 処理[しょり] 能力[のうりょく]は 驚[おどろ]くべきものだ。
+  Die Verarbeitungskapazität dieser Maschine ist erstaunlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

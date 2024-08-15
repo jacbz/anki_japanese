@@ -2,7 +2,7 @@ Rang: 1291
 Lemma: 権利
 Lesung: けんり
 Alternativschreibweisen: ''
-Definition: Recht, Anspruch, Berechtigung
+Definition: Recht, Anspruch
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \..
@@ -16,11 +16,102 @@ Konjugation: ''
 Beispielsätze: |-
   他人の権利を侵害してはならない。
   他人[たにん]の 権利[けんり]を 侵害[しんがい]してはならない。
-  Sie dürfen die Rechte anderer nicht verletzen.
+  Man darf die Rechte anderer nicht verletzen.
+
+  この法律は市民の基本的権利を保護することを目的としています。
+  この 法律[ほうりつ]は 市民[しみん]の 基本的[きほんてき] 権利[けんり]を 保護[ほご]することを 目的[もくてき]としています。
+  Dieses Gesetz zielt darauf ab, die grundlegenden Rechte der Bürger zu schützen.
+
+  表現の自由は憲法で保障された重要な権利の一つです。
+  表現[ひょうげん]の 自由[じゆう]は 憲法[けんぽう]で 保障[ほしょう]された 重要[じゅうよう]な 権利[けんり]の 一[ひと]つです。
+  Die Meinungsfreiheit ist eines der wichtigen Rechte, die durch die Verfassung garantiert werden.
+
+  彼らは平等な権利を求めてデモ行進を行った。
+  彼[かれ]らは 平等[びょうどう]な 権利[けんり]を 求[もと]めてデモ 行進[こうしん]を 行[おこな]った。
+  Sie marschierten, um gleiche Rechte zu fordern.
+
+  その契約書には著作権の譲渡に関する権利が明記されていた。
+  その 契約書[けいやくしょ]には 著作権[ちょさくけん]の 譲渡[じょうと]に 関[かん]する 権利[けんり]が 明記[めいき]されていた。
+  In dem Vertrag waren die Rechte bezüglich der Übertragung des Urheberrechts klar festgehalten.
+
+  未成年者の権利を守るための法律が制定された。
+  未成年者[みせいねんしゃ]の 権利[けんり]を 守[まも]るための 法律[ほうりつ]が 制定[せいてい]された。
+  Es wurde ein Gesetz zum Schutz der Rechte von Minderjährigen erlassen.
+
+  権利の行使には責任が伴うことを忘れてはいけません。
+  権利[けんり]の 行使[こうし]には 責任[せきにん]が 伴[ともな]うことを 忘[わす]れてはいけません。
+  Wir dürfen nicht vergessen, dass die Ausübung von Rechten mit Verantwortung einhergeht.
+
+  彼女は自分の権利を主張する勇気を持っている。
+  彼女[かのじょ]は 自分[じぶん]の 権利[けんり]を 主張[しゅちょう]する 勇気[ゆうき]を 持[も]っている。
+  Sie hat den Mut, für ihre Rechte einzustehen.
+
+  その会社は従業員の権利を尊重することで知られています。
+  その 会社[かいしゃ]は 従業員[じゅうぎょういん]の 権利[けんり]を 尊重[そんちょう]することで 知[し]られています。
+  Das Unternehmen ist dafür bekannt, die Rechte seiner Mitarbeiter zu respektieren.
+
+  投票は民主主義社会における市民の重要な権利です。
+  投票[とうひょう]は 民主主義社会[みんしゅしゅぎしゃかい]における 市民[しみん]の 重要[じゅうよう]な 権利[けんり]です。
+  Das Wahlrecht ist ein wichtiges Recht der Bürger in einer demokratischen Gesellschaft.
+
+  彼らは土地の所有権を主張している。
+  彼[かれ]らは 土地[とち]の 所有権[しょゆうけん]を 主張[しゅちょう]している。
+  Sie beanspruchen das Eigentumsrecht an dem Grundstück.
+
+  新しい法律により、消費者の権利がさらに強化されました。
+  新[あたら]しい 法律[ほうりつ]により、消費者[しょうひしゃ]の 権利[けんり]がさらに 強化[きょうか]されました。
+  Durch das neue Gesetz wurden die Rechte der Verbraucher weiter gestärkt.
+
+  権利の濫用は法律で禁止されています。
+  権利[けんり]の 濫用[らんよう]は 法律[ほうりつ]で 禁止[きんし]されています。
+  Der Missbrauch von Rechten ist gesetzlich verboten.
+
+  労働者には団結権と団体交渉権があります。
+  労働者[ろうどうしゃ]には 団結権[だんけつけん]と 団体交渉権[だんたいこうしょうけん]があります。
+  Arbeitnehmer haben das Recht auf Vereinigungsfreiheit und Tarifverhandlungen.
+
+  その国では、女性の権利拡大のための運動が盛んになっている。
+  その 国[くに]では、女性[じょせい]の 権利拡大[けんりかくだい]のための 運動[うんどう]が 盛[さか]んになっている。
+  In diesem Land gewinnt die Bewegung für die Erweiterung der Frauenrechte an Dynamik.
+
+  特許権は発明者の権利を保護するために存在する。
+  特許権[とっきょけん]は 発明者[はつめいしゃ]の 権利[けんり]を 保護[ほご]するために 存在[そんざい]する。
+  Patentrechte existieren, um die Rechte von Erfindern zu schützen.
+
+  子どもたちには教育を受ける権利があります。
+  子[こ]どもたちには 教育[きょういく]を 受[う]ける 権利[けんり]があります。
+  Kinder haben das Recht auf Bildung.
+
+  その政党は少数派の権利保護を公約に掲げている。
+  その 政党[せいとう]は 少数派[しょうすうは]の 権利保護[けんりほご]を 公約[こうやく]に 掲[かか]げている。
+  Die Partei hat den Schutz der Rechte von Minderheiten zu einem ihrer Wahlversprechen gemacht.
+
+  彼は自分の権利を守るために弁護士に相談した。
+  彼[かれ]は 自分[じぶん]の 権利[けんり]を 守[まも]るために 弁護士[べんごし]に 相談[そうだん]した。
+  Er konsultierte einen Anwalt, um seine Rechte zu schützen.
+
+  すべての人間は生まれながらにして自由であり、かつ、権利について平等である。
+  すべての 人間[にんげん]は 生[う]まれながらにして 自由[じゆう]であり、かつ、権利[けんり]について 平等[びょうどう]である。
+  Alle Menschen sind frei und gleich an Würde und Rechten geboren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>権利 (けんり) ist ein grundlegender Begriff im Rechtssystem und in der Gesellschaft. Es bezeichnet die legalen und moralischen Ansprüche, die eine Person oder Gruppe hat.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]には 意見[いけん]を 述[の]べる 権利[けんり]がある。</div>
+    <div class="de spoiler">Er hat das Recht, seine Meinung zu äußern.</div>
+  </div>
+  <p>権利 kann in verschiedenen Kontexten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">基本的人権[きほんてきじんけん]は 憲法[けんぽう]で 保障[ほしょう]された 権利[けんり]です。</div>
+    <div class="de spoiler">Die grundlegenden Menschenrechte sind durch die Verfassung garantierte Rechte.</div>
+  </div>
+  <p>Es ist wichtig zu beachten, dass Rechte oft mit Pflichten einhergehen:</p>
+  <div class="examples">
+    <div class="jp">権利[けんり]の 行使[こうし]には 責任[せきにん]が 伴[ともな]います。</div>
+    <div class="de spoiler">Mit der Ausübung von Rechten geht Verantwortung einher.</div>
+  </div>

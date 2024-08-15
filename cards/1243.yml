@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   十から一を引くと九になる。
-  十から一を 引[ひ]くと九になる。
+  十[じゅう]から 一[いち]を 引[ひ]くと 九[きゅう]になる。
   Wenn man von zehn eins abzieht, erhält man neun.
+
+  九人の従業員がこのプロジェクトに携わっています。
+  九人[きゅうにん]の 従業員[じゅうぎょういん]がこのプロジェクトに 携[たずさ]わっています。
+  Neun Mitarbeiter sind an diesem Projekt beteiligt.
+
+  第九交響曲は有名なクラシック音楽作品だ。
+  第九[だいきゅう] 交響曲[こうきょうきょく]は 有名[ゆうめい]なクラシック 音楽[おんがく] 作品[さくひん]だ。
+  Die Neunte Sinfonie ist ein berühmtes klassisches Musikstück.
+
+  九月は秋の始まりの月です。
+  九月[くがつ]は 秋[あき]の 始[はじ]まりの 月[つき]です。
+  Der September ist der Monat, in dem der Herbst beginnt.
+
+  私の誕生日は九日です。
+  私[わたし]の 誕生日[たんじょうび]は 九日[ここのか]です。
+  Mein Geburtstag ist am neunten.
+
+  九時に会議が始まります。
+  九時[くじ]に 会議[かいぎ]が 始[はじ]まります。
+  Die Besprechung beginnt um neun Uhr.
+
+  九階建てのビルに住んでいます。
+  九階[きゅうかい] 建[だ]てのビルに 住[す]んでいます。
+  Ich wohne in einem neunstöckigen Gebäude.
+
+  九年間も同じ会社で働いています。
+  九年間[きゅうねんかん]も 同[おな]じ 会社[かいしゃ]で 働[はたら]いています。
+  Ich arbeite schon seit neun Jahren in derselben Firma.
+
+  九つの惑星があると昔は教わったよ。
+  九[ここの]つの 惑星[わくせい]があると 昔[むかし]は 教[おそ]わったよ。
+  Früher wurde uns beigebracht, dass es neun Planeten gibt.
+
+  九回裏で逆転勝ちを収めた。
+  九回裏[きゅうかいうら]で 逆転勝[ぎゃくてんが]ちを 収[おさ]めた。
+  Wir haben im letzten Inning des neunten Spiels einen Comeback-Sieg errungen.
+
+  九州は日本の主要な島の一つです。
+  九州[きゅうしゅう]は 日本[にほん]の 主要[しゅよう]な 島[しま]の 一[ひと]つです。
+  Kyushu ist eine der Hauptinseln Japans.
+
+  九月九日は重陽の節句だよ。
+  九月九日[くがつここのか]は 重陽[ちょうよう]の 節句[せっく]だよ。
+  Der neunte September ist das Chrysanthemenfest.
+
+  九十九折りの山道を登った。
+  九十九折[くじゅうくおり]の 山道[やまみち]を 登[のぼ]った。
+  Ich bin einen Zickzackweg den Berg hinaufgestiegen.
+
+  九分九厘成功すると思います。
+  九分九厘[くぶくりん] 成功[せいこう]すると 思[おも]います。
+  Ich denke, es wird mit 99-prozentiger Wahrscheinlichkeit erfolgreich sein.
+
+  九死に一生を得た経験がある。
+  九死[きゅうし]に 一生[いっしょう]を 得[え]た 経験[けいけん]がある。
+  Ich habe die Erfahrung gemacht, dem Tod nur knapp entronnen zu sein.
+
+  九牛の一毛ほどの違いしかない。
+  九牛[きゅうぎゅう]の 一毛[いちもう]ほどの 違[ちが]いしかない。
+  Es gibt nur einen haarfeinen Unterschied.
+
+  九層倍の努力をしないといけません。
+  九層倍[きゅうそうばい]の 努力[どりょく]をしないといけません。
+  Wir müssen neunmal so viel Anstrengung unternehmen.
+
+  九帳面な性格で知られています。
+  九帳面[きちょうめん]な 性格[せいかく]で 知[し]られています。
+  Er ist für seinen akribischen Charakter bekannt.
+
+  第九条は憲法の重要な部分です。
+  第九条[だいきゅうじょう]は 憲法[けんぽう]の 重要[じゅうよう]な 部分[ぶぶん]です。
+  Artikel 9 ist ein wichtiger Teil der Verfassung.
+
+  九つの宝石がこのネックレスについています。
+  九[ここの]つの 宝石[ほうせき]がこのネックレスについています。
+  Neun Edelsteine sind an dieser Halskette befestigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

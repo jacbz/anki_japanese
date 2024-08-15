@@ -2,7 +2,7 @@ Rang: 1387
 Lemma: 基本
 Lesung: きほん
 Alternativschreibweisen: ''
-Definition: Grundlage, Basis, Grundlegendes
+Definition: Grundlage, Basis
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: .^^
@@ -16,7 +16,83 @@ Konjugation: ''
 Beispielsätze: |-
   料理の基本を学びたい。
   料理[りょうり]の 基本[きほん]を 学[まな]びたい。
-  Ich möchte die Grundlagen des Kochens lernen.
+  Ich möchte die Grundlagen des Kochens erlernen.
+
+  この企業の基本方針は顧客満足度の向上だ。
+  この 企業[きぎょう]の 基本方針[きほんほうしん]は 顧客満足度[こきゃくまんぞくど]の 向上[こうじょう]だ。
+  Die grundlegende Politik dieses Unternehmens ist die Verbesserung der Kundenzufriedenheit.
+
+  基本的人権は憲法で保障されています。
+  基本的人権[きほんてきじんけん]は 憲法[けんぽう]で 保障[ほしょう]されています。
+  Die grundlegenden Menschenrechte sind durch die Verfassung garantiert.
+
+  プログラミングの基本を身につけるには練習が欠かせない。
+  プログラミングの 基本[きほん]を 身[み]につけるには 練習[れんしゅう]が 欠[か]かせない。
+  Um die Grundlagen des Programmierens zu erlernen, ist Übung unerlässlich.
+
+  基本給に加えて、ボーナスが支給されます。
+  基本給[きほんきゅう]に 加[くわ]えて、ボーナスが 支給[しきゅう]されます。
+  Zusätzlich zum Grundgehalt wird ein Bonus ausgezahlt.
+
+  その問題の基本は何だと思いますか。
+  その 問題[もんだい]の 基本[きほん]は 何[なに]だと 思[おも]いますか。
+  Was denkst du, ist der Kern dieses Problems?
+
+  基本的には賛成ですが、細かい点で意見が違います。
+  基本的[きほんてき]には 賛成[さんせい]ですが、細[こま]かい 点[てん]で 意見[いけん]が 違[ちが]います。
+  Grundsätzlich stimme ich zu, aber in den Details haben wir unterschiedliche Meinungen.
+
+  この本は経済学の基本を分かりやすく説明している。
+  この 本[ほん]は 経済学[けいざいがく]の 基本[きほん]を 分[わ]かりやすく 説明[せつめい]している。
+  Dieses Buch erklärt die Grundlagen der Wirtschaftswissenschaften auf verständliche Weise.
+
+  基本的な生活習慣を身につけることが大切だ。
+  基本的[きほんてき]な 生活習慣[せいかつしゅうかん]を 身[み]につけることが 大切[たいせつ]だ。
+  Es ist wichtig, sich grundlegende Lebensgewohnheiten anzueignen.
+
+  この会社の基本理念は環境保護です。
+  この 会社[かいしゃ]の 基本理念[きほんりねん]は 環境保護[かんきょうほご]です。
+  Das Grundprinzip dieses Unternehmens ist der Umweltschutz.
+
+  基本を押さえれば、応用は簡単だよ。
+  基本[きほん]を 押[お]さえれば、応用[おうよう]は 簡単[かんたん]だよ。
+  Wenn du die Grundlagen beherrschst, ist die Anwendung einfach.
+
+  基本的にはそのアイデアに賛成だが、実行は難しいかもしれない。
+  基本的[きほんてき]にはそのアイデアに 賛成[さんせい]だが、実行[じっこう]は 難[むずか]しいかもしれない。
+  Im Prinzip stimme ich dieser Idee zu, aber die Umsetzung könnte schwierig sein.
+
+  基本データを分析して、戦略を立てましょう。
+  基本[きほん]データを 分析[ぶんせき]して、戦略[せんりゃく]を 立[た]てましょう。
+  Lasst uns die Basisdaten analysieren und eine Strategie entwickeln.
+
+  基本的な礼儀作法を身につけることは社会人として重要だ。
+  基本的[きほんてき]な 礼儀作法[れいぎさほう]を 身[み]につけることは 社会人[しゃかいじん]として 重要[じゅうよう]だ。
+  Es ist wichtig als Erwachsener, grundlegende Manieren zu beherrschen.
+
+  この楽器の基本的な演奏方法を教えてください。
+  この 楽器[がっき]の 基本的[きほんてき]な 演奏方法[えんそうほうほう]を 教[おし]えてください。
+  Bitte erklären Sie mir die grundlegende Spielweise dieses Instruments.
+
+  基本的な安全対策を怠ると、事故につながる可能性がある。
+  基本的[きほんてき]な 安全対策[あんぜんたいさく]を 怠[おこた]ると、事故[じこ]につながる 可能性[かのうせい]がある。
+  Wenn man grundlegende Sicherheitsmaßnahmen vernachlässigt, kann es zu Unfällen kommen.
+
+  その理論の基本を成しているのは、量子力学の原理だ。
+  その 理論[りろん]の 基本[きほん]を 成[な]しているのは、量子力学[りょうしりきがく]の 原理[げんり]だ。
+  Die Grundlage dieser Theorie bilden die Prinzipien der Quantenmechanik.
+
+  基本的には同意見ですが、細部については再検討が必要です。
+  基本的[きほんてき]には 同意見[どういけん]ですが、細部[さいぶ]については 再検討[さいけんとう]が 必要[ひつよう]です。
+  Grundsätzlich stimme ich zu, aber die Details müssen noch einmal überprüft werden.
+
+  この課題の基本は、チームワークにあると考えています。
+  この 課題[かだい]の 基本[きほん]は、チームワークにあると 考[かんが]えています。
+  Ich denke, der Kern dieser Aufgabe liegt in der Teamarbeit.
+
+  基本的な生活必需品は全て揃っています。
+  基本的[きほんてき]な 生活必需品[せいかつひつじゅひん]は 全[すべ]て 揃[そろ]っています。
+  Alle grundlegenden Lebensnotwendigkeiten sind vorhanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,25 +2,127 @@ Rang: 1218
 Lemma: 動かす
 Lesung: うごかす
 Alternativschreibweisen: ''
-Definition: bewegen, verschieben, betreiben
+Definition: bewegen; verschieben; antreiben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .^\.
 Register: ''
 Dispersion: '96'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 動かさない・動かした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   自動車を動かしてください。
   自動車[じどうしゃ]を 動[うご]かしてください。
-  Bitte bewegen Sie Ihr Auto.
+  Bitte fahren Sie das Auto weg.
+
+  赤ちゃんは手足を活発に動かしていた。
+  赤[あか]ちゃんは 手足[てあし]を 活発[かっぱつ]に 動[うご]かしていた。
+  Das Baby bewegte seine Arme und Beine lebhaft.
+
+  重い家具を一人で動かそうとしないでください。
+  重[おも]い 家具[かぐ]を 一人[ひとり]で 動[うご]かそうとしないでください。
+  Versuchen Sie nicht, schwere Möbel alleine zu verschieben.
+
+  彼女の話は私の心を深く動かした。
+  彼女[かのじょ]の 話[はなし]は 私[わたし]の 心[こころ]を 深[ふか]く 動[うご]かした。
+  Ihre Geschichte hat mich tief bewegt.
+
+  カーソルを左右に動かして、アイコンを選択してください。
+  カーソルを 左右[さゆう]に 動[うご]かして、アイコンを 選択[せんたく]してください。
+  Bewegen Sie den Cursor nach links und rechts, um das Icon auszuwählen.
+
+  この機械を動かすには専門的な知識が必要です。
+  この 機械[きかい]を 動[うご]かすには 専門的[せんもんてき]な 知識[ちしき]が 必要[ひつよう]です。
+  Um diese Maschine zu bedienen, braucht man Fachwissen.
+
+  指一本動かさずに、すべてをロボットにやらせている。
+  指[ゆび] 一本[いっぽん] 動[うご]かさずに、すべてをロボットにやらせている。
+  Ohne einen Finger zu rühren, lässt er den Roboter alles machen.
+
+  彼女は編み針を素早く動かして、セーターを編んでいた。
+  彼女[かのじょ]は 編[あ]み 針[ばり]を 素早[すばや]く 動[うご]かして、セーターを 編[あ]んでいた。
+  Sie bewegte die Stricknadeln geschickt und strickte einen Pullover.
+
+  政府はこの問題に対して早急に動かなければならない。
+  政府[せいふ]はこの 問題[もんだい]に 対[たい]して 早急[そうきゅう]に 動[うご]かなければならない。
+  Die Regierung muss in dieser Angelegenheit schnell handeln.
+
+  彼の演説は聴衆の心を大きく動かした。
+  彼[かれ]の 演説[えんぜつ]は 聴衆[ちょうしゅう]の 心[こころ]を 大[おお]きく 動[うご]かした。
+  Seine Rede hat die Herzen des Publikums stark bewegt.
+
+  この計画を動かすには、多くの人々の協力が必要だ。
+  この 計画[けいかく]を 動[うご]かすには、多[おお]くの 人々[ひとびと]の 協力[きょうりょく]が 必要[ひつよう]だ。
+  Um diesen Plan in die Tat umzusetzen, brauchen wir die Zusammenarbeit vieler Menschen.
+
+  地震で家具が動かされて、部屋中が散らかっていた。
+  地震[じしん]で 家具[かぐ]が 動[うご]かされて、部屋中[へやじゅう]が 散[ち]らかっていた。
+  Durch das Erdbeben wurden die Möbel verschoben, und das ganze Zimmer war ein Durcheinander.
+
+  リモコンで窓を開閉動かすことができます。
+  リモコンで 窓[まど]を 開閉[かいへい] 動[うご]かすことができます。
+  Mit der Fernbedienung können Sie die Fenster öffnen und schließen.
+
+  彼女は感情に動かされやすいタイプだ。
+  彼女[かのじょ]は 感情[かんじょう]に 動[うご]かされやすいタイプだ。
+  Sie ist der Typ, der sich leicht von Gefühlen beeinflussen lässt.
+
+  この事実は動かしがたい証拠となるでしょう。
+  この 事実[じじつ]は 動[うご]かしがたい 証拠[しょうこ]となるでしょう。
+  Diese Tatsache wird ein unumstößlicher Beweis sein.
+
+  彼は手を動かさずに、頭の中だけで問題を解決しようとした。
+  彼[かれ]は 手[て]を 動[うご]かさずに、頭[あたま]の 中[なか]だけで 問題[もんだい]を 解決[かいけつ]しようとした。
+  Er versuchte, das Problem nur in seinem Kopf zu lösen, ohne Hand anzulegen.
+
+  ポンプを動かして、水を汲み上げてください。
+  ポンプを 動[うご]かして、水[みず]を 汲[く]み 上[あ]げてください。
+  Bitte betätigen Sie die Pumpe, um Wasser hochzupumpen.
+
+  新しい部署に動かされて、彼の仕事内容が変わった。
+  新[あたら]しい 部署[ぶしょ]に 動[うご]かされて、彼[かれ]の 仕事内容[しごとないよう]が 変[か]わった。
+  Er wurde in eine neue Abteilung versetzt, und seine Arbeitsaufgaben haben sich geändert.
+
+  大きな資金を動かして、新しいプロジェクトを立ち上げた。
+  大[おお]きな 資金[しきん]を 動[うご]かして、新[あたら]しいプロジェクトを 立[た]ち 上[あ]げた。
+  Sie haben große Geldsummen bewegt, um ein neues Projekt zu starten.
+
+  彼女の笑顔は、周りの人々の心を動かす力がある。
+  彼女[かのじょ]の 笑顔[えがお]は、周[まわ]りの 人々[ひとびと]の 心[こころ]を 動[うご]かす 力[ちから]がある。
+  Ihr Lächeln hat die Kraft, die Herzen der Menschen um sie herum zu bewegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 動かす (ugokasu) hat mehrere Bedeutungen und Verwendungen:</p>
+  <div class='examples'>
+    <div class='jp'>体[からだ]を 動[うご]かす。</div>
+    <div class='de spoiler'>Den Körper bewegen.</div>
+  </div>
+  <p>Es kann verwendet werden, um physische Bewegung auszudrücken.</p>
+  <div class='examples'>
+    <div class='jp'>家具[かぐ]を 新[あたら]しい 場所[ばしょ]に 動[うご]かす。</div>
+    <div class='de spoiler'>Die Möbel an einen neuen Platz verschieben.</div>
+  </div>
+  <p>Es kann auch bedeuten, etwas von einem Ort zu einem anderen zu bewegen oder zu verschieben.</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]の 話[はなし]は 私[わたし]の 心[こころ]を 動[うご]かした。</div>
+    <div class='de spoiler'>Seine Geschichte hat mein Herz bewegt.</div>
+  </div>
+  <p>Im übertragenen Sinne kann es bedeuten, jemanden emotional zu bewegen oder zu beeinflussen.</p>
+  <div class='examples'>
+    <div class='jp'>機械[きかい]を 動[うご]かす。</div>
+    <div class='de spoiler'>Eine Maschine in Gang setzen.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass man etwas in Betrieb setzt oder aktiviert.</p>
+  <div class='examples'>
+    <div class='jp'>組織[そしき]を 動[うご]かす。</div>
+    <div class='de spoiler'>Eine Organisation mobilisieren.</div>
+  </div>
+  <p>Schließlich kann es auch bedeuten, Menschen oder Organisationen zu mobilisieren oder zum Handeln zu bringen.</p>

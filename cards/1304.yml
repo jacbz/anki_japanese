@@ -2,7 +2,7 @@ Rang: 1304
 Lemma: 治療
 Lesung: ちりょう
 Alternativschreibweisen: ''
-Definition: Heilung, Behandlung, Therapie
+Definition: Behandlung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: .^^^
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今がんの治療を受けている。
-  今[こん]がんの 治療[ちりょう]を 受[う]けている。
-  Ich erhalte derzeit eine Behandlung gegen Krebs.
+  今[いま]がんの 治療[ちりょう]を 受[う]けている。
+  Ich befinde mich derzeit in Krebsbehandlung.
+
+  治療費が高すぎて、支払いに困っています。
+  治療費[ちりょうひ]が 高[たか]すぎて、支払[しはら]いに 困[こま]っています。
+  Die Behandlungskosten sind so hoch, dass ich Schwierigkeiten habe, sie zu bezahlen.
+
+  新しい治療法が開発されました。
+  新[あたら]しい 治療法[ちりょうほう]が 開発[かいはつ]されました。
+  Eine neue Behandlungsmethode wurde entwickelt.
+
+  治療効果が現れるまでには時間がかかります。
+  治療効果[ちりょうこうか]が 現[あらわ]れるまでには 時間[じかん]がかかります。
+  Es braucht Zeit, bis die Wirkung der Behandlung sichtbar wird.
+
+  彼女は治療室に入って行きました。
+  彼女[かのじょ]は 治療室[ちりょうしつ]に 入[はい]って 行[い]きました。
+  Sie ging in den Behandlungsraum.
+
+  放射線治療は副作用が強いことがあります。
+  放射線治療[ほうしゃせんちりょう]は 副作用[ふくさよう]が 強[つよ]いことがあります。
+  Strahlentherapie kann starke Nebenwirkungen haben.
+
+  遺伝子治療は、まだ実験段階です。
+  遺伝子治療[いでんしちりょう]は、まだ 実験段階[じっけんだんかい]です。
+  Gentherapie befindet sich noch im experimentellen Stadium.
+
+  心理治療を受けることで、彼の症状は改善しました。
+  心理治療[しんりちりょう]を 受[う]けることで、彼[かれ]の 症状[しょうじょう]は 改善[かいぜん]しました。
+  Durch die Psychotherapie haben sich seine Symptome verbessert.
+
+  早期発見・治療が、この病気には重要です。
+  早期発見[そうきはっけん]・治療[ちりょう]が、この 病気[びょうき]には 重要[じゅうよう]です。
+  Früherkennung und -behandlung sind bei dieser Krankheit wichtig.
+
+  彼は長期の治療中であるため、仕事を休んでいます。
+  彼[かれ]は 長期[ちょうき]の 治療中[ちりょうちゅう]であるため、仕事[しごと]を 休[やす]んでいます。
+  Er nimmt sich von der Arbeit frei, da er sich in einer Langzeitbehandlung befindet.
+
+  この治療で完治する可能性は高いです。
+  この 治療[ちりょう]で 完治[かんち]する 可能性[かのうせい]は 高[たか]いです。
+  Die Chancen auf vollständige Heilung durch diese Behandlung sind hoch.
+
+  医師は最適な治療法を選択するために、慎重に検討しています。
+  医師[いし]は 最適[さいてき]な 治療法[ちりょうほう]を 選択[せんたく]するために、慎重[しんちょう]に 検討[けんとう]しています。
+  Der Arzt überlegt sorgfältig, um die beste Behandlungsmethode auszuwählen.
+
+  治療を施す前に、患者の同意が必要です。
+  治療[ちりょう]を 施[ほどこ]す 前[まえ]に、患者[かんじゃ]の 同意[どうい]が 必要[ひつよう]です。
+  Bevor eine Behandlung durchgeführt wird, ist die Zustimmung des Patienten erforderlich.
+
+  その病気は治療法がないと言われています。
+  その 病気[びょうき]は 治療法[ちりょうほう]がないと 言[い]われています。
+  Es heißt, dass es für diese Krankheit keine Behandlungsmöglichkeit gibt.
+
+  集中治療室では、24時間体制で患者を監視しています。
+  集中治療室[しゅうちゅうちりょうしつ]では、24時間体制[じかんたいせい]で 患者[かんじゃ]を 監視[かんし]しています。
+  Auf der Intensivstation werden die Patienten rund um die Uhr überwacht.
+
+  彼女は代替治療に興味を持っています。
+  彼女[かのじょ]は 代替治療[だいたいちりょう]に 興味[きょうみ]を 持[も]っています。
+  Sie ist an alternativen Behandlungsmethoden interessiert.
+
+  治療に対する反応は患者によって異なります。
+  治療[ちりょう]に 対[たい]する 反応[はんのう]は 患者[かんじゃ]によって 異[こと]なります。
+  Die Reaktion auf die Behandlung variiert von Patient zu Patient.
+
+  この病院では最新の治療技術を導入しています。
+  この 病院[びょういん]では 最新[さいしん]の 治療技術[ちりょうぎじゅつ]を 導入[どうにゅう]しています。
+  Dieses Krankenhaus führt die neuesten Behandlungstechnologien ein.
+
+  治療のためには、健康的な生活習慣も重要です。
+  治療[ちりょう]のためには、健康的[けんこうてき]な 生活習慣[せいかつしゅうかん]も 重要[じゅうよう]です。
+  Für die Behandlung sind auch gesunde Lebensgewohnheiten wichtig.
+
+  予防は治療に勝るという言葉があります。
+  予防[よぼう]は 治療[ちりょう]に 勝[まさ]るという 言葉[ことば]があります。
+  Es gibt ein Sprichwort, das besagt, dass Vorbeugung besser als Heilung ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1327
 Lemma: 韓国
 Lesung: かんこく
 Alternativschreibweisen: ''
-Definition: Südkorea, Republik Korea
+Definition: Südkorea
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Lesung mit Tonhöhe: \...
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   韓国は日本人に人気のある旅行先だ。
-  韓国[かんこく]は 日本人[にっぽんじん]に 人気[にんき]のある 旅行先[りょこうさき]だ。
+  韓国[かんこく]は 日本人[にほんじん]に 人気[にんき]のある 旅行先[りょこうさき]だ。
   Südkorea ist ein beliebtes Reiseziel für Japaner.
+
+  韓国語を学ぶ人が増えています。
+  韓国語[かんこくご]を 学[まな]ぶ 人[ひと]が 増[ふ]えています。
+  Die Zahl der Menschen, die Koreanisch lernen, nimmt zu.
+
+  彼は在日韓国人の二世です。
+  彼[かれ]は 在日韓国人[ざいにちかんこくじん]の 二世[にせい]です。
+  Er ist ein in Japan geborener Koreaner der zweiten Generation.
+
+  韓国料理は辛いものが多いです。
+  韓国料理[かんこくりょうり]は 辛[から]いものが 多[おお]いです。
+  In der koreanischen Küche gibt es viele scharfe Gerichte.
+
+  韓国の文化に興味があります。
+  韓国[かんこく]の 文化[ぶんか]に 興味[きょうみ]があります。
+  Ich interessiere mich für die koreanische Kultur.
+
+  韓国併合は日韓関係の歴史的な転換点だった。
+  韓国併合[かんこくへいごう]は 日韓関係[にっかんかんけい]の 歴史的[れきしてき]な 転換点[てんかんてん]だった。
+  Die Annexion Koreas war ein historischer Wendepunkt in den japanisch-koreanischen Beziehungen.
+
+  韓国のドラマが日本でも人気です。
+  韓国[かんこく]のドラマが 日本[にほん]でも 人気[にんき]です。
+  Koreanische Dramen sind auch in Japan beliebt.
+
+  ソウルは韓国の首都です。
+  ソウルは 韓国[かんこく]の 首都[しゅと]です。
+  Seoul ist die Hauptstadt Südkoreas.
+
+  韓国の伝統衣装はチマチョゴリと呼ばれます。
+  韓国[かんこく]の 伝統衣装[でんとういしょう]はチマチョゴリと 呼[よ]ばれます。
+  Die traditionelle koreanische Kleidung wird Hanbok genannt.
+
+  韓国の歴史について詳しく知りたいです。
+  韓国[かんこく]の 歴史[れきし]について 詳[くわ]しく 知[し]りたいです。
+  Ich möchte mehr über die Geschichte Koreas erfahren.
+
+  韓国語の習得には時間がかかるそうだ。
+  韓国語[かんこくご]の 習得[しゅうとく]には 時間[じかん]がかかるそうだ。
+  Es heißt, dass es Zeit braucht, um Koreanisch zu beherrschen.
+
+  韓国の経済発展は目覚ましいものがあります。
+  韓国[かんこく]の 経済発展[けいざいはってん]は 目覚[めざ]ましいものがあります。
+  Die wirtschaftliche Entwicklung Südkoreas ist bemerkenswert.
+
+  韓国映画が国際的に評価されている。
+  韓国映画[かんこくえいが]が 国際的[こくさいてき]に 評価[ひょうか]されている。
+  Koreanische Filme werden international geschätzt.
+
+  韓国の伝統音楽に興味を持っています。
+  韓国[かんこく]の 伝統音楽[でんとうおんがく]に 興味[きょうみ]を 持[も]っています。
+  Ich interessiere mich für traditionelle koreanische Musik.
+
+  韓国のIT産業は世界的に有名です。
+  韓国[かんこく]のIT産業[さんぎょう]は 世界的[せかいてき]に 有名[ゆうめい]です。
+  Die IT-Industrie Südkoreas ist weltweit bekannt.
+
+  韓国の若者文化が日本にも影響を与えている。
+  韓国[かんこく]の 若者文化[わかものぶんか]が 日本[にほん]にも 影響[えいきょう]を 与[あた]えている。
+  Die koreanische Jugendkultur beeinflusst auch Japan.
+
+  韓国旅行の計画を立てています。
+  韓国旅行[かんこくりょこう]の 計画[けいかく]を 立[た]てています。
+  Ich plane eine Reise nach Südkorea.
+
+  韓国の大学に留学したいと思っています。
+  韓国[かんこく]の 大学[だいがく]に 留学[りゅうがく]したいと 思[おも]っています。
+  Ich möchte gerne an einer südkoreanischen Universität studieren.
+
+  韓国の伝統的な祝日について教えてください。
+  韓国[かんこく]の 伝統的[でんとうてき]な 祝日[しゅくじつ]について 教[おし]えてください。
+  Bitte erzählen Sie mir von den traditionellen Feiertagen in Korea.
+
+  韓国の美容製品が世界中で人気です。
+  韓国[かんこく]の 美容製品[びようせいひん]が 世界中[せかいじゅう]で 人気[にんき]です。
+  Koreanische Kosmetikprodukte sind weltweit beliebt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

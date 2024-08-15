@@ -2,14 +2,14 @@ Rang: 1283
 Lemma: 詰まる
 Lesung: つまる
 Alternativschreibweisen: ''
-Definition: verstopfen, blockieren, verstopft sein
+Definition: verstopfen; vollgestopft sein; in Verlegenheit geraten
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '91'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 詰まらない・詰まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,6 +17,82 @@ Beispielsätze: |-
   トイレが詰まったみたいだ。
   トイレが 詰[つ]まったみたいだ。
   Die Toilette scheint verstopft zu sein.
+
+  電車の中はぎっしり詰まっていて、身動きが取れません。
+  電車[でんしゃ]の 中[なか]はぎっしり 詰[つ]まっていて、身動[みうご]きが 取[と]れません。
+  Die Bahn ist so vollgestopft, dass man sich nicht bewegen kann.
+
+  予定が詰まっているので、新しい約束を入れられません。
+  予定[よてい]が 詰[つ]まっているので、新[あたら]しい 約束[やくそく]を 入[い]れられません。
+  Ich kann keine neuen Termine vereinbaren, da mein Zeitplan voll ist.
+
+  鼻が詰まっているので、息がしづらいです。
+  鼻[はな]が 詰[つ]まっているので、息[いき]がしづらいです。
+  Ich habe Schwierigkeiten beim Atmen, weil meine Nase verstopft ist.
+
+  喉に魚の骨が詰まって、とても困りました。
+  喉[のど]に 魚[さかな]の 骨[ほね]が 詰[つ]まって、とても 困[こま]りました。
+  Ich war sehr beunruhigt, als mir eine Fischgräte im Hals stecken blieb.
+
+  返事に詰まってしまい、何も言えませんでした。
+  返事[へんじ]に 詰[つ]まってしまい、何[なに]も 言[い]えませんでした。
+  Ich war um eine Antwort verlegen und konnte nichts sagen.
+
+  お金に詰まって、友達に借りることにしました。
+  お 金[かね]に 詰[つ]まって、友達[ともだち]に 借[か]りることにしました。
+  Ich war knapp bei Kasse und beschloss, mir von einem Freund Geld zu leihen.
+
+  このセーターは洗うと詰まるので、気をつけて洗濯してください。
+  このセーターは 洗[あら]うと 詰[つ]まるので、気[き]をつけて 洗濯[せんたく]してください。
+  Dieser Pullover läuft beim Waschen ein, also sei beim Waschen vorsichtig.
+
+  冬になると日が詰まって、日が暮れるのが早くなります。
+  冬[ふゆ]になると 日[ひ]が 詰[つ]まって、日[ひ]が 暮[く]れるのが 早[はや]くなります。
+  Im Winter werden die Tage kürzer und es wird früher dunkel.
+
+  選手間の差が詰まって、誰が優勝するか分かりません。
+  選手間[せんしゅかん]の 差[さ]が 詰[つ]まって、誰[だれ]が 優勝[ゆうしょう]するか 分[わ]かりません。
+  Der Abstand zwischen den Athleten hat sich verringert, sodass nicht klar ist, wer gewinnen wird.
+
+  息が詰まるような緊張感が会場を包みました。
+  息[いき]が 詰[つ]まるような 緊張感[きんちょうかん]が 会場[かいじょう]を 包[つつ]みました。
+  Eine atemlose Spannung erfüllte den Veranstaltungsort.
+
+  ごみ箱にゴミがぎっしり詰まっていたので、捨てに行きました。
+  ごみ箱[ごみばこ]にゴミがぎっしり 詰[つ]まっていたので、捨[す]てに 行[い]きました。
+  Der Mülleimer war randvoll mit Müll, also ging ich ihn wegwerfen.
+
+  彼女の日程表は予定でびっしり詰まっている。
+  彼女[かのじょ]の 日程表[にっていひょう]は 予定[よてい]でびっしり 詰[つ]まっている。
+  Ihr Terminkalender ist mit Terminen vollgepackt.
+
+  排水管が詰まって、キッチンの水が流れなくなった。
+  排水管[はいすいかん]が 詰[つ]まって、キッチンの 水[みず]が 流[なが]れなくなった。
+  Der Abfluss war verstopft und das Wasser in der Küche floss nicht mehr ab.
+
+  頭の中がいっぱいに詰まって、考えがまとまりません。
+  頭[あたま]の 中[なか]がいっぱいに 詰[つ]まって、考[かんが]えがまとまりません。
+  Mein Kopf ist so voll, dass ich meine Gedanken nicht ordnen kann.
+
+  締め切りが迫っていて、胸が詰まる思いです。
+  締[し]め 切[き]りが 迫[せま]っていて、胸[むね]が 詰[つ]まる 思[おも]いです。
+  Mit der nahenden Deadline fühle ich mich beklommen.
+
+  シャワーの排水口が髪の毛で詰まってしまった。
+  シャワーの 排水口[はいすいぐち]が 髪[かみ]の 毛[け]で 詰[つ]まってしまった。
+  Der Duschabfluss ist mit Haaren verstopft.
+
+  試験の答えが分からず、返答に詰まってしまった。
+  試験[しけん]の 答[こた]えが 分[わ]からず、返答[へんとう]に 詰[つ]まってしまった。
+  Ich wusste die Antwort auf die Prüfungsfrage nicht und war um eine Antwort verlegen.
+
+  部屋にものがぎっしり詰まっていて、動く場所がない。
+  部屋[へや]にものがぎっしり 詰[つ]まっていて、動[うご]く 場所[ばしょ]がない。
+  Das Zimmer ist so vollgestopft mit Sachen, dass es keinen Platz zum Bewegen gibt.
+
+  寒くなると鼻が詰まりやすくなります。
+  寒[さむ]くなると 鼻[はな]が 詰[つ]まりやすくなります。
+  Wenn es kalt wird, verstopft die Nase leichter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

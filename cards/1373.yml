@@ -2,21 +2,101 @@ Rang: 1373
 Lemma: 要求
 Lesung: ようきゅう
 Alternativschreibweisen: ''
-Definition: fordern, anfordern, beanspruchen
+Definition: Forderung; Anforderung
 Extra: （する）
 Wortart: n, vt
 Lesung mit Tonhöhe: .^^^^
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 要求する・要求した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そんな要求にはこたえられない。
   そんな 要求[ようきゅう]にはこたえられない。
-  Ich kann einer solchen Forderung nicht nachkommen.
+  Solch einer Forderung kann ich nicht nachkommen.
+
+  労働組合は賃上げ要求書を提出した。
+  労働組合[ろうどうくみあい]は 賃上[ちんあ]げ 要求書[ようきゅうしょ]を 提出[ていしゅつ]した。
+  Die Gewerkschaft reichte ein Schreiben mit Lohnforderungen ein.
+
+  彼らの要求水準は非常に高い。
+  彼[かれ]らの 要求水準[ようきゅうすいじゅん]は 非常[ひじょう]に 高[たか]い。
+  Ihr Anforderungsniveau ist sehr hoch.
+
+  あつかましい要求を突きつけられた。
+  あつかましい 要求[ようきゅう]を 突[つ]きつけられた。
+  Mir wurde eine unverschämte Forderung gestellt.
+
+  経済的要求に応えるのは難しい。
+  経済的[けいざいてき] 要求[ようきゅう]に 応[こた]えるのは 難[むずか]しい。
+  Es ist schwierig, den wirtschaftlichen Anforderungen gerecht zu werden.
+
+  会社は従業員の要求に応じた。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 要求[ようきゅう]に 応[おう]じた。
+  Das Unternehmen kam den Forderungen der Angestellten nach.
+
+  彼らの要求をはねつけるわけにはいかない。
+  彼[かれ]らの 要求[ようきゅう]をはねつけるわけにはいかない。
+  Wir können ihre Forderungen nicht einfach zurückweisen.
+
+  顧客の要求を充足するよう努めている。
+  顧客[こきゃく]の 要求[ようきゅう]を 充足[じゅうそく]するよう 努[つと]めている。
+  Wir bemühen uns, den Anforderungen der Kunden gerecht zu werden.
+
+  公使の要求は直ちに朝議の容るるところとなった。
+  公使[こうし]の 要求[ようきゅう]は 直[ただ]ちに 朝議[ちょうぎ]の 容[い]るるところとなった。
+  Die Forderungen des Gesandten wurden von der Regierung sofort akzeptiert.
+
+  相手が何を求めているのか、分り次第、すぐにも要求どおりの役を演じこなせるように。
+  相手[あいて]が 何[なに]を 求[もと]めているのか、分[わ]り 次第[しだい]、すぐにも 要求[ようきゅう]どおりの 役[やく]を 演[えん]じこなせるように。
+  Ich muss, sobald klar ist, was der Gegenüber will, sofort die geforderte Rolle spielen können.
+
+  「これじゃまだ足りないっていうのか？ まったくいまどきの子どもときたら、やたらと要求が高いんだから！」
+  「これじゃまだ 足[た]りないっていうのか？ まったくいまどきの 子[こ]どもときたら、やたらと 要求[ようきゅう]が 高[たか]いんだから！」
+  "Du bist immer noch nicht zufrieden? Ihr heutigen Kinder seid aber wirklich anspruchsvoll!"
+
+  労働者たちは賃上げを要求している。
+  労働者[ろうどうしゃ]たちは 賃上[ちんあ]げを 要求[ようきゅう]している。
+  Die Arbeiter fordern eine Lohnerhöhung.
+
+  この仕事は高度な技巧を要求する。
+  この 仕事[しごと]は 高度[こうど]な 技巧[ぎこう]を 要求[ようきゅう]する。
+  Diese Arbeit erfordert eine hochentwickelte Technik.
+
+  上司が不可能なことを要求してくる。
+  上司[じょうし]が 不可能[ふかのう]なことを 要求[ようきゅう]してくる。
+  Mein Vorgesetzter verlangt Unmögliches von mir.
+
+  国民はその権利として生活を安固にすべき政治を要求することができる。
+  国民[こくみん]はその 権利[けんり]として 生活[せいかつ]を 安固[あんこ]にすべき 政治[せいじ]を 要求[ようきゅう]することができる。
+  Das Volk hat das Recht, eine Politik zu fordern, die ihre Lebensgrundlagen sichert.
+
+  身の安全の保証を要求している彼の声も耳に入りました。
+  身[み]の 安全[あんぜん]の 保証[ほしょう]を 要求[ようきゅう]している 彼[かれ]の 声[こえ]も 耳[みみ]に 入[はい]りました。
+  Ich hörte auch seine Stimme, die Garantien für seine persönliche Sicherheit forderte.
+
+  スポーツや力くらべと殺し合いとでは、別の能力が要求されるのである。
+  スポーツや 力[ちから]くらべと 殺[ころ]し 合[あ]いとでは、別[べつ]の 能力[のうりょく]が 要求[ようきゅう]されるのである。
+  Ein Kampf auf Leben und Tod erfordert andere Fähigkeiten als Sport oder spielerisches Kräftemessen.
+
+  傷を負った人間は間に合わせの繃帯が必ずしも清潔であることを要求しない。
+  傷[きず]を 負[お]った 人間[にんげん]は 間[ま]に 合[あ]わせの 繃帯[ほうたい]が 必[かなら]ずしも 清潔[せいけつ]であることを 要求[ようきゅう]しない。
+  Jemand, der ernstlich verwundet ist, fragt nicht danach, ob der Notverband sauber ist.
+
+  彼女は無理な要求をしてくる。
+  彼女[かのじょ]は 無理[むり]な 要求[ようきゅう]をしてくる。
+  Sie stellt unmögliche Forderungen.
+
+  この新しいシステムは高い処理能力を要求します。
+  この 新[あたら]しいシステムは 高[たか]い 処理能力[しょりのうりょく]を 要求[ようきゅう]します。
+  Dieses neue System erfordert eine hohe Verarbeitungskapazität.
+
+  顧客の要求に迅速に対応することが重要です。
+  顧客[こきゃく]の 要求[ようきゅう]に 迅速[じんそく]に 対応[たいおう]することが 重要[じゅうよう]です。
+  Es ist wichtig, schnell auf die Anforderungen der Kunden zu reagieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

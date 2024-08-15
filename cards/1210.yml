@@ -4,7 +4,7 @@ Lesung: なんとか
 Alternativschreibweisen: ''
 Definition: irgendwie; etwas
 Extra: '' # Nur bei suru-Verben
-Wortart: phr, adv, vi
+Wortart: adv, phr
 Lesung mit Tonhöhe: ''
 Register: ''
 Dispersion: '80'
@@ -15,8 +15,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   何とかして時間までに行きます。
-  何[なん]とかして 時間[じかん]までに 行[い]きます。
-  Ich werde irgendwie rechtzeitig dort ankommen.
+  なんとかして 時間[じかん]までに 行[い]きます。
+  Ich werde es irgendwie schaffen, rechtzeitig dort zu sein.
+
+  彼の名前が何とかだったと思うんですが、思い出せません。
+  彼[かれ]の 名前[なまえ]が 何[なん]とかだったと 思[おも]うんですが、思[おも]い 出[だ]せません。
+  Ich glaube, sein Name war Soundso, aber ich kann mich nicht erinnern.
+
+  何とかという大学を卒業しました。
+  なんとかという 大学[だいがく]を 卒業[そつぎょう]しました。
+  Ich habe an der Soundso-Universität meinen Abschluss gemacht.
+
+  この問題を何とか解決しなければなりません。
+  この 問題[もんだい]を 何[なん]とか 解決[かいけつ]しなければなりません。
+  Wir müssen dieses Problem irgendwie lösen.
+
+  彼女は何とか試験に合格しました。
+  彼女[かのじょ]は 何[なん]とか 試験[しけん]に 合格[ごうかく]しました。
+  Sie hat die Prüfung irgendwie bestanden.
+
+  何とかわかるけど、詳しくは説明できません。
+  なんとかわかるけど、詳[くわ]しくは 説明[せつめい]できません。
+  Ich verstehe es irgendwie, kann es aber nicht im Detail erklären.
+
+  今月の家賃は何とかやりくりして払えました。
+  今月[こんげつ]の 家賃[やちん]は 何[なん]とかやりくりして 払[はら]えました。
+  Ich konnte die Miete dieses Monats irgendwie zusammenkratzen und bezahlen.
+
+  彼は何とかやっていけるみたいです。
+  彼[かれ]は 何[なん]とかやっていけるみたいです。
+  Er scheint irgendwie zurechtzukommen.
+
+  雨が降っていたけど、何とか持ちこたえました。
+  雨[あめ]が 降[ふ]っていたけど、何[なん]とか 持[も]ちこたえました。
+  Es regnete, aber wir haben es irgendwie durchgestanden.
+
+  この状況を何とかしなくてはいけません。
+  この 状況[じょうきょう]を 何[なん]とかしなくてはいけません。
+  Wir müssen etwas unternehmen, um diese Situation zu ändern.
+
+  何とかしてこの問題を解決しましょう。
+  なんとかしてこの 問題[もんだい]を 解決[かいけつ]しましょう。
+  Lass uns irgendwie versuchen, dieses Problem zu lösen.
+
+  彼女は何とかして海外留学の資金を工面しました。
+  彼女[かのじょ]は 何[なん]とかして 海外留学[かいがいりゅうがく]の 資金[しきん]を 工面[くめん]しました。
+  Sie hat es irgendwie geschafft, die Mittel für ihr Auslandsstudium aufzubringen.
+
+  何とかして彼を説得しなければならない。
+  なんとかして 彼[かれ]を 説得[せっとく]しなければならない。
+  Wir müssen ihn irgendwie überzeugen.
+
+  締め切りまでに何とか間に合いそうです。
+  締[し]め 切[き]りまでに 何[なん]とか 間[ま]に 合[あ]いそうです。
+  Es sieht so aus, als würden wir es irgendwie bis zur Deadline schaffen.
+
+  彼は何とか勉強して試験に合格しました。
+  彼[かれ]は 何[なん]とか 勉強[べんきょう]して 試験[しけん]に 合格[ごうかく]しました。
+  Er hat irgendwie gelernt und die Prüfung bestanden.
+
+  この仕事を何とかこなしていきたいと思います。
+  この 仕事[しごと]を 何[なん]とかこなしていきたいと 思[おも]います。
+  Ich möchte diese Arbeit irgendwie bewältigen.
+
+  何とか目標を達成できそうです。
+  なんとか 目標[もくひょう]を 達成[たっせい]できそうです。
+  Es sieht so aus, als könnten wir unser Ziel irgendwie erreichen.
+
+  難しい状況だけど、何とかなるさ。
+  難[むずか]しい 状況[じょうきょう]だけど、何[なん]とかなるさ。
+  Es ist eine schwierige Situation, aber irgendwie wird es schon gehen.
+
+  彼女は何とか自分の夢を実現させました。
+  彼女[かのじょ]は 何[なん]とか 自分[じぶん]の 夢[ゆめ]を 実現[じつげん]させました。
+  Sie hat es irgendwie geschafft, ihren Traum zu verwirklichen.
+
+  何とかして期限内に報告書を仕上げます。
+  なんとかして 期限内[きげんない]に 報告書[ほうこくしょ]を 仕上[しあ]げます。
+  Ich werde den Bericht irgendwie innerhalb der Frist fertigstellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

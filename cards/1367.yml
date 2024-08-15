@@ -2,9 +2,9 @@ Rang: 1367
 Lemma: 最高
 Lesung: さいこう
 Alternativschreibweisen: ''
-Definition: am besten, höchsten
+Definition: höchst(er); best(er); großartig
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Lesung mit Tonhöhe: .^^^
 Register: ''
 Dispersion: '94'
@@ -16,7 +16,91 @@ Konjugation: ''
 Beispielsätze: |-
   私共は世界で最高の技術を使っています。
   私共[わたくしども]は 世界[せかい]で 最高[さいこう]の 技術[ぎじゅつ]を 使[つか]っています。
-  Wir verwenden die beste Technologie der Welt.
+  Wir verwenden die weltweit beste Technologie.
+
+  この会社の最高賃金は業界トップクラスです。
+  この 会社[かいしゃ]の 最高賃金[さいこうちんぎん]は 業界[ぎょうかい]トップクラスです。
+  Der Höchstlohn dieses Unternehmens ist in der Branche führend.
+
+  入札の最高額は予想を大きく上回りました。
+  入札[にゅうさつ]の 最高額[さいこうがく]は 予想[よそう]を 大[おお]きく 上回[うわまわ]りました。
+  Der Höchstbetrag bei der Auktion übertraf die Erwartungen bei weitem.
+
+  彼女は最高学府で経済学を学んでいます。
+  彼女[かのじょ]は 最高学府[さいこうがくふ]で 経済学[けいざいがく]を 学[まな]んでいます。
+  Sie studiert Wirtschaftswissenschaften an einer Eliteuniversität.
+
+  契約書には最高限度額が明記されていました。
+  契約書[けいやくしょ]には 最高限度額[さいこうげんどがく]が 明記[めいき]されていました。
+  Im Vertrag war die Höchstgrenze des Betrags klar angegeben.
+
+  憲法は国の最高法規です。
+  憲法[けんぽう]は 国[くに]の 最高法規[さいこうほうき]です。
+  Die Verfassung ist das oberste Gesetz des Landes.
+
+  政府は食料品の最高価格を設定しました。
+  政府[せいふ]は 食料品[しょくりょうひん]の 最高価格[さいこうかかく]を 設定[せってい]しました。
+  Die Regierung hat Höchstpreise für Lebensmittel festgelegt.
+
+  この犯罪に対する最高刑は終身刑です。
+  この 犯罪[はんざい]に 対[たい]する 最高刑[さいこうけい]は 終身刑[しゅうしんけい]です。
+  Die Höchststrafe für dieses Verbrechen ist lebenslange Haft.
+
+  彼は会社の最高権力者として知られています。
+  彼[かれ]は 会社[かいしゃ]の 最高権力者[さいこうけんりょくしゃ]として 知[し]られています。
+  Er ist als der mächtigste Mann im Unternehmen bekannt.
+
+  これは作家の最高傑作と言われています。
+  これは 作家[さっか]の 最高傑作[さいこうけっさく]と 言[い]われています。
+  Dies wird als das Meisterwerk des Autors bezeichnet.
+
+  この地域の最高気温は40度を超えることもあります。
+  この 地域[ちいき]の 最高気温[さいこうきおん]は40度[ど]を 超[こ]えることもあります。
+  Die Höchsttemperatur in dieser Region kann 40 Grad übersteigen.
+
+  従業員の最高年齢は65歳です。
+  従業員[じゅうぎょういん]の 最高年齢[さいこうねんれい]は65歳[さい]です。
+  Das Höchstalter für Mitarbeiter beträgt 65 Jahre.
+
+  彼は最高責任者として全ての決定に関わっています。
+  彼[かれ]は 最高責任者[さいこうせきにんしゃ]として 全[すべ]ての 決定[けってい]に 関[かか]わっています。
+  Als oberster Verantwortlicher ist er an allen Entscheidungen beteiligt.
+
+  最高首脳会議が来月開催されます。
+  最高首脳会議[さいこうしゅのうかいぎ]が 来月[らいげつ] 開催[かいさい]されます。
+  Der Gipfel der Staatsführer findet nächsten Monat statt.
+
+  この車の最高速度は時速200キロです。
+  この 車[くるま]の 最高速度[さいこうそくど]は 時速[じそく]200キロです。
+  Die Höchstgeschwindigkeit dieses Autos beträgt 200 km/h.
+
+  最高税率は所得に応じて適用されます。
+  最高税率[さいこうぜいりつ]は 所得[しょとく]に 応[おう]じて 適用[てきよう]されます。
+  Der Höchststeuersatz wird je nach Einkommen angewendet.
+
+  参加費は最高で1万円です。
+  参加費[さんかひ]は 最高[さいこう]で1万円[まんえん]です。
+  Die Teilnahmegebühr beträgt maximal 10.000 Yen.
+
+  株価が過去最高を更新しました。
+  株価[かぶか]が 過去最高[かこさいこう]を 更新[こうしん]しました。
+  Der Aktienkurs hat einen neuen Höchststand erreicht.
+
+  この映画は最高に面白かった！
+  この 映画[えいが]は 最高[さいこう]に 面白[おもしろ]かった！
+  Dieser Film war absolut fantastisch!
+
+  彼女の演技は最高に素晴らしかったです。
+  彼女[かのじょ]の 演技[えんぎ]は 最高[さいこう]に 素晴[すば]らしかったです。
+  Ihre schauspielerische Leistung war einfach großartig.
+
+  君と一緒にいると最高の気分だよ。
+  君[きみ]と 一緒[いっしょ]にいると 最高[さいこう]の 気分[きぶん]だよ。
+  Mit dir zusammen zu sein, ist das Beste überhaupt.
+
+  富士山は日本最高の山です。
+  富士山[ふじさん]は 日本最高[にほんさいこう]の 山[やま]です。
+  Der Berg Fuji ist der höchste Berg Japans.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

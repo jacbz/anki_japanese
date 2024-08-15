@@ -2,9 +2,9 @@ Rang: 1363
 Lemma: 注目
 Lesung: ちゅうもく
 Alternativschreibweisen: ''
-Definition: Aufmerksamkeit; beobachten
+Definition: Aufmerksamkeit; beachten
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vt, vi
 Lesung mit Tonhöhe: ..^^^
 Register: ''
 Dispersion: '89'
@@ -15,8 +15,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   政治の問題に注目する人が増えている。
-  政治[せいじ]の 問題[もんだい]に 注目[ちゅうもく]する人が 増[ふ]えている。
-  Die Anzahl der Menschen, die politischen Themen Beachtung schenken, nimmt zu.
+  政治[せいじ]の 問題[もんだい]に 注目[ちゅうもく]する 人[ひと]が 増[ふ]えている。
+  Die Zahl der Menschen, die politische Probleme aufmerksam verfolgen, nimmt zu.
+
+  この新製品は多くの消費者の注目を集めている。
+  この 新[しん]製品[せいひん]は 多[おお]くの 消費者[しょうひしゃ]の 注目[ちゅうもく]を 集[あつ]めている。
+  Dieses neue Produkt zieht die Aufmerksamkeit vieler Verbraucher auf sich.
+
+  彼の演技は観客の注目を惹いた。
+  彼[かれ]の 演技[えんぎ]は 観客[かんきゃく]の 注目[ちゅうもく]を 惹[ひ]いた。
+  Seine Darbietung erregte die Aufmerksamkeit des Publikums.
+
+  注目すべき点がいくつかあります。
+  注目[ちゅうもく]すべき 点[てん]がいくつかあります。
+  Es gibt einige bemerkenswerte Punkte.
+
+  彼女は世間の注目を避けるため、田舎に引っ越した。
+  彼女[かのじょ]は 世間[せけん]の 注目[ちゅうもく]を 避[さ]けるため、田舎[いなか]に 引[ひ]っ 越[こ]した。
+  Um der öffentlichen Aufmerksamkeit zu entgehen, zog sie aufs Land.
+
+  注目！この情報は重要です。
+  注目[ちゅうもく]！この 情報[じょうほう]は 重要[じゅうよう]です。
+  Achtung! Diese Information ist wichtig.
+
+  表紙の色に御注目ください。
+  表紙[ひょうし]の 色[いろ]に 御[ご]注目[ちゅうもく]ください。
+  Bitte achten Sie auf die Farbe des Umschlags.
+
+  そうすれば世間の注目がぼくらの上に集まる。
+  そうすれば 世間[せけん]の 注目[ちゅうもく]がぼくらの 上[うえ]に 集[あつ]まる。
+  Dann werden wir die Aufmerksamkeit der Öffentlichkeit auf uns lenken.
+
+  この発見は注目に値する。
+  この 発見[はっけん]は 注目[ちゅうもく]に 値[あたい]する。
+  Diese Entdeckung ist bemerkenswert.
+
+  彼の行動は警察から注目されている。
+  彼[かれ]の 行動[こうどう]は 警察[けいさつ]から 注目[ちゅうもく]されている。
+  Sein Verhalten steht unter polizeilicher Beobachtung.
+
+  この問題はもっと注目されてよい。
+  この 問題[もんだい]はもっと 注目[ちゅうもく]されてよい。
+  Dieses Problem verdient mehr Aufmerksamkeit.
+
+  入学当初から、私が柏木に注目したのは、理由のないことではない。
+  入学[にゅうがく] 当初[とうしょ]から、私[わたし]が 柏木[かしわぎ]に 注目[ちゅうもく]したのは、理由[りゆう]のないことではない。
+  Es gibt Gründe, warum Kashiwagi von Anfang des Studiums an meine Aufmerksamkeit erregt hat.
+
+  道端に犬の死体があったが、誰も注目しなかった。
+  道端[みちばた]に 犬[いぬ]の 死体[したい]があったが、誰[だれ]も 注目[ちゅうもく]しなかった。
+  Am Straßenrand lag eine tote Hund, aber niemand beachtete sie.
+
+  二人の研究はあまり注目されなかった。
+  二人[ふたり]の 研究[けんきゅう]はあまり 注目[ちゅうもく]されなかった。
+  Die Forschung der beiden fand nicht viel Beachtung.
+
+  「あの子はきっと注目されるようになる」と先生は言った。
+  「あの 子[こ]はきっと 注目[ちゅうもく]されるようになる」と 先生[せんせい]は 言[い]った。
+  "Dieses Kind wird sicher eines Tages Aufmerksamkeit auf sich ziehen", sagte der Lehrer.
+
+  最近の気候変動に注目が集まっている。
+  最近[さいきん]の 気候[きこう]変動[へんどう]に 注目[ちゅうもく]が 集[あつ]まっている。
+  Der jüngste Klimawandel erregt viel Aufmerksamkeit.
+
+  彼女の小説は文学界で注目を集めている。
+  彼女[かのじょ]の 小説[しょうせつ]は 文学界[ぶんがくかい]で 注目[ちゅうもく]を 集[あつ]めている。
+  Ihr Roman findet in der Literaturwelt große Beachtung.
+
+  この問題に注目することは非常に重要だ。
+  この 問題[もんだい]に 注目[ちゅうもく]することは 非常[ひじょう]に 重要[じゅうよう]だ。
+  Es ist sehr wichtig, diese Angelegenheit zu beachten.
+
+  注目度の高いイベントには多くの人が集まる。
+  注目度[ちゅうもくど]の 高[たか]いイベントには 多[おお]くの 人[ひと]が 集[あつ]まる。
+  Zu Veranstaltungen mit hohem Aufmerksamkeitsgrad kommen viele Menschen.
+
+  彼の発言は世間の注目の的となった。
+  彼[かれ]の 発言[はつげん]は 世間[せけん]の 注目[ちゅうもく]の 的[まと]となった。
+  Seine Äußerung wurde zur Zielscheibe des öffentlichen Interesses.
+
+  このプロジェクトの注目点について説明します。
+  このプロジェクトの 注目点[ちゅうもくてん]について 説明[せつめい]します。
+  Ich erkläre die bemerkenswerten Punkte dieses Projekts.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,26 +1,119 @@
 Rang: 1326
 Lemma: 生かす
 Lesung: いかす
-Alternativschreibweisen: ''
-Definition: nutzen; am Leben erhalten
+Alternativschreibweisen: 活かす
+Definition: nutzen; wiederbeleben
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Lesung mit Tonhöhe: .\.
 Register: ''
 Dispersion: '89'
 Ursprung: ''
-Konjugation: ''
+Konjugation: 生かさない・生かした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この貴重な経験を生かすつもりです。
   この 貴重[きちょう]な 経験[けいけん]を 生[い]かすつもりです。
-  Ich beabsichtige, von dieser wertvollen Erfahrung Gebrauch zu machen.
+  Ich beabsichtige, diese wertvolle Erfahrung zu nutzen.
+
+  彼の才能を生かす機会を与えましょう。
+  彼[かれ]の 才能[さいのう]を 生[い]かす 機会[きかい]を 与[あた]えましょう。
+  Lassen Sie uns ihm die Gelegenheit geben, sein Talent zu entfalten.
+
+  廃物を生かして素敵な芸術作品を作りました。
+  廃物[はいぶつ]を 生[い]かして 素敵[すてき]な 芸術作品[げいじゅつさくひん]を 作[つく]りました。
+  Sie hat aus Abfall ein wunderbares Kunstwerk geschaffen.
+
+  戦時中の経験を生かして、平和活動に取り組んでいます。
+  戦時中[せんじちゅう]の 経験[けいけん]を 生[い]かして、平和[へいわ] 活動[かつどう]に 取[と]り 組[く]んでいます。
+  Ich nutze meine Kriegserfahrungen, um mich für den Frieden einzusetzen.
+
+  彼女は料理の腕前を生かして、レストランを開業しました。
+  彼女[かのじょ]は 料理[りょうり]の 腕前[うでまえ]を 生[い]かして、レストランを 開業[かいぎょう]しました。
+  Sie hat ihre Kochkünste genutzt und ein Restaurant eröffnet.
+
+  死んでしまった者を生かすことはできません。
+  死[し]んでしまった 者[もの]を 生[い]かすことはできません。
+  Man kann einen Toten nicht wieder zum Leben erwecken.
+
+  仁右衛門は馬を生かしておいたことを後悔した。
+  仁右衛門[にえもん]は 馬[うま]を 生[い]かしておいたことを 後悔[こうかい]した。
+  Ninemon bereute es, das Pferd am Leben gelassen zu haben.
+
+  敵を生かして帰すわけにはいかない。
+  敵[てき]を 生[い]かして 帰[かえ]すわけにはいかない。
+  Wir können den Feind nicht lebend gehen lassen.
+
+  金を活かして使うことが大切です。
+  金[かね]を 活[い]かして 使[つか]うことが 大切[たいせつ]です。
+  Es ist wichtig, Geld nutzbringend zu verwenden.
+
+  元の味を生かした料理を心がけています。
+  元[もと]の 味[あじ]を 生[い]かした 料理[りょうり]を 心[こころ]がけています。
+  Ich bemühe mich, den ursprünglichen Geschmack in meinen Gerichten zur Geltung zu bringen.
+
+  私の経験を生かして、若い世代に助言をしています。
+  私[わたし]の 経験[けいけん]を 生[い]かして、若[わか]い 世代[せだい]に 助言[じょげん]をしています。
+  Ich nutze meine Erfahrungen, um der jüngeren Generation Ratschläge zu geben.
+
+  この会社は従業員の個性を生かす方針です。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 個性[こせい]を 生[い]かす 方針[ほうしん]です。
+  Dieses Unternehmen hat die Politik, die individuellen Stärken der Mitarbeiter zu nutzen.
+
+  彼は失敗を生かして、次のプロジェクトに臨みました。
+  彼[かれ]は 失敗[しっぱい]を 生[い]かして、次[つぎ]のプロジェクトに 臨[のぞ]みました。
+  Er nutzte seine Fehler, um sich auf das nächste Projekt vorzubereiten.
+
+  環境保護のために、資源を生かす方法を考えましょう。
+  環境保護[かんきょうほご]のために、資源[しげん]を 生[い]かす 方法[ほうほう]を 考[かんが]えましょう。
+  Lasst uns Wege finden, Ressourcen für den Umweltschutz zu nutzen.
+
+  神は我々の罪さえも救いのために生かされるのです。
+  神[かみ]は 我々[われわれ]の 罪[つみ]さえも 救[すく]いのために 生[い]かされるのです。
+  Gott nutzt sogar unsere Sünden zu unserer Erlösung.
+
+  ドイツの製薬技術を生かした製品を開発しました。
+  ドイツの 製薬[せいやく] 技術[ぎじゅつ]を 生[い]かした 製品[せいひん]を 開発[かいはつ]しました。
+  Wir haben ein Produkt entwickelt, das die pharmazeutische Technologie aus Deutschland nutzt.
+
+  彼女は自分の長所を生かせる仕事を探しています。
+  彼女[かのじょ]は 自分[じぶん]の 長所[ちょうしょ]を 生[い]かせる 仕事[しごと]を 探[さが]しています。
+  Sie sucht nach einer Arbeit, bei der sie ihre Stärken einsetzen kann.
+
+  この政策は地域の特性を生かすものです。
+  この 政策[せいさく]は 地域[ちいき]の 特性[とくせい]を 生[い]かすものです。
+  Diese Politik zielt darauf ab, die Besonderheiten der Region zu nutzen.
+
+  彼は自分の語学力を生かして、通訳の仕事を始めました。
+  彼[かれ]は 自分[じぶん]の 語学力[ごがくりょく]を 生[い]かして、通訳[つうやく]の 仕事[しごと]を 始[はじ]めました。
+  Er hat seine Sprachkenntnisse genutzt und eine Karriere als Dolmetscher begonnen.
+
+  私たちは先人の知恵を生かして、新しい解決策を見出しました。
+  私[わたし]たちは 先人[せんじん]の 知恵[ちえ]を 生[い]かして、新[あたら]しい 解決策[かいけつさく]を 見出[みいだ]しました。
+  Wir haben die Weisheit unserer Vorfahren genutzt, um neue Lösungen zu finden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借りていた本を返す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 生かす (いかす) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Etwas oder jemanden wiederbeleben oder ins Leben zurückrufen.</li>
+    <li>Jemanden am Leben lassen oder verschonen.</li>
+    <li>Etwas gut oder zweckmäßig nutzen, einsetzen oder zur Geltung bringen.</li>
+  </ol>
+  <p>Besonders häufig wird es im Sinne von "nutzen" oder "einsetzen" verwendet, oft in Bezug auf Fähigkeiten, Erfahrungen oder Ressourcen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 自分[じぶん]の 経験[けいけん]を 仕事[しごと]に 生[い]かしている。</div>
+    <div class="de spoiler">Er setzt seine Erfahrungen in seiner Arbeit ein.</div>
+  </div>
+  <p>Es kann auch im Sinne von "etwas zur Geltung bringen" verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">この 料理[りょうり]は 野菜[やさい]の 味[あじ]を 生[い]かしています。</div>
+    <div class="de spoiler">Dieses Gericht bringt den Geschmack des Gemüses zur Geltung.</div>
+  </div>
+  <p>In formellen oder geschäftlichen Kontexten wird oft die Kanji-Schreibweise 活かす verwendet, die die gleiche Bedeutung und Aussprache hat.</p>
