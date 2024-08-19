@@ -1,6 +1,6 @@
 function addFurigana(text) {
   return text.replaceAll(
-    /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
+    /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
     (match, kanji, furigana) => {
       return `${
         kanji.startsWith("　") ? "　" : ""

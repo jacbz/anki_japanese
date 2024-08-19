@@ -202,7 +202,7 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
   try {
     const ssmlSentence = sentence
       .replace(
-        /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
+        /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
         (match, kanji, furigana) => {
           return kanji.length <= 2 ? `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)
             // insert a ' between two identical characters
@@ -380,7 +380,7 @@ if (rank >= 1 && rank <= 5000) {
 /**
  * Update notice
  */
-const lastUpdated = new Date("___LAST_UPDATED___");
+const lastUpdated = new Date(___VERSION___);
 const numberOfDaysSince = Math.floor(
   (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
 );
