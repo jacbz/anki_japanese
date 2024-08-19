@@ -1,5 +1,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<div class="furigana">&nbsp;</div>
+<!-- Dummy element to display in the Question field in the Card Manager -->
+<div style="display: none;">{{Lemma}}{{#Lesung}} ({{Lesung}}){{/Lesung}}　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+<div class="furigana" style="visibility: hidden;">
+  {{#Lesung mit Tonhöhen}}<div class="pitch_accent" data-reading="{{Lesung}}">{{Lesung mit Tonhöhen}}</div>{{/Lesung mit Tonhöhen}}
+  {{^Lesung mit Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Lesung mit Tonhöhen}}
+  </div>
 <div id="lemma">{{Lemma}}</div>
 {{#Beispielsätze}}
 <div id="single_sentence" class="tappable">

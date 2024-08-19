@@ -1,3 +1,54 @@
+/**
+ * Pitch accent
+ */
+for (const pitchAccent of document.querySelectorAll(
+  ".pitch_accent[data-reading]"
+)) {
+  const reading =
+    pitchAccent.dataset.reading.length > 0
+      ? pitchAccent.dataset.reading
+      : lemma;
+  const readingCharArr = reading.split("");
+  const pitchAccentCharArr = pitchAccent.textContent.split("");
+
+  if (
+    pitchAccent.textContent.replaceAll("(", "").replaceAll(")", "").length !==
+    readingCharArr.length
+  ) {
+    console.log("Pitch accent notation and reading length mismatch");
+    pitchAccent.innerHTML = readingCharArr.join("");
+    continue;
+  }
+
+  pitchAccent.innerHTML = "";
+  let isUnvoiced = false;
+  while (readingCharArr.length > 0) {
+    const pitch = pitchAccentCharArr.shift();
+    if (pitch === "(") {
+      isUnvoiced = true;
+      continue;
+    }
+    if (pitch === ")") {
+      isUnvoiced = false;
+      continue;
+    }
+
+    const char = readingCharArr.shift();
+    let charClass = "";
+    if (pitch === "^") {
+      charClass = "accent_top";
+    } else if (pitch === "\\") {
+      charClass = "accent_topdown";
+    }
+
+    let newHtml = `<span class="${charClass}">${char}</span>`;
+    if (isUnvoiced) {
+      newHtml = `<span class="unvoiced">${newHtml}</span>`;
+    }
+    pitchAccent.innerHTML += newHtml;
+  }
+}
+
 function addFurigana(text) {
   return text.replaceAll(
     /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
