@@ -49,10 +49,20 @@ for (const pitchAccent of document.querySelectorAll(
   }
 }
 
-function addFurigana(text) {
+function addFurigana(text, kanjiHighlightMap = {}) {
   return text.replaceAll(
     /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
     (match, kanji, furigana) => {
+      const kanjiMatch = Object.keys(kanjiHighlightMap).find((key) => {
+        return kanji.includes(key) ? key : null;
+      });
+      if (kanjiMatch) {
+        const reading = kanjiHighlightMap[kanjiMatch];
+        kanji = kanji.replaceAll(kanjiMatch, `<u>${reading}</u>`);
+        if (furigana === reading) {
+          return kanji;
+        }
+      }
       return `${
         kanji.startsWith("　") ? "　" : ""
       }<ruby><span class="rb">${kanji.trim()}</span><span class="rt">${furigana}</span></ruby>`;

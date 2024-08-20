@@ -460,7 +460,7 @@
 "飼":{"Bedeutung":"halten","On-Lesung":["シ"],"Kun-Lesung":["か"],"Chinesisch":"sì"},
 "民":{"Bedeutung":"Volk","On-Lesung":["ミン"],"Kun-Lesung":["たみ"],"Chinesisch":"mín"},
 "差":{"Bedeutung":"Unterschied","On-Lesung":["サ"],"Kun-Lesung":["さ"],"Chinesisch":"chà"},
-"随":{"Bedeutung":"folgen","On-Lesung":["ズイ"],"Kun-Lesung":["まにま.に","したが.う"],"Chinesisch":"suí"},
+"随":{"Bedeutung":"folgen","On-Lesung":["ズイ"],"Kun-Lesung":["したが","まにま"],"Chinesisch":"suí"},
 "殺":{"Bedeutung":"töten","On-Lesung":["サツ"],"Kun-Lesung":["ころ"],"Chinesisch":"shā"},
 "徴":{"Bedeutung":"Zeichen","On-Lesung":["チョウ"],"Kun-Lesung":[],"Chinesisch":"zhēng"},
 "神":{"Bedeutung":"Gott","On-Lesung":["シン"],"Kun-Lesung":["かみ"],"Chinesisch":"shén"},
@@ -1508,5 +1508,6 @@
 "署":{"Bedeutung":"Büro","On-Lesung":["ショ"],"Kun-Lesung":[],"Chinesisch":"shǔ"},
 "唆":{"Bedeutung":"anstiften","On-Lesung":["サ"],"Kun-Lesung":["そそのか","そそ"],"Chinesisch":"suō"},
 "云":{"Bedeutung":"Wolke","On-Lesung":["ウン"],"Kun-Lesung":["い.う","ここに"],"Chinesisch":"yún"},
-"謂":{"Bedeutung":"nennen","On-Lesung":["イ"],"Kun-Lesung":["い.う","いい","おも.う","いわゆる"],"Chinesisch":"wèi"}
+"謂":{"Bedeutung":"nennen","On-Lesung":["イ"],"Kun-Lesung":["い.う","いい","おも.う","いわゆる"],"Chinesisch":"wèi"},
+"零":{"Bedeutung":"Null","Chinesisch":"líng","On-Lesung":["レイ"],"Kun-Lesung":["こぼ"]}
 }

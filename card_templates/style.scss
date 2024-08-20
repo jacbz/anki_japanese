@@ -635,26 +635,30 @@ u {
   margin-bottom: 0.1em;
   font-family: textbook;
 
-  .pitch_accent > span {
-    height: 1.1em;
-    display: inline-block;
+  .pitch_accent {
+    line-height: 1.1em;
+    
+    > span {
+      height: 1.1em;
+      display: inline-block;
+    }
   }
 
   span.accent_top {
-    padding-top: 0.075em;
-    border-top: solid 0.075em;
+    padding-top: 1.5px;
+    border-top: solid 1.5px;
   }
 
   span:not(.accent_top) + span.accent_top,
   span:not(.accent_top) + span.accent_topdown {
-    border-left: solid #777 0.075em;
+    border-left: solid #777 1.5px;
     border-top-left-radius: 0.25em;
   }
 
   span.accent_topdown {
-    padding-top: 0.075em;
-    border-top: solid #777 0.075em;
-    border-right: solid #777 0.075em;
+    padding-top: 1.5px;
+    border-top: solid #777 1.5px;
+    border-right: solid #777 1.5px;
     border-top-right-radius: 0.25em;
   }
 

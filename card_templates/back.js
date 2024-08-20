@@ -300,8 +300,8 @@ if (conjugation) {
   const conjugationText = conjugation.textContent;
   if (conjugationText.includes("らない") && conjugationText.includes("った")) {
     conjugation.innerHTML = conjugationText
-      .replace(/らない・/g, "<b>ら</b>ない・")
-      .replace(/った$/g, "<b>っ</b>た");
+      .replace(/らない・/g, "<u>ら</u>ない・")
+      .replace(/った$/g, "<u>っ</u>た");
   }
 }
 
