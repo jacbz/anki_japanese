@@ -2,20 +2,100 @@ Rang: 1413
 Lemma: 渡す
 Lesung: わたす
 Tonhöhen: .^^
-Definition: übergeben, überreichen
+Definition: übergeben; überreichen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 渡さない・渡した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は姉にタオルを渡した。
   私[わたし]は 姉[あね]にタオルを 渡[わた]した。
-  Ich habe meiner Schwester das Handtuch übergeben.
+  Ich gab meiner älteren Schwester ein Handtuch.
+
+  新しい橋を渡すことで、二つの村が結ばれた。
+  新[あたら]しい 橋[はし]を 渡[わた]すことで、二[ふた]つの 村[むら]が 結[むす]ばれた。
+  Durch den Bau einer neuen Brücke wurden die zwei Dörfer verbunden.
+
+  船頭さんが私たちを川の向こう岸まで渡してくれた。
+  船頭[せんどう]さんが 私[わたし]たちを 川[かわ]の 向[む]こう 岸[きし]まで 渡[わた]してくれた。
+  Der Fährmann brachte uns zum anderen Ufer des Flusses.
+
+  重要な書類を上司に渡さなければならない。
+  重要[じゅうよう]な 書類[しょるい]を 上司[じょうし]に 渡[わた]さなければならない。
+  Ich muss meinem Vorgesetzten wichtige Dokumente übergeben.
+
+  バトンを次の走者に上手く渡せなかった。
+  バトンを 次[つぎ]の 走者[そうしゃ]に 上手[じょうず]く 渡[わた]せなかった。
+  Ich konnte den Staffelstab nicht gut an den nächsten Läufer übergeben.
+
+  名刺を渡すときは、両手で丁寧に渡すのがマナーです。
+  名刺[めいし]を 渡[わた]すときは、両手[りょうて]で 丁寧[ていねい]に 渡[わた]すのがマナーです。
+  Es gehört zum guten Benehmen, Visitenkarten mit beiden Händen höflich zu überreichen.
+
+  引っ越しの際、鍵を新しい住人に渡した。
+  引[ひ]っ 越[こ]しの 際[さい]、鍵[かぎ]を 新[あたら]しい 住人[じゅうにん]に 渡[わた]した。
+  Beim Umzug übergab ich dem neuen Bewohner die Schlüssel.
+
+  作家は完成した原稿を出版社に渡しました。
+  作家[さっか]は 完成[かんせい]した 原稿[げんこう]を 出版社[しゅっぱんしゃ]に 渡[わた]しました。
+  Der Autor gab das fertige Manuskript beim Verlag ab.
+
+  工場で製品を直接お客様に渡すサービスを始めました。
+  工場[こうじょう]で 製品[せいひん]を 直接[ちょくせつ]お 客様[きゃくさま]に 渡[わた]すサービスを 始[はじ]めました。
+  Wir haben einen Service gestartet, bei dem wir die Produkte direkt ab Werk an die Kunden übergeben.
+
+  両親は家を息子に渡すことにした。
+  両親[りょうしん]は 家[いえ]を 息子[むすこ]に 渡[わた]すことにした。
+  Die Eltern beschlossen, das Haus ihrem Sohn zu übertragen.
+
+  警察は逮捕した容疑者を検察に渡した。
+  警察[けいさつ]は 逮捕[たいほ]した 容疑者[ようぎしゃ]を 検察[けんさつ]に 渡[わた]した。
+  Die Polizei übergab den verhafteten Verdächtigen der Staatsanwaltschaft.
+
+  彼女は私に手紙を渡して、急いで去っていった。
+  彼女[かのじょ]は 私[わたし]に 手紙[てがみ]を 渡[わた]して、急[いそ]いで 去[さ]っていった。
+  Sie gab mir einen Brief und ging eilig fort.
+
+  先生は生徒一人一人にテスト用紙を渡した。
+  先生[せんせい]は 生徒[せいと] 一人一人[ひとりひとり]にテスト 用紙[ようし]を 渡[わた]した。
+  Der Lehrer händigte jedem einzelnen Schüler das Testpapier aus.
+
+  彼は賞金を受け取ると、その半分を慈善団体に渡した。
+  彼[かれ]は 賞金[しょうきん]を 受[う]け 取[と]ると、その 半分[はんぶん]を 慈善団体[じぜんだんたい]に 渡[わた]した。
+  Nachdem er das Preisgeld erhalten hatte, gab er die Hälfte davon an eine wohltätige Organisation.
+
+  母は私に大切な形見の指輪を渡してくれた。
+  母[はは]は 私[わたし]に 大切[たいせつ]な 形見[かたみ]の 指輪[ゆびわ]を 渡[わた]してくれた。
+  Meine Mutter gab mir einen wertvollen Ring als Andenken.
+
+  彼は仕事を後輩に渡して、ゆっくり休暇を楽しんだ。
+  彼[かれ]は 仕事[しごと]を 後輩[こうはい]に 渡[わた]して、ゆっくり 休暇[きゅうか]を 楽[たの]しんだ。
+  Er übergab die Arbeit seinem jüngeren Kollegen und genoss seinen Urlaub in Ruhe.
+
+  社長は新入社員に会社の理念が書かれた冊子を渡した。
+  社長[しゃちょう]は 新入社員[しんにゅうしゃいん]に 会社[かいしゃ]の 理念[りねん]が 書[か]かれた 冊子[さっし]を 渡[わた]した。
+  Der Firmenchef händigte den neuen Mitarbeitern eine Broschüre mit der Unternehmensphilosophie aus.
+
+  彼女は赤ちゃんを優しく抱き上げ、看護師に渡した。
+  彼女[かのじょ]は 赤[あか]ちゃんを 優[やさ]しく 抱[だ]き 上[あ]げ、看護師[かんごし]に 渡[わた]した。
+  Sie hob das Baby sanft hoch und übergab es der Krankenschwester.
+
+  卒業式で校長先生から卒業証書を渡されました。
+  卒業式[そつぎょうしき]で 校長先生[こうちょうせんせい]から 卒業証書[そつぎょうしょうしょ]を 渡[わた]されました。
+  Bei der Abschlussfeier wurde mir vom Schulleiter das Abschlusszeugnis überreicht.
+
+  山頂から谷底まで目を渡すと、息をのむような景色が広がっていた。
+  山頂[さんちょう]から 谷底[たにぞこ]まで 目[め]を 渡[わた]すと、息[いき]をのむような 景色[けしき]が 広[ひろ]がっていた。
+  Als ich meinen Blick vom Berggipfel bis zum Talgrund schweifen ließ, entfaltete sich eine atemberaubende Landschaft.
+
+  彼は社長に辞表を渡し、新しい人生の一歩を踏み出した。
+  彼[かれ]は 社長[しゃちょう]に 辞表[じひょう]を 渡[わた]し、新[あたら]しい 人生[じんせい]の 一歩[いっぽ]を 踏[ふ]み 出[だ]した。
+  Er reichte dem Firmenchef sein Kündigungsschreiben ein und machte den ersten Schritt in ein neues Leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

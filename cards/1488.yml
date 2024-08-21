@@ -2,7 +2,7 @@ Rang: 1488
 Lemma: つい
 Lesung: ''
 Tonhöhen: .^
-Definition: ohne nachzudenken, unbeabsichtigt
+Definition: unwillkürlich; gerade erst
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -14,12 +14,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   つい、笑ってしまった。
-  つい、 笑[わら]ってしまった。
-  Ich habe trotz mir selbst gelacht.
+  つい、笑[わら]ってしまった。
+  Ich musste unwillkürlich lachen.
+
+  つい最近、新しい車を買ったばかりです。
+  つい 最近[さいきん]、新[あたら]しい 車[くるま]を 買[か]ったばかりです。
+  Ich habe erst vor kurzem ein neues Auto gekauft.
+
+  つい先ほど、彼から連絡がありました。
+  つい 先[さき]ほど、彼[かれ]から 連絡[れんらく]がありました。
+  Er hat sich gerade eben bei mir gemeldet.
+
+  その店はつい近くにあります。
+  その 店[みせ]はつい 近[ちか]くにあります。
+  Der Laden ist ganz in der Nähe.
+
+  ついうとうとして、大事な会議に遅刻してしまった。
+  ついうとうとして、大事[だいじ]な 会議[かいぎ]に 遅刻[ちこく]してしまった。
+  Ich bin unversehens eingenickt und habe die wichtige Besprechung verpasst.
+
+  つい言ってはいけないことを口にしてしまった。
+  つい 言[い]ってはいけないことを 口[くち]にしてしまった。
+  Ich habe versehentlich etwas gesagt, was ich nicht hätte sagen sollen.
+
+  その冗談を聞いて、ついにやにやしてしまった。
+  その 冗談[じょうだん]を 聞[き]いて、ついにやにやしてしまった。
+  Als ich den Witz hörte, musste ich unwillkürlich grinsen.
+
+  ついさっきまで晴れていたのに、急に雨が降り出した。
+  ついさっきまで 晴[は]れていたのに、急[きゅう]に 雨[あめ]が 降[ふ]り 出[だ]した。
+  Eben war es noch sonnig, aber plötzlich fing es an zu regnen.
+
+  つい道楽がしたくなって、高価な時計を買ってしまった。
+  つい 道楽[どうらく]がしたくなって、高価[こうか]な 時計[とけい]を 買[か]ってしまった。
+  Ich konnte einfach nicht widerstehen und habe mir eine teure Uhr gekauft.
+
+  疲れていたので、ついうたた寝をしてしまった。
+  疲[つか]れていたので、ついうたた 寝[ね]をしてしまった。
+  Ich war müde und bin unversehens eingenickt.
+
+  つい気が緩んで、ダイエットを破ってしまった。
+  つい 気[き]が 緩[ゆる]んで、ダイエットを 破[やぶ]ってしまった。
+  Ich habe unbewusst nachgegeben und meine Diät gebrochen.
+
+  ついお喋りに夢中になって、時間を忘れてしまった。
+  ついお 喋[しゃべ]りに 夢中[むちゅう]になって、時間[じかん]を 忘[わす]れてしまった。
+  Ich war so in das Gespräch vertieft, dass ich die Zeit völlig vergessen habe.
+
+  つい横道にそれてしまって、本題から外れてしまいました。
+  つい 横道[よこみち]にそれてしまって、本題[ほんだい]から 外[はず]れてしまいました。
+  Ich bin unabsichtlich vom Thema abgeschweift und habe den Hauptpunkt aus den Augen verloren.
+
+  ついカッとなって、後悔するようなことを言ってしまった。
+  ついカッとなって、後悔[こうかい]するようなことを 言[い]ってしまった。
+  Ich bin plötzlich wütend geworden und habe etwas gesagt, was ich jetzt bereue.
+
+  つい先日、久しぶりに旧友と再会しました。
+  つい 先日[せんじつ]、久[ひさ]しぶりに 旧友[きゅうゆう]と 再会[さいかい]しました。
+  Erst neulich habe ich nach langer Zeit einen alten Freund wiedergetroffen.
+
+  つい目の前を通り過ぎたので、思わず声をかけてしまった。
+  つい 目[め]の 前[まえ]を 通[とお]り 過[す]ぎたので、思[おも]わず 声[こえ]をかけてしまった。
+  Er ging direkt vor mir vorbei, da habe ich ihn unwillkürlich angesprochen.
+
+  つい力が入りすぎて、グラスを割ってしまった。
+  つい 力[ちから]が 入[はい]りすぎて、グラスを 割[わ]ってしまった。
+  Ich habe unbeabsichtigt zu viel Kraft angewendet und das Glas zerbrochen.
+
+  ついこの間まで子供だったのに、もう高校生になったんだね。
+  ついこの 間[あいだ]まで 子供[こども]だったのに、もう 高校生[こうこうせい]になったんだね。
+  Es kommt mir vor, als wärst du gerade noch ein Kind gewesen, und jetzt bist du schon ein Oberschüler.
+
+  疲れていたので、つい彼女の言葉に反応してしまった。
+  疲[つか]れていたので、つい 彼女[かのじょ]の 言葉[ことば]に 反応[はんのう]してしまった。
+  Ich war müde und habe unbedacht auf ihre Worte reagiert.
+
+  ついさっきまで晴れていたのに、今は土砂降りだ。
+  ついさっきまで 晴[は]れていたのに、今[いま]は 土砂降[どしゃぶ]りだ。
+  Eben war es noch sonnig, aber jetzt gießt es wie aus Eimern.
+
+  つい手が滑って、大切な花瓶を落としてしまった。
+  つい 手[て]が 滑[すべ]って、大切[たいせつ]な 花瓶[かびん]を 落[お]としてしまった。
+  Meine Hand ist versehentlich ausgerutscht, und ich habe die wertvolle Vase fallen lassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>つい wird verwendet, um auszudrücken, dass etwas unbeabsichtigt, unbewusst oder gerade erst geschehen ist.</p>
+  <div class="examples">
+    <div class="jp">つい 言[い]ってしまった。</div>
+    <div class="de spoiler">Ich habe es versehentlich gesagt.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um einen kurzen zeitlichen oder räumlichen Abstand zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">つい 最近[さいきん]、新[あたら]しい 仕事[しごと]を 始[はじ]めました。</div>
+    <div class="de spoiler">Ich habe erst vor kurzem einen neuen Job angefangen.</div>
+  </div>
+  <p>Oft wird es in Verbindung mit してしまう verwendet, um Bedauern oder Überraschung über eine unbeabsichtigte Handlung auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">疲[つか]れていたので、ついテレビを 見[み]てしまった。</div>
+    <div class="de spoiler">Ich war müde und habe unabsichtlich ferngesehen.</div>
+  </div>

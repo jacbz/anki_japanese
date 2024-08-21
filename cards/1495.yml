@@ -3,12 +3,12 @@ Lemma: 戦う
 Lesung: たたかう
 Tonhöhen: .^^^
 Definition: kämpfen
-Alternativschreibweisen: ''
+Alternativschreibweisen: 闘う
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 戦わない・戦った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,94 @@ Beispielsätze: |-
   彼[かれ]らは 自由[じゆう]のために 戦[たたか]った。
   Sie kämpften für die Freiheit.
 
+  最後まで戦う覚悟ができている。
+  最後[さいご]まで 戦[たたか]う 覚悟[かくご]ができている。
+  Ich bin bereit, bis zum Schluss zu kämpfen.
+
+  チャンピオンは王座をかけて戦うことになった。
+  チャンピオンは 王座[おうざ]をかけて 戦[たたか]うことになった。
+  Der Champion musste um seinen Titel kämpfen.
+
+  正義のために戦う勇気を持とう。
+  正義[せいぎ]のために 戦[たたか]う 勇気[ゆうき]を 持[も]とう。
+  Lass uns den Mut haben, für Gerechtigkeit zu kämpfen.
+
+  彼は己の信念のために戦い続けた。
+  彼[かれ]は 己[おのれ]の 信念[しんねん]のために 戦[たたか]い 続[つづ]けた。
+  Er kämpfte weiterhin für seine eigenen Überzeugungen.
+
+  今度のレースを戦う準備はできていますか。
+  今度[こんど]のレースを 戦[たたか]う 準備[じゅんび]はできていますか。
+  Bist du bereit, das nächste Rennen zu bestreiten?
+
+  戦わずして勝つ方法を見つけた。
+  戦[たたか]わずして 勝[か]つ 方法[ほうほう]を 見[み]つけた。
+  Ich habe einen Weg gefunden, ohne Kampf zu gewinnen.
+
+  家康は秀吉と戦うのは不利だと判断した。
+  家康[いえやす]は 秀吉[ひでよし]と 戦[たたか]うのは 不利[ふり]だと 判断[はんだん]した。
+  Ieyasu entschied, dass es nachteilig wäre, gegen Hideyoshi zu kämpfen.
+
+  戦争中、多くの兵士がジャングルで戦った。
+  戦争中[せんそうちゅう]、多[おお]くの 兵士[へいし]がジャングルで 戦[たたか]った。
+  Während des Krieges kämpften viele Soldaten im Dschungel.
+
+  日本の独立のために戦う決意を固めた。
+  日本[にほん]の 独立[どくりつ]のために 戦[たたか]う 決意[けつい]を 固[かた]めた。
+  Er fasste den Entschluss, für die Unabhängigkeit Japans zu kämpfen.
+
+  電話を切った後、彼女は再び闘う気概を取り戻した。
+  電話[でんわ]を 切[き]った 後[あと]、彼女[かのじょ]は 再[ふたた]び 闘[たたか]う 気概[きがい]を 取[と]り 戻[もど]した。
+  Nachdem sie aufgelegt hatte, gewann sie ihren Kampfgeist zurück.
+
+  困難と戦いながら、目標に向かって進んでいる。
+  困難[こんなん]と 戦[たたか]いながら、目標[もくひょう]に 向[む]かって 進[すす]んでいる。
+  Ich kämpfe mit Schwierigkeiten, während ich auf mein Ziel zusteuere.
+
+  彼は眠気と戦いながら運転を続けた。
+  彼[かれ]は 眠気[ねむけ]と 戦[たたか]いながら 運転[うんてん]を 続[つづ]けた。
+  Er kämpfte gegen die Müdigkeit an, während er weiterfuhr.
+
+  うつ病と闘うために、専門家の助言を求めた。
+  うつ病[うつびょう]と 闘[たたか]うために、専門家[せんもんか]の 助言[じょげん]を 求[もと]めた。
+  Um gegen die Depression zu kämpfen, suchte ich den Rat eines Experten.
+
+  彼は自分の信仰と戦っていたことに気づいた。
+  彼[かれ]は 自分[じぶん]の 信仰[しんこう]と 戦[たたか]っていたことに 気[き]づいた。
+  Er erkannte, dass er gegen seinen eigenen Glauben gekämpft hatte.
+
+  疲労と頭痛と戦いながら、深夜まで勉強を続けた。
+  疲労[ひろう]と 頭痛[ずつう]と 戦[たたか]いながら、深夜[しんや]まで 勉強[べんきょう]を 続[つづ]けた。
+  Ich setzte mein Studium bis spät in die Nacht fort, während ich gegen Erschöpfung und Kopfschmerzen ankämpfte.
+
+  彼女は癌と闘いながら、前向きな姿勢を保っている。
+  彼女[かのじょ]は 癌[がん]と 闘[たたか]いながら、前向[まえむ]きな 姿勢[しせい]を 保[たも]っている。
+  Sie behält eine positive Einstellung bei, während sie gegen den Krebs kämpft.
+
+  選手たちは優勝をかけて熱く戦った。
+  選手[せんしゅ]たちは 優勝[ゆうしょう]をかけて 熱[あつ]く 戦[たたか]った。
+  Die Athleten kämpften leidenschaftlich um den Sieg.
+
+  彼らは生き残りをかけて自然と戦っている。
+  彼[かれ]らは 生[い]き 残[のこ]りをかけて 自然[しぜん]と 戦[たたか]っている。
+  Sie kämpfen um ihr Überleben gegen die Natur.
+
+  私たちは偏見と闘い、平等な社会を目指している。
+  私[わたし]たちは 偏見[へんけん]と 闘[たたか]い、平等[びょうどう]な 社会[しゃかい]を 目指[めざ]している。
+  Wir kämpfen gegen Vorurteile und streben nach einer gleichberechtigten Gesellschaft.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>戦う wird meist für bewaffnete oder sportliche Kämpfe verwendet, während 闘う eher für das Kämpfen um einen Vorteil oder gegen Schwierigkeiten benutzt wird.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 戦場[せんじょう]で 勇敢[ゆうかん]に 戦[たたか]った。</div>
+    <div class="de spoiler">Er kämpfte tapfer auf dem Schlachtfeld.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 病気[びょうき]と 闘[たたか]いながら、仕事[しごと]を 続[つづ]けた。</div>
+    <div class="de spoiler">Sie setzte ihre Arbeit fort, während sie gegen die Krankheit ankämpfte.</div>
+  </div>

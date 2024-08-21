@@ -8,14 +8,90 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 引っ越さない・引っ越した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   来月、東京に引っ越す。
-  来月[らいげつ]、 東京[とうきょう]に 引[ひ]っ 越[こ]す。
-  Ich ziehe nächsten Monat nach Tokio um.
+  来月[らいげつ]、東京[とうきょう]に 引[ひ]っ 越[こ]す。
+  Nächsten Monat ziehe ich nach Tokyo um.
+
+  新しい家に引っ越してから、通勤時間が短くなった。
+  新[あたら]しい 家[いえ]に 引[ひ]っ 越[こ]してから、通勤時間[つうきんじかん]が 短[みじか]くなった。
+  Seit ich in das neue Haus umgezogen bin, ist meine Pendelzeit kürzer geworden.
+
+  郊外へ引っ越す計画を立てています。
+  郊外[こうがい]へ 引[ひ]っ 越[こ]す 計画[けいかく]を 立[た]てています。
+  Ich plane, in einen Vorort umzuziehen.
+
+  引っ越す前に、不要な物を処分しておこう。
+  引[ひ]っ 越[こ]す 前[まえ]に、不要[ふよう]な 物[もの]を 処分[しょぶん]しておこう。
+  Lass uns unnötige Sachen wegwerfen, bevor wir umziehen.
+
+  彼女は来週引っ越すので、荷造りを手伝っています。
+  彼女[かのじょ]は 来週[らいしゅう] 引[ひ]っ 越[こ]すので、荷造[にづく]りを 手伝[てつだ]っています。
+  Sie zieht nächste Woche um, also helfe ich ihr beim Packen.
+
+  引っ越す度に、新しい環境に慣れるのに時間がかかる。
+  引[ひ]っ 越[こ]す 度[たび]に、新[あたら]しい 環境[かんきょう]に 慣[な]れるのに 時間[じかん]がかかる。
+  Jedes Mal, wenn ich umziehe, brauche ich Zeit, um mich an die neue Umgebung zu gewöhnen.
+
+  仕事の都合で、来月引っ越さなければならない。
+  仕事[しごと]の 都合[つごう]で、来月[らいげつ] 引[ひ]っ 越[こ]さなければならない。
+  Aufgrund der Arbeit muss ich nächsten Monat umziehen.
+
+  引っ越す前に、新居の下見をしておくことが大切です。
+  引[ひ]っ 越[こ]す 前[まえ]に、新居[しんきょ]の 下見[したみ]をしておくことが 大切[たいせつ]です。
+  Es ist wichtig, die neue Wohnung vor dem Umzug zu besichtigen.
+
+  友達が引っ越すので、お祝いに観葉植物を贈ろうと思います。
+  友達[ともだち]が 引[ひ]っ 越[こ]すので、お 祝[いわ]いに 観葉植物[かんようしょくぶつ]を 贈[おく]ろうと 思[おも]います。
+  Mein Freund zieht um, also denke ich daran, ihm eine Zimmerpflanze als Geschenk zu geben.
+
+  引っ越した後、近所の人にご挨拶に行くのを忘れずに。
+  引[ひ]っ 越[こ]した 後[あと]、近所[きんじょ]の 人[ひと]にご 挨拶[あいさつ]に 行[い]くのを 忘[わす]れずに。
+  Vergiss nicht, dich nach dem Umzug bei den Nachbarn vorzustellen.
+
+  大学に入学するため、実家から引っ越すことにしました。
+  大学[だいがく]に 入学[にゅうがく]するため、実家[じっか]から 引[ひ]っ 越[こ]すことにしました。
+  Ich habe beschlossen, für mein Studium von zu Hause auszuziehen.
+
+  引っ越しの日程が決まったら、電気やガスの契約変更を忘れずに。
+  引[ひ]っ 越[こ]しの 日程[にってい]が 決[き]まったら、電気[でんき]やガスの 契約変更[けいやくへんこう]を 忘[わす]れずに。
+  Wenn der Umzugstermin feststeht, vergiss nicht, die Verträge für Strom und Gas zu ändern.
+
+  引っ越す理由は、家族が増えたからです。
+  引[ひ]っ 越[こ]す 理由[りゆう]は、家族[かぞく]が 増[ふ]えたからです。
+  Der Grund für unseren Umzug ist, dass unsere Familie gewachsen ist.
+
+  引っ越す度に、不要な物を処分するようにしています。
+  引[ひ]っ 越[こ]す 度[たび]に、不要[ふよう]な 物[もの]を 処分[しょぶん]するようにしています。
+  Bei jedem Umzug versuche ich, unnötige Dinge wegzuwerfen.
+
+  引っ越した直後は、荷物の整理に追われる日々が続きます。
+  引[ひ]っ 越[こ]した 直後[ちょくご]は、荷物[にもつ]の 整理[せいり]に 追[お]われる 日々[ひび]が 続[つづ]きます。
+  Unmittelbar nach dem Umzug verbringt man Tage damit, die Sachen einzuräumen.
+
+  でも、引っ越したいよ、あたし。
+  でも、引[ひ]っ 越[こ]したいよ、あたし。
+  Aber ich möchte lieber umziehen!
+
+  引っ越す時は、大切な物を紛失しないよう注意が必要です。
+  引[ひ]っ 越[こ]す 時[とき]は、大切[たいせつ]な 物[もの]を 紛失[ふんしつ]しないよう 注意[ちゅうい]が 必要[ひつよう]です。
+  Beim Umzug muss man darauf achten, keine wichtigen Sachen zu verlieren.
+
+  引っ越す前に、新居の鍵を受け取るのを忘れずに。
+  引[ひ]っ 越[こ]す 前[まえ]に、新居[しんきょ]の 鍵[かぎ]を 受[う]け 取[と]るのを 忘[わす]れずに。
+  Vergiss nicht, vor dem Umzug die Schlüssel für die neue Wohnung abzuholen.
+
+  引っ越す際は、できるだけ早めに準備を始めるのがコツです。
+  引[ひ]っ 越[こ]す 際[さい]は、できるだけ 早[はや]めに 準備[じゅんび]を 始[はじ]めるのがコツです。
+  Der Trick beim Umziehen ist, so früh wie möglich mit den Vorbereitungen zu beginnen.
+
+  新しい環境に引っ越すことで、気分転換になるかもしれません。
+  新[あたら]しい 環境[かんきょう]に 引[ひ]っ 越[こ]すことで、気分転換[きぶんてんかん]になるかもしれません。
+  Durch den Umzug in eine neue Umgebung könnte sich deine Stimmung verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

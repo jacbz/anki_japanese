@@ -2,7 +2,7 @@ Rang: 1564
 Lemma: 担当
 Lesung: たんとう
 Tonhöhen: .^^^
-Definition: verantwortlich sein für
+Definition: zuständig sein für; Zuständigkeit
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   田中先生が私のクラスを担当している。
-  田中[たなか] 先生[せんせい]が 私[わたし]のクラスを 担当[たんとう]している。
-  Frau Tanaka ist für meine Klasse verantwortlich.
+  田中[たなか]先生[せんせい]が 私[わたし]のクラスを 担当[たんとう]している。
+  Herr Tanaka ist für meine Klasse zuständig.
+
+  誰が新しいプロジェクトを担当するか決まっていない。
+  誰[だれ]が 新[あたら]しいプロジェクトを 担当[たんとう]するか 決[き]まっていない。
+  Es steht noch nicht fest, wer für das neue Projekt zuständig sein wird.
+
+  彼女は人事部門を担当している。
+  彼女[かのじょ]は 人事部門[じんじぶもん]を 担当[たんとう]している。
+  Sie ist für die Personalabteilung verantwortlich.
+
+  担当の先生に相談してみてください。
+  担当[たんとう]の 先生[せんせい]に 相談[そうだん]してみてください。
+  Bitte wenden Sie sich an den zuständigen Lehrer.
+
+  彼は販売担当の重役だ。
+  彼[かれ]は 販売[はんばい]担当[たんとう]の 重役[じゅうやく]だ。
+  Er ist der für den Vertrieb zuständige Direktor.
+
+  この患者の担当医は山田先生です。
+  この 患者[かんじゃ]の 担当医[たんとうい]は 山田[やまだ]先生[せんせい]です。
+  Der behandelnde Arzt dieses Patienten ist Dr. Yamada.
+
+  新入社員の教育を担当することになった。
+  新入社員[しんにゅうしゃいん]の 教育[きょういく]を 担当[たんとう]することになった。
+  Ich wurde damit beauftragt, die Ausbildung der neuen Mitarbeiter zu übernehmen.
+
+  彼女は欧州市場の担当者として働いている。
+  彼女[かのじょ]は 欧州市場[おうしゅうしじょう]の 担当者[たんとうしゃ]として 働[はたら]いている。
+  Sie arbeitet als Verantwortliche für den europäischen Markt.
+
+  担当範囲を明確にしておく必要がある。
+  担当[たんとう]範囲[はんい]を 明確[めいかく]にしておく 必要[ひつよう]がある。
+  Es ist notwendig, den Zuständigkeitsbereich klar abzugrenzen.
+
+  誰がこの仕事の担当になるか話し合おう。
+  誰[だれ]がこの 仕事[しごと]の 担当[たんとう]になるか 話[はな]し 合[あ]おう。
+  Lass uns besprechen, wer für diese Aufgabe zuständig sein wird.
+
+  担当外の仕事は引き受けないようにしている。
+  担当[たんとう]外[がい]の 仕事[しごと]は 引[ひ]き 受[う]けないようにしている。
+  Ich versuche, keine Arbeiten zu übernehmen, die außerhalb meines Zuständigkeitsbereichs liegen.
+
+  彼は数学を担当する教師だ。
+  彼[かれ]は 数学[すうがく]を 担当[たんとう]する 教師[きょうし]だ。
+  Er ist der für Mathematik zuständige Lehrer.
+
+  この部署の担当業務を説明してください。
+  この 部署[ぶしょ]の 担当[たんとう]業務[ぎょうむ]を 説明[せつめい]してください。
+  Bitte erklären Sie die Aufgaben, für die diese Abteilung zuständig ist.
+
+  彼女に会計を担当させることにした。
+  彼女[かのじょ]に 会計[かいけい]を 担当[たんとう]させることにした。
+  Wir haben beschlossen, ihr die Verantwortung für die Buchhaltung zu übertragen.
+
+  担当の秘書に予定を確認してもらいました。
+  担当[たんとう]の 秘書[ひしょ]に 予定[よてい]を 確認[かくにん]してもらいました。
+  Ich habe die zuständige Sekretärin gebeten, den Terminplan zu überprüfen.
+
+  スポーツ担当の記者が試合の取材に行った。
+  スポーツ 担当[たんとう]の 記者[きしゃ]が 試合[しあい]の 取材[しゅざい]に 行[い]った。
+  Der für Sport zuständige Reporter ging zur Berichterstattung über das Spiel.
+
+  担当者会議で新しいプロジェクトについて話し合った。
+  担当者[たんとうしゃ]会議[かいぎ]で 新[あたら]しいプロジェクトについて 話[はな]し 合[あ]った。
+  In der Besprechung der Zuständigen wurde über das neue Projekt diskutiert.
+
+  彼は長年にわたり人事を担当してきた。
+  彼[かれ]は 長年[ながねん]にわたり 人事[じんじ]を 担当[たんとう]してきた。
+  Er war viele Jahre lang für Personalangelegenheiten zuständig.
+
+  この案件の担当者を至急決める必要があります。
+  この 案件[あんけん]の 担当者[たんとうしゃ]を 至急[しきゅう]決[き]める 必要[ひつよう]があります。
+  Wir müssen dringend einen Verantwortlichen für dieses Projekt bestimmen.
+
+  担当の公務員に連絡を取ってください。
+  担当[たんとう]の 公務員[こうむいん]に 連絡[れんらく]を 取[と]ってください。
+  Bitte setzen Sie sich mit dem zuständigen Beamten in Verbindung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1471
 Lemma: 仕様
 Lesung: しよう
 Tonhöhen: .^^
-Definition: Stil, Spezifikation, Methode
+Definition: Art und Weise; Spezifikation
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この車は日本の仕様に合わせて作られた。
-  この 車[くるま]は 日本[にっぽん]の 仕様[しよう]に 合[あ]わせて 作[つく]られた。
+  この 車[くるま]は 日本[にほん]の 仕様[しよう]に 合[あ]わせて 作[つく]られた。
   Dieses Auto wurde nach japanischen Spezifikationen hergestellt.
+
+  プロジェクトの仕様書を作成する必要があります。
+  プロジェクトの 仕様書[しようしょ]を 作成[さくせい]する 必要[ひつよう]があります。
+  Wir müssen eine Spezifikation für das Projekt erstellen.
+
+  仕様がないので、この方法で進めましょう。
+  仕様[しよう]がないので、この 方法[ほうほう]で 進[すす]めましょう。
+  Es gibt keine andere Möglichkeit, also lasst uns auf diese Weise fortfahren.
+
+  新製品の仕様書きを担当することになりました。
+  新製品[しんせいひん]の 仕様書[しようがき]きを 担当[たんとう]することになりました。
+  Ich wurde beauftragt, die Spezifikationen für das neue Produkt zu schreiben.
+
+  ソフトウェアの仕様変更により、開発スケジュールが遅れています。
+  ソフトウェアの 仕様変更[しようへんこう]により、開発[かいはつ]スケジュールが 遅[おく]れています。
+  Aufgrund von Änderungen in den Softwarespezifikationen verzögert sich der Entwicklungszeitplan.
+
+  仕様書に記載されている内容を確認してください。
+  仕様書[しようしょ]に 記載[きさい]されている 内容[ないよう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie den Inhalt, der in den Spezifikationen aufgeführt ist.
+
+  この仕様では顧客の要望を満たせないかもしれません。
+  この 仕様[しよう]では 顧客[こきゃく]の 要望[ようぼう]を 満[み]たせないかもしれません。
+  Mit diesen Spezifikationen können wir möglicherweise die Wünsche des Kunden nicht erfüllen.
+
+  仕様がないから、諦めるしかない。
+  仕様[しよう]がないから、諦[あきら]めるしかない。
+  Es gibt keine andere Möglichkeit, wir müssen aufgeben.
+
+  寒冷地仕様の車は、厳しい冬の条件下でも性能を発揮します。
+  寒冷地仕様[かんれいちしよう]の 車[くるま]は、厳[きび]しい 冬[ふゆ]の 条件下[じょうけんか]でも 性能[せいのう]を 発揮[はっき]します。
+  Fahrzeuge mit Kaltgebiet-Spezifikationen liefern auch unter harten Winterbedingungen gute Leistungen.
+
+  仕様を変える前に、上司の承認を得る必要があります。
+  仕様[しよう]を 変[か]える 前[まえ]に、上司[じょうし]の 承認[しょうにん]を 得[え]る 必要[ひつよう]があります。
+  Bevor wir die Spezifikationen ändern, müssen wir die Genehmigung unseres Vorgesetzten einholen.
+
+  この問題を解決する仕様がない。
+  この 問題[もんだい]を 解決[かいけつ]する 仕様[しよう]がない。
+  Es gibt keine Möglichkeit, dieses Problem zu lösen.
+
+  仕様書の内容を全員で確認し、合意を得ました。
+  仕様書[しようしょ]の 内容[ないよう]を 全員[ぜんいん]で 確認[かくにん]し、合意[ごうい]を 得[え]ました。
+  Wir haben den Inhalt der Spezifikationen mit allen überprüft und eine Einigung erzielt.
+
+  この製品は海外仕様なので、日本では使えません。
+  この 製品[せいひん]は 海外仕様[かいがいしよう]なので、日本[にほん]では 使[つか]えません。
+  Dieses Produkt hat ausländische Spezifikationen und kann in Japan nicht verwendet werden.
+
+  仕様がないなら、別の方法を考えましょう。
+  仕様[しよう]がないなら、別[べつ]の 方法[ほうほう]を 考[かんが]えましょう。
+  Wenn es keine Möglichkeit gibt, lasst uns eine alternative Methode überlegen.
+
+  新しい仕様に基づいて、システムを再設計する必要があります。
+  新[あたら]しい 仕様[しよう]に 基[もと]づいて、システムを 再設計[さいせっけい]する 必要[ひつよう]があります。
+  Basierend auf den neuen Spezifikationen müssen wir das System neu entwerfen.
+
+  仕様書きの締め切りが迫っています。
+  仕様書[しようがき]きの 締[し]め 切[き]りが 迫[せま]っています。
+  Die Frist für das Schreiben der Spezifikationen rückt näher.
+
+  顧客の要望に合わせて仕様を調整しました。
+  顧客[こきゃく]の 要望[ようぼう]に 合[あ]わせて 仕様[しよう]を 調整[ちょうせい]しました。
+  Wir haben die Spezifikationen an die Wünsche des Kunden angepasst.
+
+  仕様がないので、現状を受け入れるしかありません。
+  仕様[しよう]がないので、現状[げんじょう]を 受[う]け 入[い]れるしかありません。
+  Es gibt keine andere Möglichkeit, wir müssen die gegenwärtige Situation akzeptieren.
+
+  技術者たちが新製品の仕様について議論しています。
+  技術者[ぎじゅつしゃ]たちが 新製品[しんせいひん]の 仕様[しよう]について 議論[ぎろん]しています。
+  Die Ingenieure diskutieren über die Spezifikationen des neuen Produkts.
+
+  仕様書に記載されていない機能は追加できません。
+  仕様書[しようしょ]に 記載[きさい]されていない 機能[きのう]は 追加[ついか]できません。
+  Funktionen, die nicht in den Spezifikationen aufgeführt sind, können nicht hinzugefügt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1606
 Lemma: 手段
 Lesung: しゅだん
 Tonhöhen: ^\..
-Definition: Mittel
+Definition: Mittel, Methode
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   ことばはコミュニケーションの手段だ。
   ことばはコミュニケーションの 手段[しゅだん]だ。
-  Sprache ist ein Mittel der Kommunikation.
+  Sprache ist ein Mittel zur Kommunikation.
+
+  この問題を解決するための手段を考えましょう。
+  この 問題[もんだい]を 解決[かいけつ]するための 手段[しゅだん]を 考[かんが]えましょう。
+  Lasst uns über Möglichkeiten nachdenken, wie wir dieses Problem lösen können.
+
+  彼らは外交的な手段で紛争を解決しようとしている。
+  彼[かれ]らは 外交的[がいこうてき]な 手段[しゅだん]で 紛争[ふんそう]を 解決[かいけつ]しようとしている。
+  Sie versuchen, den Konflikt auf diplomatischem Wege zu lösen.
+
+  法的手段を講じる前に、話し合いで解決できないか検討してみましょう。
+  法的[ほうてき] 手段[しゅだん]を 講[こう]じる 前[まえ]に、話[はな]し 合[あ]いで 解決[かいけつ]できないか 検討[けんとう]してみましょう。
+  Bevor wir rechtliche Schritte einleiten, sollten wir prüfen, ob wir die Angelegenheit nicht durch Gespräche lösen können.
+
+  新しい製品を開発するために、様々な手段を取っています。
+  新[あたら]しい 製品[せいひん]を 開発[かいはつ]するために、様々[さまざま]な 手段[しゅだん]を 取[と]っています。
+  Wir ergreifen verschiedene Maßnahmen, um ein neues Produkt zu entwickeln.
+
+  この状況を打開するには、手段を変える必要があるかもしれない。
+  この 状況[じょうきょう]を 打開[だかい]するには、手段[しゅだん]を 変[か]える 必要[ひつよう]があるかもしれない。
+  Um diese Situation zu überwinden, müssen wir vielleicht unsere Vorgehensweise ändern.
+
+  彼は目的を達成するためにあらゆる手段を尽くした。
+  彼[かれ]は 目的[もくてき]を 達成[たっせい]するためにあらゆる 手段[しゅだん]を 尽[つ]くした。
+  Er hat alle Mittel ausgeschöpft, um sein Ziel zu erreichen.
+
+  もう手段が尽きてしまった。どうすればいいだろう。
+  もう 手段[しゅだん]が 尽[つ]きてしまった。どうすればいいだろう。
+  Mir sind die Mittel ausgegangen. Was soll ich jetzt tun?
+
+  彼は成功するためには手段を選ばない人だ。
+  彼[かれ]は 成功[せいこう]するためには 手段[しゅだん]を 選[えら]ばない 人[ひと]だ。
+  Er ist jemand, der vor nichts zurückschreckt, um erfolgreich zu sein.
+
+  その政党は、選挙で勝つために不正な手段を使った疑いがある。
+  その 政党[せいとう]は、選挙[せんきょ]で 勝[か]つために 不正[ふせい]な 手段[しゅだん]を 使[つか]った 疑[うたが]いがある。
+  Es besteht der Verdacht, dass die Partei unlautere Mittel eingesetzt hat, um die Wahl zu gewinnen.
+
+  適切な手段を選ぶことが、問題解決の鍵となる。
+  適切[てきせつ]な 手段[しゅだん]を 選[えら]ぶことが、問題解決[もんだいかいけつ]の 鍵[かぎ]となる。
+  Die Wahl der richtigen Methode ist der Schlüssel zur Problemlösung.
+
+  これは最後の手段として取っておきましょう。
+  これは 最後[さいご]の 手段[しゅだん]として 取[と]っておきましょう。
+  Lass uns das als letztes Mittel aufbewahren.
+
+  彼女は卑劣な手段で競争相手を出し抜いた。
+  彼女[かのじょ]は 卑劣[ひれつ]な 手段[しゅだん]で 競争相手[きょうそうあいて]を 出[だ]し 抜[ぬ]いた。
+  Sie hat ihre Konkurrenten mit einem schmutzigen Trick ausgestochen.
+
+  アンフェアな手段を使って勝っても、本当の勝利とは言えない。
+  アンフェアな 手段[しゅだん]を 使[つか]って 勝[か]っても、本当[ほんとう]の 勝利[しょうり]とは 言[い]えない。
+  Selbst wenn man mit unfairen Mitteln gewinnt, kann man es keinen wahren Sieg nennen.
+
+  この非常の手段は、思いどおりの大成功を収めました。
+  この 非常[ひじょう]の 手段[しゅだん]は、思[おも]いどおりの 大成功[だいせいこう]を 収[おさ]めました。
+  Dieses Notfallmittel wurde wie erwartet von großem Erfolg gekrönt.
+
+  彼らを止める手段は何一つない。
+  彼[かれ]らを 止[と]める 手段[しゅだん]は 何一[なにひと]つない。
+  Es gibt kein einziges Mittel, sie aufzuhalten.
+
+  セールスマンのふりをするのは、こういう場合の常套手段だ。
+  セールスマンのふりをするのは、こういう 場合[ばあい]の 常套手段[じょうとうしゅだん]だ。
+  Sich als Verkäufer auszugeben ist in solchen Fällen ein gängiger Trick.
+
+  彼のとった手段は非合法で、危険が高すぎた。
+  彼[かれ]のとった 手段[しゅだん]は 非合法[ひごうほう]で、危険[きけん]が 高[たか]すぎた。
+  Die Methode, die er anwandte, war illegal und viel zu riskant.
+
+  目的は手段を正当化しない。
+  目的[もくてき]は 手段[しゅだん]を 正当化[せいとうか]しない。
+  Der Zweck heiligt nicht die Mittel.
+
+  新しい支払い手段が導入され、取引がより便利になった。
+  新[あたら]しい 支払[しはら]い 手段[しゅだん]が 導入[どうにゅう]され、取引[とりひき]がより 便利[べんり]になった。
+  Mit der Einführung neuer Zahlungsmittel sind Transaktionen bequemer geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

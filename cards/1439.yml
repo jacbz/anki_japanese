@@ -2,7 +2,7 @@ Rang: 1439
 Lemma: 被害
 Lesung: ひがい
 Tonhöhen: \..
-Definition: Schaden, Verletzung
+Definition: Schaden
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   建物には何も被害がなかった。
   建物[たてもの]には 何[なに]も 被害[ひがい]がなかった。
-  Es wurde kein Schaden an einem der Gebäude verursacht.
+  Das Gebäude hat keinerlei Schaden erlitten.
+
+  台風による被害が多くの地域で報告されています。
+  台風[たいふう]による 被害[ひがい]が 多[おお]くの 地域[ちいき]で 報告[ほうこく]されています。
+  In vielen Gebieten werden Schäden durch den Taifun gemeldet.
+
+  被害弁償について話し合いましょう。
+  被害弁償[ひがいべんしょう]について 話[はな]し 合[あ]いましょう。
+  Lassen Sie uns über die Wiedergutmachung für den erlittenen Schaden sprechen.
+
+  詳細な被害分析を行う必要があります。
+  詳細[しょうさい]な 被害分析[ひがいぶんせき]を 行[おこな]う 必要[ひつよう]があります。
+  Wir müssen eine detaillierte Schadensanalyse durchführen.
+
+  被害地の復興には時間がかかるでしょう。
+  被害地[ひがいち]の 復興[ふっこう]には 時間[じかん]がかかるでしょう。
+  Die Wiederherstellung des verwüsteten Gebiets wird wahrscheinlich Zeit in Anspruch nehmen.
+
+  保険会社に被害届けを提出しました。
+  保険会社[ほけんがいしゃ]に 被害届[ひがいとどけ]けを 提出[ていしゅつ]しました。
+  Ich habe bei der Versicherungsgesellschaft eine Schadensmeldung eingereicht.
+
+  健康被害の可能性について調査中です。
+  健康被害[けんこうひがい]の 可能性[かのうせい]について 調査中[ちょうさちゅう]です。
+  Wir untersuchen die Möglichkeit gesundheitlicher Schäden.
+
+  物的被害は軽微でしたが、精神的なダメージは大きかった。
+  物的被害[ぶってきひがい]は 軽微[けいび]でしたが、精神的[せいしんてき]なダメージは 大[おお]きかった。
+  Der Sachschaden war gering, aber der psychische Schaden war groß.
+
+  人的被害が出ないよう、安全対策を強化しています。
+  人的被害[じんてきひがい]が 出[で]ないよう、安全対策[あんぜんたいさく]を 強化[きょうか]しています。
+  Wir verstärken die Sicherheitsmaßnahmen, um Personenschäden zu vermeiden.
+
+  洪水による被害が多かった地域では、復興作業が進んでいます。
+  洪水[こうずい]による 被害[ひがい]が 多[おお]かった 地域[ちいき]では、復興作業[ふっこうさぎょう]が 進[すす]んでいます。
+  In den Gebieten, die stark von Hochwasserschäden betroffen waren, schreiten die Wiederaufbauarbeiten voran.
+
+  被害が少なかったことは不幸中の幸いでした。
+  被害[ひがい]が 少[すく]なかったことは 不幸中[ふこうちゅう]の 幸[さいわ]いでした。
+  Es war ein Glück im Unglück, dass der Schaden gering war.
+
+  自然災害は予測不可能な被害を与えることがあります。
+  自然災害[しぜんさいがい]は 予測不可能[よそくふかのう]な 被害[ひがい]を 与[あた]えることがあります。
+  Naturkatastrophen können unvorhersehbare Schäden verursachen.
+
+  地震による被害を受けた建物の修理が始まりました。
+  地震[じしん]による 被害[ひがい]を 受[う]けた 建物[たてもの]の 修理[しゅうり]が 始[はじ]まりました。
+  Die Reparatur der durch das Erdbeben beschädigten Gebäude hat begonnen.
+
+  台風の被害は沿岸部で特に深刻でした。
+  台風[たいふう]の 被害[ひがい]は 沿岸部[えんがんぶ]で 特[とく]に 深刻[しんこく]でした。
+  Die Schäden durch den Taifun waren besonders in den Küstengebieten schwerwiegend.
+
+  火災による被害を最小限に抑えるため、防火設備を整えています。
+  火災[かさい]による 被害[ひがい]を 最小限[さいしょうげん]に 抑[おさ]えるため、防火設備[ぼうかせつび]を 整[ととの]えています。
+  Um die Schäden durch Feuer zu minimieren, installieren wir Brandschutzausrüstung.
+
+  サイバー攻撃による被害が増加しているため、セキュリティ対策を強化しました。
+  サイバー 攻撃[こうげき]による 被害[ひがい]が 増加[ぞうか]しているため、セキュリティ 対策[たいさく]を 強化[きょうか]しました。
+  Da die Schäden durch Cyberangriffe zunehmen, haben wir unsere Sicherheitsmaßnahmen verstärkt.
+
+  事故による被害の補償について弁護士に相談しています。
+  事故[じこ]による 被害[ひがい]の 補償[ほしょう]について 弁護士[べんごし]に 相談[そうだん]しています。
+  Ich berate mich mit einem Anwalt über die Entschädigung für den durch den Unfall erlittenen Schaden.
+
+  被害状況の調査結果が明日発表されます。
+  被害状況[ひがいじょうきょう]の 調査結果[ちょうさけっか]が 明日[あした] 発表[はっぴょう]されます。
+  Die Ergebnisse der Untersuchung zum Ausmaß der Schäden werden morgen veröffentlicht.
+
+  彼女は詐欺の被害に遭い、多額の金銭を失いました。
+  彼女[かのじょ]は 詐欺[さぎ]の 被害[ひがい]に 遭[あ]い、多額[たがく]の 金銭[きんせん]を 失[うしな]いました。
+  Sie wurde Opfer eines Betrugs und verlor eine große Summe Geld.
+
+  環境汚染による野生動物への被害が懸念されています。
+  環境汚染[かんきょうおせん]による 野生動物[やせいどうぶつ]への 被害[ひがい]が 懸念[けねん]されています。
+  Es gibt Bedenken hinsichtlich der Schäden an Wildtieren durch Umweltverschmutzung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

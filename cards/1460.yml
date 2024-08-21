@@ -2,13 +2,13 @@ Rang: 1460
 Lemma: 下がる
 Lesung: さがる
 Tonhöhen: .\.
-Definition: fallen, sinken, zurücktreten
+Definition: sinken; herabhängen; zurücktreten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 下がらない・下がった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,110 @@ Beispielsätze: |-
   気温[きおん]が 下[さ]がっている。
   Die Temperatur fällt.
 
+  天井から美しいシャンデリアが下がっていた。
+  天井[てんじょう]から 美[うつく]しいシャンデリアが 下[さ]がっていた。
+  Von der Decke hing ein schöner Kronleuchter.
+
+  壁に下がっている絵画は有名な画家の作品だ。
+  壁[かべ]に 下[さ]がっている 絵画[かいが]は 有名[ゆうめい]な 画家[がか]の 作品[さくひん]だ。
+  Das an der Wand hängende Gemälde ist das Werk eines berühmten Malers.
+
+  靴下がずり下がってしまった。直さないと。
+  靴下[くつした]がずり 下[さ]がってしまった。 直[なお]さないと。
+  Meine Socken sind runtergerutscht. Ich muss sie hochziehen.
+
+  エレベーターがゆっくりと下がっていく。
+  エレベーターがゆっくりと 下[さ]がっていく。
+  Der Aufzug fährt langsam nach unten.
+
+  幕が下がると、観客は拍手し始めた。
+  幕[まく]が 下[さ]がると、観客[かんきゃく]は 拍手[はくしゅ]し 始[はじ]めた。
+  Als der Vorhang fiel, begann das Publikum zu applaudieren.
+
+  地震で地盤が下がり、建物に被害が出た。
+  地震[じしん]で 地盤[じばん]が 下[さ]がり、建物[たてもの]に 被害[ひがい]が 出[で]た。
+  Durch das Erdbeben senkte sich der Boden, und es entstanden Schäden an Gebäuden.
+
+  山頂から少し下がったところに避難小屋がある。
+  山頂[さんちょう]から 少[すこ]し 下[さ]がったところに 避難小屋[ひなんごや]がある。
+  Etwas unterhalb des Gipfels befindet sich eine Schutzhütte.
+
+  一歩下がって、全体の状況を見てみよう。
+  一歩[いっぽ] 下[さ]がって、全体[ぜんたい]の 状況[じょうきょう]を 見[み]てみよう。
+  Lass uns einen Schritt zurücktreten und die Gesamtsituation betrachten.
+
+  後ろに下がって建っているビルは古い建築様式だ。
+  後[うし]ろに 下[さ]がって 建[た]っているビルは 古[ふる]い 建築様式[けんちくようしき]だ。
+  Das zurückversetzte Gebäude hat einen alten Architekturstil.
+
+  会議が終わったら、みんな自室に下がった。
+  会議[かいぎ]が 終[お]わったら、みんな 自室[じしつ]に 下[さ]がった。
+  Nachdem die Besprechung beendet war, zogen sich alle in ihre Zimmer zurück.
+
+  京都では「下がる」と言えば南に向かうことを意味する。
+  京都[きょうと]では「下[さ]がる」と 言[い]えば 南[みなみ]に 向[む]かうことを 意味[いみ]する。
+  In Kyoto bedeutet "sagaru" in Richtung Süden zu gehen.
+
+  物価が下がり、生活が少し楽になった。
+  物価[ぶっか]が 下[さ]がり、生活[せいかつ]が 少[すこ]し 楽[らく]になった。
+  Die Preise sind gesunken, und das Leben ist etwas leichter geworden.
+
+  株価が大幅に下がり、投資家たちは心配している。
+  株価[かぶか]が 大幅[おおはば]に 下[さ]がり、投資家[とうしか]たちは 心配[しんぱい]している。
+  Die Aktienkurse sind stark gefallen, und die Investoren sind besorgt.
+
+  気温が急に下がったので、厚着をした方がいいよ。
+  気温[きおん]が 急[きゅう]に 下[さ]がったので、厚着[あつぎ]をした 方[ほう]がいいよ。
+  Da die Temperatur plötzlich gesunken ist, solltest du dich warm anziehen.
+
+  彼の成績が下がったのは、勉強時間が減ったからだ。
+  彼[かれ]の 成績[せいせき]が 下[さ]がったのは、勉強時間[べんきょうじかん]が 減[へ]ったからだ。
+  Seine Noten sind gesunken, weil er weniger Zeit zum Lernen aufgewendet hat.
+
+  チームの順位が下がり、監督は戦略を見直している。
+  チームの 順位[じゅんい]が 下[さ]がり、監督[かんとく]は 戦略[せんりゃく]を 見直[みなお]している。
+  Da die Platzierung des Teams gesunken ist, überdenkt der Trainer seine Strategie.
+
+  時代が下がるにつれて、その習慣は廃れていった。
+  時代[じだい]が 下[さ]がるにつれて、その 習慣[しゅうかん]は 廃[すた]れていった。
+  Im Laufe der Zeit geriet diese Gewohnheit in Vergessenheit.
+
+  頭が下がる思いです。本当にありがとうございました。
+  頭[あたま]が 下[さ]がる 思[おも]いです。本当[ほんとう]にありがとうございました。
+  Ich bin voller Respekt. Vielen herzlichen Dank.
+
+  彼女の前では頭が下がる。彼女の知識の深さには驚かされる。
+  彼女[かのじょ]の 前[まえ]では 頭[あたま]が 下[さ]がる。彼女[かのじょ]の 知識[ちしき]の 深[ふか]さには 驚[おどろ]かされる。
+  Vor ihr fühle ich mich klein. Ich bin erstaunt über die Tiefe ihres Wissens.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>下がる (さがる) hat verschiedene Bedeutungen:</p>
+  <div class="examples">
+    <div class="jp">カーテンが 窓[まど]から 下[さ]がっている。</div>
+    <div class="de spoiler">Der Vorhang hängt vom Fenster herab.</div>
+  </div>
+  <p>Es kann auch eine Abwärtsbewegung oder ein Sinken ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">気温[きおん]が 下[さ]がってきた。</div>
+    <div class="de spoiler">Die Temperatur ist gesunken.</div>
+  </div>
+  <p>In manchen Kontexten bedeutet es "zurücktreten" oder "sich zurückziehen":</p>
+  <div class="examples">
+    <div class="jp">会議[かいぎ]が 終[お]わったら、自室[じしつ]に 下[さ]がってください。</div>
+    <div class="de spoiler">Wenn die Besprechung beendet ist, ziehen Sie sich bitte in Ihr Zimmer zurück.</div>
+  </div>
+  <p>In Kyoto hat es eine spezielle Bedeutung:</p>
+  <div class="examples">
+    <div class="jp">京都[きょうと]では「下[さ]がる」は 南[みなみ]に 行[い]くことを 意味[いみ]する。</div>
+    <div class="de spoiler">In Kyoto bedeutet "sagaru" nach Süden gehen.</div>
+  </div>
+  <p>Es gibt auch idiomatische Ausdrücke wie 頭が下がる (あたまがさがる):</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 努力[どりょく]には 頭[あたま]が 下[さ]がる。</div>
+    <div class="de spoiler">Ich habe großen Respekt vor seinen Bemühungen.</div>
+  </div>

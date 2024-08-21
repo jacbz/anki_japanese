@@ -2,7 +2,7 @@ Rang: 1626
 Lemma: 何でも
 Lesung: なんでも
 Tonhöhen: \...
-Definition: alles; nichts; alles
+Definition: alles; was auch immer; auf jeden Fall
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -15,11 +15,93 @@ Konjugation: ''
 Beispielsätze: |-
   ここには何でもある。
   ここには 何[なん]でもある。
-  Dieser Ort hat alles.
+  Hier gibt es alles.
+
+  彼は何でも知っているように見える。
+  彼[かれ]は 何[なん]でも 知[し]っているように 見[み]える。
+  Er scheint alles zu wissen.
+
+  何でも食べられる子供は親にとって助かります。
+  何[なん]でも 食[た]べられる 子供[こども]は 親[おや]にとって 助[たす]かります。
+  Kinder, die alles essen, sind eine Erleichterung für die Eltern.
+
+  質問があれば何でも聞いてください。
+  質問[しつもん]があれば 何[なん]でも 聞[き]いてください。
+  Wenn Sie Fragen haben, fragen Sie bitte alles.
+
+  何でもいいから、早く決めてください。
+  何[なん]でもいいから、早[はや]く 決[き]めてください。
+  Entscheide dich schnell für irgendetwas, egal was.
+
+  彼女は何でも自分でやりたがる。
+  彼女[かのじょ]は 何[なん]でも 自分[じぶん]でやりたがる。
+  Sie will alles selbst machen.
+
+  この店では何でも修理できるそうだ。
+  この 店[みせ]では 何[なん]でも 修理[しゅうり]できるそうだ。
+  In diesem Geschäft kann man angeblich alles reparieren lassen.
+
+  何でも挑戦することが大切だ。
+  何[なん]でも 挑戦[ちょうせん]することが 大切[たいせつ]だ。
+  Es ist wichtig, alles auszuprobieren.
+
+  彼は何でも冗談にしてしまう。
+  彼[かれ]は 何[なん]でも 冗談[じょうだん]にしてしまう。
+  Er macht aus allem einen Witz.
+
+  何でも話してくれる友達がいて嬉しい。
+  何[なん]でも 話[はな]してくれる 友達[ともだち]がいて 嬉[うれ]しい。
+  Ich bin froh, einen Freund zu haben, der mir alles erzählt.
+
+  この本には何でも書いてある。
+  この 本[ほん]には 何[なん]でも 書[か]いてある。
+  In diesem Buch steht alles.
+
+  何でもできる人材を探しています。
+  何[なん]でもできる 人材[じんざい]を 探[さが]しています。
+  Wir suchen nach Mitarbeitern, die alles können.
+
+  彼女は何でも完璧にやろうとする。
+  彼女[かのじょ]は 何[なん]でも 完璧[かんぺき]にやろうとする。
+  Sie versucht, alles perfekt zu machen.
+
+  何でも試してみる価値はある。
+  何[なん]でも 試[ため]してみる 価値[かち]はある。
+  Es ist wert, alles auszuprobieren.
+
+  この辞書には何でも載っている。
+  この 辞書[じしょ]には 何[なん]でも 載[の]っている。
+  In diesem Wörterbuch steht alles.
+
+  何が何でも、この仕事は今日中に終わらせる。
+  何[なに]が 何[なん]でも、この 仕事[しごと]は 今日中[きょうじゅう]に 終[お]わらせる。
+  Ich werde diese Arbeit auf jeden Fall heute noch beenden.
+
+  何でも自分で作るのが趣味です。
+  何[なん]でも 自分[じぶん]で 作[つく]るのが 趣味[しゅみ]です。
+  Mein Hobby ist es, alles selbst zu machen.
+
+  何でも相談できる先生がいて良かった。
+  何[なん]でも 相談[そうだん]できる 先生[せんせい]がいて 良[よ]かった。
+  Ich bin froh, einen Lehrer zu haben, mit dem ich über alles sprechen kann.
+
+  何でも買える人生は楽しいだろうな。
+  何[なん]でも 買[か]える 人生[じんせい]は 楽[たの]しいだろうな。
+  Ein Leben, in dem man sich alles kaufen kann, muss wohl Spaß machen.
+
+  何でも、彼は海外に引っ越すらしい。
+  何[なん]でも、彼[かれ]は 海外[かいがい]に 引[ひ]っ 越[こ]すらしい。
+  Es heißt, er zieht ins Ausland.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">何でも</span> kann in verschiedenen Kontexten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">何[なん]でも 食[た]べられる 子供[こども]だ。</div>
+    <div class="de spoiler">Es ist ein Kind, das alles isst.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um "auf jeden Fall" oder "unbedingt

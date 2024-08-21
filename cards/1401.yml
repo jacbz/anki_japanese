@@ -2,24 +2,124 @@ Rang: 1401
 Lemma: 継ぐ
 Lesung: つぐ
 Tonhöhen: .^
-Definition: übernehmen, nachfolgen
-Alternativschreibweisen: ''
+Definition: nachfolgen; erben; fortführen
+Alternativschreibweisen: 接ぐ・嗣ぐ
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ↗</>Zeitungen
 Ursprung: ''
-Konjugation: ''
+Konjugation: 継がない・継いだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はお父さんの後を継いで社長になる予定だ。
-  彼[かれ]はお 父[とう]さんの 後[のち]を 継[つ]いで 社長[しゃちょう]になる 予定[よてい]だ。
-  Er wird seinen Vater als Firmenpräsidenten nachfolgen.
+  彼[かれ]はお 父[とう]さんの 後[あと]を 継[つ]いで 社長[しゃちょう]になる 予定[よてい]だ。
+  Er plant, die Nachfolge seines Vaters anzutreten und Firmenchef zu werden.
+
+  長男が家業を継ぐことになった。
+  長男[ちょうなん]が 家業[かぎょう]を 継[つ]ぐことになった。
+  Der älteste Sohn wird das Familienunternehmen übernehmen.
+
+  彼女は祖母から多額の財産を継いだ。
+  彼女[かのじょ]は 祖母[そぼ]から 多額[たがく]の 財産[ざいさん]を 継[つ]いだ。
+  Sie hat ein großes Vermögen von ihrer Großmutter geerbt.
+
+  新しい王が王位を継ぎ、国民に希望を与えた。
+  新[あたら]しい 王[おう]が 王位[おうい]を 継[つ]ぎ、国民[こくみん]に 希望[きぼう]を 与[あた]えた。
+  Der neue König bestieg den Thron und gab dem Volk Hoffnung.
+
+  不肖ながら、宗家の家督を継ぎます。
+  不肖[ふしょう]ながら、宗家[そうけ]の 家督[かとく]を 継[つ]ぎます。
+  Obwohl ich unwürdig bin, werde ich das Erbe des Haupthauses antreten.
+
+  彼は父の遺志を継いで、会社を経営している。
+  彼[かれ]は 父[ちち]の 遺志[いし]を 継[つ]いで、会社[かいしゃ]を 経営[けいえい]している。
+  Er führt die Firma weiter und erfüllt damit den letzten Willen seines Vaters.
+
+  この話は明日に継ぐことにしましょう。
+  この 話[はなし]は 明日[あした]に 継[つ]ぐことにしましょう。
+  Lassen Sie uns dieses Gespräch morgen fortsetzen.
+
+  彼女は母親の仕事を継いで、レストランを経営している。
+  彼女[かのじょ]は 母親[ははおや]の 仕事[しごと]を 継[つ]いで、レストランを 経営[けいえい]している。
+  Sie hat das Geschäft ihrer Mutter übernommen und führt nun das Restaurant.
+
+  古い伝統を継ぎながら、新しい要素も取り入れている。
+  古[ふる]い 伝統[でんとう]を 継[つ]ぎながら、新[あたら]しい 要素[ようそ]も 取[と]り 入[い]れている。
+  Wir führen alte Traditionen fort und integrieren gleichzeitig neue Elemente.
+
+  彼は祖父の遺産を継いで、美術館を開設した。
+  彼[かれ]は 祖父[そふ]の 遺産[いさん]を 継[つ]いで、美術館[びじゅつかん]を 開設[かいせつ]した。
+  Er hat das Erbe seines Großvaters angetreten und ein Kunstmuseum eröffnet.
+
+  この家系は何世代にもわたって医者の職を継いできた。
+  この 家系[かけい]は 何世代[なんせだい]にもわたって 医者[いしゃ]の 職[しょく]を 継[つ]いできた。
+  Diese Familie hat über Generationen hinweg den Arztberuf weitergegeben.
+
+  彼女は父の跡を継いで政治家になった。
+  彼女[かのじょ]は 父[ちち]の 跡[あと]を 継[つ]いで 政治家[せいじか]になった。
+  Sie ist in die Fußstapfen ihres Vaters getreten und Politikerin geworden.
+
+  兄が家業を継がなかったので、私が継ぐことになった。
+  兄[あに]が 家業[かぎょう]を 継[つ]がなかったので、私[わたし]が 継[つ]ぐことになった。
+  Da mein älterer Bruder das Familiengeschäft nicht übernehmen wollte, fiel es mir zu, es weiterzuführen.
+
+  彼は先代の遺志を継いで、会社を成長させた。
+  彼[かれ]は 先代[せんだい]の 遺志[いし]を 継[つ]いで、会社[かいしゃ]を 成長[せいちょう]させた。
+  Er führte den Willen seines Vorgängers fort und brachte das Unternehmen zum Wachstum.
+
+  この神社は代々宮司の家系が継いできている。
+  この 神社[じんじゃ]は 代々[だいだい] 宮司[ぐうじ]の 家系[かけい]が 継[つ]いできている。
+  Dieser Schrein wird seit Generationen von derselben Priesterfamilie geführt.
+
+  彼女は祖母の着物を継いで、大切に着ている。
+  彼女[かのじょ]は 祖母[そぼ]の 着物[きもの]を 継[つ]いで、大切[たいせつ]に 着[き]ている。
+  Sie hat den Kimono ihrer Großmutter geerbt und trägt ihn mit großer Sorgfalt.
+
+  この技術は師匠から弟子へと代々継がれてきた。
+  この 技術[ぎじゅつ]は 師匠[ししょう]から 弟子[でし]へと 代々[だいだい] 継[つ]がれてきた。
+  Diese Technik wurde von Meistern an ihre Schüler über Generationen weitergegeben.
+
+  彼は父の遺産を継いだが、それを社会貢献に使った。
+  彼[かれ]は 父[ちち]の 遺産[いさん]を 継[つ]いだが、それを 社会[しゃかい] 貢献[こうけん]に 使[つか]った。
+  Er erbte das Vermögen seines Vaters, verwendete es aber für wohltätige Zwecke.
+
+  この伝統行事は何百年も継がれてきた。
+  この 伝統[でんとう] 行事[ぎょうじ]は 何百年[なんびゃくねん]も 継[つ]がれてきた。
+  Dieses traditionelle Fest wird seit Hunderten von Jahren fortgeführt.
+
+  彼女は母の料理の腕を継いで、有名なシェフになった。
+  彼女[かのじょ]は 母[はは]の 料理[りょうり]の 腕[うで]を 継[つ]いで、有名[ゆうめい]なシェフになった。
+  Sie hat das Kochtalent ihrer Mutter geerbt und ist zu einer berühmten Köchin geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 継ぐ (つぐ) hat mehrere wichtige Bedeutungen:</p>
+  <ol>
+    <li>Jemandem nachfolgen oder ein Erbe antreten:</li>
+    <div class='examples'>
+      <div class='jp'>父[ちち]の 跡[あと]を 継[つ]ぐ。</div>
+      <div class='de'>In die Fußstapfen des Vaters treten.</div>
+    </div>
+    <li>Etwas fortführen oder weiterführen:</li>
+    <div class='examples'>
+      <div class='jp'>家業[かぎょう]を 継[つ]ぐ。</div>
+      <div class='de'>Das Familiengeschäft weiterführen.</div>
+    </div>
+    <li>Etwas verbinden oder zusammenfügen (in der Schreibweise 接ぐ):</li>
+    <div class='examples'>
+      <div class='jp'>骨[ほね]を 接[つ]ぐ。</div>
+      <div class='de'>Einen Knochen einrenken.</div>
+    </div>
+    <li>Etwas flicken oder ausbessern (ebenfalls 接ぐ):</li>
+    <div class='examples'>
+      <div class='jp'>服[ふく]を 接[つ]ぐ。</div>
+      <div class='de'>Ein Kleidungsstück flicken.</div>
+    </div>
+  </ol>
+  <p>Es ist wichtig, den Kontext zu beachten, um die genaue Bedeutung zu verstehen.</p>

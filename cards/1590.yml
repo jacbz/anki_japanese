@@ -2,13 +2,13 @@ Rang: 1590
 Lemma: 直る
 Lesung: なおる
 Tonhöhen: .\.
-Definition: reparieren; korrigieren; besser werden
+Definition: repariert werden; sich bessern; heilen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 直らない・直った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   車がやっと直った。
   車[くるま]がやっと 直[なお]った。
   Das Auto ist endlich repariert.
+
+  彼女の機嫌が直って、笑顔が戻った。
+  彼女[かのじょ]の 機嫌[きげん]が 直[なお]って、笑顔[えがお]が 戻[もど]った。
+  Ihre Laune hat sich gebessert und ihr Lächeln ist zurückgekehrt.
+
+  長年の悪い癖がようやく直った。
+  長年[ながねん]の 悪[わる]い 癖[くせ]がようやく 直[なお]った。
+  Die jahrelange schlechte Angewohnheit wurde endlich abgelegt.
+
+  レントゲン火傷のような潰瘍は漸く直った。
+  レントゲン 火傷[やけど]のような 潰瘍[かいよう]は 漸[ようや]く 直[なお]った。
+  Die Geschwüre, die Röntgenverbrennungen ähnelten, heilten allmählich ab.
+
+  彼の淋しい気持ちは友人と会っているうちに直っていった。
+  彼[かれ]の 淋[さび]しい 気持[きも]ちは 友人[ゆうじん]と 会[あ]っているうちに 直[なお]っていった。
+  Seine Einsamkeit verschwand allmählich, während er Zeit mit seinem Freund verbrachte.
+
+  首の凝りがなかなか直らない。
+  首[くび]の 凝[こ]りがなかなか 直[なお]らない。
+  Die Verspannung in meinem Nacken will einfach nicht besser werden.
+
+  座に直って話を聞いてください。
+  座[ざ]に 直[なお]って 話[はなし]を 聞[き]いてください。
+  Bitte nehmen Sie Platz und hören Sie der Geschichte zu.
+
+  列車内で空いた席に直った。
+  列車内[れっしゃない]で 空[あ]いた 席[せき]に 直[なお]った。
+  Ich setzte mich im Zug auf einen frei gewordenen Platz.
+
+  彼は昇進して元の地位に直った。
+  彼[かれ]は 昇進[しょうしん]して 元[もと]の 地位[ちい]に 直[なお]った。
+  Er wurde befördert und nahm wieder seine ursprüngliche Position ein.
+
+  風邪が直るまでは無理をしないでください。
+  風邪[かぜ]が 直[なお]るまでは 無理[むり]をしないでください。
+  Bitte überanstrengen Sie sich nicht, bis Ihre Erkältung geheilt ist.
+
+  この時計、直るかな？
+  この 時計[とけい]、直[なお]るかな？
+  Ob diese Uhr wohl repariert werden kann?
+
+  骨折した足がやっと直って、歩けるようになった。
+  骨折[こっせつ]した 足[あし]がやっと 直[なお]って、歩[ある]けるようになった。
+  Mein gebrochenes Bein ist endlich geheilt, und ich kann wieder laufen.
+
+  コンピューターのバグが直って、正常に動作するようになった。
+  コンピューターのバグが 直[なお]って、正常[せいじょう]に 動作[どうさ]するようになった。
+  Der Computerfehler wurde behoben, und es funktioniert jetzt normal.
+
+  彼女の心の傷が少しずつ直っていく様子が見られた。
+  彼女[かのじょ]の 心[こころ]の 傷[きず]が 少[すこ]しずつ 直[なお]っていく 様子[ようす]が 見[み]られた。
+  Man konnte sehen, wie ihre seelischen Wunden langsam heilten.
+
+  壊れたドアがようやく直って、スムーズに開閉できるようになった。
+  壊[こわ]れたドアがようやく 直[なао]って、スムーズに 開閉[かいへい]できるようになった。
+  Die kaputte Tür wurde endlich repariert und lässt sich nun reibungslos öffnen und schließen.
+
+  彼の酒癖が直って、家族との関係が改善された。
+  彼[かれ]の 酒癖[しゅへき]が 直[なお]って、家族[かぞく]との 関係[かんけい]が 改善[かいぜん]された。
+  Seine Trinkgewohnheiten haben sich gebessert, und die Beziehung zu seiner Familie hat sich verbessert.
+
+  長年の不眠症がようやく直って、ぐっすり眠れるようになった。
+  長年[ながねん]の 不眠症[ふみんしょう]がようやく 直[なお]って、ぐっすり 眠[ねむ]れるようになった。
+  Meine jahrelange Schlaflosigkeit hat sich endlich gebessert, und ich kann jetzt tief schlafen.
+
+  彼の偏見が直って、より開かれた考え方ができるようになった。
+  彼[かれ]の 偏見[へんけん]が 直[なお]って、より 開[ひら]かれた 考[かんが]え 方[かた]ができるようになった。
+  Seine Vorurteile haben sich gelegt, und er konnte eine offenere Denkweise entwickeln.
+
+  この問題が直れば、プロジェクトを再開できるだろう。
+  この 問題[もんだい]が 直[なお]れば、プロジェクトを 再開[さいかい]できるだろう。
+  Wenn dieses Problem gelöst ist, können wir das Projekt wahrscheinlich wieder aufnehmen.
+
+  彼女の視力が手術で直って、メガネが必要なくなった。
+  彼女[かのじょ]の 視力[しりょく]が 手術[しゅじゅつ]で 直[なお]って、メガネが 必要[ひつよう]なくなった。
+  Ihre Sehkraft wurde durch die Operation korrigiert, und sie braucht keine Brille mehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

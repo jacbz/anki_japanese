@@ -2,13 +2,13 @@ Rang: 1528
 Lemma: 伺う
 Lesung: うかがう
 Tonhöhen: .^^^
-Definition: fragen, sich erkundigen (bescheiden)
+Definition: fragen, sich erkundigen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Register: ↗</>Verwaltungssprache
 Ursprung: ''
-Konjugation: ''
+Konjugation: 伺わない・伺った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,100 @@ Beispielsätze: |-
   教授[きょうじゅ]の 研究[けんきゅう]について 伺[うかが]う。
   Ich werde den Professor höflich nach seiner Forschung fragen.
 
+  お客様のご意見を伺いたいのですが。
+  お 客様[きゃくさま]のご 意見[いけん]を 伺[うかが]いたいのですが。
+  Ich würde gerne Ihre Meinung hören, wenn ich darf.
+
+  新しい住所を伺ってもよろしいでしょうか。
+  新[あたら]しい 住所[じゅうしょ]を 伺[うかが]ってもよろしいでしょうか。
+  Dürfte ich höflich nach Ihrer neuen Adresse fragen?
+
+  ご高見を伺いたい。
+  ご 高見[こうけん]を 伺[うかが]いたい。
+  Ich bitte Sie um Ihre geschätzte Meinung.
+
+  先日の会議の内容について伺いたいのですが。
+  先日[せんじつ]の 会議[かいぎ]の 内容[ないよう]について 伺[うかが]いたいのですが。
+  Ich würde gerne etwas über den Inhalt der letzten Sitzung erfahren.
+
+  部長にスケジュールを伺う。
+  部長[ぶちょう]にスケジュールを 伺[うかが]う。
+  Ich frage den Abteilungsleiter höflich nach seinem Zeitplan.
+
+  お客様のご要望を伺います。
+  お 客様[きゃくさま]のご 要望[ようぼう]を 伺[うかが]います。
+  Ich höre mir die Wünsche des Kunden an.
+
+  社長の方針について伺いたいのですが。
+  社長[しゃちょう]の 方針[ほうしん]について 伺[うかが]いたいのですが。
+  Ich würde gerne etwas über die Richtlinien des Präsidenten erfahren.
+
+  先生のご意見を伺えますか。
+  先生[せんせい]のご 意見[いけん]を 伺[うかが]えますか。
+  Darf ich Sie nach Ihrer Meinung fragen, Herr Lehrer?
+
+  噂を伺ったのですが、本当でしょうか。
+  噂[うわさ]を 伺[うかが]ったのですが、本当[ほんとう]でしょうか。
+  Ich habe ein Gerücht gehört, ist es wahr?
+
+  お客様のご都合を伺います。
+  お 客様[きゃくさま]のご 都合[つごう]を 伺[うかが]います。
+  Ich erkundige mich nach Ihren Verfügbarkeiten.
+
+  後日改めて伺います。
+  後日[ごじつ] 改[あらた]めて 伺[うかが]います。
+  Ich werde ein anderes Mal wieder vorbeischauen.
+
+  明日、お宅に伺ってもよろしいですか。
+  明日[あした]、お 宅[たく]に 伺[うかが]ってもよろしいですか。
+  Wäre es in Ordnung, wenn ich Sie morgen besuche?
+
+  ご挨拶に伺いたいのですが。
+  ご 挨拶[あいさつ]に 伺[うかが]いたいのですが。
+  Ich würde gerne einen Anstandsbesuch machen.
+
+  来週、会社に伺う予定です。
+  来週[らいしゅう]、会社[かいしゃ]に 伺[うかが]う 予定[よてい]です。
+  Ich habe vor, nächste Woche Ihr Unternehmen zu besuchen.
+
+  お客様のご希望の日程を伺います。
+  お 客様[きゃくさま]のご 希望[きぼう]の 日程[にってい]を 伺[うかが]います。
+  Ich erkundige mich nach Ihrem gewünschten Termin.
+
+  先輩の経験談を伺いたいです。
+  先輩[せんぱい]の 経験談[けいけんだん]を 伺[うかが]いたいです。
+  Ich würde gerne von Ihren Erfahrungen hören, Senpai.
+
+  お客様のご要望を詳しく伺います。
+  お 客様[きゃくさま]のご 要望[ようぼう]を 詳[くわ]しく 伺[うかが]います。
+  Ich höre mir die Wünsche des Kunden im Detail an.
+
+  新しい提案について伺いたいのですが。
+  新[あたら]しい 提案[ていあん]について 伺[うかが]いたいのですが。
+  Ich würde gerne etwas über den neuen Vorschlag erfahren.
+
+  お客様のご意見を伺い、改善に努めます。
+  お 客様[きゃくさま]のご 意見[いけん]を 伺[うかが]い、改善[かいぜん]に 努[つと]めます。
+  Wir hören uns Ihre Meinung an und bemühen uns um Verbesserungen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>うかがう ist eine höfliche Form, um nach Informationen zu fragen oder jemanden zu besuchen. Es wird verwendet, wenn man mit Respektspersonen oder Kunden spricht.</p>
+  <div class="examples">
+    <div class="jp">お 客様[きゃくさま]のご 意見[いけん]を 伺[うかが]いたいと 思[おも]います。</div>
+    <div class="de spoiler">Ich würde gerne Ihre Meinung hören.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um höflich auszudrücken, dass man etwas gehört oder erfahren hat:</p>
+  <div class="examples">
+    <div class="jp">噂[うわさ]を 伺[うかが]いました。</div>
+    <div class="de spoiler">Ich habe ein Gerücht gehört.</div>
+  </div>
+  <p>Beim Besuch einer Person oder eines Ortes:</p>
+  <div class="examples">
+    <div class="jp">明日[あした]、お 宅[たく]に 伺[うかが]います。</div>
+    <div class="de spoiler">Ich werde Sie morgen besuchen.</div>
+  </div>

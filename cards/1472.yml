@@ -2,10 +2,10 @@ Rang: 1472
 Lemma: 最大
 Lesung: さいだい
 Tonhöhen: .^^^
-Definition: größte, größter
+Definition: größt, maximal
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -17,9 +17,105 @@ Beispielsätze: |-
   結婚[けっこん]は 人生[じんせい]で 最大[さいだい]のイベントと 言[い]われている。
   Die Heirat gilt als das größte Ereignis im Leben eines Menschen.
 
+  この地域では台風が最大の自然災害だ。
+  この 地域[ちいき]では 台風[たいふう]が 最大[さいだい]の 自然災害[しぜんさいがい]だ。
+  In dieser Region sind Taifune die größte Naturkatastrophe.
+
+  彼は最大限の努力を払って試験に臨んだ。
+  彼[かれ]は 最大限[さいだいげん]の 努力[どりょく]を 払[はら]って 試験[しけん]に 臨[のぞ]んだ。
+  Er hat sich mit maximalem Einsatz auf die Prüfung vorbereitet.
+
+  この新製品は最大の販売チャンスだ。
+  この 新[しん]製品[せいひん]は 最大[さいだい]の 販売[はんばい]チャンスだ。
+  Dieses neue Produkt ist die größte Verkaufschance.
+
+  安全性は最大の関心事です。
+  安全性[あんぜんせい]は 最大[さいだい]の 関心事[かんしんじ]です。
+  Sicherheit ist unser größtes Anliegen.
+
+  この会社の最大の強みは優秀な人材だ。
+  この 会社[かいしゃ]の 最大[さいだい]の 強[つよ]みは 優秀[ゆうしゅう]な 人材[じんざい]だ。
+  Die größte Stärke dieses Unternehmens sind seine hervorragenden Mitarbeiter.
+
+  最大風速が時速100キロを超えた。
+  最大[さいだい]風速[ふうそく]が 時速[じそく]100キロを 超[こ]えた。
+  Die maximale Windgeschwindigkeit überstieg 100 km/h.
+
+  この建物の最大収容人数は500人です。
+  この 建物[たてもの]の 最大[さいだい]収容人数[しゅうようにんずう]は500人[にん]です。
+  Die maximale Kapazität dieses Gebäudes beträgt 500 Personen.
+
+  彼女は最大限の注意を払って運転した。
+  彼女[かのじょ]は 最大限[さいだいげん]の 注意[ちゅうい]を 払[はら]って 運転[うんてん]した。
+  Sie fuhr mit höchster Vorsicht.
+
+  この問題の最大の障害は資金不足だ。
+  この 問題[もんだい]の 最大[さいだい]の 障害[しょうがい]は 資金不足[しきんぶそく]だ。
+  Das größte Hindernis bei diesem Problem ist der Mangel an Finanzmitteln.
+
+  彼らは最大限の努力をしたが、失敗した。
+  彼[かれ]らは 最大限[さいだいげん]の 努力[どりょく]をしたが、失敗[しっぱい]した。
+  Sie gaben ihr Bestes, scheiterten aber trotzdem.
+
+  この国の最大の輸出品は自動車だ。
+  この 国[くに]の 最大[さいだい]の 輸出品[ゆしゅつひん]は 自動車[じどうしゃ]だ。
+  Das wichtigste Exportgut dieses Landes sind Autos.
+
+  彼女は最大の敵を倒した。
+  彼女[かのじょ]は 最大[さいだい]の 敵[てき]を 倒[たお]した。
+  Sie besiegte ihren größten Feind.
+
+  この薬の最大服用量は1日3錠です。
+  この 薬[くすり]の 最大[さいだい]服用量[ふくようりょう]は1日[にち]3錠[じょう]です。
+  Die maximale Dosis dieses Medikaments beträgt 3 Tabletten pro Tag.
+
+  彼らは最大限の効果を得るために戦略を練った。
+  彼[かれ]らは 最大限[さいだいげん]の 効果[こうか]を 得[え]るために 戦略[せんりゃく]を 練[ね]った。
+  Sie arbeiteten eine Strategie aus, um die maximale Wirkung zu erzielen.
+
+  この計画の最大の利点は費用対効果が高いことだ。
+  この 計画[けいかく]の 最大[さいだい]の 利点[りてん]は 費用対効果[ひようたいこうか]が 高[たか]いことだ。
+  Der größte Vorteil dieses Plans ist sein günstiges Kosten-Nutzen-Verhältnis.
+
+  彼は最大限の情報を集めてから決断を下した。
+  彼[かれ]は 最大限[さいだいげん]の 情報[じょうほう]を 集[あつ]めてから 決断[けつだん]を 下[くだ]した。
+  Er traf seine Entscheidung erst, nachdem er alle verfügbaren Informationen gesammelt hatte.
+
+  この装置の最大出力は1000ワットだ。
+  この 装置[そうち]の 最大[さいだい]出力[しゅつりょく]は1000ワットだ。
+  Die maximale Leistung dieses Geräts beträgt 1000 Watt.
+
+  彼女は最大限の努力を払って目標を達成した。
+  彼女[かのじょ]は 最大限[さいだいげん]の 努力[どりょく]を 払[はら]って 目標[もくひょう]を 達成[たっせい]した。
+  Sie erreichte ihr Ziel mit größtmöglicher Anstrengung.
+
+  この地域の最大の自然資源は森林だ。
+  この 地域[ちいき]の 最大[さいだい]の 自然資源[しぜんしげん]は 森林[しんりん]だ。
+  Die größte natürliche Ressource dieser Region sind die Wälder.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>最大 kann als Nomen oder na-Adjektiv verwendet werden.</p>
+  <p>Als Nomen bedeutet es "das Größte" oder "das Maximum".</p>
+  <div class="examples">
+    <div class="jp">この 会社[かいしゃ]の 最大[さいだい]は 従業員数[じゅうぎょういんすう]だ。</div>
+    <div class="de spoiler">Die Stärke dieses Unternehmens ist die Anzahl seiner Mitarbeiter.</div>
+  </div>
+  <p>Als na-Adjektiv wird es verwendet, um "größt", "höchst" oder "maximal" auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">最大[さいだい]の 注意[ちゅうい]を 払[はら]う。</div>
+    <div class="de spoiler">Höchste Vorsicht walten lassen.</div>
+  </div>
+  <p>Es wird oft in Zusammensetzungen verwendet, um den Superlativ oder das Maximum auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">最大速度[さいだいそくど]</div>
+    <div class="de spoiler">Höchstgeschwindigkeit</div>
+  </div>
+  <div class="examples">
+    <div class="jp">最大限[さいだいげん]の 努力[どりょく]</div>
+    <div class="de spoiler">Maximale Anstrengung</div>
+  </div>

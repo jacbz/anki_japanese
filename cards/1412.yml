@@ -2,12 +2,12 @@ Rang: 1412
 Lemma: プロ
 Lesung: ''
 Tonhöhen: \.
-Definition: Profi, Profi-
+Definition: Profi
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. pro(fessional)
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼は小さいときにダンスを始めてプロになった。
   彼[かれ]は 小[ちい]さいときにダンスを 始[はじ]めてプロになった。
-  Er begann schon als Kind zu tanzen und wurde Profi.
+  Er begann als Kind mit dem Tanzen und wurde zum Profi.
+
+  プロボクサーとして世界チャンピオンを目指している。
+  プロボクサーとして 世界[せかい]チャンピオンを 目指[めざ]している。
+  Er strebt als Profiboxer den Weltmeistertitel an.
+
+  彼女はプロデビューを果たし、注目を集めている。
+  彼女[かのじょ]はプロデビューを 果[は]たし、注目[ちゅうもく]を 集[あつ]めている。
+  Sie hat ihr Profidebüt gegeben und erregt viel Aufmerksamkeit.
+
+  プロゴルファーになるには長年の練習が必要だ。
+  プロゴルファーになるには 長年[ながねん]の 練習[れんしゅう]が 必要[ひつよう]だ。
+  Um Profigolfer zu werden, braucht man jahrelanges Training.
+
+  プロレスの試合は迫力があって面白い。
+  プロレスの 試合[しあい]は 迫力[はくりょく]があって 面白[おもしろ]い。
+  Profi-Wrestling-Matches sind spannend und unterhaltsam.
+
+  プロ選手は厳しいトレーニングを日々こなしている。
+  プロ 選手[せんしゅ]は 厳[きび]しいトレーニングを 日々[ひび] こなしている。
+  Profisportler absolvieren täglich hartes Training.
+
+  プロスポーツの世界は競争が激しい。
+  プロスポーツの 世界[せかい]は 競争[きょうそう]が 激[はげ]しい。
+  In der Welt des Profisports ist der Wettbewerb sehr hart.
+
+  プロ野球選手になるのが彼の夢だった。
+  プロ 野球[やきゅう] 選手[せんしゅ]になるのが 彼[かれ]の 夢[ゆめ]だった。
+  Es war sein Traum, Profi-Baseballspieler zu werden.
+
+  ノンプロの大会でも高いレベルの試合が見られる。
+  ノンプロの 大会[たいかい]でも 高[たか]いレベルの 試合[しあい]が 見[み]られる。
+  Auch bei Amateur-Turnieren kann man Spiele auf hohem Niveau sehen.
+
+  彼はプロをめざして毎日練習に励んでいる。
+  彼[かれ]はプロをめざして 毎日[まいにち] 練習[れんしゅう]に 励[はげ]んでいる。
+  Er trainiert jeden Tag hart, um Profi zu werden.
+
+  その歌手はプロで通用する実力を持っている。
+  その 歌手[かしゅ]はプロで 通用[つうよう]する 実力[じつりょく]を 持[も]っている。
+  Dieser Sänger hat die Fähigkeiten, um als Profi bestehen zu können.
+
+  プロらしくない態度で失望させられた。
+  プロらしくない 態度[たいど]で 失望[しつぼう]させられた。
+  Ich war von seiner unprofessionellen Haltung enttäuscht.
+
+  国内の団体がプロとアマで分かれている現状には疑問を抱く。
+  国内[こくない]の 団体[だんたい]がプロとアマで 分[わ]かれている 現状[げんじょう]には 疑問[ぎもん]を 抱[いだ]く。
+  Ich hege Zweifel an der gegenwärtigen Situation, in der sich inländische Organisationen in Profi- und Amateurgruppen aufteilen.
+
+  ＮＢＡは世界最高峰のプロバスケットリーグだ。
+  ＮＢＡは 世界[せかい] 最高峰[さいこうほう]のプロバスケットリーグだ。
+  Die NBA ist die weltweit führende Profi-Basketball-Liga.
+
+  彼は衛生兵だから注射のプロさ。
+  彼[かれ]は 衛生兵[えいせいへい]だから 注射[ちゅうしゃ]のプロさ。
+  Er ist ein Sanitäter, also ein Profi, wenn es um Injektionen geht.
+
+  プロの翻訳者と協力して、高品質の翻訳を提供している。
+  プロの 翻訳者[ほんやくしゃ]と 協力[きょうりょく]して、高[こう] 品質[ひんしつ]の 翻訳[ほんやく]を 提供[ていきょう]している。
+  Wir arbeiten mit professionellen Übersetzern zusammen, um hochwertige Übersetzungen anzubieten.
+
+  プロとしての自覚を持って仕事に臨むべきだ。
+  プロとしての 自覚[じかく]を 持[も]って 仕事[しごと]に 臨[のぞ]むべきだ。
+  Man sollte sich seiner Rolle als Profi bewusst sein und an die Arbeit herangehen.
+
+  彼女のプロ意識の高さは周りの人々にも良い影響を与えている。
+  彼女[かのじょ]のプロ 意識[いしき]の 高[たか]さは 周[まわ]りの 人々[ひとびと]にも 良[よ]い 影響[えいきょう]を 与[あた]えている。
+  Ihr hoher Professionalismus hat auch einen positiven Einfluss auf die Menschen um sie herum.
+
+  プロの技術を学ぶため、マスタークラスに参加した。
+  プロの 技術[ぎじゅつ]を 学[まな]ぶため、マスタークラスに 参加[さんか]した。
+  Um professionelle Techniken zu erlernen, nahm ich an einer Meisterklasse teil.
+
+  プロとアマチュアの境界線が曖昧になってきている。
+  プロとアマチュアの 境界線[きょうかいせん]が 曖昧[あいまい]になってきている。
+  Die Grenze zwischen Profis und Amateuren wird zunehmend verschwommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

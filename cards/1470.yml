@@ -2,20 +2,96 @@ Rang: 1470
 Lemma: 抜ける
 Lesung: ぬける
 Tonhöhen: .^^
-Definition: ausfallen; locker werden; ausgelassen werden; verlassen werden
+Definition: ausfallen; entweichen; herausgehen; passieren
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 抜けない・抜けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ストレスのせいで髪が抜けてしまった。
   ストレスのせいで 髪[かみ]が 抜[ぬ]けてしまった。
-  Der Stress hat dazu geführt, dass mir die Haare ausgefallen sind.
+  Wegen des Stresses sind mir die Haare ausgefallen.
+
+  歯が抜けたので歯医者に行かなければならない。
+  歯[は]が 抜[ぬ]けたので 歯医者[はいしゃ]に 行[い]かなければならない。
+  Da mir ein Zahn ausgefallen ist, muss ich zum Zahnarzt gehen.
+
+  ワインの栓がなかなか抜けなくて困っている。
+  ワインの 栓[せん]がなかなか 抜[ぬ]けなくて 困[こま]っている。
+  Ich habe Probleme damit, den Korken aus der Weinflasche zu ziehen.
+
+  長年使った服の染みがやっと抜けた。
+  長年[ながねん] 使[つか]った 服[ふく]の 染[し]みがやっと 抜[ぬ]けた。
+  Der Fleck auf meinem alten Kleidungsstück ist endlich rausgegangen.
+
+  風邪がなかなか抜けないので、もう少し休養が必要だ。
+  風邪[かぜ]がなかなか 抜[ぬ]けないので、もう 少[すこ]し 休養[きゅうよう]が 必要[ひつよう]だ。
+  Da meine Erkältung hartnäckig ist, brauche ich noch etwas mehr Ruhe.
+
+  疲れが抜けないまま仕事に行くのは辛い。
+  疲[つか]れが 抜[ぬ]けないまま 仕事[しごと]に 行[い]くのは 辛[つら]い。
+  Es ist hart, zur Arbeit zu gehen, ohne dass die Erschöpfung nachgelassen hat.
+
+  名簿に私の名前が抜けていることに気づいた。
+  名簿[めいぼ]に 私[わたし]の 名前[なまえ]が 抜[ぬ]けていることに 気[き]づいた。
+  Ich habe bemerkt, dass mein Name auf der Liste fehlt.
+
+  重要な会議から抜けるのは難しいが、急用ができた。
+  重要[じゅうよう]な 会議[かいぎ]から 抜[ぬ]けるのは 難[むずか]しいが、急用[きゅうよう]ができた。
+  Es ist schwierig, die wichtige Besprechung zu verlassen, aber ich habe einen dringenden Termin.
+
+  サッカー部から抜けて、新しい趣味を見つけることにした。
+  サッカー部[ぶ]から 抜[ぬ]けて、新[あたら]しい 趣味[しゅみ]を 見[み]つけることにした。
+  Ich bin aus dem Fußballclub ausgetreten und habe beschlossen, ein neues Hobby zu finden.
+
+  トンネルを抜けると、美しい景色が広がっていた。
+  トンネルを 抜[ぬ]けると、美[うつく]しい 景色[けしき]が 広[ひろ]がっていた。
+  Als wir aus dem Tunnel herauskamen, breitete sich eine wunderschöne Landschaft vor uns aus.
+
+  公園を抜けて帰る道は、いつも静かで落ち着く。
+  公園[こうえん]を 抜[ぬ]けて 帰[かえ]る 道[みち]は、いつも 静[しず]かで 落[お]ち 着[つ]く。
+  Der Heimweg durch den Park ist immer ruhig und entspannend.
+
+  どこか抜けた人だが、彼の発想は面白い。
+  どこか 抜[ぬ]けた 人[ひと]だが、彼[かれ]の 発想[はっそう]は 面白[おもしろ]い。
+  Er ist zwar etwas schusselig, aber seine Ideen sind interessant.
+
+  危機的な状況から抜けるには、冷静な判断が必要だ。
+  危機的[ききてき]な 状況[じょうきょう]から 抜[ぬ]けるには、冷静[れいせい]な 判断[はんだん]が 必要[ひつよう]だ。
+  Um aus einer kritischen Situation herauszukommen, braucht man ein kühles Urteilsvermögen.
+
+  高層ビルが林立する街を抜けると、のどかな郊外に出た。
+  高層[こうそう]ビルが 林立[りんりつ]する 街[まち]を 抜[ぬ]けると、のどかな 郊外[こうがい]に 出[で]た。
+  Nachdem wir die Stadt mit den vielen Hochhäusern hinter uns gelassen hatten, kamen wir in die friedliche Vorstadt.
+
+  気の抜けたビールは美味しくないので、すぐに飲み干した。
+  気[き]の 抜[ぬ]けたビールは 美味[おい]しくないので、すぐに 飲[の]み 干[ほ]した。
+  Da schal gewordenes Bier nicht schmeckt, habe ich es sofort ausgetrunken.
+
+  彼の説明は右の耳から入って左から抜けてしまった。
+  彼[かれ]の 説明[せつめい]は 右[みぎ]の 耳[みみ]から 入[はい]って 左[ひだり]から 抜[ぬ]けてしまった。
+  Seine Erklärung ging bei mir zum einen Ohr hinein und zum anderen wieder hinaus.
+
+  長い会議で疲れが抜けないので、少し休憩を取りたい。
+  長[なが]い 会議[かいぎ]で 疲[つか]れが 抜[ぬ]けないので、少[すこ]し 休憩[きゅうけい]を 取[と]りたい。
+  Da die Müdigkeit von der langen Besprechung nicht nachlässt, möchte ich eine kleine Pause einlegen.
+
+  抜けるような青空を見上げると、心が晴れやかになった。
+  抜[ぬ]けるような 青空[あおぞら]を 見上[みあ]げると、心[こころ]が 晴[は]れやかになった。
+  Als ich zum tiefblauen Himmel aufblickte, wurde mein Herz leicht.
+
+  組合から抜けることを決意したが、周りの反応が心配だ。
+  組合[くみあい]から 抜[ぬ]けることを 決意[けつい]したが、周[まわ]りの 反応[はんのう]が 心配[しんぱい]だ。
+  Ich habe mich entschieden, aus der Gewerkschaft auszutreten, aber ich mache mir Sorgen um die Reaktionen in meinem Umfeld.
+
+  ゲームから抜けたら、友達に怒られちゃった。
+  ゲームから 抜[ぬ]けたら、友達[ともだち]に 怒[おこ]られちゃった。
+  Als ich aus dem Spiel ausstieg, wurde mein Freund wütend auf mich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

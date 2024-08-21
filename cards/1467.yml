@@ -2,24 +2,119 @@ Rang: 1467
 Lemma: 分かれる
 Lesung: わかれる
 Tonhöhen: .^\.
-Definition: teilen, spalten, trennen
-Alternativschreibweisen: ''
+Definition: sich trennen; sich teilen
+Alternativschreibweisen: 別れる・岐れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 分かれない・分かれた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その問題については意見が分かれると思う。
   その 問題[もんだい]については 意見[いけん]が 分[わ]かれると 思[おも]う。
-  Ich denke, dass Meinungen zu diesem Thema geteilt sein werden.
+  Ich denke, dass die Meinungen zu diesem Thema auseinandergehen werden.
+
+  駅で友達と別れて、それぞれの家に帰った。
+  駅[えき]で 友達[ともだち]と 別[わか]れて、それぞれの 家[いえ]に 帰[かえ]った。
+  Wir verabschiedeten uns am Bahnhof von unseren Freunden und gingen jeweils nach Hause.
+
+  彼の別れた妻は今でも良い友達だ。
+  彼[かれ]の 別[わか]れた 妻[つま]は 今[いま]でも 良[よ]い 友達[ともだち]だ。
+  Seine geschiedene Frau ist immer noch eine gute Freundin.
+
+  なかよく別れることができて良かった。
+  なかよく 別[わか]れることができて 良[よ]かった。
+  Es war gut, dass wir uns in Freundschaft trennen konnten.
+
+  別れて住むことにしたが、子供のことは一緒に考えていく。
+  別[わか]れて 住[す]むことにしたが、子供[こども]のことは 一緒[いっしょ]に 考[かんが]えていく。
+  Wir haben uns entschieden, getrennt zu wohnen, aber wir werden weiterhin gemeinsam über die Kinder nachdenken.
+
+  すぐ御別れになるのは残念ですね。
+  すぐ 御別[おわか]れになるのは 残念[ざんねん]ですね。
+  Es ist schade, dass wir uns so schnell wieder trennen müssen.
+
+  私は、この頃、別れることを時々考えるようになったの。
+  私[わたし]は、この 頃[ころ]、別[わか]れることを 時々[ときどき] 考[かんが]えるようになったの。
+  In letzter Zeit denke ich manchmal darüber nach, mich zu trennen.
+
+  早くから両親に死に別れて、二人きりで生活しなければならなかった。
+  早[はや]くから 両親[りょうしん]に 死[し]に 別[わか]れて、二人[ふたり]きりで 生活[せいかつ]しなければならなかった。
+  Nachdem unsere Eltern früh gestorben waren, mussten wir beide allein zurechtkommen.
+
+  探索隊は二組に分かれて山を探索することにした。
+  探索隊[たんさくたい]は 二組[ふたくみ]に 分[わ]かれて 山[やま]を 探索[たんさく]することにした。
+  Das Suchteam beschloss, sich in zwei Gruppen aufzuteilen und den Berg zu erkunden.
+
+  この本は五つの部分に分かれています。
+  この 本[ほん]は 五[いつ]つの 部分[ぶぶん]に 分[わ]かれています。
+  Dieses Buch ist in fünf Teile gegliedert.
+
+  ここで道が二つに分かれているね。どっちに行く？
+  ここで 道[みち]が 二[ふた]つに 分[わ]かれているね。どっちに 行[い]く？
+  Hier gabelt sich der Weg. Welche Richtung nehmen wir?
+
+  分かれ！全員自分の持ち場に戻れ！
+  分[わ]かれ！ 全員[ぜんいん] 自分[じぶん]の 持[も]ち 場[ば]に 戻[もど]れ！
+  Abtreten! Alle zurück auf ihre Posten!
+
+  行進の隊列は旗竿から左右に分かれていった。
+  行進[こうしん]の 隊列[たいれつ]は 旗竿[はたざお]から 左右[さゆう]に 分[わ]かれていった。
+  Die Marschkolonne teilte sich links und rechts der Fahnenstange auf.
+
+  少し歩くと道が二手に分かれていた。
+  少[すこ]し 歩[ある]くと 道[みち]が 二手[ふたて]に 分[わ]かれていた。
+  Nach einem kurzen Fußmarsch teilte sich der Weg in zwei Richtungen.
+
+  新しい法案に対する反応は明確に二つに分かれた。
+  新[あたら]しい 法案[ほうあん]に 対[たい]する 反応[はんのう]は 明確[めいかく]に 二[ふた]つに 分[わ]かれた。
+  Die Reaktionen auf den neuen Gesetzentwurf waren eindeutig zweigeteilt.
+
+  その映画の解釈については批評家の間で意見が分かれている。
+  その 映画[えいが]の 解釈[かいしゃく]については 批評家[ひひょうか]の 間[あいだ]で 意見[いけん]が 分[わ]かれている。
+  Die Meinungen der Kritiker gehen bei der Interpretation dieses Films auseinander.
+
+  川は上流で二つに分かれ、下流で再び合流する。
+  川[かわ]は 上流[じょうりゅう]で 二[ふた]つに 分[わ]かれ、下流[かりゅう]で 再[ふたた]び 合流[ごうりゅう]する。
+  Der Fluss teilt sich im Oberlauf in zwei Arme und fließt im Unterlauf wieder zusammen.
+
+  彼らは意見が分かれたまま、会議を終えた。
+  彼[かれ]らは 意見[いけん]が 分[わ]かれたまま、会議[かいぎ]を 終[お]えた。
+  Sie beendeten die Besprechung, ohne einen Konsens gefunden zu haben.
+
+  長年の友人と別れるのは辛かったが、新しい人生の始まりでもあった。
+  長年[ながねん]の 友人[ゆうじん]と 別[わか]れるのは 辛[つら]かったが、新[あたら]しい 人生[じんせい]の 始[はじ]まりでもあった。
+  Es war schwer, sich von einem langjährigen Freund zu trennen, aber es war auch der Beginn eines neuen Lebensabschnitts.
+
+  彼女と別れてから、人生の価値観が大きく変わった。
+  彼女[かのじょ]と 別[わか]れてから、人生[じんせい]の 価値観[かちかん]が 大[おお]きく 変[か]わった。
+  Nachdem ich mich von ihr getrennt hatte, änderte sich meine Lebenseinstellung grundlegend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 分かれる hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Sich trennen oder verabschieden:<div class="examples">
+        <div class="jp">駅[えき]で 友達[ともだち]と 別[わか]れる。</div>
+        <div class="de spoiler">Sich am Bahnhof von Freunden verabschieden.</div>
+      </div>
+    </li>
+    <li>Sich teilen oder verzweigen:<div class="examples">
+        <div class="jp">道[みち]が 二[ふた]つに 分[わか]れる。</div>
+        <div class="de spoiler">Der Weg gabelt sich in zwei Richtungen.</div>
+      </div>
+    </li>
+    <li>Auseinandergehen (von Meinungen):<div class="examples">
+        <div class="jp">この 問題[もんだい]について 意見[いけん]が 分[わか]れる。</div>
+        <div class="de spoiler">Die Meinungen zu diesem Thema gehen auseinander.</div>
+      </div>
+    </li>
+  </ol>
+  <p>In der Umgangssprache wird oft die Kurzform <span class="jp">別[わか]れる</span> verwendet, besonders wenn es um persönliche Beziehungen geht.</p>

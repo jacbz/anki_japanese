@@ -2,8 +2,8 @@ Rang: 1489
 Lemma: 土
 Lesung: つち
 Tonhöhen: (.)\
-Definition: Boden
-Alternativschreibweisen: ''
+Definition: Erde, Boden
+Alternativschreibweisen: 地
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -14,12 +14,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   植木鉢に新しい土を入れた。
-  植木鉢[うえきばち]に 新[あたら]しい 土[ど]を 入[い]れた。
-  Ich habe neue Erde in den Blumentopf gegeben.
+  植木鉢[うえきばち]に 新[あたら]しい 土[つち]を 入[い]れた。
+  Ich habe frische Erde in den Blumentopf gefüllt.
+
+  庭の土をこなして、野菜を植える準備をしています。
+  庭[にわ]の 土[つち]をこなして、野菜[やさい]を 植[う]える 準備[じゅんび]をしています。
+  Ich lockere die Erde im Garten auf, um Gemüse zu pflanzen.
+
+  雨が降った後の土の匂いが好きです。
+  雨[あめ]が 降[ふ]った 後[あと]の 土[つち]の 匂[にお]いが 好[す]きです。
+  Ich mag den Geruch der Erde nach dem Regen.
+
+  土をかぶせて、種を蒔いた。
+  土[つち]をかぶせて、種[たね]を 蒔[ま]いた。
+  Ich habe die Samen mit Erde bedeckt.
+
+  地震で土が揺れて、建物が倒壊した。
+  地震[じしん]で 土[つち]が 揺[ゆ]れて、建物[たてもの]が 倒壊[とうかい]した。
+  Durch das Erdbeben bebte der Boden und Gebäude stürzten ein.
+
+  考古学者たちは古代の遺物を土の中から発掘した。
+  考古学者[こうこがくしゃ]たちは 古代[こだい]の 遺物[いぶつ]を 土[つち]の 中[なか]から 発掘[はっくつ]した。
+  Die Archäologen haben antike Artefakte aus der Erde ausgegraben.
+
+  土を積み上げて、小さな丘を作った。
+  土[つち]を 積[つ]み 上[あ]げて、小[ちい]さな 丘[おか]を 作[つく]った。
+  Wir haben Erde aufgehäuft, um einen kleinen Hügel zu machen.
+
+  土の中に埋めた宝物を掘り起こした。
+  土[つち]の 中[なか]に 埋[う]めた 宝物[たからもの]を 掘[ほ]り 起[お]こした。
+  Ich habe den in der Erde vergrabenen Schatz ausgegraben.
+
+  赤土を使って、陶芸作品を作っています。
+  赤土[あかつち]を 使[つか]って、陶芸[とうげい]作品[さくひん]を 作[つく]っています。
+  Ich verwende roten Ton, um Keramikstücke herzustellen.
+
+  土に還ることは、自然の摂理だ。
+  土[つち]に 還[かえ]ることは、自然[しぜん]の 摂理[せつり]だ。
+  Zu Erde zu werden ist der natürliche Lauf der Dinge.
+
+  土をこなして、野菜の苗を植えた。
+  土[つち]をこなして、野菜[やさい]の 苗[なえ]を 植[う]えた。
+  Ich habe den Boden gelockert und Gemüsesetzlinge gepflanzt.
+
+  根から土を振るい落として、植物を移植した。
+  根[ね]から 土[つち]を 振[ふ]るい 落[お]として、植物[しょくぶつ]を 移植[いしょく]した。
+  Ich habe die Erde von den Wurzeln abgeschüttelt und die Pflanze umgesetzt.
+
+  土のような顔色で、彼は病院に運ばれた。
+  土[つち]のような 顔色[かおいろ]で、彼[かれ]は 病院[びょういん]に 運[はこ]ばれた。
+  Mit leichenblassem Gesicht wurde er ins Krankenhaus gebracht.
+
+  日向の暖まった小石をひっくり返すと湿った冷たい土が現れる。
+  日向[ひなた]の 暖[あたた]まった 小石[こいし]をひっくり 返[かえ]すと 湿[しめ]った 冷[つめ]たい 土[つち]が 現[あらわ]れる。
+  Wenn man von der Sonne aufgeheizte Steine umdreht, kommt darunter kalte, feuchte Erde zum Vorschein.
+
+  壕の穴から掘り出した土は庭土の上に平均に盛られた。
+  壕[ごう]の 穴[あな]から 掘[ほ]り 出[だ]した 土[つち]は 庭土[にわつち]の 上[うえ]に 平均[へいきん]に 盛[も]られた。
+  Die ausgehobene Erde des Unterstandes wurde gleichmäßig über den Garten verteilt.
+
+  仲間たちは穴の底に死者を横たえ、その上に土をかぶせた。
+  仲間[なかま]たちは 穴[あな]の 底[そこ]に 死者[ししゃ]を 横[よこ]たえ、その 上[うえ]に 土[つち]をかぶせた。
+  Unsere Kameraden legten die Tote auf den Boden des Lochs und bedeckten sie mit Erde.
+
+  晩い月の光が庭の松の影を凍てた土に流して。
+  晩[おそ]い 月[つき]の 光[ひかり]が 庭[にわ]の 松[まつ]の 影[かげ]を 凍[こご]えた 土[つち]に 流[なが]して。
+  Das Licht des späten Mondes warf im Garten die Schatten der Kiefern auf den gefrorenen Boden.
+
+  我々は大西洋で二度、嵐にあった後、やっとベラクルスの土を踏んだ。
+  我々[われわれ]は 大西洋[たいせいよう]で 二度[にど]、嵐[あらし]にあった 後[あと]、やっとベラクルスの 土[つち]を 踏[ふ]んだ。
+  Nach zwei Stürmen auf dem Atlantik betraten wir endlich den Boden von Veracruz.
+
+  この地域の土は野菜作りに適している。
+  この 地域[ちいき]の 土[つち]は 野菜[やさい]作[づく]りに 適[てき]している。
+  Der Boden in dieser Region eignet sich gut für den Gemüseanbau.
+
+  土一升に金一升と言われるほど、この土地は高価だ。
+  土[つち]一升[いっしょう]に 金[きん]一升[いっしょう]と 言[い]われるほど、この 土地[とち]は 高価[こうか]だ。
+  Dieses Grundstück ist so teuer, dass man sagt, es sei Gold wert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>土 kann sowohl die Erde als Material als auch den Erdboden oder Grund bezeichnen. Es wird oft im Zusammenhang mit Gartenarbeit, Landwirtschaft oder Geologie verwendet.</p>
+  <div class="examples">
+    <div class="jp">この 土地[とち]は 肥沃[ひよく]な 土[つち]に 恵[めぐ]まれている。</div>
+    <div class="de spoiler">Dieses Land ist mit fruchtbarem Boden gesegnet.</div>
+  </div>
+  <p>In übertragener Bedeutung kann 土 auch verwendet werden, um über den Tod oder die Rückkehr zur Natur zu sprechen.</p>
+  <div class="examples">
+    <div class="jp">我々[われわれ]は 皆[みな]、いつかは 土[つち]に 還[かえ]る。</div>
+    <div class="de spoiler">Wir alle werden eines Tages zu Erde werden.</div>
+  </div>
+  <p>Es gibt auch einige Redewendungen mit 土:</p>
+  <div class="examples">
+    <div class="jp">異国[いこく]の 土[つち]になる</div>
+    <div class="de spoiler">In fremder Erde begraben werden (wörtlich: zu Erde eines fremden Landes werden)</div>
+  </div>
+  <div class="examples">
+    <div class="jp">土[つち]が 付[つ]く</div>
+    <div class="de spoiler">Verlieren (im Sumo-Ringen, wörtlich: Erde klebt an)</div>
+  </div>

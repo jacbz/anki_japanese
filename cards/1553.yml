@@ -2,20 +2,100 @@ Rang: 1553
 Lemma: 戻す
 Lesung: もどす
 Tonhöhen: .\.
-Definition: zurücklegen, wiederherstellen
+Definition: zurückbringen; zurückgeben; zurücksetzen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 戻さない・戻した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   本は元の場所に戻してください。
   本[ほん]は 元[もと]の 場所[ばしょ]に 戻[もど]してください。
-  Bitte legen Sie das Buch an seinen ursprünglichen Platz zurück.
+  Bitte stellen Sie das Buch an seinen ursprünglichen Platz zurück.
+
+  財布を鞄に戻すのを忘れないでください。
+  財布[さいふ]を 鞄[かばん]に 戻[もど]すのを 忘[わす]れないでください。
+  Vergessen Sie nicht, den Geldbeutel wieder in die Tasche zu stecken.
+
+  消費税を戻すのに時間がかかる場合があります。
+  消費税[しょうひぜい]を 戻[もど]すのに 時間[じかん]がかかる 場合[ばあい]があります。
+  Es kann eine Weile dauern, bis die Mehrwertsteuer zurückerstattet wird.
+
+  校正刷りを取りそろえ折り畳んで彼に戻した。
+  校正刷[こうせいずり]りを 取[と]りそろえ 折[お]り 畳[たた]んで 彼[かれ]に 戻[もど]した。
+  Ich fasste die Korrekturabzüge zusammen, faltete sie und gab sie ihm zurück.
+
+  葉書をノートに戻してから、改めてノートを胸にのせた。
+  葉書[はがき]をノートに 戻[もど]してから、改[あらた]めてノートを 胸[むね]にのせた。
+  Nachdem ich die Postkarten ins Notizbuch zurückgesteckt hatte, legte ich es mir erneut auf die Brust.
+
+  種牡馬は一ヶ月後に元の囲いに戻される。
+  種牡馬[たねおうば]は一ヶ月[いっかげつ]後[ご]に 元[もと]の 囲[かこ]いに 戻[もど]される。
+  Der Zuchthengst wird nach einem Monat wieder in sein ursprüngliches Gehege zurückgebracht.
+
+  目を元の場所に戻して、話を続けましょう。
+  目[め]を 元[もと]の 場所[ばしょ]に 戻[もど]して、話[はなし]を 続[つづ]けましょう。
+  Lasst uns den Blick wieder auf den Ausgangspunkt richten und das Gespräch fortsetzen.
+
+  話を元に戻すと、先ほどの議題について意見はありますか？
+  話[はなし]を 元[もと]に 戻[もど]すと、先[さき]ほどの 議題[ぎだい]について 意見[いけん]はありますか？
+  Um auf das ursprüngliche Thema zurückzukommen, hat jemand eine Meinung zu dem vorherigen Diskussionspunkt?
+
+  このデバイスを元の状態に戻す方法を教えてください。
+  このデバイスを 元[もと]の 状態[じょうたい]に 戻[もど]す 方法[ほうほう]を 教[おし]えてください。
+  Können Sie mir bitte erklären, wie ich dieses Gerät auf die Werkseinstellungen zurücksetze?
+
+  テープを戻して、もう一度聞いてみましょう。
+  テープを 戻[もど]して、もう一度[いちど] 聞[き]いてみましょう。
+  Lass uns das Band zurückspulen und noch einmal anhören.
+
+  時計を10分戻さないと、早すぎてしまいます。
+  時計[とけい]を10分[ぷん] 戻[もど]さないと、早[はや]すぎてしまいます。
+  Wenn wir die Uhr nicht um 10 Minuten zurückstellen, geht sie zu schnell.
+
+  佐竹さんはガスのつまみをゆっくりと戻した。
+  佐竹[さたけ]さんはガスのつまみをゆっくりと 戻[もど]した。
+  Herr Satake drehte den Gasregler langsam zurück.
+
+  食べ物を戻してしまって、申し訳ありません。
+  食[た]べ物[もの]を 戻[もど]してしまって、申[もう]し 訳[わけ]ありません。
+  Es tut mir leid, dass ich das Essen erbrochen habe.
+
+  乗り物酔いで戻しそうになったけど、なんとか我慢した。
+  乗[の]り物酔[もの よ]いで 戻[もど]しそうになったけど、なんとか 我慢[がまん]した。
+  Mir wurde von der Reisekrankheit übel, aber ich konnte mich gerade noch beherrschen.
+
+  固形物を食べると戻してしまうので、しばらく液体だけにします。
+  固形物[こけいぶつ]を 食[た]べると 戻[もど]してしまうので、しばらく 液体[えきたい]だけにします。
+  Da ich feste Nahrung erbreche, werde ich mich vorerst nur von Flüssigkeiten ernähren.
+
+  彼女は本を読み終わると、図書館に戻しに行った。
+  彼女[かのじょ]は 本[ほん]を 読[よ]み 終[お]わると、図書館[としょかん]に 戻[もど]しに 行[い]った。
+  Nachdem sie das Buch zu Ende gelesen hatte, ging sie in die Bibliothek, um es zurückzugeben.
+
+  借りたDVDを友達に戻すのを忘れてしまった。
+  借[か]りたDVDを 友達[ともだち]に 戻[もど]すのを 忘[わす]れてしまった。
+  Ich habe vergessen, meinem Freund die geliehene DVD zurückzugeben.
+
+  システムを以前のバージョンに戻す方法を探しています。
+  システムを 以前[いぜん]のバージョンに 戻[もど]す 方法[ほうほう]を 探[さが]しています。
+  Ich suche nach einer Möglichkeit, das System auf eine frühere Version zurückzusetzen.
+
+  彼は借りたお金を全額戻すと約束した。
+  彼[かれ]は 借[か]りたお 金[かね]を 全額[ぜんがく] 戻[もど]すと 約束[やくそく]した。
+  Er versprach, das geliehene Geld vollständig zurückzuzahlen.
+
+  この乾燥食品を元の状態に戻すには水に浸すだけでいいです。
+  この 乾燥[かんそう] 食品[しょくひん]を 元[もと]の 状態[じょうたい]に 戻[もど]すには 水[みず]に 浸[ひた]すだけでいいです。
+  Um dieses getrocknete Lebensmittel in seinen ursprünglichen Zustand zurückzuversetzen, musst du es nur in Wasser einweichen.
+
+  彼女は感情を抑えて、冷静さを取り戻そうとした。
+  彼女[かのじょ]は 感情[かんじょう]を 抑[おさ]えて、冷静[れいせい]さを 取[と]り 戻[もど]そうとした。
+  Sie versuchte, ihre Gefühle zu unterdrücken und ihre Ruhe wiederzuerlangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

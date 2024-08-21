@@ -2,20 +2,96 @@ Rang: 1524
 Lemma: 売れる
 Lesung: うれる
 Tonhöhen: .^^
-Definition: verkaufen
+Definition: sich verkaufen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 売れない・売れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この本は最近よく売れている。
   この 本[ほん]は 最近[さいきん]よく 売[う]れている。
-  Dieses Buch verkauft sich in letzter Zeit gut.
+  Dieses Buch verkauft sich in letzter Zeit sehr gut.
+
+  彼女の新曲は爆発的に売れた。
+  彼女[かのじょ]の 新曲[しんきょく]は 爆発的[ばくはつてき]に 売[う]れた。
+  Ihr neuer Song verkaufte sich explosionsartig.
+
+  このモデルのスマートフォンは予想したほどには売れなかった。
+  このモデルのスマートフォンは 予想[よそう]したほどには 売[う]れなかった。
+  Dieses Smartphone-Modell verkaufte sich nicht so gut wie erwartet.
+
+  彼は売れない作家だが、諦めずに書き続けている。
+  彼[かれ]は 売[う]れない 作家[さっか]だが、諦[あきら]めずに 書[か]き 続[つづ]けている。
+  Er ist ein erfolgloser Autor, aber er schreibt weiter, ohne aufzugeben.
+
+  この商品は高額で売れるので、利益が大きい。
+  この 商品[しょうひん]は 高額[こうがく]で 売[う]れるので、利益[りえき]が 大[おお]きい。
+  Dieses Produkt lässt sich zu einem hohen Preis verkaufen, daher ist der Gewinn groß.
+
+  彼の名が売れるにつれて、仕事の依頼が増えた。
+  彼[かれ]の 名[な]が 売[う]れるにつれて、仕事[しごと]の 依頼[いらい]が 増[ふ]えた。
+  Je bekannter sein Name wurde, desto mehr Arbeitsanfragen erhielt er.
+
+  このケーキは飛ぶように売れている。
+  このケーキは 飛[と]ぶように 売[う]れている。
+  Dieser Kuchen verkauft sich wie warme Semmeln.
+
+  その映画俳優は化粧を施せばまだ売れる顔だった。
+  その 映画俳優[えいがはいゆう]は 化粧[けしょう]を 施[ほどこ]せばまだ 売[う]れる 顔[かお]だった。
+  Der Filmschauspieler hatte mit etwas Make-up immer noch ein vermarktbares Gesicht.
+
+  この季節には温かい飲み物がよく売れます。
+  この 季節[きせつ]には 温[あたた]かい 飲[の]み 物[もの]がよく 売[う]れます。
+  In dieser Jahreszeit verkaufen sich warme Getränke gut.
+
+  彼女のデザインした服は若者に人気で、よく売れているそうだ。
+  彼女[かのじょ]のデザインした 服[ふく]は 若者[わかもの]に 人気[にんき]で、よく 売[う]れているそうだ。
+  Die von ihr entworfenen Kleider sind bei jungen Leuten beliebt und verkaufen sich angeblich gut.
+
+  このブランドの商品は海外でもよく売れると聞いた。
+  このブランドの 商品[しょうひん]は 海外[かいがい]でもよく 売[う]れると 聞[き]いた。
+  Ich habe gehört, dass sich die Produkte dieser Marke auch im Ausland gut verkaufen.
+
+  新製品が予想以上に売れたため、在庫が不足している。
+  新製品[しんせいひん]が 予想以上[よそういじょう]に 売[う]れたため、在庫[ざいこ]が 不足[ふそく]している。
+  Da sich das neue Produkt besser als erwartet verkauft hat, gibt es einen Mangel an Lagerbeständen.
+
+  このレストランの料理は評判が良く、予約が売れている。
+  このレストランの 料理[りょうり]は 評判[ひょうばん]が 良[よ]く、予約[よやく]が 売[う]れている。
+  Das Essen in diesem Restaurant hat einen guten Ruf, und die Reservierungen sind gefragt.
+
+  彼の絵は美術館での展示後、急に売れるようになった。
+  彼[かれ]の 絵[え]は 美術館[びじゅつかん]での 展示後[てんじご]、急[きゅう]に 売[う]れるようになった。
+  Seine Gemälde begannen sich plötzlich zu verkaufen, nachdem sie in einem Museum ausgestellt worden waren.
+
+  この作家の本は最初は売れなかったが、口コミで人気が出てきた。
+  この 作家[さっか]の 本[ほん]は 最初[さいしょ]は 売[う]れなかったが、口コミ[くちこみ]で 人気[にんき]が 出[で]てきた。
+  Die Bücher dieses Autors verkauften sich anfangs nicht, wurden aber durch Mundpropaganda populär.
+
+  新しいゲーム機は予約が殺到し、飛ぶように売れている。
+  新[あたら]しいゲーム 機[き]は 予約[よやく]が 殺到[さっとう]し、飛[と]ぶように 売[う]れている。
+  Die neue Spielkonsole ist durch Vorbestellungen überlaufen und verkauft sich wie verrückt.
+
+  彼女のCDは海外でも売れ始め、世界的に有名になった。
+  彼女[かのじょ]のCDは 海外[かいがい]でも 売[う]れ 始[はじ]め、世界的[せかいてき]に 有名[ゆうめい]になった。
+  Ihre CDs begannen sich auch im Ausland zu verkaufen, und sie wurde weltweit berühmt.
+
+  この商品は値段が高くても品質が良いので、よく売れるんです。
+  この 商品[しょうひん]は 値段[ねだん]が 高[たか]くても 品質[ひんしつ]が 良[よ]いので、よく 売[う]れるんです。
+  Dieses Produkt verkauft sich gut, weil es trotz des hohen Preises von guter Qualität ist.
+
+  彼の小説は映画化されてから、急に売れ始めた。
+  彼[かれ]の 小説[しょうせつ]は 映画化[えいがか]されてから、急[きゅう]に 売[う]れ 始[はじ]めた。
+  Sein Roman begann sich plötzlich zu verkaufen, nachdem er verfilmt worden war.
+
+  この商品は季節限定なので、今のうちに買わないと売れてしまうよ。
+  この 商品[しょうひん]は 季節限定[きせつげんてい]なので、今[いま]のうちに 買[か]わないと 売[う]れてしまうよ。
+  Da dieses Produkt saisonbedingt ist, solltest du es jetzt kaufen, bevor es ausverkauft ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

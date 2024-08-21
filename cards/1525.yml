@@ -2,7 +2,7 @@ Rang: 1525
 Lemma: 少なくとも
 Lesung: すくなくとも
 Tonhöhen: .^\...
-Definition: mindestens
+Definition: mindestens, wenigstens
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   少なくとも毎月一冊は本を読む。
-  少[すく]なくとも 毎月[まいつき]一 冊[さつ]は 本[ほん]を 読[よ]む。
+  少[すく]なくとも 毎月[まいつき] 一冊[いっさつ]は 本[ほん]を 読[よ]む。
   Ich lese mindestens ein Buch pro Monat.
+
+  この仕事を終えるには少なくとも一時間かかります。
+  この 仕事[しごと]を 終[お]えるには 少[すく]なくとも 一時間[いちじかん]かかります。
+  Es wird mindestens eine Stunde dauern, diese Arbeit zu beenden.
+
+  彼は少なくとも一キロは走ったはずだ。
+  彼[かれ]は 少[すく]なくとも 一[いち]キロは 走[はし]ったはずだ。
+  Er muss mindestens einen Kilometer gelaufen sein.
+
+  少なくともこれだけは言えると思います。
+  少[すく]なくともこれだけは 言[い]えると 思[おも]います。
+  Ich denke, zumindest das kann ich sagen.
+
+  これは少なくとも近い将来には実用化されそうもない。
+  これは 少[すく]なくとも 近[ちか]い 将来[しょうらい]には 実用化[じつようか]されそうもない。
+  Das wird zumindest in naher Zukunft wahrscheinlich nicht praktisch umsetzbar sein.
+
+  少なくともヘブライ語の成績は少し下がったと感じている。
+  少[すく]なくともヘブライ 語[ご]の 成績[せいせき]は 少[すこ]し 下[さ]がったと 感[かん]じている。
+  Ich habe das Gefühl, dass meine Leistungen zumindest im Hebräischen etwas nachgelassen haben.
+
+  少なくとも三か所の基地を設置する必要があります。
+  少[すく]なくとも 三[さん]か 所[しょ]の 基地[きち]を 設置[せっち]する 必要[ひつよう]があります。
+  Es ist notwendig, mindestens drei Stützpunkte zu errichten.
+
+  彼女は少なくとも週に3回はジムに行く。
+  彼女[かのじょ]は 少[すく]なくとも 週[しゅう]に3回[さんかい]はジムに 行[い]く。
+  Sie geht mindestens dreimal pro Woche ins Fitnessstudio.
+
+  この計画には少なくとも1000万円の予算が必要だ。
+  この 計画[けいかく]には 少[すく]なくとも1000万[まん] 円[えん]の 予算[よさん]が 必要[ひつよう]だ。
+  Für diesen Plan wird ein Budget von mindestens 10 Millionen Yen benötigt.
+
+  少なくとも5年間は経験が必要です。
+  少[すく]なくとも5年間[ねんかん]は 経験[けいけん]が 必要[ひつよう]です。
+  Mindestens fünf Jahre Erfahrung sind erforderlich.
+
+  彼は少なくとも10か国語を話せる。
+  彼[かれ]は 少[すく]なくとも10か 国語[こくご]を 話[はな]せる。
+  Er kann mindestens zehn Sprachen sprechen.
+
+  少なくとも半分は終わっているはずだ。
+  少[すく]なくとも 半分[はんぶん]は 終[お]わっているはずだ。
+  Es sollte zumindest zur Hälfte fertig sein.
+
+  少なくとも一度は海外旅行をしてみたい。
+  少[すく]なくとも 一度[いちど]は 海外旅行[かいがいりょこう]をしてみたい。
+  Ich möchte wenigstens einmal eine Auslandsreise machen.
+
+  少なくとも彼女は正直だ。
+  少[すく]なくとも 彼女[かのじょ]は 正直[しょうじき]だ。
+  Zumindest ist sie ehrlich.
+
+  少なくとも私にはそう見える。
+  少[すく]なくとも 私[わたし]にはそう 見[み]える。
+  So sieht es zumindest für mich aus.
+
+  少なくとも今のところ、問題は発生していない。
+  少[すく]なくとも 今[いま]のところ、問題[もんだい]は 発生[はっせい]していない。
+  Zumindest bis jetzt sind keine Probleme aufgetreten.
+
+  少なくとも一日30分は運動するように心がけている。
+  少[すく]なくとも 一日[いちにち]30分[ぷん]は 運動[うんどう]するように 心[こころ]がけている。
+  Ich bemühe mich, mindestens 30 Minuten pro Tag Sport zu treiben.
+
+  少なくとも彼の意見は聞くべきだ。
+  少[すく]なくとも 彼[かれ]の 意見[いけん]は 聞[き]くべきだ。
+  Wir sollten zumindest seine Meinung anhören.
+
+  この件については少なくとも二人の証人が必要だ。
+  この 件[けん]については 少[すく]なくとも 二人[ふたり]の 証人[しょうにん]が 必要[ひつよう]だ。
+  Für diese Angelegenheit werden mindestens zwei Zeugen benötigt.
+
+  少なくとも彼女は努力している。
+  少[すく]なくとも 彼女[かのじょ]は 努力[どりょく]している。
+  Zumindest gibt sie sich Mühe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

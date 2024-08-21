@@ -2,7 +2,7 @@ Rang: 1515
 Lemma: 会場
 Lesung: かいじょう
 Tonhöhen: .^^^^
-Definition: Halle; Ort
+Definition: Veranstaltungsort
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   会場は人でいっぱいだ。
-  会場[かいじょう]は人でいっぱいだ。
-  Die Halle ist voller Menschen.
+  会場[かいじょう]は 人[ひと]でいっぱいだ。
+  Der Veranstaltungsort ist voll von Menschen.
+
+  明日の会議の会場はどこですか。
+  明日[あした]の 会議[かいぎ]の 会場[かいじょう]はどこですか。
+  Wo ist der Tagungsort für die morgige Konferenz?
+
+  この会場は500人収容できます。
+  この 会場[かいじょう]は500人[にんいん] 収容[しゅうよう]できます。
+  Dieser Saal kann 500 Personen aufnehmen.
+
+  コンサートの会場を探しています。
+  コンサートの 会場[かいじょう]を 探[さが]しています。
+  Ich suche nach einem Veranstaltungsort für ein Konzert.
+
+  会場の準備は整いましたか。
+  会場[かいじょう]の 準備[じゅんび]は 整[ととの]いましたか。
+  Sind die Vorbereitungen für den Veranstaltungsort abgeschlossen?
+
+  会場の入り口で参加者を出迎えましょう。
+  会場[かいじょう]の 入り口[いりぐち]で 参加者[さんかしゃ]を 出迎[でむか]えましょう。
+  Lasst uns die Teilnehmer am Eingang des Veranstaltungsortes begrüßen.
+
+  会場が狭すぎて、立ち見の人がたくさんいた。
+  会場[かいじょう]が 狭[せま]すぎて、立ち見[たちみ]の 人[ひと]がたくさんいた。
+  Der Saal war zu klein, so dass viele Leute stehen mussten.
+
+  会場を借りるのにいくらかかりますか。
+  会場[かいじょう]を 借[か]りるのにいくらかかりますか。
+  Wie viel kostet es, den Saal zu mieten?
+
+  会場内での飲食は禁止されています。
+  会場内[かいじょうない]での 飲食[いんしょく]は 禁止[きんし]されています。
+  Essen und Trinken sind in der Halle verboten.
+
+  会場の場所が分からない人のために、案内板を設置しました。
+  会場[かいじょう]の 場所[ばしょ]が 分[わ]からない 人[ひと]のために、案内板[あんないばん]を 設置[せっち]しました。
+  Wir haben Wegweiser für diejenigen aufgestellt, die den Veranstaltungsort nicht finden können.
+
+  会場探しに苦労しています。
+  会場探[かいじょうさが]しに 苦労[くろう]しています。
+  Ich habe Schwierigkeiten, einen geeigneten Veranstaltungsort zu finden.
+
+  会場の収容人数を確認してください。
+  会場[かいじょう]の 収容人数[しゅうようにんずう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Kapazität des Veranstaltungsortes.
+
+  会場の予約はもう取れましたか。
+  会場[かいじょう]の 予約[よやく]はもう 取[と]れましたか。
+  Haben Sie den Veranstaltungsort schon reserviert?
+
+  会場のレイアウトを変更する必要があります。
+  会場[かいじょう]のレイアウトを 変更[へんこう]する 必要[ひつよう]があります。
+  Wir müssen das Layout des Saals ändern.
+
+  この会場は駅から徒歩5分のところにあります。
+  この 会場[かいじょう]は 駅[えき]から 徒歩[とほ]5分[ふん]のところにあります。
+  Dieser Veranstaltungsort liegt 5 Gehminuten vom Bahnhof entfernt.
+
+  会場の清掃を担当する人を決めましょう。
+  会場[かいじょう]の 清掃[せいそう]を 担当[たんとう]する 人[ひと]を 決[き]めましょう。
+  Lass uns jemanden bestimmen, der für die Reinigung des Veranstaltungsortes verantwortlich ist.
+
+  会場の照明が暗すぎるので、調整してください。
+  会場[かいじょう]の 照明[しょうめい]が 暗[くら]すぎるので、調整[ちょうせい]してください。
+  Die Beleuchtung im Saal ist zu dunkel, bitte passen Sie sie an.
+
+  会場の設営は昨日完了しました。
+  会場[かいじょう]の 設営[せつえい]は 昨日[きのう] 完了[かんりょう]しました。
+  Der Aufbau des Veranstaltungsortes wurde gestern abgeschlossen.
+
+  会場内は禁煙です。ご協力をお願いします。
+  会場内[かいじょうない]は 禁煙[きんえん]です。ご 協力[きょうりょく]をお 願[ねが]いします。
+  In der Halle herrscht Rauchverbot. Wir bitten um Ihre Mitarbeit.
+
+  会場の空調が故障しているので、修理を依頼しました。
+  会場[かいじょう]の 空調[くうちょう]が 故障[こしょう]しているので、修理[しゅうり]を 依頼[いらい]しました。
+  Da die Klimaanlage im Saal defekt ist, haben wir eine Reparatur angefordert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

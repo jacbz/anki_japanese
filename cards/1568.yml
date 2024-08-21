@@ -2,13 +2,13 @@ Rang: 1568
 Lemma: 寄る
 Lesung: よる
 Tonhöhen: .^
-Definition: vorbeischauen; zur Seite bewegen
+Definition: sich nähern; vorbeischauen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 寄らない・寄った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,113 @@ Beispielsätze: |-
   家[いえ]に 帰[かえ]る 途中[とちゅう]でコンビニに 寄[よ]った。
   Ich bin auf dem Heimweg an einem Convenience-Store vorbeigekommen.
 
+  そばに寄るな。
+  そばに 寄[よ]るな。
+  Komm mir nicht zu nahe!
+
+  藤間の部屋に寄り、ノックした。
+  藤間[ふじま]の 部屋[へや]に 寄[よ]り、ノックした。
+  Er ging zum Zimmer der Fujimas und klopfte an.
+
+  和香子は後続車に左に寄る合図を出した。
+  和香子[わかこ]は 後続車[こうぞくしゃ]に 左[ひだり]に 寄[よ]る 合図[あいず]を 出[だ]した。
+  Wakako gab den nachfolgenden Fahrzeugen ein Signal, dass sie nach links fahren würde.
+
+  赤道からほんの少し北に寄った諸島では、日の出の時間はほとんど変わらない。
+  赤道[せきどう]からほんの 少[すこ]し 北[きた]に 寄[よ]った 諸島[しょとう]では、日[ひ]の 出[で]の 時間[じかん]はほとんど 変[か]わらない。
+  Auf den Inseln, die nur etwas nördlich des Äquators liegen, ändert sich die Zeit des Sonnenaufgangs kaum.
+
+  皆はストーブに寄っていた。
+  みんなはストーブに 寄[よ]っていた。
+  Alle hatten sich um den Ofen versammelt.
+
+  水夫が大勢寄って、太い帆綱を手繰っていた。
+  水夫[すいふ]が 大勢[おおぜい] 寄[よ]って、太[ふと]い 帆綱[はんづな]を 手繰[たぐ]っていた。
+  Viele Matrosen hatten sich versammelt und zogen an einem dicken Segeltau.
+
+  攻撃的な印象は、眼と眼の間が寄りすぎているためだろう。
+  攻撃的[こうげきてき]な 印象[いんしょう]は、眼[め]と 眼[め]の 間[あいだ]が 寄[よ]りすぎているためだろう。
+  Der aggressive Eindruck kommt wahrscheinlich daher, dass die Augen zu eng beieinander stehen.
+
+  年が寄るにつれて、しわが増えてきた。
+  年[とし]が 寄[よ]るにつれて、しわが 増[ふ]えてきた。
+  Mit zunehmendem Alter haben sich mehr Falten gebildet.
+
+  濃い褐色の皺の寄った顔で、曲った鼻が高く、頬がこけている。
+  濃[こ]い 褐色[かっしょく]の 皺[しわ]の 寄[よ]った 顔[かお]で、曲[ま]がった 鼻[はな]が 高[たか]く、頬[ほお]がこけている。
+  In dem dunkelbraun zerfurchten Gesicht stand eine kräftige, gebogene Nase, und die Wangen waren eingefallen.
+
+  帰りに飲み屋に寄って一杯やろう。
+  帰[かえ]りに 飲[の]み 屋[や]に 寄[よ]って 一杯[いっぱい]やろう。
+  Lass uns auf dem Heimweg in einer Kneipe vorbeischauen und einen trinken.
+
+  来しなに銀行に寄って来る。
+  来[き]しなに 銀行[ぎんこう]に 寄[よ]って 来[く]る。
+  Ich werde unterwegs noch bei der Bank vorbeischauen.
+
+  出社前に得意先に寄ってから会社に行きます。
+  出社前[しゅっしゃまえ]に 得意先[とくいさき]に 寄[よ]ってから 会社[かいしゃ]に 行[い]きます。
+  Ich werde vor der Arbeit noch einen Kunden besuchen und dann ins Büro gehen.
+
+  「遅かったじゃないの」「わりいな、銀行に寄ってたんだ」
+  「遅[おそ]かったじゃないの」「わりいな、銀行[ぎんこう]に 寄[よ]ってたんだ」
+  "Du bist spät dran!" "Tut mir leid, ich war noch bei der Bank."
+
+  手すりに寄りかかって景色を眺めた。
+  手[て]すりに 寄[よ]りかかって 景色[けしき]を 眺[なが]めた。
+  Ich lehnte mich ans Geländer und betrachtete die Landschaft.
+
+  相撲で横綱が対戦相手に寄って押し出した。
+  相撲[すもう]で 横綱[よこづな]が 対戦相手[たいせんあいて]に 寄[よ]って 押[お]し 出[だ]した。
+  Beim Sumo schob der Yokozuna seinen Gegner frontal vor sich her und aus dem Ring.
+
+  株式市場は予想より高く寄った。
+  株式市場[かぶしきしじょう]は 予想[よそう]より 高[たか]く 寄[よ]った。
+  Die Börse eröffnete höher als erwartet.
+
+  思いも寄らぬ出来事に驚いた。
+  思[おも]いも 寄[よ]らぬ 出来事[できごと]に 驚[おどろ]いた。
+  Ich war von dem unerwarteten Ereignis überrascht.
+
+  三人寄れば文殊の知恵というように、みんなで相談しましょう。
+  三人[さんにん] 寄[よ]れば 文殊[もんじゅ]の 知恵[ちえ]というように、みんなで 相談[そうだん]しましょう。
+  Wie man sagt "Drei Köpfe sind besser als einer", lasst uns alle zusammen beraten.
+
+  よってたかって一人の同僚をいじめるのはよくない。
+  よってたかって 一人[ひとり]の 同僚[どうりょう]をいじめるのはよくない。
+  Es ist nicht gut, wenn sich alle zusammentun, um einen Kollegen zu mobben.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>寄る (よる) hat mehrere wichtige Bedeutungen:</p>
+  <ol>
+    <li>Sich nähern oder näher kommen:<div class="examples">
+        <div class="jp">そばに 寄[よ]るな。</div>
+        <div class="de spoiler">Komm mir nicht zu nahe!</div>
+      </div>
+    </li>
+    <li>Sich versammeln oder zusammenkommen:<div class="examples">
+        <div class="jp">皆[みな]はストーブに 寄[よ]っていた。</div>
+        <div class="de spoiler">Alle hatten sich um den Ofen versammelt.</div>
+      </div>
+    </li>
+    <li>Vorbeischauen oder einen kurzen Besuch abstatten:<div class="examples">
+        <div class="jp">帰[かえ]りに 飲[の]み 屋[や]に 寄[よ]って 一杯[いっぱい]やろう。</div>
+        <div class="de spoiler">Lass uns auf dem Heimweg in einer Kneipe vorbeischauen und einen trinken.</div>
+      </div>
+    </li>
+    <li>Sich an etwas anlehnen:<div class="examples">
+        <div class="jp">手[て]すりに 寄[よ]りかかって 景色[けしき]を 眺[なが]めた。</div>
+        <div class="de spoiler">Ich lehnte mich ans Geländer und betrachtete die Landschaft.</div>
+      </div>
+    </li>
+  </ol>
+  <p>Es gibt auch einige feststehende Ausdrücke mit 寄る:</p>
+  <ul>
+    <li>思いも寄らぬ (おもいもよらぬ): unerwartet</li>
+    <li>寄ってたかって (よってたかって): mit vereinten Kräften</li>
+  </ul>

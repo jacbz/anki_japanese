@@ -2,13 +2,13 @@ Rang: 1476
 Lemma: 設ける
 Lesung: もうける
 Tonhöhen: .^\.
-Definition: einrichten, aufstellen
+Definition: einrichten, gründen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 設けない・設けた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   話し合いの場を設ける必要がある。
   話[はな]し 合[あ]いの 場[ば]を 設[もう]ける 必要[ひつよう]がある。
   Wir müssen ein Treffen arrangieren.
+
+  新しい部署を設けて業務の効率化を図ります。
+  新[あたら]しい 部署[ぶしょ]を 設[もう]けて 業務[ぎょうむ]の 効率化[こうりつか]を 図[はか]ります。
+  Wir werden eine neue Abteilung einrichten, um die Effizienz der Arbeit zu verbessern.
+
+  来月から質問の時間を設けることにした。
+  来月[らいげつ]から 質問[しつもん]の 時間[じかん]を 設[もう]けることにした。
+  Wir haben beschlossen, ab nächstem Monat eine Fragezeit einzurichten.
+
+  この建物の1階にカフェを設けるそうだ。
+  この 建物[たてもの]の1階[かい]にカフェを 設[もう]けるそうだ。
+  Es heißt, dass im Erdgeschoss dieses Gebäudes ein Café eingerichtet wird.
+
+  彼らは新しい規則を設けて問題に対処しようとしている。
+  彼[かれ]らは 新[あたら]しい 規則[きそく]を 設[もう]けて 問題[もんだい]に 対処[たいしょ]しようとしている。
+  Sie versuchen, das Problem zu lösen, indem sie neue Regeln aufstellen.
+
+  大学は留学生のための特別プログラムを設けた。
+  大学[だいがく]は 留学生[りゅうがくせい]のための 特別[とくべつ]プログラムを 設[もう]けた。
+  Die Universität hat ein spezielles Programm für ausländische Studenten eingerichtet.
+
+  会社は従業員の福利厚生のために休憩室を設けました。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 福利厚生[ふくりこうせい]のために 休憩室[きゅうけいしつ]を 設[もう]けました。
+  Das Unternehmen hat einen Ruheraum für das Wohlergehen der Mitarbeiter eingerichtet.
+
+  彼は自分の意見を述べるための機会を設けてくれるよう頼んだ。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 述[の]べるための 機会[きかい]を 設[もう]けてくれるよう 頼[たの]んだ。
+  Er bat darum, eine Gelegenheit zu schaffen, um seine Meinung äußern zu können.
+
+  政府は新しい法律を設けて環境保護を強化した。
+  政府[せいふ]は 新[あたら]しい 法律[ほうりつ]を 設[もう]けて 環境保護[かんきょうほご]を 強化[きょうか]した。
+  Die Regierung hat den Umweltschutz verstärkt, indem sie ein neues Gesetz erlassen hat.
+
+  この会議では参加者からの質問時間を設けています。
+  この 会議[かいぎ]では 参加者[さんかしゃ]からの 質問[しつもん]時間[じかん]を 設[もう]けています。
+  Bei dieser Konferenz ist eine Fragezeit für die Teilnehmer vorgesehen.
+
+  新しい研究施設を設けるための予算が承認された。
+  新[あたら]しい 研究[けんきゅう]施設[しせつ]を 設[もう]けるための 予算[よさん]が 承認[しょうにん]された。
+  Das Budget für die Errichtung einer neuen Forschungseinrichtung wurde genehmigt.
+
+  彼らは問題解決のためのタスクフォースを設けた。
+  彼[かれ]らは 問題解決[もんだいかいけつ]のためのタスクフォースを 設[もう]けた。
+  Sie haben eine Taskforce zur Problemlösung eingerichtet.
+
+  この公園には子供のための遊び場を設けている。
+  この 公園[こうえん]には 子供[こども]のための 遊[あそ]び 場[ば]を 設[もう]けている。
+  In diesem Park gibt es einen Spielplatz für Kinder.
+
+  会社は従業員の意見を聞くための目安箱を設けた。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 意見[いけん]を 聞[き]くための 目安箱[めやすばこ]を 設[もう]けた。
+  Das Unternehmen hat einen Briefkasten eingerichtet, um die Meinungen der Mitarbeiter zu hören.
+
+  新しいプロジェクトのために特別チームを設けることにした。
+  新[あたら]しいプロジェクトのために 特別[とくべつ]チームを 設[もう]けることにした。
+  Wir haben beschlossen, ein spezielles Team für das neue Projekt zu bilden.
+
+  彼らは新製品の開発のための専門部署を設けた。
+  彼[かれ]らは 新[しん]製品[せいひん]の 開発[かいはつ]のための 専門[せんもん]部署[ぶしょ]を 設[もう]けた。
+  Sie haben eine spezielle Abteilung für die Entwicklung neuer Produkte eingerichtet.
+
+  学校は生徒の安全のために新しい規則を設けた。
+  学校[がっこう]は 生徒[せいと]の 安全[あんぜん]のために 新[あたら]しい 規則[きそく]を 設[もう]けた。
+  Die Schule hat neue Regeln für die Sicherheit der Schüler aufgestellt.
+
+  この建物には障害者用の特別な入り口を設けている。
+  この 建物[たてもの]には 障害者[しょうがいしゃ]用[よう]の 特別[とくべつ]な 入[い]り 口[ぐち]を 設[もう]けている。
+  Dieses Gebäude hat einen speziellen Eingang für Menschen mit Behinderungen.
+
+  彼らは新しいビジネスモデルを設けて市場に参入した。
+  彼[かれ]らは 新[あたら]しいビジネスモデルを 設[もう]けて 市場[しじょう]に 参入[さんにゅう]した。
+  Sie sind mit einem neuen Geschäftsmodell in den Markt eingetreten.
+
+  この大学では留学生のための日本語支援センターを設けている。
+  この 大学[だいがく]では 留学生[りゅうがくせい]のための 日本語[にほんご]支援[しえん]センターを 設[もう]けている。
+  Diese Universität hat ein japanisches Unterstützungszentrum für ausländische Studenten eingerichtet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

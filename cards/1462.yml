@@ -2,20 +2,96 @@ Rang: 1462
 Lemma: 有する
 Lesung: ゆうする
 Tonhöhen: .^\.
-Definition: haben
+Definition: besitzen, verfügen über
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 有しない・有した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   すべての人は対等の権利を有する。
-  すべての人は 対等[たいとう]の 権利[けんり]を 有[ゆう]する。
-  Alle Menschen haben gleiche Rechte.
+  すべての 人[ひと]は 対等[たいとう]の 権利[けんり]を 有[ゆう]する。
+  Alle Menschen besitzen gleiche Rechte.
+
+  この会社は50人の社員を有しています。
+  この 会社[かいしゃ]は50人[にんじゅうにん]の 社員[しゃいん]を 有[ゆう]しています。
+  Dieses Unternehmen hat 50 Angestellte.
+
+  彼女は優れた才能を有している。
+  彼女[かのじょ]は 優[すぐ]れた 才能[さいのう]を 有[ゆう]している。
+  Sie besitzt ein hervorragendes Talent.
+
+  この製品は多くの可能性を有している。
+  この 製品[せいひん]は 多[おお]くの 可能性[かのうせい]を 有[ゆう]している。
+  Dieses Produkt birgt viele Möglichkeiten in sich.
+
+  その建物は歴史的価値を有する。
+  その 建物[たてもの]は 歴史的[れきしてき] 価値[かち]を 有[ゆう]する。
+  Das Gebäude besitzt historischen Wert.
+
+  彼は特別な能力を有しているようだ。
+  彼[かれ]は 特別[とくべつ]な 能力[のうりょく]を 有[ゆう]しているようだ。
+  Er scheint über besondere Fähigkeiten zu verfügen.
+
+  この土地は豊かな資源を有する。
+  この 土地[とち]は 豊[ゆた]かな 資源[しげん]を 有[ゆう]する。
+  Dieses Land verfügt über reiche Ressourcen.
+
+  その会社は強い競争力を有している。
+  その 会社[かいしゃ]は 強[つよ]い 競争力[きょうそうりょく]を 有[ゆう]している。
+  Das Unternehmen besitzt eine starke Wettbewerbsfähigkeit.
+
+  彼らは重要な情報を有している。
+  彼[かれ]らは 重要[じゅうよう]な 情報[じょうほう]を 有[ゆう]している。
+  Sie verfügen über wichtige Informationen.
+
+  この大学は長い歴史を有する。
+  この 大学[だいがく]は 長[なが]い 歴史[れきし]を 有[ゆう]する。
+  Diese Universität hat eine lange Geschichte.
+
+  その国は豊富な天然資源を有する。
+  その 国[くに]は 豊富[ほうふ]な 天然資源[てんねんしげん]を 有[ゆう]する。
+  Dieses Land besitzt reichhaltige natürliche Ressourcen.
+
+  彼女はこの分野で豊富な経験を有している。
+  彼女[かのじょ]は この 分野[ぶんや]で 豊富[ほうふ]な 経験[けいけん]を 有[ゆう]している。
+  Sie verfügt über umfangreiche Erfahrung in diesem Bereich.
+
+  この技術は革新的な特徴を有する。
+  この 技術[ぎじゅつ]は 革新的[かくしんてき]な 特徴[とくちょう]を 有[ゆう]する。
+  Diese Technologie weist innovative Merkmale auf.
+
+  彼はその問題を解決する能力を有している。
+  彼[かれ]は その 問題[もんだい]を 解決[かいけつ]する 能力[のうりょく]を 有[ゆう]している。
+  Er besitzt die Fähigkeit, dieses Problem zu lösen.
+
+  その組織は独自の文化を有している。
+  その 組織[そしき]は 独自[どくじ]の 文化[ぶんか]を 有[ゆう]している。
+  Die Organisation hat ihre eigene Kultur.
+
+  この薬は強い効果を有する。
+  この 薬[くすり]は 強[つよ]い 効果[こうか]を 有[ゆう]する。
+  Dieses Medikament hat eine starke Wirkung.
+
+  その理論は多くの支持者を有している。
+  その 理論[りろん]は 多[おお]くの 支持者[しじしゃ]を 有[ゆう]している。
+  Diese Theorie hat viele Anhänger.
+
+  彼女はその分野で高い評価を有している。
+  彼女[かのじょ]は その 分野[ぶんや]で 高[たか]い 評価[ひょうか]を 有[ゆう]している。
+  Sie genießt in diesem Bereich hohes Ansehen.
+
+  その会社は多くの特許を有している。
+  その 会社[かいしゃ]は 多[おお]くの 特許[とっきょ]を 有[ゆう]している。
+  Das Unternehmen besitzt viele Patente.
+
+  彼はその仕事をする資格を有している。
+  彼[かれ]は その 仕事[しごと]をする 資格[しかく]を 有[ゆう]している。
+  Er ist für diese Arbeit qualifiziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,10 +2,10 @@ Rang: 1474
 Lemma: なり
 Lesung: ''
 Tonhöhen: ''
-Definition: oder, ob oder nicht
+Definition: oder; sobald
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: postp
+Wortart: postp, konj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,99 @@ Konjugation: ''
 Beispielsätze: |-
   具合が悪い時は誰かに相談するなり病院に行くなりしなさい。
   具合[ぐあい]が 悪[わる]い 時[とき]は 誰[だれ]かに 相談[そうだん]するなり 病院[びょういん]に 行[い]くなりしなさい。
-  Wenn es dir schlecht geht, solltest du mit jemandem sprechen oder ins Krankenhaus gehen.
+  Wenn du dich nicht wohl fühlst, solltest du entweder mit jemandem sprechen oder ins Krankenhaus gehen.
+
+  この問題は山田さんなり佐藤さんなりに聞いてみてください。
+  この 問題[もんだい]は 山田[やまだ]さんなり 佐藤[さとう]さんなりに 聞[き]いてみてください。
+  Fragen Sie bezüglich dieses Problems entweder Herrn Yamada oder Herrn Sato.
+
+  大なり小なり影響があるでしょう。
+  大[だい]なり 小[しょう]なり 影響[えいきょう]があるでしょう。
+  Es wird mehr oder weniger einen Einfluss haben.
+
+  彼女は部屋に入るなり、荷物を床に投げ出した。
+  彼女[かのじょ]は 部屋[へや]に 入[はい]るなり、荷物[にもつ]を 床[ゆか]に 投[な]げ 出[だ]した。
+  Kaum hatte sie das Zimmer betreten, warf sie ihr Gepäck auf den Boden.
+
+  上司は会議室に入るなり、大きな声で話し始めた。
+  上司[じょうし]は 会議室[かいぎしつ]に 入[はい]るなり、大[おお]きな 声[こえ]で 話[はな]し 始[はじ]めた。
+  Sobald der Vorgesetzte den Besprechungsraum betrat, begann er mit lauter Stimme zu sprechen.
+
+  雨が降るなり、子供たちは外に飛び出していった。
+  雨[あめ]が 降[ふ]るなり、子供[こども]たちは 外[そと]に 飛[と]び 出[だ]していった。
+  Kaum hatte es angefangen zu regnen, stürmten die Kinder nach draußen.
+
+  彼は家に帰るなり、冷蔵庫を開けて食べ物を探した。
+  彼[かれ]は 家[いえ]に 帰[かえ]るなり、冷蔵庫[れいぞうこ]を 開[あ]けて 食[た]べ 物[もの]を 探[さが]した。
+  Sobald er nach Hause kam, öffnete er den Kühlschrank und suchte nach etwas zu essen.
+
+  この仕事は田中さんなり鈴木さんなりにお願いしましょう。
+  この 仕事[しごと]は 田中[たなか]さんなり 鈴木[すずき]さんなりにお 願[ねが]いしましょう。
+  Lassen Sie uns diese Arbeit entweder Herrn Tanaka oder Herrn Suzuki anvertrauen.
+
+  学生なり社会人なり、自分の立場に応じた責任がある。
+  学生[がくせい]なり 社会人[しゃかいじん]なり、自分[じぶん]の 立場[たちば]に 応[おう]じた 責任[せきにん]がある。
+  Ob Student oder Berufstätiger, jeder hat seiner Position entsprechende Verantwortung.
+
+  彼女は電話を切るなり、急いで支度を始めた。
+  彼女[かのじょ]は 電話[でんわ]を 切[き]るなり、急[いそ]いで 支度[したく]を 始[はじ]めた。
+  Kaum hatte sie aufgelegt, begann sie hastig, sich fertig zu machen.
+
+  遅刻するなり欠席するなり、事前に連絡をしてください。
+  遅刻[ちこく]するなり 欠席[けっせき]するなり、事前[じぜん]に 連絡[れんらく]をしてください。
+  Ob Sie zu spät kommen oder ganz fehlen, bitte geben Sie vorher Bescheid.
+
+  彼は駅に着くなり、タクシーに飛び乗った。
+  彼[かれ]は 駅[えき]に 着[つ]くなり、タクシーに 飛[と]び 乗[の]った。
+  Sobald er am Bahnhof ankam, sprang er in ein Taxi.
+
+  このプロジェクトは成功するなり失敗するなり、やってみなければわからない。
+  この プロジェクトは 成功[せいこう]するなり 失敗[しっぱい]するなり、やってみなければわからない。
+  Ob dieses Projekt erfolgreich sein wird oder scheitert, wir werden es erst wissen, wenn wir es versuchen.
+
+  彼女は部屋に入るなり、深いため息をついた。
+  彼女[かのじょ]は 部屋[へや]に 入[はい]るなり、深[ふか]い ため息[いき]をついた。
+  Kaum hatte sie das Zimmer betreten, stieß sie einen tiefen Seufzer aus.
+
+  この問題は専門家なり経験者なりに相談したほうがいい。
+  この 問題[もんだい]は 専門家[せんもんか]なり 経験者[けいけんしゃ]なりに 相談[そうだん]したほうがいい。
+  Bei diesem Problem solltest du dich entweder an einen Experten oder an jemanden mit Erfahrung wenden.
+
+  彼は目を覚ますなり、スマートフォンをチェックした。
+  彼[かれ]は 目[め]を 覚[さ]ますなり、スマートフォンをチェックした。
+  Sobald er aufwachte, überprüfte er sein Smartphone.
+
+  この企画は採用するなり却下するなり、早く決断してください。
+  この 企画[きかく]は 採用[さいよう]するなり 却下[きゃっか]するなり、早[はや]く 決断[けつだん]してください。
+  Bitte entscheiden Sie schnell, ob Sie diesen Plan annehmen oder ablehnen.
+
+  彼女は家に帰るなり、ソファーに倒れ込んだ。
+  彼女[かのじょ]は 家[いえ]に 帰[かえ]るなり、ソファーに 倒[たお]れ 込[こ]んだ。
+  Kaum war sie zu Hause angekommen, ließ sie sich auf das Sofa fallen.
+
+  親なり先生なり、誰かに相談してみたらどうですか。
+  親[おや]なり 先生[せんせい]なり、誰[だれ]かに 相談[そうだん]してみたらどうですか。
+  Wie wäre es, wenn du dich entweder an deine Eltern oder an einen Lehrer wendest?
+
+  彼は教室に入るなり、大きな声で挨拶した。
+  彼[かれ]は 教室[きょうしつ]に 入[はい]るなり、大[おお]きな 声[こえ]で 挨拶[あいさつ]した。
+  Sobald er das Klassenzimmer betrat, grüßte er mit lauter Stimme.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>なり hat zwei Hauptbedeutungen:</p>
+  <p>1. Disjunktiv ("oder"):</p>
+  <div class="examples">
+    <div class="jp">大学[だいがく]なり 専門学校[せんもんがっこう]なり、進学[しんがく]先[さき]を 決[き]めなければならない。</div>
+    <div class="de spoiler">Du musst dich für ein Studium an einer Universität oder einer Fachschule entscheiden.</div>
+  </div>
+  <p>2. Unmittelbare zeitliche Abfolge ("sobald", "kaum dass"):</p>
+  <div class="examples">
+    <div class="jp">家[いえ]に 着[つ]くなり、シャワーを 浴[あ]びた。</div>
+    <div class="de spoiler">Sobald ich zu Hause ankam, nahm ich eine Dusche.</div>
+  </div>
+  <p>Bei der ersten Bedeutung wird なり oft wiederholt, um mehrere Optionen aufzulisten.</p>

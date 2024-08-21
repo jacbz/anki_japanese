@@ -2,7 +2,7 @@ Rang: 1600
 Lemma: 基準
 Lesung: きじゅん
 Tonhöhen: .^^^
-Definition: Standard
+Definition: Standard, Norm
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -16,6 +16,82 @@ Beispielsätze: |-
   この建物は安全基準を満たしている。
   この 建物[たてもの]は 安全基準[あんぜんきじゅん]を 満[み]たしている。
   Dieses Gebäude erfüllt die Sicherheitsstandards.
+
+  新しい環境基準が来月から施行される。
+  新[あたら]しい 環境基準[かんきょうきじゅん]が 来月[らいげつ]から 施行[しこう]される。
+  Die neuen Umweltstandards treten nächsten Monat in Kraft.
+
+  この会社の給与は業界の基準を上回っている。
+  この 会社[かいしゃ]の 給与[きゅうよ]は 業界[ぎょうかい]の 基準[きじゅん]を 上回[うわまわ]っている。
+  Die Gehälter in diesem Unternehmen liegen über dem Branchenstandard.
+
+  基準日までに書類を提出してください。
+  基準日[きじゅんび]までに 書類[しょるい]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie die Unterlagen bis zum Stichtag ein.
+
+  新製品は品質基準を厳しくチェックされている。
+  新製品[しんせいひん]は 品質基準[ひんしつきじゅん]を 厳[きび]しくチェックされている。
+  Die neuen Produkte werden streng auf Qualitätsstandards überprüft.
+
+  この薬局は基準薬局として認定されました。
+  この 薬局[やっきょく]は 基準薬局[きじゅんやっきょく]として 認定[にんてい]されました。
+  Diese Apotheke wurde als Standardapotheke akkreditiert.
+
+  基準値を超える放射線量が検出された。
+  基準値[きじゅんち]を 超[こ]える 放射線量[ほうしゃせんりょう]が 検出[けんしゅつ]された。
+  Es wurde eine Strahlendosis über dem Grenzwert festgestellt.
+
+  新しい会計基準の導入により、財務報告が変更される。
+  新[あたら]しい 会計基準[かいけいきじゅん]の 導入[どうにゅう]により、財務報告[ざいむほうこく]が 変更[へんこう]される。
+  Mit der Einführung neuer Rechnungslegungsstandards werden sich die Finanzberichte ändern.
+
+  この建物は最新の耐震基準に従って設計されている。
+  この 建物[たてもの]は 最新[さいしん]の 耐震基準[たいしんきじゅん]に 従[したが]って 設計[せっけい]されている。
+  Dieses Gebäude wurde nach den neuesten Erdbebensicherheitsstandards entworfen.
+
+  国際基準に合わせて製品仕様を変更しました。
+  国際基準[こくさいきじゅん]に 合[あ]わせて 製品仕様[せいひんしよう]を 変更[へんこう]しました。
+  Wir haben die Produktspezifikationen an die internationalen Standards angepasst.
+
+  基準地価の上昇が不動産市場に影響を与えている。
+  基準地価[きじゅんちか]の 上昇[じょうしょう]が 不動産市場[ふどうさんしじょう]に 影響[えいきょう]を 与[あた]えている。
+  Der Anstieg der Bodenrichtwerte beeinflusst den Immobilienmarkt.
+
+  新入社員の選考基準を見直す必要があります。
+  新入社員[しんにゅうしゃいん]の 選考基準[せんこうきじゅん]を 見直[みなお]す 必要[ひつよう]があります。
+  Wir müssen die Auswahlkriterien für neue Mitarbeiter überprüfen.
+
+  この製品は安全基準を満たしていないため、リコールされた。
+  この 製品[せいひん]は 安全基準[あんぜんきじゅん]を 満[み]たしていないため、リコールされた。
+  Dieses Produkt wurde zurückgerufen, da es die Sicherheitsstandards nicht erfüllt.
+
+  新しい教育基準の導入により、カリキュラムが変更される。
+  新[あたら]しい 教育基準[きょういくきじゅん]の 導入[どうにゅう]により、カリキュラムが 変更[へんこう]される。
+  Mit der Einführung neuer Bildungsstandards wird sich der Lehrplan ändern.
+
+  この会社は厳しい倫理基準を持っている。
+  この 会社[かいしゃ]は 厳[きび]しい 倫理基準[りんりきじゅん]を 持[も]っている。
+  Dieses Unternehmen hat strenge ethische Standards.
+
+  排出基準を守らない企業には罰金が科される。
+  排出基準[はいしゅつきじゅん]を 守[まも]らない 企業[きぎょう]には 罰金[ばっきん]が 科[か]される。
+  Unternehmen, die die Emissionsstandards nicht einhalten, werden mit Geldstrafen belegt.
+
+  基準モードでの測定結果は予想通りだった。
+  基準[きじゅん]モードでの 測定結果[そくていけっか]は 予想通[よそうどお]りだった。
+  Die Messergebnisse im Standardmodus waren wie erwartet.
+
+  この研究所は新しい測定基準を開発している。
+  この 研究所[けんきゅうじょ]は 新[あたら]しい 測定基準[そくていきじゅん]を 開発[かいはつ]している。
+  Dieses Labor entwickelt neue Messstandards.
+
+  基準為替相場の変動が輸出企業に影響を与えている。
+  基準為替相場[きじゅんかわせそうば]の 変動[へんどう]が 輸出企業[ゆしゅつきぎょう]に 影響[えいきょう]を 与[あた]えている。
+  Schwankungen im Leitkurs beeinflussen die Exportunternehmen.
+
+  基準点を正確に設定することが、測量の第一歩だ。
+  基準点[きじゅんてん]を 正確[せいかく]に 設定[せってい]することが、測量[そくりょう]の 第一歩[だいいっぽ]だ。
+  Der erste Schritt bei einer Vermessung ist die genaue Festlegung des Bezugspunkts.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

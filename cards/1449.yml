@@ -2,10 +2,10 @@ Rang: 1449
 Lemma: 身近
 Lesung: みぢか
 Tonhöhen: .^^
-Definition: vertraut, nah
+Definition: nah, vertraut
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本人にとって米は最も身近な食べ物だ。
-  日本人[にっぽんじん]にとって 米[べい]は 最[もっと]も 身近[みぢか]な 食[た]べ 物[もの]だ。
-  Reis ist für Japaner das bekannteste Nahrungsmittel.
+  日本人[にほんじん]にとって 米[こめ]は 最[もっと]も 身近[みぢか]な 食[た]べ物[もの]だ。
+  Reis ist für Japaner das vertrauteste Nahrungsmittel.
+
+  身近な人の意見は大切にすべきだ。
+  身近[みぢか]な 人[ひと]の 意見[いけん]は 大切[たいせつ]にすべきだ。
+  Man sollte die Meinungen nahestehender Personen wertschätzen.
+
+  環境問題を身近な問題として考えよう。
+  環境問題[かんきょうもんだい]を 身近[みぢか]な 問題[もんだい]として 考[かんが]えよう。
+  Lasst uns Umweltprobleme als etwas betrachten, das uns direkt betrifft.
+
+  彼は常に身近に危険を感じている。
+  彼[かれ]は 常[つね]に 身近[みぢか]に 危険[きけん]を 感[かん]じている。
+  Er spürt ständig eine unmittelbare Gefahr.
+
+  この公園は家から身近にあって便利だ。
+  この 公園[こうえん]は 家[いえ]から 身近[みぢか]にあって 便利[べんり]だ。
+  Dieser Park liegt in der Nähe meines Hauses und ist praktisch.
+
+  身近な出来事から社会問題を考えることが大切だ。
+  身近[みぢか]な 出来事[できごと]から 社会問題[しゃかいもんだい]を 考[かんが]えることが 大切[たいせつ]だ。
+  Es ist wichtig, soziale Probleme ausgehend von Ereignissen in unserem unmittelbaren Umfeld zu betrachten.
+
+  彼女は身近な友人に相談した。
+  彼女[かのじょ]は 身近[みぢか]な 友人[ゆうじん]に 相談[そうだん]した。
+  Sie hat sich mit einem engen Freund beraten.
+
+  身近な例を使って説明すると分かりやすい。
+  身近[みぢか]な 例[れい]を 使[つか]って 説明[せつめい]すると 分[わ]かりやすい。
+  Es ist leichter zu verstehen, wenn man es mit einem vertrauten Beispiel erklärt.
+
+  彼は身近に感じられる政治家として人気がある。
+  彼[かれ]は 身近[みぢか]に 感[かん]じられる 政治家[せいじか]として 人気[にんき]がある。
+  Er ist als Politiker beliebt, der den Menschen nahezustehen scheint.
+
+  この問題は私たちにとって身近なものだ。
+  この 問題[もんだい]は 私[わたし]たちにとって 身近[みぢか]なものだ。
+  Dieses Problem betrifft uns unmittelbar.
+
+  身近な人の死は大きな衝撃を与える。
+  身近[みぢか]な 人[ひと]の 死[し]は 大[おお]きな 衝撃[しょうげき]を 与[あた]える。
+  Der Tod einer nahestehenden Person ist ein großer Schock.
+
+  彼女は身近な場所で仕事を探している。
+  彼女[かのじょ]は 身近[みぢか]な 場所[ばしょ]で 仕事[しごと]を 探[さが]している。
+  Sie sucht nach einer Arbeit in ihrer näheren Umgebung.
+
+  身近なところから環境保護を始めよう。
+  身近[みぢか]なところから 環境保護[かんきょうほご]を 始[はじ]めよう。
+  Lass uns mit dem Umweltschutz in unserem unmittelbaren Umfeld beginnen.
+
+  この技術は私たちの身近な生活を変えるだろう。
+  この 技術[ぎじゅつ]は 私[わたし]たちの 身近[みぢか]な 生活[せいかつ]を 変[か]えるだろう。
+  Diese Technologie wird wahrscheinlich unser alltägliches Leben verändern.
+
+  彼は身近な自然の美しさに気づいた。
+  彼[かれ]は 身近[みぢか]な 自然[しぜん]の 美[うつく]しさに 気[き]づいた。
+  Er wurde sich der Schönheit der Natur in seiner unmittelbaren Umgebung bewusst.
+
+  身近な人の支えがあれば、困難も乗り越えられる。
+  身近[みぢか]な 人[ひと]の 支[ささ]えがあれば、困難[こんなん]も 乗[の]り 越[こ]えられる。
+  Mit der Unterstützung nahestehender Menschen kann man auch Schwierigkeiten überwinden.
+
+  私たちの身近にある小さな幸せを大切にしよう。
+  私[わたし]たちの 身近[みぢか]にある 小[ちい]さな 幸[しあわ]せを 大切[たいせつ]にしよう。
+  Lasst uns das kleine Glück in unserem Alltag wertschätzen.
+
+  彼女は身近な素材を使って料理を作る。
+  彼女[かのじょ]は 身近[みぢか]な 素材[そざい]を 使[つか]って 料理[りょうり]を 作[つく]る。
+  Sie kocht mit Zutaten, die leicht verfügbar sind.
+
+  身近な人々との関係を大切にすることが幸せの秘訣だ。
+  身近[みぢか]な 人々[ひとびと]との 関係[かんけい]を 大切[たいせつ]にすることが 幸[しあわ]せの 秘訣[ひけつ]だ。
+  Das Geheimnis des Glücks liegt darin, die Beziehungen zu den Menschen in unserer Nähe zu pflegen.
+
+  子供たちに身近な科学の面白さを教えたい。
+  子供[こども]たちに 身近[みぢか]な 科学[かがく]の 面白[おもしろ]さを 教[おし]えたい。
+  Ich möchte Kindern die Faszination der Wissenschaft in ihrem Alltag vermitteln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,20 +2,100 @@ Rang: 1414
 Lemma: 掲げる
 Lesung: かかげる
 Tonhöhen: .^^^
-Definition: hochhalten, aufhängen
-Alternativschreibweisen: ''
+Definition: hochhalten; hissen; aufstellen
+Alternativschreibweisen: 挑げる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 掲げない・掲げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   我々は高い理想を掲げている。
   我々[われわれ]は 高[たか]い 理想[りそう]を 掲[かか]げている。
-  Wir halten hohe Ideale hoch.
+  Wir vertreten hohe Ideale.
+
+  式典で国旗を掲げました。
+  式典[しきてん]で 国旗[こっき]を 掲[かか]げました。
+  Bei der Zeremonie wurde die Nationalflagge gehisst.
+
+  店の前に看板を掲げている。
+  店[みせ]の 前[まえ]に 看板[かんばん]を 掲[かか]げている。
+  Vor dem Laden hängt ein Schild.
+
+  白旗を掲げて降伏の意思を示した。
+  白旗[はくき]を 掲[かか]げて 降伏[こうふく]の 意思[いし]を 示[しめ]した。
+  Sie hissten die weiße Fahne, um ihre Kapitulation zu signalisieren.
+
+  彼は勝利の象徴として拳を掲げた。
+  彼[かれ]は 勝利[しょうり]の 象徴[しょうちょう]として 拳[こぶし]を 掲[かか]げた。
+  Er hob die Faust als Symbol des Sieges.
+
+  新聞は一面に大きな見出しを掲げた。
+  新聞[しんぶん]は 一面[いちめん]に 大[おお]きな 見出[みだ]しを 掲[かか]げた。
+  Die Zeitung brachte eine große Schlagzeile auf der Titelseite.
+
+  その政党は環境保護を掲げて選挙戦に臨んだ。
+  その 政党[せいとう]は 環境保護[かんきょうほご]を 掲[かか]げて 選挙戦[せんきょせん]に 臨[のぞ]んだ。
+  Die Partei ging mit dem Thema Umweltschutz in den Wahlkampf.
+
+  会社は新しい経営方針を掲げた。
+  会社[かいしゃ]は 新[あたら]しい 経営方針[けいえいほうしん]を 掲[かか]げた。
+  Das Unternehmen stellte eine neue Geschäftsstrategie vor.
+
+  彼らは平和の旗を掲げてデモ行進した。
+  彼[かれ]らは 平和[へいわ]の 旗[はた]を 掲[かか]げてデモ 行進[こうしん]した。
+  Sie marschierten mit Friedensfahnen bei der Demonstration.
+
+  学校の玄関に校訓を掲げてある。
+  学校[がっこう]の 玄関[げんかん]に 校訓[こうくん]を 掲[かか]げてある。
+  Das Schulmotto hängt im Eingangsbereich der Schule.
+
+  彼は正義の名の下に剣を掲げた。
+  彼[かれ]は 正義[せいぎ]の 名[な]の 下[もと]に 剣[けん]を 掲[かか]げた。
+  Er erhob das Schwert im Namen der Gerechtigkeit.
+
+  その雑誌は表紙に有名人の写真を掲げている。
+  その 雑誌[ざっし]は 表紙[ひょうし]に 有名人[ゆうめいじん]の 写真[しゃしん]を 掲[かか]げている。
+  Das Magazin zeigt auf dem Cover das Foto einer berühmten Persönlichkeit.
+
+  政府は新たな目標を掲げて改革に乗り出した。
+  政府[せいふ]は 新[あら]たな 目標[もくひょう]を 掲[かか]げて 改革[かいかく]に 乗[の]り 出[だ]した。
+  Die Regierung setzte sich neue Ziele und begann mit Reformen.
+
+  その運動は人権尊重を掲げて始まった。
+  その 運動[うんどう]は 人権尊重[じんけんそんちょう]を 掲[かか]げて 始[はじ]まった。
+  Die Bewegung begann mit dem Ziel, die Menschenrechte zu achten.
+
+  彼女は希望の灯火を掲げ続けた。
+  彼女[かのじょ]は 希望[きぼう]の 灯火[とうか]を 掲[かか]げ 続[つづ]けた。
+  Sie hielt weiterhin das Licht der Hoffnung hoch.
+
+  会議室に議題を掲げた紙が貼ってある。
+  会議室[かいぎしつ]に 議題[ぎだい]を 掲[かか]げた 紙[かみ]が 貼[は]ってある。
+  Im Konferenzraum hängt ein Blatt mit der Tagesordnung.
+
+  彼は自由の象徴として松明を掲げた。
+  彼[かれ]は 自由[じゆう]の 象徴[しょうちょう]として 松明[たいまつ]を 掲[かか]げた。
+  Er hob die Fackel als Symbol der Freiheit.
+
+  新しい店が開店を告げる旗を掲げていた。
+  新[あたら]しい 店[みせ]が 開店[かいてん]を 告[つ]げる 旗[はた]を 掲[かか]げていた。
+  Der neue Laden hatte eine Flagge gehisst, die die Eröffnung ankündigte.
+
+  彼らは団結の証として拳を掲げた。
+  彼[かれ]らは 団結[だんけつ]の 証[あかし]として 拳[こぶし]を 掲[かか]げた。
+  Sie hoben ihre Fäuste als Zeichen der Einheit.
+
+  その組織は透明性を掲げて活動している。
+  その 組織[そしき]は 透明性[とうめいせい]を 掲[かか]げて 活動[かつどう]している。
+  Die Organisation arbeitet unter dem Banner der Transparenz.
+
+  男は茶碗をかかげ、そのふしぎな茶を飲み干した。
+  男[おとこ]は 茶碗[ちゃわん]を かかげ、その ふしぎな 茶[ちゃ]を 飲[の]み 干[ほ]した。
+  Der Mann hob die Teeschale empor und trank den seltsamen Tee bis zum letzten Tropfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

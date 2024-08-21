@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は週に一度手紙をくれる。
-  彼[かれ]は 週[しゅう]に一 度[ど] 手紙[てがみ]をくれる。
-  Er schreibt mir einmal pro Woche.
+  彼[かれ]は 週[しゅう]に 一度[いちど] 手紙[てがみ]をくれる。
+  Er schreibt mir einmal pro Woche einen Brief.
+
+  私は週に3回ジムに通っています。
+  私[わたし]は 週[しゅう]に3回[さんかい]ジムに 通[かよ]っています。
+  Ich gehe dreimal pro Woche ins Fitnessstudio.
+
+  授業が週に24コマあります。
+  授業[じゅぎょう]が 週[しゅう]に24[にじゅうよん]コマあります。
+  Ich habe 24 Unterrichtseinheiten pro Woche.
+
+  週の半ばに重要な会議があります。
+  週[しゅう]の 半[なか]ばに 重要[じゅうよう]な 会議[かいぎ]があります。
+  Mitte der Woche findet eine wichtige Besprechung statt.
+
+  週の前半は忙しいですが、後半は比較的落ち着いています。
+  週[しゅう]の 前半[ぜんはん]は 忙[いそが]しいですが、後半[こうはん]は 比較的[ひかくてき] 落[お]ち 着[つ]いています。
+  Die erste Hälfte der Woche ist geschäftig, aber die zweite Hälfte ist relativ ruhig.
+
+  一週間の休暇を取ることにしました。
+  一週間[いっしゅうかん]の 休暇[きゅうか]を 取[と]ることにしました。
+  Ich habe beschlossen, eine Woche Urlaub zu nehmen.
+
+  週末は家族と過ごす時間です。
+  週末[しゅうまつ]は 家族[かぞく]と 過[す]ごす 時間[じかん]です。
+  Das Wochenende ist die Zeit, die ich mit meiner Familie verbringe.
+
+  毎週月曜日にミーティングがあります。
+  毎週[まいしゅう] 月曜日[げつようび]にミーティングがあります。
+  Jeden Montag haben wir ein Meeting.
+
+  週に一回、ボランティア活動に参加しています。
+  週[しゅう]に 一回[いっかい]、ボランティア 活動[かつどう]に 参加[さんか]しています。
+  Ich nehme einmal pro Woche an einer ehrenamtlichen Tätigkeit teil.
+
+  この仕事は週5日勤務です。
+  この 仕事[しごと]は 週[しゅう]5日[ごにち] 勤務[きんむ]です。
+  Diese Arbeit erfordert eine 5-Tage-Woche.
+
+  週の終わりに報告書を提出しなければなりません。
+  週[しゅう]の 終[お]わりに 報告書[ほうこくしょ]を 提出[ていしゅつ]しなければなりません。
+  Am Ende der Woche muss ich einen Bericht einreichen.
+
+  週に二回、英語のレッスンを受けています。
+  週[しゅう]に 二回[にかい]、英語[えいご]のレッスンを 受[う]けています。
+  Ich nehme zweimal pro Woche Englischunterricht.
+
+  来週から新しいプロジェクトが始まります。
+  来週[らいしゅう]から 新[あたら]しいプロジェクトが 始[はじ]まります。
+  Ab nächster Woche beginnt ein neues Projekt.
+
+  週の真ん中に休日があると嬉しいですね。
+  週[しゅう]の 真[ま]ん 中[なか]に 休日[きゅうじつ]があると 嬉[うれ]しいですね。
+  Es wäre schön, wenn es in der Mitte der Woche einen Feiertag gäbe, nicht wahr?
+
+  週単位で仕事の進捗を確認しています。
+  週[しゅう] 単位[たんい]で 仕事[しごと]の 進捗[しんちょく]を 確認[かくにん]しています。
+  Wir überprüfen den Arbeitsfortschritt auf wöchentlicher Basis.
+
+  彼女は週3日在宅勤務をしています。
+  彼女[かのじょ]は 週[しゅう]3日[みっか] 在宅[ざいたく] 勤務[きんむ]をしています。
+  Sie arbeitet drei Tage pro Woche von zu Hause aus.
+
+  週末に友達と映画を見に行く予定です。
+  週末[しゅうまつ]に 友達[ともだち]と 映画[えいが]を 見[み]に 行[い]く 予定[よてい]です。
+  Ich plane, am Wochenende mit Freunden ins Kino zu gehen.
+
+  週の初めに目標を立てると、生産性が上がります。
+  週[しゅう]の 初[はじ]めに 目標[もくひょう]を 立[た]てると、生産性[せいさんせい]が 上[あ]がります。
+  Wenn man sich zu Beginn der Woche Ziele setzt, erhöht sich die Produktivität.
+
+  週に一度、大掃除をする習慣があります。
+  週[しゅう]に 一度[いちど]、大掃除[おおそうじ]をする 習慣[しゅうかん]があります。
+  Ich habe die Angewohnheit, einmal pro Woche gründlich zu putzen.
+
+  この雑誌は週刊で発行されています。
+  この 雑誌[ざっし]は 週刊[しゅうかん]で 発行[はっこう]されています。
+  Diese Zeitschrift wird wöchentlich herausgegeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

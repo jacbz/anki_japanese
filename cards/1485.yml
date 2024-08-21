@@ -2,7 +2,7 @@ Rang: 1485
 Lemma: 姿勢
 Lesung: しせい
 Tonhöhen: .^^
-Definition: Haltung
+Definition: Haltung, Einstellung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼は姿勢がいい。
   彼[かれ]は 姿勢[しせい]がいい。
-  Er hat eine gute Haltung.
+  Er hat eine gute Körperhaltung.
+
+  直立姿勢で立つことは大切です。
+  直立[ちょくりつ] 姿勢[しせい]で 立[た]つことは 大切[たいせつ]です。
+  Es ist wichtig, in aufrechter Haltung zu stehen.
+
+  威嚇姿勢をとった犬に注意してください。
+  威嚇[いかく] 姿勢[しせい]をとった 犬[いぬ]に 注意[ちゅうい]してください。
+  Achten Sie auf den Hund, der eine drohende Haltung eingenommen hat.
+
+  射撃姿勢を練習することで、精度が上がります。
+  射撃[しゃげき] 姿勢[しせい]を 練習[れんしゅう]することで、精度[せいど]が 上[あ]がります。
+  Durch das Üben der Schießhaltung verbessert sich die Genauigkeit.
+
+  まっすぐな姿勢を保つことは健康に良いです。
+  まっすぐな 姿勢[しせい]を 保[たも]つことは 健康[けんこう]に 良[よ]いです。
+  Eine aufrechte Haltung zu bewahren ist gut für die Gesundheit.
+
+  長時間座っていると、前のめりの姿勢になりがちです。
+  長時間[ちょうじかん] 座[すわ]っていると、前[まえ]のめりの 姿勢[しせい]になりがちです。
+  Wenn man lange sitzt, neigt man dazu, eine gebeugte Haltung einzunehmen.
+
+  不自然な姿勢は体に負担をかけます。
+  不自然[ふしぜん]な 姿勢[しせい]は 体[からだ]に 負担[ふたん]をかけます。
+  Eine unnatürliche Körperhaltung belastet den Körper.
+
+  だらけた姿勢は印象が悪いので気をつけましょう。
+  だらけた 姿勢[しせい]は 印象[いんしょう]が 悪[わる]いので 気[き]をつけましょう。
+  Lasst uns auf eine nachlässige Haltung achten, da sie einen schlechten Eindruck macht.
+
+  楽な姿勢を取ると、リラックスできます。
+  楽[らく]な 姿勢[しせい]を 取[と]ると、リラックスできます。
+  Wenn man eine bequeme Haltung einnimmt, kann man sich entspannen.
+
+  立った姿勢で長時間作業するのは疲れますね。
+  立[た]った 姿勢[しせい]で 長時間[ちょうじかん] 作業[さぎょう]するのは 疲[つか]れますね。
+  Es ist ermüdend, lange Zeit im Stehen zu arbeiten, nicht wahr?
+
+  直立不動の姿勢をとって、敬礼しました。
+  直立不動[ちょくりつふどう]の 姿勢[しせい]をとって、敬礼[けいれい]しました。
+  Ich nahm Haltung an und salutierte.
+
+  急に姿勢を崩して、転びそうになった。
+  急[きゅう]に 姿勢[しせい]を 崩[くず]して、転[ころ]びそうになった。
+  Ich verlor plötzlich die Haltung und wäre fast gestürzt.
+
+  姿勢が崩れていると、腰痛の原因になることがあります。
+  姿勢[しせい]が 崩[くず]れていると、腰痛[ようつう]の 原因[げんいん]になることがあります。
+  Eine schlechte Haltung kann zu Rückenschmerzen führen.
+
+  先生に姿勢を正すように言われました。
+  先生[せんせい]に 姿勢[しせい]を 正[ただ]すように 言[い]われました。
+  Der Lehrer sagte mir, ich solle meine Haltung korrigieren.
+
+  賢明な姿勢で問題に対処することが重要です。
+  賢明[けんめい]な 姿勢[しせい]で 問題[もんだい]に 対処[たいしょ]することが 重要[じゅうよう]です。
+  Es ist wichtig, Probleme mit einer besonnenen Haltung anzugehen.
+
+  政府は厳しい姿勢で交渉に臨んでいます。
+  政府[せいふ]は 厳[きび]しい 姿勢[しせい]で 交渉[こうしょう]に 臨[のぞ]んでいます。
+  Die Regierung geht mit einer strengen Haltung an die Verhandlungen heran.
+
+  彼は常に前向きな姿勢を示しています。
+  彼[かれ]は 常[つね]に 前向[まえむ]きな 姿勢[しせい]を 示[しめ]しています。
+  Er zeigt stets eine positive Einstellung.
+
+  この問題についてノータッチの姿勢を貫いています。
+  この 問題[もんだい]について ノータッチ[のーたっち]の 姿勢[しせい]を 貫[つらぬ]いています。
+  Ich halte mich konsequent aus dieser Angelegenheit heraus.
+
+  裁判官には公平な姿勢が求められます。
+  裁判官[さいばんかん]には 公平[こうへい]な 姿勢[しせい]が 求[もと]められます。
+  Von einem Richter wird eine unparteiische Haltung erwartet.
+
+  過去の問題と向き合う姿勢が大切です。
+  過去[かこ]の 問題[もんだい]と 向[む]き 合[あ]う 姿勢[しせい]が 大切[たいせつ]です。
+  Es ist wichtig, eine Haltung einzunehmen, die sich der Probleme der Vergangenheit stellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -1,9 +1,9 @@
 Rang: 1610
 Lemma: マンガ
-Lesung: まんが
+Lesung: ''
 Tonhöhen: .^^
-Definition: Comics, Cartoon
-Alternativschreibweisen: ''
+Definition: Comic, Manga
+Alternativschreibweisen: 漫画
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼はいつもマンガを読んでいる。
   彼[かれ]はいつもマンガを 読[よ]んでいる。
-  Er liest immer Comics.
+  Er liest immer Manga.
+
+  新しいマンガ映画が来週公開されるらしい。
+  新[あたら]しいマンガ 映画[えいが]が 来週[らいしゅう] 公開[こうかい]されるらしい。
+  Anscheinend kommt nächste Woche ein neuer Anime-Film in die Kinos.
+
+  このマンガ本、面白いから読んでみて。
+  このマンガ 本[ほん]、面白[おもしろ]いから 読[よ]んでみて。
+  Dieses Manga-Buch ist interessant, du solltest es mal lesen.
+
+  彼女は有名なマンガ家になりたいと思っている。
+  彼女[かのじょ]は 有名[ゆうめい]なマンガ 家[か]になりたいと 思[おも]っている。
+  Sie möchte eine berühmte Manga-Zeichnerin werden.
+
+  マンガ喫茶で一日中過ごしてしまった。
+  マンガ 喫茶[きっさ]で 一日中[いちにちじゅう] 過[す]ごしてしまった。
+  Ich habe den ganzen Tag im Manga-Café verbracht.
+
+  新聞のマンガ欄を毎日楽しみにしています。
+  新聞[しんぶん]のマンガ 欄[らん]を 毎日[まいにち] 楽[たの]しみにしています。
+  Ich freue mich jeden Tag auf die Comic-Spalte in der Zeitung.
+
+  マンガ製作には多くの時間と労力がかかります。
+  マンガ 製作[せいさく]には 多[おお]くの 時間[じかん]と 労力[ろうりょく]がかかります。
+  Die Herstellung von Manga erfordert viel Zeit und Mühe.
+
+  子供向けのマンガ新聞が人気を集めている。
+  子供[こども] 向[む]けのマンガ 新聞[しんぶん]が 人気[にんき]を 集[あつ]めている。
+  Eine Comic-Beilage für Kinder wird immer beliebter.
+
+  彼はマンガ雑誌を定期購読している。
+  彼[かれ]はマンガ 雑誌[ざっし]を 定期購読[ていきこうどく]している。
+  Er hat ein Manga-Magazin abonniert.
+
+  四コママンガは短くて面白いので好きです。
+  四[よん]コママンガは 短[みじか]くて 面白[おもしろ]いので 好[す]きです。
+  Ich mag Vier-Bilder-Comics, weil sie kurz und witzig sind.
+
+  政治家をマンガ化した作品が話題になっている。
+  政治家[せいじか]をマンガ 化[か]した 作品[さくひん]が 話題[わだい]になっている。
+  Ein Werk, das Politiker als Manga-Figuren darstellt, sorgt für Gesprächsstoff.
+
+  彼女は毎日3時間マンガを描いている。
+  彼女[かのじょ]は 毎日[まいにち]3時間[じかん]マンガを 描[か]いている。
+  Sie zeichnet jeden Tag drei Stunden lang Manga.
+
+  授業中にマンガを書いて、クラスメイトを笑わせた。
+  授業中[じゅぎょうちゅう]にマンガを 書[か]いて、クラスメイトを 笑[わら]わせた。
+  Ich habe während des Unterrichts Comics gezeichnet und meine Klassenkameraden zum Lachen gebracht.
+
+  マンガを12冊読んだら、目が疲れてきた。
+  マンガを12冊[さつ] 読[よ]んだら、目[め]が 疲[つか]れてきた。
+  Nachdem ich 12 Manga-Bände gelesen hatte, wurden meine Augen müde.
+
+  このマンガは現実社会の問題を風刺している。
+  このマンガは 現実[げんじつ] 社会[しゃかい]の 問題[もんだい]を 風刺[ふうし]している。
+  Dieser Manga satirisiert Probleme der realen Gesellschaft.
+
+  マンガを通じて日本語を勉強している人が多い。
+  マンガを 通[つう]じて 日本語[にほんご]を 勉強[べんきょう]している 人[ひと]が 多[おお]い。
+  Viele Leute lernen Japanisch durch Manga.
+
+  彼のマンガのキャラクターデザインは独特だ。
+  彼[かれ]のマンガのキャラクターデザインは 独特[どくとく]だ。
+  Sein Charakter-Design für Manga ist einzigartig.
+
+  このマンガは海外でも人気があるそうだ。
+  このマンガは 海外[かいがい]でも 人気[にんき]があるそうだ。
+  Ich habe gehört, dass dieser Manga auch im Ausland beliebt ist.
+
+  マンガの影響で、日本文化に興味を持つ外国人が増えている。
+  マンガの 影響[えいきょう]で、日本[にほん] 文化[ぶんか]に 興味[きょうみ]を 持[も]つ 外国人[がいこくじん]が 増[ふ]えている。
+  Aufgrund des Einflusses von Manga interessieren sich immer mehr Ausländer für die japanische Kultur.
+
+  彼女のマンガは現代の若者の生活をよく表現している。
+  彼女[かのじょ]のマンガは 現代[げんだい]の 若者[わかもの]の 生活[せいかつ]をよく 表現[ひょうげん]している。
+  Ihre Manga stellen das Leben der heutigen Jugend sehr gut dar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

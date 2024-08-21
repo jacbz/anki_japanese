@@ -2,20 +2,96 @@ Rang: 1581
 Lemma: 誘う
 Lesung: さそう
 Tonhöhen: .^^
-Definition: einladen
+Definition: einladen; anlocken
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 誘わない・誘った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女を家に誘った。
   彼女[かのじょ]を 家[いえ]に 誘[さそ]った。
-  Ich habe sie zu mir nach Hause eingeladen.
+  Ich lud sie zu mir nach Hause ein.
+
+  映画に友達を誘おうと思っています。
+  映画[えいが]に 友達[ともだち]を 誘[さそ]おうと 思[おも]っています。
+  Ich denke darüber nach, einen Freund ins Kino einzuladen.
+
+  お茶に誘ってくれてありがとう。
+  お 茶[ちゃ]に 誘[さそ]ってくれてありがとう。
+  Danke, dass du mich zum Tee eingeladen hast.
+
+  パーティーに誘われたけど、行くかどうか迷っています。
+  パーティーに 誘[さそ]われたけど、行[い]くかどうか 迷[まよ]っています。
+  Ich wurde zu einer Party eingeladen, aber ich bin mir nicht sicher, ob ich hingehen soll.
+
+  彼は踊りに誘われても、いつも断ります。
+  彼[かれ]は 踊[おど]りに 誘[さそ]われても、いつも 断[ことわ]ります。
+  Er lehnt immer ab, wenn er zum Tanzen aufgefordert wird.
+
+  香りに誘われて、その店に入ってしまいました。
+  香[かお]りに 誘[さそ]われて、その 店[みせ]に 入[はい]ってしまいました。
+  Vom Duft angelockt, bin ich in den Laden gegangen.
+
+  新宿のディスコティックに彼女を誘った。
+  新宿[しんじゅく]のディスコティックに 彼女[かのじょ]を 誘[さそ]った。
+  Ich lud sie in eine Diskothek in Shinjuku ein.
+
+  友達に誘われて、ナイトクラブへ行ったんだよ。
+  友達[ともだち]に 誘[さそ]われて、ナイトクラブへ 行[い]ったんだよ。
+  Ein Freund nahm mich in einen Nachtclub mit.
+
+  派手な看板が人々を誘っていた。
+  派手[はで]な 看板[かんばん]が 人々[ひとびと]を 誘[さそ]っていた。
+  Das grelle Schild lockte die Leute an.
+
+  声をかけてきた双子が、別の女の子を誘っているのが見えた。
+  声[こえ]をかけてきた 双子[ふたご]が、別[べつ]の 女[おんな]の 子[こ]を 誘[さそ]っているのが 見[み]えた。
+  Ich sah, wie die Zwillinge, die mich angesprochen hatten, ein anderes Mädchen anmachten.
+
+  出る前にちょっと誘ってくれ。君に話す事がある。
+  出[で]る 前[まえ]にちょっと 誘[さそ]ってくれ。君[きみ]に 話[はな]す 事[こと]がある。
+  Hol mich vorher ab. Ich habe etwas mit dir zu besprechen.
+
+  その映画は涙を誘う感動的な内容だった。
+  その 映画[えいが]は 涙[なみだ]を 誘[さそ]う 感動的[かんどうてき]な 内容[ないよう]だった。
+  Der Film hatte einen bewegenden Inhalt, der zu Tränen rührte.
+
+  この本は眠りを誘う話がたくさんあります。
+  この 本[ほん]は 眠[ねむ]りを 誘[さそ]う 話[はなし]がたくさんあります。
+  Dieses Buch enthält viele Geschichten, die einen einschlafen lassen.
+
+  その風景写真は旅情を誘うものだった。
+  その 風景写真[ふうけいしゃしん]は 旅情[りょじょう]を 誘[さそ]うものだった。
+  Das Landschaftsfoto weckte die Reiselust.
+
+  彼のおじぎは笑いを誘わずにはおかなかった。
+  彼[かれ]のおじぎは 笑[わら]いを 誘[さそ]わずにはおかなかった。
+  Seine Verbeugung wirkte unweigerlich komisch.
+
+  子供たちを悪いことに誘ってはいけません。
+  子供[こども]たちを 悪[わる]いことに 誘[さそ]ってはいけません。
+  Man darf Kinder nicht zu schlechten Dingen verleiten.
+
+  新しいメンバーをクラブに誘おうと思います。
+  新[あたら]しいメンバーをクラブに 誘[さそ]おうと 思[おも]います。
+  Ich denke darüber nach, ein neues Mitglied in den Club einzuladen.
+
+  彼女の笑顔に誘われて、つい話しかけてしまいました。
+  彼女[かのじょ]の 笑顔[えがお]に 誘[さそ]われて、つい 話[はな]しかけてしまいました。
+  Von ihrem Lächeln angezogen, sprach ich sie einfach an.
+
+  その広告は消費者の購買意欲を誘うように設計されている。
+  その 広告[こうこく]は 消費者[しょうひしゃ]の 購買意欲[こうばいいよく]を 誘[さそ]うように 設計[せっけい]されている。
+  Die Werbung ist darauf ausgelegt, die Kauflust der Verbraucher anzuregen.
+
+  彼は常に新しいアイデアを誘発する環境を作り出そうとしている。
+  彼[かれ]は 常[つね]に 新[あたら]しいアイデアを 誘発[ゆうはつ]する 環境[かんきょう]を 作[つく]り 出[だ]そうとしている。
+  Er versucht stets, ein Umfeld zu schaffen, das neue Ideen hervorbringt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

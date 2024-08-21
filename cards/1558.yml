@@ -2,20 +2,96 @@ Rang: 1558
 Lemma: 取り組む
 Lesung: とりくむ
 Tonhöhen: .^\.
-Definition: angehen, sich befassen mit
-Alternativschreibweisen: ''
+Definition: sich befassen mit
+Alternativschreibweisen: 取組む
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 取り組まない・取り組んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は十年以上環境問題に取り組んできた。
-  彼[かれ]は十 年[ねん] 以上[いじょう] 環境問題[かんきょうもんだい]に 取[と]り 組[く]んできた。
-  Er hat sich seit über zehn Jahren mit Umweltproblemen auseinandergesetzt.
+  彼[かれ]は 十年以上[じゅうねんいじょう] 環境問題[かんきょうもんだい]に 取[と]り 組[く]んできた。
+  Er setzt sich seit über zehn Jahren mit Umweltproblemen auseinander.
+
+  新しいプロジェクトに本腰で取り組むことにしました。
+  新[あたら]しいプロジェクトに 本腰[ほんごし]で 取[と]り 組[く]むことにしました。
+  Ich habe beschlossen, mich ernsthaft mit dem neuen Projekt zu befassen.
+
+  彼女は困難な課題に積極的に取り組んでいる。
+  彼女[かのじょ]は 困難[こんなん]な 課題[かだい]に 積極的[せっきょくてき]に 取[と]り 組[く]んでいる。
+  Sie geht aktiv schwierige Aufgaben an.
+
+  この問題に取り組むには時間がかかるでしょう。
+  この 問題[もんだい]に 取[と]り 組[く]むには 時間[じかん]がかかるでしょう。
+  Es wird wohl einige Zeit dauern, dieses Problem anzugehen.
+
+  学生たちは真剣にグループプロジェクトに取り組んでいます。
+  学生[がくせい]たちは 真剣[しんけん]に グループプロジェクトに 取[と]り 組[く]んでいます。
+  Die Studenten arbeiten ernsthaft an ihrem Gruppenprojekt.
+
+  政府は貧困問題に取り組むための新たな政策を発表した。
+  政府[せいふ]は 貧困問題[ひんこんもんだい]に 取[と]り 組[く]むための 新[あら]たな 政策[せいさく]を 発表[はっぴょう]した。
+  Die Regierung hat neue Maßnahmen zur Bekämpfung der Armut angekündigt.
+
+  彼らは長年にわたって平和構築に取り組んできた。
+  彼[かれ]らは 長年[ながねん]にわたって 平和構築[へいわこうちく]に 取[と]り 組[く]んできた。
+  Sie haben sich über Jahre hinweg für den Aufbau des Friedens eingesetzt.
+
+  私たちは一丸となってこの課題に取り組まなければならない。
+  私[わたし]たちは 一丸[いちがん]となってこの 課題[かだい]に 取[と]り 組[く]まなければならない。
+  Wir müssen diese Aufgabe gemeinsam als Einheit angehen.
+
+  彼は困難に直面しても諦めずに取り組み続けた。
+  彼[かれ]は 困難[こんなん]に 直面[ちょくめん]しても 諦[あきら]めずに 取[と]り 組[く]み 続[つづ]けた。
+  Er gab nicht auf und arbeitete weiter, selbst als er auf Schwierigkeiten stieß.
+
+  会社全体で業務改善に取り組んでいます。
+  会社全体[かいしゃぜんたい]で 業務改善[ぎょうむかいぜん]に 取[と]り 組[く]んでいます。
+  Das gesamte Unternehmen arbeitet an der Verbesserung der Geschäftsprozesse.
+
+  彼女は情熱を持って新しいプロジェクトに取り組んだ。
+  彼女[かのじょ]は 情熱[じょうねつ]を 持[も]って 新[あたら]しいプロジェクトに 取[と]り 組[く]んだ。
+  Sie ging das neue Projekt mit Leidenschaft an.
+
+  この問題に取り組むには専門家の助言が必要だ。
+  この 問題[もんだい]に 取[と]り 組[く]むには 専門家[せんもんか]の 助言[じょげん]が 必要[ひつよう]だ。
+  Um dieses Problem anzugehen, brauchen wir den Rat von Experten.
+
+  チームメンバー全員でこの課題に取り組みましょう。
+  チームメンバー 全員[ぜんいん]でこの 課題[かだい]に 取[と]り 組[く]みましょう。
+  Lasst uns als gesamtes Team an dieser Aufgabe arbeiten.
+
+  彼は健康問題に取り組むため、食生活を改善した。
+  彼[かれ]は 健康問題[けんこうもんだい]に 取[と]り 組[く]むため、食生活[しょくせいかつ]を 改善[かいぜん]した。
+  Um seine Gesundheitsprobleme anzugehen, verbesserte er seine Ernährungsgewohnheiten.
+
+  私たちは地域の環境保護に積極的に取り組んでいます。
+  私[わたし]たちは 地域[ちいき]の 環境保護[かんきょうほご]に 積極的[せっきょくてき]に 取[と]り 組[く]んでいます。
+  Wir engagieren uns aktiv für den Umweltschutz in unserer Region.
+
+  彼女は毎日コツコツと論文執筆に取り組んでいる。
+  彼女[かのじょ]は 毎日[まいにち]コツコツと 論文執筆[ろんぶんしっぴつ]に 取[と]り 組[く]んでいる。
+  Sie arbeitet jeden Tag konsequent an ihrer Dissertation.
+
+  新入社員は熱心に業務に取り組んでいます。
+  新入社員[しんにゅうしゃいん]は 熱心[ねっしん]に 業務[ぎょうむ]に 取[と]り 組[く]んでいます。
+  Die neuen Mitarbeiter gehen ihre Aufgaben mit Eifer an.
+
+  この難問に取り組むには創造的な思考が必要だ。
+  この 難問[なんもん]に 取[と]り 組[く]むには 創造的[そうぞうてき]な 思考[しこう]が 必要[ひつよう]だ。
+  Um dieses schwierige Problem anzugehen, braucht es kreatives Denken.
+
+  彼らは長期的な視点を持って社会問題に取り組んでいる。
+  彼[かれ]らは 長期的[ちょうきてき]な 視点[してん]を 持[も]って 社会問題[しゃかいもんだい]に 取[と]り 組[く]んでいる。
+  Sie gehen soziale Probleme mit einer langfristigen Perspektive an.
+
+  私たちは一歩一歩着実にこの課題に取り組んでいきます。
+  私[わたし]たちは 一歩一歩[いっぽいっぽ] 着実[ちゃくじつ]にこの 課題[かだい]に 取[と]り 組[く]んでいきます。
+  Wir werden diese Aufgabe Schritt für Schritt und stetig angehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

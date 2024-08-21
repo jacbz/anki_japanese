@@ -2,20 +2,96 @@ Rang: 1468
 Lemma: 見つめる
 Lesung: みつめる
 Tonhöhen: .^^^
-Definition: starren, anstarren
-Alternativschreibweisen: ''
+Definition: anstarren, fixieren
+Alternativschreibweisen: 見詰める
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見つめない・見つめた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   男はただ子供たちを見つめていた。
   男[おとこ]はただ 子供[こども]たちを 見[み]つめていた。
-  Der Mann starrte einfach auf die Kinder.
+  Der Mann starrte nur die Kinder an.
+
+  彼女は窓の外を長い間見つめていました。
+  彼女[かのじょ]は 窓[まど]の 外[そと]を 長[なが]い 間[あいだ] 見[み]つめていました。
+  Sie blickte lange Zeit aus dem Fenster.
+
+  顔をじっと見つめないでください。失礼ですよ。
+  顔[かお]をじっと 見[み]つめないでください。失礼[しつれい]ですよ。
+  Bitte starren Sie mich nicht so an. Das ist unhöflich.
+
+  彼は眼を丸くして新しい車を見つめた。
+  彼[かれ]は 眼[め]を 丸[まる]くして 新[あたら]しい 車[くるま]を 見[み]つめた。
+  Er betrachtete das neue Auto mit großen Augen.
+
+  俊介は彼女を見た。妻も夫を見つめていた。
+  俊介[しゅんすけ]は 彼女[かのじょ]を 見[み]た。妻[つま]も 夫[おっと]を 見[み]つめていた。
+  Shunsuke sah sie an. Seine Frau erwiderte seinen Blick.
+
+  ノブはじっと大場看護婦長の横顔を見つめた。
+  ノブはじっと 大場[おおば] 看護婦長[かんごふちょう]の 横顔[よこがお]を 見[み]つめた。
+  Nobu betrachtete aufmerksam das Profil der Oberschwester Oba.
+
+  「ぼくは嫌だな。じろじろ見詰められるのは、きらいなんだ。」
+  「ぼくは 嫌[いや]だな。じろじろ 見詰[みつ]められるのは、きらいなんだ。」
+  "Ich mag das nicht. Ich hasse es, angestarrt zu werden."
+
+  彼女は鏡に映る自分の姿を長い間見つめていた。
+  彼女[かのじょ]は 鏡[かがみ]に 映[うつ]る 自分[じぶん]の 姿[すがた]を 長[なが]い 間[あいだ] 見[み]つめていた。
+  Sie betrachtete lange ihr Spiegelbild.
+
+  猫は獲物を見つめながら、ゆっくりと近づいていった。
+  猫[ねこ]は 獲物[えもの]を 見[み]つめながら、ゆっくりと 近[ちか]づいていった。
+  Die Katze näherte sich langsam ihrer Beute, während sie sie fixierte.
+
+  恋人たちは互いの目を見つめ合って、微笑んだ。
+  恋人[こいびと]たちは 互[たが]いの 目[め]を 見[み]つめ 合[あ]って、微笑[ほほえ]んだ。
+  Die Liebenden sahen sich in die Augen und lächelten.
+
+  彼は遠くの地平線を見つめながら、深い考えに沈んでいた。
+  彼[かれ]は 遠[とお]くの 地平線[ちへいせん]を 見[み]つめながら、深[ふか]い 考[かんが]えに 沈[しず]んでいた。
+  Er blickte in die ferne Horizontlinie, in tiefe Gedanken versunken.
+
+  子供は新しいおもちゃを興味深そうに見つめていた。
+  子供[こども]は 新[あたら]しいおもちゃを 興味深[きょうみぶか]そうに 見[み]つめていた。
+  Das Kind betrachtete das neue Spielzeug mit großem Interesse.
+
+  彼女は悲しそうに写真を見つめていた。
+  彼女[かのじょ]は 悲[かな]しそうに 写真[しゃしん]を 見[み]つめていた。
+  Sie blickte traurig auf das Foto.
+
+  先生は生徒たちの顔を一人一人見つめながら話をした。
+  先生[せんせい]は 生徒[せいと]たちの 顔[かお]を 一人一人[ひとりひとり] 見[み]つめながら 話[はなし]をした。
+  Der Lehrer sprach, während er jeden einzelnen Schüler anschaute.
+
+  彼は怒りの目で相手を見つめた。
+  彼[かれ]は 怒[いか]りの 目[め]で 相手[あいて]を 見[み]つめた。
+  Er starrte seinen Gegenüber wütend an.
+
+  犬は飼い主の目を見つめながら、尻尾を振っていた。
+  犬[いぬ]は 飼[か]い 主[ぬし]の 目[め]を 見[み]つめながら、尻尾[しっぽ]を 振[ふ]っていた。
+  Der Hund wedelte mit dem Schwanz, während er seinem Besitzer in die Augen sah.
+
+  彼女は夜空の星を見つめながら、願い事をした。
+  彼女[かのじょ]は 夜空[よぞら]の 星[ほし]を 見[み]つめながら、願[ねが]い 事[ごと]をした。
+  Sie betrachtete die Sterne am Nachthimmel und machte einen Wunsch.
+
+  赤ちゃんは母親の顔をじっと見つめていた。
+  赤[あか]ちゃんは 母親[ははおや]の 顔[かお]をじっと 見[み]つめていた。
+  Das Baby starrte unverwandt das Gesicht seiner Mutter an.
+
+  彼は時計を見つめながら、焦りの表情を浮かべた。
+  彼[かれ]は 時計[とけい]を 見[み]つめながら、焦[あせ]りの 表情[ひょうじょう]を 浮[う]かべた。
+  Er blickte auf die Uhr und zeigte einen besorgten Gesichtsausdruck.
+
+  観客は舞台上の演技者を食い入るように見つめていた。
+  観客[かんきゃく]は 舞台上[ぶたいじょう]の 演技者[えんぎしゃ]を 食[く]い 入[い]るように 見[み]つめていた。
+  Die Zuschauer starrten gebannt auf die Schauspieler auf der Bühne.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

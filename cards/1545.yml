@@ -2,20 +2,96 @@ Rang: 1545
 Lemma: 受け取る
 Lesung: うけとる
 Tonhöhen: .^^^
-Definition: erhalten, annehmen
-Alternativschreibweisen: ''
+Definition: entgegennehmen, annehmen
+Alternativschreibweisen: 請け取る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 受け取らない・受け取った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この手紙を受け取ったらすぐに返事をください。
   この 手紙[てがみ]を 受[う]け 取[と]ったらすぐに 返事[へんじ]をください。
-  Bitte antworte mir sofort, wenn du diesen Brief erhältst.
+  Bitte antworten Sie sofort, wenn Sie diesen Brief erhalten haben.
+
+  荷物を受け取る際にはサインが必要です。
+  荷物[にもつ]を 受[う]け 取[と]る 際[さい]にはサインが 必要[ひつよう]です。
+  Bei der Entgegennahme des Pakets ist eine Unterschrift erforderlich.
+
+  彼女は賞金を受け取るのを断った。
+  彼女[かのじょ]は 賞金[しょうきん]を 受[う]け 取[と]るのを 断[ことわ]った。
+  Sie lehnte es ab, das Preisgeld anzunehmen.
+
+  メールで重要な情報を受け取りました。
+  メールで 重要[じゅうよう]な 情報[じょうほう]を 受[う]け 取[と]りました。
+  Ich habe wichtige Informationen per E-Mail erhalten.
+
+  チップを受け取るのは会社の方針に反します。
+  チップを 受[う]け 取[と]るのは 会社[かいしゃ]の 方針[ほうしん]に 反[はん]します。
+  Das Annehmen von Trinkgeldern verstößt gegen die Firmenpolitik.
+
+  切符を受け取ったら、忘れずに確認してください。
+  切符[きっぷ]を 受[う]け 取[と]ったら、忘[わす]れずに 確認[かくにん]してください。
+  Vergessen Sie nicht, Ihre Fahrkarte nach dem Erhalt zu überprüfen.
+
+  彼女の言葉を文字通りに受け取ってはいけません。
+  彼女[かのじょ]の 言葉[ことば]を 文字通[もじどお]りに 受[う]け 取[と]ってはいけません。
+  Du solltest ihre Worte nicht wörtlich nehmen.
+
+  原稿を受け取った後、編集作業を始めます。
+  原稿[げんこう]を 受[う]け 取[と]った 後[あと]、編集[へんしゅう] 作業[さぎょう]を 始[はじ]めます。
+  Nach Erhalt des Manuskripts beginnen wir mit der Bearbeitung.
+
+  彼の提案を好意的に受け取って検討しましょう。
+  彼[かれ]の 提案[ていあん]を 好意的[こういてき]に 受[う]け 取[と]って 検討[けんとう]しましょう。
+  Lasst uns seinen Vorschlag wohlwollend aufnehmen und darüber nachdenken.
+
+  賞状を受け取る際、緊張して手が震えた。
+  賞状[しょうじょう]を 受[う]け 取[と]る 際[さい]、緊張[きんちょう]して 手[て]が 震[ふる]えた。
+  Als ich die Urkunde entgegennahm, zitterten meine Hände vor Aufregung.
+
+  彼の冗談を真面目に受け取ってしまった。
+  彼[かれ]の 冗談[じょうだん]を 真面目[まじめ]に 受[う]け 取[と]ってしまった。
+  Ich habe seinen Scherz zu ernst genommen.
+
+  この贈り物をどのように受け取ればいいか分からない。
+  この 贈[おく]り 物[もの]をどのように 受[う]け 取[と]ればいいか 分[わ]からない。
+  Ich weiß nicht, wie ich dieses Geschenk annehmen soll.
+
+  その話を否定的に受け取らないでください。
+  その 話[はなし]を 否定的[ひていてき]に 受[う]け 取[と]らないでください。
+  Bitte fassen Sie diese Geschichte nicht negativ auf.
+
+  給料を受け取ったら、すぐに家賃を払わなきゃ。
+  給料[きゅうりょう]を 受[う]け 取[と]ったら、すぐに 家賃[やちん]を 払[はら]わなきゃ。
+  Sobald ich mein Gehalt bekomme, muss ich sofort die Miete bezahlen.
+
+  彼女の言葉をストレートに受け取って傷ついた。
+  彼女[かのじょ]の 言葉[ことば]をストレートに 受[う]け 取[と]って 傷[きず]ついた。
+  Ich war verletzt, weil ich ihre Worte direkt aufgefasst habe.
+
+  メッセージを受け取ったら、すぐに返信しました。
+  メッセージを 受[う]け 取[と]ったら、すぐに 返信[へんしん]しました。
+  Ich habe sofort geantwortet, nachdem ich die Nachricht erhalten hatte.
+
+  彼の態度をどう受け取ればいいのか迷っています。
+  彼[かれ]の 態度[たいど]をどう 受[う]け 取[と]ればいいのか 迷[まよ]っています。
+  Ich bin unsicher, wie ich seine Haltung interpretieren soll.
+
+  荷物を受け取る時間を指定することができます。
+  荷物[にもつ]を 受[う]け 取[と]る 時間[じかん]を 指定[してい]することができます。
+  Sie können die Zeit für die Paketannahme festlegen.
+
+  彼の批判を建設的に受け取るよう心がけています。
+  彼[かれ]の 批判[ひはん]を 建設的[けんせつてき]に 受[う]け 取[と]るよう 心[こころ]がけています。
+  Ich bemühe mich, seine Kritik konstruktiv aufzunehmen.
+
+  注文した商品を受け取るのが楽しみです。
+  注文[ちゅうもん]した 商品[しょうひん]を 受[う]け 取[と]るのが 楽[たの]しみです。
+  Ich freue mich darauf, die bestellten Waren zu erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

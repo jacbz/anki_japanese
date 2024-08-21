@@ -2,8 +2,8 @@ Rang: 1544
 Lemma: たとえ
 Lesung: ''
 Tonhöhen: .\.
-Definition: selbst wenn
-Alternativschreibweisen: ''
+Definition: selbst wenn; auch wenn
+Alternativschreibweisen: 仮令・縦令・縦え
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Register: ''
@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   たとえ両親が反対しても私は行く。
   たとえ 両親[りょうしん]が 反対[はんたい]しても 私[わたし]は 行[い]く。
-  Ich werde gehen, selbst wenn meine Eltern dagegen sind.
+  Selbst wenn meine Eltern dagegen sind, werde ich gehen.
+
+  たとえそうであっても、私は信じません。
+  たとえそうであっても、私[わたし]は 信[しん]じません。
+  Auch wenn es so sein sollte, glaube ich es nicht.
+
+  たとえ偶然にせよ、彼女に会えてよかった。
+  たとえ 偶然[ぐうぜん]にせよ、彼女[かのじょ]に 会[あ]えてよかった。
+  Auch wenn es nur Zufall war, bin ich froh, sie getroffen zu haben.
+
+  たとえ雨が降ろうが風が吹こうが、試合は行われる。
+  たとえ 雨[あめ]が 降[ふ]ろうが 風[かぜ]が 吹[ふ]こうが、試合[しあい]は 行[おこな]われる。
+  Ob es regnet oder stürmt, das Spiel wird stattfinden.
+
+  たとえ誰であろうと、その規則は適用される。
+  たとえ 誰[だれ]であろうと、その 規則[きそく]は 適用[てきよう]される。
+  Egal wer es ist, diese Regel wird angewendet.
+
+  たとえどんなに寒くても、私は散歩に行きます。
+  たとえどんなに 寒[さむ]くても、私[わたし]は 散歩[さんぽ]に 行[い]きます。
+  Wie kalt es auch sein mag, ich gehe spazieren.
+
+  たとえ何が起きても、諦めないでください。
+  たとえ 何[なに]が 起[お]きても、諦[あきら]めないでください。
+  Was auch immer geschieht, geben Sie nicht auf.
+
+  たとえ夜でも、北極圏の夏は明るいです。
+  たとえ 夜[よる]でも、北極圏[ほっきょくけん]の 夏[なつ]は 明[あか]るいです。
+  Selbst nachts ist es im Sommer in der Arktis hell.
+
+  たとえそんな船が造れたとしても、操縦は難しいでしょう。
+  たとえそんな 船[ふね]が 造[つく]れたとしても、操縦[そうじゅう]は 難[むずか]しいでしょう。
+  Selbst wenn man so ein Schiff bauen könnte, wäre es schwierig zu steuern.
+
+  たとえ疲れていても、約束は守らなければならない。
+  たとえ 疲[つか]れていても、約束[やくそく]は 守[まも]らなければならない。
+  Auch wenn man müde ist, muss man Versprechen halten.
+
+  たとえ小さな進歩でも、前進は前進だ。
+  たとえ 小[ちい]さな 進歩[しんぽ]でも、前進[ぜんしん]は 前進[ぜんしん]だ。
+  Auch wenn es nur ein kleiner Fortschritt ist, Fortschritt bleibt Fortschritt.
+
+  たとえ遠く離れていても、心は繋がっている。
+  たとえ 遠[とお]く 離[はな]れていても、心[こころ]は 繋[つな]がっている。
+  Auch wenn wir weit voneinander entfernt sind, sind unsere Herzen verbunden.
+
+  たとえ時間がかかっても、完璧にやり遂げたい。
+  たとえ 時間[じかん]がかかっても、完璧[かんぺき]にやり 遂[と]げたい。
+  Auch wenn es Zeit braucht, möchte ich es perfekt machen.
+
+  たとえ経験がなくても、挑戦する価値はある。
+  たとえ 経験[けいけん]がなくても、挑戦[ちょうせん]する 価値[かち]はある。
+  Auch ohne Erfahrung ist es wert, es zu versuchen.
+
+  たとえ難しい問題でも、諦めずに解決策を探そう。
+  たとえ 難[むずか]しい 問題[もんだい]でも、諦[あきら]めずに 解決策[かいけつさく]を 探[さが]そう。
+  Selbst bei schwierigen Problemen sollten wir nicht aufgeben und nach Lösungen suchen.
+
+  たとえ金持ちでも、幸せとは限らない。
+  たとえ 金持[かねも]ちでも、幸[しあわ]せとは 限[かぎ]らない。
+  Auch wenn man reich ist, bedeutet das nicht unbedingt, dass man glücklich ist.
+
+  たとえ失敗しても、そこから学ぶことができる。
+  たとえ 失敗[しっぱい]しても、そこから 学[まな]ぶことができる。
+  Selbst wenn man scheitert, kann man daraus lernen.
+
+  たとえ言葉が通じなくても、心は通じ合える。
+  たとえ 言葉[ことば]が 通[つう]じなくても、心[こころ]は 通[つう]じ 合[あ]える。
+  Auch wenn man die Sprache nicht versteht, können sich die Herzen verstehen.
+
+  たとえ一人でも、夢を追い続けることが大切だ。
+  たとえ 一人[ひとり]でも、夢[ゆめ]を 追[お]い 続[つづ]けることが 大切[たいせつ]だ。
+  Auch wenn man allein ist, ist es wichtig, weiter seinen Traum zu verfolgen.
+
+  たとえ世界が変わっても、私の気持ちは変わらない。
+  たとえ 世界[せかい]が 変[か]わっても、私[わたし]の 気持[きも]ちは 変[か]わらない。
+  Auch wenn sich die Welt ändert, werden sich meine Gefühle nicht ändern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">たとえ</span> wird oft in Verbindung mit <span class="jp">⋯ても</span>, <span class="jp">⋯とも</span>, <span class="jp">⋯にせよ</span> und ähnlichen Ausdrücken verwendet, um eine Bedingung oder Situation auszudrücken, die trotz ihres Auftretens keine Auswirkung auf das Hauptereignis hat.</p>
+  <div class="examples">
+    <div class="jp">たとえ 雨[あめ]が 降[ふ]っても、私[わたし]たちは 行[い]きます。</div>
+    <div class="de spoiler">Auch wenn es regnet, werden wir gehen.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um eine hypothetische oder extreme Situation auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">たとえ 世界[せかい]が 終[お]わろうとも、私[わたし]は 君[きみ]を 愛[あい]し 続[つづ]けるだろう。</div>
+    <div class="de spoiler">Selbst wenn die Welt unterginge, würde ich dich weiterhin lieben.</div>
+  </div>
+  <p>In manchen Fällen kann <span class="jp">たとえ</span> auch allein stehen, wobei die Bedingung implizit verstanden wird:</p>
+  <div class="examples">
+    <div class="jp">たとえ 一[いち]秒[びょう]でも、遅刻[ちこく]は 遅刻[ちこく]だ。</div>
+    <div class="de spoiler">Auch wenn es nur eine Sekunde ist, zu spät ist zu spät.</div>
+  </div>

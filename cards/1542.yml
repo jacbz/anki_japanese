@@ -2,20 +2,96 @@ Rang: 1542
 Lemma: 広げる
 Lesung: ひろげる
 Tonhöhen: .^^^
-Definition: ausbreiten, erweitern
-Alternativschreibweisen: ''
+Definition: ausbreiten; erweitern
+Alternativschreibweisen: 拡げる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 広げない・広げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女は机に新聞を広げた。
   彼女[かのじょ]は 机[つくえ]に 新聞[しんぶん]を 広[ひろ]げた。
-  Sie breitete eine Zeitung auf dem Schreibtisch aus.
+  Sie breitete die Zeitung auf dem Tisch aus.
+
+  地図を広げて、目的地までのルートを確認しましょう。
+  地図[ちず]を 広[ひろ]げて、目的地[もくてきち]までのルートを 確認[かくにん]しましょう。
+  Lass uns die Karte ausbreiten und die Route zum Ziel überprüfen.
+
+  雨が降ってきたので、急いで傘を広げた。
+  雨[あめ]が 降[ふ]ってきたので、急[いそ]いで 傘[かさ]を 広[ひろ]げた。
+  Als es zu regnen begann, spannte ich schnell meinen Schirm auf.
+
+  彼は両手を広げて、子供を抱きしめた。
+  彼[かれ]は 両手[りょうて]を 広[ひろ]げて、子供[こども]を 抱[だ]きしめた。
+  Er breitete beide Arme aus und umarmte das Kind.
+
+  大きい英語の辞書を広げ、指先で単語を探していた。
+  大[おお]きい 英語[えいご]の 辞書[じしょ]を 広[ひろ]げ、指先[ゆびさき]で 単語[たんご]を 探[さが]していた。
+  Ich schlug ein großes englisches Wörterbuch auf und suchte mit der Fingerspitze nach Wörtern.
+
+  鳥が翼を広げて飛び立った。
+  鳥[とり]が 翼[つばさ]を 広[ひろ]げて 飛[と]び 立[た]った。
+  Der Vogel breitete seine Flügel aus und flog davon.
+
+  ポケットから取り出したティッシュを広げると、中央が赤く染まっていた。
+  ポケットから 取[と]り 出[だ]したティッシュを 広[ひろ]げると、中央[ちゅうおう]が 赤[あか]く 染[そ]まっていた。
+  Als ich das Taschentuch aus meiner Tasche entfaltete, war die Mitte rot gefärbt.
+
+  市場の中心には、四方に枝を広げた大きな木があった。
+  市場[いちば]の 中心[ちゅうしん]には、四方[しほう]に 枝[えだ]を 広[ひろ]げた 大[おお]きな 木[き]があった。
+  In der Mitte des Marktes stand ein großer Baum, der seine Äste in alle Richtungen ausbreitete.
+
+  会社は事業を広げて、新しい市場に参入した。
+  会社[かいしゃ]は 事業[じぎょう]を 広[ひろ]げて、新[あたら]しい 市場[しじょう]に 参入[さんにゅう]した。
+  Das Unternehmen erweiterte sein Geschäft und trat in einen neuen Markt ein.
+
+  この道路工事で、車線を広げる予定です。
+  この 道路工事[どうろこうじ]で、車線[しゃせん]を 広[ひろ]げる 予定[よてい]です。
+  Bei dieser Straßenbaumaßnahme ist geplant, die Fahrspuren zu verbreitern.
+
+  海外留学は視野を広げるいい機会になるでしょう。
+  海外留学[かいがいりゅうがく]は 視野[しや]を 広[ひろ]げるいい 機会[きかい]になるでしょう。
+  Ein Auslandsstudium wird eine gute Gelegenheit sein, deinen Horizont zu erweitern.
+
+  「仕事を広げるのではなく、むしろ縮小すべきだ」と上司は助言した。
+  「仕事[しごと]を 広[ひろ]げるのではなく、むしろ 縮小[しゅくしょう]すべきだ」と 上司[じょうし]は 助言[じょげん]した。
+  "Du solltest deine Arbeit nicht ausweiten, sondern eher reduzieren", riet der Vorgesetzte.
+
+  新しい技術を広げるために、無料のセミナーを開催します。
+  新[あたら]しい 技術[ぎじゅつ]を 広[ひろ]げるために、無料[むりょう]のセミナーを 開催[かいさい]します。
+  Um die neue Technologie zu verbreiten, veranstalten wir kostenlose Seminare.
+
+  子供たちは部屋中におもちゃを広げてしまった。
+  子供[こども]たちは 部屋中[へやじゅう]におもちゃを 広[ひろ]げてしまった。
+  Die Kinder haben ihre Spielsachen im ganzen Zimmer verstreut.
+
+  SNSを使って、イベントの情報を広げましょう。
+  SNSを 使[つか]って、イベントの 情報[じょうほう]を 広[ひろ]げましょう。
+  Lasst uns die Informationen über das Event über soziale Medien verbreiten.
+
+  テーブルの上に旅行バッグの中身を広げて、荷物を確認した。
+  テーブルの 上[うえ]に 旅行[りょこう]バッグの 中身[なかみ]を 広[ひろ]げて、荷物[にもつ]を 確認[かくにん]した。
+  Ich breitete den Inhalt meines Reisekoffers auf dem Tisch aus und überprüfte mein Gepäck.
+
+  彼女は扇を広げて、優雅に踊り始めた。
+  彼女[かのじょ]は 扇[おうぎ]を 広[ひろ]げて、優雅[ゆうが]に 踊[おど]り 始[はじ]めた。
+  Sie öffnete ihren Fächer und begann anmutig zu tanzen.
+
+  この本を広げると、美しい風景写真が現れた。
+  この 本[ほん]を 広[ひろ]げると、美[うつく]しい 風景写真[ふうけいしゃしん]が 現[あらわ]れた。
+  Als ich das Buch aufschlug, erschienen wunderschöne Landschaftsfotos.
+
+  会議で新しいアイデアを広げるために、ブレインストーミングを行った。
+  会議[かいぎ]で 新[あたら]しいアイデアを 広[ひろ]げるために、ブレインストーミングを 行[おこな]った。
+  Um in der Besprechung neue Ideen zu entwickeln, führten wir ein Brainstorming durch.
+
+  彼は手を広げて、「こんなに大きかったんだ」と説明した。
+  彼[かれ]は 手[て]を 広[ひろ]げて、「こんなに 大[おお]きかったんだ」と 説明[せつめい]した。
+  Er breitete seine Arme aus und erklärte: "Es war so groß."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

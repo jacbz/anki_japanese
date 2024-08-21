@@ -2,7 +2,7 @@ Rang: 1622
 Lemma: 鍋
 Lesung: なべ
 Tonhöhen: \.
-Definition: Topf, Pfanne; Hot-Pot
+Definition: Topf; Eintopfgericht
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,11 +15,98 @@ Konjugation: ''
 Beispielsätze: |-
   鍋に水を入れてください。
   鍋[なべ]に 水[みず]を 入[い]れてください。
-  Bitte Wasser in den Topf geben.
+  Bitte gib Wasser in den Topf.
+
+  新しい鍋敷きを買いました。
+  新[あたら]しい 鍋敷[なべし]きを 買[か]いました。
+  Ich habe einen neuen Topfuntersetzer gekauft.
+
+  揚げ鍋で天ぷらを作りましょう。
+  揚[あ]げ 鍋[なべ]で 天[てん]ぷらを 作[つく]りましょう。
+  Lass uns Tempura in der Frittierpfanne zubereiten.
+
+  中華鍋でチャーハンを炒めています。
+  中華鍋[ちゅうかなべ]でチャーハンを 炒[いた]めています。
+  Ich brate gebratenen Reis im Wok.
+
+  土鍋で煮込み料理を作るのが好きです。
+  土鍋[どなべ]で 煮込[にこ]み 料理[りょうり]を 作[つく]るのが 好[す]きです。
+  Ich mag es, Schmorgerichte im Tontopf zuzubereiten.
+
+  平鍋でパンケーキを焼いています。
+  平鍋[ひらなべ]でパンケーキを 焼[や]いています。
+  Ich backe Pfannkuchen in einer flachen Pfanne.
+
+  煎り鍋でコーヒー豆を炒ります。
+  煎[い]り 鍋[なべ]でコーヒー 豆[まめ]を 炒[いた]ります。
+  Ich röste Kaffeebohnen in einer Röstpfanne.
+
+  片手鍋でソースを温めています。
+  片手鍋[かたてなべ]でソースを 温[あたた]めています。
+  Ich erwärme die Sauce in einem Stielkasserolle.
+
+  小鍋でミルクを温めました。
+  小鍋[こなべ]でミルクを 温[あたた]めました。
+  Ich habe Milch in einem kleinen Topf erwärmt.
+
+  鍋を火にかけて、スープを作ります。
+  鍋[なべ]を 火[ひ]にかけて、スープを 作[つく]ります。
+  Ich stelle den Topf auf den Herd und koche eine Suppe.
+
+  この鍋で野菜を煮ています。
+  この 鍋[なべ]で 野菜[やさい]を 煮[に]ています。
+  Ich koche Gemüse in diesem Topf.
+
+  アルミの鍋は軽くて使いやすいです。
+  アルミの 鍋[なべ]は 軽[かる]くて 使[つか]いやすいです。
+  Aluminiumtöpfe sind leicht und einfach zu benutzen.
+
+  ガス台の上にクリームシチューの入った鍋がのっていました。
+  ガス 台[だい]の 上[うえ]にクリームシチューの 入[はい]った 鍋[なべ]がのっていました。
+  Auf dem Gasherd stand ein Topf mit Sahneragout.
+
+  冬は鍋料理が恋しくなりますね。
+  冬[ふゆ]は 鍋料理[なべりょうり]が 恋[こい]しくなりますね。
+  Im Winter sehnt man sich nach Eintopfgerichten, nicht wahr?
+
+  友達と鍋パーティーをする予定です。
+  友達[ともだち]と 鍋[なべ]パーティーをする 予定[よてい]です。
+  Ich plane eine Hotpot-Party mit Freunden.
+
+  鮟鱇鍋は冬の風物詩ですね。
+  鮟鱇鍋[あんこうなべ]は 冬[ふゆ]の 風物詩[ふうぶつし]ですね。
+  Der Seeteufeltopf ist ein typisches Wintergericht, nicht wahr?
+
+  チャンコ鍋は相撲力士の定番料理です。
+  チャンコ 鍋[なべ]は 相撲力士[すもうりきし]の 定番料理[ていばんりょうり]です。
+  Chanko-nabe ist ein Standardgericht für Sumo-Ringer.
+
+  石狩鍋は北海道の郷土料理です。
+  石狩鍋[いしかりなべ]は 北海道[ほっかいどう]の 郷土料理[きょうどりょうり]です。
+  Ishikari-nabe ist ein lokales Gericht aus Hokkaido.
+
+  かき鍋を食べて、体が温まりました。
+  かき 鍋[なべ]を 食[た]べて、体[からだ]が 温[あたた]まりました。
+  Ich habe Austern-Eintopf gegessen und mein Körper wurde warm.
+
+  今夜の夕食は牛鍋にしましょう。
+  今夜[こんや]の 夕食[ゆうしょく]は 牛鍋[ぎゅうなべ]にしましょう。
+  Lass uns heute Abend Rindfleisch-Hotpot zum Abendessen machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>鍋 (nabe) hat zwei Hauptbedeutungen:</p>
+  <p>1. Ein Kochtopf oder eine Pfanne</p>
+  <div class="examples">
+    <div class="jp">鍋[なべ]を 火[ひ]にかける</div>
+    <div class="de spoiler">Einen Topf aufs Feuer stellen</div>
+  </div>
+  <p>2. Ein Eintopfgericht, das am Tisch in einem Topf gekocht wird (ähnlich wie Fondue)</p>
+  <div class="examples">
+    <div class="jp">今夜[こんや]は 鍋[なべ]を 囲[かこ]んで 食事[しょくじ]しよう</div>
+    <div class="de spoiler">Lass uns heute Abend gemeinsam um einen Hotpot herum essen</div>
+  </div>

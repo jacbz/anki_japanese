@@ -2,20 +2,96 @@ Rang: 1578
 Lemma: 経る
 Lesung: へる
 Tonhöhen: \.
-Definition: durchlaufen, erleben
-Alternativschreibweisen: ''
+Definition: vergehen; durchmachen
+Alternativschreibweisen: 歴る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 経らない・経った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女はつらい体験を経て精神的に強くなった。
   彼女[かのじょ]はつらい 体験[たいけん]を 経[へ]て 精神的[せいしんてき]に 強[つよ]くなった。
-  Sie wurde nach dem Durchlaufen von Schwierigkeiten mental stark.
+  Sie ist durch schwierige Erfahrungen mental stärker geworden.
+
+  五時間を経て、やっと目的地に到着しました。
+  五時間[ごじかん]を 経[へ]て、やっと 目的地[もくてきち]に 到着[とうちゃく]しました。
+  Nach fünf Stunden sind wir endlich am Ziel angekommen.
+
+  三年経て故郷に戻ってきた彼は、街の変化に驚いた。
+  三年[さんねん] 経[へ]て 故郷[こきょう]に 戻[もど]ってきた 彼[かれ]は、街[まち]の 変化[へんか]に 驚[おどろ]いた。
+  Als er nach drei Jahren in seine Heimatstadt zurückkehrte, war er über die Veränderungen in der Stadt erstaunt.
+
+  年月が経るにつれて、彼らの友情はより深くなった。
+  年月[ねんげつ]が 経[へ]るにつれて、彼[かれ]らの 友情[ゆうじょう]はより 深[ふか]くなった。
+  Im Laufe der Jahre wurde ihre Freundschaft immer tiefer.
+
+  京都を経て大阪へ行く新幹線のルートを選びました。
+  京都[きょうと]を 経[へ]て 大阪[おおさか]へ 行[い]く 新幹線[しんかんせん]のルートを 選[えら]びました。
+  Ich habe die Shinkansen-Route gewählt, die über Kyoto nach Osaka führt.
+
+  この商品は多くの人の手を経て、最終的に消費者に届きます。
+  この 商品[しょうひん]は 多[おお]くの 人[ひと]の 手[て]を 経[へ]て、最終的[さいしゅうてき]に 消費者[しょうひしゃ]に 届[とど]きます。
+  Dieses Produkt geht durch viele Hände, bevor es schließlich den Verbraucher erreicht.
+
+  彼らは山を経て海に出る長い旅をした。
+  彼[かれ]らは 山[やま]を 経[へ]て 海[うみ]に 出[で]る 長[なが]い 旅[たび]をした。
+  Sie machten eine lange Reise über die Berge zum Meer.
+
+  私たちは様々な過程を経て、最終的な結論に達しました。
+  私[わたし]たちは 様々[さまざま]な 過程[かてい]を 経[へ]て、最終的[さいしゅうてき]な 結論[けつろん]に 達[たっ]しました。
+  Wir haben verschiedene Prozesse durchlaufen, um zu einem endgültigen Schluss zu kommen.
+
+  困難を経て成功にいたる道のりは決して平坦ではない。
+  困難[こんなん]を 経[へ]て 成功[せいこう]にいたる 道のり[みちのり]は 決[けっ]して 平坦[へいたん]ではない。
+  Der Weg zum Erfolg durch Schwierigkeiten ist nie einfach.
+
+  彼は多くの辛苦を経て、今の地位を手に入れた。
+  彼[かれ]は 多[おお]くの 辛苦[しんく]を 経[へ]て、今[いま]の 地位[ちい]を 手[て]に 入[い]れた。
+  Er hat seine jetzige Position durch viele Schwierigkeiten erreicht.
+
+  新製品の開発には複雑な手続きを経る必要があります。
+  新製品[しんせいひん]の 開発[かいはつ]には 複雑[ふくざつ]な 手続[てつづ]きを 経[へ]る 必要[ひつよう]があります。
+  Die Entwicklung eines neuen Produkts erfordert komplexe Verfahren.
+
+  時が経つにつれて、傷跡は薄れていきました。
+  時[とき]が 経[へ]つにつれて、傷跡[きずあと]は 薄[うす]れていきました。
+  Mit der Zeit verblassten die Narben.
+
+  彼女は厳しい訓練を経て、オリンピック選手になった。
+  彼女[かのじょ]は 厳[きび]しい 訓練[くんれん]を 経[へ]て、オリンピック 選手[せんしゅ]になった。
+  Sie wurde durch hartes Training zur olympischen Athletin.
+
+  この橋を経て隣町に行けば、時間の節約になります。
+  この 橋[はし]を 経[へ]て 隣町[となりまち]に 行[い]けば、時間[じかん]の 節約[せつやく]になります。
+  Wenn du über diese Brücke in die Nachbarstadt gehst, sparst du Zeit.
+
+  彼は多くの失敗を経て、ついに成功を収めた。
+  彼[かれ]は 多[おお]くの 失敗[しっぱい]を 経[へ]て、ついに 成功[せいこう]を 収[おさ]めた。
+  Nach vielen Misserfolgen hatte er endlich Erfolg.
+
+  この老人は戦争を経て、平和の尊さを身をもって知っている。
+  この 老人[ろうじん]は 戦争[せんそう]を 経[へ]て、平和[へいわ]の 尊[とうと]さを 身[み]をもって 知[し]っている。
+  Dieser alte Mann hat den Krieg erlebt und kennt den Wert des Friedens aus erster Hand.
+
+  長い審査過程を経て、プロジェクトは最終的に承認された。
+  長[なが]い 審査[しんさ] 過程[かてい]を 経[へ]て、プロジェクトは 最終的[さいしゅうてき]に 承認[しょうにん]された。
+  Nach einem langen Prüfungsprozess wurde das Projekt schließlich genehmigt.
+
+  彼らは厳しい冬を経て、春の訪れを心待ちにしていた。
+  彼[かれ]らは 厳[きび]しい 冬[ふゆ]を 経[へ]て、春[はる]の 訪[おとず]れを 心待[こころま]ちにしていた。
+  Nach einem harten Winter sehnten sie sich nach dem Frühling.
+
+  この植物は複雑な進化の過程を経て、現在の形になった。
+  この 植物[しょくぶつ]は 複雑[ふくざつ]な 進化[しんか]の 過程[かてい]を 経[へ]て、現在[げんざい]の 形[かたち]になった。
+  Diese Pflanze hat sich durch einen komplexen Evolutionsprozess zu ihrer heutigen Form entwickelt.
+
+  彼女は数々の試練を経て、より強い人間になった。
+  彼女[かのじょ]は 数々[かずかず]の 試練[しれん]を 経[へ]て、より 強[つよ]い 人間[にんげん]になった。
+  Sie ist durch viele Prüfungen zu einem stärkeren Menschen geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

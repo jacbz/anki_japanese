@@ -5,7 +5,7 @@ Tonhöhen: .\
 Definition: zweimal
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,100 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   パリへ二度行ったことがある。
-  パリへ二 度[ど] 行[おこな]ったことがある。
-  Ich war zweimal in Paris.
+  パリへ 二度[にど] 行[い]ったことがある。
+  Ich bin zweimal in Paris gewesen.
+
+  二度と同じ過ちを繰り返さないと約束します。
+  二度[にど]と 同[おな]じ 過[あやま]ちを 繰[く]り 返[かえ]さないと 約束[やくそく]します。
+  Ich verspreche, denselben Fehler kein zweites Mal zu machen.
+
+  この機会は二度とないかもしれません。
+  この 機会[きかい]は 二度[にど]とないかもしれません。
+  Diese Gelegenheit könnte sich nie wieder bieten.
+
+  壁に二度ペンキを塗る必要があります。
+  壁[かべ]に 二度[にど]ペンキを 塗[ぬ]る 必要[ひつよう]があります。
+  Die Wand muss zweimal gestrichen werden.
+
+  二度収穫できる作物を植えることにしました。
+  二度収穫[にどしゅうかく]できる 作物[さくもつ]を 植[う]えることにしました。
+  Wir haben beschlossen, Pflanzen anzubauen, die zweimal im Jahr geerntet werden können.
+
+  彼は二度と来ないと言ったが、結局また現れた。
+  彼[かれ]は 二度[にど]と 来[こ]ないと 言[い]ったが、結局[けっきょく]また 現[あらわ]れた。
+  Er sagte, er würde nie wieder kommen, aber am Ende tauchte er doch wieder auf.
+
+  二度あることは三度あるという諺を知っていますか。
+  二度[にど]あることは 三度[さんど]あるという 諺[ことわざ]を 知[し]っていますか。
+  Kennst du das Sprichwort "Was zweimal geschieht, geschieht auch ein drittes Mal"?
+
+  今日の最高気温は二度です。
+  今日[きょう]の 最高気温[さいこうきおん]は 二度[にど]です。
+  Die Höchsttemperatur heute beträgt zwei Grad.
+
+  この角度を二度だけ変更してください。
+  この 角度[かくど]を 二度[にど]だけ 変更[へんこう]してください。
+  Bitte ändern Sie diesen Winkel um nur zwei Grad.
+
+  音楽の二度は、隣り合った二つの音の間隔です。
+  音楽[おんがく]の 二度[にど]は、隣[とな]り 合[あ]った 二[ふた]つの 音[おと]の 間隔[かんかく]です。
+  In der Musik ist eine Sekunde der Abstand zwischen zwei benachbarten Tönen.
+
+  二度と彼に会いたくないと思った。
+  二度[にど]と 彼[かれ]に 会[あ]いたくないと 思[おも]った。
+  Ich dachte, ich wollte ihn nie wieder sehen.
+
+  この薬は一日二度服用してください。
+  この 薬[くすり]は 一日[いちにち] 二度[にど] 服用[ふくよう]してください。
+  Bitte nehmen Sie dieses Medikament zweimal täglich ein.
+
+  二度目の挑戦で、彼は試験に合格した。
+  二度目[にどめ]の 挑戦[ちょうせん]で、彼[かれ]は 試験[しけん]に 合格[ごうかく]した。
+  Bei seinem zweiten Versuch hat er die Prüfung bestanden.
+
+  この映画は二度見る価値があります。
+  この 映画[えいが]は 二度[にど] 見[み]る 価値[かち]があります。
+  Dieser Film ist es wert, zweimal gesehen zu werden.
+
+  彼女は二度と私に電話をかけてこなかった。
+  彼女[かのじょ]は 二度[にど]と 私[わたし]に 電話[でんわ]をかけてこなかった。
+  Sie hat mich kein zweites Mal angerufen.
+
+  二度手間になるのを避けるため、最初から慎重に作業しましょう。
+  二度手間[にどでま]になるのを 避[さ]けるため、最初[さいしょ]から 慎重[しんちょう]に 作業[さぎょう]しましょう。
+  Lass uns von Anfang an sorgfältig arbeiten, um doppelte Arbeit zu vermeiden.
+
+  この料理は二度温めると味が落ちてしまいます。
+  この 料理[りょうり]は 二度[にど] 温[あたた]めると 味[あじ]が 落[お]ちてしまいます。
+  Wenn man dieses Gericht zweimal aufwärmt, verliert es an Geschmack.
+
+  彼は二度目の結婚で幸せを見つけました。
+  彼[かれ]は 二度目[にどめ]の 結婚[けっこん]で 幸[しあわ]せを 見[み]つけました。
+  Er fand sein Glück in seiner zweiten Ehe.
+
+  二度と同じ間違いを繰り返さないよう、しっかり反省しました。
+  二度[にど]と 同[おな]じ 間違[まちが]いを 繰[く]り 返[かえ]さないよう、しっかり 反省[はんせい]しました。
+  Ich habe gründlich darüber nachgedacht, um denselben Fehler nicht noch einmal zu machen.
+
+  二度あることは三度あるので、もう一度気をつけましょう。
+  二度[にど]あることは 三度[さんど]あるので、もう 一度[いちど] 気[き]をつけましょう。
+  Da sich Dinge, die zweimal passiert sind, auch ein drittes Mal ereignen können, lasst uns noch einmal vorsichtig sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>二度 kann sowohl als Nomen als auch als Adverb verwendet werden. Oft wird es mit der Partikel と kombiniert, um "nie wieder" oder "kein zweites Mal" auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">二度[にど]と 来[こ]ないでください。</div>
+    <div class="de spoiler">Kommen Sie bitte nie wieder.</div>
+  </div>
+  <p>Es wird auch verwendet, um "zwei Grad" (Temperatur oder Winkel) auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">今日[きょう]の 気温[きおん]は 二度[にど]です。</div>
+    <div class="de spoiler">Die heutige Temperatur beträgt zwei Grad.</div>
+  </div>
+  <p>In der Musik bezeichnet es die zweite Stufe oder Sekunde.</p>
+  <p>Es gibt ein verwandtes Sprichwort: 二度あることは三度ある (Was zweimal geschieht, geschieht auch ein drittes Mal), was dem deutschen "Aller guten Dinge sind drei" ähnelt.</p>

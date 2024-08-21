@@ -2,20 +2,100 @@ Rang: 1547
 Lemma: 望む
 Lesung: のぞむ
 Tonhöhen: .^^
-Definition: hoffen
+Definition: wünschen; betrachten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 望まない・望んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   世界中の人が平和を望んでいる。
-  世界[せかい] 中[なか]の 人[ひと]が 平和[へいわ]を 望[のぞ]んでいる。
-  Menschen auf der ganzen Welt hoffen auf Frieden.
+  世界中[せかいじゅう]の 人[ひと]が 平和[へいわ]を 望[のぞ]んでいる。
+  Menschen auf der ganzen Welt wünschen sich Frieden.
+
+  彼女は大学院への進学を望んでいます。
+  彼女[かのじょ]は 大学院[だいがくいん]への 進学[しんがく]を 望[のぞ]んでいます。
+  Sie strebt ein Studium an einer Graduate School an.
+
+  両親は私の健康を何よりも望んでいるんだ。
+  両親[りょうしん]は 私[わたし]の 健康[けんこう]を 何[なに]よりも 望[のぞ]んでいるんだ。
+  Meine Eltern wünschen sich vor allem meine Gesundheit.
+
+  好天気を望みながら、明日の遠足の準備をしています。
+  好天気[こうてんき]を 望[のぞ]みながら、明日[あした]の 遠足[えんそく]の 準備[じゅんび]をしています。
+  Wir bereiten den morgigen Ausflug vor und hoffen auf gutes Wetter.
+
+  政府に経済対策の実施を望む声が高まっている。
+  政府[せいふ]に 経済対策[けいざいたいさく]の 実施[じっし]を 望[のぞ]む 声[こえ]が 高[たか]まっている。
+  Die Forderungen nach wirtschaftlichen Maßnahmen seitens der Regierung werden lauter.
+
+  新しい環境でのスタートを望んで、転職を決意しました。
+  新[あたら]しい 環境[かんきょう]でのスタートを 望[のぞ]んで、転職[てんしょく]を 決意[けつい]しました。
+  In der Hoffnung auf einen Neuanfang in einer neuen Umgebung habe ich mich für einen Jobwechsel entschieden.
+
+  自ら望んで難しい仕事に挑戦する彼の姿勢は素晴らしい。
+  自[みずか]ら 望[のぞ]んで 難[むずか]しい 仕事[しごと]に 挑戦[ちょうせん]する 彼[かれ]の 姿勢[しせい]は 素晴[すば]らしい。
+  Seine Haltung, sich aus eigenem Antrieb schwierigen Aufgaben zu stellen, ist bewundernswert.
+
+  それ以上に望むことはないと、彼女は幸せそうに言った。
+  それ 以上[いじょう]に 望[のぞ]むことはないと、彼女[かのじょ]は 幸[しあわ]せそうに 言[い]った。
+  Sie sagte glücklich, dass sie sich nichts mehr wünschen könne.
+
+  近親者として扱われることを自分たちは望んでいます。
+  近親者[きんしんしゃ]として 扱[あつか]われることを 自分[じぶん]たちは 望[のぞ]んでいます。
+  Wir wünschen uns, wie enge Verwandte behandelt zu werden.
+
+  彼女はピアノよりもむしろヴァイオリンを望んだ。
+  彼女[かのじょ]はピアノよりもむしろヴァイオリンを 望[のぞ]んだ。
+  Sie wollte lieber eine Geige als ein Klavier.
+
+  この部屋からは富士山を望むことができます。
+  この 部屋[へや]からは 富士山[ふじさん]を 望[のぞ]むことができます。
+  Von diesem Zimmer aus kann man den Berg Fuji sehen.
+
+  海を望む高台に新しい家を建てる予定です。
+  海[うみ]を 望[のぞ]む 高台[たかだい]に 新[あたら]しい 家[いえ]を 建[た]てる 予定[よてい]です。
+  Wir planen, ein neues Haus auf einem Hügel mit Blick auf das Meer zu bauen.
+
+  ホテルの窓から日の出を望むことができて感動しました。
+  ホテルの 窓[まど]から 日[ひ]の 出[で]を 望[のぞ]むことができて 感動[かんどう]しました。
+  Ich war begeistert, den Sonnenaufgang vom Hotelfenster aus betrachten zu können.
+
+  このレストランからは美しい海が望まれます。
+  このレストランからは 美[うつく]しい 海[うみ]が 望[のぞ]まれます。
+  Von diesem Restaurant aus hat man einen schönen Blick auf das Meer.
+
+  山々の風景を望みながら、静かに瞑想する時間を過ごした。
+  山々[やまやま]の 風景[ふうけい]を 望[のぞ]みながら、静[しず]かに 瞑想[めいそう]する 時間[じかん]を 過[す]ごした。
+  Ich verbrachte eine ruhige Zeit in Meditation, während ich die Berglandschaft betrachtete.
+
+  望まれる結果を得るには、努力が必要だ。
+  望[のぞ]まれる 結果[けっか]を 得[え]るには、努力[どりょく]が 必要[ひつよう]だ。
+  Um das gewünschte Ergebnis zu erzielen, ist Anstrengung erforderlich.
+
+  彼らは良い教育を子供たちに与えることを望んでいる。
+  彼[かれ]らは 良[よ]い 教育[きょういく]を 子供[こども]たちに 与[あた]えることを 望[のぞ]んでいる。
+  Sie hoffen darauf, ihren Kindern eine gute Ausbildung geben zu können.
+
+  会社の発展を望んで、社員一同が一丸となって頑張っています。
+  会社[かいしゃ]の 発展[はってん]を 望[のぞ]んで、社員[しゃいん] 一同[いちどう]が 一丸[いちがん]となって 頑張[がんば]っています。
+  In der Hoffnung auf das Wachstum des Unternehmens arbeiten alle Mitarbeiter gemeinsam hart.
+
+  皆さんのご健康とご多幸を心より望んでおります。
+  皆[みな]さんのご 健康[けんこう]とご 多幸[たこう]を 心[こころ]より 望[のぞ]んでおります。
+  Ich wünsche Ihnen allen von Herzen Gesundheit und Glück.
+
+  彼は自分の将来について明確なビジョンを望んでいる。
+  彼[かれ]は 自分[じぶん]の 将来[しょうらい]について 明確[めいかく]なビジョンを 望[のぞ]んでいる。
+  Er wünscht sich eine klare Vision für seine Zukunft.
+
+  この試合に勝利することを心から望んでいます。
+  この 試合[しあい]に 勝利[しょうり]することを 心[こころ]から 望[のぞ]んでいます。
+  Ich hoffe von ganzem Herzen, dass wir dieses Spiel gewinnen werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

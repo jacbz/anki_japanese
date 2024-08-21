@@ -5,17 +5,93 @@ Tonhöhen: .^^^
 Definition: Fertigstellung
 Alternativschreibweisen: ''
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 完成させる・完成させた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その橋は完成までに約三年かかるだろう。
-  その 橋[はし]は 完成[かんせい]までに 約[やく]三 年[ねん]かかるだろう。
-  Es wird etwa drei Jahre dauern, um die Brücke fertigzustellen.
+  その 橋[はし]は 完成[かんせい]までに 約[やく]三年[さんねん]かかるだろう。
+  Die Fertigstellung dieser Brücke wird voraussichtlich etwa drei Jahre dauern.
+
+  新製品の完成品を早く見てみたいです。
+  新製品[しんせいひん]の 完成品[かんせいひん]を 早[はや]く 見[み]てみたいです。
+  Ich möchte das fertige Produkt des neuen Artikels so bald wie möglich sehen.
+
+  彼の絵画は完成美の域に達している。
+  彼[かれ]の 絵画[かいが]は 完成美[かんせいび]の 域[いき]に 達[たっ]している。
+  Seine Gemälde haben einen Grad vollendeter Schönheit erreicht.
+
+  完成度の高い作品を目指しています。
+  完成度[かんせいど]の 高[たか]い 作品[さくひん]を 目指[めざ]しています。
+  Wir streben ein Werk mit einem hohen Grad an Perfektion an.
+
+  新しい校舎の完成教育を受けた学生たちが卒業しました。
+  新[あたら]しい 校舎[こうしゃ]の 完成教育[かんせいきょういく]を 受[う]けた 学生[がくせい]たちが 卒業[そつぎょう]しました。
+  Die Studenten, die ihre Ausbildung im neuen Schulgebäude abgeschlossen haben, sind graduiert.
+
+  自己完成を目指して日々努力しています。
+  自己完成[じこかんせい]を 目指[めざ]して 日々[ひび] 努力[どりょく]しています。
+  Ich bemühe mich täglich um Selbstvervollkommnung.
+
+  住宅完成までの過程を写真に収めました。
+  住宅完成[じゅうたくかんせい]までの 過程[かてい]を 写真[しゃしん]に 収[おさ]めました。
+  Ich habe den Prozess bis zur Fertigstellung des Hauses fotografisch festgehalten.
+
+  未完成の作品も芸術的価値があることがあります。
+  未完成[みかんせい]の 作品[さくひん]も 芸術的[げいじゅつてき] 価値[かち]があることがあります。
+  Auch unvollendete Werke können einen künstlerischen Wert haben.
+
+  住宅完成保障は家を建てる際の重要な保証です。
+  住宅完成保障[じゅうたくかんせいほしょう]は 家[いえ]を 建[た]てる 際[さい]の 重要[じゅうよう]な 保証[ほしょう]です。
+  Die Fertigstellungsgarantie ist eine wichtige Versicherung beim Hausbau.
+
+  プロジェクトの完成に近づいていることを実感しています。
+  プロジェクトの 完成[かんせい]に 近[ちか]づいていることを 実感[じっかん]しています。
+  Ich spüre, dass wir uns der Vollendung des Projekts nähern.
+
+  殿は大船の完成を急ぐために多くの職人を集めました。
+  殿[との]は 大船[おおぶね]の 完成[かんせい]を 急[いそ]ぐために 多[おお]くの 職人[しょくにん]を 集[あつ]めました。
+  Der Fürst versammelte viele Handwerker, um die Fertigstellung des großen Schiffes zu beschleunigen.
+
+  新しいビルは6月に完成する予定です。
+  新[あたら]しいビルは6月[ろくがつ]に 完成[かんせい]する 予定[よてい]です。
+  Das neue Gebäude soll im Juni fertiggestellt werden.
+
+  報告書を完成させるのに予想以上に時間がかかりました。
+  報告書[ほうこくしょ]を 完成[かんせい]させるのに 予想以上[よそういじょう]に 時間[じかん]がかかりました。
+  Die Fertigstellung des Berichts hat länger gedauert als erwartet.
+
+  完成した本を手に取ったときの喜びは格別です。
+  完成[かんせい]した 本[ほん]を 手[て]に 取[と]ったときの 喜[よろこ]びは 格別[かくべつ]です。
+  Die Freude, wenn man das fertige Buch in den Händen hält, ist etwas ganz Besonderes.
+
+  新しい製造技術を完成させるために多くの試行錯誤がありました。
+  新[あたら]しい 製造技術[せいぞうぎじゅつ]を 完成[かんせい]させるために 多[おお]くの 試行錯誤[しこうさくご]がありました。
+  Es gab viele Versuche und Irrtümer, um die neue Produktionstechnik zu perfektionieren.
+
+  「今の翻訳が完成したら、一番にあなたにお見せします」と彼女は約束しました。
+  「今[いま]の 翻訳[ほんやく]が 完成[かんせい]したら、一番[いちばん]にあなたにお 見[み]せします」と 彼女[かのじょ]は 約束[やくそく]しました。
+  "Wenn ich meine aktuelle Übersetzung fertig habe, zeige ich sie Ihnen als Erstem", versprach sie.
+
+  この建物の完成は町の新しい時代の始まりを象徴しています。
+  この 建物[たてもの]の 完成[かんせい]は 町[まち]の 新[あたら]しい 時代[じだい]の 始[はじ]まりを 象徴[しょうちょう]しています。
+  Die Fertigstellung dieses Gebäudes symbolisiert den Beginn einer neuen Ära für die Stadt.
+
+  長年の研究の完成を祝う会が開かれました。
+  長年[ながねん]の 研究[けんきゅう]の 完成[かんせい]を 祝[いわ]う 会[かい]が 開[ひら]かれました。
+  Es wurde eine Feier abgehalten, um den Abschluss jahrelanger Forschung zu feiern.
+
+  彼の演技は完成の域に達していると批評家たちに絶賛されています。
+  彼[かれ]の 演技[えんぎ]は 完成[かんせい]の 域[いき]に 達[たっ]していると 批評家[ひひょうか]たちに 絶賛[ぜっさん]されています。
+  Seine Schauspielkunst wird von Kritikern als vollendet gelobt.
+
+  新しい薬の完成は多くの患者に希望をもたらすでしょう。
+  新[あたら]しい 薬[くすり]の 完成[かんせい]は 多[おお]くの 患者[かんじゃ]に 希望[きぼう]をもたらすでしょう。
+  Die Fertigstellung des neuen Medikaments wird vielen Patienten Hoffnung bringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

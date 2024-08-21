@@ -2,20 +2,96 @@ Rang: 1585
 Lemma: 飾る
 Lesung: かざる
 Tonhöhen: .^^
-Definition: dekoriere(n)
+Definition: schmücken, dekorieren
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 飾らない・飾った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   机の上にきれいな花が飾ってあった。
   机[つくえ]の 上[うえ]にきれいな 花[はな]が 飾[かざ]ってあった。
-  Es waren schöne Blumen auf dem Schreibtisch dekoriert.
+  Auf dem Schreibtisch standen schöne Blumen zur Dekoration.
+
+  クリスマスツリーを飾るのが毎年の楽しみです。
+  クリスマスツリーを 飾[かざ]るのが 毎年[まいとし]の 楽[たの]しみです。
+  Es macht jedes Jahr Spaß, den Weihnachtsbaum zu schmücken.
+
+  彼女は言葉を飾らずに率直に意見を述べた。
+  彼女[かのじょ]は 言葉[ことば]を 飾[かざ]らずに 率直[そっちょく]に 意見[いけん]を 述[の]べた。
+  Sie äußerte ihre Meinung ohne Umschweife und ganz offen.
+
+  新しいレストランのショーウィンドーには美しい料理が飾られていた。
+  新[あたら]しいレストランのショーウィンドーには 美[うつく]しい 料理[りょうり]が 飾[かざ]られていた。
+  Im Schaufenster des neuen Restaurants waren schöne Gerichte ausgestellt.
+
+  パーティーのテーブルを花で飾りました。
+  パーティーのテーブルを 花[はな]で 飾[かざ]りました。
+  Ich habe den Tisch für die Party mit Blumen dekoriert.
+
+  彼女は身を飾るのが上手で、いつもおしゃれです。
+  彼女[かのじょ]は 身[み]を 飾[かざ]るのが 上手[じょうず]で、いつもおしゃれです。
+  Sie versteht es, sich gut zu kleiden, und ist immer schick.
+
+  この絵画が部屋を優雅に飾っています。
+  この 絵画[かいが]が 部屋[へや]を 優雅[ゆうが]に 飾[かざ]っています。
+  Dieses Gemälde schmückt den Raum auf elegante Weise.
+
+  彼の業績は20世紀の科学史を飾るものだ。
+  彼[かれ]の 業績[ぎょうせき]は20世紀[せいき]の 科学史[かがくし]を 飾[かざ]るものだ。
+  Seine Leistungen krönen die Wissenschaftsgeschichte des 20. Jahrhunderts.
+
+  デザートをミントの葉で飾ると見た目が華やかになります。
+  デザートをミントの 葉[は]で 飾[かざ]ると 見[み]た 目[め]が 華[はな]やかになります。
+  Wenn man das Dessert mit Minzblättern garniert, sieht es festlicher aus.
+
+  彼女の笑顔が卒業式を飾った。
+  彼女[かのじょ]の 笑顔[えがお]が 卒業式[そつぎょうしき]を 飾[かざ]った。
+  Ihr Lächeln war der Höhepunkt der Abschlussfeier.
+
+  祭りの最後を美しい花火が飾りました。
+  祭[まつ]りの 最後[さいご]を 美[うつく]しい 花火[はなび]が 飾[かざ]りました。
+  Ein schönes Feuerwerk bildete den krönenden Abschluss des Festivals.
+
+  新聞の一面を飾る大きな見出しが目を引いた。
+  新聞[しんぶん]の 一面[いちめん]を 飾[かざ]る 大[おお]きな 見出[みだ]しが 目[め]を 引[ひ]いた。
+  Die große Schlagzeile, die die Titelseite der Zeitung zierte, fiel ins Auge.
+
+  彼は言葉を飾って真実を隠そうとした。
+  彼[かれ]は 言葉[ことば]を 飾[かざ]って 真実[しんじつ]を 隠[かく]そうとした。
+  Er versuchte, die Wahrheit mit beschönigenden Worten zu verschleiern.
+
+  正月には玄関に門松を飾る習慣がある。
+  正月[しょうがつ]には 玄関[げんかん]に 門松[かどまつ]を 飾[かざ]る 習慣[しゅうかん]がある。
+  Es ist Brauch, zum Neujahrsfest Kadomatsu-Dekorationen am Eingang aufzustellen.
+
+  彼女の優雅な立ち振る舞いがパーティーを飾った。
+  彼女[かのじょ]の 優雅[ゆうが]な 立[た]ち 振[ふ]る 舞[ま]いがパーティーを 飾[かざ]った。
+  Ihr anmutiges Auftreten war der Glanzpunkt der Party.
+
+  ケーキをイチゴで飾ると、より美味しそうに見えますね。
+  ケーキをイチゴで 飾[かざ]ると、より 美味[おい]しそうに 見[み]えますね。
+  Wenn man den Kuchen mit Erdbeeren garniert, sieht er noch appetitlicher aus.
+
+  彼の輝かしい業績が大学の歴史を飾っている。
+  彼[かれ]の 輝[かがや]かしい 業績[ぎょうせき]が 大学[だいがく]の 歴史[れきし]を 飾[かざ]っている。
+  Seine glänzenden Leistungen zieren die Geschichte der Universität.
+
+  結婚式場は美しい花で飾られていた。
+  結婚式場[けっこんしきじょう]は 美[うつく]しい 花[はな]で 飾[かざ]られていた。
+  Der Hochzeitssaal war mit wunderschönen Blumen geschmückt.
+
+  彼女は控えめな化粧で自然な美しさを飾っていた。
+  彼女[かのじょ]は 控[ひか]えめな 化粧[けしょう]で 自然[しぜん]な 美[うつく]しさを 飾[かざ]っていた。
+  Sie betonte ihre natürliche Schönheit durch dezentes Make-up.
+
+  この古い額縁が絵をより一層引き立てて飾っている。
+  この 古[ふる]い 額縁[がくぶち]が 絵[え]をより 一層[いっそう] 引[ひ]き 立[た]てて 飾[かざ]っている。
+  Dieser alte Rahmen hebt das Bild hervor und schmückt es noch mehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

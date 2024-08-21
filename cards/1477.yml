@@ -2,7 +2,7 @@ Rang: 1477
 Lemma: でもって
 Lesung: ''
 Tonhöhen: ''
-Definition: mit, durch, mittels
+Definition: mit; mittels; durch
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr, konj
@@ -17,9 +17,100 @@ Beispielsätze: |-
   彼[かれ]らは 残[のこ]り 物[もの]を 新聞紙[しんぶんし]でもって 包[つつ]んで 家[いえ]に 持[も]って 帰[かえ]った。
   Sie wickelten die Reste in Zeitungspapier ein und nahmen sie mit nach Hause.
 
+  このナイフは木でもって作られている。
+  このナイフは 木[き]でもって 作[つく]られている。
+  Dieses Messer ist aus Holz gefertigt.
+
+  彼女は言葉でもって気持ちを表現した。
+  彼女[かのじょ]は 言葉[ことば]でもって 気持[きも]ちを 表現[ひょうげん]した。
+  Sie drückte ihre Gefühle mit Worten aus.
+
+  この町は桜でもって名高い。
+  この 町[まち]は 桜[さくら]でもって 名高[なだか]い。
+  Diese Stadt ist für ihre Kirschblüten berühmt.
+
+  それでもって問題は解決したと思います。
+  それでもって 問題[もんだい]は 解決[かいけつ]したと 思[おも]います。
+  Damit denke ich, dass das Problem gelöst ist.
+
+  最高の技術でもってしても、完璧な結果は得られない。
+  最高[さいこう]の 技術[ぎじゅつ]でもってしても、完璧[かんぺき]な 結果[けっか]は 得[え]られない。
+  Selbst mit der besten Technik kann man kein perfektes Ergebnis erzielen.
+
+  彼は厳しい態度でもって新入社員を指導した。
+  彼[かれ]は 厳[きび]しい 態度[たいど]でもって 新入社員[しんにゅうしゃいん]を 指導[しどう]した。
+  Er unterwies die neuen Mitarbeiter mit strenger Haltung.
+
+  この方法でもって、より効率的に仕事ができるはずだ。
+  この 方法[ほうほう]でもって、より 効率的[こうりつてき]に 仕事[しごと]ができるはずだ。
+  Mit dieser Methode sollten wir effizienter arbeiten können.
+
+  彼女は努力でもって困難を乗り越えた。
+  彼女[かのじょ]は 努力[どりょく]でもって 困難[こんなん]を 乗[の]り 越[こ]えた。
+  Sie überwand die Schwierigkeiten durch ihre Anstrengungen.
+
+  この絵は水彩絵の具でもって描かれている。
+  この 絵[え]は 水彩絵[すいさいえ]の 具[ぐ]でもって 描[えが]かれている。
+  Dieses Bild wurde mit Wasserfarben gemalt.
+
+  私はそれでもって満足していた。
+  私[わたし]はそれでもって 満足[まんぞく]していた。
+  Ich war damit zufrieden.
+
+  この料理は簡単でもって美味しい。
+  この 料理[りょうり]は 簡単[かんたん]でもって 美味[おい]しい。
+  Dieses Gericht ist einfach und lecker.
+
+  彼は優しさでもって子供たちに接した。
+  彼[かれ]は 優[やさ]しさでもって 子供[こども]たちに 接[せっ]した。
+  Er ging mit Freundlichkeit auf die Kinder zu.
+
+  この問題は論理的思考でもって解決できる。
+  この 問題[もんだい]は 論理的[ろんりてき] 思考[しこう]でもって 解決[かいけつ]できる。
+  Dieses Problem kann durch logisches Denken gelöst werden.
+
+  彼女は独自の方法でもって成功を収めた。
+  彼女[かのじょ]は 独自[どくじ]の 方法[ほうほう]でもって 成功[せいこう]を 収[おさ]めた。
+  Sie erzielte Erfolg mit ihrer eigenen Methode.
+
+  このデータは最新の技術でもって分析された。
+  このデータは 最新[さいしん]の 技術[ぎじゅつ]でもって 分析[ぶんせき]された。
+  Diese Daten wurden mit der neuesten Technologie analysiert.
+
+  彼は自信でもって舞台に立った。
+  彼[かれ]は 自信[じしん]でもって 舞台[ぶたい]に 立[た]った。
+  Er betrat die Bühne mit Selbstvertrauen.
+
+  この判断は経験でもって下されたものだ。
+  この 判断[はんだん]は 経験[けいけん]でもって 下[くだ]されたものだ。
+  Diese Entscheidung wurde aufgrund von Erfahrung getroffen.
+
+  彼女は熱意でもって仕事に取り組んでいる。
+  彼女[かのじょ]は 熱意[ねつい]でもって 仕事[しごと]に 取[と]り 組[く]んでいる。
+  Sie geht mit Enthusiasmus an ihre Arbeit heran.
+
+  この文書は公印でもって正式なものとなる。
+  この 文書[ぶんしょ]は 公印[こういん]でもって 正式[せいしき]なものとなる。
+  Dieses Dokument wird durch das offizielle Siegel offiziell.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>でもって ist eine förmliche Form der Postposition で und wird verwendet, um ein Mittel, eine Methode, ein Material oder ein Kriterium anzugeben. Es kann auch einen Grund oder eine Ursache ausdrücken.</p>
+  <div class="examples">
+    <div class="jp">この 道具[どうぐ]は 木[き]でもって 作[つく]られている。</div>
+    <div class="de spoiler">Dieses Werkzeug ist aus Holz hergestellt.</div>
+  </div>
+  <p>In der Umgangssprache kann でもって auch einfach für で verwendet werden.</p>
+  <div class="examples">
+    <div class="jp">私[わたし]はそれでもって 満足[まんぞく]している。</div>
+    <div class="de spoiler">Ich bin damit zufrieden.</div>
+  </div>
+  <p>Es kann auch "und", "und dazu" oder "obendrein" bedeuten.</p>
+  <div class="examples">
+    <div class="jp">この 料理[りょうり]は 簡単[かんたん]でもって 美味[おい]しい。</div>
+    <div class="de spoiler">Dieses Gericht ist einfach und lecker.</div>
+  </div>

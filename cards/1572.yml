@@ -2,8 +2,8 @@ Rang: 1572
 Lemma: 生地
 Lesung: きじ
 Tonhöhen: \.
-Definition: Stoff, Material; Teig
-Alternativschreibweisen: ''
+Definition: Stoff; Teig; Rohzustand
+Alternativschreibweisen: 素地
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -15,11 +15,103 @@ Konjugation: ''
 Beispielsätze: |-
   この生地でスカートを作るつもりだ。
   この 生地[きじ]でスカートを 作[つく]るつもりだ。
-  Ich werde diesen Stoff verwenden, um einen Rock zu machen.
+  Ich habe vor, aus diesem Stoff einen Rock zu nähen.
+
+  彼女の生地が出て、本当の性格がわかった。
+  彼女[かのじょ]の 生地[きじ]が 出[で]て、本当[ほんとう]の 性格[せいかく]がわかった。
+  Ihr wahres Ich kam zum Vorschein, und ich erkannte ihren wahren Charakter.
+
+  丈夫な生地のズボンを選びました。
+  丈夫[じょうぶ]な 生地[きじ]のズボンを 選[えら]びました。
+  Ich habe eine Hose aus robustem Stoff gewählt.
+
+  カーテンの生地は光を通さないものがいいですね。
+  カーテンの 生地[きじ]は 光[ひかり]を 通[とお]さないものがいいですね。
+  Für die Vorhänge wäre ein lichtundurchlässiger Stoff gut, nicht wahr?
+
+  このドレスの生地は高級シルクです。
+  このドレスの 生地[きじ]は 高級[こうきゅう]シルクです。
+  Der Stoff dieses Kleides ist hochwertige Seide.
+
+  安物の生地だと、すぐに破れてしまうかもしれません。
+  安物[やすもの]の 生地[きじ]だと、すぐに 破[やぶ]れてしまうかもしれません。
+  Bei billigem Stoff kann es sein, dass er schnell reißt.
+
+  左に生地の見本や、デザイン帳が置いてあります。
+  左[ひだり]に 生地[きじ]の 見本[みほん]や、デザイン 帳[ちょう]が 置[お]いてあります。
+  Links liegen Stoffproben und ein Designkatalog.
+
+  彼は高そうな生地の背広を着ていた。
+  彼[かれ]は 高[たか]そうな 生地[きじ]の 背広[せびろ]を 着[き]ていた。
+  Er trug einen Anzug aus offensichtlich teurem Stoff.
+
+  パン生地を発酵させる時間が足りなかったようだ。
+  パン 生地[きじ]を 発酵[はっこう]させる 時間[じかん]が 足[た]りなかったようだ。
+  Es scheint, dass die Zeit für die Gärung des Brotteigs nicht ausgereicht hat.
+
+  この生地は伸縮性があるので、動きやすい服ができますよ。
+  この 生地[きじ]は 伸縮性[しんしゅくせい]があるので、動[うご]きやすい 服[ふく]ができますよ。
+  Da dieser Stoff elastisch ist, kann man daraus bequeme Kleidung machen.
+
+  生地の質感を確かめるために、触ってみてください。
+  生地[きじ]の 質感[しっかん]を 確[たし]かめるために、触[さわ]ってみてください。
+  Bitte fühlen Sie den Stoff, um seine Textur zu prüfen.
+
+  この陶器は生地の状態で、まだ釉薬がかかっていません。
+  この 陶器[とうき]は 生地[きじ]の 状態[じょうたい]で、まだ 釉薬[ゆうやく]がかかっていません。
+  Diese Keramik ist noch im Rohzustand und wurde noch nicht glasiert.
+
+  生地選びは服作りの重要な第一歩だ。
+  生地[きじ]選[えら]びは 服[ふく]作[づく]りの 重要[じゅうよう]な 第一歩[だいいっぽ]だ。
+  Die Stoffauswahl ist der wichtige erste Schritt beim Schneidern.
+
+  この生地は洗濯に強いので、長持ちします。
+  この 生地[きじ]は 洗濯[せんたく]に 強[つよ]いので、長持[ながも]ちします。
+  Dieser Stoff ist waschbeständig und hält daher lange.
+
+  生地の裁断には細心の注意が必要です。
+  生地[きじ]の 裁断[さいだん]には 細心[さいしん]の 注意[ちゅうい]が 必要[ひつよう]です。
+  Beim Zuschneiden des Stoffes ist äußerste Sorgfalt erforderlich.
+
+  この生地は肌触りが良くて、着心地抜群です。
+  この 生地[きじ]は 肌触[はだざわ]りが 良[よ]くて、着心地[きごこち] 抜群[ばつぐん]です。
+  Dieser Stoff fühlt sich auf der Haut gut an und ist sehr angenehm zu tragen.
+
+  生地の特性を理解することで、より良い服が作れます。
+  生地[きじ]の 特性[とくせい]を 理解[りかい]することで、より 良[よ]い 服[ふく]が 作[つく]れます。
+  Durch das Verständnis der Stoffeigenschaften kann man bessere Kleidung herstellen.
+
+  この生地は縮みやすいので、洗濯前に水通しが必要だ。
+  この 生地[きじ]は 縮[ちぢ]みやすいので、洗濯[せんたく]前[まえ]に 水通[みずとお]しが 必要[ひつよう]だ。
+  Da dieser Stoff leicht einläuft, muss er vor dem Waschen eingeweicht werden.
+
+  生地の目を確認して、正しい方向に裁断してください。
+  生地[きじ]の 目[め]を 確認[かくにん]して、正[ただ]しい 方向[ほうこう]に 裁断[さいだん]してください。
+  Überprüfen Sie die Webart des Stoffes und schneiden Sie ihn in der richtigen Richtung zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>生地 kann in verschiedenen Kontexten verwendet werden:</p>
+  <div class='examples'>
+    <div class='jp'>この 服[ふく]の 生地[きじ]は 高品質[こうひんしつ]だ。</div>
+    <div class='de spoiler'>Der Stoff dieses Kleidungsstücks ist von hoher Qualität.</div>
+  </div>
+  <p>Im Zusammenhang mit Backen:</p>
+  <div class='examples'>
+    <div class='jp'>パンの 生地[きじ]を 発酵[はっこう]させる。</div>
+    <div class='de spoiler'>Den Brotteig gären lassen.</div>
+  </div>
+  <p>In Bezug auf Keramik:</p>
+  <div class='examples'>
+    <div class='jp'>この 陶器[とうき]は 生地[きじ]の 状態[じょうたい]だ。</div>
+    <div class='de spoiler'>Diese Keramik ist noch im unglasiertem Zustand.</div>
+  </div>
+  <p>Im übertragenen Sinne kann es auch verwendet werden, um auf jemandes wahre Natur hinzuweisen:</p>
+  <div class='examples'>
+    <div class='jp'>ストレスで 彼[かれ]の 本当[ほんとう]の 生地[きじ]が 出[で]た。</div>
+    <div class='de spoiler'>Unter Stress zeigte sich sein wahres Gesicht.</div>
+  </div>

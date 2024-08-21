@@ -3,12 +3,12 @@ Lemma: 隠す
 Lesung: かくす
 Tonhöhen: .\.
 Definition: verstecken, verbergen
-Alternativschreibweisen: ''
+Alternativschreibweisen: 匿す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 隠さない・隠した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   彼はその本をベッドの下に隠した。
   彼[かれ]はその 本[ほん]をベッドの 下[した]に 隠[かく]した。
   Er hat das Buch unter dem Bett versteckt.
+
+  彼は日記を引き出しの奥に隠した。
+  彼[かれ]は 日記[にっき]を 引[ひ]き 出[だ]しの 奥[おく]に 隠[かく]した。
+  Er versteckte sein Tagebuch tief in der Schublade.
+
+  顔を手で隠して泣いていた。
+  顔[かお]を 手[て]で 隠[かく]して 泣[な]いていた。
+  Sie verbarg ihr Gesicht in den Händen und weinte.
+
+  警察から身を隠すために、彼は田舎に逃げた。
+  警察[けいさつ]から 身[み]を 隠[かく]すために、彼[かれ]は 田舎[いなか]に 逃[に]げた。
+  Um sich vor der Polizei zu verstecken, floh er aufs Land.
+
+  姿を隠して、こっそり様子を窺っていた。
+  姿[すがた]を 隠[かく]して、こっそり 様子[ようす]を 窺[うかが]っていた。
+  Ich verbarg mich und beobachtete heimlich die Situation.
+
+  真実は長い間隠されていたが、ついに明らかになった。
+  真実[しんじつ]は 長[なが]い 間[あいだ] 隠[かく]されていたが、ついに 明[あき]らかになった。
+  Die Wahrheit war lange Zeit verborgen, wurde aber schließlich aufgedeckt.
+
+  医者は患者に本当の病名を隠していた。
+  医者[いしゃ]は 患者[かんじゃ]に 本当[ほんとう]の 病名[びょうめい]を 隠[かく]していた。
+  Der Arzt verschwieg dem Patienten die wahre Diagnose.
+
+  彼女は驚きを隠そうとしたが、表情に出てしまった。
+  彼女[かのじょ]は 驚[おどろ]きを 隠[かく]そうとしたが、表情[ひょうじょう]に 出[で]てしまった。
+  Sie versuchte ihre Überraschung zu verbergen, aber es zeigte sich in ihrem Gesichtsausdruck.
+
+  年を隠すために、彼女は若く見えるように化粧をした。
+  年[とし]を 隠[かく]すために、彼女[かのじょ]は 若[わか]く 見[み]えるように 化粧[けしょう]をした。
+  Um ihr Alter zu verheimlichen, schminkte sie sich, damit sie jünger aussah.
+
+  キーは家のどこにでも隠すことができるね。
+  キーは 家[いえ]のどこにでも 隠[かく]すことができるね。
+  Man kann einen Schlüssel überall im Haus verstecken, nicht wahr?
+
+  泥棒を隠すつもりはありませんから、安心してください。
+  泥棒[どろぼう]を 隠[かく]すつもりはありませんから、安心[あんしん]してください。
+  Ich habe nicht die Absicht, einen Dieb zu verstecken, also seien Sie unbesorgt.
+
+  さりげなく歩いて、木の陰に身を隠した。
+  さりげなく 歩[ある]いて、木[き]の 陰[かげ]に 身[み]を 隠[かく]した。
+  Ich ging beiläufig und versteckte mich im Schatten eines Baumes.
+
+  彼は自分の出身を隠して、新しい人生を始めた。
+  彼[かれ]は 自分[じぶん]の 出身[しゅっしん]を 隠[かく]して、新[あたら]しい 人生[じんせい]を 始[はじ]めた。
+  Er verheimlichte seine Herkunft und begann ein neues Leben.
+
+  涙を隠すために、急いで部屋を出た。
+  涙[なみだ]を 隠[かく]すために、急[いそ]いで 部屋[へや]を 出[で]た。
+  Um ihre Tränen zu verbergen, verließ sie hastig den Raum.
+
+  不安を隠すために、彼は冗談を言い続けた。
+  不安[ふあん]を 隠[かく]すために、彼[かれ]は 冗談[じょうだん]を 言[い]い 続[つづ]けた。
+  Um seine Unruhe zu verbergen, machte er ständig Witze.
+
+  頭を隠しても尻が隠れていないよ。
+  頭[あたま]を 隠[かく]しても 尻[しり]が 隠[かく]れていないよ。
+  Du versteckst zwar deinen Kopf, aber dein Hintern ist noch zu sehen.
+
+  上手な猫は爪を隠すものだ。
+  上手[じょうず]な 猫[ねこ]は 爪[つめ]を 隠[かく]すものだ。
+  Eine geschickte Katze verbirgt ihre Krallen.
+
+  隠せば隠すほど、かえって目立つものだ。
+  隠[かく]せば 隠[かく]すほど、かえって 目立[めだ]つものだ。
+  Je mehr man etwas zu verbergen versucht, desto auffälliger wird es.
+
+  能ある鷹は爪を隠すという言葉の通りだね。
+  能[のう]ある 鷹[たか]は 爪[つめ]を 隠[かく]すという 言葉[ことば]の 通[とお]りだね。
+  Es stimmt wirklich, dass ein fähiger Falke seine Krallen verbirgt.
+
+  彼女は巧妙に自分の本当の気持ちを隠していた。
+  彼女[かのじょ]は 巧妙[こうみょう]に 自分[じぶん]の 本当[ほんとう]の 気持[きも]ちを 隠[かく]していた。
+  Sie verbarg geschickt ihre wahren Gefühle.
+
+  子供たちは宝物を隠す場所を慎重に選んでいた。
+  子供[こども]たちは 宝物[たからもの]を 隠[かく]す 場所[ばしょ]を 慎重[しんちょう]に 選[えら]んでいた。
+  Die Kinder wählten sorgfältig einen Ort aus, um ihren Schatz zu verstecken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,13 +2,13 @@ Rang: 1579
 Lemma: 揃う
 Lesung: そろう
 Tonhöhen: .\.
-Definition: vollständig werden; gleich sein
+Definition: sich vervollständigen; zusammenkommen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 揃わない・揃った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   必要なものはすべてそろった。
   必要[ひつよう]なものはすべてそろった。
   Ich habe alles in Ordnung.
+
+  必要なものはすべて揃った。
+  必要[ひつよう]なものはすべて 揃[そろ]った。
+  Alles Notwendige ist zusammengekommen.
+
+  彼らの意見は完全には揃っていない。
+  彼[かれ]らの 意見[いけん]は 完全[かんぜん]には 揃[そろ]っていない。
+  Ihre Meinungen stimmen nicht vollständig überein.
+
+  新入社員の制服が全員分揃いました。
+  新入社員[しんにゅうしゃいん]の 制服[せいふく]が 全員分[ぜんいんぶん] 揃[そろ]いました。
+  Die Uniformen für alle neuen Mitarbeiter sind eingetroffen.
+
+  この商品は品質が揃っているので、人気があります。
+  この 商品[しょうひん]は 品質[ひんしつ]が 揃[そろ]っているので、人気[にんき]があります。
+  Dieses Produkt ist beliebt, weil es eine konstante Qualität hat.
+
+  家族揃って旅行に行くのは久しぶりです。
+  家族[かぞく] 揃[そろ]って 旅行[りょこう]に 行[い]くのは 久[ひさ]しぶりです。
+  Es ist lange her, dass wir als ganze Familie in den Urlaub gefahren sind.
+
+  会議の資料が一部揃っていないので、後で送ります。
+  会議[かいぎ]の 資料[しりょう]が 一部[いちぶ] 揃[そろ]っていないので、後[あと]で 送[おく]ります。
+  Ein Teil der Unterlagen für die Besprechung fehlt noch, ich werde sie später schicken.
+
+  全巻揃った漫画のセットを買いました。
+  全巻[ぜんかん] 揃[そろ]った 漫画[まんが]のセットを 買[か]いました。
+  Ich habe mir einen kompletten Satz der Manga-Serie gekauft.
+
+  メンバーが揃うまで、もう少し待ちましょう。
+  メンバーが 揃[そろ]うまで、もう 少[すこ]し 待[ま]ちましょう。
+  Lasst uns noch ein wenig warten, bis alle Mitglieder eingetroffen sind.
+
+  彼女の五体は揃っているが、視力が弱い。
+  彼女[かのじょ]の 五体[ごたい]は 揃[そろ]っているが、視力[しりょく]が 弱[よわ]い。
+  Sie hat alle Gliedmaßen, aber ihre Sehkraft ist schwach.
+
+  料理の材料が全て揃ったので、調理を始めましょう。
+  料理[りょうり]の 材料[ざいりょう]が 全[すべ]て 揃[そろ]ったので、調理[ちょうり]を 始[はじ]めましょう。
+  Nun, da alle Zutaten für das Gericht beisammen sind, lasst uns mit dem Kochen beginnen.
+
+  この店は品数が揃っているので、買い物に便利です。
+  この 店[みせ]は 品数[しなかず]が 揃[そろ]っているので、買い物[かいもの]に 便利[べんり]です。
+  Dieser Laden ist praktisch zum Einkaufen, weil er gut sortiert ist.
+
+  プロジェクトの成功に必要な条件が全て揃っています。
+  プロジェクトの 成功[せいこう]に 必要[ひつよう]な 条件[じょうけん]が 全[すべ]て 揃[そろ]っています。
+  Alle Voraussetzungen für den Erfolg des Projekts sind erfüllt.
+
+  揃っていない手袋を見つけたので、探しています。
+  揃[そろ]っていない 手袋[てぶくろ]を 見[み]つけたので、探[さが]しています。
+  Ich habe einen einzelnen Handschuh gefunden und suche jetzt nach dem anderen.
+
+  学生全員の顔ぶれが揃ったので、授業を始めます。
+  学生[がくせい] 全員[ぜんいん]の 顔[かお]ぶれが 揃[そろ]ったので、授業[じゅぎょう]を 始[はじ]めます。
+  Da nun alle Studenten versammelt sind, beginnen wir mit dem Unterricht.
+
+  高さが揃っていない棚は、見た目が悪いです。
+  高[たか]さが 揃[そろ]っていない 棚[たな]は、見た目[みため]が 悪[わる]いです。
+  Regale mit ungleicher Höhe sehen nicht gut aus.
+
+  彼らは足並みが揃っていないので、前に進めません。
+  彼[かれ]らは 足並[あしな]みが 揃[そろ]っていないので、前[まえ]に 進[すす]めません。
+  Sie können nicht vorankommen, weil sie nicht am gleichen Strang ziehen.
+
+  二拍子揃った時、音楽が美しく響きました。
+  二拍子[にびょうし] 揃[そろ]った 時[とき]、音楽[おんがく]が 美[うつく]しく 響[ひび]きました。
+  Als der Zweivierteltakt synchron war, erklang die Musik wunderschön.
+
+  三拍子揃った瞬間、観客から大きな拍手が起こりました。
+  三拍子[さんびょうし] 揃[そろ]った 瞬間[しゅんかん]、観客[かんきゃく]から 大[おお]きな 拍手[はくしゅ]が 起[お]こりました。
+  In dem Moment, als alles perfekt zusammenpasste, brach das Publikum in großen Applaus aus.
+
+  新しい包丁セットが揃ったので、料理が楽しみです。
+  新[あたら]しい 包丁[ほうちょう]セットが 揃[そろ]ったので、料理[りょうり]が 楽[たの]しみです。
+  Ich freue mich aufs Kochen, weil ich jetzt ein komplettes Set neuer Küchenmesser habe.
+
+  キッチンの物入れを整理したら、意外と道具が揃っていました。
+  キッチンの 物入[ものい]れを 整理[せいり]したら、意外[いがい]と 道具[どうぐ]が 揃[そろ]っていました。
+  Als ich die Küchenschränke aufräumte, stellte ich überraschenderweise fest, dass ich recht gut mit Utensilien ausgestattet bin.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -8,14 +8,90 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 達しない・達した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   2011年に世界人口は七十億人に達した。
-  2011 年[ねん]に 世界人[せかいじん] 口[ぐち]は七十 億[おく]人に 達[たっ]した。
-  Die Weltbevölkerung erreichte im Jahr 2011 sieben Milliarden.
+  2011年[ねん]に 世界[せかい] 人口[じんこう]は 七十億人[ななじゅうおくにん]に 達[たっ]した。
+  Im Jahr 2011 erreichte die Weltbevölkerung sieben Milliarden Menschen.
+
+  山頂に達するまでには、まだ3時間ほどかかりそうだ。
+  山頂[さんちょう]に 達[たっ]するまでには、まだ3時間[じかん]ほどかかりそうだ。
+  Es wird wohl noch etwa drei Stunden dauern, bis wir den Gipfel erreichen.
+
+  波が海岸に達すると、子供たちは喜んで走り出した。
+  波[なみ]が 海岸[かいがん]に 達[たっ]すると、子供[こども]たちは 喜[よろこ]んで 走[はし]り 出[だ]した。
+  Als die Wellen die Küste erreichten, liefen die Kinder fröhlich los.
+
+  彼の技術は名人の域に達している。
+  彼[かれ]の 技術[ぎじゅつ]は 名人[めいじん]の 域[いき]に 達[たっ]している。
+  Seine Fähigkeiten haben das Niveau eines Meisters erreicht.
+
+  売上高が目標額に達しました。
+  売上高[うりあげだか]が 目標[もくひょう] 額[がく]に 達[たっ]しました。
+  Der Umsatz hat die Zielsumme erreicht.
+
+  この問題の解決策には、まだ合意に達していません。
+  この 問題[もんだい]の 解決策[かいけつさく]には、まだ 合意[ごうい]に 達[たっ]していません。
+  Wir haben noch keine Einigung über die Lösung dieses Problems erzielt.
+
+  彼女の演技力は、ついにプロの域に達した。
+  彼女[かのじょ]の 演技力[えんぎりょく]は、ついにプロの 域[いき]に 達[たっ]した。
+  Ihre schauspielerischen Fähigkeiten haben endlich Profiniveau erreicht.
+
+  台風の影響で、風速が毎秒30メートルに達しています。
+  台風[たいふう]の 影響[えいきょう]で、風速[ふうそく]が 毎秒[まいびょう]30メートルに 達[たっ]しています。
+  Aufgrund des Taifuns erreicht die Windgeschwindigkeit 30 Meter pro Sekunde.
+
+  長年の修行の末、彼はついに悟りに達した。
+  長年[ながねん]の 修行[しゅぎょう]の 末[すえ]、彼[かれ]はついに 悟[さと]りに 達[たっ]した。
+  Nach jahrelanger Übung hat er endlich die Erleuchtung erlangt.
+
+  彼の年齢は90歳に達しているが、まだ元気だ。
+  彼[かれ]の 年齢[ねんれい]は90歳[さい]に 達[たっ]しているが、まだ 元気[げんき]だ。
+  Er hat zwar ein Alter von 90 Jahren erreicht, ist aber immer noch gesund.
+
+  この製品の売上げは、ようやく採算ラインに達した。
+  この 製品[せいひん]の 売上[うりあ]げは、ようやく 採算[さいさん]ラインに 達[たっ]した。
+  Der Umsatz dieses Produkts hat endlich die Gewinnzone erreicht.
+
+  彼女の声は、ホールの一番後ろまで達していた。
+  彼女[かのじょ]の 声[こえ]は、ホールの 一番[いちばん] 後[うし]ろまで 達[たっ]していた。
+  Ihre Stimme reichte bis in die hinterste Ecke des Saals.
+
+  会社の業績が過去最高に達し、社員全員でお祝いした。
+  会社[かいしゃ]の 業績[ぎょうせき]が 過去[かこ] 最高[さいこう]に 達[たっ]し、社員[しゃいん] 全員[ぜんいん]でお 祝[いわ]いした。
+  Die Leistung des Unternehmens erreichte ein Allzeithoch, und alle Mitarbeiter feierten gemeinsam.
+
+  彼の貯金額は、ついに1000万円に達した。
+  彼[かれ]の 貯金[ちょきん] 額[がく]は、ついに1000万[まん]円[えん]に 達[たっ]した。
+  Seine Ersparnisse haben endlich die 10-Millionen-Yen-Marke erreicht.
+
+  噂はあっという間に町中に達した。
+  噂[うわさ]はあっという 間[ま]に 町中[まちじゅう]に 達[たっ]した。
+  Das Gerücht verbreitete sich blitzschnell in der ganzen Stadt.
+
+  彼女の成績は、クラスの平均に達していない。
+  彼女[かのじょ]の 成績[せいせき]は、クラスの 平均[へいきん]に 達[たっ]していない。
+  Ihre Noten erreichen nicht den Klassendurchschnitt.
+
+  新製品の開発は最終段階に達している。
+  新[しん] 製品[せいひん]の 開発[かいはつ]は 最終[さいしゅう] 段階[だんかい]に 達[たっ]している。
+  Die Entwicklung des neuen Produkts hat die letzte Phase erreicht.
+
+  彼は自分の目標を達するために、毎日懸命に努力している。
+  彼[かれ]は 自分[じぶん]の 目標[もくひょう]を 達[たっ]するために、毎日[まいにち] 懸命[けんめい]に 努力[どりょく]している。
+  Er arbeitet jeden Tag hart daran, sein Ziel zu erreichen.
+
+  会議で全員の意見が一致に達するまでに、3時間もかかった。
+  会議[かいぎ]で 全員[ぜんいん]の 意見[いけん]が 一致[いっち]に 達[たっ]するまでに、3時間[じかん]もかかった。
+  Es dauerte drei Stunden, bis in der Besprechung eine Einigung aller Meinungen erzielt wurde.
+
+  彼女の希望は、ついに実現に達した。
+  彼女[かのじょ]の 希望[きぼう]は、ついに 実現[じつげん]に 達[たっ]した。
+  Ihr Wunsch ist endlich in Erfüllung gegangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

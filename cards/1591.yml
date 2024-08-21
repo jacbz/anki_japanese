@@ -2,10 +2,10 @@ Rang: 1591
 Lemma: 単純
 Lesung: たんじゅん
 Tonhöhen: .^^^^
-Definition: einfach
+Definition: einfach; schlicht
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は子供のように単純だ。
   彼女[かのじょ]は 子供[こども]のように 単純[たんじゅん]だ。
-  Sie ist so einfach wie ein Kind.
+  Sie ist so einfach gestrickt wie ein Kind.
+
+  この機械は単純な仕組みで動いています。
+  この 機械[きかい]は 単純[たんじゅん]な 仕組[しく]みで 動[うご]いています。
+  Diese Maschine funktioniert mit einem einfachen Mechanismus.
+
+  問題を単純化すると解決策が見えてきた。
+  問題[もんだい]を 単純化[たんじゅんか]すると 解決策[かいけつさく]が 見[み]えてきた。
+  Als ich das Problem vereinfachte, wurde die Lösung sichtbar.
+
+  単純労働者の権利を守ることは重要だ。
+  単純労働者[たんじゅんろうどうしゃ]の 権利[けんり]を 守[まも]ることは 重要[じゅうよう]だ。
+  Es ist wichtig, die Rechte ungelernter Arbeiter zu schützen.
+
+  彼の単純さが時々問題を引き起こす。
+  彼[かれ]の 単純[たんじゅん]さが 時々[ときどき] 問題[もんだい]を 引[ひ]き 起[お]こす。
+  Seine Einfältigkeit verursacht manchmal Probleme.
+
+  この実験では単純平均を使用します。
+  この 実験[じっけん]では 単純平均[たんじゅんへいきん]を 使用[しよう]します。
+  In diesem Experiment verwenden wir den einfachen Durchschnitt.
+
+  単純過半数で議案が可決されました。
+  単純過半数[たんじゅんかはんすう]で 議案[ぎあん]が 可決[かけつ]されました。
+  Der Antrag wurde mit einfacher Mehrheit angenommen.
+
+  単純な色使いが、このデザインの魅力だ。
+  単純[たんじゅん]な 色使[いろづか]いが、このデザインの 魅力[みりょく]だ。
+  Die schlichte Farbgebung ist der Reiz dieses Designs.
+
+  彼の説明は単純すぎて、重要な点が抜けている。
+  彼[かれ]の 説明[せつめい]は 単純[たんじゅん]すぎて、重要[じゅうよう]な 点[てん]が 抜[ぬ]けている。
+  Seine Erklärung ist zu simpel und lässt wichtige Punkte aus.
+
+  単純に考えすぎて、問題の複雑さを見落としていた。
+  単純[たんじゅん]に 考[かんが]えすぎて、問題[もんだい]の 複雑[ふくざつ]さを 見落[みおと]としていた。
+  Ich dachte zu einfach und übersah die Komplexität des Problems.
+
+  その単純な仕掛けに感心した。
+  その 単純[たんじゅん]な 仕掛[しか]けに 感心[かんしん]した。
+  Ich war von diesem einfachen Mechanismus beeindruckt.
+
+  彼女は単純に生きることを好む。
+  彼女[かのじょ]は 単純[たんじゅん]に 生[い]きることを 好[この]む。
+  Sie bevorzugt es, ein einfaches Leben zu führen.
+
+  単純な解決策はない、問題は複雑だ。
+  単純[たんじゅん]な 解決策[かいけつさく]はない、問題[もんだい]は 複雑[ふくざつ]だ。
+  Es gibt keine einfache Lösung, das Problem ist komplex.
+
+  この小説の魅力は、その単純さにある。
+  この 小説[しょうせつ]の 魅力[みりょく]は、その 単純[たんじゅん]さにある。
+  Der Reiz dieses Romans liegt in seiner Schlichtheit.
+
+  単純な質問ですが、答えるのは難しいかもしれません。
+  単純[たんじゅん]な 質問[しつもん]ですが、答[こた]えるのは 難[むずか]しいかもしれません。
+  Es ist eine einfache Frage, aber die Antwort könnte schwierig sein.
+
+  彼の単純な性格は、多くの人に好かれています。
+  彼[かれ]の 単純[たんじゅん]な 性格[せいかく]は、多[おお]くの 人[ひと]に 好[す]かれています。
+  Sein schlichter Charakter wird von vielen gemocht.
+
+  単純な言葉で説明してください。
+  単純[たんじゅん]な 言葉[ことば]で 説明[せつめい]してください。
+  Bitte erklären Sie es in einfachen Worten.
+
+  この問題は単純に見えて、実は複雑だ。
+  この 問題[もんだい]は 単純[たんじゅん]に 見[み]えて、実[じつ]は 複雑[ふくざつ]だ。
+  Dieses Problem scheint einfach, ist aber in Wirklichkeit komplex.
+
+  単純な計算ミスが大きな事故につながった。
+  単純[たんじゅん]な 計算[けいさん]ミスが 大[おお]きな 事故[じこ]につながった。
+  Ein einfacher Rechenfehler führte zu einem großen Unfall.
+
+  彼女の単純な笑顔に、心が和んだ。
+  彼女[かのじょ]の 単純[たんじゅん]な 笑顔[えがお]に、心[こころ]が 和[なご]んだ。
+  Ihr schlichtes Lächeln beruhigte mein Herz.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

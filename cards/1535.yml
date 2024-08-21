@@ -2,7 +2,7 @@ Rang: 1535
 Lemma: 言い方
 Lesung: いいかた
 Tonhöhen: .^^^
-Definition: Ausdrucksweise
+Definition: Ausdrucksweise, Redewendung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   もっと自然な言い方がありますか。
-  もっと 自然[しぜん]な 言[い]い 方[かた]がありますか。
+  もっと 自然[しぜん]な 言[い]い方[かた]がありますか。
   Gibt es eine natürlichere Ausdrucksweise?
+
+  言い方を換えて説明してください。
+  言[い]い方[かた]を 換[か]えて 説明[せつめい]してください。
+  Bitte erklären Sie es mit anderen Worten.
+
+  別の言い方をすれば、時間がないということです。
+  別[べつ]の 言[い]い方[かた]をすれば、時間[じかん]がないということです。
+  Anders ausgedrückt heißt das, wir haben keine Zeit.
+
+  彼の変な言い方に違和感を覚えました。
+  彼[かれ]の 変[へん]な 言[い]い方[かた]に 違和感[いわかん]を 覚[おぼ]えました。
+  Seine seltsame Art sich auszudrücken hat mich irritiert.
+
+  控えめな言い方をするように心がけています。
+  控[ひか]えめな 言[い]い方[かた]をするように 心[こころ]がけています。
+  Ich bemühe mich, mich zurückhaltend auszudrücken.
+
+  もっといい言い方があるはずです。
+  もっといい 言[い]い方[かた]があるはずです。
+  Es muss doch einen besseren Ausdruck dafür geben.
+
+  この慣用的な言い方の意味を教えてください。
+  この 慣用的[かんようてき]な 言[い]い方[かた]の 意味[いみ]を 教[おし]えてください。
+  Können Sie mir die Bedeutung dieser idiomatischen Wendung erklären?
+
+  ものの言い方を知らない人は、周りの人を不快にさせることがあります。
+  ものの 言[い]い方[かた]を 知[し]らない 人[ひと]は、周[まわ]りの 人[ひと]を 不快[ふかい]にさせることがあります。
+  Menschen, die sich nicht angemessen ausdrücken können, verärgern manchmal andere.
+
+  言い方に気をつけないと、誤解を招くかもしれません。
+  言[い]い方[かた]に 気[き]をつけないと、誤解[ごかい]を 招[まね]くかもしれません。
+  Wenn man nicht auf seine Ausdrucksweise achtet, könnte es zu Missverständnissen kommen.
+
+  丁寧な言い方をすることで、相手への敬意を示すことができます。
+  丁寧[ていねい]な 言[い]い方[かた]をすることで、相手[あいて]への 敬意[けいい]を 示[しめ]すことができます。
+  Durch eine höfliche Ausdrucksweise können wir unserem Gegenüber Respekt zeigen.
+
+  うまい言い方で説明してくれてありがとう。
+  うまい 言[い]い方[かた]で 説明[せつめい]してくれてありがとう。
+  Danke, dass du es so treffend erklärt hast.
+
+  「似合いますよ。変な言い方だけど、とにかくあなたには、黒がよく似合う。」
+  「似合[にあ]いますよ。変[へん]な 言[い]い方[かた]だけど、とにかくあなたには、黒[くろ]がよく 似合[にあ]う。」
+  »Es steht Ihnen. Es hört sich sicher komisch an, aber Schwarz steht Ihnen ausgezeichnet.«
+
+  極端な言い方をすれば、この問題は解決不可能です。
+  極端[きょくたん]な 言[い]い方[かた]をすれば、この 問題[もんだい]は 解決不可能[かいけつふかのう]です。
+  Überspitzt gesagt ist dieses Problem unlösbar.
+
+  「失礼な言い方になってしまいますが、締め切りはいつですか？」
+  「失礼[しつれい]な 言[い]い方[かた]になってしまいますが、締[し]め 切[き]りはいつですか？」
+  »Auch wenn es unhöflich klingen mag, aber wann ist der Abgabetermin?«
+
+  いや、その言い方は正確ではないと思います。
+  いや、その 言[い]い方[かた]は 正確[せいかく]ではないと 思[おも]います。
+  Nein, ich denke, diese Formulierung ist nicht ganz korrekt.
+
+  「部長」という言い方が気に食わなかったのかもしれません。
+  「部長[ぶちょう]」という 言[い]い方[かた]が 気[き]に 食[く]わなかったのかもしれません。
+  Vielleicht war ihm die Anrede »Abteilungsleiter« unangenehm.
+
+  太郎、そんなもって回った言い方をするのはやめろよ。
+  太郎[たろう]、そんなもって 回[まわ]った 言[い]い方[かた]をするのはやめろよ。
+  Taro, hör auf, so umständlich zu reden.
+
+  「そんな言い方をするものじゃありません」と先生が注意しました。
+  「そんな 言[い]い方[かた]をするものじゃありません」と 先生[せんせい]が 注意[ちゅうい]しました。
+  »So spricht man nicht«, ermahnte der Lehrer.
+
+  この言葉の正しい言い方を教えていただけますか。
+  この 言葉[ことば]の 正[ただ]しい 言[い]い方[かた]を 教[おし]えていただけますか。
+  Können Sie mir bitte die korrekte Ausdrucksweise für dieses Wort beibringen?
+
+  彼女の言い方には、いつも温かみがあります。
+  彼女[かのじょ]の 言[い]い方[かた]には、いつも 温[あたた]かみがあります。
+  Ihre Art zu sprechen hat immer etwas Warmherziges.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

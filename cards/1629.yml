@@ -2,7 +2,7 @@ Rang: 1629
 Lemma: そこで
 Lesung: ''
 Tonhöhen: ''
-Definition: also
+Definition: deshalb, also; nun
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -15,7 +15,79 @@ Konjugation: ''
 Beispielsätze: |-
   テストの点が悪かった。そこで、もっと勉強することにした。
   テストの 点[てん]が 悪[わる]かった。そこで、もっと 勉強[べんきょう]することにした。
-  Ich habe eine schlechte Note in meinem Test bekommen, also habe ich beschlossen, härter zu lernen.
+  Ich hatte schlechte Noten im Test. Deshalb beschloss ich, mehr zu lernen.
+
+  交通渋滞で遅刻しそうだ。そこで、タクシーを使うことにした。
+  交通渋滞[こうつうじゅうたい]で 遅刻[ちこく]しそうだ。そこで、タクシーを 使[つか]うことにした。
+  Es sieht so aus, als würde ich wegen des Staus zu spät kommen. Also beschloss ich, ein Taxi zu nehmen.
+
+  雨が降っていた。そこで、傘を持って出かけた。
+  雨[あめ]が 降[ふ]っていた。そこで、傘[かさ]を 持[も]って 出[で]かけた。
+  Es regnete. Deshalb nahm ich einen Schirm mit, als ich losging.
+
+  彼女は風邪を引いていた。そこで、今日は休むことにした。
+  彼女[かのじょ]は 風邪[かぜ]を 引[ひ]いていた。そこで、今日[きょう]は 休[やす]むことにした。
+  Sie hatte eine Erkältung. Also beschloss sie, sich heute auszuruhen.
+
+  新しい仕事に慣れるのに時間がかかった。そこで、先輩に助言を求めた。
+  新[あたら]しい 仕事[しごと]に 慣[な]れるのに 時間[じかん]がかかった。そこで、先輩[せんぱい]に 助言[じょげん]を 求[もと]めた。
+  Es dauerte eine Weile, bis ich mich an den neuen Job gewöhnt hatte. Daher bat ich einen erfahrenen Kollegen um Rat.
+
+  電車が遅れていた。そこで、次の電車に乗ることにした。
+  電車[でんしゃ]が 遅[おく]れていた。そこで、次[つぎ]の 電車[でんしゃ]に 乗[の]ることにした。
+  Der Zug hatte Verspätung. Also beschloss ich, den nächsten Zug zu nehmen.
+
+  彼は日本語が上手になりたかった。そこで、毎日練習することにした。
+  彼[かれ]は 日本語[にほんご]が 上手[じょうず]になりたかった。そこで、毎日[まいにち] 練習[れんしゅう]することにした。
+  Er wollte besser in Japanisch werden. Deshalb beschloss er, jeden Tag zu üben.
+
+  会社の売り上げが減少していた。そこで、新しい戦略を立てることにした。
+  会社[かいしゃ]の 売[う]り 上[あ]げが 減少[げんしょう]していた。そこで、新[あたら]しい 戦略[せんりゃく]を 立[た]てることにした。
+  Die Verkaufszahlen des Unternehmens waren rückläufig. Daher wurde beschlossen, eine neue Strategie zu entwickeln.
+
+  彼女は料理が苦手だった。そこで、料理教室に通い始めた。
+  彼女[かのじょ]は 料理[りょうり]が 苦手[にがて]だった。そこで、料理教室[りょうりきょうしつ]に 通[かよ]い 始[はじ]めた。
+  Sie war nicht gut im Kochen. Also fing sie an, einen Kochkurs zu besuchen.
+
+  部屋が散らかっていた。そこで、大掃除をすることにした。
+  部屋[へや]が 散[ち]らかっていた。そこで、大掃除[おおそうじ]をすることにした。
+  Das Zimmer war unordentlich. Deshalb beschloss ich, gründlich sauber zu machen.
+
+  そこで、例の件について話すと、先日の会議で決まったことがあります。
+  そこで、例[れい]の 件[けん]について 話[はな]すと、先日[せんじつ]の 会議[かいぎ]で 決[き]まったことがあります。
+  Um nun auf besagte Sache zu sprechen zu kommen, es gibt etwas, das in der letzten Sitzung beschlossen wurde.
+
+  彼は英語が話せなかった。そこで、留学を決意した。
+  彼[かれ]は 英語[えいご]が 話[はな]せなかった。そこで、留学[りゅうがく]を 決意[けつい]した。
+  Er konnte kein Englisch sprechen. Daher entschied er sich, im Ausland zu studieren.
+
+  天気予報で雨が予想されていた。そこで、野外イベントを中止した。
+  天気予報[てんきよほう]で 雨[あめ]が 予想[よそう]されていた。そこで、野外[やがい]イベントを 中止[ちゅうし]した。
+  Der Wetterbericht sagte Regen voraus. Also wurde die Outdoor-Veranstaltung abgesagt.
+
+  彼女は健康に気をつけたかった。そこで、毎朝ジョギングを始めた。
+  彼女[かのじょ]は 健康[けんこう]に 気[き]をつけたかった。そこで、毎朝[まいあさ]ジョギングを 始[はじ]めた。
+  Sie wollte auf ihre Gesundheit achten. Deshalb begann sie, jeden Morgen joggen zu gehen.
+
+  会社の経費が増えていた。そこで、経費削減の対策を講じることにした。
+  会社[かいしゃ]の 経費[けいひ]が 増[ふ]えていた。そこで、経費削減[けいひさくげん]の 対策[たいさく]を 講[こう]じることにした。
+  Die Ausgaben des Unternehmens waren gestiegen. Daher wurde beschlossen, Maßnahmen zur Kostenreduzierung zu ergreifen.
+
+  彼は新しい趣味が欲しかった。そこで、ギターを習い始めた。
+  彼[かれ]は 新[あたら]しい 趣味[しゅみ]が 欲[ほ]しかった。そこで、ギターを 習[なら]い 始[はじ]めた。
+  Er wollte ein neues Hobby. Also fing er an, Gitarre zu lernen.
+
+  そこで、二番目のご質問についてですが、その点に関しては現在検討中です。
+  そこで、二番目[にばんめ]のご 質問[しつもん]についてですが、その 点[てん]に 関[かん]しては 現在[げんざい] 検討中[けんとうちゅう]です。
+  Um nun auf Ihre zweite Frage zu antworten, dieser Punkt wird derzeit geprüft.
+
+  彼らは新しいアイデアが必要だった。そこで、ブレインストーミングセッションを開いた。
+  彼[かれ]らは 新[あたら]しいアイデアが 必要[ひつよう]だった。そこで、ブレインストーミングセッションを 開[ひら]いた。
+  Sie brauchten neue Ideen. Deshalb veranstalteten sie eine Brainstorming-Sitzung.
+
+  彼女は友達が欲しかった。そこで、地域のサークルに参加することにした。
+  彼女[かのじょ]は 友達[ともだち]が 欲[ほ]しかった。そこで、地域[ちいき]のサークルに 参加[さんか]することにした。
+  Sie wollte Freunde finden. Also beschloss sie, einem örtlichen Klub beizutreten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

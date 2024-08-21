@@ -2,20 +2,96 @@ Rang: 1597
 Lemma: 及ぶ
 Lesung: およぶ
 Tonhöhen: .^^
-Definition: erreichen
+Definition: sich erstrecken; reichen; erreichen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 及ばない・及んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   台風の被害は関東地方にも及んだ。
   台風[たいふう]の 被害[ひがい]は 関東地方[かんとうちほう]にも 及[およ]んだ。
-  Die Schäden des Taifuns erreichten sogar die Kanto-Region.
+  Die Schäden des Taifuns erstreckten sich auch auf die Kanto-Region.
+
+  今回の事件の影響は経済界にまで及ぶ可能性がある。
+  今回[こんかい]の 事件[じけん]の 影響[えいきょう]は 経済界[けいざいかい]にまで 及[およ]ぶ 可能性[かのうせい]がある。
+  Die Auswirkungen dieses Vorfalls könnten sich bis in die Wirtschaftswelt erstrecken.
+
+  彼の功績は後世にまで及ぶだろう。
+  彼[かれ]の 功績[こうせき]は 後世[こうせい]にまで 及[およ]ぶだろう。
+  Seine Leistungen werden wohl bis in die Nachwelt reichen.
+
+  この計画の実施には莫大な費用が及ぶ。
+  この 計画[けいかく]の 実施[じっし]には 莫大[ばくだい]な 費用[ひよう]が 及[およ]ぶ。
+  Die Umsetzung dieses Plans wird enorme Kosten mit sich bringen.
+
+  彼の影響力は若い世代にまで及んでいる。
+  彼[かれ]の 影響力[えいきょうりょく]は 若[わか]い 世代[せだい]にまで 及[およ]んでいる。
+  Sein Einfluss erstreckt sich bis auf die junge Generation.
+
+  会議は予定より長引き、深夜に及んだ。
+  会議[かいぎ]は 予定[よてい]より 長引[ながび]き、深夜[しんや]に 及[およ]んだ。
+  Die Besprechung zog sich länger als geplant hin und dauerte bis spät in die Nacht.
+
+  彼女の才能は音楽以外の分野にも及ぶ。
+  彼女[かのじょ]の 才能[さいのう]は 音楽[おんがく]以外[いがい]の 分野[ぶんや]にも 及[およ]ぶ。
+  Ihre Talente erstrecken sich auch auf Bereiche außerhalb der Musik.
+
+  彼の説明は細部にまで及び、非常に分かりやすかった。
+  彼[かれ]の 説明[せつめい]は 細部[さいぶ]にまで 及[およ]び、非常[ひじょう]に 分[わ]かりやすかった。
+  Seine Erklärung ging bis ins Detail und war sehr verständlich.
+
+  洪水の被害は予想を超えて、広範囲に及んだ。
+  洪水[こうずい]の 被害[ひがい]は 予想[よそう]を 超[こ]えて、広範囲[こうはんい]に 及[およ]んだ。
+  Die Überschwemmungsschäden übertrafen die Erwartungen und erstreckten sich über ein weites Gebiet.
+
+  彼の知識は古典から現代文学まで幅広く及ぶ。
+  彼[かれ]の 知識[ちしき]は 古典[こてん]から 現代文学[げんだいぶんがく]まで 幅広[はばひろ]く 及[およ]ぶ。
+  Sein Wissen reicht von den Klassikern bis zur modernen Literatur.
+
+  話題は天気から政治にまで及んだ。
+  話題[わだい]は 天気[てんき]から 政治[せいじ]にまで 及[およ]んだ。
+  Die Gesprächsthemen reichten vom Wetter bis zur Politik.
+
+  彼の影響力はビジネス界全体に及んでいる。
+  彼[かれ]の 影響力[えいきょうりょく]は ビジネス界全体[かいぜんたい]に 及[およ]んでいる。
+  Sein Einfluss erstreckt sich auf die gesamte Geschäftswelt.
+
+  研究結果は予想を遥かに超えて、革新的な発見に及んだ。
+  研究[けんきゅう]結果[けっか]は 予想[よそう]を 遥[はる]かに 超[こ]えて、革新的[かくしんてき]な 発見[はっけん]に 及[およ]んだ。
+  Die Forschungsergebnisse gingen weit über die Erwartungen hinaus und führten zu bahnbrechenden Entdeckungen.
+
+  彼の才能は私の想像を遥かに及ばないものだった。
+  彼[かれ]の 才能[さいのう]は 私[わたし]の 想像[そうぞう]を 遥[はる]かに 及[およ]ばないものだった。
+  Sein Talent ging weit über meine Vorstellungskraft hinaus.
+
+  彼女の演技力はプロにも及ぶレベルだ。
+  彼女[かのじょ]の 演技力[えんぎりょく]は プロにも 及[およ]ぶ レベルだ。
+  Ihre schauspielerischen Fähigkeiten reichen an das Niveau von Profis heran.
+
+  彼の業績は先人の偉業に及ばないが、それでも立派だ。
+  彼[かれ]の 業績[ぎょうせき]は 先人[せんじん]の 偉業[いぎょう]に 及[およ]ばないが、それでも 立派[りっぱ]だ。
+  Seine Leistungen reichen zwar nicht an die großen Taten seiner Vorgänger heran, sind aber dennoch beachtlich.
+
+  彼の努力は並々ならぬものだが、結果はまだ期待に及ばない。
+  彼[かれ]の 努力[どりょく]は 並々[なみなみ]ならぬものだが、結果[けっか]はまだ 期待[きたい]に 及[およ]ばない。
+  Seine Bemühungen sind außergewöhnlich, aber die Ergebnisse erfüllen noch nicht die Erwartungen.
+
+  彼女の美しさは言葉では表現し及ばないほどだ。
+  彼女[かのじょ]の 美[うつく]しさは 言葉[ことば]では 表現[ひょうげん]し 及[およ]ばないほどだ。
+  Ihre Schönheit lässt sich mit Worten nicht angemessen beschreiben.
+
+  この問題の解決には私の能力が及ばない。
+  この 問題[もんだい]の 解決[かいけつ]には 私[わたし]の 能力[のうりょく]が 及[およ]ばない。
+  Die Lösung dieses Problems übersteigt meine Fähigkeiten.
+
+  彼の実力は私の想像が及ばないほど高いものだった。
+  彼[かれ]の 実力[じつりょく]は 私[わたし]の 想像[そうぞう]が 及[およ]ばないほど 高[たか]いものだった。
+  Seine tatsächlichen Fähigkeiten waren weit höher, als ich es mir vorstellen konnte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

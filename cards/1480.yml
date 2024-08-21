@@ -2,7 +2,7 @@ Rang: 1480
 Lemma: 処理
 Lesung: しょり
 Tonhöhen: ^\.
-Definition: Verarbeitung, Bearbeitung
+Definition: verarbeiten; bearbeiten; erledigen
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,8 +14,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このコンピューターはデータの処理が遅い。
-  このコンピューターはデータの 処理[しょり]が 遅[おそ]い。
-  Dieser Computer verarbeitet Daten sehr langsam.
+  この コンピューターは データの 処理[しょり]が 遅[おそ]い。
+  Dieser Computer verarbeitet Daten langsam.
+
+  事務処理の効率化が必要だ。
+  事務処理[じむしょり]の 効率化[こうりつか]が 必要[ひつよう]だ。
+  Eine Effizienzsteigerung bei der Büroarbeit ist notwendig.
+
+  彼女は問題を迅速に処理した。
+  彼女[かのじょ]は 問題[もんだい]を 迅速[じんそく]に 処理[しょり]した。
+  Sie bearbeitete das Problem schnell.
+
+  廃棄物の適切な処理が環境保護につながります。
+  廃棄物[はいきぶつ]の 適切[てきせつ]な 処理[しょり]が 環境保護[かんきょうほご]につながります。
+  Die angemessene Entsorgung von Abfällen trägt zum Umweltschutz bei.
+
+  新しいソフトウェアで画像処理が簡単になりました。
+  新[あたら]しいソフトウェアで 画像処理[がぞうしょり]が 簡単[かんたん]になりました。
+  Mit der neuen Software ist die Bildverarbeitung einfach geworden.
+
+  情報処理技術の進歩は目覚ましい。
+  情報処理[じょうほうしょり]技術[ぎじゅつ]の 進歩[しんぽ]は 目覚[めざ]ましい。
+  Die Fortschritte in der Informationsverarbeitungstechnologie sind bemerkenswert.
+
+  未処理の書類が山積みになっている。
+  未処理[みしょり]の 書類[しょるい]が 山積[やまづ]みになっている。
+  Unbearbeitete Dokumente häufen sich.
+
+  処理済みの案件はファイルに保管してください。
+  処理済[しょりず]みの 案件[あんけん]はファイルに 保管[ほかん]してください。
+  Bitte bewahren Sie die erledigten Vorgänge in der Akte auf.
+
+  事務処理能力が高い人材を求めています。
+  事務処理[じむしょり]能力[のうりょく]が 高[たか]い 人材[じんざい]を 求[もと]めています。
+  Wir suchen Mitarbeiter mit hoher Fähigkeit zur Büroarbeit.
+
+  この機械は1時間で大量のデータを処理できる。
+  この 機械[きかい]は1時間[じかん]で 大量[たいりょう]のデータを 処理[しょり]できる。
+  Diese Maschine kann in einer Stunde eine große Menge an Daten verarbeiten.
+
+  爆発物の処理は専門家に任せるべきだ。
+  爆発物[ばくはつぶつ]の 処理[しょり]は 専門家[せんもんか]に 任[まか]せるべきだ。
+  Die Beseitigung von Sprengstoffen sollte Experten überlassen werden.
+
+  感情の処理が上手な人は、ストレスに強い。
+  感情[かんじょう]の 処理[しょり]が 上手[じょうず]な 人[ひと]は、ストレスに 強[つよ]い。
+  Menschen, die gut mit ihren Gefühlen umgehen können, sind stressresistenter.
+
+  ゴミの適切な処理方法を学ぶ必要がある。
+  ゴミの 適切[てきせつ]な 処理方法[しょりほうほう]を 学[まな]ぶ 必要[ひつよう]がある。
+  Wir müssen die richtigen Methoden zur Müllentsorgung lernen.
+
+  処理中のファイルは編集できません。
+  処理中[しょりちゅう]のファイルは 編集[へんしゅう]できません。
+  Dateien, die gerade verarbeitet werden, können nicht bearbeitet werden.
+
+  食品の衛生的な処理が重要です。
+  食品[しょくひん]の 衛生的[えいせいてき]な 処理[しょり]が 重要[じゅうよう]です。
+  Die hygienische Verarbeitung von Lebensmitteln ist wichtig.
+
+  彼は複雑な問題を冷静に処理した。
+  彼[かれ]は 複雑[ふくざつ]な 問題[もんだい]を 冷静[れいせい]に 処理[しょり]した。
+  Er bearbeitete das komplizierte Problem ruhig.
+
+  工場の排水処理システムを改善する必要がある。
+  工場[こうじょう]の 排水処理[はいすいしょり]システムを 改善[かいぜん]する 必要[ひつよう]がある。
+  Das Abwasseraufbereitungssystem der Fabrik muss verbessert werden.
+
+  処理装置の性能が向上し、作業効率が上がった。
+  処理装置[しょりそうち]の 性能[せいのう]が 向上[こうじょう]し、作業効率[さぎょうこうりつ]が 上[あ]がった。
+  Die Leistung der Verarbeitungseinheit hat sich verbessert und die Arbeitseffizienz ist gestiegen.
+
+  彼女は難しい顧客の苦情をうまく処理した。
+  彼女[かのじょ]は 難[むずか]しい 顧客[こきゃく]の 苦情[くじょう]をうまく 処理[しょり]した。
+  Sie hat die Beschwerde des schwierigen Kunden geschickt bearbeitet.
+
+  データ処理の遅延が業務に影響を与えている。
+  データ 処理[しょり]の 遅延[ちえん]が 業務[ぎょうむ]に 影響[えいきょう]を 与[あた]えている。
+  Verzögerungen bei der Datenverarbeitung beeinflussen die Geschäftsabläufe.
+
+  私たちは日々多くの情報を処理しています。
+  私[わたし]たちは 日々[ひび] 多[おお]くの 情報[じょうほう]を 処理[しょり]しています。
+  Wir verarbeiten täglich eine Menge Informationen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

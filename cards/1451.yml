@@ -2,24 +2,120 @@ Rang: 1451
 Lemma: 恥ずかしい
 Lesung: はずかしい
 Tonhöhen: .^^\.
-Definition: verlegen, peinlich berührt
+Definition: peinlich; sich schämen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 恥ずかしくない・恥ずかしかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   道で転んだ時、恥ずかしかった。
-  道[みち]で 転[ころ]んだ 時[とき]、 恥[は]ずかしかった。
-  Ich war verlegen, als ich auf der Straße gestolpert bin.
+  道[みち]で 転[ころ]んだ 時[とき]、恥[は]ずかしかった。
+  Als ich auf der Straße gestolpert bin, war es mir peinlich.
+
+  恥ずかしい話ですが、試験に落ちてしまいました。
+  恥[は]ずかしい 話[はなし]ですが、試験[しけん]に 落[お]ちてしまいました。
+  Es ist mir peinlich zu sagen, aber ich bin durch die Prüfung gefallen.
+
+  彼は恥ずかしそうに頬を赤らめた。
+  彼[かれ]は 恥[は]ずかしそうに 頬[ほお]を 赤[あか]らめた。
+  Er errötete verlegen.
+
+  人前で歌うのが恥ずかしい。
+  人前[ひとまえ]で 歌[うた]うのが 恥[は]ずかしい。
+  Ich geniere mich, vor anderen Leuten zu singen.
+
+  恥ずかしいと思いなさい。
+  恥[は]ずかしいと 思[おも]いなさい。
+  Du solltest dich schämen.
+
+  子供の頃の写真を見せられて、恥ずかしくなった。
+  子供[こども]の 頃[ころ]の 写真[しゃしん]を 見[み]せられて、恥[は]ずかしくなった。
+  Ich wurde verlegen, als mir Fotos aus meiner Kindheit gezeigt wurden.
+
+  遅刻して恥ずかしい思いをした。
+  遅刻[ちこく]して 恥[は]ずかしい 思[おも]いをした。
+  Ich habe mich geschämt, weil ich zu spät gekommen bin.
+
+  彼女は恥ずかしそうに目を伏せた。
+  彼女[かのじょ]は 恥[は]ずかしそうに 目[め]を 伏[ふ]せた。
+  Sie schlug verschämt die Augen nieder.
+
+  ほめられて恥ずかしくなった。
+  ほめられて 恥[は]ずかしくなった。
+  Ich wurde verlegen, als ich gelobt wurde.
+
+  泳げなくて恥ずかしい。
+  泳[およ]げなくて 恥[は]ずかしい。
+  Es ist mir peinlich, dass ich nicht schwimmen kann.
+
+  恥ずかしい夢を見た。
+  恥[は]ずかしい 夢[ゆめ]を 見[み]た。
+  Ich hatte einen peinlichen Traum.
+
+  君、恥ずかしくないの？
+  君[きみ]、恥[は]ずかしくないの？
+  Schämst du dich nicht?
+
+  恥ずかしくて顔が赤くなった。
+  恥[は]ずかしくて 顔[かお]が 赤[あか]くなった。
+  Ich wurde rot vor Scham.
+
+  恥ずかしくて穴があったら入りたい。
+  恥[は]ずかしくて 穴[あな]があったら 入[はい]りたい。
+  Ich würde vor Scham am liebsten im Boden versinken.
+
+  どこへ出しても恥ずかしくない服装をしなさい。
+  どこへ 出[だ]しても 恥[は]ずかしくない 服装[ふくそう]をしなさい。
+  Zieh dich so an, dass du dich nirgendwo schämen musst.
+
+  専門家として恥ずかしくない仕事をしたい。
+  専門家[せんもんか]として 恥[は]ずかしくない 仕事[しごと]をしたい。
+  Ich möchte Arbeit leisten, die eines Experten würdig ist.
+
+  彼女は恥ずかしがりやで、人前で話すのが苦手だ。
+  彼女[かのじょ]は 恥[は]ずかしがりやで、人前[ひとまえ]で 話[はな]すのが 苦手[にがて]だ。
+  Sie ist schüchtern und hat Schwierigkeiten, vor anderen zu sprechen.
+
+  恥ずかしい行動は慎むべきだ。
+  恥[は]ずかしい 行動[こうどう]は 慎[つつし]むべきだ。
+  Man sollte beschämendes Verhalten vermeiden.
+
+  初対面の人と話すのが恥ずかしい。
+  初対面[しょたいめん]の 人[ひと]と 話[はな]すのが 恥[は]ずかしい。
+  Ich fühle mich verlegen, wenn ich mit Leuten spreche, die ich zum ersten Mal treffe.
+
+  恥ずかしそうに謝罪の言葉を述べた。
+  恥[は]ずかしそうに 謝罪[しゃざい]の 言葉[ことば]を 述[の]べた。
+  Verschämt brachte er eine Entschuldigung hervor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Adjektiv 恥ずかしい drückt verschiedene Formen von Scham, Verlegenheit oder Peinlichkeit aus:</p>
+  <div class="examples">
+    <div class="jp">人前[ひとまえ]で 歌[うた]うのが 恥[は]ずかしい。</div>
+    <div class="de spoiler">Ich schäme mich, vor anderen Leuten zu singen.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass etwas beschämend oder peinlich für jemanden ist:</p>
+  <div class="examples">
+    <div class="jp">遅刻[ちこく]して 恥[は]ずかしい 思[おも]いをした。</div>
+    <div class="de spoiler">Ich habe mich geschämt, weil ich zu spät gekommen bin.</div>
+  </div>
+  <p>In manchen Kontexten kann es auch Schüchternheit oder Verlegenheit ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 恥[は]ずかしそうに 目[め]を 伏[ふ]せた。</div>
+    <div class="de spoiler">Sie schlug verschämt die Augen nieder.</div>
+  </div>
+  <p>Es gibt auch einige feststehende Ausdrücke mit diesem Wort:</p>
+  <div class="examples">
+    <div class="jp">恥[は]ずかしくて 穴[あな]があったら 入[はい]りたい。</div>
+    <div class="de spoiler">Ich würde vor Scham am liebsten im Boden versinken.</div>
+  </div>

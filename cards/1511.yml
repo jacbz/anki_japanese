@@ -2,24 +2,149 @@ Rang: 1511
 Lemma: 切れる
 Lesung: きれる
 Tonhöhen: .\.
-Definition: ablaufen, auslaufen
+Definition: reißen; ausgehen; scharf sein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 切れない・切れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   運転免許証の期限が来週で切れる。
   運転免許証[うんてんめんきょしょう]の 期限[きげん]が 来週[らいしゅう]で 切[き]れる。
-  Mein Führerschein läuft nächste Woche aus.
+  Mein Führerschein läuft nächste Woche ab.
+
+  紐が切れて、荷物が落ちてしまった。
+  紐[ひも]が 切[き]れて、荷物[にもつ]が 落[お]ちてしまった。
+  Die Schnur riss, und das Paket fiel herunter.
+
+  堤防が切れて、村が水浸しになった。
+  堤防[ていぼう]が 切[き]れて、村[むら]が 水浸[みずび]しになった。
+  Der Damm brach, und das Dorf wurde überflutet.
+
+  雲が切れて、青空が見えてきた。
+  雲[くも]が 切[き]れて、青空[あおぞら]が 見[み]えてきた。
+  Die Wolkendecke riss auf, und der blaue Himmel kam zum Vorschein.
+
+  人波が切れたので、やっと前に進めた。
+  人波[ひとなみ]が 切[き]れたので、やっと 前[まえ]に 進[すす]めた。
+  Als der Menschenstrom abriss, konnte ich endlich vorwärts kommen.
+
+  緊張で言葉が切れてしまった。
+  緊張[きんちょう]で 言葉[ことば]が 切[き]れてしまった。
+  Vor lauter Nervosität stockte mir die Rede.
+
+  乾燥で指先が切れてしまった。
+  乾燥[かんそう]で 指先[ゆびさき]が 切[き]れてしまった。
+  Durch die trockene Luft bekam ich rissige Fingerspitzen.
+
+  紙で指先を切ってしまった。
+  紙[かみ]で 指先[ゆびさき]を 切[き]ってしまった。
+  Ich habe mir den Finger an einem Stück Papier geschnitten.
+
+  突然電話が切れてしまった。
+  突然[とつぜん] 電話[でんわ]が 切[き]れてしまった。
+  Plötzlich wurde die Telefonverbindung unterbrochen.
+
+  彼女との縁が切れてしまった。
+  彼女[かのじょ]との 縁[えん]が 切[き]れてしまった。
+  Die Beziehung zu ihr ist abgebrochen.
+
+  電球が切れたので、新しいのに取り替えた。
+  電球[でんきゅう]が 切[き]れたので、新[あたら]しいのに 取[と]り 替[か]えた。
+  Die Glühbirne ist durchgebrannt, also habe ich sie durch eine neue ersetzt.
+
+  電池が切れたリモコンは使えない。
+  電池[でんち]が 切[き]れたリモコンは 使[つか]えない。
+  Eine Fernbedienung mit leerer Batterie ist nicht zu gebrauchen.
+
+  米が切れたので、買い出しに行かなきゃ。
+  米[こめ]が 切[き]れたので、買[か]い 出[だ]しに 行[い]かなきゃ。
+  Der Reis ist ausgegangen, also muss ich einkaufen gehen.
+
+  長い坂道を走って、息が切れた。
+  長[なが]い 坂道[さかみち]を 走[はし]って、息[いき]が 切[き]れた。
+  Nachdem ich den langen Hügel hinaufgelaufen bin, bin ich außer Atem.
+
+  集中力が切れて、仕事が進まない。
+  集中力[しゅうちゅうりょく]が 切[き]れて、仕事[しごと]が 進[すす]まない。
+  Meine Konzentration lässt nach, und ich komme mit der Arbeit nicht voran.
+
+  ビザが切れる前に、更新手続きをしなければならない。
+  ビザが 切[き]れる 前[まえ]に、更新[こうしん] 手続[てつづ]きをしなければならない。
+  Ich muss die Verlängerung beantragen, bevor mein Visum abläuft.
+
+  火災保険が切れているのに気づかなかった。
+  火災保険[かさいほけん]が 切[き]れているのに 気[き]づかなかった。
+  Ich habe nicht bemerkt, dass meine Feuerversicherung ausgelaufen ist.
+
+  契約が切れたので、新しい仕事を探している。
+  契約[けいやく]が 切[き]れたので、新[あたら]しい 仕事[しごと]を 探[さが]している。
+  Da mein Vertrag ausgelaufen ist, suche ich nach einer neuen Arbeit.
+
+  この牛乳、賞味期限が切れている。
+  この 牛乳[ぎゅうにゅう]、賞味期限[しょうみきげん]が 切[き]れている。
+  Diese Milch ist abgelaufen.
+
+  麻酔が切れてきたので、痛みを感じ始めた。
+  麻酔[ますい]が 切[き]れてきたので、痛[いた]みを 感[かん]じ 始[はじ]めた。
+  Da die Betäubung nachlässt, fange ich an, Schmerzen zu spüren.
+
+  彼は頭が切れる人だ。
+  彼[かれ]は 頭[あたま]が 切[き]れる 人[ひと]だ。
+  Er ist ein kluger Kopf.
+
+  この包丁はよく切れるね。
+  この 包丁[ほうちょう]はよく 切[き]れるね。
+  Dieses Küchenmesser schneidet wirklich gut.
+
+  打球が切れて、ファウルになってしまった。
+  打球[だきゅう]が 切[き]れて、ファウルになってしまった。
+  Der geschlagene Ball driftete ab und wurde zum Foul.
+
+  この道は左へ切れているから、注意して運転して。
+  この 道[みち]は 左[ひだり]へ 切[き]れているから、注意[ちゅうい]して 運転[うんてん]して。
+  Diese Straße biegt nach links ab, also fahr vorsichtig.
+
+  トランプをよく切れば、公平なゲームになる。
+  トランプをよく 切[き]れば、公平[こうへい]なゲームになる。
+  Wenn du die Karten gut mischst, wird das Spiel fair.
+
+  彼の体重は60キロを切っている。
+  彼[かれ]の 体重[たいじゅう]は60キロを 切[き]っている。
+  Sein Gewicht liegt unter 60 Kilogramm.
+
+  突然彼が切れて、机を叩き始めた。
+  突然[とつぜん] 彼[かれ]が 切[き]れて、机[つくえ]を 叩[たた]き 始[はじ]めた。
+  Plötzlich verlor er die Beherrschung und fing an, auf den Tisch zu schlagen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>切れる hat mehrere Bedeutungen:</p>
+  <p>1. Reißen oder Brechen:</p>
+  <div class="examples">
+    <div class="jp">紐[ひも]が 切[き]れた。</div>
+    <div class="de spoiler">Die Schnur ist gerissen.</div>
+  </div>
+  <p>2. Ausgehen, zu Ende gehen:</p>
+  <div class="examples">
+    <div class="jp">電池[でんち]が 切[き]れた。</div>
+    <div class="de spoiler">Die Batterie ist leer.</div>
+  </div>
+  <p>3. Scharf sein (für Messer oder im übertragenen Sinne für den Verstand):</p>
+  <div class="examples">
+    <div class="jp">この 包丁[ほうちょう]はよく 切[き]れる。</div>
+    <div class="de spoiler">Dieses Messer schneidet gut.</div>
+  </div>
+  <p>4. Die Beherrschung verlieren (umgangssprachlich):</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]が 突然[とつぜん] 切[き]れた。</div>
+    <div class="de spoiler">Er verlor plötzlich die Beherrschung.</div>
+  </div>

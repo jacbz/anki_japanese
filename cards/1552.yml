@@ -2,20 +2,96 @@ Rang: 1552
 Lemma: 接する
 Lesung: せっする
 Tonhöhen: .^^^
-Definition: angrenzen, in Kontakt kommen
+Definition: berühren; in Kontakt kommen; begegnen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 接しない・接した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私はあまり外国人と接する機会がない。
   私[わたし]はあまり 外国人[がいこくじん]と 接[せっ]する 機会[きかい]がない。
-  Ich habe nicht viele Gelegenheiten, Ausländer zu treffen.
+  Ich habe kaum Gelegenheit, mit Ausländern in Kontakt zu kommen.
+
+  畑に接した駐車場を探しています。
+  畑[はたけ]に 接[せっ]した 駐車場[ちゅうしゃじょう]を 探[さが]しています。
+  Ich suche einen Parkplatz, der an ein Feld grenzt.
+
+  ロシアと国境を接している国はたくさんあります。
+  ロシアと 国境[こっきょう]を 接[せっ]している 国[くに]はたくさんあります。
+  Es gibt viele Länder, die eine gemeinsame Grenze mit Russland haben.
+
+  二つの円が点Aで接しています。
+  二[ふた]つの 円[えん]が 点[てん]Aで 接[せっ]しています。
+  Die beiden Kreise berühren sich im Punkt A.
+
+  日輪が水平線と接するところで日の出を見ました。
+  日輪[にちりん]が 水平線[すいへいせん]と 接[せっ]するところで 日[ひ]の 出[で]を 見[み]ました。
+  Ich sah den Sonnenaufgang dort, wo die Sonne den Horizont berührte.
+
+  異文化に接することで視野が広がります。
+  異文化[いぶんか]に 接[せっ]することで 視野[しや]が 広[ひろ]がります。
+  Durch den Kontakt mit fremden Kulturen erweitert sich der Horizont.
+
+  偉大な芸術作品に接する時は畏敬の念を持つべきです。
+  偉大[いだい]な 芸術作品[げいじゅつさくひん]に 接[せっ]する 時[とき]は 畏敬[いけい]の 念[ねん]を 持[も]つべきです。
+  Wenn man großen Kunstwerken begegnet, sollte man Ehrfurcht empfinden.
+
+  お客様に丁寧に接するように心がけています。
+  お 客様[きゃくさま]に 丁寧[ていねい]に 接[せっ]するように 心[こころ]がけています。
+  Ich bemühe mich, Kunden höflich zu behandeln.
+
+  温情を持って部下に接することが大切です。
+  温情[おんじょう]を 持[も]って 部下[ぶか]に 接[せっ]することが 大切[たいせつ]です。
+  Es ist wichtig, Untergebenen mit Wohlwollen zu begegnen.
+
+  彼は常に笑顔で人に接しています。
+  彼[かれ]は 常[つね]に 笑顔[えがお]で 人[ひと]に 接[せっ]しています。
+  Er begegnet Menschen immer mit einem Lächeln.
+
+  額を接して密談する二人の姿が見えた。
+  額[ひたい]を 接[せっ]して 密談[みつだん]する 二人[ふたり]の 姿[すがた]が 見[み]えた。
+  Ich sah zwei Personen, die die Köpfe zusammensteckten und sich heimlich besprachen.
+
+  突然の訃報に接し、言葉を失いました。
+  突然[とつぜん]の 訃報[ふほう]に 接[せっ]し、言葉[ことば]を 失[うしな]いました。
+  Als ich die plötzliche Todesnachricht erhielt, war ich sprachlos.
+
+  新しい情報に接するたびに、考えが変わります。
+  新[あたら]しい 情報[じょうほう]に 接[せっ]するたびに、考[かんが]えが 変[か]わります。
+  Jedes Mal, wenn ich neue Informationen erhalte, ändert sich meine Meinung.
+
+  彼は初めて本物の芸術に接して感動した。
+  彼[かれ]は 初[はじ]めて 本物[ほんもの]の 芸術[げいじゅつ]に 接[せっ]して 感動[かんどう]した。
+  Er war bewegt, als er zum ersten Mal echte Kunst erlebte.
+
+  接する面積が大きいほど、摩擦力は強くなります。
+  接[せっ]する 面積[めんせき]が 大[おお]きいほど、摩擦力[まさつりょく]は 強[つよ]くなります。
+  Je größer die Berührungsfläche ist, desto stärker wird die Reibungskraft.
+
+  彼女は常に礼儀正しく来客に接している。
+  彼女[かのじょ]は 常[つね]に 礼儀正[れいぎただ]しく 来客[らいきゃく]に 接[せっ]している。
+  Sie empfängt Besucher stets mit großer Höflichkeit.
+
+  日本文化に接することで、新しい視点を得ました。
+  日本[にほん] 文化[ぶんか]に 接[せっ]することで、新[あたら]しい 視点[してん]を 得[え]ました。
+  Durch den Kontakt mit der japanischen Kultur habe ich eine neue Perspektive gewonnen.
+
+  彼は誰に対しても公平に接するよう心がけている。
+  彼[かれ]は 誰[だれ]に 対[たい]しても 公平[こうへい]に 接[せっ]するよう 心[こころ]がけている。
+  Er bemüht sich, jeden fair zu behandeln.
+
+  初めて海外の文学作品に接し、新しい世界が開けた気がした。
+  初[はじ]めて 海外[かいがい]の 文学作品[ぶんがくさくひん]に 接[せっ]し、新[あたら]しい 世界[せかい]が 開[ひら]けた 気[き]がした。
+  Als ich zum ersten Mal ausländische Literatur las, hatte ich das Gefühl, dass sich mir eine neue Welt eröffnete.
+
+  医師は患者に優しく接することが大切です。
+  医師[いし]は 患者[かんじゃ]に 優[やさ]しく 接[せっ]することが 大切[たいせつ]です。
+  Es ist wichtig, dass Ärzte ihre Patienten freundlich behandeln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

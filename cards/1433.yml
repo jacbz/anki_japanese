@@ -2,24 +2,115 @@ Rang: 1433
 Lemma: 構う
 Lesung: かまう
 Tonhöhen: .\.
-Definition: sich Gedanken machen, sich kümmern
+Definition: sich kümmern um; ausmachen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 構わない・構った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   少々お待ちいただいても構いませんか。
   少々[しょうしょう]お 待[ま]ちいただいても 構[かま]いませんか。
-  Macht es Ihnen etwas aus, eine Minute zu warten?
+  Würde es Ihnen etwas ausmachen, einen Moment zu warten?
+
+  服装を構わない人は、時と場所をわきまえるべきだ。
+  服装[ふくそう]を 構[かま]わない 人[ひと]は、時[とき]と 場所[ばしょ]をわきまえるべきだ。
+  Menschen, die sich nicht um ihre Kleidung kümmern, sollten Zeit und Ort berücksichtigen.
+
+  少しも構わないから、好きなだけ食べてください。
+  少[すこ]しも 構[かま]わないから、好[す]きなだけ 食[た]べてください。
+  Es macht mir überhaupt nichts aus, essen Sie so viel Sie möchten.
+
+  写真を撮っても構いませんか。
+  写真[しゃしん]を 撮[と]っても 構[かま]いませんか。
+  Darf ich ein Foto machen?
+
+  靴をはいたまま入っても構わないと言われました。
+  靴[くつ]をはいたまま 入[はい]っても 構[かま]わないと 言[い]われました。
+  Mir wurde gesagt, dass ich mit Schuhen eintreten darf.
+
+  間違っても構わないから、思い切って挑戦してみて。
+  間違[まちが]っても 構[かま]わないから、思[おも]い 切[き]って 挑戦[ちょうせん]してみて。
+  Es macht nichts, wenn du Fehler machst, also versuche es mutig.
+
+  費用に構わず最高の品質を求めています。
+  費用[ひよう]に 構[かま]わず 最高[さいこう]の 品質[ひんしつ]を 求[もと]めています。
+  Wir streben nach höchster Qualität, ungeachtet der Kosten.
+
+  朝から飲んでも構わないけど、健康には気をつけてね。
+  朝[あさ]から 飲[の]んでも 構[かま]わないけど、健康[けんこう]には 気[き]をつけてね。
+  Du kannst schon am Morgen trinken, aber pass auf deine Gesundheit auf.
+
+  信じたくなければ、信じなくても構わないよ。
+  信[しん]じたくなければ、信[しん]じなくても 構[かま]わないよ。
+  Wenn du es nicht glauben willst, musst du es nicht glauben.
+
+  そこの人に案内してもらっても構わないですよ。
+  そこの 人[ひと]に 案内[あんない]してもらっても 構[かま]わないですよ。
+  Es wäre in Ordnung, wenn du jemanden von dort bitten würdest, dich herumzuführen.
+
+  言うぐらい構わないだろう？
+  言[い]うぐらい 構[かま]わないだろう？
+  Es ist doch wohl erlaubt, das zu sagen, oder?
+
+  昼夜時間を構わず音楽を流すのは迷惑です。
+  昼夜[ちゅうや] 時間[じかん]を 構[かま]わず 音楽[おんがく]を 流[なが]すのは 迷惑[めいわく]です。
+  Es ist störend, zu jeder Tages- und Nachtzeit Musik laufen zu lassen.
+
+  照明が消えていても、構わず中に入った。
+  照明[しょうめい]が 消[き]えていても、構[かま]わず 中[なか]に 入[はい]った。
+  Obwohl das Licht aus war, ging ich unbekümmert hinein.
+
+  子供の教育に構わない親は問題だ。
+  子供[こども]の 教育[きょういく]に 構[かま]わない 親[おや]は 問題[もんだい]だ。
+  Eltern, die sich nicht um die Erziehung ihrer Kinder kümmern, sind problematisch.
+
+  何も構わないでください、私は大丈夫です。
+  何[なに]も 構[かま]わないでください、私[わたし]は 大丈夫[だいじょうぶ]です。
+  Bitte machen Sie sich keine Umstände, mir geht es gut.
+
+  誰も私を構ってくれなくて寂しい。
+  誰[だれ]も 私[わたし]を 構[かま]ってくれなくて 寂[さび]しい。
+  Ich fühle mich einsam, weil sich niemand um mich kümmert.
+
+  猫を構いすぎると、甘えん坊になるよ。
+  猫[ねこ]を 構[かま]いすぎると、甘[あま]えん 坊[ぼう]になるよ。
+  Wenn du dich zu sehr um die Katze kümmerst, wird sie verwöhnt.
+
+  この問題に構わず、前に進むべきだ。
+  この 問題[もんだい]に 構[かま]わず、前[まえ]に 進[すす]むべきだ。
+  Wir sollten voranschreiten, ohne uns um dieses Problem zu kümmern.
+
+  彼女は人の目を構わず、自分の信念を貫いた。
+  彼女[かのじょ]は 人[ひと]の 目[め]を 構[かま]わず、自分[じぶん]の 信念[しんねん]を 貫[つらぬ]いた。
+  Sie setzte ihre Überzeugungen durch, ohne Rücksicht auf die Meinungen anderer zu nehmen.
+
+  構わないなら、この本を借りてもいい？
+  構[かま]わないなら、この 本[ほん]を 借[か]りてもいい？
+  Wenn es dir nichts ausmacht, kann ich mir dieses Buch ausleihen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 構う (kamau) wird oft in Verbindung mit der て-Form anderer Verben verwendet, um Erlaubnis oder Gleichgültigkeit auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">ここで 食[た]べても 構[かま]いません。</div>
+    <div class="de spoiler">Sie dürfen hier essen.</div>
+  </div>
+  <p>In der Verneinung drückt es aus, dass etwas jemanden nicht kümmert oder nicht stört.</p>
+  <div class="examples">
+    <div class="jp">遅[おそ]くなっても 構[かま]いません。</div>
+    <div class="de spoiler">Es macht nichts, wenn es spät wird.</div>
+  </div>
+  <p>Es kann auch bedeuten, sich um jemanden oder etwas zu kümmern oder zu sorgen.</p>
+  <div class="examples">
+    <div class="jp">子供[こども]の 教育[きょういく]に 構[かま]う。</div>
+    <div class="de spoiler">Sich um die Erziehung der Kinder kümmern.</div>
+  </div>

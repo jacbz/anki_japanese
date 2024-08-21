@@ -2,20 +2,100 @@ Rang: 1522
 Lemma: イベント
 Lesung: ''
 Tonhöhen: .^^^
-Definition: Veranstaltung
+Definition: Ereignis, Veranstaltung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. event
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   お祭りの期間中、様々なイベントが行われる。
-  お 祭[まつ]りの 期間中[きかんちゅう]、 様々[さまざま]なイベントが 行[おこな]われる。
-  Während des Festivals wird eine Vielzahl von Veranstaltungen angeboten.
+  お 祭[まつ]りの 期間中[きかんちゅう]、様々[さまざま]なイベントが 行[おこな]われる。
+  Während des Festivals finden verschiedene Veranstaltungen statt.
+
+  イベントガイドを見て、週末の予定を立てよう。
+  イベントガイドを 見[み]て、週末[しゅうまつ]の 予定[よてい]を 立[た]てよう。
+  Lass uns den Veranstaltungskalender anschauen und Pläne für das Wochenende machen.
+
+  彼はイベント会社で働いています。
+  彼[かれ]はイベント 会社[がいしゃ]で 働[はたら]いています。
+  Er arbeitet bei einer Eventagentur.
+
+  最新のイベント情報はウェブサイトでチェックできます。
+  最新[さいしん]のイベント 情報[じょうほう]はウェブサイトでチェックできます。
+  Die neuesten Veranstaltungsinformationen können Sie auf unserer Website überprüfen.
+
+  イベント開催には綿密な計画が必要です。
+  イベント 開催[かいさい]には 綿密[めんみつ]な 計画[けいかく]が 必要[ひつよう]です。
+  Für die Organisation einer Veranstaltung ist eine sorgfältige Planung erforderlich.
+
+  イベントカレンダーを見て、興味のあるものに参加しましょう。
+  イベントカレンダーを 見[み]て、興味[きょうみ]のあるものに 参加[さんか]しましょう。
+  Schau dir den Veranstaltungskalender an und nimm an den Ereignissen teil, die dich interessieren.
+
+  この会社はイベントマーケティングに力を入れている。
+  この 会社[かいしゃ]はイベントマーケティングに 力[ちから]を 入[い]れている。
+  Dieses Unternehmen legt großen Wert auf Eventmarketing.
+
+  イベントマネージメントの経験者を募集しています。
+  イベントマネージメントの 経験者[けいけんしゃ]を 募集[ぼしゅう]しています。
+  Wir suchen erfahrene Personen im Veranstaltungsmanagement.
+
+  ソーシャルメディアはイベントメディアとして重要な役割を果たしています。
+  ソーシャルメディアはイベントメディアとして 重要[じゅうよう]な 役割[やくわり]を 果[は]たしています。
+  Soziale Medien spielen eine wichtige Rolle als Eventmedium.
+
+  来月のビッグイベントに向けて準備を進めています。
+  来月[らいげつ]のビッグイベントに 向[む]けて 準備[じゅんび]を 進[すす]めています。
+  Wir bereiten uns auf das große Ereignis im nächsten Monat vor.
+
+  このメディアイベントは多くの注目を集めた。
+  このメディアイベントは 多[おお]くの 注目[ちゅうもく]を 集[あつ]めた。
+  Dieses Medienereignis hat viel Aufmerksamkeit erregt.
+
+  コンサートがメインイベントで、その後花火大会があります。
+  コンサートがメインイベントで、その 後[あと] 花火大会[はなびたいかい]があります。
+  Das Konzert ist die Hauptveranstaltung, gefolgt von einem Feuerwerk.
+
+  今週末は大きなスポーツイベントが開催されます。
+  今週末[こんしゅうまつ]は 大[おお]きなスポーツイベントが 開催[かいさい]されます。
+  An diesem Wochenende findet eine große Sportveranstaltung statt.
+
+  オリンピックでは、様々な競技イベントが行われます。
+  オリンピックでは、様々[さまざま]な 競技[きょうぎ]イベントが 行[おこな]われます。
+  Bei den Olympischen Spielen finden verschiedene Wettkampfveranstaltungen statt.
+
+  このソフトウェアはマウスのクリックイベントを検知します。
+  このソフトウェアはマウスのクリックイベントを 検知[けんち]します。
+  Diese Software erkennt Mausklick-Ereignisse.
+
+  イベント駆動型プログラミングは、ユーザーの操作に応じてプログラムが動作します。
+  イベント 駆動型[くどうがた]プログラミングは、ユーザーの 操作[そうさ]に 応[おう]じてプログラムが 動作[どうさ]します。
+  Bei der ereignisgesteuerten Programmierung reagiert das Programm auf Benutzeraktionen.
+
+  地域の活性化のために、定期的にイベントを開催しています。
+  地域[ちいき]の 活性化[かっせいか]のために、定期的[ていきてき]にイベントを 開催[かいさい]しています。
+  Um die Region zu beleben, veranstalten wir regelmäßig Events.
+
+  イベントの成功は、参加者の満足度で測ることができます。
+  イベントの 成功[せいこう]は、参加者[さんかしゃ]の 満足度[まんぞくど]で 測[はか]ることができます。
+  Der Erfolg einer Veranstaltung kann an der Zufriedenheit der Teilnehmer gemessen werden.
+
+  新製品発表のイベントには多くの報道陣が集まった。
+  新製品[しんせいひん] 発表[はっぴょう]のイベントには 多[おお]くの 報道陣[ほうどうじん]が 集[あつ]まった。
+  Viele Journalisten versammelten sich bei der Veranstaltung zur Vorstellung des neuen Produkts.
+
+  イベントの参加費は前払いでお願いします。
+  イベントの 参加費[さんかひ]は 前払[まえばら]いでお 願[ねが]いします。
+  Bitte zahlen Sie die Teilnahmegebühr für die Veranstaltung im Voraus.
+
+  今年のイベントは昨年よりも盛況でした。
+  今年[ことし]のイベントは 昨年[さくねん]よりも 盛況[せいきょう]でした。
+  Die Veranstaltung in diesem Jahr war erfolgreicher als im letzten Jahr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

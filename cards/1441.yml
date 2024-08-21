@@ -2,13 +2,13 @@ Rang: 1441
 Lemma: 直す
 Lesung: なおす
 Tonhöhen: .\.
-Definition: reparieren, ausbessern, instand setzen
+Definition: reparieren; korrigieren; ändern
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, suff
+Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 直さない・直した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,106 @@ Beispielsätze: |-
   部屋[へや]のシャワーを 直[なお]していただけませんか。
   Könnten Sie bitte die Dusche in meinem Zimmer reparieren?
 
+  機械が壊れたので、すぐに直さなければなりません。
+  機械[きかい]が 壊[こわ]れたので、すぐに 直[なお]さなければなりません。
+  Die Maschine ist kaputt, also müssen wir sie sofort reparieren.
+
+  靴底が剥がれたので、靴屋さんに直してもらった。
+  靴底[くつぞこ]が 剥[は]がれたので、靴屋[くつや]さんに 直[なお]してもらった。
+  Da sich die Schuhsohle gelöst hatte, ließ ich sie beim Schuhmacher reparieren.
+
+  道路のでこぼこを直す工事が始まりました。
+  道路[どうろ]のでこぼこを 直[なお]す 工事[こうじ]が 始[はじ]まりました。
+  Die Bauarbeiten zur Beseitigung der Unebenheiten auf der Straße haben begonnen.
+
+  ネクタイが曲がっているよ。ちょっと直してあげるね。
+  ネクタイが 曲[ま]がっているよ。ちょっと 直[なお]してあげるね。
+  Deine Krawatte sitzt schief. Ich richte sie dir kurz.
+
+  会議の前に、急いで化粧を直しました。
+  会議[かいぎ]の 前[まえ]に、 急[いそ]いで 化粧[けしょう]を 直[なお]しました。
+  Vor der Besprechung frischte ich schnell mein Make-up auf.
+
+  時計の時間が合っていないので、正しい時間に直しましょう。
+  時計[とけい]の 時間[じかん]が 合[あ]っていないので、 正[ただ]しい 時間[じかん]に 直[なお]しましょう。
+  Die Uhr geht falsch, also stellen wir sie auf die richtige Zeit.
+
+  レポートの誤りを直して、先生に提出し直した。
+  レポートの 誤[あやま]りを 直[なお]して、先生[せんせい]に 提出[ていしゅつ]し 直[なお]した。
+  Ich korrigierte die Fehler in meinem Bericht und reichte ihn erneut beim Lehrer ein.
+
+  この文章をもう少し分かりやすく直してください。
+  この 文章[ぶんしょう]をもう 少[すこ]し 分[わ]かりやすく 直[なお]してください。
+  Bitte überarbeiten Sie diesen Text, um ihn etwas verständlicher zu machen.
+
+  彼は悪い癖を直そうと努力している。
+  彼[かれ]は 悪[わる]い 癖[くせ]を 直[なао]そうと 努力[どりょく]している。
+  Er bemüht sich, seine schlechten Angewohnheiten abzulegen.
+
+  彼女は機嫌を直して、また笑顔になった。
+  彼女[かのじょ]は 機嫌[きげん]を 直[なお]して、また 笑顔[えがお]になった。
+  Sie besserte ihre Laune und lächelte wieder.
+
+  蜂の巣箱を直して、養蜂を再開しました。
+  蜂[はち]の 巣箱[すばこ]を 直[なお]して、養蜂[ようほう]を 再開[さいかい]しました。
+  Wir reparierten die Bienenstöcke und nahmen die Imkerei wieder auf.
+
+  髪型を直して、パーティーに出かける準備をした。
+  髪型[かみがた]を 直[なお]して、パーティーに 出[で]かける 準備[じゅんび]をした。
+  Ich richtete meine Frisur und machte mich fertig, um zur Party zu gehen.
+
+  子供の偏食を直すのは簡単ではありません。
+  子供[こども]の 偏食[へんしょく]を 直[なお]すのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, die Ernährungsgewohnheiten eines wählerischen Kindes zu ändern.
+
+  会社の規則を時代に合わせて直す必要があります。
+  会社[かいしゃ]の 規則[きそく]を 時代[じだい]に 合[あ]わせて 直[なお]す 必要[ひつよう]があります。
+  Es ist notwendig, die Unternehmensregeln an die heutige Zeit anzupassen.
+
+  この文章を日本語に直してくれませんか。
+  この 文章[ぶんしょう]を 日本語[にほんご]に 直[なお]してくれませんか。
+  Könntest du diesen Text bitte ins Japanische übersetzen?
+
+  漢字で書かれた文章をひらがなに直す練習をしています。
+  漢字[かんじ]で 書[か]かれた 文章[ぶんしょう]をひらがなに 直[なお]す 練習[れんしゅう]をしています。
+  Ich übe, in Kanji geschriebene Texte in Hiragana umzuschreiben.
+
+  ドルを円に直して、合計金額を計算しました。
+  ドルを 円[えん]に 直[なお]して、合計金額[ごうけいきんがく]を 計算[けいさん]しました。
+  Ich rechnete Dollar in Yen um und berechnete den Gesamtbetrag.
+
+  この古い建物を学校に直す計画があります。
+  この 古[ふる]い 建物[たてもの]を 学校[がっこう]に 直[なお]す 計画[けいかく]があります。
+  Es gibt Pläne, dieses alte Gebäude in eine Schule umzubauen.
+
+  二人は仲直りをして、また友達に直りました。
+  二人[ふたり]は 仲直[なかなお]りをして、また 友達[ともだち]に 直[なお]りました。
+  Die beiden haben sich versöhnt und sind wieder Freunde geworden.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 直す (なおす) hat mehrere Bedeutungen und Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">壊[こわ]れた 時計[とけい]を 直[なお]す。</div>
+    <div class="de spoiler">Die kaputte Uhr reparieren.</div>
+  </div>
+  <p>Es wird verwendet, um etwas zu reparieren oder in den ursprünglichen Zustand zurückzuversetzen.</p>
+  <div class="examples">
+    <div class="jp">文章[ぶんしょう]の 誤[あやま]りを 直[なお]す。</div>
+    <div class="de spoiler">Die Fehler im Text korrigieren.</div>
+  </div>
+  <p>Es kann auch bedeuten, etwas zu korrigieren oder zu verbessern.</p>
+  <div class="examples">
+    <div class="jp">悪[わる]い 習慣[しゅうかん]を 直[なао]す。</div>
+    <div class="de spoiler">Eine schlechte Angewohnheit ablegen.</div>
+  </div>
+  <p>In diesem Kontext bedeutet es, etwas Negatives zu ändern oder abzulegen.</p>
+  <div class="examples">
+    <div class="jp">英語[えいご]を 日本語[にほんご]に 直[なお]す。</div>
+    <div class="de spoiler">Englisch ins Japanische übersetzen.</div>
+  </div>
+  <p>Es kann auch "übersetzen" oder "umwandeln" bedeuten, wenn es um Sprachen oder Einheiten geht.</p>

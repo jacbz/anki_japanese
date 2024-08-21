@@ -2,20 +2,96 @@ Rang: 1616
 Lemma: 管理
 Lesung: かんり
 Tonhöhen: \..
-Definition: Verwaltung, Management
+Definition: Verwaltung; kontrollieren
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 管理する・管理しない・管理した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   危機管理が大きな関心事である。
-  危機管理[ききかんり]が 大[おお]きな 関心[かんしん] 事[ごと]である。
-  Crisis-Management ist ein wichtiges Anliegen.
+  危機[きき]管理[かんり]が 大[おお]きな 関心事[かんしんじ]である。
+  Krisenmanagement ist ein großes Anliegen.
+
+  この建物の管理者を探しています。
+  この 建物[たてもの]の 管理者[かんりしゃ]を 探[さが]しています。
+  Ich suche den Verwalter dieses Gebäudes.
+
+  効率的な在庫管理システムを導入しました。
+  効率的[こうりつてき]な 在庫[ざいこ]管理[かんり]システムを 導入[どうにゅう]しました。
+  Wir haben ein effizientes Lagerverwaltungssystem eingeführt.
+
+  彼女は人事管理の専門家だ。
+  彼女[かのじょ]は 人事[じんじ]管理[かんり]の 専門家[せんもんか]だ。
+  Sie ist eine Expertin für Personalmanagement.
+
+  品質管理部門で働いています。
+  品質[ひんしつ]管理[かんり]部門[ぶもん]で 働[はたら]いています。
+  Ich arbeite in der Abteilung für Qualitätskontrolle.
+
+  このプロジェクトの管理責任は誰にありますか。
+  このプロジェクトの 管理[かんり]責任[せきにん]は 誰[だれ]にありますか。
+  Wer trägt die Verwaltungsverantwortung für dieses Projekt?
+
+  データベース管理ツールを開発中です。
+  データベース 管理[かんり]ツールを 開発中[かいはつちゅう]です。
+  Wir entwickeln gerade ein Datenbankverwaltungstool.
+
+  健康管理に気をつけてください。
+  健康[けんこう]管理[かんり]に 気[き]をつけてください。
+  Bitte achten Sie auf Ihre Gesundheit.
+
+  財産管理を弁護士に依頼した。
+  財産[ざいさん]管理[かんり]を 弁護士[べんごし]に 依頼[いらい]した。
+  Ich habe einen Anwalt mit der Vermögensverwaltung beauftragt.
+
+  この会社の管理体制に問題がある。
+  この 会社[かいしゃ]の 管理[かんり]体制[たいせい]に 問題[もんだい]がある。
+  Es gibt Probleme im Verwaltungssystem dieses Unternehmens.
+
+  管理職に昇進するためには何が必要ですか。
+  管理職[かんりしょく]に 昇進[しょうしん]するためには 何[なに]が 必要[ひつよう]ですか。
+  Was ist nötig, um in eine Führungsposition aufzusteigen?
+
+  彼は生産管理の専門知識を持っている。
+  彼[かれ]は 生産[せいさん]管理[かんり]の 専門[せんもん]知識[ちしき]を 持[も]っている。
+  Er verfügt über Fachwissen im Produktionsmanagement.
+
+  新しい在庫管理システムのおかげで効率が上がった。
+  新[あたら]しい 在庫[ざいこ]管理[かんり]システムのおかげで 効率[こうりつ]が 上[あ]がった。
+  Dank des neuen Bestandsverwaltungssystems hat sich die Effizienz verbessert.
+
+  このビルの管理人さんはとても親切だ。
+  このビルの 管理人[かんりにん]さんはとても 親切[しんせつ]だ。
+  Der Hausmeister dieses Gebäudes ist sehr freundlich.
+
+  彼女は学校管理の経験が豊富だ。
+  彼女[かのじょ]は 学校[がっこう]管理[かんり]の 経験[けいけん]が 豊富[ほうふ]だ。
+  Sie hat reiche Erfahrung in der Schulverwaltung.
+
+  この国では通貨管理が厳しい。
+  この 国[くに]では 通貨[つうか]管理[かんり]が 厳[きび]しい。
+  In diesem Land ist die Währungskontrolle streng.
+
+  管理不足で問題が発生しました。
+  管理[かんり]不足[ぶそく]で 問題[もんだい]が 発生[はっせい]しました。
+  Aufgrund mangelnder Verwaltung sind Probleme aufgetreten.
+
+  彼らは効果的な時間管理の方法を学んでいる。
+  彼[かれ]らは 効果的[こうかてき]な 時間[じかん]管理[かんり]の 方法[ほうほう]を 学[まな]んでいる。
+  Sie lernen Methoden für effektives Zeitmanagement.
+
+  このシステムは誰が管理していますか。
+  このシステムは 誰[だれ]が 管理[かんり]していますか。
+  Wer verwaltet dieses System?
+
+  自分の感情を上手に管理することが大切だ。
+  自分[じぶん]の 感情[かんじょう]を 上手[じょうず]に 管理[かんり]することが 大切[たいせつ]だ。
+  Es ist wichtig, die eigenen Gefühle gut zu kontrollieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その問題についてはどちらの側にもつかない。
-  その 問題[もんだい]についてはどちらの 側[がわ]にもつかない。
-  Ich werde in dieser Angelegenheit nicht Partei ergreifen.
+  その 問題[もんだい]については どちらの 側[がわ]にも つかない。
+  In dieser Angelegenheit stelle ich mich auf keine der beiden Seiten.
+
+  左側に曲がってください。
+  左側[ひだりがわ]に 曲[ま]がってください。
+  Bitte biegen Sie links ab.
+
+  受信側の機器に問題があるようです。
+  受信側[じゅしんがわ]の 機器[きき]に 問題[もんだい]があるようです。
+  Es scheint ein Problem mit dem Empfangsgerät zu geben.
+
+  北側の部屋は日当たりが悪いです。
+  北側[きたがわ]の 部屋[へや]は 日当[ひあ]たりが 悪[わる]いです。
+  Die Zimmer auf der Nordseite haben schlechte Sonneneinstrahlung.
+
+  組合側と経営側の交渉が難航している。
+  組合側[くみあいがわ]と 経営側[けいえいがわ]の 交渉[こうしょう]が 難航[なんこう]している。
+  Die Verhandlungen zwischen Gewerkschaft und Management gestalten sich schwierig.
+
+  こちら側の意見をお聞かせください。
+  こちら 側[がわ]の 意見[いけん]をお 聞[き]かせください。
+  Bitte teilen Sie uns Ihre Meinung mit.
+
+  右側通行を守りましょう。
+  右側通行[みぎがわつうこう]を 守[まも]りましょう。
+  Lasst uns den Rechtsverkehr einhalten.
+
+  向こう側に見えるのは富士山です。
+  向[む]こう 側[がわ]に 見[み]えるのは 富士山[ふじさん]です。
+  Was man auf der anderen Seite sieht, ist der Berg Fuji.
+
+  両側の意見を聞いて判断する必要があります。
+  両側[りょうがわ]の 意見[いけん]を 聞[き]いて 判断[はんだん]する 必要[ひつよう]があります。
+  Es ist notwendig, die Meinungen beider Seiten anzuhören und dann zu urteilen.
+
+  内側と外側の違いを説明してください。
+  内側[うちがわ]と 外側[そとがわ]の 違[ちが]いを 説明[せつめい]してください。
+  Bitte erklären Sie den Unterschied zwischen Innen- und Außenseite.
+
+  後ろ側から声をかけられて驚いた。
+  後[うし]ろ 側[がわ]から 声[こえ]をかけられて 驚[おどろ]いた。
+  Ich erschrak, als ich von hinten angesprochen wurde.
+
+  演じる側と見る側、両方の立場を経験しました。
+  演[えん]じる 側[がわ]と 見[み]る 側[がわ]、両方[りょうほう]の 立場[たちば]を 経験[けいけん]しました。
+  Ich habe sowohl die Position des Darstellenden als auch des Zuschauers erfahren.
+
+  彼の側につくことは正しい選択だと思う。
+  彼[かれ]の 側[がわ]につくことは 正[ただ]しい 選択[せんたく]だと 思[おも]う。
+  Ich denke, es ist die richtige Entscheidung, sich auf seine Seite zu stellen.
+
+  労働者側からの要求に耳を傾ける必要がある。
+  労働者側[ろうどうしゃがわ]からの 要求[ようきゅう]に 耳[みみ]を 傾[かたむ]ける 必要[ひつよう]がある。
+  Es ist notwendig, den Forderungen der Arbeitnehmerseite Gehör zu schenken.
+
+  この時計は金側の高級モデルです。
+  この 時計[とけい]は 金側[きんがわ]の 高級[こうきゅう]モデルです。
+  Diese Uhr ist ein hochwertiges Modell mit goldenem Gehäuse.
+
+  側の人たちの反応を見て判断しましょう。
+  側[がわ]の 人[ひと]たちの 反応[はんのう]を 見[み]て 判断[はんだん]しましょう。
+  Lasst uns die Reaktionen der Umstehenden beobachten und dann entscheiden.
+
+  彼女の側にいる人たちはみな優しそうだ。
+  彼女[かのじょ]の 側[がわ]にいる 人[ひと]たちはみな 優[やさ]しそうだ。
+  Die Leute um sie herum scheinen alle freundlich zu sein.
+
+  どちら側の意見に賛成ですか？
+  どちら 側[がわ]の 意見[いけん]に 賛成[さんせい]ですか？
+  Welcher Seite stimmen Sie zu?
+
+  この問題は双方の側から検討する必要がある。
+  この 問題[もんだい]は 双方[そうほう]の 側[がわ]から 検討[けんとう]する 必要[ひつよう]がある。
+  Dieses Problem muss von beiden Seiten betrachtet werden.
+
+  川の向こう側に新しい橋が建設されています。
+  川[かわ]の 向[む]こう 側[がわ]に 新[あたら]しい 橋[はし]が 建設[けんせつ]されています。
+  Auf der anderen Seite des Flusses wird eine neue Brücke gebaut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>側 (がわ) wird oft als Suffix verwendet, um eine Seite oder Richtung anzuzeigen. Es kann auch verwendet werden, um eine Gruppe oder Partei in einer Situation zu bezeichnen.</p>
+  <div class="examples">
+    <div class="jp">私[わたし]たちの 側[がわ]から 提案[ていあん]をしました。</div>
+    <div class="de spoiler">Wir haben von unserer Seite aus einen Vorschlag gemacht.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um die Umgebung oder die Menschen um jemanden herum zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 側[がわ]にいる 人[ひと]たちは みな 優[やさ]しそうだ。</div>
+    <div class="de spoiler">Die Leute um ihn herum scheinen alle freundlich zu sein.</div>
+  </div>
+  <p>In einigen Fällen kann 側 auch das Gehäuse oder die Hülle eines Objekts bezeichnen.</p>
+  <div class="examples">
+    <div class="jp">この 時計[とけい]は 金[きん]側[がわ]です。</div>
+    <div class="de spoiler">Diese Uhr hat ein goldenes Gehäuse.</div>
+  </div>

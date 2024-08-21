@@ -3,19 +3,95 @@ Lemma: もたらす
 Lesung: ''
 Tonhöhen: .^\.
 Definition: bringen, verursachen
-Alternativschreibweisen: ''
+Alternativschreibweisen: 齎す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: もたらさない・もたらした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   天候の変化が農業に深刻な被害をもたらしている。
   天候[てんこう]の 変化[へんか]が 農業[のうぎょう]に 深刻[しんこく]な 被害[ひがい]をもたらしている。
-  Der Klimawandel verursacht ernsthafte Schäden in der Landwirtschaft.
+  Die Wetteränderungen verursachen schwere Schäden in der Landwirtschaft.
+
+  その発明は産業界に革命をもたらした。
+  その 発明[はつめい]は 産業界[さんぎょうかい]に 革命[かくめい]をもたらした。
+  Diese Erfindung brachte eine Revolution in der Industrie.
+
+  新しい技術が私たちの生活に大きな変化をもたらすでしょう。
+  新[あたら]しい 技術[ぎじゅつ]が 私[わたし]たちの 生活[せいかつ]に 大[おお]きな 変化[へんか]をもたらすでしょう。
+  Neue Technologien werden große Veränderungen in unserem Leben herbeiführen.
+
+  彼女の研究成果は医学界に大きな進歩をもたらした。
+  彼女[かのじょ]の 研究[けんきゅう] 成果[せいか]は 医学界[いがくかい]に 大[おお]きな 進歩[しんぽ]をもたらした。
+  Ihre Forschungsergebnisse brachten einen großen Fortschritt in der Medizin.
+
+  この政策は経済に好影響をもたらすと期待されている。
+  この 政策[せいさく]は 経済[けいざい]に 好影響[こうえいきょう]をもたらすと 期待[きたい]されている。
+  Es wird erwartet, dass diese Politik positive Auswirkungen auf die Wirtschaft haben wird.
+
+  彼の発言は予期せぬ結果をもたらした。
+  彼[かれ]の 発言[はつげん]は 予期[よき]せぬ 結果[けっか]をもたらした。
+  Seine Äußerung führte zu unerwarteten Konsequenzen.
+
+  新しい法律は社会に様々な変化をもたらすだろう。
+  新[あたら]しい 法律[ほうりつ]は 社会[しゃかい]に 様々[さまざま]な 変化[へんか]をもたらすだろう。
+  Das neue Gesetz wird verschiedene Veränderungen in der Gesellschaft mit sich bringen.
+
+  その決定は会社に大きな利益をもたらすはずだ。
+  その 決定[けってい]は 会社[かいしゃ]に 大[おお]きな 利益[りえき]をもたらすはずだ。
+  Diese Entscheidung sollte dem Unternehmen große Gewinne bringen.
+
+  彼の帰国は家族に喜びをもたらした。
+  彼[かれ]の 帰国[きこく]は 家族[かぞく]に 喜[よろこ]びをもたらした。
+  Seine Rückkehr in die Heimat brachte seiner Familie Freude.
+
+  この本は私に新しい視点をもたらしてくれた。
+  この 本[ほん]は 私[わたし]に 新[あたら]しい 視点[してん]をもたらしてくれた。
+  Dieses Buch hat mir eine neue Perspektive eröffnet.
+
+  その政策は意図せずに問題をもたらした。
+  その 政策[せいさく]は 意図[いと]せずに 問題[もんだい]をもたらした。
+  Diese Politik hat unbeabsichtigt Probleme verursacht.
+
+  彼女の演説は聴衆に希望をもたらした。
+  彼女[かのじょ]の 演説[えんぜつ]は 聴衆[ちょうしゅう]に 希望[きぼう]をもたらした。
+  Ihre Rede brachte dem Publikum Hoffnung.
+
+  その事故は多くの人々に悲しみをもたらした。
+  その 事故[じこ]は 多[おお]くの 人々[ひとびと]に 悲[かな]しみをもたらした。
+  Der Unfall brachte vielen Menschen Trauer.
+
+  この発見は科学界に革新的な変化をもたらすだろう。
+  この 発見[はっけん]は 科学界[かがくかい]に 革新的[かくしんてき]な 変化[へんか]をもたらすだろう。
+  Diese Entdeckung wird revolutionäre Veränderungen in der wissenschaftlichen Welt herbeiführen.
+
+  彼の才能は会社に大きな成功をもたらした。
+  彼[かれ]の 才能[さいのう]は 会社[かいしゃ]に 大[おお]きな 成功[せいこう]をもたらした。
+  Sein Talent brachte dem Unternehmen großen Erfolg.
+
+  戦争は多くの人々に苦しみをもたらした。
+  戦争[せんそう]は 多[おお]くの 人々[ひとびと]に 苦[くる]しみをもたらした。
+  Der Krieg brachte vielen Menschen Leid.
+
+  その投資は予想以上の利益をもたらした。
+  その 投資[とうし]は 予想以上[よそういじょう]の 利益[りえき]をもたらした。
+  Diese Investition brachte mehr Gewinn als erwartet.
+
+  彼女の行動は家族に恥をもたらした。
+  彼女[かのじょ]の 行動[こうどう]は 家族[かぞく]に 恥[はじ]をもたらした。
+  Ihr Verhalten brachte Schande über ihre Familie.
+
+  その改革は教育システムに大きな変革をもたらした。
+  その 改革[かいかく]は 教育[きょういく]システムに 大[おお]きな 変革[へんかく]をもたらした。
+  Die Reform führte zu großen Veränderungen im Bildungssystem.
+
+  この新製品は市場に革命をもたらすでしょう。
+  この 新製品[しんせいひん]は 市場[しじょう]に 革命[かくめい]をもたらすでしょう。
+  Dieses neue Produkt wird eine Revolution auf dem Markt auslösen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

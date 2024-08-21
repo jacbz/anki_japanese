@@ -2,24 +2,131 @@ Rang: 1464
 Lemma: 回す
 Lesung: まわす
 Tonhöhen: .^^
-Definition: drehen, rotieren, sich drehen
-Alternativschreibweisen: ''
+Definition: drehen; weitergeben; (um)lenken
+Alternativschreibweisen: 廻す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 回さない・回した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女は静かにノブを回してドアを開けた。
   彼女[かのじょ]は 静[しず]かにノブを 回[まわ]してドアを 開[あ]けた。
-  Sie drehte den Knopf leise und öffnete die Tür.
+  Sie drehte leise den Türknauf und öffnete die Tür.
+
+  ハンドルを左に回して、車を駐車場に入れた。
+  ハンドルを 左[ひだり]に 回[まわ]して、車[くるま]を 駐車場[ちゅうしゃじょう]に 入[い]れた。
+  Ich drehte das Lenkrad nach links und fuhr in den Parkplatz.
+
+  洗濯機のスイッチを回して、洗濯を始めた。
+  洗濯機[せんたくき]のスイッチを 回[まわ]して、洗濯[せんたく]を 始[はじ]めた。
+  Ich drehte den Schalter der Waschmaschine und begann mit dem Waschen.
+
+  彼は目を回して気絶してしまった。
+  彼[かれ]は 目[め]を 回[まわ]して 気絶[きぜつ]してしまった。
+  Er verdrehte die Augen und wurde ohnmächtig.
+
+  回覧板を隣の家に回してください。
+  回覧板[かいらんばん]を 隣[となり]の 家[いえ]に 回[まわ]してください。
+  Bitte geben Sie die Rundschreiben an das Nachbarhaus weiter.
+
+  みんなで輪になって、ボールを回しながらゲームをした。
+  みんなで 輪[わ]になって、ボールを 回[まわ]しながらゲームをした。
+  Wir bildeten einen Kreis und spielten ein Spiel, bei dem wir den Ball herumreichten.
+
+  この料理の残りは明日の弁当に回そう。
+  この 料理[りょうり]の 残[のこ]りは 明日[あした]の 弁当[べんとう]に 回[まわ]そう。
+  Lass uns die Reste dieses Gerichts für das morgige Mittagessen verwenden.
+
+  その質問は専門家に回したほうがいいでしょう。
+  その 質問[しつもん]は 専門家[せんもんか]に 回[まわ]したほうがいいでしょう。
+  Es wäre besser, diese Frage an einen Experten weiterzuleiten.
+
+  彼は腕を彼女の肩に回して、優しく抱きしめた。
+  彼[かれ]は 腕[うで]を 彼女[かのじょ]の 肩[かた]に 回[まわ]して、優[やさ]しく 抱[だ]きしめた。
+  Er legte seinen Arm um ihre Schulter und umarmte sie sanft.
+
+  この会社は利益を次の事業に回している。
+  この 会社[かいしゃ]は 利益[りえき]を 次[つぎ]の 事業[じぎょう]に 回[まわ]している。
+  Dieses Unternehmen investiert seine Gewinne in das nächste Projekt.
+
+  彼女は首を回して、後ろを振り返った。
+  彼女[かのじょ]は 首[くび]を 回[まわ]して、後[うし]ろを 振[ふ]り 返[かえ]った。
+  Sie drehte ihren Kopf und blickte zurück.
+
+  警備員が建物の周りを回して、安全を確認した。
+  警備員[けいびいん]が 建物[たてもの]の 周[まわ]りを 回[まわ]して、安全[あんぜん]を 確認[かくにん]した。
+  Der Wachmann ging um das Gebäude herum, um die Sicherheit zu überprüfen.
+
+  彼は話題を別の方向に回そうとした。
+  彼[かれ]は 話題[わだい]を 別[べつ]の 方向[ほうこう]に 回[まわ]そうとした。
+  Er versuchte, das Gesprächsthema in eine andere Richtung zu lenken.
+
+  このスープをかき回して、具材を均等に混ぜてください。
+  このスープをかき 回[まわ]して、具材[ぐざい]を 均等[きんとう]に 混[ま]ぜてください。
+  Bitte rühren Sie diese Suppe um, damit die Zutaten gleichmäßig verteilt sind.
+
+  彼女は指輪を指に回しながら、深く考え込んでいた。
+  彼女[かのじょ]は 指輪[ゆびわ]を 指[ゆび]に 回[まわ]しながら、深[ふか]く 考[かんが]え 込[こ]んでいた。
+  Sie drehte den Ring an ihrem Finger, während sie tief in Gedanken versunken war.
+
+  部長は難しい仕事を新入社員に回した。
+  部長[ぶちょう]は 難[むずか]しい 仕事[しごと]を 新入社員[しんにゅうしゃいん]に 回[まわ]した。
+  Der Abteilungsleiter delegierte die schwierige Aufgabe an den neuen Mitarbeiter.
+
+  彼はコインを指で回しながら、決断を下すのに迷っていた。
+  彼[かれ]はコインを 指[ゆび]で 回[まわ]しながら、決断[けつだん]を 下[くだ]すのに 迷[まよ]っていた。
+  Er drehte eine Münze zwischen seinen Fingern, während er zögerte, eine Entscheidung zu treffen.
+
+  この古い家の周りには生け垣が回されている。
+  この 古[ふる]い 家[いえ]の 周[まわ]りには 生け垣[いけがき]が 回[まわ]されている。
+  Um dieses alte Haus herum ist eine Hecke gepflanzt.
+
+  彼女は髪を指に回しながら、緊張した様子で待っていた。
+  彼女[かのじょ]は 髪[かみ]を 指[ゆび]に 回[まわ]しながら、緊張[きんちょう]した 様子[ようす]で 待[ま]っていた。
+  Sie wickelte nervös eine Haarsträhne um ihren Finger, während sie wartete.
+
+  この資金を効率的に回して、会社の成長につなげましょう。
+  この 資金[しきん]を 効率的[こうりつてき]に 回[まわ]して、会社[かいしゃ]の 成長[せいちょう]につなげましょう。
+  Lasst uns diese Mittel effizient einsetzen, um das Wachstum des Unternehmens zu fördern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 回す (まわす, mawasu) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <p>1. Etwas drehen oder rotieren lassen:</p>
+  <div class='examples'>
+    <div class='jp'>鍵[かぎ]を 回[まわ]す。</div>
+    <div class='de spoiler'>Den Schlüssel drehen.</div>
+  </div>
+  <p>2. Etwas herumreichen oder weitergeben:</p>
+  <div class='examples'>
+    <div class='jp'>書類[しょるい]を 回[まわ]す。</div>
+    <div class='de spoiler'>Ein Dokument herumreichen.</div>
+  </div>
+  <p>3. Jemanden oder etwas an einen anderen Ort schicken oder versetzen:</p>
+  <div class='examples'>
+    <div class='jp'>社員[しゃいん]を 別[べつ]の 部署[ぶしょ]に 回[まわ]す。</div>
+    <div class='de spoiler'>Einen Mitarbeiter in eine andere Abteilung versetzen.</div>
+  </div>
+  <p>4. Etwas umgeben oder umschließen:</p>
+  <div class='examples'>
+    <div class='jp'>庭[にわ]に 塀[へい]を 回[まわ]す。</div>
+    <div class='de spoiler'>Eine Mauer um den Garten herum errichten.</div>
+  </div>
+  <p>5. Geld investieren oder anlegen:</p>
+  <div class='examples'>
+    <div class='jp'>資金[しきん]を 事業[じぎょう]に 回[まわ]す。</div>
+    <div class='de spoiler'>Kapital in ein Geschäft investieren.</div>
+  </div>
+  <p>6. Als Hilfsverb in Verbindung mit anderen Verben, um eine Handlung auszudrücken, die rundherum oder überall ausgeführt wird:</p>
+  <div class='examples'>
+    <div class='jp'>部屋[へや]を 掃除[そうじ]して 回[まわ]す。</div>
+    <div class='de spoiler'>Das ganze Zimmer putzen.</div>
+  </div>

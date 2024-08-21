@@ -2,20 +2,96 @@ Rang: 1463
 Lemma: 抜く
 Lesung: ぬく
 Tonhöhen: .^
-Definition: ziehen, herausziehen
+Definition: (heraus)ziehen; entfernen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 抜かない・抜いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はワインの瓶からコルクを抜いた。
   彼[かれ]はワインの 瓶[びん]からコルクを 抜[ぬ]いた。
-  Er zog den Korken aus einer Weinflasche heraus.
+  Er zog den Korken aus der Weinflasche.
+
+  歯医者さんが虫歯を抜いてくれました。
+  歯医者[はいしゃ]さんが 虫歯[むしば]を 抜[ぬ]いてくれました。
+  Der Zahnarzt hat mir den kariösen Zahn gezogen.
+
+  庭の雑草を抜くのは大変な作業だ。
+  庭[にわ]の 雑草[ざっそう]を 抜[ぬ]くのは 大変[たいへん]な 作業[さぎょう]だ。
+  Das Jäten von Unkraut im Garten ist eine mühsame Arbeit.
+
+  彼女は指輪を抜こうとしたが、なかなか外れなかった。
+  彼女[かのじょ]は 指輪[ゆびわ]を 抜[ぬ]こうとしたが、なかなか 外[はず]れなかった。
+  Sie versuchte, den Ring abzuziehen, aber er ging nicht leicht ab.
+
+  スリが人混みの中で財布を抜いていった。
+  スリが 人混[ひとご]みの 中[なか]で 財布[さいふ]を 抜[ぬ]いていった。
+  Der Taschendieb hat in der Menge jemandem die Geldbörse geklaut.
+
+  タイヤの空気を抜いて、修理することにした。
+  タイヤの 空気[くうき]を 抜[ぬ]いて、修理[しゅうり]することにした。
+  Ich habe die Luft aus dem Reifen gelassen, um ihn zu reparieren.
+
+  重要な項目だけを抜いて報告書を作成した。
+  重要[じゅうよう]な 項目[こうもく]だけを 抜[ぬ]いて 報告書[ほうこくしょ]を 作成[さくせい]した。
+  Ich habe nur die wichtigen Punkte herausgezogen und den Bericht erstellt.
+
+  シャツについたしみを抜くのに苦労した。
+  シャツについたしみを 抜[ぬ]くのに 苦労[くろう]した。
+  Ich hatte Mühe, den Fleck aus dem Hemd zu entfernen.
+
+  朝食を抜いて出勤したら、お腹が空いてしまった。
+  朝食[ちょうしょく]を 抜[ぬ]いて 出勤[しゅっきん]したら、お 腹[なか]が 空[す]いてしまった。
+  Als ich ohne Frühstück zur Arbeit ging, wurde ich hungrig.
+
+  この料理はワサビを抜いて作ってください。
+  この 料理[りょうり]はワサビを 抜[ぬ]いて 作[つく]ってください。
+  Bitte bereiten Sie dieses Gericht ohne Wasabi zu.
+
+  彼は試験で他の受験生を抜いて首位に立った。
+  彼[かれ]は 試験[しけん]で 他[ほか]の 受験生[じゅけんせい]を 抜[ぬ]いて 首位[しゅい]に 立[た]った。
+  Er überholte die anderen Prüflinge und stand an erster Stelle in der Prüfung.
+
+  このトンネルは山を抜けて隣の町へとつながっている。
+  このトンネルは 山[やま]を 抜[ぬ]けて 隣[となり]の 町[まち]へとつながっている。
+  Dieser Tunnel führt durch den Berg in die Nachbarstadt.
+
+  彼女は難しい状況を生き抜いて、強くなった。
+  彼女[かのじょ]は 難[むずか]しい 状況[じょうきょう]を 生[い]き 抜[ぬ]いて、強[つよ]くなった。
+  Sie hat die schwierige Situation überstanden und ist dadurch stärker geworden.
+
+  囲碁の対局で、相手の石を抜いて優位に立った。
+  囲碁[いご]の 対局[たいきょく]で、相手[あいて]の 石[いし]を 抜[ぬ]いて 優位[ゆうい]に 立[た]った。
+  Im Go-Spiel nahm ich die Steine des Gegners vom Brett und gewann die Oberhand.
+
+  軍隊は敵の砦を抜いて、勝利を手にした。
+  軍隊[ぐんたい]は 敵[てき]の 砦[とりで]を 抜[ぬ]いて、勝利[しょうり]を 手[て]にした。
+  Die Armee eroberte die feindliche Festung und errang den Sieg.
+
+  彼女は髪の毛を一本ずつ丁寧に抜いていった。
+  彼女[かのじょ]は 髪[かみ]の 毛[け]を 一本[いっぽん]ずつ 丁寧[ていねい]に 抜[ぬ]いていった。
+  Sie zupfte sorgfältig ein Haar nach dem anderen aus.
+
+  この魚の骨を抜いてから調理します。
+  この 魚[さかな]の 骨[ほね]を 抜[ぬ]いてから 調理[ちょうり]します。
+  Ich werde den Fisch entgräten, bevor ich ihn zubereite.
+
+  彼は悪い癖を抜こうと努力している。
+  彼[かれ]は 悪[わる]い 癖[くせ]を 抜[ぬ]こうと 努力[どりょく]している。
+  Er bemüht sich, seine schlechte Angewohnheit abzulegen.
+
+  マラソンを走り抜いて、達成感に満たされた。
+  マラソンを 走[はし]り 抜[ぬ]いて、達成感[たっせいかん]に 満[み]たされた。
+  Ich habe den Marathon durchgestanden und fühlte mich erfüllt von einem Gefühl der Errungenschaft.
+
+  彼は問題を深く考え抜いて、解決策を見出した。
+  彼[かれ]は 問題[もんだい]を 深[ふか]く 考[かんが]え 抜[ぬ]いて、解決策[かいけつさく]を 見出[みいだ]した。
+  Er dachte das Problem gründlich durch und fand eine Lösung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

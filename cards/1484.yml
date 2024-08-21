@@ -2,13 +2,13 @@ Rang: 1484
 Lemma: 間違う
 Lesung: まちがう
 Tonhöhen: .^\.
-Definition: sich irren, einen Fehler machen
+Definition: sich irren; falsch sein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 間違わない・間違った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   彼の意見は間違っている。
   彼[かれ]の 意見[いけん]は 間違[まちが]っている。
   Seine Meinung ist falsch.
+
+  計算が間違っているようです。もう一度確認してください。
+  計算[けいさん]が 間違[まちが]っているようです。もう 一度[いちど] 確認[かくにん]してください。
+  Die Berechnung scheint falsch zu sein. Bitte überprüfen Sie sie noch einmal.
+
+  私が間違ったかもしれません。申し訳ありません。
+  私[わたし]が 間違[まちが]ったかもしれません。申[もう]し 訳[わけ]ありません。
+  Ich habe mich möglicherweise geirrt. Es tut mir leid.
+
+  この情報は間違っています。正しい情報を提供します。
+  この 情報[じょうほう]は 間違[まちが]っています。正[ただ]しい 情報[じょうほう]を 提供[ていきょう]します。
+  Diese Information ist falsch. Ich werde die korrekte Information bereitstellen.
+
+  間違って他人の傘を持って行ってしまいました。
+  間違[まちが]って 他人[たにん]の 傘[かさ]を 持[も]って 行[い]ってしまいました。
+  Ich habe versehentlich den Regenschirm von jemand anderem mitgenommen.
+
+  一歩間違えば大変なことになるよ。気をつけて。
+  一歩[いっぽ] 間違[まちが]えば 大変[たいへん]なことになるよ。気[き]をつけて。
+  Wenn du einen falschen Schritt machst, kann es sehr ernst werden. Sei vorsichtig.
+
+  間違っても人の物を取ったりしないでください。
+  間違[まちが]っても 人[ひと]の 物[もの]を 取[と]ったりしないでください。
+  Nimm unter keinen Umständen die Sachen anderer Leute.
+
+  どうせ間違うなら、大きく間違えた方がいい。
+  どうせ 間違[まちが]うなら、大[おお]きく 間違[まちが]えた 方[ほう]がいい。
+  Wenn du schon Fehler machst, dann mach lieber große Fehler.
+
+  彼女は名前を間違えて呼ばれることが多い。
+  彼女[かのじょ]は 名前[なまえ]を 間違[まちが]えて 呼[よ]ばれることが 多[おお]い。
+  Sie wird oft mit einem falschen Namen angesprochen.
+
+  間違った道を選んでしまったかもしれない。
+  間違[まちが]った 道[みち]を 選[えら]んでしまったかもしれない。
+  Ich habe vielleicht den falschen Weg gewählt.
+
+  時々、言葉を間違えて使ってしまうことがある。
+  時々[ときどき]、言葉[ことば]を 間違[まちが]えて 使[つか]ってしまうことがある。
+  Manchmal verwende ich Wörter falsch.
+
+  間違いを恐れずに、新しいことに挑戦しよう。
+  間違[まちが]いを 恐[おそ]れずに、新[あたら]しいことに 挑戦[ちょうせん]しよう。
+  Lass uns neue Dinge ausprobieren, ohne Angst vor Fehlern zu haben.
+
+  順序を間違えると、正しい結果が得られません。
+  順序[じゅんじょ]を 間違[まちが]えると、正[ただ]しい 結果[けっか]が 得[え]られません。
+  Wenn du die Reihenfolge vertauschst, erhältst du kein richtiges Ergebnis.
+
+  出口を間違えて、違う場所に出てしまった。
+  出口[でぐち]を 間違[まちが]えて、違[ちが]う 場所[ばしょ]に 出[で]てしまった。
+  Ich habe den falschen Ausgang genommen und bin an einem anderen Ort herausgekommen.
+
+  やり方を間違えると、余計に時間がかかってしまうよ。
+  やり 方[かた]を 間違[まちが]えると、余計[よけい]に 時間[じかん]がかかってしまうよ。
+  Wenn du es falsch angehst, wird es noch mehr Zeit in Anspruch nehmen.
+
+  間違っても構わない。失敗から学ぶことも大切だ。
+  間違[まちが]っても 構[かま]わない。失敗[しっぱい]から 学[まな]ぶことも 大切[たいせつ]だ。
+  Es ist okay, Fehler zu machen. Es ist wichtig, aus Fehlern zu lernen.
+
+  彼は完璧に間違っていた。全く的外れな意見だった。
+  彼[かれ]は 完璧[かんぺき]に 間違[まちが]っていた。全[まった]く 的外[てきはず]れな 意見[いけん]だった。
+  Er lag völlig falsch. Seine Meinung war komplett daneben.
+
+  判断を間違えると、大きな損失につながる可能性がある。
+  判断[はんだん]を 間違[まちが]えると、大[おお]きな 損失[そんしつ]につながる 可能性[かのうせい]がある。
+  Wenn man falsch urteilt, kann das zu großen Verlusten führen.
+
+  間違った情報に惑わされないように、常に注意が必要だ。
+  間違[まちが]った 情報[じょうほう]に 惑[まど]わされないように、常[つね]に 注意[ちゅうい]が 必要[ひつよう]だ。
+  Man muss immer vorsichtig sein, um sich nicht von falschen Informationen in die Irre führen zu lassen.
+
+  根本的に間違っている考え方は、修正するのが難しい。
+  根本[こんぽん]的[てき]に 間違[まちが]っている 考[かんが]え 方[かた]は、修正[しゅうせい]するのが 難[むずか]しい。
+  Grundsätzlich falsche Denkweisen sind schwer zu korrigieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

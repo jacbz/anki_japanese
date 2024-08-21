@@ -2,10 +2,10 @@ Rang: 1437
 Lemma: 付き合い
 Lesung: つきあい
 Tonhöhen: (.)^\.
-Definition: Umgang, Bekanntschaft
+Definition: Umgang, Beziehung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は近所の人と付き合いがない。
-  私[わたし]は 近所[きんじょ]の人と 付[つ]き 合[あ]いがない。
-  Ich habe nichts mit meinen Nachbarn zu tun.
+  私[わたし]は 近所[きんじょ]の 人[ひと]と 付[つ]き 合[あ]いがない。
+  Ich habe keinen Kontakt zu meinen Nachbarn.
+
+  彼女は付き合いが広いので、たくさんの友達がいる。
+  彼女[かのじょ]は 付[つ]き 合[あ]いが 広[ひろ]いので、たくさんの 友達[ともだち]がいる。
+  Sie hat einen großen Bekanntenkreis und deshalb viele Freunde.
+
+  近所付き合いを大切にしましょう。
+  近所[きんじょ]付[つ]き 合[あ]いを 大切[たいせつ]にしましょう。
+  Lassen Sie uns die Beziehungen zu unseren Nachbarn pflegen.
+
+  親類付き合いは時々面倒くさいと感じる。
+  親類[しんるい]付[つ]き 合[あ]いは 時々[ときどき] 面倒[めんどう]くさいと 感[かん]じる。
+  Manchmal empfinde ich den Umgang mit Verwandten als lästig.
+
+  彼は付き合いのいい人で、みんなに好かれている。
+  彼[かれ]は 付[つ]き 合[あ]いのいい 人[ひと]で、みんなに 好[す]かれている。
+  Er ist ein umgänglicher Mensch und wird von allen gemocht.
+
+  仕事上の付き合いを避けるのは難しい。
+  仕事上[しごとじょう]の 付[つ]き 合[あ]いを 避[さ]けるのは 難[むずか]しい。
+  Es ist schwierig, geschäftliche Kontakte zu vermeiden.
+
+  お酒は付き合い以外では飲まないようにしている。
+  お 酒[さけ]は 付[つ]き 合[あ]い 以外[いがい]では 飲[の]まないようにしている。
+  Ich trinke Alkohol nur in Gesellschaft.
+
+  年末は忘年会など付き合いに忙しい時期だ。
+  年末[ねんまつ]は 忘年会[ぼうねんかい]など 付[つ]き 合[あ]いに 忙[いそが]しい 時期[じき]だ。
+  Das Jahresende ist eine geschäftige Zeit mit vielen gesellschaftlichen Verpflichtungen wie Jahresabschlussfeiern.
+
+  男性との付き合いで自信を持つことが大切です。
+  男性[だんせい]との 付[つ]き 合[あ]いで 自信[じしん]を 持[も]つことが 大切[たいせつ]です。
+  Es ist wichtig, im Umgang mit Männern selbstbewusst zu sein.
+
+  生協に加入せず、近所との付き合いも悪い。
+  生協[せいきょう]に 加入[かにゅう]せず、近所[きんじょ]との 付[つ]き 合[あ]いも 悪[わる]い。
+  Ohne einer Konsumgenossenschaft beizutreten und mit schlechten nachbarschaftlichen Beziehungen.
+
+  お二人の付き合いは当分の間ご無用と存じます。
+  お 二人[ふたり]の 付[つ]き 合[あ]いは 当分[とうぶん]の 間[あいだ]ご 無用[むよう]と 存[ぞん]じます。
+  Ich denke, es wäre ratsam, wenn Sie beide für eine Weile keinen Kontakt zueinander hätten.
+
+  政治家との付き合いは仕事上必要不可欠だ。
+  政治家[せいじか]との 付[つ]き 合[あ]いは 仕事上[しごとじょう] 必要不可欠[ひつようふかけつ]だ。
+  Der Kontakt zu Politikern ist für die Arbeit unerlässlich.
+
+  新しい環境での付き合い方に慣れるのに時間がかかった。
+  新[あたら]しい 環境[かんきょう]での 付[つ]き 合[あ]い 方[かた]に 慣[な]れるのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, bis ich mich an die Umgangsformen in der neuen Umgebung gewöhnt habe.
+
+  彼女とは長年の付き合いがある。
+  彼女[かのじょ]とは 長年[ながねん]の 付[つ]き 合[あ]いがある。
+  Ich kenne sie schon seit vielen Jahren.
+
+  学生時代の友人との付き合いを大切にしている。
+  学生時代[がくせいじだい]の 友人[ゆうじん]との 付[つ]き 合[あ]いを 大切[たいせつ]にしている。
+  Ich pflege die Beziehungen zu meinen Freunden aus der Studienzeit.
+
+  付き合いの悪さで評判を落とさないよう気をつけよう。
+  付[つ]き 合[あ]いの 悪[わる]さで 評判[ひょうばん]を 落[お]とさないよう 気[き]をつけよう。
+  Lass uns aufpassen, dass wir unseren Ruf nicht durch schlechte zwischenmenschliche Beziehungen ruinieren.
+
+  上流階級との付き合いには特別なマナーが必要だ。
+  上流階級[じょうりゅうかいきゅう]との 付[つ]き 合[あ]いには 特別[とくべつ]なマナーが 必要[ひつよう]だ。
+  Für den Umgang mit der Oberklasse sind besondere Umgangsformen erforderlich.
+
+  付き合いを深めるには、相手の立場を理解することが大切だ。
+  付[つ]き 合[あ]いを 深[ふか]めるには、相手[あいて]の 立場[たちば]を 理解[りかい]することが 大切[たいせつ]だ。
+  Um eine Beziehung zu vertiefen, ist es wichtig, die Position des anderen zu verstehen.
+
+  職場での付き合いは、仕事の効率にも影響する。
+  職場[しょくば]での 付[つ]き 合[あ]いは、仕事[しごと]の 効率[こうりつ]にも 影響[えいきょう]する。
+  Die Beziehungen am Arbeitsplatz beeinflussen auch die Arbeitseffizienz.
+
+  付き合いを断る時は、相手の気持ちを考えて丁寧に説明しよう。
+  付[つ]き 合[あ]いを 断[ことわ]る 時[とき]は、相手[あいて]の 気持[きも]ちを 考[かんが]えて 丁寧[ていねい]に 説明[せつめい]しよう。
+  Wenn wir eine Einladung ablehnen, sollten wir die Gefühle des anderen berücksichtigen und höflich erklären.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

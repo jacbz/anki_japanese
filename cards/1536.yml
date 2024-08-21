@@ -2,20 +2,96 @@ Rang: 1536
 Lemma: バランス
 Lesung: ''
 Tonhöhen: .^^^
-Definition: Balance
+Definition: Balance, Gleichgewicht
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. balance
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   栄養のバランスを考えて食べましょう。
-  栄養[えいよう]のバランスを 考[かんが]えて 食[た]べましょう。
-  Essen Sie unter Berücksichtigung einer ausgewogenen Ernährung.
+  えいよう]の バランスを 考[かんが]えて 食[た]べましょう。
+  Lass uns auf eine ausgewogene Ernährung achten.
+
+  彼女は綱渡りをしながらバランスを取っていた。
+  彼女[かのじょ]は 綱渡[つなわた]りをしながら バランスを 取[と]っていた。
+  Sie hielt das Gleichgewicht, während sie auf dem Seil balancierte.
+
+  急な動きでバランスを崩し、転んでしまった。
+  急[きゅう]な 動[うご]きで バランスを 崩[くず]し、転[ころ]んでしまった。
+  Durch eine plötzliche Bewegung verlor ich das Gleichgewicht und fiel hin.
+
+  この料理は味のバランスがいいですね。
+  この 料理[りょうり]は 味[あじ]の バランスがいいですね。
+  Dieses Gericht hat eine gute Balance der Geschmäcker.
+
+  仕事と私生活のバランスを保つことが大切だ。
+  仕事[しごと]と 私生活[しせいかつ]の バランスを 保[たも]つことが 大切[たいせつ]だ。
+  Es ist wichtig, eine Balance zwischen Arbeit und Privatleben zu halten.
+
+  経済のバランスが崩れると、多くの問題が発生する。
+  経済[けいざい]の バランスが 崩[くず]れると、多[おお]くの 問題[もんだい]が 発生[はっせい]する。
+  Wenn das wirtschaftliche Gleichgewicht gestört wird, entstehen viele Probleme.
+
+  子育てと仕事のバランスを取るのは難しい。
+  子育[こそだ]てと 仕事[しごと]の バランスを 取[と]るのは 難[むずか]しい。
+  Es ist schwierig, eine Balance zwischen Kindererziehung und Arbeit zu finden.
+
+  バランスの取れた食事は健康に不可欠です。
+  バランスの 取[と]れた 食事[しょくじ]は 健康[けんこう]に 不可欠[ふかけつ]です。
+  Eine ausgewogene Ernährung ist für die Gesundheit unerlässlich.
+
+  ヨガはバランス感覚を鍛えるのに効果的だ。
+  ヨガは バランス 感覚[かんかく]を 鍛[きた]えるのに 効果的[こうかてき]だ。
+  Yoga ist effektiv, um den Gleichgewichtssinn zu trainieren.
+
+  この新製品は性能とコストのバランスが良い。
+  この 新[しん]製品[せいひん]は 性能[せいのう]とコストの バランスが 良[よ]い。
+  Dieses neue Produkt hat eine gute Balance zwischen Leistung und Kosten.
+
+  バランスを失って転びそうになった。
+  バランスを 失[うしな]って 転[ころ]びそうになった。
+  Ich verlor fast das Gleichgewicht und wäre beinahe hingefallen.
+
+  政治家は様々な意見のバランスを取る必要がある。
+  政治家[せいじか]は 様々[さまざま]な 意見[いけん]の バランスを 取[と]る 必要[ひつよう]がある。
+  Politiker müssen verschiedene Meinungen ausbalancieren.
+
+  バランスシートを見れば、会社の財務状況がわかります。
+  バランスシートを 見[み]れば、会社[かいしゃ]の 財務[ざいむ]状況[じょうきょう]がわかります。
+  Wenn man die Bilanz betrachtet, kann man die finanzielle Situation des Unternehmens erkennen.
+
+  彼はいつもユーモアと真面目さのバランスが取れている。
+  彼[かれ]はいつもユーモアと 真面目[まじめ]さの バランスが 取[と]れている。
+  Er hat immer eine gute Balance zwischen Humor und Ernsthaftigkeit.
+
+  バランスを崩さないように、ゆっくり歩いてください。
+  バランスを 崩[くず]さないように、ゆっくり 歩[ある]いてください。
+  Bitte gehen Sie langsam, um nicht das Gleichgewicht zu verlieren.
+
+  このデザインは色のバランスが絶妙だ。
+  このデザインは 色[いろ]の バランスが 絶妙[ぜつみょう]だ。
+  Dieses Design hat eine perfekte Balance der Farben.
+
+  バランスの取れた食生活を心がけています。
+  バランスの 取[と]れた 食生活[しょくせいかつ]を 心[こころ]がけています。
+  Ich achte auf eine ausgewogene Ernährung.
+
+  この経営者は利益と従業員の福祉のバランスを大切にしている。
+  この 経営者[けいえいしゃ]は 利益[りえき]と 従業員[じゅうぎょういん]の 福祉[ふくし]の バランスを 大切[たいせつ]にしている。
+  Dieser Manager legt Wert auf die Balance zwischen Profit und dem Wohlergehen der Mitarbeiter.
+
+  バランスを崩して転んだ時、手首を骨折してしまった。
+  バランスを 崩[くず]して 転[ころ]んだ 時[とき]、手首[てくび]を 骨折[こっせつ]してしまった。
+  Als ich das Gleichgewicht verlor und hinfiel, brach ich mir das Handgelenk.
+
+  健全な社会にはさまざまな意見のバランスが必要だ。
+  健全[けんぜん]な 社会[しゃかい]には さまざまな 意見[いけん]の バランスが 必要[ひつよう]だ。
+  Eine gesunde Gesellschaft braucht ein Gleichgewicht verschiedener Meinungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1543
 Lemma: 参考
 Lesung: さんこう
 Tonhöhen: .^^^
-Definition: Referenz
+Definition: Referenz, Bezugnahme
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   この本は私の研究に参考になる。
   この 本[ほん]は 私[わたし]の 研究[けんきゅう]に 参考[さんこう]になる。
-  Dieses Buch ist eine nützliche Referenz für meine Forschung.
+  Dieses Buch ist für meine Forschung nützlich.
+
+  参考文献一覧を論文の最後に付けてください。
+  参考文献一覧[さんこうぶんけんいちらん]を 論文[ろんぶん]の 最後[さいご]に 付[つ]けてください。
+  Bitte fügen Sie am Ende Ihrer Arbeit ein Literaturverzeichnis an.
+
+  この参考品を見本として使ってください。
+  この 参考品[さんこうひん]を 見本[みほん]として 使[つか]ってください。
+  Bitte verwenden Sie dieses Musterexemplar als Vorlage.
+
+  参考価格は税抜きで1000円です。
+  参考価格[さんこうかかく]は 税抜[ぜいぬ]きで1000円[えん]です。
+  Der empfohlene Verkaufspreis beträgt 1000 Yen ohne Steuern.
+
+  去年の同じ期間を参考期間として比較しました。
+  去年[きょねん]の 同[おな]じ 期間[きかん]を 参考期間[さんこうきかん]として 比較[ひかく]しました。
+  Wir haben den gleichen Zeitraum des letzten Jahres als Vergleichszeitraum herangezogen.
+
+  彼を参考人として呼び出しました。
+  彼[かれ]を 参考人[さんこうにん]として 呼[よ]び 出[だ]しました。
+  Wir haben ihn als Zeugen vorgeladen.
+
+  この参考資料を見れば、より詳しい情報が得られます。
+  この 参考資料[さんこうしりょう]を 見[み]れば、より 詳[くわ]しい 情報[じょうほう]が 得[え]られます。
+  Wenn Sie dieses Referenzmaterial einsehen, erhalten Sie detailliertere Informationen.
+
+  図書館で参考書を借りて勉強しています。
+  図書館[としょかん]で 参考書[さんこうしょ]を 借[か]りて 勉強[べんきょう]しています。
+  Ich lerne mit Hilfe von Nachschlagewerken, die ich mir aus der Bibliothek ausgeliehen habe.
+
+  ご参考までに、先月の売上データをお送りします。
+  ご 参考[さんこう]までに、先月[せんげつ]の 売上[うりあげ]データをお 送[おく]りします。
+  Zu Ihrer Information sende ich Ihnen die Verkaufsdaten des letzten Monats.
+
+  この情報が参考になれば幸いです。
+  この 情報[じょうほう]が 参考[さんこう]になれば 幸[さいわ]いです。
+  Ich hoffe, diese Informationen sind für Sie hilfreich.
+
+  あなたの意見を参考にして計画を立てました。
+  あなたの 意見[いけん]を 参考[さんこう]にして 計画[けいかく]を 立[た]てました。
+  Ich habe den Plan unter Berücksichtigung Ihrer Meinung erstellt.
+
+  参考文献の引用方法を確認してください。
+  参考文献[さんこうぶんけん]の 引用方法[いんようほうほう]を 確認[かくにん]してください。
+  Bitte überprüfen Sie die Zitierweise der Quellenangaben.
+
+  学習参考書を使って自習しています。
+  学習参考書[がくしゅうさんこうしょ]を 使[つか]って 自習[じしゅう]しています。
+  Ich lerne selbstständig mit Hilfe von Lernhilfsmitteln.
+
+  受験参考書を買って試験対策をしています。
+  受験参考書[じゅけんさんこうしょ]を 買[か]って 試験対策[しけんたいさく]をしています。
+  Ich habe mir Prüfungsvorbereitungsbücher gekauft und bereite mich auf die Prüfung vor.
+
+  参考のために、以下の数字を示します。
+  参考[さんこう]のために、以下[いか]の 数字[すうじ]を 示[しめ]します。
+  Zur Veranschaulichung zeige ich Ihnen die folgenden Zahlen.
+
+  彼女を重要参考人として取り調べました。
+  彼女[かのじょ]を 重要参考人[じゅうようさんこうにん]として 取[と]り 調[しら]べました。
+  Wir haben sie als wichtige Zeugin vernommen.
+
+  参考図書は貸し出しできません。
+  参考図書[さんこうとしょ]は 貸[か]し 出[だ]しできません。
+  Referenzwerke können nicht ausgeliehen werden.
+
+  参考にしたウェブサイトのURLを記載してください。
+  参考[さんこう]にしたウェブサイトのURLを 記載[きさい]してください。
+  Bitte geben Sie die URLs der Websites an, die Sie als Referenz verwendet haben.
+
+  参考までに申し上げますが、この方法には欠点があります。
+  参考[さんこう]までに 申[もう]し 上[あ]げますが、この 方法[ほうほう]には 欠点[けってん]があります。
+  Nur zur Information möchte ich anmerken, dass diese Methode Nachteile hat.
+
+  この参考資料は、あくまでも目安としてご覧ください。
+  この 参考資料[さんこうしりょう]は、あくまでも 目安[めやす]としてご 覧[らん]ください。
+  Bitte betrachten Sie diese Referenzmaterialien lediglich als Richtwerte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

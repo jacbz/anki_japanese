@@ -2,7 +2,7 @@ Rang: 1561
 Lemma: にて
 Lesung: ''
 Tonhöhen: ''
-Definition: durch; in; bei
+Definition: in, an, auf, bei; per
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
@@ -15,11 +15,121 @@ Konjugation: ''
 Beispielsätze: |-
   メールにて結果をお知らせください。
   メールにて 結果[けっか]をお 知[し]らせください。
-  Bitte teilen Sie mir die Ergebnisse per E-Mail mit.
+  Bitte teilen Sie mir das Ergebnis per E-Mail mit.
+
+  会議は東京にて行われます。
+  会議[かいぎ]は 東京[とうきょう]にて 行[おこな]われます。
+  Die Konferenz findet in Tokio statt.
+
+  喜ばしきは、わが故里にて、独逸、仏蘭西の語を学びしことなり。
+  喜[よろこ]ばしきは、わが 故里[ふるさと]にて、 独逸[どいつ]、 仏蘭西[ふらんす]の 語[ご]を 学[まな]びしことなり。
+  Zum Glück hatte ich in meiner Heimat Deutsch und Französisch gelernt.
+
+  ベラスコが薩摩にて捕えられた。
+  ベラスコが 薩摩[さつま]にて 捕[とら]えられた。
+  Velasco wurde in Satsuma verhaftet.
+
+  この商品は七時にて販売を終了いたします。
+  この 商品[しょうひん]は 七時[しちじ]にて 販売[はんばい]を 終了[しゅうりょう]いたします。
+  Der Verkauf dieses Produkts endet um 19 Uhr.
+
+  二三日中にて報告書を完成させます。
+  二三日中[にさんにちちゅう]にて 報告書[ほうこくしょ]を 完成[かんせい]させます。
+  Ich werde den Bericht innerhalb weniger Tage fertigstellen.
+
+  船にて沖縄へ向かいます。
+  船[ふね]にて 沖縄[おきなわ]へ 向[む]かいます。
+  Wir fahren per Schiff nach Okinawa.
+
+  人はパンのみにて生くるものに非ず。
+  人[ひと]はパンのみにて 生[い]くるものに 非[あら]ず。
+  Der Mensch lebt nicht vom Brot allein.
+
+  自己責任にて運転してください。
+  自己責任[じこせきにん]にて 運転[うんてん]してください。
+  Bitte fahren Sie auf eigene Verantwortung.
+
+  風邪にて欠席いたします。
+  風邪[かぜ]にて 欠席[けっせき]いたします。
+  Ich werde wegen einer Erkältung abwesend sein.
+
+  竹にて作られた笛は美しい音色を奏でます。
+  竹[たけ]にて 作[つく]られた 笛[ふえ]は 美[うつく]しい 音色[ねいろ]を 奏[かな]でます。
+  Die aus Bambus gefertigte Flöte erzeugt einen schönen Klang.
+
+  電話にてご連絡させていただきます。
+  電話[でんわ]にてご 連絡[れんらく]させていただきます。
+  Ich werde Sie telefonisch kontaktieren.
+
+  この記事は新聞紙上にて発表されました。
+  この 記事[きじ]は 新聞紙上[しんぶんしじょう]にて 発表[はっぴょう]されました。
+  Dieser Artikel wurde in der Zeitung veröffentlicht.
+
+  駅前にて友人と待ち合わせしました。
+  駅前[えきまえ]にて 友人[ゆうじん]と 待[ま]ち 合[あ]わせしました。
+  Ich habe mich mit meinem Freund vor dem Bahnhof verabredet.
+
+  今回の旅行は飛行機にて移動いたします。
+  今回[こんかい]の 旅行[りょこう]は 飛行機[ひこうき]にて 移動[いどう]いたします。
+  Für diese Reise werden wir mit dem Flugzeug reisen.
+
+  この問題は話し合いにて解決しましょう。
+  この 問題[もんだい]は 話[はな]し 合[あ]いにて 解決[かいけつ]しましょう。
+  Lass uns dieses Problem durch Gespräche lösen.
+
+  会社の方針にて決定されました。
+  会社[かいしゃ]の 方針[ほうしん]にて 決定[けってい]されました。
+  Es wurde gemäß der Unternehmenspolitik entschieden.
+
+  現金にてお支払いください。
+  現金[げんきん]にてお 支払[しはら]いください。
+  Bitte zahlen Sie in bar.
+
+  本日にて営業を終了させていただきます。
+  本日[ほんじつ]にて 営業[えいぎょう]を 終了[しゅうりょう]させていただきます。
+  Wir beenden unseren Geschäftsbetrieb mit dem heutigen Tag.
+
+  この資料は機密扱いにてお取り扱いください。
+  この 資料[しりょう]は 機密扱[きみつあつか]いにてお 取[と]り 扱[あつか]いください。
+  Bitte behandeln Sie diese Unterlagen vertraulich.
+
+  書面にてご回答いただければ幸いです。
+  書面[しょめん]にてご 回答[かいとう]いただければ 幸[さいわ]いです。
+  Ich wäre Ihnen dankbar, wenn Sie schriftlich antworten könnten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>にて wird oft in formellen Kontexten oder in der Schriftsprache verwendet und hat ähnliche Funktionen wie で. Es kann verschiedene Bedeutungen haben:</p>
+  <div class="examples">
+    <div class="jp">会議[かいぎ]は 東京[とうきょう]にて 行[おこな]われます。</div>
+    <div class="de spoiler">Die Konferenz findet in Tokyo statt.</div>
+  </div>
+  <p>1. Ort einer Handlung oder eines Geschehens</p>
+  <div class="examples">
+    <div class="jp">図書館[としょかん]にて 勉強[べんきょう]します。</div>
+    <div class="de spoiler">Ich werde in der Bibliothek lernen.</div>
+  </div>
+  <p>2. Zeit oder Zeitspanne</p>
+  <div class="examples">
+    <div class="jp">七時[しちじ]にて 閉店[へいてん]いたします。</div>
+    <div class="de spoiler">Wir schließen um 19 Uhr.</div>
+  </div>
+  <p>3. Mittel, Instrument oder Methode</p>
+  <div class="examples">
+    <div class="jp">電話[でんわ]にてご 連絡[れんらく]いたします。</div>
+    <div class="de spoiler">Ich werde Sie telefonisch kontaktieren.</div>
+  </div>
+  <p>4. Grund, Ursache oder Umstände</p>
+  <div class="examples">
+    <div class="jp">体調不良[たいちょうふりょう]にて 欠席[けっせき]いたします。</div>
+    <div class="de spoiler">Ich werde aufgrund von Unwohlsein abwesend sein.</div>
+  </div>
+  <p>5. Material</p>
+  <div class="examples">
+    <div class="jp">木材[もくざい]にて 作[つく]られた 家具[かぐ]</div>
+    <div class="de spoiler">Möbel aus Holz gefertigt</div>
+  </div>

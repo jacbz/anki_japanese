@@ -2,10 +2,10 @@ Rang: 1505
 Lemma: 無事
 Lesung: ぶじ
 Tonhöhen: .^
-Definition: sicher adj Sicherheit; unverletzt
+Definition: sicher, wohlbehalten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   大地震が起きたが、家族は皆無事だった。
-  大地震[おおじしん]が 起[お]きたが、 家族[かぞく]は 皆[みな] 無事[ぶじ]だった。
-  Es gab ein großes Erdbeben, aber meine ganze Familie war in Sicherheit.
+  大地震[だいじしん]が 起[お]きたが、家族[かぞく]は 皆[みな] 無事[ぶじ]だった。
+  Es gab ein schweres Erdbeben, aber meine Familie ist wohlauf.
+
+  無事に大学を卒業できて本当に嬉しいです。
+  無事[ぶじ]に 大学[だいがく]を 卒業[そつぎょう]できて 本当[ほんとう]に 嬉[うれ]しいです。
+  Ich bin wirklich froh, dass ich die Universität erfolgreich abschließen konnte.
+
+  長い旅行から無事に帰ってきました。
+  長[なが]い 旅行[りょこう]から 無事[ぶじ]に 帰[かえ]ってきました。
+  Ich bin wohlbehalten von einer langen Reise zurückgekehrt.
+
+  警察に追われていた犯人は無事に逃げることができた。
+  警察[けいさつ]に 追[お]われていた 犯人[はんにん]は 無事[ぶじ]に 逃[に]げることができた。
+  Der von der Polizei verfolgte Täter konnte erfolgreich fliehen.
+
+  飛行機が予定通り無事に着陸しました。
+  飛行機[ひこうき]が 予定通[よていどお]り 無事[ぶじ]に 着陸[ちゃくりく]しました。
+  Das Flugzeug ist planmäßig und sicher gelandet.
+
+  難しいプロジェクトが無事に終わってほっとしました。
+  難[むずか]しいプロジェクトが 無事[ぶじ]に 終[お]わってほっとしました。
+  Ich bin erleichtert, dass das schwierige Projekt erfolgreich abgeschlossen wurde.
+
+  ご無事で！また会える日を楽しみにしています。
+  ご 無事[ぶじ]で！また 会[あ]える 日[ひ]を 楽[たの]しみにしています。
+  Alles Gute! Ich freue mich auf den Tag, an dem wir uns wiedersehen.
+
+  手術は無事に終わりましたよ。心配することはありません。
+  手術[しゅじゅつ]は 無事[ぶじ]に 終[お]わりましたよ。心配[しんぱい]することはありません。
+  Die Operation ist gut verlaufen. Sie brauchen sich keine Sorgen zu machen.
+
+  台風が過ぎ去り、幸い家は無事だった。
+  台風[たいふう]が 過[す]ぎ 去[さ]り、幸[さいわ]い 家[いえ]は 無事[ぶじ]だった。
+  Der Taifun ist vorübergezogen, und glücklicherweise blieb unser Haus unversehrt.
+
+  皆様のご無事を心よりお祈りしております。
+  皆様[みなさま]のご 無事[ぶじ]を 心[こころ]よりお 祈[いの]りしております。
+  Ich bete von Herzen für Ihr aller Wohlergehen.
+
+  事故に遭いましたが、幸い無事でした。
+  事故[じこ]に 遭[あ]いましたが、幸[さいわ]い 無事[ぶじ]でした。
+  Ich hatte einen Unfall, war aber glücklicherweise unverletzt.
+
+  無事息災な生活を送れることに感謝しています。
+  無事息災[ぶじそくさい]な 生活[せいかつ]を 送[おく]れることに 感謝[かんしゃ]しています。
+  Ich bin dankbar, ein friedvolles und ruhiges Leben führen zu können.
+
+  彼女の無事な姿を見て安心しました。
+  彼女[かのじょ]の 無事[ぶじ]な 姿[すがた]を 見[み]て 安心[あんしん]しました。
+  Ich war erleichtert, sie wohlauf zu sehen.
+
+  無事に目的地に到着できて良かったです。
+  無事[ぶじ]に 目的地[もくてきち]に 到着[とうちゃく]できて 良[よ]かったです。
+  Ich bin froh, dass wir sicher am Zielort angekommen sind.
+
+  彼は危険な任務から無事に帰還した。
+  彼[かれ]は 危険[きけん]な 任務[にんむ]から 無事[ぶじ]に 帰還[きかん]した。
+  Er kehrte wohlbehalten von seiner gefährlichen Mission zurück.
+
+  試験が無事に終わって、ストレスから解放された。
+  試験[しけん]が 無事[ぶじ]に 終[お]わって、ストレスから 解放[かいほう]された。
+  Die Prüfungen sind gut vorüber, und ich bin den Stress los.
+
+  無事に新しい仕事に慣れることができました。
+  無事[ぶじ]に 新[あたら]しい 仕事[しごと]に 慣[な]れることができました。
+  Ich konnte mich erfolgreich an meinen neuen Job gewöhnen.
+
+  赤ちゃんは無事に生まれ、母子ともに健康です。
+  赤[あか]ちゃんは 無事[ぶじ]に 生[う]まれ、母子[ぼし]ともに 健康[けんこう]です。
+  Das Baby wurde gesund geboren, und Mutter und Kind sind wohlauf.
+
+  長年の夢だった留学が無事に実現しました。
+  長年[ながねん]の 夢[ゆめ]だった 留学[りゅうがく]が 無事[ぶじ]に 実現[じつげん]しました。
+  Mein langjähriger Traum vom Auslandsstudium hat sich glücklich erfüllt.
+
+  無事に仕事が終わったので、今晩は友達と食事に行きます。
+  無事[ぶじ]に 仕事[しごと]が 終[お]わったので、今晩[こんばん]は 友達[ともだち]と 食事[しょくじ]に 行[い]きます。
+  Da die Arbeit gut erledigt ist, gehe ich heute Abend mit Freunden essen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

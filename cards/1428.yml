@@ -2,8 +2,8 @@ Rang: 1428
 Lemma: 喜び
 Lesung: よろこび
 Tonhöhen: .^^^
-Definition: Freude, Vergnügen
-Alternativschreibweisen: ''
+Definition: Freude
+Alternativschreibweisen: 悦び・歓び・慶び
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   皆さまをお迎えできるのは何よりの喜びです。
   皆[みな]さまをお 迎[むか]えできるのは 何[なに]よりの 喜[よろこ]びです。
-  Es ist mir eine große Freude, Sie alle willkommen zu heißen.
+  Es ist mir eine große Freude, Sie alle begrüßen zu dürfen.
+
+  目が喜びで輝いていた。
+  目[め]が 喜[よろこ]びで 輝[かがや]いていた。
+  Seine Augen strahlten vor Freude.
+
+  子供たちは喜びにとび上がった。
+  子供[こども]たちは 喜[よろこ]びにとび 上[あ]がった。
+  Die Kinder sprangen vor Freude auf.
+
+  合格の知らせを聞いて、喜びの涙を流した。
+  合格[ごうかく]の 知[し]らせを 聞[き]いて、喜[よろこ]びの 涙[なみだ]を 流[なが]した。
+  Als ich von meiner bestandenen Prüfung erfuhr, vergoss ich Freudentränen.
+
+  彼女は喜びを表すことができなかった。
+  彼女[かのじょ]は 喜[よろこ]びを 表[あらわ]すことができなかった。
+  Sie konnte ihre Freude nicht zeigen.
+
+  この贈り物は彼に大きな喜びを与えるだろう。
+  この 贈[おく]り 物[もの]は 彼[かれ]に 大[おお]きな 喜[よろこ]びを 与[あた]えるだろう。
+  Dieses Geschenk wird ihm sicher große Freude bereiten.
+
+  勝利の喜びをかみしめた。
+  勝利[しょうり]の 喜[よろこ]びをかみしめた。
+  Ich kostete die Freude des Sieges aus.
+
+  新しい車を運転する喜びを感じる。
+  新[あたら]しい 車[くるま]を 運転[うんてん]する 喜[よろこ]びを 感[かん]じる。
+  Ich empfinde Freude beim Fahren meines neuen Autos.
+
+  友人と喜びを共にするのは素晴らしい経験だ。
+  友人[ゆうじん]と 喜[よろこ]びを 共[とも]にするのは 素晴[すば]らしい 経験[けいけん]だ。
+  Es ist eine wunderbare Erfahrung, Freude mit Freunden zu teilen.
+
+  走る喜びを感じながらジョギングをしている。
+  走[はし]る 喜[よろこ]びを 感[かん]じながらジョギングをしている。
+  Ich jogge und spüre dabei die Freude am Laufen.
+
+  生きる喜びを感じられる瞬間が人生には必要だ。
+  生[い]きる 喜[よろこ]びを 感[かん]じられる 瞬間[しゅんかん]が 人生[じんせい]には 必要[ひつよう]だ。
+  Im Leben braucht man Momente, in denen man die Freude am Leben spüren kann.
+
+  人生の喜びは小さなことにあることが多い。
+  人生[じんせい]の 喜[よろこ]びは 小[ちい]さなことにあることが 多[おお]い。
+  Die Freuden des Lebens liegen oft in den kleinen Dingen.
+
+  つかの間の喜びだったが、それでも忘れられない。
+  つかの 間[ま]の 喜[よろこ]びだったが、それでも 忘[わす]れられない。
+  Es war nur eine kurze Freude, aber dennoch unvergesslich.
+
+  優勝の喜びに包まれて、チームメイトと抱き合った。
+  優勝[ゆうしょう]の 喜[よろこ]びに 包[つつ]まれて、チームメイトと 抱[だ]き 合[あ]った。
+  Von Siegesfreude erfüllt, umarmten wir uns mit den Teamkollegen.
+
+  この喜びは言葉では表現できません。
+  この 喜[よろこ]びは 言葉[ことば]では 表現[ひょうげん]できません。
+  Diese Freude lässt sich nicht in Worte fassen.
+
+  喜びの気持ちを込めて、この手紙を書いています。
+  喜[よろこ]びの 気持[きも]ちを 込[こ]めて、この 手紙[てがみ]を 書[か]いています。
+  Ich schreibe diesen Brief mit Freude im Herzen.
+
+  結婚式は喜びに満ちた素晴らしい日でした。
+  結婚式[けっこんしき]は 喜[よろこ]びに 満[み]ちた 素晴[すば]らしい 日[ひ]でした。
+  Die Hochzeit war ein wunderbarer Tag voller Freude.
+
+  喜び事が重なって、幸せな気分です。
+  喜[よろこ]び 事[ごと]が 重[かさ]なって、幸[しあわ]せな 気分[きぶん]です。
+  Ich bin glücklich, weil sich freudige Ereignisse häufen.
+
+  喜びの手紙を受け取って、とても嬉しかった。
+  喜[よろこ]びの 手紙[てがみ]を 受[う]け 取[と]って、とても 嬉[うれ]しかった。
+  Ich habe mich sehr gefreut, als ich den Glückwunschbrief erhielt.
+
+  ご卒業おめでとうございます。心からお喜びを申し上げます。
+  ご 卒業[そつぎょう]おめでとうございます。心[こころ]からお 喜[よろこ]びを 申[もう]し 上[あ]げます。
+  Herzlichen Glückwunsch zum Abschluss. Ich gratuliere Ihnen von Herzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,24 +2,115 @@ Rang: 1400
 Lemma: 問う
 Lesung: とう
 Tonhöhen: \.
-Definition: fragen, befragen; anklagen
+Definition: fragen; befragen; hinterfragen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 問わない・問うた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   これは人生の意味を問う映画だ。
   これは 人生[じんせい]の 意味[いみ]を 問[と]う 映画[えいが]だ。
-  Es ist ein Film, der nach der Bedeutung des Lebens fragt.
+  Dies ist ein Film, der nach dem Sinn des Lebens fragt.
+
+  先生は生徒たちに難しい質問を問うた。
+  先生[せんせい]は 生徒[せいと]たちに 難[むずか]しい 質問[しつもん]を 問[と]うた。
+  Der Lehrer stellte den Schülern eine schwierige Frage.
+
+  彼女の安否を問うメールを送った。
+  彼女[かのじょ]の 安否[あんぴ]を 問[と]うメールを 送[おく]った。
+  Ich schickte eine E-Mail, um mich nach ihrem Wohlbefinden zu erkundigen.
+
+  この計画の可否を皆に問うべきだ。
+  この 計画[けいかく]の 可否[かひ]を 皆[みな]に 問[と]うべきだ。
+  Wir sollten alle über die Durchführbarkeit dieses Plans abstimmen lassen.
+
+  彼らは国民の意見を問うことなく決定を下した。
+  彼[かれ]らは 国民[こくみん]の 意見[いけん]を 問[と]うことなく 決定[けってい]を 下[くだ]した。
+  Sie trafen die Entscheidung, ohne die Meinung der Bürger einzuholen.
+
+  この政策の是非を問う必要がある。
+  この 政策[せいさく]の 是非[ぜひ]を 問[と]う 必要[ひつよう]がある。
+  Es ist notwendig, die Vor- und Nachteile dieser Politik zu hinterfragen.
+
+  彼は殺人罪に問われている。
+  彼[かれ]は 殺人罪[さつじんざい]に 問[と]われている。
+  Er wird des Mordes beschuldigt.
+
+  その事件の責任を問われることになった。
+  その 事件[じけん]の 責任[せきにん]を 問[と]われることになった。
+  Er wurde für den Vorfall zur Verantwortung gezogen.
+
+  この仕事は年齢を問わず応募できます。
+  この 仕事[しごと]は 年齢[ねんれい]を 問[と]わず 応募[おうぼ]できます。
+  Für diesen Job kann man sich unabhängig vom Alter bewerben.
+
+  彼女は性別を問わず平等に扱う。
+  彼女[かのじょ]は 性別[せいべつ]を 問[と]わず 平等[びょうどう]に 扱[あつか]う。
+  Sie behandelt alle gleich, unabhängig vom Geschlecht.
+
+  この問題について、子供に意見を問うてみよう。
+  この 問題[もんだい]について、子供[こども]に 意見[いけん]を 問[と]うてみよう。
+  Lass uns die Kinder nach ihrer Meinung zu diesem Problem fragen.
+
+  彼は真剣に自分の人生の目的を問うている。
+  彼[かれ]は 真剣[しんけん]に 自分[じぶん]の 人生[じんせい]の 目的[もくてき]を 問[と]うている。
+  Er hinterfragt ernsthaft den Zweck seines Lebens.
+
+  この制度の有効性を問う声が高まっている。
+  この 制度[せいど]の 有効性[ゆうこうせい]を 問[と]う 声[こえ]が 高[たか]まっている。
+  Die Stimmen, die die Wirksamkeit dieses Systems in Frage stellen, werden lauter.
+
+  彼女は常に自分の行動の正当性を問うている。
+  彼女[かのじょ]は 常[つね]に 自分[じぶん]の 行動[こうどう]の 正当性[せいとうせい]を 問[と]うている。
+  Sie hinterfragt ständig die Rechtmäßigkeit ihrer eigenen Handlungen.
+
+  この商品は老若男女を問わず人気がある。
+  この 商品[しょうひん]は 老若男女[ろうにゃくなんにょ]を 問[と]わず 人気[にんき]がある。
+  Dieses Produkt ist bei Menschen jeden Alters und Geschlechts beliebt.
+
+  彼の発言の真意を問う必要がある。
+  彼[かれ]の 発言[はつげん]の 真意[しんい]を 問[と]う 必要[ひつよう]がある。
+  Es ist notwendig, nach der wahren Bedeutung seiner Aussage zu fragen.
+
+  この会社は学歴を問わず採用している。
+  この 会社[かいしゃ]は 学歴[がくれき]を 問[と]わず 採用[さいよう]している。
+  Dieses Unternehmen stellt unabhängig vom Bildungshintergrund ein.
+
+  彼女は晴雨を問わず毎日ジョギングをする。
+  彼女[かのじょ]は 晴雨[せいう]を 問[と]わず 毎日[まいにち]ジョギングをする。
+  Sie joggt jeden Tag, egal bei welchem Wetter.
+
+  その政治家の発言の真偽を問う声が上がっている。
+  その 政治家[せいじか]の 発言[はつげん]の 真偽[しんぎ]を 問[と]う 声[こえ]が 上[あ]がっている。
+  Es werden Stimmen laut, die die Wahrhaftigkeit der Aussagen des Politikers in Frage stellen.
+
+  彼は常に自分の行動の倫理性を問うている。
+  彼[かれ]は 常[つね]に 自分[じぶん]の 行動[こうどう]の 倫理性[りんりせい]を 問[と]うている。
+  Er hinterfragt ständig die Ethik seiner eigenen Handlungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 問う (とう) wird oft in formellen oder abstrakten Kontexten verwendet, um das Konzept des Fragens oder Hinterfragens auszudrücken. Es kann auch im übertragenen Sinne verwendet werden, um eine kritische Untersuchung oder Beurteilung zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">この 政策[せいさく]の 是非[ぜひ]を 問[と]う 必要[ひつよう]がある。</div>
+    <div class="de spoiler">Es ist notwendig, die Vor- und Nachteile dieser Politik zu hinterfragen.</div>
+  </div>
+  <p>In der Negation wird es oft verwendet, um auszudrücken, dass etwas nicht berücksichtigt oder als wichtig erachtet wird:</p>
+  <div class="examples">
+    <div class="jp">年齢[ねんれい]を 問[と]わず 応募[おうぼ]できます。</div>
+    <div class="de spoiler">Man kann sich unabhängig vom Alter bewerben.</div>
+  </div>
+  <p>Es wird auch in festen Ausdrücken verwendet:</p>
+  <div class="examples">
+    <div class="jp">責任[せきにん]を 問[と]われる</div>
+    <div class="de spoiler">zur Verantwortung gezogen werden</div>
+  </div>
