@@ -57,10 +57,12 @@ function addFurigana(text, kanjiHighlightMap = {}) {
         return kanji.includes(key) ? key : null;
       });
       if (kanjiMatch) {
-        const reading = kanjiHighlightMap[kanjiMatch];
-        kanji = kanji.replaceAll(kanjiMatch, `<u>${reading}</u>`);
-        if (furigana === reading) {
-          return kanji;
+        const reading = kanjiMatch === kanji ? furigana : kanjiHighlightMap[kanjiMatch];
+        if (furigana.includes(reading)) {
+          kanji = kanji.replaceAll(kanjiMatch, `<u>${reading}</u>`);
+          if (furigana === reading) {
+            return kanji;
+          }
         }
       }
       return `${

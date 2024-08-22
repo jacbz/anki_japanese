@@ -1,8 +1,8 @@
 {{#Lesung}}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <div id="lemma" class="furigana" data-reading="{{Lesung}}" data-kanji="{{Lemma}}">
-        {{#Lesung mit Tonhöhen}}<div class="pitch_accent" data-reading="{{Lesung}}">{{Lesung mit Tonhöhen}}</div>{{/Lesung mit Tonhöhen}}
-        {{^Lesung mit Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Lesung mit Tonhöhen}}
+        {{#Tonhöhen}}<div class="pitch_accent" data-reading="{{Lesung}}">{{Tonhöhen}}</div>{{/Tonhöhen}}
+        {{^Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Tonhöhen}}
     </div>
     <div style="margin: 0.5em;">
         <div style="
