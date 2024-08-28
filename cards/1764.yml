@@ -2,10 +2,10 @@ Rang: 1764
 Lemma: 今日
 Lesung: こんにち
 Tonhöhen: \...
-Definition: heute, heutzutage
+Definition: heute; heutig; gegenwärtig
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今日世界経済はますます悪化している。
-  今日[きょう] 世界経済[せかいけいざい]はますます 悪化[あっか]している。
-  Die heutige Weltwirtschaft verschlechtert sich zunehmend.
+  今日[こんにち] 世界[せかい] 経済[けいざい]はますます 悪化[あっか]している。
+  Die Weltwirtschaft verschlechtert sich heutzutage immer mehr.
+
+  今日に至るまで、この習慣は続いています。
+  今日[こんにち]に 至[いた]るまで、この 習慣[しゅうかん]は 続[つづ]いています。
+  Bis zum heutigen Tag hat sich diese Tradition fortgesetzt.
+
+  50年を過ぎた今日では、技術の進歩は目覚ましいものがある。
+  50年[ねん]を 過[す]ぎた 今日[こんにち]では、技術[ぎじゅつ]の 進歩[しんぽ]は 目覚[めざ]ましいものがある。
+  Heute, 50 Jahre später, ist der technologische Fortschritt bemerkenswert.
+
+  インターネット時代の今日、情報の共有がより簡単になった。
+  インターネット 時代[じだい]の 今日[こんにち]、情報[じょうほう]の 共有[きょうゆう]がより 簡単[かんたん]になった。
+  Heutzutage, im Zeitalter des Internets, ist der Informationsaustausch einfacher geworden.
+
+  私が今日あるのは、両親のおかげです。
+  私[わたし]が 今日[こんにち]あるのは、両親[りょうしん]のおかげです。
+  Was ich heute bin, verdanke ich meinen Eltern.
+
+  今日の状況を考えると、新しい戦略が必要だ。
+  今日[こんにち]の 状況[じょうきょう]を 考[かんが]えると、新[あたら]しい 戦略[せんりゃく]が 必要[ひつよう]だ。
+  Angesichts der heutigen Situation ist eine neue Strategie erforderlich.
+
+  今日の目で見ると、その法律はもう時代遅れだ。
+  今日[こんにち]の 目[め]で 見[み]ると、その 法律[ほうりつ]はもう 時代遅[じだいおく]れだ。
+  Aus heutiger Sicht ist dieses Gesetz bereits veraltet.
+
+  今日の日本は、高齢化社会に直面している。
+  今日[こんにち]の 日本[にほん]は、高齢化[こうれいか] 社会[しゃかい]に 直面[ちょくめん]している。
+  Das heutige Japan steht vor einer alternden Gesellschaft.
+
+  今日の青年は、デジタル技術に精通している。
+  今日[こんにち]の 青年[せいねん]は、デジタル 技術[ぎじゅつ]に 精通[せいつう]している。
+  Die Jugend von heute ist mit digitaler Technologie vertraut.
+
+  今日的な課題に取り組むには、柔軟な思考が必要だ。
+  今日的[こんにちてき]な 課題[かだい]に 取[と]り 組[く]むには、柔軟[じゅうなん]な 思考[しこう]が 必要[ひつよう]だ。
+  Um aktuelle Herausforderungen anzugehen, ist flexibles Denken erforderlich.
+
+  今日的に見て、その方法は効率的ではない。
+  今日的[こんにちてき]に 見[み]て、その 方法[ほうほう]は 効率的[こうりつてき]ではない。
+  Modern betrachtet ist diese Methode nicht effizient.
+
+  今日では、環境保護が重要な話題となっている。
+  今日[こんにち]では、環境[かんきょう] 保護[ほご]が 重要[じゅうよう]な 話題[わだい]となっている。
+  Heutzutage ist der Umweltschutz ein wichtiges Thema geworden.
+
+  今日に至るまで、彼の功績は高く評価されている。
+  今日[こんにち]に 至[いた]るまで、彼[かれ]の 功績[こうせき]は 高[たか]く 評価[ひょうか]されている。
+  Bis zum heutigen Tag werden seine Leistungen hoch geschätzt.
+
+  今日のグローバル化した世界では、言語能力が重要だ。
+  今日[こんにち]のグローバル 化[か]した 世界[せかい]では、言語[げんご] 能力[のうりょく]が 重要[じゅうよう]だ。
+  In der heutigen globalisierten Welt sind Sprachkenntnisse wichtig.
+
+  今日の会議で重要な決定がなされる予定です。
+  今日[こんにち]の 会議[かいぎ]で 重要[じゅうよう]な 決定[けってい]がなされる 予定[よてい]です。
+  In der heutigen Sitzung sollen wichtige Entscheidungen getroffen werden.
+
+  今日の技術では、かつて不可能だったことが可能になっている。
+  今日[こんにち]の 技術[ぎじゅつ]では、かつて 不可能[ふかのう]だったことが 可能[かのう]になっている。
+  Mit der heutigen Technologie ist möglich geworden, was früher unmöglich war.
+
+  今日的な問題に対して、古い解決策は通用しない。
+  今日的[こんにちてき]な 問題[もんだい]に 対[たい]して、古[ふる]い 解決策[かいけつさく]は 通用[つうよう]しない。
+  Alte Lösungen funktionieren nicht für aktuelle Probleme.
+
+  今日では、オンラインショッピングが一般的になっている。
+  今日[こんにち]では、オンラインショッピングが 一般的[いっぱんてき]になっている。
+  Heutzutage ist Online-Shopping zur Norm geworden.
+
+  今日の若者は、社会問題に対してより敏感だ。
+  今日[こんにち]の 若者[わかもの]は、社会[しゃかい] 問題[もんだい]に 対[たい]してより 敏感[びんかん]だ。
+  Die heutige Jugend ist sensibler für soziale Probleme.
+
+  今日の医学の進歩により、多くの病気が治療可能になった。
+  今日[こんにち]の 医学[いがく]の 進歩[しんぽ]により、多[おお]くの 病気[びょうき]が 治療[ちりょう] 可能[かのう]になった。
+  Dank der heutigen medizinischen Fortschritte sind viele Krankheiten heilbar geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

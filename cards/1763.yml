@@ -2,13 +2,13 @@ Rang: 1763
 Lemma: 吹く
 Lesung: ふく
 Tonhöhen: \.
-Definition: blasen; ausatmen; (ein Musikinstrument) spielen
+Definition: wehen, blasen; (Instrument) spielen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi, n
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 吹かない・吹いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   強い風が吹いている。
   強[つよ]い 風[かぜ]が 吹[ふ]いている。
   Es weht ein starker Wind.
+
+  北から冷たい風が吹いてきた。
+  北[きた]から 冷[つめ]たい 風[かぜ]が 吹[ふ]いてきた。
+  Ein kalter Wind kam von Norden her.
+
+  風の吹かない場所を探しましょう。
+  風[かぜ]の 吹[ふ]かない 場所[ばしょ]を 探[さが]しましょう。
+  Lassen Sie uns einen windgeschützten Ort suchen.
+
+  新芽が吹き始めた。
+  新芽[しんめ]が 吹[ふ]き 始[はじ]めた。
+  Die neuen Knospen begannen zu sprießen.
+
+  壁にカビが吹いている。
+  壁[かべ]にカビが 吹[ふ]いている。
+  An der Wand hat sich Schimmel gebildet.
+
+  塩が吹いた魚を見つけた。
+  塩[しお]が 吹[ふ]いた 魚[さかな]を 見[み]つけた。
+  Ich habe einen Fisch gefunden, auf dem sich Salz abgesetzt hat.
+
+  火山から溶岩が吹き出した。
+  火山[かざん]から 溶岩[ようがん]が 吹[ふ]き 出[だ]した。
+  Lava schoss aus dem Vulkan hervor.
+
+  汗が吹き出してきた。
+  汗[あせ]が 吹[ふ]き 出[だ]してきた。
+  Der Schweiß brach aus.
+
+  ガラスを吹いて美しい花瓶を作った。
+  ガラスを 吹[ふ]いて 美[うつく]しい 花瓶[かびん]を 作[つく]った。
+  Er blies Glas und stellte eine schöne Vase her.
+
+  火を吹いて暖かくなった。
+  火[ひ]を 吹[ふ]いて 暖[あたた]かくなった。
+  Ich blies das Feuer an und es wurde warm.
+
+  ろうそくを吹いて消した。
+  ろうそくを 吹[ふ]いて 消[け]した。
+  Ich blies die Kerze aus.
+
+  彼女は笛を上手に吹く。
+  彼女[かのじょ]は 笛[ふえ]を 上手[じょうず]に 吹[ふ]く。
+  Sie spielt geschickt Flöte.
+
+  口笛を吹きながら歩いている。
+  口笛[くちぶえ]を 吹[ふ]きながら 歩[ある]いている。
+  Er geht pfeifend spazieren.
+
+  トランペットを吹いて行進曲を演奏した。
+  トランペットを 吹[ふ]いて 行進曲[こうしんきょく]を 演奏[えんそう]した。
+  Er spielte einen Marsch auf der Trompete.
+
+  春になると木々が芽を吹く。
+  春[はる]になると 木々[きぎ]が 芽[め]を 吹[ふ]く。
+  Wenn es Frühling wird, treiben die Bäume Knospen.
+
+  古い銅像が緑青を吹いていた。
+  古[ふる]い 銅像[どうぞう]が 緑青[ろくしょう]を 吹[ふ]いていた。
+  Die alte Bronzestatue hatte Patina angesetzt.
+
+  鐘を吹いて美しい音色を作り出した。
+  鐘[かね]を 吹[ふ]いて 美[うつく]しい 音色[ねいろ]を 作[つく]り 出[だ]した。
+  Er goss eine Glocke und erzeugte einen schönen Klang.
+
+  彼はいつも大きな事を吹いている。
+  彼[かれ]はいつも 大[おお]きな 事[こと]を 吹[ふ]いている。
+  Er prahlt immer mit großen Dingen.
+
+  吹けば飛ぶような軽い体重だ。
+  吹[ふ]けば 飛[と]ぶような 軽[かる]い 体重[たいじゅう]だ。
+  Es ist ein Körpergewicht, das vom kleinsten Windhauch umgeweht werden könnte.
+
+  彼は法螺を吹いて周りを驚かせた。
+  彼[かれ]は 法螺[ほら]を 吹[ふ]いて 周[まわ]りを 驚[おどろ]かせた。
+  Er prahlte und überraschte die Leute um ihn herum.
+
+  強風で木の葉が吹き飛ばされた。
+  強風[きょうふう]で 木[き]の 葉[は]が 吹[ふ]き 飛[と]ばされた。
+  Der starke Wind blies die Blätter von den Bäumen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

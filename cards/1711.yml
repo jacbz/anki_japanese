@@ -2,20 +2,96 @@ Rang: 1711
 Lemma: 優れる
 Lesung: すぐれる
 Tonhöhen: .^\.
-Definition: überlegen sein
-Alternativschreibweisen: ''
+Definition: besser sein (als)
+Alternativschreibweisen: 勝れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 優れない・優れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   肉体的強さという点で男性は女性より優れている。
   肉体的[にくたいてき] 強[つよ]さという 点[てん]で 男性[だんせい]は 女性[じょせい]より 優[すぐ]れている。
-  Männer sind Frauen in Bezug auf ihre Körperkraft überlegen.
+  In Bezug auf körperliche Stärke sind Männer Frauen überlegen.
+
+  彼女は記憶力が優れているので、テストの成績が常に良い。
+  彼女[かのじょ]は 記憶力[きおくりょく]が 優[すぐ]れているので、テストの 成績[せいせき]が 常[つね]に 良[よ]い。
+  Da sie ein hervorragendes Gedächtnis hat, sind ihre Testergebnisse immer gut.
+
+  スポーツに優れている生徒は、特別な奨学金をもらえる可能性がある。
+  スポーツに 優[すぐ]れている 生徒[せいと]は、特別[とくべつ]な 奨学金[しょうがくきん]をもらえる 可能性[かのうせい]がある。
+  Schüler, die in Sport herausragend sind, haben die Möglichkeit, ein spezielles Stipendium zu erhalten.
+
+  この会社は優れた業績を上げ、業界をリードしている。
+  この 会社[かいしゃ]は 優[すぐ]れた 業績[ぎょうせき]を 上[あ]げ、業界[ぎょうかい]をリードしている。
+  Dieses Unternehmen erzielt hervorragende Leistungen und ist führend in der Branche.
+
+  彼は優れた才能を持っているが、それを活かし切れていない。
+  彼[かれ]は 優[すぐ]れた 才能[さいのう]を 持[も]っているが、それを 活[い]かし 切[き]れていない。
+  Er hat ein großes Talent, aber er schöpft es nicht voll aus.
+
+  日本代表チームには優れた選手が揃っている。
+  日本代表[にほんだいひょう]チームには 優[すぐ]れた 選手[せんしゅ]が 揃[そろ]っている。
+  Das japanische Nationalteam besteht aus hervorragenden Spielern.
+
+  このレストランは優れたワインセレクションで有名だ。
+  このレストランは 優[すぐ]れたワインセレクションで 有名[ゆうめい]だ。
+  Dieses Restaurant ist für seine ausgezeichnete Weinauswahl bekannt.
+
+  彼女は学業だけでなく、ピアノの演奏でも優れている。
+  彼女[かのじょ]は 学業[がくぎょう]だけでなく、ピアノの 演奏[えんそう]でも 優[すぐ]れている。
+  Sie ist nicht nur in ihren Studien, sondern auch im Klavierspiel hervorragend.
+
+  西洋の技術が優れているからといって、全てが優れているわけではない。
+  西洋[せいよう]の 技術[ぎじゅつ]が 優[すぐ]れているからといって、全[すべ]てが 優[すぐ]れているわけではない。
+  Nur weil die westliche Technologie überlegen ist, heißt das nicht, dass alles überlegen ist.
+
+  彼は何か特別に優れたスキルがあるわけではないが、努力家だ。
+  彼[かれ]は 何[なに]か 特別[とくべつ]に 優[すぐ]れたスキルがあるわけではないが、努力家[どりょくか]だ。
+  Er hat keine besonders herausragenden Fähigkeiten, aber er ist sehr fleißig.
+
+  この小説は文学作品として優れており、多くの賞を受賞している。
+  この 小説[しょうせつ]は 文学作品[ぶんがくさくひん]として 優[すぐ]れており、多[おお]くの 賞[しょう]を 受賞[じゅしょう]している。
+  Dieser Roman ist als literarisches Werk hervorragend und hat viele Preise gewonnen.
+
+  彼女は英語力で私より優れているが、数学では私の方が得意だ。
+  彼女[かのじょ]は 英語力[えいごりょく]で 私[わたし]より 優[すぐ]れているが、数学[すうがく]では 私[わたし]の 方[ほう]が 得意[とくい]だ。
+  Sie ist mir in Englisch überlegen, aber in Mathematik bin ich besser.
+
+  この地域から優れた研究者が多く輩出している。
+  この 地域[ちいき]から 優[すぐ]れた 研究者[けんきゅうしゃ]が 多[おお]く 輩出[はいしゅつ]している。
+  Aus dieser Region kommen viele hervorragende Forscher.
+
+  彼は受験者の中で最も優れた成績を収めた。
+  彼[かれ]は 受験者[じゅけんしゃ]の 中[なか]で 最[もっと]も 優[すぐ]れた 成績[せいせき]を 収[おさ]めた。
+  Er erzielte die besten Ergebnisse unter allen Prüflingen.
+
+  最近、健康が優れないので、医者に相談しようと思う。
+  最近[さいきん]、健康[けんこう]が 優[すぐ]れないので、医者[いしゃ]に 相談[そうだん]しようと 思[おも]う。
+  In letzter Zeit fühle ich mich nicht besonders gesund, also denke ich darüber nach, einen Arzt zu konsultieren.
+
+  天気が優れないので、屋内で過ごすことにしました。
+  天気[てんき]が 優[すぐ]れないので、屋内[おくない]で 過[す]ごすことにしました。
+  Da das Wetter nicht besonders gut ist, haben wir beschlossen, drinnen zu bleiben.
+
+  今日は気分が優れないので、早めに帰らせてもらいます。
+  今日[きょう]は 気分[きぶん]が 優[すぐ]れないので、早[はや]めに 帰[かえ]らせてもらいます。
+  Ich fühle mich heute nicht wohl, also werde ich früher nach Hause gehen.
+
+  彼女は優れたリーダーシップを発揮し、チームを成功に導いた。
+  彼女[かのじょ]は 優[すぐ]れたリーダーシップを 発揮[はっき]し、チームを 成功[せいこう]に 導[みちび]いた。
+  Sie zeigte hervorragende Führungsqualitäten und führte das Team zum Erfolg.
+
+  この製品は優れた品質と耐久性で知られている。
+  この 製品[せいひん]は 優[すぐ]れた 品質[ひんしつ]と 耐久性[たいきゅうせい]で 知[し]られている。
+  Dieses Produkt ist für seine hervorragende Qualität und Haltbarkeit bekannt.
+
+  彼の絵画は技術的に優れており、多くの人々を魅了している。
+  彼[かれ]の 絵画[かいが]は 技術的[ぎじゅつてき]に 優[すぐ]れており、多[おお]くの 人々[ひとびと]を 魅了[みりょう]している。
+  Seine Gemälde sind technisch hervorragend und faszinieren viele Menschen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

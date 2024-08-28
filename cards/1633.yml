@@ -2,10 +2,10 @@ Rang: 1633
 Lemma: 戦い
 Lesung: たたかい
 Tonhöhen: .^^^
-Definition: Kampf, Schlacht
-Alternativschreibweisen: ''
+Definition: Kampf
+Alternativschreibweisen: 闘い
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vi
+Wortart: n
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,106 @@ Konjugation: ''
 Beispielsätze: |-
   彼にとって厳しい戦いになるだろう。
   彼[かれ]にとって 厳[きび]しい 戦[たたか]いになるだろう。
-  Es wird ein harter Kampf für ihn sein.
+  Es wird wohl ein harter Kampf für ihn werden.
+
+  彼は戦いが好きで、常に新しい挑戦を求めている。
+  彼[かれ]は 戦[たたか]いが 好[す]きで、常[つね]に 新[あたら]しい 挑戦[ちょうせん]を 求[もと]めている。
+  Er liebt den Kampf und sucht ständig nach neuen Herausforderungen.
+
+  戦いに出る前に、十分な準備が必要だ。
+  戦[たたか]いに 出[で]る 前[まえ]に、十分[じゅうぶん]な 準備[じゅんび]が 必要[ひつよう]だ。
+  Bevor man in den Kampf zieht, ist eine gründliche Vorbereitung nötig.
+
+  彼らは最後の戦いに勝ち、優勝を果たした。
+  彼[かれ]らは 最後[さいご]の 戦[たたか]いに 勝[か]ち、優勝[ゆうしょう]を 果[は]たした。
+  Sie haben den letzten Kampf gewonnen und den Sieg errungen.
+
+  その戦いに負けたことで、彼は多くのことを学んだ。
+  その 戦[たたか]いに 負[ま]けたことで、彼[かれ]は 多[おお]くのことを 学[まな]んだ。
+  Durch die Niederlage in diesem Kampf hat er viel gelernt.
+
+  戦いの場は静かで、緊張感に包まれていた。
+  戦[たたか]いの 場[ば]は 静[しず]かで、緊張感[きんちょうかん]に 包[つつ]まれていた。
+  Der Kampfplatz war ruhig und von Anspannung erfüllt.
+
+  戦いの準備を整えるのに一週間かかった。
+  戦[たたか]いの 準備[じゅんび]を 整[ととの]えるのに 一週間[いっしゅうかん]かかった。
+  Es dauerte eine Woche, um sich auf den Kampf vorzubereiten.
+
+  彼は強敵に戦いを挑んだ。
+  彼[かれ]は 強敵[きょうてき]に 戦[たたか]いを 挑[いど]んだ。
+  Er forderte einen starken Gegner zum Kampf heraus.
+
+  戦いなしに勝利を得ることはできない。
+  戦[たたか]いなしに 勝利[しょうり]を 得[え]ることはできない。
+  Ohne Kampf kann man keinen Sieg erringen.
+
+  激しい戦いの末、両軍は疲れ果てていた。
+  激[はげ]しい 戦[たたか]いの 末[すえ]、両軍[りょうぐん]は 疲[つか]れ 果[は]てていた。
+  Nach dem heftigen Kampf waren beide Armeen erschöpft.
+
+  絶望的な戦いだったが、諦めずに最後まで闘った。
+  絶望的[ぜつぼうてき]な 戦[たたか]いだったが、諦[あきら]めずに 最後[さいご]まで 闘[たたか]った。
+  Es war ein verzweifelter Kampf, aber wir kämpften bis zum Schluss, ohne aufzugeben.
+
+  時間との戦いの中で、彼らは懸命にプロジェクトを進めた。
+  時間[じかん]との 戦[たたか]いの 中[なか]で、彼[かれ]らは 懸命[けんめい]にプロジェクトを 進[すす]めた。
+  Im Kampf gegen die Zeit trieben sie das Projekt mit aller Kraft voran.
+
+  飢餓との戦いは、多くの国々が直面している問題だ。
+  飢餓[きが]との 戦[たたか]いは、多[おお]くの 国々[くにぐに]が 直面[ちょくめん]している 問題[もんだい]だ。
+  Der Kampf gegen den Hunger ist ein Problem, dem viele Länder gegenüberstehen.
+
+  テロとの戦いは、国際社会全体で取り組むべき課題だ。
+  テロとの 戦[たたか]いは、国際社会[こくさいしゃかい] 全体[ぜんたい]で 取[と]り 組[く]むべき 課題[かだい]だ。
+  Der Kampf gegen den Terror ist eine Aufgabe, die die internationale Gemeinschaft als Ganzes angehen sollte.
+
+  生きるための戦いは、時に厳しくても諦めてはいけない。
+  生[い]きるための 戦[たたか]いは、時[とき]に 厳[きび]しくても 諦[あきら]めてはいけない。
+  Den Kampf ums Überleben darf man nicht aufgeben, auch wenn er manchmal hart ist.
+
+  金メダルへの戦いは、彼女の人生をかけた挑戦だった。
+  金[きん]メダルへの 戦[たたか]いは、彼女[かのじょ]の 人生[じんせい]をかけた 挑戦[ちょうせん]だった。
+  Der Kampf um die Goldmedaille war eine Herausforderung, für die sie ihr Leben einsetzte.
+
+  病気との戦いを続けながら、彼は前向きな姿勢を保っていた。
+  病気[びょうき]との 戦[たたか]いを 続[つづ]けながら、彼[かれ]は 前向[まえむ]きな 姿勢[しせい]を 保[たも]っていた。
+  Während er den Kampf gegen die Krankheit fortführte, behielt er eine positive Einstellung bei.
+
+  日々が戦いだ。
+  日々[ひび]が 戦[たたか]いだ。
+  Jeder Tag ist ein Kampf.
+
+  彼らは互角の戦いを繰り広げた。
+  彼[かれ]らは 互角[ごかく]の 戦[たたか]いを 繰[く]り 広[ひろ]げた。
+  Sie lieferten sich einen ebenbürtigen Kampf.
+
+  戦いをせずに降伏することを選んだ。
+  戦[たたか]いをせずに 降伏[こうふく]することを 選[えら]んだ。
+  Sie entschieden sich dafür, ohne zu kämpfen zu kapitulieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 戦う (たたかう) bedeutet "kämpfen" und wird oft in Verbindung mit dem Nomen 戦い verwendet.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]らは 激[はげ]しい 戦[たたか]いを 繰[く]り 広[ひろ]げた。</div>
+    <div class="de spoiler">Sie lieferten sich einen heftigen Kampf.</div>
+  </div>
+  <p>戦い kann sich auf verschiedene Arten von Kämpfen beziehen, von physischen Auseinandersetzungen bis hin zu metaphorischen Kämpfen:</p>
+  <div class="examples">
+    <div class="jp">病気[びょうき]との 戦[たたか]い</div>
+    <div class="de spoiler">Der Kampf gegen die Krankheit</div>
+  </div>
+  <div class="examples">
+    <div class="jp">時間[じかん]との 戦[たたか]い</div>
+    <div class="de spoiler">Der Kampf gegen die Zeit</div>
+  </div>
+  <p>Im Sport wird 戦い auch für Wettkämpfe oder Spiele verwendet:</p>
+  <div class="examples">
+    <div class="jp">今日[きょう]の 試合[しあい]は 熱[あつ]い 戦[たたか]いになりそうだ。</div>
+    <div class="de spoiler">Das heutige Spiel wird wohl ein heißer Kampf werden.</div>
+  </div>

@@ -2,24 +2,131 @@ Rang: 1634
 Lemma: はさむ
 Lesung: ''
 Tonhöhen: .\.
-Definition: zwischen etwas stecken; einklemmen
-Alternativschreibweisen: ''
+Definition: einklemmen; einfügen; dazwischennehmen
+Alternativschreibweisen: 挟む・挿む
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: はさまない・はさんだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ドアに指をはさまれてしまった。
-  ドアに 指[ゆび]をはさまれてしまった。
-  Ich habe meine Finger in der Tür eingeklemmt.
+  ドアに 指[ゆび]を はさまれてしまった。
+  Ich habe mir den Finger in der Tür eingeklemmt.
+
+  箸でお肉をはさんで食べましょう。
+  箸[はし]でお 肉[にく]をはさんで 食[た]べましょう。
+  Lass uns das Fleisch mit den Essstäbchen greifen und essen.
+
+  本にしおりをはさんでおいた。
+  本[ほん]にしおりをはさんでおいた。
+  Ich habe ein Lesezeichen ins Buch gelegt.
+
+  カニに指をはさまれて痛かった。
+  カニに 指[ゆび]をはさまれて 痛[いた]かった。
+  Es tat weh, als ich vom Krebs in den Finger gekniffen wurde.
+
+  耳に鉛筆をはさんで仕事をしている。
+  耳[みみ]に 鉛筆[えんぴつ]をはさんで 仕事[しごと]をしている。
+  Ich arbeite mit einem Bleistift hinters Ohr geklemmt.
+
+  パンにハムをはさんでサンドイッチを作った。
+  パンにハムをはさんでサンドイッチを 作[つく]った。
+  Ich habe Schinken zwischen zwei Brotscheiben gelegt und ein Sandwich gemacht.
+
+  ピンセットで小さな部品をはさんで作業する。
+  ピンセットで 小[ちい]さな 部品[ぶひん]をはさんで 作業[さぎょう]する。
+  Ich arbeite mit einer Pinzette, um kleine Teile zu halten.
+
+  七十円の料金を払い、スタンプ入りの受領証を財布にはさんだ。
+  七十[ななじゅう]円[えん]の 料金[りょうきん]を 払[はら]い、スタンプ 入[い]りの 受領証[じゅりょうしょう]を 財布[さいふ]にはさんだ。
+  Ich bezahlte siebzig Yen und steckte die gestempelte Quittung in meine Brieftasche.
+
+  たばこに火をつけ、それを指にはさんでひねくりまわしています。
+  たばこに 火[ひ]をつけ、それを 指[ゆび]にはさんでひねくりまわしています。
+  Er zündete sich eine Zigarette an und drehte sie zwischen den Fingern.
+
+  第三者をはさんで話をすることで、誤解を避けられる。
+  第三者[だいさんしゃ]をはさんで 話[はなし]をすることで、 誤解[ごかい]を 避[さ]けられる。
+  Durch das Einschalten einer dritten Person beim Gespräch können Missverständnisse vermieden werden.
+
+  川をはさんで山々が広がっている。
+  川[かわ]をはさんで 山々[やまやま]が 広[ひろ]がっている。
+  Zu beiden Seiten des Flusses erstrecken sich die Berge.
+
+  子供をはさんで寝ると、安心して眠れます。
+  子供[こども]をはさんで 寝[ね]ると、安心[あんしん]して 眠[ねむ]れます。
+  Wenn man mit dem Kind in der Mitte schläft, kann man beruhigt schlafen.
+
+  テーブルをはさんで向かい合って座った。
+  テーブルをはさんで 向[む]かい 合[あ]って 座[すわ]った。
+  Wir setzten uns einander gegenüber an den Tisch.
+
+  敵をはさんで攻撃する戦略を立てた。
+  敵[てき]をはさんで 攻撃[こうげき]する 戦略[せんりゃく]を 立[た]てた。
+  Wir entwickelten eine Strategie, um den Feind von zwei Seiten anzugreifen.
+
+  トラックにはさまれて走るのは危険だ。
+  トラックにはさまれて 走[はし]るのは 危険[きけん]だ。
+  Es ist gefährlich, eingezwängt zwischen Lastwagen zu fahren.
+
+  右奥にある小さなテーブルをはさんで二人の男が座っていた。
+  右奥[みぎおく]にある 小[ちい]さなテーブルをはさんで 二人[ふたり]の 男[おとこ]が 座[すわ]っていた。
+  Rechts hinten saßen zwei Männer an einem kleinen Tisch.
+
+  金網をはさんで二人は向き合った。
+  金網[かなあみ]をはさんで 二人[ふたり]は 向[む]き 合[あ]った。
+  Durch den Zaun blickten die beiden sich an.
+
+  彼女は両手でワイングラスをはさんで、しばらく僕の顔を見ていた。
+  彼女[かのじょ]は 両手[りょうて]でワイングラスをはさんで、しばらく 僕[ぼく]の 顔[かお]を 見[み]ていた。
+  Sie umfasste mit beiden Händen ihr Weinglas und sah mich eine Weile an.
+
+  彼の話に口をはさむのは失礼だと思った。
+  彼[かれ]の 話[はなし]に 口[くち]をはさむのは 失礼[しつれい]だと 思[おも]った。
+  Ich dachte, es wäre unhöflich, ihm ins Wort zu fallen.
+
+  長い会議の間に休憩をはさむことにした。
+  長[なが]い 会議[かいぎ]の 間[あいだ]に 休憩[きゅうけい]をはさむことにした。
+  Wir beschlossen, während der langen Besprechung eine Pause einzulegen.
+
+  「泊まる場所ぐらいは何とでもなりますよ」藤間が口をはさんだ。
+  「 泊[と]まる 場所[ばしょ]ぐらいは 何[なん]とでもなりますよ」 藤間[ふじま]が 口[くち]をはさんだ。
+  "Platz zum Übernachten ist reichlich vorhanden", warf Fujima ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb はさむ hat mehrere wichtige Bedeutungen:</p>
+  <ol>
+    <li>Etwas zwischen zwei Dinge einfügen oder einklemmen:</li>
+  </ol>
+  <div class="examples">
+    <div class="jp">本[ほん]にしおりをはさむ。</div>
+    <div class="de spoiler">Ein Lesezeichen ins Buch legen.</div>
+  </div>
+  <ol start="2">
+    <li>Etwas oder jemanden von zwei Seiten umgeben oder in die Mitte nehmen:</li>
+  </ol>
+  <div class="examples">
+    <div class="jp">子供[こども]をはさんで 寝[ね]る。</div>
+    <div class="de spoiler">Mit dem Kind in der Mitte schlafen.</div>
+  </div>
+  <ol start="3">
+    <li>Etwas einschieben oder unterbrechen:</li>
+  </ol>
+  <div class="examples">
+    <div class="jp">会議[かいぎ]に 休憩[きゅうけい]をはさむ。</div>
+    <div class="de spoiler">Eine Pause in die Besprechung einschieben.</div>
+  </div>
+  <p>In der Umgangssprache wird es auch oft verwendet, um "unterbrechen" oder "sich einmischen" auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">話[はなし]に 口[くち]をはさむ。</div>
+    <div class="de spoiler">Jemanden unterbrechen.</div>
+  </div>

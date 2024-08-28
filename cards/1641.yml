@@ -3,19 +3,135 @@ Lemma: コーヒー
 Lesung: こーひー
 Tonhöhen: .^\.
 Definition: Kaffee
-Alternativschreibweisen: ''
+Alternativschreibweisen: 珈琲
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: nl. koffie; verstärkt durch engl. coffee
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は毎朝コーヒーを飲む。
-  私[わたし]は 毎朝[まいあさ]コーヒーを 飲[の]む。
+  私[わたし]は 毎朝[まいあさ] コーヒーを 飲[の]む。
   Ich trinke jeden Morgen Kaffee.
+
+  コーヒーブレークで同僚と話をした。
+  コーヒーブレークで 同僚[どうりょう]と 話[はな]をした。
+  Ich unterhielt mich während der Kaffeepause mit meinen Kollegen.
+
+  このコーヒー園では高品質の豆を生産しています。
+  この コーヒー園[えん]では 高品質[こうひんしつ]の 豆[まめ]を 生産[せいさん]しています。
+  Auf dieser Kaffeeplantage werden hochwertige Bohnen produziert.
+
+  コーヒーフィルターを買い忘れてしまった。
+  コーヒーフィルターを 買[か]い 忘[わす]れてしまった。
+  Ich habe vergessen, Kaffeefilter zu kaufen.
+
+  暑い日にはコーヒーフロートが最高だ。
+  暑[あつ]い 日[ひ]には コーヒーフロートが 最高[さいこう]だ。
+  An heißen Tagen ist ein Eiskaffee das Beste.
+
+  コーヒー牛乳は子供の頃よく飲んでいた。
+  コーヒー牛乳[ぎゅうにゅう]は 子供[こども]の 頃[ころ]よく 飲[の]んでいた。
+  Als Kind habe ich oft Kaffeemilch getrunken.
+
+  お気に入りのコーヒーカップでコーヒーを飲むのが楽しみだ。
+  お 気[き]に 入[い]りの コーヒーカップで コーヒーを 飲[の]むのが 楽[たの]しみだ。
+  Ich freue mich darauf, Kaffee aus meiner Lieblingstasse zu trinken.
+
+  コーヒーの滓を植物の肥料として使っている。
+  コーヒーの 滓[かす]を 植物[しょくぶつ]の 肥料[ひりょう]として 使[つか]っている。
+  Ich verwende Kaffeesatz als Dünger für meine Pflanzen.
+
+  新しいコーヒーメーカーを買ったら、朝の時間が節約できた。
+  新[あたら]しい コーヒーメーカーを 買[か]ったら、朝[あさ]の 時間[じかん]が 節約[せつやく]できた。
+  Nachdem ich eine neue Kaffeemaschine gekauft habe, konnte ich morgens Zeit sparen.
+
+  コーヒー豆を挽く音で目覚める朝が好きだ。
+  コーヒー豆[まめ]を 挽[ひ]く 音[おと]で 目覚[めざ]める 朝[あさ]が 好[す]きだ。
+  Ich mag Morgende, an denen ich durch das Geräusch der Kaffeemühle geweckt werde.
+
+  コーヒーポットを落として割ってしまった。
+  コーヒーポットを 落[お]として 割[わ]ってしまった。
+  Ich habe die Kaffeekanne fallen lassen und zerbrochen.
+
+  コーヒーショップで友達と待ち合わせをした。
+  コーヒーショップで 友達[ともだち]と 待[ま]ち 合[あ]わせをした。
+  Ich habe mich mit meinen Freunden im Café verabredet.
+
+  コーヒースプーンでゆっくりかき混ぜながら飲む。
+  コーヒースプーンでゆっくり かき混[ま]ぜながら 飲[の]む。
+  Ich trinke den Kaffee, während ich ihn langsam mit dem Kaffeelöffel umrühre.
+
+  駅前のコーヒースタンドは朝からいつも混んでいる。
+  駅前[えきまえ]の コーヒースタンドは 朝[あさ]からいつも 混[こ]んでいる。
+  Der Kaffeestand vor dem Bahnhof ist morgens immer voll.
+
+  コーヒーテーブルに雑誌を置いて、くつろぎの空間を作った。
+  コーヒーテーブルに 雑誌[ざっし]を 置[お]いて、くつろぎの 空間[くうかん]を 作[つく]った。
+  Ich habe Zeitschriften auf den Couchtisch gelegt und eine gemütliche Atmosphäre geschaffen.
+
+  彼はコーヒー党で、一日に何杯も飲む。
+  彼[かれ]は コーヒー党[とう]で、一日[いちにち]に 何杯[なんばい]も 飲[の]む。
+  Er ist ein Kaffeetrinker und trinkt mehrere Tassen pro Tag.
+
+  コーヒーウォーマーのおかげで、コーヒーが冷めずに飲める。
+  コーヒーウォーマーのおかげで、コーヒーが 冷[さ]めずに 飲[の]める。
+  Dank der Warmhalteplatte kann ich den Kaffee trinken, ohne dass er kalt wird.
+
+  コーヒーゼリーはほろ苦くて夏にぴったりのデザートだ。
+  コーヒーゼリーはほろ 苦[にが]くて 夏[なつ]にぴったりのデザートだ。
+  Kaffeegelee ist ein leicht bitteres Dessert, das perfekt für den Sommer ist.
+
+  アイスコーヒーに砂糖を入れすぎて甘すぎた。
+  アイスコーヒーに 砂糖[さとう]を 入[い]れすぎて 甘[あま]すぎた。
+  Ich habe zu viel Zucker in meinen Eiskaffee getan und er war zu süß.
+
+  アメリカンコーヒーは薄くて飲みやすい。
+  アメリカンコーヒーは 薄[うす]くて 飲[の]みやすい。
+  Amerikanischer Kaffee ist dünn und leicht zu trinken.
+
+  ブラックコーヒーを飲むようになってから、砂糖を使わなくなった。
+  ブラックコーヒーを 飲[の]むようになってから、砂糖[さとう]を 使[つか]わなくなった。
+  Seitdem ich schwarzen Kaffee trinke, verwende ich keinen Zucker mehr.
+
+  エスプレッソコーヒーは濃くて香りが強い。
+  エスプレッソコーヒーは 濃[こ]くて 香[かお]りが 強[つよ]い。
+  Espresso ist stark und hat ein kräftiges Aroma.
+
+  インスタントコーヒーは便利だけど、挽きたての味には及ばない。
+  インスタントコーヒーは 便利[べんり]だけど、挽[ひ]きたての 味[あじ]には 及[およ]ばない。
+  Instantkaffee ist praktisch, kommt aber nicht an den Geschmack von frisch gemahlenem Kaffee heran.
+
+  缶コーヒーを自動販売機で買った。
+  缶[かん]コーヒーを 自動販売機[じどうはんばいき]で 買[か]った。
+  Ich habe Dosenkaffee am Automaten gekauft.
+
+  コーヒー一杯で目が覚める。
+  コーヒー一杯[いっぱい]で 目[め]が 覚[さ]める。
+  Eine Tasse Kaffee macht mich wach.
+
+  挽いたコーヒーの香りが部屋中に広がった。
+  挽[ひ]いたコーヒーの 香[かお]りが 部屋中[へやじゅう]に 広[ひろ]がった。
+  Der Duft des frisch gemahlenen Kaffees breitete sich im ganzen Zimmer aus.
+
+  コーヒーの粉を計量スプーンで正確に測る。
+  コーヒーの 粉[こな]を 計量[けいりょう]スプーンで 正確[せいかく]に 測[はか]る。
+  Ich messe das Kaffeepulver genau mit einem Messlöffel ab.
+
+  彼女はコーヒーを淹れるのが上手だ。
+  彼女[かのじょ]は コーヒーを 淹[い]れるのが 上手[じょうず]だ。
+  Sie ist geschickt darin, Kaffee zu kochen.
+
+  濃いコーヒーが好きな人は多いですね。
+  濃[こ]いコーヒーが 好[す]きな 人[ひと]は 多[おお]いですね。
+  Viele Leute mögen starken Kaffee, nicht wahr?
+
+  ミルク入りのコーヒーを注文した。
+  ミルク入[い]りのコーヒーを 注文[ちゅうもん]した。
+  Ich habe einen Kaffee mit Milch bestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

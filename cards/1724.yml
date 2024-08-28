@@ -2,7 +2,7 @@ Rang: 1724
 Lemma: 残り
 Lesung: のこり
 Tonhöhen: .^\
-Definition: Rest, Übriges
+Definition: Rest, Überrest
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   宿題の残りをやりなさい。
   宿題[しゅくだい]の 残[のこ]りをやりなさい。
-  Machen Sie den Rest Ihrer Hausaufgaben.
+  Mach den Rest deiner Hausaufgaben.
+
+  食事の残りは冷蔵庫に入れておきます。
+  食事[しょくじ]の 残[のこ]りは 冷蔵庫[れいぞうこ]に 入[い]れておきます。
+  Ich stelle die Essensreste in den Kühlschrank.
+
+  家賃を引いた残りで生活費を賄います。
+  家賃[やちん]を 引[ひ]いた 残[のこ]りで 生活費[せいかつひ]を 賄[まかな]います。
+  Mit dem Rest nach Abzug der Miete bestreite ich die Lebenshaltungskosten.
+
+  冷えた番茶の残りを二人で分けた。
+  冷[ひ]えた 番茶[ばんちゃ]の 残[のこ]りを 二人[ふたり]で 分[わ]けた。
+  Wir teilten den Rest des erkalteten Bantcha-Tees unter uns beiden auf.
+
+  階段の残りをゆっくり降りました。
+  階段[かいだん]の 残[のこ]りをゆっくり 降[お]りました。
+  Ich ging langsam die restlichen Stufen hinunter.
+
+  残りの半分はあなたの分です。
+  残[のこ]りの 半分[はんぶん]はあなたの 分[ぶん]です。
+  Die andere Hälfte ist für dich.
+
+  残りの金額は来月支払います。
+  残[のこ]りの 金額[きんがく]は 来月[らいげつ] 支払[しはら]います。
+  Den Restbetrag werde ich nächsten Monat bezahlen.
+
+  残りの道のりはそれほど長くありません。
+  残[のこ]りの 道[みち]のりはそれほど 長[なが]くありません。
+  Der restliche Weg ist nicht mehr so lang.
+
+  残りの年を有意義に過ごしたいです。
+  残[のこ]りの 年[とし]を 有意義[ゆうぎ]に 過[す]ごしたいです。
+  Ich möchte die verbleibenden Jahre meines Lebens sinnvoll verbringen.
+
+  8から3を引くと残りは5です。
+  8から3を 引[ひ]くと 残[のこ]りは5です。
+  Wenn man 3 von 8 abzieht, bleiben 5 übrig.
+
+  セーターを編んだ残りの毛糸でマフラーを作ろう。
+  セーターを 編[あ]んだ 残[のこ]りの 毛糸[けいと]でマフラーを 作[つく]ろう。
+  Lass uns aus der restlichen Wolle vom Pullover einen Schal stricken.
+
+  残りの6人は山に留まることにしました。
+  残[のこ]りの6人[にん]は 山[やま]に 留[とど]まることにしました。
+  Die übrigen sechs Personen beschlossen, auf dem Berg zu bleiben.
+
+  ビールの残りを一気に飲み干した。
+  ビールの 残[のこ]りを 一気[いっき]に 飲[の]み 干[ほ]した。
+  Ich trank den Rest des Bieres in einem Zug aus.
+
+  負傷者の残りの半数は避難所に移動しました。
+  負傷者[ふしょうしゃ]の 残[のこ]りの 半数[はんすう]は 避難所[ひなんじょ]に 移動[いどう]しました。
+  Die andere Hälfte der Verletzten wurde in Notunterkünfte gebracht.
+
+  試験の残り時間は10分です。
+  試験[しけん]の 残[のこ]り 時間[じかん]は10分[ぷん]です。
+  Die verbleibende Prüfungszeit beträgt 10 Minuten.
+
+  残りのケーキは冷凍庫に入れておきましょう。
+  残[のこ]りのケーキは 冷凍庫[れいとうこ]に 入[い]れておきましょう。
+  Lass uns den restlichen Kuchen in die Tiefkühltruhe stellen.
+
+  残りの仕事は明日に回します。
+  残[のこ]りの 仕事[しごと]は 明日[あした]に 回[まわ]します。
+  Ich werde die restliche Arbeit auf morgen verschieben.
+
+  夏休みの残りを有効に使おう。
+  夏休[なつやす]みの 残[のこ]りを 有効[ゆうこう]に 使[つか]おう。
+  Lass uns den Rest der Sommerferien sinnvoll nutzen.
+
+  残りの人生を後悔のないように生きたい。
+  残[のこ]りの 人生[じんせい]を 後悔[こうかい]のないように 生[い]きたい。
+  Ich möchte den Rest meines Lebens ohne Reue leben.
+
+  残りの食材で何か作ってみましょう。
+  残[のこ]りの 食材[しょくざい]で 何[なに]か 作[つく]ってみましょう。
+  Lass uns versuchen, etwas aus den übrigen Zutaten zu kochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

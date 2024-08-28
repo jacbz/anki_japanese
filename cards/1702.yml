@@ -2,7 +2,7 @@ Rang: 1702
 Lemma: 長さ
 Lesung: ながさ
 Tonhöhen: \..
-Definition: Länge
+Definition: Länge; Dauer
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,87 @@ Konjugation: ''
 Beispielsätze: |-
   その川の長さは367キロメートルだ。
   その 川[かわ]の 長[なが]さは367キロメートルだ。
-  Der Fluss hat eine Länge von 367 Kilometern.
+  Die Länge dieses Flusses beträgt 367 Kilometer.
+
+  六センチの長さのリボンが必要です。
+  六[ろく]センチの 長[なが]さのリボンが 必要[ひつよう]です。
+  Wir benötigen ein Band mit einer Länge von sechs Zentimetern.
+
+  いろいろな長さのリボンを用意しました。
+  いろいろな 長[なが]さのリボンを 用意[ようい]しました。
+  Ich habe Bänder in verschiedenen Längen vorbereitet.
+
+  一日の長さは季節によって変わります。
+  一日[いちにち]の 長[なが]さは 季節[きせつ]によって 変[か]わります。
+  Die Länge eines Tages variiert je nach Jahreszeit.
+
+  このズボンは長さが足りないので、買い替えます。
+  このズボンは 長[なが]さが 足[た]りないので、 買[か]い 替[か]えます。
+  Diese Hose ist nicht lang genug, also werde ich eine neue kaufen.
+
+  新しい棚の長さを決める必要があります。
+  新[あたら]しい 棚[たな]の 長[なが]さを 決[き]める 必要[ひつよう]があります。
+  Wir müssen die Länge des neuen Regals festlegen.
+
+  正確な測定のために、物の長さを測ります。
+  正確[せいかく]な 測定[そくてい]のために、物[もの]の 長[なが]さを 測[はか]ります。
+  Für eine genaue Messung messen wir die Länge des Objekts.
+
+  紐を同じ長さに切って、ラッピングに使います。
+  紐[ひも]を 同[おな]じ 長[なが]さに 切[き]って、ラッピングに 使[つか]います。
+  Ich schneide die Schnüre auf die gleiche Länge und verwende sie zum Verpacken.
+
+  この五角形は、どの辺の長さも1センチメートルだ。
+  この 五角形[ごかっけい]は、どの 辺[へん]の 長[なが]さも1センチメートルだ。
+  Jede Seite dieses Fünfecks hat eine Länge von einem Zentimeter.
+
+  彼の鼻の長さは、驚くほど長かった。
+  彼[かれ]の 鼻[はな]の 長[なが]さは、驚[おどろ]くほど 長[なが]かった。
+  Die Länge seiner Nase war erstaunlich groß.
+
+  ガレオン船の長さと幅の比率を計算しました。
+  ガレオン 船[せん]の 長[なが]さと 幅[はば]の 比率[ひりつ]を 計算[けいさん]しました。
+  Ich habe das Verhältnis von Länge zu Breite der Galeone berechnet.
+
+  ライターの炎の長さを調節して、適切な火力を得ました。
+  ライターの 炎[ほのお]の 長[なが]さを 調節[ちょうせつ]して、適切[てきせつ]な 火力[かりょく]を 得[え]ました。
+  Ich habe die Länge der Feuerzeugflamme eingestellt, um die richtige Hitze zu erhalten.
+
+  髪の長さについて美容師さんと相談しました。
+  髪[かみ]の 長[なが]さについて 美容師[びようし]さんと 相談[そうだん]しました。
+  Ich habe mich mit dem Friseur über die Länge meiner Haare beraten.
+
+  このマラソンコースの総長さは42.195キロメートルです。
+  このマラソンコースの 総[そう]長[なが]さは42.195キロメートルです。
+  Die Gesamtlänge dieser Marathonstrecke beträgt 42,195 Kilometer.
+
+  スカートの長さを調整して、ちょうどよいバランスにしました。
+  スカートの 長[なが]さを 調整[ちょうせい]して、ちょうどよいバランスにしました。
+  Ich habe die Länge des Rocks angepasst, um die richtige Balance zu erzielen.
+
+  部屋の長さを測って、新しいカーペットのサイズを決めます。
+  部屋[へや]の 長[なが]さを 測[はか]って、新[あたら]しいカーペットのサイズを 決[き]めます。
+  Ich messe die Länge des Zimmers, um die Größe des neuen Teppichs zu bestimmen.
+
+  映画の長さは2時間30分です。
+  映画[えいが]の 長[なが]さは2 時間[じかん]30 分[ふん]です。
+  Die Länge des Films beträgt 2 Stunden und 30 Minuten.
+
+  この本の長さは約300ページです。
+  この 本[ほん]の 長[なが]さは 約[やく]300ページです。
+  Dieses Buch hat eine Länge von etwa 300 Seiten.
+
+  電車の長さによって、ホームでの停車位置が決まります。
+  電車[でんしゃ]の 長[なが]さによって、ホームでの 停車[ていしゃ] 位置[いち]が 決[き]まります。
+  Die Haltposition auf dem Bahnsteig wird durch die Länge des Zuges bestimmt.
+
+  波の長さを測定して、海の状態を予測します。
+  波[なみ]の 長[なが]さを 測定[そくてい]して、海[うみ]の 状態[じょうたい]を 予測[よそく]します。
+  Wir messen die Wellenlänge, um den Zustand des Meeres vorherzusagen.
+
+  文章の長さを調整して、読みやすさを向上させました。
+  文章[ぶんしょう]の 長[なが]さを 調整[ちょうせい]して、読[よ]みやすさを 向上[こうじょう]させました。
+  Ich habe die Länge des Textes angepasst, um die Lesbarkeit zu verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

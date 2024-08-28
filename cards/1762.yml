@@ -2,7 +2,7 @@ Rang: 1762
 Lemma: 勢い
 Lesung: いきおい
 Tonhöhen: .^\.
-Definition: Geschwindigkeit; Kraft; Energie
+Definition: Kraft, Schwung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, adv
@@ -17,9 +17,95 @@ Beispielsätze: |-
   その 会社[かいしゃ]はすごい 勢[いきお]いで 成長[せいちょう]している。
   Das Unternehmen wächst mit großer Geschwindigkeit.
 
+  彼は勢いよく階段を駆け上がった。
+  彼[かれ]は 勢[いきお]いよく 階段[かいだん]を 駆[か]け 上[あ]がった。
+  Er rannte energisch die Treppe hinauf.
+
+  風の勢いで傘が裏返ってしまった。
+  風[かぜ]の 勢[いきお]いで 傘[かさ]が 裏返[うらがえ]ってしまった。
+  Die Kraft des Windes hat meinen Regenschirm umgestülpt.
+
+  勢いのある若者たちが新しいプロジェクトを立ち上げた。
+  勢[いきお]いのある 若者[わかもの]たちが 新[あたら]しいプロジェクトを 立[た]ち 上[あ]げた。
+  Energiegeladene junge Leute haben ein neues Projekt gestartet.
+
+  経済の勢いが衰えてきている。
+  経済[けいざい]の 勢[いきお]いが 衰[おとろ]えてきている。
+  Die Kraft der Wirtschaft lässt nach.
+
+  彼女は勢いをつけて高跳びに挑戦した。
+  彼女[かのじょ]は 勢[いきお]いをつけて 高跳[たかと]びに 挑戦[ちょうせん]した。
+  Sie nahm Schwung und wagte den Hochsprung.
+
+  政治家は自分の勢いを維持しようと必死だった。
+  政治家[せいじか]は 自分[じぶん]の 勢[いきお]いを 維持[いじ]しようと 必死[ひっし]だった。
+  Der Politiker war verzweifelt bemüht, seinen Einfluss zu erhalten.
+
+  チームは勢いよく試合に臨んだ。
+  チームは 勢[いきお]いよく 試合[しあい]に 臨[のぞ]んだ。
+  Das Team ging mit vollem Elan in das Spiel.
+
+  彼の話には説得力のある勢いがあった。
+  彼[かれ]の 話[はなし]には 説得力[せっとくりょく]のある 勢[いきお]いがあった。
+  Seine Rede hatte eine überzeugende Kraft.
+
+  勢いのない声で返事をした。
+  勢[いきお]いのない 声[こえ]で 返事[へんじ]をした。
+  Er antwortete mit kraftloser Stimme.
+
+  彼らは勢いよく新事業に取り組んでいる。
+  彼[かれ]らは 勢[いきお]いよく 新[しん]事業[じぎょう]に 取[と]り 組[く]んでいる。
+  Sie gehen mit großer Energie an das neue Geschäft heran.
+
+  波の勢いで岩が削られていく。
+  波[なみ]の 勢[いきお]いで 岩[いわ]が 削[けず]られていく。
+  Die Kraft der Wellen erodiert die Felsen.
+
+  勢いをつけて扉を押し開けた。
+  勢[いきお]いをつけて 扉[とびら]を 押[お]し 開[あ]けた。
+  Mit Schwung stieß ich die Tür auf.
+
+  勢いよく噴水が水を吹き上げている。
+  勢[いきお]いよく 噴水[ふんすい]が 水[みず]を 吹[ふ]き 上[あ]げている。
+  Der Springbrunnen spritzt das Wasser mit Kraft nach oben.
+
+  彼女は勢いのある筆跡で手紙を書いた。
+  彼女[かのじょ]は 勢[いきお]いのある 筆跡[ひっせき]で 手紙[てがみ]を 書[か]いた。
+  Sie schrieb den Brief mit schwungvoller Handschrift.
+
+  勢いに任せて言ってしまったことを後悔している。
+  勢[いきお]いに 任[まか]せて 言[い]ってしまったことを 後悔[こうかい]している。
+  Ich bereue, was ich im Eifer des Gefechts gesagt habe.
+
+  彼は勢いよく食事を平らげた。
+  彼[かれ]は 勢[いきお]いよく 食事[しょくじ]を 平[たい]らげた。
+  Er aß seine Mahlzeit mit großem Appetit auf.
+
+  勢いのある音楽が会場全体に響き渡った。
+  勢[いきお]いのある 音楽[おんがく]が 会場[かいじょう] 全体[ぜんたい]に 響[ひび]き 渡[わた]った。
+  Die kraftvolle Musik hallte durch den ganzen Saal.
+
+  彼女は勢いよく手を挙げて質問した。
+  彼女[かのじょ]は 勢[いきお]いよく 手[て]を 挙[あ]げて 質問[しつもん]した。
+  Sie hob energisch die Hand und stellte eine Frage.
+
+  勢いのある演説で聴衆を魅了した。
+  勢[いきお]いのある 演説[えんぜつ]で 聴衆[ちょうしゅう]を 魅了[みりょう]した。
+  Er fesselte das Publikum mit seiner kraftvollen Rede.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Als Adverb bedeutet 勢い: zwangsläufig, unvermeidlich, natürlich(erweise), selbstverständlich.</p>
+  <div class="examples">
+    <div class="jp">自然[しぜん]の 勢[いきお]いで、事態[じたい]は 悪化[あっか]した。</div>
+    <div class="de spoiler">Naturgemäß verschlechterte sich die Situation.</div>
+  </div>
+  <p>勢いに乗じる bedeutet "mit dem Strom schwimmen" oder "sich etwas zunutze machen".</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 市場[しじょう]の 勢[いきお]いに 乗[じょう]じて 投資[とうし]を 始[はじ]めた。</div>
+    <div class="de spoiler">Er begann zu investieren, indem er den Markttrend ausnutzte.</div>
+  </div>

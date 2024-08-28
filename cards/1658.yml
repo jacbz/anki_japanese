@@ -2,8 +2,8 @@ Rang: 1658
 Lemma: いかが
 Lesung: ''
 Tonhöhen: .\.
-Definition: wie
-Alternativschreibweisen: ''
+Definition: wie; wie wäre es mit
+Alternativschreibweisen: 如何
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Register: ''
@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   コーヒーはいかがですか。
-  コーヒーは 如何[いかが]ですか。
-  Möchten Sie etwas Kaffee trinken?
+  コーヒーはいかがですか。
+  Möchten Sie einen Kaffee?
+
+  映画の感想はいかがでしたか。
+  映画[えいが]の 感想[かんそう]はいかがでしたか。
+  Wie fanden Sie den Film?
+
+  今日の天気はいかがですか。
+  今日[きょう]の 天気[てんき]はいかがですか。
+  Wie ist das Wetter heute?
+
+  新しい仕事の調子はいかがですか。
+  新[あたら]しい 仕事[しごと]の 調子[ちょうし]はいかがですか。
+  Wie läuft es mit der neuen Arbeit?
+
+  このレストランの料理はいかがでしたか。
+  このレストランの 料理[りょうり]はいかがでしたか。
+  Wie war das Essen in diesem Restaurant?
+
+  会議の日程はいかがいたしましょうか。
+  会議[かいぎ]の 日程[にってい]はいかがいたしましょうか。
+  Wie sollen wir den Termin für die Besprechung festlegen?
+
+  お体の具合はいかがですか。
+  お 体[からだ]の 具合[ぐあい]はいかがですか。
+  Wie geht es Ihnen gesundheitlich?
+
+  新しいシステムの使い心地はいかがですか。
+  新[あたら]しいシステムの 使[つか]い 心地[ごこち]はいかがですか。
+  Wie finden Sie die Bedienung des neuen Systems?
+
+  この提案についてはいかがお考えですか。
+  この 提案[ていあん]についてはいかがお 考[かんが]えですか。
+  Was halten Sie von diesem Vorschlag?
+
+  週末の予定はいかがですか。
+  週末[しゅうまつ]の 予定[よてい]はいかがですか。
+  Was haben Sie am Wochenende vor?
+
+  この本の内容はいかがでしたか。
+  この 本[ほん]の 内容[ないよう]はいかがでしたか。
+  Wie fanden Sie den Inhalt dieses Buches?
+
+  お茶はいかがですか。
+  お 茶[ちゃ]はいかがですか。
+  Möchten Sie etwas Tee?
+
+  新しい同僚の印象はいかがですか。
+  新[あたら]しい 同僚[どうりょう]の 印象[いんしょう]はいかがですか。
+  Welchen Eindruck haben Sie von dem neuen Kollegen?
+
+  この案件の進捗状況はいかがでしょうか。
+  この 案件[あんけん]の 進捗状況[しんちょくじょうきょう]はいかがでしょうか。
+  Wie ist der Fortschritt in dieser Angelegenheit?
+
+  ホテルの宿泊はいかがでしたか。
+  ホテルの 宿泊[しゅくはく]はいかがでしたか。
+  Wie war Ihr Aufenthalt im Hotel?
+
+  今日の気分はいかがですか。
+  今日[きょう]の 気分[きぶん]はいかがですか。
+  Wie fühlen Sie sich heute?
+
+  この商品の品質はいかがでしょうか。
+  この 商品[しょうひん]の 品質[ひんしつ]はいかがでしょうか。
+  Wie beurteilen Sie die Qualität dieses Produkts?
+
+  明日の会議出席はいかがなさいますか。
+  明日[あした]の 会議[かいぎ] 出席[しゅっせき]はいかがなさいますか。
+  Wie steht es mit Ihrer Teilnahme an der morgigen Besprechung?
+
+  新しい髪型はいかがですか。
+  新[あたら]しい 髪型[かみがた]はいかがですか。
+  Wie gefällt dir deine neue Frisur?
+
+  この問題の解決策はいかがお考えですか。
+  この 問題[もんだい]の 解決策[かいけつさく]はいかがお 考[かんが]えですか。
+  Was denken Sie über die Lösung für dieses Problem?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">いかが</span> wird oft in höflichen Fragen oder Vorschlägen verwendet. Es kann je nach Kontext verschiedene Bedeutungen haben:</p>
+  <ul>
+    <li>Eine höfliche Nachfrage nach dem Zustand oder der Meinung einer Person</li>
+    <li>Ein höflicher Vorschlag oder ein Angebot</li>
+    <li>Eine höfliche Art, nach der Präferenz oder dem Wunsch einer Person zu fragen</li>
+  </ul>
+  <div class="examples">
+    <div class="jp">お 茶[ちゃ]はいかがですか。</div>
+    <div class="de spoiler">Möchten Sie etwas Tee?</div>
+  </div>
+  <div class="examples">
+    <div class="jp">新[あたら]しい 仕事[しごと]の 調子[ちょうし]はいかがですか。</div>
+    <div class="de spoiler">Wie läuft es mit der neuen Arbeit?</div>
+  </div>
+  <p>Es wird oft mit です oder ですか am Ende des Satzes verwendet, um die Höflichkeit zu verstärken.</p>

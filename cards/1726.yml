@@ -2,20 +2,96 @@ Rang: 1726
 Lemma: 実行
 Lesung: じっこう
 Tonhöhen: .^^^
-Definition: ausführen; durchführen
+Definition: ausführen, durchführen; Durchführung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 実行しない・実行した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼らは計画を実行した。
   彼[かれ]らは 計画[けいかく]を 実行[じっこう]した。
-  Sie führten den Plan durch.
+  Sie führten den Plan aus.
+
+  新しいプロジェクトの実行委員会が結成された。
+  新[あたら]しいプロジェクトの 実行委員会[じっこういいんかい]が 結成[けっせい]された。
+  Ein Exekutivausschuss für das neue Projekt wurde gebildet.
+
+  彼女は言葉だけでなく、実行力のある人だ。
+  彼女[かのじょ]は 言葉[ことば]だけでなく、実行力[じっこうりょく]のある 人[ひと]だ。
+  Sie ist jemand, der nicht nur redet, sondern auch Tatkraft besitzt.
+
+  この計画は実行可能だと思います。
+  この 計画[けいかく]は 実行可能[じっこうかのう]だと 思[おも]います。
+  Ich denke, dieser Plan ist durchführbar.
+
+  彼は犯罪の実行に着手する直前で逮捕された。
+  彼[かれ]は 犯罪[はんざい]の 実行[じっこう]に 着手[ちゃくしゅ]する 直前[ちょくぜん]で 逮捕[たいほ]された。
+  Er wurde kurz vor der Ausführung des Verbrechens verhaftet.
+
+  アイデアを実行に移すには資金が必要だ。
+  アイデアを 実行[じっこう]に 移[うつ]すには 資金[しきん]が 必要[ひつよう]だ。
+  Um die Idee in die Tat umzusetzen, brauchen wir finanzielle Mittel.
+
+  政府は新しい政策を実行すると発表した。
+  政府[せいふ]は 新[あたら]しい 政策[せいさく]を 実行[じっこう]すると 発表[はっぴょう]した。
+  Die Regierung kündigte an, eine neue Politik umzusetzen.
+
+  実行上の問題点を洗い出す必要がある。
+  実行上[じっこうじょう]の 問題点[もんだいてん]を 洗[あら]い 出[だ]す 必要[ひつよう]がある。
+  Wir müssen die praktischen Probleme bei der Umsetzung identifizieren.
+
+  彼は約束を実行しなかった。
+  彼[かれ]は 約束[やくそく]を 実行[じっこう]しなかった。
+  Er hat sein Versprechen nicht eingehalten.
+
+  この企画を実行するには時間がかかるだろう。
+  この 企画[きかく]を 実行[じっこう]するには 時間[じかん]がかかるだろう。
+  Es wird wahrscheinlich Zeit brauchen, dieses Projekt umzusetzen.
+
+  彼女は考えを即座に実行に移した。
+  彼女[かのじょ]は 考[かんが]えを 即座[そくざ]に 実行[じっこう]に 移[うつ]した。
+  Sie setzte ihre Idee sofort in die Tat um.
+
+  実行者を特定するのは難しいかもしれない。
+  実行者[じっこうしゃ]を 特定[とくてい]するのは 難[むずか]しいかもしれない。
+  Es könnte schwierig sein, den Täter zu identifizieren.
+
+  不言実行が大切だと思います。
+  不言実行[ふげんじっこう]が 大切[たいせつ]だと 思[おも]います。
+  Ich denke, es ist wichtig, ohne viele Worte zu handeln.
+
+  このプロジェクトは共同実行で行われます。
+  このプロジェクトは 共同実行[きょうどうじっこう]で 行[おこな]われます。
+  Dieses Projekt wird in gemeinsamer Durchführung realisiert.
+
+  実行に移す前に、もう一度計画を確認しましょう。
+  実行[じっこう]に 移[うつ]す 前[まえ]に、もう 一度[いちど] 計画[けいかく]を 確認[かくにん]しましょう。
+  Lasst uns den Plan noch einmal überprüfen, bevor wir ihn umsetzen.
+
+  彼は実行主義者として知られている。
+  彼[かれ]は 実行主義者[じっこうしゅぎしゃ]として 知[し]られている。
+  Er ist als Aktivist bekannt.
+
+  実行予算が承認されました。
+  実行予算[じっこうよさん]が 承認[しょうにん]されました。
+  Der Arbeitsetat wurde genehmigt.
+
+  命令を実行することを拒否した。
+  命令[めいれい]を 実行[じっこう]することを 拒否[きょひ]した。
+  Er weigerte sich, den Befehl auszuführen.
+
+  学んだことを実行に移すのは難しいことがある。
+  学[まな]んだことを 実行[じっこう]に 移[うつ]すのは 難[むずか]しいことがある。
+  Es kann schwierig sein, das Gelernte in die Praxis umzusetzen.
+
+  契約を実行する義務があります。
+  契約[けいやく]を 実行[じっこう]する 義務[ぎむ]があります。
+  Wir haben die Pflicht, den Vertrag zu erfüllen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

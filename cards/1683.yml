@@ -2,20 +2,96 @@ Rang: 1683
 Lemma: 並べる
 Lesung: ならべる
 Tonhöhen: .^^^
-Definition: anordnen; aufreihen; aufzählen
+Definition: (nebeneinander) aufstellen, anordnen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 並べない・並べた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は本を色別に並べた。
-  私[わたし]は 本[ほん]を 色[いろ] 別[べつ]に 並[なら]べた。
-  Ich habe meine Bücher nach Farben sortiert.
+  私[わたし]は 本[ほん]を 色別[いろべつ]に 並[なら]べた。
+  Ich habe die Bücher nach Farben sortiert.
+
+  アルファベット順に名簿を並べてください。
+  アルファベット 順[じゅん]に 名簿[めいぼ]を 並[なら]べてください。
+  Bitte ordnen Sie die Namensliste alphabetisch.
+
+  子供たちは一列に並んで写真を撮った。
+  子供[こども]たちは 一列[いちれつ]に 並[なら]んで 写真[しゃしん]を 撮[と]った。
+  Die Kinder stellten sich in einer Reihe auf und ließen sich fotografieren.
+
+  新商品をウインドーに並べて、お客様の注目を集めた。
+  新商品[しんしょうひん]をウインドーに 並[なら]べて、お 客様[きゃくさま]の 注目[ちゅうもく]を 集[あつ]めた。
+  Wir haben die neuen Produkte im Schaufenster ausgestellt und die Aufmerksamkeit der Kunden auf uns gezogen.
+
+  彼女は手際よく食器を食器棚に並べた。
+  彼女[かのじょ]は 手際[てぎわ]よく 食器[しょっき]を 食器棚[しょっきだな]に 並[なら]べた。
+  Sie stellte das Geschirr geschickt in den Schrank.
+
+  机を並べて、大きな作業スペースを作りました。
+  机[つくえ]を 並[なら]べて、大[おお]きな 作業[さぎょう]スペースを 作[つく]りました。
+  Wir haben die Tische zusammengestellt und einen großen Arbeitsbereich geschaffen.
+
+  彼は自分の欠点を並べて自己分析した。
+  彼[かれ]は 自分[じぶん]の 欠点[けってん]を 並[なら]べて 自己分析[じこぶんせき]した。
+  Er analysierte sich selbst, indem er seine Schwächen auflistete.
+
+  裁判で弁護士は証拠を次々と並べた。
+  裁判[さいばん]で 弁護士[べんごし]は 証拠[しょうこ]を 次々[つぎつぎ]と 並[なら]べた。
+  Vor Gericht führte der Anwalt einen Beweis nach dem anderen an.
+
+  彼女は苦情を並べ立てて、店員を困らせた。
+  彼女[かのじょ]は 苦情[くじょう]を 並[なら]べ 立[た]てて、店員[てんいん]を 困[こま]らせた。
+  Sie brachte eine Beschwerde nach der anderen vor und brachte den Verkäufer in Verlegenheit.
+
+  果物を色とりどりに並べて、美しい盛り合わせを作った。
+  果物[くだもの]を 色[いろ]とりどりに 並[なら]べて、美[うつく]しい 盛[も]り 合[あ]わせを 作[つく]った。
+  Ich habe die Früchte in verschiedenen Farben angeordnet und eine schöne Obstplatte zusammengestellt.
+
+  首を並べて寝ている猫たちを見て、思わず笑顔になった。
+  首[くび]を 並[なら]べて 寝[ね]ている 猫[ねこ]たちを 見[み]て、思[おも]わず 笑顔[えがお]になった。
+  Als ich die Katzen sah, die Kopf an Kopf schliefen, musste ich unwillkürlich lächeln.
+
+  彼は自分の業績を並べて、昇進を願い出た。
+  彼[かれ]は 自分[じぶん]の 業績[ぎょうせき]を 並[なら]べて、昇進[しょうしん]を 願[ねが]い 出[で]た。
+  Er zählte seine Leistungen auf und bat um eine Beförderung.
+
+  子供たちは砂浜に貝殻を並べて遊んでいた。
+  子供[こども]たちは 砂浜[すなはま]に 貝殻[かいがら]を 並[なら]べて 遊[あそ]んでいた。
+  Die Kinder spielten am Strand, indem sie Muscheln in Reihen legten.
+
+  このレストランでは、テーブルを並べて大人数での宴会も可能です。
+  このレストランでは、テーブルを 並[なら]べて 大人数[おおにんずう]での 宴会[えんかい]も 可能[かのう]です。
+  In diesem Restaurant können wir die Tische zusammenstellen, um auch große Gruppen zu bewirten.
+
+  彼女は花瓶に花を美しく並べる才能がある。
+  彼女[かのじょ]は 花瓶[かびん]に 花[はな]を 美[うつく]しく 並[なら]べる 才能[さいのう]がある。
+  Sie hat ein Talent dafür, Blumen in Vasen schön zu arrangieren.
+
+  本棚に本を並べるとき、著者名順にするか題名順にするか迷う。
+  本棚[ほんだな]に 本[ほん]を 並[なら]べるとき、著者名[ちょしゃめい] 順[じゅん]にするか 題名[だいめい] 順[じゅん]にするか 迷[まよ]う。
+  Wenn ich Bücher ins Regal stelle, bin ich unschlüssig, ob ich sie nach Autoren oder Titeln sortieren soll.
+
+  彼は自分の意見を論理的に並べて、聴衆を納得させた。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 論理的[ろんりてき]に 並[なら]べて、聴衆[ちょうしゅう]を 納得[なっとく]させた。
+  Er präsentierte seine Argumente logisch und überzeugte das Publikum.
+
+  展示会では、各社の新製品が並べられていた。
+  展示会[てんじかい]では、各社[かくしゃ]の 新製品[しんせいひん]が 並[なら]べられていた。
+  Auf der Messe waren die neuen Produkte der verschiedenen Unternehmen ausgestellt.
+
+  彼女は部屋の壁に写真を並べて、思い出の空間を作った。
+  彼女[かのじょ]は 部屋[へや]の 壁[かべ]に 写真[しゃしん]を 並[なら]べて、思[おも]い 出[で]の 空間[くうかん]を 作[つく]った。
+  Sie hängte Fotos an die Wände ihres Zimmers und schuf einen Raum voller Erinnerungen.
+
+  彼らは机を並べて、グループワークの準備をした。
+  彼[かれ]らは 机[つくえ]を 並[なら]べて、グループワークの 準備[じゅんび]をした。
+  Sie stellten die Tische zusammen und bereiteten sich auf die Gruppenarbeit vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

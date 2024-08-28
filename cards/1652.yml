@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   チケットは本日九時から販売いたします。
-  チケットは 本日[ほんじつ] 九時[くじ]から 販売[はんばい]いたします。
-  Die Tickets werden heute um 9 Uhr verkauft.
+  チケットは 本日[ほんじつ]九時[くじ]から 販売[はんばい]いたします。
+  Ab heute 9 Uhr beginnt der Ticketverkauf.
+
+  新商品の販売部長に就任しました。
+  新商品[しんしょうひん]の 販売部長[はんばいぶちょう]に 就任[しゅうにん]しました。
+  Ich wurde zum Vertriebsleiter für das neue Produkt ernannt.
+
+  今月の販売高が前月を上回りました。
+  今月[こんげつ]の 販売高[はんばいだか]が 前月[ぜんげつ]を 上回[うわまわ]りました。
+  Das Verkaufsvolumen dieses Monats hat das des Vormonats übertroffen.
+
+  販売費を削減するため、オンライン販売に力を入れています。
+  販売費[はんばいひ]を 削減[さくげん]するため、オンライン 販売[はんばい]に 力[ちから]を 入[い]れています。
+  Um die Vertriebskosten zu senken, konzentrieren wir uns auf den Online-Verkauf.
+
+  この商品の販売権は当社が独占しています。
+  この 商品[しょうひん]の 販売権[はんばいけん]は 当社[とうしゃ]が 独占[どくせん]しています。
+  Unsere Firma hat die exklusiven Vertriebsrechte für dieses Produkt.
+
+  新しい販売戦略を立てる必要があります。
+  新[あたら]しい 販売戦略[はんばいせんりゃく]を 立[た]てる 必要[ひつよう]があります。
+  Wir müssen eine neue Vertriebsstrategie entwickeln.
+
+  駅前に自動販売機を設置しました。
+  駅前[えきまえ]に 自動販売機[じどうはんばいき]を 設置[せっち]しました。
+  Vor dem Bahnhof haben wir einen Verkaufsautomaten aufgestellt.
+
+  この地域での販売網を拡大しています。
+  この 地域[ちいき]での 販売網[はんばいもう]を 拡大[かくだい]しています。
+  Wir erweitern unser Vertriebsnetz in dieser Region.
+
+  販売促進のためにキャンペーンを実施します。
+  販売促進[はんばいそくしん]のためにキャンペーンを 実施[じっし]します。
+  Zur Verkaufsförderung führen wir eine Kampagne durch.
+
+  新製品の販売予測を立てています。
+  新製品[しんせいひん]の 販売予測[はんばいよそく]を 立[た]てています。
+  Wir erstellen eine Verkaufsprognose für das neue Produkt.
+
+  直接販売方式を採用することにしました。
+  直接販売[ちょくせつはんばい]方式[ほうしき]を 採用[さいよう]することにしました。
+  Wir haben beschlossen, ein Direktvertriebssystem einzuführen.
+
+  委託販売で在庫リスクを軽減できます。
+  委託販売[いたくはんばい]で 在庫[ざいこ]リスクを 軽減[けいげん]できます。
+  Durch Kommissionsverkauf können wir das Lagerrisiko reduzieren.
+
+  特価販売で在庫を一掃しました。
+  特価販売[とっかはんばい]で 在庫[ざいこ]を 一掃[いっそう]しました。
+  Durch einen Sonderverkauf haben wir den Lagerbestand ausverkauft.
+
+  予約販売で人気商品の確保ができます。
+  予約販売[よやくはんばい]で 人気商品[にんきしょうひん]の 確保[かくほ]ができます。
+  Durch Vorbestellungen können beliebte Artikel gesichert werden.
+
+  現在販売中の商品は全て新モデルです。
+  現在[げんざい]販売中[はんばいちゅう]の 商品[しょうひん]は 全[すべ]て 新[しん]モデルです。
+  Alle derzeit verkauften Produkte sind neue Modelle.
+
+  この商品の販売は一時中止となっています。
+  この 商品[しょうひん]の 販売[はんばい]は 一時中止[いちじちゅうし]となっています。
+  Der Verkauf dieses Produkts ist vorübergehend eingestellt.
+
+  販売の落ち込みを回復させるため、新しい市場を開拓しています。
+  販売[はんばい]の 落[お]ち 込[こ]みを 回復[かいふく]させるため、新[あたら]しい 市場[しじょう]を 開拓[かいたく]しています。
+  Um den Absatzrückgang auszugleichen, erschließen wir neue Märkte.
+
+  インターネットで販売することで、経費を抑えられます。
+  インターネットで 販売[はんばい]することで、経費[けいひ]を 抑[おさ]えられます。
+  Durch den Verkauf über das Internet können wir die Kosten senken.
+
+  この雑誌は一般販売されていません。
+  この 雑誌[ざっし]は 一般販売[いっぱんはんばい]されていません。
+  Diese Zeitschrift ist nicht im freien Verkauf erhältlich.
+
+  販売管理システムを導入して業務効率を上げました。
+  販売管理[はんばいかんり]システムを 導入[どうにゅう]して 業務効率[ぎょうむこうりつ]を 上[あ]げました。
+  Wir haben ein Vertriebsmanagementsystem eingeführt und dadurch die Arbeitseffizienz gesteigert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

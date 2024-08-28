@@ -2,20 +2,96 @@ Rang: 1690
 Lemma: 目立つ
 Lesung: めだつ
 Tonhöhen: .\.
-Definition: hervorstechen, auffallen
+Definition: auffallen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 目立たない・目立った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ポスターは目立つ場所に貼らなければならない。
   ポスターは 目立[めだ]つ 場所[ばしょ]に 貼[は]らなければならない。
-  Das Plakat muss an einem auffälligen Ort angebracht werden.
+  Das Poster muss an einer auffälligen Stelle angebracht werden.
+
+  彼女は目立つ服装で皆の注目を集めた。
+  彼女[かのじょ]は 目立[めだ]つ 服装[ふくそう]で 皆[みな]の 注目[ちゅうもく]を 集[あつ]めた。
+  Sie zog mit ihrer auffälligen Kleidung die Aufmerksamkeit aller auf sich.
+
+  この看板は色が鮮やかで目立つね。
+  この 看板[かんばん]は 色[いろ]が 鮮[あざ]やかで 目立[めだ]つね。
+  Dieses Schild fällt wegen seiner leuchtenden Farben auf.
+
+  最近、若者の間でこの傾向が目立つようになってきた。
+  最近[さいきん]、若者[わかもの]の 間[あいだ]でこの 傾向[けいこう]が 目立[めだ]つようになってきた。
+  In letzter Zeit ist diese Tendenz unter jungen Leuten immer auffälliger geworden.
+
+  新しい建物は周囲の環境と比べてとても目立つ。
+  新[あたら]しい 建物[たてもの]は 周囲[しゅうい]の 環境[かんきょう]と 比[くら]べてとても 目立[めだ]つ。
+  Das neue Gebäude sticht im Vergleich zur Umgebung sehr hervor.
+
+  彼の演技は他の俳優より目立っていた。
+  彼[かれ]の 演技[えんぎ]は 他[ほか]の 俳優[はいゆう]より 目立[めだ]っていた。
+  Seine Darstellung fiel im Vergleich zu den anderen Schauspielern auf.
+
+  このデザインは斬新で目立つけど、使いやすいかな？
+  このデザインは 斬新[ざんしん]で 目立[めだ]つけど、使[つか]いやすいかな？
+  Dieses Design ist innovativ und auffällig, aber ob es praktisch ist?
+
+  彼女は目立たない存在だが、仕事は非常に優秀だ。
+  彼女[かのじょ]は 目立[めだ]たない 存在[そんざい]だが、仕事[しごと]は 非常[ひじょう]に 優秀[ゆうしゅう]だ。
+  Sie ist zwar eine unauffällige Person, aber ihre Arbeit ist hervorragend.
+
+  山田さんは目立たないように会議室を出て行った。
+  山田[やまだ]さんは 目立[めだ]たないように 会議室[かいぎしつ]を 出[で]て 行[い]った。
+  Herr Yamada verließ den Konferenzraum, ohne Aufmerksamkeit zu erregen.
+
+  この靴は目立たない色なので、どんな服装にも合わせやすい。
+  この 靴[くつ]は 目立[めだ]たない 色[いろ]なので、どんな 服装[ふくそう]にも 合[あ]わせやすい。
+  Diese Schuhe haben eine unauffällige Farbe, sodass sie zu jeder Kleidung passen.
+
+  彼の額のニキビの跡が目立つね。
+  彼[かれ]の 額[ひたい]のニキビの 跡[あと]が 目立[めだ]つね。
+  Die Aknenarben auf seiner Stirn fallen auf, nicht wahr?
+
+  目立つ特徴がないので、犯人の特定が難しい。
+  目立[めだ]つ 特徴[とくちょう]がないので、犯人[はんにん]の 特定[とくてい]が 難[むずか]しい。
+  Da es keine auffälligen Merkmale gibt, ist es schwierig, den Täter zu identifizieren.
+
+  彼女の歩き方は少し特徴があって目立つ。
+  彼女[かのじょ]の 歩[ある]き 方[かた]は 少[すこ]し 特徴[とくちょう]があって 目立[めだ]つ。
+  Ihre Gangart hat etwas Charakteristisches und fällt auf.
+
+  このデザインは目立ちすぎて、かえって使いにくいかもしれない。
+  このデザインは 目立[めだ]ちすぎて、かえって 使[つか]いにくいかもしれない。
+  Dieses Design könnte zu auffällig sein und dadurch unpraktisch werden.
+
+  彼は目立つことを好まない性格だ。
+  彼[かれ]は 目立[めだ]つことを 好[この]まない 性格[せいかく]だ。
+  Er hat einen Charakter, der es nicht mag aufzufallen.
+
+  この広告は目立つデザインで、多くの人の目を引いている。
+  この 広告[こうこく]は 目立[めだ]つデザインで、多[おお]くの 人[ひと]の 目[め]を 引[ひ]いている。
+  Diese Werbung hat ein auffallendes Design und zieht die Aufmerksamkeit vieler Menschen auf sich.
+
+  彼女の才能は若いころから目立っていた。
+  彼女[かのじょ]の 才能[さいのう]は 若[わか]いころから 目立[めだ]っていた。
+  Ihr Talent fiel schon in jungen Jahren auf.
+
+  この絵画展では、特に彼の作品が目立っていた。
+  この 絵画展[かいがてん]では、特[とく]に 彼[かれ]の 作品[さくひん]が 目立[めだ]っていた。
+  Bei dieser Kunstausstellung fielen besonders seine Werke auf.
+
+  目立つ行動は控えめにしましょう。
+  目立[めだ]つ 行動[こうどう]は 控[ひか]えめにしましょう。
+  Lasst uns auffälliges Verhalten vermeiden.
+
+  この文章の誤字脱字が目立つので、もう一度確認してください。
+  この 文章[ぶんしょう]の 誤字脱字[ごじだっじ]が 目立[めだ]つので、もう 一度[いちど] 確認[かくにん]してください。
+  Die Schreib- und Auslassungsfehler in diesem Text fallen auf, bitte überprüfen Sie ihn noch einmal.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

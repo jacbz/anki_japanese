@@ -2,8 +2,8 @@ Rang: 1736
 Lemma: ともかく
 Lesung: ''
 Tonhöhen: \...
-Definition: auf jeden Fall, sowieso
-Alternativschreibweisen: ''
+Definition: wie auch immer; jedenfalls
+Alternativschreibweisen: 兎も角
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Register: ''
@@ -14,12 +14,93 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   できるかどうかわからないけど、ともかくやってみます。
-  出来[でき]るかどうか 分[わ]からないけど、ともかくやってみます。
-  Ich weiß nicht, ob ich es kann, aber ich werde es auf jeden Fall versuchen.
+  できるかどうかわからないけど、ともかくやってみます。
+  Ich weiß nicht, ob ich es kann, aber ich werde es jedenfalls versuchen.
+
+  ともかく人里離れた場所で、見渡す限り人家もない。
+  ともかく 人里離[ひとざとはな]れた 場所[ばしょ]で、見渡[みわた]す 限[かぎ]り 人家[じんか]もない。
+  Der Ort ist jedenfalls vollkommen entlegen, kein anderes Haus, soweit das Auge reicht.
+
+  結果はともかく、全力を尽くしましょう。
+  結果[けっか]はともかく、全力[ぜんりょく]を 尽[つ]くしましょう。
+  Egal wie es ausgeht, lasst uns unser Bestes geben.
+
+  費用の点はともかく、このプロジェクトは実行する価値がある。
+  費用[ひよう]の 点[てん]はともかく、このプロジェクトは 実行[じっこう]する 価値[かち]がある。
+  Abgesehen von den Kosten ist dieses Projekt es wert, durchgeführt zu werden.
+
+  外観はともかく部屋は快適である。
+  外観[がいかん]はともかく 部屋[へや]は 快適[かいてき]である。
+  Das Gebäude mag von außen nicht unbedingt schön sein, aber die Zimmer sind gemütlich.
+
+  子供ならともかく、大人がそんなことをするなんて。
+  子供[こども]ならともかく、大人[おとな]がそんなことをするなんて。
+  Bei einem Kind wäre es etwas anderes, aber dass ein Erwachsener so etwas tut...
+
+  原論はともかく、実際に、総理大臣にどう交渉する？
+  原論[げんろん]はともかく、実際[じっさい]に、総理大臣[そうりだいじん]にどう 交渉[こうしょう]する？
+  Aber nun mal die Theorie beiseite, wie gedenkst du mit dem Premierminister zu verhandeln?
+
+  まあ、形はともかく、ちゃんとした銘柄品で、品物は確かだった。
+  まあ、形[かたち]はともかく、ちゃんとした 銘柄品[めいがらひん]で、品物[しなもの]は 確[たし]かだった。
+  Na ja, lassen wir mal die Form, es war jedenfalls Markenseife, gute Ware.
+
+  西国はともかく、東国は徳川さまの勢威に服し。
+  西国[さいごく]はともかく、東国[とうごく]は 徳川[とくがわ]さまの 勢威[せいい]に 服[ふく]し。
+  Mit Ausnahme der Westprovinzen hatte sich das ganze Land, vor allem der Osten, der Macht der Tokugawa gebeugt.
+
+  「ほかのやつならともかく！」トムは歯ぎしりしながら考えた。
+  「ほかのやつならともかく！」トムは 歯[は]ぎしりしながら 考[かんが]えた。
+  'Wenn's irgendein anderer Junge wär', dachte Tom zähneknirschend.
+
+  君ならともかく僕は君のおじいさんの研究のことなんか何ひとつとして知らないじゃないか？
+  君[きみ]ならともかく 僕[ぼく]は 君[きみ]のおじいさんの 研究[けんきゅう]のことなんか 何[なに]ひとつとして 知[し]らないじゃないか？
+  Von den Forschungen deines Großvaters weißt du vielleicht etwas – ich jedenfalls weiß nicht das geringste.
+
+  一時代むかしならともかく、顎ひげなどというのは、どう考えてみても特殊すぎる。
+  一時代[ひとじだい]むかしならともかく、顎[あご]ひげなどというのは、どう 考[かんが]えてみても 特殊[とくしゅ]すぎる。
+  Eine Generation früher wäre nichts dagegen einzuwenden gewesen, aber heutzutage sind Bärte doch recht ausgefallen.
+
+  ともかく急いで出発しましょう。遅刻は避けたいです。
+  ともかく 急[いそ]いで 出発[しゅっぱつ]しましょう。遅刻[ちこく]は 避[さ]けたいです。
+  Lasst uns jedenfalls schnell aufbrechen. Ich möchte nicht zu spät kommen.
+
+  冗談はともかく、本題に入りましょう。
+  冗談[じょうだん]はともかく、本題[ほんだい]に 入[はい]りましょう。
+  Spaß beiseite, lasst uns zum Hauptthema kommen.
+
+  理由はともかく、彼は突然会社を辞めてしまった。
+  理由[りゆう]はともかく、彼[かれ]は 突然[とつぜん] 会社[かいしゃ]を 辞[や]めてしまった。
+  Was auch immer der Grund war, er hat plötzlich bei der Firma gekündigt.
+
+  ともかく頑張ってみよう。結果は後で考えよう。
+  ともかく 頑張[がんば]ってみよう。結果[けっか]は 後[あと]で 考[かんが]えよう。
+  Lass es uns auf jeden Fall versuchen. Über das Ergebnis können wir später nachdenken.
+
+  天気予報はともかく、念のため傘を持って行きます。
+  天気予報[てんきよほう]はともかく、念[ねん]のため 傘[かさ]を 持[も]って 行[い]きます。
+  Unabhängig von der Wettervorhersage nehme ich sicherheitshalber einen Schirm mit.
+
+  彼の態度はともかく、仕事の能力は認めざるを得ない。
+  彼[かれ]の 態度[たいど]はともかく、仕事[しごと]の 能力[のうりょく]は 認[みと]めざるを 得[え]ない。
+  Wie auch immer seine Einstellung sein mag, seine Arbeitsfähigkeit muss man anerkennen.
+
+  ともかく一度試してみないと、わからないでしょう。
+  ともかく 一度[いちど] 試[ため]してみないと、わからないでしょう。
+  Wie auch immer, wenn wir es nicht einmal versuchen, werden wir es nicht wissen.
+
+  詳細はともかく、大まかな計画を立てましょう。
+  詳細[しょうさい]はともかく、大[おお]まかな 計画[けいかく]を 立[た]てましょう。
+  Lassen wir die Details vorerst beiseite und machen wir einen groben Plan.
+
+  味はともかく、この料理は見た目が素晴らしい。
+  味[あじ]はともかく、この 料理[りょうり]は 見[み]た 目[め]が 素晴[すば]らしい。
+  Wie auch immer es schmeckt, dieses Gericht sieht fantastisch aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: <p><span class="jp">...はともかく</span> oder <span class="jp">...なら（ば）ともかく</span>
+  bedeutet "abgesehen von...", "unabhängig von...

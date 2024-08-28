@@ -2,7 +2,7 @@ Rang: 1657
 Lemma: 一定
 Lesung: いってい
 Tonhöhen: .^^^
-Definition: bestimmt, fest, konstant
+Definition: bestimmt, festgelegt; konstant
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   会社員は、一定の年齢になれば退職しなければならない。
-  会社員[かいしゃいん]は、 一定[いってい]の 年齢[ねんれい]になれば 退職[たいしょく]しなければならない。
-  Ein Angestellter muss in einem bestimmten Alter in den Ruhestand gehen.
+  会社員[かいしゃいん]は、一定[いってい]の 年齢[ねんれい]になれば 退職[たいしょく]しなければならない。
+  Angestellte müssen in Rente gehen, wenn sie ein bestimmtes Alter erreichen.
+
+  室温を一定に保つことで、快適な環境を作ることができます。
+  室温[しつおん]を 一定[いってい]に 保[たも]つことで、快適[かいてき]な 環境[かんきょう]を 作[つく]ることができます。
+  Indem wir die Raumtemperatur konstant halten, können wir eine angenehme Umgebung schaffen.
+
+  一定の条件を満たせば、誰でもこのプログラムに参加できます。
+  一定[いってい]の 条件[じょうけん]を 満[み]たせば、誰[だれ]でもこのプログラムに 参加[さんか]できます。
+  Jeder kann an diesem Programm teilnehmen, wenn er bestimmte Bedingungen erfüllt.
+
+  この商品は一定の価格で販売されています。
+  この 商品[しょうひん]は 一定[いってい]の 価格[かかく]で 販売[はんばい]されています。
+  Dieses Produkt wird zu einem festgelegten Preis verkauft.
+
+  一定の間隔で休憩を取ることで、作業効率が上がります。
+  一定[いってい]の 間隔[かんかく]で 休憩[きゅうけい]を 取[と]ることで、作業効率[さぎょうこうりつ]が 上[あ]がります。
+  Indem man in regelmäßigen Abständen Pausen einlegt, erhöht sich die Arbeitseffizienz.
+
+  彼は一定の敬意を獲得するまでに長い時間がかかった。
+  彼[かれ]は 一定[いってい]の 敬意[けいい]を 獲得[かくとく]するまでに 長[なが]い 時間[じかん]がかかった。
+  Es hat lange gedauert, bis er sich ein gewisses Ansehen verschafft hat.
+
+  一定の経験を積んだ後、昇進のチャンスが与えられます。
+  一定[いってい]の 経験[けいけん]を 積[つ]んだ 後[あと]、昇進[しょうしん]のチャンスが 与[あた]えられます。
+  Nachdem man einen gewissen Grad an Erfahrung gesammelt hat, wird einem die Chance auf eine Beförderung gegeben.
+
+  この仕事には一定の資格が必要です。
+  この 仕事[しごと]には 一定[いってい]の 資格[しかく]が 必要[ひつよう]です。
+  Für diese Arbeit ist eine bestimmte Qualifikation erforderlich.
+
+  政府は一定の基準を設けて、補助金を支給しています。
+  政府[せいふ]は 一定[いってい]の 基準[きじゅん]を 設[もう]けて、補助金[ほじょきん]を 支給[しきゅう]しています。
+  Die Regierung hat bestimmte Kriterien festgelegt, nach denen sie Subventionen gewährt.
+
+  一定の期限内に申請書を提出しなければなりません。
+  一定[いってい]の 期限内[きげんない]に 申請書[しんせいしょ]を 提出[ていしゅつ]しなければなりません。
+  Der Antrag muss innerhalb eines festgelegten Zeitraums eingereicht werden.
+
+  彼らは一定の距離を保ちながら、協力関係を築いています。
+  彼[かれ]らは 一定[いってい]の 距離[きょり]を 保[たも]ちながら、協力関係[きょうりょくかんけい]を 築[きず]いています。
+  Sie bauen eine Zusammenarbeit auf, während sie einen gewissen Abstand wahren.
+
+  一定の目的を持って行動することが大切です。
+  一定[いってい]の 目的[もくてき]を 持[も]って 行動[こうどう]することが 大切[たいせつ]です。
+  Es ist wichtig, mit einem bestimmten Ziel zu handeln.
+
+  光子は一定の速さで上昇し続けるはずだ。
+  光子[こうし]は 一定[いってい]の 速[はや]さで 上昇[じょうしょう]し 続[つづ]けるはずだ。
+  Ein Photon sollte seinen Weg nach oben mit gleichbleibender Geschwindigkeit fortsetzen.
+
+  彼の視線は一定していて、表情も変わらなかった。
+  彼[かれ]の 視線[しせん]は 一定[いってい]していて、表情[ひょうじょう]も 変[か]わらなかった。
+  Sein Blick blieb starr und sein Gesichtsausdruck unverändert.
+
+  全国的に米の計量方法を一定しました。
+  全国的[ぜんこくてき]に 米[こめ]の 計量方法[けいりょうほうほう]を 一定[いってい]しました。
+  Die Methode zur Messung von Reis wurde landesweit vereinheitlicht.
+
+  一定した収入があれば、生活の計画が立てやすくなります。
+  一定[いってい]した 収入[しゅうにゅう]があれば、生活[せいかつ]の 計画[けいかく]が 立[た]てやすくなります。
+  Mit einem festen Einkommen lässt sich das Leben leichter planen.
+
+  患者の状態を一定に保つことが、治療の重要なポイントです。
+  患者[かんじゃ]の 状態[じょうたい]を 一定[いってい]に 保[たも]つことが、治療[ちりょう]の 重要[じゅうよう]なポイントです。
+  Den Zustand des Patienten stabil zu halten, ist ein wichtiger Punkt bei der Behandlung.
+
+  一定の書式に従って申請書を作成してください。
+  一定[いってい]の 書式[しょしき]に 従[したが]って 申請書[しんせいしょ]を 作成[さくせい]してください。
+  Bitte erstellen Sie den Antrag gemäß der vorgeschriebenen schriftlichen Form.
+
+  この実験では、一定の応答を引き起こすことが目的です。
+  この 実験[じっけん]では、一定[いってい]の 応答[おうとう]を 引[ひ]き 起[お]こすことが 目的[もくてき]です。
+  Das Ziel dieses Experiments ist es, eine gleichbleibende Reaktion hervorzurufen.
+
+  彼女は一定の理解を示してくれましたが、完全には納得していないようでした。
+  彼女[かのじょ]は 一定[いってい]の 理解[りかい]を 示[しめ]してくれましたが、完全[かんぜん]には 納得[なっとく]していないようでした。
+  Sie zeigte ein gewisses Verständnis, schien aber nicht vollständig überzeugt zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

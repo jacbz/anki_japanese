@@ -2,7 +2,7 @@ Rang: 1703
 Lemma: 資格
 Lesung: しかく
 Tonhöhen: .^^
-Definition: Qualifikation; Fähigkeit
+Definition: Qualifikation; Berechtigung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は1992年に弁護士の資格を取った。
-  彼[かれ]は1992 年[ねん]に 弁護士[べんごし]の 資格[しかく]を 取[と]った。
-  Er erwarb 1992 die Qualifikation als Anwalt.
+  彼[かれ]は1992年[ねん]に 弁護士[べんごし]の 資格[しかく]を 取[と]った。
+  Er erwarb 1992 die Anwaltszulassung.
+
+  この職には特別な資格は必要ありません。
+  この 職[しょく]には 特別[とくべつ]な 資格[しかく]は 必要[ひつよう]ありません。
+  Für diese Stelle sind keine besonderen Qualifikationen erforderlich.
+
+  資格試験の合格率は年々低下している。
+  資格試験[しかくしけん]の 合格率[ごうかくりつ]は 年々[ねんねん] 低下[ていか]している。
+  Die Bestehensquote für die Qualifikationsprüfung sinkt von Jahr zu Jahr.
+
+  彼女は看護師の資格を持っているが、今は別の仕事をしている。
+  彼女[かのじょ]は 看護師[かんごし]の 資格[しかく]を 持[も]っているが、今[いま]は 別[べつ]の 仕事[しごと]をしている。
+  Sie hat zwar eine Krankenpflegerlizenz, arbeitet aber derzeit in einem anderen Beruf.
+
+  資格がないのに医療行為を行うのは違法です。
+  資格[しかく]がないのに 医療行為[いりょうこうい]を 行[おこな]うのは 違法[いほう]です。
+  Ohne Qualifikation medizinische Behandlungen durchzuführen ist illegal.
+
+  新しい資格を取得するために夜間学校に通っています。
+  新[あたら]しい 資格[しかく]を 取得[しゅとく]するために 夜間学校[やかんがっこう]に 通[かよ]っています。
+  Ich besuche eine Abendschule, um eine neue Qualifikation zu erwerben.
+
+  資格の有無によって給与に差がつくことがあります。
+  資格[しかく]の 有無[うむ]によって 給与[きゅうよ]に 差[さ]がつくことがあります。
+  Es kann Gehaltsunterschiede basierend auf dem Vorhandensein von Qualifikationen geben.
+
+  彼は資格を失い、教壇に立つことができなくなった。
+  彼[かれ]は 資格[しかく]を 失[うしな]い、教壇[きょうだん]に 立[た]つことができなくなった。
+  Er verlor seine Zulassung und konnte nicht mehr unterrichten.
+
+  この大学に入学する資格を満たしていますか。
+  この 大学[だいがく]に 入学[にゅうがく]する 資格[しかく]を 満[み]たしていますか。
+  Erfüllst du die Zulassungsvoraussetzungen für diese Universität?
+
+  資格社会では、肩書きが重要視されがちです。
+  資格社会[しかくしゃかい]では、肩書[かたが]きが 重要視[じゅうようし]されがちです。
+  In einer qualifikationsorientierten Gesellschaft werden Titel oft überbewertet.
+
+  彼女は個人の資格で国際会議に参加した。
+  彼女[かのじょ]は 個人[こじん]の 資格[しかく]で 国際会議[こくさいかいぎ]に 参加[さんか]した。
+  Sie nahm in ihrer Eigenschaft als Privatperson an der internationalen Konferenz teil.
+
+  資格取得のための勉強は大変だけど、将来役立つと思う。
+  資格取得[しかくしゅとく]のための 勉強[べんきょう]は 大変[たいへん]だけど、将来[しょうらい] 役立[やくだ]つと 思[おも]う。
+  Das Lernen für den Erwerb einer Qualifikation ist zwar hart, aber ich denke, es wird in Zukunft nützlich sein.
+
+  この仕事に応募するには、最低3年の経験と関連資格が必要です。
+  この 仕事[しごと]に 応募[おうぼ]するには、最低[さいてい]3年[ねん]の 経験[けいけん]と 関連資格[かんれんしかく]が 必要[ひつよう]です。
+  Um sich für diese Stelle zu bewerben, benötigen Sie mindestens 3 Jahre Erfahrung und relevante Qualifikationen.
+
+  資格を持っていても、実務経験がないと採用されにくいことがあります。
+  資格[しかく]を 持[も]っていても、実務経験[じつむけいけん]がないと 採用[さいよう]されにくいことがあります。
+  Selbst mit einer Qualifikation kann es schwierig sein, eingestellt zu werden, wenn man keine praktische Erfahrung hat.
+
+  彼は資格に欠けるため、その職位には就けなかった。
+  彼[かれ]は 資格[しかく]に 欠[か]けるため、その 職位[しょくい]には 就[つ]けなかった。
+  Er konnte die Position nicht antreten, weil ihm die nötige Qualifikation fehlte.
+
+  資格認定の基準が厳しくなり、合格者が減少している。
+  資格認定[しかくにんてい]の 基準[きじゅん]が 厳[きび]しくなり、合格者[ごうかくしゃ]が 減少[げんしょう]している。
+  Die Kriterien für die Qualifikationszertifizierung sind strenger geworden, und die Zahl der erfolgreichen Kandidaten ist zurückgegangen.
+
+  資格手当を支給することで、従業員のスキルアップを奨励しています。
+  資格手当[しかくてあて]を 支給[しきゅう]することで、従業員[じゅうぎょういん]のスキルアップを 奨励[しょうれい]しています。
+  Wir fördern die Weiterbildung unserer Mitarbeiter durch die Zahlung von Qualifikationszulagen.
+
+  留学生の資格で来日する場合、特別なビザが必要です。
+  留学生[りゅうがくせい]の 資格[しかく]で 来日[らいにち]する 場合[ばあい]、特別[とくべつ]なビザが 必要[ひつよう]です。
+  Wenn man als ausländischer Student nach Japan kommt, benötigt man ein spezielles Visum.
+
+  資格外活動をすると、ビザが取り消される可能性があります。
+  資格外活動[しかくがいかつどう]をすると、ビザが 取[と]り 消[け]される 可能性[かのうせい]があります。
+  Wenn man Tätigkeiten außerhalb des Visastatus ausübt, kann das Visum möglicherweise widerrufen werden.
+
+  無資格者が専門的な仕事をするのは危険です。
+  無資格者[むしかくしゃ]が 専門的[せんもんてき]な 仕事[しごと]をするのは 危険[きけん]です。
+  Es ist gefährlich, wenn unqualifizierte Personen fachliche Arbeiten ausführen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

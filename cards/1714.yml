@@ -2,20 +2,96 @@ Rang: 1714
 Lemma: 取り出す
 Lesung: とりだす
 Tonhöhen: .^\.
-Definition: herausnehmen, ausziehen
-Alternativschreibweisen: ''
+Definition: herausnehmen, entnehmen
+Alternativschreibweisen: 取出す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 取り出さない・取り出した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女はバッグからカメラを取り出した。
   彼女[かのじょ]はバッグからカメラを 取[と]り 出[だ]した。
-  Sie hat ihre Kamera aus der Tasche herausgenommen.
+  Sie nahm die Kamera aus ihrer Tasche.
+
+  ポケットから鍵を取り出してドアを開けた。
+  ポケットから 鍵[かぎ]を 取[と]り 出[だ]して ドアを 開[あ]けた。
+  Ich nahm den Schlüssel aus meiner Tasche und öffnete die Tür.
+
+  冷蔵庫から卵を慎重に取り出してください。
+  冷蔵庫[れいぞうこ]から 卵[たまご]を 慎重[しんちょう]に 取[と]り 出[だ]してください。
+  Bitte nehmen Sie vorsichtig die Eier aus dem Kühlschrank.
+
+  彼は引き出しから重要な書類を取り出した。
+  彼[かれ]は 引[ひ]き 出[だ]しから 重要[じゅうよう]な 書類[しょるい]を 取[と]り 出[だ]した。
+  Er holte wichtige Dokumente aus der Schublade.
+
+  手術で患者の体内から異物を取り出した。
+  手術[しゅじゅつ]で 患者[かんじゃ]の 体内[たいない]から 異物[いぶつ]を 取[と]り 出[だ]した。
+  Bei der Operation wurde ein Fremdkörper aus dem Körper des Patienten entfernt.
+
+  彼女は財布からお金を取り出して支払った。
+  彼女[かのじょ]は 財布[さいふ]からお 金[かね]を 取[と]り 出[だ]して 支払[しはら]った。
+  Sie nahm Geld aus ihrem Portemonnaie und bezahlte.
+
+  図書館の本棚から必要な本を取り出す。
+  図書館[としょかん]の 本棚[ほんだな]から 必要[ひつよう]な 本[ほん]を 取[と]り 出[だ]す。
+  Ich nehme die benötigten Bücher aus dem Regal der Bibliothek.
+
+  箱の中から古い写真を取り出して懐かしんだ。
+  箱[はこ]の 中[なか]から 古[ふる]い 写真[しゃしん]を 取[と]り 出[だ]して 懐[なつ]かしんだ。
+  Ich holte alte Fotos aus der Schachtel und schwelgte in Erinnerungen.
+
+  彼は鞄からノートパソコンを取り出して仕事を始めた。
+  彼[かれ]は 鞄[かばん]からノートパソコンを 取[と]り 出[だ]して 仕事[しごと]を 始[はじ]めた。
+  Er nahm seinen Laptop aus der Tasche und begann zu arbeiten.
+
+  ケースからCDを取り出して、プレーヤーに入れた。
+  ケースからCDを 取[と]り 出[だ]して、プレーヤーに 入[い]れた。
+  Ich nahm die CD aus dem Gehäuse und legte sie in den Player.
+
+  彼女は花瓶から枯れた花を取り出した。
+  彼女[かのじょ]は 花瓶[かびん]から 枯[か]れた 花[はな]を 取[と]り 出[だ]した。
+  Sie entfernte die verwelkten Blumen aus der Vase.
+
+  研究者たちは土壌サンプルから有用な微生物を取り出した。
+  研究者[けんきゅうしゃ]たちは 土壌[どじょう]サンプルから 有用[ゆうよう]な 微生物[びせいぶつ]を 取[と]り 出[だ]した。
+  Die Forscher extrahierten nützliche Mikroorganismen aus den Bodenproben.
+
+  冷凍庫から肉を取り出して解凍する。
+  冷凍庫[れいとうこ]から 肉[にく]を 取[と]り 出[だ]して 解凍[かいとう]する。
+  Ich nehme das Fleisch aus dem Gefrierschrank und taue es auf.
+
+  彼は封筒から手紙を取り出して読み始めた。
+  彼[かれ]は 封筒[ふうとう]から 手紙[てがみ]を 取[と]り 出[だ]して 読[よ]み 始[はじ]めた。
+  Er nahm den Brief aus dem Umschlag und begann zu lesen.
+
+  母は戸棚から古いアルバムを取り出して見せてくれた。
+  母[はは]は 戸棚[とだな]から 古[ふる]いアルバムを 取[と]り 出[だ]して 見[み]せてくれた。
+  Meine Mutter holte ein altes Album aus dem Schrank und zeigte es mir.
+
+  彼女はポーチから口紅を取り出して塗り直した。
+  彼女[かのじょ]はポーチから 口紅[くちべに]を 取[と]り 出[だ]して 塗[ぬ]り 直[なお]した。
+  Sie nahm den Lippenstift aus ihrem Täschchen und trug ihn neu auf.
+
+  医者は患者の体から弾丸を慎重に取り出した。
+  医者[いしゃ]は 患者[かんじゃ]の 体[からだ]から 弾丸[だんがん]を 慎重[しんちょう]に 取[と]り 出[だ]した。
+  Der Arzt entfernte vorsichtig die Kugel aus dem Körper des Patienten.
+
+  彼は棚から古い写真集を取り出して懐かしんだ。
+  彼[かれ]は 棚[たな]から 古[ふる]い 写真集[しゃしんしゅう]を 取[と]り 出[だ]して 懐[なつ]かしんだ。
+  Er holte einen alten Fotoband aus dem Regal und schwelgte in Erinnerungen.
+
+  彼女は引き出しから日記を取り出して書き始めた。
+  彼女[かのじょ]は 引[ひ]き 出[だ]しから 日記[にっき]を 取[と]り 出[だ]して 書[か]き 始[はじ]めた。
+  Sie nahm ihr Tagebuch aus der Schublade und begann zu schreiben.
+
+  冷蔵庫から野菜を取り出して洗う。
+  冷蔵庫[れいぞうこ]から 野菜[やさい]を 取[と]り 出[だ]して 洗[あら]う。
+  Ich nehme das Gemüse aus dem Kühlschrank und wasche es.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

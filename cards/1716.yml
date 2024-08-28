@@ -2,10 +2,10 @@ Rang: 1716
 Lemma: 平和
 Lesung: へいわ
 Tonhöhen: .^^
-Definition: Frieden; friedlich
+Definition: Frieden
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本は平和な国だ。
-  日本[にっぽん]は 平和[へいわ]な 国[くに]だ。
+  日本[にほん]は 平和[へいわ]な 国[くに]だ。
   Japan ist ein friedliches Land.
+
+  世界平和は多くの人々の願いだ。
+  世界平和[せかいへいわ]は 多[おお]くの 人々[ひとびと]の 願[ねが]いだ。
+  Weltfrieden ist der Wunsch vieler Menschen.
+
+  平和条約の締結は重要な外交的成果だった。
+  平和条約[へいわじょうやく]の 締結[ていけつ]は 重要[じゅうよう]な 外交的[がいこうてき] 成果[せいか]だった。
+  Der Abschluss des Friedensvertrags war ein wichtiger diplomatischer Erfolg.
+
+  平和な時代に生まれて幸せだ。
+  平和[へいわ]な 時代[じだい]に 生[う]まれて 幸[しあわ]せだ。
+  Ich bin glücklich, in einer friedlichen Zeit geboren zu sein.
+
+  平和教育は次世代にとって大切だ。
+  平和教育[へいわきょういく]は 次世代[じせだい]にとって 大切[たいせつ]だ。
+  Friedenserziehung ist wichtig für die nächste Generation.
+
+  平和を守るために私たちにできることは何だろうか。
+  平和[へいわ]を 守[まも]るために 私[わたし]たちにできることは 何[なに]だろうか。
+  Was können wir tun, um den Frieden zu bewahren?
+
+  戦争の後、やっと平和が戻ってきた。
+  戦争[せんそう]の 後[あと]、やっと 平和[へいわ]が 戻[もど]ってきた。
+  Nach dem Krieg ist endlich der Frieden zurückgekehrt.
+
+  彼女は平和賞を受賞した。
+  彼女[かのじょ]は 平和賞[へいわしょう]を 受賞[じゅしょう]した。
+  Sie hat den Friedenspreis erhalten.
+
+  平和な解決策を見つけましょう。
+  平和[へいわ]な 解決策[かいけつさく]を 見[み]つけましょう。
+  Lasst uns eine friedliche Lösung finden.
+
+  平和運動に参加する若者が増えている。
+  平和運動[へいわうんどう]に 参加[さんか]する 若者[わかもの]が 増[ふ]えている。
+  Immer mehr junge Menschen nehmen an der Friedensbewegung teil.
+
+  平和な社会を築くのは簡単ではない。
+  平和[へいわ]な 社会[しゃかい]を 築[きず]くのは 簡単[かんたん]ではない。
+  Es ist nicht einfach, eine friedliche Gesellschaft aufzubauen.
+
+  平和的な抗議デモが行われた。
+  平和的[へいわてき]な 抗議[こうぎ]デモが 行[おこな]われた。
+  Es fand eine friedliche Protestdemonstration statt.
+
+  平和利用のための原子力研究を進めている。
+  平和利用[へいわりよう]のための 原子力[げんしりょく]研究[けんきゅう]を 進[すす]めている。
+  Wir treiben die Forschung zur friedlichen Nutzung der Atomkraft voran.
+
+  平和共存の理念を大切にしよう。
+  平和共存[へいわきょうぞん]の 理念[りねん]を 大切[たいせつ]にしよう。
+  Lasst uns das Prinzip der friedlichen Koexistenz hochhalten.
+
+  平和な家庭環境で育つことは子供にとって重要だ。
+  平和[へいわ]な 家庭環境[かていかんきょう]で 育[そだ]つことは 子供[こども]にとって 重要[じゅうよう]だ。
+  In einer friedlichen häuslichen Umgebung aufzuwachsen ist wichtig für Kinder.
+
+  平和の象徴として白い鳩が描かれることが多い。
+  平和[へいわ]の 象徴[しょうちょう]として 白[しろ]い 鳩[はと]が 描[えが]かれることが 多[おお]い。
+  Weiße Tauben werden oft als Symbol des Friedens dargestellt.
+
+  平和を乱す行為は許されない。
+  平和[へいわ]を 乱[みだ]す 行為[こうい]は 許[ゆる]されない。
+  Handlungen, die den Frieden stören, sind nicht erlaubt.
+
+  平和な世界を次の世代に引き継ぐのは私たちの責任だ。
+  平和[へいわ]な 世界[せかい]を 次[つぎ]の 世代[せだい]に 引[ひ]き 継[つ]ぐのは 私[わたし]たちの 責任[せきにん]だ。
+  Es ist unsere Verantwortung, eine friedliche Welt an die nächste Generation weiterzugeben.
+
+  平和的な解決方法を模索している。
+  平和的[へいわてき]な 解決方法[かいけつほうほう]を 模索[もさく]している。
+  Wir suchen nach friedlichen Lösungsmöglichkeiten.
+
+  平和の尊さを忘れてはいけない。
+  平和[へいわ]の 尊[とうと]さを 忘[わす]れてはいけない。
+  Wir dürfen den Wert des Friedens nicht vergessen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>平和 kann sowohl als Nomen als auch als na-Adjektiv verwendet werden.</p>
+  <div class="examples">
+    <div class="jp">平和[へいわ]な 時代[じだい]</div>
+    <div class="de spoiler">Eine friedliche Epoche</div>
+  </div>
+  <p>Als Nomen bezeichnet es oft den Zustand des Friedens oder friedliche Beziehungen zwischen Ländern.</p>
+  <div class="examples">
+    <div class="jp">世界[せかい]平和[へいわ]を 目指[めざ]す</div>
+    <div class="de spoiler">Nach Weltfrieden streben</div>
+  </div>
+  <p>In Verbindung mit Verben kann es verschiedene Aspekte des Friedens ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">平和[へいわ]を 守[まも]る</div>
+    <div class="de spoiler">Den Frieden bewahren</div>
+  </div>
+  <div class="examples">
+    <div class="jp">平和[へいわ]を 乱[みだ]す</div>
+    <div class="de spoiler">Den Frieden stören</div>
+  </div>

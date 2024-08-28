@@ -2,10 +2,10 @@ Rang: 1685
 Lemma: きり
 Lesung: ''
 Tonhöhen: .^
-Definition: nur
+Definition: nur, allein; das letzte Mal
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: ''
+Wortart: suff
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,102 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私達は二人きりになった。
-  私[わたし] 達[たち]は二人きりになった。
-  Wir waren allein gelassen.
+  私達[わたしたち]は 二人[ふたり]きりになった。
+  Wir waren nur zu zweit.
+
+  彼女は一人きりで食事をしている。
+  彼女[かのじょ]は 一人[ひとり]きりで 食事[しょくじ]をしている。
+  Sie isst ganz alleine.
+
+  あれ以来、彼とは会っていないきりだ。
+  あれ 以来[いらい]、彼[かれ]とは 会[あ]っていないきりだ。
+  Seitdem habe ich ihn nicht mehr getroffen.
+
+  一度きりしか言わないから、よく聞いてね。
+  一度[いちど]きりしか 言[い]わないから、よく 聞[き]いてね。
+  Ich sage es nur einmal, also hör gut zu.
+
+  彼は笑っているきりで答えなかった。
+  彼[かれ]は 笑[わら]っているきりで 答[こた]えなかった。
+  Er lächelte nur und antwortete nicht.
+
+  誰にも見せない、一人きりになったときの癖が大事だ。
+  誰[だれ]にも 見[み]せない、一人[ひとり]きりになったときの 癖[くせ]が 大事[だいじ]だ。
+  Die wichtigsten Gewohnheiten sind die, die man niemandem zeigt, wenn man allein ist.
+
+  あなたのお母さんと二人きりで過ごすのは大変だったでしょう。
+  あなたのお 母[かあ]さんと 二人[ふたり]きりで 過[す]ごすのは 大変[たいへん]だったでしょう。
+  Es muss schwierig gewesen sein, allein mit deiner Mutter Zeit zu verbringen.
+
+  故郷には十年前に帰ったきりです。
+  故郷[こきょう]には 十年前[じゅうねんまえ]に 帰[かえ]ったきりです。
+  Ich war vor zehn Jahren das letzte Mal in meiner Heimat.
+
+  祖父は寝たきりの生活を送っています。
+  祖父[そふ]は 寝[ね]たきりの 生活[せいかつ]を 送[おく]っています。
+  Mein Großvater ist bettlägerig.
+
+  彼とは一度会ったきりです。
+  彼[かれ]とは 一度[いちど] 会[あ]ったきりです。
+  Ich habe ihn nur einmal getroffen.
+
+  ヨシエは寝たきりの姑の世話をしていた。
+  ヨシエは 寝[ね]たきりの 姑[しゅうとめ]の 世話[せわ]をしていた。
+  Yoshie pflegte ihre bettlägerige Schwiegermutter.
+
+  彼女が十六の時に家を出たきり、戻ってこなかった。
+  彼女[かのじょ]が 十六[じゅうろく]の 時[とき]に 家[いえ]を 出[で]たきり、戻[もど]ってこなかった。
+  Sie ist mit sechzehn von zu Hause weggelaufen und nie zurückgekommen.
+
+  今日は私たち二人きりの特別な日だね。
+  今日[きょう]は 私[わたし]たち 二人[ふたり]きりの 特別[とくべつ]な 日[ひ]だね。
+  Heute ist ein besonderer Tag, nur für uns beide.
+
+  この部屋には私一人きりしかいません。
+  この 部屋[へや]には 私[わたし] 一人[ひとり]きりしかいません。
+  In diesem Zimmer bin ich ganz allein.
+
+  彼は一度きり謝罪したが、その後は何も言わなかった。
+  彼[かれ]は 一度[いちど]きり 謝罪[しゃざい]したが、その 後[あと]は 何[なに]も 言[い]わなかった。
+  Er hat sich nur einmal entschuldigt und danach nichts mehr gesagt.
+
+  子供たちだけきりで留守番をさせるのは心配です。
+  子供[こども]たちだけきりで 留守番[るすばん]をさせるのは 心配[しんぱい]です。
+  Ich mache mir Sorgen, die Kinder ganz allein zu Hause zu lassen.
+
+  彼女とは電話で話したきりで、まだ会っていない。
+  彼女[かのじょ]とは 電話[でんわ]で 話[はな]したきりで、まだ 会[あ]っていない。
+  Ich habe nur einmal mit ihr telefoniert und sie noch nicht getroffen.
+
+  両親が亡くなってから、兄弟二人きりになった。
+  両親[りょうしん]が 亡[な]くなってから、兄弟[きょうだい] 二人[ふたり]きりになった。
+  Nachdem unsere Eltern gestorben sind, sind nur noch mein Bruder und ich übrig.
+
+  彼は一人きりで海外旅行に出かけた。
+  彼[かれ]は 一人[ひとり]きりで 海外旅行[かいがいりょこう]に 出[で]かけた。
+  Er ist ganz allein auf eine Auslandsreise gegangen.
+
+  彼女は一人きりで会社を経営している。
+  彼女[かのじょ]は 一人[ひとり]きりで 会社[かいしゃ]を 経営[けいえい]している。
+  Sie führt die Firma ganz allein.
+
+  祖母は入院してから寝たきりの状態が続いている。
+  祖母[そぼ]は 入院[にゅういん]してから 寝[ね]たきりの 状態[じょうたい]が 続[つづ]いている。
+  Meine Großmutter ist seit ihrem Krankenhausaufenthalt bettlägerig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>きり wird an Nomina, Pronomina oder die Attributiv- bzw. Finalform von Verben angehängt, um auszudrücken, dass etwas nur, einzig oder ausschließlich der Fall ist.</p>
+  <div class="examples">
+    <div class="jp">一人[ひとり]きりで 食事[しょくじ]をする。</div>
+    <div class="de spoiler">Ganz alleine essen.</div>
+  </div>
+  <p>Angehängt an die Vergangenheitsform von Verben kann es auch einen unveränderten Zustand oder eine letztmalige Handlung ausdrücken.</p>
+  <div class="examples">
+    <div class="jp">十年前[じゅうねんまえ]に 帰[かえ]ったきりです。</div>
+    <div class="de spoiler">Ich bin vor zehn Jahren das letzte Mal zurückgekehrt.</div>
+  </div>

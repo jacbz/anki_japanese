@@ -2,20 +2,96 @@ Rang: 1696
 Lemma: 増やす
 Lesung: ふやす
 Tonhöhen: .\.
-Definition: erhöhen, hinzufügen
-Alternativschreibweisen: ''
+Definition: vermehren, erhöhen
+Alternativschreibweisen: 殖やす
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 増やさない・増やした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   友達をもっと増やしたい。
   友達[ともだち]をもっと 増[ふ]やしたい。
-  Ich möchte mehr Freunde haben.
+  Ich möchte meinen Freundeskreis erweitern.
+
+  会社は来年、従業員数を増やす予定だ。
+  会社[かいしゃ]は 来年[らいねん]、従業員数[じゅうぎょういんすう]を 増[ふ]やす 予定[よてい]だ。
+  Die Firma plant, im nächsten Jahr die Zahl der Mitarbeiter zu erhöhen.
+
+  売上を増やすために新商品を開発しています。
+  売上[うりあげ]を 増[ふ]やすために 新商品[しんしょうひん]を 開発[かいはつ]しています。
+  Wir entwickeln neue Produkte, um den Umsatz zu steigern.
+
+  電車の本数を増やして混雑緩和を図ります。
+  電車[でんしゃ]の 本数[ほんすう]を 増[ふ]やして 混雑[こんざつ]緩和[かんわ]を 図[はか]ります。
+  Wir werden die Anzahl der Züge erhöhen, um die Überfüllung zu reduzieren.
+
+  日々の運動で筋肉量を増やしている。
+  日々[ひび]の 運動[うんどう]で 筋肉量[きんにくりょう]を 増[ふ]やしている。
+  Ich baue durch tägliches Training meine Muskelmasse auf.
+
+  語彙力を増やすために毎日新しい単語を覚えています。
+  語彙力[ごいりょく]を 増[ふ]やすために 毎日[まいにち] 新[あたら]しい 単語[たんご]を 覚[おぼ]えています。
+  Um meinen Wortschatz zu erweitern, lerne ich jeden Tag neue Wörter.
+
+  この会社は海外支店を増やしています。
+  この 会社[かいしゃ]は 海外[かいがい]支店[してん]を 増[ふ]やしています。
+  Dieses Unternehmen eröffnet mehr Filialen im Ausland.
+
+  収入を増やすためにアルバイトを始めました。
+  収入[しゅうにゅう]を 増[ふ]やすためにアルバイトを 始[はじ]めました。
+  Ich habe einen Nebenjob angefangen, um mein Einkommen zu erhöhen.
+
+  彼女は貯金を増やすために節約生活をしている。
+  彼女[かのじょ]は 貯金[ちょきん]を 増[ふ]やすために 節約[せつやく]生活[せいかつ]をしている。
+  Sie lebt sparsam, um ihre Ersparnisse zu vergrößern.
+
+  政府は教育予算を増やす方針を発表した。
+  政府[せいふ]は 教育[きょういく]予算[よさん]を 増[ふ]やす 方針[ほうしん]を 発表[はっぴょう]した。
+  Die Regierung hat angekündigt, das Bildungsbudget zu erhöhen.
+
+  生産量を増やすために新しい機械を導入しました。
+  生産量[せいさんりょう]を 増[ふ]やすために 新[あたら]しい 機械[きかい]を 導入[どうにゅう]しました。
+  Wir haben neue Maschinen eingeführt, um die Produktionsmenge zu steigern.
+
+  彼は趣味の時間を増やすために早起きを始めた。
+  彼[かれ]は 趣味[しゅみ]の 時間[じかん]を 増[ふ]やすために 早起[はやお]きを 始[はじ]めた。
+  Er hat angefangen, früh aufzustehen, um mehr Zeit für seine Hobbys zu haben.
+
+  この農家は有機野菜の種類を増やしている。
+  この 農家[のうか]は 有機[ゆうき]野菜[やさい]の 種類[しゅるい]を 増[ふ]やしている。
+  Dieser Bauernhof erweitert die Auswahl an Bio-Gemüse.
+
+  彼らは顧客満足度を増やすためにサービスを改善した。
+  彼[かれ]らは 顧客[こきゃく]満足度[まんぞくど]を 増[ふ]やすためにサービスを 改善[かいぜん]した。
+  Sie haben ihren Service verbessert, um die Kundenzufriedenheit zu erhöhen.
+
+  この地域では観光客を増やすためのキャンペーンを行っている。
+  この 地域[ちいき]では 観光客[かんこうきゃく]を 増[ふ]やすためのキャンペーンを 行[おこな]っている。
+  In dieser Region wird eine Kampagne durchgeführt, um mehr Touristen anzuziehen.
+
+  彼は体重を増やすためにたくさん食べている。
+  彼[かれ]は 体重[たいじゅう]を 増[ふ]やすためにたくさん 食[た]べている。
+  Er isst viel, um an Gewicht zuzunehmen.
+
+  この会社は社員の福利厚生を増やして働きやすい環境を作っている。
+  この 会社[かいしゃ]は 社員[しゃいん]の 福利厚生[ふくりこうせい]を 増[ふ]やして 働[はたら]きやすい 環境[かんきょう]を 作[つく]っている。
+  Dieses Unternehmen verbessert die Sozialleistungen für Mitarbeiter, um ein angenehmes Arbeitsumfeld zu schaffen.
+
+  彼女は読書の時間を増やすためにテレビを見る時間を減らした。
+  彼女[かのじょ]は 読書[どくしょ]の 時間[じかん]を 増[ふ]やすためにテレビを 見[み]る 時間[じかん]を 減[へ]らした。
+  Sie hat ihre Fernsehzeit reduziert, um mehr Zeit zum Lesen zu haben.
+
+  この農場では家畜の数を増やして生産性を上げている。
+  この 農場[のうじょう]では 家畜[かちく]の 数[かず]を 増[ふ]やして 生産性[せいさんせい]を 上[あ]げている。
+  Auf diesem Bauernhof wird die Anzahl der Nutztiere erhöht, um die Produktivität zu steigern.
+
+  彼は自信を増やすために新しい挑戦を続けている。
+  彼[かれ]は 自信[じしん]を 増[ふ]やすために 新[あたら]しい 挑戦[ちょうせん]を 続[つづ]けている。
+  Er stellt sich weiterhin neuen Herausforderungen, um sein Selbstvertrauen zu stärken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

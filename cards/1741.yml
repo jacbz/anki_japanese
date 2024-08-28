@@ -2,7 +2,7 @@ Rang: 1741
 Lemma: 出発
 Lesung: しゅっぱつ
 Tonhöhen: ..^^^
-Definition: abfahren; losgehen
+Definition: Abfahrt, Aufbruch
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このバスは何時に出発するんですか。
-  このバスは 何[なん] 時[じ]に 出発[しゅっぱつ]するんですか。
-  Um wie viel Uhr fährt dieser Bus ab?
+  このバスは 何時[なんじ]に 出発[しゅっぱつ]するんですか。
+  Wann fährt dieser Bus ab?
+
+  我々は一日かけて出発の準備をした。
+  我々[われわれ]は 一日[いちにち]かけて 出発[しゅっぱつ]の 準備[じゅんび]をした。
+  Wir verbrachten einen Tag mit Vorbereitungen für unsere Abreise.
+
+  荷物をまとめろ、二時間後に出発だ。
+  荷物[にもつ]をまとめろ、二時間後[にじかんご]に 出発[しゅっぱつ]だ。
+  Packt eure Sachen! In zwei Stunden geht es los!
+
+  僕は飛行機の出発時刻と、羽田空港での待ち合わせの場所を教えた。
+  僕[ぼく]は 飛行機[ひこうき]の 出発時刻[しゅっぱつじこく]と、羽田空港[はねだくうこう]での 待[ま]ち 合[あ]わせの 場所[ばしょ]を 教[おし]えた。
+  Ich nannte ihr die Abflugzeit und den Treffpunkt am Flughafen Haneda.
+
+  出発日は来週の月曜日です。
+  出発日[しゅっぱつび]は 来週[らいしゅう]の 月曜日[げつようび]です。
+  Der Abreisetag ist nächsten Montag.
+
+  東京駅が私たちの出発地点になります。
+  東京駅[とうきょうえき]が 私[わたし]たちの 出発地点[しゅっぱつちてん]になります。
+  Der Tokio-Bahnhof wird unser Startpunkt sein.
+
+  出発時間が近づいてきたので、急ぐ必要がある。
+  出発時間[しゅっぱつじかん]が 近[ちか]づいてきたので、急[いそ]ぐ 必要[ひつよう]がある。
+  Da die Abfahrtszeit näher rückt, müssen wir uns beeilen.
+
+  出発ラウンジで搭乗の案内を待っています。
+  出発[しゅっぱつ]ラウンジで 搭乗[とうじょう]の 案内[あんない]を 待[ま]っています。
+  Wir warten in der Abflughalle auf die Boarding-Ankündigung.
+
+  出発進行！全員乗車確認お願いします。
+  出発進行[しゅっぱつしんこう]！ 全員[ぜんいん] 乗車[じょうしゃ] 確認[かくにん]お 願[ねが]いします。
+  Abfahrt! Bitte überprüfen Sie, ob alle Passagiere eingestiegen sind.
+
+  再出発の機会を得て、彼は心機一転頑張っている。
+  再出発[さいしゅっぱつ]の 機会[きかい]を 得[え]て、彼[かれ]は 心機一転[しんきいってん] 頑張[がんば]っている。
+  Mit der Chance auf einen Neuanfang gibt er sich nun große Mühe.
+
+  出発の合図が鳴り、列車が動き始めた。
+  出発[しゅっぱつ]の 合図[あいず]が 鳴[な]り、列車[れっしゃ]が 動[うご]き 始[はじ]めた。
+  Das Signal zur Abfahrt ertönte und der Zug setzte sich in Bewegung.
+
+  出発前に必ず持ち物を確認してください。
+  出発前[しゅっぱつまえ]に 必[かなら]ず 持[も]ち 物[もの]を 確認[かくにん]してください。
+  Bitte überprüfen Sie unbedingt Ihre Sachen vor der Abreise.
+
+  新しい出発に向けて、彼は引っ越しを決意した。
+  新[あたら]しい 出発[しゅっぱつ]に 向[む]けて、彼[かれ]は 引[ひ]っ 越[こ]しを 決意[けつい]した。
+  Für einen Neuanfang entschied er sich umzuziehen.
+
+  朝早く出発するので、前の晩に荷物を用意しておこう。
+  朝早[あさはや]く 出発[しゅっぱつ]するので、前[まえ]の 晩[ばん]に 荷物[にもつ]を 用意[ようい]しておこう。
+  Da wir früh am Morgen aufbrechen, lasst uns am Vorabend die Sachen packen.
+
+  間もなく出発するので、トイレに行くなら今のうちだよ。
+  間[ま]もなく 出発[しゅっぱつ]するので、トイレに 行[い]くなら 今[いま]のうちだよ。
+  Wir brechen gleich auf, also geh jetzt auf die Toilette, wenn du musst.
+
+  安田は二十一日の朝、福岡を飛行機で出発した。
+  安田[やすだ]は 二十一日[にじゅういちにち]の 朝[あさ]、福岡[ふくおか]を 飛行機[ひこうき]で 出発[しゅっぱつ]した。
+  Yasuda ist am Morgen des 21. von Fukuoka abgeflogen.
+
+  彼らは夕方高昌へ向けて出発した。
+  彼[かれ]らは 夕方[ゆうがた] 高昌[こうしょう]へ 向[む]けて 出発[しゅっぱつ]した。
+  Sie haben sich am Abend nach Qoco aufgemacht.
+
+  さて、私がとまれかくまれ人生へ出発する時刻は迫っていた。
+  さて、私[わたし]がとまれかくまれ 人生[じんせい]へ 出発[しゅっぱつ]する 時刻[じこく]は 迫[せま]っていた。
+  Nun war der Zeitpunkt gekommen, da ich auf die eine oder andere Weise die Fahrt ins Leben antreten musste.
+
+  新幹線の出発時刻が変更になったそうです。
+  新幹線[しんかんせん]の 出発時刻[しゅっぱつじこく]が 変更[へんこう]になったそうです。
+  Ich habe gehört, dass sich die Abfahrtszeit des Shinkansen geändert hat.
+
+  出発を急がせるのは好きじゃないけど、もう時間がないんだ。
+  出発[しゅっぱつ]を 急[いそ]がせるのは 好[す]きじゃないけど、もう 時間[じかん]がないんだ。
+  Ich mag es nicht, zum Aufbruch zu drängen, aber wir haben keine Zeit mehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

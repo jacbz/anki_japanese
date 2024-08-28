@@ -2,7 +2,7 @@ Rang: 1662
 Lemma: 真ん中
 Lesung: まんなか
 Tonhöhen: .^^^
-Definition: Mitte
+Definition: Mitte, Zentrum
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼は部屋の真ん中にテーブルを置いた。
   彼[かれ]は 部屋[へや]の 真[ま]ん 中[なか]にテーブルを 置[お]いた。
-  Er stellte einen Tisch in die Mitte des Raumes.
+  Er stellte den Tisch in die Mitte des Zimmers.
+
+  道路の真ん中を歩くのは危険です。
+  道路[どうろ]の 真[ま]ん 中[なか]を 歩[ある]くのは 危険[きけん]です。
+  Es ist gefährlich, mitten auf der Straße zu laufen.
+
+  彼女は髪を真ん中から分けています。
+  彼女[かのじょ]は 髪[かみ]を 真[ま]ん 中[なか]から 分[わ]けています。
+  Sie trägt einen Mittelscheitel.
+
+  海の真ん中で船が故障してしまった。
+  海[うみ]の 真[ま]ん 中[なか]で 船[ふね]が 故障[こしょう]してしまった。
+  Das Schiff ging mitten auf dem Meer kaputt.
+
+  このケーキを真ん中から二つに切ってください。
+  このケーキを 真[ま]ん 中[なか]から 二[ふた]つに 切[き]ってください。
+  Bitte schneide diesen Kuchen in der Mitte durch.
+
+  広場の真ん中に噴水があります。
+  広場[ひろば]の 真[ま]ん 中[なか]に 噴水[ふんすい]があります。
+  In der Mitte des Platzes befindet sich ein Springbrunnen.
+
+  彼は3人兄弟の真ん中の子供です。
+  彼[かれ]は3人[にんきょうだい]の 真[ま]ん 中[なか]の 子供[こども]です。
+  Er ist das mittlere Kind von drei Geschwistern.
+
+  真ん中の席は見やすくて人気があります。
+  真[ま]ん 中[なか]の 席[せき]は 見[み]やすくて 人気[にんき]があります。
+  Die Plätze in der Mitte sind beliebt, weil man von dort gut sehen kann.
+
+  サッカー場の真ん中にキックオフの印があります。
+  サッカー 場[じょう]の 真[ま]ん 中[なか]にキックオフの 印[しるし]があります。
+  In der Mitte des Fußballfeldes befindet sich die Markierung für den Anstoß.
+
+  絵の真ん中に大きな赤い丸が描かれています。
+  絵[え]の 真[ま]ん 中[なか]に 大[おお]きな 赤[あか]い 丸[まる]が 描[えが]かれています。
+  In der Mitte des Bildes ist ein großer roter Kreis gemalt.
+
+  真ん中の列は少し狭いので気をつけてください。
+  真[ま]ん 中[なか]の 列[れつ]は 少[すこ]し 狭[せま]いので 気[き]をつけてください。
+  Die mittlere Reihe ist etwas eng, also sei bitte vorsichtig.
+
+  この本の真ん中あたりにブックマークを挟んでおいた。
+  この 本[ほん]の 真[ま]ん 中[なか]あたりにブックマークを 挟[はさ]んでおいた。
+  Ich habe ein Lesezeichen ungefähr in der Mitte des Buches eingelegt.
+
+  真ん中の引き出しに大切な書類を保管しています。
+  真[ま]ん 中[なか]の 引[ひ]き 出[だ]しに 大切[たいせつ]な 書類[しょるい]を 保管[ほかん]しています。
+  Ich bewahre wichtige Dokumente in der mittleren Schublade auf.
+
+  教室の真ん中に立って、みんなに聞こえるように話してください。
+  教室[きょうしつ]の 真[ま]ん 中[なか]に 立[た]って、みんなに 聞[き]こえるように 話[はな]してください。
+  Stell dich in die Mitte des Klassenzimmers und sprich so, dass alle dich hören können.
+
+  真ん中の商品が一番人気です。
+  真[ま]ん 中[なか]の 商品[しょうひん]が 一番[いちばん] 人気[にんき]です。
+  Das Produkt in der Mitte ist am beliebtesten.
+
+  コンサートホールの真ん中の席は音響が最高です。
+  コンサートホールの 真[ま]ん 中[なか]の 席[せき]は 音響[おんきょう]が 最高[さいこう]です。
+  Die Akustik ist in den mittleren Sitzen der Konzerthalle am besten.
+
+  真ん中で手を叩いて、犬の注意を引きつけた。
+  真[ま]ん 中[なか]で 手[て]を 叩[たた]いて、犬[いぬ]の 注意[ちゅうい]を 引[ひ]きつけた。
+  Ich klatschte in der Mitte in die Hände, um die Aufmerksamkeit des Hundes zu erregen.
+
+  彼女は真ん中の窓から外を眺めていた。
+  彼女[かのじょ]は 真[ま]ん 中[なか]の 窓[まど]から 外[そと]を 眺[なが]めていた。
+  Sie schaute aus dem mittleren Fenster nach draußen.
+
+  真ん中のボタンを押すと、機械が動き始めます。
+  真[ま]ん 中[なか]のボタンを 押[お]すと、機械[きかい]が 動[うご]き 始[はじ]めます。
+  Wenn du den mittleren Knopf drückst, beginnt die Maschine zu laufen.
+
+  彼らは輪になって、真ん中で踊り始めた。
+  彼[かれ]らは 輪[わ]になって、真[ま]ん 中[なか]で 踊[おど]り 始[はじ]めた。
+  Sie bildeten einen Kreis und begannen, in der Mitte zu tanzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

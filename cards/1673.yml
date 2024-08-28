@@ -2,24 +2,124 @@ Rang: 1673
 Lemma: 締める
 Lesung: しめる
 Tonhöhen: .\.
-Definition: binden; festziehen
-Alternativschreibweisen: ''
+Definition: festziehen, zubinden; kontrollieren; sparen
+Alternativschreibweisen: 〆る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 締めない・締めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は毎日ネクタイを締める。
-  私[わたし]は 毎日[まいにち]ネクタイを 締[し]める。
-  Ich trage jeden Tag eine Krawatte.
+  私[わたし]は 毎日[まいにち] ネクタイを 締[し]める。
+  Ich binde mir jeden Tag eine Krawatte um.
+
+  ベルトでウエストを締めて、ズボンをしっかり固定しましょう。
+  ベルトでウエストを 締[し]めて、ズボンをしっかり 固定[こてい]しましょう。
+  Lassen Sie uns den Gürtel um die Taille festziehen, um die Hose sicher zu befestigen.
+
+  靴紐を締め直してから、散歩に出かけました。
+  靴紐[くつひも]を 締[し]め 直[なお]してから、散歩[さんぽ]に 出[で]かけました。
+  Nachdem ich meine Schnürsenkel neu gebunden hatte, ging ich spazieren.
+
+  ねじをしっかり締めないと、家具が不安定になります。
+  ねじをしっかり 締[し]めないと、家具[かぐ]が 不安定[ふあんてい]になります。
+  Wenn man die Schrauben nicht fest anzieht, wird das Möbelstück instabil.
+
+  水道代を節約するために、蛇口をしっかり締めるように心がけています。
+  水道代[すいどうだい]を 節約[せつやく]するために、蛇口[じゃぐち]をしっかり 締[し]めるように 心[こころ]がけています。
+  Um Wasser zu sparen, achte ich darauf, den Wasserhahn immer fest zuzudrehen.
+
+  安全のため、ドアの鍵をしっかり締めてください。
+  安全[あんぜん]のため、ドアの 鍵[かぎ]をしっかり 締[し]めてください。
+  Bitte schließen Sie zur Sicherheit die Tür gut ab.
+
+  ギターの音を調整するために、弦を締めたり緩めたりします。
+  ギターの 音[おと]を 調整[ちょうせい]するために、弦[げん]を 締[し]めたり 緩[ゆる]めたりします。
+  Um den Klang der Gitarre einzustellen, ziehe ich die Saiten an oder lockere sie.
+
+  事故を防ぐため、必ずシートベルトを締めてください。
+  事故[じこ]を 防[ふせ]ぐため、必[かなら]ずシートベルトを 締[し]めてください。
+  Bitte legen Sie immer den Sicherheitsgurt an, um Unfälle zu vermeiden.
+
+  産後の体型維持のために、骨盤底筋を締める運動を始めました。
+  産後[さんご]の 体型[たいけい]維持[いじ]のために、骨盤底筋[こつばんていきん]を 締[し]める 運動[うんどう]を 始[はじ]めました。
+  Zur Erhaltung meiner Figur nach der Geburt habe ich mit Übungen zur Anspannung der Beckenbodenmuskeln begonnen.
+
+  彼女は美しい着物姿で、帯をきつく締めていました。
+  彼女[かのじょ]は 美[うつく]しい 着物[きもの]姿[すがた]で、帯[おび]をきつく 締[し]めていました。
+  Sie trug einen wunderschönen Kimono mit einem eng gebundenen Obi.
+
+  部下たちを締めるために、新しい規則を導入しました。
+  部下[ぶか]たちを 締[し]めるために、新[あたら]しい 規則[きそく]を 導入[どうにゅう]しました。
+  Um die Untergebenen unter Kontrolle zu halten, wurden neue Regeln eingeführt.
+
+  試験前は心を締めて、集中して勉強に取り組みます。
+  試験前[しけんまえ]は 心[こころ]を 締[し]めて、集中[しゅうちゅう]して 勉強[べんきょう]に 取[と]り 組[く]みます。
+  Vor der Prüfung nehme ich mich zusammen und konzentriere mich aufs Lernen.
+
+  家計を締めるために、不要な出費を控えるようにしています。
+  家計[かけい]を 締[し]めるために、不要[ふよう]な 出費[しゅっぴ]を 控[ひか]えるようにしています。
+  Um mit dem Haushaltsgeld sparsamer umzugehen, versuche ich, unnötige Ausgaben zu vermeiden.
+
+  今月の帳簿を締めて、売上を確認しましょう。
+  今月[こんげつ]の 帳簿[ちょうぼ]を 締[し]めて、売上[うりあげ]を 確認[かくにん]しましょう。
+  Lassen Sie uns die Bücher für diesen Monat abschließen und den Umsatz überprüfen.
+
+  会議の最後に、全員で手を締めて成功を祝いました。
+  会議[かいぎ]の 最後[さいご]に、全員[ぜんいん]で 手[て]を 締[し]めて 成功[せいこう]を 祝[いわ]いました。
+  Am Ende der Besprechung führten alle gemeinsam das Klatschritual durch, um den Erfolg zu feiern.
+
+  新鮮な鯖を塩と酢で締めて、美味しい〆鯖を作りました。
+  新鮮[しんせん]な 鯖[さば]を 塩[しお]と 酢[す]で 締[し]めて、美味[おい]しい 〆鯖[しめさば]を 作[つく]りました。
+  Ich habe frische Makrelen in Salz und Essig mariniert und leckeren Shimesaba zubereitet.
+
+  締めて100万円の売上がありました。
+  締[し]めて100万[ひゃくまん]円[えん]の 売上[うりあげ]がありました。
+  Insgesamt hatten wir einen Umsatz von einer Million Yen.
+
+  彼は常に規律を重んじ、部下たちを厳しく締めている。
+  彼[かれ]は 常[つね]に 規律[きりつ]を 重[おも]んじ、部下[ぶか]たちを 厳[きび]しく 締[し]めている。
+  Er legt immer Wert auf Disziplin und hält seine Untergebenen an der kurzen Leine.
+
+  勘定を締める前に、全ての領収書を確認してください。
+  勘定[かんじょう]を 締[し]める 前[まえ]に、全[すべ]ての 領収書[りょうしゅうしょ]を 確認[かくにん]してください。
+  Bevor wir abrechnen, überprüfen Sie bitte alle Quittungen.
+
+  式の最後に、参加者全員で手を締めて締めくくりました。
+  式[しき]の 最後[さいご]に、参加者[さんかしゃ] 全員[ぜんいん]で 手[て]を 締[し]めて 締[し]めくくりました。
+  Zum Abschluss der Zeremonie führten alle Teilnehmer gemeinsam das Klatschritual durch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">締める</span> hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Etwas fest(er) machen, z.B. einen Gürtel oder eine Schraube anziehen.</li>
+    <div class="examples">
+      <div class="jp">ベルトをきつく 締[し]める。</div>
+      <div class="de spoiler">Den Gürtel fest anziehen.</div>
+    </div>
+    <li>Kontrolle ausüben oder streng sein.</li>
+    <div class="examples">
+      <div class="jp">上司[じょうし]が 部下[ぶか]を 締[し]める。</div>
+      <div class="de spoiler">Der Chef hält seine Untergebenen an der kurzen Leine.</div>
+    </div>
+    <li>Sparen oder sparsam mit etwas umgehen.</li>
+    <div class="examples">
+      <div class="jp">家計[かけい]を 締[し]める。</div>
+      <div class="de spoiler">Mit dem Haushaltsgeld sparen.</div>
+    </div>
+    <li>Abrechnen oder zusammenzählen.</li>
+    <div class="examples">
+      <div class="jp">今月[こんげつ]の 売上[うりあげ]を 締[し]める。</div>
+      <div class="de spoiler">Den Umsatz dieses Monats zusammenrechnen.</div>
+    </div>
+  </ol>
+  <p>In der Umgangssprache wird oft das Kanji 〆 statt 締 verwendet.</p>

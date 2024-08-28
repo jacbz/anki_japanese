@@ -2,20 +2,96 @@ Rang: 1752
 Lemma: 保つ
 Lesung: たもつ
 Tonhöhen: .\.
-Definition: beibehalten, aufrechterhalten
+Definition: (auf)bewahren, erhalten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 保たない・保った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   健康を保つために運動する。
   健康[けんこう]を 保[たも]つために 運動[うんどう]する。
-  Ich mache Sport, um meine Gesundheit aufrechtzuerhalten.
+  Ich treibe Sport, um meine Gesundheit zu erhalten.
+
+  室内の温度を一定に保つようにエアコンを調節しましょう。
+  室内[しつない]の 温度[おんど]を 一定[いってい]に 保[たも]つようにエアコンを 調節[ちょうせつ]しましょう。
+  Lassen Sie uns die Klimaanlage so einstellen, dass die Raumtemperatur konstant bleibt.
+
+  バランスを保ちながら、一本足で立ってみてください。
+  バランスを 保[たも]ちながら、一本足[いっぽんあし]で 立[た]ってみてください。
+  Versuchen Sie, auf einem Bein zu stehen und dabei das Gleichgewicht zu halten.
+
+  美しさを保つための秘訣は十分な睡眠です。
+  美[うつく]しさを 保[たも]つための 秘訣[ひけつ]は 十分[じゅうぶん]な 睡眠[すいみん]です。
+  Das Geheimnis, um die Schönheit zu bewahren, ist ausreichend Schlaf.
+
+  国際社会の平和を保つことは簡単ではありません。
+  国際社会[こくさいしゃかい]の 平和[へいわ]を 保[たも]つことは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, den Frieden in der internationalen Gemeinschaft zu bewahren.
+
+  友人との良好な関係を保つよう心がけています。
+  友人[ゆうじん]との 良好[りょうこう]な 関係[かんけい]を 保[たも]つよう 心[こころ]がけています。
+  Ich bemühe mich, eine gute Beziehung zu meinen Freunden aufrechtzuerhalten.
+
+  村の伝統を保つことは、若い世代の協力が必要です。
+  村[むら]の 伝統[でんとう]を 保[たも]つことは、若[わか]い 世代[せだい]の 協力[きょうりょく]が 必要[ひつよう]です。
+  Um die Traditionen des Dorfes zu bewahren, ist die Mitarbeit der jüngeren Generation erforderlich.
+
+  公共の場所では秩序を保つようにしましょう。
+  公共[こうきょう]の 場所[ばしょ]では 秩序[ちつじょ]を 保[たも]つようにしましょう。
+  Lasst uns in öffentlichen Räumen die Ordnung aufrechterhalten.
+
+  飛行機の編隊は厳密に形を保ちながら飛んでいます。
+  飛行機[ひこうき]の 編隊[へんたい]は 厳密[げんみつ]に 形[かたち]を 保[たも]ちながら 飛[と]んでいます。
+  Die Flugzeugformation fliegt unter strenger Wahrung ihrer Form.
+
+  試合中は平常心を保つことが大切です。
+  試合中[しあいちゅう]は 平常心[へいじょうしん]を 保[たも]つことが 大切[たいせつ]です。
+  Es ist wichtig, während des Wettkampfs die Ruhe zu bewahren.
+
+  困難な状況でも体面を保つよう努力しました。
+  困難[こんなん]な 状況[じょうきょう]でも 体面[たいめん]を 保[たも]つよう 努力[どりょく]しました。
+  Ich bemühte mich, auch in schwierigen Situationen den Schein zu wahren.
+
+  彼は厳しい競争の中で自分の地位を保った。
+  彼[かれ]は 厳[きび]しい 競争[きょうそう]の 中[なか]で 自分[じぶん]の 地位[ちい]を 保[たも]った。
+  Er behauptete seine Position inmitten harter Konkurrenz.
+
+  相手と一定の距離を保つことで、良好な関係を築けます。
+  相手[あいて]と 一定[いってい]の 距離[きょり]を 保[たも]つことで、良好[りょうこう]な 関係[かんけい]を 築[きず]けます。
+  Indem man eine gewisse Distanz zum Gegenüber wahrt, kann man eine gute Beziehung aufbauen.
+
+  手術室の温度を20度に保つよう、空調を調整しました。
+  手術室[しゅじゅつしつ]の 温度[おんど]を20度[ど]に 保[たも]つよう、空調[くうちょう]を 調整[ちょうせい]しました。
+  Wir haben die Klimaanlage so eingestellt, dass die Temperatur im Operationssaal bei 20 Grad gehalten wird.
+
+  節制した食事と運動で、彼女は自然な美しさを保っている。
+  節制[せっせい]した 食事[しょくじ]と 運動[うんどう]で、彼女[かのじょ]は 自然[しぜん]な 美[うつく]しさを 保[たも]っている。
+  Durch eine maßvolle Ernährung und Bewegung bewahrt sie ihre natürliche Schönheit.
+
+  空中に浮かぶ天秤が、完璧な均衡を保っているように見えた。
+  空中[くうちゅう]に 浮[う]かぶ 天秤[てんびん]が、完璧[かんぺき]な 均衡[きんこう]を 保[たも]っているように 見[み]えた。
+  Die in der Luft schwebende Waage schien ein perfektes Gleichgewicht zu halten.
+
+  古い習慣は形だけ保って、その本質は失われていった。
+  古[ふる]い 習慣[しゅうかん]は 形[かたち]だけ 保[たも]って、その 本質[ほんしつ]は 失[うしな]われていった。
+  Die alten Bräuche behielten nur ihre äußere Form bei, während ihre Essenz verloren ging.
+
+  長年の友情を保つには、互いの理解と尊重が必要だ。
+  長年[ながねん]の 友情[ゆうじょう]を 保[たも]つには、互[たが]いの 理解[りかい]と 尊重[そんちょう]が 必要[ひつよう]だ。
+  Um eine langjährige Freundschaft zu erhalten, braucht es gegenseitiges Verständnis und Respekt.
+
+  この建物は何世紀もの間、その威厳を保ち続けている。
+  この 建物[たてもの]は 何世紀[なんせいき]もの 間[あいだ]、その 威厳[いげん]を 保[たも]ち 続[つづ]けている。
+  Dieses Gebäude bewahrt seit Jahrhunderten seine Würde.
+
+  環境保護のため、森林の生態系を保つ努力が続けられている。
+  環境保護[かんきょうほご]のため、森林[しんりん]の 生態系[せいたいけい]を 保[たも]つ 努力[どりょく]が 続[つづ]けられている。
+  Zum Schutz der Umwelt werden weiterhin Anstrengungen unternommen, das Ökosystem der Wälder zu erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,24 +2,115 @@ Rang: 1649
 Lemma: しまう
 Lesung: ''
 Tonhöhen: .^^
-Definition: weglegen
+Definition: beenden; wegräumen; völlig
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: しまわない・しまった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   お皿を食器棚にしまった。
   お 皿[さら]を 食器棚[しょっきだな]にしまった。
-  Ich habe die Teller im Schrank weggelegt.
+  Ich habe die Teller in den Geschirrschrank geräumt.
+
+  仕事をしまって帰ろう。
+  仕事[しごと]をしまって 帰[かえ]ろう。
+  Lass uns die Arbeit beenden und nach Hause gehen.
+
+  店主は店をしまって休暇に入った。
+  店主[てんしゅ]は 店[みせ]をしまって 休暇[きゅうか]に 入[はい]った。
+  Der Ladenbesitzer schloss den Laden und ging in den Urlaub.
+
+  正月飾りをしまう時期になりました。
+  正月飾[しょうがつかざ]りをしまう 時期[じき]になりました。
+  Es ist Zeit, den Neujahrsschmuck wegzuräumen.
+
+  大切な手紙を引き出しにしまっておいた。
+  大切[たいせつ]な 手紙[てがみ]を 引[ひ]き 出[だ]しにしまっておいた。
+  Ich habe den wichtigen Brief in der Schublade verstaut.
+
+  涼しいところに果物をしまいましょう。
+  涼[すず]しいところに 果物[くだもの]をしまいましょう。
+  Lassen Sie uns das Obst an einem kühlen Ort aufbewahren.
+
+  手帳をポケットにしまってから外出した。
+  手帳[てちょう]をポケットにしまってから 外出[がいしゅつ]した。
+  Nachdem ich das Notizbuch in die Tasche gesteckt hatte, ging ich aus.
+
+  思い出の品を大切に箱にしまっています。
+  思[おも]い 出[で]の 品[しな]を 大切[たいせつ]に 箱[はこ]にしまっています。
+  Ich bewahre die Erinnerungsstücke sorgfältig in einer Box auf.
+
+  あっ、宿題を忘れてしまった！
+  あっ、宿題[しゅくだい]を 忘[わす]れてしまった！
+  Oh nein, ich habe meine Hausaufgaben völlig vergessen!
+
+  彼女の行動に呆れてしまいました。
+  彼女[かのじょ]の 行動[こうどう]に 呆[あき]れてしまいました。
+  Ich war von ihrem Verhalten einfach schockiert.
+
+  子供が全部食べてしまって、私の分がなかった。
+  子供[こども]が 全部[ぜんぶ] 食[た]べてしまって、私[わたし]の 分[ぶん]がなかった。
+  Die Kinder haben alles aufgegessen und für mich war nichts mehr übrig.
+
+  余計なことを言ってしまい、後悔している。
+  余計[よけい]なことを 言[い]ってしまい、後悔[こうかい]している。
+  Ich bereue es, etwas gesagt zu haben, was ich nicht hätte sagen sollen.
+
+  もう暗くなってしまったので、帰りましょう。
+  もう 暗[くら]くなってしまったので、帰[かえ]りましょう。
+  Es ist schon dunkel geworden, lass uns nach Hause gehen.
+
+  その本はもう読んでしまったので、図書館に返却した。
+  その 本[ほん]はもう 読[よ]んでしまったので、図書館[としょかん]に 返却[へんきゃく]した。
+  Ich habe das Buch schon gelesen, also habe ich es in die Bibliothek zurückgegeben.
+
+  彼女はバッグに手紙をしまった後、外出した。
+  彼女[かのじょ]はバッグに 手紙[てがみ]をしまった 後[あと]、外出[がいしゅつ]した。
+  Nachdem sie den Brief in ihre Tasche gesteckt hatte, ging sie aus.
+
+  伸樹はペットボトルを冷蔵庫にしまった。
+  伸樹[のぶき]はペットボトルを 冷蔵庫[れいぞうこ]にしまった。
+  Nobuki stellte die Plastikflasche in den Kühlschrank.
+
+  ナカタさんは魔法瓶を大事に鞄にしまった。
+  ナカタさんは 魔法瓶[まほうびん]を 大事[だいじ]に 鞄[かばん]にしまった。
+  Herr Nakata verstaute die Thermosflasche sorgfältig in seiner Tasche.
+
+  空白が記憶を完全に呑み込んでしまうことだろう。
+  空白[くうはく]が 記憶[きおく]を 完全[かんぜん]に 呑[の]み 込[こ]んでしまうことだろう。
+  Die Leere wird wohl die Erinnerungen vollständig verschlingen.
+
+  自分勝手な昔話ばかりしてしまって、申し訳ありません。
+  自分勝手[じぶんかって]な 昔話[むかしばなし]ばかりしてしまって、申[もう]し 訳[わけ]ありません。
+  Entschuldigung, dass ich nur über meine eigenen alten Geschichten geredet habe.
+
+  彼らは我々が通ると黙ってしまった。
+  彼[かれ]らは 我々[われわれ]が 通[とお]ると 黙[だま]ってしまった。
+  Sie verstummten, als wir vorbeigingen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">...てしまう</span> wird oft an Verben angehängt, um die Vollständigkeit oder Unumkehrbarkeit einer Handlung auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">宿題[しゅくだい]を 忘[わす]れてしまった。</div>
+    <div class="de spoiler">Ich habe meine Hausaufgaben komplett vergessen.</div>
+  </div>
+  <p>Es kann auch Bedauern oder eine negative Konnotation ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">大切[たいせつ]な 物[もの]を 無[な]くしてしまった。</div>
+    <div class="de spoiler">Ich habe leider etwas Wichtiges verloren.</div>
+  </div>
+  <p>In der Umgangssprache wird <span class="jp">...てしまう</span> oft zu <span class="jp">...ちゃう</span> verkürzt:</p>
+  <div class="examples">
+    <div class="jp">食[た]べちゃった。</div>
+    <div class="de spoiler">Ich habe es (versehentlich) aufgegessen.</div>
+  </div>

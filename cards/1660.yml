@@ -2,8 +2,8 @@ Rang: 1660
 Lemma: 関連
 Lesung: かんれん
 Tonhöhen: .^^^
-Definition: Beziehung, Verbindung; in Beziehung stehen, verbunden sein
-Alternativschreibweisen: ''
+Definition: Zusammenhang, Verbindung
+Alternativschreibweisen: 関聯
 Extra: （する）
 Wortart: n, vi
 Register: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   その二つの事件は関連がある。
   その 二[ふた]つの 事件[じけん]は 関連[かんれん]がある。
-  Die beiden Vorfälle stehen in Verbindung.
+  Diese beiden Vorfälle stehen in Zusammenhang miteinander.
+
+  IT関連株の価値が急騰している。
+  IT 関連株[かんれんかぶ]の 価値[かち]が 急騰[きゅうとう]している。
+  Der Wert von IT-bezogenen Aktien steigt rapide.
+
+  このプロジェクトに関連する書類をすべて集めてください。
+  このプロジェクトに 関連[かんれん]する 書類[しょるい]をすべて 集[あつ]めてください。
+  Bitte sammeln Sie alle Dokumente, die mit diesem Projekt in Verbindung stehen.
+
+  彼らの研究は環境問題と深く関連している。
+  彼[かれ]らの 研究[けんきゅう]は 環境問題[かんきょうもんだい]と 深[ふか]く 関連[かんれん]している。
+  Ihre Forschung steht in engem Zusammenhang mit Umweltproblemen.
+
+  この質問は前回の議題に関連していますか。
+  この 質問[しつもん]は 前回[ぜんかい]の 議題[ぎだい]に 関連[かんれん]していますか。
+  Steht diese Frage in Beziehung zum letzten Tagesordnungspunkt?
+
+  関連会社との取引を増やす計画がある。
+  関連会社[かんれんがいしゃ]との 取引[とりひき]を 増[ふ]やす 計画[けいかく]がある。
+  Es gibt Pläne, die Geschäfte mit assoziierten Unternehmen auszuweiten.
+
+  この事件に関連して、新たな証拠が見つかった。
+  この 事件[じけん]に 関連[かんれん]して、新[あら]たな 証拠[しょうこ]が 見[み]つかった。
+  In Verbindung mit diesem Fall wurden neue Beweise gefunden.
+
+  彼の病気は仕事のストレスと関連しているかもしれない。
+  彼[かれ]の 病気[びょうき]は 仕事[しごと]のストレスと 関連[かんれん]しているかもしれない。
+  Seine Krankheit könnte mit dem Stress bei der Arbeit zusammenhängen.
+
+  この二つの現象の関連性についてもっと研究する必要がある。
+  この 二[ふた]つの 現象[げんしょう]の 関連性[かんれんせい]についてもっと 研究[けんきゅう]する 必要[ひつよう]がある。
+  Es ist notwendig, den Zusammenhang zwischen diesen beiden Phänomenen weiter zu erforschen.
+
+  関連記事へのリンクを記事の最後に追加しました。
+  関連記事[かんれんきじ]へのリンクを 記事[きじ]の 最後[さいご]に 追加[ついか]しました。
+  Ich habe am Ende des Artikels Links zu verwandten Artikeln hinzugefügt.
+
+  この問題は一見関連が浅いように見えるが、実は深いつながりがある。
+  この 問題[もんだい]は 一見[いっけん] 関連[かんれん]が 浅[あさ]いように 見[み]えるが、実[じつ]は 深[ふか]いつながりがある。
+  Dieses Problem scheint auf den ersten Blick nur lose verbunden zu sein, hat aber tatsächlich tiefe Zusammenhänge.
+
+  彼女の頭痛は肩こりと関連している可能性がある。
+  彼女[かのじょ]の 頭痛[ずつう]は 肩[かた]こりと 関連[かんれん]している 可能性[かのうせい]がある。
+  Ihre Kopfschmerzen könnten mit ihrer verspannten Schulter zusammenhängen.
+
+  このデータを関連付けて分析することで、新たな洞察が得られるかもしれない。
+  このデータを 関連付[かんれんづ]けて 分析[ぶんせき]することで、新[あら]たな 洞察[どうさつ]が 得[え]られるかもしれない。
+  Durch die Analyse dieser Daten in Verbindung miteinander könnten wir neue Erkenntnisse gewinnen.
+
+  彼の発言は先週の事件と何か関連しているのではないか。
+  彼[かれ]の 発言[はつげん]は 先週[せんしゅう]の 事件[じけん]と 何[なに]か 関連[かんれん]しているのではないか。
+  Könnte seine Aussage irgendwie mit dem Vorfall von letzter Woche in Verbindung stehen?
+
+  この症状は薬の副作用と関連している可能性があります。
+  この 症状[しょうじょう]は 薬[くすり]の 副作用[ふくさよう]と 関連[かんれん]している 可能性[かのうせい]があります。
+  Diese Symptome könnten mit den Nebenwirkungen des Medikaments zusammenhängen.
+
+  経済と政治は密接に関連している。
+  経済[けいざい]と 政治[せいじ]は 密接[みっせつ]に 関連[かんれん]している。
+  Wirtschaft und Politik sind eng miteinander verbunden.
+
+  この問題に関連して、専門家の意見を聞く必要があります。
+  この 問題[もんだい]に 関連[かんれん]して、専門家[せんもんか]の 意見[いけん]を 聞[き]く 必要[ひつよう]があります。
+  In Bezug auf dieses Problem müssen wir die Meinung von Experten einholen.
+
+  新しい法律は環境保護に関連する多くの規制を含んでいる。
+  新[あたら]しい 法律[ほうりつ]は 環境保護[かんきょうほご]に 関連[かんれん]する 多[おお]くの 規制[きせい]を 含[ふく]んでいる。
+  Das neue Gesetz enthält viele Vorschriften in Bezug auf den Umweltschutz.
+
+  これらの事実を関連させて考えると、真相が見えてくるかもしれない。
+  これらの 事実[じじつ]を 関連[かんれん]させて 考[かんが]えると、真相[しんそう]が 見[み]えてくるかもしれない。
+  Wenn wir diese Fakten in Zusammenhang betrachten, könnte sich die Wahrheit zeigen.
+
+  彼の退職は最近の会社の方針変更と関連しているのだろうか。
+  彼[かれ]の 退職[たいしょく]は 最近[さいきん]の 会社[かいしゃ]の 方針[ほうしん]変更[へんこう]と 関連[かんれん]しているのだろうか。
+  Ob sein Rücktritt wohl mit den jüngsten Änderungen der Unternehmenspolitik zusammenhängt?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

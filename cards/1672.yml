@@ -2,24 +2,118 @@ Rang: 1672
 Lemma: つかむ
 Lesung: ''
 Tonhöhen: .\.
-Definition: fangen, greifen
+Definition: (fest)halten; ergreifen; begreifen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: つかまない・つかんだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   警官は彼の腕をつかんだ。
   警官[けいかん]は 彼[かれ]の 腕[うで]をつかんだ。
-  Der Polizist griff nach seinem Arm.
+  Der Polizist packte ihn am Arm.
+
+  彼女は私の袖をつかんで止めた。
+  彼女[かのじょ]は 私[わたし]の 袖[そで]をつかんで 止[と]めた。
+  Sie hielt mich am Ärmel fest und brachte mich zum Stehen.
+
+  上司が部下の襟首をつかんで怒鳴った。
+  上司[じょうし]が 部下[ぶか]の 襟首[えりくび]をつかんで 怒鳴[どな]った。
+  Der Vorgesetzte packte seinen Untergebenen am Kragen und schrie ihn an.
+
+  このチャンスをつかまなければならない。
+  このチャンスをつかまなければならない。
+  Wir müssen diese Chance ergreifen.
+
+  ロープをしっかりとつかんでいてください。
+  ロープをしっかりとつかんでいてください。
+  Bitte halten Sie das Seil fest.
+
+  彼は幸運をつかみ、一流企業に就職できた。
+  彼[かれ]は 幸運[こううん]をつかみ、一流[いちりゅう] 企業[きぎょう]に 就職[しゅうしょく]できた。
+  Er hatte Glück und konnte bei einem erstklassigen Unternehmen anfangen.
+
+  子供が母親の手をつかんで歩いていた。
+  子供[こども]が 母親[ははおや]の 手[て]をつかんで 歩[ある]いていた。
+  Das Kind ging an der Hand seiner Mutter.
+
+  彼は突然、胸をつかんで倒れた。
+  彼[かれ]は 突然[とつぜん]、胸[むね]をつかんで 倒[たお]れた。
+  Plötzlich griff er sich an die Brust und brach zusammen.
+
+  その説明を聞いて、やっと状況をつかむことができた。
+  その 説明[せつめい]を 聞[き]いて、やっと 状況[じょうきょう]をつかむことができた。
+  Nachdem ich die Erklärung gehört hatte, konnte ich die Situation endlich begreifen.
+
+  彼女の演説は聴衆の心をつかんだ。
+  彼女[かのじょ]の 演説[えんぜつ]は 聴衆[ちょうしゅう]の 心[こころ]をつかんだ。
+  Ihre Rede fesselte die Aufmerksamkeit des Publikums.
+
+  この小説は読者の心をつかむ魅力がある。
+  この 小説[しょうせつ]は 読者[どくしゃ]の 心[こころ]をつかむ 魅力[みりょく]がある。
+  Dieser Roman hat den Charme, die Herzen der Leser zu fesseln.
+
+  彼はコツをつかんで、急速に上達した。
+  彼[かれ]はコツをつかんで、急速[きゅうそく]に 上達[じょうたつ]した。
+  Er begriff den Dreh und verbesserte sich schnell.
+
+  彼女は相手の弱点をつかんで攻撃した。
+  彼女[かのじょ]は 相手[あいて]の 弱点[じゃくてん]をつかんで 攻撃[こうげき]した。
+  Sie erkannte die Schwäche ihres Gegners und griff an.
+
+  私たちは重要なポイントをつかみ損ねた。
+  私[わたし]たちは 重要[じゅうよう]なポイントをつかみ 損[そこ]ねた。
+  Wir haben es versäumt, den wichtigen Punkt zu erfassen.
+
+  彼は状況をつかむのが上手だ。
+  彼[かれ]は 状況[じょうきょう]をつかむのが 上手[じょうず]だ。
+  Er ist gut darin, Situationen zu erfassen.
+
+  その政治家は民心をつかむのが得意だ。
+  その 政治家[せいじか]は 民心[みんしん]をつかむのが 得意[とくい]だ。
+  Dieser Politiker ist geschickt darin, die Herzen der Menschen zu gewinnen.
+
+  彼女は問題の本質をつかんでいる。
+  彼女[かのじょ]は 問題[もんだい]の 本質[ほんしつ]をつかんでいる。
+  Sie hat den Kern des Problems erfasst.
+
+  彼は証拠をつかんでいると主張した。
+  彼[かれ]は 証拠[しょうこ]をつかんでいると 主張[しゅちょう]した。
+  Er behauptete, Beweise zu haben.
+
+  その歌手は観客の心をつかむパフォーマンスをした。
+  その 歌手[かしゅ]は 観客[かんきゃく]の 心[こころ]をつかむパフォーマンスをした。
+  Der Sänger bot eine Performance, die das Publikum in seinen Bann zog.
+
+  彼女は相手の手首をつかんで投げ飛ばした。
+  彼女[かのじょ]は 相手[あいて]の 手首[てくび]をつかんで 投[な]げ 飛[と]ばした。
+  Sie packte das Handgelenk ihres Gegners und warf ihn zu Boden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>つかむ hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Physisch etwas festhalten oder ergreifen:</li>
+    <div class="examples">
+      <div class="jp">ロープをしっかりとつかんでください。</div>
+      <div class="de spoiler">Bitte halten Sie das Seil fest.</div>
+    </div>
+    <li>Im übertragenen Sinne etwas begreifen oder verstehen:</li>
+    <div class="examples">
+      <div class="jp">やっと 状況[じょうきょう]をつかむことができた。</div>
+      <div class="de spoiler">Endlich konnte ich die Situation begreifen.</div>
+    </div>
+  </ol>
+  <p>Es gibt auch die Redewendung 心[こころ]をつかむ (kokoro o tsukamu), was bedeutet, jemanden zu faszinieren oder zu fesseln:</p>
+  <div class="examples">
+    <div class="jp">その 歌手[かしゅ]は 観客[かんきゃく]の 心[こころ]をつかむパフォーマンスをした。</div>
+    <div class="de spoiler">Der Sänger bot eine Performance, die das Publikum in seinen Bann zog.</div>
+  </div>

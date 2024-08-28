@@ -2,24 +2,116 @@ Rang: 1721
 Lemma: くださる
 Lesung: ''
 Tonhöhen: .^\.
-Definition: geben (ehrfüchtig)
+Definition: (jmdm. etw.) geben; bitte (tun Sie)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: aux
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: くださらない・くださった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   先生が本をくださいました。
   先生[せんせい]が 本[ほん]をくださいました。
-  Der Lehrer hat mir ein Buch gegeben.
+  Der Lehrer hat mir freundlicherweise ein Buch gegeben.
+
+  この書類に署名してくださいませんか。
+  この 書類[しょるい]に 署名[しょめい]してくださいませんか。
+  Würden Sie bitte dieses Dokument unterschreiben?
+
+  お忙しいところ、お時間をくださりありがとうございます。
+  お 忙[いそが]しいところ、お 時間[じかん]をくださりありがとうございます。
+  Vielen Dank, dass Sie sich trotz Ihres vollen Terminkalenders Zeit für mich genommen haben.
+
+  質問があれば、遠慮なく聞いてください。
+  質問[しつもん]があれば、遠慮[えんりょ]なく 聞[き]いてください。
+  Bitte zögern Sie nicht, Fragen zu stellen, wenn Sie welche haben.
+
+  この本を学生たちに配ってくださいませんか。
+  この 本[ほん]を 学生[がくせい]たちに 配[くば]ってくださいませんか。
+  Könnten Sie bitte dieses Buch an die Studenten verteilen?
+
+  もう少し詳しく説明してくださいますか。
+  もう 少[すこ]し 詳[くわ]しく 説明[せつめい]してくださいますか。
+  Könnten Sie es bitte etwas ausführlicher erklären?
+
+  お手数ですが、もう一度確認してくださいませんか。
+  お 手数[てすう]ですが、もう 一度[いちど] 確認[かくにん]してくださいませんか。
+  Es tut mir leid, Sie zu belästigen, aber könnten Sie es bitte noch einmal überprüfen?
+
+  新しい情報があれば、教えてくださるようお願いします。
+  新[あたら]しい 情報[じょうほう]があれば、教[おし]えてくださるようお 願[ねが]いします。
+  Bitte informieren Sie mich, wenn es neue Informationen gibt.
+
+  このプロジェクトに参加してくださってありがとうございます。
+  このプロジェクトに 参加[さんか]してくださってありがとうございます。
+  Vielen Dank, dass Sie an diesem Projekt teilnehmen.
+
+  お忙しいのに、わざわざ来てくださってありがとうございます。
+  お 忙[いそが]しいのに、わざわざ 来[き]てくださってありがとうございます。
+  Vielen Dank, dass Sie trotz Ihrer Beschäftigung extra hergekommen sind.
+
+  この資料を明日までに提出してくださるようお願いします。
+  この 資料[しりょう]を 明日[あした]までに 提出[ていしゅつ]してくださるようお 願[ねが]いします。
+  Bitte reichen Sie diese Unterlagen bis morgen ein.
+
+  お客様のご要望にお応えできるよう努力させていただきます。
+  お 客様[きゃくさま]のご 要望[ようぼう]にお 応[こた]えできるよう 努力[どりょく]させていただきます。
+  Wir werden unser Bestes tun, um Ihren Wünschen gerecht zu werden.
+
+  申し訳ありませんが、もう少しお待ちくださいませんか。
+  申[もう]し 訳[わけ]ありませんが、もう 少[すこ]しお 待[ま]ちくださいませんか。
+  Entschuldigung, könnten Sie bitte noch einen Moment warten?
+
+  ご協力くださり、心より感謝申し上げます。
+  ご 協力[きょうりょく]くださり、心[こころ]より 感謝[かんしゃ] 申[もう]し 上[あ]げます。
+  Ich danke Ihnen von Herzen für Ihre Unterstützung.
+
+  お手数をおかけしますが、よろしくお願いいたします。
+  お 手数[てすう]をおかけしますが、よろしくお 願[ねが]いいたします。
+  Es tut mir leid, Sie zu belästigen, aber ich bitte Sie um Ihre Unterstützung.
+
+  ご意見をお聞かせくださいませんか。
+  ご 意見[いけん]をお 聞[き]かせくださいませんか。
+  Würden Sie mir bitte Ihre Meinung mitteilen?
+
+  お時間の許す限り、ゆっくりしていってください。
+  お 時間[じかん]の 許[ゆる]す 限[かぎ]り、ゆっくりしていってください。
+  Bitte nehmen Sie sich so viel Zeit, wie Sie möchten.
+
+  お客様のご要望に沿えるよう最善を尽くさせていただきます。
+  お 客様[きゃくさま]のご 要望[ようぼう]に 沿[そ]えるよう 最善[さいぜん]を 尽[つ]くさせていただきます。
+  Wir werden unser Bestes tun, um Ihren Wünschen zu entsprechen.
+
+  ご不便をおかけして申し訳ございませんが、ご理解くださいますようお願い申し上げます。
+  ご 不便[ふべん]をおかけして 申[もう]し 訳[わけ]ございませんが、ご 理解[りかい]くださいますようお 願[ねが]い 申[もう]し 上[あ]げます。
+  Ich entschuldige mich für die Unannehmlichkeiten und bitte um Ihr Verständnis.
+
+  お客様のご要望を承りましたので、早急に対応させていただきます。
+  お 客様[きゃくさま]のご 要望[ようぼう]を 承[うけたまわ]りましたので、早急[そうきゅう]に 対応[たいおう]させていただきます。
+  Ich habe Ihre Anfrage erhalten und werde mich umgehend darum kümmern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">くださる</span> ist eine höfliche Form des Verbs <span class="jp">くれる</span> (geben) und wird verwendet, um Respekt gegenüber dem Geber auszudrücken oder um höflich um etwas zu bitten.</p>
+  <p>Es wird oft in Verbindung mit dem Honorativpräfix <span class="jp">お</span> (o-) oder <span class="jp">ご</span> (go-) verwendet, um die Höflichkeit noch zu verstärken.</p>
+  <div class="examples">
+    <div class="jp">お 待[ま]ちくださいませんか。</div>
+    <div class="de spoiler">Würden Sie bitte warten?</div>
+  </div>
+  <p>In der Te-Form (<span class="jp">～てください</span>) wird es häufig verwendet, um höflich um etwas zu bitten.</p>
+  <div class="examples">
+    <div class="jp">ここに 署名[しょめい]してください。</div>
+    <div class="de spoiler">Bitte unterschreiben Sie hier.</div>
+  </div>
+  <p>Es kann auch in der Vergangenheitsform verwendet werden, um Dankbarkeit auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">ご 協力[きょうりょく]くださってありがとうございました。</div>
+    <div class="de spoiler">Vielen Dank für Ihre Unterstützung.</div>
+  </div>

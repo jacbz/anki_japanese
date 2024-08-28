@@ -2,20 +2,100 @@ Rang: 1727
 Lemma: 握る
 Lesung: にぎる
 Tonhöhen: .^^
-Definition: halten, greifen, umfassen
+Definition: greifen, halten; formen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 握らない・握った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ハンドルを両手でしっかり握ってください。
   ハンドルを 両手[りょうて]でしっかり 握[にぎ]ってください。
-  Bitte halten Sie das Lenkrad fest mit beiden Händen.
+  Bitte halten Sie das Lenkrad mit beiden Händen fest umklammert.
+
+  彼は怒りで拳を握りしめた。
+  彼[かれ]は 怒[いか]りで 拳[こぶし]を 握[にぎ]りしめた。
+  Er ballte vor Wut die Fäuste.
+
+  友情の証として手を握り合った。
+  友情[ゆうじょう]の 証[あかし]として 手[て]を 握[にぎ]り 合[あ]った。
+  Sie reichten sich als Zeichen der Freundschaft die Hände.
+
+  財布を握っているのは妻だ。
+  財布[さいふ]を 握[にぎ]っているのは 妻[つま]だ。
+  Meine Frau hat die Kontrolle über das Portemonnaie.
+
+  重要な証拠を握っている。
+  重要[じゅうよう]な 証拠[しょうこ]を 握[にぎ]っている。
+  Ich habe wichtige Beweise in der Hand.
+
+  その政治家は権力を握っている。
+  政治家[せいじか]は 権力[けんりょく]を 握[にぎ]っている。
+  Dieser Politiker hat die Macht inne.
+
+  彼女の弱みを握っているから、言うことを聞くだろう。
+  彼女[かのじょ]の 弱[よわ]みを 握[にぎ]っているから、言[い]うことを 聞[き]くだろう。
+  Ich kenne ihre Schwachstelle, also wird sie wohl auf mich hören.
+
+  寿司職人は素早く寿司を握っていた。
+  寿司職人[すししょくにん]は 素早[すばや]く 寿司[すし]を 握[にぎ]っていた。
+  Der Sushi-Meister formte die Sushi-Stücke schnell.
+
+  おにぎりを握って、ピクニックの準備をした。
+  おにぎりを 握[にぎ]って、ピクニックの 準備[じゅんび]をした。
+  Ich formte Reisbällchen als Vorbereitung für das Picknick.
+
+  彼は柄を強く握りすぎて、刀を折ってしまった。
+  彼[かれ]は 柄[つか]を 強[つよ]く 握[にぎ]りすぎて、刀[かたな]を 折[お]ってしまった。
+  Er hielt den Griff zu fest und zerbrach das Schwert.
+
+  バットをしっかり握って、打席に立った。
+  バットをしっかり 握[にぎ]って、打席[だせき]に 立[た]った。
+  Er umfasste den Schläger fest und trat an den Schlag.
+
+  キューを握り、球を狙った。
+  キューを 握[にぎ]り、球[たま]を 狙[ねら]った。
+  Er nahm den Queue in die Hand und zielte auf die Kugel.
+
+  握手をして、取引が成立した。
+  握手[あくしゅ]をして、取引[とりひき]が 成立[せいりつ]した。
+  Mit einem Handschlag wurde der Deal besiegelt.
+
+  鍵を握っているのは、この問題の解決だ。
+  鍵[かぎ]を 握[にぎ]っているのは、この 問題[もんだい]の 解決[かいけつ]だ。
+  Der Schlüssel liegt in der Lösung dieses Problems.
+
+  彼らは手を握り合って、困難に立ち向かった。
+  彼[かれ]らは 手[て]を 握[にぎ]り 合[あ]って、困難[こんなん]に 立[た]ち 向[む]かった。
+  Sie hielten zusammen und stellten sich den Schwierigkeiten.
+
+  社長は会社の実権を握っている。
+  社長[しゃちょう]は 会社[かいしゃ]の 実権[じっけん]を 握[にぎ]っている。
+  Der Präsident hat die tatsächliche Kontrolle über das Unternehmen.
+
+  彼女は恐怖で夫の手を強く握った。
+  彼女[かのじょ]は 恐怖[きょうふ]で 夫[おっと]の 手[て]を 強[つよ]く 握[にぎ]った。
+  Aus Angst umklammerte sie fest die Hand ihres Mannes.
+
+  チームの勝利の鍵を握っているのは、キャプテンの活躍だ。
+  チームの 勝利[しょうり]の 鍵[かぎ]を 握[にぎ]っているのは、キャプテンの 活躍[かつやく]だ。
+  Der Schlüssel zum Sieg des Teams liegt in der Leistung des Kapitäns.
+
+  彼は握力が強くて、相手の手を痛いほど握る。
+  彼[かれ]は 握力[あくりょく]が 強[つよ]くて、相手[あいて]の 手[て]を 痛[いた]いほど 握[にぎ]る。
+  Er hat einen so starken Händedruck, dass es den anderen schmerzt.
+
+  社員全員で手を握り、団結を誓った。
+  社員全員[しゃいんぜんいん]で 手[て]を 握[にぎ]り、団結[だんけつ]を 誓[ちか]った。
+  Alle Mitarbeiter reichten sich die Hände und schworen Zusammenhalt.
+
+  彼女はストレスで鉛筆を強く握りしめていた。
+  彼女[かのじょ]はストレスで 鉛筆[えんぴつ]を 強[つよ]く 握[にぎ]りしめていた。
+  Aus Stress umklammerte sie den Bleistift fest.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

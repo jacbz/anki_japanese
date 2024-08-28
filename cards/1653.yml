@@ -2,20 +2,96 @@ Rang: 1653
 Lemma: 諦める
 Lesung: あきらめる
 Tonhöhen: .^^\.
-Definition: aufgeben, aufhören
+Definition: aufgeben
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 諦めない・諦めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   途中であきらめないで。
   途中[とちゅう]であきらめないで。
-  Gib nicht halbwegs auf.
+  Gib nicht auf halbem Wege auf.
+
+  彼はそう簡単には諦めない。
+  彼[かれ]はそう 簡単[かんたん]には 諦[あきら]めない。
+  So leicht gibt er nicht auf.
+
+  まだ諦めるのは早い。
+  まだ 諦[あきら]めるのは 早[はや]い。
+  Es ist noch zu früh, um aufzugeben.
+
+  「ここの女中は、みんなヤーさんに惚れてるんだけど、ちっとも振りむいてもらえないのよ。かねちゃん、早いとこあきらめなさいな」
+  「ここの 女中[じょちゅう]は、みんなヤーさんに 惚[ほ]れてるんだけど、ちっとも 振[ふ]りむいてもらえないのよ。かねちゃん、 早[はや]いとこあきらめなさいな」
+  "Alle Dienstmädchen hier sind in Herrn Y verliebt, aber er beachtet sie überhaupt nicht. Kane-chan, du solltest es lieber schnell aufgeben."
+
+  僕はコーヒーを途中であきらめて。
+  僕[ぼく]はコーヒーを 途中[とちゅう]であきらめて。
+  Ich gab den Kaffee auf halbem Wege auf.
+
+  私はどうもあんな奴は虫が好かないから無き縁とあきらめて下さい。
+  私[わたし]はどうもあんな 奴[やつ]は 虫[むし]が 好[す]かないから 無[な]き 縁[えん]とあきらめて 下[くだ]さい。
+  Ich mag diesen Kerl einfach nicht, also bitte gib die Idee einer Beziehung auf.
+
+  「長い病気ですから、急によくなることはあきらめております」
+  「長[なが]い 病気[びょうき]ですから、 急[きゅう]によくなることはあきらめております」
+  "Da es eine langwierige Krankheit ist, habe ich die Hoffnung aufgegeben, mich schnell zu erholen."
+
+  時々こちらを見ては何か言い出そうとしたが、すぐにあきらめ、コーラと一緒に言葉も飲み込んだ。
+  時々[ときどき]こちらを 見[み]ては 何[なに]か 言[い]い 出[だ]そうとしたが、すぐにあきらめ、コーラと 一緒[いっしょ]に 言葉[ことば]も 飲[の]み 込[こ]んだ。
+  Ab und zu schaute er her, als wollte er etwas sagen, gab aber sofort auf und schluckte seine Worte zusammen mit der Cola hinunter.
+
+  ミスタ・ディダラスが諦めたような溜息をもらした。
+  ミスタ・ディダラスが 諦[あきら]めたような 溜息[ためいき]をもらした。
+  Mr. Dedalus stieß einen resignierten Seufzer aus.
+
+  まだ諦めない。希望はあるよ。
+  まだ 諦[あきら]めない。 希望[きぼう]はあるよ。
+  Gib noch nicht auf. Es gibt noch Hoffnung.
+
+  無駄だと諦めないで。もう一度挑戦してみよう。
+  無駄[むだ]だと 諦[あきら]めないで。もう 一度[いちど] 挑戦[ちょうせん]してみよう。
+  Gib nicht auf, weil du denkst, es sei sinnlos. Lass es uns noch einmal versuchen.
+
+  進学を諦めずに、奨学金を探してみましょう。
+  進学[しんがく]を 諦[あきら]めずに、奨学金[しょうがくきん]を 探[さが]してみましょう。
+  Gib das Studium nicht auf, lass uns nach einem Stipendium suchen.
+
+  失敗を諦めずに、そこから学ぶことが大切だ。
+  失敗[しっぱい]を 諦[あきら]めずに、そこから 学[まな]ぶことが 大切[たいせつ]だ。
+  Gib nicht wegen eines Fehlers auf, es ist wichtig, daraus zu lernen.
+
+  損を諦めて、前を向こう。
+  損[そん]を 諦[あきら]めて、 前[まえ]を 向[む]こう。
+  Lass uns den Verlust akzeptieren und nach vorne schauen.
+
+  運命と諦めて受け入れるのではなく、自分で未来を切り開こう。
+  運命[うんめい]と 諦[あきら]めて 受[う]け 入[い]れるのではなく、 自分[じぶん]で 未来[みらい]を 切[き]り 開[ひら]こう。
+  Anstatt es als Schicksal zu akzeptieren, lass uns unsere eigene Zukunft gestalten.
+
+  諦めた顔付きで会議室に入らないで。
+  諦[あきら]めた 顔付[かおつ]きで 会議室[かいぎしつ]に 入[はい]らないで。
+  Geh nicht mit einem resignierten Gesichtsausdruck in den Besprechungsraum.
+
+  自分で自分を諦めないで。君にはまだ可能性がある。
+  自分[じぶん]で 自分[じぶん]を 諦[あきら]めないで。 君[きみ]にはまだ 可能性[かのうせい]がある。
+  Gib dich selbst nicht auf. Du hast noch Potenzial.
+
+  人生を諦めるのは早すぎる。まだ若いんだから。
+  人生[じんせい]を 諦[あきら]めるのは 早[はや]すぎる。まだ 若[わか]いんだから。
+  Es ist zu früh, das Leben aufzugeben. Du bist noch jung.
+
+  諦めずに頑張れば、きっと道は開けるはずだ。
+  諦[あきら]めずに 頑張[がんば]れば、きっと 道[みち]は 開[ひら]けるはずだ。
+  Wenn du nicht aufgibst und dein Bestes gibst, wird sich sicher ein Weg öffnen.
+
+  彼女は夢を諦めずに、10年かけて目標を達成した。
+  彼女[かのじょ]は 夢[ゆめ]を 諦[あきら]めずに、10年[ねん]かけて 目標[もくひょう]を 達成[たっせい]した。
+  Sie gab ihren Traum nicht auf und erreichte ihr Ziel nach 10 Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

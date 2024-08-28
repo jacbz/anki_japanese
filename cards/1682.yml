@@ -2,13 +2,13 @@ Rang: 1682
 Lemma: 囲む
 Lesung: かこむ
 Tonhöhen: .^^
-Definition: umgeben
+Definition: umgeben, umschließen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 囲まない・囲んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   その町は山に囲まれている。
   その 町[まち]は 山[やま]に 囲[かこ]まれている。
   Die Stadt ist von Bergen umgeben.
+
+  番号を丸で囲んでください。
+  番号[ばんごう]を 丸[まる]で 囲[かこ]んでください。
+  Bitte kreisen Sie die Nummer ein.
+
+  テキストをわくで囲むと目立ちます。
+  テキストをわくで 囲[かこ]むと 目立[めだ]ちます。
+  Wenn man den Text umrahmt, fällt er auf.
+
+  有名人がファンに囲まれていた。
+  有名人[ゆうめいじん]がファンに 囲[かこ]まれていた。
+  Der Prominente war von Fans umringt.
+
+  祖父は孫に囲まれて幸せそうだった。
+  祖父[そふ]は 孫[まご]に 囲[かこ]まれて 幸[しあわ]せそうだった。
+  Der Großvater sah glücklich aus, umgeben von seinen Enkeln.
+
+  塀で家を囲むことにしました。
+  塀[へい]で 家[いえ]を 囲[かこ]むことにしました。
+  Wir haben beschlossen, das Haus mit einem Zaun zu umgeben.
+
+  僕らは火を囲んで、鳥の肉を食べた。
+  僕[ぼく]らは 火[ひ]を 囲[かこ]んで、鳥[とり]の 肉[にく]を 食[た]べた。
+  Wir saßen um das Feuer herum und aßen Vogelfleisch.
+
+  十人以上の人がテーブルを囲んでいた。
+  十[じゅう]人[にん] 以上[いじょう]の 人[ひと]がテーブルを 囲[かこ]んでいた。
+  Mehr als zehn Personen saßen um den Tisch herum.
+
+  生徒たちは先生を囲んで座った。
+  生徒[せいと]たちは 先生[せんせい]を 囲[かこ]んで 座[すわ]った。
+  Die Schüler setzten sich im Kreis um den Lehrer.
+
+  記者やカメラマンに囲まれて、署長は事件について話した。
+  記者[きしゃ]やカメラマンに 囲[かこ]まれて、署長[しょちょう]は 事件[じけん]について 話[はな]した。
+  Umringt von Reportern und Fotografen sprach der Polizeichef über den Fall.
+
+  要塞は高い塀に囲まれていた。
+  要塞[ようさい]は 高[たか]い 塀[へい]に 囲[かこ]まれていた。
+  Die Festung war von hohen Mauern umgeben.
+
+  静寂が司祭の周りを囲んだ。
+  静寂[せいじゃく]が 司祭[しさい]の 周[まわ]りを 囲[かこ]んだ。
+  Stille umgab den Priester.
+
+  日本の周りは海に囲まれている。
+  日本[にほん]の 周[まわ]りは 海[うみ]に 囲[かこ]まれている。
+  Japan ist von Meer umgeben.
+
+  友達と囲碁を一局囲むことにした。
+  友達[ともだち]と 囲碁[いご]を 一局[いっきょく] 囲[かこ]むことにした。
+  Ich beschloss, eine Partie Go mit meinem Freund zu spielen.
+
+  警官に囲まれて、容疑者は逃げられなかった。
+  警官[けいかん]に 囲[かこ]まれて、容疑者[ようぎしゃ]は 逃[に]げられなかった。
+  Von Polizisten umzingelt, konnte der Verdächtige nicht fliehen.
+
+  キャンプファイアーを囲んで、皆で歌を歌った。
+  キャンプファイアーを 囲[かこ]んで、皆[みな]で 歌[うた]を 歌[うた]った。
+  Wir sangen Lieder, während wir um das Lagerfeuer saßen.
+
+  城は深い堀に囲まれていた。
+  城[しろ]は 深[ふか]い 堀[ほり]に 囲[かこ]まれていた。
+  Die Burg war von einem tiefen Graben umgeben.
+
+  彼女は愛する家族に囲まれて幸せだ。
+  彼女[かのじょ]は 愛[あい]する 家族[かぞく]に 囲[かこ]まれて 幸[しあわ]せだ。
+  Sie ist glücklich, von ihrer liebenden Familie umgeben zu sein.
+
+  重要な情報を四角で囲んでおいた。
+  重要[じゅうよう]な 情報[じょうほう]を 四角[しかく]で 囲[かこ]んでおいた。
+  Ich habe die wichtigen Informationen mit einem Rechteck umrahmt.
+
+  コタツを囲んで、家族で鍋を食べた。
+  コタツを 囲[かこ]んで、家族[かぞく]で 鍋[なべ]を 食[た]べた。
+  Wir aßen als Familie einen Eintopf, während wir um den Kotatsu saßen.
+
+  大切な宝物を金庫に囲んで保管した。
+  大切[たいせつ]な 宝物[たからもの]を 金庫[きんこ]に 囲[かこ]んで 保管[ほかん]した。
+  Ich bewahrte den wertvollen Schatz in einem Safe auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

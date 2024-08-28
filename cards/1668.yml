@@ -2,24 +2,115 @@ Rang: 1668
 Lemma: あふれる
 Lesung: ''
 Tonhöhen: .^\.
-Definition: überlaufen, gefüllt sein mit
+Definition: überlaufen; überströmen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: あふれない・あふれた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   公園は花であふれている。
   公園[こうえん]は 花[はな]であふれている。
-  Der Park ist mit Blumen gefüllt.
+  Der Park ist voller Blumen.
+
+  雨で川が溢れて、道路が冠水した。
+  雨[あめ]で 川[かわ]が 溢[あふ]れて、道路[どうろ]が 冠水[かんすい]した。
+  Der Fluss ist durch den Regen über die Ufer getreten und die Straßen sind überflutet.
+
+  彼女の目に涙があふれてきた。
+  彼女[かのじょ]の 目[め]に 涙[なみだ]があふれてきた。
+  Tränen stiegen in ihren Augen auf.
+
+  グラスに注いだワインがあふれそうだ。
+  グラスに 注[そそ]いだワインがあふれそうだ。
+  Der ins Glas gegossene Wein droht überzulaufen.
+
+  街は観光客であふれかえっている。
+  街[まち]は 観光客[かんこうきゃく]であふれかえっている。
+  Die Stadt ist überfüllt mit Touristen.
+
+  彼の話を聞いて、感動があふれてきた。
+  彼[かれ]の 話[はなし]を 聞[き]いて、感動[かんどう]があふれてきた。
+  Als ich seine Geschichte hörte, wurde ich von Emotionen überwältigt.
+
+  コンサート会場は熱気であふれていた。
+  コンサート 会場[かいじょう]は 熱気[ねっき]であふれていた。
+  Der Konzertsaal war von Begeisterung erfüllt.
+
+  彼女の歌声は会場中にあふれ広がった。
+  彼女[かのじょ]の 歌声[うたごえ]は 会場中[かいじょうじゅう]にあふれ 広[ひろ]がった。
+  Ihre Stimme erfüllte den ganzen Saal.
+
+  市場は新鮮な果物や野菜であふれている。
+  市場[いちば]は 新鮮[しんせん]な 果物[くだもの]や 野菜[やさい]であふれている。
+  Der Markt ist voll von frischem Obst und Gemüse.
+
+  彼の心は喜びであふれていた。
+  彼[かれ]の 心[こころ]は 喜[よろこ]びであふれていた。
+  Sein Herz war voller Freude.
+
+  街頭は選挙ポスターであふれている。
+  街頭[がいとう]は 選挙[せんきょ]ポスターであふれている。
+  Die Straßen sind voll von Wahlplakaten.
+
+  彼女の目は涙があふれて、コートの膝に落ちた。
+  彼女[かのじょ]の 目[め]は 涙[なみだ]があふれて、コートの 膝[ひざ]に 落[お]ちた。
+  Tränen quollen aus ihren Augen und fielen auf ihre vom Mantel bedeckten Knie.
+
+  彼の声には情熱があふれていた。
+  彼[かれ]の 声[こえ]には 情熱[じょうねつ]があふれていた。
+  Seine Stimme war voller Leidenschaft.
+
+  町は軍人や職工であふれていました。
+  町[まち]は 軍人[ぐんじん]や 職工[しょっこう]であふれていました。
+  Die Stadt war voll von Soldaten und Arbeitern.
+
+  コーヒーカップはいまにもあふれそうだった。
+  コーヒーカップはいまにもあふれそうだった。
+  Die Kaffeetasse war kurz davor überzulaufen.
+
+  彼の表情は拒否の気持ちであふれていた。
+  彼[かれ]の 表情[ひょうじょう]は 拒否[きょひ]の 気持[きも]ちであふれていた。
+  Sein Gesichtsausdruck war voller Ablehnung.
+
+  優勝は感動あふれる場面となった。
+  優勝[ゆうしょう]は 感動[かんどう]あふれる 場面[ばめん]となった。
+  Der Sieg wurde zu einer bewegenden Szene.
+
+  かつては人であふれていた町が今は静かだ。
+  かつては 人[ひと]であふれていた 町[まち]が 今[いま]は 静[しず]かだ。
+  Die einst von Menschen überfüllte Stadt ist jetzt ruhig.
+
+  彼女の演技は感情があふれていた。
+  彼女[かのじょ]の 演技[えんぎ]は 感情[かんじょう]があふれていた。
+  Ihr Schauspiel war voller Emotionen.
+
+  彼の絵は色彩があふれている。
+  彼[かれ]の 絵[え]は 色彩[しきさい]があふれている。
+  Seine Gemälde sind voller Farben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb あふれる (afureru) wird verwendet, um auszudrücken, dass etwas überläuft, überfließt oder im Überfluss vorhanden ist. Es kann sich sowohl auf physische als auch auf emotionale Zustände beziehen.</p>
+  <div class="examples">
+    <div class="jp">バスタブに 水[みず]を 入[い]れすぎて、あふれてしまった。</div>
+    <div class="de spoiler">Ich habe zu viel Wasser in die Badewanne gelassen, und es ist übergelaufen.</div>
+  </div>
+  <p>Es wird auch oft verwendet, um starke Emotionen oder Atmosphären zu beschreiben:</p>
+  <div class="examples">
+    <div class="jp">会場[かいじょう]は 拍手[はくしゅ]であふれた。</div>
+    <div class="de spoiler">Der Saal war erfüllt von Applaus.</div>
+  </div>
+  <p>In übertragener Bedeutung kann es auch "von etwas wimmeln" oder "voll sein von etwas" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">この 町[まち]は 観光客[かんこうきゃく]であふれている。</div>
+    <div class="de spoiler">Diese Stadt wimmelt von Touristen.</div>
+  </div>

@@ -2,24 +2,119 @@ Rang: 1675
 Lemma: 入る
 Lesung: いる
 Tonhöhen: .^
-Definition: hineinkommen
+Definition: eintreten; versinken (in)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ↗Gesprochen
 Ursprung: ''
-Konjugation: ''
+Konjugation: 入らない・入った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   郷に入れば郷に従え。
-  郷[さと]に 入[はい]れば 郷[さと]に 従[したが]え。
-  Andere Länder, andere Sitten.
+  郷[ごう]に 入[い]れば 郷[ごう]に 従[したが]え。
+  Wenn du in ein fremdes Land kommst, passe dich den dortigen Sitten an.
+
+  彼はその説明を聞き入っていた。
+  彼[かれ]はその 説明[せつめい]を 聞[き]き 入[い]っていた。
+  Er hörte der Erklärung aufmerksam zu.
+
+  美しい風景に見入ってしまった。
+  美[うつく]しい 風景[ふうけい]に 見[み] 入[い]ってしまった。
+  Ich war von der schönen Landschaft völlig hingerissen.
+
+  子供が泣き入って母親を困らせた。
+  子供[こども]が 泣[な]き 入[い]って 母親[ははおや]を 困[こま]らせた。
+  Das Kind weinte herzzerreißend und brachte damit seine Mutter in Verlegenheit.
+
+  疲れて深く寝入ってしまった。
+  疲[つか]れて 深[ふか]く 寝[ね] 入[い]ってしまった。
+  Ich war so müde, dass ich in einen tiefen Schlaf versank.
+
+  彼女は問題の解決策を思い入って考えていた。
+  彼女[かのじょ]は 問題[もんだい]の 解決策[かいけつさく]を 思[おも]い 入[い]って 考[かんが]えていた。
+  Sie war in tiefes Nachdenken über die Lösung des Problems versunken.
+
+  風邪で咳き入って眠れない夜が続いた。
+  風邪[かぜ]で 咳[せ]き 入[い]って 眠[ねむ]れない 夜[よる]が 続[つづ]いた。
+  Ich hatte wegen einer Erkältung Hustenanfälle und konnte mehrere Nächte nicht schlafen.
+
+  彼の言葉に痛み入って、何も言えなかった。
+  彼[かれ]の 言葉[ことば]に 痛[いた]み 入[い]って、何[なに]も 言[い]えなかった。
+  Seine Worte machten mich so verlegen, dass ich nichts erwidern konnte.
+
+  医者は患者の意見を聞き入れようとしなかった。
+  医者[いしゃ]は 患者[かんじゃ]の 意見[いけん]を 聞[き]き 入[い]れようとしなかった。
+  Der Arzt war nicht bereit, auf die Meinung des Patienten einzugehen.
+
+  彼女の演技に見入って、時間が経つのを忘れた。
+  彼女[かのじょ]の 演技[えんぎ]に 見[み] 入[い]って、時間[じかん]が 経[た]つのを 忘[わす]れた。
+  Ich war so in ihr Schauspiel vertieft, dass ich die Zeit vergaß.
+
+  悲しみに沈み入って、何日も部屋から出なかった。
+  悲[かな]しみに 沈[しず]み 入[い]って、何日[なんにち]も 部屋[へや]から 出[で]なかった。
+  In tiefe Trauer versunken, verließ er tagelang sein Zimmer nicht.
+
+  彼の話に聞き入って、周りの騒音も気にならなかった。
+  彼[かれ]の 話[はなし]に 聞[き]き 入[い]って、周[まわ]りの 騒音[そうおん]も 気[き]にならなかった。
+  Ich war so in seine Geschichte vertieft, dass ich den Lärm um mich herum nicht einmal bemerkte.
+
+  その曲を聴き入って、一瞬で心が癒された。
+  その 曲[きょく]を 聴[き]き 入[い]って、一瞬[いっしゅん]で 心[こころ]が 癒[いや]された。
+  Ich hörte dem Lied aufmerksam zu, und mein Herz wurde augenblicklich geheilt.
+
+  彼女の歌声に聞き入る観客たち。
+  彼女[かのじょ]の 歌声[うたごえ]に 聞[き]き 入[い]る 観客[かんきゃく]たち。
+  Das Publikum lauschte gebannt ihrer Stimme.
+
+  深く考え入って、問題の解決策を見つけた。
+  深[ふか]く 考[かんが]え 入[い]って、問題[もんだい]の 解決策[かいけつさく]を 見[み]つけた。
+  In tiefes Nachdenken versunken, fand ich eine Lösung für das Problem.
+
+  彼の言葉に気がつかないほど本に読み入っていた。
+  彼[かれ]の 言葉[ことば]に 気[き]がつかないほど 本[ほん]に 読[よ]み 入[い]っていた。
+  Ich war so in das Buch vertieft, dass ich seine Worte nicht einmal bemerkte.
+
+  強い香りに嗅ぎ入って、その場に立ち尽くした。
+  強[つよ]い 香[かお]りに 嗅[か]ぎ 入[い]って、その 場[ば]に 立[た]ち 尽[つ]くした。
+  Von dem starken Duft gefesselt, blieb ich wie angewurzelt stehen.
+
+  彼女の話に心打たれ、思わず涙が込み上げてきた。
+  彼女[かのじょ]の 話[はなし]に 心打[こころう]たれ、思[おも]わず 涙[なみだ]が 込[こ]み 上[あ]げてきた。
+  Von ihrer Geschichte tief berührt, stiegen mir unwillkürlich Tränen in die Augen.
+
+  その絵画の美しさに見入って、時間の経つのを忘れてしまった。
+  その 絵画[かいが]の 美[うつく]しさに 見[み] 入[い]って、時間[じかん]の 経[た]つのを 忘[わす]れてしまった。
+  Ich war so von der Schönheit des Gemäldes fasziniert, dass ich die Zeit völlig vergaß.
+
+  彼の演奏に聴き入る観客たち。
+  彼[かれ]の 演奏[えんそう]に 聴[き]き 入[い]る 観客[かんきゃく]たち。
+  Das Publikum lauschte gebannt seinem Spiel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Als Hilfsverb wird 入る an die Konjunktionalform von Verben angeschlossen, um das vollständige Erreichen eines Zustands oder einer großen Intensität auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 話[はなし]に 聞[き]き 入[い]った。</div>
+    <div class="de spoiler">Ich hörte seinen Worten aufmerksam zu.</div>
+  </div>
+  <p>Es wird oft in Verbindung mit Sinneswahrnehmungen oder emotionalen Zuständen verwendet:</p>
+  <div class="examples">
+    <div class="jp">美[うつく]しい 景色[けしき]に 見[み] 入[い]る。</div>
+    <div class="de spoiler">Von der schönen Aussicht völlig hingerissen sein.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">悲[かな]しみに 沈[しず]み 入[い]る。</div>
+    <div class="de spoiler">In tiefe Trauer versinken.</div>
+  </div>
+  <p>Es kann auch eine intensive oder anhaltende Handlung ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">問題[もんだい]について 深[ふか]く 考[かんが]え 入[い]った。</div>
+    <div class="de spoiler">Ich dachte intensiv über das Problem nach.</div>
+  </div>

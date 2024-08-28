@@ -2,24 +2,115 @@ Rang: 1699
 Lemma: 触る
 Lesung: さわる
 Tonhöhen: .^^
-Definition: berühren
+Definition: berühren, anfassen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 触らない・触った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   絵に触らないでください。
   絵[え]に 触[さわ]らないでください。
-  Bitte berühren Sie die Gemälde nicht.
+  Bitte berühren Sie das Gemälde nicht.
+
+  耳たぶを触ると、リラックスできる人もいます。
+  耳[みみ]たぶを 触[さわ]ると、リラックスできる 人[ひと]もいます。
+  Manche Leute können sich entspannen, wenn sie ihre Ohrläppchen berühren.
+
+  手で優しく赤ちゃんの頭を触りました。
+  手[て]で 優[やさ]しく 赤[あか]ちゃんの 頭[あたま]を 触[さわ]りました。
+  Ich berührte sanft den Kopf des Babys mit meiner Hand.
+
+  指で花弁に触ると、とても柔らかいです。
+  指[ゆび]で 花弁[かべん]に 触[さわ]ると、とても 柔[やわ]らかいです。
+  Wenn man die Blütenblätter mit dem Finger berührt, sind sie sehr weich.
+
+  あちこち触らないで。壊れやすいものがあるから。
+  あちこち 触[さわ]らないで。壊[こわ]れやすいものがあるから。
+  Fass nicht überall an. Es gibt zerbrechliche Sachen.
+
+  そっと猫の背中に触ると、ゴロゴロと喉を鳴らしました。
+  そっと 猫[ねこ]の 背中[せなか]に 触[さわ]ると、ゴロゴロと 喉[のど]を 鳴[な]らしました。
+  Als ich sanft den Rücken der Katze berührte, fing sie an zu schnurren.
+
+  少しでも手に傷があれば、食物に触ることは許されない。
+  少[すこ]しでも 手[て]に 傷[きず]があれば、食物[しょくもつ]に 触[さわ]ることは 許[ゆる]されない。
+  Wenn man auch nur den kleinsten Schnitt an den Händen hat, darf man die Lebensmittel nicht berühren.
+
+  そのとたんに、はだしの足になにかそっと触ったものがあります。
+  そのとたんに、はだしの 足[あし]になにかそっと 触[さわ]ったものがあります。
+  In diesem Augenblick berührte etwas sanft meinen nackten Fuß.
+
+  暇さえあれば手を出して、そっと鼻の先に触ってみた。
+  暇[ひま]さえあれば 手[て]を 出[だ]して、そっと 鼻[はな]の 先[さき]に 触[さわ]ってみた。
+  Wann immer ich Zeit hatte, streckte ich meine Hand aus und berührte sanft meine Nasenspitze.
+
+  運転手はボンネットを開けてあちこち触っているが、うまくいかない。
+  運転手[うんてんしゅ]はボンネットを 開[あ]けてあちこち 触[さわ]っているが、うまくいかない。
+  Der Fahrer öffnete die Motorhaube und tastete überall herum, aber es funktionierte nicht.
+
+  前へ出ろ。身体を触らせてみな。
+  前[まえ]へ 出[で]ろ。身体[からだ]を 触[さわ]らせてみな。
+  Tritt vor. Lass mich deinen Körper anfassen.
+
+  自分は、人間のいざこざに出来るだけ触りたくないのでした。
+  自分[じぶん]は、人間[にんげん]のいざこざに 出来[でき]るだけ 触[さわ]りたくないのでした。
+  Ich wollte möglichst nichts mit den Streitigkeiten zwischen Menschen zu tun haben.
+
+  その問題には触らない方がいいよ。
+  その 問題[もんだい]には 触[さわ]らない 方[ほう]がいいよ。
+  Es ist besser, dieses Problem nicht anzurühren.
+
+  触らぬ神に祟りなしということわざを知っていますか。
+  触[さわ]らぬ 神[かみ]に 祟[たた]りなしということわざを 知[し]っていますか。
+  Kennst du das Sprichwort "Schlafende Hunde soll man nicht wecken"?
+
+  新しい機械の使い方が分からないので、むやみに触らないようにしています。
+  新[あたら]しい 機械[きかい]の 使[つか]い 方[かた]が 分[わ]からないので、むやみに 触[さわ]らないようにしています。
+  Da ich nicht weiß, wie man die neue Maschine benutzt, vermeide ich es, sie unnötig anzufassen.
+
+  展示品に触ると警報が鳴るシステムが導入されました。
+  展示品[てんじひん]に 触[さわ]ると 警報[けいほう]が 鳴[な]るシステムが 導入[どうにゅう]されました。
+  Es wurde ein System eingeführt, bei dem ein Alarm ertönt, wenn man die Ausstellungsstücke berührt.
+
+  彼女の肩に軽く触れると、彼女はびっくりして振り向きました。
+  彼女[かのじょ]の 肩[かた]に 軽[かる]く 触[さわ]れると、彼女[かのじょ]はびっくりして 振[ふ]り 向[む]きました。
+  Als ich ihre Schulter leicht berührte, drehte sie sich erschrocken um.
+
+  触ると痛いので、その傷にはバンドエイドを貼りました。
+  触[さわ]ると 痛[いた]いので、その 傷[きず]にはバンドエイドを 貼[は]りました。
+  Da es bei Berührung schmerzt, habe ich ein Pflaster auf die Wunde geklebt.
+
+  子供たちは好奇心旺盛で、何でも触りたがります。
+  子供[こども]たちは 好奇心旺盛[こうきしんおうせい]で、何[なん]でも 触[さわ]りたがります。
+  Kinder sind sehr neugierig und wollen alles anfassen.
+
+  その古い写真に触るときは、綿の手袋を着用してください。
+  その 古[ふる]い 写真[しゃしん]に 触[さわ]るときは、綿[わた]の 手袋[てぶくろ]を 着用[ちゃくよう]してください。
+  Bitte tragen Sie Baumwollhandschuhe, wenn Sie diese alten Fotos berühren.
+
+  触ると冷たい大理石の表面が、夏の暑さを和らげてくれます。
+  触[さわ]ると 冷[つめ]たい 大理石[だいりせき]の 表面[ひょうめん]が、夏[なつ]の 暑[あつ]さを 和[やわ]らげてくれます。
+  Die kühle Oberfläche des Marmors, die sich beim Berühren kalt anfühlt, lindert die Sommerhitze.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 触る (sawaru) wird verwendet, um auszudrücken, dass man etwas berührt oder anfasst. Es wird oft in Situationen verwendet, in denen man vorsichtig oder respektvoll mit etwas umgehen sollte.</p>
+  <div class="examples">
+    <div class="jp">美術館[びじゅつかん]では 作品[さくひん]に 触[さわ]らないでください。</div>
+    <div class="de spoiler">Bitte berühren Sie in Museen die Kunstwerke nicht.</div>
+  </div>
+  <p>Es kann auch im übertragenen Sinne verwendet werden, um auszudrücken, dass man sich mit etwas befasst oder damit zu tun hat.</p>
+  <div class="examples">
+    <div class="jp">その 問題[もんだい]には 触[さわ]らない 方[ほう]が 良[よ]いでしょう。</div>
+    <div class="de spoiler">Es wäre besser, dieses Problem nicht anzurühren.</div>
+  </div>
+  <p>Das Sprichwort 触らぬ神に祟りなし (sawaranu kami ni tatari nashi) bedeutet wörtlich "Von Göttern, die man nicht berührt, kommt keine Strafe" und entspricht dem deutschen Sprichwort "Schlafende Hunde soll man nicht wecken".</p>

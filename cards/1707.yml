@@ -2,24 +2,119 @@ Rang: 1707
 Lemma: 倒れる
 Lesung: たおれる
 Tonhöhen: .^\.
-Definition: fallen, zusammenbrechen
-Alternativschreibweisen: ''
+Definition: fallen; zusammenbrechen; sterben
+Alternativschreibweisen: 斃れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 倒れない・倒れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その木は台風で倒れてしまった。
   その 木[き]は 台風[たいふう]で 倒[たお]れてしまった。
-  Der Baum fiel in einem Taifun um.
+  Der Baum ist durch den Taifun umgestürzt.
+
+  彼女は道路で突然倒れた。
+  彼女[かのじょ]は 道路[どうろ]で 突然[とつぜん] 倒[たお]れた。
+  Sie brach plötzlich auf der Straße zusammen.
+
+  コップが倒れて、水がこぼれた。
+  コップが 倒[たお]れて、水[みず]がこぼれた。
+  Das Glas kippte um und das Wasser schwappte heraus.
+
+  床に倒れた彼を助け起こした。
+  床[ゆか]に 倒[たお]れた 彼[かれ]を 助[たす]け 起[お]こした。
+  Ich half ihm auf, nachdem er auf den Boden gefallen war.
+
+  強風で看板が後ろに倒れそうだ。
+  強風[きょうふう]で 看板[かんばん]が 後[うし]ろに 倒[たお]れそうだ。
+  Das Schild droht durch den starken Wind nach hinten umzukippen.
+
+  彼はうつ伏せに倒れて動かなかった。
+  彼[かれ]はうつ 伏[ふ]せに 倒[たお]れて 動[うご]かなかった。
+  Er fiel flach auf den Bauch und bewegte sich nicht.
+
+  仰向けに倒れた状態で発見された。
+  仰向[あおむ]けに 倒[たお]れた 状態[じょうたい]で 発見[はっけん]された。
+  Er wurde in einer Rückenlage liegend aufgefunden.
+
+  台風で倒れた木々が道をふさいでいる。
+  台風[たいふう]で 倒[たお]れた 木々[きぎ]が 道[みち]をふさいでいる。
+  Die vom Taifun umgestürzten Bäume blockieren den Weg.
+
+  彼は疲れて今にも倒れそうだった。
+  彼[かれ]は 疲[つか]れて 今[いま]にも 倒[たお]れそうだった。
+  Er war so müde, dass er jeden Moment umzufallen drohte.
+
+  ストレスで倒れる人が増えている。
+  ストレスで 倒[たお]れる 人[ひと]が 増[ふ]えている。
+  Immer mehr Menschen brechen aufgrund von Stress zusammen.
+
+  過労で倒れないよう、休憩を取ることが大切だ。
+  過労[かろう]で 倒[たお]れないよう、休憩[きゅうけい]を 取[と]ることが 大切[たいせつ]だ。
+  Es ist wichtig, Pausen einzulegen, um nicht vor Überarbeitung zusammenzubrechen.
+
+  祖父は肺炎で倒れ、入院した。
+  祖父[そふ]は 肺炎[はいえん]で 倒[たお]れ、入院[にゅういん]した。
+  Mein Großvater erkrankte an einer Lungenentzündung und wurde ins Krankenhaus eingeliefert.
+
+  彼は戦場で倒れた英雄だ。
+  彼[かれ]は 戦場[せんじょう]で 倒[たお]れた 英雄[えいゆう]だ。
+  Er ist ein Held, der auf dem Schlachtfeld gefallen ist.
+
+  風邪で倒れているので、今日は休みます。
+  風邪[かぜ]で 倒[たお]れているので、今日[きょう]は 休[やす]みます。
+  Ich bleibe heute zu Hause, weil ich mit einer Erkältung im Bett liege.
+
+  政府が倒れ、新たな選挙が行われた。
+  政府[せいふ]が 倒[たお]れ、新[あら]たな 選挙[せんきょ]が 行[おこな]われた。
+  Die Regierung stürzte und es wurden Neuwahlen abgehalten.
+
+  その会社は経営難で倒れてしまった。
+  その 会社[かいしゃ]は 経営難[けいえいなん]で 倒[たお]れてしまった。
+  Das Unternehmen ging aufgrund finanzieller Schwierigkeiten bankrott.
+
+  彼は最後まで倒れずに戦い抜いた。
+  彼[かれ]は 最後[さいご]まで 倒[たお]れずに 戦[たたか]い 抜[ぬ]いた。
+  Er kämpfte bis zum Ende, ohne aufzugeben.
+
+  選手は決勝戦で倒れ、優勝を逃した。
+  選手[せんしゅ]は 決勝戦[けっしょうせん]で 倒[たお]れ、優勝[ゆうしょう]を 逃[のが]した。
+  Der Athlet scheiterte im Finale und verpasste den Sieg.
+
+  地震で多くの建物が倒れた。
+  地震[じしん]で 多[おお]くの 建物[たてもの]が 倒[たお]れた。
+  Viele Gebäude stürzten durch das Erdbeben ein.
+
+  彼女は突然倒れて、意識を失った。
+  彼女[かのじょ]は 突然[とつぜん] 倒[たお]れて、意識[いしき]を 失[うしな]った。
+  Sie brach plötzlich zusammen und verlor das Bewusstsein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 倒れる hat verschiedene Bedeutungen:</p>
+  <ol>
+    <li>Physisch fallen oder umkippen:<div class="examples">
+        <div class="jp">風[かぜ]で 木[き]が 倒[たお]れた。</div>
+        <div class="de spoiler">Der Baum fiel durch den Wind um.</div>
+      </div>
+    </li>
+    <li>Zusammenbrechen (gesundheitlich):<div class="examples">
+        <div class="jp">過労[かろう]で 倒[たお]れた。</div>
+        <div class="de spoiler">Er brach vor Überarbeitung zusammen.</div>
+      </div>
+    </li>
+    <li>Figurativ für das Scheitern oder den Niedergang:<div class="examples">
+        <div class="jp">会社[かいしゃ]が 倒[たお]れた。</div>
+        <div class="de spoiler">Die Firma ging pleite.</div>
+      </div>
+    </li>
+  </ol>
+  <p>In der Redewendung 倒れて後已む (たおれてのちやむ) bedeutet es "erst aufhören, nachdem man zusammengebrochen ist" und wird verwendet, um Ausdauer und Entschlossenheit auszudrücken.</p>

@@ -2,10 +2,10 @@ Rang: 1715
 Lemma: 骨
 Lesung: ほね
 Tonhöhen: .\
-Definition: Knochen
+Definition: Knochen; Rückgrat
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, na-no-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,98 @@ Konjugation: ''
 Beispielsätze: |-
   足の骨が折れている。
   足[あし]の 骨[ほね]が 折[お]れている。
-  Ein Knochen in meinem Fuß ist gebrochen.
+  Ich habe mir einen Knochen im Fuß gebrochen.
+
+  魚の骨がのどに刺さって困っています。
+  魚[さかな]の 骨[ほね]がのどに 刺[さ]さって 困[こま]っています。
+  Ich habe Probleme, weil mir eine Fischgräte im Hals stecken geblieben ist.
+
+  この魚は骨ごと食べられます。
+  この 魚[さかな]は 骨[ほね]ごと 食[た]べられます。
+  Dieser Fisch kann mit Gräten gegessen werden.
+
+  長期の病気で、彼は骨と皮ばかりになってしまった。
+  長期[ちょうき]の 病気[びょうき]で、彼[かれ]は 骨[ほね]と 皮[かわ]ばかりになってしまった。
+  Durch die lange Krankheit ist er nur noch Haut und Knochen.
+
+  医者が骨を接ぐのに時間がかかりました。
+  医者[いしゃ]が 骨[ほね]を 接[つ]ぐのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, bis der Arzt den Knochen gerichtet hatte.
+
+  この魚は骨が多いので、食べるのに注意が必要だ。
+  この 魚[さかな]は 骨[ほね]が 多[おお]いので、食[た]べるのに 注意[ちゅうい]が 必要[ひつよう]だ。
+  Dieser Fisch hat viele Gräten, also muss man beim Essen vorsichtig sein.
+
+  戦争で亡くなった兵士たちの骨が、この土地に埋められている。
+  戦争[せんそう]で 亡[な]くなった 兵士[へいし]たちの 骨[ほね]が、この 土地[とち]に 埋[う]められている。
+  Die Gebeine der im Krieg gefallenen Soldaten sind in diesem Boden begraben.
+
+  傘の骨が折れてしまったので、新しい傘を買わなければならない。
+  傘[かさ]の 骨[ほね]が 折[お]れてしまったので、新[あたら]しい 傘[かさ]を 買[か]わなければならない。
+  Die Rippen meines Schirms sind kaputt gegangen, also muss ich einen neuen kaufen.
+
+  扇子の骨が折れたので、修理に出しました。
+  扇子[せんす]の 骨[ほね]が 折[お]れたので、修理[しゅうり]に 出[だ]しました。
+  Die Rippen meines Fächers sind zerbrochen, also habe ich ihn zur Reparatur gegeben.
+
+  彼は骨のある人物で、困難な状況でも決して妥協しない。
+  彼[かれ]は 骨[ほね]のある 人物[じんぶつ]で、困難[こんなん]な 状況[じょうきょう]でも 決[けっ]して 妥協[だきょう]しない。
+  Er ist ein Mensch mit Rückgrat und macht in schwierigen Situationen keine Kompromisse.
+
+  この仕事は骨が折れるが、やりがいがある。
+  この 仕事[しごと]は 骨[ほね]が 折[お]れるが、やりがいがある。
+  Diese Arbeit ist zwar mühsam, aber lohnend.
+
+  山道を越えるのは骨が折れる作業だ。
+  山道[やまみち]を 越[こ]えるのは 骨[ほね]が 折[お]れる 作業[さぎょう]だ。
+  Über den Bergweg zu gehen, ist eine mühsame Aufgabe.
+
+  彼女は骨太な性格で、どんな困難にも負けない。
+  彼女[かのじょ]は 骨太[ほねぶと]な 性格[せいかく]で、どんな 困難[こんなん]にも 負[ま]けない。
+  Sie hat einen starken Charakter und gibt bei keiner Schwierigkeit auf.
+
+  この仕事は骨が折れるが、終わったときの達成感は格別だ。
+  この 仕事[しごと]は 骨[ほね]が 折[お]れるが、終[お]わったときの 達成感[たっせいかん]は 格別[かくべつ]だ。
+  Diese Arbeit ist zwar mühsam, aber das Gefühl der Erfüllung nach der Vollendung ist etwas Besonderes.
+
+  彼は骨の髄まで誠実な人間だ。
+  彼[かれ]は 骨[ほね]の 髄[ずい]まで 誠実[せいじつ]な 人間[にんげん]だ。
+  Er ist ein durch und durch aufrichtiger Mensch.
+
+  火葬後、遺族が骨を拾う儀式が行われた。
+  火葬[かそう]後[ご]、遺族[いぞく]が 骨[ほね]を 拾[ひろ]う 儀式[ぎしき]が 行[おこな]われた。
+  Nach der Einäscherung wurde die Zeremonie durchgeführt, bei der die Angehörigen die Knochen aufsammelten.
+
+  この仕事を成功させるために、骨を砕いて頑張ろう。
+  この 仕事[しごと]を 成功[せいこう]させるために、骨[ほね]を 砕[くだ]いて 頑張[がんば]ろう。
+  Lasst uns uns abmühen, um diese Arbeit zum Erfolg zu bringen.
+
+  彼は骨を惜しまず働き、ついに大きな成功を収めた。
+  彼[かれ]は 骨[ほね]を 惜[お]しまず 働[はたら]き、ついに 大[おお]きな 成功[せいこう]を 収[おさ]めた。
+  Er arbeitete unermüdlich und erzielte schließlich einen großen Erfolg.
+
+  長い会議の後、少し骨を休めることにした。
+  長[なが]い 会議[かいぎ]の 後[あと]、少[すこ]し 骨[ほね]を 休[やす]めることにした。
+  Nach der langen Besprechung beschloss ich, mich ein wenig auszuruhen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">骨[ほね]が 折[お]れる</span> bedeutet wörtlich "der Knochen bricht", wird aber oft im übertragenen Sinne für "mühsam sein" oder "sich anstrengen" verwendet.</p>
+  <div class="examples">
+    <div class="jp">この 仕事[しごと]は 骨[ほね]が 折[お]れるが、結果[けっか]は 満足[まんぞく]できるはずだ。</div>
+    <div class="de spoiler">Diese Arbeit ist zwar mühsam, aber das Ergebnis sollte zufriedenstellend sein.</div>
+  </div>
+  <p><span class="jp">骨[ほね]を 埋[う]める</span> bedeutet wörtlich "die Knochen begraben", wird aber oft im Sinne von "an einem Ort sein Leben verbringen" oder "sich einem Ort oder einer Sache völlig widmen" verwendet.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 日本[にほん]に 骨[ほね]を 埋[う]めるつもりだ。</div>
+    <div class="de spoiler">Er hat vor, sein Leben in Japan zu verbringen.</div>
+  </div>
+  <p><span class="jp">骨[ほね]のある</span> bedeutet "mit Rückgrat" oder "charakterstark" und wird verwendet, um eine Person mit starkem Willen oder Prinzipien zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 骨[ほね]のある 政治家[せいじか]として 知[し]られている。</div>
+    <div class="de spoiler">Sie ist als Politikerin mit Rückgrat bekannt.</div>
+  </div>

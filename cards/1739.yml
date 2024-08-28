@@ -2,7 +2,7 @@ Rang: 1739
 Lemma: 犯罪
 Lesung: はんざい
 Tonhöhen: .^^^
-Definition: Verbrechen, Straftat
+Definition: Verbrechen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,116 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   最近、少年犯罪が増えている。
-  最近[さいきん]、 少年犯罪[しょうねんはんざい]が 増[ふ]えている。
-  In letzter Zeit nimmt die Jugendkriminalität zu.
+  最近[さいきん]、少年犯罪[しょうねんはんざい]が 増[ふ]えている。
+  In letzter Zeit nehmen Jugendstraftaten zu.
+
+  警察は犯罪防止に力を入れている。
+  警察[けいさつ]は 犯罪防止[はんざいぼうし]に 力[ちから]を 入[い]れている。
+  Die Polizei setzt sich verstärkt für die Verbrechensverhütung ein.
+
+  犯罪地の現場検証が行われた。
+  犯罪地[はんざいち]の 現場検証[げんばけんしょう]が 行[おこな]われた。
+  Am Tatort wurde eine Untersuchung durchgeführt.
+
+  彼は犯罪映画の脚本を書いている。
+  彼[かれ]は 犯罪映画[はんざいえいが]の 脚本[きゃくほん]を 書[か]いている。
+  Er schreibt das Drehbuch für einen Kriminalfilm.
+
+  犯罪学を専攻している学生が増えています。
+  犯罪学[はんざいがく]を 専攻[せんこう]している 学生[がくせい]が 増[ふ]えています。
+  Es gibt immer mehr Studenten, die Kriminologie studieren.
+
+  この地域の犯罪発生率が低下しました。
+  この 地域[ちいき]の 犯罪発生率[はんざいはっせいりつ]が 低下[ていか]しました。
+  Die Kriminalitätsrate in dieser Region ist gesunken.
+
+  新しい犯罪法が施行されました。
+  新[あたら]しい 犯罪法[はんざいほう]が 施行[しこう]されました。
+  Ein neues Gesetz gegen Verbrechen ist in Kraft getreten.
+
+  彼の犯罪行為は許されるものではない。
+  彼[かれ]の 犯罪行為[はんざいこうい]は 許[ゆる]されるものではない。
+  Seine kriminelle Handlung ist unverzeihlich.
+
+  この作家は犯罪物語を得意としている。
+  この 作家[さっか]は 犯罪物語[はんざいものがたり]を 得意[とくい]としている。
+  Dieser Autor ist spezialisiert auf Kriminalgeschichten.
+
+  犯罪者の更生プログラムが始まった。
+  犯罪者[はんざいしゃ]の 更生[こうせい]プログラムが 始[はじ]まった。
+  Ein Rehabilitationsprogramm für Straftäter wurde gestartet.
+
+  彼の犯罪性は幼少期のトラウマに起因するかもしれない。
+  彼[かれ]の 犯罪性[はんざいせい]は 幼少期[ようしょうき]のトラウマに 起因[きいん]するかもしれない。
+  Seine kriminelle Neigung könnte auf ein Kindheitstrauma zurückzuführen sein.
+
+  犯罪社会学の講義が人気です。
+  犯罪社会学[はんざいしゃかいがく]の 講義[こうぎ]が 人気[にんき]です。
+  Die Vorlesungen in Kriminalsoziologie sind sehr beliebt.
+
+  その犯罪シンディケートは国際的に活動している。
+  その 犯罪[はんざい]シンディケートは 国際的[こくさいてき]に 活動[かつどう]している。
+  Das Verbrechersyndikat operiert international.
+
+  犯罪心理学者がプロファイリングを行った。
+  犯罪心理学者[はんざいしんりがくしゃ]がプロファイリングを 行[おこな]った。
+  Der Kriminalpsychologe erstellte ein Profil.
+
+  彼は犯罪少年の更生に尽力している。
+  彼[かれ]は 犯罪少年[はんざいしょうねん]の 更生[こうせい]に 尽力[じんりょく]している。
+  Er setzt sich für die Rehabilitation straffällig gewordener Jugendlicher ein.
+
+  その犯罪小説は世界中でベストセラーになった。
+  その 犯罪小説[はんざいしょうせつ]は 世界中[せかいじゅう]でベストセラーになった。
+  Dieser Kriminalroman wurde weltweit zum Bestseller.
+
+  警察は犯罪統計を公表した。
+  警察[けいさつ]は 犯罪統計[はんざいとうけい]を 公表[こうひょう]した。
+  Die Polizei veröffentlichte die Kriminalstatistik.
+
+  重犯罪の発生率が上昇している。
+  重犯罪[じゅうはんざい]の 発生率[はっせいりつ]が 上昇[じょうしょう]している。
+  Die Rate schwerer Straftaten steigt an.
+
+  完全犯罪なんて存在しないと彼は言った。
+  完全犯罪[かんぜんはんざい]なんて 存在[そんざい]しないと 彼[かれ]は 言[い]った。
+  Er sagte, dass es so etwas wie das perfekte Verbrechen nicht gibt.
+
+  経済犯罪の捜査には専門知識が必要だ。
+  経済犯罪[けいざいはんざい]の 捜査[そうさ]には 専門知識[せんもんちしき]が 必要[ひつよう]だ。
+  Für die Untersuchung von Wirtschaftsverbrechen ist Fachwissen erforderlich.
+
+  麻薬犯罪の取り締まりが強化された。
+  麻薬犯罪[まやくはんざい]の 取[と]り 締[し]まりが 強化[きょうか]された。
+  Die Bekämpfung von Drogendelikten wurde verstärkt.
+
+  戦争犯罪の裁判が国際法廷で行われた。
+  戦争犯罪[せんそうはんざい]の 裁判[さいばん]が 国際法廷[こくさいほうてい]で 行[おこな]われた。
+  Der Prozess wegen Kriegsverbrechen fand vor einem internationalen Gericht statt.
+
+  組織犯罪対策本部が設置された。
+  組織犯罪対策本部[そしきはんざいたいさくほんぶ]が 設置[せっち]された。
+  Eine Sondereinheit zur Bekämpfung des organisierten Verbrechens wurde eingerichtet.
+
+  彼は犯罪の嫌疑で逮捕された。
+  彼[かれ]は 犯罪[はんざい]の 嫌疑[けんぎ]で 逮捕[たいほ]された。
+  Er wurde unter Tatverdacht verhaftet.
+
+  その政策は犯罪を助長する可能性がある。
+  その 政策[せいさく]は 犯罪[はんざい]を 助長[じょちょう]する 可能性[かのうせい]がある。
+  Diese Politik könnte kriminelle Handlungen begünstigen.
+
+  彼は犯罪を重ねて刑務所に入った。
+  彼[かれ]は 犯罪[はんざい]を 重[かさ]ねて 刑務所[けいむしょ]に 入[はい]った。
+  Er kam ins Gefängnis, weil er wiederholt Straftaten begangen hatte.
+
+  その行為は犯罪を構成する可能性がある。
+  その 行為[こうい]は 犯罪[はんざい]を 構成[こうせい]する 可能性[かのうせい]がある。
+  Diese Handlung könnte ein Verbrechen darstellen.
+
+  犯罪を犯すことは社会に対する裏切りだ。
+  犯罪[はんざい]を 犯[おか]すことは 社会[しゃかい]に 対[たい]する 裏切[うらぎ]りだ。
+  Ein Verbrechen zu begehen ist ein Verrat an der Gesellschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

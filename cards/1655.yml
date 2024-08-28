@@ -2,8 +2,8 @@ Rang: 1655
 Lemma: 障害
 Lesung: しょうがい
 Tonhöhen: ..^^\
-Definition: Hindernis, Behinderung
-Alternativschreibweisen: ''
+Definition: Hindernis; Behinderung
+Alternativschreibweisen: 障碍
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -14,12 +14,100 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は障害を乗り越えて、夢を実現した。
-  彼[かれ]は 障害[しょうがい]を 乗[の]り 越[こ]えて、 夢[ゆめ]を 実現[じつげん]した。
-  Er hat Schwierigkeiten überwunden und seinen Traum verwirklicht.
+  彼[かれ]は 障害[しょうがい]を 乗[の]り 越[こ]えて、夢[ゆめ]を 実現[じつげん]した。
+  Er überwand die Hindernisse und verwirklichte seinen Traum.
+
+  道路工事が交通障害の原因となっている。
+  道路工事[どうろこうじ]が 交通障害[こうつうしょうがい]の 原因[げんいん]となっている。
+  Die Straßenarbeiten verursachen Verkehrsbehinderungen.
+
+  言語による障害を克服するため、通訳を雇った。
+  言語[げんご]による 障害[しょうがい]を 克服[こくふく]するため、通訳[つうやく]を 雇[やと]った。
+  Um die sprachlichen Barrieren zu überwinden, wurde ein Dolmetscher eingestellt.
+
+  貿易障害の撤廃が両国の経済成長を促進するだろう。
+  貿易障害[ぼうえきしょうがい]の 撤廃[てっぱい]が 両国[りょうごく]の 経済成長[けいざいせいちょう]を 促進[そくしん]するだろう。
+  Die Beseitigung von Handelshemmnissen wird das Wirtschaftswachstum beider Länder fördern.
+
+  進歩の障害となる古い慣習を見直す必要がある。
+  進歩[しんぽ]の 障害[しょうがい]となる 古[ふる]い 慣習[かんしゅう]を 見直[みなお]す 必要[ひつよう]がある。
+  Es ist notwendig, alte Gewohnheiten zu überdenken, die den Fortschritt behindern.
+
+  この問題が解決の障害となっていることは明らかだ。
+  この 問題[もんだい]が 解決[かいけつ]の 障害[しょうがい]となっていることは 明[あき]らかだ。
+  Es ist offensichtlich, dass dieses Problem eine Lösung erschwert.
+
+  予期せぬ障害にぶつかり、計画の見直しを余儀なくされた。
+  予期[よき]せぬ 障害[しょうがい]にぶつかり、計画[けいかく]の 見直[みなお]しを 余儀[よぎ]なくされた。
+  Wir stießen auf unerwartete Hindernisse und waren gezwungen, unsere Pläne zu überarbeiten.
+
+  障害を避けるのではなく、それを成長の機会として捉えるべきだ。
+  障害[しょうがい]を 避[さ]けるのではなく、それを 成長[せいちょう]の 機会[きかい]として 捉[とら]えるべきだ。
+  Man sollte Hindernisse nicht vermeiden, sondern sie als Chance zum Wachstum betrachten.
+
+  彼女は障害児教育の分野で先駆的な研究を行っている。
+  彼女[かのじょ]は 障害児教育[しょうがいじきょういく]の 分野[ぶんや]で 先駆的[せんくてき]な 研究[けんきゅう]を 行[おこな]っている。
+  Sie führt bahnbrechende Forschungen im Bereich der Erziehung behinderter Kinder durch.
+
+  障害年金の申請手続きについて詳しく教えてください。
+  障害年金[しょうがいねんきん]の 申請手続[しんせいてつづ]きについて 詳[くわ]しく 教[おし]えてください。
+  Bitte erklären Sie mir die Antragsverfahren für die Behindertenrente im Detail.
+
+  精神障害に対する社会の理解を深めることが重要だ。
+  精神障害[せいしんしょうがい]に 対[たい]する 社会[しゃかい]の 理解[りかい]を 深[ふか]めることが 重要[じゅうよう]だ。
+  Es ist wichtig, das gesellschaftliche Verständnis für psychische Störungen zu vertiefen.
+
+  身体障害があっても、彼は前向きに生きている。
+  身体障害[しんたいしょうがい]があっても、彼[かれ]は 前向[まえむ]きに 生[い]きている。
+  Trotz seiner körperlichen Behinderung lebt er positiv.
+
+  過度の飲酒は肝臓に障害を起こす可能性がある。
+  過度[かど]の 飲酒[いんしゅ]は 肝臓[かんぞう]に 障害[しょうがい]を 起[お]こす 可能性[かのうせい]がある。
+  Übermäßiger Alkoholkonsum kann Leberschäden verursachen.
+
+  知的障害のある人々の社会参加を促進する政策が必要だ。
+  知的障害[ちてきしょうがい]のある 人々[ひとびと]の 社会参加[しゃかいさんか]を 促進[そくしん]する 政策[せいさく]が 必要[ひつよう]だ。
+  Es sind Maßnahmen erforderlich, um die soziale Teilhabe von Menschen mit geistiger Behinderung zu fördern.
+
+  後天的障害を負った人々の生活支援に力を入れている。
+  後天的障害[こうてんてきしょうがい]を 負[お]った 人々[ひとびと]の 生活支援[せいかつしえん]に 力[ちから]を 入[い]れている。
+  Wir konzentrieren uns auf die Unterstützung von Menschen mit erworbenen Behinderungen.
+
+  先天的障害の早期発見と適切な治療が重要です。
+  先天的障害[せんてんてきしょうがい]の 早期発見[そうきはっけん]と 適切[てきせつ]な 治療[ちりょう]が 重要[じゅうよう]です。
+  Die frühzeitige Erkennung und angemessene Behandlung von angeborenen Behinderungen ist wichtig.
+
+  障害物競走で彼は見事な跳躍力を披露した。
+  障害物競走[しょうがいぶつきょうそう]で 彼[かれ]は 見事[みごと]な 跳躍力[ちょうやくりょく]を 披露[ひろう]した。
+  Beim Hindernislauf zeigte er eine beeindruckende Sprungkraft.
+
+  100メートル障害で新記録を樹立した選手に称賛が集まっている。
+  100[ひゃく]メートル 障害[しょうがい]で 新記録[しんきろく]を 樹立[じゅりつ]した 選手[せんしゅ]に 称賛[しょうさん]が 集[あつ]まっている。
+  Der Athlet, der einen neuen Rekord im 100-Meter-Hürdenlauf aufgestellt hat, erntet viel Lob.
+
+  障害者スポーツの普及により、多様性への理解が深まっている。
+  障害者[しょうがいしゃ]スポーツの 普及[ふきゅう]により、多様性[たようせい]への 理解[りかい]が 深[ふか]まっている。
+  Durch die Verbreitung des Behindertensports wächst das Verständnis für Vielfalt.
+
+  彼らは様々な障害を乗り越えて、ついにプロジェクトを完成させた。
+  彼[かれ]らは 様々[さまざま]な 障害[しょうがい]を 乗[の]り 越[こ]えて、ついにプロジェクトを 完成[かんせい]させた。
+  Sie überwanden verschiedene Hindernisse und vollendeten schließlich das Projekt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Hindernis oder Störfaktor im allgemeinen Sinne</li>
+    <li>Körperliche oder geistige Behinderung im medizinischen Sinne</li>
+  </ol>
+  <p>Verwendung:</p>
+  <ul>
+    <li><span class="jp">障害[しょうがい]に‹と›なる</span>: ein Hindernis sein; etw. behindern oder stören</li>
+    <li><span class="jp">障害[しょうがい]を 乗[の]り 越[こ]える</span>: ein Hindernis überwinden</li>
+    <li><span class="jp">障害[しょうがい]がある</span>: eine Behinderung haben, behindert sein</li>
+  </ul>
+  <p>Es gibt auch eine Verwendung im Sport, besonders bei Hindernisläufen.</p>

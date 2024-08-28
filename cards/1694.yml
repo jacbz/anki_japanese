@@ -2,7 +2,7 @@ Rang: 1694
 Lemma: 等
 Lesung: とう
 Tonhöhen: \.
-Definition: und so weiter
+Definition: Rang, Klasse; und so weiter
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   氏名、所属、住所、等をお知らせください。
-  氏名[しめい]、 所属[しょぞく]、 住所[じゅうしょ]、 等[ひとし]をお 知[し]らせください。
+  氏名[しめい]、所属[しょぞく]、住所[じゅうしょ]、等[とう]をお 知[し]らせください。
   Bitte teilen Sie uns Ihren Namen, Ihre Zugehörigkeit, Ihre Adresse usw. mit.
+
+  この商品は一等品質です。
+  この 商品[しょうひん]は 一等[いっとう] 品質[ひんしつ]です。
+  Dieses Produkt ist von erstklassiger Qualität.
+
+  彼らは成績によって上等、中等、下等に分けられた。
+  彼[かれ]らは 成績[せいせき]によって 上等[じょうとう]、中等[ちゅうとう]、下等[かとう]に 分[わ]けられた。
+  Sie wurden nach ihren Leistungen in obere, mittlere und untere Klassen eingeteilt.
+
+  この学校では生徒を能力別に三等に分けています。
+  この 学校[がっこう]では 生徒[せいと]を 能力別[のうりょくべつ]に 三等[さんとう]に 分[わ]けています。
+  In dieser Schule werden die Schüler nach Fähigkeiten in drei Klassen eingeteilt.
+
+  試験の結果によって等を分けることは公平ではないかもしれません。
+  試験[しけん]の 結果[けっか]によって 等[とう]を 分[わ]けることは 公平[こうへい]ではないかもしれません。
+  Es mag nicht fair sein, Ränge basierend auf Prüfungsergebnissen zu vergeben.
+
+  彼女は一等の成績で大学を卒業しました。
+  彼女[かのじょ]は 一等[いっとう]の 成績[せいせき]で 大学[だいがく]を 卒業[そつぎょう]しました。
+  Sie hat ihr Studium mit Auszeichnung abgeschlossen.
+
+  この会社では従業員を業績に応じて等級分けしています。
+  この 会社[かいしゃ]では 従業員[じゅうぎょういん]を 業績[ぎょうせき]に 応[おう]じて 等級分[とうきゅうわ]けしています。
+  In diesem Unternehmen werden die Mitarbeiter nach ihrer Leistung in Ränge eingeteilt.
+
+  リンゴ、バナナ、オレンジ等の果物が好きです。
+  リンゴ、バナナ、オレンジ 等[とう]の 果物[くだもの]が 好[す]きです。
+  Ich mag Früchte wie Äpfel, Bananen, Orangen und so weiter.
+
+  会議では予算、人事、新製品等について話し合いました。
+  会議[かいぎ]では 予算[よさん]、人事[じんじ]、新製品[しんせいひん] 等[とう]について 話[はな]し 合[あ]いました。
+  In der Besprechung haben wir über Budget, Personal, neue Produkte usw. gesprochen.
+
+  この映画祭では最優秀賞、監督賞、脚本賞等が授与されます。
+  この 映画祭[えいがさい]では 最優秀賞[さいゆうしゅうしょう]、監督賞[かんとくしょう]、脚本賞[きゃくほんしょう] 等[とう]が 授与[じゅよ]されます。
+  Bei diesem Filmfestival werden Preise wie Bester Film, Beste Regie, Bestes Drehbuch und so weiter verliehen.
+
+  彼は日本語、英語、フランス語等の言語に堪能です。
+  彼[かれ]は 日本語[にほんご]、英語[えいご]、フランス語[ふらんすご] 等[とう]の 言語[げんご]に 堪能[たんのう]です。
+  Er beherrscht Sprachen wie Japanisch, Englisch, Französisch und so weiter.
+
+  この大学では文学、歴史、哲学等の人文科学を学べます。
+  この 大学[だいがく]では 文学[ぶんがく]、歴史[れきし]、哲学[てつがく] 等[とう]の 人文科学[じんぶんかがく]を 学[まな]べます。
+  An dieser Universität kann man Geisteswissenschaften wie Literatur, Geschichte, Philosophie usw. studieren.
+
+  彼女の趣味は絵画、音楽、料理等多岐にわたっています。
+  彼女[かのじょ]の 趣味[しゅみ]は 絵画[かいが]、音楽[おんがく]、料理[りょうり] 等[とう] 多岐[たき]にわたっています。
+  Ihre Hobbys sind vielfältig und umfassen Malen, Musik, Kochen und so weiter.
+
+  この会社では営業、経理、人事等の部門があります。
+  この 会社[かいしゃ]では 営業[えいぎょう]、経理[けいり]、人事[じんじ] 等[とう]の 部門[ぶもん]があります。
+  In diesem Unternehmen gibt es Abteilungen wie Vertrieb, Buchhaltung, Personal und so weiter.
+
+  彼は数学、物理、化学等の理系科目が得意です。
+  彼[かれ]は 数学[すうがく]、物理[ぶつり]、化学[かがく] 等[とう]の 理系科目[りけいかもく]が 得意[とくい]です。
+  Er ist gut in naturwissenschaftlichen Fächern wie Mathematik, Physik, Chemie usw.
+
+  この公園には桜、梅、椿等の様々な花が咲いています。
+  この 公園[こうえん]には 桜[さくら]、梅[うめ]、椿[つばき] 等[とう]の 様々[さまざま]な 花[はな]が 咲[さ]いています。
+  In diesem Park blühen verschiedene Blumen wie Kirschblüten, Pflaumenblüten, Kamelien und so weiter.
+
+  この地域の特産品には米、野菜、果物等があります。
+  この 地域[ちいき]の 特産品[とくさんひん]には 米[こめ]、野菜[やさい]、果物[くだもの] 等[とう]があります。
+  Zu den Spezialitäten dieser Region gehören Reis, Gemüse, Obst und so weiter.
+
+  彼女の著書には小説、エッセイ、詩集等があります。
+  彼女[かのじょ]の 著書[ちょしょ]には 小説[しょうせつ]、エッセイ、詩集[ししゅう] 等[とう]があります。
+  Zu ihren Werken gehören Romane, Essays, Gedichtbände und so weiter.
+
+  この学校では体育、音楽、美術等の科目も重視しています。
+  この 学校[がっこう]では 体育[たいいく]、音楽[おんがく]、美術[びじゅつ] 等[とう]の 科目[かもく]も 重視[じゅうし]しています。
+  Diese Schule legt auch Wert auf Fächer wie Sport, Musik, Kunst usw.
+
+  彼の収集品にはコイン、切手、古書等が含まれています。
+  彼[かれ]の 収集品[しゅうしゅうひん]にはコイン、切手[きって]、古書[こしょ] 等[とう]が 含[ふく]まれています。
+  Seine Sammlung umfasst Münzen, Briefmarken, alte Bücher und so weiter.
+
+  この会社の製品には家電、家具、日用品等があります。
+  この 会社[かいしゃ]の 製品[せいひん]には 家電[かでん]、家具[かぐ]、日用品[にちようひん] 等[とう]があります。
+  Die Produkte dieses Unternehmens umfassen Haushaltsgeräte, Möbel, Alltagsgegenstände und so weiter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

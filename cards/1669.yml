@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   秋になると木の葉が赤くなる。
-  秋[あき]になると 木[こ]の 葉[は]が 赤[あか]くなる。
-  Im Herbst färben sich die Blätter rot.
+  秋[あき]になると 木[き]の 葉[は]が 赤[あか]くなる。
+  Im Herbst färben sich die Blätter der Bäume rot.
+
+  この木は葉が出ていて、春らしい雰囲気を醸し出しています。
+  この 木[き]は 葉[は]が 出[で]ていて、春[はる]らしい 雰囲気[ふんいき]を 醸[かも]し 出[だ]しています。
+  Dieser Baum hat Blätter und verbreitet eine frühlingshafte Atmosphäre.
+
+  強風で木の葉が落ちています。
+  強風[きょうふう]で 木[き]の 葉[は]が 落[お]ちています。
+  Durch den starken Wind fallen die Blätter von den Bäumen.
+
+  この植物は葉の小さい品種です。
+  この 植物[しょくぶつ]は 葉[は]の 小[ちい]さい 品種[ひんしゅ]です。
+  Diese Pflanze ist eine Sorte mit kleinen Blättern.
+
+  冬になると、多くの木が葉のない状態になります。
+  冬[ふゆ]になると、多[おお]くの 木[き]が 葉[は]のない 状態[じょうたい]になります。
+  Im Winter werden viele Bäume blattlos.
+
+  この木は葉の多い品種で、日陰を作るのに適しています。
+  この 木[き]は 葉[は]の 多[おお]い 品種[ひんしゅ]で、日陰[ひかげ]を 作[つく]るのに 適[てき]しています。
+  Diese Baumart hat viele Blätter und eignet sich gut zum Schatten spenden.
+
+  このヤシの葉は大きくて、扇のようです。
+  このヤシの 葉[は]は 大[おお]きくて、扇[おうぎ]のようです。
+  Die Blätter dieser Palme sind groß und sehen aus wie Fächer.
+
+  春になると、木々が新しい葉を出し始めます。
+  春[はる]になると、木々[きぎ]が 新[あたら]しい 葉[は]を 出[だ]し 始[はじ]めます。
+  Im Frühling beginnen die Bäume, neue Blätter zu treiben.
+
+  庭の手入れで、落ち葉を取り除く必要があります。
+  庭[にわ]の 手入[てい]れで、落[お]ち 葉[は]を 取[と]り 除[のぞ]く 必要[ひつよう]があります。
+  Bei der Gartenpflege müssen wir das herabgefallene Laub entfernen.
+
+  寒さで多くの植物が葉を失います。
+  寒[さむ]さで 多[おお]くの 植物[しょくぶつ]が 葉[は]を 失[うしな]います。
+  Durch die Kälte verlieren viele Pflanzen ihre Blätter.
+
+  秋の葉は美しい色彩を見せてくれます。
+  秋[あき]の 葉[は]は 美[うつく]しい 色彩[しきさい]を 見[み]せてくれます。
+  Die Herbstblätter zeigen uns wunderschöne Farben.
+
+  紅葉した葉が地面を覆っています。
+  紅葉[もみじ]した 葉[は]が 地面[じめん]を 覆[おお]っています。
+  Herbstlich gefärbte Blätter bedecken den Boden.
+
+  モミの葉は冬でも緑のままです。
+  モミの 葉[は]は 冬[ふゆ]でも 緑[みどり]のままです。
+  Die Tannennadeln bleiben auch im Winter grün.
+
+  モミジの葉は秋に美しく色づきます。
+  モミジの 葉[は]は 秋[あき]に 美[うつく]しく 色[いろ]づきます。
+  Die Ahornblätter färben sich im Herbst wunderschön.
+
+  ヤシの葉で作った帽子が人気です。
+  ヤシの 葉[は]で 作[つく]った 帽子[ぼうし]が 人気[にんき]です。
+  Hüte aus Palmblättern sind sehr beliebt.
+
+  この植物の葉は薬用として使われています。
+  この 植物[しょくぶつ]の 葉[は]は 薬用[やくよう]として 使[つか]われています。
+  Die Blätter dieser Pflanze werden als Heilmittel verwendet.
+
+  葉を欠いて根を断つなということわざがあります。
+  葉[は]を 欠[か]いて 根[ね]を 断[た]つなということわざがあります。
+  Es gibt ein Sprichwort, das besagt: 'Schütte nicht das Kind mit dem Badewasser aus'.
+
+  この木の葉は茂っていて、良い日陰を作っています。
+  この 木[き]の 葉[は]は 茂[しげ]っていて、良[よ]い 日陰[ひかげ]を 作[つく]っています。
+  Die Blätter dieses Baumes sind üppig und spenden guten Schatten.
+
+  葉の形で植物の種類を見分けることができます。
+  葉[は]の 形[かたち]で 植物[しょくぶつ]の 種類[しゅるい]を 見分[みわ]けることができます。
+  Anhand der Blattform können wir verschiedene Pflanzenarten unterscheiden.
+
+  この観葉植物は大きな葉が特徴です。
+  この 観葉植物[かんようしょくぶつ]は 大[おお]きな 葉[は]が 特徴[とくちょう]です。
+  Diese Zimmerpflanze zeichnet sich durch ihre großen Blätter aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

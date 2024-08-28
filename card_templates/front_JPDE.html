@@ -3,19 +3,6 @@
   {{#Tonhöhen}}<div class="pitch_accent" data-reading="{{#Lesung}}{{Lesung}}{{/Lesung}}{{^Lesung}}{{Lemma}}{{/Lesung}}">{{Tonhöhen}}</div>{{/Tonhöhen}}
   {{^Tonhöhen}}&nbsp;{{#Lesung}}{{Lesung}}{{/Lesung}}{{^Lesung}}{{Lemma}}{{/Lesung}}&nbsp;{{/Tonhöhen}}
 </div>
-{{#Lesung}}
-<div style="margin: 0.5em;">
-    <div style="
-        opacity: 0.3;
-        display: inline-block;
-        width: 1.2em;
-        height: 1.2em;
-        line-height: 1.2em;
-        border: 1px solid;
-        border-radius: 100%;
-    ">?</div>
-</div>
-{{/Lesung}}
 {{#Audio}}
 <div class="audio">{{Audio}}</div>
 {{/Audio}}

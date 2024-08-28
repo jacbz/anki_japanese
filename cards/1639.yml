@@ -5,10 +5,10 @@ Tonhöhen: .^^^
 Definition: Erholung
 Alternativschreibweisen: ''
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 回復しない・回復した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   景気はゆっくり回復しているように見える。
   景気[けいき]はゆっくり 回復[かいふく]しているように 見[み]える。
   Die Wirtschaft scheint sich langsam zu erholen.
+
+  病気から回復するには十分な休養が必要です。
+  病気[びょうき]から 回復[かいふく]するには 十分[じゅうぶん]な 休養[きゅうよう]が 必要[ひつよう]です。
+  Um sich von einer Krankheit zu erholen, ist ausreichend Ruhe nötig.
+
+  彼女は事故の後、驚くほど早く回復した。
+  彼女[かのじょ]は 事故[じこ]の 後[あと]、驚[おどろ]くほど 早[はや]く 回復[かいふく]した。
+  Sie erholte sich erstaunlich schnell von dem Unfall.
+
+  環境破壊からの自然の回復には長い時間がかかる。
+  環境破壊[かんきょうはかい]からの 自然[しぜん]の 回復[かいふく]には 長[なが]い 時間[じかん]がかかる。
+  Die Erholung der Natur von Umweltschäden braucht viel Zeit.
+
+  手術後の回復期間中は無理をしないでください。
+  手術後[しゅじゅつご]の 回復期間中[かいふくきかんちゅう]は 無理[むり]をしないでください。
+  Bitte überanstrengen Sie sich nicht während der Genesungszeit nach der Operation.
+
+  彼の回復力は医師たちを驚かせた。
+  彼[かれ]の 回復力[かいふくりょく]は 医師[いし]たちを 驚[おどろ]かせた。
+  Seine Genesungskraft überraschte die Ärzte.
+
+  経済の回復には政府の適切な政策が不可欠だ。
+  経済[けいざい]の 回復[かいふく]には 政府[せいふ]の 適切[てきせつ]な 政策[せいさく]が 不可欠[ふかけつ]だ。
+  Für die wirtschaftliche Erholung sind angemessene Regierungsmaßnahmen unerlässlich.
+
+  彼女は名誉回復のために訴訟を起こした。
+  彼女[かのじょ]は 名誉回復[めいよかいふく]のために 訴訟[そしょう]を 起[お]こした。
+  Sie reichte eine Klage ein, um ihren Ruf wiederherzustellen.
+
+  患者の意識が回復し始めた。
+  患者[かんじゃ]の 意識[いしき]が 回復[かいふく]し 始[はじ]めた。
+  Der Patient begann, das Bewusstsein wiederzuerlangen.
+
+  天気が回復し、青空が広がってきた。
+  天気[てんき]が 回復[かいふく]し、青空[あおぞら]が 広[ひろ]がってきた。
+  Das Wetter besserte sich und der blaue Himmel breitete sich aus.
+
+  彼は事業の失敗から信用を回復するのに苦労した。
+  彼[かれ]は 事業[じぎょう]の 失敗[しっぱい]から 信用[しんよう]を 回復[かいふく]するのに 苦労[くろう]した。
+  Er hatte Mühe, sein Vertrauen nach dem Geschäftsversagen wiederzugewinnen.
+
+  災害後の街の回復には市民の協力が欠かせない。
+  災害後[さいがいご]の 街[まち]の 回復[かいふく]には 市民[しみん]の 協力[きょうりょく]が 欠[か]かせない。
+  Die Zusammenarbeit der Bürger ist für die Wiederherstellung der Stadt nach einer Katastrophe unerlässlich.
+
+  彼女の健康は徐々に回復しつつある。
+  彼女[かのじょ]の 健康[けんこう]は 徐々[じょじょ]に 回復[かいふく]しつつある。
+  Ihre Gesundheit erholt sich allmählich.
+
+  データの回復には専門家の助けが必要かもしれない。
+  データの 回復[かいふく]には 専門家[せんもんか]の 助[たす]けが 必要[ひつよう]かもしれない。
+  Zur Wiederherstellung der Daten könnte die Hilfe eines Experten erforderlich sein.
+
+  彼は怪我から完全に回復するまで練習を控えた。
+  彼[かれ]は 怪我[けが]から 完全[かんぜん]に 回復[かいふく]するまで 練習[れんしゅう]を 控[ひか]えた。
+  Er hielt sich mit dem Training zurück, bis er sich vollständig von seiner Verletzung erholt hatte.
+
+  回復の兆しが見えてきたので、みんな安心した。
+  回復[かいふく]の 兆[きざ]しが 見[み]えてきたので、みんな 安心[あんしん]した。
+  Alle waren erleichtert, als Anzeichen einer Erholung sichtbar wurden.
+
+  睡眠は心身の回復に重要な役割を果たします。
+  睡眠[すいみん]は 心身[しんしん]の 回復[かいふく]に 重要[じゅうよう]な 役割[やくわり]を 果[は]たします。
+  Schlaf spielt eine wichtige Rolle bei der Erholung von Körper und Geist.
+
+  彼の回復は医療チーム全体の努力の結果だった。
+  彼[かれ]の 回復[かいふく]は 医療[いりょう]チーム 全体[ぜんたい]の 努力[どりょく]の 結果[けっか]だった。
+  Seine Genesung war das Ergebnis der Bemühungen des gesamten medizinischen Teams.
+
+  地域経済の回復には新たな産業の誘致が必要だ。
+  地域経済[ちいきけいざい]の 回復[かいふく]には 新[あら]たな 産業[さんぎょう]の 誘致[ゆうち]が 必要[ひつよう]だ。
+  Zur Erholung der lokalen Wirtschaft ist es notwendig, neue Industrien anzuziehen.
+
+  回復のペースは人によって異なるので、焦らないことが大切です。
+  回復[かいふく]のペースは 人[ひと]によって 異[こと]なるので、焦[あせ]らないことが 大切[たいせつ]です。
+  Da das Tempo der Genesung von Person zu Person unterschiedlich ist, ist es wichtig, nicht ungeduldig zu werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

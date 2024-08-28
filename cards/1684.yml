@@ -2,24 +2,111 @@ Rang: 1684
 Lemma: 黙る
 Lesung: だまる
 Tonhöhen: .\.
-Definition: schweigen, still werden
+Definition: schweigen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 黙らない・黙った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   黙って聞きなさい。
   黙[だま]って 聞[き]きなさい。
-  Schweig und hör mir zu.
+  Sei still und hör zu.
+
+  彼女は突然黙り込んでしまった。
+  彼女[かのじょ]は 突然[とつぜん] 黙[だま]り 込[こ]んでしまった。
+  Sie verstummte plötzlich.
+
+  会議中は黙っているべきだ。
+  会議中[かいぎちゅう]は 黙[だま]っているべきだ。
+  Während der Besprechung sollte man schweigen.
+
+  秘密を守るために黙っていてください。
+  秘密[ひみつ]を 守[まも]るために 黙[だま]っていてください。
+  Bitte schweigen Sie, um das Geheimnis zu bewahren.
+
+  彼は怒って「黙れ！」と叫んだ。
+  彼[かれ]は 怒[おこ]って「 黙[だま]れ！」と 叫[さけ]んだ。
+  Er schrie wütend: "Halt den Mund!"
+
+  この件について黙っているわけにはいかない。
+  この 件[けん]について 黙[だま]っているわけにはいかない。
+  Ich kann zu dieser Angelegenheit nicht schweigen.
+
+  彼女は質問に答えず、黙ったままだった。
+  彼女[かのじょ]は 質問[しつもん]に 答[こた]えず、黙[だま]ったままだった。
+  Sie antwortete nicht auf die Frage und blieb stumm.
+
+  真実を知っていても黙っていた方がいい時もある。
+  真実[しんじつ]を 知[し]っていても 黙[だま]っていた 方[ほう]がいい 時[とき]もある。
+  Es gibt Zeiten, in denen es besser ist zu schweigen, selbst wenn man die Wahrheit kennt.
+
+  彼は石のように黙っていた。
+  彼[かれ]は 石[いし]のように 黙[だま]っていた。
+  Er schwieg wie ein Grab.
+
+  静かに！みんな黙って！
+  静[しず]かに！みんな 黙[だま]って！
+  Ruhe! Seid alle still!
+
+  彼女は涙を流しながら黙っていた。
+  彼女[かのじょ]は 涙[なみだ]を 流[なが]しながら 黙[だま]っていた。
+  Sie weinte still vor sich hin.
+
+  重要な情報なので、黙っていてくれないか。
+  重要[じゅうよう]な 情報[じょうほう]なので、黙[だま]っていてくれないか。
+  Da es sich um wichtige Informationen handelt, könntest du bitte schweigen?
+
+  彼は質問されても黙ったままだった。
+  彼[かれ]は 質問[しつもん]されても 黙[だま]ったままだった。
+  Er blieb stumm, selbst als er gefragt wurde.
+
+  この話は黙っていた方がいいよ。
+  この 話[はなし]は 黙[だま]っていた 方[ほう]がいいよ。
+  Es ist besser, über diese Sache zu schweigen.
+
+  彼女は黙って部屋を出て行った。
+  彼女[かのじょ]は 黙[だま]って 部屋[へや]を 出[で]て 行[い]った。
+  Sie verließ schweigend den Raum.
+
+  黙っていれば、問題は起こらなかったのに。
+  黙[だま]っていれば、問題[もんだい]は 起[お]こらなかったのに。
+  Wenn du geschwiegen hättest, wäre das Problem nicht entstanden.
+
+  彼は黙ったまま、じっと窓の外を見ていた。
+  彼[かれ]は 黙[だま]ったまま、じっと 窓[まど]の 外[そと]を 見[み]ていた。
+  Er starrte schweigend aus dem Fenster.
+
+  黙っていても、真実はいつか明らかになる。
+  黙[だま]っていても、真実[しんじつ]はいつか 明[あき]らかになる。
+  Auch wenn man schweigt, wird die Wahrheit irgendwann ans Licht kommen.
+
+  彼女は黙って私の手を握った。
+  彼女[かのじょ]は 黙[だま]って 私[わたし]の 手[て]を 握[にぎ]った。
+  Sie ergriff schweigend meine Hand.
+
+  黙るのも一つの賢明な選択だ。
+  黙[だま]るのも 一[ひと]つの 賢明[けんめい]な 選択[せんたく]だ。
+  Schweigen kann auch eine weise Entscheidung sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>黙る (だまる) bedeutet "schweigen" oder "still sein". Es wird oft in Situationen verwendet, in denen jemand aufgefordert wird, ruhig zu sein oder wenn jemand absichtlich nichts sagt.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 怒[いか]って「 黙[だま]れ！」と 叫[さけ]んだ。</div>
+    <div class="de spoiler">Er schrie wütend: "Sei still!"</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass jemand über etwas schweigt oder ein Geheimnis bewahrt.</p>
+  <div class="examples">
+    <div class="jp">この 秘密[ひみつ]については 黙[だま]っていてください。</div>
+    <div class="de spoiler">Bitte schweigen Sie über dieses Geheimnis.</div>
+  </div>
+  <p>In der Umgangssprache wird 黙れ (だまれ) als grobe Aufforderung zum Schweigen verwendet, ähnlich wie "Halt den Mund!" oder "Sei still!" im Deutschen.</p>

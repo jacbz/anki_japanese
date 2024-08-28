@@ -2,20 +2,96 @@ Rang: 1642
 Lemma: 塗る
 Lesung: ぬる
 Tonhöhen: .^
-Definition: verbreiten; malen
+Definition: auftragen, streichen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 塗らない・塗った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   パンにバターを塗った。
-  パンにバターを 塗[ぬ]った。
-  Ich habe die Butter auf das Brot gestrichen.
+  パンに バターを 塗[ぬ]った。
+  Ich habe Butter auf das Brot gestrichen.
+
+  壁を白く塗り直す必要があります。
+  壁[かべ]を 白[しろ]く 塗[ぬ]り 直[なお]す 必要[ひつよう]があります。
+  Die Wand muss neu weiß gestrichen werden.
+
+  髪を染める前に、皮膚保護クリームを塗ってください。
+  髪[かみ]を 染[そ]める 前[まえ]に、皮膚保護[ひふほご]クリームを 塗[ぬ]ってください。
+  Bitte tragen Sie vor dem Färben der Haare eine Hautschutzcreme auf.
+
+  彼女は唇に赤い口紅を塗った。
+  彼女[かのじょ]は 唇[くちびる]に 赤[あか]い 口紅[くちべに]を 塗[ぬ]った。
+  Sie trug einen roten Lippenstift auf ihre Lippen auf.
+
+  防腐剤を塗って、木材を長持ちさせる。
+  防腐剤[ぼうふざい]を 塗[ぬ]って、木材[もくざい]を 長持[ながも]ちさせる。
+  Wir tragen ein Konservierungsmittel auf, um das Holz haltbar zu machen.
+
+  傷口に消毒液を塗るのを忘れないでね。
+  傷口[きずぐち]に 消毒液[しょうどくえき]を 塗[ぬ]るのを 忘[わす]れないでね。
+  Vergiss nicht, Desinfektionsmittel auf die Wunde aufzutragen.
+
+  日焼け止めをたっぷり塗ってから、ビーチに行こう。
+  日焼[ひや]け 止[ど]めをたっぷり 塗[ぬ]ってから、ビーチに 行[い]こう。
+  Lass uns reichlich Sonnencreme auftragen, bevor wir zum Strand gehen.
+
+  彼は新しい家の外壁を青く塗った。
+  彼[かれ]は 新[あたら]しい 家[いえ]の 外壁[がいへき]を 青[あお]く 塗[ぬ]った。
+  Er strich die Außenwände seines neuen Hauses blau an.
+
+  爪に透明なマニキュアを塗るのが好きです。
+  爪[つめ]に 透明[とうめい]なマニキュアを 塗[ぬ]るのが 好[す]きです。
+  Ich mag es, einen durchsichtigen Nagellack auf meine Nägel aufzutragen.
+
+  ドアに防水塗料を塗って、雨から保護しましょう。
+  ドアに 防水塗料[ぼうすいとりょう]を 塗[ぬ]って、雨[あめ]から 保護[ほご]しましょう。
+  Lasst uns eine wasserdichte Beschichtung auf die Tür auftragen, um sie vor Regen zu schützen.
+
+  彼女は顔にファンデーションを厚く塗りすぎている。
+  彼女[かのじょ]は 顔[かお]にファンデーションを 厚[あつ]く 塗[ぬ]りすぎている。
+  Sie trägt zu viel Foundation auf ihr Gesicht auf.
+
+  子供たちは絵の具を塗って、楽しそうに絵を描いていた。
+  子供[こども]たちは 絵[え]の 具[ぐ]を 塗[ぬ]って、楽[たの]しそうに 絵[え]を 描[か]いていた。
+  Die Kinder trugen Farbe auf und malten fröhlich Bilder.
+
+  防錆剤を塗ることで、金属の寿命を延ばすことができます。
+  防錆剤[ぼうせいざい]を 塗[ぬ]ることで、金属[きんぞく]の 寿命[じゅみょう]を 延[の]ばすことができます。
+  Durch das Auftragen von Rostschutzmittel können wir die Lebensdauer des Metalls verlängern.
+
+  彼は壁に落書きをした後、すぐに白いペンキで塗り消した。
+  彼[かれ]は 壁[かべ]に 落書[らくが]きをした 後[あと]、すぐに 白[しろ]いペンキで 塗[ぬ]り 消[け]した。
+  Nachdem er an die Wand gekritzelt hatte, überstrich er es sofort mit weißer Farbe.
+
+  お母さんは子供の顔にサンスクリーンを丁寧に塗ってあげた。
+  お 母[かあ]さんは 子供[こども]の 顔[かお]にサンスクリーンを 丁寧[ていねい]に 塗[ぬ]ってあげた。
+  Die Mutter trug sorgfältig Sonnenschutzmittel auf das Gesicht ihres Kindes auf.
+
+  彼は自分の車を黒く塗り直して、新車のように見せた。
+  彼[かれ]は 自分[じぶん]の 車[くるま]を 黒[くろ]く 塗[ぬ]り 直[なお]して、新車[しんしゃ]のように 見[み]せた。
+  Er lackierte sein Auto schwarz um, damit es wie neu aussah.
+
+  床に滑り止めのワックスを塗って、安全性を高めましょう。
+  床[ゆか]に 滑[すべ]り 止[ど]めのワックスを 塗[ぬ]って、安全性[あんぜんせい]を 高[たか]めましょう。
+  Lasst uns rutschfestes Wachs auf den Boden auftragen, um die Sicherheit zu erhöhen.
+
+  彼女はまつげにマスカラを塗って、目をより大きく見せた。
+  彼女[かのじょ]はまつげにマスカラを 塗[ぬ]って、目[め]をより 大[おお]きく 見[み]せた。
+  Sie trug Mascara auf ihre Wimpern auf, um ihre Augen größer erscheinen zu lassen.
+
+  木の家具に保護オイルを塗ることで、長く美しさを保つことができます。
+  木[き]の 家具[かぐ]に 保護[ほご]オイルを 塗[ぬ]ることで、長[なが]く 美[うつく]しさを 保[たも]つことができます。
+  Durch das Auftragen von Schutzöl auf Holzmöbel können wir ihre Schönheit lange erhalten.
+
+  彼は責任を他人に塗りつけようとしたが、うまくいかなかった。
+  彼[かれ]は 責任[せきにん]を 他人[たにん]に 塗[ぬ]りつけようとしたが、うまくいかなかった。
+  Er versuchte, die Verantwortung auf andere abzuwälzen, aber es gelang ihm nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

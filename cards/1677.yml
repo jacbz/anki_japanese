@@ -2,20 +2,96 @@ Rang: 1677
 Lemma: うなずく
 Lesung: ''
 Tonhöhen: .^\.
-Definition: nicken
+Definition: nicken; zustimmen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ↗Bücher
 Ursprung: ''
-Konjugation: ''
+Konjugation: うなずかない・うなずいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は時々うなずきながら私の話を聞いた。
   彼[かれ]は 時々[ときどき]うなずきながら 私[わたし]の 話[はなし]を 聞[き]いた。
-  Er hörte meiner Geschichte zu und nickte gelegentlich mit dem Kopf.
+  Er hörte mir zu und nickte dabei ab und zu.
+
+  先生の説明にみんなが理解したようにうなずいた。
+  先生[せんせい]の 説明[せつめい]にみんなが 理解[りかい]したようにうなずいた。
+  Alle nickten, als hätten sie die Erklärung des Lehrers verstanden.
+
+  彼女はこくりとうなずいて同意を示した。
+  彼女[かのじょ]はこくりとうなずいて 同意[どうい]を 示[しめ]した。
+  Sie nickte zustimmend, um ihre Einwilligung zu zeigen.
+
+  提案にしぶしぶうなずく姿が見られた。
+  提案[ていあん]にしぶしぶうなずく 姿[すがた]が 見[み]られた。
+  Man konnte sehen, wie er widerstrebend der Vorschlag zustimmte.
+
+  会議中、上司の意見にうなずくばかりだった。
+  会議中[かいぎちゅう]、上司[じょうし]の 意見[いけん]にうなずくばかりだった。
+  Während der Besprechung nickte ich nur zu den Meinungen meines Vorgesetzten.
+
+  彼は黙ってうなずき、部屋を出て行った。
+  彼[かれ]は 黙[だま]ってうなずき、部屋[へや]を 出[で]て 行[い]った。
+  Er nickte schweigend und verließ den Raum.
+
+  うなずくことで相手の話を理解していることを示せます。
+  うなずくことで 相手[あいて]の 話[はなし]を 理解[りかい]していることを 示[しめ]せます。
+  Durch Nicken können Sie zeigen, dass Sie das Gespräch Ihres Gegenübers verstehen.
+
+  彼女は質問にうなずいて答えた。
+  彼女[かのじょ]は 質問[しつもん]にうなずいて 答[こた]えた。
+  Sie nickte zur Frage und antwortete dann.
+
+  父は私の決定にしぶしぶうなずいてくれた。
+  父[ちち]は 私[わたし]の 決定[けってい]にしぶしぶうなずいてくれた。
+  Mein Vater nickte widerwillig zu meiner Entscheidung.
+
+  彼はうなずいて、契約書にサインした。
+  彼[かれ]はうなずいて、契約書[けいやくしょ]にサインした。
+  Er nickte und unterschrieb den Vertrag.
+
+  「分かりました」とうなずきながら答えた。
+  「分[わ]かりました」とうなずきながら 答[こた]えた。
+  Ich antwortete nickend: "Ich habe verstanden."
+
+  彼女は静かにうなずき、話を続けた。
+  彼女[かのじょ]は 静[しず]かにうなずき、話[はなし]を 続[つづ]けた。
+  Sie nickte leise und fuhr mit ihrer Erzählung fort.
+
+  会議の参加者全員が提案にうなずいた。
+  会議[かいぎ]の 参加者[さんかしゃ] 全員[ぜんいん]が 提案[ていあん]にうなずいた。
+  Alle Teilnehmer der Konferenz nickten dem Vorschlag zu.
+
+  彼は深くうなずき、感謝の意を表した。
+  彼[かれ]は 深[ふか]くうなずき、感謝[かんしゃ]の 意[い]を 表[ひょう]した。
+  Er nickte tief und drückte seine Dankbarkeit aus.
+
+  患者さんは医師の説明にうなずいていた。
+  患者[かんじゃ]さんは 医師[いし]の 説明[せつめい]にうなずいていた。
+  Der Patient nickte zu den Erklärungen des Arztes.
+
+  彼女は悲しそうにうなずき、部屋を出た。
+  彼女[かのじょ]は 悲[かな]しそうにうなずき、部屋[へや]を 出[で]た。
+  Sie nickte traurig und verließ den Raum.
+
+  先輩の助言にうなずきながら、メモを取った。
+  先輩[せんぱい]の 助言[じょげん]にうなずきながら、メモを 取[と]った。
+  Ich nickte zu den Ratschlägen meines Seniors und machte mir Notizen.
+
+  彼は無言でうなずき、同意の意思を示した。
+  彼[かれ]は 無言[むごん]でうなずき、同意[どうい]の 意思[いし]を 示[しめ]した。
+  Er nickte stumm und zeigte damit seine Zustimmung.
+
+  子供たちは先生の質問にうなずいて答えた。
+  子供[こども]たちは 先生[せんせい]の 質問[しつもん]にうなずいて 答[こた]えた。
+  Die Kinder nickten und antworteten auf die Frage des Lehrers.
+
+  彼女は理解したようにうなずき、笑顔を見せた。
+  彼女[かのじょ]は 理解[りかい]したようにうなずき、笑顔[えがお]を 見[み]せた。
+  Sie nickte, als hätte sie verstanden, und lächelte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
