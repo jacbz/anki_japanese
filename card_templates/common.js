@@ -59,7 +59,7 @@ function addFurigana(text, kanjiHighlightMap = {}) {
       if (kanjiMatch) {
         const reading = kanjiMatch === kanji ? furigana : kanjiHighlightMap[kanjiMatch];
         if (furigana.includes(reading)) {
-          kanji = kanji.replaceAll(kanjiMatch, `<u>${reading}</u>`);
+          kanji = kanji.replaceAll(kanjiMatch, reading);
           if (furigana === reading) {
             return kanji;
           }
