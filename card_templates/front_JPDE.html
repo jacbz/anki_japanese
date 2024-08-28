@@ -1,26 +1,39 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<!-- Dummy element to display in the Question field in the Card Manager -->
-<div style="display: none;">{{Lemma}}{{#Lesung}} ({{Lesung}}){{/Lesung}}　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
-<div class="furigana" style="visibility: hidden;">
-  {{#Tonhöhen}}<div class="pitch_accent" data-reading="{{Lesung}}">{{Tonhöhen}}</div>{{/Tonhöhen}}
-  {{^Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Tonhöhen}}
-  </div>
-<div id="lemma">{{Lemma}}</div>
+<div id="lemma" class="furigana" data-reading="{{Lesung}}" data-kanji="{{Lemma}}">
+  {{#Tonhöhen}}<div class="pitch_accent" data-reading="{{#Lesung}}{{Lesung}}{{/Lesung}}{{^Lesung}}{{Lemma}}{{/Lesung}}">{{Tonhöhen}}</div>{{/Tonhöhen}}
+  {{^Tonhöhen}}&nbsp;{{#Lesung}}{{Lesung}}{{/Lesung}}{{^Lesung}}{{Lemma}}{{/Lesung}}&nbsp;{{/Tonhöhen}}
+</div>
+{{#Lesung}}
+<div style="margin: 0.5em;">
+    <div style="
+        opacity: 0.3;
+        display: inline-block;
+        width: 1.2em;
+        height: 1.2em;
+        line-height: 1.2em;
+        border: 1px solid;
+        border-radius: 100%;
+    ">?</div>
+</div>
+{{/Lesung}}
+{{#Audio}}
+<div class="audio">{{Audio}}</div>
+{{/Audio}}
 {{#Beispielsätze}}
 <div id="single_sentence" class="tappable">
-  <div id="sentences_inner">{{Beispielsätze}}</div>
+<div id="sentences_inner">{{Beispielsätze}}</div>
 </div>
 {{/Beispielsätze}}
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->
 <script>
-  ___PERSISTENCE___;
+___PERSISTENCE___;
 </script>
 <script>
-  (function () {
-    ___FRONT_JPDE___;
+(function () {
+  ___FRONT_JPDE___;
 
     ___COMMONJS___;
-  })();
+})();
 </script>
