@@ -2,7 +2,7 @@ Rang: 1861
 Lemma: 国家
 Lesung: こっか
 Tonhöhen: \..
-Definition: Staat, Land, Nation
+Definition: Staat, Nation
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼らは国家のために戦い、死んでいった。
-  彼[かれ]らは 国家[こっか]のために 戦[たたか]い、 死[し]んでいった。
-  Sie kämpften und starben für ihre Nation.
+  彼[かれ]らは 国家[こっか]のために 戦[たたか]い、死[し]んでいった。
+  Sie kämpften und starben für ihr Land.
+
+  日本は民主主義国家です。
+  日本[にほん]は 民主主義[みんしゅしゅぎ]国家[こっか]です。
+  Japan ist ein demokratischer Staat.
+
+  国家の重要な決定には国民の合意が必要だ。
+  国家[こっか]の 重要[じゅうよう]な 決定[けってい]には 国民[こくみん]の 合意[ごうい]が 必要[ひつよう]だ。
+  Für wichtige staatliche Entscheidungen ist die Zustimmung des Volkes erforderlich.
+
+  国家予算の削減が議論されている。
+  国家[こっか]予算[よさん]の 削減[さくげん]が 議論[ぎろん]されている。
+  Die Kürzung des Staatshaushalts wird diskutiert.
+
+  彼は国家試験に合格し、公務員になった。
+  彼[かれ]は 国家[こっか]試験[しけん]に 合格[ごうかく]し、公務員[こうむいん]になった。
+  Er hat die Staatsprüfung bestanden und ist Beamter geworden.
+
+  国家の安全保障は重要な課題だ。
+  国家[こっか]の 安全保障[あんぜんほしょう]は 重要[じゅうよう]な 課題[かだい]だ。
+  Die nationale Sicherheit ist eine wichtige Aufgabe.
+
+  この政策は国家利益を優先している。
+  この 政策[せいさく]は 国家[こっか]利益[りえき]を 優先[ゆうせん]している。
+  Diese Politik priorisiert die nationalen Interessen.
+
+  国家間の協力が世界平和につながる。
+  国家間[こっかかん]の 協力[きょうりょく]が 世界[せかい]平和[へいわ]につながる。
+  Zwischenstaatliche Zusammenarbeit führt zu Weltfrieden.
+
+  国家の三要素は領土、国民、主権だ。
+  国家[こっか]の 三要素[さんようそ]は 領土[りょうど]、国民[こくみん]、主権[しゅけん]だ。
+  Die drei Elemente des Staates sind Territorium, Volk und Souveränität.
+
+  国家の承認は外交上重要な意味を持つ。
+  国家[こっか]の 承認[しょうにん]は 外交上[がいこうじょう] 重要[じゅうよう]な 意味[いみ]を 持[も]つ。
+  Die Anerkennung eines Staates hat große diplomatische Bedeutung.
+
+  彼女は国家に尽くす決意を固めた。
+  彼女[かのじょ]は 国家[こっか]に 尽[つ]くす 決意[けつい]を 固[かた]めた。
+  Sie fasste den Entschluss, dem Staat zu dienen.
+
+  国家の紋章は国の象徴だ。
+  国家[こっか]の 紋章[もんしょう]は 国[くに]の 象徴[しょうちょう]だ。
+  Das Staatswappen ist ein Symbol des Landes.
+
+  この法案は国家機密に関わる内容を含んでいる。
+  この 法案[ほうあん]は 国家[こっか]機密[きみつ]に 関[かか]わる 内容[ないよう]を 含[ふく]んでいる。
+  Dieser Gesetzentwurf enthält Inhalte, die Staatsgeheimnisse betreffen.
+
+  国家財政の健全化が急務だ。
+  国家[こっか]財政[ざいせい]の 健全化[けんぜんか]が 急務[きゅうむ]だ。
+  Die Sanierung der Staatsfinanzen ist dringend erforderlich.
+
+  彼の行為は国家に対する裏切りだと非難された。
+  彼[かれ]の 行為[こうい]は 国家[こっか]に 対[たい]する 裏切[うらぎ]りだと 非難[ひなん]された。
+  Seine Handlungen wurden als Verrat am Staat verurteilt.
+
+  国家権力の乱用は民主主義を脅かす。
+  国家[こっか]権力[けんりょく]の 乱用[らんよう]は 民主主義[みんしゅしゅぎ]を 脅[おびや]かす。
+  Der Missbrauch der Staatsgewalt bedroht die Demokratie.
+
+  この国は福祉国家を目指している。
+  この 国[くに]は 福祉[ふくし]国家[こっか]を 目指[めざ]している。
+  Dieses Land strebt einen Wohlfahrtsstaat an.
+
+  国家の興隆は国民の努力にかかっている。
+  国家[こっか]の 興隆[こうりゅう]は 国民[こくみん]の 努力[どりょく]にかかっている。
+  Der Aufstieg der Nation hängt von den Anstrengungen des Volkes ab.
+
+  国家百年の計を立てる必要がある。
+  国家[こっか]百年[ひゃくねん]の 計[けい]を 立[た]てる 必要[ひつよう]がある。
+  Es ist notwendig, einen langfristigen staatlichen Plan für die nächsten hundert Jahre aufzustellen.
+
+  この問題は国家的な課題として取り組むべきだ。
+  この 問題[もんだい]は 国家的[こっかてき]な 課題[かだい]として 取り組[とりく]むべきだ。
+  Dieses Problem sollte als nationale Aufgabe angegangen werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

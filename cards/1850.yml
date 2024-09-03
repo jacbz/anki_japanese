@@ -2,13 +2,13 @@ Rang: 1850
 Lemma: かく
 Lesung: ''
 Tonhöhen: ''
-Definition: kratzen; paddeln; schaufeln
-Alternativschreibweisen: ''
+Definition: kratzen; schaben
+Alternativschreibweisen: 掻く
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 掻かない・掻いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   かゆくてもかいてはいけない。
   痒[かゆ]くてもかいてはいけない。
   Du darfst nicht kratzen, auch wenn es juckt.
+
+  かゆいところを掻くと気持ちいいけど、掻きすぎると悪化するよ。
+  かゆい 所[ところ]を 掻[か]くと 気持[きも]ちいいけど、掻[か]きすぎると 悪化[あっか]するよ。
+  Es fühlt sich gut an, eine juckende Stelle zu kratzen, aber wenn man zu viel kratzt, wird es schlimmer.
+
+  頭を掻きながら考えるのは彼の癖だ。
+  頭[あたま]を 掻[か]きながら 考[かんが]えるのは 彼[かれ]の 癖[くせ]だ。
+  Es ist seine Angewohnheit, sich am Kopf zu kratzen, während er nachdenkt.
+
+  雪を掻いて車道を作るのは大変な仕事だ。
+  雪[ゆき]を 掻[か]いて 車道[しゃどう]を 作[つく]るのは 大変[たいへん]な 仕事[しごと]だ。
+  Es ist eine mühsame Arbeit, den Schnee zu räumen und eine Fahrbahn zu schaffen.
+
+  庭の落ち葉を掻いて集めてください。
+  庭[にわ]の 落[お]ち 葉[ば]を 掻[か]いて 集[あつ]めてください。
+  Bitte harken Sie das Laub im Garten zusammen.
+
+  オールで水を掻いて、ボートを前に進めた。
+  オールで 水[みず]を 掻[か]いて、ボートを 前[まえ]に 進[すす]めた。
+  Ich paddelte mit den Rudern durchs Wasser und trieb das Boot voran.
+
+  虫に刺されたところを掻くのに、とりたてて決心はいらない。
+  虫[むし]に 刺[さ]されたところを 掻[か]くのに、とりたてて 決心[けっしん]はいらない。
+  Wer von einem Insekt gestochen wird, überlegt nicht lange, ob er sich kratzen soll.
+
+  俊介は指先で頬を掻いた。
+  俊介[しゅんすけ]は 指先[ゆびさき]で 頬[ほお]を 掻[か]いた。
+  Shunsuke strich sich mit den Fingerspitzen über die Wange.
+
+  ラップは頭を掻きながら、正直に答えた。
+  ラップは 頭[あたま]を 掻[か]きながら、正直[しょうじき]に 答[こた]えた。
+  Lapp antwortete aufrichtig, während er sich am Kopf kratzte.
+
+  彼女は小指で耳の穴を掻いた。
+  彼女[かのじょ]は 小指[こゆび]で 耳[みみ]の 穴[あな]を 掻[か]いた。
+  Sie kratzte sich mit dem kleinen Finger im Ohr.
+
+  かき氷を作るために、氷を細かく掻いた。
+  かき 氷[ごおり]を 作[つく]るために、氷[こおり]を 細[こま]かく 掻[か]いた。
+  Um Kakigōri zuzubereiten, schabte ich das Eis fein.
+
+  鰹節を掻いて、料理の上にかけた。
+  鰹節[かつおぶし]を 掻[か]いて、料理[りょうり]の 上[うえ]にかけた。
+  Ich hobelte den Bonito und streute ihn über das Gericht.
+
+  そば粉を水で掻いて、生地を作った。
+  そば 粉[こ]を 水[みず]で 掻[か]いて、生地[きじ]を 作[つく]った。
+  Ich rührte das Buchweizenmehl mit Wasser an und machte den Teig.
+
+  三味線の弦を上手に掻いて、美しい音色を奏でた。
+  三味線[しゃみせん]の 弦[げん]を 上手[じょうず]に 掻[か]いて、美[うつく]しい 音色[ねいろ]を 奏[かな]でた。
+  Er zupfte geschickt die Saiten des Shamisen und spielte eine schöne Melodie.
+
+  農家は畑を掻いて、種まきの準備をした。
+  農家[のうか]は 畑[はたけ]を 掻[か]いて、種[たね]まきの 準備[じゅんび]をした。
+  Der Bauer pflügte das Feld und bereitete es für die Aussaat vor.
+
+  暑さで汗を掻きながら、作業を続けた。
+  暑[あつ]さで 汗[あせ]を 掻[か]きながら、作業[さぎょう]を 続[つづ]けた。
+  Ich arbeitete weiter, während ich vor Hitze schwitzte.
+
+  子供がべそを掻いているので、何かあったのかな。
+  子供[こども]がべそを 掻[か]いているので、何[なに]かあったのかな。
+  Das Kind macht ein weinerliches Gesicht, ich frage mich, ob etwas passiert ist.
+
+  隣の人がいびきを掻いて、眠れなかった。
+  隣[となり]の 人[ひと]がいびきを 掻[か]いて、眠[ねむ]れなかった。
+  Ich konnte nicht schlafen, weil die Person nebenan schnarcht.
+
+  恥ずかしさで頬を掻きながら、謝罪した。
+  恥[は]ずかしさで 頬[ほお]を 掻[か]きながら、謝罪[しゃざい]した。
+  Vor Verlegenheit strich ich mir über die Wange, während ich mich entschuldigte.
+
+  彼は欲を掻いて、次々と新しいものを買い込んだ。
+  彼[かれ]は 欲[よく]を 掻[か]いて、次々[つぎつぎ]と 新[あたら]しいものを 買[か]い 込[こ]んだ。
+  Er wurde gierig und kaufte ein neues Ding nach dem anderen.
+
+  寝首を掻かれないよう、用心深く行動した。
+  寝首[ねくび]を 掻[か]かれないよう、用心深[ようじんぶか]く 行動[こうどう]した。
+  Ich handelte vorsichtig, um nicht im Schlaf überrascht zu werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

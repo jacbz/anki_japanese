@@ -2,12 +2,12 @@ Rang: 1908
 Lemma: メリット
 Lesung: ''
 Tonhöhen: ''
-Definition: Vorteil, Nutzen
+Definition: Vorteil, Gewinn
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. merit
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   パッケージツアーのメリットは安全なことだ。
   パッケージツアーのメリットは 安全[あんぜん]なことだ。
-  Der Vorteil einer Pauschalreise ist Sicherheit.
+  Der Vorteil einer Pauschalreise ist die Sicherheit.
+
+  この仕事のメリットは、自由な時間が多いことです。
+  この 仕事[しごと]のメリットは、自由[じゆう]な 時間[じかん]が 多[おお]いことです。
+  Der Vorteil dieser Arbeit ist, dass man viel Freizeit hat.
+
+  新しい技術を導入するメリットがあるか検討中だ。
+  新[あたら]しい 技術[ぎじゅつ]を 導入[どうにゅう]するメリットがあるか 検討中[けんとうちゅう]だ。
+  Wir prüfen gerade, ob es Vorteile hat, die neue Technologie einzuführen.
+
+  この製品は価格が高いが、耐久性というメリットがある。
+  この 製品[せいひん]は 価格[かかく]が 高[たか]いが、耐久性[たいきゅうせい]というメリットがある。
+  Dieses Produkt ist zwar teuer, hat aber den Vorteil der Langlebigkeit.
+
+  電子書籍のメリットは、たくさんの本を持ち運べることだ。
+  電子書籍[でんししょせき]のメリットは、たくさんの 本[ほん]を 持[も]ち 運[はこ]べることだ。
+  Der Vorteil von E-Books ist, dass man viele Bücher mit sich tragen kann.
+
+  在宅勤務のメリットは通勤時間が節約できることです。
+  在宅勤務[ざいたくきんむ]のメリットは 通勤時間[つうきんじかん]が 節約[せつやく]できることです。
+  Ein Vorteil der Heimarbeit ist, dass man Zeit für den Arbeitsweg sparen kann.
+
+  この案には多くのメリットがあると思います。
+  この 案[あん]には 多[おお]くのメリットがあると 思[おも]います。
+  Ich denke, dieser Vorschlag hat viele Vorteile.
+
+  彼女はこの計画のメリットを詳しく説明した。
+  彼女[かのじょ]はこの 計画[けいかく]のメリットを 詳[くわ]しく 説明[せつめい]した。
+  Sie erklärte die Vorteile dieses Plans im Detail.
+
+  オンライン授業のメリットは場所を選ばないことだ。
+  オンライン 授業[じゅぎょう]のメリットは 場所[ばしょ]を 選[えら]ばないことだ。
+  Der Vorteil von Online-Unterricht ist, dass man ortsunabhängig ist.
+
+  両者が協力すれば、メリットは大きいでしょう。
+  両者[りょうしゃ]が 協力[きょうりょく]すれば、メリットは 大[おお]きいでしょう。
+  Wenn beide Seiten kooperieren, werden die Vorteile groß sein.
+
+  この提案にはどんなメリットがありますか？
+  この 提案[ていあん]にはどんなメリットがありますか？
+  Welche Vorteile hat dieser Vorschlag?
+
+  留学のメリットは語学力の向上だけではありません。
+  留学[りゅうがく]のメリットは 語学力[ごがくりょく]の 向上[こうじょう]だけではありません。
+  Die Vorteile eines Auslandsstudiums beschränken sich nicht nur auf die Verbesserung der Sprachkenntnisse.
+
+  新システム導入のメリットが多いので、採用を決定しました。
+  新[しん]システム 導入[どうにゅう]のメリットが 多[おお]いので、採用[さいよう]を 決定[けってい]しました。
+  Wir haben beschlossen, das neue System einzuführen, da es viele Vorteile hat.
+
+  この方法のメリットは、時間と労力を節約できることです。
+  この 方法[ほうほう]のメリットは、時間[じかん]と 労力[ろうりょく]を 節約[せつやく]できることです。
+  Der Vorteil dieser Methode ist, dass sie Zeit und Mühe spart.
+
+  深夜勤務は辛いが、時給が高いというメリットがある。
+  深夜勤務[しんやきんむ]は 辛[つら]いが、時給[じきゅう]が 高[たか]いというメリットがある。
+  Nachtarbeit ist zwar hart, hat aber den Vorteil eines höheren Stundenlohns.
+
+  この商品のメリットは、環境に優しいことです。
+  この 商品[しょうひん]のメリットは、環境[かんきょう]に 優[やさ]しいことです。
+  Der Vorteil dieses Produkts ist seine Umweltfreundlichkeit.
+
+  メリットが大きいので、この案を採用することにしました。
+  メリットが 大[おお]きいので、この 案[あん]を 採用[さいよう]することにしました。
+  Wir haben beschlossen, diesen Vorschlag anzunehmen, da die Vorteile groß sind.
+
+  君たちと協力することのメリットは何だろうか。
+  君[きみ]たちと 協力[きょうりょく]することのメリットは 何[なん]だろうか。
+  Was wären die Vorteile einer Zusammenarbeit mit euch?
+
+  この制度のメリットは、公平性が保たれることだ。
+  この 制度[せいど]のメリットは、公平性[こうへいせい]が 保[たも]たれることだ。
+  Der Vorteil dieses Systems ist, dass die Fairness gewahrt bleibt.
+
+  メリット制を導入することで、社員のモチベーションが上がるでしょう。
+  メリット 制[せい]を 導入[どうにゅう]することで、社員[しゃいん]のモチベーションが 上[あ]がるでしょう。
+  Durch die Einführung eines leistungsbasierten Systems wird die Motivation der Mitarbeiter wahrscheinlich steigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

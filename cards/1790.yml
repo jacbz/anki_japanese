@@ -2,20 +2,96 @@ Rang: 1790
 Lemma: 狙う
 Lesung: ねらう
 Tonhöhen: .^^
-Definition: anvisieren
+Definition: zielen, anvisieren; anstreben
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 狙わない・狙った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は優勝を狙っている。
   彼[かれ]は 優勝[ゆうしょう]を 狙[ねら]っている。
-  Er visiert an, die Meisterschaft zu gewinnen.
+  Er strebt den Sieg an.
+
+  敵は我々の弱点を狙っているようだ。
+  敵[てき]は 我々[われわれ]の 弱点[じゃくてん]を 狙[ねら]っているようだ。
+  Der Feind scheint auf unsere Schwachstellen zu zielen.
+
+  狙いを定めて矢を放つ。
+  狙[ねら]いを 定[さだ]めて 矢[や]を 放[はな]つ。
+  Ziele genau, bevor du den Pfeil abschießt.
+
+  ハンターは獲物を狙って静かに待っていた。
+  ハンターは 獲物[えもの]を 狙[ねら]って 静[しず]かに 待[ま]っていた。
+  Der Jäger wartete ruhig und zielte auf seine Beute.
+
+  彼女は大臣のポストを狙っているらしい。
+  彼女[かのじょ]は 大臣[だいじん]のポストを 狙[ねら]っているらしい。
+  Es scheint, als hätte sie es auf einen Ministerposten abgesehen.
+
+  この商品は若い女性をターゲットに狙っています。
+  この 商品[しょうひん]は 若[わか]い 女性[じょせい]をターゲットに 狙[ねら]っています。
+  Dieses Produkt zielt auf junge Frauen ab.
+
+  泥棒は金庫を狙って侵入した。
+  泥棒[どろぼう]は 金庫[きんこ]を 狙[ねら]って 侵入[しんにゅう]した。
+  Der Dieb brach ein, um den Safe zu knacken.
+
+  彼らは経費の節減を狙って新しい政策を導入した。
+  彼[かれ]らは 経費[けいひ]の 節減[せつげん]を 狙[ねら]って 新[あたら]しい 政策[せいさく]を 導入[どうにゅう]した。
+  Sie führten eine neue Politik ein, die auf Kostensenkung abzielte.
+
+  スナイパーは的を狙って引き金を引いた。
+  スナイパーは 的[まと]を 狙[ねら]って 引き金[ひきがね]を 引[ひ]いた。
+  Der Scharfschütze zielte auf das Ziel und drückte ab.
+
+  彼は隙を狙って逃げ出した。
+  彼[かれ]は 隙[すき]を 狙[ねら]って 逃[に]げ出した。
+  Er passte einen günstigen Moment ab und floh.
+
+  この政策は効果を狙ったものだ。
+  この 政策[せいさき]は 効果[こうか]を 狙[ねら]ったものだ。
+  Diese Politik zielt auf einen bestimmten Effekt ab.
+
+  彼らは油断しているところを狙っている。
+  彼[かれ]らは 油断[ゆだん]しているところを 狙[ねら]っている。
+  Sie passen einen Moment der Unachtsamkeit ab.
+
+  選手たちは金メダルを狙って懸命に練習している。
+  選手[せんしゅ]たちは 金[きん]メダルを 狙[ねら]って 懸命[けんめい]に 練習[れんしゅう]している。
+  Die Athleten trainieren hart, um die Goldmedaille anzustreben.
+
+  この広告は若者の関心を狙っているね。
+  この 広告[こうこく]は 若者[わかもの]の 関心[かんしん]を 狙[ねら]っているね。
+  Diese Werbung zielt auf das Interesse junger Leute ab, nicht wahr?
+
+  彼は世界記録を狙って挑戦している。
+  彼[かれ]は 世界[せかい] 記録[きろく]を 狙[ねら]って 挑戦[ちょうせん]している。
+  Er strebt den Weltrekord an und stellt sich der Herausforderung.
+
+  警察は犯人の逮捕を狙って24時間体制で監視を続けている。
+  警察[けいさつ]は 犯人[はんにん]の 逮捕[たいほ]を 狙[ねら]って24時間[じかん] 体制[たいせい]で 監視[かんし]を 続[つづ]けている。
+  Die Polizei überwacht rund um die Uhr, um den Täter zu fassen.
+
+  この会社は海外市場を狙って新製品を開発中だ。
+  この 会社[かいしゃ]は 海外[かいがい] 市場[しじょう]を 狙[ねら]って 新[しん] 製品[せいひん]を 開発中[かいはつちゅう]だ。
+  Dieses Unternehmen entwickelt neue Produkte, die auf den ausländischen Markt abzielen.
+
+  彼女は隣の人の答案を狙ってこっそり覗いた。
+  彼女[かのじょ]は 隣[となり]の 人[ひと]の 答案[とうあん]を 狙[ねら]ってこっそり 覗[のぞ]いた。
+  Sie spähte heimlich auf das Antwortblatt ihres Nachbarn.
+
+  その政治家は次の選挙で当選を狙っている。
+  その 政治家[せいじか]は 次[つぎ]の 選挙[せんきょ]で 当選[とうせん]を 狙[ねら]っている。
+  Der Politiker strebt einen Sieg bei der nächsten Wahl an.
+
+  チームは連覇を狙って今シーズンに挑む。
+  チームは 連覇[れんぱ]を 狙[ねら]って 今[こん]シーズンに 挑[いど]む。
+  Das Team tritt in dieser Saison an, um den Titel zu verteidigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

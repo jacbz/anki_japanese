@@ -14,12 +14,98 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あっ、電話だ。
-  あっ、 電話[でんわ]だ。
+  あっ、電話[でんわ]だ。
   Oh, das Telefon klingelt.
+
+  あっと叫んで、彼女は後ろに飛び退いた。
+  あっと 叫[さけ]んで、彼女[かのじょ]は 後[うし]ろに 飛[と]び 退[しりぞ]いた。
+  Mit einem erschrockenen Ausruf sprang sie zurück.
+
+  あっと感心するほど美しい景色だった。
+  あっと 感心[かんしん]するほど 美[うつく]しい 景色[けしき]だった。
+  Es war eine atemberaubend schöne Landschaft.
+
+  「あっ、しまった。財布を忘れた。」
+  「あっ、しまった。財布[さいふ]を 忘[わす]れた。」
+  "Oh nein! Ich habe meine Geldbörse vergessen."
+
+  あっ、そうだ。今日は母の誕生日だった。
+  あっ、そうだ。今日[きょう]は 母[はは]の 誕生日[たんじょうび]だった。
+  Ach ja, richtig. Heute ist der Geburtstag meiner Mutter.
+
+  「あっ、待って！」と彼女は急いで叫んだ。
+  「あっ、待[ま]って！」と 彼女[かのじょ]は 急[いそ]いで 叫[さけ]んだ。
+  "Hey, warte!", rief sie hastig.
+
+  あっという間に春が過ぎ去った。
+  あっという 間[ま]に 春[はる]が 過[す]ぎ 去[さ]った。
+  Der Frühling verging im Nu.
+
+  あっと言わせるほどの驚きだった。
+  あっと 言[い]わせるほどの 驚[おどろ]きだった。
+  Es war eine Überraschung, die einen sprachlos machte.
+
+  あっ、どうも。お久しぶりです。
+  あっ、どうも。お 久[ひさ]しぶりです。
+  Ah, hallo. Lange nicht gesehen.
+
+  「あっ、そうですか。わかりました。」
+  「あっ、そうですか。わかりました。」
+  "Ach so. Ich verstehe."
+
+  あっ、危ない！車に気をつけて！
+  あっ、危[あぶ]ない！車[くるま]に 気[き]をつけて！
+  Pass auf! Vorsicht vor dem Auto!
+
+  あっという間に夏休みが終わってしまった。
+  あっという 間[ま]に 夏休[なつやす]みが 終[お]わってしまった。
+  Die Sommerferien waren im Handumdrehen vorbei.
+
+  あっ、ごめんなさい。間違えました。
+  あっ、ごめんなさい。間違[まちが]えました。
+  Oh, Entschuldigung. Ich habe mich geirrt.
+
+  「あっ、それ私のペンです。」
+  「あっ、それ 私[わたし]のペンです。」
+  "Ah, das ist mein Stift."
+
+  あっと驚く結末だった。
+  あっと 驚[おどろ]く 結末[けつまつ]だった。
+  Es war ein verblüffendes Ende.
+
+  あっ、雨が降ってきた。傘を持ってくるんだった。
+  あっ、雨[あめ]が 降[ふ]ってきた。傘[かさ]を 持[も]ってくるんだった。
+  Oh, es fängt an zu regnen. Ich hätte einen Regenschirm mitnehmen sollen.
+
+  「あっ、どうぞお入りください。」
+  「あっ、どうぞお 入[はい]りください。」
+  "Ah, bitte kommen Sie herein."
+
+  あっ、そういえば、明日は会議があるんだった。
+  あっ、そういえば、明日[あした]は 会議[かいぎ]があるんだった。
+  Ach ja, jetzt wo du es sagst, morgen ist ja die Besprechung.
+
+  あっと言う間に一年が過ぎてしまった。
+  あっと 言[い]う 間[ま]に 一年[いちねん]が 過[す]ぎてしまった。
+  Ein Jahr verging wie im Flug.
+
+  あっ、思い出した。彼の名前は田中さんだ。
+  あっ、思[おも]い 出[だ]した。彼[かれ]の 名前[なまえ]は 田中[たなか]さんだ。
+  Ah, jetzt erinnere ich mich. Sein Name ist Tanaka.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あっ wird als Ausruf in verschiedenen Situationen verwendet:</p>
+  <ul>
+    <li>Überraschung oder Erstaunen: <div class="jp">あっ、財布[さいふ]を 忘[わす]れた！</div>
+      <div class="de spoiler">Oh nein, ich habe meine Geldbörse vergessen!</div>
+    </li>
+    <li>Plötzliches Erinnern: <div class="jp">あっ、そうだ。今日[きょう]は 会議[かいぎ]がある。</div>
+      <div class="de spoiler">Ach ja, richtig. Heute ist die Besprechung.</div>
+    </li>
+    <li>Als Antworteinleitung: <div class="jp">「あっ、はい。わかりました。」</div>
+      <div class="de spoiler">"Ah, ja. Ich verstehe.

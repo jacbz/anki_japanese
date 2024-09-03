@@ -2,24 +2,114 @@ Rang: 1891
 Lemma: 味わう
 Lesung: あじわう
 Tonhöhen: .^\.
-Definition: schmecken, genießen
+Definition: genießen; kosten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 味わわない・味わった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ゆっくり食べて、よく味わってね。
   ゆっくり 食[た]べて、よく 味[あじ]わってね。
-  Iss langsam und genieße den Geschmack.
+  Iss langsam und genieße es richtig.
+
+  新しいレシピを試して、その味を味わってみましょう。
+  新[あたら]しいレシピを 試[ため]して、その 味[あじ]を 味[あじ]わってみましょう。
+  Lass uns das neue Rezept ausprobieren und den Geschmack kosten.
+
+  この赤ワインの複雑な味わいを楽しんでいます。
+  この 赤[あか]ワインの 複雑[ふくざつ]な 味[あじ]わいを 楽[たの]しんでいます。
+  Ich genieße den komplexen Geschmack dieses Rotweins.
+
+  彼女は食事の一口一口をゆっくりと味わっていた。
+  彼女[かのじょ]は 食事[しょくじ]の 一口一口[ひとくちひとくち]をゆっくりと 味[あじ]わっていた。
+  Sie kostete jeden Bissen ihres Essens langsam aus.
+
+  美味しい料理を味わうのは人生の楽しみの一つです。
+  美味[おい]しい 料理[りょうり]を 味[あじ]わうのは 人生[じんせい]の 楽[たの]しみの 一[ひと]つです。
+  Leckeres Essen zu genießen ist einer der Genüsse des Lebens.
+
+  静かな朝の時間を味わうのが好きです。
+  静[しず]かな 朝[あさ]の 時間[じかん]を 味[あじ]わうのが 好[す]きです。
+  Ich mag es, die ruhige Morgenzeit zu genießen.
+
+  クラシック音楽を味わう方法はたくさんあります。
+  クラシック 音楽[おんがく]を 味[あじ]わう 方法[ほうほう]はたくさんあります。
+  Es gibt viele Möglichkeiten, klassische Musik zu genießen.
+
+  この絵画の美しさをじっくりと味わってください。
+  この 絵画[かいが]の 美[うつく]しさをじっくりと 味[あじ]わってください。
+  Bitte nehmen Sie sich die Zeit, die Schönheit dieses Gemäldes zu würdigen.
+
+  成功の喜びを心ゆくまで味わいました。
+  成功[せいこう]の 喜[よろこ]びを 心[こころ]ゆくまで 味[あじ]わいました。
+  Ich habe die Freude des Erfolgs in vollen Zügen genossen.
+
+  彼は人生の苦しみを味わってきた。
+  彼[かれ]は 人生[じんせい]の 苦[くる]しみを 味[あじ]わってきた。
+  Er hat die Härten des Lebens erfahren.
+
+  この経験から多くのことを味わい、学びました。
+  この 経験[けいけん]から 多[おお]くのことを 味[あじ]わい、学[まな]びました。
+  Ich habe aus dieser Erfahrung viel gelernt und erlebt.
+
+  初めての海外旅行で、異文化の魅力を味わった。
+  初[はじ]めての 海外旅行[かいがいりょこう]で、異文化[いぶんか]の 魅力[みりょく]を 味[あじ]わった。
+  Auf meiner ersten Auslandsreise habe ich den Reiz einer fremden Kultur erlebt.
+
+  この本を読むと、作者の心情がよく味わえます。
+  この 本[ほん]を 読[よ]むと、作者[さくしゃ]の 心情[しんじょう]がよく 味[あじ]わえます。
+  Wenn man dieses Buch liest, kann man die Gefühle des Autors gut nachempfinden.
+
+  私はすっぱりと裸かにされた快さを隈なく味わった。
+  私[わたし]はすっぱりと 裸[はだか]かにされた 快[かい]さを 隈[くま]なく 味[あじ]わった。
+  Ich genoss rundum die Freude, völlig nackt zu sein.
+
+  彼女は女王様気分を味わっているようだ。
+  彼女[かのじょ]は 女王様[じょおうさま]気分[きぶん]を 味[あじ]わっているようだ。
+  Sie scheint sich wie eine Königin zu fühlen.
+
+  この映画の深い意味を味わうには、何度も見る必要があります。
+  この 映画[えいが]の 深[ふか]い 意味[いみ]を 味[あじ]わうには、何度[なんど]も 見[み]る 必要[ひつよう]があります。
+  Um die tiefe Bedeutung dieses Films zu erfassen, muss man ihn mehrmals sehen.
+
+  彼は失敗の苦さを十分に味わった後、成功への道を歩み始めた。
+  彼[かれ]は 失敗[しっぱい]の 苦[にが]さを 十分[じゅうぶん]に 味[あじ]わった 後[あと]、成功[せいこう]への 道[みち]を 歩[あゆ]み 始[はじ]めた。
+  Nachdem er die Bitterkeit des Scheiterns voll ausgekostet hatte, begann er den Weg zum Erfolg zu beschreiten.
+
+  この詩の美しさをゆっくりと味わってみてください。
+  この 詩[し]の 美[うつく]しさをゆっくりと 味[あじ]わってみてください。
+  Bitte nehmen Sie sich die Zeit, die Schönheit dieses Gedichts zu genießen.
+
+  旅の醍醐味は、その土地の文化や食を味わうことだと思う。
+  旅[たび]の 醍醐味[だいごみ]は、その 土地[とち]の 文化[ぶんか]や 食[しょく]を 味[あじ]わうことだと 思[おも]う。
+  Ich denke, der wahre Genuss des Reisens liegt darin, die Kultur und das Essen des Ortes zu erleben.
+
+  この瞬間の喜びを十分に味わおう。
+  この 瞬間[しゅんかん]の 喜[よろこ]びを 十分[じゅうぶん]に 味[あじ]わおう。
+  Lass uns diesen Moment der Freude voll auskosten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>味わう hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Etwas kosten, probieren oder genießen, oft im Zusammenhang mit Essen und Trinken.</li>
+    <div class="examples">
+      <div class="jp">このワインの 香[かお]りをゆっくり 味[あじ]わってください。</div>
+      <div class="de spoiler">Bitte genießen Sie langsam das Aroma dieses Weins.</div>
+    </div>
+    <li>Etwas erleben oder erfahren, oft im übertragenen Sinne.</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 人生[じんせい]の 苦[にが]さを 味[あじ]わった。</div>
+      <div class="de spoiler">Er hat die Bitterkeit des Lebens erfahren.</div>
+    </div>
+  </ol>
+  <p>In beiden Fällen geht es darum, etwas intensiv wahrzunehmen und zu erleben, sei es ein Geschmack oder eine Erfahrung.</p>

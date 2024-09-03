@@ -2,20 +2,96 @@ Rang: 1836
 Lemma: つなぐ
 Lesung: ''
 Tonhöhen: .^^
-Definition: verbinden, binden
-Alternativschreibweisen: ''
+Definition: verbinden; anbinden
+Alternativschreibweisen: 繋ぐ
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: つながない・つないだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   犬を庭の木につないだ。
   犬[いぬ]を 庭[にわ]の 木[き]につないだ。
-  Ich habe meinen Hund an den Baum im Garten gebunden.
+  Ich habe den Hund an einen Baum im Garten angebunden.
+
+  鎖で囚人をつながれている。
+  鎖[くさり]で 囚人[しゅうじん]をつながれている。
+  Der Gefangene ist mit Ketten gefesselt.
+
+  ロープを上の梁にからめて、その先を車につないで引っ張る。
+  ロープを 上[うえ]の 梁[はり]にからめて、その 先[さき]を 車[くるま]につないで 引[ひ]っ 張[ぱ]る。
+  Man bindet ein Seil um den oberen Querbalken, befestigt es am Auto und zieht daran.
+
+  波が高く、港に繋いでいる船が揺れている。
+  波[なみ]が 高[たか]く、港[みなと]に 繋[つな]いでいる 船[ふね]が 揺[ゆ]れている。
+  Die Wellen sind hoch, und die im Hafen vertäuten Schiffe schaukeln.
+
+  二つの部屋をつなげて広いスペースを作った。
+  二[ふた]つの 部屋[へや]をつなげて 広[ひろ]いスペースを 作[つく]った。
+  Wir haben zwei Zimmer verbunden, um einen größeren Raum zu schaffen.
+
+  コードをコンセントにつないでください。
+  コードをコンセントにつないでください。
+  Bitte schließen Sie das Kabel an die Steckdose an.
+
+  彼らは手をつないで歩いていた。
+  彼[かれ]らは 手[て]をつないで 歩[ある]いていた。
+  Sie gingen Hand in Hand.
+
+  パスをうまくつないで、チームは得点した。
+  パスをうまくつないで、チームは 得点[とくてん]した。
+  Das Team erzielte einen Punkt, indem es erfolgreich Pässe spielte.
+
+  電話をマネージャーにつないでもらえますか。
+  電話[でんわ]をマネージャーにつないでもらえますか。
+  Können Sie mich bitte mit dem Manager verbinden?
+
+  オンラインでコンピューターをつないで会議を行った。
+  オンラインでコンピューターをつないで 会議[かいぎ]を 行[おこな]った。
+  Wir hielten eine Konferenz ab, indem wir die Computer online verbanden.
+
+  短く刈った頭を太い首が骨太の体につないでいる。
+  短[みじか]く 刈[か]った 頭[あたま]を 太[ふと]い 首[くび]が 骨太[ほねぶと]の 体[からだ]につないでいる。
+  Ein kräftiger Hals verbindet seinen kurz geschorenen Kopf mit seinem stämmigen Körper.
+
+  緑のコードと緑のコード、赤のコードと赤のコードをつなぐ。
+  緑[みどり]のコードと 緑[みどり]のコード、赤[あか]のコードと 赤[あか]のコードをつなぐ。
+  Verbinden Sie das grüne Kabel mit dem grünen und das rote Kabel mit dem roten.
+
+  デッキが濡れていたので、滑らないよう手をつないだ。
+  デッキが 濡[ぬ]れていたので、滑[すべ]らないよう 手[て]をつないだ。
+  Da das Deck nass war, hielten wir uns an den Händen, um nicht auszurutschen.
+
+  資料部につないでもらえませんか。
+  資料部[しりょうぶ]につないでもらえませんか。
+  Könnten Sie mich bitte mit der Dokumentationsabteilung verbinden?
+
+  お客様からの電話をすぐに部屋につなぎました。
+  お 客様[きゃくさま]からの 電話[でんわ]をすぐに 部屋[へや]につなぎました。
+  Ich habe den Anruf des Gastes sofort in sein Zimmer durchgestellt.
+
+  犯人を獄につないだ。
+  犯人[はんにん]を 獄[ごく]につないだ。
+  Der Täter wurde ins Gefängnis geworfen.
+
+  困難な時期でも、希望をつないでいく。
+  困難[こんなん]な 時期[じき]でも、希望[きぼう]をつないでいく。
+  Auch in schwierigen Zeiten bewahren wir die Hoffnung.
+
+  彼らは世代を超えて伝統をつないでいる。
+  彼[かれ]らは 世代[せだい]を 超[こ]えて 伝統[でんとう]をつないでいる。
+  Sie bewahren die Tradition über Generationen hinweg.
+
+  この橋は二つの島をつないでいる。
+  この 橋[はし]は 二[ふた]つの 島[しま]をつないでいる。
+  Diese Brücke verbindet zwei Inseln miteinander.
+
+  彼女は過去と現在をつなぐ重要な役割を果たしている。
+  彼女[かのじょ]は 過去[かこ]と 現在[げんざい]をつなぐ 重要[じゅうよう]な 役割[やくわり]を 果[は]たしている。
+  Sie spielt eine wichtige Rolle bei der Verbindung von Vergangenheit und Gegenwart.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

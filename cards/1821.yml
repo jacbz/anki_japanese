@@ -2,7 +2,7 @@ Rang: 1821
 Lemma: 仲
 Lesung: なか
 Tonhöhen: \.
-Definition: Beziehungen, Verhältnisse
+Definition: Beziehung, Verhältnis
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女はクラスのほとんどの人と仲がいい。
-  彼女[かのじょ]はクラスのほとんどの人と 仲[なか]がいい。
-  Sie hat mit den meisten ihrer Klassenkameraden ein gutes Verhältnis.
+  彼女[かのじょ]はクラスのほとんどの 人[ひと]と 仲[なか]がいい。
+  Sie versteht sich gut mit den meisten Leuten in ihrer Klasse.
+
+  兄弟の仲が悪くて、よく喧嘩している。
+  兄弟[きょうだい]の 仲[なか]が 悪[わる]くて、よく 喧嘩[けんか]している。
+  Die Geschwister verstehen sich nicht gut und streiten oft.
+
+  彼らは長年の友人で、とても仲がいい。
+  彼[かれ]らは 長年[ながねん]の 友人[ゆうじん]で、とても 仲[なか]がいい。
+  Sie sind langjährige Freunde und verstehen sich sehr gut.
+
+  夫婦の仲がうまく行かず、離婚を考えている。
+  夫婦[ふうふ]の 仲[なか]がうまく 行[い]かず、離婚[りこん]を 考[かんが]えている。
+  Die Ehe läuft nicht gut, und sie denken über eine Scheidung nach.
+
+  仲直りのきっかけを探しています。
+  仲直[なかなお]りのきっかけを 探[さが]しています。
+  Ich suche nach einer Gelegenheit zur Versöhnung.
+
+  彼らは仲を直して、また友達になった。
+  彼[かれ]らは 仲[なか]を 直[なお]して、また 友達[ともだち]になった。
+  Sie haben sich versöhnt und sind wieder Freunde geworden.
+
+  両親の仲が悪くなり、別れ話が出ている。
+  両親[りょうしん]の 仲[なか]が 悪[わる]くなり、別[わか]れ 話[ばなし]が 出[で]ている。
+  Das Verhältnis zwischen meinen Eltern hat sich verschlechtert, und es wird über Trennung gesprochen.
+
+  彼女は同僚との仲を大切にしている。
+  彼女[かのじょ]は 同僚[どうりょう]との 仲[なか]を 大切[たいせつ]にしている。
+  Sie legt Wert auf ein gutes Verhältnis zu ihren Kollegen.
+
+  仲の良い夫婦は、お互いを尊重しあっている。
+  仲[なか]の 良[よ]い 夫婦[ふうふ]は、お 互[たが]いを 尊重[そんちょう]しあっている。
+  Ein Ehepaar, das sich gut versteht, respektiert sich gegenseitig.
+
+  先生と生徒の仲が良すぎて、問題になっている。
+  先生[せんせい]と 生徒[せいと]の 仲[なか]が 良[よ]すぎて、問題[もんだい]になっている。
+  Das zu gute Verhältnis zwischen dem Lehrer und dem Schüler ist zum Problem geworden.
+
+  二人の仲を取り持つのは難しかった。
+  二人[ふたり]の 仲[なか]を 取[と]り 持[も]つのは 難[むずか]しかった。
+  Es war schwierig, zwischen den beiden zu vermitteln.
+
+  彼らの仲は、時間とともに改善されていった。
+  彼[かれ]らの 仲[なか]は、時間[じかん]とともに 改善[かいぜん]されていった。
+  Ihre Beziehung verbesserte sich mit der Zeit.
+
+  仲良く遊んでいる子供たちを見るのは楽しい。
+  仲良[なかよ]く 遊[あそ]んでいる 子供[こども]たちを 見[み]るのは 楽[たの]しい。
+  Es macht Spaß, Kinder zu beobachten, die freundschaftlich miteinander spielen.
+
+  彼女は家族との仲を修復しようと努力している。
+  彼女[かのじょ]は 家族[かぞく]との 仲[なか]を 修復[しゅうふく]しようと 努力[どりょく]している。
+  Sie bemüht sich, ihre Beziehung zur Familie wiederherzustellen.
+
+  仲の良い友人たちと旅行に行くのが楽しみだ。
+  仲[なか]の 良[よ]い 友人[ゆうじん]たちと 旅行[りょこう]に 行[い]くのが 楽[たの]しみだ。
+  Ich freue mich darauf, mit guten Freunden in den Urlaub zu fahren.
+
+  彼らの仲を裂こうとする人がいる。
+  彼[かれ]らの 仲[なか]を 裂[さ]こうとする 人[ひと]がいる。
+  Es gibt Leute, die versuchen, ihre Beziehung zu zerstören.
+
+  仲が悪くなった原因を話し合おう。
+  仲[なか]が 悪[わる]くなった 原因[げんいん]を 話[はな]し 合[あ]おう。
+  Lass uns über die Gründe sprechen, warum unser Verhältnis sich verschlechtert hat.
+
+  彼らは仲が良すぎて、周りから妬まれている。
+  彼[かれ]らは 仲[なか]が 良[よ]すぎて、周[まわ]りから 妬[ねた]まれている。
+  Sie verstehen sich so gut, dass sie von anderen beneidet werden.
+
+  仲の良い夫婦は、お互いの趣味を理解し合っている。
+  仲[なか]の 良[よ]い 夫婦[ふうふ]は、お 互[たが]いの 趣味[しゅみ]を 理解[りかい]し 合[あ]っている。
+  Ein Ehepaar, das sich gut versteht, respektiert die Hobbys des anderen.
+
+  彼らの仲を取り持つのは簡単ではなかった。
+  彼[かれ]らの 仲[なか]を 取[と]り 持[も]つのは 簡単[かんたん]ではなかった。
+  Es war nicht einfach, zwischen ihnen zu vermitteln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -3,19 +3,95 @@ Lemma: 努める
 Lesung: つとめる
 Tonhöhen: .^\.
 Definition: sich bemühen
-Alternativschreibweisen: ''
+Alternativschreibweisen: 勉める
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ↗Verwaltungssprache
 Ursprung: ''
-Konjugation: ''
+Konjugation: 努めない・努めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今後もサービスの向上に努めてまいります。
   今後[こんご]もサービスの 向上[こうじょう]に 努[つと]めてまいります。
-  Wir werden uns bemühen, unseren Service weiter zu verbessern.
+  Wir werden uns auch in Zukunft bemühen, unseren Service zu verbessern.
+
+  解決に努めましょう。
+  解決[かいけつ]に 努[つと]めましょう。
+  Lassen Sie uns versuchen, eine Lösung zu finden.
+
+  消防士たちは懸命に消火に努めた。
+  消防士[しょうぼうし]たちは 懸命[けんめい]に 消火[しょうか]に 努[つと]めた。
+  Die Feuerwehrleute versuchten verzweifelt, das Feuer zu löschen.
+
+  彼らは最後まで防戦に努めたが、敵の攻撃に屈した。
+  彼[かれ]らは 最後[さいご]まで 防戦[ぼうせん]に 努[つと]めたが、敵[てき]の 攻撃[こうげき]に 屈[くっ]した。
+  Sie versuchten bis zum Schluss, sich zu verteidigen, unterlagen aber dem Angriff des Feindes.
+
+  泣くまいと努めたけど、涙が止まらなかった。
+  泣[な]くまいと 努[つと]めたけど、涙[なみだ]が 止[と]まらなかった。
+  Ich versuchte, nicht zu weinen, aber die Tränen hörten nicht auf zu fließen.
+
+  努めて冷静を保つようにしています。
+  努[つと]めて 冷静[れいせい]を 保[たも]つようにしています。
+  Ich bemühe mich, möglichst ruhig zu bleiben.
+
+  国は社会福祉の向上に努めなければならない。
+  国[くに]は 社会福祉[しゃかいふくし]の 向上[こうじょう]に 努[つと]めなければならない。
+  Der Staat muss sich um die Verbesserung der sozialen Wohlfahrt bemühen.
+
+  我が社は常に公平な判断をするよう努めています。
+  我[わ]が 社[しゃ]は 常[つね]に 公平[こうへい]な 判断[はんだん]をするよう 努[つと]めています。
+  Unser Unternehmen bemüht sich stets um faire Beurteilungen.
+
+  彼は状況を把握しようと必死に努めた。
+  彼[かれ]は 状況[じょうきょう]を 把握[はあく]しようと 必死[ひっし]に 努[つと]めた。
+  Er versuchte verzweifelt, die Situation zu erfassen.
+
+  私は辛い経験をできるだけ忘れようと努めている。
+  私[わたし]は 辛[つら]い 経験[けいけん]をできるだけ 忘[わす]れようと 努[つと]めている。
+  Ich versuche, die schmerzhafte Erfahrung so gut wie möglich zu vergessen.
+
+  彼は毎日欠かさず勤行に努めていた。
+  彼[かれ]は 毎日[まいにち] 欠[か]かさず 勤行[きんぎょう]に 努[つと]めていた。
+  Er bemühte sich täglich ohne Ausnahme um seine religiösen Pflichten.
+
+  環境保護に努める企業が増えています。
+  環境保護[かんきょうほご]に 努[つと]める 企業[きぎょう]が 増[ふ]えています。
+  Es gibt immer mehr Unternehmen, die sich um Umweltschutz bemühen.
+
+  彼女は常に自己改善に努めている。
+  彼女[かのじょ]は 常[つね]に 自己改善[じこかいぜん]に 努[つと]めている。
+  Sie bemüht sich ständig um Selbstverbesserung.
+
+  医師たちは患者の命を救うために懸命に努めた。
+  医師[いし]たちは 患者[かんじゃ]の 命[いのち]を 救[すく]うために 懸命[けんめい]に 努[つと]めた。
+  Die Ärzte bemühten sich verzweifelt, das Leben des Patienten zu retten.
+
+  我々は平和の維持に努めなければならない。
+  我々[われわれ]は 平和[へいわ]の 維持[いじ]に 努[つと]めなければならない。
+  Wir müssen uns um die Erhaltung des Friedens bemühen.
+
+  彼は新しい技術の習得に努めている。
+  彼[かれ]は 新[あたら]しい 技術[ぎじゅつ]の 習得[しゅうとく]に 努[つと]めている。
+  Er bemüht sich, neue Fähigkeiten zu erlernen.
+
+  教師として、生徒の理解力向上に努めています。
+  教師[きょうし]として、生徒[せいと]の 理解力[りかいりょく] 向上[こうじょう]に 努[つと]めています。
+  Als Lehrer bemühe ich mich, das Verständnis der Schüler zu verbessern.
+
+  彼らは困難な状況下でも前向きな態度を保つよう努めた。
+  彼[かれ]らは 困難[こんなん]な 状況下[じょうきょうか]でも 前向[まえむ]きな 態度[たいど]を 保[たも]つよう 努[つと]めた。
+  Sie versuchten, auch unter schwierigen Umständen eine positive Einstellung zu bewahren.
+
+  この会社は従業員の福利厚生の充実に努めている。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 福利厚生[ふくりこうせい]の 充実[じゅうじつ]に 努[つと]めている。
+  Dieses Unternehmen bemüht sich um die Verbesserung der Sozialleistungen für seine Mitarbeiter.
+
+  彼女は日々の小さな幸せに気づくよう努めている。
+  彼女[かのじょ]は 日々[ひび]の 小[ちい]さな 幸[しあわ]せに 気[き]づくよう 努[つと]めている。
+  Sie bemüht sich, die kleinen Freuden des Alltags wahrzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1872
 Lemma: 昼間
 Lesung: ひるま
 Tonhöhen: .^\
-Definition: tagsüber
+Definition: Tag, Tageslicht
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そのバーは昼間は閉まっている。
-  そのバーは 昼間[ひるま]は 閉[し]まっている。
-  Die Bar ist tagsüber geschlossen.
+  その バー[ばー]は 昼間[ひるま]は 閉[し]まっている。
+  Diese Bar ist tagsüber geschlossen.
+
+  昼間に散歩するのが好きです。
+  昼間[ひるま]に 散歩[さんぽ]するのが 好[す]きです。
+  Ich mag es, tagsüber spazieren zu gehen.
+
+  昼間はオフィスで働き、夜は大学で勉強しています。
+  昼間[ひるま]はオフィスで 働[はたら]き、夜[よる]は 大学[だいがく]で 勉強[べんきょう]しています。
+  Tagsüber arbeite ich im Büro und abends studiere ich an der Universität.
+
+  昼間でも星が見えることがあります。
+  昼間[ひるま]でも 星[ほし]が 見[み]えることがあります。
+  Manchmal kann man auch tagsüber Sterne sehen.
+
+  昼間の電車は比較的空いています。
+  昼間[ひるま]の 電車[でんしゃ]は 比較的[ひかくてき] 空[す]いています。
+  Die Züge sind tagsüber relativ leer.
+
+  昼間から飲んでいる人を見かけました。
+  昼間[ひるま]から 飲[の]んでいる 人[ひと]を 見[み]かけました。
+  Ich habe Leute gesehen, die schon tagsüber trinken.
+
+  昼間の熱さが和らぐ頃、散歩に出かけます。
+  昼間[ひるま]の 熱[あつ]さが 和[やわ]らぐ 頃[ころ]、散歩[さんぽ]に 出[で]かけます。
+  Ich gehe spazieren, wenn die Mittagshitze nachlässt.
+
+  昼間は仕事、夜はボランティア活動をしています。
+  昼間[ひるま]は 仕事[しごと]、夜[よる]はボランティア 活動[かつどう]をしています。
+  Tagsüber arbeite ich und abends mache ich Freiwilligenarbeit.
+
+  昼間のテレビ番組は主に主婦向けです。
+  昼間[ひるま]のテレビ 番組[ばんぐみ]は 主[おも]に 主婦[しゅふ]向[む]けです。
+  Die Fernsehsendungen tagsüber richten sich hauptsächlich an Hausfrauen.
+
+  昼間でも街灯がついている場所があります。
+  昼間[ひるま]でも 街灯[がいとう]がついている 場所[ばしょ]があります。
+  Es gibt Orte, an denen selbst tagsüber die Straßenbeleuchtung eingeschaltet ist.
+
+  昼間は静かな通りも、夜になると賑やかになります。
+  昼間[ひるま]は 静[しず]かな 通[とお]りも、夜[よる]になると 賑[にぎ]やかになります。
+  Die Straße, die tagsüber ruhig ist, wird nachts lebhaft.
+
+  昼間の光で写真を撮るのが好きです。
+  昼間[ひるま]の 光[ひかり]で 写真[しゃしん]を 撮[と]るのが 好[す]きです。
+  Ich mag es, Fotos bei Tageslicht zu machen.
+
+  昼間の月を見たことがありますか。
+  昼間[ひるま]の 月[つき]を 見[み]たことがありますか。
+  Hast du schon einmal den Mond am Tag gesehen?
+
+  昼間から居酒屋で飲むのは気が引けます。
+  昼間[ひるま]から 居酒屋[いざかや]で 飲[の]むのは 気[き]が 引[ひ]けます。
+  Ich fühle mich unwohl dabei, schon tagsüber in einer Izakaya zu trinken.
+
+  昼間の交通量は朝夕のラッシュ時より少ないです。
+  昼間[ひるま]の 交通量[こうつうりょう]は 朝夕[ちょうゆう]のラッシュ 時[じ]より 少[すく]ないです。
+  Das Verkehrsaufkommen tagsüber ist geringer als während der Stoßzeiten am Morgen und Abend.
+
+  昼間の空は夜空とは全然違う美しさがあります。
+  昼間[ひるま]の 空[そら]は 夜空[よぞら]とは 全然[ぜんぜん] 違[ちが]う 美[うつく]しさがあります。
+  Der Himmel am Tag hat eine ganz andere Schönheit als der Nachthimmel.
+
+  昼間から宴会をするなんて、羨ましいですね。
+  昼間[ひるま]から 宴会[えんかい]をするなんて、羨[うらや]ましいですね。
+  Eine Party schon tagsüber zu haben, das ist beneidenswert.
+
+  昼間の海は青く、夕方になると色が変わります。
+  昼間[ひるま]の 海[うみ]は 青[あお]く、夕方[ゆうがた]になると 色[いろ]が 変[か]わります。
+  Das Meer ist tagsüber blau und ändert seine Farbe am Abend.
+
+  昼間は欺くように明るいが、心の中は暗い。
+  昼間[ひるま]を 欺[あざむ]くように 明[あか]るいが、心[こころ]の 中[なか]は 暗[くら]い。
+  Es ist taghell, aber im Herzen ist es dunkel.
+
+  昼間から飲んでいる人を見ると、複雑な気持ちになります。
+  昼間[ひるま]から 飲[の]んでいる 人[ひと]を 見[み]ると、複雑[ふくざつ]な 気持[きも]ちになります。
+  Wenn ich Leute sehe, die schon tagsüber trinken, habe ich gemischte Gefühle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

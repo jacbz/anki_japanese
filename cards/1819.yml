@@ -5,7 +5,7 @@ Tonhöhen: .\..
 Definition: Verfahren, Formalitäten
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n, vt
+Wortart: n
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,111 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   次に、婚姻届の手続きについてご説明します。
-  次[つぎ]に、 婚姻届[こんいんとどけ]の 手続[てつず]きについてご 説明[せつめい]します。
-  Als Nächstes werde ich die Verfahren für die Anmeldung der Eheschließung erläutern.
+  次[つぎ]に、婚姻届[こんいんとどけ]の 手続[てつづ]きについてご 説明[せつめい]します。
+  Als Nächstes erkläre ich Ihnen das Verfahren zur Anmeldung der Eheschließung.
+
+  手続きの流れを理解することが大切です。
+  手続[てつづ]きの 流[なが]れを 理解[りかい]することが 大切[たいせつ]です。
+  Es ist wichtig, den Ablauf des Verfahrens zu verstehen.
+
+  入会手続きをするには、このフォームに記入してください。
+  入会[にゅうかい]手続[てつづ]きをするには、このフォームに 記入[きにゅう]してください。
+  Um die Aufnahmeformalitäten zu erledigen, füllen Sie bitte dieses Formular aus.
+
+  入国手続きに時間がかかるので、早めに空港に到着しましょう。
+  入国[にゅうこく]手続[てつづ]きに 時間[じかん]がかかるので、早[はや]めに 空港[くうこう]に 到着[とうちゃく]しましょう。
+  Da die Einreiseformalitäten Zeit in Anspruch nehmen, sollten wir frühzeitig am Flughafen ankommen.
+
+  離婚手続きを始める前に、弁護士に相談することをおすすめします。
+  離婚[りこん]手続[てつづ]きを 始[はじ]める 前[まえ]に、弁護士[べんごし]に 相談[そうだん]することをおすすめします。
+  Bevor Sie mit den Scheidungsformalitäten beginnen, empfehle ich Ihnen, einen Anwalt zu konsultieren.
+
+  出国手続きは搭乗口の近くで行われます。
+  出国[しゅっこく]手続[てつづ]きは 搭乗口[とうじょうぐち]の 近[ちか]くで 行[おこな]われます。
+  Die Ausreiseformalitäten werden in der Nähe des Boarding-Gates durchgeführt.
+
+  必要な手続きを取らないと、申請が却下される可能性があります。
+  必要[ひつよう]な 手続[てつづ]きを 取[と]らないと、申請[しんせい]が 却下[きゃっか]される 可能性[かのうせい]があります。
+  Wenn Sie die erforderlichen Schritte nicht einleiten, besteht die Möglichkeit, dass Ihr Antrag abgelehnt wird.
+
+  法的手続きを取る前に、まず話し合いで解決を試みましょう。
+  法的[ほうてき]手続[てつづ]きを 取[と]る 前[まえ]に、まず 話[はな]し 合[あ]いで 解決[かいけつ]を 試[こころ]みましょう。
+  Bevor wir rechtliche Schritte einleiten, sollten wir zunächst versuchen, die Angelegenheit durch Gespräche zu klären.
+
+  手続きを省略すると、後で問題が発生する可能性があります。
+  手続[てつづ]きを 省略[しょうりゃく]すると、後[あと]で 問題[もんだい]が 発生[はっせい]する 可能性[かのうせい]があります。
+  Wenn Sie das Verfahren abkürzen, können später Probleme auftreten.
+
+  規定の手続きに従わないと、申請が受理されません。
+  規定[きてい]の 手続[てつづ]きに 従[したが]わないと、申請[しんせい]が 受理[じゅり]されません。
+  Wenn Sie das vorgeschriebene Verfahren nicht befolgen, wird Ihr Antrag nicht angenommen.
+
+  キャンセルの手続きについては、予約確認メールに記載されています。
+  キャンセルの 手続[てつづ]きについては、予約[よやく]確認[かくにん]メールに 記載[きさい]されています。
+  Informationen zum Stornierungsverfahren finden Sie in der Bestätigungs-E-Mail Ihrer Reservierung.
+
+  入口の手続きにあんなに時間がかかるとは知らなかったんです。
+  入口[いりぐち]の 手続[てつづ]きにあんなに 時間[じかん]がかかるとは 知[し]らなかったんです。
+  Ich wusste nicht, dass die Formalitäten am Eingang so viel Zeit in Anspruch nehmen würden.
+
+  手続き上の理由で、あなたの申請は保留されています。
+  手続[てつづ]き 上[じょう]の 理由[りゆう]で、あなたの 申請[しんせい]は 保留[ほりゅう]されています。
+  Aus formalen Gründen ist Ihr Antrag vorläufig zurückgestellt.
+
+  住所変更の手続きは、市役所で行うことができます。
+  住所[じゅうしょ]変更[へんこう]の 手続[てつづ]きは、市役所[しやくしょ]で 行[おこな]うことができます。
+  Die Meldung einer Adressenänderung können Sie im Rathaus vornehmen.
+
+  自己破産の手続きをする前に、専門家に相談することをお勧めします。
+  自己[じこ]破産[はさん]の 手続[てつづ]きをする 前[まえ]に、専門家[せんもんか]に 相談[そうだん]することをお 勧[すす]めします。
+  Bevor Sie eine Privatinsolvenz anmelden, empfehle ich Ihnen, einen Fachmann zu konsultieren.
+
+  それでは離籍の手続をするとしよう。
+  それでは 離籍[りせき]の 手続[てつづ]きをするとしよう。
+  Dann werde ich die Formalitäten für die Scheidung in die Wege leiten.
+
+  手続き型プログラミングは、コードを順序立てて実行します。
+  手続[てつづ]き 型[がた]プログラミングは、コードを 順序[じゅんじょ]立[た]てて 実行[じっこう]します。
+  Die prozedurale Programmierung führt den Code in einer bestimmten Reihenfolge aus.
+
+  非手続き型プログラミングは、データの関係性に焦点を当てます。
+  非[ひ]手続[てつづ]き 型[がた]プログラミングは、データの 関係性[かんけいせい]に 焦点[しょうてん]を 当[あ]てます。
+  Die nicht-prozedurale Programmierung konzentriert sich auf die Beziehungen zwischen den Daten.
+
+  手続き的知識は、特定のタスクを実行する方法に関する知識です。
+  手続[てつづ]き 的[てき]知識[ちしき]は、特定[とくてい]のタスクを 実行[じっこう]する 方法[ほうほう]に 関[かん]する 知識[ちしき]です。
+  Prozedurales Wissen bezieht sich auf das Wissen darüber, wie man bestimmte Aufgaben ausführt.
+
+  手続き的正義は、公平で透明性のある法的プロセスを確保することを目的としています。
+  手続[てつづ]き 的[てき]正義[せいぎ]は、公平[こうへい]で 透明性[とうめいせい]のある 法的[ほうてき]プロセスを 確保[かくほ]することを 目的[もくてき]としています。
+  Die prozedurale Gerechtigkeit zielt darauf ab, ein faires und transparentes rechtliches Verfahren sicherzustellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>手続き（てつづき）kann sowohl als Nomen als auch als Verb verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">入会[にゅうかい]手続[てつづ]きをする</div>
+    <div class="de spoiler">Die Aufnahmeformalitäten erledigen</div>
+  </div>
+  <p>Es gibt verschiedene Arten von 手続き:</p>
+  <div class="examples">
+    <div class="jp">入国[にゅうこく]手続[てつづ]き</div>
+    <div class="de spoiler">Einreiseformalitäten</div>
+  </div>
+  <div class="examples">
+    <div class="jp">離婚[りこん]手続[てつづ]き</div>
+    <div class="de spoiler">Scheidungsverfahren</div>
+  </div>
+  <div class="examples">
+    <div class="jp">出国[しゅっこく]手続[てつづ]き</div>
+    <div class="de spoiler">Ausreiseformalitäten</div>
+  </div>
+  <p>In der Informatik bezieht sich 手続き auf eine Prozedur (Unterprogramm):</p>
+  <div class="examples">
+    <div class="jp">手続[てつづ]き 型[がた]プログラミング</div>
+    <div class="de spoiler">Prozedurale Programmierung</div>
+  </div>

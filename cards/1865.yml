@@ -2,10 +2,10 @@ Rang: 1865
 Lemma: さっき
 Lesung: ''
 Tonhöhen: \..
-Definition: vorhin
+Definition: gerade eben, vorhin
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,98 @@ Konjugation: ''
 Beispielsätze: |-
   さっき、君のお母さんに会ったよ。
   さっき、 君[きみ]のお 母[かあ]さんに 会[あ]ったよ。
-  Ich habe deine Mutter gerade eben gesehen.
+  Ich habe gerade eben deine Mutter getroffen.
+
+  さっきから待っているんだけど、まだ来ないね。
+  さっきから 待[ま]っているんだけど、まだ 来[こ]ないね。
+  Ich warte schon seit einer Weile, aber er ist immer noch nicht da.
+
+  さっきの質問についてもう少し詳しく説明してもらえますか。
+  さっきの 質問[しつもん]についてもう 少[すこ]し 詳[くわ]しく 説明[せつめい]してもらえますか。
+  Könnten Sie die Frage von vorhin bitte etwas genauer erklären?
+
+  さっきはごめんなさい。気分が悪くて少し怒ってしまいました。
+  さっきはごめんなさい。気分[きぶん]が 悪[わる]くて 少[すこ]し 怒[おこ]ってしまいました。
+  Es tut mir leid wegen vorhin. Ich war schlecht gelaunt und wurde etwas wütend.
+
+  さっきはありがとう。助かったよ。
+  さっきはありがとう。助[たす]かったよ。
+  Danke für vorhin. Das hat mir sehr geholfen.
+
+  さっき帰ってきたところです。まだ荷物も解いていません。
+  さっき 帰[かえ]ってきたところです。まだ 荷物[にもつ]も 解[と]いていません。
+  Ich bin gerade eben zurückgekommen. Ich habe mein Gepäck noch nicht einmal ausgepackt.
+
+  さっきから雨が降り続いているね。
+  さっきから 雨[あめ]が 降[ふ]り 続[つづ]いているね。
+  Es regnet schon seit einer ganzen Weile ununterbrochen.
+
+  さっきの電話、誰からだった？
+  さっきの 電話[でんわ]、誰[だれ]からだった？
+  Von wem war der Anruf vorhin?
+
+  さっきコーヒーを飲んだばかりなので、今は結構です。
+  さっきコーヒーを 飲[の]んだばかりなので、今[いま]は 結構[けっこう]です。
+  Ich habe gerade erst Kaffee getrunken, also danke ich jetzt.
+
+  さっきから考えているんだけど、どうしても答えが出ないよ。
+  さっきから 考[かんが]えているんだけど、どうしても 答[こた]えが 出[で]ないよ。
+  Ich denke schon seit einer Weile darüber nach, aber ich komme einfach nicht auf die Antwort.
+
+  さっきまで晴れていたのに、急に曇ってきたね。
+  さっきまで 晴[は]れていたのに、急[きゅう]に 曇[くも]ってきたね。
+  Es war bis gerade eben noch sonnig, aber plötzlich ist es bewölkt geworden.
+
+  さっき言った通り、明日の会議は9時からです。
+  さっき 言[い]った 通[とお]り、明日[あした]の 会議[かいぎ]は9時[じ]からです。
+  Wie ich vorhin schon sagte, die Besprechung morgen beginnt um 9 Uhr.
+
+  さっきから猫の鳴き声が聞こえるんだけど、気のせいかな。
+  さっきから 猫[ねこ]の 鳴[な]き 声[ごえ]が 聞[き]こえるんだけど、気[き]のせいかな。
+  Ich höre seit einer Weile eine Katze miauen, oder bilde ich mir das nur ein?
+
+  さっきのニュースで言っていたけど、明日は雪が降るらしいよ。
+  さっきのニュースで 言[い]っていたけど、明日[あした]は 雪[ゆき]が 降[ふ]るらしいよ。
+  In den Nachrichten vorhin wurde gesagt, dass es morgen wahrscheinlich schneien wird.
+
+  さっきから頭が痛いんだ。薬を飲んだほうがいいかな。
+  さっきから 頭[あたま]が 痛[いた]いんだ。薬[くすり]を 飲[の]んだほうがいいかな。
+  Ich habe seit einer Weile Kopfschmerzen. Ob ich besser eine Tablette nehmen sollte?
+
+  さっきまで子供たちが騒いでいたのに、急に静かになったね。
+  さっきまで 子供[こども]たちが 騒[さわ]いでいたのに、急[きゅう]に 静[しず]かになったね。
+  Die Kinder haben bis gerade eben noch gelärmt, aber plötzlich ist es still geworden.
+
+  さっき見た映画、とても面白かったよ。
+  さっき 見[み]た 映画[えいが]、とても 面白[おもしろ]かったよ。
+  Der Film, den ich vorhin gesehen habe, war sehr interessant.
+
+  さっきからずっとこの問題を解こうとしているんだけど、難しすぎる。
+  さっきからずっとこの 問題[もんだい]を 解[と]こうとしているんだけど、難[むずか]しすぎる。
+  Ich versuche schon die ganze Zeit, dieses Problem zu lösen, aber es ist zu schwierig.
+
+  さっき友達から連絡があって、今日の予定が変更になったそうだ。
+  さっき 友達[ともだち]から 連絡[れんらく]があって、今日[きょう]の 予定[よてい]が 変更[へんこう]になったそうだ。
+  Ich habe gerade eine Nachricht von einem Freund bekommen, dass sich die heutigen Pläne geändert haben.
+
+  さっきまでここにあった本、どこに置いた？
+  さっきまでここにあった 本[ほん]、どこに 置[お]いた？
+  Wo hast du das Buch hingelegt, das bis gerade eben noch hier war?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>さっき kann auch mit 先刻 geschrieben werden, was aber seltener vorkommt. Es ist verwandt mit さき (先) und せん (先).</p>
+  <p>Es wird oft verwendet, um auf etwas zu verweisen, das erst kürzlich passiert ist oder erwähnt wurde.</p>
+  <div class="examples">
+    <div class="jp">さっきの 電話[でんわ]の 件[けん]だけど、もう 解決[かいけつ]したよ。</div>
+    <div class="de spoiler">Bezüglich des Anrufs von vorhin - die Sache hat sich schon erledigt.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auf einen längeren, aber immer noch relativ kurzen Zeitraum in der Vergangenheit zu verweisen.</p>
+  <div class="examples">
+    <div class="jp">さっきから 待[ま]っているんだけど、まだ 来[こ]ないね。</div>
+    <div class="de spoiler">Ich warte schon seit einer Weile, aber er ist immer noch nicht da.</div>
+  </div>

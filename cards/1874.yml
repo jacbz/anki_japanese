@@ -2,10 +2,10 @@ Rang: 1874
 Lemma: 要
 Lesung: よう
 Tonhöhen: \.
-Definition: kurz gesagt
+Definition: Hauptsache; Kernpunkt
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, präf
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,98 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   行きたくないわけではない。要はお金の問題だ。
-  行[い]きたくないわけではない。 要[よう]はお 金[かね]の 問題[もんだい]だ。
-  Das heißt nicht, dass ich nicht hingehen möchte. Kurz gesagt, es ist eine Frage des Geldes.
+  行[い]きたくないわけではない。要[よう]はお金[かね]の 問題[もんだい]だ。
+  Es ist nicht so, dass ich nicht gehen möchte. Der springende Punkt ist das Geld.
+
+  要は、効率的に仕事をすることです。
+  要[よう]は、効率的[こうりつてき]に 仕事[しごと]をすることです。
+  Das Wesentliche ist, effizient zu arbeiten.
+
+  彼の発表の要をまとめてください。
+  彼[かれ]の 発表[はっぴょう]の 要[よう]をまとめてください。
+  Fassen Sie bitte die Hauptpunkte seiner Präsentation zusammen.
+
+  要は、お互いを信頼することだ。
+  要[よう]は、お 互[たが]いを 信頼[しんらい]することだ。
+  Der Kernpunkt ist, einander zu vertrauen.
+
+  慌てる要はありません。落ち着いて考えましょう。
+  慌[あわ]てる 要[よう]はありません。落[お]ち 着[つ]いて 考[かんが]えましょう。
+  Es besteht kein Grund zur Panik. Lassen Sie uns in Ruhe nachdenken.
+
+  この状況では冷静さを保つ要があります。
+  この 状況[じょうきょう]では 冷静[れいせい]さを 保[たも]つ 要[よう]があります。
+  In dieser Situation ist es notwendig, Ruhe zu bewahren.
+
+  要注意！この道路は工事中です。
+  要注意[ようちゅうい]！この 道路[どうろ]は 工事中[こうじちゅう]です。
+  Achtung! Diese Straße ist eine Baustelle.
+
+  この提案は要検討だ。もう少し時間が必要だ。
+  この 提案[ていあん]は 要検討[ようけんとう]だ。もう 少[すこ]し 時間[じかん]が 必要[ひつよう]だ。
+  Dieser Vorschlag muss überprüft werden. Wir brauchen noch etwas Zeit.
+
+  彼女の説明は要を得ていて、とても分かりやすかった。
+  彼女[かのじょ]の 説明[せつめい]は 要[よう]を 得[え]ていて、とても 分[わ]かりやすかった。
+  Ihre Erklärung erfasste das Wesentliche und war sehr verständlich.
+
+  要するに、もっと努力が必要だということですね。
+  要[よう]するに、もっと 努力[どりょく]が 必要[ひつよう]だということですね。
+  Kurz gesagt, es bedeutet, dass mehr Anstrengung nötig ist, nicht wahr?
+
+  会議の要点を簡潔にまとめてください。
+  会議[かいぎ]の 要点[ようてん]を 簡潔[かんけつ]にまとめてください。
+  Fassen Sie bitte die Kernpunkte der Besprechung kurz zusammen.
+
+  この問題の要は何だと思いますか？
+  この 問題[もんだい]の 要[よう]は 何[なに]だと 思[おも]いますか？
+  Was halten Sie für den Kernpunkt dieses Problems?
+
+  要は実行あるのみだ。計画を立てるだけでは意味がない。
+  要[よう]は 実行[じっこう]あるのみだ。計画[けいかく]を 立[た]てるだけでは 意味[いみ]がない。
+  Es kommt nur auf die Umsetzung an. Nur Pläne zu machen hat keinen Sinn.
+
+  彼の話は簡にして要を得ている。
+  彼[かれ]の 話[はなし]は 簡[かん]にして 要[よう]を 得[え]ている。
+  Seine Rede ist kurz und prägnant.
+
+  要は、お客様の満足度を上げることです。
+  要[よう]は、お 客様[きゃくさま]の 満足度[まんぞくど]を 上[あ]げることです。
+  Das Wesentliche ist, die Kundenzufriedenheit zu erhöhen.
+
+  この文書の要を三つの文でまとめてください。
+  この 文書[ぶんしょ]の 要[よう]を 三[みっ]つの 文[ぶん]でまとめてください。
+  Fassen Sie bitte die Hauptpunkte dieses Dokuments in drei Sätzen zusammen.
+
+  要するところ、私たちは新しいアプローチが必要だ。
+  要[よう]するところ、私[わたし]たちは 新[あたら]しいアプローチが 必要[ひつよう]だ。
+  Kurz gesagt, wir brauchen einen neuen Ansatz.
+
+  彼女はいつも要点を押さえた発言をする。
+  彼女[かのじょ]はいつも 要点[ようてん]を 押[お]さえた 発言[はつげん]をする。
+  Sie macht immer Aussagen, die den Kern der Sache treffen.
+
+  この計画の要は、チームワークにある。
+  この 計画[けいかく]の 要[よう]は、チームワークにある。
+  Der Schlüssel zu diesem Plan liegt in der Teamarbeit.
+
+  この問題の要は何か、もう一度考え直す必要がある。
+  この 問題[もんだい]の 要[よう]は 何[なに]か、もう一度[いちど] 考[かんが]え 直[なお]す 必要[ひつよう]がある。
+  Wir müssen noch einmal darüber nachdenken, was der Kernpunkt dieses Problems ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>要 kann als Präfix verwendet werden, um auszudrücken, dass etwas erforderlich oder notwendig ist:</p>
+  <div class="examples">
+    <div class="jp">この 書類[しょるい]は 要注意[ようちゅうい]です。</div>
+    <div class="de spoiler">Dieses Dokument erfordert besondere Aufmerksamkeit.</div>
+  </div>
+  <p>Der Ausdruck 要を得る bedeutet, das Wesentliche oder die Hauptpunkte zu erfassen:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 発表[はっぴょう]は 簡潔[かんけつ]で 要[よう]を 得[え]ていた。</div>
+    <div class="de spoiler">Seine Präsentation war knapp und traf den Kern der Sache.</div>
+  </div>

@@ -2,8 +2,8 @@ Rang: 1827
 Lemma: 畑
 Lesung: はたけ
 Tonhöhen: .^^
-Definition: Feld (für Obst, Gemüse); Garten
-Alternativschreibweisen: ''
+Definition: Feld, Acker
+Alternativschreibweisen: 畠
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -14,12 +14,99 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今年の夏、畑にそばの種をまいた。
-  今年[ことし]の 夏[なつ]、 畑[はたけ]にそばの 種[たね]をまいた。
-  In diesem Sommer habe ich das Feld mit Buchweizen eingesät.
+  今年[ことし]の 夏[なつ]、畑[はたけ]にそばの 種[たね]をまいた。
+  Diesen Sommer habe ich Buchweizensamen auf dem Feld ausgesät.
+
+  父は毎日畑で働いています。
+  父[ちち]は 毎日[まいにち] 畑[はたけ]で 働[はたら]いています。
+  Mein Vater arbeitet jeden Tag auf dem Feld.
+
+  畑に出る前に、必ず帽子をかぶることを忘れないでください。
+  畑[はたけ]に 出[で]る 前[まえ]に、必[かなら]ず 帽子[ぼうし]をかぶることを 忘[わす]れないでください。
+  Vergessen Sie nicht, immer einen Hut aufzusetzen, bevor Sie aufs Feld gehen.
+
+  新しい畝を作るのに、一日かかった。
+  新[あたら]しい 畝[うね]を 作[つく]るのに、一日[いちにち]かかった。
+  Es hat einen ganzen Tag gedauert, neue Furchen im Feld zu ziehen.
+
+  害虫対策として、畑に天敵を放つことにした。
+  害虫対策[がいちゅうたいさく]として、畑[はたけ]に 天敵[てんてき]を 放[はな]つことにした。
+  Als Maßnahme gegen Schädlinge haben wir beschlossen, natürliche Feinde auf dem Feld freizusetzen.
+
+  今年の畑の作物は豊作だった。
+  今年[ことし]の 畑[はたけ]の 作物[さくもつ]は 豊作[ほうさく]だった。
+  Die Feldfrüchte waren dieses Jahr sehr ertragreich.
+
+  新しい土地を開いて、畑を作ることにした。
+  新[あたら]しい 土地[とち]を 開[ひら]いて、畑[はたけ]を 作[つく]ることにした。
+  Wir haben beschlossen, neues Land zu erschließen und ein Feld anzulegen.
+
+  干ばつのため、畑を灌漑する必要がある。
+  干[かん]ばつのため、畑[はたけ]を 灌漑[かんがい]する 必要[ひつよう]がある。
+  Wegen der Dürre ist es notwendig, das Feld zu bewässern.
+
+  地力を回復させるため、畑を一年休ませることにした。
+  地力[ちりょく]を 回復[かいふく]させるため、畑[はたけ]を 一年[いちねん] 休[やす]ませることにした。
+  Um die Bodenfruchtbarkeit wiederherzustellen, haben wir beschlossen, das Feld ein Jahr lang brachliegen zu lassen.
+
+  畑を耕すのに、新しいトラクターを購入した。
+  畑[はたけ]を 耕[たがや]すのに、新[あたら]しいトラクターを 購入[こうにゅう]した。
+  Wir haben einen neuen Traktor gekauft, um das Feld zu pflügen.
+
+  隣の空き地を借りて、コーヒーの畑を作る計画だ。
+  隣[となり]の 空[あ]き 地[ち]を 借[か]りて、コーヒーの 畑[はたけ]を 作[つく]る 計画[けいかく]だ。
+  Wir planen, das freie Grundstück nebenan zu mieten und eine Kaffeeplantage anzulegen.
+
+  裏庭を野菜畑に変えて、自給自足を目指している。
+  裏庭[うらにわ]を 野菜畑[やさいばたけ]に 変[か]えて、自給自足[じきゅうじそく]を 目指[めざ]している。
+  Wir haben den Hinterhof in einen Gemüsegarten verwandelt und streben nach Selbstversorgung.
+
+  彼女は出産直前まで畑仕事をしていたそうだ。
+  彼女[かのじょ]は 出産[しゅっさん] 直前[ちょくぜん]まで 畑仕事[はたけしごと]をしていたそうだ。
+  Man sagt, sie habe bis kurz vor der Geburt noch auf dem Feld gearbeitet.
+
+  霜で傷んだ野菜が、畑に白く光っていた。
+  霜[しも]で 傷[いた]んだ 野菜[やさい]が、畑[はたけ]に 白[しろ]く 光[ひか]っていた。
+  Das vom Frost beschädigte Gemüse leuchtete weiß auf dem Feld.
+
+  彼の専門は物理学で、経済は彼の畑ではない。
+  彼[かれ]の 専門[せんもん]は 物理学[ぶつりがく]で、経済[けいざい]は 彼[かれ]の 畑[はたけ]ではない。
+  Sein Fachgebiet ist Physik, Wirtschaft ist nicht sein Spezialgebiet.
+
+  その問題は私の畑が違うので、詳しくは分かりません。
+  その 問題[もんだい]は 私[わたし]の 畑[はたけ]が 違[ちが]うので、詳[くわ]しくは 分[わ]かりません。
+  Da dieses Problem nicht in mein Fachgebiet fällt, kenne ich mich damit nicht genau aus.
+
+  経済畑の人に相談したほうがいいでしょう。
+  経済畑[けいざいばたけ]の 人[ひと]に 相談[そうだん]したほうがいいでしょう。
+  Es wäre besser, einen Wirtschaftsexperten zu konsultieren.
+
+  畑違いの仕事だけど、頑張ってみるよ。
+  畑違[はたけちが]いの 仕事[しごと]だけど、頑張[がんば]ってみるよ。
+  Obwohl es fachfremd für mich ist, werde ich mein Bestes geben.
+
+  彼女は畑が大きくなってきて、動きが遅くなった。
+  彼女[かのじょ]は 畑[はたけ]が 大[おお]きくなってきて、動[うご]きが 遅[おそ]くなった。
+  Ihr Bauch ist größer geworden, und sie bewegt sich langsamer.
+
+  畑に蛤を探すようなものだ。
+  畑[はたけ]に 蛤[はまぐり]を 探[さが]すようなものだ。
+  Das ist, als würde man Venusmuscheln auf dem Feld suchen. (= Das ist völlig absurd.)
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">畑[はたけ]</span> bezieht sich auf ein trockenes Feld im Gegensatz zu einem Nassreisfeld (<span class="jp">田[た]</span>). Es kann auch im übertragenen Sinne für ein Fachgebiet oder Spezialgebiet verwendet werden.</p>
+  <p>In der Umgangssprache kann es auch scherzhaft für den Bauch einer schwangeren Frau verwendet werden.</p>
+  <div class="examples">
+    <div class="jp">経済[けいざい]は 私[わたし]の 畑[はたけ]ではありません。</div>
+    <div class="de spoiler">Wirtschaft ist nicht mein Fachgebiet.</div>
+  </div>
+  <p>Es gibt auch ein interessantes Sprichwort:</p>
+  <div class="examples">
+    <div class="jp">畑[はたけ]に 蛤[はまぐり]</div>
+    <div class="de spoiler">Venusmuscheln auf dem Feld [suchen] (etwas Unmögliches verlangen oder erwarten; etwas durcheinanderbringen)</div>
+  </div>

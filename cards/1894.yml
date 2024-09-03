@@ -2,7 +2,7 @@ Rang: 1894
 Lemma: 報道
 Lesung: ほうどう
 Tonhöhen: .^^^
-Definition: Bericht
+Definition: Berichterstattung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -15,7 +15,95 @@ Konjugation: ''
 Beispielsätze: |-
   彼の死は新聞でも報道された。
   彼[かれ]の 死[し]は 新聞[しんぶん]でも 報道[ほうどう]された。
-  Sein Tod wurde in den Zeitungen berichtet.
+  Sein Tod wurde auch in den Zeitungen berichtet.
+
+  テレビの報道番組で最新のニュースを見た。
+  テレビの 報道番組[ほうどうばんぐみ]で 最新[さいしん]のニュースを 見[み]た。
+  Ich sah die neuesten Nachrichten in einer Fernsehnachrichtensendung.
+
+  報道部長は記者会見で声明を発表した。
+  報道部長[ほうどうぶちょう]は 記者会見[きしゃかいけん]で 声明[せいめい]を 発表[はっぴょう]した。
+  Der Pressechef gab bei der Pressekonferenz eine Erklärung ab.
+
+  報道陣が事件現場に集まっていた。
+  報道陣[ほうどうじん]が 事件現場[じけんげんば]に 集[あつ]まっていた。
+  Die Pressevertreter hatten sich am Tatort versammelt.
+
+  この出来事には高い報道価値がある。
+  この 出来事[できごと]には 高[たか]い 報道価値[ほうどうかち]がある。
+  Dieses Ereignis hat einen hohen Nachrichtenwert.
+
+  政府の報道官が声明を発表した。
+  政府[せいふ]の 報道官[ほうどうかん]が 声明[せいめい]を 発表[はっぴょう]した。
+  Der Regierungssprecher gab eine Erklärung ab.
+
+  戦時中は厳しい報道管制が敷かれた。
+  戦時中[せんじちゅう]は 厳[きび]しい 報道管制[ほうどうかんせい]が 敷[し]かれた。
+  Während des Krieges wurde eine strenge Pressezensur verhängt.
+
+  新聞の報道記事を読んで情報を得た。
+  新聞[しんぶん]の 報道記事[ほうどうきじ]を 読[よ]んで 情報[じょうほう]を 得[え]た。
+  Ich erhielt Informationen durch das Lesen eines Zeitungsberichts.
+
+  様々な報道機関が事件について報じている。
+  さまざまな 報道機関[ほうどうきかん]が 事件[じけん]について 報[しら]じている。
+  Verschiedene Nachrichtenorgane berichten über den Vorfall.
+
+  報道記者たちが記者会見場に詰めかけた。
+  報道記者[ほうどうきしゃ]たちが 記者会見場[きしゃかいけんじょう]に 詰[つ]めかけた。
+  Die Nachrichtenreporter drängten sich in den Pressekonferenzraum.
+
+  災害現場に報道車が到着した。
+  災害現場[さいがいげんば]に 報道車[ほうどうしゃ]が 到着[とうちゃく]した。
+  Das Pressefahrzeug traf am Katastrophenort ein。
+
+  彼は有名な報道者として知られている。
+  彼[かれ]は 有名[ゆうめい]な 報道者[ほうどうしゃ]として 知[し]られている。
+  Er ist als bekannter Berichterstatter bekannt.
+
+  報道写真が事件の真相を伝えた。
+  報道写真[ほうどうしゃしん]が 事件[じけん]の 真相[しんそう]を 伝[つた]えた。
+  Die Pressefotos vermittelten die wahren Umstände des Vorfalls.
+
+  客観報道の重要性が強調されている。
+  客観報道[きゃっかんほうどう]の 重要性[じゅうようせい]が 強調[きょうちょう]されている。
+  Die Wichtigkeit der objektiven Berichterstattung wird betont.
+
+  報道の自由は民主主義の基盤だ。
+  報道[ほうどう]の 自由[じゆう]は 民主主義[みんしゅしゅぎ]の 基盤[きばん]だ。
+  Die Pressefreiheit ist die Grundlage der Demokratie.
+
+  BBCの報道によれば、首相が辞任するそうだ。
+  BBCの 報道[ほうどう]によれば、首相[しゅしょう]が 辞任[じにん]するそうだ。
+  Laut BBC-Bericht soll der Premierminister zurücktreten.
+
+  生の報道で事故の様子が伝えられた。
+  生[なま]の 報道[ほうどう]で 事故[じこ]の 様子[ようす]が 伝[つた]えられた。
+  Der Unfallhergang wurde in einem Live-Bericht übertragen.
+
+  ラジオの報道を聞いて最新情報を得た。
+  ラジオの 報道[ほうどう]を 聞[き]いて 最新情報[さいしんじょうほう]を 得[え]た。
+  Ich erhielt die neuesten Informationen durch das Hören der Radionachrichten.
+
+  選挙についての報道が連日続いている。
+  選挙[せんきょ]についての 報道[ほうどう]が 連日[れんじつ] 続[つづ]いている。
+  Die Berichterstattung über die Wahl setzt sich täglich fort.
+
+  戦争の報道は厳しい規制下にある。
+  戦争[せんそう]の 報道[ほうどう]は 厳[きび]しい 規制下[きせいか]にある。
+  Die Kriegsberichterstattung unterliegt strengen Beschränkungen.
+
+  新聞報道によれば、新しい法律が可決されたそうだ。
+  新聞報道[しんぶんほうどう]によれば、新[あたら]しい 法律[ほうりつ]が 可決[かけつ]されたそうだ。
+  Zeitungsberichten zufolge wurde ein neues Gesetz verabschiedet.
+
+  新聞は彼女のラトランド公との婚約を報道する。
+  新聞[しんぶん]は 彼女[かのじょ]のラトランド 公[こう]との 婚約[こんやく]を 報道[ほうどう]する。
+  Die Zeitungen melden ihre Verlobung mit dem Herzog von Rutland.
+
+  雅子の家に刑事がやって来たのは、事件が新聞に大きく報道された四日後のことだった。
+  雅子[まさこ]の 家[いえ]に 刑事[けいじ]がやって 来[き]たのは、事件[じけん]が 新聞[しんぶん]に 大[おお]きく 報道[ほうどう]された 四[よっ]日後[かご]のことだった。
+  Vier Tage, nachdem der Fall in der Presse Schlagzeilen gemacht hatte, erschien ein Kriminalbeamter bei Masako zu Hause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

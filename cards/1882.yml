@@ -2,20 +2,96 @@ Rang: 1882
 Lemma: 記す
 Lesung: しるす
 Tonhöhen: .\.
-Definition: notieren; markieren
+Definition: aufschreiben; notieren
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 記さない・記した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この資料にはジョンは1800年ごろ生まれたと記されている。
-  この 資料[しりょう]にはジョンは1800 年[ねん]ごろ 生[う]まれたと 記[しる]されている。
-  In diesem Dokument steht geschrieben, dass John um 1800 herum geboren wurde.
+  この 資料[しりょう]にはジョンは1800年[ねん]ごろ 生[う]まれたと 記[しる]されている。
+  In diesem Dokument ist vermerkt, dass John um das Jahr 1800 geboren wurde.
+
+  彼女は日記に毎日の出来事を記している。
+  彼女[かのじょ]は 日記[にっき]に 毎日[まいにち]の 出来事[できごと]を 記[しる]している。
+  Sie schreibt täglich die Ereignisse des Tages in ihr Tagebuch.
+
+  講演の内容を正確に記すのは難しかった。
+  講演[こうえん]の 内容[ないよう]を 正確[せいかく]に 記[しる]すのは 難[むずか]しかった。
+  Es war schwierig, den Inhalt des Vortrags genau aufzuzeichnen.
+
+  申込書に氏名と住所を記してください。
+  申込書[もうしこみしょ]に 氏名[しめい]と 住所[じゅうしょ]を 記[しる]してください。
+  Bitte tragen Sie Ihren Namen und Ihre Adresse in das Anmeldeformular ein.
+
+  彼は重要な日付をカレンダーに赤で記す習慣がある。
+  彼[かれ]は 重要[じゅうよう]な 日付[ひづけ]をカレンダーに 赤[あか]で 記[しる]す 習慣[しゅうかん]がある。
+  Er hat die Angewohnheit, wichtige Termine rot im Kalender zu markieren.
+
+  この本には著者の経験が詳しく記されています。
+  この 本[ほん]には 著者[ちょしゃ]の 経験[けいけん]が 詳[くわ]しく 記[しる]されています。
+  In diesem Buch sind die Erfahrungen des Autors detailliert beschrieben.
+
+  会議の議事録を正確に記すことは重要だ。
+  会議[かいぎ]の 議事録[ぎじろく]を 正確[せいかく]に 記[しる]すことは 重要[じゅうよう]だ。
+  Es ist wichtig, das Protokoll der Besprechung genau zu führen.
+
+  彼女は子供の成長を細かく記した育児日記をつけている。
+  彼女[かのじょ]は 子供[こども]の 成長[せいちょう]を 細[こま]かく 記[しる]した 育児[いくじ] 日記[にっき]をつけている。
+  Sie führt ein Erziehungstagebuch, in dem sie die Entwicklung ihres Kindes detailliert festhält.
+
+  歴史書には多くの重要な出来事が記されている。
+  歴史書[れきししょ]には 多[おお]くの 重要[じゅうよう]な 出来事[できごと]が 記[しる]されている。
+  In Geschichtsbüchern sind viele wichtige Ereignisse festgehalten.
+
+  彼は心に深く記された思い出を大切にしている。
+  彼[かれ]は 心[こころ]に 深[ふか]く 記[しる]された 思[おも]い 出[で]を 大切[たいせつ]にしている。
+  Er schätzt die Erinnerungen, die tief in seinem Herzen eingeprägt sind.
+
+  契約書には両者の義務が明確に記されていた。
+  契約書[けいやくしょ]には 両者[りょうしゃ]の 義務[ぎむ]が 明確[めいかく]に 記[しる]されていた。
+  Im Vertrag waren die Pflichten beider Parteien klar festgehalten.
+
+  彼女はメモ帳にアイデアを素早く記していった。
+  彼女[かのじょ]はメモ 帳[ちょう]にアイデアを 素早[すばや]く 記[しる]していった。
+  Sie notierte ihre Ideen schnell in ihrem Notizbuch.
+
+  古文書には当時の生活が詳細に記されている。
+  古文書[こもんじょ]には 当時[とうじ]の 生活[せいかつ]が 詳細[しょうさい]に 記[しる]されている。
+  In alten Dokumenten ist das damalige Leben detailliert beschrieben.
+
+  彼は旅の思い出を写真と共に日記に記した。
+  彼[かれ]は 旅[たび]の 思[おも]い 出[で]を 写真[しゃしん]と 共[とも]に 日記[にっき]に 記[しる]した。
+  Er hielt die Erinnerungen an seine Reise zusammen mit Fotos in seinem Tagebuch fest.
+
+  新聞には事件の詳細が記されていた。
+  新聞[しんぶん]には 事件[じけん]の 詳細[しょうさい]が 記[しる]されていた。
+  In der Zeitung waren die Details des Vorfalls aufgezeichnet.
+
+  彼女は友人からの手紙の内容を心に記した。
+  彼女[かのじょ]は 友人[ゆうじん]からの 手紙[てがみ]の 内容[ないよう]を 心[こころ]に 記[しる]した。
+  Sie prägte sich den Inhalt des Briefes von ihrem Freund ein.
+
+  研究者たちは実験結果を慎重に記録に記していった。
+  研究者[けんきゅうしゃ]たちは 実験[じっけん] 結果[けっか]を 慎重[しんちょう]に 記録[きろく]に 記[しる]していった。
+  Die Forscher notierten die Versuchsergebnisse sorgfältig in ihren Aufzeichnungen.
+
+  彼は重要な電話番号を手帳に記すようにしている。
+  彼[かれ]は 重要[じゅうよう]な 電話番号[でんわばんごう]を 手帳[てちょう]に 記[しる]すようにしている。
+  Er hat sich angewöhnt, wichtige Telefonnummern in seinem Notizbuch zu notieren.
+
+  この碑には戦争で亡くなった人々の名前が記されている。
+  この 碑[ひ]には 戦争[せんそう]で 亡[な]くなった 人々[ひとびと]の 名前[なまえ]が 記[しる]されている。
+  Auf diesem Denkmal sind die Namen der im Krieg Gefallenen verzeichnet.
+
+  彼女は講義内容を詳細にノートに記していった。
+  彼女[かのじょ]は 講義[こうぎ] 内容[ないよう]を 詳細[しょうさい]にノートに 記[しる]していった。
+  Sie schrieb den Inhalt der Vorlesung detailliert in ihrem Notizbuch auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

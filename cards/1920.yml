@@ -2,24 +2,119 @@ Rang: 1920
 Lemma: 慌てる
 Lesung: あわてる
 Tonhöhen: .^^^
-Definition: in Eile sein, in Aufregung geraten
-Alternativschreibweisen: ''
+Definition: sich überstürzen, in Panik geraten
+Alternativschreibweisen: 周章てる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 慌てない・慌てた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   慌ててやると間違えてしまいますよ。
   慌[あわ]ててやると 間違[まちが]えてしまいますよ。
-  Wenn du in Eile bist, machst du Fehler.
+  Wenn Sie es überstürzt machen, werden Sie Fehler machen.
+
+  慌てて答えると、正確な情報を伝えられないかもしれません。
+  慌[あわ]てて 答[こた]えると、正確[せいかく]な 情報[じょうほう]を 伝[つた]えられないかもしれません。
+  Wenn Sie hastig antworten, können Sie möglicherweise keine genauen Informationen vermitteln.
+
+  彼女は突然の質問に慌てて顔を真っ赤にした。
+  彼女[かのじょ]は 突然[とつぜん]の 質問[しつもん]に 慌[あわ]てて 顔[かお]を 真[ま]っ 赤[か]にした。
+  Sie wurde bei der plötzlichen Frage verlegen und lief puterrot an.
+
+  慌てずに落ち着いて考えれば、良い解決策が見つかるはずです。
+  慌[あわ]てずに 落[お]ち 着[つ]いて 考[かんが]えれば、良[よ]い 解決策[かいけつさく]が 見[み]つかるはずです。
+  Wenn Sie ruhig und besonnen nachdenken, ohne sich zu überstürzen, werden Sie sicher eine gute Lösung finden.
+
+  事故を目撃して、彼は慌てて警察に電話した。
+  事故[じこ]を 目撃[もくげき]して、彼[かれ]は 慌[あわ]てて 警察[けいさつ]に 電話[でんわ]した。
+  Als er den Unfall sah, rief er hastig die Polizei an.
+
+  慌てて逃げる泥棒を追いかけた。
+  慌[あわ]てて 逃[に]げる 泥棒[どろぼう]を 追[お]いかけた。
+  Ich verfolgte den Dieb, der Hals über Kopf floh.
+
+  試験中に慌てないよう、十分な準備をしておきましょう。
+  試験中[しけんちゅう]に 慌[あわ]てないよう、十分[じゅうぶん]な 準備[じゅんび]をしておきましょう。
+  Bereiten Sie sich gut vor, damit Sie während der Prüfung nicht in Panik geraten.
+
+  彼は慌てて席を立ち、部屋を出て行った。
+  彼[かれ]は 慌[あわ]てて 席[せき]を 立[た]ち、部屋[へや]を 出[で]て 行[い]った。
+  Er stand hastig auf und verließ den Raum.
+
+  慌てる乞食は貰いが少ない。
+  慌[あわ]てる 乞食[こじき]は 貰[もら]いが 少[すく]ない。
+  Der eilige Bettler erhält nur wenig.
+
+  彼女は慌てて化粧をし、急いで家を出た。
+  彼女[かのじょ]は 慌[あわ]てて 化粧[けしょう]をし、急[いそ]いで 家[いえ]を 出[で]た。
+  Sie schminkte sich hastig und verließ eilig das Haus.
+
+  慌てて食べると、消化に悪いですよ。
+  慌[あわ]てて 食[た]べると、消化[しょうか]に 悪[わる]いですよ。
+  Es ist schlecht für die Verdauung, wenn Sie hastig essen.
+
+  突然の地震に慌てて外に飛び出した。
+  突然[とつぜん]の 地震[じしん]に 慌[あわ]てて 外[そと]に 飛[と]び 出[だ]した。
+  Bei dem plötzlichen Erdbeben rannte ich überstürzt nach draußen.
+
+  慌てるな、落ち着いて状況を説明してくれ。
+  慌[あわ]てるな、落[お]ち 着[つ]いて 状況[じょうきょう]を 説明[せつめい]してくれ。
+  Reg dich nicht auf, erkläre mir ruhig die Situation.
+
+  彼女は慌てて謝罪の言葉を口にした。
+  彼女[かのじょ]は 慌[あわ]てて 謝罪[しゃざい]の 言葉[ことば]を 口[くち]にした。
+  Sie brachte hastig eine Entschuldigung hervor.
+
+  慌てて決断すると、後悔することになるかもしれません。
+  慌[あわ]てて 決断[けつだん]すると、後悔[こうかい]することになるかもしれません。
+  Wenn Sie eine überstürzte Entscheidung treffen, könnten Sie es später bereuen.
+
+  彼は慌てて財布を探し始めた。
+  彼[かれ]は 慌[あわ]てて 財布[さいふ]を 探[さが]し 始[はじ]めた。
+  Er begann hastig nach seiner Brieftasche zu suchen.
+
+  慌てて階段を駆け下りたら、転んでしまった。
+  慌[あわ]てて 階段[かいだん]を 駆[か]け 下[お]りたら、転[ころ]んでしまった。
+  Als ich hastig die Treppe hinunterlief, bin ich gestürzt.
+
+  慌てて返事をしたため、言葉を間違えてしまった。
+  慌[あわ]てて 返事[へんじ]をしたため、言葉[ことば]を 間違[まちが]えてしまった。
+  Weil ich hastig antwortete, habe ich mich versprochen.
+
+  慌てずゆっくり説明してください。
+  慌[あわ]てずゆっくり 説明[せつめい]してください。
+  Bitte erklären Sie es langsam und ohne Hast.
+
+  彼は慌てて服を着て、会社に向かった。
+  彼[かれ]は 慌[あわ]てて 服[ふく]を 着[き]て、会社[かいしゃ]に 向[む]かった。
+  Er zog sich hastig an und machte sich auf den Weg zur Arbeit.
+
+  慌てて書類にサインをしたら、間違った箇所に書いてしまった。
+  慌[あわ]てて 書類[しょるい]にサインをしたら、間違[まちが]った 箇所[かしょ]に 書[か]いてしまった。
+  Als ich hastig das Dokument unterschrieb, habe ich versehentlich an der falschen Stelle unterschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>慌てる kann verschiedene Nuancen von überstürztem oder panischem Verhalten ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">慌[あわ]てて 行動[こうどう]すると 失敗[しっぱい]しやすい。</div>
+    <div class="de spoiler">Wenn man überstürzt handelt, macht man leicht Fehler.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um Verlegenheit oder Verwirrung auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">突然[とつぜん]の 質問[しつもん]に 慌[あわ]てて 答[こた]えられなかった。</div>
+    <div class="de spoiler">Ich konnte auf die plötzliche Frage nicht sofort antworten, weil ich verwirrt war.</div>
+  </div>
+  <p>Der Ausdruck 慌てずに (awatezu ni) wird oft verwendet, um jemanden zu ermahnen, ruhig zu bleiben:</p>
+  <div class="examples">
+    <div class="jp">慌[あわ]てずに、落[お]ち 着[つ]いて 考[かんが]えましょう。</div>
+    <div class="de spoiler">Lass uns nicht in Panik geraten, sondern ruhig nachdenken.</div>
+  </div>

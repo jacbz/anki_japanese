@@ -2,20 +2,96 @@ Rang: 1855
 Lemma: 終える
 Lesung: おえる
 Tonhöhen: .^^
-Definition: beenden, enden
+Definition: beenden
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 終えない・終えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は高校を終えて大学に進んだ。
   彼[かれ]は 高校[こうこう]を 終[お]えて 大学[だいがく]に 進[すす]んだ。
-  Er beendete die High School und ging zur Universität.
+  Er schloss die Oberschule ab und ging zur Universität.
+
+  今日の仕事を終えたら、友達と食事に行く予定だ。
+  今日[きょう]の 仕事[しごと]を 終[お]えたら、友達[ともだち]と 食事[しょくじ]に 行[い]く 予定[よてい]だ。
+  Nachdem ich die heutige Arbeit beendet habe, plane ich mit Freunden essen zu gehen.
+
+  彼女は宿題を終えてからテレビを見始めた。
+  彼女[かのじょ]は 宿題[しゅくだい]を 終[お]えてからテレビを 見[み]始[はじ]めた。
+  Sie fing erst an fernzusehen, nachdem sie ihre Hausaufgaben beendet hatte.
+
+  会議を終えた後、重要な決定が下された。
+  会議[かいぎ]を 終[お]えた 後[あと]、重要[じゅうよう]な 決定[けってい]が 下[くだ]された。
+  Nach Beendigung der Besprechung wurde eine wichtige Entscheidung getroffen.
+
+  片づけを終えたら、休憩しましょう。
+  片付[かたづ]けを 終[お]えたら、休憩[きゅうけい]しましょう。
+  Lassen Sie uns eine Pause machen, wenn wir mit dem Aufräumen fertig sind.
+
+  彼は中学校を終えて、高校に進学した。
+  彼[かれ]は 中学校[ちゅうがっこう]を 終[お]えて、高校[こうこう]に 進学[しんがく]した。
+  Er schloss die Mittelschule ab und ging zur Oberschule.
+
+  長年の現役を終えて、彼は引退生活に入った。
+  長年[ながねん]の 現役[げんえき]を 終[お]えて、彼[かれ]は 引退[いんたい]生活[せいかつ]に 入[はい]った。
+  Nachdem er seine langjährige aktive Laufbahn beendet hatte, trat er in den Ruhestand ein.
+
+  一日の仕事を終えて、疲れた体で帰宅した。
+  一日[いちにち]の 仕事[しごと]を 終[お]えて、疲[つか]れた 体[からだ]で 帰宅[きたく]した。
+  Nach Beendigung der Tagesarbeit kehrte ich mit einem müden Körper nach Hause zurück.
+
+  草刈りを終える頃には、汗でびっしょりだった。
+  草刈[くさか]りを 終[お]える 頃[ころ]には、汗[あせ]でびっしょりだった。
+  Als ich mit dem Grasschneiden fertig war, war ich schweißgebadet.
+
+  彼女は手紙を書き終えると、封筒に入れた。
+  彼女[かのじょ]は 手紙[てがみ]を 書[か]き 終[お]えると、封筒[ふうとう]に 入[い]れた。
+  Nachdem sie den Brief fertig geschrieben hatte, steckte sie ihn in einen Umschlag.
+
+  本を読み終えた後、深い感動が残った。
+  本[ほん]を 読[よ]み 終[お]えた 後[あと]、深[ふか]い 感動[かんどう]が 残[のこ]った。
+  Nachdem ich das Buch zu Ende gelesen hatte, blieb ein tiefes Gefühl zurück.
+
+  時計が12時の鐘を打ち終えると、新年が始まった。
+  時計[とけい]が12時[じ]の 鐘[かね]を 打[う]ち 終[お]えると、新年[しんねん]が 始[はじ]まった。
+  Als die Uhr aufgehört hatte, zwölf zu schlagen, begann das neue Jahr.
+
+  食事を食べ終えた後、皆でお茶を楽しんだ。
+  食事[しょくじ]を 食[た]べ 終[お]えた 後[あと]、皆[みな]でお 茶[ちゃ]を 楽[たの]しんだ。
+  Nachdem wir das Essen beendet hatten, genossen wir alle zusammen einen Tee.
+
+  彼は大学を終えて、社会人としての第一歩を踏み出した。
+  彼[かれ]は 大学[だいがく]を 終[お]えて、社会人[しゃかいじん]としての 第一歩[だいいっぽ]を 踏[ふ]み 出[だ]した。
+  Nachdem er die Universität abgeschlossen hatte, machte er seinen ersten Schritt als Berufstätiger.
+
+  プロジェクトを無事終えて、チーム全員でお祝いをした。
+  プロジェクトを 無事[ぶじ] 終[お]えて、チーム 全員[ぜんいん]でお 祝[いわ]いをした。
+  Nachdem wir das Projekt erfolgreich abgeschlossen hatten, feierten wir alle im Team.
+
+  彼女は演奏を終えると、大きな拍手を受けた。
+  彼女[かのじょ]は 演奏[えんそう]を 終[お]えると、大[おお]きな 拍手[はくしゅ]を 受[う]けた。
+  Als sie ihre Aufführung beendet hatte, erhielt sie großen Applaus.
+
+  レポートを書き終えたら、先生に提出してください。
+  レポートを 書[か]き 終[お]えたら、先生[せんせい]に 提出[ていしゅつ]してください。
+  Bitte reichen Sie den Bericht beim Lehrer ein, sobald Sie ihn fertig geschrieben haben.
+
+  長い会議を終えて、やっとリラックスできた。
+  長[なが]い 会議[かいぎ]を 終[お]えて、やっとリラックスできた。
+  Nachdem die lange Besprechung beendet war, konnte ich mich endlich entspannen.
+
+  彼は長年の研究を終えて、画期的な発見をした。
+  彼[かれ]は 長年[ながねん]の 研究[けんきゅう]を 終[お]えて、画期的[かっきてき]な 発見[はっけん]をした。
+  Nach Abschluss seiner langjährigen Forschung machte er eine bahnbrechende Entdeckung.
+
+  試験を終えたら、みんなで海に行こう。
+  試験[しけん]を 終[お]えたら、みんなで 海[うみ]に 行[い]こう。
+  Lasst uns alle zusammen ans Meer fahren, wenn wir die Prüfungen beendet haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,20 +2,96 @@ Rang: 1781
 Lemma: 高める
 Lesung: たかめる
 Tonhöhen: .^\.
-Definition: erhöhen
+Definition: erhöhen, steigern
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 高めない・高めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この国における女性の地位を高める必要がある。
   この 国[くに]における 女性[じょせい]の 地位[ちい]を 高[たか]める 必要[ひつよう]がある。
-  Wir müssen den Status von Frauen in diesem Land erhöhen.
+  Es ist notwendig, die Stellung der Frauen in diesem Land zu verbessern.
+
+  ハードルを高めることで、より挑戦的な目標を設定した。
+  ハードルを 高[たか]めることで、より 挑戦的[ちょうせんてき]な 目標[もくひょう]を 設定[せってい]した。
+  Durch das Erhöhen der Hürden haben wir uns ein herausfordernderes Ziel gesetzt.
+
+  室温を少し高めて、快適な環境を作りましょう。
+  室温[しつおん]を 少[すこ]し 高[たか]めて、快適[かいてき]な 環境[かんきょう]を 作[つく]りましょう。
+  Lass uns die Raumtemperatur etwas erhöhen, um eine angenehme Umgebung zu schaffen.
+
+  声を高めて、もっとはっきりと話してください。
+  声[こえ]を 高[たか]めて、もっとはっきりと 話[はな]してください。
+  Bitte erheben Sie Ihre Stimme und sprechen Sie deutlicher.
+
+  運動不足は血圧を高める原因の一つです。
+  運動不足[うんどうぶそく]は 血圧[けつあつ]を 高[たか]める 原因[げんいん]の 一[ひと]つです。
+  Bewegungsmangel ist einer der Gründe, die den Blutdruck erhöhen.
+
+  彼の功績により、会社での地位が高められた。
+  彼[かれ]の 功績[こうせき]により、会社[かいしゃ]での 地位[ちい]が 高[たか]められた。
+  Aufgrund seiner Verdienste wurde seine Position im Unternehmen erhöht.
+
+  品質を高めることで、顧客満足度も向上しました。
+  品質[ひんしつ]を 高[たか]めることで、顧客満足度[こきゃくまんぞくど]も 向上[こうじょう]しました。
+  Durch die Verbesserung der Qualität hat sich auch die Kundenzufriedenheit erhöht.
+
+  新しい防犯システムを導入し、建物の安全性を高めた。
+  新[あたら]しい 防犯[ぼうはん]システムを 導入[どうにゅう]し、建物[たてもの]の 安全性[あんぜんせい]を 高[たか]めた。
+  Wir haben die Sicherheit des Gebäudes erhöht, indem wir ein neues Sicherheitssystem eingeführt haben.
+
+  需要の増加に伴い、商品の値段を高める必要があった。
+  需要[じゅよう]の 増加[ぞうか]に 伴[ともな]い、商品[しょうひん]の 値段[ねだん]を 高[たか]める 必要[ひつよう]があった。
+  Mit der steigenden Nachfrage war es nötig, die Preise der Waren zu erhöhen.
+
+  環境問題への関心を高めるためのキャンペーンを行った。
+  環境問題[かんきょうもんだい]への 関心[かんしん]を 高[たか]めるためのキャンペーンを 行[おこな]った。
+  Wir haben eine Kampagne durchgeführt, um das Bewusstsein für Umweltprobleme zu steigern.
+
+  試験前の緊張感を高めすぎないように気をつけてください。
+  試験前[しけんまえ]の 緊張感[きんちょうかん]を 高[たか]めすぎないように 気[き]をつけてください。
+  Achten Sie darauf, die Anspannung vor der Prüfung nicht zu sehr zu steigern.
+
+  新しい練習方法を取り入れて、チームの技術を高めた。
+  新[あたら]しい 練習方法[れんしゅうほうほう]を 取[と]り 入[い]れて、チームの 技術[ぎじゅつ]を 高[たか]めた。
+  Wir haben die Technik des Teams verbessert, indem wir neue Trainingsmethoden eingeführt haben.
+
+  会社のイメージを高めるために、社会貢献活動に力を入れている。
+  会社[かいしゃ]のイメージを 高[たか]めるために、社会貢献活動[しゃかいこうけんかつどう]に 力[ちから]を 入[い]れている。
+  Um das Image des Unternehmens zu verbessern, legen wir großen Wert auf soziales Engagement.
+
+  同様に、彼はオリジナルの一点物も、コピーの需要を高めるために、鍵をかけて保管した。
+  同様[どうよう]に、彼[かれ]はオリジナルの 一点物[いってんもの]も、コピーの 需要[じゅよう]を 高[たか]めるために、鍵[かぎ]をかけて 保管[ほかん]した。
+  Ebenso hielt er die Originale unter Verschluss, um die Nachfrage nach Kopien zu steigern.
+
+  測定の精度を高めるために、新しい機器を導入しました。
+  測定[そくてい]の 精度[せいど]を 高[たか]めるために、新[あたら]しい 機器[きき]を 導入[どうにゅう]しました。
+  Um die Genauigkeit der Messungen zu verbessern, haben wir neue Geräte eingeführt.
+
+  練習の中でコンビネーションを高めていかなければならない。
+  練習[れんしゅう]の 中[なか]でコンビネーションを 高[たか]めていかなければならない。
+  Wir müssen das Zusammenspiel im Training weiter verbessern.
+
+  この製品の競争力を高めるために、機能を追加しました。
+  この 製品[せいひん]の 競争力[きょうそうりょく]を 高[たか]めるために、機能[きのう]を 追加[ついか]しました。
+  Um die Wettbewerbsfähigkeit dieses Produkts zu steigern, haben wir zusätzliche Funktionen hinzugefügt.
+
+  効率を高めるため、新しい作業手順を導入した。
+  効率[こうりつ]を 高[たか]めるため、新[あたら]しい 作業手順[さぎょうてじゅん]を 導入[どうにゅう]した。
+  Um die Effizienz zu steigern, haben wir neue Arbeitsabläufe eingeführt.
+
+  自信を高めるために、小さな成功を積み重ねることが大切だ。
+  自信[じしん]を 高[たか]めるために、小[ちい]さな 成功[せいこう]を 積[つ]み 重[かさ]ねることが 大切[たいせつ]だ。
+  Es ist wichtig, kleine Erfolge zu sammeln, um das Selbstvertrauen zu stärken.
+
+  このプログラムは従業員のスキルを高めることを目的としています。
+  このプログラムは 従業員[じゅうぎょういん]のスキルを 高[たか]めることを 目的[もくてき]としています。
+  Dieses Programm zielt darauf ab, die Fähigkeiten der Mitarbeiter zu verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

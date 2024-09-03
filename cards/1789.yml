@@ -2,7 +2,7 @@ Rang: 1789
 Lemma: 大抵
 Lesung: たいてい
 Tonhöhen: .^^^
-Definition: gewöhnlich
+Definition: meistens, in der Regel
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -14,12 +14,113 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   朝ごはんはたいてい七時に食べる。
-  朝[あさ]ごはんはたいてい七 時[じ]に 食[た]べる。
-  Ich esse gewöhnlich um sieben Uhr Frühstück.
+  朝[あさ]ごはんはたいてい7時[じ]に 食[た]べる。
+  Ich esse das Frühstück meistens um 7 Uhr.
+
+  大抵の場合、彼は約束の時間に遅れる。
+  大抵[たいてい]の 場合[ばあい]、彼[かれ]は 約束[やくそく]の 時間[じかん]に 遅[おく]れる。
+  In den meisten Fällen kommt er zu spät zu Verabredungen.
+
+  彼女は大抵十時に寝る。
+  彼女[かのじょ]はたいてい10時[じ]に 寝[ね]る。
+  Sie geht meistens um 10 Uhr ins Bett.
+
+  大抵の人は朝コーヒーを飲む。
+  大抵[たいてい]の 人[ひと]は 朝[あさ]コーヒーを 飲[の]む。
+  Die meisten Leute trinken morgens Kaffee.
+
+  この店では大抵のものは揃っています。
+  この 店[みせ]では 大抵[たいてい]のものは 揃[そろ]っています。
+  In diesem Laden ist fast alles erhältlich.
+
+  大抵の学生は試験の前に緊張する。
+  大抵[たいてい]の 学生[がくせい]は 試験[しけん]の 前[まえ]に 緊張[きんちょう]する。
+  Die meisten Studenten sind vor Prüfungen nervös.
+
+  彼は大抵の質問に答えられる。
+  彼[かれ]は 大抵[たいてい]の 質問[しつもん]に 答[こた]えられる。
+  Er kann die meisten Fragen beantworten.
+
+  大抵のことは自分でできる。
+  大抵[たいてい]のことは 自分[じぶん]でできる。
+  Das meiste kann ich selbst machen.
+
+  大抵の場合、天気予報は当たる。
+  大抵[たいてい]の 場合[ばあい]、天気予報[てんきよほう]は 当[あ]たる。
+  In den meisten Fällen stimmt die Wettervorhersage.
+
+  彼女は大抵覚えている。
+  彼女[かのじょ]はたいてい 覚[おぼ]えている。
+  Sie erinnert sich meistens daran.
+
+  大抵の人は自分を普通だと思わない。
+  大抵[たいてい]の 人[ひと]は 自分[じぶん]を 普通[ふつう]だと 思[おも]わない。
+  Die meisten Menschen halten sich nicht für gewöhnlich.
+
+  この仕事は大抵の人にはできない。
+  この 仕事[しごと]は 大抵[たいてい]の 人[ひと]にはできない。
+  Diese Arbeit kann nicht von den meisten Menschen erledigt werden.
+
+  彼は大抵断る。
+  彼[かれ]はたいてい 断[ことわ]る。
+  Er lehnt meistens ab.
+
+  大抵の練習では勝てない。
+  大抵[たいてい]の 練習[れんしゅう]では 勝[か]てない。
+  Mit dem üblichen Training kann man nicht gewinnen.
+
+  大抵間に合うだろう。
+  たいてい 間[ま]に 合[あ]うだろう。
+  Es wird wahrscheinlich rechtzeitig fertig sein.
+
+  彼女は大抵にして欲しい。
+  彼女[かのじょ]は 大抵[たいてい]にして 欲[ほ]しい。
+  Sie möchte, dass er sich mäßigt.
+
+  大抵の場合、問題は解決できる。
+  大抵[たいてい]の 場合[ばあい]、問題[もんだい]は 解決[かいけつ]できる。
+  In den meisten Fällen können Probleme gelöst werden.
+
+  彼は大抵の本を読んだことがある。
+  彼[かれ]は 大抵[たいてい]の 本[ほん]を 読[よ]んだことがある。
+  Er hat die meisten Bücher schon einmal gelesen.
+
+  大抵の人は幸せになりたいと思っている。
+  大抵[たいてい]の 人[ひと]は 幸[しあわ]せになりたいと 思[おも]っている。
+  Die meisten Menschen wollen glücklich werden.
+
+  この映画は大抵の人に好評だ。
+  この 映画[えいが]は 大抵[たいてい]の 人[ひと]に 好評[こうひょう]だ。
+  Dieser Film ist bei den meisten Leuten beliebt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">大抵</span> kann auch mit は verwendet werden oder in attributiver Form mit な oder の.</p>
+  <div class="examples">
+    <div class="jp">大抵[たいてい]は10時[じ]に 寝[ね]る。</div>
+    <div class="de spoiler">Ich gehe meistens um 10 Uhr ins Bett.</div>
+  </div>
+  <p>In der Form <span class="jp">大抵[たいてい]な</span> oder <span class="jp">大抵[たいてい]の</span> bedeutet es "die meisten" oder "der Großteil".</p>
+  <div class="examples">
+    <div class="jp">大抵[たいてい]の 人[ひと]は 早[はや]く 帰[かえ]りたがる。</div>
+    <div class="de spoiler">Die meisten Leute wollen früh nach Hause gehen.</div>
+  </div>
+  <p>Mit einer Verneinung kann es auch "außergewöhnlich" oder "ungewöhnlich" bedeuten.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 演技[えんぎ]は 大抵[たいてい]ではない。</div>
+    <div class="de spoiler">Seine schauspielerische Leistung ist außergewöhnlich.</div>
+  </div>
+  <p>Es kann auch "normalerweise" oder "eigentlich" bedeuten.</p>
+  <div class="examples">
+    <div class="jp">大抵[たいてい]なら 間[ま]に 合[あ]うはずだ。</div>
+    <div class="de spoiler">Normalerweise sollte es rechtzeitig fertig sein.</div>
+  </div>
+  <p>In der Form <span class="jp">大抵[たいてい]にする</span> bedeutet es "sich mäßigen" oder "aufhören mit etwas".</p>
+  <div class="examples">
+    <div class="jp">もう 大抵[たいてい]にしなさい。</div>
+    <div class="de spoiler">Hör jetzt auf damit.</div>
+  </div>

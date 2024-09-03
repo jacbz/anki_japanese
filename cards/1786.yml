@@ -2,24 +2,119 @@ Rang: 1786
 Lemma: きつい
 Lesung: ''
 Tonhöhen: (.)^^
-Definition: eng; hart, streng; stark
+Definition: schwierig, hart; eng
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: きつくない・きつかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このシャツは少しきつい。
-  このシャツは 少[すこ]しきつい。
-  Dieses Hemd ist ein wenig eng.
+  この シャツ は 少[すこ]し きつい。
+  Dieses Hemd ist etwas zu eng.
+
+  あのバーのお酒はきついから気をつけて。
+  あの バー の お酒[さけ]は きついから 気[き]をつけて。
+  Pass auf, der Alkohol in dieser Bar ist ziemlich stark.
+
+  今日の仕事はとてもきつかった。
+  今日[きょう]の 仕事[しごと]は とても きつかった。
+  Die Arbeit heute war sehr anstrengend.
+
+  この山道はきついので、休憩を取りながら登ろう。
+  この 山道[やまみち]は きついので、休憩[きゅうけい]を 取[と]りながら 登[のぼ]ろう。
+  Dieser Bergpfad ist steil, lass uns Pausen einlegen, während wir aufsteigen.
+
+  彼の言葉遣いがきつくて、傷ついた人もいるよ。
+  彼[かれ]の 言葉遣[ことばづか]いが きつくて、傷[きず]ついた 人[ひと]も いるよ。
+  Seine Wortwahl war so barsch, dass einige Leute verletzt wurden.
+
+  夏の日差しがきつくて、外にいるのが辛い。
+  夏[なつ]の 日差[ひざ]しが きつくて、外[そと]にいるのが 辛[つら]い。
+  Die Sommersonne ist so intensiv, dass es unangenehm ist, draußen zu sein.
+
+  先生の眼差しがきつくて、生徒たちは緊張していた。
+  先生[せんせい]の 眼差[まなざ]しが きつくて、生徒[せいと]たちは 緊張[きんちょう]していた。
+  Der strenge Blick des Lehrers machte die Schüler nervös.
+
+  この香水の匂いがきつすぎて、頭が痛くなる。
+  この 香水[こうすい]の 匂[にお]いが きつすぎて、頭[あたま]が 痛[いた]くなる。
+  Der Geruch dieses Parfüms ist so stark, dass ich Kopfschmerzen bekomme.
+
+  この坂道はきついけど、頑張って登ろう。
+  この 坂道[さかみち]は きついけど、頑張[がんば]って 登[のぼ]ろう。
+  Dieser Hügel ist steil, aber lass uns unser Bestes geben, ihn zu erklimmen.
+
+  今年の冬はきつい寒さが続いている。
+  今年[ことし]の 冬[ふゆ]は きつい 寒[さむ]さが 続[つづ]いている。
+  Dieser Winter hält mit strenger Kälte an.
+
+  彼女の批判はきつすぎて、みんな黙ってしまった。
+  彼女[かのじょ]の 批判[ひはん]は きつすぎて、みんな 黙[だま]ってしまった。
+  Ihre Kritik war so scharf, dass alle verstummten.
+
+  このスケジュールはきつすぎるから、少し調整しよう。
+  この スケジュール は きつすぎるから、少[すこ]し 調整[ちょうせい]しよう。
+  Dieser Zeitplan ist zu straff, lass uns ihn ein wenig anpassen.
+
+  この靴はきつくて、長時間歩けない。
+  この 靴[くつ]は きつくて、長時間[ちょうじかん] 歩[ある]けない。
+  Diese Schuhe sind zu eng, ich kann nicht lange darin laufen.
+
+  彼は唇をきつく結んで、怒りを抑えていた。
+  彼[かれ]は 唇[くちびる]を きつく 結[むす]んで、怒[いか]りを 抑[おさ]えていた。
+  Er presste die Lippen fest zusammen, um seinen Ärger zu unterdrücken.
+
+  この髪型はきつく結びすぎて、頭が痛い。
+  この 髪型[かみがた]は きつく 結[むす]びすぎて、頭[あたま]が 痛[いた]い。
+  Diese Frisur ist zu fest gebunden, mein Kopf tut weh.
+
+  船酔いがきつくて、甲板に出られない。
+  船酔[ふなよ]いが きつくて、甲板[かんぱん]に 出[で]られない。
+  Die Seekrankheit ist so schlimm, dass ich nicht aufs Deck gehen kann.
+
+  彼女は意志が強くてきつい性格だ。
+  彼女[かのじょ]は 意志[いし]が 強[つよ]くて きつい 性格[せいかく]だ。
+  Sie hat einen starken Willen und einen strengen Charakter.
+
+  このタバコはきつすぎて、初心者には向かないよ。
+  この タバコ は きつすぎて、初心者[しょしんしゃ]には 向[む]かないよ。
+  Diese Zigaretten sind zu stark für Anfänger.
+
+  彼の上司はきつい人で、よく叱られる。
+  彼[かれ]の 上司[じょうし]は きつい 人[ひと]で、よく 叱[しか]られる。
+  Sein Chef ist sehr streng und tadelt ihn oft.
+
+  この川の流れはきつくて、泳ぐのは危険だ。
+  この 川[かわ]の 流[なが]れは きつくて、泳[およ]ぐのは 危険[きけん]だ。
+  Die Strömung dieses Flusses ist so stark, dass es gefährlich ist zu schwimmen.
+
+  この訓練はきついけど、きっと役に立つよ。
+  この 訓練[くんれん]は きついけど、きっと 役[やく]に 立[た]つよ。
+  Dieses Training ist hart, aber es wird sich sicher auszahlen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>きつい wird verwendet, um etwas zu beschreiben, das über das gewöhnliche Maß hinausgeht und eher negativ beeinträchtigt. Es kann sich auf verschiedene Aspekte beziehen:</p>
+  <ul>
+    <li>Alkohol oder Tabak: stark, schwer</li>
+    <li>Arbeit oder Aufgaben: hart, schwer, anstrengend</li>
+    <li>Wege oder Gelände: beschwerlich, steil</li>
+    <li>Sprache oder Worte: barsch, scharf</li>
+    <li>Licht oder Wetter: intensiv, heftig</li>
+    <li>Haltung oder Blick: streng, grimmig</li>
+    <li>Kleidung oder Schuhe: zu eng, zu klein</li>
+  </ul>
+  <p>Es kann auch verwendet werden, um etwas als schwer erträglich oder schlimm zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 批判[ひはん]は きつすぎて、みんな 黙[だま]ってしまった。</div>
+    <div class="de spoiler">Seine Kritik war so scharf, dass alle verstummten.</div>
+  </div>

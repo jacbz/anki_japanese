@@ -2,24 +2,117 @@ Rang: 1837
 Lemma: 包む
 Lesung: つつむ
 Tonhöhen: .\.
-Definition: einwickeln
-Alternativschreibweisen: ''
+Definition: einwickeln, umhüllen
+Alternativschreibweisen: 裹む
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 包まない・包んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   プレゼント用に包んでもらえますか。
   プレゼント 用[よう]に 包[つつ]んでもらえますか。
-  Können Sie sie als Geschenk einwickeln?
+  Können Sie es bitte als Geschenk einpacken?
+
+  紙に包んで持ち帰りました。
+  紙[かみ]に 包[つつ]んで 持[も]ち 帰[かえ]りました。
+  Ich habe es in Papier eingewickelt und mitgenommen.
+
+  風呂敷に弁当を包んで学校へ行きます。
+  風呂敷[ふろしき]に 弁当[べんとう]を 包[つつ]んで 学校[がっこう]へ 行[い]きます。
+  Ich wickle mein Bento in ein Furoshiki ein und gehe zur Schule.
+
+  贈り物を別々に包むように指示されました。
+  贈[おく]り 物[もの]を 別々[べつべつ]に 包[つつ]むように 指示[しじ]されました。
+  Ich wurde angewiesen, die Geschenke einzeln zu verpacken.
+
+  ギフト用に丁寧に包んでください。
+  ギフト 用[よう]に 丁寧[ていねい]に 包[つつ]んでください。
+  Bitte packen Sie es sorgfältig als Geschenk ein.
+
+  霧に包まれた山々が幻想的でした。
+  霧[きり]に 包[つつ]まれた 山々[やまやま]が 幻想的[げんそうてき]でした。
+  Die in Nebel gehüllten Berge waren fantastisch.
+
+  火炎に包まれた建物から避難しました。
+  火炎[かえん]に 包[つつ]まれた 建物[たてもの]から 避難[ひなん]しました。
+  Wir evakuierten aus dem von Flammen umhüllten Gebäude.
+
+  街全体が光輝に包まれ、美しい夜景でした。
+  街[まち] 全体[ぜんたい]が 光輝[こうき]に 包[つつ]まれ、美[うつく]しい 夜景[やけい]でした。
+  Die ganze Stadt war in Glanz getaucht und bot eine wunderschöne Nachtansicht.
+
+  森の中は静寂に包まれていた。
+  森[もり]の 中[なか]は 静寂[せいじゃく]に 包[つつ]まれていた。
+  Der Wald war von Stille umgeben.
+
+  その事件の真相は謎に包まれたままだ。
+  その 事件[じけん]の 真相[しんそう]は 謎[なぞ]に 包[つつ]まれたままだ。
+  Die wahren Umstände des Vorfalls bleiben weiterhin im Dunkeln.
+
+  伝説に包まれた古城を訪れました。
+  伝説[でんせつ]に 包[つつ]まれた 古城[こじょう]を 訪[おとず]れました。
+  Wir besuchten eine sagenumwobene alte Burg.
+
+  彼の行動は疑惑に包まれている。
+  彼[かれ]の 行動[こうどう]は 疑惑[ぎわく]に 包[つつ]まれている。
+  Sein Verhalten ist von Verdächtigungen umgeben.
+
+  靄に包まれた港に船が静かに停泊していた。
+  靄[もや]に 包[つつ]まれた 港[みなと]に 船[ふね]が 静[しず]かに 停泊[ていはく]していた。
+  Im nebelverhüllten Hafen lag still ein Schiff vor Anker.
+
+  夜の闇が街を包み、静けさが広がっていた。
+  夜[よる]の 闇[やみ]が 街[まち]を 包[つつ]み、静[しず]けさが 広[ひろ]がっていた。
+  Die Dunkelheit der Nacht hüllte die Stadt ein, und Stille breitete sich aus.
+
+  祝賀ムードに包まれた会場は笑顔で溢れていた。
+  祝賀[しゅくが]ムードに 包[つつ]まれた 会場[かいじょう]は 笑顔[えがお]で 溢[あふ]れていた。
+  Der von Feststimmung erfüllte Veranstaltungsort war voller lächelnder Gesichter.
+
+  真実を包み隠さず話してください。
+  真実[しんじつ]を 包[つつ]み 隠[かく]さず 話[はな]してください。
+  Bitte erzählen Sie die Wahrheit, ohne etwas zu verbergen.
+
+  デリケートな話題を柔らかく包んで伝えました。
+  デリケートな 話題[わだい]を 柔[やわ]らかく 包[つつ]んで 伝[つた]えました。
+  Ich überbrachte das heikle Thema auf eine sanfte Art und Weise.
+
+  彼女は悲しみを笑顔で包んでいた。
+  彼女[かのじょ]は 悲[かな]しみを 笑顔[えがお]で 包[つつ]んでいた。
+  Sie verbarg ihre Traurigkeit hinter einem Lächeln.
+
+  秘密を心の中に包んでおきます。
+  秘密[ひみつ]を 心[こころ]の 中[なか]に 包[つつ]んでおきます。
+  Ich werde das Geheimnis in meinem Herzen bewahren.
+
+  残った料理を包んで冷蔵庫に入れました。
+  残[のこ]った 料理[りょうり]を 包[つつ]んで 冷蔵庫[れいぞうこ]に 入[い]れました。
+  Ich habe die übrig gebliebenen Speisen eingewickelt und in den Kühlschrank gelegt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 包む (つつむ) hat verschiedene Bedeutungen und Anwendungen:</p>
+  <p>1. Etwas einwickeln oder verpacken:</p>
+  <div class="examples">
+    <div class="jp">贈[おく]り 物[もの]を 丁寧[ていねい]に 包[つつ]みます。</div>
+    <div class="de spoiler">Ich wickle das Geschenk sorgfältig ein.</div>
+  </div>
+  <p>2. Etwas umhüllen oder umgeben:</p>
+  <div class="examples">
+    <div class="jp">山[やま]が 霧[きり]に 包[つつ]まれていました。</div>
+    <div class="de spoiler">Die Berge waren von Nebel umhüllt.</div>
+  </div>
+  <p>3. Im übertragenen Sinne: etwas verbergen oder verhüllen:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 感情[かんじょう]を 言葉[ことば]で 包[つつ]んだ。</div>
+    <div class="de spoiler">Er verhüllte seine Gefühle mit Worten.</div>
+  </div>
+  <p>In der Umgangssprache wird 包む oft durch くるむ ersetzt, besonders wenn es um das Einwickeln geht.</p>

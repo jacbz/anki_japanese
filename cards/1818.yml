@@ -2,10 +2,10 @@ Rang: 1818
 Lemma: 一気
 Lesung: いっき
 Tonhöhen: \..
-Definition: auf einmal, in einem Zug
+Definition: in einem Zug; auf einmal
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n
+Wortart: n, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,88 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は水を一気に飲み干した。
   彼女[かのじょ]は 水[みず]を 一気[いっき]に 飲[の]み 干[ほ]した。
-  Sie trank ein Glas Wasser auf einmal aus.
+  Sie trank das Wasser in einem Zug aus.
+
+  みんなに「一気」と言われて、ビールを一気飲みした。
+  みんなに「一気[いっき]」と 言[い]われて、ビールを 一気飲[いっきの]みした。
+  Von allen mit "Ex!" angefeuert, trank ich das Bier auf ex.
+
+  長い手紙を一気に書き上げた。
+  長[なが]い 手紙[てがみ]を 一気[いっき]に 書[か]き 上[あ]げた。
+  Ich schrieb den langen Brief in einem Zug.
+
+  彼は問題を一気に解決した。
+  彼[かれ]は 問題[もんだい]を 一気[いっき]に 解決[かいけつ]した。
+  Er löste das Problem auf einen Schlag.
+
+  一気にベルリンまで飛んだ。
+  一気[いっき]にベルリンまで 飛[と]んда。
+  Ich flog direkt nach Berlin.
+
+  彼女は一気に5階まで駆け上がった。
+  彼女[かのじょ]は 一気[いっき]に5階[かい]まで 駆[か]け 上[あ]がった。
+  Sie rannte in einem Zug bis in den fünften Stock hinauf.
+
+  長い坂道を一気に駆け下りた。
+  長[なが]い 坂道[さかみち]を 一気[いっき]に 駆[か]け 下[お]りた。
+  Ich rannte die lange Straße in einem Atemzug hinunter.
+
+  彼は怒りを抑えられず、一気に感情を爆発させた。
+  彼[かれ]は 怒[いか]りを 抑[おさ]えられず、一気[いっき]に 感情[かんじょう]を 爆発[ばくはつ]させた。
+  Er konnte seinen Ärger nicht unterdrücken und ließ seinen Gefühlen auf einmal freien Lauf.
+
+  一気に仕事を片付けてしまおう。
+  一気[いっき]に 仕事[しごと]を 片付[かたづ]けてしまおう。
+  Lass uns die Arbeit in einem Rutsch erledigen.
+
+  彼女は一気に3杯のコーヒーを飲んだ。
+  彼女[かのじょ]は 一気[いっき]に3杯[はい]のコーヒーを 飲[の]んだ。
+  Sie trank drei Tassen Kaffee auf einen Zug.
+
+  試験の答えを一気に書いた。
+  試験[しけん]の 答[こた]えを 一気[いっき]に 書[か]いた。
+  Ich schrieb die Prüfungsantworten in einem Rutsch.
+
+  彼は一気に10キロ痩せた。
+  彼[かれ]は 一気[いっき]に10キロ 痩[や]せた。
+  Er nahm auf einen Schlag 10 Kilo ab.
+
+  スピーチを一気に暗記した。
+  スピーチを 一気[いっき]に 暗記[あんき]した。
+  Ich lernte die Rede in einem Zug auswendig.
+
+  彼女は一気に3つの資格を取得した。
+  彼女[かのじょ]は 一気[いっき]に3つの 資格[しかく]を 取得[しゅとく]した。
+  Sie erwarb auf einen Schlag drei Qualifikationen.
+
+  話を一気に済ませてしまおう。
+  話[はなし]を 一気[いっき]に 済[す]ませてしまおう。
+  Lass uns das Gespräch in einem Rutsch erledigen.
+
+  彼は一気に階段を駆け上がった。
+  彼[かれ]は 一気[いっき]に 階段[かいだん]を 駆[か]け 上[あ]がった。
+  Er rannte die Treppe in einem Zug hinauf.
+
+  一気に全ての準備を終えた。
+  一気[いっき]に 全[すべ]ての 準備[じゅんび]を 終[お]えた。
+  Ich beendete alle Vorbereitungen auf einen Schlag.
+
+  彼女は一気に5ページ分の文章を書いた。
+  彼女[かのじょ]は 一気[いっき]に5ページ 分[ぶん]の 文章[ぶんしょう]を 書[か]いた。
+  Sie schrieb fünf Seiten Text in einem Zug.
+
+  大津は皆に「一気」と言われながら、喘ぎ喘ぎグラスを空にした。
+  大津[おおつ]は 皆[みな]に「一気[いっき]」と 言[い]われながら、喘[あえ]ぎ 喘[あえ]ぎグラスを 空[から]にした。
+  Von allen mit "Ex!" angefeuert, leerte Otsu keuchend das Glas.
+
+  六十メートルの滝が一気に落ちていて、壮観だった。
+  六十[ろくじゅう]メートルの 滝[たき]が 一気[いっき]に 落[お]ちていて、壮観[そうかん]だった。
+  Es war ein überwältigendes Schauspiel, wie der sechzig Meter hohe Wasserfall in einem Sturz herabfiel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: <p><span class="jp">～に</span> wird oft als Adverb verwendet und bedeutet "in
+  einem Zug", "ohne Unterbrechung

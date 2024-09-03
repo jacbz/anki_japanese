@@ -2,7 +2,7 @@ Rang: 1834
 Lemma: 画像
 Lesung: がぞう
 Tonhöhen: .^^
-Definition: Bild
+Definition: Bild, Abbildung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   画像をクリックすると次のページに進みます。
   画像[がぞう]をクリックすると 次[つぎ]のページに 進[すす]みます。
-  Klicken Sie auf ein beliebiges Bild, um zur nächsten Seite zu gelangen.
+  Wenn Sie auf das Bild klicken, gelangen Sie zur nächsten Seite.
+
+  この画像は高解像度なので、細部まではっきり見えます。
+  この 画像[がぞう]は 高解像度[こうかいぞうど]なので、細部[さいぶ]まではっきり 見[み]えます。
+  Dieses Bild hat eine hohe Auflösung, sodass man die Details klar erkennen kann.
+
+  彼女は自分の画像をSNSにアップロードするのが好きです。
+  彼女[かのじょ]は 自分[じぶん]の 画像[がぞう]をSNSにアップロードするのが 好[す]きです。
+  Sie lädt gerne Bilder von sich in sozialen Netzwerken hoch.
+
+  画像データを圧縮して、ファイルサイズを小さくしましょう。
+  画像[がぞう]データを 圧縮[あっしゅく]して、ファイルサイズを 小[ちい]さくしましょう。
+  Lass uns die Bilddaten komprimieren, um die Dateigröße zu verkleinern.
+
+  この画像ファイルは壊れているようです。開けません。
+  この 画像[がぞう]ファイルは 壊[こわ]れているようです。開[ひら]けません。
+  Diese Bilddatei scheint beschädigt zu sein. Ich kann sie nicht öffnen.
+
+  新しい画像認識技術により、自動運転車の安全性が向上しました。
+  新[あたら]しい 画像認識[がぞうにんしき]技術[ぎじゅつ]により、自動運転車[じどううんてんしゃ]の 安全性[あんぜんせい]が 向上[こうじょう]しました。
+  Durch neue Bilderkennungstechnologie hat sich die Sicherheit von selbstfahrenden Autos verbessert.
+
+  医師は患者のX線画像を注意深く調べました。
+  医師[いし]は 患者[かんじゃ]のX線画像[せんがぞう]を 注意深[ちゅういぶか]く 調[しら]べました。
+  Der Arzt untersuchte sorgfältig das Röntgenbild des Patienten.
+
+  テレビの画像が乱れているので、アンテナを調整する必要があります。
+  テレビの 画像[がぞう]が 乱[みだ]れているので、アンテナを 調整[ちょうせい]する 必要[ひつよう]があります。
+  Das Fernsehbild ist gestört, also müssen wir die Antenne justieren.
+
+  彼は画像加工ソフトを使って、写真を編集しています。
+  彼[かれ]は 画像加工[がぞうかこう]ソフトを 使[つか]って、写真[しゃしん]を 編集[へんしゅう]しています。
+  Er bearbeitet Fotos mit einer Bildbearbeitungssoftware.
+
+  この画像サイズは大きすぎるので、縮小する必要があります。
+  この 画像[がぞう]サイズは 大[おお]きすぎるので、縮小[しゅくしょう]する 必要[ひつよう]があります。
+  Diese Bildgröße ist zu groß, also müssen wir sie verkleinern.
+
+  画像電送システムを使えば、遠隔地にも素早く画像を送信できます。
+  画像電送[がぞうでんそう]システムを 使[つか]えば、遠隔地[えんかくち]にも 素早[すばや]く 画像[がぞう]を 送信[そうしん]できます。
+  Mit einem Bildübertragungssystem können wir schnell Bilder auch an entfernte Orte senden.
+
+  三次元画像を使うことで、より臨場感のある映像体験ができます。
+  三次元画像[さんじげんがぞう]を 使[つか]うことで、より 臨場感[りんじょうかん]のある 映像体験[えいぞうたいけん]ができます。
+  Durch die Verwendung von 3D-Bildern können wir ein immersiveres visuelles Erlebnis schaffen.
+
+  画像ファイルの形式は、用途に応じて適切に選択することが重要です。
+  画像[がぞう]ファイルの 形式[けいしき]は、用途[ようと]に 応[おう]じて 適切[てきせつ]に 選択[せんたく]することが 重要[じゅうよう]です。
+  Es ist wichtig, das richtige Bildformat je nach Verwendungszweck auszuwählen.
+
+  静止画像を連続して表示することで、アニメーションを作成できます。
+  静止画像[せいしがぞう]を 連続[れんぞく]して 表示[ひょうじ]することで、アニメーションを 作成[さくせい]できます。
+  Durch die sequenzielle Anzeige von Standbildern können wir eine Animation erstellen.
+
+  衛星画像を分析することで、地球規模の環境変化を観測できます。
+  衛星画像[えいせいがぞう]を 分析[ぶんせき]することで、地球規模[ちきゅうきぼ]の 環境変化[かんきょうへんか]を 観測[かんそく]できます。
+  Durch die Analyse von Satellitenbildern können wir globale Umweltveränderungen beobachten.
+
+  画像診断技術の進歩により、早期発見が可能になりました。
+  画像診断[がぞうしんだん]技術[ぎじゅつ]の 進歩[しんぽ]により、早期発見[そうきはっけん]が 可能[かのう]になりました。
+  Dank der Fortschritte in der Bilddiagnostik ist eine Früherkennung möglich geworden.
+
+  不鮮明な画像は、重要な詳細が見えにくいので注意が必要です。
+  不鮮明[ふせんめい]な 画像[がぞう]は、重要[じゅうよう]な 詳細[しょうさい]が 見[み]えにくいので 注意[ちゅうい]が 必要[ひつよう]です。
+  Bei unscharfen Bildern ist Vorsicht geboten, da wichtige Details schwer zu erkennen sein können.
+
+  カラー画像は、白黒画像よりも多くの情報を伝えることができます。
+  カラー 画像[がぞう]は、白黒画像[しろくろがぞう]よりも 多[おお]くの 情報[じょうほう]を 伝[つた]えることができます。
+  Farbbilder können mehr Informationen vermitteln als Schwarzweißbilder.
+
+  画像の著作権に注意して、適切に使用することが大切です。
+  画像[がぞう]の 著作権[ちょさくけん]に 注意[ちゅうい]して、適切[てきせつ]に 使用[しよう]することが 大切[たいせつ]です。
+  Es ist wichtig, auf die Urheberrechte von Bildern zu achten und sie angemessen zu verwenden.
+
+  この画像処理ソフトを使えば、写真の品質を簡単に向上させることができます。
+  この 画像処理[がぞうしょり]ソフトを 使[つか]えば、写真[しゃしん]の 品質[ひんしつ]を 簡単[かんたん]に 向上[こうじょう]させることができます。
+  Mit dieser Bildbearbeitungssoftware können Sie die Qualität Ihrer Fotos einfach verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,13 +2,13 @@ Rang: 1797
 Lemma: 青い
 Lesung: あおい
 Tonhöhen: .\.
-Definition: blau; blass; unreif
-Alternativschreibweisen: ''
+Definition: blau, grün; blass
+Alternativschreibweisen: 蒼い・碧い
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 青くない・青かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,108 @@ Beispielsätze: |-
   彼[かれ]は 青[あお]いシャツを 着[き]ている。
   Er trägt ein blaues Hemd.
 
+  空が青くて、とてもきれいだ。
+  空[そら]が 青[あお]くて、とても きれい[きれい]だ。
+  Der Himmel ist blau und sehr schön.
+
+  この青い海を見ると、心が落ち着く。
+  この 青[あお]い 海[うみ]を 見[み]ると、心[こころ]が 落[お]ち 着[つ]く。
+  Wenn ich dieses blaue Meer sehe, beruhigt sich mein Herz.
+
+  夏は青い野菜をたくさん食べましょう。
+  夏[なつ]は 青[あお]い 野菜[やさい]をたくさん 食[た]べましょう。
+  Lass uns im Sommer viel grünes Gemüse essen.
+
+  彼女の目は澄んだ青い色をしている。
+  彼女[かのじょ]の 目[め]は 澄[す]んだ 青[あお]い 色[いろ]をしている。
+  Ihre Augen haben eine klare blaue Farbe.
+
+  驚いて、彼の顔が青くなった。
+  驚[おどろ]いて、彼[かれ]の 顔[かお]が 青[あお]くなった。
+  Überrascht wurde sein Gesicht blass.
+
+  緊張して青い顔をしていますね。大丈夫ですか？
+  緊張[きんちょう]して 青[あお]い 顔[かお]をしていますね。大丈夫[だいじょうぶ]ですか？
+  Du siehst blass aus vor Nervosität. Geht es dir gut?
+
+  彼は怖くて青くなった顔で立っていた。
+  彼[かれ]は 怖[こわ]くて 青[あお]くなった 顔[かお]で 立[た]っていた。
+  Er stand da mit einem vor Angst bleichen Gesicht.
+
+  このバナナはまだ青いから、食べられないよ。
+  このバナナはまだ 青[あお]いから、食[た]べられないよ。
+  Diese Banane ist noch unreif, also kann man sie nicht essen.
+
+  彼はまだ青い社会人だ。
+  彼[かれ]はまだ 青[あお]い 社会人[しゃかいじん]だ。
+  Er ist noch ein unerfahrener Berufstätiger.
+
+  青いぶどうを食べると、酸っぱいね。
+  青[あお]いぶどうを 食[た]べると、酸[す]っぱいね。
+  Wenn man unreife Trauben isst, sind sie sauer.
+
+  彼女は青い考えを持っている。
+  彼女[かのじょ]は 青[あお]い 考[かんが]えを 持[も]っている。
+  Sie hat naive Gedanken.
+
+  居間に青い焔のストーブがある。
+  居間[いま]に 青[あお]い 焔[ほのお]のストーブがある。
+  Im Wohnzimmer steht ein Ofen mit blauen Flammen.
+
+  冷蔵庫から青い沖縄ガラスの皿を取り出した。
+  冷蔵庫[れいぞうこ]から 青[あお]い 沖縄[おきなわ]ガラスの 皿[さら]を 取[と]り 出[だ]した。
+  Ich holte die blaue Schüssel aus Okinawa-Glas aus dem Kühlschrank.
+
+  木の葉に止まっている雨蛙は青い。
+  木[き]の 葉[は]に 止[と]まっている 雨蛙[あまがえる]は 青[あお]い。
+  Der Laubfrosch, der auf dem Blatt sitzt, ist grün.
+
+  彼女は青い目をした外国人だ。
+  彼女[かのじょ]は 青[あお]い 目[め]をした 外国人[がいこくじん]だ。
+  Sie ist eine Ausländerin mit blauen Augen.
+
+  青い切符で二等車に乗った。
+  青[あお]い 切符[きっぷ]で 二等車[にとうしゃ]に 乗[の]った。
+  Mit der blauen Fahrkarte bin ich in der zweiten Klasse gefahren.
+
+  彼は青い息を吐いて悩んでいた。
+  彼[かれ]は 青[あお]い 息[いき]を 吐[は]いて 悩[なや]んでいた。
+  Er seufzte vor Kummer.
+
+  彼女は青い嘴の新入社員だ。
+  彼女[かのじょ]は 青[あお]い 嘴[くちばし]の 新入社員[しんにゅうしゃいん]だ。
+  Sie ist eine grünschnäbelige neue Mitarbeiterin.
+
+  青い目の外国人が増えてきた。
+  青[あお]い 目[め]の 外国人[がいこくじん]が 増[ふ]えてきた。
+  Die Zahl der blauäugigen Ausländer hat zugenommen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Adjektiv あおい (青い) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Blau oder Grün: In der japanischen Sprache werden die Farben Blau und Grün oft nicht streng unterschieden.</li>
+    <li>Blass oder bleich: Besonders wenn es sich auf das Gesicht bezieht.</li>
+    <li>Unreif oder unerfahren: Sowohl wörtlich (für unreifes Obst) als auch im übertragenen Sinne.</li>
+  </ol>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">青[あお]い 空[そら]</div>
+    <div class="de spoiler">Blauer Himmel</div>
+  </div>
+  <div class="examples">
+    <div class="jp">顔[かお]が 青[あお]くなる</div>
+    <div class="de spoiler">Blass werden</div>
+  </div>
+  <div class="examples">
+    <div class="jp">青[あお]いバナナ</div>
+    <div class="de spoiler">Unreife Banane</div>
+  </div>
+  <div class="examples">
+    <div class="jp">青[あお]い 考[かんが]え</div>
+    <div class="de spoiler">Naive Gedanken</div>
+  </div>

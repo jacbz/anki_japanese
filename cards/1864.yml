@@ -3,7 +3,7 @@ Lemma: 零
 Lesung: れい
 Tonhöhen: ''
 Definition: 'null'
-Alternativschreibweisen: ''
+Alternativschreibweisen: '0'
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -16,6 +16,82 @@ Beispielsätze: |-
   テストで０点をとった。
   テストで０ 点[てん]をとった。
   Ich habe in diesem Test eine Null bekommen.
+
+  テストで0点をとった。
+  テストで0[れい]点[てん]をとった。
+  Ich habe in dem Test null Punkte bekommen.
+
+  このチームは1対0で勝った。
+  このチームは1[いち]対[たい]0[れい]で 勝[か]った。
+  Dieses Team hat mit 1:0 gewonnen.
+
+  気温が零度に近づいている。
+  気温[きおん]が 零度[れいど]に 近[ちか]づいている。
+  Die Temperatur nähert sich dem Nullpunkt.
+
+  この数式では零を代入してみましょう。
+  この 数式[すうしき]では 零[れい]を 代入[だいにゅう]してみましょう。
+  Lasst uns in diese mathematische Formel null einsetzen.
+
+  零から始めて、少しずつ努力を重ねていこう。
+  零[れい]から 始[はじ]めて、少[すこ]しずつ 努力[どりょく]を 重[かさ]ねていこう。
+  Lass uns bei null anfangen und nach und nach unsere Anstrengungen verstärken.
+
+  彼の業績は零に等しい。
+  彼[かれ]の 業績[ぎょうせき]は 零[れい]に 等[ひと]しい。
+  Seine Leistungen sind gleich null.
+
+  零点五リットルの水を加えてください。
+  零点五[れいてんご]リットルの 水[みず]を 加[くわ]えてください。
+  Bitte fügen Sie 0,5 Liter Wasser hinzu.
+
+  計測結果は零に限りなく近かった。
+  計測結果[けいそくけっか]は 零[れい]に 限[かぎ]りなく 近[ちか]かった。
+  Das Messergebnis war der Null sehr nahe.
+
+  この零ベクトルは方向を持たない。
+  この 零[れい]ベクトルは 方向[ほうこう]を 持[も]たない。
+  Dieser Nullvektor hat keine Richtung.
+
+  零行列を使って方程式を解いてみよう。
+  零行列[れいぎょうれつ]を 使[つか]って 方程式[ほうていしき]を 解[と]いてみよう。
+  Lass uns versuchen, die Gleichung mit einer Nullmatrix zu lösen.
+
+  彼らの努力は零ではない。
+  彼[かれ]らの 努力[どりょく]は 零[れい]ではない。
+  Ihre Bemühungen sind nicht null.
+
+  零から出発して、今では成功者になった。
+  零[れい]から 出発[しゅっぱつ]して、今[いま]では 成功者[せいこうしゃ]になった。
+  Er startete bei null und ist jetzt ein erfolgreicher Mensch.
+
+  この商品の在庫数は零になりました。
+  この 商品[しょうひん]の 在庫数[ざいこすう]は 零[れい]になりました。
+  Der Lagerbestand dieses Produkts ist auf null gesunken.
+
+  零時を過ぎると、新しい日が始まります。
+  零時[れいじ]を 過[す]ぎると、新[あたら]しい 日[ひ]が 始[はじ]まります。
+  Nach Mitternacht beginnt ein neuer Tag.
+
+  零細企業から大企業に成長した。
+  零細企業[れいさいきぎょう]から 大企業[だいきぎょう]に 成長[せいちょう]した。
+  Sie wuchsen von einem Kleinstunternehmen zu einem großen Unternehmen heran.
+
+  この実験では、零の仮説を立てて検証する。
+  この 実験[じっけん]では、零[れい]の 仮説[かせつ]を 立[た]てて 検証[けんしょう]する。
+  In diesem Experiment stellen wir eine Nullhypothese auf und überprüfen sie.
+
+  零点をとると、追試を受けなければならない。
+  零点[れいてん]をとると、追試[ついし]を 受[う]けなければならない。
+  Wenn man null Punkte bekommt, muss man eine Nachprüfung ablegen.
+
+  彼女の貢献度は決して零ではありません。
+  彼女[かのじょ]の 貢献度[こうけんど]は 決[けっ]して 零[れい]ではありません。
+  Ihr Beitrag ist keineswegs null.
+
+  零時零分に新年を迎えましょう。
+  零時零分[れいじれいふん]に 新年[しんねん]を 迎[むか]えましょう。
+  Lasst uns das neue Jahr um Punkt Mitternacht begrüßen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

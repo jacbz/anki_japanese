@@ -2,7 +2,7 @@ Rang: 1926
 Lemma: 構造
 Lesung: こうぞう
 Tonhöhen: .^^^
-Definition: Struktur
+Definition: Struktur, Aufbau
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   この建物は構造が複雑だ。
   この 建物[たてもの]は 構造[こうぞう]が 複雑[ふくざつ]だ。
-  Die Struktur dieses Gebäudes ist komplex.
+  Dieses Gebäude hat eine komplexe Struktur.
+
+  新しい橋の構造設計図を確認しましょう。
+  新[あた]しい 橋[はし]の 構造設計図[こうぞうせっけいず]を 確認[かくにん]しましょう。
+  Lassen Sie uns die Konstruktionszeichnung für die neue Brücke überprüfen.
+
+  彼は言語の構造に興味がある。
+  彼[かれ]は 言語[げんご]の 構造[こうぞう]に 興味[きょうみ]がある。
+  Er interessiert sich für die Struktur von Sprachen.
+
+  会社の組織構造を見直す必要がある。
+  会社[かいしゃ]の 組織構造[そしきこうぞう]を 見直[みなお]す 必要[ひつよう]がある。
+  Wir müssen die Organisationsstruktur des Unternehmens überarbeiten.
+
+  構造改革なしでは、経済の回復は難しいでしょう。
+  構造改革[こうぞうかいかく]なしでは、経済[けいざい]の 回復[かいふく]は 難[むずか]しいでしょう。
+  Ohne Strukturreformen wird es schwierig sein, die Wirtschaft wiederzubeleben.
+
+  この小説の構造は非常に独創的だ。
+  この 小説[しょうせつ]の 構造[こうぞう]は 非常[ひじょう]に 独創的[どくそうてき]だ。
+  Die Struktur dieses Romans ist sehr originell.
+
+  地質学者は地球の構造について研究している。
+  地質学者[ちしつがくしゃ]は 地球[ちきゅう]の 構造[こうぞう]について 研究[けんきゅう]している。
+  Geologen erforschen die Struktur der Erde.
+
+  構造上の問題で、この建物は取り壊すことになった。
+  構造上[こうぞうじょう]の 問題[もんだい]で、この 建物[たてもの]は 取[と]り 壊[こわ]すことになった。
+  Aufgrund struktureller Probleme muss dieses Gebäude abgerissen werden.
+
+  DNAの分子構造の発見は生物学に革命をもたらした。
+  DNAの 分子構造[ぶんしこうぞう]の 発見[はっけん]は 生物学[せいぶつがく]に 革命[かくめい]をもたらした。
+  Die Entdeckung der Molekülstruktur der DNA revolutionierte die Biologie.
+
+  社会の構造が変化するにつれて、新しい問題が生じる。
+  社会[しゃかい]の 構造[こうぞう]が 変化[へんか]するにつれて、新[あたら]しい 問題[もんだい]が 生[しょう]じる。
+  Mit dem Wandel der Gesellschaftsstruktur entstehen neue Probleme.
+
+  構造主義は20世紀の思想に大きな影響を与えた。
+  構造主義[こうぞうしゅぎ]は20世紀[せいき]の 思想[しそう]に 大[おお]きな 影響[えいきょう]を 与[あた]えた。
+  Der Strukturalismus hatte einen großen Einfluss auf das Denken des 20. Jahrhunderts.
+
+  彼女は文の構造を分析して、その意味を理解しようとした。
+  彼女[かのじょ]は 文[ぶん]の 構造[こうぞう]を 分析[ぶんせき]して、その 意味[いみ]を 理解[りかい]しようとした。
+  Sie versuchte, die Bedeutung zu verstehen, indem sie die Satzstruktur analysierte.
+
+  新しい材料を使うことで、より軽量な構造が可能になった。
+  新[あたら]しい 材料[ざいりょう]を 使[つか]うことで、より 軽量[けいりょう]な 構造[こうぞう]が 可能[かのう]になった。
+  Durch die Verwendung neuer Materialien wurden leichtere Konstruktionen möglich.
+
+  経済の構造的問題は簡単には解決できない。
+  経済[けいざい]の 構造的[こうぞうてき] 問題[もんだい]は 簡単[かんたん]には 解決[かいけつ]できない。
+  Strukturelle Probleme in der Wirtschaft lassen sich nicht einfach lösen.
+
+  この建築家は革新的な構造設計で知られている。
+  この 建築家[けんちくか]は 革新的[かくしんてき]な 構造設計[こうぞうせっけい]で 知[し]られている。
+  Dieser Architekt ist für seine innovativen Konstruktionsentwürfe bekannt.
+
+  構造改革により、会社の効率が大幅に向上した。
+  構造改革[こうぞうかいかく]により、会社[かいしゃ]の 効率[こうりつ]が 大幅[おおはば]に 向上[こうじょう]した。
+  Durch die Strukturreform hat sich die Effizienz des Unternehmens erheblich verbessert.
+
+  原子の構造を理解することは、化学の基礎だ。
+  原子[げんし]の 構造[こうまう]を 理解[りかい]することは、化学[かがく]の 基礎[きそ]だ。
+  Das Verständnis der Atomstruktur ist grundlegend für die Chemie.
+
+  彼は社会の階層構造について研究している。
+  彼[かれ]は 社会[しゃかい]の 階層構造[かいそうこうぞう]について 研究[けんきゅう]している。
+  Er forscht über die Hierarchiestruktur in der Gesellschaft.
+
+  構造物の安全性を確保するには、定期的な点検が必要だ。
+  構造物[こうぞうぶつ]の 安全性[あんぜんせい]を 確保[かくほ]するには、定期的[ていきてき]な 点検[てんけん]が 必要[ひつよう]だ。
+  Um die Sicherheit von Bauwerken zu gewährleisten, sind regelmäßige Inspektionen erforderlich.
+
+  この論文は、言語の深層構造を分析している。
+  この 論文[ろんぶん]は、言語[げんご]の 深層構造[しんそうこうぞう]を 分析[ぶんせき]している。
+  Diese Abhandlung analysiert die Tiefenstruktur der Sprache.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

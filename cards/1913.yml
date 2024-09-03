@@ -2,10 +2,10 @@ Rang: 1913
 Lemma: 得意
 Lesung: とくい
 Tonhöhen: .\.
-Definition: gut sein in, stolz sein auf; Kunde
+Definition: gut können; Spezialität; Stammkunde
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj, n
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,105 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私、料理は得意なんです。
-  私[わたし]、 料理[りょうり]は 得意[とくい]なんです。
+  私[わたし]、料理[りょうり]は 得意[とくい]なんです。
   Ich bin gut im Kochen.
+
+  彼は得意満面で成功を報告した。
+  彼[かれ]は 得意満面[とくいまんめん]で 成功[せいこう]を 報告[ほうこく]した。
+  Er berichtete mit strahlendem Gesicht von seinem Erfolg.
+
+  得意がるのはよくないよ。謙虚さも大切だ。
+  得意[とくい]がるのはよくないよ。謙虚[けんきょ]さも 大切[たいせつ]だ。
+  Es ist nicht gut, anzugeben. Bescheidenheit ist auch wichtig.
+
+  彼女は英語が得意で、海外でも堂々と話せる。
+  彼女[かのじょ]は 英語[えいご]が 得意[とくい]で、海外[かいがい]でも 堂々[どうどう]と 話[はな]せる。
+  Sie ist gut in Englisch und kann im Ausland selbstbewusst sprechen.
+
+  得意の絶頂にあるときこそ、油断は禁物だ。
+  得意[とくい]の 絶頂[ぜっちょう]にあるときこそ、油断[ゆだん]は 禁物[きんもつ]だ。
+  Gerade wenn man auf dem Höhepunkt des Erfolgs ist, darf man nicht unvorsichtig werden.
+
+  彼は得意そうに新しい車を見せびらかしていた。
+  彼[かれ]は 得意[とくい]そうに 新[あたら]しい 車[くるま]を 見[み]せびらかしていた。
+  Er zeigte stolz sein neues Auto herum.
+
+  母は息子の成績を聞いて得意気な表情をしていた。
+  母[はは]は 息子[むすこ]の 成績[せいせき]を 聞[き]いて 得意気[とくいげ]な 表情[ひょうじょう]をしていた。
+  Die Mutter machte einen stolzen Gesichtsausdruck, als sie die Noten ihres Sohnes hörte.
+
+  得意になって浮かれるのは危険だ。謙虚さを忘れないでください。
+  得意[とくい]になって 浮[う]かれるのは 危険[きけん]だ。謙虚[けんきょ]さを 忘[わす]れないでください。
+  Es ist gefährlich, vor Stolz übermütig zu werden. Vergiss nicht die Bescheidenheit.
+
+  数学が得意な人は、論理的な思考力が高いことが多いです。
+  数学[すうがく]が 得意[とくい]な 人[ひと]は、論理的[ろんりてき]な 思考力[しこうりょく]が 高[たか]いことが 多[おお]いです。
+  Menschen, die gut in Mathe sind, haben oft ein hohes logisches Denkvermögen.
+
+  スポーツが得意な彼女は、学校の運動会でいつも活躍します。
+  スポーツが 得意[とくい]な 彼女[かのじょ]は、学校[がっこう]の 運動会[うんどうかい]でいつも 活躍[かつやく]します。
+  Sie ist gut in Sport und glänzt immer bei den Schulsportfesten.
+
+  彼は料理が得意で、毎日家族においしい食事を作っています。
+  彼[かれ]は 料理[りょうり]が 得意[とくい]で、毎日[まいにち] 家族[かぞく]においしい 食事[しょくじ]を 作[つく]っています。
+  Er ist gut im Kochen und bereitet seiner Familie jeden Tag leckere Mahlzeiten zu.
+
+  彼女の得意分野は心理学で、人の行動を分析するのが上手です。
+  彼女[かのじょ]の 得意分野[とくいぶんや]は 心理学[しんりがく]で、人[ひと]の 行動[こうどう]を 分析[ぶんせき]するのが 上手[じょうず]です。
+  Ihr Spezialgebiet ist die Psychologie, und sie ist gut darin, menschliches Verhalten zu analysieren.
+
+  ピアノが得意な彼は、コンクールで優勝しました。
+  ピアノが 得意[とくい]な 彼[かれ]は、コンクールで 優勝[ゆうしょう]しました。
+  Er ist gut im Klavierspielen und hat einen Wettbewerb gewonnen.
+
+  彼女は絵を描くのが得意で、友達にプレゼントをよく描いてあげます。
+  彼女[かのじょ]は 絵[え]を 描[か]くのが 得意[とくい]で、友達[ともだち]にプレゼントをよく 描[か]いてあげます。
+  Sie ist gut im Zeichnen und malt oft Geschenke für ihre Freunde.
+
+  得意なことを仕事にできるのは、とても幸せなことですね。
+  得意[とくい]なことを 仕事[しごと]にできるのは、とても 幸[しあわ]せなことですね。
+  Es ist wirklich ein Glück, wenn man seine Stärken zum Beruf machen kann.
+
+  お客様は私たちの大切なお得意様です。
+  お客様[きゃくさま]は 私[わたし]たちの 大切[たいせつ]なお 得意様[とくいさま]です。
+  Unsere Kunden sind unsere wichtigen Stammkunden.
+
+  新しいお得意様を獲得するために、サービスの質を向上させています。
+  新[あたら]しいお 得意様[とくいさま]を 獲得[かくとく]するために、サービスの 質[しつ]を 向上[こうじょう]させています。
+  Wir verbessern die Qualität unseres Service, um neue Stammkunden zu gewinnen.
+
+  お得意様を大切にすることで、ビジネスは成長します。
+  お 得意様[とくいさま]を 大切[たいせつ]にすることで、ビジネスは 成長[せいちょう]します。
+  Indem wir unsere Stammkunden wertschätzen, wächst unser Geschäft.
+
+  彼は得意客を回って、新製品の説明をしています。
+  彼[かれ]は 得意客[とくいきゃく]を 回[まわ]って、新製品[しんせいひん]の 説明[せつめい]をしています。
+  Er besucht die Stammkunden und erklärt ihnen die neuen Produkte.
+
+  お得意様からの要望に応えることで、信頼関係を築いています。
+  お 得意様[とくいさま]からの 要望[ようぼう]に 応[こた]えることで、信頼関係[しんらいかんけい]を 築[きず]いています。
+  Wir bauen Vertrauensbeziehungen auf, indem wir auf die Wünsche unserer Stammkunden eingehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 得意 (とくい) hat mehrere Bedeutungen und Verwendungen:</p>
+  <p>1. Zufriedenheit, Stolz:</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]は 得意[とくい]そうに 新[あたら]しい 車[くるま]を 見[み]せびらかしていた。</div>
+    <div class='de spoiler'>Er zeigte stolz sein neues Auto herum.</div>
+  </div>
+  <p>2. Etwas, das man gut kann; Stärke, Spezialität:</p>
+  <div class='examples'>
+    <div class='jp'>彼女[かのじょ]は 英語[えいご]が 得意[とくい]で、海外[かいがい]でも 堂々[どうどう]と 話[はな]せる。</div>
+    <div class='de spoiler'>Sie ist gut in Englisch und kann im Ausland selbstbewusst sprechen.</div>
+  </div>
+  <p>3. (Stamm-)Kunde (oft mit dem Höflichkeitspräfix お):</p>
+  <div class='examples'>
+    <div class='jp'>新[あたら]しいお 得意様[とくいさま]を 獲得[かくとく]するために、サービスの 質[しつ]を 向上[こうじょう]させています。</div>
+    <div class='de spoiler'>Wir verbessern die Qualität unseres Service, um neue Stammkunden zu gewinnen.</div>
+  </div>
+  <p>NB: In der Umgangssprache wird es oft in der Form お得意(さん) (おとくい(さん)) oder お得意様 (おとくいさま) verwendet, besonders wenn es sich auf Kunden bezieht.</p>

@@ -2,24 +2,109 @@ Rang: 1851
 Lemma: 痩せる
 Lesung: やせる
 Tonhöhen: .^^
-Definition: dünn werden, abnehmen
+Definition: abnehmen, dünner werden
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: やせない・やせた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   一週間で五キロ痩せた。
-  一週間[いっしゅうかん]で五キロ 痩[や]せた。
+  一週間[いっしゅうかん]で 五[ご]キロ 痩[や]せた。
   Ich habe in einer Woche fünf Kilo abgenommen.
+
+  どうしてもやせたいので、ダイエットを始めました。
+  どうしてもやせたいので、ダイエットを 始[はじ]めました。
+  Ich habe mit einer Diät begonnen, weil ich unbedingt abnehmen will.
+
+  彼女はげっそり痩せて、顔色も悪くなった。
+  彼女[かのじょ]はげっそり 痩[や]せて、顔色[かおいろ]も 悪[わる]くなった。
+  Sie ist extrem abgemagert und sieht auch blass aus.
+
+  ストレスでがりがりに痩せてしまった。
+  ストレスでがりがりに 痩[や]せてしまった。
+  Ich bin vor Stress bis auf die Knochen abgemagert.
+
+  最近急激に痩せたため、服がブカブカになった。
+  最近[さいきん] 急激[きゅうげき]に 痩[や]せたため、服[ふく]がブカブカになった。
+  Weil ich in letzter Zeit drastisch abgenommen habe, sind meine Kleider zu weit geworden.
+
+  病気の影響で、彼は痩せたり太ったりを繰り返している。
+  病気[びょうき]の 影響[えいきょう]で、彼[かれ]は 痩[や]せたり 太[ふと]ったりを 繰[く]り 返[かえ]している。
+  Aufgrund seiner Krankheit nimmt er abwechselnd ab und zu.
+
+  彼女はひょろりと痩せていて、ほとんど胸がなかった。
+  彼女[かのじょ]はひょろりと 痩[や]せていて、ほとんど 胸[むね]がなかった。
+  Sie war schlaksig dünn und hatte kaum eine Brust.
+
+  祖父は年をとるにつれて、ミイラのように痩せてしまった。
+  祖父[そふ]は 年[とし]をとるにつれて、ミイラのように 痩[や]せてしまった。
+  Mein Großvater ist im Alter zu einem Skelett abgemagert.
+
+  痩せているからといって、必ずしも健康というわけではありません。
+  痩[や]せているからといって、必[かなら]ずしも 健康[けんこう]というわけではありません。
+  Nur weil man dünn ist, heißt das nicht unbedingt, dass man gesund ist.
+
+  彼女は痩せすぎて、頬がこけてしまっている。
+  彼女[かのじょ]は 痩[や]せすぎて、頬[ほお]がこけてしまっている。
+  Sie ist zu dünn geworden und hat eingefallene Wangen.
+
+  過度なダイエットで急激に痩せるのは体に良くありません。
+  過度[かど]なダイエットで 急激[きゅうげき]に 痩[や]せるのは 体[からだ]に 良[よ]くありません。
+  Es ist nicht gut für den Körper, durch übermäßiges Diäthalten schnell abzunehmen.
+
+  運動を始めてから、少しずつ痩せてきた気がします。
+  運動[うんどう]を 始[はじ]めてから、少[すこ]しずつ 痩[や]せてきた 気[き]がします。
+  Seit ich mit dem Training begonnen habe, habe ich das Gefühl, langsam abzunehmen.
+
+  ストレスで食欲がなくなり、痩せてしまった。
+  ストレスで 食欲[しょくよく]がなくなり、痩[や]せてしまった。
+  Ich habe durch Stress meinen Appetit verloren und abgenommen.
+
+  痩せたいなら、バランスの取れた食事と適度な運動が大切です。
+  痩[や]せたいなら、バランスの 取[と]れた 食事[しょくじ]と 適度[てきど]な 運動[うんどう]が 大切[たいせつ]です。
+  Wenn du abnehmen möchtest, sind eine ausgewogene Ernährung und angemessene Bewegung wichtig.
+
+  彼女は痩せてスタイルが良くなったと言われている。
+  彼女[かのじょ]は 痩[や]せてスタイルが 良[よ]くなったと 言[い]われている。
+  Man sagt, dass sie abgenommen hat und ihre Figur besser geworden ist.
+
+  長期の病気で、彼は骨と皮だけになるほど痩せた。
+  長期[ちょうき]の 病気[びょうき]で、彼[かれ]は 骨[ほね]と 皮[かわ]だけになるほど 痩[や]せた。
+  Durch seine lange Krankheit ist er so abgemagert, dass er nur noch Haut und Knochen ist.
+
+  痩せすぎると、免疫力が低下する可能性があります。
+  痩[や]せすぎると、免疫力[めんえきりょく]が 低下[ていか]する 可能性[かのうせい]があります。
+  Wenn man zu dünn wird, besteht die Möglichkeit, dass das Immunsystem geschwächt wird.
+
+  妊娠中に急激に痩せるのは、赤ちゃんの健康に悪影響を与える可能性があります。
+  妊娠中[にんしんちゅう]に 急激[きゅうげき]に 痩[や]せるのは、赤[あか]ちゃんの 健康[けんこう]に 悪影響[あくえいきょう]を 与[あた]える 可能性[かのうせい]があります。
+  Schnelles Abnehmen während der Schwangerschaft kann sich negativ auf die Gesundheit des Babys auswirken.
+
+  痩せたいからといって、極端な食事制限をするのは危険です。
+  痩[や]せたいからといって、極端[きょくたん]な 食事制限[しょくじせいげん]をするのは 危険[きけん]です。
+  Es ist gefährlich, extreme Diäten zu machen, nur weil man abnehmen möchte.
+
+  長年の農業で土地が痩せてしまい、作物の収穫量が減ってしまった。
+  長年[ながねん]の 農業[のうぎょう]で 土地[とち]が 痩[や]せてしまい、作物[さくもつ]の 収穫量[しゅうかくりょう]が 減[へ]ってしまった。
+  Durch jahrelange Landwirtschaft ist der Boden unfruchtbar geworden, und die Ernteerträge sind zurückgegangen.
+
+  やせても枯れても、彼は家族の大黒柱だ。
+  やせても 枯[か]れても、彼[かれ]は 家族[かぞく]の 大黒柱[だいこくばしら]だ。
+  Auch wenn er abgemagert und geschwächt ist, bleibt er die Stütze der Familie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">やせても枯[か]れても</span> ist ein Ausdruck, der bedeutet "wie heruntergekommen oder abgehalftert man auch sein mag". Er wird oft verwendet, um zu betonen, dass jemand trotz schwieriger Umstände oder Veränderungen immer noch eine bestimmte Position oder Rolle innehat.</p>
+  <div class="examples">
+    <div class="jp">やせても 枯[か]れても 昨年[さくねん]の 優勝校[ゆうしょうこう]だ。</div>
+    <div class="de spoiler">Auch wenn sie nur noch ein Schatten ihrer selbst sind, sind sie immer noch die Siegerschule des letzten Jahres.</div>
+  </div>

@@ -7,15 +7,91 @@ Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. bike
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私はバイクに乗れない。
-  私[わたし]はバイクに 乗[の]れない。
+  わたしはバイクに 乗[の]れない。
   Ich kann kein Motorrad fahren.
+
+  彼は赤いバイクに乗っている。
+  彼[かれ]は 赤[あか]いバイクに 乗[の]っている。
+  Er fährt ein rotes Motorrad.
+
+  バイク便は都会での配達に便利です。
+  バイク 便[びん]は 都会[とかい]での 配達[はいたつ]に 便利[べんり]です。
+  Motorradkuriere sind praktisch für Lieferungen in der Stadt.
+
+  バイクの駐車場を探しています。
+  バイクの 駐車場[ちゅうしゃじょう]を 探[さが]しています。
+  Ich suche einen Parkplatz für mein Motorrad.
+
+  友達とバイクでツーリングに行った。
+  友達[ともだち]とバイクでツーリングに 行[い]った。
+  Ich bin mit meinem Freund auf eine Motorradtour gefahren.
+
+  バイクの音がうるさくて眠れない。
+  バイクの 音[おと]がうるさくて 眠[ねむ]れない。
+  Ich kann wegen des lauten Motorradgeräusches nicht schlafen.
+
+  バイクの免許を取得したばかりです。
+  バイクの 免許[めんきょ]を 取得[しゅとく]したばかりです。
+  Ich habe gerade meinen Motorradführerschein gemacht.
+
+  この道路ではバイクの走行が禁止されています。
+  この 道路[どうろ]ではバイクの 走行[そうこう]が 禁止[きんし]されています。
+  Auf dieser Straße ist das Fahren von Motorrädern verboten.
+
+  バイクの整備は定期的に行うべきだ。
+  バイクの 整備[せいび]は 定期的[ていきてき]に 行[おこな]うべきだ。
+  Man sollte sein Motorrad regelmäßig warten lassen.
+
+  バイクに乗るときはヘルメットを着用しましょう。
+  バイクに 乗[の]るときはヘルメットを 着用[ちゃくよう]しましょう。
+  Tragen Sie beim Motorradfahren einen Helm.
+
+  バイクの燃費がいいので、経済的です。
+  バイクの 燃費[ねんぴ]がいいので、経済的[けいざいてき]です。
+  Motorräder sind sparsam, weil sie einen guten Kraftstoffverbrauch haben.
+
+  バイクで通勤すると、渋滞を避けられる。
+  バイクで 通勤[つうきん]すると、渋滞[じゅうたい]を 避[さ]けられる。
+  Wenn man mit dem Motorrad zur Arbeit fährt, kann man Staus vermeiden.
+
+  彼女はバイクに乗るのが怖いと言っている。
+  彼女[かのじょ]はバイクに 乗[の]るのが 怖[こわ]いと 言[い]っている。
+  Sie sagt, sie habe Angst, Motorrad zu fahren.
+
+  バイクのエンジン音が好きだ。
+  バイクのエンジン 音[おと]が 好[す]きだ。
+  Ich mag den Klang von Motorradmotoren.
+
+  バイクの修理に時間がかかりそうだ。
+  バイクの 修理[しゅうり]に 時間[じかん]がかかりそうだ。
+  Die Reparatur des Motorrads wird wohl einige Zeit in Anspruch nehmen.
+
+  バイクレースの観戦チケットを買った。
+  バイクレースの 観戦[かんせん]チケットを 買[か]った。
+  Ich habe Tickets für ein Motorradrennen gekauft.
+
+  バイクの保険料が高くて驚いた。
+  バイクの 保険料[ほけんりょう]が 高[たか]くて 驚[おどろ]いた。
+  Ich war überrascht, wie teuer die Versicherung für das Motorrad ist.
+
+  新しいバイクを購入するために貯金している。
+  新[あたら]しいバイクを 購入[こうにゅう]するために 貯金[ちょきん]している。
+  Ich spare für den Kauf eines neuen Motorrads.
+
+  バイクの窃盗が増えているので注意してください。
+  バイクの 窃盗[せっとう]が 増[ふ]えているので 注意[ちゅうい]してください。
+  Bitte seien Sie vorsichtig, da Motorraddiebstähle zunehmen.
+
+  バイクモトクロスの大会に出場する予定だ。
+  バイクモトクロスの 大会[たいかい]に 出場[しゅつじょう]する 予定[よてい]だ。
+  Ich plane, an einem BMX-Wettbewerb teilzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

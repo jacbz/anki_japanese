@@ -2,7 +2,7 @@ Rang: 1814
 Lemma: 主な
 Lesung: おもな
 Tonhöhen: \..
-Definition: hauptsächlich, wichtigste/r/s
+Definition: wichtig, haupt-
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: na-adj
@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   その事故の主な原因はまだわかっていない。
   その 事故[じこ]の 主[おも]な 原因[げんいん]はまだわかっていない。
-  Die wichtigste Ursache des Unfalls ist noch unbekannt.
+  Die Hauptursache für den Unfall ist noch nicht bekannt.
+
+  この企業の主な製品は電子機器です。
+  この 企業[きぎょう]の 主[おも]な 製品[せいひん]は 電子機器[でんしきき]です。
+  Das Hauptprodukt dieses Unternehmens sind elektronische Geräte.
+
+  会議では主な議題について話し合いました。
+  会議[かいぎ]では 主[おも]な 議題[ぎだい]について 話[はな]し 合[あ]いました。
+  In der Besprechung haben wir die wichtigsten Themen diskutiert.
+
+  彼女は主な登場人物の性格を分析した。
+  彼女[かのじょ]は 主[おも]な 登場人物[とうじょうじんぶつ]の 性格[せいかく]を 分析[ぶんせき]した。
+  Sie analysierte die Charaktere der Hauptfiguren.
+
+  主な収入源は給料です。
+  主[おも]な 収入源[しゅうにゅうげん]は 給料[きゅうりょう]です。
+  Meine Haupteinnahmequelle ist mein Gehalt.
+
+  この地域の主な産業は農業だ。
+  この 地域[ちいき]の 主[おも]な 産業[さんぎょう]は 農業[のうぎょう]だ。
+  Die Hauptindustrie in dieser Region ist die Landwirtschaft.
+
+  主な症状は発熱と咳です。
+  主[おも]な 症状[しょうじょう]は 発熱[はつねつ]と 咳[せき]です。
+  Die Hauptsymptome sind Fieber und Husten.
+
+  彼らの主な目的は平和の実現だ。
+  彼[かれ]らの 主[おも]な 目的[もくてき]は 平和[へいわ]の 実現[じつげん]だ。
+  Ihr Hauptziel ist die Verwirklichung des Friedens.
+
+  主な支出は食費と家賃だ。
+  主[おも]な 支出[ししゅつ]は 食費[しょくひ]と 家賃[やちん]だ。
+  Die Hauptausgaben sind Lebensmittel und Miete.
+
+  この本の主な読者層は若者だ。
+  この 本[ほん]の 主[おも]な 読者層[どくしゃそう]は 若者[わかもの]だ。
+  Die Hauptleserschaft dieses Buches sind junge Menschen.
+
+  主な輸出品は自動車と電子機器です。
+  主[おも]な 輸出品[ゆしゅつひん]は 自動車[じどうしゃ]と 電子機器[でんしきき]です。
+  Die wichtigsten Exportgüter sind Autos und Elektronik.
+
+  彼の主な趣味は読書と旅行だ。
+  彼[かれ]の 主[おも]な 趣味[しゅみ]は 読書[どくしょ]と 旅行[りょこう]だ。
+  Seine Haupthobbys sind Lesen und Reisen.
+
+  今週の主な出来事をまとめてください。
+  今週[こんしゅう]の 主[おも]な 出来事[できごと]をまとめてください。
+  Bitte fassen Sie die wichtigsten Ereignisse dieser Woche zusammen.
+
+  この問題の主な原因は何だと思いますか。
+  この 問題[もんだい]の 主[おも]な 原因[げんいん]は 何[なに]だと 思[おも]いますか。
+  Was glauben Sie, ist die Hauptursache für dieses Problem?
+
+  主な観光スポットを地図に示しました。
+  主[おも]な 観光[かんこう]スポットを 地図[ちず]に 示[しめ]しました。
+  Die wichtigsten Sehenswürdigkeiten sind auf der Karte markiert.
+
+  この作家の作品は短編が主なんだ。
+  この 作家[さっか]の 作品[さくひん]は 短編[たんぺん]が 主[おも]なんだ。
+  Die Werke dieses Autors bestehen hauptsächlich aus Kurzgeschichten.
+
+  主な収穫物は米と野菜です。
+  主[おも]な 収穫物[しゅうかくぶつ]は 米[こめ]と 野菜[やさい]です。
+  Die Haupternteprodukte sind Reis und Gemüse.
+
+  彼の主な仕事は顧客サービスだ。
+  彼[かれ]の 主[おも]な 仕事[しごと]は 顧客[こきゃく]サービスだ。
+  Seine Hauptaufgabe ist der Kundenservice.
+
+  この地域の主な交通手段は電車です。
+  この 地域[ちいき]の 主[おも]な 交通手段[こうつうしゅだん]は 電車[でんしゃ]です。
+  Das Hauptverkehrsmittel in dieser Gegend ist die Bahn.
+
+  主な関心事は環境問題と教育だ。
+  主[おも]な 関心事[かんしんじ]は 環境問題[かんきょうもんだい]と 教育[きょういく]だ。
+  Die Hauptanliegen sind Umweltprobleme und Bildung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">主な</span> wird verwendet, um die wichtigsten oder zentralen Aspekte von etwas zu beschreiben. Es kann auch "hauptsächlich" oder "überwiegend" bedeuten.</p>
+  <div class="examples">
+    <div class="jp">今週[こんしゅう]の主[おも]な出来事[できごと]をまとめました。</div>
+    <div class="de spoiler">Ich habe die wichtigsten Ereignisse dieser Woche zusammengefasst.</div>
+  </div>
+  <p>Es wird oft verwendet, um die Hauptpunkte oder -merkmale von etwas zu identifizieren:</p>
+  <div class="examples">
+    <div class="jp">この計画[けいかく]の主[おも]な目的[もくてき]は経費削減[けいひさくげん]です。</div>
+    <div class="de spoiler">Das Hauptziel dieses Plans ist die Kostenreduzierung.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um den überwiegenden Teil von etwas zu beschreiben:</p>
+  <div class="examples">
+    <div class="jp">この地域[ちいき]の主[おも]な産業[さんぎょう]は農業[のうぎょう]です。</div>
+    <div class="de spoiler">Die Hauptindustrie in dieser Region ist die Landwirtschaft.</div>
+  </div>

@@ -2,24 +2,115 @@ Rang: 1875
 Lemma: 収める
 Lesung: おさめる
 Tonhöhen: .^\.
-Definition: erhalten, gewinnen; setzen; behalten
-Alternativschreibweisen: ''
+Definition: (ein)sammeln; erzielen; bezahlen; regieren; beruhigen; erlernen
+Alternativschreibweisen: 納める・治める・修める
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 収めない・収めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その映画は大成功を収めた。
   その 映画[えいが]は 大成功[だいせいこう]を 収[おさ]めた。
-  Der Film war ein großer Erfolg.
+  Dieser Film war ein großer Erfolg.
+
+  新しい商品をビニール袋に収めた。
+  新[あたら]しい 商品[しょうひん]をビニール 袋[ぶくろ]に 収[おさ]めた。
+  Ich packte das neue Produkt in eine Plastiktüte.
+
+  彼は刀を鞘に収めた。
+  彼[かれ]は 刀[かたな]を 鞘[さや]に 収[おさ]めた。
+  Er steckte das Schwert in die Scheide zurück.
+
+  本を本棚に収めてください。
+  本[ほん]を 本棚[ほんだな]に 収[おさ]めてください。
+  Bitte stellen Sie das Buch ins Regal zurück.
+
+  荷物をトランクに収めた後、出発の準備が整った。
+  荷物[にもつ]をトランクに 収[おさ]めた 後[あと]、出発[しゅっぱつ]の 準備[じゅんび]が 整[ととの]った。
+  Nachdem ich das Gepäck im Kofferraum verstaut hatte, war ich bereit zur Abreise.
+
+  歴史的な瞬間をカメラに収めることができた。
+  歴史的[れきしてき]な 瞬間[しゅんかん]をカメラに 収[おさ]めることができた。
+  Ich konnte den historischen Moment mit der Kamera festhalten.
+
+  彼女の姿を目に収めながら、静かに部屋を出た。
+  彼女[かのじょ]の 姿[すがた]を 目[め]に 収[おさ]めながら、静[しず]かに 部屋[へや]を 出[で]た。
+  Ich verließ leise den Raum, während ich mir ihr Bild einprägte.
+
+  この本は15篇の論文を収めている。
+  この 本[ほん]は15篇[へん]の 論文[ろんぶん]を 収[おさ]めている。
+  Dieses Buch enthält 15 Aufsätze.
+
+  寺に30万円を収めた。
+  寺[てら]に30万円[まんえん]を 収[おさ]めた。
+  Ich spendete dem Tempel 300.000 Yen.
+
+  彼は権力を一手に収めた。
+  彼[かれ]は 権力[けんりょく]を 一手[ひとて]に 収[おさ]めた。
+  Er erlangte die alleinige Macht.
+
+  会社は大きな利益を収めた。
+  会社[かいしゃ]は 大[おお]きな 利益[りえき]を 収[おさ]めた。
+  Das Unternehmen erzielte einen großen Gewinn.
+
+  チームは見事な勝利を収めた。
+  チームは 見事[みごと]な 勝利[しょうり]を 収[おさ]めた。
+  Das Team errang einen glänzenden Sieg.
+
+  税金をきちんと収めるのは市民の義務だ。
+  税金[ぜいきん]をきちんと 収[おさ]めるのは 市民[しみん]の 義務[ぎむ]だ。
+  Es ist die Pflicht der Bürger, ihre Steuern ordnungsgemäß zu zahlen.
+
+  彼は長年の研究を収めて、ついに博士号を取得した。
+  彼[かれ]は 長年[ながねん]の 研究[けんきゅう]を 収[おさ]めて、ついに 博士号[はくしごう]を 取得[しゅとく]した。
+  Er schloss seine langjährige Forschung ab und erwarb schließlich den Doktortitel.
+
+  この王は国を賢明に治めた。
+  この 王[おう]は 国[くに]を 賢明[けんめい]に 治[おさ]めた。
+  Dieser König regierte das Land weise.
+
+  母は家庭を上手に治めている。
+  母[はは]は 家庭[かてい]を 上手[じょうず]に 治[おさ]めている。
+  Meine Mutter führt den Haushalt geschickt.
+
+  医者は患者の痛みをうまく治めた。
+  医者[いしゃ]は 患者[かんじゃ]の 痛[いた]みをうまく 治[おさ]めた。
+  Der Arzt linderte den Schmerz des Patienten erfolgreich.
+
+  彼は怒りを治めて冷静に対応した。
+  彼[かれ]は 怒[いか]りを 治[おさ]めて 冷静[れいせい]に 対応[たいおう]した。
+  Er brachte seine Wut unter Kontrolle und reagierte ruhig.
+
+  彼女は長年の修行を経て、茶道を修めた。
+  彼女[かのじょ]は 長年[ながねん]の 修行[しゅぎょう]を 経[へ]て、茶道[さどう]を 修[おさ]めた。
+  Sie eignete sich die Teezeremonie durch jahrelanges Training an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>収める (おさめる) hat verschiedene Bedeutungen je nach Kontext und verwendeten Kanji:</p>
+  <ul>
+    <li>納める / 収める: etwas einsammeln, aufbewahren oder bezahlen</li>
+    <li>治める: regieren, kontrollieren oder beruhigen</li>
+    <li>修める: sich etwas aneignen oder lernen</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">税金[ぜいきん]を 納[おさ]める</div>
+    <div class="de spoiler">Steuern zahlen</div>
+  </div>
+  <div class="examples">
+    <div class="jp">国[くに]を 治[おさ]める</div>
+    <div class="de spoiler">ein Land regieren</div>
+  </div>
+  <div class="examples">
+    <div class="jp">学問[がくもん]を 修[おさ]める</div>
+    <div class="de spoiler">sich Wissen aneignen</div>
+  </div>

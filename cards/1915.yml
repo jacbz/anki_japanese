@@ -3,12 +3,12 @@ Lemma: 問い合わせ
 Lesung: といあわせ
 Tonhöhen: .^^^^
 Definition: Anfrage
-Alternativschreibweisen: ''
+Alternativschreibweisen: 問合せ
 Extra: '' # Nur bei suru-Verben
 Wortart: n, vt
 Register: ↗Zeitungen
 Ursprung: ''
-Konjugation: ''
+Konjugation: 問い合わせる・問い合わせた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -20,6 +20,82 @@ Beispielsätze: |-
   問い合わせは以下のアドレスにお願いします。
   問[と]い 合[あ]わせは 以下[いか]のアドレスにお 願[ねが]いします。
   Anfragen sollten an folgende Adresse gerichtet werden.
+
+  詳細については電話にてお問い合わせ下さい。
+  詳細[しょうさい]については 電話[でんわ]にてお 問[と]い 合[あ]わせ 下[くだ]さい。
+  Für nähere Informationen rufen Sie uns bitte an.
+
+  あれはどういう星ですかという問い合わせが科学会議に何通も届いた。
+  あれはどういう 星[ほし]ですかという 問[と]い 合[あ]わせが 科学会議[かがくかいぎ]に 何通[なんつう]も 届[とど]いた。
+  Beim Wissenschaftsrat gingen zahlreiche Anfragen nach der Art der Sterne ein.
+
+  問い合わせ状を送付しましたが、まだ返事がありません。
+  問[と]い 合[あ]わせ 状[じょう]を 送付[そうふ]しましたが、まだ 返事[へんじ]がありません。
+  Ich habe ein Anfrageschreiben geschickt, aber noch keine Antwort erhalten.
+
+  この商品についての問い合わせ先はどこですか。
+  この 商品[しょうひん]についての 問[と]い 合[あ]わせ 先[さき]はどこですか。
+  Wo ist die Auskunftsstelle für dieses Produkt?
+
+  昨日、お客様から多くの問い合わせを受けました。
+  昨日[きのう]、お 客様[きゃくさま]から 多[おお]くの 問[と]い 合[あ]わせを 受[う]けました。
+  Gestern haben wir viele Anfragen von Kunden erhalten.
+
+  メールによる問い合わせが増えています。
+  メールによる 問[と]い 合[あ]わせが 増[ふ]えています。
+  Die Anzahl der per E-Mail gestellten Anfragen nimmt zu.
+
+  問い合わせ先の連絡先を教えてください。
+  問[と]い 合[あ]わせ 先[さき]の 連絡先[れんらくさき]を 教[おし]えてください。
+  Bitte teilen Sie mir die Kontaktdaten der Auskunftsstelle mit.
+
+  サポートセンターに問い合わせをしたら、すぐに解決策を教えてくれた。
+  サポートセンターに 問[と]い 合[あ]わせをしたら、すぐに 解決策[かいけつさく]を 教[おし]えてくれた。
+  Als ich beim Support-Center anfragte, gaben sie mir sofort eine Lösung.
+
+  新製品についての問い合わせが殺到しています。
+  新製品[しんせいひん]についての 問[と]い 合[あ]わせが 殺到[さっとう]しています。
+  Wir werden mit Anfragen zu dem neuen Produkt überhäuft.
+
+  問い合わせフォームに必要事項を記入してください。
+  問[と]い 合[あ]わせフォームに 必要事項[ひつようじこう]を 記入[きにゅう]してください。
+  Bitte füllen Sie das Anfrageformular mit den erforderlichen Informationen aus.
+
+  ご不明な点がございましたら、お問い合わせください。
+  ご 不明[ふめい]な 点[てん]がございましたら、お 問[と]い 合[あ]わせください。
+  Wenn Sie Fragen haben, kontaktieren Sie uns bitte.
+
+  彼女は問い合わせの対応に慣れている。
+  彼女[かのじょ]は 問[と]い 合[あ]わせの 対応[たいおう]に 慣[な]れている。
+  Sie ist daran gewöhnt, Anfragen zu bearbeiten.
+
+  問い合わせに迅速に返答することが重要だ。
+  問[と]い 合[あ]わせに 迅速[じんそく]に 返答[へんとう]することが 重要[じゅうよう]だ。
+  Es ist wichtig, Anfragen schnell zu beantworten.
+
+  電話での問い合わせは営業時間内にお願いします。
+  電話[でんわ]での 問[と]い 合[あ]わせは 営業時間内[えいぎょうじかんない]にお 願[ねが]いします。
+  Bitte stellen Sie telefonische Anfragen während der Geschäftszeiten.
+
+  問い合わせの内容によって、担当部署が異なります。
+  問[と]い 合[あ]わせの 内容[ないよう]によって、担当部署[たんとうぶしょ]が 異[こと]なります。
+  Je nach Art der Anfrage ist eine andere Abteilung zuständig.
+
+  問い合わせの多い質問をFAQにまとめました。
+  問[と]い 合[あ]わせの 多[おお]い 質問[しつもん]をFAQにまとめました。
+  Wir haben häufig gestellte Fragen in den FAQ zusammengefasst.
+
+  新しいサービスについて問い合わせが殺到している。
+  新[あたら]しいサービスについて 問[と]い 合[あ]わせが 殺到[さっとう]している。
+  Wir werden mit Anfragen zu unserem neuen Service überhäuft.
+
+  お客様からの問い合わせに丁寧に対応してください。
+  お 客様[きゃくさま]からの 問[と]い 合[あ]わせに 丁寧[ていねい]に 対応[たいおう]してください。
+  Bitte behandeln Sie Kundenanfragen höflich.
+
+  問い合わせの返信が遅れて申し訳ありません。
+  問[と]い 合[あ]わせの 返信[へんしん]が 遅[おく]れて 申[もう]し 訳[わけ]ありません。
+  Ich entschuldige mich für die verspätete Antwort auf Ihre Anfrage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

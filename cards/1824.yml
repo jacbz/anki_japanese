@@ -2,13 +2,13 @@ Rang: 1824
 Lemma: のぞく
 Lesung: ''
 Tonhöhen: .^^
-Definition: durchschauen, hinunterschauen; vorbeischauen
-Alternativschreibweisen: ''
+Definition: hervorschauen; spähen
+Alternativschreibweisen: 覘く・臨く
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: のぞかない・のぞいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,105 @@ Beispielsätze: |-
   彼女[かのじょ]は 窓[まど]から 中[なか]をのぞいた。
   Sie schaute durch das Fenster hinein.
 
+  ポケットからハンカチがのぞいていた。
+  ポケットからハンカチがのぞいていた。
+  Ein Taschentuch lugte aus der Tasche hervor.
+
+  月が枝からのぞいていた。
+  月[つき]が 枝[えだ]からのぞいていた。
+  Der Mond schien zwischen den Zweigen hervor.
+
+  苔の隙間から赤い煉瓦がのぞいていた。
+  苔[こけ]の 隙間[すきま]から 赤[あか]い 煉瓦[れんが]がのぞいていた。
+  Zwischen dem Moos schaute roter Ziegel hervor.
+
+  帽子の下からブロンドの髪がのぞいていた。
+  帽子[ぼうし]の 下[した]からブロンドの 髪[かみ]がのぞいていた。
+  Unter der Mütze lugte blondes Haar hervor.
+
+  彼は望遠鏡をのぞいて星を観察した。
+  彼[かれ]は 望遠鏡[ぼうえんきょう]をのぞいて 星[ほし]を 観察[かんさつ]した。
+  Er beobachtete die Sterne durch ein Teleskop.
+
+  ドアの隙間から部屋の中をのぞいてみた。
+  ドアの 隙間[すきま]から 部屋[へや]の 中[なか]をのぞいてみた。
+  Ich warf einen Blick durch den Türspalt ins Zimmer.
+
+  本を少しのぞいてみただけだ。
+  本[ほん]を 少[すこ]しのぞいてみただけだ。
+  Ich habe nur kurz in das Buch geschaut.
+
+  生垣の間から隣の庭をのぞくのは良くない。
+  生垣[いけがき]の 間[あいだ]から 隣[となり]の 庭[にわ]をのぞくのは 良[よ]くない。
+  Es ist nicht gut, durch die Hecke in den Garten des Nachbarn zu spähen.
+
+  鏡をのぞいて髪型を直した。
+  鏡[かがみ]をのぞいて 髪型[かみがた]を 直[なお]した。
+  Ich warf einen Blick in den Spiegel und richtete meine Frisur.
+
+  他人の手紙をのぞくのは失礼だ。
+  他人[たにん]の 手紙[てがみ]をのぞくのは 失礼[しつれい]だ。
+  Es ist unhöflich, die Briefe anderer Leute zu lesen.
+
+  時計をのぞいて、もう遅刻だと気づいた。
+  時計[とけい]をのぞいて、もう 遅刻[ちこく]だと 気[き]づいた。
+  Ich schaute auf die Uhr und merkte, dass ich schon zu spät war.
+
+  バスルームをのぞいたら、誰もいなかった。
+  バスルームをのぞいたら、誰[だれ]もいなかった。
+  Als ich ins Badezimmer schaute, war niemand da.
+
+  人垣の後ろから中をのぞこうとした。
+  人垣[ひとがき]の 後[うし]ろから 中[なか]をのぞこうとした。
+  Ich versuchte, über die Menschenmenge hinweg einen Blick auf das Geschehen zu werfen.
+
+  橋の上から川をのぞくと、魚が泳いでいるのが見えた。
+  橋[はし]の 上[うえ]から 川[かわ]をのぞくと、魚[さかな]が 泳[およ]いでいるのが 見[み]えた。
+  Als ich von der Brücke in den Fluss schaute, konnte ich Fische schwimmen sehen.
+
+  谷をのぞき込むと、息をのむような景色が広がっていた。
+  谷[たに]をのぞき 込[こ]むと、息[いき]をのむような 景色[けしき]が 広[ひろ]がっていた。
+  Als ich ins Tal hinunterblickte, bot sich mir eine atemberaubende Aussicht.
+
+  フリーマーケットをのぞいて、面白い掘り出し物を探した。
+  フリーマーケットをのぞいて、面白[おもしろ]い 掘[ほ]り 出[だ]し 物[もの]を 探[さが]した。
+  Ich schaute auf dem Flohmarkt vorbei, um nach interessanten Schnäppchen zu suchen.
+
+  展覧会をのぞいて、最新のアート作品を見てきた。
+  展覧会[てんらんかい]をのぞいて、最新[さいしん]のアート 作品[さくひん]を 見[み]てきた。
+  Ich besuchte die Ausstellung und sah mir die neuesten Kunstwerke an.
+
+  古本屋をのぞいて、珍しい本を見つけた。
+  古本屋[ふるほんや]をのぞいて、珍[めずら]しい 本[ほん]を 見[み]つけた。
+  Ich stöberte in einem Antiquariat und fand ein seltenes Buch.
+
+  実験をのぞいている学生たちは、真剣な表情をしていた。
+  実験[じっけん]をのぞいている 学生[がくせい]たちは、真剣[しんけん]な 表情[ひょうじょう]をしていた。
+  Die Studenten, die das Experiment beobachteten, hatten ernste Gesichtsausdrücke.
+
+  インターネットをのぞいて、最新のニュースを確認した。
+  インターネットをのぞいて、最新[さいしん]のニュースを 確認[かくにん]した。
+  Ich schaute ins Internet, um die neuesten Nachrichten zu überprüfen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>のぞく hat zwei Hauptbedeutungen:</p>
+  <p>1. Hervorschauen oder sichtbar sein:</p>
+  <div class="examples">
+    <div class="jp">ポケットからハンカチがのぞいていた。</div>
+    <div class="de spoiler">Das Taschentuch lugte aus der Tasche hervor.</div>
+  </div>
+  <p>2. (Heimlich oder flüchtig) schauen oder beobachten:</p>
+  <div class="examples">
+    <div class="jp">窓[まど]から 部屋[へや]の 中[なか]をのぞいてみた。</div>
+    <div class="de spoiler">Ich warf einen Blick durch das Fenster ins Zimmer.</div>
+  </div>
+  <p>Es kann auch bedeuten, irgendwohin zu gehen, um sich etwas anzusehen:</p>
+  <div class="examples">
+    <div class="jp">展覧会[てんらんかい]をのぞいてきた。</div>
+    <div class="de spoiler">Ich bin zur Ausstellung gegangen und habe sie mir angesehen.</div>
+  </div>

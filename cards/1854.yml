@@ -2,20 +2,96 @@ Rang: 1854
 Lemma: 試す
 Lesung: ためす
 Tonhöhen: .\.
-Definition: versuchen, probieren
-Alternativschreibweisen: ''
+Definition: testen, ausprobieren
+Alternativschreibweisen: 験す
 Extra: '' # Nur bei suru-Verben
-Wortart: vt, n
+Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 試さない・試した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   いろいろな方法を試してみたが、全部だめだった。
   いろいろな 方法[ほうほう]を 試[ため]してみたが、 全部[ぜんぶ]だめだった。
-  Ich habe viele Methoden ausprobiert, aber nichts hat funktioniert.
+  Ich habe verschiedene Methoden ausprobiert, aber keine hat funktioniert.
+
+  新しい機械を試す前に、説明書をよく読んでおいてください。
+  新[あたら]しい 機械[きかい]を 試[ため]す 前[まえ]に、説明書[せつめいしょ]をよく 読[よ]んでおいてください。
+  Bitte lesen Sie die Bedienungsanleitung sorgfältig, bevor Sie die neue Maschine testen.
+
+  この包丁の切れ味を試してみよう。
+  この 包丁[ほうちょう]の 切[き]れ 味[あじ]を 試[ため]してみよう。
+  Lass uns die Schärfe dieses Messers testen.
+
+  新商品のビールの味を試す会を開催します。
+  新商品[しんしょうひん]のビールの 味[あじ]を 試[ため]す 会[かい]を 開催[かいさい]します。
+  Wir veranstalten eine Verkostung, um den Geschmack des neuen Bierprodukts zu testen.
+
+  お風呂の温度を試してから入ってください。
+  お 風呂[ふろ]の 温度[おんど]を 試[ため]してから 入[はい]ってください。
+  Bitte prüfen Sie die Temperatur des Bades, bevor Sie einsteigen.
+
+  新薬を人に試す前に、動物実験を行う必要があります。
+  新薬[しんやく]を 人[ひと]に 試[ため]す 前[まえ]に、動物実験[どうぶつじっけん]を 行[おこな]う 必要[ひつよう]があります。
+  Bevor ein neues Medikament an Menschen getestet wird, müssen Tierversuche durchgeführt werden.
+
+  試験で生徒の知識を試すことになります。
+  試験[しけん]で 生徒[せいと]の 知識[ちしき]を 試[ため]すことになります。
+  In der Prüfung werden wir das Wissen der Schüler testen.
+
+  将棋大会で自分の棋力を試す良い機会だ。
+  将棋大会[しょうぎたいかい]で 自分[じぶん]の 棋力[きりょく]を 試[ため]す 良[よ]い 機会[きかい]だ。
+  Das Shogi-Turnier ist eine gute Gelegenheit, meine Spielstärke auf die Probe zu stellen.
+
+  新しい仕事で腕を試すチャンスをもらった。
+  新[あたら]しい 仕事[しごと]で 腕[うで]を 試[ため]すチャンスをもらった。
+  Ich habe die Chance bekommen, meine Fähigkeiten in einem neuen Job unter Beweis zu stellen.
+
+  カジノで運を試してみたいけど、お金を失うのが怖い。
+  カジノで 運[うん]を 試[ため]してみたいけど、お 金[かね]を 失[うしな]うのが 怖[こわ]い。
+  Ich möchte mein Glück im Casino versuchen, aber ich habe Angst, Geld zu verlieren.
+
+  彼女は常に私の忍耐を試しているようだ。
+  彼女[かのじょ]は 常[つね]に 私[わたし]の 忍耐[にんたい]を 試[ため]しているようだ。
+  Sie scheint ständig meine Geduld auf die Probe zu stellen.
+
+  この商品を試す前に、アレルギー反応がないか確認してください。
+  この 商品[しょうひん]を 試[ため]す 前[まえ]に、アレルギー 反応[はんのう]がないか 確認[かくにん]してください。
+  Bitte überprüfen Sie vor dem Testen dieses Produkts, ob Sie keine allergische Reaktion haben.
+
+  新しい料理のレシピを試してみたら、意外とおいしかった。
+  新[あたら]しい 料理[りょうり]のレシピを 試[ため]してみたら、意外[いがい]とおいしかった。
+  Als ich das Rezept für ein neues Gericht ausprobierte, war es überraschend lecker.
+
+  この靴を試す前に、サイズが合っているか確認しましょう。
+  この 靴[くつ]を 試[ため]す 前[まえ]に、サイズが 合[あ]っているか 確認[かくにん]しましょう。
+  Lass uns überprüfen, ob die Größe stimmt, bevor wir diese Schuhe anprobieren.
+
+  新しいダイエット方法を試してみたけど、効果がなかった。
+  新[あたら]しいダイエット 方法[ほうほう]を 試[ため]してみたけど、効果[こうか]がなかった。
+  Ich habe eine neue Diätmethode ausprobiert, aber sie hatte keine Wirkung.
+
+  彼は自分の限界を試すために、マラソンに挑戦した。
+  彼[かれ]は 自分[じぶん]の 限界[げんかい]を 試[ため]すために、マラソンに 挑戦[ちょうせん]した。
+  Er hat sich der Herausforderung eines Marathons gestellt, um seine Grenzen zu testen.
+
+  新しいアプリを試す前に、ユーザーレビューを確認するのが賢明だ。
+  新[あたら]しいアプリを 試[ため]す 前[まえ]に、ユーザーレビューを 確認[かくにん]するのが 賢明[けんめい]だ。
+  Es ist klug, die Benutzerrezensionen zu überprüfen, bevor man eine neue App ausprobiert.
+
+  この問題の解決策を試すには、時間がかかるかもしれません。
+  この 問題[もんだい]の 解決策[かいけつさく]を 試[ため]すには、時間[じかん]がかかるかもしれません。
+  Es könnte einige Zeit dauern, die Lösung für dieses Problem zu testen.
+
+  彼女は新しい髪型を試してみたが、気に入らなかった。
+  彼女[かのじょ]は 新[あたら]しい 髪型[かみがた]を 試[ため]してみたが、気[き]に 入[い]らなかった。
+  Sie hat eine neue Frisur ausprobiert, aber sie gefiel ihr nicht.
+
+  この製品の耐久性を試すために、厳しいテストを行います。
+  この 製品[せいひん]の 耐久性[たいきゅうせい]を 試[ため]すために、厳[きび]しいテストを 行[おこな]います。
+  Wir führen strenge Tests durch, um die Haltbarkeit dieses Produkts zu prüfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

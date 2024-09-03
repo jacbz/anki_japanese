@@ -2,13 +2,13 @@ Rang: 1828
 Lemma: 履く
 Lesung: はく
 Tonhöhen: .^
-Definition: anziehen, tragen
-Alternativschreibweisen: ''
+Definition: (Schuhe/Hosen) anziehen
+Alternativschreibweisen: 穿く
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 履かない・履いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,99 @@ Beispielsätze: |-
   彼女[かのじょ]はいつもジーンズを 履[は]いている。
   Sie trägt immer Jeans.
 
+  新しい靴を履いてみたら、少し大きかった。
+  新[あたら]しい 靴[くつ]を 履[は]いてみたら、少[すこ]し 大[おお]きかった。
+  Als ich die neuen Schuhe anprobierte, waren sie etwas zu groß.
+
+  冬は厚手の靴下を履くことが多いです。
+  冬[ふゆ]は 厚手[あつで]の 靴下[くつした]を 履[は]くことが 多[おお]いです。
+  Im Winter trage ich oft dicke Socken.
+
+  彼はスーツに合わせて黒い革靴を履いた。
+  彼[かれ]はスーツに 合[あ]わせて 黒[くろ]い 革靴[かわぐつ]を 履[は]いた。
+  Er zog schwarze Lederschuhe passend zu seinem Anzug an.
+
+  スカートを履くときは、タイツも一緒に履くことが多い。
+  スカートを 履[は]くときは、タイツも 一緒[いっしょ]に 履[は]くことが 多[おお]い。
+  Wenn ich einen Rock anziehe, trage ich oft auch Strumpfhosen dazu.
+
+  ハイヒールを履くと背が高く見えますね。
+  ハイヒールを 履[は]くと 背[せ]が 高[たか]く 見[み]えますね。
+  Mit High Heels sieht man größer aus, nicht wahr?
+
+  子供の頃、母に靴の履き方を教えてもらいました。
+  子供[こども]の 頃[ころ]、母[はは]に 靴[くつ]の 履[は]き 方[かた]を 教[おし]えてもらいました。
+  Als Kind hat mir meine Mutter beigebracht, wie man Schuhe anzieht.
+
+  トレッキングには丈夫な靴を履いていくべきだ。
+  トレッキングには 丈夫[じょうぶ]な 靴[くつ]を 履[は]いていくべきだ。
+  Für eine Wanderung sollte man robuste Schuhe tragen.
+
+  雨の日はレインブーツを履くのが一番だ。
+  雨[あめ]の 日[ひ]はレインブーツを 履[は]くのが 一番[いちばん]だ。
+  An Regentagen ist es am besten, Gummistiefel zu tragen.
+
+  水泳パンツを履いているだけで海に入った。
+  水泳[すいえい]パンツを 履[は]いているだけで 海[うみ]に 入[はい]った。
+  Ich ging nur mit einer Badehose bekleidet ins Meer.
+
+  サンダルを履いて外出するのは避けた方がいい。
+  サンダルを 履[は]いて 外出[がいしゅつ]するのは 避[さ]けた 方[ほう]がいい。
+  Es ist besser, keine Sandalen zu tragen, wenn man ausgeht.
+
+  彼女はハイソックスを履いて制服を着ている。
+  彼女[かのじょ]はハイソックスを 履[は]いて 制服[せいふく]を 着[き]ている。
+  Sie trägt hohe Socken zu ihrer Schuluniform.
+
+  靴を履く前に、靴紐をほどいておくといいですよ。
+  靴[くつ]を 履[は]く 前[まえ]に、靴紐[くつひも]をほどいておくといいですよ。
+  Es ist gut, die Schnürsenkel zu lösen, bevor man die Schuhe anzieht.
+
+  寒い日はウールの靴下を履くと足が暖かいです。
+  寒[さむ]い 日[ひ]はウールの 靴下[くつした]を 履[は]くと 足[あし]が 暖[あたた]かいです。
+  An kalten Tagen halten Wollsocken die Füße warm.
+
+  彼は常にスニーカーを履いているね。
+  彼[かれ]は 常[つね]にスニーカーを 履[は]いているね。
+  Er trägt immer Turnschuhe.
+
+  足のサイズに合った靴を履くことが大切です。
+  足[あし]のサイズに 合[あ]った 靴[くつ]を 履[は]くことが 大切[たいせつ]です。
+  Es ist wichtig, Schuhe zu tragen, die zur Größe deiner Füße passen.
+
+  お祭りの時は、浴衣に下駄を履くのが一般的だ。
+  お 祭[まつ]りの 時[とき]は、浴衣[ゆかた]に 下駄[げた]を 履[は]くのが 一般的[いっぱんてき]だ。
+  Bei Festivals ist es üblich, Geta-Sandalen zu einem Yukata zu tragen.
+
+  長距離を歩くときは、履き慣れた靴を選ぶべきだ。
+  長距離[ちょうきょり]を 歩[ある]くときは、履[は]き 慣[な]れた 靴[くつ]を 選[えら]ぶべきだ。
+  Für lange Strecken sollte man Schuhe wählen, die man gewohnt ist zu tragen.
+
+  彼女はハイヒールを履きこなすのが上手だ。
+  彼女[かのじょ]はハイヒールを 履[は]きこなすのが 上手[じょうず]だ。
+  Sie ist geschickt darin, in High Heels zu laufen.
+
+  雪の日は滑りにくい靴底の靴を履くことをお勧めします。
+  雪[ゆき]の 日[ひ]は 滑[すべ]りにくい 靴底[くつぞこ]の 靴[くつ]を 履[は]くことをお 勧[すす]めします。
+  An Schneetagen empfehle ich, Schuhe mit rutschfesten Sohlen zu tragen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>履く wird meist für Fußbekleidung verwendet, während 穿く eher für Beinbekleidung benutzt wird.</p>
+  <div class="examples">
+    <div class="jp">新[あたら]しい 靴[くつ]を 履[は]く。</div>
+    <div class="de spoiler">Neue Schuhe anziehen.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">ジーンズを 穿[は]く。</div>
+    <div class="de spoiler">Eine Jeans anziehen.</div>
+  </div>
+  <p>Oft wird -ている verwendet, um auszudrücken, dass man etwas trägt oder anhat.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 黒[くろ]い 靴[くつ]を 履[は]いている。</div>
+    <div class="de spoiler">Er trägt schwarze Schuhe.</div>
+  </div>

@@ -14,12 +14,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そのチケットは四十八時間有効です。
-  そのチケットは四十八 時[じ] 間[ま] 有効[ゆうこう]です。
-  Das Ticket ist für achtundvierzig Stunden gültig.
+  そのチケットは 四十八時間[よんじゅうはちじかん] 有効[ゆうこう]です。
+  Dieses Ticket ist 48 Stunden gültig.
+
+  このクーポンの有効期限は来月末までです。
+  このクーポンの 有効期限[ゆうこうきげん]は 来月末[らいげつまつ]までです。
+  Die Gültigkeit dieses Gutscheins läuft bis Ende nächsten Monats.
+
+  この薬は風邪に対して有効だと言われています。
+  この 薬[くすり]は 風邪[かぜ]に 対[たい]して 有効[ゆうこう]だと 言[い]われています。
+  Es heißt, dieses Medikament sei wirksam gegen Erkältungen.
+
+  時間を有効に使うことは大切です。
+  時間[じかん]を 有効[ゆうこう]に 使[つか]うことは 大切[たいせつ]です。
+  Es ist wichtig, seine Zeit effektiv zu nutzen.
+
+  この契約書はまだ有効期間内です。
+  この 契約書[けいやくしょ]はまだ 有効期間内[ゆうこうきかんない]です。
+  Dieser Vertrag ist noch innerhalb seiner Gültigkeitsdauer.
+
+  ストレス解消に有効な方法を見つけました。
+  ストレス 解消[かいしょう]に 有効[ゆうこう]な 方法[ほうほう]を 見[み]つけました。
+  Ich habe eine wirksame Methode zur Stressbekämpfung gefunden.
+
+  彼の提案は問題解決に有効だった。
+  彼[かれ]の 提案[ていあん]は 問題解決[もんだいかいけつ]に 有効[ゆうこう]だった。
+  Sein Vorschlag war effektiv zur Problemlösung.
+
+  この商品券は全店舗で有効です。
+  この 商品券[しょうひんけん]は 全[ぜん]店舗[てんぽ]で 有効[ゆうこう]です。
+  Dieser Geschenkgutschein ist in allen Filialen gültig.
+
+  新しい広告戦略が有効だったようだ。
+  新[あたら]しい 広告戦略[こうこくせんりゃく]が 有効[ゆうこう]だったようだ。
+  Die neue Werbestrategie scheint wirksam gewesen zu sein.
+
+  この治療法は多くの患者に有効です。
+  この 治療法[ちりょうほう]は 多[おお]くの 患者[かんじゃ]に 有効[ゆうこう]です。
+  Diese Behandlungsmethode ist für viele Patienten wirksam.
+
+  有効な対策を立てるために会議を開きます。
+  有効[ゆうこう]な 対策[たいさく]を 立[た]てるために 会議[かいぎ]を 開[ひら]きます。
+  Wir halten eine Besprechung ab, um effektive Maßnahmen zu entwickeln.
+
+  この薬の有効成分は天然由来です。
+  この 薬[くすり]の 有効成分[ゆうこうせいぶん]は 天然由来[てんねんゆらい]です。
+  Der Wirkstoff dieses Medikaments ist natürlichen Ursprungs.
+
+  余暇を有効に過ごすことで、生産性が上がります。
+  余暇[よか]を 有効[ゆうこう]に 過[す]ごすことで、生産性[せいさんせい]が 上[あ]がります。
+  Indem man seine Freizeit sinnvoll verbringt, steigert sich die Produktivität.
+
+  この方法は時間の有効活用に役立ちます。
+  この 方法[ほうほう]は 時間[じかん]の 有効活用[ゆうこうかつよう]に 役立[やくだ]ちます。
+  Diese Methode hilft bei der effektiven Nutzung der Zeit.
+
+  有効票の集計結果が発表されました。
+  有効票[ゆうこうひょう]の 集計結果[しゅうけいけっか]が 発表[はっぴょう]されました。
+  Das Ergebnis der Auszählung der gültigen Stimmen wurde bekanntgegeben.
+
+  この技術は環境保護に有効だと考えられています。
+  この 技術[ぎじゅつ]は 環境保護[かんきょうほご]に 有効[ゆうこう]だと 考[かんが]えられています。
+  Diese Technologie wird als wirksam für den Umweltschutz angesehen.
+
+  有効な解決策を見つけるのは簡単ではありません。
+  有効[ゆうこう]な 解決策[かいけつさく]を 見[み]つけるのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, eine wirksame Lösung zu finden.
+
+  この会員カードは来年まで有効です。
+  この 会員[かいいん]カードは 来年[らいねん]まで 有効[ゆうこう]です。
+  Diese Mitgliedskarte ist bis nächstes Jahr gültig.
+
+  新薬の有効性が臨床試験で証明されました。
+  新薬[しんやく]の 有効性[ゆうこうせい]が 臨床試験[りんしょうしけん]で 証明[しょうめい]されました。
+  Die Wirksamkeit des neuen Medikaments wurde in klinischen Studien nachgewiesen.
+
+  このワクチンは複数のウイルス株に対して有効です。
+  このワクチンは 複数[ふくすう]のウイルス 株[かぶ]に 対[たい]して 有効[ゆうこう]です。
+  Dieser Impfstoff ist gegen mehrere Virusstämme wirksam.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 有効 (ゆうこう) hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Gültigkeit: Es bezieht sich auf die rechtliche oder zeitliche Gültigkeit von Dokumenten, Verträgen oder Vereinbarungen.</li>
+    <li>Wirksamkeit oder Effektivität: Es beschreibt die Fähigkeit, den gewünschten Effekt zu erzielen oder ein bestimmtes Ziel zu erreichen.</li>
+  </ol>
+  <p>Verwendungsbeispiele:</p>
+  <div class="examples">
+    <div class="jp">この 切符[きっぷ]は 今日[きょう]まで 有効[ゆうこう]です。</div>
+    <div class="de spoiler">Diese Fahrkarte ist bis heute gültig.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">この 方法[ほうほう]は 問題解決[もんだいかいけつ]に 有効[ゆうこう]だと 思[おも]います。</div>
+    <div class="de spoiler">Ich denke, diese Methode ist effektiv zur Problemlösung.</div>
+  </div>
+  <p>In der Umgangssprache wird 有効 oft verwendet, um zu betonen, dass etwas nützlich oder hilfreich ist:</p>
+  <div class="examples">
+    <div class="jp">時間[じかん]を 有効[ゆうこう]に 使[つか]おう。</div>
+    <div class="de spoiler">Lass uns die Zeit effektiv nutzen.</div>
+  </div>

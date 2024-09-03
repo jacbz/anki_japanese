@@ -2,10 +2,10 @@ Rang: 1866
 Lemma: ごく
 Lesung: ''
 Tonhöhen: \.
-Definition: sehr
-Alternativschreibweisen: ''
+Definition: äußerst, extrem
+Alternativschreibweisen: 極
 Extra: '' # Nur bei suru-Verben
-Wortart: n, num, adv
+Wortart: adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   私はごく普通の家庭で育った。
   私[わたし]はごく 普通[ふつう]の 家庭[かてい]で 育[そだ]った。
-  Ich bin in einer sehr durchschnittlichen Familie aufgewachsen.
+  Ich bin in einer ganz normalen Familie aufgewachsen.
+
+  この店のコーヒーはごく普通の味だ。
+  この 店[みせ]のコーヒーはごく 普通[ふつう]の 味[あじ]だ。
+  Der Kaffee in diesem Laden schmeckt ganz gewöhnlich.
+
+  ごく稀に、彼女は笑顔を見せる。
+  ごく 稀[まれ]に、彼女[かのじょ]は 笑顔[えがお]を 見[み]せる。
+  Äußerst selten zeigt sie ein Lächeln.
+
+  この本はごく短い物語集だ。
+  この 本[ほん]はごく 短[みじか]い 物語集[ものがたりしゅう]だ。
+  Dieses Buch ist eine Sammlung extrem kurzer Geschichten.
+
+  ごく内密の話をしたいのですが。
+  ごく 内密[ないみつ]の 話[はなし]をしたいのですが。
+  Ich möchte etwas unter dem Siegel strengster Verschwiegenheit besprechen.
+
+  これはごく内々の情報です。
+  これはごく 内々[ないない]の 情報[じょうほう]です。
+  Dies ist eine streng vertrauliche Information.
+
+  彼らはごく親しい間柄だ。
+  彼[かれ]らはごく 親[した]しい 間柄[あいだがら]だ。
+  Sie haben ein äußerst vertrautes Verhältnis zueinander.
+
+  この実験ではごく少ない量の試薬を使用します。
+  この 実験[じっけん]ではごく 少[すく]ない 量[りょう]の 試薬[しやく]を 使用[しよう]します。
+  In diesem Experiment verwenden wir eine verschwindend geringe Menge des Reagenz.
+
+  ごく弱い風が吹いている。
+  ごく 弱[よわ]い 風[かぜ]が 吹[ふ]いている。
+  Ein ganz schwacher Wind weht.
+
+  彼の死因はごくわずかな違いで決まった。
+  彼[かれ]の 死因[しいん]はごくわずかな 違[ちが]いで 決[き]まった。
+  Seine Todesursache wurde durch einen winzigen Unterschied bestimmt.
+
+  この棺はごく粗末なものだった。
+  この 棺[ひつぎ]はごく 粗末[そまつ]なものだった。
+  Dieser Sarg war äußerst schlicht.
+
+  ごく幼少の頃の記憶は薄れがちだ。
+  ごく 幼少[ようしょう]の 頃[ころ]の 記憶[きおく]は 薄[うす]れがちだ。
+  Erinnerungen aus der frühen Kindheit verblassen leicht.
+
+  この事件の真相はごく些細なことから明らかになった。
+  この 事件[じけん]の 真相[しんそう]はごく 些細[ささい]なことから 明[あき]らかになった。
+  Die Wahrheit dieses Vorfalls wurde durch eine Kleinigkeit aufgedeckt.
+
+  彼女の歌声はごく普通だが、表現力は抜群だ。
+  彼女[かのじょ]の 歌声[うたごえ]はごく 普通[ふつう]だが、表現力[ひょうげんりょく]は 抜群[ばつぐん]だ。
+  Ihre Gesangsstimme ist ganz gewöhnlich, aber ihre Ausdruckskraft ist außergewöhnlich.
+
+  この町ではごく普通に外国人を見かける。
+  この 町[まち]ではごく 普通[ふつう]に 外国人[がいこくじん]を 見[み]かける。
+  In dieser Stadt ist es ganz normal, Ausländer zu sehen.
+
+  ごく近いうちに結果が出ると思います。
+  ごく 近[ちか]いうちに 結果[けっか]が 出[で]ると 思[おも]います。
+  Ich denke, die Ergebnisse werden in sehr naher Zukunft vorliegen.
+
+  この商品はごく一般的な家庭用品です。
+  この 商品[しょうひん]はごく 一般的[いっぱんてき]な 家庭[かてい] 用品[ようひん]です。
+  Dieser Artikel ist ein ganz gewöhnlicher Haushaltsgegenstand.
+
+  ごく稀に見られる現象です。
+  ごく 稀[まれ]に 見[み]られる 現象[げんしょう]です。
+  Es ist ein äußerst selten beobachtetes Phänomen.
+
+  この料理はごく少量の塩で味が決まります。
+  この 料理[りょうり]はごく 少量[しょうりょう]の 塩[しお]で 味[あじ]が 決[き]まります。
+  Der Geschmack dieses Gerichts wird durch eine winzige Menge Salz bestimmt.
+
+  ごく当たり前のことを言っているだけです。
+  ごく 当[あ]たり 前[まえ]のことを 言[い]っているだけです。
+  Ich sage nur etwas ganz Selbstverständliches.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

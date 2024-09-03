@@ -2,7 +2,7 @@ Rang: 1782
 Lemma: 以外
 Lesung: いがい
 Tonhöhen: \..
-Definition: außer
+Definition: außer; abgesehen von
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   土曜と日曜以外は毎朝四時に起きている。
-  土曜[どよう]と 日曜[にちよう] 以外[いがい]は 毎朝[まいあさ]四 時[じ]に 起[お]きている。
-  Ich stehe jeden Tag außer samstags und sonntags um 4 Uhr morgens auf.
+  土曜[どよう]と 日曜[にちよう]以外[いがい]は 毎朝[まいあさ] 四時[よじ]に 起[お]きている。
+  Außer samstags und sonntags stehe ich jeden Morgen um vier Uhr auf.
+
+  英語以外の外国語も勉強したいです。
+  英語[えいご]以外[いがい]の 外国語[がいこくご]も 勉強[べんきょう]したいです。
+  Ich möchte auch andere Fremdsprachen außer Englisch lernen.
+
+  彼以外には誰も知らない秘密がある。
+  彼[かれ]以外[いがい]には 誰[だれ]も 知[し]らない 秘密[ひみつ]がある。
+  Es gibt ein Geheimnis, das außer ihm niemand kennt.
+
+  このレストランでは、水以外の飲み物は有料です。
+  このレストランでは、水[みず]以外[いがい]の 飲[の]み 物[もの]は 有料[ゆうりょう]です。
+  In diesem Restaurant sind alle Getränke außer Wasser kostenpflichtig.
+
+  灰色以外の色なら何でも好きです。
+  灰色[はいいろ]以外[いがい]の 色[いろ]なら 何[なん]でも 好[す]きです。
+  Ich mag alle Farben außer Grau.
+
+  月曜日以外は毎日ジムに行きます。
+  月曜日[げつようび]以外[いがい]は 毎日[まいにち]ジムに 行[い]きます。
+  Ich gehe jeden Tag ins Fitnessstudio, außer montags.
+
+  EU国籍以外の方はビザが必要です。
+  EU国籍[こくせき]以外[いがい]の 方[かた]はビザが 必要[ひつよう]です。
+  Personen ohne EU-Staatsbürgerschaft benötigen ein Visum.
+
+  消しゴム以外は何も持ってこなかった。
+  消[け]しゴム 以外[いがい]は 何[なに]も 持[も]ってこなかった。
+  Ich habe nichts außer einem Radiergummi mitgebracht.
+
+  これ以外に選択肢はありますか？
+  これ 以外[いがい]に 選択肢[せんたくし]はありますか？
+  Gibt es noch andere Optionen außer dieser?
+
+  京都以外で行きたい場所はどこですか？
+  京都[きょうと]以外[いがい]で 行[い]きたい 場所[ばしょ]はどこですか？
+  Welche Orte möchtest du außer Kyoto noch besuchen?
+
+  食べる以外に楽しみがないなんて寂しいね。
+  食[た]べる 以外[いがい]に 楽[たの]しみがないなんて 寂[さび]しいね。
+  Es ist traurig, wenn man an nichts außer Essen Freude hat.
+
+  それ以外は考えられないと思います。
+  それ 以外[いがい]は 考[かんが]えられないと 思[おも]います。
+  Ich denke, etwas anderes ist nicht vorstellbar.
+
+  長い髪以外には、昔の写真と似ているところはない。
+  長[なが]い 髪[かみ]以外[いがい]には、昔[むかし]の 写真[しゃしん]と 似[に]ているところはない。
+  Außer den langen Haaren gibt es keine Ähnlichkeit mit dem alten Foto.
+
+  食事と睡眠以外の時間はすべて勉強に使った。
+  食事[しょくじ]と 睡眠[すいみん]以外[いがい]の 時間[じかん]はすべて 勉強[べんきょう]に 使[つか]った。
+  Ich habe die ganze Zeit außer Essen und Schlafen zum Lernen verwendet.
+
+  彼女は食べる以外には口を開けなかった。
+  彼女[かのじょ]は 食[た]べる 以外[いがい]には 口[くち]を 開[あ]けなかった。
+  Sie öffnete ihren Mund nur zum Essen und sonst nicht.
+
+  このような方法以外に、彼女には選択肢がなかった。
+  このような 方法[ほうほう]以外[いがい]に、彼女[かのじょ]には 選択肢[せんたくし]がなかった。
+  Sie hatte keine andere Wahl, als es auf diese Weise zu tun.
+
+  医者は薬を3ヶ月分くれた以外には何も勧めなかった。
+  医者[いしゃ]は 薬[くすり]を3ヶ月分[かげつぶん]くれた 以外[いがい]には 何[なに]も 勧[すす]めなかった。
+  Außer der Medizin für drei Monate empfahl der Arzt nichts weiter.
+
+  これ以外に答える方法があっただろうか？
+  これ 以外[いがい]に 答[こた]える 方法[ほうほう]があっただろうか？
+  Hätte es eine andere Möglichkeit gegeben zu antworten?
+
+  ボート屋がしたこと以外に、他の可能性はありますか？
+  ボート 屋[や]がしたこと 以外[いがい]に、他[ほか]の 可能性[かのうせい]はありますか？
+  Gibt es andere Möglichkeiten, außer dass es jemand vom Bootsverleih war?
+
+  それ以外のことは思いつきませんでした。
+  それ 以外[いがい]のことは 思[おも]いつきませんでした。
+  Mir ist nichts anderes eingefallen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Wird an Substantive oder Satzteile angehängt, um auszudrücken, dass etwas ausgenommen oder ausgeschlossen ist.</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]以外[いがい]に 誰[だれ]も 知[し]らない。</div>
+    <div class='de spoiler'>Außer ihm weiß es niemand.</div>
+  </div>
+  <p>Kann auch verwendet werden, um eine Ausnahme oder einen Kontrast zu betonen.</p>
+  <div class='examples'>
+    <div class='jp'>日本語[にほんご]以外[いがい]の 言語[げんご]は 話[はな]せません。</div>
+    <div class='de spoiler'>Ich kann keine andere Sprache außer Japanisch sprechen.</div>
+  </div>
+  <p>Oft in Verbindung mit Verneinungen verwendet, um „nichts/niemand außer" auszudrücken.</p>
+  <div class='examples'>
+    <div class='jp'>勉強[べんきょう]以外[いがい]に 何[なに]もしていない。</div>
+    <div class='de spoiler'>Ich habe nichts anderes als gelernt.</div>
+  </div>

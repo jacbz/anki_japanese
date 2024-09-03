@@ -2,7 +2,7 @@ Rang: 1902
 Lemma: どころ
 Lesung: ''
 Tonhöhen: ''
-Definition: nicht einmal, im Gegenteil, weit entfernt davon
+Definition: weit davon entfernt; von ... kann keine Rede sein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
@@ -17,9 +17,95 @@ Beispielsätze: |-
   彼[かれ]はワインどころかビールも 飲[の]まない。
   Er trinkt nicht einmal Bier, geschweige denn Wein.
 
+  この状況では休むどころではない。
+  この 状況[じょうきょう]では 休[やす]むどころではない。
+  In dieser Situation kann von Ausruhen keine Rede sein.
+
+  今は喜ぶどころではありません。
+  今[いま]は 喜[よろこ]ぶどころではありません。
+  Jetzt ist nicht die Zeit, sich zu freuen.
+
+  彼女は怒るどころか、むしろ喜んでいた。
+  彼女[かのじょ]は 怒[おこ]るどころか、むしろ 喜[よろこ]んでいた。
+  Weit davon entfernt, wütend zu sein, war sie sogar eher erfreut.
+
+  この町は観光どころか、住むのにも適していない。
+  この 町[まち]は 観光[かんこう]どころか、住[す]むのにも 適[てき]していない。
+  Diese Stadt eignet sich nicht nur nicht zum Tourismus, sondern auch nicht zum Wohnen.
+
+  試験に合格するどころか、半分も解けなかった。
+  試験[しけん]に 合格[ごうかく]するどころか、半分[はんぶん]も 解[と]けなかった。
+  Ich konnte nicht einmal die Hälfte der Prüfung lösen, geschweige denn bestehen.
+
+  彼は走るどころか、まともに歩くこともできない。
+  彼[かれ]は 走[はし]るどころか、まともに 歩[ある]くこともできない。
+  Er kann nicht einmal richtig gehen, geschweige denn laufen.
+
+  今日は忙しくて、昼食を食べるどころではなかった。
+  今日[きょう]は 忙[いそが]しくて、昼食[ちゅうしょく]を 食[た]べるどころではなかった。
+  Heute war ich so beschäftigt, dass ich nicht einmal zum Mittagessen kam.
+
+  彼女は英語が話せるどころか、読むこともできない。
+  彼女[かのじょ]は 英語[えいご]が 話[はな]せるどころか、読[よ]むこともできない。
+  Sie kann Englisch nicht einmal lesen, geschweige denn sprechen.
+
+  この問題は簡単どころか、とても難しい。
+  この 問題[もんだい]は 簡単[かんたん]どころか、とても 難[むずか]しい。
+  Dieses Problem ist alles andere als einfach, es ist sehr schwierig.
+
+  彼は料理ができるどころか、お湯も沸かせない。
+  彼[かれ]は 料理[りょうり]ができるどころか、お 湯[ゆ]も 沸[わ]かせない。
+  Er kann nicht einmal Wasser kochen, geschweige denn kochen.
+
+  今は笑うどころではない状況だ。
+  今[いま]は 笑[わら]うどころではない 状況[じょうきょう]だ。
+  Dies ist keine Situation zum Lachen.
+
+  彼女は歌うどころか、音程も取れない。
+  彼女[かのじょ]は 歌[うた]うどころか、音程[おんてい]も 取[と]れない。
+  Sie kann nicht einmal die richtigen Töne treffen, geschweige denn singen.
+
+  この町は観光どころではない寂しい場所だ。
+  この 町[まち]は 観光[かんこう]どころではない 寂[さび]しい 場所[ばしょ]だ。
+  Diese Stadt ist ein einsamer Ort, von Tourismus kann keine Rede sein.
+
+  彼は一人で生活できるどころか、基本的なことも難しい。
+  彼[かれ]は 一人[ひとり]で 生活[せいかつ]できるどころか、基本的[きほんてき]なことも 難[むずか]しい。
+  Er kann nicht einmal grundlegende Dinge bewältigen, geschweige denn alleine leben.
+
+  今日は寝るどころか、目を閉じる暇もない。
+  今日[きょう]は 寝[ね]るどころか、目[め]を 閉[と]じる 暇[ひま]もない。
+  Heute habe ich keine Zeit, die Augen zu schließen, geschweige denn zu schlafen.
+
+  彼女は料理が上手どころか、天才的だ。
+  彼女[かのじょ]は 料理[りょうり]が 上手[じょうず]どころか、天才的[てんさいてき]だ。
+  Sie ist nicht nur gut im Kochen, sie ist geradezu genial.
+
+  この問題は難しいどころか、ほぼ不可能だ。
+  この 問題[もんだい]は 難[むずか]しいどころか、ほぼ 不可能[ふかのう]だ。
+  Dieses Problem ist nicht nur schwierig, es ist fast unmöglich.
+
+  彼は失敗を恐れるどころか、むしろ挑戦を楽しんでいる。
+  彼[かれ]は 失敗[しっぱい]を 恐[おそ]れるどころか、むしろ 挑戦[ちょうせん]を 楽[たの]しんでいる。
+  Weit davon entfernt, Angst vor Misserfolg zu haben, genießt er vielmehr die Herausforderung.
+
+  この本は面白いどころか、退屈で読み進められない。
+  この 本[ほん]は 面白[おもしろ]いどころか、退屈[たいくつ]で 読[よ]み 進[すす]められない。
+  Dieses Buch ist alles andere als interessant, es ist so langweilig, dass ich nicht weiterlesen kann.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どころ wird oft in Verbindung mit der Negation verwendet, um auszudrücken, dass etwas weit davon entfernt ist oder dass von etwas keine Rede sein kann. Es verstärkt die Verneinung und betont den Kontrast zwischen der erwarteten und der tatsächlichen Situation.</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]は 英語[えいご]が 話[はな]せるどころか、挨拶[あいさつ]も 知[し]らない。</div>
+    <div class='de spoiler'>Er kann nicht einmal einfache Grüße auf Englisch, geschweige denn die Sprache sprechen.</div>
+  </div>
+  <p>どころ kann auch in affirmativen Sätzen verwendet werden, um etwas zu betonen, das über die Erwartungen hinausgeht:</p>
+  <div class='examples'>
+    <div class='jp'>彼女[かのじょ]は 美[うつく]しいどころか、まるで 天使[てんし]のようだ。</div>
+    <div class='de spoiler'>Sie ist nicht nur schön, sie ist geradezu engelhaft.</div>
+  </div>

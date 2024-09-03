@@ -2,20 +2,92 @@ Rang: 1871
 Lemma: 別れる
 Lesung: わかれる
 Tonhöhen: .^\.
-Definition: sich trennen; sich scheiden lassen; Schluss machen
-Alternativschreibweisen: ''
+Definition: sich trennen; sich teilen
+Alternativschreibweisen: 分かれる・岐れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 別れない・別れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼らは先月別れてしまった。
   彼[かれ]らは 先月[せんげつ] 別[わか]れてしまった。
-  Sie haben letzten Monat Schluss gemacht.
+  Sie haben sich letzten Monat getrennt.
+
+  駅で友達と別れた後、一人で帰宅しました。
+  駅[えき]で 友達[ともだち]と 別[わか]れた 後[あと]、一人[ひとり]で 帰宅[きたく]しました。
+  Nachdem ich mich am Bahnhof von meinem Freund verabschiedet hatte, ging ich allein nach Hause.
+
+  両親が別れて以来、父とはあまり会っていません。
+  両親[りょうしん]が 別[わか]れて 以来[いらい]、父[ちち]とはあまり 会[あ]っていません。
+  Seit sich meine Eltern getrennt haben, sehe ich meinen Vater kaum noch.
+
+  なかよく別れることができて良かったです。
+  なかよく 別[わか]れることができて 良[よ]かったです。
+  Es ist gut, dass wir uns freundschaftlich trennen konnten.
+
+  別れて住むことにしたカップルもいます。
+  別[わか]れて 住[す]むことにしたカップルもいます。
+  Es gibt auch Paare, die sich entschieden haben, getrennt zu leben.
+
+  自転車で帰る友人と工場の玄関先で別れました。
+  自転車[じてんしゃ]で 帰[かえ]る 友人[ゆうじん]と 工場[こうじょう]の 玄関先[げんかんさき]で 別[わか]れました。
+  Ich verabschiedete mich vor dem Eingang der Fabrik von meinem Freund, der mit dem Fahrrad nach Hause fuhr.
+
+  すぐ別れなければならないのは残念です。
+  すぐ 別[わか]れなければならないのは 残念[ざんねん]です。
+  Es ist schade, dass wir uns so schnell trennen müssen.
+
+  この頃、彼と別れることを考えるようになりました。
+  この 頃[ごろ]、彼[かれ]と 別[わか]れることを 考[かんが]えるようになりました。
+  In letzter Zeit denke ich darüber nach, mich von ihm zu trennen.
+
+  早くから両親に死に別れて、一人で生活しなければなりませんでした。
+  早[はや]くから 両親[りょうしん]に 死[し]に 別[わか]れて、一人[ひとり]で 生活[せいかつ]しなければなりませんでした。
+  Ich verlor meine Eltern früh und musste allein leben.
+
+  二組に分かれて宝探しゲームをしましょう。
+  二組[ふたくみ]に 分[わ]かれて 宝探[たからさが]しゲームをしましょう。
+  Lasst uns in zwei Gruppen aufteilen und eine Schatzsuche machen.
+
+  この道は五つの部分に分かれています。
+  この 道[みち]は 五[いつ]つの 部分[ぶぶん]に 分[わ]かれています。
+  Dieser Weg teilt sich in fünf Abschnitte.
+
+  道が二つに分かれているので、どちらに行くべきか迷っています。
+  道[みち]が 二[ふた]つに 分[わ]かれているので、どちらに 行[い]くべきか 迷[まよ]っています。
+  Der Weg gabelt sich, und ich bin unsicher, welche Richtung ich einschlagen soll.
+
+  分かれ！これ以上一緒にいられません。
+  分[わ]かれ！これ 以上[いじょう] 一緒[いっしょ]にいられません。
+  Geh weg! Ich kann nicht länger bei dir bleiben.
+
+  川は山の麓で二つに分かれて流れています。
+  川[かわ]は 山[やま]の 麓[ふもと]で 二[ふた]つに 分[わ]かれて 流[なが]れています。
+  Der Fluss teilt sich am Fuße des Berges in zwei Ströme.
+
+  グループ全体が十のチームに分かれて作業を行いました。
+  グループ 全体[ぜんたい]が 十[じゅう]のチームに 分[わ]かれて 作業[さぎょう]を 行[おこな]いました。
+  Die gesamte Gruppe teilte sich in zehn Teams auf, um die Arbeit durchzuführen.
+
+  少し歩くと道が二手に分かれていたので、右の道を選びました。
+  少[すこ]し 歩[ある]くと 道[みち]が 二手[ふたて]に 分[わ]かれていたので、右[みぎ]の 道[みち]を 選[えら]びました。
+  Nach kurzem Gehen gabelte sich der Weg, und ich wählte den rechten Pfad.
+
+  この問題について意見が分かれています。
+  この 問題[もんだい]について 意見[いけん]が 分[わ]かれています。
+  Die Meinungen zu diesem Problem gehen auseinander.
+
+  法律の解釈が分かれているため、裁判所の判断を待つ必要があります。
+  法律[ほうりつ]の 解釈[かいしゃく]が 分[わ]かれているため、裁判所[さいばんしょ]の 判断[はんだん]を 待[ま]つ 必要[ひつよう]があります。
+  Da die Auslegungen des Gesetzes unterschiedlich sind, müssen wir auf die Entscheidung des Gerichts warten.
+
+  新しい政策に対する反応は、はっきりと二つに分かれた。
+  新[あたら]しい 政策[せいさく]に 対[たい]する 反応[はんのう]は、はっきりと 二[ふた]つに 分[わ]かれた。
+  Die Reaktionen auf die neue Politik waren deutlich zweigeteilt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 1853
 Lemma: なくてはいけない
 Lesung: ''
 Tonhöhen: ''
-Definition: müssen
+Definition: müssen; nicht dürfen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   毎日学校に行かなくてはいけない。
   毎日[まいにち] 学校[がっこう]に 行[い]かなくてはいけない。
-  Ich muss jeden Tag lernen.
+  Ich muss jeden Tag zur Schule gehen.
+
+  この書類に署名しなくてはいけません。
+  この 書類[しょるい]に 署名[しょめい]しなくてはいけません。
+  Sie müssen dieses Dokument unterschreiben.
+
+  ここでは静かに話さなくてはいけない。
+  ここでは 静[しず]かに 話[はな]さなくてはいけない。
+  Hier müssen wir leise sprechen.
+
+  試験の前は十分に勉強しなくてはいけないよ。
+  試験[しけん]の 前[まえ]は 十分[じゅうぶん]に 勉強[べんきょう]しなくてはいけないよ。
+  Du musst vor der Prüfung ausreichend lernen.
+
+  この薬は食後に飲まなくてはいけません。
+  この 薬[くすり]は 食後[しょくご]に 飲[の]まなくてはいけません。
+  Diese Medizin muss nach dem Essen eingenommen werden.
+
+  運転中は携帯電話を使ってはいけない。
+  運転中[うんてんちゅう]は 携帯電話[けいたいでんわ]を 使[つか]ってはいけない。
+  Während der Fahrt darf man kein Handy benutzen.
+
+  明日までにレポートを提出しなくてはいけません。
+  明日[あした]までにレポートを 提出[ていしゅつ]しなくてはいけません。
+  Wir müssen den Bericht bis morgen einreichen.
+
+  ここでタバコを吸ってはいけないんだ。
+  ここでタバコを 吸[す]ってはいけないんだ。
+  Hier darf man nicht rauchen.
+
+  仕事中は私的な電話をしてはいけません。
+  仕事中[しごとちゅう]は 私的[してき]な 電話[でんわ]をしてはいけません。
+  Während der Arbeitszeit dürfen keine privaten Anrufe getätigt werden.
+
+  この部屋に入るときは靴を脱がなくてはいけない。
+  この 部屋[へや]に 入[はい]るときは 靴[くつ]を 脱[ぬ]がなくてはいけない。
+  Man muss die Schuhe ausziehen, wenn man diesen Raum betritt.
+
+  試験中はカンニングしてはいけないよ。
+  試験中[しけんちゅう]はカンニングしてはいけないよ。
+  Während der Prüfung darfst du nicht schummeln.
+
+  この問題を解決するには時間がかかるが、諦めてはいけない。
+  この 問題[もんだい]を 解決[かいけつ]するには 時間[じかん]がかかるが、諦[あきら]めてはいけない。
+  Es wird Zeit brauchen, dieses Problem zu lösen, aber wir dürfen nicht aufgeben.
+
+  会議中は携帯をマナーモードにしなくてはいけません。
+  会議中[かいぎちゅう]は 携帯[けいたい]をマナーモードにしなくてはいけません。
+  Während der Besprechung müssen wir unsere Handys auf lautlos stellen.
+
+  子供たちに悪い見本を見せてはいけないな。
+  子供[こども]たちに 悪[わる]い 見本[みほん]を 見[み]せてはいけないな。
+  Wir dürfen den Kindern kein schlechtes Beispiel geben.
+
+  この薬は医師の指示なしで服用してはいけません。
+  この 薬[くすり]は 医師[いし]の 指示[しじ]なしで 服用[ふくよう]してはいけません。
+  Dieses Medikament darf nicht ohne ärztliche Anweisung eingenommen werden.
+
+  環境を守るために、ゴミを分別しなくてはいけない。
+  環境[かんきょう]を 守[まも]るために、ゴミを 分別[ぶんべつ]しなくてはいけない。
+  Um die Umwelt zu schützen, müssen wir den Müll trennen.
+
+  この橋を渡るときは、走ってはいけません。
+  この 橋[はし]を 渡[わた]るときは、走[はし]ってはいけません。
+  Wenn Sie diese Brücke überqueren, dürfen Sie nicht rennen.
+
+  大切な約束は忘れてはいけないよ。
+  大切[たいせつ]な 約束[やくそく]は 忘[わす]れてはいけないよ。
+  Du darfst wichtige Versprechen nicht vergessen.
+
+  食事の前には手を洗わなくてはいけません。
+  食事[しょくじ]の 前[まえ]には 手[て]を 洗[あら]わなくてはいけません。
+  Vor dem Essen müssen wir uns die Hände waschen.
+
+  この実験では安全メガネを着用しなくてはいけない。
+  この 実験[じっけん]では 安全[あんぜん]メガネを 着用[ちゃくよう]しなくてはいけない。
+  Bei diesem Experiment müssen wir eine Schutzbrille tragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>なくてはいけない wird benutzt, um auszudrücken, dass etwas getan werden muss oder nicht getan werden darf. Es kann an die Verneinungsform eines Verbs angehängt werden, um Notwendigkeit auszudrücken, oder an die て-Form, um ein Verbot auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">明日[あした]までに 宿題[しゅくだい]を 終[お]えなくてはいけません。</div>
+    <div class="de spoiler">Ich muss die Hausaufgaben bis morgen beenden.</div>
+  </div>
+  <p>Bei doppelter Verneinung drückt es aus, dass etwas getan werden muss:</p>
+  <div class="examples">
+    <div class="jp">遅刻[ちこく]しないようにしなくてはいけない。</div>
+    <div class="de spoiler">Ich muss darauf achten, nicht zu spät zu kommen.</div>
+  </div>
+  <p>In der Umgangssprache wird es oft zu なくちゃ oder なきゃ verkürzt:</p>
+  <div class="examples">
+    <div class="jp">早[はや]く 起[お]きなくちゃ。</div>
+    <div class="de spoiler">Ich muss früh aufstehen.</div>
+  </div>

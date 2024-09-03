@@ -14,12 +14,94 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女は十人の孫がいる。
-  彼女[かのじょ]は十人の 孫[まご]がいる。
+  彼女[かのじょ]は 十人[じゅうにん]の 孫[まご]がいる。
   Sie hat zehn Enkelkinder.
+
+  孫の世話をするのが楽しみです。
+  孫[まご]の 世話[せわ]をするのが 楽[たの]しみです。
+  Ich freue mich darauf, mich um meine Enkelkinder zu kümmern.
+
+  孫息子が大学に合格しました。
+  孫息子[まごむすこ]が 大学[だいがく]に 合格[ごうかく]しました。
+  Mein Enkelsohn wurde an der Universität angenommen.
+
+  孫娘の結婚式に出席しました。
+  孫娘[まごむすめ]の 結婚式[けっこんしき]に 出席[しゅっせき]しました。
+  Ich habe an der Hochzeit meiner Enkelin teilgenommen.
+
+  祖父母が孫養子を迎えることにしました。
+  祖父母[そふぼ]が 孫養子[まごようし]を 迎[むか]えることにしました。
+  Die Großeltern haben beschlossen, ein Enkelkind zu adoptieren.
+
+  初孫の誕生を心待ちにしています。
+  初孫[はつまご]の 誕生[たんじょう]を 心待[こころま]ちにしています。
+  Wir warten sehnsüchtig auf die Geburt unseres ersten Enkelkindes.
+
+  曾孫が生まれて、家族が増えました。
+  曾孫[ひまご]が 生[う]まれて、家族[かぞく]が 増[ふ]えました。
+  Mit der Geburt unseres Urenkels ist unsere Familie größer geworden.
+
+  孫の代まで続く家業を守りたいです。
+  孫[まご]の 代[だい]まで 続[つづ]く 家業[かぎょう]を 守[まも]りたいです。
+  Ich möchte das Familiengeschäft bewahren, das bis in die Generation meiner Enkelkinder fortbestehen soll.
+
+  孫の手を使って背中を掻きます。
+  孫[まご]の 手[て]を 使[つか]って 背中[せなか]を 掻[か]きます。
+  Ich benutze einen Rückenkratzer, um meinen Rücken zu kratzen.
+
+  孫の顔を見ると幸せな気分になります。
+  孫[まご]の 顔[かお]を 見[み]ると 幸[しあわ]せな 気分[きぶん]になります。
+  Wenn ich das Gesicht meines Enkels sehe, fühle ich mich glücklich.
+
+  うちの孫よりも子供っぽい顔をしているんだから。
+  うちの 孫[まご]よりも 子供[こども]っぽい 顔[かお]をしているんだから。
+  Ihre Gesichter wirkten nämlich noch kindlicher als die meiner Enkel daheim.
+
+  私に一角獣の頭骨をくれたあの奇妙な老人の孫娘だった。
+  私[わたし]に 一角獣[いっかくじゅう]の 頭骨[ずがい]をくれたあの 奇妙[きみょう]な 老人[ろうじん]の 孫娘[まごむすめ]だった。
+  Es war die Enkelin des merkwürdigen Alten, der mir den Einhornschädel geschenkt hatte.
+
+  孫弟子として、師匠の教えを受け継いでいきます。
+  孫弟子[まごでし]として、師匠[ししょう]の 教[おし]えを 受[う]け 継[つ]いでいきます。
+  Als Schüler eines Schülers werde ich die Lehren des Meisters weiterführen.
+
+  孫は子よりかわいいと言われますが、本当でしょうか。
+  孫[まご]は 子[こ]よりかわいいと 言[い]われますが、本当[ほんとう]でしょうか。
+  Man sagt, Enkelkinder seien niedlicher als die eigenen Kinder, aber ist das wirklich so?
+
+  おばあちゃんは孫たちを甘やかしすぎています。
+  おばあちゃんは 孫[まご]たちを 甘[あま]やかしすぎています。
+  Großmutter verwöhnt die Enkelkinder zu sehr.
+
+  孫たちと一緒に公園で遊ぶのが楽しみです。
+  孫[まご]たちと 一緒[いっしょ]に 公園[こうえん]で 遊[あそ]ぶのが 楽[たの]しみです。
+  Ich freue mich darauf, mit meinen Enkelkindern im Park zu spielen.
+
+  孫に昔話を聞かせるのが好きです。
+  孫[まご]に 昔話[むかしばなし]を 聞[き]かせるのが 好[す]きです。
+  Ich mag es, meinen Enkelkindern alte Geschichten zu erzählen.
+
+  孫たちにお年玉を渡すのが楽しみです。
+  孫[まご]たちにお 年玉[としだま]を 渡[わた]すのが 楽[たの]しみです。
+  Ich freue mich darauf, meinen Enkelkindern Neujahrsgeld zu geben.
+
+  孫の成長を見守るのは幸せなことです。
+  孫[まご]の 成長[せいちょう]を 見守[みまも]るのは 幸[しあわ]せなことです。
+  Es ist ein Glück, das Aufwachsen der Enkelkinder zu beobachten.
+
+  孫たちとビデオ通話をして、近況を聞きました。
+  孫[まご]たちとビデオ 通話[つうわ]をして、近況[きんきょう]を 聞[き]きました。
+  Ich habe mit meinen Enkelkindern per Videoanruf gesprochen und mich nach ihrem Befinden erkundigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Es gibt ein japanisches Sprichwort:</p>
+  <div class="examples">
+    <div class="jp">孫[まご]は 子[こ]より（も）かわいい</div>
+    <div class="de spoiler">Das Enkelkind ist entzückender als das eigene Kind</div>
+  </div>
+  <p>Dies bedeutet, dass Enkel von den Großeltern oft mehr verwöhnt werden als die eigenen Kinder.</p>

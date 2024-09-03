@@ -2,20 +2,100 @@ Rang: 1826
 Lemma: 汚い
 Lesung: きたない
 Tonhöhen: (.)^\.
-Definition: schmutzig; unfair; vulgär
+Definition: schmutzig; unanständig; unfair
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 汚くない・汚かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   汚いから、触ったらいけません。
-  汚[きたな]いから、 触[さわ]ったらいけません。
-  Es ist schmutzig, berühre es nicht.
+  汚[きたな]いから、触[さわ]ったらいけません。
+  Es ist schmutzig, du darfst es nicht anfassen.
+
+  空気が汚いので、窓を開けましょう。
+  空気[くうき]が 汚[きたな]いので、窓[まど]を 開[あ]けましょう。
+  Die Luft ist schmutzig, lass uns das Fenster öffnen.
+
+  汚い足で家に入らないでください。
+  汚[きたな]い 足[あし]で 家[いえ]に 入[はい]らないでください。
+  Bitte betreten Sie das Haus nicht mit schmutzigen Füßen.
+
+  汚い手で食べ物を触らないでね。
+  汚[きたな]い 手[て]で 食[た]べ物[もの]を 触[さわ]らないでね。
+  Fass das Essen nicht mit schmutzigen Händen an, okay?
+
+  部屋が汚いから、掃除しなきゃ。
+  部屋[へや]が 汚[きたな]いから、掃除[そうじ]しなきゃ。
+  Das Zimmer ist unordentlich, ich muss aufräumen.
+
+  シャツが汚くなったので、洗濯機に入れた。
+  シャツが 汚[きたな]くなったので、洗濯機[せんたくき]に 入[い]れた。
+  Das Hemd ist schmutzig geworden, also habe ich es in die Waschmaschine getan.
+
+  子供たちが泥遊びをして服を汚くした。
+  子供[こども]たちが 泥遊[どろあそ]びをして 服[ふく]を 汚[きたな]くした。
+  Die Kinder haben beim Spielen im Schlamm ihre Kleidung schmutzig gemacht.
+
+  彼の字は汚いけど、内容は素晴らしい。
+  彼[かれ]の 字[じ]は 汚[きたな]いけど、内容[ないよう]は 素晴[すば]らしい。
+  Seine Handschrift ist unordentlich, aber der Inhalt ist großartig.
+
+  汚い字で書かれたメモは読みづらかった。
+  汚[きたな]い 字[じ]で 書[か]かれたメモは 読[よ]みづらかった。
+  Die mit krakeliger Schrift geschriebene Notiz war schwer zu lesen.
+
+  彼の食べ方が汚いので、一緒に食事に行きたくない。
+  彼[かれ]の 食[た]べ方[かた]が 汚[きたな]いので、一緒[いっしょ]に 食事[しょくじ]に 行[い]きたくない。
+  Seine Art zu essen ist unanständig, deshalb möchte ich nicht mit ihm essen gehen.
+
+  そんな汚い言葉を使わないで。
+  そんな 汚[きたな]い 言葉[ことば]を 使[つか]わないで。
+  Benutze nicht solche vulgären Worte.
+
+  子供の前で汚い話をするのはやめてください。
+  子供[こども]の 前[まえ]で 汚[きたな]い 話[はなし]をするのはやめてください。
+  Bitte hören Sie auf, unanständige Gespräche vor den Kindern zu führen.
+
+  彼は汚い手を使って勝った。
+  彼[かれ]は 汚[きたな]い 手[て]を 使[つか]って 勝[か]った。
+  Er hat mit unfairen Mitteln gewonnen.
+
+  そんな汚いやり方で成功しても、後で困るよ。
+  そんな 汚[きたな]い やり方[かた]で 成功[せいこう]しても、後[あと]で 困[こま]るよ。
+  Selbst wenn du mit solch schmutzigen Methoden Erfolg hast, wirst du später Probleme bekommen.
+
+  彼らは汚い勝ち方をしたので、みんなに批判された。
+  彼[かれ]らは 汚[きたな]い 勝[か]ち方[かた]をしたので、みんなに 批判[ひはん]された。
+  Sie wurden von allen kritisiert, weil sie auf unfaire Weise gewonnen haben.
+
+  金に汚い人とは付き合いたくありません。
+  金[かね]に 汚[きたな]い 人[ひと]とは 付[つ]き合[あ]いたくありません。
+  Ich möchte nicht mit Menschen zu tun haben, die geizig sind.
+
+  あんな汚い海で泳げはしないわ。
+  あんな 汚[きたな]い 海[うみ]で 泳[およ]げはしないわ。
+  In einem so schmutzigen Meer werde ich auf keinen Fall schwimmen.
+
+  駄目だよ、そんな汚いドタ靴でうちのテントに入りこんじゃあ！
+  だめだよ、そんな 汚[きたな]いドタ 靴[ぐつ]でうちのテントに 入[はい]りこんじゃあ！
+  Nein, ihr kommt mir nicht mit diesen Dreckstiefeln in mein Zelt!
+
+  ひどく汚い部屋の片隅で、小さい火鉢に両手をかざしていた。
+  ひどく 汚[きたな]い 部屋[へや]の 片隅[かたすみ]で、小[ちい]さい 火鉢[ひばち]に 両手[りょうて]をかざしていた。
+  In der Ecke eines furchtbar verwahrlosten Zimmers wärmte er sich die Hände an einem kleinen Kohlebecken.
+
+  面倒な物、嫌な物、何もかもをこの汚い家に打ち捨てて出て行きたかった。
+  面倒[めんどう]な 物[もの]、嫌[いや]な 物[もの]、何[なに]もかもをこの 汚[きたな]い 家[いえ]に 打[う]ち 捨[す]てて 出[で]て 行[い]きたかった。
+  Sie wollte all die lästigen und unangenehmen Dinge in diesem heruntergekommenen Haus zurücklassen und einfach gehen.
+
+  金ってやつは汚い、覚えておけよ。
+  金[かね]ってやつは 汚[きたな]い、覚[おぼ]えておけよ。
+  Geld stinkt, das merk dir.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   フライパンに油をひいてください。
   フライパンに 油[あぶら]をひいてください。
-  Geben Sie Öl in eine Pfanne.
+  Bitte geben Sie etwas Öl in die Pfanne.
+
+  この料理は油で揚げてあります。
+  この 料理[りょうり]は 油[あぶら]で 揚[あ]げてあります。
+  Dieses Gericht wurde in Öl frittiert.
+
+  油でいためた野菜はおいしいです。
+  油[あぶら]でいためた 野菜[やさい]はおいしいです。
+  In Öl gebratenes Gemüse schmeckt lecker.
+
+  シャツに油のしみがついてしまった。
+  シャツに 油[あぶら]のしみがついてしまった。
+  Ich habe einen Ölfleck auf mein Hemd bekommen.
+
+  機械の部品に油を塗ってください。
+  機械[きかい]の 部品[ぶひん]に 油[あぶら]を 塗[ぬ]ってください。
+  Bitte schmieren Sie die Maschinenteile mit Öl ein.
+
+  最近、油っぽい食事が多くて太ってきた。
+  最近[さいきん]、 油[あぶら]っぽい 食事[しょくじ]が 多[おお]くて 太[ふと]ってきた。
+  In letzter Zeit habe ich viel fettiges Essen zu mir genommen und zugenommen.
+
+  この魚は油が乗っていて美味しい。
+  この 魚[さかな]は 油[あぶら]が 乗[の]っていて 美味[おい]しい。
+  Dieser Fisch ist schön fettig und schmeckt sehr gut.
+
+  髪に油がついて、べたべたしている。
+  髪[かみ]に 油[あぶら]がついて、べたべたしている。
+  Meine Haare sind fettig und klebrig.
+
+  オリーブ油は健康にいいと言われています。
+  オリーブ 油[あぶら]は 健康[けんこう]にいいと 言[い]われています。
+  Es heißt, dass Olivenöl gesund ist.
+
+  車のエンジンオイルを交換する時期です。
+  車[くるま]のエンジンオイルを 交換[こうかん]する 時期[じき]です。
+  Es ist Zeit, das Motoröl des Autos zu wechseln.
+
+  油の値段が上がって、家計が苦しくなった。
+  油[あぶら]の 値段[ねだん]が 上[あ]がって、家計[かけい]が 苦[くる]しくなった。
+  Die Ölpreise sind gestiegen, und unser Haushaltsetat ist knapp geworden.
+
+  油断大敵というように、気を抜かないようにしましょう。
+  油断大敵[ゆだんたいてき]というように、気[き]を 抜[ぬ]かないようにしましょう。
+  Wie man sagt, "Vorsicht ist die Mutter der Porzellankiste", lasst uns also wachsam bleiben.
+
+  彼女の言葉は油を売っているようで信用できない。
+  彼女[かのじょ]の 言葉[ことば]は 油[あぶら]を 売[う]っているようで 信用[しんよう]できない。
+  Ihre Worte klingen schmeichlerisch und sind nicht vertrauenswürdig.
+
+  あの人は油断のならない性格だ。
+  あの 人[ひと]は 油断[ゆだん]のならない 性格[せいかく]だ。
+  Diese Person hat einen unberechenbaren Charakter.
+
+  彼の話は油が乗っている。
+  彼[かれ]の 話[はなし]は 油[あぶら]が 乗[の]っている。
+  Seine Rede ist fließend und überzeugend.
+
+  この問題に油を注ぐような発言は控えてください。
+  この 問題[もんだい]に 油[あぶら]を 注[そそ]ぐような 発言[はつげん]は 控[ひか]えてください。
+  Bitte vermeiden Sie Äußerungen, die das Problem noch verschärfen könnten.
+
+  彼は仕事中によく油を売っている。
+  彼[かれ]は 仕事中[しごとちゅう]によく 油[あぶら]を 売[う]っている。
+  Er verschwendet oft Zeit während der Arbeit.
+
+  この機械は油が切れて動かなくなった。
+  この 機械[きかい]は 油[あぶら]が 切[き]れて 動[うご]かなくなった。
+  Diese Maschine hat aufgehört zu funktionieren, weil das Öl aufgebraucht ist.
+
+  彼女の肌は油が少なくて乾燥しやすい。
+  彼女[かのじょ]の 肌[はだ]は 油[あぶら]が 少[すく]なくて 乾燥[かんそう]しやすい。
+  Ihre Haut neigt zu Trockenheit, weil sie wenig Talg produziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Es gibt verschiedene Schreibweisen für 油:</p>
+  <ul>
+    <li>油: bezieht sich ursprünglich auf flüssiges Fett und Öl, wird aber in fast allen Zusammenhängen benutzt.</li>
+    <li>脂: bezeichnet vorwiegend feste Fette.</li>
+    <li>膏: bezeichnet Körperfett, Speck, fettige Salben etc.</li>
+  </ul>
+  <p>Einige idiomatische Ausdrücke mit 油:</p>
+  <div class="examples">
+    <div class="jp">油[あぶら]が 切[き]れる</div>
+    <div class="de spoiler">1. Ohne Öl/Fett sein; (bei Haar, Haut) trocken sein. 2. Im besten Zuge sein, in Fahrt sein.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">油[あぶら]を 差[さ]す</div>
+    <div class="de spoiler">1. Ölen, schmieren, fetten. 2. Jemanden ermutigen oder aufhetzen.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">油[あぶら]を 売[う]る</div>
+    <div class="de spoiler">Während der Arbeit oder einer anderen Beschäftigung müßig sein, Zeit vertrödeln.</div>
+  </div>

@@ -2,7 +2,7 @@ Rang: 1883
 Lemma: うわさ
 Lesung: ''
 Tonhöhen: .^^
-Definition: Gerücht
+Definition: Gerücht; Gerede
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,12 +14,102 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼についていろいろうわさが流れている。
-  彼[かれ]についていろいろうわさが 流[なが]れている。
-  Es kursieren verschiedene Gerüchte über ihn.
+  彼[かれ]についていろいろ 噂[うわさ]が 流[なが]れている。
+  Es kursieren allerlei Gerüchte über ihn.
+
+  うわさが広まるのを防ぐため、会社は公式声明を出した。
+  噂[うわさ]が 広[ひろ]まるのを 防[ふせ]ぐため、会社[かいしゃ]は 公式[こうしき] 声明[せいめい]を 出[だ]した。
+  Um die Verbreitung von Gerüchten zu verhindern, gab das Unternehmen eine offizielle Erklärung heraus.
+
+  根も葉もないうわさを撒くのはやめてください。
+  根[ね]も 葉[は]もない 噂[うわさ]を 撒[ま]くのはやめてください。
+  Bitte hören Sie auf, haltlose Gerüchte zu streuen.
+
+  彼女の結婚についてのうわさが町中に広まった。
+  彼女[かのじょ]の 結婚[けっこん]についての 噂[うわさ]が 町中[まちじゅう]に 広[ひろ]まった。
+  Gerüchte über ihre Heirat verbreiteten sich in der ganzen Stadt.
+
+  このスキャンダルについてのうわさをもみ消そうとしても無駄だ。
+  この スキャンダルについての 噂[うわさ]をもみ消[け]そうとしても 無駄[むだ]だ。
+  Es ist sinnlos zu versuchen, die Gerüchte über diesen Skandal zu unterdrücken.
+
+  彼女は根のないうわさの犠牲になった。
+  彼女[かのじょ]は 根[ね]のない 噂[うわさ]の 犠牲[ぎせい]になった。
+  Sie wurde Opfer eines haltlosen Gerüchts.
+
+  その政治家はうわさに上るのを恐れて、慎重に行動している。
+  その 政治家[せいじか]は 噂[うわさ]に 上[のぼ]るのを 恐[おそ]れて、慎重[しんちょう]に 行動[こうどう]している。
+  Der Politiker handelt vorsichtig, aus Angst, ins Gerede zu kommen.
+
+  坊間のうわさによると、彼らは密かに交際しているらしい。
+  坊間[ぼうかん]の 噂[うわさ]によると、彼[かれ]らは 密[ひそ]かに 交際[こうさい]しているらしい。
+  Laut weit verbreiteter Gerüchte sollen sie heimlich miteinander ausgehen.
+
+  巷のうわさでは、あの店はもうすぐ閉店するそうだ。
+  巷[ちまた]の 噂[うわさ]では、あの 店[みせ]はもうすぐ 閉店[へいてん]するそうだ。
+  Den Gerüchten auf der Straße zufolge soll dieser Laden bald schließen.
+
+  彼の昇進については、うわさだけで知っています。
+  彼[かれ]の 昇進[しょうしん]については、噂[うわさ]だけで 知[し]っています。
+  Von seiner Beförderung weiß ich nur vom Hörensagen.
+
+  このニュースは単にうわさに過ぎないかもしれません。
+  このニュースは 単[たん]に 噂[うわさ]に 過[す]ぎないかもしれません。
+  Diese Nachrichten könnten bloß ein Gerücht sein.
+
+  麻薬を扱っていたといううわさだが、たぶんそのとおりだろう。
+  麻薬[まやく]を 扱[あつか]っていたという 噂[うわさ]だが、たぶんそのとおりだろう。
+  Man munkelt, er hätte mit Drogen gehandelt, und einiges spricht tatsächlich dafür.
+
+  悪いうわさが立ったので、彼は免職になって故郷へ帰った。
+  悪[わる]い 噂[うわさ]が 立[た]ったので、彼[かれ]は 免職[めんしょく]になって 故郷[こきょう]へ 帰[かえ]った。
+  Aufgrund böser Gerüchte wurde er entlassen und kehrte in seine Heimat zurück.
+
+  二週間ほど前、奇妙なうわさが彼女の耳に入った。
+  二週間[にしゅうかん]ほど 前[まえ]、奇妙[きみょう]な 噂[うわさ]が 彼女[かのじょ]の 耳[みみ]に 入[はい]った。
+  Vor etwa zwei Wochen war ihr ein sonderbares Gerücht zu Ohren gekommen.
+
+  山から木を切り出し、軍船を造るといううわさだ。
+  山[やま]から 木[き]を 切[き]り 出[だ]し、軍船[ぐんせん]を 造[つく]るという 噂[うわさ]だ。
+  Es geht das Gerücht um, dass in den Bergen Bäume gefällt werden, um Kriegsschiffe zu bauen.
+
+  彼女の髪を使って惚れ薬を作るという、変なうわさが流れた。
+  彼女[かのじょ]の 髪[かみ]を 使[つか]って 惚[ほ]れ 薬[ぐすり]を 作[つく]るという、変[へん]な 噂[うわさ]が 流[なが]れた。
+  Es verbreitete sich das seltsame Gerücht, dass aus ihrem Haar ein Liebestrank hergestellt würde.
+
+  二人は親戚のうわさ話に花を咲かせていた。
+  二人[ふたり]は 親戚[しんせき]の 噂話[うわさばなし]に 花[はな]を 咲[さ]かせていた。
+  Die beiden plauderten angeregt über ihre Verwandten.
+
+  「お噂はかねがね伺っております。お世話になり感謝しております」
+  「お 噂[うわさ]はかねがね 伺[うかが]っております。お 世話[せわ]になり 感謝[かんしゃ]しております」
+  "Ich habe schon viel von Ihnen gehört. Ich bin Ihnen sehr dankbar für Ihre Unterstützung."
+
+  ぼそぼそと上司のうわさをするのはよくないことだ。
+  ぼそぼそと 上司[じょうし]の 噂[うわさ]をするのはよくないことだ。
+  Es ist nicht gut, leise über den Vorgesetzten zu tuscheln.
+
+  「これが、いつもうわさをしていた静岡の伯父だよ」
+  「これが、いつも 噂[うわさ]をしていた 静岡[しずおか]の 伯父[おじ]だよ」
+  "Das ist mein Onkel aus Shizuoka, von dem ich dir immer erzählt habe!"
+
+  人のうわさも七十五日で消えるものだ。
+  人[ひと]の 噂[うわさ]も 七十五日[しちじゅうごにち]で 消[き]えるものだ。
+  Auch Gerüchte über Menschen verschwinden nach 75 Tagen wieder.
+
+  うわさをすれば影がさすとはよく言ったもので、話題の人物が現れた。
+  噂[うわさ]をすれば 影[かげ]がさすとはよく 言[い]ったもので、話題[わだい]の 人物[じんぶつ]が 現[あらわ]れた。
+  Kaum sprachen wir von ihm, da tauchte die besagte Person auch schon auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Sprichwort <span class="jp">人[ひと]の 噂[うわさ]も 七十五日[しちじゅうごにち]</span> bedeutet wörtlich "Auch Gerüchte über Menschen (verschwinden) nach 75 Tagen". Es drückt aus, dass Gerüchte und Klatsch nur von kurzer Dauer sind und bald wieder in Vergessenheit geraten.</p>
+  <p>Ein weiteres Sprichwort ist <span class="jp">噂[うわさ]をすれば 影[かげ]がさす</span>, was wörtlich "Wenn man Gerüchte macht, wirft es einen Schatten" bedeutet. Es entspricht dem deutschen "Wenn man vom Teufel spricht, kommt er", also dass die Person, über die man gerade spricht, plötzlich auftaucht.</p>
+  <div class="examples">
+    <div class="jp">噂[うわさ]をすれば 影[かげ]がさすとはこのことだ。ちょうど 話題[わだい]にしていた 人[ひと]が 現[あらわ]れた。</div>
+    <div class="de spoiler">Da sieht man, wie wahr das Sprichwort ist. Kaum sprachen wir von ihm, da tauchte er auch schon auf.</div>
+  </div>

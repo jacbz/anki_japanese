@@ -2,7 +2,7 @@ Rang: 1800
 Lemma: 前提
 Lesung: ぜんてい
 Tonhöhen: .^^^
-Definition: Annahme, Voraussetzung
+Definition: Voraussetzung, Prämisse
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   全ての講義は予習を前提に進めます。
   全[すべ]ての 講義[こうぎ]は 予習[よしゅう]を 前提[ぜんてい]に 進[すす]めます。
-  Alle Vorlesungen gehen von der Annahme aus, dass Sie sich im Voraus vorbereitet haben.
+  Alle Vorlesungen werden unter der Voraussetzung durchgeführt, dass die Studenten sich vorbereitet haben.
+
+  この計画は経済成長を前提としています。
+  この 計画[けいかく]は 経済成長[けいざいせいちょう]を 前提[ぜんてい]としています。
+  Dieser Plan setzt Wirtschaftswachstum voraus.
+
+  議論の前提条件を確認しましょう。
+  議論[ぎろん]の 前提条件[ぜんていじょうけん]を 確認[かくにん]しましょう。
+  Lasst uns die Vorbedingungen für die Diskussion überprüfen.
+
+  安全を前提として、新しい実験を始めます。
+  安全[あんぜん]を 前提[ぜんてい]として、新[あたら]しい 実験[じっけん]を 始[はじ]めます。
+  Unter der Voraussetzung der Sicherheit beginnen wir mit dem neuen Experiment.
+
+  この理論は誤った前提に基づいている。
+  この 理論[りろん]は 誤[あやま]った 前提[ぜんてい]に 基[もと]づいている。
+  Diese Theorie basiert auf falschen Prämissen.
+
+  契約を結ぶ前提として、双方の同意が必要だ。
+  契約[けいやく]を 結[むす]ぶ 前提[ぜんてい]として、双方[そうほう]の 同意[どうい]が 必要[ひつよう]だ。
+  Als Voraussetzung für den Vertragsabschluss ist die Zustimmung beider Parteien erforderlich.
+
+  この議論は平等という前提に立っている。
+  この 議論[ぎろん]は 平等[びょうどう]という 前提[ぜんてい]に 立[た]っている。
+  Diese Diskussion basiert auf der Prämisse der Gleichheit.
+
+  前提を満たさない限り、プロジェクトは進められない。
+  前提[ぜんてい]を 満[みた]たさない 限[かぎ]り、プロジェクトは 進[すす]められない。
+  Solange die Voraussetzungen nicht erfüllt sind, kann das Projekt nicht fortgesetzt werden.
+
+  健康であるという前提で、この仕事を引き受けた。
+  健康[けんこう]であるという 前提[ぜんてい]で、この 仕事[しごと]を 引[ひ]き 受[う]けた。
+  Ich habe diese Arbeit unter der Annahme angenommen, dass ich gesund bin.
+
+  彼女の意見は間違った前提に基づいています。
+  彼女[かのじょ]の 意見[いけん]は 間違[まちが]った 前提[ぜんてい]に 基[もと]づいています。
+  Ihre Meinung basiert auf einer falschen Prämisse.
+
+  その結論に至るまでの前提を説明してください。
+  その 結論[けつろん]に 至[いた]るまでの 前提[ぜんてい]を 説明[せつめい]してください。
+  Bitte erklären Sie die Prämissen, die zu dieser Schlussfolgerung geführt haben.
+
+  前提が崩れれば、この理論全体が成り立たなくなる。
+  前提[ぜんてい]が 崩[くず]れれば、この 理論全体[りろんぜんたい]が 成[な]り 立[た]たなくなる。
+  Wenn die Prämisse zusammenbricht, wird die gesamte Theorie unhaltbar.
+
+  この主張は誤った前提に基づいているため、受け入れられない。
+  この 主張[しゅちょう]は 誤[あやま]った 前提[ぜんてい]に 基[もと]づいているため、受[う]け 入[い]れられない。
+  Diese Behauptung ist inakzeptabel, da sie auf falschen Voraussetzungen beruht.
+
+  経済の安定を前提として、新しい政策を実施する。
+  経済[けいざい]の 安定[あんてい]を 前提[ぜんてい]として、新[あたら]しい 政策[せいさく]を 実施[じっし]する。
+  Wir werden neue Richtlinien unter der Voraussetzung wirtschaftlicher Stabilität umsetzen.
+
+  その議論は平和という前提に立っている。
+  その 議論[ぎろん]は 平和[へいわ]という 前提[ぜんてい]に 立[た]っている。
+  Die Diskussion basiert auf der Prämisse des Friedens.
+
+  彼の推論は誤った前提から始まっている。
+  彼[かれ]の 推論[すいろん]は 誤[あやま]った 前提[ぜんてい]から 始[はじ]まっている。
+  Seine Schlussfolgerung beginnt mit einer falschen Voraussetzung.
+
+  この計画は天候が良いという前提で立てられた。
+  この 計画[けいかく]は 天候[てんこう]が 良[よ]いという 前提[ぜんてい]で 立[た]てられた。
+  Dieser Plan wurde unter der Annahme guten Wetters erstellt.
+
+  その結論に至るまでの前提を一つずつ検証しよう。
+  その 結論[けつろん]に 至[いた]るまでの 前提[ぜんてい]を 一[ひと]つずつ 検証[けんしょう]しよう。
+  Lass uns die Prämissen, die zu dieser Schlussfolgerung führten, eine nach der anderen überprüfen.
+
+  商品生産の発達は、いうまでもなく商品需要の増大と見合い、それを前提とする。
+  商品生産[しょうひんせいさん]の 発達[はったつ]は、いうまでもなく 商品需要[しょうひんじゅよう]の 増大[ぞうだい]と 見合[みあ]い、それを 前提[ぜんてい]とする。
+  Die Entwicklung der Warenproduktion setzt natürlich eine entsprechende Erhöhung der Nachfrage voraus.
+
+  その仮説は検証可能な前提に基づいている必要がある。
+  その 仮説[かせつ]は 検証可能[けんしょうかのう]な 前提[ぜんてい]に 基[もと]づいている 必要[ひつよう]がある。
+  Die Hypothese muss auf überprüfbaren Prämissen basieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

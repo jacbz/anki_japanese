@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その町まで十一キロある。
-  その 町[まち]まで十一キロある。
-  Bis zur Stadt sind es elf Kilometer.
+  その 町[まち]まで 十一[じゅういち]キロある。
+  Es sind elf Kilometer bis zu dieser Stadt.
+
+  子供たちは十一時に就寝します。
+  子供[こども]たちは 十一時[じゅういちじ]に 就寝[しゅうしん]します。
+  Die Kinder gehen um elf Uhr ins Bett.
+
+  この建物には十一階まであります。
+  この 建物[たてもの]には 十一階[じゅういっかい]まであります。
+  Dieses Gebäude hat elf Stockwerke.
+
+  十一月は秋の終わりの月です。
+  十一月[じゅういちがつ]は 秋[あき]の 終[お]わりの 月[つき]です。
+  Der November ist der letzte Monat des Herbstes.
+
+  彼女は十一歳の誕生日に自転車をもらいました。
+  彼女[かのじょ]は 十一歳[じゅういっさい]の 誕生日[たんじょうび]に 自転車[じてんしゃ]をもらいました。
+  Sie bekam ein Fahrrad zu ihrem elften Geburtstag.
+
+  十一番目の参加者が到着しました。
+  十一番目[じゅういちばんめ]の 参加者[さんかしゃ]が 到着[とうちゃく]しました。
+  Der elfte Teilnehmer ist eingetroffen.
+
+  この問題を十一等分してください。
+  この 問題[もんだい]を 十一等分[じゅういちとうぶん]してください。
+  Bitte teile dieses Problem in elf gleiche Teile.
+
+  十一人の生徒が試験に合格しました。
+  十一人[じゅういちにん]の 生徒[せいと]が 試験[しけん]に 合格[ごうかく]しました。
+  Elf Schüler haben die Prüfung bestanden.
+
+  十一角形のデザインは珍しいです。
+  十一角形[じゅういちかっけい]のデザインは 珍[めずら]しいです。
+  Designs mit elf Ecken sind selten.
+
+  彼は十一分の一の確率で当選しました。
+  彼[かれ]は 十一分[じゅういちぶん]の 一[いち]の 確率[かくりつ]で 当選[とうせん]しました。
+  Er gewann mit einer Wahrscheinlichkeit von einem Elftel.
+
+  十一羽のカラスが電線に止まっています。
+  十一羽[じゅういちわ]のカラスが 電線[でんせん]に 止[と]まっています。
+  Elf Krähen sitzen auf der Stromleitung.
+
+  祖父は十一年前に亡くなりました。
+  祖父[そふ]は 十一年前[じゅういちねんまえ]に 亡[な]くなりました。
+  Mein Großvater ist vor elf Jahren verstorben.
+
+  十一個のリンゴを均等に分けるのは難しいです。
+  十一個[じゅういっこ]のリンゴを 均等[きんとう]に 分[わ]けるのは 難[むずか]しいです。
+  Es ist schwierig, elf Äpfel gleichmäßig aufzuteilen.
+
+  十一回目の挑戦で、ついに成功しました。
+  十一回目[じゅういっかいめ]の 挑戦[ちょうせん]で、ついに 成功[せいこう]しました。
+  Beim elften Versuch haben wir es endlich geschafft.
+
+  十一時十一分十一秒は覚えやすい時刻です。
+  十一時十一分十一秒[じゅういちじじゅういっぷんじゅういちびょう]は 覚[おぼ]えやすい 時刻[じこく]です。
+  11 Uhr, 11 Minuten und 11 Sekunden ist eine leicht zu merkende Uhrzeit.
+
+  十一本の鉛筆を生徒たちに配りました。
+  十一本[じゅういっぽん]の 鉛筆[えんぴつ]を 生徒[せいと]たちに 配[くば]りました。
+  Ich habe elf Bleistifte an die Schüler verteilt.
+
+  十一階建ての新しいオフィスビルが建設中です。
+  十一階建[じゅういっかいだ]ての 新[あたら]しいオフィスビルが 建設中[けんせつちゅう]です。
+  Ein neues elfstöckiges Bürogebäude wird gerade gebaut.
+
+  十一月十一日は「ポッキーの日」として知られています。
+  十一月十一日[じゅういちがつじゅういちにち]は「ポッキーの 日[ひ]」として 知[し]られています。
+  Der 11. November ist als "Pocky-Tag" bekannt.
+
+  彼女は十一ヶ国語を話すことができます。
+  彼女[かのじょ]は 十一[じゅういち]ヶ 国語[こくご]を 話[はな]すことができます。
+  Sie kann elf Sprachen sprechen.
+
+  サッカーチームは十一人の選手で構成されています。
+  サッカーチームは 十一人[じゅういちにん]の 選手[せんしゅ]で 構成[こうせい]されています。
+  Eine Fußballmannschaft besteht aus elf Spielern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

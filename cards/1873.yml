@@ -2,7 +2,7 @@ Rang: 1873
 Lemma: 生産
 Lesung: せいさん
 Tonhöhen: .^^^
-Definition: Produktion
+Definition: Produktion, Herstellung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その車の生産は2000年に始まった。
-  その 車[くるま]の 生産[せいさん]は2000 年[ねん]に 始[はじ]まった。
-  Die Produktion des Autos begann im Jahr 2000.
+  その 車[くるま]の 生産[せいさん]は2000年[ねん]に 始[はじ]まった。
+  Die Produktion dieses Autos begann im Jahr 2000.
+
+  生産物の品質管理は非常に重要です。
+  生産物[せいさんぶつ]の 品質管理[ひんしつかんり]は 非常[ひじょう]に 重要[じゅうよう]です。
+  Die Qualitätskontrolle der Produkte ist äußerst wichtig.
+
+  この地域は果物の主要な生産地として知られています。
+  この 地域[ちいき]は 果物[くだもの]の 主要[しゅよう]な 生産地[せいさんち]として 知[し]られています。
+  Diese Region ist als Hauptproduktionsgebiet für Obst bekannt.
+
+  経済危機により、多くの企業が生産を中止せざるを得なかった。
+  経済危機[けいざいきき]により、多[おお]くの 企業[きぎょう]が 生産[せいさん]を 中止[ちゅうし]せざるを 得[え]なかった。
+  Aufgrund der Wirtschaftskrise mussten viele Unternehmen ihre Produktion einstellen.
+
+  去年の生産高は前年比10%増加しました。
+  去年[きょねん]の 生産高[せいさんだか]は 前年比[ぜんねんひ]10% 増加[ぞうか]しました。
+  Die Produktionsmenge des letzten Jahres stieg im Vergleich zum Vorjahr um 10%.
+
+  新しい生産技術の導入により、効率が大幅に向上した。
+  新[あたら]しい 生産技術[せいさんぎじゅつ]の 導入[どうにゅう]により、効率[こうりつ]が 大幅[おおはば]に 向上[こうじょう]した。
+  Durch die Einführung neuer Produktionstechnologien hat sich die Effizienz erheblich verbessert.
+
+  生産費の削減は企業の競争力を高めるために不可欠だ。
+  生産費[せいさんひ]の 削減[さくげん]は 企業[きぎょう]の 競争力[きょうそうりょく]を 高[たか]めるために 不可欠[ふかけつ]だ。
+  Die Senkung der Produktionskosten ist unerlässlich, um die Wettbewerbsfähigkeit des Unternehmens zu steigern.
+
+  この工場では、一日に1000台の携帯電話を生産している。
+  この 工場[こうじょう]では、一日[いちにち]に1000台[だい]の 携帯電話[けいたいでんわ]を 生産[せいさん]している。
+  In dieser Fabrik werden täglich 1000 Mobiltelefone produziert.
+
+  生産管理システムの更新により、無駄を大幅に削減できました。
+  生産管理[せいさんかんり]システムの 更新[こうしん]により、無駄[むだ]を 大幅[おおはば]に 削減[さくげん]できました。
+  Durch die Aktualisierung des Produktionsmanagementsystems konnten wir die Verschwendung erheblich reduzieren.
+
+  持続可能な生産方法を採用することが、今日の企業の責任です。
+  持続可能[じぞくかのう]な 生産方法[せいさんほうほう]を 採用[さいよう]することが、今日[こんにち]の 企業[きぎょう]の 責任[せきにん]です。
+  Es ist die Verantwortung der heutigen Unternehmen, nachhaltige Produktionsmethoden zu übernehmen.
+
+  生産年齢人口の減少が、日本経済に大きな影響を与えている。
+  生産年齢人口[せいさんねんれいじんこう]の 減少[げんしょう]が、日本[にほん] 経済[けいざい]に 大[おお]きな 影響[えいきょう]を 与[あた]えている。
+  Der Rückgang der Bevölkerung im erwerbsfähigen Alter hat einen großen Einfluss auf die japanische Wirtschaft.
+
+  この会社は、生産能力を増強するために新工場を建設中だ。
+  この 会社[かいしゃ]は、生産能力[せいさんのうりょく]を 増強[ぞうきょう]するために 新工場[しんこうじょう]を 建設中[けんせつちゅう]だ。
+  Dieses Unternehmen baut gerade eine neue Fabrik, um seine Produktionskapazität zu erhöhen.
+
+  生産ラインの自動化により、人件費を大幅に削減できた。
+  生産[せいさん]ラインの 自動化[じどうか]により、人件費[じんけんひ]を 大幅[おおはば]に 削減[さくげん]できた。
+  Durch die Automatisierung der Produktionslinie konnten die Personalkosten erheblich gesenkt werden.
+
+  環境に配慮した生産方法を採用する企業が増えている。
+  環境[かんきょう]に 配慮[はいりょ]した 生産方法[せいさんほうほう]を 採用[さいよう]する 企業[きぎょう]が 増[ふ]えている。
+  Immer mehr Unternehmen setzen umweltfreundliche Produktionsmethoden ein.
+
+  生産者と消費者を直接つなぐ取り組みが注目されている。
+  生産者[せいさんしゃ]と 消費者[しょうひしゃ]を 直接[ちょくせつ]つなぐ 取[と]り 組[く]みが 注目[ちゅうもく]されている。
+  Initiativen, die Produzenten direkt mit Verbrauchern verbinden, gewinnen an Aufmerksamkeit.
+
+  新しい生産設備の導入により、品質と効率が向上した。
+  新[あたら]しい 生産設備[せいさんせつび]の 導入[どうにゅう]により、品質[ひんしつ]と 効率[こうりつ]が 向上[こうじょう]した。
+  Durch die Einführung neuer Produktionsanlagen haben sich Qualität und Effizienz verbessert.
+
+  海外生産の拡大により、国内の雇用に影響が出ている。
+  海外生産[かいがいせいさん]の 拡大[かくだい]により、国内[こくない]の 雇用[こよう]に 影響[えいきょう]が 出[で]ている。
+  Die Ausweitung der Produktion im Ausland wirkt sich auf die inländische Beschäftigung aus.
+
+  消費が減れば生産が減り、収入も減る。
+  消費[しょうひ]が 減[へ]れば 生産[せいさん]が 減[へ]り、収入[しゅうにゅう]も 減[へ]る。
+  Wenn der Konsum zurückgeht, geht die Produktion zurück, auch die Einkünfte sinken.
+
+  過剰生産は市場価格の下落を引き起こす可能性がある。
+  過剰生産[かじょうせいさん]は 市場価格[しじょうかかく]の 下落[げらく]を 引[ひ]き 起[お]こす 可能性[かのうせい]がある。
+  Überproduktion kann zu einem Rückgang der Marktpreise führen.
+
+  農業生産の効率化は食料安全保障の観点から重要だ。
+  農業生産[のうぎょうせいさん]の 効率化[こうりつか]は 食料安全保障[しょくりょうあんぜんほしょう]の 観点[かんてん]から 重要[じゅうよう]だ。
+  Die Effizienzsteigerung in der landwirtschaftlichen Produktion ist aus Sicht der Ernährungssicherheit wichtig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

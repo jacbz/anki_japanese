@@ -2,13 +2,13 @@ Rang: 1792
 Lemma: 迫る
 Lesung: せまる
 Tonhöhen: .\.
-Definition: sich nähern; fordern
+Definition: näherkommen; drängen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 迫らない・迫った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   申し込みの締め切り日が迫っている。
   申[もう]し 込[こ]みの 締[し]め 切[き]り 日[び]が 迫[せま]っている。
   Der Anmeldeschluss rückt näher.
+
+  津波が海岸に迫っています。
+  津波[つなみ]が 海岸[かいがん]に 迫[せま]っています。
+  Der Tsunami nähert sich der Küste.
+
+  敵軍が我が軍の陣地に迫ってきた。
+  敵軍[てきぐん]が 我[わ]が 軍[ぐん]の 陣地[じんち]に 迫[せま]ってきた。
+  Die feindlichen Truppen rückten auf unsere Stellungen vor.
+
+  追っ手が逃亡者に迫っている。
+  追[お]っ 手[て]が 逃亡者[とうぼうしゃ]に 迫[せま]っている。
+  Die Verfolger sind dem Flüchtigen dicht auf den Fersen.
+
+  足音が部屋に迫ってくるのが聞こえた。
+  足音[あしおと]が 部屋[へや]に 迫[せま]ってくるのが 聞[き]こえた。
+  Ich hörte Schritte, die sich dem Zimmer näherten.
+
+  議論が核心に迫ってきた。
+  議論[ぎろん]が 核心[かくしん]に 迫[せま]ってきた。
+  Die Diskussion näherte sich dem Kern der Sache.
+
+  薄暮が迫り、空が徐々に暗くなってきた。
+  薄暮[はくぼ]が 迫[せま]り、空[そら]が 徐々[じょじょ]に 暗[くら]くなってきた。
+  Die Dämmerung brach herein und der Himmel wurde allmählich dunkler.
+
+  帰国の日が迫ってきて、荷造りを始めた。
+  帰国[きこく]の 日[ひ]が 迫[せま]ってきて、荷造[にづく]りを 始[はじ]めた。
+  Da der Tag meiner Heimreise näher rückte, begann ich mit dem Packen.
+
+  経済危機が国に迫っている。
+  経済危機[けいざいきき]が 国[くに]に 迫[せま]っている。
+  Eine Wirtschaftskrise droht dem Land.
+
+  飢餓が地域に迫っているため、緊急支援が必要だ。
+  飢餓[きが]が 地域[ちいき]に 迫[せま]っているため、緊急支援[きんきゅうしえん]が 必要[ひつよう]だ。
+  Da eine Hungersnot in der Region droht, ist Soforthilfe erforderlich.
+
+  試験の日が目前に迫っている。
+  試験[しけん]の 日[ひ]が 目前[もくぜん]に 迫[せま]っている。
+  Der Prüfungstag steht unmittelbar bevor.
+
+  彼の死期が迫っていることを、医師から告げられた。
+  彼[かれ]の 死期[しき]が 迫[せま]っていることを、医師[いし]から 告[つ]げられた。
+  Der Arzt teilte mit, dass sein Tod kurz bevorsteht.
+
+  締め切りの時間が迫っているので、急いで仕事を終わらせよう。
+  締[し]め 切[き]りの 時間[じかん]が 迫[せま]っているので、急[いそ]いで 仕事[しごと]を 終[お]わらせよう。
+  Da die Frist drängt, lass uns die Arbeit schnell beenden.
+
+  目の前に富士山が迫る景色は圧巻だった。
+  目[め]の 前[まえ]に 富士山[ふじさん]が 迫[せま]る 景色[けしき]は 圧巻[あっかん]だった。
+  Der Anblick des Mount Fuji, der sich vor uns erhob, war überwältigend.
+
+  記者たちが政治家に迫って質問を投げかけた。
+  記者[きしゃ]たちが 政治家[せいじか]に 迫[せま]って 質問[しつもん]を 投[な]げかけた。
+  Die Journalisten bedrängten den Politiker mit Fragen.
+
+  恐怖が彼女の心に迫り、動けなくなった。
+  恐怖[きょうふ]が 彼女[かのじょ]の 心[こころ]に 迫[せま]り、動[うご]けなくなった。
+  Angst schnürte ihr die Kehle zu und sie konnte sich nicht mehr bewegen.
+
+  息が迫って、胸が苦しくなった。
+  息[いき]が 迫[せま]って、胸[むね]が 苦[くる]しくなった。
+  Ich konnte kaum noch atmen und meine Brust wurde eng.
+
+  上司は部下に辞任を迫った。
+  上司[じょうし]は 部下[ぶか]に 辞任[じにん]を 迫[せま]った。
+  Der Vorgesetzte drängte seinen Untergebenen zum Rücktritt.
+
+  警察は容疑者に回答を迫った。
+  警察[けいさつ]は 容疑者[ようぎしゃ]に 回答[かいとう]を 迫[せま]った。
+  Die Polizei drängte den Verdächtigen zu einer Antwort.
+
+  両親は息子に進路の決断を迫った。
+  両親[りょうしん]は 息子[むすこ]に 進路[しんろ]の 決断[けつだん]を 迫[せま]った。
+  Die Eltern drängten ihren Sohn zu einer Entscheidung über seinen zukünftigen Weg.
+
+  必要に迫られて、彼は海外で働くことを決意した。
+  必要[ひつよう]に 迫[せま]られて、彼[かれ]は 海外[かいがい]で 働[はたら]くことを 決意[けつい]した。
+  Notgedrungen entschied er sich, im Ausland zu arbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

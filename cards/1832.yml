@@ -2,10 +2,10 @@ Rang: 1832
 Lemma: 幸い
 Lesung: さいわい
 Tonhöhen: .^^\
-Definition: glücklich, glücklicherweise; Glück; glücklicherweise
+Definition: Glück; glücklicherweise
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj, n, vt
+Wortart: na-adj, n, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,89 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   兄は交通事故に遭ったが、幸いなことに、軽いけがで済んだ。
-  兄[あに]は 交通事故[こうつうじこ]に 遭[あ]ったが、 幸[さいわ]いなことに、 軽[かる]いけがで 済[す]んだ。
-  Mein Bruder hatte einen Autounfall, aber glücklicherweise wurde er nur leicht verletzt.
+  兄[あに]は 交通事故[こうつうじこ]に 遭[あ]ったが、幸[さいわ]いなことに、軽[かる]いけがで 済[す]んだ。
+  Mein Bruder hatte einen Verkehrsunfall, aber zum Glück kam er mit leichten Verletzungen davon.
+
+  台風が近づいていますが、幸い明日は晴れる予報です。
+  台風[たいふう]が 近[ちか]づいていますが、幸[さいわ]い 明日[あした]は 晴[は]れる 予報[よほう]です。
+  Ein Taifun nähert sich, aber glücklicherweise ist für morgen sonniges Wetter vorhergesagt.
+
+  幸いにも、急いで病院に行ったおかげで大事に至らなかった。
+  幸[さいわ]いにも、急[いそ]いで 病院[びょういん]に 行[い]ったおかげで 大事[おおごと]に 至[いた]らなかった。
+  Glücklicherweise wurde es nicht ernst, da wir schnell ins Krankenhaus gefahren sind.
+
+  これ幸いとばかりに、彼は休暇を取ることにした。
+  これ 幸[さいわ]いとばかりに、彼[かれ]は 休暇[きゅうか]を 取[と]ることにした。
+  Er nutzte diesen glücklichen Umstand und beschloss, Urlaub zu nehmen.
+
+  勿怪の幸いというか、思わぬところで良い仕事の話があった。
+  勿怪[もっけ]の 幸[さいわ]いというか、思[おも]わぬところで 良[よ]い 仕事[しごと]の 話[はなし]があった。
+  Es war ein unverhofftes Glück, dass sich unerwartet eine gute Arbeitsmöglichkeit ergab.
+
+  不幸中の幸いだが、火事で家は全焼したものの、家族全員無事だった。
+  不幸中[ふこうちゅう]の 幸[さいわ]いだが、火事[かじ]で 家[いえ]は 全焼[ぜんしょう]したものの、家族全員[かぞくぜんいん] 無事[ぶじ]だった。
+  Es war Glück im Unglück: Obwohl das Haus durch das Feuer vollständig zerstört wurde, blieb die ganze Familie unverletzt.
+
+  友人の幸いを心から願っています。
+  友人[ゆうじん]の 幸[さいわ]いを 心[こころ]から 願[ねが]っています。
+  Ich wünsche meinem Freund von Herzen Glück.
+
+  何が幸いになるか分からないものだね。
+  何[なに]が 幸[さいわ]いになるか 分[わ]からないものだね。
+  Man kann nie wissen, was sich als Glück erweisen wird.
+
+  幸い、雨が上がったので予定通り遠足に行けそうだ。
+  幸[さいわ]い、雨[あめ]が 上[あ]がったので 予定通[よていどお]り 遠足[えんそく]に 行[い]けそうだ。
+  Zum Glück hat der Regen aufgehört, sodass wir wie geplant den Ausflug machen können.
+
+  幸いなことに、彼女は試験に合格しました。
+  幸[さいわ]いなことに、彼女[かのじょ]は 試験[しけん]に 合格[ごうかく]しました。
+  Erfreulicherweise hat sie die Prüfung bestanden.
+
+  彼が無事帰ってきてくれれば幸いです。
+  彼[かれ]が 無事[ぶじ] 帰[かえ]ってきてくれれば 幸[さいわ]いです。
+  Ich würde mich sehr freuen, wenn er wohlbehalten zurückkäme.
+
+  事故が起こらなかったのが幸いでした。
+  事故[じこ]が 起[お]こらなかったのが 幸[さいわ]いでした。
+  Es war ein Glück, dass kein Unfall passiert ist.
+
+  幸いなことに、今回の台風による被害は最小限に抑えられた。
+  幸[さいわ]いなことに、今回[こんかい]の 台風[たいふう]による 被害[ひがい]は 最小限[さいしょうげん]に 抑[おさ]えられた。
+  Glücklicherweise konnten die Schäden durch den diesmaligen Taifun auf ein Minimum begrenzt werden.
+
+  偶然が幸いして、長年探していた本を見つけることができた。
+  偶然[ぐうぜん]が 幸[さいわ]いして、長年[ながねん] 探[さが]していた 本[ほん]を 見[み]つけることができた。
+  Durch einen glücklichen Zufall konnte ich das Buch finden, nach dem ich jahrelang gesucht hatte.
+
+  時勢は我々に幸いしているようだ。
+  時勢[じせい]は 我々[われわれ]に 幸[さいわ]いしているようだ。
+  Die Zeichen der Zeit scheinen für uns günstig zu stehen.
+
+  幸い、誰も怪我をしなかった。
+  幸[さいわ]い、誰[だれ]も 怪我[けが]をしなかった。
+  Glücklicherweise wurde niemand verletzt.
+
+  彼女の回復が早かったのは幸いでした。
+  彼女[かのじょ]の 回復[かいふく]が 早[はや]かったのは 幸[さいわ]いでした。
+  Es war ein Segen, dass sie sich so schnell erholt hat.
+
+  幸いにも、飛行機に間に合いました。
+  幸[さいわ]いにも、飛行機[ひこうき]に 間[ま]に 合[あ]いました。
+  Zum Glück habe ich das Flugzeug noch erreicht.
+
+  彼の才能が幸いして、短期間で成功を収めた。
+  彼[かれ]の 才能[さいのう]が 幸[さいわ]いして、短期間[たんきかん]で 成功[せいこう]を 収[おさ]めた。
+  Sein Talent erwies sich als Glücksfall, und er hatte in kurzer Zeit Erfolg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">幸[さいわ]い</span> kann als Nomen, Adverb oder na-Adjektiv verwendet werden:</p>
+  <ul>
+    <li>Als Nomen bedeutet es "Glück" oder "glücklicher Umstand".</li>
+    <li>Als Adverb (oft mit に oder にも) bedeutet es "glücklicherweise" oder "zum Glück".</li>
+    <li>Als na-Adjektiv bedeutet es "glücklich" oder "günstig

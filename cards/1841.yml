@@ -2,20 +2,96 @@ Rang: 1841
 Lemma: 改める
 Lesung: あらためる
 Tonhöhen: .^^\.
-Definition: ändern; reformieren
+Definition: ändern, verbessern; prüfen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 改めない・改めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は上司に対する態度を改めるべきだ。
   彼[かれ]は 上司[じょうし]に 対[たい]する 態度[たいど]を 改[あらた]めるべきだ。
-  Er muss seine Einstellung gegenüber seinem Chef ändern.
+  Er sollte seine Haltung gegenüber seinem Vorgesetzten ändern.
+
+  会社は古い規則を改めて、より効率的な制度を導入した。
+  会社[かいしゃ]は 古[ふる]い 規則[きそく]を 改[あらた]めて、より 効率的[こうりつてき]な 制度[せいど]を 導入[どうにゅう]した。
+  Das Unternehmen änderte die alten Regeln und führte ein effizienteres System ein.
+
+  彼女は悪習を改めようと努力している。
+  彼女[かのじょ]は 悪習[あくしゅう]を 改[あらた]めようと 努力[どりょく]している。
+  Sie bemüht sich, ihre schlechten Gewohnheiten abzulegen.
+
+  新しい法律により、多くの企業が業務プロセスを改める必要がある。
+  新[あたら]しい 法律[ほうりつ]により、多[おお]くの 企業[きぎょう]が 業務[ぎょうむ]プロセスを 改[あらた]める 必要[ひつよう]がある。
+  Aufgrund des neuen Gesetzes müssen viele Unternehmen ihre Geschäftsprozesse ändern.
+
+  彼らは会議の日程を改めて、来週に延期した。
+  彼[かれ]らは 会議[かいぎ]の 日程[にってい]を 改[あらた]めて、来週[らいしゅう]に 延期[えんき]した。
+  Sie änderten den Termin der Besprechung und verschoben sie auf nächste Woche.
+
+  この文章には誤りがあるので、改める必要があります。
+  この 文章[ぶんしょう]には 誤[あやま]りがあるので、改[あらた]める 必要[ひつよう]があります。
+  In diesem Text gibt es Fehler, die korrigiert werden müssen.
+
+  警察官は慎重に荷物を改めた。
+  警察官[けいさつかん]は 慎重[しんちょう]に 荷物[にもつ]を 改[あらた]めた。
+  Der Polizist untersuchte das Gepäck sorgfältig.
+
+  彼は態度を改めて、より丁寧な言葉遣いをするようになった。
+  彼[かれ]は 態度[たいど]を 改[あらた]めて、より 丁寧[ていねい]な 言葉遣[ことばづか]いをするようになった。
+  Er änderte seine Einstellung und begann, höflicher zu sprechen.
+
+  新しい年を迎えるにあたり、自分の生活習慣を改めようと思う。
+  新[あたら]しい 年[とし]を 迎[むか]えるにあたり、自分[じぶん]の 生活習慣[せいかつしゅうかん]を 改[あらた]めようと 思[おも]う。
+  Zum Beginn des neuen Jahres möchte ich meine Lebensgewohnheiten ändern.
+
+  彼女は考えを改めて、プロジェクトへの参加を決意した。
+  彼女[かのじょ]は 考[かんが]えを 改[あらた]めて、プロジェクトへの 参加[さんか]を 決意[けつい]した。
+  Sie änderte ihre Meinung und beschloss, an dem Projekt teilzunehmen.
+
+  この文書の内容を改めて、より明確な表現にしましょう。
+  この 文書[ぶんしょ]の 内容[ないよう]を 改[あらた]めて、より 明確[めいかく]な 表現[ひょうげん]にしましょう。
+  Lasst uns den Inhalt dieses Dokuments überarbeiten und klarer formulieren.
+
+  彼は自分の間違いを認め、行動を改めると約束した。
+  彼[かれ]は 自分[じぶん]の 間違[まちが]いを 認[みと]め、行動[こうどう]を 改[あらた]めると 約束[やくそく]した。
+  Er gestand seinen Fehler ein und versprach, sein Verhalten zu ändern.
+
+  政府は古い政策を改めて、新しい方針を打ち出した。
+  政府[せいふ]は 古[ふる]い 政策[せいさく]を 改[あらた]めて、新[あたら]しい 方針[ほうしん]を 打[う]ち 出[だ]した。
+  Die Regierung änderte ihre alte Politik und führte neue Richtlinien ein.
+
+  彼らは会社の名前を改めて、新しいブランドイメージを作り上げた。
+  彼[かれ]らは 会社[かいしゃ]の 名前[なまえ]を 改[あらた]めて、新[あたら]しいブランドイメージを 作[つく]り 上[あ]げた。
+  Sie änderten den Namen des Unternehmens und schufen ein neues Markenimage.
+
+  私たちは計画を改めて、より実現可能な目標を設定した。
+  私[わたし]たちは 計画[けいかく]を 改[あらた]めて、より 実現可能[じつげんかのう]な 目標[もくひょう]を 設定[せってい]した。
+  Wir überarbeiteten den Plan und setzten realistischere Ziele.
+
+  彼は自分の意見を改めて、他の人の提案に賛成した。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]を 改[あらた]めて、他[ほか]の 人[ひと]の 提案[ていあん]に 賛成[さんせい]した。
+  Er änderte seine Meinung und stimmte dem Vorschlag der anderen zu.
+
+  新しい証拠が見つかったため、警察は捜査方針を改めた。
+  新[あたら]しい 証拠[しょうこ]が 見[み]つかったため、警察[けいさつ]は 捜査方針[そうさほうしん]を 改[あらた]めた。
+  Aufgrund neuer Beweise änderte die Polizei ihre Ermittlungsstrategie.
+
+  彼女は自分の過ちを深く反省し、生き方を改めると誓った。
+  彼女[かのじょ]は 自分[じぶん]の 過[あやま]ちを 深[ふか]く 反省[はんせい]し、生[い]き 方[かた]を 改[あらた]めると 誓[ちか]った。
+  Sie bereute ihre Fehler zutiefst und schwor, ihre Lebensweise zu ändern.
+
+  会議の進め方を改めて、より効率的な話し合いができるようになった。
+  会議[かいぎ]の 進[すす]め 方[かた]を 改[あらた]めて、より 効率的[こうりつてき]な 話[はな]し 合[あ]いができるようになった。
+  Wir änderten die Art, wie wir Besprechungen durchführen, und konnten dadurch effizientere Diskussionen führen.
+
+  彼は自分の考えを改めて、新しい視点から問題を見直した。
+  彼[かれ]は 自分[じぶん]の 考[かんが]えを 改[あらた]めて、新[あたら]しい 視点[してん]から 問題[もんだい]を 見直[みなお]した。
+  Er änderte seine Denkweise und betrachtete das Problem aus einer neuen Perspektive.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

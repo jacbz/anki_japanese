@@ -2,20 +2,96 @@ Rang: 1906
 Lemma: 支払う
 Lesung: しはらう
 Tonhöhen: .^\.
-Definition: bezahlen
+Definition: (be)zahlen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 支払わない・支払った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   料金は日曜日までにお支払いください。
   料金[りょうきん]は 日曜日[にちようび]までにお 支払[しはら]いください。
-  Bitte bezahlen Sie die Rechnungen bis Sonntag.
+  Bitte zahlen Sie die Gebühr bis Sonntag.
+
+  勘定を支払う前に、明細をよく確認してください。
+  勘定[かんじょう]を 支払[しはら]う 前[まえ]に、明細[めいさい]をよく 確認[かくにん]してください。
+  Überprüfen Sie bitte die Einzelheiten genau, bevor Sie die Rechnung bezahlen.
+
+  手形は期日までに必ず支払わなければなりません。
+  手形[てがた]は 期日[きじつ]までに 必[かなら]ず 支払[しはら]わなければなりません。
+  Wechsel müssen unbedingt bis zum Fälligkeitsdatum eingelöst werden.
+
+  ローンの支払いが遅れると、追加料金が発生します。
+  ローンの 支払[しはら]いが 遅[おく]れると、追加[ついか]料金[りょうきん]が 発生[はっせい]します。
+  Wenn Sie mit der Rückzahlung des Darlehens in Verzug geraten, fallen zusätzliche Gebühren an.
+
+  現金で支払うか、クレジットカードでお支払いいただけます。
+  現金[げんきん]で 支払[しはら]うか、クレジットカードでお 支払[しはら]いいただけます。
+  Sie können bar oder mit Kreditkarte zahlen.
+
+  家賃は毎月5日までに支払うことになっています。
+  家賃[やちん]は 毎月[まいつき]5日[いつか]までに 支払[しはら]うことになっています。
+  Die Miete ist bis zum 5. jeden Monats zu zahlen.
+
+  前もって支払わなければならない場合は、事前にお知らせします。
+  前[まえ]もって 支払[しはら]わなければならない 場合[ばあい]は、事前[じぜん]にお 知[し]らせします。
+  Falls Sie im Voraus zahlen müssen, werden wir Sie vorab informieren.
+
+  税金を期限内に支払わないと、罰金が課せられる可能性があります。
+  税金[ぜいきん]を 期限内[きげんない]に 支払[しはら]わないと、罰金[ばっきん]が 課[か]せられる 可能性[かのうせい]があります。
+  Wenn Sie die Steuern nicht fristgerecht zahlen, können Ihnen Strafen auferlegt werden.
+
+  皆で出し合って支払うことにしましょう。
+  皆[みな]で 出[だ]し 合[あ]って 支払[しはら]うことにしましょう。
+  Lasst uns zusammenlegen und gemeinsam bezahlen.
+
+  妥当な額の使用料を支払う必要があります。
+  妥当[だとう]な 額[がく]の 使用料[しようりょう]を 支払[しはら]う 必要[ひつよう]があります。
+  Es ist erforderlich, eine angemessene Nutzungsgebühr zu zahlen.
+
+  携帯電話の料金を毎月支払うのを忘れないでください。
+  携帯電話[けいたいでんわ]の 料金[りょうきん]を 毎月[まいつき] 支払[しはら]うのを 忘[わす]れないでください。
+  Vergessen Sie nicht, Ihre Handyrechnung jeden Monat zu bezahlen.
+
+  彼女は学生ローンを毎月きちんと支払っています。
+  彼女[かのじょ]は 学生[がくせい]ローンを 毎月[まいつき]きちんと 支払[しはら]っています。
+  Sie zahlt ihr Studiendarlehen jeden Monat pünktlich zurück.
+
+  この請求書は来週の金曜日までに支払ってください。
+  この 請求書[せいきゅうしょ]は 来週[らいしゅう]の 金曜日[きんようび]までに 支払[しはら]ってください。
+  Bitte bezahlen Sie diese Rechnung bis nächsten Freitag.
+
+  保険料は一括で支払うか、分割払いにするか選べます。
+  保険料[ほけんりょう]は 一括[いっかつ]で 支払[しはら]うか、分割払[ぶんかつばら]いにするか 選[えら]べます。
+  Sie können wählen, ob Sie die Versicherungsprämie in einer Summe oder in Raten zahlen möchten.
+
+  支払いが滞ると、サービスが停止される可能性があります。
+  支払[しはら]いが 滞[とどこお]ると、サービスが 停止[ていし]される 可能性[かのうせい]があります。
+  Wenn Sie mit den Zahlungen in Verzug geraten, kann der Service möglicherweise eingestellt werden.
+
+  クレジットカードで支払う際は、セキュリティに注意してください。
+  クレジットカードで 支払[しはら]う 際[さい]は、セキュリティに 注意[ちゅうい]してください。
+  Achten Sie auf die Sicherheit, wenn Sie mit Kreditkarte bezahlen.
+
+  給料日に全ての請求書を支払うようにしています。
+  給料日[きゅうりょうび]に 全[すべ]ての 請求書[せいきゅうしょ]を 支払[しはら]うようにしています。
+  Ich versuche, alle Rechnungen am Zahltag zu begleichen.
+
+  この商品は30日以内に代金を支払う必要があります。
+  この 商品[しょうひん]は30日[にち] 以内[いない]に 代金[だいきん]を 支払[しはら]う 必要[ひつよう]があります。
+  Sie müssen den Preis für diesen Artikel innerhalb von 30 Tagen bezahlen.
+
+  今月の支払いはもう済ませましたか？
+  今月[こんげつ]の 支払[しはら]いはもう 済[す]ませましたか？
+  Haben Sie die Zahlung für diesen Monat schon erledigt?
+
+  支払いが遅れる場合は、必ず事前に連絡してください。
+  支払[しはら]いが 遅[おく]れる 場合[ばあい]は、必[かなら]ず 事前[じぜん]に 連絡[れんらく]してください。
+  Falls sich Ihre Zahlung verzögert, informieren Sie uns bitte unbedingt im Voraus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

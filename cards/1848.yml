@@ -2,10 +2,10 @@ Rang: 1848
 Lemma: 確立
 Lesung: かくりつ
 Tonhöhen: .^^^
-Definition: Gründung; etablieren
+Definition: etablieren, aufbauen
 Alternativschreibweisen: ''
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vi, vt
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この制度は1990年に確立された。
-  この 制度[せいど]は1990 年[ねん]に 確立[かくりつ]された。
-  Das System wurde 1990 etabliert.
+  この 制度[せいど]は1990年[ねん]に 確立[かくりつ]された。
+  Dieses System wurde 1990 etabliert.
+
+  新しい研究方法を確立することが彼の目標だ。
+  新[あたら]しい 研究方法[けんきゅうほうほう]を 確立[かくりつ]することが 彼[かれ]の 目標[もくひょう]だ。
+  Sein Ziel ist es, eine neue Forschungsmethode zu etablieren.
+
+  会社は顧客との信頼関係を確立するよう努めている。
+  会社[かいしゃ]は 顧客[こきゃく]との 信頼関係[しんらいかんけい]を 確立[かくりつ]するよう 努[つと]めている。
+  Das Unternehmen bemüht sich, ein Vertrauensverhältnis zu seinen Kunden aufzubauen.
+
+  民主主義の原則を確立するのに何年もかかった。
+  民主主義[みんしゅしゅぎ]の 原則[げんそく]を 確立[かくりつ]するのに 何年[なんねん]もかかった。
+  Es hat Jahre gedauert, die Prinzipien der Demokratie zu etablieren.
+
+  彼女は業界でトップの地位を確立した。
+  彼女[かのじょ]は 業界[ぎょうかい]でトップの 地位[ちい]を 確立[かくりつ]した。
+  Sie hat sich eine Spitzenposition in der Branche erarbeitet.
+
+  新しい生活習慣を確立するのは簡単ではありません。
+  新[あたら]しい 生活習慣[せいかつしゅうかん]を 確立[かくりつ]するのは 簡単[かんたん]ではありません。
+  Es ist nicht einfach, neue Lebensgewohnheiten zu etablieren.
+
+  確立された理論に基づいて実験を行う。
+  確立[かくりつ]された 理論[りろん]に 基[もと]づいて 実験[じっけん]を 行[おこな]う。
+  Wir führen Experimente basierend auf etablierten Theorien durch.
+
+  彼は独自のビジネスモデルを確立することに成功した。
+  彼[かれ]は 独自[どくじ]のビジネスモデルを 確立[かくりつ]することに 成功[せいこう]した。
+  Es gelang ihm, sein eigenes Geschäftsmodell zu etablieren.
+
+  この技術を確立するまでに多くの試行錯誤があった。
+  この 技術[ぎじゅつ]を 確立[かくりつ]するまでに 多[おお]くの 試行錯誤[しこうさくご]があった。
+  Es gab viele Versuche und Irrtümer, bis diese Technologie etabliert war.
+
+  確立された手順に従って作業を進めてください。
+  確立[かくりつ]された 手順[てじゅん]に 従[したが]って 作業[さぎょう]を 進[すす]めてください。
+  Bitte führen Sie die Arbeit gemäß den etablierten Verfahren durch.
+
+  新しい部門を確立するのは簡単な仕事ではない。
+  新[あたら]しい 部門[ぶもん]を 確立[かくりつ]するのは 簡単[かんたん]な 仕事[しごと]ではない。
+  Es ist keine leichte Aufgabe, eine neue Abteilung aufzubauen.
+
+  彼らは国際的な協力体制を確立しようと努力している。
+  彼[かれ]らは 国際的[こくさいてき]な 協力体制[きょうりょくたいせい]を 確立[かくりつ]しようと 努力[どりょく]している。
+  Sie bemühen sich, ein internationales Kooperationssystem aufzubauen.
+
+  この分野での地位を確立するには時間がかかるでしょう。
+  この 分野[ぶんや]での 地位[ちい]を 確立[かくりつ]するには 時間[じかん]がかかるでしょう。
+  Es wird Zeit brauchen, um eine Position in diesem Bereich zu etablieren.
+
+  確立された基準に基づいて評価を行います。
+  確立[かくりつ]された 基準[きじゅん]に 基[もと]づいて 評価[ひょうか]を 行[おこな]います。
+  Wir führen die Bewertung auf Grundlage etablierter Kriterien durch.
+
+  新しい教育システムを確立するための委員会が設立された。
+  新[あたら]しい 教育[きょういく]システムを 確立[かくりつ]するための 委員会[いいんかい]が 設立[せつりつ]された。
+  Es wurde ein Ausschuss zur Etablierung eines neuen Bildungssystems gegründet.
+
+  この会社は業界での評判を確立するのに長年かかった。
+  この 会社[かいしゃ]は 業界[ぎょうかい]での 評判[ひょうばん]を 確立[かくりつ]するのに 長年[ながねん]かかった。
+  Es hat dieses Unternehmen viele Jahre gekostet, seinen Ruf in der Branche zu etablieren.
+
+  彼女は自分のブランドを確立するために懸命に働いた。
+  彼女[かのじょ]は 自分[じぶん]のブランドを 確立[かくりつ]するために 懸命[けんめい]に 働[はたら]いた。
+  Sie arbeitete hart daran, ihre eigene Marke zu etablieren.
+
+  確立された方針に従って行動することが重要だ。
+  確立[かくりつ]された 方針[ほうしん]に 従[したが]って 行動[こうどう]することが 重要[じゅうよう]だ。
+  Es ist wichtig, gemäß den etablierten Richtlinien zu handeln.
+
+  この理論は科学界で広く確立されている。
+  この 理論[りろん]は 科学界[かがくかい]で 広[ひろ]く 確立[かくりつ]されている。
+  Diese Theorie ist in der wissenschaftlichen Gemeinschaft weitgehend etabliert.
+
+  新しい取引先との良好な関係を確立することが課題だ。
+  新[あたら]しい 取引先[とりひきさき]との 良好[りょうこう]な 関係[かんけい]を 確立[かくりつ]することが 課題[かだい]だ。
+  Die Herausforderung besteht darin, gute Beziehungen zu neuen Geschäftspartnern aufzubauen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

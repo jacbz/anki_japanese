@@ -2,13 +2,13 @@ Rang: 1904
 Lemma: はまる
 Lesung: ''
 Tonhöhen: .^^
-Definition: passen; fallen; süchtig sein nach
+Definition: passen; hineinfallen; verfallen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: はまらない・はまった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   鍵がはまらない。
   鍵[かぎ]がはまらない。
   Der Schlüssel passt nicht.
+
+  この指輪は私の指にぴったりはまります。
+  この 指輪[ゆびわ]は 私[わたし]の 指[ゆび]にぴったりはまります。
+  Dieser Ring passt perfekt an meinen Finger.
+
+  役者が役にはまっていて、素晴らしい演技だった。
+  役者[やくしゃ]が 役[やく]にはまっていて、素晴[すば]らしい 演技[えんぎ]だった。
+  Der Schauspieler ging völlig in seiner Rolle auf und lieferte eine großartige Darstellung.
+
+  彼の説明は状況にぴったりはまっている。
+  彼[かれ]の 説明[せつめい]は 状況[じょうきょう]にぴったりはまっている。
+  Seine Erklärung passt genau zur Situation.
+
+  子供が池にはまって、大騒ぎになった。
+  子供[こども]が 池[いけ]にはまって、大騒[おおさわ]ぎになった。
+  Ein Kind fiel in den Teich und es gab einen großen Aufruhr.
+
+  詐欺師の罠にはまってしまった。
+  詐欺師[さぎし]の 罠[わな]にはまってしまった。
+  Ich bin einem Betrüger in die Falle gegangen.
+
+  渋滞にはまって、待ち合わせに遅刻しそうだ。
+  渋滞[じゅうたい]にはまって、待[ま]ち 合[あ]わせに 遅刻[ちこく]しそうだ。
+  Ich stecke im Stau fest und werde wohl zu spät zum Treffen kommen.
+
+  彼女はスマホゲームにはまっていて、なかなかやめられない。
+  彼女[かのじょ]はスマホゲームにはまっていて、なかなかやめられない。
+  Sie ist süchtig nach Smartphone-Spielen und kann kaum damit aufhören.
+
+  このパズルのピースがうまくはまらない。
+  このパズルのピースがうまくはまらない。
+  Die Teile dieses Puzzles passen nicht richtig zusammen.
+
+  新しい環境にはまるのに時間がかかった。
+  新[あたら]しい 環境[かんきょう]にはまるのに 時間[じかん]がかかった。
+  Es hat eine Weile gedauert, bis ich mich in die neue Umgebung eingefügt habe.
+
+  彼は仕事にはまりすぎて、家族との時間が減っている。
+  彼[かれ]は 仕事[しごと]にはまりすぎて、家族[かぞく]との 時間[じかん]が 減[へ]っている。
+  Er ist so in seine Arbeit vertieft, dass er weniger Zeit mit seiner Familie verbringt.
+
+  このドアの鍵穴に鍵がはまらなくなった。
+  このドアの 鍵穴[かぎあな]に 鍵[かぎ]がはまらなくなった。
+  Der Schlüssel passt nicht mehr ins Schlüsselloch dieser Tür.
+
+  彼女の性格は新しいチームにぴったりはまっている。
+  彼女[かのじょ]の 性格[せいかく]は 新[あたら]しいチームにぴったりはまっている。
+  Ihr Charakter passt perfekt zum neuen Team.
+
+  その物語に完全にはまって、一晩中読んでしまった。
+  その 物語[ものがたり]に 完全[かんぜん]にはまって、一晩中[ひとばんじゅう] 読[よ]んでしまった。
+  Ich war so in die Geschichte vertieft, dass ich die ganze Nacht durchgelesen habe.
+
+  ネットの誹謗中傷の罠にはまらないよう気をつけよう。
+  ネットの 誹謗中傷[ひぼうちゅうしょう]の 罠[わな]にはまらないよう 気[き]をつけよう。
+  Lasst uns vorsichtig sein, nicht in die Falle von Online-Verleumdungen zu tappen.
+
+  彼は麻薬にはまって、人生を台無しにした。
+  彼[かれ]は 麻薬[まやく]にはまって、人生[じんせい]を 台無[だいな]しにした。
+  Er verfiel den Drogen und ruinierte sein Leben.
+
+  この部品が機械にうまくはまらない。
+  この 部品[ぶひん]が 機械[きかい]にうまくはまらない。
+  Dieses Teil passt nicht richtig in die Maschine.
+
+  彼女は恋にはまって、勉強に集中できない。
+  彼女[かのじょ]は 恋[こい]にはまって、勉強[べんきょう]に 集中[しゅうちゅう]できない。
+  Sie ist so verliebt, dass sie sich nicht auf ihr Studium konzentrieren kann.
+
+  このジグソーパズルの最後のピースがぴったりはまった。
+  このジグソーパズルの 最後[さいご]のピースがぴったりはまった。
+  Das letzte Stück des Puzzles passte perfekt hinein.
+
+  彼は悪い仲間にはまって、問題を起こしている。
+  彼[かれ]は 悪[わる]い 仲間[なかま]にはまって、問題[もんだい]を 起[お]こしている。
+  Er ist in schlechte Gesellschaft geraten und macht Ärger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
