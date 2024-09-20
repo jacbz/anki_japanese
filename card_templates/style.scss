@@ -217,7 +217,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   margin-top: 0.75em;
   font-size: 50%;
   opacity: 70%;
-  
+
   &::before {
     content: "⤵\fe0e";
     display: inline-block;
@@ -245,7 +245,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 }
 
 #lemma {
-  font-family: textbook, 'SourceHanSans';
+  font-family: textbook, "SourceHanSans";
   font-size: 140%;
 }
 
@@ -339,7 +339,7 @@ span.spoiler {
 
 .sentence-with-audio {
   display: inline-block;
-  
+
   .svg-button {
     display: inline-flex;
     margin-right: 0.1em;
@@ -460,7 +460,9 @@ hr {
   }
 }
 
-b, i, u {
+b,
+i,
+u {
   line-height: 100%;
 }
 
@@ -545,7 +547,6 @@ u {
   }
 }
 
-
 @mixin shared-styles($css-color, $scss-color, $icon-url) {
   $background: rgba($scss-color, 0.15);
 
@@ -614,7 +615,6 @@ u {
   );
 }
 
-
 .note {
   margin: auto;
   margin-top: 2em;
@@ -637,7 +637,7 @@ u {
 
   .pitch_accent {
     line-height: 1.1em;
-    
+
     > span {
       height: 1.1em;
       display: inline-block;
@@ -688,13 +688,20 @@ ruby {
 
 span.rb {
   display: inline-block;
+  transition: text-decoration-color 0.2s;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.2em;
+  text-decoration-color: transparent;
 }
 
 span.rt {
   font-size: 0.5em;
+  top: -1.55em;
+  backdrop-filter: blur(10px) opacity(0);
+  -webkit-backdrop-filter: blur(10px) opacity(0);
   position: absolute;
   display: block;
-  top: -1.5em;
   white-space: nowrap;
   text-align: center;
   left: 50%;
@@ -702,14 +709,36 @@ span.rt {
   transition: all 0.2s;
   user-select: none;
   pointer-events: none;
+  border-radius: 0.5em;
+  padding: 0 0.4em;
+  overflow: hidden;
 }
 
-#single_sentence span.rt, #sentences span.rt, .examples span.rt {
+#single_sentence span.rt,
+#sentences span.rt,
+.examples span.rt {
   opacity: 0;
 }
 
-.show-furigana span.rt {
-  opacity: 100% !important;
+.show-furigana {
+  span.rt {
+    opacity: 100% !important;
+  }
+}
+
+.show-furigana.popup {
+  span.rb {
+    text-decoration-color: unset;
+  }
+  span.rt {
+    transition: opacity 0.2s;
+    font-size: 1em;
+    top: -1.25em;
+    backdrop-filter: blur(10px) opacity(1);
+    -webkit-backdrop-filter: blur(10px) opacity(1);
+    cursor: pointer;
+    pointer-events: unset;
+  }
 }
 
 /**
