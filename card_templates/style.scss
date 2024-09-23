@@ -10,6 +10,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   --tip-color: #{$tip-color};
   --section-title-background: #{$section-title-background};
   --section-within-section-title-background: #{$section-within-section-title-background};
+  --drop-shadow: 0px 3px 12px rgba(0,0,0,0.15);
 }
 
 .night_mode {
@@ -18,6 +19,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   --tip-color: #{adjust-color($tip-color, $lightness: 5%)};
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
+  --drop-shadow: 0px 3px 12px rgba(255,255,255,0.15);
 }
 
 /**
@@ -698,8 +700,8 @@ span.rb {
 span.rt {
   font-size: 0.5em;
   top: -1.55em;
-  backdrop-filter: blur(10px) opacity(0);
-  -webkit-backdrop-filter: blur(10px) opacity(0);
+  backdrop-filter: blur(5px) opacity(0);
+  -webkit-backdrop-filter: blur(5px) opacity(0);
   position: absolute;
   display: block;
   white-space: nowrap;
@@ -731,13 +733,15 @@ span.rt {
     text-decoration-color: unset;
   }
   span.rt {
-    transition: opacity 0.2s;
+    transition: opacity 0.2s, transform 0.2s;
     font-size: 1em;
-    top: -1.25em;
-    backdrop-filter: blur(10px) opacity(1);
-    -webkit-backdrop-filter: blur(10px) opacity(1);
+    backdrop-filter: blur(5px) opacity(1);
+    -webkit-backdrop-filter: blur(5px) opacity(1);
+    border: 1px solid;
     cursor: pointer;
     pointer-events: unset;
+    box-shadow: var(--drop-shadow);
+    z-index: 100;
   }
 }
 

@@ -72,19 +72,49 @@ function addFurigana(text, kanjiHighlightMap = {}) {
   ).replaceAll('> <', '><');
 }
 
+function togglePopup(ruby, state) {
+  const rt = ruby.querySelector(".rt");
+  let shouldTransition = state;
+
+  rt.addEventListener('transitionend', () => {
+    if (!shouldTransition) {
+      return;
+    }
+    shouldTransition = false;
+    ruby.classList.add("popup");
+    requestAnimationFrame(() => {
+      if (rt.getBoundingClientRect().left < 0) {
+        console.log(rt.getBoundingClientRect().x);
+        rt.style.transform = `translateX(calc(-50% - ${rt.getBoundingClientRect().left}px))`;
+      } else if (rt.getBoundingClientRect().right > window.innerWidth) {
+        console.log(rt.getBoundingClientRect().right, window.innerWidth);
+        rt.style.transform = `translateX(calc(-50% + ${window.innerWidth - rt.getBoundingClientRect().right}px))`;
+      }
+    });
+  });
+
+  if (state) {
+    shouldTransition = true;
+    ruby.classList.add("popup");
+  } else {
+    ruby.classList.remove("popup");
+    rt.style.transform = "translateX(-50%)";
+  }
+}
+
 function enableRuby(el = document) {
   el.querySelectorAll("span.rb").forEach((rb) => {
     rb.onclick = (event) => {
       event.stopPropagation();
       rb.parentElement.classList.toggle("show-furigana");
       el.querySelectorAll("span.rb").forEach((rb) => {
-        rb.parentElement.classList.remove("popup");
+        togglePopup(rb.parentElement, false);
       });
-      rb.parentElement.classList.add("popup");
+      togglePopup(rb.parentElement, true);
       const rt = rb.nextSibling;
       rt.onclick = (event) => {
         event.stopPropagation();
-        rb.parentElement.classList.remove("popup");
+        togglePopup(rb.parentElement, false);
         rt.onclick = null;
       }
     };
@@ -96,7 +126,7 @@ function enableRuby(el = document) {
       });
       for (const ruby of rubies) {
         ruby.classList.toggle("show-furigana", !isAllFuriganaShown);
-        ruby.classList.remove("popup");
+        togglePopup(ruby, false);
       }
       window.getSelection().removeAllRanges();
     };
