@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle Karten im YAML-Format.
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pro Karte). 2045 Karten haben mehr als 15 Beispielsätze. 240 Karten haben eine Notiz.
+Insgesamt gibt es 4762 Karten mit 45336 Beispielsätzen (durchschnittlich 9.5 pro Karte). 2044 Karten haben mehr als 15 Beispielsätze. 240 Karten haben eine Notiz.
 
 | Rang | Wort | Lesung | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -401,7 +401,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 422 | 共 | とも | zusammen | 21 |  | [Bearbeiten](cards/0422.yml) |
 | 423 | 存在 | そんざい | Existenz | 21 |  | [Bearbeiten](cards/0423.yml) |
 | 424 | 絶対 | ぜったい | absolut; unbedingt | 21 |  | [Bearbeiten](cards/0424.yml) |
-| 425 | 日本人 | にほんじん | Japaner | 21 |  | [Bearbeiten](cards/0425.yml) |
 | 426 | 大切 | たいせつ | wichtig; kostbar | 24 |  | [Bearbeiten](cards/0426.yml) |
 | 427 | 足 | あし | Fuß; Bein | 1 |  | [Bearbeiten](cards/0427.yml) |
 | 428 | 切る | きる | schneiden | 21 |  | [Bearbeiten](cards/0428.yml) |
@@ -826,7 +825,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 858 | 一月 | いちがつ | Januar | 21 |  | [Bearbeiten](cards/0858.yml) |
 | 859 | 成す | なす | bilden, formen | 20 |  | [Bearbeiten](cards/0859.yml) |
 | 860 | 集める | あつめる | (ver-)sammeln | 21 |  | [Bearbeiten](cards/0860.yml) |
-| 861 | 失う | うしなう | verlieren; verpassen | 21 | X | [Bearbeiten](cards/0861.yml) |
+| 861 | 失う | うしなう | verlieren; [Gelegenheit] verpassen | 21 | X | [Bearbeiten](cards/0861.yml) |
 | 862 | 光 | ひかり | Licht | 20 |  | [Bearbeiten](cards/0862.yml) |
 | 863 | 並ぶ | ならぶ | [in einer Reihe] (an-)stehen | 21 |  | [Bearbeiten](cards/0863.yml) |
 | 864 | 八月 | はちがつ | August | 21 |  | [Bearbeiten](cards/0864.yml) |
@@ -1301,7 +1300,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 1340 | 先輩 | せんぱい | älterer Kollege; Senior | 22 |  | [Bearbeiten](cards/1340.yml) |
 | 1341 | 全員 | ぜんいん | alle Mitglieder, jeder | 20 |  | [Bearbeiten](cards/1341.yml) |
 | 1342 | にしても |  | selbst wenn; wie auch immer | 20 |  | [Bearbeiten](cards/1342.yml) |
-| 1343 | 四人 | よにん | vier Personen | 1 |  | [Bearbeiten](cards/1343.yml) |
 | 1344 | 人物 | じんぶつ | Person, Persönlichkeit | 20 |  | [Bearbeiten](cards/1344.yml) |
 | 1345 | 距離 | きょり | Entfernung, Distanz | 20 |  | [Bearbeiten](cards/1345.yml) |
 | 1346 | 泊まる | とまる | übernachten | 20 |  | [Bearbeiten](cards/1346.yml) |
@@ -1979,7 +1977,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 2039 | 事項 | じこう | Angelegenheit, Tatsache, Punkt | 1 |  | [Bearbeiten](cards/2039.yml) |
 | 2040 | 塾 | じゅく | Nachhilfeschule | 1 |  | [Bearbeiten](cards/2040.yml) |
 | 2041 | 去る | さる | gehen, verlassen, vorübergehen | 1 |  | [Bearbeiten](cards/2041.yml) |
-| 2042 | 五人 | ごにん | fünf Personen | 1 |  | [Bearbeiten](cards/2042.yml) |
 | 2043 | 入り口 | いりぐち | Eingang | 1 |  | [Bearbeiten](cards/2043.yml) |
 | 2044 | 改めて | あらためて | noch einmal; zu einem anderen Zeitpunkt | 1 |  | [Bearbeiten](cards/2044.yml) |
 | 2045 | 県 | けん | Präfektur | 21 | X | [Bearbeiten](cards/2045.yml) |
@@ -2154,7 +2151,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 2220 | 東 | ひがし | Osten | 20 |  | [Bearbeiten](cards/2220.yml) |
 | 2221 | 主人公 | しゅじんこう | Held, Heldin | 1 |  | [Bearbeiten](cards/2221.yml) |
 | 2222 | もっとも |  | obwohl, obgleich | 1 |  | [Bearbeiten](cards/2222.yml) |
-| 2223 | アメリカ人 | あめりかじん | Amerikaner/in | 1 |  | [Bearbeiten](cards/2223.yml) |
 | 2224 | テスト |  | Test | 1 |  | [Bearbeiten](cards/2224.yml) |
 | 2225 | 高校時代 | こうこうじだい | Schulzeit auf der Oberschule | 1 |  | [Bearbeiten](cards/2225.yml) |
 | 2226 | 満足 | まんぞく | Zufriedenheit | 1 |  | [Bearbeiten](cards/2226.yml) |
@@ -2523,7 +2519,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 2606 | ゼロ |  | null | 1 |  | [Bearbeiten](cards/2606.yml) |
 | 2607 | 義務 | ぎむ | Pflicht, Verpflichtung | 1 |  | [Bearbeiten](cards/2607.yml) |
 | 2608 | 出席 | しゅっせき | Anwesenheit; teilnehmen | 1 |  | [Bearbeiten](cards/2608.yml) |
-| 2609 | 十人 | じゅうにん | zehn Personen | 1 |  | [Bearbeiten](cards/2609.yml) |
 | 2610 | 処分 | しょぶん | Entsorgung; etwas loswerden | 1 |  | [Bearbeiten](cards/2610.yml) |
 | 2611 | 年間 | ねんかん | jährlich; Jahres- | 1 |  | [Bearbeiten](cards/2611.yml) |
 | 2612 | 広島 | ひろしま | Hiroshima | 1 |  | [Bearbeiten](cards/2612.yml) |
@@ -2604,7 +2599,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 2690 | 増大 | ぞうだい | zunehmen, Wachstum; zunehmen, wachsen | 1 |  | [Bearbeiten](cards/2690.yml) |
 | 2691 | 競争 | きょうそう | Wettbewerb, Wettkampf | 1 |  | [Bearbeiten](cards/2691.yml) |
 | 2692 | 投資 | とうし | Investition; investieren | 1 |  | [Bearbeiten](cards/2692.yml) |
-| 2693 | ほっとする | hottosuru | erleichtert sein | 1 |  | [Bearbeiten](cards/2693.yml) |
+| 2693 | ほっと |  | erleichtert sein | 1 |  | [Bearbeiten](cards/2693.yml) |
 | 2694 | お土産 | おみやげ | Mitbringsel, Souvenir | 1 |  | [Bearbeiten](cards/2694.yml) |
 | 2695 | 記述 | きじゅつ | beschreiben, darstellen; beschreiben | 1 |  | [Bearbeiten](cards/2695.yml) |
 | 2696 | 謝る | あやまる | sich entschuldigen | 1 |  | [Bearbeiten](cards/2696.yml) |
@@ -2923,7 +2918,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 3029 | 深める | ふかめる | vertiefen | 1 |  | [Bearbeiten](cards/3029.yml) |
 | 3030 | パパ |  | Papa, Vater | 1 |  | [Bearbeiten](cards/3030.yml) |
 | 3031 | 文 | ぶん | Satz | 1 |  | [Bearbeiten](cards/3031.yml) |
-| 3032 | 中国人 | ちゅうごくじん | Chinese | 1 |  | [Bearbeiten](cards/3032.yml) |
 | 3033 | 活性化 | かっせいか | Revitalisierung; revitalisieren | 1 |  | [Bearbeiten](cards/3033.yml) |
 | 3034 | 聖書 | せいしょ | Bibel | 1 |  | [Bearbeiten](cards/3034.yml) |
 | 3035 | 神経 | しんけい | Nerv | 1 |  | [Bearbeiten](cards/3035.yml) |
@@ -3037,7 +3031,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 3150 | 焦る | あせる | sich beeilen; ungeduldig sein; eifrig sein | 1 |  | [Bearbeiten](cards/3150.yml) |
 | 3151 | 論文 | ろんぶん | Aufsatz, These, Papier, Dissertation | 1 |  | [Bearbeiten](cards/3151.yml) |
 | 3152 | タイミング |  | Timing | 1 |  | [Bearbeiten](cards/3152.yml) |
-| 3153 | 百パーセント | ひゃくぱあせんと | hundert Prozent | 1 |  | [Bearbeiten](cards/3153.yml) |
+| 3153 | 百パーセント | ひゃくぱーせんと | hundert Prozent | 1 |  | [Bearbeiten](cards/3153.yml) |
 | 3154 | 週末 | しゅうまつ | Wochenende | 20 |  | [Bearbeiten](cards/3154.yml) |
 | 3155 | 出品者 | しゅっぴんしゃ | Aussteller | 1 |  | [Bearbeiten](cards/3155.yml) |
 | 3157 | 正式 | せいしき | formell, offiziell | 1 |  | [Bearbeiten](cards/3157.yml) |
@@ -3231,7 +3225,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 3356 | 説く | とく | erklären; predigen; überzeugen | 1 |  | [Bearbeiten](cards/3356.yml) |
 | 3357 | 服装 | ふくそう | Kleidung, Bekleidung | 1 |  | [Bearbeiten](cards/3357.yml) |
 | 3358 | 見学 | けんがく | Exkursion | 1 |  | [Bearbeiten](cards/3358.yml) |
-| 3359 | 六人 | ろくにん | sechs (Personen) | 1 |  | [Bearbeiten](cards/3359.yml) |
 | 3360 | 中野 | なかの | Nakano (Ortsname) | 1 |  | [Bearbeiten](cards/3360.yml) |
 | 3361 | 応募 | おうぼ | Bewerbung; sich bewerben um | 1 |  | [Bearbeiten](cards/3361.yml) |
 | 3362 | ラッキー |  | glücklich | 1 |  | [Bearbeiten](cards/3362.yml) |
@@ -3369,7 +3362,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 3499 | 汚染 | おせん | Verschmutzung; verschmutzen | 1 |  | [Bearbeiten](cards/3499.yml) |
 | 3500 | 転換 | てんかん | Umwandlung; umwandeln, ändern | 1 |  | [Bearbeiten](cards/3500.yml) |
 | 3501 | たんぱく質 | たんぱくしつ | Protein | 1 |  | [Bearbeiten](cards/3501.yml) |
-| 3502 | Ｅメール | イーメール | E-Mail | 1 |  | [Bearbeiten](cards/3502.yml) |
+| 3502 | Ｅメール |  | E-Mail | 1 |  | [Bearbeiten](cards/3502.yml) |
 | 3503 | 予防 | よぼう | Vorbeugung; vorbeugen | 1 |  | [Bearbeiten](cards/3503.yml) |
 | 3504 | 頬 | ほお | Wange | 1 |  | [Bearbeiten](cards/3504.yml) |
 | 3505 | 面積 | めんせき | Fläche, Größe | 1 |  | [Bearbeiten](cards/3505.yml) |
@@ -3763,7 +3756,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 3908 | 毎朝 | まいあさ | jeden Morgen | 1 |  | [Bearbeiten](cards/3908.yml) |
 | 3909 | 地味 | じみ | schlicht | 1 |  | [Bearbeiten](cards/3909.yml) |
 | 3910 | 文学 | ぶんがく | Literatur | 1 |  | [Bearbeiten](cards/3910.yml) |
-| 3911 | Ｔシャツ | ティーシャツ | T-Shirt | 1 |  | [Bearbeiten](cards/3911.yml) |
+| 3911 | Ｔシャツ |  | T-Shirt | 1 |  | [Bearbeiten](cards/3911.yml) |
 | 3912 | 放る | ほうる | werfen; etwas unerledigt lassen | 1 |  | [Bearbeiten](cards/3912.yml) |
 | 3913 | 攻める | せめる | angreifen | 1 |  | [Bearbeiten](cards/3913.yml) |
 | 3914 | 位置付ける | いちずける | bewerten; einschätzen | 1 |  | [Bearbeiten](cards/3914.yml) |
@@ -3942,7 +3935,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 4093 | 専門的 | せんもんてき | fachlich, akademisch | 1 |  | [Bearbeiten](cards/4093.yml) |
 | 4094 | 切り替える | きりかえる | umschalten, wechseln | 1 |  | [Bearbeiten](cards/4094.yml) |
 | 4095 | 染める | そめる | färben | 1 |  | [Bearbeiten](cards/4095.yml) |
-| 4096 | スキー場 | すきいじょう | Skigebiet, Skiort | 1 |  | [Bearbeiten](cards/4096.yml) |
 | 4097 | ヒント |  | Hinweis | 1 |  | [Bearbeiten](cards/4097.yml) |
 | 4098 | 講義 | こうぎ | Vorlesung | 1 |  | [Bearbeiten](cards/4098.yml) |
 | 4099 | 裏切る | うらぎる | verraten | 1 |  | [Bearbeiten](cards/4099.yml) |
@@ -4135,7 +4127,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 4291 | フィリピン |  | Philippinen | 1 |  | [Bearbeiten](cards/4291.yml) |
 | 4292 | 効率的 | こうりつてき | effizient | 1 |  | [Bearbeiten](cards/4292.yml) |
 | 4293 | 情熱 | じょうねつ | Leidenschaft | 1 |  | [Bearbeiten](cards/4293.yml) |
-| 4294 | 七人 | しちにん | sieben Personen | 1 |  | [Bearbeiten](cards/4294.yml) |
 | 4295 | 焦点 | しょうてん | Fokus | 1 |  | [Bearbeiten](cards/4295.yml) |
 | 4296 | 旅館 | りょかん | Ryokan, japanisches Hotel | 1 |  | [Bearbeiten](cards/4296.yml) |
 | 4297 | 食卓 | しょくたく | Esstisch | 1 |  | [Bearbeiten](cards/4297.yml) |
@@ -4279,7 +4270,6 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 4440 | 先週 | せんしゅう | letzte Woche | 20 |  | [Bearbeiten](cards/4440.yml) |
 | 4441 | 境 | さかい | Grenzlinie, Grenze | 1 |  | [Bearbeiten](cards/4441.yml) |
 | 4442 | 国語 | こくご | Japanische Sprache | 1 |  | [Bearbeiten](cards/4442.yml) |
-| 4443 | 三十人 | さんじゅうにん | dreißig Personen | 1 |  | [Bearbeiten](cards/4443.yml) |
 | 4444 | 兵士 | へいし | Soldat | 1 |  | [Bearbeiten](cards/4444.yml) |
 | 4445 | 芸能人 | げいのうじん | Unterhalter | 1 |  | [Bearbeiten](cards/4445.yml) |
 | 4446 | こんにちは |  | Hallo, Guten Tag | 1 |  | [Bearbeiten](cards/4446.yml) |
@@ -4320,7 +4310,7 @@ Insgesamt gibt es 4772 Karten mit 45366 Beispielsätzen (durchschnittlich 9.5 pr
 | 4484 | 九年 | きゅうねん | neun Jahre | 1 |  | [Bearbeiten](cards/4484.yml) |
 | 4485 | 欠く | かく | fehlen; abbrechen | 1 |  | [Bearbeiten](cards/4485.yml) |
 | 4486 | 報告書 | ほうこくしょ | Bericht | 1 |  | [Bearbeiten](cards/4486.yml) |
-| 4487 | 近づける | ちかずける | näher bringen | 1 |  | [Bearbeiten](cards/4487.yml) |
+| 4487 | 近づける | ちかづける | näher bringen | 1 |  | [Bearbeiten](cards/4487.yml) |
 | 4488 | 壺 | つぼ | Topf, Vase | 1 |  | [Bearbeiten](cards/4488.yml) |
 | 4489 | 講座 | こうざ | Vorlesung, Kurs | 1 |  | [Bearbeiten](cards/4489.yml) |
 | 4490 | レシピ |  | Rezept | 1 |  | [Bearbeiten](cards/4490.yml) |
