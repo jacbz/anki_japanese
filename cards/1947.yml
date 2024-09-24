@@ -2,7 +2,7 @@ Rang: 1947
 Lemma: 発言
 Lesung: はつげん
 Tonhöhen: .^^^
-Definition: Bemerkung; sprechen
+Definition: sich äußern; Äußerung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は会議中全く発言しなかった。
-  彼[かれ]は 会議[かいぎ] 中[ちゅう] 全[まった]く 発言[はつげん]しなかった。
-  Er hat während des Meetings überhaupt nicht gesprochen.
+  彼[かれ]は 会議中[かいぎちゅう] 全[まった]く 発言[はつげん]しなかった。
+  Er hat während der gesamten Besprechung kein einziges Mal das Wort ergriffen.
+
+  議長が「発言を認めます」と言った。
+  議長[ぎちょう]が「発言[はつげん]を 認[みと]めます」と 言[い]った。
+  Der Vorsitzende sagte: "Ich erteile Ihnen das Wort."
+
+  自由に発言できる環境が大切だ。
+  自由[じゆう]に 発言[はつげん]できる 環境[かんきょう]が 大切[たいせつ]だ。
+  Eine Umgebung, in der man sich frei äußern kann, ist wichtig.
+
+  彼女の発言内容が問題視されている。
+  彼女[かのじょ]の 発言内容[はつげんないよう]が 問題視[もんだいし]されている。
+  Der Inhalt ihrer Äußerung wird kritisch betrachtet.
+
+  発言者の身元を明かさないでください。
+  発言者[はつげんしゃ]の 身元[みもと]を 明[あ]かさないでください。
+  Bitte geben Sie die Identität des Sprechers nicht preis.
+
+  あなたの発言を禁止します。
+  あなたの 発言[はつげん]を 禁止[きんし]します。
+  Ich verbiete Ihnen das Wort.
+
+  次の発言を求める人は手を挙げてください。
+  次[つぎ]の 発言[はつげん]を 求[もと]める 人[ひと]は 手[て]を 挙[あ]げてください。
+  Wer als Nächstes um das Wort bitten möchte, hebe bitte die Hand.
+
+  先ほどの発言を取り消させていただきます。
+  先[さき]ほどの 発言[はつげん]を 取[と]り 消[け]させていただきます。
+  Ich möchte meine vorherige Äußerung zurücknehmen.
+
+  あいまいな発言は避けるべきだ。
+  あいまいな 発言[はつげん]は 避[さ]けるべきだ。
+  Unklare Aussagen sollten vermieden werden.
+
+  ばかげた発言で場の空気を悪くした。
+  ばかげた 発言[はつげん]で 場[ば]の 空気[くうき]を 悪[わる]くした。
+  Er verschlechterte die Stimmung mit einer unsinnigen Bemerkung.
+
+  時宜を得た発言で会議の流れが変わった。
+  時宜[じぎ]を 得[え]た 発言[はつげん]で 会議[かいぎ]の 流[なが]れが 変[か]わった。
+  Mit einer passenden Bemerkung änderte sich der Verlauf der Besprechung.
+
+  彼の明快な発言に皆が納得した。
+  彼[かれ]の 明快[めいかい]な 発言[はつげん]に 皆[みな]が 納得[なっとく]した。
+  Alle waren von seiner klaren Aussage überzeugt.
+
+  この件について自由に発言してください。
+  この 件[けん]について 自由[じゆう]に 発言[はつげん]してください。
+  Bitte äußern Sie sich frei zu dieser Angelegenheit.
+
+  一言も発言しないで会議が終わった。
+  一言[ひとこと]も 発言[はつげん]しないで 会議[かいぎ]が 終[お]わった。
+  Die Besprechung endete, ohne dass er ein einziges Wort gesagt hatte.
+
+  彼の問題発言が物議を醸している。
+  彼[かれ]の 問題発言[もんだいはつげん]が 物議[ぶつぎ]を 醸[かも]している。
+  Seine problematische Äußerung sorgt für Diskussionen.
+
+  発言の機会を与えられてありがとうございます。
+  発言[はつげん]の 機会[きかい]を 与[あた]えられてありがとうございます。
+  Vielen Dank, dass Sie mir die Gelegenheit geben, mich zu äußern.
+
+  発言権を奪われた気分だ。
+  発言権[はつげんけん]を 奪[うば]われた 気分[きぶん]だ。
+  Ich fühle mich, als hätte man mir das Recht zu sprechen genommen.
+
+  彼女の発言は常に注目を集める。
+  彼女[かのじょ]の 発言[はつげん]は 常[つね]に 注目[ちゅうもく]を 集[あつ]める。
+  Ihre Äußerungen ziehen immer die Aufmerksamkeit auf sich.
+
+  この発言は匿名で扱ってください。
+  この 発言[はつげん]は 匿名[とくめい]で 扱[あつか]ってください。
+  Bitte behandeln Sie diese Äußerung anonym.
+
+  重要な発言なので、議事録に記録してください。
+  重要[じゅうよう]な 発言[はつげん]なので、議事録[ぎじろく]に 記録[きろく]してください。
+  Da es sich um eine wichtige Äußerung handelt, notieren Sie sie bitte im Protokoll.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -8,18 +8,109 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: モテない・モテた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   モテて、モテて、困ってしまう。
-  モテて、モテて、 困[こま]ってしまう。
-  Ich bin bei Mädchen so beliebt, dass es ein bisschen peinlich ist.
+  もてて、もてて、困[こま]ってしまう。
+  Ich bin so beliebt, dass es schon zum Problem wird.
+
+  彼は性格が良くてモテるんだよ。
+  彼[かれ]は 性格[せいかく]が 良[よ]くてモテるんだよ。
+  Er ist wegen seines guten Charakters sehr beliebt.
+
+  パーティーでモテる秘訣を教えてください。
+  パーティーでモテる 秘訣[ひけつ]を 教[おし]えてください。
+  Bitte verraten Sie mir das Geheimnis, wie man auf Partys beliebt wird.
+
+  彼女はクラスで一番モテる女の子だ。
+  彼女[かのじょ]はクラスで 一番[いちばん]モテる 女[おんな]の 子[こ]だ。
+  Sie ist das beliebteste Mädchen in der Klasse.
+
+  モテない男性のための恋愛セミナーが開催されます。
+  モテない 男性[だんせい]のための 恋愛[れんあい]セミナーが 開催[かいさい]されます。
+  Es wird ein Liebesseminar für unbeliebte Männer veranstaltet.
+
+  あの俳優は若い女性にモテるね。
+  あの 俳優[はいゆう]は 若[わか]い 女性[じょせい]にモテるね。
+  Dieser Schauspieler ist bei jungen Frauen sehr beliebt.
+
+  モテる人の共通点について研究しています。
+  モテる 人[ひと]の 共通点[きょうつうてん]について 研究[けんきゅう]しています。
+  Ich forsche über die Gemeinsamkeiten beliebter Menschen.
+
+  彼女はモテすぎて恋愛に疲れているらしい。
+  彼女[かのじょ]はモテすぎて 恋愛[れんあい]に 疲[つか]れているらしい。
+  Sie scheint von der Liebe erschöpft zu sein, weil sie zu beliebt ist.
+
+  運動部の男子はモテるって本当？
+  運動部[うんどうぶ]の 男子[だんし]はモテるって 本当[ほんとう]？
+  Stimmt es, dass Jungen aus Sportclubs beliebt sind?
+
+  モテないからって落ち込む必要はないよ。
+  モテないからって 落[お]ち 込[こ]む 必要[ひつよう]はないよ。
+  Du brauchst nicht deprimiert zu sein, nur weil du nicht populär bist.
+
+  彼女は頭が良くてモテるタイプだ。
+  彼女[かのじょ]は 頭[あたま]が 良[よ]くてモテるタイプだ。
+  Sie ist der Typ, der wegen ihrer Intelligenz beliebt ist.
+
+  モテる人は自信に満ちているように見える。
+  モテる 人[ひと]は 自信[じしん]に 満[み]ちているように 見[み]える。
+  Beliebte Menschen scheinen voller Selbstvertrauen zu sein.
+
+  あの先生は生徒たちにモテているようだ。
+  あの 先生[せんせい]は 生徒[せいと]たちにモテているようだ。
+  Es scheint, dass dieser Lehrer bei den Schülern sehr beliebt ist.
+
+  モテるためには清潔感が大切だと言われています。
+  モテるためには 清潔感[せいけつかん]が 大切[たいせつ]だと 言[い]われています。
+  Es heißt, dass ein gepflegtes Erscheinungsbild wichtig ist, um beliebt zu sein.
+
+  彼はモテないと思っていたが、実は密かに人気があった。
+  彼[かれ]はモテないと 思[おも]っていたが、実[じつ]は 密[ひそ]かに 人気[にんき]があった。
+  Er dachte, er sei unbeliebt, aber tatsächlich war er insgeheim populär.
+
+  モテる人は自然体でいられるのがポイントだと思う。
+  モテる 人[ひと]は 自然体[しぜんたい]でいられるのがポイントだと 思[おも]う。
+  Ich denke, der Schlüssel für beliebte Menschen ist, dass sie natürlich sein können.
+
+  「あんたはかわいいから、みんなにモテるでしょう」
+  「あんたはかわいいから、みんなにモテるでしょう」
+  "Du bist ein lieber Kerl, vermutlich reißen sich die Mädchen um dich."
+
+  モテないことを気にしすぎるのは良くないよ。
+  モテないことを 気[き]にしすぎるのは 良[よ]くないよ。
+  Es ist nicht gut, sich zu sehr darüber zu sorgen, dass man nicht beliebt ist.
+
+  彼女はモテるけど、誰とも付き合わないんだ。
+  彼女[かのじょ]はモテるけど、誰[だれ]とも 付[つ]き 合[あ]わないんだ。
+  Sie ist zwar beliebt, geht aber mit niemandem aus.
+
+  モテる人は周りへの気配りができるんだって。
+  モテる 人[ひと]は 周[まわ]りへの 気配[きくば]りができるんだって。
+  Man sagt, beliebte Menschen können auf ihre Umgebung Rücksicht nehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Umgangssprachlich verwendetes Verb, das ausdrückt, dass jemand (besonders beim anderen Geschlecht) sehr beliebt, populär oder gefragt ist. Es kann auch bedeuten, dass jemand als attraktiv gilt, verehrt oder umschwärmt wird.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 性格[せいかく]が 良[よ]くてモテるんだ。</div>
+    <div class="de spoiler">Er ist wegen seines guten Charakters sehr beliebt.</div>
+  </div>
+  <p>Die Negation もてない bedeutet, dass jemand wenig oder nicht sehr beliebt, eher unattraktiv oder nicht beachtet ist.</p>
+  <div class="examples">
+    <div class="jp">モテないことを 気[き]にしすぎないで。</div>
+    <div class="de spoiler">Mach dir nicht zu viele Gedanken darüber, dass du nicht so beliebt bist.</div>
+  </div>
+  <p>Oft wird モテる im Kontext von Partys oder sozialen Situationen verwendet.</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]はパーティーでいつもモテるね。</div>
+    <div class="de spoiler">Sie ist auf Partys immer sehr beliebt.</div>
+  </div>

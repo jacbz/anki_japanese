@@ -2,20 +2,96 @@ Rang: 1979
 Lemma: 踏まえる
 Lesung: ふまえる
 Tonhöhen: .^\.
-Definition: basieren auf
+Definition: sich stützen auf; basieren auf
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ↗&lt;&gt;Verwaltungssprache
 Ursprung: ''
-Konjugation: ''
+Konjugation: 踏まえない・踏まえた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この分析結果を踏まえて結論を出します。
-  この 分析[ぶんせき] 結果[けっか]を 踏[ふ]まえて 結論[けつろん]を 出[だ]します。
-  Ich ziehe aufgrund der Ergebnisse der Analyse eine Schlussfolgerung, die auf ihnen basiert.
+  この 分析[ぶんせき]結果[けっか]を 踏[ふ]まえて 結論[けつろん]を 出[だ]します。
+  Basierend auf diesen Analyseergebnissen werden wir eine Schlussfolgerung ziehen.
+
+  実験データを踏まえた上で、新しい仮説を立てましょう。
+  実験[じっけん]データを 踏[ふ]まえた 上[うえ]で、新[あたら]しい 仮説[かせつ]を 立[た]てましょう。
+  Lasst uns auf Grundlage der experimentellen Daten eine neue Hypothese aufstellen.
+
+  過去の経験を踏まえて、より良い決断を下すことができます。
+  過去[かこ]の 経験[けいけん]を 踏[ふ]まえて、より 良[よ]い 決断[けつだん]を 下[くだ]すことができます。
+  Wir können bessere Entscheidungen treffen, indem wir auf vergangene Erfahrungen aufbauen.
+
+  現状を踏まえた上で、将来の計画を立てる必要があります。
+  現状[げんじょう]を 踏[ふ]まえた 上[うえ]で、将来[しょうらい]の 計画[けいかく]を 立[た]てる 必要[ひつよう]があります。
+  Es ist notwendig, Zukunftspläne unter Berücksichtigung der aktuellen Situation zu erstellen.
+
+  彼女は最新の研究結果を踏まえて、論文を書き直しました。
+  彼女[かのじょ]は 最新[さいしん]の 研究[けんきゅう]結果[けっか]を 踏[ふ]まえて、論文[ろんぶん]を 書[か]き 直[なお]しました。
+  Sie überarbeitete ihre Abhandlung basierend auf den neuesten Forschungsergebnissen.
+
+  市民の意見を踏まえた政策を立案することが重要です。
+  市民[しみん]の 意見[いけん]を 踏[ふ]まえた 政策[せいさく]を 立案[りつあん]することが 重要[じゅうよう]です。
+  Es ist wichtig, Richtlinien zu entwickeln, die die Meinungen der Bürger berücksichtigen.
+
+  事実を踏まえずに判断するのは危険だ。
+  事実[じじつ]を 踏[ふ]まえずに 判断[はんだん]するのは 危険[きけん]だ。
+  Es ist gefährlich, ein Urteil zu fällen, ohne sich auf Tatsachen zu stützen.
+
+  専門家の助言を踏まえて、最終決定を下しました。
+  専門家[せんもんか]の 助言[じょげん]を 踏[ふ]まえて、最終[さいしゅう]決定[けってい]を 下[くだ]しました。
+  Wir haben die endgültige Entscheidung unter Berücksichtigung des Rates von Experten getroffen.
+
+  歴史的背景を踏まえて、この問題を理解する必要がある。
+  歴史[れきし]的[てき]背景[はいけい]を 踏[ふ]まえて、この 問題[もんだい]を 理解[りかい]する 必要[ひつよう]がある。
+  Es ist notwendig, dieses Problem unter Berücksichtigung des historischen Hintergrunds zu verstehen.
+
+  実状をよく踏まえた考えを持つことが大切です。
+  実状[じつじょう]をよく 踏[ふ]まえた 考[かんが]えを 持[も]つことが 大切[たいせつ]です。
+  Es ist wichtig, realistische Vorstellungen zu haben, die auf der tatsächlichen Situation basieren.
+
+  彼は現場の声を踏まえて、新しい方針を打ち出した。
+  彼[かれ]は 現場[げんば]の 声[こえ]を 踏[ふ]まえて、新[あたら]しい 方針[ほうしん]を 打[う]ち 出[だ]した。
+  Er hat eine neue Richtlinie auf Grundlage der Stimmen vor Ort eingeführt.
+
+  科学的知見を踏まえ、政策を見直す必要があります。
+  科学[かがく]的[てき]知見[ちけん]を 踏[ふ]まえ、政策[せいさく]を 見直[みなお]す 必要[ひつよう]があります。
+  Es ist notwendig, die Politik auf der Grundlage wissenschaftlicher Erkenntnisse zu überprüfen.
+
+  市場の動向を踏まえた戦略を立てましょう。
+  市場[しじょう]の 動向[どうこう]を 踏[ふ]まえた 戦略[せんりゃく]を 立[た]てましょう。
+  Lasst uns eine Strategie entwickeln, die die Markttrends berücksichtigt.
+
+  環境への影響を踏まえた上で、開発計画を進めるべきだ。
+  環境[かんきょう]への 影響[えいきょう]を 踏[ふ]まえた 上[うえ]で、開発[かいはつ]計画[けいかく]を 進[すす]めるべきだ。
+  Wir sollten den Entwicklungsplan unter Berücksichtigung der Umweltauswirkungen vorantreiben.
+
+  彼女の意見を踏まえて、プロジェクトの方向性を再考しました。
+  彼女[かのじょ]の 意見[いけん]を 踏[ふ]まえて、プロジェクトの 方向性[ほうこうせい]を 再考[さいこう]しました。
+  Wir haben die Richtung des Projekts unter Berücksichtigung ihrer Meinung überdacht.
+
+  近江はその中央に両足を踏まえ、たえず新しく敵に目を配っていた。
+  近江[おうみ]はその 中央[ちゅうおう]に 両足[りょうあし]を 踏[ふ]まえ、たえず 新[あら]しく 敵[てき]に 目[め]を 配[くば]っていた。
+  Omi stand fest mit beiden Beinen in der Mitte und sah sich unbekümmert nach neuen Gegnern um.
+
+  状況を踏まえた柔軟な対応が求められています。
+  状況[じょうきょう]を 踏[ふ]まえた 柔軟[じゅうなん]な 対応[たいおう]が 求[もと]められています。
+  Eine flexible Reaktion, die die Situation berücksichtigt, wird gefordert.
+
+  過去の失敗を踏まえて、今回は慎重に計画を立てた。
+  過去[かこ]の 失敗[しっぱい]を 踏[ふ]まえて、今回[こんかい]は 慎重[しんちょう]に 計画[けいかく]を 立[た]てた。
+  Basierend auf früheren Fehlern haben wir dieses Mal vorsichtig geplant.
+
+  地域の特性を踏まえたまちづくりを進めています。
+  地域[ちいき]の 特性[とくせい]を 踏[ふ]まえたまちづくりを 進[すす]めています。
+  Wir fördern die Stadtentwicklung unter Berücksichtigung der regionalen Besonderheiten.
+
+  顧客のニーズを踏まえた商品開発が成功の鍵です。
+  顧客[こきゃく]のニーズを 踏[ふ]まえた 商品[しょうひん]開発[かいはつ]が 成功[せいこう]の 鍵[かぎ]です。
+  Produktentwicklung, die auf Kundenbedürfnissen basiert, ist der Schlüssel zum Erfolg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

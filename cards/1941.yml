@@ -2,7 +2,7 @@ Rang: 1941
 Lemma: 街
 Lesung: まち
 Tonhöhen: .\
-Definition: Stadt
+Definition: Stadt; Straße
 Alternativschreibweisen: 町
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -17,9 +17,99 @@ Beispielsätze: |-
   東京[とうきょう]はとても 大[おお]きい 街[まち]だ。
   Tokio ist eine sehr große Stadt.
 
+  この街は学生で賑わっている。
+  この 街[まち]は 学生[がくせい]で 賑[にぎ]わっている。
+  Diese Stadt ist voller Studenten.
+
+  彼は小さな街で生活している。
+  彼[かれ]は 小[ちい]さな 街[まち]で 生活[せいかつ]している。
+  Er lebt in einer kleinen Stadt.
+
+  新しい友達に街を案内しました。
+  新[あたら]しい 友達[ともだち]に 街[まち]を 案内[あんない]しました。
+  Ich habe meinem neuen Freund die Stadt gezeigt.
+
+  週末は街を歩くのが好きだ。
+  週末[しゅうまつ]は 街[まち]を 歩[ある]くのが 好[す]きだ。
+  Am Wochenende gehe ich gerne in der Stadt spazieren.
+
+  彼女は街をぶらついて買い物を楽しんだ。
+  彼女[かのじょ]は 街[まち]をぶらついて 買い物[かいもの]を 楽[たの]しんだ。
+  Sie bummelte durch die Stadt und genoss das Einkaufen.
+
+  私はこの街に生まれ育ちました。
+  私[わたし]はこの 街[まち]に 生[う]まれ 育[そだ]ちました。
+  Ich wurde in dieser Stadt geboren und bin hier aufgewachsen.
+
+  街の中心には多くの店やレストランがある。
+  街[まち]の 中心[ちゅうしん]には 多[おお]くの 店[みせ]やレストランがある。
+  Im Stadtzentrum gibt es viele Geschäfte und Restaurants.
+
+  彼らは街の外れに新しい家を建てた。
+  彼[かれ]らは 街[まち]の 外[はず]れに 新[あたら]しい 家[いえ]を 建[た]てた。
+  Sie haben am Stadtrand ein neues Haus gebaut.
+
+  台風の後、街全体に被害が出た。
+  台風[たいふう]の 後[あと]、街[まち] 全体[ぜんたい]に 被害[ひがい]が 出[で]た。
+  Nach dem Taifun gab es in der ganzen Stadt Schäden.
+
+  隣の街まで電車で30分かかります。
+  隣[となり]の 街[まち]まで 電車[でんしゃ]で30分[ぷん]かかります。
+  Es dauert 30 Minuten mit dem Zug bis zur Nachbarstadt.
+
+  新しい建物が街の美観を損なっている。
+  新[あたら]しい 建物[たてもの]が 街[まち]の 美観[びかん]を 損[そこ]なっている。
+  Das neue Gebäude stört das Stadtbild.
+
+  深夜になると、街が眠っているようだ。
+  深夜[しんや]になると、街[まち]が 眠[ねむ]っているようだ。
+  In der Nacht scheint die Stadt zu schlafen.
+
+  この街は温泉で有名な湯の街です。
+  この 街[まち]は 温泉[おんせん]で 有名[ゆうめい]な 湯[ゆ]の 街[まち]です。
+  Diese Stadt ist ein berühmter Badeort mit heißen Quellen.
+
+  夜になると、街の喧騒が聞こえてくる。
+  夜[よる]になると、街[まち]の 喧騒[けんそう]が 聞[き]こえてくる。
+  In der Nacht hört man den Lärm der Stadt.
+
+  閉店後の街は、無人の撮影所のようだった。
+  閉店[へいてん] 後[ご]の 街[まち]は、無人[むじん]の 撮影所[さつえいじょ]のようだった。
+  Nach Ladenschluss glich die Stadt einer menschenleeren Filmkulisse.
+
+  この街には多くの学生が住んでいる。
+  この 街[まち]には 多[おお]くの 学生[がくせい]が 住[す]んでいる。
+  In dieser Stadt wohnen viele Studenten.
+
+  街の中心から離れた所に静かな公園がある。
+  街[まち]の 中心[ちゅうしん]から 離[はな]れた 所[ところ]に 静[しず]かな 公園[こうえん]がある。
+  Es gibt einen ruhigen Park abseits des Stadtzentrums.
+
+  この街の商店街はとても賑やかだ。
+  この 街[まち]の 商店街[しょうてんがい]はとても 賑[にぎ]やかだ。
+  Die Einkaufsstraße in dieser Stadt ist sehr belebt.
+
+  都会の街には貧民街もある。
+  都会[とかい]の 街[まち]には 貧民街[ひんみんがい]もある。
+  In Großstädten gibt es auch Armenviertel.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>街 kann sowohl eine Stadt als auch eine Straße oder ein Viertel bedeuten:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 街[まち]を 歩[ある]いて 買い物[かいもの]をした。</div>
+    <div class="de spoiler">Er ging durch die Straßen einkaufen.</div>
+  </div>
+  <p>In der Bedeutung "Stadt" wird oft das Kanji 町 verwendet, während 街 häufiger für "Straße" oder "Viertel" steht.</p>
+  <div class="examples">
+    <div class="jp">この 町[まち]は 人口[じんこう]が 少[すく]ない。</div>
+    <div class="de spoiler">Diese Stadt hat eine geringe Bevölkerung.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">繁華街[はんかがい]を 散歩[さんぽ]するのが 好[す]きだ。</div>
+    <div class="de spoiler">Ich mag es, durch das Geschäftsviertel zu spazieren.</div>
+  </div>

@@ -2,8 +2,8 @@ Rang: 2006
 Lemma: 幅
 Lesung: はば
 Tonhöhen: .^
-Definition: Breite, Weite; Unterschied; Breitengrad
-Alternativschreibweisen: ''
+Definition: Breite; Einfluss
+Alternativschreibweisen: 巾
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -14,12 +14,99 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その橋は幅が二十メートルある。
-  その 橋[はし]は 幅[はば]が二十メートルある。
-  Die Brücke hat eine Breite von zwanzig Metern.
+  その 橋[はし]は 幅[はば]が 二十[にじゅう]メートルある。
+  Die Brücke ist zwanzig Meter breit.
+
+  道路の幅が充分あるので、大型トラックも安全に通行できます。
+  道路[どうろ]の 幅[はば]が 充分[じゅうぶん]あるので、大型[おおがた]トラックも 安全[あんぜん]に 通行[つうこう]できます。
+  Die Straße ist breit genug, sodass auch große Lastwagen sicher passieren können.
+
+  新しいテーブルは幅が広くて、たくさんの料理を並べられる。
+  新[あたら]しいテーブルは 幅[はば]が 広[ひろ]くて、たくさんの 料理[りょうり]を 並[なら]べられる。
+  Der neue Tisch ist breit genug, um viele Gerichte darauf zu platzieren.
+
+  歩幅を広げて、早く歩こう。
+  歩幅[ほはば]を 広[ひろ]げて、早[はや]く 歩[ある]こう。
+  Lass uns unsere Schrittweite vergrößern und schneller gehen.
+
+  彼の肩幅が広いので、スーツがよく似合う。
+  彼[かれ]の 肩幅[かたはば]が 広[ひろ]いので、スーツがよく 似合[にあ]う。
+  Da er breite Schultern hat, steht ihm der Anzug gut.
+
+  道は人二人通るくらいの幅で真直に林を貫いていた。
+  道[みち]は 人[ひと] 二人[ふたり] 通[とお]るくらいの 幅[はば]で 真直[まっすぐ]に 林[はやし]を 貫[つらぬ]いていた。
+  Der Weg führte in einer Breite, die zwei Menschen aneinander vorbeizugehen erlaubte, geradeaus durch den Wald.
+
+  幅の狭いデコラの卓の上に花瓶を置いた。
+  幅[はば]の 狭[せま]いデコラの 卓[たく]の 上[うえ]に 花絶[かびん]を 置[お]いた。
+  Ich stellte eine Vase auf die schmale Tischplatte aus Holzimitat.
+
+  椰子の幹には人の目ほどの高さに手の幅一杯くらいのブリキの板が巻き付けてあった。
+  椰子[やし]の 幹[みき]には 人[ひと]の 目[め]ほどの 高[たか]さに 手[て]の 幅[はば] 一杯[いっぱい]くらいのブリキの 板[いた]が 巻[ま]き 付[つ]けてあった。
+  Um die Stämme der Palmen lief in Augenhöhe ein handbreiter Blechstreifen herum.
+
+  この政治家は幅広い支持を得ている。
+  この 政治家[せいじか]は 幅広[はばひろ]い 支持[しじ]を 得[え]ている。
+  Dieser Politiker genießt breite Unterstützung.
+
+  彼女の演技には幅があり、様々な役を演じられる。
+  彼女[かのじょ]の 演技[えんぎ]には 幅[はば]があり、様々[さまざま]な 役[やく]を 演[えん]じられる。
+  Ihre schauspielerische Bandbreite ist groß, sie kann verschiedene Rollen spielen.
+
+  解釈に幅を持たせることで、より多くの読者に訴えかけることができる。
+  解釈[かいしゃく]に 幅[はば]を 持[も]たせることで、より 多[おお]くの 読者[どくしゃ]に 訴[うった]えかけることができる。
+  Indem man Raum für Interpretation lässt, kann man mehr Leser ansprechen.
+
+  興味の幅を広げるために、新しい趣味を始めてみよう。
+  興味[きょうみ]の 幅[はば]を 広[ひろ]げるために、新[あたら]しい 趣味[しゅみ]を 始[はじ]めてみよう。
+  Um das Spektrum deiner Interessen zu erweitern, versuche ein neues Hobby anzufangen.
+
+  株価の値幅が大きく、市場は不安定だ。
+  株価[かぶか]の 値幅[ねはば]が 大[おお]きく、市場[しじょう]は 不安定[ふあんてい]だ。
+  Die Preisspanne der Aktien ist groß, der Markt ist instabil.
+
+  音の幅が広いので、この歌手の歌唱力は素晴らしい。
+  音[おと]の 幅[はば]が 広[ひろ]いので、この 歌手[かしゅ]の 歌唱力[かしょうりょく]は 素晴[すば]らしい。
+  Da der Tonumfang groß ist, ist die Gesangsleistung dieses Sängers beeindruckend.
+
+  彼は幅広い人脈を持っているので、ビジネスで成功している。
+  彼[かれ]は 幅広[はばひろ]い 人脈[じんみゃく]を 持[も]っているので、ビジネスで 成功[せいこう]している。
+  Er ist im Geschäft erfolgreich, weil er ein breites Netzwerk hat.
+
+  幅を利かせすぎると、周りの人から嫌われるかもしれない。
+  幅[はば]を 利[き]かせすぎると、周[まわ]りの 人[ひと]から 嫌[きら]われるかもしれない。
+  Wenn du zu viel Einfluss ausübst, könntest du von den Leuten um dich herum gehasst werden.
+
+  彼は以前ほど幅が利かなくなった。
+  彼[かれ]は 以前[いぜん]ほど 幅[はば]が 利[き]かなくなった。
+  Er hat nicht mehr so viel Einfluss wie früher.
+
+  この会社では、若い社員も幅広く意見を言える環境がある。
+  この 会社[かいしゃ]では、若[わか]い 社員[しゃいん]も 幅広[はばひろ]く 意見[いけん]を 言[い]える 環境[かんきょう]がある。
+  In diesem Unternehmen gibt es ein Umfeld, in dem auch junge Mitarbeiter ihre Meinungen in einem breiten Spektrum äußern können.
+
+  新しいプロジェクトでは、幅広い視点から問題を検討する必要がある。
+  新[あたら]しいプロジェクトでは、幅広[はばひろ]い 視点[してん]から 問題[もんだい]を 検討[けんとう]する 必要[ひつよう]がある。
+  Bei dem neuen Projekt ist es notwendig, die Probleme aus einer breiten Perspektive zu betrachten.
+
+  彼女は幅のある人柄で、様々な立場の人と上手くコミュニケーションを取れる。
+  彼女[かのじょ]は 幅[はば]のある 人柄[ひとがら]で、様々[さまざま]な 立場[たちば]の 人[ひと]と 上手[じょうず]くコミュニケーションを 取[と]れる。
+  Sie hat einen vielseitigen Charakter und kann gut mit Menschen in verschiedenen Positionen kommunizieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>幅 kann auch im übertragenen Sinne verwendet werden, um Einfluss, Macht oder Vielseitigkeit auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 会社[かいしゃ]で 幅[はば]を 利[き]かせている。</div>
+    <div class="de spoiler">Er übt in der Firma großen Einfluss aus.</div>
+  </div>
+  <p>Einige idiomatische Ausdrücke mit 幅:</p>
+  <ul>
+    <li><span class="jp">幅[はば]が 広[ひろ]い</span>: breit sein; (überall) bekannt sein; unbescheiden sein</li>
+    <li><span class="jp">幅[はば]が 利[き]く</span>: Einfluss haben, eine wichtige Rolle spielen</li>
+    <li><span class="jp">幅[はば]を 取[と]る</span>: viel Raum einnehmen; Einfluss ausüben; Spielraum lassen</li>
+  </ul>

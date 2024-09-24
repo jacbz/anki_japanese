@@ -2,7 +2,7 @@ Rang: 1929
 Lemma: 対策
 Lesung: たいさく
 Tonhöhen: .^^^
-Definition: Maßnahme
+Definition: Maßnahme, Strategie
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   何か対策を考えなければならない。
   何[なに]か 対策[たいさく]を 考[かんが]えなければならない。
-  Wir müssen einige Maßnahmen in Betracht ziehen.
+  Wir müssen uns eine Maßnahme überlegen.
+
+  伝染病対策として、手洗いとマスク着用を徹底しましょう。
+  伝染病[でんせんびょう]対策[たいさく]として、手洗[てあら]いとマスク 着用[ちゃくよう]を 徹底[てってい]しましょう。
+  Als Maßnahme gegen Infektionskrankheiten sollten wir gründliches Händewaschen und das Tragen von Masken durchsetzen.
+
+  不況対策として、政府は経済刺激策を発表した。
+  不況[ふきょう]対策[たいさく]として、政府[せいふ]は 経済[けいざい]刺激策[しげきさく]を 発表[はっぴょう]した。
+  Als Maßnahme gegen die Rezession kündigte die Regierung ein Konjunkturpaket an.
+
+  不眠症対策として、寝る前にリラックスする時間を作るといいです。
+  不眠症[ふみんしょう]対策[たいさく]として、寝[ね]る 前[まえ]にリラックスする 時間[じかん]を 作[つく]るといいです。
+  Als Maßnahme gegen Schlaflosigkeit ist es gut, vor dem Schlafengehen eine Entspannungszeit einzuplanen.
+
+  癌予防対策として、定期的な健康診断を受けることが重要です。
+  癌[がん]予防[よぼう]対策[たいさく]として、定期的[ていきてき]な 健康[けんこう]診断[しんだん]を 受[う]けることが 重要[じゅうよう]です。
+  Als Maßnahme zur Krebsvorsorge ist es wichtig, regelmäßige Gesundheitsuntersuchungen durchführen zu lassen.
+
+  地震対策として、家具の固定や非常食の備蓄が推奨されています。
+  地震[じしん]対策[たいさく]として、家具[かぐ]の 固定[こてい]や 非常食[ひじょうしょく]の 備蓄[びちく]が 推奨[すいしょう]されています。
+  Als Erdbeben-Vorsorgemaßnahme wird empfohlen, Möbel zu sichern und Notfallvorräte anzulegen.
+
+  公害対策として、工場の排出ガス規制が強化された。
+  公害[こうがい]対策[たいさく]として、工場[こうじょう]の 排出[はいしゅつ]ガス 規制[きせい]が 強化[きょうか]された。
+  Als Maßnahme gegen Umweltverschmutzung wurden die Abgasvorschriften für Fabriken verschärft.
+
+  マスコミ対策として、広報担当者を任命しました。
+  マスコミ 対策[たいさく]として、広報[こうほう]担当者[たんとうしゃ]を 任命[にんめい]しました。
+  Als Maßnahme für den Umgang mit den Medien haben wir einen Pressesprecher ernannt.
+
+  冷害対策として、農家は霜よけシートを使用しています。
+  冷害[れいがい]対策[たいさく]として、農家[のうか]は 霜[しも]よけシートを 使用[しよう]しています。
+  Als Maßnahme gegen Kälteschäden verwenden die Landwirte Frostschutzfolien.
+
+  予防対策を立てることで、多くの問題を回避できます。
+  予防[よぼう]対策[たいさく]を 立[た]てることで、多[おお]くの 問題[もんだい]を 回避[かいひ]できます。
+  Durch das Aufstellen von Präventivmaßnahmen können viele Probleme vermieden werden.
+
+  対策が遅れたため、被害が拡大してしまった。
+  対策[たいさく]が 遅[おく]れたため、被害[ひがい]が 拡大[かくだい]してしまった。
+  Da die Maßnahmen zu spät ergriffen wurden, hat sich der Schaden ausgeweitet.
+
+  台風接近に備えて、早めに対策を急ぐべきだ。
+  台風[たいふう]接近[せっきん]に 備[そな]えて、早[はや]めに 対策[たいさく]を 急[いそ]ぐべきだ。
+  Angesichts des herannahenden Taifuns sollten wir uns beeilen, frühzeitig Vorkehrungen zu treffen.
+
+  対策を怠ったことで、問題が悪化しました。
+  対策[たいさく]を 怠[おこた]ったことで、問題[もんだい]が 悪化[あっか]しました。
+  Weil wir es versäumt haben, Maßnahmen zu ergreifen, hat sich das Problem verschlimmert.
+
+  政府は新たな経済対策を講じると発表した。
+  政府[せいふ]は 新[あら]たな 経済[けいざい]対策[たいさく]を 講[こう]じると 発表[はっぴょう]した。
+  Die Regierung kündigte an, neue wirtschaftliche Maßnahmen zu ergreifen.
+
+  この問題に対する対策を一緒に考えましょう。
+  この 問題[もんだい]に 対[たい]する 対策[たいさく]を 一緒[いっしょ]に 考[かんが]えましょう。
+  Lass uns gemeinsam über Maßnahmen für dieses Problem nachdenken.
+
+  具体的な対策案を次回の会議で提出してください。
+  具体的[ぐたいてき]な 対策案[たいさくあん]を 次回[じかい]の 会議[かいぎ]で 提出[ていしゅつ]してください。
+  Bitte reichen Sie konkrete Vorschläge für Maßnahmen bei der nächsten Sitzung ein.
+
+  事前に対策を講じたことで、大きな被害を防ぐことができた。
+  事前[じぜん]に 対策[たいさく]を 講[こう]じたことで、大[おお]きな 被害[ひがい]を 防[ふせ]ぐことができた。
+  Dadurch, dass wir im Voraus Maßnahmen ergriffen haben, konnten wir größeren Schaden abwenden.
+
+  早い時期から適切な対策を練ることが重要です。
+  早[はや]い 時期[じき]から 適切[てきせつ]な 対策[たいさく]を 練[ね]ることが 重要[じゅうよう]です。
+  Es ist wichtig, frühzeitig angemessene Maßnahmen zu entwickeln.
+
+  新型ウイルス対策として、テレワークを導入する企業が増えています。
+  新型[しんがた]ウイルス 対策[たいさく]として、テレワークを 導入[どうにゅう]する 企業[きぎょう]が 増[ふ]えています。
+  Als Maßnahme gegen das neue Virus führen immer mehr Unternehmen Telearbeit ein.
+
+  環境保護対策として、使い捨てプラスチックの使用を控えましょう。
+  環境[かんきょう]保護[ほご]対策[たいさく]として、使[つか]い 捨[す]てプラスチックの 使用[しよう]を 控[ひか]えましょう。
+  Als Umweltschutzmaßnahme sollten wir den Gebrauch von Einwegplastik einschränken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

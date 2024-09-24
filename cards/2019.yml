@@ -2,13 +2,13 @@ Rang: 2019
 Lemma: なさる
 Lesung: ''
 Tonhöhen: .\.
-Definition: tun (ehrfürchtig)
+Definition: tun [ehrerbietig]
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: なさらない・なさった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,107 @@ Beispielsätze: |-
   デザートは 何[なに]になさいますか。
   Was möchten Sie als Nachtisch?
 
+  お客様、こちらにご署名をなさってください。
+  お 客様[きゃくさま]、こちらにご 署名[しょめい]をなさってください。
+  Sehr geehrter Kunde, bitte unterschreiben Sie hier.
+
+  先生は新しい研究をなさっています。
+  先生[せんせい]は 新[あたら]しい 研究[けんきゅう]をなさっています。
+  Der Professor führt eine neue Forschung durch.
+
+  どうぞお好きなようになさってください。
+  どうぞお 好[す]きなようになさってください。
+  Bitte machen Sie es so, wie es Ihnen gefällt.
+
+  お体にお気をつけになさってください。
+  お 体[からだ]にお 気[き]をつけになさってください。
+  Bitte achten Sie auf Ihre Gesundheit.
+
+  社長、会議の準備はもうなさいましたか。
+  社長[しゃちょう]、会議[かいぎ]の 準備[じゅんび]はもうなさいましたか。
+  Herr Direktor, haben Sie die Besprechung schon vorbereitet?
+
+  お待たせいたしました。ご注文はお決まりになさいましたか。
+  お 待[ま]たせいたしました。ご 注文[ちゅうもん]はお 決[き]まりになさいましたか。
+  Entschuldigen Sie die Wartezeit. Haben Sie sich schon für eine Bestellung entschieden?
+
+  どうぞゆっくりおくつろぎになさってください。
+  どうぞゆっくりおくつろぎになさってください。
+  Bitte machen Sie es sich gemütlich.
+
+  お客様、お荷物をお持ちしましょうか。
+  お 客様[きゃくさま]、お 荷物[にもつ]をお 持[も]ちしましょうか。
+  Sehr geehrter Gast, darf ich Ihr Gepäck für Sie tragen?
+
+  先生、素晴らしい講演をなさいました。
+  先生[せんせい]、素晴[すば]らしい 講演[こうえん]をなさいました。
+  Professor, Sie haben einen wunderbaren Vortrag gehalten.
+
+  お母様によろしくお伝えくださいませ。
+  お 母様[かあさま]によろしくお 伝[つた]えくださいませ。
+  Bitte richten Sie Ihrer Mutter meine Grüße aus.
+
+  社長、新しいプロジェクトについてお考えをお聞かせください。
+  社長[しゃちょう]、新[あたら]しいプロジェクトについてお 考[かんが]えをお 聞[き]かせください。
+  Herr Direktor, bitte teilen Sie uns Ihre Gedanken zum neuen Projekt mit.
+
+  お客様、お食事はいかがなさいますか。
+  お 客様[きゃくさま]、お 食事[しょくじ]はいかがなさいますか。
+  Sehr geehrter Gast, wie möchten Sie Ihre Mahlzeit einnehmen?
+
+  先生、この度は素晴らしい研究成果を発表なさいましたね。
+  先生[せんせい]、この 度[たび]は 素晴[すば]らしい 研究[けんきゅう] 成果[せいか]を 発表[はっぴょう]なさいましたね。
+  Professor, Sie haben diesmal hervorragende Forschungsergebnisse präsentiert.
+
+  お客様、お部屋のご案内をさせていただきます。こちらへどうぞ。
+  お 客様[きゃくさま]、お 部屋[へや]のご 案内[あんない]をさせていただきます。こちらへどうぞ。
+  Sehr geehrter Gast, ich werde Sie zu Ihrem Zimmer führen. Bitte folgen Sie mir.
+
+  先生、次の講義はいつなさいますか。
+  先生[せんせい]、次[つぎ]の 講義[こうぎ]はいつなさいますか。
+  Professor, wann werden Sie die nächste Vorlesung halten?
+
+  お客様、お会計はどのようになさいますか。
+  お 客様[きゃくさま]、お 会計[かいけい]はどのようになさいますか。
+  Sehr geehrter Kunde, wie möchten Sie bezahlen?
+
+  社長、新製品の発表会はいつなさる予定ですか。
+  社長[しゃちょう]、新[しん] 製品[せいひん]の 発表[はっぴょう] 会[かい]はいつなさる 予定[よてい]ですか。
+  Herr Direktor, wann planen Sie die Präsentation des neuen Produkts durchzuführen?
+
+  お客様、お荷物はこちらでお預かりいたしましょうか。
+  お 客様[きゃくさま]、お 荷物[にもつ]はこちらでお 預[あず]かりいたしましょうか。
+  Sehr geehrter Gast, sollen wir Ihr Gepäck hier für Sie aufbewahren?
+
+  先生、次の論文はいつ頃発表なさいますか。
+  先生[せんせい]、次[つぎ]の 論文[ろんぶん]はいつ 頃[ごろ] 発表[はっぴょう]なさいますか。
+  Professor, wann ungefähr werden Sie Ihre nächste Abhandlung veröffentlichen?
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>なさる ist eine ehrerbietig-höfliche Form von する (tun, machen). Es wird verwendet, um Respekt gegenüber dem Angesprochenen oder einer dritten Person auszudrücken.</p>
+  <p>Konjugation:</p>
+  <ul>
+    <li>Verneinung: なさらない</li>
+    <li>Vergangenheit: なさった</li>
+    <li>ます-Form: なさいます</li>
+    <li>Imperativ: なさい / なされ</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">先生[せんせい]、どのようなご 研究[けんきゅう]をなさっているのですか。</div>
+    <div class="de spoiler">Professor, an welcher Art von Forschung arbeiten Sie?</div>
+  </div>
+  <div class="examples">
+    <div class="jp">お 客様[きゃくさま]、ご 注文[ちゅうもん]はお 決[き]まりになりましたか。</div>
+    <div class="de spoiler">Sehr geehrter Gast, haben Sie sich für eine Bestellung entschieden?</div>
+  </div>
+  <p>なさる wird oft in Verbindung mit お～になる verwendet, um eine noch höflichere Form auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">社長[しゃちょう]、いつご 出発[しゅっぱつ]になさいますか。</div>
+    <div class="de spoiler">Herr Direktor, wann werden Sie abreisen?</div>
+  </div>

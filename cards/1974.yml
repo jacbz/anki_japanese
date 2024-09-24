@@ -2,8 +2,8 @@ Rang: 1974
 Lemma: 中身
 Lesung: なかみ
 Tonhöhen: .\.
-Definition: Inhalt; Substanz
-Alternativschreibweisen: ''
+Definition: Inhalt
+Alternativschreibweisen: 中味
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -16,6 +16,82 @@ Beispielsätze: |-
   この箱の中身は何だろう。
   この 箱[はこ]の 中身[なかみ]は 何[なん]だろう。
   Was ist in dieser Box?
+
+  ビンの中身を確認してください。
+  ビンの 中身[なかみ]を 確認[かくにん]してください。
+  Bitte überprüfen Sie den Inhalt der Flasche.
+
+  財布の中身を全部使っちゃった。
+  財布[さいふ]の 中身[なかみ]を 全部[ぜんぶ] 使[つか]っちゃった。
+  Ich habe den gesamten Inhalt meines Geldbeutels ausgegeben.
+
+  彼の話には中身がないと感じた。
+  彼[かれ]の 話[はなし]には 中身[なかみ]がないと 感[かん]じた。
+  Ich hatte das Gefühl, dass seine Rede gehaltlos war.
+
+  荷物の中身を見せてもらえますか。
+  荷物[にもつ]の 中身[なかみ]を 見[み]せてもらえますか。
+  Könnten Sie mir bitte den Inhalt Ihres Gepäcks zeigen?
+
+  好奇心から、友達のカバンの中身を見てしまった。
+  好奇心[こうきしん]から、友達[ともだち]のカバンの 中身[なかみ]を 見[み]てしまった。
+  Aus Neugier habe ich in die Tasche meines Freundes geschaut.
+
+  「どっかにあるはずだが」ハグリッドはポケットをひっくり返し、中身をカウンターに出しはじめた。
+  「どっかにあるはずだが」ハグリッドはポケットをひっくり 返[かえ]し、中身[なかみ]をカウンターに 出[だ]しはじめた。
+  »Hab ihn hier irgendwo«, sagte Hagrid und begann seine Taschen zu entleeren und ihren Inhalt auf dem Schalter auszubreiten.
+
+  私は仏頂面をしてリュックの中身を土の上へあけ、寝袋を底に詰めこんだ。
+  私[わたし]は 仏頂面[ぶっちょうづら]をしてリュックの 中身[なかみ]を 土[つち]の 上[うえ]へあけ、寝袋[ねぶくろ]を 底[そこ]に 詰[つ]めこんだ。
+  Mit mürrischem Gesicht leerte ich den Rucksack auf den Boden aus und stopfte den Schlafsack zuunterst hinein.
+
+  缶をさかさにして中身が一滴も残っていないことをたしかめた。
+  缶[かん]をさかさにして 中身[なかみ]が 一滴[いってき]も 残[のこ]っていないことをたしかめた。
+  Ich drehte die Dose um, um sicherzugehen, dass kein einziger Tropfen mehr darin war.
+
+  ネットの内容にはまだ中身がないものも多いですね。
+  ネットの 内容[ないよう]にはまだ 中身[なかみ]がないものも 多[おお]いですね。
+  Im Internet gibt es noch viele Inhalte ohne wirkliche Substanz, nicht wahr?
+
+  この一年間、論説委員をして中身の濃い体験をしました。
+  この 一年間[いちねんかん]、論説委員[ろんせついいん]をして 中身[なかみ]の 濃[こ]い 体験[たいけん]をしました。
+  In diesem Jahr als Kolumnist habe ich sehr gehaltvolle Erfahrungen gemacht.
+
+  プレゼントの中身が気になって、開けるのが待ち遠しい。
+  プレゼントの 中身[なかみ]が 気[き]になって、開[あ]けるのが 待[ま]ち 遠[どお]しい。
+  Ich bin so neugierig auf den Inhalt des Geschenks, dass ich es kaum erwarten kann, es zu öffnen.
+
+  彼女は慎重に封筒の中身を確認した。
+  彼女[かのじょ]は 慎重[しんちょう]に 封筒[ふうとう]の 中身[なかみ]を 確認[かくにん]した。
+  Sie überprüfte vorsichtig den Inhalt des Umschlags.
+
+  この本は表紙は派手だけど、中身はそれほど面白くない。
+  この 本[ほん]は 表紙[ひょうし]は 派手[はで]だけど、中身[なかみ]はそれほど 面白[おもしろ]くない。
+  Dieses Buch hat zwar einen auffälligen Einband, aber der Inhalt ist nicht besonders interessant.
+
+  冷蔵庫の中身を整理して、古くなった食品は捨てましょう。
+  冷蔵庫[れいぞうこ]の 中身[なかみ]を 整理[せいり]して、古[ふる]くなった 食品[しょくひん]は 捨[す]てましょう。
+  Lass uns den Inhalt des Kühlschranks ordnen und alte Lebensmittel wegwerfen.
+
+  彼は丁寧に書類の中身を説明してくれた。
+  彼[かれ]は 丁寧[ていねい]に 書類[しょるい]の 中身[なかみ]を 説明[せつめい]してくれた。
+  Er erklärte mir sorgfältig den Inhalt der Dokumente.
+
+  パッケージの中身と説明書が一致しているか確認してください。
+  パッケージの 中身[なかみ]と 説明書[せつめいしょ]が 一致[いっち]しているか 確認[かくにん]してください。
+  Bitte überprüfen Sie, ob der Inhalt der Verpackung mit der Anleitung übereinstimmt.
+
+  メールの中身を読む前に、送信者を確認するのは重要だ。
+  メールの 中身[なかみ]を 読[よ]む 前[まえ]に、送信者[そうしんしゃ]を 確認[かくにん]するのは 重要[じゅうよう]だ。
+  Es ist wichtig, den Absender zu überprüfen, bevor man den Inhalt einer E-Mail liest.
+
+  彼女は日記の中身を誰にも見せたくないと言った。
+  彼女[かのじょ]は 日記[にっき]の 中身[なかみ]を 誰[だれ]にも 見[み]せたくないと 言[い]った。
+  Sie sagte, sie wolle niemandem den Inhalt ihres Tagebuchs zeigen.
+
+  講義の中身が充実していて、とても勉強になった。
+  講義[こうぎ]の 中身[なかみ]が 充実[じゅうじつ]していて、とても 勉強[べんきょう]になった。
+  Der Inhalt der Vorlesung war sehr gehaltvoll und ich habe viel gelernt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

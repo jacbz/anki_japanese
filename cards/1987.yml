@@ -7,15 +7,91 @@ Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. guitar
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私の趣味はギターを弾くことです。
-  私[わたし]の 趣味[しゅみ]はギターを 弾[ひ]くことです。
+  わたしの 趣味[しゅみ]はギターを 弾[ひ]くことです。
   Mein Hobby ist Gitarre spielen.
+
+  新しいギター弦を買う必要があります。
+  新[あたら]しいギター 弦[げん]を 買[か]う 必要[ひつよう]があります。
+  Ich muss neue Gitarrensaiten kaufen.
+
+  ギターケースを忘れずに持ってきてください。
+  ギターケースを 忘[わす]れずに 持[も]ってきてください。
+  Bitte vergessen Sie nicht, Ihren Gitarrenkoffer mitzubringen.
+
+  彼女はプロのギター奏者として活躍しています。
+  彼女[かのじょ]はプロのギター 奏者[そうしゃ]として 活躍[かつやく]しています。
+  Sie ist als professionelle Gitarristin erfolgreich.
+
+  電気ギターの音は独特で魅力的です。
+  電気[でんき]ギターの 音[おと]は 独特[どくとく]で 魅力的[みりょくてき]です。
+  Der Klang einer elektrischen Gitarre ist einzigartig und faszinierend.
+
+  フォークギターは初心者にも弾きやすいです。
+  フォークギターは 初心者[しょしんしゃ]にも 弾[ひ]きやすいです。
+  Folkgitarren sind auch für Anfänger leicht zu spielen.
+
+  クラシックギターのレッスンを受けています。
+  クラシックギターのレッスンを 受[う]けています。
+  Ich nehme Unterricht in klassischer Gitarre.
+
+  スチールギターの演奏を聴くのが好きです。
+  スチールギターの 演奏[えんそう]を 聴[き]くのが 好[す]きです。
+  Ich höre gerne Steelguitar-Musik.
+
+  ギターに新しい弦を張りました。
+  ギターに 新[あたら]しい 弦[げん]を 張[は]りました。
+  Ich habe neue Saiten auf meine Gitarre gezogen.
+
+  毎日1時間ギターを弾く練習をしています。
+  毎日[まいにち]1時間[じかん]ギターを 弾[ひ]く 練習[れんしゅう]をしています。
+  Ich übe jeden Tag eine Stunde lang Gitarre spielen.
+
+  子供の頃からギターを習っています。
+  子供[こども]の 頃[ころ]からギターを 習[なら]っています。
+  Ich lerne seit meiner Kindheit Gitarre spielen.
+
+  ギターを爪弾くと、柔らかい音色が出ます。
+  ギターを 爪弾[つまび]くと、柔[やわ]らかい 音色[ねいろ]が 出[で]ます。
+  Wenn man die Gitarre zupft, erzeugt es einen sanften Klang.
+
+  彼が僕より優れている点はギターが弾けることだけです。
+  彼[かれ]が 僕[ぼく]より 優[すぐ]れている 点[てん]はギターが 弾[ひ]けることだけです。
+  Der einzige Punkt, in dem er mir überlegen ist, ist, dass er Gitarre spielen kann.
+
+  レコードが終わると、レイコさんはベッドの下からギターケースを出してきました。
+  レコードが 終[お]わると、レイコさんはベッドの 下[した]からギターケースを 出[だ]してきました。
+  Als die Schallplatte zu Ende war, holte Reiko einen Gitarrenkoffer unter ihrem Bett hervor.
+
+  ギターの演奏を聴いて、心が落ち着きます。
+  ギターの 演奏[えんそう]を 聴[き]いて、心[こころ]が 落[お]ち 着[つ]きます。
+  Das Hören von Gitarrenmusik beruhigt mich.
+
+  彼はギターを抱えて、路上パフォーマンスをしています。
+  彼[かれ]はギターを 抱[かか]えて、路上[ろじょう]パフォーマンスをしています。
+  Er macht Straßenmusik mit seiner Gitarre.
+
+  ギターの調子が悪いので、修理に出す必要があります。
+  ギターの 調子[ちょうし]が 悪[わる]いので、修理[しゅうり]に 出[だ]す 必要[ひつよう]があります。
+  Meine Gitarre ist verstimmt, also muss ich sie zur Reparatur bringen.
+
+  ギターの音色は、その木材によって変わります。
+  ギターの 音色[ねいろ]は、その 木材[もくざい]によって 変[か]わります。
+  Der Klang einer Gitarre variiert je nach verwendetem Holz.
+
+  彼女は自作の歌をギター伴奏で歌います。
+  彼女[かのじょ]は 自作[じさく]の 歌[うた]をギター 伴奏[ばんそう]で 歌[うた]います。
+  Sie singt ihre selbst komponierten Lieder mit Gitarrenbegleitung.
+
+  ギターのチューニングは大切な作業です。
+  ギターのチューニングは 大切[たいせつ]な 作業[さぎょう]です。
+  Das Stimmen der Gitarre ist eine wichtige Aufgabe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

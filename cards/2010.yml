@@ -2,7 +2,7 @@ Rang: 2010
 Lemma: 挑戦
 Lesung: ちょうせん
 Tonhöhen: ..^^^
-Definition: Herausforderung; versuchen
+Definition: Herausforderung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   若い人には新しいことに挑戦してほしい。
-  若[わか]い人には 新[あたら]しいことに 挑戦[ちょうせん]してほしい。
-  Ich möchte, dass junge Menschen neue Dinge ausprobieren.
+  若[わか]い 人[ひと]には 新[あたら]しいことに 挑戦[ちょうせん]してほしい。
+  Ich möchte, dass junge Leute neue Herausforderungen annehmen.
+
+  彼は世界記録に挑戦する準備をしています。
+  彼[かれ]は 世界記録[せかいきろく]に 挑戦[ちょうせん]する 準備[じゅんび]をしています。
+  Er bereitet sich darauf vor, den Weltrekord zu brechen.
+
+  この挑戦状を受け取ったら、試合は避けられない。
+  この 挑戦状[ちょうせんじょう]を 受[う]け 取[と]ったら、試合[しあい]は 避[さ]けられない。
+  Wenn du diese Herausforderung annimmst, ist der Wettkampf unvermeidlich.
+
+  オリンピックで金メダルを獲得するのは彼女の挑戦だ。
+  オリンピックで 金[きん]メダルを 獲得[かくとく]するのは 彼女[かのじょ]の 挑戦[ちょうせん]だ。
+  Es ist ihre Herausforderung, bei den Olympischen Spielen eine Goldmedaille zu gewinnen.
+
+  困難に挑戦することで、人は成長できる。
+  困難[こんなん]に 挑戦[ちょうせん]することで、人[ひと]は 成長[せいちょう]できる。
+  Durch das Annehmen von Herausforderungen können Menschen wachsen.
+
+  彼の挑戦的な態度は周りの人々を不快にさせた。
+  彼[かれ]の 挑戦的[ちょうせんてき]な 態度[たいど]は 周[まわ]りの 人々[ひとびと]を 不快[ふかい]にさせた。
+  Seine herausfordernde Haltung machte die Menschen um ihn herum unbehaglich.
+
+  新しいビジネスに挑戦するのはリスクがあるが、やりがいがある。
+  新[あたら]しいビジネスに 挑戦[ちょうせん]するのはリスクがあるが、やりがいがある。
+  Ein neues Geschäft zu starten ist riskant, aber lohnend.
+
+  挑戦者として、彼は現チャンピオンに勝つ自信を持っている。
+  挑戦者[ちょうせんしゃ]として、彼[かれ]は 現[げん]チャンピオンに 勝[か]つ 自信[じしん]を 持[も]っている。
+  Als Herausforderer ist er zuversichtlich, den aktuellen Champion zu besiegen.
+
+  この課題は難しいが、挑戦する価値がある。
+  この 課題[かだい]は 難[むずか]しいが、挑戦[ちょうせん]する 価値[かち]がある。
+  Diese Aufgabe ist schwierig, aber es lohnt sich, sie anzugehen.
+
+  彼女の挑戦的な発言は会議の雰囲気を変えた。
+  彼女[かのじょ]の 挑戦的[ちょうせんてき]な 発言[はつげん]は 会議[かいぎ]の 雰囲気[ふんいき]を 変[か]えた。
+  Ihre provokante Äußerung veränderte die Atmosphäre der Besprechung.
+
+  登山家たちは、この未踏峰への挑戦を決意した。
+  登山家[とざんか]たちは、この 未踏峰[みとうほう]への 挑戦[ちょうせん]を 決意[けつい]した。
+  Die Bergsteiger beschlossen, diesen noch unbestiegenen Gipfel zu bezwingen.
+
+  彼の挑戦的な目つきは、相手を怒らせた。
+  彼[かれ]の 挑戦的[ちょうせんてき]な 目[め]つきは、相手[あいて]を 怒[おこ]らせた。
+  Sein herausfordernder Blick verärgerte seinen Gegner.
+
+  新しい技術に挑戦することで、会社は競争力を維持できる。
+  新[あたら]しい 技術[ぎじゅつ]に 挑戦[ちょうせん]することで、会社[かいしゃ]は 競争力[きょうそうりょく]を 維持[いじ]できる。
+  Durch die Auseinandersetzung mit neuen Technologien kann das Unternehmen seine Wettbewerbsfähigkeit erhalten.
+
+  彼女は常に自分の限界に挑戦している。
+  彼女[かのじょ]は 常[つね]に 自分[じぶん]の 限界[げんかい]に 挑戦[ちょうせん]している。
+  Sie fordert ständig ihre eigenen Grenzen heraus.
+
+  その挑戦的な態度に出るのは控えたほうがいいよ。
+  その 挑戦的[ちょうせんてき]な 態度[たいど]に 出[で]るのは 控[ひか]えたほうがいいよ。
+  Du solltest es vermeiden, ein provokatives Verhalten an den Tag zu legen.
+
+  彼らは困難に挑戦し、最終的に成功を収めた。
+  彼[かれ]らは 困難[こんなん]に 挑戦[ちょうせん]し、最終的[さいしゅうてき]に 成功[せいこう]を 収[おさ]めた。
+  Sie stellten sich den Schwierigkeiten und waren am Ende erfolgreich.
+
+  新しいスキルを学ぶことは、自分への挑戦だ。
+  新[あたら]しいスキルを 学[まな]ぶことは、自分[じぶん]への 挑戦[ちょうせん]だ。
+  Das Erlernen neuer Fähigkeiten ist eine Herausforderung an sich selbst.
+
+  彼の挑戦的な態度は、チームの雰囲気を悪くした。
+  彼[かれ]の 挑戦的[ちょうせんてき]な 態度[たいど]は、チームの 雰囲気[ふんいき]を 悪[わる]くした。
+  Seine herausfordernde Haltung verschlechterte die Stimmung im Team.
+
+  この難問に挑戦する勇気がある人はいますか？
+  この 難問[なんもん]に 挑戦[ちょうせん]する 勇気[ゆうき]がある 人[ひと]はいますか？
+  Gibt es jemanden, der den Mut hat, sich dieser schwierigen Frage zu stellen?
+
+  彼女は常に新しいことに挑戦する精神を持っている。
+  彼女[かのじょ]は 常[つね]に 新[あたら]しいことに 挑戦[ちょうせん]する 精神[せいしん]を 持[も]っている。
+  Sie hat stets den Geist, neue Dinge in Angriff zu nehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 挑戦 (chōsen) hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Eine Herausforderung oder Aufforderung (zum Kampf)</li>
+    <li>Die Inangriffnahme einer schwierigen Aufgabe</li>
+  </ol>
+  <p>Es wird oft in Verbindung mit dem Verb する (suru) verwendet, um auszudrücken, dass man eine Herausforderung annimmt oder etwas Schwieriges in Angriff nimmt.</p>
+  <div class="examples">
+    <div class="jp">新[あたら]しいプロジェクトに 挑戦[ちょうせん]する</div>
+    <div class="de spoiler">Ein neues Projekt in Angriff nehmen</div>
+  </div>
+  <p>Das Adjektiv 挑戦的 (chōsenteki) bedeutet "herausfordernd" oder "provozierend".</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 挑戦的[ちょうせんてき]な 態度[たいど]は 周[まわ]りの 人[ひと]を 不快[ふかい]にさせた</div>
+    <div class="de spoiler">Seine herausfordernde Haltung verärgerte die Menschen um ihn herum</div>
+  </div>

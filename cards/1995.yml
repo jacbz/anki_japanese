@@ -2,13 +2,13 @@ Rang: 1995
 Lemma: 踊る
 Lesung: おどる
 Tonhöhen: .^^
-Definition: tanzen
-Alternativschreibweisen: ''
+Definition: tanzen; springen
+Alternativschreibweisen: 躍る・跳る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 踊らない・踊った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,89 @@ Beispielsätze: |-
   一晩中[ひとばんじゅう]カラオケを 歌[うた]ったり 踊[おど]ったりした。
   Ich habe die ganze Nacht getanzt und Karaoke gesungen.
 
+  バレエを踊るのは体力がいる。
+  バレエを 踊[おど]るのは 体力[たいりょく]がいる。
+  Ballett zu tanzen erfordert viel Kraft.
+
+  タンゴを踊るのが上手になりたい。
+  タンゴを 踊[おど]るのが 上手[じょうず]になりたい。
+  Ich möchte besser im Tangotanzen werden.
+
+  舞台で踊るのは緊張する。
+  舞台[ぶたい]で 踊[おど]るのは 緊張[きんちょう]する。
+  Auf der Bühne zu tanzen macht mich nervös.
+
+  音楽に乗せて踊るのが好きだ。
+  音楽[おんがく]に 乗[の]せて 踊[おど]るのが 好[す]きだ。
+  Ich mag es, zur Musik zu tanzen.
+
+  上手に踊れるようになるには練習が必要だ。
+  上手[じょうず]に 踊[おど]れるようになるには 練習[れんしゅう]が 必要[ひつよう]だ。
+  Um gut tanzen zu können, braucht man Übung.
+
+  彼女は踊るように歩いている。
+  彼女[かのじょ]は 踊[おど]るように 歩[ある]いている。
+  Sie geht mit tänzelnden Schritten.
+
+  子供たちを踊らせて楽しませた。
+  子供[こども]たちを 踊[おど]らせて 楽[たの]しませた。
+  Wir ließen die Kinder tanzen und hatten Spaß dabei.
+
+  ベタッとしたチークを江美子が踊るのを見ていた。
+  ベタッとしたチークを 江美子[えみこ]が 踊[おど]るのを 見[み]ていた。
+  Ich beobachtete, wie Emiko ihren Klammerblues tanzte.
+
+  蓄音機のレコードに合わせて踊っている人たちがいた。
+  蓄音機[ちくおんき]のレコードに 合[あ]わせて 踊[おど]っている 人[ひと]たちがいた。
+  Es gab Leute, die nach Grammophonplatten tanzten.
+
+  背をまるめ、ひょこひょこ踊るような足取りで歩いた。
+  背[せ]をまるめ、ひょこひょこ 踊[おど]るような 足取[あしど]りで 歩[ある]いた。
+  Mit gebeugten Schultern ging er mit fast tänzelnden Schritten.
+
+  斗の水面で、小さな渦が踊っている。
+  斗[と]の 水面[すいめん]で、小[ちい]さな 渦[うず]が 踊[おど]っている。
+  Auf der Wasseroberfläche des Eimers tanzt ein kleiner Strudel.
+
+  長めの針先が、紙函の底の粒をひょいひょい、踊るように拾っていく。
+  長[なが]めの 針先[はりさき]が、紙函[かみばこ]の 底[そこ]の 粒[つぶ]をひょいひょい、踊[おど]るように 拾[ひろ]っていく。
+  Die lange Nadelspitze schien zu tanzen, als sie die Körner vom Boden der Papierschachtel aufhob.
+
+  網の中で魚が躍っている。
+  網[あみ]の 中[なか]で 魚[さかな]が 躍[おど]っている。
+  Der Fisch springt im Netz.
+
+  ウサギがぴょんぴょんと躍っている。
+  ウサギがぴょんぴょんと 躍[おど]っている。
+  Der Hase hüpft wie ein Häschen.
+
+  嬉しくて心が躍った。
+  嬉[うれ]しくて 心[こころ]が 躍[おど]った。
+  Mein Herz hüpfte vor Freude.
+
+  私は、異常な興奮を感じ、体中の血が躍るようだった。
+  私[わたし]は、異常[いじょう]な 興奮[こうふん]を 感[かん]じ、体中[からだじゅう]の 血[ち]が 躍[おど]るようだった。
+  Ich spürte eine ungewöhnliche Erregung, als würde das Blut in meinem ganzen Körper tanzen.
+
+  ハリーの心は躍った。新しい生活への期待で胸が高鳴った。
+  ハリーの 心[こころ]は 躍[おど]った。新[あた]しい 生活[せいかつ]への 期待[きたい]で 胸[むね]が 高鳴[たかな]った。
+  Harrys Herz hüpfte. Seine Brust pochte vor Erwartung auf das neue Leben.
+
+  彼女の演技に心を躍らせた。
+  彼女[かのじょ]の 演技[えんぎ]に 心[こころ]を 躍[おど]らせた。
+  Ihre Darbietung ließ mein Herz höher schlagen.
+
+  期待で胸を躍らせながら、結果を待った。
+  期待[きたい]で 胸[むね]を 躍[おど]らせながら、結果[けっか]を 待[ま]った。
+  Mit klopfendem Herzen vor Erwartung wartete ich auf das Ergebnis.
+
+  笛を吹いても誰も踊らなかった。
+  笛[ふえ]を 吹[ふ]いても 誰[だれ]も 踊[おど]らなかった。
+  Obwohl die Flöte gespielt wurde, tanzte niemand.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: <p>踊る kann sowohl "tanzen" als auch "springen

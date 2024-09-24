@@ -2,8 +2,8 @@ Rang: 1954
 Lemma: 申し込み
 Lesung: もうしこみ
 Tonhöhen: .^^^^
-Definition: Anmeldung
-Alternativschreibweisen: ''
+Definition: Anmeldung; Antrag
+Alternativschreibweisen: 申込み
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ↗Zeitungen
@@ -14,12 +14,105 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ツアーのお申し込みは明日までです。
-  ツアーのお 申[もう]し 込[こ]みは 明日[あした]までです。
-  Anmeldungen für die Tour werden bis morgen angenommen.
+  ツアーの お 申[もう]し 込[こ]みは 明日[あした]までです。
+  Die Anmeldung für die Tour ist bis morgen möglich.
+
+  申し込みフォームに必要事項を記入してください。
+  申[もう]し 込[こ]みフォームに 必要事項[ひつようじこう]を 記入[きにゅう]してください。
+  Bitte füllen Sie alle erforderlichen Felder im Anmeldeformular aus.
+
+  申し込み期限が迫っているので、早めに手続きをしましょう。
+  申[もう]し 込[こ]み 期限[きげん]が 迫[せま]っているので、早[はや]めに 手続[てつづ]きをしましょう。
+  Da die Anmeldefrist näher rückt, sollten wir die Formalitäten bald erledigen.
+
+  この講座の申し込み窓口は2階にあります。
+  この 講座[こうざ]の 申[もう]し 込[こ]み 窓口[まどぐち]は2階[かい]にあります。
+  Der Anmeldeschalter für diesen Kurs befindet sich im zweiten Stock.
+
+  申し込み者が多すぎて、抽選になりました。
+  申[もう]し 込[こ]み 者[しゃ]が 多[おお]すぎて、抽選[ちゅうせん]になりました。
+  Es gab so viele Bewerber, dass wir eine Verlosung durchführen mussten.
+
+  申し込み所の場所がわからないのですが。
+  申[もう]し 込[こ]み 所[じょ]の 場所[ばしょ]がわからないのですが。
+  Ich weiß nicht, wo sich die Anmeldestelle befindet.
+
+  この申し込み書を丁寧に記入してください。
+  この 申[もう]し 込[こ]み 書[しょ]を 丁寧[ていねい]に 記入[きにゅう]してください。
+  Bitte füllen Sie dieses Antragsformular sorgfältig aus.
+
+  申し込み手数料は500円です。
+  申[もう]し 込[こ]み 手数料[てすうりょう]は500円[えん]です。
+  Die Anmeldegebühr beträgt 500 Yen.
+
+  申し込み手続きはオンラインで完了できます。
+  申[もう]し 込[こ]み 手続[てつづ]きはオンラインで 完了[かんりょう]できます。
+  Die Anmeldung kann online abgeschlossen werden.
+
+  この申し込み用紙はどこで入手できますか？
+  この 申[もう]し 込[こ]み 用紙[ようし]はどこで 入手[にゅうしゅ]できますか？
+  Wo kann ich dieses Anmeldeformular bekommen?
+
+  保険の申し込みには身分証明書が必要です。
+  保険[ほけん]の 申[もう]し 込[こ]みには 身分証明書[みぶんしょうめいしょ]が 必要[ひつよう]です。
+  Für den Versicherungsantrag benötigen Sie einen Personalausweis.
+
+  イベントへの参加申し込みは先着順です。
+  イベントへの 参加[さんか] 申[もう]し 込[こ]みは 先着順[せんちゃくじゅん]です。
+  Die Anmeldung zur Teilnahme am Event erfolgt nach dem Prinzip "Wer zuerst kommt, mahlt zuerst".
+
+  ホテルの予約申し込みは電話でも受け付けています。
+  ホテルの 予約[よやく] 申[もう]し 込[こ]みは 電話[でんわ]でも 受[う]け 付[つ]けています。
+  Reservierungsanfragen für das Hotel werden auch telefonisch entgegengenommen.
+
+  申し込みが殺到しているため、受付を終了しました。
+  申[もう]し 込[こ]みが 殺到[さっとう]しているため、受付[うけつけ]を 終了[しゅうりょう]しました。
+  Aufgrund des Ansturms von Bewerbungen haben wir die Annahme von Anmeldungen beendet.
+
+  申し込み順に座席を割り当てます。
+  申[もう]し 込[こ]み 順[じゅん]に 座席[ざせき]を 割[わり]り 当[あ]てます。
+  Die Sitzplätze werden in der Reihenfolge der Anmeldungen zugeteilt.
+
+  この申し込みの誘引は法的拘束力を持ちません。
+  この 申[もう]し 込[こ]みの 誘引[ゆういん]は 法的[ほうてき] 拘束力[こうそくりょく]を 持[も]ちません。
+  Diese Aufforderung zur Angebotsabgabe ist rechtlich nicht bindend.
+
+  申し込みを断る場合は、丁寧に説明してください。
+  申[もう]し 込[こ]みを 断[ことわ]る 場合[ばあい]は、丁寧[ていねい]に 説明[せつめい]してください。
+  Falls Sie eine Bewerbung ablehnen, erklären Sie es bitte höflich.
+
+  明日の正午に申し込みを締め切ります。
+  明日[あした]の 正午[しょうご]に 申[もう]し 込[こ]みを 締[し]め 切[き]ります。
+  Morgen um 12 Uhr mittags schließen wir die Anmeldung.
+
+  急な用事ができたので、申し込みを取り消したいです。
+  急[きゅう]な 用事[ようじ]ができたので、申[もう]し 込[こ]みを 取[と]り 消[け]したいです。
+  Ich möchte meine Anmeldung zurückziehen, da etwas Dringendes dazwischengekommen ist.
+
+  結婚の申し込みは、ロマンチックな場所でしたいな。
+  結婚[けっこん]の 申[もう]し 込[こ]みは、ロマンチックな 場所[ばしょ]でしたいな。
+  Ich möchte den Heiratsantrag an einem romantischen Ort machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 申し込み (もうしこみ) hat mehrere verwandte Bedeutungen:</p>
+  <ul>
+    <li>Anmeldung (z.B. für einen Kurs oder eine Veranstaltung)</li>
+    <li>Bewerbung (z.B. für eine Stelle oder einen Studienplatz)</li>
+    <li>Antrag (z.B. für eine Versicherung oder einen Kredit)</li>
+    <li>Bestellung (z.B. von Waren oder Dienstleistungen)</li>
+  </ul>
+  <p>Es wird oft in formellen Kontexten verwendet, besonders in Geschäftssituationen oder bei offiziellen Vorgängen.</p>
+  <div class='examples'>
+    <div class='jp'>申[もう]し 込[こ]み 期限[きげん]を 過[す]ぎてしまったので、 参加[さんか]できなくなりました。</div>
+    <div class='de spoiler'>Da ich die Anmeldefrist verpasst habe, kann ich nicht mehr teilnehmen.</div>
+  </div>
+  <p>Das Verb 申し込む (もうしこむ) wird verwendet, um den Vorgang des Anmeldens, Bewerbens oder Beantragens auszudrücken.</p>
+  <div class='examples'>
+    <div class='jp'>新[あたら]しい クレジットカードに 申[もう]し 込[こ]もうと 思[おも]っています。</div>
+    <div class='de spoiler'>Ich denke darüber nach, eine neue Kreditkarte zu beantragen.</div>
+  </div>

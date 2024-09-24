@@ -2,13 +2,13 @@ Rang: 1955
 Lemma: 高まる
 Lesung: たかまる
 Tonhöhen: .^\.
-Definition: steigen, erhöhen, wachsen
+Definition: steigen, zunehmen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 高まらない・高まった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   近年、ゴルフの人気が高まっている。
   近年[きんねん]、ゴルフの 人気[にんき]が 高[たか]まっている。
   In den letzten Jahren hat die Beliebtheit von Golf zugenommen.
+
+  台風が近づくにつれて、波が高まっていった。
+  台風[たいふう]が 近[ちか]づくにつれて、波[なみ]が 高[たか]まっていった。
+  Als sich der Taifun näherte, wurden die Wellen immer höher.
+
+  熱が39度まで高まったので、病院に行くことにした。
+  熱[ねつ]が39度[ど]まで 高[たか]まったので、病院[びょういん]に 行[い]くことにした。
+  Da das Fieber auf 39 Grad gestiegen war, beschloss ich, ins Krankenhaus zu gehen.
+
+  気温の上昇とともに、エアコンの使用による電力需要が高まる。
+  気温[きおん]の 上昇[じょうしょう]とともに、エアコンの 使用[しよう]による 電力需要[でんりょくじゅよう]が 高[たか]まる。
+  Mit steigenden Temperaturen nimmt die Stromnachfrage durch den Gebrauch von Klimaanlagen zu.
+
+  選挙が近づくにつれて、政治への関心が高まっている。
+  選挙[せんきょ]が 近[ちか]づくにつれて、政治[せいじ]への 関心[かんしん]が 高[たか]まっている。
+  Je näher die Wahl rückt, desto mehr steigt das Interesse an Politik.
+
+  新製品の発売により、その企業の重要度が市場で高まった。
+  新製品[しんせいひん]の 発売[はつばい]により、その 企業[きぎょう]の 重要度[じゅうようど]が 市場[しじょう]で 高[たか]まった。
+  Durch die Einführung des neuen Produkts ist die Bedeutung des Unternehmens auf dem Markt gestiegen.
+
+  試合の終盤に向けて、観客の興奮が高まっていく。
+  試合[しあい]の 終盤[しゅうばん]に 向[む]けて、観客[かんきゃく]の 興奮[こうふん]が 高[たか]まっていく。
+  Gegen Ende des Spiels steigt die Aufregung der Zuschauer.
+
+  ストレスが高まると、体調を崩しやすくなります。
+  ストレスが 高[たか]まると、体調[たいちょう]を 崩[くず]しやすくなります。
+  Wenn der Stress zunimmt, wird man leichter krank.
+
+  彼の演技力が高まるにつれて、より難しい役をもらえるようになった。
+  彼[かれ]の 演技力[えんぎりょく]が 高[たか]まるにつれて、より 難[むずか]しい 役[やく]をもらえるようになった。
+  Je mehr sich seine schauspielerischen Fähigkeiten verbesserten, desto schwierigere Rollen bekam er.
+
+  経済成長に伴い、環境問題への意識が高まっている。
+  経済成長[けいざいせいちょう]に 伴[ともな]い、環境問題[かんきょうもんだい]への 意識[いしき]が 高[たか]まっている。
+  Mit dem Wirtschaftswachstum steigt das Bewusstsein für Umweltprobleme.
+
+  彼女の歌声が高まるにつれて、会場全体が静まり返った。
+  彼女[かのじょ]の 歌声[うたごえ]が 高[たか]まるにつれて、会場全体[かいじょうぜんたい]が 静[しず]まり 返[かえ]った。
+  Als ihre Stimme lauter wurde, verstummte der ganze Saal.
+
+  インフレにより物価が高まっている。
+  インフレにより 物価[ぶっか]が 高[たか]まっている。
+  Durch die Inflation steigen die Preise.
+
+  運動を続けるうちに、体力が高まってきた。
+  運動[うんどう]を 続[つづ]けるうちに、体力[たいりょく]が 高[たか]まってきた。
+  Durch das fortgesetzte Training hat sich meine körperliche Fitness verbessert.
+
+  彼への批判の声が高まるにつれて、辞任の圧力が強まった。
+  彼[かれ]への 批判[ひはん]の 声[こえ]が 高[たか]まるにつれて、辞任[じにん]の 圧力[あつりょく]が 強[つよ]まった。
+  Je lauter die Kritik an ihm wurde, desto stärker wurde der Druck zum Rücktritt.
+
+  技術の進歩とともに、AIへの期待が高まっている。
+  技術[ぎじゅつ]の 進歩[しんぽ]とともに、AIへの 期待[きたい]が 高[たか]まっている。
+  Mit dem technologischen Fortschritt steigen die Erwartungen an KI.
+
+  彼の実力が高まるにつれて、ライバルたちも焦りを感じ始めた。
+  彼[かれ]の 実力[じつりょく]が 高[たか]まるにつれて、ライバルたちも 焦[あせ]りを 感[かん]じ 始[はじ]めた。
+  Als seine Fähigkeiten zunahmen, begannen seine Rivalen, sich unter Druck gesetzt zu fühlen.
+
+  災害の危険性が高まっているため、避難の準備をしてください。
+  災害[さいがい]の 危険性[きけんせい]が 高[たか]まっているため、避難[ひなん]の 準備[じゅんび]をしてください。
+  Da die Gefahr einer Katastrophe zunimmt, bereiten Sie sich bitte auf eine Evakuierung vor.
+
+  彼女の演説に感動し、会場の雰囲気が高まっていった。
+  彼女[かのじょ]の 演説[えんぜつ]に 感動[かんどう]し、会場[かいじょう]の 雰囲気[ふんいき]が 高[たか]まっていった。
+  Begeistert von ihrer Rede stieg die Stimmung im Saal.
+
+  株価が高まるにつれて、投資家たちの興奮も高まった。
+  株価[かぶか]が 高[たか]まるにつれて、投資家[とうしか]たちの 興奮[こうふん]も 高[たか]まった。
+  Als die Aktienkurse stiegen, stieg auch die Aufregung unter den Investoren.
+
+  試験が近づくにつれて、生徒たちの緊張が高まっていく。
+  試験[しけん]が 近[ちか]づくにつれて、生徒[せいと]たちの 緊張[きんちょう]が 高[たか]まっていく。
+  Je näher die Prüfung rückt, desto mehr steigt die Anspannung der Schüler.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

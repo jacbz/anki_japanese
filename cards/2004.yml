@@ -2,8 +2,8 @@ Rang: 2004
 Lemma: とたん
 Lesung: ''
 Tonhöhen: .^^
-Definition: sobald
-Alternativschreibweisen: ''
+Definition: gerade als, sobald
+Alternativschreibweisen: 途端
 Extra: '' # Nur bei suru-Verben
 Wortart: n, adv
 Register: ''
@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   警察官を見たとたん、彼は逃げ出した。
-  警察官[けいさつかん]を 見[み]たとたん、 彼[かれ]は 逃[に]げ 出[だ]した。
-  Sobald er den Polizisten sah, rannte er weg.
+  警察官[けいさつかん]を 見[み]たとたん、彼[かれ]は 逃[に]げ 出[だ]した。
+  Sobald er den Polizisten sah, ergriff er die Flucht.
+
+  ドアを開けたとたんに、冷たい風が吹き込んできた。
+  ドアを 開[あ]けたとたんに、冷[つめ]たい 風[かぜ]が 吹[ふ]き 込[こ]んできた。
+  In dem Moment, als ich die Tür öffnete, wehte ein kalter Wind herein.
+
+  彼女と目が合ったとたん、私は恋に落ちた。
+  彼女[かのじょ]と 目[め]が 合[あ]ったとたん、私[わたし]は 恋[こい]に 落[お]ちた。
+  In dem Augenblick, als sich unsere Blicke trafen, verliebte ich mich in sie.
+
+  試験が始まるとたんに、頭が真っ白になった。
+  試験[しけん]が 始[はじ]まるとたんに、頭[あたま]が 真っ白[まっしろ]になった。
+  Gerade als die Prüfung begann, hatte ich einen Blackout.
+
+  家に帰ったとたん、大雨が降り始めた。
+  家[いえ]に 帰[かえ]ったとたん、大雨[おおあめ]が 降[ふ]り 始[はじ]めた。
+  Kaum war ich zu Hause angekommen, fing es an, in Strömen zu regnen.
+
+  スイッチを入れたとたんに、停電になった。
+  スイッチを 入[い]れたとたんに、停電[ていでん]になった。
+  Just als ich den Schalter betätigte, gab es einen Stromausfall.
+
+  彼の名前を聞いたとたん、彼女の表情が変わった。
+  彼[かれ]の 名前[なまえ]を 聞[き]いたとたん、彼女[かのじょ]の 表情[ひょうじょう]が 変[か]わった。
+  Sobald sie seinen Namen hörte, änderte sich ihr Gesichtsausdruck.
+
+  ベッドに横たわったとたんに、眠りに落ちた。
+  ベッドに 横[よこ]たわったとたんに、眠[ねむ]りに 落[お]ちた。
+  Augenblicklich nachdem ich mich ins Bett gelegt hatte, fiel ich in den Schlaf.
+
+  ゴールに到達したとたん、歓声が上がった。
+  ゴールに 到達[とうたつ]したとたん、歓声[かんせい]が 上[あ]がった。
+  In dem Moment, als er das Ziel erreichte, brach Jubel aus.
+
+  電車から降りたとたんに、財布がないことに気づいた。
+  電車[でんしゃ]から 降[お]りたとたんに、財布[さいふ]がないことに 気[き]づいた。
+  Gerade als ich aus dem Zug stieg, bemerkte ich, dass mein Geldbeutel fehlte.
+
+  彼が部屋に入ったとたん、皆が「サプライズ！」と叫んだ。
+  彼[かれ]が 部屋[へや]に 入[はい]ったとたん、皆[みな]が「サプライズ！」と 叫[さけ]んだ。
+  In dem Augenblick, als er den Raum betrat, riefen alle "Überraschung!".
+
+  温泉に浸かったとたん、疲れが吹き飛んだ。
+  温泉[おんせん]に 浸[つ]かったとたん、疲[つか]れが 吹[ふ]き 飛[と]んだ。
+  Sobald ich in die heiße Quelle eintauchte, war meine Müdigkeit wie weggeblasen.
+
+  彼女が姿を現したとたんに、場の雰囲気が明るくなった。
+  彼女[かのじょ]が 姿[すがた]を 現[あらわ]したとたんに、場[ば]の 雰囲気[ふんいき]が 明[あか]るくなった。
+  In dem Moment, als sie erschien, wurde die Atmosphäre im Raum heiter.
+
+  試合開始のホイッスルが鳴ったとたん、選手たちは動き出した。
+  試合開始[しあいかいし]のホイッスルが 鳴[な]ったとたん、選手[せんしゅ]たちは 動[うご]き 出[だ]した。
+  Kaum ertönte der Anpfiff, setzten sich die Spieler in Bewegung.
+
+  彼女と別れたとたん、後悔の念に駆られた。
+  彼女[かのじょ]と 別[わか]れたとたん、後悔[こうかい]の 念[ねん]に 駆[か]られた。
+  Gerade als ich mich von ihr trennte, überkam mich ein Gefühl des Bedauerns.
+
+  会議室に入ったとたんに、緊張感が漂ってきた。
+  会議室[かいぎしつ]に 入[はい]ったとたんに、緊張感[きんちょうかん]が 漂[ただよ]ってきた。
+  Sobald ich den Konferenzraum betrat, spürte ich die angespannte Atmosphäre.
+
+  空港に着いたとたん、フライトがキャンセルされたことを知らされた。
+  空港[くうこう]に 着[つ]いたとたん、フライトがキャンセルされたことを 知[し]らされた。
+  Just als ich am Flughafen ankam, wurde mir mitgeteilt, dass mein Flug gestrichen wurde.
+
+  彼が話し始めたとたんに、会場は静まり返った。
+  彼[かれ]が 話[はな]し 始[はじ]めたとたんに、会場[かいじょう]は 静[しず]まり 返[かえ]った。
+  In dem Moment, als er zu sprechen begann, wurde es im Saal mucksmäuschenstill.
+
+  雨が止んだとたん、虹が空に現れた。
+  雨[あめ]が 止[や]んだとたん、虹[にじ]が 空[そら]に 現[あらわ]れた。
+  Kaum hatte der Regen aufgehört, erschien ein Regenbogen am Himmel.
+
+  答えようとしたとたん、ハグリッドの顔から血の気が引いた。
+  答[こた]えようとしたとたん、ハグリッドの 顔[かお]から 血[ち]の 気[き]が 引[ひ]いた。
+  Hagrid wollte gerade antworten, als mit einem Mal die Farbe aus seinem Gesicht wich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>とたん wird oft mit に verwendet, um den genauen Moment auszudrücken, in dem etwas passiert.</p>
+  <div class="examples">
+    <div class="jp">ドアを 開[あ]けたとたんに、冷[つめ]たい 風[かぜ]が 入[はい]ってきた。</div>
+    <div class="de spoiler">In dem Moment, als ich die Tür öffnete, kam kalter Wind herein.</div>
+  </div>
+  <p>Es wird verwendet, um eine unmittelbare Folge oder eine plötzliche Veränderung zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]が 部屋[へや]に 入[はい]ったとたん、皆[みな]が「サプライズ！」と 叫[さけ]んだ。</div>
+    <div class="de spoiler">In dem Augenblick, als er den Raum betrat, riefen alle "Überraschung!"</div>
+  </div>
+  <p>とたん kann auch ohne に verwendet werden, besonders in der gesprochenen Sprache.</p>
+  <div class="examples">
+    <div class="jp">警察官[けいさつかん]を 見[み]たとたん、犯人[はんにん]は 逃[に]げ 出[だ]した。</div>
+    <div class="de spoiler">Sobald er den Polizisten sah, ergriff der Täter die Flucht.</div>
+  </div>

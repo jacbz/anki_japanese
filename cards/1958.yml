@@ -2,10 +2,10 @@ Rang: 1958
 Lemma: 必死
 Lesung: ひっし
 Tonhöhen: .^^
-Definition: verzweifelt
+Definition: verzweifelt; unter Aufbietung aller Kräfte
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,99 @@ Konjugation: ''
 Beispielsätze: |-
   彼は岸まで必死で泳いだ。
   彼[かれ]は 岸[きし]まで 必死[ひっし]で 泳[およ]いだ。
-  Er schwamm verzweifelt ans Ufer.
+  Er schwamm verzweifelt zum Ufer.
+
+  必死の覚悟で戦場に向かった。
+  必死[ひっし]の 覚悟[かくご]で 戦場[せんじょう]に 向[む]かった。
+  Er ging mit der Gewissheit des sicheren Todes ins Schlachtfeld.
+
+  彼女は必死に言い訳をした。
+  彼女[かのじょ]は 必死[ひっし]に 言い訳[いいわけ]をした。
+  Sie versuchte verzweifelt, sich zu rechtfertigen.
+
+  必死で抑えようとしたが、怒りが爆発してしまった。
+  必死[ひっし]で 抑[おさ]えようとしたが、怒[いか]りが 爆発[ばくはつ]してしまった。
+  Ich versuchte mit aller Kraft, mich zu beherrschen, aber mein Zorn explodierte.
+
+  試験前は必死に勉強した。
+  試験[しけん]前[まえ]は 必死[ひっし]に 勉強[べんきょう]した。
+  Vor der Prüfung lernte ich verbissen.
+
+  解決策を見つけようと必死に考えた。
+  解決策[かいけつさく]を 見[み]つけようと 必死[ひっし]に 考[かんが]えた。
+  Ich zerbrach mir verzweifelt den Kopf, um eine Lösung zu finden.
+
+  彼らは自由のために必死に戦った。
+  彼[かれ]らは 自由[じゆう]のために 必死[ひっし]に 戦[たたか]った。
+  Sie kämpften verzweifelt für ihre Freiheit.
+
+  犯人は警察から逃げるために必死になって走った。
+  犯人[はんにん]は 警察[けいさつ]から 逃[に]げるために 必死[ひっし]になって 走[はし]った。
+  Der Täter rannte um sein Leben, um der Polizei zu entkommen.
+
+  締め切りに間に合わせるため、必死になって仕事をした。
+  締[し]め 切[き]りに 間[ま]に 合[あ]わせるため、必死[ひっし]になって 仕事[しごと]をした。
+  Um die Frist einzuhalten, arbeitete ich verbissen.
+
+  助けを求めて必死に叫んだ。
+  助[たす]けを 求[もと]めて 必死[ひっし]に 叫[さけ]んだ。
+  Ich schrie aus Leibeskräften um Hilfe.
+
+  彼らは必死の努力を続けた。
+  彼[かれ]らは 必死[ひっし]の 努力[どりょく]を 続[つづ]けた。
+  Sie setzten ihre verzweifelten Anstrengungen fort.
+
+  神に必死の祈りを捧げた。
+  神[かみ]に 必死[ひっし]の 祈[いの]りを 捧[ささ]げた。
+  Ich betete inständig zu Gott.
+
+  彼らは必死の戦いを繰り広げた。
+  彼[かれ]らは 必死[ひっし]の 戦[たたか]いを 繰[く]り 広[ひろ]げた。
+  Sie lieferten sich einen verzweifelten Kampf.
+
+  住民たちは開発に対して必死の抵抗を示した。
+  住民[じゅうみん]たちは 開発[かいはつ]に 対[たい]して 必死[ひっし]の 抵抗[ていこう]を 示[しめ]した。
+  Die Anwohner leisteten verzweifelten Widerstand gegen die Entwicklung.
+
+  自然の猛威に対して、必死な争闘が始まった。
+  自然[しぜん]の 猛威[もうい]に 対[たい]して、必死[ひっし]な 争闘[そうとう]が 始[はじ]まった。
+  Ein verzweifelter Kampf gegen die Naturgewalten begann.
+
+  病気の妻が必死な譫言を口にしているのが聞こえた。
+  病気[びょうき]の 妻[つま]が 必死[ひっし]な 譫言[せんげん]を 口[くち]にしているのが 聞[き]こえた。
+  Ich hörte, wie meine kranke Frau verzweifelte Worte im Delirium sprach.
+
+  心の中で必死の抗議の声が上がった。
+  心[こころ]の 中[なか]で 必死[ひっし]の 抗議[こうぎ]の 声[こえ]が 上[あ]がった。
+  In meinem Herzen erhob sich eine verzweifelte Stimme des Protests.
+
+  台風の中、船は必死の前進を続けた。
+  台風[たいふう]の 中[なか]、船[ふね]は 必死[ひっし]の 前進[ぜんしん]を 続[つづ]けた。
+  Inmitten des Taifuns setzte das Schiff seine verzweifelte Fahrt fort.
+
+  「嘘じゃないわ」と必死に訴えた。
+  「 嘘[うそ]じゃないわ」と 必死[ひっし]に 訴[うった]えた。
+  "Ich lüge nicht", beteuerte sie verzweifelt.
+
+  将棋で相手に必死をかけた。
+  将棋[しょうぎ]で 相手[あいて]に 必死[ひっし]をかけた。
+  Beim Shogi setzte ich meinen Gegner matt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>必死 (ひっし) kann als Nomen, な-Adjektiv oder の-Adjektiv verwendet werden. Es drückt eine Situation aus, in der jemand alle Kräfte aufbietet, oft angesichts einer verzweifelten Lage.</p>
+  <p>Verwendung:</p>
+  <ul>
+    <li>Als Nomen: 必死の努力 (ひっしのどりょく) - verzweifelte Anstrengungen</li>
+    <li>Als な-Adjektiv: 必死な様子 (ひっしなようす) - ein verzweifelter Zustand</li>
+    <li>Als の-Adjektiv: 必死の思い (ひっしのおもい) - verzweifelte Gefühle</li>
+  </ul>
+  <p>In der Shogi-Terminologie bezeichnet 必死 eine Situation, in der der König im nächsten Zug unausweichlich matt gesetzt wird.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 必死[ひっし]の 形相[けいそう]で 走[はし]り 続[つづ]けた。</div>
+    <div class="de spoiler">Er rannte mit verzweifeltem Gesichtsausdruck weiter.</div>
+  </div>

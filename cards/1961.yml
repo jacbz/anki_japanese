@@ -2,7 +2,7 @@ Rang: 1961
 Lemma: ごめんなさい
 Lesung: ''
 Tonhöhen: ''
-Definition: Es tut mir leid, Entschuldigung
+Definition: Entschuldigung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -15,11 +15,98 @@ Konjugation: ''
 Beispielsätze: |-
   遅くなってごめんなさい。
   遅[おそ]くなってごめんなさい。
-  Es tut mir leid, dass ich zu spät bin.
+  Entschuldige bitte, dass ich zu spät bin.
+
+  ゆうべは、ごめんなさい。
+  ゆうべは、ごめんなさい。
+  Es tut mir leid wegen gestern Abend.
+
+  起こしちゃって、ごめんなさい。
+  起[お]こしちゃって、ごめんなさい。
+  Entschuldige, dass ich dich geweckt habe.
+
+  あなたの時間を無駄にさせてしまって、ごめんなさい。
+  あなたの 時間[じかん]を 無駄[むだ]にさせてしまって、ごめんなさい。
+  Es tut mir leid, dass ich deine Zeit verschwendet habe.
+
+  変なことを書いてしまって、ごめんなさい。
+  変[へん]なことを 書[か]いてしまって、ごめんなさい。
+  Entschuldige, dass ich so einen Unsinn geschrieben habe.
+
+  ごめんなさい、今日は予定があるので行けません。
+  ごめんなさい、今日[きょう]は 予定[よてい]があるので 行[い]けません。
+  Tut mir leid, ich kann heute nicht kommen, da ich schon etwas vorhabe.
+
+  ごめんなさい、お名前を忘れてしまいました。
+  ごめんなさい、お 名前[なまえ]を 忘[わす]れてしまいました。
+  Entschuldigen Sie bitte, ich habe Ihren Namen vergessen.
+
+  ごめんなさい、もう一度説明していただけますか。
+  ごめんなさい、もう 一度[いちど] 説明[せつめい]していただけますか。
+  Entschuldigung, könnten Sie das bitte noch einmal erklären?
+
+  ごめんなさい、間違えて他の人のコップを使ってしまいました。
+  ごめんなさい、間違[まちが]えて 他[ほか]の 人[ひと]のコップを 使[つか]ってしまいました。
+  Es tut mir leid, ich habe versehentlich das Glas von jemand anderem benutzt.
+
+  ごめんなさい、約束を忘れていました。
+  ごめんなさい、約束[やくそく]を 忘[わす]れていました。
+  Entschuldige bitte, ich hatte unsere Verabredung vergessen.
+
+  ごめんなさい、電話に出られなくて。
+  ごめんなさい、電話[でんわ]に 出[で]られなくて。
+  Tut mir leid, dass ich nicht ans Telefon gehen konnte.
+
+  ごめんなさい、こんな時間に。
+  ごめんなさい、こんな 時間[じかん]に。
+  Entschuldigen Sie die späte Störung.
+
+  ごめんなさい、聞き逃してしまいました。もう一度言っていただけますか。
+  ごめんなさい、聞[き]き 逃[のが]してしまいました。もう 一度[いちど] 言[い]っていただけますか。
+  Entschuldigung, ich habe das überhört. Könnten Sie das bitte wiederholen?
+
+  ごめんなさい、急な仕事が入ってしまって。
+  ごめんなさい、急[きゅう]な 仕事[しごと]が 入[はい]ってしまって。
+  Es tut mir leid, aber ich habe plötzlich eine dringende Arbeit bekommen.
+
+  ごめんなさい、お待たせしました。
+  ごめんなさい、お 待[ま]たせしました。
+  Entschuldigen Sie bitte, dass ich Sie habe warten lassen.
+
+  ごめんなさい、財布を忘れてしまいました。
+  ごめんなさい、財布[さいふ]を 忘[わす]れてしまいました。
+  Entschuldige bitte, ich habe meine Geldbörse vergessen.
+
+  ごめんなさい、今忙しいので後でかけ直してもいいですか。
+  ごめんなさい、今[いま] 忙[いそが]しいので 後[あと]でかけ 直[なお]してもいいですか。
+  Entschuldigung, ich bin gerade beschäftigt. Könnte ich Sie später zurückrufen?
+
+  ごめんなさい、そのことについては何も知りません。
+  ごめんなさい、そのことについては 何[なに]も 知[し]りません。
+  Tut mir leid, ich weiß darüber nichts.
+
+  ごめんなさい、どなたかいらっしゃいますか。
+  ごめんなさい、どなたかいらっしゃいますか。
+  Entschuldigung, ist jemand zu Hause?
+
+  ごめんなさい、お邪魔します。
+  ごめんなさい、お 邪魔[じゃま]します。
+  Entschuldigen Sie die Störung, ich trete ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">ごめんなさい</span> wird in verschiedenen Situationen verwendet:</p>
+  <ol>
+    <li>Als höfliche Entschuldigung für Störungen oder Fehler</li>
+    <li>Als Grußwort beim Betreten eines Hauses oder beim Abschied</li>
+    <li>Als höfliche Ablehnung</li>
+  </ol>
+  <div class="examples">
+    <div class="jp">ごめんなさい、今[いま]は 忙[いそが]しいので 後[あと]で 話[はな]せますか。</div>
+    <div class="de spoiler">Entschuldigung, ich bin gerade beschäftigt. Können wir später reden?</div>
+  </div>
+  <p>Es ist eine höflichere Form von <span class="jp">ごめん</span>, wird aber im Vergleich zu <span class="jp">申[もう]し 訳[わけ]ありません</span> als weniger formal angesehen.</p>

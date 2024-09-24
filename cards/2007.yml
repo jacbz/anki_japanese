@@ -2,7 +2,7 @@ Rang: 2007
 Lemma: 周辺
 Lesung: しゅうへん
 Tonhöhen: ..^^^
-Definition: Umgebung, Umkreis
+Definition: Umgebung, Umfeld
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   そのホテルの周辺にはたくさんの店やレストランがある。
-  そのホテルの 周辺[しゅうへん]にはたくさんの 店[みせ]やレストランがある。
-  In der Umgebung des Hotels gibt es zahlreiche Geschäfte und Restaurants.
+  その ホテルの 周辺[しゅうへん]にはたくさんの 店[みせ]やレストランがある。
+  In der Umgebung dieses Hotels gibt es viele Geschäfte und Restaurants.
+
+  東京の周辺に住むと、通勤時間が長くなる傾向がある。
+  東京[とうきょう]の 周辺[しゅうへん]に 住[す]むと、通勤[つうきん] 時間[じかん]が 長[なが]くなる 傾向[けいこう]がある。
+  Wenn man in der Umgebung von Tokio wohnt, neigt man dazu, längere Pendelzeiten zu haben.
+
+  駅の周辺は開発が進んでいて、新しいビルが次々と建っている。
+  駅[えき]の 周辺[しゅうへん]は 開発[かいはつ]が 進[すす]んでいて、新[あたら]しいビルが 次々[つぎつぎ]と 建[た]っている。
+  Die Umgebung des Bahnhofs wird stark entwickelt, und neue Gebäude entstehen nacheinander.
+
+  空港周辺の町では、騒音問題が深刻化している。
+  空港[くうこう] 周辺[しゅうへん]の 町[まち]では、騒音[そうおん] 問題[もんだい]が 深刻化[しんこくか]している。
+  In den Städten in der Nähe des Flughafens verschärft sich das Lärmproblems.
+
+  犯人の周辺を調査することで、重要な手がかりが見つかるかもしれない。
+  犯人[はんにん]の 周辺[しゅうへん]を 調査[ちょうさ]することで、重要[じゅうよう]な 手[て]がかりが 見[み]つかるかもしれない。
+  Durch die Untersuchung des Umfelds des Täters könnten wichtige Hinweise gefunden werden.
+
+  事件の周辺状況を詳しく調べることが捜査の鍵となる。
+  事件[じけん]の 周辺[しゅうへん] 状況[じょうきょう]を 詳[くわ]しく 調[しら]べることが 捜査[そうさ]の 鍵[かぎ]となる。
+  Die genaue Untersuchung der Umstände des Vorfalls ist der Schlüssel zur Ermittlung.
+
+  周辺国との関係改善が、この地域の平和には不可欠だ。
+  周辺国[しゅうへんこく]との 関係[かんけい] 改善[かいぜん]が、この 地域[ちいき]の 平和[へいわ]には 不可欠[ふかけつ]だ。
+  Die Verbesserung der Beziehungen zu den Nachbarländern ist unerlässlich für den Frieden in dieser Region.
+
+  周辺機器の接続に問題があり、コンピューターが正常に動作しない。
+  周辺機器[しゅうへんきき]の 接続[せつぞく]に 問題[もんだい]があり、コンピューターが 正常[せいじょう]に 動作[どうさ]しない。
+  Es gibt ein Problem mit der Verbindung der Peripheriegeräte, sodass der Computer nicht richtig funktioniert.
+
+  都市の周辺部では、自然と都市の景観が融合している。
+  都市[とし]の 周辺部[しゅうへんぶ]では、自然[しぜん]と 都市[とし]の 景観[けいかん]が 融合[ゆうごう]している。
+  In den Randbereichen der Stadt verschmelzen Natur und Stadtlandschaft miteinander.
+
+  この遺跡の周辺から、古代の生活を示す多くの遺物が発見された。
+  この 遺跡[いせき]の 周辺[しゅうへん]から、古代[こだい]の 生活[せいかつ]を 示[しめ]す 多[おお]くの 遺物[いぶつ]が 発見[はっけん]された。
+  In der Umgebung dieser Ruine wurden viele Artefakte entdeckt, die auf das antike Leben hindeuten.
+
+  彼の周辺には、いつも多くの人が集まっている。
+  彼[かれ]の 周辺[しゅうへん]には、いつも 多[おお]くの 人[ひと]が 集[あつ]まっている。
+  Um ihn herum versammeln sich immer viele Menschen.
+
+  池の周辺は、散歩やジョギングを楽しむ人々で賑わっている。
+  池[いけ]の 周辺[しゅうへん]は、散歩[さんぽ]やジョギングを 楽[たの]しむ 人々[ひとびと]で 賑[にぎ]わっている。
+  Die Umgebung des Teiches ist belebt von Menschen, die spazieren gehen oder joggen.
+
+  大学の周辺には、学生向けのアパートやカフェが多く立ち並んでいる。
+  大学[だいがく]の 周辺[しゅうへん]には、学生[がくせい] 向[む]けのアパートやカフェが 多[おお]く 立[た]ち 並[なら]んでいる。
+  In der Umgebung der Universität reihen sich viele Apartments und Cafés für Studenten aneinander.
+
+  周辺視野が狭くなると、運転時の危険性が高まる。
+  周辺視野[しゅうへんしや]が 狭[せま]くなると、運転時[うんてんじ]の 危険性[きけんせい]が 高[たか]まる。
+  Wenn das periphere Sehen eingeschränkt wird, erhöht sich die Gefahr beim Autofahren.
+
+  この地域の周辺には、まだ多くの未開発の土地が残っている。
+  この 地域[ちいき]の 周辺[しゅうへん]には、まだ 多[おお]くの 未開発[みかいはつ]の 土地[とち]が 残[のこ]っている。
+  In der Umgebung dieser Region gibt es noch viele unerschlossene Gebiete.
+
+  彼女の周辺には、いつも不思議な出来事が起こる。
+  彼女[かのじょ]の 周辺[しゅうへん]には、いつも 不思議[ふしぎ]な 出来事[できごと]が 起[お]こる。
+  In ihrer Umgebung passieren immer seltsame Dinge.
+
+  周辺環境の整備は、地域の生活の質を向上させる重要な要素だ。
+  周辺環境[しゅうへんかんきょう]の 整備[せいび]は、地域[ちいき]の 生活[せいかつ]の 質[しつ]を 向上[こうじょう]させる 重要[じゅうよう]な 要素[ようそ]だ。
+  Die Verbesserung der Umgebung ist ein wichtiger Faktor zur Erhöhung der Lebensqualität in der Region.
+
+  周辺症状の管理は、主要症状の治療と同じくらい重要だ。
+  周辺症状[しゅうへんしょうじょう]の 管理[かんり]は、主要[しゅよう] 症状[しょうじょう]の 治療[ちりょう]と 同[おな]じくらい 重要[じゅうよう]だ。
+  Die Kontrolle der Nebensymptome ist genauso wichtig wie die Behandlung der Hauptsymptome.
+
+  周辺的な問題を無視すると、後で大きな問題に発展する可能性がある。
+  周辺[しゅうへん]的[てき]な 問題[もんだい]を 無視[むし]すると、後[あと]で 大[おお]きな 問題[もんだい]に 発展[はってん]する 可能性[かのうせい]がある。
+  Wenn man periphere Probleme ignoriert, können sie sich später zu großen Problemen entwickeln.
+
+  スモッグは気象学上の全体現象で、中心も周辺もないんですよ。
+  スモッグは 気象学[きしょうがく] 上[じょう]の 全体[ぜんたい] 現象[げんしょう]で、中心[ちゅうしん]も 周辺[しゅうへん]もないんですよ。
+  Smog ist ein meteorologisches Gesamtereignis und kennt nicht Zentrum oder Peripherie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

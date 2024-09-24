@@ -2,20 +2,92 @@ Rang: 1949
 Lemma: 投げる
 Lesung: なげる
 Tonhöhen: .\.
-Definition: werfen; aufgeben
+Definition: werfen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 投げない・投げた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はボールを投げて窓を割った。
   彼[かれ]はボールを 投[な]げて 窓[まど]を 割[わ]った。
-  Er hat das Fenster kaputt gemacht, indem er einen Ball geworfen hat.
+  Er warf den Ball und zerbrach das Fenster.
+
+  コインを投げて決めよう。
+  コインを 投[な]げて 決[き]めよう。
+  Lass uns eine Münze werfen, um zu entscheiden.
+
+  犬に石を投げるのはやめなさい。
+  犬[いぬ]に 石[いし]を 投[な]げるのはやめなさい。
+  Hör auf, Steine nach dem Hund zu werfen.
+
+  漁師は網を投げて魚を捕まえた。
+  漁師[りょうし]は 網[あみ]を 投[な]げて 魚[さかな]を 捕[つか]まえた。
+  Der Fischer warf das Netz aus und fing Fische.
+
+  彼女は恋人にキスを投げた。
+  彼女[かのじょ]は 恋人[こいびと]にキスを 投[な]げた。
+  Sie warf ihrem Geliebten eine Kusshand zu.
+
+  選手は槍を力強く投げた。
+  選手[せんしゅ]は 槍[やり]を 力強[ちからづよ]く 投[な]げた。
+  Der Athlet warf den Speer kraftvoll.
+
+  友達に合図を投げて注意を引いた。
+  友達[ともだち]に 合図[あいず]を 投[な]げて 注意[ちゅうい]を 引[ひ]いた。
+  Ich gab meinem Freund ein Zeichen, um seine Aufmerksamkeit zu erregen.
+
+  彼女は冷たい視線を投げてきた。
+  彼女[かのじょ]は 冷[つめ]たい 視線[しせん]を 投[な]げてきた。
+  Sie warf mir einen kalten Blick zu.
+
+  月は湖面に淡い光を投げていた。
+  月[つき]は 湖面[こめん]に 淡[あわ]い 光[ひかり]を 投[な]げていた。
+  Der Mond warf ein sanftes Licht auf die Seeoberfläche.
+
+  その発言は会議に疑いを投げかけた。
+  その 発言[はつげん]は 会議[かいぎ]に 疑[うたが]いを 投[な]げかけた。
+  Diese Aussage warf Zweifel in der Konferenz auf.
+
+  彼は突然議論に言葉を投げ入れた。
+  彼[かれ]は 突然[とつぜん] 議論[ぎろん]に 言葉[ことば]を 投[な]げ 入[い]れた。
+  Er warf plötzlich ein Wort in die Diskussion ein.
+
+  子供たちは雪玉を投げて遊んでいる。
+  子供[こども]たちは 雪玉[ゆきだま]を 投[な]げて 遊[あそ]んでいる。
+  Die Kinder spielen und werfen Schneebälle.
+
+  彼は試合を投げて失格になった。
+  彼[かれ]は 試合[しあい]を 投[な]げて 失格[しっかく]になった。
+  Er gab das Spiel auf und wurde disqualifiziert.
+
+  もう無理だと思って仕事を投げ出した。
+  もう 無理[むり]だと 思[おも]って 仕事[しごと]を 投[な]げ 出[だ]した。
+  Ich dachte, es sei unmöglich, und gab die Arbeit auf.
+
+  彼らは実現不可能な計画を投げ捨てた。
+  彼[かれ]らは 実現[じつげん] 不可能[ふかのう]な 計画[けいかく]を 投[な]げ 捨[す]てた。
+  Sie verwarfen den unrealisierbaren Plan.
+
+  投手は全力で球を投げ込んだ。
+  投手[とうしゅ]は 全力[ぜんりょく]で 球[たま]を 投[な]げ 込[こ]んだ。
+  Der Pitcher warf den Ball mit voller Kraft.
+
+  彼女は悩みを抱えて身を投げようとした。
+  彼女[かのじょ]は 悩[なや]みを 抱[かか]えて 身[み]を 投[な]げようとした。
+  Von Sorgen geplagt, versuchte sie, sich das Leben zu nehmen.
+
+  その政治家は国民に希望を投げかけた。
+  その 政治家[せいじか]は 国民[こくみん]に 希望[きぼう]を 投[な]げかけた。
+  Der Politiker gab dem Volk Hoffnung.
+
+  彼は匙を投げて諦めてしまった。
+  彼[かれ]は 匙[さじ]を 投[な]げて 諦[あきら]めてしまった。
+  Er gab auf und verlor alle Hoffnung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

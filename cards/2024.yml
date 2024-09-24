@@ -2,20 +2,96 @@ Rang: 2024
 Lemma: 満たす
 Lesung: みたす
 Tonhöhen: .\.
-Definition: erfüllen, befriedigen, treffen
-Alternativschreibweisen: ''
+Definition: (aus)füllen; erfüllen
+Alternativschreibweisen: 充たす
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 満たさない・満たした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   応募者は次の条件を満たしていることが必要です。
   応募者[おうぼしゃ]は 次[つぎ]の 条件[じょうけん]を 満[み]たしていることが 必要[ひつよう]です。
-  Der Bewerber muss die folgenden Anforderungen erfüllen.
+  Bewerber müssen die folgenden Bedingungen erfüllen.
+
+  グラスにワインを満たしてください。
+  グラスにワインを 満[み]たしてください。
+  Bitte füllen Sie das Glas mit Wein.
+
+  この本は私の知的好奇心を満たしてくれました。
+  この 本[ほん]は 私[わたし]の 知的好奇心[ちてきこうきしん]を 満[み]たしてくれました。
+  Dieses Buch hat meine intellektuelle Neugier befriedigt.
+
+  タンクに燃料を満たす必要があります。
+  タンクに 燃料[ねんりょう]を 満[み]たす 必要[ひつよう]があります。
+  Wir müssen den Tank mit Kraftstoff auffüllen.
+
+  彼女の願望を満たすのは難しいかもしれません。
+  彼女[かのじょ]の 願望[がんぼう]を 満[み]たすのは 難[むずか]しいかもしれません。
+  Es könnte schwierig sein, ihre Wünsche zu erfüllen.
+
+  新製品は顧客の要求を満たしていますか？
+  新製品[しんせいひん]は 顧客[こきゃく]の 要求[ようきゅう]を 満[み]たしていますか？
+  Erfüllt das neue Produkt die Anforderungen der Kunden?
+
+  この計画は私たちの期待を満たしていない。
+  この 計画[けいかく]は 私[わたし]たちの 期待[きたい]を 満[み]たしていない。
+  Dieser Plan erfüllt unsere Erwartungen nicht.
+
+  部屋は甘い香りで満たされていた。
+  部屋[へや]は 甘[あま]い 香[かお]りで 満[み]たされていた。
+  Der Raum war mit einem süßen Duft erfüllt.
+
+  彼は常に自分の欲望を満たそうとしている。
+  彼[かれ]は 常[つね]に 自分[じぶん]の 欲望[よくぼう]を 満[み]たそうとしている。
+  Er versucht ständig, seine Begierden zu befriedigen.
+
+  この仕事は私の経験要件を満たしていません。
+  この 仕事[しごと]は 私[わたし]の 経験要件[けいけんようけん]を 満[み]たしていません。
+  Diese Stelle erfüllt nicht meine Erfahrungsanforderungen.
+
+  彼女の心は喜びで満たされていた。
+  彼女[かのじょ]の 心[こころ]は 喜[よろこ]びで 満[み]たされていた。
+  Ihr Herz war von Freude erfüllt.
+
+  この製品は安全基準を満たしていますか？
+  この 製品[せいひん]は 安全基準[あんぜんきじゅん]を 満[み]たしていますか？
+  Erfüllt dieses Produkt die Sicherheitsstandards?
+
+  彼らの需要を満たすには生産量を増やす必要がある。
+  彼[かれ]らの 需要[じゅよう]を 満[み]たすには 生産量[せいさんりょう]を 増[ふ]やす 必要[ひつよう]がある。
+  Um ihre Nachfrage zu decken, müssen wir die Produktion erhöhen.
+
+  この映画は観客の期待を十分に満たした。
+  この 映画[えいが]は 観客[かんきゃく]の 期待[きたい]を 十分[じゅうぶん]に 満[み]たした。
+  Dieser Film hat die Erwartungen des Publikums voll erfüllt.
+
+  彼女の目は涙で満たされていた。
+  彼女[かのじょ]の 目[め]は 涙[なみだ]で 満[み]たされていた。
+  Ihre Augen waren mit Tränen gefüllt.
+
+  この施設は法的要件を満たしていますか？
+  この 施設[しせつ]は 法的要件[ほうてきようけん]を 満[み]たしていますか？
+  Erfüllt diese Einrichtung die gesetzlichen Anforderungen?
+
+  彼の心は怒りで満たされていた。
+  彼[かれ]の 心[こころ]は 怒[いか]りで 満[み]たされていた。
+  Sein Herz war von Wut erfüllt.
+
+  この申請書の空欄をすべて満たしてください。
+  この 申請書[しんせいしょ]の 空欄[くうらん]をすべて 満[み]たしてください。
+  Bitte füllen Sie alle leeren Felder in diesem Antragsformular aus.
+
+  彼女の演技は観客の期待を十分に満たした。
+  彼女[かのじょ]の 演技[えんぎ]は 観客[かんきゃく]の 期待[きたい]を 十分[じゅうぶん]に 満[み]たした。
+  Ihre Darstellung hat die Erwartungen des Publikums voll erfüllt.
+
+  この契約書の条件を満たすことができますか？
+  この 契約書[けいやくしょ]の 条件[じょうけん]を 満[み]たすことができますか？
+  Können Sie die Bedingungen dieses Vertrags erfüllen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

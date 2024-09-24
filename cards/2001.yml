@@ -2,8 +2,8 @@ Rang: 2001
 Lemma: 弁当
 Lesung: べんとう
 Tonhöhen: .^\.
-Definition: Mittagessen in der Box
-Alternativschreibweisen: ''
+Definition: Bento, Lunchpaket
+Alternativschreibweisen: 便当
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -15,11 +15,103 @@ Konjugation: ''
 Beispielsätze: |-
   お弁当を買いに行く。
   お 弁当[べんとう]を 買[か]いに 行[い]く。
-  Ich werde eine Mittagsbox kaufen.
+  Ich gehe los, um ein Bento zu kaufen.
+
+  毎日自分で弁当を作っています。
+  毎日[まいにち] 自分[じぶん]で 弁当[べんとう]を 作[つく]っています。
+  Ich mache mir jeden Tag selbst ein Bento.
+
+  弁当箱を忘れずに持っていってね。
+  弁当箱[べんとうばこ]を 忘[わす]れずに 持[も]っていってね。
+  Vergiss nicht, deine Bentobox mitzunehmen.
+
+  駅で弁当屋を見つけた。
+  駅[えき]で 弁当屋[べんとうや]を 見[み]つけた。
+  Ich habe einen Bento-Laden am Bahnhof entdeckt.
+
+  弁当代を節約するために、手作り弁当を始めました。
+  弁当代[べんとうだい]を 節約[せつやく]するために、手作[てづく]り 弁当[べんとう]を 始[はじ]めました。
+  Um Geld für Bentos zu sparen, habe ich angefangen, selbstgemachte Bentos zuzubereiten.
+
+  会社の弁当休みは12時からです。
+  会社[かいしゃ]の 弁当休[べんとうやす]みは12時[じ]からです。
+  Die Bento-Pause in der Firma beginnt um 12 Uhr.
+
+  弁当袋に名前を書くのを忘れないでください。
+  弁当袋[べんとうぶくろ]に 名前[なまえ]を 書[か]くのを 忘[わす]れないでください。
+  Vergessen Sie bitte nicht, Ihren Namen auf die Bento-Tasche zu schreiben.
+
+  愛妻弁当は夫の楽しみの一つです。
+  愛妻弁当[あいさいべんとう]は 夫[おっと]の 楽[たの]しみの 一[ひと]つです。
+  Das von der Ehefrau zubereitete Bento ist eine der Freuden des Ehemannes.
+
+  日の丸弁当は運動会でよく見かけます。
+  日[ひ]の 丸弁当[まるべんとう]は 運動会[うんどうかい]でよく 見[み]かけます。
+  Man sieht oft Hinomaru-Bentos bei Sportfesten.
+
+  幕の内弁当は様々な具が入っていて、豪華な印象です。
+  幕[まく]の 内弁当[うちべんとう]は 様々[さまざま]な 具[ぐ]が 入[はい]っていて、豪華[ごうか]な 印象[いんしょう]です。
+  Das Makunouchi-Bento enthält verschiedene Zutaten und macht einen luxuriösen Eindruck.
+
+  仕出し弁当を頼んで、会議の準備をしました。
+  仕出[しだ]し 弁当[べんとう]を 頼[たの]んで、会議[かいぎ]の 準備[じゅんび]をしました。
+  Ich habe ein Catering-Bento bestellt und die Besprechung vorbereitet.
+
+  手作り弁当は愛情がこもっていて、とても美味しいです。
+  手作[てづく]り 弁当[べんとう]は 愛情[あいじょう]がこもっていて、とても 美味[おい]しいです。
+  Selbstgemachte Bentos sind voller Liebe und sehr lecker.
+
+  父は白米の握り飯の弁当を車中でひらくのを恥かしがった。
+  父[ちち]は 白米[はくまい]の 握[にぎ]り 飯[めし]の 弁当[べんとう]を 車中[しゃちゅう]でひらくのを 恥[は]ずかしがった。
+  Mein Vater schämte sich, seine Bento-Box mit Reisbällchen aus weißem Reis im Auto zu öffnen.
+
+  左側の廃屋群が切れた辺りに、弁当を敏速にコンビニエンス・ストアに運ぶ白いトラックが何台か溜まっている。
+  左側[ひだりがわ]の 廃屋群[はいおくぐん]が 切[き]れた 辺[あた]りに、弁当[べんとう]を 敏速[びんそく]にコンビニエンス・ストアに 運[はこ]ぶ 白[しろ]いトラックが 何台[なんだい]か 溜[た]まっている。
+  An der Stelle, wo die Reihe verlassener Gebäude auf der linken Seite endet, stehen einige weiße Lastwagen, die schnell Bentos zu den Convenience Stores liefern.
+
+  校門を出た時、教室に弁当箱を忘れたのを思いだした。
+  校門[こうもん]を 出[で]た 時[とき]、教室[きょうしつ]に 弁当箱[べんとうばこ]を 忘[わす]れたのを 思[おも]いだした。
+  Als ich das Schultor verließ, fiel mir ein, dass ich meine Bento-Box im Klassenzimmer vergessen hatte.
+
+  新幹線の中で弁当を使うのが楽しみです。
+  新幹線[しんかんせん]の 中[なか]で 弁当[べんとう]を 使[つか]うのが 楽[たの]しみです。
+  Ich freue mich darauf, im Shinkansen ein Bento zu essen.
+
+  子供たちは遠足の弁当を楽しみにしている。
+  子供[こども]たちは 遠足[えんそく]の 弁当[べんとう]を 楽[たの]しみにしている。
+  Die Kinder freuen sich auf die Bentos für den Schulausflug.
+
+  弁当づつみを和風の布で包んで、見た目も美しくしました。
+  弁当[べんとう]づつみを 和風[わふう]の 布[ぬの]で 包[つつ]んで、見[み]た 目[め]も 美[うつく]しくしました。
+  Ich habe das Bento in ein japanisches Tuch gewickelt, um es auch optisch schön zu machen.
+
+  コンビニの弁当は種類が豊富で便利です。
+  コンビニの 弁当[べんとう]は 種類[しゅるい]が 豊富[ほうふ]で 便利[べんり]です。
+  Die Bentos im Convenience Store haben eine große Auswahl und sind praktisch.
+
+  お母さんの弁当は愛情たっぷりで、いつも美味しいです。
+  お 母[かあ]さんの 弁当[べんとう]は 愛情[あいじょう]たっぷりで、いつも 美味[おい]しいです。
+  Mamas Bentos sind voller Liebe und schmecken immer lecker.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 弁当 (べんとう) wird oft mit dem Höflichkeitspräfix お (o) verwendet: お弁当 (おべんとう).</p>
+  <p>Es bezeichnet eine tragbare Mahlzeit, die typischerweise in einer speziellen Box verpackt ist. Bentos können gekauft oder selbst zubereitet werden und sind ein wesentlicher Bestandteil der japanischen Esskultur.</p>
+  <div class="examples">
+    <div class="jp">毎日[まいにち]お 弁当[べんとう]を 作[つく]るのは 大変[たいへん]だけど、健康[けんこう]的[てき]だと 思[おも]います。</div>
+    <div class="de spoiler">Es ist zwar anstrengend, jeden Tag ein Bento zuzubereiten, aber ich denke, es ist gesund.</div>
+  </div>
+  <p>Es gibt verschiedene Arten von Bentos:</p>
+  <ul>
+    <li>愛妻弁当 (あいさいべんとう): Von der Ehefrau zubereitetes Bento</li>
+    <li>日の丸弁当 (ひのまるべんとう): Bento mit weißem Reis und roter Umeboshi in der Mitte, ähnlich der japanischen Flagge</li>
+    <li>幕の内弁当 (まくのうちべんとう): Klassisches Bento mit verschiedenen kleinen Gerichten</li>
+  </ul>
+  <div class="examples">
+    <div class="jp">駅[えき]の 弁当屋[べんとうや]で 幕[まく]の 内弁当[うちべんとう]を 買[か]って、新幹線[しんかんせん]の 中[なか]で 食[た]べました。</div>
+    <div class="de spoiler">Ich kaufte ein Makunouchi-Bento am Bento-Stand am Bahnhof und aß es im Shinkansen.</div>
+  </div>

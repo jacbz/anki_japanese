@@ -2,20 +2,96 @@ Rang: 1948
 Lemma: 炒める
 Lesung: いためる
 Tonhöhen: .^\.
-Definition: braten, anbraten
-Alternativschreibweisen: ''
+Definition: anbraten
+Alternativschreibweisen: 煠める
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 炒めない・炒めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   鶏肉を色が変わるまで炒めてください。
-  鶏肉[けいにく]を 色[いろ]が 変[か]わるまで 炒[いた]めてください。
-  Brate das Hähnchen an, bis es braun wird.
+  鶏肉[とりにく]を 色[いろ]が 変[か]わるまで 炒[いた]めてください。
+  Bitte braten Sie das Hühnchenfleisch, bis es die Farbe ändert.
+
+  野菜を炒めるときは、強火で手早く調理するのがコツです。
+  野菜[やさい]を 炒[いた]めるときは、強火[つよび]で 手早[てばや]く 調理[ちょうり]するのがコツです。
+  Der Trick beim Anbraten von Gemüse ist es, schnell bei starker Hitze zu kochen.
+
+  玉ねぎを炒めて、香りを出します。
+  玉ねぎ[たまねぎ]を 炒[いた]めて、香[かお]りを 出[だ]します。
+  Braten Sie die Zwiebeln an, um ihr Aroma freizusetzen.
+
+  ニンニクを軽く炒めてから、他の材料を加えます。
+  ニンニクを 軽[かる]く 炒[いた]めてから、他[ほか]の 材料[ざいりょう]を 加[くわ]えます。
+  Braten Sie den Knoblauch leicht an, bevor Sie die anderen Zutaten hinzufügen.
+
+  炒め物は中華料理の基本的な調理法の一つです。
+  炒[いた]め 物[もの]は 中華料理[ちゅうかりょうり]の 基本的[きほんてき]な 調理法[ちょうりほう]の 一[ひと]つです。
+  Das Anbraten ist eine grundlegende Kochtechnik in der chinesischen Küche.
+
+  小海老はさっと炒めるのがポイントです。
+  小海老[こえび]はさっと 炒[いた]めるのがポイントです。
+  Der Schlüssel liegt darin, die kleinen Garnelen nur kurz anzubraten.
+
+  バターで炒めたキノコは香り豊かで美味しいです。
+  バターで 炒[いた]めたキノコは 香[かお]り 豊[ゆた]かで 美味[おい]しいです。
+  In Butter angebratene Pilze sind aromatisch und lecker.
+
+  炒めすぎると野菜が柔らかくなりすぎてしまいます。
+  炒[いた]めすぎると 野菜[やさい]が 柔[やわ]らかくなりすぎてしまいます。
+  Wenn man zu lange brät, werden die Gemüse zu weich.
+
+  フライパンを熱してから油を入れ、具材を炒めます。
+  フライパンを 熱[あつ]してから 油[あぶら]を 入[い]れ、具材[ぐざい]を 炒[いた]めます。
+  Erhitzen Sie die Pfanne, geben Sie dann Öl hinein und braten Sie die Zutaten an.
+
+  ニンジンを炒めると甘みが増します。
+  ニンジンを 炒[いた]めると 甘[あま]みが 増[ふ]します。
+  Wenn man Karotten anbrät, verstärkt sich ihre Süße.
+
+  炒めた野菜をご飯に混ぜて、チャーハンを作ります。
+  炒[いた]めた 野菜[やさい]をご 飯[はん]に 混[ま]ぜて、チャーハンを 作[つく]ります。
+  Mischen Sie das angebratene Gemüse mit Reis, um gebratenen Reis zuzubereiten.
+
+  香辛料を炒めると、より香りが引き立ちます。
+  香辛料[こうしんりょう]を 炒[いた]めると、より 香[かお]りが 引[ひ]き 立[た]ちます。
+  Wenn man Gewürze anbrät, wird ihr Aroma noch intensiver.
+
+  豚肉を先に炒めてから、野菜を加えます。
+  豚肉[ぶたにく]を 先[さき]に 炒[いた]めてから、野菜[やさい]を 加[くわ]えます。
+  Braten Sie zuerst das Schweinefleisch an, bevor Sie das Gemüse hinzufügen.
+
+  炒め物は、材料の食感と風味を生かす調理法です。
+  炒[いた]め 物[もの]は、材料[ざいりょう]の 食感[しょっかん]と 風味[ふうみ]を 生[い]かす 調理法[ちょうりほう]です。
+  Das Anbraten ist eine Kochtechnik, die die Textur und das Aroma der Zutaten hervorhebt.
+
+  ごま油で炒めると、独特の香りが付きます。
+  ごま 油[あぶら]で 炒[いた]めると、独特[どくとく]の 香[かお]りが 付[つ]きます。
+  Wenn man in Sesamöl anbrät, entsteht ein charakteristisches Aroma.
+
+  野菜を炒める順番は、硬いものから順に入れていきます。
+  野菜[やさい]を 炒[いた]める 順番[じゅんばん]は、硬[かた]いものから 順[じゅん]に 入[い]れていきます。
+  Die Reihenfolge beim Anbraten von Gemüse ist, mit den härteren Sorten zu beginnen und dann die weicheren hinzuzufügen.
+
+  炒めた野菜は、サラダよりもカロリーが高くなります。
+  炒[いた]めた 野菜[やさい]は、サラダよりもカロリーが 高[たか]くなります。
+  Angebratenes Gemüse hat mehr Kalorien als ein Salat.
+
+  ニンニクと生姜を炒めて、香りベースを作ります。
+  ニンニクと 生姜[しょうが]を 炒[いた]めて、香[かお]りベースを 作[つく]ります。
+  Braten Sie Knoblauch und Ingwer an, um eine aromatische Basis zu schaffen.
+
+  炒めすぎないように、常に目を離さずに調理しましょう。
+  炒[いた]めすぎないように、常[つね]に 目[め]を 離[はな]さずに 調理[ちょうり]しましょう。
+  Um ein Überbraten zu vermeiden, sollten Sie beim Kochen stets ein Auge darauf haben.
+
+  キャベツを炒めると、甘みが出て美味しくなります。
+  キャベツを 炒[いた]めると、甘[あま]みが 出[で]て 美味[おい]しくなります。
+  Wenn man Kohl anbrät, kommt seine Süße heraus und er wird leckerer.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

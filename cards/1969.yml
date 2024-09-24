@@ -2,8 +2,8 @@ Rang: 1969
 Lemma: こっち
 Lesung: ''
 Tonhöhen: .^\
-Definition: hier; dies; ich; wir
-Alternativschreibweisen: ''
+Definition: hier; das hier
+Alternativschreibweisen: 此方
 Extra: '' # Nur bei suru-Verben
 Wortart: pron
 Register: ''
@@ -17,9 +17,100 @@ Beispielsätze: |-
   こっちに 来[き]て 手伝[てつだ]って。
   Komm her und hilf mir.
 
+  こっちの方が近道だよ。
+  こっちの 方[ほう]が 近道[ちかみち]だよ。
+  Dieser Weg hier ist eine Abkürzung.
+
+  あっちこっち探したけど、見つからなかった。
+  あっちこっち 探[さが]したけど、見[み]つからなかった。
+  Ich habe überall gesucht, konnte es aber nicht finden.
+
+  こっちの席に座ってください。
+  こっちの 席[せき]に 座[すわ]ってください。
+  Bitte nehmen Sie hier Platz.
+
+  こっちを向いて笑って。
+  こっちを 向[む]いて 笑[わら]って。
+  Schau hierher und lächle.
+
+  こっちの方が安いです。
+  こっちの 方[ほう]が 安[やす]いです。
+  Diese hier sind günstiger.
+
+  こっちの話を聞いてよ。
+  こっちの 話[はなし]を 聞[き]いてよ。
+  Hör mir doch mal zu.
+
+  こっちに来るな！危ないから。
+  こっちに 来[く]るな！危[あぶ]ないから。
+  Komm nicht hierher! Es ist gefährlich.
+
+  こっちの方が美味しいと思う。
+  こっちの 方[ほう]が 美味[おい]しいと 思[おも]う。
+  Ich denke, diese hier schmecken besser.
+
+  急いでこっちに来てください。
+  急[いそ]いでこっちに 来[き]てください。
+  Kommen Sie bitte schnell hierher.
+
+  こっちを見て、話を聞いてください。
+  こっちを 見[み]て、話[はなし]を 聞[き]いてください。
+  Schauen Sie hierher und hören Sie mir zu.
+
+  こっちの携帯の方が新しいモデルだ。
+  こっちの 携帯[けいたい]の 方[ほう]が 新[あたら]しいモデルだ。
+  Dieses Handy hier ist das neuere Modell.
+
+  あっちよりこっちの方が静かだね。
+  あっちよりこっちの 方[ほう]が 静[しず]かだね。
+  Hier ist es ruhiger als dort drüben.
+
+  こっちの方が面白い本だと思う。
+  こっちの 方[ほう]が 面白[おもしろ]い 本[ほん]だと 思[おも]う。
+  Ich denke, dieses Buch hier ist interessanter.
+
+  こっちの道を歩いて行けば、駅に着きます。
+  こっちの 道[みち]を 歩[ある]いて 行[い]けば、駅[えき]に 着[つ]きます。
+  Wenn du diesen Weg hier gehst, kommst du zum Bahnhof.
+
+  こっちの料理の方が辛いよ。
+  こっちの 料理[りょうり]の 方[ほう]が 辛[から]いよ。
+  Dieses Gericht hier ist schärfer.
+
+  彼女はこっちを見ながら笑っていた。
+  彼女[かのじょ]はこっちを 見[み]ながら 笑[わら]っていた。
+  Sie lächelte, während sie in diese Richtung schaute.
+
+  こっちの問題の方が難しいです。
+  こっちの 問題[もんだい]の 方[ほう]が 難[むずか]しいです。
+  Diese Aufgabe hier ist schwieriger.
+
+  こっちの方が値段が高いけど、品質も良いです。
+  こっちの 方[ほう]が 値段[ねだん]が 高[たか]いけど、品質[ひんしつ]も 良[よ]いです。
+  Diese hier sind zwar teurer, aber die Qualität ist auch besser.
+
+  こっちの方が君に似合うと思うよ。
+  こっちの 方[ほう]が 君[きみ]に 似合[にあ]うと 思[おも]うよ。
+  Ich denke, das hier steht dir besser.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">こっち</span> ist die umgangssprachliche Form von <span class="jp">こちら</span> und wird verwendet, um auf etwas in der Nähe des Sprechers zu verweisen oder eine Richtung anzugeben.</p>
+  <div class="examples">
+    <div class="jp">こっちに 来[き]て。</div>
+    <div class="de spoiler">Komm her.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um sich auf den Sprecher selbst zu beziehen.</p>
+  <div class="examples">
+    <div class="jp">こっちは 大丈夫[だいじょうぶ]だよ。</div>
+    <div class="de spoiler">Bei mir ist alles in Ordnung.</div>
+  </div>
+  <p><span class="jp">あっちこっち</span> bedeutet "hier und da" oder "überall".</p>
+  <div class="examples">
+    <div class="jp">あっちこっち 探[さが]したけど、見[み]つからなかった。</div>
+    <div class="de spoiler">Ich habe überall gesucht, aber es nicht gefunden.</div>
+  </div>

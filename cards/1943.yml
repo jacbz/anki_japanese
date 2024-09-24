@@ -2,20 +2,96 @@ Rang: 1943
 Lemma: 取り入れる
 Lesung: とりいれる
 Tonhöhen: .^^\.
-Definition: übernehmen; annehmen; ernten
-Alternativschreibweisen: ''
+Definition: aufnehmen; einführen; ernten
+Alternativschreibweisen: 取入れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 取り入れない・取り入れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本は西洋の習慣や文化を取り入れた。
-  日本[にっぽん]は 西洋[せいよう]の 習慣[しゅうかん]や 文化[ぶんか]を 取[と]り 入[い]れた。
+  日本[にほん]は 西洋[せいよう]の 習慣[しゅうかん]や 文化[ぶんか]を 取[と]り 入[い]れた。
   Japan hat westliche Bräuche und Kultur übernommen.
+
+  洗濯物を取り入れるのを忘れないでね。
+  洗濯物[せんたくもの]を 取[と]り 入[い]れるのを 忘[わす]れないでね。
+  Vergiss nicht, die Wäsche hereinzuholen.
+
+  窓を開けて新鮮な空気を部屋に取り入れましょう。
+  窓[まど]を 開[あ]けて 新鮮[しんせん]な 空気[くうき]を 部屋[へや]に 取[と]り 入[い]れましょう。
+  Lass uns das Fenster öffnen und frische Luft ins Zimmer lassen.
+
+  彼女のアイディアを計画に取り入れることにしました。
+  彼女[かのじょ]のアイディアを 計画[けいかく]に 取[と]り 入[い]れることにしました。
+  Wir haben beschlossen, ihre Idee in den Plan aufzunehmen.
+
+  最新の技術を積極的に取り入れている会社です。
+  最新[さいしん]の 技術[ぎじゅつ]を 積極的[せっきょくてき]に 取[と]り 入[い]れている 会社[かいしゃ]です。
+  Es ist ein Unternehmen, das aktiv die neueste Technologie einführt.
+
+  友人の忠告を取り入れて、生活習慣を改善しました。
+  友人[ゆうじん]の 忠告[ちゅうこく]を 取[と]り 入[い]れて、生活習慣[せいかつしゅうかん]を 改善[かいぜん]しました。
+  Ich habe den Rat meines Freundes angenommen und meine Lebensgewohnheiten verbessert.
+
+  新しいトレンドをいち早く取り入れるのが彼女の特技だ。
+  新[あたら]しいトレンドをいち 早[はや]く 取[と]り 入[い]れるのが 彼女[かのじょ]の 特技[とくぎ]だ。
+  Es ist ihre Stärke, neue Trends schnell aufzugreifen.
+
+  試験の採点に出席状況も取り入れることにしました。
+  試験[しけん]の 採点[さいてん]に 出席状況[しゅっせきじょうきょう]も 取[と]り 入[い]れることにしました。
+  Wir haben beschlossen, die Anwesenheit in die Bewertung der Prüfung einfließen zu lassen.
+
+  外国の教育システムの良い点を取り入れる必要がある。
+  外国[がいこく]の 教育[きょういく]システムの 良[よ]い 点[てん]を 取[と]り 入[い]れる 必要[ひつよう]がある。
+  Es ist notwendig, die guten Aspekte ausländischer Bildungssysteme zu übernehmen.
+
+  この地域では、9月に小麦を取り入れます。
+  この 地域[ちいき]では、9月[がつ]に 小麦[こむぎ]を 取[と]り 入[い]れます。
+  In dieser Region wird der Weizen im September geerntet.
+
+  彼は様々な意見を取り入れて、より良い決断を下した。
+  彼[かれ]は 様々[さまざま]な 意見[いけん]を 取[と]り 入[い]れて、より 良[よ]い 決断[けつだん]を 下[くだ]した。
+  Er traf eine bessere Entscheidung, indem er verschiedene Meinungen berücksichtigte.
+
+  新製品の開発には、顧客の声を取り入れることが重要だ。
+  新製品[しんせいひん]の 開発[かいはつ]には、顧客[こきゃく]の 声[こえ]を 取[と]り 入[い]れることが 重要[じゅうよう]だ。
+  Bei der Entwicklung neuer Produkte ist es wichtig, das Feedback der Kunden zu berücksichtigen.
+
+  彼女は健康的な習慣を日々の生活に取り入れている。
+  彼女[かのじょ]は 健康的[けんこうてき]な 習慣[しゅうかん]を 日々[ひび]の 生活[せいかつ]に 取[と]り 入[い]れている。
+  Sie integriert gesunde Gewohnheiten in ihren Alltag.
+
+  この会社は従業員の提案を積極的に取り入れる方針だ。
+  この 会社[かいしゃ]は 従業員[じゅうぎょういん]の 提案[ていあん]を 積極的[せっきょくてき]に 取[と]り 入[い]れる 方針[ほうしん]だ。
+  Dieses Unternehmen hat die Politik, Vorschläge von Mitarbeitern aktiv aufzugreifen.
+
+  雨が降りそうだから、洗濯物を早めに取り入れよう。
+  雨[あめ]が 降[ふ]りそうだから、洗濯物[せんたくもの]を 早[はや]めに 取[と]り 入[い]れよう。
+  Es sieht nach Regen aus, lass uns die Wäsche früher reinholen.
+
+  彼らは伝統的な要素を現代的なデザインに取り入れた。
+  彼[かれ]らは 伝統的[でんとうてき]な 要素[ようそ]を 現代的[げんだいてき]なデザインに 取[と]り 入[い]れた。
+  Sie haben traditionelle Elemente in ein modernes Design integriert.
+
+  環境に配慮した政策を取り入れる自治体が増えている。
+  環境[かんきょう]に 配慮[はいりょ]した 政策[せいさく]を 取[と]り 入[い]れる 自治体[じちたい]が 増[ふ]えている。
+  Immer mehr Gemeinden führen umweltfreundliche Richtlinien ein.
+
+  新しい教育方法を取り入れることで、生徒の学習意欲が高まった。
+  新[あたら]しい 教育方法[きょういくほうほう]を 取[と]り 入[い]れることで、生徒[せいと]の 学習意欲[がくしゅういよく]が 高[たか]まった。
+  Durch die Einführung neuer Lehrmethoden stieg die Lernmotivation der Schüler.
+
+  農家は効率的な収穫方法を取り入れて、生産性を上げた。
+  農家[のうか]は 効率的[こうりつてき]な 収穫方法[しゅうかくほうほう]を 取[と]り 入[い]れて、生産性[せいさんせい]を 上[あ]げた。
+  Die Bauern steigerten ihre Produktivität, indem sie effiziente Erntemethoden einführten.
+
+  この料理には地元の食材を積極的に取り入れています。
+  この 料理[りょうり]には 地元[じもと]の 食材[しょくざい]を 積極的[せっきょくてき]に 取[と]り 入[い]れています。
+  In diesem Gericht verwenden wir aktiv lokale Zutaten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

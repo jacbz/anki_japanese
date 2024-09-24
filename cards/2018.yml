@@ -2,20 +2,96 @@ Rang: 2018
 Lemma: 壊す
 Lesung: こわす
 Tonhöhen: .\.
-Definition: zerbrechen; beeinträchtigen; aufregen
-Alternativschreibweisen: ''
+Definition: (zer)brechen, zerstören
+Alternativschreibweisen: 毀す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 壊さない・壊した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   友達の時計を壊してしまった。
   友達[ともだち]の 時計[とけい]を 壊[こわ]してしまった。
-  Ich habe die Uhr meines Freundes kaputt gemacht.
+  Ich habe versehentlich die Uhr meines Freundes kaputtgemacht.
+
+  わざと壊すなんて、ひどいことをするね。
+  わざと 壊[こわ]すなんて、ひどいことをするね。
+  Absichtlich etwas kaputtzumachen, ist wirklich eine schlimme Sache.
+
+  皿を壊さないように気をつけて運んでください。
+  皿[さら]を 壊[こわ]さないように 気[き]をつけて 運[はこ]んでください。
+  Bitte seien Sie vorsichtig beim Tragen, damit Sie den Teller nicht zerbrechen.
+
+  古い机を壊して、新しいのを組み立てました。
+  古[ふる]い 机[つくえ]を 壊[こわ]して、新[あたら]しいのを 組[く]み 立[た]てました。
+  Ich habe den alten Schreibtisch zerlegt und einen neuen zusammengebaut.
+
+  この建物は危険だから壊すことになった。
+  この 建物[たてもの]は 危険[きけん]だから 壊[こわ]すことになった。
+  Es wurde beschlossen, dieses Gebäude abzureißen, weil es gefährlich ist.
+
+  カメラを落として壊してしまいました。
+  カメラを 落[お]として 壊[こわ]してしまいました。
+  Ich habe die Kamera fallen lassen und kaputtgemacht.
+
+  お腹を壊さないように、生ものには気をつけよう。
+  お腹[なか]を 壊[こわ]さないように、生[なま]ものには 気[き]をつけよう。
+  Lass uns vorsichtig mit rohem Essen umgehen, damit wir uns nicht den Magen verderben.
+
+  仕事のストレスで体を壊してしまった。
+  仕事[しごと]のストレスで 体[からだ]を 壊[こわ]してしまった。
+  Ich habe meine Gesundheit durch den Arbeitsstress ruiniert.
+
+  離婚によって家庭が壊されてしまった。
+  離婚[りこん]によって 家庭[かてい]が 壊[こわ]されてしまった。
+  Durch die Scheidung wurde die Familie zerstört.
+
+  開発によって自然が壊されていく。
+  開発[かいはつ]によって 自然[しぜん]が 壊[こわ]されていく。
+  Die Natur wird durch Entwicklung zerstört.
+
+  君の一言でせっかくのムードを壊してしまったよ。
+  君[きみ]の 一言[ひとこと]でせっかくのムードを 壊[こわ]してしまったよ。
+  Mit deinem einen Wort hast du die ganze Stimmung ruiniert.
+
+  彼らの計画を壊すのは簡単ではない。
+  彼[かれ]らの 計画[けいかく]を 壊[こわ]すのは 簡単[かんたん]ではない。
+  Es ist nicht einfach, ihren Plan zu vereiteln.
+
+  ドラマーが突然リズムを壊して、観客を驚かせた。
+  ドラマーが 突然[とつぜん]リズムを 壊[こわ]して、観客[かんきゃく]を 驚[おどろ]かせた。
+  Der Schlagzeuger brach plötzlich den Rhythmus und überraschte das Publikum.
+
+  グラスを壊さないように注意して扱ってください。
+  グラスを 壊[こわ]さないように 注意[ちゅうい]して 扱[あつか]ってください。
+  Bitte gehen Sie vorsichtig mit den Gläsern um, damit Sie sie nicht zerbrechen.
+
+  子供たちが遊具を乱暴に扱って壊してしまった。
+  子供[こども]たちが 遊具[ゆうぐ]を 乱暴[らんぼう]に 扱[あつか]って 壊[こわ]してしまった。
+  Die Kinder haben das Spielgerät durch grobe Behandlung kaputtgemacht.
+
+  この古い家電は修理するより壊して新しいのを買った方がいい。
+  この 古[ふる]い 家電[かでん]は 修理[しゅうり]するより 壊[こわ]して 新[あたら]しいのを 買[か]った 方[ほう]がいい。
+  Es ist besser, dieses alte Elektrogerät zu entsorgen und ein neues zu kaufen, anstatt es zu reparieren.
+
+  強い地震で多くの建物が壊された。
+  強[つよ]い 地震[じしん]で 多[おお]くの 建物[たてもの]が 壊[こわ]された。
+  Viele Gebäude wurden durch das starke Erdbeben zerstört.
+
+  彼女の言葉で私の自信は完全に壊されてしまった。
+  彼女[かのじょ]の 言葉[ことば]で 私[わたし]の 自信[じしん]は 完全[かんぜん]に 壊[こわ]されてしまった。
+  Ihre Worte haben mein Selbstvertrauen völlig zerstört.
+
+  一万円札を壊して、千円札に両替してください。
+  一万[いちまん]円札[えんさつ]を 壊[こわ]して、千[せん]円札[えんさつ]に 両替[りょうがえ]してください。
+  Bitte wechseln Sie den 10.000-Yen-Schein in 1.000-Yen-Scheine.
+
+  この古い習慣を壊すのは難しいかもしれない。
+  この 古[ふる]い 習慣[しゅうかん]を 壊[こわ]すのは 難[むずか]しいかもしれない。
+  Es könnte schwierig sein, diese alte Gewohnheit zu brechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

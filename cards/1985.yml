@@ -2,7 +2,7 @@ Rang: 1985
 Lemma: 住民
 Lesung: じゅうみん
 Tonhöhen: ..^^\
-Definition: Einwohner, Bewohner
+Definition: Einwohner, Bürger
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   地元の住民はその計画に反対している。
-  地元[じもと]の 住民[じゅうみん]はその 計画[けいかく]に 反対[はんたい]している。
-  Die örtlichen Einwohner sind gegen den Plan.
+  地元[ちほう]の 住民[じゅうみん]はその 計画[けいかく]に 反対[はんたい]している。
+  Die Anwohner vor Ort sind gegen diesen Plan.
+
+  住民票の発行には時間がかかる場合があります。
+  住民票[じゅうみんひょう]の 発行[はっこう]には 時間[じかん]がかかる 場合[ばあい]があります。
+  Die Ausstellung einer Meldebestätigung kann manchmal Zeit in Anspruch nehmen.
+
+  住民参加型の町づくりを目指しています。
+  住民参加型[じゅうみんさんかがた]の 町[まち]づくりを 目指[めざ]しています。
+  Wir streben eine Stadtentwicklung mit Bürgerbeteiligung an.
+
+  住民請願により、新しい公園の建設が決定しました。
+  住民請願[じゅうみんせいがん]により、新[あたら]しい 公園[こうえん]の 建設[けんせつ]が 決定[けってい]しました。
+  Aufgrund eines Bürgerbegehrens wurde der Bau eines neuen Parks beschlossen.
+
+  住民投票の結果、その条例は否決されました。
+  住民投票[じゅうみんとうひょう]の 結果[けっか]、その 条例[じょうれい]は 否決[ひけつ]されました。
+  Als Ergebnis der Volksabstimmung wurde die Verordnung abgelehnt.
+
+  引っ越したら、新しい住所で住民登録をしなければならない。
+  引[ひ]っ 越[こ]したら、新[あたら]しい 住所[じゅうしょ]で 住民登録[じゅうみんとうろく]をしなければならない。
+  Nach einem Umzug muss man sich an der neuen Adresse beim Einwohnermeldeamt registrieren.
+
+  住民運動の結果、地域の環境保護が進みました。
+  住民運動[じゅうみんうんどう]の 結果[けっか]、地域[ちいき]の 環境保護[かんきょうほご]が 進[すす]みました。
+  Als Ergebnis der Bürgerbewegung ist der Umweltschutz in der Region vorangekommen.
+
+  住民税の納付期限が近づいています。
+  住民税[じゅうみんぜい]の 納付期限[のうふきげん]が 近[ちか]づいています。
+  Die Frist für die Zahlung der Einwohnersteuer rückt näher.
+
+  付近住民に工事の説明会を行う予定です。
+  付近住民[ふきんじゅうみん]に 工事[こうじ]の 説明会[せつめいかい]を 行[おこな]う 予定[よてい]です。
+  Wir planen, eine Informationsveranstaltung über die Bauarbeiten für die Anwohner durchzuführen.
+
+  住民の声を聞くために、アンケート調査を実施しました。
+  住民[じゅうみん]の 声[こえ]を 聞[き]くために、アンケート 調査[ちょうさ]を 実施[じっし]しました。
+  Um die Meinung der Bürger zu hören, haben wir eine Umfrage durchgeführt.
+
+  この地域の住民の平均年齢は上昇傾向にあります。
+  この 地域[ちいき]の 住民[じゅうみん]の 平均年齢[へいきんねんれい]は 上昇傾向[じょうしょうけいこう]にあります。
+  Das Durchschnittsalter der Bewohner in dieser Gegend zeigt eine steigende Tendenz.
+
+  災害時の住民避難計画を見直す必要があります。
+  災害時[さいがいじ]の 住民避難[じゅうみんひなん]計画[けいかく]を 見直[みなお]す 必要[ひつよう]があります。
+  Es ist notwendig, den Evakuierungsplan für die Einwohner im Katastrophenfall zu überprüfen.
+
+  地方自治体は住民サービスの向上に努めています。
+  地方自治体[ちほうじちたい]は 住民[じゅうみん]サービスの 向上[こうじょう]に 努[つと]めています。
+  Die lokale Verwaltung bemüht sich um die Verbesserung der Dienstleistungen für die Bürger.
+
+  新しい条例案について住民の意見を募集しています。
+  新[あたら]しい 条例案[じょうれいあん]について 住民[じゅうみん]の 意見[いけん]を 募集[ぼしゅう]しています。
+  Wir sammeln die Meinungen der Bürger zum neuen Verordnungsentwurf.
+
+  住民の健康増進のため、無料の健康診断を実施します。
+  住民[じゅうみん]の 健康増進[けんこうぞうしん]のため、無料[むりょう]の 健康診断[けんこうしんだん]を 実施[じっし]します。
+  Zur Förderung der Gesundheit der Einwohner führen wir kostenlose Gesundheitsuntersuchungen durch.
+
+  住民票コードは個人情報保護の観点から厳重に管理されています。
+  住民票[じゅうみんひょう]コードは 個人情報保護[こじんじょうほうほご]の 観点[かんてん]から 厳重[げんじゅう]に 管理[かんり]されている。
+  Der Einwohnermeldenummern-Code wird aus Gründen des Datenschutzes streng verwaltet.
+
+  住民訴訟により、不適切な公金使用が明らかになりました。
+  住民訴訟[じゅうみんそしょう]により、不適切[ふてきせつ]な 公金使用[こうきんしよう]が 明[あき]らかになりました。
+  Durch eine Bürgerklage wurde die unangemessene Verwendung öffentlicher Gelder aufgedeckt.
+
+  新しい図書館の建設について、住民の意見を反映させました。
+  新[あたら]しい 図書館[としょかん]の 建設[けんせつ]について、住民[じゅうみん]の 意見[いけん]を 反映[はんえい]させました。
+  Bei der Errichtung der neuen Bibliothek wurden die Meinungen der Bürger berücksichtigt.
+
+  この町の住民は、お祭りの準備に積極的に参加します。
+  この 町[まち]の 住民[じゅうみん]は、お 祭[まつ]りの 準備[じゅんび]に 積極的[せっきょくてき]に 参加[さんか]します。
+  Die Einwohner dieser Stadt beteiligen sich aktiv an den Vorbereitungen für das Fest.
+
+  住民の安全を守るため、防犯カメラの設置を検討しています。
+  住民[じゅうみん]の 安全[あんぜん]を 守[まも]るため、防犯[ぼうはん]カメラの 設置[せっち]を 検討[けんとう]しています。
+  Um die Sicherheit der Bewohner zu gewährleisten, erwägen wir die Installation von Überwachungskameras.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

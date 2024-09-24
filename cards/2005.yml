@@ -2,20 +2,96 @@ Rang: 2005
 Lemma: 要する
 Lesung: ようする
 Tonhöhen: .^\.
-Definition: im Grunde genommen, kurz gesagt
+Definition: erfordern; zusammenfassen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 要しない・要した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   世界経済は回復するのに数年を要します。
-  世界経済[せかいけいざい]は 回復[かいふく]するのに 数[すう] 年[ねん]を 要[よう]します。
-  Die Weltwirtschaft wird mehrere Jahre brauchen, um sich zu erholen.
+  世界[せかい] 経済[けいざい]は 回復[かいふく]するのに 数年[すうねん]を 要[よう]します。
+  Die Erholung der Weltwirtschaft wird einige Jahre in Anspruch nehmen.
+
+  この問題を解決するには時間と忍耐を要します。
+  この 問題[もんだい]を 解決[かいけつ]するには 時間[じかん]と 忍耐[にんたい]を 要[よう]します。
+  Um dieses Problem zu lösen, braucht es Zeit und Geduld.
+
+  新製品の開発には多額の資金を要する。
+  新[しん] 製品[せいひん]の 開発[かいはつ]には 多額[たがく]の 資金[しきん]を 要[よう]する。
+  Die Entwicklung eines neuen Produkts erfordert erhebliche finanzielle Mittel.
+
+  この仕事は特別な技術を要しない。
+  この 仕事[しごと]は 特別[とくべつ]な 技術[ぎじゅつ]を 要[よう]しない。
+  Diese Arbeit erfordert keine besonderen Fähigkeiten.
+
+  彼女の回復には長期の治療を要するだろう。
+  彼女[かのじょ]の 回復[かいふく]には 長期[ちょうき]の 治療[ちりょう]を 要[よう]するだろう。
+  Ihre Genesung wird wahrscheinlich eine langfristige Behandlung erfordern.
+
+  この計画の実施には慎重な検討を要する。
+  この 計画[けいかく]の 実施[じっし]には 慎重[しんちょう]な 検討[けんとう]を 要[よう]する。
+  Die Umsetzung dieses Plans erfordert sorgfältige Überlegung.
+
+  新しい法律の制定には時間を要するでしょう。
+  新[あたら]しい 法律[ほうりつ]の 制定[せいてい]には 時間[じかん]を 要[よう]するでしょう。
+  Die Verabschiedung eines neuen Gesetzes wird Zeit in Anspruch nehmen.
+
+  この手術は高度な専門知識を要します。
+  この 手術[しゅじゅつ]は 高度[こうど]な 専門[せんもん] 知識[ちしき]を 要[よう]します。
+  Diese Operation erfordert fortgeschrittenes Fachwissen.
+
+  彼の提案を要するに、コストの削減が必要だということだ。
+  彼[かれ]の 提案[ていあん]を 要[よう]するに、コストの 削減[さくげん]が 必要[ひつよう]だということだ。
+  Um seine Vorschläge zusammenzufassen: Kostensenkungen sind notwendig.
+
+  この問題の解決には全員の協力を要する。
+  この 問題[もんだい]の 解決[かいけつ]には 全員[ぜんいん]の 協力[きょうりょく]を 要[よう]する。
+  Die Lösung dieses Problems erfordert die Zusammenarbeit aller.
+
+  新システムの導入には従業員の再教育を要するかもしれない。
+  新[しん]システムの 導入[どうにゅう]には 従業員[じゅうぎょういん]の 再[さい] 教育[きょういく]を 要[よう]するかもしれない。
+  Die Einführung des neuen Systems könnte eine Umschulung der Mitarbeiter erfordern.
+
+  この実験には特別な注意を要する。
+  この 実験[じっけん]には 特別[とくべつ]な 注意[ちゅうい]を 要[よう]する。
+  Dieses Experiment erfordert besondere Aufmerksamkeit.
+
+  彼の発言を要するに、我々はもっと努力すべきだということだ。
+  彼[かれ]の 発言[はつげん]を 要[よう]するに、我々[われわれ]はもっと 努力[どりょく]すべきだということだ。
+  Um seine Aussage zusammenzufassen: Wir sollten uns mehr anstrengen.
+
+  この課題を完了するには約一週間を要すると思います。
+  この 課題[かだい]を 完了[かんりょう]するには 約[やく] 一[いっ] 週間[しゅうかん]を 要[よう]すると 思[おも]います。
+  Ich denke, es wird etwa eine Woche dauern, um diese Aufgabe abzuschließen.
+
+  新しい技術の習得には時間と練習を要する。
+  新[あたら]しい 技術[ぎじゅつ]の 習得[しゅうとく]には 時間[じかん]と 練習[れんしゅう]を 要[よう]する。
+  Das Erlernen einer neuen Technik erfordert Zeit und Übung.
+
+  この病気の完治には長期の治療を要するかもしれません。
+  この 病気[びょうき]の 完治[かんち]には 長期[ちょうき]の 治療[ちりょう]を 要[よう]するかもしれません。
+  Die vollständige Heilung dieser Krankheit könnte eine langfristige Behandlung erfordern.
+
+  彼らの提案を要するに、もっと効率的な方法を見つける必要があるということだ。
+  彼[かれ]らの 提案[ていあん]を 要[よう]するに、もっと 効率[こうりつ]的[てき]な 方法[ほうほう]を 見[み]つける 必要[ひつよう]があるということだ。
+  Um ihren Vorschlag zusammenzufassen: Wir müssen effizientere Methoden finden.
+
+  この事業の成功には多くの時間と努力を要するだろう。
+  この 事業[じぎょう]の 成功[せいこう]には 多[おお]くの 時間[じかん]と 努力[どりょく]を 要[よう]するだろう。
+  Der Erfolg dieses Unternehmens wird wahrscheinlich viel Zeit und Anstrengung erfordern.
+
+  彼の説明を要するに、状況は予想以上に複雑だということだ。
+  彼[かれ]の 説明[せつめい]を 要[よう]するに、状況[じょうきょう]は 予想[よそう] 以上[いじょう]に 複雑[ふくざつ]だということだ。
+  Um seine Erklärung zusammenzufassen: Die Situation ist komplizierter als erwartet.
+
+  この改革の実現には国民の理解と協力を要する。
+  この 改革[かいかく]の 実現[じつげん]には 国民[こくみん]の 理解[りかい]と 協力[きょうりょく]を 要[よう]する。
+  Die Umsetzung dieser Reform erfordert das Verständnis und die Zusammenarbeit der Bürger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

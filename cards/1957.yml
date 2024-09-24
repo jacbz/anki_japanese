@@ -2,13 +2,13 @@ Rang: 1957
 Lemma: 沸く
 Lesung: わく
 Tonhöhen: .^
-Definition: kochen; in Aufruhr sein
-Alternativschreibweisen: ''
+Definition: kochen; hervorquellen; entstehen
+Alternativschreibweisen: 湧く・涌く
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: わかない・わいた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   お湯が沸いた。
   お 湯[ゆ]が 沸[わ]いた。
   Das Wasser kocht.
+
+  風呂が沸いたよ。入ってもいいよ。
+  風呂[ふろ]が 沸[わ]いたよ。 入[はい]ってもいいよ。
+  Das Bad ist fertig. Du kannst reingehen.
+
+  鍋の中でスープがフツフツと沸いている。
+  鍋[なべ]の 中[なか]でスープがフツフツと 沸[わ]いている。
+  Die Suppe brodelt in dem Topf.
+
+  会場は興奮で沸き立っていた。
+  会場[かいじょう]は 興奮[こうふん]で 沸[わ]き 立[た]っていた。
+  Der Saal tobte vor Begeisterung.
+
+  観客が沸いて、選手に声援を送った。
+  観客[かんきゃく]が 沸[わ]いて、選手[せんしゅ]に 声援[せいえん]を 送[おく]った。
+  Die Zuschauer gerieten außer Rand und Band und feuerten die Spieler an.
+
+  街全体がお祭りで沸き返っていた。
+  街[まち] 全体[ぜんたい]がお 祭[まつ]りで 沸[わ]き 返[かえ]っていた。
+  Die ganze Stadt war wegen des Festivals in Aufruhr.
+
+  この暑さで頭が沸きそうだ。
+  この 暑[あつ]さで 頭[あたま]が 沸[わ]きそうだ。
+  Bei dieser Hitze kocht mir der Kopf.
+
+  地面から清水が湧き出ている。
+  地面[じめん]から 清水[しみず]が 湧[わ]き 出[だ]ている。
+  Frisches Wasser quillt aus dem Boden hervor.
+
+  この地域では石油が湧いている。
+  この 地域[ちいき]では 石油[せきゆ]が 湧[わ]いている。
+  In dieser Region quillt Erdöl hervor.
+
+  彼の話を聞いて、疑問が湧いてきた。
+  彼[かれ]の 話[はなし]を 聞[き]いて、疑問[ぎもん]が 湧[わ]いてきた。
+  Als ich seine Geschichte hörte, kamen mir Zweifel.
+
+  新しいプロジェクトへの希望が湧いてきた。
+  新[あたら]しいプロジェクトへの 希望[きぼう]が 湧[わ]いてきた。
+  Hoffnung für das neue Projekt keimte in mir auf.
+
+  空に黒い雲が湧き始めた。
+  空[そら]に 黒[くろ]い 雲[くも]が 湧[わ]き 始[はじ]めた。
+  Schwarze Wolken begannen am Himmel aufzuziehen.
+
+  彼女の絵を見て、興味が湧いてきた。
+  彼女[かのじょ]の 絵[え]を 見[み]て、興味[きょうみ]が 湧[わ]いてきた。
+  Als ich ihre Bilder sah, wurde mein Interesse geweckt.
+
+  腐った食べ物にうじが湧いていた。
+  腐[くさ]った 食[た]べ 物[もの]にうじが 湧[わ]いていた。
+  In dem verdorbenen Essen hatten sich Maden gebildet.
+
+  彼の言葉を聞いて、勇気が湧いてきた。
+  彼[かれ]の 言葉[ことば]を 聞[き]いて、勇気[ゆうき]が 湧[わ]いてきた。
+  Seine Worte ließen meinen Mut wachsen.
+
+  状況を見て、アイデアが次々と湧いてきた。
+  状況[じょうきょう]を 見[み]て、アイデアが 次々[つぎつぎ]と 湧[わ]いてきた。
+  Als ich die Situation sah, kamen mir eine Idee nach der anderen.
+
+  試合の結果を聞いて、怒りが沸き起こった。
+  試合[しあい]の 結果[けっか]を 聞[き]いて、怒[いか]りが 沸[わ]き 起[お]こった。
+  Als ich das Spielergebnis hörte, kochte die Wut in mir hoch.
+
+  彼女の笑顔を見て、幸せな気持ちが湧き上がった。
+  彼女[かのじょ]の 笑顔[えがお]を 見[み]て、幸[しあわ]せな 気持[きも]ちが 湧[わ]き 上[あ]がった。
+  Als ich ihr Lächeln sah, stieg ein Gefühl des Glücks in mir auf.
+
+  新しい環境で、やる気が湧いてきた。
+  新[あたら]しい 環境[かんきょう]で、やる 気[き]が 湧[わ]いてきた。
+  In der neuen Umgebung kam meine Motivation zurück.
+
+  彼の行動を見て、不信感が湧いてきた。
+  彼[かれ]の 行動[こうどう]を 見[み]て、不信感[ふしんかん]が 湧[わ]いてきた。
+  Als ich sein Verhalten sah, kamen mir Zweifel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

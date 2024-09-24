@@ -2,8 +2,8 @@ Rang: 1934
 Lemma: おそれ
 Lesung: ''
 Tonhöhen: .^\
-Definition: Angst, Gefahr
-Alternativschreibweisen: ''
+Definition: Angst, Furcht; Gefahr
+Alternativschreibweisen: 恐れ、怖れ、虞、畏れ
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   今晩は激しい雨が降るおそれがあります。
   今晩[こんばん]は 激[はげ]しい 雨[あめ]が 降[ふ]るおそれがあります。
-  Heute Abend besteht die Gefahr von starkem Regen.
+  Es besteht die Gefahr, dass es heute Abend stark regnen wird.
+
+  彼は高所恐怖症で、高いところに登るおそれを抱いています。
+  彼[かれ]は 高所恐怖症[こうしょきょうふしょう]で、高[たか]いところに 登[のぼ]るおそれを 抱[いだ]いています。
+  Er hat Höhenangst und fürchtet sich davor, an hohe Orte zu klettern.
+
+  台風の接近により、洪水のおそれがあるので避難してください。
+  台風[たいふう]の 接近[せっきん]により、洪水[こうずい]のおそれがあるので 避難[ひなん]してください。
+  Bitte evakuieren Sie, da aufgrund des herannahenden Taifuns Überschwemmungsgefahr besteht.
+
+  彼女は神社に入る時、畏れの気持ちを持って静かに歩いた。
+  彼女[かのじょ]は 神社[じんじゃ]に 入[はい]る 時[とき]、畏[おそ]れの 気持[きも]ちを 持[も]って 静[しず]かに 歩[ある]いた。
+  Als sie den Schrein betrat, ging sie mit einem Gefühl der Ehrfurcht leise.
+
+  この古い建物は倒壊のおそれがあるため、立ち入り禁止となっています。
+  この 古[ふる]い 建物[たてもの]は 倒壊[とうかい]のおそれがあるため、立[た]ち 入[い]り 禁止[きんし]となっています。
+  Dieses alte Gebäude ist wegen Einsturzgefahr gesperrt.
+
+  彼は死に対するおそれを知らない勇敢な戦士だ。
+  彼[かれ]は 死[し]に 対[たい]するおそれを 知[し]らない 勇敢[ゆうかん]な 戦士[せんし]だ。
+  Er ist ein tapferer Krieger, der keine Angst vor dem Tod kennt.
+
+  新しい薬には深刻な副作用のおそれがあると報告されています。
+  新[あたら]しい 薬[くすり]には 深刻[しんこく]な 副作用[ふくさよう]のおそれがあると 報告[ほうこく]されています。
+  Es wird berichtet, dass bei dem neuen Medikament die Gefahr schwerwiegender Nebenwirkungen besteht.
+
+  彼女は上司の怒りを買うおそれがあることを知りながら、真実を語った。
+  彼女[かのじょ]は 上司[じょうし]の 怒[いか]りを 買[か]うおそれがあることを 知[し]りながら、真実[しんじつ]を 語[かた]った。
+  Sie sprach die Wahrheit, obwohl sie wusste, dass sie riskierte, den Zorn ihres Vorgesetzten auf sich zu ziehen.
+
+  専門家は、この病気が急速に広がるおそれがあると警告している。
+  専門家[せんもんか]は、この 病気[びょうき]が 急速[きゅうそく]に 広[ひろ]がるおそれがあると 警告[けいこく]している。
+  Experten warnen, dass sich diese Krankheit möglicherweise schnell ausbreiten könnte.
+
+  彼は神への畏れを忘れず、常に感謝の気持ちを持って生きている。
+  彼[かれ]は 神[かみ]への 畏[おそ]れを 忘[わす]れず、常[つね]に 感謝[かんしゃ]の 気持[きも]ちを 持[も]って 生[い]きている。
+  Er lebt stets mit einem Gefühl der Dankbarkeit, ohne die Ehrfurcht vor Gott zu vergessen.
+
+  彼女は失敗のおそれを恐れずに、新しいプロジェクトに挑戦した。
+  彼女[かのじょ]は 失敗[しっぱい]のおそれを 恐[おそ]れずに、新[あたら]しいプロジェクトに 挑戦[ちょうせん]した。
+  Sie wagte sich an ein neues Projekt, ohne Angst vor möglichem Scheitern zu haben.
+
+  この橋は老朽化が進み、崩落のおそれがあるため、通行止めになっています。
+  この 橋[はし]は 老朽化[ろうきゅうか]が 進[すす]み、崩落[ほうらく]のおそれがあるため、通行止[つうこうどめ]になっています。
+  Diese Brücke ist aufgrund fortschreitender Alterung und Einsturzgefahr für den Verkehr gesperrt.
+
+  彼は厳しい先生に対して畏れの気持ちを抱いていた。
+  彼[かれ]は 厳[きび]しい 先生[せんせい]に 対[たい]して 畏[おそ]れの 気持[きも]ちを 抱[いだ]いていた。
+  Er hatte ein Gefühl der Ehrfurcht gegenüber dem strengen Lehrer.
+
+  医師は、患者の症状が悪化するおそれがあると家族に伝えた。
+  医師[いし]は、患者[かんじゃ]の 症状[しょうじょう]が 悪化[あっか]するおそれがあると 家族[かぞく]に 伝[つた]えた。
+  Der Arzt teilte der Familie mit, dass sich der Zustand des Patienten möglicherweise verschlechtern könnte.
+
+  彼女は未知の世界に足を踏み入れる時、おそれと興奮を同時に感じた。
+  彼女[かのじょ]は 未知[みち]の 世界[せかい]に 足[あし]を 踏[ふ]み 入[い]れる 時[とき]、おそれと 興奮[こうふん]を 同時[どうじ]に 感[かん]じた。
+  Als sie die unbekannte Welt betrat, fühlte sie gleichzeitig Furcht und Aufregung.
+
+  この実験には爆発のおそれがあるため、十分な安全対策が必要だ。
+  この 実験[じっけん]には 爆発[ばくはつ]のおそれがあるため、十分[じゅうぶん]な 安全対策[あんぜんたいさく]が 必要[ひつよう]だ。
+  Da bei diesem Experiment Explosionsgefahr besteht, sind ausreichende Sicherheitsmaßnahmen erforderlich.
+
+  彼は自然の力に対する畏れを忘れずに、山登りを楽しんでいる。
+  彼[かれ]は 自然[しぜん]の 力[ちから]に 対[たい]する 畏[おそ]れを 忘[わす]れずに、山登[やまのぼ]りを 楽[たの]しんでいる。
+  Er genießt das Bergsteigen, ohne die Ehrfurcht vor den Kräften der Natur zu vergessen.
+
+  新しい投資には損失のおそれがあることを理解した上で決断しました。
+  新[あたら]しい 投資[とうし]には 損失[そんしつ]のおそれがあることを 理解[りかい]した 上[うえ]で 決断[けつだん]しました。
+  Ich habe mich für die neue Investition entschieden, nachdem ich verstanden habe, dass dabei ein Verlustrisiko besteht.
+
+  彼女は夜道を歩く時、常に危険のおそれを意識している。
+  彼女[かのじょ]は 夜道[よみち]を 歩[ある]く 時[とき]、常[つね]に 危険[きけん]のおそれを 意識[いしき]している。
+  Sie ist sich der potenziellen Gefahr immer bewusst, wenn sie nachts auf der Straße geht.
+
+  この薬には依存性のおそれがあるため、医師の指示通りに服用してください。
+  この 薬[くすり]には 依存性[いぞんせい]のおそれがあるため、医師[いし]の 指示通[しじどお]りに 服用[ふくよう]してください。
+  Da bei diesem Medikament die Gefahr einer Abhängigkeit besteht, nehmen Sie es bitte genau nach Anweisung des Arztes ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort おそれ hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Angst, Furcht oder Ehrfurcht</li>
+    <li>Befürchtung, Sorge, Risiko oder Gefahr</li>
+  </ol>
+  <p>Es wird oft in Ausdrücken wie "...のおそれがある" (es besteht die Gefahr von...) verwendet.</p>
+  <div class="examples">
+    <div class="jp">台風[たいふう]の 接近[せっきん]により、洪水[こうずい]のおそれがあります。</div>
+    <div class="de spoiler">Aufgrund des herannahenden Taifuns besteht Überschwemmungsgefahr.</div>
+  </div>
+  <p>Es kann auch Ehrfurcht oder Respekt ausdrücken, besonders in religiösen oder traditionellen Kontexten:</p>
+  <div class="examples">
+    <div class="jp">神[かみ]への 畏[おそ]れを 忘[わす]れてはいけません。</div>
+    <div class="de spoiler">Man darf die Ehrfurcht vor Gott nicht vergessen.</div>
+  </div>

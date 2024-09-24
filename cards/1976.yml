@@ -14,12 +14,99 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   もう一歩も歩けない。
-  もう一 歩[ほ]も 歩[ある]けない。
-  Ich kann keinen weiteren Schritt mehr gehen.
+  もう 一歩[いっぽ]も 歩[ある]けない。
+  Ich kann keinen Schritt mehr gehen.
+
+  彼は一歩前に出た。
+  彼[かれ]は 一歩[いっぽ] 前[まえ]に 出[で]た。
+  Er trat einen Schritt vor.
+
+  一歩も動くな。
+  一歩[いっぽ]も 動[うご]くな。
+  Rühr dich nicht vom Fleck!
+
+  一歩毎に慎重に進んでいきましょう。
+  一歩[いっぽ] 毎[ごと]に 慎重[しんちょう]に 進[すす]んでいきましょう。
+  Lasst uns bei jedem Schritt vorsichtig vorangehen.
+
+  新しい目標に向けて一歩踏み出した。
+  新[あたら]しい 目標[もくひょう]に 向[む]けて 一歩[いっぽ] 踏[ふ]み 出[だ]した。
+  Ich habe einen Schritt in Richtung meines neuen Ziels gemacht.
+
+  彼女は自分の意見を一歩も譲らなかった。
+  彼女[かのじょ]は 自分[じぶん]の 意見[いけん]を 一歩[いっぽ]も 譲[ゆず]らなかった。
+  Sie wich in ihrer Meinung keinen Zentimeter zurück.
+
+  この決定は平和への一歩となるだろう。
+  この 決定[けってい]は 平和[へいわ]への 一歩[いっぽ]となるだろう。
+  Diese Entscheidung wird ein Schritt zum Frieden sein.
+
+  一歩一歩着実に計画を進めている。
+  一歩一歩[いっぽいっぽ] 着実[ちゃくじつ]に 計画[けいかく]を 進[すす]めている。
+  Wir setzen den Plan Schritt für Schritt stetig um.
+
+  彼は一歩誤って崖から落ちそうになった。
+  彼[かれ]は 一歩[いっぽ] 誤[あやま]って 崖[がけ]から 落[お]ちそうになった。
+  Er machte einen Fehltritt und wäre fast von der Klippe gestürzt.
+
+  一歩退いて状況を見直してみよう。
+  一歩[いっぽ] 退[しりぞ]いて 状況[じょうきょう]を 見直[みなお]してみよう。
+  Lass uns einen Schritt zurücktreten und die Situation neu betrachten.
+
+  彼らは交渉で一歩も譲らなかった。
+  彼[かれ]らは 交渉[こうしょう]で 一歩[いっぽ]も 譲[ゆず]らなかった。
+  Sie machten in den Verhandlungen keinerlei Zugeständnisse.
+
+  新しい技術の開発は一歩前進した。
+  新[あたら]しい 技術[ぎじゅつ]の 開発[かいはつ]は 一歩[いっぽ] 前進[ぜんしん]した。
+  Die Entwicklung der neuen Technologie ist einen Schritt vorangekommen.
+
+  彼女は成功への一歩を踏み出した。
+  彼女[かのじょ]は 成功[せいこう]への 一歩[いっぽ]を 踏[ふ]み 出[だ]した。
+  Sie hat den ersten Schritt zum Erfolg gemacht.
+
+  一歩ずつ階段を上がっていった。
+  一歩[いっぽ]ずつ 階段[かいだん]を 上[あ]がっていった。
+  Ich ging die Treppe Schritt für Schritt hinauf.
+
+  彼は破産の一歩手前まで追い込まれた。
+  彼[かれ]は 破産[はさん]の 一歩[いっぽ] 手前[てまえ]まで 追[お]い 込[こ]まれた。
+  Er wurde bis kurz vor den Bankrott getrieben.
+
+  一歩間違えば大惨事になるところだった。
+  一歩[いっぽ] 間違[まちが]えば 大惨事[だいさんじ]になるところだった。
+  Ein falscher Schritt hätte beinahe zu einer Katastrophe geführt.
+
+  彼女は夢の実現に向けて一歩を踏み出した。
+  彼女[かのじょ]は 夢[ゆめ]の 実現[じつげん]に 向[む]けて 一歩[いっぽ]を 踏[ふ]み 出[だ]した。
+  Sie hat den ersten Schritt zur Verwirklichung ihres Traums gemacht.
+
+  この発見は科学の一歩前進だ。
+  この 発見[はっけん]は 科学[かがく]の 一歩[いっぽ] 前進[ぜんしん]だ。
+  Diese Entdeckung ist ein Fortschritt in der Wissenschaft.
+
+  一歩も外に出たくない気分だ。
+  一歩[いっぽ]も 外[そと]に 出[で]たくない 気分[きぶん]だ。
+  Ich bin nicht in der Stimmung, auch nur einen Schritt vor die Tür zu setzen.
+
+  彼は一歩も引かずに自分の立場を主張した。
+  彼[かれ]は 一歩[いっぽ]も 引[ひ]かずに 自分[じぶん]の 立場[たちば]を 主張[しゅちょう]した。
+  Er beharrte auf seinem Standpunkt, ohne einen Schritt zurückzuweichen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Kann auch adverbial verwendet werden.</p>
+  <p>Häufige Ausdrücke:</p>
+  <ul>
+    <li><span class="jp">一歩一歩[いっぽいっぽ]</span>: Schritt für Schritt</li>
+    <li><span class="jp">一歩[いっぽ]も 譲[ゆず]らない</span>: nicht einen Zentimeter nachgeben</li>
+    <li><span class="jp">一歩[いっぽ]（を） 踏[ふ]み 出[だ]す</span>: den ersten Schritt machen</li>
+  </ul>
+  <div class="examples">
+    <div class="jp">この 決定[けってい]は 平和[へいわ]への 一歩[いっぽ]となるだろう。</div>
+    <div class="de spoiler">Diese Entscheidung wird ein Schritt zum Frieden sein.</div>
+  </div>

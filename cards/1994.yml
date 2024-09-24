@@ -8,14 +8,90 @@ Extra: （する）
 Wortart: n, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 調整する・調整した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あなたと会えるようにスケジュールを調整します。
-  あなたと 会[あ]えるようにスケジュールを 調整[ちょうせい]します。
-  Ich werde meinen Zeitplan anpassen, um Sie zu treffen.
+  あなた[あなた]と 会[あ]えるようにスケジュールを 調整[ちょうせい]します。
+  Ich werde meinen Zeitplan anpassen, damit ich Sie treffen kann.
+
+  新しい環境に調整するのに時間がかかりました。
+  新[あたら]しい 環境[かんきょう]に 調整[ちょうせい]するのに 時間[じかん]がかかりました。
+  Es hat eine Weile gedauert, mich an die neue Umgebung anzupassen.
+
+  音量を適切なレベルに調整してください。
+  音量[おんりょう]を 適切[てきせつ]なレベルに 調整[ちょうせい]してください。
+  Bitte passen Sie die Lautstärke auf ein angemessenes Niveau an.
+
+  会議の日程を全員の都合に合わせて調整しました。
+  会議[かいぎ]の 日程[にってい]を 全員[ぜんいん]の 都合[つごう]に 合[あ]わせて 調整[ちょうせい]しました。
+  Ich habe den Termin für die Besprechung so angepasst, dass er allen passt.
+
+  エアコンの温度を快適に調整した。
+  エアコンの 温度[おんど]を 快適[かいてき]に 調整[ちょうせい]した。
+  Ich habe die Temperatur der Klimaanlage auf einen angenehmen Wert eingestellt.
+
+  プロジェクトの進行状況に応じて予算を調整する必要がある。
+  プロジェクトの 進行[しんこう] 状況[じょうきょう]に 応[おう]じて 予算[よさん]を 調整[ちょうせい]する 必要[ひつよう]がある。
+  Es ist notwendig, das Budget entsprechend dem Fortschritt des Projekts anzupassen.
+
+  ギターの弦を丁寧に調整して、完璧な音を出せるようにした。
+  ギターの 弦[げん]を 丁寧[ていねい]に 調整[ちょうせい]して、完璧[かんぺき]な 音[おと]を 出[だ]せるようにした。
+  Ich habe die Gitarrensaiten sorgfältig gestimmt, um einen perfekten Klang zu erzielen.
+
+  国際会議で各国の意見を調整するのは難しい仕事だ。
+  国際[こくさい] 会議[かいぎ]で 各国[かっこく]の 意見[いけん]を 調整[ちょうせい]するのは 難[むずか]しい 仕事[しごと]だ。
+  Es ist eine schwierige Aufgabe, die Meinungen der verschiedenen Länder bei einer internationalen Konferenz in Einklang zu bringen.
+
+  車のブレーキを定期的に調整することで安全性が向上する。
+  車[くるま]のブレーキを 定期的[ていきてき]に 調整[ちょうせい]することで 安全性[あんぜんせい]が 向上[こうじょう]する。
+  Die regelmäßige Einstellung der Bremsen eines Autos erhöht die Sicherheit.
+
+  経済政策を市場の変化に合わせて調整する必要がある。
+  経済[けいざい] 政策[せいさく]を 市場[しじょう]の 変化[へんか]に 合[あ]わせて 調整[ちょうせい]する 必要[ひつよう]がある。
+  Es ist notwendig, die Wirtschaftspolitik an die Marktveränderungen anzupassen.
+
+  チームメンバー間の役割を適切に調整することで、効率が上がった。
+  チームメンバー 間[かん]の 役割[やくわり]を 適切[てきせつ]に 調整[ちょうせい]することで、効率[こうりつ]が 上[あ]がった。
+  Durch die angemessene Anpassung der Rollen zwischen den Teammitgliedern hat sich die Effizienz verbessert.
+
+  新しい機械の設定を細かく調整して、最適な性能を引き出した。
+  新[あたら]しい 機械[きかい]の 設定[せってい]を 細[こま]かく 調整[ちょうせい]して、最適[さいてき]な 性能[せいのう]を 引[ひ]き 出[だ]した。
+  Ich habe die Einstellungen der neuen Maschine fein justiert, um die optimale Leistung zu erzielen.
+
+  ワシントンから帰ってきて４日もたつのに、まだ時差調整に苦しんでいる。
+  ワシントンから 帰[かえ]ってきて４日[よっか]もたつのに、まだ 時差[じさ] 調整[ちょうせい]に 苦[くる]しんでいる。
+  Ich bin schon seit vier Tagen aus Washington zurück, aber noch immer macht mir der Jetlag zu schaffen.
+
+  「すべてが完ぺきだった。マシンの調整は最高だったし、ＢＭＷのエンジンは素晴らしかった」
+  「すべてが 完[かん]ぺきだった。マシンの 調整[ちょうせい]は 最高[さいこう]だったし、ＢＭＷのエンジンは 素晴[すば]らしかった」
+  "Alles war perfekt. Die Einstellung des Wagens war hervorragend, und der BMW-Motor war großartig."
+
+  我々はときどき泳ぎをやめてうしろをふり向き、方向を確かめ、進路を調整した。
+  我々[われわれ]はときどき 泳[およ]ぎをやめてうしろをふり 向[む]き、方向[ほうこう]を 確[たし]かめ、進路[しんろ]を 調整[ちょうせい]した。
+  Hin und wieder hielten wir beim Schwimmen inne und schauten zurück, um die Richtung zu überprüfen und gegebenenfalls den Kurs zu korrigieren.
+
+  まだ細部が欠けており、修正し調整すべき点が残っている。
+  まだ 細部[さいぶ]が 欠[か]けており、修正[しゅうせい]し 調整[ちょうせい]すべき 点[てん]が 残[のこ]っている。
+  Es fehlen noch einige Details, und es gibt noch Punkte, die korrigiert und angepasst werden müssen.
+
+  価格を市場の需要に合わせて調整する必要があります。
+  価格[かかく]を 市場[しじょう]の 需要[じゅよう]に 合[あ]わせて 調整[ちょうせい]する 必要[ひつよう]があります。
+  Es ist notwendig, die Preise an die Marktnachfrage anzupassen.
+
+  新しい法律の導入に伴い、社内規則を調整しなければならない。
+  新[あたら]しい 法律[ほうりつ]の 導入[どうにゅう]に 伴[ともな]い、社内[しゃない] 規則[きそく]を 調整[ちょうせい]しなければならない。
+  Mit der Einführung des neuen Gesetzes müssen wir die internen Vorschriften anpassen.
+
+  国際的な取引では、為替レートの変動に応じて価格を調整することが重要だ。
+  国際的[こくさいてき]な 取引[とりひき]では、為替[かわせ]レートの 変動[へんどう]に 応[おう]じて 価格[かかく]を 調整[ちょうせい]することが 重要[じゅうよう]だ。
+  Bei internationalen Geschäften ist es wichtig, die Preise entsprechend den Wechselkursschwankungen anzupassen.
+
+  時計を正確な時間に調整してください。
+  時計[とけい]を 正確[せいかく]な 時間[じかん]に 調整[ちょうせい]してください。
+  Bitte stellen Sie die Uhr auf die genaue Zeit ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
