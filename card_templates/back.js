@@ -1,9 +1,5 @@
 ___CONFIG___;
 
-const azureApiKey = "___AZURE_API_KEY___";
-const azureEndPoint =
-  "https://germanywestcentral.tts.speech.microsoft.com/cognitiveservices/v1";
-
 const lemma = document.querySelector("#lemma").dataset.lemma;
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 
@@ -119,9 +115,13 @@ function formatSentences(within = document) {
   });
 
   within.querySelectorAll(".spoiler").forEach(function (el) {
-    el.onclick = function () {
-      this.classList.toggle("clicked");
-    };
+    if (!options.hideSpoilers) {
+      el.classList.add("clicked");
+    } else {
+      el.onclick = function () {
+        this.classList.toggle("clicked");
+      };
+    }
   });
 
   initAudioButtons(within);
@@ -137,7 +137,7 @@ const memoizedTTSUrls = {};
 async function getTTSUrl(sentence, forceGoogleTranslate = false) {
   sentence = decodeURIComponent(sentence);
   // if no API key is set, fallback to use the free Google Translate TTS
-  if (!azureApiKey || forceGoogleTranslate) {
+  if (!options.azureApiKey || forceGoogleTranslate) {
     const text = sentence.replaceAll(/\[.+?\]/g, "");
     return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(
       text
@@ -176,10 +176,10 @@ async function getTTSUrl(sentence, forceGoogleTranslate = false) {
       );
     console.log(sentences);
 
-    const response = await fetch(azureEndPoint, {
+    const response = await fetch(options.azureEndPoint, {
       method: "POST",
       headers: {
-        "Ocp-Apim-Subscription-Key": azureApiKey,
+        "Ocp-Apim-Subscription-Key": options.azureApiKey,
         "Content-Type": "application/ssml+xml",
         "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
         "User-Agent": "curl",
@@ -234,6 +234,12 @@ function initAudioButtons(within = document) {
       }
     };
   });
+
+  if (within == document && options.autoPlaySentence) {
+    setTimeout(() => {
+      document.querySelector('.play-sentence').click();
+    }, options.autoPlaySentenceDelay ?? 1000);
+  }
 }
 
 refreshExampleSentences();
