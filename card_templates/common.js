@@ -44,7 +44,7 @@ function createSvgWithPitchAccent(textInput, pitchAccent, unvoiced) {
   const svgHeight = 27;
   const svgWidth = textInput.length * charWidth + charWidth / 2;
   const lineY = { top: 2, bottom: 25 };
-  const curveControl = 3.5;
+  const cornerRadius = 5;
 
   const svg = document.createElementNS(xmlns, "svg");
   svg.setAttribute("viewBox", `0 0 ${svgWidth} ${svgHeight}`);
@@ -88,10 +88,14 @@ function createSvgWithPitchAccent(textInput, pitchAccent, unvoiced) {
 
     if (accent === "/" || accent === "\\") {
       const targetY = accent === "/" ? lineY.top : lineY.bottom;
-      pathData.push(`L${x - curveControl},${currentY}`);
+
+      pathData.push(`L${x - cornerRadius},${currentY}`);
       pathData.push(
-        `C${x},${currentY} ${x},${targetY} ${x + curveControl},${targetY}`
+        `Q${x},${currentY} ${x},${currentY + (targetY - currentY) / 2}`
       );
+      pathData.push(`L${x},${targetY - (targetY - currentY) / 2}`);
+      pathData.push(`Q${x},${targetY} ${x + cornerRadius},${targetY}`);
+
       currentY = targetY;
     } else if (accent === "^") {
       currentY = lineY.top;

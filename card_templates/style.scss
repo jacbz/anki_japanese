@@ -647,8 +647,10 @@ u {
   .pitch-line, circle {
     stroke: black;
   }
+}
   
-  .night_mode .pitch-line, .night_mode circle {
+.night_mode .furigana {
+  .pitch-line, .night_mode circle {
     stroke: white;
   }
 }
