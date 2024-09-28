@@ -2,13 +2,13 @@ Rang: 270
 Lemma: 対する
 Lesung: たいする
 Tonhöhen: .^\.
-Definition: gegenüber(stehen); entgegentreten
+Definition: gegenüber; für; gegen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 対しない・対した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -25,9 +25,106 @@ Beispielsätze: |-
   皆[みな] 会社[かいしゃ]に 対[たい]し 多[おお]くの 不満[ふまん]を 持[も]っていた。
   Jeder hatte viele Beschwerden gegenüber dem Unternehmen.
 
+  この問題に対してどう思いますか。
+  この 問題[もんだい]に 対[たい]してどう 思[おも]いますか。
+  Was denkst du über dieses Problem?
+
+  彼女は批判に対して冷静に対応した。
+  彼女[かのじょ]は 批判[ひはん]に 対[たい]して 冷静[れいせい]に 対応[たいおう]した。
+  Sie reagierte ruhig auf die Kritik.
+
+  このホテルは海に対している部屋がある。
+  このホテルは 海[うみ]に 対[たい]している 部屋[へや]がある。
+  Dieses Hotel hat Zimmer mit Blick aufs Meer.
+
+  彼は敵に対して勇敢に立ち向かった。
+  彼[かれ]は 敵[てき]に 対[たい]して 勇敢[ゆうかん]に 立[た]ち 向[む]かった。
+  Er trat dem Feind mutig entgegen.
+
+  環境問題に対する意識が高まっている。
+  環境問題[かんきょうもんだい]に 対[たい]する 意識[いしき]が 高[たか]まっている。
+  Das Bewusstsein für Umweltprobleme nimmt zu.
+
+  彼女は子供に対して厳しい態度をとる。
+  彼女[かのじょ]は 子供[こども]に 対[たい]して 厳[きび]しい 態度[たいど]をとる。
+  Sie hat eine strenge Haltung gegenüber Kindern.
+
+  この薬は痛みに対して効果がある。
+  この 薬[くすり]は 痛[いた]みに 対[たい]して 効果[こうか]がある。
+  Dieses Medikament ist wirksam gegen Schmerzen.
+
+  彼は私の質問に対して曖昧な答えをした。
+  彼[かれ]は 私[わたし]の 質問[しつもん]に 対[たい]して 曖昧[あいまい]な 答[こた]えをした。
+  Er gab eine vage Antwort auf meine Frage.
+
+  彼女は困難に対して決して諦めない。
+  彼女[かのじょ]は 困難[こんなん]に 対[たい]して 決[けっ]して 諦[あきら]めない。
+  Sie gibt angesichts von Schwierigkeiten niemals auf.
+
+  この映画は観客に対して強いメッセージを持っている。
+  この 映画[えいが]は 観客[かんきゃく]に 対[たい]して 強[つよ]いメッセージを 持[も]っている。
+  Dieser Film hat eine starke Botschaft an das Publikum.
+
+  彼は自分の過ちに対して素直に謝罪した。
+  彼[かれ]は 自分[じぶん]の 過[あやま]ちに 対[たい]して 素直[すなお]に 謝罪[しゃざい]した。
+  Er entschuldigte sich aufrichtig für seinen Fehler.
+
+  この政策は国民に対して大きな影響を与える。
+  この 政策[せいさく]は 国民[こくみん]に 対[たい]して 大[おお]きな 影響[えいきょう]を 与[あた]える。
+  Diese Politik wird einen großen Einfluss auf die Bürger haben.
+
+  彼女は社会問題に対して強い関心を持っている。
+  彼女[かのじょ]は 社会問題[しゃかいもんだい]に 対[たい]して 強[つよ]い 関心[かんしん]を 持[も]っている。
+  Sie hat ein starkes Interesse an sozialen Fragen.
+
+  彼は友人に対して常に誠実だ。
+  彼[かれ]は 友人[ゆうじん]に 対[たい]して 常[つね]に 誠実[せいじつ]だ。
+  Er ist immer aufrichtig zu seinen Freunden.
+
+  この会社は顧客に対してきめ細かいサービスを提供している。
+  この 会社[かいしゃ]は 顧客[こきゃく]に 対[たい]して きめ 細[こま]かいサービスを 提供[ていきょう]している。
+  Dieses Unternehmen bietet seinen Kunden einen detaillierten Service.
+
+  彼女は新しい挑戦に対して常に前向きだ。
+  彼女[かのじょ]は 新[あたら]しい 挑戦[ちょうせん]に 対[たい]して 常[つね]に 前向[まえむ]きだ。
+  Sie ist immer positiv gegenüber neuen Herausforderungen eingestellt.
+
+  この治療法はがんに対して効果的だと言われている。
+  この 治療法[ちりょうほう]はがんに 対[たい]して 効果的[こうかてき]だと 言[い]われている。
+  Diese Behandlungsmethode soll gegen Krebs wirksam sein.
+
+  彼は批判に対して冷静に反論した。
+  彼[かれ]は 批判[ひはん]に 対[たい]して 冷静[れいせい]に 反論[はんろん]した。
+  Er widerlegte die Kritik ruhig.
+
+  この製品は競合他社に対して優位性がある。
+  この 製品[せいひん]は 競合他社[きょうごうたしゃ]に 対[たい]して 優位性[ゆういせい]がある。
+  Dieses Produkt hat einen Vorteil gegenüber der Konkurrenz.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Kann in verschiedenen Kontexten verwendet werden:</p>
+  <p>1. Etwas oder jemandem gegenüberstehen oder zugewandt sein:</p>
+  <div class="examples">
+    <div class="jp">窓[まど]は 山[やま]に 対[たい]している。</div>
+    <div class="de spoiler">Das Fenster ist zum Berg hin ausgerichtet.</div>
+  </div>
+  <p>2. Jemandem entgegentreten oder gegen jemanden antreten:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 厳[きび]しく 生徒[せいと]に 対[たい]した。</div>
+    <div class="de spoiler">Er trat den Schülern streng gegenüber.</div>
+  </div>
+  <p>3. In der Form 「〜に対して」oder 「〜に対する」 wird es verwendet, um „für", „gegenüber" oder „gegen" auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 行動[こうどう]に 対[たい]する 批判[ひはん]が 高[たか]まっている。</div>
+    <div class="de spoiler">Die Kritik an seinem Verhalten nimmt zu.</div>
+  </div>
+  <p>4. Kann auch verwendet werden, um einen Gegensatz auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">男子[だんし]に 対[たい]して 女子[じょし]は 成績[せいせき]が 良[よ]かった。</div>
+    <div class="de spoiler">Im Gegensatz zu den Jungen hatten die Mädchen gute Noten.</div>
+  </div>
