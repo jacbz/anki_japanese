@@ -637,46 +637,19 @@ u {
 
 .furigana {
   font-size: 55%;
-  margin-bottom: 0.1em;
-  font-family: textbook;
+  margin-bottom: -0.2em;
+  stroke-width: 1.2;
 
-  .pitch_accent {
-    line-height: 1.1em;
-
-    > span {
-      height: 1.1em;
-      display: inline-block;
-    }
+  svg {
+    overflow: visible;
   }
 
-  span.accent_bottom {
-    border-bottom: solid 1.5px;
+  .pitch-line, circle {
+    stroke: black;
   }
-
-  span.accent_rising {
-    border-right: solid 1.5px;
-    // border-bottom-right-radius: 0.25em;
-  }
-
-  span.accent_top {
-    border-top: solid 1.5px;
-  }
-
-  span.accent_falling {
-    border-right: solid #777 1.5px;
-    // border-top-right-radius: 0.25em;
-  }
-
-  span.unvoiced {
-    border: 1px dotted gray;
-    border-radius: 50%;
-    width: 1.1em;
-  }
-}
-
-.night_mode .furigana {
-  span {
-    border-color: #aaa !important;
+  
+  .night_mode .pitch-line, .night_mode circle {
+    stroke: white;
   }
 }
 
