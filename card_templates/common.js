@@ -37,8 +37,12 @@ for (const pitchAccent of document.querySelectorAll(
     let charClass = "";
     if (pitch === "^") {
       charClass = "accent_top";
-    } else if (pitch === "\\") {
-      charClass = "accent_topdown";
+    } else if (pitch === "/") {
+      charClass = "accent_bottom accent_rising";
+    }else if (pitch === "\\") {
+      charClass = "accent_top accent_falling";
+    } else {
+      charClass = "accent_bottom";
     }
 
     let newHtml = `<span class="${charClass}">${char}</span>`;

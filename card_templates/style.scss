@@ -649,22 +649,22 @@ u {
     }
   }
 
+  span.accent_bottom {
+    border-bottom: solid 1.5px;
+  }
+
+  span.accent_rising {
+    border-right: solid 1.5px;
+    // border-bottom-right-radius: 0.25em;
+  }
+
   span.accent_top {
-    padding-top: 1.5px;
     border-top: solid 1.5px;
   }
 
-  span:not(.accent_top) + span.accent_top,
-  span:not(.accent_top) + span.accent_topdown {
-    border-left: solid #777 1.5px;
-    border-top-left-radius: 0.25em;
-  }
-
-  span.accent_topdown {
-    padding-top: 1.5px;
-    border-top: solid #777 1.5px;
+  span.accent_falling {
     border-right: solid #777 1.5px;
-    border-top-right-radius: 0.25em;
+    // border-top-right-radius: 0.25em;
   }
 
   span.unvoiced {
