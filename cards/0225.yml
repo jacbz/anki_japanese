@@ -8,7 +8,7 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: あげない・あげた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,92 @@ Beispielsätze: |-
   質問[しつもん]があれば 手[て]をあげてください。
   Bitte heben Sie die Hand, wenn Sie eine Frage haben.
 
+  新しい建物の屋根に国旗をあげました。
+  新[あたら]しい 建物[たてもの]の 屋根[やね]に 国旗[こっき]をあげました。
+  Wir haben die Nationalflagge auf dem Dach des neuen Gebäudes gehisst.
+
+  彼女は髪をきれいにあげて、パーティーに出かけた。
+  彼女[かのじょ]は 髪[かみ]をきれいにあげて、パーティーに 出[で]かけた。
+  Sie steckte sich die Haare schön hoch und ging zur Party.
+
+  新製品の売り上げで会社の利益をあげることができた。
+  新製品[しんせいひん]の 売[う]り 上[あ]げで 会社[かいしゃ]の 利益[りえき]をあげることができた。
+  Wir konnten den Gewinn des Unternehmens durch den Verkauf des neuen Produkts steigern.
+
+  彼の業績を高く評価し、昇進させてあげた。
+  彼[かれ]の 業績[ぎょうせき]を 高[たか]く 評価[ひょうか]し、昇進[しょうしん]させてあげた。
+  Wir haben seine Leistungen hoch bewertet und ihn befördert.
+
+  子供たちを大学まであげるのは親の夢だ。
+  子供[こども]たちを 大学[だいがく]まであげるのは 親[おや]の 夢[ゆめ]だ。
+  Es ist der Traum der Eltern, ihre Kinder bis zur Universität zu bringen.
+
+  お客様をお部屋までお連れしてあげましょう。
+  お 客様[きゃくさま]をお 部屋[へや]までお 連[つ]れしてあげましょう。
+  Ich werde Sie zu Ihrem Zimmer begleiten.
+
+  彼女の誕生日に素敵なプレゼントをあげたい。
+  彼女[かのじょ]の 誕生日[たんじょうび]に 素敵[すてき]なプレゼントをあげたい。
+  Ich möchte ihr zum Geburtstag ein schönes Geschenk machen.
+
+  お寺で線香をあげてお参りをした。
+  お 寺[てら]で 線香[せんこう]をあげてお 参[まい]りをした。
+  Ich zündete im Tempel Räucherstäbchen an und betete.
+
+  全力をあげてこのプロジェクトに取り組もう。
+  全力[ぜんりょく]をあげてこのプロジェクトに 取[と]り 組[く]もう。
+  Lasst uns all unsere Kräfte mobilisieren und an diesem Projekt arbeiten.
+
+  船酔いがひどくて、ついあげてしまった。
+  船酔[ふなよ]いがひどくて、ついあげてしまった。
+  Ich wurde so seekrank, dass ich mich übergeben musste.
+
+  今日中に仕事をあげなければならない。
+  今日中[きょうじゅう]に 仕事[しごと]をあげなければならない。
+  Ich muss die Arbeit bis zum Ende des Tages abschließen.
+
+  天ぷらをカラッとあげるコツを教えてください。
+  天ぷら[てんぷら]をカラッとあげるコツを 教[おし]えてください。
+  Bitte erklären Sie mir den Trick, um knusprige Tempura zu frittieren.
+
+  警察は犯人をあげるまで捜査を続けた。
+  警察[けいさつ]は 犯人[はんにん]をあげるまで 捜査[そうさ]を 続[つづ]けた。
+  Die Polizei setzte die Ermittlungen fort, bis sie den Täter festnahmen.
+
+  予算内であげるために、経費を抑える必要がある。
+  予算内[よさんない]であげるために、経費[けいひ]を 抑[おさ]える 必要[ひつよう]がある。
+  Um innerhalb des Budgets zu bleiben, müssen wir die Ausgaben reduzieren.
+
+  彼女は目をあげて、私をじっと見つめた。
+  彼女[かのじょ]は 目[め]をあげて、私[わたし]をじっと 見[み]つめた。
+  Sie hob ihren Blick und sah mich fest an.
+
+  私が代わりに荷物を持ってあげましょう。
+  私[わたし]が 代[か]わりに 荷物[にもつ]を 持[も]ってあげましょう。
+  Ich werde für dich das Gepäck tragen.
+
+  潮があげてきたので、砂浜から離れよう。
+  潮[しお]があげてきたので、砂浜[すなはま]から 離[はな]れよう。
+  Lasst uns den Strand verlassen, da die Flut steigt.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb あげる hat viele verschiedene Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Etwas anheben oder erhöhen: <span class="jp">手[て]をあげる</span> (die Hand heben)</li>
+    <li>Etwas verbessern oder steigern: <span class="jp">給料[きゅうりょう]をあげる</span> (das Gehalt erhöhen)</li>
+    <li>Jemandem etwas geben oder schenken: <span class="jp">プレゼントをあげる</span> (ein Geschenk geben)</li>
+    <li>Etwas in Öl frittieren: <span class="jp">天ぷら[てんぷら]をあげる</span> (Tempura frittieren)</li>
+    <li>Etwas beenden oder abschließen: <span class="jp">仕事[しごと]をあげる</span> (die Arbeit beenden)</li>
+    <li>Als höfliche Form, um auszudrücken, dass man etwas für jemand anderen tut: <span class="jp">手伝[てつだ]ってあげる</span> (jemandem helfen)</li>
+  </ul>
+  <p>Die Kanji-Schreibweisen variieren je nach Bedeutung:</p>
+  <ul>
+    <li>上げる: allgemein für heben, erhöhen</li>
+    <li>揚げる: für frittieren</li>
+    <li>挙げる: für nennen, aufzählen, wählen</li>
+  </ul>

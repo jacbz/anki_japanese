@@ -2,7 +2,7 @@ Rang: 2028
 Lemma: 平気
 Lesung: へいき
 Tonhöhen: /^^
-Definition: unempfindlich, in Ordnung; Ruhe
+Definition: ungerührt, gleichgültig
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: na-adj, n
@@ -17,9 +17,100 @@ Beispielsätze: |-
   平気[へいき]なふりをした。
   Ich tat so, als ginge es mir gut.
 
+  彼は平気で嘘をつく。
+  彼[かれ]は 平気[へいき]で 嘘[うそ]をつく。
+  Er lügt einem unverfroren ins Gesicht.
+
+  地震があっても、彼女は平気な顔をしていた。
+  地震[じしん]があっても、彼女[かのじょ]は 平気[へいき]な 顔[かお]をしていた。
+  Selbst bei dem Erdbeben verzog sie keine Miene.
+
+  そんな失敗、平気だよ。気にしないで。
+  そんな 失敗[しっぱい]、平気[へいき]だよ。気[き]にしないで。
+  So ein Fehler macht mir nichts aus. Mach dir keine Gedanken.
+
+  彼は平気で人を批判する。
+  彼[かれ]は 平気[へいき]で 人[ひと]を 批判[ひはん]する。
+  Er kritisiert andere Menschen ohne zu zögern.
+
+  そんな難しい仕事、私には平気でできません。
+  そんな 難[むずか]しい 仕事[しごと]、私[わたし]には 平気[へいき]でできません。
+  So eine schwierige Arbeit kann ich nicht einfach so erledigen.
+
+  彼女は平気で約束を破る人だ。
+  彼女[かのじょ]は 平気[へいき]で 約束[やくそく]を 破[やぶ]る 人[ひと]だ。
+  Sie ist jemand, der ohne weiteres Versprechen bricht.
+
+  怖い映画を見ても、私は平気です。
+  怖[こわ]い 映画[えいが]を 見[み]ても、私[わたし]は 平気[へいき]です。
+  Selbst wenn ich Horrorfilme sehe, macht mir das nichts aus.
+
+  彼は平気で人前で歌う。
+  彼[かれ]は 平気[へいき]で 人前[ひとまえ]で 歌[うた]う。
+  Er singt ohne Scheu vor anderen Leuten.
+
+  そんな大金を失っても平気なの？
+  そんな 大金[たいきん]を 失[うしな]っても 平気[へいき]なの？
+  Macht es dir wirklich nichts aus, so viel Geld verloren zu haben?
+
+  彼女は平気で人の秘密を暴露する。
+  彼女[かのじょ]は 平気[へいき]で 人[ひと]の 秘密[ひみつ]を 暴露[ばくろ]する。
+  Sie enthüllt ohne zu zögern die Geheimnisse anderer.
+
+  私は虫が平気な方です。
+  私[わたし]は 虫[むし]が 平気[へいき]な 方[ほう]です。
+  Ich gehöre zu den Leuten, denen Insekten nichts ausmachen.
+
+  平気な顔で嘘をつくのはやめてください。
+  平気[へいき]な 顔[かお]で 嘘[うそ]をつくのはやめてください。
+  Bitte hören Sie auf, mit unbewegter Miene zu lügen.
+
+  彼は平気で人を傷つける発言をする。
+  彼[かれ]は 平気[へいき]で 人[ひと]を 傷[きず]つける 発言[はつげん]をする。
+  Er macht verletzende Äußerungen, ohne mit der Wimper zu zucken.
+
+  そんな重要な決定を平気でするなんて、驚きです。
+  そんな 重要[じゅうよう]な 決定[けってい]を 平気[へいき]でするなんて、驚[おどろ]きです。
+  Ich bin erstaunt, dass Sie so eine wichtige Entscheidung einfach so treffen.
+
+  彼女は平気で遅刻してくる。
+  彼女[かのじょ]は 平気[へいき]で 遅刻[ちこく]してくる。
+  Sie kommt ohne weiteres zu spät.
+
+  平気で人の物を借りるのは良くないよ。
+  平気[へいき]で 人[ひと]の 物[もの]を 借[か]りるのは 良[よ]くないよ。
+  Es ist nicht gut, einfach so die Sachen anderer Leute auszuleihen.
+
+  彼は平気で危険な場所に行く。
+  彼[かれ]は 平気[へいき]で 危険[きけん]な 場所[ばしょ]に 行[い]く。
+  Er geht ohne zu zögern an gefährliche Orte.
+
+  そんな高い所から飛び降りて平気なの？
+  そんな 高[たか]い 所[ところ]から 飛[と]び 降[お]りて 平気[へいき]なの？
+  Macht es dir wirklich nichts aus, von so einer Höhe zu springen?
+
+  彼女は平気で人の悪口を言う。
+  彼女[かのじょ]は 平気[へいき]で 人[ひと]の 悪口[わるぐち]を 言[い]う。
+  Sie redet ohne Bedenken schlecht über andere.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">平気を装う</span> bedeutet, so zu tun, als ob etwas einem nichts ausmacht oder gleichgültig zu erscheinen.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 不安[ふあん]を 感[かん]じていたが、平気[へいき]を 装[よそお]って 会議[かいぎ]に 臨[のぞ]んだ。</div>
+    <div class="de spoiler">Obwohl er beunruhigt war, tat er so, als wäre er gelassen, als er an der Besprechung teilnahm.</div>
+  </div>
+  <p><span class="jp">平気である</span> bedeutet, dass etwas jemandem nichts ausmacht oder jemanden nicht interessiert.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 厳[きび]しい 批判[ひはん]を 受[う]けても 平気[へいき]だった。</div>
+    <div class="de spoiler">Ihm machte es nichts aus, selbst wenn er harte Kritik erhielt.</div>
+  </div>
+  <p><span class="jp">平気でいる</span> bedeutet, ruhig zu bleiben oder sich nicht aus der Ruhe bringen zu lassen.</p>
+  <div class="examples">
+    <div class="jp">緊急[きんきゅう] 事態[じたい]でも、彼女[かのじょ]は 平気[へいき]でいられた。</div>
+    <div class="de spoiler">Selbst in Notsituationen konnte sie die Ruhe bewahren.</div>
+  </div>

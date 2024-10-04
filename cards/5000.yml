@@ -9,7 +9,13 @@ Wortart: adv, na-no-adj, interj
 Register: ''
 Ursprung: ''
 Konjugation: ''
-Beispielsätze: レポートの出来はまあまあだった。
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  レポートの出来はまあまあだった。
+  レポートの 出来[でき]はまあまあだった。
+  Der Bericht war mittelmäßig bis gut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

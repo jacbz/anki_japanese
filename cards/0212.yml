@@ -3,12 +3,12 @@ Lemma: かかる
 Lesung: ''
 Tonhöhen: /\.
 Definition: es dauert; es kostet
-Alternativschreibweisen: 掛かる
+Alternativschreibweisen: 掛かる・懸かる・繋かる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: かからない・かかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,156 @@ Beispielsätze: |-
   子[こ]どもを 育[そだ]てるのにはお 金[かね]がかかる。
   Es kostet viel, Kinder aufzuziehen.
 
+  壁に絵がかかっている。
+  壁[かべ]に 絵[え]がかかっている。
+  An der Wand hängt ein Bild.
+
+  彼は親にかかっている。
+  彼[かれ]は 親[おや]にかかっている。
+  Er ist von seinen Eltern abhängig.
+
+  医者にかかっている。
+  医者[いしゃ]にかかっている。
+  Ich bin in ärztlicher Behandlung.
+
+  東京から大阪まで新幹線で3時間かかる。
+  東京[とうきょう]から 大阪[おおさか]まで 新幹線[しんかんせん]で3 時間[じかん]かかる。
+  Von Tokio nach Osaka braucht man mit dem Shinkansen 3 Stunden.
+
+  この仕事には時間がかかる。
+  この 仕事[しごと]には 時間[じかん]がかかる。
+  Diese Arbeit nimmt viel Zeit in Anspruch.
+
+  彼女は電話がかかるのを待っている。
+  彼女[かのじょ]は 電話[でんわ]がかかるのを 待[ま]っている。
+  Sie wartet darauf, dass das Telefon klingelt.
+
+  彼は仕事にかかった。
+  彼[かれ]は 仕事[しごと]にかかった。
+  Er machte sich an die Arbeit.
+
+  この試合には優勝がかかっている。
+  この 試合[しあい]には 優勝[ゆうしょう]がかかっている。
+  In diesem Spiel geht es um den Sieg.
+
+  彼女は泥が服にかかった。
+  彼女[かのじょ]は 泥[どろ]が 服[ふく]にかかった。
+  Ihre Kleidung wurde mit Schlamm bespritzt.
+
+  雨がかかったので傘をさした。
+  雨[あめ]がかかったので 傘[かさ]をさした。
+  Es fing an zu regnen, also spannte ich den Schirm auf.
+
+  ドアには鍵がかかっている。
+  ドアには 鍵[かぎ]がかかっている。
+  Die Tür ist abgeschlossen.
+
+  ブレーキがかかって車が止まった。
+  ブレーキがかかって 車[くるま]が 止[と]まった。
+  Die Bremsen griffen und das Auto hielt an.
+
+  彼の将来は試験一つにかかっている。
+  彼[かれ]の 将来[しょうらい]は 試験[しけん] 一[ひと]つにかかっている。
+  Seine Zukunft hängt von dieser einen Prüfung ab.
+
+  この問題の解決は君にかかっている。
+  この 問題[もんだい]の 解決[かいけつ]は 君[きみ]にかかっている。
+  Die Lösung dieses Problems hängt von dir ab.
+
+  彼女は仕事のストレスにかかっている。
+  彼女[かのじょ]は 仕事[しごと]のストレスにかかっている。
+  Sie steht unter Arbeitsstress.
+
+  霧がかかって視界が悪い。
+  霧[きり]がかかって 視界[しかい]が 悪[わる]い。
+  Es ist neblig und die Sicht ist schlecht.
+
+  ワックスのかかった床が光っている。
+  ワックスのかかった 床[ゆか]が 光[ひか]っている。
+  Der gebohnerte Boden glänzt.
+
+  彼は親友にかかって相談した。
+  彼[かれ]は 親友[しんゆう]にかかって 相談[そうだん]した。
+  Er wandte sich an seinen besten Freund um Rat.
+
+  日が暮れかかっている。
+  日[ひ]が 暮[く]れかかっている。
+  Die Sonne ist im Begriff unterzugehen.
+
+  彼は死にかかっている。
+  彼[かれ]は 死[し]にかかっている。
+  Er liegt im Sterben.
+
+  その建物は火事で焼けかかっていた。
+  その 建物[たてもの]は 火事[かじ]で 焼[や]けかかっていた。
+  Das Gebäude war dabei, durch das Feuer abzubrennen.
+
+  彼女は泣きかかっている。
+  彼女[かのじょ]は 泣[な]きかかっている。
+  Sie ist kurz davor zu weinen.
+
+  彼は怒ってかかってきた。
+  彼[かれ]は 怒[おこ]ってかかってきた。
+  Er ging wütend auf mich los.
+
+  彼女は私を見下してかかってくる。
+  彼女[かのじょ]は 私[わたし]を 見下[みくだ]してかかってくる。
+  Sie behandelt mich von oben herab.
+
+  彼は意地にかかって譲らない。
+  彼[かれ]は 意地[いじ]にかかって 譲[ゆず]らない。
+  Er gibt aus Sturheit nicht nach.
+
+  その問題は会議にかかっている。
+  その 問題[もんだい]は 会議[かいぎ]にかかっている。
+  Dieses Problem wird in der Sitzung besprochen.
+
+  彼女の声は鼻にかかっている。
+  彼女[かのじょ]の 声[こえ]は 鼻[はな]にかかっている。
+  Ihre Stimme klingt näselnd.
+
+  その船は港に錨をかけている。
+  その 船[ふね]は 港[みなと]に 錨[いかり]をかけている。
+  Das Schiff liegt im Hafen vor Anker.
+
+  彼の成功は運にかかっている。
+  彼[かれ]の 成功[せいこう]は 運[うん]にかかっている。
+  Sein Erfolg hängt vom Glück ab.
+
+  彼女は気にかかる様子だった。
+  彼女[かのじょ]は 気[き]にかかる 様子[ようす]だった。
+  Sie schien besorgt zu sein.
+
+  彼は手がかかる子どもだ。
+  彼[かれ]は 手[て]がかかる 子[こ]どもだ。
+  Er ist ein Kind, das viel Aufmerksamkeit braucht.
+
+  彼女は心にかかることがあるようだ。
+  彼女[かのじょ]は 心[こころ]にかかることがあるようだ。
+  Sie scheint etwas auf dem Herzen zu haben.
+
+  その話は口にかかっている。
+  その 話[はなし]は 口[くち]にかかっている。
+  Diese Geschichte wird von Mund zu Mund weitererzählt.
+
+  この仕事は手間がかかる。
+  この 仕事[しごと]は 手間[てま]がかかる。
+  Diese Arbeit ist zeitaufwendig.
+
+  彼女は目にかかりたがっている。
+  彼女[かのじょ]は 目[め]にかかりたがっている。
+  Sie möchte Sie gerne treffen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>かかる hat viele Bedeutungen und Verwendungen:</p>
+  <p>1. Hängen oder befestigt sein:<br><span class="jp">壁[かべ]に 絵[え]がかかっている。</span><br>Ein Bild hängt an der Wand.</p>
+  <p>2. Zeit oder Ressourcen in Anspruch nehmen:<br><span class="jp">この 仕事[しごと]には 時間[じかん]がかかる。</span><br>Diese Arbeit nimmt viel Zeit in Anspruch.</p>
+  <p>3. Von etwas abhängen:<br><span class="jp">成功[せいこう]は 努力[どりょく]にかかっている。</span><br>Der Erfolg hängt von der Anstrengung ab.</p>
+  <p>4. Sich an jemanden wenden (besonders für medizinische Behandlung):<br><span class="jp">医者[いしゃ]にかかる。</span><br>Einen Arzt aufsuchen.</p>
+  <p>5. Im Begriff sein, etwas zu tun (mit Verbstamm + かかる):<br><span class="jp">雨[あめ]が 降[ふ]りかかっている。</span><br>Es fängt gerade an zu regnen.</p>
+  <p>6. Aktiviert oder angewendet werden (für Mechanismen):<br><span class="jp">ブレーキがかかる。</span><br>Die Bremsen greifen.</p>

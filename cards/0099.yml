@@ -2,24 +2,186 @@ Rang: 99
 Lemma: 出る
 Lesung: でる
 Tonhöhen: \.
-Definition: herausgehen
+Definition: (her)ausgehen; entstehen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 出ない・出た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私は部屋から出た。
   私[わたし]は 部屋[へや]から 出[で]た。
-  Ich bin aus dem Zimmer herausgegangen.
+  Ich verließ das Zimmer.
+
+  彼は大学を出てすぐに就職した。
+  彼[かれ]は 大学[だいがく]を 出[で]てすぐに 就職[しゅうしょく]した。
+  Er fand direkt nach seinem Universitätsabschluss einen Job.
+
+  新しい映画が来週出るそうだ。
+  新[あたら]しい 映画[えいが]が 来週[らいしゅう] 出[で]るそうだ。
+  Es heißt, dass nächste Woche ein neuer Film herauskommt.
+
+  彼女は買い物に出かけた。
+  彼女[かのじょ]は 買い物[かいもの]に 出[で]かけた。
+  Sie ging einkaufen.
+
+  会議に出る準備をしている。
+  会議[かいぎ]に 出[で]る 準備[じゅんび]をしている。
+  Ich bereite mich darauf vor, an der Besprechung teilzunehmen.
+
+  太陽が雲の間から出てきた。
+  太陽[たいよう]が 雲[くも]の 間[あいだ]から 出[で]てきた。
+  Die Sonne kam zwischen den Wolken hervor.
+
+  彼の名前が新聞に出ていた。
+  彼[かれ]の 名前[なまえ]が 新聞[しんぶん]に 出[で]ていた。
+  Sein Name stand in der Zeitung.
+
+  試験に難しい問題が出た。
+  試験[しけん]に 難[むずか]しい 問題[もんだい]が 出[で]た。
+  In der Prüfung kamen schwierige Fragen dran.
+
+  彼女はテレビに出る機会が多い。
+  彼女[かのじょ]はテレビに 出[で]る 機会[きかい]が 多[おお]い。
+  Sie hat viele Gelegenheiten, im Fernsehen aufzutreten.
+
+  熱が出たので学校を休んだ。
+  熱[ねつ]が 出[で]たので 学校[がっこう]を 休[やす]んだ。
+  Ich blieb der Schule fern, weil ich Fieber bekommen hatte.
+
+  風邪で咳が出る。
+  風邪[かぜ]で 咳[せき]が 出[で]る。
+  Ich habe wegen einer Erkältung Husten.
+
+  木の芽が出始めた。
+  木[き]の 芽[め]が 出[で] 始[はじ]めた。
+  Die Knospen der Bäume begannen zu sprießen.
+
+  傷口から血が出ている。
+  傷口[きずぐち]から 血[ち]が 出[で]ている。
+  Aus der Wunde tritt Blut aus.
+
+  この地域では良質なワインが出る。
+  この 地域[ちいき]では 良質[りょうしつ]なワインが 出[で]る。
+  In dieser Region wird hochwertiger Wein produziert.
+
+  車のスピードが出すぎて危険だ。
+  車[くるま]のスピードが 出[で]すぎて 危険[きけん]だ。
+  Die Geschwindigkeit des Autos ist zu hoch und gefährlich.
+
+  ボーナスが出たら新しい車を買おう。
+  ボーナスが 出[で]たら 新[あたら]しい 車[くるま]を 買[か]おう。
+  Wenn ich meinen Bonus bekomme, werde ich ein neues Auto kaufen.
+
+  計算の答えが出ない。
+  計算[けいさん]の 答[こた]えが 出[で]ない。
+  Ich komme bei der Berechnung nicht auf das Ergebnis.
+
+  この商品はよく出ている。
+  この 商品[しょうひん]はよく 出[で]ている。
+  Dieses Produkt verkauft sich gut.
+
+  彼は勇気を出して告白した。
+  彼[かれ]は 勇気[ゆうき]を 出[だ]して 告白[こくはく]した。
+  Er fasste Mut und gestand seine Gefühle.
+
+  出る杭は打たれる。
+  出[で]る 杭[くい]は 打[う]たれる。
+  Wer herausragt, wird niedergeschlagen.
+
+  彼女は新しい仕事に出る決心をした。
+  彼女[かのじょ]は 新[あたら]しい 仕事[しごと]に 出[で]る 決心[けっしん]をした。
+  Sie entschied sich, eine neue Stelle anzutreten.
+
+  電話に出てください。
+  電話[でんわ]に 出[で]てください。
+  Bitte geh ans Telefon.
+
+  彼は舞台に出る前に緊張していた。
+  彼[かれ]は 舞台[ぶたい]に 出[で]る 前[まえ]に 緊張[きんちょう]していた。
+  Er war nervös, bevor er die Bühne betrat.
+
+  庭に出て深呼吸をした。
+  庭[にわ]に 出[で]て 深呼吸[しんこきゅう]をした。
+  Ich ging in den Garten und atmete tief durch.
+
+  この道は東京へ出る。
+  この 道[みち]は 東京[とうきょう]へ 出[で]る。
+  Diese Straße führt nach Tokyo.
+
+  彼女は政界に出る決意をした。
+  彼女[かのじょ]は 政界[せいかい]に 出[で]る 決意[けつい]をした。
+  Sie beschloss, in die Politik zu gehen.
+
+  選挙に出る候補者が決まった。
+  選挙[せんきょ]に 出[で]る 候補者[こうほしゃ]が 決[き]まった。
+  Die Kandidaten für die Wahl stehen fest.
+
+  その問題の解決策がやっと出た。
+  その 問題[もんだい]の 解決策[かいけつさく]がやっと 出[で]た。
+  Endlich kam eine Lösung für das Problem heraus.
+
+  彼の行動は善意から出たものだ。
+  彼[かれ]の 行動[こうどう]は 善意[ぜんい]から 出[で]たものだ。
+  Seine Handlungen entsprangen guten Absichten.
+
+  新製品が来月出る予定だ。
+  新製品[しんせいひん]が 来月[らいげつ] 出[で]る 予定[よてい]だ。
+  Das neue Produkt soll nächsten Monat auf den Markt kommen.
+
+  彼は自分の意見をはっきりと出した。
+  彼[かれ]は 自分[じぶん]の 意見[いけん]をはっきりと 出[だ]した。
+  Er brachte seine Meinung klar zum Ausdruck.
+
+  その事件の真相がようやく出てきた。
+  その 事件[じけん]の 真相[しんそう]がようやく 出[で]てきた。
+  Die Wahrheit über den Vorfall kam endlich ans Licht.
+
+  彼女は突然涙が出てきた。
+  彼女[かのじょ]は 突然[とつぜん] 涙[なみだ]が 出[で]てきた。
+  Plötzlich kamen ihr die Tränen.
+
+  この地域では石油が出るという噂がある。
+  この 地域[ちいき]では 石油[せきゆ]が 出[で]るという 噂[うわさ]がある。
+  Es gibt Gerüchte, dass in dieser Region Öl gefunden wurde.
+
+  彼の才能が徐々に出てきた。
+  彼[かれ]の 才能[さいのう]が 徐々[じょじょ]に 出[で]てきた。
+  Sein Talent kam nach und nach zum Vorschein.
+
+  コーヒーが出るまで少し待ってください。
+  コーヒーが 出[で]るまで 少[すこ]し 待[ま]ってください。
+  Bitte warten Sie einen Moment, bis der Kaffee serviert wird.
+
+  許可が出たら、すぐに工事を始めます。
+  許可[きょか]が 出[で]たら、すぐに 工事[こうじ]を 始[はじ]めます。
+  Sobald die Genehmigung erteilt wird, beginnen wir sofort mit den Bauarbeiten.
+
+  彼は下手に出て謝罪した。
+  彼[かれ]は 下手[したて]に 出[で]て 謝罪[しゃざい]した。
+  Er entschuldigte sich demütig.
+
+  出る幕ではないと思って、黙っていた。
+  出[で]る 幕[まく]ではないと 思[おも]って、黙[だま]っていた。
+  Ich dachte, es sei nicht meine Sache, mich einzumischen, also schwieg ich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 出る (でる) hat viele Verwendungen:</p>
+  <ul>
+    <li>Einen Ort verlassen: <span class="jp">家[いえ]を 出[で]る</span> (das Haus verlassen)</li>
+    <li>Erscheinen oder auftauchen: <span class="jp">雑誌[ざっし]に 記事[きじ]が 出[で]る</span> (ein Artikel erscheint in einer Zeitschrift)</li>
+    <li>Entstehen oder auftreten: <span class="jp">問題[もんだい]が 出[で]る</span> (ein Problem tritt auf)</li>
+    <li>Hervorkommen oder sichtbar werden: <span class="jp">太陽[たいよう]が 雲[くも]から 出[で]る</span> (die Sonne kommt hinter den Wolken hervor)</li>
+    <li>Teilnehmen oder anwesend sein: <span class="jp">会議[かいぎ]に 出[で]る</span> (an einer Besprechung teilnehmen)</li>
+    <li>Produziert oder hergestellt werden: <span class="jp">新[あたら]しい 製品[せいひん]が 出[で]る</span> (ein neues Produkt kommt heraus)</li>
+  </ul>
+  <p>In der Umgangssprache wird 出る oft zu でる verkürzt ausgesprochen.</p>

@@ -2,7 +2,7 @@ Rang: 130
 Lemma: 気
 Lesung: き
 Tonhöhen: .
-Definition: Geist, Herz
+Definition: Geist, Gemüt; Gefühl; Stimmung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,11 +15,161 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は気が強い。
   彼女[かのじょ]は 気[き]が 強[つよ]い。
-  Sie hat einen starken Willen.
+  Sie hat einen starken Charakter.
+
+  仕事のストレスで気が滅入っている。
+  仕事[しごと]のストレスで 気[き]が 滅入[めい]っている。
+  Ich bin wegen des Arbeitsstresses niedergeschlagen.
+
+  彼の態度が気に食わない。
+  彼[かれ]の 態度[たいど]が 気[き]に 食[く]わない。
+  Sein Verhalten gefällt mir nicht.
+
+  気が付いたら3時間も経っていた。
+  気[き]が 付[つ]いたら3時間[じかん]も 経[た]っていた。
+  Als ich es bemerkte, waren schon 3 Stunden vergangen.
+
+  新しい環境に気を使っている。
+  新[あたら]しい 環境[かんきょう]に 気[き]を 使[つか]っている。
+  Ich bin in der neuen Umgebung sehr vorsichtig.
+
+  彼女の気を引こうとしているのが明らかだ。
+  彼女[かのじょ]の 気[き]を 引[ひ]こうとしているのが 明[あき]らかだ。
+  Es ist offensichtlich, dass er versucht, ihre Aufmerksamkeit zu erregen.
+
+  気が散って集中できない。
+  気[き]が 散[ち]って 集中[しゅうちゅう]できない。
+  Ich bin abgelenkt und kann mich nicht konzentrieren.
+
+  彼は気が小さいので、人前で話すのが苦手だ。
+  彼[かれ]は 気[き]が 小[ちい]さいので、人前[ひとまえ]で 話[はな]すのが 苦手[にがて]だ。
+  Er ist schüchtern und hat Schwierigkeiten, vor Menschen zu sprechen.
+
+  気が重い仕事だが、やらなければならない。
+  気[き]が 重[おも]い 仕事[しごと]だが、やらなければならない。
+  Es ist eine unangenehme Aufgabe, aber sie muss erledigt werden.
+
+  彼女は気が利く人で、いつも周りに気を配っている。
+  彼女[かのじょ]は 気[き]が 利[き]く 人[ひと]で、いつも 周[まわ]りに 気[き]を 配[くば]っている。
+  Sie ist sehr aufmerksam und achtet immer auf ihre Umgebung.
+
+  気が若いおじいちゃんは、孫たちと一緒に遊ぶのが大好きだ。
+  気[き]が 若[わか]いおじいちゃんは、孫[まご]たちと 一緒[いっしょ]に 遊[あそ]ぶのが 大好[だいす]きだ。
+  Der junggebliebene Großvater liebt es, mit seinen Enkeln zu spielen.
+
+  気が急いてミスをしてしまった。
+  気[き]が 急[せ]いてミスをしてしまった。
+  Ich war ungeduldig und habe einen Fehler gemacht.
+
+  彼女の気を悪くするようなことは言わないでください。
+  彼女[かのじょ]の 気[き]を 悪[わる]くするようなことは 言[い]わないでください。
+  Bitte sagen Sie nichts, was sie verärgern könnte.
+
+  気が合う友達と過ごす時間は楽しい。
+  気[き]が 合[あ]う 友達[ともだち]と 過[す]ごす 時間[じかん]は 楽[たの]しい。
+  Es macht Spaß, Zeit mit Freunden zu verbringen, mit denen man sich gut versteht.
+
+  気が乗らない時は無理に仕事をしない方がいい。
+  気[き]が 乗[の]らない 時[とき]は 無理[むり]に 仕事[しごと]をしない 方[ほう]がいい。
+  Wenn man nicht in Stimmung ist, sollte man sich nicht zur Arbeit zwingen.
+
+  気が遠くなるほど難しい問題だ。
+  気[き]が 遠[とお]くなるほど 難[むずか]しい 問題[もんだい]だ。
+  Es ist ein so schwieriges Problem, dass einem schwindelig wird.
+
+  気が済むまで説明してください。
+  気[き]が 済[す]むまで 説明[せつめい]してください。
+  Bitte erklären Sie es, bis Sie zufrieden sind.
+
+  気がかりな問題を早く解決したい。
+  気[き]がかりな 問題[もんだい]を 早[はや]く 解決[かいけつ]したい。
+  Ich möchte das beunruhigende Problem schnell lösen.
+
+  彼は気が多いので、一つの趣味に集中できない。
+  彼[かれ]は 気[き]が 多[おお]いので、一[ひと]つの 趣味[しゅみ]に 集中[しゅうちゅう]できない。
+  Er hat viele Interessen und kann sich nicht auf ein Hobby konzentrieren.
+
+  気が置けない関係を築くのは難しい。
+  気[き]が 置[お]けない 関係[かんけい]を 築[きず]くのは 難[むずか]しい。
+  Es ist schwierig, eine ungezwungene Beziehung aufzubauen.
+
+  気が立っているときは深呼吸をして落ち着こう。
+  気[き]が 立[た]っているときは 深呼吸[しんこきゅう]をして 落[お]ち 着[つ]こう。
+  Wenn man aufgeregt ist, sollte man tief durchatmen und sich beruhigen.
+
+  気が知れない行動だ。
+  気[き]が 知[し]れない 行動[こうどう]だ。
+  Es ist ein unverständliches Verhalten.
+
+  気が抜けたビールは美味しくない。
+  気[き]が 抜[ぬ]けたビールは 美味[おい]しくない。
+  Schal gewordenes Bier schmeckt nicht gut.
+
+  気が咎めるような行為はしたくない。
+  気[き]が 咎[とが]めるような 行為[こうい]はしたくない。
+  Ich möchte nichts tun, was mein Gewissen belasten würde.
+
+  気が弱い人は簡単に人に流されてしまう。
+  気[き]が 弱[よわ]い 人[ひと]は 簡単[かんたん]に 人[ひと]に 流[なが]されてしまう。
+  Menschen mit schwachem Charakter lassen sich leicht von anderen beeinflussen.
+
+  気のせいかもしれないが、誰かに見られている気がする。
+  気[き]のせいかもしれないが、誰[だれ]かに 見[み]られている 気[き]がする。
+  Es ist vielleicht nur Einbildung, aber ich habe das Gefühl, von jemandem beobachtet zu werden.
+
+  気を取り直して、もう一度挑戦しよう。
+  気[き]を 取[と]り 直[なお]して、もう 一度[いちど] 挑戦[ちょうせん]しよう。
+  Lass uns uns zusammenreißen und es noch einmal versuchen.
+
+  気を引き締めて試験に臨もう。
+  気[き]を 引[ひ]き 締[し]めて 試験[しけん]に 臨[のぞ]もう。
+  Lass uns uns konzentrieren und die Prüfung angehen.
+
+  気を紛らわすために映画を見に行った。
+  気[き]を 紛[まぎ]らわすために 映画[えいが]を 見[み]に 行[い]った。
+  Ich bin ins Kino gegangen, um mich abzulenken.
+
+  気を許すと危険な状況だ。
+  気[き]を 許[ゆる]すと 危険[きけん]な 状況[じょうきょう]だ。
+  Es ist eine gefährliche Situation, wenn man unvorsichtig wird.
+
+  気を持たせるような態度は良くない。
+  気[き]を 持[も]たせるような 態度[たいど]は 良[よ]くない。
+  Es ist nicht gut, jemandem falsche Hoffnungen zu machen.
+
+  気をつけて運転してください。
+  気[き]をつけて 運転[うんてん]してください。
+  Bitte fahren Sie vorsichtig.
+
+  気を取られて大切な約束を忘れてしまった。
+  気[き]を 取[と]られて 大切[たいせつ]な 約束[やくそく]を 忘[わす]れてしまった。
+  Ich war so abgelenkt, dass ich einen wichtigen Termin vergessen habe.
+
+  気を揉んでも解決にはならない。
+  気[き]を 揉[も]んでも 解決[かいけつ]にはならない。
+  Sich Sorgen zu machen, löst das Problem nicht.
+
+  お気を悪くされたのなら、謝罪いたします。
+  お 気[き]を 悪[わる]くされたのなら、謝罪[しゃざい]いたします。
+  Wenn ich Sie verärgert habe, entschuldige ich mich.
+
+  彼女の気を引くために、新しい服を買った。
+  彼女[かのじょ]の 気[き]を 引[ひ]くために、新[あたら]しい 服[ふく]を 買[か]った。
+  Ich habe neue Kleidung gekauft, um ihre Aufmerksamkeit zu erregen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>気 (き) ist ein vielseitiges Konzept in der japanischen Sprache und Kultur. Es bezieht sich auf Energie, Geist, Gemüt, Gefühl, Stimmung oder Aufmerksamkeit. Viele japanische Ausdrücke und Redewendungen verwenden 気, um verschiedene mentale und emotionale Zustände zu beschreiben.</p>
+  <p>Einige häufige Verwendungen sind:</p>
+  <ul>
+    <li><span class="jp">気[き]をつける</span>: vorsichtig sein, aufpassen</li>
+    <li><span class="jp">気[き]になる</span>: sich Sorgen machen, beunruhigt sein</li>
+    <li><span class="jp">気[き]が 合[あ]う</span>: sich gut verstehen</li>
+    <li><span class="jp">気[き]が 重[おも]い</span>: sich niedergeschlagen fühlen</li>
+    <li><span class="jp">気[き]が 楽[らく]になる</span>: sich erleichtert fühlen</li>
+  </ul>
+  <p>Es ist wichtig zu beachten, dass viele dieser Ausdrücke idiomatisch sind und ihre Bedeutung oft über die wörtliche Übersetzung hinausgeht.</p>

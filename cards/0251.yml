@@ -5,7 +5,7 @@ Tonhöhen: /^
 Definition: Gesicht
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n, suff
+Wortart: n
 Register: ↗</>Bücher
 Ursprung: ''
 Konjugation: ''
@@ -14,12 +14,126 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   毎朝、顔を洗う。
-  毎朝[まいあさ]、 顔[かお]を 洗[あら]う。
-  Ich wasche mein Gesicht jeden Morgen.
+  毎朝[まいあさ]、顔[かお]を 洗[あら]う。
+  Jeden Morgen wasche ich mein Gesicht.
+
+  彼女は顔が赤くなった。
+  彼女[かのじょ]は 顔[かお]が 赤[あか]くなった。
+  Sie wurde rot im Gesicht.
+
+  彼の顔を見るのも嫌だ。
+  彼[かれ]の 顔[かお]を 見[み]るのも 嫌[いや]だ。
+  Ich kann sein Gesicht nicht einmal sehen.
+
+  彼女は細い顔をしている。
+  彼女[かのじょ]は 細[ほそ]い 顔[かお]をしている。
+  Sie hat ein schmales Gesicht.
+
+  彼は知らん顔をして通り過ぎた。
+  彼[かれ]は 知[し]らん 顔[かお]をして 通[とお]り 過[す]ぎた。
+  Er ging vorbei, als würde er mich nicht kennen.
+
+  顔が広い人は、多くの人脈がある。
+  顔[かお]が 広[ひろ]い 人[ひと]は、多[おお]くの 人脈[じんみゃく]がある。
+  Jemand mit einem großen Bekanntenkreis hat viele Verbindungen.
+
+  彼は業界で顔が利く人物だ。
+  彼[かれ]は 業界[ぎょうかい]で 顔[かお]が 利[き]く 人物[じんぶつ]だ。
+  Er ist eine einflussreiche Person in der Branche.
+
+  その問題は会社の顔に関わる重要な案件だ。
+  その 問題[もんだい]は 会社[かいしゃ]の 顔[かお]に 関[かか]わる 重要[じゅうよう]な 案件[あんけん]だ。
+  Dieses Problem ist eine wichtige Angelegenheit, die das Ansehen des Unternehmens betrifft.
+
+  彼女は誇り顔で賞状を見せた。
+  彼女[かのじょ]は 誇[ほこ]り 顔[がお]で 賞状[しょうじょう]を 見[み]せた。
+  Sie zeigte mit stolzer Miene ihre Urkunde.
+
+  彼は泣き顔で助けを求めた。
+  彼[かれ]は 泣[な]き 顔[がお]で 助[たす]けを 求[もと]めた。
+  Mit verweinter Miene bat er um Hilfe.
+
+  玄関は家の顔です。
+  玄関[げんかん]は 家[いえ]の 顔[かお]です。
+  Der Eingang ist die Visitenkarte des Hauses.
+
+  彼女は顔が売れている女優だ。
+  彼女[かのじょ]は 顔[かお]が 売[う]れている 女優[じょゆう]だ。
+  Sie ist eine bekannte Schauspielerin.
+
+  恥ずかしさで顔から火が出そうだった。
+  恥[は]ずかしさで 顔[かお]から 火[ひ]が 出[で]そうだった。
+  Vor Scham wurde ich feuerrot im Gesicht.
+
+  彼の表情に喜びが顔に出ていた。
+  彼[かれ]の 表情[ひょうじょう]に 喜[よろこ]びが 顔[かお]に 出[で]ていた。
+  Die Freude stand ihm ins Gesicht geschrieben.
+
+  彼女は顔に紅葉を散らしていた。
+  彼女[かのじょ]は 顔[かお]に 紅葉[もみじ]を 散[ち]らしていた。
+  Sie errötete vor Verlegenheit.
+
+  長年会っていない友人と顔を合わせた。
+  長年[ながねん] 会[あ]っていない 友人[ゆうじん]と 顔[かお]を 合[あ]わせた。
+  Ich traf einen Freund, den ich seit Jahren nicht gesehen hatte.
+
+  窓から顔を出して外の様子を見た。
+  窓[まど]から 顔[かお]を 出[だ]して 外[そと]の 様子[ようす]を 見[み]た。
+  Ich streckte meinen Kopf aus dem Fenster, um nach draußen zu schauen.
+
+  彼女は顔を綻ばせて喜びを表現した。
+  彼女[かのじょ]は 顔[かお]を 綻[ほころ]ばせて 喜[よろこ]びを 表現[ひょうげん]した。
+  Sie konnte ihre Freude nicht verbergen und lächelte unwillkürlich.
+
+  会議に全員が顔を揃えた。
+  会議[かいぎ]に 全員[ぜんいん]が 顔[かお]を 揃[そろ]えた。
+  Alle wichtigen Personen waren bei der Besprechung anwesend.
+
+  上司の顔を立てるために、彼の提案に賛成した。
+  上司[じょうし]の 顔[かお]を 立[た]てるために、彼[かれ]の 提案[ていあん]に 賛成[さんせい]した。
+  Um meinem Chef Respekt zu zollen, stimmte ich seinem Vorschlag zu.
+
+  彼女は化粧で顔を作っていた。
+  彼女[かのじょ]は 化粧[けしょう]で 顔[かお]を 作[つく]っていた。
+  Sie schminkte sich sorgfältig.
+
+  彼は恥ずかしさで顔を染めた。
+  彼[かれ]は 恥[は]ずかしさで 顔[かお]を 染[そ]めた。
+  Er wurde vor Verlegenheit rot im Gesicht.
+
+  定期的に顔を繋ぐことで、関係を維持している。
+  定期的[ていきてき]に 顔[かお]を 繋[つな]ぐことで、関係[かんけい]を 維持[いじ]している。
+  Wir pflegen unsere Beziehung, indem wir regelmäßig Kontakt halten.
+
+  彼は業界で顔を売ろうと努力している。
+  彼[かれ]は 業界[ぎょうかい]で 顔[かお]を 売[う]ろうと 努力[どりょく]している。
+  Er bemüht sich, in der Branche bekannt zu werden.
+
+  彼女は大きな顔をして、自慢話をした。
+  彼女[かのじょ]は 大[おお]きな 顔[かお]をして、自慢話[じまんばなし]をした。
+  Sie prahlte mit wichtigtuerischer Miene.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>顔 kann auch als Suffix (-がお) verwendet werden, um das Aussehen oder die Miene zu beschreiben:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 誇[ほこ]り 顔[がお]で 成果[せいか]を 発表[はっぴょう]した。</div>
+    <div class="de spoiler">Er präsentierte die Ergebnisse mit stolzer Miene.</div>
+  </div>
+  <p>Es gibt viele idiomatische Ausdrücke mit 顔:</p>
+  <div class="examples">
+    <div class="jp">顔[かお]が 広[ひろ]い</div>
+    <div class="de spoiler">einen großen Bekanntenkreis haben</div>
+  </div>
+  <div class="examples">
+    <div class="jp">顔[かお]が 利[き]く</div>
+    <div class="de spoiler">einflussreich sein</div>
+  </div>
+  <div class="examples">
+    <div class="jp">顔[かお]を 立[た]てる</div>
+    <div class="de spoiler">jemandes Ansehen wahren</div>
+  </div>

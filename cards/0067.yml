@@ -2,24 +2,141 @@ Rang: 67
 Lemma: 見る
 Lesung: みる
 Tonhöhen: \.
-Definition: sehen
-Alternativschreibweisen: ''
+Definition: sehen; ansehen; betrachten
+Alternativschreibweisen: 視る・観る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 見ない・見た
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   通りを渡る前に左右を見た。
   通[とお]りを 渡[わた]る 前[まえ]に 左右[さゆう]を 見[み]た。
-  Ich habe links und rechts geschaut, bevor ich die Straße überquert habe.
+  Bevor ich die Straße überquerte, schaute ich nach links und rechts.
+
+  鏡を見て髪型を直した。
+  鏡[かがみ]を 見[み]て 髪型[かみがた]を 直[なお]した。
+  Ich sah in den Spiegel und richtete meine Frisur.
+
+  映画を見に行きませんか。
+  映画[えいが]を 見[み]に 行[い]きませんか。
+  Möchtest du mit mir ins Kino gehen?
+
+  外を見ると、雪が降っていた。
+  外[そと]を 見[み]ると、雪[ゆき]が 降[ふ]っていた。
+  Als ich nach draußen schaute, schneite es.
+
+  テレビを見ながら夕食を食べた。
+  テレビを 見[み]ながら 夕食[ゆうしょく]を 食[た]べた。
+  Ich aß zu Abend, während ich fernsah.
+
+  京都を見て回るのに一週間かかった。
+  京都[きょうと]を 見[み]て 回[まわ]るのに 一週間[いっしゅうかん]かかった。
+  Es dauerte eine Woche, um Kyoto zu besichtigen.
+
+  彼女をじっと見つめていた。
+  彼女[かのじょ]をじっと 見[み]つめていた。
+  Ich starrte sie unverwandt an.
+
+  新聞を見て、最新のニュースを確認した。
+  新聞[しんぶん]を 見[み]て、最新[さいしん]のニュースを 確認[かくにん]した。
+  Ich las die Zeitung, um die neuesten Nachrichten zu erfahren.
+
+  時計を見て、もう遅刻だと気づいた。
+  時計[とけい]を 見[み]て、もう 遅刻[ちこく]だと 気[き]づいた。
+  Als ich auf die Uhr sah, bemerkte ich, dass ich schon zu spät war.
+
+  地図を見て、目的地への道を確認した。
+  地図[ちず]を 見[み]て、目的地[もくてきち]への 道[みち]を 確認[かくにん]した。
+  Ich schaute auf die Karte, um den Weg zum Ziel zu überprüfen.
+
+  辞書を見て、わからない単語の意味を調べた。
+  辞書[じしょ]を 見[み]て、わからない 単語[たんご]の 意味[いみ]を 調[しら]べた。
+  Ich schlug im Wörterbuch nach, um die Bedeutung unbekannter Wörter nachzuschlagen.
+
+  試験の答案を見て、点数をつけた。
+  試験[しけん]の 答案[とうあん]を 見[み]て、点数[てんすう]をつけた。
+  Ich sah die Prüfungsarbeiten durch und vergab Punkte.
+
+  料理の味を見て、塩を足した。
+  料理[りょうり]の 味[あじ]を 見[み]て、塩[しお]を 足[た]した。
+  Ich probierte das Gericht und fügte etwas Salz hinzu.
+
+  経過を見守りながら、次の一手を考えた。
+  経過[けいか]を 見守[みまも]りながら、次[つぎ]の 一手[いって]を 考[かんが]えた。
+  Während ich den Fortschritt beobachtete, überlegte ich den nächsten Schritt.
+
+  その提案を前向きに見ることにした。
+  その 提案[ていあん]を 前向[まえむ]きに 見[み]ることにした。
+  Ich beschloss, den Vorschlag positiv zu betrachten.
+
+  彼の才能を高く見ている。
+  彼[かれ]の 才能[さいのう]を 高[たか]く 見[み]ている。
+  Ich schätze sein Talent sehr.
+
+  経費を100万円と見積もった。
+  経費[けいひ]を100万円[ひゃくまんえん]と 見積[みつ]もった。
+  Ich veranschlagte die Kosten auf 1 Million Yen.
+
+  痛い目を見て、初めて気づいた。
+  痛[いた]い 目[め]を 見[み]て、初[はじ]めて 気[き]づいた。
+  Erst nachdem ich eine schmerzliche Erfahrung gemacht hatte, wurde mir klar.
+
+  赤ちゃんを見て、両親の顔を思い出した。
+  赤[あか]ちゃんを 見[み]て、両親[りょうしん]の 顔[かお]を 思[おも]い 出[だ]した。
+  Als ich das Baby sah, erinnerte ich mich an die Gesichter seiner Eltern.
+
+  患者を診て、適切な治療法を考えた。
+  患者[かんじゃ]を 診[み]て、適切[てきせつ]な 治療法[ちりょうほう]を 考[かんが]えた。
+  Nachdem ich den Patienten untersucht hatte, überlegte ich die geeignete Behandlungsmethode.
+
+  一度食べてみないと、味はわからない。
+  一度[いちど] 食[た]べてみないと、味[あじ]はわからない。
+  Man weiß nicht, wie es schmeckt, bevor man es nicht probiert hat.
+
+  新しい靴を履いてみて、サイズを確認した。
+  新[あたら]しい 靴[くつ]を 履[は]いてみて、サイズを 確認[かくにん]した。
+  Ich probierte die neuen Schuhe an, um die Größe zu überprüfen.
+
+  彼に直接聞いてみることにした。
+  彼[かれ]に 直接[ちょくせつ] 聞[き]いてみることにした。
+  Ich beschloss, ihn direkt zu fragen.
+
+  近づいてみると、それは偽物だとわかった。
+  近[ちか]づいてみると、それは 偽物[にせもの]だとわかった。
+  Als ich näher kam, erkannte ich, dass es eine Fälschung war.
+
+  考えてみれば、それは当然のことだった。
+  考[かんが]えてみれば、それは 当然[とうぜん]のことだった。
+  Wenn man darüber nachdenkt, war es selbstverständlich.
+
+  目が覚めてみると、すべては夢だった。
+  目[め]が 覚[さ]めてみると、すべては 夢[ゆめ]だった。
+  Als ich aufwachte, stellte sich heraus, dass alles nur ein Traum gewesen war.
+
+  お仕事は何ですか。
+  お 仕事[しごと]は 何[なん]ですか。
+  Was machen Sie beruflich?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>見る kann je nach Kontext und Verwendung unterschiedliche Nuancen haben:</p>
+  <ul>
+    <li>Einfaches Sehen oder Betrachten: <span class="jp">空[そら]を 見[み]る</span> (den Himmel betrachten)</li>
+    <li>Untersuchen oder Prüfen: <span class="jp">書類[しょるい]を 見[み]る</span> (Dokumente prüfen)</li>
+    <li>Erfahren oder Erleben: <span class="jp">苦労[くろう]を 見[み]る</span> (Schwierigkeiten erleben)</li>
+    <li>Beurteilen oder Einschätzen: <span class="jp">状況[じょうきょう]を 見[み]て 判断[はんだん]する</span> (die Situation einschätzen und entscheiden)</li>
+    <li>Sich um etwas kümmern: <span class="jp">子供[こども]の 面倒[めんどう]を 見[み]る</span> (sich um Kinder kümmern)</li>
+  </ul>
+  <p>Als Hilfsverb (てみる) drückt es oft "versuchen" oder "ausprobieren" aus:</p>
+  <div class="examples">
+    <div class="jp">新[あたら]しいレシピを 作[つく]ってみる。</div>
+    <div class="de spoiler">Ein neues Rezept ausprobieren.</div>
+  </div>

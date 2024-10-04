@@ -275,8 +275,10 @@ function shuffleSentences(sentences, persist = true) {
   }
   if (!persist) {
     const output = Persistence.getItem();
-    Persistence.clear();
-    return output;
+    if (output) {
+      Persistence.clear();
+      return output;
+    }
   }
 
   if (options.shuffleMode === "random") {
