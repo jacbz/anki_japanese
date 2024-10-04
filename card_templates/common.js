@@ -44,7 +44,7 @@ function createSvgWithPitchAccent(textInput, pitchAccent, unvoiced) {
   const svgHeight = 27;
   const svgWidth = textInput.length * charWidth + charWidth / 2;
   const lineY = { top: 2, bottom: 25 };
-  const cornerRadius = 5;
+  const cornerRadius = 8;
 
   const svg = document.createElementNS(xmlns, "svg");
   svg.setAttribute("viewBox", `0 0 ${svgWidth} ${svgHeight}`);
@@ -269,19 +269,76 @@ function processText(text, isJapanese) {
   return text;
 }
 
-function shuffleArray(arr, persist = true) {
-  let seed = Math.random();
-  if (persist) {
-    Persistence.setItem(seed);
-  } else {
-    seed = Persistence.getItem();
+function shuffleSentences(sentences, persist = true) {
+  if (options.shuffleMode === "none") {
+    return sentences;
+  }
+  if (!persist) {
+    const output = Persistence.getItem();
     Persistence.clear();
+    return output;
   }
-  let currentSeed = seed;
-  for (let i = arr.length - 1; i > 0; i--) {
-    currentSeed = (currentSeed * 16807) % 2147483647;
-    const j = Math.floor((currentSeed / 2147483647) * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
+
+  if (options.shuffleMode === "random") {
+    const output = sentences
+      .map((value) => ({ value, sort: Math.random() }))
+      .sort((a, b) => a.sort - b.sort)
+      .map(({ value }) => value);
+    Persistence.setItem(output);
+    return output;
   }
-  return arr;
+
+  const weights = calculateWeights(sentences);
+  let weightedSentences = sentences.map((sentence, index) => ({
+    value: sentence,
+    weight: weights[index],
+  }));
+
+  console.log("Original sentences:", weightedSentences);
+  weightedShuffle(weightedSentences);
+  console.log("Weighted and shuffled sentences:", weightedSentences);
+
+  weightedSentences = weightedSentences.map((sentence) => sentence.value);
+  Persistence.setItem(weightedSentences);
+  return weightedSentences;
+}
+
+function calculateWeights(sentences) {
+  const sentenceCount = sentences.length;
+  const sentenceLengths = sentences.map(
+    (sentence) => sentence.split("\n")[0].length
+  );
+
+  const sortedLengths = [...sentenceLengths].sort((a, b) => a - b);
+  const rankMap = new Map(
+    sortedLengths.map((length, index) => [length, index + 1])
+  );
+  const avgLength =
+    sentenceLengths.reduce((sum, length) => sum + length, 0) / sentenceCount;
+  const hybridWeight = (length, rank) => {
+    const rankWeight = (sentenceCount - rank + 1) / sentenceCount;
+    const sigmoidWeight =
+      1 / (1 + Math.exp((length - avgLength) / (avgLength / 4)));
+    return rankWeight * sigmoidWeight;
+  };
+  return sentenceLengths.map((length) => {
+    const rank = rankMap.get(length);
+    return hybridWeight(length, rank);
+  });
+}
+
+function weightedShuffle(arr) {
+  for (let i = 0; i < arr.length; i++) {
+    const v = weightedIndexChoice(arr.slice(i));
+    [arr[i + v], arr[i]] = [arr[i], arr[i + v]];
+  }
+}
+
+function weightedIndexChoice(arr) {
+  const totalWeight = arr.map((v) => v.weight).reduce((x, y) => x + y);
+  const val = Math.random() * totalWeight;
+  for (let i = 0, cur = 0; ; i++) {
+    cur += arr[i].weight;
+    if (val <= cur) return i;
+  }
 }

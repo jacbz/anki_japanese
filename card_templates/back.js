@@ -59,9 +59,9 @@ formatDefinition();
  */
 const sentencesInner = document.getElementById("sentences_inner");
 const sentencesData = sentencesInner.innerHTML;
-const sentencesPairs = sentencesData.split("\n\n");
+let sentencesPairs = sentencesData.split("\n\n");
 const firstSentence = sentencesPairs[0].split("\n")[0];
-shuffleArray(sentencesPairs, false);
+sentencesPairs = shuffleSentences(sentencesPairs, false);
 
 let currentSentence = 0;
 const sentenceCounter = document.getElementById("sentence_counter");
@@ -244,6 +244,10 @@ function initAudioButtons(within = document) {
 
 refreshExampleSentences();
 formatSentences();
+
+// do not show spoiler for first sentence
+document.querySelector(".spoiler").classList.add("clicked");
+
 const nextSentenceButton = document.getElementById("next_sentence");
 nextSentenceButton.onclick = nextSentenceHandler;
 sentencesInner.ondblclick = nextSentenceHandler;
