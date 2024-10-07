@@ -2,8 +2,8 @@ Rang: 2521
 Lemma: 手前
 Lesung: てまえ
 Tonhöhen: /^^
-Definition: diese Seite
-Alternativschreibweisen: ''
+Definition: vor; diese(r/s) Seite
+Alternativschreibweisen: 点前
 Extra: '' # Nur bei suru-Verben
 Wortart: n, pron
 Register: ''
@@ -15,11 +15,116 @@ Konjugation: ''
 Beispielsätze: |-
   手前の机にあります。
   手前[てまえ]の 机[つくえ]にあります。
-  Es ist auf dem Schreibtisch auf dieser Seite.
+  Es liegt auf dem Tisch vor dir.
+
+  手前に置かれた皿を取ってください。
+  手前[てまえ]に 置[お]かれた 皿[さら]を 取[と]ってください。
+  Bitte nimm den Teller, der vor dir steht.
+
+  手前にある箸を使ってください。
+  手前[てまえ]にある 箸[はし]を 使[つか]ってください。
+  Bitte benutze die Stäbchen, die vor dir liegen.
+
+  手前には古びた石の車井戸があって、とても趣がありました。
+  手前[てまえ]には 古[ふる]びた 石[いし]の 車井戸[くるまいど]があって、とても 趣[おもむき]がありました。
+  Vor mir stand ein alter Steinbrunnen, der sehr malerisch wirkte.
+
+  東京駅の一つ手前で降りてください。
+  東京駅[とうきょうえき]の 一[ひと]つ 手前[てまえ]で 降[お]りてください。
+  Bitte steigen Sie eine Station vor dem Bahnhof Tokyo aus.
+
+  川の手前に大きな公園があります。
+  川[かわ]の 手前[てまえ]に 大[おお]きな 公園[こうえん]があります。
+  Auf dieser Seite des Flusses gibt es einen großen Park.
+
+  荷物を手前に引っ張ってください。
+  荷物[にもつ]を 手前[てまえ]に 引[ひ]っ 張[ぱ]ってください。
+  Bitte ziehen Sie das Gepäck zu sich.
+
+  小学校のすぐ手前に郵便局があります。
+  小学校[しょうがっこう]のすぐ 手前[てまえ]に 郵便局[ゆうびんきょく]があります。
+  Direkt vor der Grundschule befindet sich ein Postamt.
+
+  その手前で左に折れ、静かな路地に入りました。
+  その 手前[てまえ]で 左[ひだり]に 折[お]れ、静[しず]かな 路地[ろじ]に 入[はい]りました。
+  Davor bogen wir links ab und betraten eine ruhige Gasse.
+
+  トロールは彼女の一メートル手前で立ち止まった。
+  トロールは 彼女[かのじょ]の 一[いち]メートル 手前[てまえ]で 立[た]ち 止[ど]まった。
+  Der Troll hielt einen Meter vor ihr an.
+
+  写真の手前を斜めに切っているのは塀の影です。
+  写真[しゃしん]の 手前[てまえ]を 斜[なな]めに 切[き]っているのは 塀[へい]の 影[かげ]です。
+  Was im Vordergrund des Fotos schräg abfällt, ist der Schatten der Mauer.
+
+  友達の手前、泣くわけにはいきません。
+  友達[ともだち]の 手前[てまえ]、泣[な]くわけにはいきません。
+  Ich kann vor meinen Freunden nicht weinen.
+
+  一度断った手前、今さら行けません。
+  一度[いちど] 断[ことわ]った 手前[てまえ]、今[いま]さら 行[い]けません。
+  Nachdem ich einmal abgesagt habe, kann ich jetzt nicht mehr hingehen.
+
+  お手前の作法を丁寧に教えてもらいました。
+  お 手前[てまえ]の 作法[さほう]を 丁寧[ていねい]に 教[おし]えてもらいました。
+  Ich wurde sorgfältig in der Etikette der Teezeremonie unterwiesen.
+
+  手前どもは真面目な商売をしております。
+  手前[てまえ]どもは 真面目[まじめ]な 商売[しょうばい]をしております。
+  Wir betreiben ein seriöses Geschäft.
+
+  「手前、どこの者だ？」と厳しい口調で聞かれました。
+  「手前[てまえ]、どこの 者[もの]だ？」と 厳[きび]しい 口調[くちょう]で 聞[き]かれました。
+  "Wer bist du?" wurde ich in einem strengen Ton gefragt.
+
+  「手前も、お忙しいのは分かっています。しかし、一度検討してください。」
+  「手前[てまえ]も、お 忙[いそが]しいのは 分[わ]かっています。しかし、一度[いちど] 検討[けんとう]してください。」
+  "Ich weiß, dass Sie beschäftigt sind. Aber bitte überlegen Sie es sich einmal."
+
+  手前の意見を聞かせてもらえますか。
+  手前[てまえ]の 意見[いけん]を 聞[き]かせてもらえますか。
+  Könnten Sie mir Ihre Meinung sagen?
+
+  手前に来るまでに、右手に大きな建物が見えるはずです。
+  手前[てまえ]に 来[く]るまでに、右手[みぎて]に 大[おお]きな 建物[たてもの]が 見[み]えるはずです。
+  Bevor Sie hier ankommen, sollten Sie auf der rechten Seite ein großes Gebäude sehen.
+
+  手前を曲がってすぐのところにコンビニがあります。
+  手前[てまえ]を 曲[ま]がってすぐのところにコンビニがあります。
+  Gleich um die Ecke vor uns gibt es einen Convenience Store.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>手前[てまえ] hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Es bezeichnet einen Ort direkt vor jemandem oder etwas:</li>
+    <div class="examples">
+      <div class="jp">手前[てまえ]には 古[ふる]びた 石[いし]の 車井戸[くるまいど]があって</div>
+      <div class="de spoiler">Vor mir entdeckte ich einen alten Steinbrunnen.</div>
+    </div>
+    <li>Es kann "diese Seite" oder "diesseits" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">その<u>手前[てまえ]</u>で 左[ひだり]に 折[お]れ、古[ふる]ぼけた 映画館[えいがかん]の 裏手[うらて]の、ひっそりとした 路地[ろじ]を 入[はい]って 行[い]く。</div>
+      <div class="de spoiler">Wir biegen davor links ab, in ein stilles Gäßchen hinter einem heruntergekommenen Kino.</div>
+    </div>
+    <li>Es kann verwendet werden, um eine Aktion zu beschreiben, die man nicht mehr tun kann, nachdem man etwas gesagt oder getan hat:</li>
+    <div class="examples">
+      <div class="jp">約束[やくそく]した<u>手前[てまえ]</u>、 断[ことわ]るわけにはいかない。</div>
+      <div class="de spoiler">Nachdem ich es versprochen habe, kann ich es nicht ablehnen.</div>
+    </div>
+    <li>Als Pronomen kann es eine höflich-bescheidene Selbstbezeichnung sein:</li>
+    <div class="examples">
+      <div class="jp"><u>手前[てまえ]</u>どもは 堅気[かたぎ]な 人間[にんげん]で、二人[ふたり]で 頑張[がんば]って、 盗[ぬす]みも、 殺[ころ]しも、 火付[ひつ]けもしたことがありません！</div>
+      <div class="de spoiler">Wir sind ordentliche Leut, halten zusammen, stehln nicht, morden nicht, legen kein Feuer!</div>
+    </div>
+    <li>Es kann auch als informelle Anrede für Gleichrangige oder Untergeordnete verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">それはもう<u>手前[てまえ]</u>も、お 忙[いそが]しいのは 重々承知[じゅうじゅうしょうち]いたして 居[お]ります。</div>
+      <div class="de spoiler">Ich weiß ja, Sie sind sehr beschäftigt.</div>
+    </div>
+  </ul>
+  </p>

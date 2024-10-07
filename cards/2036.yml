@@ -2,20 +2,96 @@ Rang: 2036
 Lemma: 整える
 Lesung: ととのえる
 Tonhöhen: /^^\.
-Definition: anordnen, vorbereiten
-Alternativschreibweisen: ''
+Definition: in Ordnung bringen; vorbereiten
+Alternativschreibweisen: 調える・斉える
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 整えない・整えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   次の試合に向けてコンディションを整えておかなければ。
   次[つぎ]の 試合[しあい]に 向[む]けてコンディションを 整[ととの]えておかなければ。
-  Ich muss meinen körperlichen Zustand für das nächste Spiel vorbereiten.
+  Ich muss mich für das nächste Spiel in Form bringen.
+
+  面接の前に服装を整えて、身だしなみを確認しましょう。
+  面接[めんせつ]の 前[まえ]に 服装[ふくそう]を 整[ととの]えて、身[み]だしなみを 確認[かくにん]しましょう。
+  Lass uns vor dem Vorstellungsgespräch die Kleidung ordnen und das Erscheinungsbild überprüfen.
+
+  髪を整えてから、メイクをし始めます。
+  髪[かみ]を 整[ととの]えてから、メイクをし 始[はじ]めます。
+  Nachdem ich meine Haare gerichtet habe, beginne ich mit dem Make-up.
+
+  長期の病気休暇後、徐々に体調を整えて仕事に戻りました。
+  長期[ちょうき]の 病気休暇[びょうききゅうか] 後[ご]、徐々[じょじょ]に 体調[たいちょう]を 整[ととの]えて 仕事[しごと]に 戻[もど]りました。
+  Nach einem langen Krankheitsurlaub bin ich allmählich wieder zu Kräften gekommen und zur Arbeit zurückgekehrt.
+
+  引っ越し後、部屋を整えるのに一週間かかりました。
+  引[ひ]っ 越[こ]し 後[ご]、部屋[へや]を 整[ととの]えるのに 一週間[いっしゅうかん]かかりました。
+  Nach dem Umzug hat es eine Woche gedauert, das Zimmer einzurichten.
+
+  彼は毎朝、鏡の前で髭を整えています。
+  彼[かれ]は 毎朝[まいあさ]、鏡[かがみ]の 前[まえ]で 髭[ひげ]を 整[ととの]えています。
+  Er trimmt jeden Morgen vor dem Spiegel seinen Bart.
+
+  深呼吸をして息を整えてから、プレゼンテーションを始めました。
+  深呼吸[しんこきゅう]をして 息[いき]を 整[ととの]えてから、プレゼンテーションを 始[はじ]めました。
+  Nachdem ich tief durchgeatmet und meine Atmung beruhigt hatte, begann ich mit der Präsentation.
+
+  シェフは最後に味を整えて、料理を完成させました。
+  シェフは 最後[さいご]に 味[あじ]を 整[ととの]えて、料理[りょうり]を 完成[かんせい]させました。
+  Der Küchenchef gab dem Gericht den letzten Schliff, indem er den Geschmack abstimmte.
+
+  旅行の支度を整えるのに一日中かかりました。
+  旅行[りょこう]の 支度[したく]を 整[ととの]えるのに 一日中[いちにちじゅう]かかりました。
+  Es hat den ganzen Tag gedauert, die Vorbereitungen für die Reise zu treffen.
+
+  披露宴のために身支度を整えている新郎新婦。
+  披露宴[ひろうえん]のために 身支度[みじたく]を 整[ととの]えている 新郎新婦[しんろうしんぷ]。
+  Das Brautpaar macht sich für die Hochzeitsfeier zurecht.
+
+  ホームパーティーのために、食卓を丁寧に整えました。
+  ホームパーティーのために、食卓[しょくたく]を 丁寧[ていねい]に 整[ととの]えました。
+  Für die Hausparty habe ich den Esstisch sorgfältig gedeckt.
+
+  新しい劇場のオープニングに向けて、舞台を整えています。
+  新[あたら]しい 劇場[げきじょう]のオープニングに 向[む]けて、舞台[ぶたい]を 整[ととの]えています。
+  Wir bereiten die Bühne für die Eröffnung des neuen Theaters vor.
+
+  軍は来るべき戦いに備えて、戦備を整えた。
+  軍[ぐん]は 来[く]るべき 戦[たたか]いに 備[そな]えて、戦備[せんび]を 整[ととの]えた。
+  Die Armee rüstete sich für den bevorstehenden Kampf.
+
+  九州では雪道に不慣れな人が多いので、チェーンなどの準備を整えてください。
+  九州[きゅうしゅう]では 雪道[ゆきみち]に 不慣[ふな]れな 人[ひと]が 多[おお]いので、チェーンなどの 準備[じゅんび]を 整[ととの]えてください。
+  Da viele Menschen in Kyūshū keine Erfahrung mit verschneiten Straßen haben, bereiten Sie sich bitte mit Schneeketten und anderem vor.
+
+  新しいプロジェクトに必要な資金を整えるのに苦労しました。
+  新[あたら]しいプロジェクトに 必要[ひつよう]な 資金[しきん]を 整[ととの]えるのに 苦労[くろう]しました。
+  Es war schwierig, die nötigen Gelder für das neue Projekt aufzutreiben.
+
+  両家の同意を得て、ようやく結婚の段取りを整えることができました。
+  両家[りょうけ]の 同意[どうい]を 得[え]て、ようやく 結婚[けっこん]の 段取[だんど]りを 整[ととの]えることができました。
+  Nachdem wir die Zustimmung beider Familien erhalten hatten, konnten wir endlich die Hochzeitsvorbereitungen treffen.
+
+  会議の手はずを整えたので、あとは参加者を待つだけです。
+  会議[かいぎ]の 手[て]はずを 整[ととの]えたので、あとは 参加者[さんかしゃ]を 待[ま]つだけです。
+  Ich habe den Ablauf der Besprechung festgelegt, jetzt müssen wir nur noch auf die Teilnehmer warten.
+
+  新製品の発売に向けて、マーケティング戦略を整えています。
+  新製品[しんせいひん]の 発売[はつばい]に 向[む]けて、マーケティング 戦略[せんりゃく]を 整[ととの]えています。
+  Wir arbeiten an einer Marketingstrategie für die Einführung des neuen Produkts.
+
+  長年の夢だったレストランをオープンするため、準備を着々と整えている。
+  長年[ながねん]の 夢[ゆめ]だったレストランをオープンするため、準備[じゅんび]を 着々[ちゃくちゃく]と 整[ととの]えている。
+  Ich treffe stetig Vorbereitungen, um meinen langjährigen Traum von einem eigenen Restaurant zu verwirklichen.
+
+  新しい環境に順応するため、生活リズムを整えることが大切です。
+  新[あたら]しい 環境[かんきょう]に 順応[じゅんのう]するため、生活[せいかつ]リズムを 整[ととの]えることが 大切[たいせつ]です。
+  Um sich an eine neue Umgebung anzupassen, ist es wichtig, einen geregelten Lebensrhythmus zu finden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -106,4 +106,27 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>うん ist eine Interjektion mit zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Zustimmung oder Bestätigung:</li>
+    <ul>
+      <li>Entspricht dem deutschen "ja", "klar", "okay" oder "genau".</li>
+      <li>Wird in informellen Situationen verwendet.</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">「あのね。」「<u>うん</u>。」「浅草[あさくさ]の 観音様[かんのんさま]がそう 云[い]ったの。」</div>
+      <div class="de spoiler">»Hör gut zu!« »Ja!« »Die Kannon von Asakusa hat es gesagt!«</div>
+      <div class="jp">「<u>うん</u>、それでだいたいわかった」</div>
+      <div class="de spoiler">»Ich kann mir nun ein Bild machen, gut.«</div>
+    </div>
+    <li>Ausdruck eines Schmerzenslautes:</li>
+    <ul>
+      <li>Ähnlich wie "aua" oder "autsch" im Deutschen.</li>
+    </ul>
+  </ol>
+  <p>Zusätzliche Verwendungen:</p>
+  <ul>
+    <li><span class="jp"><u>うん</u>とも（すんとも）いわない</span>: keinen Mucks von sich geben</li>
+    <li><span class="jp"><u>うん</u>と 言[い]って 気[き]を 失[うしな]う</span>: mit einem Stöhnen das Bewusstsein verlieren</li>
+  </ul>

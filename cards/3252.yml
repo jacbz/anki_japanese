@@ -2,7 +2,7 @@ Rang: 3252
 Lemma: よし
 Lesung: ''
 Tonhöhen: \.
-Definition: In Ordnung!, Gut!
+Definition: gut!; okay!
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: interj
@@ -14,12 +14,108 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   よし、行くぞ。
-  よし、 行[い]くぞ。
-  In Ordnung. Los geht's!
+  よし、行[い]くぞ。
+  Okay, lass uns gehen!
+
+  よし、よくできた。
+  よし、よくできた。
+  Gut gemacht!
+
+  「よし。見事だ。」
+  「よし。見事[みごと]だ。」
+  Gut gemacht. Ausgezeichnet!
+
+  よし、おれもやるぞ。
+  よし、おれもやるぞ。
+  Okay, das mach ich auch.
+
+  よし、ひとまず退却して、もう一度やり直そう。
+  よし、ひとまず 退却[たいきゃく]して、もう 一度[いちど] やり 直[なお]そう。
+  Na gut, ziehen wir uns erstmal zurück und versuchen es noch einmal.
+
+  よし、指切りしよう。
+  よし、指切[ゆびき]りしよう。
+  Gut, lass uns den kleinen Finger darauf geben.
+
+  よし、問題ないな。
+  よし、問題[もんだい]ないな。
+  Alles klar, kein Problem.
+
+  よし、これで決まりだ。
+  よし、これで 決[き]まりだ。
+  Gut, damit ist es beschlossen.
+
+  よし、みんな準備はいいかな？
+  よし、みんな 準備[じゅんび]はいいかな？
+  Okay, sind alle bereit?
+
+  よし、頑張ろう！
+  よし、頑張[がんば]ろう！
+  Alles klar, lass uns unser Bestes geben!
+
+  よし、計画通りに進めよう。
+  よし、計画[けいかく]通[どお]りに 進[すす]めよう。
+  Gut, lass uns nach Plan vorgehen.
+
+  よし、もう一回説明してくれ。
+  よし、もう 一回[いっかい] 説明[せつめい]してくれ。
+  Okay, erkläre es mir noch einmal.
+
+  よし、休憩しよう。
+  よし、休憩[きゅうけい]しよう。
+  Gut, lass uns eine Pause machen.
+
+  よし、約束だ。
+  よし、約束[やくそく]だ。
+  In Ordnung, abgemacht.
+
+  よし、始めましょう。
+  よし、始[はじ]めましょう。
+  Gut, fangen wir an.
+
+  よし、次の課題に取り組もう。
+  よし、次[つぎ]の 課題[かだい]に 取[と]り 組[く]もう。
+  Okay, widmen wir uns der nächsten Aufgabe.
+
+  よし、みんなの意見を聞こう。
+  よし、みんなの 意見[いけん]を 聞[き]こう。
+  Gut, hören wir uns die Meinungen aller an.
+
+  よし、そろそろ帰ろうか。
+  よし、そろそろ 帰[かえ]ろうか。
+  Okay, sollen wir langsam nach Hause gehen?
+
+  よし、もう一度チャレンジしよう。
+  よし、もう 一度[いちど]チャレンジしよう。
+  Gut, lass es uns noch einmal versuchen.
+
+  よし、これで終わりだ。
+  よし、これで 終[お]わりだ。
+  Okay, damit sind wir fertig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>よし ist ein Ausruf, der in verschiedenen Situationen verwendet wird, um Zustimmung oder Zufriedenheit auszudrücken.</p>
+  <ul>
+    <li>Es wird benutzt, um Lob oder Anerkennung auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>よし</u>。見事[みごと]だ。</div>
+      <div class="de spoiler">Gut gemacht. Ausgezeichnet!</div>
+    </div>
+    <li>Es kann auch verwendet werden, um Einverständnis oder eine Entscheidung zu signalisieren:</li>
+    <div class="examples">
+      <div class="jp"><u>よし</u>、ひとまず 退却[たいきゃく]して、もう 一度[いちど]やり 直[なお]そう。</div>
+      <div class="de spoiler">Na, gut. Ziehen wir uns für den Augenblick zurück und versuchen wir's dann noch einmal!</div>
+    </div>
+    <li>Es wird oft am Anfang eines Satzes verwendet, um eine Entscheidung oder einen Entschluss einzuleiten:</li>
+    <div class="examples">
+      <div class="jp"><u>よし</u>、 指切[ゆびき]りしよう。</div>
+      <div class="de spoiler">Gut! Wir wollen uns die Hand darauf geben.</div>
+    </div>
+  </ul>
+  <p>よし kann je nach Kontext und Betonung verschiedene Nuancen haben, von enthusiastischer Zustimmung bis hin zu resignierter Akzeptanz.</p>
+  </p>

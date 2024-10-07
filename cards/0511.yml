@@ -102,4 +102,30 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>のに wird verwendet, um einen Gegensatz oder eine unerwartete Situation auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet "obwohl" oder "trotz" und zeigt einen Widerspruch zwischen zwei Aussagen:</li>
+    <div class="examples">
+      <div class="jp">春[はる]だという<u>のに</u>まだ 寒[さむ]さが 残[のこ]ってる。</div>
+      <div class="de spoiler">Obwohl es Frühling ist, ist es noch kalt.</div>
+      <div class="jp">ウィークデーだという<u>のに</u>、 相変[あいか]わらず 混[こ]んでいた。</div>
+      <div class="de spoiler">Obwohl es ein Wochentag war, war es wie immer voll.</div>
+    </div>
+    <li>Am Satzende drückt es Bedauern oder Verärgerung über einen unerfüllten Wunsch aus:</li>
+    <div class="examples">
+      <div class="jp">もっと 早[はや]く 来[く]ればよかった<u>のに</u>。</div>
+      <div class="de spoiler">Ich wünschte, du wärst früher gekommen.</div>
+      <div class="jp">電話[でんわ]をしておいてくれればよかった<u>のに</u>。</div>
+      <div class="de spoiler">Du hättest anrufen sollen.</div>
+    </div>
+    <li>Es kann auch Verwunderung oder Unverständnis ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">いつも、 必[かなら]ず、 一緒[いっしょ]だった<u>のに</u>。</div>
+      <div class="de spoiler">Dabei waren sie doch immer zusammen!</div>
+      <div class="jp">衛星[えいせい]ロケットが 月[つき]の 世界[せかい]にも 飛[と]んだと 言[い]う<u>のに</u>。</div>
+      <div class="de spoiler">Wo es doch Raketen gibt, die zum Mond fliegen!</div>
+    </div>
+  </ul>
+  <p>のに wird an die Attributivform des Verbs angeschlossen. Bei der Kopula だ kann es auch an die Finalform angehängt werden.</p>
+  </p>

@@ -102,4 +102,55 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>訳 hat mehrere Verwendungen als Nomen und als Formalnomen:</p>
+  <h3>Als Nomen (訳[わけ])</h3>
+  <ul>
+    <li>Bedeutet "Grund", "Ursache" oder "Umstände"</li>
+    <div class="examples">
+      <div class="jp">それには いろいろと<u>わけ</u>があるんだよ。</div>
+      <div class="de spoiler">Es gibt dafür verschiedene Gründe.</div>
+    </div>
+    <li>Kann auch "Sinn", "Logik" oder "Bedeutung" ausdrücken</li>
+    <div class="examples">
+      <div class="jp">いったい 何[なに]が 起[お]きたのか<u>訳[わけ]</u>がわからない。</div>
+      <div class="de spoiler">Ich verstehe überhaupt nicht, was passiert ist.</div>
+    </div>
+  </ul>
+  <h3>Als Formalnomen</h3>
+  <ul>
+    <li><span class="jp">～<u>わけ</u>だ</span>: Drückt eine Schlussfolgerung oder Zusammenfassung aus</li>
+    <div class="examples">
+      <div class="jp">そうして 私[わたし]は 大学[だいがく]へ 進[すす]んだ<u>わけ</u>である。</div>
+      <div class="de spoiler">So trat ich also in die Hochschule ein.</div>
+    </div>
+    <li><span class="jp">～<u>わけ</u>ではない</span>: Verneint eine Annahme oder Vermutung</li>
+    <div class="examples">
+      <div class="jp">もちろん、それで 問題[もんだい]が 消[き]える<u>わけ</u>ではない。</div>
+      <div class="de spoiler">Natürlich verschwindet das Problem damit nicht einfach.</div>
+    </div>
+    <li><span class="jp">～<u>わけ</u>がない</span>: Drückt aus, dass etwas unwahrscheinlich oder unmöglich ist</li>
+    <div class="examples">
+      <div class="jp">この 位[くらい]の 事[こと]で 君子[くんし]の 挙動[きょどう]の 変化[へんか]する<u>わけ</u>がない。</div>
+      <div class="de spoiler">Es ist unwahrscheinlich, dass sich das Verhalten der Herrschaften wegen so einer Kleinigkeit ändert.</div>
+    </div>
+    <li><span class="jp">～<u>わけ</u>にはいかない</span>: Zeigt an, dass etwas nicht möglich oder nicht erlaubt ist</li>
+    <div class="examples">
+      <div class="jp">人間[にんげん]じゃ、ぶっ 殺[ころ]す<u>わけ</u>にもいかねえけどさ。</div>
+      <div class="de spoiler">Menschen kann man ja nicht einfach so töten.</div>
+    </div>
+    <li><span class="jp">ない<u>わけ</u>ではない</span>: Relativiert eine Verneinung ("Es ist nicht so, dass ... nicht")</li>
+    <div class="examples">
+      <div class="jp">これまでに 転職[てんしょく]も 考[かんが]えなかった<u>わけ</u>ではない。</div>
+      <div class="de spoiler">Es ist nicht so, dass ich noch nie an einen Jobwechsel gedacht hätte.</div>
+    </div>
+  </ul>
+  <h3>Idiomatische Ausdrücke</h3>
+  <ul>
+    <li><span class="jp"><u>わけ</u>が 違[ちが]う</span>: Drückt aus, dass etwas völlig anders oder nicht vergleichbar ist</li>
+    <div class="examples">
+      <div class="jp">我々[われわれ]は 我々[われわれ]だけの 力[ちから]でここまでやってきたんじゃないか。その 辺[へん]の 連中[れんちゅう]とは<u>わけ</u>が 違[ちが]うんだ。</div>
+      <div class="de spoiler">Haben wir es nicht aus eigener Kraft so weit gebracht? Wir sind anders als die anderen Leute.</div>
+    </div>
+  </ul>
+  </p>

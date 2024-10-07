@@ -115,26 +115,52 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-
-  <p>
-    Kennzeichnet das Subjekt eines Satzes.
-  </p>
-  <div class="examples">
-    <div class="jp">猫[ねこ]<u>が</u> 好[す]きだ。</div>
-    <div class="de spoiler">Ich mag Katzen.</div>
-  </div>
-
-  <p>
-    Verbindet zwei Sätze adversativ.
-  </p>
-  <div class="examples">
-    <div class="jp">雨[あめ]が 降[ふ]る<u>が</u>、出[で]かける。</div>
-    <div class="de spoiler">Es regnet, aber ich gehe trotzdem aus.</div>
-  </div>
-
-  <p>
-    Drückt Unabhängigkeit von einem Ereignis aus.
-  </p>
-  <div class="examples">
-    <div class="jp">誰[だれ]が 来[く]よう<u>が</u>、待[ま]つ。</div>
-    <div class="de spoiler">Wer auch immer kommt, ich werde warten.</div>
-  </div>
+  <p>が wird hauptsächlich für zwei Zwecke verwendet: als Subjektpartikel und als Verbindungswort.</p>
+  <h3>1. Als Subjektpartikel</h3>
+  <p>が markiert das Subjekt eines Satzes, ähnlich wie は, aber mit einigen wichtigen Unterschieden:</p>
+  <ul>
+    <li>Es wird oft für neue oder unbekannte Informationen verwendet.</li>
+    <div class="examples">
+      <div class="jp">外[そと]<u>が</u>かすかに 明[あか]るくなっている。</div>
+      <div class="de spoiler">Draußen ist es ein bisschen heller geworden.</div>
+    </div>
+    <li>Es wird häufig mit Verben des Könnens oder mit Adjektiven des Wünschens oder der Vorliebe verwendet.</li>
+    <div class="examples">
+      <div class="jp">窓[まど]から 海[うみ]<u>が</u> 見[み]える。</div>
+      <div class="de spoiler">Man kann das Meer vom Fenster aus sehen.</div>
+    </div>
+  </ul>
+  <h3>2. Als Verbindungswort</h3>
+  <p>が kann auch als Konjunktion verwendet werden, um Sätze zu verbinden. Es hat verschiedene Bedeutungen:</p>
+  <ul>
+    <li>Adversativ (aber, jedoch)</li>
+    <div class="examples">
+      <div class="jp">雪[ゆき]<u>が</u>ちらつきはじめたように 思[おも]った<u>が</u>、 錯覚[さっかく]だったらしい。</div>
+      <div class="de spoiler">Ich dachte, es beginnt zu schneien, aber das war wohl eine Täuschung.</div>
+    </div>
+    <li>Aneinanderreihend (und, und dann)</li>
+    <div class="examples">
+      <div class="jp">本[ほん]のなかには 写真[しゃしん]<u>が</u> 挿入[そうにゅう]されていた<u>が</u>、 関心[かんしん]をとりわけ 惹[ひ]いたのはシヴァの 女神[めがみ]たちの 写真[しゃしん]だった。</div>
+      <div class="de spoiler">Das Buch enthielt eine Reihe von Fotos, und die Abbildungen von Göttinnen, die mit Shiva in Verbindung standen, interessierten besonders.</div>
+    </div>
+  </ul>
+  <h3>3. Weitere Verwendungen</h3>
+  <ul>
+    <li>Zur Bildung von Konzessivsätzen (egal ob...)</li>
+    <div class="examples">
+      <div class="jp">君[きみ]<u>が</u>どこに 移[うつ]ろう<u>が</u>、 何[なに]をはじめよう<u>が</u>、ぼくの 友情[ゆうじょう]に 変[か]わりはないよ。</div>
+      <div class="de spoiler">Wo auch immer du hingehst, was auch immer du anfängst, meine Freundschaft zu dir wird sich nicht ändern.</div>
+    </div>
+    <li>In der Form ...がいい zur Empfehlung oder Erlaubnis</li>
+    <div class="examples">
+      <div class="jp">ゆっくり 話[はな]す<u>がいい</u>。</div>
+      <div class="de spoiler">Ihr solltet in Ruhe reden.</div>
+    </div>
+    <li>Nach Ausdrücken des Wunsches</li>
+    <div class="examples">
+      <div class="jp">できれば、 今日[きょう]からでもはじめたいのだ<u>が</u>。</div>
+      <div class="de spoiler">Wenn möglich, würde ich gerne schon heute damit anfangen.</div>
+    </div>
+  </ul>
+  <p>が ist ein vielseitiges Partikel mit vielen Nuancen. Die genaue Bedeutung hängt oft vom Kontext ab.</p>
+  <p></p>

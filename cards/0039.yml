@@ -106,4 +106,47 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そう wird verwendet, um Vermutungen oder den Anschein von etwas auszudrücken.</p>
+
+  <ul>
+    <li>Es wird an die Konjunktionalform von Verben oder den Stamm von Adjektiven angehängt:</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]が 降[ふ]り<u>そう</u>です。</div>
+      <div class="de spoiler">Es sieht aus, als würde es regnen.</div>
+      <div class="jp">この 料理[りょうり]は 美味[おい]し<u>そう</u>です。</div>
+      <div class="de spoiler">Dieses Gericht sieht lecker aus.</div>
+    </div>
+
+    <li>Bei Verneinungen und dem Adjektiv いい wird さ zwischengeschaltet:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 来[こ]な<u>さそう</u>です。</div>
+      <div class="de spoiler">Es sieht so aus, als würde er nicht kommen.</div>
+      <div class="jp">この 映画[えいが]は 面白[おもしろ]<u>そう</u>だけど、つまらな<u>さそう</u>な 人[ひと]も 多[おお]いです。</div>
+      <div class="de spoiler">Dieser Film scheint interessant zu sein, aber es gibt auch viele Leute, denen er langweilig erscheint.</div>
+    </div>
+
+    <li>Es kann auch eine bevorstehende Handlung andeuten:</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]が 降[ふ]り<u>そう</u>な 空[そら]です。</div>
+      <div class="de spoiler">Der Himmel sieht so aus, als würde es gleich regnen.</div>
+    </div>
+
+    <li>In der Form ～<u>そう</u>なものだ drückt es eine Erwartung aus:</li>
+    <div class="examples">
+      <div class="jp">もう 大人[おとな]なんだから、自分[じぶん]で 決[き]められ<u>そう</u>なものだ。</div>
+      <div class="de spoiler">Da du jetzt erwachsen bist, solltest du eigentlich selbst entscheiden können.</div>
+    </div>
+  </ul>
+
+  <p>そう kann auch verwendet werden, um Gerüchte oder Informationen aus zweiter Hand weiterzugeben:</p>
+
+  <ul>
+    <li>In diesem Fall wird es an die Finalform des Verbs angehängt:</li>
+    <div class="examples">
+      <div class="jp">明日[あした]は 雨[あめ]が 降[ふ]る<u>そう</u>です。</div>
+      <div class="de spoiler">Es heißt, dass es morgen regnen wird.</div>
+      <div class="jp">彼[かれ]は 海外[かいがい]に 引[ひ]っ 越[こ]した<u>そう</u>だ。</div>
+      <div class="de spoiler">Ich habe gehört, dass er ins Ausland gezogen ist.</div>
+    </div>
+  </ul>

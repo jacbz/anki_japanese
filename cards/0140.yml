@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>でも hat mehrere Funktionen:</p>
+  <ul>
+    <li>Als Konjunktion bedeutet es "aber", "doch", "jedoch":</li>
+    <div class="examples">
+      <div class="jp"><u>でも</u>ね、結局[けっきょく]のところ 私[わたし]はいろんな 人[ひと]を 知[し]りたいのかもしれない。</div>
+      <div class="de spoiler">Aber ich will vielleicht doch viele verschiedene Leute kennenlernen.</div>
+    </div>
+    <li>Als Postposition kann es "auch", "selbst" oder "sogar" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">子供[こども]<u>でも</u> 容赦[ようしゃ]なく 殴[なぐ]られた。</div>
+      <div class="de spoiler">Selbst Kinder wurden gnadenlos geschlagen.</div>
+    </div>
+    <li>Es kann "schon" oder "auch nur" ausdrücken, oft nach Ausdrücken kleiner Mengen oder kurzer Zeit:</li>
+    <div class="examples">
+      <div class="jp">体[からだ]を 少[すこ]し<u>でも</u> 動[うご]かすと、 激痛[げきつう]が 走[はし]るらしく、かすかな 呻[うめ]き 声[ごえ]をたてた。</div>
+      <div class="de spoiler">Sie stöhnte leise, da sie offenbar schon bei der kleinsten Bewegung starke Schmerzen hatte.</div>
+    </div>
+    <li>Nach Fragewörtern bedeutet es "auch immer" oder "egal":</li>
+    <div class="examples">
+      <div class="jp">要[よう]するに 本[ほん]さえあれば なん<u>でも</u>いいのだ。</div>
+      <div class="de spoiler">Kurz gesagt, alles ist gut, Hauptsache es ist ein Buch.</div>
+    </div>
+    <li>In Aufzählungen kann es "und", "sowohl ... als auch" oder "oder" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">雲[くも]に<u>でも</u>、壁[かべ]に<u>でも</u>、テレビの 画面[がめん]に<u>でも</u>、どんなものにだって、これで 書[か]ける。</div>
+      <div class="de spoiler">Damit kann ich auf alles schreiben, sei es auf Wolken, Wände oder Bildschirme.</div>
+    </div>
+    <li>Es kann auch für Beispiele oder Vorschläge verwendet werden, ähnlich wie "zum Beispiel" oder "vielleicht":</li>
+    <div class="examples">
+      <div class="jp">コーヒー<u>でも</u> 飲[の]まないか？</div>
+      <div class="de spoiler">Möchtest du vielleicht einen Kaffee trinken?</div>
+    </div>
+  </ul>
+  </p>

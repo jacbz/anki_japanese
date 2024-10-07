@@ -2,24 +2,120 @@ Rang: 2050
 Lemma: 耐える
 Lesung: たえる
 Tonhöhen: /\.
-Definition: aushalten, ertragen, erdulden
-Alternativschreibweisen: ''
+Definition: ertragen; standhalten
+Alternativschreibweisen: 堪える
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 耐えない・耐えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女と別れるなんて耐えられない。
   彼女[かのじょ]と 別[わか]れるなんて 耐[た]えられない。
-  Ich kann es nicht ertragen, sie zu verlieren.
+  Ich kann es nicht ertragen, mich von ihr zu trennen.
+
+  苦痛に耐えながら、リハビリを続けています。
+  苦痛[くつう]に 耐[た]えながら、リハビリを 続[つづ]けています。
+  Ich setze die Rehabilitation fort, während ich die Schmerzen ertrage.
+
+  この材料は高温に耐えられるので、安心して使えます。
+  この 材料[ざいりょう]は 高温[こうおん]に 耐[た]えられるので、安心[あんしん]して 使[つか]えます。
+  Dieses Material ist hitzebeständig, also können wir es bedenkenlos verwenden.
+
+  彼は困難に耐え、最後まであきらめませんでした。
+  彼[かれ]は 困難[こんなん]に 耐[た]え、最後[さいご]まであきらめませんでした。
+  Er hielt den Schwierigkeiten stand und gab bis zum Schluss nicht auf.
+
+  この靴は長時間の歩行に耐えられる丈夫な作りです。
+  この 靴[くつ]は 長時間[ちょうじかん]の 歩行[ほこう]に 耐[た]えられる 丈夫[じょうぶ]な 作[つく]りです。
+  Diese Schuhe sind robust genug, um längere Gehstrecken auszuhalten.
+
+  彼女は厳しい批判に耐え、自分の信念を貫きました。
+  彼女[かのじょ]は 厳[きび]しい 批判[ひはん]に 耐[た]え、自分[じぶん]の 信念[しんねん]を 貫[つらぬ]きました。
+  Sie hielt der harten Kritik stand und blieb ihren Überzeugungen treu.
+
+  この建物は地震に耐えられるよう設計されています。
+  この 建物[たてもの]は 地震[じしん]に 耐[た]えられるよう 設計[せっけい]されています。
+  Dieses Gebäude wurde so konstruiert, dass es Erdbeben standhält.
+
+  長い会議に耐えるのは本当に大変です。
+  長[なが]い 会議[かいぎ]に 耐[た]えるのは 本当[ほんとう]に 大変[たいへん]です。
+  Es ist wirklich schwierig, lange Besprechungen auszuhalten.
+
+  彼は厳しい訓練に耐え、一流のアスリートになりました。
+  彼[かれ]は 厳[きび]しい 訓練[くんれん]に 耐[た]え、一流[いちりゅう]のアスリートになりました。
+  Er hielt dem harten Training stand und wurde ein Spitzenathlet.
+
+  この製品は過酷な使用条件に耐えられるよう設計されています。
+  この 製品[せいひん]は 過酷[かこく]な 使用[しよう]条件[じょうけん]に 耐[た]えられるよう 設計[せっけい]されています。
+  Dieses Produkt wurde entwickelt, um extremen Nutzungsbedingungen standzuhalten.
+
+  彼女は悲しみに耐え、前を向いて生きていくことにしました。
+  彼女[かのじょ]は 悲[かな]しみに 耐[た]え、前[まえ]を 向[む]いて 生[い]きていくことにしました。
+  Sie ertrug den Kummer und beschloss, nach vorne zu schauen und weiterzuleben.
+
+  この布地は摩擦に耐える強度があります。
+  この 布地[ぬのじ]は 摩擦[まさつ]に 耐[た]える 強度[きょうど]があります。
+  Dieser Stoff hat eine Festigkeit, die Reibung standhält.
+
+  彼は批判に耐えられず、すぐに反論してしまいました。
+  彼[かれ]は 批判[ひはん]に 耐[た]えられず、すぐに 反論[はんろん]してしまいました。
+  Er konnte die Kritik nicht ertragen und widersprach sofort.
+
+  この靴は長時間の立ち仕事に耐えられますか？
+  この 靴[くつ]は 長時間[ちょうじかん]の 立[た]ち 仕事[しごと]に 耐[た]えられますか？
+  Können diese Schuhe langes Stehen bei der Arbeit aushalten?
+
+  彼女は厳しい寒さに耐え、登山を続けました。
+  彼女[かのじょ]は 厳[きび]しい 寒[さむ]さに 耐[た]え、登山[とざん]を 続[つづ]けました。
+  Sie hielt der strengen Kälte stand und setzte ihre Bergbesteigung fort.
+
+  この機械は長時間の連続運転に耐えられる設計です。
+  この 機械[きかい]は 長時間[ちょうじかん]の 連続[れんぞく]運転[うんてん]に 耐[た]えられる 設計[せっけい]です。
+  Diese Maschine ist so konzipiert, dass sie einem langen Dauerbetrieb standhält.
+
+  彼は苦しい状況に耐え、最後まで諦めませんでした。
+  彼[かれ]は 苦[くる]しい 状況[じょうきょう]に 耐[た]え、最後[さいご]まで 諦[あきら]めませんでした。
+  Er hielt der schwierigen Situation stand und gab bis zum Schluss nicht auf.
+
+  この素材は紫外線に耐える性質があります。
+  この 素材[そざい]は 紫外線[しがいせん]に 耐[た]える 性質[せいしつ]があります。
+  Dieses Material hat die Eigenschaft, UV-Strahlen standzuhalten.
+
+  彼女は長時間の立ち仕事に耐えられる体力があります。
+  彼女[かのじょ]は 長時間[ちょうじかん]の 立[た]ち 仕事[しごと]に 耐[た]えられる 体力[たいりょく]があります。
+  Sie hat die körperliche Ausdauer, um lange stehende Arbeit auszuhalten.
+
+  この橋は強風に耐えられるよう設計されています。
+  この 橋[はし]は 強風[きょうふう]に 耐[た]えられるよう 設計[せっけい]されています。
+  Diese Brücke wurde so konstruiert, dass sie starken Winden standhält.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 耐える (たえる) wird verwendet, um auszudrücken, dass jemand oder etwas etwas Schwieriges oder Unangenehmes erträgt, aushält oder dem standhält. Es kann sowohl für physische als auch für emotionale Belastungen verwendet werden.</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]は 苦痛[くつう]に 耐[た]えて 黙[だま]っていた。</div>
+    <div class='de spoiler'>Er ertrug den Schmerz schweigend.</div>
+  </div>
+  <p>Es wird oft mit der Partikel に verwendet, um das zu bezeichnen, was ertragen wird:</p>
+  <div class='examples'>
+    <div class='jp'>寒[さむ]さに 耐[た]える</div>
+    <div class='de spoiler'>der Kälte trotzen</div>
+  </div>
+  <p>In der Negativ-Form (耐えられない - たえられない) bedeutet es 'unerträglich' oder 'nicht aushalten können':</p>
+  <div class='examples'>
+    <div class='jp'>この 騒音[そうおん]は 耐[た]えられない。</div>
+    <div class='de spoiler'>Dieser Lärm ist unerträglich.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um die Fähigkeit von Materialien oder Objekten auszudrücken, bestimmten Bedingungen standzuhalten:</p>
+  <div class='examples'>
+    <div class='jp'>この 素材[そざい]は 高温[こうおん]に 耐[た]える。</div>
+    <div class='de spoiler'>Dieses Material hält hohen Temperaturen stand.</div>
+  </div>

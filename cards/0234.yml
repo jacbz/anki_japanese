@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">見[み]える</span> ist ein intransitives Verb, das verschiedene Bedeutungen im Zusammenhang mit Sehen und Erscheinen hat.</p>
+  <ul>
+    <li>Etwas sehen können oder sichtbar sein:</li>
+    <div class="examples">
+      <div class="jp">窓[まど]から 海[うみ]が<u>見える</u>。</div>
+      <div class="de spoiler">Man kann das Meer vom Fenster aus sehen.</div>
+    </div>
+    <li>Erscheinen oder sichtbar werden:</li>
+    <div class="examples">
+      <div class="jp">叔父[おじ]の 姿[すがた]が<u>見えなく</u>なるまで 犬[いぬ]が 吠[ほ]えた。</div>
+      <div class="de spoiler">Die Hunde bellten, bis der Onkel außer Sicht war.</div>
+    </div>
+    <li>Aussehen oder den Anschein haben:</li>
+    <div class="examples">
+      <div class="jp">年[とし]をとって<u>いるように</u>は<u>見えない</u>けど、 二十代後半[にじゅうだいこうはん]かもしれない。</div>
+      <div class="de spoiler">Sie sieht nicht besonders alt aus, könnte aber Ende zwanzig sein.</div>
+    </div>
+    <li>In höflicher Sprache für "kommen" verwendet:</li>
+    <div class="examples">
+      <div class="jp">社長[しゃちょう]、禿富[とくとみ]さんが<u>見えました</u>。</div>
+      <div class="de spoiler">Chef, Herr Tokutomi ist da!</div>
+    </div>
+  </ul>
+  <p>Beachten Sie die verschiedenen Konjugationsformen:</p>
+  <ul>
+    <li>Verneinung: <span class="jp"><u>見え</u>ない</span></li>
+    <li>Vergangenheit: <span class="jp"><u>見え</u>た</span></li>
+  </ul>
+  <p><span class="jp">見[み]える</span> wird oft mit anderen Wörtern kombiniert, um spezifische Ausdrücke zu bilden:</p>
+  <div class="examples">
+    <div class="jp">話[はなし]が<u>見えない</u></div>
+    <div class="de spoiler">Die Situation nicht verstehen können (wörtlich: Die Geschichte nicht sehen können)</div>
+  </div>
+  <div class="examples">
+    <div class="jp">手[て]が<u>見える</u></div>
+    <div class="de spoiler">Jemandes Absichten durchschauen (wörtlich: Die Hand sehen können)</div>
+  </div>
+  </p>

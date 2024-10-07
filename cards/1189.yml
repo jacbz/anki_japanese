@@ -98,4 +98,35 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>第二[だいに] wird verwendet, um die zweite Position oder Reihenfolge auszudrücken.</p>
+  <ul>
+    <li>Es kann als Nomen oder Präfix verwendet werden:</li>
+    <div class="examples">
+      <div class="jp"><u>第二</u>の 写真[しゃしん]</div>
+      <div class="de spoiler">Das zweite Foto</div>
+    </div>
+    <li>Es kann auch adverbial verwendet werden, oft mit に:</li>
+    <div class="examples">
+      <div class="jp"><u>第二</u>に</div>
+      <div class="de spoiler">Zweitens</div>
+    </div>
+    <li>In Zusammensetzungen drückt es oft "sekundär" oder "Neben-" aus:</li>
+    <div class="examples">
+      <div class="jp"><u>第二</u>言語[げんご]</div>
+      <div class="de spoiler">Zweitsprache</div>
+      <div class="jp"><u>第二</u>アクセント</div>
+      <div class="de spoiler">Nebenakzent</div>
+    </div>
+    <li>Mit の kann es attributiv verwendet werden:</li>
+    <div class="examples">
+      <div class="jp"><u>第二</u>の 出会[であ]い</div>
+      <div class="de spoiler">Zweite Begegnung</div>
+    </div>
+    <li>In der Chemie wird es als Präfix verwendet, um "zweiwertig" oder "sekundär" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>第二</u>アルコール</div>
+      <div class="de spoiler">Sekundärer Alkohol</div>
+    </div>
+  </ul>
+  </p>

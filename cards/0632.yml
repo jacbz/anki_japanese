@@ -102,4 +102,24 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>さえ ist eine Partikel, die eine Betonung oder Verstärkung ausdrückt.</p>
+  <ul>
+    <li>Es bedeutet "sogar" oder "selbst" und drückt aus, dass etwas überraschend oder unerwartet ist:</li>
+    <div class="examples">
+      <div class="jp">茶坊主[ちゃぼうず]のあいだで<u>さえ</u> 常識[じょうしき]として 行[おこな]われていた。</div>
+      <div class="de spoiler">Selbst unter den Teedienern war es eine gewöhnliche Ansicht.</div>
+    </div>
+    <li>Mit einer Verneinung bedeutet es "nicht einmal":</li>
+    <div class="examples">
+      <div class="jp">父[ちち]が 日本人[にほんじん]であったと<u>さえ</u> 公式[こうしき]には 認[みと]めていない。</div>
+      <div class="de spoiler">Es wurde nicht einmal offiziell anerkannt, dass sein Vater Japaner war.</div>
+    </div>
+  </ul>
+  <p>In Bedingungssätzen bedeutet さえ "nur" oder "wenn nur" und drückt aus, dass etwas eine ausreichende Bedingung ist:</p>
+  <div class="examples">
+    <div class="jp">穴[あな]が 開[あ]いてい<u>さえ</u>しなければ、けっこうである。</div>
+    <div class="de spoiler">Wenn sie nur keine Löcher haben, sind sie in Ordnung.</div>
+    <div class="jp">出[で]てあるき<u>さえ</u>すれば 必[かなら]ず 誰[だれ]かに 逢[あ]う。</div>
+    <div class="de spoiler">Man muss nur spazieren gehen, dann trifft man auf jeden Fall jemanden.</div>
+  </div>

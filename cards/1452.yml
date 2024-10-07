@@ -98,4 +98,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>金 hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Es bedeutet "Gold" als chemisches Element.</li>
+    <div class="examples">
+      <div class="jp">金[きん]の 指輪[ゆびわ]</div>
+      <div class="de spoiler">Ein goldener Ring</div>
+    </div>
+    <li>Es kann als Präfix verwendet werden, um auf Gold bezogene Konzepte zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp">金[きん]市場[しじょう]</div>
+      <div class="de spoiler">Goldmarkt</div>
+      <div class="jp">金[きん]相場[そうば]</div>
+      <div class="de spoiler">Goldpreis</div>
+    </div>
+    <li>Es wird in verschiedenen Verbphrasen verwendet:</li>
+    <div class="examples">
+      <div class="jp">金[きん]を 塗[ぬ]る</div>
+      <div class="de spoiler">vergolden</div>
+      <div class="jp">金[きん]を 掘[ほ]る</div>
+      <div class="de spoiler">Gold abbauen, nach Gold graben</div>
+    </div>
+    <li>Es kann als Abkürzung für verschiedene goldbezogene Begriffe stehen:</li>
+    <div class="examples">
+      <div class="jp">金色[きんいろ]</div>
+      <div class="de spoiler">goldene Farbe</div>
+      <div class="jp">金曜日[きんようび]</div>
+      <div class="de spoiler">Freitag</div>
+    </div>
+    <li>Als Suffix wird es verwendet, um Karat bei Gold anzugeben:</li>
+    <div class="examples">
+      <div class="jp">十八<u>金</u>[じゅうはちきん]</div>
+      <div class="de spoiler">18-karätiges Gold</div>
+    </div>
+  </ul>
+  <p>Es gibt auch ein bekanntes Sprichwort mit 金:</p>
+  <div class="examples">
+    <div class="jp">沈黙[ちんもく]<u>は</u>金[きん]、雄弁[ゆうべん]<u>は</u>銀[ぎん]</div>
+    <div class="de spoiler">Reden ist Silber, Schweigen ist Gold.</div>
+  </div>
+  </p>

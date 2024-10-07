@@ -106,4 +106,19 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">この</span> ist ein Demonstrativpronomen, das verwendet wird, um auf etwas Nahes oder gerade Erwähntes zu verweisen.</p>
+  <ul>
+    <li>Es bedeutet "dieser/diese/dieses" und wird vor Substantiven verwendet.</li>
+    <div class="examples">
+      <div class="jp"><u>この</u> 島[しま]で<u>この</u> お酒[さけ]に 出会[であ]えて、本当[ほんとう]に 嬉[うれ]しかった。</div>
+      <div class="de spoiler">Es ist uns wirklich eine Freude, auf dieser Insel auf dieses Getränk gestoßen zu sein.</div>
+    </div>
+    <li>Es kann auch in idiomatischen Ausdrücken verwendet werden:</li>
+    <div class="examples">
+      <div class="jp"><u>この</u> 親[おや]にして<u>この</u> 子[こ]あり</div>
+      <div class="de spoiler">Wie der Vater, so der Sohn. / Der Apfel fällt nicht weit vom Stamm.</div>
+    </div>
+  </ul>
+  <p><span class="jp">この</span> wird oft mit anderen Demonstrativpronomen wie <span class="jp">その</span> (jener) und <span class="jp">あの</span> (jener dort) kontrastiert, um verschiedene Grade der Nähe oder Vertrautheit auszudrücken.</p>
+  </p>

@@ -2,8 +2,8 @@ Rang: 3852
 Lemma: いいえ
 Lesung: ''
 Tonhöhen: /^\
-Definition: nein
-Alternativschreibweisen: ''
+Definition: nein; doch
+Alternativschreibweisen: 否
 Extra: '' # Nur bei suru-Verben
 Wortart: interj
 Register: ''
@@ -17,9 +17,120 @@ Beispielsätze: |-
   「コーヒーは 如何[いかが]ですか」<br>「いいえ、 結構[けっこう]です」
   „Möchten Sie etwas Kaffee?“<br>„Nein, danke.“
 
+  「コーヒーはいかがですか」「いいえ、けっこうです」
+  「コーヒーはいかがですか」「いいえ、けっこうです」
+  "Möchten Sie einen Kaffee?" "Nein, danke."
+
+  「今日、ホテルは満室ですか」「いいえ。お客さんはたった三組です」
+  「今日[きょう]、ホテルは 満室[まんしつ]ですか」「いいえ。お 客[きゃく]さんはたった 三組[さんくみ]です」
+  "Ist Ihr Hotel heute ausgebucht?" "Nein, nur drei Zimmer sind belegt."
+
+  「英語でですか」「いいえ、日本語で」
+  「英語[えいご]でですか」「いいえ、日本語[にほんご]で」
+  "In Englisch?" "Nein, in Japanisch!"
+
+  「頭が痛いことありませんか」「いいえ、ちょっとも痛みません」
+  「頭[あたま]が 痛[いた]いことありませんか」「いいえ、ちょっとも 痛[いた]みません」
+  "Verspürst du kein Kopfweh?" "Nein, überhaupt nicht."
+
+  「ごめんなさい」と言った。女は「いいえ」と答えた。
+  「ごめんなさい」と 言[い]った。女[おんな]は「いいえ」と 答[こた]えた。
+  "Das tut mir aber furchtbar leid", sagte er. "Aber nein", antwortete die Frau.
+
+  身体の具合が悪いそうですね。いいえ、大丈夫です。
+  身体[からだ]の 具合[ぐあい]が 悪[わる]いそうですね。いいえ、大丈夫[だいじょうぶ]です。
+  Dir ist nicht gut? - Doch, doch. Es geht schon.
+
+  いいえと言わせないように、上司は部下を説得した。
+  いいえと 言[い]わせないように、上司[じょうし]は 部下[ぶか]を 説得[せっとく]した。
+  Der Vorgesetzte überzeugte seinen Untergebenen, um kein Nein zu erlauben.
+
+  「この商品に興味はありますか」「いいえ、別のものを探しています」
+  「この 商品[しょうひん]に 興味[きょうみ]はありますか」「いいえ、別[べつ]のものを 探[さが]しています」
+  "Interessieren Sie sich für dieses Produkt?" "Nein, ich suche nach etwas anderem."
+
+  「もう疲れましたか」「いいえ、まだ大丈夫です」
+  「もう 疲[つか]れましたか」「いいえ、まだ 大丈夫[だいじょうぶ]です」
+  "Bist du schon müde?" "Nein, es geht noch."
+
+  「このレストラン、予約は必要ですか」「いいえ、Walk-inで大丈夫です」
+  「このレストラン、予約[よやく]は 必要[ひつよう]ですか」「いいえ、Walk-inで 大丈夫[だいじょうぶ]です」
+  "Braucht man für dieses Restaurant eine Reservierung?" "Nein, man kann auch ohne Reservierung kommen."
+
+  「お待たせしました」「いいえ、大丈夫です」
+  「お 待[ま]たせしました」「いいえ、大丈夫[だいじょうぶ]です」
+  "Entschuldigen Sie die Wartezeit." "Keine Ursache, das ist in Ordnung."
+
+  「この本、面白くないですか」「いいえ、とても興味深いです」
+  「この 本[ほん]、面白[おもしろ]くないですか」「いいえ、とても 興味深[きょうみぶか]いです」
+  "Findest du dieses Buch nicht interessant?" "Doch, es ist sehr fesselnd."
+
+  「私の説明、わかりにくかったですか」「いいえ、よく理解できました」
+  「私[わたし]の 説明[せつめい]、わかりにくかったですか」「いいえ、よく 理解[りかい]できました」
+  "War meine Erklärung schwer zu verstehen?" "Nein, ich konnte es gut verstehen."
+
+  「遅刻してすみません」「いいえ、問題ありません」
+  「遅刻[ちこく]してすみません」「いいえ、問題[もんだい]ありません」
+  "Entschuldigung für meine Verspätung." "Kein Problem, das macht nichts."
+
+  「私の意見は間違っていますか」「いいえ、正しいと思います」
+  「私[わたし]の 意見[いけん]は 間違[まちが]っていますか」「いいえ、正[ただ]しいと 思[おも]います」
+  "Ist meine Meinung falsch?" "Nein, ich denke, sie ist richtig."
+
+  「これ以上質問はありませんか」「いいえ、まだあります」
+  「これ 以上[いじょう] 質問[しつもん]はありませんか」「いいえ、まだあります」
+  "Haben Sie keine weiteren Fragen mehr?" "Doch, ich habe noch welche."
+
+  「日本語が上手じゃないですね」「いいえ、まだまだ勉強中です」
+  「日本語[にほんご]が 上手[じょうず]じゃないですね」「いいえ、まだまだ 勉強中[べんきょうちゅう]です」
+  "Du sprichst nicht gut Japanisch, oder?" "Doch, ich lerne noch fleißig."
+
+  「この仕事、難しくないですか」「いいえ、挑戦しがいがあります」
+  「この 仕事[しごと]、難[むずか]しくないですか」「いいえ、挑戦[ちょうせん]しがいがあります」
+  "Ist diese Arbeit nicht schwierig?" "Nein, sie ist eine lohnenswerte Herausforderung."
+
+  「もう帰りますか」「いいえ、もう少し残ります」
+  「もう 帰[かえ]りますか」「いいえ、もう 少[すこ]し 残[のこ]ります」
+  "Gehst du schon nach Hause?" "Nein, ich bleibe noch ein bisschen."
+
+  「お礼を言わせてください」「いいえ、そんな」
+  「お 礼[れい]を 言[い]わせてください」「いいえ、そんな」
+  "Lassen Sie mich Ihnen danken." "Aber nein, das ist doch nicht nötig."
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いいえ ist die höfliche Form von "nein" und wird in verschiedenen Situationen verwendet:</p>
+  <ul>
+    <li>Als verneinende Antwort auf eine Frage:</li>
+    <div class="examples">
+      <div class="jp">「今日[きょう]、ホテル<u>は</u> 満室[まんしつ]ですか」</div>
+      <div class="jp">「<u>いいえ</u>。お 客[きゃく]さんはたった 三[さん] 組[くみ]です」</div>
+      <div class="de spoiler">„Ist Ihr Hotel heute ausgebucht?"
+        „Nein, es sind nur drei Gruppen Gäste da."</div>
+    </div>
+    <li>Als höfliche Ablehnung:</li>
+    <div class="examples">
+      <div class="jp">「英語[えいご]でですか」</div>
+      <div class="jp">「<u>いいえ</u> 日本語[にほんご]で」</div>
+      <div class="de spoiler">„Auf Englisch?"
+        „Nein, auf Japanisch!"</div>
+    </div>
+    <li>Als „doch" bei negativen Fragen:</li>
+    <div class="examples">
+      <div class="jp">「 身体[からだ]の 具合[ぐあい]がわるいそうですね」</div>
+      <div class="jp">「<u>いいえ</u>、 大丈夫[だいじょうぶ]です」</div>
+      <div class="de spoiler">„Dir geht es wohl nicht gut?"
+        „Doch, doch, es geht schon."</div>
+    </div>
+    <li>Als höfliche Antwort auf eine Entschuldigung (im Sinne von „keine Ursache"):</li>
+    <div class="examples">
+      <div class="jp">「ごめんなさい」と 言[い]った。</div>
+      <div class="jp">女[おんな]は「<u>いいえ</u>」と 答[こた]えた。</div>
+      <div class="de spoiler">„Es tut mir leid", sagte er.
+        „Aber nein", antwortete die Frau.</div>
+    </div>
+  </ul>

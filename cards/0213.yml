@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>大[おお]きな ist ein Adjektiv, das "groß" bedeutet und nur attributiv verwendet wird (also vor einem Nomen).</p>
+
+  <ul>
+    <li>Es hat die gleiche Bedeutung wie 大[おお]きい, wird aber nur vor Nomen verwendet:</li>
+    <div class="examples">
+      <div class="jp">壁[かべ]に<u>大[おお]きな</u>油虫[あぶらむし]が 這[は]っています。</div>
+      <div class="de spoiler">An der Wand kriecht eine große Küchenschabe.</div>
+    </div>
+
+    <li>Häufig wird es verwendet, um die physische Größe zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp"><u>大[おお]きな</u>段[だん]ボール箱[ばこ]を 持[も]ちこんでいた。</div>
+      <div class="de spoiler">Er brachte einen großen Pappkarton herein.</div>
+    </div>
+
+    <li>Es kann auch die Lautstärke beschreiben:</li>
+    <div class="examples">
+      <div class="jp">突然[とつぜん]<u>大[おお]きな</u>声[こえ]で 叫[さけ]んだ。</div>
+      <div class="de spoiler">Plötzlich rief er mit lauter Stimme.</div>
+    </div>
+
+    <li>In der festen Wendung <span class="jp">大[おお]きな顔[かお]</span> bedeutet es "großspurig" oder "hochnäsig":</li>
+    <div class="examples">
+      <div class="jp">彼氏[かれし]にも、<u>大[おお]きな</u>顔[かお]が 出来[でき]る。</div>
+      <div class="de spoiler">Du kannst deinem Freund hocherhobenen Hauptes entgegentreten.</div>
+    </div>
+  </ul>

@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>として wird verwendet, um verschiedene Bedeutungen auszudrücken:</p>
+
+  <ul>
+    <li>Es bezeichnet die Eigenschaft oder Funktion von etwas oder jemandem.</li>
+    <div class="examples">
+      <div class="jp">チャールズ皇太子と故[こ]ダイアナ元妃[もとひ]との間[あいだ]に 長男[ちょうなん]<u>として</u> 生[う]まれた。</div>
+      <div class="de spoiler">Er wurde als erster Sohn von Prinz Charles und der verstorbenen Lady Diana geboren.</div>
+    </div>
+
+    <li>Es kann verwendet werden, um etwas als eine bestimmte Sache zu betrachten oder zu verstehen.</li>
+    <div class="examples">
+      <div class="jp">ドーナツの 穴[あな]を 空白[くうはく]<u>として</u> 捉[とら]える</div>
+      <div class="de spoiler">Das Loch in einem Doughnut als leeren Raum begreifen</div>
+    </div>
+
+    <li>Es kann auch bedeuten "abgesehen von" oder "... beiseite".</li>
+    <div class="examples">
+      <div class="jp">本職[ほんしょく]の 猿[さる]は 別物[べつもの]<u>として</u>、...</div>
+      <div class="de spoiler">Abgesehen von den professionellen Affen, ...</div>
+    </div>
+
+    <li>In Verbindung mit Ausdrücken wie 一人[ひとり] (eine Person) oder 一体[いったい] (ein Ganzes) und einer nachfolgenden Verneinung bedeutet es "nicht ein ...", "kein ...".</li>
+    <div class="examples">
+      <div class="jp">誰一人[だれひとり]<u>として</u> 本気[ほんき]で 信[しん]じているわけでもなかった。</div>
+      <div class="de spoiler">Niemand glaubte es wirklich.</div>
+      <div class="jp">彼[かれ]らの 誰一人[だれひとり]<u>として</u> 日本[にほん]がどこにあるか 知[し]っている 者[もの]はいなかった。</div>
+      <div class="de spoiler">Keiner von ihnen wusste, wo Japan lag.</div>
+    </div>
+  </ul>

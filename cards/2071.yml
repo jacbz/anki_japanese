@@ -2,10 +2,10 @@ Rang: 2071
 Lemma: 営業
 Lesung: えいぎょう
 Tonhöhen: /^^^^
-Definition: Geschäft, Verkauf
+Definition: Geschäft, Vertrieb
 Alternativschreibweisen: ''
 Extra: （する）
-Wortart: n, vi
+Wortart: n, vi, vt
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,107 @@ Konjugation: ''
 Beispielsätze: |-
   私は営業を担当しています。
   私[わたし]は 営業[えいぎょう]を 担当[たんとう]しています。
-  Ich bin für den Verkauf zuständig.
+  Ich bin für den Vertrieb zuständig.
+
+  この店は毎日営業日です。
+  この 店[みせ]は 毎日[まいにち] 営業日[えいぎょうび]です。
+  Dieses Geschäft hat jeden Tag geöffnet.
+
+  営業妨害で訴えられる可能性があります。
+  営業妨害[えいぎょうぼうがい]で 訴[うった]えられる 可能性[かのうせい]があります。
+  Es besteht die Möglichkeit, wegen Geschäftsschädigung verklagt zu werden.
+
+  最近の営業不振で会社の業績が悪化しています。
+  最近[さいきん]の 営業不振[えいぎょうふしん]で 会社[かいしゃ]の 業績[ぎょうせき]が 悪化[あっか]しています。
+  Aufgrund der jüngsten Geschäftsflaute verschlechtern sich die Unternehmensergebnisse.
+
+  営業秘密を漏らすことは違法です。
+  営業秘密[えいぎょうひみつ]を 漏[も]らすことは 違法[いほう]です。
+  Es ist illegal, Geschäftsgeheimnisse preiszugeben.
+
+  新しい営業戦略を立てる必要があります。
+  新[あたら]しい 営業戦略[えいぎょうせんりゃく]を 立[た]てる 必要[ひつよう]があります。
+  Wir müssen eine neue Geschäftsstrategie entwickeln.
+
+  彼は優秀な営業マンとして知られています。
+  彼[かれ]は 優秀[ゆうしゅう]な 営業[えいぎょう]マンとして 知[し]られています。
+  Er ist als ausgezeichneter Verkäufer bekannt.
+
+  営業所の場所を教えてください。
+  営業所[えいぎょうしょ]の 場所[ばしょ]を 教[おし]えてください。
+  Bitte teilen Sie mir den Standort Ihrer Geschäftsstelle mit.
+
+  営業収益が昨年より20%増加しました。
+  営業収益[えいぎょうしゅうえき]が 昨年[さくねん]より20% 増加[ぞうか]しました。
+  Die Betriebserträge sind im Vergleich zum Vorjahr um 20% gestiegen.
+
+  新しい営業所を東京に開設します。
+  新[あたら]しい 営業所[えいぎょうしょ]を 東京[とうきょう]に 開設[かいせつ]します。
+  Wir eröffnen eine neue Geschäftsstelle in Tokio.
+
+  営業時間は朝9時から夜8時までです。
+  営業時間[えいぎょうじかん]は 朝[あさ]9時[じ]から 夜[よる]8時[じ]までです。
+  Die Geschäftszeiten sind von 9 Uhr morgens bis 8 Uhr abends.
+
+  営業部門の責任者を探しています。
+  営業部門[えいぎょうぶもん]の 責任者[せきにんしゃ]を 探[さが]しています。
+  Wir suchen einen Leiter für die Vertriebsabteilung.
+
+  営業成績が良くて、ボーナスをもらえそうだ。
+  営業成績[えいぎょうせいせき]が 良[よ]くて、ボーナスをもらえそうだ。
+  Da die Geschäftsergebnisse gut sind, werde ich wahrscheinlich einen Bonus erhalten.
+
+  この店は24時間営業しています。
+  この 店[みせ]は24時間[じかん] 営業[えいぎょう]しています。
+  Dieses Geschäft ist rund um die Uhr geöffnet.
+
+  営業停止処分を受けた会社もあります。
+  営業停止[えいぎょうていし] 処分[しょぶん]を 受[う]けた 会社[かいしゃ]もあります。
+  Es gibt auch Unternehmen, die eine Anordnung zur Geschäftseinstellung erhalten haben.
+
+  新規顧客の営業に成功しました。
+  新規[しんき] 顧客[こきゃく]の 営業[えいぎょう]に 成功[せいこう]しました。
+  Ich war bei der Akquise eines neuen Kunden erfolgreich.
+
+  営業利益が前年比10%増加しました。
+  営業利益[えいぎょうりえき]が 前年[ぜんねん]比[ひ]10% 増加[ぞうか]しました。
+  Der Betriebsgewinn ist im Vergleich zum Vorjahr um 10% gestiegen.
+
+  彼は営業のプロフェッショナルだ。
+  彼[かれ]は 営業[えいぎょう]のプロフェッショナルだ。
+  Er ist ein Profi im Vertrieb.
+
+  営業部の会議は毎週月曜日に行われます。
+  営業部[えいぎょうぶ]の 会議[かいぎ]は 毎週[まいしゅう] 月曜日[げつようび]に 行[おこな]われます。
+  Die Besprechung der Vertriebsabteilung findet jeden Montag statt.
+
+  営業中の看板を店頭に掲げました。
+  営業中[えいぎょうちゅう]の 看板[かんばん]を 店頭[てんとう]に 掲[かか]げました。
+  Wir haben ein "Geöffnet"-Schild am Eingang des Geschäfts angebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">営業</span> kann sich auf verschiedene Aspekte des Geschäftslebens beziehen:</p>
+  <ul>
+    <li>Geschäftsbetrieb oder Gewerbe</li>
+    <li>Vertrieb oder Verkaufsabteilung</li>
+    <li>Öffnungszeiten eines Geschäfts</li>
+  </ul>
+  <p>Einige häufige Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">営業中[えいぎょうちゅう]</div>
+    <div class="de spoiler">Geöffnet</div>
+  </div>
+  <div class="examples">
+    <div class="jp">24時間[じかん] 営業[えいぎょう]</div>
+    <div class="de spoiler">Rund um die Uhr geöffnet</div>
+  </div>
+  <div class="examples">
+    <div class="jp">営業[えいぎょう]を 始[はじ]める</div>
+    <div class="de spoiler">Ein Geschäft eröffnen</div>
+  </div>
+  <p>Als Verb (営業する) bedeutet es "ein Geschäft betreiben" oder "geöffnet sein".</p>

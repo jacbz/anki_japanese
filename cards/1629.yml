@@ -94,4 +94,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そこで ist ein wichtiger Ausdruck, der zwei Hauptbedeutungen hat:</p>
+
+  <p>1. Als logische Verbindung: "deshalb, daher, also"</p>
+  <ul>
+    <li>Wird verwendet, um eine logische Schlussfolgerung oder Konsequenz auszudrücken</li>
+    <div class="examples">
+      <div class="jp">日[ひ]の目[め]が見[み]えなくなると、<u>そこで</u>、誰[だれ]でも気味[きみ]を悪[わる]るがって、この門[もん]の近所[きんじょ]へは足[あし]ぶみをしない事[こと]になってしまった。</div>
+      <div class="de spoiler">Als es dunkel wurde, bekam deshalb jeder ein ungutes Gefühl und niemand ging mehr in die Nähe des Tores.</div>
+    </div>
+    <li>Zeigt an, dass etwas aufgrund der vorherigen Situation geschieht</li>
+    <div class="examples">
+      <div class="jp">残飯[ざんぱん]あさりの第一歩[だいいっぽ]は、<u>そこで</u>、なるべく無臭[むしゅう]で乾燥[かんそう]したものを物色[ぶっしょく]することから始[はじ]まる。</div>
+      <div class="de spoiler">Die Suche nach Essensresten beginnt deshalb damit, möglichst geruchlose und trockene Dinge auszuwählen.</div>
+    </div>
+  </ul>
+
+  <p>2. Als Überleitung: "nun, jetzt, also"</p>
+  <ul>
+    <li>Wird verwendet, um zu einem neuen Thema überzuleiten</li>
+    <div class="examples">
+      <div class="jp"><u>そこで</u>、例[れい]の件[けん]について話[はな]すと...</div>
+      <div class="de spoiler">Um nun auf besagte Sache zu sprechen zu kommen...</div>
+    </div>
+    <li>Häufig bei formellen Gesprächen oder Präsentationen</li>
+    <div class="examples">
+      <div class="jp"><u>そこで</u>、二番目[にばんめ]のご質問[しつもん]についてですが...</div>
+      <div class="de spoiler">Um jetzt die zweite Frage zu beantworten...</div>
+    </div>
+  </ul>

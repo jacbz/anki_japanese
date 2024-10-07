@@ -102,4 +102,48 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>だけ wird verwendet, um Einschränkungen oder Begrenzungen auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet "nur", "lediglich" oder "ausschließlich":</li>
+    <div class="examples">
+      <div class="jp">生徒[せいと]<u>だけ</u>が 悪[わる]い。</div>
+      <div class="de spoiler">Nur die Schüler sind schuld.</div>
+      <div class="jp">見当[けんとう]をつけてみた<u>だけ</u>さ。</div>
+      <div class="de spoiler">Ich habe bloß geraten.</div>
+    </div>
+    <li>Es kann auch "so viel wie" oder "gerade genug" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">借金[しゃっきん]を 払[はら]いきってしまえる<u>だけ</u>の 金[かね]</div>
+      <div class="de spoiler">Gerade genug Geld, um die Schulden zu begleichen</div>
+    </div>
+    <li>In Verbindung mit Vergleichen drückt es "je ... desto" aus:</li>
+    <div class="examples">
+      <div class="jp">下[した]の 段[だん]になる<u>だけ</u> 長[なが]いのである。</div>
+      <div class="de spoiler">Je niedriger die Stufe, desto länger ist es.</div>
+    </div>
+  </ul>
+  <p>Häufige Ausdrücke mit だけ:</p>
+  <ul>
+    <li>～<u>だけ</u>でいい: "es reicht, wenn ..." oder "es genügt, zu ..."</li>
+    <div class="examples">
+      <div class="jp">遠[とお]くから 眺[なが]める<u>だけ</u>でいい。</div>
+      <div class="de spoiler">Es reicht, wenn ich es von weitem betrachte.</div>
+    </div>
+    <li>～<u>だけ</u>ましだ: "zumindest" oder "immerhin"</li>
+    <div class="examples">
+      <div class="jp">手[て]を 出[だ]さない<u>だけ</u>ましだった。</div>
+      <div class="de spoiler">Immerhin hat sie die Finger davon gelassen.</div>
+    </div>
+    <li>～<u>だけ</u>のことはある: "es lohnt sich" oder "es ist es wert"</li>
+    <div class="examples">
+      <div class="jp">そうする<u>だけ</u>のことはありますよ。</div>
+      <div class="de spoiler">Es lohnt sich, das zu tun.</div>
+    </div>
+    <li>～<u>だけ</u>...てみる: "zumindest versuchen" oder "wenigstens probieren"</li>
+    <div class="examples">
+      <div class="jp">話[はなし]<u>だけ</u>はしてみます。</div>
+      <div class="de spoiler">Ich werde zumindest versuchen, mit ihr zu reden.</div>
+    </div>
+  </ul>
+  </p>

@@ -2,7 +2,7 @@ Rang: 2431
 Lemma: に違いない
 Lesung: にちがいない
 Tonhöhen: /^^^^\
-Definition: ohne Zweifel
+Definition: (ganz) sicher, zweifellos
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -14,12 +14,112 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼女は日本人にちがいない。
-  彼女[かのじょ]は 日本人[にっぽんじん]にちがいない。
-  Sie ist ohne Zweifel Japanerin.
+  彼女[かのじょ]は 日本人[にほんじん]にちがいない。
+  Sie muss Japanerin sein.
+
+  この絵は有名な画家の作品にちがいない。
+  この 絵[え]は 有名[ゆうめい]な 画家[がか]の 作品[さくひん]にちがいない。
+  Dieses Gemälde muss von einem berühmten Künstler stammen.
+
+  彼は今頃オフィスにいるにちがいない。
+  彼[かれ]は 今頃[いまごろ] オフィスにいるにちがいない。
+  Er muss jetzt im Büro sein.
+
+  雅子がやったにちがいない。
+  雅子[まさこ]がやったにちがいない。
+  Das muss Masako gewesen sein!
+
+  君だって、目撃したことくらいはあるにちがいない。
+  君[きみ]だって、目撃[もくげき]したことくらいはあるにちがいない。
+  Auch du musst es schon einmal gesehen haben, da bin ich sicher.
+
+  彼はきっとそうするにちがいない。
+  彼[かれ]はきっとそうするにちがいない。
+  Er wird es sicher tun.
+
+  何もなければおそらく僕は今ごろどこかのバーでオムレツでも食べながらウィスキーを飲んでいるにちがいない。
+  何[なに]もなければおそらく 僕[ぼく]は 今[いま]ごろどこかのバーでオムレツでも 食[た]べながらウィスキーを 飲[の]んでいるにちがいない。
+  Wenn nichts dazwischengekommen wäre, säße ich jetzt bestimmt irgendwo in einer Bar, äße ein Omelette und tränke Whiskey dazu.
+
+  彼は痛痒を感じなかったにちがいない。
+  彼[かれ]は 痛痒[つうよう]を 感[かん]じなかったにちがいない。
+  Er muss es gleichgültig aufgenommen haben.
+
+  おそらく、ぼく一人で、二本は空けていたにちがいない。
+  おそらく、ぼく 一人[ひとり]で、二本[にほん]は 空[あ]けていたにちがいない。
+  Ich muss wohl alleine zwei Flaschen geleert haben.
+
+  この本は間違いなくベストセラーになるにちがいない。
+  この 本[ほん]は 間違[まちが]いなくベストセラーになるにちがいない。
+  Dieses Buch wird zweifellos ein Bestseller werden.
+
+  彼女は無罪にちがいないと信じている。
+  彼女[かのじょ]は 無罪[むざい]にちがいないと 信[しん]じている。
+  Ich bin von ihrer Unschuld überzeugt.
+
+  あの音は花火にちがいない。
+  あの 音[おと]は 花火[はなび]にちがいない。
+  Das muss Feuerwerk sein.
+
+  彼は既に家に帰っているにちがいない。
+  彼[かれ]は 既[すで]に 家[いえ]に 帰[かえ]っているにちがいない。
+  Er muss schon nach Hause gegangen sein.
+
+  その噂は本当にちがいない。
+  その 噂[うわさ]は 本当[ほんとう]にちがいない。
+  Das Gerücht muss wahr sein.
+
+  彼女は試験に合格したにちがいない。
+  彼女[かのじょ]は 試験[しけん]に 合格[ごうかく]したにちがいない。
+  Sie muss die Prüfung bestanden haben.
+
+  明日は晴れるにちがいない。
+  明日[あした]は 晴[は]れるにちがいない。
+  Morgen wird es sicher sonnig sein.
+
+  彼女は今頃着いているにちがいない。
+  彼女[かのじょ]は 今頃[いまごろ] 着[つ]いているにちがいない。
+  Sie muss inzwischen angekommen sein.
+
+  彼はその知らせを聞いて喜んでいるにちがいない。
+  彼[かれ]はその 知[し]らせを 聞[き]いて 喜[よろこ]んでいるにちがいない。
+  Er muss sich über die Nachricht gefreut haben.
+
+  その手紙は彼女からにちがいない。
+  その 手紙[てがみ]は 彼女[かのじょ]からにちがいない。
+  Der Brief muss von ihr sein.
+
+  彼はきっと成功するにちがいない。
+  彼[かれ]はきっと 成功[せいこう]するにちがいない。
+  Er wird mit Sicherheit Erfolg haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>に違いない drückt eine starke Überzeugung oder Gewissheit aus.</p>
+  <ul>
+    <li>Es wird verwendet, um auszudrücken, dass etwas mit Sicherheit oder höchstwahrscheinlich der Fall ist.</li>
+    <div class="examples">
+      <div class="jp">雅子[まさこ]がやった<u>に違いない</u>。</div>
+      <div class="de spoiler">Das muss Masako gewesen sein!</div>
+    </div>
+    <li>Es kann auch für logische Schlussfolgerungen oder Vermutungen verwendet werden.</li>
+    <div class="examples">
+      <div class="jp">君[きみ]だって、目撃[もくげき]したことくらいはある<u>に違いない</u>。</div>
+      <div class="de spoiler">Auch du hast schon einen [Schachtelmann] gesehen, da bin ich sicher.</div>
+    </div>
+    <li>Oft wird es mit Adverbien wie きっと (sicher) oder おそらく (wahrscheinlich) kombiniert, um die Überzeugung zu verstärken.</li>
+    <div class="examples">
+      <div class="jp">何[なに]もなければおそらく僕[ぼく]は今[いま]ごろどこかのバーでオムレツでも食[た]べたがらウィスキーを飲[の]んでいる<u>に違いない</u>。</div>
+      <div class="de spoiler">Wenn diese Sache nicht wäre, säße ich jetzt garantiert irgendwo in einer Bar, äße ein Omelette und tränke Whiskey dazu.</div>
+    </div>
+  </ul>
+  <p>Die Konstruktion besteht aus に (Partikel) + 違い (Unterschied, Zweifel) + ない (Verneinung). Wörtlich bedeutet es "es gibt keinen Zweifel, dass...".</p>
+  <div class="examples">
+    <div class="jp">誰[だれ]も男[おとこ]としての彼[かれ]の相手[あいて]になってくれなくても彼[かれ]はまったく痛痒[つうよう]を感[かん]じなかった<u>に違いない</u>。</div>
+    <div class="de spoiler">Hätte sich niemand für ihn als Mann interessiert, es wäre ihm fraglos gleichgültig gewesen.</div>
+  </div>
+  </p>

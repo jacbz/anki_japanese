@@ -2,13 +2,13 @@ Rang: 3067
 Lemma: 越す
 Lesung: こす
 Tonhöhen: /^
-Definition: überqueren, passieren
-Alternativschreibweisen: ''
+Definition: überqueren; überschreiten; umziehen
+Alternativschreibweisen: 超す
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 越さない・越した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   この鳥は毎年この地方で冬を越す。
   この 鳥[とり]は 毎年[まいとし]この 地方[ちほう]で 冬[ふゆ]を 越[こ]す。
   Diese Vögel überqueren jedes Jahr den Winter in diesem Bezirk.
+
+  この川を越すには橋を使わなければならない。
+  この 川[かわ]を 越[こ]すには 橋[はし]を 使[つか]わなければならない。
+  Um diesen Fluss zu überqueren, müssen wir die Brücke benutzen.
+
+  彼は大きな障害を越して目標を達成した。
+  彼[かれ]は 大[おお]きな 障害[しょうがい]を 越[こ]して 目標[もくひょう]を 達成[たっせい]した。
+  Er hat sein Ziel erreicht, indem er große Hindernisse überwunden hat.
+
+  気温が30度を越す日が続いている。
+  気温[きおん]が30度[ど]を 越[こ]す 日[ひ]が 続[つづ]いている。
+  Die Tage, an denen die Temperatur 30 Grad übersteigt, halten an.
+
+  彼女の成績は平均点を越している。
+  彼女[かのじょ]の 成績[せいせき]は 平均点[へいきんてん]を 越[こ]している。
+  Ihre Noten übertreffen den Durchschnitt.
+
+  冬を越すために、動物たちは準備をしている。
+  冬[ふゆ]を 越[こ]すために、動物[どうぶつ]たちは 準備[じゅんび]をしている。
+  Die Tiere bereiten sich darauf vor, den Winter zu überstehen.
+
+  来月、新しいアパートに越すことになった。
+  来月[らいげつ]、新[あたら]しいアパートに 越[こ]すことになった。
+  Nächsten Monat werde ich in eine neue Wohnung umziehen.
+
+  お越しいただき、ありがとうございます。
+  お 越[こ]しいただき、ありがとうございます。
+  Vielen Dank, dass Sie gekommen sind.
+
+  彼は期限を越して仕事を提出した。
+  彼[かれ]は 期限[きげん]を 越[こ]して 仕事[しごと]を 提出[ていしゅつ]した。
+  Er reichte seine Arbeit nach Ablauf der Frist ein.
+
+  山を越すと、景色が一変した。
+  山[やま]を 越[こ]すと、景色[けしき]が 一変[いっぺん]した。
+  Nachdem wir den Berg überquert hatten, änderte sich die Landschaft völlig.
+
+  彼女の演技は他の俳優たちを越している。
+  彼女[かのじょ]の 演技[えんぎ]は 他[ほか]の 俳優[はいゆう]たちを 越[こ]している。
+  Ihr Schauspiel übertrifft das der anderen Schauspieler.
+
+  難関を越して、やっと目標を達成した。
+  難関[なんかん]を 越[こ]して、やっと 目標[もくひょう]を 達成[たっせい]した。
+  Endlich habe ich mein Ziel erreicht, nachdem ich große Schwierigkeiten überwunden habe.
+
+  彼は60歳を越しても元気に働いている。
+  彼[かれ]は60歳[さい]を 越[こ]してもげんきに 働[はたら]いている。
+  Er arbeitet auch über 60 Jahre alt noch energisch.
+
+  新居に越して、生活が一変した。
+  新居[しんきょ]に 越[こ]して、生活[せいかつ]が 一変[いっぺん]した。
+  Nachdem ich in meine neue Wohnung gezogen bin, hat sich mein Leben völlig verändert.
+
+  この商品の売り上げは予想を越している。
+  この 商品[しょうひん]の 売[う]り 上[あ]げは 予想[よそう]を 越[こ]している。
+  Der Verkauf dieses Produkts übertrifft die Erwartungen.
+
+  国境を越して多くの人々が避難した。
+  国境[こっきょう]を 越[こ]して 多[おお]くの 人々[ひとびと]が 避難[ひなん]した。
+  Viele Menschen flohen über die Grenze.
+
+  彼らは峠を越して村に到着した。
+  彼[かれ]らは 峠[とうげ]を 越[こ]して 村[むら]に 到着[とうちゃく]した。
+  Sie erreichten das Dorf, nachdem sie den Gebirgspass überquert hatten.
+
+  夜を越して考えると、良いアイデアが浮かんだ。
+  夜[よる]を 越[こ]して 考[かんが]えると、良[よ]いアイデアが 浮[う]かんだ。
+  Nachdem ich eine Nacht darüber geschlafen hatte, kam mir eine gute Idee.
+
+  彼女は困難を越して、夢を実現させた。
+  彼女[かのじょ]は 困難[こんなん]を 越[こ]して、夢[ゆめ]を 実現[じつげん]させた。
+  Sie hat ihre Träume verwirklicht, indem sie Schwierigkeiten überwunden hat.
+
+  この製品の性能は業界標準を越している。
+  この 製品[せいひん]の 性能[せいのう]は 業界[ぎょうかい]標準[ひょうじゅん]を 越[こ]している。
+  Die Leistung dieses Produkts übertrifft den Industriestandard.
+
+  お越しの際は、お電話ください。
+  お 越[こ]しの 際[さい]は、お 電話[でんわ]ください。
+  Bitte rufen Sie an, wenn Sie kommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

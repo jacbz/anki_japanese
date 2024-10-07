@@ -106,4 +106,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どうして wird hauptsächlich auf drei verschiedene Arten verwendet:</p>
+  <ul>
+    <li>Als Fragepartikel für "wie" oder "auf welche Weise"</li>
+    <div class="examples">
+      <div class="jp">僕[ぼく]<u>どうして</u> 生[う]まれたの？</div>
+      <div class="de spoiler">Wie bin ich geboren worden?</div>
+      <div class="jp"><u>どうして</u> 知[し]っているの？</div>
+      <div class="de spoiler">Woher weißt du das?</div>
+    </div>
+
+    <li>Als Fragepartikel für "warum" oder "wieso"</li>
+    <div class="examples">
+      <div class="jp"><u>どうして</u>そんなに 怒鳴[どな]るのさ。</div>
+      <div class="de spoiler">Warum brüllst du denn so?</div>
+      <div class="jp"><u>どうして</u> 佐藤[さとう]さんの 住所[じゅうしょ] 知[し]りたいの。</div>
+      <div class="de spoiler">Wieso willst du Herrn Satōs Adresse wissen?</div>
+    </div>
+
+    <li>Um einen Gegensatz auszudrücken (oft mit der Bedeutung "ganz im Gegenteil" oder "keineswegs")</li>
+    <div class="examples">
+      <div class="jp">おとなしそうに 見[み]えるが、<u>どうして</u> 気[き]の 強[つよ]い 人[ひと]だ。</div>
+      <div class="de spoiler">Er wirkt zwar zurückhaltend, setzt aber ganz im Gegenteil seinen Willen durch.</div>
+    </div>
+  </ul>
+
+  <p>Als Ausruf kann どうして auch Verwunderung ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">なかなか<u>どうして</u>、抜[ぬ]け 目[め]のない 若僧[わかそう]だ。</div>
+    <div class="de spoiler">Ganz schön gerissen, der Grünschnabel!</div>
+  </div>

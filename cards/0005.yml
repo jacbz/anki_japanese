@@ -102,4 +102,55 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>を ist eine wichtige Partikel im Japanischen mit zwei Hauptfunktionen:</p>
+
+  <h3>1. Markierung des direkten Objekts</h3>
+  <ul>
+    <li>を zeigt an, auf was sich eine Handlung direkt bezieht.</li>
+    <div class="examples">
+      <div class="jp">水[みず]<u>を</u> 飲[の]む</div>
+      <div class="de spoiler">Wasser trinken</div>
+      <div class="jp">ラジオ<u>を</u> 聞[き]く</div>
+      <div class="de spoiler">Radio hören</div>
+    </div>
+    <li>Es kann auch einen Objektsatz markieren:</li>
+    <div class="examples">
+      <div class="jp">人[ひと]が 来[く]るの<u>を</u> 待[ま]つ</div>
+      <div class="de spoiler">Darauf warten, dass jemand kommt</div>
+    </div>
+    <li>Bei kausativen Verben markiert を das "Objekt" der Veranlassung:</li>
+    <div class="examples">
+      <div class="jp">子供[こども]<u>を</u> 眠[ねむ]らせる</div>
+      <div class="de spoiler">Die Kinder schlafen lassen</div>
+    </div>
+    <li>Es kann auch eine Zeitspanne als Objekt markieren:</li>
+    <div class="examples">
+      <div class="jp">夏休[なつやす]み<u>を</u> 友達[ともだち]と 過[す]ごす</div>
+      <div class="de spoiler">Die Sommerferien mit Freunden verbringen</div>
+    </div>
+  </ul>
+
+  <h3>2. Markierung des Ortes bei Bewegungsverben</h3>
+  <p>Bei Verben, die eine Bewegung ausdrücken, kann を den Ort anzeigen:</p>
+  <ul>
+    <li>durch den die Bewegung führt:</li>
+    <div class="examples">
+      <div class="jp">橋[はし]<u>を</u> 渡[わた]る</div>
+      <div class="de spoiler">Eine Brücke überqueren</div>
+      <div class="jp">列車[れっしゃ]が 駅[えき]<u>を</u> 通[とお]り 過[す]ぎる</div>
+      <div class="de spoiler">Der Zug fährt durch den Bahnhof</div>
+    </div>
+    <li>von dem die Bewegung ausgeht:</li>
+    <div class="examples">
+      <div class="jp">部屋[へや]<u>を</u> 出[で]る</div>
+      <div class="de spoiler">Das Zimmer verlassen</div>
+    </div>
+    <li>in dem die Bewegung stattfindet:</li>
+    <div class="examples">
+      <div class="jp">空[そら]<u>を</u> 飛[と]ぶ</div>
+      <div class="de spoiler">Am Himmel fliegen</div>
+    </div>
+  </ul>
+
+  <p>Beachte, dass を immer mit dem Verb zusammenhängt und anzeigt, worauf sich die Handlung bezieht oder wo sie stattfindet.</p>

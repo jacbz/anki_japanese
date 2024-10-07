@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>曲[きょく] hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Als Substantiv bedeutet es "Musikstück", "Komposition" oder "Melodie".</li>
+    <div class="examples">
+      <div class="jp">僕[ぼく]の 作[つく]った<u>曲</u>を 楽隊[がくたい]が 奏[かな]するのを、ききおとすのは 残念[ざんねん]ですからね。</div>
+      <div class="de spoiler">Es wäre schade, wenn ich versäumen würde, wie die Musikkapelle meine Komposition aufführt.</div>
+    </div>
+    <li>Es kann auch in Zusammensetzungen verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">ピアノ<u>曲</u></div>
+      <div class="de spoiler">Klavierstück</div>
+      <div class="jp">練習[れんしゅう]<u>曲</u></div>
+      <div class="de spoiler">Übungsstück, Etüde</div>
+    </div>
+    <li>In älterem Gebrauch kann es auch "Unrecht" oder "Unehrlichkeit" bedeuten (Gegenteil von 直[ちょく], gerade/aufrichtig).</li>
+    <div class="examples">
+      <div class="jp"><u>曲</u>を 正[ただ]す</div>
+      <div class="de spoiler">ein Unrecht korrigieren</div>
+    </div>
+    <li>Es kann auch "Interesse" oder "Vergnügen" bedeuten.</li>
+    <li>Als Zählwort wird es für Musikstücke verwendet:</li>
+    <div class="examples">
+      <div class="jp">一[いち]<u>曲</u> 歌[うた]う</div>
+      <div class="de spoiler">ein Lied singen</div>
+    </div>
+  </ul>
+  <p>Es gibt auch einen interessanten Ausdruck mit 曲[きょく]:</p>
+  <div class="examples">
+    <div class="jp"><u>曲</u>がない</div>
+    <div class="de spoiler">uninteressant sein, langweilig sein</div>
+    <div class="jp">今[いま] 皆[みな] 言[い]ってしまっては<u>曲</u>がないからね。</div>
+    <div class="de spoiler">Wenn ich dir jetzt alles erzähle, ist es nachher nicht mehr interessant.</div>
+  </div>
+  </p>

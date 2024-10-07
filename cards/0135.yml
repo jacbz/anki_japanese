@@ -106,4 +106,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>より wird in verschiedenen Kontexten verwendet:</p>
+  <ul>
+    <li>Es zeigt den Ausgangspunkt einer Handlung, Bewegung oder Veränderung an:</li>
+    <div class="examples">
+      <div class="jp">故郷[こきょう]<u>より</u>の 文[ふみ]なりや。</div>
+      <div class="de spoiler">Ist es ein Brief aus deiner Heimat?</div>
+      <div class="jp">倫敦[ロンドン]にある 時[とき] 恩師[おんし]<u>より</u> 拝領[はいりょう]したチャーチル</div>
+      <div class="de spoiler">Die Churchill-Flinte, die mir mein verehrter Lehrer in London geschenkt hat</div>
+    </div>
+    <li>Es markiert einen zeitlichen Ausgangspunkt oder eine Abfolge von Handlungen:</li>
+    <div class="examples">
+      <div class="jp">港[みなと]を 出[で]て<u>より</u>、 早[はや]や 二十日[はつか]あまりを 経[へ]ぬ。</div>
+      <div class="de spoiler">Seit das Schiff den Hafen verließ, sind bereits mehr als zwanzig Tage vergangen.</div>
+      <div class="jp">それ<u>より</u> 陸軍[りくぐん]の 全部隊[ぜんぶたい]は、北進[ほくしん]</div>
+      <div class="de spoiler">Danach zog das ganze Heer nach Norden</div>
+    </div>
+    <li>Es kann das Material oder die Zusammensetzung von etwas ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">人間[にんげん]は 男性的要素[だんせいてきようそ]と 女性的要素[じょせいてきようそ]との 結合[けつごう]<u>より</u> 成[な]った 者[もの]である</div>
+      <div class="de spoiler">Der Mensch ist aus männlichen und weiblichen Elementen geformt</div>
+    </div>
+    <li>Es wird in Vergleichen verwendet, ähnlich wie "als" im Deutschen:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]の 背丈[せたけ]は 私[わたし]たちの 間[あいだ]でいちばん 高[たか]い 学生[がくせい]<u>より</u>も 余程[よほど] 低[ひく]かった。</div>
+      <div class="de spoiler">Er war ein ganzes Stück kleiner als der größte von uns Schülern.</div>
+      <div class="jp">陽子[ようこ]ちゃんが 私[わたし]<u>より</u>、私[わたし]がつぐみ<u>より</u>、ひとつ 上[うえ]だ。</div>
+      <div class="de spoiler">Yōko ist ein Jahr älter als ich, und ich bin ein Jahr älter als Tsugumi.</div>
+    </div>
+    <li>Es kann auch "statt" oder "anstatt" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">それ<u>より</u>も 肺結核[はいけっかく]をなおす 新方法[しんほうほう]を 考[かんが]えるべし</div>
+      <div class="de spoiler">Statt dessen denk lieber über eine neue Methode nach, wie man die Lungentuberkulose heilen kann!</div>
+    </div>
+  </ul>
+  </p>

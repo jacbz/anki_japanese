@@ -102,4 +102,35 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あまり wird auf verschiedene Weisen verwendet, um "zu viel" oder "nicht besonders" auszudrücken.</p>
+
+  <ul>
+    <li>Mit に oder にも drückt es "zu sehr" oder "allzu" aus:</li>
+    <div class="examples">
+      <div class="jp">地図[ちず]というには、<u>あまり</u>にも 余白[よはく]が 多[おお]すぎる。</div>
+      <div class="de spoiler">Für eine Karte gibt es zu viele weiße Flecken.</div>
+      <div class="jp">それは<u>あまり</u>に 現実的[げんじつてき]すぎる。</div>
+      <div class="de spoiler">Das ist zu realistisch.</div>
+    </div>
+
+    <li>Mit der Verneinung bedeutet es "nicht besonders" oder "nicht sehr":</li>
+    <div class="examples">
+      <div class="jp"><u>あまり</u> 会[あ]いたがらないんじゃないかな。</div>
+      <div class="de spoiler">Er wird Sie nicht unbedingt treffen wollen.</div>
+      <div class="jp">男[おとこ]は<u>あまり</u> 答[こた]えたくない 様子[ようす]だった。</div>
+      <div class="de spoiler">Der Mann schien nicht besonders antworten zu wollen.</div>
+    </div>
+
+    <li>Als Suffix nach Zahlen bedeutet es "etwas mehr als":</li>
+    <div class="examples">
+      <div class="jp">二時間[にじかん]<u>あまり</u> 早[はや]い。</div>
+      <div class="de spoiler">Mehr als zwei Stunden früher.</div>
+    </div>
+
+    <li>Als Nomen drückt es "Übermaß" oder "Überschuss" aus, oft in der Form ～のあまり:</li>
+    <div class="examples">
+      <div class="jp">絶望[ぜつぼう]の<u>あまり</u> 気[き]を 失[うしな]った。</div>
+      <div class="de spoiler">Vor Verzweiflung verlor ich das Bewusstsein.</div>
+    </div>
+  </ul>

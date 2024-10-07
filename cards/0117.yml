@@ -102,4 +102,50 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ながら hat mehrere wichtige Verwendungen:</p>
+  <ol>
+    <li>Gleichzeitigkeit ausdrücken:</li>
+    <ul>
+      <li>Wird an die Konjunktionalform von Verben angehängt.</li>
+      <li>Bedeutet "während", "bei" oder "beim".</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">歩[ある]き<u>ながら</u>私[わたし]の 顔[かお]を 見[み]た。</div>
+      <div class="de spoiler">Sie sah mich im Gehen an.</div>
+      <div class="jp">警戒[けいかい]し<u>ながら</u>、足先[あしさき]で 砂[すな]の 中[なか]をさぐった。</div>
+      <div class="de spoiler">Vorsichtig tastete er mit den Zehen im Sand, während er auf der Hut war.</div>
+    </div>
+    <li>Gegensätzlichkeit ausdrücken:</li>
+    <ul>
+      <li>Wird an Substantive, Verben oder Adjektive angehängt.</li>
+      <li>Bedeutet "obwohl", "trotz", "zwar ... aber".</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">猫[ねこ]<u>ながら</u> 時々[ときどき] 考[かんが]える 事[こと]がある。</div>
+      <div class="de spoiler">Obwohl ich eine Katze bin, denke ich manchmal nach.</div>
+      <div class="jp">失礼[しつれい]<u>ながら</u>、 質問[しつもん]があります。</div>
+      <div class="de spoiler">Entschuldigen Sie, aber ich habe eine Frage.</div>
+    </div>
+    <li>Zustand oder Begleitumstand ausdrücken:</li>
+    <ul>
+      <li>Wird an Substantive angehängt.</li>
+      <li>Bedeutet "wie jemand/etwas ist", "unter", "mit".</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">涙[なみだ]<u>ながら</u>に 語[かた]る</div>
+      <div class="de spoiler">Unter Tränen erzählen</div>
+    </div>
+    <li>Gesamtheit ausdrücken:</li>
+    <ul>
+      <li>Wird an Zahlwörter oder Substantive angehängt, die Mengen oder Mehrheiten ausdrücken.</li>
+      <li>Bedeutet "alle", "gesamt".</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">二人[ふたり]<u>ながら</u></div>
+      <div class="de spoiler">Alle beide</div>
+      <div class="jp">親子[おやこ]<u>ながら</u></div>
+      <div class="de spoiler">Die ganze Familie</div>
+    </div>
+  </ol>
+  </p>

@@ -2,7 +2,7 @@ Rang: 2672
 Lemma: 件
 Lesung: けん
 Tonhöhen: \.
-Definition: Angelegenheit, Sache, Thema
+Definition: Angelegenheit, Fall
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -14,12 +14,114 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あの件について、家族で話し合った。
-  あの 件[けん]について、 家族[かぞく]で 話[はな]し 合[あ]った。
-  Wir haben in unserer Familie über diese Angelegenheit diskutiert.
+  あの 件[けん]について、家族[かぞく]で 話[はな]し 合[あ]った。
+  Wir haben in der Familie über diese Angelegenheit gesprochen.
+
+  急を要する件で上司に呼び出された。
+  急[きゅう]を 要[よう]する 件[けん]で 上司[じょうし]に 呼[よ]び 出[だ]された。
+  Ich wurde wegen einer dringenden Angelegenheit vom Vorgesetzten gerufen.
+
+  緊急の件があるので、すぐに連絡してください。
+  緊急[きんきゅう]の 件[けん]があるので、すぐに 連絡[れんらく]してください。
+  Es gibt eine dringende Angelegenheit, bitte kontaktieren Sie mich sofort.
+
+  例の件、進展はありましたか？
+  例[れい]の 件[けん]、進展[しんてん]はありましたか？
+  Gibt es Fortschritte in der besagten Angelegenheit?
+
+  先日の件について、もう一度確認させてください。
+  先日[せんじつ]の 件[けん]について、もう 一度[いちど] 確認[かくにん]させてください。
+  Lassen Sie mich die Sache von neulich noch einmal überprüfen.
+
+  この件に関しては一切他言は無用です。よろしいですね？
+  この 件[けん]に 関[かん]しては 一切[いっさい] 他言[たごん]は 無用[むよう]です。よろしいですね？
+  Sprechen Sie mit niemandem über diese Angelegenheit. Haben wir uns verstanden?
+
+  貴志や猫の件をどうしたらいいか雅子に相談してみようと弥生は考えた。
+  貴志[たかし]や 猫[ねこ]の 件[けん]をどうしたらいいか 雅子[まさこ]に 相談[そうだん]してみようと 弥生[やよい]は 考[かんが]えた。
+  Yayoi überlegte, Masako um Rat zu fragen, was sie wegen Takashi und der Sache mit der Katze tun sollte.
+
+  旗の件についても新しい情報はないんですが、しかし、あれから何の事件も起こっていないことも事実です。
+  旗[はた]の 件[けん]についても 新[あたら]しい 情報[じょうほう]はないんですが、しかし、あれから 何[なに]の 事件[じけん]も 起[お]こっていないことも 事実[じじつ]です。
+  Über den Zwischenfall mit der Flagge gibt es zwar ebenfalls keine neuen Informationen, aber immerhin ist es eine Tatsache, dass seither nichts mehr passierte.
+
+  老師は写真の件にも、遡って娼婦の強請の件にも一言も触れなかった。
+  老師[ろうし]は 写真[しゃしん]の 件[けん]にも、遡[さかのぼ]って 娼婦[しょうふ]の 強請[きょうせい]の 件[けん]にも 一言[ひとこと]も 触[ふ]れなかった。
+  Der alte Lehrer erwähnte weder die Sache mit dem Foto noch die zurückliegende Angelegenheit mit der Erpressung durch die Prostituierte auch nur mit einem Wort.
+
+  私にこの件を引き受ける気があるかどうか、コルテンが全然尋ねなかったことに、今になってようやく気づいた。
+  私[わたし]にこの 件[けん]を 引[ひ]き 受[う]ける 気[き]があるかどうか、コルテンが 全然[ぜんぜん] 尋[たず]ねなかったことに、今[いま]になってようやく 気[き]づいた。
+  Erst jetzt wurde mir bewusst, dass Korten mich gar nicht gefragt hatte, ob ich den Fall übernehmen wollte.
+
+  その他にざっと考えておくべき細かな案件が二十件ほどあった。
+  その 他[ほか]にざっと 考[かんが]えておくべき 細[こま]かな 案件[あんけん]が 二十件[にじゅっけん]ほどあった。
+  Es gab noch etwa zwanzig kleinere Angelegenheiten, die zu bedenken waren.
+
+  件の書類はすでに提出済みです。
+  件[くだん]の 書類[しょるい]はすでに 提出[ていしゅつ] 済[ず]みです。
+  Die besagten Unterlagen wurden bereits eingereicht.
+
+  昨日話した件について、もう少し詳しく説明してもらえますか？
+  昨日[きのう] 話[はな]した 件[けん]について、もう 少[すこ]し 詳[くわ]しく 説明[せつめい]してもらえますか？
+  Könnten Sie mir die Angelegenheit, über die wir gestern gesprochen haben, noch etwas genauer erläutern?
+
+  その件に関しては、まだ結論が出ていません。
+  その 件[けん]に 関[かん]しては、まだ 結論[けつろん]が 出[で]ていません。
+  Bezüglich dieser Sache ist noch keine Entscheidung getroffen worden.
+
+  新しい案件が入ってきたので、すぐに対応しなければなりません。
+  新[あたら]しい 案件[あんけん]が 入[はい]ってきたので、すぐに 対応[たいおう]しなければなりません。
+  Es ist ein neuer Fall eingegangen, den wir sofort bearbeiten müssen.
+
+  彼女はその件について何も知らないようだ。
+  彼女[かのじょ]はその 件[けん]について 何[なに]も 知[し]らないようだ。
+  Sie scheint von dieser Angelegenheit nichts zu wissen.
+
+  今回の件で多くの教訓を得ることができました。
+  今回[こんかい]の 件[けん]で 多[おお]くの 教訓[きょうくん]を 得[え]ることができました。
+  Aus dieser Sache konnten wir viele Lehren ziehen.
+
+  件の商品はまだ在庫がございます。
+  件[くだん]の 商品[しょうひん]はまだ 在庫[ざいこ]がございます。
+  Der besagte Artikel ist noch auf Lager.
+
+  その件については後ほど詳しく説明します。
+  その 件[けん]については 後[のち]ほど 詳[くわ]しく 説明[せつめい]します。
+  Ich werde diese Angelegenheit später genauer erläutern.
+
+  一件落着したと思ったのに、また問題が起きてしまった。
+  一件落着[いっけんらくちゃく]したと 思[おも]ったのに、また 問題[もんだい]が 起[お]きてしまった。
+  Ich dachte, die Sache wäre erledigt, aber es sind erneut Probleme aufgetreten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>件 ist ein häufig verwendetes Wort im Japanischen, das verschiedene Bedeutungen haben kann:</p>
+  <ul>
+    <li>Als Substantiv bezeichnet es eine Angelegenheit, einen Sachverhalt oder einen Fall.</li>
+    <div class="examples">
+      <div class="jp">この<u>件</u>に 関[かん]しては 一切[いっさい] 他言[たごん]は 無用[むよう]です。</div>
+      <div class="de spoiler">Sprechen Sie mit niemandem über diese Angelegenheit.</div>
+      <div class="jp">猫[ねこ]の<u>件</u>をどうしたらいいか 相談[そうだん]してみよう。</div>
+      <div class="de spoiler">Lass uns besprechen, was wir in der Sache mit der Katze tun sollen.</div>
+    </div>
+    <li>Es kann auch einen Vorfall oder einen Zwischenfall bezeichnen.</li>
+    <div class="examples">
+      <div class="jp">旗[はた]の<u>件</u>については 新[あたら]しい 情報[じょうほう]はない。</div>
+      <div class="de spoiler">Es gibt keine neuen Informationen über den Zwischenfall mit der Flagge.</div>
+    </div>
+    <li>In rechtlichen Kontexten kann es einen Rechtsfall oder eine Rechtssache bezeichnen.</li>
+    <div class="examples">
+      <div class="jp">私[わたし]にこの<u>件</u>を 引[ひ]き 受[う]ける 気[き]があるかどうか 尋[たず]ねなかった。</div>
+      <div class="de spoiler">Er fragte nicht, ob ich bereit wäre, diesen Fall zu übernehmen.</div>
+    </div>
+  </ul>
+  <p>Zusätzlich wird 件 als Zählwort für Vorfälle oder Angelegenheiten verwendet:</p>
+  <div class="examples">
+    <div class="jp">細[こま]かな 案件[あんけん]が 二十[にじゅう]<u>件</u>ほどあった。</div>
+    <div class="de spoiler">Es gab etwa zwanzig kleinere Angelegenheiten zu klären.</div>
+  </div>
+  </p>

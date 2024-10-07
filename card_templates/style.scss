@@ -450,9 +450,16 @@ hr {
     margin: 0;
   }
 
-  ul {
+  ul, ol {
     margin: 0;
     padding-inline-start: 1.5em;
+
+    &:not(:last-child) {
+      margin-bottom: 0.5em;
+    }
+  }
+  
+  li {
     list-style-type: square;
   }
 
@@ -482,7 +489,7 @@ u {
       margin-bottom: 0.75em;
     }
 
-    .jp:not(:first-child) {
+    .jp:not(:first-child), p:not(:first-child) {
       margin-top: 0.5em;
     }
   }
@@ -628,6 +635,10 @@ u {
   border-radius: 14px;
   padding: 10px;
   text-align: left;
+
+  .examples .de {
+    font-style: italic;
+  }
 }
 
 /**

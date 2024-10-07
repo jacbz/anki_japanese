@@ -106,4 +106,27 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>において wird verwendet, um einen Ort, eine Zeit, einen Bereich oder eine Art und Weise anzugeben.</p>
+  <ul>
+    <li>Es kann oft mit "in", "auf", "an" oder "bezüglich" übersetzt werden.</li>
+    <div class="examples">
+      <div class="jp">日本[にほん]<u>において</u>は、牧畜業[ぼくちくぎょう]は 近代[きんだい]になってもほとんど 発達[はったつ]しなかった。</div>
+      <div class="de spoiler">In Japan entwickelte sich auch in der modernen Zeit kaum Viehzucht.</div>
+    </div>
+    <li>Es kann einen Standpunkt oder eine Perspektive ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">治者[ちしゃ]の 立場[たちば]<u>において</u>しか 政治[せいじ]を 考[かんが]えることができなかった。</div>
+      <div class="de spoiler">Er konnte Politik nur vom Standpunkt der Regierenden aus betrachten.</div>
+    </div>
+    <li>Es kann auch einen Kontext oder eine Situation bezeichnen:</li>
+    <div class="examples">
+      <div class="jp">果[は]てしない 沙漠[さばく]の 追撃戦[ついげきせん]<u>において</u>、 徒[いたず]らに 兵力[へいりょく]を 消耗[しょうもう]するからである。</div>
+      <div class="de spoiler">Bei den Verfolgungsjagden durch die endlose Wüste wurden nur sinnlos die eigenen Truppen abgenutzt.</div>
+    </div>
+  </ul>
+  <p>において kann auch in formellen oder feierlichen Kontexten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">父[ちち]と 子[こ]と 聖霊[せいれい]の 名[な]<u>において</u></div>
+    <div class="de spoiler">Im Namen des Vaters, des Sohnes und des Heiligen Geistes.</div>
+  </div>

@@ -106,4 +106,54 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いただく ist ein höfliches Verb mit mehreren Bedeutungen:</p>
+
+  <ol>
+    <li>Erhalten, bekommen (höfliche Form von 貰[もら]う)</li>
+    <ul>
+      <li>Wird oft verwendet, um Höflichkeit auszudrücken, wenn man etwas von jemandem erhält oder um etwas bittet.</li>
+      <div class="examples">
+        <div class="jp">お 時間[じかん]<u>いただけます</u>か。</div>
+        <div class="de spoiler">Können Sie mir etwas Zeit geben?</div>
+        <div class="jp">お 届[とど]けまでに 約[やく]3 週間[しゅうかん]を<u>いただきます</u>。</div>
+        <div class="de spoiler">Die Lieferung wird etwa drei Wochen dauern.</div>
+      </div>
+    </ul>
+
+    <li>Essen, trinken (höfliche Form von 食[た]べる und 飲[の]む)</li>
+    <ul>
+      <li>Wird oft vor dem Essen verwendet, um Dankbarkeit auszudrücken.</li>
+      <div class="examples">
+        <div class="jp">もう 十分[じゅうぶん]に<u>いただきました</u>。</div>
+        <div class="de spoiler">Danke, ich bin schon satt!</div>
+      </div>
+    </ul>
+
+    <li>Etwas auf den Kopf setzen oder an der Spitze haben</li>
+    <ul>
+      <li>Kann wörtlich oder figurativ verwendet werden.</li>
+      <div class="examples">
+        <div class="jp">雪[ゆき]を<u>いただいた</u> 高山[こうざん]が 見[み]え 始[はじ]める。</div>
+        <div class="de spoiler">Schneebedeckte hohe Berge werden sichtbar.</div>
+      </div>
+    </ul>
+
+    <li>Jemanden als Anführer haben oder an der Spitze stellen</li>
+    <div class="examples">
+      <div class="jp">美[うつく]しい 少女[しょうじょ]を 団長[だんちょう]に<u>いただく</u>ことが、 近頃[ちかごろ]のはやりである。</div>
+      <div class="de spoiler">Es ist neuerdings üblich, ein hübsches Mädchen zur Anführerin zu machen.</div>
+    </div>
+
+    <li>Etwas mühelos erhalten oder gewinnen (umgangssprachlich)</li>
+    <div class="examples">
+      <div class="jp">試合[しあい]は<u>いただいた</u>も 同然[どうぜん]だ。</div>
+      <div class="de spoiler">Der Wettkampf ist so gut wie gewonnen.</div>
+    </div>
+  </ol>
+
+  <p>いただく wird oft in festen Ausdrücken verwendet:</p>
+  <ul>
+    <li><span class="jp"><u>いただきます</u></span>: Wird vor dem Essen gesagt, um Dankbarkeit auszudrücken.</li>
+    <li><span class="jp">お 願[ねが]い<u>いたします</u></span>: Eine sehr höfliche Bitte.</li>
+  </ul>

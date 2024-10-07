@@ -102,4 +102,45 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いずれ hat zwei Hauptverwendungen:</p>
+
+  <h4>1. Als Fragepronomen (welche/r/s)</h4>
+  <ul>
+    <li>Wird verwendet, um nach einer Option aus mehreren Möglichkeiten zu fragen</li>
+    <div class="examples">
+      <div class="jp">主人[しゅじん]が<u>いずれ</u>を 択[えら]ぶかは 主人[しゅじん]の 随意[ずいい]である。</div>
+      <div class="de spoiler">Es liegt im Ermessen des Herrn, welche [Option] er wählt.</div>
+    </div>
+    <li>Kann auch "einer/eine/eines von..." bedeuten</li>
+    <div class="examples">
+      <div class="jp">それらの 都市[とし]の<u>いずれ</u>かであるに 違[ちが]いなかった。</div>
+      <div class="de spoiler">Es muss eine dieser Städte gewesen sein.</div>
+    </div>
+  </ul>
+
+  <h4>2. Als Adverb</h4>
+  <ul>
+    <li>Bedeutet "ohnehin, sowieso, auf jeden Fall"</li>
+    <div class="examples">
+      <div class="jp"><u>いずれ</u> 床[ゆか]が 筒抜[つつぬ]けなのだから、 窓[まど]は 小[ちい]さいほうがいい。</div>
+      <div class="de spoiler">Da der Boden ohnehin offen ist, ist es besser, wenn das Fenster klein ist.</div>
+    </div>
+
+    <li>Kann "bald, demnächst" bedeuten</li>
+    <div class="examples">
+      <div class="jp"><u>いずれ</u>また!</div>
+      <div class="de spoiler">Bis bald!</div>
+      <div class="jp"><u>いずれ</u> 改築[かいちく]を 命[めい]じようと 思[おも]う。</div>
+      <div class="de spoiler">Ich denke, ich werde demnächst einen Umbau anordnen.</div>
+    </div>
+  </ul>
+
+  <h4>Häufige Ausdrücke</h4>
+  <ul>
+    <li><span class="jp"><u>いずれ</u>にしても／<u>いずれ</u>にせよ</span>: "auf jeden Fall, jedenfalls"</li>
+    <div class="examples">
+      <div class="jp"><u>いずれ</u>にせよ この 部屋[へや]にいることはできない。</div>
+      <div class="de spoiler">Jedenfalls kann ich nicht in diesem Zimmer bleiben.</div>
+    </div>
+  </ul>

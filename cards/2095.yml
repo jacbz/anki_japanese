@@ -98,4 +98,23 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>月 hat mehrere wichtige Verwendungen im Japanischen:</p>
+
+  <ul>
+    <li>Als Suffix nach Zahlen (mit か/ヶ) zur Angabe von Monatsanzahlen:</li>
+    <div class="examples">
+      <div class="jp">３ヶ<u>月</u>[げつ]</div>
+      <div class="de spoiler">drei Monate</div>
+      <div class="jp">三ヶ<u>月</u>[げつ]間[かん]</div>
+      <div class="de spoiler">ein Zeitraum von drei Monaten</div>
+    </div>
+
+    <li>Als Abkürzung für 月曜日[げつようび] (Montag):</li>
+    <div class="examples">
+      <div class="jp">８<u>月</u>[がつ]１５日[にち]（<u>月</u>[げつ]）</div>
+      <div class="de spoiler">15. August (Mo.)</div>
+    </div>
+  </ul>
+
+  <p>In Zusammensetzungen mit anderen Zahlen erscheint es auch als がつ für Monatsnamen (siehe -がつ für Details).</p>

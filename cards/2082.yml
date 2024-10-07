@@ -2,13 +2,13 @@ Rang: 2082
 Lemma: 空く
 Lesung: あく
 Tonhöhen: /^
-Definition: frei werden
-Alternativschreibweisen: ''
+Definition: sich öffnen; frei werden; leer werden
+Alternativschreibweisen: 明く・開く
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 空かない・空いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   この後空いてる？
   この 後[のち] 空[あ]いてる？
   Bist du danach frei?
+
+  ドアが空いていますよ。気をつけてください。
+  ドアが 空[あ]いていますよ。気[き]をつけてください。
+  Die Tür steht offen. Bitte sei vorsichtig.
+
+  手術室の戸は空いていたが、まだ医師たちの姿は見えなかった。
+  手術室[しゅじゅつしつ]の 戸[と]は 空[あ]いていたが、まだ 医師[いし]たちの 姿[すがた]は 見[み]えなかった。
+  Die Tür zum Operationssaal stand offen, aber von den Ärzten war noch nichts zu sehen.
+
+  穴の空いたセーターを着ていると、寒さが身にしみる。
+  穴[あな]の 空[あ]いたセーターを 着[き]ていると、寒[さむ]さが 身[み]にしみる。
+  Wenn man einen löcherigen Pullover trägt, dringt die Kälte bis auf die Haut.
+
+  瓶が空いたら、リサイクルに出してください。
+  瓶[びん]が 空[あ]いたら、リサイクルに 出[だ]してください。
+  Wenn die Flasche leer ist, bitte zum Recycling geben.
+
+  明日の午後、時間が空いているので、打ち合わせができます。
+  明日[あした]の 午後[ごご]、時間[じかん]が 空[あ]いているので、打[う]ち 合[あ]わせができます。
+  Morgen Nachmittag habe ich Zeit frei, sodass wir uns besprechen können.
+
+  その会社で新しいポストが空いたと聞いたんだけど。
+  その 会社[かいしゃ]で 新[あたら]しいポストが 空[あ]いたと 聞[き]いたんだけど。
+  Ich habe gehört, dass in dieser Firma eine neue Stelle frei geworden ist.
+
+  電車内で席が空いたら、お年寄りに譲りましょう。
+  電車内[でんしゃない]で 席[せき]が 空[あ]いたら、お 年寄[としよ]りに 譲[ゆず]りましょう。
+  Wenn in der Bahn ein Sitzplatz frei wird, sollten wir ihn älteren Menschen überlassen.
+
+  手が空いたら、この書類をファイルしてくれませんか？
+  手[て]が 空[あ]いたら、この 書類[しょるい]をファイルしてくれませんか？
+  Könntest du diese Dokumente ablegen, wenn du Zeit hast?
+
+  この箱は空いているから、荷物を入れてもいいですよ。
+  この 箱[はこ]は 空[あ]いているから、荷物[にもつ]を 入[い]れてもいいですよ。
+  Diese Box ist leer, du kannst deine Sachen hineinlegen.
+
+  隣の部屋が空いているので、そこを使ってください。
+  隣[となり]の 部屋[へや]が 空[あ]いているので、そこを 使[つか]ってください。
+  Das Zimmer nebenan steht leer, bitte benutze es.
+
+  販売機の前に立つと、ちょうど空いていたので利用しました。
+  販売機[はんばいき]の 前[まえ]に 立[た]つと、ちょうど 空[あ]いていたので 利用[りよう]しました。
+  Als ich vor dem Automaten stand, war er gerade frei, also habe ich ihn benutzt.
+
+  キャビンが空くのを待つ患者たちがたくさんいた。
+  キャビンが 空[あ]くのを 待[ま]つ 患者[かんじゃ]たちがたくさんいた。
+  Es gab viele Patienten, die darauf warteten, dass eine Kabine frei wurde.
+
+  幕が空いて、公演が始まりました。
+  幕[まく]が 空[あ]いて、公演[こうえん]が 始[はじ]まりました。
+  Der Vorhang ging auf und die Vorstellung begann.
+
+  朝9時に店が空くので、それまで待っていてください。
+  朝[あさ]9時[じ]に 店[みせ]が 空[あ]くので、それまで 待[ま]っていてください。
+  Der Laden öffnet um 9 Uhr morgens, bitte warten Sie bis dahin.
+
+  芝居が空くまでもう少しです。席についてお待ちください。
+  芝居[しばい]が 空[あ]くまでもう 少[すこ]しです。席[せき]についてお 待[ま]ちください。
+  Es dauert nicht mehr lange, bis das Theaterstück beginnt. Bitte nehmen Sie Platz und warten Sie.
+
+  切手の窓口だけが空いていて、他は閉まっていました。
+  切手[きって]の 窓口[まどぐち]だけが 空[あ]いていて、他[ほか]は 閉[し]まっていました。
+  Nur der Schalter für Briefmarken war geöffnet, die anderen waren geschlossen.
+
+  やっと事件の真相が空いて、犯人が分かりました。
+  やっと 事件[じけん]の 真相[しんそう]が 空[あ]いて、犯人[はんにん]が 分[わ]かりました。
+  Endlich wurde der wahre Sachverhalt des Vorfalls aufgeklärt und der Täter identifiziert.
+
+  あいた口が塞がらぬほど驚いた。
+  あいた 口[くち]が 塞[ふさ]がらぬほど 驚[おどろ]いた。
+  Ich war so überrascht, dass ich den Mund nicht mehr zubekommen habe.
+
+  予想外の幸運に、あいた口へ餅という感じだった。
+  予想外[よそうがい]の 幸運[こううん]に、あいた 口[くち]へ 餅[もち]という 感[かん]じだった。
+  Das unerwartete Glück war wie ein Reiskuchen in den geöffneten Mund.
+
+  彼の話を聞いて、あまりの驚きにあいた口が塞がらなかった。
+  彼[かれ]の 話[はなし]を 聞[き]いて、あまりの 驚[おどろ]きにあいた 口[くち]が 塞[ふさ]がらなかった。
+  Als ich seine Geschichte hörte, war ich so verblüfft, dass ich den Mund nicht mehr zubekommen habe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

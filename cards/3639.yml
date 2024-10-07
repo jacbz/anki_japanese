@@ -2,24 +2,141 @@ Rang: 3639
 Lemma: 臭い
 Lesung: くさい
 Tonhöhen: (/)\.
-Definition: stinkend
+Definition: stinkend; verdächtig
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: adj, suff
+Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 臭くない・臭かった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   靴を脱いだら、足が臭かった。
-  靴[くつ]を 脱[ぬ]いだら、 足[あし]が 臭[くさ]かった。
-  Meine Füße waren stinkend, als ich meine Schuhe auszog.
+  靴[くつ]を 脱[ぬ]いだら、足[あし]が 臭[くさ]かった。
+  Als ich meine Schuhe auszog, stanken meine Füße.
+
+  ゴミ箱から臭いにおいがする。
+  ゴミ箱[ごみばこ]から 臭[くさ]いにおいがする。
+  Aus dem Mülleimer kommt ein übler Geruch.
+
+  冷蔵庫の中の魚が臭くなってきた。
+  冷蔵庫[れいぞうこ]の 中[なか]の 魚[さかな]が 臭[くさ]くなってきた。
+  Der Fisch im Kühlschrank hat angefangen zu stinken.
+
+  彼の息が臭いので、歯磨きをすすめた。
+  彼[かれ]の 息[いき]が 臭[くさ]いので、歯磨[はみが]きをすすめた。
+  Weil sein Atem stank, empfahl ich ihm, sich die Zähne zu putzen.
+
+  その取引は臭いから、関わらない方がいいよ。
+  その 取引[とりひき]は 臭[くさ]いから、関[かか]わらない 方[ほう]がいいよ。
+  Dieses Geschäft ist verdächtig, du solltest dich besser nicht darauf einlassen.
+
+  彼の素振りが臭いので、要注意だ。
+  彼[かれ]の 素振[そぶ]りが 臭[くさ]いので、要注意[ようちゅうい]だ。
+  Sein Verhalten ist verdächtig, wir müssen vorsichtig sein.
+
+  あの俳優の演技は臭すぎて、見ていられない。
+  あの 俳優[はいゆう]の 演技[えんぎ]は 臭[くさ]すぎて、見[み]ていられない。
+  Die Darstellung dieses Schauspielers ist so übertrieben, dass ich es nicht mit ansehen kann.
+
+  汗臭い服を着たまま外出するのは避けましょう。
+  汗臭[あせくさ]い 服[ふく]を 着[き]たまま 外出[がいしゅつ]するのは 避[さ]けましょう。
+  Vermeiden Sie es, in nach Schweiß riechender Kleidung auszugehen.
+
+  かび臭い本を開くと、懐かしい匂いがした。
+  かび 臭[くさ]い 本[ほん]を 開[ひら]くと、懐[なつ]かしい 匂[にお]いがした。
+  Als ich das muffige Buch öffnete, stieg mir ein nostalgischer Geruch in die Nase.
+
+  ガス臭いにおいがするから、窓を開けて。
+  ガス 臭[くさ]いにおいがするから、窓[まど]を 開[あ]けて。
+  Es riecht nach Gas, mach bitte das Fenster auf.
+
+  こげ臭いにおいがするけど、何か焦げてる？
+  こげ 臭[くさ]いにおいがするけど、何[なに]か 焦[こ]げてる？
+  Es riecht verbrannt, ist etwas angebrannt?
+
+  彼は酒臭い息を吐きながら帰ってきた。
+  彼[かれ]は 酒臭[さけくさ]い 息[いき]を 吐[は]きながら 帰[かえ]ってきた。
+  Er kam mit nach Alkohol riechendem Atem nach Hause.
+
+  その古い建物は貧乏臭い雰囲気だった。
+  その 古[ふる]い 建物[たてもの]は 貧乏臭[びんぼうくさ]い 雰囲気[ふんいき]だった。
+  Dieses alte Gebäude hatte eine ärmliche Atmosphäre.
+
+  彼の話し方は学者臭くて、少し退屈だ。
+  彼[かれ]の 話[はな]し 方[かた]は 学者臭[がくしゃくさ]くて、少[すこ]し 退屈[たいくつ]だ。
+  Seine Art zu sprechen ist gelehrtenhaft und ein bisschen langweilig.
+
+  その田舎臭い習慣は、都会では通用しないよ。
+  その 田舎臭[いなかくさ]い 習慣[しゅうかん]は、都会[とかい]では 通用[つうよう]しないよ。
+  Diese ländliche Gewohnheit ist in der Stadt nicht angebracht.
+
+  彼の自慢臭い態度には、みんなうんざりしている。
+  彼[かれ]の 自慢臭[じまんくさ]い 態度[たいど]には、みんなうんざりしている。
+  Alle sind von seiner angeberischen Haltung genervt.
+
+  まだ若いのに、年寄り臭い考え方をしている。
+  まだ 若[わか]いのに、年寄[としよ]り 臭[くさ]い 考[かんが]え 方[かた]をしている。
+  Obwohl er noch jung ist, denkt er wie ein alter Mann.
+
+  その提案は詭計臭いから、慎重に検討しよう。
+  その 提案[ていあん]は 詭計臭[きけいくさ]いから、慎重[しんちょう]に 検討[けんとう]しよう。
+  Dieser Vorschlag riecht nach einer List, lass uns das vorsichtig überprüfen.
+
+  その説明は馬鹿臭くて、誰も信じないだろう。
+  その 説明[せつめい]は 馬鹿臭[ばかくさ]くて、誰[だれ]も 信[しん]じないだろう。
+  Diese Erklärung ist so dumm, dass sie wohl niemand glauben wird.
+
+  そんなけち臭いことをしていると、友達がいなくなるよ。
+  そんなけち 臭[くさ]いことをしていると、友達[ともだち]がいなくなるよ。
+  Wenn du so geizig bist, wirst du keine Freunde mehr haben.
+
+  面倒臭い手続きは全部省略したい。
+  面倒臭[めんどうくさ]い 手続[てつづ]きは 全部[ぜんぶ] 省略[しょうりゃく]したい。
+  Ich möchte all die lästigen Formalitäten überspringen.
+
+  自分の臭いものに蓋をするのは、問題の解決にならない。
+  自分[じぶん]の 臭[くさ]いものに 蓋[ふた]をするのは、問題[もんだい]の 解決[かいけつ]にならない。
+  Seine eigenen Fehler zu vertuschen, löst das Problem nicht.
+
+  「臭かったら、鼻を摘んでいらっしゃいよ」と彼は冗談を言った。
+  「臭[くさ]かったら、鼻[はな]を 摘[つま]んでいらっしゃいよ」と 彼[かれ]は 冗談[じょうだん]を 言[い]った。
+  "Wenn es stinkt, halte dir die Nase zu", scherzte er.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Adjektiv 臭[くさ]い beschreibt Gerüche und hat mehrere Verwendungen:</p>
+  <ul>
+    <li>In seiner Grundbedeutung beschreibt es etwas, das schlecht riecht oder stinkt:</li>
+    <div class="examples">
+      <div class="jp">耐[た]え 難[がた]い 臭[くさ]いを 放[はな]つ、暗渠[あんきょ]の 腐[くさ]ったどぶ 水[みず]</div>
+      <div class="de spoiler">Das unerträglich stinkende, verfaulte Abwasser des unterirdischen Kanals</div>
+    </div>
+    <li>Im übertragenen Sinne bedeutet es "verdächtig" oder "zweifelhaft":</li>
+    <div class="examples">
+      <div class="jp">赤[あか]シャツは 臭[くさ]いぜ、用心[ようじん]しないとやられるぜ</div>
+      <div class="de spoiler">Bei Rothemd ist etwas faul. Wenn wir nicht aufpassen, sind wir erledigt.</div>
+    </div>
+  </ul>
+
+  <p>Als Suffix <span class="jp">～臭[くさ]い</span> hat es folgende Bedeutungen:</p>
+  <ul>
+    <li>Nach etwas riechen (meist unangenehm):</li>
+    <div class="examples">
+      <div class="jp">油[あぶら]臭[くさ]い 匂[にお]い</div>
+      <div class="de spoiler">Der Geruch nach Frittiertem</div>
+      <div class="jp">汗[あせ]くさいジム</div>
+      <div class="de spoiler">Eine nach Schweiß riechende Sporthalle</div>
+    </div>
+    <li>Den Anschein von etwas haben:</li>
+    <div class="examples">
+      <div class="jp">詭計[きけい]くさいすすめ</div>
+      <div class="de spoiler">Ein listig erscheinender Vorschlag</div>
+    </div>
+  </ul>

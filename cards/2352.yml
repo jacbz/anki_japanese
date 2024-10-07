@@ -2,24 +2,110 @@ Rang: 2352
 Lemma: 隠れる
 Lesung: かくれる
 Tonhöhen: /^\.
-Definition: sich verstecken, verbergen
+Definition: sich verstecken
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 隠れない・隠れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は茂みの陰に隠れた。
   彼[かれ]は 茂[しげ]みの 陰[かげ]に 隠[かく]れた。
-  Er hat sich hinter den Sträuchern versteckt.
+  Er versteckte sich hinter dem Gebüsch.
+
+  太陽が厚い雲に隠れた。
+  太陽[たいよう]が 厚[あつ]い 雲[くも]に 隠[かく]れた。
+  Die Sonne verschwand hinter einer dicken Wolke.
+
+  子供たちは押入れに隠れている。
+  子供[こども]たちは 押入[おしい]れに 隠[かく]れている。
+  Die Kinder verstecken sich im Wandschrank.
+
+  彼女は人の陰に隠れて様子を見ていた。
+  彼女[かのじょ]は 人[ひと]の 陰[かげ]に 隠[かく]れて 様子[ようす]を 見[み]ていた。
+  Sie beobachtete die Situation, versteckt hinter jemandem.
+
+  隠れた才能を持つ人もいるんだよ。
+  隠[かく]れた 才能[さいのう]を 持[も]つ 人[ひと]もいるんだよ。
+  Es gibt auch Menschen mit verborgenen Talenten.
+
+  世に隠れた音楽家の作品を発見した。
+  世[よ]に 隠[かく]れた 音楽家[おんがくか]の 作品[さくひん]を 発見[はっけん]した。
+  Ich habe ein Werk eines unbekannten Musikers entdeckt.
+
+  この本は隠れたベストセラーになっているらしい。
+  この 本[ほん]は 隠[かく]れたベストセラーになっているらしい。
+  Dieses Buch scheint ein heimlicher Bestseller zu sein.
+
+  彼は親に隠れてバイトをしている。
+  彼[かれ]は 親[おや]に 隠[かく]れてバイトをしている。
+  Er jobbt heimlich, ohne dass seine Eltern es wissen.
+
+  山寺に隠れて暮らす修行僧もいるそうだ。
+  山寺[やまでら]に 隠[かく]れて 暮[く]らす 修行僧[しゅぎょうそう]もいるそうだ。
+  Es soll auch Mönche geben, die zurückgezogen in Bergtempeln leben.
+
+  彼女は隠れてタバコを吸っていた。
+  彼女[かのじょ]は 隠[かく]れてタバコを 吸[す]っていた。
+  Sie rauchte heimlich.
+
+  本棚の陰に隠れて会話を聞いてしまった。
+  本棚[ほんだな]の 陰[かげ]に 隠[かく]れて 会話[かいわ]を 聞[き]いてしまった。
+  Versteckt hinter dem Bücherregal, belauschte ich unabsichtlich das Gespräch.
+
+  霧の中に隠れてしまう山々の姿が美しかった。
+  霧[きり]の 中[なか]に 隠[かく]れてしまう 山々[やまやま]の 姿[すがた]が 美[うつく]しかった。
+  Die im Nebel verschwindenden Berge waren ein wunderschöner Anblick.
+
+  「どうしてここに隠れて住むようになったの？」と彼女は尋ねた。
+  「どうしてここに 隠[かく]れて 住[す]むようになったの？」と 彼女[かのじょ]は 尋[たず]ねた。
+  "Warum hast du angefangen, dich hier zu verstecken und zu leben?" fragte sie.
+
+  お前の悪い噂を聞いたぞ。わしに隠れて何をしている？
+  お 前[まえ]の 悪[わる]い 噂[うわさ]を 聞[き]いたぞ。わしに 隠[かく]れて 何[なに]をしている？
+  Ich habe schlechte Gerüchte über dich gehört. Was treibst du hinter meinem Rücken?
+
+  彼の祖父はつい先日お隠れになった。
+  彼[かれ]の 祖父[そふ]はつい 先日[せんじつ]お 隠[かく]れになった。
+  Sein Großvater ist erst kürzlich verstorben.
+
+  隠れたるより現われるるは莫しということわざがある。
+  隠[かく]れたるより 現[あらわ]われるるは 莫[な]しということわざがある。
+  Es gibt ein Sprichwort: "Nichts ist offensichtlicher als etwas Verstecktes."
+
+  隠れての信は顕われての徳という言葉を知っていますか。
+  隠[かく]れての 信[しん]は 顕[あらわ]われての 徳[とく]という 言葉[ことば]を 知[し]っていますか。
+  Kennen Sie den Ausdruck "Die im Herzen verborgene Treue zeigt sich von selbst als Tugend"?
+
+  子猫が箱の中に隠れているのを見つけた。
+  子猫[こねこ]が 箱[はこ]の 中[なか]に 隠[かく]れているのを 見[み]つけた。
+  Ich habe ein Kätzchen entdeckt, das sich in einer Schachtel versteckt hatte.
+
+  彼女は人目を隠れて泣いていた。
+  彼女[かのじょ]は 人目[ひとめ]を 隠[かく]れて 泣[な]いていた。
+  Sie weinte versteckt vor den Blicken anderer.
+
+  隠れた意味を読み取るのが難しい文章だ。
+  隠[かく]れた 意味[いみ]を 読[よ]み 取[と]るのが 難[むずか]しい 文章[ぶんしょう]だ。
+  Es ist ein schwieriger Text, dessen verborgene Bedeutung schwer zu erfassen ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Kann auch im übertragenen Sinne verwendet werden, um auszudrücken, dass etwas verborgen oder nicht offensichtlich ist.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 言葉[ことば]の 裏[うら]に 隠[かく]れた 本当[ほんとう]の 意味[いみ]を 理解[りかい]するのは 難[むずか]しい。</div>
+    <div class="de spoiler">Es ist schwierig, die wahre Bedeutung zu verstehen, die sich hinter seinen Worten verbirgt.</div>
+  </div>
+  <p>In der höflich-ehrerbietigen Form <span class="jp">お 隠[かく]れになる</span> wird es als Euphemismus für "sterben" verwendet.</p>
+  <div class="examples">
+    <div class="jp">有名[ゆうめい]な 作家[さっか]が 昨日[きのう]お 隠[かく]れになりました。</div>
+    <div class="de spoiler">Der berühmte Schriftsteller ist gestern verstorben.</div>
+  </div>

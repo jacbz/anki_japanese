@@ -2,7 +2,7 @@ Rang: 2399
 Lemma: 単なる
 Lesung: たんなる
 Tonhöhen: \...
-Definition: bloß, einfach
+Definition: bloß, rein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: attr
@@ -15,11 +15,110 @@ Konjugation: ''
 Beispielsätze: |-
   単なる勘違いでは済まない。
   単[たん]なる 勘違[かんちが]いでは 済[す]まない。
-  Es ist nicht einfach nur ein Fehler.
+  Eine simple Fehleinschätzung reicht als Erklärung nicht aus.
+
+  これは単なる言い訳にすぎない。
+  これは 単[たん]なる 言[い]い 訳[わけ]にすぎない。
+  Das ist nichts weiter als eine bloße Ausrede.
+
+  単なる技術的な問題に過ぎないと思います。
+  単[たん]なる 技術的[ぎじゅつてき]な 問題[もんだい]に 過[す]ぎないと 思[おも]います。
+  Ich denke, es handelt sich lediglich um ein technisches Problem.
+
+  これは単なる風邪ではないかもしれません。
+  これは 単[たん]なる 風邪[かぜ]ではないかもしれません。
+  Dies könnte mehr als nur eine einfache Erkältung sein.
+
+  彼女は単なる慣れから毎日同じ道を通る。
+  彼女[かのじょ]は 単[たん]なる 慣[な]れから 毎日[まいにち] 同[おな]じ 道[みち]を 通[とお]る。
+  Sie geht aus reiner Gewohnheit jeden Tag denselben Weg.
+
+  これは単なる仮説にすぎないが、興味深い考えだ。
+  これは 単[たん]なる 仮説[かせつ]にすぎないが、興味深[きょうみぶか]い 考[かんが]えだ。
+  Dies ist zwar nur eine Hypothese, aber ein interessanter Gedanke.
+
+  彼らは私を単なる「耳の持ち主」として扱った。
+  彼[かれ]らは 私[わたし]を 単[たん]なる「耳[みみ]の 持[も]ち 主[ぬし]」として 扱[あつか]った。
+  Sie behandelten mich einfach nur als "die mit den Ohren".
+
+  単なる思いつきで重要な決定をしてはいけない。
+  単[たん]なる 思[おも]いつきで 重要[じゅうよう]な 決定[けってい]をしてはいけない。
+  Man sollte keine wichtigen Entscheidungen aufgrund simpler Einfälle treffen.
+
+  これは単なる偶然の一致だと思う。
+  これは 単[たん]なる 偶然[ぐうぜん]の 一致[いっち]だと 思[おも]う。
+  Ich denke, das ist einfach nur ein zufälliges Zusammentreffen.
+
+  彼の行動を単なる気まぐれだと片付けるのは間違いだ。
+  彼[かれ]の 行動[こうどう]を 単[たん]なる 気[き]まぐれだと 片付[かたづ]けるのは 間違[まちが]いだ。
+  Es wäre falsch, sein Verhalten als bloße Laune abzutun.
+
+  単なる推測で人を判断してはいけません。
+  単[たん]なる 推測[すいそく]で 人[ひと]を 判断[はんだん]してはいけません。
+  Man sollte Menschen nicht aufgrund reiner Vermutungen beurteilen.
+
+  この問題は単なる誤解から始まった。
+  この 問題[もんだい]は 単[たん]なる 誤解[ごかい]から 始[はじ]まった。
+  Dieses Problem begann mit einem simplen Missverständnis.
+
+  彼女は単なる知り合いではなく、大切な友人だ。
+  彼女[かのじょ]は 単[たん]なる 知[し]り 合[あ]いではなく、大切[たいせつ]な 友人[ゆうじん]だ。
+  Sie ist nicht bloß eine Bekannte, sondern eine wichtige Freundin.
+
+  単なる憶測で人を非難するのはよくない。
+  単[たん]なる 憶測[おくそく]で 人[ひと]を 非難[ひなん]するのはよくない。
+  Es ist nicht gut, jemanden aufgrund bloßer Spekulationen zu kritisieren.
+
+  これは単なる冗談のつもりだった。
+  これは 単[たん]なる 冗談[じょうだん]のつもりだった。
+  Das war nur als einfacher Scherz gedacht.
+
+  単なる噂を信じてはいけない。
+  単[たん]なる 噂[うわさ]を 信[しん]じてはいけない。
+  Man sollte nicht einfach Gerüchten Glauben schenken.
+
+  彼女の成功は単なる運ではない。
+  彼女[かのじょ]の 成功[せいこう]は 単[たん]なる 運[うん]ではない。
+  Ihr Erfolg ist nicht bloß Glückssache.
+
+  単なる事実の羅列では、良いレポートにはならない。
+  単[たん]なる 事実[じじつ]の 羅列[られつ]では、良[よ]いレポートにはならない。
+  Eine reine Auflistung von Fakten macht noch keinen guten Bericht aus.
+
+  それは単なる形式的な挨拶にすぎなかった。
+  それは 単[たん]なる 形式的[けいしきてき]な 挨拶[あいさつ]にすぎなかった。
+  Es war nichts weiter als eine formelle Begrüßung.
+
+  単なる推測で結論を出すのは危険だ。
+  単[たん]なる 推測[すいそく]で 結論[けつろん]を 出[だ]すのは 危険[きけん]だ。
+  Es ist gefährlich, Schlüsse aus reinen Vermutungen zu ziehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>単[たん]なる wird als Attribut verwendet, um etwas als einfach, schlicht oder bloß zu beschreiben.</p>
+  <ul>
+    <li>Es betont die Einfachheit oder Reinheit einer Sache:</li>
+    <div class="examples">
+      <div class="jp">これは<u>単[たん]なる</u> 仮説[かせつ]にすぎない。</div>
+      <div class="de spoiler">Das ist nur eine reine Hypothese.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um etwas als "nichts anderes als" oder "nur" zu charakterisieren:</li>
+    <div class="examples">
+      <div class="jp"><u>単[たん]なる</u> 思[おも]いつきを 押[お]しつけられて</div>
+      <div class="de spoiler">Von simplen Einfällen bedrängt</div>
+    </div>
+    <li>Oft wird es benutzt, um die Bedeutung oder den Wert von etwas zu relativieren:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]を<u>単[たん]なる</u>「耳[みみ]の 持[も]ち 主[ぬし]」として 扱[あつか]った。</div>
+      <div class="de spoiler">Sie behandelten sie einfach nur als "die mit den Ohren".</div>
+    </div>
+  </ul>
+  <p>Es kann auch in kritischen oder negativen Kontexten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp"><u>単[たん]なる</u> 変節漢[へんせつかん]である。</div>
+    <div class="de spoiler">Sie sind einfach nur noch Verräter.</div>
+  </div>

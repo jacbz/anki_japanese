@@ -2,10 +2,10 @@ Rang: 2067
 Lemma: 配慮
 Lesung: はいりょ
 Tonhöhen: \...
-Definition: Berücksichtigung
+Definition: Rücksicht; berücksichtigen
 Alternativschreibweisen: ''
 Extra: （する）
-Wortart: n, vi, vt
+Wortart: n, vt, vi
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,87 @@ Konjugation: ''
 Beispielsätze: |-
   我が社は環境に十分配慮しております。
   我[わ]が 社[しゃ]は 環境[かんきょう]に 十分[じゅうぶん] 配慮[はいりょ]しております。
-  Mein Unternehmen achtet sehr auf die Umwelt.
+  Unser Unternehmen berücksichtigt die Umwelt in vollem Umfang.
+
+  お客様のニーズに配慮した商品開発を心がけています。
+  お 客様[きゃくさま]のニーズに 配慮[はいりょ]した 商品開発[しょうひんかいはつ]を 心[こころ]がけています。
+  Wir bemühen uns um eine Produktentwicklung, die den Bedürfnissen unserer Kunden Rechnung trägt.
+
+  障がい者への配慮が足りないと批判されている。
+  障[しょう]がい 者[しゃ]への 配慮[はいりょ]が 足[た]りないと 批判[ひはん]されている。
+  Es wird kritisiert, dass die Rücksichtnahme auf Menschen mit Behinderungen unzureichend ist.
+
+  配慮の行き届いた接客で高い評価を得ている。
+  配慮[はいりょ]の 行[い]き 届[とど]いた 接客[せっきゃく]で 高[たか]い 評価[ひょうか]を 得[え]ている。
+  Sie erhalten hohe Bewertungen für ihren äußerst rücksichtsvollen Kundenservice.
+
+  階級への配慮から、その発言は控えめにした。
+  階級[かいきゅう]への 配慮[はいりょ]から、その 発言[はつげん]は 控[ひか]えめにした。
+  Aus Standesrücksichten hielt er sich mit seiner Äußerung zurück.
+
+  政治的配慮により、その計画は延期された。
+  政治的[せいじてき] 配慮[はいりょ]により、その 計画[けいかく]は 延期[えんき]された。
+  Aus politischen Erwägungen wurde der Plan verschoben.
+
+  ご配慮をありがとうございました。
+  ご 配慮[はいりょ]をありがとうございました。
+  Vielen Dank für Ihr Bemühen.
+
+  子供の気持ちに配慮して話をしてください。
+  子供[こども]の 気持[きも]ちに 配慮[はいりょ]して 話[はな]をしてください。
+  Bitte sprechen Sie unter Berücksichtigung der Gefühle des Kindes.
+
+  彼女は常に周りの人に配慮している。
+  彼女[かのじょ]は 常[つね]に 周[まわ]りの 人[ひと]に 配慮[はいりょ]している。
+  Sie nimmt stets Rücksicht auf die Menschen um sie herum.
+
+  災害の可能性に配慮して、避難計画を立てた。
+  災害[さいがい]の 可能性[かのうせい]に 配慮[はいりょ]して、避難[ひなん] 計画[けいかく]を 立[た]てた。
+  Unter Berücksichtigung der Möglichkeit einer Katastrophe wurde ein Evakuierungsplan erstellt.
+
+  健康に配慮した食事を心がけている。
+  健康[けんこう]に 配慮[はいりょ]した 食事[しょくじ]を 心[こころ]がけている。
+  Ich achte auf eine gesundheitsbewusste Ernährung.
+
+  配慮不足で問題が起きてしまった。
+  配慮不足[はいりょぶそく]で 問題[もんだい]が 起[お]きてしまった。
+  Aufgrund mangelnder Rücksichtnahme ist ein Problem entstanden.
+
+  お互いの立場を配慮し合うことが大切だ。
+  お 互[たが]いの 立場[たちば]を 配慮[はいりょ]し 合[あ]うことが 大切[たいせつ]だ。
+  Es ist wichtig, gegenseitig Rücksicht auf die Position des anderen zu nehmen.
+
+  彼は常に他人の気持ちを配慮して行動する。
+  彼[かれ]は 常[つね]に 他人[たにん]の 気持[きも]ちを 配慮[はいりょ]して 行動[こうどう]する。
+  Er handelt stets unter Berücksichtigung der Gefühle anderer.
+
+  安全性に配慮した製品設計を行っています。
+  安全性[あんぜんせい]に 配慮[はいりょ]した 製品設計[せいひんせっけい]を 行[おこな]っています。
+  Wir führen ein Produktdesign durch, das die Sicherheit berücksichtigt.
+
+  学生の学習環境に配慮した校舎の改築を行う。
+  学生[がくせい]の 学習環境[がくしゅうかんきょう]に 配慮[はいりょ]した 校舎[こうしゃ]の 改築[かいちく]を 行[おこな]う。
+  Wir werden den Schulbau unter Berücksichtigung der Lernumgebung der Schüler umbauen.
+
+  彼の配慮の行き届いた対応に感謝しています。
+  彼[かれ]の 配慮[はいりょ]の 行[い]き 届[とど]いた 対応[たいおう]に 感謝[かんしゃ]しています。
+  Ich bin dankbar für seine äußerst rücksichtsvolle Reaktion.
+
+  環境への配慮から、使い捨て製品の使用を控えている。
+  環境[かんきょう]への 配慮[はいりょ]から、使[つか]い 捨[す]て 製品[せいひん]の 使用[しよう]を 控[ひか]えている。
+  Aus Rücksicht auf die Umwelt verzichte ich auf die Verwendung von Wegwerfprodukten.
+
+  お客様の声に配慮したサービス改善を進めています。
+  お 客様[きゃくさま]の 声[こえ]に 配慮[はいりょ]したサービス 改善[かいぜん]を 進[すす]めています。
+  Wir arbeiten an der Verbesserung unseres Service unter Berücksichtigung des Kundenfeedbacks.
+
+  彼女は常に相手の立場に配慮して話をする。
+  彼女[かのじょ]は 常[つね]に 相手[あいて]の 立場[たちば]に 配慮[はいりょ]して 話[はな]をする。
+  Sie spricht immer unter Berücksichtigung der Position ihres Gegenübers.
+
+  配慮に欠ける言動は避けるべきだ。
+  配慮[はいりょ]に 欠[か]ける 言動[げんどう]は 避[さ]けるべきだ。
+  Man sollte Worte und Taten vermeiden, denen es an Rücksichtnahme mangelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

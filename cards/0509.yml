@@ -102,4 +102,22 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>我が ist ein attributives Pronomen mit verschiedenen Bedeutungen:</p>
+  <ul>
+    <li>Es bedeutet "eigen", "selbst", "mein" oder "unser".</li>
+    <div class="examples">
+      <div class="jp">目[め]の 前[まえ]の 眺望[ちょうぼう]が<u>我[わ]が</u> 目[め]を 疑[うたが]わせた。</div>
+      <div class="de spoiler">Der Ausblick vor mir ließ mich meinen Augen nicht trauen.</div>
+      <div class="jp"><u>我[わ]が</u> 社[しゃ]の 社員[しゃいん]を、ちょっぴり 自慢[じまん]させていただいただけです。</div>
+      <div class="de spoiler">Ich wollte nur ein bisschen mit meinen Angestellten angeben.</div>
+    </div>
+    <li>Es kann auch als höfliche Anrede für "Sie" oder "du" verwendet werden.</li>
+  </ul>
+  <p>Interessante Redewendungen mit 我が:</p>
+  <ul>
+    <li><span class="jp">人[ひと]のふり 見[み]て<u>我[わ]が</u>ふり 直[なお]せ</span> - Lerne von den Fehlern anderer</li>
+    <li><span class="jp"><u>我[わ]が</u> 頭[あたま]の 蝿[はえ]を 追[お]え</span> - Kümmere dich um deine eigenen Angelegenheiten</li>
+  </ul>
+  <p>我が stammt ursprünglich von der Kombination des Pronomens 我 (ich) und der Subjektmarkierung が.</p>
+  </p>

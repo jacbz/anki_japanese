@@ -102,4 +102,24 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>へ wird verwendet, um eine Richtung oder ein Ziel anzugeben.</p>
+  <ul>
+    <li>Es bedeutet "nach", "zu", "in", "an", "auf" oder "gegen" und zeigt die Richtung einer Bewegung an.</li>
+    <div class="examples">
+      <div class="jp">こちら<u>へ</u>どうぞ。</div>
+      <div class="de spoiler">Hier entlang, bitte.</div>
+      <div class="jp">料理屋[りょうりや]<u>へ</u> 誘[さそ]ってくれた。</div>
+      <div class="de spoiler">Sie luden mich in eine Gaststätte ein.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um ein abstraktes Ziel oder eine Richtung anzuzeigen.</li>
+    <div class="examples">
+      <div class="jp">大杉[おおすぎ] 先生[せんせい]<u>への</u> 御恩返[ごおんがえ]しです。</div>
+      <div class="de spoiler">Es ist eine Erwiderung der Güte gegenüber Professor Osugi.</div>
+    </div>
+    <li>Bei Gebäuden oder Orten zeigt es das Ziel einer Bewegung an.</li>
+    <div class="examples">
+      <div class="jp">渡[わた]り 廊下[ろうか]が 別館[べっかん]<u>へと</u>つながっていた。</div>
+      <div class="de spoiler">Der Verbindungsgang führte zum Nebengebäude.</div>
+    </div>
+  </ul>

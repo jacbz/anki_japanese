@@ -2,7 +2,7 @@ Rang: 2207
 Lemma: 皿
 Lesung: さら
 Tonhöhen: /^
-Definition: Teller, Schale
+Definition: Teller
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,79 @@ Konjugation: ''
 Beispielsätze: |-
   この料理を皿に盛りつけてください。
   この 料理[りょうり]を 皿[さら]に 盛[も]りつけてください。
-  Bitte legen Sie dieses Essen auf den Teller.
+  Bitte richten Sie dieses Gericht auf dem Teller an.
+
+  新しい皿洗い機を買ったので、食器を洗うのが楽になりました。
+  新[あたら]しい 皿洗[さらあら]い 機[き]を 買[か]ったので、食器[しょっき]を 洗[あら]うのが 楽[らく]になりました。
+  Ich habe eine neue Geschirrspülmaschine gekauft, das macht das Abwaschen viel einfacher.
+
+  皿拭きを手伝ってくれませんか？
+  皿拭[さらふ]きを 手伝[てつだ]ってくれませんか？
+  Könntest du mir beim Abtrocknen des Geschirrs helfen?
+
+  パーティーの準備で、大皿と小皿を用意しました。
+  パーティーの 準備[じゅんび]で、大皿[おおざら]と 小皿[こざら]を 用意[ようい]しました。
+  Für die Partyvorbereitung habe ich große und kleine Teller bereitgestellt.
+
+  スープ皿にコンソメを注ぎました。
+  スープ皿[さら]にコンソメを 注[そそ]ぎました。
+  Ich habe die Consommé in den Suppenteller gegossen.
+
+  お皿を下げますね。食事はいかがでしたか？
+  お皿[さら]を 下[さ]げますね。食事[しょくじ]はいかがでしたか？
+  Ich räume jetzt die Teller ab. Wie hat Ihnen das Essen geschmeckt?
+
+  子供が誤って皿を割ってしまいました。
+  子供[こども]が 誤[あやま]って 皿[さら]を 割[わ]ってしまいました。
+  Das Kind hat versehentlich einen Teller zerbrochen.
+
+  食卓に皿を並べて、夕食の準備をしています。
+  食卓[しょくたく]に 皿[さら]を 並[なら]べて、夕食[ゆうしょく]の 準備[じゅんび]をしています。
+  Ich stelle die Teller auf den Esstisch und bereite das Abendessen vor.
+
+  あたためた皿に盛り、レモンバターをあしらいました。
+  あたためた 皿[さら]に 盛[も]り、レモンバターをあしらいました。
+  Ich habe es auf einen vorgewärmten Teller gelegt und mit Zitronenbutter garniert.
+
+  皿が下げられ、デザートが運ばれてきました。
+  皿[さら]が 下[さ]げられ、デザートが 運[はこ]ばれてきました。
+  Die Teller wurden abgeräumt und der Nachtisch wurde serviert.
+
+  とつぜん、テーブルの上のコップが、皿ごと音をたててはねあがりました。
+  とつぜん、テーブルの 上[うえ]のコップが、皿[さら]ごと 音[おと]をたててはねあがりました。
+  Plötzlich klirrte es auf dem Tisch, und die Tasse sprang samt Untertasse hoch.
+
+  彼女は皿眼で驚いた様子を見せた。
+  彼女[かのじょ]は 皿眼[さらまなこ]で 驚[おどろ]いた 様子[ようす]を 見[み]せた。
+  Sie zeigte mit weit aufgerissenen Augen ihr Erstaunen.
+
+  培養皿に細菌を植え付けて、実験を始めました。
+  培養皿[ばいようざら]に 細菌[さいきん]を 植[う]え 付[つ]けて、実験[じっけん]を 始[はじ]めました。
+  Ich habe Bakterien in die Petrischale gesetzt und mit dem Experiment begonnen.
+
+  灰皿を片付けて、部屋の空気をきれいにしましょう。
+  灰皿[はいざら]を 片付[かたづ]けて、部屋[へや]の 空気[くうき]をきれいにしましょう。
+  Lass uns die Aschenbecher wegräumen und die Luft im Zimmer reinigen.
+
+  ペン皿に鉛筆を置いて、デスクを整理しました。
+  ペン皿[ざら]に 鉛筆[えんぴつ]を 置[お]いて、デスクを 整理[せいり]しました。
+  Ich habe die Bleistifte in die Stiftablage gelegt und den Schreibtisch aufgeräumt.
+
+  皿ボルトを使って、家具をしっかりと固定しました。
+  皿[さら]ボルトを 使[つか]って、家具[かぐ]をしっかりと 固定[こてい]しました。
+  Ich habe die Möbel mit Senkschrauben fest verankert.
+
+  彼は皿回しの技を披露して、観客を楽しませました。
+  彼[かれ]は 皿回[さらまわ]しの 技[わざ]を 披露[ひろう]して、観客[かんきゃく]を 楽[たの]しませました。
+  Er führte seine Tellerjonglier-Künste vor und unterhielt das Publikum.
+
+  紙皿を使えば、後片付けが簡単です。
+  紙皿[かみざら]を 使[つか]えば、後片付[あとかたづ]けが 簡単[かんたん]です。
+  Wenn man Pappteller benutzt, ist das Aufräumen einfach.
+
+  猫を追うより皿を引け、という諺があります。
+  猫[ねこ]を 追[お]うより 皿[さら]を 引[ひ]け、という 諺[ことわざ]があります。
+  Es gibt ein Sprichwort, das besagt: "Anstatt die Katze zu jagen, solltest du lieber den Teller wegziehen."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

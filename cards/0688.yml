@@ -98,4 +98,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>限[かぎ]り wird in verschiedenen Bedeutungen verwendet:</p>
+  <ul>
+    <li>Es bedeutet "Grenze", "Ende" oder "Beschränkung":</li>
+    <div class="examples">
+      <div class="jp">ベンチの 数[かず]にも<u>限り</u>がある。</div>
+      <div class="de spoiler">Es gibt nur eine begrenzte Anzahl von Bänken.</div>
+    </div>
+    <li>Es kann "alles" oder "ganz" bedeuten, im Sinne von "bis zum Äußersten":</li>
+    <div class="examples">
+      <div class="jp">声[こえ]を<u>限り</u>に 叫[さけ]んだ。</div>
+      <div class="de spoiler">Er schrie aus voller Kehle.</div>
+    </div>
+    <li>Nach einer Bestimmung bedeutet es "soweit", "solange" oder "wenn":</li>
+    <div class="examples">
+      <div class="jp">知[し]っている<u>限り</u>の 昆虫[こんちゅう]の 名前[なまえ]を 列記[れっき]してみる。</div>
+      <div class="de spoiler">Ich werde alle Insektennamen auflisten, die ich kenne.</div>
+      <div class="jp">死体[したい]が 見[み]つからない<u>限り</u> 事件[じけん]ではない。</div>
+      <div class="de spoiler">Solange keine Leiche gefunden wird, gibt es keinen Fall.</div>
+    </div>
+    <li>In der Form ～で（は）ない bedeutet es "außerhalb (eines bestimmten Bereichs)":</li>
+    <div class="examples">
+      <div class="jp">性的[せいてき]サービスの 提供[ていきょう]はこの<u>限り</u>でない。</div>
+      <div class="de spoiler">Sexuelle Dienste sind hiervon ausgenommen.</div>
+    </div>
+    <li>Als ～だ kann es einen hohen Grad ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">実[じつ]に 心細[こころぼそ]い<u>限り</u>だ。</div>
+      <div class="de spoiler">Es ist wirklich sehr entmutigend.</div>
+    </div>
+    <li>Nach einem Substantiv bedeutet es "nur" oder "beschränkt auf":</li>
+    <div class="examples">
+      <div class="jp">今日[きょう]<u>限り</u>で 別[わか]れなければならない。</div>
+      <div class="de spoiler">Wir müssen uns ab heute trennen.</div>
+      <div class="jp">その 場[ば]<u>限り</u>のことだった。</div>
+      <div class="de spoiler">Es war nur für den Moment.</div>
+    </div>
+  </ul>
+  </p>

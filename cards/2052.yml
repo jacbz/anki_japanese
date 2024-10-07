@@ -2,12 +2,12 @@ Rang: 2052
 Lemma: コメント
 Lesung: ''
 Tonhöhen: /^^^
-Definition: Kommentar
+Definition: Kommentar, Anmerkung
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi, vt
 Register: ''
-Ursprung: ''
+Ursprung: engl. comment
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   その件については今はコメントできません。
   その 件[けん]については 今[いま]はコメントできません。
-  Ich kann dazu im Moment keinen Kommentar abgeben.
+  Ich kann mich dazu im Moment nicht äußern.
+
+  記者会見でコメントを出す準備をしています。
+  記者会見[きしゃかいけん]でコメントを 出[だ]す 準備[じゅんび]をしています。
+  Ich bereite mich darauf vor, bei der Pressekonferenz eine Stellungnahme abzugeben.
+
+  彼女の発言に対して多くのコメントが寄せられました。
+  彼女[かのじょ]の 発言[はつげん]に 対[たい]して 多[おお]くのコメントが 寄[よ]せられました。
+  Zu ihrer Aussage gingen viele Kommentare ein.
+
+  専門家にコメントを求めましたが、ノーコメントでした。
+  専門家[せんもんか]にコメントを 求[もと]めましたが、ノーコメントでした。
+  Wir baten einen Experten um einen Kommentar, aber er gab keinen Kommentar ab.
+
+  一言コメントをお願いします。
+  一言[ひとこと]コメントをお 願[ねが]いします。
+  Bitte geben Sie einen kurzen Kommentar ab.
+
+  区は今回の判決についてコメントを出していない。
+  区[く]は 今回[こんかい]の 判決[はんけつ]についてコメントを 出[だ]していない。
+  Der Bezirk hat zu dem Urteil keine Stellungnahme abgegeben.
+
+  グルダは、演奏に関する解説的なコメントを約束した。
+  グルダは、演奏[えんそう]に 関[かん]する 解説的[かいせつてき]なコメントを 約束[やくそく]した。
+  Gulda versprach erläuternde Anmerkungen zur Aufführung.
+
+  彼はその問題についてコメントできる立場にはない。
+  彼[かれ]はその 問題[もんだい]についてコメントできる 立場[たちば]にはない。
+  Er ist nicht in der Position, sich zu diesem Problem zu äußern.
+
+  関谷も子供たちの絵を見て回ったが、特に何もコメントしなかった。
+  関谷[せきや]も 子供[こども]たちの 絵[え]を 見[み]て 回[まわ]ったが、特[とく]に 何[なに]もコメントしなかった。
+  Auch Sekitani schaute sich die Bilder der Kinder an, kommentierte sie aber nicht weiter.
+
+  プログラムのソースコードにコメントを追加しました。
+  プログラムのソースコードにコメントを 追加[ついか]しました。
+  Ich habe dem Quellcode des Programms Kommentare hinzugefügt.
+
+  この部分のコメントをアウトしてください。
+  この 部分[ぶぶん]のコメントをアウトしてください。
+  Bitte kommentieren Sie diesen Teil aus.
+
+  重要な箇所はコメント化して、後で確認しやすくしておきましょう。
+  重要[じゅうよう]な 箇所[かしょ]はコメント 化[か]して、後[あと]で 確認[かくにん]しやすくしておきましょう。
+  Lassen Sie uns die wichtigen Stellen als Kommentare markieren, damit wir sie später leichter überprüfen können.
+
+  非コメント化すると、そのコードが実行されるようになります。
+  非[ひ]コメント 化[か]すると、そのコードが 実行[じっこう]されるようになります。
+  Wenn Sie die Kommentierung aufheben, wird dieser Code ausgeführt.
+
+  SNSでの不適切なコメントが問題になっています。
+  SNSでの 不適切[ふてきせつ]なコメントが 問題[もんだい]になっています。
+  Unangemessene Kommentare in sozialen Medien werden zum Problem.
+
+  彼女の投稿に対して、たくさんの励ましのコメントが寄せられました。
+  彼女[かのじょ]の 投稿[とうこう]に 対[たい]して、たくさんの 励[はげ]ましのコメントが 寄[よ]せられました。
+  Auf ihren Beitrag gab es viele aufmunternde Kommentare.
+
+  記事へのコメントは、管理者の承認後に公開されます。
+  記事[きじ]へのコメントは、管理者[かんりしゃ]の 承認後[しょうにんご]に 公開[こうかい]されます。
+  Kommentare zum Artikel werden nach Genehmigung durch den Administrator veröffentlicht.
+
+  彼のコメントは、状況を的確に捉えていると評価されました。
+  彼[かれ]のコメントは、状況[じょうきょう]を 的確[てきかく]に 捉[とら]えていると 評価[ひょうか]されました。
+  Sein Kommentar wurde dafür gelobt, die Situation treffend zu erfassen.
+
+  新製品についてのコメントを求められましたが、まだ発表前なので控えさせていただきます。
+  新製品[しんせいひん]についてのコメントを 求[もと]められましたが、まだ 発表前[はっぴょうまえ]なので 控[ひか]えさせていただきます。
+  Ich wurde um einen Kommentar zum neuen Produkt gebeten, aber da es noch nicht angekündigt wurde, möchte ich mich zurückhalten.
+
+  コメント欄には建設的な意見をお願いします。
+  コメント 欄[らん]には 建設的[けんせつてき]な 意見[いけん]をお 願[ねが]いします。
+  Bitte hinterlassen Sie konstruktive Meinungen im Kommentarbereich.
+
+  彼女のパフォーマンスに対するコメントを200字以内でお願いします。
+  彼女[かのじょ]のパフォーマンスに 対[たい]するコメントを200字[じ] 以内[いない]でお 願[ねが]いします。
+  Bitte geben Sie einen Kommentar zu ihrer Performance in maximal 200 Zeichen ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

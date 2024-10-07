@@ -102,4 +102,37 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>生[い]きる ist ein wichtiges Verb, das "leben" bedeutet.</p>
+  <ul>
+    <li>Es wird als intransitives Verb verwendet und beschreibt den Zustand des Lebens oder Lebendigseins.</li>
+    <div class="examples">
+      <div class="jp">わしもまだ 二三年[にさんねん]<u>は</u> 生[い]きる 積[つも]りじゃ。</div>
+      <div class="de spoiler">Auch ich gedenke noch zwei, drei Jahre zu leben.</div>
+    </div>
+    <li>Es kann auch im übertragenen Sinne verwendet werden, um auszudrücken, dass etwas "lebendig" oder aktiv ist.</li>
+    <div class="examples">
+      <div class="jp">汗腺[かんせん]が 生[い]きている 以上[いじょう]、通気性[つうきせい]のないもので、すっぽり 顔[かお]を 被[おお]ってしまうわけにはいきませんからね。</div>
+      <div class="de spoiler">Da die Schweißdrüsen noch aktiv sind, kann man natürlich nicht das ganze Gesicht mit luftundurchlässigem Material bedecken.</div>
+    </div>
+    <li>In der Kunst und Kultur kann es bedeuten, dass etwas "lebendig" oder authentisch ist.</li>
+    <div class="examples">
+      <div class="jp">無意識[むいしき]の 状態[じょうたい]に 至[いた]って 始[はじ]めて 生[い]きた 芸術[げいじゅつ]となるのである。</div>
+      <div class="de spoiler">Erst wenn man einen unbewussten Zustand erreicht, wird die Kunst wirklich lebendig.</div>
+    </div>
+  </ul>
+  <p>Es gibt einige spezielle Verwendungen von 生きる:</p>
+  <ul>
+    <li>Als Korrekturzeichen bedeutet イキル "stehen lassen" oder "bleibt stehen".</li>
+    <li>In Go (活きる) bezeichnet es ein Gebiet, das nicht mehr vom Gegner geschlagen werden kann.</li>
+    <li>Im Baseball (活きる) bedeutet es "im Spiel bleiben" oder "nicht ins Aus gehen".</li>
+    <div class="examples">
+      <div class="jp">敵[てき]の 失策[しっさく]で 生[い]きる</div>
+      <div class="de spoiler">Durch einen Fehler des Gegners im Spiel bleiben.</div>
+    </div>
+  </ul>
+  <p>Es gibt auch einen idiomatischen Ausdruck mit 生きる:</p>
+  <div class="examples">
+    <div class="jp">生[い]きた 心地[ここち]がしない</div>
+    <div class="de spoiler">Sich nicht lebendig fühlen; sich eher tot als lebendig fühlen.</div>
+  </div>

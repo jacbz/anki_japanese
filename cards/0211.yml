@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>しか wird immer mit einer Verneinung verwendet und bedeutet "nur", "bloß" oder "nichts anderes als".</p>
+
+  <ul>
+    <li>Es zeigt eine Einschränkung oder Begrenzung an:</li>
+    <div class="examples">
+      <div class="jp">二、三米[メートル]<u>しか</u>ない。</div>
+      <div class="de spoiler">Es sind nur wenige Meter.</div>
+    </div>
+
+    <li>Es kann auch "nichts anderes übrig als..." ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">黙[だま]っている<u>しか</u>ないのだった。</div>
+      <div class="de spoiler">Es blieb nichts anderes übrig, als still zu sein.</div>
+    </div>
+
+    <li>Es kann auch "mindestens" oder "nicht weniger als" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">十万[じゅうまん]キロ以上[いじょう]走[はし]ったと<u>しか</u>思[おも]えない。</div>
+      <div class="de spoiler">Es muss mindestens 100.000 Kilometer gefahren sein.</div>
+    </div>
+
+    <li>Bei Vergleichen drückt es aus, dass etwas nicht mehr Bedeutung hat als etwas anderes:</li>
+    <div class="examples">
+      <div class="jp">正午[しょうご]のサイレンぐらいに<u>しか</u>思[おも]わなくなっていた。</div>
+      <div class="de spoiler">Man achtete kaum mehr darauf als auf die Mittagssirene.</div>
+    </div>
+  </ul>

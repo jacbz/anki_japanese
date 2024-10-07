@@ -2,8 +2,8 @@ Rang: 2062
 Lemma: 傷
 Lesung: きず
 Tonhöhen: /^
-Definition: Verletzung; Kratzer; Bluterguss; Fehler; Fleck
-Alternativschreibweisen: ''
+Definition: Verletzung, Wunde; Kratzer, Beschädigung
+Alternativschreibweisen: 疵・瑕・創
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
@@ -17,9 +17,104 @@ Beispielsätze: |-
   この 車[くるま]は 傷[きず]がある。
   Dieses Auto hat einen Kratzer.
 
+  彼は戦争で深い心の傷を負った。
+  彼[かれ]は 戦争[せんそう]で 深[ふか]い 心[こころ]の 傷[きず]を 負[お]った。
+  Er trug eine tiefe seelische Wunde aus dem Krieg davon.
+
+  転んで膝に傷を作ってしまった。
+  転[ころ]んで 膝[ひざ]に 傷[きず]を 作[つく]ってしまった。
+  Ich bin hingefallen und habe mir das Knie aufgeschürft.
+
+  傷が痛むので、薬を塗りました。
+  傷[きず]が 痛[いた]むので、薬[くすり]を 塗[ぬ]りました。
+  Da die Wunde schmerzt, habe ich eine Salbe aufgetragen.
+
+  幸い、事故で軽い傷で済んだ。
+  幸[さいわ]い、事故[じこ]で 軽[かる]い 傷[きず]で 済[す]んだ。
+  Glücklicherweise kam ich bei dem Unfall mit leichten Verletzungen davon.
+
+  傷の手当てを適切に行わないと、感染の恐れがあります。
+  傷[きず]の 手当[てあ]てを 適切[てきせつ]に 行[おこな]わないと、感染[かんせん]の 恐[おそ]れがあります。
+  Wenn man die Wunde nicht richtig versorgt, besteht die Gefahr einer Infektion.
+
+  頭の傷は軽そうに見えても、必ず医師の診察を受けるべきです。
+  頭[あたま]の 傷[きず]は 軽[かる]そうに 見[み]えても、必[かなら]ず 医師[いし]の 診察[しんさつ]を 受[う]けるべきです。
+  Auch wenn eine Kopfverletzung harmlos erscheint, sollte man unbedingt einen Arzt aufsuchen.
+
+  彼女は過去の傷を乗り越え、前向きに生きている。
+  彼女[かのじょ]は 過去[かこ]の 傷[きず]を 乗[の]り 越[こ]え、前向[まえむ]きに 生[い]きている。
+  Sie hat die Wunden der Vergangenheit überwunden und lebt nun positiv.
+
+  新しい皿に傷がついてしまった。
+  新[あたら]しい 皿[さら]に 傷[きず]がついてしまった。
+  Ich habe versehentlich den neuen Teller zerkratzt.
+
+  彼の言葉は私の心に深い傷を残した。
+  彼[かれ]の 言葉[ことば]は 私[わたし]の 心[こころ]に 深[ふか]い 傷[きず]を 残[のこ]した。
+  Seine Worte hinterließen eine tiefe Wunde in meinem Herzen.
+
+  この骨董品は傷がないので、高値で売れるだろう。
+  この 骨董品[こっとうひん]は 傷[きず]がないので、高値[たかね]で 売[う]れるだろう。
+  Da dieses Antiquitätsstück keine Beschädigungen hat, wird es wahrscheinlich für einen hohen Preis verkauft werden.
+
+  傷が浅いから、すぐに治るよ。
+  傷[きず]が 浅[あさ]いから、すぐに 治[なお]るよ。
+  Die Wunde ist oberflächlich, also wird sie schnell heilen.
+
+  リンゴに傷があるので、安く売られている。
+  リンゴに 傷[きず]があるので、安[やす]く 売[う]られている。
+  Die Äpfel werden billig verkauft, weil sie Druckstellen haben.
+
+  彼は戦場で傷を負って帰ってきた。
+  彼[かれ]は 戦場[せんじょう]で 傷[きず]を 負[お]って 帰[かえ]ってきた。
+  Er kehrte verwundet vom Schlachtfeld zurück.
+
+  傷跡が残らないように、傷の手当てに気をつけましょう。
+  傷跡[きずあと]が 残[のこ]らないように、傷[きず]の 手当[てあ]てに 気[き]をつけましょう。
+  Achten wir auf die Wundversorgung, damit keine Narben zurückbleiben.
+
+  子供の頃の傷は今でも覚えている。
+  子供[こども]の 頃[ころ]の 傷[きず]は 今[いま]でも 覚[おぼ]えている。
+  Ich erinnere mich noch immer an die Verletzungen aus meiner Kindheit.
+
+  彼女は毎日傷のケアを欠かさない。
+  彼女[かのじょ]は 毎日[まいにち] 傷[きず]のケアを 欠[か]かさない。
+  Sie versäumt es nicht, ihre Wunde täglich zu pflegen.
+
+  この製品は傷がつきにくい素材でできています。
+  この 製品[せいひん]は 傷[きず]がつきにくい 素材[そざい]でできています。
+  Dieses Produkt ist aus einem kratzfesten Material hergestellt.
+
+  傷を隠そうとしても、いつかは見つかるものだ。
+  傷[きず]を 隠[かく]そうとしても、いつかは 見[み]つかるものだ。
+  Auch wenn man versucht, eine Wunde zu verbergen, wird sie irgendwann entdeckt.
+
+  彼は傷だらけの手で一生懸命働いている。
+  彼[かれ]は 傷[きず]だらけの 手[て]で 一生懸命[いっしょうけんめい] 働[はたら]いている。
+  Er arbeitet hart mit seinen von Wunden übersäten Händen.
+
+  時間が経てば、心の傷も癒えていくものです。
+  時間[じかん]が 経[た]てば、心[こころ]の 傷[きず]も 癒[い]えていくものです。
+  Mit der Zeit heilen auch die Wunden des Herzens.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 傷 (きず) kann sowohl physische als auch emotionale Verletzungen beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 心[こころ]に 深[ふか]い 傷[きず]を 負[お]っている。</div>
+    <div class="de spoiler">Er trägt eine tiefe Wunde in seinem Herzen.</div>
+  </div>
+  <p>Es wird auch verwendet, um Beschädigungen oder Mängel an Objekten zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">この 車[くるま]は 傷[きず]がたくさんある。</div>
+    <div class="de spoiler">Dieses Auto hat viele Kratzer.</div>
+  </div>
+  <p>In Redewendungen wird 傷 oft metaphorisch verwendet:</p>
+  <div class="examples">
+    <div class="jp">毛[け]を 吹[ふ]いて 傷[きず]を 求[もと]む。</div>
+    <div class="de spoiler">Nach Fehlern suchen, wo es keine gibt. (Wörtlich: Ein Haar wegblasen und nach einer Wunde suchen.)</div>
+  </div>

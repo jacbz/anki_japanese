@@ -2,7 +2,7 @@ Rang: 3112
 Lemma: わー
 Lesung: ''
 Tonhöhen: ''
-Definition: Wow!
+Definition: wow; juhu
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: interj, adv
@@ -14,12 +14,107 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   わー、きれい！
-  わー、 綺麗[きれい]！
-  Wow! Wie schön!
+  わー、きれい！
+  Wow, wie schön!
+
+  わー、すごい花火だね。
+  わー、すごい 花火[はなび]だね。
+  Wow, was für ein tolles Feuerwerk!
+
+  子供たちはわーと歓声を上げた。
+  子供[こども]たちはわーと 歓声[かんせい]を 上[あ]げた。
+  Die Kinder jubelten laut.
+
+  わー、プレゼントをありがとう！
+  わー、プレゼントをありがとう！
+  Juchhu, danke für das Geschenk!
+
+  「わー、ようけ落ちとるわ」と発見を知らせた。
+  「わー、ようけ 落[お]ちとるわ」と 発見[はっけん]を 知[し]らせた。
+  "Meeensch, sind das vieeele!", gab ich meine Entdeckung weiter.
+
+  わー、合格した！嬉しい！
+  わー、合格[ごうかく]した！ 嬉[うれ]しい！
+  Juchhu, ich habe bestanden! Ich bin so glücklich!
+
+  観客はわーっと驚きの声を上げた。
+  観客[かんきゃく]はわーっと 驚[おどろ]きの 声[こえ]を 上[あ]げた。
+  Das Publikum stieß einen überraschten Ausruf aus.
+
+  わー、こんなに素敵なケーキ！
+  わー、こんなに 素敵[すてき]なケーキ！
+  Wow, was für ein wunderbarer Kuchen!
+
+  「わー」と声を上げて喜んだ。
+  「わー」と 声[こえ]を 上[あ]げて 喜[よろこ]んだ。
+  Ich rief "Juhu!" und freute mich.
+
+  子供たちは「わー」と言いながら海に飛び込んだ。
+  子供[こども]たちは「わー」と 言[い]いながら 海[うみ]に 飛[と]び 込[こ]んだ。
+  Die Kinder riefen "Waaah!" und sprangen ins Meer.
+
+  わー、雪が降ってる！
+  わー、雪[ゆき]が 降[ふ]ってる！
+  Wow, es schneit!
+
+  わー、こんなに高い所から見るとすごいね。
+  わー、こんなに 高[たか]い 所[ところ]から 見[み]るとすごいね。
+  Wow, von so weit oben zu schauen ist echt toll.
+
+  彼女はわーっと叫んで逃げ出した。
+  彼女[かのじょ]はわーっと 叫[さけ]んで 逃[に]げ 出[だ]した。
+  Sie schrie "Waah!" und lief davon.
+
+  わー、こんなに美味しいものは初めて食べた！
+  わー、こんなに 美味[おい]しいものは 初[はじ]めて 食[た]べた！
+  Wow, ich habe noch nie etwas so Leckeres gegessen!
+
+  「わー、ようけ落ちとるわ」発見をすぐに知らせ。
+  「わー、ようけ 落[お]ちとるわ」発見[はっけん]をすぐに 知[し]らせ。
+  "Meeensch, sind das vieeele!", gab ich meine Entdeckung umgehend weiter.
+
+  子供たちは「わー」と言いながらプールに飛び込んだ。
+  子供[こども]たちは「わー」と 言[い]いながらプールに 飛[と]び 込[こ]んだ。
+  Die Kinder riefen "Waaah!" und sprangen in den Pool.
+
+  わー、この景色は息をのむほど美しい！
+  わー、この 景色[けしき]は 息[いき]をのむほど 美[うつく]しい！
+  Wow, diese Aussicht ist atemberaubend schön!
+
+  「わー！」と歓声を上げながら、みんなが一斉にステージに駆け寄った。
+  「わー！」と 歓声[かんせい]を 上[あ]げながら、みんなが 一斉[いっせい]にステージに 駆[か]け 寄[よ]った。
+  Mit einem lauten "Waaah!" stürmten alle gleichzeitig auf die Bühne zu.
+
+  わー、こんな素晴らしいプレゼントをありがとう！
+  わー、こんな 素晴[すば]らしいプレゼントをありがとう！
+  Wow, danke für so ein wunderbares Geschenk!
+
+  「わー、お化け屋敷こわい！」と友達が叫んだ。
+  「わー、お 化[ば]け 屋敷[やしき]こわい！」と 友達[ともだち]が 叫[さけ]んだ。
+  "Waah, das Spukhaus ist gruselig!", rief mein Freund.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>わー ist eine Interjektion, die verschiedene Emotionen ausdrücken kann:</p>
+  <ul>
+    <li>Es wird oft verwendet, um Überraschung oder eine plötzliche Reaktion auszudrücken, ähnlich wie "Wow!" oder "Oh!" im Deutschen.</li>
+    <div class="examples">
+      <div class="jp"><u>わー</u>、ようけ 落[お]ちとるわ。</div>
+      <div class="de spoiler">Meeensch, sind das vieeele!</div>
+    </div>
+    <li>Es kann auch Freude oder Begeisterung ausdrücken, ähnlich wie "Toll!" oder "Juchhu!" im Deutschen.</li>
+    <div class="examples">
+      <div class="jp">私[わたし]は 内心[ないしん]がっかりしましたが、「<u>わー</u>」と 声[こえ]をあげました。</div>
+      <div class="de spoiler">Insgeheim war ich enttäuscht, rief aber "Juhu!"</div>
+    </div>
+  </ul>
+  <p>Beachten Sie, dass わー auch als Adverb verwendet werden kann, um eine lautmalerische Wirkung zu erzielen:</p>
+  <div class="examples">
+    <div class="jp">総軍力[そうぐんりょく]を 合[あ]せて<u>わー</u>と 威嚇性大音声[いかくせいだいおんせい]を 出[だ]す。</div>
+    <div class="de spoiler">Sie stießen mit vereinten Kräften ein bedrohliches Gebrüll aus.</div>
+  </div>
+  </p>

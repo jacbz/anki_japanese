@@ -98,4 +98,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>特定[とくてい] bedeutet "bestimmt" oder "festgelegt" und wird verwendet, um etwas Spezifisches oder Bestimmtes zu bezeichnen.</p>
+
+  <p>Als Nomen (特定) oder Adjektiv (特定の) kann es verwendet werden, um:</p>
+  <ul>
+    <li>Eine bestimmte oder spezifische Sache zu bezeichnen</li>
+    <div class="examples">
+      <div class="jp">誰[だれ]か 特定[とくてい]の 人物[じんぶつ]を 探[さが]しているふうでもなく</div>
+      <div class="de spoiler">Er scheint niemanden im besonderen ausfindig machen zu wollen</div>
+    </div>
+
+    <li>Einen festgelegten Zeitpunkt oder Ort zu beschreiben</li>
+    <div class="examples">
+      <div class="jp">時間[じかん]の 特定[とくてい]の 点[てん]に 起[お]きた</div>
+      <div class="de spoiler">An einem genau festgelegten Punkt in der Zeit</div>
+    </div>
+  </ul>
+
+  <p>Als Verb (特定する) wird es verwendet, um:</p>
+  <ul>
+    <li>Etwas zu identifizieren oder zu ermitteln</li>
+    <div class="examples">
+      <div class="jp">住所[じゅうしょ]を<u>特定[とくてい]する</u></div>
+      <div class="de spoiler">Eine Adresse ermitteln</div>
+    </div>
+
+    <li>Etwas festzulegen oder zu bestimmen</li>
+    <div class="examples">
+      <div class="jp">原因[げんいん]を<u>特定[とくてい]する</u></div>
+      <div class="de spoiler">Die Ursache bestimmen</div>
+    </div>
+
+    <li>Jemanden zu identifizieren</li>
+    <div class="examples">
+      <div class="jp">容疑者[ようぎしゃ]を<u>特定[とくてい]</u>できる</div>
+      <div class="de spoiler">Den Tatverdächtigen identifizieren können</div>
+    </div>
+  </ul>

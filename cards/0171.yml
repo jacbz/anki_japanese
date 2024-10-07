@@ -102,4 +102,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>上 hat mehrere wichtige Verwendungen:</p>
+  <ul>
+    <li>Als Substantiv beschreibt es eine räumliche Position oder Richtung:</li>
+    <div class="examples">
+      <div class="jp">塔[とう]の<u>上</u>の 方[ほう]に 行[い]くほど 細[ほそ]くなっている。</div>
+      <div class="de spoiler">Der Turm wird nach oben hin schmaler.</div>
+      <div class="jp">屋根[やね]の<u>上</u]の 空[そら]は 重[おも]く 垂[た]れ 下[さ]がって。</div>
+          <div class="de spoiler">Über den Dächern hing der Himmel schwer herab.</div>
+      </div>
+
+      <li>Es zeigt eine höhere Position in der Hierarchie oder bessere Qualität an:</li>
+      <div class="examples">
+        <div class="jp">陽子[ようこ]ちゃんが 私[わたし]より、私[わたし]がつぐみより、ひとつ<u>上</u>だ。</div>
+        <div class="de spoiler">Yōko ist ein Jahr älter als ich, und ich bin ein Jahr älter als Tsugumi.</div>
+        <div class="jp">攻守[こうしゅ]とも 国見[くにみ]が<u>上</u>だ。</div>
+        <div class="de spoiler">Im Angriff wie in der Abwehr ist Kunimi besser.</div>
+      </div>
+
+      <li>Mit に wird es verwendet, um "zudem" oder "darüber hinaus" auszudrücken:</li>
+      <div class="examples">
+        <div class="jp">文章[ぶんしょう]がまずい<u>上</u>に 字[じ]を 知[し]らない。</div>
+        <div class="de spoiler">Mein Stil ist schlecht, und zudem kenne ich die Schriftzeichen nicht gut.</div>
+      </div>
+
+      <li>Es kann eine Beziehung oder einen Aspekt ausdrücken ("in Bezug auf", "was ... betrifft"):</li>
+      <div class="examples">
+        <div class="jp">仕事[しごと]の<u>上</u]では なんのつながりも 無[な]かった。</div>
+            <div class="de spoiler">Geschäftlich hatte er keinerlei Verbindung.</div>
+        </div>
+
+        <li>Es kann auch das Ergebnis einer Handlung ausdrücken ("nachdem", "aufgrund"):</li>
+        <div class="examples">
+          <div class="jp">建物[たてもの]を 廻[まわ]った<u>上</u]で 辿[たど]りつく。</div>
+              <div class="de spoiler">Nachdem man um das Gebäude herumgegangen ist, erreicht man es.</div>
+          </div>
+  </ul>

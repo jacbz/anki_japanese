@@ -2,7 +2,7 @@ Rang: 2147
 Lemma: いざ
 Lesung: ''
 Tonhöhen: \.
-Definition: wenn man zu Bewusstsein kommt, wenn man gezwungen ist
+Definition: also dann; im Ernstfall
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: interj
@@ -14,12 +14,120 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   いざというときのためにお金を貯めている。
-  いざというときのためにお 金[かね]を 貯[た]めている。
-  Ich lege etwas Geld beiseite, für den Fall eines Notfalls.
+  いざというときのためにお金[かね]を 貯[た]めている。
+  Ich spare Geld für den Fall der Fälle.
+
+  いざ、出発の時が来ました。
+  いざ、出発[しゅっぱつ]の 時[とき]が 来[き]ました。
+  Nun denn, die Zeit zum Aufbruch ist gekommen.
+
+  彼はいざ鎌倉という時に逃げ出した。
+  彼[かれ]はいざ 鎌倉[かまくら]という 時[とき]に 逃[に]げ 出[だ]した。
+  Er flüchtete im entscheidenden Moment.
+
+  いざ知らず、私にはそんな勇気はない。
+  いざ 知[し]らず、私[わたし]にはそんな 勇気[ゆうき]はない。
+  Wie es bei anderen ist, weiß ich nicht, aber ich habe nicht so viel Mut.
+
+  いざとなれば、徒歩で行くしかない。
+  いざとなれば、徒歩[とほ]で 行[い]くしかない。
+  Im Notfall müssen wir zu Fuß gehen.
+
+  いざ勝負となると、彼は本領を発揮する。
+  いざ 勝負[しょうぶ]となると、彼[かれ]は 本領[ほんりょう]を 発揮[はっき]する。
+  Wenn es zum Wettkampf kommt, zeigt er seine wahre Stärke.
+
+  いざ合戦のとき、武士たちは命を懸けて戦った。
+  いざ 合戦[かっせん]のとき、武士[ぶし]たちは 命[いのち]を 懸[か]けて 戦[たたか]った。
+  Als es zur Schlacht kam, kämpften die Samurai mit ihrem Leben.
+
+  いざという場合の避難経路を確認しておこう。
+  いざという 場合[ばあい]の 避難[ひなん] 経路[けいろ]を 確認[かくにん]しておこう。
+  Lass uns die Fluchtwege für den Notfall überprüfen.
+
+  いざ鎌倉と言われても、今さら行くわけにはいかない。
+  いざ 鎌倉[かまくら]と 言[い]われても、今[いま]さら 行[い]くわけにはいかない。
+  Auch wenn man sagt "Auf nach Kamakura", kann ich jetzt nicht mehr gehen.
+
+  いざというとき、友人が助けてくれた。
+  いざというとき、友人[ゆうじん]が 助[たす]けてくれた。
+  Im entscheidenden Moment half mir mein Freund.
+
+  いざ勘定となると、財布の中身が心配になる。
+  いざ 勘定[かんじょう]となると、財布[さいふ]の 中身[なかみ]が 心配[しんぱい]になる。
+  Wenn es ans Bezahlen geht, mache ich mir Sorgen um den Inhalt meines Geldbeutels.
+
+  いざさらば、お元気で。
+  いざさらば、お 元気[げんき]で。
+  Nun denn, leben Sie wohl.
+
+  いざというときのために、緊急連絡先を書いておいた。
+  いざというときのために、緊急[きんきゅう] 連絡先[れんらくさき]を 書[か]いておいた。
+  Für den Notfall habe ich die Notfallkontakte aufgeschrieben.
+
+  いざとなれば、私が責任を取ります。
+  いざとなれば、私[わたし]が 責任[せきにん]を 取[と]ります。
+  Wenn es darauf ankommt, übernehme ich die Verantwortung.
+
+  彼はいざという時の対応が素晴らしい。
+  彼[かれ]はいざという 時[とき]の 対応[たいおう]が 素晴[すば]らしい。
+  Seine Reaktion in Notfällen ist ausgezeichnet.
+
+  いざ本番となると、緊張して言葉が出なくなった。
+  いざ 本番[ほんばん]となると、緊張[きんちょう]して 言葉[ことば]が 出[で]なくなった。
+  Als es zum Ernstfall kam, wurde ich so nervös, dass ich kein Wort herausbrachte.
+
+  いざという時のために、非常食を用意しておく。
+  いざという 時[とき]のために、非常食[ひじょうしょく]を 用意[ようい]しておく。
+  Für den Notfall bereite ich Notfallrationen vor.
+
+  いざ出発という時に限って、よく雨が降る。
+  いざ 出発[しゅっぱつ]という 時[とき]に 限[かぎ]って、よく 雨[あめ]が 降[ふ]る。
+  Gerade wenn es Zeit zum Aufbruch ist, regnet es oft.
+
+  いざというときは、冷静に判断することが大切だ。
+  いざというときは、冷静[れいせい]に 判断[はんだん]することが 大切[たいせつ]だ。
+  In Notfällen ist es wichtig, ruhig zu urteilen.
+
+  いざ戦いとなれば、勝利を目指して全力を尽くす。
+  いざ 戦[たたか]いとなれば、勝利[しょうり]を 目指[めざ]して 全力[ぜんりょく]を 尽[つ]くす。
+  Wenn es zum Kampf kommt, gebe ich mein Bestes, um den Sieg zu erringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いざ ist ein vielseitiges Wort, das in verschiedenen Situationen verwendet wird:</p>
+  <ul>
+    <li>Als Ausruf, um Aufbruch oder Beginn einer Aktion anzukündigen:</li>
+    <div class="examples">
+      <div class="jp"><u>いざ</u>、 実之助[じつのすけ]殿[どの]、約束[やくそく]の 日[ひ]じゃ。</div>
+      <div class="de spoiler">Wohlan, Junker Jitsunosuke, der versprochene Tag ist da.</div>
+    </div>
+    <li>Als Adverb, um den entscheidenden Moment oder eine unerwartete Situation zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp"><u>いざ</u> 来[き]てみると、そうしたことは 望[のぞ]めそうもないことが 判[わか]った。</div>
+      <div class="de spoiler">Jetzt vor Ort indessen begriff er, dass das so einfach nicht war.</div>
+    </div>
+  </ul>
+  <p>Häufige Ausdrücke mit いざ:</p>
+  <ul>
+    <li><span class="jp"><u>いざ</u>という 時[とき]</span> - im Ernstfall, im Notfall</li>
+    <div class="examples">
+      <div class="jp"><u>いざ</u>という 時[とき]の 備[そな]えをする</div>
+      <div class="de spoiler">Sich auf den Ernstfall vorbereiten</div>
+    </div>
+    <li><span class="jp"><u>いざ</u>となれば</span> - wenn es darauf ankommt, im Ernstfall</li>
+    <div class="examples">
+      <div class="jp"><u>いざ</u>となれば 役[やく]に 立[た]つ</div>
+      <div class="de spoiler">Im Ernstfall von Nutzen sein</div>
+    </div>
+    <li><span class="jp"><u>いざ</u>知[し]らず</span> - wie es bei ... ist, weiß ich nicht, aber ...</li>
+    <div class="examples">
+      <div class="jp">ハワイでは<u>いざ</u>知[し]らず、 日本[にほん]にてはパパと 呼[よ]べ</div>
+      <div class="de spoiler">Egal, was man in Hawaii sagt, hier in Japan bin ich Papa.</div>
+    </div>
+  </ul>
+  </p>

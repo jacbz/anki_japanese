@@ -2,7 +2,7 @@ Rang: 4025
 Lemma: 様
 Lesung: さま
 Tonhöhen: /\
-Definition: Herr/Frau
+Definition: Art und Weise; Herr/Frau (Anrede)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -15,11 +15,122 @@ Konjugation: ''
 Beispielsätze: |-
   スミス様、フロントまでお越し下さい。
   スミス 様[さま]、フロントまでお 越[こ]し 下[くだ]さい。
-  Herr/Frau Smith, bitte kommen Sie zur Rezeption.
+  Herr Smith, bitte kommen Sie zur Rezeption.
+
+  見た様を言葉で表現するのは難しいです。
+  見[み]た 様[さま]を 言葉[ことば]で 表現[ひょうげん]するのは 難[むずか]しいです。
+  Es ist schwierig, das Gesehene in Worte zu fassen.
+
+  お客様は神様です。
+  お 客様[きゃくさま]は 神様[かみさま]です。
+  Der Kunde ist König.
+
+  彼の態度の様が変わってきました。
+  彼[かれ]の 態度[たいど]の 様[さま]が 変[か]わってきました。
+  Seine Art sich zu verhalten hat sich verändert.
+
+  新郎新婦様、おめでとうございます。
+  新郎新婦[しんろうしんぷ] 様[さま]、おめでとうございます。
+  Herzlichen Glückwunsch an das Brautpaar!
+
+  どちら様ですか。
+  どちら 様[さま]ですか。
+  Wer sind Sie?
+
+  皆様、本日はお越しいただき、ありがとうございます。
+  皆様[みなさま]、本日[ほんじつ]はお 越[こ]しいただき、ありがとうございます。
+  Meine sehr verehrten Damen und Herren, vielen Dank, dass Sie heute gekommen sind.
+
+  社長様からのメッセージです。
+  社長[しゃちょう] 様[さま]からのメッセージです。
+  Hier ist eine Nachricht vom Geschäftsführer.
+
+  ご馳走様でした。とてもおいしかったです。
+  ご 馳走様[ちそうさま]でした。とてもおいしかったです。
+  Vielen Dank für das Essen. Es hat sehr gut geschmeckt.
+
+  彼の話し方の様子は、とても落ち着いていました。
+  彼[かれ]の 話[はな]し 方[かた]の 様子[ようす]は、とても 落[お]ち 着[つ]いていました。
+  Die Art und Weise, wie er sprach, war sehr ruhig.
+
+  お日様が出てきて、気分が良くなりました。
+  お 日様[ひさま]が 出[で]てきて、気分[きぶん]が 良[よ]くなりました。
+  Die Sonne ist herausgekommen und meine Stimmung hat sich verbessert.
+
+  田中様、お電話お待たせしました。
+  田中[たなか] 様[さま]、お 電話[でんわ]お 待[ま]たせしました。
+  Frau Tanaka, entschuldigen Sie, dass ich Sie am Telefon warten ließ.
+
+  ご苦労様です。今日も一日頑張りましょう。
+  ご 苦労様[くろうさま]です。今日[きょう]も 一日[いちにち] 頑張[がんば]りましょう。
+  Vielen Dank für Ihre Mühe. Lassen Sie uns auch heute unser Bestes geben.
+
+  お客様番号をお教えください。
+  お 客様番号[きゃくさまばんごう]をお 教[おし]えください。
+  Bitte nennen Sie mir Ihre Kundennummer.
+
+  王様は新しい服を着ていると言われていました。
+  王様[おうさま]は 新[あたら]しい 服[ふく]を 着[き]ていると 言[い]われていました。
+  Man sagte, der König trage neue Kleider.
+
+  この絵の構図の様が面白いですね。
+  この 絵[え]の 構図[こうず]の 様[さま]が 面白[おもしろ]いですね。
+  Die Komposition dieses Bildes ist wirklich interessant.
+
+  練習しても様にならない時は、先生に相談するといいよ。
+  練習[れんしゅう]しても 様[さま]にならない 時[とき]は、先生[せんせい]に 相談[そうだん]するといいよ。
+  Wenn es trotz Übens nicht klappt, solltest du den Lehrer um Rat fragen.
+
+  お待たせ様でした。すぐにご案内いたします。
+  お 待[ま]たせ 様[さま]でした。すぐにご 案内[あんない]いたします。
+  Entschuldigen Sie die Wartezeit. Ich werde Sie sofort hineinführen.
+
+  お子様連れのお客様は、こちらのスペースをご利用ください。
+  お 子様[こさま] 連[つ]れのお 客様[きゃくさま]は、こちらのスペースをご 利用[りよう]ください。
+  Kunden mit Kindern können diesen Bereich nutzen.
+
+  この商品の品質の様は、他社製品と比べても優れています。
+  この 商品[しょうひん]の 品質[ひんしつ]の 様[さま]は、他社[たしゃ] 製品[せいひん]と 比[くら]べても 優[すぐ]れています。
+  Die Qualität dieses Produkts ist im Vergleich zu Produkten anderer Unternehmen überlegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>様 (さま) hat mehrere Verwendungen in der japanischen Sprache:</p>
+  <ul>
+    <li>Als Nomen bezeichnet es die Art und Weise, den Zustand oder das Erscheinungsbild von etwas.</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]の 笑[わら]う<u>様</u>は 可愛[かわい]らしかった。</div>
+      <div class="de spoiler">Die Art, wie sie lächelte, war bezaubernd.</div>
+    </div>
+    <li>In der Umgangssprache kann es in der Wendung <span class="jp"><u>様</u>になる</span> verwendet werden, um ein angemessenes oder gutes Erscheinungsbild zu beschreiben.</li>
+    <div class="examples">
+      <div class="jp">その 服[ふく]を 着[き]ると<u>様</u>になる。</div>
+      <div class="de spoiler">In diesem Anzug siehst du gut aus.</div>
+    </div>
+    <li>Als Suffix wird es an Personenbezeichnungen oder andere Nomen angehängt, um Ehrerbietung oder höfliche Anrede auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">田中[たなか]<u>様</u></div>
+      <div class="de spoiler">Herr/Frau Tanaka</div>
+      <div class="jp">お 客[きゃく]<u>様</u>は 神[かみ]<u>様</u>です。</div>
+      <div class="de spoiler">Der Kunde ist König. (wörtlich: Der Kunde ist Gott.)</div>
+    </div>
+  </ul>
+  <p>Es wird oft in Verbindung mit den Höflichkeitspräfixen ご (go) oder お (o) verwendet:</p>
+  <div class="examples">
+    <div class="jp">お 父[とう]<u>様</u></div>
+    <div class="de spoiler">Vater (sehr höflich)</div>
+    <div class="jp">ご 家族[かぞく]<u>様</u></div>
+    <div class="de spoiler">Ihre werte Familie</div>
+  </div>
+  <p>In formellen Situationen oder im Kundendienst wird es häufig verwendet:</p>
+  <div class="examples">
+    <div class="jp">どちら<u>様</u>ですか。</div>
+    <div class="de spoiler">Wer sind Sie? / Mit wem spreche ich? (am Telefon)</div>
+    <div class="jp">お 待[ま]ちどう<u>様</u>。</div>
+    <div class="de spoiler">Entschuldigung für die Wartezeit.</div>
+  </div>
+  </p>

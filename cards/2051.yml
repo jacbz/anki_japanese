@@ -2,7 +2,7 @@ Rang: 2051
 Lemma: 職員
 Lesung: しょくいん
 Tonhöhen: ./\..
-Definition: Mitarbeiter
+Definition: Angestellte(r)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この市役所には英語が話せる職員が二名おります。
-  この 市役所[しやくしょ]には 英語[えいご]が 話[はな]せる 職員[しょくいん]が二 名[めい]おります。
-  In diesem Rathaus gibt es zwei Mitarbeiter, die Englisch sprechen können.
+  この 市役所[しやくしょ]には 英語[えいご]が 話[はな]せる 職員[しょくいん]が 二名[にめい]おります。
+  In diesem Rathaus gibt es zwei Angestellte, die Englisch sprechen können.
+
+  新入職員の研修を来週から始めます。
+  新入職員[しんにゅうしょくいん]の 研修[けんしゅう]を 来週[らいしゅう]から 始[はじ]めます。
+  Ab nächster Woche beginnen wir mit der Schulung der neuen Mitarbeiter.
+
+  学校の職員室は生徒立ち入り禁止です。
+  学校[がっこう]の 職員室[しょくいんしつ]は 生徒[せいと] 立[た]ち 入[い]り 禁止[きんし]です。
+  Das Lehrerzimmer der Schule ist für Schüler verboten zu betreten.
+
+  職員番号を忘れずに書類に記入してください。
+  職員番号[しょくいんばんごう]を 忘[わす]れずに 書類[しょるい]に 記入[きにゅう]してください。
+  Bitte vergessen Sie nicht, Ihre Personalnummer in das Formular einzutragen.
+
+  職員不足のため、残業が増えています。
+  職員不足[しょくいんぶそく]のため、残業[ざんぎょう]が 増[ふ]えています。
+  Aufgrund des Personalmangels nehmen die Überstunden zu.
+
+  全職員を対象とした会議が来月開かれます。
+  全[ぜん]職員[しょくいん]を 対象[たいしょう]とした 会議[かいぎ]が 来月[らいげつ] 開[ひら]かれます。
+  Nächsten Monat findet eine Konferenz für alle Mitarbeiter statt.
+
+  職員組合は労働条件の改善を要求している。
+  職員組合[しょくいんくみあい]は 労働条件[ろうどうじょうけん]の 改善[かいぜん]を 要求[ようきゅう]している。
+  Die Personalgewerkschaft fordert eine Verbesserung der Arbeitsbedingungen.
+
+  職員満足度を上げるための施策を検討中だ。
+  職員満足度[しょくいんまんぞくど]を 上[あ]げるための 施策[しさく]を 検討中[けんとうちゅう]だ。
+  Wir prüfen derzeit Maßnahmen zur Steigerung der Mitarbeiterzufriedenheit.
+
+  新しい職員名簿が来週配布されます。
+  新[あたら]しい 職員名簿[しょくいんめいぼ]が 来週[らいしゅう] 配布[はいふ]されます。
+  Das neue Mitarbeiterverzeichnis wird nächste Woche verteilt.
+
+  職員食堂のメニューが新しくなりました。
+  職員食堂[しょくいんしょくどう]のメニューが 新[あたら]しくなりました。
+  Das Menü der Mitarbeiterkantine wurde erneuert.
+
+  人事部が新しい職員を配転する計画を立てている。
+  人事部[じんじぶ]が 新[あたら]しい 職員[しょくいん]を 配転[はいてん]する 計画[けいかく]を 立[た]てている。
+  Die Personalabteilung plant, neue Mitarbeiter zu versetzen.
+
+  図書館の職員として働くのが夢です。
+  図書館[としょかん]の 職員[しょくいん]として 働[はたら]くのが 夢[ゆめ]です。
+  Mein Traum ist es, als Bibliotheksangestellter zu arbeiten.
+
+  彼は大学の職員として20年間勤めている。
+  彼[かれ]は 大学[だいがく]の 職員[しょくいん]として20年間[ねんかん] 勤[つと]めている。
+  Er arbeitet seit 20 Jahren als Angestellter an der Universität.
+
+  公衆トイレは区の職員によって毎晩施錠されます。
+  公衆[こうしゅう]トイレは 区[く]の 職員[しょくいん]によって 毎晩[まいばん] 施錠[せじょう]されます。
+  Die öffentlichen Toiletten werden jeden Abend von einem Bezirksangestellten abgeschlossen.
+
+  市役所の職員が20人以上で事務を執っている。
+  市役所[しやくしょ]の 職員[しょくいん]が20人[にんいじょう]で 事務[じむ]を 執[と]っている。
+  Mehr als 20 Angestellte des Rathauses erledigen die Verwaltungsarbeit.
+
+  校長先生は職員一同に時間厳守を徹底させた。
+  校長先生[こうちょうせんせい]は 職員[しょくいん] 一同[いちどう]に 時間厳守[じかんげんしゅ]を 徹底[てってい]させた。
+  Der Schulleiter setzte bei allen Lehrkräften die strikte Einhaltung der Pünktlichkeit durch.
+
+  職員の採用面接を来週行う予定です。
+  職員[しょくいん]の 採用面接[さいようめんせつ]を 来週[らいしゅう] 行[おこな]う 予定[よてい]です。
+  Nächste Woche sind Vorstellungsgespräche für neue Mitarbeiter geplant.
+
+  新しい制服が全職員に支給されました。
+  新[あたら]しい 制服[せいふく]が 全[ぜん]職員[しょくいん]に 支給[しきゅう]されました。
+  Neue Uniformen wurden an alle Mitarbeiter ausgegeben.
+
+  職員の健康診断が来月実施されます。
+  職員[しょくいん]の 健康診断[けんこうしんだん]が 来月[らいげつ] 実施[じっし]されます。
+  Die Gesundheitsuntersuchung für die Mitarbeiter findet nächsten Monat statt.
+
+  彼女は熱心な職員として評価が高い。
+  彼女[かのじょ]は 熱心[ねっしん]な 職員[しょくいん]として 評価[ひょうか]が 高[たか]い。
+  Sie wird als engagierte Mitarbeiterin hoch geschätzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

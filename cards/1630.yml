@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>オーケー ist ein umgangssprachlicher Ausdruck für Zustimmung oder Einverständnis.</p>
+
+  <ul>
+    <li>Als Interjektion drückt es Zustimmung oder Bestätigung aus:</li>
+    <div class="examples">
+      <div class="jp">万事[ばんじ]<u>オーケー</u>。</div>
+      <div class="de spoiler">Alles in Ordnung.</div>
+    </div>
+
+    <li>Es wird oft in Dialogen verwendet, um Einverständnis zu zeigen:</li>
+    <div class="examples">
+      <div class="jp">「ジュース[じゅーす]にしようかな」「<u>オーケー</u>」</div>
+      <div class="de spoiler">„Vielleicht nehme ich einen Saft." „Okay."</div>
+    </div>
+
+    <li>Als Verb mit する kann es formaler verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">離婚[りこん]に<u>オーケー</u>する</div>
+      <div class="de spoiler">Der Scheidung zustimmen</div>
+    </div>
+
+    <li>Es kann auch als Substantiv verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">ロープ[ろーぷ]の 位置[いち]は<u>オーケー</u>。</div>
+      <div class="de spoiler">Die Position des Seils ist in Ordnung.</div>
+    </div>
+  </ul>

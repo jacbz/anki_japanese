@@ -98,4 +98,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>よる ist ein vielseitiges Verb mit mehreren Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Es drückt eine Ursache oder einen Grund aus:</li>
+    <div class="examples">
+      <div class="jp">お 盆[ぼん]の 帰省[きせい]に<u>よる</u> 渋滞[じゅうたい]</div>
+      <div class="de spoiler">Stau aufgrund der Heimreisen zum Obon-Fest</div>
+    </div>
+    <li>Es zeigt eine Abhängigkeit oder Bedingung an:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]の 出方[でかた]いかんに<u>よって</u>は、まるっきり 違[ちが]った 方法[ほうほう]で 力[ちから]になってやれない</div>
+      <div class="de spoiler">Je nachdem, wie sie sich verhält, kann ich ihr vielleicht auf eine ganz andere Weise helfen</div>
+    </div>
+    <li>Es bedeutet "gemäß" oder "entsprechend":</li>
+    <div class="examples">
+      <div class="jp">法律[ほうりつ]の 定[さだ]めるところに<u>より</u></div>
+      <div class="de spoiler">Gemäß den gesetzlichen Bestimmungen</div>
+    </div>
+    <li>Es drückt ein Mittel oder eine Methode aus:</li>
+    <div class="examples">
+      <div class="jp">力[ちから]に<u>よって</u> 邪悪[じゃあく]を 圧伏[あっぷく]する</div>
+      <div class="de spoiler">Das Böse mit Gewalt bezwingen</div>
+    </div>
+    <li>Es zeigt eine Grundlage oder Quelle an:</li>
+    <div class="examples">
+      <div class="jp">一説[いっせつ]に<u>よると</u></div>
+      <div class="de spoiler">Einer Theorie zufolge</div>
+      <div class="jp">我々[われわれ]の 調査[ちょうさ]に<u>よれば</u></div>
+      <div class="de spoiler">Nach unseren Ermittlungen</div>
+    </div>
+  </ul>
+  <p>よる wird oft mit Partikeln wie に oder として verwendet und kann in verschiedenen Formen wie によって、による、によれば auftreten.</p>
+  </p>

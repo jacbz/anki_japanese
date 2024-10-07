@@ -2,8 +2,8 @@ Rang: 2629
 Lemma: 相変わらず
 Lesung: あいかわらず
 Tonhöhen: /^^^^^
-Definition: wie immer, wie üblich, das Gleiche wie zuvor [immer]
-Alternativschreibweisen: ''
+Definition: nach wie vor, unverändert
+Alternativschreibweisen: 相変らず・相不変
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Register: ''
@@ -15,11 +15,130 @@ Konjugation: ''
 Beispielsätze: |-
   相変わらず彼は元気だ。
   相変[あいか]わらず 彼[かれ]は 元気[げんき]だ。
-  Er ist wie immer in Ordnung.
+  Er ist nach wie vor gesund und munter.
+
+  相変わらず忙しい日々を過ごしています。
+  相変[あいか]わらず 忙[いそが]しい 日々[ひび]を 過[す]ごしています。
+  Ich verbringe weiterhin geschäftige Tage.
+
+  彼女は相変わらず美しい。
+  彼女[かのじょ]は 相変[あいか]わらず 美[うつく]しい。
+  Sie ist immer noch schön.
+
+  相変わらずの調子で仕事を続けています。
+  相変[あいか]わらずの 調子[ちょうし]で 仕事[しごと]を 続[つづ]けています。
+  Ich setze meine Arbeit wie gewohnt fort.
+
+  相変わらず散歩に出る習慣があります。
+  相変[あいか]わらず 散歩[さんぽ]に 出[で]る 習慣[しゅうかん]があります。
+  Ich habe immer noch die Angewohnheit, spazieren zu gehen.
+
+  この店は相変わらず人気がありますね。
+  この 店[みせ]は 相変[あいか]わらず 人気[にんき]がありますね。
+  Dieser Laden ist nach wie vor beliebt, nicht wahr?
+
+  相変わらず貧乏だけど、幸せです。
+  相変[あいか]わらず 貧乏[びんぼう]だけど、幸[しあわ]せです。
+  Ich bin immer noch arm, aber glücklich.
+
+  彼は相変わらず遅刻が多いです。
+  彼[かれ]は 相変[あいか]わらず 遅刻[ちこく]が 多[おお]いです。
+  Er kommt immer noch oft zu spät.
+
+  相変わらずの味で安心しました。
+  相変[あいか]わらずの 味[あじ]で 安心[あんしん]しました。
+  Ich war erleichtert, dass der Geschmack unverändert war.
+
+  相変わらず毎朝ジョギングをしています。
+  相変[あいか]わらず 毎朝[まいあさ] ジョギングをしています。
+  Ich jogge immer noch jeden Morgen.
+
+  彼らは相変わらず仲が良いですね。
+  彼[かれ]らは 相変[あいか]わらず 仲[なか]が 良[よ]いですね。
+  Sie verstehen sich immer noch gut, nicht wahr?
+
+  相変わらず週末は混んでいるようだ。
+  相変[あいか]わらず 週末[しゅうまつ]は 混[こ]んでいるようだ。
+  Es scheint am Wochenende wie immer voll zu sein.
+
+  相変わらずの笑顔で迎えてくれてうれしかった。
+  相変[あいか]わらずの 笑顔[えがお]で 迎[むか]えてくれてうれしかった。
+  Ich war froh, dass sie mich mit ihrem gewohnten Lächeln empfing.
+
+  相変わらず彼女の料理は美味しいね。
+  相変[あいか]わらず 彼女[かのじょ]の 料理[りょうり]は 美味[おい]しいね。
+  Ihr Essen ist nach wie vor lecker.
+
+  相変わらず政治の話題で盛り上がっている。
+  相変[あいか]わらず 政治[せいじ]の 話題[わだい]で 盛[も]り 上[あ]がっている。
+  Sie sind immer noch von politischen Themen begeistert.
+
+  相変わらず彼の成績は優秀だ。
+  相変[あいか]わらず 彼[かれ]の 成績[せいせき]は 優秀[ゆうしゅう]だ。
+  Seine Noten sind nach wie vor ausgezeichnet.
+
+  相変わらずの態度で接してくれて安心した。
+  相変[あいか]わらずの 態度[たいど]で 接[せっ]してくれて 安心[あんしん]した。
+  Ich war erleichtert, dass er mich mit seiner gewohnten Haltung behandelte.
+
+  この町は相変わらず静かでいいね。
+  この 町[まち]は 相変[あいか]わらず 静[しず]かでいいね。
+  Diese Stadt ist immer noch angenehm ruhig.
+
+  相変わらず彼女の歌声は素晴らしいです。
+  相変[あいか]わらず 彼女[かのじょ]の 歌声[うたごえ]は 素晴[すば]らしいです。
+  Ihre Singstimme ist nach wie vor wunderbar.
+
+  相変わらず夜更かしの習慣が治らない。
+  相変[あいか]わらず 夜更[よふ]かしの 習慣[しゅうかん]が 治[なお]らない。
+  Ich kann meine Angewohnheit, spät ins Bett zu gehen, immer noch nicht ablegen.
+
+  どうぞ本年も相変わらず。
+  どうぞ 本年[ほんねん]も 相変[あいか]わらず。
+  Ich bitte Sie, mir auch in diesem Jahr Ihr Wohlwollen zu schenken.
+
+  相変わらずお元気で何よりです。
+  相変[あいか]わらず お 元気[げんき]で 何[なに]よりです。
+  Ich freue mich, dass es Ihnen unverändert gut geht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">相変[あいか]わらず</span> ist ein Adverb, das "wie immer", "nach wie vor" oder "unverändert" bedeutet.</p>
+
+  <ul>
+    <li>Es drückt aus, dass etwas sich nicht geändert hat und so geblieben ist wie zuvor.</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]ら<u>は</u><span class="jp">相変[あいか]わらず</span> 笑[わら]っていた。</div>
+      <div class="de spoiler">Sie lachten immer noch.</div>
+    </div>
+
+    <li>Es kann auch in höflichen Ausdrücken verwendet werden, besonders in Neujahrskarten oder Briefen:</li>
+    <div class="examples">
+      <div class="jp">どうぞ 本年[ほんねん]も<span class="jp">相変[あいか]わらず</span>（よろしく）。</div>
+      <div class="de spoiler">Ich bitte Sie, mir auch in diesem Jahr Ihr Wohlwollen zu schenken.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um eine Situation zu beschreiben, die trotz Erwartungen unverändert bleibt:</li>
+    <div class="examples">
+      <div class="jp">ウィークデーだというのに、<span class="jp">相変[あいか]わらず</span> 混[こ]んでいた。</div>
+      <div class="de spoiler">Es war voll wie üblich, obwohl es ein Wochentag war.</div>
+    </div>
+  </ul>
+
+  <p>Eine besonders höfliche Variante ist <span class="jp">相変[あいか]わりませず</span> (aikawarimasezu), die oft als Antwort auf die Frage nach dem Befinden verwendet wird:</p>
+
+  <div class="examples">
+    <div class="jp"><span class="jp">相変[あいか]わりませず</span>、 元気[げんき]です。</div>
+    <div class="de spoiler">Mir geht es unverändert gut, danke der Nachfrage!</div>
+  </div>
+
+  <p>Beachten Sie, dass <span class="jp">相変[あいか]わらず</span> auch als Adjektiv mit の (no) verwendet werden kann:</p>
+
+  <div class="examples">
+    <div class="jp"><span class="jp">相変[あいか]わらず</span>の 調子[ちょうし]で...</div>
+    <div class="de spoiler">In der gewohnten Art und Weise...</div>
+  </div>

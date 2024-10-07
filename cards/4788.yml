@@ -2,7 +2,7 @@ Rang: 4788
 Lemma: この方
 Lesung: このかた
 Tonhöhen: /^\.
-Definition: diese Person
+Definition: diese(r) Herr/Dame (höflich); seit
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -14,12 +14,108 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この方を知りませんでした。
-  この 方[ほう]を 知[し]りませんでした。
-  Ich kannte diese Person nicht.
+  この 方[かた]を 知[し]りませんでした。
+  Ich kannte diesen Herrn nicht.
+
+  この方が新しい部長です。
+  この 方[かた]が 新[あたら]しい 部長[ぶちょう]です。
+  Dies ist unser neuer Abteilungsleiter.
+
+  「就いてはどうかこの方の御案内を願いたいと思うのですが」
+  「 就[つ]いてはどうかこの 方[かた]の 御案内[ごあんない]を 願[ねが]いたいと 思[おも]うのですが」
+  "Dürfte ich Sie darum bitten, diesen Herrn zu führen."
+
+  ベラスコはこの方は人間の罪業を背負って死んでいったのだと言った。
+  ベラスコはこの 方[かた]は 人間[にんげん]の 罪業[ざいごう]を 背負[せお]って 死[し]んでいったのだと 言[い]った。
+  Velasco sagte, dass dieser Mann die Sünden der Menschen auf sich geladen habe und gestorben sei.
+
+  「この方が御客さんかな」
+  「この 方[かた]が 御客[おきゃく]さんかな」
+  "Dies ist wohl der besagte Gast!"
+
+  この方に案内していただきます。
+  この 方[かた]に 案内[あんない]していただきます。
+  Diese Dame wird uns führen.
+
+  この方は昨日から入院しています。
+  この 方[かた]は 昨日[きのう]から 入院[にゅういん]しています。
+  Dieser Herr ist seit gestern im Krankenhaus.
+
+  この方はどちらからいらっしゃいましたか。
+  この 方[かた]はどちらからいらっしゃいましたか。
+  Woher kommen Sie, mein Herr?
+
+  この方と一緒に仕事をすることになりました。
+  この 方[かた]と 一緒[いっしょ]に 仕事[しごと]をすることになりました。
+  Ich werde mit dieser Person zusammenarbeiten.
+
+  十年この方、彼に会っていません。
+  十年[じゅうねん]この 方[かた]、 彼[かれ]に 会[あ]っていません。
+  Ich habe ihn seit zehn Jahren nicht mehr gesehen.
+
+  生まれてこの方、初めての経験です。
+  生[う]まれてこの 方[かた]、 初[はじ]めての 経験[けいけん]です。
+  Es ist meine erste Erfahrung seit meiner Geburt.
+
+  私がここへ来てこの方、多くの友達ができました。
+  私[わたし]がここへ 来[き]てこの 方[かた]、 多[おお]くの 友達[ともだち]ができました。
+  Seit ich hierher gekommen bin, habe ich viele Freunde gefunden.
+
+  この方に頼まれて、手伝うことにしました。
+  この 方[かた]に 頼[たの]まれて、 手伝[てつだ]うことにしました。
+  Ich habe mich entschieden zu helfen, weil diese Person mich darum gebeten hat.
+
+  この方は有名な作家です。
+  この 方[かた]は 有名[ゆうめい]な 作家[さっか]です。
+  Diese Person ist ein berühmter Schriftsteller.
+
+  この方のおかげで、問題が解決しました。
+  この 方[かた]のおかげで、 問題[もんだい]が 解決[かいけつ]しました。
+  Dank dieser Person wurde das Problem gelöst.
+
+  彼は生まれてこの方ただの一度も、日々、街中でくり返されているできごとなどには注意を向けたこともなかった。
+  彼[かれ]は 生[う]まれてこの 方[かた]ただの 一度[いちど]も、 日々[ひび]、 街中[まちなか]でくり 返[かえ]されているできごとなどには 注意[ちゅうい]を 向[む]けたこともなかった。
+  Niemals in seinem Leben hatte er dessen geachtet, was sich alltäglich auf der Straße zutrug.
+
+  この方は5年前から当社で働いています。
+  この 方[かた]は5年前[ねんまえ]から 当社[とうしゃ]で 働[はたら]いています。
+  Diese Person arbeitet seit fünf Jahren in unserem Unternehmen.
+
+  私がこの会社に入社してこの方、多くのことを学びました。
+  私[わたし]がこの 会社[かいしゃ]に 入社[にゅうしゃ]してこの 方[かた]、 多[おお]くのことを 学[まな]びました。
+  Seit ich in dieses Unternehmen eingetreten bin, habe ich viel gelernt.
+
+  この方のアドバイスを聞いてみましょう。
+  この 方[かた]のアドバイスを 聞[き]いてみましょう。
+  Lassen Sie uns den Rat dieser Person anhören.
+
+  子供の頃この方、ずっとピアノを弾いています。
+  子供[こども]の 頃[ころ]この 方[かた]、ずっとピアノを 弾[ひ]いています。
+  Seit meiner Kindheit spiele ich durchgehend Klavier.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">この 方[かた]</span> ist ein höflicher Ausdruck, der auf eine Person verweist.</p>
+  <ul>
+    <li>Es wird verwendet, um respektvoll auf jemanden zu zeigen oder sich auf jemanden zu beziehen.</li>
+    <li>Es ist höflicher als <span class="jp">この 人[ひと]</span>.</li>
+    <div class="examples">
+      <div class="jp"><span class="jp">この 方[かた]</span>の 御案内[ごあんない]を 願[ねが]いたいと 思[おも]うのですが。</div>
+      <div class="de spoiler">Dürfte ich Sie darum bitten, diesen Herrn zu führen.</div>
+      <div class="jp"><span class="jp">この 方[かた]</span>が 御客[おきゃく]さんかな。</div>
+      <div class="de spoiler">Dies ist wohl der besagte Gast!</div>
+    </div>
+  </ul>
+  <p><span class="jp">この 方[かた]</span> kann auch eine zeitliche Bedeutung haben:</p>
+  <ul>
+    <li>In diesem Kontext bedeutet es "seit" oder "seitdem".</li>
+    <div class="examples">
+      <div class="jp">生[う]まれて<span class="jp">この 方[かた]</span>ただの一度[いちど]も...</div>
+      <div class="de spoiler">Niemals in seinem Leben...</div>
+    </div>
+  </ul>
+  </p>

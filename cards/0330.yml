@@ -102,4 +102,23 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いわゆる wird verwendet, um auf etwas Bekanntes oder allgemein Anerkanntes zu verweisen.</p>
+  <ul>
+    <li>Es bedeutet "sogenannt" oder "allgemein als ... bezeichnet" und wird vor Nomen oder Nominalphrasen verwendet.</li>
+    <div class="examples">
+      <div class="jp"><u>いわゆる</u>お 茶目[ちゃめ]に 見[み]られる 事[こと]に 成功[せいこう]しました。</div>
+      <div class="de spoiler">Es gelang mir, als sogenannter Possenreißer betrachtet zu werden.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine gewisse Distanz oder Skepsis gegenüber dem bezeichneten Begriff auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">方程式[ほうていしき]の 中[なか]に<u>いわゆる</u> 宇宙[うちゅう] 定数[ていすう]を 導入[どうにゅう]し</div>
+      <div class="de spoiler">Er führte eine sogenannte kosmologische Konstante in seine Gleichungen ein</div>
+    </div>
+  </ul>
+  <p>いわゆる wird oft verwendet, um:</p>
+  <ul>
+    <li>Fachbegriffe oder spezielle Ausdrücke einzuführen</li>
+    <li>Auf populäre Konzepte oder Trends zu verweisen</li>
+    <li>Eine kritische oder distanzierte Haltung gegenüber einem Begriff auszudrücken</li>
+  </ul>

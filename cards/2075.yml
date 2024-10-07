@@ -2,20 +2,92 @@ Rang: 2075
 Lemma: 交換
 Lesung: こうかん
 Tonhöhen: /^^^
-Definition: Austausch
+Definition: austauschen, tauschen
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 交換しない・交換した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   クリスマスにはパーティーをしてプレゼントを交換する。
-  クリスマスにはパーティーをしてプレゼントを 交換[こうかん]する。
-  An Weihnachten feiern wir ein Fest und tauschen Geschenke aus.
+  クリスマスには パーティーをして プレゼントを 交換[こうかん]する。
+  Zu Weihnachten machen wir eine Party und tauschen Geschenke aus.
+
+  この手紙は大切な友人との交換日記です。
+  この 手紙[てがみ]は 大切[たいせつ]な 友人[ゆうじん]との 交換[こうかん]日記[にっき]です。
+  Dieser Brief ist ein Tagebuch, das ich mit einem wichtigen Freund austausche.
+
+  彼らは捕虜交換の交渉を始めた。
+  彼[かれ]らは 捕虜交換[ほりょこうかん]の 交渉[こうしょう]を 始[はじ]めた。
+  Sie begannen Verhandlungen über einen Gefangenenaustausch.
+
+  データ交換の新しいプロトコルが開発された。
+  データ 交換[こうかん]の 新[あたら]しいプロトコルが 開発[かいはつ]された。
+  Ein neues Protokoll für den Datenaustausch wurde entwickelt.
+
+  意見交換の場として、月に一度の会議を設けています。
+  意見交換[いけんこうかん]の 場[ば]として、月[つき]に 一度[いちど]の 会議[かいぎ]を 設[もう]けています。
+  Wir haben eine monatliche Besprechung als Forum für den Meinungsaustausch eingerichtet.
+
+  情報交換を円滑に行うために、新しいシステムを導入した。
+  情報交換[じょうほうこうかん]を 円滑[えんかつ]に 行[おこな]うために、新[あたら]しいシステムを 導入[どうにゅう]した。
+  Wir haben ein neues System eingeführt, um den Informationsaustausch reibungslos zu gestalten.
+
+  タイヤの交換時期が来たので、ガレージに予約を入れた。
+  タイヤの 交換[こうかん]時期[じき]が 来[き]たので、ガレージに 予約[よやく]を 入[い]れた。
+  Da es Zeit für einen Reifenwechsel war, habe ich einen Termin in der Werkstatt gemacht.
+
+  この電球は寿命が来たので、新しいものと交換しましょう。
+  この 電球[でんきゅう]は 寿命[じゅみょう]が 来[き]たので、新[あたら]しいものと 交換[こうかん]しましょう。
+  Diese Glühbirne hat das Ende ihrer Lebensdauer erreicht, lass uns sie durch eine neue ersetzen.
+
+  名刺を交換することは、ビジネスの基本マナーです。
+  名刺[めいし]を 交換[こうかん]することは、ビジネスの 基本[きほん]マナーです。
+  Der Austausch von Visitenkarten ist eine grundlegende Geschäftsetikette.
+
+  新しい環境に慣れるため、席を交換することになった。
+  新[あたら]しい 環境[かんきょう]に 慣[な]れるため、席[せき]を 交換[こうかん]することになった。
+  Um sich an die neue Umgebung zu gewöhnen, wurde beschlossen, die Sitzplätze zu tauschen.
+
+  互いの旅の話を交換して、楽しい時間を過ごした。
+  互[たが]いの 旅[たび]の 話[はなし]を 交換[こうかん]して、楽[たの]しい 時間[じかん]を 過[す]ごした。
+  Wir verbrachten eine angenehme Zeit damit, uns gegenseitig von unseren Reisen zu erzählen.
+
+  結婚式で二人は指輪を交換し、誓いを立てた。
+  結婚式[けっこんしき]で 二人[ふたり]は 指輪[ゆびわ]を 交換[こうかん]し、誓[ちか]いを 立[た]てた。
+  Bei der Hochzeitszeremonie tauschten die beiden Ringe aus und gaben sich ein Versprechen.
+
+  初めて会った時、私たちは写真を交換した。
+  初[はじ]めて 会[あ]った 時[とき]、私[わたし]たちは 写真[しゃしん]を 交換[こうかん]した。
+  Als wir uns zum ersten Mal trafen, tauschten wir Fotos aus.
+
+  物々交換の時代から、人々は必要なものを得るために交換をしてきた。
+  物々交換[ぶつぶつこうかん]の 時代[じだい]から、人々[ひとびと]は 必要[ひつよう]なものを 得[え]るために 交換[こうかん]をしてきた。
+  Seit der Zeit des Tauschhandels haben Menschen Dinge ausgetauscht, um das zu bekommen, was sie brauchen.
+
+  国際交流プログラムで、学生たちは異文化体験を交換した。
+  国際交流[こくさいこうりゅう]プログラムで、学生[がくせい]たちは 異文化体験[いぶんかたいけん]を 交換[こうかん]した。
+  Im Rahmen des internationalen Austauschprogramms tauschten die Studenten ihre interkulturellen Erfahrungen aus.
+
+  この部品は交換可能なので、簡単に新しいものに取り替えられます。
+  この 部品[ぶひん]は 交換可能[こうかんかのう]なので、簡単[かんたん]に 新[あたら]しいものに 取[と]り 替[か]えられます。
+  Da dieses Teil austauschbar ist, kann es leicht durch ein neues ersetzt werden.
+
+  不利な交換は避けるべきだが、時には長期的な利益のために短期的な損失を受け入れることも必要だ。
+  不利[ふり]な 交換[こうかん]は 避[さ]けるべきだが、時[とき]には 長期的[ちょうきてき]な 利益[りえき]のために 短期的[たんきてき]な 損失[そんしつ]を 受[う]け 入[い]れることも 必要[ひつよう]だ。
+  Ungünstige Tauschgeschäfte sollten vermieden werden, aber manchmal ist es notwendig, kurzfristige Verluste für langfristige Gewinne in Kauf zu nehmen.
+
+  電話番号を交換して、今後も連絡を取り合うことにしました。
+  電話番号[でんわばんごう]を 交換[こうかん]して、今後[こんご]も 連絡[れんらく]を 取[と]り 合[あ]うことにしました。
+  Wir haben unsere Telefonnummern ausgetauscht und beschlossen, in Kontakt zu bleiben.
+
+  経済学では、交換の理論が重要な位置を占めています。
+  経済学[けいざいがく]では、交換[こうかん]の 理論[りろん]が 重要[じゅうよう]な 位置[いち]を 占[し]めています。
+  In der Wirtschaftswissenschaft nimmt die Theorie des Austauschs eine wichtige Stellung ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

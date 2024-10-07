@@ -106,4 +106,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ほか (他・外) wird verwendet, um "andere(s)" oder "außer" auszudrücken.</p>
+  <ul>
+    <li>Als Grundform bedeutet es "andere(s)" oder "sonstige(s)":</li>
+    <div class="examples">
+      <div class="jp">病人[びょうにん]の 家[いえ]の 女[おんな]の<u>ほか</u>は、誰[だれ]も 近[ちか]寄[よ]ろうとしない。</div>
+      <div class="de spoiler">Außer den Frauen aus dem Haus des Kranken näherte sich niemand.</div>
+    </div>
+
+    <li>Mit に (ほかに) bedeutet es "sonst", "außerdem" oder "außer":</li>
+    <div class="examples">
+      <div class="jp"><u>ほかに</u> 質問[しつもん]ありますか？</div>
+      <div class="de spoiler">Gibt es sonst noch Fragen?</div>
+      <div class="jp">テレビの<u>ほかに</u> 家具[かぐ]は 見当[けんとう]たらない。</div>
+      <div class="de spoiler">Außer dem Fernseher waren keine Möbel vorhanden.</div>
+    </div>
+
+    <li>Mit の (ほかの) bedeutet es "andere(r/s)":</li>
+    <div class="examples">
+      <div class="jp"><u>ほかの</u> 席[せき]に 行[い]っちまえよ！</div>
+      <div class="de spoiler">Geh doch auf einen anderen Platz!</div>
+      <div class="jp"><u>ほかの</u> 人[ひと]たちは、となりどうしが 敵[かたき]みたいににらみ 合[あ]っている。</div>
+      <div class="de spoiler">Die anderen Leute starren sich an wie Feinde.</div>
+    </div>
+
+    <li>Mit よりほかない drückt es "keine andere Wahl haben als..." aus:</li>
+    <div class="examples">
+      <div class="jp">頷[うなず]く<u>ほか</u>なかった。</div>
+      <div class="de spoiler">Ihm blieb nichts anderes übrig, als zu nicken.</div>
+      <div class="jp">祈[いの]るより<u>ほか</u>に 仕方[しかた]は 無[な]い。</div>
+      <div class="de spoiler">Es gibt nichts anderes zu tun als zu beten.</div>
+    </div>
+  </ul>

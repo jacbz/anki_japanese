@@ -102,4 +102,23 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>における wird verwendet, um einen Ort, eine Zeit, einen Bereich oder eine Art und Weise anzugeben.</p>
+  <ul>
+    <li>Es kann übersetzt werden als "in", "auf", "an" oder "was ... betrifft".</li>
+    <li>Es wird oft verwendet, um den Kontext oder den Rahmen einer Aussage zu spezifizieren.</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">都会[とかい]<u>における</u>時間[じかん]のつぶし方[かた]</div>
+    <div class="de spoiler">Art und Weise, Zeit in der Großstadt totzuschlagen</div>
+    <div class="jp">現代[げんだい]<u>における</u>スコラ哲学[てつがく]</div>
+    <div class="de spoiler">Die Scholastik in der Gegenwart</div>
+    <div class="jp">生涯[しょうがい]<u>における</u>演技[えんぎ]の大失敗[だいしっぱい]</div>
+    <div class="de spoiler">Die großen Misserfolge in meiner schauspielerischen Laufbahn</div>
+    </ul>
+    <p>における kann auch in der adverbialen Form <span class="jp">に 於[お]いて</span> verwendet werden.</p>
+    <div class="examples">
+      <div class="jp">禅堂[ぜんどう]<u>における</u>友[とも]</div>
+      <div class="de spoiler">Ein Freund aus der Zeit im Zen-Kloster</div>
+    </div>

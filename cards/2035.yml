@@ -2,7 +2,7 @@ Rang: 2035
 Lemma: 経過
 Lesung: けいか
 Tonhöhen: /^^
-Definition: Verlauf; fortschreiten
+Definition: Verlauf; verstreichen
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vi
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   試合開始から十分が経過しました。
-  試合開始[しあいかいし]から十 分[ふん]が 経過[けいか]しました。
-  Zehn Minuten sind seit Beginn des Spiels vergangen.
+  試合[しあい] 開始[かいし]から 十分[じゅっぷん]が 経過[けいか]しました。
+  Zehn Minuten sind seit Spielbeginn verstrichen.
+
+  時の経過につれて、彼の考え方も変わってきた。
+  時[とき]の 経過[けいか]につれて、彼[かれ]の 考[かんが]え 方[かた]も 変[か]わってきた。
+  Im Laufe der Zeit hat sich auch seine Denkweise verändert.
+
+  5年経過してから、やっと成果が見えてきた。
+  5年[ねん] 経過[けいか]してから、やっと 成果[せいか]が 見[み]えてきた。
+  Erst nach Ablauf von fünf Jahren wurden endlich Ergebnisse sichtbar.
+
+  期限が経過したので、応募は締め切られました。
+  期限[きげん]が 経過[けいか]したので、応募[おうぼ]は 締[し]め 切[き]られました。
+  Da die Frist abgelaufen ist, wurden keine Bewerbungen mehr angenommen.
+
+  時の経過するうちに、傷も癒えていくでしょう。
+  時[とき]の 経過[けいか]するうちに、傷[きず]も 癒[い]えていくでしょう。
+  Mit der Zeit werden auch die Wunden heilen.
+
+  プロジェクトの経過報告を提出してください。
+  プロジェクトの 経過[けいか] 報告[ほうこく]を 提出[ていしゅつ]してください。
+  Bitte reichen Sie einen Zwischenbericht über den Projektverlauf ein.
+
+  患者の経過観察を慎重に行う必要があります。
+  患者[かんじゃ]の 経過[けいか] 観察[かんさつ]を 慎重[しんちょう]に 行[おこな]う 必要[ひつよう]があります。
+  Es ist notwendig, den Verlauf des Patientenzustands sorgfältig zu beobachten.
+
+  この病気の経過パターンは人によって異なります。
+  この 病気[びょうき]の 経過[けいか]パターンは 人[ひと]によって 異[こと]なります。
+  Das Verlaufsmuster dieser Krankheit variiert von Person zu Person.
+
+  幸い、手術後の経過は良好です。
+  幸[さいわ]い、手術[しゅじゅつ] 後[ご]の 経過[けいか]は 良好[りょうこう]です。
+  Glücklicherweise ist der Verlauf nach der Operation günstig.
+
+  裁判の経過を注意深く見守っています。
+  裁判[さいばん]の 経過[けいか]を 注意深[ちゅういぶか]く 見守[みまも]っています。
+  Wir beobachten den Prozessverlauf aufmerksam.
+
+  思わしくない経過に、チーム全体が落胆している。
+  思[おも]わしくない 経過[けいか]に、チーム 全体[ぜんたい]が 落胆[らくたん]している。
+  Das ganze Team ist wegen der unerfreulichen Entwicklung entmutigt.
+
+  経過的な現象なので、しばらく様子を見ましょう。
+  経過[けいか]的[てき]な 現象[げんしょう]なので、しばらく 様子[ようす]を 見[み]ましょう。
+  Da es sich um ein vorübergehendes Phänomen handelt, lasst uns die Situation eine Weile beobachten.
+
+  人類が経過すべき段階を飛ばしてはいけません。
+  人類[じんるい]が 経過[けいか]すべき 段階[だんかい]を 飛[と]ばしてはいけません。
+  Wir dürfen die notwendigen Entwicklungsstufen der Menschheit nicht überspringen.
+
+  天文学者たちは、水星の太陽面経過を観測した。
+  天文学者[てんもんがくしゃ]たちは、水星[すいせい]の 太陽面[たいようめん] 経過[けいか]を 観測[かんそく]した。
+  Die Astronomen beobachteten den Durchgang des Merkurs vor der Sonne.
+
+  経過配当の支払いについて、株主に通知が送られた。
+  経過[けいか] 配当[はいとう]の 支払[しはら]いについて、株主[かぶぬし]に 通知[つうち]が 送[おく]られた。
+  Eine Benachrichtigung über die Zahlung der aufgelaufenen Dividende wurde an die Aktionäre versandt.
+
+  この経過法は、新制度への移行を円滑にするためのものです。
+  この 経過[けいか]法[ほう]は、新[しん] 制度[せいど]への 移行[いこう]を 円滑[えんかつ]にするためのものです。
+  Dieses Übergangsgesetz dient dazu, den Übergang zum neuen System reibungslos zu gestalten.
+
+  経過時間を正確に記録することが重要です。
+  経過[けいか] 時間[じかん]を 正確[せいかく]に 記録[きろく]することが 重要[じゅうよう]です。
+  Es ist wichtig, die abgelaufene Zeit genau zu protokollieren.
+
+  経過勘定を適切に処理しないと、決算に影響が出ます。
+  経過[けいか] 勘定[かんじょう]を 適切[てきせつ]に 処理[しょり]しないと、決算[けっさん]に 影響[えいきょう]が 出[で]ます。
+  Wenn die aufgelaufenen Rechnungen nicht ordnungsgemäß bearbeitet werden, wirkt sich das auf den Jahresabschluss aus.
+
+  この経過規定は、新法施行後3年間有効です。
+  この 経過[けいか] 規定[きてい]は、新法[しんぽう] 施行[しこう] 後[ご]3年間[ねんかん] 有効[ゆうこう]です。
+  Diese Übergangsbestimmung ist für drei Jahre nach Inkrafttreten des neuen Gesetzes gültig.
+
+  経過利子の計算方法について説明してください。
+  経過[けいか] 利子[りし]の 計算[けいさん] 方法[ほうほう]について 説明[せつめい]してください。
+  Bitte erklären Sie die Berechnungsmethode für die aufgelaufenen Zinsen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

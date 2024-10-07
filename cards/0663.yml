@@ -102,4 +102,30 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どれ ist ein Fragepronomen, das verwendet wird, um aus mehreren Optionen auszuwählen.</p>
+
+  <ul>
+    <li>Es wird verwendet, wenn man nach einer bestimmten Option aus einer Gruppe fragt:</li>
+    <div class="examples">
+      <div class="jp">その三[みっ]つのうちの<u>どれ</u>が 彼女[かのじょ]の 本職[ほんしょく]なのか。</div>
+      <div class="de spoiler">Welcher von den dreien war ihr Hauptberuf?</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um nach einer Person aus einer Gruppe zu fragen:</li>
+    <div class="examples">
+      <div class="jp"><u>どれ</u>が エメリアナなのか わからなかった。</div>
+      <div class="de spoiler">Ich konnte nicht erkennen, wer von ihnen Emeliana war.</div>
+    </div>
+  </ul>
+
+  <p>どれ kann auch als Interjektion verwendet werden:</p>
+  <ul>
+    <li>Um eine neue Handlung einzuleiten oder Zustimmung auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>どれ</u>、わたしも 手伝[てつだ]おうか。</div>
+      <div class="de spoiler">Na gut, soll ich dir helfen?</div>
+      <div class="jp"><u>どれ</u>ぼくも 失礼[しつれい]しようか。</div>
+      <div class="de spoiler">Also dann, ich werde jetzt auch gehen.</div>
+    </div>
+  </ul>

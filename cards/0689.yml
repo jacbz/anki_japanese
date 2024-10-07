@@ -102,4 +102,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いらっしゃる ist ein höflich-respektvolles Verb mit mehreren Bedeutungen:</p>
+  <ul>
+    <li>Es kann als höfliche Form von 行[い]く (gehen) verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">バスで<u>いらっしゃいます</u>か？</div>
+      <div class="de spoiler">Fahren Sie mit dem Bus?</div>
+    </div>
+    <li>Es kann als höfliche Form von 来[く]る (kommen) verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">ここに 見学[けんがく]に<u>いらっしゃった</u>んですか？</div>
+      <div class="de spoiler">Sind Sie gekommen, um sich das hier anzuschauen?</div>
+    </div>
+    <li>Es kann als höfliche Form von いる (sein, sich befinden) verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">リヨンに<u>いらっしゃる</u>と 噂[うわさ]に 聞[き]いて...</div>
+      <div class="de spoiler">Ich habe gehört, dass Sie in Lyon sind...</div>
+    </div>
+    <li>In der Form で<u>いらっしゃる</u> kann es als höfliche Form von です verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">どなた 様[さま]で<u>いらっしゃいます</u>か。</div>
+      <div class="de spoiler">Wie ist Ihr werter Name?</div>
+    </div>
+  </ul>
+  <p>Beachten Sie die Konjugation:</p>
+  <ul>
+    <li>Verneinung: いらっしゃらない</li>
+    <li>Vergangenheit: いらっしゃった</li>
+  </ul>
+  <p>いらっしゃる wird oft in Dienstleistungssituationen oder im Gespräch mit Höhergestellten verwendet, um Respekt auszudrücken.</p>
+  </p>

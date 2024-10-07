@@ -2,7 +2,7 @@ Rang: 2697
 Lemma: にもかかわらず
 Lesung: ''
 Tonhöhen: \......
-Definition: trotz, obwohl, trotzdem
+Definition: trotz, ungeachtet
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -14,12 +14,112 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   病気にもかかわらず、会議に出席した。
-  病気[びょうき]にもかかわらず、 会議[かいぎ]に 出席[しゅっせき]した。
-  Er nahm trotz seiner Krankheit an der Sitzung teil.
+  病気[びょうき]にもかかわらず、会議[かいぎ]に 出席[しゅっせき]した。
+  Trotz seiner Krankheit nahm er an der Besprechung teil.
+
+  雨にもかかわらず、試合は予定通り行われた。
+  雨[あめ]にもかかわらず、試合[しあい]は 予定通[よていどお]り 行[おこな]われた。
+  Trotz des Regens fand das Spiel wie geplant statt.
+
+  高齢にもかかわらず、彼女はとても元気だ。
+  高齢[こうれい]にもかかわらず、彼女[かのじょ]はとても 元気[げんき]だ。
+  Trotz ihres hohen Alters ist sie sehr fit.
+
+  反対にもかかわらず、プロジェクトは進行した。
+  反対[はんたい]にもかかわらず、プロジェクトは 進行[しんこう]した。
+  Trotz des Widerstands schritt das Projekt voran.
+
+  警告にもかかわらず、彼は危険な行動を取り続けた。
+  警告[けいこく]にもかかわらず、彼[かれ]は 危険[きけん]な 行動[こうどう]を 取[と]り 続[つづ]けた。
+  Ungeachtet der Warnung setzte er sein gefährliches Verhalten fort.
+
+  困難にもかかわらず、彼らは目標を達成した。
+  困難[こんなん]にもかかわらず、彼[かれ]らは 目標[もくひょう]を 達成[たっせい]した。
+  Trotz der Schwierigkeiten erreichten sie ihr Ziel.
+
+  寒さにもかかわらず、多くの人が花見に来ていた。
+  寒[さむ]さにもかかわらず、多[おお]くの 人[ひと]が 花見[はなみ]に 来[き]ていた。
+  Trotz der Kälte waren viele Menschen zur Kirschblütenschau gekommen.
+
+  忙しさにもかかわらず、彼女は毎日運動している。
+  忙[いそが]しさにもかかわらず、彼女[かのじょ]は 毎日[まいにち] 運動[うんどう]している。
+  Trotz ihrer Geschäftigkeit treibt sie jeden Tag Sport.
+
+  不況にもかかわらず、会社の業績は上がっている。
+  不況[ふきょう]にもかかわらず、会社[かいしゃ]の 業績[ぎょうせき]は 上[あ]がっている。
+  Trotz der Rezession steigen die Leistungen des Unternehmens.
+
+  遠距離にもかかわらず、彼らは関係を続けている。
+  遠距離[えんきょり]にもかかわらず、彼[かれ]らは 関係[かんけい]を 続[つづ]けている。
+  Trotz der großen Entfernung führen sie ihre Beziehung fort.
+
+  予算不足にもかかわらず、プロジェクトは成功した。
+  予算不足[よさんぶそく]にもかかわらず、プロジェクトは 成功[せいこう]した。
+  Trotz des Budgetmangels war das Projekt erfolgreich.
+
+  批判にもかかわらず、政府は計画を実行した。
+  批判[ひはん]にもかかわらず、政府[せいふ]は 計画[けいかく]を 実行[じっこう]した。
+  Ungeachtet der Kritik setzte die Regierung den Plan um.
+
+  時間の制約にもかかわらず、彼は素晴らしい成果を上げた。
+  時間[じかん]の 制約[せいやく]にもかかわらず、彼[かれ]は 素晴[すば]らしい 成果[せいか]を 上[あ]げた。
+  Trotz der zeitlichen Einschränkungen erzielte er hervorragende Ergebnisse.
+
+  ストレスにもかかわらず、彼女は冷静さを保っていた。
+  ストレスにもかかわらず、彼女[かのじょ]は 冷静[れいせい]さを 保[たも]っていた。
+  Trotz des Stresses bewahrte sie ihre Ruhe.
+
+  悪天候にもかかわらず、イベントは予定通り開催された。
+  悪天候[あくてんこう]にもかかわらず、イベントは 予定通[よていどお]り 開催[かいさい]された。
+  Trotz des schlechten Wetters fand die Veranstaltung wie geplant statt.
+
+  経験不足にもかかわらず、彼は見事にプレゼンをこなした。
+  経験不足[けいけんぶそく]にもかかわらず、彼[かれ]は 見事[みごと]にプレゼンをこなした。
+  Trotz mangelnder Erfahrung meisterte er die Präsentation hervorragend.
+
+  厳しい競争にもかかわらず、その会社は成長し続けている。
+  厳[きび]しい 競争[きょうそう]にもかかわらず、その 会社[かいしゃ]は 成長[せいちょう]し 続[つづ]けている。
+  Trotz des harten Wettbewerbs wächst das Unternehmen weiterhin.
+
+  予想外の障害にもかかわらず、チームは期限内に仕事を完了させた。
+  予想外[よそうがい]の 障害[しょうがい]にもかかわらず、チームは 期限内[きげんない]に 仕事[しごと]を 完了[かんりょう]させた。
+  Trotz unerwarteter Hindernisse schloss das Team die Arbeit fristgerecht ab.
+
+  睡眠不足にもかかわらず、彼女は朝から元気いっぱいだった。
+  睡眠不足[すいみんぶそく]にもかかわらず、彼女[かのじょ]は 朝[あさ]から 元気[げんき]いっぱいだった。
+  Trotz Schlafmangels war sie vom Morgen an voller Energie.
+
+  多忙にもかかわらず、彼は家族との時間を大切にしている。
+  多忙[たぼう]にもかかわらず、彼[かれ]は 家族[かぞく]との 時間[じかん]を 大切[たいせつ]にしている。
+  Trotz seiner Geschäftigkeit legt er Wert auf die Zeit mit seiner Familie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">にもかかわらず</span> wird verwendet, um einen Gegensatz oder eine unerwartete Folge auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet "trotz", "trotzdem" oder "obwohl".</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 再三[さいさん] 言[い]われた<u>にもかかわらず</u>、行[い]く 気[き]はしなかった。</div>
+      <div class="de spoiler">Obwohl er mehrmals dazu aufgefordert wurde, hatte er keine Lust zu gehen.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um auszudrücken, dass etwas unabhängig von bestimmten Umständen geschieht.</li>
+    <div class="examples">
+      <div class="jp">警報[けいほう]の 有無[うむ]<u>にかかわらず</u>、 街[まち]は 夜[よる]になれば 光[ひかり]を 外[そと]に 漏[も]らさない。</div>
+      <div class="de spoiler">Unabhängig davon, ob Alarm gegeben wird oder nicht, dringt nach Einbruch der Dunkelheit kein Licht nach draußen.</div>
+    </div>
+  </ul>
+  <p>Beachten Sie die verschiedenen Schreibweisen:</p>
+  <ul>
+    <li><span class="jp">にもかかわらず</span> (häufigste Form)</li>
+    <li><span class="jp">にかかわらず</span> (ohne も, etwas weniger emphatisch)</li>
+    <li><span class="jp">拘[かか]わらず</span> (kanji-Schreibweise, formeller)</li>
+  </ul>
+  <p>Der Ausdruck folgt normalerweise auf ein Nomen mit に oder einen Satzteil mit のに:</p>
+  <div class="examples">
+    <div class="jp">厳重[げんじゅう]な 追放令[ついほうれい]<u>にもかかわらず</u>、 司祭[しさい]が 日本[にほん]に 残[のこ]っていた。</div>
+    <div class="de spoiler">Trotz des strengen Ausweisungsbefehls blieben Priester in Japan.</div>
+  </div>

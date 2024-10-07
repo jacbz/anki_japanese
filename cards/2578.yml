@@ -15,11 +15,106 @@ Konjugation: ''
 Beispielsätze: |-
   おい、そこに入ってはいけないよ！
   おい、そこに 入[はい]ってはいけないよ！
-  Hey, geh da nicht rein!
+  Hey, du darfst da nicht reingehen!
+
+  おい、どうした？何か問題でも？
+  おい、どうした？ 何[なに]か 問題[もんだい]でも？
+  Hey, was ist los? Gibt's ein Problem?
+
+  おい、ちょっと待て。話がある。
+  おい、ちょっと 待[ま]て。 話[はなし]がある。
+  Hey, warte mal. Ich muss dir was sagen.
+
+  おい、しっかりしろ。諦めるな。
+  おい、しっかりしろ。 諦[あきら]めるな。
+  Komm schon, reiß dich zusammen. Gib nicht auf.
+
+  おい、幸さん。そろそろ出発の時間だよ。
+  おい、 幸[こう]さん。そろそろ 出発[しゅっぱつ]の 時間[じかん]だよ。
+  Du, Ko-san. Es ist bald Zeit aufzubrechen.
+
+  おい、お前の一寸貸せや。ペン忘れちゃったんだ。
+  おい、お 前[まえ]の 一寸[ちょっと] 貸[か]せや。ペン 忘[わす]れちゃったんだ。
+  Hey du, leih mir mal kurz deinen Stift. Ich hab meinen vergessen.
+
+  おい、聞いてるのか？大事な話だぞ。
+  おい、 聞[き]いてるのか？ 大事[だいじ]な 話[はなし]だぞ。
+  Hey, hörst du mir zu? Das ist wichtig.
+
+  おい、そこの君！落とし物だよ。
+  おい、そこの 君[きみ]！ 落[お]とし 物[もの]だよ。
+  Hey du da! Du hast was fallen lassen.
+
+  おい、もう遅いぞ。早く帰ろう。
+  おい、もう 遅[おそ]いぞ。 早[はや]く 帰[かえ]ろう。
+  Hey, es ist schon spät. Lass uns nach Hause gehen.
+
+  おい、そんなことしたら危ないだろ！
+  おい、そんなことしたら 危[あぶ]ないだろ！
+  Hey, das ist doch gefährlich, wenn du das machst!
+
+  おい、君！そこは立ち入り禁止だ。
+  おい、 君[きみ]！そこは 立[た]ち 入[い]り 禁止[きんし]だ。
+  Hey du! Das Betreten ist dort verboten.
+
+  おい、ちょっと手伝ってくれないか？
+  おい、ちょっと 手伝[てつだ]ってくれないか？
+  Hey, kannst du mir kurz helfen?
+
+  おい、お前！何をぼーっとしてるんだ？
+  おい、お 前[まえ]！ 何[なに]をぼーっとしてるんだ？
+  Hey du! Was stehst du da so rum und träumst?
+
+  おい、そこの二人！喧嘩はやめろ！
+  おい、そこの 二人[ふたり]！ 喧嘩[けんか]はやめろ！
+  Hey, ihr beiden da! Hört auf zu streiten!
+
+  おい、もしもし！財布を落としたぞ。
+  おい、もしもし！ 財布[さいふ]を 落[お]としたぞ。
+  Hey, hallo! Du hast dein Portemonnaie fallen lassen.
+
+  おい、お前ら！静かにしろ。授業中だぞ。
+  おい、お 前[まえ]ら！ 静[しず]かにしろ。 授業中[じゅぎょうちゅう]だぞ。
+  Hey, ihr da! Seid leise. Der Unterricht läuft.
+
+  おい、そこのお兄さん！タクシー降りませんか？
+  おい、そこのお 兄[にい]さん！タクシー 降[お]りませんか？
+  Hey, Sie da! Wollen Sie nicht aus dem Taxi aussteigen?
+
+  おい、待てよ！忘れ物があるぞ。
+  おい、 待[ま]てよ！ 忘[わす]れ 物[もの]があるぞ。
+  Hey, warte mal! Du hast was vergessen.
+
+  おい、そこの君！駐車違反だぞ。
+  おい、そこの 君[きみ]！ 駐車違反[ちゅうしゃいはん]だぞ。
+  Hey du da! Das ist ein Parkverstoß.
+
+  おい、お前！何を勝手にしてるんだ？
+  おい、お 前[まえ]！ 何[なに]を 勝手[かって]にしてるんだ？
+  Hey du! Was machst du da eigenmächtig?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>おい ist eine informelle Interjektion, die verwendet wird, um jemanden anzusprechen oder auf sich aufmerksam zu machen.</p>
+  <ul>
+    <li>Es wird hauptsächlich gegenüber vertrauten Personen oder Personen niedrigeren Ranges verwendet.</li>
+    <li>Die Bedeutung kann je nach Kontext variieren, entspricht aber oft "Hey!", "Du!", oder "Hallo!".</li>
+    <li>Es kann auch verwendet werden, um jemanden aufzufordern, etwas zu tun.</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp"><u>おい</u>、どうした？</div>
+    <div class="de spoiler">Hey, was ist los?</div>
+    <div class="jp"><u>おい</u>、ちょっと 待[ま]て。</div>
+    <div class="de spoiler">Hey, warte mal einen Moment.</div>
+    <div class="jp"><u>おい</u>、しっかりしろ。</div>
+    <div class="de spoiler">Hey, reiß dich zusammen.</div>
+    <div class="jp"><u>おい</u>、 幸[こう]さん。そろそろお 前[まえ]の 好[す]きな 鮪[まぐろ]の 脂身[あぶらみ]が 食[た]べられる 頃[ころ]だネ。</div>
+    <div class="de spoiler">Du, Ko-san, jetzt wird es wohl bald wieder den fetten Thunfisch geben, den du so magst.</div>
+  </div>
+  <p>Beachten Sie, dass おい als unhöflich empfunden werden kann, wenn es gegenüber Fremden oder Ranghöheren verwendet wird.</p>
+  </p>

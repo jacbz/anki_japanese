@@ -2,20 +2,96 @@ Rang: 2046
 Lemma: 断る
 Lesung: ことわる
 Tonhöhen: /^\.
-Definition: ablehnen, ableugnen, zurückweisen; um Erlaubnis bitten; kündigen
-Alternativschreibweisen: ''
+Definition: ablehnen
+Alternativschreibweisen: 断わる・判る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 断らない・断った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   デートを断られてしまった。
   デートを 断[ことわ]られてしまった。
-  Ich wurde für ein Date abgelehnt.
+  Ich wurde beim Date abgewiesen.
+
+  彼は提案をきっぱりと断った。
+  彼[かれ]は 提案[ていあん]をきっぱりと 断[ことわ]った。
+  Er lehnte den Vorschlag rundweg ab.
+
+  友人の助けを断るのは難しかった。
+  友人[ゆうじん]の 助[たす]けを 断[ことわ]るのは 難[むずか]しかった。
+  Es war schwierig, die Hilfe meines Freundes abzulehnen.
+
+  縁談を断る理由を説明しなければならなかった。
+  縁談[えんだん]を 断[ことわ]る 理由[りゆう]を 説明[せつめい]しなければならなかった。
+  Ich musste den Grund erklären, warum ich den Heiratsantrag ablehnte.
+
+  仕事の依頼を断るのは申し訳ないと思った。
+  仕事[しごと]の 依頼[いらい]を 断[ことわ]るのは 申[もう]し 訳[わけ]ないと 思[おも]った。
+  Ich fand es bedauerlich, den Arbeitsauftrag ablehnen zu müssen.
+
+  パーティーの招待を断ったら、彼女は落胆した様子だった。
+  パーティーの 招待[しょうたい]を 断[ことわ]ったら、彼女[かのじょ]は 落胆[らくたん]した 様子[ようす]だった。
+  Als ich die Einladung zur Party ablehnte, schien sie enttäuscht zu sein.
+
+  重要な役職への就任を断るのは簡単ではなかった。
+  重要[じゅうよう]な 役職[やくしょく]への 就任[しゅうにん]を 断[ことわ]るのは 簡単[かんたん]ではなかった。
+  Es war nicht einfach, die Ernennung zu einer wichtigen Position abzulehnen.
+
+  会議への出席を断る理由を上司に説明した。
+  会議[かいぎ]への 出席[しゅっせき]を 断[ことわ]る 理由[りゆう]を 上司[じょうし]に 説明[せつめい]した。
+  Ich erklärte meinem Vorgesetzten den Grund, warum ich die Teilnahme an der Besprechung ablehnte.
+
+  彼女は無愛想に私の申し出を断った。
+  彼女[かのじょ]は 無愛想[ぶあいそう]に 私[わたし]の 申[もう]し 出[で]を 断[ことわ]った。
+  Sie lehnte mein Angebot schroff ab.
+
+  新聞の定期購読を断るのに少し躊躇した。
+  新聞[しんぶん]の 定期購読[ていきこうどく]を 断[ことわ]るのに 少[すこ]し 躊躇[ちゅうちょ]した。
+  Ich zögerte ein wenig, das Zeitungsabonnement zu kündigen.
+
+  一言断ってから外出するのが礼儀だ。
+  一言[ひとこと] 断[ことわ]ってから 外出[がいしゅつ]するのが 礼儀[れいぎ]だ。
+  Es ist höflich, kurz Bescheid zu sagen, bevor man das Haus verlässt.
+
+  断らずに外出したら、両親に叱られた。
+  断[ことわ]らずに 外出[がいしゅつ]したら、両親[りょうしん]に 叱[しか]られた。
+  Als ich ohne Bescheid zu sagen ausging, wurde ich von meinen Eltern gescholten.
+
+  断っておくが、これは最後のチャンスだ。
+  断[ことわ]っておくが、これは 最後[さいご]のチャンスだ。
+  Nur damit du Bescheid weißt, dies ist die letzte Chance.
+
+  わざわざ断ることもないようなささいなことだった。
+  わざわざ 断[ことわ]ることもないようなささいなことだった。
+  Es war eine Kleinigkeit, für die man sich nicht extra hätte entschuldigen müssen.
+
+  上司の提案を断るのは勇気がいった。
+  上司[じょうし]の 提案[ていあん]を 断[ことわ]るのは 勇気[ゆうき]がいった。
+  Es erforderte Mut, den Vorschlag meines Vorgesetzten abzulehnen.
+
+  彼は単純すぎて政治には向かないと言って、立候補を断った。
+  彼[かれ]は 単純[たんじゅん]すぎて 政治[せいじ]には 向[む]かないと 言[い]って、立候補[りっこうほ]を 断[ことわ]った。
+  Er lehnte die Kandidatur ab mit der Begründung, er sei zu naiv für die Politik.
+
+  友人の誘いを断り切れず、結局出かけることになった。
+  友人[ゆうじん]の 誘[さそ]いを 断[ことわ]り 切[き]れず、結局[けっきょく] 出[で]かけることになった。
+  Ich konnte die Einladung meines Freundes nicht ablehnen und ging schließlich doch mit.
+
+  断る理由を考えるのに時間がかかった。
+  断[ことわ]る 理由[りゆう]を 考[かんが]えるのに 時間[じかん]がかかった。
+  Es dauerte eine Weile, bis ich einen Grund zum Ablehnen gefunden hatte.
+
+  彼女は丁寧に断ったが、私は少し傷ついた。
+  彼女[かのじょ]は 丁寧[ていねい]に 断[ことわ]ったが、私[わたし]は 少[すこ]し 傷[きず]ついた。
+  Sie lehnte höflich ab, aber ich war ein bisschen verletzt.
+
+  断る勇気がなくて、困難な仕事を引き受けてしまった。
+  断[ことわ]る 勇気[ゆうき]がなくて、困難[こんなん]な 仕事[しごと]を 引[ひ]き 受[う]けてしまった。
+  Ich hatte nicht den Mut abzulehnen und nahm die schwierige Aufgabe an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

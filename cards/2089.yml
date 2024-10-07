@@ -2,7 +2,7 @@ Rang: 2089
 Lemma: 派遣
 Lesung: はけん
 Tonhöhen: /^^
-Definition: entsenden, schicken
+Definition: entsenden
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   多くの国が日本に救助隊を派遣した。
-  多[おお]くの 国[くに]が 日本[にっぽん]に 救助隊[きゅうじょたい]を 派遣[はけん]した。
-  Viele Länder haben Rettungsteams nach Japan entsandt.
+  多[おお]くの 国[くに]が 日本[にほん]に 救助隊[きゅうじょたい]を 派遣[はけん]した。
+  Viele Länder entsandten Rettungsteams nach Japan.
+
+  派遣代表として国際会議に出席します。
+  派遣代表[はけんだいひょう]として 国際会議[こくさいかいぎ]に 出席[しゅっせき]します。
+  Ich nehme als entsandter Vertreter an der internationalen Konferenz teil.
+
+  派遣団の一員として海外視察に参加しました。
+  派遣団[はけんだん]の 一員[いちいん]として 海外視察[かいがいしさつ]に 参加[さんか]しました。
+  Ich nahm als Mitglied einer Delegation an einer Auslandsinspektion teil.
+
+  彼は派遣会社を通じて仕事を見つけた。
+  彼[かれ]は 派遣会社[はけんがいしゃ]を 通[とお]じて 仕事[しごと]を 見[み]つけた。
+  Er fand Arbeit durch eine Zeitarbeitsfirma.
+
+  政府は災害地域に派遣軍を送った。
+  政府[せいふ]は 災害地域[さいがいちいき]に 派遣軍[はけんぐん]を 送[おく]った。
+  Die Regierung entsandte Truppen in das Katastrophengebiet.
+
+  彼女は新聞社の派遣記者としてロンドンに赴任した。
+  彼女[かのじょ]は 新聞社[しんぶんしゃ]の 派遣記者[はけんきしゃ]としてロンドンに 赴任[ふにん]した。
+  Sie wurde als Korrespondentin ihrer Zeitung nach London entsandt.
+
+  派遣教員として地方の学校で1年間勤務しました。
+  派遣教員[はけんきょういん]として 地方[ちほう]の 学校[がっこう]で1年間[いちねんかん] 勤務[きんむ]しました。
+  Ich arbeitete ein Jahr lang als entsandte Lehrkraft an einer Schule auf dem Land.
+
+  派遣労働者の権利を守るための法律が制定された。
+  派遣労働者[はけんろうどうしゃ]の 権利[けんり]を 守[まも]るための 法律[ほうりつ]が 制定[せいてい]された。
+  Es wurde ein Gesetz zum Schutz der Rechte von Leiharbeitern erlassen.
+
+  国連は平和維持のために派遣隊を送った。
+  国連[こくれん]は 平和維持[へいわいじ]のために 派遣隊[はけんたい]を 送[おく]った。
+  Die UNO entsandte ein Kontingent zur Friedenssicherung.
+
+  人材派遣の仕事は柔軟な働き方ができる利点がある。
+  人材派遣[じんざいはけん]の 仕事[しごと]は 柔軟[じゅうなん]な 働[はたら]き 方[かた]ができる 利点[りてん]がある。
+  Zeitarbeit hat den Vorteil, dass man flexibel arbeiten kann.
+
+  「人材派遣の方でしょう」と尋ねられました。
+  「人材派遣[じんざいはけん]の 方[かた]でしょう」と 尋[たず]ねられました。
+  Ich wurde gefragt: "Sie sind wohl von einer Zeitarbeitsfirma, nicht wahr?"
+
+  会社は海外支社に3人の社員を派遣する予定だ。
+  会社[かいしゃ]は 海外支社[かいがいししゃ]に3人[さんにん]の 社員[しゃいん]を 派遣[はけん]する 予定[よてい]だ。
+  Das Unternehmen plant, drei Mitarbeiter in seine Auslandsniederlassung zu entsenden.
+
+  政府は大使を新しく開設された大使館に派遣した。
+  政府[せいふ]は 大使[たいし]を 新[あたら]しく 開設[かいせつ]された 大使館[たいしかん]に 派遣[はけん]した。
+  Die Regierung entsandte einen Botschafter in die neu eröffnete Botschaft.
+
+  龍造寺一馬は、この島に派遣された部隊の主任主計官だった。
+  龍造寺一馬[りゅうぞうじかずま]は、この 島[しま]に 派遣[はけん]された 部隊[ぶたい]の 主任主計官[しゅにんしゅけいかん]だった。
+  Ryūzōji Kazuma war der leitende Zahlmeister der auf diese Insel entsandten Truppe.
+
+  彼らは失業問題のある地域に調査団を派遣することを決めた。
+  彼[かれ]らは 失業問題[しつぎょうもんだい]のある 地域[ちいき]に 調査団[ちょうさだん]を 派遣[はけん]することを 決[き]めた。
+  Sie beschlossen, ein Untersuchungsteam in die Region mit Arbeitslosigkeitsproblemen zu entsenden.
+
+  派遣社員として働くことで、さまざまな職場を経験できた。
+  派遣社員[はけんしゃいん]として 働[はたら]くことで、さまざまな 職場[しょくば]を 経験[けいけん]できた。
+  Durch die Arbeit als Zeitarbeitnehmer konnte ich verschiedene Arbeitsplätze kennenlernen.
+
+  国際支援のため、医療チームを被災地に派遣します。
+  国際支援[こくさいしえん]のため、医療[いりょう]チームを 被災地[ひさいち]に 派遣[はけん]します。
+  Zur internationalen Unterstützung entsenden wir ein medizinisches Team in das Katastrophengebiet.
+
+  会社は社員を海外研修に派遣し、グローバルな視野を養っている。
+  会社[かいしゃ]は 社員[しゃいん]を 海外研修[かいがいけんしゅう]に 派遣[はけん]し、グローバルな 視野[しや]を 養[やしな]っている。
+  Das Unternehmen entsendet Mitarbeiter zu Auslandsschulungen, um eine globale Perspektive zu fördern.
+
+  政府は災害対策のため、専門家チームを派遣することを決定した。
+  政府[せいふ]は 災害対策[さいがいたいさく]のため、専門家[せんもんか]チームを 派遣[はけん]することを 決定[けってい]した。
+  Die Regierung beschloss, ein Team von Experten zur Katastrophenbewältigung zu entsenden.
+
+  派遣労働は柔軟な働き方ができる反面、雇用の安定性に課題がある。
+  派遣労働[はけんろうどう]は 柔軟[じゅうなん]な 働[はたら]き 方[かた]ができる 反面[はんめん]、雇用[こよう]の 安定性[あんていせい]に 課題[かだい]がある。
+  Zeitarbeit ermöglicht zwar flexible Arbeitsmöglichkeiten, stellt aber auch eine Herausforderung für die Beschäftigungsstabilität dar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

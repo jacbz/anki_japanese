@@ -2,20 +2,96 @@ Rang: 2077
 Lemma: 防ぐ
 Lesung: ふせぐ
 Tonhöhen: (/)\.
-Definition: verteidigen, schützen; verhindern, fernhalten
-Alternativschreibweisen: ''
+Definition: verhindern; abwehren
+Alternativschreibweisen: 禦ぐ・拒ぐ
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 防がない・防いだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼らは交通事故を防ぐためのキャンペーンを始めた。
   彼[かれ]らは 交通事故[こうつうじこ]を 防[ふせ]ぐためのキャンペーンを 始[はじ]めた。
-  Sie haben eine Kampagne gestartet, um Verkehrsunfälle zu verhindern.
+  Sie starteten eine Kampagne zur Verhütung von Verkehrsunfällen.
+
+  雨を防ぐために傘を持っていきます。
+  雨[あめ]を 防[ふせ]ぐために 傘[かさ]を 持[も]っていきます。
+  Ich nehme einen Schirm mit, um mich vor dem Regen zu schützen.
+
+  火が広がるのを防ぐために、消防士たちは必死に働いた。
+  火[ひ]が 広[ひろ]がるのを 防[ふせ]ぐために、消防士[しょうぼうし]たちは 必死[ひっし]に 働[はたら]いた。
+  Die Feuerwehrleute arbeiteten verzweifelt daran, die Ausbreitung des Feuers zu verhindern.
+
+  この薬は感染を防ぐのに効果的です。
+  この 薬[くすり]は 感染[かんせん]を 防[ふせ]ぐのに 効果的[こうかてき]です。
+  Dieses Medikament ist wirksam bei der Vorbeugung von Infektionen.
+
+  危険を防ぐために、安全規則を必ず守ってください。
+  危険[きけん]を 防[ふせ]ぐために、安全[あんぜん]規則[きそく]を 必[かなら]ず 守[まも]ってください。
+  Bitte befolgen Sie unbedingt die Sicherheitsregeln, um Gefahren vorzubeugen.
+
+  彼らは敵の攻撃を防ぐために、城壁を強化した。
+  彼[かれ]らは 敵[てき]の 攻撃[こうげき]を 防[ふせ]ぐために、城壁[じょうへき]を 強化[きょうか]した。
+  Sie verstärkten die Stadtmauern, um feindliche Angriffe abzuwehren.
+
+  寒さを防ぐために、暖かい服を着ましょう。
+  寒[さむ]さを 防[ふせ]ぐために、暖[あたた]かい 服[ふく]を 着[き]ましょう。
+  Lasst uns warme Kleidung tragen, um uns vor der Kälte zu schützen.
+
+  国境警備隊は敵の侵略を防ぐために、24時間体制で監視している。
+  国境警備隊[こっきょうけいびたい]は 敵[てき]の 侵略[しんりゃく]を 防[ふせ]ぐために、24時間体制[じかんたいせい]で 監視[かんし]している。
+  Die Grenzschutzeinheit überwacht rund um die Uhr, um einen feindlichen Einfall zu verhindern.
+
+  トラブルを防ぐために、事前に十分な準備をしておくことが大切だ。
+  トラブルを 防[ふせ]ぐために、事前[じぜん]に 十分[じゅうぶん]な 準備[じゅんび]をしておくことが 大切[たいせつ]だ。
+  Es ist wichtig, im Voraus gründliche Vorbereitungen zu treffen, um Probleme zu verhüten.
+
+  それでも隣近所に火が移るのは防いだ。
+  それでも 隣近所[となりきんじょ]に 火[ひ]が 移[うつ]るのは 防[ふせ]いだ。
+  Immerhin konnten wir jedoch verhindern, dass das Feuer auf die Nachbarhäuser übergriff.
+
+  内部に詰められてある経巻類は、破損を防ぐためか一応みな一抱えほどの束に纏められて布で包まれてあった。
+  内部[ないぶ]に 詰[つ]められてある 経巻類[きょうかんるい]は、破損[はそん]を 防[ふせ]ぐためか 一応[いちおう]みな 一抱[ひとかか]えほどの 束[たば]に 纏[まと]められて 布[ぬの]で 包[つつ]まれてあった。
+  Die im Inneren gelagerten Sutrenrollen waren, vermutlich um Beschädigungen zu vermeiden, jeweils zu handlichen Bündeln zusammengefasst und in Tücher eingewickelt.
+
+  アクニヤ総督は日本との貿易が新教徒の国々の進出を防ぐためにも意味あると王室補佐官に報告してくれた。
+  アクニヤ 総督[そうとく]は 日本[にほん]との 貿易[ぼうえき]が 新教徒[しんきょうと]の 国々[くにぐに]の 進出[しんしゅつ]を 防[ふせ]ぐためにも 意味[いみ]あると 王室[おうしつ]補佐官[ほさかん]に 報告[ほうこく]してくれた。
+  Vizekönig Acuña berichtete den königlichen Beratern, dass der Handel mit Japan auch dazu diene, die Expansion protestantischer Länder zu verhindern.
+
+  この新しい技術は、データの漏洩を防ぐのに役立ちます。
+  この 新[あたら]しい 技術[ぎじゅつ]は、データの 漏洩[ろうえい]を 防[ふせ]ぐのに 役立[やくだ]ちます。
+  Diese neue Technologie hilft, Datenlecks zu verhindern.
+
+  彼女は病気を防ぐために、毎日運動をしています。
+  彼女[かのじょ]は 病気[びょうき]を 防[ふせ]ぐために、毎日[まいにち] 運動[うんどう]をしています。
+  Sie macht jeden Tag Sport, um Krankheiten vorzubeugen.
+
+  食中毒を防ぐには、食品の適切な保存と調理が重要です。
+  食中毒[しょくちゅうどく]を 防[ふせ]ぐには、食品[しょくひん]の 適切[てきせつ]な 保存[ほぞん]と 調理[ちょうり]が 重要[じゅうよう]です。
+  Um Lebensmittelvergiftungen zu verhindern, ist die richtige Lagerung und Zubereitung von Lebensmitteln wichtig.
+
+  サイバー攻撃を防ぐために、常にセキュリティソフトを最新の状態に保つべきだ。
+  サイバー 攻撃[こうげき]を 防[ふせ]ぐために、常[つね]にセキュリティソフトを 最新[さいしん]の 状態[じょうたい]に 保[たも]つべきだ。
+  Um Cyberangriffe abzuwehren, sollte man die Sicherheitssoftware immer auf dem neuesten Stand halten.
+
+  地震による被害を防ぐため、建物の耐震性を高める必要がある。
+  地震[じしん]による 被害[ひがい]を 防[ふせ]ぐため、建物[たてもの]の 耐震性[たいしんせい]を 高[たか]める 必要[ひつよう]がある。
+  Um Schäden durch Erdbeben zu verhindern, muss die Erdbebensicherheit von Gebäuden erhöht werden.
+
+  彼は肥満を防ぐために、食事制限を始めた。
+  彼[かれ]は 肥満[ひまん]を 防[ふせ]ぐために、食事制限[しょくじせいげん]を 始[はじ]めた。
+  Er begann mit einer Diät, um Fettleibigkeit vorzubeugen.
+
+  環境破壊を防ぐために、私たちは日々の生活で環境に配慮する必要がある。
+  環境破壊[かんきょうはかい]を 防[ふせ]ぐために、私[わたし]たちは 日々[ひび]の 生活[せいかつ]で 環境[かんきょう]に 配慮[はいりょ]する 必要[ひつよう]がある。
+  Um Umweltzerstörung zu verhindern, müssen wir in unserem täglichen Leben Rücksicht auf die Umwelt nehmen.
+
+  詐欺被害を防ぐには、不審な勧誘には慎重に対応することが大切です。
+  詐欺[さぎ]被害[ひがい]を 防[ふせ]ぐには、不審[ふしん]な 勧誘[かんゆう]には 慎重[しんちょう]に 対応[たいおう]することが 大切[たいせつ]です。
+  Um Betrug zu verhindern, ist es wichtig, vorsichtig auf verdächtige Angebote zu reagieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

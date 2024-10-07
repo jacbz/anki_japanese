@@ -2,24 +2,110 @@ Rang: 2041
 Lemma: 去る
 Lesung: さる
 Tonhöhen: \.
-Definition: gehen, verlassen, vorübergehen
+Definition: (weg)gehen; verlassen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 去らない・去った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は六十歳でこの世を去った。
-  彼[かれ]は六十 歳[さい]でこの 世[よ]を 去[さ]った。
-  Er ist im Alter von sechzig Jahren verstorben.
+  彼[かれ]は 六十歳[ろくじゅっさい]でこの 世[よ]を 去[さ]った。
+  Er verließ diese Welt im Alter von sechzig Jahren.
+
+  故郷を去って大都市で新しい人生を始めることにした。
+  故郷[こきょう]を 去[さ]って 大都市[だいとし]で 新[あたら]しい 人生[じんせい]を 始[はじ]めることにした。
+  Ich beschloss, meine Heimat zu verlassen und ein neues Leben in einer Großstadt zu beginnen.
+
+  会議が終わり、全員が席を去った。
+  会議[かいぎ]が 終[お]わり、全員[ぜんいん]が 席[せき]を 去[さ]った。
+  Die Besprechung endete und alle verließen ihre Plätze.
+
+  大学を去る前に、恩師に感謝の言葉を伝えた。
+  大学[だいがく]を 去[さ]る 前[まえ]に、恩師[おんし]に 感謝[かんしゃ]の 言葉[ことば]を 伝[つた]えた。
+  Bevor ich die Universität verließ, überbrachte ich meinem Mentor Worte des Dankes.
+
+  彼女は政界を去り、平和な生活を送ることにした。
+  彼女[かのじょ]は 政界[せいかい]を 去[さ]り、平和[へいわ]な 生活[せいかつ]を 送[おく]ることにした。
+  Sie zog sich aus der Politik zurück und beschloss, ein ruhiges Leben zu führen.
+
+  一礼をして部屋を去る彼の姿は凛々しかった。
+  一礼[いちれい]をして 部屋[へや]を 去[さ]る 彼[かれ]の 姿[すがた]は 凛々[りり]しかった。
+  Seine Erscheinung war würdevoll, als er sich mit einer Verbeugung aus dem Zimmer entfernte.
+
+  痛みが去るまで、少し休憩しましょう。
+  痛[いた]みが 去[さ]るまで、少[すこ]し 休憩[きゅうけい]しましょう。
+  Lassen Sie uns eine kleine Pause machen, bis der Schmerz nachlässt.
+
+  暑さが去り、涼しい秋風が吹き始めた。
+  暑[あつ]さが 去[さ]り、涼[すず]しい 秋風[あきかぜ]が 吹[ふ]き 始[はじ]めた。
+  Die Hitze ließ nach und ein kühler Herbstwind begann zu wehen.
+
+  あの出来事は今でも私の脳裏を去らない。
+  あの 出来事[できごと]は 今[いま]でも 私[わたし]の 脳裏[のうり]を 去[さ]らない。
+  Jenes Ereignis geht mir auch heute noch nicht aus dem Kopf.
+
+  春が去り、夏が近づいてきた。
+  春[はる]が 去[さ]り、夏[なつ]が 近[ちか]づいてきた。
+  Der Frühling ging vorüber und der Sommer näherte sich.
+
+  チャンスが去る前に、勇気を出して挑戦しよう。
+  チャンスが 去[さ]る 前[まえ]に、勇気[ゆうき]を 出[だ]して 挑戦[ちょうせん]しよう。
+  Lass uns mutig sein und es versuchen, bevor die Chance vorübergeht.
+
+  今を去ること三十年、この町は大きく変わった。
+  今[いま]を 去[さ]ること 三十年[さんじゅうねん]、この 町[まち]は 大[おお]きく 変[か]わった。
+  Die Stadt hat sich in den letzten dreißig Jahren stark verändert.
+
+  町を去ること二キロ、美しい湖が広がっていた。
+  町[まち]を 去[さ]ること 二[に]キロ、美[うつく]しい 湖[みずうみ]が 広[ひろ]がっていた。
+  Zwei Kilometer von der Stadt entfernt erstreckte sich ein wunderschöner See.
+
+  彼女は夫を去り、新しい人生を歩み始めた。
+  彼女[かのじょ]は 夫[おっと]を 去[さ]り、新[あたら]しい 人生[じんせい]を 歩[あゆ]み 始[はじ]めた。
+  Sie verließ ihren Mann und begann ein neues Leben.
+
+  雑念を去り、瞑想に集中する時間だ。
+  雑念[ざつねん]を 去[さ]り、瞑想[めいそう]に 集中[しゅうちゅう]する 時間[じかん]だ。
+  Es ist Zeit, ablenkende Gedanken zu verbannen und sich auf die Meditation zu konzentrieren.
+
+  汚れを洗い去り、新品同様になった。
+  汚[よご]れを 洗[あら]い 去[さ]り、新品同様[しんぴんどうよう]になった。
+  Der Schmutz wurde weggewaschen und es sah aus wie neu.
+
+  霧が消え去り、美しい景色が現れた。
+  霧[きり]が 消[き]え 去[さ]り、美[うつく]しい 景色[けしき]が 現[あらわ]れた。
+  Der Nebel löste sich auf und eine wunderschöne Landschaft kam zum Vorschein.
+
+  締め切りが過ぎ去り、もう間に合わなかった。
+  締[し]め 切[き]りが 過[す]ぎ 去[さ]り、もう 間[ま]に 合[あ]わなかった。
+  Die Frist war verstrichen und es war zu spät.
+
+  古い家具を捨て去り、部屋が広くなった。
+  古[ふる]い 家具[かぐ]を 捨[す]て 去[さ]り、部屋[へや]が 広[ひろ]くなった。
+  Nachdem wir die alten Möbel weggeworfen hatten, wurde das Zimmer geräumiger.
+
+  鳥たちが飛び去り、静寂が訪れた。
+  鳥[とり]たちが 飛[と]び 去[さ]り、静寂[せいじゃく]が 訪[おとず]れた。
+  Die Vögel flogen davon und es kehrte Stille ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Die Redewendung 「去る者は追わず」(さるものはおわず) bedeutet "Wer gehen will, soll gehen" oder "Reisende soll man nicht aufhalten".</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 去[さ]る 者[もの]は 追[お]わずの 精神[せいしん]で、元[もと]カノを 引[ひ]き 止[と]めなかった。</div>
+    <div class="de spoiler">Er hielt seine Ex-Freundin nicht zurück, nach dem Motto "Wer gehen will, soll gehen".</div>
+  </div>
+  <p>Eine ähnliche Redewendung ist 「去る者は追わず来る者は拒まず」(さるものはおわずくるものはこばまず), was bedeutet "Wer gehen will, soll gehen, wer kommt, sei willkommen".</p>
+  <div class="examples">
+    <div class="jp">私[わたし]たちの 会社[かいしゃ]は「去[さ]る 者[もの]は 追[お]わず 来[く]る 者[もの]は 拒[こば]まず」の 方針[ほうしん]で、従業員[じゅうぎょういん]の 出入[でい]りを 尊重[そんちょう]しています。</div>
+    <div class="de spoiler">Unser Unternehmen respektiert das Kommen und Gehen der Mitarbeiter nach dem Prinzip "Wer gehen will, soll gehen, wer kommt, sei willkommen".</div>
+  </div>

@@ -102,4 +102,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>つつ wird an die Konjunktionalform von Verben angehängt und drückt verschiedene Bedeutungen aus:</p>
+  <ul>
+    <li>Fortdauer einer Handlung</li>
+    <div class="examples">
+      <div class="jp">子供[こども]は 泣[な]きさけん<u>つつ</u>、おばあさんを 捜[さが]している。</div>
+      <div class="de spoiler">Das Kind sucht weinend nach seiner Großmutter.</div>
+    </div>
+    <li>Fortschreiten oder stetige Entwicklung (oft mit ある)</li>
+    <div class="examples">
+      <div class="jp">天候[てんこう]は 急速[きゅうそく]に 崩[くず]れ<u>つつある</u>。</div>
+      <div class="de spoiler">Das Wetter verschlechtert sich zusehends.</div>
+    </div>
+    <li>Wiederholung einer Handlung</li>
+    <div class="examples">
+      <div class="jp">何度[なんど]となく「もっとゆっくり!」と 叱咤[しった]し<u>つつ</u>、 筆記[ひっき]していく。</div>
+      <div class="de spoiler">Immer wieder zur Langsamkeit mahnend, notierte er.</div>
+    </div>
+    <li>Gleichzeitigkeit von Handlungen</li>
+    <div class="examples">
+      <div class="jp">全身[ぜんしん]に 痙攣[けいれん]を 催[もよお]し<u>つつ</u>、 嘔吐[おうと]すること 数回[すうかい]に 及[およ]べり。</div>
+      <div class="de spoiler">Von Krämpfen geschüttelt, erbrach sie sich mehrmals.</div>
+    </div>
+    <li>Ausdruck von Gegensätzlichkeit (ähnlich wie "obwohl")</li>
+    <div class="examples">
+      <div class="jp">政府[せいふ]の 方針[ほうしん]を 批判[ひはん]し<u>つつ</u> 実[じつ]は 支持[しじ]する。</div>
+      <div class="de spoiler">Die Regierungspläne kritisieren, sie dabei aber in Wirklichkeit unterstützen.</div>
+    </div>
+  </ul>
+  <p>つつ kann oft mit "während", "weiter" oder "indem" übersetzt werden, je nach Kontext.</p>
+  </p>

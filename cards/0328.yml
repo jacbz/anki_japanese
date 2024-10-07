@@ -102,4 +102,25 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どの wird verwendet, um nach einer spezifischen Option aus einer Gruppe zu fragen oder sich darauf zu beziehen. Es bedeutet "welcher", "welche" oder "welches".</p>
+  <ul>
+    <li>Es kann vor Substantiven stehen, um eine Auswahl zu treffen oder nach einer bestimmten Option zu fragen:</li>
+    <div class="examples">
+      <div class="jp"><u>どの</u> 指[ゆび]をしゃぶろう。</div>
+      <div class="de spoiler">Welchen Finger soll ich lutschen?</div>
+      <div class="jp"><u>どの</u> 藩[はん]にも、倒幕派[とうばくは]に 心[こころ]をよせる 勢力[せいりょく]ができていた。</div>
+      <div class="de spoiler">In allen Han bildeten sich Kräfte, die mit der Anti-Bakufu-Partei sympathisierten.</div>
+    </div>
+    <li>Es kann sich auch auf eine unbestimmte Gruppe beziehen:</li>
+    <div class="examples">
+      <div class="jp">それからは<u>どの</u> 客[きゃく]にたいしてもそうでした。</div>
+      <div class="de spoiler">Von da an war es so bei jedem Kunden.</div>
+    </div>
+  </ul>
+  <p>In der umgangssprachlichen Wendung <span class="jp"><u>どの</u> 面[つら] 下[さ]げて</span> wird どの verwendet, um Empörung oder Unglauben auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">小作料[こさくりょう]の 一文[いちもん]も 納[おさ]めないで、<u>どの</u> 面[つら] 下[さ]げて 来[き]くさった。</div>
+    <div class="de spoiler">Wie kannst du es wagen, hier aufzutauchen, ohne auch nur einen Pfennig Pacht bezahlt zu haben!</div>
+  </div>
+  </p>

@@ -102,4 +102,62 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>という ist eine vielseitige Phrase mit mehreren wichtigen Funktionen:</p>
+
+  <ol>
+    <li>Bezeichnung oder Benennung:
+      <ul>
+        <li>Wird verwendet, um den Namen von etwas oder jemanden anzugeben.</li>
+        <div class="examples">
+          <div class="jp">ギリ・トラベル<u>という</u>地元[じもと]のエージェント</div>
+          <div class="de spoiler">Eine einheimische Agentur namens "Guili Traveller"</div>
+        </div>
+      </ul>
+    </li>
+
+    <li>Ausdruck großer Zahlen oder Mengen:
+      <div class="examples">
+        <div class="jp">何千[なんぜん]<u>という</u>人間[にんげん]が...</div>
+        <div class="de spoiler">Tausende von Menschen...</div>
+      </div>
+    </li>
+
+    <li>Verallgemeinerung (oft mit もの oder こと):
+      <ul>
+        <li>Drückt eine allgemeine Aussage über eine Kategorie aus.</li>
+        <div class="examples">
+          <div class="jp">男[おとこ]<u>というもの</u>は...</div>
+          <div class="de spoiler">Männer sind so, dass...</div>
+        </div>
+      </ul>
+    </li>
+
+    <li>Apposition (erklärende Hinzufügung):
+      <div class="examples">
+        <div class="jp">自尊心[じそんしん]<u>という</u>貴重[きちょう]なもの</div>
+        <div class="de spoiler">Das Kostbare, was man Selbstachtung nennt</div>
+      </div>
+    </li>
+
+    <li>Verstärkung oder "jeder einzelne" (in der Form A という A):
+      <div class="examples">
+        <div class="jp">今度[こんど]<u>という</u>今度[こんど]</div>
+        <div class="de spoiler">Wirklich diesmal / Gerade jetzt</div>
+      </div>
+    </li>
+
+    <li>Markierung des Inhalts einer Aussage oder eines Gefühls:
+      <div class="examples">
+        <div class="jp">雨[あめ]に 襲[おそ]われるのではないか<u>という</u>不安[ふあん]</div>
+        <div class="de spoiler">Die Befürchtung, dass man vom Regen überrascht werden könnte</div>
+      </div>
+    </li>
+
+    <li>Ausdruck von Ähnlichkeit:
+      <div class="examples">
+        <div class="jp">プロ<u>という</u>レベル</div>
+        <div class="de spoiler">Ein Niveau, das man als professionell bezeichnen würde</div>
+      </div>
+    </li>
+  </ol>

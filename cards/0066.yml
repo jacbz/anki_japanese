@@ -114,4 +114,48 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>まで wird verwendet, um einen Endpunkt oder eine Grenze auszudrücken.</p>
+  <ul>
+    <li>Zeitlich: bis (zu)</li>
+    <div class="examples">
+      <div class="jp">募集[ぼしゅう]受付[うけつけ]期間[きかん]<u>は</u>６月[がつ]３０日[さんじゅうにち]<u>まで</u>。</div>
+      <div class="de spoiler">Bewerbungsfrist bis zum 30. Juni.</div>
+    </div>
+    <li>Räumlich: bis (zu), bis nach</li>
+    <div class="examples">
+      <div class="jp">多摩川[たまがわ]べり<u>まで</u>だって 歩[ある]いたかもしれない。</div>
+      <div class="de spoiler">Wir wären vielleicht bis ans Ufer des Tamagawa gegangen.</div>
+    </div>
+    <li>Ausmaß oder Menge: bis zu, höchstens</li>
+    <div class="examples">
+      <div class="jp">1<u>から</u>12<u>まで</u>の 数[かず]でできるのなら、1<u>から</u>38<u>まで</u>だってできるはずだ！</div>
+      <div class="de spoiler">Wenn das mit den Zahlen von eins bis zwölf funktioniert, dann müsste es doch auch mit eins bis achtunddreißig gehen!</div>
+    </div>
+  </ul>
+  <p>まで kann auch verwendet werden, um ein ungewöhnliches Ausmaß auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">判読[はんどく]不能[ふのう]な<u>まで</u>に 消[け]された、二行[にぎょう]半[はん]ばかりの 削除[さくじょ]あり。</div>
+    <div class="de spoiler">Dann folgen zweieinhalb Zeilen, die bis zur Unleserlichkeit ausgestrichen sind.</div>
+  </div>
+  <p>Es kann auch "sogar" oder "selbst" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">君[きみ]<u>まで</u> 僕[ぼく]のことを 馬鹿[ばか]にするのか。</div>
+    <div class="de spoiler">Selbst du machst dich über mich lustig?</div>
+  </div>
+  <p>In manchen Kontexten kann まで "nur" oder "bloß" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">聞[き]いてみた<u>まで</u>です。</div>
+    <div class="de spoiler">Ich habe nur gefragt.</div>
+  </div>
+  <p>In der Form まで も nach einer Verneinung bedeutet es "selbst wenn ... nicht" oder "zwar ..., aber ...":</p>
+  <div class="examples">
+    <div class="jp">死[し]なない<u>までも</u> 悲惨[ひさん]な 境遇[きょうぐう]に 陥[おちい]ることは 明[あき]らかである。</div>
+    <div class="de spoiler">Und wer nicht stürbe, hätte mit Sicherheit die übelsten Grausamkeiten zu erwarten.</div>
+  </div>
+  <p>In der Form まで も ない bedeutet es "nicht nötig sein" oder "unnötig sein":</p>
+  <div class="examples">
+    <div class="jp">木村[きむら]が 悦[よろこ]んだことは 言[い]う<u>までもない</u>。</div>
+    <div class="de spoiler">Natürlich hatte Kimura sich gefreut.</div>
+  </div>
+  </p>

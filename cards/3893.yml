@@ -2,7 +2,7 @@ Rang: 3893
 Lemma: 己
 Lesung: おのれ
 Tonhöhen: /^^
-Definition: sich selbst (Pronomen der ersten Person)
+Definition: selbst; ich; du
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, pron, interj
@@ -17,9 +17,114 @@ Beispielsätze: |-
   己[おのれ]に 負[ま]けるな。
   Gib deiner Schwäche nicht nach.
 
+  己に勝つことが最大の勝利だ。
+  己[おのれ]に 勝[か]つことが 最大[さいだい]の 勝利[しょうり]だ。
+  Sich selbst zu überwinden ist der größte Sieg.
+
+  己の目で確かめなければ信じられない。
+  己[おのれ]の 目[め]で 確[たし]かめなければ 信[しん]じられない。
+  Ich kann es nicht glauben, ohne es mit eigenen Augen zu sehen.
+
+  時には己を犠牲にすることも必要だ。
+  時[とき]には 己[おのれ]を 犠牲[ぎせい]にすることも 必要[ひつよう]だ。
+  Manchmal ist es notwendig, sich selbst zu opfern.
+
+  自分の行動を己は恥じている。
+  自分[じぶん]の 行動[こうどう]を 己[おのれ]は 恥[は]じている。
+  Ich schäme mich für mein eigenes Verhalten.
+
+  己を以って人を量るのは危険だ。
+  己[おのれ]を 以[もっ]って 人[ひと]を 量[はか]るのは 危険[きけん]だ。
+  Es ist gefährlich, von sich auf andere zu schließen.
+
+  時として己を虚しゅうすることも大切だ。
+  時[とき]として 己[おのれ]を 虚[むな]しゅうすることも 大切[たいせつ]だ。
+  Manchmal ist es wichtig, die eigenen Gefühle zurückzustellen.
+
+  己を知ることは人生の課題だ。
+  己[おのれ]を 知[し]ることは 人生[じんせい]の 課題[かだい]だ。
+  Sich selbst zu kennen ist eine Lebensaufgabe.
+
+  他人のために己を捨てる勇気がある。
+  他人[たにん]のために 己[おのれ]を 捨[す]てる 勇気[ゆうき]がある。
+  Ich habe den Mut, mich selbst für andere aufzugeben.
+
+  ショックで己を失ってしまった。
+  ショックで 己[おのれ]を 失[うしな]ってしまった。
+  Durch den Schock bin ich völlig außer mir geraten.
+
+  己の意見を遠慮なく述べた。
+  己[おのれ]の 意見[いけん]を 遠慮[えんりょ]なく 述[の]べた。
+  Ich habe meine eigene Meinung ohne Zurückhaltung geäußert.
+
+  己を護ることは生きる上で重要だ。
+  己[おのれ]を 護[まも]ることは 生[い]きる 上[うえ]で 重要[じゅうよう]だ。
+  Sich selbst zu schützen ist wichtig, um zu leben.
+
+  己をささえる力を持つことが大切だ。
+  己[おのれ]をささえる 力[ちから]を 持[も]つことが 大切[たいせつ]だ。
+  Es ist wichtig, die Kraft zu haben, sich selbst zu unterstützen.
+
+  「おのれ、何をしている！」と父は怒鳴った。
+  「おのれ、何[なに]をしている！」と 父[ちち]は 怒鳴[どな]った。
+  "Du Mistkerl, was machst du da!", schrie mein Vater.
+
+  己の頭の蠅を追え、という諺がある。
+  己[おのれ]の 頭[あたま]の 蠅[はえ]を 追[お]え、という 諺[ことわざ]がある。
+  Es gibt ein Sprichwort: "Vertreibe die Fliege auf deinem eigenen Kopf."
+
+  己の欲せざるところは人に施すなかれ、と教わった。
+  己[おのれ]の 欲[ほっ]せざるところは 人[ひと]に 施[ほどこ]すなかれ、と 教[おそ]わった。
+  Mir wurde beigebracht: "Was du nicht willst, das man dir tu, das füg auch keinem andern zu."
+
+  己の限界を知ることも大切だ。
+  己[おのれ]の 限界[げんかい]を 知[し]ることも 大切[たいせつ]だ。
+  Es ist auch wichtig, seine eigenen Grenzen zu kennen.
+
+  己の弱さを認めることから強くなれる。
+  己[おのれ]の 弱[よわ]さを 認[みと]めることから 強[つよ]くなれる。
+  Man wird stärker, indem man seine eigenen Schwächen anerkennt.
+
+  己の道を歩むことを決意した。
+  己[おのれ]の 道[みち]を 歩[あゆ]むことを 決意[けつい]した。
+  Ich habe mich entschieden, meinen eigenen Weg zu gehen.
+
+  己の成長のために日々努力している。
+  己[おのれ]の 成長[せいちょう]のために 日々[ひび] 努力[どりょく]している。
+  Ich bemühe mich täglich für meine eigene Entwicklung.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>己 ist ein Wort mit mehreren Bedeutungen, hauptsächlich bezogen auf das Selbst und die erste/zweite Person.</p>
+  <ul>
+    <li>Als Substantiv bedeutet es "das Selbst" oder "man selbst":</li>
+    <div class="examples">
+      <div class="jp">何亮[かりょう]は 己[おのれ]が 意見[いけん]を 具申[ぐしん]していた。</div>
+      <div class="de spoiler">He Liang trug seine eigene Meinung vor.</div>
+      <div class="jp">鴻雁[こうがん]は 己[おのれ]を 護[まも]ることに 努[つと]めている。</div>
+      <div class="de spoiler">Die Wildgänse bemühen sich, sich selbst zu schützen.</div>
+    </div>
+    <li>Als Pronomen kann es bedeuten:</li>
+    <ul>
+      <li>"ich" (formell, altmodisch)</li>
+      <li>"du" (sehr unhöflich, oft abwertend verwendet)</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">「 己[おのれ]、 手向[てむ]いするか！」</div>
+      <div class="de spoiler">"Du wagst es, dich mir zu widersetzen!"</div>
+    </div>
+    <li>Als Ausruf drückt es Verärgerung aus:</li>
+    <div class="examples">
+      <div class="jp">「 己[おのれ]！」</div>
+      <div class="de spoiler">"Verdammt!" / "Zum Teufel!"</div>
+    </div>
+  </ul>
+  <p>Es gibt einige bekannte Redewendungen mit 己:</p>
+  <div class="examples">
+    <div class="jp">己[おのれ]の 頭[あたま]の 蠅[はえ]を 追[お]え</div>
+    <div class="de spoiler">Wörtlich: "Verscheuche die Fliege auf deinem eigenen Kopf" (Bedeutung: Kümmere dich um deine eigenen Angelegenheiten)</div>
+  </div>

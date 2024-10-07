@@ -106,4 +106,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>では ist eine vielseitige Partikelkombination mit mehreren Funktionen:</p>
+  <ul>
+    <li>Als Konjunktion drückt es eine hypothetische Situation oder Schlussfolgerung aus:</li>
+    <div class="examples">
+      <div class="jp">2人[ふたり]のパン屋[や]が6時間[じかん]で444個[こ]のパンを 焼[や]くとします。<u>では</u>、5人[ごにん]のパン屋[や]が88個[こ]のパンを 焼[や]くには、何時間[なんじかん]かかるでしょう？</div>
+      <div class="de spoiler">Wenn zwei Bäcker in sechs Stunden 444 Brote backen, wie lange brauchen dann fünf Bäcker, um 88 Brote zu backen?</div>
+    </div>
+    <li>Als Interjektion wird es verwendet, um:</li>
+    <ul>
+      <li>Einen neuen Gesprächsabschnitt einzuleiten</li>
+      <li>Zu einem neuen Thema überzuleiten</li>
+      <li>Eine Verabschiedung einzuleiten</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">強制[きょうせい]なぞしませんよ。<u>では</u>、ごきげんよう、フージーさん！</div>
+      <div class="de spoiler">Wir zwingen Sie zu nichts. Also dann, auf Wiedersehen, Herr Fuji!</div>
+      <div class="jp"><u>では</u>、出[で]ましょう。</div>
+      <div class="de spoiler">Dann lasst uns gehen.</div>
+    </div>
+    <li>Als Postposition hat es zwei Hauptfunktionen:</li>
+    <ul>
+      <li>Es verstärkt die Ortspartikel で, indem es は hinzufügt</li>
+      <li>Es ist die stimmhafte Form von ては bei Verben, die auf -ぶ, -ぐ, -む oder -ぬ enden</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">教室[きょうしつ]<u>では</u>たばこを 吸[す]わないでください。</div>
+      <div class="de spoiler">Bitte rauchen Sie nicht im Klassenzimmer.</div>
+      <div class="jp">そんなこと<u>では</u>だめです。</div>
+      <div class="de spoiler">So geht das nicht.</div>
+    </div>
+  </ul>
+  </p>

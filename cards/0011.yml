@@ -114,4 +114,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>も ist eine vielseitige Partikel mit mehreren wichtigen Funktionen:</p>
+  <ul>
+    <li>Es drückt "auch" oder "ebenfalls" aus:</li>
+    <div class="examples">
+      <div class="jp">私<u>も</u>行[い]きます。</div>
+      <div class="de spoiler">Ich gehe auch.</div>
+    </div>
+    <li>Es kann "sowohl ... als auch" ausdrücken, wenn es zweimal verwendet wird:</li>
+    <div class="examples">
+      <div class="jp">日本語[にほんご]<u>も</u>英語[えいご]<u>も</u>話[はな]せます。</div>
+      <div class="de spoiler">Ich kann sowohl Japanisch als auch Englisch sprechen.</div>
+    </div>
+    <li>Es kann Betonung ausdrücken, im Sinne von "sogar" oder "selbst":</li>
+    <div class="examples">
+      <div class="jp">大[おお]きな 鼠[ねずみ]<u>も</u>部屋[へや]を 横切[よこぎ]ることがあった。</div>
+      <div class="de spoiler">Sogar große Ratten überquerten manchmal das Zimmer.</div>
+    </div>
+    <li>Mit einer Verneinung kann es "gar nicht" oder "überhaupt nicht" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">思[おも]い出[だ]し<u>も</u>しなかった。</div>
+      <div class="de spoiler">Ich habe mich überhaupt nicht daran erinnert.</div>
+    </div>
+    <li>Nach der て-Form eines Verbs kann es "obwohl" oder "auch wenn" ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">聞[き]こえなくて<u>も</u>、体[からだ]に 伝[つた]わる。</div>
+      <div class="de spoiler">Auch wenn man es nicht hören kann, spürt man es im Körper.</div>
+    </div>
+    <li>Mit Fragewörtern kann es "egal" oder "... auch immer" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">何[なん]<u>も</u>食[た]べたくない。</div>
+      <div class="de spoiler">Ich möchte gar nichts essen.</div>
+      <div class="jp">どんなに 遅[おそ]くて<u>も</u>、 行[い]きます。</div>
+      <div class="de spoiler">Egal wie spät es ist, ich gehe.</div>
+    </div>
+  </ul>
+  <p>も ist sehr nützlich, um Beziehungen zwischen Ideen auszudrücken oder um die Bedeutung einer Aussage zu verstärken. Es ist wichtig, den Kontext zu beachten, um die genaue Bedeutung von も in einem Satz zu verstehen.</p>
+  </p>

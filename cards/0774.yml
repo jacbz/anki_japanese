@@ -102,4 +102,50 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>間 (ま) hat mehrere wichtige Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Räumlicher Abstand oder Zwischenraum</li>
+    <li>Zeitraum oder Zeitspanne</li>
+    <div class="examples">
+      <div class="jp">断[こと]る<u>間</u>もなくダイニングのテーブルに 座[すわ]らされた。</div>
+      <div class="de spoiler">Man führte mich zu Tisch, ohne dass ich Zeit gehabt hätte, abzulehnen.</div>
+    </div>
+    <li>Gelegenheit oder günstiger Moment</li>
+    <li>Pause oder Stille (in Musik oder Theater)</li>
+    <li>Zimmer (oft in Zusammensetzungen)</li>
+    <div class="examples">
+      <div class="jp">居間[いま]</div>
+      <div class="de spoiler">Wohnzimmer</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Ausdrücke mit 間:</p>
+
+  <ul>
+    <li><span class="jp"><u>間</u>がいい</span> (günstige Gelegenheit, gutes Timing)</li>
+    <div class="examples">
+      <div class="jp">なんて<u>間</u>がいいのだろう！</div>
+      <div class="de spoiler">Was für ein unfassbares Glück!</div>
+    </div>
+
+    <li><span class="jp"><u>間</u>が 悪[わる]い</span> (Pech haben, peinliche Situation)</li>
+    <div class="examples">
+      <div class="jp"><u>間</u>が 悪[わる]いことに、ラッシュ 時[じ]だった。</div>
+      <div class="de spoiler">Dummerweise war gerade Berufsverkehr.</div>
+    </div>
+
+    <li><span class="jp"><u>間</u>もない</span> (kurz darauf, bald)</li>
+    <div class="examples">
+      <div class="jp">知[し]り 合[あ]って<u>間</u>もない 人間[にんげん]が、そこまで 親切[しんせつ]にしてくれることが 信[しん]じられなかったのだ。</div>
+      <div class="de spoiler">Sie konnte kaum glauben, dass ein Mensch, den sie gerade erst kennengelernt hatte, so freundlich zu ihr war.</div>
+    </div>
+  </ul>
+
+  <p>Als Suffix wird 間 auch als Zählwort für Zimmer verwendet:</p>
+
+  <div class="examples">
+    <div class="jp">三間[みま]しかない 家[いえ]</div>
+    <div class="de spoiler">Ein kleines dreizimmriges Haus</div>
+  </div>

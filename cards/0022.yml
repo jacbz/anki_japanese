@@ -102,4 +102,59 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>する ist ein sehr vielseitiges Verb mit mehreren Bedeutungen und Verwendungen.</p>
+  <ul>
+    <li>Grundbedeutung: machen, tun</li>
+    <div class="examples">
+      <div class="jp">毎日[まいにち]何[なに]を<u>する</u>の？</div>
+      <div class="de spoiler">Was machst du jeden Tag?</div>
+    </div>
+    <li>Einen Zustand oder eine Veränderung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]を 社長[しゃちょう]に<u>する</u>。</div>
+      <div class="de spoiler">Ihn zum Präsidenten machen.</div>
+    </div>
+    <li>Etwas tragen oder anlegen:</li>
+    <div class="examples">
+      <div class="jp">ネクタイを<u>する</u>。</div>
+      <div class="de spoiler">Eine Krawatte tragen.</div>
+    </div>
+    <li>Eine Entscheidung treffen (mit に oder と):</li>
+    <div class="examples">
+      <div class="jp">コーヒーに<u>する</u>。</div>
+      <div class="de spoiler">Ich entscheide mich für Kaffee.</div>
+    </div>
+    <li>Substantive in Verben umwandeln:</li>
+    <div class="examples">
+      <div class="jp">勉強[べんきょう]<u>する</u>。</div>
+      <div class="de spoiler">Lernen/Studieren.</div>
+    </div>
+    <li>Etwas geschieht oder tritt ein:</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]の 匂[にお]いが<u>した</u>。</div>
+      <div class="de spoiler">Es roch nach Regen.</div>
+    </div>
+    <li>Zeit vergeht:</li>
+    <div class="examples">
+      <div class="jp">一ヶ月[いっかげつ]も<u>すると</u>、慣[な]れてきた。</div>
+      <div class="de spoiler">Nach einem Monat hatte ich mich daran gewöhnt.</div>
+    </div>
+    <li>Im Begriff sein, etwas zu tun (mit ようと):</li>
+    <div class="examples">
+      <div class="jp">行[い]こうと<u>している</u>。</div>
+      <div class="de spoiler">Ich bin dabei zu gehen.</div>
+    </div>
+    <li>Als Hilfswort zur Betonung (mit は, も, etc.):</li>
+    <div class="examples">
+      <div class="jp">笑[わら]いも<u>しない</u>。</div>
+      <div class="de spoiler">Nicht einmal lachen.</div>
+    </div>
+  </ul>
+  <p>する ist unregelmäßig konjugiert:</p>
+  <ul>
+    <li>Verneinung: しない</li>
+    <li>Vergangenheit: した</li>
+    <li>Befehlsform: しろ oder せよ</li>
+  </ul>
+  </p>

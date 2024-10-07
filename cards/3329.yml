@@ -2,8 +2,8 @@ Rang: 3329
 Lemma: 折
 Lesung: おり
 Tonhöhen: /\
-Definition: Gelegenheit
-Alternativschreibweisen: ''
+Definition: Zeit, Gelegenheit; falten
+Alternativschreibweisen: 折り
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
 Register: ''
@@ -15,11 +15,123 @@ Konjugation: ''
 Beispielsätze: |-
   彼には折を見て連絡しよう。
   彼[かれ]には 折[おり]を 見[み]て 連絡[れんらく]しよう。
-  Wir müssen sicherstellen, dass wir diese Gelegenheit nicht verpassen.
+  Ich werde ihn bei passender Gelegenheit kontaktieren.
+
+  折があれば、また遊びに来てください。
+  折[おり]があれば、また 遊[あそ]びに 来[き]てください。
+  Kommen Sie bitte wieder zu Besuch, wenn sich eine Gelegenheit ergibt.
+
+  今は折が悪いので、後でまた電話します。
+  今[いま]は 折[おり]が 悪[わる]いので、後[あと]でまた 電話[でんわ]します。
+  Der Zeitpunkt ist jetzt ungünstig, ich rufe später noch einmal an.
+
+  折も折とて、彼女からプレゼントが届いた。
+  折[おり]も 折[おり]とて、彼女[かのじょ]からプレゼントが 届[とど]いた。
+  Gerade in diesem Moment kam ein Geschenk von ihr an.
+
+  折に触れて、友人の近況を聞いている。
+  折[おり]に 触[ふ]れて、友人[ゆうじん]の 近況[きんきょう]を 聞[き]いている。
+  Ich höre von Zeit zu Zeit von den neuesten Entwicklungen meines Freundes.
+
+  折を見て上司に相談しようと思っている。
+  折[おり]を 見[み]て 上司[じょうし]に 相談[そうだん]しようと 思[おも]っている。
+  Ich denke darüber nach, bei einer günstigen Gelegenheit meinen Vorgesetzten um Rat zu fragen.
+
+  この折を利用して、新しいスキルを身につけよう。
+  この 折[おり]を 利用[りよう]して、新[あた]しいスキルを 身[み]につけよう。
+  Lasst uns diese Gelegenheit nutzen, um neue Fähigkeiten zu erwerben.
+
+  海外旅行の折には、必ず現地の料理を試すようにしています。
+  海外旅行[かいがいりょこう]の 折[おり]には、必[かなら]ず 現地[げんち]の 料理[りょうり]を 試[ため]すようにしています。
+  Wenn ich ins Ausland reise, probiere ich immer die lokalen Gerichte.
+
+  またとない折だと思い、思い切って告白しました。
+  またとない 折[おり]だと 思[おも]い、思[おも]い 切[き]って 告白[こくはく]しました。
+  Ich dachte, es sei eine einmalige Gelegenheit, und gestand mutig meine Gefühle.
+
+  その折に、重要な書類を渡すのを忘れてしまった。
+  その 折[おり]に、重要[じゅうよう]な 書類[しょるい]を 渡[わた]すのを 忘[わす]れてしまった。
+  Bei dieser Gelegenheit vergaß ich, die wichtigen Dokumente zu übergeben.
+
+  折悪しく、彼が出張中で会えませんでした。
+  折悪[おりあ]しく、彼[かれ]が 出張中[しゅっちょうちゅう]で 会[あ]えませんでした。
+  Unglücklicherweise konnte ich ihn nicht treffen, da er auf Geschäftsreise war.
+
+  折よく、ちょうど半額セールをやっていました。
+  折[おり]よく、ちょうど 半額[はんがく]セールをやっていました。
+  Glücklicherweise gab es gerade einen 50%-Ausverkauf.
+
+  この折り紙を三つ折りにして封筒に入れてください。
+  この 折[お]り 紙[がみ]を 三[みっ]つ 折[お]りにして 封筒[ふうとう]に 入[い]れてください。
+  Bitte falten Sie dieses Origami-Papier dreimal und stecken Sie es in den Umschlag.
+
+  新聞の折り込みチラシを見て、セール情報を確認した。
+  新聞[しんぶん]の 折[お]り 込[こ]みチラシを 見[み]て、セール 情報[じょうほう]を 確認[かくにん]した。
+  Ich habe die Beilage in der Zeitung gesehen und die Verkaufsinformationen überprüft.
+
+  寿司2折を注文しましたが、多すぎたかもしれません。
+  寿司[すし]2折[おり]を 注文[ちゅうもん]しましたが、多[おお]すぎたかもしれません。
+  Ich habe zwei Schachteln Sushi bestellt, aber das war vielleicht zu viel.
+
+  彼女は器用に紙を二つ折りにして、簡単な封筒を作った。
+  彼女[かのじょ]は 器用[きよう]に 紙[かみ]を 二[ふた]つ 折[お]りにして、簡単[かんたん]な 封筒[ふうとう]を 作[つく]った。
+  Geschickt faltete sie das Papier einmal und machte daraus einen einfachen Umschlag.
+
+  十二折版の本は携帯に便利ですが、文字が小さくて読みにくいです。
+  十二折版[じゅうにおりばん]の 本[ほん]は 携帯[けいたい]に 便利[べんり]ですが、文字[もじ]が 小[ちい]さくて 読[よ]みにくいです。
+  Bücher im Duodezformat sind praktisch zum Mitnehmen, aber die Schrift ist klein und schwer zu lesen.
+
+  店員さんが丁寧に商品を折り畳んで包装してくれました。
+  店員[てんいん]さんが 丁寧[ていねい]に 商品[しょうひん]を 折[お]り 畳[たた]んで 包装[ほうそう]してくれました。
+  Der Verkäufer faltete die Ware sorgfältig zusammen und verpackte sie.
+
+  折り紙で鶴を折るのは日本の伝統的な遊びの一つです。
+  折[お]り 紙[がみ]で 鶴[つる]を 折[お]るのは 日本[にほん]の 伝統的[でんとうてき]な 遊[あそ]びの 一[ひと]つです。
+  Das Falten von Kranichen aus Origami-Papier ist eines der traditionellen japanischen Spiele.
+
+  彼女は器用に紙を折って、美しい花の形を作り出した。
+  彼女[かのじょ]は 器用[きよう]に 紙[かみ]を 折[お]って、美[うつく]しい 花[はな]の 形[かたち]を 作[つく]り 出[だ]した。
+  Geschickt faltete sie das Papier und formte daraus eine wunderschöne Blume.
+
+  正月には折り紙で鶴を折って飾ることがあります。
+  正月[しょうがつ]には 折[お]り 紙[がみ]で 鶴[つる]を 折[お]って 飾[かざ]ることがあります。
+  An Neujahr falten wir manchmal Kraniche aus Origami-Papier zur Dekoration.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>折り (ori) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Grundbedeutung: Falten, Falz, gefalteter Gegenstand</li>
+    <div class="examples">
+      <div class="jp">紙[かみ]を 折[お]る</div>
+      <div class="de spoiler">Papier falten</div>
+    </div>
+    <li>Zeit, Gelegenheit, (richtiger) Moment</li>
+    <div class="examples">
+      <div class="jp">この 折[おり]を 逃[のが]さないでください。</div>
+      <div class="de spoiler">Verpassen Sie diese Gelegenheit nicht.</div>
+      <div class="jp">折[おり]も 折[おり]、母[はは]から 便[たよ]りがあった。</div>
+      <div class="de spoiler">Gerade zu dieser Zeit kam ein Brief von meiner Mutter.</div>
+    </div>
+    <li>Als Suffix nach japanischen Zahlwörtern:</li>
+    <ul>
+      <li>Zählwort für gefaltete Druckbögen</li>
+      <li>Zählwort für dünnwandige Schachteln oder darin verpacktes Essen</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">寿司[すし]２<u>折</u></div>
+      <div class="de spoiler">Zwei Schachteln Sushi</div>
+    </div>
+    <li>In Verbindung mit Zahlwörtern: Bedeutung "in X Lagen falten"</li>
+    <div class="examples">
+      <div class="jp">二[ふた]つ<u>折</u>り</div>
+      <div class="de spoiler">In zwei Teile falten</div>
+      <div class="jp">三[み]つ<u>折</u>り</div>
+      <div class="de spoiler">In drei Teile falten</div>
+    </div>
+  </ul>
+  </p>

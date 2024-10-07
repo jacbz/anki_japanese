@@ -102,4 +102,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>なる ist ein sehr wichtiges Verb mit verschiedenen Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Grundbedeutung: "werden", "sich verändern"</li>
+    <div class="examples">
+      <div class="jp">日差[ひざ]し<u>は</u>ますます 鮮[あざ]やか<u>になり</u>、気温[きおん]も 上[あ]がってきた。</div>
+      <div class="de spoiler">Das Sonnenlicht wurde immer greller, und die Temperatur stieg.</div>
+    </div>
+    <li>Etwas beginnen oder eintreten:</li>
+    <div class="examples">
+      <div class="jp">夜[よる]が 更[ふ]けてから、停電[ていでん]<u>になった</u>。</div>
+      <div class="de spoiler">Später in der Nacht fiel der Strom aus.</div>
+    </div>
+    <li>Mit ようになる: eine neue Gewohnheit oder Fähigkeit entwickeln</li>
+    <div class="examples">
+      <div class="jp">いつからたばこを 吸[す]う<u>ようになった</u>の？</div>
+      <div class="de spoiler">Seit wann rauchen Sie?</div>
+    </div>
+    <li>Mit から oder より: "bestehen aus"</li>
+    <div class="examples">
+      <div class="jp">ドラム、ギター、ベース、キーボード<u>からなる</u>サウンド</div>
+      <div class="de spoiler">Ein Sound, der aus Schlagzeug, Gitarre, Bass und Keyboard besteht</div>
+    </div>
+    <li>Einen Betrag ergeben</li>
+    <div class="examples">
+      <div class="jp">合計金額[ごうけいきんがく]<u>は</u>３８１０円[えん]<u>になる</u>。</div>
+      <div class="de spoiler">Das ergibt in der Summe 3810 Yen.</div>
+    </div>
+    <li>In höflicher Sprache (お/ご〜になる)</li>
+    <div class="examples">
+      <div class="jp">何時[なんじ]<u>お</u>立[た]ち<u>になります</u>か。</div>
+      <div class="de spoiler">Wann gedenken Sie abzureisen?</div>
+    </div>
+  </ul>
+  <p>Wichtige Ausdrücke:</p>
+  <ul>
+    <li><span class="jp"><u>なければ</u>ならない</span>: müssen, sollen</li>
+    <li><span class="jp"><u>なる</u>ようになる</span>: dazu kommen, dass...</li>
+    <li><span class="jp">どう<u>なる</u>(か)</span>: was wird (daraus)?</li>
+  </ul>
+  </p>

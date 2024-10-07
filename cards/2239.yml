@@ -2,7 +2,7 @@ Rang: 2239
 Lemma: 皆様
 Lesung: みなさま
 Tonhöhen: /\..
-Definition: alle
+Definition: Sie alle (höflich)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, pron
@@ -14,12 +14,108 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   皆様、お早うございます。
-  皆様[みなさま]、お 早[はよ]うございます。
-  Guten Morgen, alle zusammen.
+  みなさま、お 早[はや]うございます。
+  Guten Morgen allerseits.
+
+  皆様にお知らせがございます。
+  みなさまにお 知[し]らせがございます。
+  Ich habe eine Mitteilung für Sie alle.
+
+  皆様のご協力に感謝いたします。
+  みなさまのご 協力[きょうりょく]に 感謝[かんしゃ]いたします。
+  Ich danke Ihnen allen für Ihre Unterstützung.
+
+  皆様、お待たせいたしました。
+  みなさま、お 待[ま]たせいたしました。
+  Entschuldigen Sie bitte, dass ich Sie alle habe warten lassen.
+
+  皆様のご健康とご多幸を祈念いたします。
+  みなさまのご 健康[けんこう]とご 多幸[たこう]を 祈念[きねん]いたします。
+  Ich wünsche Ihnen allen Gesundheit und Glück.
+
+  皆様、ご清聴ありがとうございました。
+  みなさま、ご 清聴[せいちょう]ありがとうございました。
+  Vielen Dank für Ihre Aufmerksamkeit, meine Damen und Herren.
+
+  皆様のご意見を伺いたいと思います。
+  みなさまのご 意見[いけん]を 伺[うかが]いたいと 思[おも]います。
+  Ich möchte gerne Ihre Meinungen hören.
+
+  皆様、どうぞお気をつけてお帰りください。
+  みなさま、どうぞお 気[き]をつけてお 帰[かえ]りください。
+  Kommen Sie alle gut nach Hause.
+
+  皆様のご来場を心よりお待ちしております。
+  みなさまのご 来場[らいじょう]を 心[こころ]よりお 待[ま]ちしております。
+  Wir freuen uns sehr auf Ihr aller Kommen.
+
+  皆様、素晴らしい一年になりますように。
+  みなさま、素晴[すば]らしい 一年[いちねん]になりますように。
+  Ich wünsche Ihnen allen ein wundervolles Jahr.
+
+  皆様のご理解とご協力をお願い申し上げます。
+  みなさまのご 理解[りかい]とご 協力[きょうりょく]をお 願[ねが]い 申[もう]し 上[あ]げます。
+  Ich bitte Sie alle um Ihr Verständnis und Ihre Kooperation.
+
+  皆様、いかがお過ごしでしょうか。
+  みなさま、いかがお 過[す]ごしでしょうか。
+  Wie geht es Ihnen allen?
+
+  皆様のご活躍を心よりお祈りしております。
+  みなさまのご 活躍[かつやく]を 心[こころ]よりお 祈[いの]りしております。
+  Ich wünsche Ihnen allen von Herzen viel Erfolg.
+
+  皆様、長らくお待たせして申し訳ございません。
+  みなさま、 長[なが]らくお 待[ま]たせして 申[もう]し 訳[わけ]ございません。
+  Ich entschuldige mich aufrichtig, dass ich Sie alle so lange habe warten lassen.
+
+  皆様のご参加を心からお待ちしております。
+  みなさまのご 参加[さんか]を 心[こころ]からお 待[ま]ちしております。
+  Wir freuen uns sehr auf Ihre Teilnahme.
+
+  皆様、本日はご来場いただき、誠にありがとうございます。
+  みなさま、 本日[ほんじつ]はご 来場[らいじょう]いただき、 誠[まこと]にありがとうございます。
+  Meine Damen und Herren, vielen Dank, dass Sie heute gekommen sind.
+
+  皆様のますますのご発展を祈念いたします。
+  みなさまのますますのご 発展[はってん]を 祈念[きねん]いたします。
+  Ich wünsche Ihnen allen weiterhin viel Erfolg und Wachstum.
+
+  皆様、お待たせしました。ただいまより会議を始めます。
+  みなさま、お 待[ま]たせしました。ただいまより 会議[かいぎ]を 始[はじ]めます。
+  Entschuldigen Sie die Verzögerung. Wir beginnen jetzt mit der Sitzung.
+
+  皆様のご意見を参考にさせていただきます。
+  みなさまのご 意見[いけん]を 参考[さんこう]にさせていただきます。
+  Wir werden Ihre Meinungen bei unseren Überlegungen berücksichtigen.
+
+  皆様、この場を借りて、心からお礼申し上げます。
+  みなさま、この 場[ば]を 借[か]りて、 心[こころ]からお 礼[れい] 申[もう]し 上[あ]げます。
+  Bei dieser Gelegenheit möchte ich Ihnen allen meinen herzlichen Dank aussprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>皆様[みなさま] ist eine höfliche Form der Anrede, die „alle" oder „Sie alle" bedeutet.</p>
+  <ul>
+    <li>Es ist höflicher als die umgangssprachlichere Form 皆[みな]さん.</li>
+    <li>Es wird oft in formellen Situationen oder Ansprachen verwendet.</li>
+  </ul>
+  <p>Verwendung:</p>
+  <ul>
+    <li>Als höfliche Anrede an eine Gruppe von Menschen:</li>
+    <div class="examples">
+      <div class="jp"><u>皆様[みなさま]</u>、ようこそいらっしゃいました。</div>
+      <div class="de spoiler">Sehr geehrte Damen und Herren, willkommen!</div>
+    </div>
+    <li>Um sich bei einer Gruppe von Menschen zu bedanken:</li>
+    <div class="examples">
+      <div class="jp">この 場[ば]を 借[か]りて、<u>皆様[みなさま]</u>に 心[こころ]からお 礼[れい] 申[もう]し 上[あ]げます。</div>
+      <div class="de spoiler">Bei dieser Gelegenheit möchte ich Ihnen allen meinen herzlichen Dank aussprechen.</div>
+    </div>
+  </ul>
+  <p>Beachten Sie, dass <u>皆様[みなさま]</u> sowohl als Nomen als auch als Pronomen verwendet werden kann.</p>
+  </p>

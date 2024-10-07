@@ -2,7 +2,7 @@ Rang: 2899
 Lemma: にしろ
 Lesung: ''
 Tonhöhen: /^^
-Definition: selbst wenn
+Definition: wie auch immer; sei es ...; egal ob
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -14,12 +14,103 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   故意じゃないしにしろ、罪は罪だ。
-  故意[こい]じゃないしにしろ、 罪[つみ]は 罪[つみ]だ。
-  Ein Verbrechen ist ein Verbrechen, selbst wenn man es unbeabsichtigt begangen hat.
+  故意[こい]じゃないしにしろ、罪[つみ]は 罪[つみ]だ。
+  Ob beabsichtigt oder nicht, ein Verbrechen bleibt ein Verbrechen.
+
+  本当にそうだったにしろ、証拠がないと信じられないよ。
+  本当[ほんとう]にそうだったにしろ、証拠[しょうこ]がないと 信[しん]じられないよ。
+  Selbst wenn es wirklich so war, ohne Beweise kann ich es nicht glauben.
+
+  本当にしろ嘘にしろ、彼の話は面白い。
+  本当[ほんとう]にしろ 嘘[うそ]にしろ、彼[かれ]の 話[はなし]は 面白[おもしろ]い。
+  Ob wahr oder gelogen, seine Geschichten sind interessant.
+
+  この仕事は楽にしろ難しいにしろ、最善を尽くすべきだ。
+  この 仕事[しごと]は 楽[らく]にしろ 難[むずか]しいにしろ、最善[さいぜん]を 尽[つ]くすべきだ。
+  Ob diese Arbeit einfach oder schwierig ist, wir sollten unser Bestes geben.
+
+  雨にしろ晴れにしろ、私は散歩に行きます。
+  雨[あめ]にしろ 晴[は]れにしろ、私[わたし]は 散歩[さんぽ]に 行[い]きます。
+  Ob es regnet oder die Sonne scheint, ich gehe spazieren.
+
+  成功にしろ失敗にしろ、経験から学ぶことが大切です。
+  成功[せいこう]にしろ 失敗[しっぱい]にしろ、経験[けいけん]から 学[まな]ぶことが 大切[たいせつ]です。
+  Ob Erfolg oder Misserfolg, es ist wichtig, aus Erfahrungen zu lernen.
+
+  彼女の態度は好きにしろ嫌いにしろ、尊重すべきだ。
+  彼女[かのじょ]の 態度[たいど]は 好[す]きにしろ 嫌[きら]いにしろ、尊重[そんちょう]すべきだ。
+  Ob man ihre Einstellung mag oder nicht, man sollte sie respektieren.
+
+  学生にしろ社会人にしろ、時間管理は重要なスキルだ。
+  学生[がくせい]にしろ 社会人[しゃかいじん]にしろ、時間管理[じかんかんり]は 重要[じゅうよう]なスキルだ。
+  Ob Student oder Berufstätiger, Zeitmanagement ist eine wichtige Fähigkeit.
+
+  彼の意見には賛成にしろ反対にしろ、尊重する必要がある。
+  彼[かれ]の 意見[いけん]には 賛成[さんせい]にしろ 反対[はんたい]にしろ、尊重[そんちょう]する 必要[ひつよう]がある。
+  Ob man seiner Meinung zustimmt oder nicht, man muss sie respektieren.
+
+  朝にしろ夜にしろ、コーヒーを飲むのが好きだ。
+  朝[あさ]にしろ 夜[よる]にしろ、コーヒーを 飲[の]むのが 好[す]きだ。
+  Ob morgens oder abends, ich trinke gerne Kaffee.
+
+  上司にしろ部下にしろ、お互いを尊重することが大切だ。
+  上司[じょうし]にしろ 部下[ぶか]にしろ、お 互[たが]いを 尊重[そんちょう]することが 大切[たいせつ]だ。
+  Ob Vorgesetzter oder Untergebener, es ist wichtig, sich gegenseitig zu respektieren.
+
+  男にしろ女にしろ、平等に扱われるべきだ。
+  男[おとこ]にしろ 女[おんな]にしろ、平等[びょうどう]に 扱[あつか]われるべきだ。
+  Ob Mann oder Frau, alle sollten gleich behandelt werden.
+
+  冗談にしろ本気にしろ、そんなことを言うべきではない。
+  冗談[じょうだん]にしろ 本気[ほんき]にしろ、そんなことを 言[い]うべきではない。
+  Ob als Scherz oder ernst gemeint, so etwas sollte man nicht sagen.
+
+  日本語にしろ英語にしろ、言語を学ぶのは楽しい。
+  日本語[にほんご]にしろ 英語[えいご]にしろ、言語[げんご]を 学[まな]ぶのは 楽[たの]しい。
+  Ob Japanisch oder Englisch, es macht Spaß, Sprachen zu lernen.
+
+  子供にしろ大人にしろ、ルールは守らなければならない。
+  子供[こども]にしろ 大人[おとな]にしろ、ルールは 守[まも]らなければならない。
+  Ob Kind oder Erwachsener, Regeln müssen eingehalten werden.
+
+  現金にしろクレジットカードにしろ、支払い方法は選べます。
+  現金[げんきん]にしろクレジットカードにしろ、支払[しはら]い 方法[ほうほう]は 選[えら]べます。
+  Ob Bargeld oder Kreditkarte, Sie können die Zahlungsmethode wählen.
+
+  田舎にしろ都会にしろ、それぞれの良さがある。
+  田舎[いなか]にしろ 都会[とかい]にしろ、それぞれの 良[よ]さがある。
+  Ob auf dem Land oder in der Stadt, beides hat seine Vorzüge.
+
+  小説にしろ映画にしろ、ストーリーが面白ければ楽しめる。
+  小説[しょうせつ]にしろ 映画[えいが]にしろ、ストーリーが 面白[おもしろ]ければ 楽[たの]しめる。
+  Ob Roman oder Film, wenn die Geschichte interessant ist, kann man es genießen.
+
+  それに、吉報にしろ、凶報にしろ、本当に急を要する情報なら、とりあえず電話という便利な、文明の利器だってあることだし。
+  それに、吉報[きっぽう]にしろ、凶報[きょうほう]にしろ、本当[ほんとう]に 急[きゅう]を 要[よう]する 情報[じょうほう]なら、とりあえず 電話[でんわ]という 便利[べんり]な、文明[ぶんめい]の 利器[りき]だってあることだし。
+  Außerdem gibt es, wenn wirklich dringende Nachrichten zu übermitteln sind, seien es nun gute oder schlechte, immer noch jenes bequeme Zivilisationsmaschinchen namens Telefon.
+
+  人間は健康にしろ病気にしろ、どっちにしてももろいものですね。
+  人間[にんげん]は 健康[けんこう]にしろ 病気[びょうき]にしろ、どっちにしてももろいものですね。
+  Aber der Mensch ist eben, mag er krank oder gesund sein, ein zerbrechliches Geschöpf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>にしろ wird verwendet, um eine Konzession oder einen Gegensatz auszudrücken. Es bedeutet "sei es...", "egal ob..." oder "auch wenn...".</p>
+  <ul>
+    <li>Es wird oft in Paaren verwendet, um zwei verschiedene Möglichkeiten oder Situationen zu kontrastieren.</li>
+    <div class="examples">
+      <div class="jp">吉報[きっぽう]<u>にしろ</u>、凶報[きょうほう]<u>にしろ</u>、急[きゅう]を 要[よう]する 情報[じょうほう]なら 電話[でんわ]を 使[つか]う。</div>
+      <div class="de spoiler">Ob es sich um gute oder schlechte Nachrichten handelt, wenn es dringend ist, benutzt man das Telefon.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Situation als irrelevant für das Hauptargument darzustellen.</li>
+    <div class="examples">
+      <div class="jp">健康[けんこう]<u>にしろ</u> 病気[びょうき]<u>にしろ</u>、人間[にんげん]はもろいものです。</div>
+      <div class="de spoiler">Ob gesund oder krank, der Mensch ist ein zerbrechliches Wesen.</div>
+    </div>
+  </ul>
+  <p>にしろ ist eine Verbindung aus der Partikel に und der Imperativform von する (tun). Es hat die gleiche Bedeutung wie にせよ oder にしても.</p>
+  </p>

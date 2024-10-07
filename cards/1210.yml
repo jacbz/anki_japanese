@@ -98,4 +98,32 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>何[なん]とか hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Als Substantiv: Soundso, Dingsda (wenn man sich an einen Namen nicht erinnern kann)</li>
+    <div class="examples">
+      <div class="jp"><u>何[なん]とか</u>いう 西洋[せいよう]の 学者[がくしゃ]は、 悪法[あくほう]といえども 法[ほう]は 法[ほう]や、というて...</div>
+      <div class="de spoiler">Irgendein westlicher Gelehrter, dessen Namen ich vergessen habe, sagte, dass ein Gesetz ein Gesetz bleibt, auch wenn es ein schlechtes ist...</div>
+    </div>
+    <li>Als Adverb: irgendwie, auf die eine oder andere Art, knapp</li>
+    <div class="examples">
+      <div class="jp">でも 大体[だいたい]の 女性[じょせい]は、そこで、<u>何[なん]とか</u>やせなくちゃと 頑張[がんば]ってしまうんですね。</div>
+      <div class="de spoiler">Aber die meisten Frauen versuchen dann doch, irgendwie abzunehmen.</div>
+      <div class="jp">天候[てんこう]は<u>何[なん]とか</u> 持[も]ちこたえていた。</div>
+      <div class="de spoiler">Das Wetter schien sich irgendwie zu halten.</div>
+    </div>
+  </ol>
+  <p>Als Verb: 何[なん]とかする bedeutet "etwas unternehmen" oder "irgendwie hinkriegen"</p>
+  <div class="examples">
+    <div class="jp">「<u>何[なん]とか</u>しなくちゃいかん。」</div>
+    <div class="de spoiler">„Wir müssen etwas unternehmen."</div>
+  </div>
+  <p>Die Phrase 何[なん]とかして bedeutet "auf irgendeine Weise, irgendwie":</p>
+  <div class="examples">
+    <div class="jp"><u>何[なん]とかして</u>この 結婚[けっこん]を 妨害[ぼうがい]する 工作[こうさく]が 残[のこ]っているだけである。</div>
+    <div class="de spoiler">Ich muss nur noch einen Weg finden, um diese Heirat irgendwie zu verhindern.</div>
+    <div class="jp"><u>何[なん]とかして</u> 資金[しきん]を 工面[くめん]する 必要[ひつよう]があった。</div>
+    <div class="de spoiler">Irgendwie musste ich an Geld kommen.</div>
+  </div>
+  </p>

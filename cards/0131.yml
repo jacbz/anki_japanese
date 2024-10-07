@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Die Partikel ても wird verwendet, um Konzessivität (Einräumung) auszudrücken.</p>
+  <ul>
+    <li>Sie bedeutet "auch wenn", "selbst wenn", "obwohl" oder "trotz".</li>
+    <li>Sie wird an die て-Form des Verbs angehängt. Bei な-Adjektiven und Nomen wird でも verwendet.</li>
+    <div class="examples">
+      <div class="jp">いくら 考[かんが]え<u>ても</u>、答[こた]えが 分[わ]からない。</div>
+      <div class="de spoiler">Egal wie sehr ich nachdenke, ich verstehe die Antwort nicht.</div>
+      <div class="jp">雨[あめ]が 降[ふ]っ<u>ても</u>、行[い]きます。</div>
+      <div class="de spoiler">Auch wenn es regnet, werde ich gehen.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Situation zu beschreiben, die trotz wiederholter Versuche nicht zu dem erwarteten Ergebnis führt:</li>
+    <div class="examples">
+      <div class="jp">十回[じゅうかい]以上[いじょう] 鳴[な]らし<u>ても</u>、英里子[えりこ]は 電話[でんわ]に 出[で]なかった。</div>
+      <div class="de spoiler">Er ließ es mehr als zehnmal klingeln, aber Eriko nahm nicht ab.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Erlaubnis oder Zustimmung auszudrücken, oft in der Form ⋯てもいい:</li>
+    <div class="examples">
+      <div class="jp">場合[ばあい]によっては、ぶつけてやっ<u>てもいい</u>。</div>
+      <div class="de spoiler">Wenn nötig, kannst du sie ruhig rammen.</div>
+    </div>
+  </ul>
+  <p>ても kann auch in idiomatischen Ausdrücken verwendet werden, um "egal wie" oder "wie sehr auch immer" auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">どれだけ 使[つか]っ<u>ても</u> 札束[さつたば]はさっぱり 減[へ]ったようには 見[み]えなかった。</div>
+    <div class="de spoiler">Wie viele Scheine ich auch ausgab, das Geldbündel schien kaum kleiner zu werden.</div>
+  </div>
+  </p>

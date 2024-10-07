@@ -2,7 +2,7 @@ Rang: 3512
 Lemma: ねえ
 Lesung: ''
 Tonhöhen: \.
-Definition: hey
+Definition: hey; sag mal
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: postp, interj
@@ -14,8 +14,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ねえ、聞いてよ。
-  ねえ、 聞[き]いてよ。
-  Hey, hör mal zu!
+  ねえ、聞[き]いてよ。
+  Hey, hör mal zu.
+
+  いいねえ、この景色。
+  いいねえ、この 景色[けしき]。
+  Wow, diese Aussicht ist wirklich schön.
+
+  ねえ、私の話を真剣に聞いてくれる？
+  ねえ、私[わたし]の 話[はなし]を 真剣[しんけん]に 聞[き]いてくれる？
+  Hör mal, kannst du mir bitte ernsthaft zuhören?
+
+  煙草屋の女の子が「あらあ、デイトいいわねえ」と声をかけた。
+  たばこやの 女[おんな]の 子[こ]が「あらあ、デイトいいわねえ」と 声[こえ]をかけた。
+  Das Mädchen vom Tabakladen rief: "Oh, wie schön, Sie haben ein Date!"
+
+  半年ねえ、そう言えば、あれはまだ暑い夏のさかりでしたっけ。
+  半年[はんとし]ねえ、そう 言[い]えば、あれはまだ 暑[あつ]い 夏[なつ]のさかりでしたっけ。
+  Ein halbes Jahr, nicht wahr? Wenn ich mich recht erinnere, war das noch mitten im Hochsommer.
+
+  ねえ、かえるさん。私は平凡な人間です。
+  ねえ、かえるさん。私[わたし]は 平凡[へいぼん]な 人間[にんげん]です。
+  Wissen Sie, Herr Frosch, ich bin ein gewöhnlicher Mensch.
+
+  ねえ、それとべつにこのマカロニの魚ソースあえというのをとって半分こしない？
+  ねえ、それとべつにこのマカロニの 魚[さかな]ソースあえというのをとって 半分[はんぶん]こしない？
+  Du, wie wär's, wenn ich noch die Maccaroni mit Fischsauce bestelle und wir uns die teilen?
+
+  ねえ、あたし直接触るのやだよ。手袋ないのかい。
+  ねえ、あたし 直接[ちょくせつ] 触[さわ]るのやだよ。手袋[てぶくろ]ないのかい。
+  Hör mal, ich will das nicht mit bloßen Händen anfassen. Hast du keine Handschuhe?
+
+  ねえ、明日の予定を教えてくれる？
+  ねえ、明日[あした]の 予定[よてい]を 教[おし]えてくれる？
+  Sag mal, kannst du mir deinen Plan für morgen mitteilen?
+
+  ねえ、この映画面白かったよね。
+  ねえ、この 映画[えいが] 面白[おもしろ]かったよね。
+  Mensch, der Film war echt interessant, oder?
+
+  ねえ、ちょっと待って。忘れ物があるかもしれない。
+  ねえ、ちょっと 待[ま]って。忘[わす]れ 物[もの]があるかもしれない。
+  Warte mal kurz. Ich habe vielleicht etwas vergessen.
+
+  ねえ、このドレス似合うと思う？
+  ねえ、このドレス 似合[にあ]うと 思[おも]う？
+  Hey, denkst du, dieses Kleid steht mir?
+
+  ねえ、もう寝る時間じゃない？
+  ねえ、もう 寝[ね]る 時間[じかん]じゃない？
+  Du, ist es nicht schon Zeit, ins Bett zu gehen?
+
+  ねえ、この問題の解き方を教えてくれない？
+  ねえ、この 問題[もんだい]の 解[と]き 方[かた]を 教[おし]えてくれない？
+  Hey, kannst du mir erklären, wie man diese Aufgabe löst?
+
+  ねえ、今度の休みにどこか行きたいところある？
+  ねえ、今度[こんど]の 休[やす]みにどこか 行[い]きたいところある？
+  Du, gibt es irgendwo, wo du beim nächsten freien Tag hingehen möchtest?
+
+  ねえ、私の髪型変えたの気づいた？
+  ねえ、私[わたし]の 髪型[かみがた] 変[か]えたの 気[き]づいた？
+  Hey, hast du bemerkt, dass ich meine Frisur geändert habe?
+
+  ねえ、この料理の味はどう？
+  ねえ、この 料理[りょうり]の 味[あじ]はどう？
+  Sag mal, wie schmeckt dir dieses Gericht?
+
+  ねえ、今度の週末一緒に買い物に行かない？
+  ねえ、今度[こんど]の 週末[しゅうまつ] 一緒[いっしょ]に 買[か]い 物[もの]に 行[い]かない？
+  Du, wollen wir nicht am nächsten Wochenende zusammen einkaufen gehen?
+
+  ねえ、この本読んだことある？とてもいいよ。
+  ねえ、この 本[ほん] 読[よ]んだことある？とてもいいよ。
+  Hey, hast du dieses Buch schon mal gelesen? Es ist wirklich gut.
+
+  ねえ、最近連絡してなかったけど元気？
+  ねえ、最近[さいきん] 連絡[れんらく]してなかったけど 元気[げんき]？
+  Du, wir haben uns in letzter Zeit nicht gemeldet. Wie geht's dir?
+
+  ねえ、この仕事どう思う？やってみる価値はある？
+  ねえ、この 仕事[しごと]どう 思[おも]う？やってみる 価値[かち]はある？
+  Hör mal, was denkst du über diesen Job? Lohnt es sich, ihn auszuprobieren?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

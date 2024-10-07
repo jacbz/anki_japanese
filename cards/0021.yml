@@ -106,4 +106,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">あの</span> ist ein Demonstrativpronomen mit zwei Hauptverwendungen:</p>
+
+  <ul>
+    <li>Es bezeichnet Personen oder Dinge, die sowohl vom Sprecher als auch vom Hörer entfernt sind.</li>
+    <div class="examples">
+      <div class="jp"><u>あの</u> 建物[たてもの]って 何[なに]？</div>
+      <div class="de spoiler">Was ist das da für ein Gebäude?</div>
+    </div>
+
+    <li>Es bezieht sich auf Personen, Dinge oder Situationen, die beiden Gesprächspartnern bekannt sind oder bereits erwähnt wurden.</li>
+    <div class="examples">
+      <div class="jp"><u>あの</u> 人[ひと]には、いろいろとチャンスもあったんだし⋯⋯</div>
+      <div class="de spoiler">Ihm standen doch so viele Möglichkeiten offen!</div>
+      <div class="jp"><u>あの</u>ことは 謝[あやま]ります。</div>
+      <div class="de spoiler">Ich entschuldige mich für jene Sache.</div>
+    </div>
+  </ul>
+
+  <p><span class="jp">あの</span> kann auch verwendet werden, um sich auf vergangene Ereignisse zu beziehen:</p>
+
+  <div class="examples">
+    <div class="jp"><u>あの</u> 朝[あさ]、一度[いちど] 出掛[でか]けてから、またすぐ 引返[ひきかえ]して 来[き]たんです。</div>
+    <div class="de spoiler">An jenem Morgen kam er, nachdem er zur Tür heraus war, sofort noch einmal zurück.</div>
+  </div>
+
+  <p>Es gibt auch idiomatische Ausdrücke mit <span class="jp">あの</span>:</p>
+
+  <ul>
+    <li><span class="jp"><u>あの</u> 手[て]この 手[て]を 使[つか]う</span>: alles versuchen; Himmel und Hölle in Bewegung setzen</li>
+  </ul>

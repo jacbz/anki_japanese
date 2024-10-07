@@ -2,10 +2,10 @@ Rang: 3962
 Lemma: 見た目
 Lesung: みため
 Tonhöhen: \..
-Definition: Aussehen, Erscheinungsbild
+Definition: Aussehen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n, phr
+Wortart: phr
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   人を見た目で判断するな。
-  人を 見[み]た 目[め]で 判断[はんだん]するな。
-  Beurteile eine Person nicht nach ihrem Aussehen.
+  人[ひと]を 見[み]た目[め]で 判断[はんだん]するな。
+  Beurteile Menschen nicht nach ihrem Aussehen.
+
+  見た目を気にするあまり、彼女は毎日化粧に時間をかけています。
+  見[み]た目[め]を 気[き]にするあまり、彼女[かのじょ]は 毎日[まいにち] 化粧[けしょう]に 時間[じかん]をかけています。
+  Sie verbringt jeden Tag viel Zeit mit Make-up, weil sie so besorgt um ihr Aussehen ist.
+
+  この料理は見た目は良くないけど、味は最高だよ。
+  この 料理[りょうり]は 見[み]た目[め]は 良[よ]くないけど、味[あじ]は 最高[さいこう]だよ。
+  Dieses Gericht sieht zwar nicht gut aus, schmeckt aber hervorragend.
+
+  彼女は見た目に可愛いだけでなく、性格も素晴らしい。
+  彼女[かのじょ]は 見[み]た目[め]に 可愛[かわい]いだけでなく、性格[せいかく]も 素晴[すば]らしい。
+  Sie ist nicht nur niedlich anzusehen, sondern hat auch einen wunderbaren Charakter.
+
+  見た目には美しいが、中身は空っぽな人もいる。
+  見[み]た目[め]には 美[うつく]しいが、中身[なかみ]は 空[から]っぽな 人[ひと]もいる。
+  Es gibt Menschen, die äußerlich schön sind, aber innerlich leer.
+
+  彼は見た目ほど悪いやつではないよ。知り合えば分かるさ。
+  彼[かれ]は 見[み]た目[め]ほど 悪[わる]いやつではないよ。知[し]り 合[あ]えば 分[わ]かるさ。
+  Er ist kein so übler Kerl, wie er aussieht. Du wirst es verstehen, wenn du ihn kennenlernst.
+
+  見た目で商品を選ぶのは危険です。機能性も重要ですよ。
+  見[み]た目[め]で 商品[しょうひん]を 選[えら]ぶのは 危険[きけん]です。機能性[きのうせい]も 重要[じゅうよう]ですよ。
+  Es ist riskant, Produkte nur nach ihrem Aussehen auszuwählen. Die Funktionalität ist auch wichtig.
+
+  彼女は見た目にこだわりすぎて、本質を見失っているように思える。
+  彼女[かのじょ]は 見[み]た目[め]にこだわりすぎて、本質[ほんしつ]を 見失[みうしな]っているように 思[おも]える。
+  Sie scheint so fixiert auf das Äußere zu sein, dass sie das Wesentliche aus den Augen verliert.
+
+  その建物は見た目は古いが、内部は最新の設備が整っている。
+  その 建物[たてもの]は 見[み]た目[め]は 古[ふる]いが、内部[ないぶ]は 最新[さいしん]の 設備[せつび]が 整[ととの]っている。
+  Das Gebäude sieht zwar alt aus, ist aber innen mit modernster Ausstattung versehen.
+
+  見た目だけでなく、味や香りも大切な要素です。
+  見[み]た目[め]だけでなく、味[あじ]や 香[かお]りも 大切[たいせつ]な 要素[ようそ]です。
+  Nicht nur das Aussehen, sondern auch Geschmack und Duft sind wichtige Elemente.
+
+  彼の見た目は怖そうだが、実際はとても優しい人だ。
+  彼[かれ]の 見[み]た目[め]は 怖[こわ]そうだが、実際[じっさい]はとても 優[やさ]しい 人[ひと]だ。
+  Er sieht zwar furchteinflößend aus, ist aber in Wirklichkeit ein sehr freundlicher Mensch.
+
+  見た目に惑わされず、本当の価値を見極めることが大切です。
+  見[み]た目[め]に 惑[まど]わされず、本当[ほんとう]の 価値[かち]を 見極[みき]めることが 大切[たいせつ]です。
+  Es ist wichtig, sich nicht vom Äußeren täuschen zu lassen und den wahren Wert zu erkennen.
+
+  彼女は見た目を重視するあまり、健康を犠牲にしている。
+  彼女[かのじょ]は 見[み]た目[め]を 重視[じゅうし]するあまり、健康[けんこう]を 犠牲[ぎせい]にしている。
+  Sie legt so viel Wert auf ihr Aussehen, dass sie ihre Gesundheit dafür opfert.
+
+  見た目は派手だが、実用性に欠ける商品だ。
+  見[み]た目[め]は 派手[はで]だが、実用性[じつようせい]に 欠[か]ける 商品[しょうひん]だ。
+  Das Produkt sieht zwar auffällig aus, ist aber wenig praktisch.
+
+  見た目に騙されないで。中身が大切なんだ。
+  見[み]た目[め]に 騙[だま]されないで。中身[なかみ]が 大切[たいせつ]なんだ。
+  Lass dich nicht vom Äußeren täuschen. Der Inhalt ist das Wichtige.
+
+  彼女は見た目を気にしすぎて、自然な魅力を失っている。
+  彼女[かのじょ]は 見[み]た目[め]を 気[き]にしすぎて、自然[しぜん]な 魅力[みりょく]を 失[うしな]っている。
+  Sie macht sich so viele Gedanken um ihr Aussehen, dass sie ihren natürlichen Charme verloren hat.
+
+  見た目は地味だが、味は絶品のレストランを見つけた。
+  見[み]た目[め]は 地味[じみ]だが、味[あじ]は 絶品[ぜっぴん]のレストランを 見[み]つけた。
+  Ich habe ein Restaurant gefunden, das zwar unscheinbar aussieht, aber exzellentes Essen serviert.
+
+  見た目だけでなく、内面の美しさも大切にしましょう。
+  見[み]た目[め]だけでなく、内面[ないめん]の 美[うつく]しさも 大切[たいせつ]にしましょう。
+  Lasst uns nicht nur auf das Äußere, sondern auch auf die innere Schönheit achten.
+
+  彼は見た目は冷たそうだが、実は心の温かい人だ。
+  彼[かれ]は 見[み]た目[め]は 冷[つめ]たそうだが、実[じつ]は 心[こころ]の 温[あたた]かい 人[ひと]だ。
+  Er sieht zwar kühl aus, ist aber in Wirklichkeit ein warmherziger Mensch.
+
+  見た目に惹かれて買った服が、実際に着てみると似合わなかった。
+  見[み]た目[め]に 惹[ひ]かれて 買[か]った 服[ふく]が、実際[じっさい]に 着[き]てみると 似合[にあ]わなかった。
+  Die Kleidung, die ich kaufte, weil ich von ihrem Aussehen angezogen war, stand mir nicht, als ich sie anprobierte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

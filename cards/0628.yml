@@ -102,4 +102,19 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>申し上げる ist eine höfliche Form, die verwendet wird, um respektvoll etwas zu sagen oder zu erwähnen.</p>
+  <ul>
+    <li>Es ist höflicher als das bereits höfliche 申す und wird verwendet, wenn man mit Respektspersonen spricht.</li>
+    <div class="examples">
+      <div class="jp">ちょっと<u>申し上げ</u>たいことがあります。</div>
+      <div class="de spoiler">Ich möchte Ihnen etwas sagen.</div>
+      <div class="jp">ご 協力[きょうりょく]お 願[ねが]い<u>申し上げ</u>ます。</div>
+      <div class="de spoiler">Ich bitte Sie um Ihre Unterstützung.</div>
+    </div>
+    <li>Es wird oft in Kombination mit お/ご-Präfixen verwendet, um eine noch höflichere Form auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">ご 案内[あんない]<u>申し上げ</u>ます。</div>
+      <div class="de spoiler">Ich werde Sie führen.</div>
+    </div>
+  </ul>

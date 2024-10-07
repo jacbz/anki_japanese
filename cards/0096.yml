@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>し wird verwendet, um mehrere Elemente aufzuzählen oder verschiedene Aspekte einer Situation zu beschreiben.</p>
+  <ul>
+    <li>Es verbindet Sätze oder Phrasen und bedeutet "und", "auch" oder "außerdem".</li>
+    <div class="examples">
+      <div class="jp">君[きみ]は 魅力的[みりょくてき]だ<u>し</u>、可愛[かわい]い<u>し</u>、挑発的[ちょうはつてき]な 格好[かっこう]がよく 似合[にあ]うよ。</div>
+      <div class="de spoiler">Du bist attraktiv und niedlich, und dieser provokante Look steht dir sehr gut.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um gegensätzliche Aspekte auszudrücken, ähnlich wie "aber" oder "andererseits".</li>
+    <div class="examples">
+      <div class="jp">体力[たいりょく]もつけなければならない<u>し</u>、胃[い]もいたわってやらなければならない<u>し</u></div>
+      <div class="de spoiler">Er muss zu Kräften kommen, aber auch auf seinen Magen achten.</div>
+    </div>
+    <li>Es kann eine leichte Betonung einer Begründung ausdrücken, ähnlich wie "da" oder "weil".</li>
+    <div class="examples">
+      <div class="jp">せっかく、ここまで 辛抱[しんぼう]してきたのだ<u>し</u>、もうしばらく 様子[ようす]を 見[み]ていても、 大勢[たいせい]にさしたる 影響[えいきょう]はないはずだ。</div>
+      <div class="de spoiler">Da er nun schon so lange ausgehalten hatte, könnte er noch ein Weilchen zusehen, das würde seine Lage kaum verschlechtern.</div>
+    </div>
+    <li>In der Form まい<u>し</u> kann es Unzufriedenheit oder Verärgerung ausdrücken.</li>
+    <div class="examples">
+      <div class="jp">馬鹿[ばか]ねえ、お 巡[まわ]りさんじゃある<u>まいし</u>。</div>
+      <div class="de spoiler">Tu nicht so blöd, du bist ja nicht von der Polizei.</div>
+    </div>
+  </ul>
+  <p>し kann auch andeuten, dass weitere, ungesagte Faktoren existieren.</p>
+  <div class="examples">
+    <div class="jp">病院[びょういん] 出[で]たり 入[はい]ったりしてる<u>し</u>。あの 人[ひと]お 金[かね]ない<u>し</u></div>
+    <div class="de spoiler">Er ist so gut wie ständig im Krankenhaus. Außerdem hat er selbst kein Geld.</div>
+  </div>
+  </p>

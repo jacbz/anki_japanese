@@ -1,7 +1,7 @@
 Rang: 609
 Lemma: のみ
 Lesung: ''
-Tonhöhen: /\
+Tonhöhen: \.
 Definition: nur, allein; lediglich
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
@@ -114,4 +114,35 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>のみ wird verwendet, um etwas als ausschließlich oder einzigartig zu kennzeichnen.</p>
+  <ul>
+    <li>Es bedeutet "nur", "allein" oder "einzig".</li>
+    <div class="examples">
+      <div class="jp">財布[さいふ]の 中[なか]には 小銭[こぜに]と 数[すう]枚[まい]の 千[せん]円[えん]札[さつ]<u>のみ</u>。</div>
+      <div class="de spoiler">Im Portemonnaie waren nur noch ein paar Tausend-Yen-Scheine und etwas Kleingeld.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Einschränkung oder Begrenzung auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">色[いろ]が 赤[あか]<u>のみ</u>であったならば 赤[あか]という 色[いろ]は 現[あらわ]れようがない。</div>
+      <div class="de spoiler">Wenn Rot die einzige Farbe wäre, dann könnte sie nie in Erscheinung treten.</div>
+    </div>
+  </ul>
+  <p>のみ kann auch in komplexeren Strukturen verwendet werden:</p>
+  <ul>
+    <li>In Verbindung mit Verben, um auszudrücken, dass etwas die einzige Handlung oder der einzige Zustand ist:</li>
+    <div class="examples">
+      <div class="jp">図解[ずかい]や 写真[しゃしん]で<u>のみ</u> 知[し]っていた 敵[てき]の 艦載機[かんさいき]が...</div>
+      <div class="de spoiler">Die trägergestützten Flugzeuge, die er nur von Buchillustrationen und Fotos kannte...</div>
+    </div>
+    <li>In der Struktur ...のみを心[こころ]に 掛[か]ける, um auszudrücken, dass man sich ausschließlich auf etwas konzentriert:</li>
+    <div class="examples">
+      <div class="jp">それ<u>のみ</u>を 心[こころ]に 掛[か]ける 者[もの]にとって...</div>
+      <div class="de spoiler">Für Menschen, deren ganzes Bemühen einzig darauf gerichtet ist...</div>
+    </div>
+    <li>In der Struktur ...のみか, um "nicht nur" auszudrücken, oft gefolgt von einem Gegensatz:</li>
+    <div class="examples">
+      <div class="jp">それを 友達[ともだち]に 話[はな]さない<u>のみ</u>か、 相手[あいて]の 女[おんな]にすらも 話[はな]さないらしい。</div>
+      <div class="de spoiler">Er scheint es nicht nur seinen Freunden nicht erzählt zu haben, sondern auch nicht einmal dem Mädchen selbst.</div>
+    </div>
+  </ul>

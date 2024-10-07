@@ -102,4 +102,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: Zum Ausdruck einer unbestimmten Menge.
+Notiz: |-
+  <p>いくら wird verwendet, um eine unbestimmte Menge oder einen unbestimmten Grad auszudrücken.</p>
+  <ul>
+    <li>Es kann als Fragewort verwendet werden, um nach einer Menge oder einem Grad zu fragen:</li>
+    <div class="examples">
+      <div class="jp"><u>いくら</u>するか？</div>
+      <div class="de spoiler">Wie viel kostet es?</div>
+    </div>
+    <li>Es kann auch eine unbestimmte Menge oder einen unbestimmten Grad ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">借金[しゃっきん]が<u>幾[いく]ら</u>になったのか 考[かんが]えたくもなかった。</div>
+      <div class="de spoiler">Ich wollte gar nicht darüber nachdenken, wie hoch meine Schulden geworden sind.</div>
+    </div>
+  </ul>
+  <p>In der Form いくらでも wird es verwendet, um eine sehr große Menge oder einen sehr hohen Grad auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">マグロ[まぐろ]ならばここの 周辺[しゅうへん]の 海[うみ]で<u>いくらでも</u> 捕[と]れた。</div>
+    <div class="de spoiler">Thunfisch konnte man in der Umgebung in beliebigen Mengen aus dem Meer fangen.</div>
+  </div>
+  <p>In der Form いくらも kann es je nach Kontext "viel" oder "wenig" bedeuten:</p>
+  <ul>
+    <li>Mit Verneinung bedeutet es "wenig" oder "eine geringe Menge":</li>
+    <div class="examples">
+      <div class="jp"><u>いくらも</u>たたないうちに...</div>
+      <div class="de spoiler">Schon nach kurzer Zeit...</div>
+    </div>
+  </ul>
+  <p>いくら wird auch in Verbindung mit ても oder でも verwendet, um "wie sehr auch" oder "selbst wenn" auszudrücken:</p>
+  <div class="examples">
+    <div class="jp"><u>いくら</u> 気[き]をつけても、 手[て]をぬらしてしまう。</div>
+    <div class="de spoiler">Wie sehr man auch aufpasst, die Hände werden nass.</div>
+  </div>
+  </p>

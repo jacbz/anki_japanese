@@ -98,4 +98,49 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>方 hat mehrere wichtige Verwendungen:</p>
+
+  <p>Als höfliches Wort für "Person":</p>
+  <ul>
+    <li>Wird verwendet, um höflich auf Personen zu verweisen.</li>
+    <div class="examples">
+      <div class="jp">初[はじ]めてご 来店[らいてん]の<u>方</u>は20％オフとなります。</div>
+      <div class="de spoiler">Bei Ihrem ersten Besuch erhalten Sie 20 Prozent Rabatt!</div>
+    </div>
+  </ul>
+
+  <p>Als Suffix für "Art und Weise":</p>
+  <ul>
+    <li>Wird an Verben angehängt, um auszudrücken, wie etwas gemacht wird.</li>
+    <div class="examples">
+      <div class="jp">炒[い]り<u>かた</u>も 挽[ひ]き<u>かた</u>も 知[し]らない。</div>
+      <div class="de spoiler">Ich weiß weder, wie man sie röstet noch wie man sie mahlt.</div>
+      <div class="jp">話[はな]し<u>方</u>が 変[か]わった。</div>
+      <div class="de spoiler">Die Art zu sprechen hat sich verändert.</div>
+    </div>
+
+    <li>Kann auch das Ausführen einer Tätigkeit bezeichnen.</li>
+    <div class="examples">
+      <div class="jp">撃[う]ち<u>かた</u>やめ！</div>
+      <div class="de spoiler">Feuer einstellen!</div>
+    </div>
+  </ul>
+
+  <p>Als höfliches Zählwort für Personen:</p>
+  <ul>
+    <li>In der Form お + Zahlwort + 方</li>
+    <div class="examples">
+      <div class="jp">お 二[ふた]<u>方</u>とも すぐに お通[とお]しするように。</div>
+      <div class="de spoiler">Bitte lassen Sie beide Personen sofort durch.</div>
+    </div>
+  </ul>
+
+  <p>In Adressen:</p>
+  <ul>
+    <li>Wird verwendet, um "bei/c/o" anzuzeigen.</li>
+    <div class="examples">
+      <div class="jp">鈴木[すずき]様[さま]<u>方</u> 山田[やまだ]三郎[さぶろう]様[さま]</div>
+      <div class="de spoiler">Herrn Saburō Yamada, c/o Herrn Suzuki</div>
+    </div>
+  </ul>

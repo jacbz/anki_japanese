@@ -102,4 +102,23 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>したがって wird verwendet, um eine logische Schlussfolgerung oder Konsequenz auszudrücken.</p>
+  <ul>
+    <li>Es entspricht dem deutschen "folglich", "deshalb", "daher" oder "also".</li>
+    <li>Es verbindet zwei Sätze, wobei der zweite Satz eine logische Folge des ersten ist.</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">本[ほん]を 余[あま]り 読[よ]まなかった。<u>従[したが]って</u>、竹野[たけの]の 話[はなし]も 身[み]を 入[い]れて 聴[き]いてはいなかった。</div>
+    <div class="de spoiler">Er las nicht gern. Deshalb hatte er auch Takenos Berichten nur mit halbem Ohr zugehört.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">自分[じぶん]は 既[すで]にこの 世[よ]の 人[ひと]ではない、<u>従[したが]って</u> 自[みずか]ら 殺[ころ]すには 当[あ]たらない、と 確信[かくしん]して。</div>
+    <div class="de spoiler">Ich war überzeugt, dass ich nicht mehr zu dieser Welt gehörte, ich brauchte also auch nicht mehr zu versuchen, mich umzubringen.</div>
+  </div>
+  <p>Es kann auch in der Form ⋯に<u>従[したが]って</u> verwendet werden, um "entsprechend" oder "gemäß" auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">状況[じょうきょう]に<u>従[したが]って</u> 計画[けいかく]を 変更[へんこう]しました。</div>
+    <div class="de spoiler">Wir haben den Plan entsprechend der Situation geändert.</div>
+  </div>

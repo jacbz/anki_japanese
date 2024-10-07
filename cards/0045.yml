@@ -102,4 +102,26 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>とか wird verwendet, um Beispiele aufzuzählen oder Alternativen anzugeben.</p>
+  <ul>
+    <li>Es bedeutet "zum Beispiel", "oder", "und so weiter" oder "oder so etwas".</li>
+    <div class="examples">
+      <div class="jp">競馬[けいば]<u>とか</u>競輪[けいりん]<u>とか</u></div>
+      <div class="de spoiler">Pferderennen, Radrennen und so weiter</div>
+      <div class="jp">顔立[かおだ]ち<u>とか</u>、姿[すがた]かたち<u>とか</u>、品[ひん]のよさ<u>とか</u>、賢[かしこ]さ<u>とか</u></div>
+      <div class="de spoiler">hübsches Gesicht, gute Figur, erlesener Geschmack und obendrein auch noch intelligent</div>
+    </div>
+    <li>Es kann auch verwendet werden, um Unsicherheit oder Ungefährheit auszudrücken, besonders am Ende eines Satzes.</li>
+    <div class="examples">
+      <div class="jp">梅毒[ばいどく]はなるべくしてなる 病気[びょうき]であって 神[かみ]の 罰[ばつ]ではない<u>とか</u>。</div>
+      <div class="de spoiler">Die Syphilis soll eine ganz normale Krankheit sein und keine Strafe Gottes mehr.</div>
+      <div class="jp">バンドマン<u>とか</u> 言[い]ってた。</div>
+      <div class="de spoiler">Er sagte, er spielt in einer Band oder so.</div>
+    </div>
+  </ul>
+  <p>とか kann auch verwendet werden, um etwas abzuschwächen oder vorsichtig auszudrücken, selbst wenn der Sachverhalt sicher ist.</p>
+  <div class="examples">
+    <div class="jp">無線通信士[むせんつうしんし]の、二級[にきゅう]をとりたい<u>とか</u> 言[い]って</div>
+    <div class="de spoiler">Er sagte, er wolle den B-Schein im Morsen machen.</div>
+  </div>

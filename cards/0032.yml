@@ -110,4 +110,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>から zeigt den Ausgangspunkt oder Ursprung von etwas an:</p>
+  <ul>
+    <li>Es bezeichnet einen Ort oder Startpunkt einer Handlung:</li>
+    <div class="examples">
+      <div class="jp">ソファー<u>から</u> 立[た]った。</div>
+      <div class="de spoiler">Er stand vom Sofa auf.</div>
+      <div class="jp">奥[おく]の 間[ま]<u>から</u> 取[と]ってきた。</div>
+      <div class="de spoiler">Er holte es aus dem hinteren Zimmer.</div>
+    </div>
+    <li>Es markiert einen zeitlichen Ausgangspunkt:</li>
+    <div class="examples">
+      <div class="jp">明日[あした]<u>から</u> 始[はじ]めましょう。</div>
+      <div class="de spoiler">Lasst uns morgen damit anfangen.</div>
+      <div class="jp">晩春[ばんしゅん]<u>から</u> 初夏[しょか]にかけて</div>
+      <div class="de spoiler">Vom späten Frühling bis zum Frühsommer</div>
+    </div>
+    <li>Es drückt einen Grund oder eine Ursache aus:</li>
+    <div class="examples">
+      <div class="jp">難[むずか]しい<u>から</u>できなくても 自信[じしん]を 失[うしな]うことはない。</div>
+      <div class="de spoiler">Weil es schwierig ist, ist es kein Grund, das Selbstvertrauen zu verlieren.</div>
+      <div class="jp">不眠[ふみん]は 持病[じびょう]のようなもの でした<u>から</u>、催眠剤[さいみんざい]には 馴染[なじ]みでした。</div>
+      <div class="de spoiler">Da ich an Schlaflosigkeit litt, kannte ich mich mit Schlafmitteln aus.</div>
+    </div>
+    <li>Es beschreibt, woraus etwas besteht:</li>
+    <div class="examples">
+      <div class="jp">白色光[はくしょくこう]は さまざまな 波長[はちょう]<u>から</u> なっている。</div>
+      <div class="de spoiler">Weißes Licht besteht aus verschiedenen Wellenlängen.</div>
+    </div>
+  </ul>

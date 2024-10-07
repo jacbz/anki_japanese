@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">皆[みな]さん</span> ist eine höfliche Anrede, die "alle" oder "jeder" bedeutet. Es wird oft als "Sie (alle)" oder "Meine Damen und Herren" übersetzt.</p>
+  <ul>
+    <li>Es ist etwas weniger formell als <span class="jp">皆[みな]様[さま]</span>.</li>
+    <li>Es wird häufig in Ansprachen oder beim Ansprechen einer Gruppe verwendet.</li>
+  </ul>
+  <p>Beispiele für die Verwendung:</p>
+  <div class="examples">
+    <div class="jp"><u>皆[みな]さん</u>、事情[じじょう]を 御存[ごぞん]じよ。</div>
+    <div class="de spoiler">Alle wissen Bescheid.</div>
+  </div>
+  <div class="examples">
+    <div class="jp"><u>皆[みな]さん</u>がもうおやすみになっていらっしゃる 様子[ようす]であった。</div>
+    <div class="de spoiler">Es schien, als wären alle schon schlafen gegangen.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">これは 是非[ぜひ]、 私[わたし]は<u>皆[みな]さん</u>に 御案内[ごあんない]したいのですが。</div>
+    <div class="de spoiler">Damit möchte ich Sie unbedingt bekannt machen.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">私[わたし]は<u>皆[みな]さん</u>の 眼[め]の 前[まえ]で 霊媒[れいばい]を 縛[しば]りつける。</div>
+    <div class="de spoiler">Ich werde das Medium jetzt vor Ihren Augen fesseln.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">失礼[しつれい]します、<u>皆[みな]さん</u>。</div>
+    <div class="de spoiler">Ich empfehle mich, meine Herren.</div>
+  </div>
+  </p>

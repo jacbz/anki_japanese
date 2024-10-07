@@ -2,7 +2,7 @@ Rang: 3023
 Lemma: 用
 Lesung: よう
 Tonhöhen: \.
-Definition: etwas zu tun; Verwendung
+Definition: Angelegenheit; Zweck; Verwendung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -14,12 +14,126 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   用があって、行けないんです。
-  用[よう]があって、 行[い]けないんです。
-  Ich kann nicht gehen, weil ich etwas zu tun habe.
+  用[よう]があって、行[い]けないんです。
+  Ich kann nicht kommen, weil ich etwas zu erledigen habe.
+
+  まだ用がたくさんあるので、帰れません。
+  まだ 用[よう]がたくさんあるので、帰[かえ]れません。
+  Ich kann noch nicht nach Hause gehen, weil ich noch viel zu erledigen habe.
+
+  明日は用がないので、ゆっくりできます。
+  明日[あした]は 用[よう]がないので、ゆっくりできます。
+  Morgen habe ich nichts zu tun, also kann ich mich ausruhen.
+
+  用もないのに訪ねてごめんね。
+  用[よう]もないのに 訪[たず]ねてごめんね。
+  Entschuldige, dass ich dich ohne besonderen Grund besuche.
+
+  急に用ができたので、キャンセルさせてください。
+  急[きゅう]に 用[よう]ができたので、キャンセルさせてください。
+  Bitte lassen Sie mich absagen, da plötzlich etwas dazwischengekommen ist.
+
+  上司から重要な用を言い付けられました。
+  上司[じょうし]から 重要[じゅうよう]な 用[よう]を 言[い]い 付[つ]けられました。
+  Mein Vorgesetzter hat mir einen wichtigen Auftrag erteilt.
+
+  友達に用を頼まれたので、断れませんでした。
+  友達[ともだち]に 用[よう]を 頼[たの]まれたので、断[ことわ]れませんでした。
+  Ich konnte nicht ablehnen, weil mein Freund mich um einen Gefallen gebeten hat.
+
+  火急の用で、急いで出かけなければなりません。
+  火急[かきゅう]の 用[よう]で、急[いそ]いで 出[で]かけなければなりません。
+  Ich muss wegen einer äußerst dringenden Angelegenheit sofort los.
+
+  ちょっと君に用があるんだ。話せる？
+  ちょっと 君[きみ]に 用[よう]があるんだ。話[はな]せる？
+  Ich muss mit dir reden. Hast du einen Moment Zeit?
+
+  何の御用ですか？お手伝いできることがありますか？
+  何[なん]の 御用[ごよう]ですか？お 手伝[てつだ]いできることがありますか？
+  Womit kann ich Ihnen dienen? Gibt es etwas, wobei ich Ihnen helfen kann?
+
+  また、ご用がありましたら、いつでもお声がけください。
+  また、ご 用[よう]がありましたら、いつでもお 声[こえ]がけください。
+  Bitte zögern Sie nicht, mich anzusprechen, wenn Sie wieder etwas benötigen.
+
+  何の用だ？忙しいんだぞ。
+  何[なん]の 用[よう]だ？忙[いそが]しいんだぞ。
+  Was willst du? Ich bin beschäftigt.
+
+  この道具は様々な用に使えます。
+  この 道具[どうぐ]は 様々[さまざま]な 用[よう]に 使[つか]えます。
+  Dieses Werkzeug kann für verschiedene Zwecke verwendet werden.
+
+  何の用に立つか分からない物は捨てましょう。
+  何[なん]の 用[よう]に 立[た]つか 分[わ]からない 物[もの]は 捨[す]てましょう。
+  Lass uns Dinge wegwerfen, von denen wir nicht wissen, wozu sie gut sind.
+
+  この屋根は防水の用をしています。
+  この 屋根[やね]は 防水[ぼうすい]の 用[よう]をしています。
+  Dieses Dach dient als Wasserschutz.
+
+  新聞はもう用がないので、リサイクルに出します。
+  新聞[しんぶん]はもう 用[よう]がないので、リサイクルに 出[だ]します。
+  Da ich die Zeitung nicht mehr brauche, gebe ich sie zum Recycling.
+
+  用を節するために、不要な経費を削減しました。
+  用[よう]を 節[せつ]するために、不要[ふよう]な 経費[けいひ]を 削減[さくげん]しました。
+  Um Kosten zu sparen, haben wir unnötige Ausgaben reduziert.
+
+  トイレに行って用を足してきます。
+  トイレに 行[い]って 用[よう]を 足[た]してきます。
+  Ich gehe kurz auf die Toilette, um meine Notdurft zu verrichten.
+
+  婦人用の手袋を探しているのですが。
+  婦人用[ふじんよう]の 手袋[てぶくろ]を 探[さが]しているのですが。
+  Ich suche nach Damenhandschuhen.
+
+  男性用と女性用のトイレは別々にあります。
+  男性用[だんせいよう]と 女性用[じょせいよう]のトイレは 別々[べつべつ]にあります。
+  Es gibt separate Toiletten für Männer und Frauen.
+
+  家庭用ロボットの需要が増えています。
+  家庭用[かていよう]ロボットの 需要[じゅよう]が 増[ふ]えています。
+  Die Nachfrage nach Haushaltsrobotern nimmt zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>用 wird in verschiedenen Kontexten verwendet, hauptsächlich als Substantiv und als Suffix.</p>
+  <p>Als Substantiv (よう) hat es folgende Bedeutungen:</p>
+  <ul>
+    <li>Etwas zu Erledigendes, eine Angelegenheit oder ein Auftrag</li>
+    <div class="examples">
+      <div class="jp">ちょっと 君[きみ]に<u>用[よう]</u>があるんだ。</div>
+      <div class="de spoiler">Ich habe etwas mit dir zu besprechen.</div>
+      <div class="jp">何[なん]の<u>用[よう]</u>ですか。</div>
+      <div class="de spoiler">Womit kann ich Ihnen dienen?</div>
+    </div>
+    <li>Nützlichkeit oder Brauchbarkeit</li>
+    <div class="examples">
+      <div class="jp">私[わたし]にはもう<u>用[よう]</u>がないから、お前[まえ]さんに 上[あ]げる。</div>
+      <div class="de spoiler">Weil ich es nicht mehr brauche, schenke ich es dir.</div>
+    </div>
+    <li>Kosten oder Ausgaben</li>
+    <li>Euphemismus für "Notdurft"</li>
+  </ul>
+  <p>Als Suffix (-用) bedeutet es "für den Gebrauch von" oder "bestimmt für":</p>
+  <div class="examples">
+    <div class="jp">患者[かんじゃ]<u>用[よう]</u>の 新聞[しんぶん]</div>
+    <div class="de spoiler">Zeitungen für Patienten</div>
+  </div>
+  <p>Wichtige Redewendungen mit 用:</p>
+  <ul>
+    <li><span class="jp"><u>用[よう]</u>に 立[た]つ</span>: nützlich oder brauchbar sein</li>
+    <li><span class="jp"><u>用[よう]</u>を 弁[べん]ずる</span>: eine Angelegenheit erledigen</li>
+    <li><span class="jp"><u>用[よう]</u>を 済[す]ます</span> oder <span class="jp"><u>用[よう]</u>を 足[た]す</span>: <ol>
+        <li>eine Angelegenheit erledigen</li>
+        <li>seine Notdurft verrichten (euphemistisch)</li>
+      </ol>
+    </li>
+  </ul>
+  </p>

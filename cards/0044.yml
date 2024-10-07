@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>それ ist ein Demonstrativpronomen, das auf Personen oder Dinge in der Nähe des Hörers oder auf einen gerade erwähnten Ort, Zeitpunkt oder Sachverhalt verweist.</p>
+  <ul>
+    <li>Es kann als "das", "es" oder "da" übersetzt werden:</li>
+    <div class="examples">
+      <div class="jp">ああ、<u>それ</u><u>それ</u>。</div>
+      <div class="de spoiler">Da, das ist es.</div>
+      <div class="jp"><u>それ</u>で 結構[けっこう]。</div>
+      <div class="de spoiler">Das genügt.</div>
+      <div class="jp"><u>それ</u>は そうだ。</div>
+      <div class="de spoiler">Du hast recht. / Sie haben recht.</div>
+    </div>
+    <li>Es kann auch als Interjektion verwendet werden, um die Aufmerksamkeit auf etwas zu lenken:</li>
+    <div class="examples">
+      <div class="jp"><u>それ</u>、 気[き]をつけて！</div>
+      <div class="de spoiler">Pass auf! / Vorsicht!</div>
+    </div>
+    <li>In der Umgangssprache kann <span class="jp"><u>それ</u>は</span> als Verstärkung verwendet werden:</li>
+    <div class="examples">
+      <div class="jp"><u>それ</u>は 美[うつく]しい。</div>
+      <div class="de spoiler">Wirklich schön. / Fabelhaft schön.</div>
+      <div class="jp"><u>それ</u>は 暖[あたた]かい。</div>
+      <div class="de spoiler">Wirklich heiß. / Schrecklich heiß.</div>
+    </div>
+    <li>Es gibt einige feststehende Ausdrücke mit それ:</li>
+    <div class="examples">
+      <div class="jp"><u>それ</u>はさておき</div>
+      <div class="de spoiler">Das beiseite, übrigens, davon einmal abgesehen</div>
+      <div class="jp"><u>それ</u>は<u>それ</u>として</div>
+      <div class="de spoiler">Abgesehen davon, immerhin</div>
+      <div class="jp"><u>それ</u>はそうと</div>
+      <div class="de spoiler">Davon einmal abgesehen, übrigens, nebenbei bemerkt</div>
+    </div>
+  </ul>
+  </p>

@@ -106,4 +106,45 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort <span class="jp">船[ふね]</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <h3>Als Nomen:</h3>
+  <ul>
+    <li>Es bedeutet "Schiff", "Boot", "Kahn" oder "Fähre".</li>
+    <div class="examples">
+      <div class="jp"><u>船[ふね]</u>を 漕[こ]ぐ 男[おとこ]はただ 黙[だま]っています。</div>
+      <div class="de spoiler">Der Mann, der das Boot ruderte, sprach kein Wort.</div>
+    </div>
+    <li>In Zusammensetzungen wird es oft als "-bune" gelesen:</li>
+    <div class="examples">
+      <div class="jp">小[こ]<u>舟[ぶね]</u></div>
+      <div class="de spoiler">kleines Boot, Kahn</div>
+      <div class="jp">帆掛[ほか]け<u>舟[ぶね]</u></div>
+      <div class="de spoiler">Segelboot</div>
+    </div>
+    <li>Es kann auch ein spezielles Boot zum Anrichten von Sashimi bezeichnen.</li>
+    <li>In manchen Kontexten bedeutet es "Zuber", "Bottich" oder "Wanne":</li>
+    <div class="examples">
+      <div class="jp">洗濯[せんたく]<u>船[ぶね]</u></div>
+      <div class="de spoiler">Waschzuber</div>
+    </div>
+  </ul>
+
+  <h3>Als Zählwort:</h3>
+  <ul>
+    <li>Es wird als Numeralklassifikator für auf Holzbooten angerichtete Speisen verwendet:</li>
+    <div class="examples">
+      <div class="jp">刺身[さしみ]の 盛[も]り 合[あ]わせ 一[ひと]<u>船[ふね]</u></div>
+      <div class="de spoiler">eine Platte gemischtes Sashimi</div>
+    </div>
+  </ul>
+
+  <h3>In idiomatischen Ausdrücken:</h3>
+  <ul>
+    <li><span class="jp">船[ふね]を 漕[こ]ぐ</span> (wörtlich: "ein Boot rudern") bedeutet figurativ "einnicken" oder "ein Nickerchen machen":</li>
+    <div class="examples">
+      <div class="jp">子坊主[こぼうず]は 隣[となり]の 部屋[へや]の 柱[はしら]に 凭[もた]れて、 独[ひと]りで<u>舟[ふね]</u>を 漕[こ]いでいた。</div>
+      <div class="de spoiler">Der junge Priester saß im Nebenzimmer an einen Pfeiler gelehnt und war eingenickt.</div>
+    </div>
+  </ul>

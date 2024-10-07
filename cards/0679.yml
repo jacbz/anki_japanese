@@ -102,4 +102,26 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>致[いた]す ist eine höfliche Form von する (tun, machen).</p>
+  <ul>
+    <li>Es wird verwendet, um höflich oder bescheiden auszudrücken, dass man etwas tut oder macht:</li>
+    <div class="examples">
+      <div class="jp">お待[ま]たせ<u>致[いた]しました</u>。</div>
+      <div class="de spoiler">Entschuldigen Sie, dass ich Sie habe warten lassen.</div>
+      <div class="jp">私[わたし]が<u>致[いた]しましょう</u>か。</div>
+      <div class="de spoiler">Soll ich das machen?</div>
+    </div>
+    <li>Es kann auch verwendet werden, um höflich auszudrücken, dass etwas nicht möglich ist oder man etwas nicht tut:</li>
+    <div class="examples">
+      <div class="jp">記憶[きおく]がはっきり<u>致[いた]しません</u>。</div>
+      <div class="de spoiler">Ich kann mich nicht genau erinnern.</div>
+      <div class="jp">一睡[いっすい]も<u>致[いた]しませんでした</u>。</div>
+      <div class="de spoiler">Ich habe kein Auge zugetan.</div>
+    </div>
+  </ul>
+  <p>In der Wendung 〜の<u>致[いた]す</u>ところ drückt es aus, dass etwas die Folge oder das Resultat von etwas ist:</p>
+  <div class="examples">
+    <div class="jp">私[わたし]の不徳[ふとく]の<u>致[いた]す</u>ところです。</div>
+    <div class="de spoiler">Das ist meine Schuld./Das kommt von meiner eigenen Unzulänglichkeit.</div>
+  </div>

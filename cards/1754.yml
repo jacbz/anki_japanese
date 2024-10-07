@@ -102,4 +102,21 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ほんの wird verwendet, um auszudrücken, dass etwas nur minimal, gering oder unbedeutend ist.</p>
+
+  <ul>
+    <li>Es bedeutet "nur", "bloß" oder "ein wenig" und wird vor Mengen oder Zeitangaben verwendet:</li>
+    <div class="examples">
+      <div class="jp"><u>ほんの</u>二、三[に、さん]キロのところ</div>
+      <div class="de spoiler">Nur ein paar Kilometer entfernt</div>
+      <div class="jp"><u>ほんの</u>一瞬[いっしゅん]だけ</div>
+      <div class="de spoiler">Nur für einen kurzen Moment</div>
+    </div>
+
+    <li>Es wird auch verwendet, um die Bescheidenheit einer Geste oder eines Geschenks auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>ほんの</u>気持[きも]ちだけ！</div>
+      <div class="de spoiler">Nur eine kleine Aufmerksamkeit!</div>
+    </div>
+  </ul>

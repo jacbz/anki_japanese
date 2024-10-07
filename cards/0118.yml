@@ -106,4 +106,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そんな ist ein demonstratives Adjektiv, das auf etwas Bekanntes oder gerade Erwähntes verweist.</p>
+  <ul>
+    <li>Es bedeutet "solch", "derartig" oder "so ein" und wird attributiv verwendet.</li>
+    <div class="examples">
+      <div class="jp"><u>そんな</u>こと 言[い]うな。</div>
+      <div class="de spoiler">Sag so etwas nicht.</div>
+    </div>
+    <li>Es kann auch Unglauben oder Ablehnung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>そんな</u> 訳[わけ]がない。</div>
+      <div class="de spoiler">Das kann nicht sein. / Das ist unmöglich.</div>
+    </div>
+    <li>In der Form <u>そんな</u>に wird es als Adverb verwendet, um "so", "derart" oder "dermaßen" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>そんな</u>に 珍[めずら]しいことじゃない。</div>
+      <div class="de spoiler">Das ist nicht so ungewöhnlich.</div>
+    </div>
+  </ul>
+  <p>Häufige Ausdrücke:</p>
+  <ul>
+    <li><u>そんな</u>じゃない: wird verwendet, um etwas zu verneinen oder zu widersprechen.</li>
+    <div class="examples">
+      <div class="jp"><u>そんな</u>じゃない。そういう 意味[いみ]じゃなかった。</div>
+      <div class="de spoiler">Nein, so ist es nicht. Das meinte ich nicht.</div>
+    </div>
+  </ul>
+  </p>

@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>結構[けっこう] ist ein vielseitiges Wort mit mehreren wichtigen Bedeutungen:</p>
+  <ul>
+    <li>Als な-Adjektiv bedeutet es "ausgezeichnet" oder "vortrefflich":</li>
+    <div class="examples">
+      <div class="jp">味[あじ]はどう？</div>
+      <div class="jp">結構[けっこう]です。</div>
+      <div class="de spoiler">Wie schmeckt's? - Ausgezeichnet!</div>
+    </div>
+    <li>Es wird auch häufig als höfliche Ablehnung verwendet, etwa wie "Nein, danke":</li>
+    <div class="examples">
+      <div class="jp">何[なに]かお 飲[の]みになりますか。</div>
+      <div class="jp">いいえ、結構[けっこう]です。</div>
+      <div class="de spoiler">Möchten Sie etwas trinken? - Nein danke.</div>
+    </div>
+    <li>Als Adverb bedeutet es "ziemlich" oder "recht":</li>
+    <div class="examples">
+      <div class="jp">そこが結構[けっこう] 農耕[のうこう]に 適[てき]していることを 発見[はっけん]した。</div>
+      <div class="de spoiler">Sie stellten fest, dass das Gebiet sich recht gut zur Landwirtschaft eignete.</div>
+    </div>
+    <li>Es kann auch "ausreichend" oder "in Ordnung" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">お 金[かね]はいつでも結構[けっこう]です。</div>
+      <div class="de spoiler">Sie können jederzeit bezahlen.</div>
+      <div class="jp">結構[けっこう]です。</div>
+      <div class="de spoiler">Das genügt. / Das ist in Ordnung.</div>
+    </div>
+  </ul>

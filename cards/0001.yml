@@ -118,4 +118,67 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>の ist eine äußerst vielseitiges Partikel im Japanischen, die verschiedene Beziehungen zwischen Wörtern ausdrückt.</p>
+  <ul>
+    <li>Besitz oder Zugehörigkeit:</li>
+    <div class="examples">
+      <div class="jp">私[わたし]<u>の</u>本[ほん]</div>
+      <div class="de spoiler">Mein Buch</div>
+    </div>
+    <li>Zugehörigkeit zu einer Gruppe oder einem Bereich:</li>
+    <div class="examples">
+      <div class="jp">会社[かいしゃ]<u>の</u>同僚[どうりょう]</div>
+      <div class="de spoiler">Ein Kollege aus der Firma</div>
+    </div>
+    <li>Beziehungen zwischen Personen:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]<u>の</u>旦那[だんな]さん</div>
+      <div class="de spoiler">Ihr Ehemann</div>
+    </div>
+    <li>Zweck oder Anlass:</li>
+    <div class="examples">
+      <div class="jp">結婚[けっこん]<u>の</u>お祝[いわ]い</div>
+      <div class="de spoiler">Hochzeitsfeier</div>
+    </div>
+    <li>Thema oder Inhalt:</li>
+    <div class="examples">
+      <div class="jp">日本語[にほんご]<u>の</u>勉強[べんきょう]</div>
+      <div class="de spoiler">Das Studium der japanischen Sprache</div>
+    </div>
+    <li>Herkunft oder Ort:</li>
+    <div class="examples">
+      <div class="jp">東京[とうきょう]<u>の</u>レストラン</div>
+      <div class="de spoiler">Ein Restaurant in Tokyo</div>
+    </div>
+    <li>Zeitpunkt oder Zeitraum:</li>
+    <div class="examples">
+      <div class="jp">去年[きょねん]<u>の</u>夏[なつ]</div>
+      <div class="de spoiler">Letzten Sommer</div>
+    </div>
+    <li>Material oder Bestandteil:</li>
+    <div class="examples">
+      <div class="jp">木[き]<u>の</u>テーブル</div>
+      <div class="de spoiler">Ein Tisch aus Holz</div>
+    </div>
+    <li>Eigenschaft oder Merkmal:</li>
+    <div class="examples">
+      <div class="jp">親切[しんせつ]<u>の</u>人[ひと]</div>
+      <div class="de spoiler">Ein freundlicher Mensch</div>
+    </div>
+  </ul>
+  <p>の kann auch verwendet werden, um Sätze zu nominalisieren oder Fragen zu bilden, besonders in der gesprochenen Sprache:</p>
+  <div class="examples">
+    <div class="jp">食[た]べる<u>の</u>が 好[す]きです。</div>
+    <div class="de spoiler">Ich mag es zu essen.</div>
+    <div class="jp">どうして 泣[な]いている<u>の</u>？</div>
+    <div class="de spoiler">Warum weinst du?</div>
+  </div>
+  <p>In der gesprochenen Sprache wird の oft am Satzende verwendet, um eine Aussage zu betonen oder eine sanfte Frage zu stellen:</p>
+  <div class="examples">
+    <div class="jp">明日[あした]は 日曜日[にちようび]な<u>の</u>。</div>
+    <div class="de spoiler">Morgen ist Sonntag, weißt du.</div>
+    <div class="jp">お腹[なか]が 痛[いた]い<u>の</u>？</div>
+    <div class="de spoiler">Hast du Bauchschmerzen?</div>
+  </div>
+  <p></p>

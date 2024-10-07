@@ -5,7 +5,7 @@ Tonhöhen: /^\..
 Definition: wie viele Stunden
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: n, phr
+Wortart: phr
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   何時間待てばいいのだろうか。
-  何[なん] 時間[じかん] 待[ま]てばいいのだろうか。
-  Ich frage mich, wie viele Stunden ich warten muss.
+  何時間[なんじかん] 待[ま]てばいいのだろうか。
+  Wie lange soll ich wohl warten?
+
+  彼女は毎日何時間勉強しているの？
+  彼女[かのじょ]は 毎日[まいにち] 何時間[なんじかん] 勉強[べんきょう]しているの？
+  Wie viele Stunden lernt sie jeden Tag?
+
+  東京から大阪まで新幹線で何時間かかりますか。
+  東京[とうきょう]から 大阪[おおさか]まで 新幹線[しんかんせん]で 何時間[なんじかん]かかりますか。
+  Wie lange dauert die Fahrt mit dem Shinkansen von Tokio nach Osaka?
+
+  何時間も歩き続けて、やっと目的地に着いた。
+  何時間[なんじかん]も 歩[ある]き 続[つづ]けて、やっと 目的地[もくてきち]に 着[つ]いた。
+  Nach stundenlangem Gehen erreichten wir endlich unser Ziel.
+
+  腕のロープを解かれ、歩くのは何時間ぶりだろう。
+  腕[うで]のロープを 解[と]かれ、歩[ある]くのは 何時間[なんじかん]ぶりだろう。
+  Wie viele Stunden war es her, dass ihre Hände frei von Fesseln waren, wie lange hatte sie keinen Schritt mehr getan?
+
+  2人のパン屋が6時間で444個のパンを焼くとします。では、5人のパン屋が88個のパンを焼くには、何時間かかるでしょう？
+  2人[にん]のパン 屋[や]が6時間[じかん]で444個[こ]のパンを 焼[や]くとします。では、5人[にん]のパン 屋[や]が88個[こ]のパンを 焼[や]くには、何時間[なんじかん]かかるでしょう？
+  Wenn zwei Bäcker in sechs Stunden 444 Brötchen backen, wie lange brauchen dann fünf Bäcker, um 88 Brötchen zu backen?
+
+  こんな暑さのなかで、何時間、待つんだろ。
+  こんな 暑[あつ]さのなかで、何時間[なんじかん]、待[ま]つんだろ。
+  Wie lange sollen wir denn noch in dieser Hitze warten?
+
+  何時間寝ても疲れが取れない気がする。
+  何時間[なんじかん] 寝[ね]ても 疲[つか]れが 取[と]れない 気[き]がする。
+  Egal wie viele Stunden ich schlafe, ich habe das Gefühl, die Müdigkeit wird nicht besser.
+
+  この仕事を完成させるのに何時間くらいかかると思いますか。
+  この 仕事[しごと]を 完成[かんせい]させるのに 何時間[なんじかん]くらいかかると 思[おも]いますか。
+  Wie viele Stunden, denken Sie, wird es dauern, diese Arbeit abzuschließen?
+
+  何時間も練習しても、うまくならない気がする。
+  何時間[なんじかん]も 練習[れんしゅう]しても、うまくならない 気[き]がする。
+  Ich habe das Gefühl, dass ich nicht besser werde, egal wie viele Stunden ich übe.
+
+  彼は何時間も電話で話し続けている。
+  彼[かれ]は 何時間[なんじかん]も 電話[でんわ]で 話[はな]し 続[つづ]けている。
+  Er telefoniert schon seit Stunden.
+
+  何時間もテレビを見ていると、目が疲れてくる。
+  何時間[なんじかん]もテレビを 見[み]ていると、目[め]が 疲[つか]れてくる。
+  Wenn man stundenlang fernsieht, werden die Augen müde.
+
+  この映画は何時間くらいかかるの？
+  この 映画[えいが]は 何時間[なんじかん]くらいかかるの？
+  Wie lange dauert dieser Film ungefähr?
+
+  何時間も待たされて、やっと医者に診てもらえた。
+  何時間[なんじかん]も 待[ま]たされて、やっと 医者[いしゃ]に 診[み]てもらえた。
+  Nach stundenlangem Warten konnte ich endlich vom Arzt untersucht werden.
+
+  何時間寝るのが健康的だと思いますか。
+  何時間[なんじかん] 寝[ね]るのが 健康的[けんこうてき]だと 思[おも]いますか。
+  Wie viele Stunden Schlaf halten Sie für gesund?
+
+  この本を読むのに何時間かかりましたか。
+  この 本[ほん]を 読[よ]むのに 何時間[なんじかん]かかりましたか。
+  Wie viele Stunden hat es gedauert, dieses Buch zu lesen?
+
+  何時間も話し合っても、結論が出ない。
+  何時間[なんじかん]も 話[はな]し 合[あ]っても、結論[けつろん]が 出[で]ない。
+  Wir diskutieren schon stundenlang, aber kommen zu keinem Ergebnis.
+
+  彼女は何時間も化粧をしている。
+  彼女[かのじょ]は 何時間[なんじかん]も 化粧[けしょう]をしている。
+  Sie schminkt sich schon seit Stunden.
+
+  何時間も雨が降り続いている。
+  何時間[なんじかん]も 雨[あめ]が 降[ふ]り 続[つづ]いている。
+  Es regnet schon seit Stunden.
+
+  何時間も歩いた後は、足がパンパンだ。
+  何時間[なんじかん]も 歩[ある]いた 後[あと]は、足[あし]がパンパンだ。
+  Nach stundenlangem Gehen sind meine Füße ganz geschwollen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

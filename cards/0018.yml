@@ -102,4 +102,23 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ええ (auch えー) ist eine Interjektion mit mehreren Verwendungen:</p>
+  <ul>
+    <li>Es wird als Zustimmung oder Bestätigung verwendet, ähnlich wie "ja" oder "genau":</li>
+    <div class="examples">
+      <div class="jp">「参加[さんか]してくれるかね」と 彼[かれ]は 言[い]った。「<u>ええ</u>」とぼくは 答[こた]えた。</div>
+      <div class="de spoiler">"Machst du mit?", fragte er. "Ja", antwortete ich.</div>
+    </div>
+    <li>Es kann als Füllwort verwendet werden, um Zeit zum Nachdenken zu gewinnen, oft in der Form <span class="jp"><u>えーと</u></span> oder <span class="jp"><u>ええっと</u></span>:</li>
+    <div class="examples">
+      <div class="jp"><u>えーとねえ</u>、ワタナベ 君[くん]だったわね、あなたが 直子[なおこ]に 会[あ]う 前[まえ]に 私[わたし]の 方[ほう]からここの 説明[せつめい]をしておいた 方[ほう]がいいと 思[おも]ったのよ。</div>
+      <div class="de spoiler">Also, Herr Watanabe - so war doch Ihr Name? Ehe Sie Naoko sehen, sollte ich Ihnen vielleicht einiges über diesen Ort erzählen.</div>
+    </div>
+    <li>Es kann auch Überraschung oder Enttäuschung ausdrücken, ähnlich wie "Was?" oder "Echt?":</li>
+    <div class="examples">
+      <div class="jp">「 明日[あした]は 雨[あめ]だって」「<u>ええ</u>？ 本当[ほんとう]？」</div>
+      <div class="de spoiler">"Es soll morgen regnen." "Was? Wirklich?"</div>
+    </div>
+  </ul>
+  </p>

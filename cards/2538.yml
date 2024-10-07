@@ -2,10 +2,10 @@ Rang: 2538
 Lemma: ては
 Lesung: てわ
 Tonhöhen: /^
-Definition: 'abwechselnd tun und '
+Definition: wenn, falls; wiederholt
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: konj
+Wortart: postp
 Register: ↗Gesprochen
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,116 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は彼の写真を見ては溜息をついた。
   彼女[かのじょ]は 彼[かれ]の 写真[しゃしん]を 見[み]ては 溜息[ためいき]をついた。
-  Sie seufzte jedes Mal, wenn sie sein Foto sah.
+  Sie seufzte jedes Mal, wenn sie sein Foto ansah.
+
+  急がなくては遅刻してしまいますよ。
+  急[いそ]がなくては 遅刻[ちこく]してしまいますよ。
+  Wenn du dich nicht beeilst, kommst du zu spät.
+
+  壊れては困るので、丁寧に扱ってください。
+  壊[こわ]れては 困[こま]るので、丁寧[ていねい]に 扱[あつか]ってください。
+  Bitte gehen Sie vorsichtig damit um, denn es wäre problematisch, wenn es kaputtginge.
+
+  この混雑の中で鐘が鳴っては大変なことになるでしょう。
+  この 混雑[こんざつ]の 中[なか]で 鐘[かね]が 鳴[な]っては 大変[たいへん]なことになるでしょう。
+  Es würde ein Chaos entstehen, wenn in diesem Gedränge die Glocke läuten würde.
+
+  骨折を口実に居すわられては困ります。
+  骨折[こっせつ]を 口実[こうじつ]に 居[い]すわられては 困[こま]ります。
+  Es wäre mir unangenehm, wenn Sie unter dem Vorwand eines Knochenbruchs hier bleiben würden.
+
+  そう先を越されては降参するしかありません。
+  そう 先[さき]を 越[こ]されては 降参[こうさん]するしかありません。
+  Nachdem Sie mir so zuvorgekommen sind, bleibt mir nur die Kapitulation.
+
+  こうまで思い切った不意打ちをくわされては、さすがに困惑してしまいます。
+  こうまで 思[おも]い 切[き]った 不意打[ふいう]ちをくわされては、さすがに 困惑[こんわく]してしまいます。
+  Ein so dreister Überraschungsangriff bringt selbst mich in Verlegenheit.
+
+  実は二十にもなってはいなかったのです。
+  実[じつ]は 二十[はたち]にもなってはいなかったのです。
+  Tatsächlich war ich noch gar nicht zwanzig Jahre alt.
+
+  現在の私はあの頃の自分を特に狡い少年だったと思ってはいません。
+  現在[げんざい]の 私[わたし]はあの 頃[ころ]の 自分[じぶん]を 特[とく]に 狡[ずる]い 少年[しょうねん]だったと 思[おも]ってはいません。
+  Ich denke heute nicht, dass ich damals ein besonders durchtriebener Junge war.
+
+  同様に古ぼけてはいるが頑丈そうな掘立小屋がありました。
+  同様[どうよう]に 古[ふる]ぼけてはいるが 頑丈[がんじょう]そうな 掘立小屋[ほったてごや]がありました。
+  Es gab einen ebenso alten, aber solide aussehenden Schuppen.
+
+  幕府は家茂の死を秘してはいたが、次第に噂になり始めた。
+  幕府[ばくふ]は 家茂[いえもち]の 死[し]を 秘[ひ]してはいたが、次第[しだい]に 噂[うわさ]になり 始[はじ]めた。
+  Obwohl das Shogunat Iemochis Tod geheim hielt, begann es allmählich, sich als Gerücht zu verbreiten.
+
+  星が現れては消える、美しい夜空でした。
+  星[ほし]が 現[あらわ]れては 消[き]える、美[うつく]しい 夜空[よぞら]でした。
+  Es war ein schöner Nachthimmel, an dem die Sterne aufblitzten und wieder verschwanden.
+
+  晴れては雨、晴れては雨の繰り返しで、天気が安定しません。
+  晴[は]れては 雨[あめ]、晴[は]れては 雨[あめ]の 繰[く]り 返[かえ]しで、天気[てんき]が 安定[あんてい]しません。
+  Das Wetter ist unstabil mit einem ständigen Wechsel zwischen Sonnenschein und Regen.
+
+  子猫は投げ出されては這い上がり、何度も同じことを繰り返しました。
+  子猫[こねこ]は 投[な]げ 出[だ]されては 這[は]い 上[あ]がり、何度[なんど]も 同[おな]じことを 繰[く]り 返[かえ]しました。
+  Das Kätzchen wurde immer wieder hinausgeworfen und kam zurück, es wiederholte sich mehrmals.
+
+  彼女は「ごめんなさい」と謝っては、また笑い出しました。
+  彼女[かのじょ]は「ごめんなさい」と 謝[あやま]っては、また 笑[わら]い 出[だ]しました。
+  Sie entschuldigte sich mit "Tut mir leid", musste dann aber wieder lachen.
+
+  彼は頭にタオルを巻き、ビールに手を伸ばしては、次々に肉を焼いていきました。
+  彼[かれ]は 頭[あたま]にタオルを 巻[ま]き、ビールに 手[て]を 伸[の]ばしては、次々[つぎつぎ]に 肉[にく]を 焼[や]いていきました。
+  Mit einem Handtuch um den Kopf griff er immer wieder nach seinem Bier und grillte ein Stück Fleisch nach dem anderen.
+
+  彼女は窓を開けては閉め、落ち着かない様子でした。
+  彼女[かのじょ]は 窓[まど]を 開[あ]けては 閉[し]め、落[お]ち 着[つ]かない 様子[ようす]でした。
+  Sie öffnete und schloss das Fenster wiederholt und wirkte unruhig.
+
+  私は本を読んでは考え込む日々を過ごしていました。
+  私[わたし]は 本[ほん]を 読[よ]んでは 考[かんが]え 込[こ]む 日々[ひび]を 過[す]ごしていました。
+  Ich verbrachte meine Tage damit, zu lesen und dann darüber nachzudenken.
+
+  彼は立っては座り、落ち着きがありませんでした。
+  彼[かれ]は 立[た]っては 座[すわ]り、落[お]ち 着[つ]きがありませんでした。
+  Er stand auf und setzte sich wieder hin, er war sehr unruhig.
+
+  彼女は友達と会っては別れ、寂しさを感じていました。
+  彼女[かのじょ]は 友達[ともだち]と 会[あ]っては 別[わか]れ、寂[さび]しさを 感[かん]じていました。
+  Sie traf sich mit Freunden und verabschiedete sich wieder, wobei sie sich einsam fühlte.
+
+  私たちは休んでは歩き、ゆっくりと山を登っていきました。
+  私[わたし]たちは 休[やす]んでは 歩[ある]き、ゆっくりと 山[やま]を 登[のぼ]っていきました。
+  Wir machten Pausen und gingen dann weiter, so erklommen wir langsam den Berg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ては wird verwendet, um verschiedene Bedeutungen auszudrücken:</p>
+  <ul>
+    <li>Es kann eine Bedingung mit unerwünschter Folge ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">この 混雑[こんざつ]の 中[なか]で 鐘[かね]が 鳴[な]っ<u>ては</u>どんな 騒動[そうどう]になろうも 知[し]れません。</div>
+      <div class="de spoiler">Wer weiß, was für ein Durcheinander entsteht, wenn man in diesem Menschengewimmel die Glocke schlägt.</div>
+    </div>
+    <li>Es kann eine unerwünschte Situation ausdrücken, die bereits eingetreten ist:</li>
+    <div class="examples">
+      <div class="jp">こうまで 思[おも]い 切[き]った 不意打[ふいう]ちをくわされ<u>ては</u>、さすがにぼくも、 糊[のり]の 壺[つぼ]におぼれた 蝿[はえ]みたいなものだった。</div>
+      <div class="de spoiler">Dieser Schlag ist derart dreist, dass selbst ich mir vorkomme wie die Fliege im Kleisterfaß.</div>
+    </div>
+    <li>Es kann verwendet werden, um etwas zu betonen, das nicht zutrifft oder nur eingeschränkt gilt, oft mit einer Verneinung:</li>
+    <div class="examples">
+      <div class="jp">実[じつ]は 二十[はたち]にもなっ<u>ては</u>いなかった。</div>
+      <div class="de spoiler">Tatsächlich war ich noch gar nicht zwanzig.</div>
+    </div>
+    <li>Es kann wiederholte Handlungen oder Vorgänge ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">吾輩[わがはい]は 投[な]げ 出[だ]され<u>ては</u> 這[は]い 上[あ]り、 這[は]い 上[あ]っ<u>ては</u> 投[な]げ 出[だ]され、何[なん]でも 同[おな]じ 事[こと]を 四五遍[よんごへん] 繰[く]り 返[かえ]したのを 記憶[きおく]している。</div>
+      <div class="de spoiler">Kaum hinausgeflogen, betrat ich wieder (die Küche), und kaum wieder eingetreten, flog ich wieder hinaus, und ich erinnere mich, dass sich dieser Vorgang an die vier, fünf Male wiederholt hat.</div>
+    </div>
+  </ul>
+  <p>ては wird an die Konjunktionalform des Verbs angeschlossen. Bei Verben, deren Stamm auf -g, -n, -b oder -m endet, wird es zu では.</p>
+  </p>

@@ -102,4 +102,72 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>面[めん] hat verschiedene Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Gesicht oder Angesicht</li>
+    <div class="examples">
+      <div class="jp">面[めん]と 向[む]かって 言[い]う</div>
+      <div class="de spoiler">jemandem etwas ins Gesicht sagen</div>
+    </div>
+
+    <li>Maske (oft mit dem Höflichkeitspräfix お)</li>
+    <div class="examples">
+      <div class="jp">お面[めん]をかぶる</div>
+      <div class="de spoiler">eine Maske aufsetzen</div>
+    </div>
+
+    <li>Oberfläche oder Seite</li>
+    <div class="examples">
+      <div class="jp">地球[ちきゅう]の<u>面[めん]</u></div>
+      <div class="de spoiler">die Erdoberfläche</div>
+      <div class="jp">樅[もみ]の 太[ふと]い 幹[みき]と 幹[みき]の 間[あいだ]に 湖水[こすい]の<u>面[めん]</u>が 銀色[ぎんいろ]に 光[ひか]って 見[み]えた。</div>
+      <div class="de spoiler">Zwischen den dicken Tannenbäumen sahen wir silbern den See glänzen.</div>
+    </div>
+
+    <li>Aspekt oder Hinsicht (übertragen)</li>
+    <div class="examples">
+      <div class="jp">あらゆる<u>面[めん]</u>から 問題[もんだい]を 考究[こうきゅう]する</div>
+      <div class="de spoiler">ein Problem von allen Seiten betrachten</div>
+      <div class="jp">気候[きこう]の<u>面[めん]</u>からは</div>
+      <div class="de spoiler">in klimatischer Hinsicht</div>
+    </div>
+
+    <li>Seite (einer Zeitung)</li>
+    <div class="examples">
+      <div class="jp">経済[けいざい]<u>面[めん]</u></div>
+      <div class="de spoiler">die Wirtschaftsseite (einer Zeitung)</div>
+    </div>
+  </ul>
+
+  <p>Als Suffix wird 面[めん] als Zählwort für flache Dinge und Brettspiele verwendet:</p>
+  <div class="examples">
+    <div class="jp">鏡[かがみ]三<u>面[めん]</u></div>
+    <div class="de spoiler">drei Spiegel</div>
+    <div class="jp">琴[こと]五<u>面[めん]</u></div>
+    <div class="de spoiler">fünf Kotos (japanische Zither)</div>
+  </div>
+
+  <p>Einige spezielle Ausdrücke mit 面[めん]:</p>
+  <ul>
+    <li>Im Kendō (japanischer Schwertkampf):</li>
+    <div class="examples">
+      <div class="jp">右面[みぎめん]</div>
+      <div class="de spoiler">der Migimen, der von rechts geführte seitliche Schlag an den Kopf(schutz)</div>
+      <div class="jp">正面[しょうめん]</div>
+      <div class="de spoiler">der Shomen, der gerade Schlag auf den Kopf(schutz)</div>
+    </div>
+
+    <li>In der Holzbearbeitung:</li>
+    <div class="examples">
+      <div class="jp"><u>面[めん]</u>を 取[と]る</div>
+      <div class="de spoiler">abrunden, abschrägen (Kanten)</div>
+    </div>
+
+    <li>Im Polizeijargon:</li>
+    <div class="examples">
+      <div class="jp"><u>面[めん]</u>が 割[わ]れる</div>
+      <div class="de spoiler">(durch ein Foto) eindeutig identifiziert werden</div>
+    </div>
+  </ul>

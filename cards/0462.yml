@@ -106,4 +106,51 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">願[ねが]う</span> ist ein vielseitiges Verb mit mehreren Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Etwas wünschen oder erhoffen:</li>
+    <div class="examples">
+      <div class="jp">内心[ないしん]どこかで、こうした 場面[ばめん]の 実現[じつげん]を、ひそかに<u>願[ねが]っていた</u>はずである。</div>
+      <div class="de spoiler">Tief im Innern muss ich mir gewünscht haben, dass sich eine solche Szene verwirklicht.</div>
+    </div>
+
+    <li>Zu Gott oder Buddha beten:</li>
+    <div class="examples">
+      <div class="jp">信仰心[しんこうしん]のある 者[もの]は 神[かみ]に 祈[いの]った。せめてもわが 家[いえ]が 悪魔[あくま]の 襲撃[しゅうげき]を 免[まぬか]れられるように 神[かみ]に<u>願[ねが]った</u>。</div>
+      <div class="de spoiler">Und wer an Gott glaubte, rettete sich ins Gebet und bat Gott, dass wenigstens das eigene Haus von der teuflischen Heimsuchung verschont bleibe.</div>
+    </div>
+
+    <li>Jemanden um etwas bitten oder etwas erbitten:</li>
+    <div class="examples">
+      <div class="jp">これは 是非[ぜひ] 御容赦[ごようしゃ]を<u>願[ねが]いたい</u>と 思[おも]います。</div>
+      <div class="de spoiler">Dafür möchte ich nachdrücklich um Verständnis bitten.</div>
+    </div>
+
+    <li>Als Hilfsverb in höflichen Bitten (mit お + Verbstamm + <span class="jp">願[ねが]います</span>):</li>
+    <div class="examples">
+      <div class="jp">取材[しゅざい]をお 許[ゆる]し<u>願[ねが]えます</u>か？</div>
+      <div class="de spoiler">Würden Sie mir gestatten, mehr Informationen darüber zu beschaffen?</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Ausdrücke mit <span class="jp">願[ねが]う</span>:</p>
+
+  <ul>
+    <li><span class="jp">よろしくお<u>願[ねが]い</u>します</span>: Eine höfliche Bitte um Wohlwollen oder Unterstützung.</li>
+
+    <li><span class="jp"><u>願[ねが]って</u>も 無[な]いこと</span>: Mehr als man erwartet oder sich gewünscht hat.</li>
+    <div class="examples">
+      <div class="jp">予想外[よそうがい]に 早[はや]い。だが、<u>願[ねが]って</u>もないチャンスだった。</div>
+      <div class="de spoiler">Das war schneller gegangen, als er erwartet hatte. Aber es war eine unverhoffte Gelegenheit.</div>
+    </div>
+
+    <li><span class="jp"><u>願[ねが]って</u> 已[や]まない</span>: Sich etwas von ganzem Herzen wünschen.</li>
+
+    <li><span class="jp">お<u>願[ねが]い</u>します</span>: Eine höfliche Art, "Bitte" zu sagen.</li>
+    <div class="examples">
+      <div class="jp">「安全[あんぜん] 運転[うんてん]でお<u>願[ねが]い</u>しますよ」</div>
+      <div class="de spoiler">"Bitte fahren Sie vorsichtig."</div>
+    </div>
+  </ul>

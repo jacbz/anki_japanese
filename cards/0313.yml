@@ -110,4 +110,35 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あれ ist ein Demonstrativpronomen, das auf etwas verweist, das vom Sprecher und Hörer entfernt ist.</p>
+  <ul>
+    <li>Es wird verwendet, um auf Personen, Dinge oder Ereignisse zu verweisen, die beiden Gesprächspartnern bekannt sind, aber sich in einiger Entfernung befinden oder in der Vergangenheit liegen.</li>
+    <div class="examples">
+      <div class="jp"><u>あれ</u>は、ホテルだよ。</div>
+      <div class="de spoiler">Das (dort) ist ein Hotel.</div>
+      <div class="jp"><u>あれ</u>はあたしのお 友達[ともだち]よ、 浜田[はまだ]さんて 云[い]う。</div>
+      <div class="de spoiler">Der (dort) ist mein Freund. Er heißt Hamada.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um auf etwas zu verweisen, an das man sich nicht sofort erinnern kann.</li>
+    <div class="examples">
+      <div class="jp">ほら、あっちのほうに<u>あれ</u>があるからよ、あの、 晴海[はるみ] 埠頭[ふとう]。</div>
+      <div class="de spoiler">Schau, da drüben ist doch dieser... wie heißt er noch... der Harumi-Pier.</div>
+    </div>
+    <li>In manchen Kontexten wird es euphemistisch verwendet, oft für Geschlechtsorgane oder sexuelle Handlungen.</li>
+    <div class="examples">
+      <div class="jp">あいつの<u>あれ</u>、とても 大[おお]きいんだってさ。</div>
+      <div class="de spoiler">Man sagt, sein "Du-weißt-schon-was" sei sehr groß.</div>
+    </div>
+  </ul>
+  <p>あれ kann auch in festen Ausdrücken verwendet werden:</p>
+  <div class="examples">
+    <div class="jp"><u>あれ</u>か これか</div>
+    <div class="de spoiler">Entweder - oder</div>
+  </div>
+  <p>Der Plural von あれ ist あれら:</p>
+  <div class="examples">
+    <div class="jp"><u>あれら</u>はかなりの 場所[ばしょ]をとりますからな。</div>
+    <div class="de spoiler">Die nehmen ziemlich viel Platz weg, wissen Sie.</div>
+  </div>
+  </p>

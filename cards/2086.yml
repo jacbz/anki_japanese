@@ -2,13 +2,13 @@ Rang: 2086
 Lemma: 壊れる
 Lesung: こわれる
 Tonhöhen: /^\.
-Definition: kaputt gehen, beschädigt werden; zerstört werden
+Definition: kaputtgehen; zerbrechen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 壊れない・壊れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   コンピュータが壊れている。
   コンピュータが 壊[こわ]れている。
   Mein Computer ist kaputt.
+
+  コンピュータが壊れているので、修理に出さなければなりません。
+  コンピュータが 壊[こわ]れているので、修理[しゅうり]に 出[だ]さなければなりません。
+  Der Computer ist kaputt, also muss ich ihn zur Reparatur bringen.
+
+  この玩具は壊れやすいので、気をつけて扱ってください。
+  この 玩具[がんぐ]は 壊[こわ]れやすいので、気[き]をつけて 扱[あつか]ってください。
+  Dieses Spielzeug ist zerbrechlich, also behandele es bitte vorsichtig.
+
+  地震で多くの建物が壊れてしまった。
+  地震[じしん]で 多[おお]くの 建物[たてもの]が 壊[こわ]れてしまった。
+  Viele Gebäude wurden durch das Erdbeben zerstört.
+
+  古い橋が壊れて通行止めになっている。
+  古[ふる]い 橋[はし]が 壊[こわ]れて 通行止[つうこうどめ]になっている。
+  Die alte Brücke ist eingestürzt und für den Verkehr gesperrt.
+
+  母の大切な花瓶が壊れて、とても悲しそうだった。
+  母[はは]の 大切[たいせつ]な 花瓶[かびん]が 壊[こわ]れて、とても 悲[かな]しそうだった。
+  Mutters kostbare Vase zerbrach, und sie sah sehr traurig aus.
+
+  壊れた時計を修理しようとしたが、うまくいかなかった。
+  壊[こわ]れた 時計[とけい]を 修理[しゅうり]しようとしたが、うまくいかなかった。
+  Ich versuchte, die kaputte Uhr zu reparieren, aber es gelang mir nicht.
+
+  彼らの関係は徐々に壊れていった。
+  彼[かれ]らの 関係[かんけい]は 徐々[じょじょ]に 壊[こわ]れていった。
+  Ihre Beziehung ging nach und nach in die Brüche.
+
+  台風で屋根が壊れたので、急いで修理する必要がある。
+  台風[たいふう]で 屋根[やね]が 壊[こわ]れたので、急[いそ]いで 修理[しゅうり]する 必要[ひつよう]がある。
+  Das Dach wurde durch den Taifun beschädigt, also müssen wir es schnell reparieren.
+
+  長年の使用で冷蔵庫が壊れてしまった。
+  長年[ながねん]の 使用[しよう]で 冷蔵庫[れいぞうこ]が 壊[こわ]れてしまった。
+  Der Kühlschrank ging nach jahrelanger Nutzung kaputt.
+
+  新しい携帯電話を落として画面が壊れた。
+  新[あたら]しい 携帯電話[けいたいでんわ]を 落[お]として 画面[がめん]が 壊[こわ]れた。
+  Ich habe mein neues Handy fallen lassen und der Bildschirm ist kaputt gegangen.
+
+  ガラスが壊れて、床中に散らばっていた。
+  ガラスが 壊[こわ]れて、床中[ゆかじゅう]に 散[ち]らばっていた。
+  Das Glas zerbrach und die Scherben lagen überall auf dem Boden verstreut.
+
+  壊れたテレビをゴミ置き場に持って行った。
+  壊[こわ]れたテレビをゴミ 置[お]き 場[ば]に 持[も]って 行[い]った。
+  Ich habe den kaputten Fernseher zum Müllplatz gebracht.
+
+  壊れた椅子を修理して、また使えるようになった。
+  壊[こわ]れた 椅子[いす]を 修理[しゅうり]して、また 使[つか]えるようになった。
+  Ich habe den kaputten Stuhl repariert und er ist wieder benutzbar.
+
+  交渉が壊れて、両社の提携は白紙に戻った。
+  交渉[こうしょう]が 壊[こわ]れて、両社[りょうしゃ]の 提携[ていけい]は 白紙[はくし]に 戻[もど]った。
+  Die Verhandlungen scheiterten und die Partnerschaft zwischen den beiden Unternehmen wurde aufgelöst.
+
+  彼女の心は壊れそうなほど傷ついていた。
+  彼女[かのじょ]の 心[こころ]は 壊[こわ]れそうなほど 傷[きず]ついていた。
+  Ihr Herz war so verletzt, dass es zu zerbrechen drohte.
+
+  この機械は壊れやすいので、慎重に扱ってください。
+  この 機械[きかい]は 壊[こわ]れやすいので、慎重[しんちょう]に 扱[あつか]ってください。
+  Diese Maschine ist anfällig für Schäden, also behandeln Sie sie bitte vorsichtig.
+
+  長年の夢が壊れて、彼は深く落ち込んでいた。
+  長年[ながねん]の 夢[ゆめ]が 壊[こわ]れて、彼[かれ]は 深[ふか]く 落[お]ち 込[こ]んでいた。
+  Sein langjähriger Traum war zerplatzt, und er war tief deprimiert.
+
+  壊れたおもちゃを直すのが父の趣味だ。
+  壊[こわ]れたおもちゃを 直[なお]すのが 父[ちち]の 趣味[しゅみ]だ。
+  Es ist das Hobby meines Vaters, kaputte Spielzeuge zu reparieren.
+
+  壊れた信頼関係を修復するのは難しい。
+  壊[こわ]れた 信頼関係[しんらいかんけい]を 修復[しゅうふく]するのは 難[むずか]しい。
+  Es ist schwierig, eine zerbrochene Vertrauensbeziehung wiederherzustellen.
+
+  古い建物が壊れないように、定期的なメンテナンスが必要だ。
+  古[ふる]い 建物[たてもの]が 壊[こわ]れないように、定期的[ていきてき]なメンテナンスが 必要[ひつよう]だ。
+  Regelmäßige Wartung ist notwendig, damit alte Gebäude nicht verfallen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -102,4 +102,43 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>第一[だいいち] kann als Substantiv, Adjektiv oder Adverb verwendet werden.</p>
+  <p>Als Substantiv bedeutet es:</p>
+  <ul>
+    <li>Der/die/das Erste</li>
+    <li>Der/die/das Beste, Wichtigste oder Bedeutendste</li>
+    <li>Nummer 1</li>
+  </ul>
+  <p>Als Adjektiv (mit の):</p>
+  <ul>
+    <li>Erst-, Primär-, Haupt-, Spitzen-</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]<u>は</u> 先生[せんせい]の 第一[だいいち]秘書[ひしょ]です。</div>
+      <div class="de spoiler">Er ist der erste Sekretär des Lehrers.</div>
+    </div>
+  </ul>
+  <p>Als Adverb (oft mit に):</p>
+  <ul>
+    <li>Zuerst, erstens, an erster Stelle</li>
+    <li>Vor allem, hauptsächlich, besonders</li>
+    <li>Überhaupt (bei Fragen oder Zweifeln)</li>
+    <div class="examples">
+      <div class="jp">まず 第一[だいいち]に、そうするには 時間[じかん]がかかりすぎる。</div>
+      <div class="de spoiler">Erstens würde das zu lange dauern.</div>
+    </div>
+  </ul>
+  <p>In der Chemie wird es als Präfix verwendet:</p>
+  <ul>
+    <li>Einwertig, primär</li>
+    <div class="examples">
+      <div class="jp">第一[だいいち]アルコール</div>
+      <div class="de spoiler">Der primäre Alkohol</div>
+    </div>
+  </ul>
+  <p>Häufige Ausdrücke:</p>
+  <div class="examples">
+    <div class="jp">安全[あんぜん] 第一[だいいち]</div>
+    <div class="de spoiler">Sicherheit geht vor / Safety first!</div>
+  </div>
+  </p>

@@ -102,4 +102,28 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>やら hat mehrere Verwendungen in der japanischen Sprache:</p>
+  <ul>
+    <li>Es drückt Ungewissheit oder Hörensagen aus:</li>
+    <div class="examples">
+      <div class="jp">どこへ 行[い]きました事[こと]<u>やら</u>。</div>
+      <div class="de spoiler">Wohin mag er nur gegangen sein?</div>
+      <div class="jp">いつ 戻[もど]ってくる<u>やら</u>、あんまり 当[あ]てには 出来[でき]ねえな。</div>
+      <div class="de spoiler">Wann er wiederkommt, ist schwer zu sagen.</div>
+    </div>
+    <li>Es wird zur Aufzählung verwendet, ähnlich wie "und so weiter" oder "et cetera":</li>
+    <div class="examples">
+      <div class="jp">バッグ<u>やら</u> 上着[うわぎ]<u>やら</u>をとりだし</div>
+      <div class="de spoiler">Taschen und Jacken und so weiter herausnehmen</div>
+      <div class="jp">知事[ちじ]<u>やら</u> 技師[ぎし]<u>やら</u> 少[すこ]し 死人[しにん]が 出[で]た。</div>
+      <div class="de spoiler">Es gab ein paar Tote, den Gouverneur, einige Ingenieure und so weiter.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um mehrere Handlungen oder Zustände zu koordinieren:</li>
+    <div class="examples">
+      <div class="jp">種々[しゅじゅ] 物[もの]を 尋[たず]ねる<u>やら</u>、跳[は]ねる<u>やら</u>。</div>
+      <div class="de spoiler">Sie fragten bald dies, bald das und hüpften herum.</div>
+    </div>
+  </ul>
+  <p>やら wird oft wiederholt, um eine offene Liste oder Alternativen anzuzeigen. Es verleiht dem Satz einen Ton der Unbestimmtheit oder Vielfalt.</p>
+  </p>

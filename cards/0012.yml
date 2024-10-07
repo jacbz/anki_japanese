@@ -110,4 +110,60 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>で ist eine vielseitige Partikel mit mehreren wichtigen Funktionen:</p>
+
+  <ol>
+    <li>Ort einer Handlung oder eines Geschehens:
+      <div class="examples">
+        <div class="jp">道[みち]<u>で</u>ばったり 会[あ]ったりしても 妙[みょう]なのだろうな。</div>
+        <div class="de spoiler">Es wäre schon seltsam, wenn wir uns zufällig auf der Straße treffen würden.</div>
+      </div>
+    </li>
+
+    <li>Zeitangabe:
+      <div class="examples">
+        <div class="jp">三日[みっか]<u>で</u> 撮影[さつえい]が 終[お]わった。</div>
+        <div class="de spoiler">Die Dreharbeiten waren in drei Tagen abgeschlossen.</div>
+      </div>
+    </li>
+
+    <li>Mittel, Instrument oder Methode:
+      <div class="examples">
+        <div class="jp">人[ひと]びとは 自動車[じどうしゃ]や 電車[でんしゃ]<u>で</u> 動[うご]きまわり</div>
+        <div class="de spoiler">Die Menschen fahren mit Autos und Straßenbahnen umher.</div>
+      </div>
+    </li>
+
+    <li>Grund oder Ursache:
+      <div class="examples">
+        <div class="jp">実[みの]りかけた 稲[いね]が 夜来[やらい]の 風雨[ふうう]<u>で</u>ところどころ 押[お]し 倒[たお]されていた。</div>
+        <div class="de spoiler">Die halbreifen Reisähren waren hier und dort vom nächtlichen Unwetter niedergedrückt.</div>
+      </div>
+    </li>
+
+    <li>Zustand oder Umstände:
+      <div class="examples">
+        <div class="jp">面目[めんもく]ない 気持[きも]ち<u>で</u> 私[わたし]は 小屋[こや]にもどり</div>
+        <div class="de spoiler">Mit einem beschämten Gefühl kehrte ich zur Hütte zurück.</div>
+      </div>
+    </li>
+
+    <li>Material oder Bestandteil:
+      <div class="examples">
+        <div class="jp">鉄[てつ]<u>で</u> 出来[でき]ている</div>
+        <div class="de spoiler">Es ist aus Eisen (hergestellt).</div>
+      </div>
+    </li>
+  </ol>
+
+  <p>Zusätzlich kann で am Satzanfang als Konjunktion verwendet werden:</p>
+
+  <ul>
+    <li>Bedeutung: und, aber, dann, also, deshalb
+      <div class="examples">
+        <div class="jp"><u>で</u>、さっそくなにをしたらいいの？</div>
+        <div class="de spoiler">Und, was sollen wir jetzt tun?</div>
+      </div>
+    </li>
+  </ul>

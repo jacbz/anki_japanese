@@ -2,13 +2,13 @@ Rang: 2059
 Lemma: 奪う
 Lesung: うばう
 Tonhöhen: /\.
-Definition: rauben, gewaltsam nehmen; faszinieren
+Definition: (weg)nehmen, rauben
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 奪わない・奪った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   彼らは自由と権利をうばわれた。
   彼[かれ]らは 自由[じゆう]と 権利[けんり]をうばわれた。
   Sie wurden ihrer Rechte und Freiheit beraubt.
+
+  彼らは自由と権利を奪われた。
+  彼[かれ]らは 自由[じゆう]と 権利[けんり]を 奪[うば]われた。
+  Ihnen wurden Freiheit und Rechte genommen.
+
+  泥棒が財布を奪って逃げた。
+  泥棒[どろぼう]が 財布[さいふ]を 奪[うば]って 逃[に]げた。
+  Der Dieb raubte die Geldbörse und floh.
+
+  彼女の美しさは皆の視線を奪った。
+  彼女[かのじょ]の 美[うつく]しさは 皆[みな]の 視線[しせん]を 奪[うば]った。
+  Ihre Schönheit fesselte die Blicke aller.
+
+  長時間のゲームは子供たちの睡眠時間を奪っている。
+  長時間[ちょうじかん]のゲームは 子供[こども]たちの 睡眠時間[すいみんじかん]を 奪[うば]っている。
+  Langes Spielen raubt den Kindern ihre Schlafenszeit.
+
+  敵軍は要塞を奪うために激しい攻撃を仕掛けた。
+  敵軍[てきぐん]は 要塞[ようさい]を 奪[うば]うために 激[はげ]しい 攻撃[こうげき]を 仕掛[しか]けた。
+  Die feindliche Armee startete einen heftigen Angriff, um die Festung zu erobern.
+
+  彼は不正な手段で権力を奪った。
+  彼[かれ]は 不正[ふせい]な 手段[しゅだん]で 権力[けんりょく]を 奪[うば]った。
+  Er riss die Macht mit unlauteren Mitteln an sich.
+
+  その事故は多くの命を奪った。
+  その 事故[じこ]は 多[おお]くの 命[いのち]を 奪[うба]った。
+  Der Unfall forderte viele Leben.
+
+  新しい技術が既存の企業から市場シェアを奪っている。
+  新[あたら]しい 技術[ぎじゅつ]が 既存[きそん]の 企業[きぎょう]から 市場シェア[しじょうシェア]を 奪[うば]っている。
+  Neue Technologien nehmen bestehenden Unternehmen Marktanteile weg.
+
+  彼の演技は観客の心を奪った。
+  彼[かれ]の 演技[えんぎ]は 観客[かんきゃく]の 心[こころ]を 奪[うば]った。
+  Seine Darstellung fesselte das Herz des Publikums.
+
+  その政策は貧しい人々から希望を奪うものだ。
+  その 政策[せいさく]は 貧[まず]しい 人々[ひとびと]から 希望[きぼう]を 奪[うば]うものだ。
+  Diese Politik raubt den armen Menschen die Hoffnung.
+
+  彼女は不当に解雇され、生活の糧を奪われた。
+  彼女[かのじょ]は 不当[ふとう]に 解雇[かいこ]され、生活[せいかつ]の 糧[かて]を 奪[うば]われた。
+  Sie wurde ungerechtfertigt entlassen und ihrer Lebensgrundlage beraubt.
+
+  その巧妙な詐欺は多くの人から貯金を奪った。
+  その 巧妙[こうみょう]な 詐欺[さぎ]は 多[おお]くの 人[ひと]から 貯金[ちょきん]を 奪[うば]った。
+  Der raffinierte Betrug nahm vielen Menschen ihre Ersparnisse weg.
+
+  彼のリードを奪うのは簡単ではない。
+  彼[かれ]の リードを 奪[うば]うのは 簡単[かんたん]ではない。
+  Es ist nicht einfach, ihm die Führung zu entreißen.
+
+  その騒音は私たちの平和な生活を奪っている。
+  その 騒音[そうおん]は 私[わたし]たちの 平和[へいわ]な 生活[せいかつ]を 奪[うば]っている。
+  Der Lärm raubt uns unser friedliches Leben.
+
+  彼女の魅力的な笑顔は私の注意を奪った。
+  彼女[かのじょ]の 魅力的[みりょくてき]な 笑顔[えがお]は 私[わたし]の 注意[ちゅうい]を 奪[うば]った。
+  Ihr charmantes Lächeln fesselte meine Aufmerksamkeit.
+
+  戦争は多くの子供たちから教育の機会を奪った。
+  戦争[せんそう]は 多[おお]くの 子供[こども]たちから 教育[きょういく]の 機会[きかい]を 奪[うば]った。
+  Der Krieg nahm vielen Kindern die Chance auf Bildung.
+
+  彼の発言は会議の時間を奪ってしまった。
+  彼[かれ]の 発言[はつげん]は 会議[かいぎ]の 時間[じかん]を 奪[うば]ってしまった。
+  Seine Äußerung nahm die Zeit der Besprechung in Anspruch.
+
+  その選手は見事なプレーで観客の目を奪った。
+  その 選手[せんしゅ]は 見事[みごと]なプレーで 観客[かんきゃく]の 目[め]を 奪[うば]った。
+  Der Spieler fesselte mit seinem brillanten Spiel die Augen der Zuschauer.
+
+  彼は競争相手から重要な顧客を奪うことに成功した。
+  彼[かれ]は 競争相手[きょうそうあいて]から 重要[じゅうよう]な 顧客[こきゃく]を 奪[うば]うことに 成功[せいこう]した。
+  Es gelang ihm, dem Konkurrenten einen wichtigen Kunden abzujagen.
+
+  台風は多くの人々から安全な住まいを奪った。
+  台風[たいふう]は 多[おお]くの 人々[ひとびと]から 安全[あんぜん]な 住[す]まいを 奪[うば]った。
+  Der Taifun raubte vielen Menschen ihr sicheres Zuhause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,24 +2,135 @@ Rang: 2069
 Lemma: かぶる
 Lesung: ''
 Tonhöhen: /\.
-Definition: aufsetzen, bedecken
-Alternativschreibweisen: ''
+Definition: (auf)setzen; überziehen; übernehmen
+Alternativschreibweisen: 被る・蒙る・冠る
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: かぶらない・かぶった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   外に出るなら帽子をかぶりなさい。
   外[そと]に 出[で]るなら 帽子[ぼうし]をかぶりなさい。
-  Setze deine Mütze auf, wenn du nach draußen gehst.
+  Wenn du nach draußen gehst, setze einen Hut auf.
+
+  彼女は寒さを防ぐために毛布を頭からかぶった。
+  彼女[かのじょ]は 寒[さむ]さを 防[ふせ]ぐために 毛布[もうふ]を 頭[あたま]からかぶった。
+  Sie zog sich die Decke über den Kopf, um sich vor der Kälte zu schützen.
+
+  ハロウィンパーティーでお面をかぶって楽しんだ。
+  ハロウィンパーティーでお 面[めん]をかぶって 楽[たの]しんだ。
+  Ich hatte Spaß dabei, auf der Halloween-Party eine Maske zu tragen.
+
+  友情の仮面をかぶって本当の気持ちを隠していた。
+  友情[ゆうじょう]の 仮面[かめん]をかぶって 本当[ほんとう]の 気持[きも]ちを 隠[かく]していた。
+  Er verbarg seine wahren Gefühle unter dem Deckmantel der Freundschaft.
+
+  彼は日に焼けた顔に制帽を目深にかぶっていた。
+  彼[かれ]は 日[ひ]に 焼[や]けた 顔[かお]に 制帽[せいぼう]を 目深[めぶか]にかぶっていた。
+  Er trug seine Dienstmütze tief ins sonnenverbrannte Gesicht gezogen.
+
+  流行のパナマ帽を前のめりにかぶって歩いていた。
+  流行[りゅうこう]のパナマ 帽[ぼう]を 前[まえ]のめりにかぶって 歩[ある]いていた。
+  Er ging mit einem modischen Panamahut, den er nach vorne gekippt trug.
+
+  赤ん坊はシーツをかぶって泣き声をあげていた。
+  赤[あか]ん 坊[ぼう]はシーツをかぶって 泣[な]き 声[ごえ]をあげていた。
+  Das Baby schrie, die Decke über den Kopf gezogen.
+
+  突然の雨で頭からずぶぬれにかぶってしまった。
+  突然[とつぜん]の 雨[あめ]で 頭[あたま]からずぶぬれにかぶってしまった。
+  Ich wurde von dem plötzlichen Regen von Kopf bis Fuß durchnässt.
+
+  火の粉をかぶって危険な目に遭うところだった。
+  火[ひ]の 粉[こ]をかぶって 危険[きけん]な 目[め]に 遭[あ]うところだった。
+  Ich wäre beinahe in Gefahr geraten, als ich in einen Funkenregen geriet.
+
+  工事現場で働いていたらほこりをかぶってしまった。
+  工事現場[こうじげんば]で 働[はたら]いていたらほこりをかぶってしまった。
+  Als ich auf der Baustelle arbeitete, wurde ich mit Staub bedeckt.
+
+  暑い日には冷水をかぶって体を冷やすのが気持ちいい。
+  暑[あつ]い 日[ひ]には 冷水[れいすい]をかぶって 体[からだ]を 冷[ひ]やすのが 気持[きも]ちいい。
+  An heißen Tagen fühlt es sich gut an, sich mit kaltem Wasser abzukühlen.
+
+  雪をかぶった貨物列車がゆっくりと通過していった。
+  雪[ゆき]をかぶった 貨物列車[かもつれっしゃ]がゆっくりと 通過[つうか]していった。
+  Ein schneebedeckter Güterzug fuhr langsam vorbei.
+
+  彼は友人の罪をかぶって自ら警察に出頭した。
+  彼[かれ]は 友人[ゆうじん]の 罪[つみ]をかぶって 自[みずか]ら 警察[けいさつ]に 出頭[しゅっとう]した。
+  Er nahm die Schuld seines Freundes auf sich und stellte sich selbst der Polizei.
+
+  写真にレンズの曇りがかぶってしまった。
+  写真[しゃしん]にレンズの 曇[くも]りがかぶってしまった。
+  Auf dem Foto bildete sich ein Schleier durch das beschlagene Objektiv.
+
+  公演が終わりかぶるころ、観客から大きな拍手が起こった。
+  公演[こうえん]が 終[お]わりかぶるころ、観客[かんきゃく]から 大[おお]きな 拍手[はくしゅ]が 起[お]こった。
+  Als die Aufführung zu Ende ging, brach großer Applaus aus dem Publikum aus.
+
+  その映画は大ヒットで、毎回満員かぶりだった。
+  その 映画[えいが]は 大[だい]ヒットで、毎回[まいかい] 満員[まんいん]かぶりだった。
+  Der Film war ein großer Erfolg und bei jeder Vorstellung ausverkauft.
+
+  泥棒は塀をかぶって庭に侵入した。
+  泥棒[どろぼう]は 塀[へい]をかぶって 庭[にわ]に 侵入[しんにゅう]した。
+  Der Dieb stieg über die Mauer in den Garten ein.
+
+  予約が重なってしまい、時間がかぶってしまった。
+  予約[よやく]が 重[かさ]なってしまい、時間[じかん]がかぶってしまった。
+  Die Reservierungen überschnitten sich und die Zeiten überlappten sich.
+
+  買い物に失敗して、高くかぶってしまった。
+  買[か]い 物[もの]に 失敗[しっぱい]して、高[たか]くかぶってしまった。
+  Ich habe beim Einkaufen einen Fehler gemacht und zu viel bezahlt.
+
+  阿弥陀にかぶるとは、思わぬ幸運が訪れることだ。
+  阿弥陀[あみだ]にかぶるとは、思[おも]わぬ 幸運[こううん]が 訪[おとず]れることだ。
+  'Amida ni kaburu' bedeutet, dass einem unerwartet Glück widerfährt.
+
+  泥をかぶるとは、他人の罪や責任を引き受けることだ。
+  泥[どろ]をかぶるとは、他人[たにん]の 罪[つみ]や 責任[せきにん]を 引[ひ]き 受[う]けることだ。
+  'Doro o kaburu' bedeutet, die Schuld oder Verantwortung eines anderen zu übernehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb かぶる hat verschiedene Bedeutungen und Verwendungen:</p>
+  <p>1. Etwas auf den Kopf setzen oder anziehen:</p>
+  <div class="examples">
+    <div class="jp">帽子[ぼうし]をかぶる。</div>
+    <div class="de spoiler">Einen Hut aufsetzen.</div>
+  </div>
+  <p>2. Mit etwas bedeckt oder übergossen werden:</p>
+  <div class="examples">
+    <div class="jp">雨[あめ]にかぶる。</div>
+    <div class="de spoiler">Vom Regen durchnässt werden.</div>
+  </div>
+  <p>3. Etwas (meist negatives) auf sich nehmen:</p>
+  <div class="examples">
+    <div class="jp">罪[つみ]をかぶる。</div>
+    <div class="de spoiler">Die Schuld auf sich nehmen.</div>
+  </div>
+  <p>4. In der Umgangssprache: Sich überschneiden oder verdoppeln:</p>
+  <div class="examples">
+    <div class="jp">予定[よてい]がかぶる。</div>
+    <div class="de spoiler">Termine überschneiden sich.</div>
+  </div>
+  <p>5. Im Theater-Jargon: Ausverkauft sein:</p>
+  <div class="examples">
+    <div class="jp">今日[きょう]の 公演[こうえん]は 満員[まんいん]かぶりだ。</div>
+    <div class="de spoiler">Die heutige Aufführung ist ausverkauft.</div>
+  </div>
+  <p>6. In Verbindung mit anderen Verben kann es Misserfolg ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">高[たか]くかぶる。</div>
+    <div class="de spoiler">Zu viel bezahlen (beim Einkaufen).</div>
+  </div>

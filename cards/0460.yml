@@ -106,4 +106,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">程度[ていど]</span> hat mehrere Verwendungen:</p>
+
+  <h3>Als Nomen:</h3>
+  <ul>
+    <li>Bedeutet "Grad", "Ausmaß" oder "Niveau"</li>
+    <div class="examples">
+      <div class="jp">損壊[そんかい]の<u>程度[ていど]</u>は 約[やく]１５％との 評価[ひょうか]を 受[う]けている。</div>
+      <div class="de spoiler">Der geschätzte Schaden beträgt ca. 15%.</div>
+    </div>
+    <li>Kann auch "bis zu einem gewissen Grad" ausdrücken</li>
+    <div class="examples">
+      <div class="jp">普段[ふだん]ならばカツマタのわがままはある<u>程度[ていど]</u>まで 許[ゆる]すつもりでいる。</div>
+      <div class="de spoiler">Normalerweise toleriere ich Katsumatas Rücksichtslosigkeit bis zu einem gewissen Grad.</div>
+    </div>
+  </ul>
+
+  <h3>Als Suffix:</h3>
+  <ul>
+    <li>Bedeutet "ungefähr" oder "etwa" nach Mengenangaben</li>
+    <div class="examples">
+      <div class="jp">朝[あさ]のうちに 四時間[よじかん]<u>程度[ていど]</u>はやらせたい。</div>
+      <div class="de spoiler">Ich möchte sie etwa vier Stunden am Morgen arbeiten lassen.</div>
+    </div>
+  </ul>
+
+  <h3>In Ausdrücken:</h3>
+  <ul>
+    <li><span class="jp">程度問題[ていどもんだい]</span>: "eine Frage des Grades"</li>
+    <div class="examples">
+      <div class="jp">甘[あま]いのが 好[す]きといっても<u>程度問題[ていどもんだい]</u>だ。</div>
+      <div class="de spoiler">Auch wenn man süße Sachen mag, hängt es davon ab, wie süß etwas ist.</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie, dass <span class="jp">程度[ていど]</span> oft verwendet wird, um Einschränkungen oder Relativität auszudrücken.</p>

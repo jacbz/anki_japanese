@@ -2,7 +2,7 @@ Rang: 3077
 Lemma: 株
 Lesung: かぶ
 Tonhöhen: /^
-Definition: Aktie; Anteil
+Definition: Aktie; Wurzel; Ansehen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -14,12 +14,121 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   A社の株を買った。
-  A 社[しゃ]の 株[かぶ]を 買[か]った。
-  Ich habe Aktien von Unternehmen A gekauft.
+  A社[しゃ]の 株[かぶ]を 買[か]った。
+  Ich habe Aktien der Firma A gekauft.
+
+  株価が急激に上昇している。
+  株価[かぶか]が 急激[きゅうげき]に 上昇[じょうしょう]している。
+  Der Aktienkurs steigt rapide an.
+
+  彼は株主総会に出席した。
+  彼[かれ]は 株主総会[かぶぬしそうかい]に 出席[しゅっせき]した。
+  Er nahm an der Aktionärsversammlung teil.
+
+  株式市場が活況を呈している。
+  株式市場[かぶしきしじょう]が 活況[かっきょう]を 呈[てい]している。
+  Der Aktienmarkt zeigt sich lebhaft.
+
+  株取引で大きな利益を得た。
+  株取引[かぶとりひき]で 大[おお]きな 利益[りえき]を 得[え]た。
+  Ich habe durch Aktienhandel einen großen Gewinn erzielt.
+
+  株屋からの助言を参考にした。
+  株屋[かぶや]からの 助言[じょげん]を 参考[さんこう]にした。
+  Ich habe den Rat des Börsenmaklers berücksichtigt.
+
+  外国株に投資するリスクは高い。
+  外国株[がいこくかぶ]に 投資[とうし]するリスクは 高[たか]い。
+  Das Risiko, in ausländische Aktien zu investieren, ist hoch.
+
+  銀行株が好調な滑り出しを見せている。
+  銀行株[ぎんこうかぶ]が 好調[こうちょう]な 滑[すべ]り 出[だ]しを 見[み]せている。
+  Bankaktien zeigen einen guten Start.
+
+  一流株を中心にポートフォリオを組んだ。
+  一流株[いちりゅうかぶ]を 中心[ちゅうしん]にポートフォリオを 組[く]んだ。
+  Ich habe ein Portfolio mit Fokus auf Blue-Chip-Aktien zusammengestellt.
+
+  新株の発行により資金を調達した。
+  新株[しんかぶ]の 発行[はっこう]により 資金[しきん]を 調達[ちょうたつ]した。
+  Durch die Ausgabe neuer Aktien wurde Kapital beschafft.
+
+  優先株の配当率が発表された。
+  優先株[ゆうせんかぶ]の 配当率[はいとうりつ]が 発表[はっぴょう]された。
+  Die Dividendenrate für Vorzugsaktien wurde bekannt gegeben.
+
+  株でもうけるのは難しい。
+  株[かぶ]でもうけるのは 難[むずか]しい。
+  Es ist schwierig, mit Aktien Geld zu verdienen.
+
+  彼は株に手を出して大損した。
+  彼[かれ]は 株[かぶ]に 手[て]を 出[だ]して 大損[おおぞん]した。
+  Er hat viel Geld verloren, als er anfing, mit Aktien zu spekulieren.
+
+  5,000円の株を100株購入した。
+  5,000円[えん]の 株[かぶ]を100株[ひゃくかぶ] 購入[こうにゅう]した。
+  Ich habe 100 Aktien zu je 5.000 Yen gekauft.
+
+  株式操作の疑いで調査が行われている。
+  株式操作[かぶしきそうさ]の 疑[うたが]いで 調査[ちょうさ]が 行[おこな]われている。
+  Es wird wegen des Verdachts auf Aktienmanipulation ermittelt.
+
+  彼の株が上がった。
+  彼[かれ]の 株[かぶ]が 上[あ]がった。
+  Sein Ansehen ist gestiegen.
+
+  新入社員が上司の株を奪った。
+  新入社員[しんにゅうしゃいん]が 上司[じょうし]の 株[かぶ]を 奪[うば]った。
+  Der neue Mitarbeiter hat seinem Vorgesetzten den Rang abgelaufen.
+
+  この植物は一株から多くの実がなる。
+  この 植物[しょくぶつ]は 一株[いっかぶ]から 多[おお]くの 実[み]がなる。
+  Diese Pflanze trägt viele Früchte an einem einzigen Stamm.
+
+  畑に大根の株が並んでいる。
+  畑[はたけ]に 大根[だいこん]の 株[かぶ]が 並[なら]んでいる。
+  Auf dem Feld stehen Rettichwurzeln in Reihen.
+
+  木の株を抜いて畑を整備した。
+  木[き]の 株[かぶ]を 抜[ぬ]いて 畑[はたけ]を 整備[せいび]した。
+  Ich habe die Baumstümpfe entfernt und das Feld vorbereitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>株 hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Grundbedeutung: Wurzel, Baumstumpf</li>
+    <li>In der Wirtschaft: Aktie, Kapitalanteil</li>
+    <div class="examples">
+      <div class="jp">奴[やつ]の 資金源[しきんげん]<u>は</u>株[かぶ]なんだ。</div>
+      <div class="de spoiler">Seine Geldquelle sind Aktien.</div>
+    </div>
+    <li>Übertragene Bedeutung: Position, Status, Rang</li>
+  </ul>
+  <p>Wichtige zusammengesetzte Begriffe mit 株:</p>
+  <ul>
+    <li><span class="jp">株価[かぶか]</span>: Aktienkurs</li>
+    <li><span class="jp">株券[かぶけん]</span>: Aktienurkunde</li>
+    <li><span class="jp">株主[かぶぬし]</span>: Aktionär</li>
+    <li><span class="jp">株式[かぶしき]</span>: Aktie (formeller Begriff)</li>
+  </ul>
+  <p>株 wird auch als Zählwort verwendet:</p>
+  <ul>
+    <li>Für Wurzelpflanzen</li>
+    <li>Für Bakterien</li>
+    <li>Für Aktien</li>
+  </ul>
+  <p>Einige Redewendungen mit 株:</p>
+  <div class="examples">
+    <div class="jp">株[かぶ]が 上[あ]がる</div>
+    <div class="de spoiler">(Aktien) im Wert steigen; auch im übertragenen Sinne: an Ansehen gewinnen</div>
+  </div>
+  <div class="examples">
+    <div class="jp">株[かぶ]を 奪[うば]う</div>
+    <div class="de spoiler">Jemandes Position oder Rolle übernehmen (wörtlich: jemandes Aktien stehlen)</div>
+  </div>
+  </p>

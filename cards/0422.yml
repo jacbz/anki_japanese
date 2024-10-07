@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>共 (tomo) hat zwei Hauptverwendungen:</p>
+  <ol>
+    <li>Als Nomen oder in zusammengesetzten Wörtern:</li>
+    <ul>
+      <li>Es drückt Gemeinsamkeit, Gleichheit oder Zusammensein aus.</li>
+      <li>Oft wird es als erster Teil in zusammengesetzten Nomen verwendet.</li>
+      <div class="examples">
+        <div class="jp">共[とも]働[はたら]き</div>
+        <div class="de spoiler">gemeinsames Arbeiten (z.B. wenn beide Ehepartner arbeiten)</div>
+        <div class="jp">共[とも]倒[たお]れ</div>
+        <div class="de spoiler">gemeinsamer Untergang</div>
+      </div>
+    </ul>
+    <li>Als Suffix:</li>
+    <ul>
+      <li>Es bedeutet "einschließlich" oder "inklusive".</li>
+      <li>Bei Nomen, die eine Mehrzahl ausdrücken, bedeutet es "alle" oder "zusammen".</li>
+      <div class="examples">
+        <div class="jp">三人[さんにん]<u>とも</u>精密計測器[せいみつけいそくき]のうえにかがみこんで</div>
+        <div class="de spoiler">Alle drei standen über ihre Präzisionsinstrumente gebeugt</div>
+      </div>
+      <li>Mit einer Verneinung bedeutet es "weder ... noch" oder "keiner von ...".</li>
+      <div class="examples">
+        <div class="jp">二人[ふたり]<u>とも</u>チェス<u>は</u>あまり上手[じょうず]じゃない</div>
+        <div class="de spoiler">Keiner von euch beiden ist besonders gut im Schach</div>
+      </div>
+    </ul>
+  </ol>
+  </p>

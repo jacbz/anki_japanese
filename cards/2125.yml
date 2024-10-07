@@ -2,7 +2,7 @@ Rang: 2125
 Lemma: 間
 Lesung: かん
 Tonhöhen: \.
-Definition: während; zwischen
+Definition: Zwischenraum; Intervall
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -14,12 +14,123 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このバスは東京、大阪間を走っている。
-  このバスは 東京[とうきょう]、 大阪[おおさか] 間[かん]を 走[はし]っている。
-  Dieser Bus verkehrt zwischen Tokio und Osaka.
+  この バス は 東京[とうきょう]、大阪間[おおさかかん]を 走[はし]っている。
+  Dieser Bus verkehrt zwischen Tokyo und Osaka.
+
+  お昼休みの間、近くの公園でリラックスしています。
+  お 昼休[ひるやす]みの 間[あいだ]、近[ちか]くの 公園[こうえん]でリラックスしています。
+  Während der Mittagspause entspanne ich mich in einem nahegelegenen Park.
+
+  彼らの間には深い信頼関係がある。
+  彼[かれ]らの 間[あいだ]には 深[ふか]い 信頼関係[しんらいかんけい]がある。
+  Zwischen ihnen besteht eine tiefe Vertrauensbeziehung.
+
+  過去三年間に大きな変化がありました。
+  過去[かこ] 三年間[さんねんかん]に 大[おお]きな 変化[へんか]がありました。
+  In den letzten drei Jahren gab es große Veränderungen.
+
+  三十分間の休憩を取りましょう。
+  三十分間[さんじっぷんかん]の 休憩[きゅうけい]を 取[と]りましょう。
+  Lass uns eine dreißigminütige Pause machen.
+
+  夫婦間のコミュニケーションは大切です。
+  夫婦間[ふうふかん]のコミュニケーションは 大切[たいせつ]です。
+  Die Kommunikation zwischen Ehepartnern ist wichtig.
+
+  三国間の条約が締結されました。
+  三国間[さんごくかん]の 条約[じょうやく]が 締結[ていけつ]されました。
+  Ein Vertrag zwischen drei Ländern wurde abgeschlossen.
+
+  日独間の交流が活発になっています。
+  日独間[にちどくかん]の 交流[こうりゅう]が 活発[かっぱつ]になっています。
+  Der Austausch zwischen Japan und Deutschland wird lebhafter.
+
+  東京横浜間の主な駅を覚えておく必要があります。
+  東京横浜間[とうきょうよこはまかん]の 主[おも]な 駅[えき]を 覚[おぼ]えておく 必要[ひつよう]があります。
+  Es ist notwendig, sich die wichtigsten Bahnhöfe zwischen Tokyo und Yokohama zu merken.
+
+  間髪を入れずに返事をしました。
+  間髪[かんぱつ]を 入[い]れずに 返事[へんじ]をしました。
+  Ich antwortete ohne zu zögern.
+
+  その間に何が起こったのか教えてください。
+  その 間[あいだ]に 何[なに]が 起[お]こったのか 教[おし]えてください。
+  Bitte erzählen Sie mir, was in der Zwischenzeit passiert ist.
+
+  彼女は講義と講義の間に休憩を取ります。
+  彼女[かのじょ]は 講義[こうぎ]と 講義[こうぎ]の 間[あいだ]に 休憩[きゅうけい]を 取[と]ります。
+  Sie macht zwischen den Vorlesungen eine Pause.
+
+  この二つの都市間の距離はおよそ200キロメートルです。
+  この 二[ふた]つの 都市間[としかん]の 距離[きょり]はおよそ200キロメートルです。
+  Die Entfernung zwischen diesen beiden Städten beträgt ungefähr 200 Kilometer.
+
+  会議と会議の間に短い休憩を入れましょう。
+  会議[かいぎ]と 会議[かいぎ]の 間[あいだ]に 短[みじか]い 休憩[きゅうけい]を 入[い]れましょう。
+  Lass uns zwischen den Besprechungen eine kurze Pause einlegen.
+
+  彼らの間には長年の友情がある。
+  彼[かれ]らの 間[あいだ]には 長年[ながねん]の 友情[ゆうじょう]がある。
+  Zwischen ihnen besteht eine langjährige Freundschaft.
+
+  一週間の間に宿題を終わらせなければならない。
+  一週間[いっしゅうかん]の 間[あいだ]に 宿題[しゅくだい]を 終[お]わらせなければならない。
+  Ich muss die Hausaufgaben innerhalb einer Woche erledigen.
+
+  二つの国間の緊張が高まっている。
+  二[ふた]つの 国間[こっかん]の 緊張[きんちょう]が 高[たか]まっている。
+  Die Spannungen zwischen den beiden Ländern nehmen zu.
+
+  彼女は五分間で問題を解決した。
+  彼女[かのじょ]は 五分間[ごふんかん]で 問題[もんだい]を 解決[かいけつ]した。
+  Sie löste das Problem in fünf Minuten.
+
+  親子間の対話は重要だ。
+  親子間[おやこかん]の 対話[たいわ]は 重要[じゅうよう]だ。
+  Der Dialog zwischen Eltern und Kindern ist wichtig.
+
+  二つの選択肢の間で迷っています。
+  二[ふた]つの 選択肢[せんたくし]の 間[あいだ]で 迷[まよ]っています。
+  Ich schwanke zwischen zwei Optionen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>間 wird verwendet, um räumliche oder zeitliche Distanzen, Zwischenräume, Intervalle oder Beziehungen auszudrücken.</p>
+  <ul>
+    <li>Als Suffix kann es verschiedene Bedeutungen haben:</li>
+    <ul>
+      <li>Zeitdauer:</li>
+      <div class="examples">
+        <div class="jp">三十分[さんじっぷん]<u>間</u></div>
+        <div class="de spoiler">dreißig Minuten lang</div>
+      </div>
+      <li>Zeitraum:</li>
+      <div class="examples">
+        <div class="jp">過去[かこ]三年[さんねん]<u>間</u>に</div>
+        <div class="de spoiler">während der vergangenen drei Jahre</div>
+      </div>
+      <li>Zwischen oder unter (für Beziehungen):</li>
+      <div class="examples">
+        <div class="jp">夫婦[ふうふ]<u>間</u>のもめごと</div>
+        <div class="de spoiler">der Streit zwischen Ehepartnern</div>
+        <div class="jp">日独[にちどく]<u>間</u>の 交流[こうりゅう]</div>
+        <div class="de spoiler">der Austausch zwischen Japan und Deutschland</div>
+      </div>
+      <li>Räumlich zwischen:</li>
+      <div class="examples">
+        <div class="jp">東京[とうきょう]横浜[よこはま]<u>間</u>の 主[おも]な 駅[えき]</div>
+        <div class="de spoiler">die größeren Bahnhöfe zwischen Tokyo und Yokohama</div>
+      </div>
+    </ul>
+  </ul>
+  <p>Es gibt einige feste Ausdrücke mit 間:</p>
+  <ul>
+    <li><span class="jp"><u>間</u>に 乗[じょう]じる</span>: eine Gelegenheit nutzen</li>
+    <li><span class="jp"><u>間</u>を 生[しょう]ずる</span>: zu Auseinandersetzungen führen; mit jemandem in Zwist geraten</li>
+    <li><span class="jp"><u>間</u>に 髪[かみ]を 入[い]れず</span>: sofort, unverzüglich, im Nu</li>
+  </ul>
+  </p>

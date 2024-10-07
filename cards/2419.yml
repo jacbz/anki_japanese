@@ -2,7 +2,7 @@ Rang: 2419
 Lemma: 何と
 Lesung: なんと
 Tonhöhen: \..
-Definition: wie, was
+Definition: wie; was für ein(e)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv, interj
@@ -17,9 +17,114 @@ Beispielsätze: |-
   なんと 素晴[すば]らしい 歌[うた]だろう。
   Was für ein schönes Lied!
 
+  なんと素晴らしい景色だろう。
+  なんと 素晴[すば]らしい 景色[けしき]だろう。
+  Was für eine wundervolle Aussicht!
+
+  お別れの手紙を書くのは何と難しいことでしょう。
+  お 別[わか]れの 手紙[てがみ]を 書[か]くのは 何[なん]と 難[むずか]しいことでしょう。
+  Wie schwer ist es, einen Abschiedsbrief zu schreiben!
+
+  彼らが不在の二日間は、何と長かったことだろう。
+  彼[かれ]らが 不在[ふざい]の 二日間[ふつかかん]は、何[なん]と 長[なが]かったことだろう。
+  Wie lang waren die zwei Tage ihrer Abwesenheit gewesen!
+
+  何とまあ、お久しぶり。
+  何[なん]とまあ、お 久[ひさ]しぶり。
+  Ach, wir haben uns ja lange nicht gesehen!
+
+  なんと、その人が真犯人だったとは。
+  なんと、その 人[ひと]が 真犯人[しんはんにん]だったとは。
+  Also, dass der der Täter gewesen ist!
+
+  何と言っても、彼女は素晴らしい歌手だ。
+  何[なん]と 言[い]っても、彼女[かのじょ]は 素晴[すば]らしい 歌手[かしゅ]だ。
+  Wie man es auch dreht und wendet, sie ist eine hervorragende Sängerin.
+
+  何と難しい問題なんだ。
+  何[なん]と 難[むずか]しい 問題[もんだい]なんだ。
+  Was für eine schwierige Frage!
+
+  なんと、今日は雪が降っている。
+  なんと、今日[きょう]は 雪[ゆき]が 降[ふ]っている。
+  Aber nein, heute schneit es!
+
+  何と言えばいいか分からない。
+  何[なん]と 言[い]えばいいか 分[わ]からない。
+  Ich weiß nicht, wie ich es ausdrücken soll.
+
+  なんと、試験に合格したんだって。
+  なんと、試験[しけん]に 合格[ごうかく]したんだって。
+  Stell dir vor, ich habe die Prüfung bestanden!
+
+  何と美しい花だろう。
+  何[なん]と 美[うつく]しい 花[はな]だろう。
+  Was für eine wunderschöne Blume!
+
+  なんと、彼は一週間で10キロ痩せたそうだ。
+  なんと、彼[かれ]は 一週間[いっしゅうかん]で10キロ 痩[や]せたそうだ。
+  Sage und schreibe, er soll in einer Woche 10 Kilo abgenommen haben.
+
+  何と言ったらいいのか分からない状況だった。
+  何[なん]と 言[い]ったらいいのか 分[わ]からない 状況[じょうきょう]だった。
+  Es war eine Situation, in der ich nicht wusste, was ich sagen sollte.
+
+  なんと、彼女は3カ国語を話せるんだって。
+  なんと、彼女[かのじょ]は3カ国語[かこくご]を 話[はな]せるんだって。
+  Stell dir vor, sie kann drei Sprachen sprechen!
+
+  何と、この料理はとてもおいしい。
+  何[なん]と、この 料理[りょうり]はとても おいしい。
+  Meine Güte, dieses Gericht ist sehr lecker!
+
+  何と言えば良いのか。この状況は複雑すぎる。
+  何[なん]と 言[い]えば 良[よ]いのか。この 状況[じょうきょう]は 複雑[ふくざつ]すぎる。
+  Wie soll ich das nur sagen? Diese Situation ist zu kompliziert.
+
+  なんと、彼は宝くじで1000万円当たったらしい。
+  なんと、彼[かれ]は 宝[たから]くじで1000万[まん] 円[えん] 当[あ]たったらしい。
+  Stell dir vor, er soll in der Lotterie 10 Millionen Yen gewonnen haben.
+
+  何と言うか、この味は独特だね。
+  何[なん]と 言[い]うか、この 味[あじ]は 独特[どくとく]だね。
+  Wie soll ich sagen, dieser Geschmack ist einzigartig.
+
+  何とも言えない気持ちだ。
+  何[なん]とも 言[い]えない 気持[きも]ちだ。
+  Es ist ein unbeschreibliches Gefühl.
+
+  なんと、この本は100年以上前に書かれたものだ。
+  なんと、この 本[ほん]は100年[ねん] 以上[いじょう] 前[まえ]に 書[か]かれたものだ。
+  Stell dir vor, dieses Buch wurde vor über 100 Jahren geschrieben.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>何と (なんと) ist ein vielseitiges Adverb und eine Interjektion mit mehreren Bedeutungen:</p>
+  <ul>
+    <li>Es drückt Erstaunen oder Betonung aus:</li>
+    <div class="examples">
+      <div class="jp">暗殺者[あんさつしゃ]。<u>なんと</u> 忌[い]まわしい 言葉[ことば]だ。</div>
+      <div class="de spoiler">Meuchelmörder! Was für ein abscheuliches Wort!</div>
+    </div>
+    <li>Es wird verwendet, um nach der Art und Weise zu fragen oder um Verwunderung auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">お 別[わか]れの 手紙[てがみ]を 書[か]くと 言[い]うのは<u>何と</u> 難[むずか]しい 事[こと]で 御座[ござ]いましょう。</div>
+      <div class="de spoiler">Wie schwer ist es, einen 'Abschiedsbrief' zu schreiben!</div>
+    </div>
+    <li>Es kann auch verwendet werden, um Überraschung oder Ungläubigkeit auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>なんと</u>、 添加物[てんかぶつ]はごく 微量[びりょう]のパラベンのみ。</div>
+      <div class="de spoiler">Aber nein, es wird nur eine winzige Menge Paraben zugesetzt, sonst nichts.</div>
+    </div>
+    <li>In manchen Kontexten kann es auch "nicht wahr?" oder "oder?" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>なんと</u>うれしいじゃあありませんか。</div>
+      <div class="de spoiler">Ist das nicht schön?</div>
+    </div>
+  </ul>
+  <p>Eine häufige Redewendung mit 何と ist 何と言っても (なんといっても), was "wie dem auch sei" oder "auf jeden Fall" bedeutet.</p>
+  </p>

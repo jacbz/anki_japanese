@@ -108,18 +108,43 @@ Beispielsätze: |-
 # </div>
 Notiz: |-
   <p>は wird verwendet, um das Thema eines Satzes zu markieren.</p>
+  <ul>
+    <li>Es grenzt das Subjekt ein und wird oft in allgemeinen Aussagen und Definitionen verwendet.</li>
+    <div class="examples">
+      <div class="jp">この 本[ほん]<u>は</u> 面白[おもしろ]いです。</div>
+      <div class="de spoiler">Dieses Buch ist interessant.</div>
+      <div class="jp">象[ぞう]<u>は</u> 鼻[はな]が 長[なが]いです。</div>
+      <div class="de spoiler">Elefanten haben lange Rüssel.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um das Objekt zu betonen, wenn es Thema der Aussage ist.</li>
+    <div class="examples">
+      <div class="jp">酒[さけ]<u>は</u> 飲[の]まない。</div>
+      <div class="de spoiler">Ich trinke keinen Alkohol.</div>
+      <div class="jp">この 本[ほん]<u>は</u>もう 読[よ]んだ。</div>
+      <div class="de spoiler">Dieses Buch habe ich schon gelesen.</div>
+    </div>
+  </ul>
+  <p>Es kann auch dazu dienen, etwas hervorzuheben.</p>
+  <ul>
+    <div class="examples">
+      <div class="jp">犬小屋[いぬごや]<u>は</u>あったが、犬[いぬ]<u>は</u>いなかった。</div>
+      <div class="de spoiler">Eine Hundehütte gab es, aber keinen Hund.</div>
+    </div>
+    <li>Bei Adjektiven wird es mit der Verneinung verwendet:</li>
+    <div class="examples">
+      <div class="jp">安[やす]く<u>は</u>ない。</div>
+      <div class="de spoiler">Es ist nicht billig.</div>
+    </div>
+  </ul>
+  <p>Es kann einen Kontrast anzeigen, oft wenn ein anderes Element unausgesprochen ist.</p>
   <div class="examples">
-    <div class="jp">私[わたし]<u>は</u> 学生[がくせい]です。</div>
-    <div class="de spoiler">Ich bin Student.</div>
-    <div class="jp">象[ぞう]<u>は</u> 鼻[はな]が 長[なが]いです。</div>
-    <div class="de spoiler">Elefanten haben lange Rüssel.</div>
-    <div class="jp">この 本[ほん]<u>は</u> 面白[おもしろ]いです。</div>
-    <div class="de spoiler">Dieses Buch ist interessant.</div>
+    <div class="jp">教室[きょうしつ]で<u>は</u>たばこをすわないでください。</div>
+    <div class="de spoiler">Im Klassenzimmer bitte nicht rauchen!</div>
+    <div class="jp">九州[きゅうしゅう]へ<u>は</u> 行[い]かなかった。</div>
+    <div class="de spoiler">Nach Kyūshū bin ich nicht gefahren [wohl aber anderswohin].</div>
   </div>
-  <p>Es kann auch zur Betonung oder zum Kontrastieren verwendet werden.</p>
+  <p>Es kann eine Einschränkung ausdrücken, oft in Verbindung mit が (aber).</p>
   <div class="examples">
-    <div class="jp">私[わたし]<u>は</u> 日本語[にほんご]を 勉強[べんきょう]していますが、中国[ちゅうごく]語[ご]は 勉強[べんきょう]していません。</div>
-    <div class="de spoiler">Ich lerne Japanisch, aber ich lerne kein Chinesisch.</div>
-    <div class="jp">彼[かれ]<u>は</u> 頭[あたま]はいいですが、性格[せいかく]はあまりよくありません。</div>
-    <div class="de spoiler">Er ist zwar intelligent, hat aber keinen besonders guten Charakter.</div>
+    <div class="jp">寒[さむ]く<u>は</u>あるが、耐[た]えられる。</div>
+    <div class="de spoiler">Es ist zwar kalt, aber erträglich.</div>
   </div>

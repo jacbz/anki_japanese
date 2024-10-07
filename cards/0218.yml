@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>こんな ist ein attributives Adjektiv, das "solch", "derartig" oder "so ein(e)" bedeutet.</p>
+  <ul>
+    <li>Es wird vor Substantiven verwendet, um auf etwas Nahes oder gerade Erwähntes zu verweisen:</li>
+    <div class="examples">
+      <div class="jp">人生[じんせい]<u>は</u><u>こんな</u>もの。</div>
+      <div class="de spoiler">So ist das Leben (nun mal).</div>
+    </div>
+    <li>Es kann auch Überraschung oder Unerwartetes ausdrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>こんな</u>はず<u>は</u>ない。</div>
+      <div class="de spoiler">Das hätte ich nicht erwartet. / So etwas dürfte eigentlich nicht passieren.</div>
+    </div>
+    <li>Es wird oft verwendet, um etwas zu beschreiben oder zu vergleichen:</li>
+    <div class="examples">
+      <div class="jp">私[わたし]<u>は</u>これまで、<u>こんな</u> 不思議[ふしぎ]な 表情[ひょうじょう]の 子供[こども]を 見[み]た 事[こと]が、いちども 無[な]かった。</div>
+      <div class="de spoiler">Nie zuvor hatte ich ein Kind mit einem so seltsamen Gesichtsausdruck gesehen.</div>
+    </div>
+  </ul>
+  <p>こんなに bedeutet "so sehr" oder "derart" und wird oft mit Adjektiven oder Adverbien verwendet:</p>
+  <div class="examples">
+    <div class="jp">なぜ 自分[じぶん]<u>は</u><u>こんなに</u>あの 顔[かお]に 惹[ひ]かれるのか。</div>
+    <div class="de spoiler">Was faszinierte ihn nur so an ihrem Gesicht?</div>
+  </div>
+  <p>こんなに kann auch Überraschung oder Erstaunen ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">戦争[せんそう]の 影響[えいきょう]が<u>こんなに</u>まで 病院[びょういん]にきているとは 大連[だいれん]にいたわたし<u>には</u> 夢[ゆめ]にも 想像[そうぞう]できないことでした。</div>
+    <div class="de spoiler">Daß sich der Krieg so sehr auch auf die Klinik auswirken würde, hätte ich mir in Dairen nicht einmal träumen lassen.</div>
+  </div>
+  </p>

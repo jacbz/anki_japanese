@@ -102,4 +102,78 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Die Partikel に hat vielfältige Verwendungen im Japanischen:</p>
+
+  <h3>1. Adverbiale Bestimmungen</h3>
+  <ul>
+    <li>Ort oder Richtung:</li>
+    <div class="examples">
+      <div class="jp">隣[となり]の 部屋[へや]<u>に</u> 電気[でんき]をつけた。</div>
+      <div class="de spoiler">Er machte im Nebenzimmer Licht.</div>
+    </div>
+
+    <li>Zeit:</li>
+    <div class="examples">
+      <div class="jp">十一時[じゅういちじ]<u>に</u> 電気[でんき]を 消[け]した。</div>
+      <div class="de spoiler">Um elf Uhr löschte ich das Licht.</div>
+    </div>
+  </ul>
+
+  <h3>2. Indirektes Objekt</h3>
+  <ul>
+    <li>Empfänger einer Handlung:</li>
+    <div class="examples">
+      <div class="jp">娘[むすめ]<u>に</u>は 出会[であ]いそびれた。</div>
+      <div class="de spoiler">Leider traf ich das Mädchen nicht.</div>
+    </div>
+
+    <li>Vergleich:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]<u>に</u>かなう 同級生[どうきゅうせい]はなかった。</div>
+      <div class="de spoiler">Niemand aus unserer Klasse konnte es mit ihm aufnehmen.</div>
+    </div>
+
+    <li>Zweck oder Grund:</li>
+    <div class="examples">
+      <div class="jp">女[おんな]を 釣[つ]る<u>に</u>、どれだけ 便利[べんり]かしれなかった。</div>
+      <div class="de spoiler">Es erwies ihm ungeahnte Dienste beim Angeln von Frauen.</div>
+    </div>
+  </ul>
+
+  <h3>3. Passiv und Kausativ</h3>
+  <p>Zur Bezeichnung des logischen Subjekts:</p>
+  <div class="examples">
+    <div class="jp">狼[おおかみ]<u>に</u> 襲[おそ]われた。</div>
+    <div class="de spoiler">Er wurde von Wölfen angefallen.</div>
+  </div>
+
+  <h3>4. Höflichkeitsformen</h3>
+  <p>Zur Bezeichnung des Subjekts in ehrerbietigen Ausdrücken:</p>
+  <div class="examples">
+    <div class="jp">お 父様[とうさま]<u>に</u>は 別[べつ]に 議論[ぎろん]は 無[な]い。</div>
+    <div class="de spoiler">Mein Vater hatte dazu keine besondere Meinung.</div>
+  </div>
+
+  <h3>5. Betonung von Verben</h3>
+  <p>Wird nach der Konjunktionalform eines Verbs verwendet, gefolgt vom gleichen Verb:</p>
+  <div class="examples">
+    <div class="jp">走[はし]り<u>に</u> 走[はし]りました。</div>
+    <div class="de spoiler">Sie rannten und jagten.</div>
+  </div>
+
+  <h3>6. Unmöglichkeit</h3>
+  <p>In Verbindung mit der Verneinung des Potentials:</p>
+  <div class="examples">
+    <div class="jp">見[み]たく<u>に</u>も 見[み]られない。</div>
+    <div class="de spoiler">Ich kann es nicht sehen, selbst wenn ich möchte.</div>
+  </div>
+
+  <h3>7. Aufzählung</h3>
+  <p>Zur Aneinanderreihung von zusammengehörigen Dingen:</p>
+  <div class="examples">
+    <div class="jp">テーブル<u>に</u>、椅子[いす]が 三[みっ]つ。</div>
+    <div class="de spoiler">Ein Tisch und drei Stühle.</div>
+  </div>
+
+  <p>Die Partikel に hat noch weitere Verwendungen, aber dies sind die häufigsten und wichtigsten.</p>

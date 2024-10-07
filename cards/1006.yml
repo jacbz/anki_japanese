@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">空[そら]</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Als Substantiv bedeutet es "Himmel" oder "Luft":</li>
+    <div class="examples">
+      <div class="jp"><u>空[そら]</u>には 白[しろ]い 雲[くも]が 流[なが]れていた。</div>
+      <div class="de spoiler">Am Himmel schwebten weiße Wolken.</div>
+    </div>
+
+    <li>In der Form <span class="jp">空[そら]で</span> bedeutet es "auswendig":</li>
+    <div class="examples">
+      <div class="jp"><u>空[そら]</u>で 弾[ひ]く</div>
+      <div class="de spoiler">Etwas auswendig spielen</div>
+    </div>
+
+    <li>Es kann auch "Lüge" oder "Falschheit" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>空[そら]</u>を 言[い]う</div>
+      <div class="de spoiler">Lügen erzählen</div>
+    </div>
+
+    <li>Als Präfix vor Adjektiven bedeutet es "irgendwie":</li>
+    <div class="examples">
+      <div class="jp"><u>空[そら]</u>恐[おそ]ろしい</div>
+      <div class="de spoiler">Irgendwie furchteinflößend</div>
+    </div>
+
+    <li>Als Präfix kann es auch "zum Schein" oder "falsch" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>空[そら]</u>泣[な]き</div>
+      <div class="de spoiler">So tun, als ob man weint; falsche Tränen</div>
+    </div>
+  </ul>
+
+  <p>Es gibt einige feste Ausdrücke mit <span class="jp">空[そら]</span>:</p>
+  <ul>
+    <li><span class="jp">上[うわ]の<u>空[そら]</u></span>: geistesabwesend, unaufmerksam</li>
+  </ul>

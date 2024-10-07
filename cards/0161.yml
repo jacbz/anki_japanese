@@ -110,4 +110,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ほど wird verwendet, um einen Grad oder ein Ausmaß auszudrücken.</p>
+  <ul>
+    <li>Es kann bedeuten "so sehr, dass..." oder "zu... um...":</li>
+    <div class="examples">
+      <div class="jp">足[あし]の 踏[ふ]み 場[ば]もない<u>ほど</u> 混[こ]みあっていて</div>
+      <div class="de spoiler">So voll, dass man fast nicht stehen kann</div>
+      <div class="jp">耳[みみ]が 隠[かく]れる<u>ほど</u> 長[なが]い 髪[かみ]</div>
+      <div class="de spoiler">Haar, das so lang ist, dass es die Ohren bedeckt</div>
+    </div>
+    <li>Mit einer Verneinung bedeutet es "nicht so... dass" oder "nicht richtig...":</li>
+    <div class="examples">
+      <div class="jp">まだ 電燈[でんとう]をつける<u>ほど</u>の 時間[じかん]ではない。</div>
+      <div class="de spoiler">Es ist noch nicht so spät, dass man Licht machen müsste.</div>
+      <div class="jp">故障[こしょう]って<u>ほど</u>じゃないんですけど、ちょっと 調子[ちょうし]が 悪[わる]くて</div>
+      <div class="de spoiler">Es ist nicht richtig kaputt, nur nicht mehr ganz in Ordnung.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um ungefähre Mengen oder Zeitangaben auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">広[ひろ]さは 八畳[はちじょう]<u>ほど</u>で</div>
+      <div class="de spoiler">Es war ungefähr acht Tatami-Matten groß</div>
+      <div class="jp">岩[いわ]の 上[うえ]に 十人[じゅうにん]<u>ほど</u> 出現[しゅつげん]した。</div>
+      <div class="de spoiler">Auf dem Felsen erschienen etwa zehn Personen.</div>
+    </div>
+    <li>In der Form "Verb/Adjektiv (Konditionalform) + ば + Verb/Adjektiv (Grundform) + ほど" drückt es "je mehr... desto..." aus:</li>
+    <div class="examples">
+      <div class="jp">考[かんが]えれば 考[かんが]える<u>ほど</u> 段々[だんだん] 解[わか]らなくなって 了[しま]いました</div>
+      <div class="de spoiler">Je mehr ich darüber nachdenke, desto unverständlicher wird es mir</div>
+    </div>
+  </ul>
+  <p>In höflicher Sprache wird ほど oft in der Form ご⋯のほど oder お⋯のほど bei Bitten oder Wünschen verwendet:</p>
+  <div class="examples">
+    <div class="jp">御注意[ごちゅうい]の<u>ほど</u>をお 願[ねが]いする 次第[しだい]であります。</div>
+    <div class="de spoiler">Ich bitte Sie, äußerst sorgfältig vorzugehen.</div>
+  </div>
+  </p>

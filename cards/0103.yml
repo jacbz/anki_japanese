@@ -102,4 +102,30 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そこ wird verwendet, um auf Dinge oder Personen in der Nähe des Hörers oder auf zuvor erwähnte Orte zu verweisen.</p>
+  <ul>
+    <li>Es bedeutet "da", "dort" oder "da drüben":</li>
+    <div class="examples">
+      <div class="jp"><u>そこ</u>には 三台[さんだい]の 車[くるま]が 並[なら]んで 止[と]まっていた。</div>
+      <div class="de spoiler">Dort standen drei Autos nebeneinander.</div>
+    </div>
+    <li>Es kann auch auf abstrakte Sachverhalte hinweisen, oft mit まで:</li>
+    <div class="examples">
+      <div class="jp"><u>そこ</u>まで 話[はな]してくれて 本当[ほんとう]にありがとう。</div>
+      <div class="de spoiler">Vielen Dank, dass Sie mir das alles erzählt haben.</div>
+    </div>
+    <li>そこ kann auch "der Punkt" oder "das Wesentliche" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>そこ</u>が 味噌[みそ]だ。</div>
+      <div class="de spoiler">Das ist der springende Punkt.</div>
+      <div class="jp"><u>そこ</u>が 問題[もんだい]なのだ。</div>
+      <div class="de spoiler">Das ist eben das Problem.</div>
+    </div>
+  </ul>
+  <p>Einige nützliche Ausdrücke mit そこ:</p>
+  <ul>
+    <li><span class="jp"><u>そこ</u>へ 行[い]くと</span>: im Gegensatz dazu; während</li>
+    <li><span class="jp"><u>そこ</u>へ 持[も]ってきて</span>: (umgangssprachlich) obendrein; noch dazu</li>
+  </ul>
+  </p>

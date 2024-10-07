@@ -94,4 +94,28 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いや wird als Interjektion verwendet, um Verneinung oder Ablehnung auszudrücken.</p>
+  <ul>
+    <li>Es dient als verneinende Antwort auf eine Frage oder zum Ausdruck von Ablehnung:</li>
+    <div class="examples">
+      <div class="jp">「何[なに]か お 飲[の]みになりますか」「<u>いや</u>、 結構[けっこう]です」</div>
+      <div class="de spoiler">»Darf ich Ihnen etwas zu trinken anbieten?« »Nein, danke.«</div>
+    </div>
+    <li>Es kann auch als Antwort auf eine negativ formulierte Frage verwendet werden, um das Gegenteil auszudrücken (entspricht dem deutschen "doch"):</li>
+    <div class="examples">
+      <div class="jp">「あなた、 知[し]らないかもしれないけど⋯⋯」「<u>いや</u>、 知[し]っている。」</div>
+      <div class="de spoiler">»Du weißt es ja vielleicht nicht, aber …« »Doch, ich weiß es.«</div>
+    </div>
+    <li>Es wird auch verwendet, um eine eigene Aussage zu korrigieren oder zu präzisieren:</li>
+    <div class="examples">
+      <div class="jp"> 予想[よそう]していた 通[とお]り、<u>いや</u>、 私[わたし]が 計算[けいさん]していた 通[とお]り、⋯</div>
+      <div class="de spoiler">Wie ich vorausgeahnt, nein, wie ich mir ausgerechnet hatte, ⋯</div>
+    </div>
+  </ul>
+  <p>いや kann auch als Ausdruck von Überraschung, Bestürzung oder Erschrecken verwendet werden:</p>
+  <div class="examples">
+    <div class="jp"><u>いや</u>、こういう 文章[ぶんしょう]は 少[すこ]し パセティックにすぎるな。</div>
+    <div class="de spoiler">Ach, dieser Satz ist mir jetzt aber etwas zu pathetisch geraten.</div>
+  </div>
+  </p>

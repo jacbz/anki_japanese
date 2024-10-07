@@ -98,4 +98,21 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>なるほど ist ein Ausdruck der Zustimmung oder des Verstehens.</p>
+  <ul>
+    <li>Als Interjektion drückt es aus, dass man etwas verstanden hat oder einer Aussage zustimmt:</li>
+    <div class="examples">
+      <div class="jp">「あ、なるほど」</div>
+      <div class="de spoiler">„Ah, verstehe!"</div>
+      <div class="jp">なるほど、それも そう[そう]だ。</div>
+      <div class="de spoiler">Das stimmt, da hast du recht.</div>
+    </div>
+    <li>Als Adverb bedeutet es "tatsächlich" oder "wirklich" und drückt aus, dass etwas der Wahrheit entspricht:</li>
+    <div class="examples">
+      <div class="jp">なるほど、もっともらしいが、本当[ほんとう]かな？</div>
+      <div class="de spoiler">Plausibel, durchaus, aber ist dem wirklich so?</div>
+      <div class="jp">気[き]をつけていると、なるほど 写真[しゃしん]のとおりの 風体[ふうてい]をしたのがちゃんと 街[まち]をうろついている。</div>
+      <div class="de spoiler">Wenn man darauf achtet, sieht man tatsächlich Leute durch die Straßen laufen, die genauso aussehen wie auf dem Foto.</div>
+    </div>
+  </ul>

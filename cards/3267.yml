@@ -2,8 +2,8 @@ Rang: 3267
 Lemma: いかなる
 Lesung: ''
 Tonhöhen: /\..
-Definition: welche Art von, irgendeine
-Alternativschreibweisen: ''
+Definition: welche(r/s) auch immer; jede(r/s)
+Alternativschreibweisen: 如何なる
 Extra: '' # Nur bei suru-Verben
 Wortart: attr
 Register: ''
@@ -14,12 +14,120 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   いかなる理由があろうと、許されない。
-  いかなる 理由[りゆう]があろうと、 許[ゆる]されない。
-  Es ist aus irgendeinem Grund nicht erlaubt.
+  いかなる 理由[りゆう]があろうと、許[ゆる]されない。
+  Egal aus welchem Grund, es ist nicht erlaubt.
+
+  いかなる方法でも、目標を達成する。
+  いかなる 方法[ほうほう]でも、目標[もくひょう]を 達成[たっせい]する。
+  Mit welchen Mitteln auch immer, wir werden das Ziel erreichen.
+
+  いかなる困難があっても、諦めないでください。
+  いかなる 困難[こんなん]があっても、諦[あきら]めないでください。
+  Geben Sie nicht auf, egal welche Schwierigkeiten auch auftreten mögen.
+
+  いかなる事情があっても、約束は守るべきだ。
+  いかなる 事情[じじょう]があっても、約束[やくそく]は 守[まも]るべきだ。
+  Man sollte Versprechen halten, was auch immer passieren mag.
+
+  いかなる人物でも、平等に扱われるべきだ。
+  いかなる 人物[じんぶつ]でも、平等[びょうどう]に 扱[あつか]われるべきだ。
+  Jede Person sollte gleich behandelt werden, egal wer sie ist.
+
+  いかなる状況下でも、冷静さを保つことが大切です。
+  いかなる 状況下[じょうきょうか]でも、冷静[れいせい]さを 保[たも]つことが 大切[たいせつ]です。
+  Es ist wichtig, in jeder Situation die Ruhe zu bewahren.
+
+  いかなる代価を払っても、平和を守らなければならない。
+  いかなる 代価[だいか]を 払[はら]っても、平和[へいわ]を 守[まも]らなければならない。
+  Wir müssen den Frieden bewahren, koste es, was es wolle.
+
+  いかなる選択肢があるのか、慎重に検討しましょう。
+  いかなる 選択肢[せんたくし]があるのか、慎重[しんちょう]に 検討[けんとう]しましょう。
+  Lassen Sie uns sorgfältig überlegen, welche Optionen wir haben.
+
+  いかなる結果になろうとも、最善を尽くすことが大切だ。
+  いかなる 結果[けっか]になろうとも、最善[さいぜん]を 尽[つ]くすことが 大切[たいせつ]だ。
+  Es ist wichtig, sein Bestes zu geben, egal wie das Ergebnis ausfällt.
+
+  いかなる批判があっても、自分の信念を貫くべきだ。
+  いかなる 批判[ひはん]があっても、自分[じぶん]の 信念[しんねん]を 貫[つらぬ]くべきだ。
+  Man sollte an seinen Überzeugungen festhalten, egal welche Kritik man erhält.
+
+  いかなる時代でも、教育の重要性は変わらない。
+  いかなる 時代[じだい]でも、教育[きょういく]の 重要性[じゅうようせい]は 変[か]わらない。
+  Die Bedeutung der Bildung bleibt in jeder Epoche unverändert.
+
+  いかなる障害があっても、夢を諦めてはいけません。
+  いかなる 障害[しょうがい]があっても、夢[ゆめ]を 諦[あきら]めてはいけません。
+  Gib deine Träume nicht auf, egal welche Hindernisse sich dir in den Weg stellen.
+
+  いかなる意見も尊重されるべきです。
+  いかなる 意見[いけん]も 尊重[そんちょう]されるべきです。
+  Jede Meinung sollte respektiert werden.
+
+  いかなる問題が発生しても、冷静に対応することが重要だ。
+  いかなる 問題[もんだい]が 発生[はっせい]しても、冷静[れいせい]に 対応[たいおう]することが 重要[じゅうよう]だ。
+  Es ist wichtig, ruhig zu reagieren, egal welches Problem auftritt.
+
+  いかなる場合でも、法律を遵守しなければなりません。
+  いかなる 場合[ばあい]でも、法律[ほうりつ]を 遵守[じゅんしゅ]しなければなりません。
+  In jedem Fall müssen wir die Gesetze einhalten.
+
+  いかなる困難な状況でも、希望を持ち続けることが大切です。
+  いかなる 困難[こんなん]な 状況[じょうきょう]でも、希望[きぼう]を 持[も]ち 続[つづ]けることが 大切[たいせつ]です。
+  Es ist wichtig, die Hoffnung zu bewahren, egal wie schwierig die Situation auch sein mag.
+
+  いかなる決定を下すにしても、十分な情報収集が必要だ。
+  いかなる 決定[けってい]を 下[くだ]すにしても、十分[じゅうぶん]な 情報収集[じょうほうしゅうしゅう]が 必要[ひつよう]だ。
+  Bevor man eine Entscheidung trifft, ist es notwendig, ausreichend Informationen zu sammeln.
+
+  日本人は利のためにはいかなることも致します。
+  日本人[にほんじん]は 利[り]のためにはいかなることも 致[いた]します。
+  Die Japaner sind bereit, für einen Gewinn alles zu tun.
+
+  いかなる理由で遅刻したのですか？
+  いかなる 理由[りゆう]で 遅刻[ちこく]したのですか？
+  Aus welchem Grund sind Sie zu spät gekommen?
+
+  いかなる代案を提案しますか？
+  いかなる 代案[だいあん]を 提案[ていあん]しますか？
+  Welche Alternative schlagen Sie vor?
+
+  いかなる形でも、支援を受け入れる準備があります。
+  いかなる 形[かたち]でも、支援[しえん]を 受[う]け 入[い]れる 準備[じゅんび]があります。
+  Wir sind bereit, Unterstützung in jeder Form anzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>いかなる ist ein fragendes oder verallgemeinerndes Adjektiv mit mehreren Bedeutungen:</p>
+  <ul>
+    <li>Es kann "was für ein(e)" oder "welch(e)" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>いかなる</u>者[もの]なるか</div>
+      <div class="de spoiler">Was für eine Sache es ist</div>
+    </div>
+    <li>Es wird oft in der Form ～<u>いかなる</u>⋯（で）も verwendet, um "welch ... auch immer" oder "egal was für ein(e)" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>いかなる</u> 拷問[ごうもん]をうけたにせよ</div>
+      <div class="de spoiler">Welche Folter auch immer erlitten wurde</div>
+    </div>
+    <li>Es kann auch "jede(r/s)" oder "jede(r/s) beliebige" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>いかなる</u>ことも</div>
+      <div class="de spoiler">Alles / Jede beliebige Sache</div>
+    </div>
+  </ul>
+  <p>Beispiele für die Verwendung von いかなる:</p>
+  <div class="examples">
+    <div class="jp">それゆえに 日本人[にほんじん]は 利[り]のために<u>は</u><u>いかなる</u>ことも 致[いた]します。</div>
+    <div class="de spoiler">Deshalb sind die Japaner bereit, für einen Gewinn alles zu tun.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">このような 手紙[てがみ]をかいたフェレイラ 教父[きょうふ]が、たとえ、<u>いかなる</u> 拷問[ごうもん]をうけたにせよ 神[かみ]とその 教会[きょうかい]とを 棄[す]てて 異教徒[いきょうと]に 屈服[くっぷく]したとはローマ 教会[きょうかい]では 思[おも]えなかったのである。</div>
+    <div class="de spoiler">Man konnte sich in der römischen Kirche nicht vorstellen, dass Pater Ferreira, der einen solchen Brief geschrieben hatte, ungeachtet welcher Folter auch immer, Gott und seine Kirche aufgegeben und sich den Heiden unterworfen hatte.</div>
+  </div>
+  </p>

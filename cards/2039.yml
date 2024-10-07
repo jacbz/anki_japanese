@@ -2,7 +2,7 @@ Rang: 2039
 Lemma: 事項
 Lesung: じこう
 Tonhöhen: \..
-Definition: Angelegenheit, Tatsache, Punkt
+Definition: Punkt, Angelegenheit
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   審議事項は以上です。
-  審議[しんぎ] 事項[じこう]は 以上[いじょう]です。
-  Das sind alle Punkte, die wir besprechen müssen.
+  審議[しんぎ]事項[じこう]は 以上[いじょう]です。
+  Das waren alle Tagesordnungspunkte.
+
+  契約書の重要事項を確認しましょう。
+  契約書[けいやくしょ]の 重要[じゅうよう]事項[じこう]を 確認[かくにん]しましょう。
+  Lass uns die wichtigen Punkte des Vertrags überprüfen.
+
+  会議の議事項目を作成してください。
+  会議[かいぎ]の 議事項目[ぎじこうもく]を 作成[さくせい]してください。
+  Bitte erstellen Sie die Tagesordnungspunkte für die Besprechung.
+
+  この事項については後ほど詳しく説明します。
+  この 事項[じこう]については 後[のち]ほど 詳[くわ]しく 説明[せつめい]します。
+  Ich werde diesen Punkt später ausführlicher erläutern.
+
+  事項別目録を参照すると、必要な情報が見つかりやすいです。
+  事項別目録[じこうべつもくろく]を 参照[さんしょう]すると、必要[ひつよう]な 情報[じょうほう]が 見[み]つかりやすいです。
+  Wenn Sie den Sachkatalog konsultieren, finden Sie die benötigte Information leichter.
+
+  索引で関連事項を探してみてください。
+  索引[さくいん]で 関連[かんれん]事項[じこう]を 探[さが]してみてください。
+  Bitte suchen Sie im Index nach verwandten Themen.
+
+  調査事項をリストアップしておきました。
+  調査[ちょうさ]事項[じこう]をリストアップしておきました。
+  Ich habe die Untersuchungspunkte aufgelistet.
+
+  注意事項を守らないと危険です。
+  注意[ちゅうい]事項[じこう]を 守[まも]らないと 危険[きけん]です。
+  Es ist gefährlich, wenn man die Vorsichtsmaßnahmen nicht beachtet.
+
+  反省事項を踏まえて、次回はより良い結果を目指しましょう。
+  反省[はんせい]事項[じこう]を 踏[ふ]まえて、次回[じかい]はより 良[よ]い 結果[けっか]を 目指[めざ]しましょう。
+  Lasst uns die Kritikpunkte berücksichtigen und beim nächsten Mal ein besseres Ergebnis anstreben.
+
+  機密事項なので、部外者には漏らさないでください。
+  機密[きみつ]事項[じこう]なので、部外者[ぶがいしゃ]には 漏[も]らさないでください。
+  Da es sich um vertrauliche Angelegenheiten handelt, geben Sie sie bitte nicht an Außenstehende weiter.
+
+  以上の二事項について、皆さんのご意見をお聞かせください。
+  以上[いじょう]の 二[に]事項[じこう]について、皆[みな]さんのご 意見[いけん]をお 聞[き]かせください。
+  Bitte teilen Sie uns Ihre Meinungen zu den beiden oben genannten Punkten mit.
+
+  私的な事項は会議の議題に含めないようにしましょう。
+  私的[してき]な 事項[じこう]は 会議[かいぎ]の 議題[ぎだい]に 含[ふく]めないようにしましょう。
+  Lasst uns private Angelegenheiten nicht in die Tagesordnung der Besprechung aufnehmen.
+
+  この文書には重要事項が記載されています。
+  この 文書[ぶんしょ]には 重要[じゅうよう]事項[じこう]が 記載[きさい]されています。
+  Dieses Dokument enthält wichtige Informationen.
+
+  事項ごとに担当者を決めて作業を進めましょう。
+  事項[じこう]ごとに 担当者[たんとうしゃ]を 決[き]めて 作業[さぎょう]を 進[すす]めましょう。
+  Lassen Sie uns für jeden Punkt einen Verantwortlichen bestimmen und mit der Arbeit fortfahren.
+
+  アメリカ政府は、日本の重要事項に関する決定権を持っていた。
+  アメリカ 政府[せいふ]は、日本[にほん]の 重要[じゅうよう]事項[じこう]に 関[かん]する 決定権[けっていけん]を 持[も]っていた。
+  Die amerikanische Regierung hatte die Entscheidungsbefugnis über wichtige Angelegenheiten Japans.
+
+  各事項について詳細な説明が必要です。
+  各[かく]事項[じこう]について 詳細[しょうさい]な 説明[せつめい]が 必要[ひつよう]です。
+  Für jeden Punkt ist eine detaillierte Erklärung erforderlich.
+
+  事項を整理して報告書にまとめてください。
+  事項[じこう]を 整理[せいり]して 報告書[ほうこくしょ]にまとめてください。
+  Bitte ordnen Sie die Punkte und fassen Sie sie in einem Bericht zusammen.
+
+  この事項は機密扱いですので、取り扱いに注意してください。
+  この 事項[じこう]は 機密[きみつ]扱[あつか]いですので、取[と]り 扱[あつか]いに 注意[ちゅうい]してください。
+  Da dieser Punkt vertraulich ist, gehen Sie bitte vorsichtig damit um.
+
+  重要事項説明書をよく読んでから契約してください。
+  重要[じゅうよう]事項[じこう]説明書[せつめいしょ]をよく 読[よ]んでから 契約[けいやく]してください。
+  Bitte lesen Sie die Erläuterung der wichtigen Punkte sorgfältig durch, bevor Sie den Vertrag unterzeichnen.
+
+  事項が多岐にわたるため、会議の時間を延長しました。
+  事項[じこう]が 多岐[たき]にわたるため、会議[かいぎ]の 時間[じかん]を 延長[えんちょう]しました。
+  Da die Punkte sehr vielfältig sind, wurde die Besprechungszeit verlängert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -98,4 +98,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>など wird verwendet, um eine offene Liste oder Beispiele anzuzeigen.</p>
+  <ul>
+    <li>Es bedeutet "und so weiter", "und ähnliches", "zum Beispiel" oder "unter anderem".</li>
+    <div class="examples">
+      <div class="jp">古着[ふるぎ]の 類[たぐい]<u>など</u>も 持[も]っていく。</div>
+      <div class="de spoiler">Sie brachte auch alte Kleidungsstücke oder ähnliches mit.</div>
+      <div class="jp">普通[ふつう]は 芋[いも]と 大根[だいこん]という 野菜[やさい]<u>など</u>が 彼等[かれら]の 食物[しょくもつ]です。</div>
+      <div class="de spoiler">Gewöhnlich bestehen ihre Mahlzeiten aus Kartoffeln, Rettich und ähnlichem Gemüse.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um ein einzelnes Beispiel zu geben.</li>
+    <div class="examples">
+      <div class="jp">月賦[げっぷ] 制度[せいど]の 普及[ふきゅう]ぶり<u>など</u>のことです。</div>
+      <div class="de spoiler">Es geht zum Beispiel um die Verbreitung von Ratenzahlungskäufen.</div>
+    </div>
+  </ul>
+  <p>など kann auch Bescheidenheit oder Geringschätzung ausdrücken.</p>
+  <ul>
+    <li>In diesem Fall bedeutet es oft "jemand wie ich" oder "so etwas wie".</li>
+    <div class="examples">
+      <div class="jp">私[わたし]<u>など</u>には、三次元[さんじげん] 空間[くうかん]を 思[おも]い 浮[う]かべることだってむずかしく 感[かん]じられるのだ！</div>
+      <div class="de spoiler">Jemand wie ich hat schon Schwierigkeiten, sich einen dreidimensionalen Raum vorzustellen!</div>
+    </div>
+  </ul>
+  <p>Mit einer Verneinung kann など zur Betonung verwendet werden.</p>
+  <div class="examples">
+    <div class="jp">ぼくには 自殺[じさつ]の 意志[いし]<u>など</u> 少[すこ]しもなかった。</div>
+    <div class="de spoiler">Ich hatte überhaupt nicht die Absicht, mich umzubringen.</div>
+    <div class="jp">敵対[てきたい] 関係[かんけい]<u>など</u>まったく 予想[よそう]できない。</div>
+    <div class="de spoiler">Eine Feindseligkeit war beim besten Willen nicht auszumachen.</div>
+  </div>

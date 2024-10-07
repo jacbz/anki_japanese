@@ -2,7 +2,7 @@ Rang: 2958
 Lemma: とすれば
 Lesung: ''
 Tonhöhen: /^\.
-Definition: falls das der Fall ist
+Definition: wenn, falls; angenommen, dass
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -15,11 +15,105 @@ Konjugation: ''
 Beispielsätze: |-
   一つだけ選ぶとすれば、これだ。
   一[ひと]つだけ 選[えら]ぶとすれば、これだ。
-  Wenn ich nur eins wählen müsste, würde ich das wählen.
+  Wenn ich nur eines auswählen müsste, wäre es das.
+
+  彼女が来ないとすれば、何か急用ができたのかもしれない。
+  彼女[かのじょ]が 来[こ]ないとすれば、何[なに]か 急用[きゅうよう]ができたのかもしれない。
+  Wenn sie nicht kommt, könnte es sein, dass etwas Dringendes dazwischengekommen ist.
+
+  そうだとすれば、私たちの計画を変更する必要がありますね。
+  そうだとすれば、私[わたし]たちの 計画[けいかく]を 変更[へんこう]する 必要[ひつよう]がありますね。
+  Wenn dem so ist, müssen wir wohl unseren Plan ändern.
+
+  天気予報が正しいとすれば、明日は雨になるでしょう。
+  天気予報[てんきよほう]が 正[ただ]しいとすれば、明日[あした]は 雨[あめ]になるでしょう。
+  Wenn die Wettervorhersage stimmt, wird es morgen regnen.
+
+  この推論が正しいとすれば、犯人は内部の人間だということになる。
+  この 推論[すいろん]が 正[ただ]しいとすれば、犯人[はんにん]は 内部[ないぶ]の 人間[にんげん]だということになる。
+  Wenn diese Schlussfolgerung richtig ist, bedeutet das, dass der Täter ein Insider sein muss.
+
+  全ての条件が整ったとすれば、プロジェクトを開始できます。
+  全[すべ]ての 条件[じょうけん]が 整[ととの]ったとすれば、プロジェクトを 開始[かいし]できます。
+  Wenn alle Bedingungen erfüllt sind, können wir mit dem Projekt beginnen.
+
+  もし彼が本当のことを言っているとすれば、私たちは彼を信じるべきだ。
+  もし 彼[かれ]が 本当[ほんとう]のことを 言[い]っているとすれば、私[わたし]たちは 彼[かれ]を 信[しん]じるべきだ。
+  Wenn er die Wahrheit sagt, sollten wir ihm glauben.
+
+  この薬が効果があるとすれば、患者の症状は改善するはずだ。
+  この 薬[くすり]が 効果[こうか]があるとすれば、患者[かんじゃ]の 症状[しょうじょう]は 改善[かいぜん]するはずだ。
+  Wenn dieses Medikament wirksam ist, sollten sich die Symptome des Patienten verbessern.
+
+  彼女が合格したとすれば、家族みんなで祝福しましょう。
+  彼女[かのじょ]が 合格[ごうかく]したとすれば、家族[かぞく]みんなで 祝福[しゅくふく]しましょう。
+  Wenn sie die Prüfung bestanden hat, lasst uns alle als Familie feiern.
+
+  その噂が本当だとすれば、会社の将来に大きな影響を与えるかもしれない。
+  その 噂[うわさ]が 本当[ほんとう]だとすれば、会社[かいしゃ]の 将来[しょうらい]に 大[おお]きな 影響[えいきょう]を 与[あた]えるかもしれない。
+  Wenn das Gerücht wahr ist, könnte es große Auswirkungen auf die Zukunft des Unternehmens haben.
+
+  君の理論が正しいとすれば、科学界に革命を起こすことになるだろう。
+  君[きみ]の 理論[りろん]が 正[ただ]しいとすれば、科学界[かがくかい]に 革命[かくめい]を 起[お]こすことになるだろう。
+  Wenn deine Theorie stimmt, wird sie eine Revolution in der wissenschaftlichen Welt auslösen.
+
+  この製品が成功するとすれば、会社の売上は大幅に増加するでしょう。
+  この 製品[せいひん]が 成功[せいこう]するとすれば、会社[かいしゃ]の 売上[うりあげ]は 大幅[おおはば]に 増加[ぞうか]するでしょう。
+  Wenn dieses Produkt erfolgreich ist, werden die Umsätze des Unternehmens erheblich steigen.
+
+  彼が本当に辞めるとすれば、後任を早急に探さなければならない。
+  彼[かれ]が 本当[ほんとう]に 辞[や]めるとすれば、後任[こうにん]を 早急[さっきゅう]に 探[さが]さなければならない。
+  Wenn er wirklich kündigt, müssen wir schnell einen Nachfolger finden.
+
+  その情報が確かだとすれば、我々の戦略を見直す必要があります。
+  その 情報[じょうほう]が 確[たし]かだとすれば、我々[われわれ]の 戦略[せんりゃく]を 見直[みなお]す 必要[ひつよう]があります。
+  Wenn diese Information zuverlässig ist, müssen wir unsere Strategie überdenken.
+
+  彼女が承諾するとすれば、プロジェクトは予定通り進められる。
+  彼女[かのじょ]が 承諾[しょうだく]するとすれば、プロジェクトは 予定通[よていどお]り 進[すす]められる。
+  Wenn sie zustimmt, kann das Projekt wie geplant fortgesetzt werden.
+
+  経済が回復するとすれば、雇用状況も改善されるだろう。
+  経済[けいざい]が 回復[かいふく]するとすれば、雇用[こよう]状況[じょうきょう]も 改善[かいぜん]されるだろう。
+  Wenn sich die Wirtschaft erholt, wird sich wahrscheinlich auch die Beschäftigungssituation verbessern.
+
+  その主張が正しいとすれば、我々の見解を修正する必要がある。
+  その 主張[しゅちょう]が 正[ただ]しいとすれば、我々[われわれ]の 見解[けんかい]を 修正[しゅうせい]する 必要[ひつよう]がある。
+  Wenn diese Behauptung stimmt, müssen wir unseren Standpunkt korrigieren.
+
+  彼が無実だとすれば、真犯人を見つけ出さなければならない。
+  彼[かれ]が 無実[むじつ]だとすれば、真犯人[しんはんにん]を 見[み]つけ 出[だ]さなければならない。
+  Wenn er unschuldig ist, müssen wir den wahren Täter finden.
+
+  予算が削減されるとすれば、計画の見直しが必要になるでしょう。
+  予算[よさん]が 削減[さくげん]されるとすれば、計画[けいかく]の 見直[みなお]しが 必要[ひつよう]になるでしょう。
+  Wenn das Budget gekürzt wird, wird eine Überprüfung des Plans notwendig sein.
+
+  それが事実だとすれば、私たちは大きな間違いを犯したことになる。
+  それが 事実[じじつ]だとすれば、私[わたし]たちは 大[おお]きな 間違[まちが]いを 犯[おか]したことになる。
+  Wenn das wahr ist, bedeutet das, dass wir einen großen Fehler gemacht haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>とすれば wird verwendet, um hypothetische Situationen oder Annahmen auszudrücken.</p>
+  <ul>
+    <li>Es kann als "wenn..., dann..." oder "angenommen, dass..." übersetzt werden.</li>
+    <div class="examples">
+      <div class="jp">そう<u>とすれば</u>、当然[とうぜん]、事務所[じむしょ]に 電話[でんわ]があったはずです。</div>
+      <div class="de spoiler">Wenn dem so ist, dann hätte es sicherlich einen Anruf im Büro gegeben.</div>
+    </div>
+    <li>Es wird oft in logischen Schlussfolgerungen verwendet:</li>
+    <div class="examples">
+      <div class="jp">白血球[はっけっきゅう]<u>とすれば</u>、数[かず]が 非常[ひじょう]に 多[おお]すぎる。</div>
+      <div class="de spoiler">Wenn es weiße Blutkörperchen sind, dann sind es viel zu viele.</div>
+    </div>
+    <li>Es kann auch mit もし kombiniert werden, um die hypothetische Natur zu verstärken:</li>
+    <div class="examples">
+      <div class="jp">もし 誰[だれ]か 筆記[ひっき]に 飽[あ]き 足[た]りない 人[ひと]がある<u>とすれば</u>、病院[びょういん]を 訪[たず]ねてみるのがいい。</div>
+      <div class="de spoiler">Falls jemand mit meinen Aufzeichnungen unzufrieden ist, sollte er das Krankenhaus selbst aufsuchen.</div>
+    </div>
+  </ul>

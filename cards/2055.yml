@@ -8,14 +8,90 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 閉じない・閉じた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   教科書を閉じてください。
   教科書[きょうかしょ]を 閉[と]じてください。
-  Schließen Sie Ihre Lehrbücher.
+  Bitte schließen Sie das Lehrbuch.
+
+  扉が自動的に閉じる。
+  扉[とびら]が 自動的[じどうてき]に 閉[と]じる。
+  Die Tür schließt sich automatisch.
+
+  夜になると花が閉じる。
+  夜[よる]になると 花[はな]が 閉[と]じる。
+  Die Blüten schließen sich am Abend.
+
+  目を閉じたまま瞑想する。
+  目[め]を 閉[と]じたまま 瞑想[めいそう]する。
+  Ich meditiere mit geschlossenen Augen.
+
+  閉じた質問は「はい」か「いいえ」で答えられる。
+  閉[と]じた 質問[しつもん]は「はい」か「いいえ」で 答[こた]えられる。
+  Geschlossene Fragen können mit 'Ja' oder 'Nein' beantwortet werden.
+
+  ホールの大きな観音開きの扉は閉じていた。
+  ホールの 大[おお]きな 観音開[かんのんびら]きの 扉[とびら]は 閉[と]じていた。
+  Die großen Flügeltüren der Halle waren geschlossen.
+
+  午後6時に図書館が閉じる。
+  午後[ごご]6時[じ]に 図書館[としょかん]が 閉[と]じる。
+  Die Bibliothek schließt um 18 Uhr.
+
+  店が閉じた後、清掃を始めた。
+  店[みせ]が 閉[と]じた 後[あと]、清掃[せいそう]を 始[はじ]めた。
+  Nachdem der Laden geschlossen hatte, begannen wir mit der Reinigung.
+
+  本を閉じて、深呼吸をした。
+  本[ほん]を 閉[と]じて、深呼吸[しんこきゅう]をした。
+  Ich schloss das Buch und atmete tief durch.
+
+  扇を閉じて、かばんにしまった。
+  扇[おうぎ]を 閉[と]じて、かばんにしまった。
+  Ich schloss den Fächer und steckte ihn in meine Tasche.
+
+  蓋をしっかりと閉じないと、中身がこぼれるよ。
+  蓋[ふた]をしっかりと 閉[と]じないと、中身[なかみ]がこぼれるよ。
+  Wenn du den Deckel nicht fest schließt, wird der Inhalt verschüttet.
+
+  足を閉じて立つと、バランスが取りやすい。
+  足[あし]を 閉[と]じて 立[た]つと、バランスが 取[と]りやすい。
+  Wenn man mit geschlossenen Beinen steht, ist es leichter, das Gleichgewicht zu halten.
+
+  彼女は口を閉じたまま、何も話さなかった。
+  彼女[かのじょ]は 口[くち]を 閉[と]じたまま、何[なに]も 話[はな]さなかった。
+  Sie hielt ihren Mund geschlossen und sagte nichts.
+
+  窓を閉じると、外の騒音が聞こえなくなった。
+  窓[まど]を 閉[と]じると、外[そと]の 騒音[そうおん]が 聞[き]こえなくなった。
+  Als ich das Fenster schloss, konnte ich den Lärm von draußen nicht mehr hören.
+
+  とびこむ瞬間は二人ともひしと目と口を閉じていた。
+  とびこむ 瞬間[しゅんかん]は 二人[ふたり]ともひしと 目[め]と 口[くち]を 閉[と]じていた。
+  Im Moment des Springens schlossen beide fest ihre Augen und Münder.
+
+  店々はペンキの剥げた戸をかたく閉じていた。
+  店々[みせみせ]はペンキの 剥[は]げた 戸[と]をかたく 閉[と]じていた。
+  Die Läden hatten ihre abblätternden Türen fest verschlossen.
+
+  「べつに心を閉じているつもりはないんだ」と彼は言った。
+  「べつに 心[こころ]を 閉[と]じているつもりはないんだ」と 彼[かれ]は 言[い]った。
+  "Ich habe nicht vor, mein Herz zu verschließen", sagte er.
+
+  会議を閉じる前に、次回の日程を決めましょう。
+  会議[かいぎ]を 閉[と]じる 前[まえ]に、次回[じかい]の 日程[にってい]を 決[き]めましょう。
+  Bevor wir die Sitzung schließen, lasst uns den Termin für das nächste Treffen festlegen.
+
+  経営難で店を閉じざるを得なかった。
+  経営難[けいえいなん]で 店[みせ]を 閉[と]じざるを 得[え]なかった。
+  Aufgrund finanzieller Schwierigkeiten mussten wir das Geschäft schließen.
+
+  彼は30歳で短い生涯を閉じた。
+  彼[かれ]は30歳[さい]で 短[みじか]い 生涯[しょうがい]を 閉[と]じた。
+  Er beendete sein kurzes Leben im Alter von 30 Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

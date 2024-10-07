@@ -2,7 +2,7 @@ Rang: 4597
 Lemma: そりゃ
 Lesung: ''
 Tonhöhen: \..
-Definition: das ist
+Definition: na ja; das
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -15,11 +15,107 @@ Konjugation: ''
 Beispielsätze: |-
   そりゃいい考えだね。
   そりゃいい 考[かんが]えだね。
-  Das ist eine gute Idee.
+  Das ist ja eine gute Idee.
+
+  病気になったり、免許停止にでもなったら、そりゃ悲惨ですが。
+  病気[びょうき]になったり、免許[めんきょ]停止[ていし]にでもなったら、そりゃ 悲惨[ひさん]ですが。
+  Wenn man krank wird oder den Führerschein verliert, das ist natürlich eine Tragödie.
+
+  二百両!そりゃアコギだ!どうやって調達しろっていうんです？
+  二百両[にひゃくりょう]!そりゃアコギだ!どうやって 調達[ちょうたつ]しろっていうんです？
+  200 Silberdollar! Das ist halsabschneiderisch! Wie soll ich das aufbringen?
+
+  「あなたは、わたくしどもの銀行に口座を開きたいとお考えですね？」「そりゃ初耳です。」
+  「あなたは、わたくしどもの 銀行[ぎんこう]に 口座[こうざ]を 開[ひら]きたいとお 考[かんが]えですね？」「そりゃ 初耳[はつみみ]です。」
+  "Wir wissen, dass Sie ein Sparkonto bei uns eröffnen wollen." "Das ist mir neu."
+
+  そりゃ、君の言う通りだよ。
+  そりゃ、君[きみ]の 言[い]う 通[とお]りだよ。
+  Da hast du allerdings recht.
+
+  そりゃ、難しい問題だけど、一緒に解決しよう。
+  そりゃ、難[むずか]しい 問題[もんだい]だけど、一緒[いっしょ]に 解決[かいけつ]しよう。
+  Das ist zwar ein schwieriges Problem, aber lass es uns zusammen lösen.
+
+  そりゃ、予想外の結果だったね。
+  そりゃ、予想外[よそうがい]の 結果[けっか]だったね。
+  Das war ja ein unerwartetes Ergebnis.
+
+  そりゃ、素晴らしいニュースだ！
+  そりゃ、素晴[すば]らしいニュースだ！
+  Das sind ja tolle Neuigkeiten!
+
+  そりゃ、誰でも失敗することがあるよ。
+  そりゃ、誰[だれ]でも 失敗[しっぱい]することがあるよ。
+  Na ja, jeder macht mal Fehler.
+
+  そりゃ、簡単には解決できない問題だ。
+  そりゃ、簡単[かんたん]には 解決[かいけつ]できない 問題[もんだい]だ。
+  Das ist ein Problem, das sich nicht so einfach lösen lässt.
+
+  そりゃ、驚きの結果だったね。
+  そりゃ、驚[おどろ]きの 結果[けっか]だったね。
+  Das war wirklich ein überraschendes Ergebnis.
+
+  そりゃ、君の努力次第だよ。
+  そりゃ、君[きみ]の 努力次第[どりょくしだい]だよ。
+  Na ja, das hängt von deiner Anstrengung ab.
+
+  そりゃ、面白い提案だね。
+  そりゃ、面白[おもしろ]い 提案[ていあん]だね。
+  Das ist ja ein interessanter Vorschlag.
+
+  そりゃ、予想以上に時間がかかりそうだ。
+  そりゃ、予想以上[よそういじょう]に 時間[じかん]がかかりそうだ。
+  Das wird wohl mehr Zeit in Anspruch nehmen als erwartet.
+
+  そりゃ、誰もが知っている事実だよ。
+  そりゃ、誰[だれ]もが 知[し]っている 事実[じじつ]だよ。
+  Na ja, das ist eine allgemein bekannte Tatsache.
+
+  そりゃ、君の判断に任せるよ。
+  そりゃ、君[きみ]の 判断[はんだん]に 任[まか]せるよ。
+  Das überlasse ich deiner Entscheidung.
+
+  そりゃ、もっと慎重に考えるべきだね。
+  そりゃ、もっと 慎重[しんちょう]に 考[かんが]えるべきだね。
+  Da sollten wir vorsichtiger darüber nachdenken.
+
+  そりゃ、私も同感です。
+  そりゃ、私[わたし]も 同感[どうかん]です。
+  Da stimme ich Ihnen zu.
+
+  そりゃ、予想外の展開だったね。
+  そりゃ、予想外[よそうがい]の 展開[てんかい]だったね。
+  Das war eine unerwartete Wendung.
+
+  そりゃ、君の言うとおりかもしれない。
+  そりゃ、君[きみ]の 言[い]うとおりかもしれない。
+  Da könntest du recht haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そりゃ ist eine umgangssprachliche Kontraktion von それは (sore wa).</p>
+  <ul>
+    <li>Es wird verwendet, um auf etwas bereits Erwähntes oder allgemein Bekanntes zu verweisen.</li>
+    <div class="examples">
+      <div class="jp">病気[びょうき]になったり、免許停止[めんきょていし]にでもなったら、<u>そりゃ</u> 悲惨[ひさん]ですが</div>
+      <div class="de spoiler">Wenn man krank wird oder den Führerschein verliert, das ist natürlich eine Tragödie</div>
+    </div>
+    <li>Es kann auch verwendet werden, um Überraschung oder Ungläubigkeit auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">二百両[にひゃくりょう]! <u>そりゃ</u>アコギだ!</div>
+      <div class="de spoiler">200 Silberdollar! Das ist ja unverschämt!</div>
+    </div>
+    <li>In manchen Kontexten kann es auch bedeuten, dass etwas unerwartet oder neu für den Sprecher ist.</li>
+    <div class="examples">
+      <div class="jp">「あなたは、わたくしどもの 銀行[ぎんこう]に 口座[こうざ]を 開[ひら]きたいとお 考[かんが]えですね？」「<u>そりゃ</u> 初耳[はつみみ]です。」</div>
+      <div class="de spoiler">»Wir wissen, dass Sie ein Sparkonto bei uns eröffnen wollen.« »Das ist mir neu.«</div>
+    </div>
+  </ul>
+  <p>In einigen Fällen kann そりゃ auch als Interjektion verwendet werden, ähnlich wie そら.</p>
+  </p>

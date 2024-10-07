@@ -94,4 +94,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>たいした kann in zwei gegensätzlichen Bedeutungen verwendet werden:</p>
+
+  <ul>
+    <li>Es drückt aus, dass etwas beeindruckend oder beachtlich ist:</li>
+    <div class="examples">
+      <div class="jp">とにかく 大[たい]した 男[おとこ]です。</div>
+      <div class="de spoiler">Es ist wirklich ein beeindruckender Mann.</div>
+    </div>
+
+    <li>Mit einer Verneinung bedeutet es das Gegenteil - dass etwas nicht besonders oder nicht der Rede wert ist:</li>
+    <div class="examples">
+      <div class="jp">たいした 金額[きんがく]ではなかった。</div>
+      <div class="de spoiler">Es war keine besonders hohe Summe.</div>
+      <div class="jp">ふたつの 見解[けんかい]のあいだに たいした 違[ちが]いはない。</div>
+      <div class="de spoiler">Zwischen den beiden Ansichten gibt es keinen großen Unterschied.</div>
+    </div>
+  </ul>
+
+  <p>Eine häufige Verwendung ist たいしたもの:</p>
+  <ul>
+    <li>Positiv verwendet drückt es Bewunderung aus:</li>
+    <div class="examples">
+      <div class="jp">車[くるま]の 内装[ないそう]も たいしたものだった。</div>
+      <div class="de spoiler">Auch die Innenausstattung des Autos war beeindruckend.</div>
+    </div>
+
+    <li>Negativ verwendet (たいしたものじゃない) bedeutet es "nichts Besonderes":</li>
+    <div class="examples">
+      <div class="jp">小[ちい]さな 工場[こうじょう]は たいしたもんじゃないよ。</div>
+      <div class="de spoiler">Die kleinen Fabriken sind nichts Besonderes.</div>
+    </div>
+  </ul>

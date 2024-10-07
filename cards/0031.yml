@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>けれど（も）ist eine Konjunktion, die einen Gegensatz oder eine Einschränkung ausdrückt.</p>
+
+  <ul>
+    <li>Es wird verwendet, um "aber", "jedoch" oder "allerdings" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">緑色[みどりいろ]をして いて、ねばねばしていた<u>けれど</u>、ちゃんと 動[うご]いた。</div>
+      <div class="de spoiler">Es war grün und klebrig, aber es funktionierte.</div>
+    </div>
+
+    <li>Es kann auch "obwohl" oder "trotzdem" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">兄[あに]とは 仲[なか]がよくない<u>けれども</u>、 隠[かく]して 菓子[かし]を 貰[もら]いたくはない。</div>
+      <div class="de spoiler">Obwohl ich mich mit meinem Bruder nicht gut verstehe, möchte ich keine Süßigkeiten hinter seinem Rücken geschenkt bekommen.</div>
+    </div>
+
+    <li>Am Satzende kann es eine Erwartungshaltung oder einen unvollständigen Gedanken ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">私[わたし]は 三木[みき]という 者[もの]です<u>けれど</u>。</div>
+      <div class="de spoiler">Mein Name ist Miki... (impliziert: was kann ich für Sie tun?)</div>
+    </div>
+
+    <li>Mit der Konditionalform kann es einen Wunsch ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">明日[あした]は 天気[てんき]なら いい んだ<u>けれど</u>。</div>
+      <div class="de spoiler">Es wäre schön, wenn es morgen schönes Wetter wäre!</div>
+    </div>
+  </ul>
+
+  <p>In der Umgangssprache wird oft die kürzere Form けど verwendet.</p>

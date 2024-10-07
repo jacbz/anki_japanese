@@ -2,7 +2,7 @@ Rang: 4631
 Lemma: 箇所
 Lesung: かしょ
 Tonhöhen: \..
-Definition: Stelle, Punkt, Teil
+Definition: Stelle, Ort
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, suff
@@ -15,11 +15,126 @@ Konjugation: ''
 Beispielsätze: |-
   間違った箇所を直さなければいけません。
   間違[まちが]った 箇所[かしょ]を 直[なお]さなければいけません。
-  Ich muss die Teile korrigieren, die Fehler enthalten.
+  Wir müssen die fehlerhaften Stellen korrigieren.
+
+  痛む箇所に冷湿布を当ててください。
+  痛[いた]む 箇所[かしょ]に 冷湿布[れいしっぷ]を 当[あ]ててください。
+  Legen Sie bitte eine kalte Kompresse auf die schmerzende Stelle.
+
+  同じ箇所に何度もミスをしてしまいました。
+  同[おな]じ 箇所[かしょ]に 何度[なんど]もミスをしてしまいました。
+  Ich habe an derselben Stelle mehrmals einen Fehler gemacht.
+
+  ひろ子によみとれない箇所が出て来た。
+  ひろ子[ひろこ]によみとれない 箇所[かしょ]が 出[で]て 来[き]た。
+  Dann kam Hiroko an eine Stelle, die sie nicht lesen konnte.
+
+  翻訳家は手紙の一行にアンダーラインを引き、辞書の同じ箇所を何度も指でたどった。
+  翻訳家[ほんやくか]は 手紙[てがみ]の 一行[いちぎょう]にアンダーラインを 引[ひ]き、辞書[じしょ]の 同[おな]じ 箇所[かしょ]を 何度[なんど]も 指[ゆび]でたどった。
+  Der Übersetzer unterstrich eine Zeile des Briefes und fuhr dann mit dem Finger mehrmals über dieselbe Stelle im Wörterbuch.
+
+  問題の箇所に目を通してください。
+  問題[もんだい]の 箇所[かしょ]に 目[め]を 通[とお]してください。
+  Bitte lesen Sie den entsprechenden Abschnitt durch.
+
+  この糾明の過程が物語の欠落した箇所のひとつです。
+  この 糾明[きゅうめい]の 過程[かてい]が 物語[ものがたり]の 欠落[けつらく]した 箇所[かしょ]のひとつです。
+  Dieser Untersuchungsprozess ist eine der Lücken in der Geschichte.
+
+  掃除の必要な箇所は既に鼠が掃除を済ませていた。
+  掃除[そうじ]の 必要[ひつよう]な 箇所[かしょ]は 既[すで]に 鼠[ねずみ]が 掃除[そうじ]を 済[す]ませていた。
+  Die Stellen, die geputzt werden mussten, hatte die Ratte bereits gesäubert.
+
+  ２箇所から返事がありました。
+  ２箇所[にかしょ]から 返事[へんじ]がありました。
+  Wir haben von zwei Stellen eine Antwort erhalten.
+
+  数箇所に傷がついているので修理が必要です。
+  数箇所[すうかしょ]に 傷[きず]がついているので 修理[しゅうり]が 必要[ひつよう]です。
+  Es sind an mehreren Stellen Kratzer, deshalb ist eine Reparatur notwendig.
+
+  城内の何ヶ所からか火の手が上がっていた。
+  城内[じょうない]の 何ヶ所[なんかしょ]からか 火[ひ]の 手[て]が 上[あ]がっていた。
+  An mehreren Stellen in der Burg stiegen Feuersäulen auf.
+
+  こわれかかった板塀が周囲をとりまいていたが、満足に立っているところは一箇所もなかった。
+  こわれかかった 板塀[いたべい]が 周囲[しゅうい]をとりまいていたが、満足[まんぞく]に 立[た]っているところは 一箇所[いっかしょ]もなかった。
+  Ein baufälliger Bretterzaun umgab das Gelände, aber es gab keine einzige Stelle, die noch richtig stand.
+
+  シーレーン保護のための基地を少なくとも三箇所くらいは用意したいと考えております。
+  シーレーン 保護[ほご]のための 基地[きち]を 少[すく]なくとも 三箇所[さんかしょ]くらいは 用意[ようい]したいと 考[かんが]えております。
+  Wir denken darüber nach, mindestens drei Stützpunkte zum Schutz der Seewege einzurichten.
+
+  文章の重要な箇所に下線を引きました。
+  文章[ぶんしょう]の 重要[じゅうよう]な 箇所[かしょ]に 下線[かせん]を 引[ひ]きました。
+  Ich habe die wichtigen Stellen im Text unterstrichen.
+
+  地図上の特定の箇所をマークしてください。
+  地図上[ちずじょう]の 特定[とくてい]の 箇所[かしょ]をマークしてください。
+  Bitte markieren Sie die spezifischen Stellen auf der Karte.
+
+  彼女は説明書の難しい箇所を丁寧に解説してくれた。
+  彼女[かのじょ]は 説明書[せつめいしょ]の 難[むずか]しい 箇所[かしょ]を 丁寧[ていねい]に 解説[かいせつ]してくれた。
+  Sie erklärte mir sorgfältig die schwierigen Stellen in der Anleitung.
+
+  建物の老朽化した箇所を修繕する必要があります。
+  建物[たてもの]の 老朽化[ろうきゅうか]した 箇所[かしょ]を 修繕[しゅうぜん]する 必要[ひつよう]があります。
+  Wir müssen die veralteten Stellen des Gebäudes renovieren.
+
+  契約書の重要な箇所にサインをお願いします。
+  契約書[けいやくしょ]の 重要[じゅうよう]な 箇所[かしょ]にサインをお 願[ねが]いします。
+  Bitte unterschreiben Sie an den wichtigen Stellen des Vertrags.
+
+  事故現場の複数箇所から証拠を収集しました。
+  事故現場[じこげんば]の 複数箇所[ふくすうかしょ]から 証拠[しょうこ]を 収集[しゅうしゅう]しました。
+  Wir haben Beweise von mehreren Stellen des Unfallortes gesammelt.
+
+  彼は論文の曖昧な箇所を指摘された。
+  彼[かれ]は 論文[ろんぶん]の 曖昧[あいまい]な 箇所[かしょ]を 指摘[してき]された。
+  Er wurde auf die unklaren Stellen in seiner Abhandlung hingewiesen.
+
+  手術の箇所を確認するため、医師はX線写真を見直した。
+  手術[しゅじゅつ]の 箇所[かしょ]を 確認[かくにん]するため、医師[いし]はX線写真[せんしゃしん]を 見直[みなお]した。
+  Um die Operationsstelle zu überprüfen, sah sich der Arzt noch einmal die Röntgenaufnahmen an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>箇所[かしょ] wird verwendet, um auf bestimmte Stellen, Orte, Punkte oder Bereiche zu verweisen.</p>
+  <ul>
+    <li>Als Substantiv:</li>
+    <div class="examples">
+      <div class="jp">ひろ子<u>に</u>よみとれない<u>箇所[かしょ]</u>が出て来た。</div>
+      <div class="de spoiler">Dann kam Hiroko an eine Stelle, die sie nicht lesen konnte.</div>
+      <div class="jp">問題[もんだい]の<u>箇所[かしょ]</u><u>に</u>目[め]を通[とお]し</div>
+      <div class="de spoiler">Er las sich den entsprechenden Abschnitt durch.</div>
+    </div>
+    <li>Als Zählwort für Orte, Stellen, Punkte oder Bereiche:</li>
+    <div class="examples">
+      <div class="jp">城内[じょうない]の何[なん]<u>ヶ所[かしょ]</u>からか火[ひ]の手[て]が上[あ]がっていた。</div>
+      <div class="de spoiler">An mehreren Stellen in der Stadt stiegen Feuersäulen auf.</div>
+      <div class="jp">満足[まんぞく]に立[た]っているところは一[いっ]<u>個所[かしょ]</u>もなかった。</div>
+      <div class="de spoiler">Nirgends stand er gerade.</div>
+    </div>
+  </ul>
+  <p>Es kann in verschiedenen Kontexten verwendet werden:</p>
+  <ul>
+    <li>Um auf bestimmte Textpassagen oder Abschnitte zu verweisen:</li>
+    <div class="examples">
+      <div class="jp">翻訳家[ほんやくか]は手紙[てがみ]の一行[いちぎょう]にアンダーラインを引[ひ]き、辞書[じしょ]の同[おな]じ<u>箇所[かしょ]</u>を何度[なんど]も指[ゆび]でたどり、咳払[せきばら]いをした。</div>
+      <div class="de spoiler">Der Übersetzer unterstrich langsam eine Zeile des Briefes, fuhr dann mit dem Finger mehrmals über eine Stelle im Wörterbuch und räusperte sich.</div>
+    </div>
+    <li>Um auf Bereiche zu verweisen, die eine bestimmte Aktion erfordern:</li>
+    <div class="examples">
+      <div class="jp">掃除[そうじ]の必要[ひつよう]な<u>箇所[かしょ]</u>は既[すで]に鼠[ねずみ]が掃除[そうじ]を済[す]ませていた。</div>
+      <div class="de spoiler">Was zu putzen war, hatte Ratte schon geputzt.</div>
+    </div>
+    <li>In offiziellen oder geschäftlichen Kontexten, um auf spezifische Orte oder Einrichtungen zu verweisen:</li>
+    <div class="examples">
+      <div class="jp">シーレーン保護[ほご]のための基地[きち]を少[すく]なくとも三[さん]<u>か所[かしょ]</u>くらいは用意[ようい]したいと考[かんが]えております。</div>
+      <div class="de spoiler">Wir streben die Errichtung von mindestens drei Stützpunkten zur Sicherung der Seestraßen in dieser Region an.</div>
+    </div>
+  </ul>

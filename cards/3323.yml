@@ -2,8 +2,8 @@ Rang: 3323
 Lemma: 雇用
 Lesung: こよう
 Tonhöhen: /^^
-Definition: Beschäftigung; beschäftigen
-Alternativschreibweisen: ''
+Definition: Beschäftigung, Anstellung
+Alternativschreibweisen: 雇傭
 Extra: （する）
 Wortart: n, vt
 Register: ''
@@ -15,11 +15,122 @@ Konjugation: ''
 Beispielsätze: |-
   雇用を創出するための対策が必要だ。
   雇用[こよう]を 創出[そうしゅつ]するための 対策[たいさく]が 必要[ひつよう]だ。
-  Maßnahmen zur Schaffung von Beschäftigung sind erforderlich.
+  Maßnahmen zur Schaffung von Arbeitsplätzen sind erforderlich.
+
+  最近の雇用状況は厳しい。
+  最近[さいきん]の 雇用状況[こようじょうきょう]は 厳[きび]しい。
+  Die aktuelle Beschäftigungslage ist schwierig.
+
+  雇用保険に加入することは重要だ。
+  雇用保険[こようほけん]に 加入[かにゅう]することは 重要[じゅうよう]だ。
+  Es ist wichtig, in die Arbeitslosenversicherung einzuzahlen.
+
+  雇用条件について話し合いましょう。
+  雇用条件[こようじょうけん]について 話[はな]し 合[あ]いましょう。
+  Lassen Sie uns über die Beschäftigungsbedingungen sprechen.
+
+  雇用契約書にサインをしてください。
+  雇用契約書[こようけいやくしょ]にサインをしてください。
+  Bitte unterschreiben Sie den Arbeitsvertrag.
+
+  雇用機会の均等は法律で保護されている。
+  雇用機会[こようきかい]の 均等[きんとう]は 法律[ほうりつ]で 保護[ほご]されている。
+  Chancengleichheit bei der Beschäftigung ist gesetzlich geschützt.
+
+  彼女は雇用主として従業員を大切にしている。
+  彼女[かのじょ]は 雇用主[こようぬし]として 従業員[じゅうぎょういん]を 大切[たいせつ]にしている。
+  Als Arbeitgeberin schätzt sie ihre Angestellten sehr.
+
+  雇用率の上昇は経済回復の兆しだ。
+  雇用率[こようりつ]の 上昇[じょうしょう]は 経済回復[けいざいかいふく]の 兆[きざ]しだ。
+  Der Anstieg der Beschäftigungsquote ist ein Zeichen für die wirtschaftliche Erholung.
+
+  雇用差別は厳しく禁止されています。
+  雇用差別[こようさべつ]は 厳[きび]しく 禁止[きんし]されています。
+  Diskriminierung bei der Einstellung ist streng verboten.
+
+  政府は新たな雇用政策を発表した。
+  政府[せいふ]は 新[あら]たな 雇用政策[こようせいさく]を 発表[はっぴょう]した。
+  Die Regierung hat eine neue Beschäftigungspolitik angekündigt.
+
+  雇用統計によると、失業率が低下している。
+  雇用統計[こようとうけい]によると、失業率[しつぎょうりつ]が 低下[ていか]している。
+  Laut der Beschäftigungsstatistik sinkt die Arbeitslosenquote.
+
+  安定雇用を求める若者が増えている。
+  安定[あんてい] 雇用[こよう]を 求[もと]める 若者[わかもの]が 増[ふ]えている。
+  Immer mehr junge Menschen streben nach stabilen Beschäftigungsverhältnissen.
+
+  一時雇用から正規雇用への転換を目指している。
+  一時[いちじ] 雇用[こよう]から 正規[せいき] 雇用[こよう]への 転換[てんかん]を 目指[めざ]している。
+  Ich strebe einen Wechsel von einer befristeten zu einer unbefristeten Anstellung an.
+
+  過剰雇用が企業の経営を圧迫している。
+  過剰[かじょう] 雇用[こよう]が 企業[きぎょう]の 経営[けいえい]を 圧迫[あっぱく]している。
+  Überbeschäftigung belastet das Management der Unternehmen.
+
+  完全雇用を達成することは難しい。
+  完全[かんぜん] 雇用[こよう]を 達成[たっせい]することは 難[むずか]しい。
+  Es ist schwierig, Vollbeschäftigung zu erreichen.
+
+  新規雇用の面接を来週行います。
+  新規[しんき] 雇用[こよう]の 面接[めんせつ]を 来週[らいしゅう] 行[おこな]います。
+  Nächste Woche führen wir Vorstellungsgespräche für Neueinstellungen durch.
+
+  終身雇用制度は日本の特徴だった。
+  終身[しゅうしん] 雇用制度[こようせいど]は 日本[にほん]の 特徴[とくちょう]だった。
+  Das System der lebenslangen Anstellung war ein Merkmal Japans.
+
+  被雇用者の権利を守ることが重要だ。
+  被雇用者[ひこようしゃ]の 権利[けんり]を 守[まも]ることが 重要[じゅうよう]だ。
+  Es ist wichtig, die Rechte der Angestellten zu schützen.
+
+  児童の雇用は法律で禁止されている。
+  児童[じどう]の 雇用[こよう]は 法律[ほうりつ]で 禁止[きんし]されている。
+  Die Beschäftigung von Kindern ist gesetzlich verboten.
+
+  雇用環境の悪化が問題となっている。
+  雇用環境[こようかんきょう]の 悪化[あっか]が 問題[もんだい]となっている。
+  Die Verschlechterung der Beschäftigungssituation wird zum Problem.
+
+  構造的低雇用を改善するための政策が必要だ。
+  構造的[こうぞうてき] 低[てい] 雇用[こよう]を 改善[かいぜん]するための 政策[せいさく]が 必要[ひつよう]だ。
+  Es sind Maßnahmen erforderlich, um die strukturelle Unterbeschäftigung zu verbessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>雇用[こよう] bedeutet "Anstellung" oder "Beschäftigung".</p>
+  <ul>
+    <li>Es bezieht sich auf das Arbeitsverhältnis zwischen Arbeitgeber und Arbeitnehmer.</li>
+    <li>Es gibt verschiedene Arten von 雇用[こよう]:</li>
+    <div class="examples">
+      <div class="jp">正規[せいき]<u>雇用[こよう]</u></div>
+      <div class="de spoiler">Reguläre Beschäftigung (Vollzeit, unbefristet)</div>
+      <div class="jp">非正規[ひせいき]<u>雇用[こよう]</u></div>
+      <div class="de spoiler">Atypische Beschäftigung (Teilzeit, befristet, etc.)</div>
+      <div class="jp">一時[いちじ]<u>雇用[こよう]</u></div>
+      <div class="de spoiler">Befristete Anstellung oder Zeitarbeit</div>
+    </div>
+    <li>Es wird oft in Zusammenhang mit wirtschaftlichen und arbeitsmarktbezogenen Themen verwendet:</li>
+    <div class="examples">
+      <div class="jp">完全[かんぜん]<u>雇用[こよう]</u></div>
+      <div class="de spoiler">Vollbeschäftigung</div>
+      <div class="jp">過剰[かじょう]<u>雇用[こよう]</u></div>
+      <div class="de spoiler">Personalüberhang</div>
+    </div>
+  </ul>
+  <p>Als Verb (雇用[こよう]する) bedeutet es "anstellen" oder "beschäftigen":</p>
+  <div class="examples">
+    <div class="jp">工場[こうじょう]では、パート 主婦[しゅふ]が 多[おお]く<u>雇用[こよう]</u>されている。</div>
+    <div class="de spoiler">In der Fabrik sind viele Hausfrauen als Teilzeitkräfte beschäftigt.</div>
+  </div>
+  <p>In der Wirtschaftswissenschaft ist der Begriff ebenfalls wichtig:</p>
+  <div class="examples">
+    <div class="jp">『<u>雇用[こよう]</u>・ 利子[りし]及[およ]び 貨幣[かへい]の 一般[いっぱん] 理論[りろん]』</div>
+    <div class="de spoiler">"Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes" (Buch von J. M. Keynes)</div>
+  </div>
+  </p>

@@ -102,4 +102,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ばかり wird verwendet, um verschiedene Nuancen auszudrücken:</p>
+  <ul>
+    <li>Es kann eine ungefähre Menge oder einen Annäherungswert angeben:</li>
+    <div class="examples">
+      <div class="jp">二十人[にじゅうにん]<u>ばかり</u></div>
+      <div class="de spoiler">ungefähr zwanzig Personen</div>
+      <div class="jp">1/3<u>ばかり</u></div>
+      <div class="de spoiler">etwa ein Drittel</div>
+    </div>
+    <li>Es kann Ausschließlichkeit oder Begrenzung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">見[み]えるのは 髪[かみ]<u>ばかり</u>。</div>
+      <div class="de spoiler">Zu sehen war nur das Haar.</div>
+    </div>
+    <li>Nach der Vergangenheitsform eines Verbs zeigt es an, dass etwas gerade erst passiert ist:</li>
+    <div class="examples">
+      <div class="jp">大学[だいがく]を 出[で]た<u>ばかり</u>の 記者[きしゃ]</div>
+      <div class="de spoiler">Ein Journalist, der gerade erst die Universität abgeschlossen hat</div>
+    </div>
+    <li>Mit に kann es eine Ursache angeben:</li>
+    <div class="examples">
+      <div class="jp">疲[つか]れはてた<u>ばかりに</u></div>
+      <div class="de spoiler">Weil (ich) völlig erschöpft war</div>
+    </div>
+    <li>Es kann ausdrücken, dass man kurz davor ist, etwas zu tun:</li>
+    <div class="examples">
+      <div class="jp">点火[てんか]を 待[ま]つ<u>ばかり</u>になっていた</div>
+      <div class="de spoiler">War kurz davor zu zünden</div>
+    </div>
+    <li>In der Form とばかりに wird es verwendet, um eine Handlung zu betonen, als ob etwas gesagt oder gedacht würde:</li>
+    <div class="examples">
+      <div class="jp">用事[ようじ]は 終[お]わった<u>とばかりに</u> 立[た]ち 上[あ]がった。</div>
+      <div class="de spoiler">Stand auf, als ob die Angelegenheit erledigt wäre.</div>
+    </div>
+  </ul>
+  </p>

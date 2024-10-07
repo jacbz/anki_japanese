@@ -102,4 +102,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>こう wird verwendet, um auf eine bestimmte Art und Weise oder auf etwas Folgendes zu verweisen.</p>
+  <ul>
+    <li>Es bedeutet "so", "auf diese Art", "folgendermaßen" oder "wie folgt".</li>
+    <div class="examples">
+      <div class="jp">ラケットは<u>こう</u> 持[も]ってください。</div>
+      <div class="de spoiler">Halten Sie den Schläger bitte so.</div>
+      <div class="jp">子供[こども]たちの一日[いちにち]のスケジュールは<u>こう</u>なっています。</div>
+      <div class="de spoiler">Der Tagesplan der Kinder sieht so aus.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Erklärung oder Demonstration einzuleiten.</li>
+    <div class="examples">
+      <div class="jp">でも<u>こう</u>なるんなら、それでよかったのね。</div>
+      <div class="de spoiler">Aber wie die Dinge sich entwickelt haben, war es vielleicht besser so.</div>
+    </div>
+  </ul>
+  <p>こう kann auch als Interjektion verwendet werden:</p>
+  <ul>
+    <li>Es wird benutzt, um Zeit zum Nachdenken zu gewinnen oder um nach Worten zu suchen.</li>
+    <div class="examples">
+      <div class="jp"><u>こう</u>、どう 言[い]えばいいかな...</div>
+      <div class="de spoiler">Also, wie soll ich das sagen...</div>
+    </div>
+  </ul>
+  <p>Häufige Ausdrücke mit こう:</p>
+  <ul>
+    <li><span class="jp">ああだ<u>こう</u>だ</span>: "dies und das", "so und so"</li>
+    <li><span class="jp">ああでもない<u>こう</u>でもない</span>: "weder das eine noch das andere"</li>
+    <li><span class="jp">ああ 言[い]えば<u>こう</u> 言[い]う</span>: "egal was man sagt, es gibt immer eine Antwort"</li>
+    <li><span class="jp"><u>こう</u> 見[み]えても</span>: "obwohl es so aussieht", "trotz des Anscheins"</li>
+    </div>

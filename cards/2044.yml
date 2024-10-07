@@ -2,7 +2,7 @@ Rang: 2044
 Lemma: 改めて
 Lesung: あらためて
 Tonhöhen: /^\..
-Definition: noch einmal; zu einem anderen Zeitpunkt
+Definition: erneut, nochmals
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   後ほど改めてお電話いたします。
-  後[のち]ほど 改[あらた]めてお 電話[でんわ]いたします。
-  Ich werde später noch einmal anrufen.
+  後[あと]ほど 改[あらた]めてお 電話[でんわ]いたします。
+  Ich werde Sie später nochmals anrufen.
+
+  改めて申し上げますが、このプロジェクトは非常に重要です。
+  改[あらた]めて 申[もう]し 上[あ]げますが、このプロジェクトは 非常[ひじょう]に 重要[じゅうよう]です。
+  Ich möchte noch einmal betonen, dass dieses Projekt sehr wichtig ist.
+
+  新年を迎え、改めて目標を設定しました。
+  新年[しんねん]を 迎[むか]え、改[あらた]めて 目標[もくひょう]を 設定[せってい]しました。
+  Zum Jahresbeginn habe ich meine Ziele erneut festgelegt.
+
+  彼女の話を聞いて、改めて人生の大切さを実感しました。
+  彼女[かのじょ]の 話[はなし]を 聞[き]いて、改[あらた]めて 人生[じんせい]の 大切[たいせつ]さを 実感[じっかん]しました。
+  Nachdem ich ihre Geschichte gehört hatte, wurde mir die Wichtigkeit des Lebens erneut bewusst.
+
+  改めて考えてみると、その決断は正しかったと思います。
+  改[あらた]めて 考[かんが]えてみると、その 決断[けつだん]は 正[ただ]しかったと 思[おも]います。
+  Wenn ich es mir nochmal überlege, denke ich, dass diese Entscheidung richtig war.
+
+  その件については、改めてご連絡させていただきます。
+  その 件[けん]については、改[あらた]めてご 連絡[れんらく]させていただきます。
+  Bezüglich dieser Angelegenheit werde ich mich erneut bei Ihnen melden.
+
+  試験の結果を見て、改めて勉強の必要性を感じました。
+  試験[しけん]の 結果[けっか]を 見[み]て、改[あらた]めて 勉強[べんきょう]の 必要性[ひつようせい]を 感[かん]じました。
+  Als ich die Prüfungsergebnisse sah, wurde mir die Notwendigkeit des Lernens wieder bewusst.
+
+  改めて確認しましたが、書類に不備はありませんでした。
+  改[あらた]めて 確認[かくにん]しましたが、書類[しょるい]に 不備[ふび]はありませんでした。
+  Ich habe es nochmal überprüft, aber es gab keine Mängel in den Unterlagen.
+
+  新しい情報が入ったので、改めて計画を見直す必要があります。
+  新[あたら]しい 情報[じょうほう]が 入[はい]ったので、改[あらた]めて 計画[けいかく]を 見直[みなお]す 必要[ひつよう]があります。
+  Da wir neue Informationen erhalten haben, müssen wir den Plan erneut überprüfen.
+
+  長い間会っていなかったので、改めて自己紹介をしました。
+  長[なが]い 間[あいだ] 会[あ]っていなかったので、改[あらた]めて 自己紹介[じこしょうかい]をしました。
+  Da wir uns lange nicht gesehen hatten, stellte ich mich nochmal vor.
+
+  改めて言うまでもないが、安全第一で作業を行ってください。
+  改[あらた]めて 言[い]うまでもないが、安全[あんぜん] 第一[だいいち]で 作業[さぎょう]を 行[おこな]ってください。
+  Es muss nicht extra betont werden, aber bitte arbeiten Sie mit Sicherheit als oberste Priorität.
+
+  思い切った改革の必要性があらためて浮かび上がった。
+  思[おも]い 切[き]った 改革[かいかく]の 必要性[ひつようせい]が 改[あらた]めて 浮[う]かび 上[あ]がった。
+  Wieder einmal ist klar geworden, dass einschneidende Reformen notwendig sind.
+
+  「今ちょうど、ねえ、おかあさん」と息子があらためて話を切り出した。
+  「 今[いま]ちょうど、ねえ、おかあさん」と 息子[むすこ]が 改[あらた]めて 話[はなし]を 切[き]り 出[だ]した。
+  "Gerade eben, weißt du, Mutter", begann der Sohn erneut das Gespräch.
+
+  改めて考えると、あの時の決断は間違っていたかもしれません。
+  改[あらた]めて 考[かんが]えると、あの 時[とき]の 決断[けつだん]は 間違[まちが]っていたかもしれません。
+  Wenn ich es mir jetzt noch einmal überlege, war diese Entscheidung damals vielleicht falsch.
+
+  新しい環境に慣れてきて、改めて仕事の楽しさを感じています。
+  新[あたら]しい 環境[かんきょう]に 慣[な]れてきて、改[あらた]めて 仕事[しごと]の 楽[たの]しさを 感[かん]じています。
+  Nachdem ich mich an die neue Umgebung gewöhnt habe, spüre ich erneut die Freude an der Arbeit.
+
+  会議で改めて議題を確認し、討論を始めました。
+  会議[かいぎ]で 改[あらた]めて 議題[ぎだい]を 確認[かくにん]し、討論[とうろん]を 始[はじ]めました。
+  In der Sitzung haben wir die Tagesordnungspunkte nochmals bestätigt und die Diskussion begonnen.
+
+  彼の業績を改めて評価し、昇進を決定しました。
+  彼[かれ]の 業績[ぎょうせき]を 改[あらた]めて 評価[ひょうか]し、昇進[しょうしん]を 決定[けってい]しました。
+  Nach erneuter Bewertung seiner Leistungen wurde seine Beförderung beschlossen.
+
+  今回の経験で、改めて家族の大切さを実感しました。
+  今回[こんかい]の 経験[けいけん]で、改[あらた]めて 家族[かぞく]の 大切[たいせつ]さを 実感[じっかん]しました。
+  Durch diese Erfahrung wurde mir die Wichtigkeit der Familie erneut bewusst.
+
+  改めて確認したところ、予約は明日の午後3時でした。
+  改[あらた]めて 確認[かくにん]したところ、予約[よやく]は 明日[あした]の 午後[ごご]3時[じ]でした。
+  Nach nochmaliger Überprüfung stellte sich heraus, dass der Termin morgen um 15 Uhr ist.
+
+  この問題については、改めて専門家に相談する必要があります。
+  この 問題[もんだい]については、改[あらた]めて 専門家[せんもんか]に 相談[そうだん]する 必要[ひつよう]があります。
+  Bezüglich dieses Problems müssen wir erneut einen Experten konsultieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

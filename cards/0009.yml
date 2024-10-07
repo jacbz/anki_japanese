@@ -110,4 +110,49 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>と ist eine vielseitige Partikel mit mehreren wichtigen Funktionen:</p>
+  <ol>
+    <li>Aufzählung (und):</li>
+    <div class="examples">
+      <div class="jp">リンゴ<u>と</u>バナナ<u>と</u>オレンジを 買[か]った。</div>
+      <div class="de spoiler">Ich habe Äpfel, Bananen und Orangen gekauft.</div>
+    </div>
+    <li>Gemeinsame Handlung (mit):</li>
+    <div class="examples">
+      <div class="jp">友達[ともだち]<u>と</u> 映画[えいが]を 見[み]に 行[い]った。</div>
+      <div class="de spoiler">Ich bin mit einem Freund ins Kino gegangen.</div>
+    </div>
+    <li>Ergebnis oder Zweck (zu ... werden/machen):</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 医者[いしゃ]<u>と</u>なった。</div>
+      <div class="de spoiler">Er ist Arzt geworden.</div>
+    </div>
+    <li>Zitate oder indirekte Rede:</li>
+    <div class="examples">
+      <div class="jp">「はい」<u>と</u> 彼[かれ]は 答[こた]えた。</div>
+      <div class="de spoiler">Er antwortete "Ja".</div>
+    </div>
+    <li>Häufigkeit oder Begrenzung:</li>
+    <div class="examples">
+      <div class="jp">一日[いちにち]に 一回[いっかい]<u>と</u> 決[き]めた。</div>
+      <div class="de spoiler">Ich habe beschlossen, es einmal pro Tag zu machen.</div>
+    </div>
+    <li>Bedingung (wenn, sobald):</li>
+    <div class="examples">
+      <div class="jp">春[はる]<u>と</u>なる<u>と</u>、 桜[さくら]が 咲[さ]く。</div>
+      <div class="de spoiler">Wenn es Frühling wird, blühen die Kirschblüten.</div>
+    </div>
+    <li>Temporalsatz (als):</li>
+    <div class="examples">
+      <div class="jp">家[いえ]に 帰[かえ]る<u>と</u>、 電話[でんわ]が 鳴[な]っていた。</div>
+      <div class="de spoiler">Als ich nach Hause kam, klingelte das Telefon.</div>
+    </div>
+    <li>Überraschung oder Zweifel am Satzende:</li>
+    <div class="examples">
+      <div class="jp">明日[あした] 来[こ]ない<u>と</u>？</div>
+      <div class="de spoiler">Du kommst morgen nicht? (Wirklich?)</div>
+    </div>
+  </ol>
+  <p>Beachte auch verwandte Ausdrücke wie <span class="jp">と 言[い]った</span> (wie zum Beispiel), <span class="jp">と 言[い]って</span> (sagend), <span class="jp">と 言[い]う</span> (genannt), <span class="jp">と 言[い]うと</span> (wenn man sagt), <span class="jp">とすると</span> (wenn man annimmt).</p>
+  </p>

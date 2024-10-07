@@ -106,4 +106,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どんな ist ein attributives Adjektiv mit zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Es wird verwendet, um nach der Art oder Beschaffenheit von etwas zu fragen:</li>
+    <div class="examples">
+      <div class="jp">日本[にほん]<u>はどんな</u>国[くに]ですか。</div>
+      <div class="de spoiler">Was für ein Land ist Japan?</div>
+      <div class="jp">バーで<u>どんな</u>ものを食[た]べるの？</div>
+      <div class="de spoiler">Was isst du normalerweise in Bars?</div>
+    </div>
+    <li>In Kombination mit も (auch) drückt es "jeder" oder "egal welcher" aus:</li>
+    <div class="examples">
+      <div class="jp"><u>どんな</u>芝居[しばい]も、<u>どんな</u>お話[はなし]にも、彼[かれ]は本気[ほんき]でとりくむのです。</div>
+      <div class="de spoiler">Er nimmt jedes Spiel und jede Geschichte ernst.</div>
+      <div class="jp"><u>どんな</u>バカにもわかる話[はなし]だ。</div>
+      <div class="de spoiler">Das versteht selbst der größte Idiot.</div>
+    </div>
+  </ol>
+  <p>Wichtige Ausdrücke mit どんな:</p>
+  <ul>
+    <li><span class="jp"><u>どんな</u>事[こと]があっても</span>: Was auch immer passiert; auf jeden Fall</li>
+    <div class="examples">
+      <div class="jp"><u>どんな</u>事[こと]があっても、約束[やくそく]を守[まも]ります。</div>
+      <div class="de spoiler">Ich werde mein Versprechen halten, egal was passiert.</div>
+    </div>
+    <li><span class="jp"><u>どんな</u>事[こと]をしても</span>: Mit allen Mitteln; um jeden Preis</li>
+    <div class="examples">
+      <div class="jp"><u>どんな</u>事[こと]をしても塚田[つかだ]を助[たす]けねばと彼[かれ]は思[おも]った。</div>
+      <div class="de spoiler">Er dachte, er müsse alles tun, um Tsukada zu retten.</div>
+    </div>
+    <li><span class="jp"><u>どんな</u>もんだい</span> oder <span class="jp"><u>どんな</u>ものでしょう</span>: Was meinst du dazu?</li>
+    <div class="examples">
+      <div class="jp">あれだけの証拠[しょうこ]がありゃ充分[じゅうぶん]だと思[おも]いますが、<u>どんな</u>ものでしょう。</div>
+      <div class="de spoiler">Ich denke, das ist Beweis genug, oder was meinen Sie?</div>
+    </div>
+  </ul>
+  </p>

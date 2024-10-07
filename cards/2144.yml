@@ -2,8 +2,8 @@ Rang: 2144
 Lemma: ご覧
 Lesung: ごらん
 Tonhöhen: /^^
-Definition: Anschauen, Sehen (ehrfürchtig)
-Alternativschreibweisen: ''
+Definition: sehen, betrachten (höflich)
+Alternativschreibweisen: 御覧
 Extra: '' # Nur bei suru-Verben
 Wortart: n, phr
 Register: ''
@@ -15,11 +15,125 @@ Konjugation: ''
 Beispielsätze: |-
   結果はご覧の通りです。
   結果[けっか]はご 覧[らん]の 通[とお]りです。
-  Die Ergebnisse sind wie Sie sehen können.
+  Das Ergebnis ist, wie Sie sehen.
+
+  さあ、坊や、この世界をよくごらん！
+  さあ、坊[ぼう]や、この 世界[せかい]をよくごらん！
+  Nun, mein Junge, betrachte diese Welt genau!
+
+  「さあ、遠慮せずに言ってごらん。」
+  「さあ、遠慮[えんりょ]せずに 言[い]ってごらん。」
+  "Los, sag es mir ohne Zurückhaltung."
+
+  最初からもう一度、順序どおりに繰返してみてごらん。
+  最初[さいしょ]からもう 一度[いちど]、順序[じゅんじょ]どおりに 繰[く]り 返[かえ]してみてごらん。
+  Versuch es noch einmal von Anfang an, der Reihe nach.
+
+  「考えてご覧な — 私がお嫁に来たのは、今のお仙より若い時なんですもの」
+  「考[かんが]えてご 覧[らん]な — 私[わたし]がお 嫁[よめ]に 来[き]たのは、今[いま]のお 仙[せん]より 若[わか]い 時[とき]なんですもの」
+  "Überleg mal - ich war sogar jünger als O-Sen jetzt, als ich in diese Familie einheiratete!"
+
+  ラップさん、あなたはこのかたに我々の聖書をご覧に入れましたか？
+  ラップさん、あなたはこのかたに 我々[われわれ]の 聖書[せいしょ]をご 覧[らん]に 入[い]れましたか？
+  Herr Lapp, haben Sie diesem Herrn schon unsere Heilige Schrift gezeigt?
+
+  「しかし、何処かで、顔のない人間をご覧になったことがありますか？」
+  「しかし、何処[どこ]かで、顔[かお]のない 人間[にんげん]をご 覧[らん]になったことがありますか？」
+  "Aber haben Sie irgendwo schon einmal einen Menschen ohne Gesicht gesehen?"
+
+  「あなたもきっと、庭をご覧になりたいでしょう？」
+  「あなたもきっと、庭[にわ]をご 覧[らん]になりたいでしょう？」
+  "Sie möchten sicher auch den Garten sehen, nicht wahr?"
+
+  「よくご覧になってください」
+  「よくご 覧[らん]になってください」
+  "Bitte schauen Sie genau hin."
+
+  「主人のシャツが、うまく合ってくれるといいんだけど⋯⋯着てご覧になる?」
+  「主人[しゅじん]のシャツが、うまく 合[あ]ってくれるといいんだけど⋯⋯ 着[き]てご 覧[らん]になる?」
+  "Ich hoffe, die Hemden meines Mannes passen Ihnen gut... Möchten Sie eines anprobieren?"
+
+  「試みにやってご覧になるとよくわかります」
+  「試[こころ]みにやってご 覧[らん]になるとよくわかります」
+  "Wenn Sie es einmal versuchen, werden Sie es gut verstehen."
+
+  「ほら、ご覧！」
+  「ほら、ご 覧[らん]！」
+  "Sieh mal!"
+
+  ここをご覧ください。重要な情報が書いてあります。
+  ここをご 覧[らん]ください。重要[じゅうよう]な 情報[じょうほう]が 書[か]いてあります。
+  Bitte schauen Sie hier. Hier stehen wichtige Informationen.
+
+  この絵をよくご覧になってください。細部まで描かれています。
+  この 絵[え]をよくご 覧[らん]になってください。細部[さいぶ]まで 描[えが]かれています。
+  Bitte betrachten Sie dieses Bild genau. Es ist bis ins kleinste Detail gemalt.
+
+  新しい製品をご覧に入れましょう。
+  新[あたら]しい 製品[せいひん]をご 覧[らん]に 入[い]れましょう。
+  Lassen Sie mich Ihnen unser neues Produkt zeigen.
+
+  資料をご覧になりましたか？
+  資料[しりょう]をご 覧[らん]になりましたか？
+  Haben Sie sich die Unterlagen angesehen?
+
+  ご覧のように、今日は天気が良いですね。
+  ご 覧[らん]のように、今日[きょう]は 天気[てんき]が 良[よ]いですね。
+  Wie Sie sehen können, ist das Wetter heute schön.
+
+  もう一度ご覧になりますか？
+  もう 一度[いちど]ご 覧[らん]になりますか？
+  Möchten Sie es noch einmal ansehen?
+
+  ご覧になった後、感想をお聞かせください。
+  ご 覧[らん]になった 後[あと]、感想[かんそう]をお 聞[き]かせください。
+  Bitte teilen Sie mir Ihre Eindrücke mit, nachdem Sie es gesehen haben.
+
+  「ほら、ご覧。言った通りでしょう？」
+  「ほら、ご 覧[らん]。言[い]った 通[とお]りでしょう？」
+  "Siehst du? Habe ich es dir nicht gesagt?"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ご覧 ist eine höfliche Form für "sehen" oder "betrachten".</p>
+  <ul>
+    <li>Es kann als Nomen verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">『生命[せいめい]の 樹[き]』には<u>ご覧</u>の 通[とお]り、 金[きん]と 緑[みどり]との 果[み]がなっています。</div>
+      <div class="de spoiler">Wie Sie sehen, trägt der Baum des Lebens goldene und grüne Früchte.</div>
+    </div>
+    <li>Es wird oft als Aufforderung benutzt, etwas anzusehen oder zu betrachten:</li>
+    <div class="examples">
+      <div class="jp">さあ、 坊[ぼう]や、この 世界[せかい]をよく<u>ごらん</u>！</div>
+      <div class="de spoiler">Komm, Sohn, betrachte dir die Welt!</div>
+    </div>
+    <li>Es kann auch verwendet werden, um jemanden aufzufordern, etwas zu tun oder zu versuchen:</li>
+    <div class="examples">
+      <div class="jp">さあ、 遠慮[えんりょ]せずに 言[い]って<u>ごらん</u>。</div>
+      <div class="de spoiler">Sag es mir! Aber ohne Umschweife!</div>
+    </div>
+  </ul>
+  <p>Erweiterte Formen und Verwendungen:</p>
+  <ul>
+    <li><span class="jp"><u>ご覧</u>に 入[い]れる</span>: jemandem etwas zeigen (höflich)</li>
+    <div class="examples">
+      <div class="jp">ラップさん、あなたはこのかたに 我々[われわれ]の 聖書[せいしょ]を<u>御覧</u>に 入[い]れましたか？</div>
+      <div class="de spoiler">Herr Lapp, haben Sie dem Herrn schon unser heiliges Buch gezeigt?</div>
+    </div>
+    <li><span class="jp"><u>ご覧</u>になる</span>: schauen, sehen, betrachten (höflich)</li>
+    <div class="examples">
+      <div class="jp">あなたもきっと、 庭[にわ]を<u>ごらん</u>になりたいでしょう？</div>
+      <div class="de spoiler">Sie wollen gewiss den Garten sehen?</div>
+    </div>
+    <li><span class="jp">〜て<u>ごらん</u>になる</span>: versuchen, etwas zu tun (höflich)</li>
+    <div class="examples">
+      <div class="jp">試[ため]みにやって<u>ごらん</u>になるとよくわかります。</div>
+      <div class="de spoiler">Wenn Sie es einmal probierten, wüssten Sie Bescheid!</div>
+    </div>
+  </ul>
+  <p><span class="jp"><u>ごらん</u>！</span> kann auch als Ausruf verwendet werden, um zu sagen "Siehst du!" oder "Da hast du's!"</p>
+  </p>

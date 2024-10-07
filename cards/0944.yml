@@ -102,4 +102,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>年 wird hauptsächlich in zwei Bedeutungen verwendet:</p>
+  <ul>
+    <li>Als Nomen für "Jahr"</li>
+    <div class="examples">
+      <div class="jp">年[ねん]に 三百[さんびゃく]俵[ひょう]をあたえられている</div>
+      <div class="de spoiler">Mit den dreihundert Koku, die ihm im Jahr zustanden</div>
+    </div>
+    <li>Als Zählwort für Jahre</li>
+    <div class="examples">
+      <div class="jp">1982<u>年</u></div>
+      <div class="de spoiler">Im Jahr 1982</div>
+      <div class="jp">2<u>年</u>延長[えんちょう]する</div>
+      <div class="de spoiler">Um zwei Jahre verlängern</div>
+    </div>
+  </ul>
+  <p>Es kann auch als Abkürzung für <span class="jp">年季[ねんき]</span> (Dienstzeit, Vertragslaufzeit) verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">年[ねん]があけたら 自前[じまえ]で 稼[かせ]いで</div>
+    <div class="de spoiler">Wenn deine Dienstzeit vorbei ist, kannst du für dich selbst arbeiten</div>
+  </div>
+  <p>Als Zählwort wird 年 verwendet für:</p>
+  <ul>
+    <li>Kalenderjahre</li>
+    <li>Schul- oder Studienjahre</li>
+  </ul>
+  <div class="examples">
+    <div class="jp">5<u>年</u>後[ご]の2002<u>年</u>度[ど]に</div>
+    <div class="de spoiler">In fünf Jahren, also im Jahr 2002</div>
+  </div>
+  </p>

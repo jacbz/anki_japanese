@@ -2,7 +2,7 @@ Rang: 2143
 Lemma: つつある
 Lesung: ''
 Tonhöhen: ''
-Definition: sich in einem Prozess befinden, gerade tun
+Definition: im Begriff sein zu; dabei sein zu
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: postp
@@ -14,12 +14,108 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   日本では子供の数が減りつつある。
-  日本[にっぽん]では 子供[こども]の 数[かず]が 減[へ]りつつある。
-  In Japan nimmt die Anzahl der Kinder ab.
+  日本[にほん]では 子供[こども]の 数[かず]が 減[へ]りつつある。
+  In Japan geht die Kinderzahl stetig zurück.
+
+  彼の健康状態は徐々に悪化しつつある。
+  彼[かれ]の 健康状態[けんこうじょうたい]は 徐々[じょじょ]に 悪化[あっか]しつつある。
+  Sein Gesundheitszustand verschlechtert sich allmählich.
+
+  新しい技術が従来の方法に取って代わりつつある。
+  新[あたら]しい 技術[ぎじゅつ]が 従来[じゅうらい]の 方法[ほうほう]に 取[と]って 代[か]わりつつある。
+  Neue Technologien ersetzen zunehmend herkömmliche Methoden.
+
+  環境問題への意識が高まりつつある。
+  環境問題[かんきょうもんだい]への 意識[いしき]が 高[たか]まりつつある。
+  Das Bewusstsein für Umweltprobleme wächst stetig.
+
+  彼女の影響力は着実に拡大しつつある。
+  彼女[かのじょ]の 影響力[えいきょうりょく]は 着実[ちゃくじつ]に 拡大[かくだい]しつつある。
+  Ihr Einfluss dehnt sich stetig aus.
+
+  天候は急速に崩れつつあった。
+  天候[てんこう]は 急速[きゅうそく]に 崩[くず]れつつあった。
+  Das Wetter verschlechterte sich zusehends.
+
+  金庫の構造も、従来の耐火型から防盗に重点を置いたものに変わりつつある。
+  金庫[きんこ]の 構造[こうぞう]も、従来[じゅうらい]の 耐火型[たいかがた]から 防盗[ぼうとう]に 重点[じゅうてん]を 置[お]いたものに 変[か]わりつつある。
+  Auch bei der Bauart der Tresore verschiebt sich das Hauptaugenmerk von der herkömmlichen Feuerfestigkeit immer mehr zur Diebstahlsicherung.
+
+  彼らの関係は少しずつ改善しつつある。
+  彼[かれ]らの 関係[かんけい]は 少[すこ]しずつ 改善[かいぜん]しつつある。
+  Ihre Beziehung verbessert sich nach und nach.
+
+  その会社の業績は徐々に回復しつつある。
+  その 会社[かいしゃ]の 業績[ぎょうせき]は 徐々[じょじょ]に 回復[かいふく]しつつある。
+  Die Leistung dieses Unternehmens erholt sich allmählich.
+
+  彼の小説は次第に人気を集めつつある。
+  彼[かれ]の 小説[しょうせつ]は 次第[しだい]に 人気[にんき]を 集[あつ]めつつある。
+  Seine Romane gewinnen zunehmend an Popularität.
+
+  地球温暖化の影響が日々顕在化しつつある。
+  地球温暖化[ちきゅうおんだんか]の 影響[えいきょう]が 日々[ひび] 顕在化[けんざいか]しつつある。
+  Die Auswirkungen der globalen Erwärmung werden täglich sichtbarer.
+
+  彼女の夢は少しずつ実現しつつある。
+  彼女[かのじょ]の 夢[ゆめ]は 少[すこ]しずつ 実現[じつげん]しつつある。
+  Ihr Traum wird langsam aber sicher Wirklichkeit.
+
+  新しい法律が徐々に施行されつつある。
+  新[あたら]しい 法律[ほうりつ]が 徐々[じょじょ]に 施行[しこう]されつつある。
+  Die neuen Gesetze werden schrittweise in Kraft gesetzt.
+
+  その計画は着々と進行しつつある。
+  その 計画[けいかく]は 着々[ちゃくちゃく]と 進行[しんこう]しつつある。
+  Der Plan schreitet stetig voran.
+
+  彼の才能が日に日に開花しつつある。
+  彼[かれ]の 才能[さいのう]が 日[ひ]に 日[ひ]に 開花[かいか]しつつある。
+  Sein Talent entfaltet sich von Tag zu Tag.
+
+  その問題は徐々に解決に向かいつつある。
+  その 問題[もんだい]は 徐々[じょじょ]に 解決[かいけつ]に 向[む]かいつつある。
+  Das Problem nähert sich langsam einer Lösung.
+
+  彼女の考え方は少しずつ変化しつつある。
+  彼女[かのじょ]の 考[かんが]え方[かた]は 少[すこ]しずつ 変化[へんか]しつつある。
+  Ihre Denkweise ändert sich allmählich.
+
+  新しい街づくりが着実に進んでつつある。
+  新[あたら]しい 街[まち]づくりが 着実[ちゃくじつ]に 進[すす]んでつつある。
+  Die Entwicklung der neuen Stadt macht stetige Fortschritte.
+
+  彼の体調は日を追うごとに良くなりつつある。
+  彼[かれ]の 体調[たいちょう]は 日[ひ]を 追[お]うごとに 良[よ]くなりつつある。
+  Sein Gesundheitszustand verbessert sich mit jedem Tag.
+
+  科学技術の進歩により、不可能だと思われていたことが可能になりつつある。
+  科学技術[かがくぎじゅつ]の 進歩[しんぽ]により、不可能[ふかのう]だと 思[おも]われていたことが 可能[かのう]になりつつある。
+  Durch den Fortschritt in Wissenschaft und Technologie wird das, was für unmöglich gehalten wurde, zunehmend möglich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>つつある wird verwendet, um eine fortschreitende oder sich entwickelnde Handlung auszudrücken.</p>
+  <ul>
+    <li>Es drückt aus, dass etwas gerade dabei ist, sich zu verändern oder zu entwickeln.</li>
+    <li>Die Struktur besteht aus: Verb (Konjunktionalform) + つつ + ある</li>
+    <div class="examples">
+      <div class="jp">天候[てんこう]<u>は</u> 急速[きゅうそく]に 崩[くず]れ<u>つつあった</u>。</div>
+      <div class="de spoiler">Das Wetter verschlechterte sich zusehends.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um gleichzeitige oder wiederholte Handlungen auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">子供[こども]<u>は</u>すべての 人[ひと]の 注意[ちゅうい]と 同情[どうじょう]をひき<u>つつ</u>、しきりに 泣[な]きさけんでいる。</div>
+      <div class="de spoiler">Das Kind zieht die Aufmerksamkeit und das Mitgefühl aller Leute auf sich, während es weinend und schreiend umherirrt.</div>
+    </div>
+  </ul>
+  <p>つつ allein kann auch verwendet werden, um Gegensätzlichkeit auszudrücken.</p>
+  <div class="examples">
+    <div class="jp">政府[せいふ]の 方針[ほうしん]を 批判[ひはん]し<u>つつ</u> 実[じつ]<u>は</u> 支持[しじ]する</div>
+    <div class="de spoiler">Die Regierungspläne kritisieren, sie dabei aber in Wirklichkeit unterstützen.</div>
+  </div>
+  </p>

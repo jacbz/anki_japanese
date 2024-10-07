@@ -102,4 +102,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>て ist eine sehr vielseitige Verbindungsform im Japanischen. Sie wird an die Konjunktionalform (auch て-Form genannt) von Verben und Adjektiven angehängt.</p>
+  <ul>
+    <li>Hauptfunktion: Verbindung von Sätzen oder Satzteilen</li>
+    <li>Mögliche logische Beziehungen zwischen den verbundenen Elementen:</li>
+    <ul>
+      <li>Einfache Aufzählung</li>
+      <li>Zeitliche Abfolge</li>
+      <li>Ursache und Wirkung</li>
+      <li>Gegensatz</li>
+    </ul>
+  </ul>
+  <p>Beispiele für verschiedene Verwendungen:</p>
+  <div class="examples">
+    <div class="jp">本[ほん]を 読[よ]ん<u>で</u>、音楽[おんがく]を 聴[き]きます。</div>
+    <div class="de spoiler">Ich lese ein Buch und höre Musik.</div>
+    <div class="jp">朝[あさ] 起[お]き<u>て</u>、顔[かお]を 洗[あら]います。</div>
+    <div class="de spoiler">Ich stehe auf und wasche mir das Gesicht.</div>
+    <div class="jp">雨[あめ]が 降[ふ]っ<u>て</u>、試合[しあい]が 中止[ちゅうし]になりました。</div>
+    <div class="de spoiler">Es regnete, und das Spiel wurde abgesagt.</div>
+  </div>
+  <p>Weitere Verwendungen:</p>
+  <ul>
+    <li>Am Satzende (oft von Frauen benutzt) für eine höfliche, unvollendete Aussage:</li>
+    <div class="examples">
+      <div class="jp">明日[あした]は 忙[いそが]しく<u>て</u>。</div>
+      <div class="de spoiler">Ich bin morgen beschäftigt, weißt du...</div>
+    </div>
+    <li>Für höfliche Aufforderungen:</li>
+    <div class="examples">
+      <div class="jp">待[ま]っ<u>て</u>ください。</div>
+      <div class="de spoiler">Bitte warten Sie.</div>
+    </div>
+    <li>Als verkürzte Form von と für Zitate (oft als って ausgesprochen):</li>
+    <div class="examples">
+      <div class="jp">名前[なまえ]は 何[なん]<u>て</u> 言[い]うの？</div>
+      <div class="de spoiler">Wie heißt du?</div>
+    </div>
+  </ul>
+  <p>Die て-Form ist grundlegend für viele komplexere Satzstrukturen und Ausdrücke im Japanischen und wird häufig in der Alltagssprache verwendet.</p>
+  <p></p>

@@ -106,4 +106,48 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>本 ist ein vielseitiges Wort mit mehreren Bedeutungen und Verwendungen:</p>
+  <h3>Als Nomen (本)</h3>
+  <p>Bedeutet "Buch".</p>
+  <div class="examples">
+    <div class="jp">節子[せつこ]は 沢辺[さわべ] 惇[じゅん]から一冊[いっさつ]ずつ<u>本</u>を 借[か]りて 読[よ]んでいた。</div>
+    <div class="de spoiler">Setsuko lieh sich nach und nach Bücher von Jun Sawabe und las sie.</div>
+  </div>
+  <h3>Als Zählwort (～本)</h3>
+  <p>Wird verwendet für:</p>
+  <ul>
+    <li>Lange, schmale Gegenstände (Stifte, Schirme, Flaschen, Bäume, Straßen, etc.)</li>
+    <div class="examples">
+      <div class="jp">壁[かべ]に、一<u>本</u>の 頭髪[とうはつ]がついていた。</div>
+      <div class="de spoiler">An der Wand klebte ein Haar.</div>
+    </div>
+    <li>Telefonate oder Briefe</li>
+    <li>Zugfahrten</li>
+    <div class="examples">
+      <div class="jp">事故[じこ]で 中央線[ちゅうおうせん]の 十[じゅう]<u>本</u>に 遅[おく]れが 出[で]る。</div>
+      <div class="de spoiler">Aufgrund eines Unfalls verspäten sich zehn Züge der Chuo-Linie.</div>
+    </div>
+    <li>Sportliche Aktionen (Treffer, Pässe, Sprünge, etc.)</li>
+    <div class="examples">
+      <div class="jp">一<u>本</u>目[め]のジャンプ</div>
+      <div class="de spoiler">Der erste Sprung</div>
+    </div>
+    <li>Aufführungen, Vorträge, Artikel, Filme, etc.</li>
+    <div class="examples">
+      <div class="jp">映画[えいが] 二[に]<u>本</u></div>
+      <div class="de spoiler">Zwei Filme</div>
+    </div>
+  </ul>
+  <h3>Als Präfix (本～)</h3>
+  <p>Kann bedeuten:</p>
+  <ul>
+    <li>"Dieser/diese/dieses" oder "gegenwärtig"</li>
+    <div class="examples">
+      <div class="jp"><u>本</u>学期[がっき]</div>
+      <div class="de spoiler">Dieses Semester</div>
+    </div>
+    <li>"Haupt-" oder "zentral"</li>
+    <li>"Echt" oder "original"</li>
+  </ul>
+  </p>

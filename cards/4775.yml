@@ -2,7 +2,7 @@ Rang: 4775
 Lemma: のみならず
 Lesung: ''
 Tonhöhen: \....
-Definition: darüber hinaus, außerdem; nicht nur, sondern
+Definition: nicht nur ... (sondern auch)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: phr
@@ -14,12 +14,105 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は日本のみならず、海外でも有名な学者だ。
-  彼[かれ]は 日本[にっぽん]のみならず、 海外[かいがい]でも 有名[ゆうめい]な 学者[がくしゃ]だ。
-  Er ist ein berühmter Gelehrter nicht nur in Japan, sondern auch im Ausland.
+  彼[かれ]は 日本[にほん]のみならず、海外[かいがい]でも 有名[ゆうめい]な 学者[がくしゃ]だ。
+  Er ist nicht nur in Japan, sondern auch im Ausland ein bekannter Wissenschaftler.
+
+  暑さのみならず湿気が多く、とても不快な天候だ。
+  暑[あつ]さのみならず 湿気[しっけ]が 多[おお]く、とても 不快[ふかい]な 天候[てんこう]だ。
+  Es ist nicht nur heiß, sondern auch feucht, was das Wetter sehr unangenehm macht.
+
+  自分のためのみならず他人のためにも行動することが大切だ。
+  自分[じぶん]のためのみならず 他人[たにん]のためにも 行動[こうどう]することが 大切[たいせつ]だ。
+  Es ist wichtig, nicht nur für sich selbst, sondern auch für andere zu handeln.
+
+  国内のみならず海外にも支店を持つ企業です。
+  国内[こくない]のみならず 海外[かいがい]にも 支店[してん]を 持[も]つ 企業[きぎょう]です。
+  Es ist ein Unternehmen, das nicht nur im Inland, sondern auch im Ausland Filialen hat.
+
+  彼女は歌が上手なのみならず、作曲の才能もある。
+  彼女[かのじょ]は 歌[うた]が 上手[じょうず]なのみならず、作曲[さっきょく]の 才能[さいのう]もある。
+  Sie kann nicht nur gut singen, sondern hat auch Talent zum Komponieren.
+
+  大谷派のみならず、各宗各派の青年がここで学んでいる。
+  大谷派[おおたには]のみならず、各宗各派[かくしゅうかくは]の 青年[せいねん]がここで 学[まな]んでいる。
+  Nicht nur junge Männer der Ōtani-Richtung, sondern auch aller anderen Zweige und Richtungen studieren hier.
+
+  蚊は顔を刺すのみならず、口の中へも飛び込もうとする。
+  蚊[か]は 顔[かお]を 刺[さ]すのみならず、口[くち]の 中[なか]へも 飛[と]び 込[こ]もうとする。
+  Die Mücken stechen nicht nur ins Gesicht, sondern versuchen auch, in den Mund zu fliegen.
+
+  この議論は道徳上大切であるのみならず、意志の哲学的性質を明らかにする。
+  この 議論[ぎろん]は 道徳上[どうとくじょう] 大切[たいせつ]であるのみならず、意志[いし]の 哲学的[てつがくてき] 性質[せいしつ]を 明[あき]らかにする。
+  Diese Diskussion ist nicht nur moralisch wichtig, sondern klärt auch die philosophischen Eigenschaften des Willens.
+
+  私はそれで満足していた。のみならず、この関係の神秘的な豊かさに感謝していた。
+  私[わたし]はそれで 満足[まんぞく]していた。のみならず、この 関係[かんけい]の 神秘的[しんぴてき]な 豊[ゆた]かさに 感謝[かんしゃ]していた。
+  Ich war damit zufrieden. Nicht nur das, ich war sogar dankbar für den geheimnisvollen Reichtum dieser Beziehung.
+
+  のみならずその場所も漠然としていて、頭に映ってこない。
+  のみならずその 場所[ばしょ]も 漠然[ばくぜん]としていて、頭[あたま]に 映[うつ]ってこない。
+  Überdies bleibt auch der Ort undeutlich und will mir nicht in den Sinn kommen.
+
+  彼は数学のみならず、物理学にも秀でている。
+  彼[かれ]は 数学[すうがく]のみならず、物理学[ぶつりがく]にも 秀[ひい]でている。
+  Er ist nicht nur in Mathematik, sondern auch in Physik hervorragend.
+
+  この本は面白いのみならず、教育的価値も高い。
+  この 本[ほん]は 面白[おもしろ]いのみならず、教育的[きょういくてき] 価値[かち]も 高[たか]い。
+  Dieses Buch ist nicht nur interessant, sondern hat auch einen hohen pädagogischen Wert.
+
+  彼女は美しいのみならず、知性も兼ね備えている。
+  彼女[かのじょ]は 美[うつく]しいのみならず、知性[ちせい]も 兼[か]ね 備[そな]えている。
+  Sie ist nicht nur schön, sondern auch intelligent.
+
+  この山は景色が美しいのみならず、登山コースも充実している。
+  この 山[やま]は 景色[けしき]が 美[うつく]しいのみならず、登山[とざん]コースも 充実[じゅうじつ]している。
+  Dieser Berg hat nicht nur eine schöne Aussicht, sondern auch gut ausgebaute Wanderwege.
+
+  のみならず、この問題は更なる調査が必要だ。
+  のみならず、この 問題[もんだい]は 更[さら]なる 調査[ちょうさ]が 必要[ひつよう]だ。
+  Darüber hinaus erfordert dieses Problem weitere Untersuchungen.
+
+  彼は英語のみならず、フランス語も流暢に話す。
+  彼[かれ]は 英語[えいご]のみならず、フランス 語[ご]も 流暢[りゅうちょう]に 話[はな]す。
+  Er spricht nicht nur Englisch, sondern auch fließend Französisch.
+
+  この商品は品質が良いのみならず、価格も手頃だ。
+  この 商品[しょうひん]は 品質[ひんしつ]が 良[よ]いのみならず、価格[かかく]も 手頃[てごろ]だ。
+  Dieses Produkt hat nicht nur eine gute Qualität, sondern ist auch preiswert.
+
+  のみならず、この政策は長期的な影響も考慮に入れている。
+  のみならず、この 政策[せいさく]は 長期的[ちょうきてき]な 影響[えいきょう]も 考慮[こうりょ]に 入[い]れている。
+  Außerdem berücksichtigt diese Politik auch langfristige Auswirkungen.
+
+  彼女は歌が上手なのみならず、ダンスも得意だ。
+  彼女[かのじょ]は 歌[うた]が 上手[じょうず]なのみならず、ダンスも 得意[とくい]だ。
+  Sie kann nicht nur gut singen, sondern ist auch eine gute Tänzerin.
+
+  この街は観光地としてのみならず、住みやすさでも評価が高い。
+  この 街[まち]は 観光地[かんこうち]としてのみならず、住[す]みやすさでも 評価[ひょうか]が 高[たか]い。
+  Diese Stadt wird nicht nur als Touristenziel, sondern auch für ihre Lebensqualität hoch geschätzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>のみならず wird verwendet, um "nicht nur" auszudrücken und oft mit "sondern auch" ergänzt.</p>
+  <ul>
+    <li>Es folgt auf Nomen oder die Attributform von Verben und Adjektiven.</li>
+    <li>Häufig wird es von また oder も gefolgt.</li>
+    <div class="examples">
+      <div class="jp">大谷派[おおたには]<u>のみならず</u>、各宗[かくしゅう]各派[かくは]の 青年[せいねん]がここに 学[まな]んで</div>
+      <div class="de spoiler">Nicht nur die jungen Männer der Ōtani-Richtung, sondern aller Zweige und Richtungen studierten hier</div>
+      <div class="jp">顔[かお]を 刺[さ]す<u>のみならず</u>、口[くち]の 中[なか]へも 飛[と]び 込[こ]もうとする</div>
+      <div class="de spoiler">Sie zerstachen einem nicht nur das Gesicht, sie flogen einem ständig fast auch in den Mund</div>
+    </div>
+  </ul>
+  <p>Am Satzanfang kann es auch "außerdem" oder "darüber hinaus" bedeuten.</p>
+  <div class="examples">
+    <div class="jp"><u>のみならず</u>その 場所[ばしょ]も 如何[いか]にも 漠然[ばくぜん]としていて、頭[あたま]に 映[うつ]って 来[き]ません。</div>
+    <div class="de spoiler">Undeutlich blieb mir überdies auch der Ort des Geschehens, die Erinnerung daran war so gut wie ausgelöscht.</div>
+  </div>
+  </p>

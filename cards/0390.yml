@@ -102,4 +102,59 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">犬[いぬ]</span> ist ein vielseitiges Wort im Japanischen mit mehreren Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Hauptbedeutung: Hund</li>
+    <div class="examples">
+      <div class="jp"><u>犬[いぬ]</u>の 同伴[どうはん]お 断[ことわ]り。</div>
+      <div class="de spoiler">Das Mitführen von Hunden ist untersagt.</div>
+      <div class="jp"><u>犬[いぬ]</u>は 先[さき]まわりして 待[ま]っていたが、べつに 吠[ほ]えようとはしなかった。</div>
+      <div class="de spoiler">Der Hund war vorgelaufen und wartete, machte aber keine Anstalten zu bellen.</div>
+    </div>
+
+    <li>Figurative Bedeutung: Spitzel, Spion, Schnüffler</li>
+    <div class="examples">
+      <div class="jp">警察[けいさつ]の<u>犬[いぬ]</u></div>
+      <div class="de spoiler">Polizeispitzel</div>
+    </div>
+
+    <li>Als Präfix: Ausdruck der Abschätzigkeit, Nutzlosigkeit oder des falschen Anscheins</li>
+    <div class="examples">
+      <div class="jp"><u>犬[いぬ]</u>死[じに]</div>
+      <div class="de spoiler">Sinnloser Tod</div>
+      <div class="jp"><u>犬[いぬ]</u>侍[ざむらい]</div>
+      <div class="de spoiler">Scheinsam</div>
+    </div>
+  </ul>
+
+  <p>Redewendungen mit <span class="jp">犬[いぬ]</span>:</p>
+
+  <ul>
+    <li>
+      <div class="jp">吠[ほ]える<u>犬[いぬ]</u>は 噛[か]みつかぬ</div>
+      <div class="de spoiler">Bellende Hunde beißen nicht.</div>
+    </li>
+
+    <li>
+      <div class="jp"><u>犬[いぬ]</u>も 歩[ある]けば 棒[ぼう]に 当[あ]たる</div>
+      <div class="de spoiler">Selbst ein Hund stößt auf einen Stock, wenn er herumläuft.</div>
+      <ul>
+        <li>Bedeutung 1: Jeder Versuch birgt ein Risiko.</li>
+        <li>Bedeutung 2: Auch ein blindes Huhn findet mal ein Korn.</li>
+      </ul>
+    </li>
+
+    <li>
+      <div class="jp"><u>犬[いぬ]</u>に 論語[ろんご]</div>
+      <div class="de spoiler">Einem Hund die Analekten des Konfuzius erläutern.</div>
+      <div class="de spoiler">Bedeutung: Tauben Ohren predigen; Perlen vor die Säue werfen.</div>
+    </li>
+
+    <li>
+      <div class="jp"><u>犬[いぬ]</u>と 猿[さる]（の 仲[なか]）</div>
+      <div class="de spoiler">Wie Hund und Affe.</div>
+      <div class="de spoiler">Bedeutung: Sich vertragen wie Hund und Katze.</div>
+    </li>
+  </ul>

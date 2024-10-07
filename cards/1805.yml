@@ -98,4 +98,24 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>同 wird als Präfix verwendet, um Gleichheit oder Übereinstimmung auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet "gleich", "derselbe" oder "übereinstimmend":</li>
+    <div class="examples">
+      <div class="jp">前後左右[ぜんごさゆう]のものと<u>同</u>方向[どうほうこう]に<u>同</u>速度[どうそくど]にひらめく。</div>
+      <div class="de spoiler">Sie müssen [das Schwert] in die gleiche Richtung mit der gleichen Geschwindigkeit wie die anderen bewegen.</div>
+    </div>
+    <li>Als eigenständiges Wort wird es oft verwendet, um Wiederholungen zu vermeiden (wie "dito" auf Deutsch):</li>
+    <div class="examples">
+      <div class="jp">マニラ麻[まにらあさ]一二ミリ、<u>同</u>二四ミリ</div>
+      <div class="de spoiler">Manilahanf 12mm, dito 24mm</div>
+    </div>
+  </ul>
+  <p>Als Präfix erscheint es in vielen zusammengesetzten Wörtern:</p>
+  <div class="examples">
+    <div class="jp"><u>同</u>一[どういつ]</div>
+    <div class="de spoiler">identisch, derselbe</div>
+    <div class="jp"><u>同</u>時代[どうじだい]</div>
+    <div class="de spoiler">dieselbe Epoche</div>
+  </div>

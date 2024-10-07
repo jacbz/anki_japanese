@@ -2,24 +2,115 @@ Rang: 2076
 Lemma: 生える
 Lesung: はえる
 Tonhöhen: /\.
-Definition: wachsen, sprießen, (Zähne) bekommen
+Definition: wachsen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 生えない・生えた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   息子はまだ歯が生えていない。
   息子[むすこ]はまだ 歯[は]が 生[は]えていない。
-  Mein Sohn hat noch keinen Zahn bekommen.
+  Mein Sohn hat noch keine Zähne bekommen.
+
+  ぼうぼうと雑草が生えている空き地を見つけた。
+  ぼうぼうと 雑草[ざっそう]が 生[は]えている 空[あ]き 地[ち]を 見[み]つけた。
+  Ich habe ein leeres Grundstück gefunden, auf dem das Unkraut üppig wächst.
+
+  彼は髭が生え始めたばかりだ。
+  彼[かれ]は 髭[ひげ]が 生[は]え 始[はじ]めたばかりだ。
+  Sein Bart fängt gerade erst an zu wachsen.
+
+  冷蔵庫に入れ忘れたパンに黴が生えてしまった。
+  冷蔵庫[れいぞうこ]に 入[い]れ 忘[わす]れたパンに 黴[かび]が 生[は]えてしまった。
+  Auf dem Brot, das ich vergessen habe in den Kühlschrank zu legen, ist Schimmel gewachsen.
+
+  この古い建物の壁には苔が生えている。
+  この 古[ふる]い 建物[たてもの]の 壁[かべ]には 苔[こけ]が 生[は]えている。
+  An den Wänden dieses alten Gebäudes wächst Moos.
+
+  この不毛の地には何も草木が生えていない。
+  この 不毛[ふもう]の 地[ち]には 何[なに]も 草木[そうもく]が 生[は]えていない。
+  Auf diesem unfruchtbaren Land wächst keine Vegetation.
+
+  「大変草が生えているのね。」と隣人が庭を見て言った。
+  「大変[たいへん] 草[くさ]が 生[は]えているのね。」と 隣人[りんじん]が 庭[にわ]を 見[み]て 言[い]った。
+  "Bei euch wächst aber viel Unkraut", sagte der Nachbar, als er unseren Garten sah.
+
+  寂しい崖の上には雑木が生えていた。
+  寂[さび]しい 崖[がけ]の 上[うえ]には 雑木[ぞうき]が 生[は]えていた。
+  Auf dem einsamen Abhang wuchs ein Mischwald.
+
+  「いつの間に象に翼が生えたのだ」と彼は驚いて叫んだ。
+  「いつの 間[ま]に 象[ぞう]に 翼[つばさ]が 生[は]えたのだ」と 彼[かれ]は 驚[おどろ]いて 叫[さけ]んだ。
+  "Wann sind dem Elefanten denn Flügel gewachsen?", rief er erstaunt aus.
+
+  彼は毛の生えた手を伸ばして握手を求めた。
+  彼[かれ]は 毛[け]の 生[は]えた 手[て]を 伸[の]ばして 握手[あくしゅ]を 求[もと]めた。
+  Er streckte seine behaarte Hand aus, um einen Händedruck zu erbitten.
+
+  庭に植えた種から小さな芽が生え始めた。
+  庭[にわ]に 植[う]えた 種[たね]から 小[ちい]さな 芽[め]が 生[は]え 始[はじ]めた。
+  Aus den im Garten gepflanzten Samen begannen kleine Sprösslinge zu keimen.
+
+  春になると、木々に新しい葉が生えてくる。
+  春[はる]になると、木々[きぎ]に 新[あたら]しい 葉[は]が 生[は]えてくる。
+  Wenn der Frühling kommt, wachsen neue Blätter an den Bäumen.
+
+  彼女の頭には銀色の髪が生え始めていた。
+  彼女[かのじょ]の 頭[あたま]には 銀色[ぎんいろ]の 髪[かみ]が 生[は]え 始[はじ]めていた。
+  In ihrem Haar begannen silberne Strähnen zu wachsen.
+
+  この植物は日陰でもよく生える。
+  この 植物[しょくぶつ]は 日陰[ひかげ]でもよく 生[は]える。
+  Diese Pflanze wächst auch gut im Schatten.
+
+  手術の跡に新しい皮膚が生えてきた。
+  手術[しゅじゅつ]の 跡[あと]に 新[あたら]しい 皮膚[ひふ]が 生[は]えてきた。
+  An der Operationsnarbe begann neue Haut zu wachsen.
+
+  彼の頭頂部は薄くなり、髪が生えなくなってきた。
+  彼[かれ]の 頭頂部[とうちょうぶ]は 薄[うす]くなり、髪[かみ]が 生[は]えなくなってきた。
+  Sein Scheitel wurde lichter, und die Haare hörten auf zu wachsen.
+
+  蒔かぬ種は生えぬと言うように、努力なしには結果は得られない。
+  蒔[ま]かぬ 種[たね]は 生[は]えぬと 言[い]うように、努力[どりょく]なしには 結果[けっか]は 得[え]られない。
+  Wie man sagt "Ungesäter Same keimt nicht", so kann man ohne Anstrengung keine Ergebnisse erzielen.
+
+  この肥沃な土壌では、何を植えてもよく生える。
+  この 肥沃[ひよく]な 土壌[どじょう]では、何[なに]を 植[う]えてもよく 生[は]える。
+  In diesem fruchtbaren Boden wächst alles gut, was man pflanzt.
+
+  彼女の眉毛は太く、自然に生えている。
+  彼女[かのじょ]の 眉毛[まゆげ]は 太[ふと]く、自然[しぜん]に 生[は]えている。
+  Ihre Augenbrauen sind dick und wachsen natürlich.
+
+  除草剤を使ったのに、またすぐに雑草が生えてきた。
+  除草剤[じょそうざい]を 使[つか]ったのに、またすぐに 雑草[ざっそう]が 生[は]えてきた。
+  Obwohl ich Unkrautvernichtungsmittel verwendet habe, ist sofort wieder Unkraut gewachsen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>生える (はえる) bezieht sich auf das natürliche Wachstum oder Sprießen, insbesondere von Pflanzen, Haaren oder Zähnen.</p>
+  <div class="examples">
+    <div class="jp">木々[きぎ]に 新[あたら]しい 葉[は]が 生[は]える。</div>
+    <div class="de spoiler">An den Bäumen wachsen neue Blätter.</div>
+  </div>
+  <p>Es wird oft in Verbindung mit spezifischen Körperteilen oder Pflanzenteilen verwendet:</p>
+  <div class="examples">
+    <div class="jp">髭[ひげ]が 生[は]え 始[はじ]める。</div>
+    <div class="de spoiler">Der Bart beginnt zu wachsen.</div>
+  </div>
+  <p>生える kann auch im übertragenen Sinne verwendet werden, um plötzliches Erscheinen oder Entstehen auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">「いつの 間[ま]に 象[ぞう]に 翼[つばさ]が 生[は]えたのだ」</div>
+    <div class="de spoiler">"Wann sind dem Elefanten denn Flügel gewachsen?"</div>
+  </div>

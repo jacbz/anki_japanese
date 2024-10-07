@@ -2,7 +2,7 @@ Rang: 3395
 Lemma: あら
 Lesung: ''
 Tonhöhen: \.
-Definition: Oh! (von weiblichen Sprechern verwendet)
+Definition: ach; oh [weiblich]
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: interj
@@ -17,9 +17,121 @@ Beispielsätze: |-
   あら、ここに 居[い]たの。
   Oh, du bist hier.
 
+  あら、そうだったかしら。
+  あら、そうだったかしら。
+  Ach, tatsächlich?
+
+  あら、ずいぶん暗くなったわ。
+  あら、ずいぶん 暗[くら]くなったわ。
+  Oh, wie dunkel es schon geworden ist!
+
+  あら、たったそれだけ？
+  あら、たったそれだけ？
+  Was, ist das alles?
+
+  あら、むこうに運ぶとじゃなかとですの。
+  あら、むこうに 運[はこ]ぶとじゃなかとですの。
+  Ach, soll ich es nicht dorthin bringen?
+
+  あら、崇くんもくらすの？
+  あら、崇[たかし]くんも 暮[く]らすの？
+  Ach, Takashi zieht auch bei dir ein?
+
+  あら、あなたそれ知らなかったんだっけ？
+  あら、あなたそれ 知[し]らなかったんだっけ？
+  Ach, wussten Sie das nicht?
+
+  あら、と言って、彼女は興味を示してわたしの顔を見た。
+  あら、と 言[い]って、彼女[かのじょ]は 興味[きょうみ]を 示[しめ]してわたしの 顔[かお]を 見[み]た。
+  "Ach?", sagte sie und blickte mich interessiert an.
+
+  あら、もうこんな時間？
+  あら、もうこんな 時間[じかん]？
+  Oh, ist es schon so spät?
+
+  あら、素敵な指輪ね。
+  あら、素敵[すてき]な 指輪[ゆびわ]ね。
+  Ach, was für ein hübscher Ring!
+
+  あら、雨が降ってきたわ。
+  あら、雨[あめ]が 降[ふ]ってきたわ。
+  Oh je, es fängt an zu regnen.
+
+  あら、お客様がいらっしゃいましたか。
+  あら、お 客様[きゃくさま]がいらっしゃいましたか。
+  Ach, ist der Gast schon eingetroffen?
+
+  あら、こんなところで会うなんて。
+  あら、こんなところで 会[あ]うなんて。
+  Huch, dass wir uns hier treffen!
+
+  あら、私の名前を間違えてるわよ。
+  あら、私[わたし]の 名前[なまえ]を 間違[まちが]えてるわよ。
+  Oh, Sie haben meinen Namen falsch geschrieben.
+
+  あら、携帯を家に忘れてきちゃった。
+  あら、携帯[けいたい]を 家[いえ]に 忘[わす]れてきちゃった。
+  Ach je, ich habe mein Handy zu Hause vergessen.
+
+  あら、その服とても似合うわ。
+  あら、その 服[ふく]とても 似合[にあ]うわ。
+  Ach, dieses Kleid steht dir wirklich gut.
+
+  あら、こんなに早く終わるなんて。
+  あら、こんなに 早[はや]く 終[お]わるなんて。
+  Oh, dass es so früh zu Ende ist.
+
+  あら、こんなところにあったのね。
+  あら、こんなところにあったのね。
+  Ach, hier war es also.
+
+  あら、思ってたのと違うわ。
+  あら、思[おも]ってたのと 違[ちが]うわ。
+  Oh, das ist anders als ich dachte.
+
+  あら、何か落としましたよ。
+  あら、何[なに]か 落[お]としましたよ。
+  Ach, Sie haben etwas fallen lassen.
+
+  あら、急に寒くなったわね。
+  あら、急[きゅう]に 寒[さむ]くなったわね。
+  Huch, es ist plötzlich kalt geworden.
+
+  あら、もうお帰りなの？
+  あら、もうお 帰[かえ]りなの？
+  Ach, gehst du schon?
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あら ist ein Ausruf, der Überraschung oder Verwunderung ausdrückt. Er wird hauptsächlich von Frauen verwendet.</p>
+
+  <p>Verwendung:</p>
+  <ul>
+    <li>Bei unerwarteten Entdeckungen oder Erkenntnissen:</li>
+    <div class="examples">
+      <div class="jp"><u>あら</u>、そうだったかしら。</div>
+      <div class="de spoiler">Ach, war das so?</div>
+    </div>
+
+    <li>Bei überraschenden Beobachtungen:</li>
+    <div class="examples">
+      <div class="jp"><u>あら</u>、ずいぶん 暗[くら]くなったわ。</div>
+      <div class="de spoiler">Oh, wie dunkel es schon geworden ist!</div>
+    </div>
+
+    <li>Um Erstaunen oder Ungläubigkeit auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>あら</u>、たったそれだけ？</div>
+      <div class="de spoiler">Was, ist das alles?</div>
+    </div>
+
+    <li>Als Reaktion auf neue Informationen:</li>
+    <div class="examples">
+      <div class="jp"><u>あら</u>、あなたそれ 知[し]らなかったんだっけ？</div>
+      <div class="de spoiler">Ach, wussten Sie das nicht?</div>
+    </div>
+  </ul>

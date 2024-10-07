@@ -102,4 +102,26 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あの ist ein demonstratives Attribut mit zwei Hauptbedeutungen:</p>
+  <ul>
+    <li>Es verweist auf Personen oder Dinge, die sowohl vom Sprecher als auch vom Hörer entfernt sind.</li>
+    <div class="examples">
+      <div class="jp">ねえ、<u>あの</u> 建物[たてもの]って 何[なに]？</div>
+      <div class="de spoiler">Hey, was ist das da eigentlich für ein Gebäude?</div>
+    </div>
+    <li>Es bezieht sich auf Personen, Dinge oder Situationen, die beiden Gesprächspartnern bekannt sind oder zuvor erwähnt wurden.</li>
+    <div class="examples">
+      <div class="jp"><u>あの</u> 人[ひと]には、いろいろとチャンスもあったんだし⋯</div>
+      <div class="de spoiler">Dieser Person standen doch so viele Möglichkeiten offen...</div>
+      <div class="jp"><u>あの</u>ことは 謝[あやま]ります。</div>
+      <div class="de spoiler">Ich entschuldige mich für jene Sache.</div>
+      <div class="jp">待合室[まちあいしつ]で 起[お]こった<u>あの</u> 一瞬[いっしゅん]を 繰[く]り 返[かえ]し 味[あじ]わうため、わたしは 手紙[てがみ]を 読[よ]み 続[つづ]ける。</div>
+      <div class="de spoiler">Ich lese die Briefe immer wieder, um jenen Moment im Wartezimmer nachzuerleben und zu genießen.</div>
+    </div>
+  </ul>
+  <p>あの kann auch in idiomatischen Ausdrücken verwendet werden:</p>
+  <ul>
+    <li><span class="jp"><u>あの</u> 手[て]この 手[て]を 使[つか]う</span>: alle Mittel einsetzen; alles Mögliche versuchen</li>
+  </ul>
+  </p>

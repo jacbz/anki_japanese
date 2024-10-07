@@ -2,7 +2,7 @@ Rang: 2301
 Lemma: 御
 Lesung: お
 Tonhöhen: /
-Definition: HÖFLICHKEIT
+Definition: '[Höflichkeitspräfix]'
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: präf
@@ -17,9 +17,120 @@ Beispielsätze: |-
   お 食事[しょくじ]はいかがですか。
   Möchten Sie etwas zu essen?
 
+  お待たせして申し訳ありません。
+  お 待[ま]たせして 申[もう]し 訳[わけ]ありません。
+  Entschuldigung, dass ich Sie habe warten lassen.
+
+  お手紙ありがとうございました。
+  お 手紙[てがみ]ありがとうございました。
+  Vielen Dank für Ihren Brief.
+
+  お客様、こちらへどうぞ。
+  お 客様[きゃくさま]、こちらへどうぞ。
+  Verehrter Kunde, bitte hier entlang.
+
+  お酒を飲みすぎないように気をつけてください。
+  お 酒[さけ]を 飲[の]みすぎないように 気[き]をつけてください。
+  Bitte achten Sie darauf, nicht zu viel Alkohol zu trinken.
+
+  お財布を忘れずに持っていってね。
+  お 財布[さいふ]を 忘[わす]れずに 持[も]っていってね。
+  Vergiss nicht, dein Portemonnaie mitzunehmen.
+
+  お暑い中、お越しいただきありがとうございます。
+  お 暑[あつ]い 中[なか]、お 越[こ]しいただきありがとうございます。
+  Vielen Dank, dass Sie trotz der Hitze gekommen sind.
+
+  お粗末な料理ですが、どうぞお召し上がりください。
+  お 粗末[そまつ]な 料理[りょうり]ですが、どうぞお 召[め]し 上[あ]がりください。
+  Es ist zwar kein besonderes Essen, aber bitte greifen Sie zu.
+
+  お待たせ致しました。すぐにご案内いたします。
+  お 待[ま]たせ 致[いた]しました。すぐにご 案内[あんない]いたします。
+  Entschuldigung für die Wartezeit. Ich werde Sie gleich hinführen.
+
+  お掛けになってください。お茶をお持ちします。
+  お 掛[か]けになってください。お 茶[ちゃ]をお 持[も]ちします。
+  Bitte setzen Sie sich. Ich bringe Ihnen gleich Tee.
+
+  お帰りなさい。今日はどうでしたか？
+  お 帰[かえ]りなさい。 今日[きょう]はどうでしたか？
+  Willkommen zurück. Wie war dein Tag?
+
+  お疲れ様でした。今日も一日頑張りましたね。
+  お 疲[つか]れ 様[さま]でした。 今日[きょう]も 一日[いちにち] 頑張[がんば]りましたね。
+  Gute Arbeit. Du hast auch heute wieder den ganzen Tag hart gearbeitet.
+
+  お玉さん、こんにちは。今日はいい天気ですね。
+  お 玉[たま]さん、こんにちは。 今日[きょう]はいい 天気[てんき]ですね。
+  Hallo Frau Otama. Heute ist schönes Wetter, nicht wahr?
+
+  お味噌汁の具は何にしますか？
+  お 味噌汁[みそしる]の 具[ぐ]は 何[なに]にしますか？
+  Was möchtest du in deine Miso-Suppe?
+
+  お住まいはどちらですか？
+  お 住[す]まいはどちらですか？
+  Wo wohnen Sie?
+
+  お金がかかっても、子供の教育は大切です。
+  お 金[かね]がかかっても、 子供[こども]の 教育[きょういく]は 大切[たいせつ]です。
+  Auch wenn es Geld kostet, die Bildung der Kinder ist wichtig.
+
+  お酒を飲みすぎて、頭が痛いです。
+  お 酒[さけ]を 飲[の]みすぎて、 頭[あたま]が 痛[いた]いです。
+  Ich habe zu viel getrunken und jetzt Kopfschmerzen.
+
+  お財産の管理は慎重にしなければなりません。
+  お 財産[ざいさん]の 管理[かんり]は 慎重[しんちょう]にしなければなりません。
+  Man muss sein Vermögen sorgfältig verwalten.
+
+  お寒いですが、外を散歩しませんか？
+  お 寒[さむ]いですが、 外[そと]を 散歩[さんぽ]しませんか？
+  Es ist zwar kalt, aber möchten Sie nicht einen Spaziergang machen?
+
+  お手伝いしましょうか？
+  お 手伝[てつだ]いしましょうか？
+  Soll ich Ihnen helfen?
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>お (sowie 御, 阿, 於) ist ein Präfix, das Höflichkeit und Respekt ausdrückt.</p>
+  <ul>
+    <li>Vor Nomen zeigt es Ehrerbietung oder allgemeine Höflichkeit:</li>
+    <div class="examples">
+      <div class="jp"><u>お</u>客[きゃく]でいっぱい</div>
+      <div class="de spoiler">voll mit Gästen</div>
+      <div class="jp"><u>お</u>金[かね]がかかる</div>
+      <div class="de spoiler">Geld kosten</div>
+    </div>
+    <li>Vor Adjektiven drückt es höfliche Bescheidenheit aus:</li>
+    <div class="examples">
+      <div class="jp"><u>お</u>寂[さび]しいことでしょう。</div>
+      <div class="de spoiler">Sie müssen sich einsam fühlen.</div>
+      <div class="jp"><u>お</u>粗末[そまつ]なものですが⋯</div>
+      <div class="de spoiler">Es ist nichts Besonderes, aber...</div>
+    </div>
+    <li>In der Form <span class="jp"><u>お</u>⋯する</span> wird es für höflich-bescheidene Ausdrücke der eigenen Handlung verwendet:</li>
+    <div class="examples">
+      <div class="jp"><u>お</u>待[ま]たせ 致[いた]しました。</div>
+      <div class="de spoiler">Entschuldigen Sie, dass ich Sie habe warten lassen!</div>
+    </div>
+    <li>In der Form <span class="jp"><u>お</u>⋯になる</span> oder <span class="jp"><u>お</u>⋯なさる</span> drückt es Ehrerbietung gegenüber den Handlungen anderer aus:</li>
+    <div class="examples">
+      <div class="jp"><u>お</u>掛[か]けになってください。</div>
+      <div class="de spoiler">Bitte setzen Sie sich.</div>
+    </div>
+    <li>Es kann auch eine milde Aufforderung ausdrücken, oft in der Form <span class="jp"><u>お</u>⋯なさい</span>.</li>
+    <li>Es wird in Grußformeln verwendet.</li>
+    <li>Als 阿 oder 於 kann es vor weiblichen Namen stehen, um eine höflich-vertraute Anrede auszudrücken:</li>
+    <div class="examples">
+      <div class="jp"><u>お</u>玉[たま]</div>
+      <div class="de spoiler">Otama (weiblicher Name)</div>
+    </div>
+  </ul>
+  </p>

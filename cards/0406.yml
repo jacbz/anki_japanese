@@ -98,4 +98,32 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>通[とお]り hat mehrere Verwendungen im Japanischen:</p>
+  <ol>
+    <li>Als Nomen: <ul>
+        <li>Es bedeutet "Straße" oder "Weg".</li>
+        <div class="examples">
+          <div class="jp">箱馬車[はこばしゃ]が<u>通[とお]り</u>を 疾走[しっそう]していた。</div>
+          <div class="de spoiler">Die Kutschen jagten die Straße entlang.</div>
+        </div>
+        <li>Es kann auch "Verkehr" bedeuten.</li>
+        <li>Es kann "Durchgang" oder "Durchfluss" bedeuten, sowohl wörtlich als auch im übertragenen Sinne.</li>
+      </ul>
+    </li>
+    <li>Als Formalnomen: <p>Es bedeutet "so, wie..." und wird oft verwendet, um auszudrücken, dass etwas genau so ist, wie es erwartet oder gesagt wurde.</p>
+      <div class="examples">
+        <div class="jp">予感[よかん]していた<u>通[とお]り</u>不潔[ふけつ]そのものの 路地[ろじ]をさまよった。</div>
+        <div class="de spoiler">Er irrte durch Gassen, die so schmutzig waren, wie er es vermutet hatte.</div>
+        <div class="jp">麻薬[まやく]を 扱[あつか]っていたという 噂[うわさ]だが、たぶんその<u>通[とお]り</u>だろう。</div>
+        <div class="de spoiler">Man munkelt, er hätte mit Drogen gehandelt, und es ist wahrscheinlich wahr.</div>
+      </div>
+    </li>
+    <li>Als Suffix: <p>Nach Zahlwörtern bedeutet es "Art" oder "Sorte".</p>
+      <div class="examples">
+        <div class="jp">やり 方[かた]がふた<u>通[とお]り</u>ある。</div>
+        <div class="de spoiler">Es gibt zwei Möglichkeiten (wörtlich: zwei Arten) es zu tun.</div>
+      </div>
+    </li>
+  </ol>
+  </p>

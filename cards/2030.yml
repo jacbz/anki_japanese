@@ -2,20 +2,96 @@ Rang: 2030
 Lemma: 訪ねる
 Lesung: たずねる
 Tonhöhen: /^\.
-Definition: besuchen, aufsuchen
-Alternativschreibweisen: ''
+Definition: fragen; besuchen
+Alternativschreibweisen: 尋ねる・訊ねる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 訪ねない・訪ねた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このツアーでは、京都のお寺や神社を訪ねます。
-  このツアーでは、 京都[きょうと]のお 寺[てら]や 神社[じんじゃ]を 訪[たず]ねます。
-  Auf dieser Tour besuchen Sie Tempel und Schreine in Kyoto.
+  この ツアー では、京都[きょうと]の お寺[てら]や 神社[じんじゃ]を 訪[たず]ねます。
+  Auf dieser Tour besuchen wir Tempel und Schreine in Kyoto.
+
+  道行く人に道を尋ねました。
+  道行[みちゆ]く 人[ひと]に 道[みち]を 尋[たず]ねました。
+  Ich fragte einen Passanten nach dem Weg.
+
+  友人の新しい住所を尋ねる必要があります。
+  友人[ゆうじん]の 新[あたら]しい 住所[じゅうしょ]を 尋[たず]ねる 必要[ひつよう]があります。
+  Ich muss nach der neuen Adresse meines Freundes fragen.
+
+  彼女の安否を尋ねるメールを送りました。
+  彼女[かのじょ]の 安否[あんぴ]を 尋[たず]ねるメールを 送[おく]りました。
+  Ich habe eine E-Mail geschickt, um mich nach ihrem Wohlergehen zu erkundigen.
+
+  今何時かと尋ねたら、もう夜中だと言われました。
+  今[いま] 何時[なんじ]かと 尋[たず]ねたら、もう 夜中[よなか]だと 言[い]われました。
+  Als ich nach der Uhrzeit fragte, wurde mir gesagt, es sei schon Mitternacht.
+
+  先生にうるさく質問を尋ねて、申し訳ありませんでした。
+  先生[せんせい]にうるさく 質問[しつもん]を 尋[たず]ねて、申[もう]し 訳[わけ]ありませんでした。
+  Es tut mir leid, dass ich den Lehrer mit aufdringlichen Fragen belästigt habe.
+
+  尋ねたいことがあるのですが、お時間はありますか？
+  尋[たず]ねたいことがあるのですが、お 時間[じかん]はありますか？
+  Ich hätte eine Frage, haben Sie einen Moment Zeit?
+
+  運転手さん、一番近くのデラックスホテルの名前を教えてください。
+  運転手[うんてんしゅ]さん、一番[いちばん] 近[ちか]くのデラックスホテルの 名前[なまえ]を 教[おし]えてください。
+  Könnten Sie mir bitte den Namen des nächstgelegenen Luxushotels nennen, Herr Fahrer?
+
+  この習慣の起源を尋ねてみたいと思います。
+  この 習慣[しゅうかん]の 起源[きげん]を 尋[たず]ねてみたいと 思[おも]います。
+  Ich möchte gerne nach dem Ursprung dieses Brauchs fragen.
+
+  娘の行方を尋ねて、あちこち探し回っています。
+  娘[むすめ]の 行方[ゆくえ]を 尋[たず]ねて、あちこち 探[さが]し 回[まわ]っています。
+  Ich suche überall nach dem Verbleib meiner Tochter.
+
+  久しぶりに故郷を訪ねて、懐かしい場所を巡りました。
+  久[ひさ]しぶりに 故郷[こきょう]を 訪[たず]ねて、懐[なつ]かしい 場所[ばしょ]を 巡[めぐ]りました。
+  Ich besuchte nach langer Zeit meine Heimat und ging zu vertrauten Orten.
+
+  来週、親戚を訪ねて大阪に行く予定です。
+  来週[らいしゅう]、親戚[しんせき]を 訪[たず]ねて 大阪[おおさか]に 行[い]く 予定[よてい]です。
+  Nächste Woche plane ich, nach Osaka zu fahren, um Verwandte zu besuchen.
+
+  祖父の墓を訪ねて、花を供えてきました。
+  祖父[そふ]の 墓[はか]を 訪[たず]ねて、花[はな]を 供[そな]えてきました。
+  Ich besuchte das Grab meines Großvaters und brachte Blumen.
+
+  歴史のある城跡を訪ねて、ガイドツアーに参加しました。
+  歴史[れきし]のある 城跡[じょうせき]を 訪[たず]ねて、ガイドツアーに 参加[さんか]しました。
+  Ich besuchte eine historische Burgruine und nahm an einer Führung teil.
+
+  突然訪ねてきた友人に驚きましたが、嬉しかったです。
+  突然[とつぜん] 訪[たず]ねてきた 友人[ゆうじん]に 驚[おどろ]きましたが、嬉[うれ]しかったです。
+  Ich war überrascht, als ein Freund plötzlich vorbeikam, aber ich habe mich gefreut.
+
+  前触れもなく訪ねてきて申し訳ありません。
+  前触[まえぶ]れもなく 訪[たず]ねてきて 申[もう]し 訳[わけ]ありません。
+  Entschuldigung, dass ich ohne Vorankündigung vorbeigekommen bin.
+
+  外国から訪ねてきた友人を案内して、観光地を巡りました。
+  外国[がいこく]から 訪[たず]ねてきた 友人[ゆうじん]を 案内[あんない]して、観光地[かんこうち]を 巡[めぐ]りました。
+  Ich führte einen aus dem Ausland zu Besuch gekommenen Freund herum und zeigte ihm Sehenswürdigkeiten.
+
+  肩の傷が悪化したので、病院を訪ねることにしました。
+  肩[かた]の 傷[きず]が 悪化[あっか]したので、病院[びょういん]を 訪[たず]ねることにしました。
+  Weil sich meine Schulterwunde verschlimmert hatte, beschloss ich, das Krankenhaus aufzusuchen.
+
+  観光地でもないこの町に、珍しく外国人観光客が訪ねてきました。
+  観光地[かんこうち]でもないこの 町[まち]に、珍[めずら]しく 外国人[がいこくじん] 観光客[かんこうきゃく]が 訪[たず]ねてきました。
+  In diese Stadt, die kein Touristenort ist, kamen überraschenderweise ausländische Touristen zu Besuch.
+
+  根室さんを尋ねてきた男の特徴を教えてください。
+  根室[ねむろ]さんを 尋[たず]ねてきた 男[おとこ]の 特徴[とくちょう]を 教[おし]えてください。
+  Können Sie mir bitte die Merkmale des Mannes beschreiben, der nach Herrn Nemuro gefragt hat?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

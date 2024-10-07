@@ -7,7 +7,7 @@ Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. card
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,87 @@ Konjugation: ''
 Beispielsätze: |-
   カードで払ってもいいですか。
   カードで 払[はら]ってもいいですか。
-  Kann ich mit Kreditkarte bezahlen?
+  Kann ich mit Karte bezahlen?
+
+  カード番号を入力してください。
+  カード番号[ばんごう]を 入力[にゅうりょく]してください。
+  Bitte geben Sie Ihre Kartennummer ein.
+
+  新しいクレジットカードを申し込みました。
+  新[あたら]しいクレジットカードを 申[もう]し 込[こ]みました。
+  Ich habe einen neuen Kreditkartenantrag gestellt.
+
+  カードゲームで遊ぼう！
+  カードゲームで 遊[あそ]ぼう！
+  Lass uns ein Kartenspiel spielen!
+
+  彼女の連絡先はカードケースに入れてある。
+  彼女[かのじょ]の 連絡先[れんらくさき]はカードケースに 入[い]れてある。
+  Ihre Kontaktdaten sind in meiner Visitenkartenbox.
+
+  カードキーを使って部屋に入ります。
+  カードキーを 使[つか]って 部屋[へや]に 入[はい]ります。
+  Ich betrete das Zimmer mit einer Schlüsselkarte.
+
+  カードローンの金利が高すぎる。
+  カードローンの 金利[きんり]が 高[たか]すぎる。
+  Die Zinsen für den Kartenkredit sind zu hoch.
+
+  図書館のカード目録を調べてみよう。
+  図書館[としょかん]のカード目録[もくろく]を 調[しら]べてみよう。
+  Lass uns den Kartenkatalog der Bibliothek durchsehen.
+
+  カードシステムを導入して業務の効率化を図りました。
+  カードシステムを 導入[どうにゅう]して 業務[ぎょうむ]の 効率化[こうりつか]を 図[はか]りました。
+  Wir haben ein Kartensystem eingeführt, um die Geschäftsabläufe zu optimieren.
+
+  磁気カードが壊れてしまった。
+  磁気[じき]カードが 壊[こわ]れてしまった。
+  Meine Magnetkarte ist kaputt gegangen.
+
+  会員カードを忘れずに持ってきてください。
+  会員[かいいん]カードを 忘[わす]れずに 持[も]ってきてください。
+  Bitte vergessen Sie nicht, Ihre Mitgliedskarte mitzubringen.
+
+  クリスマスカードを友達に送りました。
+  クリスマスカードを 友達[ともだち]に 送[おく]りました。
+  Ich habe meinen Freunden Weihnachtskarten geschickt.
+
+  プリペイドカードの残高を確認してください。
+  プリペイドカードの 残高[ざんだか]を 確認[かくにん]してください。
+  Bitte überprüfen Sie das Guthaben Ihrer Prepaid-Karte.
+
+  タイムカードを押し忘れないでね。
+  タイムカードを 押[お]し 忘[わす]れないでね。
+  Vergiss nicht, deine Stechkarte zu stempeln.
+
+  単語カードを使って英語を勉強しています。
+  単語[たんご]カードを 使[つか]って 英語[えいご]を 勉強[べんきょう]しています。
+  Ich lerne Englisch mit Vokabelkarten.
+
+  ポーカーのカードを配ってください。
+  ポーカーのカードを 配[くば]ってください。
+  Bitte teilen Sie die Karten für Poker aus.
+
+  運転免許証やレンタルビデオ店の会員カードを財布に入れています。
+  運転免許証[うんてんめんきょしょう]やレンタルビデオ店[てん]の 会員[かいいん]カードを 財布[さいふ]に 入[い]れています。
+  Ich habe meinen Führerschein und die Videothek-Mitgliedskarte in meiner Brieftasche.
+
+  正面の男がカードを順ぐりに配っていた。
+  正面[しょうめん]の 男[おとこ]がカードを 順[じゅん]ぐりに 配[くば]っていた。
+  Der Mann vorne teilte gerade der Reihe nach die Karten aus.
+
+  運命がカードを切り、我々がプレイする。
+  運命[うんめい]がカードを 切[き]り、我々[われわれ]がプレイする。
+  Das Schicksal mischt die Karten, und wir spielen.
+
+  キャッシュカードを使って現金を引き出しました。
+  キャッシュカードを 使[つか]って 現金[げんきん]を 引[ひ]き 出[だ]しました。
+  Ich habe mit meiner Geldkarte Bargeld abgehoben.
+
+  テレホンカードを使って公衆電話から電話をかけた。
+  テレホンカードを 使[つか]って 公衆電話[こうしゅうでんわ]から 電話[でんわ]をかけた。
+  Ich habe mit einer Telefonkarte von einer öffentlichen Telefonzelle aus angerufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,12 +2,12 @@ Rang: 2078
 Lemma: ホームページ
 Lesung: ''
 Tonhöhen: /^^\..
-Definition: Startseite
+Definition: Homepage
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. home page
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   詳しくは弊社のホームページをご覧ください。
   詳[くわ]しくは 弊社[へいしゃ]のホームページをご 覧[らん]ください。
-  Weitere Einzelheiten finden Sie auf unserer Website.
+  Für weitere Details besuchen Sie bitte unsere Homepage.
+
+  新商品の情報をホームページに掲載しました。
+  新商品[しんしょうひん]の 情報[じょうほう]をホームページに 掲載[けいさい]しました。
+  Wir haben Informationen zu unseren neuen Produkten auf unserer Homepage veröffentlicht.
+
+  ホームページのデザインを一新する予定です。
+  ホームページのデザインを 一新[いっしん]する 予定[よてい]です。
+  Wir planen, das Design unserer Homepage zu erneuern.
+
+  ホームページへのアクセス数が急増しています。
+  ホームページへのアクセス 数[すう]が 急増[きゅうぞう]しています。
+  Die Zugriffszahlen auf unsere Homepage steigen rapide an.
+
+  ホームページの更新は毎週金曜日に行っています。
+  ホームページの 更新[こうしん]は 毎週[まいしゅう] 金曜日[きんようび]に 行[おこな]っています。
+  Wir aktualisieren unsere Homepage jeden Freitag.
+
+  お問い合わせはホームページのフォームからお願いします。
+  お 問[と]い 合[あ]わせはホームページのフォームからお 願[ねが]いします。
+  Bitte nutzen Sie das Kontaktformular auf unserer Homepage für Ihre Anfragen.
+
+  ホームページの閲覧にはJavaScriptを有効にしてください。
+  ホームページの 閲覧[えつらん]にはJavaScriptを 有効[ゆうこう]にしてください。
+  Bitte aktivieren Sie JavaScript, um unsere Homepage korrekt anzuzeigen.
+
+  彼女はホームページ制作の専門家です。
+  彼女[かのじょ]はホームページ 制作[せいさく]の 専門家[せんもんか]です。
+  Sie ist eine Expertin für Homepage-Erstellung.
+
+  ホームページのセキュリティ強化を行いました。
+  ホームページのセキュリティ 強化[きょうか]を 行[おこな]いました。
+  Wir haben die Sicherheit unserer Homepage verstärkt.
+
+  当社のホームページは24時間アクセス可能です。
+  当社[とうしゃ]のホームページは24時間[じかん]アクセス 可能[かのう]です。
+  Unsere Firmenhomepage ist rund um die Uhr zugänglich.
+
+  ホームページの運営には多くの労力がかかります。
+  ホームページの 運営[うんえい]には 多[おお]くの 労力[ろうりょく]がかかります。
+  Die Verwaltung einer Homepage erfordert viel Aufwand.
+
+  スマートフォン対応のホームページを作成しました。
+  スマートフォン 対応[たいおう]のホームページを 作成[さくせい]しました。
+  Wir haben eine für Smartphones optimierte Homepage erstellt.
+
+  ホームページのアクセス解析を行い、改善点を見つけます。
+  ホームページのアクセス 解析[かいせき]を 行[おこな]い、改善点[かいぜんてん]を 見[み]つけます。
+  Wir führen eine Zugriffsanalyse der Homepage durch, um Verbesserungsmöglichkeiten zu finden.
+
+  新入社員の紹介をホームページに載せました。
+  新入社員[しんにゅうしゃいん]の 紹介[しょうかい]をホームページに 載[の]せました。
+  Wir haben die Vorstellung unserer neuen Mitarbeiter auf der Homepage veröffentlicht.
+
+  ホームページの不具合について、お詫びいたします。
+  ホームページの 不具合[ふぐあい]について、お 詫[わ]びいたします。
+  Wir entschuldigen uns für die technischen Probleme auf unserer Homepage.
+
+  ホームページのリニューアルに伴い、一時的にアクセスできなくなります。
+  ホームページのリニューアルに 伴[ともな]い、一時的[いちじてき]にアクセスできなくなります。
+  Aufgrund der Erneuerung unserer Homepage wird diese vorübergehend nicht erreichbar sein.
+
+  ホームページから直接予約が可能になりました。
+  ホームページから 直接[ちょくせつ] 予約[よやく]が 可能[かのう]になりました。
+  Es ist jetzt möglich, direkt über unsere Homepage zu buchen.
+
+  多言語対応のホームページを開設しました。
+  多言語[たげんご] 対応[たいおう]のホームページを 開設[かいせつ]しました。
+  Wir haben eine mehrsprachige Homepage eingerichtet.
+
+  ホームページのお問い合わせフォームが使えない場合は、メールでご連絡ください。
+  ホームページのお 問[と]い 合[あ]わせフォームが 使[つか]えない 場合[ばあい]は、メールでご 連絡[れんらく]ください。
+  Falls das Kontaktformular auf unserer Homepage nicht funktioniert, kontaktieren Sie uns bitte per E-Mail.
+
+  ホームページのコンテンツは定期的に更新されています。
+  ホームページのコンテンツは 定期的[ていきてき]に 更新[こうしん]されています。
+  Die Inhalte unserer Homepage werden regelmäßig aktualisiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

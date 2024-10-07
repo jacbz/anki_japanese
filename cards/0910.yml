@@ -102,4 +102,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>風 (かぜ) hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Grundbedeutung: Wind, Brise, Luftstrom</li>
+    <div class="examples">
+      <div class="jp">そよとの 風[かぜ]もない。</div>
+      <div class="de spoiler">Es weht nicht das leiseste Lüftchen.</div>
+    </div>
+    <li>Kann auch "Atmosphäre" oder "Verhältnisse" bedeuten</li>
+    <div class="examples">
+      <div class="jp">自由[じゆう]なる 大学[だいがく]の 風[かぜ]に 当[あ]たる</div>
+      <div class="de spoiler">Der freien Atmosphäre der Universität ausgesetzt sein</div>
+    </div>
+    <li>Als Suffix: Beschreibt das Verhalten oder die Art einer bestimmten Berufs- oder Positionsbezeichnung</li>
+  </ul>
+  <p>Einige interessante Ausdrücke mit 風:</p>
+  <ul>
+    <li><span class="jp">風[かぜ]が 吹[ふ]けば 桶屋[おけや]が 儲[もう]かる</span>: Wörtlich "Wenn der Wind weht, verdient der Böttcher", bedeutet, dass ein Ereignis unerwartete Auswirkungen haben kann.</li>
+    <li><span class="jp">風[かぜ]を 切[き]る</span>: Die Luft durchschneiden, oft verwendet für schnelle Bewegungen</li>
+    <div class="examples">
+      <div class="jp">風[かぜ]を 切[き]って 走[はし]る</div>
+      <div class="de spoiler">Sausen, flitzen, rasen</div>
+    </div>
+    <li><span class="jp">風[かぜ]を 食[く]らう</span>: Wörtlich "den Wind fressen", bedeutet, die Flucht ergreifen oder plötzlich verschwinden</li>
+  </ul>
+  <p>In der Natur und Jahreszeiten:</p>
+  <ul>
+    <li><span class="jp">風[かぜ] 光[ひか]る</span>: Beschreibt einen sanften Wind im hellen Frühlingslicht (Jahreszeitenwort für Frühling)</li>
+    <li><span class="jp">風[かぜ] 薫[かお]る</span>: Beschreibt einen sanften frühsommerlichen Wind (Jahreszeitenwort für Sommer)</li>
+  </ul>
+  </p>

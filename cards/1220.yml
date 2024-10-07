@@ -98,4 +98,28 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あんな ist ein Demonstrativpronomen, das auf etwas Entferntes oder Abstraktes verweist.</p>
+  <ul>
+    <li>Es bedeutet "so (ein)", "solch", "derartig" und bezieht sich auf Dinge, Zustände oder Mengen, die sowohl vom Sprecher als auch vom Hörer entfernt sind.</li>
+    <li>Es wird oft verwendet, wenn zwischen Sprecher und Hörer ein gemeinsames Verständnis über das Besprochene besteht.</li>
+  </ul>
+  <p>Verwendung:</p>
+  <ul>
+    <li>Als Attribut vor Nomen:</li>
+    <div class="examples">
+      <div class="jp"><u>あんな</u> 鬘[かつら]かぶってみたい。</div>
+      <div class="de spoiler">Ich möchte so eine Perücke aufprobieren.</div>
+    </div>
+    <li>Mit der Partikel に (あんなに) als Adverb:</li>
+    <div class="examples">
+      <div class="jp">君[きみ]が<u>あんなに</u> 腹[はら]を 立[た]てるのを 見[み]たのははじめてだった。</div>
+      <div class="de spoiler">Ich hatte dich noch nie so wütend gesehen.</div>
+    </div>
+    <li>Um auf einen extremen Zustand oder eine starke Emotion hinzuweisen:</li>
+    <div class="examples">
+      <div class="jp"><u>あんなに</u>も、 取[と]り 乱[みだ]してしまったのです。</div>
+      <div class="de spoiler">Deshalb habe ich mich so sehr aufgeregt.</div>
+    </div>
+  </ul>
+  </p>

@@ -120,7 +120,7 @@ function createSvgWithPitchAccent(textInput, pitchAccent, unvoiced) {
 function addFurigana(text, kanjiHighlightMap = {}) {
   return text
     .replaceAll(
-      /\s?([^\s\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
+      /\s?([^\s<>\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
       (match, kanji, furigana) => {
         const kanjiMatch = Object.keys(kanjiHighlightMap).find((key) => {
           return kanji.includes(key) ? key : null;
@@ -296,9 +296,7 @@ function shuffleSentences(sentences, persist = true) {
     weight: weights[index],
   }));
 
-  console.log("Original sentences:", weightedSentences);
   weightedShuffle(weightedSentences);
-  console.log("Weighted and shuffled sentences:", weightedSentences);
 
   weightedSentences = weightedSentences.map((sentence) => sentence.value);
   Persistence.setItem(weightedSentences);

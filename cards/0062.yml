@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ば wird an die Konditionalform von Verben und Adjektiven angehängt, um verschiedene Bedeutungen auszudrücken:</p>
+  <ul>
+    <li>Es drückt eine hypothetische Bedingung aus: "wenn", "falls", "sofern"</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]が 降[ふ]れ<u>ば</u>、家[いえ]に 帰[かえ]ります。</div>
+      <div class="de spoiler">Wenn es regnet, gehe ich nach Hause.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um einen Vorschlag zu machen:</li>
+    <div class="examples">
+      <div class="jp">あなたも 行[い]け<u>ば</u>？</div>
+      <div class="de spoiler">Wie wäre es, wenn du auch hingehen würdest?</div>
+    </div>
+    <li>Es kann eine additive Aufzählung ausdrücken: "sowohl ... als auch"</li>
+    <div class="examples">
+      <div class="jp">池内[いけうち]さんはドイツ 語[ご]も 話[はな]せ<u>ば</u>フランス 語[ご]も 話[はな]します。</div>
+      <div class="de spoiler">Herr Ikeuchi spricht sowohl Deutsch als auch Französisch.</div>
+    </div>
+  </ul>
+  <p>Besondere Verwendungen:</p>
+  <ul>
+    <li>Mit ほど: je ... desto</li>
+    <div class="examples">
+      <div class="jp">勉強[べんきょう]すれ<u>ば</u>するほど、上手[じょうず]になります。</div>
+      <div class="de spoiler">Je mehr man lernt, desto besser wird man.</div>
+    </div>
+    <li>In festen Ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">例[たと]え<u>ば</u></div>
+      <div class="de spoiler">Zum Beispiel</div>
+      <div class="jp">できれ<u>ば</u></div>
+      <div class="de spoiler">Wenn möglich</div>
+    </div>
+  </ul>
+  </p>

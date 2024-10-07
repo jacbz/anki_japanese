@@ -106,4 +106,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">これ</span> ist ein Demonstrativpronomen, das auf Personen oder Dinge in der Nähe des Sprechers oder auf den aktuellen Ort, Zeitpunkt oder Sachverhalt verweist.</p>
+
+  <ul>
+    <li>Es entspricht im Deutschen "dieser", "diese", "dieses" oder "das hier".</li>
+    <div class="examples">
+      <div class="jp"><u>これ</u>でいいのか。</div>
+      <div class="de spoiler">Ist es so richtig? / Geht das so?</div>
+      <div class="jp"><u>これ</u>だ。</div>
+      <div class="de spoiler">Das ist es! / Hier ist es!</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um auf etwas gerade Erwähntes oder Gezeigtes zu verweisen.</li>
+    <div class="examples">
+      <div class="jp"><u>これ</u>、客[きゃく]の 忘[わす]れ 物[もの]なんですがね。どうしますか。</div>
+      <div class="de spoiler">Das hier hat ein Gast bei uns liegen gelassen. Was sollen wir damit machen?</div>
+    </div>
+
+    <li>In Verbindung mit で kann es "damit" oder "hiermit" bedeuten.</li>
+    <div class="examples">
+      <div class="jp"><u>これ</u>で 少[すこ]しは 気[き]が 楽[らく]になった？</div>
+      <div class="de spoiler">Na, fühlst du dich jetzt ein bisschen erleichtert?</div>
+    </div>
+
+    <li>Es kann auch als Interjektion verwendet werden, um jemandes Aufmerksamkeit zu erregen.</li>
+    <div class="examples">
+      <div class="jp"><u>これ</u>、ご 覧[らん]。</div>
+      <div class="de spoiler">He, schau mal. / Sehen Sie mal!</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Ausdrücke:</p>
+  <ul>
+    <li><span class="jp"><u>これ</u>は</span>: wird als Interjektion verwendet, oft um Überraschung auszudrücken.</li>
+    <li><span class="jp"><u>これ</u>は<u>これ</u>、それはそれ</span>: bedeutet "Das ist das eine und das ist das andere" oder "Das sind zwei verschiedene Dinge".</li>
+  </ul>

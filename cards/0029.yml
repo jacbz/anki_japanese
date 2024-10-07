@@ -106,4 +106,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>か wird hauptsächlich verwendet, um Fragen zu bilden.</p>
+  <ul>
+    <li>Es steht am Satzende, um eine Frage oder einen Zweifel auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">誰[だれ]です<u>か</u>？</div>
+      <div class="de spoiler">Wer ist das?</div>
+      <div class="jp">試験[しけん]に 受[う]かるだろう<u>か</u>？</div>
+      <div class="de spoiler">Ob ich wohl die Prüfung bestehe?</div>
+    </div>
+
+    <li>Es kann auch einen Vorschlag oder eine Aufforderung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">そろそろ 行[い]きましょう<u>か</u>？</div>
+      <div class="de spoiler">Wollen wir langsam losgehen?</div>
+      <div class="jp">海[うみ]へ 行[い]かない<u>か</u>？</div>
+      <div class="de spoiler">Wollen wir nicht ans Meer fahren?</div>
+    </div>
+
+    <li>Es drückt manchmal Überraschung oder Gefühle aus:</li>
+    <div class="examples">
+      <div class="jp">なんとすばらしいこと<u>か</u>！</div>
+      <div class="de spoiler">Wie wunderbar!</div>
+      <div class="jp">なんだ、きみ<u>か</u>。</div>
+      <div class="de spoiler">Ach, du bist es!</div>
+    </div>
+
+    <li>Es kann Unsicherheit oder ungefähre Angaben ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">五十[ごじゅう] 歳[さい]<u>か</u></div>
+      <div class="de spoiler">Ungefähr 50 Jahre alt</div>
+    </div>
+
+    <li>Es kann auch "oder" bedeuten, besonders in der Form ～か～か (entweder... oder...):</li>
+    <div class="examples">
+      <div class="jp">二[に] 万[まん]<u>か</u>三[さん] 万[まん] 円[えん]</div>
+      <div class="de spoiler">20.000 oder 30.000 Yen</div>
+      <div class="jp">賛成[さんせい]<u>か</u>反対[はんたい]<u>か</u></div>
+      <div class="de spoiler">Entweder dafür oder dagegen</div>
+    </div>
+  </ul>

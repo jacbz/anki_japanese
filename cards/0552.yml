@@ -2,7 +2,7 @@ Rang: 552
 Lemma: ところが
 Lesung: ''
 Tonhöhen: /^\.
-Definition: aber; jedoch
+Definition: '[nach Vergangenheit] aber; jedoch'
 Alternativschreibweisen: 所が
 Extra: '' # Nur bei suru-Verben
 Wortart: konj, postp
@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ところが hat zwei Hauptbedeutungen als Postposition und Konjunktion.</p>
+  <p>Als Postposition (nach た):</p>
+  <ul>
+    <li>Drückt eine unerwartete oder zufällige Folge aus:</li>
+    <div class="examples">
+      <div class="jp">掘[ほ]りに 来[き]た<u>ところが</u>、 暗[くら]がりで 地理[ちり]がわからなかった。</div>
+      <div class="de spoiler">Er kam, um zu graben, aber im Dunkeln kannte er sich nicht aus.</div>
+    </div>
+    <li>Kann auch eine Einschränkung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">お 金[かね]を 送[おく]っていた<u>ところが</u>、 今年[ことし]からは 送[おく]らなくなった。</div>
+      <div class="de spoiler">Er pflegte Geld zu schicken, aber seit diesem Jahr tut er es nicht mehr.</div>
+    </div>
+  </ul>
+  <p>Als Konjunktion:</p>
+  <ul>
+    <li>Drückt einen Gegensatz oder eine unerwartete Wendung aus:</li>
+    <div class="examples">
+      <div class="jp"><u>ところが</u>、その 音[おと]が 大[おお]きくなってきた。</div>
+      <div class="de spoiler">Aber der Ton wurde lauter.</div>
+    </div>
+    <li>Kann auch verwendet werden, um einen Kontrast zu betonen:</li>
+    <div class="examples">
+      <div class="jp">決心[けっしん]をした。<u>ところが</u>、 実行[じっこう]する 段階[だんかい]で 迷[まよ]い 始[はじ]めた。</div>
+      <div class="de spoiler">Ich fasste einen Entschluss. Doch als es zur Umsetzung kam, begann ich zu zögern.</div>
+    </div>
+  </ul>
+  <p>ところが ähnelt dem deutschen "aber" oder "jedoch", drückt aber oft eine stärkere Überraschung oder einen unerwarteten Kontrast aus.</p>
+  </p>

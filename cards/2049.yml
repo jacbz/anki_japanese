@@ -2,7 +2,7 @@ Rang: 2049
 Lemma: 整理
 Lesung: せいり
 Tonhöhen: \..
-Definition: Ordnung
+Definition: Ordnung; aufräumen
 Alternativschreibweisen: ''
 Extra: （する）
 Wortart: n, vt
@@ -14,12 +14,117 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今日自分の本棚を整理した。
-  今日[きょう] 自分[じぶん]の 本棚[ほんだな]を 整理[せいり]した。
-  Ich habe heute mein Bücherregal aufgeräumt.
+  今日[きょう]自分[じぶん]の 本棚[ほんだな]を 整理[せいり]した。
+  Heute habe ich mein Bücherregal aufgeräumt.
+
+  部屋の整理をするのが好きです。
+  部屋[へや]の 整理[せいり]をするのが 好[す]きです。
+  Ich mag es, mein Zimmer aufzuräumen.
+
+  書類の整理に時間がかかりそうだ。
+  書類[しょるい]の 整理[せいり]に 時間[じかん]がかかりそうだ。
+  Es wird wohl einige Zeit dauern, die Dokumente zu ordnen.
+
+  彼女は毎週末に衣装ダンスの整理をする。
+  彼女[かのじょ]は 毎週末[まいしゅうまつ]に 衣装[いしょう]ダンスの 整理[せいり]をする。
+  Sie räumt jeden Wochenende ihren Kleiderschrank auf.
+
+  データの整理は重要な作業です。
+  データの 整理[せいり]は 重要[じゅうよう]な 作業[さぎょう]です。
+  Die Datenorganisation ist eine wichtige Aufgabe.
+
+  この棚は整理箱を使うと便利だよ。
+  この 棚[たな]は 整理箱[せいりばこ]を 使[つか]うと 便利[べんり]だよ。
+  Für dieses Regal sind Sortierkästen sehr praktisch.
+
+  整理整頓は効率的な仕事のコツです。
+  整理整頓[せいりせいとん]は 効率的[こうりつてき]な 仕事[しごと]のコツです。
+  Ordnung und Organisation sind der Schlüssel zu effizientem Arbeiten.
+
+  交通整理のため、警察官が配置された。
+  交通整理[こうつうせいり]のため、警察官[けいさつかん]が 配置[はいち]された。
+  Zur Verkehrsregelung wurden Polizeibeamte eingesetzt.
+
+  会社の人員整理で多くの従業員が解雇された。
+  会社[かいしゃ]の 人員整理[じんいんせいり]で 多[おお]くの 従業員[じゅうぎょういん]が 解雇[かいこ]された。
+  Viele Mitarbeiter wurden im Rahmen des Personalabbaus des Unternehmens entlassen.
+
+  整理券を受け取って、順番を待ってください。
+  整理券[せいりけん]を 受け取[うけと]って、順番[じゅんばん]を 待[ま]ってください。
+  Bitte nehmen Sie eine Nummer und warten Sie auf Ihre Reihe.
+
+  破産の整理をするために弁護士を雇った。
+  破産[はさん]の 整理[せいり]をするために 弁護士[べんごし]を 雇[やと]った。
+  Wir haben einen Anwalt angestellt, um den Konkurs abzuwickeln.
+
+  部屋の整理が悪いと、物を見つけるのに時間がかかる。
+  部屋[へや]の 整理[せいり]が 悪[わる]いと、物[もの]を 見[み]つけるのに 時間[じかん]がかかる。
+  Wenn das Zimmer unordentlich ist, braucht man länger, um Dinge zu finden.
+
+  引っ越しの前に、不要な物の整理をしよう。
+  引っ越[ひっこ]しの 前[まえ]に、不要[ふよう]な 物[もの]の 整理[せいり]をしよう。
+  Lass uns vor dem Umzug die unnötigen Sachen aussortieren.
+
+  机の上を整理すると、気分もすっきりする。
+  机[つくえ]の 上[うえ]を 整理[せいり]すると、気分[きぶん]もすっきりする。
+  Wenn man den Schreibtisch aufräumt, fühlt man sich auch geistig frischer.
+
+  頭の中を整理するために、散歩に出かけた。
+  頭[あたま]の 中[なか]を 整理[せいり]するために、散歩[さんぽ]に 出[で]かけた。
+  Um meine Gedanken zu ordnen, bin ich spazieren gegangen.
+
+  古い新聞を整理して、リサイクルに出そう。
+  古[ふる]い 新聞[しんぶん]を 整理[せいり]して、リサイクルに 出[だ]そう。
+  Lass uns die alten Zeitungen sortieren und zum Recycling bringen.
+
+  会社の資料を整理するのに一日かかった。
+  会社[かいしゃ]の 資料[しりょう]を 整理[せいり]するのに 一日[いちにち]かかった。
+  Es hat einen ganzen Tag gedauert, die Unterlagen der Firma zu ordnen.
+
+  彼女は手帳を見ながら、今後の予定を整理した。
+  彼女[かのじょ]は 手帳[てちょう]を 見[み]ながら、今後[こんご]の 予定[よてい]を 整理[せいり]した。
+  Sie ordnete ihre zukünftigen Termine, während sie in ihrem Notizbuch nachschaute.
+
+  整理整頓された職場は、仕事の効率を上げる。
+  整理整頓[せいりせいとん]された 職場[しょくば]は、仕事[しごと]の 効率[こうりつ]を 上[あ]げる。
+  Ein aufgeräumter und organisierter Arbeitsplatz erhöht die Arbeitseffizienz.
+
+  経営の立て直しのため、会社の財務を整理する必要がある。
+  経営[けいえい]の 立て直[たてなお]しのため、会社[かいしゃ]の 財務[ざいむ]を 整理[せいり]する 必要[ひつよう]がある。
+  Um das Geschäft wieder auf Kurs zu bringen, müssen wir die Finanzen des Unternehmens in Ordnung bringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 整理 (せいり) hat verschiedene Bedeutungen und Anwendungen:</p>
+  <ol>
+    <li>Aufräumen und Ordnen: <div class="examples">
+        <div class="jp">部屋[へや]を 整理[せいり]する。</div>
+        <div class="de spoiler">Das Zimmer aufräumen.</div>
+      </div>
+    </li>
+    <li>Sortieren und Organisieren: <div class="examples">
+        <div class="jp">書類[しょるい]を 整理[せいり]する。</div>
+        <div class="de spoiler">Dokumente sortieren.</div>
+      </div>
+    </li>
+    <li>Gedanken ordnen: <div class="examples">
+        <div class="jp">考[かんが]えを 整理[せいり]する。</div>
+        <div class="de spoiler">Die Gedanken ordnen.</div>
+      </div>
+    </li>
+    <li>Regelung und Kontrolle: <div class="examples">
+        <div class="jp">交通[こうつう]を 整理[せいり]する。</div>
+        <div class="de spoiler">Den Verkehr regeln.</div>
+      </div>
+    </li>
+    <li>Personalabbau: <div class="examples">
+        <div class="jp">人員整理[じんいんせいり]を 行[おこな]う。</div>
+        <div class="de spoiler">Einen Personalabbau durchführen.</div>
+      </div>
+    </li>
+  </ol>
+  <p>In der Geschäftswelt kann 整理 auch die Bedeutung von "Liquidation" oder "Abwicklung" haben, besonders in Bezug auf Unternehmen oder Vermögenswerte.</p>

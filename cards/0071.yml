@@ -102,4 +102,61 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>所 (ところ) ist ein vielseitiges Wort mit mehreren Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Grundbedeutung: Ort, Stelle, Platz</li>
+    <div class="examples">
+      <div class="jp">道路[どうろ]が 海[うみ]にぶつかった<u>ところ</u>だけは、 多少[たしょう]のゆとりがあって</div>
+      <div class="de spoiler">Nur da, wo die Straße ans Meer stieß, gab es freien Raum</div>
+    </div>
+    <li>Wohnung, Haus, Zuhause</li>
+    <div class="examples">
+      <div class="jp">教頭[きょうとう]の<u>ところ</u>へ 御機嫌伺[ごきげんうかが]いにくる 様[よう]なおれと 見損[みそく]なってるか。</div>
+      <div class="de spoiler">Glaub ja nicht, dass ich gekommen bin, um mich beim Konrektor einzuschmeicheln!</div>
+    </div>
+    <li>Teil, Stelle, Passage (in einem Text, Film, etc.)</li>
+    <div class="examples">
+      <div class="jp"> 最初[さいしょ]の 真[まこと]のフォルティッシモの<u>ところ</u>で 犬[いぬ]が 吠[ほ]え</div>
+      <div class="de spoiler">Beim ersten richtigen Fortissimo ließ sich ein Hund vernehmen</div>
+    </div>
+    <li>Punkt, Aspekt, Eigenschaft</li>
+    <div class="examples">
+      <div class="jp"> 怪[あや]しい<u>ところ</u>など、どこから、どう 見[み]ても、これっぽっちもありはしないのに。</div>
+      <div class="de spoiler">Von welcher Seite her er die Vorrichtung auch beäugte, er fand nichts, was Verdacht erregte.</div>
+    </div>
+    <li>Zeitpunkt, Moment, Situation</li>
+    <div class="examples">
+      <div class="jp"> 会社[かいしゃ]は 今[いま]たいへんな<u>ところ</u>にきていてね</div>
+      <div class="de spoiler">Wir stecken in einer schwierigen Phase.</div>
+    </div>
+  </ul>
+  <p>Grammatikalische Verwendungen:</p>
+  <ul>
+    <li>た<u>ところ</u>: Drückt eine unerwartete oder zufällige Folge aus</li>
+    <div class="examples">
+      <div class="jp"> 家族[かぞく]や 知[し]り 合[あ]いと 避暑地[ひしょち]に 来[き]た<u>ところ</u>、 愛人[あいじん]が 嫌[いや]がらせのために 押[お]し 掛[か]けてきた。</div>
+      <div class="de spoiler">Ich bin mit Familie und Freunden in den Ferien, und meine Geliebte taucht auf, aus Provokation.</div>
+    </div>
+    <li>た<u>ところ</u>では: Drückt die Grundlage einer Einschätzung aus</li>
+    <div class="examples">
+      <div class="jp">フクスケが 見[み]た<u>ところ</u>では、ほかのどこの 組[くみ]でも 新来者[しんらいしゃ]があればどしどし 泊[と]めてやって</div>
+      <div class="de spoiler">Soweit Glückspilz es übersehen konnte, wurden Neuankömmlinge auch in den anderen Gruppen schleunigst irgendwo einquartiert</div>
+    </div>
+    <li>する<u>ところ</u>の: Funktion eines Relativpronomens</li>
+    <div class="examples">
+      <div class="jp"> 私[わたし]が 生命[せいめい]と 名[な]づける<u>ところ</u>のものにたいする 自分[じぶん]の 愛情[あいじょう]をあなたに 告白[こくはく]した 時[とき]</div>
+      <div class="de spoiler">in einer Stunde, da ich Ihnen meine Liebe zu dem gestand, was ich das Leben nenne</div>
+    </div>
+    <li>の⋯する<u>ところ</u>となる: Ausdruck einer passivischen Beziehung</li>
+    <div class="examples">
+      <div class="jp">あの 一件[いっけん]が 長老会議[ちょうろうかいぎ]の 知[し]る<u>ところ</u>となった。</div>
+      <div class="de spoiler">Der Rat der Ältesten wusste über den Vorfall Bescheid.</div>
+    </div>
+  </ul>
+  <p>所 kann auch als Zählwort für Orte verwendet werden:</p>
+  <div class="examples">
+    <div class="jp"> 産婦[さんぷ]はかっと 瞼[まぶた]を 開[ひら]いて、あてどもなく 一所[ひとところ]を 睨[にら]みながら、 苦[くる]しげというより、 恐[おそ]ろしげに 顔[かお]をゆがめた。</div>
+    <div class="de spoiler">Die Gebärende öffnete plötzlich die Augenlider, und ziellos auf einen Fleck starrend verzerrte sich ihr Gesicht auf eine mehr grausige als leidende Art.</div>
+  </div>
+  </p>

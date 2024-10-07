@@ -2,13 +2,13 @@ Rang: 2114
 Lemma: よろしい
 Lesung: ''
 Tonhöhen: /^\.
-Definition: in Ordnung, verstanden, einverstanden
+Definition: gut, in Ordnung; dürfen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: adj, interj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: よろしくない・よろしかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,123 @@ Beispielsätze: |-
   ひとつお 願[ねが]いしてもよろしいですか。
   Darf ich Sie um einen Gefallen bitten?
 
+  これでよろしいでしょうか。
+  これで よろしい でしょうか。
+  Ist das so in Ordnung?
+
+  報告は結論だけでよろしい。
+  報告[ほうこく]は 結論[けつろん]だけで よろしい。
+  Für den Bericht reichen nur die Schlussfolgerungen.
+
+  父の病気はその後はなはだよろしくない。
+  父[ちち]の 病気[びょうき]はその 後[ご] はなはだ よろしくない。
+  Der Zustand meines Vaters hat sich danach sehr verschlechtert.
+
+  この件に関しては一切他言は無用です。よろしいですね？
+  この 件[けん]に 関[かん]しては 一切[いっさい] 他言[たごん]は 無用[むよう]です。よろしいですね？
+  Bezüglich dieser Angelegenheit ist absolute Verschwiegenheit erforderlich. Haben wir uns verstanden?
+
+  歩くのは健康によろしいですよ。
+  歩[ある]くのは 健康[けんこう]に よろしいですよ。
+  Spazieren gehen ist gut für die Gesundheit.
+
+  夜中に来るのはよろしくありません。
+  夜中[よなか]に 来[く]るのは よろしくありません。
+  Es ist nicht angebracht, mitten in der Nacht zu kommen.
+
+  御邪魔なら、また上がってもよろしゅうございます。
+  ご 邪魔[じゃま]なら、また 上[あ]がっても よろしゅうございます。
+  Wenn es Ihnen jetzt ungelegen ist, kann ich gerne ein andermal wiederkommen.
+
+  煙草を吸ってよろしいですか。
+  たばこを 吸[す]って よろしいですか。
+  Darf ich rauchen?
+
+  一緒に行ってもよろしいですか。
+  一緒[いっしょ]に 行[い]っても よろしいですか。
+  Darf ich Sie begleiten?
+
+  もう行ってもよろしいです。
+  もう 行[い]っても よろしいです。
+  Sie können jetzt gehen.
+
+  私はそれを具体的に申し上げてよろしいでしょうか。
+  私[わたし]はそれを 具体的[ぐたいてき]に 申[もう]し 上[あ]げて よろしいでしょうか。
+  Darf ich das konkreter erläutern?
+
+  この点において、彼は寧ろ下手な部類に属すると言ってよろしい。
+  この 点[てん]において、彼[かれ]は 寧[むし]ろ 下手[へた]な 部類[ぶるい]に 属[ぞく]すると 言[い]って よろしい。
+  Man kann durchaus sagen, dass er in dieser Hinsicht eher zu den Ungeschickten gehört.
+
+  もうよろしいわ、ご苦労さま。
+  もう よろしいわ、ご 苦労[くろう]さま。
+  Das reicht jetzt, vielen Dank für Ihre Mühe.
+
+  部屋のお片付けはよろしいです。
+  部屋[へや]のお 片付[かたづ]けは よろしいです。
+  Sie brauchen das Zimmer nicht aufzuräumen.
+
+  よろしければ、一緒にお茶でもいかがですか。
+  よろしければ、一緒[いっしょ]に お茶[ちゃ]でも いかがですか。
+  Wenn es Ihnen recht ist, wie wäre es mit einer Tasse Tee?
+
+  もしよろしかったら、ご意見をお聞かせください。
+  もし よろしかったら、ご 意見[いけん]を お聞[き]かせください。
+  Wenn Sie möchten, lassen Sie mich bitte Ihre Meinung hören.
+
+  よろしい、分かりました。
+  よろしい、分[わ]かりました。
+  Gut, ich habe verstanden.
+
+  よろしい。では、他の試験は免除しましょう。
+  よろしい。では、他[ほか]の 試験[しけん]は 免除[めんじょ]しましょう。
+  In Ordnung. Dann werden wir die anderen Prüfungen erlassen.
+
+  ひとつお願いしてもよろしいでしょうか。
+  ひとつ お願[ねが]いしても よろしいでしょうか。
+  Dürfte ich Sie um einen Gefallen bitten?
+
+  それでよろしいでしょうか。
+  それで よろしいでしょうか。
+  Wäre das so in Ordnung für Sie?
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>よろしい ist ein formelleres Äquivalent zu よい und hat mehrere Verwendungen:</p>
+  <ul>
+    <li>Es bedeutet "gut", "richtig", "angenehm" oder "passend":</li>
+    <div class="examples">
+      <div class="jp">報告[ほうこく]は 結論[けつろん]だけで<u>よろしい</u></div>
+      <div class="de spoiler">In den Berichten müssen nur die Ergebnisse stehen</div>
+    </div>
+    <li>Es wird verwendet, um Zustimmung oder Erlaubnis auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">煙草[たばこ]を 吸[す]って<u>よろしい</u>ですか。</div>
+      <div class="de spoiler">Darf ich rauchen?</div>
+      <div class="jp">一緒[いっしょ]に 行[い]っても<u>よろしい</u>ですか。</div>
+      <div class="de spoiler">Darf ich mitkommen?</div>
+    </div>
+    <li>Es kann ausdrücken, dass etwas nicht (mehr) nötig ist:</li>
+    <div class="examples">
+      <div class="jp">もう<u>よろしい</u>わ、ご 苦労[くろう]さん</div>
+      <div class="de spoiler">Das ist nicht mehr nötig. Danke für deine Mühe.</div>
+      <div class="jp">部屋[へや]のお 片付[かたづ]けは<u>よろしい</u>。</div>
+      <div class="de spoiler">Sie brauchen das Zimmer nicht aufzuräumen.</div>
+    </div>
+    <li>In der Form ⋯の方[ほう]が<u>よろしい</u> bedeutet es "besser" oder "lieber":</li>
+    <div class="examples">
+      <div class="jp">早[はや]く 帰[かえ]った 方[ほう]が<u>よろしい</u>でしょう。</div>
+      <div class="de spoiler">Es wäre wohl besser, früher nach Hause zu gehen.</div>
+    </div>
+    <li>Als Interjektion bedeutet es "Gut!", "Verstanden!" oder "Einverstanden!":</li>
+    <div class="examples">
+      <div class="jp"><u>よろしい</u>、 分[わ]かった。</div>
+      <div class="de spoiler">Gut, ich habe verstanden!</div>
+    </div>
+  </ul>
+  <p>In formellen Situationen wird よろしい oft anstelle von よい verwendet, um höflicher zu klingen.</p>
+  </p>

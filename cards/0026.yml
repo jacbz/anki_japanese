@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ね ist eine Satzendpartikel mit verschiedenen Funktionen:</p>
+  <ul>
+    <li>Bestätigung und Zustimmung suchen:</li>
+    <div class="examples">
+      <div class="jp">いい 天気[てんき]です<u>ね</u>。</div>
+      <div class="de spoiler">Schönes Wetter, nicht wahr?</div>
+    </div>
+    <li>Eine Aussage bekräftigen:</li>
+    <div class="examples">
+      <div class="jp">じつは、 私[わたし]も 文学[ぶんがく]のまねごとが 好[す]きでして<u>ね</u>。</div>
+      <div class="de spoiler">Offen gesagt, ich spiele auch gern den Schriftsteller.</div>
+    </div>
+    <li>Interesse oder Mitgefühl ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">大変[たいへん]だった<u>ね</u>。</div>
+      <div class="de spoiler">Das muss schwer gewesen sein, nicht wahr?</div>
+    </div>
+    <li>Eine Aufforderung freundlicher machen:</li>
+    <div class="examples">
+      <div class="jp">ちゃんと、 食事[しょくじ]をしているわ<u>ね</u>。</div>
+      <div class="de spoiler">Du isst doch vernünftig, oder?</div>
+    </div>
+  </ul>
+  <p>ね kann auch als Interjektion verwendet werden, um Aufmerksamkeit zu erregen oder etwas zu betonen:</p>
+  <div class="examples">
+    <div class="jp"><u>ね</u>、 見[み]て 御覧[ごらん]なさいよ。</div>
+    <div class="de spoiler">Sieh mal genau hin.</div>
+  </div>
+  <p>In informellen Situationen kann ね auch mitten im Satz verwendet werden, um die Aufmerksamkeit des Zuhörers zu halten:</p>
+  <div class="examples">
+    <div class="jp">でも、どうしてできるのかな？つまり<u>ね</u>、どうやって 時間[じかん]なんかぬすめるのかな？</div>
+    <div class="de spoiler">Aber wie können die das? Ich meine, wie kann man denn Zeit wirklich stehlen?</div>
+  </div>
+  </p>

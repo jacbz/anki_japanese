@@ -106,4 +106,27 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>その ist ein demonstratives Attribut mit zwei Hauptverwendungen:</p>
+
+  <ul>
+    <li>Es verweist auf Dinge oder Personen in der Nähe des Hörers.</li>
+    <div class="examples">
+      <div class="jp"><u>その</u> 本[ほん]を 見[み]せてください。</div>
+      <div class="de spoiler">Zeig mir bitte dieses/das Buch (das du hast).</div>
+    </div>
+
+    <li>Es verweist auf etwas, das gerade erwähnt wurde.</li>
+    <div class="examples">
+      <div class="jp">昨日[きのう] 公園[こうえん]で 花火[はなび]を 見[み]ました。<u>その</u> 花火[はなび]は とても 綺麗[きれい]でした。</div>
+      <div class="de spoiler">Gestern habe ich im Park ein Feuerwerk gesehen. Dieses Feuerwerk war sehr schön.</div>
+      <div class="jp">新[あたら]しい 店[みせ]が できました。<u>その</u> 店[みせ]は 美味[おい]しいです。</div>
+      <div class="de spoiler">Ein neues Restaurant wurde eröffnet. Dieses Restaurant ist lecker.</div>
+    </div>
+  </ul>
+
+  <p>Diese zweite Verwendung ist besonders nützlich, um Bezüge im Text herzustellen:</p>
+  <div class="examples">
+    <div class="jp">建物[たてもの]を 見[み]つけました。<u>その</u> 建物[たてもの]は 古[ふる]かったです。</div>
+    <div class="de spoiler">Ich fand ein Gebäude. Dieses Gebäude war alt.</div>
+  </div>

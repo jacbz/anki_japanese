@@ -106,4 +106,29 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>について wird verwendet, um einen Bezug oder ein Thema auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet "in Bezug auf", "bezüglich", "über" oder "betreffend".</li>
+    <div class="examples">
+      <div class="jp">宗教[しゅうきょう]<u>について</u>の マルクス の 言葉[ことば]</div>
+      <div class="de spoiler">Marx' Worte über Religion</div>
+      <div class="jp">あんたの 置[お]かれた 状況[じょうきょう]<u>について</u></div>
+      <div class="de spoiler">bezüglich der Situation, in der du dich befindest</div>
+    </div>
+    <li>Es kann auch verwendet werden, um einen Gegenstand der Diskussion oder Untersuchung anzuzeigen.</li>
+    <div class="examples">
+      <div class="jp">運転手[うんてんしゅ] 募集[ぼしゅう] 広告[こうこく]<u>について</u>も、 再検討[さいけんとう]の 必要[ひつよう]がある</div>
+      <div class="de spoiler">Bezüglich der Stellenanzeige für Fahrer sind weitere Überlegungen notwendig</div>
+    </div>
+    <li>Es kann auch bedeuten, dass jemand nach etwas fragt oder sich über etwas erkundigt.</li>
+    <div class="examples">
+      <div class="jp">私[わたし]の 長[なが]い 欠席[けっせき]<u>について</u> 何[なに]も 聞[き]かなかった</div>
+      <div class="de spoiler">Er fragte nichts über meine lange Abwesenheit</div>
+    </div>
+  </ul>
+  <p>In einigen Kontexten kann について auch "für", "pro", "je" oder "per" bedeuten, besonders bei Preisangaben.</p>
+  <div class="examples">
+    <div class="jp">一個[いっこ]<u>について</u> 百円[ひゃくえん]</div>
+    <div class="de spoiler">100 Yen pro Stück</div>
+  </div>

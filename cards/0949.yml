@@ -98,4 +98,24 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>申[もう]す ist ein höfliches Verb, das in formellen Situationen verwendet wird.</p>
+  <ul>
+    <li>Es wird anstelle von 言[い]う (sagen) benutzt, um Bescheidenheit und Respekt auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">成瀬[なるせ]と<u>申[もう]します</u>。</div>
+      <div class="de spoiler">Ich heiße Naruse. (höfliche Vorstellung)</div>
+    </div>
+    <li>Es kann auch bedeuten "erwähnen" oder "mitteilen":</li>
+    <div class="examples">
+      <div class="jp">さきほど<u>申[もう]した</u>んでございますよ。</div>
+      <div class="de spoiler">Wie ich vorhin schon erwähnte...</div>
+    </div>
+    <li>In Verbindung mit お oder ご vor einem Nomen oder nominalisierten Verb ersetzt es する, um eine Handlung höflich auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">お待[ま]ち<u>申[もう]しましょう</u>。</div>
+      <div class="de spoiler">Ich werde (höflich) warten.</div>
+    </div>
+  </ul>
+  <p>Die Verbformen sind: 申[もう]さない (Verneinung), 申[もう]した (Vergangenheit).</p>
+  </p>

@@ -102,4 +102,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>点 hat mehrere Bedeutungen und Verwendungen:</p>
+  <ul>
+    <li>Es bezeichnet einen Punkt im geometrischen Sinne oder als Satzzeichen.</li>
+    <div class="examples">
+      <div class="jp">丸[まる]の 中[なか]へ<u>点</u>を 二[ふた]つうって 眼[め]をつける。</div>
+      <div class="de spoiler">In den Kreis hinein kleckst er zwei Punkte und markiert so die Augen.</div>
+    </div>
+    <li>Es kann einen Gesichtspunkt oder Aspekt ausdrücken.</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]が 僕[ぼく]より 優[すぐ]れている<u>点</u>はギターが 弾[ひ]けることだけであり</div>
+      <div class="de spoiler">Der einzige Punkt, in dem er mir überlegen ist, ist, dass er Gitarre spielen kann.</div>
+    </div>
+    <li>Im Sport bezeichnet es einen erzielten Punkt oder Treffer.</li>
+    <div class="examples">
+      <div class="jp">結局[けっきょく]スリーアウトになって<u>点</u>が 入[はい]らなかった。</div>
+      <div class="de spoiler">Letztendlich war es ein Aus, und kein Punkt wurde erzielt.</div>
+    </div>
+    <li>Es wird auch für Bewertungen oder Noten verwendet.</li>
+  </ul>
+  <p>Als Suffix (点) dient es als Zählwort für:</p>
+  <ul>
+    <li>Erzielte Punkte oder Treffer</li>
+    <li>Verkaufsartikel oder Gegenstände</li>
+  </ul>
+  <div class="examples">
+    <div class="jp">三<u>点</u>リードする</div>
+    <div class="de spoiler">Mit drei Punkten (Vorsprung) führen</div>
+    <div class="jp">衣類[いるい] 三<u>点</u></div>
+    <div class="de spoiler">Drei Kleidungsstücke</div>
+  </div>
+  <p>Wichtige Ausdrücke:</p>
+  <div class="examples">
+    <div class="jp"><u>点</u>を 入[い]れる</div>
+    <div class="de spoiler">Ein Tor erzielen, einen Treffer landen</div>
+  </div>
+  </p>

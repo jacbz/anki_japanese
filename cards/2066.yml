@@ -2,24 +2,115 @@ Rang: 2066
 Lemma: 任せる
 Lesung: まかせる
 Tonhöhen: /^\.
-Definition: anvertrauen, überlassen
-Alternativschreibweisen: ''
+Definition: überlassen, anvertrauen
+Alternativschreibweisen: 委せる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 任せない・任せた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   それは私に任せて。
   それは 私[わたし]に 任[まか]せて。
-  Überlass es mir.
+  Überlass das mir.
+
+  運転を彼に任せました。
+  運転[うんてん]を 彼[かれ]に 任[まか]せました。
+  Ich habe ihm das Steuer überlassen.
+
+  営業のことは全て山田さんに任せています。
+  営業[えいぎょう]のことは 全[すべ]て 山田[やまだ]さんに 任[まか]せています。
+  Ich überlasse Herrn Yamada die gesamte Geschäftsführung.
+
+  一から十まで任せるのは危険だよ。
+  一[いち]から 十[じゅう]まで 任[まか]せるのは 危険[きけん]だよ。
+  Es ist gefährlich, alles von A bis Z zu überlassen.
+
+  大切な娘を彼に任せられるか心配です。
+  大切[たいせつ]な 娘[むすめ]を 彼[かれ]に 任[まか]せられるか 心配[しんぱい]です。
+  Ich mache mir Sorgen, ob ich ihm meine geliebte Tochter anvertrauen kann.
+
+  そんな大金を知らない人に任せるなんて、危険すぎる。
+  そんな 大金[たいきん]を 知[し]らない 人[ひと]に 任[まか]せるなんて、危険[きけん]すぎる。
+  Es ist zu riskant, einem Fremden so viel Geld anzuvertrauen.
+
+  「大丈夫よ、任せておいて」と彼女は言った。
+  「大丈夫[だいじょうぶ]よ、任[まか]せておいて」と 彼女[かのじょ]は 言[い]った。
+  "Keine Sorge, lass es mich machen", sagte sie.
+
+  どのくらい節約するかは、あなたに任せます。
+  どのくらい 節約[せつやく]するかは、あなたに 任[まか]せます。
+  Wie viel Sie sparen, überlasse ich Ihnen.
+
+  その部分は読者の想像に任せましょう。
+  その 部分[ぶぶん]は 読者[どくしゃ]の 想像[そうぞう]に 任[まか]せましょう。
+  Lassen Sie diesen Teil der Fantasie des Lesers überlassen.
+
+  この難しい判断は専門家に任せるべきだ。
+  この 難[むずか]しい 判断[はんだん]は 専門家[せんもんか]に 任[まか]せるべきだ。
+  Diese schwierige Entscheidung sollten wir den Experten überlassen.
+
+  自然に任せて、庭を野生の花でいっぱいにしました。
+  自然[しぜん]に 任[まか]せて、庭[にわ]を 野生[やせい]の 花[はな]でいっぱいにしました。
+  Ich habe es der Natur überlassen und den Garten mit Wildblumen gefüllt.
+
+  運を天に任せて、勝負に挑みました。
+  運[うん]を 天[てん]に 任[まか]せて、勝負[しょうぶ]に 挑[いど]みました。
+  Ich habe mein Schicksal in die Hände des Himmels gelegt und mich der Herausforderung gestellt.
+
+  もう成り行きに任せるしかない。
+  もう 成[な]り 行[ゆ]きに 任[まか]せるしかない。
+  Wir können die Dinge nur noch ihren Lauf nehmen lassen.
+
+  彼は興奮に任せて大声で叫んだ。
+  彼[かれ]は 興奮[こうふん]に 任[まか]せて 大声[おおごえ]で 叫[さけ]んだ。
+  Er ließ sich von seiner Aufregung hinreißen und schrie laut.
+
+  運に任せて宝くじを買ってみた。
+  運[うん]に 任[まか]せて 宝[たから]くじを 買[か]ってみた。
+  Ich habe auf gut Glück ein Lotterielos gekauft.
+
+  力に任せて扉を押し開けた。
+  力[ちから]に 任[まか]せて 扉[とびら]を 押[お]し 開[ひら]けた。
+  Mit aller Kraft stieß ich die Tür auf.
+
+  父の言うがままに任せておいた。
+  父[ちち]の 言[い]うがままに 任[まか]せておいた。
+  Ich ließ meinen Vater gewähren.
+
+  彼女は車の揺れに身を任せていた。
+  彼女[かのじょ]は 車[くるま]の 揺[ゆ]れに 身[み]を 任[まか]せていた。
+  Sie überließ sich den schaukelnden Bewegungen des Autos.
+
+  思考を止め、時の流れに任せた。
+  思考[しこう]を 止[と]め、時[とき]の 流[なが]れに 任[まか]せた。
+  Ich stellte das Denken ein und überließ mich dem Fluss der Zeit.
+
+  習慣に任せて、いつもの道を歩いた。
+  習慣[しゅうかん]に 任[まか]せて、いつもの 道[みち]を 歩[ある]いた。
+  Meiner Gewohnheit folgend, ging ich den üblichen Weg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 任せる (まかせる) wird verwendet, um auszudrücken, dass man jemandem etwas überlässt oder anvertraut. Es kann in verschiedenen Kontexten verwendet werden:</p>
+  <div class='examples'>
+    <div class='jp'>この 仕事[しごと]は 山田[やまだ]さんに 任[まか]せましょう。</div>
+    <div class='de spoiler'>Lassen Sie uns diese Aufgabe Herrn Yamada überlassen.</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass man sich einer Situation oder einem Gefühl hingibt:</p>
+  <div class='examples'>
+    <div class='jp'>彼[かれ]は 怒[いか]りに 任[まか]せて 叫[さけ]んだ。</div>
+    <div class='de spoiler'>Er schrie, von Wut übermannt.</div>
+  </div>
+  <p>In der Form お任せ(します) (おまかせ(します)) wird es oft als höfliche Phrase verwendet, um auszudrücken, dass man die Entscheidung dem anderen überlässt:</p>
+  <div class='examples'>
+    <div class='jp'>メニューの 選[えら]び 方[かた]は お任[まか]せします。</div>
+    <div class='de spoiler'>Bei der Auswahl des Menüs verlasse ich mich ganz auf Sie.</div>
+  </div>

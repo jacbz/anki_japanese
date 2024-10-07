@@ -98,4 +98,29 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>接する (せっする) ist ein vielseitiges Verb, das verschiedene Arten von Kontakt oder Verbindung ausdrückt.</p>
+  <ul>
+    <li>Es kann bedeuten, dass etwas an etwas anderes angrenzt oder damit in Berührung kommt:</li>
+    <div class="examples">
+      <div class="jp">庭[にわ]<u>は</u>鉄道[てつどう]の 土手[どて]に 境[さかい]を<u>接していた</u>。</div>
+      <div class="de spoiler">Der Garten grenzte an den Bahndamm.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um auszudrücken, dass sich etwas berührt oder zusammentrifft:</li>
+    <div class="examples">
+      <div class="jp">ＢＭＷ<u>は</u>、 前[まえ]の 車[くるま]とバンパーを<u>接するように</u>して、 急停車[きゅうていしゃ]した。</div>
+      <div class="de spoiler">Der BMW kam praktisch Stoßstange an Stoßstange mit dem vorderen Wagen zum Stehen.</div>
+    </div>
+    <li>Es wird auch benutzt, um den Kontakt oder Umgang mit Menschen zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp">仲間意識[なかまいしき]で<u>接すべきだった</u>ような 気[き]もする。</div>
+      <div class="de spoiler">Ich habe das Gefühl, ich hätte ihn als Kollegen behandeln sollen.</div>
+    </div>
+    <li>Schließlich kann es auch bedeuten, eine Nachricht oder Information zu erhalten:</li>
+    <div class="examples">
+      <div class="jp">本日[ほんじつ]、 皇太后[こうたいごう] 陛下[へいか]の 崩御[ほうぎょ]の 報[ほう]に<u>接し</u>、 哀痛[あいつう]の 念[ねん]を 禁[きん]じ 得[え]ません。</div>
+      <div class="de spoiler">Die Nachricht über das Verscheiden Ihrer Majestät, der Kaiserinmutter, erfüllt mich mit tiefer Betroffenheit.</div>
+    </div>
+  </ul>
+  <p>Die Verbformen sind: <span class="jp">接する</span> (Grundform), <span class="jp">接しない</span> (Verneinung), <span class="jp">接した</span> (Vergangenheit).</p>
+  </p>
