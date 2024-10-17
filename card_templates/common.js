@@ -123,13 +123,13 @@ function addFurigana(text, kanjiHighlightMap = {}) {
       /\s?([^\s<>\p{P}]+?)\[([^\s\p{P}]+?)\]/gu,
       (match, kanji, furigana) => {
         const kanjiMatch = Object.keys(kanjiHighlightMap).find((key) => {
-          return kanji.includes(key) ? key : null;
+          return kanji.includes(key) ? `<span class="hidden-kanji">${key}</span>` : null;
         });
         if (kanjiMatch) {
           const reading =
             kanjiMatch === kanji ? furigana : kanjiHighlightMap[kanjiMatch];
           if (furigana.includes(reading)) {
-            kanji = kanji.replaceAll(kanjiMatch, reading);
+            kanji = kanji.replaceAll(kanjiMatch, `<span class="hidden-kanji">${reading}</span>`);
             if (furigana === reading) {
               return kanji;
             }
@@ -214,7 +214,7 @@ function formatDefinition() {
 
     if (text.includes(",") || text.includes(";")) {
       text = text.replaceAll(
-        /([^,;]+)/g,
+        /([^,;\[\] ][^,;\[\]]+[^,;\[\] ])/g,
         (match) => `<span class="no-break">${match}</span>`
       );
       text = text.replaceAll(
@@ -262,9 +262,9 @@ function processText(text, isJapanese) {
       }
       text = formattedLines.join("<br>");
     }
-    // replace with German quote marks „...“
+    // replace with German quote marks »...«
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
+    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "»\u2060$1\u2060«");
   }
   return text;
 }

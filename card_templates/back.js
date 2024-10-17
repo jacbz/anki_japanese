@@ -329,7 +329,7 @@ document.querySelectorAll(".kanji_char").forEach(function (kanji) {
  */
 const github = document.querySelector(".github > a");
 if (rank >= 1 && rank <= 5000) {
-  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank
+  github.href = `https://github.com/jacbz/anki_japanese/blob/main/cards/${rank
     .toString()
     .padStart(4, "0")}.yml`;
 } else {
