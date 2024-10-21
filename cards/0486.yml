@@ -102,4 +102,33 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>といった wird verwendet, um Beispiele oder Vergleiche einzuleiten.</p>
+
+  <ul>
+    <li>Es kann mit "wie" oder "wie zum Beispiel" übersetzt werden:</li>
+    <div class="examples">
+      <div class="jp">手足[てあし]のしびれや 感覚[かんかく]のまひ<u>といった</u> 副作用[ふくさよう]</div>
+      <div class="de spoiler">Nebenwirkungen wie Taubheit in Händen und Füßen oder Gefühllosigkeit</div>
+    </div>
+
+    <li>Es kann eine Aufzählung von Beispielen einleiten:</li>
+    <div class="examples">
+      <div class="jp">レストラン、喫茶店[きっさてん]、土産物屋[みやげものや]<u>といった</u> 店舗[てんぽ]</div>
+      <div class="de spoiler">Geschäfte wie Restaurants, Cafés und Souvenirläden</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um einen hypothetischen Vergleich auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">世界[せかい]が 終末[しゅうまつ]に 向[む]って 転[ころ]がり 始[はじ]めた<u>といった</u> 風[ふう]に</div>
+      <div class="de spoiler">Als ob die Welt ihrem Ende entgegenrollt</div>
+    </div>
+
+    <li>Es kann den Eindruck oder die Erscheinung von etwas beschreiben:</li>
+    <div class="examples">
+      <div class="jp">まだ 疑[うたが]いを 捨[す]てきれない<u>といった</u> 様子[ようす]で</div>
+      <div class="de spoiler">Mit einem Ausdruck, als ob er seine Zweifel noch nicht abgelegt hätte</div>
+    </div>
+  </ul>
+
+  </p>

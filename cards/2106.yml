@@ -2,12 +2,12 @@ Rang: 2106
 Lemma: ボランティア
 Lesung: ''
 Tonhöhen: /\....
-Definition: Freiwilliger
+Definition: Freiwilliger, ehrenamtlich Tätiger
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. volunteer
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   ボランティアの人たちが公園の掃除を手伝っている。
   ボランティアの 人[ひと]たちが 公園[こうえん]の 掃除[そうじ]を 手伝[てつだ]っている。
-  Freiwillige helfen beim Reinigen des Parks.
+  Die Freiwilligen helfen bei der Reinigung des Parks.
+
+  ボランティア団が被災地で支援活動を行っています。
+  ボランティア 団[だん]が 被災地[ひさいち]で 支援[しえん] 活動[かつどう]を 行[おこな]っています。
+  Eine Gruppe von Freiwilligen führt Hilfsaktivitäten in den vom Katastrophengebiet betroffenen Gebieten durch.
+
+  学生時代にボランティア活動に参加したことがありますか。
+  学生時代[がくせいじだい]にボランティア 活動[かつどう]に 参加[さんか]したことがありますか。
+  Haben Sie während Ihrer Studienzeit an ehrenamtlichen Aktivitäten teilgenommen?
+
+  地域のボランティアセンターで登録すれば、様々な活動に参加できます。
+  地域[ちいき]のボランティアセンターで 登録[とうろく]すれば、様々[さまざま]な 活動[かつどう]に 参加[さんか]できます。
+  Wenn Sie sich im örtlichen Freiwilligenzentrum registrieren, können Sie an verschiedenen Aktivitäten teilnehmen.
+
+  昔ボランティアでこういうのやってたことあるのよ。看護婦のまね事のようなもの。そこで覚えたの。
+  昔[むかし]ボランティアでこういうのやってたことあるのよ。看護婦[かんごふ]のまね 事[ごと]のようなもの。そこで 覚[おぼ]えたの。
+  Früher habe ich ehrenamtlich im Krankenhaus gearbeitet, sozusagen Krankenschwester gespielt. Daher weiß ich das noch.
+
+  ボランティアの外人青年ガストンが塚田のベッドの横に座っていることがよくあった。
+  ボランティアの 外人[がいじん] 青年[せいねん]ガストンが 塚田[つかだ]のベッドの 横[よこ]に 座[すわ]っていることがよくあった。
+  Oft saß dann Gaston, der junge ausländische Helfer, neben Tsukadas Bett.
+
+  ボランティアとして働くことで、新しいスキルを身につけることができます。
+  ボランティアとして 働[はたら]くことで、新[あたら]しいスキルを 身[み]につけることができます。
+  Durch die Arbeit als Freiwilliger können Sie neue Fähigkeiten erwerben.
+
+  彼女は週末にボランティアで老人ホームを訪れています。
+  彼女[かのじょ]は 週末[しゅうまつ]にボランティアで 老人[ろうじん]ホームを 訪[おとず]れています。
+  Sie besucht am Wochenende ehrenamtlich ein Altenheim.
+
+  このイベントの成功は、多くのボランティアの協力のおかげです。
+  このイベントの 成功[せいこう]は、多[おお]くのボランティアの 協力[きょうりょく]のおかげです。
+  Der Erfolg dieser Veranstaltung ist der Mitarbeit vieler Freiwilliger zu verdanken.
+
+  ボランティアで参加する人は、事前に説明会に出席してください。
+  ボランティアで 参加[さんか]する 人[ひと]は、事前[じぜん]に 説明会[せつめいかい]に 出席[しゅっせき]してください。
+  Personen, die als Freiwillige teilnehmen möchten, sollten bitte vorab an der Informationsveranstaltung teilnehmen.
+
+  ボランティア精神を持って社会貢献することは素晴らしいことだと思います。
+  ボランティア 精神[せいしん]を 持[も]って 社会[しゃかい] 貢献[こうけん]することは 素晴[すば]らしいことだと 思[おも]います。
+  Ich denke, es ist wunderbar, mit ehrenamtlichem Geist einen Beitrag zur Gesellschaft zu leisten.
+
+  大学生のボランティアが子供たちに無料で勉強を教えています。
+  大学生[だいがくせい]のボランティアが 子供[こども]たちに 無料[むりょう]で 勉強[べんきょう]を 教[おし]えています。
+  Studentische Freiwillige unterrichten Kinder kostenlos.
+
+  災害時には多くのボランティアが被災地に駆けつけました。
+  災害時[さいがいじ]には 多[おお]くのボランティアが 被災地[ひさいち]に 駆[か]けつけました。
+  Bei der Katastrophe eilten viele Freiwillige in die betroffenen Gebiete.
+
+  ボランティアで働く人々の献身的な姿勢に感動しました。
+  ボランティアで 働[はたら]く 人々[ひとびと]の 献身的[けんしんてき]な 姿勢[しせい]に 感動[かんどう]しました。
+  Ich war beeindruckt von der aufopferungsvollen Haltung der Menschen, die ehrenamtlich arbeiten.
+
+  彼はボランティアとして海外の発展途上国で活動しています。
+  彼[かれ]はボランティアとして 海外[かいがい]の 発展途上国[はってんとじょうこく]で 活動[かつどう]しています。
+  Er ist als Freiwilliger in Entwicklungsländern im Ausland tätig.
+
+  ボランティアの仕事は無給だけど、やりがいがあります。
+  ボランティアの 仕事[しごと]は 無給[むきゅう]だけど、やりがいがあります。
+  Die Arbeit als Freiwilliger ist zwar unbezahlt, aber lohnend.
+
+  地域のボランティア団体に参加して、新しい友達ができました。
+  地域[ちいき]のボランティア 団体[だんたい]に 参加[さんか]して、新[あたら]しい 友達[ともだち]ができました。
+  Ich habe neue Freunde gefunden, indem ich einer lokalen Freiwilligenorganisation beigetreten bin.
+
+  オリンピックではたくさんのボランティアが活躍しています。
+  オリンピックではたくさんのボランティアが 活躍[かつやく]しています。
+  Bei den Olympischen Spielen sind viele Freiwillige im Einsatz.
+
+  ボランティアの経験は、就職活動でも評価されることがあります。
+  ボランティアの 経験[けいけん]は、就職[しゅうしょく] 活動[かつどう]でも 評価[ひょうか]されることがあります。
+  Erfahrungen als Freiwilliger können auch bei der Jobsuche positiv bewertet werden.
+
+  環境保護のためのボランティア活動に参加してみませんか。
+  環境保護[かんきょうほご]のためのボランティア 活動[かつどう]に 参加[さんか]してみませんか。
+  Möchten Sie nicht an einer freiwilligen Aktivität zum Umweltschutz teilnehmen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

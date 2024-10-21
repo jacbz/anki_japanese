@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 勝手[かって] hat verschiedene Verwendungen als Nomen und Adjektiv:</p>
+
+  <ul>
+    <li>Als Nomen bedeutet es "eigenes Ermessen" oder "Belieben"</li>
+    <div class="examples">
+      <div class="jp">それは 君[きみ]の<u>勝手[かって]</u>だ。</div>
+      <div class="de spoiler">Das kannst du halten, wie du willst.</div>
+    </div>
+
+    <li>Als な-Adjektiv oder mit に bedeutet es "eigenmächtig" oder "nach Belieben":</li>
+    <div class="examples">
+      <div class="jp"><u>勝手[かって]</u>に 使[つか]い 下[くだ]さい。</div>
+      <div class="de spoiler">Sie können es frei verwenden.</div>
+      <div class="jp"><u>勝手[かって]</u>に 口[くち]を 出[だ]すな。</div>
+      <div class="de spoiler">Misch dich nicht ungefragt ein.</div>
+    </div>
+
+    <li>Es kann auch "egoistisch" oder "selbstsüchtig" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">人々[ひとびと]は 好[す]き<u>勝手[かって]</u>な 解釈[かいしゃく]をした。</div>
+      <div class="de spoiler">Die Leute stellten eigenmächtig Vermutungen an.</div>
+    </div>
+  </ul>
+
+  <p>Häufige Kombinationen:</p>
+  <ul>
+    <li>勝手[かって]に する - "tun wie man will"</li>
+    <div class="examples">
+      <div class="jp"><u>勝手[かって]</u>にしろ。どこかへ 行[い]っちまえ！</div>
+      <div class="de spoiler">Mach was du willst. Verschwinde!</div>
+    </div>
+
+    <li>勝手[かって]な 方向[ほうこう] - "beliebige Richtung"</li>
+    <div class="examples">
+      <div class="jp">狭[せま]い 庭[にわ]に<u>勝手[かって]</u>な 方向[ほうこう]にころがっていた。</div>
+      <div class="de spoiler">Es lag kreuz und quer im engen Garten verstreut.</div>
+    </div>
+  </ul>

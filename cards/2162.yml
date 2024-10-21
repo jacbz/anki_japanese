@@ -8,14 +8,90 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 減らさない・減らした
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   予算が減らされた。
   予算[よさん]が 減[へ]らされた。
-  Der Etat wurde gekürzt.
+  Das Budget wurde gekürzt.
+
+  会社は人員を減らさざるを得なかった。
+  会社[かいしゃ]は 人員[じんいん]を 減[へ]らさざるを 得[え]なかった。
+  Die Firma musste das Personal reduzieren.
+
+  環境のために、ごみを減らす努力をしています。
+  環境[かんきょう]のために、ごみを 減[へ]らす 努力[どりょく]をしています。
+  Ich bemühe mich, den Müll zu reduzieren, um die Umwelt zu schützen.
+
+  食事の量を減らして、体重を落とそうと思います。
+  食事[しょくじ]の 量[りょう]を 減[へ]らして、体重[たいじゅう]を 落[お]とそうと 思[おも]います。
+  Ich möchte die Menge meiner Mahlzeiten reduzieren, um Gewicht zu verlieren.
+
+  経費を半分に減らすのは難しい課題だ。
+  経費[けいひ]を 半分[はんぶん]に 減[へ]らすのは 難[むずか]しい 課題[かだい]だ。
+  Die Kosten um die Hälfte zu senken, ist eine schwierige Aufgabe.
+
+  彼は喫煙を減らそうと努力している。
+  彼[かれ]は 喫煙[きつえん]を 減[へ]らそうと 努力[どりょく]している。
+  Er bemüht sich, das Rauchen einzuschränken.
+
+  この政策は失業率を減らすことを目的としている。
+  この 政策[せいさく]は 失業率[しつぎょうりつ]を 減[へ]らすことを 目的[もくてき]としている。
+  Diese Politik zielt darauf ab, die Arbeitslosenquote zu senken.
+
+  電気代を減らすために、こまめに電気を消すようにしています。
+  電気代[でんきだい]を 減[へ]らすために、こまめに 電気[でんき]を 消[け]すようにしています。
+  Um die Stromkosten zu senken, schalte ich das Licht sorgfältig aus.
+
+  交通事故を減らすために、新しい法律が制定された。
+  交通事故[こうつうじこ]を 減[へ]らすために、新[あたら]しい 法律[ほうりつ]が 制定[せいてい]された。
+  Es wurde ein neues Gesetz erlassen, um Verkehrsunfälle zu reduzieren.
+
+  ストレスを減らすために、瞑想を始めました。
+  ストレスを 減[へ]らすために、瞑想[めいそう]を 始[はじ]めました。
+  Ich habe mit Meditation begonnen, um Stress abzubauen.
+
+  水の使用量を減らすことで、環境保護に貢献できます。
+  水[みず]の 使用量[しようりょう]を 減[へ]らすことで、環境保護[かんきょうほご]に 貢献[こうけん]できます。
+  Durch die Reduzierung des Wasserverbrauchs können wir zum Umweltschutz beitragen.
+
+  彼女は塩分摂取量を減らすように医者に言われた。
+  彼女[かのじょ]は 塩分摂取量[えんぶんせっしゅりょう]を 減[へ]らすように 医者[いしゃ]に 言[い]われた。
+  Der Arzt hat ihr geraten, ihre Salzaufnahme zu reduzieren.
+
+  生産コストを減らすために、新しい技術を導入しました。
+  生産[せいさん]コストを 減[へ]らすために、新[あたら]しい 技術[ぎじゅつ]を 導入[どうにゅう]しました。
+  Wir haben neue Technologien eingeführt, um die Produktionskosten zu senken.
+
+  残業時間を減らすことで、従業員の満足度が上がりました。
+  残業時間[ざんぎょうじかん]を 減[へ]らすことで、従業員[じゅうぎょういん]の 満足度[まんぞくど]が 上[あ]がりました。
+  Durch die Reduzierung der Überstunden ist die Zufriedenheit der Mitarbeiter gestiegen.
+
+  温室効果ガスを減らすための国際的な取り組みが進められている。
+  温室効果[おんしつこうか]ガスを 減[へ]らすための 国際的[こくさいてき]な 取[と]り 組[く]みが 進[すす]められている。
+  Es werden internationale Anstrengungen unternommen, um die Treibhausgasemissionen zu reduzieren.
+
+  彼は酒を減らすように家族に説得された。
+  彼[かれ]は 酒[さけ]を 減[へ]らすように 家族[かぞく]に 説得[せっとく]された。
+  Seine Familie hat ihn überredet, seinen Alkoholkonsum zu reduzieren.
+
+  学校は退学者数を減らすための対策を講じている。
+  学校[がっこう]は 退学者数[たいがくしゃすう]を 減[へ]らすための 対策[たいさく]を 講[こう]じている。
+  Die Schule ergreift Maßnahmen, um die Zahl der Schulabbrecher zu verringern.
+
+  彼らは支出を大幅に減らさなければならなかった。
+  彼[かれ]らは 支出[ししゅつ]を 大幅[おおはば]に 減[へ]らさなければならなかった。
+  Sie mussten ihre Ausgaben drastisch reduzieren.
+
+  この薬を飲めば、痛みを減らすことができるでしょう。
+  この 薬[くすり]を 飲[の]めば、痛[いた]みを 減[へ]らすことができるでしょう。
+  Wenn Sie dieses Medikament einnehmen, können Sie die Schmerzen lindern.
+
+  食品ロスを減らすために、賞味期限の近い商品を安く売っています。
+  食品[しょくひん]ロスを 減[へ]らすために、賞味期限[しょうみきげん]の 近[ちか]い 商品[しょうひん]を 安[やす]く 売[う]っています。
+  Um Lebensmittelverschwendung zu reduzieren, verkaufen wir Produkte mit nahem Verfallsdatum günstiger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

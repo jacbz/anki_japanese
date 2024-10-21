@@ -22,4 +22,54 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort <span class="jp">主[ぬし]</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: Besitzer, Eigentümer oder Herr</li>
+    <div class="examples">
+      <div class="jp">この 店[みせ]の<u>主[ぬし]</u>は 誰[だれ]ですか。</div>
+      <div class="de spoiler">Wer ist der Besitzer dieses Geschäfts?</div>
+    </div>
+
+    <li>Person, die eine Handlung ausführt oder verursacht</li>
+    <div class="examples">
+      <div class="jp">この 計画[けいかく]の<u>主[ぬし]</u>は 田中[たなか]さんです。</div>
+      <div class="de spoiler">Herr Tanaka ist der Urheber dieses Plans.</div>
+    </div>
+
+    <li>In Zusammensetzungen zur Bezeichnung von Besitzern oder Verantwortlichen</li>
+    <div class="examples">
+      <div class="jp">家主[やぬし]</div>
+      <div class="de spoiler">Hausbesitzer</div>
+      <div class="jp">株主[かぶぬし]</div>
+      <div class="de spoiler">Aktionär</div>
+    </div>
+
+    <li>In der Shinto-Religion: Schutzgottheit eines bestimmten Ortes</li>
+    <div class="examples">
+      <div class="jp">この 森[もり]の<u>主[ぬし]</u>を 祀[まつ]っています。</div>
+      <div class="de spoiler">Wir verehren die Schutzgottheit dieses Waldes.</div>
+    </div>
+
+    <li>Umgangssprachlich: erfahrene Person, "alter Hase"</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]はこの 会社[かいしゃ]の<u>主[ぬし]</u>のような 存在[そんざい]です。</div>
+      <div class="de spoiler">Er ist wie ein Urgestein in dieser Firma.</div>
+    </div>
+
+    <li>Als Pronomen (veraltet oder umgangssprachlich): du, Sie, Liebster</li>
+    <div class="examples">
+      <div class="jp"><u>主[ぬし]</u>、どこへ 行[い]くのか。</div>
+      <div class="de spoiler">Wohin gehst du?</div>
+    </div>
+  </ul>
+
+  <p>Als Wortbildungselement wird <span class="jp">主[ぬし]</span> an die Konjunktionalform von Verben angehängt, um den Ausführenden einer Handlung zu bezeichnen:</p>
+
+  <div class="examples">
+    <div class="jp">買[か]い<u>主[ぬし]</u></div>
+    <div class="de spoiler">Käufer</div>
+    <div class="jp">売[う]り<u>主[ぬし]</u></div>
+    <div class="de spoiler">Verkäufer</div>
+  </div>

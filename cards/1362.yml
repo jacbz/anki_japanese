@@ -98,4 +98,37 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>嫌[きら]い wird verwendet, um Abneigung oder Widerwillen auszudrücken.</p>
+  <ul>
+    <li>Es kann als Nomen verwendet werden, um eine starke Abneigung oder Hass zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp">蛇[へび]<u>嫌[きら]い</u>に、ことさら 蛇[へび]の 芝居[しばい]をして 見[み]せる 必要[ひつよう]はない。</div>
+      <div class="de spoiler">Man muss Schlangenhassern nicht unbedingt eine Schlange vorspielen.</div>
+    </div>
+    <li>Es wird oft in Zusammensetzungen verwendet, um spezifische Abneigungen auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">勉強[べんきょう]<u>嫌[ぎら]い</u></div>
+      <div class="de spoiler">Abneigung gegen das Lernen</div>
+      <div class="jp">男[おとこ]<u>嫌[ぎら]い</u></div>
+      <div class="de spoiler">Abneigung gegen Männer</div>
+    </div>
+  </ul>
+  <p>Als Adjektiv wird es mit な verwendet, um etwas als unangenehm oder unbeliebt zu beschreiben:</p>
+  <div class="examples">
+    <div class="jp">勉強[べんきょう]<u>は</u><u>嫌[きら]い</u>だ。</div>
+    <div class="de spoiler">Ich hasse das Lernen.</div>
+    <div class="jp">料理[りょうり]や 掃除[そうじ]<u>は</u><u>嫌[きら]い</u>な 方[ほう]ではない。</div>
+    <div class="de spoiler">Ich bin Kochen und Putzen nicht abgeneigt.</div>
+  </div>
+  <p>In der Form 嫌[きら]いがある kann es verwendet werden, um eine Tendenz oder Neigung auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">科学者[かがくしゃ]というものは 知[ち]の 鉱脈[こうみゃく]を 前[まえ]にするとそれ 以外[いがい]の 状況[じょうきょう]が 眼中[がんちゅう]になくなってしまう<u>きらいがある</u>です。</div>
+    <div class="de spoiler">Wissenschaftler neigen dazu, alles andere aus den Augen zu verlieren, wenn sie auf eine Ader der Erkenntnis stoßen.</div>
+  </div>
+  <p>In der Form の嫌[きら]いなく bedeutet es "ohne Unterschied" oder "gleichermaßen":</p>
+  <div class="examples">
+    <div class="jp">男女[だんじょ]<u>の嫌[きら]いなく</u></div>
+    <div class="de spoiler">Männer und Frauen gleichermaßen, ohne Rücksicht auf das Geschlecht</div>
+  </div>
+  </p>

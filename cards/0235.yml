@@ -102,4 +102,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammar note for 変わる:
+
+  <p>変[か]わる ist ein intransitives Verb, das "sich verändern" oder "anders werden" bedeutet.</p>
+
+  <ul>
+    <li>Es drückt eine Veränderung oder Verwandlung aus:</li>
+    <div class="examples">
+      <div class="jp">藤間[ふじま]の 口調[くちょう]が<u>変[か]わった</u>。</div>
+      <div class="de spoiler">Fujimas Ton änderte sich.</div>
+      <div class="jp">雨[あめ]がやがて 豪雨[ごうう]に<u>変[か]わった</u>。</div>
+      <div class="de spoiler">Der Regen ging bald in einen Wolkenbruch über.</div>
+    </div>
+
+    <li>Es kann auch einen Ortswechsel oder eine Verlegung ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">名前[なまえ]が<u>変[か]わった</u>んでしょう。</div>
+      <div class="de spoiler">Du trägst jetzt sicher einen anderen Namen.</div>
+    </div>
+
+    <li>In der Form 変[か]わっている kann es bedeuten, dass etwas oder jemand anders als üblich oder ungewöhnlich ist:</li>
+    <div class="examples">
+      <div class="jp">村[むら]の 娘[むすめ]で、なかなか 一風[いっぷう]<u>変[か]わって</u>おりますな。</div>
+      <div class="de spoiler">Für ein Mädchen aus dem Dorf ist sie ziemlich ungewöhnlich!</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um einen Unterschied oder eine Abweichung auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">僕[ぼく]も 幽霊[ゆうれい]を 信[しん]じないことはチャックとあまり<u>変[か]わり</u>ません。</div>
+      <div class="de spoiler">Ich glaube ebensowenig wie Chuck an Geister.</div>
+    </div>
+  </ul>
+
+  <p>Die Verbformen sind: 変[か]わらない (Verneinung), 変[か]わった (Vergangenheit).</p>
+
+  </p>

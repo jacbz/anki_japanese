@@ -22,4 +22,34 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML output for the grammar note on 穏やか:
+
+  <p>穏[おだ]やか ist ein な-Adjektiv mit der Grundbedeutung "ruhig" oder "friedlich".</p>
+
+  <ul>
+    <li>Es beschreibt eine ruhige, friedliche oder sanfte Atmosphäre oder Stimmung:</li>
+    <div class="examples">
+      <div class="jp">穏[おだ]やかな 九月[くがつ]の 微風[びふう]</div>
+      <div class="de spoiler">Eine milde Septemberbrise</div>
+      <div class="jp">穏[おだ]やかな 朝[あさ]</div>
+      <div class="de spoiler">Ein friedlicher Morgen</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um sanfte oder freundliche Persönlichkeiten oder Handlungen zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp">穏[おだ]やかな 口調[くちょう]で 言[い]った</div>
+      <div class="de spoiler">Er sagte mit sanfter Stimme</div>
+      <div class="jp">穏[おだ]やかなお 小言[こごと]</div>
+      <div class="de spoiler">Ein sanfter Verweis</div>
+    </div>
+
+    <li>In der Verneinung (oft als <span class="jp">穏[おだ]やかならぬ</span>) kann es "unangemessen" oder "beunruhigend" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">穏[おだ]やかならぬ 態度[たいど]</div>
+      <div class="de spoiler">Eine unangemessene Haltung</div>
+    </div>
+  </ul>
+
+  <p>穏[おだ]やか wird oft verwendet, um eine positive, entspannte Atmosphäre oder Situation zu beschreiben. Es steht im Kontrast zu hektischen oder angespannten Zuständen.</p>
+  </p>

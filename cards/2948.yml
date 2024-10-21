@@ -2,8 +2,8 @@ Rang: 2948
 Lemma: こいつ
 Lesung: ''
 Tonhöhen: /^^
-Definition: dieser Typ; dieses Ding
-Alternativschreibweisen: ''
+Definition: dieser, der hier; der Kerl
+Alternativschreibweisen: 此奴
 Extra: '' # Nur bei suru-Verben
 Wortart: pron
 Register: ''
@@ -15,11 +15,102 @@ Konjugation: ''
 Beispielsätze: |-
   こいつは駄目だ。
   こいつは 駄目[だめ]だ。
-  Dieser Kerl ist nicht gut.
+  Der Typ taugt nichts.
+
+  こいつは俺をひどく侮辱した。
+  こいつは 俺[おれ]をひどく 侮辱[ぶじょく]した。
+  Dieser Kerl hat mich schwer beleidigt.
+
+  駄目だ、こいつは話し中の信号だ。
+  駄目[だめ]だ、こいつは 話し中[はなしちゅう]の 信号[しんごう]だ。
+  Mist, das ist das Besetztzeichen.
+
+  こいつは驚きだ、君がノートまで、ぼくとそっくりのを用意したとは知らなかった。
+  こいつは 驚[おどろ]きだ、 君[きみ]がノートまで、ぼくとそっくりのを 用意[ようい]したとは 知[し]らなかった。
+  Das ist ja erstaunlich. Ich wusste nicht, dass du dir sogar das gleiche Notizbuch wie ich besorgt hast.
+
+  こいつは新しいスマートフォンだ。
+  こいつは 新[あたら]しいスマートフォンだ。
+  Das hier ist ein neues Smartphone.
+
+  こいつを見てくれ、面白い機能がたくさんある。
+  こいつを 見[み]てくれ、面白[おもしろ]い 機能[きのう]がたくさんある。
+  Schau dir das mal an, es hat viele interessante Funktionen.
+
+  こいつは誰だ？知らない顔だな。
+  こいつは 誰[だれ]だ？ 知[し]らない 顔[かお]だな。
+  Wer ist dieser Typ? Ich kenne das Gesicht nicht.
+
+  こいつはうちの犬だ。とてもかわいいだろ？
+  こいつはうちの 犬[いぬ]だ。とてもかわいいだろ？
+  Das ist unser Hund. Süß, nicht wahr?
+
+  こいつを使えば、簡単に問題が解決するよ。
+  こいつを 使[つか]えば、簡単[かんたん]に 問題[もんだい]が 解決[かいけつ]するよ。
+  Wenn du das hier benutzt, lässt sich das Problem leicht lösen.
+
+  こいつは何の役にも立たない。
+  こいつは 何[なん]の 役[やく]にも 立[た]たない。
+  Das Ding hier ist zu nichts zu gebrauchen.
+
+  こいつとは二度と会いたくないね。
+  こいつとは 二度[にど]と 会[あ]いたくないね。
+  Ich möchte diesen Kerl nie wieder treffen.
+
+  こいつは面白いアイデアだな。
+  こいつは 面白[おもしろ]いアイデアだな。
+  Das ist eine interessante Idee.
+
+  こいつは壊れているみたいだ。
+  こいつは 壊[こわ]れているみたいだ。
+  Das Ding hier scheint kaputt zu sein.
+
+  こいつは信用できない。
+  こいつは 信用[しんよう]できない。
+  Dem Typen kann man nicht trauen.
+
+  こいつはどうやって動かすんだ？
+  こいつはどうやって 動[うご]かすんだ？
+  Wie bringt man das Ding hier zum Laufen?
+
+  こいつ、まだ来てないのか？
+  こいつ、まだ 来[こ]てないのか？
+  Ist der Kerl immer noch nicht da?
+
+  こいつは本当に役立つツールだよ。
+  こいつは 本当[ほんとう]に 役立[やくだ]つツールだよ。
+  Das hier ist wirklich ein nützliches Werkzeug.
+
+  こいつは何だ？初めて見る。
+  こいつは 何[なん]だ？ 初[はじ]めて 見[み]る。
+  Was ist das? Ich sehe es zum ersten Mal.
+
+  こいつをどう思う？
+  こいつをどう 思[おも]う？
+  Was hältst du davon?
+
+  こいつは面倒な奴だな。
+  こいつは 面倒[めんどう]な 奴[やつ]だな。
+  Der Typ ist echt anstrengend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>こいつ ist eine abfällige oder grob-vertrauliche Bezeichnung für eine Person, ein Tier oder eine Sache in unmittelbarer Nähe des Sprechers.</p>
+  <div class="examples">
+    <div class="jp">こいつは 何者[なにもの]だ？</div>
+    <div class="de spoiler">Wer zum Teufel ist das?</div>
+  </div>
+  <p>Es wird oft in informellen oder rauen Situationen verwendet und kann je nach Kontext beleidigend wirken.</p>
+  <div class="examples">
+    <div class="jp">こいつ、 勝手[かって]なことばかりしやがって。</div>
+    <div class="de spoiler">Dieser Kerl macht immer, was er will.</div>
+  </div>
+  <p>Bei Sachen oder Ideen kann es weniger abwertend sein und eher Vertrautheit oder Überraschung ausdrücken.</p>
+  <div class="examples">
+    <div class="jp">こいつは 面白[おもしろ]いアイデアだな。</div>
+    <div class="de spoiler">Das ist ja eine interessante Idee.</div>
+  </div>

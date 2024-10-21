@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>連[つ]れる wird verwendet, um auszudrücken, dass man jemanden mitnimmt oder begleitet.</p>
+  <ul>
+    <li>Es bedeutet "jemanden mitnehmen" oder "mit jemandem gehen":</li>
+    <div class="examples">
+      <div class="jp">犬[いぬ]<u>を連[つ]れて</u>散歩[さんぽ]する。</div>
+      <div class="de spoiler">Mit dem Hund spazieren gehen.</div>
+      <div class="jp">父母[ちちはは]<u>に連[つ]れられて</u>市場[いちば]に行[い]く。</div>
+      <div class="de spoiler">Von den Eltern zum Markt mitgenommen werden.</div>
+    </div>
+    <li>Es kann auch mit Richtungsverben kombiniert werden:</li>
+    <div class="examples">
+      <div class="jp"><u>連[つ]れて行[い]く</u></div>
+      <div class="de spoiler">Jemanden mitnehmen (weggehend)</div>
+      <div class="jp"><u>連[つ]れて来[く]る</u></div>
+      <div class="de spoiler">Jemanden mitbringen</div>
+      <div class="jp"><u>連[つ]れて帰[かえ]る</u></div>
+      <div class="de spoiler">Jemanden mit nach Hause nehmen</div>
+    </div>
+  </ul>
+  <p>In der Form につれて (ni tsurete) wird es verwendet, um eine Parallelentwicklung oder einen kausalen Zusammenhang auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">歳[とし]を取[と]る<u>につれて</u>、相談[そうだん]することが少[すく]なくなった。</div>
+    <div class="de spoiler">Je älter er wurde, desto weniger besprach er sich mit anderen.</div>
+    <div class="jp">空[そら]が青味[あおみ]を増[ま]す<u>につれて</u>、風[かぜ]もますます激[はげ]しさを増[ま]し</div>
+    <div class="de spoiler">Mit zunehmender Himmelsbläue bläst der Wind immer stärker.</div>
+  </div>
+  </p>

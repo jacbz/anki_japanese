@@ -8,18 +8,112 @@ Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 染めない・染めた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私の母は白髪を黒く染めた。
-  私[わたし]の 母[はは]は 白髪[はくはつ]を 黒[くろ]く 染[そ]めた。
-  Meine Mutter hat ihre weißen Haare schwarz gefärbt.
+  私[わたし]の 母[はは]は 白髪[しらが]を 黒[くろ]く 染[そ]めた。
+  Meine Mutter hat ihre grauen Haare schwarz gefärbt.
+
+  布を赤く染めて、新しいカーテンを作りました。
+  布[ぬの]を 赤[あか]く 染[そ]めて、新[あたら]しいカーテンを 作[つく]りました。
+  Ich habe den Stoff rot gefärbt und daraus neue Vorhänge gemacht.
+
+  彼女は毛糸を様々な色に染めて、セーターを編んでいる。
+  彼女[かのじょ]は 毛糸[けいと]を 様々[さまざま]な 色[いろ]に 染[そ]めて、セーターを 編[あ]んでいる。
+  Sie färbt die Wolle in verschiedene Farben und strickt daraus Pullover.
+
+  夕日が山を赤く染めていく様子は息をのむほど美しかった。
+  夕日[ゆうひ]が 山[やま]を 赤[あか]く 染[そ]めていく 様子[ようす]は 息[いき]をのむほど 美[うつく]しかった。
+  Der Anblick, wie die Abendsonne die Berge rot färbte, war atemberaubend schön.
+
+  彼は戦場で服を血で染めてしまった。
+  彼[かれ]は 戦場[せんじょう]で 服[ふく]を 血[ち]で 染[そ]めてしまった。
+  Auf dem Schlachtfeld wurde seine Kleidung mit Blut getränkt.
+
+  染物屋さんは、お客様の要望に応じて着物を染めています。
+  染物屋[そめものや]さんは、お 客様[きゃくさま]の 要望[ようぼう]に 応[おう]じて 着物[きもの]を 染[そ]めています。
+  Der Färber färbt Kimonos nach den Wünschen der Kunden.
+
+  彼女は髪を派手な青色に染めて、みんなを驚かせた。
+  彼女[かのじょ]は 髪[かみ]を 派手[はで]な 青色[あおいろ]に 染[そ]めて、みんなを 驚[おどろ]かせた。
+  Sie überraschte alle, indem sie ihr Haar in einem auffälligen Blau färbte.
+
+  秋になると、紅葉が山全体を赤や黄色に染めます。
+  秋[あき]になると、紅葉[こうよう]が 山[やま] 全体[ぜんたい]を 赤[あか]や 黄色[きいろ]に 染[そ]めます。
+  Im Herbst färbt das Herbstlaub den ganzen Berg rot und gelb.
+
+  彼は初めて違法な仕事に手を染めてしまった。
+  彼[かれ]は 初[はじ]めて 違法[いほう]な 仕事[しごと]に 手[て]を 染[そ]めてしまった。
+  Er hat zum ersten Mal seine Hände in illegale Geschäfte verstrickt.
+
+  雨に濡れた道路が街灯の光で金色に染まっていた。
+  雨[あめ]に 濡[ぬ]れた 道路[どうろ]が 街灯[がいとう]の 光[ひかり]で 金色[きんいろ]に 染[そ]まっていた。
+  Die regennasse Straße war vom Licht der Straßenlaternen golden gefärbt.
+
+  彼女は絵の具で手を染めながら、キャンバスに向かっていた。
+  彼女[かのじょ]は 絵[え]の 具[ぐ]で 手[て]を 染[そ]めながら、キャンバスに 向[む]かっていた。
+  Mit farbverschmierten Händen machte sie sich an die Leinwand.
+
+  祭りの準備で、みんなで浴衣を藍色に染めました。
+  祭[まつ]りの 準備[じゅんび]で、みんなで 浴衣[ゆかた]を 藍色[あいいろ]に 染[そ]めました。
+  Als Vorbereitung für das Fest haben wir alle zusammen Yukatas indigoblau gefärbt.
+
+  彼は若いころから政治の世界に手を染めてきた。
+  彼[かれ]は 若[わか]いころから 政治[せいじ]の 世界[せかい]に 手[て]を 染[そ]めてきた。
+  Er hat sich schon in jungen Jahren in die Welt der Politik eingemischt.
+
+  その化学物質は川の水を緑色に染めてしまった。
+  その 化学物質[かがくぶっしつ]は 川[かわ]の 水[みず]を 緑色[みどりいろ]に 染[そ]めてしまった。
+  Die Chemikalie hat das Flusswasser grün gefärbt.
+
+  彼女は初めて料理に手を染めて、美味しい夕食を作った。
+  彼女[かのじょ]は 初[はじ]めて 料理[りょうり]に 手[て]を 染[そ]めて、美味[おい]しい 夕食[ゆうしょく]を 作[つく]った。
+  Sie hat zum ersten Mal gekocht und ein leckeres Abendessen zubereitet.
+
+  日没時、空全体がオレンジ色に染まっていく様子は圧巻だった。
+  日没[にちぼつ]時[じ]、空[そら] 全体[ぜんたい]がオレンジ 色[いろ]に 染[そ]まっていく 様子[ようす]は 圧巻[あっかん]だった。
+  Der Anblick des gesamten Himmels, der sich bei Sonnenuntergang orange färbte, war beeindruckend.
+
+  彼は長年の喫煙で歯を黄色く染めてしまった。
+  彼[かれ]は 長年[ながねん]の 喫煙[きつえん]で 歯[は]を 黄色[きいろ]く 染[そ]めてしまった。
+  Durch jahrelanges Rauchen hat er seine Zähne gelb gefärbt.
+
+  私たちは学園祭のために、クラスTシャツを赤く染めることにした。
+  私[わたし]たちは 学園祭[がくえんさい]のために、クラスTシャツを 赤[あか]く 染[そ]めることにした。
+  Für das Schulfest haben wir beschlossen, unsere Klassen-T-Shirts rot zu färben.
+
+  彼女は初めて演劇の世界に手を染めて、新しい才能を発見した。
+  彼女[かのじょ]は 初[はじ]めて 演劇[えんげき]の 世界[せかい]に 手[て]を 染[そ]めて、新[あたら]しい 才能[さいのう]を 発見[はっけん]した。
+  Sie hat sich zum ersten Mal in die Welt des Theaters gewagt und ein neues Talent entdeckt.
+
+  波が打ち寄せるたびに、砂浜が濃い青色に染まっていった。
+  波[なみ]が 打[う]ち 寄[よ]せるたびに、砂浜[すなはま]が 濃[こ]い 青色[あおいろ]に 染[そ]まっていった。
+  Mit jeder Welle, die an den Strand schlug, färbte sich der Sand in einem tiefen Blau.
+
+  彼は初めて音楽制作に手を染めて、素晴らしい曲を作り上げた。
+  彼[かれ]は 初[はじ]めて 音楽[おんがく] 制作[せいさく]に 手[て]を 染[そ]めて、素晴[すば]らしい 曲[きょく]を 作[つく]り 上[あ]げた。
+  Er hat sich zum ersten Mal an die Musikproduktion gewagt und einen wunderbaren Song geschaffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Der Ausdruck <span class="jp">手[て]を 染[そ]める</span> bedeutet "Hand an etwas legen" oder "mit etwas anfangen/beginnen". Es wird oft verwendet, um den Beginn einer neuen Aktivität oder das Eintreten in einen neuen Bereich zu beschreiben.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 若[わか]いころから 政治[せいじ]の 世界[せかい]に 手[て]を 染[そ]めてきた。</div>
+    <div class="de spoiler">Er hat sich schon in jungen Jahren in die Welt der Politik eingemischt.</div>
+  </div>
+  <p>Dieser Ausdruck kann sowohl positive als auch negative Konnotationen haben, je nach Kontext.</p>
+  <div class="examples">
+    <div class="jp">彼女[かのじょ]は 初[はじ]めて 料理[りょうり]に 手[て]を 染[そ]めて、美味[おい]しい 夕食[ゆうしょく]を 作[つく]った。</div>
+    <div class="de spoiler">Sie hat zum ersten Mal gekocht und ein leckeres Abendessen zubereitet.</div>
+  </div>
+  <div class="examples">
+    <div class="jp">彼[かれ]は 初[はじ]めて 違法[いほう]な 仕事[しごと]に 手[て]を 染[そ]めてしまった。</div>
+    <div class="de spoiler">Er hat zum ersten Mal seine Hände in illegale Geschäfte verstrickt.</div>
+  </div>

@@ -2,7 +2,7 @@ Rang: 2104
 Lemma: 問
 Lesung: もん
 Tonhöhen: \.
-Definition: Frage; Problem
+Definition: Frage, Aufgabe
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   テストで一問だけ間違えてしまった。
-  テストで一 問[もん]だけ 間違[まちが]えてしまった。
-  Ich muss über dieses Problem nachdenken.
+  テストで 一問[いちもん]だけ 間違[まちが]えてしまった。
+  Ich habe im Test nur eine Frage falsch beantwortet.
+
+  試験の第３問が最も難しかったです。
+  試験[しけん]の 第３問[だいさんもん]が 最[もっと]も 難[むずか]しかったです。
+  Die dritte Aufgabe in der Prüfung war am schwierigsten.
+
+  ５問中４問正解しました。
+  ５問中[ごもんちゅう]４問[よんもん] 正解[せいかい]しました。
+  Ich habe vier von fünf Fragen richtig beantwortet.
+
+  クイズの最後の問は誰も答えられませんでした。
+  クイズの 最後[さいご]の 問[もん]は 誰[だれ]も 答[こた]えられませんでした。
+  Die letzte Frage des Quiz konnte niemand beantworten.
+
+  問ごとに配点が異なります。
+  問[もん]ごとに 配点[はいてん]が 異[こと]なります。
+  Die Punktzahl variiert für jede Frage.
+
+  次の問に進みましょう。
+  次[つぎ]の 問[もん]に 進[すす]みましょう。
+  Lassen Sie uns zur nächsten Frage übergehen.
+
+  各問の制限時間は2分です。
+  各問[かくもん]の 制限時間[せいげんじかん]は2分[ふん]です。
+  Die Zeitbegrenzung für jede Frage beträgt 2 Minuten.
+
+  問題集の奇数問だけを解きました。
+  問題集[もんだいしゅう]の 奇数問[きすうもん]だけを 解[と]きました。
+  Ich habe nur die ungeraden Aufgaben im Übungsbuch gelöst.
+
+  最終問はボーナス問題です。
+  最終問[さいしゅうもん]はボーナス 問題[もんだい]です。
+  Die letzte Frage ist eine Bonusaufgabe.
+
+  全問正解で満点を取ることができます。
+  全問[ぜんもん] 正解[せいかい]で 満点[まんてん]を 取[と]ることができます。
+  Mit allen Fragen richtig können Sie die volle Punktzahl erreichen.
+
+  難問を解くのに時間がかかりすぎてしまいました。
+  難問[なんもん]を 解[と]くのに 時間[じかん]がかかりすぎてしまいました。
+  Ich habe zu viel Zeit damit verbracht, die schwierige Frage zu lösen.
+
+  この問は飛ばして、後で戻ってきましょう。
+  この 問[もん]は 飛[と]ばして、後[あと]で 戻[もど]ってきましょう。
+  Lassen Sie uns diese Frage überspringen und später darauf zurückkommen.
+
+  選択問と記述問がそれぞれ10問ずつあります。
+  選択問[せんたくもん]と 記述問[きじゅつもん]がそれぞれ10問[じゅうもん]ずつあります。
+  Es gibt jeweils 10 Multiple-Choice-Fragen und 10 Aufsatzfragen.
+
+  一問一答式のクイズが好きです。
+  一問一答式[いちもんいっとうしき]のクイズが 好[す]きです。
+  Ich mag Quizze im Frage-Antwort-Format.
+
+  応用問を解くには基礎知識が必要です。
+  応用問[おうようもん]を 解[と]くには 基礎知識[きそちしき]が 必要[ひつよう]です。
+  Um angewandte Fragen zu lösen, ist Grundwissen erforderlich.
+
+  この問は2点の配点です。
+  この 問[もん]は2点[てん]の 配点[はいてん]です。
+  Diese Frage ist mit 2 Punkten bewertet.
+
+  確認のため、もう一度問を読み上げます。
+  確認[かくにん]のため、もう 一度[いちど] 問[もん]を 読[よ]み 上[あ]げます。
+  Zur Bestätigung lese ich die Frage noch einmal vor.
+
+  最後の3問は任意回答です。
+  最後[さいご]の3問[さんもん]は 任意回答[にんいかいとう]です。
+  Die letzten drei Fragen sind optional zu beantworten.
+
+  問と問の間に休憩時間を設けています。
+  問[もん]と 問[もん]の 間[あいだ]に 休憩時間[きゅうけいじかん]を 設[もう]けています。
+  Zwischen den Fragen haben wir Pausen eingeplant.
+
+  各問の解説は試験終了後に公開されます。
+  各問[かくもん]の 解説[かいせつ]は 試験[しけん] 終了後[しゅうりょうご]に 公開[こうかい]されます。
+  Die Erläuterungen zu jeder Frage werden nach Abschluss der Prüfung veröffentlicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>食[た]べる ist ein transitives Verb der Bedeutung "essen".</p>
+
+  <ul>
+    <li>Grundbedeutung: essen, speisen, verzehren, zu sich nehmen</li>
+    <div class="examples">
+      <div class="jp">どうぞ<u>食[た]べて</u>みてください。</div>
+      <div class="de spoiler">Bitte, probieren Sie es!</div>
+      <div class="jp">朝[あさ]ご 飯[はん]を<u>食[た]べて</u>ね。</div>
+      <div class="de spoiler">Iss jetzt dein Frühstück!</div>
+    </div>
+
+    <li>Bei Tieren: fressen</li>
+    <div class="examples">
+      <div class="jp">猫[ねこ]が 魚[さかな]を<u>食[た]べて</u>いる。</div>
+      <div class="de spoiler">Die Katze frisst einen Fisch.</div>
+    </div>
+
+    <li>Übertragene Bedeutung: sich ernähren, leben von etwas</li>
+    <div class="examples">
+      <div class="jp">こんな 安[やす] 月給[げっきゅう]で<u>食[た]べて</u>いけない。</div>
+      <div class="de spoiler">Von so einem geringen Monatslohn kann man nicht leben.</div>
+    </div>
+  </ul>
+
+  <p>Konjugation:</p>
+  <ul>
+    <li>Verneinung: <span class="jp">食[た]べない</span> (tabenai)</li>
+    <li>Vergangenheit: <span class="jp">食[た]べた</span> (tabeta)</li>
+  </ul>
+
+  <p>Häufige Verwendungen:</p>
+  <ul>
+    <li><span class="jp">食[た]べていく</span> (tabete iku): langfristig von etwas leben, sein Auskommen finden</li>
+    <div class="examples">
+      <div class="jp">何[なに]で<u>食[た]べて</u>いるんだかよく 分[わ]からない。</div>
+      <div class="de spoiler">Wovon er lebt, weiß keiner genau.</div>
+    </div>
+  </ul>

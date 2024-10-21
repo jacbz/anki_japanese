@@ -2,12 +2,12 @@ Rang: 2100
 Lemma: ペット
 Lesung: ''
 Tonhöhen: \..
-Definition: Haustier
+Definition: Haustier; Liebling
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. pet
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   ペットを飼おうと思っている。
   ペットを 飼[か]おうと 思[おも]っている。
-  Ich glaube, ich werde mir ein Haustier zulegen.
+  Ich denke darüber nach, ein Haustier zu halten.
+
+  ペット病の予防は大切です。
+  ペット 病[びょう]の 予防[よぼう]は 大切[たいせつ]です。
+  Die Prävention von Krankheiten, die von Haustieren übertragen werden, ist wichtig.
+
+  新しいペットフードを買ってきました。
+  新[あたら]しいペットフードを 買[か]ってきました。
+  Ich habe neues Tierfutter gekauft.
+
+  夏休み中、ペットホテルを利用する人が多いです。
+  夏休[なつやす]み 中[ちゅう]、ペットホテルを 利用[りよう]する 人[ひと]が 多[おお]いです。
+  Während der Sommerferien nutzen viele Menschen Tierhotels.
+
+  ペットクリニックで犬の健康診断を受けました。
+  ペットクリニックで 犬[いぬ]の 健康診断[けんこうしんだん]を 受[う]けました。
+  Ich habe meinen Hund in der Haustierklinik untersuchen lassen.
+
+  ペットロスを乗り越えるのは時間がかかります。
+  ペットロスを 乗[の]り 越[こ]えるのは 時間[じかん]がかかります。
+  Es braucht Zeit, um über den Verlust eines Haustiers hinwegzukommen.
+
+  忙しい時はペットシッターを頼むこともあります。
+  忙[いそが]しい 時[とき]はペットシッターを 頼[たの]むこともあります。
+  Wenn ich beschäftigt bin, beauftrage ich manchmal einen Haustier-Sitter.
+
+  近所にペットショップがオープンしました。
+  近所[きんじょ]にペットショップがオープンしました。
+  In der Nachbarschaft hat eine Tierhandlung eröffnet.
+
+  ペット屋で鳥かごを購入しました。
+  ペット 屋[や]で 鳥[とり]かごを 購入[こうにゅう]しました。
+  Ich habe in der Tierhandlung einen Vogelkäfig gekauft.
+
+  ペット用品コーナーで首輪を選んでいます。
+  ペット 用品[ようひん]コーナーで 首輪[くびわ]を 選[えら]んでいます。
+  Ich suche im Haustierbedarfs-Bereich nach einem Halsband.
+
+  デジタルペットの世話をするのが趣味です。
+  デジタルペットの 世話[せわ]をするのが 趣味[しゅみ]です。
+  Es ist mein Hobby, mich um virtuelle Haustiere zu kümmern.
+
+  彼女はペットを飼っているので、毎日散歩に行きます。
+  彼女[かのじょ]はペットを 飼[か]っているので、毎日[まいにち] 散歩[さんぽ]に 行[い]きます。
+  Sie geht jeden Tag spazieren, weil sie ein Haustier hat.
+
+  蚤取りシャンプーをペットショップで購入しました。
+  蚤取[のみと]りシャンプーをペットショップで 購入[こうにゅう]しました。
+  Ich habe Antifloh-Shampoo in der Tierhandlung gekauft.
+
+  彼女は犬をペットとして可愛がっています。
+  彼女[かのじょ]は 犬[いぬ]をペットとして 可愛[かわい]がっています。
+  Sie hegt ihren Hund als Schoßhündchen.
+
+  ペットネームで呼ぶと、すぐに反応します。
+  ペットネームで 呼[よ]ぶと、すぐに 反応[はんのう]します。
+  Wenn ich ihn mit seinem Kosenamen rufe, reagiert er sofort.
+
+  ペットを飼う前に、責任について考えるべきです。
+  ペットを 飼[か]う 前[まえ]に、責任[せきにん]について 考[かんが]えるべきです。
+  Bevor man ein Haustier hält, sollte man über die Verantwortung nachdenken.
+
+  ペットの健康管理は飼い主の大切な役割です。
+  ペットの 健康管理[けんこうかんり]は 飼[か]い 主[ぬし]の 大切[たいせつ]な 役割[やくわり]です。
+  Die Gesundheitspflege des Haustiers ist eine wichtige Aufgabe des Besitzers.
+
+  ペットと一緒に暮らすことで生活が豊かになります。
+  ペットと 一緒[いっしょ]に 暮らす[くら]ことで 生活[せいかつ]が 豊[ゆた]かになります。
+  Das Leben wird durch das Zusammenleben mit einem Haustier bereichert.
+
+  ペットの写真をSNSに投稿するのが流行っています。
+  ペットの 写真[しゃしん]をSNSに 投稿[とうこう]するのが 流行[はや]っています。
+  Es ist gerade trendy, Fotos von Haustieren in sozialen Medien zu posten.
+
+  ペットの世話は家族全員で分担しています。
+  ペットの 世話[せわ]は 家族[かぞく] 全員[ぜんいん]で 分担[ぶんたん]しています。
+  Die ganze Familie teilt sich die Pflege des Haustiers.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

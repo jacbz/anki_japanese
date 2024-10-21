@@ -102,4 +102,45 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 限[かぎ]る hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <h3>1. Als transitives Verb: begrenzen, beschränken</h3>
+  <ul>
+    <li>In dieser Bedeutung wird es oft im Passiv verwendet.</li>
+    <div class="examples">
+      <div class="jp">限[かぎ]られた枠[わく]の中[なか]で</div>
+      <div class="de spoiler">Innerhalb eines begrenzten Rahmens</div>
+    </div>
+  </ul>
+
+  <h3>2. Mit に: "das Beste sein"</h3>
+  <ul>
+    <li>In der Form ⋯に<u>限る</u> drückt es aus, dass etwas die beste Option ist.</li>
+    <div class="examples">
+      <div class="jp">教師[きょうし]となるに<u>限る</u>。</div>
+      <div class="de spoiler">Es ist am besten, Lehrer zu werden.</div>
+    </div>
+  </ul>
+
+  <h3>3. Mit に限って / に限った / に限り: "sich beschränken auf", "nur", "ausgerechnet"</h3>
+  <ul>
+    <li>Diese Formen werden verwendet, um etwas hervorzuheben oder einzuschränken.</li>
+    <div class="examples">
+      <div class="jp">ぼくだけに<u>限った</u>こと</div>
+      <div class="de spoiler">Etwas, das sich nur auf mich beschränkt</div>
+      <div class="jp">こんな日に<u>限って</u></div>
+      <div class="de spoiler">Ausgerechnet an so einem Tag</div>
+    </div>
+  </ul>
+
+  <h3>4. とは限らない: "muss nicht unbedingt sein"</h3>
+  <ul>
+    <li>Diese Form wird verwendet, um auszudrücken, dass etwas nicht zwangsläufig der Fall ist.</li>
+    <div class="examples">
+      <div class="jp">本名[ほんみょう]を使[つか]って連絡[れんらく]しあっていたとは<u>限らない</u>。</div>
+      <div class="de spoiler">Es muss nicht sein, dass sie ihre echten Namen zur Kommunikation verwendet haben.</div>
+      <div class="jp">一番[いちばん]貫通力[かんつうりょく]があるとは<u>限らん</u>。</div>
+      <div class="de spoiler">Es ist nicht unbedingt so, dass sie die größte Durchschlagskraft haben.</div>
+    </div>
+  </ul>

@@ -126,4 +126,100 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Du bist ein Japanisch-Lehrer. Du entwirfst sehr detaillierte Grammatiknotizen japanischer Wörter für deutsche Lerner. Zur Unterstützung greifst du bei jedem Wort auf einen HTML-Wörterbucheintrag zurück.
+
+  Beispiel-Eingabe:
+  <p class="article">
+  <div class="sect_base"><b class="lemma">wa</b> <b class="lemmaj">は</b> <i class="Hinshi">postp</i>. (elative Postposition) <b class="sense">(1)</b> der Abgrenzung: syntaktische Abgrenzung des thematischen Gegenpols des Prädikats = Kennzeichnung des Satzthemas (»was … betrifft«). </div>
+  <div class="sect_base">
+    <p class="field"><b class="subsense">[1]</b></p> Abgrenzung des Subjekts allgemein, in kategorischen Feststellungen u. in Definitionen.
+  </div>
+  <div class="sect_quotes">► この本は父に買ってもらいました。Dieses Buch hat mir mein Vater gekauft. これは箱男についての記録である。Dies sind Aufzeichnungen über einen Schachtelmann. 時代は世を挙げて官吏万能の時代であった。Zu jener Zeit besaß die Beamtenschaft eine absolute Vormachtstellung. 象は鼻が長い。 Der Elefant hat einen (langen) Rüssel. 経験するというのは事実其儘（そのまま）に知るの意である。<i>Erfahren</i> bedeutet, das Tatsächliche als solches zu erkennen 「レントゲンは？」 »Was ist mit den Röntgenbildern?« 「忘れ物はありませんね」藤間が訊いた。 »Sie haben nichts vergessen, nicht wahr?« vergewisserte sich Fujima. </div>
+  <div class="sect_base">
+    <p class="field"><b class="subsense">[2]</b></p> Abgrenzung des Objekts, wenn es Thema e-r Erörterung ist.
+  </div>
+  <div class="sect_quotes">► 酒は飲まない。Ich trinke keinen Alkohol. この本はもう読んだ。 Dieses Buch habe ich schon gelesen. </div>
+  <div class="sect_base"><b class="sense">(2)</b> der Emphase: Hervorhebung des Subjekts, des Objekts od. e-r adv. Bestimmung gegenüber anderen Satzteilen; bei Adjektiven Anschluss an die Indefinitform (mit folgender Verneinung), bei verbalen Qualitativa auf eingeschaltetes <i>de</i> で folgend. </div>
+  <div class="sect_quotes">► あわれな犬小屋が入口にあったが、犬はいなかった。Am Eingang stand eine verfallene Hundehütte, von einem Hund aber war keine Spur zu entdecken. 冬の寒いこの街には木造家屋はありません。Der Winter dort ist kalt, deshalb sind die Häuser nicht aus Holz. 「それでもいいんですか」 「よくはありませんが、こうなってしまった以上は仕方ないじゃありませんか」 »Wäre Ihnen das auch recht?« »Das wäre mir selbstverständlich nicht recht, aber es ist nun mal passiert, da kann man nichts machen, oder?« 安くはない。Billig ist es nicht. 早くは帰れない。Früh kann ich nicht nach Hause. </div>
+  <div class="sect_base"><b class="sense">(3)</b> der Kontrastmarkierung: syntaktische od. emphatische Abgrenzung bei (sowohl expliziten als auch nur mitgedachten) Gegenüberstellungen. </div>
+  <div class="sect_quotes">► 右側には煙草（たばこ）屋と肉屋と薬屋とが、左側にはソバ屋とガソリン・スタンドとが並んでいるのだ。Ein Zigarettenladen, eine Fleischerei und eine Drogerie auf der rechten Seite, auf der linken ein Nudelrestaurant und eine Tankstelle. 教室ではたばこをすわないでください。Im Klassenzimmer bitte nicht rauchen! 九州へは行かなかった。 Nach Kyūshū bin ich nicht gefahren [wohl aber anderswohin]. </div>
+  <div class="sect_base"><b class="sense">(4)</b> der Einschränkung od. der partiellen Assertion<i> </i>(u. folgenden Einschränkung); meist in Verbindung mit adversativem <i>ga</i> が (… <i>wa suru ga</i> ⋯はするが, …<i> wa aru ga</i> ⋯はあるが, … <i>de wa aru ga</i> ⋯ではあるが etc.). </div>
+  <div class="sect_quotes">► この頃から行徳の眼は闇に慣れ、不分明ではあるが、微かながら、女の姿の輪郭を認めることができた。Xing-des Augen hatten sich inzwischen an die Dunkelheit gewöhnt, so daß er, wiewohl undeutlich und schwach, die Umrisse ihrer Gestalt zu erkennen vermochte. </div>
+  <div class="sect_base"><b>NB:</b> Siehe auch -<i>te·wa</i> ⋯ては.</div>
+  </p>
+
+  Beispiel-Ausgabe:
+  <p>は wird verwendet, um das Thema eines Satzes zu markieren.</p>
+  <ul>
+    <li>Es grenzt das Subjekt ein und wird oft in allgemeinen Aussagen und Definitionen verwendet.</li>
+    <div class="examples">
+      <div class="jp">この 本[ほん]<u>は</u> 面白[おもしろ]いです。</div>
+      <div class="de spoiler">Dieses Buch ist interessant.</div>
+      <div class="jp">象[ぞう]<u>は</u> 鼻[はな]が 長[なが]いです。</div>
+      <div class="de spoiler">Elefanten haben lange Rüssel.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um das Objekt zu betonen, wenn es Thema der Aussage ist.</li>
+    <div class="examples">
+      <div class="jp">酒[さけ]<u>は</u> 飲[の]まない。</div>
+      <div class="de spoiler">Ich trinke keinen Alkohol.</div>
+      <div class="jp">この 本[ほん]<u>は</u>もう 読[よ]んだ。</div>
+      <div class="de spoiler">Dieses Buch habe ich schon gelesen.</div>
+    </div>
+  </ul>
+  <p>Es kann auch dazu dienen, etwas hervorzuheben.</p>
+  <ul>
+    <div class="examples">
+      <div class="jp">犬小屋[いぬごや]<u>は</u>あったが、犬[いぬ]<u>は</u>いなかった。</div>
+      <div class="de spoiler">Eine Hundehütte gab es, aber keinen Hund.</div>
+    </div>
+    <li>Bei Adjektiven wird es mit der Verneinung verwendet:</li>
+    <div class="examples">
+      <div class="jp">安[やす]く<u>は</u>ない。</div>
+      <div class="de spoiler">Es ist nicht billig.</div>
+    </div>
+  </ul>
+  <p>Es kann einen Kontrast anzeigen, oft wenn ein anderes Element unausgesprochen ist.</p>
+  <div class="examples">
+    <div class="jp">教室[きょうしつ]で<u>は</u>たばこをすわないでください。</div>
+    <div class="de spoiler">Im Klassenzimmer bitte nicht rauchen!</div>
+    <div class="jp">九州[きゅうしゅう]へ<u>は</u> 行[い]かなかった。</div>
+    <div class="de spoiler">Nach Kyūshū bin ich nicht gefahren [wohl aber anderswohin].</div>
+  </div>
+  <p>Es kann eine Einschränkung ausdrücken, oft in Verbindung mit が (aber).</p>
+  <div class="examples">
+    <div class="jp">寒[さむ]く<u>は</u>あるが、耐[た]えられる。</div>
+    <div class="de spoiler">Es ist zwar kalt, aber erträglich.</div>
+  </div>
+
+  Wichtig:
+  - Benutuze verständliche Sprache; die eher linguistische Sprache aus dem Wörterbuch soll verständlich gemacht werden, wie im Beispiel.
+  - Beachte mein Format für Lesungen (in eckigen Klammern, Leerzeichen vor Beginn des Kanji-Begriffs!), wie im Beispiel. Markiere das Wort selber mit <u>.
+    - Die Beispielsätze sollen aus dem Wörterbucheintrag abgeleitet sein.
+    - Verwende nie Romaji oder Klammern, sondern immern Furigana: schreibe nicht "Der Ausdruck 空気を読む (kūki o yomu) bedeutet...", sondern "Der Ausdruck <span class="jp">空気[くうき]を 読[よ]む</span> bedeutet...". Anstatt "Die Partikel に (ni)..." schreibe einfach "Die Partikel に ...".
+    - Keine Abschlussbemerkung (also kein "Beachten Sie, ..." oder ähnliches)
+
+    Die Ausgabe soll in HTML sein, in genau meinem HTML-Format.
+    ----
+    Erstelle eine Grammatiknotiz für 来る:
+    ---
+    Wörterbucheintrag: <p class="article">
+    <div class="sect_base"> <b class="lemma">kuru</b> <b class="lemmaj">来る</b> <i class="Hinshi">v</i>.<i class="Hinshi">i</i>. (unreg.; <i>konai</i>, <i>kita</i>; Imperativ:<i> koi</i>) <b class="hom">(i)</b> <b class="sense">(1)</b> kommen; (e-e Person, e-n Ort) besuchen, bei jdm. vorbeikommen; (sich auf e-n Ort zubewegen) ankommen, erreichen, eintreffen, sich einstellen, sich einfinden; hinkommen, sich nähern, herankommen, herannahen, heranrücken; entstehen, auftreten; zu etw. führen ‹kommen› . </div>
+    <div class="sect_quotes">► 「ここでは話にならん。ちょっと別の部屋へ来い」 »Hier können wir nicht reden. Komm mit in ein anderes Zimmer« ここはその上、ほかの在所より冬が来るのが早く Zudem stellte sich hier der Winter früher ein als andernorts 皆、すでに白い作業衣に着替え、菓子を食べたり、茶を啜ったりして作業時間が来るのを待っている。Sie trugen alle bereits die weiße Arbeitskleidung und warteten, Süßigkeiten essend oder Tee schlürfend, auf den Beginn der Schicht. 鼠から次の手紙が来たのは翌年の五月だった。Der zweite Brief von Ratte kam im Mai des folgenden Jahres. </div>
+    <div class="sect_base"><b class="sense">(2)</b> (im Anschluss an ein Nomen + <i>ni </i>に bzw. an die Konjunktionalform v. Verben + <i>ni</i> に) kommen (um etw. zu tun). </div>
+    <div class="sect_quotes">► 聞き手はみんなすっかり満足（まんぞく）して、ここを見に来てほんとうによかった‹略›と、言いあいました。Alle Zuhörer waren tief befriedigt und sagten, diese Besichtigung habe sich wirklich gelohnt 我々は別に遊びに来てるわけじゃないんだ。Wir sind nicht zur Erholung hergekommen. 人々は買物に来るついでにこのベンチに坐（すわ）って Die Menschen kommen hierher, um Einkäufe zu tätigen, und lassen sich bei dieser Gelegenheit auf der Bank nieder . </div>
+    <div class="sect_base"><b class="sense">(3)</b> (in der Form … <i>kara kuru </i>⋯から来る) (v. e-m Ort) kommen; v. etw. herrühren, herstammen, abstammen, auf etw. zurückzuführen sein, aus etw. entstanden sein, v. etw. verursacht sein, etw. v. etw. kommen; überliefert ‹tradiert› sein ‹werden›. </div>
+    <div class="sect_quotes">► 衝撃から来る目眩（めまい）を経験したのは初めてだった。 Es war das erste Mal, dass ihr vor Schock schwindelig wurde. それが全く文学熱から来たので Das kommt von seiner leidenschaftlichen Begeisterung für Literatur. </div>
+    <div class="sect_base"><b class="sense">(4)</b> (in der Form … <i>to kuru to </i>⋯とくると, …<i> to kite wa </i>⋯ときては, … <i>to kitara </i>⋯ときたら u.ä.) besonders in Bezug auf …, was insbesondere … betrifft; wenn es um … geht, dann. </div>
+    <div class="sect_quotes">► まあ、私ときたら、自分勝手な昔話ばかりしてしまって Nun habe ich die ganze Zeit nur über alte Geschichten geredet . </div>
+    <div class="sect_base"><b class="hom">(ii)</b> (Hilfsverb; Anschluss an die um <i>te </i>て bzw. <i>de </i>で erweiterte Konjunktionalform v. Verben) <b class="sense">(1)</b> Ausdruck des Zurückkehrens nach e-r erfolgten Handlung. </div>
+    <div class="sect_base"><b class="sense">(2)</b> Ausdruck der Entwicklung od. des Verlaufs auf e-n Zustand hin. </div>
+    <div class="sect_quotes">► 「箱男のことについちゃ、自分で経験して来たことだから、あんたよりは詳しいつもりだよ。」 »Mit dem Schachtelleben kenne ich mich besser aus als du, ich hab’ das durchgemacht.« まったく、その子供の笑顔は、よく見れば見るほど、何とも知れず、イヤな薄気味悪いものが感ぜられて来る。 Und in der Tat: Je länger man den lächelnden Knaben betrachtete, desto unheimlicher wurde er einem. </div>
+    <div class="sect_base"><b class="sense">(3)</b> Ausdruck e-s räuml. od. zeitl. Richtungsbezuges. </div>
+    <div class="sect_quotes">► したがって光の場合には、われわれから遠ざかっていく星のスペクトルは赤い端の方にずれ(赤方偏移)、近づいてくる星のスペクトルは青い方に偏移する。 Im Fall des Lichts bedeutet dies also, daß die Spektren von Sternen, die sich von uns fortbewegen, zum roten Ende hin verschoben (rotverschoben) sind und daß die Sterne, die sich auf uns zu bewegen, blauverschobene Spektren aufweisen. </div>
+    <div class="sect_phrases">★ <b>atama ni kuru</b> 頭に～ s. v. <i>atama </i>頭 <b>hara ga kita </b>腹が来た s.v. <i>hara </i>腹 <b>jire ga kuru</b><i> </i>じれが～ = <i>jireru </i>焦れる <b>kachin to kuru</b> かちんと～ s.v. <i>kachin</i> かちん <b>kochin to kuru</b> こちんと～ s.v. <i>kochin </i>こちん <b>kuru mono wa kobamanai</b> ‹<b>kobamazu</b>› ～者は拒まない‹拒まず› Kommende nicht abweisen; niemanden abweisen ‹wegschicken, fortschicken›, ein offenes Haus führen; jds. Haus steht jedem ‹jedermann› offen; vgl. <i>(saru mono wa owazu) kitaru mono wa kobamazu</i> （去る者は追わず）来る者は拒まず (s.v. <i>kitaru</i> 来る) <b>pin to kuru</b> ぴんと～ s.v. <i>pin·to </i>ぴんと <b>shiri ga kuru</b><i> </i>尻が～ s. v. <i>shiri</i> 尻. </div>
+    <div class="sect_base"><b>NB:</b> Vgl. auch <i>kitaru </i>来る.</div>
+    </p>
+    ---
+    Ausgabe (Antworte ausschließlich mit dem vollständigen HTML):
+    <p>

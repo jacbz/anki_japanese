@@ -102,4 +102,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>頼[たの]む ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Jemanden um etwas bitten oder ersuchen</li>
+    <div class="examples">
+      <div class="jp">アッバ・チューレ王[おう]が 自分[じぶん]の 次男[じなん]をイギリスヘ 連[つ]れていってくれと<u>頼[たの]んだ</u>のである。</div>
+      <div class="de spoiler">König Abba Thulle bat ihn, seinen zweitältesten Sohn nach England mitzunehmen.</div>
+      <div class="jp"><u>頼[たの]む</u>から 今日[きょう]は 行[い]かせて。</div>
+      <div class="de spoiler">Ich bitte Sie, lassen Sie mich heute gehen.</div>
+    </div>
+    <li>Auf jemanden oder etwas vertrauen, sich verlassen</li>
+    <div class="examples">
+      <div class="jp">世界[せかい]に<u>恃[たの]む</u>に 足[た]るものは 自我[じが]の 外[ほか]には 無[な]い。</div>
+      <div class="de spoiler">In der ganzen Welt könne man sich auf nichts anderes als auf das Ich verlassen.</div>
+    </div>
+    <li>Etwas bestellen oder rufen</li>
+    <div class="examples">
+      <div class="jp">私[わたし]はそれから 酒[さけ]と 摘[つま]みものを<u>頼[たの]んだ</u>。</div>
+      <div class="de spoiler">Ich bestellte dann Sake und Zuspeisen.</div>
+    </div>
+  </ul>
+
+  <p>Verwendung:</p>
+  <ul>
+    <li>Um Hilfe oder einen Gefallen zu bitten: [Objekt]を<u>頼[たの]む</u></li>
+    <li>Jemanden mit etwas beauftragen: [Person]に[Aufgabe]を<u>頼[たの]む</u></li>
+    <li>Um Erlaubnis bitten: <u>頼[たの]む</u>から[Bitte]</li>
+    <li>Etwas bestellen: [Gegenstand]を<u>頼[たの]む</u></li>
+  </ul>
+
+  <p>Historisch wurde 頼[たの]む auch als Interjektion verwendet, besonders von Samurai, um Einlass zu erbitten:</p>
+  <div class="examples">
+    <div class="jp">「<u>頼[たの]む</u><u>頼[たの]む</u>」と 玄関[げんかん]から 大[おお]きな 声[こえ]で 案内[あんない]を 乞[こ]う 者[もの]がある。</div>
+    <div class="de spoiler">In diesem Moment bat jemand am Eingang mit erhobener Stimme um Einlaß. »Hallo! Jemand zu Hause?«</div>
+  </div>
+  </p>

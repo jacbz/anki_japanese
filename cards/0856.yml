@@ -98,4 +98,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>目指す (めざす) bedeutet, etwas anzustreben oder sich ein Ziel zu setzen.</p>
+  <ul>
+    <li>Es wird verwendet, um auszudrücken, dass man ein bestimmtes Ziel verfolgt oder etwas erreichen möchte.</li>
+    <div class="examples">
+      <div class="jp">ネオナチや 極右[きょくう]の 撲滅[ぼくめつ]を<u>目指[めざ]す</u>ドイツ 政府[せいふ]</div>
+      <div class="de spoiler">Die deutsche Regierung, die die Zerschlagung der Neonazis und der extremen Rechten anstrebt</div>
+    </div>
+    <li>Es kann auch bedeuten, dass man auf etwas zusteuert oder sich in eine bestimmte Richtung bewegt.</li>
+    <div class="examples">
+      <div class="jp">船[ふね]は 北緯[ほくい] 四十度線[よんじゅうどせん]を<u>目指[めざ]して</u> 進[すす]んでいる</div>
+      <div class="de spoiler">Das Schiff steuert auf den vierzigsten Grad nördlicher Breite zu</div>
+    </div>
+  </ul>
+  <p>Es wird oft mit を oder と zusammen verwendet:</p>
+  <ul>
+    <li>Xを目指す: X anstreben, auf X abzielen</li>
+    <div class="examples">
+      <div class="jp">０５年[ゼロごねん]の 完工[かんこう]を<u>目指[めざ]す</u> 再処理[さいしょり] 工場[こうじょう]</div>
+      <div class="de spoiler">Die Wiederaufbereitungsanlage, deren Fertigstellung für das Jahr 2005 geplant ist</div>
+    </div>
+    <li>Xを目指して: mit dem Ziel X, in Richtung X</li>
+    <div class="examples">
+      <div class="jp">若者[わかもの]たちは 太陽[たいよう]を 基準[きじゅん]にひとまず 北西[ほくせい]を<u>目指[めざ]して</u>ことにした</div>
+      <div class="de spoiler">Die jungen Männer orientierten sich zunächst an der Sonne und beschlossen dann, in nordwestliche Richtung zu fahren</div>
+    </div>
+  </ul>
+  </p>

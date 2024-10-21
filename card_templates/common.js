@@ -258,13 +258,13 @@ function processText(text, isJapanese) {
         if (line.startsWith("–") || line.startsWith("-")) {
           line = line.replaceAll(/^(–|-)\s*/g, "");
         }
-        formattedLines.push(`„${line}“`);
+        formattedLines.push(`"${line}"`);
       }
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks »...«
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "»\u2060$1\u2060«");
+    text = text.replace(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "»\u2060$1\u2060«");
   }
   return text;
 }

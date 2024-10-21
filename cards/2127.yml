@@ -2,10 +2,10 @@ Rang: 2127
 Lemma: 豊富
 Lesung: ほうふ
 Tonhöhen: /^^
-Definition: reichlich, reichhaltig
+Definition: reichhaltig, reichlich
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj
+Wortart: n, na-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   彼は経験が豊富だ。
   彼[かれ]は 経験[けいけん]が 豊富[ほうふ]だ。
-  Er hat viel Erfahrung.
+  Er hat reiche Erfahrung.
+
+  この地域は天然資源が豊富です。
+  この 地域[ちいき]は 天然資源[てんねんしげん]が 豊富[ほうふ]です。
+  Diese Region ist reich an natürlichen Ressourcen.
+
+  豊富な知識を持っている人は尊敬されます。
+  豊富[ほうふ]な 知識[ちしき]を 持[も]っている 人[ひと]は 尊敬[そんけい]されます。
+  Menschen mit umfangreichem Wissen werden respektiert.
+
+  彼女は豊富な語彙を使って話します。
+  彼女[かのじょ]は 豊富[ほうふ]な 語彙[ごい]を 使[つか]って 話[はな]します。
+  Sie spricht mit einem reichhaltigen Wortschatz.
+
+  この本は内容が豊富で面白い。
+  この 本[ほん]は 内容[ないよう]が 豊富[ほうふ]で 面白[おもしろ]い。
+  Dieses Buch hat einen reichhaltigen Inhalt und ist interessant.
+
+  栄養豊富な食事を心がけましょう。
+  栄養豊富[えいようほうふ]な 食事[しょくじ]を 心[こころ]がけましょう。
+  Lasst uns auf eine nährstoffreiche Ernährung achten.
+
+  彼の話は想像力豊富だ。
+  彼[かれ]の 話[はなし]は 想像力豊富[そうぞうりょくほうふ]だ。
+  Seine Geschichten sind voller Fantasie.
+
+  この地方は雨が豊富で農業に適しています。
+  この 地方[ちほう]は 雨[あめ]が 豊富[ほうふ]で 農業[のうぎょう]に 適[てき]しています。
+  Diese Gegend hat reichlich Regen und ist für die Landwirtschaft geeignet.
+
+  彼女は豊富な経験を活かして新しいプロジェクトを始めた。
+  彼女[かのじょ]は 豊富[ほうふ]な 経験[けいけん]を 活[い]かして 新[あたら]しいプロジェクトを 始[はじ]めた。
+  Sie nutzte ihre reiche Erfahrung, um ein neues Projekt zu starten.
+
+  この辞書は例文が豊富だ。
+  この 辞書[じしょ]は 例文[れいぶん]が 豊富[ほうふ]だ。
+  Dieses Wörterbuch enthält zahlreiche Beispielsätze.
+
+  豊富な資金を持つ企業は、新技術の開発に投資できる。
+  豊富[ほうふ]な 資金[しきん]を 持[も]つ 企業[きぎょう]は、新[しん]技術[ぎじゅつ]の 開発[かいはつ]に 投資[とうし]できる。
+  Unternehmen mit reichlichen finanziellen Mitteln können in die Entwicklung neuer Technologien investieren.
+
+  彼の講義は情報が豊富で、学生たちに人気がある。
+  彼[かれ]の 講義[こうぎ]は 情報[じょうほう]が 豊富[ほうふ]で、学生[がくせい]たちに 人気[にんき]がある。
+  Seine Vorlesungen sind informationsreich und bei den Studenten beliebt.
+
+  この地域は魚介類が豊富で、美味しい海鮮料理が楽しめる。
+  この 地域[ちいき]は 魚介類[ぎょかいるい]が 豊富[ほうふ]で、美味[おい]しい 海鮮料理[かいせんりょうり]が 楽[たの]しめる。
+  Diese Region ist reich an Meeresfrüchten und man kann leckere Fischgerichte genießen.
+
+  彼女の小説は想像力豊富な描写で読者を魅了する。
+  彼女[かのじょ]の 小説[しょうせつ]は 想像力豊富[そうぞうりょくほうふ]な 描写[びょうしゃ]で 読者[どくしゃ]を 魅了[みりょう]する。
+  Ihre Romane fesseln die Leser mit fantasievollen Beschreibungen.
+
+  この会社は豊富な人材を抱えている。
+  この 会社[かいしゃ]は 豊富[ほうふ]な 人材[じんざい]を 抱[かか]えている。
+  Dieses Unternehmen verfügt über reichlich qualifiziertes Personal.
+
+  豊富な種類の商品を取り揃えております。
+  豊富[ほうふ]な 種類[しゅるい]の 商品[しょうひん]を 取り揃[とりそろ]えております。
+  Wir führen eine reiche Auswahl an Produkten.
+
+  彼は豊富な人脈を持っている。
+  彼[かれ]は 豊富[ほうふ]な 人脈[じんみゃく]を 持[も]っている。
+  Er verfügt über ein reichhaltiges Netzwerk von Kontakten.
+
+  この地域は文化遺産が豊富だ。
+  この 地域[ちいき]は 文化遺産[ぶんかいさん]が 豊富[ほうふ]だ。
+  Diese Region ist reich an kulturellem Erbe.
+
+  彼女の作品は色彩豊富で目を引く。
+  彼女[かのじょ]の 作品[さくひん]は 色彩豊富[しきさいほうふ]で 目[め]を 引[ひ]く。
+  Ihre Werke sind farbenfroh und ansprechend.
+
+  この国は鉱物資源が豊富だ。
+  この 国[くに]は 鉱物資源[こうぶつしげん]が 豊富[ほうふ]だ。
+  Dieses Land ist reich an Bodenschätzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

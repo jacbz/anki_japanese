@@ -106,4 +106,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">とにかく</span> ist ein Adverb mit verschiedenen Verwendungen:</p>
+
+  <ul>
+    <li>Es drückt Entschlossenheit oder Unvermeidlichkeit aus:</li>
+    <div class="examples">
+      <div class="jp"><u>とにかく</u>キチジローを 信[しん]ずる 以外[いがい]には 他[た]のいかなる 方法[ほうほう]もない。</div>
+      <div class="de spoiler">Wie dem auch sei, uns bleibt nichts anderes übrig, als Kichijiro zu vertrauen.</div>
+    </div>
+
+    <li>Es kann "auf jeden Fall" oder "unbedingt" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>とにかく</u>、 西部[せいぶ] 二部隊[にぶたい]へ 届書[とどけしょ]を 提出[ていしゅつ]しなくっちゃいかん。</div>
+      <div class="de spoiler">Auf jeden Fall müssen wir es dem Zweiten Westjapan-Korps melden.</div>
+    </div>
+
+    <li>Es kann eine Schlussfolgerung oder Zusammenfassung einleiten:</li>
+    <div class="examples">
+      <div class="jp"><u>とにかく</u> 向[む]こうじゃ、 君[きみ]に 困[こま]ってるんだ。</div>
+      <div class="de spoiler">Du fällst ihnen eben auf die Nerven.</div>
+    </div>
+
+    <li>Es kann auch "zumindest" oder "immerhin" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>とにかく</u> 羊[ひつじ]は 怯[おび]えさえしなきゃ 大人[おとな]しい 動物[どうぶつ]なんだ。</div>
+      <div class="de spoiler">Schafe sind brave Tiere, zumindest solange sie nicht in Panik geraten.</div>
+    </div>
+  </ul>
+
+  <p>In der Form <span class="jp">⋯は<u>とにかく</u></span> oder <span class="jp">⋯なら（ば）<u>とにかく</u></span> bedeutet es "abgesehen von" oder "unabhängig von":</p>
+
+  <div class="examples">
+    <div class="jp">そんな 瑣末[さまつ]な 事[こと]は<u>とにかく</u>、これから 大[おお]いに 活動[かつどう]して、 先生[せんせい]を 一[ひと]つ 大学教授[だいがくきょうじゅ]にしてやろうと 思[おも]う。</div>
+    <div class="de spoiler">Aber nun mal abgesehen von solchen Kleinigkeiten: Ich habe jetzt vor, mich kräftig ins Zeug zu legen, damit der Herr Professor endlich einmal eine Stelle an der Universität bekommt!</div>
+  </div>
+  </p>

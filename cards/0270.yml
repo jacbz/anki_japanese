@@ -107,24 +107,30 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-
-  <p>Kann in verschiedenen Kontexten verwendet werden:</p>
-  <p>1. Etwas oder jemandem gegenüberstehen oder zugewandt sein:</p>
-  <div class="examples">
-    <div class="jp">窓[まど]は 山[やま]に 対[たい]している。</div>
-    <div class="de spoiler">Das Fenster ist zum Berg hin ausgerichtet.</div>
-  </div>
-  <p>2. Jemandem entgegentreten oder gegen jemanden antreten:</p>
-  <div class="examples">
-    <div class="jp">彼[かれ]は 厳[きび]しく 生徒[せいと]に 対[たい]した。</div>
-    <div class="de spoiler">Er trat den Schülern streng gegenüber.</div>
-  </div>
-  <p>3. In der Form 「〜に対して」oder 「〜に対する」 wird es verwendet, um „für", „gegenüber" oder „gegen" auszudrücken:</p>
-  <div class="examples">
-    <div class="jp">彼[かれ]の 行動[こうどう]に 対[たい]する 批判[ひはん]が 高[たか]まっている。</div>
-    <div class="de spoiler">Die Kritik an seinem Verhalten nimmt zu.</div>
-  </div>
-  <p>4. Kann auch verwendet werden, um einen Gegensatz auszudrücken:</p>
-  <div class="examples">
-    <div class="jp">男子[だんし]に 対[たい]して 女子[じょし]は 成績[せいせき]が 良[よ]かった。</div>
-    <div class="de spoiler">Im Gegensatz zu den Jungen hatten die Mädchen gute Noten.</div>
-  </div>
+  <p>対[たい]する ist ein Verb mit mehreren wichtigen Verwendungen:</p>
+
+  <ul>
+    <li>In seiner Grundbedeutung bedeutet es "gegenüberstehen" oder "gegenüberliegen":</li>
+    <div class="examples">
+      <div class="jp">門[もん]が 山[やま]に<u>対[たい]している</u>。</div>
+      <div class="de spoiler">Das Tor steht dem Berg gegenüber.</div>
+    </div>
+
+    <li>Als に<u>対[たい]して</u> oder に<u>対[たい]する</u> hat es mehrere wichtige Funktionen:</li>
+
+    <ul>
+      <li>Es drückt aus "gegenüber", "für" oder "auf ... gerichtet":</li>
+      <div class="examples">
+        <div class="jp">母親[ははおや]に<u>対[たい]する</u> 怒[いか]り</div>
+        <div class="de spoiler">die Wut auf die Mutter</div>
+        <div class="jp">彼女[かのじょ]に<u>対[たい]して</u> 愛[あい]を 持[も]っていた。</div>
+        <div class="de spoiler">Ich empfand Liebe für sie.</div>
+      </div>
+
+      <li>Es kann einen Kontrast oder Vergleich ausdrücken ("im Gegensatz zu"):</li>
+      <div class="examples">
+        <div class="jp">欧米[おうべい]の 住宅[じゅうたく]が 七十[ななじゅう]年なのに<u>対[たい]し</u>、日本[にほん]は 二十五[にじゅうご]年。</div>
+        <div class="de spoiler">Während Häuser in Europa und Amerika 70 Jahre halten, halten sie in Japan 25 Jahre.</div>
+      </div>
+    </ul>
+  </ul>

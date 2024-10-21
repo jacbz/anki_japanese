@@ -131,24 +131,38 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-
-  <p><span class="jp">いけない</span> kann in verschiedenen Kontexten verwendet werden:</p>
-  <div class="examples">
-    <div class="jp">そこに 行[い]ってはいけない。</div>
-    <div class="de spoiler">Du darfst nicht dorthin gehen.</div>
-  </div>
-  <p>Es wird oft verwendet, um auszudrücken, dass etwas nicht erlaubt oder nicht angemessen ist.</p>
-  <div class="examples">
-    <div class="jp">授業中[じゅぎょうちゅう]に 携帯電話[けいたいでんわ]を 使[つか]ってはいけません。</div>
-    <div class="de spoiler">Man darf während des Unterrichts kein Handy benutzen.</div>
-  </div>
-  <p>In Verbindung mit der て-Form eines Verbs + は drückt es aus, dass etwas nicht getan werden darf.</p>
-  <div class="examples">
-    <div class="jp">宿題[しゅくだい]をしなくてはいけない。</div>
-    <div class="de spoiler">Ich muss meine Hausaufgaben machen.</div>
-  </div>
-  <p>Mit <span class="jp">なくては</span> oder <span class="jp">なければ</span> vor <span class="jp">いけない</span> wird ausgedrückt, dass etwas getan werden muss.</p>
-  <div class="examples">
-    <div class="jp">いけないことに、財布[さいふ]を 忘[わす]れてしまった。</div>
-    <div class="de spoiler">Zu allem Überfluss habe ich meine Geldbörse vergessen.</div>
-  </div>
-  <p>Die Phrase <span class="jp">いけないことに</span> bedeutet "zu allem Unglück" oder "zu allem Überfluss".</p>
+  <p>いけない ist ein wichtiger Ausdruck mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Es drückt aus, dass etwas "nicht geht" oder "nicht erlaubt ist":</li>
+    <div class="examples">
+      <div class="jp">お金[かね]で 合格[ごうかく]が 得[え]られると 聞[き]くと、<u>いけない</u>こととわかっていても⋯</div>
+      <div class="de spoiler">Wenn man hört, dass man die Zulassung kaufen kann, auch wenn man weiß, dass das nicht richtig ist...</div>
+    </div>
+
+    <li>Es wird verwendet, um auszudrücken, dass etwas "schlecht" oder "schädlich" ist:</li>
+    <div class="examples">
+      <div class="jp">空襲[くうしゅう]によるショックと一晩中[ひとばんじゅう]の 冷雨[れいう]が 彼女[かのじょ]に<u>いけなかった</u>。</div>
+      <div class="de spoiler">Der Schock durch den Bombenangriff und der kalte Regen die ganze Nacht waren zu viel für sie.</div>
+    </div>
+
+    <li>Mit て-Form + は drückt es ein Verbot aus ("darf nicht", "soll nicht"):</li>
+    <div class="examples">
+      <div class="jp">眠[ねむ]っては<u>いけない</u>！</div>
+      <div class="de spoiler">Du darfst nicht schlafen!</div>
+      <div class="jp">なにも 聞[き]いては<u>いけない</u>し、ものを 言[い]っても<u>いけない</u>。</div>
+      <div class="de spoiler">Man darf nichts fragen und nichts sagen.</div>
+    </div>
+
+    <li>Mit なければ drückt es eine Notwendigkeit aus ("muss"):</li>
+    <div class="examples">
+      <div class="jp">人間[にんげん]はたっぷりと 眠[ねむ]らなければ<u>いけない</u>のだ。</div>
+      <div class="de spoiler">Der Mensch muss ausreichend schlafen.</div>
+    </div>
+
+    <li>Mit と und から/ので drückt es eine Besorgnis aus ("damit nicht..."):</li>
+    <div class="examples">
+      <div class="jp">淋[さび]しいと<u>いけない</u>から、テディベアの 縫[ぬ]いぐるみも 入[い]れてやった。</div>
+      <div class="de spoiler">Ich habe seinen Teddybären eingepackt, damit er sich nicht einsam fühlt.</div>
+    </div>
+  </ul>

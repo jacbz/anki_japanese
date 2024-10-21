@@ -106,4 +106,28 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>方 wird hauptsächlich in zwei wichtigen Bedeutungen verwendet:</p>
+  <ul>
+    <li>Es bezeichnet eine Richtung oder Seite:</li>
+    <div class="examples">
+      <div class="jp">焚火[たきび]の<u>方[ほう]</u>にむかって 歩[ある]きだす。</div>
+      <div class="de spoiler">Er ging in Richtung des Feuers los.</div>
+      <div class="jp">声[こえ]のした<u>方[ほう]</u>に 顔[かお]を 向[む]けた。</div>
+      <div class="de spoiler">Er wandte sich in die Richtung, aus der die Stimme kam.</div>
+    </div>
+    <li>Es wird verwendet, um zwei Dinge zu vergleichen oder eine Option als besser darzustellen (oft mit ほうが):</li>
+    <div class="examples">
+      <div class="jp">二人[ふたり]で 運[はこ]んだ<u>方[ほう]</u>が 楽[らく]でしょう。</div>
+      <div class="de spoiler">Es ist einfacher, wenn wir es zu zweit tragen.</div>
+      <div class="jp">気[き]をつけた<u>方[ほう]</u>がいい。</div>
+      <div class="de spoiler">Es ist besser, wenn du vorsichtig bist.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Gruppe oder einen Bereich zu bezeichnen:</li>
+    <div class="examples">
+      <div class="jp">会社[かいしゃ]の<u>方[ほう]</u>で 調[しら]べてみます。</div>
+      <div class="de spoiler">Ich werde in der Firma nachforschen.</div>
+      <div class="jp">事務所[じむしょ]の<u>方[ほう]</u>はどうなのかな。</div>
+      <div class="de spoiler">Wie sieht es im Büro aus?</div>
+    </div>
+  </ul>

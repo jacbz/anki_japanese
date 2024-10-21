@@ -2,20 +2,96 @@ Rang: 2118
 Lemma: 引き続く
 Lesung: ひきつづく
 Tonhöhen: /^^\.
-Definition: fortsetzen; folgen
+Definition: andauern, fortsetzen; folgen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ↗Verwaltungssprache
 Ursprung: ''
-Konjugation: ''
+Konjugation: 引き続かない・引き続いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   今年も引き続きご支援をお願いいたします。
   今年[ことし]も 引[ひ]き 続[つづ]きご 支援[しえん]をお 願[ねが]いいたします。
-  Wir würden uns freuen, wenn Sie uns auch in diesem Jahr unterstützen.
+  Wir bitten auch dieses Jahr um Ihre fortgesetzte Unterstützung.
+
+  雨が三日間引き続いている。
+  雨[あめ]が 三日間[みっかかん] 引[ひ]き 続[つづ]いている。
+  Es regnet seit drei Tagen ununterbrochen.
+
+  景気の悪化が引き続くと予想される。
+  景気[けいき]の 悪化[あっか]が 引[ひ]き 続[つづ]くと 予想[よそう]される。
+  Es wird erwartet, dass sich die Wirtschaftslage weiterhin verschlechtern wird.
+
+  会議の後、引き続き懇親会が行われます。
+  会議[かいぎ]の 後[あと]、引[ひ]き 続[つづ]き 懇親会[こんしんかい]が 行[おこな]われます。
+  Im Anschluss an die Konferenz findet ein Empfang statt.
+
+  この問題については引き続き調査中です。
+  この 問題[もんだい]については 引[ひ]き 続[つづ]き 調査中[ちょうさちゅう]です。
+  Wir untersuchen diese Angelegenheit weiterhin.
+
+  彼女の成績は引き続き優秀だ。
+  彼女[かのじょ]の 成績[せいせき]は 引[ひ]き 続[つづ]き 優秀[ゆうしゅう]だ。
+  Ihre Leistungen bleiben weiterhin hervorragend.
+
+  引き続く不況で多くの企業が苦戦している。
+  引[ひ]き 続[つづ]く 不況[ふきょう]で 多[おお]くの 企業[きぎょう]が 苦戦[くせん]している。
+  Viele Unternehmen kämpfen aufgrund der anhaltenden Rezession.
+
+  台風の影響で、引き続き警戒が必要です。
+  台風[たいふう]の 影響[えいきょう]で、引[ひ]き 続[つづ]き 警戒[けいかい]が 必要[ひつよう]です。
+  Aufgrund der Auswirkungen des Taifuns ist weiterhin Vorsicht geboten.
+
+  彼は引き続き会社の代表を務めることになった。
+  彼[かれ]は 引[ひ]き 続[つづ]き 会社[かいしゃ]の 代表[だいひょう]を 務[つと]めることになった。
+  Er wird weiterhin als Vertreter des Unternehmens fungieren.
+
+  政府は引き続き経済対策に取り組むと発表した。
+  政府[せいふ]は 引[ひ]き 続[つづ]き 経済対策[けいざいたいさく]に 取[と]り 組[く]むと 発表[はっぴょう]した。
+  Die Regierung kündigte an, dass sie weiterhin an wirtschaftlichen Maßnahmen arbeiten wird.
+
+  引き続く暑さで熱中症患者が増加している。
+  引[ひ]き 続[つづ]く 暑[あつ]さで 熱中症患者[ねっちゅうしょうかんじゃ]が 増加[ぞうか]している。
+  Die anhaltende Hitze führt zu einem Anstieg der Hitzschlagpatienten.
+
+  この地域では引き続き地震の余震に注意が必要だ。
+  この 地域[ちいき]では 引[ひ]き 続[つづ]き 地震[じしん]の 余震[よしん]に 注意[ちゅうい]が 必要[ひつよう]だ。
+  In dieser Region muss man weiterhin auf Nachbeben achten.
+
+  引き続き良好な関係を維持していきたいと思います。
+  引[ひ]き 続[つづ]き 良好[りょうこう]な 関係[かんけい]を 維持[いじ]していきたいと 思[おも]います。
+  Wir möchten auch in Zukunft gute Beziehungen aufrechterhalten.
+
+  彼女は引き続きトップの座を守っている。
+  彼女[かのじょ]は 引[ひ]き 続[つづ]きトップの 座[ざ]を 守[まも]っている。
+  Sie behält weiterhin ihre Spitzenposition.
+
+  引き続きお客様のご意見を伺ってまいります。
+  引[ひ]き 続[つづ]きお 客様[きゃくさま]のご 意見[いけん]を 伺[うかが]ってまいります。
+  Wir werden weiterhin die Meinungen unserer Kunden einholen.
+
+  この制度は引き続き来年度も実施されます。
+  この 制度[せいど]は 引[ひ]き 続[つづ]き 来年度[らいねんど]も 実施[じっし]されます。
+  Dieses System wird auch im nächsten Geschäftsjahr fortgeführt.
+
+  引き続く円高で輸出企業の業績が悪化している。
+  引[ひ]き 続[つづ]く 円高[えんだか]で 輸出企業[ゆしゅつきぎょう]の 業績[ぎょうせき]が 悪化[あっか]している。
+  Die anhaltende Yen-Aufwertung verschlechtert die Leistung der Exportunternehmen.
+
+  彼は引き続き治療を受けることになった。
+  彼[かれ]は 引[ひ]き 続[つづ]き 治療[ちりょう]を 受[う]けることになった。
+  Er wird sich weiterhin einer Behandlung unterziehen.
+
+  引き続き注意深く状況を見守っていく必要がある。
+  引[ひ]き 続[つづ]き 注意深[ちゅういぶか]く 状況[じょうきょう]を 見守[みまも]っていく 必要[ひつよう]がある。
+  Es ist notwendig, die Situation weiterhin sorgfältig zu beobachten.
+
+  授業に引き続いて、課外活動の時間がある。
+  授業[じゅぎょう]に 引[ひ]き 続[つづ]いて、課外活動[かがいかつどう]の 時間[じかん]がある。
+  Im Anschluss an den Unterricht gibt es Zeit für außerschulische Aktivitäten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

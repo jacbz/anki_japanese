@@ -102,4 +102,47 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the requested HTML grammar note for 間:
+
+  <p>間 wird verwendet, um verschiedene Konzepte von Raum und Zeit auszudrücken:</p>
+
+  <ul>
+    <li>Zwischenraum oder Distanz:</li>
+    <div class="examples">
+      <div class="jp">公衆便所[こうしゅうべんじょ]とガードレールの<u>間[あいだ]</u></div>
+      <div class="de spoiler">Zwischen der öffentlichen Toilette und der Leitplanke</div>
+    </div>
+
+    <li>Zeitraum oder Intervall:</li>
+    <div class="examples">
+      <div class="jp">しばらくの<u>間[あいだ]</u></div>
+      <div class="de spoiler">Eine Weile lang</div>
+      <div class="jp">十日[とおか]の<u>間[あいだ]</u>に</div>
+      <div class="de spoiler">Innerhalb von zehn Tagen</div>
+    </div>
+
+    <li>Beziehung oder Verhältnis zwischen Dingen oder Personen:</li>
+    <div class="examples">
+      <div class="jp">東海地震[とうかいじしん]と 富士山[ふじさん] 噴火[ふんか]の<u>間[あいだ]</u></div>
+      <div class="de spoiler">Zwischen dem Tokai-Erdbeben und dem Ausbruch des Fuji</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Verwendungen:</p>
+
+  <ul>
+    <li>Als Konjunktion: <span class="jp">〜の<u>間[あいだ]</u></span> bedeutet "während" oder "solange":</li>
+    <div class="examples">
+      <div class="jp">家裁[かさい]が 事件[じけん]を 審判[しんぱん]する<u>間[あいだ]</u></div>
+      <div class="de spoiler">Während das Familiengericht den Fall verhandelt</div>
+    </div>
+
+    <li>In der Phrase <span class="jp"><u>間[あいだ]</u>に 立[た]つ</span>: "vermitteln" oder "zwischen zwei Parteien stehen":</li>
+    <div class="examples">
+      <div class="jp">この 二人[ふたり]の<u>間[あいだ]</u>にはいって</div>
+      <div class="de spoiler">Sich zwischen diese beiden Personen stellen</div>
+    </div>
+  </ul>
+
+  </p>

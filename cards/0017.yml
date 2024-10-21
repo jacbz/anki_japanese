@@ -98,4 +98,97 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>こと oder 事 ist ein extrem vielseitiges japanisches Wort mit zahlreichen Funktionen:</p>
+
+  <ul>
+    <li>Als Substantiv bedeutet es "Ding", "Sache" oder "Angelegenheit".</li>
+    <div class="examples">
+      <div class="jp">その<u>こと</u>について 話[はな]しましょう。</div>
+      <div class="de spoiler">Lass uns darüber sprechen.</div>
+    </div>
+
+    <li>Es wird verwendet, um Sätze oder Phrasen zu nominalisieren.</li>
+    <div class="examples">
+      <div class="jp">日本語[にほんご]を 勉強[べんきょう]する<u>こと</u>は 難[むずか]しい。</div>
+      <div class="de spoiler">Japanisch zu lernen ist schwierig.</div>
+    </div>
+
+    <li>In der Form ことがある drückt es eine Erfahrung aus.</li>
+    <div class="examples">
+      <div class="jp">富士山[ふじさん]に 登[のぼ]った<u>ことがあります</u>か。</div>
+      <div class="de spoiler">Bist du schon einmal auf den Mount Fuji gestiegen?</div>
+    </div>
+
+    <li>Nach Adjektiven in Attributivform wird es zur Adverbialisierung verwendet.</li>
+    <div class="examples">
+      <div class="jp">長[なが]い<u>こと</u> 待[ま]っていた。</div>
+      <div class="de spoiler">Ich habe lange gewartet.</div>
+    </div>
+
+    <li>Nach Steigerungsadverbien mit の dient es zur Emphase.</li>
+    <div class="examples">
+      <div class="jp">いっその<u>こと</u> 辞[や]めてしまおう。</div>
+      <div class="de spoiler">Ich höre einfach ganz auf.</div>
+    </div>
+
+    <li>Nach Nomina oder Pronomina bedeutet es "was ... betrifft".</li>
+    <div class="examples">
+      <div class="jp">私[わたし]<u>こと</u> 山田[やまだ]と 申[もう]します。</div>
+      <div class="de spoiler">Was mich betrifft, ich heiße Yamada.</div>
+    </div>
+
+    <li>Nach Pseudonymen oder Künstlernamen bedeutet es "eigentlich" oder "alias".</li>
+    <div class="examples">
+      <div class="jp">花子[はなこ]<u>こと</u> 田中[たなか]さんです。</div>
+      <div class="de spoiler">Das ist Frau Tanaka, alias Hanako.</div>
+    </div>
+
+    <li>In der Form ことに(は) nach Adjektiven oder Verben bedeutet es "-weise".</li>
+    <div class="examples">
+      <div class="jp">幸[さいわ]いな<u>ことに</u>、 雨[あめ]が 止[や]んだ。</div>
+      <div class="de spoiler">Glücklicherweise hat es aufgehört zu regnen.</div>
+    </div>
+
+    <li>Es kann eine Empfehlung oder einen Rat ausdrücken (ことだ).</li>
+    <div class="examples">
+      <div class="jp">早[はや]く 寝[ね]る<u>ことだ</u>。</div>
+      <div class="de spoiler">Du solltest früh ins Bett gehen.</div>
+    </div>
+
+    <li>In der Form ことはない bedeutet es, dass etwas nicht notwendig ist.</li>
+    <div class="examples">
+      <div class="jp">心配[しんぱい]する<u>ことはない</u>です。</div>
+      <div class="de spoiler">Du brauchst dir keine Sorgen zu machen.</div>
+    </div>
+
+    <li>In der Form だけのことはある bedeutet es "sich lohnen" oder "einen Wert haben".</li>
+    <div class="examples">
+      <div class="jp">高[たか]い<u>だけのことはある</u>商品[しょうひん]です。</div>
+      <div class="de spoiler">Es ist ein Produkt, das seinen Preis wert ist.</div>
+    </div>
+
+    <li>Es kann verwendet werden, um indirekte Rede auszudrücken (とのことだ oder ということだ).</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 来[こ]ない<u>とのことです</u>。</div>
+      <div class="de spoiler">Er sagt, er kommt nicht.</div>
+    </div>
+
+    <li>In der Form をこととする bedeutet es "sich etwas zur Aufgabe machen".</li>
+    <div class="examples">
+      <div class="jp">毎日[まいにち] 運動[うんどう]する<u>をこととする</u>。</div>
+      <div class="de spoiler">Ich mache es mir zur Aufgabe, jeden Tag Sport zu treiben.</div>
+    </div>
+
+    <li>In der Form ことは... kann es eine Einschränkung ausdrücken.</li>
+    <div class="examples">
+      <div class="jp">安[やす]い<u>ことは</u>安[やす]いが、 品質[ひんしつ]は 良[よ]くない。</div>
+      <div class="de spoiler">Es ist zwar billig, aber die Qualität ist nicht gut.</div>
+    </div>
+
+    <li>In der Form ことだし bedeutet es "außerdem".</li>
+    <div class="examples">
+      <div class="jp">忙[いそが]しい<u>ことだし</u>、 今日[きょう]は 行[い]かない。</div>
+      <div class="de spoiler">Ich bin beschäftigt, außerdem gehe ich heute nicht.</div>
+    </div>
+  </ul>

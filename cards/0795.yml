@@ -102,4 +102,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here's the grammatical note for 泣く in HTML format:
+
+  <p>泣[な]く ist ein intransitives Verb, das "weinen" oder "Tränen vergießen" bedeutet.</p>
+
+  <ul>
+    <li>Es wird in verschiedenen Kontexten verwendet:</li>
+    <div class="examples">
+      <div class="jp">赤[あか]ん坊[ぼう]が 泣[な]いている。</div>
+      <div class="de spoiler">Das Baby weint/schreit.</div>
+      <div class="jp">声[こえ]をあげて 泣[な]いてしまう。</div>
+      <div class="de spoiler">Laut losweinen.</div>
+    </div>
+
+    <li>Es kann auch im übertragenen Sinne verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">クレジットの 返済[へんさい]で 泣[な]く。</div>
+      <div class="de spoiler">Unter Kreditrückzahlungen leiden/stöhnen.</div>
+    </div>
+
+    <li>In der Form 泣[な]いてもらう wird es verwendet, um um Zugeständnisse zu bitten:</li>
+    <div class="examples">
+      <div class="jp">ここはひとつ一割[いちわり]ほど 泣[な]いてもらえまいか。</div>
+      <div class="de spoiler">Könnten Sie mir hier nicht vielleicht 10% entgegenkommen?</div>
+    </div>
+  </ul>
+
+  <p>Es gibt auch einige Redewendungen mit 泣[な]く:</p>
+
+  <ul>
+    <li><span class="jp">泣[な]いて 暮[く]らすも一生[いっしょう]、笑[わら]って 暮[く]らすも一生[いっしょう]</span>: Die Lebensspanne bleibt gleich, ob man sie weinend oder lachend verbringt.</li>
+
+    <li><span class="jp">泣[な]いても 笑[わら]っても</span>: Egal ob man weint oder lacht; so oder so.</li>
+
+    <li><span class="jp">泣[な]く 子[こ]も 黙[だま]る</span>: So viel Einfluss haben, dass selbst ein weinendes Kind aufhört zu weinen.</li>
+  </ul>
+
+  </p>

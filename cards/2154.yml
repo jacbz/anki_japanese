@@ -2,24 +2,123 @@ Rang: 2154
 Lemma: 絞る
 Lesung: しぼる
 Tonhöhen: /\.
-Definition: auspressen
-Alternativschreibweisen: ''
+Definition: auswringen; auspressen; eingrenzen
+Alternativschreibweisen: 搾る
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 絞らない・絞った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   このレモンを絞ってください。
   このレモンを 絞[しぼ]ってください。
-  Bitte den Saft aus dieser Zitrone auspressen.
+  Bitte presse diese Zitrone aus.
+
+  濡れた雑巾を絞って水を切ります。
+  濡[ぬ]れた 雑巾[ぞうきん]を 絞[しぼ]って 水[みず]を 切[き]ります。
+  Ich wringe den nassen Lappen aus und lasse das Wasser abtropfen.
+
+  塩を振ったキュウリを絞って水気を取り除きます。
+  塩[しお]を 振[ふ]ったキュウリを 絞[しぼ]って 水気[みずけ]を 取[と]り 除[のぞ]きます。
+  Ich drücke die gesalzenen Gurken aus, um die Feuchtigkeit zu entfernen.
+
+  新鮮な搾りたてのオレンジジュースを飲みたいな。
+  新鮮[しんせん]な 搾[しぼ]りたてのオレンジジュースを 飲[の]みたいな。
+  Ich möchte gerne frisch gepressten Orangensaft trinken.
+
+  母乳を搾って赤ちゃんに与えます。
+  母乳[ぼにゅう]を 搾[しぼ]って 赤[あか]ちゃんに 与[あた]えます。
+  Ich pumpe Muttermilch ab und gebe sie dem Baby.
+
+  ホイップクリームをケーキの上に絞って飾りつけしよう。
+  ホイップクリームをケーキの 上[うえ]に 絞[しぼ]って 飾[かざ]りつけしよう。
+  Lass uns geschlagene Sahne auf den Kuchen spritzen, um ihn zu dekorieren.
+
+  頭を絞って難しい問題の解決策を考えています。
+  頭[あたま]を 絞[しぼ]って 難[むずか]しい 問題[もんだい]の 解決策[かいけつさく]を 考[かんが]えています。
+  Ich zerbreche mir den Kopf, um eine Lösung für dieses schwierige Problem zu finden.
+
+  声を絞って助けを求めた。
+  声[こえ]を 絞[しぼ]って 助[たす]けを 求[もと]めた。
+  Ich schrie aus Leibeskräften um Hilfe.
+
+  悲しみのあまり、涙を絞って泣いた。
+  悲[かな]しみのあまり、涙[なみだ]を 絞[しぼ]って 泣[な]いた。
+  Voller Trauer vergoss ich Tränen und weinte.
+
+  音量を絞って、隣人に迷惑をかけないようにしましょう。
+  音量[おんりょう]を 絞[しぼ]って、隣人[りんじん]に 迷惑[めいわく]をかけないようにしましょう。
+  Lass uns die Lautstärke reduzieren, damit wir die Nachbarn nicht stören.
+
+  カメラのレンズを絞って、より深い被写界深度を得る。
+  カメラのレンズを 絞[しぼ]って、より 深[ふか]い 被写界深度[ひしゃかいしんど]を 得[え]る。
+  Ich schließe die Blende der Kamera, um eine größere Schärfentiefe zu erzielen.
+
+  袋の口を紐で絞って、中身が漏れないようにしました。
+  袋[ふくろ]の 口[くち]を 紐[ひも]で 絞[しぼ]って、中身[なかみ]が 漏[も]れないようにしました。
+  Ich habe die Öffnung des Beutels mit einer Schnur zugezogen, damit der Inhalt nicht ausläuft.
+
+  研究テーマを一つに絞って、集中的に取り組むことにした。
+  研究[けんきゅう]テーマを 一[ひと]つに 絞[しぼ]って、集中的[しゅうちゅうてき]に 取[と]り 組[く]むことにした。
+  Ich habe beschlossen, mich auf ein einziges Forschungsthema zu konzentrieren und intensiv daran zu arbeiten.
+
+  候補者を3人に絞って、最終面接を行います。
+  候補者[こうほしゃ]を3人[さんにん]に 絞[しぼ]って、最終面接[さいしゅうめんせつ]を 行[おこな]います。
+  Wir haben die Anzahl der Kandidaten auf drei begrenzt und werden nun die Endauswahlgespräche durchführen.
+
+  このドレスはウエストが絞られていて、体のラインがきれいに出ます。
+  このドレスはウエストが 絞[しぼ]られていて、体[からだ]のラインがきれいに 出[で]ます。
+  Dieses Kleid ist tailliert und betont schön die Körperlinien.
+
+  パイロットはエンジンを絞って、ゆっくりと着陸態勢に入った。
+  パイロットはエンジンを 絞[しぼ]って、ゆっくりと 着陸態勢[ちゃくりくたいせい]に 入[はい]った。
+  Der Pilot drosselte die Motoren und ging langsam in den Landeanflug über.
+
+  彼らは農民から過剰な税金を絞り取っていた。
+  彼[かれ]らは 農民[のうみん]から 過剰[かじょう]な 税金[ぜいきん]を 絞[しぼ]り 取[と]っていた。
+  Sie pressten den Bauern übermäßig hohe Steuern ab.
+
+  上司に厳しく絞られて、もう二度と同じミスを繰り返さないと誓った。
+  上司[じょうし]に 厳[きび]しく 絞[しぼ]られて、もう 二度[にど]と 同[おな]じミスを 繰[く]り 返[かえ]さないと 誓[ちか]った。
+  Nachdem mein Chef mich heftig zurechtgewiesen hatte, schwor ich, denselben Fehler nie wieder zu machen.
+
+  弓を最大限に絞って、的を狙います。
+  弓[ゆみ]を 最大限[さいだいげん]に 絞[しぼ]って、的[まと]を 狙[ねら]います。
+  Ich spanne den Bogen bis zum Anschlag und ziele auf die Scheibe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 絞る (しぼる) hat verschiedene Bedeutungen und Anwendungen:</p>
+  <p>1. Auswringen oder Auspressen:</p>
+  <div class="examples">
+    <div class="jp">濡[ぬ]れたタオルを 絞[しぼ]る。</div>
+    <div class="de spoiler">Ein nasses Handtuch auswringen.</div>
+  </div>
+  <p>2. Einengen oder Konzentrieren:</p>
+  <div class="examples">
+    <div class="jp">話題[わだい]を 一[ひと]つに 絞[しぼ]る。</div>
+    <div class="de spoiler">Das Thema auf einen Punkt eingrenzen.</div>
+  </div>
+  <p>3. Reduzieren oder Drosseln:</p>
+  <div class="examples">
+    <div class="jp">予算[よさん]を 絞[しぼ]る。</div>
+    <div class="de spoiler">Das Budget reduzieren.</div>
+  </div>
+  <p>4. Anstrengen (im übertragenen Sinne):</p>
+  <div class="examples">
+    <div class="jp">頭[あたま]を 絞[しぼ]って 考[かんが]える。</div>
+    <div class="de spoiler">Sich den Kopf zerbrechen.</div>
+  </div>
+  <p>5. Ausnützen oder Ausbeuten (in negativem Kontext):</p>
+  <div class="examples">
+    <div class="jp">従業員[じゅうぎょういん]から 利益[りえき]を 絞[しぼ]る。</div>
+    <div class="de spoiler">Die Angestellten ausbeuten.</div>
+  </div>
+  </p>

@@ -2,8 +2,8 @@ Rang: 4535
 Lemma: いささか
 Lesung: ''
 Tonhöhen: /^^^
-Definition: ein bisschen, leicht, eher
-Alternativschreibweisen: ''
+Definition: ein wenig, etwas
+Alternativschreibweisen: 聊か・些か
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
 Register: ''
@@ -14,8 +14,88 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   祖父はいささか気難しい。
-  祖父[そふ]はいささか 気難[きむずか]しい。
-  Mein Großvater ist eher schwierig zufriedenzustellen.
+  祖父[そふ]はいささか 気難[きむず]しい。
+  Mein Großvater ist etwas schwierig im Umgang.
+
+  この決定にはいささか問題がある。
+  この 決定[けってい]にはいささか 問題[もんだい]がある。
+  Es gibt ein paar Probleme mit dieser Entscheidung.
+
+  いささかの悪意もなく、冗談を言っただけです。
+  いささかの 悪意[あくい]もなく、冗談[じょうだん]を 言[い]っただけです。
+  Ich habe den Witz ohne jegliche böse Absicht gemacht.
+
+  いささかの事で大騒ぎするな。
+  いささかの 事[こと]で 大騒[おおさわ]ぎするな。
+  Mach kein großes Aufheben wegen einer Kleinigkeit.
+
+  旅費はいささか高くついた。
+  旅費[りょひ]はいささか 高[たか]くついた。
+  Die Reisekosten fielen etwas höher aus als erwartet.
+
+  いささかの心配もありません。
+  いささかの 心配[しんぱい]もありません。
+  Es besteht nicht der geringste Grund zur Sorge.
+
+  彼とはいささかの知り合いです。
+  彼[かれ]とはいささかの 知[し]り 合[あ]いです。
+  Ich kenne ihn nur flüchtig.
+
+  予想外の結果にいささか驚いた。
+  予想外[よそうがい]の 結果[けっか]にいささか 驚[おどろ]いた。
+  Ich war von dem unerwarteten Ergebnis ein wenig überrascht.
+
+  クラッチを踏んで、ギヤを低速に入れかえる。二十馬力の軽自動車には、この勾配はいささか負担が大きすぎた。
+  クラッチを 踏[ふ]んで、ギヤを 低速[ていそく]に 入[い]れかえる。二十馬力[にじゅうばりき]の 軽自動車[けいじどうしゃ]には、この 勾配[こうばい]はいささか 負担[ふたん]が 大[おお]きすぎた。
+  Ich trete die Kupplung und schalte in einen niedrigeren Gang. Die Steigung ist ein bisschen zu viel für die 20 PS meines Kleinwagens.
+
+  いささか、事態を甘く考えすぎていたようである。
+  いささか、事態[じたい]を 甘[あま]く 考[かんが]えすぎていたようである。
+  Ich war offenbar ein wenig zu optimistisch gewesen.
+
+  女帝は魚の大きさにいささかびっくりしました。
+  女帝[じょてい]は 魚[さかな]の 大[おお]きさにいささかびっくりしました。
+  Die Kaiserin war etwas überrascht von der Größe des Fisches.
+
+  いささかの遠慮もなく、彼は自分の意見を述べた。
+  いささかの 遠慮[えんりょ]もなく、彼[かれ]は 自分[じぶん]の 意見[いけん]を 述[の]べた。
+  Ohne das geringste Zögern äußerte er seine Meinung.
+
+  その提案にはいささか無理がある。
+  その 提案[ていあん]にはいささか 無理[むり]がある。
+  Dieser Vorschlag ist etwas unrealistisch.
+
+  彼の態度にはいささか不快なところがある。
+  彼[かれ]の 態度[たいど]にはいささか 不快[ふかい]なところがある。
+  Sein Verhalten ist ein wenig unangenehm.
+
+  いささかの疑いもなく、彼女を信じている。
+  いささかの 疑[うたが]いもなく、彼女[かのじょ]を 信[しん]じている。
+  Ich vertraue ihr ohne den geringsten Zweifel.
+
+  彼の説明はいささか長すぎる。
+  彼[かれ]の 説明[せつめい]はいささか 長[なが]すぎる。
+  Seine Erklärung ist ein bisschen zu lang.
+
+  いささかの後悔もなく、その決断を下した。
+  いささかの 後悔[こうかい]もなく、その 決断[けつだん]を 下[くだ]した。
+  Ich traf die Entscheidung ohne das geringste Bedauern.
+
+  彼の話し方はいささか古風だ。
+  彼[かれ]の 話[はな]し 方[かた]はいささか 古風[こふう]だ。
+  Seine Art zu sprechen ist etwas altmodisch.
+
+  いささかの躊躇もなく、彼女は申し出を受け入れた。
+  いささかの 躊躇[ちゅうちょ]もなく、彼女[かのじょ]は 申[もう]し 出[で]を 受[う]け 入[い]れた。
+  Sie nahm das Angebot ohne das geringste Zögern an.
+
+  実を申しますと、われわれはいささかの不安感をもってこの国を見ております。
+  実[じつ]を 申[もう]しますと、われわれはいささかの 不安感[ふあんかん]をもってこの 国[くに]を 見[み]ております。
+  Offen gesagt betrachten wir dieses Land mit einer gewissen Besorgnis.
+
+  この問題に関しては、いささかの知識もありません。
+  この 問題[もんだい]に 関[かん]しては、いささかの 知識[ちしき]もありません。
+  Ich habe nicht die geringste Kenntnis über dieses Problem.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

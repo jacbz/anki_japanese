@@ -2,20 +2,100 @@ Rang: 2103
 Lemma: 襲う
 Lesung: おそう
 Tonhöhen: /^^
-Definition: angreifen, schlagen; ergreifen
+Definition: überfallen, angreifen; überkommen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 襲わない・襲った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   昨夜女性が三人の男に襲われた。
-  昨夜[さくや] 女性[じょせい]が三人の 男[おとこ]に 襲[おそ]われた。
-  Eine Frau wurde gestern Nacht von drei Männern angegriffen.
+  昨夜[さくや] 女性[じょせい]が 三人[さんにん]の 男[おとこ]に 襲[おそ]われた。
+  Letzte Nacht wurde eine Frau von drei Männern überfallen.
+
+  強盗が銀行を襲った。
+  強盗[ごうとう]が 銀行[ぎんこう]を 襲[おそ]った。
+  Räuber haben eine Bank überfallen.
+
+  突然の頭痛に襲われた。
+  突然[とつぜん]の 頭痛[ずつう]に 襲[おそ]われた。
+  Ich wurde von plötzlichen Kopfschmerzen heimgesucht.
+
+  台風が東京を襲う可能性がある。
+  台風[たいふう]が 東京[とうきょう]を 襲[おそ]う 可能性[かのうせい]がある。
+  Es besteht die Möglichkeit, dass ein Taifun Tokio heimsucht.
+
+  彼は恐怖に襲われて動けなくなった。
+  彼[かれ]は 恐怖[きょうふ]に 襲[おそ]われて 動[うご]けなくなった。
+  Er wurde von Angst ergriffen und konnte sich nicht mehr bewegen.
+
+  ライオンは獲物を襲う瞬間を待っていた。
+  ライオンは 獲物[えもの]を 襲[おそ]う 瞬間[しゅんかん]を 待[ま]っていた。
+  Der Löwe wartete auf den Moment, um seine Beute anzugreifen.
+
+  深夜、突然の眠気に襲われた。
+  深夜[しんや]、突然[とつぜん]の 眠気[ねむけ]に 襲[おそ]われた。
+  Mitten in der Nacht wurde ich plötzlich von Müdigkeit übermannt.
+
+  彼らは敵の不意を襲って勝利を収めた。
+  彼[かれ]らは 敵[てき]の 不意[ふい]を 襲[おそ]って 勝利[しょうり]を 収[おさ]めた。
+  Sie überraschten den Feind mit einem Überraschungsangriff und errangen den Sieg.
+
+  強い寂しさに襲われて泣き出した。
+  強[つよ]い 寂[さび]しさに 襲[おそ]われて 泣[な]き 出[だ]した。
+  Ich wurde von einem überwältigenden Gefühl der Einsamkeit ergriffen und begann zu weinen.
+
+  予期せぬ質問に襲われて、答えに窮した。
+  予期[よき]せぬ 質問[しつもん]に 襲[おそ]われて、答[こた]えに 窮[きゅう]した。
+  Ich wurde von einer unerwarteten Frage überrumpelt und wusste nicht, wie ich antworten sollte.
+
+  ハッカーが企業のシステムを襲った。
+  ハッカーが 企業[きぎょう]のシステムを 襲[おそ]った。
+  Hacker griffen das System des Unternehmens an.
+
+  彼は父親の跡を襲って会社を継いだ。
+  彼[かれ]は 父親[ちちおや]の 跡[あと]を 襲[おそ]って 会社[かいしゃ]を 継[つ]いだ。
+  Er trat in die Fußstapfen seines Vaters und übernahm das Unternehmen.
+
+  虎も獅子も狼の群れも、普通は人を襲ったりしない。
+  虎[とら]も 獅子[しし]も 狼[おおかみ]の 群[む]れも、普通[ふつう]は 人[ひと]を 襲[おそ]ったりしない。
+  Weder Tiger noch Löwen oder Wolfsrudel greifen normalerweise Menschen an.
+
+  野原のど真ん中で激しい雨に襲われた。
+  野原[のはら]のど 真[ま]ん 中[なか]で 激[はげ]しい 雨[あめ]に 襲[おそ]われた。
+  Wir wurden mitten auf dem Feld von heftigem Regen überrascht.
+
+  異国にいる寂しさに突然襲われた。
+  異国[いこく]にいる 寂[さび]しさに 突然[とつぜん] 襲[おそ]われた。
+  Plötzlich wurde ich von dem Gefühl der Einsamkeit in einem fremden Land überwältigt.
+
+  奇妙な感想が彼を襲った。
+  奇妙[きみょう]な 感想[かんそう]が 彼[かれ]を 襲[おそ]った。
+  Ein seltsamer Gedanke überkam ihn.
+
+  彼は友人宅を突然襲って驚かせた。
+  彼[かれ]は 友人宅[ゆうじんたく]を 突然[とつぜん] 襲[おそ]って 驚[おどろ]かせた。
+  Er stattete seinem Freund einen überraschenden Besuch ab und erschreckte ihn.
+
+  彼女は名跡を襲って家業を継いだ。
+  彼女[かのじょ]は 名跡[みょうせき]を 襲[おそ]って 家業[かぎょう]を 継[つ]いだ。
+  Sie führte den Familiennamen weiter und übernahm das Familiengeschäft.
+
+  新しい社長が前任者の地位を襲った。
+  新[あたら]しい 社長[しゃちょう]が 前任者[ぜんにんしゃ]の 地位[ちい]を 襲[おそ]った。
+  Der neue Präsident übernahm die Position seines Vorgängers.
+
+  彼はコルネリウスの後を襲って大統領になった。
+  彼[かれ]は コルネリウスの 後[あと]を 襲[おそ]って 大統領[だいとうりょう]になった。
+  Er trat Cornelius' Nachfolge an und wurde Präsident.
+
+  深い悲しみが彼女を襲った。
+  深[ふか]い 悲[かな]しみが 彼女[かのじょ]を 襲[おそ]った。
+  Tiefe Traurigkeit überkam sie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

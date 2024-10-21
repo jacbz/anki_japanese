@@ -102,4 +102,46 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>こちら ist ein vielseitiges Pronomen mit folgenden Hauptbedeutungen:</p>
+
+  <ul>
+    <li>Es bezieht sich auf einen Ort oder eine Person in der Nähe des Sprechers:</li>
+    <div class="examples">
+      <div class="jp"><u>こちら</u>へどうぞ。</div>
+      <div class="de spoiler">Bitte kommen Sie hierher. / Bitte kommen Sie mit.</div>
+    </div>
+
+    <li>Es kann auch "diese Person" oder "dieser Herr/diese Dame" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>こちら</u>は 落[おち]ち 着[つ]いた 声音[こわね]で 今井[いまい]が 問[と]うた。</div>
+      <div class="de spoiler">"Wer ist das bitte?", fragte Imai in ruhigem Ton.</div>
+    </div>
+
+    <li>Mit の kann es "hiesig" oder "diesseitig" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>こちら</u>の 正門[せいもん]と 相対[あいたい]して 立[た]ち</div>
+      <div class="de spoiler">Dem diesseitigen Haupttor gegenüberstehend</div>
+    </div>
+
+    <li>Es kann sich auf die sprechende Person selbst beziehen (ich/wir):</li>
+    <div class="examples">
+      <div class="jp"><u>こちら</u>から 電話[でんわ]します。</div>
+      <div class="de spoiler">Ich rufe Sie an.</div>
+      <div class="jp"><u>こちら</u>こそありがとう。</div>
+      <div class="de spoiler">Der Dank ist ganz meinerseits. / Ich danke Ihnen.</div>
+    </div>
+
+    <li>Mit の kann es auch "eigen", "mein" oder "unser" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"> 勝利[しょうり]は<u>こちら</u>のものだ。</div>
+      <div class="de spoiler">Der Sieg gehört uns. / Der Sieg ist unser.</div>
+    </div>
+
+    <li>In der Form ⋯から<u>こちら</u> kann es "seit" oder "nach" bedeuten:</li>
+    <div class="examples">
+      <div class="jp"> 戦争[せんそう]から<u>こちら</u></div>
+      <div class="de spoiler">seit dem Krieg; nach dem Krieg</div>
+    </div>
+  </ul>
+  </p>

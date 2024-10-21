@@ -22,4 +22,32 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>嫌[きら]う ist ein transitives Verb, das verschiedene negative Gefühle ausdrückt.</p>
+  <ul>
+    <li>Es bedeutet hauptsächlich "nicht mögen", "nicht leiden können" oder "hassen":</li>
+    <div class="examples">
+      <div class="jp">パートタイマーたちに<u>嫌[きら]われている</u>。</div>
+      <div class="de spoiler">Er wird von den Teilzeitarbeitern gehasst.</div>
+      <div class="jp">従妹[いとこ]を 愛[あい]していないだけで、<u>きらって</u>はいなかったのです。</div>
+      <div class="de spoiler">Ich habe meine Cousine nicht geliebt, sie war mir aber auch nicht zuwider.</div>
+    </div>
+    <li>Es kann auch "vermeiden" oder "aus dem Weg gehen" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">葬式[そうしき]は 友引[ともびき]の 日[ひ]を<u>嫌[きら]う</u>。</div>
+      <div class="de spoiler">Für eine Beerdigung vermeidet man den Tomobiki-Tag.</div>
+    </div>
+    <li>In der Form 嫌[きら]わず bedeutet es "ohne Unterschied zu machen" oder "ungeachtet":</li>
+    <div class="examples">
+      <div class="jp">相手[あいて]<u>きらわず</u> 論争[ろんそう]を 挑[いど]む。</div>
+      <div class="de spoiler">Mit jedem Streit anfangen.</div>
+      <div class="jp">所[ところ]<u>きらわず</u> 寝[ね]てしまう。</div>
+      <div class="de spoiler">Überall schlafen (können).</div>
+    </div>
+  </ul>
+  <p>Die Verbformen sind:</p>
+  <ul>
+    <li>Negativ: 嫌[きら]わない (kirawanai)</li>
+    <li>Vergangenheit: 嫌[きら]った (kiratta)</li>
+  </ul>
+  </p>

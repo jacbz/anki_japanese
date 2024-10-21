@@ -98,4 +98,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb <span class="jp">曲[ま]がる</span> hat mehrere Bedeutungen:</p>
+
+  <ul>
+    <li>sich biegen, eine Kurve machen</li>
+    <div class="examples">
+      <div class="jp">道[みち]<u>が</u> 曲[ま]がっている。</div>
+      <div class="de spoiler">Die Straße macht einen Bogen.</div>
+    </div>
+
+    <li>sich krümmen, krumm werden</li>
+    <div class="examples">
+      <div class="jp">針金[はりがね]の 先端[せんたん]<u>が</u> 少[すこ]し 曲[ま]がった。</div>
+      <div class="de spoiler">Die Spitze des Drahtes hat sich leicht verbogen.</div>
+    </div>
+
+    <li>abbiegen, um eine Ecke biegen</li>
+    <div class="examples">
+      <div class="jp">左[ひだり]に 曲[ま]がる。</div>
+      <div class="de spoiler">Nach links abbiegen.</div>
+    </div>
+
+    <li>sich verziehen, schief werden</li>
+    <div class="examples">
+      <div class="jp">蝶[ちょう]タイ<u>が</u> 曲[ま]がっている。</div>
+      <div class="de spoiler">Die Fliege sitzt schief.</div>
+    </div>
+
+    <li>im übertragenen Sinne: von der Norm abweichen, verdreht oder verschroben sein</li>
+    <div class="examples">
+      <div class="jp">心[こころ]<u>が</u> 曲[ま]がって 育[そだ]った。</div>
+      <div class="de spoiler">Mit verschrobenen Ideen aufgewachsen sein.</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie diese festen Ausdrücke:</p>
+  <ul>
+    <li><span class="jp">鼻[はな]<u>が</u> 曲[ま]がる</span>: eine Abneigung entwickeln</li>
+    <li><span class="jp">口[くち]<u>が</u> 曲[ま]がる</span>: den Mund verziehen</li>
+    <li><span class="jp">曲[ま]がった 釜[かま]には 曲[ま]がった 甑[こしき]</span>: Auf jeden Topf passt ein Deckel</li>
+  </ul>

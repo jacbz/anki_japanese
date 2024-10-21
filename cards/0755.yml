@@ -98,4 +98,26 @@ Beispielsätze: |
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>詳[くわ]しい ist ein い-Adjektiv mit zwei Hauptbedeutungen:</p>
+
+  <ol>
+    <li>ausführlich, detailliert, genau</li>
+    <div class="examples">
+      <div class="jp">詳[くわ]しい 事[こと]は 言[い]いますまい。</div>
+      <div class="de spoiler">Über Einzelheiten werde ich mich nicht äußern.</div>
+      <div class="jp">詳[くわ]しく 説明[せつめい]した。</div>
+      <div class="de spoiler">Er/Sie erklärte es detailliert.</div>
+    </div>
+
+    <li>sich gut auskennen mit etwas (in der Form ⋯に詳[くわ]しい)</li>
+    <div class="examples">
+      <div class="jp">東京[とうきょう]の 地理[ちり]に<u>詳[くわ]しい</u> 運転手[うんてんしゅ]</div>
+      <div class="de spoiler">Ein Fahrer, der sich in der Geographie Tokyos gut auskennt.</div>
+      <div class="jp">僕[ぼく]は 職業柄[しょくぎょうがら]、塗料[とりょう]には<u>詳[くわ]しい</u>。</div>
+      <div class="de spoiler">Berufsbedingt kenne ich mich mit Farben aus.</div>
+    </div>
+  </ol>
+
+  <p>Beachten Sie, dass 詳[くわ]しい oft mit に verwendet wird, um das Gebiet oder Thema anzugeben, in dem jemand Expertise hat.</p>
+  </p>

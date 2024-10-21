@@ -2,7 +2,7 @@ Rang: 2136
 Lemma: 料金
 Lesung: りょうきん
 Tonhöhen: ^\...
-Definition: Gebühr, Preis, Tarif
+Definition: Gebühr, Preis
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   料金は着いてから払ってください。
   料金[りょうきん]は 着[つ]いてから 払[はら]ってください。
-  Bezahlen Sie Ihre Gebühr, wenn Sie dort ankommen.
+  Bitte zahlen Sie die Gebühr nach der Ankunft.
+
+  高速道路の料金所で支払いを済ませました。
+  高速道路[こうそくどうろ]の 料金所[りょうきんじょ]で 支払[しはら]いを 済[す]ませました。
+  Ich habe die Zahlung an der Autobahnmautstelle erledigt.
+
+  駐車料金が高すぎて、別の場所に停めることにした。
+  駐車料金[ちゅうしゃりょうきん]が 高[たか]すぎて、別[べつ]の 場所[ばしょ]に 停[と]めることにした。
+  Die Parkgebühren waren zu hoch, also beschloss ich, woanders zu parken.
+
+  電話料金の支払いを忘れないでください。
+  電話料金[でんわりょうきん]の 支払[しはら]いを 忘[わす]れないでください。
+  Vergessen Sie bitte nicht, die Telefongebühren zu bezahlen.
+
+  基本料金に追加料金が加算されることがあります。
+  基本料金[きほんりょうきん]に 追加料金[ついかりょうきん]が 加算[かさん]されることがあります。
+  Zur Grundgebühr können zusätzliche Gebühren hinzukommen.
+
+  子供料金で入場できるのは12歳未満です。
+  子供料金[こどもりょうきん]で 入場[にゅうじょう]できるのは12歳[さい] 未満[みまん]です。
+  Kinder unter 12 Jahren können zum Kindertarif eintreten.
+
+  大人料金と子供料金の差額を返金いたします。
+  大人料金[おとなりょうきん]と 子供料金[こどもりょうきん]の 差額[さがく]を 返金[へんきん]いたします。
+  Wir erstatten Ihnen die Differenz zwischen dem Erwachsenen- und dem Kindertarif.
+
+  郵便料金が値上がりして、手紙を出すのが少し高くなりました。
+  郵便料金[ゆうびんりょうきん]が 値上[ねあ]がりして、手紙[てがみ]を 出[だ]すのが 少[すこ]し 高[たか]くなりました。
+  Das Porto ist gestiegen, sodass es etwas teurer geworden ist, Briefe zu verschicken.
+
+  この施設の利用料金が高いと思いませんか？
+  この 施設[しせつ]の 利用料金[りようりょうきん]が 高[たか]いと 思[おも]いませんか？
+  Finden Sie nicht, dass die Nutzungsgebühren für diese Einrichtung hoch sind?
+
+  料金を支払わずに退出しようとする人がいて、困っています。
+  料金[りょうきん]を 支払[しはら]わずに 退出[たいしゅつ]しようとする 人[ひと]がいて、困[こま]っています。
+  Wir haben Probleme mit Leuten, die versuchen, ohne Bezahlung der Gebühr zu gehen.
+
+  料金表をよく確認してから、サービスを利用してください。
+  料金表[りょうきんひょう]をよく 確認[かくにん]してから、サービスを 利用[りよう]してください。
+  Bitte überprüfen Sie die Preistafel sorgfältig, bevor Sie den Service in Anspruch nehmen.
+
+  学生は料金割引の対象になります。
+  学生[がくせい]は 料金割引[りょうきんわりびき]の 対象[たいしょう]になります。
+  Studenten haben Anspruch auf eine Ermäßigung.
+
+  料金引き上げについて、お客様にご理解いただきたいと思います。
+  料金引[りょうきんひ]き 上[あ]げについて、お 客様[きゃくさま]にご 理解[りかい]いただきたいと 思[おも]います。
+  Wir hoffen auf das Verständnis unserer Kunden bezüglich der Gebührenerhöhung.
+
+  経済状況を考慮して、料金引き下げを検討しています。
+  経済状況[けいざいじょうきょう]を 考慮[こうりょ]して、料金引[りょうきんひ]き 下[さ]げを 検討[けんとう]しています。
+  Unter Berücksichtigung der wirtschaftlichen Lage erwägen wir eine Gebührensenkung.
+
+  特別な事情がある場合は、料金免除の申請ができます。
+  特別[とくべつ]な 事情[じじょう]がある 場合[ばあい]は、料金免除[りょうきんめんじょ]の 申請[しんせい]ができます。
+  Bei besonderen Umständen können Sie einen Antrag auf Gebührenbefreiung stellen.
+
+  新しいサービスの料金体系について説明します。
+  新[あたら]しいサービスの 料金体系[りょうきんたいけい]について 説明[せつめい]します。
+  Ich werde die Gebührenstruktur für den neuen Service erläutern.
+
+  この料金で十分な品質のサービスが提供できるか心配です。
+  この 料金[りょうきん]で 十分[じゅうぶん]な 品質[ひんしつ]のサービスが 提供[ていきょう]できるか 心配[しんぱい]です。
+  Ich bin besorgt, ob wir zu diesem Preis einen Service von ausreichender Qualität anbieten können.
+
+  料金所で渋滞が発生しているので、迂回路を使ってください。
+  料金所[りょうきんじょ]で 渋滞[じゅうたい]が 発生[はっせい]しているので、迂回路[うかいろ]を 使[つか]ってください。
+  An der Mautstelle gibt es einen Stau, bitte benutzen Sie die Umleitung.
+
+  延長料金が発生しないよう、返却時間を守ってください。
+  延長料金[えんちょうりょうきん]が 発生[はっせい]しないよう、返却時間[へんきゃくじかん]を 守[まも]ってください。
+  Bitte halten Sie die Rückgabezeit ein, um zusätzliche Gebühren zu vermeiden.
+
+  七十円の料金を払い、スタンプ入りの受領証を財布にはさんだ。
+  七十[ななじゅう]円[えん]の 料金[りょうきん]を 払[はら]い、スタンプ 入[い]りの 受領証[じゅりょうしょう]を 財布[さいふ]にはさんだ。
+  Ich zahlte siebzig Yen Gebühr und steckte die gestempelte Quittung in meine Brieftasche.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -98,4 +98,37 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>休[やす]み wird verwendet, um verschiedene Arten von Pausen oder Ruhezeiten auszudrücken.</p>
+  <ul>
+    <li>Es kann eine kurze Pause oder Rast bedeuten:</li>
+    <div class="examples">
+      <div class="jp">休[やす]み 時間[じかん]に 空手[からて]の 初歩[しょほ]を 教[おし]えてもらった。</div>
+      <div class="de spoiler">In den Pausen ließ ich mir die Grundlagen des Karate beibringen.</div>
+    </div>
+    <li>Es bezeichnet auch längere Zeiträume wie Ferien oder Urlaub:</li>
+    <div class="examples">
+      <div class="jp">冬[ふゆ]<u>休み</u>、バンコックにでも 行[い]こうかなあ。</div>
+      <div class="de spoiler">Vielleicht sollte ich in den Winterferien nach Bangkok fahren.</div>
+    </div>
+    <li>Es kann einen schulfreien Tag oder das Fehlen in der Schule ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">明日[あした]は 学校[がっこう]は<u>休み</u>だ。</div>
+      <div class="de spoiler">Morgen ist schulfrei.</div>
+      <div class="jp">橋本[はしもと]君[くん]は<u>休み</u>です。</div>
+      <div class="de spoiler">Hashimoto-kun fehlt heute.</div>
+    </div>
+    <li>In der Form お<u>休み</u> kann es auch "Schlafen" oder "Nachtruhe" bedeuten.</li>
+  </ul>
+  <p>休[やす]み kann auch in Komposita verwendet werden:</p>
+  <ul>
+    <li>休[やす]み 場[ば]: Rastplatz</li>
+    <li>休[やす]み 日[び]: Ruhetag, Feiertag</li>
+    <li>夏[なつ]<u>休み</u>: Sommerferien</li>
+  </ul>
+  <p>In einigen Kontexten kann 休[やす]み auch "ohne Unterbrechung" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">休[やす]みなく 行[おこな]なわれていることに、ある 着実[ちゃくじつ]なものが 感[かん]じられた。</div>
+    <div class="de spoiler">In diesem pausenlosen Dahinstapfen war etwas durchaus Ernsthaftes zu spüren.</div>
+  </div>
+  </p>

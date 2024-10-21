@@ -2,7 +2,7 @@ Rang: 2134
 Lemma: 資金
 Lesung: しきん
 Tonhöhen: /\.
-Definition: Fonds
+Definition: finanzielle Mittel, Kapital
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   資金が足りなかったため、計画は失敗してしまった。
-  資金[しきん]が 足[た]りなかったため、 計画[けいかく]は 失敗[しっぱい]してしまった。
-  Unser Projekt scheiterte an den fehlenden Mitteln.
+  資金[しきん]が 足[た]りなかったため、計画[けいかく]は 失敗[しっぱい]してしまった。
+  Wegen mangelnder finanzieller Mittel scheiterte der Plan.
+
+  新事業のための資金集めが難航している。
+  新[しん]事業[じぎょう]のための 資金集[しきんあつ]めが 難航[なんこう]している。
+  Die Mittelbeschaffung für das neue Geschäft gestaltet sich schwierig.
+
+  会社の資金部は予算管理を厳しく行っている。
+  会社[かいしゃ]の 資金部[しきんぶ]は 予算[よさん]管理[かんり]を 厳[きび]しく 行[おこな]っている。
+  Die Finanzabteilung des Unternehmens führt eine strenge Budgetkontrolle durch.
+
+  政府は中小企業への資金注入を決定した。
+  政府[せいふ]は 中小企業[ちゅうしょうきぎょう]への 資金注入[しきんちゅうにゅう]を 決定[けってい]した。
+  Die Regierung beschloss eine Finanzspritze für kleine und mittlere Unternehmen.
+
+  NPOは発展途上国への資金援助を行っています。
+  NPOは 発展途上国[はってんとじょうこく]への 資金援助[しきんえんじょ]を 行[おこな]っています。
+  Die NGO leistet finanzielle Unterstützung für Entwicklungsländer.
+
+  銀行は顧客の資金移動業務を担当している。
+  銀行[ぎんこう]は 顧客[こきゃく]の 資金移動[しきんいどう]業務[ぎょうむ]を 担当[たんとう]している。
+  Die Bank ist für die Finanztransfergeschäfte der Kunden zuständig.
+
+  日本銀行は定期的に資金循環統計を発表する。
+  日本銀行[にっぽんぎんこう]は 定期的[ていきてき]に 資金循環統計[しきんじゅんかんとうけい]を 発表[はっぴょう]する。
+  Die Bank of Japan veröffentlicht regelmäßig Kapitalflussstatistiken.
+
+  景気回復に伴い、企業の資金需要が増加している。
+  景気[けいき]回復[かいふく]に 伴[ともな]い、企業[きぎょう]の 資金需要[しきんじゅよう]が 増加[ぞうか]している。
+  Mit der Konjunkturerholung steigt der Kapitalbedarf der Unternehmen.
+
+  この債券を資金化して、急な出費に充てた。
+  この 債券[さいけん]を 資金化[しきんか]して、急[きゅう]な 出費[しゅっぴ]に 充[あ]てた。
+  Ich löste diese Anleihe ein, um unerwartete Ausgaben zu decken.
+
+  政治家の資金管理団体の透明性が問われている。
+  政治家[せいじか]の 資金管理団体[しきんかんりだんたい]の 透明性[とうめいせい]が 問[と]われている。
+  Die Transparenz der Spendenverwaltungsorganisationen von Politikern wird in Frage gestellt.
+
+  この会社は資金効率を重視した経営を行っている。
+  この 会社[かいしゃ]は 資金効率[しきんこうりつ]を 重視[じゅうし]した 経営[けいえい]を 行[おこな]っている。
+  Dieses Unternehmen legt Wert auf eine kapitaleffiziente Geschäftsführung.
+
+  プロジェクトの資金面で問題が生じている。
+  プロジェクトの 資金面[しきんめん]で 問題[もんだい]が 生[しょう]じている。
+  Es gibt Probleme bei der Finanzierung des Projekts.
+
+  スタートアップ企業は資金難に直面することが多い。
+  スタートアップ企業[きぎょう]は 資金難[しきんなん]に 直面[ちょくめん]することが 多[おお]い。
+  Startup-Unternehmen sehen sich oft finanziellen Schwierigkeiten gegenüber.
+
+  当社の資金ポジションは安定しています。
+  当社[とうしゃ]の 資金[しきん]ポジションは 安定[あんてい]しています。
+  Die Finanzlage unseres Unternehmens ist stabil.
+
+  この企業は資金力が強く、大型の投資も可能だ。
+  この 企業[きぎょう]は 資金力[しきんりょく]が 強[つよ]く、大型[おおがた]の 投資[とうし]も 可能[かのう]だ。
+  Dieses Unternehmen hat eine starke Finanzstärke und kann auch große Investitionen tätigen.
+
+  当局は資金洗浄の疑いがある取引を調査している。
+  当局[とうきょく]は 資金洗浄[しきんせんじょう]の 疑[うたが]いがある 取引[とりひき]を 調査[ちょうさ]している。
+  Die Behörden untersuchen Transaktionen, die der Geldwäsche verdächtig sind.
+
+  資金ショートを避けるため、キャッシュフロー管理が重要だ。
+  資金[しきん]ショートを 避[さ]けるため、キャッシュフロー管理[かんり]が 重要[じゅうよう]だ。
+  Um Geldmittelknappheit zu vermeiden, ist ein gutes Cashflow-Management wichtig.
+
+  政府は新産業への資金投入を増やす方針だ。
+  政府[せいふ]は 新[しん]産業[さんぎょう]への 資金投入[しきんとうにゅう]を 増[ふ]やす 方針[ほうしん]だ。
+  Die Regierung plant, die Investitionen in neue Industriezweige zu erhöhen.
+
+  彼は自己資金で起業したが、すぐに行き詰まってしまった。
+  彼[かれ]は 自己資金[じこしきん]で 起業[きぎょう]したが、すぐに 行[い]き 詰[つ]まってしまった。
+  Er gründete sein Unternehmen mit Eigenkapital, geriet aber schnell in Schwierigkeiten.
+
+  開業資金が不足しているため、銀行からの融資を検討している。
+  開業資金[かいぎょうしきん]が 不足[ふそく]しているため、銀行[ぎんこう]からの 融資[ゆうし]を 検討[けんとう]している。
+  Da das Startkapital nicht ausreicht, erwäge ich einen Kredit bei der Bank.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,20 +2,96 @@ Rang: 3371
 Lemma: 引き取る
 Lesung: ひきとる
 Tonhöhen: (/)^\.
-Definition: abholen; zurücknehmen
+Definition: entgegennehmen; (ver)sterben; weggehen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 引き取らない・引き取った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   フロントへ預けた荷物を引き取りに行く。
   フロントへ 預[あず]けた 荷物[にもつ]を 引[ひ]き 取[と]りに 行[い]く。
-  Ich werde zum Empfang gehen, um das Gepäck abzuholen, das ich dort gelassen habe.
+  Ich gehe zum Empfang, um mein dort abgegebenes Gepäck abzuholen.
+
+  不良品を引き取って返金してもらった。
+  不良品[ふりょうひん]を 引[ひ]き 取[と]って 返金[へんきん]してもらった。
+  Ich habe die mangelhafte Ware zurückgegeben und eine Rückerstattung erhalten.
+
+  彼女は孤児を引き取って育てることにした。
+  彼女[かのじょ]は 孤児[こじ]を 引[ひ]き 取[と]って 育[そだ]てることにした。
+  Sie beschloss, ein Waisenkind aufzunehmen und großzuziehen.
+
+  「その話は後で引き取らせていただきます」と司会者は言った。
+  「その 話[はなし]は 後[あと]で 引[ひ]き 取[と]らせていただきます」と 司会者[しかいしゃ]は 言[い]った。
+  "Ich werde dieses Thema später wieder aufgreifen", sagte der Moderator.
+
+  警察は事故現場から遺体を引き取った。
+  警察[けいさつ]は 事故現場[じこげんば]から 遺体[いたい]を 引[ひ]き 取[と]った。
+  Die Polizei hat den Leichnam vom Unfallort entfernt.
+
+  その老人は最後の息を引き取った。
+  その 老人[ろうじん]は 最後[さいご]の 息[いき]を 引[ひ]き 取[と]った。
+  Der alte Mann tat seinen letzten Atemzug.
+
+  父は病院で静かに息を引き取った。
+  父[ちち]は 病院[びょういん]で 静[しず]かに 息[いき]を 引[ひ]き 取[と]った。
+  Mein Vater verstarb friedlich im Krankenhaus.
+
+  「もう遅いので、そろそろ引き取らせていただきます」と彼は言った。
+  「もう 遅[おそ]いので、そろそろ 引[ひ]き 取[と]らせていただきます」と 彼[かれ]は 言[い]った。
+  "Es ist schon spät, ich werde mich jetzt verabschieden", sagte er.
+
+  警察が来たので、不審者はすぐに引き取った。
+  警察[けいさつ]が 来[き]たので、不審者[ふしんしゃ]はすぐに 引[ひ]き 取[と]った。
+  Als die Polizei kam, zog sich der Verdächtige sofort zurück.
+
+  「お引き取りください」と店主は迷惑な客に言った。
+  「お 引[ひ]き 取[と]りください」と 店主[てんしゅ]は 迷惑[めいわく]な 客[きゃく]に 言[い]った。
+  "Bitte verlassen Sie das Geschäft", sagte der Ladenbesitzer zu dem lästigen Kunden.
+
+  彼らは議論を引き取って、さらに深く掘り下げた。
+  彼[かれ]らは 議論[ぎろん]を 引[ひ]き 取[と]って、さらに 深[ふか]く 掘[ほ]り 下[さ]げた。
+  Sie griffen die Diskussion auf und vertieften sie weiter.
+
+  祖父は最期の言葉を残して静かに息を引き取った。
+  祖父[そふ]は 最期[さいご]の 言葉[ことば]を 残[のこ]して 静[しず]かに 息[いき]を 引[ひ]き 取[と]った。
+  Mein Großvater sprach seine letzten Worte und hauchte dann still sein Leben aus.
+
+  引き取り手のない商品は処分されることになった。
+  引[ひ]き 取[と]り 手[て]のない 商品[しょうひん]は 処分[しょぶん]されることになった。
+  Die Waren, die niemand abholte, sollten entsorgt werden.
+
+  彼女は友人の遺言に従って、その犬を引き取った。
+  彼女[かのじょ]は 友人[ゆうじん]の 遺言[ゆいごん]に 従[したが]って、その 犬[いぬ]を 引[ひ]き 取[と]った。
+  Sie nahm den Hund zu sich, wie es der letzte Wille ihres Freundes war.
+
+  「そろそろ引き取らせていただきます」と彼は丁寧に挨拶して帰った。
+  「そろそろ 引[ひ]き 取[と]らせていただきます」と 彼[かれ]は 丁寧[ていねい]に 挨拶[あいさつ]して 帰[かえ]った。
+  "Ich werde mich nun verabschieden", sagte er höflich und ging nach Hause.
+
+  彼は議論を上手に引き取って、場の雰囲気を和らげた。
+  彼[かれ]は 議論[ぎろん]を 上手[じょうず]に 引[ひ]き 取[と]って、場[ば]の 雰囲気[ふんいき]を 和[やわ]らげた。
+  Er griff geschickt die Diskussion auf und entspannte die Atmosphäre im Raum.
+
+  引き取り手のない動物たちを保護施設が引き取った。
+  引[ひ]き 取[と]り 手[て]のない 動物[どうぶつ]たちを 保護施設[ほごしせつ]が 引[ひ]き 取[と]った。
+  Die Tiere, die niemand wollte, wurden von einer Schutzeinrichtung aufgenommen.
+
+  彼は最後の言葉を引き取ると、静かに目を閉じた。
+  彼[かれ]は 最後[さいご]の 言葉[ことば]を 引[ひ]き 取[と]ると、静[しず]かに 目[め]を 閉[と]じた。
+  Nachdem er seine letzten Worte gesprochen hatte, schloss er ruhig die Augen.
+
+  「もう遅いので引き取らせていただきます」と彼は礼儀正しく言った。
+  「もう 遅[おそ]いので 引[ひ]き 取[と]らせていただきます」と 彼[かれ]は 礼儀正[れいぎただ]しく 言[い]った。
+  "Da es schon spät ist, werde ich mich nun verabschieden", sagte er höflich.
+
+  彼女は亡くなった友人の子供を引き取って育てることを決意した。
+  彼女[かのじょ]は 亡[な]くなった 友人[ゆうじん]の 子供[こども]を 引[ひ]き 取[と]って 育[そだ]てることを 決意[けつい]した。
+  Sie beschloss, das Kind ihres verstorbenen Freundes aufzunehmen und großzuziehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

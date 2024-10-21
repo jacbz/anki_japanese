@@ -102,4 +102,31 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>また hat mehrere wichtige Verwendungen:</p>
+
+  <ul>
+    <li>Es bedeutet "wieder, noch einmal, erneut":</li>
+    <div class="examples">
+      <div class="jp">頭[あたま]が<u>また</u> 混乱[こんらん]しはじめていた。</div>
+      <div class="de spoiler">In meinem Kopf ging es wieder durcheinander.</div>
+    </div>
+
+    <li>Es bedeutet "auch, ebenfalls" (oft als も<u>また</u>):</li>
+    <div class="examples">
+      <div class="jp">世界[せかい] 自体[じたい]が 凡庸[ぼんよう]であるからこそ、 君[きみ]も<u>また</u> 凡庸[ぼんよう]なのだ。</div>
+      <div class="de spoiler">Die Welt selbst ist mittelmäßig, und deshalb bist auch du mittelmäßig.</div>
+    </div>
+
+    <li>Es drückt Zweifel oder Erstaunen aus (etwa "denn, bloß"):</li>
+    <div class="examples">
+      <div class="jp">なんで<u>また</u>そんなことをしたのか。</div>
+      <div class="de spoiler">Warum hat er das nur getan?</div>
+    </div>
+
+    <li>Es verbindet Sätze und bedeutet "außerdem, darüber hinaus, zudem":</li>
+    <div class="examples">
+      <div class="jp">交番[こうばん]からも 十[じゅう]メートル 足[た]らずのところだ。<u>また</u>、この 近[ちか]くに 学校[がっこう]もある。</div>
+      <div class="de spoiler">Es ist keine zehn Meter von der Polizeibox entfernt. Außerdem gibt es in der Nähe eine Schule.</div>
+    </div>
+  </ul>

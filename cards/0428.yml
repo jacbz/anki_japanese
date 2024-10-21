@@ -102,4 +102,70 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>切る (きる) ist ein vielseitiges Verb mit mehreren Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: schneiden, zerschneiden, durchschneiden</li>
+    <div class="examples">
+      <div class="jp">パンを<u>切る</u></div>
+      <div class="de spoiler">Brot schneiden</div>
+    </div>
+
+    <li>Andere physische Bedeutungen:</li>
+    <ul>
+      <li>abschneiden, amputieren</li>
+      <li>sich (an etwas) schneiden</li>
+      <li>{斬る} mit einem Schwert töten, erstechen</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">腹[はら]を<u>切って</u>死[し]んだ</div>
+      <div class="de spoiler">sich den Bauch aufgeschlitzt und gestorben</div>
+    </div>
+
+    <li>Übertragene Bedeutungen:</li>
+    <ul>
+      <li>trennen, unterbrechen (z.B. eine Verbindung)</li>
+      <li>abbrechen (z.B. eine Beziehung)</li>
+      <li>ausschalten (z.B. ein Gerät)</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">電話[でんわ]を<u>切る</u></div>
+      <div class="de spoiler">das Telefon auflegen</div>
+      <div class="jp">ラジオのスイッチを<u>切る</u></div>
+      <div class="de spoiler">das Radio ausschalten</div>
+    </div>
+
+    <li>Figurative Verwendungen:</li>
+    <ul>
+      <li>die Richtung ändern</li>
+      <li>eine Figur oder Kurve beschreiben</li>
+      <li>einen Wert unterschreiten</li>
+      <li>etwas beginnen oder starten</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">急[きゅう]カーブを<u>切る</u></div>
+      <div class="de spoiler">eine scharfe Kurve fahren</div>
+    </div>
+
+    <li>Als Hilfsverb (in der Form -きる):</li>
+    <ul>
+      <li>eine Handlung vollständig oder gründlich ausführen</li>
+      <li>etwas zu Ende bringen</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">本[ほん]を 読[よ]み<u>切れない</u></div>
+      <div class="de spoiler">ein Buch nicht zu Ende lesen können</div>
+    </div>
+  </ul>
+
+  <p>切る wird auch in vielen feststehenden Ausdrücken verwendet:</p>
+  <div class="examples">
+    <div class="jp">縁[えん]を<u>切る</u></div>
+    <div class="de spoiler">eine Beziehung abbrechen</div>
+    <div class="jp">腹[はら]を<u>切る</u></div>
+    <div class="de spoiler">Seppuku begehen</div>
+    <div class="jp">口[くち]を<u>切る</u></div>
+    <div class="de spoiler">zu sprechen beginnen</div>
+  </div>
+  </p>

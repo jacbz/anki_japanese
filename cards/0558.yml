@@ -2,7 +2,7 @@ Rang: 558
 Lemma: 一方
 Lesung: いっぽう
 Tonhöhen: /^^^
-Definition: eine Seite, andererseits
+Definition: eine Seite, andererseits; nur
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, konj
@@ -102,4 +102,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>一方[いっぽう] hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Es kann "eine Seite" oder "eine Richtung" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">髪[かみ]を<u>一方[いっぽう]</u>でまとめて、白[しろ]いハイビスカスの 花[はな]を 差[さ]している。</div>
+      <div class="de spoiler">Das Haar ist auf einer Seite zusammengefasst, darin steckt eine weiße Hibiskusblüte.</div>
+    </div>
+
+    <li>Es kann verwendet werden, um "eine von zwei Dingen" oder "eine Partei" zu bezeichnen:</li>
+    <div class="examples">
+      <div class="jp"><u>一方[いっぽう]</u>は 視覚[しかく]的[てき]で 他方[たほう]は 聴覚[ちょうかく]的[てき]という、ふたつの 要素[ようそ]で 構成[こうせい]される 対象[たいしょう]もある。</div>
+      <div class="de spoiler">Es gibt Objekte, die aus zwei Elementen bestehen, von denen eines visuell und das andere auditiv ist.</div>
+    </div>
+
+    <li>Nach Verben oder Adjektiven kann es "nur", "ausschließlich" oder "immer mehr" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">子[こ]どもの 数[かず]は 増[ふ]える<u>一方[いっぽう]</u>でした。</div>
+      <div class="de spoiler">Die Zahl der Kinder nahm ständig zu.</div>
+      <div class="jp">生活[せいかつ]は 苦[くる]しくなる<u>一方[いっぽう]</u>です。</div>
+      <div class="de spoiler">Das Leben wird immer schwieriger.</div>
+    </div>
+
+    <li>Es kann auch als Konjunktion verwendet werden, um einen Gegensatz oder einen neuen Aspekt einzuleiten:</li>
+    <div class="examples">
+      <div class="jp">沈徳[しんとく]さんはすべての 人々[ひとびと]の 生活[せいかつ]を 楽[らく]にしました。<u>一方[いっぽう]</u>崔達[さいたつ]さんは 主義主張[しゅぎしゅちょう]の 方[ほう]です。</div>
+      <div class="de spoiler">Fräulein Shen Te erleichterte das Leben aller Menschen. Herr Shui Ta hingegen ist ein Mann der Prinzipien.</div>
+    </div>
+  </ul>
+
+  <p>一方的[いっぽうてき] bedeutet "einseitig" oder "unilateral":</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]は<u>一方的[いっぽうてき]</u>に 話[はな]し 続[つづ]けた。</div>
+    <div class="de spoiler">Er sprach einseitig weiter.</div>
+  </div>
+
+  </p>

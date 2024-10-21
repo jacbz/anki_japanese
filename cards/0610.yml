@@ -106,4 +106,53 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb <span class="jp">向[む]ける</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Etwas in eine bestimmte Richtung drehen, wenden oder ausrichten:</li>
+    <div class="examples">
+      <div class="jp">私[わたし]は 顔[かお]も<u>向[む]けず</u>にそのまま 外[そと]を 見[み]ていた。</div>
+      <div class="de spoiler">Ich wandte nicht einmal den Kopf und sah weiter nach draußen.</div>
+    </div>
+
+    <li>Die Aufmerksamkeit auf etwas richten:</li>
+    <div class="examples">
+      <div class="jp">佐竹[さたけ]の 部屋[へや]のあまりの 家具[かぐ]のなさに 不審[ふしん]の 目[め]をあちこちに<u>向[む]けた</u>。</div>
+      <div class="de spoiler">Sie ließ ihre Augen argwöhnisch durch Satakes gähnend leere Wohnung gleiten.</div>
+    </div>
+
+    <li>Sich einer Sache zuwenden oder widmen:</li>
+    <div class="examples">
+      <div class="jp">元昊[げんこう]は 直[ただ]ちに 意[い]を 仏教[ぶっきょう]の 興隆[こうりゅう]に<u>向[む]けた</u>。</div>
+      <div class="de spoiler">Yuan-hao wandte sich sogleich der Verbreitung des Buddhismus zu.</div>
+    </div>
+
+    <li>Etwas (wie Worte oder Kritik) an jemanden richten:</li>
+    <div class="examples">
+      <div class="jp">その 呟[つぶや]きは 自分[じぶん]にたいして<u>向[む]けられている</u>のか、だれにたいして 言[い]ってよいのか、 彼[かれ]にはわからなかった。</div>
+      <div class="de spoiler">Er wusste nicht, ob diese Worte an ihn selbst gerichtet waren oder ob sie nicht ebensogut für andere gelten konnten.</div>
+    </div>
+  </ul>
+
+  <p>Eine wichtige Verwendung von <span class="jp">向[む]ける</span> ist die Form <span class="jp">⋯に 向[む]け(て)</span>, die das Ziel einer Bewegung oder Handlung anzeigt:</p>
+
+  <ul>
+    <li>In Richtung ..., nach ..., auf ... zu:</li>
+    <div class="examples">
+      <div class="jp">我々[われわれ]は 森[もり]に<u>向[む]けて</u> 坂[さか]を 下[くだ]った。</div>
+      <div class="de spoiler">Wir stiegen die Anhöhe herab und gingen auf den Wald zu.</div>
+    </div>
+
+    <li>Mit ... als Ziel, für ...:</li>
+    <div class="examples">
+      <div class="jp">弾[たま]は 天井[てんじょう]に<u>向[む]けて</u> 飛[と]んだ。</div>
+      <div class="de spoiler">Der Schuss ging in Richtung Decke los.</div>
+    </div>
+  </ul>
+
+  <p>Konjugation von <span class="jp">向[む]ける</span>:</p>
+  <ul>
+    <li>Verneinung: <span class="jp">向[む]けない</span> (mukenai)</li>
+    <li>Vergangenheit: <span class="jp">向[む]けた</span> (muketa)</li>
+  </ul>

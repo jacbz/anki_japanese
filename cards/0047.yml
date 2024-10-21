@@ -102,4 +102,47 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>無い (ない) ist ein Adjektiv, das Verneinung oder Abwesenheit ausdrückt.</p>
+
+  <ul>
+    <li>Es wird verwendet, um die Existenz oder den Besitz von etwas zu verneinen:</li>
+    <div class="examples">
+      <div class="jp">時間[じかん]<u>が</u><u>ない</u>。</div>
+      <div class="de spoiler">Es gibt keine Zeit. / Ich habe keine Zeit.</div>
+      <div class="jp">アリバイ<u>が</u><u>ない</u>。</div>
+      <div class="de spoiler">Ich habe kein Alibi.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um das Fehlen einer Eigenschaft oder Fähigkeit auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">協調性[きょうちょうせい]<u>が</u><u>ない</u>。</div>
+      <div class="de spoiler">Er/Sie hat keinen Teamgeist.</div>
+      <div class="jp">営業[えいぎょう]センス<u>が</u><u>ない</u>。</div>
+      <div class="de spoiler">Er/Sie hat keinen Geschäftssinn.</div>
+    </div>
+
+    <li>In der Form ⋯ともなく oder ⋯ともなしに bedeutet es "ohne richtig ..." oder "halb ...":</li>
+    <div class="examples">
+      <div class="jp">聞[き]く<u>ともなく</u>聞[き]いていた。</div>
+      <div class="de spoiler">Ich hörte nur mit halbem Ohr zu.</div>
+    </div>
+
+    <li>In der Struktur ⋯ことは‹も›ない kann es bedeuten, dass etwas nicht notwendig oder überflüssig ist:</li>
+    <div class="examples">
+      <div class="jp">むきに<u>なることはない</u>。</div>
+      <div class="de spoiler">Es ist nicht nötig, sich aufzuregen.</div>
+    </div>
+
+    <li>In der Form ⋯ないことは‹も›ない drückt es aus, dass etwas nicht ausgeschlossen ist:</li>
+    <div class="examples">
+      <div class="jp">そう 言[い]って 言[い]え<u>ないことはない</u>。</div>
+      <div class="de spoiler">Man könnte es durchaus so sagen.</div>
+    </div>
+  </ul>
+
+  <p>Einige nützliche Ausdrücke mit ない:</p>
+  <ul>
+    <li><span class="jp">無[な]かったことにする</span>: so tun, als ob etwas nicht passiert wäre</li>
+    <li><span class="jp">無[な]くて 七[なな]癖[くせ]あって 四十八[しじゅうはち]癖[くせ]</span>: Jeder Mensch hat Fehler und Macken (entspricht dem englischen "Nobody is perfect")</li>
+  </ul>

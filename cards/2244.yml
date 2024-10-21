@@ -22,4 +22,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammar note for 恵まれる:
+
+  <p>恵[めぐ]まれる ist ein intransitives Verb, das "gesegnet sein" oder "Glück haben" bedeutet.</p>
+
+  <ul>
+    <li>Es ist die Passivform von 恵[めぐ]む (segnen, beschenken).</li>
+    <li>Es wird oft in der Form 恵[めぐ]まれている oder 恵[めぐ]まれた verwendet.</li>
+    <li>Es drückt aus, dass man etwas Positives oder Vorteilhaftes erhalten hat, ohne es direkt selbst bewirkt zu haben.</li>
+  </ul>
+
+  <p>Verwendung:</p>
+
+  <ul>
+    <li>Um auszudrücken, dass man mit etwas Gutem gesegnet ist:</li>
+    <div class="examples">
+      <div class="jp">才能[さいのう]<u>に恵[めぐ]まれた</u>日本人[にほんじん]</div>
+      <div class="de spoiler">Mit Talent gesegnete Japaner</div>
+    </div>
+
+    <li>Um günstige Umstände oder Bedingungen zu beschreiben:</li>
+    <div class="examples">
+      <div class="jp">恵[めぐ]まれた条件[じょうけん]の公民[こうみん]</div>
+      <div class="de spoiler">Bürger in günstigen Verhältnissen</div>
+    </div>
+
+    <li>Um gutes Wetter oder günstige Umstände auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">良好[りょうこう]な天候[てんこう]<u>に恵[めぐ]まれました</u></div>
+      <div class="de spoiler">Wir waren mit gutem Wetter gesegnet</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie, dass 恵[めぐ]まれる oft mit der Partikel に verwendet wird, um anzuzeigen, womit man gesegnet ist.</p>
+
+  </p>

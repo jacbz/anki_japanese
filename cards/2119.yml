@@ -2,24 +2,142 @@ Rang: 2119
 Lemma: 移す
 Lesung: うつす
 Tonhöhen: /\.
-Definition: bewegen, übertragen, verschieben
+Definition: verlegen; übertragen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 移さない・移した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は事務所をパリからベルリンに移した。
   彼[かれ]は 事務所[じむしょ]をパリからベルリンに 移[うつ]した。
-  Er hat sein Büro von Paris nach Berlin übertragen.
+  Er hat das Büro von Paris nach Berlin verlegt.
+
+  会社を地方に移す計画について話し合いましょう。
+  会社[かいしゃ]を 地方[ちほう]に 移[うつ]す 計画[けいかく]について 話[はな]し 合[あ]いましょう。
+  Lassen Sie uns über den Plan sprechen, die Firma aufs Land zu verlegen.
+
+  引っ越しの際、植木鉢を新しい場所に移すのを忘れないでください。
+  引[ひ]っ 越[こ]しの 際[さい]、植木鉢[うえきばち]を 新[あたら]しい 場所[ばしょ]に 移[うつ]すのを 忘[わす]れないでください。
+  Vergessen Sie beim Umzug nicht, die Blumentöpfe an den neuen Ort zu bringen.
+
+  彼女は集中治療室から普通の病室に移された。
+  彼女[かのじょ]は 集中治療室[しゅうちゅうちりょうしつ]から 普通[ふつう]の 病室[びょうしつ]に 移[うつ]された。
+  Sie wurde von der Intensivstation in ein normales Krankenzimmer verlegt.
+
+  政府は首都を安全な場所に移すことを決定した。
+  政府[せいふ]は 首都[しゅと]を 安全[あんぜん]な 場所[ばしょ]に 移[うつ]すことを 決定[けってい]した。
+  Die Regierung beschloss, die Hauptstadt an einen sicheren Ort zu verlegen.
+
+  生徒たちは教室を図書館に移して勉強することになった。
+  生徒[せいと]たちは 教室[きょうしつ]を 図書館[としょかん]に 移[うつ]して 勉強[べんきょう]することになった。
+  Die Schüler sollten zum Lernen vom Klassenzimmer in die Bibliothek wechseln.
+
+  重要なデータを古いパソコンから新しいものに移さなければならない。
+  重要[じゅうよう]なデータを 古[ふる]いパソコンから 新[あたら]しいものに 移[うつ]さなければならない。
+  Wir müssen die wichtigen Daten vom alten Computer auf den neuen übertragen.
+
+  会社の重点を製造から販売に移すことにしました。
+  会社[かいしゃ]の 重点[じゅうてん]を 製造[せいぞう]から 販売[はんばい]に 移[うつ]すことにしました。
+  Wir haben beschlossen, den Schwerpunkt des Unternehmens von der Produktion auf den Vertrieb zu verlagern.
+
+  彼は視線を窓から私に移した。
+  彼[かれ]は 視線[しせん]を 窓[まど]から 私[わたし]に 移[うつ]した。
+  Er wandte seinen Blick vom Fenster zu mir.
+
+  子供に風邪を移さないように気をつけてください。
+  子供[こども]に 風邪[かぜ]を 移[うつ]さないように 気[き]をつけてください。
+  Passen Sie auf, dass Sie Ihre Erkältung nicht auf die Kinder übertragen.
+
+  彼らは計画を実行に移すのに躊躇していた。
+  彼[かれ]らは 計画[けいかく]を 実行[じっこう]に 移[うつ]すのに 躊躇[ちゅうちょ]していた。
+  Sie zögerten, den Plan in die Tat umzusetzen.
+
+  時を移さず行動に移らなければならない。
+  時[とき]を 移[うつ]さず 行動[こうどう]に 移[うつ]らなければならない。
+  Wir müssen ohne Zeitverlust handeln.
+
+  歴史上、都を移すことは大きな政治的意味を持っていた。
+  歴史上[れきしじょう]、都[みやこ]を 移[うつ]すことは 大[おお]きな 政治的[せいじてき] 意味[いみ]を 持[も]っていた。
+  In der Geschichte hatte die Verlegung der Hauptstadt oft große politische Bedeutung.
+
+  彼女は関心を音楽から絵画に移した。
+  彼女[かのじょ]は 関心[かんしん]を 音楽[おんがく]から 絵画[かいが]に 移[うつ]した。
+  Sie verlagerte ihr Interesse von der Musik zur Malerei.
+
+  会議の場所を急遽ホテルに移すことになりました。
+  会議[かいぎ]の 場所[ばしょ]を 急遽[きゅうきょ]ホテルに 移[うつ]すことになりました。
+  Wir mussten den Ort der Konferenz kurzfristig in ein Hotel verlegen.
+
+  彼は仕事の拠点を東京から大阪に移した。
+  彼[かれ]は 仕事[しごと]の 拠点[きょてん]を 東京[とうきょう]から 大阪[おおさか]に 移[うつ]した。
+  Er verlegte seinen Arbeitsstandort von Tokio nach Osaka.
+
+  患者さんを別の病院に移すことになりました。
+  患者[かんじゃ]さんを 別[べつ]の 病院[びょういん]に 移[うつ]すことになりました。
+  Wir haben entschieden, den Patienten in ein anderes Krankenhaus zu verlegen.
+
+  彼らは生産拠点を海外に移すことを検討している。
+  彼[かれ]らは 生産拠点[せいさんきょてん]を 海外[かいがい]に 移[うつ]すことを 検討[けんとう]している。
+  Sie erwägen, ihre Produktionsstätten ins Ausland zu verlagern.
+
+  新しい環境に移すことで、植物の成長が促進されることがあります。
+  新[あたら]しい 環境[かんきょう]に 移[うつ]すことで、植物[しょくぶつ]の 成長[せいちょう]が 促進[そくしん]されることがあります。
+  Durch die Versetzung in eine neue Umgebung kann das Wachstum von Pflanzen gefördert werden.
+
+  彼は話題を政治から経済に巧みに移した。
+  彼[かれ]は 話題[わだい]を 政治[せいじ]から 経済[けいざい]に 巧[たく]みに 移[うつ]した。
+  Er lenkte das Gespräch geschickt von Politik auf Wirtschaft.
+
+  データを安全に移すために、専門家に相談することをお勧めします。
+  データを 安全[あんぜん]に 移[うつ]すために、専門家[せんもんか]に 相談[そうだん]することをお 勧[すす]めします。
+  Ich empfehle Ihnen, einen Experten zu konsultieren, um die Daten sicher zu übertragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>移す (うつす) ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Etwas verlegen, verlagern oder umsetzen:</li>
+    <div class="examples">
+      <div class="jp">日本[にほん]のアパレルメーカーが 工場[こうじょう]を 中国[ちゅうごく]に<u>移した</u>。</div>
+      <div class="de spoiler">Die japanischen Bekleidungshersteller haben ihre Fabriken nach China verlegt.</div>
+    </div>
+
+    <li>Jemanden oder etwas an einen anderen Ort bringen:</li>
+    <div class="examples">
+      <div class="jp">患者[かんじゃ]を 集中治療室[しゅうちゅうちりょうしつ]から 普通[ふつう]の 病室[びょうしつ]に<u>移した</u>。</div>
+      <div class="de spoiler">Der Patient wurde von der Intensivstation in ein normales Krankenzimmer verlegt.</div>
+    </div>
+
+    <li>Die Aufmerksamkeit auf etwas anderes richten:</li>
+    <div class="examples">
+      <div class="jp">街上[がいじょう]に 押[お]し 合[あ]う 群集[ぐんしゅう]の 様子[ようす]に 目[め]を<u>移した</u>。</div>
+      <div class="de spoiler">Ich wandte meine Augen der sich auf der Straße drängelnden Menge zu.</div>
+    </div>
+
+    <li>Von Gedanken zur Tat übergehen:</li>
+    <div class="examples">
+      <div class="jp">考[かんが]えを 実行[じっこう]に<u>移した</u>。</div>
+      <div class="de spoiler">Er setzte seine Idee in die Tat um.</div>
+    </div>
+  </ul>
+
+  <p>In der Form 時[とき]を移[うつ]さず bedeutet es "ohne Zeit zu verlieren" oder "unverzüglich".</p>
+
+  <p>In historischem Kontext (geschrieben als 遷す) kann es auch bedeuten, den Sitz des Kaisers oder die Hauptstadt zu verlegen:</p>
+
+  <div class="examples">
+    <div class="jp">都[みやこ]を<u>移す</u></div>
+    <div class="de spoiler">die Hauptstadt verlegen</div>
+  </div>
+
+  </p>

@@ -2,7 +2,7 @@ Rang: 2140
 Lemma: 釣り
 Lesung: つり
 Tonhöhen: /^
-Definition: Angeln
+Definition: angeln
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,11 +15,88 @@ Konjugation: ''
 Beispielsätze: |-
   先週近くの川に釣りに行った。
   先週[せんしゅう] 近[ちか]くの 川[かわ]に 釣[つ]りに 行[い]った。
-  Ich bin letzte Woche zum Angeln an einen nahegelegenen Fluss gegangen.
+  Letzte Woche ging ich in einem nahe gelegenen Fluss angeln.
+
+  釣り場で新しい友達ができました。
+  釣[つ]り 場[ば]で 新[あたら]しい 友達[ともだち]ができました。
+  Ich habe am Angelplatz neue Freunde gefunden.
+
+  釣り針を水中に投げ入れた。
+  釣[つ]り 針[ばり]を 水中[すいちゅう]に 投[な]げ 入[い]れた。
+  Ich warf den Angelhaken ins Wasser.
+
+  週末に釣り船で海に出かける予定だ。
+  週末[しゅうまつ]に 釣[つ]り 船[ぶね]で 海[うみ]に 出[で]かける 予定[よてい]だ。
+  Am Wochenende plane ich, mit einem Angelboot aufs Meer hinauszufahren.
+
+  釣り道具を新調したので、早く使ってみたい。
+  釣[つ]り 道具[どうぐ]を 新調[しんちょう]したので、早[はや]く 使[つか]ってみたい。
+  Ich habe neue Angelausrüstung gekauft und möchte sie bald ausprobieren.
+
+  彼は釣り道楽で、休日はいつも川や湖に出かけている。
+  彼[かれ]は 釣[つ]り 道楽[どうらく]で、休日[きゅうじつ]はいつも 川[かわ]や 湖[みずうみ]に 出[で]かけている。
+  Er ist ein leidenschaftlicher Hobbyangler und geht an Feiertagen immer an Flüsse oder Seen.
+
+  適切な釣り餌を選ぶことが、魚を釣る秘訣だ。
+  適切[てきせつ]な 釣[つ]り 餌[えさ]を 選[えら]ぶことが、魚[さかな]を 釣[つ]る 秘訣[ひけつ]だ。
+  Der Schlüssel zum erfolgreichen Angeln ist die Wahl des richtigen Köders.
+
+  釣り糸が絡まってしまった。
+  釣[つ]り 糸[いと]が 絡[から]まってしまった。
+  Die Angelschnur hat sich verheddert.
+
+  釣り仲間と週末にキャンプに行く予定です。
+  釣[つ]り 仲間[なかま]と 週末[しゅうまつ]にキャンプに 行[い]く 予定[よてい]です。
+  Ich plane, am Wochenende mit meinen Angelfreunden campen zu gehen.
+
+  彼は熟練の釣り師として知られている。
+  彼[かれ]は 熟練[じゅくれん]の 釣[つ]り 師[し]として 知[し]られている。
+  Er ist als erfahrener Angler bekannt.
+
+  新しい釣り竿を買ったので、今度の休みに試してみようと思います。
+  新[あたら]しい 釣[つ]り 竿[ざお]を 買[か]ったので、今度[こんど]の 休[やす]みに 試[ため]してみようと 思[おも]います。
+  Ich habe eine neue Angelrute gekauft und möchte sie bei meinem nächsten freien Tag ausprobieren.
+
+  父は毎週末に釣りをするのが楽しみだ。
+  父[ちち]は 毎週末[まいしゅうまつ]に 釣[つ]りをするのが 楽[たの]しみだ。
+  Mein Vater freut sich darauf, jedes Wochenende angeln zu gehen.
+
+  釣りは忍耐力を養うのに良い趣味だと思う。
+  釣[つ]りは 忍耐力[にんたいりょく]を 養[やしな]うのに 良[よ]い 趣味[しゅみ]だと 思[おも]う。
+  Ich denke, Angeln ist ein gutes Hobby, um Geduld zu entwickeln.
+
+  この湖は釣りが禁止されています。
+  この 湖[みずうみ]は 釣[つ]りが 禁止[きんし]されています。
+  In diesem See ist das Angeln verboten.
+
+  釣りをしながら、日々のストレスを忘れることができる。
+  釣[つ]りをしながら、日々[ひび]のストレスを 忘[わす]れることができる。
+  Beim Angeln kann ich den täglichen Stress vergessen.
+
+  今日は大きな魚を釣り上げることができた。
+  今日[きょう]は 大[おお]きな 魚[さかな]を 釣[つ]り 上[あ]げることができた。
+  Heute konnte ich einen großen Fisch fangen.
+
+  釣りの季節がやってきた。
+  釣[つ]りの 季節[きせつ]がやってきた。
+  Die Angelsaison ist gekommen.
+
+  釣りは自然を楽しむ良い方法だ。
+  釣[つ]りは 自然[しぜん]を 楽[たの]しむ 良[よ]い 方法[ほうほう]だ。
+  Angeln ist eine gute Möglichkeit, die Natur zu genießen.
+
+  釣りのテクニックを磨くには経験が必要だ。
+  釣[つ]りのテクニックを 磨[みが]くには 経験[けいけん]が 必要[ひつよう]だ。
+  Um Angeltechniken zu verbessern, braucht man Erfahrung.
+
+  釣りは時に運も必要な趣味だ。
+  釣[つ]りは 時[とき]に 運[うん]も 必要[ひつよう]な 趣味[しゅみ]だ。
+  Angeln ist manchmal auch ein Hobby, das Glück erfordert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: <p>釣り kann auch als Kurzform für お釣り verwendet werden, was "Wechselgeld" bedeutet.
+  In diesem Fall wird es oft mit dem Höflichkeitspräfix お verwendet.</p>

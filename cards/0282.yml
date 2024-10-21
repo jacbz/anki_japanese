@@ -106,4 +106,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">最後[さいご]</span> ist ein vielseitiges Wort, das "das Letzte", "das Ende" oder "zum Schluss" bedeutet.</p>
+
+  <ul>
+    <li>Als Nomen bezeichnet es das Ende oder den Abschluss von etwas:</li>
+    <div class="examples">
+      <div class="jp">これが<u>最後[さいご]</u>だ。</div>
+      <div class="de spoiler">Dies ist die letzte Chance. / Das ist das letzte Mal.</div>
+    </div>
+
+    <li>Mit der Partikel に wird es adverbial verwendet:</li>
+    <div class="examples">
+      <div class="jp"><u>最後[さいご]</u>に 何亮[かりょう]は 己[おのれ]が 意見[いけん]を 具申[ぐしん]していた。</div>
+      <div class="de spoiler">Abschließend hatte He Liang seine eigene Ansicht vorgetragen.</div>
+    </div>
+
+    <li>Als Adjektiv mit の bezeichnet es das Letzte oder Endgültige:</li>
+    <div class="examples">
+      <div class="jp">ディーゼル・エンジンが<u>最後[さいご]</u>の 一息[ひといき]をしぼり 出[だ]すように 排出[はいしゅつ]してしまうと、そのあとには 完全[かんぜん]な 沈黙[ちんもく]がやってきた。</div>
+      <div class="de spoiler">Der Dieselmotor stieß einen letzten Seufzer aus, dann herrschte absolute Stille.</div>
+    </div>
+
+    <li>In der Form たら<u>最後[さいご]</u> oder たが<u>最後[さいご]</u> drückt es die Unausweichlichkeit einer Folge aus:</li>
+    <div class="examples">
+      <div class="jp">一度[いちど] ひきずりこまれたら<u>最後[さいご]</u>、二度[にど]と 浮[う]かびあがれないわよ。</div>
+      <div class="de spoiler">Wenn sie dich einmal erfasst haben, können sie dich nie wieder loslassen.</div>
+    </div>
+
+    <li>Es kann auch euphemistisch für "Tod" oder "Lebensende" stehen:</li>
+    <div class="examples">
+      <div class="jp">Bの<u>最後[さいご]</u>は、一体[いったい] どんなふうだったのだろう。</div>
+      <div class="de spoiler">Wie mochte wohl B.s Ende ausgesehen haben?</div>
+    </div>
+  </ul>
+  </p>

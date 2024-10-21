@@ -2,7 +2,7 @@ Rang: 997
 Lemma: まるで
 Lesung: ''
 Tonhöhen: /^^
-Definition: als ob; ganz (und gar)
+Definition: als ob; völlig
 Alternativschreibweisen: 丸で
 Extra: '' # Nur bei suru-Verben
 Wortart: adv
@@ -102,4 +102,21 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>まるで wird verwendet, um Vergleiche und vollständige Zustände auszudrücken.</p>
+  <ul>
+    <li>Mit ようだ oder みたいだ drückt es einen Vergleich aus ("als ob", "wie wenn"):</li>
+    <div class="examples">
+      <div class="jp">まるで 待[ま]ち 合[あ]わせでもしていたかの<u>よう</u>。</div>
+      <div class="de spoiler">Sie schien fast auf uns gewartet zu haben.</div>
+      <div class="jp">まるで 彼女[かのじょ]の 裏切[うらぎ]りを 期待[きたい]してでもいた<u>よう</u>じゃないか。</div>
+      <div class="de spoiler">Als ob ich nur darauf gewartet hätte, von ihr hintergangen zu werden.</div>
+    </div>
+    <li>Es kann auch "völlig" oder "komplett" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]の 顔[かお]には 表情[ひょうじょう]というものが<u>まるで</u>なかった。</div>
+      <div class="de spoiler">Ihr Gesicht war vollkommen ausdruckslos.</div>
+      <div class="jp">同[おな]じシャンペンが<u>まるで</u> 違[ちが]う 味[あじ]になる。</div>
+      <div class="de spoiler">Der Champagner schmeckt plötzlich völlig anders.</div>
+    </div>
+  </ul>

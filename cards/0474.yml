@@ -102,4 +102,49 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>もらう ist ein wichtiges Verb mit verschiedenen Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: etwas erhalten oder bekommen</li>
+    <div class="examples">
+      <div class="jp">この 尺八[しゃくはち]<u>をもらった</u>んだ。</div>
+      <div class="de spoiler">Ich habe diese Bambusflöte erhalten.</div>
+    </div>
+
+    <li>Es kann auch "kaufen" oder "bestellen" bedeuten</li>
+    <div class="examples">
+      <div class="jp">お 茶[ちゃ]をもう 一杯[いっぱい]<u>もらおう</u>。</div>
+      <div class="de spoiler">Ich nehme noch eine Tasse Tee.</div>
+    </div>
+
+    <li>Es kann verwendet werden, um auszudrücken, dass man etwas Unangenehmes "bekommt" oder "abbekommt"</li>
+
+    <li>Es kann bedeuten, eine Aufgabe oder Verantwortung zu übernehmen</li>
+    <div class="examples">
+      <div class="jp">あれは 俺[おれ]が<u>もらう</u>ぞ。</div>
+      <div class="de spoiler">Das übernehme ich.</div>
+    </div>
+
+    <li>Es wird als Hilfsverb verwendet, um auszudrücken, dass jemand etwas für einen tut</li>
+    <div class="examples">
+      <div class="jp">列車[れっしゃ]を 予約[よやく]して<u>もらった</u>。</div>
+      <div class="de spoiler">Ich ließ eine Platzkarte für den Zug buchen.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um auf unerwünschtes Verhalten hinzuweisen</li>
+    <div class="examples">
+      <div class="jp">誤解[ごかい]して<u>もらっては</u> 困[こま]る。</div>
+      <div class="de spoiler">Versteh mich bitte nicht falsch.</div>
+    </div>
+  </ul>
+
+  <p>Die て-Form von もらう (もらって) wird oft mit anderen Verben kombiniert, um auszudrücken, dass man jemanden bittet, etwas zu tun oder dass jemand etwas für einen tut.</p>
+
+  <div class="examples">
+    <div class="jp">食事[しょくじ]をしながら 話[はな]をさせて<u>もらう</u>。</div>
+    <div class="de spoiler">Ich esse, während ich spreche (wörtlich: Ich lasse mich sprechen, während ich esse).</div>
+  </div>
+
+  <p>In formellen Situationen wird oft いただく anstelle von もらう verwendet, da es höflicher klingt.</p>
+  </p>

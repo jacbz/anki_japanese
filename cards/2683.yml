@@ -22,4 +22,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the requested grammar note for にすぎない in HTML format:
+
+  <p>にすぎない drückt aus, dass etwas nicht mehr als eine bestimmte Sache oder Eigenschaft ist. Es bedeutet "nichts weiter als...", "nur..." oder "lediglich...".</p>
+
+  <ul>
+    <li>Es wird verwendet, um die Bedeutung oder Wichtigkeit von etwas zu minimieren oder einzuschränken.</li>
+    <div class="examples">
+      <div class="jp">それは たわいもない 悪戯[いたずら]<u>にすぎなかった</u>。</div>
+      <div class="de spoiler">Das war nur ein harmloser Streich.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um auszudrücken, dass etwas oberflächlich oder ohne tiefere Bedeutung ist.</li>
+    <div class="examples">
+      <div class="jp">政府[せいふ]などどこの 国[くに]でも 飾[かざ]り<u>にすぎない</u>。</div>
+      <div class="de spoiler">In keinem Land ist die Regierung mehr als bloße Dekoration.</div>
+    </div>
+
+    <li>Es kann auch benutzt werden, um eine Situation oder ein Ereignis als zufällig oder unbedeutend darzustellen.</li>
+    <div class="examples">
+      <div class="jp">偶然[ぐうぜん]の 機会[きかい]が 降[ふ]ってきた<u>にすぎない</u>。</div>
+      <div class="de spoiler">Es war bloß der Zufall, der zu Hilfe kam.</div>
+    </div>
+  </ul>
+
+  <p>Die Konstruktion wird gebildet, indem man に an das Nomen oder な-Adjektiv anhängt, gefolgt von すぎない (negative Form von すぎる).</p>
+
+  <div class="examples">
+    <div class="jp">幻影[げんえい]<u>にすぎない</u>んでしょうか。</div>
+    <div class="de spoiler">Meinst du, es sei nichts weiter als eine Illusion?</div>
+  </div>
+
+  </p>

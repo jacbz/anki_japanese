@@ -2,13 +2,13 @@ Rang: 2904
 Lemma: 浮く
 Lesung: うく
 Tonhöhen: /^
-Definition: schweben, aufschwimmen
+Definition: schwimmen; auftauchen; sich abzeichnen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 浮かない・浮いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,118 @@ Beispielsätze: |-
   海[うみ]にたくさんごみが 浮[う]いている。
   Viel Müll schwimmt im Meer.
 
+  木の葉が池に浮かんでいる。
+  木[こ]の 葉[は]が 池[いけ]に 浮[う]かんでいる。
+  Blätter treiben auf dem Teich.
+
+  泡が浮いてくるのを見ると、お湯が沸いたことがわかる。
+  泡[あわ]が 浮[う]いてくるのを 見[み]ると、お 湯[ゆ]が 沸[わ]いたことがわかる。
+  Wenn man sieht, dass Blasen aufsteigen, weiß man, dass das Wasser kocht.
+
+  彼の体は水に浮いたまま動かなかった。
+  彼[かれ]の 体[からだ]は 水[みず]に 浮[う]いたまま 動[うご]かなかった。
+  Sein Körper trieb bewegungslos im Wasser.
+
+  宇宙飛行士は無重力状態で宙に浮いていた。
+  宇宙飛行士[うちゅうひこうし]は 無重力状態[むじゅうりょくじょうたい]で 宙[ちゅう]に 浮[う]いていた。
+  Der Astronaut schwebte im Zustand der Schwerelosigkeit.
+
+  汗が額に浮いてきた。
+  汗[あせ]が 額[ひたい]に 浮[う]いてきた。
+  Schweiß trat auf seine Stirn.
+
+  彼女の顔に微笑みが浮かんだ。
+  彼女[かのじょ]の 顔[かお]に 微笑[ほほえ]みが 浮[う]かんだ。
+  Ein Lächeln zeigte sich auf ihrem Gesicht.
+
+  タトゥーの模様が肌に浮いて見える。
+  タトゥーの 模様[もよう]が 肌[はだ]に 浮[う]いて 見[み]える。
+  Das Tattoo-Muster zeichnet sich auf der Haut ab.
+
+  彼の言動に疑問が浮かんできた。
+  彼[かれ]の 言動[げんどう]に 疑問[ぎもん]が 浮[う]かんできた。
+  Zweifel kamen mir bezüglich seines Verhaltens.
+
+  運動後は血管が浮いて見える。
+  運動後[うんどうご]は 血管[けっかん]が 浮[う]いて 見[み]える。
+  Nach dem Sport treten die Adern hervor.
+
+  彼は会社で浮いた存在になっている。
+  彼[かれ]は 会社[かいしゃ]で 浮[う]いた 存在[そんざい]になっている。
+  Er ist in der Firma zu einem Außenseiter geworden.
+
+  政治家は国民から浮いた発言をしてしまった。
+  政治家[せいじか]は 国民[こくみん]から 浮[う]いた 発言[はつげん]をしてしまった。
+  Der Politiker machte eine Äußerung, die von den Interessen der Bürger abgehoben war.
+
+  給料日で浮いた気分だ。
+  給料日[きゅうりょうび]で 浮[う]いた 気分[きぶん]だ。
+  Am Zahltag bin ich in fröhlicher Stimmung.
+
+  彼は浮かぬ顔で部屋に入ってきた。
+  彼[かれ]は 浮[う]かぬ 顔[かお]で 部屋[へや]に 入[はい]ってきた。
+  Er kam mit bedrücktem Gesicht ins Zimmer.
+
+  効率的な作業で時間が浮いた。
+  効率的[こうりつてき]な 作業[さぎょう]で 時間[じかん]が 浮[う]いた。
+  Durch effizientes Arbeiten habe ich Zeit gespart.
+
+  節約したおかげで、お金が少し浮いた。
+  節約[せつやく]したおかげで、お 金[かね]が 少[すこ]し 浮[う]いた。
+  Dank des Sparens blieb etwas Geld übrig.
+
+  その雑誌には浮いた噂が載っていた。
+  その 雑誌[ざっし]には 浮[う]いた 噂[うわさ]が 載[の]っていた。
+  In dieser Zeitschrift stand ein pikantes Gerücht.
+
+  彼女の歯が浮くような甘い言葉を言った。
+  彼女[かのじょ]の 歯[は]が 浮[う]くような 甘[あま]い 言葉[ことば]を 言[い]った。
+  Er sagte süße Worte, die ihr die Zähne stumpf machten.
+
+  水面に浮かぶボートに乗った。
+  水面[すいめん]に 浮[う]かぶボートに 乗[の]った。
+  Ich bestieg das Boot, das auf der Wasseroberfläche trieb.
+
+  彼の心に懐かしい思い出が浮かんできた。
+  彼[かれ]の 心[こころ]に 懐[なつ]かしい 思[おも]い 出[で]が 浮[う]かんできた。
+  Nostalgische Erinnerungen stiegen in seinem Herzen auf.
+
+  空気が澄んでいて、遠くの山々が浮かび上がって見えた。
+  空気[くうき]が 澄[す]んでいて、遠[とお]くの 山々[やまやま]が 浮[う]かび 上[あ]がって 見[み]えた。
+  Die Luft war klar, und die fernen Berge zeichneten sich deutlich ab.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 浮く (uku) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Im Wasser oder in der Luft schwimmen, treiben oder schweben:</li>
+    <div class='examples'>
+      <div class='jp'>木の葉[このは]が 池[いけ]に 浮[う]いている。</div>
+      <div class='de spoiler'>Blätter treiben auf dem Teich.</div>
+    </div>
+    <li>Auftauchen, sichtbar werden oder sich abzeichnen:</li>
+    <div class='examples'>
+      <div class='jp'>汗[あせ]が 額[ひたい]に 浮[う]いてきた。</div>
+      <div class='de spoiler'>Schweiß trat auf seine Stirn.</div>
+    </div>
+    <li>Sich isoliert oder abgehoben fühlen:</li>
+    <div class='examples'>
+      <div class='jp'>彼[かれ]は 会社[かいしゃ]で 浮[う]いた 存在[そんざい]になっている。</div>
+      <div class='de spoiler'>Er ist in der Firma zu einem Außenseiter geworden.</div>
+    </div>
+    <li>Eine gehobene oder gedrückte Stimmung ausdrücken:</li>
+    <div class='examples'>
+      <div class='jp'>給料日[きゅうりょうび]で 浮[う]いた 気分[きぶん]だ。</div>
+      <div class='de spoiler'>Am Zahltag bin ich in fröhlicher Stimmung.</div>
+    </div>
+    <li>Zeit oder Geld übrig haben oder sparen:</li>
+    <div class='examples'>
+      <div class='jp'>効率的[こうりつてき]な 作業[さぎょう]で 時間[じかん]が 浮[う]いた。</div>
+      <div class='de spoiler'>Durch effizientes Arbeiten habe ich Zeit gespart.</div>
+    </div>
+  </ol>
+  <p>In der Umgangssprache wird 浮く oft in idiomatischen Ausdrücken verwendet, z.B. <span class='jp'>歯[は]が 浮[う]く</span> (Zähne werden stumpf), um auszudrücken, dass etwas übertrieben süß oder schmeichelhaft ist.</p>

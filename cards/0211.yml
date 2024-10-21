@@ -108,7 +108,7 @@ Notiz: |-
   <ul>
     <li>Es zeigt eine Einschränkung oder Begrenzung an:</li>
     <div class="examples">
-      <div class="jp">二、三米[メートル]<u>しか</u>ない。</div>
+      <div class="jp">二、三 米[メートル]<u>しか</u>ない。</div>
       <div class="de spoiler">Es sind nur wenige Meter.</div>
     </div>
 
@@ -120,7 +120,7 @@ Notiz: |-
 
     <li>Es kann auch "mindestens" oder "nicht weniger als" bedeuten:</li>
     <div class="examples">
-      <div class="jp">十万[じゅうまん]キロ以上[いじょう]走[はし]ったと<u>しか</u>思[おも]えない。</div>
+      <div class="jp">十万[じゅうまん]キロ 以上[いじょう]走[はし]ったと<u>しか</u>思[おも]えない。</div>
       <div class="de spoiler">Es muss mindestens 100.000 Kilometer gefahren sein.</div>
     </div>
 

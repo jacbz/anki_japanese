@@ -98,4 +98,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>下 (した) wird in verschiedenen Kontexten verwendet, um auf "unten" oder "unter" zu verweisen:</p>
+
+  <ul>
+    <li>Es bezeichnet die physische Position "unten" oder "unter etwas":</li>
+    <div class="examples">
+      <div class="jp">テーブルの<u>下</u>で 腕時計[うでどけい]を 見[み]た。</div>
+      <div class="de spoiler">Er blickte unter dem Tisch auf seine Armbanduhr.</div>
+    </div>
+
+    <li>Es kann eine niedrigere Position oder einen niedrigeren Rang anzeigen:</li>
+    <div class="examples">
+      <div class="jp"><u>下</u>の 弟[おとうと]の 末娘[すえむすめ]</div>
+      <div class="de spoiler">Die jüngste Tochter des jüngeren Bruders</div>
+    </div>
+
+    <li>Es wird verwendet, um eine Richtung nach unten anzuzeigen:</li>
+    <div class="examples">
+      <div class="jp">我々[われわれ]は<u>下</u>を 向[む]いて 目[め]を 閉[と]じた。</div>
+      <div class="de spoiler">Wir senkten den Kopf und schlossen die Augen.</div>
+    </div>
+
+    <li>In übertragener Bedeutung kann es "Herzensgrund" oder "innere Gedanken" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">信[しん]じたい 気持[きも]ちが<u>下</u>にある。</div>
+      <div class="de spoiler">Im Herzen will man es glauben.</div>
+    </div>
+
+    <li>In Verbindung mit Verben des Sagens kann es "sofort nach" oder "direkt nachdem" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">言[い]う<u>下</u>から 嘘[うそ]がばれる。</div>
+      <div class="de spoiler">Sofort nachdem es gesagt wurde, entpuppt es sich als Lüge.</div>
+    </div>
+  </ul>
+
+  <p>Als Präfix in Zusammensetzungen kann 下 auch "Vor-" bedeuten, wie in <span class="jp">下準備[したじゅんび]</span> (Vorbereitung) oder <span class="jp">下調[したしら]べ</span> (Voruntersuchung).</p>
+  </p>

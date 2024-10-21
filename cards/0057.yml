@@ -102,4 +102,29 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ので wird verwendet, um einen Grund oder eine Ursache anzugeben.</p>
+  <ul>
+    <li>Es bedeutet "weil", "da", "aufgrund dessen, dass" oder "so dass".</li>
+    <li>ので verbindet zwei Sätze, wobei der erste Satz den Grund für den zweiten angibt.</li>
+    <div class="examples">
+      <div class="jp">父[ちち]の 容態[ようだい]が「スッカリヨクナイ」<u>ので</u>、即刻[そっこく] 帰[かえ]るようにということだった。</div>
+      <div class="de spoiler">Da es meinem Vater "gar nicht gut" ging, sollte ich sofort zurückkommen.</div>
+    </div>
+    <li>Es kann auch verwendet werden, um eine Folge oder ein Ergebnis auszudrücken.</li>
+    <div class="examples">
+      <div class="jp">今日[きょう]は 出来[でき]がよかった<u>ので</u> 朝[あさ]から 昼[ひる]までに 三返[さんべん]やって 見[み]た。</div>
+      <div class="de spoiler">Heute ist es mir besonders leicht gefallen, weshalb ich es bis Mittag dreimal geschafft habe.</div>
+    </div>
+  </ul>
+  <p>ので wird oft in höflichen oder formellen Situationen verwendet, um einen Grund auf neutrale Weise anzugeben.</p>
+  <div class="examples">
+    <div class="jp">娘[むすめ]は 多少[たしょう]なら 分[わ]かります<u>ので</u>、何[なん]でもこの 子[こ]に 言[い]い 付[つ]けて 下[くだ]さい。</div>
+    <div class="de spoiler">Da meine Tochter ein bisschen [Englisch] versteht, wenden Sie sich bitte in allem an sie.</div>
+  </div>
+  <p>Beachten Sie, dass ので an die Attributivform des Verbs oder Adjektivs angeschlossen wird:</p>
+  <ul>
+    <li>Für Verben: 食[た]べる → 食[た]べる<u>ので</u></li>
+    <li>Für i-Adjektive: 寒[さむ]い → 寒[さむ]い<u>ので</u></li>
+    <li>Für na-Adjektive: 静[しず]かな → 静[しず]か<u>なので</u></li>
+  </ul>

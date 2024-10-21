@@ -106,4 +106,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>従う (shitagau) ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Folgen oder hinter jemandem oder etwas hergehen:</li>
+    <div class="examples">
+      <div class="jp">母[はは]のあとに、私[わたし]と 私服[しふく]は 黙[だま]って<u>従[したが]った</u>。</div>
+      <div class="de spoiler">Der Polizist in Zivil und ich folgten Mutter schweigend nach.</div>
+    </div>
+
+    <li>Jemandem oder etwas gehorchen, befolgen oder sich danach richten:</li>
+    <div class="examples">
+      <div class="jp">クライアントの 意向[いこう]には 百[ひゃく]パーセント<u>従[したが]います</u>。</div>
+      <div class="de spoiler">Wir passen uns zu hundert Prozent dem Wunsch des Auftraggebers an.</div>
+    </div>
+
+    <li>Einer Arbeit oder Pflicht nachkommen:</li>
+    <div class="examples">
+      <div class="jp">西夏[せいか]の 男子[だんし]は 十五歳[じゅうごさい]になれば 悉[ことごと]く 兵役[へいえき]に<u>従[したが]い</u></div>
+      <div class="de spoiler">Sobald die jungen Xi-xia-Männer fünfzehn Jahre alt waren, traten sie ausnahmslos in den Militärdienst ein.</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Konstruktionen mit 従う:</p>
+
+  <ul>
+    <li><span class="jp">⋯に 従[したが]い</span> oder <span class="jp">⋯に 従[したが]って</span>: "je nachdem", "gemäß", "entsprechend"</li>
+    <div class="examples">
+      <div class="jp">降[お]りるに<u>従[したが]い</u>、歓喜[かんき]に 似[に]た 感情[かんじょう]が、胸[むね]の 中[なか]でふくれて 来[く]るのを 私[わたし]は 感[かん]じた。</div>
+      <div class="de spoiler">Je tiefer ich stieg, desto heftiger kam in mir ein Gefühl der Freude auf.</div>
+    </div>
+
+    <li><span class="jp">⋯に 従[したが]えば</span> oder <span class="jp">⋯に 従[したが]うと</span>: "zufolge", "nach"</li>
+    <div class="examples">
+      <div class="jp">お 寺[てら]の 報告[ほうこく]に<u>従[したが]うと</u>、例[たと]えば 昭和[しょうわ] 四年[よねん] 十月[じゅうがつ] 一月[ひとつき]に 一万六千二円[いちまんろくせんにえん] 投[な]げ 込[こ]まれたのだ。</div>
+      <div class="de spoiler">Dem Tempel zufolge wurden beispielsweise im Oktober des vierten Jahres Shōwa 16002 Yen eingeworfen.</div>
+    </div>
+  </ul>

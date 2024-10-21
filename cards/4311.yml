@@ -2,13 +2,13 @@ Rang: 4311
 Lemma: 縫う
 Lesung: ぬう
 Tonhöhen: \.
-Definition: nähen
+Definition: nähen; sticken
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 縫わない・縫った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   母は私にドレスを縫ってくれた。
   母[はは]は 私[わたし]にドレスを 縫[ぬ]ってくれた。
   Meine Mutter hat mir ein Kleid genäht.
+
+  医者は傷口を慎重に縫った。
+  医者[いしゃ]は 傷口[きずぐち]を 慎重[しんちょう]に 縫[ぬ]った。
+  Der Arzt nähte die Wunde vorsichtig zu.
+
+  ミシンで縫うのは手縫いより速いです。
+  ミシンで 縫[ぬ]うのは 手縫[てぬ]いより 速[はや]いです。
+  Mit der Nähmaschine zu nähen ist schneller als von Hand.
+
+  ズボンの綻びを縫って直しました。
+  ズボンの 綻[ほころ]びを 縫[ぬ]って 直[なお]しました。
+  Ich habe die aufgegangene Naht an der Hose zugenäht und repariert.
+
+  彼女は花模様を美しく縫い上げた。
+  彼女[かのじょ]は 花模様[はなもよう]を 美[うつく]しく 縫[ぬ]い 上[あ]げた。
+  Sie hat ein wunderschönes Blumenmuster aufgestickt.
+
+  矢が敵の鎧を縫って突き抜けた。
+  矢[や]が 敵[てき]の 鎧[よろい]を 縫[ぬ]って 突[つ]き 抜[ぬ]けた。
+  Der Pfeil durchbohrte die Rüstung des Feindes.
+
+  松の根が砂山の斜面を縦横に縫っていた。
+  松[まつ]の 根[ね]が 砂山[すなやま]の 斜面[しゃめん]を 縦横[じゅうおう]に 縫[ぬ]っていた。
+  Die Kiefernwurzeln durchzogen den Abhang der Sanddüne kreuz und quer.
+
+  彼は人込みの中を縫って歩いた。
+  彼[かれ]は 人込[ひとご]みの 中[なか]を 縫[ぬ]って 歩[ある]いた。
+  Er schlängelte sich durch die Menschenmenge.
+
+  川が山の間を縫って流れている。
+  川[かわ]が 山[やま]の 間[あいだ]を 縫[ぬ]って 流[なが]れている。
+  Der Fluss windet sich durch die Berge.
+
+  少年は砂浜のパラソルの間を縫ってジュースを売り歩いていた。
+  少年[しょうねん]は 砂浜[すなはま]のパラソルの 間[あいだ]を 縫[ぬ]ってジュースを 売[う]り 歩[ある]いていた。
+  Der Junge schlängelte sich zwischen den Sonnenschirmen am Strand hindurch und verkaufte Getränke.
+
+  彼は混乱の中を縫って事務所に駆け込んだ。
+  彼[かれ]は 混乱[こんらん]の 中[なか]を 縫[ぬ]って 事務所[じむしょ]に 駆[か]け 込[こ]んだ。
+  Er rannte mitten durch das Chaos ins Büro.
+
+  国道は森林地帯の間を縫って走っていた。
+  国道[こくどう]は 森林地帯[しんりんちたい]の 間[あいだ]を 縫[ぬ]って 走[はし]っていた。
+  Die Landstraße führte durch das Waldgebiet.
+
+  彼女は丁寧に指ぬきを使って布を縫っていた。
+  彼女[かのじょ]は 丁寧[ていねい]に 指[ゆび]ぬきを 使[つか]って 布[ぬの]を 縫[ぬ]っていた。
+  Sie nähte sorgfältig den Stoff mit einem Fingerhut.
+
+  私は手作りのマスクを縫うことにした。
+  私[わたし]は 手作[てづく]りのマスクを 縫[ぬ]うことにした。
+  Ich habe beschlossen, selbstgemachte Masken zu nähen.
+
+  祖母は孫のために刺繍を縫って、枕カバーを作った。
+  祖母[そぼ]は 孫[まご]のために 刺繍[ししゅう]を 縫[ぬ]って、枕[まくら]カバーを 作[つく]った。
+  Die Großmutter stickte für ihren Enkel und machte einen Kissenbezug.
+
+  裁縫の授業で、生徒たちはボタンの付け方を縫って学んだ。
+  裁縫[さいほう]の 授業[じゅぎょう]で、生徒[せいと]たちはボタンの 付[つ]け 方[かた]を 縫[ぬ]って 学[まな]んだ。
+  Im Nähunterricht lernten die Schüler, wie man Knöpfe annäht.
+
+  デザイナーは新作のドレスを縫う前に、何度もスケッチを描いた。
+  デザイナーは 新作[しんさく]のドレスを 縫[ぬ]う 前[まえ]に、何度[なんど]もスケッチを 描[か]いた。
+  Bevor der Designer das neue Kleid nähte, zeichnete er mehrmals Skizzen.
+
+  彼は針と糸で靴下の穴を上手に縫い直した。
+  彼[かれ]は 針[はり]と 糸[いと]で 靴下[くつした]の 穴[あな]を 上手[じょうず]に 縫[ぬ]い 直[なお]した。
+  Er stopfte geschickt das Loch in der Socke mit Nadel und Faden.
+
+  手術後、医師は患者の傷を丁寧に縫い合わせた。
+  手術[しゅじゅつ]後[ご]、医師[いし]は 患者[かんじゃ]の 傷[きず]を 丁寧[ていねい]に 縫[ぬ]い 合[あ]わせた。
+  Nach der Operation nähte der Arzt die Wunde des Patienten sorgfältig zusammen.
+
+  彼女は布地を縫う前に、しっかりとアイロンをかけた。
+  彼女[かのじょ]は 布地[ぬのじ]を 縫[ぬ]う 前[まえ]に、しっかりとアイロンをかけた。
+  Bevor sie den Stoff nähte, bügelte sie ihn gründlich.
+
+  サッカー選手は相手の守備を縫うように、ボールを運んだ。
+  サッカー 選手[せんしゅ]は 相手[あいて]の 守備[しゅび]を 縫[ぬ]うように、ボールを 運[はこ]んda。
+  Der Fußballspieler führte den Ball so, als würde er sich durch die gegnerische Verteidigung winden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

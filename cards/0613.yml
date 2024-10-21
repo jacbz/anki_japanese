@@ -102,4 +102,45 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammar note for 決まる:
+
+  <p>決[き]まる ist ein intransitives Verb, das verschiedene Bedeutungen hat:</p>
+
+  <ul>
+    <li>Etwas wird entschieden, festgelegt oder bestimmt</li>
+    <div class="examples">
+      <div class="jp">出発[しゅっぱつ]の 日[ひ]<u>は</u>いつとも 決[き]まらなかった。</div>
+      <div class="de spoiler">Ein Abreisedatum wurde nicht festgelegt.</div>
+    </div>
+    <li>Etwas steht fest oder ist fixiert</li>
+    <div class="examples">
+      <div class="jp">昼食[ちゅうしょく]のメニュー<u>は</u>サンドウィッチに 決[き]まっていた。</div>
+      <div class="de spoiler">Für das Mittagessen hatte man sich auf Sandwiches geeinigt.</div>
+    </div>
+    <li>Etwas hängt von etwas ab oder wird dadurch bestimmt</li>
+    <div class="examples">
+      <div class="jp">星[ほし]の 見[み]かけの 明[あか]るさ<u>は</u>二[ふた]つの 要因[よういん]で 決[き]まる。</div>
+      <div class="de spoiler">Die scheinbare Helligkeit eines Sterns hängt von zwei Faktoren ab.</div>
+    </div>
+  </ul>
+
+  <p>In der Form 決[き]まった bedeutet es "festgelegt" oder "immer gleich":</p>
+  <div class="examples">
+    <div class="jp">観光[かんこう]バスのコース<u>は</u>いつも 決[き]まっている。</div>
+    <div class="de spoiler">Der Reisebus fuhr immer dieselbe Route.</div>
+  </div>
+
+  <p>Als Adverb in der Form 決[き]まって bedeutet es "bestimmt", "sicher" oder "regelmäßig":</p>
+  <div class="examples">
+    <div class="jp">二週間[にしゅうかん]に 一度[いちど]<u>は</u> 決[き]まって 死[し]ぬ 者[もの]がいました。</div>
+    <div class="de spoiler">Alle zwei Wochen starb mindestens einer.</div>
+  </div>
+
+  <p>In der Form ⋯に 決[き]まっている bedeutet es "ganz sicher ... sein" oder "offensichtlich ... sein":</p>
+  <div class="examples">
+    <div class="jp">断[ことわ]られるに 決[き]まっているが</div>
+    <div class="de spoiler">Sie wird ganz sicher ablehnen, aber...</div>
+  </div>
+
+  </p>

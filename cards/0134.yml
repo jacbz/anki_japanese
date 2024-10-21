@@ -106,4 +106,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here's the grammatical note for 知る in HTML format:
+
+  <p>知る bedeutet "wissen", "kennen" oder "erfahren".</p>
+  <ul>
+    <li>Es kann bedeuten, etwas zu lernen oder mit etwas vertraut zu werden:</li>
+    <div class="examples">
+      <div class="jp">自分[じぶん]の 過去[かこ]を 情動[じょうどう]の 上[うえ]で<u>知る</u> 必要[ひつよう]があります。</div>
+      <div class="de spoiler">Wir müssen unsere Vergangenheit emotional kennenlernen.</div>
+    </div>
+    <li>Es kann auch bedeuten, etwas zu verstehen oder zu begreifen:</li>
+    <div class="examples">
+      <div class="jp">経験[けいけん]するというのは 事実[じじつ]そのままに<u>知る</u>の 意[い]である。</div>
+      <div class="de spoiler">Erfahren bedeutet, das Tatsächliche als solches zu erkennen.</div>
+    </div>
+  </ul>
+  <p>In der Form <span class="jp"><u>知って</u>いる</span> bedeutet es, etwas zu wissen oder jemanden zu kennen:</p>
+  <div class="examples">
+    <div class="jp">ぼくの<u>知って</u>いるかぎり、ほとんどの 箱男[はこおとこ]が 申[もう]し 合[あ]わせたようにこの「四半割[しはんわ]り」を 使用[しよう]していた。</div>
+    <div class="de spoiler">Tatsächlich und wie abgesprochen benutzen, soweit ich weiß, fast alle Schachtelmänner "Quartos".</div>
+  </div>
+  <p>In der verneinten Form bedeutet es, etwas nicht zu wissen oder nicht zu kennen:</p>
+  <div class="examples">
+    <div class="jp">バッタを<u>知らない</u>のか、<u>知らなけ</u>りゃ 見[み]せてやろう。</div>
+    <div class="de spoiler">Was, ihr kennt keine Grashüpfer? Dann werde ich euch welche zeigen!</div>
+  </div>
+  <p>Es kann auch verwendet werden, um auszudrücken, dass etwas einen nichts angeht:</p>
+  <div class="examples">
+    <div class="jp">あなたの 勝手[かって]ですがね。弟[おとうと]さんに 対[たい]して、どんな 考[かんが]えを 持[も]とうと、ぼくの<u>知った</u>ことじゃない。</div>
+    <div class="de spoiler">Nun, wie Sie wollen. Was Sie von Ihrem Bruder halten mögen, geht mich nichts an.</div>
+  </div>
+  <p>Es gibt viele idiomatische Ausdrücke mit 知る, zum Beispiel:</p>
+  <ul>
+    <li><span class="jp">恥[はじ]を<u>知る</u></span>: sich schämen</li>
+    <li><span class="jp">体[からだ]を<u>知る</u></span>: seinen Körper kennenlernen</li>
+    <li><span class="jp"><u>知って</u>の 通[とお]り</span>: wie du weißt / wie Sie wissen</li>
+  </ul>
+
+  </p>

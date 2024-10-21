@@ -102,4 +102,46 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>思い wird verwendet, um Gedanken, Gefühle oder Wünsche auszudrücken.</p>
+  <ul>
+    <li>Es kann verschiedene Arten von Gedanken oder Vorstellungen beschreiben:</li>
+    <div class="examples">
+      <div class="jp">さまざまな<u>思い</u>が、いっせいに 渦[うず]まきはじめ</div>
+      <div class="de spoiler">Alle möglichen Gedanken wirbelten ihm durch den Kopf</div>
+    </div>
+    <li>Es drückt oft Gefühle oder Erfahrungen aus:</li>
+    <div class="examples">
+      <div class="jp">ほっとする<u>思い</u>と、 心配[しんぱい]とが 入[はい]り 交[ま]じり</div>
+      <div class="de spoiler">Das Gefühl der Erleichterung mischte sich mit Sorge</div>
+    </div>
+    <li>Es kann auch Wünsche oder Absichten ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">日頃[ひごろ]の<u>思い</u>が 叶[かな]って、 会[あ]うことが 出来[でき]る</div>
+      <div class="de spoiler">Was er sich so lange gewünscht hatte, nun ging es in Erfüllung</div>
+    </div>
+    <li>In romantischen Kontexten kann es Liebe oder Zuneigung bedeuten:</li>
+    <div class="examples">
+      <div class="jp"><u>思い</u>を 告白[こくはく]する</div>
+      <div class="de spoiler">Seine Liebe gestehen</div>
+    </div>
+  </ul>
+  <p>思い kann auch in verschiedenen festen Ausdrücken verwendet werden:</p>
+  <ul>
+    <li><span class="jp"><u>思い</u>も 掛[か]けない</span>: unerwartet, nicht damit gerechnet haben</li>
+    <div class="examples">
+      <div class="jp"><u>思い</u>も 掛[か]けない 結果[けっか]</div>
+      <div class="de spoiler">Das unerwartete Ergebnis</div>
+    </div>
+    <li><span class="jp"><u>思い</u>も 寄[よ]らない</span>: unvorstellbar, nicht im Traum daran gedacht haben</li>
+    <div class="examples">
+      <div class="jp"><u>思い</u>も 寄[よ]らない 事故[じこ]</div>
+      <div class="de spoiler">Der unvorstellbare Unfall</div>
+    </div>
+    <li><span class="jp"><u>思い</u>を 晴[は]らす</span>: (negative Gefühle) zerstreuen, einen Wunsch erfüllen</li>
+    <div class="examples">
+      <div class="jp">酒[さけ]に<u>思い</u>を 晴[は]らす</div>
+      <div class="de spoiler">(Unzufriedenheit etc.) in Alkohol ertränken</div>
+    </div>
+  </ul>
+  </p>

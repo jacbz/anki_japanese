@@ -98,4 +98,37 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">売[う]れる</span> ist ein intransitives Verb, das "sich verkaufen" oder "verkäuflich sein" bedeutet.</p>
+
+  <ul>
+    <li>Es wird oft verwendet, um auszudrücken, dass etwas gut verkauft wird oder beliebt ist:</li>
+    <div class="examples">
+      <div class="jp">この 本[ほん]<u>は</u>よく<span class="jp">売[う]れる</span>。</div>
+      <div class="de spoiler">Dieses Buch verkauft sich gut.</div>
+    </div>
+
+    <li>In der Form <span class="jp">売[う]れている</span> oder <span class="jp">売[う]れた</span> bedeutet es "gefragt sein" oder "beliebt sein":</li>
+    <div class="examples">
+      <div class="jp">今[いま]、この 歌手[かしゅ]<u>は</u>とても<span class="jp">売[う]れている</span>。</div>
+      <div class="de spoiler">Dieser Sänger ist zurzeit sehr gefragt.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um auszudrücken, dass jemand oder etwas "Marktchancen" hat:</li>
+    <div class="examples">
+      <div class="jp">化粧[けしょう]を 施[ほどこ]せばまだ<span class="jp">売[う]れる</span> 顔[かお]だった。</div>
+      <div class="de spoiler">Mit etwas Make-up hätte sie durchaus noch eine Chance auf dem Markt.</div>
+    </div>
+  </ul>
+
+  <p>Idiomatische Ausdrücke mit <span class="jp">売[う]れる</span>:</p>
+  <ul>
+    <li><span class="jp">顔[かお]が<span class="jp">売[う]れる</span></span>: wörtlich "das Gesicht verkauft sich", bedeutet "bekannt sein" oder "einen guten Ruf haben".</li>
+    <li><span class="jp">飛[と]ぶように<span class="jp">売[う]れる</span></span>: wörtlich "sich verkaufen, als ob es fliegen würde", bedeutet "reißenden Absatz finden" oder "weggehen wie warme Semmeln".</li>
+  </ul>
+
+  <p>Beachten Sie die Verbformen:</p>
+  <ul>
+    <li>Verneinung: <span class="jp">売[う]れない</span></li>
+    <li>Vergangenheit: <span class="jp">売[う]れた</span></li>
+  </ul>

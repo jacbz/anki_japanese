@@ -2,7 +2,7 @@ Rang: 4075
 Lemma: 向き
 Lesung: むき
 Tonhöhen: \.
-Definition: Richtung, Aspekt; geeignet
+Definition: Richtung; Eignung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,12 +14,113 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   この家は南向きだ。
-  この 家[いえ]は 南向[みなみむ]きだ。
-  Dieses Haus hat eine südliche Ausrichtung.
+  この 家[いえ]は 南向[みなむ]きだ。
+  Dieses Haus ist nach Süden ausgerichtet.
+
+  風の向きが東に変わった。
+  風[かぜ]の 向[む]きが 東[ひがし]に 変[か]わった。
+  Die Windrichtung hat sich nach Osten geändert.
+
+  ソファーの向きを変えて、部屋の雰囲気を変えよう。
+  ソファーの 向[む]きを 変[か]えて、部屋[へや]の 雰囲気[ふんいき]を 変[か]えよう。
+  Lass uns die Position des Sofas ändern, um die Atmosphäre des Zimmers zu verändern.
+
+  西向きのベランダは夕日が綺麗に見えます。
+  西向[にしむ]きのベランダは 夕日[ゆうひ]が 綺麗[きれい]に 見[み]えます。
+  Von der nach Westen gelegenen Veranda aus kann man einen schönen Sonnenuntergang sehen.
+
+  株価の向きが上向きになってきた。
+  株価[かぶか]の 向[む]きが 上向[うわむ]きになってきた。
+  Die Aktienkurse haben begonnen, sich nach oben zu bewegen.
+
+  彼は体の向きを変え、私に背を向けた。
+  彼[かれ]は 体[からだ]の 向[む]きを 変[か]え、私[わたし]に 背[せ]を 向[む]けた。
+  Er drehte sich um und wandte mir den Rücken zu.
+
+  ご用の向きは何でしょうか。
+  ご 用[よう]の 向[む]きは 何[なん]でしょうか。
+  Was ist Ihr Anliegen?
+
+  悲観的に考える向きがある人もいますが、私は楽観的です。
+  悲観的[ひかんてき]に 考[かんが]える 向[む]きがある 人[ひと]もいますが、私[わたし]は 楽観的[らっかんてき]です。
+  Es gibt Leute, die dazu neigen, pessimistisch zu denken, aber ich bin optimistisch.
+
+  入会をご希望の向きは、こちらの用紙にご記入ください。
+  入会[にゅうかい]をご 希望[きぼう]の 向[む]きは、こちらの 用紙[ようし]にご 記入[きにゅう]ください。
+  Wenn Sie Mitglied werden möchten, füllen Sie bitte dieses Formular aus.
+
+  この政策に反対する向きが多い。
+  この 政策[せいさく]に 反対[はんたい]する 向[む]きが 多[おお]い。
+  Viele sind gegen diese Politik.
+
+  この仕事には向き不向きがあります。
+  この 仕事[しごと]には 向[む]き 不向[ふむ]きがあります。
+  Nicht jeder ist für diese Arbeit geeignet.
+
+  この映画は万人向きではありません。
+  この 映画[えいが]は 万人向[ばんにんむ]きではありません。
+  Dieser Film ist nicht für jeden geeignet.
+
+  彼女は家庭向きの人だ。
+  彼女[かのじょ]は 家庭向[かていむ]きの 人[ひと]だ。
+  Sie ist ein Familienmensch.
+
+  この本は子供向きです。
+  この 本[ほん]は 子供向[こどもむ]きです。
+  Dieses Buch ist für Kinder geeignet.
+
+  このアプリは初心者向きです。
+  このアプリは 初心者向[しょしんしゃむ]きです。
+  Diese App ist für Anfänger geeignet.
+
+  そんなにむきになることはないよ。
+  そんなに むきになることはないよ。
+  Du brauchst dich darüber nicht so aufzuregen.
+
+  むきになって反対しても、何も変わりませんよ。
+  むきになって 反対[はんたい]しても、何[なに]も 変[か]わりませんよ。
+  Selbst wenn du wütend protestierst, wird sich nichts ändern.
+
+  そんなことでむきになって怒るなんて、子供みたいだね。
+  そんなことで むきになって 怒[おこ]るなんて、子供[こども]みたいだね。
+  Sich über so etwas so aufzuregen und wütend zu werden, ist kindisch.
+
+  彼は些細なことでもむきになる傾向がある。
+  彼[かれ]は 些細[ささい]なことでも むきになる 傾向[けいこう]がある。
+  Er neigt dazu, selbst bei Kleinigkeiten die Beherrschung zu verlieren.
+
+  この服は冬向きだ。
+  この 服[ふく]は 冬向[ふゆむ]きだ。
+  Diese Kleidung ist für den Winter geeignet.
+
+  彼女は旅行向きでない靴を履いていた。
+  彼女[かのじょ]は 旅行向[りょこうむ]きでない 靴[くつ]を 履[は]いていた。
+  Sie trug Schuhe, die nicht für Reisen geeignet waren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort <span class="jp">向[む]き</span> kann in verschiedenen Kontexten verwendet werden:</p>
+  <p>1. Richtung oder Orientierung:</p>
+  <div class="examples">
+    <div class="jp">家[いえ]の 向[む]きを 南[みなみ]に 変[か]える。</div>
+    <div class="de spoiler">Die Ausrichtung des Hauses nach Süden ändern.</div>
+  </div>
+  <p>2. Tendenz oder Neigung:</p>
+  <div class="examples">
+    <div class="jp">楽観的[らっかんてき]に 考[かんが]える 向[む]きがある。</div>
+    <div class="de spoiler">Es gibt die Tendenz, optimistisch zu denken.</div>
+  </div>
+  <p>3. Eignung oder Bestimmung:</p>
+  <div class="examples">
+    <div class="jp">この 本[ほん]は 子供向[こどもむ]きです。</div>
+    <div class="de spoiler">Dieses Buch ist für Kinder geeignet.</div>
+  </div>
+  <p>4. In der Form <span class="jp">むきになる</span> bedeutet es, etwas zu ernst zu nehmen oder sich aufzuregen:</p>
+  <div class="examples">
+    <div class="jp">そんなに むきにならないで。</div>
+    <div class="de spoiler">Reg dich nicht so auf.</div>
+  </div>

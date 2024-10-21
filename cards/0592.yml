@@ -102,4 +102,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML-formatted grammar note for 例:
+
+  <p>例 hat mehrere wichtige Bedeutungen und Verwendungen:</p>
+
+  <ol>
+    <li>Gewohnheit oder übliche Praxis:</li>
+    <div class="examples">
+      <div class="jp">例[れい]によって、こちらをからかうような 通辞[つうじ]の 言葉[ことば]を 司祭[しさい]はほとんど 聞[き]いてはいなかった。</div>
+      <div class="de spoiler">Wie üblich achtete der Priester kaum auf die Worte des Dolmetschers, der versuchte, ihn zu provozieren.</div>
+    </div>
+
+    <li>Als Attribut (例の) bedeutet es "gewohnt", "üblich" oder "bekannt":</li>
+    <div class="examples">
+      <div class="jp">お 嬢[じょう]さんは 私[わたし]の 嫌[きら]いな<u>例[れい]の</u> 笑[わら]い方[かた]をするのです。</div>
+      <div class="de spoiler">Das Fräulein lachte auf die mir verhasste, übliche Art.</div>
+    </div>
+
+    <li>Auch als Attribut (例の) kann es sich auf etwas zuvor Erwähntes oder Bekanntes beziehen:</li>
+    <div class="examples">
+      <div class="jp">もう 一[ひと]つ、<u>例[れい]の</u> 懲罰[ちょうばつ]の 件[けん]、 今夜[こんや] 実行[じっこう]しろ。</div>
+      <div class="de spoiler">Noch eins! Führe heute Nacht die Bestrafung durch, über die wir gesprochen haben.</div>
+    </div>
+
+    <li>Beispiel oder Fallbeispiel:</li>
+    <div class="examples">
+      <div class="jp"><u>例[れい]</u>として 置[お]き 去[ざ]りにされたという 感情[かんじょう]を 取[と]り 上[あ]げてみましょう。</div>
+      <div class="de spoiler">Nehmen wir als Beispiel das Gefühl des Verlassenseins.</div>
+    </div>
+  </ol>
+
+  <p>Einige häufige Ausdrücke mit 例:</p>
+  <ul>
+    <li>例に洩れず (れいにもれず): keine Ausnahme bilden, wie alle anderen auch</li>
+    <li>例によって例の如し (れいによってれいのごとし): wie üblich, wie immer</li>
+    <div class="examples">
+      <div class="jp">やがてぱたぱた 書斎[しょさい]中[ちゅう]を 叩[たた]き 散[ち]らす 音[おと]がするのは<u>例[れい]によって例[れい]の如[ごと]き</u> 掃除[そうじ]を 始[はじ]めたのである。</div>
+      <div class="de spoiler">An den flappenden Geräuschen, die bald zu hören waren, erkannte ich, dass sie wie üblich mit dem Aufräumen im Arbeitszimmer begonnen hatte.</div>
+    </div>
+  </ul>
+  </p>

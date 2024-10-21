@@ -22,4 +22,29 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>そっと ist ein Adverb mit mehreren Bedeutungen:</p>
+  <ul>
+    <li>Es beschreibt sanfte, vorsichtige Handlungen:</li>
+    <div class="examples">
+      <div class="jp">モモは 赤[あか]ちゃんのそばに<u>そっと</u>すわりました。</div>
+      <div class="de spoiler">Momo setzte sich leise neben das Baby.</div>
+      <div class="jp">彼女[かのじょ]は 笑[わら]って 猫[ねこ]を 抱[だ]きあげ、<u>そっと</u> 床[ゆか]に 下[お]ろした。</div>
+      <div class="de spoiler">Sie lachte, hob den Kater hoch und setzte ihn sacht auf dem Boden ab.</div>
+    </div>
+    <li>Es kann auch heimliche oder unauffällige Handlungen beschreiben:</li>
+    <div class="examples">
+      <div class="jp">一人[ひとり]の 老[お]いた 病人[びょうにん]が 私[わたし]に<u>そっと</u> 終油[しゅゆ]の 秘蹟[ひせき]を 求[もと]めた。</div>
+      <div class="de spoiler">Ein alter kranker Mann bat mich heimlich um das Sakrament der letzten Ölung.</div>
+      <div class="jp">戸田[とだ]は 勝呂[すぐろ]と 肩[かた]を 並[なら]べながら、<u>そっと</u> 囁[ささや]いた。</div>
+      <div class="de spoiler">Toda flüsterte dem neben ihm gehenden Suguro zu.</div>
+    </div>
+    <li>In der Form <span class="jp"><u>そっと</u>しておく</span> bedeutet es, etwas auf sich beruhen zu lassen oder jemanden in Ruhe zu lassen:</li>
+    <div class="examples">
+      <div class="jp">例[れい]の 問題[もんだい]にはしばらく 手[て]をつけずに<u>そっと</u>しておくことにしました。</div>
+      <div class="de spoiler">Ich beschloss, alles einstweilen ruhen zu lassen.</div>
+      <div class="jp">もうわしらを<u>そっと</u>してくれてもよい 時期[じき]だ。</div>
+      <div class="de spoiler">Es ist Zeit, dass ihr uns in Ruhe lasst.</div>
+    </div>
+  </ul>
+  </p>

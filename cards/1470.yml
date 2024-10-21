@@ -98,4 +98,51 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb <span class="jp">抜[ぬ]ける</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Ausfallen oder Herausfallen:</li>
+    <div class="examples">
+      <div class="jp">歯[は]もぐらぐら 動[うご]きだして<u>抜[ぬ]けて</u>しまう。</div>
+      <div class="de spoiler">Die Zähne wurden locker und fielen schließlich aus.</div>
+    </div>
+
+    <li>Entweichen oder Verschwinden:</li>
+    <div class="examples">
+      <div class="jp">その 臭[にお]いは 一日中[いちにちじゅう]<u>抜[ぬ]け</u>ないのであった。</div>
+      <div class="de spoiler">Dieser Geruch war den ganzen Tag lang nicht wegzubekommen.</div>
+    </div>
+
+    <li>Aus etwas herausziehen oder aussteigen:</li>
+    <div class="examples">
+      <div class="jp">昼飯[ちゅうはん]を 口実[こうじつ]に、やっと<u>抜[ぬ]けて</u> 来[き]たんですからね。</div>
+      <div class="de spoiler">Ich hab, um mich loszueisen, gesagt, ich ginge in die Mittagspause.</div>
+    </div>
+
+    <li>Durch etwas hindurchgehen:</li>
+    <div class="examples">
+      <div class="jp">ここを<u>抜[ぬ]ける</u>と 大[おお]きな 通[とお]りに 出[で]るようです。</div>
+      <div class="de spoiler">Wenn wir hier durchgehen, müßten wir zu einer großen Straße gelangen.</div>
+    </div>
+
+    <li>In der Form <span class="jp"><u>抜[ぬ]けて</u>いる</span> oder <span class="jp"><u>抜[ぬ]け</u>た</span> kann es auch bedeuten, dass jemand "nicht ganz richtig im Kopf" ist:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 少[すこ]し<u>抜[ぬ]けて</u>いるようだ。</div>
+      <div class="de spoiler">Er scheint nicht ganz richtig im Kopf zu sein.</div>
+    </div>
+
+    <li>Sich von etwas befreien oder entkommen:</li>
+    <div class="examples">
+      <div class="jp">借金[しゃっきん]の<u>抜[ぬ]ける</u> 時[とき]がないもの。</div>
+      <div class="de spoiler">Man kommt nie aus den Schulden heraus.</div>
+    </div>
+  </ul>
+
+  <p>Es gibt auch einige feststehende Ausdrücke mit <span class="jp">抜[ぬ]ける</span>:</p>
+
+  <ul>
+    <li><span class="jp">気[き]が<u>抜[ぬ]ける</u></span>: die Spannung nachlassen, unaufmerksam werden</li>
+    <li><span class="jp">腰[こし]が<u>抜[ぬ]ける</u></span>: vor Schreck erstarren</li>
+    <li><span class="jp">右[みぎ]の 耳[みみ]からはいって 左[ひだり]から<u>抜[ぬ]ける</u></span>: zum einen Ohr hinein- und zum anderen wieder hinausgehen</li>
+  </ul>

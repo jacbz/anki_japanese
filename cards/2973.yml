@@ -2,7 +2,7 @@ Rang: 2973
 Lemma: 一点
 Lesung: いってん
 Tonhöhen: /^\.
-Definition: Punkt, Einzelpunkt
+Definition: Punkt; Aspekt
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,12 +14,112 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   皆の関心は、その一点に集中した。
-  皆[みな]の 関心[かんしん]は、その一 点[てん]に 集中[しゅうちゅう]した。
-  Das Interesse aller war auf diesen Punkt konzentriert.
+  皆[みな]の 関心[かんしん]は、その 一点[いってん]に 集中[しゅうちゅう]した。
+  Alle Aufmerksamkeit konzentrierte sich auf diesen einen Punkt.
+
+  地図上の一点を指して、「ここが目的地だ」と言った。
+  地図上[ちずじょう]の 一点[いってん]を 指[さ]して、「ここが 目的地[もくてきち]だ」と 言[い]った。
+  Er zeigte auf einen Punkt auf der Karte und sagte: "Das ist unser Ziel."
+
+  この問題について、もう一点付け加えたいことがあります。
+  この 問題[もんだい]について、もう 一点[いってん] 付[つ]け 加[くわ]えたいことがあります。
+  Ich möchte zu diesem Thema noch einen weiteren Aspekt hinzufügen.
+
+  彼女の作品には、一点の曇りもない美しさがある。
+  彼女[かのじょ]の 作品[さくひん]には、一点[いってん]の 曇[くも]りもない 美[うつく]しさがある。
+  Ihre Werke haben eine makellose Schönheit.
+
+  空間内の一点の位置は、三つの座標で表すことができる。
+  空間内[くうかんない]の 一点[いってん]の 位置[いち]は、三[みっ]つの 座標[ざひょう]で 表[あらわ]すことができる。
+  Die Position eines Punktes im Raum kann durch drei Koordinaten dargestellt werden.
+
+  彼の説明には一点の疑いもない。
+  彼[かれ]の 説明[せつめい]には 一点[いってん]の 疑[うたが]いもない。
+  An seiner Erklärung gibt es nicht den geringsten Zweifel.
+
+  最後の一点を決めて、チームは優勝を果たした。
+  最後[さいご]の 一点[いってん]を 決[き]めて、チームは 優勝[ゆうしょう]を 果[は]たした。
+  Mit dem letzten entscheidenden Punkt gewann das Team die Meisterschaft.
+
+  一点集中で勉強に取り組んだ結果、試験に合格できた。
+  一点集中[いってんしゅうちゅう]で 勉強[べんきょう]に 取[と]り 組[く]んだ 結果[けっか]、試験[しけん]に 合格[ごうかく]できた。
+  Durch die Konzentration auf einen Punkt beim Lernen konnte ich die Prüfung bestehen.
+
+  彼の心には一点の後ろめたさもなかった。
+  彼[かれ]の 心[こころ]には 一点[いってん]の 後[うし]ろめたさもなかった。
+  Er hatte nicht das geringste schlechte Gewissen.
+
+  この絵画は美術館の一点物だ。
+  この 絵画[かいが]は 美術館[びじゅつかん]の 一点物[いってんもの]だ。
+  Dieses Gemälde ist ein Unikat des Museums.
+
+  直線上の一点を選んで、そこに印をつけてください。
+  直線上[ちょくせんじょう]の 一点[いってん]を 選[えら]んで、そこに 印[しるし]をつけてください。
+  Bitte wählen Sie einen Punkt auf der Geraden und markieren Sie ihn.
+
+  彼女の演技には一点の曇りもない完璧さがあった。
+  彼女[かのじょ]の 演技[えんぎ]には 一点[いってん]の 曇[くも]りもない 完璧[かんぺき]さがあった。
+  Ihre Darbietung war von makelloser Perfektion.
+
+  この問題に関して、もう一点指摘させていただきます。
+  この 問題[もんだい]に 関[かん]して、もう 一点[いってん] 指摘[してき]させていただきます。
+  Lassen Sie mich zu diesem Problem noch einen weiteren Punkt anmerken.
+
+  彼の性格には一点の非もない。
+  彼[かれ]の 性格[せいかく]には 一点[いってん]の 非[ひ]もない。
+  Sein Charakter ist absolut tadellos.
+
+  空には一点の雲もなく、晴れ渡っていた。
+  空[そら]には 一点[いってん]の 雲[くも]もなく、晴[は]れ 渡[わた]っていた。
+  Der Himmel war wolkenlos und strahlend blau.
+
+  この商品は一点一点丁寧に作られています。
+  この 商品[しょうひん]は 一点一点[いってんいってん] 丁寧[ていねい]に 作[つく]られています。
+  Dieses Produkt wird Stück für Stück sorgfältig hergestellt.
+
+  彼は決勝の一点を決めて、ヒーローになった。
+  彼[かれ]は 決勝[けっしょう]の 一点[いってん]を 決[き]めて、ヒーローになった。
+  Er wurde zum Helden, indem er den entscheidenden Punkt im Finale erzielte.
+
+  一点の曇りもない青空が広がっていた。
+  一点[いってん]の 曇[くも]りもない 青空[あおぞら]が 広[ひろ]がっていた。
+  Ein wolkenloser blauer Himmel erstreckte sich.
+
+  この美術館には貴重な一点物がたくさん展示されている。
+  この 美術館[びじゅつかん]には 貴重[きちょう]な 一点物[いってんもの]がたくさん 展示[てんじ]されている。
+  In diesem Museum sind viele wertvolle Einzelstücke ausgestellt.
+
+  彼女の演奏には一点の乱れもなかった。
+  彼女[かのじょ]の 演奏[えんそう]には 一点[いってん]の 乱[みだ]れもなかった。
+  Ihre Aufführung war makellos, ohne den geringsten Fehler.
+
+  時計の針が一点を指した瞬間、イベントが始まった。
+  時計[とけい]の 針[はり]が 一点[いってん]を 指[さ]した 瞬間[しゅんかん]、イベントが 始[はじ]まった。
+  In dem Moment, als der Uhrzeiger auf einen bestimmten Punkt zeigte, begann die Veranstaltung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>一点 kann in verschiedenen Kontexten verwendet werden:</p>
+  <div class="examples">
+    <div class="jp">地図上[ちずじょう]の 一点[いってん]</div>
+    <div class="de spoiler">Ein Punkt auf der Karte</div>
+  </div>
+  <p>Es kann auch verwendet werden, um "nicht im Geringsten" auszudrücken, wenn es mit einer Verneinung kombiniert wird:</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]の 説明[せつめい]には 一点[いってん]の 疑[うたが]いもない。</div>
+    <div class="de spoiler">An seiner Erklärung gibt es nicht den geringsten Zweifel.</div>
+  </div>
+  <p>In Bewertungen oder Wettbewerben kann es einen einzelnen Punkt oder Treffer bezeichnen:</p>
+  <div class="examples">
+    <div class="jp">決勝[けっしょう]の 一点[いってん]を 決[き]める</div>
+    <div class="de spoiler">Den entscheidenden Punkt im Finale erzielen</div>
+  </div>
+  <p>Es kann auch verwendet werden, um ein einzelnes (Kunst-)Werk oder einen Verkaufsartikel zu bezeichnen:</p>
+  <div class="examples">
+    <div class="jp">美術館[びじゅつかん]の 一点物[いってんもの]</div>
+    <div class="de spoiler">Ein Unikat des Museums</div>
+  </div>

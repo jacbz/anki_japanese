@@ -2,24 +2,127 @@ Rang: 2126
 Lemma: 属する
 Lesung: ぞくする
 Tonhöhen: /^\.
-Definition: angehören, Mitglied sein von
+Definition: (zu etw.) gehören; angehören
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vi
+Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 属さない・属した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼はサッカーチームに属している。
   彼[かれ]はサッカーチームに 属[ぞく]している。
-  Er ist Mitglied eines Fußballteams.
+  Er gehört einem Fußballteam an.
+
+  この会社は大手企業グループに属しています。
+  この 会社[かいしゃ]は 大手[おおて] 企業[きぎょう]グループに 属[ぞく]しています。
+  Dieses Unternehmen gehört zu einer großen Unternehmensgruppe.
+
+  桜はバラ科に属する植物です。
+  桜[さくら]はバラ 科[か]に 属[ぞく]する 植物[しょくぶつ]です。
+  Die Kirschblüte gehört zur Familie der Rosengewächse.
+
+  この問題は私の管轄に属しません。
+  この 問題[もんだい]は 私[わたし]の 管轄[かんかつ]に 属[ぞく]しません。
+  Dieses Problem fällt nicht in meinen Zuständigkeitsbereich.
+
+  その情報はもう旧聞に属するよ。
+  その 情報[じょうほう]はもう 旧聞[きゅうぶん]に 属[ぞく]するよ。
+  Diese Information ist schon alte Geschichte.
+
+  彼女は非現実的に凡庸なグループに属すると思う。
+  彼女[かのじょ]は 非現実的[ひげんじつてき]に 凡庸[ぼんよう]なグループに 属[ぞく]すると 思[おも]う。
+  Ich denke, sie gehört zu der Gruppe der mittelmäßigen Träumer.
+
+  どんな人間でも、ヒト科に属する動物です。
+  どんな 人間[にんげん]でも、ヒト 科[か]に 属[ぞく]する 動物[どうぶつ]です。
+  Jeder Mensch ist ein Tier, das zur Gattung Homo gehört.
+
+  この部隊に属する兵士たちの出身はさまざまだった。
+  この 部隊[ぶたい]に 属[ぞく]する 兵士[へいし]たちの 出身[しゅっしん]はさまざまだった。
+  Die Herkunft der zu dieser Einheit gehörenden Soldaten war vielfältig.
+
+  これは私的な事項に属する問題です。
+  これは 私的[してき]な 事項[じこう]に 属[ぞく]する 問題[もんだい]です。
+  Dies ist eine Angelegenheit, die in den privaten Bereich fällt.
+
+  皇室財産はすべて国に属します。
+  皇室[こうしつ] 財産[ざいさん]はすべて 国[くに]に 属[ぞく]します。
+  Das gesamte Vermögen des Kaiserhauses gehört dem Staat.
+
+  この障害は広義の自閉症に属する発達障害の一つです。
+  この 障害[しょうがい]は 広義[こうぎ]の 自閉症[じへいしょう]に 属[ぞく]する 発達[はったつ] 障害[しょうがい]の 一[ひと]つです。
+  Diese Störung ist eine Entwicklungsstörung, die im weiteren Sinne zum Autismus-Spektrum gehört.
+
+  上司の命令に属さなければなりません。
+  上司[じょうし]の 命令[めいれい]に 属[ぞく]さなければなりません。
+  Wir müssen den Anweisungen unseres Vorgesetzten Folge leisten.
+
+  この仕事を君に属することにしました。
+  この 仕事[しごと]を 君[きみ]に 属[ぞく]することにしました。
+  Ich habe beschlossen, dir diese Aufgabe anzuvertrauen.
+
+  彼女に望みを属してしまった。
+  彼女[かのじょ]に 望[のぞ]みを 属[ぞく]してしまった。
+  Ich habe all meine Hoffnungen auf sie gesetzt.
+
+  このニュースに耳目を属しましょう。
+  このニュースに 耳目[じもく]を 属[ぞく]しましょう。
+  Lasst uns diesem Nachrichtenbericht aufmerksam zuhören und zusehen.
+
+  この小説は短編に属する作品です。
+  この 小説[しょうせつ]は 短編[たんぺん]に 属[ぞく]する 作品[さくひん]です。
+  Dieser Roman gehört zur Kategorie der Kurzgeschichten.
+
+  彼らは同じ部署に属しているが、あまり話さない。
+  彼[かれ]らは 同[おな]じ 部署[ぶしょ]に 属[ぞく]しているが、あまり 話[はな]さない。
+  Sie gehören zur gleichen Abteilung, sprechen aber kaum miteinander.
+
+  この動物は絶滅危惧種に属しています。
+  この 動物[どうぶつ]は 絶滅[ぜつめつ] 危惧[きぐ] 種[しゅ]に 属[ぞく]しています。
+  Dieses Tier gehört zu den gefährdeten Arten.
+
+  彼女の考えは少数派に属するものだ。
+  彼女[かのじょ]の 考[かんが]えは 少数派[しょうすうは]に 属[ぞく]するものだ。
+  Ihre Meinung gehört zu der einer Minderheit.
+
+  この問題の解決は君の能力に属することだ。
+  この 問題[もんだい]の 解決[かいけつ]は 君[きみ]の 能力[のうりょく]に 属[ぞく]することだ。
+  Die Lösung dieses Problems liegt in deinen Fähigkeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 属する (zokusuru) wird hauptsächlich in zwei Bedeutungen verwendet:</p>
+  <ol>
+    <li>Zu etwas gehören oder einer Gruppe angehören:<div class="examples">
+        <div class="jp">この 会社[かいしゃ]は 大手[おおて] 企業[きぎょう]グループに 属[ぞく]しています。</div>
+        <div class="de spoiler">Dieses Unternehmen gehört zu einer großen Unternehmensgruppe.</div>
+      </div>
+    </li>
+    <li>Jemandem etwas anvertrauen oder überlassen:<div class="examples">
+        <div class="jp">この 仕事[しごと]を 君[きみ]に 属[ぞく]することにしました。</div>
+        <div class="de spoiler">Ich habe beschlossen, dir diese Aufgabe anzuvertrauen.</div>
+      </div>
+    </li>
+  </ol>
+  <p>In der Umgangssprache wird 属する oft in der て-Form (属して) verwendet, besonders wenn es um die Zugehörigkeit zu einer Gruppe geht.</p>
+  <div class="examples">
+    <div class="jp">彼[かれ]はサッカーチームに 属[ぞく]している。</div>
+    <div class="de spoiler">Er gehört einem Fußballteam an.</div>
+  </div>
+  <p>Es gibt auch einige feste Ausdrücke mit 属する, wie zum Beispiel:</p>
+  <div class="examples">
+    <div class="jp">旧聞[きゅうぶん]に 属[ぞく]する</div>
+    <div class="de spoiler">alte Geschichte sein; keine Neuigkeit sein</div>
+  </div>
+  <div class="examples">
+    <div class="jp">耳目[じもく]を 属[ぞく]する</div>
+    <div class="de spoiler">aufmerksam zuhören und zusehen</div>
+  </div>

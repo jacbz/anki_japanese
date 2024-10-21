@@ -22,4 +22,49 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">見上[みあ]げる</span> ist ein transitives Verb mit zwei Hauptbedeutungen:</p>
+
+  <ol>
+    <li>Nach oben schauen oder blicken</li>
+    <ul>
+      <li>Es drückt die Handlung aus, den Blick nach oben zu richten oder etwas anzuschauen, das sich über einem befindet.</li>
+      <div class="examples">
+        <div class="jp">彼[かれ]は 天井[てんじょう]を<u>見上[みあ]げた</u>。</div>
+        <div class="de spoiler">Er schaute zur Decke.</div>
+        <div class="jp">団地[だんち]を<u>見上[みあ]げる</u>と、 邦子[くにこ]の 部屋[へや]のベランダが 見[み]えた。</div>
+        <div class="de spoiler">Als er zur Wohnanlage hochschaute, konnte er Kunikos Balkon sehen.</div>
+      </div>
+      <li>Es kann auch verwendet werden, um auf etwas zu schauen, das sich nicht unbedingt physisch über einem befindet, wie z.B. ein Fahrplan an der Wand.</li>
+      <div class="examples">
+        <div class="jp">時刻表[じこくひょう]を<u>見上[みあ]げた</u>。</div>
+        <div class="de spoiler">Er schaute auf den Fahrplan.</div>
+      </div>
+    </ul>
+
+    <li>Jemanden oder etwas bewundern oder hochachten</li>
+    <ul>
+      <li>In diesem Sinne drückt es Respekt, Bewunderung oder Verehrung aus.</li>
+      <div class="examples">
+        <div class="jp">彼[かれ]の 努力[どりょく]は<u>見上[みあ]げた</u>ものだ。</div>
+        <div class="de spoiler">Seine Bemühungen sind bewundernswert.</div>
+      </div>
+      <li>Oft wird es in der Form <span class="jp">見上[みあ]げた</span> als Adjektiv verwendet, um etwas als lobenswert oder vorbildlich zu beschreiben.</li>
+      <div class="examples">
+        <div class="jp">まったく<u>見上[みあ]げた</u>、 慎重[しんちょう]さだね。</div>
+        <div class="de spoiler">Das ist wirklich eine lobenswerte Vorsicht.</div>
+      </div>
+    </ul>
+  </ol>
+
+  <p>Konjugation:</p>
+  <ul>
+    <li>Verneinung: <span class="jp">見上[みあ]げない</span></li>
+    <li>Vergangenheit: <span class="jp">見上[みあ]げた</span></li>
+  </ul>
+
+  <p>Beachten Sie den Gegensatz zu:</p>
+  <ul>
+    <li><span class="jp">見下[みお]ろす</span> (nach unten schauen) für die erste Bedeutung</li>
+    <li><span class="jp">見下[みさ]げる</span> (auf jemanden herabschauen) für die zweite Bedeutung</li>
+  </ul>

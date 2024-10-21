@@ -98,4 +98,43 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>詰[つ]まる hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Voll werden, sich füllen</li>
+    <div class="examples">
+      <div class="jp">避難者[ひなんしゃ]が 乗[の]りこんでぎっしり<u>詰[つ]まって</u>いた。</div>
+      <div class="de spoiler">Es war voll von Flüchtlingen, die eingestiegen waren.</div>
+    </div>
+
+    <li>Verstopft werden, steckenbleiben</li>
+    <div class="examples">
+      <div class="jp">トイレが 全部[ぜんぶ]<u>詰[つ]まり</u>、ホテル 中[じゅう]に 悪臭[あくしゅう]が 漂[ただよ]った。</div>
+      <div class="de spoiler">Alle Toiletten waren verstopft, und der Gestank breitete sich im ganzen Hotel aus.</div>
+    </div>
+
+    <li>In die Enge getrieben werden, ratlos sein</li>
+    <div class="examples">
+      <div class="jp">カズオは 返事[へんじ]に<u>詰[つ]まった</u>。</div>
+      <div class="de spoiler">Kazuo wusste nicht, was er antworten sollte.</div>
+    </div>
+
+    <li>Eingehen, schrumpfen, kürzer werden</li>
+    <div class="examples">
+      <div class="jp">洗[あら]うと<u>詰[つ]まる</u>。</div>
+      <div class="de spoiler">Es geht beim Waschen ein.</div>
+      <div class="jp">日[ひ]が<u>詰[つ]まる</u>。</div>
+      <div class="de spoiler">Die Tage werden kürzer.</div>
+    </div>
+
+    <li>Eng werden, stocken (in bestimmten Ausdrücken)</li>
+    <div class="examples">
+      <div class="jp">息[いき]が<u>詰[つ]まる</u>。</div>
+      <div class="de spoiler">Der Atem stockt.</div>
+      <div class="jp">気[き]が<u>詰[つ]まる</u>。</div>
+      <div class="de spoiler">Es wird unbehaglich.</div>
+    </div>
+  </ul>
+
+  </p>

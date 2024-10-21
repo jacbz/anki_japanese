@@ -98,4 +98,48 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>うそ (嘘) ist ein wichtiges Wort im Japanischen mit mehreren Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: Lüge</li>
+    <div class="examples">
+      <div class="jp">大[おお]きな<u>嘘[うそ]</u>を 隠[かく]すには、小[ちい]さな 無数[むすう]の<u>嘘[うそ]</u>で、そのまわりをくるんでやるのが 一番[いちばん]だという。</div>
+      <div class="de spoiler">Es heißt, um eine große Lüge zu kaschieren, sei es am besten, sie mit lauter kleinen zu garnieren.</div>
+    </div>
+
+    <li>Als Ausruf: Nein! / Unmöglich! / Das kann nicht sein!</li>
+    <div class="examples">
+      <div class="jp"><u>嘘[うそ]</u>！そんなことあり 得[え]ない！</div>
+      <div class="de spoiler">Das glaub ich nicht! Das kann nicht sein!</div>
+    </div>
+
+    <li>In der Form ...するのは<u>嘘[うそ]</u>だ: nicht ratsam sein, nicht angemessen sein</li>
+    <div class="examples">
+      <div class="jp">こんな 時[とき]に 家[いえ]をたてるのは<u>嘘[うそ]</u>だ。</div>
+      <div class="de spoiler">Zu dieser Zeit ein Haus zu bauen, ist nicht ratsam.</div>
+    </div>
+
+    <li>In der Form ...しなければ<u>嘘[うそ]</u>だ: etwas unbedingt tun müssen</li>
+    <div class="examples">
+      <div class="jp">このチャンスを 逃[のが]さなければ<u>嘘[うそ]</u>だ。</div>
+      <div class="de spoiler">Diese Chance muss man unbedingt nutzen.</div>
+    </div>
+  </ul>
+
+  <p>Einige wichtige Redewendungen mit うそ:</p>
+
+  <ul>
+    <li><span class="jp"><u>嘘[うそ]</u>みたい</span>: kaum zu glauben sein, unglaublich sein</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]が 上[あ]がったばかりなので、 花見[はなみ] 時[じ]の 人出[ひとで]が<u>嘘[うそ]</u>のようにそこは 閑散[かんさん]としていた。</div>
+      <div class="de spoiler">Es hatte eben erst aufgehört zu regnen, deshalb waren kaum Leute da, kein Vergleich mit dem Menschenauflauf zur Kirschblütenzeit!</div>
+    </div>
+
+    <li><span class="jp"><u>嘘[うそ]</u>を 言[い]え</span>: Lüg nicht! / Ach was! (als Ausruf des Unglaubens)</li>
+    <div class="examples">
+      <div class="jp"><u>嘘[うそ]</u>を 言[い]え！そんなことあり 得[え]ないよ。</div>
+      <div class="de spoiler">Ach was! Das kann doch gar nicht sein.</div>
+    </div>
+  </ul>
+  </p>

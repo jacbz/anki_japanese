@@ -163,18 +163,51 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
 Notiz: |-
-  <p>身 (み) hat verschiedene Bedeutungen und Verwendungen:</p>
+  <p>身 (み) ist ein wichtiges Wort mit vielen Bedeutungen und Verwendungen:</p>
+
   <ul>
-    <li>Es kann den physischen Körper oder das Selbst bezeichnen.</li>
-    <li>Es wird in vielen idiomatischen Ausdrücken verwendet, die oft Handlungen oder Zustände in Bezug auf den eigenen Körper oder die eigene Person beschreiben.</li>
-    <li>Es kann auch verwendet werden, um den sozialen Status oder die Lebenssituation einer Person zu beschreiben.</li>
+    <li>Grundbedeutung: Körper, Leib, Fleisch</li>
+    <div class="examples">
+      <div class="jp">身[み]も 気[き]も 全[まった]く 疲[つか]れて 来[き]た。</div>
+      <div class="de spoiler">Er war an Leib und Seele total erschöpft.</div>
+    </div>
+
+    <li>Das Selbst, man selbst (reflexiv)</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は<u>身[み]</u>をかがめて 登山靴[とざんぐつ]の 紐[ひも]をほどいた。</div>
+      <div class="de spoiler">Er bückte sich und schnürte seine Bergschuhe auf.</div>
+    </div>
+
+    <li>Stand, Rang, gesellschaftliche Stellung</li>
+    <div class="examples">
+      <div class="jp">普通[ふつう]なら 陪臣[ばいしん]の<u>身[み]</u>で 将軍家[しょうぐんけ]一族[いちぞく]の 慶喜[よしのぶ]に 対[たい]し、たとえ 夢[ゆめ]の 中[なか]でも 拝謁[はいえつ]できるわけはないであろう。</div>
+      <div class="de spoiler">Normalerweise hätte ein Vasall eines Lehnsfürsten noch nicht einmal im Traum von Yoshinobu, das heißt einem Mann des Hauses Tokugawa, zur Audienz empfangen werden können.</div>
+    </div>
   </ul>
-  <p>Einige häufige Ausdrücke mit 身 (み) sind:</p>
+
+  <p>Wichtige Redewendungen mit 身:</p>
+
   <ul>
-    <li><span class="jp">身を守る</span> (み を まもる): sich schützen</li>
-    <li><span class="jp">身を隠す</span> (み を かくす): sich verstecken</li>
-    <li><span class="jp">身を立てる</span> (み を たてる): im Leben vorankommen, erfolgreich sein</li>
-    <li><span class="jp">身を引く</span> (み を ひく): sich zurückziehen</li>
-    <li><span class="jp">身を捨てる</span> (み を すてる): sich opfern</li>
+    <li><u>身[み]</u>を 隠[かく]す (mi o kakusu): sich verstecken, untertauchen</li>
+    <div class="examples">
+      <div class="jp">できるなら 泥亀[どろがめ]のように 灰色[はいいろ]の 泥[どろ]の 中[なか]にこの<u>身[み]</u>を 隠[かく]してしまいたい。</div>
+      <div class="de spoiler">Am liebsten hätte sie sich in grauem Schlamm vergraben wie eine Sumpfschildkröte.</div>
+    </div>
+
+    <li><u>身[み]</u>を 粉[こ]にする (mi o ko ni suru): sich bis auf die Knochen abarbeiten</li>
+    <div class="examples">
+      <div class="jp">「<u>身[み]</u>を 粉[こ]にして 働[はたら]いて、借金[しゃっきん]は 必[かなら]ず 皆[みな]さんにお 返[かえ]しいたしますわ」</div>
+      <div class="de spoiler">"Das geliehene Geld werde ich zurückzahlen, selbst wenn ich mich bis auf die Knochen dafür abrackern müsste."</div>
+    </div>
+
+    <li><u>身[み]</u>を 焦[こ]がす (mi o kogasu): sich (in Liebe) verzehren</li>
+    <div class="examples">
+      <div class="jp">恋[こい]に<u>身[み]</u>を 焦[こ]がす</div>
+      <div class="de spoiler">in Liebe entbrennen, sich vor Liebe verzehren</div>
+    </div>
+
+    <li><u>身[み]</u>を 立[た]てる (mi o tateru): sich eine Existenz aufbauen, Karriere machen</li>
   </ul>
-  <p>Diese Ausdrücke werden oft verwendet, um Handlungen oder Situationen zu beschreiben, die den ganzen Menschen betreffen.</p>
+
+  <p>身 kann auch als Pronomen für "ich" verwendet werden, besonders in literarischen Kontexten.</p>
+  </p>

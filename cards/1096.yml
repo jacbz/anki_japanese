@@ -102,4 +102,37 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammar note for かつ:
+
+  <p>かつ ist eine Konjunktion, die "und" oder "sowie" bedeutet. Sie wird verwendet, um Sätze oder Phrasen zu verbinden und zusätzliche Informationen hinzuzufügen.</p>
+
+  <ul>
+    <li>Es kann bedeuten "sowohl ... als auch ...":</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]<u>は</u> 私[わたし]をまね、<u>かつ</u>あざけっていた。</div>
+      <div class="de spoiler">Er imitierte mich und machte sich zugleich über mich lustig.</div>
+    </div>
+
+    <li>Es kann auch "außerdem" oder "zudem" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">必要[ひつよう]にして<u>かつ</u> 十分[じゅうぶん]なる 生活[せいかつ]セット</div>
+      <div class="de spoiler">Ein Lebensset, das notwendig und zugleich ausreichend ist.</div>
+    </div>
+
+    <li>Es wird oft verwendet, um mehrere Aktionen oder Zustände zu verbinden:</li>
+    <div class="examples">
+      <div class="jp">日本語[にほんご]を 話[はな]し<u>かつ</u> 聞[き]けるようになった。</div>
+      <div class="de spoiler">Er lernte, Japanisch zu sprechen und zu verstehen.</div>
+    </div>
+  </ul>
+
+  <p>かつ kann auch als Adverb verwendet werden, oft in der Form "かつ ..., かつ ...":</p>
+
+  <div class="examples">
+    <div class="jp"><u>かつ</u> 歌[うた]い、<u>かつ</u> 踊[おど]る</div>
+    <div class="de spoiler">singen und tanzen</div>
+  </div>
+
+  <p>In dieser Form kann es bedeuten "nicht nur ..., sondern auch ..." oder "einerseits ..., andererseits ...".</p>
+  </p>

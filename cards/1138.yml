@@ -102,4 +102,38 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Adjektiv <span class="jp">細[こま]かい</span> hat mehrere verwandte Bedeutungen:</p>
+
+  <ul>
+    <li>Klein, fein oder dünn</li>
+    <div class="examples">
+      <div class="jp">肌理[きめ]の<u>細[こま]かい</u> 豊[ゆた]かな 黒土[くろつち]だった。</div>
+      <div class="de spoiler">Es war eine sehr feinkrumige, fruchtbare schwarze Erde.</div>
+    </div>
+
+    <li>Gering oder geringfügig (in Bezug auf Menge, Bedeutung, etc.)</li>
+    <div class="examples">
+      <div class="jp"><u>細[こま]かい</u> 技術[ぎじゅつ]と 筋肉[きんにく]では 彼[かれ]はかつてのラバに 匹敵[ひってき]した。</div>
+      <div class="de spoiler">In kleinen Kniffen und an Muskelkraft stand er dem verstorbenen Rubber nicht nach.</div>
+    </div>
+
+    <li>Detailliert, genau oder sorgfältig</li>
+    <div class="examples">
+      <div class="jp">ヘッド・ウェイターが<u>細[こま]かく</u> 点検[てんけん]していた。</div>
+      <div class="de spoiler">Der Oberkellner inspizierte bis ins kleinste Detail.</div>
+    </div>
+
+    <li>Kleinlich oder pingelig (oft in Bezug auf Geld)</li>
+    <div class="examples">
+      <div class="jp">金[かね]に<u>細[こま]かい</u> 人[ひと]</div>
+      <div class="de spoiler">Ein Mensch, der in Gelddingen kleinlich ist; ein geiziger Mensch.</div>
+    </div>
+  </ul>
+
+  <p>Die Adverbform <span class="jp">細[こま]かく</span> wird oft verwendet, um "im Detail" oder "genauestens" auszudrücken:</p>
+
+  <div class="examples">
+    <div class="jp">二人[ふたり]は、<u>細[こま]かく</u> 気[き]をくばって 顔[かお]を 合[あ]わせないようにしていた。</div>
+    <div class="de spoiler">Die beiden mieden einander geflissentlich.</div>
+  </div>

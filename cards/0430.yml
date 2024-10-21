@@ -106,4 +106,58 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the requested grammar note for 待つ in HTML format:
+
+  <p>待[ま]つ ist ein transitives Verb, das "warten" bedeutet.</p>
+
+  <ul>
+    <li>Es wird oft mit einem Objekt verwendet, auf das man wartet:</li>
+    <div class="examples">
+      <div class="jp">バス<u>を</u>待[ま]つ</div>
+      <div class="de spoiler">auf den Bus warten</div>
+      <div class="jp">電話[でんわ]<u>を</u>待[ま]つ</div>
+      <div class="de spoiler">auf einen Anruf warten</div>
+    </div>
+
+    <li>Es kann auch mit einem Ort verwendet werden, wo man wartet:</li>
+    <div class="examples">
+      <div class="jp">駅[えき]<u>で</u>待[ま]つ</div>
+      <div class="de spoiler">am Bahnhof warten</div>
+    </div>
+
+    <li>Man kann auch auf abstrakte Dinge oder Ereignisse warten:</li>
+    <div class="examples">
+      <div class="jp">春[はる]<u>を</u>待[ま]つ</div>
+      <div class="de spoiler">auf den Frühling warten</div>
+      <div class="jp">終[お]わるまで待[ま]つ</div>
+      <div class="de spoiler">warten bis etwas zu Ende ist</div>
+    </div>
+  </ul>
+
+  <p>Einige nützliche Ausdrücke mit 待つ:</p>
+  <ul>
+    <li><span class="jp">待[ま]ってください。</span> - Warten Sie bitte. / Einen Moment bitte.</li>
+    <li><span class="jp">待[ま]て、動[うご]くな！</span> - Halt! Keine Bewegung!</li>
+    <li><span class="jp">ちょっと待[ま]って。</span> - Warte kurz.</li>
+  </ul>
+
+  <p>In der Form に待つ kann es auch "etwas benötigen" oder "nach etwas verlangen" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">今後[こんご]の 研究[けんきゅう]<u>に</u>待[ま]つ</div>
+    <div class="de spoiler">weitergehender Forschung bedürfen</div>
+  </div>
+
+  <p>In der Negativform を待たない bedeutet es "etwas nicht benötigen" oder "überflüssig sein":</p>
+  <div class="examples">
+    <div class="jp">言[げん]<u>を</u>待[ま]たない</div>
+    <div class="de spoiler">es ist unnötig zu sagen, es versteht sich von selbst</div>
+  </div>
+
+  <p>Ein bekanntes Sprichwort mit 待つ:</p>
+  <div class="examples">
+    <div class="jp">待[ま]てば 海路[かいろ]の 日和[ひより]あり</div>
+    <div class="de spoiler">Wenn man abwartet, hat man die schönste Seereise. (Entspricht etwa: Wer warten kann, hat viel getan.)</div>
+  </div>
+
+  </p>

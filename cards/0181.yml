@@ -2,7 +2,7 @@ Rang: 181
 Lemma: どこ
 Lesung: ''
 Tonhöhen: \.
-Definition: wo; welcher Ort
+Definition: wo
 Alternativschreibweisen: 何処・何所
 Extra: '' # Nur bei suru-Verben
 Wortart: pron
@@ -106,4 +106,44 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>どこ wird verwendet, um nach einem Ort oder einer Position zu fragen. Es entspricht dem deutschen "wo" oder "welcher Ort".</p>
+
+  <ul>
+    <li>Es kann in verschiedenen Kontexten verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">葬式[そうしき]<u>は</u><u>どこ</u>でやるんだろう？</div>
+      <div class="de spoiler">Wo ist denn die Beerdigung?</div>
+      <div class="jp"><u>どこ</u>で 生[う]まれたか 頓[とん]と 見当[けんとう]がつかぬ。</div>
+      <div class="de spoiler">Wo ich geboren wurde, davon habe ich nicht die mindeste Ahnung.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um nach der Herkunft zu fragen:</li>
+    <div class="examples">
+      <div class="jp">いったい<u>どこ</u>から 来[き]たんだね？</div>
+      <div class="de spoiler">Wo kommst du denn her, Kind?</div>
+    </div>
+
+    <li>In Verbindung mit der Verneinung kann es "nirgendwo" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">ぼくがまだ 生[い]きのびているという 証拠[しょうこ]は、<u>どこ</u>にもないのである。</div>
+      <div class="de spoiler">Es gibt keinerlei Beweis, dass ich noch am Leben bin.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um nach dem interessanten Aspekt von etwas zu fragen:</li>
+    <div class="examples">
+      <div class="jp">こんな 悪戯[いたずら]の<u>どこ</u>が 面白[おもしろ]いのだろう。</div>
+      <div class="de spoiler">Was ist das Interessante an diesem Schabernack?</div>
+    </div>
+  </ul>
+
+  <p>どこ wird auch in einigen idiomatischen Ausdrücken verwendet:</p>
+
+  <ul>
+    <li><span class="jp"><u>どこ</u> 吹[ふ]く 風[かぜ]</span>: Beschreibt eine gleichgültige oder desinteressierte Haltung.</li>
+
+    <li><span class="jp"><u>どこ</u>の 馬[うま]の 骨[ほね]</span>: Wörtlich "Von welchem Pferd stammt der Knochen?", wird scherzhaft verwendet, um zu fragen, wer jemand eigentlich ist oder woher jemand kommt.</li>
+
+    <li><span class="jp">ここは<u>どこ</u>だ</span>: Wird verwendet, um zu fragen "Wo sind wir hier?" oder "Was ist das für ein Ort?"</li>
+  </ul>
+  </p>

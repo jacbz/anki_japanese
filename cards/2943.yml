@@ -2,20 +2,96 @@ Rang: 2943
 Lemma: 沈む
 Lesung: しずむ
 Tonhöhen: /^^
-Definition: sinken, untergehen
+Definition: sinken; versinken; niedergeschlagen sein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 沈まない・沈んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   その船は海の底に沈んだ。
   その 船[ふね]は 海[うみ]の 底[そこ]に 沈[しず]んだ。
-  Das Schiff sank auf den Grund des Meeres.
+  Das Schiff ist auf den Meeresgrund gesunken.
+
+  日が地平線の下に沈むと、空が美しく染まった。
+  日[ひ]が 地平線[ちへいせん]の 下[した]に 沈[しず]むと、空[そら]が 美[うつく]しく 染[そ]まった。
+  Als die Sonne hinter dem Horizont versank, färbte sich der Himmel wunderschön.
+
+  地震後、地盤が徐々に沈んでいることが分かった。
+  地震[じしん] 後[ご]、地盤[じばん]が 徐々[じょじょ]に 沈[しず]んでいることが 分[わ]かった。
+  Nach dem Erdbeben wurde festgestellt, dass sich der Boden allmählich absenkt.
+
+  経済危機で多くの企業が倒産の淵に沈んでいる。
+  経済[けいざい] 危機[きき]で 多[おお]くの 企業[きぎょう]が 倒産[とうさん]の 淵[ふち]に 沈[しず]んでいる。
+  Viele Unternehmen sind durch die Wirtschaftskrise am Rande des Bankrotts.
+
+  彼は物思いに沈んで、周りの声が聞こえないようだった。
+  彼[かれ]は 物思[ものおも]いに 沈[しず]んで、周[まわ]りの 声[こえ]が 聞[き]こえないようだった。
+  Er war in Gedanken versunken und schien die Stimmen um ihn herum nicht zu hören.
+
+  悲しみに沈む彼女を慰めるのは難しかった。
+  悲[かな]しみに 沈[しず]む 彼女[かのじょ]を 慰[なぐさ]めるのは 難[むずか]しかった。
+  Es war schwierig, sie zu trösten, als sie in Trauer versunken war.
+
+  失恋後、友人は気分が沈んでいて外出もしない。
+  失恋[しつれん] 後[ご]、友人[ゆうじん]は 気分[きぶん]が 沈[しず]んでいて 外出[がいしゅつ]もしない。
+  Nach der Trennung ist mein Freund niedergeschlagen und geht nicht mal aus dem Haus.
+
+  この絵画は沈んだ色調で描かれ、静かな雰囲気を醸し出している。
+  この 絵画[かいが]は 沈[しず]んだ 色調[しきちょう]で 描[えが]かれ、静[しず]かな 雰囲気[ふんいき]を 醸[かも]し 出[だ]している。
+  Dieses Gemälde ist in dezenten Farbtönen gemalt und erzeugt eine ruhige Atmosphäre.
+
+  麻雀で三回連続で沈んでしまい、すっかり自信をなくしてしまった。
+  麻雀[マージャン]で 三回[さんかい] 連続[れんぞく]で 沈[しず]んでしまい、すっかり 自信[じしん]をなくしてしまった。
+  Nachdem ich dreimal hintereinander beim Mahjong verloren hatte, verlor ich völlig mein Selbstvertrauen.
+
+  彼女の沈んだ表情を見て、何か悩みがあることが分かった。
+  彼女[かのじょ]の 沈[しず]んだ 表情[ひょうじょう]を 見[み]て、何[なに]か 悩[なや]みがあることが 分[わ]かった。
+  Als ich ihren niedergeschlagenen Gesichtsausdruck sah, wusste ich, dass sie irgendein Problem hatte.
+
+  長い不況で、かつては栄えた商店街も徐々に沈んでいった。
+  長[なが]い 不況[ふきょう]で、かつては 栄[さか]えた 商店街[しょうてんがい]も 徐々[じょじょ]に 沈[しず]んでいった。
+  Durch die lange Rezession verfiel die einst florierende Einkaufsstraße allmählich.
+
+  嘆きに沈む遺族を前に、適切な言葉が見つからなかった。
+  嘆[なげ]きに 沈[しず]む 遺族[いぞく]を 前[まえ]に、適切[てきせつ]な 言葉[ことば]が 見[み]つからなかった。
+  Angesichts der in Trauer versunkenen Hinterbliebenen fand ich keine passenden Worte.
+
+  考えに沈んでいる間に、バスの停留所を乗り過ごしてしまった。
+  考[かんが]えに 沈[しず]んでいる 間[あいだ]に、バスの 停留所[ていりゅうじょ]を 乗[の]り 過[す]ごしてしまった。
+  Während ich in Gedanken versunken war, habe ich meine Bushaltestelle verpasst.
+
+  深く沈んだ海底から、貴重な遺物が発見された。
+  深[ふか]く 沈[しず]んだ 海底[かいてい]から、貴重[きちょう]な 遺物[いぶつ]が 発見[はっけん]された。
+  Auf dem tief versunkenen Meeresboden wurden wertvolle Relikte entdeckt.
+
+  重い荷物を積みすぎて、小舟が沈みそうになった。
+  重[おも]い 荷物[にもつ]を 積[つ]みすぎて、小舟[こぶね]が 沈[しず]みそうになった。
+  Das kleine Boot drohte zu sinken, weil es mit zu viel schwerem Gepäck beladen war.
+
+  彼は深い悲しみに沈み、何日も部屋から出てこなかった。
+  彼[かれ]は 深[ふか]い 悲[かな]しみに 沈[しず]み、何日[なんにち]も 部屋[へや]から 出[で]てこなかった。
+  Er war in tiefe Traurigkeit versunken und kam tagelang nicht aus seinem Zimmer.
+
+  沈んだ気分を振り払うため、友人と映画を見に行った。
+  沈[しず]んだ 気分[きぶん]を 振[ふ]り 払[はら]うため、友人[ゆうじん]と 映画[えいが]を 見[み]に 行[い]った。
+  Um meine gedrückte Stimmung abzuschütteln, ging ich mit einem Freund ins Kino.
+
+  夕日が海に沈む瞬間、みんなで拍手をした。
+  夕日[ゆうひ]が 海[うみ]に 沈[しず]む 瞬間[しゅんかん]、みんなで 拍手[はくしゅ]をした。
+  In dem Moment, als die Abendsonne im Meer versank, applaudierten wir alle.
+
+  不況で会社の業績が沈み、リストラの噂が広がっている。
+  不況[ふきょう]で 会社[かいしゃ]の 業績[ぎょうせき]が 沈[しず]み、リストラの 噂[うわさ]が 広[ひろ]がっている。
+  Aufgrund der Rezession sind die Unternehmensleistungen gesunken, und Gerüchte über Entlassungen verbreiten sich.
+
+  静かな湖面に小石を投げると、波紋を描きながらゆっくりと沈んでいった。
+  静[しず]かな 湖面[こめん]に 小石[こいし]を 投[な]げると、波紋[はもん]を 描[えが]きながらゆっくりと 沈[しず]んでいった。
+  Als ich einen kleinen Stein in den ruhigen See warf, sank er langsam unter, während er Wellen auf der Oberfläche zeichnete.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

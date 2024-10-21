@@ -2,24 +2,115 @@ Rang: 2097
 Lemma: 沿う
 Lesung: そう
 Tonhöhen: /^
-Definition: entlanggehen; in Übereinstimmung mit, entsprechend, treffen
+Definition: entlangführen; folgen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 沿わない・沿った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   私達は川に沿って歩いた。
-  私[わたし] 達[たち]は 川[かわ]に 沿[そ]って 歩[ある]いた。
-  Wir sind entlang des Flusses gelaufen.
+  私達[わたしたち]は 川[かわ]に 沿[そ]って 歩[ある]いた。
+  Wir gingen am Fluss entlang.
+
+  海岸に沿って走る道路は景色が素晴らしい。
+  海岸[かいがん]に 沿[そ]って 走[はし]る 道路[どうろ]は 景色[けしき]が 素晴[すば]らしい。
+  Die Straße, die entlang der Küste verläuft, hat eine wunderschöne Aussicht.
+
+  入り口から順路に沿って歩いてください。
+  入[い]り 口[ぐち]から 順路[じゅんろ]に 沿[そ]って 歩[ある]いてください。
+  Bitte folgen Sie vom Eingang aus dem ausgeschilderten Weg.
+
+  椅子を壁に沿って並べましょう。
+  椅子[いす]を 壁[かべ]に 沿[そ]って 並[なら]べましょう。
+  Lasst uns die Stühle entlang der Wand aufstellen.
+
+  線に沿って紙を切ってください。
+  線[せん]に 沿[そ]って 紙[かみ]を 切[き]ってください。
+  Bitte schneiden Sie das Papier entlang der Linie.
+
+  僕は川に沿って河口まで歩いた。
+  僕[ぼく]は 川[かわ]に 沿[そ]って 河口[かこう]まで 歩[ある]いた。
+  Ich ging den Fluss entlang bis zur Mündung.
+
+  丘の傾斜に沿って様々な植物が散らばっていた。
+  丘[おか]の 傾斜[けいしゃ]に 沿[そ]って 様々[さまざま]な 植物[しょくぶつ]が 散[ち]らばっていた。
+  Entlang des Hügelhangs waren verschiedene Pflanzen verstreut.
+
+  彼は壁に沿ってゆっくり歩き出した。
+  彼[かれ]は 壁[かべ]に 沿[そ]ってゆっくり 歩[ある]き 出[だ]した。
+  Er begann langsam, an der Wand entlangzugehen.
+
+  音楽ビジネスの流れに沿って活動している。
+  音楽[おんがく]ビジネスの 流[なが]れに 沿[そ]って 活動[かつどう]している。
+  Ich agiere im Einklang mit den Trends des Musikgeschäfts.
+
+  南の海岸に沿ったマングローブの林が広がっている。
+  南[みなみ]の 海岸[かいがん]に 沿[そ]ったマングローブの 林[はやし]が 広[ひろ]がっている。
+  Ein Mangrovenwald erstreckt sich entlang der Südküste.
+
+  会社の方針に沿って行動しなければならない。
+  会社[かいしゃ]の 方針[ほうしん]に 沿[そ]って 行動[こうどう]しなければならない。
+  Wir müssen gemäß der Unternehmenspolitik handeln.
+
+  彼女は先生の指示に沿って課題を完成させた。
+  彼女[かのじょ]は 先生[せんせい]の 指示[しじ]に 沿[そ]って 課題[かだい]を 完成[かんせい]させた。
+  Sie hat die Aufgabe nach den Anweisungen des Lehrers fertiggestellt.
+
+  新しい法律に沿って手続きを変更する必要がある。
+  新[あたら]しい 法律[ほうりつ]に 沿[そ]って 手続[てつづ]きを 変更[へんこう]する 必要[ひつよう]がある。
+  Wir müssen die Verfahren entsprechend dem neuen Gesetz ändern.
+
+  顧客の要望に沿ったサービスを提供しています。
+  顧客[こきゃく]の 要望[ようぼう]に 沿[そ]ったサービスを 提供[ていきょう]しています。
+  Wir bieten Dienstleistungen an, die den Wünschen unserer Kunden entsprechen.
+
+  計画に沿って作業を進めましょう。
+  計画[けいかく]に 沿[そ]って 作業[さぎょう]を 進[すす]めましょう。
+  Lassen Sie uns die Arbeit gemäß dem Plan vorantreiben.
+
+  彼らは伝統に沿って祭りを行っている。
+  彼[かれ]らは 伝統[でんとう]に 沿[そ]って 祭[まつ]りを 行[おこな]っている。
+  Sie führen das Fest in Übereinstimmung mit den Traditionen durch.
+
+  地形に沿って道路が曲がりくねっている。
+  地形[ちけい]に 沿[そ]って 道路[どうろ]が 曲[ま]がりくねっている。
+  Die Straße windet sich entsprechend der Topographie.
+
+  彼の意見に沿って計画を修正した。
+  彼[かれ]の 意見[いけん]に 沿[そ]って 計画[けいかく]を 修正[しゅうせい]した。
+  Wir haben den Plan entsprechend seiner Meinung überarbeitet.
+
+  ガイドラインに沿って報告書を作成してください。
+  ガイドラインに 沿[そ]って 報告書[ほうこくしょ]を 作成[さくせい]してください。
+  Bitte erstellen Sie den Bericht gemäß den Richtlinien.
+
+  時代の流れに沿った教育方法を取り入れるべきだ。
+  時代[じだい]の 流[なが]れに 沿[そ]った 教育[きょういく]方法[ほうほう]を 取[と]り 入[い]れるべきだ。
+  Wir sollten Unterrichtsmethoden einführen, die dem Zeitgeist entsprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 沿う (そう) hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Entlang etwas verlaufen oder führen</li>
+    <li>Etwas folgen oder sich nach etwas richten</li>
+  </ol>
+  <p>Häufig wird es mit der Partikel に verwendet:</p>
+  <div class="examples">
+    <div class="jp">川[かわ]に 沿[そ]って 歩[ある]く</div>
+    <div class="de spoiler">Am Fluss entlang gehen</div>
+  </div>
+  <div class="examples">
+    <div class="jp">計画[けいかく]に 沿[そ]って 進[すす]める</div>
+    <div class="de spoiler">Dem Plan folgen</div>
+  </div>
+  <p>In der て-Form und in der Vergangenheitsform wird oft die verlängerte Form verwendet: そうて (沿うて), そうた (沿うた)</p>

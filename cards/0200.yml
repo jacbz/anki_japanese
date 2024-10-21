@@ -106,4 +106,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML-formatted grammar note for 終わる:
+
+  <p>終わる wird verwendet, um das Ende eines Vorgangs oder Zustands auszudrücken.</p>
+
+  <ul>
+    <li>Als intransitives Verb (自動詞) bedeutet es "enden", "zu Ende gehen", "vorbei sein":</li>
+    <div class="examples">
+      <div class="jp">ステージ<u>は</u>、九時[くじ]に 終[お]わります。</div>
+      <div class="de spoiler">Das Konzert ist um neun zu Ende.</div>
+      <div class="jp">冬[ふゆ]だってまもなく 終[お]わる。</div>
+      <div class="de spoiler">Der Winter geht auch bald zu Ende.</div>
+    </div>
+
+    <li>Es kann auch bedeuten "fertig sein" oder "abgeschlossen sein":</li>
+    <div class="examples">
+      <div class="jp">終[お]わった。</div>
+      <div class="de spoiler">Ich bin fertig. / Ich bin so weit.</div>
+    </div>
+
+    <li>Mit に oder で kann es ein unbefriedigendes Ergebnis ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">話[はなし]が 不調[ふちょう]に 終[お]わった。</div>
+      <div class="de spoiler">Das Gespräch endete ergebnislos.</div>
+    </div>
+
+    <li>Als transitives Verb (他動詞) bedeutet es "beenden", "abschließen":</li>
+    <div class="examples">
+      <div class="jp">この 話[はなし]を 終[お]わった。</div>
+      <div class="de spoiler">Ich beendete diese Geschichte.</div>
+    </div>
+
+    <li>Als Hilfsverb (nach der て-Form eines anderen Verbs) drückt es die vollständige Ausführung einer Handlung aus:</li>
+    <div class="examples">
+      <div class="jp">語[かた]り 終[お]わると、陽子[ようこ]ちゃん<u>は</u> 降[お]りていった。</div>
+      <div class="de spoiler">Nachdem sie zu Ende erzählt hatte, ging Yōko hinunter.</div>
+    </div>
+  </ul>
+  </p>

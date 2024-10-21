@@ -2,24 +2,105 @@ Rang: 2931
 Lemma: 追いかける
 Lesung: おいかける
 Tonhöhen: /^^\.
-Definition: verfolgen, jagen
+Definition: verfolgen, nachlaufen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 追いかけない・追いかけた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   パトカーが信号無視をした車を追いかけた。
   パトカーが 信号無視[しんごうむし]をした 車[くるま]を 追[お]いかけた。
-  Ein Polizeiauto verfolgte den Wagen, der die Ampel missachtete.
+  Der Polizeiwagen verfolgte das Auto, das eine rote Ampel überfahren hatte.
+
+  弟が公園で犬を追いかけて遊んでいる。
+  弟[おとうと]が 公園[こうえん]で 犬[いぬ]を 追[お]いかけて 遊[あそ]んでいる。
+  Mein kleiner Bruder spielt im Park und läuft einem Hund hinterher.
+
+  ハンターは獲物を追いかけて森の奥深くまで入った。
+  ハンターは 獲物[えもの]を 追[お]いかけて 森[もり]の 奥深[おくぶか]くまで 入[はい]った。
+  Der Jäger verfolgte seine Beute tief in den Wald hinein.
+
+  駅まで友達を追いかけたけど、間に合わなかった。
+  駅[えき]まで 友達[ともだち]を 追[お]いかけたけど、間[ま]に 合[あ]わなかった。
+  Ich lief meinem Freund bis zum Bahnhof nach, aber ich kam zu spät.
+
+  ストーカーが女性のあとを追いかけていると通報があった。
+  ストーカーが 女性[じょせい]のあとを 追[お]いかけていると 通報[つうほう]があった。
+  Es gab eine Meldung, dass ein Stalker einer Frau nachstellt.
+
+  バスに乗り遅れて、必死に追いかけたけど追いつけなかった。
+  バスに 乗[の]り 遅[おく]れて、必死[ひっし]に 追[お]いかけたけど 追[お]いつけなかった。
+  Ich habe den Bus verpasst und bin ihm verzweifelt hinterhergelaufen, konnte ihn aber nicht einholen.
+
+  不思議な音が聞こえたので、その音を追いかけてみた。
+  不思議[ふしぎ]な 音[おと]が 聞[き]こえたので、その 音[おと]を 追[お]いかけてみた。
+  Ich hörte ein seltsames Geräusch und versuchte, ihm zu folgen.
+
+  お金を追いかけるばかりで、大切なものを見失わないでください。
+  お金[かね]を 追[お]いかけるばかりで、大切[たいせつ]なものを 見失[みうしな]わないでください。
+  Jagen Sie nicht nur dem Geld hinterher, verlieren Sie dabei nicht die wichtigen Dinge aus den Augen.
+
+  新しいトレンドを追いかけるのは疲れるけど、楽しいよ。
+  新[あたら]しいトレンドを 追[お]いかけるのは 疲[つか]れるけど、楽[たの]しいよ。
+  Es ist zwar anstrengend, den neuesten Trends hinterherzujagen, aber es macht auch Spaß.
+
+  彼女の声が私を追いかけて、振り向かざるを得なかった。
+  彼女[かのじょ]の 声[こえ]が 私[わたし]を 追[お]いかけて、振[ふ]り 向[む]かざるを 得[え]なかった。
+  Ihre Stimme folgte mir, sodass ich mich umdrehen musste.
+
+  「なんで逃げたの？」「追いかけるからさ」
+  「なんで 逃[に]げたの？」「追[お]いかけるからさ」
+  "Warum bist du weggelaufen?" "Weil du mich verfolgt hast."
+
+  河童も足の早いことは猿に劣りません。夢中で追いかけたら何度も見失いそうでした。
+  河童[かっぱ]も 足[あし]の 早[はや]いことは 猿[さる]に 劣[おと]りません。夢中[むちゅう]で 追[お]いかけたら 何度[なんど]も 見失[みうし]いそうでした。
+  Ein Kappa ist im Laufen kaum langsamer als ein Affe. Als ich ihm wie besessen nachjagte, hätte ich ihn fast mehrmals aus den Augen verloren.
+
+  どこまで追いかけても、真実にはたどり着けないような気がする。
+  どこまで 追[お]いかけても、真実[しんじつ]にはたどり 着[つ]けないような 気[き]がする。
+  Egal wie weit wir der Sache nachgehen, ich habe das Gefühl, dass wir nie die Wahrheit erreichen werden.
+
+  手紙を出した後、追いかけてもう一通送りました。
+  手紙[てがみ]を 出[だ]した 後[あと]、追[お]いかけてもう 一通[いっつう] 送[おく]りました。
+  Nachdem ich den Brief abgeschickt hatte, sandte ich gleich einen zweiten hinterher.
+
+  判決が出た後も、追いかけて被害届が出されることはないと確信しています。
+  判決[はんけつ]が 出[で]た 後[あと]も、追[お]いかけて 被害届[ひがいとどけ]が 出[だ]されることはないと 確信[かくしん]しています。
+  Ich bin sicher, dass auch nach dem Urteil keine nachträglichen Schadensmeldungen eingereicht werden.
+
+  子供たちが元気に追いかけっこをして遊んでいる。
+  子供[こども]たちが 元気[げんき]に 追[お]いかけっこをして 遊[あそ]んでいる。
+  Die Kinder spielen fröhlich Fangen.
+
+  彼女は夢を追いかけて、故郷を離れた。
+  彼女[かのじょ]は 夢[ゆめ]を 追[お]いかけて、故郷[こきょう]を 離[はな]れた。
+  Sie verließ ihre Heimat, um ihren Traum zu verfolgen.
+
+  警察は逃げた犯人を追いかけて、市内を捜索している。
+  警察[けいさつ]は 逃[に]げた 犯人[はんにん]を 追[お]いかけて、市内[しない]を 捜索[そうさく]している。
+  Die Polizei verfolgt den geflohenen Täter und durchsucht die Stadt.
+
+  彼は成功を追いかけるあまり、家族との時間を犠牲にしてしまった。
+  彼[かれ]は 成功[せいこう]を 追[お]いかけるあまり、家族[かぞく]との 時間[じかん]を 犠牲[ぎせい]にしてしまった。
+  Er jagte dem Erfolg so sehr hinterher, dass er die Zeit mit seiner Familie opferte.
+
+  猫が鳥を追いかけて、木に登ってしまった。
+  猫[ねこ]が 鳥[とり]を 追[お]いかけて、木[き]に 登[のぼ]ってしまった。
+  Die Katze jagte einem Vogel nach und kletterte auf einen Baum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Kann in der Form ⋯追いかけて (... oi·kakete) auch bedeuten: (auf dem Fuße) folgend; direkt danach; im Anschluss; hinter …; anschließend; nachträglich.</p>
+  <div class="examples">
+    <div class="jp">手紙[てがみ]をもう 一通[いっつう] 追[お]いかけて 出[だ]す。</div>
+    <div class="de spoiler">Gleich einen zweiten Brief hinterherschicken.</div>
+  </div>

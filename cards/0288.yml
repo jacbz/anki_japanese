@@ -102,4 +102,55 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>強[つよ]い ist ein い-Adjektiv mit der Grundbedeutung "stark".</p>
+  <ul>
+    <li>Es beschreibt physische Stärke, Intensität oder Ausprägung:</li>
+    <div class="examples">
+      <div class="jp">力[ちから]が<u>強[つよ]い</u></div>
+      <div class="de spoiler">Kraft haben, stark sein</div>
+      <div class="jp"><u>強[つよ]い</u>地震[じしん]</div>
+      <div class="de spoiler">ein starkes Erdbeben</div>
+    </div>
+    <li>Es kann auch für starke Sinneseindrücke verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">香[かお]りが<u>強[つよ]い</u></div>
+      <div class="de spoiler">stark duften, ein intensives Aroma haben</div>
+      <div class="jp"><u>強[つよ]い</u>日差[ひざ]し</div>
+      <div class="de spoiler">kräftige Sonnenstrahlen</div>
+    </div>
+    <li>Es kann auch abstrakte Konzepte beschreiben:</li>
+    <div class="examples">
+      <div class="jp">愛国心[あいこくしん]が<u>強[つよ]い</u></div>
+      <div class="de spoiler">sehr patriotisch sein</div>
+      <div class="jp">意志[いし]の<u>強[つよ]い</u>人[ひと]</div>
+      <div class="de spoiler">ein willensstarker Mensch</div>
+    </div>
+  </ul>
+  <p>強[つよ]い kann auch bedeuten, dass jemand in etwas gut ist:</p>
+  <div class="examples">
+    <div class="jp">碁[ご]が<u>強[つよ]い</u></div>
+    <div class="de spoiler">gut Go spielen, ein starker Go-Spieler sein</div>
+    <div class="jp">数字[すうじ]に<u>強[つよ]い</u></div>
+    <div class="de spoiler">gut mit Zahlen umgehen können</div>
+  </div>
+  <p>Mit der Partikel に wird 強[つよ]い verwendet, um Widerstandsfähigkeit oder Unempfindlichkeit auszudrücken:</p>
+  <div class="examples">
+    <div class="jp">暑[あつ]さに<u>強[つよ]い</u></div>
+    <div class="de spoiler">hitzeunempfindlich sein</div>
+    <div class="jp">酒[さけ]に<u>強[つよ]い</u></div>
+    <div class="de spoiler">viel Alkohol vertragen, trinkfest sein</div>
+  </div>
+  <p>Verbformen:</p>
+  <ul>
+    <li><span class="jp"><u>強[つよ]く</u>なる</span>: stark werden, an Stärke zunehmen</li>
+    <div class="examples">
+      <div class="jp">風[かぜ]が<u>強[つよ]く</u>なった</div>
+      <div class="de spoiler">Der Wind ist stärker geworden</div>
+    </div>
+    <li><span class="jp"><u>強[つよ]く</u>する</span>: stärker machen, verstärken</li>
+    <div class="examples">
+      <div class="jp">訛[なま]りを<u>強[つよ]く</u>した</div>
+      <div class="de spoiler">den Dialekt verstärken</div>
+    </div>
+  </ul>

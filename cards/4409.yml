@@ -2,20 +2,96 @@ Rang: 4409
 Lemma: 転がる
 Lesung: ころがる
 Tonhöhen: /^^^
-Definition: rollen
+Definition: rollen; fallen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 転がらない・転がった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   ボールが道路の向こう側に転がっていった。
   ボールが 道路[どうろ]の 向[む]こう 側[がわ]に 転[ころ]がっていった。
-  Der Ball rollte über die Straße.
+  Der Ball rollte auf die andere Straßenseite.
+
+  彼は階段から転がり落ちた。
+  彼[かれ]は 階段[かいだん]から 転[ころ]がり 落[お]ちた。
+  Er fiel die Treppe hinunter.
+
+  子供たちが芝生の上を転がって遊んでいる。
+  子供[こども]たちが 芝生[しばふ]の 上[うえ]を 転[ころ]がって 遊[あそ]んでいる。
+  Die Kinder wälzen sich spielend auf dem Rasen.
+
+  転がるように部屋を出た。
+  転[ころ]がるように 部屋[へや]を 出[で]た。
+  Er stürzte Hals über Kopf aus dem Zimmer.
+
+  リンゴの袋が早く開きすぎて、みんな地面に転がった。
+  リンゴの 袋[ふくろ]が 早[はや]く 開[あ]きすぎて、みんな 地面[じめん]に 転[ころ]がった。
+  Der Apfelsack ging zu früh auf, und alle Äpfel rollten auf den Boden.
+
+  彼は路上に転がっている自転車に目を戻した。
+  彼[かれ]は 路上[ろじょう]に 転[ころ]がっている 自転車[じてんしゃ]に 目[め]を 戻[もど]した。
+  Er wandte seinen Blick zurück zu den auf der Straße liegenden Fahrrädern.
+
+  畳の上に転がって本を読む。
+  畳[たたみ]の 上[うえ]に 転[ころ]がって 本[ほん]を 読[よ]む。
+  Ich lese ein Buch, während ich auf den Tatami-Matten liege.
+
+  一層下におりると、足の踏み場もないほど商人たちが転がっている。
+  一層[いっそう] 下[した]におりると、足[あし]の 踏[ふ]み 場[ば]もないほど 商人[しょうにん]たちが 転[ころ]がっている。
+  Eine Etage tiefer lagen die Händler so dicht gedrängt, dass man kaum einen Fuß dazwischen setzen konnte.
+
+  チャンスは転がっている。
+  チャンスは 転[ころ]がっている。
+  Chancen gibt es überall.
+
+  ネットに転がっている情報は信頼性が低いこともある。
+  ネットに 転[ころ]がっている 情報[じょうほう]は 信頼性[しんらいせい]が 低[ひく]いこともある。
+  Informationen, die man leicht im Internet findet, können manchmal unzuverlässig sein.
+
+  机の上に転がっているペンを拾った。
+  机[つくえ]の 上[うえ]に 転[ころ]がっているペンを 拾[ひろ]った。
+  Ich hob den auf dem Schreibtisch herumliegenden Stift auf.
+
+  彼女は疲れて、ソファーに転がるように倒れ込んだ。
+  彼女[かのじょ]は 疲[つか]れて、ソファーに 転[ころ]がるように 倒[たお]れ 込[こ]んだ。
+  Sie war so müde, dass sie sich wie ein nasser Sack aufs Sofa fallen ließ.
+
+  サッカーボールがゴールに向かって転がっていく。
+  サッカーボールがゴールに 向[む]かって 転[ころ]がっていく。
+  Der Fußball rollt auf das Tor zu.
+
+  雪だるまが崩れて、雪玉が坂を転がり落ちた。
+  雪[ゆき]だるまが 崩[くず]れて、雪玉[ゆきだま]が 坂[さか]を 転[ころ]がり 落[お]ちた。
+  Der Schneemann zerfiel, und die Schneebälle rollten den Hang hinunter.
+
+  コインが床に落ちて、部屋中を転がり回った。
+  コインが 床[ゆか]に 落[お]ちて、部屋中[へやじゅう]を 転[ころ]がり 回[まわ]った。
+  Die Münze fiel auf den Boden und rollte durch das ganze Zimmer.
+
+  公園で転がっている落ち葉を集めた。
+  公園[こうえん]で 転[ころ]がっている 落[お]ち 葉[ば]を 集[あつ]めた。
+  Ich sammelte die im Park herumliegenden abgefallenen Blätter.
+
+  彼は酔っ払って、道端に転がっていた。
+  彼[かれ]は 酔[よ]っ 払[ぱら]って、道端[みちばた]に 転[ころ]がっていた。
+  Er war betrunken und lag am Straßenrand.
+
+  転がっている石ころを拾って、池に投げ入れた。
+  転[ころ]がっている 石[いし]ころを 拾[ひろ]って、池[いけ]に 投[な]げ 入[い]れた。
+  Ich hob einen herumliegenden Kieselstein auf und warf ihn in den Teich.
+
+  雨上がりの道路に転がる水たまりに注意してください。
+  雨上[あめあ]がりの 道路[どうろ]に 転[ころ]がる 水[みず]たまりに 注意[ちゅうい]してください。
+  Bitte achten Sie auf die Pfützen, die sich auf der Straße nach dem Regen gebildet haben.
+
+  風で飛ばされたゴミが道路を転がっていく。
+  風[かぜ]で 飛[と]ばされたゴミが 道路[どうろ]を 転[ころ]がっていく。
+  Der vom Wind verwehte Müll rollt über die Straße.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

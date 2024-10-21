@@ -2,20 +2,96 @@ Rang: 3068
 Lemma: まとまる
 Lesung: ''
 Tonhöhen: /^^^
-Definition: gut organisiert sein; vereint sein; sich beruhigen
-Alternativschreibweisen: ''
+Definition: zusammenkommen; sich einigen
+Alternativschreibweisen: 纏まる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: まとまらない・まとまった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   みんなの意見がなかなかまとまらない。
   みんなの 意見[いけん]がなかなかまとまらない。
-  Die Meinungen aller sind nicht leicht zu vereinen.
+  Die Meinungen aller lassen sich nur schwer unter einen Hut bringen.
+
+  会議の結果、新しい方針がまとまった。
+  会議[かいぎ]の 結果[けっか]、新[あたら]しい 方針[ほうしん]がまとまった。
+  Als Ergebnis der Besprechung wurde eine neue Linie festgelegt.
+
+  考えがまとまらず、レポートが書けない。
+  考[かんが]えがまとまらず、レポートが 書[か]けない。
+  Ich kann den Bericht nicht schreiben, weil meine Gedanken nicht geordnet sind.
+
+  まとまった金額を貯金することができた。
+  まとまった 金額[きんがく]を 貯金[ちょきん]することができた。
+  Ich konnte einen beträchtlichen Geldbetrag sparen.
+
+  全員の予定がまとまり、旅行の日程が決まった。
+  全員[ぜんいん]の 予定[よてい]がまとまり、旅行[りょこう]の 日程[にってい]が 決[き]まった。
+  Nachdem sich alle auf einen Termin geeinigt hatten, wurde der Reiseplan festgelegt.
+
+  家族だけでも容易にまとまらなかった。
+  家族[かぞく]だけでも 容易[ようい]にまとまらなかった。
+  Allein schon seine Familie zusammenzubringen war nicht leicht.
+
+  プロジェクトチームの意見がまとまり、作業が進み始めた。
+  プロジェクトチームの 意見[いけん]がまとまり、作業[さぎょう]が 進[すす]み 始[はじ]めた。
+  Nachdem sich das Projektteam geeinigt hatte, begann die Arbeit voranzuschreiten.
+
+  まとまった報告書を提出することができた。
+  まとまった 報告書[ほうこくしょ]を 提出[ていしゅつ]することができた。
+  Ich konnte einen gut strukturierten Bericht einreichen.
+
+  交渉が難航したが、最終的にまとまった。
+  交渉[こうしょう]が 難航[なんこう]したが、最終的[さいしゅうてき]にまとまった。
+  Die Verhandlungen waren schwierig, aber am Ende kam es zu einer Einigung.
+
+  彼らの関係がまとまり、結婚の話が進んでいる。
+  彼[かれ]らの 関係[かんけい]がまとまり、結婚[けっこん]の 話[はなし]が 進[すす]んでいる。
+  Ihre Beziehung hat sich gefestigt, und die Heiratspläne schreiten voran.
+
+  アイデアがまとまらず、企画会議が長引いた。
+  アイデアがまとまらず、企画[きかく] 会議[かいぎ]が 長引[ながび]いた。
+  Da die Ideen nicht zusammenkamen, zog sich das Planungstreffen in die Länge.
+
+  まとまった注文が入り、工場のラインが忙しくなった。
+  まとまった 注文[ちゅうもん]が 入[はい]り、工場[こうじょう]のラインが 忙[いそが]しくなった。
+  Ein Großauftrag ging ein, und die Produktionslinien in der Fabrik wurden geschäftig.
+
+  話し合いを重ねた結果、グループの方向性がまとまった。
+  話[はな]し 合[あ]いを 重[かさ]ねた 結果[けっか]、グループの 方向性[ほうこうせい]がまとまった。
+  Nach wiederholten Diskussionen einigte sich die Gruppe auf eine Richtung.
+
+  彼の説明は分かりやすくまとまっていた。
+  彼[かれ]の 説明[せつめい]は 分[わ]かりやすくまとまっていた。
+  Seine Erklärung war gut strukturiert und leicht verständlich.
+
+  まとまった休暇を取って、海外旅行に行きたい。
+  まとまった 休暇[きゅうか]を 取[と]って、海外[かいがい] 旅行[りょこう]に 行[い]きたい。
+  Ich möchte einen längeren Urlaub nehmen und ins Ausland reisen.
+
+  縁談がまとまり、両家の挨拶が行われた。
+  縁談[えんだん]がまとまり、両家[りょうか]の 挨拶[あいさつ]が 行[おこな]われた。
+  Nachdem die Heiratsverhandlungen abgeschlossen waren, fand die Begrüßung zwischen beiden Familien statt.
+
+  会社の再編案がまとまり、従業員に説明された。
+  会社[かいしゃ]の 再編案[さいへんあん]がまとまり、従業員[じゅうぎょういん]に 説明[せつめい]された。
+  Der Unternehmensumstrukturierungsplan wurde finalisiert und den Mitarbeitern erläutert.
+
+  なかなかまとまらない意見を調整するのが難しい。
+  なかなかまとまらない 意見[いけん]を 調整[ちょうせい]するのが 難[むずか]しい。
+  Es ist schwierig, die unterschiedlichen Meinungen in Einklang zu bringen.
+
+  まとまった数の参加者が集まり、イベントは大成功だった。
+  まとまった 数[かず]の 参加者[さんかしゃ]が 集[あつ]まり、イベントは 大成功[だいせいこう]だった。
+  Eine beträchtliche Anzahl von Teilnehmern kam zusammen, und die Veranstaltung war ein großer Erfolg.
+
+  長年の研究成果がついにまとまり、論文として発表された。
+  長年[ながねん]の 研究[けんきゅう] 成果[せいか]がついにまとまり、論文[ろんぶん]として 発表[はっぴょう]された。
+  Die langjährigen Forschungsergebnisse wurden endlich zusammengefasst und als Abhandlung veröffentlicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,7 +2,7 @@ Rang: 2172
 Lemma: 罪
 Lesung: つみ
 Tonhöhen: \.
-Definition: Verbrechen; Schuld
+Definition: +
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n, na-adj
@@ -15,11 +15,104 @@ Konjugation: ''
 Beispielsätze: |-
   彼は罪を認めた。
   彼[かれ]は 罪[つみ]を 認[みと]めた。
-  Er hat sich schuldig bekannt.
+  Er gestand seine Schuld.
+
+  罪を犯すことは簡単だが、償うのは難しい。
+  罪[つみ]を 犯[おか]すことは 簡単[かんたん]だが、償[つぐな]うのは 難[むずか]しい。
+  Es ist leicht, eine Schuld auf sich zu laden, aber schwer, sie zu sühnen.
+
+  彼女は無実なのに、罪を被せられた。
+  彼女[かのじょ]は 無実[むじつ]なのに、罪[つみ]を 被[かぶ]せられた。
+  Obwohl sie unschuldig war, wurde ihr die Schuld zugeschoben.
+
+  警察は犯人の罪を立証しようとしている。
+  警察[けいさつ]は 犯人[はんにん]の 罪[つみ]を 立証[りっしょう]しようとしている。
+  Die Polizei versucht, die Schuld des Täters zu beweisen.
+
+  罪の意識に苛まれて眠れない夜が続いた。
+  罪[つみ]の 意識[いしき]に 苛[さいな]まれて 眠[ねむ]れない 夜[よる]が 続[つづ]いた。
+  Von Schuldgefühlen geplagt, folgten schlaflose Nächte.
+
+  彼は罪の告白をするために教会に行った。
+  彼[かれ]は 罪[つみ]の 告白[こくはく]をするために 教会[きょうかい]に 行[い]った。
+  Er ging zur Kirche, um seine Sünden zu beichten.
+
+  人道に対する罪は決して許されるべきではない。
+  人道[じんどう]に 対[たい]する 罪[つみ]は 決[けっ]して 許[ゆる]されるべきではない。
+  Verbrechen gegen die Menschlichkeit sollten niemals verziehen werden.
+
+  罪の子として生まれた彼は、苦しい幼少期を過ごした。
+  罪[つみ]の 子[こ]として 生[う]まれた 彼[かれ]は、苦[くる]しい 幼少期[ようしょうき]を 過[す]ごした。
+  Als uneheliches Kind geboren, verbrachte er eine schwierige Kindheit.
+
+  彼女は罪なことをしてしまったと後悔している。
+  彼女[かのじょ]は 罪[つみ]なことをしてしまったと 後悔[こうかい]している。
+  Sie bereut, etwas Verantwortungsloses getan zu haben.
+
+  罪のない表情で嘘をつく彼が怖い。
+  罪[つみ]のない 表情[ひょうじょう]で 嘘[うそ]をつく 彼[かれ]が 怖[こわ]い。
+  Er macht mir Angst, wie er mit unschuldigem Gesichtsausdruck lügt.
+
+  罪を作って他人を陥れるのは卑劣な行為だ。
+  罪[つみ]を 作[つく]って 他人[たにん]を 陥[おとしい]れるのは 卑劣[ひれつ]な 行為[こうい]だ。
+  Es ist niederträchtig, jemand anderem etwas anzuhängen.
+
+  罪の重さを考えると、軽い刑罰では済まされない。
+  罪[つみ]の 重[おも]さを 考[かんが]えると、軽[かる]い 刑罰[けいばつ]では 済[す]まされない。
+  Angesichts der Schwere des Verbrechens kann eine milde Strafe nicht ausreichen.
+
+  罪を悪んで人を悪まずという諺がある。
+  罪[つみ]を 悪[にく]んで 人[ひと]を 悪[にく]まずという 諺[ことわざ]がある。
+  Es gibt ein Sprichwort: "Verdamme die Sünde, nicht den Sünder".
+
+  罪は我にあり、と彼は言った。
+  罪[つみ]は 我[われ]にあり、と 彼[かれ]は 言[い]った。
+  "Die Schuld liegt bei mir", sagte er.
+
+  彼女の罪のない寝顔を見ていると、心が和む。
+  彼女[かのじょ]の 罪[つみ]のない 寝顔[ねがお]を 見[み]ていると、心[こころ]が 和[なご]む。
+  Ihr unschuldiges schlafendes Gesicht zu betrachten, beruhigt mein Herz.
+
+  罪のない冗談のつもりだったが、彼を怒らせてしまった。
+  罪[つみ]のない 冗談[じょうだん]のつもりだったが、彼[かれ]を 怒[おこ]らせてしまった。
+  Es war als harmloser Scherz gemeint, aber es hat ihn verärgert.
+
+  罪を償うために、彼は長年ボランティア活動に従事した。
+  罪[つみ]を 償[つぐな]うために、彼[かれ]は 長年[ながねん]ボランティア 活動[かつどう]に 従事[じゅうじ]した。
+  Um für seine Schuld zu büßen, engagierte er sich jahrelang in der Freiwilligenarbeit.
+
+  罪の意識から逃れるのは難しいものだ。
+  罪[つみ]の 意識[いしき]から 逃[のが]れるのは 難[むずか]しいものだ。
+  Es ist schwer, dem Schuldbewusstsein zu entkommen.
+
+  彼は罪を着せられたが、実際は無実だった。
+  彼[かれ]は 罪[つみ]を 着[き]せられたが、実際[じっさい]は 無実[むじつ]だった。
+  Ihm wurde die Schuld zugeschoben, aber tatsächlich war er unschuldig.
+
+  罪を犯した人も、更生の機会を与えられるべきだ。
+  罪[つみ]を 犯[おか]した 人[ひと]も、更生[こうせい]の 機会[きかい]を 与[あた]えられるべきだ。
+  Auch Menschen, die ein Verbrechen begangen haben, sollten die Chance zur Rehabilitation bekommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Wort 罪 (つみ) hat zwei Hauptbedeutungen:</p>
+  <ol>
+    <li>Als Nomen: Vergehen, Verbrechen, Schuld oder Sünde</li>
+    <li>Als Na-Adjektiv: verantwortungslos, grausam oder herzlos</li>
+  </ol>
+  <p>Wichtige Ausdrücke:</p>
+  <ul>
+    <li><span class="jp">罪[つみ]を 犯[おか]す</span>: eine Schuld auf sich laden, eine Sünde begehen</li>
+    <li><span class="jp">罪[つみ]を 償[つぐな]う</span>: für eine Sünde büßen, ein Verbrechen sühnen</li>
+    <li><span class="jp">罪[つみ]を 被[かぶ]せる</span>: jemandem die Schuld zuschieben</li>
+    <li><span class="jp">罪[つみ]の 意識[いしき]</span>: Schuldbewusstsein</li>
+  </ul>
+  <p>Sprichwort:</p>
+  <div class="examples">
+    <div class="jp">罪[つみ]を 悪[にく]んで 人[ひと]を 悪[にく]まず</div>
+    <div class="de spoiler">Man soll das Vergehen verdammen, aber nicht den, der es verübt hat.</div>
+  </div>

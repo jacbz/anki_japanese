@@ -22,4 +22,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammatical note for 留まる:
+
+  <p>留まる wird verwendet, um anzuzeigen, dass etwas oder jemand an einem Ort oder in einem Zustand verbleibt.</p>
+
+  <ul>
+    <li>Es kann "stehenbleiben" oder "anhalten" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">車[くるま]は 家[いえ]の 入口[いりぐち]に<u>留[とど]まりました</u>。</div>
+      <div class="de spoiler">Das Auto hielt vor dem Hauseingang.</div>
+    </div>
+
+    <li>Es kann auch "bleiben" oder "verweilen" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">ここに<u>留[とど]まる</u>いわれはない。</div>
+      <div class="de spoiler">Es gibt keinen Grund, hier zu bleiben.</div>
+    </div>
+
+    <li>Es kann verwendet werden, um auszudrücken, dass etwas sich auf einen bestimmten Bereich beschränkt:</li>
+    <div class="examples">
+      <div class="jp">政府[せいふ]や 企業間[きぎょうかん]の 取引[とりひき]に<u>留[とど]まる</u>。</div>
+      <div class="de spoiler">Es beschränkt sich auf Transaktionen zwischen Regierung und Unternehmen.</div>
+    </div>
+
+    <li>In der Form 〜に留まる bedeutet es "sich auf etwas beschränken" oder "nur ... sein":</li>
+    <div class="examples">
+      <div class="jp">雨[あめ]は 地表[ちひょう]をぬらすに<u>留[とど]まった</u>。</div>
+      <div class="de spoiler">Der Regen befeuchtete nur die Erdoberfläche.</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie, dass 留まる auch als 止まる, とどまる oder 停まる geschrieben werden kann, je nach Kontext und beabsichtigter Bedeutungsnuance.</p>
+  </p>

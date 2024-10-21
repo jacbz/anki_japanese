@@ -98,4 +98,62 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 押[お]す hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ol>
+    <li>Drücken, schieben, stoßen:
+      <ul>
+        <li>Physische Handlung des Drückens oder Schiebens</li>
+        <div class="examples">
+          <div class="jp">扉[とびら]を<u>押[お]す</u>と、がらんとした 客席[きゃくせき]が 見[み]えた。</div>
+          <div class="de spoiler">Er drückte die Tür auf und sah in einen gähnend leeren Zuschauerraum.</div>
+        </div>
+        <li>Kann auch im übertragenen Sinne verwendet werden, z.B. jemanden drängen</li>
+      </ul>
+    </li>
+
+    <li>Einen Knopf oder Schalter betätigen:
+      <div class="examples">
+        <div class="jp">運転手[うんてんしゅ]はダッシュボードのスイッチを<u>押[お]した</u>。</div>
+        <div class="de spoiler">Der Fahrer betätigte einen Schalter am Armaturenbrett.</div>
+      </div>
+    </li>
+
+    <li>Einen Stempel aufdrücken:
+      <div class="examples">
+        <div class="jp">「公用[こうよう]」と 大[おお]きな 判[はん]の<u>押[お]された</u> 軍事郵便[ぐんじゆうびん]がきた。</div>
+        <div class="de spoiler">Es kam ein Feldpostbrief an, den ein großer Stempelaufdruck als 'Amtliches Schreiben' auswies.</div>
+      </div>
+    </li>
+
+    <li>Jemanden zu etwas drängen oder Druck ausüben:
+      <div class="examples">
+        <div class="jp">弥生[やよい]は 強気[つよき]に<u>押[お]した</u>。</div>
+        <div class="de spoiler">Yayoi beharrte nachdrücklich darauf.</div>
+      </div>
+    </li>
+
+    <li>Etwas ertragen oder trotz Schwierigkeiten durchhalten:
+      <ul>
+        <li>Oft in der Form を<u>押[お]して</u> (o oshite), was "trotz" oder "ungeachtet" bedeutet</li>
+        <div class="examples">
+          <div class="jp">発熱[はつねつ]を<u>押[お]して</u> 一日[いちにち]も 休[やす]まず、工場[こうじょう]に 通[かよ]っていた。</div>
+          <div class="de spoiler">Trotz des Fiebers war sie jeden Tag in die Fabrik gegangen, ohne auch nur einen Tag auszusetzen.</div>
+        </div>
+      </ul>
+    </li>
+  </ol>
+
+  <p>Idiomatische Ausdrücke mit 押[お]す:</p>
+  <ul>
+    <li><span class="jp">押[お]しも 押[お]されもせぬ</span>: etabliert, führend, anerkannt</li>
+    <li><span class="jp">押[お]すな 押[お]すな</span>: dicht gedrängt, überfüllt
+      <div class="examples">
+        <div class="jp"><u>押[お]すな 押[お]すな</u>の 人込[ひとご]み</div>
+        <div class="de spoiler">Ein dichtes Gedränge von Menschen</div>
+      </div>
+    </li>
+  </ul>
+
+  <p>Beachten Sie die verschiedenen Schreibweisen: 押す (am häufigsten), 圧す (bei Druck ausüben), 捺す (bei Stempeln).</p>

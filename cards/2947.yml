@@ -2,20 +2,100 @@ Rang: 2947
 Lemma: 捕まえる
 Lesung: つかまえる
 Tonhöhen: /^^^^
-Definition: fangen, verhaften
-Alternativschreibweisen: ''
+Definition: fangen, ergreifen
+Alternativschreibweisen: つかまえる・摑まえる・掴まえる・捉まえる
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 捕まえない・捕まえた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   警察が犯人を捕まえた。
   警察[けいさつ]が 犯人[はんにん]を 捕[つか]まえた。
-  Die Polizei hat einen Kriminellen verhaftet.
+  Die Polizei hat den Täter gefasst.
+
+  子供たちが庭で蝶を捕まえようとしている。
+  子供[こども]たちが 庭[にわ]で 蝶[ちょう]を 捕[つか]まえようとしている。
+  Die Kinder versuchen, Schmetterlinge im Garten zu fangen.
+
+  チャンスを捕まえて、自分の夢を実現させよう。
+  チャンスを 捕[つか]まえて、自分[じぶん]の 夢[ゆめ]を 実現[じつげん]させよう。
+  Lass uns die Gelegenheit ergreifen und unsere Träume verwirklichen.
+
+  彼女は逃げる犬を捕まえるのに苦労した。
+  彼女[かのじょ]は 逃[に]げる 犬[いぬ]を 捕[つか]まえるのに 苦労[くろう]した。
+  Sie hatte Mühe, den weglaufenden Hund einzufangen.
+
+  選手は投げられたボールをうまく捕まえた。
+  選手[せんしゅ]は 投[な]げられたボールをうまく 捕[つか]まえた。
+  Der Spieler fing den geworfenen Ball geschickt.
+
+  彼は逃げる泥棒の足を捕まえた。
+  彼[かれ]は 逃[に]げる 泥棒[どろぼう]の 足[あし]を 捕[つか]まえた。
+  Er packte den Fuß des fliehenden Diebes.
+
+  子猫を捕まえるのは予想以上に難しかった。
+  子猫[こねこ]を 捕[つか]まえるのは 予想以上[よそういじょう]に 難[むずか]しかった。
+  Das Kätzchen zu fangen war schwieriger als erwartet.
+
+  彼女は慌てて落ちそうな花瓶を捕まえた。
+  彼女[かのじょ]は 慌[あわ]てて 落[お]ちそうな 花瓶[かびん]を 捕[つか]まえた。
+  Hastig griff sie nach der Vase, die umzufallen drohte.
+
+  道路を横断しようとした時、友達が私の腕を捕まえた。
+  道路[どうろ]を 横断[おうだん]しようとした 時[とき]、友達[ともだち]が 私[わたし]の 腕[うで]を 捕[つか]まえた。
+  Als ich die Straße überqueren wollte, packte mein Freund meinen Arm.
+
+  タクシーを捕まえるのに10分もかかってしまった。
+  タクシーを 捕[つか]まえるのに10分[ぷん]もかかってしまった。
+  Es dauerte ganze 10 Minuten, ein Taxi anzuhalten.
+
+  彼は私を捕まえて、重要な話があると言った。
+  彼[かれ]は 私[わたし]を 捕[つか]まえて、重要[じゅうよう]な 話[はなし]があると 言[い]った。
+  Er hielt mich an und sagte, er habe etwas Wichtiges zu besprechen.
+
+  先生を捕まえて、宿題について質問した。
+  先生[せんせい]を 捕[つか]まえて、宿題[しゅくだい]について 質問[しつもん]した。
+  Ich hielt den Lehrer an und fragte ihn über die Hausaufgaben.
+
+  彼女は私を捕まえて、昨日の出来事について尋ねた。
+  彼女[かのじょ]は 私[わたし]を 捕[つか]まえて、昨日[きのう]の 出来事[できごと]について 尋[たず]ねた。
+  Sie hielt mich an und fragte mich über die gestrigen Ereignisse.
+
+  子供が母親の服を捕まえて、離そうとしない。
+  子供[こども]が 母親[ははおや]の 服[ふく]を 捕[つか]まえて、離[はな]そうとしない。
+  Das Kind hält sich am Kleid seiner Mutter fest und will nicht loslassen.
+
+  彼は階段の手すりをしっかりと捕まえた。
+  彼[かれ]は 階段[かいだん]の 手[て]すりをしっかりと 捕[つか]まえた。
+  Er ergriff das Treppengeländer fest.
+
+  警官は逃げる容疑者を追いかけ、何とか捕まえた。
+  警官[けいかん]は 逃[に]げる 容疑者[ようぎしゃ]を 追[お]いかけ、何[なん]とか 捕[つか]まえた。
+  Der Polizist verfolgte den flüchtenden Verdächtigen und konnte ihn schließlich fassen.
+
+  彼女は飛んでいく帽子を素早く捕まえた。
+  彼女[かのじょ]は 飛[と]んでいく 帽子[ぼうし]を 素早[すばや]く 捕[つか]まえた。
+  Sie fing ihren davonfliegenden Hut geschickt.
+
+  サッカー選手がゴールキーパーの投げたボールを見事に捕まえた。
+  サッカー 選手[せんしゅ]がゴールキーパーの 投[な]げたボールを 見事[みごと]に 捕[つか]まえた。
+  Der Fußballspieler fing den vom Torwart geworfenen Ball brillant.
+
+  彼は逃げる犯人の足首を捕まえて、転倒させた。
+  彼[かれ]は 逃[に]げる 犯人[はんにん]の 足首[あしくび]を 捕[つか]まえて、転倒[てんとう]させた。
+  Er packte den Knöchel des fliehenden Täters und brachte ihn zu Fall.
+
+  魚を捕まえるのに、網を使うのが一番効果的だ。
+  魚[さかな]を 捕[つか]まえるのに、網[あみ]を 使[つか]うのが 一番[いちばん] 効果的[こうかてき]だ。
+  Um Fische zu fangen, ist es am effektivsten, ein Netz zu benutzen.
+
+  泣いている子供を捕まえて、優しく慰めた。
+  泣[な]いている 子供[こども]を 捕[つか]まえて、優[やさ]しく 慰[なぐさ]めた。
+  Ich hielt das weinende Kind fest und tröstete es sanft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -2,10 +2,10 @@ Rang: 3391
 Lemma: ゆったり
 Lesung: ''
 Tonhöhen: /^\.
-Definition: gemütlich; ruhig; locker
-Alternativschreibweisen: ''
+Definition: entspannt, gemütlich; geräumig
+Alternativschreibweisen: 寛
 Extra: '' # Nur bei suru-Verben
-Wortart: adv, vi
+Wortart: adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,11 +15,101 @@ Konjugation: ''
 Beispielsätze: |-
   祖父はソファーにゆったりと座っていた。
   祖父[そふ]はソファーにゆったりと 座[すわ]っていた。
-  Mein Großvater saß gemütlich auf einem Sofa.
+  Mein Großvater saß entspannt auf dem Sofa.
+
+  ゆったりと歩いて公園を散策しましょう。
+  ゆったりと 歩[ある]いて 公園[こうえん]を 散策[さんさく]しましょう。
+  Lassen Sie uns gemächlich durch den Park spazieren.
+
+  彼女はゆったりとした服を着て、くつろいでいる。
+  彼女[かのじょ]はゆったりとした 服[ふく]を 着[き]て、くつろいでいる。
+  Sie trägt bequeme Kleidung und entspannt sich.
+
+  川がゆったりと流れる様子は心を落ち着かせる。
+  川[かわ]がゆったりと 流[なが]れる 様子[ようす]は 心[こころ]を 落[お]ち 着[つ]かせる。
+  Der Anblick des ruhig fließenden Flusses beruhigt das Gemüt.
+
+  この部屋はゆったりとしていて、とても快適だ。
+  この 部屋[へや]はゆったりとしていて、とても 快適[かいてき]だ。
+  Dieses Zimmer ist geräumig und sehr komfortabel.
+
+  休日はゆったりとした気分で過ごしたいね。
+  休日[きゅうじつ]はゆったりとした 気分[きぶん]で 過[す]ごしたいね。
+  An Feiertagen möchte ich die Zeit in einer entspannten Stimmung verbringen.
+
+  ゆったりとした態度で接客すると、お客様も安心します。
+  ゆったりとした 態度[たいど]で 接客[せっきゃく]すると、お 客様[きゃくさま]も 安心[あんしん]します。
+  Wenn man Kunden in einer entspannten Art bedient, fühlen sie sich wohl.
+
+  庭園はゆったりとした雰囲気で設計されている。
+  庭園[ていえん]はゆったりとした 雰囲気[ふんいき]で 設計[せっけい]されている。
+  Der Garten ist in einer weitläufigen Atmosphäre angelegt.
+
+  ゆったりとしたペースで仕事を進めると、ミスが少なくなります。
+  ゆったりとしたペースで 仕事[しごと]を 進[すす]めると、ミスが 少[すく]なくなります。
+  Wenn man in einem gemächlichen Tempo arbeitet, macht man weniger Fehler.
+
+  彼はゆったりとした性格で、周りの人を和ませる。
+  彼[かれ]はゆったりとした 性格[せいかく]で、周[まわ]りの 人[ひと]を 和[な]ませる。
+  Er hat einen gelassenen Charakter und beruhigt die Menschen um ihn herum.
+
+  ゆったりとした時間の流れを楽しむのが休暇の醍醐味だ。
+  ゆったりとした 時間[じかん]の 流[なが]れを 楽[たの]しむのが 休暇[きゅうか]の 醍醐味[だいごみ]だ。
+  Den gemächlichen Fluss der Zeit zu genießen, ist der wahre Genuss des Urlaubs.
+
+  この椅子に座るとゆったりとリラックスできる。
+  この 椅子[いす]に 座[すわ]るとゆったりとリラックスできる。
+  Wenn man sich auf diesen Stuhl setzt, kann man sich entspannt zurücklehnen.
+
+  ゆったりとした気持ちで音楽を聴くと、心が落ち着く。
+  ゆったりとした 気持[きも]ちで 音楽[おんがく]を 聴[き]くと、心[こころ]が 落[お]ち 着[つ]く。
+  Wenn man Musik in einer entspannten Stimmung hört, beruhigt sich das Herz.
+
+  週末はゆったりと過ごす時間を作ることが大切だ。
+  週末[しゅうまつ]はゆったりと 過[す]ごす 時間[じかん]を 作[つく]ることが 大切[たいせつ]だ。
+  Es ist wichtig, am Wochenende Zeit zu schaffen, um sich zu entspannen.
+
+  ゆったりとした服装で会議に出席するのは適切ではない。
+  ゆったりとした 服装[ふくそう]で 会議[かいぎ]に 出席[しゅっせき]するのは 適切[てきせつ]ではない。
+  Es ist nicht angemessen, in lockerer Kleidung an einer Besprechung teilzunehmen.
+
+  彼女はゆったりとした白いズボンを履いていた。
+  彼女[かのじょ]はゆったりとした 白[しろ]いズボンを 履[は]いていた。
+  Sie trug eine weite weiße Hose.
+
+  心をゆったりと開いて、相手の話に耳を傾けよう。
+  心[こころ]をゆったりと 開[ひら]いて、相手[あいて]の 話[はなし]に 耳[みみ]を 傾[かたむ]けよう。
+  Lass uns unser Herz öffnen und dem anderen aufmerksam zuhören.
+
+  ゆったりとした気分で食事を楽しむのが健康的だ。
+  ゆったりとした 気分[きぶん]で 食事[しょくじ]を 楽[たの]しむのが 健康的[けんこうてき]だ。
+  Es ist gesund, das Essen in einer entspannten Stimmung zu genießen.
+
+  この旅館の部屋はゆったりとしていて、くつろげる。
+  この 旅館[りょかん]の 部屋[へや]はゆったりとしていて、くつろげる。
+  Die Zimmer in diesem traditionellen japanischen Gasthaus sind geräumig und man kann sich darin entspannen.
+
+  彼の話し方はゆったりとしていて、聞いていて心地よい。
+  彼[かれ]の 話[はな]し 方[かた]はゆったりとしていて、聞[き]いていて 心地[ここち]よい。
+  Seine Art zu sprechen ist ruhig und angenehm anzuhören.
+
+  休暇中はゆったりとした時間の流れを楽しみたいものだ。
+  休暇中[きゅうかちゅう]はゆったりとした 時間[じかん]の 流[なが]れを 楽[たの]しみたいものだ。
+  Während des Urlaubs möchte man den gemächlichen Fluss der Zeit genießen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Wird oft mit と (to) verwendet, um die Art und Weise zu beschreiben. In attributiver Form wird （と）した ((to) shita) benutzt.</p>
+  <div class="examples">
+    <div class="jp">ゆったりと 歩[ある]く</div>
+    <div class="de spoiler">gemächlich gehen, schlendern</div>
+  </div>
+  <p>Kann auch als Verb ゆったりする (yuttari suru) verwendet werden, was "geräumig sein" oder "sich entspannen" bedeutet.</p>
+  <div class="examples">
+    <div class="jp">襟元[えりもと]をゆったりさせる</div>
+    <div class="de spoiler">den Kragen lockern</div>
+  </div>

@@ -98,4 +98,58 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>言う (いう) ist ein grundlegendes Verb der japanischen Sprache mit vielen Verwendungen:</p>
+
+  <ul>
+    <li>Es bedeutet primär "sagen", "sprechen" oder "äußern":</li>
+    <div class="examples">
+      <div class="jp">「 指紋[しもん]をつけないよう 気[き]をつけないと」 彼[かれ]は 小[こ]<u>声[ごえ]で 言[い]った</u>。</div>
+      <div class="de spoiler">"Wir dürfen keine Fingerabdrücke hinterlassen", sagte er leise.</div>
+    </div>
+
+    <li>Es kann auch "heißen" oder "benennen" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">犬[いぬ]はドイツ 語[ご]で 何[なん]<u>と 言[い]いますか</u>？</div>
+      <div class="de spoiler">Was heißt "inu" auf Deutsch?</div>
+    </div>
+
+    <li>Mit Onomatopoetika beschreibt es Geräusche:</li>
+    <div class="examples">
+      <div class="jp">ガーン<u>という</u> 銃声[じゅうせい]、 言葉[ことば]が 途中[とちゅう]から 雑音[ざつおん]にかわる。</div>
+      <div class="de spoiler">Ein Schuss, dann hört man nur noch Rauschen.</div>
+    </div>
+
+    <li>In der Form <span class="jp">⋯と<u>いい</u>⋯と<u>いい</u></span> bedeutet es "sowohl ... als auch ...":</li>
+    <div class="examples">
+      <div class="jp"> 色[いろ]<u>といい</u>、 形[かたち]<u>といい</u>、 重[おも]さ<u>といい</u>、 本物[ほんもの]と 寸分[すんぶん]ちがわない。</div>
+      <div class="de spoiler">Aber die Farbe, die Form, das Gewicht, absolut originalgetreu.</div>
+    </div>
+
+    <li>In der Form <span class="jp">⋯と<u>は 言[い]え</u></span> oder <span class="jp">⋯と<u>は 言[い]っても</u></span> bedeutet es "auch wenn" oder "trotzdem":</li>
+    <div class="examples">
+      <div class="jp">いくら 互[たが]いに 納得[なっとく]ずくの 事[こと]<u>とは 言[い]っても</u>、とにかく 死刑執行人[しけいしっこうにん]の 役目[やくめ]を 遂行[すいこう]しなければならないのだ。</div>
+      <div class="de spoiler">Schließlich hast du, wenn auch im gegenseitigen Einverständnis, die Rolle des Henkers zu erfüllen.</div>
+    </div>
+
+    <li>In der Form <span class="jp">⋯<u>と 言[い]ったらない</u></span> drückt es ein außerordentliches Maß aus:</li>
+    <div class="examples">
+      <div class="jp"> 緋[ひ]の 毛氈[もうせん]をしいた 壇[だん]のうえに 綺麗[きれい]な 人[ひと]たちをならべ、いちばん 上[うえ]は 私[わたし]の、二段[にだん]めは 妹[いもうと]の、三段[さんだん]めは 末[すえ]の 妹[いもうと]のときめて 菱餅[ひしもち]やはぜを 供[そな]えるときの 嬉[うれ]しさ<u>といったらない</u>。</div>
+      <div class="de spoiler">Es gab nichts Schöneres, als die Hishi-Reisküchlein oder Puffreis darzubringen.</div>
+    </div>
+
+    <li>In der Form <span class="jp">⋯からと<u>言[い]って</u></span> bedeutet es "nur weil ... nicht unbedingt":</li>
+    <div class="examples">
+      <div class="jp"> 想像[そうぞう]<u>だからといって</u>、 馬鹿[ばか]にしてはいけない。</div>
+      <div class="de spoiler">Das darf man, nur weil es Einbildung ist, nicht einfach abtun.</div>
+    </div>
+  </ul>
+
+  <p>Es gibt viele feste Wendungen mit <span class="jp">言[い]う</span>, zum Beispiel:</p>
+
+  <ul>
+    <li><span class="jp">言[い]う 事[こと]を 聞[き]く</span>: auf jemanden hören, jemandes Rat befolgen</li>
+    <li><span class="jp">言[い]うまでもない</span>: es versteht sich von selbst</li>
+    <li><span class="jp">言[い]わずもがな</span>: selbstverständlich, natürlich</li>
+  </ul>
+  </p>

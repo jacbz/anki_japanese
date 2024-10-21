@@ -102,4 +102,51 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">飛[と]ぶ</span> ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: fliegen (für Vögel, Flugzeuge, Gegenstände)</li>
+    <div class="examples">
+      <div class="jp">ヘリコプターが 空[そら]を<u>飛[と]んで</u>いる。</div>
+      <div class="de spoiler">Ein Hubschrauber fliegt am Himmel.</div>
+    </div>
+
+    <li>Sich schnell bewegen, eilen</li>
+    <div class="examples">
+      <div class="jp">急報[きゅうほう]を 受[う]けて、 病院[びょういん]に<u>飛[と]んで</u>いった。</div>
+      <div class="de spoiler">Nach Erhalt der dringenden Nachricht eilte er ins Krankenhaus.</div>
+    </div>
+
+    <li>Sich schnell verbreiten (für Gerüchte, Nachrichten)</li>
+
+    <li>Überspringen, auslassen</li>
+    <div class="examples">
+      <div class="jp">10ページ<u>飛[と]んで</u>25ページに 移[うつ]る。</div>
+      <div class="de spoiler">Wir überspringen 10 Seiten bis Seite 25.</div>
+    </div>
+
+    <li>Verschwinden, sich auflösen (oft für Geld)</li>
+    <div class="examples">
+      <div class="jp">小遣[こづか]いは 昼食[ちゅうしょく]だけで<u>飛[と]んで</u>しまう。</div>
+      <div class="de spoiler">Mein Taschengeld ist allein für das Mittagessen weg.</div>
+    </div>
+  </ul>
+
+  <p>Wichtige Verbformen:</p>
+  <ul>
+    <li>Verneinung: <span class="jp">飛[と]ばない</span></li>
+    <li>Vergangenheit: <span class="jp">飛[と]んだ</span></li>
+  </ul>
+
+  <p>Häufige Verwendungen:</p>
+  <ul>
+    <li><span class="jp"><u>飛[と]んで</u>くる</span>: herbeigeflogen kommen, plötzlich auftauchen</li>
+    <li><span class="jp"><u>飛[と]んで</u>いく</span>: wegfliegen, verschwinden</li>
+  </ul>
+
+  <p>Redewendungen:</p>
+  <ul>
+    <li><span class="jp"><u>飛[と]ぶ</u>ように 売[う]れる</span>: sich sehr gut verkaufen (wörtlich: sich verkaufen, als würde es fliegen)</li>
+    <li><span class="jp"><u>飛[と]んで</u>火[ひ]に 入[はい]る 夏[なつ]の 虫[むし]</span>: ins Verderben rennen (wörtlich: wie ein Sommerinsekt ins Feuer fliegen)</li>
+  </ul>

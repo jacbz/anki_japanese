@@ -2,20 +2,96 @@ Rang: 2098
 Lemma: 輝く
 Lesung: かがやく
 Tonhöhen: /^\.
-Definition: glänzen, funkeln, leuchten
-Alternativschreibweisen: ''
+Definition: glänzen, strahlen
+Alternativschreibweisen: 耀く
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 輝かない・輝いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   たくさんの星が空に輝いている。
   たくさんの 星[ほし]が 空[そら]に 輝[かがや]いている。
-  Viele Sterne leuchten am Himmel.
+  Viele Sterne glänzen am Himmel.
+
+  朝日に輝く海の景色は素晴らしかった。
+  朝日[あさひ]に 輝[かがや]く 海[うみ]の 景色[けしき]は 素晴[すば]らしかった。
+  Der in der Morgensonne glitzernde Meeresblick war wunderschön.
+
+  彼女の目は喜びで輝いていた。
+  彼女[かのじょ]の 目[め]は 喜[よろこ]びで 輝[かがや]いていた。
+  Ihre Augen strahlten vor Freude.
+
+  チームは輝かしい勝利を収めた。
+  チームは 輝[かがや]かしい 勝利[しょうり]を 収[おさ]めた。
+  Das Team errang einen glänzenden Sieg.
+
+  宝石店のショーケースにダイヤモンドが輝いていた。
+  宝石店[ほうせきてん]のショーケースにダイヤモンドが 輝[かがや]いていた。
+  Diamanten funkelten in der Vitrine des Juweliergeschäfts.
+
+  雪に覆われた山頂が朝日に輝いている。
+  雪[ゆき]に 覆[おお]われた 山頂[さんちょう]が 朝日[あさひ]に 輝[かがや]いている。
+  Der schneebedeckte Berggipfel leuchtet in der Morgensonne.
+
+  彼女の才能は舞台上で輝いていた。
+  彼女[かのじょ]の 才能[さいのう]は 舞台上[ぶたいじょう]で 輝[かがや]いていた。
+  Ihr Talent strahlte auf der Bühne.
+
+  湖面に映る月が美しく輝いていました。
+  湖面[こめん]に 映[うつ]る 月[つき]が 美[うつく]しく 輝[かがや]いていました。
+  Der sich auf der Seeoberfläche spiegelnde Mond glänzte wunderschön.
+
+  新しい発見に科学者の目が輝いた。
+  新[あたら]しい 発見[はっけん]に 科学者[かがくしゃ]の 目[め]が 輝[かがや]いた。
+  Die Augen des Wissenschaftlers leuchteten bei der neuen Entdeckung.
+
+  クリスマスツリーのオーナメントが部屋中で輝いている。
+  クリスマスツリーのオーナメントが 部屋中[へやじゅう]で 輝[かがや]いている。
+  Die Christbaumkugeln glitzern im ganzen Zimmer.
+
+  彼の未来は輝かしいものになるだろう。
+  彼[かれ]の 未来[みらい]は 輝[かがや]かしいものになるだろう。
+  Seine Zukunft wird sicherlich glänzend sein.
+
+  夜空に輝く流れ星を見た。
+  夜空[よぞら]に 輝[かがや]く 流[なが]れ 星[ぼし]を 見[み]た。
+  Ich sah eine am Nachthimmel funkelnde Sternschnuppe.
+
+  彼女の笑顔は周りの人々を輝かせた。
+  彼女[かのじょ]の 笑顔[えがお]は 周[まわ]りの 人々[ひとびと]を 輝[かがや]かせた。
+  Ihr Lächeln ließ die Menschen um sie herum strahlen.
+
+  太陽が海面に反射して眩しく輝いていた。
+  太陽[たいよう]が 海面[かいめん]に 反射[はんしゃ]して 眩[まぶ]しく 輝[かがや]いていた。
+  Die Sonne reflektierte auf der Meeresoberfläche und glänzte blendend.
+
+  新しい車のボディが日光に輝いている。
+  新[あたら]しい 車[くるま]のボディが 日光[にっこう]に 輝[かがや]いている。
+  Die Karosserie des neuen Autos glänzt in der Sonne.
+
+  子供たちの目が期待に輝いていた。
+  子供[こども]たちの 目[め]が 期待[きたい]に 輝[かがや]いていた。
+  Die Augen der Kinder leuchteten vor Erwartung.
+
+  雨上がりの草木が太陽の光に輝いている。
+  雨上[あめあ]がりの 草木[そうもく]が 太陽[たいよう]の 光[ひかり]に 輝[かがや]いている。
+  Die Pflanzen glitzern nach dem Regen im Sonnenlicht.
+
+  彼の業績は歴史に輝く偉業だ。
+  彼[かれ]の 業績[ぎょうせき]は 歴史[れきし]に 輝[かがや]く 偉業[いぎょう]だ。
+  Seine Leistung ist eine in der Geschichte strahlende Errungenschaft.
+
+  輝く未来に向かって頑張ろう。
+  輝[かがや]く 未来[みらい]に 向[む]かって 頑張[がんば]ろう。
+  Lass uns für eine glänzende Zukunft unser Bestes geben.
+
+  雪原が月明かりに輝いていた。
+  雪原[せつげん]が 月明[つきあ]かりに 輝[かがや]いていた。
+  Die Schneefelder schimmerten im Mondlicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

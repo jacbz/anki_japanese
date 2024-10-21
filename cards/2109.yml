@@ -2,12 +2,12 @@ Rang: 2109
 Lemma: サイズ
 Lesung: ''
 Tonhöhen: \..
-Definition: Größe
+Definition: Größe, Maße
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
 Register: ''
-Ursprung: ''
+Ursprung: engl. size
 Konjugation: ''
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   もっと大きいサイズがありますか。
   もっと 大[おお]きいサイズがありますか。
   Haben Sie eine größere Größe?
+
+  このシャツは私のサイズに合わないようです。
+  このシャツは 私[わたし]のサイズに 合[あ]わないようです。
+  Dieses Hemd scheint nicht meiner Größe zu entsprechen.
+
+  サイズ表を見て、自分に合う服を選びましょう。
+  サイズ 表[ひょう]を 見[み]て、自分[じぶん]に 合[あ]う 服[ふく]を 選[えら]びましょう。
+  Lassen Sie uns die Größentabelle ansehen und Kleidung auswählen, die zu uns passt.
+
+  MサイズのTシャツを2枚ください。
+  エムサイズのTシャツを2枚[にまい]ください。
+  Bitte geben Sie mir zwei T-Shirts in Größe M.
+
+  このファイルのサイズが大きすぎて送れません。
+  このファイルのサイズが 大[おお]きすぎて 送[おく]れません。
+  Die Dateigröße ist zu groß, ich kann sie nicht senden.
+
+  用紙サイズはA4で印刷してください。
+  用紙[ようし]サイズはA4で 印刷[いんさつ]してください。
+  Bitte drucken Sie es im A4-Papierformat aus.
+
+  ベッドのサイズを測ってから、シーツを買います。
+  ベッドのサイズを 測[はか]ってから、シーツを 買[か]います。
+  Ich werde die Größe des Bettes messen, bevor ich Bettwäsche kaufe.
+
+  服のサイズが合わなければ、交換できますか。
+  服[ふく]のサイズが 合[あ]わなければ、交換[こうかん]できますか。
+  Kann ich die Kleidung umtauschen, wenn die Größe nicht passt?
+
+  靴のサイズは何センチですか。
+  靴[くつ]のサイズは 何[なん]センチですか。
+  Welche Schuhgröße haben Sie?
+
+  タイルのサイズによって、部屋の印象が変わります。
+  タイルのサイズによって、部屋[へや]の 印象[いんしょう]が 変[か]わります。
+  Je nach Fliesenformat ändert sich der Eindruck des Raumes.
+
+  ウエストのサイズを2センチ縮めたいです。
+  ウエストのサイズを2センチ 縮[ちぢ]めたいです。
+  Ich möchte meinen Taillenumfang um 2 cm reduzieren.
+
+  新しいスーツを買うので、サイズを計ってもらいました。
+  新[あたら]しいスーツを 買[か]うので、サイズを 計[はか]ってもらいました。
+  Ich habe mich vermessen lassen, weil ich einen neuen Anzug kaufen möchte.
+
+  このジーンズはサイズが小さいので、ぴったりです。
+  このジーンズはサイズが 小[ちい]さいので、ぴったりです。
+  Diese Jeans fällt klein aus, also passt sie perfekt.
+
+  彼女はサイズが一つ小さい靴を買ってしまいました。
+  彼女[かのじょ]はサイズが 一[ひと]つ 小[ちい]さい 靴[くつ]を 買[か]ってしまいました。
+  Sie hat versehentlich Schuhe gekauft, die eine Nummer zu klein sind.
+
+  このパンツはサイズが合わないので、返品したいです。
+  このパンツはサイズが 合[あ]わないので、返品[へんぴん]したいです。
+  Ich möchte diese Hose zurückgeben, da sie nicht passt.
+
+  体に合うサイズの服を選ぶのは難しいですね。
+  体[からだ]に 合[あ]うサイズの 服[ふく]を 選[えら]ぶのは 難[むずか]しいですね。
+  Es ist schwierig, Kleidung in der richtigen Größe auszuwählen, nicht wahr?
+
+  自分のサイズが分からないので、試着してみます。
+  自分[じぶん]のサイズが 分[わ]からないので、試着[しちゃく]してみます。
+  Da ich meine Größe nicht kenne, werde ich es anprobieren.
+
+  大きなサイズの服を扱う専門店があります。
+  大[おお]きなサイズの 服[ふく]を 扱[あつか]う 専門店[せんもんてん]があります。
+  Es gibt Fachgeschäfte, die Kleidung in großen Größen führen.
+
+  この店ではSサイズからXLサイズまで揃っています。
+  この 店[みせ]ではSサイズからXLサイズまで 揃[そろ]っています。
+  Dieser Laden führt Größen von S bis XL.
+
+  A4サイズの紙を10枚ください。
+  A4サイズの 紙[かみ]を10枚[じゅうまい]ください。
+  Bitte geben Sie mir 10 Blatt Papier im DIN-A4-Format.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

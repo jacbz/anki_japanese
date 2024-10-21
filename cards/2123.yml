@@ -2,7 +2,7 @@ Rang: 2123
 Lemma: 食料
 Lesung: しょくりょう
 Tonhöhen: ./\...
-Definition: Lebensmittel, Proviant
+Definition: Lebensmittel, Nahrung
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -15,7 +15,79 @@ Konjugation: ''
 Beispielsätze: |-
   私はキャンプのとき、たくさん食料を持って行く。
   私[わたし]はキャンプのとき、たくさん 食料[しょくりょう]を 持[も]って 行[い]く。
-  Ich nehme viel Proviant mit, wenn ich campen gehe.
+  Wenn ich campen gehe, nehme ich viele Lebensmittel mit.
+
+  災害に備えて、家庭で食料を備蓄することが大切です。
+  災害[さいがい]に 備[そな]えて、家庭[かてい]で 食料[しょくりょう]を 備蓄[びちく]することが 大切[たいせつ]です。
+  Es ist wichtig, zu Hause Lebensmittelvorräte für den Notfall anzulegen.
+
+  この国では食料不足が深刻な問題となっています。
+  この 国[くに]では 食料不足[しょくりょうぶそく]が 深刻[しんこく]な 問題[もんだい]となっています。
+  In diesem Land ist der Lebensmittelmangel zu einem ernsthaften Problem geworden.
+
+  新鮮な食料を保管するため、大きな貯蔵庫を建設しました。
+  新鮮[しんせん]な 食料[しょくりょう]を 保管[ほかん]するため、大[おお]きな 貯蔵庫[ちょぞうこ]を 建設[けんせつ]しました。
+  Wir haben einen großen Vorratsraum gebaut, um frische Lebensmittel zu lagern.
+
+  食料自給率を上げるため、地元の農業を支援しています。
+  食料自給率[しょくりょうじきゅうりつ]を 上[あ]げるため、地元[じもと]の 農業[のうぎょう]を 支援[しえん]しています。
+  Um die Lebensmittelautarkie zu erhöhen, unterstützen wir die lokale Landwirtschaft.
+
+  政府は安定した食料供給を確保するための政策を立案しました。
+  政府[せいふ]は 安定[あんてい]した 食料供給[しょくりょうきょうきゅう]を 確保[かくほ]するための 政策[せいさく]を 立案[りつあん]しました。
+  Die Regierung hat eine Politik zur Sicherung einer stabilen Lebensmittelversorgung entworfen.
+
+  持続可能な食料生産について、専門家が議論を交わしています。
+  持続可能[じぞくかのう]な 食料生産[しょくりょうせいさん]について、専門家[せんもんか]が 議論[ぎろん]を 交[か]わしています。
+  Experten diskutieren über nachhaltige Lebensmittelproduktion.
+
+  食料消費の傾向を分析し、市場戦略を立てています。
+  食料消費[しょくりょうしょうひ]の 傾向[けいこう]を 分析[ぶんせき]し、市場戦略[しじょうせんりゃく]を 立[た]てています。
+  Wir analysieren die Trends im Lebensmittelkonsum und entwickeln Marktstrategien.
+
+  この地域では食料が欠乏し、多くの人々が苦しんでいます。
+  この 地域[ちいき]では 食料[しょくりょう]が 欠乏[けつぼう]し、多[おお]くの 人々[ひとびと]が 苦[くる]しんでいます。
+  In dieser Region herrscht ein Mangel an Lebensmitteln, und viele Menschen leiden darunter.
+
+  動物園では、毎日動物たちに食料を与えるのが大切な仕事だ。
+  動物園[どうぶつえん]では、毎日[まいにち] 動物[どうぶつ]たちに 食料[しょくりょう]を 与[あた]えるのが 大切[たいせつ]な 仕事[しごと]だ。
+  Im Zoo ist es eine wichtige Aufgabe, die Tiere täglich mit Futter zu versorgen.
+
+  長期の旅行に備えて、十分な食料を蓄えておく必要があります。
+  長期[ちょうき]の 旅行[りょこう]に 備[そな]えて、十分[じゅうぶん]な 食料[しょくりょう]を 蓄[たくわ]えておく 必要[ひつよう]があります。
+  Für eine lange Reise ist es notwendig, ausreichend Lebensmittelvorräte anzulegen.
+
+  彼らは食料を求めて、何日も歩き続けた。
+  彼[かれ]らは 食料[しょくりょう]を 求[もと]めて、何日[なんにち]も 歩[ある]き 続[つづ]けた。
+  Sie wanderten tagelang auf der Suche nach Nahrung.
+
+  二週間分の食料を買い込んだので、しばらく外出しなくても大丈夫だ。
+  二週間分[にしゅうかんぶん]の 食料[しょくりょう]を 買[か]い 込[こ]んだので、しばらく 外出[がいしゅつ]しなくても 大丈夫[だいじょうぶ]だ。
+  Ich habe Lebensmittel für zwei Wochen eingekauft, also muss ich eine Weile nicht ausgehen.
+
+  水はあるが五十人の腹を満たす食料はとてもない。
+  水[みず]はあるが 五十人[ごじゅうにん]の 腹[はら]を 満[み]たす 食料[しょくりょう]はとてもない。
+  Es gibt zwar Wasser, aber bei weitem nicht genug Nahrung, um fünfzig Menschen satt zu machen.
+
+  意識して節約すればたぶん二週間はもつだろう。それだけの食料は用意されていた。
+  意識[いしき]して 節約[せつやく]すればたぶん 二週間[にしゅうかん]はもつだろう。それだけの 食料[しょくりょう]は 用意[ようい]されていた。
+  Wenn wir bewusst sparsam damit umgehen, werden die vorbereiteten Lebensmittel wahrscheinlich zwei Wochen reichen.
+
+  手持の食料が尽きてしまえば、いやでも腰を上げないわけにはいかないのだ。
+  手持[てもち]の 食料[しょくりょう]が 尽[つ]きてしまえば、いやでも 腰[こし]を 上[あ]げないわけにはいかないのだ。
+  Wenn unsere Vorräte aufgebraucht sind, müssen wir uns wohl oder übel in Bewegung setzen.
+
+  食料も、コッヘル、ラジウス等の炊事道具も、みな先送りの梱包の口である。
+  食料[しょくりょう]も、コッヘル、ラジウス 等[など]の 炊事道具[すいじどうぐ]も、みな 先送[さきお]りの 梱包[こんぽう]の 口[くち]である。
+  Sowohl die Lebensmittel als auch die Kochutensilien wie Kochtopf und Petroleumkocher befinden sich alle in dem vorausgeschickten Paket.
+
+  食料費を節約するため、家で料理をすることが多くなりました。
+  食料費[しょくりょうひ]を 節約[せつやく]するため、家[いえ]で 料理[りょうり]をすることが 多[おお]くなりました。
+  Um Lebensmittelkosten zu sparen, koche ich jetzt öfter zu Hause.
+
+  緊急時に備えて、非常食や保存食などの食料を常に準備しておくべきです。
+  緊急時[きんきゅうじ]に 備[そな]えて、非常食[ひじょうしょく]や 保存食[ほぞんしょく]などの 食料[しょくりょう]を 常[つね]に 準備[じゅんび]しておくべきです。
+  Für Notfälle sollten wir immer Notfallrationen und haltbare Lebensmittel bereithalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

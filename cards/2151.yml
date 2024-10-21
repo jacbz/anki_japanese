@@ -2,7 +2,7 @@ Rang: 2151
 Lemma: 素材
 Lesung: そざい
 Tonhöhen: /^^
-Definition: Material
+Definition: Material; Zutat
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   あなたの洋服の素材は何ですか。
-  あなたの 洋服[ようふく]の 素材[そざい]は 何[なに]ですか。
-  Aus welchem Material besteht Ihre Kleidung?
+  あなたの 洋服[ようふく]の 素材[そざい]は 何[なん]ですか。
+  Aus welchem Material ist deine Kleidung?
+
+  この素材産業の発展が国の経済成長に貢献しています。
+  この 素材産業[そざいさんぎょう]の 発展[はってん]が 国[くに]の 経済成長[けいざいせいちょう]に 貢献[こうけん]しています。
+  Die Entwicklung dieser Grundstoffindustrie trägt zum wirtschaftlichen Wachstum des Landes bei.
+
+  人工素材は天然素材よりも耐久性が高いことがあります。
+  人工素材[じんこうそざい]は 天然素材[てんねんそざい]よりも 耐久性[たいきゅうせい]が 高[たか]いことがあります。
+  Künstliche Materialien können manchmal haltbarer sein als natürliche Materialien.
+
+  新しい基礎素材の開発に成功しました。
+  新[あたら]しい 基礎素材[きそそざい]の 開発[かいはつ]に 成功[せいこう]しました。
+  Wir waren bei der Entwicklung eines neuen Grundmaterials erfolgreich.
+
+  この新素材は環境に優しいと言われています。
+  この 新素材[しんそざい]は 環境[かんきょう]に 優[やさ]しいと 言[い]われています。
+  Dieses neue Material soll umweltfreundlich sein.
+
+  シェフは新鮮な素材にこだわっています。
+  シェフは 新鮮[しんせん]な 素材[そざい]にこだわっています。
+  Der Küchenchef legt großen Wert auf frische Zutaten.
+
+  この生地はよく伸び縮みする素材でできています。
+  この 生地[きじ]はよく 伸[の]び 縮[ちぢ]みする 素材[そざい]でできています。
+  Dieser Stoff besteht aus einem sehr elastischen Material.
+
+  彼女の小説の素材は彼女自身の経験です。
+  彼女[かのじょ]の 小説[しょうせつ]の 素材[そざい]は 彼女[かのじょ] 自身[じしん]の 経験[けいけん]です。
+  Das Material für ihren Roman stammt aus ihren eigenen Erfahrungen.
+
+  「人間というのは、いったいどういう素材からできているのかな？」
+  「人間[にんげん]というのは、いったいどういう 素材[そざい]からできているのかな？」
+  "Sag mir, aus welchem Stoff Menschen bestehen!"
+
+  写真は結局、素材なんだ。
+  写真[しゃしん]は 結局[けっきょく]、素材[そざい]なんだ。
+  Fotos sind letztendlich das Material, mit dem ich arbeite.
+
+  おなじみ素材をアレンジすれば、おしゃれなおつまみができあがります。
+  おなじみ 素材[そざい]をアレンジすれば、おしゃれなおつまみができあがります。
+  Wenn man vertraute Zutaten neu arrangiert, entstehen raffinierte Snacks.
+
+  この素材は環境に優しいだけでなく、耐久性も高いです。
+  この 素材[そざい]は 環境[かんきょう]に 優[やさ]しいだけでなく、耐久性[たいきゅうせい]も 高[たか]いです。
+  Dieses Material ist nicht nur umweltfreundlich, sondern auch sehr haltbar.
+
+  料理の素材選びは重要な作業です。
+  料理[りょうり]の 素材[そざい] 選[えら]びは 重要[じゅうよう]な 作業[さぎょう]です。
+  Die Auswahl der Zutaten ist eine wichtige Aufgabe beim Kochen.
+
+  この建物は地元の素材を使って建てられました。
+  この 建物[たてもの]は 地元[じもと]の 素材[そざい]を 使[つか]って 建[た]てられました。
+  Dieses Gebäude wurde mit lokalen Materialien errichtet.
+
+  素材の質が最終製品の品質を左右します。
+  素材[そざい]の 質[しつ]が 最終製品[さいしゅうせいひん]の 品質[ひんしつ]を 左右[さゆう]します。
+  Die Qualität der Materialien bestimmt die Qualität des Endprodukts.
+
+  この作家は日常生活から小説の素材を得ています。
+  この 作家[さっか]は 日常生活[にちじょうせいかつ]から 小説[しょうせつ]の 素材[そざい]を 得[え]ています。
+  Dieser Autor gewinnt das Material für seine Romane aus dem Alltagsleben.
+
+  新しい素材の開発には多くの時間と費用がかかります。
+  新[あたら]しい 素材[そざい]の 開発[かいはつ]には 多[おお]くの 時間[じかん]と 費用[ひよう]がかかります。
+  Die Entwicklung neuer Materialien erfordert viel Zeit und Geld.
+
+  この素材は高温に耐えられるので、様々な用途に使えます。
+  この 素材[そざい]は 高温[こうおん]に 耐[た]えられるので、様々[さまざま]な 用途[ようと]に 使[つか]えます。
+  Dieses Material ist hitzebeständig und kann daher für verschiedene Zwecke verwendet werden.
+
+  素材の特性を理解することが製品開発の鍵です。
+  素材[そざい]の 特性[とくせい]を 理解[りかい]することが 製品開発[せいひんかいはつ]の 鍵[かぎ]です。
+  Das Verständnis der Materialeigenschaften ist der Schlüssel zur Produktentwicklung.
+
+  自然素材を使った家具は人気が高まっています。
+  自然素材[しぜんそざい]を 使[つか]った 家具[かぐ]は 人気[にんき]が 高[たか]まっています。
+  Möbel aus natürlichen Materialien werden immer beliebter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

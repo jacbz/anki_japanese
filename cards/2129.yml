@@ -94,4 +94,45 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML for the grammatical note on 喉:
+
+  <p>喉[のど] bezeichnet die Kehle oder den Hals.</p>
+  <ul>
+    <li>Es kann sich auf den physischen Teil des Körpers beziehen:</li>
+    <div class="examples">
+      <div class="jp">喉[のど]まで こみあげてくる 嘔吐[おうと]</div>
+      <div class="de spoiler">Der Brechreiz, der bis zur Kehle aufsteigt</div>
+    </div>
+    <li>Es wird oft in Verbindung mit Durst oder Trinken verwendet:</li>
+    <div class="examples">
+      <div class="jp">喉[のど]が 乾[かわ]いていた</div>
+      <div class="de spoiler">Ich war durstig (wörtl.: Meine Kehle war trocken)</div>
+    </div>
+    <li>Es kann auch die Stimme oder Singstimme bezeichnen:</li>
+    <div class="examples">
+      <div class="jp">喉[のど]がいい</div>
+      <div class="de spoiler">Eine gute (Sing-)Stimme haben</div>
+    </div>
+  </ul>
+  <p>Es gibt einige idiomatische Ausdrücke mit 喉:</p>
+  <ul>
+    <li><span class="jp">喉[のど]が 鳴[な]る</span> (wörtl.: Die Kehle macht Geräusche) bedeutet, dass man Appetit bekommt.</li>
+    <li><span class="jp">喉[のど]から 手[て]が 出[で]る</span> (wörtl.: Eine Hand kommt aus der Kehle) wird verwendet, um auszudrücken, dass man etwas unbedingt haben möchte:</li>
+    <div class="examples">
+      <div class="jp">喉[のど]から 手[て]が 出[で]るほど 欲[ほ]しい</div>
+      <div class="de spoiler">Ich möchte es unbedingt haben (wörtl.: Ich möchte es so sehr, dass eine Hand aus meiner Kehle kommt)</div>
+    </div>
+    <li><span class="jp">喉[のど]を 鳴[な]らす</span> kann verschiedene Bedeutungen haben:</li>
+    <ul>
+      <li>Sich räuspern</li>
+      <li>Geräuschvoll schlucken</li>
+      <li>Etwas unbedingt haben wollen</li>
+    </ul>
+    <div class="examples">
+      <div class="jp">喉[のど]を 鳴[な]らして 飲[の]む</div>
+      <div class="de spoiler">Geräuschvoll oder gierig trinken</div>
+    </div>
+  </ul>
+
+  </p>

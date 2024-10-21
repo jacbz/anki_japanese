@@ -102,4 +102,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>やる ist ein sehr häufig verwendetes Verb mit mehreren wichtigen Bedeutungen:</p>
+
+  <ul>
+    <li>In der Alltagssprache bedeutet es "machen, tun, durchführen":</li>
+    <div class="examples">
+      <div class="jp">よく<u>やった</u>。</div>
+      <div class="de spoiler">Gut gemacht!</div>
+      <div class="jp">自分[じぶん]で<u>やる</u>よ。</div>
+      <div class="de spoiler">Ich mache das selbst.</div>
+    </div>
+
+    <li>Es wird verwendet, um jemandem etwas zu geben (normalerweise an gleichgestellte oder rangniedrigere Personen, Tiere oder Pflanzen):</li>
+    <div class="examples">
+      <div class="jp">坊[ぼう]や、うまいものを<u>やる</u>から。</div>
+      <div class="de spoiler">Komm her, Kleiner! Papa hat was Leckeres für dich.</div>
+    </div>
+
+    <li>Es wird auch verwendet, um Aktivitäten oder Hobbys auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">柔術[じゅうじゅつ]でも<u>やる</u>か。</div>
+      <div class="de spoiler">Machst du auch Jiu-Jitsu?</div>
+      <div class="jp">手品[てじな]も<u>やる</u>し、ボクシングを<u>やった</u>こともある。</div>
+      <div class="de spoiler">Ich kann zaubern und habe auch schon geboxt.</div>
+    </div>
+
+    <li>Es kann auch bedeuten, Veranstaltungen durchzuführen:</li>
+    <div class="examples">
+      <div class="jp">披露宴[ひろうえん]は レストランで<u>やった</u>。</div>
+      <div class="de spoiler">Die Hochzeit wurde im Restaurant gefeiert.</div>
+    </div>
+
+    <li>In Bezug auf Konsum kann es "trinken" oder "rauchen" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">アルコールは<u>やらない</u>んでね。</div>
+      <div class="de spoiler">Ich trinke keinen Alkohol.</div>
+    </div>
+  </ul>

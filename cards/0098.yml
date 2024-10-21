@@ -102,4 +102,60 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb <span class="jp">持[も]つ</span> hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Etwas in der Hand haben, halten oder tragen:</li>
+    <div class="examples">
+      <div class="jp">その 荷物[にもつ]<u>は</u> 私[わたし]が 持[も]ちましょう。</div>
+      <div class="de spoiler">Lass mich das Gepäck tragen.</div>
+    </div>
+
+    <li>Etwas besitzen oder über etwas verfügen:</li>
+    <div class="examples">
+      <div class="jp">きれいな 歯[は]を 持[も]っている。</div>
+      <div class="de spoiler">Er hat schöne Zähne.</div>
+    </div>
+
+    <li>Gefühle oder Einstellungen haben:</li>
+    <div class="examples">
+      <div class="jp">みんな 広田[ひろた] 先生[せんせい]に 同情[どうじょう]を 持[も]っている 連中[れんちゅう]だ。</div>
+      <div class="de spoiler">Es waren alles Leute, die Professor Hirota günstig gesinnt waren.</div>
+    </div>
+
+    <li>Verantwortung oder Pflichten haben:</li>
+    <div class="examples">
+      <div class="jp">ぼくは 自分[じぶん]の 生[い]き 方[かた]に 責任[せきにん]を 持[も]ちたい。</div>
+      <div class="de spoiler">Ich möchte für meine Art zu leben Verantwortung tragen.</div>
+    </div>
+
+    <li>Eine Veranstaltung abhalten oder ein Gespräch führen:</li>
+    <div class="examples">
+      <div class="jp">夕方[ゆうがた] 子供[こども]の 迎[むか]えに 来[く]る 親[おや]たちで、そのまま 会合[かいごう]を 持[も]つ 方針[ほうしん]を 立[た]てた。</div>
+      <div class="de spoiler">Sie planten, eine Versammlung mit den Eltern abzuhalten, die am Abend kommen würden, um ihre Kinder abzuholen.</div>
+    </div>
+  </ul>
+
+  <p>Als intransitives Verb kann <span class="jp">持[も]つ</span> auch bedeuten:</p>
+
+  <ul>
+    <li>Andauern, sich halten:</li>
+    <div class="examples">
+      <div class="jp">病人[びょうにん]は 意外[いがい]に 長[なが]く 持[も]ち、三晩目[さんばんめ]の 未明[みめい]に 息[いき]を 引[ひ]きとった。</div>
+      <div class="de spoiler">Der Patient hielt überraschend lange durch und starb erst im Morgengrauen des dritten Tages.</div>
+    </div>
+  </ul>
+
+  <p>In der Form <span class="jp">⋯で 持[も]つ</span> bedeutet es "durch etwas aufrechterhalten werden" oder "von etwas abhängen":</p>
+
+  <div class="examples">
+    <div class="jp">人間[にんげん]は 全[まった]く 服装[ふくそう]で 持[も]ってるのだ。</div>
+    <div class="de spoiler">Es ist einzig und allein die Kleidung, die den Menschen zum Menschen macht.</div>
+  </div>
+
+  <p>Ein verwandter Ausdruck:</p>
+  <div class="examples">
+    <div class="jp">持[も]ちつ 持[も]たれつ</div>
+    <div class="de spoiler">Gegenseitige Abhängigkeit; einander unterstützen</div>
+  </div>

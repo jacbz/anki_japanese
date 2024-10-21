@@ -2,10 +2,10 @@ Rang: 3934
 Lemma: そっくり
 Lesung: ''
 Tonhöhen: /^\.
-Definition: ähnlich, ganz genauso; insgesamt
+Definition: ganz, vollständig; sehr ähnlich
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj, adv, adj
+Wortart: adv, na-no-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,87 @@ Konjugation: ''
 Beispielsätze: |-
   彼女は母親にそっくりだ。
   彼女[かのじょ]は 母親[ははおや]にそっくりだ。
-  Sie sieht ihrer Mutter ganz ähnlich.
+  Sie sieht ihrer Mutter zum Verwechseln ähnlich.
+
+  全額をそっくり返金しました。
+  全額[ぜんがく]をそっくり 返金[へんきん]しました。
+  Ich habe den gesamten Betrag vollständig zurückerstattet.
+
+  彼の声は父親とそっくりだ。
+  彼[かれ]の 声[こえ]は 父親[ちちおや]とそっくりだ。
+  Seine Stimme gleicht der seines Vaters aufs Haar.
+
+  この絵は本物そっくりの模写だ。
+  この 絵[え]は 本物[ほんもの]そっくりの 模写[もしゃ]だ。
+  Dieses Gemälde ist eine täuschend echte Kopie des Originals.
+
+  彼女は祖母にそっくり似ている。
+  彼女[かのじょ]は 祖母[そぼ]にそっくり 似[に]ている。
+  Sie gleicht ihrer Großmutter wie ein Ei dem anderen.
+
+  残高をそっくり引き出した。
+  残高[ざんだか]をそっくり 引[ひ]き 出[だ]した。
+  Ich habe den gesamten Kontostand abgehoben.
+
+  この人形は実物そっくりに作られている。
+  この 人形[にんぎょう]は 実物[じつぶつ]そっくりに 作[つく]られている。
+  Diese Puppe ist lebensecht gestaltet.
+
+  彼は父親そっくりの性格だ。
+  彼[かれ]は 父親[ちちおや]そっくりの 性格[せいかく]だ。
+  Er hat genau den gleichen Charakter wie sein Vater.
+
+  今月の給料をそっくり貯金した。
+  今月[こんげつ]の 給料[きゅうりょう]をそっくり 貯金[ちょきん]した。
+  Ich habe mein ganzes Gehalt dieses Monats gespart.
+
+  この偽物は本物にそっくりだ。
+  この 偽物[にせもの]は 本物[ほんもの]にそっくりだ。
+  Diese Fälschung sieht dem Original zum Verwechseln ähnlich.
+
+  彼は兄とそっくりの顔をしている。
+  彼[かれ]は 兄[あに]とそっくりの 顔[かお]をしている。
+  Er hat genau das gleiche Gesicht wie sein älterer Bruder.
+
+  部屋をそっくりリフォームした。
+  部屋[へや]をそっくりリフォームした。
+  Ich habe das Zimmer komplett renoviert.
+
+  この子は母親そっくりの目をしている。
+  この 子[こ]は 母親[ははおや]そっくりの 目[め]をしている。
+  Dieses Kind hat genau die gleichen Augen wie seine Mutter.
+
+  彼女は姉にそっくりな声をしている。
+  彼女[かのじょ]は 姉[あね]にそっくりな 声[こえ]をしている。
+  Sie hat eine Stimme, die der ihrer älteren Schwester sehr ähnlich ist.
+
+  彼らは全財産をそっくり寄付した。
+  彼[かれ]らは 全[ぜん]財産[ざいさん]をそっくり 寄付[きふ]した。
+  Sie haben ihr gesamtes Vermögen gespendet.
+
+  この子犬は母犬にそっくりだ。
+  この 子犬[こいぬ]は 母犬[ぼけん]にそっくりだ。
+  Dieser Welpe sieht seiner Mutter sehr ähnlich.
+
+  彼は祖父そっくりの歩き方をする。
+  彼[かれ]は 祖父[そふ]そっくりの 歩[ある]き 方[かた]をする。
+  Er geht genau wie sein Großvater.
+
+  彼女は友達の髪型をそっくりまねた。
+  彼女[かのじょ]は 友達[ともだち]の 髪型[かみがた]をそっくりまねた。
+  Sie hat die Frisur ihrer Freundin exakt kopiert.
+
+  この復元された建物は昔のものにそっくりだ。
+  この 復元[ふくげん]された 建物[たてもの]は 昔[むかし]のものにそっくりだ。
+  Dieses restaurierte Gebäude sieht genau wie das Original aus der Vergangenheit aus.
+
+  彼は父親そっくりの趣味を持っている。
+  彼[かれ]は 父親[ちちおや]そっくりの 趣味[しゅみ]を 持[も]っている。
+  Er hat genau die gleichen Hobbys wie sein Vater.
+
+  彼女は母親そっくりの料理の腕前だ。
+  彼女[かのじょ]は 母親[ははおや]そっくりの 料理[りょうり]の 腕前[うでまえ]だ。
+  Sie kocht genauso gut wie ihre Mutter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

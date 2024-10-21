@@ -2,20 +2,100 @@ Rang: 3567
 Lemma: 兼ねる
 Lesung: かねる
 Tonhöhen: /\.
-Definition: kombinieren; beide dienen
+Definition: kombinieren; nicht können
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: vt
+Wortart: vt, vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 兼ねない・兼ねた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   趣味と実益を兼ねて、中国語を習っている。
-  趣味[しゅみ]と 実益[じつえき]を 兼[か]ねて、 中国語[ちゅうごくご]を 習[なら]っている。
-  Ich lerne Chinesisch, weil es mir Spaß macht und gleichzeitig nützlich ist.
+  趣味[しゅみ]と 実益[じつえき]を 兼[か]ねて、中国語[ちゅうごくご]を 習[なら]っている。
+  Ich lerne Chinesisch und verbinde dabei das Angenehme mit dem Nützlichen.
+
+  首相が外相を兼ねる例は珍しくない。
+  首相[しゅしょう]が 外相[がいしょう]を 兼[か]ねる 例[れい]は 珍[めずら]しくない。
+  Es ist nicht ungewöhnlich, dass der Premierminister gleichzeitig auch als Außenminister fungiert.
+
+  彼の部屋は寝室と書斎を兼ねています。
+  彼[かれ]の 部屋[へや]は 寝室[しんしつ]と 書斎[しょさい]を 兼[か]ねています。
+  Sein Zimmer dient sowohl als Schlafzimmer als auch als Arbeitszimmer.
+
+  用事と保養とを兼ねて温泉旅行に行きました。
+  用事[ようじ]と 保養[ほよう]とを 兼[か]ねて 温泉旅行[おんせんりょこう]に 行[い]きました。
+  Ich machte eine Reise zu den heißen Quellen und verband dabei Geschäftliches mit Erholung.
+
+  彼女は店員として、注文取りと会計係を兼ねている。
+  彼女[かのじょ]は 店員[てんいん]として、注文取[ちゅうもんと]りと 会計係[かいけいがかり]を 兼[か]ねている。
+  Als Angestellte im Laden übernimmt sie sowohl die Bestellannahme als auch die Kassierertätigkeit.
+
+  気を兼ねて、上司に意見を言えなかった。
+  気[き]を 兼[か]ねて、上司[じょうし]に 意見[いけん]を 言[い]えなかった。
+  Aus Befangenheit konnte ich meinem Vorgesetzten meine Meinung nicht sagen.
+
+  申し上げ兼ねますが、そのプランには問題があります。
+  申[もう]し 上[あ]げ 兼[か]ねますが、そのプランには 問題[もんだい]があります。
+  Es fällt mir schwer, das zu sagen, aber dieser Plan hat einige Probleme.
+
+  彼の行動は常識を逸脱していて、理解に苦しむ。
+  彼[かれ]の 行動[こうどう]は 常識[じょうしき]を 逸脱[いつだつ]していて、理解[りかい]に 苦[くる]しむ。
+  Sein Verhalten weicht so sehr vom gesunden Menschenverstand ab, dass es schwer zu verstehen ist.
+
+  長時間座っていると、腰が痛くて堪り兼ねる。
+  長時間[ちょうじかん] 座[すわ]っていると、腰[こし]が 痛[いた]くて 堪[た]り 兼[か]ねる。
+  Wenn ich lange sitze, kann ich die Schmerzen in meinem Rücken kaum noch ertragen.
+
+  その説明は複雑すぎて、分かり兼ねます。
+  その 説明[せつめい]は 複雑[ふくざつ]すぎて、分[わ]かり 兼[か]ねます。
+  Diese Erklärung ist zu kompliziert, ich kann sie kaum verstehen.
+
+  彼の字は読み兼ねるほど汚い。
+  彼[かれ]の 字[じ]は 読[よ]み 兼[か]ねるほど 汚[きたな]い。
+  Seine Handschrift ist so schlecht, dass sie kaum zu lesen ist.
+
+  降り出しかねない空模様だ。傘を持って行こう。
+  降[ふ]り 出[だ]しかねない 空模様[そらもよう]だ。傘[かさ]を 持[も]って 行[い]こう。
+  Es sieht nach Regen aus. Lass uns einen Regenschirm mitnehmen.
+
+  彼の態度は誤解を招きかねない。
+  彼[かれ]の 態度[たいど]は 誤解[ごかい]を 招[まね]きかねない。
+  Seine Haltung könnte zu Missverständnissen führen.
+
+  彼の言動は人々の怒りを買いかねない。
+  彼[かれ]の 言動[げんどう]は 人々[ひとびと]の 怒[いか]りを 買[か]いかねない。
+  Sein Verhalten könnte den Zorn der Leute auf sich ziehen.
+
+  彼女の発言は深刻な問題を引き起こしかねない。
+  彼女[かのじょ]の 発言[はつげん]は 深刻[しんこく]な 問題[もんだい]を 引[ひ]き 起[お]こしかねない。
+  Ihre Äußerung könnte ernsthafte Probleme verursachen.
+
+  彼の運転は事故を起こしかねない危険なものだ。
+  彼[かれ]の 運転[うんてん]は 事故[じこ]を 起[お]こしかねない 危険[きけん]なものだ。
+  Seine Fahrweise ist so gefährlich, dass sie leicht zu einem Unfall führen könnte.
+
+  その政策は国民の反発を招きかねない。
+  その 政策[せいさく]は 国民[こくみん]の 反発[はんぱつ]を 招[まね]きかねない。
+  Diese Politik könnte den Widerstand der Bevölkerung hervorrufen.
+
+  彼の行動は会社の評判を落としかねない。
+  彼[かれ]の 行動[こうどう]は 会社[かいしゃ]の 評判[ひょうばん]を 落[お]としかねない。
+  Sein Verhalten könnte dem Ruf der Firma schaden.
+
+  彼女の才能は、多くの人を感動させずにはいられない。
+  彼女[かのじょ]の 才能[さいのう]は、多[おお]くの 人[ひと]を 感動[かんどう]させずにはいられない。
+  Ihr Talent kann nicht anders, als viele Menschen zu bewegen.
+
+  この機会を逃せば、二度と来ないかもしれない。
+  この 機会[きかい]を 逃[のが]せば、二度[にど]と 来[こ]ないかもしれない。
+  Wenn wir diese Gelegenheit verpassen, kommt sie vielleicht nie wieder.
+
+  彼の態度は周囲の人々を不快にさせかねない。
+  彼[かれ]の 態度[たいど]は 周囲[しゅうい]の 人々[ひとびと]を 不快[ふかい]にさせかねない。
+  Seine Haltung könnte die Menschen um ihn herum verärgern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

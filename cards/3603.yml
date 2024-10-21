@@ -2,20 +2,100 @@ Rang: 3603
 Lemma: 割れる
 Lesung: われる
 Tonhöhen: /^^
-Definition: zerbrechen; brechen
-Alternativschreibweisen: ''
+Definition: zerbrechen; reißen; (Geheimnis) herauskommen
+Alternativschreibweisen: 破れる
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 割れない・割れた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   強風で窓ガラスが割れた。
   強風[きょうふう]で 窓[まど]ガラスが 割[わ]れた。
-  Das Fenster wurde von einem starken Wind zerbrochen.
+  Durch den starken Wind ist die Fensterscheibe zerbrochen.
+
+  二つに割れたメロンを皆で分けた。
+  二[ふた]つに 割[わ]れたメロンを 皆[みな]で 分[わ]けた。
+  Wir teilten die in zwei Hälften geschnittene Melone unter uns auf.
+
+  ガラスの割れる音が静かな夜に響いた。
+  ガラスの 割[わ]れる 音[おと]が 静[しず]かな 夜[よる]に 響[ひび]いた。
+  Das Geräusch zerbrechenden Glases hallte durch die stille Nacht.
+
+  声変わりで彼の声が割れ始めた。
+  声変[こえか]わりで 彼[かれ]の 声[こえ]が 割[わ]れ 始[はじ]めた。
+  Seine Stimme begann während des Stimmbruchs zu brechen.
+
+  爪が割れやすいので、マニキュアを塗っている。
+  爪[つめ]が 割[わ]れやすいので、マニキュアを 塗[ぬ]っている。
+  Da meine Nägel leicht brechen, trage ich Nagellack auf.
+
+  地震で地面が割れ、大きな亀裂ができた。
+  地震[じしん]で 地面[じめん]が 割[わ]れ、大[おお]きな 亀裂[きれつ]ができた。
+  Durch das Erdbeben riss der Boden auf und es entstand ein großer Spalt.
+
+  乾燥で唇が割れてしまった。
+  乾燥[かんそう]で 唇[くちびる]が 割[わ]れてしまった。
+  Meine Lippen sind aufgrund der Trockenheit aufgesprungen.
+
+  この問題について意見が割れている。
+  この 問題[もんだい]について 意見[いけん]が 割[わ]れている。
+  Die Meinungen zu diesem Thema gehen auseinander.
+
+  秘密が割れて、みんなに知られてしまった。
+  秘密[ひみつ]が 割[わ]れて、みんなに 知[し]られてしまった。
+  Das Geheimnis ist herausgekommen und alle haben es erfahren.
+
+  8は2で割れる数です。
+  8は2で 割[わ]れる 数[かず]です。
+  8 ist eine durch 2 teilbare Zahl.
+
+  ガソリン価格が1リットル150円を割れた。
+  ガソリン 価格[かかく]が1リットル150円[えん]を 割[わ]れた。
+  Der Benzinpreis ist unter 150 Yen pro Liter gefallen.
+
+  頭が割れるような痛みがする。
+  頭[あたま]が 割[わ]れるような 痛[いた]みがする。
+  Ich habe Kopfschmerzen, als würde mein Kopf zerspringen.
+
+  割れるような拍手が会場に響き渡った。
+  割[わ]れるような 拍手[はくしゅ]が 会場[かいじょう]に 響[ひび]き 渡[わた]った。
+  Donnernder Applaus hallte durch den Saal.
+
+  彼女は初めての経験で緊張して体が割れそうだった。
+  彼女[かのじょ]は 初[はじ]めての 経験[けいけん]で 緊張[きんちょう]して 体[からだ]が 割[わ]れそうだった。
+  Sie war bei ihrer ersten Erfahrung so nervös, dass sie das Gefühl hatte, ihr Körper würde zerbersten.
+
+  このガラスは割れにくい特殊な素材でできています。
+  このガラスは 割[わ]れにくい 特殊[とくしゅ]な 素材[そざい]でできています。
+  Dieses Glas ist aus einem speziellen Material gefertigt, das schwer zu zerbrechen ist.
+
+  皿を落として割ってしまった。
+  皿[さら]を 落[お]として 割[わ]ってしまった。
+  Ich habe den Teller fallen lassen und zerbrochen.
+
+  氷が割れる音が静寂を破った。
+  氷[こおり]が 割[わ]れる 音[おと]が 静寂[せいじゃく]を 破[やぶ]った。
+  Das Geräusch brechenden Eises durchbrach die Stille.
+
+  熱で花瓶が割れてしまいました。
+  熱[ねつ]で 花瓶[かびん]が 割[わ]れてしまいました。
+  Die Vase ist durch die Hitze gesprungen.
+
+  木の枝が重みで割れそうだ。
+  木[き]の 枝[えだ]が 重[おも]みで 割[わ]れそうだ。
+  Der Ast des Baumes scheint unter seinem Gewicht zu brechen.
+
+  彼らの友情は決して割れることはないだろう。
+  彼[かれ]らの 友情[ゆうじょう]は 決[けっ]して 割[わ]れることはないだろう。
+  Ihre Freundschaft wird wohl niemals zerbrechen.
+
+  気温が氷点下を割れた。
+  気温[きおん]が 氷点下[ひょうてんか]を 割[わ]れた。
+  Die Temperatur ist unter den Gefrierpunkt gefallen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

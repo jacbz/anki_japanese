@@ -2,13 +2,13 @@ Rang: 2170
 Lemma: うるさい
 Lesung: ''
 Tonhöhen: /^\.
-Definition: laut; nervig
-Alternativschreibweisen: ''
+Definition: laut, störend; nervig; pingelig
+Alternativschreibweisen: 煩い・五月蠅い
 Extra: '' # Nur bei suru-Verben
 Wortart: adj
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: うるさくない・うるさかった
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,112 @@ Beispielsätze: |-
   煩[うるさ]いな、ほっといてよ。
   Lass mich in Ruhe. Störe mich nicht.
 
+  うるさいな、ほっといてよ。
+  うるさいな、ほっといてよ。
+  Sei nicht so nervig, lass mich in Ruhe.
+
+  機械の音がうるさくて集中できません。
+  機械[きかい]の 音[おと]がうるさくて 集中[しゅうちゅう]できません。
+  Der Lärm der Maschine ist so laut, dass ich mich nicht konzentrieren kann.
+
+  彼のいびきがうるさくて眠れなかった。
+  彼[かれ]のいびきがうるさくて 眠[ねむ]れなかった。
+  Sein lautes Schnarchen hat mich wach gehalten.
+
+  工事の音がうるさくてかなわない。
+  工事[こうじ]の 音[おと]がうるさくてかなわない。
+  Der Baustellenlärm ist unerträglich.
+
+  うるさい手続きを簡素化してほしい。
+  うるさい 手続[てつづ]きを 簡素化[かんそか]してほしい。
+  Ich wünschte, sie würden diese lästigen Formalitäten vereinfachen.
+
+  彼女はうるさく質問を繰り返した。
+  彼女[かのじょ]はうるさく 質問[しつもん]を 繰[く]り 返[かえ]した。
+  Sie stellte immer wieder nervige Fragen.
+
+  長い髪がうるさくて、切ろうと思っている。
+  長[なが]い 髪[かみ]がうるさくて、切[き]ろうと 思[おも]っている。
+  Meine langen Haare stören mich, ich denke darüber nach, sie zu schneiden.
+
+  子供がうるさくおもちゃをねだっている。
+  子供[こども]がうるさくおもちゃをねだっている。
+  Das Kind quengelt nervtötend um ein Spielzeug.
+
+  うるさいハエを追い払おうとした。
+  うるさいハエを 追い払[おいはら]おうとした。
+  Ich versuchte, die lästige Fliege zu verscheuchen.
+
+  彼は時間にうるさい人で、1分の遅刻も許さない。
+  彼[かれ]は 時間[じかん]にうるさい 人[ひと]で、1分[ぷん]の 遅刻[ちこく]も 許[ゆる]さない。
+  Er nimmt es mit der Pünktlichkeit sehr genau und toleriert nicht einmal eine Minute Verspätung.
+
+  味にうるさい彼女は、レストランの選択に時間がかかる。
+  味[あじ]にうるさい 彼女[かのじょ]は、レストランの 選択[せんたく]に 時間[じかん]がかかる。
+  Da sie beim Geschmack sehr wählerisch ist, braucht sie lange, um ein Restaurant auszusuchen.
+
+  健康にうるさい友達は、毎日の食事にこだわっている。
+  健康[けんこう]にうるさい 友達[ともだち]は、毎日[まいにち]の 食事[しょくじ]にこだわっている。
+  Mein gesundheitsbewusster Freund ist sehr pingelig bei seinen täglichen Mahlzeiten.
+
+  うるさい上司のせいで、仕事のストレスが増えている。
+  うるさい 上司[じょうし]のせいで、仕事[しごと]のストレスが 増[ふ]えている。
+  Wegen meines strengen Vorgesetzten nimmt der Arbeitsstress zu.
+
+  彼女は食べ物にうるさくて、外食が難しい。
+  彼女[かのじょ]は 食[た]べ 物[もの]にうるさくて、外食[がいしょく]が 難[むずか]しい。
+  Sie ist beim Essen sehr wählerisch, was es schwierig macht, auswärts zu essen.
+
+  うるさい規則のせいで、自由に行動できない。
+  うるさい 規則[きそく]のせいで、自由[じゆう]に 行動[こうどう]できない。
+  Wegen der strengen Regeln kann ich nicht frei handeln.
+
+  隣の犬がうるさくて、夜眠れない。
+  隣[となり]の 犬[いぬ]がうるさくて、夜[よる] 眠[ねむ]れない。
+  Der Hund des Nachbarn ist so laut, dass ich nachts nicht schlafen kann.
+
+  うるさい雨音で、電話の声が聞こえない。
+  うるさい 雨音[あまおと]で、電話[でんわ]の 声[こえ]が 聞[き]こえない。
+  Wegen des lauten Regengeräusches kann ich die Stimme am Telefon nicht hören.
+
+  彼はうるさく細部にこだわる完璧主義者だ。
+  彼[かれ]はうるさく 細部[さいぶ]にこだわる 完璧主義者[かんぺきしゅぎしゃ]だ。
+  Er ist ein Perfektionist, der pingelig auf Details achtet.
+
+  うるさい虫の声で、夏の夜を実感する。
+  うるさい 虫[むし]の 声[こえ]で、夏[なつ]の 夜[よる]を 実感[じっかん]する。
+  Durch das laute Zirpen der Insekten spüre ich die Sommernacht richtig.
+
+  彼女の口うるさい忠告にはうんざりだ。
+  彼女[かのじょ]の 口[くち]うるさい 忠告[ちゅうこく]にはうんざりだ。
+  Ich habe die Nase voll von ihren nervigen Ermahnungen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">うるさい</span> hat verschiedene Bedeutungen:</p>
+  <ol>
+    <li>Es beschreibt etwas, das laut oder störend ist.</li>
+    <div class="examples">
+      <div class="jp">機械[きかい]の 音[おと]がうるさい。</div>
+      <div class="de spoiler">Der Maschinenlärm ist störend.</div>
+    </div>
+    <li>Es kann auch "lästig" oder "nervig" bedeuten.</li>
+    <div class="examples">
+      <div class="jp">うるさい 手続[てつづ]き</div>
+      <div class="de spoiler">Lästige Formalitäten</div>
+    </div>
+    <li>Es kann jemanden beschreiben, der sehr genau oder streng in Bezug auf etwas ist.</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 時間[じかん]にうるさい。</div>
+      <div class="de spoiler">Er nimmt es mit der Pünktlichkeit sehr genau.</div>
+    </div>
+  </ol>
+  <p>In der Umgangssprache wird es oft als Ausruf verwendet, um jemanden aufzufordern, ruhig zu sein oder aufzuhören zu nerven.</p>
+  <div class="examples">
+    <div class="jp">うるさい！ 静[しず]かにして！</div>
+    <div class="de spoiler">Sei still! Ruhe!</div>
+  </div>

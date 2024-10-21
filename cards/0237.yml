@@ -2,7 +2,7 @@ Rang: 237
 Lemma: あるいは
 Lesung: ''
 Tonhöhen: /\..
-Definition: oder; vielleicht
+Definition: oder, bzw.; vielleicht
 Alternativschreibweisen: 或いは
 Extra: '' # Nur bei suru-Verben
 Wortart: konj, adv
@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>あるいは hat zwei Hauptbedeutungen:</p>
+
+  <h3>1. Als Konjunktion</h3>
+  <p>Es bedeutet "oder", "beziehungsweise", "entweder ... oder", "teils ... teils", "bald ... bald".</p>
+
+  <div class="examples">
+    <div class="jp">「彼」の 存在[そんざい]、<u>あるいは</u> 不在[ふざい]⋯⋯</div>
+    <div class="de spoiler">»Seine« Existenz beziehungsweise Nichtexistenz ...</div>
+  </div>
+
+  <p>Es kann auch verwendet werden, um Gegensätze oder Alternativen auszudrücken:</p>
+
+  <div class="examples">
+    <div class="jp"><u>あるいは</u> 強[つよ]く<u>あるいは</u> 弱[よわ]く</div>
+    <div class="de spoiler">mal stark, mal schwach</div>
+  </div>
+
+  <h3>2. Als Adverb</h3>
+  <p>In dieser Verwendung bedeutet es "eventuell", "möglicherweise", "vielleicht", "unter Umständen", "wohl".</p>
+
+  <div class="examples">
+    <div class="jp"><u>あるいは</u> 長[なが]い 廊下[ろうか]の 暗喩[あんゆ]として マルセル・プルースト を 引用[いんよう]したのかもしれなかった。</div>
+    <div class="de spoiler">Möglicherweise hatte sie Marcel Proust als Metapher für den langen Korridor angeführt.</div>
+  </div>
+
+  <p>Es wird oft mit かもしれない kombiniert, um eine stärkere Vermutung auszudrücken:</p>
+
+  <div class="examples">
+    <div class="jp"><u>あるいは</u> 私[わたし]だけかも 知[し]れない。</div>
+    <div class="de spoiler">Möglicherweise war ich der einzige.</div>
+  </div>
+
+  <p>あるいは kann auch eine Überlegung oder Hypothese einleiten:</p>
+
+  <div class="examples">
+    <div class="jp"><u>あるいは</u> 逃[に]げ 出[だ]したのではないかと 思[おも]ったが</div>
+    <div class="de spoiler">Er dachte schon, sie hätte sich vielleicht davongemacht, aber ...</div>
+  </div>

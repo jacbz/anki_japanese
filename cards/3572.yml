@@ -2,20 +2,96 @@ Rang: 3572
 Lemma: 下す
 Lesung: くだす
 Tonhöhen: /^^
-Definition: erteilen, ausstellen; eine Entscheidung treffen
-Alternativschreibweisen: ''
+Definition: geben, erteilen; (Urteil) fällen; ausscheiden
+Alternativschreibweisen: 降す
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 下さない・下した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   裁判所は全員無罪という判決を下した。
   裁判所[さいばんしょ]は 全員[ぜんいん] 無罪[むざい]という 判決[はんけつ]を 下[くだ]した。
-  Das Gericht fällte ein Urteil von nicht schuldig für alle von ihnen.
+  Das Gericht fällte ein Urteil auf Freispruch für alle Angeklagten.
+
+  社長は新しい方針について命令を下した。
+  社長[しゃちょう]は 新[あたら]しい 方針[ほうしん]について 命令[めいれい]を 下[くだ]した。
+  Der Firmenchef erteilte einen Befehl bezüglich der neuen Richtlinie.
+
+  彼は慎重に状況を分析し、最終的な結論を下した。
+  彼[かれ]は 慎重[しんちょう]に 状況[じょうきょう]を 分析[ぶんせき]し、最終的[さいしゅうてき]な 結論[けつろん]を 下[くだ]した。
+  Er analysierte die Situation sorgfältig und zog dann seine endgültige Schlussfolgerung.
+
+  委員会は長時間の議論の末、重要な決断を下した。
+  委員会[いいんかい]は 長時間[ちょうじかん]の 議論[ぎろん]の 末[すえ]、重要[じゅうよう]な 決断[けつだん]を 下[くだ]した。
+  Nach stundenlanger Diskussion traf das Komitee eine wichtige Entscheidung.
+
+  天皇陛下は功績のあった市民に栄誉ある賞を下された。
+  天皇陛下[てんのうへいか]は 功績[こうせき]のあった 市民[しみん]に 栄誉[えいよ]ある 賞[しょう]を 下[くだ]された。
+  Seine Majestät der Kaiser verlieh verdienstvollen Bürgern eine ehrenvolle Auszeichnung.
+
+  将軍は部下に厳しい命令を下した。
+  将軍[しょうぐん]は 部下[ぶか]に 厳[きび]しい 命令[めいれい]を 下[くだ]した。
+  Der General erteilte seinen Untergebenen strenge Befehle.
+
+  医者は患者の症状を見て、即座に診断を下した。
+  医者[いしゃ]は 患者[かんじゃ]の 症状[しょうじょう]を 見[み]て、即座[そくざ]に 診断[しんだん]を 下[くだ]した。
+  Der Arzt stellte nach Betrachtung der Symptome des Patienten sofort eine Diagnose.
+
+  チームは強敵を下し、決勝戦への切符を手に入れた。
+  チームは 強敵[きょうてき]を 下[くだ]し、決勝戦[けっしょうせん]への 切符[きっぷ]を 手[て]に 入[い]れた。
+  Das Team besiegte den starken Gegner und sicherte sich das Ticket für das Finale.
+
+  彼は一気に長い手紙を書き下した。
+  彼[かれ]は 一気[いっき]に 長[なが]い 手紙[てがみ]を 書[か]き 下[くだ]した。
+  Er schrieb den langen Brief in einem Zug herunter.
+
+  今日は体調が悪く、腹を下しています。
+  今日[きょう]は 体調[たいちょう]が 悪[わる]く、腹[はら]を 下[くだ]しています。
+  Heute geht es mir nicht gut, ich habe Durchfall.
+
+  囲碁の対局で、彼は慎重に石を下した。
+  囲碁[いご]の 対局[たいきょく]で、彼[かれ]は 慎重[しんちょう]に 石[いし]を 下[くだ]した。
+  Beim Go-Spiel setzte er vorsichtig seinen Stein.
+
+  上司が部下を見下すような態度は良くない。
+  上司[じょうし]が 部下[ぶか]を 見下[みくだ]すような 態度[たいど]は 良[よ]くない。
+  Es ist nicht gut, wenn Vorgesetzte eine herablassende Haltung gegenüber ihren Untergebenen einnehmen.
+
+  彼女は一晩で長編小説を読み下した。
+  彼女[かのじょ]は 一晩[ひとばん]で 長編小説[ちょうへんしょうせつ]を 読[よ]み 下[くだ]した。
+  Sie las den langen Roman in einer Nacht durch.
+
+  議会は新しい法律を制定する決議を下した。
+  議会[ぎかい]は 新[あたら]しい 法律[ほうりつ]を 制定[せいてい]する 決議[けつぎ]を 下[くだ]した。
+  Das Parlament fasste den Beschluss, ein neues Gesetz zu erlassen.
+
+  彼は慈悲深い判断を下し、罰則を軽減した。
+  彼[かれ]は 慈悲深[じひぶか]い 判断[はんだん]を 下[くだ]し、罰則[ばっそく]を 軽減[けいげん]した。
+  Er fällte ein gnädiges Urteil und milderte die Strafe.
+
+  専門家は経済状況を分析し、今後の見通しを下した。
+  専門家[せんもんか]は 経済[けいざい] 状況[じょうきょう]を 分析[ぶんせき]し、今後[こんご]の 見通[みと]しを 下[くだ]した。
+  Die Experten analysierten die wirtschaftliche Lage und gaben eine Prognose für die Zukunft ab.
+
+  審査員は慎重に検討した後、最終的な評価を下した。
+  審査員[しんさいん]は 慎重[しんちょう]に 検討[けんとう]した 後[あと]、最終的[さいしゅうてき]な 評価[ひょうか]を 下[くだ]した。
+  Nach sorgfältiger Überlegung gaben die Juroren ihre endgültige Bewertung ab.
+
+  医師は患者に虫下しの薬を処方した。
+  医師[いし]は 患者[かんじゃ]に 虫下[むしくだ]しの 薬[くすり]を 処方[しょほう]した。
+  Der Arzt verschrieb dem Patienten ein Wurmmittel.
+
+  彼は相手を見下すような態度で話をした。
+  彼[かれ]は 相手[あいて]を 見下[みくだ]すような 態度[たいど]で 話[はなし]をした。
+  Er sprach in einem herablassenden Ton mit seinem Gegenüber.
+
+  将棋の名人は冷静に次の一手を下した。
+  将棋[しょうぎ]の 名人[めいじん]は 冷静[れいせい]に 次[つぎ]の 一手[いって]を 下[くだ]した。
+  Der Shogi-Meister machte ruhig seinen nächsten Zug.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

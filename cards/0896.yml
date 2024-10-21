@@ -102,4 +102,36 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>捨[す]てる ist ein transitives Verb mit mehreren Bedeutungen:</p>
+  <ul>
+    <li>Etwas wegwerfen oder entsorgen:</li>
+    <div class="examples">
+      <div class="jp">紙屑[かみくず]を<u>捨[す]てる</u>。</div>
+      <div class="de spoiler">Papierschnitzel wegwerfen.</div>
+      <div class="jp">管理人[かんりにん]は 煙草[たばこ]を 地面[じめん]に<u>捨[す]てて</u>、靴[くつ]で 踏[ふ]み 消[け]した。</div>
+      <div class="de spoiler">Der Verwalter warf seine Kippe auf den Boden und trat sie aus.</div>
+    </div>
+    <li>Sich von etwas oder jemandem trennen, verlassen:</li>
+    <div class="examples">
+      <div class="jp">家族[かぞく]まで<u>捨[す]てて</u>、 消[き]えっちまったわけですか。</div>
+      <div class="de spoiler">Hat er wirklich sogar seine Familie verlassen und ist verschwunden?</div>
+    </div>
+    <li>Etwas aufgeben oder auf etwas verzichten:</li>
+    <div class="examples">
+      <div class="jp">今井[いまい]はまだ 疑[うたが]いを<u>捨[す]てきれない</u>といった 様子[ようす]で、 未練[みれん]たらしく 手帳[てちょう]を 眺[なが]めている。</div>
+      <div class="de spoiler">Imai schien sich immer noch nicht von seinem Verdacht lösen zu können und blickte unzufrieden auf seine Notizen.</div>
+    </div>
+    <li>Etwas sich selbst überlassen (oft in der Form 捨[す]てておく):</li>
+    <div class="examples">
+      <div class="jp"><u>捨[す]てとく</u>と、そういう 悪[わる]い 病気[びょうき]に 移行[いこう]する 危険[きけん]が、ないこともない。</div>
+      <div class="de spoiler">Wenn man es so lässt, wie es ist, ist die Gefahr nicht von der Hand zu weisen, dass es zu einer solch schlimmen Krankheit wird.</div>
+    </div>
+  </ul>
+  <p>Es gibt auch einige feste Ausdrücke mit 捨[す]てる:</p>
+  <ul>
+    <li><span class="jp">筆[ふで]を<u>捨[す]てる</u></span>: das Schreiben aufgeben</li>
+    <li><span class="jp">恥[はじ]を<u>捨[す]てる</u></span>: seine Scham ablegen</li>
+    <li><span class="jp">命[いのち]を<u>捨[す]てる</u></span>: sein Leben opfern</li>
+    <li><span class="jp"><u>捨[す]てる</u>神[かみ]あれば 拾[ひろ]う神[かみ]あり</span>: Es gibt Menschen, die einen links liegen lassen, aber auch solche, die einem helfen (wörtlich: Wo es einen Gott gibt, der wegwirft, gibt es auch einen, der aufhebt)</li>
+  </ul>

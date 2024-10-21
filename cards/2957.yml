@@ -2,24 +2,123 @@ Rang: 2957
 Lemma: 称する
 Lesung: しょうする
 Tonhöhen: ./^\.
-Definition: bezeichnen; vorgeben
+Definition: nennen, bezeichnen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 称さない・称した
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は関係者と称して、立入禁止区域に入っていった。
-  彼[かれ]は 関係者[かんけいしゃ]と 称[しょう]して、 立入禁止[たちいりきんし] 区域[くいき]に 入[はい]っていった。
-  Er gab vor, ein Mitarbeiter zu sein und gelangte in den gesperrten Bereich.
+  彼[かれ]は 関係者[かんけいしゃ]と 称[しょう]して、立入禁止[たちいりきんし] 区域[くいき]に 入[はい]っていった。
+  Er gab sich als Zuständiger aus und betrat den Sperrbereich.
+
+  彼女は自分を専門家と称しているが、本当の知識はあまりない。
+  彼女[かのじょ]は 自分[じぶん]を 専門家[せんもんか]と 称[しょう]しているが、本当[ほんとう]の 知識[ちしき]はあまりない。
+  Sie bezeichnet sich selbst als Expertin, hat aber in Wirklichkeit kaum Fachwissen.
+
+  彼は私服警察官と称する者だったが、実は詐欺師だった。
+  彼[かれ]は 私服警察官[しふくけいさつかん]と 称[しょう]する 者[もの]だったが、実[じつ]は 詐欺師[さぎし]だった。
+  Er gab sich als Zivilpolizist aus, war aber in Wirklichkeit ein Betrüger.
+
+  鈴木と称する男が事件の目撃者として名乗り出た。
+  鈴木[すずき]と 称[しょう]する 男[おとこ]が 事件[じけん]の 目撃者[もくげきしゃ]として 名乗[なの]り 出[で]た。
+  Ein Mann, der sich Suzuki nannte, meldete sich als Zeuge des Vorfalls.
+
+  この建物は歴史的建造物と称すべきであると専門家は主張している。
+  この 建物[たてもの]は 歴史的[れきしてき] 建造物[けんぞうぶつ]と 称[しょう]すべきであると 専門家[せんもんか]は 主張[しゅちょう]している。
+  Experten argumentieren, dass dieses Gebäude als historisches Bauwerk bezeichnet werden sollte.
+
+  彼は病気と称して会社を休んだが、実は旅行に行っていた。
+  彼[かれ]は 病気[びょうき]と 称[しょう]して 会社[かいしゃ]を 休[やす]んだが、実[じつ]は 旅行[りょこう]に 行[い]っていた。
+  Er blieb unter dem Vorwand einer Krankheit der Arbeit fern, war aber tatsächlich im Urlaub.
+
+  その政治家は国民の英雄と称されているが、批判的な意見も多い。
+  その 政治家[せいじか]は 国民[こくみん]の 英雄[えいゆう]と 称[しょう]されているが、批判的[ひはんてき]な 意見[いけん]も 多[おお]い。
+  Der Politiker wird als Volksheld gefeiert, aber es gibt auch viele kritische Stimmen.
+
+  彼らは新しい技術と称して古い方法を使い回しているだけだ。
+  彼[かれ]らは 新[あたら]しい 技術[ぎじゅつ]と 称[しょう]して 古[ふる]い 方法[ほうほう]を 使[つか]い 回[まわ]しているだけだ。
+  Sie behaupten, eine neue Technologie zu verwenden, recyceln aber nur alte Methoden.
+
+  この運動を称して「健康革命」と呼ぶ人もいる。
+  この 運動[うんどう]を 称[しょう]して「健康[けんこう] 革命[かくめい]」と 呼[よ]ぶ 人[ひと]もいる。
+  Manche bezeichnen diese Bewegung als "Gesundheitsrevolution".
+
+  彼女は自分の作品を芸術と称しているが、多くの批評家はそう思っていない。
+  彼女[かのじょ]は 自分[じぶん]の 作品[さくひん]を 芸術[げいじゅつ]と 称[しょう]しているが、多[おお]くの 批評家[ひひょうか]はそう 思[おも]っていない。
+  Sie bezeichnet ihre Werke als Kunst, aber viele Kritiker sehen das anders.
+
+  その商品は「奇跡の効果」と称して販売されているが、科学的根拠は乏しい。
+  その 商品[しょうひん]は「奇跡[きせき]の 効果[こうか]」と 称[しょう]して 販売[はんばい]されているが、科学的[かがくてき] 根拠[こんきょ]は 乏[とぼ]しい。
+  Das Produkt wird als "Wundermittel" vermarktet, aber es gibt wenig wissenschaftliche Beweise dafür.
+
+  彼は自分を天才と称しているが、周りの人々はそう思っていない。
+  彼[かれ]は 自分[じぶん]を 天才[てんさい]と 称[しょう]しているが、周[まわ]りの 人々[ひとびと]はそう 思[おも]っていない。
+  Er bezeichnet sich selbst als Genie, aber die Menschen um ihn herum sehen das nicht so.
+
+  その政策は「革新的」と称されているが、実際は古い考えの焼き直しに過ぎない。
+  その 政策[せいさく]は「革新的[かくしんてき]」と 称[しょう]されているが、実際[じっさい]は 古[ふる]い 考[かんが]えの 焼[や]き 直[なお]しに 過[す]ぎない。
+  Die Politik wird als "innovativ" bezeichnet, ist aber in Wirklichkeit nur eine Neuauflage alter Ideen.
+
+  彼らは訓練と称して若い兵士たちに過酷な扱いをしていた。
+  彼[かれ]らは 訓練[くんれん]と 称[しょう]して 若[わか]い 兵士[へいし]たちに 過酷[かこく]な 扱[あつか]いをしていた。
+  Unter dem Vorwand des Trainings behandelten sie die jungen Soldaten grausam.
+
+  その組織は慈善団体と称しているが、実際の活動は不透明だ。
+  その 組織[そしき]は 慈善団体[じぜんだんたい]と 称[しょう]しているが、実際[じっさい]の 活動[かつどう]は 不透明[ふとうめい]だ。
+  Die Organisation bezeichnet sich als wohltätige Einrichtung, aber ihre tatsächlichen Aktivitäten sind undurchsichtig.
+
+  彼は自分を平和主義者と称しているが、その行動は矛盾している。
+  彼[かれ]は 自分[じぶん]を 平和主義者[へいわしゅぎしゃ]と 称[しょう]しているが、その 行動[こうどう]は 矛盾[むじゅん]している。
+  Er bezeichnet sich als Pazifist, aber seine Handlungen stehen im Widerspruch dazu.
+
+  彼女は自分の料理を「創作料理」と称しているが、実際は既存のレシピの組み合わせだ。
+  彼女[かのじょ]は 自分[じぶん]の 料理[りょうり]を「創作料理[そうさくりょうり]」と 称[しょう]しているが、実際[じっさい]は 既存[きそん]のレシピの 組[く]み 合[あ]わせだ。
+  Sie bezeichnet ihre Küche als "kreative Küche", aber in Wirklichkeit ist es nur eine Kombination bestehender Rezepte.
+
+  その建物は「エコフレンドリー」と称されているが、実際の環境への影響は疑問だ。
+  その 建物[たてもの]は「エコフレンドリー」と 称[しょう]されているが、実際[じっさい]の 環境[かんきょう]への 影響[えいきょう]は 疑問[ぎもん]だ。
+  Das Gebäude wird als "umweltfreundlich" bezeichnet, aber die tatsächlichen Auswirkungen auf die Umwelt sind fragwürdig.
+
+  彼は自分を「自由思想家」と称しているが、その考えは非常に偏っている。
+  彼[かれ]は 自分[じぶん]を「自由思想家[じゆうしそうか]」と 称[しょう]しているが、その 考[かんが]えは 非常[ひじょう]に 偏[かたよ]っている。
+  Er bezeichnet sich als "Freidenker", aber seine Ideen sind sehr voreingenommen.
+
+  その製品は「革命的」と称して宣伝されているが、実際の性能は平凡だ。
+  その 製品[せいひん]は「革命的[かくめいてき]」と 称[しょう]して 宣伝[せんでん]されているが、実際[じっさい]の 性能[せいのう]は 平凡[へいぼん]だ。
+  Das Produkt wird als "revolutionär" beworben, aber seine tatsächliche Leistung ist durchschnittlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Meist in der Form ⋯と称する (... to shōsuru) verwendet.</p>
+  <p>Bedeutungen:</p>
+  <ul>
+    <li>... heißen, ... genannt werden</li>
+    <li>jemanden oder etwas als ... bezeichnen</li>
+    <li>als ... loben oder preisen</li>
+    <li>etwas mit ... angeben</li>
+    <li>(in Täuschungsabsicht) jemanden oder etwas als ... ausgeben</li>
+    <li>vorgeben, man/jemand/etwas sei ...</li>
+  </ul>
+  <p>Beispiele:</p>
+  <div class="examples">
+    <div class="jp">専門家[せんもんか]と 称[しょう]する 人[ひと]</div>
+    <div class="de spoiler">Jemand, der sich als Experte bezeichnet oder ausgibt</div>
+  </div>
+  <div class="examples">
+    <div class="jp">病気[びょうき]と 称[しょう]して 会社[かいしゃ]を 休[やす]む</div>
+    <div class="de spoiler">Unter dem Vorwand, krank zu sein, nicht zur Arbeit gehen</div>
+  </div>
+  <div class="examples">
+    <div class="jp">英雄[えいゆう]と 称[しょう]される</div>
+    <div class="de spoiler">Als Held gepriesen oder gefeiert werden</div>
+  </div>

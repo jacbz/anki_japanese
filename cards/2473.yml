@@ -22,4 +22,41 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>巡る (めぐる) ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Umrunden, kreisen, zirkulieren:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]らは 建物[たてもの]を<u>巡[めぐ]り</u>、官邸[かんてい]の 裏側[うらがわ]へ 行[い]く。</div>
+      <div class="de spoiler">Sie gingen um das Gebäude herum bis zur Rückseite der Residenz.</div>
+      <div class="jp">地球[ちきゅう]も 木星[もくせい]も 太陽[たいよう]のまわりを<u>めぐっている</u>。</div>
+      <div class="de spoiler">Sowohl die Erde als auch Jupiter kreisen um die Sonne.</div>
+    </div>
+
+    <li>Umgeben, umschließen:</li>
+    <div class="examples">
+      <div class="jp">城壁[じょうへき]の 上[うえ]へ 出[で]ると 甘州城[かんしゅうじょう]を<u>めぐる</u> 広野[こうや]が 見渡[みわた]せた。</div>
+      <div class="de spoiler">Von oben auf der Stadtmauer konnte man die weite Ebene überblicken, die Gan-zhou umgab.</div>
+    </div>
+
+    <li>Eine Rundreise machen, mehrere Orte besuchen:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]は 世界中[せかいじゅう]の 国々[くにぐに]を<u>めぐった</u>。</div>
+      <div class="de spoiler">Sie bereiste Länder auf der ganzen Welt.</div>
+    </div>
+
+    <li>Sich um etwas drehen, im Zusammenhang mit etwas stehen:</li>
+    <div class="examples">
+      <div class="jp">音楽[おんがく]の 営[いとな]みすべては 金[かね]を<u>めぐって</u> 行[おこな]われる。</div>
+      <div class="de spoiler">Der gesamte Musikbetrieb dreht sich ums Geld.</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie die häufigen Formulierungen を<u>巡[めぐ]って</u> und を<u>巡[めぐ]る</u>, die "in Bezug auf" oder "betreffend" bedeuten:</p>
+
+  <div class="examples">
+    <div class="jp">子供[こども]たちがテレビのチャンネルを<u>めぐって</u> 言[い]い 争[あらそ]っている。</div>
+    <div class="de spoiler">Die Kinder streiten sich über das Fernsehprogramm.</div>
+  </div>
+  </p>

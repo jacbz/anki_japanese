@@ -106,4 +106,67 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>通す hat mehrere Bedeutungen und Verwendungen:</p>
+
+  <ul>
+    <li>Grundbedeutung: etwas durchlassen oder hindurchführen</li>
+    <div class="examples">
+      <div class="jp">どうぞ<u>通して</u>下[くだ]さい。</div>
+      <div class="de spoiler">Lassen Sie mich bitte durch!</div>
+    </div>
+
+    <li>Etwas durch etwas anderes hindurchführen</li>
+    <div class="examples">
+      <div class="jp">雉[きじ]の 首[くび]から 肛門[こうもん]へ 枝[えだ]を<u>通して</u>。</div>
+      <div class="de spoiler">Er schob einen Zweig durch den Fasan, vom Hals bis zum Anus.</div>
+    </div>
+
+    <li>Etwas durchbohren oder durchschlagen</li>
+    <div class="examples">
+      <div class="jp">弾丸[だんがん]が 胸[むね]を<u>通した</u>。</div>
+      <div class="de spoiler">Die Kugel durchbohrte die Brust.</div>
+    </div>
+
+    <li>Jemanden eintreten lassen oder in einen Raum führen</li>
+    <div class="examples">
+      <div class="jp">私[わたし]の<u>通された</u>座敷[ざしき]は 三畳[さんじょう]の 間[ま]でした。</div>
+      <div class="de spoiler">Das Zimmer, in das ich geführt wurde, war ein Dreimattenraum.</div>
+    </div>
+
+    <li>Etwas durchsetzen oder genehmigen</li>
+    <div class="examples">
+      <div class="jp">議会[ぎかい]を<u>通さないで</u> 法[ほう]をつくることができる。</div>
+      <div class="de spoiler">Man kann Gesetze erlassen, ohne sie durch das Parlament zu bringen.</div>
+    </div>
+
+    <li>Als Hilfswort (通して) mit verschiedenen Bedeutungen:</li>
+    <ul>
+      <li>Räumlich: durch etwas hindurch</li>
+      <div class="examples">
+        <div class="jp">カーテンを<u>通して</u> 光線[こうせん]が 射[さ]しこんでくる。</div>
+        <div class="de spoiler">Das Licht dringt durch den Vorhang hindurch.</div>
+      </div>
+
+      <li>Zeitlich: die ganze Zeit hindurch, ununterbrochen</li>
+      <div class="examples">
+        <div class="jp">一生[いっしょう] 独身[どくしん]で<u>通す</u>。</div>
+        <div class="de spoiler">Ein Leben lang ledig bleiben.</div>
+      </div>
+
+      <li>Mit Hilfe von, durch (jemanden oder etwas)</li>
+      <div class="examples">
+        <div class="jp">この 文章[ぶんしょう]を<u>通して</u>その 時代[じだい]を 知[し]ることができる。</div>
+        <div class="de spoiler">Durch diesen Text kann man etwas über jene Zeit erfahren.</div>
+      </div>
+    </ul>
+
+    <li>Als Hilfsverb (in der Form -通す nach der Konjunktionalform von Verben): etwas ununterbrochen oder bis zum Ende tun</li>
+    <div class="examples">
+      <div class="jp">終夜[しゅうや] 泣[な]き<u>通す</u>。</div>
+      <div class="de spoiler">Die ganze Nacht hindurch weinen.</div>
+      <div class="jp">読[よ]み<u>通す</u>。</div>
+      <div class="de spoiler">Etwas zu Ende lesen, ganz durchlesen.</div>
+    </div>
+  </ul>
+  </p>

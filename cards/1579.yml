@@ -102,4 +102,40 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>揃[そろ]う ist ein intransitives Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Gleichmäßig oder gleich werden</li>
+    <li>Zusammenkommen, vervollständigt werden</li>
+    <li>Als Adverb: zusammen, vollständig</li>
+  </ul>
+
+  <p>Verwendung:</p>
+
+  <ol>
+    <li>Etwas wird gleichmäßig oder einheitlich:</li>
+    <div class="examples">
+      <div class="jp">髪[かみ]の 毛[け]が<u>揃[そろ]った</u>。</div>
+      <div class="de spoiler">Die Haare wurden gleichmäßig (z.B. nach einem Haarschnitt).</div>
+    </div>
+
+    <li>Dinge oder Personen kommen zusammen oder werden vervollständigt:</li>
+    <div class="examples">
+      <div class="jp">包丁[ほうちょう]は 何種類[なんしゅるい]か<u>揃[そろ]っていた</u>。</div>
+      <div class="de spoiler">Es gab ein ganzes Sortiment an Küchenmessern.</div>
+    </div>
+
+    <li>Als Adverb in der Form 揃[そろ]って, um "zusammen" oder "vollständig" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">家族[かぞく]<u>揃[そろ]って</u>旅行[りょこう]に 行[い]った。</div>
+      <div class="de spoiler">Die ganze Familie ging zusammen auf Reisen.</div>
+    </div>
+  </ol>
+
+  <p>Häufige Ausdrücke:</p>
+
+  <ul>
+    <li><span class="jp">足並[あしな]みが<u>揃[そろ]う</u></span>: übereinstimmen, einer Meinung sein</li>
+    <li><span class="jp">顔[かお]が<u>揃[そろ]う</u></span>: alle anwesend sein</li>
+  </ul>

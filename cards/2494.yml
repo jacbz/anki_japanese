@@ -22,4 +22,18 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ないし wird verwendet, um einen Bereich oder eine Alternative auszudrücken.</p>
+  <ul>
+    <li>Es kann "bis" oder "zwischen" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">3<u>ないし</u>5日</div>
+      <div class="de spoiler">3 bis 5 Tage</div>
+    </div>
+    <li>Es kann auch "oder" bzw. "beziehungsweise" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">老師[ろうし]<u>は</u>一人[ひとり]<u>ないし</u>二人[ふたり]の 侍僧[じそう]を 伴[ともな]うのが 例[れい]だ。</div>
+      <div class="de spoiler">Es war üblich, dass der Altlehrer einen oder zwei jüngere Mönche als Begleiter mitnahm.</div>
+    </div>
+  </ul>
+  <p>Beachten Sie, dass ないし oft in formellen oder schriftlichen Kontexten verwendet wird.</p>

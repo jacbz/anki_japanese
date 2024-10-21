@@ -2,7 +2,7 @@ Rang: 2148
 Lemma: 二番目
 Lesung: にばんめ
 Tonhöhen: /^^\
-Definition: zweite
+Definition: zweite(r/s)
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   大阪は日本で二番目に大きい都市です。
-  大阪[おおさか]は 日本[にっぽん]で二 番[ばん] 目[め]に 大[おお]きい 都市[とし]です。
+  大阪[おおさか]は 日本[にほん]で 二番目[にばんめ]に 大[おお]きい 都市[とし]です。
   Osaka ist die zweitgrößte Stadt Japans.
+
+  彼は家族の二番目の子供です。
+  彼[かれ]は 家族[かぞく]の 二番目[にばんめ]の 子供[こども]です。
+  Er ist das zweite Kind in seiner Familie.
+
+  前から二番目の席に座ってください。
+  前[まえ]から 二番目[にばんめ]の 席[せき]に 座[すわ]ってください。
+  Bitte setzen Sie sich auf den zweiten Platz von vorn.
+
+  このレースで彼女は二番目にゴールしました。
+  このレースで 彼女[かのじょ]は 二番目[にばんめ]にゴールしました。
+  Sie kam bei diesem Rennen als Zweite ins Ziel.
+
+  末から二番目の弟は高校生だ。
+  末[すえ]から 二番目[にばんめ]の 弟[おとうと]は 高校生[こうこうせい]だ。
+  Mein zweitjüngster Bruder ist Oberschüler.
+
+  二番目の選択肢を選んだ理由を教えてください。
+  二番目[にばんめ]の 選択肢[せんたくし]を 選[えら]んだ 理由[りゆう]を 教[おし]えてください。
+  Bitte erklären Sie mir den Grund, warum Sie die zweite Option gewählt haben.
+
+  彼女は会社で二番目に長く勤めている社員です。
+  彼女[かのじょ]は 会社[かいしゃ]で 二番目[にばんめ]に 長[なが]く 勤[つと]めている 社員[しゃいん]です。
+  Sie ist die Angestellte mit der zweitlängsten Betriebszugehörigkeit in der Firma.
+
+  二番目の章は前の章より難しいです。
+  二番目[にばんめ]の 章[しょう]は 前[まえ]の 章[しょう]より 難[むずか]しいです。
+  Das zweite Kapitel ist schwieriger als das vorherige.
+
+  売り上げで二番目に位置する商品です。
+  売[う]り 上[あ]げで 二番目[にばんめ]に 位置[いち]する 商品[しょうひん]です。
+  Dies ist das Produkt, das den zweiten Platz beim Umsatz belegt.
+
+  二番目のプレゼンテーションが一番印象的だった。
+  二番目[にばんめ]のプレゼンテーションが 一番[いちばん] 印象的[いんしょうてき]だった。
+  Die zweite Präsentation war am eindrucksvollsten.
+
+  この町で二番目に古い建物だよ。
+  この 町[まち]で 二番目[にばんめ]に 古[ふる]い 建物[たてもの]だよ。
+  Das ist das zweitälteste Gebäude in dieser Stadt.
+
+  彼は二番目の妻と幸せに暮らしている。
+  彼[かれ]は 二番目[にばんめ]の 妻[つま]と 幸[しあわ]せに 暮[く]らしている。
+  Er lebt glücklich mit seiner zweiten Frau zusammen.
+
+  二番目の問題が一番難しかったね。
+  二番目[にばんめ]の 問題[もんだい]が 一番[いちばん] 難[むずか]しかったね。
+  Die zweite Aufgabe war am schwierigsten, nicht wahr?
+
+  この計画の二番目の段階に入りました。
+  この 計画[けいかく]の 二番目[にばんめ]の 段階[だんかい]に 入[はい]りました。
+  Wir sind in die zweite Phase dieses Plans eingetreten.
+
+  二番目に大切なのは、継続することです。
+  二番目[にばんめ]に 大切[たいせつ]なのは、継続[けいぞく]することです。
+  Das Zweitwichtigste ist, durchzuhalten.
+
+  彼女は二番目の子供の名前を考えている。
+  彼女[かのじょ]は 二番目[にばんめ]の 子供[こども]の 名前[なまえ]を 考[かんが]えている。
+  Sie denkt über den Namen für ihr zweites Kind nach.
+
+  二番目のチェックポイントを通過しました。
+  二番目[にばんめ]のチェックポイントを 通過[つうか]しました。
+  Wir haben den zweiten Kontrollpunkt passiert.
+
+  このレストランは私の二番目のお気に入りだ。
+  このレストランは 私[わたし]の 二番目[にばんめ]のお 気[き]に 入[い]りだ。
+  Dieses Restaurant ist mein zweitliebstes.
+
+  彼は試験で二番目の成績を取った。
+  彼[かれ]は 試験[しけん]で 二番目[にばんめ]の 成績[せいせき]を 取[と]った。
+  Er hat bei der Prüfung das zweitbeste Ergebnis erzielt.
+
+  二番目の候補者が最終的に選ばれた。
+  二番目[にばんめ]の 候補者[こうほしゃ]が 最終的[さいしゅうてき]に 選[えら]ばれた。
+  Der zweite Kandidat wurde letztendlich ausgewählt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

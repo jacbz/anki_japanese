@@ -102,4 +102,46 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>時 wird verwendet, um verschiedene Aspekte der Zeit auszudrücken.</p>
+
+  <ul>
+    <li>Es kann einen Zeitpunkt oder eine bestimmte Zeit bezeichnen:</li>
+    <div class="examples">
+      <div class="jp">時[とき]が 経[た]つのは 早[はや]いですね。</div>
+      <div class="de spoiler">Die Zeit vergeht so schnell!</div>
+    </div>
+
+    <li>Es kann die aktuelle oder eine bestimmte Zeitperiode beschreiben:</li>
+    <div class="examples">
+      <div class="jp">時[とき]の 皇后[こうごう]</div>
+      <div class="de spoiler">Die derzeitige Kaiserin</div>
+    </div>
+
+    <li>Es kann den richtigen oder passenden Zeitpunkt für etwas ausdrücken:</li>
+    <div class="examples">
+      <div class="jp">出発[しゅっぱつ]の<u>時</u>が 迫[せま]ると</div>
+      <div class="de spoiler">Als sich der Zeitpunkt des Aufbruchs näherte</div>
+    </div>
+
+    <li>Es kann eine bestimmte Lebensphase oder Jahreszeit bezeichnen:</li>
+    <div class="examples">
+      <div class="jp">小[ちい]さい<u>時</u>から、朝[あさ]ごはんがおいしくなく</div>
+      <div class="de spoiler">Von klein auf hat mir das Frühstück nie recht geschmeckt</div>
+    </div>
+
+    <li>Es kann eine Situation oder einen bestimmten Fall beschreiben und wird oft mit に oder は verwendet, um "wenn", "als" oder "falls" auszudrücken:</li>
+    <div class="examples">
+      <div class="jp">その<u>時</u>、プラタナスの 植[う]え 込[こ]みの 陰[かげ]に 一人[ひとり]の 男[おとこ]が 立[た]っているのに 気付[きづ]いた。</div>
+      <div class="de spoiler">In dem Moment bemerkte sie einen Mann, der im Schatten der Platanenpflanzung stand.</div>
+    </div>
+  </ul>
+
+  <p>Einige gängige Ausdrücke mit 時:</p>
+  <ul>
+    <li><span class="jp">時[とき]が 解決[かいけつ]する</span>: Die Zeit wird es richten.</li>
+    <li><span class="jp">時[とき]を 稼[かせ]ぐ</span>: Zeit gewinnen</li>
+    <li><span class="jp">時[とき]を 見[み]る</span>: Auf eine günstige Gelegenheit warten</li>
+    <li><span class="jp">時[とき]は 金[かね]なり</span>: Zeit ist Geld</li>
+  </ul>
+  </p>

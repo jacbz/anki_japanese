@@ -102,4 +102,39 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>できる ist ein wichtiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Es drückt eine Fähigkeit aus - etwas können oder in der Lage sein, etwas zu tun:</li>
+    <div class="examples">
+      <div class="jp">一人[ひとり]で 乗[の]り 換[か]えが 自由[じゆう]に<u>できない</u></div>
+      <div class="de spoiler">Ich kann nicht selbstständig umsteigen</div>
+      <div class="jp">顔[かお]を 洗[あら]うことも<u>できない</u></div>
+      <div class="de spoiler">Ich kann mich nicht waschen</div>
+    </div>
+
+    <li>Es beschreibt die Beherrschung einer Fähigkeit oder Expertise:</li>
+    <div class="examples">
+      <div class="jp">ほんものの 数学者[すうがくしゃ]は 計算[けいさん]が<u>できない</u></div>
+      <div class="de spoiler">Echte Mathematiker können nicht rechnen</div>
+    </div>
+
+    <li>Es bedeutet "entstehen" oder "sich bilden":</li>
+    <div class="examples">
+      <div class="jp">目[め]の 下[した]にはくまが<u>できた</u></div>
+      <div class="de spoiler">Unter den Augen bildeten sich dunkle Ringe</div>
+    </div>
+
+    <li>Es bedeutet "fertig werden" oder "abgeschlossen werden":</li>
+    <div class="examples">
+      <div class="jp">やっと 準備[じゅんび]が<u>できた</u></div>
+      <div class="de spoiler">Endlich waren die Vorbereitungen fertig</div>
+    </div>
+
+    <li>In der Umgangssprache kann es auch bedeuten "Beziehungen knüpfen":</li>
+    <div class="examples">
+      <div class="jp">友達[ともだち]<u>できた</u>？</div>
+      <div class="de spoiler">Hast du schon Freunde gefunden?</div>
+    </div>
+  </ul>

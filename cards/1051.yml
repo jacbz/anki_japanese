@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML grammar note for 利く:
+
+  <p>利く (きく) ist ein vielseitiges Verb mit mehreren Bedeutungen:</p>
+
+  <ul>
+    <li>Gut funktionieren (auch für Körperteile)</li>
+    <div class="examples">
+      <div class="jp">蛇口[じゃぐち]もちゃんと<u>利[き]く</u>し、水[みず]に 不自由[ふじゆう]はしないよ。</div>
+      <div class="de spoiler">Der Wasserhahn funktioniert auch gut, also haben wir genug Wasser.</div>
+    </div>
+
+    <li>Möglich sein; können</li>
+    <div class="examples">
+      <div class="jp">もう 後戻[あともど]りは<u>きかない</u>んだ。</div>
+      <div class="de spoiler">Es gibt kein Zurück mehr.</div>
+    </div>
+
+    <li>Wirken, eine Wirkung haben/zeigen</li>
+    <div class="examples">
+      <div class="jp">いくら 功能[こうのう]のある 薬[くすり]でも<u>利[き]く</u> 気遣[きづか]いはありません。</div>
+      <div class="de spoiler">Selbst die wirksamste Medizin kann nicht wirken.</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie auch diese verwandten Ausdrücke:</p>
+
+  <ul>
+    <li><span class="jp">口[くち]を<u>利[き]く</u></span>: sprechen, reden</li>
+    <li><span class="jp">気[き]が<u>利[き]く</u></span>: aufmerksam, rücksichtsvoll sein</li>
+  </ul>
+
+  <p>Das Verb konjugiert unregelmäßig:</p>
+  <ul>
+    <li>Verneinung: <span class="jp"><u>きかない</u></span></li>
+    <li>Vergangenheit: <span class="jp"><u>きいた</u></span></li>
+  </ul>
+
+  </p>

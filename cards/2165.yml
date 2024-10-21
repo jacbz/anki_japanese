@@ -2,13 +2,13 @@ Rang: 2165
 Lemma: 敷く
 Lesung: しく
 Tonhöhen: /^
-Definition: auslegen, legen
-Alternativschreibweisen: ''
+Definition: (aus)legen; verlegen; streuen
+Alternativschreibweisen: 布く
 Extra: '' # Nur bei suru-Verben
 Wortart: vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 敷かない・敷いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,86 @@ Beispielsätze: |-
   床にカーペットを敷いた。
   床[ゆか]にカーペットを 敷[し]いた。
   Ich habe einen Teppich auf den Boden gelegt.
+
+  ピクニックのためにシートを芝生に敷きましょう。
+  ピクニックのためにシートを 芝生[しばふ]に 敷[し]きましょう。
+  Lass uns für das Picknick eine Decke auf dem Rasen ausbreiten.
+
+  寝室の床に畳を敷いています。
+  寝室[しんしつ]の 床[ゆか]に 畳[たたみ]を 敷[し]いています。
+  Im Schlafzimmer haben wir Tatami-Matten auf dem Boden verlegt.
+
+  新しい家の屋根に瓦を敷く予定です。
+  新[あたら]しい 家[いえ]の 屋根[やね]に 瓦[かわら]を 敷[し]く 予定[よてい]です。
+  Wir planen, das Dach unseres neuen Hauses mit Ziegeln zu decken.
+
+  ケーキの型に紙を敷いてから生地を入れます。
+  ケーキの 型[かた]に 紙[かみ]を 敷[し]いてから 生地[きじ]を 入[い]れます。
+  Ich lege Backpapier in die Kuchenform, bevor ich den Teig hineingebe.
+
+  座布団の下に新聞紙を敷いて座ります。
+  座布団[ざぶとん]の 下[した]に 新聞紙[しんぶんし]を 敷[し]いて 座[すわ]ります。
+  Ich lege eine Zeitung unter das Sitzkissen und setze mich darauf.
+
+  冬は床に電気カーペットを敷くと暖かいです。
+  冬[ふゆ]は 床[ゆか]に 電気[でんき]カーペットを 敷[し]くと 暖[あたた]かいです。
+  Im Winter ist es warm, wenn man einen elektrischen Teppich auf den Boden legt.
+
+  庭に砂利を敷いて、歩きやすくしました。
+  庭[にわ]に 砂利[じゃり]を 敷[し]いて、歩[ある]きやすくしました。
+  Ich habe Kies im Garten verteilt, um ihn begehbarer zu machen.
+
+  テラスにタイルを敷くのは難しい作業だった。
+  テラスにタイルを 敷[し]くのは 難[むずか]しい 作業[さぎょう]だった。
+  Es war eine schwierige Arbeit, Fliesen auf der Terrasse zu verlegen.
+
+  駅のホームに点字ブロックを敷いています。
+  駅[えき]のホームに 点字[てんじ]ブロックを 敷[し]いています。
+  Auf dem Bahnsteig werden taktile Bodenplatten für Sehbehinderte verlegt.
+
+  公園の遊歩道に木のチップを敷きました。
+  公園[こうえん]の 遊歩道[ゆうほどう]に 木[き]のチップを 敷[し]きました。
+  Wir haben Holzschnitzel auf den Spazierwegen im Park ausgestreut.
+
+  古い絨毯の上に新しい絨毯を敷いて、部屋の雰囲気を変えました。
+  古[ふる]い 絨毯[じゅうたん]の 上[うえ]に 新[あたら]しい 絨毯[じゅうたん]を 敷[し]いて、部屋[へや]の 雰囲気[ふんいき]を 変[か]えました。
+  Ich habe einen neuen Teppich über den alten gelegt, um die Atmosphäre des Zimmers zu verändern.
+
+  展示会場の床に赤いカーペットを敷いて、華やかな雰囲気を演出しました。
+  展示会場[てんじかいじょう]の 床[ゆか]に 赤[あか]いカーペットを 敷[し]いて、華[はな]やかな 雰囲気[ふんいき]を 演出[えんしゅつ]しました。
+  Wir haben einen roten Teppich auf dem Boden des Ausstellungsraums ausgelegt, um eine festliche Atmosphäre zu schaffen.
+
+  新しい鉄道路線を敷くプロジェクトが始まりました。
+  新[あたら]しい 鉄道路線[てつどうろせん]を 敷[し]くプロジェクトが 始[はじ]まりました。
+  Ein Projekt zum Bau einer neuen Eisenbahnlinie hat begonnen.
+
+  政府は新しい経済政策を敷いて、景気回復を目指しています。
+  政府[せいふ]は 新[あたら]しい 経済政策[けいざいせいさく]を 敷[し]いて、景気回復[けいきかいふく]を 目指[めざ]しています。
+  Die Regierung hat eine neue Wirtschaftspolitik eingeführt, um die wirtschaftliche Erholung anzustreben.
+
+  犯罪防止のため、街中に監視カメラを敷き詰めています。
+  犯罪防止[はんざいぼうし]のため、街中[まちじゅう]に 監視[かんし]カメラを 敷[し]き 詰[つ]めています。
+  Zur Verbrechensprävention werden in der ganzen Stadt Überwachungskameras installiert.
+
+  ホテルの部屋に毛布を敷いて寝ました。
+  ホテルの 部屋[へや]に 毛布[もうふ]を 敷[し]いて 寝[ね]ました。
+  Ich habe eine Decke auf dem Boden des Hotelzimmers ausgebreitet und darauf geschlafen.
+
+  軍隊は山の麓に陣を敷いて、敵の動きを警戒していた。
+  軍隊[ぐんたい]は 山[やま]の 麓[ふもと]に 陣[じん]を 敷[し]いて、敵[てき]の 動[うご]きを 警戒[けいかい]していた。
+  Die Armee hatte am Fuße des Berges ein Lager aufgeschlagen und beobachtete die Bewegungen des Feindes.
+
+  新しいガス管を敷くため、道路を掘り返しています。
+  新[あたら]しいガス 管[かん]を 敷[し]くため、道路[どうろ]を 掘[ほ]り 返[かえ]しています。
+  Die Straße wird aufgegraben, um neue Gasleitungen zu verlegen.
+
+  子供たちは体育館の床にマットを敷いて、体操の練習をしていた。
+  子供[こども]たちは 体育館[たいいくかん]の 床[ゆか]にマットを 敷[し]いて、体操[たいそう]の 練習[れんしゅう]をしていた。
+  Die Kinder legten Matten auf den Boden der Turnhalle und übten Gymnastik.
+
+  会社は従業員の健康管理のため、新しい制度を敷きました。
+  会社[かいしゃ]は 従業員[じゅうぎょういん]の 健康管理[けんこうかんり]のため、新[あたら]しい 制度[せいど]を 敷[し]きました。
+  Das Unternehmen hat ein neues System zur Gesundheitsvorsorge für seine Mitarbeiter eingeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

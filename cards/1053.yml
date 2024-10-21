@@ -102,4 +102,42 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>吸[す]う wird verwendet, um verschiedene Arten des Einziehens oder Aufnehmens auszudrücken.</p>
+  <ul>
+    <li>Es bedeutet grundsätzlich, etwas durch Nase oder Mund aufzunehmen:</li>
+    <div class="examples">
+      <div class="jp">煙[けむり]を 鼻[はな]から 深々[ふかぶか]と<u>吸[す]った</u>。</div>
+      <div class="de spoiler">Er atmete den Rauch tief durch die Nase ein.</div>
+    </div>
+    <li>Es wird oft für "rauchen" verwendet:</li>
+    <div class="examples">
+      <div class="jp">煙草[たばこ]を 一本[いっぽん]<u>吸[す]って</u>あくびをした。</div>
+      <div class="de spoiler">Ich rauchte eine Zigarette und gähnte.</div>
+    </div>
+    <li>Es kann auch "inhalieren" oder "schnüffeln" bedeuten:</li>
+    <div class="examples">
+      <div class="jp">シンナーを<u>吸[す]った</u>りした。</div>
+      <div class="de spoiler">Sie schnüffelten Farbverdünner.</div>
+    </div>
+    <li>Für Babys wird es im Sinne von "saugen" verwendet:</li>
+    <div class="examples">
+      <div class="jp">ミルクを<u>吸[す]う</u> 力[ちから]が 無[な]いので...</div>
+      <div class="de spoiler">Da ihm die Kraft zum Saugen fehlte...</div>
+    </div>
+  </ul>
+  <p>Es kann auch "aufsaugen" oder "anziehen" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">海綿[かいめん]のように 水[みず]を<u>吸[す]う</u>。</div>
+    <div class="de spoiler">Wie ein Schwamm, der sich mit Wasser vollsaugt.</div>
+    <div class="jp">埃[ほこり]を<u>吸[す]って</u>...</div>
+    <div class="de spoiler">Staub anziehen...</div>
+  </div>
+  <p>In der Kombination <span class="jp">空気[くうき]を<u>吸[す]う</u></span> bedeutet es "Luft einatmen", kann aber auch im übertragenen Sinne "erleben" bedeuten:</p>
+  <div class="examples">
+    <div class="jp">山[やま]の 空気[くうき]を<u>吸[す]う</u>。</div>
+    <div class="de spoiler">Die Bergluft einatmen.</div>
+    <div class="jp">都会[とかい]の 空気[くうき]を<u>吸[す]う</u>。</div>
+    <div class="de spoiler">Stadtluft atmen (das Stadtleben erfahren).</div>
+  </div>
+  </p>

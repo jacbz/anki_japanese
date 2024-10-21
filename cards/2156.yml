@@ -2,7 +2,7 @@ Rang: 2156
 Lemma: 江戸
 Lesung: えど
 Tonhöhen: /^
-Definition: Edo
+Definition: '[früherer Name von Tokyo]'
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: n
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   東京は昔、江戸と呼ばれていた。
-  東京[とうきょう]は 昔[むかし]、 江戸[えど]と 呼[よ]ばれていた。
-  In der Vergangenheit hieß Tokio Edo.
+  東京[とうきょう]は 昔[むかし]、江戸[えど]と 呼[よ]ばれていた。
+  Tokio wurde früher Edo genannt.
+
+  江戸時代は1603年から1867年まで続いた。
+  江戸時代[えどじだい]は1603年[ねん]から1867年[ねん]まで 続[つづ]いた。
+  Die Edo-Zeit dauerte von 1603 bis 1867.
+
+  江戸幕府は日本を約250年間統治した。
+  江戸幕府[えどばくふ]は 日本[にほん]を 約[やく]250年間[ねんかん] 統治[とうち]した。
+  Das Edo-Shogunat regierte Japan etwa 250 Jahre lang.
+
+  江戸城は現在の皇居の場所にあった。
+  江戸城[えどじょう]は 現在[げんざい]の 皇居[こうきょ]の 場所[ばしょ]にあった。
+  Die Burg Edo befand sich an der Stelle des heutigen Kaiserpalasts.
+
+  彼女は江戸弁を流暢に話す。
+  彼女[かのじょ]は 江戸弁[えどべん]を 流暢[りゅうちょう]に 話[はな]す。
+  Sie spricht fließend den Edo-Dialekt.
+
+  江戸文学は庶民の生活を描いた作品が多い。
+  江戸文学[えどぶんがく]は 庶民[しょみん]の 生活[せいかつ]を 描[えが]いた 作品[さくひん]が 多[おお]い。
+  In der Edo-Literatur gibt es viele Werke, die das Leben der einfachen Leute beschreiben.
+
+  江戸の町人文化は現代の日本文化にも影響を与えている。
+  江戸[えど]の 町人文化[ちょうにんぶんか]は 現代[げんだい]の 日本文化[にほんぶんか]にも 影響[えいきょう]を 与[あた]えている。
+  Die Kultur der Stadtbewohner von Edo beeinflusst auch die moderne japanische Kultur.
+
+  江戸時代の浮世絵は世界中で人気がある。
+  江戸時代[えどじだい]の 浮世絵[うきよえ]は 世界中[せかいじゅう]で 人気[にんき]がある。
+  Ukiyo-e-Drucke aus der Edo-Zeit sind weltweit beliebt.
+
+  江戸の職人技術は今でも高く評価されている。
+  江戸[えど]の 職人技術[しょくにんぎじゅつ]は 今[いま]でも 高[たか]く 評価[ひょうか]されている。
+  Die handwerklichen Techniken aus der Edo-Zeit werden auch heute noch hoch geschätzt.
+
+  江戸の名残は東京の町並みにまだ残っている。
+  江戸[えど]の 名残[なごり]は 東京[とうきょう]の 町並[まちな]みにまだ 残[のこ]っている。
+  Spuren von Edo sind noch im Stadtbild von Tokio zu finden.
+
+  江戸の食文化は現代の和食の基礎となっている。
+  江戸[えど]の 食文化[しょくぶんか]は 現代[げんだい]の 和食[わしょく]の 基礎[きそ]となっている。
+  Die Esskultur von Edo bildet die Grundlage für die moderne japanische Küche.
+
+  江戸っ子は粋な人々として知られていた。
+  江戸[えど]っ子は 粋[いき]な 人々[ひとびと]として 知[し]られていた。
+  Die Edo-Leute waren für ihre Eleganz bekannt.
+
+  江戸の敵を長崎で討つという言葉がある。
+  江戸[えど]の 敵[かたき]を 長崎[ながさき]で 討[う]つという 言葉[ことば]がある。
+  Es gibt den Ausdruck "Sich an einem Feind aus Edo in Nagasaki rächen".
+
+  江戸時代の教育制度は寺子屋が中心だった。
+  江戸時代[えどじだい]の 教育制度[きょういくせいど]は 寺子屋[てらこや]が 中心[ちゅうしん]だった。
+  Das Bildungssystem der Edo-Zeit basierte hauptsächlich auf den Tempel-Schulen.
+
+  江戸の町は火事が多く、「火事と喧嘩は江戸の華」と言われた。
+  江戸[えど]の 町[まち]は 火事[かじ]が 多[おお]く、「火事[かじ]と 喧嘩[けんか]は 江戸[えど]の 華[はな]」と 言[い]われた。
+  In der Stadt Edo gab es viele Brände, und man sagte: "Feuer und Streit sind die Blüten Edos".
+
+  江戸時代の終わりは明治維新の始まりだった。
+  江戸時代[えどじだい]の 終[お]わりは 明治維新[めいじいしん]の 始[はじ]まりだった。
+  Das Ende der Edo-Zeit markierte den Beginn der Meiji-Restauration.
+
+  江戸の町人は独特の文化を育んだ。
+  江戸[えど]の 町人[ちょうにん]は 独特[どくとく]の 文化[ぶんか]を 育[はぐく]んだ。
+  Die Stadtbewohner von Edo entwickelten eine einzigartige Kultur.
+
+  江戸時代の武士は厳格な倫理規範を持っていた。
+  江戸時代[えどじだい]の 武士[ぶし]は 厳格[げんかく]な 倫理規範[りんりきはん]を 持[も]っていた。
+  Die Samurai der Edo-Zeit hatten einen strengen ethischen Kodex.
+
+  江戸の地名は現代の東京にも残っている。
+  江戸[えど]の 地名[ちめい]は 現代[げんだい]の 東京[とうきょう]にも 残[のこ]っている。
+  Ortsnamen aus der Edo-Zeit finden sich auch im heutigen Tokio.
+
+  江戸時代の鎖国政策は日本の文化に大きな影響を与えた。
+  江戸時代[えどじだい]の 鎖国政策[さこくせいさく]は 日本[にほん]の 文化[ぶんか]に 大[おお]きな 影響[えいきょう]を 与[あた]えた。
+  Die Isolationspolitik der Edo-Zeit hatte einen großen Einfluss auf die japanische Kultur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

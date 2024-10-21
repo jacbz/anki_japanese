@@ -2,10 +2,10 @@ Rang: 2102
 Lemma: 不可能
 Lesung: ふかのう
 Tonhöhen: (/)\..
-Definition: unmöglich; Unmöglichkeit
+Definition: unmöglich
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj, n
+Wortart: n, na-adj, no-adj
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -14,8 +14,84 @@ Konjugation: ''
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   アイディアはすばらしいが、不可能だ。
-  アイディアはすばらしいが、 不可能[ふかのう]だ。
-  Die Idee ist wunderbar, aber es ist unmöglich.
+  アイディアはすばらしいが、不可能[ふかのう]だ。
+  Die Idee ist großartig, aber unmöglich.
+
+  この計画は時間的に不可能です。
+  この 計画[けいかく]は 時間的[じかんてき]に 不可能[ふかのう]です。
+  Dieser Plan ist zeitlich unmöglich.
+
+  不可能なことを要求しないでください。
+  不可能[ふかのう]なことを 要求[ようきゅう]しないでください。
+  Bitte verlangen Sie nichts Unmögliches.
+
+  彼の要求は不可能に近い。
+  彼[かれ]の 要求[ようきゅう]は 不可能[ふかのう]に 近[ちか]い。
+  Seine Forderung grenzt an das Unmögliche.
+
+  一人で死体を処分することなんて不可能に近いし、仮にやったとしても恐ろしく時間がかかったでしょう。
+  一人[ひとり]で 死体[したい]を 処分[しょぶん]することなんて 不可能[ふかのう]に 近[ちか]いし、仮[かり]にやったとしても 恐[おそ]ろしく 時間[じかん]がかかったでしょう。
+  Es ist fast unmöglich, eine Leiche alleine zu beseitigen, und selbst wenn man es versuchen würde, würde es schrecklich viel Zeit kosten.
+
+  不可能を可能にするのが私たちの仕事だ。
+  不可能[ふかのう]を 可能[かのう]にするのが 私[わたし]たちの 仕事[しごと]だ。
+  Es ist unsere Aufgabe, das Unmögliche möglich zu machen.
+
+  この状況では成功は不可能だ。
+  この 状況[じょうきょう]では 成功[せいこう]は 不可能[ふかのう]だ。
+  In dieser Situation ist Erfolg unmöglich.
+
+  技術の進歩により、以前は不可能だったことが可能になった。
+  技術[ぎじゅつ]の 進歩[しんぽ]により、以前[いぜん]は 不可能[ふかのう]だったことが 可能[かのう]になった。
+  Durch den technologischen Fortschritt ist das, was früher unmöglich war, möglich geworden.
+
+  不可能な夢を追い続けるのは時間の無駄だ。
+  不可能[ふかのう]な 夢[ゆめ]を 追[お]い 続[つづ]けるのは 時間[じかん]の 無駄[むだ]だ。
+  Es ist Zeitverschwendung, unmöglichen Träumen nachzujagen.
+
+  人間から一秒だって時間を取ることは不可能になった。
+  人間[にんげん]から一秒[いちびょう]だって 時間[じかん]を 取[と]ることは 不可能[ふかのう]になった。
+  Es ist unmöglich geworden, einem Menschen auch nur eine Sekunde Zeit zu nehmen.
+
+  不可能な目標を立てるより、現実的な目標を設定しよう。
+  不可能[ふかのう]な 目標[もくひょう]を 立[た]てるより、現実的[げんじつてき]な 目標[もくひょう]を 設定[せってい]しよう。
+  Lass uns lieber realistische Ziele setzen, anstatt unmögliche Ziele zu stecken.
+
+  この問題の解決は不可能に思えるが、諦めてはいけない。
+  この 問題[もんだい]の 解決[かいけつ]は 不可能[ふかのう]に 思[おも]えるが、諦[あきら]めてはいけない。
+  Die Lösung dieses Problems mag unmöglich erscheinen, aber wir dürfen nicht aufgeben.
+
+  不可能なことを可能にするには、創造力と努力が必要だ。
+  不可能[ふかのう]なことを 可能[かのう]にするには、創造力[そうぞうりょく]と 努力[どりょく]が 必要[ひつよう]だ。
+  Um das Unmögliche möglich zu machen, braucht es Kreativität und Anstrengung.
+
+  その要求は不可能であり、再検討する必要がある。
+  その 要求[ようきゅう]は 不可能[ふかのう]であり、再検討[さいけんとう]する 必要[ひつよう]がある。
+  Diese Forderung ist unmöglich und muss überdacht werden.
+
+  不可能な計画を立てても、時間の無駄になるだけだ。
+  不可能[ふかのう]な 計画[けいかく]を 立[た]てても、時間[じかん]の 無駄[むだ]になるだけだ。
+  Es ist nur Zeitverschwendung, unmögliche Pläne zu machen.
+
+  科学者たちは不可能を可能にする研究を続けている。
+  科学者[かがくしゃ]たちは 不可能[ふかのう]を 可能[かのう]にする 研究[けんきゅう]を 続[つづ]けている。
+  Die Wissenschaftler setzen ihre Forschung fort, um das Unmögliche möglich zu machen.
+
+  不可能な要求をするな。もっと現実的になれ。
+  不可能[ふかのう]な 要求[ようきゅう]をするな。もっと 現実的[げんじつてき]になれ。
+  Stelle keine unmöglichen Forderungen. Sei realistischer.
+
+  これ以上の説明は不可能であります。
+  これ 以上[いじょう]の 説明[せつめい]は 不可能[ふかのう]であります。
+  Weitere Erklärungen sind mir unmöglich.
+
+  不可能を可能にするのが、イノベーションの本質だ。
+  不可能[ふかのう]を 可能[かのう]にするのが、イノベーションの 本質[ほんしつ]だ。
+  Das Wesen der Innovation besteht darin, das Unmögliche möglich zu machen.
+
+  不可能なことに挑戦するのは、人間の本能だ。
+  不可能[ふかのう]なことに 挑戦[ちょうせん]するのは、人間[にんげん]の 本能[ほんのう]だ。
+  Es liegt in der menschlichen Natur, das Unmögliche zu wagen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

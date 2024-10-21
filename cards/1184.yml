@@ -98,4 +98,57 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  Here is the HTML-formatted grammar note for 伸びる:
+
+  <p>伸[の]びる ist ein transitives Verb, das verschiedene Bedeutungen hat:</p>
+
+  <ul>
+    <li>Wachsen, länger oder größer werden:</li>
+    <div class="examples">
+      <div class="jp">芋畑[いもばたけ]には芋[いも]がたくさん<u>伸[の]び</u>る。</div>
+      <div class="de spoiler">Auf den Feldern wachsen viele Jamswurzeln.</div>
+    </div>
+
+    <li>Sich strecken, ausdehnen oder entfalten:</li>
+    <div class="examples">
+      <div class="jp">彼女[かのじょ]は背筋[せすじ]も<u>伸[の]び</u>ている。</div>
+      <div class="de spoiler">Sie hat einen gestreckten Rücken.</div>
+    </div>
+
+    <li>Sich entwickeln, Fortschritte machen:</li>
+    <div class="examples">
+      <div class="jp">仕事[しごと]が順調[じゅんちょう]に<u>伸[の]び</u>ている。</div>
+      <div class="de spoiler">Die Arbeit entwickelt sich gut.</div>
+    </div>
+
+    <li>Sich erstrecken, hinziehen:</li>
+    <div class="examples">
+      <div class="jp">駅[えき]の 前[まえ]を 国道[こくどう]が 一本[いっぽん]、まっすぐに<u>伸[の]び</u>ている。</div>
+      <div class="de spoiler">Vor dem Bahnhof zieht sich eine Fernverkehrsstraße schnurgerade hin.</div>
+    </div>
+
+    <li>Weich oder schlaff werden:</li>
+    <div class="examples">
+      <div class="jp">古[ふる]いゴムは<u>伸[の]び</u>てしまった。</div>
+      <div class="de spoiler">Das alte Gummi ist ausgeleiert.</div>
+    </div>
+
+    <li>Erschöpft sein, keine Kraft mehr haben:</li>
+    <div class="examples">
+      <div class="jp">長い 会議[かいぎ]で<u>伸[の]び</u>てしまった。</div>
+      <div class="de spoiler">Nach der langen Besprechung bin ich völlig erschöpft.</div>
+    </div>
+  </ul>
+
+  <p>Die Variante 延[の]びる wird oft im Zusammenhang mit Zeit verwendet:</p>
+
+  <ul>
+    <li>Sich verlängern, sich verzögern:</li>
+    <div class="examples">
+      <div class="jp">結婚[けっこん]が<u>延[の]び</u>て、双方[そうほう] 困[こま]るだろう。</div>
+      <div class="de spoiler">Wenn sich die Hochzeit verschiebt, wird das für beide Seiten Schwierigkeiten bringen.</div>
+    </div>
+  </ul>
+
+  </p>

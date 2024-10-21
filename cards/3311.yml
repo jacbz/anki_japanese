@@ -2,24 +2,123 @@ Rang: 3311
 Lemma: 空く
 Lesung: すく
 Tonhöhen: /^
-Definition: leer werden
+Definition: leer werden; frei sein
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 空かない・空いた
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   お腹が空いた。
-  お 腹[なか]が 空[あ]いた。
+  お腹[なか]が 空[す]いた。
   Ich habe Hunger.
+
+  電車が空いているので、ゆっくり座れます。
+  電車[でんしゃ]が 空[す]いているので、ゆっくり 座[すわ]れます。
+  Da die Bahn leer ist, kann ich gemütlich sitzen.
+
+  道が空いているから、早く着けそうです。
+  道[みち]が 空[す]いているから、早[はや]く 着[つ]けそうです。
+  Da die Straße frei ist, werden wir wohl früh ankommen.
+
+  小腹が空いたので、軽く何か食べましょう。
+  小腹[こばら]が 空[す]いたので、軽[かる]く 何[なに]か 食[た]べましょう。
+  Ich habe ein bisschen Hunger, lass uns etwas Leichtes essen.
+
+  胸が空いて、やっと落ち着きました。
+  胸[むね]が 空[す]いて、やっと 落[お]ち 着[つ]きました。
+  Ich fühle mich erleichtert und habe mich endlich beruhigt.
+
+  手が空いたら、掃除を手伝ってくれませんか。
+  手[て]が 空[す]いたら、掃除[そうじ]を 手伝[てつだ]ってくれませんか。
+  Könntest du mir beim Putzen helfen, wenn du Zeit hast?
+
+  体が空いたら、映画を見に行きましょう。
+  体[からだ]が 空[す]いたら、映画[えいが]を 見[み]に 行[い]きましょう。
+  Lass uns ins Kino gehen, wenn wir frei haben.
+
+  がらがらに空いた道路を走るのは気持ちがいいです。
+  がらがらに 空[す]いた 道路[どうろ]を 走[はし]るのは 気持[きも]ちがいいです。
+  Es fühlt sich gut an, auf einer gähnend leeren Straße zu fahren.
+
+  腹が空いていると、集中できません。
+  腹[はら]が 空[す]いていると、集中[しゅうちゅう]できません。
+  Wenn ich Hunger habe, kann ich mich nicht konzentrieren.
+
+  新青梅街道が空いていたので、順調に進めました。
+  新青梅[しんおうめ]街道[かいどう]が 空[す]いていたので、順調[じゅんちょう]に 進[すす]めました。
+  Da der Shin-Oume-Highway frei war, kamen wir gut voran.
+
+  手が空いたので、この間に食事します。
+  手[て]が 空[す]いたので、この 間[あいだ]に 食事[しょくじ]します。
+  Ich habe jetzt Zeit, also esse ich in der Zwischenzeit etwas.
+
+  お腹が空いているので、何か軽食を買ってきます。
+  お腹[なか]が 空[す]いているので、何[なに]か 軽食[けいしょく]を 買[か]ってきます。
+  Ich habe Hunger, also kaufe ich mir einen kleinen Snack.
+
+  電車が空いている時間帯を狙って通勤しています。
+  電車[でんしゃ]が 空[す]いている 時間帯[じかんたい]を 狙[ねら]って 通勤[つうきん]しています。
+  Ich pendle gezielt zu Zeiten, in denen die Bahnen weniger voll sind.
+
+  胸が空いて、重荷から解放された気分です。
+  胸[むね]が 空[す]いて、重荷[おもに]から 解放[かいほう]された 気分[きぶん]です。
+  Ich fühle mich erleichtert, als wäre eine Last von mir abgefallen.
+
+  体が空いたら、運動をしたいと思います。
+  体[からだ]が 空[す]いたら、運動[うんどう]をしたいと 思[おも]います。
+  Wenn ich frei habe, möchte ich Sport treiben.
+
+  道が空いているうちに、早めに出発しましょう。
+  道[みち]が 空[す]いているうちに、早[はや]めに 出発[しゅっぱつ]しましょう。
+  Lass uns früh aufbrechen, solange die Straßen noch frei sind.
+
+  お腹が空いて仕方がないので、何か食べに行きませんか。
+  お腹[なか]が 空[す]いて 仕方[しかた]がないので、何[なに]か 食[た]べに 行[い]きませんか。
+  Ich habe so großen Hunger, wollen wir nicht etwas essen gehen?
+
+  手が空いた時に、植物に水をあげてください。
+  手[て]が 空[す]いた 時[とき]に、植物[しょくぶつ]に 水[みず]をあげてください。
+  Bitte gieße die Pflanzen, wenn du Zeit hast.
+
+  電車が空いているので、ゆっくり本が読めそうです。
+  電車[でんしゃ]が 空[す]いているので、ゆっくり 本[ほん]が 読[よ]めそうです。
+  Da die Bahn leer ist, kann ich wohl in Ruhe ein Buch lesen.
+
+  小腹が空いたので、果物を食べることにしました。
+  小腹[こばら]が 空[す]いたので、果物[くだもの]を 食[た]べることにしました。
+  Ich habe leichten Hunger, also habe ich mich entschieden, Obst zu essen.
+
+  胸が空いて、やっと安心できました。
+  胸[むね]が 空[す]いて、やっと 安心[あんしん]できました。
+  Ich fühle mich erleichtert und kann endlich aufatmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 空く (すく) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Leer werden, sich leeren:<div class="examples">
+        <div class="jp">電車[でんしゃ]が 空[す]いている。</div>
+        <div class="de spoiler">Die Bahn ist leer (nicht voll).</div>
+      </div>
+    </li>
+    <li>Sich befreit oder erleichtert fühlen:<div class="examples">
+        <div class="jp">胸[むね]が 空[す]いた。</div>
+        <div class="de spoiler">Ich fühlte mich erleichtert.</div>
+      </div>
+    </li>
+    <li>Frei sein, Zeit haben (in der Form 手が空く oder 体が空く):<div class="examples">
+        <div class="jp">手[て]が 空[す]いたら、手伝[てつだ]ってください。</div>
+        <div class="de spoiler">Bitte hilf mir, wenn du Zeit hast.</div>
+      </div>
+    </li>
+  </ol>
+  <p>Beachte, dass es sich von 明く・開く・空く (あく) unterscheidet, obwohl es ähnliche Bedeutungen haben kann.</p>

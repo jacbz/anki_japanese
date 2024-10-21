@@ -2,24 +2,162 @@ Rang: 2157
 Lemma: 下る
 Lesung: くだる
 Tonhöhen: /^^
-Definition: hinuntergehen
-Alternativschreibweisen: ''
+Definition: hinuntergehen; sinken
+Alternativschreibweisen: 降る
 Extra: '' # Nur bei suru-Verben
 Wortart: vi, vt
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 下らない・下った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   彼は自転車で坂を下っていた。
   彼[かれ]は 自転車[じてんしゃ]で 坂[さか]を 下[くだ]っていた。
-  Er ist den Hügel mit dem Fahrrad hinuntergefahren.
+  Er fuhr mit dem Fahrrad den Hügel hinunter.
+
+  船で川を下るのは爽快な体験だ。
+  船[ふね]で 川[かわ]を 下[くだ]るのは 爽快[そうかい]な 体験[たいけん]だ。
+  Mit dem Boot den Fluss hinunterzufahren ist ein erfrischendes Erlebnis.
+
+  裁判所から判決が下った。
+  裁判所[さいばんしょ]から 判決[はんけつ]が 下[くだ]った。
+  Das Gericht hat ein Urteil gefällt.
+
+  上司から厳しい命令が下った。
+  上司[じょうし]から 厳[きび]しい 命令[めいれい]が 下[くだ]った。
+  Von meinem Vorgesetzten erging ein strenger Befehl.
+
+  時代が下るにつれて、人々の生活様式は変化した。
+  時代[じだい]が 下[くだ]るにつれて、人々[ひとびと]の 生活様式[せいかつようしき]は 変化[へんか]した。
+  Im Laufe der Zeit änderte sich die Lebensweise der Menschen.
+
+  彼は政界を引退し、野に下った。
+  彼[かれ]は 政界[せいかい]を 引退[いんたい]し、野[や]に 下[くだ]った。
+  Er zog sich aus der Politik zurück und ging ins Privatleben.
+
+  天罰が下ったかのように、突然嵐が襲ってきた。
+  天罰[てんばつ]が 下[くだ]ったかのように、突然[とつぜん] 嵐[あらし]が 襲[おそ]ってきた。
+  Als ob eine göttliche Strafe herabgekommen wäre, brach plötzlich ein Sturm herein.
+
+  山を登るのは大変だったが、下るのは意外と簡単だった。
+  山[やま]を 登[のぼ]るのは 大変[たいへん]だったが、下[くだ]るのは 意外[いがい]と 簡単[かんたん]だった。
+  Das Bergaufsteigen war anstrengend, aber das Hinuntergehen war überraschend einfach.
+
+  気温が急激に下り、寒さが厳しくなった。
+  気温[きおん]が 急激[きゅうげき]に 下[くだ]り、寒[さむ]さが 厳[きび]しくなった。
+  Die Temperatur fiel rapide, und es wurde bitterkalt.
+
+  彼女は腹が下って、病院に行った。
+  彼女[かのじょ]は 腹[はら]が 下[くだ]って、病院[びょういん]に 行[い]った。
+  Sie hatte Durchfall und ging ins Krankenhaus.
+
+  入場者数は1000人を下らないだろう。
+  入場者数[にゅうじょうしゃすう]は1000人[にん]を 下[くだ]らないだろう。
+  Die Zahl der Besucher wird nicht unter 1000 liegen.
+
+  敵軍は戦意を失い、我々の軍門に下った。
+  敵軍[てきぐん]は 戦意[せんい]を 失[うしな]い、我々[われわれ]の 軍門[ぐんもん]に 下[くだ]った。
+  Die feindliche Armee verlor ihren Kampfgeist und ergab sich uns.
+
+  雨が下る様子を窓から眺めていた。
+  雨[あめ]が 下[くだ]る 様子[ようす]を 窓[まど]から 眺[なが]めていた。
+  Ich beobachtete vom Fenster aus, wie der Regen herabfiel.
+
+  彼の業績は誰にも下らない素晴らしいものだ。
+  彼[かれ]の 業績[ぎょうせき]は 誰[だれ]にも 下[くだ]らない 素晴[すば]らしいものだ。
+  Seine Leistungen sind hervorragend und stehen niemandem nach.
+
+  船長の命令が下り、全員が甲板に集合した。
+  船長[せんちょう]の 命令[めいれい]が 下[くだ]り、全員[ぜんいん]が 甲板[かんぱん]に 集合[しゅうごう]した。
+  Der Befehl des Kapitäns erging, und alle versammelten sich an Deck.
+
+  彼は高熱で寝込んでいたが、やっと熱が下った。
+  彼[かれ]は 高熱[こうねつ]で 寝込[ねこ]んでいたが、やっと 熱[ねつ]が 下[くだ]った。
+  Er lag mit hohem Fieber im Bett, aber endlich ist das Fieber gesunken.
+
+  株価が急激に下り、投資家たちは慌てふためいた。
+  株価[かぶか]が 急激[きゅうげき]に 下[くだ]り、投資家[とうしか]たちは 慌[あわ]てふためいた。
+  Die Aktienkurse fielen rapide, und die Investoren gerieten in Panik.
+
+  長い階段を下るのは、膝に負担がかかる。
+  長[なが]い 階段[かいだん]を 下[くだ]るのは、膝[ひざ]に 負担[ふたん]がかかる。
+  Das Hinuntergehen einer langen Treppe belastet die Knie.
+
+  彼の態度は尊大で、人に下ろうとしない。
+  彼[かれ]の 態度[たいど]は 尊大[そんだい]で、人[ひと]に 下[くだ]ろうとしない。
+  Seine Haltung ist arrogant, und er will sich niemandem unterordnen.
+
+  この川を下ると、海に出る。
+  この 川[かわ]を 下[くだ]ると、海[うみ]に 出[で]る。
+  Wenn man diesen Fluss hinunterfährt, gelangt man zum Meer.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>下る (kudaru) ist ein vielseitiges Verb, das verschiedene Arten von Abwärtsbewegungen oder Verringerungen ausdrückt.</p>
+
+  <ul>
+    <li>Grundbedeutung: heruntergehen, hinabsteigen, abwärts bewegen</li>
+    <div class="examples">
+      <div class="jp">山[やま]を<u>下[くだ]る</u></div>
+      <div class="de spoiler">Den Berg hinabsteigen</div>
+    </div>
+
+    <li>Flussabwärts fahren oder schwimmen</li>
+    <div class="examples">
+      <div class="jp">川[かわ]を<u>下[くだ]る</u></div>
+      <div class="de spoiler">Den Fluss hinunterfahren</div>
+    </div>
+
+    <li>Sich aus dem Stadtzentrum herausbewegen</li>
+    <div class="examples">
+      <div class="jp">東京[とうきょう]を<u>下[くだ]る</u></div>
+      <div class="de spoiler">Aus Tokyo herausfahren</div>
+    </div>
+
+    <li>Sinken, fallen (z.B. Preise, Temperatur)</li>
+    <div class="examples">
+      <div class="jp">気温[きおん]が<u>下[くだ]る</u></div>
+      <div class="de spoiler">Die Temperatur sinkt</div>
+    </div>
+
+    <li>Von einer höheren Stelle ergehen (z.B. Anordnungen)</li>
+    <div class="examples">
+      <div class="jp">命令[めいれい]が<u>下[くだ]る</u></div>
+      <div class="de spoiler">Ein Befehl wird erteilt</div>
+    </div>
+  </ul>
+
+  <p>Spezielle Verwendungen:</p>
+
+  <ul>
+    <li>Ausgeschieden werden (oft in medizinischem Kontext)</li>
+    <div class="examples">
+      <div class="jp">腹[はら]が<u>下[くだ]る</u></div>
+      <div class="de spoiler">Durchfall haben</div>
+    </div>
+
+    <li>Unter einem bestimmten Wert bleiben</li>
+    <div class="examples">
+      <div class="jp">入場者[にゅうじょうしゃ]は 千[せん] 人[にん]を<u>下[くだ]らない</u></div>
+      <div class="de spoiler">Es sind nicht weniger als tausend Besucher</div>
+    </div>
+
+    <li>Sich ergeben, kapitulieren</li>
+    <div class="examples">
+      <div class="jp">軍門[ぐんもん]に<u>下[くだ]る</u></div>
+      <div class="de spoiler">Sich ergeben, die Waffen strecken</div>
+    </div>
+  </ul>
+
+  <p>Konjugation: 下る ist ein Verb der Gruppe 1 (五段動詞).</p>
+  <ul>
+    <li>Verneinung: 下らない (kudaranai)</li>
+    <li>Vergangenheit: 下った (kudatta)</li>
+  </ul>
+  </p>

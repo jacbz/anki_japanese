@@ -2,13 +2,13 @@ Rang: 4101
 Lemma: 富む
 Lesung: とむ
 Tonhöhen: \.
-Definition: reich (an etwas sein); wachsen
+Definition: reich sein an
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 富まない・富んだ
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -16,6 +16,82 @@ Beispielsätze: |-
   この野菜はビタミンCに富んでいる。
   この 野菜[やさい]はビタミンCに 富[と]んでいる。
   Dieses Gemüse ist reich an Vitamin C.
+
+  彼は向上心に富んでいる人物だ。
+  彼[かれ]は 向上心[こうじょうしん]に 富[と]んでいる 人物[じんぶつ]だ。
+  Er ist eine sehr ehrgeizige Person.
+
+  彼女は経験に富んだ弁護士として知られている。
+  彼女[かのじょ]は 経験[けいけん]に 富[と]んだ 弁護士[べんごし]として 知[し]られている。
+  Sie ist als erfahrene Anwältin bekannt.
+
+  彼の話し方は諧謔に富んでいて、聴衆を楽しませた。
+  彼[かれ]の 話[はな]し 方[かた]は 諧謔[かいぎゃく]に 富[と]んでいて、聴衆[ちょうしゅう]を 楽[たの]しませた。
+  Seine humorvolle Art zu sprechen unterhielt das Publikum.
+
+  この大学はバラエティーに富んだ授業を提供している。
+  この 大学[だいがく]はバラエティーに 富[と]んだ 授業[じゅぎょう]を 提供[ていきょう]している。
+  Diese Universität bietet abwechslungsreichen Unterricht an.
+
+  この素材は弾力性に富み、様々な用途に使える。
+  この 素材[そざい]は 弾力性[だんりょくせい]に 富[と]み、様々[さまざま]な 用途[ようと]に 使[つか]える。
+  Dieses Material besitzt große Elastizität und kann für verschiedene Zwecke verwendet werden。
+
+  この果物は糖度はやや低いが、クエン酸に富んでいる。
+  この 果物[くだもの]は 糖度[とうど]はやや 低[ひく]いが、クエン 酸[さん]に 富[と]んでいる。
+  Diese Frucht hat zwar einen niedrigen Zuckergehalt, ist aber reich an Zitronensäure.
+
+  彼は冷かな理智に富んだ一面を持っている。
+  彼[かれ]は 冷[つめ]たい 理智[りち]に 富[と]んだ 一面[いちめん]を 持[も]っている。
+  Er hat eine Seite, die von kühlem Intellekt geprägt ist.
+
+  機略に富んだ彼女は、困難な状況を乗り越えた。
+  機略[きりゃく]に 富[と]んだ 彼女[かのじょ]は、困難[こんなん]な 状況[じょうきょう]を 乗り越[のりこ]えた。
+  Mit ihrer Erfindungsgabe bewältigte sie die schwierige Situation.
+
+  彼は若くして富んだ起業家として有名だ。
+  彼[かれ]は 若[わか]くして 富[と]んだ 起業家[きぎょうか]として 有名[ゆうめい]だ。
+  Er ist als junger, wohlhabender Unternehmer bekannt.
+
+  富んでいる人々は慈善活動に参加することが多い。
+  富[と]んでいる 人々[ひとびと]は 慈善[じぜん] 活動[かつどう]に 参加[さんか]することが 多[おお]い。
+  Wohlhabende Menschen nehmen oft an wohltätigen Aktivitäten teil.
+
+  この地域は天然資源に富んでいる。
+  この 地域[ちいき]は 天然資源[てんねんしげん]に 富[と]んでいる。
+  Diese Region ist reich an natürlichen Ressourcen.
+
+  彼女は想像力に富んだ小説を書く。
+  彼女[かのじょ]は 想像力[そうぞうりょく]に 富[と]んだ 小説[しょうせつ]を 書[か]く。
+  Sie schreibt Romane voller Fantasie.
+
+  富める者も貧しい者も平等に扱われるべきだ。
+  富[と]める 者[もの]も 貧[まず]しい 者[もの]も 平等[びょうどう]に 扱[あつか]われるべきだ。
+  Sowohl Reiche als auch Arme sollten gleich behandelt werden.
+
+  この会社は人材に富んでいる。
+  この 会社[かいしゃ]は 人材[じんざい]に 富[と]んでいる。
+  Dieses Unternehmen verfügt über viele talentierte Mitarbeiter.
+
+  彼の演説は説得力に富んでいた。
+  彼[かれ]の 演説[えんぜつ]は 説得力[せっとくりょく]に 富[と]んでいた。
+  Seine Rede war sehr überzeugend.
+
+  富んだ生活を送るために、彼は一生懸命働いた。
+  富[と]んだ 生活[せいかつ]を 送[おく]るために、彼[かれ]は 一生懸命[いっしょうけんめい] 働[はたら]いた。
+  Er arbeitete hart, um ein wohlhabendes Leben zu führen.
+
+  この地方は歴史に富んだ建造物が多い。
+  この 地方[ちほう]は 歴史[れきし]に 富[と]んだ 建造物[けんぞうぶつ]が 多[おお]い。
+  Diese Region hat viele historisch bedeutsame Gebäude.
+
+  彼女は才能に富んだピアニストだ。
+  彼女[かのじょ]は 才能[さいのう]に 富[と]んだピアニストだ。
+  Sie ist eine sehr talentierte Pianistin.
+
+  富んでいる国々は発展途上国を支援する責任がある。
+  富[と]んでいる 国々[くにぐに]は 発展途上国[はってんとじょうこく]を 支援[しえん]する 責任[せきにん]がある。
+  Reiche Länder haben die Verantwortung, Entwicklungsländer zu unterstützen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

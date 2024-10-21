@@ -102,4 +102,30 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>ため wird hauptsächlich in drei Bedeutungen verwendet:</p>
+  <ul>
+    <li>Um einen Zweck oder ein Ziel auszudrücken ("um zu", "damit")</li>
+    <div class="examples">
+      <div class="jp">事故[じこ] 防止[ぼうし]の<u>ため</u>に、急[きゅう]ブレーキすることがあります。</div>
+      <div class="de spoiler">Zur Unfallvermeidung kann es Vollbremsungen geben.</div>
+      <div class="jp">怒[おこ]らす<u>ため</u>に 無躾[ぶしつけ]な 言葉[ことば]を 使[つか]うのではありません。</div>
+      <div class="de spoiler">Ich benutze keine groben Worte, um Sie zu verärgern.</div>
+    </div>
+
+    <li>Um auszudrücken, dass etwas zum Wohl oder Vorteil von jemandem geschieht ("für", "zugunsten")</li>
+    <div class="examples">
+      <div class="jp">あなたの<u>ため</u>なら どんなことでもします。</div>
+      <div class="de spoiler">Für Sie würde ich alles tun.</div>
+      <div class="jp">安田[やすだ]の<u>ため</u>に 弁[べん]じました。</div>
+      <div class="de spoiler">Er setzte sich für Yasuda ein.</div>
+    </div>
+
+    <li>Um einen Grund anzugeben ("wegen", "aufgrund von")</li>
+    <div class="examples">
+      <div class="jp">暑[あつ]さの<u>ため</u>に 顔[かお]も 首[くび]も 汗[あせ]だらけになってきた。</div>
+      <div class="de spoiler">Wegen der Hitze waren Gesicht und Hals schweißbedeckt.</div>
+      <div class="jp">その 石鹸[せっけん]の<u>ため</u>か 手[て]が 荒[あら]れています。</div>
+      <div class="de spoiler">Vielleicht sind die Hände wegen dieser Seife rau.</div>
+    </div>
+  </ul>

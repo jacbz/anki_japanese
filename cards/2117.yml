@@ -2,10 +2,10 @@ Rang: 2117
 Lemma: 余計
 Lesung: よけい
 Tonhöhen: /^^
-Definition: zusätzlich, extra
+Definition: überflüssig; unnötig; mehr
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
-Wortart: na-adj, adj, adv
+Wortart: na-adj, adv
 Register: ''
 Ursprung: ''
 Konjugation: ''
@@ -15,7 +15,83 @@ Konjugation: ''
 Beispielsätze: |-
   その本に余計にお金を払ってしまった。
   その 本[ほん]に 余計[よけい]にお 金[かね]を 払[はら]ってしまった。
-  Ich habe mehr als genug für das Buch bezahlt.
+  Ich habe zu viel für dieses Buch bezahlt.
+
+  余計な質問はしないでください。
+  余計[よけい]な 質問[しつもん]はしないでください。
+  Bitte stellen Sie keine überflüssigen Fragen.
+
+  余計な心配をしないで、自分の仕事に集中しましょう。
+  余計[よけい]な 心配[しんぱい]をしないで、自分[じぶん]の 仕事[しごと]に 集中[しゅうちゅう]しましょう。
+  Mach dir keine unnötigen Sorgen und konzentriere dich auf deine Arbeit.
+
+  この余計な出費は避けられたはずだ。
+  この 余計[よけい]な 出費[しゅっぴ]は 避[さ]けられたはずだ。
+  Diese überflüssigen Ausgaben hätten vermieden werden können.
+
+  余計なお世話だと思われるかもしれませんが、アドバイスさせてください。
+  余計[よけい]なお 世話[せわ]だと 思[おも]われるかもしれませんが、アドバイスさせてください。
+  Es mag als unerwünschte Einmischung erscheinen, aber lassen Sie mich Ihnen einen Rat geben.
+
+  彼は余計なことを言って、場の雰囲気を悪くした。
+  彼[かれ]は 余計[よけい]なことを 言[い]って、場[ば]の 雰囲気[ふんいき]を 悪[わる]くした。
+  Er sagte etwas Unnötiges und verschlechterte die Atmosphäre.
+
+  一人分の切符が余計だったので、友達にあげました。
+  一人分[ひとりぶん]の 切符[きっぷ]が 余計[よけい]だったので、友達[ともだち]にあげました。
+  Ich hatte eine Fahrkarte zu viel, also gab ich sie einem Freund.
+
+  余計な失点をしてしまい、試合に負けた。
+  余計[よけい]な 失点[しってん]をしてしまい、試合[しあい]に 負[ま]けた。
+  Wir haben durch einen unnötigen Punktverlust das Spiel verloren.
+
+  余計なお世話だ。自分で解決できる問題だよ。
+  余計[よけい]なお 世話[せわ]だ。自分[じぶん]で 解決[かいけつ]できる 問題[もんだい]だよ。
+  Das ist meine Sache. Das ist ein Problem, das ich selbst lösen kann.
+
+  余計な口を出すな。誰も君の意見を求めていない。
+  余計[よけい]な 口[くち]を 出[だ]すな。誰[だれ]も 君[きみ]の 意見[いけん]を 求[もと]めていない。
+  Sprich nicht, wenn du nicht gefragt bist! Niemand hat nach deiner Meinung gefragt.
+
+  まず第一に、そうするには時間がかかりすぎる。第二に、それは余計なことだ。
+  まず 第一[だいいち]に、そうするには 時間[じかん]がかかりすぎる。第二[だいに]に、それは 余計[よけい]なことだ。
+  Erstens würde das zu lange dauern, und zweitens ist es überflüssig.
+
+  余計な忠告かもしれませんが、健康に気をつけた方がいいですよ。
+  余計[よけい]な 忠告[ちゅうこく]かもしれませんが、健康[けんこう]に 気[き]をつけた 方[ほう]がいいですよ。
+  Es mag ein ungebetener Rat sein, aber Sie sollten auf Ihre Gesundheit achten.
+
+  これは余計な話かもしれませんが、私の趣味について少し話させてください。
+  これは 余計[よけい]な 話[はなし]かもしれませんが、私[わたし]の 趣味[しゅみ]について 少[すこ]し 話[はな]させてください。
+  Das tut jetzt zwar nichts zur Sache, aber lassen Sie mich kurz über mein Hobby sprechen.
+
+  前より余計痛くなっているので、病院に行った方がいいかもしれません。
+  前[まえ]より 余計[よけい] 痛[いた]くなっているので、病院[びょういん]に 行[い]った 方[ほう]がいいかもしれません。
+  Die Schmerzen sind jetzt schlimmer als vorher, also solltest du vielleicht zum Arzt gehen.
+
+  会えば余計別れがつらくなるから、もう会わない方がいいかもしれない。
+  会[あ]えば 余計[よけい] 別[わか]れがつらくなるから、もう 会[あ]わない 方[ほう]がいいかもしれない。
+  Der Abschied wird nur noch schwerer, wenn wir uns treffen, also ist es vielleicht besser, uns nicht mehr zu sehen.
+
+  ゴルフ場で人気があったので、余計にチップをもらえた。
+  ゴルフ場[じょう]で 人気[にんき]があったので、余計[よけい]にチップをもらえた。
+  Da ich auf dem Golfplatz beliebt war, bekam ich mehr Trinkgeld.
+
+  彼女のハンカチの匂いをかぐと、余計涙があふれた。
+  彼女[かのじょ]のハンカチの 匂[にお]いをかぐと、余計[よけい] 涙[なみだ]があふれた。
+  Als ich an ihrem Taschentuch roch, kamen mir noch mehr die Tränen.
+
+  子供の頃は、泣けば余計に叱られたものだ。
+  子供[こども]の 頃[ころ]は、泣[な]けば 余計[よけい]に 叱[しか]られたものだ。
+  Als Kind wurde ich noch mehr gescholten, wenn ich weinte.
+
+  その滑稽な表情が、余計に哀れに思えた。
+  その 滑稽[こっけい]な 表情[ひょうじょう]が、余計[よけい]に 哀[あわ]れに 思[おも]えた。
+  Sein komischer Gesichtsausdruck ließ ihn noch mitleiderregender erscheinen.
+
+  堅ければ堅いほど、余計に壊れやすいものだ。
+  堅[かた]ければ 堅[かた]いほど、余計[よけい]に 壊[こわ]れやすいものだ。
+  Je härter etwas ist, desto leichter bricht es.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

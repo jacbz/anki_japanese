@@ -2,13 +2,13 @@ Rang: 4048
 Lemma: 凝る
 Lesung: こる
 Tonhöhen: \.
-Definition: sich vertiefen, sich widmen; steif werden
+Definition: sich vertiefen; sich verspannen
 Alternativschreibweisen: ''
 Extra: '' # Nur bei suru-Verben
 Wortart: vi
 Register: ''
 Ursprung: ''
-Konjugation: ''
+Konjugation: 凝らない・凝った
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
@@ -17,9 +17,108 @@ Beispielsätze: |-
   彼[かれ]が 何[なに]か 始[はじ]めると 凝[こ]る 性質[せいしつ]だ。
   Wenn er etwas beginnt, vertieft er sich darin.
 
+  首が凝って動かしにくい。
+  首[くび]が 凝[こ]って 動[うご]かしにくい。
+  Mein Nacken ist steif und schwer zu bewegen.
+
+  重いカツラに肩が凝ります。
+  重[おも]いカツラに 肩[かた]が 凝[こ]ります。
+  Von einer schweren Perücke bekommt man steife Schultern.
+
+  彼女は茶道に凝っている。
+  彼女[かのじょ]は 茶道[さどう]に 凝[こ]っている。
+  Sie beschäftigt sich intensiv mit der Teezeremonie.
+
+  サッカーに凝っていて、毎日練習している。
+  サッカーに 凝[こ]っていて、毎日[まいにち] 練習[れんしゅう]している。
+  Er ist fußballbegeistert und trainiert jeden Tag.
+
+  この料理人は料理の見た目に凝っている。
+  この 料理人[りょうりにん]は 料理[りょうり]の 見[み]た 目[め]に 凝[こ]っている。
+  Dieser Koch legt großen Wert auf die Präsentation seiner Gerichte.
+
+  彼はチェスに凝るようになって、毎日何時間も練習している。
+  彼[かれ]はチェスに 凝[こ]るようになって、毎日[まいにち] 何時間[なんじかん]も 練習[れんしゅう]している。
+  Er hat eine Leidenschaft für Schach entwickelt und übt jeden Tag stundenlang.
+
+  長時間パソコンを使っていると肩が凝る。
+  長時間[ちょうじかん]パソコンを 使[つか]っていると 肩[かた]が 凝[こ]る。
+  Wenn man lange am Computer arbeitet, verspannen sich die Schultern.
+
+  この庭園は凝りに凝って造られている。
+  この 庭園[ていえん]は 凝[こ]りに 凝[こ]って 造[つく]られている。
+  Dieser Garten wurde mit großer Sorgfalt und Liebe zum Detail angelegt.
+
+  彼女は写真に凝っていて、高価なカメラを買った。
+  彼女[かのじょ]は 写真[しゃしん]に 凝[こ]っていて、高価[こうか]なカメラを 買[か]った。
+  Sie ist von der Fotografie begeistert und hat sich eine teure Kamera gekauft.
+
+  凝った家具が置かれた部屋は、とても洗練されていた。
+  凝[こ]った 家具[かぐ]が 置[お]かれた 部屋[へや]は、とても 洗練[せんれん]されていた。
+  Das Zimmer mit den kunstvoll gestalteten Möbeln war sehr raffiniert.
+
+  疲れが溜まると体が凝る。
+  疲[つか]れが 溜[た]まると 体[からだ]が 凝[こ]る。
+  Wenn sich Müdigkeit ansammelt, wird der Körper steif.
+
+  彼は凝った料理を作るのが好きだ。
+  彼[かれ]は 凝[こ]った 料理[りょうり]を 作[つく]るのが 好[す]きだ。
+  Er mag es, aufwendige Gerichte zuzubereiten.
+
+  ストレスが溜まると肩が凝りやすい。
+  ストレスが 溜[た]まると 肩[かた]が 凝[こ]りやすい。
+  Wenn sich Stress ansammelt, verspannen sich die Schultern leicht.
+
+  彼女はインテリアに凝っていて、よく家具を買い替える。
+  彼女[かのじょ]はインテリアに 凝[こ]っていて、よく 家具[かぐ]を 買[か]い 替[か]える。
+  Sie ist von Inneneinrichtung begeistert und tauscht oft ihre Möbel aus.
+
+  凝った髪型をするのに時間がかかる。
+  凝[こ]った 髪型[かみがた]をするのに 時間[じかん]がかかる。
+  Es braucht Zeit, eine aufwendige Frisur zu machen.
+
+  彼は細部に凝るタイプだ。
+  彼[かれ]は 細部[さいぶ]に 凝[こ]るタイプだ。
+  Er ist der Typ, der sich auf Details konzentriert.
+
+  寒い日は体が凝りやすいので、ストレッチが大切だ。
+  寒[さむ]い 日[ひ]は 体[からだ]が 凝[こ]りやすいので、ストレッチが 大切[たいせつ]だ。
+  An kalten Tagen verspannt sich der Körper leicht, deshalb ist Dehnen wichtig.
+
+  彼女は凝った刺繍を施すのが得意だ。
+  彼女[かのじょ]は 凝[こ]った 刺繍[ししゅう]を 施[ほどこ]すのが 得意[とくい]だ。
+  Sie ist geschickt darin, aufwendige Stickereien anzufertigen.
+
+  長時間座っていると腰が凝る。
+  長時間[ちょうじかん] 座[すわ]っていると 腰[こし]が 凝[こ]る。
+  Wenn man lange sitzt, wird der Rücken steif.
+
+  彼はワインに凝っていて、自宅にワインセラーを作った。
+  彼[かれ]はワインに 凝[こ]っていて、自宅[じたく]にワインセラーを 作[つく]った。
+  Er ist von Wein begeistert und hat zu Hause einen Weinkeller eingerichtet.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p>Das Verb 凝る (こる) hat mehrere Bedeutungen:</p>
+  <ol>
+    <li>Sich verhärten oder steif werden, besonders in Bezug auf Körperteile:</li>
+    <div class="examples">
+      <div class="jp">長時間[ちょうじかん]パソコンを 使[つか]うと 肩[かた]が 凝[こ]る。</div>
+      <div class="de spoiler">Wenn man lange am Computer arbeitet, werden die Schultern steif.</div>
+    </div>
+    <li>Sich einer Sache intensiv widmen oder dafür begeistern:</li>
+    <div class="examples">
+      <div class="jp">彼[かれ]は 写真[しゃしん]に 凝[こ]っている。</div>
+      <div class="de spoiler">Er ist von der Fotografie begeistert.</div>
+    </div>
+    <li>Etwas sorgfältig ausarbeiten oder raffiniert gestalten:</li>
+    <div class="examples">
+      <div class="jp">この 庭[にわ]は 凝[こ]りに 凝[こ]って 作[つく]られている。</div>
+      <div class="de spoiler">Dieser Garten wurde mit großer Sorgfalt und Liebe zum Detail angelegt.</div>
+    </div>
+  </ol>
+  <p>Das Sprichwort <span class="jp">凝[こ]っては 思案[しあん]に 余[あま]る</span> bedeutet sinngemäß <span class="de">"Zu viel Begeisterung macht blind"</span> und warnt davor, sich zu sehr in etwas zu vertiefen und dadurch den Überblick zu verlieren.</p>

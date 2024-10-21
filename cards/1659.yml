@@ -98,4 +98,43 @@ Beispielsätze: |-
 #   <div class="jp">借[か]りていた本を 返[かえ]す。</div>
 #   <div class="de spoiler">Ich gebe das ausgeliehene Buch zurück.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <p><span class="jp">上手[じょうず]</span> bedeutet "geschickt" oder "gut in etwas sein" und wird verwendet, um Fähigkeiten oder Talente zu beschreiben.</p>
+
+  <ul>
+    <li>Es kann als Nomen oder als な-Adjektiv verwendet werden:</li>
+    <div class="examples">
+      <div class="jp">日本語[にほんご]が<u>上手[じょうず]</u>です。</div>
+      <div class="de spoiler">Ich bin gut in Japanisch.</div>
+      <div class="jp"><u>上手[じょうず]</u>な 日本語[にほんご]で 答[こた]えた。</div>
+      <div class="de spoiler">Er antwortete in fließendem Japanisch.</div>
+    </div>
+
+    <li>Es wird oft mit bestimmten Aktivitäten kombiniert:</li>
+    <div class="examples">
+      <div class="jp">話[はな]し<u>上手[じょうず]</u></div>
+      <div class="de spoiler">gut im Reden</div>
+      <div class="jp">料理[りょうり]が<u>お上手[じょうず]</u></div>
+      <div class="de spoiler">gut im Kochen</div>
+    </div>
+
+    <li>Mit お als Präfix wird es oft als Kompliment verwendet:</li>
+    <div class="examples">
+      <div class="jp"><u>お上手[じょうず]</u>に 出来[でき]ました。</div>
+      <div class="de spoiler">Das haben Sie sehr gut gemacht.</div>
+    </div>
+
+    <li>Es kann auch verwendet werden, um Objekte zu beschreiben, die gut gemacht sind:</li>
+    <div class="examples">
+      <div class="jp"><u>上手[じょうず]</u>につくられた 人形[にんぎょう]</div>
+      <div class="de spoiler">eine gut gemachte Puppe</div>
+    </div>
+  </ul>
+
+  <p>Beachten Sie den Gegensatz <span class="jp">下手[へた]</span>, der "ungeschickt" oder "schlecht in etwas" bedeutet.</p>
+
+  <p>Es gibt auch ein verwandtes Sprichwort:</p>
+  <div class="examples">
+    <div class="jp"><u>上手[じょうず]</u>の 猫[ねこ]が 爪[つめ]を 隠[かく]す</div>
+    <div class="de spoiler">Eine geschickte Katze verbirgt ihre Krallen. (Ein wahrer Könner prahlt nicht mit seinen Fähigkeiten.)</div>
+  </div>
