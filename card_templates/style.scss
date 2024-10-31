@@ -88,6 +88,17 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   user-select: none;
   -webkit-user-select: none;
   font-weight: normal;
+  transition: background-color 0.2s, border-color 0.2s, opacity 0.2s;
+
+  &.disabled {
+    opacity: 0.25;
+    pointer-events: none;
+  }
+
+  &.error {
+    border-color: rgb(240, 57, 57) !important;
+    background: rgba(240, 57, 57, 0.2) !important;
+  }
 }
 
 .svg-button {
@@ -168,6 +179,8 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   text-align: center;
   background-color: white;
   width: 96%;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -413,7 +426,7 @@ hr {
   margin-bottom: 3em;
 }
 
-.box_float {
+.box-float {
   position: absolute;
   top: 0;
   right: 0;
@@ -435,7 +448,7 @@ hr {
   font-size: 55%;
 }
 
-#sentences_inner .de {
+#sentences-inner .de {
   line-height: 1.35em;
   font-size: 90%;
   margin-top: 0.15em;

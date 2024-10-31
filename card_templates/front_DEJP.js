@@ -1,6 +1,6 @@
 formatDefinition();
 
-const sentencesInner = document.getElementById("sentences_inner");
+const sentencesInner = document.getElementById("sentences-inner");
 const sentencesData = sentencesInner.innerHTML;
 const sentencesPairs = shuffleSentences(sentencesData.split("\n\n"));
 const de = processText(sentencesPairs[0].split("\n")[2], false);

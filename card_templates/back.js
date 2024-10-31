@@ -57,14 +57,14 @@ formatDefinition();
 /**
  * Sentences
  */
-const sentencesInner = document.getElementById("sentences_inner");
+const sentencesInner = document.getElementById("sentences-inner");
 const sentencesData = sentencesInner.innerHTML;
 let sentencesPairs = sentencesData.split("\n\n");
 const firstSentence = sentencesPairs[0].split("\n")[0];
 sentencesPairs = shuffleSentences(sentencesPairs, false);
 
 let currentSentence = 0;
-const sentenceCounter = document.getElementById("sentence_counter");
+const sentenceCounter = document.getElementById("sentence-counter");
 
 const audioButton = function (sentence) {
   return `<div class="button svg-button small play-sentence" data-sentence="${sentence}">
@@ -136,6 +136,7 @@ function hiraganaToKatakana(input) {
 const memoizedTTSUrls = {};
 async function getTTSUrl(sentence, forceGoogleTranslate = false) {
   sentence = decodeURIComponent(sentence);
+  sentence = sentence.replaceAll(/<[^>]+?>/g, " ");
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.azureApiKey || forceGoogleTranslate) {
     const text = sentence.replaceAll(/\[.+?\]/g, "");
@@ -248,7 +249,7 @@ formatSentences();
 // do not show spoiler for first sentence
 document.querySelector(".spoiler").classList.add("clicked");
 
-const nextSentenceButton = document.getElementById("next_sentence");
+const nextSentenceButton = document.getElementById("next-sentence");
 nextSentenceButton.onclick = nextSentenceHandler;
 sentencesInner.ondblclick = nextSentenceHandler;
 
