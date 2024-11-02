@@ -64,6 +64,7 @@ const firstSentence = sentencesPairs[0].split("\n")[0];
 sentencesPairs = shuffleSentences(sentencesPairs, false);
 
 let currentSentence = 0;
+let showClozeGame = false;
 const sentenceCounter = document.getElementById("sentence-counter");
 
 const audioButton = function (sentence) {
@@ -74,16 +75,43 @@ const audioButton = function (sentence) {
   </div>`;
 };
 
+const gameContainer = document.getElementById("cloze-game");
 function refreshExampleSentences() {
   const [jp, jp_reading, de] = sentencesPairs[currentSentence].split("\n");
   const isFirstSentence = jp === firstSentence;
-  sentencesInner.innerHTML = japaneseFirst
-    ? `<div class="jp" data-sentence="${encodeURIComponent(
-        jp_reading
-      )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</div><div class="de spoiler">${de}</div>`
-    : `<span class="jp spoiler" data-sentence="${encodeURIComponent(
-        jp_reading
-      )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</span><div class="de">${de}</div>`;
+
+  if (showClozeGame) {
+    sentencesInner.innerHTML = japaneseFirst
+      ? `<div class="jp" data-sentence="${encodeURIComponent(
+          jp_reading
+        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</div>`
+      : `<div class="de">${de}</div>`;
+
+    gameContainer.style.display = null;
+
+    gameContainer.innerHTML = "";
+    gameContainer.className = "";
+    initClozeGame({
+      sentence: japaneseFirst
+        ? processText(de, false)
+        : processText(jp_reading, true),
+      gameContainer,
+      isGerman: japaneseFirst,
+      showOverlay: false
+    });
+  } else {
+    sentencesInner.innerHTML = japaneseFirst
+      ? `<div class="jp" data-sentence="${encodeURIComponent(
+          jp_reading
+        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</div><div class="de spoiler">${de}</div>`
+      : `<span class="jp spoiler" data-sentence="${encodeURIComponent(
+          jp_reading
+        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</span><div class="de">${de}</div>`;
+
+    gameContainer.style.display = "none";
+  }
+
+
   sentenceCounter.textContent = `${currentSentence + 1}/${
     sentencesPairs.length
   }`;
@@ -114,7 +142,7 @@ function formatSentences(within = document) {
     el.innerHTML = processText(el.innerHTML, false);
   });
 
-  within.querySelectorAll(".spoiler").forEach(function (el) {
+  within.querySelectorAll(".spoiler:not(.cloze)").forEach(function (el) {
     if (!options.hideSpoilers) {
       el.classList.add("clicked");
     } else {
@@ -250,6 +278,7 @@ formatSentences();
 document.querySelector(".spoiler").classList.add("clicked");
 
 const nextSentenceButton = document.getElementById("next-sentence");
+const clozeGameButton = document.getElementById("cloze-game-button");
 nextSentenceButton.onclick = nextSentenceHandler;
 sentencesInner.ondblclick = nextSentenceHandler;
 
@@ -263,6 +292,12 @@ function nextSentenceHandler(event) {
   currentSentence = (currentSentence + 1) % sentencesPairs.length;
   refreshExampleSentences();
 }
+
+clozeGameButton.onclick = function (e) {
+  e.stopPropagation();
+  showClozeGame = !showClozeGame;
+  refreshExampleSentences();
+};
 
 /**
  * Collapsible sections

@@ -205,6 +205,11 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   margin: 0.3em;
 }
 
+.pos-definition {
+  margin-top: 0.35em;
+  padding-bottom: 0.35em;
+}
+
 .pos {
   font-size: 50%;
   font-weight: bold;
@@ -321,7 +326,7 @@ span.no-break {
 }
 
 .spoiler {
-  transition: all 0.2s;
+  transition: color 0.2s, background-color 0.2s;
   -webkit-tap-highlight-color: transparent;
   cursor: pointer;
   border-radius: 0.2em;
@@ -330,7 +335,7 @@ span.no-break {
 
   &:not(.clicked) {
     color: transparent;
-    background: #eee;
+    background: #e3e3e3;
     > * {
       opacity: 0;
       transition: all 0.2s;
@@ -403,6 +408,101 @@ hr {
 }
 
 /**
+  Cloze game
+  -----------------------------------------------
+**/
+#cloze-game {
+  background: #f5f5f5;
+  padding: 1em;
+  border-radius: 0.5em;
+  transition: background-color 0.2s, color 0.2s, padding 0.2s;
+  overflow: hidden;
+  position: relative;
+
+  &.finished {
+    background: rgba($tip-color, 0.5) !important;
+
+    hr, #word-buttons {
+      display: none;
+    }
+  }
+
+  #overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    z-index: 500;
+    transition: opacity 0.2s, background-color 0.2s;
+    font-size: 75%;
+    color: var(--secondary-text);
+    cursor: pointer;
+
+    &.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+
+  #sentence-cloze {
+  }
+
+  hr {
+    opacity: 0.2;
+    margin: 1.25em 0;
+  }
+
+  .cloze {
+    display: inline-block;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .spoiler {
+    padding: 0;
+    text-decoration: none !important;
+  }
+
+  .spoiler + .spoiler.no-space {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
+    margin-top: 1rem;
+  }
+
+  .word-button {
+    height: 2em;
+    min-width: 1.6em;
+    padding: 0 0.4em;
+
+    &.jpbutton {
+      height: 1.8em;
+      line-height: 1.8em;
+      min-width: 1.2em;
+    }
+      
+    ruby.show-furigana {
+      transform: translateY(0.225em);
+    }
+  }
+}
+
+.night_mode #cloze-game {
+  background: #222;
+}
+
+/**
   Box
   -----------------------------------------------
 **/
@@ -446,17 +546,30 @@ hr {
   border-width: 3px;
   padding: 12px;
   font-size: 55%;
+
+  #cloze-game {
+    background: transparent !important;
+    padding: 0.5em !important;
+
+    &.finished {
+      overflow: visible;
+      padding: 0.35em 0 0 0 !important
+    }
+  }
 }
 
-#sentences-inner .de {
+#sentences-inner .de, #cloze-game .de {
   line-height: 1.35em;
   font-size: 90%;
-  margin-top: 0.15em;
 }
 
-#single_sentence {
+#front-sentence {
   margin-top: 2em;
   font-size: 55%;
+
+  #sentences-inner {
+    margin-bottom: 1.5em;
+  }
 }
 
 .box {
@@ -689,6 +802,7 @@ ruby {
   position: relative;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
+  transition: transform 0.2s;
 }
 
 span.rb {
@@ -719,7 +833,7 @@ span.rt {
   overflow: hidden;
 }
 
-#single_sentence span.rt,
+#front-sentence span.rt,
 #sentences span.rt,
 .examples span.rt {
   opacity: 0;

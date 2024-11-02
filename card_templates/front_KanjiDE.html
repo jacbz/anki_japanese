@@ -10,14 +10,16 @@
     }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="referrer" content="no-referrer" />
     <div class="furigana" style="visibility: hidden;">
     {{#Tonhöhen}}<div class="pitch_accent" data-reading="{{Lesung}}">{{Tonhöhen}}</div>{{/Tonhöhen}}
     {{^Tonhöhen}}&nbsp;{{Lesung}}&nbsp;{{/Tonhöhen}}
     </div>
     <div id="lemma">{{Lemma}}</div>
     {{#Beispielsätze}}
-    <div id="single_sentence" class="tappable">
-    <div id="sentences-inner">{{Beispielsätze}}</div>
+    <div id="front-sentence" class="tappable">
+      <div id="sentences-inner">{{Beispielsätze}}</div>
+      <div id="cloze-game"></div>
     </div>
     {{/Beispielsätze}}
     <!--------------------------------------------------------------------------------------->

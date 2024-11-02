@@ -194,7 +194,6 @@ function enableRuby(el = document) {
       };
     };
     rb.ondblclick = (event) => {
-      event.stopPropagation();
       const rubies = [...rb.closest(".jp").querySelectorAll("ruby")];
       const isAllFuriganaShown = rubies.every((ruby) => {
         return ruby.classList.contains("show-furigana");
@@ -342,3 +341,5 @@ function weightedIndexChoice(arr) {
     if (val <= cur) return i;
   }
 }
+
+___CLOZE_GAME___;
