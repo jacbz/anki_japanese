@@ -155,12 +155,10 @@ function togglePopup(ruby, state) {
     ruby.classList.add("popup");
     requestAnimationFrame(() => {
       if (rt.getBoundingClientRect().left < 0) {
-        console.log(rt.getBoundingClientRect().x);
         rt.style.transform = `translateX(calc(-50% - ${
           rt.getBoundingClientRect().left
         }px))`;
       } else if (rt.getBoundingClientRect().right > window.innerWidth) {
-        console.log(rt.getBoundingClientRect().right, window.innerWidth);
         rt.style.transform = `translateX(calc(-50% + ${
           window.innerWidth - rt.getBoundingClientRect().right
         }px))`;
@@ -339,6 +337,102 @@ function weightedIndexChoice(arr) {
   for (let i = 0, cur = 0; ; i++) {
     cur += arr[i].weight;
     if (val <= cur) return i;
+  }
+}
+
+function hiraganaToKatakana(input) {
+  return input.replace(/[\u3041-\u3096]/g, function (match) {
+    return String.fromCharCode(match.charCodeAt(0) + 0x60);
+  });
+}
+
+const memoizedTTSUrls = {};
+
+async function getTTSUrl(text, forceGoogleTranslate = false) {
+  const sentence = text.replaceAll(/<[^>]+?>/g, " ");
+  // if no API key is set, fallback to use the free Google Translate TTS
+  if (!options.azureApiKey || forceGoogleTranslate) {
+    const text = sentence.replaceAll(/\[.+?\]/g, "");
+    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(
+      text
+    )}&tl=ja-JP&client=tw-ob`;
+  }
+
+  if (memoizedTTSUrls[sentence]) {
+    return memoizedTTSUrls[sentence];
+  }
+
+  try {
+    const ssmlSentence = sentence
+      .replace(
+        /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
+        (match, kanji, furigana) => {
+          return kanji.length <= 2 ? `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)
+            // insert a ' between two identical characters
+            .replace(/(.)\1/, "$1'$1")}">${kanji}</phoneme>` : kanji;
+        }
+      )
+      .replaceAll("> <", "><");
+
+    // unused: Shiori, Daichi
+    // bug with Keita: numbers are not read
+    let voices = ["Mayu", "Nanami", "Naoki"];
+    voices = voices.sort(() => Math.random() - 0.5);
+
+    // read each sentence with a different voice
+    const sentences = ssmlSentence
+      .split("<br>")
+      .map(
+        (sentence, index) =>
+          `<voice name="ja-JP-${
+            voices[index % voices.length]
+          }Neural">${sentence}</voice>`
+      );
+    console.log(sentences);
+
+    const response = await fetch(options.azureEndPoint, {
+      method: "POST",
+      headers: {
+        "Ocp-Apim-Subscription-Key": options.azureApiKey,
+        "Content-Type": "application/ssml+xml",
+        "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
+        "User-Agent": "curl",
+      },
+      body: `<speak version="1.0" xml:lang="ja-JP">${sentences.join(
+        ""
+      )}</speak>`,
+    });
+
+    if (!response.ok) {
+      throw new Error("Network response was not ok " + response.statusText);
+    }
+
+    const arrayBuffer = await response.arrayBuffer();
+    const audioBlob = new Blob([arrayBuffer], { type: "audio/mp3" });
+    const audioUrl = URL.createObjectURL(audioBlob);
+    memoizedTTSUrls[sentence] = audioUrl;
+    return audioUrl;
+  } catch (error) {
+    console.error("Fetch error:", error);
+  }
+}
+
+async function fetchAudio(text) {
+  const url = await getTTSUrl(text);
+
+  const audioCurrent = document.querySelector("audio");
+  audioCurrent.src = url;
+}
+
+async function playAudio(text) {
+  await fetchAudio(text);
+  const audioCurrent = document.querySelector("audio");
+
+  try {
+    await audioCurrent.play();
+  } catch {
+    audioCurrent.src = await getTTSUrl(text, true);
+    audioCurrent.play();
   }
 }
 

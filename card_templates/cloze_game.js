@@ -1,5 +1,6 @@
 function initClozeGame({
   sentence,
+  sentenceToRead = sentence,
   gameContainer,
   isGerman = false,
   showOverlay = true,
@@ -129,6 +130,9 @@ function initClozeGame({
     wordButtonsContainer.appendChild(wordButton);
   });
 
+  let preloadAudio = true;
+  let preloadCountdown = 2; // preload audio after 2 words
+
   function checkWord(button, force = false) {
     const word = button.dataset.word;
     const clozeSpans = document.querySelectorAll(".cloze.spoiler");
@@ -150,6 +154,12 @@ function initClozeGame({
       }
       button.classList.add("disabled");
       button.disabled = true;
+      preloadCountdown--;
+
+      if (options.autoPlaySentenceOnClozeFinish && preloadAudio && preloadCountdown <= 0) {
+        preloadAudio = false;
+        fetchAudio(sentenceToRead);
+      }
 
       clearErrorOutlines();
 
@@ -181,5 +191,8 @@ function initClozeGame({
   function finish() {
     gameContainer.classList.add("finished");
     gameContainer.classList.remove("tappable");
+    if (options.autoPlaySentenceOnClozeFinish) {
+      playAudio(sentenceToRead);
+    }
   }
 }

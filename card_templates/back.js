@@ -60,7 +60,6 @@ formatDefinition();
 const sentencesInner = document.getElementById("sentences-inner");
 const sentencesData = sentencesInner.innerHTML;
 let sentencesPairs = sentencesData.split("\n\n");
-const firstSentence = sentencesPairs[0].split("\n")[0];
 sentencesPairs = shuffleSentences(sentencesPairs, false);
 
 let currentSentence = 0;
@@ -78,13 +77,12 @@ const audioButton = function (sentence) {
 const gameContainer = document.getElementById("cloze-game");
 function refreshExampleSentences() {
   const [jp, jp_reading, de] = sentencesPairs[currentSentence].split("\n");
-  const isFirstSentence = jp === firstSentence;
 
   if (showClozeGame) {
     sentencesInner.innerHTML = japaneseFirst
       ? `<div class="jp" data-sentence="${encodeURIComponent(
           jp_reading
-        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</div>`
+        )}">${jp_reading}</div>`
       : `<div class="de">${de}</div>`;
 
     gameContainer.style.display = null;
@@ -103,10 +101,10 @@ function refreshExampleSentences() {
     sentencesInner.innerHTML = japaneseFirst
       ? `<div class="jp" data-sentence="${encodeURIComponent(
           jp_reading
-        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</div><div class="de spoiler">${de}</div>`
+        )}">${jp_reading}</div><div class="de spoiler">${de}</div>`
       : `<span class="jp spoiler" data-sentence="${encodeURIComponent(
           jp_reading
-        )}" data-is-first-sentence="${isFirstSentence}">${jp_reading}</span><div class="de">${de}</div>`;
+        )}">${jp_reading}</span><div class="de">${de}</div>`;
 
     gameContainer.style.display = "none";
   }
@@ -155,112 +153,13 @@ function formatSentences(within = document) {
   initAudioButtons(within);
 }
 
-function hiraganaToKatakana(input) {
-  return input.replace(/[\u3041-\u3096]/g, function (match) {
-    return String.fromCharCode(match.charCodeAt(0) + 0x60);
-  });
-}
-
-const memoizedTTSUrls = {};
-async function getTTSUrl(sentence, forceGoogleTranslate = false) {
-  sentence = decodeURIComponent(sentence);
-  sentence = sentence.replaceAll(/<[^>]+?>/g, " ");
-  // if no API key is set, fallback to use the free Google Translate TTS
-  if (!options.azureApiKey || forceGoogleTranslate) {
-    const text = sentence.replaceAll(/\[.+?\]/g, "");
-    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(
-      text
-    )}&tl=ja-JP&client=tw-ob`;
-  }
-
-  if (memoizedTTSUrls[sentence]) {
-    return memoizedTTSUrls[sentence];
-  }
-
-  try {
-    const ssmlSentence = sentence
-      .replace(
-        /\s?([^\s\p{P}0-9]+?)\[([^\s\p{P}0-9]+?)\]/gu,
-        (match, kanji, furigana) => {
-          return kanji.length <= 2 ? `<phoneme alphabet="sapi" ph="${hiraganaToKatakana(furigana)
-            // insert a ' between two identical characters
-            .replace(/(.)\1/, "$1'$1")}">${kanji}</phoneme>` : kanji;
-        }
-      )
-      .replaceAll("> <", "><");
-
-    // unused: Shiori, Daichi
-    // bug with Keita: numbers are not read
-    let voices = ["Mayu", "Nanami", "Naoki"];
-    voices = voices.sort(() => Math.random() - 0.5);
-
-    // read each sentence with a different voice
-    const sentences = ssmlSentence
-      .split("<br>")
-      .map(
-        (sentence, index) =>
-          `<voice name="ja-JP-${
-            voices[index % voices.length]
-          }Neural">${sentence}</voice>`
-      );
-    console.log(sentences);
-
-    const response = await fetch(options.azureEndPoint, {
-      method: "POST",
-      headers: {
-        "Ocp-Apim-Subscription-Key": options.azureApiKey,
-        "Content-Type": "application/ssml+xml",
-        "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
-        "User-Agent": "curl",
-      },
-      body: `<speak version="1.0" xml:lang="ja-JP">${sentences.join(
-        ""
-      )}</speak>`,
-    });
-
-    if (!response.ok) {
-      throw new Error("Network response was not ok " + response.statusText);
-    }
-
-    const arrayBuffer = await response.arrayBuffer();
-    const audioBlob = new Blob([arrayBuffer], { type: "audio/mp3" });
-    const audioUrl = URL.createObjectURL(audioBlob);
-    memoizedTTSUrls[sentence] = audioUrl;
-    return audioUrl;
-  } catch (error) {
-    console.error("Fetch error:", error);
-  }
-}
-
-const audioCurrent = document.querySelector("audio");
 function initAudioButtons(within = document) {
   within.querySelectorAll(".play-sentence").forEach(async function (el) {
     el.onclick = async function (event) {
       event.stopPropagation();
 
       const sentence = this.dataset.sentence;
-      let url;
-
-      if (
-        el.closest(".jp") &&
-        el.closest(".jp").dataset.isFirstSentence === "true"
-      ) {
-        url = `${getAnkiPrefix()}/JP5000_sentence_${rank
-          .toString()
-          .padStart(4, "0")}.mp3`;
-      }
-
-      if (!url) {
-        url = await getTTSUrl(sentence);
-      }
-
-      try {
-        audioCurrent.src = url;
-        await audioCurrent.play();
-      } catch {
-        audioCurrent.src = await getTTSUrl(sentence, true);
-        audioCurrent.play();
-      }
+      await playAudio(decodeURIComponent(sentence));
     };
   });
 

@@ -18,7 +18,7 @@ function render() {
   const gameContainer = document.getElementById("cloze-game");
   gameContainer.innerHTML = "";
   gameContainer.className = "";
-  initClozeGame({sentence: de, gameContainer, isGerman: true});
+  initClozeGame({sentence: de, sentenceToRead: jp, gameContainer, isGerman: true});
 
   enableRuby();
 }
